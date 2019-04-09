@@ -5,4 +5,6 @@ assets/js/
 assets/uswds/
 node_modules/
 vendor/
+.DS_Store
+_sass/.DS_Store
 
