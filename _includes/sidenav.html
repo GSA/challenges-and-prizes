@@ -4,37 +4,24 @@ _layouts/page.html layout template, or you can add "sidenav: true" in the front-
 {% endcomment %}
 
 <aside class="usa-layout-docs-sidenav desktop:grid-col-3">
+    {% include agency.html %}
   <nav>
     <ul class="usa-sidenav">
       <li class="usa-sidenav__item">
-      <a href="">Parent link</a>
-    </li><li class="usa-sidenav__item">
-      <a href="" class="usa-current">Current page</a><ul class="usa-sidenav__sublist">
-        <li class="usa-sidenav__item">
-      <a href="">Child link</a>
-    </li><li class="usa-sidenav__item">
-      <a href="" class="usa-current">Child link</a><ul class="usa-sidenav__sublist">
-        <li class="usa-sidenav__item">
-      <a href="">Grandchild link</a>
-    </li><li class="usa-sidenav__item">
-      <a href="">Grandchild link</a>
-    </li><li class="usa-sidenav__item">
-      <a href="" class="usa-current">Grandchild link</a>
-    </li><li class="usa-sidenav__item">
-      <a href="">Grandchild link</a>
-    </li>
-      </ul>
-    </li><li class="usa-sidenav__item">
-      <a href="">Child link</a>
-    </li><li class="usa-sidenav__item">
-      <a href="">Child link</a>
-    </li><li class="usa-sidenav__item">
-      <a href="">Child link</a>
-    </li>
-      </ul>
-    </li><li class="usa-sidenav__item">
-      <a href="">Parent link</a>
-    </li>
+        <a href="#description">Description</a>
+      </li>
+      <li class="usa-sidenav__item">
+        <a href="#rules">Rules</a>
+      </li>
+      <li class="usa-sidenav__item">
+        <a href="#judging-criteria">Judging Criteria</a>
+      </li>
+      <li class="usa-sidenav__item">
+        <a href="#how-to-enter">How To Enter</a>
+      </li>
     </ul>
   </nav>
+  {% if page.prizes == true %}
+    {% include prizes.html %}
+  {% endif %}
 </aside>
