@@ -8,7 +8,7 @@ layout: default
     {% include sidenav.html %}
   {% endif %}
 
-  <div class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
+  <div class="desktop:grid-col-6 usa-prose">  <!-- removed usa-layout-docs__main for prizes sidebar -->
     <h1>{{ page.challenge-title }}</h1>
     <h3>{{ page.tagline }}</h3>
     <div class="usa-section--light">
@@ -19,4 +19,5 @@ layout: default
     </div>
     {{ content }}
   </div>
+  {% include prizes-sidenav.html %}
 </div>
