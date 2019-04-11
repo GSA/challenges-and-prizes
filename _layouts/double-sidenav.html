@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="grid-row grid-gap">
+
+  {% if page.sidenav == true %}
+    {% include sidenav.html %}
+  {% endif %}
+
+  <div class="desktop:grid-col-6 usa-prose">  <!-- removed usa-layout-docs__main for prizes sidebar -->
+    <h2>{{ page.challenge-title }}</h2>
+    <h3>{{ page.tagline }}</h3>
+    <div class="usa-section--light">
+        <p>
+            Submission Start: {{ page.submission-start }}<br>
+            Submission End: {{ page.submission-end }}
+        </p>
+    </div>
+    {{ content }}
+  </div>
+  {% if page.prizes-nav == true %}
+  {% include prizes-sidenav.html %}
+  {% endif %}
+</div>

@@ -1,0 +1,43 @@
+---
+layout: default
+permalink: json-page
+---
+
+<div class="grid-row grid-gap">
+
+
+        {% include sidenav.html %}
+
+    
+    <div class="desktop:grid-col-9 usa-prose">  <!-- removed usa-layout-docs__main for prizes-->
+        <h1>{{ site.data.challenges.name }}</h1>
+        <h3>{{ site.data.challenges.tagline }}</h3>
+        <div class="usa-section--light">
+            <p>
+                Submission Start: {{ site.data.challenges.campaignAttributes.attributes.submission-start-date }}<br>
+                Submission End: {{ site.data.challenges.campaignAttributes.attributes.submission-end-date }}
+            </p>
+        </div>
+        <div id="description">
+            <h3>Decription</h3>
+            {{ site.data.challenges.description }}
+        </div>
+        <hr>
+        <div id="rules">
+            <h3>Rules</h3>
+            {{ site.data.challenges.campaignAttributes.attributes.rules }}
+        </div>
+        <hr>
+        <div id="judging-criteria">
+            <h3>Judging Criteria</h3>
+            {{ site.data.challenges.campaignAttributes.groupAttributes.[0].judging-criteria-description-0 }}
+        </div>
+        <hr>
+        <div id="how-to-enter">
+            <h3>How To Enter</h3>
+            {{ site.data.challenges.campaignAttributes.attributes. how-to-enter }}
+        </div>
+    </div>
+    </div>
+
+   
