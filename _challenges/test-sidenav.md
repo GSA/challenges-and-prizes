@@ -1,17 +1,29 @@
 ---
-layout: page
+layout: challenges
 permalink: /test-sidenav/
 sidenav: true
-Type Of Challenge: Ideas
-Submission start: 02/22/2019 12:00 PM UTC
-Submission end: 04/08/2019 11:59 PM UTC
-Partner Agencies - Federal: U.S. Geological Survey   
+banner-image: 
+card-image:
+external-url:
+challenge-title: Lowering the Cost of Continuous Streamflow Monitoring - Stage I
+tagline: Can you help us lower the cost of continuous streamflow monitoring?
+intro:  Text to appear on home page card
+agency: Bureau of Reclamation
+agency-short-name: usbr
+partner-agencies-federal: U.S. Geological Survey 
+partners-non-federal:
+type-of-challenge: Ideas
+submission-start: 02/22/2019 12:00 PM UTC
+submission-end: 04/08/2019 11:59 PM UTC
+submission-link: 
+legal-authority:
+fiscal-year:  
+prizes: true
+total-prize-amount:
+prize-name-1:
+prize-description-1:
+prize-amount-1:
 ---
-
-# Lowering the Cost of Continuous Streamflow Monitoring - Stage I
-
-### Can you help us lower the cost of continuous streamflow monitoring?
-                
 
 <!-- Description -->
 {::options parse_block_html="true" /}
@@ -19,8 +31,15 @@ Partner Agencies - Federal: U.S. Geological Survey
 
 ### Description
 The Bureau of Reclamation (Reclamation) and US Geological Survey (USGS) are seeking new and innovative methods to significantly reduce the cost of continuous streamflow monitoring compared to current methods.&nbsp; The prize purse for this Stage I challenge is $75,000.&nbsp;&nbsp; Future stages are envisioned including lab and field testing of prototype systems.
+
 This Stage I challenge is a theoretical competition seeking a white paper submission detailing the proposed method for continuous streamflow monitoring, including a thorough description of the physical principles underlying the proposed method, all equipment and operation and maintenance (O&amp;M) procedures required to implement the method, and estimated costs.
-Water resources planning, management, and research rely extensively on accurate and reliable streamflow data. Long-term streamflow records, for example, are critical to the design of water supply and flood control projects, as well as infrastructure in and adjacent to stream channels. Similarly, water managers rely on real-time streamflow data to support water supply and flood control operations, including forecast and early warning systems for droughts and floods. Long-term and real-time streamflow data also support a broad range of water resources and environmental research. Despite the importance of streamflow data, the existing network of continuous streamflow monitoring stations (also referred to as stream gages) in the United States has generally declined over the past several decades. The number of stream gages operated by the US Geological Survey peaked in the late 1960s and declined nearly 20% by the late 1990s. The primary driver of this decline is the cost of installing, operating, and maintaining stream gages. Between 2000 and 2009, additional funding was made available to reactivate approximately half of the deactivated gages; however, the cost of installing, operating, and maintaining stream gages remains a significant challenge to Federal, Tribal, State, and local water agencies.This prize competition seeks new methods or technologies to significantly reduce the equipment and/or labor costs of continuous streamflow monitoring. Methods must be applicable to continuous monitoring of the volumetric flow rate of water in open channels, including natural channels (e.g., streams and rivers) and engineered channels (e.g., aqueducts, canals, and drainage channels). Methods should be applicable across wide range of flow rates, channel sizes, and channel geometries, and the accuracy and reliability of methods should be comparable or better than current methods.A brief video describing this Challenge can be found here.
+
+Water resources planning, management, and research rely extensively on accurate and reliable streamflow data. Long-term streamflow records, for example, are critical to the design of water supply and flood control projects, as well as infrastructure in and adjacent to stream channels. Similarly, water managers rely on real-time streamflow data to support water supply and flood control operations, including forecast and early warning systems for droughts and floods. Long-term and real-time streamflow data also support a broad range of water resources and environmental research. 
+
+Despite the importance of streamflow data, the existing network of continuous streamflow monitoring stations (also referred to as stream gages) in the United States has generally declined over the past several decades. The number of stream gages operated by the US Geological Survey peaked in the late 1960s and declined nearly 20% by the late 1990s. The primary driver of this decline is the cost of installing, operating, and maintaining stream gages. Between 2000 and 2009, additional funding was made available to reactivate approximately half of the deactivated gages; however, the cost of installing, operating, and maintaining stream gages remains a significant challenge to Federal, Tribal, State, and local water agencies.
+
+This prize competition seeks new methods or technologies to significantly reduce the equipment and/or labor costs of continuous streamflow monitoring. Methods must be applicable to continuous monitoring of the volumetric flow rate of water in open channels, including natural channels (e.g., streams and rivers) and engineered channels (e.g., aqueducts, canals, and drainage channels). Methods should be applicable across wide range of flow rates, channel sizes, and channel geometries, and the accuracy and reliability of methods should be comparable or better than current methods.A brief video describing this Challenge can be found [here](https://www.usbr.gov/research/challenges/streamflow.html).
+
 Challenge is set to launch Friday, February 22, 2019, 12:00 PM ET.&nbsp; Submissions will be accepted for 45 days (concludes April 8, 2019 at 11:59 PM ET).
 </div>
 
