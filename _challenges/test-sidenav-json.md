@@ -1,9 +1,12 @@
 ---
 layout: json-page
 permalink: /test-sidenav-json/
+challenge-id: 972
 sidenav: true
 banner-image: 
+callout: 2018 "$100,000 for Start a SUD Startup" Challenge
 card-image:
+agency-short-name: usbr
 ---
 
 <!-- Description -->

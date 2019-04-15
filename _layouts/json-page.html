@@ -2,23 +2,32 @@
 layout: default
 permalink: json-page
 ---
+  
+    <div class="grid-container">
+    <div class="grid-row grid-gap">
+    {% include sidenav.html %}
 
-<div class="grid-row grid-gap">
-    
-        {% include sidenav.html %}
-    <div class="desktop:grid-col-9 usa-prose">  <!-- removed usa-layout-docs__main for prizes-->
-        <h1>{{ site.data.challenges.name }}</h1>
-        <h3>{{ site.data.challenges.tagline }}</h3>
-        <div class="usa-section--light">
-            <p>
-                Submission Start: {{ site.data.challenges.campaignAttributes.attributes.submission-start-date }}<br>
-                Submission End: {{ site.data.challenges.campaignAttributes.attributes.submission-end-date }}
-            </p>
+    {% for challenge in site.data.challenges %}
+       {% if challenge.id == page.challenge-id %}
+        <div class="desktop:grid-col-9 usa-prose usa-section">  <!-- removed usa-layout-docs__main for prizes-->
+            <h1>{{ challenge.name }}</h1>
+            <h3>{{ challenge.tagline }}</h3>
+            <div class="usa-section--light">
+                <p>
+                    Submission Start: {{ challenge.campaignAttributes.attributes.submission-start-date }}<br>
+                    Submission End: {{ challenge.campaignAttributes.attributes.submission-end-date }}
+                </p>
+            </div>
+            {% endif %}
+            {% endfor %}
+            <div>
+                {{ content }} 
+            </div>
         </div>
-        <div class="desktop:grid-col-9 usa-prose">
-            {{ content }} 
-        </div>
+
+      
     </div>
     </div>
+ 
 
    

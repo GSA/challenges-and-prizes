@@ -1,5 +1,5 @@
 ---
-layout: double-sidenav
+layout: page
 permalink: /test-sidenav-include/
 sidenav: true
 banner-image: 
@@ -40,7 +40,7 @@ Water resources planning, management, and research rely extensively on accurate 
 
 Despite the importance of streamflow data, the existing network of continuous streamflow monitoring stations (also referred to as stream gages) in the United States has generally declined over the past several decades. The number of stream gages operated by the US Geological Survey peaked in the late 1960s and declined nearly 20% by the late 1990s. The primary driver of this decline is the cost of installing, operating, and maintaining stream gages. Between 2000 and 2009, additional funding was made available to reactivate approximately half of the deactivated gages; however, the cost of installing, operating, and maintaining stream gages remains a significant challenge to Federal, Tribal, State, and local water agencies.
 
-This prize competition seeks new methods or technologies to significantly reduce the equipment and/or labor costs of continuous streamflow monitoring. Methods must be applicable to continuous monitoring of the volumetric flow rate of water in open channels, including natural channels (e.g., streams and rivers) and engineered channels (e.g., aqueducts, canals, and drainage channels). Methods should be applicable across wide range of flow rates, channel sizes, and channel geometries, and the accuracy and reliability of methods should be comparable or better than current methods.A brief video describing this Challenge can be found [here](https://www.usbr.gov/research/challenges/streamflow.html).
+This prize competition seeks new methods or technologies to significantly reduce the equipment and/or labor costs of continuous streamflow monitoring. Methods must be applicable to continuous monitoring of the volumetric flow rate of water in open channels, including natural channels (e.g., streams and rivers) and engineered channels (e.g., aqueducts, canals, and drainage channels). Methods should be applicable across wide range of flow rates, channel sizes, and channel geometries, and the accuracy and reliability of methods should be comparable or better than current methods.A brief video describing this Challenge can be found.
 
 Challenge is set to launch Friday, February 22, 2019, 12:00 PM ET.&nbsp; Submissions will be accepted for 45 days (concludes April 8, 2019 at 11:59 PM ET).
 </div>
