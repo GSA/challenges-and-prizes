@@ -1,0 +1,13 @@
+
+<main id="main-content">
+  <section>
+<div>
+    {% for challenge in site.data.challenges %}
+        {% if challenge.id == page.challenge-id %}
+            {% if challenge.bannerImage == ""  %}
+            <img  class="margin-x-auto" src="{{ site.baseurl }}/assets/images/banners/test-banner.jpg" alt="" title="">
+            {% endif %}
+</div>
+        {% endif %}
+    {% endfor %}
+</section>
