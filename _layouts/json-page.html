@@ -2,23 +2,41 @@
 layout: default
 permalink: json-page
 ---
+  
+    <div class="grid-container">
+    <div class="grid-row grid-gap">
+    {% include sidenav.html %}
 
-<div class="grid-row grid-gap">
-    
-        {% include sidenav.html %}
-    <div class="desktop:grid-col-9 usa-prose">  <!-- removed usa-layout-docs__main for prizes-->
-        <h1>{{ site.data.challenges.name }}</h1>
-        <h3>{{ site.data.challenges.tagline }}</h3>
-        <div class="usa-section--light">
-            <p>
-                Submission Start: {{ site.data.challenges.campaignAttributes.attributes.submission-start-date }}<br>
-                Submission End: {{ site.data.challenges.campaignAttributes.attributes.submission-end-date }}
-            </p>
+    {% for challenge in site.data.challenges %}
+       {% if challenge.id == page.challenge-id %}
+        <div class="desktop:grid-col-9 usa-prose usa-section">  
+            <h1 class="text-primary-dark">{{ challenge.name }}</h1>
+            <h3 class="text-primary">{{ challenge.tagline }}</h3>
+            <div class="text-base-darker bg-primary-lighter outline-1px.outline-transparent radius-lg padding-x-4">
+                <p>
+                        <span class=" text-primary text-uppercase">Type of Challenge:</span>  {{ challenge.campaignAttributes.attributes.type-of-challenge }}</span>
+                        {% if challenge.campaignAttributes.attributes.partner-agencies-federal != "" %}
+                        <span class="text-primary">Partner Agencies | Federal:</span> {{ challenge.campaignAttributes.attributes.partner-agencies-federal }}<br>
+                        {% endif %}
+                        {% if challenge.campaignAttributes.attributes.partner-agencies-non-federal != "" %}
+                        <span class="text-primary">Partner Agencies | Federal:</span> {{ challenge.campaignAttributes.attributes.partner-agencies-non-federal }}<br>
+                        {% endif %}
+                </p>
+                <p>
+                    <span class="text-primary text-uppercase">Submission Start:</span> {{ challenge.campaignAttributes.attributes.submission-start-date }}<br>
+                    <span class="text-primary text-uppercase">Submission End:</span> {{ challenge.campaignAttributes.attributes.submission-end-date }}
+                </p>
+            </div>
+            {% endif %}
+            {% endfor %}
+            <div class="text-base-darker">
+                {{ content }} 
+            </div>
         </div>
-        <div class="desktop:grid-col-9 usa-prose">
-            {{ content }} 
-        </div>
+
+      
     </div>
     </div>
+ 
 
    

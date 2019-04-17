@@ -3,12 +3,15 @@ The sidenav is not loaded by default on the main pages. To include this navigati
 _layouts/page.html layout template, or you can add "sidenav: true" in the front-matter of your pages
 {% endcomment %}
 
-<aside class="usa-layout-docs-sidenav desktop:grid-col-3">
+<aside class="usa-layout-docs-sidenav desktop:grid-col-3 usa-section">
     {% include agency.html %}
   <nav>
     <ul class="usa-sidenav">
       <li class="usa-sidenav__item">
         <a href="#description">Description</a>
+      </li>
+      <li class="usa-sidenav__item">
+        <a href="#prizes">Prizes</a>
       </li>
       <li class="usa-sidenav__item">
         <a href="#rules">Rules</a>
@@ -21,7 +24,4 @@ _layouts/page.html layout template, or you can add "sidenav: true" in the front-
       </li>
     </ul>
   </nav>
-  {% if page.prizes == true %}
-    {% include prizes.html %}
-  {% endif %}
 </aside>

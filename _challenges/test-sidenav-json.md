@@ -1,28 +1,12 @@
 ---
-layout: challenges
-permalink: /test-sidenav/
+layout: json-page
+permalink: /test-sidenav-json/
+challenge-id: 972
 sidenav: true
 banner-image: 
+callout: 2018 "$100,000 for Start a SUD Startup" Challenge
 card-image:
-external-url:
-challenge-title: Lowering the Cost of Continuous Streamflow Monitoring - Stage I
-tagline: Can you help us lower the cost of continuous streamflow monitoring?
-intro:  Text to appear on home page card
-agency: Bureau of Reclamation
 agency-short-name: usbr
-partner-agencies-federal: U.S. Geological Survey 
-partners-non-federal:
-type-of-challenge: Ideas
-submission-start: 02/22/2019 12:00 PM UTC
-submission-end: 04/08/2019 11:59 PM UTC
-submission-link: 
-legal-authority:
-fiscal-year:  
-prizes: true
-total-prize-amount:
-prize-name-1:
-prize-description-1:
-prize-amount-1:
 ---
 
 <!-- Description -->
