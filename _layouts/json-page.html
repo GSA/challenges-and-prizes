@@ -9,18 +9,27 @@ permalink: json-page
 
     {% for challenge in site.data.challenges %}
        {% if challenge.id == page.challenge-id %}
-        <div class="desktop:grid-col-9 usa-prose usa-section">  <!-- removed usa-layout-docs__main for prizes-->
-            <h1>{{ challenge.name }}</h1>
-            <h3>{{ challenge.tagline }}</h3>
-            <div class="usa-section--light">
+        <div class="desktop:grid-col-9 usa-prose usa-section">  
+            <h1 class="text-primary-dark">{{ challenge.name }}</h1>
+            <h3 class="text-primary">{{ challenge.tagline }}</h3>
+            <div class="text-base-darker bg-primary-lighter outline-1px.outline-transparent radius-lg padding-x-4">
                 <p>
-                    Submission Start: {{ challenge.campaignAttributes.attributes.submission-start-date }}<br>
-                    Submission End: {{ challenge.campaignAttributes.attributes.submission-end-date }}
+                        <span class=" text-primary text-uppercase">Type of Challenge:</span>  {{ challenge.campaignAttributes.attributes.type-of-challenge }}</span>
+                        {% if challenge.campaignAttributes.attributes.partner-agencies-federal != "" %}
+                        <span class="text-primary">Partner Agencies | Federal:</span> {{ challenge.campaignAttributes.attributes.partner-agencies-federal }}<br>
+                        {% endif %}
+                        {% if challenge.campaignAttributes.attributes.partner-agencies-non-federal != "" %}
+                        <span class="text-primary">Partner Agencies | Federal:</span> {{ challenge.campaignAttributes.attributes.partner-agencies-non-federal }}<br>
+                        {% endif %}
+                </p>
+                <p>
+                    <span class="text-primary text-uppercase">Submission Start:</span> {{ challenge.campaignAttributes.attributes.submission-start-date }}<br>
+                    <span class="text-primary text-uppercase">Submission End:</span> {{ challenge.campaignAttributes.attributes.submission-end-date }}
                 </p>
             </div>
             {% endif %}
             {% endfor %}
-            <div>
+            <div class="text-base-darker">
                 {{ content }} 
             </div>
         </div>
