@@ -3,7 +3,7 @@
         <div class="grid-container">
             <div class="grid-row">
                 {% for challenge in site.data.challenges %}
-            <div class="tablet:grid-col-4 cards">
+            <div class="tablet:grid-col-3 cards">
                     <div class="card hover:bg-primary-lighter">
                         <div class="card__image" style="background-image: url('{{ site.baseurl }}/assets/images/agency/challenge-gov.png')"></div>
                         <div>
@@ -15,7 +15,7 @@
                         <div class="card__body text-base-darker">
                             
                         </div>
-                        <div class="card__action card__action-block"> <a href="http://www.oit.va.gov/tech-incubator/pledge" class="usa-button radius-0">Action button </a> </div>
+                        <div class="card__action card__action-block"> <a href="{{ site.baseurl }}/{{ challenge.name | slugify }} " class="usa-button radius-0">Action button </a> </div>
                     </div>
             </div>
                 {% endfor %}
