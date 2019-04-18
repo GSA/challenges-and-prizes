@@ -29,7 +29,9 @@ i.e.
     max-width: 100% !important;
 }
 
-
+.grid-container {
+    max-width: 74rem;
+}
 // Challenge Home Page Listing Card Styles
 .cards {
     display: grid;
