@@ -19,3 +19,71 @@ i.e.
 @include u-padding-right('05');
 ----------------------------------------
 */
+
+.usa-header--extended .usa-logo {
+    margin-top: 1rem !important;
+    margin-bottom: 0 !important;
+}
+
+.usa-hero__callout {
+    max-width: 100% !important;
+}
+
+
+// Challenge Home Page Listing Card Styles
+.cards {
+    display: grid;
+    margin-bottom: 2em;
+} 
+
+.card {
+	display: flex;
+	flex-direction: column;
+    width: 100%;
+    padding: 1em;
+    background-color: white;
+}
+
+.card__image {
+	background-position: center center;
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+	overflow: hidden;
+    position: relative;
+
+
+	&::before {
+		content: "";
+		display: block;
+		padding-top: 65%; // 16:9 aspect ratio
+	}
+}
+
+.card__body {
+	flex: 1 1 auto;
+}
+
+.card__title {
+	display: block;
+	padding-left: spacing-multiple(2);
+	padding-right: spacing-multiple(2);
+}
+
+.card__action {
+	display: block;
+	width: 100%;
+	bottom: 0;
+	padding: spacing-multiple(2);
+}
+
+.card__action-block {
+	text-align: center;
+	padding: 0;
+
+	.usa-button {
+		display: block;
+		width: 100%;
+	}
+}
+
