@@ -1,0 +1,24 @@
+
+<section class="usa-section">
+        <div class="grid-container">
+            <div class="grid-row">
+                {% for challenge in site.data.challenges %}
+            <div class="tablet:grid-col-4 cards">
+                    <div class="card hover:bg-primary-lighter">
+                        <div class="card__image" style="background-image: url('{{ site.baseurl }}/assets/images/agency/challenge-gov.png')"></div>
+                        <div>
+                            <span class="text-gray-50 padding-top-1">{{ challenge.groupName }}</span>
+                            <h3 class="text-primary-dark text-bold text-uppercase margin-y-1 text-ls-1">{{ challenge.name }}</h3>
+                            <span class="text-base-darker text-thin">{{ challenge.tagline }}</span>
+                            <p><span class="text-bold">Open Until:</span> {{ challenge.campaignAttributes.attributes.submission-end-date }} ET</p>
+                        </div>
+                        <div class="card__body text-base-darker">
+                            
+                        </div>
+                        <div class="card__action card__action-block"> <a href="http://www.oit.va.gov/tech-incubator/pledge" class="usa-button radius-0">Action button </a> </div>
+                    </div>
+            </div>
+                {% endfor %}
+            </div>
+        </div>
+</section>
