@@ -22,6 +22,7 @@ total-prize-amount:
 ---
 
 
+
 <!-- Description -->
 ### Description
 <div class="description">
@@ -350,3 +351,4 @@ total-prize-amount:
 <p style="text-align: center;"><a href="/community-library/1043/PSCR_HapticInterfacesforPublicSafetyChallenge_OfficialRules.pdf" target="_blank" rel="noopener"><strong><span lang="EN">View the Official Rules document for details on entering all other contest phases.</span></strong></a></p>
 </div>
 </div> <!-- ./challenge-how-to-enter -->
+
