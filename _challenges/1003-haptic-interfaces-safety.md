@@ -1,6 +1,6 @@
 ---
 layout: json-page
-permalink: /haptic-interfaces-for-public-safety-challenge
+permalink: /challenges/haptic-interfaces-for-public-safety-challenge
 challenge-id: 1003
 sidenav: true
 banner-image: 
