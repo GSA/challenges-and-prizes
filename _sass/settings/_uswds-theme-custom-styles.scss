@@ -95,3 +95,24 @@ i.e.
 	position: sticky;
 	top: 10px;
 }
+
+// Challenge Details Accordian
+.usa-accordion__button--primary-darkest {
+	background-image: url("/assets/uswds/img/angle-arrow-up-white.svg");
+	background-color: color('primary-dark');
+	color: color('white');
+	line-height: 1.7;
+
+	&:hover {
+		background-color: color('primary');
+		color: color('white');
+	}
+}
+
+.usa-accordion__button--primary-darkest[aria-expanded=false] {
+	background-image: url("/assets/uswds/img/angle-arrow-down-white.svg");
+}
+
+.usa-accordion__content {
+	line-height: 2;
+}
