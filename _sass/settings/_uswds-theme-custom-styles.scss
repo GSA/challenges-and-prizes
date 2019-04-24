@@ -110,7 +110,7 @@ i.e.
 }
 
 .usa-accordion__button--primary-darkest[aria-expanded=false] {
-	background-image: url("/angle-arrow-down-white.svg");
+	background-image: url("#{$theme-image-path}/angle-arrow-down-white.svg");
 }
 
 .usa-accordion__content {
