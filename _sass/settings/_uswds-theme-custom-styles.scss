@@ -96,6 +96,10 @@ i.e.
 	top: 10px;
 }
 
+.usa-sidenav a {
+	padding-left: 0;
+}
+
 // Challenge Details Accordian
 .usa-accordion__button--primary-darkest {
 	background-image: url("#{$theme-image-path}/angle-arrow-up-white.svg");
