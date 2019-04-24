@@ -98,7 +98,7 @@ i.e.
 
 // Challenge Details Accordian
 .usa-accordion__button--primary-darkest {
-	background-image: url("./assets/uswds/img/angle-arrow-up-white.svg");
+	background-image: url("#{$theme-image-path}/assets/uswds/img/angle-arrow-up-white.svg");
 	background-color: color('primary-dark');
 	color: color('white');
 	line-height: 1.7;
