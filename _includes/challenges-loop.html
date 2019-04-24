@@ -1,21 +1,26 @@
-
 <section class="usa-section">
         <div class="grid-container">
             <div class="grid-row">
-                {% for challenge in site.data.challenges %}
+                {% assign sorted = (site.challenges | sort: 'submission-end') %}
+                {% for challenge in sorted %}
             <div class="tablet:grid-col-3 cards">
                     <div class="card hover:bg-primary-lighter">
-                        <div class="card__image" style="background-image: url('{{ site.baseurl }}/assets/images/agency/challenge-gov.png')"></div>
+                        <div class="card__image" style="background-image: url('{{ site.baseurl }}{{ challenge.card-image }}')"></div>
                         <div>
-                            <span class="text-gray-50 padding-top-1">{{ challenge.groupName }}</span>
-                            <h3 class="text-primary-dark text-bold text-uppercase margin-y-1 text-ls-1">{{ challenge.name }}</h3>
-                            <span class="text-base-darker text-thin">{{ challenge.tagline }}</span>
-                            <p><span class="text-bold">Open Until:</span> {{ challenge.campaignAttributes.attributes.submission-end-date }} ET</p>
+                            {% assign dataset = site.data.challenges %}
+                            {% for item in dataset %}
+                            {% if item.id == challenge.challenge-id %}
+                            <span class="text-gray-50 padding-top-1">{{ item.groupName }}</span>
+                            <h3 class="text-primary-dark text-bold text-uppercase margin-y-1 text-ls-1">{{ item.name }}</h3>
+                            <span class="text-base-darker text-thin">{{ item.tagline }}</span>
+                            <p><span class="text-bold">Open Until:</span> {{ item.campaignAttributes.attributes.submission-end-date }} ET</p>
                         </div>
                         <div class="card__body text-base-darker">
                             
                         </div>
-                        <div class="card__action card__action-block"> <a href="{{ site.baseurl }}/challenges/{{ challenge.name | slugify }} " class="usa-button radius-0">Action button </a> </div>
+                        <div class="card__action card__action-block"> <a href="{{ site.baseurl }}/challenges/{{ item.name | slugify }} " class="usa-button radius-0">Action button </a> </div>
+                            {% endif %}
+                            {% endfor %}
                     </div>
             </div>
                 {% endfor %}
