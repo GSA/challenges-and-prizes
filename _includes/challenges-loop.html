@@ -3,7 +3,7 @@
             <div class="grid-row">
                 {% assign sorted = (site.challenges | sort: 'submission-end') %}
                 {% for challenge in sorted %}
-            <div class="tablet:grid-col-3 cards">
+            <div class="tablet:grid-col-4 cards">
                     <div class="card hover:bg-primary-lighter">
                         <a href="{{ site.baseurl }}{{ challenge.url }}">
                         <div class="card__image" style="background-image: url('{{ site.baseurl }}{{ challenge.card-image }}')"></div>
