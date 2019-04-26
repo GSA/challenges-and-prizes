@@ -91,9 +91,11 @@ i.e.
 
 // Sidenav
 .usa-layout-docs-sidenav {
-	align-self: flex-start;
-	position: sticky;
-	top: 10px;
+	@include at-media(desktop) {
+		align-self: flex-start;
+		position: sticky;
+		top: 10px;
+	}
 }
 
 .usa-sidenav a {
