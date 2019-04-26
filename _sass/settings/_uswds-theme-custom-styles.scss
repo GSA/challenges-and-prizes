@@ -41,24 +41,24 @@ i.e.
 .card {
 	display: flex;
 	flex-direction: column;
-    width: 100%;
-    padding: 1em;
+    margin: 1em;
     background-color: white;
 }
 
 .card__image {
-	background-position: center center;
 	background-repeat: no-repeat;
+	background: center;
     background-size: cover;
     background-color: white;
 	overflow: hidden;
-    position: relative;
+	position: relative;
+	margin-bottom: .5em;
 
 
 	&::before {
 		content: "";
 		display: block;
-		padding-top: 65%; // 16:9 aspect ratio
+		padding-top: 47%; 
 	}
 }
 
