@@ -25,6 +25,12 @@ i.e.
     margin-bottom: 0 !important;
 }
 
+@media (max-width: 1024px) {
+	.usa-header--extended {
+	  margin-bottom: 2.1rem !important;
+	}
+  }
+
 .usa-hero__callout {
     max-width: 100% !important;
 }
