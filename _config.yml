@@ -44,14 +44,6 @@ primary_navigation:
     url: /toolkit/
   - name: Contact
     url: /contact/
-  - name: Document submenu
-    children:
-      - name: Navigation link
-        url: '#main-content'
-      - name: Navigation link
-        url: '#main-content'
-      - name: Navigation link
-        url: '#main-content'
 
 secondary_navigation:
   - name: Secondary link
