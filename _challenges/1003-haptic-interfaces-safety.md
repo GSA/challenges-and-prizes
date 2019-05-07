@@ -25,6 +25,8 @@ total-prize-amount:
 
 <!-- Description -->
 ### Description
+{: .text-accent-warm-dark .font-heading-lg}
+
 <div class="description">
 
 <p><img src="{{ site.baseurl }}/assets/images/challenge-content/timelinehapticschallenge.jpg" width="829" height="233" /></p>
@@ -49,6 +51,7 @@ total-prize-amount:
 
 <!-- Prizes Start -->
 ### Prizes
+{: .text-accent-warm-dark .font-heading-lg}
 
 <div class="prize-item">
 <h4 class="text-primary">Phase 1 Concept Paper Contest</h4>
@@ -126,6 +129,7 @@ total-prize-amount:
 <!-- Rules Start -->
 
 ### Rules 
+{: .text-accent-warm-dark .font-heading-lg}
 
 
 <p style="text-align: center;"><strong><span lang="EN">Official Rules of Phase 1: Concept Paper Contest</span></strong></p>
@@ -284,8 +288,13 @@ total-prize-amount:
 <div style="text-align: center;">&nbsp;</div>
 <div style="text-align: center;"><a href="/community-library/1043/PSCR_HapticInterfacesforPublicSafetyChallenge_OfficialRules.pdf" target="_blank" rel="noopener"><strong><span lang="EN">View the Official Rules document for all contest phases.</span></strong></a></div>
 <div style="text-align: center;"><span lang="EN">For questions about the Official Rules, contact:&nbsp;<a href="mailto:psprizes@nist.gov">psprizes@nist.gov</a></span></div>
+<!-- end of Rules -->
 
+
+<!-- start of Judging -->
 ### Judging Criteria
+{: .text-accent-warm-dark .font-heading-lg}
+
 <div id="judging-criteria">
 
 <div class="prize-item">
@@ -335,6 +344,7 @@ total-prize-amount:
 <!--  How To Enter -->
 
 ### How To Enter
+{: .text-accent-warm-dark .font-heading-lg}
 
 <div role="tabpanel" aria-labelledby="challenge-how-to-enter-tab" tabindex="0" class="tab-pane" id="challenge-how-to-enter">
 <div class="jumbotron description">
