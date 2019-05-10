@@ -138,6 +138,15 @@ i.e.
 	padding: 0;
 }
 
+//Toolkit Resources page
+li {
+	padding: 1em;
+}
+li a {
+	text-decoration: none;
+	color: color('primary');
+}
+
 .case-studies li {
 	text-decoration: none;
 	list-style-type: none;
