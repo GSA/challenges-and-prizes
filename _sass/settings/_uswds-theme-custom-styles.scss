@@ -127,6 +127,31 @@ i.e.
 	line-height: 2;
 }
 
+// Toolkit - Resource page links
+
+.ss-link {
+	text-decoration: none;
+	list-style-type: none;
+}
+
+.sf-list {
+	padding: 0;
+}
+
+//Toolkit Resources page
+li {
+	padding: 1em;
+}
+li a {
+	text-decoration: none;
+	color: color('primary');
+}
+
+.case-studies li {
+	text-decoration: none;
+	list-style-type: none;
+}
+
 //Toolkit
 .toolkit-nav {
 	margin-bottom: 2rem;
