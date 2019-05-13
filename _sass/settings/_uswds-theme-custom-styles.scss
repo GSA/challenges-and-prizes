@@ -38,6 +38,11 @@ i.e.
 .grid-container {
     max-width: 74rem;
 }
+
+.usa-nav__secondary {
+	bottom: 6rem !important;
+}
+
 // Challenge Home Page Listing Card Styles
 .cards {
     display: grid;
@@ -139,11 +144,11 @@ i.e.
 }
 
 //Toolkit Case Studies page
-li {
+.case-studies li {
 	padding: 1em;
 }
 
-li a {
+.case-studies li a {
 	text-decoration: none;
 	color: color('primary');
 }
@@ -155,10 +160,10 @@ li a {
 
 //Toolkit
 .toolkit-nav {
-	margin-bottom: 2rem;
+	margin-bottom: 1rem;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 2rem;
+	margin-top: 1rem;
 	max-width: 64rem;
 	padding-left: 1rem;
 	padding-right: 1rem;
