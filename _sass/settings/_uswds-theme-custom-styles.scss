@@ -19,3 +19,146 @@ i.e.
 @include u-padding-right('05');
 ----------------------------------------
 */
+
+.usa-header--extended .usa-logo {
+    margin-top: 1rem !important;
+    margin-bottom: 0 !important;
+}
+
+@media (max-width: 1024px) {
+	.usa-header--extended {
+	  margin-bottom: 2.1rem !important;
+	}
+  }
+
+.usa-hero__callout {
+    max-width: 100% !important;
+}
+
+.grid-container {
+    max-width: 74rem;
+}
+// Challenge Home Page Listing Card Styles
+.cards {
+    display: grid;
+    margin-bottom: 2em;
+} 
+
+.card {
+	display: flex;
+	flex-direction: column;
+    margin: 1em;
+    background-color: white;
+}
+
+.card__image {
+	background-repeat: no-repeat;
+	background: center;
+    background-size: cover;
+    background-color: white;
+	overflow: hidden;
+	position: relative;
+	margin-bottom: .5em;
+
+
+	&::before {
+		content: "";
+		display: block;
+		padding-top: 47%; 
+	}
+}
+
+.card__body {
+	flex: 1 1 auto;
+}
+
+.card__title {
+	display: block;
+	padding-left: spacing-multiple(2);
+	padding-right: spacing-multiple(2);
+}
+
+.card__action {
+	display: block;
+	width: 100%;
+	bottom: 0;
+	padding: spacing-multiple(2);
+}
+
+.card__action-block {
+	text-align: center;
+	padding: 0;
+
+	.usa-button {
+		display: block;
+		width: 100%;
+	}
+}
+
+// Sidenav
+.usa-layout-docs-sidenav {
+	align-self: flex-start;
+	position: sticky;
+	top: 10px;
+}
+
+.usa-sidenav a {
+	padding-left: 0;
+}
+
+// Challenge Details Accordian
+.usa-accordion__button--primary-darkest {
+	background-image: url("#{$theme-image-path}/angle-arrow-up-white.svg");
+	background-color: color('primary-dark');
+	color: color('white');
+	line-height: 1.7;
+
+	&:hover {
+		background-color: color('primary');
+		color: color('white');
+	}
+}
+
+.usa-accordion__button--primary-darkest[aria-expanded=false] {
+	background-image: url("#{$theme-image-path}/angle-arrow-down-white.svg");
+}
+
+.usa-accordion__content {
+	line-height: 2;
+}
+
+// Toolkit - Resource page links
+
+.ss-link {
+	text-decoration: none;
+	list-style-type: none;
+}
+
+.sf-list {
+	padding: 0;
+}
+
+//Toolkit Resources page
+li {
+	padding: 1em;
+}
+li a {
+	text-decoration: none;
+	color: color('primary');
+}
+
+.case-studies li {
+	text-decoration: none;
+	list-style-type: none;
+}
+
+//Toolkit
+.toolkit-nav {
+	margin-bottom: 2rem;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 2rem;
+	max-width: 64rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+}

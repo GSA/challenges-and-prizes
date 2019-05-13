@@ -18,16 +18,15 @@
 # Be sure to edit the values below
 ##########################################################################################
 
-title: Agency Name
-email:  contact@example.gov
+title: Challenge.gov
+email:  team@challenge.gov
 description: >- # this means to ignore newlines until "baseurl:"
-  Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  Aenean et sapien a leo auctor scelerisque quis nec magna. Sed dictum ante a risus vehicula facilisis.
+  Here, members of the public compete to help the U.S. government solve problems big and small. Browse through challenges and submit your ideas for a chance to win.
 baseurl: "" # the subpath of your site, e.g. /blog
-# url: "https://example.gov" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://challenge.gov" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Twitter handle. Only the handle, not the URL.
-twitter: 18F
+twitter: challengegov
 
 # Configuration for Google Analytics, add your UA code here:
 google_analytics_ua: UA-????????-??
@@ -39,20 +38,12 @@ dap_agency: GSA
 primary_navigation:
   - name: Home
     url: /
-  - name: Blog
-    url: /blog/
-  - name: Document
-    url: /document/
-  - name: Document with sidenav
-    url: /document-with-sidenav/
-  - name: Document submenu
-    children:
-      - name: Navigation link
-        url: '#main-content'
-      - name: Navigation link
-        url: '#main-content'
-      - name: Navigation link
-        url: '#main-content'
+  - name: About
+    url: /about/
+  - name: Agency Toolkit
+    url: /toolkit/
+  - name: Contact
+    url: /contact/
 
 secondary_navigation:
   - name: Secondary link
@@ -65,7 +56,7 @@ secondary_navigation:
 # 1. Create an account with Search.gov https://search.usa.gov/signup
 # 2. Add a new site.
 # 3. Add your site/affiliate name here.
-searchgov_affiliate: federalist
+searchgov_affiliate: challenge.gov
 
 ##########################################################################################
 # The values below here are more advanced and should only be
