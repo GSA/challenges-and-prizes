@@ -38,6 +38,16 @@ i.e.
 .grid-container {
     max-width: 74rem;
 }
+
+.usa-nav__secondary {
+	bottom: 6rem !important;
+}
+
+h3 a {
+	text-decoration: none;
+	color: color('primary');
+}
+
 // Challenge Home Page Listing Card Styles
 .cards {
     display: grid;
@@ -138,11 +148,12 @@ i.e.
 	padding: 0;
 }
 
-//Toolkit Resources page
-li {
+//Toolkit Case Studies page
+.case-studies li {
 	padding: 1em;
 }
-li a {
+
+.case-studies li a {
 	text-decoration: none;
 	color: color('primary');
 }
@@ -154,11 +165,30 @@ li a {
 
 //Toolkit
 .toolkit-nav {
-	margin-bottom: 2rem;
+	margin-bottom: 1rem;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 2rem;
+	margin-top: 1rem;
 	max-width: 64rem;
 	padding-left: 1rem;
 	padding-right: 1rem;
+}
+
+.toolkit-site-wide  {
+	background-color: #F1F3F6;
+}
+
+// Toolkit Mentor Network
+.box-content-wrap {
+	box-shadow: 3px #F1F3F6 !important;
+	border-radius: 2px;
+	padding: 30px;
+	margin: 2em;
+	background-color: white;
+	min-width: 365px;
+}
+
+.mentor-network h4 {
+	text-decoration: none;
+	color: color('primary');
 }
