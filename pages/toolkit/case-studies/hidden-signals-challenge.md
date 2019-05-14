@@ -36,9 +36,9 @@ id="9335" itemscope="" itemtype="http://schema.org/CreativeWork">
 <h2>Summary</h2>
 <p>The Hidden Signals Challenge was a $300,000 prize competition conducted by the DHS Science & Technology Directorate (S&T) in collaboration with the Office of Health Affairs National Biosurveillance Integration Center. DHS S&T asked innovators from a wide variety of fields—from data science and civic tech to epidemiology—to develop concepts for novel uses of existing data that will identify signals and achieve timelier alerts for biothreats in our cities and communities.</p>
 <div id="attachment_9360" style="max-width: 460px" class="wp-caption alignleft"><a
-href="/community-library/1043/Toolkit/Images/hidden-signals.jpg"><img
+href="{{ site.baseurl }}/assets/images/toolkit/case-studies/HiddenSignals1-e1534510732694.jpg"><img
 class="wp-image-9360"
-src="{{ site.baseurl }}/assets/images/toolkit/case-studies/HiddenSignals1-e1534510732694.jpg"
+ src="{{ site.baseurl }}/assets/images/toolkit/case-studies/HiddenSignals1-e1534510732694.jpg"
 alt="Hidden Signals Challenge Logo"
 sizes="(max-width: 450px) 100vw, 450px" width="450" height="308"></a>
 </div>
