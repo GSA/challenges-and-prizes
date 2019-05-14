@@ -43,6 +43,11 @@ i.e.
 	bottom: 6rem !important;
 }
 
+h3 a {
+	text-decoration: none;
+	color: color('primary');
+}
+
 // Challenge Home Page Listing Card Styles
 .cards {
     display: grid;
