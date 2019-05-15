@@ -140,12 +140,16 @@ h3 a {
 // Toolkit - Resource page links
 
 .ss-link {
-	text-decoration: none;
 	list-style-type: none;
 }
 
+.ss-link a {
+	text-decoration: none;
+}
+
 .sf-list {
-	padding: 0;
+	padding: 0 0 2em 0;
+	margin-bottom: 0
 }
 
 //Toolkit Case Studies page
