@@ -41,7 +41,13 @@ primary_navigation:
   - name: About
     url: /about/
   - name: Agency Toolkit
-    url: /toolkit/overview/
+    children:
+      - name: Overview
+        url: /toolkit/overview/
+      - name: Case Studies
+        url: /toolkit/case-studies/
+      - name: Resources
+        url: /toolkit/resources/
   - name: Contact
     url: /contact/
 
