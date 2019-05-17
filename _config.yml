@@ -48,6 +48,8 @@ primary_navigation:
         url: /toolkit/case-studies/
       - name: Resources
         url: /toolkit/resources/
+        - name: FAQ
+        url: /toolkit/faq/
   - name: Contact
     url: /contact/
 
