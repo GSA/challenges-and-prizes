@@ -2,6 +2,7 @@
 layout: front-matter-data
 permalink: /challenges/army-xtech-search-3.0/ 
 challenge-id: 1029
+status: open
 sidenav: true
 card-image: /assets/images/cards/army-xtech.png
 agency-logo: dod_seal.jpg

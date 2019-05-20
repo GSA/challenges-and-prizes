@@ -2,6 +2,7 @@
 layout: json-page
 permalink: /challenges/improving-fish-exclusion-from-water-diversions-and-intakes/
 challenge-id: 1009
+status: closed
 sidenav: true
 banner-image: 
 card-image: /assets/images/cards/fish-exclusion.png

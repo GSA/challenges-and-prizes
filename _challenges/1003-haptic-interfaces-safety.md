@@ -2,6 +2,7 @@
 layout: json-page
 permalink: /challenges/haptic-interfaces-for-public-safety-challenge/
 challenge-id: 1003
+status: closed
 sidenav: true
 banner-image: 
 card-image: /assets/images/cards/nist-haptics.jpg
