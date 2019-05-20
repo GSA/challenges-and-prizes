@@ -9,19 +9,14 @@
                         <div class="card__image" style="background-image: url('{{ site.baseurl }}{{ challenge.card-image }}')"></div>
                         </a>
                         <div class="padding-x-1">
-                            {% assign dataset = site.data.challenges %}
-                            {% for item in dataset %}
-                            {% if item.id == challenge.challenge-id %}
-                            <span class="text-gray-50 padding-top-1">{{ item.groupName }}</span>
-                            <h3 class="text-primary-dark text-bold text-uppercase margin-y-1 text-ls-1">{{ item.name }}</h3>
-                            <span class="text-base-darker text-thin">{{ item.tagline }}</span>
+                            <span class="text-gray-50 padding-top-1">{{ challenge.agency }}</span>
+                            <h3 class="text-primary-dark text-bold text-uppercase margin-y-1 text-ls-1">{{ challenge.challenge-title }}</h3>
+                            <span class="text-base-darker text-thin">{{ challenge.tagline }}</span>
                         </div>
                         <div class="card__body padding-x-1">
-                                <p><span class="text-bold">Open Until:</span> {{ item.campaignAttributes.attributes.submission-end-date }} ET</p>
+                                <p><span class="text-bold">Open Until:</span> {{ challenge.submission-end }} ET</p>
                         </div>
-                        <div class="card__action card__action-block"> <a href="{{ site.baseurl }}/challenges/{{ item.name | slugify }} " class="usa-button radius-0">View Details</a></div>
-                            {% endif %}
-                            {% endfor %}
+                        <div class="card__action card__action-block"> <a href="{{ site.baseurl }}/challenges/{{ item.name | slugify }} " class="usa-button radius-0">View Details</a></div> 
                     </div>
             </div>
                 {% endfor %}
