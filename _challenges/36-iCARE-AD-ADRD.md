@@ -12,11 +12,10 @@ agency: PLACEHOLDER
 partner-agencies-federal: PLACEHOLDER
 partners-non-federal: PLACEHOLDER
 external-url:
-total-prize-offered-cash:
+total-prize-offered-cash: $$$$
 type-of-challenge: 
 submission-start: PLACEHOLDER
 submission-end: PLACEHOLDER
 submission-link:  
 prizes: true
-prizes-nav: true
 ---

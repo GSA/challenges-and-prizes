@@ -18,5 +18,4 @@ submission-start: PLACEHOLDER
 submission-end: PLACEHOLDER
 submission-link:  
 prizes: true
-prizes-nav: true
 ---

@@ -18,5 +18,4 @@ submission-start: 03/07/2019 12:00 AM
 submission-end: 06/07/2019 05:00 PM
 submission-link:  
 prizes: true
-prizes-nav: true
 ---

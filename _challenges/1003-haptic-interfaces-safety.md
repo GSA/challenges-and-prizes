@@ -1,5 +1,5 @@
 ---
-layout: json-page
+layout: front-matter-data
 permalink: /challenges/haptic-interfaces-for-public-safety-challenge/
 challenge-id: 1003
 status: closed
@@ -19,7 +19,6 @@ submission-start: 03/18/2019 12:00 AM
 submission-end: 04/22/2019 12:00 AM
 submission-link:  
 prizes: true
-prizes-nav: true
 ---
 
 
