@@ -11,11 +11,11 @@ tagline: Can you develop a visualization tool to enhance the research and analys
 agency: Department of Health and Human Services
 partner-agencies-federal: 
 partners-non-federal: 
-external-url: https://www.ahrq.gov/sdoh-challenge/index.html
+external-url: 
 total-prize-offered-cash: 
 type-of-challenge: Software and apps
 submission-start: 03/07/2019 12:00 AM
 submission-end: 06/07/2019 05:00 PM
-submission-link:  
+submission-link: https://www.ahrq.gov/sdoh-challenge/index.html
 prizes: true
 ---
