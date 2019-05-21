@@ -7,7 +7,7 @@
             <div class="tablet:grid-col-4 cards">
                     <div class="card">
                             {% if challenge.external-url %}
-                                <a href="{{ site.baseurl }}{{ challenge.external-url }}" target="_blank" rel="noopener">
+                                <a href="{{ challenge.external-url }}" target="_blank" rel="noopener">
                             {% else %}
                                 <a href="{{ site.baseurl }}{{ challenge.url }}">
                             {% endif %}
@@ -23,7 +23,7 @@
                         </div>
                         <div class="card__action card__action-block"> 
                                 {% if challenge.external-url %}
-                                    <a href="{{ site.baseurl }}{{ challenge.external-url }}" class="usa-button radius-0" target="_blank" rel="noopener">View External Challenge Details</a>
+                                    <a href="{{ challenge.external-url }}" class="usa-button radius-0" target="_blank" rel="noopener">View External Challenge Details</a>
                                 {% else %}
                                     <a href="{{ site.baseurl }}{{ challenge.permalink }}" class="usa-button radius-0">View Details</a>
                                 {% endif %}
