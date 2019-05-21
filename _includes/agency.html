@@ -2,7 +2,7 @@
  <div class="tablet:grid-col">
         {% for challenge in site.data.challenges %}
         {% if challenge.id == page.challenge-id %}
-         <img src="{{ site.baseurl }}/assets/images/agency/{{ page.agency-logo }}" alt="" width="225px" title="">
+         <img src="{{ site.baseurl }}/assets/images/agency/{{ page.agency-logo }}" alt="{{ page.agency }} logo" width="225px" title="">
          <h3 class="text-base-dark">{{ challenge.groupName }}</h3>
          {% endif %}
          {% endfor %}
