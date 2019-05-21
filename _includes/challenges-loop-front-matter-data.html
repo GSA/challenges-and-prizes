@@ -6,7 +6,11 @@
                 {% if challenge.status == "open" %}
             <div class="tablet:grid-col-4 cards">
                     <div class="card">
-                        <a href="{{ site.baseurl }}{{ challenge.url }}">
+                            {% if challenge.external-url %}
+                                <a href="{{ site.baseurl }}{{ challenge.external-url }}" target="_blank" rel="noopener">
+                            {% else %}
+                                <a href="{{ site.baseurl }}{{ challenge.url }}">
+                            {% endif %}
                         <div class="card__image" style="background-image: url('{{ site.baseurl }}{{ challenge.card-image }}')"></div>
                         </a>
                         <div class="padding-x-1">
@@ -17,7 +21,13 @@
                         <div class="card__body padding-x-1">
                                 <p><span class="text-bold">Open Until:</span> {{ challenge.submission-end }} ET</p>
                         </div>
-                        <div class="card__action card__action-block"> <a href="{{ site.baseurl }}{{ challenge.permalink }}" class="usa-button radius-0">View Details</a></div> 
+                        <div class="card__action card__action-block"> 
+                                {% if challenge.external-url %}
+                                    <a href="{{ site.baseurl }}{{ challenge.external-url }}" class="usa-button radius-0" target="_blank" rel="noopener">View External Challenge Details</a>
+                                {% else %}
+                                    <a href="{{ site.baseurl }}{{ challenge.permalink }}" class="usa-button radius-0">View Details</a>
+                                {% endif %}
+                        </div> 
                     </div>
             </div>
             {% endif %}
