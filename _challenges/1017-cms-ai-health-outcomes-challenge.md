@@ -19,3 +19,28 @@ submission-end: 06/18/2019 05:00 PM
 submission-link:  
 prizes: true
 ---
+
+
+<!-- Description start -->
+### Description
+{: .text-accent-warm-dark .font-heading-lg}
+
+
+<!-- Prizes start -->
+### Prizes
+{: .text-accent-warm-dark .font-heading-lg}
+
+
+<!-- Rules start -->
+### Rules 
+{: .text-accent-warm-dark .font-heading-lg}
+
+
+<!-- Judging start -->
+### Judging Criteria
+{: .text-accent-warm-dark .font-heading-lg}
+
+
+<!--  How To Enter start -->
+### How To Enter
+{: .text-accent-warm-dark .font-heading-lg}
