@@ -1,0 +1,56 @@
+<section class="usa-section bg-base-lightest">
+        <div class="grid-container">
+            <div class="grid-row">
+                {% assign sorted = (site.challenges | sort: 'submission-end') %}
+                {% for challenge in sorted %}
+                {% if challenge.status == "open" %}
+            <div class="tablet:grid-col-4 cards">
+                    <div class="card">
+                            {% if challenge.external-url %}
+                                <a href="{{ site.baseurl }}{{ challenge.external-url }}" target="_blank" rel="noopener">
+                            {% else %}
+                                <a href="{{ site.baseurl }}{{ challenge.url }}">
+                            {% endif %}
+                        <div class="card__image" style="background-image: url('{{ site.baseurl }}{{ challenge.card-image }}')"></div>
+                        </a>
+                        <div class="padding-x-1">
+                            <span class="text-gray-50 padding-top-1">{{ challenge.agency }}</span>
+                            <h3 class="text-primary-dark text-bold text-uppercase margin-y-1 text-ls-1">{{ challenge.challenge-title }}</h3>
+                            <span class="text-base-darker text-thin">{{ challenge.tagline }}</span>
+                        </div>
+                        <div class="card__body padding-x-1">
+                                <p><span class="text-bold">Open Until:</span> {{ challenge.submission-end }} ET</p>
+                        </div>
+                        <div class="card__action card__action-block"> 
+                                {% if challenge.external-url %}
+                                    <a href="{{ site.baseurl }}{{ challenge.external-url }}" class="usa-button radius-0" target="_blank" rel="noopener">View External Challenge Details</a>
+                                {% else %}
+                                    <a href="{{ site.baseurl }}{{ challenge.permalink }}" class="usa-button radius-0">View Details</a>
+                                {% endif %}
+                        </div> 
+                    </div>
+            </div>
+            {% endif %}
+
+            {% if challenge.status == "closed" %}
+            <div class="tablet:grid-col-4 cards">
+                    <div class="card">
+                        <a href="{{ site.baseurl }}{{ challenge.url }}">
+                        <div class="card__image" style="background-image: url('{{ site.baseurl }}{{ challenge.card-image }}')"></div>
+                        </a>
+                        <div class="padding-x-1">
+                            <span class="text-gray-50 padding-top-1">{{ challenge.agency }}</span>
+                            <h3 class="text-primary-dark text-bold text-uppercase margin-y-1 text-ls-1">{{ challenge.challenge-title }}</h3>
+                            <span class="text-base-darker text-thin">{{ challenge.tagline }}</span>
+                        </div>
+                        <div class="card__body padding-x-1">
+                                <p><span class="text-bold">Closed On:</span> {{ challenge.submission-end }} ET</p>
+                        </div>
+                        <div class="card__action card__action-block"> <a href="{{ site.baseurl }}{{ challenge.permalink }}" class="usa-button radius-0">View Details</a></div> 
+                    </div>
+            </div>
+            {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+</section>

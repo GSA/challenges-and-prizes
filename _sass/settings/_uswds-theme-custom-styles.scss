@@ -19,6 +19,28 @@ i.e.
 @include u-padding-right('05');
 ----------------------------------------
 */
+.toolkit h1 {
+	color: color('primary-dark');
+	font-size: size('serif','2xl');
+}
+
+.toolkit h2 {
+	color: color('primary-dark');
+	font-size: size('serif','xl');
+}
+
+.toolkit h3 {
+	color: color('primary');
+	font-size: size('serif','lg');
+}
+
+.usa-hero {
+	background-image: none;
+}
+
+.usa-hero__callout {
+	background-color: rgba(22, 46, 81, .85);
+}
 
 .usa-header--extended .usa-logo {
     margin-top: 1rem !important;
@@ -38,6 +60,16 @@ i.e.
 .grid-container {
     max-width: 74rem;
 }
+
+.usa-nav__secondary {
+	bottom: 6rem !important;
+}
+
+h3 a {
+	text-decoration: none;
+	color: color('primary');
+}
+
 // Challenge Home Page Listing Card Styles
 .cards {
     display: grid;
@@ -104,6 +136,11 @@ i.e.
 
 .usa-sidenav a {
 	padding-left: 0;
+	color: color('accent-warm-dark');
+
+	&:hover {
+		color: color('base-dark');
+	}
 }
 
 // Challenge Details Accordian
@@ -130,19 +167,24 @@ i.e.
 // Toolkit - Resource page links
 
 .ss-link {
-	text-decoration: none;
 	list-style-type: none;
 }
 
-.sf-list {
-	padding: 0;
+.ss-link a {
+	text-decoration: none;
 }
 
-//Toolkit Resources page
-li {
+.sf-list {
+	padding: 0 0 2em 0;
+	margin-bottom: 0
+}
+
+//Toolkit Case Studies page
+.case-studies li {
 	padding: 1em;
 }
-li a {
+
+.case-studies li a {
 	text-decoration: none;
 	color: color('primary');
 }
@@ -154,11 +196,30 @@ li a {
 
 //Toolkit
 .toolkit-nav {
-	margin-bottom: 2rem;
+	margin-bottom: 1rem;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 2rem;
+	margin-top: 1rem;
 	max-width: 64rem;
 	padding-left: 1rem;
 	padding-right: 1rem;
+}
+
+.toolkit-site-wide  {
+	background-color: #F1F3F6;
+}
+
+// Toolkit Mentor Network
+.box-content-wrap {
+	box-shadow: 3px #F1F3F6 !important;
+	border-radius: 2px;
+	padding: 30px;
+	margin: 2em;
+	background-color: white;
+	width: 365px;
+}
+
+.mentor-network h4 {
+	text-decoration: none;
+	color: color('primary');
 }
