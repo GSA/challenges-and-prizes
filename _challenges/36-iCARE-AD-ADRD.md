@@ -58,27 +58,26 @@ prizes: true
 <li>May participate individually or as part of one or more teams</li>
 <li>Each team&rsquo;s designated captain must be a U.S. citizen or permanent resident</li>
 <li>Must use <strong><a href="https://www.nia.nih.gov/icare-ad-adrd-eureka-prize-submission-template">NIA&rsquo;s&nbsp;application template</a></strong>&nbsp;to format submissions</li>
-<li>Must register and submit solutions on Challenge.gov by June 30, 2019</li>
+<li>Must submit solutions via email to NIAPrizeInput@nih.gov by June 30, 2019</li>
 </ul>
 <p><strong>To win prizes:</strong></p>
 <ul>
 <li>Must be a US citizen or permanent resident</li>
 <li>Agree to the eligibility rules and requirements listed on <strong><a href="https://nia.nih.gov/challenge-prize">NIA&rsquo;s challenge details page</a></strong></li>
-<li>Register and submit solutions on Challenge.gov&nbsp;by June 30, 2019</li>
+<li>Submit solutions via email to NIAPrizeInput@nih.gov by June 30, 2019</li>
+</ul>
 </ul>
 
 <!--  How To Enter start -->
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg}
-<ul>
-<li>Go to NIA&rsquo;s challenge details page (<strong><a href="https://nia.nih.gov/challenge-prize">https://nia.nih.gov/challenge-prize</a></strong>) and see &ldquo;Registration Process for Participants&rdquo; and &ldquo;Submission Requirements and Template.&rdquo;</li>
-<li>Solvers must register on Challenge.gov and submit their solutions via the red &ldquo;Submit&rdquo; button at the top right of this page.</li>
-<li>Use the application template to format your submissions.</li>
-<li>Submit your solutions to challenge.gov:
-<ul>
-<li>Solutions must be submitted by 11:59 pm Eastern time on June 30, 2019..</li>
+<ul type="disc">
+<li>Go to NIA&rsquo;s challenge details page (<a href="https://nia.nih.gov/challenge-prize">https://nia.nih.gov/challenge-prize</a>) and see &ldquo;Submission Requirements and Template.&rdquo;</li>
+<li>Solvers must submit their solutions via email to NIAPrizeInput@nih.gov. Use the application template to format your submissions.</li>
+<li>Submit your solutions via email to NIAPrizeInput@nih.gov:</li>
+<ul type="circle">
+<li>Solutions must be submitted by 11:59 pm Eastern time on June 30, 2019.</li>
 </ul>
-</li>
 </ul>
 <p>For further submission information contact:</p>
-<p>Dawn Beraud, Ph.D., NIA, 301-496-0767; Partha Bhattacharyya, Ph.D., NIA, 301-496-3131; or send an email to <strong><a href="mailto:NIAPrizeInput@nih.gov">NIAPrizeInput@nih.gov</a></strong></p>
+<p>Dawn Beraud, Ph.D., NIA, 301-496-0767; Partha Bhattacharyya, Ph.D., NIA, 301-496-3131; or send an email to&nbsp;<a href="mailto:NIAPrizeInput@nih.gov">NIAPrizeInput@nih.gov</a></p>
