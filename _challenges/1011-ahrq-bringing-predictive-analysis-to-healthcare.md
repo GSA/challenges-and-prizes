@@ -11,12 +11,12 @@ tagline: Can you leverage predictive analytics to help forecast healthcare utili
 agency: Agency for Healthcare Research and Quality
 partner-agencies-federal: 
 partners-non-federal: 
-external-url: https://www.ahrq.gov/predictive-analytics-challenge
+external-url: 
 total-prize-offered-cash: $225,000
 type-of-challenge: Software and apps
-submission-start: 03/27/2019 12:00 AM ET
-submission-end: 06/28/2019 05:00 PM ET
-submission-link:  
+submission-start: 03/27/2019 12:00 AM
+submission-end: 06/28/2019 05:00 PM
+submission-link: https://www.ahrq.gov/predictive-analytics-challenge
 prizes: true
 ---
 
