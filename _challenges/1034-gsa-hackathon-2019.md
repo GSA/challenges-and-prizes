@@ -15,8 +15,8 @@ external-url:
 total-prize-offered-cash: $20,000
 type-of-challenge: Software and apps
 submission-start: 
-submission-end: 06/19/2019
-submission-link:  
+submission-end: 06/19/2019 05:00 PM ET
+submission-link:  https://digital.gov/event/2019/06/19/gsa-customer-experience-cx-hackathon/
 prizes: true
 ---
 
