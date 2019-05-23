@@ -31,8 +31,8 @@ prizes: true
 <p>Send your questions to&nbsp;<a href="mailto:CareerCompassChallenge@nsf.gov" target="_blank" rel="noopener">CareerCompassChallenge@nsf.gov</a>&nbsp;before each webinar. The NSF Career Compass Challenge team will answer them live!&nbsp;</p>
 <p><strong>April 26, 2019 Part 2 Introductory Webinar Resources</strong></p>
 <ul>
-  <li><!--  <a href="/community-library/1043/Career-Compass-Challenge-Part-2-Kickoff-Webinar_04.26.2019.pdf" target="_blank" rel="noopener"> --> Slide presentation</strong></li>
-  <li><!-- <a href="/community-library/1043/Webinar-1-Poll-Results.pdf" target="_blank" rel="noopener"> -->Live poll results</strong></li>
+  <li><!--  <a href="/community-library/1043/Career-Compass-Challenge-Part-2-Kickoff-Webinar_04.26.2019.pdf" target="_blank" rel="noopener"> --> Slide presentation</li>
+  <li><!-- <a href="/community-library/1043/Webinar-1-Poll-Results.pdf" target="_blank" rel="noopener"> -->Live poll results</li>
 </ul>
 <p><strong>May 23, 2019 Part 2 Webinar &ndash; 1:00 PM ET&nbsp;</strong></p>
 <ul>
