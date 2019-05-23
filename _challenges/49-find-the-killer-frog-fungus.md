@@ -5,7 +5,7 @@ challenge-id: 49
 status: open
 sidenav: true
 card-image: /assets/images/cards/frogfungus_test.jpg
-agency-logo: 504px-Seal_of_the_United_States_Department_of_the_Interior.svg
+agency-logo: DOI_logo.png
 challenge-title: Find the Killer Frog Fungus
 tagline: Help detect two globally emerging fungi and reverse the threat of global amphibian declines and extinction
 agency: Department of the Interior-Department-Wide Programs
