@@ -15,8 +15,8 @@ external-url:
 total-prize-offered-cash: $20,000
 type-of-challenge: Software and apps
 submission-start: 
-submission-end: 06/19/2019
-submission-link:  
+submission-end: 06/19/2019 05:00 PM ET
+submission-link:  https://digital.gov/event/2019/06/19/gsa-customer-experience-cx-hackathon/
 prizes: true
 ---
 
@@ -64,27 +64,27 @@ prizes: true
 <div dir="ltr">Hackathon Run Time: 9:00 am - 4:00 pm, Central Time (CT)</div>
 <div dir="ltr">Participants should arrive no later than: 8:15 am.</div>
 <div dir="ltr">[Special instructions: Participant will follow all security procedures stated and be escorted by a hackathon representative to Rooms 330 and 329.]</div></p>
-<p><div><strong>Ft. Worth, TX</span></strong></div>
-<div><strong>Fritz G. Lanham Federal Building</span></strong></div>
-<div>819 Taylor Street, Fort Worth, TX 76102-6124</span></div>
-<div>Capacity: 25</span></div>
-<div>Hackathon Run Time: 9:00 am - 4:00 pm, CT</span></div>
-<div>Participants should arrive no earlier than: 8:00 am. Public hours to the building are 7 am - 5 pm. </span></div>
+<p><div><strong>Ft. Worth, TX\</strong></div>
+<div><strong>Fritz G. Lanham Federal Building</strong></div>
+<div>819 Taylor Street, Fort Worth, TX 76102-6124</div>
+<div>Capacity: 25</div>
+<div>Hackathon Run Time: 9:00 am - 4:00 pm, CT</div>
+<div>Participants should arrive no earlier than: 8:00 am. Public hours to the building are 7 am - 5 pm. </div>
 <div>[Special instructions: The building has two entrances. Participants can use either entrance and a hackathon representative will be stationed there to escort to the rooms, after the participant follows security protocol.]</div></p>
-<p><div><strong>Kansas City, MO</span></strong></div>
-<div><strong>Two Pershing Square</span></strong></div>
-<div>2300 Main Street, Kansas City, MO 64108-2416</span></div>
-<div>Capacity: 136</span></div>
-<div>Hackathon Run Time: 9:00 am - 4:00 pm, CT</span></div>
-<div>Participants should arrive no later than: 8:15 am.</span></div>
-<div>[Special instructions: The building is open to the public. A hackathon representative will escort participants to the meeting room.]</span></div></p>
-<p><div><strong>New York City, NY</span></strong></div>
-<div><strong>One World Trade Center</span></strong></div>
-<div>New York, NY 10007</span></div>
-<div>Capacity: 35</span></div>
-<div>Hackathon Run Time: 10:00 am - 5:00 pm, ET.</span></div>
-<div>Participants arrive no earlier than: 9:00 am. Public hours to the building are 7 am - 5 pm. </span></div>
-<div>[Special instructions: Participant will follow all security procedures stated and be escorted by a hackathon representative to Room 55S08.] </span></div></p>
+<p><div><strong>Kansas City, MO</strong></div>
+<div><strong>Two Pershing Square</strong></div>
+<div>2300 Main Street, Kansas City, MO 64108-2416</div>
+<div>Capacity: 136</div>
+<div>Hackathon Run Time: 9:00 am - 4:00 pm, CT</div>
+<div>Participants should arrive no later than: 8:15 am.</div>
+<div>[Special instructions: The building is open to the public. A hackathon representative will escort participants to the meeting room.]</div></p>
+<p><div><strong>New York City, NY</strong></div>
+<div><strong>One World Trade Center</strong></div>
+<div>New York, NY 10007</div>
+<div>Capacity: 35</div>
+<div>Hackathon Run Time: 10:00 am - 5:00 pm, ET.</div>
+<div>Participants arrive no earlier than: 9:00 am. Public hours to the building are 7 am - 5 pm. </div>
+<div>[Special instructions: Participant will follow all security procedures stated and be escorted by a hackathon representative to Room 55S08.] </div></p>
 <p><div><strong>Philadelphia, PA</strong></div>
 <div><strong>Dow Building</strong></div>
 <div>100 S Independence Mall W, Philadelphia, PA 19106-3400</div>
