@@ -31,8 +31,8 @@ prizes: true
 <p>Send your questions to&nbsp;<a href="mailto:CareerCompassChallenge@nsf.gov" target="_blank" rel="noopener">CareerCompassChallenge@nsf.gov</a>&nbsp;before each webinar. The NSF Career Compass Challenge team will answer them live!&nbsp;</p>
 <p><strong>April 26, 2019 Part 2 Introductory Webinar Resources</strong></p>
 <ul>
-  <li><!--  <a href="/community-library/1043/Career-Compass-Challenge-Part-2-Kickoff-Webinar_04.26.2019.pdf" target="_blank" rel="noopener"> --> Slide presentation</li>
-  <li><!-- <a href="/community-library/1043/Webinar-1-Poll-Results.pdf" target="_blank" rel="noopener"> -->Live poll results</li>
+  <li><a href="/assets/document-library/Career-Compass-Challenge-Part-2-Kickoff-Webinar_04.26.2019.pdf" target="_blank" rel="noopener">Slide presentation</li>
+  <li><a href="/assets/document-library/Webinar-1-Poll-Results.pdf" target="_blank" rel="noopener">Live poll results</li>
 </ul>
 <p><strong>May 23, 2019 Part 2 Webinar &ndash; 1:00 PM ET&nbsp;</strong></p>
 <ul>
@@ -99,11 +99,11 @@ prizes: true
 <p>Based on the quality of submissions received, five white papers were selected to win the award purse for Part 1. Each winner or winning team will receive a one-time prize of $5,000.00 to be issued in the form of an electronic direct deposit payment. For a participant&rsquo;s concept submission to be eligible to win Part 1 prize monies, the submitter must agree to have their winning concept materials posted on Challenge.gov and for the Part 2 solver community to be able to leverage the concept materials for prototype development.</p>
 <p><strong>PHASE ONE WINNING CONCEPTS:</strong></p>
 <ul>
-<li><!-- <a href="/community-library/1043/A-GPS-for-Learning-and-Work---Smith---UMUC.pdf" target="_blank" rel="noopener"> -->Needed: A GPS for Learning and Work</li>
-<li><!-- <a href="/community-library/1043/ETAG---Edwards---Elmhurst-College.PDF"> -->E-TAG: Employee Training and Growth through Electronic Games</li>
-<li><!-- <a href="/community-library/1043/My-Career-Compass---C2---GMU.pdf"> -->My Career Compass</li>
-<li><!-- <a href="/community-library/1043/ACCESS---Chen---NYU-Med.pdf"> -->ACCESS: An Integrated Service Platform for Preparing Future Workforce</li>
-<li><!-- <a href="/community-library/1043/Career-Charting-App---Woolf---UMA.pdf"> -->The Career CHARTING App</li>
+<li><a href="/assets/document-library/A-GPS-for-Learning-and-Work---Smith---UMUC.pdf" target="_blank" rel="noopener">Needed: A GPS for Learning and Work</li>
+<li><a href="/assets/document-library/ETAG---Edwards---Elmhurst-College.PDF">E-TAG: Employee Training and Growth through Electronic Games</li>
+<li><a href="/assets/document-library/My-Career-Compass---C2---GMU.pdf">My Career Compass</li>
+<li><a href="/assets/document-library/ACCESS---Chen---NYU-Med.pdf">ACCESS: An Integrated Service Platform for Preparing Future Workforce</li>
+<li><a href="/assetsa/document-library/Career-Charting-App---Woolf---UMA.pdf">The Career CHARTING App</li>
 </ul>
 </div>
 </div>
