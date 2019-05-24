@@ -64,7 +64,6 @@ challenge-manager-email: craig.connelly@nist.gov
 <p><strong><em>Total Regional Cash Prizes:</em> $350,000</strong></p>
           </div>
               </div>
-      
               <div class="prize-item">
         <h4 class="text-primary">Prizes Anticipated for the Online & National Awards Event Contests</h4>
                           <p class="prize"><strong>$1,850,000</strong></p>
@@ -152,8 +151,7 @@ challenge-manager-email: craig.connelly@nist.gov
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg}
 
-<div class="judging-criterias">
-    
+<div class="judging-criterias"> 
         <div class="prize-item">
                                         <h4>Judging Panels
                                 </h4>
@@ -170,20 +168,16 @@ challenge-manager-email: craig.connelly@nist.gov
 <p><strong>Panel 4:</strong> National Award Event Contest Judging Panel</p>
 <p>Following the completion of the Seed Contest, this Judging Panel will convene to evaluate the final submissions from Seed Contest Winners, and determine the Progress Contests Winners.</p>
                     </div>
-    
         <div class="prize-item">
                                         <h4>Evaluation Criteria
                                 </h4>
-            
                                       <p>What determines the winners? This challenge includes ten unique contests and the evaluation process is designed to be as straightforward and simple as possible for participants to navigate. The graphic below represents the evaluation process that will be applied universally across all contests.</p>
 <p>Each contest includes evaluation criteria 0-5. Criteria 0 is a basic pass/fail compliance checklist of minimum requirements for submissions. Beyond the minimum requirements check, contests include up to five technical criteria used to evaluate submissions. Each technical criterion is weighted at 10-40 points out of a total of 100 points. Criteria items 0 through 3 will be used to evaluate Regional Codeathon and Online Contest submissions. Criteria items 4 and 5 represent the most advanced criteria items and will be used to evaluate the top submissions from the Online Contest, prior to selecting the National Finalists. Each of these five criteria items represent different features and attributes that the participant submissions will need to clearly demonstrate to the judges. The same evaluation process will be used throughout the challenge, with variation by contest for criteria 4-5. Each contest area has unique criteria, but in general examples may include aspects such as the application&rsquo;s UI/UX operability, accuracy, effectiveness, relevance to the contest&rsquo;s sample use case, and other similar elements.</p>
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="/community-library/1043/TTP_evaluation_table.jpg" width="671" height="243" /></p>
                     </div>
-    
         <div class="prize-item">
                                         <h4>Regional Codeathon Evaluation
                                 </h4>
-            
                                       <p><strong>Objectives:</strong></p>
 <ul>
 <li>Selection of up to the top 4 submissions per Regional Codeathon event.</li>
@@ -266,11 +260,9 @@ challenge-manager-email: craig.connelly@nist.gov
 </tbody>
 </table>
                     </div>
-    
         <div class="prize-item">
                                         <h4>Online Contest Evaluation
                                 </h4>
-            
                                       <p><strong>Objective:</strong></p>
 <ul>
 <li><strong>Phase 1:</strong> Selection of up to the top 20 submissions from each of the challenge&rsquo;s ten unique contests.</li>
@@ -323,18 +315,14 @@ challenge-manager-email: craig.connelly@nist.gov
 </tbody>
 </table>
                     </div>
-    
         <div class="prize-item">
                                         <h4>National Awards Event Evaulation
                                 </h4>
-            
                                       <p>Participants selected in the Online Contest will be invited to the National Awards Event. Participants will prepare for a live pitch session as part of a NIST managed public event, Demonstration (Demo) Day, to showcase their solution, market entry and scale-up strategy, and a 6-month growth plan. During Demo Day, participants will be evaluated by judges appointed by NIST and in accordance with the evaluation criteria specific to this contest.</p>
                     </div>
-    
         <div class="prize-item">
                                         <h4>Evaluation Criteria
                                 </h4>
-            
                                       <p>The Tech to Protect Challenge includes 10 unique contests &ndash; each with a specific focus. Complete evaluation criteria are included in the <a href="/community-library/1043/3.2_TechtoProtectChallenge_Program-Rules.FINAL.4.1.19.pdf" target="_blank" rel="noopener">Official Rules document</a>.</p>
                     </div>
     </div>      </div>
