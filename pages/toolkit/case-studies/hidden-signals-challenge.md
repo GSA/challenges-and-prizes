@@ -4,7 +4,7 @@ layout: toolkit
 title: Case Study - Hidden Signals Challenge
 ---
 
-{% include toolkit-nav.html %}
+
 
 <!--// OPEN .container //-->
 <div class="grid-container usa-section">

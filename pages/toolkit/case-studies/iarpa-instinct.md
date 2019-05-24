@@ -4,7 +4,7 @@ layout: toolkit
 title: Case Study - INSTINCT challenge
 ---
 
-{% include toolkit-nav.html %}
+
 
 <!--// OPEN #page-wrap //-->
 <div id="page-wrap">

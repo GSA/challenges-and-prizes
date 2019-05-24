@@ -4,7 +4,7 @@ layout: toolkit
 title: Case Study - No Petri Dish
 ---
 
-{% include toolkit-nav.html %}
+
 
 <!--// OPEN #page-wrap //-->
 <div id="page-wrap">

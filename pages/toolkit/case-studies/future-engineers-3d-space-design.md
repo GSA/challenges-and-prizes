@@ -4,7 +4,7 @@ layout: toolkit
 title: Case Study - Future Engineers 3D Space Design
 ---
 
-{% include toolkit-nav.html %}
+
 
 <!--// OPEN .pb-fw-wrap //-->
 <div class="pb-fw-wrap">

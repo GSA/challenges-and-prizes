@@ -4,7 +4,7 @@ layout: toolkit
 title: Case Study - Audacious Goals in Vision Research
 ---
 
-{% include toolkit-nav.html %}
+
 
 <!--// OPEN #page-wrap //-->
 <div id="page-wrap">

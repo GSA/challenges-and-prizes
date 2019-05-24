@@ -4,7 +4,7 @@ layout: toolkit
 title: Case Study - Enabling Writers
 ---
 
-{% include toolkit-nav.html %}
+
 
 <!--// OPEN .pb-fw-wrap //-->
 <div class="pb-fw-wrap">

@@ -4,7 +4,6 @@ layout: toolkit
 title: Case Study - Breast Cancer Startup Challenge
 ---
 
-{% include toolkit-nav.html %}
 
 <!--// OPEN .pb-fw-wrap //-->
 <div class="pb-fw-wrap">

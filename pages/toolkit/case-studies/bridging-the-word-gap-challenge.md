@@ -4,7 +4,6 @@ layout: toolkit
 title: Case Study - Bridging the Word Gap Challenge
 ---
 
-{% include toolkit-nav.html %}
 
 <!--// OPEN .container //-->
 <div class="grid-container usa-section">

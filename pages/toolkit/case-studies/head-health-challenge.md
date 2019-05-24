@@ -4,7 +4,7 @@ layout: toolkit
 title: Case Study - Head Health Challenge III
 ---
 
-{% include toolkit-nav.html %}
+
 
 <!--// OPEN .container //-->
 <div class="grid-container usa-section">
