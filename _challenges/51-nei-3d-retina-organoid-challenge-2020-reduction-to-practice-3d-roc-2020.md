@@ -6,7 +6,7 @@ status: open
 sidenav: true
 card-image: /assets/images/cards/3-D-ROC-NEI-logo4.jpg
 agency-logo: NIH_Master_Logo_Vertical_2Color.jpg
-challenge-title: NEI 3-D Retina Organoid Challenge 2020 - Reduction to Practice (3-D ROC 2020)
+challenge-title: NEI 3-D Retina Organoid Challenge 2020 Reduction to Practice (3-D ROC 2020)
 tagline: Build your vision of the future.
 agency: National Institutes of Health
 partner-agencies-federal: 
@@ -76,7 +76,7 @@ challenge-manager-email: steven.becker@nih.gov
 {: .text-accent-warm-dark .font-heading-lg}
 
 <div class="description">
-        <p>All details related to rules and eligibility are defined on <a href="https://nei.nih.gov/content/2018-reduction-practice-challenge">NEI’s challenge details</a> page. Only complete applications will be reviewed.</p>
+        <p>All details related to rules and eligibility are defined on <a href="https://nei.nih.gov/content/2018-reduction-practice-challenge" target="_blank" rel="noopener">NEI’s challenge details</a> page. Only complete applications will be reviewed.</p>
         <p><strong>To participate:</strong></p>
         <ul>
         <li>Must follow all rules &amp; guidelines listed on NEI's challenge details page.</li>
