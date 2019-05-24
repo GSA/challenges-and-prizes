@@ -35,9 +35,9 @@ Note: Although using persistent cookies allows us to deliver a better experience
 
 Users are NOT required to provide any information to search, retrieve, download, filter and otherwise use the data available on Challenge.gov. If you choose to provide us with personal information—like sending an email to Challenge.gov to ask questions—we use that information to respond to your message, and to help get you the information you requested. We only share the information you give us with another government agency to assist in answering your questions and to better understand user needs for Challenge.gov, or as otherwise required by law. Any email address provided in connection with your question or suggestion will not be publicly viewable on the website. Challenge.gov never collects information or creates individual profiles for commercial marketing.
 
-In contacting Challenge.gov with your questions and comments, you should NOT include additional personal information, especially [Social Security numbers](https://www.ssa.gov/pubs/EN-05-10002.pdf){:target="_blank" rel="noopener"}.
+In contacting Challenge.gov with your questions and comments, you should NOT include additional personal information, especially [Social Security numbers](https://www.ssa.gov/pubs/EN-05-10002.pdf){:target="_blank" rel="noopener"}. Challenge.gov is NOT a Privacy Act System of Record. 
 
-Challenge.gov is NOT a Privacy Act System of Record.
+
 
 ### Security
 
