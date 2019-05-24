@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/nasa-vascular-tissue-challenge
+permalink: /challenges/nasa-vascular-tissue-challenge/
 challenge-id: 48
 status: open
 sidenav: true
