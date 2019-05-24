@@ -31,5 +31,4 @@ While GSA uses social media including Facebook, Twitter, and YouTube, no persona
 The pages on www.gsa.gov may include hypertext links or pointers to information created and maintained by other public and private organizations. Check the linking policy for more information.
 For more information on privacy and security:
     •	See GSA's Privacy and Security Policy.  
-    •	See GSA Privacy Impact Assessment. 
     •	Contact us with questions. 
