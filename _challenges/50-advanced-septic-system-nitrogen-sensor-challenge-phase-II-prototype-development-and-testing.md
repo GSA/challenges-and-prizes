@@ -4,7 +4,7 @@ permalink: /challenges/advanced-septic-system-nitrogen-sensor-challenge-phase-II
 challenge-id: 50
 status: open
 sidenav: true
-card-image: /assets/images/cards/
+card-image: /assets/images/cards/advancedspeticsystemlogo_test.jpg
 agency-logo: 256px-Seal_of_the_United_States_Department_of_Energy.png
 challenge-title: Advanced Septic System Nitrogen Sensor Challenge Phase II Prototype Development and Testing
 tagline: Engineer groundbreaking sensor technology for advanced septic systems
