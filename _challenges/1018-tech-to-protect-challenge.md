@@ -31,7 +31,6 @@ challenge-manager-email: craig.connelly@nist.gov
 {: .text-accent-warm-dark .font-heading-lg}
 
 <div class="description">
-
 <!-- <p><img src="/community-library/1043/image002.png" width="858" height="210" /></p> -->
 <p>The Tech to Protect Challenge is an open innovation opportunity led by the National Institute of Standards and Technology (NIST), Public Safety Communications Research (PSCR) Division. Taking place throughout 2019 in ten different cities across the country, the challenge features ten contests which allow for on-line and in-person participation. Each contest is designed to develop new, creative technologies to address issues faced by fire, law enforcement and EMS emergency responders.</p> 
 <p>The Tech to Protect Challenge is designed to engage entrepreneurs, technologists, students, programmers, designers and public safety experts to create solutions across critical technical areas of public safety communications, including secure communications, location-based services, public safety data analytics, mission-critical voice and user interface/user experience (UI/UX). The participant proposed solutions will support emergency responders&rsquo; use of advanced communications technologies in accomplishing their day to day activities, critical responsibilities in emergencies, and beyond.</p> 
