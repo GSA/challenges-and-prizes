@@ -4,7 +4,7 @@ permalink: /challenges/nasa-vascular-tissue-challenge/
 challenge-id: 48
 status: open
 sidenav: true
-card-image: /assets/images/cards/
+card-image: /assets/images/cards/VTC-logo-rectangle-.png
 agency-logo: challengeGov placeholder image path
 challenge-title: NASA Vascular Tissue Challenge
 tagline: A first-to-demonstrate challenge to create thick, human vascularized organ tissue surviving 30 calendar days
