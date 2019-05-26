@@ -48,7 +48,7 @@ prizes: true
 
 <div class="text-left">
               <p>See challenge website:</p>
-<p><span style="text-decoration: underline;">https://neworgan.org/vtc-prize.php#rules</span></p>
+<p><span style="text-decoration: underline;"><a href="https://neworgan.org/vtc-prize.php#rules" target="_blank" rel="noopener">https://neworgan.org/vtc-prize.php#rules</a></span></p>
             </div>
             
 <!-- Judging start -->
@@ -57,7 +57,7 @@ prizes: true
 
 <div class="text-left">
               <p>See challenge website:</p>
-<p><span style="text-decoration: underline;">https://neworgan.org/vtc-prize.php#rules</span></p>
+<p><span style="text-decoration: underline;"><a href="https://neworgan.org/vtc-prize.php#rules" target="_blank" rel="noopener">https://neworgan.org/vtc-prize.php#rules</a></span></p>
             </div>
             
 <!--  How To Enter start -->
@@ -66,5 +66,5 @@ prizes: true
 
 <div class="text-left">
               <p>See challenge website:</p>
-<p><span style="text-decoration: underline;">https://neworgan.org/vtc-prize.php#rules</span></p>
+<p><span style="text-decoration: underline;"><a href="https://neworgan.org/vtc-prize.php#rules" target="_blank" rel="noopener">https://neworgan.org/vtc-prize.php#rules</a></span></p>
             </div>
