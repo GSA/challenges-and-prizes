@@ -8,7 +8,7 @@ card-image: /assets/images/cards/solarprizelogo.jpg
 agency-logo: challengeGov placeholder image path
 challenge-title: American-Made Solar Prize Round 2
 tagline: Accelerate and sustain American solar innovation
-agency: Energy Programs
+agency: Department of Energy - Energy Programs
 partner-agencies-federal: 
 partners-non-federal: 
 external-url: https://americanmadechallenges.org/solarprize/round2
