@@ -22,8 +22,8 @@ This information is used to measure the number of visitors to the various sectio
 When you visit a website, it sends a small piece of information called a cookie along with the webpage. The main purpose of a cookie is to identify and customize web pages for you.
 
 There are two kinds of cookies:
-A session cookie is a line of text that is stored temporarily in your computer's random access memory, or RAM. A session cookie is never written to a drive, and it is destroyed as soon as you close your browser. GSA creates a session cookie when you visit, and destroys it as soon as you close your browser.
-A persistent cookie from a website is saved to a file on your hard drive and is called up the next time you visit that website. This lets the website remember what you were interested in the last time you visited. Google Analytics, as configured on GSA websites, also uses first-party (persistent) cookies to:
+1. A session cookie is a line of text that is stored temporarily in your computer's random access memory, or RAM. A session cookie is never written to a drive, and it is destroyed as soon as you close your browser. GSA creates a session cookie when you visit, and destroys it as soon as you close your browser.
+2. A persistent cookie from a website is saved to a file on your hard drive and is called up the next time you visit that website. This lets the website remember what you were interested in the last time you visited. Google Analytics, as configured on GSA websites, also uses first-party (persistent) cookies to:
 Distinguish unique users (last for up to 2 years if you never clear your cookies)
 Throttle the request rate (last for up to 1 minute)
 
