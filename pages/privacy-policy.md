@@ -38,7 +38,6 @@ Users are NOT required to provide any information to search, retrieve, download,
 In contacting Challenge.gov with your questions and comments, you should NOT include additional personal information, especially [Social Security numbers](https://www.ssa.gov/pubs/EN-05-10002.pdf){:target="_blank" rel="noopener"}. Challenge.gov is NOT a Privacy Act System of Record. 
 
 
-
 ### Security
 
 For site security purposes and to ensure that this service remains available to all users, GSA web servers use industry-standard methods to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
@@ -51,7 +50,7 @@ The pages on Challenge.gov may include hypertext links or pointers to informatio
 
 For more information on privacy and security:
 
-- See [GSA's Privacy and Security Policy](https://www.gsa.gov/reference/gsa-privacy-program){:target="_blank" rel="noopener"}. 
-- [Contact us](mailto:team@challenge.gov){:target="_blank" rel="noopener"} with questions.
+* See [GSA's Privacy and Security Policy](https://www.gsa.gov/reference/gsa-privacy-program){:target="_blank" rel="noopener"}. 
+* [Contact us](mailto:team@challenge.gov){:target="_blank" rel="noopener"} with questions.
 </div>
 </div>
