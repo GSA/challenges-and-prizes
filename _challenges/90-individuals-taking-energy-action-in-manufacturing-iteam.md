@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/title-goes-here/
+permalink: /challenges/individuals-taking-energy-action-in-manufacturing-iteam/
 challenge-id: 90
 status: open
 sidenav: true
