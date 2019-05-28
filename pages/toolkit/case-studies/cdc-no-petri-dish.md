@@ -263,9 +263,6 @@ agency.</p>
 <h2>Challenge Website</h2>
 <p><a href="http://www.cdc.gov/amd/achievements/cidtchallenge">http://www.cdc.gov/amd/achievements/cidtchallenge</a>
 </p>
-<p>
-<a href="/a/buzz/pages/no-petri-dish-diagnostic-test-challenge/">https://www.challenge.gov/challenge/no-petri-dish-diagnostic-test-challenge/</a>
-</p>
 
 </div>
 </div>
