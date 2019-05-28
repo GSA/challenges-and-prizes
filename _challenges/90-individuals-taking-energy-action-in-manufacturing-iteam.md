@@ -4,7 +4,7 @@ permalink: /challenges/individuals-taking-energy-action-in-manufacturing-iteam/
 challenge-id: 90
 status: open
 sidenav: true
-card-image: /assets/images/cards/256px-Seal_of_the_United_States_Department_of_Energy.png
+card-image: /assets/images/cards/DOE_Logo_seal_Color-302X1401.jpg
 agency-logo: 256px-Seal_of_the_United_States_Department_of_Energy.png 
 challenge-title: Individuals Taking Energy Action in Manufacturing
 tagline: Energy efficiency is contagious. Share your best ideas and practices for generating measurable energy savings at U.S. manufacturing facilities.
