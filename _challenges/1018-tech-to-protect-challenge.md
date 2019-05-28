@@ -31,7 +31,7 @@ challenge-manager-email: craig.connelly@nist.gov
 {: .text-accent-warm-dark .font-heading-lg}
 
 <div class="description">
-<!-- <p><img src="/community-library/1043/image002.png" width="858" height="210" /></p> -->
+<!-- <p><img src="{{ site.baseurl }}/community-library/1043/image002.png" width="858" height="210" /></p> -->
 <p>The Tech to Protect Challenge is an open innovation opportunity led by the National Institute of Standards and Technology (NIST), Public Safety Communications Research (PSCR) Division. Taking place throughout 2019 in ten different cities across the country, the challenge features ten contests which allow for on-line and in-person participation. Each contest is designed to develop new, creative technologies to address issues faced by fire, law enforcement and EMS emergency responders.</p> 
 <p>The Tech to Protect Challenge is designed to engage entrepreneurs, technologists, students, programmers, designers and public safety experts to create solutions across critical technical areas of public safety communications, including secure communications, location-based services, public safety data analytics, mission-critical voice and user interface/user experience (UI/UX). The participant proposed solutions will support emergency responders&rsquo; use of advanced communications technologies in accomplishing their day to day activities, critical responsibilities in emergencies, and beyond.</p> 
 <p>Over the course of 2019-2020, the challenge will include ten unique contests, host ten codeathons in cities across the United States, and award up to $2.2 million in cash prizes to participants. The challenge invites participants of all skill levels; provides opportunities to engage with subject matter experts; and offers access to resources needed to develop viable technology prototypes and solutions. The ten in-person codeathon events will take place in two bursts, September 27-29 and November 1-3, 2019, with the Online Contest launching a rolling application period between June 1 and November 15, 2019. Ultimately, a final national award event will be hosted in April 2020 to showcase and make the final cash awards to the top performing participants.</p> 
@@ -81,7 +81,7 @@ challenge-manager-email: craig.connelly@nist.gov
 {: .text-accent-warm-dark .font-heading-lg}
 
 <div class="description">
-        <p>Below are the rules on eligibility and submissions, as well as additional terms and conditions. Please read&nbsp; the <a href="/community-library/1043/3.2_TechtoProtectChallenge_Program-Rules.FINAL.4.1.19.pdf" target="_blank" rel="noopener">Official Rules document</a> for detailed rules on all aspects of this challenge.</p>
+        <p>Below are the rules on eligibility and submissions, as well as additional terms and conditions. Please read&nbsp; the <a href="{{ site.baseurl }}/community-library/1043/3.2_TechtoProtectChallenge_Program-Rules.FINAL.4.1.19.pdf" target="_blank" rel="noopener">Official Rules document</a> for detailed rules on all aspects of this challenge.</p>
 <p>---</p>
 <p><strong>7. SUBMISSION AND ELIGIBILITY REQUIREMENTS</strong></p>
 <p><strong>7.1 SUBMISSION REQUIREMENTS</strong></p>
@@ -172,7 +172,7 @@ challenge-manager-email: craig.connelly@nist.gov
                                 </h4>
                                       <p>What determines the winners? This challenge includes ten unique contests and the evaluation process is designed to be as straightforward and simple as possible for participants to navigate. The graphic below represents the evaluation process that will be applied universally across all contests.</p>
 <p>Each contest includes evaluation criteria 0-5. Criteria 0 is a basic pass/fail compliance checklist of minimum requirements for submissions. Beyond the minimum requirements check, contests include up to five technical criteria used to evaluate submissions. Each technical criterion is weighted at 10-40 points out of a total of 100 points. Criteria items 0 through 3 will be used to evaluate Regional Codeathon and Online Contest submissions. Criteria items 4 and 5 represent the most advanced criteria items and will be used to evaluate the top submissions from the Online Contest, prior to selecting the National Finalists. Each of these five criteria items represent different features and attributes that the participant submissions will need to clearly demonstrate to the judges. The same evaluation process will be used throughout the challenge, with variation by contest for criteria 4-5. Each contest area has unique criteria, but in general examples may include aspects such as the application&rsquo;s UI/UX operability, accuracy, effectiveness, relevance to the contest&rsquo;s sample use case, and other similar elements.</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/community-library/1043/TTP_evaluation_table.jpg" width="671" height="243" /></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="{{ site.baseurl }}/community-library/1043/TTP_evaluation_table.jpg" width="671" height="243" /></p>
                     </div>
         <div class="prize-item">
                                         <h4>Regional Codeathon Evaluation
@@ -322,7 +322,7 @@ challenge-manager-email: craig.connelly@nist.gov
         <div class="prize-item">
                                         <h4>Evaluation Criteria
                                 </h4>
-                                      <p>The Tech to Protect Challenge includes 10 unique contests &ndash; each with a specific focus. Complete evaluation criteria are included in the <a href="/community-library/1043/3.2_TechtoProtectChallenge_Program-Rules.FINAL.4.1.19.pdf" target="_blank" rel="noopener">Official Rules document</a>.</p>
+                                      <p>The Tech to Protect Challenge includes 10 unique contests &ndash; each with a specific focus. Complete evaluation criteria are included in the <a href="{{ site.baseurl }}/community-library/1043/3.2_TechtoProtectChallenge_Program-Rules.FINAL.4.1.19.pdf" target="_blank" rel="noopener">Official Rules document</a>.</p>
                     </div>
     </div>      </div>
     </div>
@@ -342,5 +342,5 @@ challenge-manager-email: craig.connelly@nist.gov
 <p style="padding-left: 30px;"><span lang="EN">3. Frequently Asked Questions (FAQ) section of the challenge website will provide detailed responses to general issues that are impacting participants and cover the fundamentals of how to interact with the challenge site via text, screen share videos, and other methods to make the website as easy as possible to navigate and use.</span></p>
 <p style="padding-left: 30px;"><span lang="EN">4. Continue to engage throughout the challenge by joining our webinars featuring guest speaker emergency responders who use these technologies and can provide context around the use case, and by taking advantage of all the resources the challenge provides to enable your success.</span></p>
 <p style="padding-left: 30px;"><span lang="EN">5. Be sure to have your best and final submission submitted by November 15, 2019 &mdash; this is the &ldquo;code freeze&rdquo; submission deadline for all participants.</span></p>
-<p style="text-align: center;"><a href="/community-library/1043/3.2_TechtoProtectChallenge_Program-Rules.FINAL.4.1.19.pdf" target="_blank" rel="noopener">View the Official Rules document for a complete summary of important dates.</a></p>
+<p style="text-align: center;"><a href="{{ site.baseurl }}/community-library/1043/3.2_TechtoProtectChallenge_Program-Rules.FINAL.4.1.19.pdf" target="_blank" rel="noopener">View the Official Rules document for a complete summary of important dates.</a></p>
       </div>
