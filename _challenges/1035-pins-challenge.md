@@ -4,7 +4,7 @@ permalink: /challenges/pins-challenge/
 challenge-id: 1035
 status: open
 sidenav: true
-card-image: /assets/images/cards/PinsLogo_302x140.jpg
+card-image: /assets/images/cards/PinsLogo.jpg
 agency-logo: challengeGov placeholder image path
 challenge-title: PINS Challenge
 tagline: Can you characterize the ionosphere with selected digitized radio-frequency (RF) spectrum  recordings from sounder receiver data?
