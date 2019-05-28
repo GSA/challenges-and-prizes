@@ -4,7 +4,7 @@ permalink: /challenges/nasa-vascular-tissue-challenge/
 challenge-id: 48
 status: open
 sidenav: true
-card-image: /assets/images/cards/
+card-image: /assets/images/cards/VTC-logo-rectangle-.png
 agency-logo: challengeGov placeholder image path
 challenge-title: NASA Vascular Tissue Challenge
 tagline: A first-to-demonstrate challenge to create thick, human vascularized organ tissue surviving 30 calendar days
@@ -48,7 +48,7 @@ prizes: true
 
 <div class="text-left">
               <p>See challenge website:</p>
-<p><span style="text-decoration: underline;">https://neworgan.org/vtc-prize.php#rules</span></p>
+<p><span style="text-decoration: underline;"><a href="https://neworgan.org/vtc-prize.php#rules" target="_blank" rel="noopener">https://neworgan.org/vtc-prize.php#rules</a></span></p>
             </div>
             
 <!-- Judging start -->
@@ -57,7 +57,7 @@ prizes: true
 
 <div class="text-left">
               <p>See challenge website:</p>
-<p><span style="text-decoration: underline;">https://neworgan.org/vtc-prize.php#rules</span></p>
+<p><span style="text-decoration: underline;"><a href="https://neworgan.org/vtc-prize.php#rules" target="_blank" rel="noopener">https://neworgan.org/vtc-prize.php#rules</a></span></p>
             </div>
             
 <!--  How To Enter start -->
@@ -66,5 +66,5 @@ prizes: true
 
 <div class="text-left">
               <p>See challenge website:</p>
-<p><span style="text-decoration: underline;">https://neworgan.org/vtc-prize.php#rules</span></p>
+<p><span style="text-decoration: underline;"><a href="https://neworgan.org/vtc-prize.php#rules" target="_blank" rel="noopener">https://neworgan.org/vtc-prize.php#rules</a></span></p>
             </div>
