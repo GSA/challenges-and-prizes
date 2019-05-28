@@ -4,7 +4,7 @@ permalink: /challenges/geopolitical-forecasting-challenge-2/
 challenge-id: 1022
 status: open
 sidenav: true
-card-image: /assets/images/cards/GFC2Challenge-gov
+card-image: /assets/images/cards/GFC2Challenge-gov.png
 agency-logo: challengeGov placeholder image path
 challenge-title: Geopolitical Forecasting Challenge 2
 tagline: We're on a mission to improve the accuracy and timeliness of geopolitical forecasting.
