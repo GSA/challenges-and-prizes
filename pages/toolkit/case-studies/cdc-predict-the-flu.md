@@ -4,7 +4,7 @@ layout: toolkit
 title: Case Study - Predict the Influenza Season
 ---
 
-{% include toolkit-nav.html %}
+
 
 <!--// OPEN #page-wrap //-->
 <div id="page-wrap">

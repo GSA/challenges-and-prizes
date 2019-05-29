@@ -4,7 +4,7 @@ layout: toolkit
 title: Case Study - Follow That Cell
 ---
 
-{% include toolkit-nav.html %}
+
 
 <!--// OPEN #page-wrap //-->
 <div id="page-wrap">

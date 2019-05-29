@@ -4,7 +4,6 @@ layout: toolkit
 title: Case Study - Innovation in Affordable Housing
 ---
 
-{% include toolkit-nav.html %}
 
 <!--// OPEN #page-wrap //-->
 <div id="page-wrap">

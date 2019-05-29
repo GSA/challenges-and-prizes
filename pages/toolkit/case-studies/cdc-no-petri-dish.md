@@ -4,7 +4,7 @@ layout: toolkit
 title: Case Study - No Petri Dish
 ---
 
-{% include toolkit-nav.html %}
+
 
 <!--// OPEN #page-wrap //-->
 <div id="page-wrap">
@@ -262,9 +262,6 @@ agency.</p>
 <h2></h2>
 <h2>Challenge Website</h2>
 <p><a href="http://www.cdc.gov/amd/achievements/cidtchallenge">http://www.cdc.gov/amd/achievements/cidtchallenge</a>
-</p>
-<p>
-<a href="/a/buzz/pages/no-petri-dish-diagnostic-test-challenge/">https://www.challenge.gov/challenge/no-petri-dish-diagnostic-test-challenge/</a>
 </p>
 
 </div>

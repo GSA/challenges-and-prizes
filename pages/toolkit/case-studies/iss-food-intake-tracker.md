@@ -4,7 +4,6 @@ layout: toolkit
 title: Case Study - ISS Food Intake Tracker
 ---
 
-{% include toolkit-nav.html %}
 
 <!--// OPEN #page-wrap //-->
 <div id="page-wrap">

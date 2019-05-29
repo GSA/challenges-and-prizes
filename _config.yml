@@ -43,7 +43,7 @@ primary_navigation:
   - name: Agency Toolkit
     children:
       - name: Overview
-        url: /toolkit/overview/
+        url: /toolkit/
       - name: Case Studies
         url: /toolkit/case-studies/
       - name: Resources

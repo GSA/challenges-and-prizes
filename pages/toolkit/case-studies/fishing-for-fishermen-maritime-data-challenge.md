@@ -4,7 +4,7 @@ layout: toolkit
 title: Case Study - "Fishing for Fishermen" Maritime Data Challenge
 ---
 
-{% include toolkit-nav.html %}
+
 
 <!--// OPEN .container //-->
 <div class="grid-container usa-section">
