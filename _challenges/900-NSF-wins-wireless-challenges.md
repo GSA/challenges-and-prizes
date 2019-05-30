@@ -43,4 +43,4 @@ challenge-manager-email: tnandago@nsf.gov
 {: .text-accent-warm-dark .font-heading-lg}
 
 <p>Please submit your name, email address, phone number, organizational affiliation (if applicable), a link to your video, and a script for the video.</p>
-<p>Please submit a&nbsp;<a style="box-sizing: border-box; background-color: transparent; color: #0071bc; text-decoration-line: none;" href="https://web.archive.org/web/20170609145312/https://www.challenge.gov/wp-content/uploads/2016/09/ACF-Waiver-Release-Form-Final.pdf">ACF Waiver Release Form (Final)</a>&nbsp;for individuals featured on the videos and submit it with their video link by the submission deadline.</p>
+<p>Please submit a&nbsp;<a style="box-sizing: border-box; background-color: transparent; color: #0071bc; text-decoration-line: none;" href="https://github.com/GSA/challenges-and-prizes/blob/ebeidel--create-900-NSF-wins-wireless-challenges/assets/document-library/ACF-Waiver-Release-Form-Final.pdf">ACF Waiver Release Form (Final)</a>&nbsp;for individuals featured on the videos and submit it with their video link by the submission deadline.</p>
