@@ -5,7 +5,7 @@ challenge-id: 859
 status: closed
 sidenav: true
 card-image: /assets/images/cards/DomesticViolenceVid.jpg
-agency-logo: HHS_seal.png
+agency-logo: hhs.png
 challenge-title: Domestic Violence Video Challenge
 tagline: Submit videos that showcase innovative ways to support kids impacted by domestic violence
 agency: Department of Health and Human Services
