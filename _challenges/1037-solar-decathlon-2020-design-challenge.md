@@ -4,7 +4,7 @@ permalink: /challenges/solar-decathlon-2020-design-challenge/
 challenge-id: 1037
 status: open
 sidenav: true
-card-image: /assets/images/cards/solarprizelogo-302x140.jpg
+card-image: /assets/images/cards/solar_decathlon_logo.png
 agency-logo: 256px-Seal_of_the_United_States_Department_of_Energy.png
 challenge-title: Solar Decathlon 2020 Design Challenge
 tagline: Love designing high-performance buildings? Ready for the experience of a lifetime? The U.S. Department of Energy Solar Decathlon® Design Challenge is ready for you.
