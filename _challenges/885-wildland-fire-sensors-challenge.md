@@ -32,7 +32,7 @@ challenge-manager-email: baker.kirk@epa.gov, hagler.gayle@epa.gov
 
 <strong>Challenge Summary:</strong>
 
-Federal, state, local, and tribal agencies are interested in new ways to monitor air quality during fire events to better protect public health. Air quality managers and public health officials have limited access to accurate information on ground-level air pollution levels in the vicinity of wildland fires, making it difficult to provide appropriate strategies to minimize smoke exposure. Most air pollution monitoring equipment is large, not easily transportable, and complex to operate. Today, emerging technologies – including miniaturized direct-reading sensors, compact/powerful microprocessors, and wireless data communications – offer the opportunity to develop new systems to quickly gather and communicate air pollution data.
+<img src="/assets/images/challenge-content/WFSC-graphic-hashtag.png"</>Federal, state, local, and tribal agencies are interested in new ways to monitor air quality during fire events to better protect public health. Air quality managers and public health officials have limited access to accurate information on ground-level air pollution levels in the vicinity of wildland fires, making it difficult to provide appropriate strategies to minimize smoke exposure. Most air pollution monitoring equipment is large, not easily transportable, and complex to operate. Today, emerging technologies – including miniaturized direct-reading sensors, compact/powerful microprocessors, and wireless data communications – offer the opportunity to develop new systems to quickly gather and communicate air pollution data.
 
 Wild fires are increasingly common events that produce significant air pollution, posing health risks to first responders, residents in nearby areas, and downwind communities. Also, wild fires are increasing in frequency and intensity, and the fire season is growing longer.  Prescribed fires, which are used to manage ecosystems or reduce risk of wild fires, are typically managed to minimize downwind impacts on populated areas; however, people in close proximity may still be exposed to smoke.  The description “wildland fires” refers to both wild and prescribed fires.
 
@@ -74,7 +74,7 @@ May 16th at 8:00 am Eastern (12:00 pm GMT):
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg}
 
-For additional Challenge details, including specific requirements for the sensor systems, please register at <a href="https://www.innocentive.com/ar/challenge/9933927">https://www.innocentive.com/ar/challenge/9933927"</a>. All official submissions must be received via this InnoCentive website.
+For additional Challenge details, including specific requirements for the sensor systems, please register at <a href="https://www.innocentive.com/ar/challenge/9933927">https://www.innocentive.com/ar/challenge/9933927</a>. All official submissions must be received via this InnoCentive website.
 
 <strong>Submission:</strong> The submission to the Challenge should include the following:
 
