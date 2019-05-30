@@ -37,3 +37,10 @@ challenge-manager-email: tnandago@nsf.gov
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg}
 <p>A total of $2 million in prize money will be awarded for two challenges ($1 million each). Winning entrants can receive awards of up to $400,000 each. Exceptional Design Concepts will be recognized with awards ranging from $10,000 to $60,000. Exceptional Working Prototypes will be recognized with awards ranging from $50,000 to $400,000.</p>
+
+<!-- How to Enter start -->
+### How to Enter
+{: .text-accent-warm-dark .font-heading-lg}
+
+<p>Please submit your name, email address, phone number, organizational affiliation (if applicable), a link to your video, and a script for the video.</p>
+<p>Please submit a&nbsp;<a style="box-sizing: border-box; background-color: transparent; color: #0071bc; text-decoration-line: none;" href="https://web.archive.org/web/20170609145312/https://www.challenge.gov/wp-content/uploads/2016/09/ACF-Waiver-Release-Form-Final.pdf">ACF Waiver Release Form (Final)</a>&nbsp;for individuals featured on the videos and submit it with their video link by the submission deadline.</p>
