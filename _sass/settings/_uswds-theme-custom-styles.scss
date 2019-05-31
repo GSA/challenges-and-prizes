@@ -135,13 +135,13 @@ h3 a {
 }
 
 .usa-sidenav a {
-	padding-left: 0;
 	color: color('accent-warm-dark');
 
 	&:hover {
 		color: color('base-dark');
 	}
 }
+
 
 // Challenge Details Accordian
 .usa-accordion__button--primary-darkest {
