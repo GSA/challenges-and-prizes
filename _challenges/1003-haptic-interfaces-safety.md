@@ -24,8 +24,9 @@ prizes: true
 
 
 <!-- Description -->
+
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="description">
 
@@ -44,14 +45,14 @@ prizes: true
 <p style="text-align: center;"><strong><span lang="EN"><span lang="EN"><a href="/community-library/1043/PSCR_HapticInterfacesforPublicSafetyChallenge_OfficialRules.pdf" target="_blank" rel="noopener">View the a complete summary of contest phases and key dates</a>.</span></span></strong></p>
 
 </div> 
-<!-- ./challenge-summary -->
+<!-- Description End -->
 
 
 
 
 <!-- Prizes Start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="prize-item">
 <h4 class="text-primary">Phase 1 Concept Paper Contest</h4>
@@ -129,7 +130,7 @@ prizes: true
 <!-- Rules Start -->
 
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 
 <p style="text-align: center;"><strong><span lang="EN">Official Rules of Phase 1: Concept Paper Contest</span></strong></p>
@@ -293,7 +294,7 @@ prizes: true
 
 <!-- start of Judging -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div id="judging-criteria">
 
@@ -344,7 +345,7 @@ prizes: true
 <!--  How To Enter -->
 
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div role="tabpanel" aria-labelledby="challenge-how-to-enter-tab" tabindex="0" class="tab-pane" id="challenge-how-to-enter">
 <div class="jumbotron description">
