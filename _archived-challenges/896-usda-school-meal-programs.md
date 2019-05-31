@@ -54,7 +54,7 @@ challenge-manager-email:
           </div>
               </div>      
               <div class="prize-item">
-        <h4 class="text-primary">Popular Choicer</h4>
+        <h4 class="text-primary">Popular Choice</h4>
                              <div class="description">
         <p>The solution that receives the highest average rating from among the five entries with the greatest number of votes received will be recognized as the "Popular Choice."</p>
                              </div>
