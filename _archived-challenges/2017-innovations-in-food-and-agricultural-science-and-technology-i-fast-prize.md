@@ -134,7 +134,7 @@ challenge-manager-email: sdockum@nifa.usda.gov
   <p><strong>Submission Process for Participants:</strong></p>
 <p>The Competition will have a two-phase selection process. Teams initially will submit a pre-application. From the pre-applications, USDA NIFA will select Teams that will be invited to submit full applications. From the full applications, USDA NIFA will select the winning Team(s).</p>
 <p>Participants will register for the Competition and will submit the pre-application to the Competition via www.challenge.gov. Teams can enter the contest by submitting the pre-application through the “Enter a Submission” function on Challenge.gov, and then send the pre-application, with name and contact info, to contest@nifa.usda.gov. The pre-application shall contain the following information:</p>
-  <p>strong>Prepare a three-page Executive Summary that describes the following:</p>
+  <p><strong>Prepare a three-page Executive Summary that describes the following:</p>
   <ul>
     <li>Composition of the Team and roles (EL, PI, Mentor) of the members proposing to undertake the commercialization feasibility research.</li>
     <li>Point of Contact information for ALL of the members.</li>
