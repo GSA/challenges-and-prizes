@@ -43,7 +43,7 @@ challenge-manager-email: sdockum@nifa.usda.gov
     <li>Mandatory participation in the I-CORPs weekly Webinars following the in-person three day on-site meeting;</li>
     <li>Completion of approximately 15 hours of preparation per week over the duration of the program;</li>
     <li>Attendance of a two-day lessons-learned in-person meeting at the end of the training. During the training, teams are expected to engage in at least 100 contacts with potential customers and provide a 5-page summary report back to USDA NIFA on the outcome of the training and milestones to be met by the team (i.e., commercialization, market proposition, and lessons learned from the program).</li>
-    </ul>
+    </ol>
   <p>The major focus of I-FAST is for the selected teams (an I-FAST team includes the Principal Investigator (PI), the Entrepreneurial Lead, and the Mentor) to participate in an Entrepreneurial Immersion course provided by the NSF I-Corps program. The NSF I-Corps is a program specifically designed to broaden the impact of select, basic research projects by preparing scientists and engineers to focus beyond the laboratory. Leveraging experience and guidance from established entrepreneurs and a targeted curriculum within the NSF I-Corp program, USDA I-FAST teams will learn to identify valuable product opportunities that can emerge from USDA NIFA supported academic research. The I-FAST Competition will help create a stronger national ecosystem for innovation that couples scientific discovery with technology development to address agricultural and societal needs. </p>
   <p><strong>DATES:</strong> </p>
   <p>Competition Submission Period – Pre-Application Phase: August 3, 2017 to September 8, 2017</p>
@@ -53,7 +53,7 @@ challenge-manager-email: sdockum@nifa.usda.gov
   <p>Verification of Winners: October 13, 2017</p>
   <p>Announcement of Winner(s): October 17, 2017</p>
   <p>NSF I-Corps Training for Winner(s): Winning team(s) will need to be available to travel to and attend one of the following NSF I-Corps training sessions with the following dates and locations:</p>
-  <p><strong>Winter 2018 COHORTS:</p>
+  <p><strong>Winter 2018 COHORTS:</p></strong>
   <p>Winter Cohort #1: Seattle, WA</p>
   <ul>
     <li>Kickoff (on-site): January (arrive 16) 17-19, 2018</li>
