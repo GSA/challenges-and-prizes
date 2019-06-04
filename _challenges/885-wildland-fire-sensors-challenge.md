@@ -5,7 +5,7 @@ challenge-id: 885
 status: closed
 sidenav: true
 card-image: /assets/images/cards/Wildfire-Flame-Logo.jpg
-agency-logo: 256px-Environmental_Protection_Agency_logo
+agency-logo: 256px-Environmental_Protection_Agency_logo.png
 challenge-title: Wildland Fire Sensors Challenge
 tagline: Sensor system to measure air pollution during wildland fires
 agency: Environmental Protection Agency
