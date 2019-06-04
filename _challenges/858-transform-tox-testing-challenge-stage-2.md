@@ -5,7 +5,7 @@ challenge-id: 858
 status: Closed
 sidenav: true
 card-image: /assets/images/cards/ToxTest.png
-agency-logo: 256px-Environmental_Protection_Agency_logo
+agency-logo: 256px-Environmental_Protection_Agency_logo.png
 challenge-title: Transform Tox Testing Challenge Stage 2
 tagline: Innovating for Metabolism
 agency: Environmental Protection Agency
