@@ -330,7 +330,7 @@ prizes: true
 <li><span lang="EN">Team &ndash; The extent to which the capability of the contestant(s) can address all aspects of the proposed project with a high chance of success, including, but not limited to, qualifications, relevant expertise, and time commitment of the contestants. Reviewers will evaluate: (a) The relevance of the qualifications and experience of the key staff, leadership, and technical experts. (b) The extent of the applicants&rsquo; prior experience and the quality of the results achieved in leading programs similar in nature to the purpose, scope, etc.</span></li>
 <li>Approach &ndash; Contestant(s) plan to manage the limited schedule, resources, project risks and other challenges, and produce high quality project outcomes, in pursuit of the challenge goals.</li>
 </ul>
-</div>
+
 <p><span lang="EN">Both groups of Concept Papers will be evaluated based on the criteria above. Each Concept Paper will be reviewed by at least two subject matter expert reviewers and the Judging panel members and be assigned a score for each criterion, 0-10 for each criterion. Scores will not be provided to the contestants. In the case of a tie, the judging panel will make a determination on the winners invited to compete in Phase 2.</span></p>
 <p><strong><span lang="EN">Scoring for Concept Papers</span></strong></p>
 <p>10: Contestant has strong potential to aid in the achievement of the goals of the challenge</p>
@@ -338,7 +338,7 @@ prizes: true
 <p>0: Contestant does not have the potential to aid in the achievement of the goals of the challenge</p>
 <p style="text-align: center;"><a href="/community-library/1043/PSCR_HapticInterfacesforPublicSafetyChallenge_OfficialRules.pdf" target="_blank" rel="noopener"><strong>View the Official Rules document for judging criteria for all other contest phases</strong></a>.</p>
 </div>
-</div>      </div>
+</div>
 </div> <!-- end-judging -->
 
 <!--  How To Enter -->
