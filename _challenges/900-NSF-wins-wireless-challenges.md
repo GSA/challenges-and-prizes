@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/NSF-wins-wireless-challenges
+permalink: /challenges/NSF-wins-wireless-challenges/
 challenge-id: 900
 status: closed
 sidenav: true
