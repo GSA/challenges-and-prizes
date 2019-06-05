@@ -75,39 +75,42 @@ challenge-manager-email: steven.becker@nih.gov
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg}
 
-<div class="description">
-        <p>All details related to rules and eligibility are defined on <a href="https://nei.nih.gov/content/2018-reduction-practice-challenge" target="_blank" rel="noopener">NEI’s challenge details</a> page. Only complete applications will be reviewed.</p>
-        <p><strong>To participate:</strong></p>
-        <ul>
-        <li>Must follow all rules &amp; guidelines listed on NEI's challenge details page.</li>
-        <li>Must be 18 years of age or older</li>   
-        <li>May participate individually or as part of one or more teams</li>   
-        <li>Each team’s designated captain must be a U.S. citizen or permanent resident</li>    
-        <li>Must use NEI's <a href="https://nei.nih.gov/sites/default/files/Application_Template_3DROC2020.docx" target="_blank" rel="noopener">application template</a> to format submissions</li>    
-        <li>Must register and submit abstract on Challenge.gov within one week of submission period opening:</li>  
-        <ul>    
-        <li>First round opens September 4, 2018</li>    
-        <li>Second round opens February 14, 2020</li>  
-        </ul> 
-        <li>Must submit solutions by deadlines: </li> 
-        <ul>    
-        <li>First round solutions due 2:00 PM Eastern time on October 1, 2018</li>    
-        <li>Second round solutions due 2:00 PM Eastern time on March 2, 2020</li>  
-        </ul>  
-        </ul>  
-        <p><strong>To win prizes:</strong> </p>
-        <ul>    
-        <li>Must be a US citizen or permanent resident</li>    
-        <li>Agree to the eligibility rules and requirements listed on NEI’s challenge details page</li>    
-        <li>Register and submit solutions on Challenge.gov</li>  
-        </ul>
-      </div>
+<p>All details related to rules and eligibility are defined on <a href="https://nei.nih.gov/content/2018-reduction-practice-challenge">NEI&rsquo;s challenge details</a> page. Only complete applications will be reviewed.</p>
+<p><strong>To participate: </strong></p>
+<ul type="disc">
+<li>Must follow all rules &amp; guidelines listed on NEI's challenge details page.</li>
+<li>Must be 18 years of age or older</li>
+<li>May participate individually or as part of one or more teams</li>
+<li>Each team&rsquo;s designated captain must be a U.S. citizen or permanent resident</li>
+<li>Must use NEI's <a href="https://nei.nih.gov/sites/default/files/Application_Template_3DROC202.docx">application template</a> to format submissions</li>
+<li>Must submit solutions by 2:00 PM Eastern time on March 2, 2020</li>
+</ul>
+<p><strong>To win prizes: </strong></p>
+<ul type="disc">
+<li>Must be a US citizen or permanent resident</li>
+<li>Agree to the eligibility rules and requirements listed on NEI&rsquo;s challenge details page</li>
+<li>Register and submit solutions on Challenge.gov</li>
+</ul>
+
 
 <!-- Judging start -->
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg}
 
 <div class="judging-criterias">
+         <div class="prize-item">
+                                        <h4>Evaluation Criterion 1. Impact and Innovation (20 points)
+                                    - <strong class="text-primary">20%</strong>
+                                </h4>
+                 <p>Solutions will be evaluated for creativity and originality of designs. An innovative approach may be novel, groundbreaking, or paradigm-shifting, or a creative application of existing approaches. For Phase 1 submissions, the approach should also be feasible; i.e., have a high likelihood to succeed in meeting or exceeding the scientific evaluation criteria NEI has defined. Overall, the solution should provide a novel solution to building a 3-D human retina that meets the desired scientific criteria (structure, function, morphology). Reviewers will be asked to specifically&nbsp;address:</p>
+<ul type="disc">
+<li>Impact on potential end users, clinical implications, and therapeutic advances &mdash;To what extent will the solution exert a sustained, powerful influence on the understanding of retinal diseases and accelerating research toward new&nbsp;therapies?</li>
+<li>To what extent does the solution address a significant barrier in the development of human retina organoids that are highly representative of human physiology? Does the approach speed up organoid development and differentiation time, improve yield, or increase&nbsp;production?</li>
+<li>How is the solution unique and does it improve upon state of the science for organoid&nbsp;technology?</li>
+<li>To what extent are novel concepts, approaches, methodologies, technologies or instrumentation used, or are existing approaches applied in a novel&nbsp;way?</li>
+</ul>
+                 </div>
+
         <div class="prize-item">
                                         <h4>Evaluation Criterion 2. Cell Types, Structure, and Function (25 points)
                                     - <strong class="text-primary">25%</strong>

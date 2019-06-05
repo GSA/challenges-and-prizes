@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenges/gear-center-challenge/
 challenge-id: 1023
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/Gear-center-logo.png
 agency-logo: gsa.png
