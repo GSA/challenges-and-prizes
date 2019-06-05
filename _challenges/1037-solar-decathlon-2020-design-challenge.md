@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash:
 type-of-challenge: Creative (design & multimedia)
 submission-start: 07/31/2019 12:00 AM
-submission-end: 11/05/2019 11:59 PM
+submission-end: 2019/11/05 11:59 PM
 submission-link: https://www.solardecathlon.gov/2019/design/challenge.html
 prizes: true
 fiscal-year: FY19-20

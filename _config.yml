@@ -79,6 +79,9 @@ collections:
   challenges:
     output: true
     permalink: /:path/
+  archived-challenges:
+    output: true
+    permalink: /:path/
 
 permalink: pretty
 

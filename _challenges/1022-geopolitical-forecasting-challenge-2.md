@@ -15,7 +15,7 @@ external-url: https://www.herox.com/IARPAGFChallenge2
 total-prize-offered-cash: $250,000
 type-of-challenge: Scientific
 submission-start: 
-submission-end: 11/19/2019 02:01 PM
+submission-end: 2019/11/19 02:01 PM
 submission-link:  
 prizes: true
 ---

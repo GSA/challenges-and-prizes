@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash: $2,000,000
 type-of-challenge: 
 submission-start: 06/15/2017 12:00 AM
-submission-end: 06/30/2018 11:59 PM
+submission-end: 2018/06/30 11:59 PM
 submission-link:  https://wirelesschallenge.mozilla.org
 prizes: true
 fiscal-year: 2017

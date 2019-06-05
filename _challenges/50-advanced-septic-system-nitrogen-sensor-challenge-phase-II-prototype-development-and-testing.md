@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash:
 type-of-challenge: scientific
 submission-start: 12/18/2017 10:00 AM 
-submission-end: 02/29/2020 11:59 PM
+submission-end: 2020/02/29 11:59 PM
 submission-link:  
 prizes: true
 ---

@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash: $60,000
 type-of-challenge:  Scientific
 submission-start: 04/06/2017 11:00 AM
-submission-end: 11/22/2017 05:00 PM
+submission-end: 2017/11/22 05:00 PM
 submission-link:  https://www.innocentive.com/ar/challenge/9933927
 prizes: true
 fiscal-year: 2017-2018

@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash: $400,000
 type-of-challenge: Software and apps
 submission-start: 10/01/2018 12:00 AM ET
-submission-end: 06/30/2019 11:59
+submission-end: 2019/06/30
 submission-link:  
 prizes: true
 ---
