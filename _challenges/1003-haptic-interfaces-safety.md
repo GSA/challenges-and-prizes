@@ -16,7 +16,7 @@ external-url:
 total-prize-offered-cash: $425,000
 type-of-challenge: Technology demonstration and hardware
 submission-start: 03/18/2019 12:00 AM
-submission-end: 04/22/2019 12:00 AM
+submission-end: 2019/04/22 12:00 AM
 submission-link:  
 prizes: true
 ---

@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash: $900,000
 type-of-challenge:  Ideas
 submission-start: 
-submission-end: 05/24/2019
+submission-end: 2019/05/24
 submission-link:  
 prizes: true
 ---

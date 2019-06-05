@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash: $1,000,000
 type-of-challenge: scientific
 submission-start: 09/04/2018 02:00 PM
-submission-end: 03/02/2020 02:00 PM
+submission-end: 2020/03/02 02:00 PM
 submission-link:  
 prizes: true
 fiscal-year: FY19-FY20

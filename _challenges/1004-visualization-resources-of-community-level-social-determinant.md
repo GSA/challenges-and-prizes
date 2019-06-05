@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash: $220,000
 type-of-challenge: Software and apps
 submission-start: 03/07/2019 12:00 AM
-submission-end: 06/07/2019 05:00 PM
+submission-end: 2019/06/07 05:00 PM
 submission-link: https://www.ahrq.gov/sdoh-challenge/index.html
 prizes: true
 ---

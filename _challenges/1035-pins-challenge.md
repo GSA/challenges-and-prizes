@@ -15,7 +15,7 @@ external-url: https://www.iarpa.gov/challenges/pins.html
 total-prize-offered-cash: $150,000
 type-of-challenge: Scientific
 submission-start: 
-submission-end: 08/30/2019
+submission-end: 2019/08/30
 submission-link:  
 prizes: true
 ---
