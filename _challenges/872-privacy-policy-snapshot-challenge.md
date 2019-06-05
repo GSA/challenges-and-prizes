@@ -4,7 +4,7 @@ permalink: /challenges/privacy-policy-snapshot-challenge/
 challenge-id: 872
 status: closed
 sidenav: true
-card-image: /assets/images/cards/cPPS-Challenge-Logo-FINAL1.jpg
+card-image: /assets/images/cards/PPS-Challenge-Logo-FINAL1.jpg
 agency-logo: hhs.png
 challenge-title: Privacy Policy Snapshot Challenge
 tagline: Help consumers learn how apps use patient health data!
