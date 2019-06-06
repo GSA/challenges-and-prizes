@@ -16,7 +16,7 @@ external-url: https://www.subtchallenge.com/
 total-prize-offered-cash: 
 type-of-challenge: Scientific
 submission-start: 09/27/2018 12:00 AM
-submission-end: 09/30/2021 12:00 AM
+submission-end: 2021/09/30 12:00 AM
 submission-link:  
 prizes: false
 ---

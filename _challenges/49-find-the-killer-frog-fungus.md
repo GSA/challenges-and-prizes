@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash: 
 type-of-challenge: Creative (design & multimedia)
 submission-start: 
-submission-end: 10/01/2019 12:00 AM
+submission-end: 2019/10/01 12:00 AM
 submission-link:  https://conservationx.com/challenge/invasives/chytrid
 prizes: true
 ---

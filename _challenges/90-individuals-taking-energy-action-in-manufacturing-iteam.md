@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash: $75,000
 type-of-challenge: ideas
 submission-start: 10/05/2018 12:00 AM
-submission-end: 05/15/2020 11:59 PM
+submission-end: 2020/05/15 11:59 PM
 submission-link:  
 prizes: true
 fiscal-year: FY19-FY20

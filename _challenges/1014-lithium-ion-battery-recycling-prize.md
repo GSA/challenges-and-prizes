@@ -15,7 +15,7 @@ external-url: https://americanmadechallenges.org/batteryrecycling/
 total-prize-offered-cash: $1,000,000
 type-of-challenge: 
 submission-start: 
-submission-end: 08/01/2019
+submission-end: 2019/08/01
 submission-link:  
 prizes: true
 ---

@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash:
 type-of-challenge:  Ideas
 submission-start: 
-submission-end: 07/12/2019 11:59 PM
+submission-end: 2019/07/12 11:59 PM
 submission-link:  
 prizes: true
 ---
