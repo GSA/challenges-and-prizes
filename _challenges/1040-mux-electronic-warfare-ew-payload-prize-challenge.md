@@ -42,13 +42,14 @@ challenge-manager-email: sean.t.mcmanus@navy.mil
 {: .text-accent-warm-dark .font-heading-lg}
 
 <div class="prize-item">
-        <h4 class="text-primary">Breakdown</h4>
-                          <p class="prize"><strong>$1,000,000</strong></p>
-                          <div class="description">
-            <p><span lang="EN">First Place: $700,000</span></p>
+<h4 class="text-primary">Breakdown</h4>
+<p class="prize"><strong>$1,000,000</strong></p>
+<div class="description">
+<p><span lang="EN">First Place: $700,000</span></p>
 <p><span lang="EN">Second Place: $200,000</span></p>
 <p><span lang="EN">Third Place: $100,000</span></p>
-          </div>
+</div>
+</div>
 
 <!-- Rules start -->
 ### Rules 
