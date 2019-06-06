@@ -29,7 +29,7 @@ challenge-manager-email: Meghann.L.Viggiani.ctr@usmc.mil
 <!-- Description start -->
 ### Description
 {: .text-accent-warm-dark .font-heading-lg}
-<p><img src="/assets/images/challenge-content/Knee%20%26%20Elbow%20LinkedIn.jpg" width="919" height="481" /></p>
+<p><img src="{{ site.baseurl }}/assets/images/challenge-content/Knee-and-Elbow.jpg" width="919" height="481" /></p>
 <p><strong>Problem Statement:</strong></p>
 <p>The Marine Corps seeks new and innovative ideas and solutions that improve the currently fielded knee and elbow pads&rsquo; comfort. &nbsp;The current knee and elbow pads secure to the leg or arm with elastic bands, negatively affecting comfort, maneuverability, and stability. &nbsp;Knee and elbow pad ideas and solutions that enhance the Marines&rsquo; comfort, maneuverability, and stability, and can either integrate into the trousers and blouse or are stand-alone items are sought.</p>
 <p>The desired end-state is to determine a design or concept that provides improved comfort, impact protection and operator acceptance, while maintaining mobility and operator&rsquo;s range of motion.</p>
