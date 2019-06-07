@@ -58,7 +58,7 @@ prizes: true
 <li>May participate individually or as part of one or more teams</li>
 <li>Each team&rsquo;s designated captain must be a U.S. citizen or permanent resident</li>
 <li>Must use <strong><a href="https://www.nia.nih.gov/icare-ad-adrd-eureka-prize-submission-template" target="_blank" rel="noopener">NIA&rsquo;s&nbsp;application template</a></strong>&nbsp;to format submissions</li>
-<li>Must submit solutions via email to NIAPrizeInput@nih.gov by June 30, 2019</li>
+<li>Must submit solutions via email to <a href="mailto:NIAPrizeInput@nih.gov" target="_blank" rel="noopener">NIAPrizeInput@nih.gov</a> by June 30, 2019</li>
 </ul>
 <p><strong>To win prizes:</strong></p>
 <ul>
