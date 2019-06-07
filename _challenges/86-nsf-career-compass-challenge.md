@@ -48,11 +48,11 @@ prizes: true
 <p>In Part 2, solvers are encouraged to leverage and build upon winning concepts awarded in Part 1 to develop a working prototype for Government testing and evaluation.&nbsp; Solvers are encouraged to participate in Part 2 of the challenge, either as individuals or as teams.&nbsp; If you wish to participate in Part 2 and need help finding partnership opportunities, consider connecting with other interested solvers using #NSFCareerCompass.</p>
 <p>In Part 1 of this challenge, solvers were asked to submit a concept white paper describing a solution to the challenge of continuous workforce reskilling and the desire for increased mobility within and between NSF and other Federal agencies (and perhaps even the private sector).&nbsp; Read the winning submissions on the PRIZES tab.</p>
 <p>While five submissions were chosen as prize winners in Part 1, only one successful prototype will be selected to win the Part 2 prize purse of $75,000.</p>
-<p>Click here for Part 2 Frequently Asked Questions.</p>
+<p>Click <a href="{{ site.baseurl }}/assets/document-library/Career-Compass-FAQs.pdf">here</a> for Part 2 Frequently Asked Questions.</p>
 <p style="text-decoration: underline;"><strong>ABOUT THE COMPETITION</strong></p>
 <p><em><strong>NSF has a hypothesis.</strong></em></p>
 <p>Technology is changing the way we do our work, and the work itself. To keep up, the National Science Foundation (NSF)&nbsp;plans to invest in its most critical resource &ndash; the workforce. And it's not just NSF. The need for an adaptable and ready workforce extends to other Federal agencies and beyond. No industry will be immune to the way advances in technology change the nature of work. As a pressing example, we are facing critical gaps in matching people with data science and cybersecurity skills with the right mission needs. NSF believes that, along with other agencies and organizations, the best way to maintain a workforce ready to carry out its mission is to encourage a culture of continuous learning, and to empower each person to refresh and modernize their skills toward future work. We want to spark the thinking of the best and brightest to co-create a solution that can enable individual skill-matching and tailored training for the Workforce for the 21st Century.</p>
-<!-- <p><img src="{{ site.baseurl }}/assets/images/challenge-content/Future-Federal-Workforce.PNG" width="742" height="513" /></p> -->
+<p><img src="{{ site.baseurl }}/assets/images/challenge-content/Future-Federal-Workforce.PNG" width="742" height="513"/></p>
 <p><strong><em>NSF has a vision.</em></strong></p>
 <p>Imagine a mechanism that rapidly enables an individual to match their skills and interests to current and future work opportunities, leveraging advanced technologies which incorporate learning and development needs (traditional, non-traditional, and experiential), and that provides direct access to options for obtaining the relevant expertise to ready the individual for the chosen work.&nbsp;</p>
 <p>The future world of work may not be recognizable yet, however a ready workforce will remain critical for both economic prosperity and mission accomplishment.&nbsp; Employers must start now to instill a culture of continuous learning in its most critical resource, the workforce. To do this, we must think creatively about broadening the pool of available candidates by lowering the barriers for access to opportunities. This journey begins with a mechanism that enables individuals to self-select and prepare for chosen work that complements their skills and interests. The future of work is one of continuous change, which depends on a culture of continuous learning.&nbsp;</p>
@@ -82,7 +82,7 @@ prizes: true
 <li>PART TWO COMPETITION OPENS: April 15, 2019</li>
 <li>PART TWO SUBMISSION DEADLINE: July 12, 2019, 11:59 pm ET</li>
 <li>2nd ROUND OF JUDGING (Part Two): July 15 &ndash; August 12, 2019</li>
-<li><PART TWO WINNER ANNOUNCED: August 31, 2019</li>
+<li>PART TWO WINNER ANNOUNCED: August 31, 2019</li>
 </ul>
 <p><strong>Federal Agency Partners</strong></p>
 <p>Submissions will be evaluated by a panel of judges consisting of representatives from multiple agencies,&nbsp;that also participate on&nbsp;the President's Management Council.</p>
@@ -100,11 +100,11 @@ prizes: true
 <p>Based on the quality of submissions received, five white papers were selected to win the award purse for Part 1. Each winner or winning team will receive a one-time prize of $5,000.00 to be issued in the form of an electronic direct deposit payment. For a participant&rsquo;s concept submission to be eligible to win Part 1 prize monies, the submitter must agree to have their winning concept materials posted on Challenge.gov and for the Part 2 solver community to be able to leverage the concept materials for prototype development.</p>
 <p><strong>PHASE ONE WINNING CONCEPTS:</strong></p>
 <ul>
-<li><a href="{{ site.baseurl }}/assets/document-library/A-GPS-for-Learning-and-Work---Smith---UMUC.pdf" target="_blank" rel="noopener">Needed: A GPS for Learning and Work</li>
-<li><a href="{{ site.baseurl }}/assets/document-library/ETAG---Edwards---Elmhurst-College.PDF">E-TAG: Employee Training and Growth through Electronic Games</li>
-<li><a href="{{ site.baseurl }}/assets/document-library/My-Career-Compass---C2---GMU.pdf">My Career Compass</li>
-<li><a href="{{ site.baseurl }}/assets/document-library/ACCESS---Chen---NYU-Med.pdf">ACCESS: An Integrated Service Platform for Preparing Future Workforce</li>
-<li><a href="{{ site.baseurl }}/assets/document-library/Career-Charting-App---Woolf---UMA.pdf">The Career CHARTING App</li>
+<li><a href="{{ site.baseurl }}/assets/document-library/A-GPS-for-Learning-and-Work---Smith---UMUC.pdf" target="_blank" rel="noopener">Needed: A GPS for Learning and Work</a></li>
+<li><a href="{{ site.baseurl }}/assets/document-library/ETAG---Edwards---Elmhurst-College.PDF">E-TAG: Employee Training and Growth through Electronic Games</a></li>
+<li><a href="{{ site.baseurl }}/assets/document-library/My-Career-Compass---C2---GMU.pdf">My Career Compass</a></li>
+<li><a href="{{ site.baseurl }}/assets/document-library/ACCESS---Chen---NYU-Med.pdf">ACCESS: An Integrated Service Platform for Preparing Future Workforce</a></li>
+<li><a href="{{ site.baseurl }}/assets/document-library/Career-Charting-App---Woolf---UMA.pdf">The Career CHARTING App</a></li>
 </ul>
 </div>
 </div>
