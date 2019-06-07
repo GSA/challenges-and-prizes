@@ -57,4 +57,4 @@ challenge-manager-email: knowak@usbr.gov
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg}
 
-<p><strong>All official entries must be submitted via the&nbsp;<a href="https://web.archive.org/web/20171018013157/https://www.innocentive.com/ar/challenge/9933764">InnoCentive website&nbsp;</a>open on the date of launch.</strong></p>
+<p><strong>All official entries must be submitted via the&nbsp;<a href="https://www.innocentive.com/ar/challenge/9933764">InnoCentive website&nbsp;</a>open on the date of launch.</strong></p>
