@@ -31,8 +31,8 @@ prizes: true
 <p>Send your questions to&nbsp;<a href="mailto:CareerCompassChallenge@nsf.gov" target="_blank" rel="noopener">CareerCompassChallenge@nsf.gov</a>&nbsp;before each webinar. The NSF Career Compass Challenge team will answer them live!&nbsp;</p>
 <p><strong>April 26, 2019 Part 2 Introductory Webinar Resources</strong></p>
 <ul>
-  <li><!--  <a href="/community-library/1043/Career-Compass-Challenge-Part-2-Kickoff-Webinar_04.26.2019.pdf" target="_blank" rel="noopener"> --> Slide presentation</li>
-  <li><!-- <a href="/community-library/1043/Webinar-1-Poll-Results.pdf" target="_blank" rel="noopener"> -->Live poll results</li>
+  <li><a href="{{ site.baseurl }}/assets/document-library/Career-Compass-Challenge-Part-2-Kickoff-Webinar_04.26.2019.pdf" target="_blank" rel="noopener">Slide presentation</a></li>
+  <li><a href="{{ site.baseurl }}/assets/document-library/Webinar-1-Poll-Results.pdf" target="_blank" rel="noopener">Live poll results</a></li>
 </ul>
 <p><strong>May 23, 2019 Part 2 Webinar &ndash; 1:00 PM ET&nbsp;</strong></p>
 <ul>
@@ -52,13 +52,14 @@ prizes: true
 <p style="text-decoration: underline;"><strong>ABOUT THE COMPETITION</strong></p>
 <p><em><strong>NSF has a hypothesis.</strong></em></p>
 <p>Technology is changing the way we do our work, and the work itself. To keep up, the National Science Foundation (NSF)&nbsp;plans to invest in its most critical resource &ndash; the workforce. And it's not just NSF. The need for an adaptable and ready workforce extends to other Federal agencies and beyond. No industry will be immune to the way advances in technology change the nature of work. As a pressing example, we are facing critical gaps in matching people with data science and cybersecurity skills with the right mission needs. NSF believes that, along with other agencies and organizations, the best way to maintain a workforce ready to carry out its mission is to encourage a culture of continuous learning, and to empower each person to refresh and modernize their skills toward future work. We want to spark the thinking of the best and brightest to co-create a solution that can enable individual skill-matching and tailored training for the Workforce for the 21st Century.</p>
+<!-- <p><img src="{{ site.baseurl }}/assets/images/challenge-content/Future-Federal-Workforce.PNG" width="742" height="513" /></p> -->
 <p><strong><em>NSF has a vision.</em></strong></p>
 <p>Imagine a mechanism that rapidly enables an individual to match their skills and interests to current and future work opportunities, leveraging advanced technologies which incorporate learning and development needs (traditional, non-traditional, and experiential), and that provides direct access to options for obtaining the relevant expertise to ready the individual for the chosen work.&nbsp;</p>
 <p>The future world of work may not be recognizable yet, however a ready workforce will remain critical for both economic prosperity and mission accomplishment.&nbsp; Employers must start now to instill a culture of continuous learning in its most critical resource, the workforce. To do this, we must think creatively about broadening the pool of available candidates by lowering the barriers for access to opportunities. This journey begins with a mechanism that enables individuals to self-select and prepare for chosen work that complements their skills and interests. The future of work is one of continuous change, which depends on a culture of continuous learning.&nbsp;</p>
 <p style="text-decoration: underline;"><strong>COMPETITION AIMS</strong></p>
 <p>This Career Compass Challenge is part of an effort to modernize the American workforce, but in order to do that we are focusing on the National Science Foundation as a model. This Challenge will address the changing nature of work, and the pace of change to the types of work, needed to carry out essential missions for the American people and create the Workforce for the 21st Century, starting with NSF. At the conclusion of this Challenge, NSF hopes to have created a "market" for technology solutions that will help employees plot a path for changing careers or identify how to move forward in their current career path, while also facilitating continuous reskilling.</p>
 <p>Moreover, the Career Compass Challenge will help inform further collaborative, cross-sector innovation that Federal agencies are pursuing more broadly, such as through the <a href="https://www.performance.gov/GEARcenter/" target="_blank" rel="noopener">Government Effectiveness Advanced Research&mdash;or GEAR&mdash;Center</a>. The GEAR Center will facilitate applied research to tackle management challenges at the Executive Branch enterprise level, confronting shared issues like workforce reskilling that cut across Federal agencies and other stakeholders. To the extent that this Career Compass Challenge is intended to explore creating a culture of a continuously ready workforce, on a small scale for NSF&mdash;by leveraging thought leaders across the American public, academia and industry&mdash;this challenge may be a model for learning how to successfully tackle other broad opportunities through a crowdsourced, test and learn model.&nbsp;</p>
-<p><strong><em>We want to hear from you!</em> </strong></p>
+<p><strong><em>We want to hear from you!</em></strong></p>
 <p>Let&rsquo;s explore innovative ways to expose opportunities for NSF employees, within NSF, across Federal Agencies, and even beyond the Government. Let's be creative about leveraging training methods that are broadly accessible and that empower each person to ready themselves to take advantage of available opportunities.&nbsp;</p>
 <p>Can you help us figure out a way to meet the workforce &ldquo;where they are at&rdquo;? Can you propose a solution available to anyone, at any time, from any device, in any location, and from any economic or educational background? Think NSF first, and then think beyond.&nbsp; This challenge is broadly applicable and the outcomes should be scalable.</p>
 <p style="text-decoration: underline;"><strong>COMPETITION OVERVIEW</strong></p>
@@ -99,11 +100,11 @@ prizes: true
 <p>Based on the quality of submissions received, five white papers were selected to win the award purse for Part 1. Each winner or winning team will receive a one-time prize of $5,000.00 to be issued in the form of an electronic direct deposit payment. For a participant&rsquo;s concept submission to be eligible to win Part 1 prize monies, the submitter must agree to have their winning concept materials posted on Challenge.gov and for the Part 2 solver community to be able to leverage the concept materials for prototype development.</p>
 <p><strong>PHASE ONE WINNING CONCEPTS:</strong></p>
 <ul>
-<li><!-- <a href="/community-library/1043/A-GPS-for-Learning-and-Work---Smith---UMUC.pdf" target="_blank" rel="noopener"> -->Needed: A GPS for Learning and Work</li>
-<li><!-- <a href="/community-library/1043/ETAG---Edwards---Elmhurst-College.PDF"> -->E-TAG: Employee Training and Growth through Electronic Games</li>
-<li><!-- <a href="/community-library/1043/My-Career-Compass---C2---GMU.pdf"> -->My Career Compass</li>
-<li><!-- <a href="/community-library/1043/ACCESS---Chen---NYU-Med.pdf"> -->ACCESS: An Integrated Service Platform for Preparing Future Workforce</li>
-<li><!-- <a href="/community-library/1043/Career-Charting-App---Woolf---UMA.pdf"> -->The Career CHARTING App</li>
+<li><a href="{{ site.baseurl }}/assets/document-library/A-GPS-for-Learning-and-Work---Smith---UMUC.pdf" target="_blank" rel="noopener">Needed: A GPS for Learning and Work</li>
+<li><a href="{{ site.baseurl }}/assets/document-library/ETAG---Edwards---Elmhurst-College.PDF">E-TAG: Employee Training and Growth through Electronic Games</li>
+<li><a href="{{ site.baseurl }}/assets/document-library/My-Career-Compass---C2---GMU.pdf">My Career Compass</li>
+<li><a href="{{ site.baseurl }}/assets/document-library/ACCESS---Chen---NYU-Med.pdf">ACCESS: An Integrated Service Platform for Preparing Future Workforce</li>
+<li><a href="{{ site.baseurl }}/assets/document-library/Career-Charting-App---Woolf---UMA.pdf">The Career CHARTING App</li>
 </ul>
 </div>
 </div>
