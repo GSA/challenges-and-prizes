@@ -44,7 +44,7 @@ prizes: true
 <div>ASA(ALT)</div>
 <div>Office of the Deputy Assistant Secretary of the Army, Research and Technology</div>
 <div>2800 Crystal Drive, Arlington, VA 22202</div>
-<div>Email: <a href="mailto:usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil">usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil</a></div>
+<div>Email: <a href="mailto:usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil" target="_blank" rel="noopener">usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil</a></div>
 <p>&nbsp;</p>
 
 <!-- Prizes start -->
