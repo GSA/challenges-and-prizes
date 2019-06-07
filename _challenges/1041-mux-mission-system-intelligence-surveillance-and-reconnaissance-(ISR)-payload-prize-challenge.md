@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash: $1,000,000
 type-of-challenge:  Technology demonstration and hardware
 submission-start: 05/22/19
-submission-end:  2019/09/21 11:59 PM
+submission-end:  2019/09/23 11:59 PM
 submission-link:  
 prizes: true
 fiscal-year:
@@ -106,8 +106,8 @@ challenge-manager-email:
 <p><strong>Key Dates</strong></p>
 <p><em><span lang="EN">Initial qualification application: </span></em><span lang="EN">From date of posting through 11:59pm EST on 3 Jun 2019.</span></p>
 <p><em><span lang="EN">Intent to participate: </span></em><span lang="EN">From receipt of invitation through 11:59pm EST on 25 June 2019.</span></p>
-<p><span lang="EN"><em>Final submission phase:</em>&nbsp; </span><span lang="EN">From receipt of invitation through 11:59pm EST on 21 Sep 2019.</span></p>
-<p><em><span lang="EN">Judging Start/End: </span></em><span lang="EN">8:00am EST on 22 Sep 2019 until 11:59pm EST on 22 Oct 2019.</span></p>
-<p><em><span lang="EN">Winners Announced: </span></em><span lang="EN">No Later than 31 Oct 2019.</span></p>
+<p><span lang="EN"><em>Final submission phase:</em>&nbsp; </span><span lang="EN">From receipt of invitation through 11:59pm EST on 23 Sep 2019.</span></p>
+<p><em><span lang="EN">Judging Start/End: </span></em><span lang="EN">8:00am EST on 24 Sep 2019 until 11:59pm EST on 05 November 2019.</span></p>
+<p><em><span lang="EN">Winners Announced: </span></em><span lang="EN">No Later than 13 November 2019.</span></p>
 </div>
 </div> <!-- ./challenge-how-to-enter -->
