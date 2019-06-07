@@ -1,7 +1,7 @@
 ---
 layout: archive-challenge
 permalink: /challenge/ahrq-step-up-app-challenge/
-challenge-id: 
+challenge-id: 12
 status: open
 sidenav: false
 card-image: /assets/images/cards/AHRQ-logo_NEW.jpg
