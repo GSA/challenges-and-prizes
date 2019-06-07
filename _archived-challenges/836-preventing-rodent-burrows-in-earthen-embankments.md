@@ -32,7 +32,7 @@ challenge-manager-email: chennig@usbr.gov
 <p>Is there a way to stop and prevent rodents from burrowing into earthen embankments of dams, canals, and levees?</p>
 <p>Rodent burrows can fill with water when the water levels change, creating seepage paths, which can lead to internal erosion in embankments resulting in the potential for catastrophic failure.&nbsp; Embankment failures can cause property damage, loss of life, and interrupt crucial deliveries of water in the West and across the nation.</p>
 <p>Trapping or baiting rodents on earthen embankments are short-term remedies, and experience has shown that within a short time, the rodents inevitably return.&nbsp; Annual programs of rodent removal over thousands of miles of earthen embankment are cost prohibitive and only marginally successful.&nbsp; Solvers are asked to &ldquo;dig deeper&rdquo; than the rodents and offer creative, cost effective, long-term solutions to this real and serious problem.</p>
-<p>Download the&nbsp;<a href="https://web.archive.org/web/20170622053448/https://www.challenge.gov/files/2016/07/challenge-poster_RODENT_508.pdf">Rodent Prize Competition Poster</a>.</p>
+<p>Download the&nbsp;<a href="https://github.com/GSA/challenges-and-prizes/blob/ebeidel-add-and-style-836-body-content/assets/document-library/challenge-poster_RODENT_508.pdf">Rodent Prize Competition Poster</a>.</p>
 
 <!-- Prizes start -->
 ### Prizes
