@@ -47,16 +47,16 @@ prizes: true
 <!-- Rules start -->
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg}
-<p><span lang="EN">Additional Challenge information as well as the submission page is found at:&nbsp;<a href="https://www.ahrq.gov/predictive-analytics-challenge">https://www.ahrq.gov/predictive-analytics-challenge</a></span></p>
+<p><span lang="EN">Additional Challenge information as well as the submission page is found at:&nbsp;<a href="https://www.ahrq.gov/predictive-analytics-challenge" target="_blank" rel="noopener">https://www.ahrq.gov/predictive-analytics-challenge</a></span></p>
 <p><span lang="EN">For questions about the challenge, please email </span><span lang="EN"><a href="mailto:ahrqchallenge@ahrq.hhs.gov" target="_blank" rel="noopener">ahrqchallenge@ahrq.hhs.gov</a></span><span lang="EN">.</span></p>
 
 <!-- Judging start -->
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg}
-  <p><span lang="EN">Judging Criteria can be found at the <a href="https://www.ahrq.gov/predictive-analytics-challenge">Challenge website</a>.</span></p>
+  <p><span lang="EN">Judging Criteria can be found at the <a href="https://www.ahrq.gov/predictive-analytics-challenge" target="_blank" rel="noopener">Challenge website</a>.</span></p>
 
 <!--  How To Enter start -->
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg}
-<p><span lang="EN">Additional challenge information as well as the submission page is found at:&nbsp;<a href="https://www.ahrq.gov/predictive-analytics-challenge">https://www.ahrq.gov/predictive-analytics-challenge</a></span></p>
+<p><span lang="EN">Additional challenge information as well as the submission page is found at:&nbsp;<a href="https://www.ahrq.gov/predictive-analytics-challenge" target="_blank" rel="noopener">https://www.ahrq.gov/predictive-analytics-challenge</a></span></p>
 <p><span lang="EN">For questions about the challenge, please email </span><span lang="EN"><a href="mailto:ahrqchallenge@ahrq.hhs.gov" target="_blank" rel="noopener">ahrqchallenge@ahrq.hhs.gov</a></span><span lang="EN">.</span></p>
