@@ -5,7 +5,7 @@ challenge-id: 50
 status: open
 sidenav: true
 card-image: /assets/images/cards/advancedspeticsystemlogo_test.jpg
-agency-logo: 256px-Seal_of_the_United_States_Department_of_Energy.png
+agency-logo: 256px-Environmental_Protection_Agency_logo
 challenge-title: Advanced Septic System Nitrogen Sensor Challenge Phase II Prototype Development and Testing
 tagline: Engineer groundbreaking sensor technology for advanced septic systems
 agency: Environmental Protection Agency
@@ -13,11 +13,15 @@ partner-agencies-federal:
 partners-non-federal: U.S. Geological Survey, The Nature Conservancy, Barnstable County and Massachusetts Alternative Septic System Test Center, Massachusetts Department of Environmental Protection, New York State Department of Health (and Suffolk County NY Department of Health Services). Battelle Memorial Institute and VerifiGlobal are supporting US EPA and the Challenge under US EPA Contract #EP-C-16-014.
 external-url:
 total-prize-offered-cash:
-type-of-challenge: scientific
-submission-start: 12/18/2017 10:00 AM 
+type-of-challenge: Scientific
+submission-start: 2017/12/18 10:00 AM 
 submission-end: 2020/02/29 11:59 PM
 submission-link:  
 prizes: true
+fiscal-year: FY18
+legal-authority: Other
+challenge-manager: Maggie Theroux
+challenge-manager-email: theroux.maggie@epa.gov
 ---
 
 
@@ -77,11 +81,6 @@ prizes: true
 <div class="description">
         <p><strong>Any technology/sensor developer is eligible to participate. Check the schedule for submission dates.</strong></p>
       </div>
-
-<!-- Judging start -->
-### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
-
 
 <!--  How To Enter start -->
 ### How To Enter
