@@ -1,7 +1,7 @@
 ---
 layout: archive-challenge
 permalink: /challenge/nist-virtual-public-safety-test-environment-challenge/
-challenge-id: 
+challenge-id: 884
 status: closed
 sidenav: false
 card-image: /assets/images/cards/VRideation-main-image
