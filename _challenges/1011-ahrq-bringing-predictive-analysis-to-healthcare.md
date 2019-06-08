@@ -8,7 +8,7 @@ card-image: /assets/images/cards/ahrq-logo.png
 agency-logo: ahrq-logo.png
 challenge-title: AHRQ Bringing Predictive Analysis to Healthcare
 tagline: Can you leverage predictive analytics to help forecast healthcare utilization data?
-agency: Agency for Healthcare Research and Quality
+agency: Department of Health and Human Services - Agency for Healthcare Research and Quality
 partner-agencies-federal: 
 partners-non-federal: 
 external-url: 
