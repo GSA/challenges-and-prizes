@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $1,000,000
 type-of-challenge: Business Plans
-submission-start: 
-submission-end: 2019/07/08
+submission-start: 2019/05/21 12:00 PM
+submission-end: 2019/07/08 11:59 PM
 submission-link:  https://www.sba.gov/match?utm_source=govdelivery&utm_medium=email&utm_campaign=makerspace_challenge
 prizes: true
 ---
@@ -51,8 +51,8 @@ prizes: true
 <p><span lang="EN">Makerspaces that support businesses or individuals engaged in any activity that is illegal under federal, state, or local law or that can reasonably be determined to support or facilitate any activity that is illegal under federal, state, or local law are ineligible for this competition.</span></p>
 <p><span lang="EN">Submissions developed with Federal funding, including grants, are not eligible for the Competition.&nbsp; </span></p>
 <p><span lang="EN"><strong>Registration/Submission Requirements</strong></span></p>
-<p><span lang="EN">Interested persons or entities should review these Competition Rules before entering the Competition.&nbsp; </span><span lang="EN">All Contestants must enter the Competition through <a href="https://www.sba.gov/match?utm_source=govdelivery&amp;utm_medium=email&amp;utm_campaign=makerspace_challenge">http://www.sba.gov/MaTCH</a>.&nbsp; </span><span lang="EN">Necessary steps and considerations include the following:</span></p>
-<div style="padding-left: 30px;"><!-- [if !supportLists]--><span lang="EN">a)&nbsp;</span><span lang="EN">Register at the Competition website, <a href="https://www.sba.gov/match?utm_source=govdelivery&amp;utm_medium=email&amp;utm_campaign=makerspace_challenge">http://www.sba.gov/MaTCH</a>. Registration will only be open between May 21, 2019, and July 8, 2019. </span></div>
+<p><span lang="EN">Interested persons or entities should review these Competition Rules before entering the Competition.&nbsp; </span><span lang="EN">All Contestants must enter the Competition through <a href="https://www.sba.gov/match?utm_source=govdelivery&amp;utm_medium=email&amp;utm_campaign=makerspace_challenge" target="_blank" rel="noopener">http://www.sba.gov/MaTCH</a>.&nbsp; </span><span lang="EN">Necessary steps and considerations include the following:</span></p>
+<div style="padding-left: 30px;"><!-- [if !supportLists]--><span lang="EN">a)&nbsp;</span><span lang="EN">Register at the Competition website, <a href="https://www.sba.gov/match?utm_source=govdelivery&amp;utm_medium=email&amp;utm_campaign=makerspace_challenge" target="_blank" rel="noopener">http://www.sba.gov/MaTCH</a>. Registration will only be open between May 21, 2019, and July 8, 2019. </span></div>
 <div style="padding-left: 30px;"><!-- [if !supportLists]--><span lang="EN">b) Complete Contact information in Competition website.</span></div>
 <div style="padding-left: 30px;"><span lang="EN">c) Upload submission in the designated field.</span></div>
 <div style="padding-left: 60px;"><span lang="EN">i.&nbsp;</span><span lang="EN">At a minimum, submissions must include the information and materials specified in the Eligibility Rules above, which should include:</span></div>
@@ -108,7 +108,7 @@ prizes: true
 <div style="padding-left: 30px;"><!-- [if !supportLists]--><span lang="EN">d)&nbsp;</span><span lang="EN">Evidence that the Makerspace has the necessary experience, resources and curriculum to impart the needed soft skills and teach trainees how to be successful in the workplace (25%).</span></div>
 <div><hr align="left" size="1" width="33%" />
 <div id="ftn1">
-<p><span lang="EN"><sup>1</sup>&ldquo;An Opportunity Zone is an economically distressed community where new investments, under certain conditions, may be eligible for preferential tax treatment.They are designed to spur economic development by providing tax benefits to investors.Localities qualify as Opportunity Zones if they have been nominated for that designation by a state and that nomination has been certified by the Secretary of the U.S. Treasury via his designated authority to the Internal Revenue Service.&rdquo; Available at https://www.irs.gov/newsroom/opportunity-zones-frequently-asked-questions.</span></p>
+<p><span lang="EN"><sup>1</sup>&ldquo;An Opportunity Zone is an economically distressed community where new investments, under certain conditions, may be eligible for preferential tax treatment.They are designed to spur economic development by providing tax benefits to investors.Localities qualify as Opportunity Zones if they have been nominated for that designation by a state and that nomination has been certified by the Secretary of the U.S. Treasury via his designated authority to the Internal Revenue Service.&rdquo; Available at <a href="https://www.irs.gov/newsroom/opportunity-zones-frequently-asked-questions" target="_blank" rel="noopener">https://www.irs.gov/newsroom/opportunity-zones-frequently-asked-questions.</a></span></p>
 </div>
 </div>
 
@@ -116,4 +116,4 @@ prizes: true
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg}
 <p>For more information and to enter the competition, visit:&nbsp;</p>
-<p class="MsoNormal"><span lang="EN"><a href="https://www.sba.gov/match?utm_source=govdelivery&amp;utm_medium=email&amp;utm_campaign=makerspace_challenge">https://www.sba.gov/match?utm_source=govdelivery&amp;utm_medium=email&amp;utm_campaign=makerspace_challenge</a></span></p>
+<p class="MsoNormal"><span lang="EN"><a href="https://www.sba.gov/match?utm_source=govdelivery&amp;utm_medium=email&amp;utm_campaign=makerspace_challenge" target="_blank" rel="noopener">https://www.sba.gov/match?utm_source=govdelivery&amp;utm_medium=email&amp;utm_campaign=makerspace_challenge</a></span></p>
