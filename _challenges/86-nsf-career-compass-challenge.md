@@ -14,7 +14,7 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash:
 type-of-challenge:  Ideas
-submission-start: 
+submission-start: 2019/04/15 03:30 PM
 submission-end: 2019/07/12 11:59 PM
 submission-link:  
 prizes: true
