@@ -18,7 +18,7 @@ submission-start: 10/05/2018 12:00 AM
 submission-end: 2020/05/15 11:59 PM
 submission-link:  
 prizes: true
-fiscal-year: FY19-FY20
+fiscal-year: FY19-20
 legal-authority: America COMPETES
 challenge-manager: Tertia Speiser
 challenge-manager-email: Tertia.Speiser@ee.doe.gov
@@ -57,34 +57,34 @@ challenge-manager-email: Tertia.Speiser@ee.doe.gov
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg}
 
-<div class="prize-item">
-        <h4 class="text-primary">Small Manufacturer</h4>
-                          <p class="prize"><strong>$25,000</strong></p>
-                          <div class="description">
-            <p>DOE will make up to five $5,000 awards in this category.</p>
-          </div>
-              </div>
-              <div class="prize-item">
-        <h4 class="text-primary">Medium Manufacturer</h4>
-                          <p class="prize"><strong>$25,000</strong></p>
-                          <div class="description">
-            <p>DOE will make up to five $5,000 awards in this category.</p>
-          </div>
-              </div>
-              <div class="prize-item">
-        <h4 class="text-primary">Larger Manufacturer</h4>
-                          <p class="prize"><strong>$25,000</strong></p>
-                          <div class="description">
-            <p>DOE will make up to five $5,000 awards in this category.</p>
-          </div>
-              </div>
+<div>
+<h4>Small Manufacturer</h4>
+<p><strong>$25,000</strong></p>
+<div>
+<p>DOE will make up to five $5,000 awards in this category.</p>
+</div>
+</div>
+<div>
+<h4>Medium Manufacturer</h4>
+<p><strong>$25,000</strong></p>
+<div>
+<p>DOE will make up to five $5,000 awards in this category.</p>
+</div>
+</div>
+<div>
+<h4>Larger Manufacturer</h4>
+<p><strong>$25,000</strong></p>
+<div>
+<p>DOE will make up to five $5,000 awards in this category.</p>
+</div>
+</div>
 
 <!-- Rules start -->
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg}
 
 <div class="description">
-        <p>Read the full competition <a href="/community-library/1043/ITEAM-Prize-Competition-Rules-Document.pdf">rules document</a>.</p>
+        <p>Read the full competition <a href="{{ site.baseurl }}/assets/document-library/ITEAM-Prize-Competition-Rules-Document.pdf" target="_blank" rel="noopener">rules document</a>.</p>
       </div>
       
 <!-- Judging start -->
