@@ -4,7 +4,7 @@ permalink: /challenge/nist-the-future-of-public-safety-technology-100k-video-ser
 challenge-id: 915
 status: closed
 sidenav: false
-card-image: /assets/images/cards/TONGAL-NIST-noprizing
+card-image: /assets/images/cards/TONGAL-NIST-noprizing.jpg
 agency-logo: NIST_logo.png
 challenge-title: NIST The Future of Public Safety Technology 100k Video Series
 tagline: Inspire Americans everywhere to help develop the Public Safety communications technology of tomorrow with a Video series
