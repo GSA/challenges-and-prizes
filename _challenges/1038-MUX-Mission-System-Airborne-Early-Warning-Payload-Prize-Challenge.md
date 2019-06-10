@@ -4,7 +4,7 @@ permalink: /challenges/MUX-mission-system-airborne-early-warning-aew-payload-pri
 challenge-id: 1038
 status: open
 sidenav: true
-card-image: /assets/images/cards/MUX_logo_large.jpg
+card-image: /assets/images/cards/MUX_logo_resize.jpg
 agency-logo: dod_seal.jpg
 challenge-title: MUX Mission System Airborne Early Warning (AEW) Payload Prize Challenge
 tagline: The AEW mission system payload prize challenge seeks to obtain information, performance capabilities, and technical data on mission system payload technologies to inform the development and acquisition strategy for the Marine Air Ground Task Force, Unmanned Aircraft System, Expeditionary (MUX) Program.
@@ -56,7 +56,7 @@ challenge-manager-email: sean.t.mcmanus@navy.mil
 {: .text-accent-warm-dark .font-heading-lg}
 
 <div class="jumbotron description">
-        <p><span lang="EN">Detailed submission requirements, including terms and conditions, are provided at </span><span lang="EN"><a href="http://www.navair.navy.mil/muxchallenge">http://www.navair.navy.mil/muxchallenge</a></span></p>
+        <p><span lang="EN">Detailed submission requirements, including terms and conditions, are provided at </span><span lang="EN"><a href="http://www.navair.navy.mil/muxchallenge" target="_blank" rel="noopener">http://www.navair.navy.mil/muxchallenge</a></span></p>
       </div>
 
 <!-- Judging start -->
