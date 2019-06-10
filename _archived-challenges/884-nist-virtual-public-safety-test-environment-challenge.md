@@ -4,7 +4,7 @@ permalink: /challenge/nist-virtual-public-safety-test-environment-challenge/
 challenge-id: 884
 status: closed
 sidenav: false
-card-image: /assets/images/cards/VRideation-main-image
+card-image: /assets/images/cards/VRideation-main-image.jpg
 agency-logo: NIST_logo.png
 challenge-title: NIST Virtual Public Safety Test Environment Challenge
 tagline: Design a physical measurement environment that uses immersive virtual reality tools for testing new first responder technologies.
