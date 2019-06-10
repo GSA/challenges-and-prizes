@@ -4,7 +4,7 @@ permalink: /challenges/mux-mission-system-intelligence-surveillance-and-reconnai
 challenge-id: 1041
 status: open
 sidenav: true
-card-image: /assets/images/cards/NAVAIR_MUX_logo.jpg
+card-image: /assets/images/cards/MUX_logo_resize.jpg
 agency-logo: dod_seal.jpg
 challenge-title: MUX Mission System Intelligence, Surveillance, and Reconnaissance (ISR) Payload Prize Challenge
 tagline: The Intelligence, Surveillance, and Reconnaissance (ISR) payload prize challenge seeks to obtain information, performance capabilities, and technical data on mission system payload technologies to inform the development and acquisition strategy for the Marine Air Ground Task Force, Unmanned Aircraft System, Expeditionary (MUX) Program.
@@ -37,26 +37,12 @@ challenge-manager-email:
 <p><span lang="EN">Within the written description, participants must also address questions about compliance with </span><span lang="EN">Federal Acquisition Regulation and Department of Defense Federal Acquisition Regulation Supplement requirements and provide a Rough Order of Magnitude (ROM) for the cost to develop the proposed payload and for the cost to produce the payload on a per unit basis.&nbsp;</span></p>
 <p><span lang="EN">The Government intends to award the prizes to the proposals that comply with the requirements of the prize challenge and, all factors considered, provide the greatest overall benefit to the Government.</span></p>
    <p><span lang="EN">A full description of the submission requirements and evaluation criteria can be found at </span><span lang="EN"><a href="http://www.navair.navy.mil/muxchallenge" target="_blank" rel="noopener">http://www.navair.navy.mil/muxchallenge</a></span><span lang="EN">.&nbsp; If there is a conflict between the information found on this challenge.gov posting and the information contained at </span><span lang="EN"><a href="http://www.navair.navy.mil/muxchallenge" target="_blank" rel="noopener">http://www.navair.navy.mil/muxchallenge</a></span><span lang="EN">, the information at </span><span lang="EN"><a href="http://www.navair.navy.mil/muxchallenge" target="_blank" rel="noopener">http://www.navair.navy.mil/muxchallenge</a></span><span lang="EN"> shall govern.</span></p>
-
-
-</div> <!-- ./challenge-summary -->
-
-
+</div>
 
 
 <!-- Prizes start -->
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg}
-
-
-<div id="member-login-info" data-is-authenticated="false" data-login-redirect="true" data-login-url="/a/sso/login?returnUrl=https%3A%2F%2Fchallenge.gov%2Fa%2Fbuzz%2Fchallenge%2F1041%2Fideas%2Ftop"></div>
-
-<div role="tabpanel" aria-labelledby="challenge-prizes-tab" tabindex="0" class="tab-pane" id="challenge-prizes">
-<div class="jumbotron">
-
-
-
-
 
 <div class="prize-item">
 <h4 class="text-primary">Breakdown</h4>
@@ -67,40 +53,29 @@ challenge-manager-email:
 <p><span lang="EN"> Third Place: $100,000</span></p>
 </div>
 </div>
-</div>
-</div> <!-- ./challenge-prizes -->
 
 <!-- Rules start -->
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg}
 
-<div role="tabpanel" aria-labelledby="challenge-rules-tab" tabindex="0" class="tab-pane" id="challenge-rules">
 <div class="jumbotron description">
  <p><span lang="EN">Detailed submission requirements, including terms and conditions, are provided at </span><span lang="EN"><a href="http://www.navair.navy.mil/muxchallenge" target="_blank" rel="noopener">http://www.navair.navy.mil/muxchallenge</a></span></p>
 </div>
-</div> <!-- ./challenge-rules -->
 
 <!-- Judging start -->
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg}
 
-<div role="tabpanel" aria-labelledby="challenge-judging-criteria-tab" tabindex="0" class="tab-pane" id="challenge-judging-criterias">
-<div class="jumbotron description">
-
 <div class="judging-criterias">
-
 <div class="prize-item">
-
  <p><span lang="EN">More information about the evaluation criteria can be found at </span><span lang="EN"><a href="http://www.navair.navy.mil/muxchallenge" target="_blank" rel="noopener">http://www.navair.navy.mil/muxchallenge</a></span></p>
 </div>
-</div>      </div>
-</div> <!-- ./challenge-rules -->
+</div>     
 
 <!--  How To Enter start -->
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg}
 
-<div role="tabpanel" aria-labelledby="challenge-how-to-enter-tab" tabindex="0" class="tab-pane" id="challenge-how-to-enter">
 <div class="jumbotron description">
  <p><span lang="EN">Please visit </span><span lang="EN"><a href="http://www.navair.navy.mil/muxchallenge" target="_blank" rel="noopener">http://www.navair.navy.mil/muxchallenge</a></span>&nbsp;to learn more about the prize challenge, submission requirements, evaluation criteria, MBSE model descriptions, and terms and conditions.&nbsp;</p>
 <p><strong>Key Dates</strong></p>
@@ -110,4 +85,3 @@ challenge-manager-email:
 <p><em><span lang="EN">Judging Start/End: </span></em><span lang="EN">8:00am EST on 22 Sep 2019 until 11:59pm EST on 22 Oct 2019.</span></p>
 <p><em><span lang="EN">Winners Announced: </span></em><span lang="EN">No Later than 31 Oct 2019.</span></p>
 </div>
-</div> <!-- ./challenge-how-to-enter -->
