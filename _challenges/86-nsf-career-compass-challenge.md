@@ -14,7 +14,7 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash:
 type-of-challenge:  Ideas
-submission-start: 
+submission-start: 2019/04/15 03:30 PM
 submission-end: 2019/07/12 11:59 PM
 submission-link:  
 prizes: true
@@ -36,7 +36,7 @@ prizes: true
 </ul>
 <p><strong>May 23, 2019 Part 2 Webinar &ndash; 1:00 PM ET&nbsp;</strong></p>
 <ul>
-<li><a href="https://nsf2.webex.com/nsf2/onstage/g.php?MTID=e0dab939611c8078a65b120393f8ca29c" target="_blank" rel="noopener">https://nsf2.webex.com/nsf2/onstage/g.php?MTID=e0dab939611c8078a65b120393f8ca29c</a></li>
+<li><a href="{{ site.baseurl }}/assets/document-library/CCC-Part-2-May-Webinar.pdf" target="_blank" rel="noopener">Slide Presentation</a></li>
 </ul>
 <p><strong>June 19, 2019 Part 2 Webinar&nbsp;&ndash; 1:00 PM ET&nbsp;</strong></p>
 <ul>
