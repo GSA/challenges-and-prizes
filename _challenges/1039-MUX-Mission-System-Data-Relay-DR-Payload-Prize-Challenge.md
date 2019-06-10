@@ -4,7 +4,7 @@ permalink: /challenges/mux-mission-system-data-relay-payload-prize-challenge/
 challenge-id: 1039
 status: open
 sidenav: true
-card-image: /assets/images/cards/MUX_logo_large.jpg
+card-image: /assets/images/cards/MUX_logo_resize.jpg
 agency-logo: dod_seal.jpg
 challenge-title: MUX Mission System Data Relay (DR) Payload Prize Challenge
 tagline: The Data Relay (DR) mission system payload prize challenge seeks to obtain information, performance capabilities, and technical data on mission system payload technologies to inform the development and acquisition strategy for the Marine Air Ground Task Force, Unmanned Aircraft System, Expeditionary (MUX) Program.
