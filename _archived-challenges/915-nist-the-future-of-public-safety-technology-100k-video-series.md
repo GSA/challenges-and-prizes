@@ -191,7 +191,7 @@ challenge-manager-email: terese.manley@nist.gov
 <h3>Registration</h3>
 <p>To register for the challenge competition:</p>
 <ul>
-<li>Go to the&nbsp;<a href="https://web.archive.org/web/20171002130344/https://tongal.com/project/TheFutureofPublicSafetyTechnology/">Tongal website</a>.</li>
+<li>Go to the&nbsp;<a href="https://tongal.com/project/TheFutureofPublicSafetyTechnology/">Tongal website</a>.</li>
 <li>Register with a username and password.</li>
 <li>Official entries are accepted only through the Tongal platform on or before 1 PM (local time)&nbsp;August 28, 2017 for Phase 1 and September 15, 2017 for Phase 2.</li>
 </ul>
