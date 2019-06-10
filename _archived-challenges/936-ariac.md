@@ -249,8 +249,8 @@ challenge-manager-email: craig.schlenoff@nist.gov
 {: .text-accent-warm-dark .font-heading-lg}
 
 <ol>
-<li>Register at the&nbsp;<a href="https://web.archive.org/web/20180924181822/http://www.nist.gov/ariac">ARIAC Website</a></li>
-<li>Start coding! Review the Official Rules and documentation available at the&nbsp;<a href="https://web.archive.org/web/20180924181822/http://www.nist.gov/ariac">ARIAC Website</a>&nbsp;to design your own robot control software.</li>
+<li>Register at the&nbsp;<a href="http://www.nist.gov/ariac">ARIAC Website</a></li>
+<li>Start coding! Review the Official Rules and documentation available at the&nbsp;<a href="http://www.nist.gov/ariac">ARIAC Website</a>&nbsp;to design your own robot control software.</li>
 <li>Compete in the Qualifiers in April 2018</li>
 <li>High-scoring teams will be invited to compete in the Finals May 11 &ndash; May 17, 2018</li>
 </ol>
