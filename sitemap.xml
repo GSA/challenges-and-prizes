@@ -22,11 +22,19 @@ layout: null
     {% endif %}
   </url>
   {% endunless %}{% endfor %}
-  {% for project in site.catalog-projects %}
+  {% for challenge in site.challenges %}
   <url>
-    <loc>{{ project.url | replace:'/index.html','/' | prepend: site_url }}</loc>
-    {% if project.last_modified_at %}
-    <lastmod>{{ project.last_modified_at | date_to_xmlschema }}</lastmod>
+    <loc>{{ challenge.url | replace:'/index.html','/' | prepend: site_url }}</loc>
+    {% if challenge.last_modified_at %}
+    <lastmod>{{ challenge.last_modified_at | date_to_xmlschema }}</lastmod>
+    {% endif %}
+  </url>
+  {% endfor %}
+  {% for archived-challenge in site.archived-challenges %}
+  <url>
+    <loc>{{ archived-challenge.url | replace:'/index.html','/' | prepend: site_url }}</loc>
+    {% if archived-challenge.last_modified_at %}
+    <lastmod>{{ archived-challenge.last_modified_at | date_to_xmlschema }}</lastmod>
     {% endif %}
   </url>
   {% endfor %}
