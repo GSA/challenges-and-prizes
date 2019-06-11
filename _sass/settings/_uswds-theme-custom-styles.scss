@@ -129,14 +129,18 @@ h3 a {
 
 // Sidenav
 .usa-layout-docs-sidenav {
-	align-self: flex-start;
-	position: sticky;
-	top: 10px;
+	@include at-media(desktop) {
+		align-self: flex-start;
+		position: sticky;
+		top: 10px;
+	}
 }
 
 .usa-sidenav a {
-	padding-left: 0;
 	color: color('accent-warm-dark');
+	@include at-media(desktop) {
+	padding-left: 0;
+	}
 
 	&:hover {
 		color: color('base-dark');

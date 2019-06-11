@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/iCARE-AD-ADRD/
+permalink: /challenge/iCARE-AD-ADRD/
 challenge-id: 36
 status: open
 sidenav: true
@@ -8,7 +8,7 @@ card-image: /assets/images/cards/iCare.jpg
 agency-logo: NIH-Generic.png
 challenge-title: iCARE-AD/ADRD
 tagline: Can you develop an app to improve care coordination and/or navigation for persons with dementia?
-agency: National Institutes of Health
+agency: Department of Health and Human Services - National Institutes of Health
 partner-agencies-federal: 
 partners-non-federal: 
 external-url:
@@ -37,7 +37,7 @@ prizes: true
 <li><em><span style="text-decoration: underline;">Aiding care access and access to relevant community resources and/or enhancing user-friendliness of existing service access interfaces</span></em>: Solvers could use technology to assist PWD with aging in place, improve access to appropriate transportation options using smart devices, and coordinate health care visits.</li>
 <li><em><span style="text-decoration: underline;">Improving care coordination</span></em>: A collaboration between a technology company, EHR vendor, and nursing home chain could yield EHR-based methods to improve care coordination. Care coordination solutions may also involve behavioral &ldquo;nudges&rdquo; for care providers and/or care recipients using smart technology and may be designed for direct use by PWD and caregivers.</li>
 </ol>
-<p>The full description, rules, and details of this challenge are defined on NIA&rsquo;s challenge details page (<strong><a href="https://nia.nih.gov/challenge-prize">https://nia.nih.gov/challenge-prize</a></strong>).</p>
+<p>The full description, rules, and details of this challenge are defined on NIA&rsquo;s challenge details page (<strong><a href="https://nia.nih.gov/challenge-prize" target="_blank" rel="noopener">https://nia.nih.gov/challenge-prize</a></strong>).</p>
 
 <!-- Prizes start -->
 ### Prizes
@@ -53,17 +53,17 @@ prizes: true
 <p>All details related to rules and eligibility are defined on&nbsp;<strong><a href="https://nia.nih.gov/challenge-prize">NIA&rsquo;s challenge details</a></strong>&nbsp;page. Only complete applications will be reviewed.</p>
 <p><strong>To participate:</strong></p>
 <ul>
-<li>Must follow all rules &amp; guidelines listed on <strong><a href="https://nia.nih.gov/challenge-prize">NIA&rsquo;s challenge details page</a></strong></li>
+<li>Must follow all rules &amp; guidelines listed on <strong><a href="https://nia.nih.gov/challenge-prize" target="_blank" rel="noopener">NIA&rsquo;s challenge details page</a></strong></li>
 <li>Must be 18 years of age or older</li>
 <li>May participate individually or as part of one or more teams</li>
 <li>Each team&rsquo;s designated captain must be a U.S. citizen or permanent resident</li>
-<li>Must use <strong><a href="https://www.nia.nih.gov/icare-ad-adrd-eureka-prize-submission-template">NIA&rsquo;s&nbsp;application template</a></strong>&nbsp;to format submissions</li>
-<li>Must submit solutions via email to NIAPrizeInput@nih.gov by June 30, 2019</li>
+<li>Must use <strong><a href="https://www.nia.nih.gov/icare-ad-adrd-eureka-prize-submission-template" target="_blank" rel="noopener">NIA&rsquo;s&nbsp;application template</a></strong>&nbsp;to format submissions</li>
+<li>Must submit solutions via email to <a href="mailto:NIAPrizeInput@nih.gov" target="_blank" rel="noopener">NIAPrizeInput@nih.gov</a> by June 30, 2019</li>
 </ul>
 <p><strong>To win prizes:</strong></p>
 <ul>
 <li>Must be a US citizen or permanent resident</li>
-<li>Agree to the eligibility rules and requirements listed on <strong><a href="https://nia.nih.gov/challenge-prize">NIA&rsquo;s challenge details page</a></strong></li>
+<li>Agree to the eligibility rules and requirements listed on <strong><a href="https://nia.nih.gov/challenge-prize" target="_blank" rel="noopener">NIA&rsquo;s challenge details page</a></strong></li>
 <li>Submit solutions via email to NIAPrizeInput@nih.gov by June 30, 2019</li>
 </ul>
 </ul>
@@ -72,7 +72,7 @@ prizes: true
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg}
 <ul type="disc">
-<li>Go to NIA&rsquo;s challenge details page (<a href="https://nia.nih.gov/challenge-prize">https://nia.nih.gov/challenge-prize</a>) and see &ldquo;Submission Requirements and Template.&rdquo;</li>
+<li>Go to NIA&rsquo;s challenge details page (<a href="https://nia.nih.gov/challenge-prize" target="_blank" rel="noopener">https://nia.nih.gov/challenge-prize</a>) and see &ldquo;Submission Requirements and Template.&rdquo;</li>
 <li>Solvers must submit their solutions via email to NIAPrizeInput@nih.gov. Use the application template to format your submissions.</li>
 <li>Submit your solutions via email to NIAPrizeInput@nih.gov:</li>
 <ul type="circle">
@@ -80,4 +80,4 @@ prizes: true
 </ul>
 </ul>
 <p>For further submission information contact:</p>
-<p>Dawn Beraud, Ph.D., NIA, 301-496-0767; Partha Bhattacharyya, Ph.D., NIA, 301-496-3131; or send an email to&nbsp;<a href="mailto:NIAPrizeInput@nih.gov">NIAPrizeInput@nih.gov</a></p>
+<p>Dawn Beraud, Ph.D., NIA, 301-496-0767; Partha Bhattacharyya, Ph.D., NIA, 301-496-3131; or send an email to&nbsp;<a href="mailto:NIAPrizeInput@nih.gov" target="_blank" rel="noopener">NIAPrizeInput@nih.gov</a></p>

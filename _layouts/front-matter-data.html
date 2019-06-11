@@ -27,8 +27,10 @@ permalink: json-page
                             {% if page.partners-non-federal  %}
                             <i class="fas fa-building text-accent-warm-dark"></i><span class="text-primary text-uppercase">  Partner Agencies | Non-federal:</span> {{ page.partners-non-federal }}<br>
                             {% endif %}
-                            <i class="fas fa-calendar-alt text-accent-warm-dark"></i><span class="text-primary text-uppercase">  Submission Start:</span> {{ page.submission-start }} ET<br>
-                            <i class="fas fa-calendar-times text-accent-warm-dark"></i><span class="text-primary text-uppercase">  Submission End:</span> {{ page.submission-end }} ET
+                            {% if page.submission-start  %}
+                            <i class="fas fa-calendar-alt text-accent-warm-dark"></i><span class="text-primary text-uppercase">  Submission Start:</span> {{ page.submission-start | date: "%m/%d/%Y %I:%M %p" }} ET<br>
+                            {% endif %}
+                            <i class="fas fa-calendar-times text-accent-warm-dark"></i><span class="text-primary text-uppercase">  Submission End:</span> {{ page.submission-end | date: "%m/%d/%Y %I:%M %p" }} ET
                     </div>
               
                 </div>

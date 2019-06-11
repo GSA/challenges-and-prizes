@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/individuals-taking-energy-action-in-manufacturing-iteam/
+permalink: /challenge/individuals-taking-energy-action-in-manufacturing-iteam/
 challenge-id: 90
 status: open
 sidenav: true
@@ -18,7 +18,7 @@ submission-start: 10/05/2018 12:00 AM
 submission-end: 2020/05/15 11:59 PM
 submission-link:  
 prizes: true
-fiscal-year: FY19-FY20
+fiscal-year: FY19-20
 legal-authority: America COMPETES
 challenge-manager: Tertia Speiser
 challenge-manager-email: Tertia.Speiser@ee.doe.gov
@@ -57,34 +57,34 @@ challenge-manager-email: Tertia.Speiser@ee.doe.gov
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg}
 
-<div class="prize-item">
-        <h4 class="text-primary">Small Manufacturer</h4>
-                          <p class="prize"><strong>$25,000</strong></p>
-                          <div class="description">
-            <p>DOE will make up to five $5,000 awards in this category.</p>
-          </div>
-              </div>
-              <div class="prize-item">
-        <h4 class="text-primary">Medium Manufacturer</h4>
-                          <p class="prize"><strong>$25,000</strong></p>
-                          <div class="description">
-            <p>DOE will make up to five $5,000 awards in this category.</p>
-          </div>
-              </div>
-              <div class="prize-item">
-        <h4 class="text-primary">Larger Manufacturer</h4>
-                          <p class="prize"><strong>$25,000</strong></p>
-                          <div class="description">
-            <p>DOE will make up to five $5,000 awards in this category.</p>
-          </div>
-              </div>
+<div>
+<h4>Small Manufacturer</h4>
+<p><strong>$25,000</strong></p>
+<div>
+<p>DOE will make up to five $5,000 awards in this category.</p>
+</div>
+</div>
+<div>
+<h4>Medium Manufacturer</h4>
+<p><strong>$25,000</strong></p>
+<div>
+<p>DOE will make up to five $5,000 awards in this category.</p>
+</div>
+</div>
+<div>
+<h4>Larger Manufacturer</h4>
+<p><strong>$25,000</strong></p>
+<div>
+<p>DOE will make up to five $5,000 awards in this category.</p>
+</div>
+</div>
 
 <!-- Rules start -->
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg}
 
 <div class="description">
-        <p>Read the full competition <a href="/community-library/1043/ITEAM-Prize-Competition-Rules-Document.pdf">rules document</a>.</p>
+        <p>Read the full competition <a href="{{ site.baseurl }}/assets/document-library/ITEAM-Prize-Competition-Rules-Document.pdf" target="_blank" rel="noopener">rules document</a>.</p>
       </div>
       
 <!-- Judging start -->
@@ -118,14 +118,4 @@ challenge-manager-email: Tertia.Speiser@ee.doe.gov
 
 <div class="description">
         <p>Before submitting, please familiarize yourself with the <a href="/assets/document-library/ITEAM-Prize-Competition-Rules-Document.pdf">full rules and guidelines for this competition</a>. By submitting, you are agreeing to the terms and conditions defined in that rules document.</p>
-<p>Then follow these steps:</p>
-<ol>
-<li>Make sure you are logged into Challenge.gov and on the ITEAM challenge.</li>
-<li>Click the red "Submit" button at the top right of the page to bring up the submission form page.</li>
-<li>Include a title for your entry in the <strong>Title</strong> field on the submission form.</li>
-<li>Include a brief abstract in the <strong>Description</strong> field.</li>
-<li>Upload your narrative document and any letters of support by clicking <strong>Browse File</strong> under Attachment.</li>
-<li>Select the appropriate cateogry from the drop-down menu under <strong>Size of Manufacturer</strong>.</li>
-<li>When you have the required information included, click the blue "Submit" button at the bottom of the submission form page.</li>
-</ol>
-      </div>
+<p><strong>Send submissions to&nbsp;<a href="mailto:iteamprize@ee.doe.gov" target="_blank" rel="noopener">iteamprize@ee.doe.gov.</a></strong></p>

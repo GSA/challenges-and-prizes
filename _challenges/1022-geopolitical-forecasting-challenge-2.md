@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/geopolitical-forecasting-challenge-2/
+permalink: /challenge/geopolitical-forecasting-challenge-2/
 challenge-id: 1022
 status: open
 sidenav: true
@@ -14,8 +14,12 @@ partners-non-federal:
 external-url: https://www.herox.com/IARPAGFChallenge2
 total-prize-offered-cash: $250,000
 type-of-challenge: Scientific
-submission-start: 
+submission-start: 2019/05/15 12:30 PM
 submission-end: 2019/11/19 02:01 PM
 submission-link:  
 prizes: true
+fiscal-year: FY19-20
+legal-authority: Other
+challenge-manager: Rebecca Allegar
+challenge-manager-email: rebecca.allegar@iarpa.gov
 ---

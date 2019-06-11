@@ -1,10 +1,10 @@
 ---
 layout: front-matter-data
-permalink: /challenges/mux-electronic-warfare-payload-prize-challenge/
+permalink: /challenge/mux-electronic-warfare-payload-prize-challenge/
 challenge-id: 1040
 status: open
 sidenav: true
-card-image: /assets/images/cards/MUX_logo_large.jpg
+card-image: /assets/images/cards/MUX_logo_resize.jpg
 agency-logo: dod_seal.jpg
 challenge-title: MUX Electronic Warfare (EW) Payload Prize Challenge
 tagline: The Electronic Warfare (EW) payload prize challenge seeks to obtain information, performance capabilities, and technical data on mission system payload technologies to inform the development and acquisition strategy for the Marine Air Ground Task Force, Unmanned Aircraft System, Expeditionary (MUX) Program.
@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash: $1,000,000
 type-of-challenge: technology demonstration
 submission-start: 05/23/2019 12:00 AM
-submission-end: 2019/09/21 11:59 PM
+submission-end: 2019/09/23 11:59 PM
 submission-link: http://www.navair.navy.mil/muxchallenge 
 prizes: true
 fiscal-year: FY19-20
@@ -42,13 +42,14 @@ challenge-manager-email: sean.t.mcmanus@navy.mil
 {: .text-accent-warm-dark .font-heading-lg}
 
 <div class="prize-item">
-        <h4 class="text-primary">Breakdown</h4>
-                          <p class="prize"><strong>$1,000,000</strong></p>
-                          <div class="description">
-            <p><span lang="EN">First Place: $700,000</span></p>
+<h4 class="text-primary">Breakdown</h4>
+<p class="prize"><strong>$1,000,000</strong></p>
+<div class="description">
+<p><span lang="EN">First Place: $700,000</span></p>
 <p><span lang="EN">Second Place: $200,000</span></p>
 <p><span lang="EN">Third Place: $100,000</span></p>
-          </div>
+</div>
+</div>
 
 <!-- Rules start -->
 ### Rules 
@@ -77,7 +78,7 @@ challenge-manager-email: sean.t.mcmanus@navy.mil
 <p><strong>Key Dates</strong></p>
 <p><em><span lang="EN">Initial qualification application: </span></em><span lang="EN">From date of posting through 11:59pm EST on 3 Jun 2019. </span></p>
 <p><em><span lang="EN">Intent to participate: </span></em><span lang="EN">From receipt of invitation through 11:59pm EST on 25 June 2019.</span></p>
-<p><em><span lang="EN">Final submission phase: </span></em><span lang="EN">From receipt of invitation through 11:59pm EST on 21 Sep 2019.</span></p>
-<p><em><span lang="EN">Judging Start/End: </span></em><span lang="EN">8:00am EST on 22 Sep 2019 until 11:59pm EST on 22 Oct 2019.</span></p>
-<p><em><span lang="EN">Winners Announced: </span></em><span lang="EN">No Later than 31 Oct 2019.</span></p>
+<p><em><span lang="EN">Final submission phase: </span></em><span lang="EN">From receipt of invitation through 11:59pm EST on 23 Sep 2019.</span></p>
+<p><em><span lang="EN">Judging Start/End: </span></em><span lang="EN">8:00am EST on 24 Sep 2019 until 11:59pm EST on 05 November 2019.</span></p>
+<p><em><span lang="EN">Winners Announced: </span></em><span lang="EN">No Later than 13 November 2019.</span></p>
       </div>

@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/ahrq-bringing-predictive-analysis-to-healthcare/
+permalink: /challenge/ahrq-bringing-predictive-analysis-to-healthcare/
 challenge-id: 1011
 status: open
 sidenav: true
@@ -8,7 +8,7 @@ card-image: /assets/images/cards/ahrq-logo.png
 agency-logo: ahrq-logo.png
 challenge-title: AHRQ Bringing Predictive Analysis to Healthcare
 tagline: Can you leverage predictive analytics to help forecast healthcare utilization data?
-agency: Agency for Healthcare Research and Quality
+agency: Department of Health and Human Services - Agency for Healthcare Research and Quality
 partner-agencies-federal: 
 partners-non-federal: 
 external-url: 
@@ -47,16 +47,16 @@ prizes: true
 <!-- Rules start -->
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg}
-<p><span lang="EN">Additional Challenge information as well as the submission page is found at:&nbsp;<a href="https://www.ahrq.gov/predictive-analytics-challenge">https://www.ahrq.gov/predictive-analytics-challenge</a></span></p>
+<p><span lang="EN">Additional Challenge information as well as the submission page is found at:&nbsp;<a href="https://www.ahrq.gov/predictive-analytics-challenge" target="_blank" rel="noopener">https://www.ahrq.gov/predictive-analytics-challenge</a></span></p>
 <p><span lang="EN">For questions about the challenge, please email </span><span lang="EN"><a href="mailto:ahrqchallenge@ahrq.hhs.gov" target="_blank" rel="noopener">ahrqchallenge@ahrq.hhs.gov</a></span><span lang="EN">.</span></p>
 
 <!-- Judging start -->
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg}
-  <p><span lang="EN">Judging Criteria can be found at the <a href="https://www.ahrq.gov/predictive-analytics-challenge">Challenge website</a>.</span></p>
+  <p><span lang="EN">Judging Criteria can be found at the <a href="https://www.ahrq.gov/predictive-analytics-challenge" target="_blank" rel="noopener">Challenge website</a>.</span></p>
 
 <!--  How To Enter start -->
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg}
-<p><span lang="EN">Additional challenge information as well as the submission page is found at:&nbsp;<a href="https://www.ahrq.gov/predictive-analytics-challenge">https://www.ahrq.gov/predictive-analytics-challenge</a></span></p>
+<p><span lang="EN">Additional challenge information as well as the submission page is found at:&nbsp;<a href="https://www.ahrq.gov/predictive-analytics-challenge" target="_blank" rel="noopener">https://www.ahrq.gov/predictive-analytics-challenge</a></span></p>
 <p><span lang="EN">For questions about the challenge, please email </span><span lang="EN"><a href="mailto:ahrqchallenge@ahrq.hhs.gov" target="_blank" rel="noopener">ahrqchallenge@ahrq.hhs.gov</a></span><span lang="EN">.</span></p>

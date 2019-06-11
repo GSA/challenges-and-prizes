@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/visualization-resources-of-community-level-social-determinants-of-health-challenge/
+permalink: /challenge/visualization-resources-of-community-level-social-determinants-of-health-challenge/
 challenge-id: 1004
 status: false
 sidenav: true

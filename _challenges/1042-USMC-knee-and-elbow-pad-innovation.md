@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/USMC-knee-and-elbow-pad-innovation/
+permalink: /challenge/USMC-knee-and-elbow-pad-innovation/
 challenge-id: 1042
 status: open
 sidenav: true
@@ -8,13 +8,13 @@ card-image: /assets/images/cards/MEC_Challenge_KneeElbow.jpg
 agency-logo: dod_seal.jpg
 challenge-title: USMC Knee and Elbow Pad Innovation
 tagline: The Marine Corps is seeking an innovative solution to improve comfort, impact protection, and operator acceptance of knee and elbow pads while maintaining mobility and operators range of motion.
-agency: Department of Defense
+agency: Department of Defense - U.S. Marine Corps
 partner-agencies-federal: 
 partners-non-federal: MilTech (EPIC)
 external-url: 
 total-prize-offered-cash: $5,000
 type-of-challenge:  Technology demonstration and hardware
-submission-start: 
+submission-start: 2019/05/28 12:00 PM
 submission-end: 2019/07/12 11:59 PM
 submission-link:  https://www.marcorsyscom.marines.mil/Unit-Home/Marine-Equipping-Challenge/Knee-and-Elbow-Pad-Challenge/
 prizes: true
@@ -29,7 +29,7 @@ challenge-manager-email: Meghann.L.Viggiani.ctr@usmc.mil
 <!-- Description start -->
 ### Description
 {: .text-accent-warm-dark .font-heading-lg}
-<p><img src="/assets/images/challenge-content/Knee%20%26%20Elbow%20LinkedIn.jpg" width="919" height="481" /></p>
+<p><img src="{{ site.baseurl }}/assets/images/challenge-content/Knee-and-Elbow.jpg" width="919" height="481" /></p>
 <p><strong>Problem Statement:</strong></p>
 <p>The Marine Corps seeks new and innovative ideas and solutions that improve the currently fielded knee and elbow pads&rsquo; comfort. &nbsp;The current knee and elbow pads secure to the leg or arm with elastic bands, negatively affecting comfort, maneuverability, and stability. &nbsp;Knee and elbow pad ideas and solutions that enhance the Marines&rsquo; comfort, maneuverability, and stability, and can either integrate into the trousers and blouse or are stand-alone items are sought.</p>
 <p>The desired end-state is to determine a design or concept that provides improved comfort, impact protection and operator acceptance, while maintaining mobility and operator&rsquo;s range of motion.</p>
