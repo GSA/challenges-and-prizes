@@ -8,14 +8,14 @@ card-image: /assets/images/cards/NIH_Master_Logo_Vertical_2Color.jpg
 agency-logo: NIH_Master_Logo_Vertical_2Color.jpg
 challenge-title: The 2017 "$100,000 for Start a SUD Startup" Challenge
 tagline: Can your research idea can be fostered into a biotech startup?
-agency: National Institutes of Health
+agency: Department of Health and Human Services - National Institutes of Health
 partner-agencies-federal: 
 partners-non-federal: 
 external-url:
 total-prize-offered-cash: $100,000
 type-of-challenge: ideas
-submission-start: 06/09/2017 08:00 AM
-submission-end: 12/22/2017 05:00 PM
+submission-start: 2017/06/09 08:00 AM
+submission-end: 2017/12/22 05:00 PM
 submission-link:  
 prizes: true
 fiscal-year: FY17-18
@@ -57,6 +57,7 @@ challenge-manager-email: irina.sazonova@nih.gov
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg}
 
+<p>The Challenge will offer up to ten awards of $10,000 each and provide mentorship support from NIDA entrepreneurship experts for MVP development. The total prize award pool is up to $100,000. No institutional indirect costs are allowed. Winners are encouraged to submit the minimum viable proof (MVP) report 6 months after the prize payment. The names of the winners and the titles of their submissions will be posted on the NIDA web site. The award approving official for this Challenge is the Director of the National Institute on Drug Abuse.</p>
 
 <!-- Rules start -->
 ### Rules 
@@ -144,3 +145,9 @@ challenge-manager-email: irina.sazonova@nih.gov
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg}
 
+<ol>
+<li>Review the full challenge details, rules for participation and submission requirements.</li>
+<li>Create an account on Challenge.gov, or use an existing account, to submit your solution.</li>
+<li>Scientists working on the projects that are directly applicable or adaptable to benefit the SUD field, NIDA&rsquo;s mission area, are especially encouraged to apply. A team can also include engineers, IT, business or other professionals in the biomedical science/health care field.</li>
+</ol>
+<p>For further submission information contact Irina Sazonova, Ph.D.&nbsp;<a href="mailto:irina.sazonova@nih.gov">irina.sazonova@nih.gov</a></p>
