@@ -118,14 +118,4 @@ challenge-manager-email: Tertia.Speiser@ee.doe.gov
 
 <div class="description">
         <p>Before submitting, please familiarize yourself with the <a href="/assets/document-library/ITEAM-Prize-Competition-Rules-Document.pdf">full rules and guidelines for this competition</a>. By submitting, you are agreeing to the terms and conditions defined in that rules document.</p>
-<p>Then follow these steps:</p>
-<ol>
-<li>Make sure you are logged into Challenge.gov and on the ITEAM challenge.</li>
-<li>Click the red "Submit" button at the top right of the page to bring up the submission form page.</li>
-<li>Include a title for your entry in the <strong>Title</strong> field on the submission form.</li>
-<li>Include a brief abstract in the <strong>Description</strong> field.</li>
-<li>Upload your narrative document and any letters of support by clicking <strong>Browse File</strong> under Attachment.</li>
-<li>Select the appropriate cateogry from the drop-down menu under <strong>Size of Manufacturer</strong>.</li>
-<li>When you have the required information included, click the blue "Submit" button at the bottom of the submission form page.</li>
-</ol>
-      </div>
+<p><strong>Send submissions to&nbsp;<a href="mailto:iteamprize@ee.doe.gov" target="_blank" rel="noopener">iteamprize@ee.doe.gov.</a></strong></p>
