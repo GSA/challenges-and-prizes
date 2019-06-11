@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/tech-to-protect-challenge/
+permalink: /challenge/tech-to-protect-challenge/
 challenge-id: 1018
 status: open
 sidenav: true

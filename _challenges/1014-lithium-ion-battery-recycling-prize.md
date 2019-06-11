@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/lithium-ion-battery-recycling-prize/
+permalink: /challenge/lithium-ion-battery-recycling-prize/
 challenge-id: 1014
 status: open
 sidenav: true

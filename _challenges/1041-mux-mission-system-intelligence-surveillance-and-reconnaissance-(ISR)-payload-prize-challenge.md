@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/mux-mission-system-intelligence-surveillance-and-reconnaissance-(ISR)-payload-prize-challenge/
+permalink: /challenge/mux-mission-system-intelligence-surveillance-and-reconnaissance-(ISR)-payload-prize-challenge/
 challenge-id: 1041
 status: open
 sidenav: true

@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/geopolitical-forecasting-challenge-2/
+permalink: /challenge/geopolitical-forecasting-challenge-2/
 challenge-id: 1022
 status: open
 sidenav: true

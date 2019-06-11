@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/nsf-career-compass-challenge/
+permalink: /challenge/nsf-career-compass-challenge/
 challenge-id: 86
 status: open
 sidenav: true

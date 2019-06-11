@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/USMC-knee-and-elbow-pad-innovation/
+permalink: /challenge/USMC-knee-and-elbow-pad-innovation/
 challenge-id: 1042
 status: open
 sidenav: true

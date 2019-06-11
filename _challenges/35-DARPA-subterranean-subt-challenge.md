@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/DARPA-subterranean-subt-challenge/
+permalink: /challenge/DARPA-subterranean-subt-challenge/
 challenge-id: 35
 status: open
 sidenav: true

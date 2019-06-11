@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/solar-decathlon-2020-design-challenge/
+permalink: /challenge/solar-decathlon-2020-design-challenge/
 challenge-id: 1037
 status: open
 sidenav: true

@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/cinespace-film-competition/
+permalink: /challenge/cinespace-film-competition/
 challenge-id: 1006
 status: open
 sidenav: true

@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/cms-ai-health-outcomes-challenge/
+permalink: /challenge/cms-ai-health-outcomes-challenge/
 challenge-id: 1017
 status: open
 sidenav: true

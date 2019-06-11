@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/american-made-solar-prize-round-2/
+permalink: /challenge/american-made-solar-prize-round-2/
 challenge-id: 1033
 status: open
 sidenav: true

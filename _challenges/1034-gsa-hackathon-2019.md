@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/gsa-hackathon-2019/
+permalink: /challenge/gsa-hackathon-2019/
 challenge-id: 1034
 status: open
 sidenav: true

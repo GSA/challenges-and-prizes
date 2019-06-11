@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/iCARE-AD-ADRD/
+permalink: /challenge/iCARE-AD-ADRD/
 challenge-id: 36
 status: open
 sidenav: true

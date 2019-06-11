@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/ahrq-bringing-predictive-analysis-to-healthcare/
+permalink: /challenge/ahrq-bringing-predictive-analysis-to-healthcare/
 challenge-id: 1011
 status: open
 sidenav: true

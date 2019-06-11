@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/find-the-killer-frog-fungus/
+permalink: /challenge/find-the-killer-frog-fungus/
 challenge-id: 49
 status: open
 sidenav: true

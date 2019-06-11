@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/army-xtech-search-3.0/ 
+permalink: /challenge/army-xtech-search-3.0/ 
 challenge-id: 1029
 status: open
 sidenav: true

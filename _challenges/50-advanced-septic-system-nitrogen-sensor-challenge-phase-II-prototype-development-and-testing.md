@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/advanced-septic-system-nitrogen-sensor-challenge-phase-II-prototype-development-and-testing/
+permalink: /challenge/advanced-septic-system-nitrogen-sensor-challenge-phase-II-prototype-development-and-testing/
 challenge-id: 50
 status: open
 sidenav: true

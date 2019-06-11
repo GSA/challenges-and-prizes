@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/match-pilot-competition/
+permalink: /challenge/match-pilot-competition/
 challenge-id: 1036
 status: open
 sidenav: true

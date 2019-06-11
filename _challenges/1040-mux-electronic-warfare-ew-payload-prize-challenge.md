@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/mux-electronic-warfare-payload-prize-challenge/
+permalink: /challenge/mux-electronic-warfare-payload-prize-challenge/
 challenge-id: 1040
 status: open
 sidenav: true

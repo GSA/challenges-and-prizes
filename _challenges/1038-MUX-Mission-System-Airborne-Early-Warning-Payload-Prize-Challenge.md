@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/MUX-mission-system-airborne-early-warning-aew-payload-prize-challenge/
+permalink: /challenge/MUX-mission-system-airborne-early-warning-aew-payload-prize-challenge/
 challenge-id: 1038
 status: open
 sidenav: true

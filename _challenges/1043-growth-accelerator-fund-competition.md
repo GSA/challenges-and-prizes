@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/growth-accelerator-fund-competition/
+permalink: /challenge/growth-accelerator-fund-competition/
 challenge-id: 1043
 status: open
 sidenav: true

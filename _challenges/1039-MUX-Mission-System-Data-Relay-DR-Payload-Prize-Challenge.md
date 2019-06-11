@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/mux-mission-system-data-relay-payload-prize-challenge/
+permalink: /challenge/mux-mission-system-data-relay-payload-prize-challenge/
 challenge-id: 1039
 status: open
 sidenav: true
