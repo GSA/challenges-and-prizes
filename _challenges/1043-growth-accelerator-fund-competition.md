@@ -119,10 +119,10 @@ challenge-manager-email: steven.becker@nih.gov
 <p>Kentucky</p>
 </td>
 <td valign="bottom" nowrap="nowrap" width="156">
-<p>Northern Mariana Isle.</p>
+<p>Northern Mariana Islands</p>
 </td>
 <td valign="bottom" nowrap="nowrap" width="156">
-<p>U.S. Virginia Islands</p>
+<p>U.S. Virgin Islands</p>
 </td>
 </tr>
 <tr>
