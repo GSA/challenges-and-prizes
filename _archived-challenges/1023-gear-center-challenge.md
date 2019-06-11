@@ -47,7 +47,7 @@ challenge-manager-email: amira.boland@gsa.gov
 <li>Better connect Federal programs with a quantitative and qualitative understanding of the people they serve, and capture the voice of the customer in order to continuously improve Federal services.</li>
 <li>Solvers can suggest their own ideas to address issues described in the President's Management Agenda.</li>
 </ul>
-<p><strong>On May 13, 2019 we hosted a webinar to answer questions</strong>&nbsp;and allow interested Solvers to connect with experts working on PMA challenges. The webinar was broadcast widely and is available online, along with answers to frequently asked questions: <strong><a href="https://vimeo.com/336330824" target="_blank" rel="noopener">Webinar</a> | <a href="/assets/document-library/GEAR-Center-Challenge-QA---Update-1.pdf" target="_blank" rel="noopener">Frequently Asked Questions</a></strong></p>
+<p><strong>On May 13, 2019 we hosted a webinar to answer questions</strong>&nbsp;and allow interested Solvers to connect with experts working on PMA challenges. The webinar was broadcast widely and is available online, along with answers to frequently asked questions: <strong><a href="https://vimeo.com/336330824" target="_blank" rel="noopener">Webinar</a> | <a href="{{ site.baseurl }}/assets/document-library/GEAR-Center-Challenge-QA---Update-1.pdf" target="_blank" rel="noopener">Frequently Asked Questions</a></strong></p>
               </div>
 
 <!-- Prizes start -->
