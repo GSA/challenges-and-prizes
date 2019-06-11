@@ -8,13 +8,13 @@ card-image: /assets/images/cards/army-xtech.png
 agency-logo: dod_seal.jpg
 challenge-title: Army XTechSearch 3.0
 tagline: xTechSearch will highlight opportunities for small businesses to collaborate with the Army to tackle the most critical Army modernization challenges
-agency: Department of Defense
+agency: Department of Defense - U.S. Army
 partner-agencies-federal: 
 partners-non-federal: 
 external-url:
 total-prize-offered-cash: $2,290,000
 type-of-challenge: Ideas
-submission-start: 05/02/2019 12:00 PM 
+submission-start: 2019/05/02/ 12:00 PM 
 submission-end: 2019/06/13 02:59 AM
 submission-link:  https://go.valideval.com/teams/army_xtech_3_0/signup
 prizes: true
@@ -44,7 +44,7 @@ prizes: true
 <div>ASA(ALT)</div>
 <div>Office of the Deputy Assistant Secretary of the Army, Research and Technology</div>
 <div>2800 Crystal Drive, Arlington, VA 22202</div>
-<div>Email: <a href="mailto:usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil">usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil</a></div>
+<div>Email: <a href="mailto:usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil" target="_blank" rel="noopener">usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil</a></div>
 <p>&nbsp;</p>
 
 <!-- Prizes start -->

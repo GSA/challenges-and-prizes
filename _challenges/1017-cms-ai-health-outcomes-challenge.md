@@ -8,7 +8,7 @@ card-image: /assets/images/cards/AI_CMS_updated-logo.png
 agency-logo: 
 challenge-title: CMS AI Health Outcomes Challenge
 tagline: Accelerate the future of health care with AI
-agency: Centers for Medicare and Medicaid Services
+agency: Department of Health and Human Services - Centers for Medicare and Medicaid Services
 partner-agencies-federal: ""
 partners-non-federal: 
 external-url: http://ai.cms.gov/

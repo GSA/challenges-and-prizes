@@ -8,13 +8,13 @@ card-image: /assets/images/cards/VTC-logo-rectangle-.png
 agency-logo: 717px-NASA_logo.png
 challenge-title: NASA Vascular Tissue Challenge
 tagline: A first-to-demonstrate challenge to create thick, human vascularized organ tissue surviving 30 calendar days
-agency: NASA
+agency: National Aeronautics and Space Administration
 partner-agencies-federal: 
 partners-non-federal: Methuselah Foundation's New Organ Alliance
 external-url:
 total-prize-offered-cash: $500,000
-type-of-challenge: 
-submission-start: 06/13/2016 12:00 AM
+type-of-challenge: Scientific
+submission-start: 2016/06/13 12:00 AM
 submission-end: 2019/09/30 11:00 PM
 submission-link: scientific
 prizes: true
@@ -48,7 +48,7 @@ prizes: true
 
 <div class="text-left">
               <p>See challenge website:</p>
-<p><span style="text-decoration: underline;"><a href="https://neworgan.org/vtc-prize.php#rules" target="_blank" rel="noopener">https://neworgan.org/vtc-prize.php#rules</a></span></p>
+<p><span style="text-decoration: underline;"><a href="https://www.neworgan.org/prizes/vascular-tissue-prize/" target="_blank" rel="noopener">https://www.neworgan.org/prizes/vascular-tissue-prize/</a></span></p>
             </div>
             
 <!-- Judging start -->
@@ -57,7 +57,7 @@ prizes: true
 
 <div class="text-left">
               <p>See challenge website:</p>
-<p><span style="text-decoration: underline;"><a href="https://neworgan.org/vtc-prize.php#rules" target="_blank" rel="noopener">https://neworgan.org/vtc-prize.php#rules</a></span></p>
+<p><span style="text-decoration: underline;"><a href="https://www.neworgan.org/prizes/vascular-tissue-prize/" target="_blank" rel="noopener">https://www.neworgan.org/prizes/vascular-tissue-prize/</a></span></p>
             </div>
             
 <!--  How To Enter start -->
@@ -66,5 +66,5 @@ prizes: true
 
 <div class="text-left">
               <p>See challenge website:</p>
-<p><span style="text-decoration: underline;"><a href="https://neworgan.org/vtc-prize.php#rules" target="_blank" rel="noopener">https://neworgan.org/vtc-prize.php#rules</a></span></p>
+<p><span style="text-decoration: underline;"><a href="https://www.neworgan.org/prizes/vascular-tissue-prize/" target="_blank" rel="noopener">https://www.neworgan.org/prizes/vascular-tissue-prize/</a></span></p>
             </div>

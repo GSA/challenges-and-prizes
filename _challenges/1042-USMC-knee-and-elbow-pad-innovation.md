@@ -8,13 +8,13 @@ card-image: /assets/images/cards/MEC_Challenge_KneeElbow.jpg
 agency-logo: dod_seal.jpg
 challenge-title: USMC Knee and Elbow Pad Innovation
 tagline: The Marine Corps is seeking an innovative solution to improve comfort, impact protection, and operator acceptance of knee and elbow pads while maintaining mobility and operators range of motion.
-agency: Department of Defense
+agency: Department of Defense - U.S. Marine Corps
 partner-agencies-federal: 
 partners-non-federal: MilTech (EPIC)
 external-url: 
 total-prize-offered-cash: $5,000
 type-of-challenge:  Technology demonstration and hardware
-submission-start: 
+submission-start: 2019/05/28 12:00 PM
 submission-end: 2019/07/12 11:59 PM
 submission-link:  https://www.marcorsyscom.marines.mil/Unit-Home/Marine-Equipping-Challenge/Knee-and-Elbow-Pad-Challenge/
 prizes: true

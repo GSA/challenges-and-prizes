@@ -4,7 +4,7 @@ permalink: /challenges/mux-electronic-warfare-payload-prize-challenge/
 challenge-id: 1040
 status: open
 sidenav: true
-card-image: /assets/images/cards/MUX_logo_large.jpg
+card-image: /assets/images/cards/MUX_logo_resize.jpg
 agency-logo: dod_seal.jpg
 challenge-title: MUX Electronic Warfare (EW) Payload Prize Challenge
 tagline: The Electronic Warfare (EW) payload prize challenge seeks to obtain information, performance capabilities, and technical data on mission system payload technologies to inform the development and acquisition strategy for the Marine Air Ground Task Force, Unmanned Aircraft System, Expeditionary (MUX) Program.

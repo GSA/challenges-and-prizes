@@ -16,7 +16,7 @@ total-prize-offered-cash: $20,000
 type-of-challenge: Software and apps
 submission-start: 
 submission-end: 2019/06/19 05:00 PM
-submission-link:  https://digital.gov/event/2019/06/19/gsa-customer-experience-cx-hackathon/
+submission-link: https://digital.gov/event/2019/06/19/gsa-customer-experience-cx-hackathon/
 prizes: true
 ---
 
@@ -25,7 +25,7 @@ prizes: true
 ### Description
 {: .text-accent-warm-dark .font-heading-lg}
 <p dir="ltr">The General Services Administration (GSA) is holding a coast-to-coast hackathon on Wednesday, June 19, 2019, aimed at bettering the customer experience of products in government.</p>
-<p dir="ltr">Throughout the federal government, as described in the <a href="https://www.performance.gov/PMA/PMA.html">President&rsquo;s Management Agenda</a>, improving customer experience is a top priority. Customer experience can refer to the external customers and internal customers. This hackathon, we will be focusing on both. The participants will be including the newly-released <a href="https://digital.gov/2019/04/08/introducing-uswds-2/">U.S. Web Design System 2.0</a> in their solutions.</p>
+<p dir="ltr">Throughout the federal government, as described in the <a href="https://www.performance.gov/PMA/PMA.html" target="_blank" rel="noopener">President&rsquo;s Management Agenda</a>, improving customer experience is a top priority. Customer experience can refer to the external customers and internal customers. This hackathon, we will be focusing on both. The participants will be including the newly-released <a href="https://digital.gov/2019/04/08/introducing-uswds-2/" target="_blank" rel="noopener">U.S. Web Design System 2.0</a> in their solutions.</p>
 <p dir="ltr">Throughout this all-day hackathon, taking place simultaneously at eight GSA locations nationwide, participants will evaluate real-world products and iterate on ideas for making the customer experience better in GSA applications.</p>
 <p dir="ltr"><strong>Participating Cities</strong></p>
 <ol>
@@ -40,7 +40,7 @@ prizes: true
 </ol>
 <p dir="ltr"><strong>What to Bring </strong></p>
 <ul>
-<li dir="ltr"><a href="https://travel.state.gov/content/travel/en/passports/requirements/identification.html">A government-issued ID</a> &mdash;&nbsp;you will need to go through security.</li>
+<li dir="ltr"><a href="https://travel.state.gov/content/travel/en/passports/requirements/identification.html" target="_blank" rel="noopener">A government-issued ID</a> &mdash;&nbsp;you will need to go through security.</li>
 <li dir="ltr">Your own laptop and power cord.</li>
 <li dir="ltr">Headphones.</li>
 <li dir="ltr">Personal water bottle, if desired.</li>
@@ -107,7 +107,7 @@ prizes: true
 <div>Participants arrive no later than: 9:00 am. Public hours to the building are 7 am - 5 pm.</div>
 <div>[Special instructions: Main entrance located on 18th &amp; F Street NW. Participant will follow all security procedures stated and be escorted by a hackathon representative to the Conference Center Rooms 1459, 1460, and 1461.]</div></p>
 <strong>Questions?</strong>
-<div>Questions about the hackathon can be directed to <a href="mailto:gsacxhack2019@gsa.gov">gsacxhack2019@gsa.gov</a></span></div>
+<div>Questions about the hackathon can be directed to <a href="mailto:gsacxhack2019@gsa.gov" target="_blank" rel="noopener">gsacxhack2019@gsa.gov</a></div>
 
 <!-- Prizes start -->
 ### Prizes
@@ -123,12 +123,12 @@ prizes: true
 <li>A participant must have registered to participate and complied with all of the requirements under 15 U.S.C. 3719 and the competition rules.</li>
 <li>At the time of registration, the participant must be age 18 or older and a U.S. citizen or permanent resident of the United States or its territories.</li>
 <li>Entrants in this competition agree, as a condition for receiving a cash prize, to complete and submit all requested winner verification and payment documents to GSA within three (3) business days of formal notification. Failure to return all required verification documents by the date specified in the notification may be a basis for disqualification of the winning entry.</li>
-<li>Each Hackathon participant is required to register through&nbsp;<span id="docs-internal-guid-2677e33d-7fff-8d33-23f9-629160cc6fa3"><a href="https://digital.gov/event/2019/06/19/gsa-customer-experience-cx-hackathon/">https://digital.gov/event/2019/06/19/gsa-customer-experience-cx-hackathon/</a></span>&nbsp;as described in these competition rules.</li>
+<li>Each Hackathon participant is required to register through&nbsp;<span id="docs-internal-guid-2677e33d-7fff-8d33-23f9-629160cc6fa3"><a href="https://digital.gov/event/2019/06/19/gsa-customer-experience-cx-hackathon/" target="_blank" rel="noopener">https://digital.gov/event/2019/06/19/gsa-customer-experience-cx-hackathon/</a></span>&nbsp;as described in these competition rules.</li>
 <li>Any violation of these rules will be grounds for disqualification from the Competition, in GSA&rsquo;s sole discretion.</li>
 <li>Participants will not be permitted to receive assistance, or &ldquo;help,&rdquo; from any entity outside of the registered participant list at the time of the event. Registered participants can help other registered participants through advice and collaboration; however, only the registered participants included in the Team will be eligible to win the prize associated with the solution.</li>
 <li>All registered participants must arrive at the Security Desk of the official GSA locations listed in this document by 10:00a.m. and be present for the full day (10:00a.m. to 4:00p.m. ET) in order to participate and win a cash prize.</li>
 <li>Participation is subject to all U.S. Federal, state or local laws and regulations.</li>
-<li>Participants must not be suspended, debarred, or otherwise excluded from doing business with the Federal Government. An individual or entity that is determined to be on the GSA Excluded Parties List on <a href="http://www.sam.gov/">www.sam.gov</a>, is ineligible to participate.</li>
+<li>Participants must not be suspended, debarred, or otherwise excluded from doing business with the Federal Government. An individual or entity that is determined to be on the GSA Excluded Parties List on <a href="http://www.sam.gov/" target="_blank" rel="noopener">www.sam.gov</a>, is ineligible to participate.</li>
 <li>Individuals entering on behalf of or representing a company, institution or other legal entity are responsible for confirming that their entry does not violate any policies of that company, institution or legal entity.</li>
 <li>As a condition of participation, all participants must agree to indemnify the Federal Government against third-party claims for damages arising from or related to competition activities. Participants are not required to obtain liability insurance or demonstrate financial responsibility in order to participate in the competition. By entering the contest, participants agree to hold GSA harmless from all legal and administrative claims to include associated expenses that may arise from any claims related to their entry or its use.</li>
 <li>By participating in the Hackathon, each participant (individual or team member​) warrants that he or she is the sole author or owner of, or has the right to use, any copyrightable works that the solution comprises, that the works are wholly original with the participant (or is an improved version of an existing work that the participant has sufficient rights to use and improve), and that the solution does not infringe any copyright or any other rights of any third party of which participant is aware.</li>
@@ -141,13 +141,12 @@ prizes: true
 <li dir="ltr">A competition solution constitutes an agreement to adhere to the competition rules and terms and conditions set forth by the contest sponsor, GSA.</li>
 <li dir="ltr">Participants must meet the eligibility requirements described in the Eligibility section to participate and/or win a cash prize.</li>
 <li dir="ltr">Each participant certifies, through entry to the contest, that the entry is his/her own original, creative work and does not violate or infringe upon the creative work of others, as protected under applicable intellectual property law.</li>
-<li dir="ltr">GSA is under a strict duty not to give preferential treatment to any private organization or individual. &nbsp;As such, participants must agree to take diligent care to avoid the appearance of Government endorsement of competition participation and preparation of solutions. &nbsp;By participating in the Hackathon, Participants agree not to refer to GSA&rsquo;s use of their solution in any commercial advertising or similar promotions in a manner that could imply that the GSA or the Federal Government endorses, prefers, sponsors, or has an affiliation with participant or participants&rsquo; products or services. &nbsp;Participants agree that GSA&rsquo;s trademarks, logos, service marks, trade names, or the fact that GSA awarded a prize to a participant, shall not be used by the participant to imply direct GSA endorsement of participant or participant&rsquo;s submission. Both participants and GSA may list the other party&rsquo;s name in a publicly available customer or other list so long as the name is not displayed in a more prominent fashion than any other third-party name.</li>
+<li dir="ltr">GSA is under a strict duty not to give preferential treatment to any private organization or individual. &nbsp;As such, participants must agree to take diligent care to avoid the appearance of Government endorsement of competition participation and preparation of solutions. By participating in the Hackathon, Participants agree not to refer to GSA&rsquo;s use of their solution in any commercial advertising or similar promotions in a manner that could imply that the GSA or the Federal Government endorses, prefers, sponsors, or has an affiliation with participant or participants&rsquo; products or services. &nbsp;Participants agree that GSA&rsquo;s trademarks, logos, service marks, trade names, or the fact that GSA awarded a prize to a participant, shall not be used by the participant to imply direct GSA endorsement of participant or participant&rsquo;s submission. Both participants and GSA may list the other party&rsquo;s name in a publicly available customer or other list so long as the name is not displayed in a more prominent fashion than any other third-party name.</li>
 <li dir="ltr">All evaluation panel decisions are final and may not be appealed.</li>
 <li dir="ltr">Winners are responsible for all taxes or other fees connected with the prize received.</li>
 <li dir="ltr">GSA reserves the right for any reason, including but not limited to an insufficient number of qualified entries, to modify or cancel the competition at any time during the duration of the competition.</li>
 <li dir="ltr">By participating in the competition, each participant agrees to comply with and abide by all Hackathon Challenge rules, terms, and conditions, and the decisions of GSA and/or the individual judges, which shall be final and binding in all respects.</li>
 </ul>
-<p>&nbsp;</p>
 
 <!-- Judging start -->
 ### Judging Criteria
@@ -173,7 +172,7 @@ prizes: true
 <li dir="ltr">The customer can accomplish the task independently.</li>
 <li dir="ltr">The customer can accomplish the task efficiently.</li>
 <li dir="ltr">The customer isn&rsquo;t distracted by the layout of the environment or application.</li>
-<li dir="ltr">The new additions to the application follows the new<a href="https://digital.gov/2019/04/08/introducing-uswds-2/"> U.S. Web Design System</a> 2.0, to the extent feasible.</li>
+<li dir="ltr">The new additions to the application follows the new<a href="https://digital.gov/2019/04/08/introducing-uswds-2/" target="_blank" rel="noopener"> U.S. Web Design System</a> 2.0, to the extent feasible.</li>
 </ul>
 <p dir="ltr"><strong>Emotional Response&nbsp;</strong>&mdash; 40 percent</p>
 <ul>
@@ -193,7 +192,7 @@ prizes: true
 <p dir="ltr">In Round 2 judging, the pool of competition will be the four application-specific winners from Round 1 judging. The judges will be evaluating each solution as if they are the application user. The round will be judged based on the following criteria with each judge independently scoring the solution on a scale of 1 to 5; for more information, please see the <a href="{{ site.baseurl }}/assets/document-library/Round2_GSAJudgingForm.docx">Round 2 Judging Form</a>. These scores will then calculated into a weighted percentage as detailed below. The winner will be determined by averaging all federal employee judges scores and calculating the highest scoring solution:</p>
 <p dir="ltr"><strong>Use of design best practices to improve usability and emotional response</strong> &mdash; weighted at 50 percent of overall score</p>
 <ul>
-<li dir="ltr">The new additions to the application follows the new <a href="https://digital.gov/2019/04/08/introducing-uswds-2/">U.S. Web Design System</a> 2.0, to the extent feasible.</li>
+<li dir="ltr">The new additions to the application follows the new <a href="https://digital.gov/2019/04/08/introducing-uswds-2/" target="_blank" rel="noopener">U.S. Web Design System</a> 2.0, to the extent feasible.</li>
 <li dir="ltr">All instructions and text are in plain language and written in terms that all customers can understand.</li>
 <li dir="ltr">The customer&rsquo;s experience is seamless when moving between systems, people, and other touchpoints.</li>
 <li dir="ltr">The customer isn&rsquo;t distracted by the layout of the environment or application.</li>
@@ -215,6 +214,6 @@ prizes: true
 <!--  How To Enter start -->
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg}
-<p>Registration for this event will be accomplished online at&nbsp;<a href="https://digital.gov/event/2019/06/19/gsa-customer-experience-cx-hackathon/">https://digital.gov/event/2019/06/19/gsa-customer-experience-cx-hackathon/</a>, and remain open until Wednesday, June 12, 2019, 11:59 p.m. Eastern Time (ET). The event space is limited in each location and only one registration is allowed per person. Participants will receive a confirmation email after completing the online registration. Once registration is full for a particular site, GSA will no longer accept registrants at that location and registration for that location will close. There will be no waitlist for this Hackathon. No on-site registration will be allowed.</p>
+<p>Registration for this event will be accomplished online at&nbsp;<a href="https://digital.gov/event/2019/06/19/gsa-customer-experience-cx-hackathon/" target="_blank" rel="noopener">https://digital.gov/event/2019/06/19/gsa-customer-experience-cx-hackathon/</a>, and remain open until Wednesday, June 12, 2019, 11:59 p.m. Eastern Time (ET). The event space is limited in each location and only one registration is allowed per person. Participants will receive a confirmation email after completing the online registration. Once registration is full for a particular site, GSA will no longer accept registrants at that location and registration for that location will close. There will be no waitlist for this Hackathon. No on-site registration will be allowed.</p>
 <p>All participants are required to check-in with Security upon arriving at the applicable GSA location. &nbsp;A U.S. Government-issued ID, such as a valid driver&rsquo;s license or passport, is required to gain access to GSA buildings.</p>
 <p>As a condition of participation in the Hackathon, all participants must agree to a photo release and an agreement to perform gratuitous (unpaid) services and to waive compensation for these services through eSign provided by GSA. GSA will provide a link for participants to sign the applicable documents on June 13, 2019 at 3pm ET. If a participant is unable to sign the eSign version of the documents, upon arrival at the event registration desk, all participants will sign a paper copy of the Photo Release and Agreement To Perform Gratuitous Services and Waive Compensation.</p>
