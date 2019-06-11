@@ -4,18 +4,18 @@ permalink: /challenge/2017-innovations-in-food-and-agricultural-science-and-tech
 challenge-id: 912
 status: closed
 sidenav: false
-card-image: /assets/images/cards/challenge-gov.png
+card-image: /assets/images/cards/Powerpt_usda_nifa_centered_rgb_300.jpg
 agency-logo: USDA_logo.png
-challenge-title: 2017 Innovations in Food and Agricultural Science and Technology (I-FAST) Prize Competition (Only Selected Pre-Applicants are Eligible
+challenge-title: 2017 Innovations in Food and Agricultural Science and Technology (I-FAST) Prize Competition
 tagline: I-FAST will provide entrepreneurship I-Corps training to USDA NIFA grantees
 agency:  U.S. Department of Agriculture - National Institute of Food and Agriculture
-partner-agencies-federal: 
+partner-agencies-federal: National Science Foundation
 partners-non-federal: 
 external-url:
 total-prize-offered-cash: $400,000
 type-of-challenge: ideas
-submission-start: 09/15/2017 10:00 AM
-submission-end: 10/06/2017 12:00 AM
+submission-start: 2017/09/15 10:00 AM
+submission-end: 2017/10/06 12:00 AM
 submission-link:  
 prizes: true
 fiscal-year: FY17
@@ -119,11 +119,6 @@ challenge-manager-email: sdockum@nifa.usda.gov
 </ul>  
 <p>If one or more team members cannot meet these requirements, the team should not pursue the program.</p>
       </div>
-
-<!-- Judging start -->
-### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
-
 
 <!--  How To Enter start -->
 ### How To Enter
