@@ -2,26 +2,26 @@
 layout: archive-challenge
 permalink: /challenge/usda-school-meal-programs-verification-response-rate-challenge/
 challenge-id: 896
-status: open
+status: closed
 sidenav: false
-card-image: /assets/images/cards/USDA_logo.png
+card-image: /assets/images/cards/Challenge-Video-Launch-Image-04-21.png
 agency-logo: USDA_logo.png
 challenge-title: USDA School Meal Programs Verification Response Rate Challenge
 tagline: Submit your great ideas for increasing NSLP/SBP verification response rates!
-agency:  U.S. Department of Agriculture
+agency:  Department of Agriculture - Food and Nutrition Service
 partner-agencies-federal: 
 partners-non-federal: 
 external-url:
 total-prize-offered-cash:
 type-of-challenge: ideas
-submission-start: 05/04/2017 10:00 AM
-submission-end: 06/15/2017 02:00 PM
+submission-start: 2017/05/04 10:00 AM
+submission-end: 2017/06/15 02:00 PM
 submission-link:  
 prizes: true
 fiscal-year:
 legal-authority: America COMPETES
-challenge-manager: Edward Harper
-challenge-manager-email: 
+challenge-manager: Janis Johnston
+challenge-manager-email: janis.johnston@fns.usda.gov
 ---
 
 
@@ -51,23 +51,55 @@ challenge-manager-email:
         <h4 class="text-primary">Potential Game Changer</h4>
                           <div class="description">
         <p>Judges will select up to three solutions for recognition as "Potential Game Changers," the contest’s top award.  Winners are listed in alphabetical order by school district name.</p>
+                           <p><em>Winners: </em></p>
+<p>Carrollton-Farmers Branch Independent School District, TX - submitted by Kristen Hess</p>
+<ul>
+<li>Solution: "Verification Improvements"</li>
+</ul>
+<p>Gwinnett County Public Schools System, GA - submitted by Jeannette Morris</p>
+<ul>
+<li>Solution: "Meeting the Challenges and Creating Solutions for Verification"</li>
+</ul>
+<p>Orange County Public Schools, FL</p>
+<ul>
+<li>Solution: "Rolling Verification Process"</li>
+</ul></p>
           </div>
               </div>      
               <div class="prize-item">
         <h4 class="text-primary">Popular Choice</h4>
                              <div class="description">
         <p>The solution that receives the highest average rating from among the five entries with the greatest number of votes received will be recognized as the "Popular Choice."</p>
+                               <p><em>Winner:</em></p>
+<p>Gwinnett County Public Schools System, GA - submitted by Jeannette Morris</p>
+<ul>
+<li>Solution: "Meeting the Challenges and Creating Solutions for Verification"</li>
+</ul>
                              </div>
 <div class="prize-item">
         <h4 class="text-primary">Best Documented</h4>
                           <div class="description">
         <p>Judges may select a solution based on the strength of evidence given in support of its impact on household response rates.</p>
+                            <p><em>Winner:</em></p>
+<p>Orange County Public Schools, FL</p>
+<ul>
+<li>Solution: "Rolling Verification Process"</li>
+</ul>
           </div>
               </div>      
               <div class="prize-item">
         <h4 class="text-primary">Honorable Mention</h4>
                              <div class="description">
         <p>Judges may select up to two solutions not recognized in another category for "Honorable Mention" based on the same criteria used to select the "Potential Game Changers."</p>
+                               <p><em>Winners:</em></p>
+<p>Guilford County Schools, NC - submitted by Betty Ann Champion</p>
+<ul>
+<li>Solution: "Verification Best Practices"</li>
+</ul>
+<p>Roswell Independent School District, NM - submitted by Tracey Wells</p>
+<ul>
+<li>Solution: "Notify, Communicate and Communicate and Notify some more&hellip;&hellip;"</li>
+</ul>
                              </div>
 
 <!-- Rules start -->
