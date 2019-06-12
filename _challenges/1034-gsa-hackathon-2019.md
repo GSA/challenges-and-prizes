@@ -26,7 +26,8 @@ prizes: true
 {: .text-accent-warm-dark .font-heading-lg}
 <p dir="ltr">The General Services Administration (GSA) is holding a coast-to-coast hackathon on Wednesday, June 19, 2019, aimed at bettering the customer experience of products in government.</p>
 <p dir="ltr">Throughout the federal government, as described in the <a href="https://www.performance.gov/PMA/PMA.html" target="_blank" rel="noopener">President&rsquo;s Management Agenda</a>, improving customer experience is a top priority. Customer experience can refer to the external customers and internal customers. This hackathon, we will be focusing on both. The participants will be including the newly-released <a href="https://digital.gov/2019/04/08/introducing-uswds-2/" target="_blank" rel="noopener">U.S. Web Design System 2.0</a> in their solutions.</p>
-<p dir="ltr">Throughout this all-day hackathon, taking place simultaneously at eight GSA locations nationwide, participants will evaluate real-world products and iterate on ideas for making the customer experience better in GSA applications. <a href="{{ site.baseurl }}/assets/document-library/Hackathon_List_of_Applications.docx">View a list of  applications we will be hacking.</a></p>
+<p dir="ltr">Throughout this all-day hackathon, taking place simultaneously at eight GSA locations nationwide, participants will evaluate real-world products and iterate on ideas for making the customer experience better in GSA applications.</p>
+<p><a href="{{ site.baseurl }}/assets/document-library/Hackathon_List_of_Applications.docx">View a list of  applications we will be hacking.</a></p>
 <p dir="ltr"><strong>Participating Cities</strong></p>
 <ol>
 <li dir="ltr">Boston, MA</li>
