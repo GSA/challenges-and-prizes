@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/wildland-fire-sensors-challenge/
+permalink: /challenge/wildland-fire-sensors-challenge/
 challenge-id: 885
 status: closed
 sidenav: true

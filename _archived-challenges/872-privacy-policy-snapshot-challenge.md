@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/privacy-policy-snapshot-challenge/
+permalink: /challenge/privacy-policy-snapshot-challenge/
 challenge-id: 872
 status: closed
 sidenav: true

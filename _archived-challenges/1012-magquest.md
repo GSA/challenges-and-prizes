@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/magquest/
+permalink: /challenge/magquest/
 challenge-id: 1012
 status: closed
 sidenav: true

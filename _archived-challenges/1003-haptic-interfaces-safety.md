@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/haptic-interfaces-for-public-safety-challenge/
+permalink: /challenge/haptic-interfaces-for-public-safety-challenge/
 challenge-id: 1003
 status: closed
 sidenav: true

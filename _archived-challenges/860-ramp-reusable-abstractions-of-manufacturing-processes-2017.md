@@ -6,7 +6,7 @@ status: closed
 sidenav: false
 card-image: /assets/images/cards/RampLogoFinal.jpg
 agency-logo: NIST_logo.png
-challenge-title: 2017 RAMP: Reusable Abstractions of Manufacturing Processes
+challenge-title: 2017 RAMP - Reusable Abstractions of Manufacturing Processes
 tagline: Ramp up the use of manufacturing standards!
 agency: Department of Commerce - National Institute of Standards and Technology
 partner-agencies-federal: 

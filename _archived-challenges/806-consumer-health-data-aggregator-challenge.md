@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/consumer-health-data-aggregator-challenge/
+permalink: /challenge/consumer-health-data-aggregator-challenge/
 challenge-id: 806
 status: closed
 sidenav: true
