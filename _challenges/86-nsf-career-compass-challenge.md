@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash:
 type-of-challenge:  Ideas
 submission-start: 2019/04/15 03:30 PM
-submission-end: 2019/07/12 11:59 PM
+submission-end: 2019/07/26 11:59 PM
 submission-link:  
 prizes: true
 ---
@@ -31,16 +31,18 @@ prizes: true
 <p>Send your questions to&nbsp;<a href="mailto:CareerCompassChallenge@nsf.gov" target="_blank" rel="noopener">CareerCompassChallenge@nsf.gov</a>&nbsp;before each webinar. The NSF Career Compass Challenge team will answer them live!&nbsp;</p>
 <p><strong>April 26, 2019 Part 2 Introductory Webinar Resources</strong></p>
 <ul>
+<li><a href="https://players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6039401792001">Webinar video</a></li>
   <li><a href="{{ site.baseurl }}/assets/document-library/Career-Compass-Challenge-Part-2-Kickoff-Webinar_04.26.2019.pdf" target="_blank" rel="noopener">Slide presentation</a></li>
   <li><a href="{{ site.baseurl }}/assets/document-library/Webinar-1-Poll-Results.pdf" target="_blank" rel="noopener">Live poll results</a></li>
 </ul>
 <p><strong>May 23, 2019 Part 2 Webinar &ndash; 1:00 PM ET&nbsp;</strong></p>
 <ul>
+  <li><a href="https:/players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6045364182001" target="_blank" rel="noopener">Webinar Video</a></li>
 <li><a href="{{ site.baseurl }}/assets/document-library/CCC-Part-2-May-Webinar.pdf" target="_blank" rel="noopener">Slide Presentation</a></li>
 </ul>
 <p><strong>June 19, 2019 Part 2 Webinar&nbsp;&ndash; 1:00 PM ET&nbsp;</strong></p>
 <ul>
-<li>Virtual presentation &ndash; Details coming soon&nbsp;</li>
+<li>Webinar link: <a href="https://nsf2.webex.com/nsf2/onstage/g.php?MTID=e7fe69f00581926cb1f0d4bc926d243b0">https://nsf2.webex.com/nsf2/onstage/g.php?MTID=e7fe69f00581926cb1f0d4bc926d243b0</a></li>
 </ul>
 <p><strong>STAY INFORMED ON THE NSF CAREER COMPASS CHALLENGE</strong></p>
 <p>Join the&nbsp;<em>new</em>&nbsp;NSF Career Compass Challenge listserv to receive the latest on Part 2 of the competition. To join, send an email to&nbsp;<a href="mailto:careercompass-subscribe-request@listserv.nsf.gov" target="_blank" rel="noopener">careercompass-subscribe-request@listserv.nsf.gov</a>, and you will be added automatically.</p>
