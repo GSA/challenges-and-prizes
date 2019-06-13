@@ -155,7 +155,7 @@ prizes: true
 {: .text-accent-warm-dark .font-heading-lg}
 
 <div class="judging-criterias">
-<h4>How will Concept Papers submitted in Part 2 of the challenge be judged?</h4>         
+<h4>How will submitted prototypes in Part 2 of the challenge be judged?</h4>         
 <p>Judges will evaluate a collection of prototypes submitted. Based on the scoring, a single winning submission will be identified. A submission is considered a functional prototype at any stage of maturity (e.g. beta, v1.0, etc.)</p>
 <p><strong>2nd Round of Judging&nbsp;</strong></p>
 <p>All entries will first be screened for compliance with the rules.&nbsp; All compliant submissions will be scored by a panel of judges, using on the following four criteria:&nbsp;</p>
