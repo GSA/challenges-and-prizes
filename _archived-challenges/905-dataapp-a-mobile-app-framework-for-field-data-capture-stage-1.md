@@ -6,7 +6,7 @@ status: closed
 sidenav: false
 card-image: /assets/images/cards/dataapp-thumb-3.png
 agency-logo: usbr.jpg
-challenge-title: DataApp: A Mobile App Framework for Field Data Capture – Stage 1
+challenge-title: DataApp - A Mobile App Framework for Field Data Capture – Stage 1
 tagline: Can you help us create a flexible, extensible, open source app for capturing field data?
 agency: Department of the Interior - Bureau of Reclamation
 partner-agencies-federal: United States Geological Survey

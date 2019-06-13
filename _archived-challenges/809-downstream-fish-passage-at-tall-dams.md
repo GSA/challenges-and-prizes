@@ -7,7 +7,7 @@ sidenav: false
 card-image: /assets/images/cards/Juvenile-salmon_John-Crandall-1_crop
 agency-logo: usbr.jpg
 challenge-title: Downstream Fish Passage at Tall Dams
-tagline: SUBMISSIONS ARE CLOSED: Help us find better ways to pass downstream-moving juvenile fish over or around tall dams.
+tagline: SUBMISSIONS ARE CLOSED - Help us find better ways to pass downstream-moving juvenile fish over or around tall dams.
 agency: Department of the Interior - Bureau of Reclamation
 partner-agencies-federal: U.S. Geological Survey, U.S. Army Corps of Engineers, NOAA National Marine Fisheries Service, U.S. Fish and Wildlife Service
 partners-non-federal: State of California Department of Water Resources

@@ -6,7 +6,7 @@ status: closed
 sidenav: false
 card-image: /assets/images/cards/De-id-graphic.png
 agency-logo: NIST_logo.png
-challenge-title: The Unlinkable Data Challenge: Advancing Methods in Differential Privacy
+challenge-title: The Unlinkable Data Challenge - Advancing Methods in Differential Privacy
 tagline: Propose a mechanism to protect personally identifiable information while maintaining a dataset's utility
 agency: Department of Commerce - National Institute of Standards and Technology
 partner-agencies-federal: 
