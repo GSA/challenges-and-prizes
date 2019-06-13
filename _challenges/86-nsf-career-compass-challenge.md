@@ -37,7 +37,7 @@ prizes: true
 </ul>
 <p><strong>May 23, 2019 Part 2 Webinar &ndash; 1:00 PM ET&nbsp;</strong></p>
 <ul>
-  <li><a href="https:/players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6045364182001" target="_blank" rel="noopener">Webinar Video</a></li>
+  <li><a href="https://players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6045364182001" target="_blank" rel="noopener">Webinar Video</a></li>
 <li><a href="{{ site.baseurl }}/assets/document-library/CCC-Part-2-May-Webinar.pdf" target="_blank" rel="noopener">Slide Presentation</a></li>
 </ul>
 <p><strong>June 19, 2019 Part 2 Webinar&nbsp;&ndash; 1:00 PM ET&nbsp;</strong></p>
