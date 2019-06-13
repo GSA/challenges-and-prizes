@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/nutrient-sensor-action-challenge-stage-ii/
+permalink: /challenge/nutrient-sensor-action-challenge-stage-ii/
 challenge-id: 46
 status: closed
 sidenav: true

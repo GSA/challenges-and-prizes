@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/provider-user-experience-challenge/
+permalink: /challenge/provider-user-experience-challenge/
 challenge-id: 807
 status: closed
 sidenav: true

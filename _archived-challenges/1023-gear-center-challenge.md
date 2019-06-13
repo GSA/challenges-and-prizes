@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/gear-center-challenge/
+permalink: /challenge/gear-center-challenge/
 challenge-id: 1023
 status: closed
 sidenav: true
@@ -213,6 +213,6 @@ challenge-manager-email: amira.boland@gsa.gov
 <h5><strong>Phase III: July 22nd &ndash; July 26th&nbsp;&nbsp;</strong></h5>
 <p>Up to a total of 10 Solvers from Phase II will be invited to present to a panel of Federal executives through 60-minute virtual presentations. The purpose of this presentation is to provide an opportunity for evaluators to ask important questions about your plan and gain a deeper understanding of the innovation and feasibility of the project along with the ability of the Solver team to deliver. The format will be a 60 minute virtual presentation including up to 20 minutes for uninterrupted presentation by the Solver, and 40 minutes for questions and discussion with the panel.</p>
 <p><em>Date awardees announced: August 1st by 5PM ET</em></p>
-<p>See <a href="http://www.challenge.gov/challenges/gear-center-challenge/" target="_blank" rel="noopener">Challenge.gov</a>.</p>
+<p>See <a href="http://www.challenge.gov/challenge/gear-center-challenge/" target="_blank" rel="noopener">Challenge.gov</a>.</p>
       </div>
     </div> 

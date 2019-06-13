@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/move-health-data-forward-challenge/
+permalink: /challenge/move-health-data-forward-challenge/
 challenge-id: 830
 status: closed
 sidenav: true

@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/student-design-competition-new-san-francisco-federal-building-plaza/
+permalink: /challenge/student-design-competition-new-san-francisco-federal-building-plaza/
 challenge-id: 918
 status: closed
 sidenav: true

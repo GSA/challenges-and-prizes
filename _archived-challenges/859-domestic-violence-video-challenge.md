@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/domestic-violence-video-challenge/
+permalink: /challenge/domestic-violence-video-challenge/
 challenge-id: 859
 status: closed
 sidenav: true

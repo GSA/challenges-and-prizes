@@ -16,7 +16,7 @@ total-prize-offered-cash: $20,500,000
 type-of-challenge: Scientific
 submission-start: 2018/06/01 09:00 AM
 submission-end: 2018/09/04 11:59 PM
-submission-link: http://www.cccinnovationcenter.com/challenges/antimicrobial-resistance-diagnostic-challenge/
+submission-link: http://www.cccinnovationcenter.com/challenge/antimicrobial-resistance-diagnostic-challenge/
 prizes: true
 fiscal-year: 2018
 legal-authority: America COMPETES
@@ -36,7 +36,7 @@ challenge-manager-email: robert.eisinger@nih.gov
 <li>Clarification of the information that is to be included in the submission for Step 2</li>
 <li>Additional details regarding the evaluation criteria and technical review process, as well as requirements related to human subjects and inclusion of women, minorities, and children.</li>
 </ul>
-<p>The amended FRN can be found&nbsp;<a href="https://web.archive.org/web/20170731181919/https://www.federalregister.gov/documents/2017/05/03/2017-08920/notice-of-correction-for-announcement-of-requirements-and-registration-for-antimicrobial-resistance">here</a>. No deadline dates for the submission for Step 2 or Step 3 were changed. Learn more and register for the challenge&nbsp;<a href="https://web.archive.org/web/20170731181919/http://www.cccinnovationcenter.com/challenges/antimicrobial-resistance-diagnostic-challenge/">here</a>. There will be&nbsp;a separate Letter of Intent submission for Step 2. This will be posted&nbsp;<a href="https://web.archive.org/web/20170731181919/http://www.cccinnovationcenter.com/challenges/antimicrobial-resistance-diagnostic-challenge/">here.​</a></p>
+<p>The amended FRN can be found&nbsp;<a href="https://web.archive.org/web/20170731181919/https://www.federalregister.gov/documents/2017/05/03/2017-08920/notice-of-correction-for-announcement-of-requirements-and-registration-for-antimicrobial-resistance">here</a>. No deadline dates for the submission for Step 2 or Step 3 were changed. Learn more and register for the challenge&nbsp;<a href="https://web.archive.org/web/20170731181919/http://www.cccinnovationcenter.com/challenge/antimicrobial-resistance-diagnostic-challenge/">here</a>. There will be&nbsp;a separate Letter of Intent submission for Step 2. This will be posted&nbsp;<a href="https://web.archive.org/web/20170731181919/http://www.cccinnovationcenter.com/challenge/antimicrobial-resistance-diagnostic-challenge/">here.​</a></p>
 
 <!-- Prizes start -->
 ### Prizes
