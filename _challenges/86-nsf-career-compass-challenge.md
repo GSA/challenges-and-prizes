@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash:
 type-of-challenge:  Ideas
 submission-start: 2019/04/15 03:30 PM
-submission-end: 2019/07/12 11:59 PM
+submission-end: 2019/07/26 11:59 PM
 submission-link:  
 prizes: true
 ---
@@ -31,16 +31,18 @@ prizes: true
 <p>Send your questions to&nbsp;<a href="mailto:CareerCompassChallenge@nsf.gov" target="_blank" rel="noopener">CareerCompassChallenge@nsf.gov</a>&nbsp;before each webinar. The NSF Career Compass Challenge team will answer them live!&nbsp;</p>
 <p><strong>April 26, 2019 Part 2 Introductory Webinar Resources</strong></p>
 <ul>
+<li><a href="https://players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6039401792001">Webinar video</a></li>
   <li><a href="{{ site.baseurl }}/assets/document-library/Career-Compass-Challenge-Part-2-Kickoff-Webinar_04.26.2019.pdf" target="_blank" rel="noopener">Slide presentation</a></li>
   <li><a href="{{ site.baseurl }}/assets/document-library/Webinar-1-Poll-Results.pdf" target="_blank" rel="noopener">Live poll results</a></li>
 </ul>
 <p><strong>May 23, 2019 Part 2 Webinar &ndash; 1:00 PM ET&nbsp;</strong></p>
 <ul>
+  <li><a href="https://players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6045364182001" target="_blank" rel="noopener">Webinar Video</a></li>
 <li><a href="{{ site.baseurl }}/assets/document-library/CCC-Part-2-May-Webinar.pdf" target="_blank" rel="noopener">Slide Presentation</a></li>
 </ul>
 <p><strong>June 19, 2019 Part 2 Webinar&nbsp;&ndash; 1:00 PM ET&nbsp;</strong></p>
 <ul>
-<li>Virtual presentation &ndash; Details coming soon&nbsp;</li>
+<li>Webinar link: <a href="https://nsf2.webex.com/nsf2/onstage/g.php?MTID=e7fe69f00581926cb1f0d4bc926d243b0">https://nsf2.webex.com/nsf2/onstage/g.php?MTID=e7fe69f00581926cb1f0d4bc926d243b0</a></li>
 </ul>
 <p><strong>STAY INFORMED ON THE NSF CAREER COMPASS CHALLENGE</strong></p>
 <p>Join the&nbsp;<em>new</em>&nbsp;NSF Career Compass Challenge listserv to receive the latest on Part 2 of the competition. To join, send an email to&nbsp;<a href="mailto:careercompass-subscribe-request@listserv.nsf.gov" target="_blank" rel="noopener">careercompass-subscribe-request@listserv.nsf.gov</a>, and you will be added automatically.</p>
@@ -67,7 +69,7 @@ prizes: true
 <p><em><strong>Part 1 (November 9, 2018 &ndash; February 13, 2019)</strong></em></p>
 <p>In <em>Part 1</em> of this challenge, solvers were asked to submit a concept white paper that describes a solution to the challenge of continuous workforce reskilling and the desire for increased mobility within and between NSF and other Federal agencies (and perhaps even the private sector), as an example. Solvers were asked to think creatively about methods that go beyond the traditional "career path" thinking and "strategic workforce planning" methodology when exposing future skill needs or opportunities for an individual's consideration when choosing a development path. Solvers are also asked to consider relevant research on adult cognition and reskilling, particularly for those that must "work" and "learn" simultaneously. Read the winning submissions on the <strong>Prizes tab.</strong></p>
 <p><em><strong>Part 2 (April 15, 2019 - August 31, 2019)</strong></em></p>
-<p>In <em>Part 2</em>, solvers are encouraged to leverage and build upon winning concepts to develop a working prototype for Government testing and evaluation. Solvers need not register in Challenge.gov to participate.&nbsp; Submissions will be accepted at <a href="mailto:CareerCompassChallenge@nsf.gov" target="_blank" rel="noopener">CareerCompassChallenge@nsf.gov</a> at any time up until the <strong>Part 2 submission deadline of July 12, 2019.</strong>&nbsp;For more information on submission, please see the <strong>official rules</strong>.&nbsp;&nbsp;</p>
+<p>In <em>Part 2</em>, solvers are encouraged to leverage and build upon winning concepts to develop a working prototype for Government testing and evaluation. Solvers need not register in Challenge.gov to participate.&nbsp; Submissions will be accepted at <a href="mailto:CareerCompassChallenge@nsf.gov" target="_blank" rel="noopener">CareerCompassChallenge@nsf.gov</a> at any time up until the <strong>Part 2 submission deadline of July 26, 2019.</strong>&nbsp;For more information on submission, please see the <strong>official rules</strong>.&nbsp;&nbsp;</p>
 <p style="text-decoration: underline;"><strong>COMPETITION SCHEDULE</strong></p>
 <p><em>Update (4/15/19):&nbsp;All competition dates have been updated below.</em></p>
 <p><em><strong>Part 1</strong></em></p>
@@ -80,8 +82,8 @@ prizes: true
 <p><em><strong>Part 2</strong></em></p>
 <ul>
 <li>PART TWO COMPETITION OPENS: April 15, 2019</li>
-<li>PART TWO SUBMISSION DEADLINE: July 12, 2019, 11:59 pm ET</li>
-<li>2nd ROUND OF JUDGING (Part Two): July 15 &ndash; August 12, 2019</li>
+<li>PART TWO SUBMISSION DEADLINE: July 26, 2019, 11:59 pm ET</li>
+<li>2nd ROUND OF JUDGING (Part Two): July 29 &ndash; August 23, 2019</li>
 <li>PART TWO WINNER ANNOUNCED: August 31, 2019</li>
 </ul>
 <p><strong>Federal Agency Partners</strong></p>
@@ -124,9 +126,10 @@ prizes: true
 <p style="text-decoration: underline;"><strong>ENTRY GUIDELINES</strong></p>
 <ul>
 <li>For a participant's prototype submission to be eligible to win Part 2 prize money, the submitter must make the prototype available for live testing and evaluation by the Federal government.&nbsp; A demonstration of the developed app must be included either via weblink, as a downloadable app from a website, or as a prototype app on a demonstration mobile device.&nbsp; If a login is required, demo accounts with password should be provided which will enable judges to access all parts of the product.&nbsp; If there are different interfaces provided (for example, for differing user personas) separate logins should be provided.&nbsp; If the team or individual solver opts for submitting the app on a demonstration mobile device, then four such devices must be submitted via mail.&nbsp; Following judging, all demonstration devices will be returned via mail to the submitter.</li>
-<li>All entries must be submitted to <a href="mailto:CareerCompassChallenge@nsf.gov" target="_blank" rel="noopener">CareerCompassChallenge@nsf.gov</a>, or postmarked to NSF by 11:59 p.m. ET on July 12, 2019. If applicable, demonstration devices allowing the government to evaluate the submission must be postmarked by July 12, 2019 and can be mailed to:&nbsp;<br /><br />NSF Career Compass Challenge Prize Submissions<br />C/O Robyn Rees<br />2415 Eisenhower Avenue<br />Alexandria, VA 22314<br /><br /></li>
+<li>All entries must be submitted to <a href="mailto:CareerCompassChallenge@nsf.gov" target="_blank" rel="noopener">CareerCompassChallenge@nsf.gov</a>, or postmarked to NSF by 11:59 p.m. ET on July 26, 2019. If applicable, demonstration devices allowing the government to evaluate the submission must be postmarked by July 26, 2019 and can be mailed to:&nbsp;<br /><br />NSF Career Compass Challenge Prize Submissions<br />C/O Robyn Rees<br />2415 Eisenhower Avenue<br />Alexandria, VA 22314<br /><br /></li>
 <li>In no more than 2 pages, submitters may provide a narrative describing how the functional prototype addresses the challenge stated.&nbsp; This short narrative must adhere to one or more of the following formats: Microsoft Word, Microsoft PowerPoint, Adobe PDF, or Visio.&nbsp;&nbsp;</li>
 <li>The narrative may include a link to privately hosted video (such as YouTube, Google Drive, OneDrive or similar), to demonstrate and/or present the functions of the prototype. The total duration of the video cannot exceed 10 minutes.</li>
+<li>The Career Compass Challenge judging team plans to test using <a href="{{ site.baseurl }}/assets/document-library/User Personas.pdf">NSF Persona(s)</a>. These are five mock NSF employee profiles that each contain the person's demographics, his or her individual goals for using your reskilling prototype, and other information about his or her respective environment and background (such as personal interests, etc.).&nbsp;We have made these available to assist you with building your functional prototypes and user stories. &nbsp;Use of Personas is highly recommended, though not required.&nbsp; If you have other suggested test criteria, please provide them and we will try to accommodate your criterion.</li>
 <li>Entries should ensure products leveraged in the solution adhere to industry best practices for cybersecurity and personally-identifiable information (PII).&nbsp; For the purposes of this prototype, solvers need not comply with all Federal cybersecurity and PII guidance and requirements, however solvers should bear in mind that any scalable, commercially-viable solution must meet these requirements.&nbsp;&nbsp;</li>
 <li>A challenge entry constitutes an agreement to adhere to the rules and stipulations set forth by the contest sponsor, NSF.</li>
 <li>Entrants must meet the eligibility requirements described in the Eligibility section.</li>
@@ -152,7 +155,7 @@ prizes: true
 {: .text-accent-warm-dark .font-heading-lg}
 
 <div class="judging-criterias">
-<h4>How will Concept Papers submitted in Part 2 of the challenge be judged?</h4>         
+<h4>How will submitted prototypes in Part 2 of the challenge be judged?</h4>         
 <p>Judges will evaluate a collection of prototypes submitted. Based on the scoring, a single winning submission will be identified. A submission is considered a functional prototype at any stage of maturity (e.g. beta, v1.0, etc.)</p>
 <p><strong>2nd Round of Judging&nbsp;</strong></p>
 <p>All entries will first be screened for compliance with the rules.&nbsp; All compliant submissions will be scored by a panel of judges, using on the following four criteria:&nbsp;</p>
