@@ -22,7 +22,7 @@ fiscal-year: 2016
 legal-authority: America COMPETES
 challenge-manager: Jared Smith
 challenge-manager-email: Jared.Smith@oig.hhs.gov
-------
+---
 
 <!-- Description start -->
 ### Description
