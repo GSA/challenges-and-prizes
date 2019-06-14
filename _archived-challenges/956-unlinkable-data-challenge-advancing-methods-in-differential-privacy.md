@@ -1,9 +1,9 @@
 ---
-layout: archive-challenge
+layout: front-matter-data
 permalink: /challenge/the-unlinkable-data-challenge-advancing-methods-in-differential-privacy/
 challenge-id: 956
 status: closed
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/De-id-graphic.png
 agency-logo: NIST_logo.png
 challenge-title: The Unlinkable Data Challenge - Advancing Methods in Differential Privacy

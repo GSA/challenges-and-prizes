@@ -1,9 +1,9 @@
 ---
-layout: archive-challenge
+layout: front-matter-data
 permalink: /challenge/storytelling-about-wellness-in-tribal-communities/ 
 challenge-id: 868
 status: closed
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/NIH.png
 agency-logo: NIH_Master_Logo_Vertical_2Color.jpg
 challenge-title: Storytelling about Wellness in Tribal Communities

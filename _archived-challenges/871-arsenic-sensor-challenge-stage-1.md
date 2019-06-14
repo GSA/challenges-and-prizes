@@ -1,9 +1,9 @@
 ---
-layout: archive-challenge
+layout: front-matter-data
 permalink: /challenge/arsenic-sensor-challenge-stage-1/
 challenge-id: 
 status: open
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/arsenic_thumbnail.png
 agency-logo: usbr.jpg
 challenge-title: Arsenic Sensor Challenge - Stage 1

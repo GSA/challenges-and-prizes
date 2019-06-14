@@ -1,9 +1,9 @@
 ---
-layout: archive-challenge
+layout: front-matter-data
 permalink: /challenge/ariac/
 challenge-id: 936 
 status: closed
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/ARIAC-image.png
 agency-logo: NIST_logo.png
 challenge-title: ARIAC

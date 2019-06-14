@@ -1,9 +1,9 @@
 ---
-layout: archive-challenge
+layout: front-matter-data
 permalink: /challenge/preventing-rodent-burrows-in-earthen-embankments/
 challenge-id: 836
 status: closed
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/rodent_thumbnail-1.png
 agency-logo: usbr.jpg
 challenge-title: Preventing Rodent Burrows in Earthen Embankments

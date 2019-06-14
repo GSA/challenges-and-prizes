@@ -1,9 +1,9 @@
 ---
-layout: archive-challenge
+layout: front-matter-data
 permalink: /challenge/nist-the-future-of-public-safety-technology-100k-video-series/
 challenge-id: 915
 status: closed
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/TONGAL-NIST-noprizing.jpg
 agency-logo: NIST_logo.png
 challenge-title: NIST The Future of Public Safety Technology 100k Video Series

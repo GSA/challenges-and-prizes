@@ -1,9 +1,9 @@
 ---
-layout: archive-challenge
+layout: front-matter-data
 permalink: /challenge/ahrq-step-up-app-challenge/
 challenge-id: 12
 status: open
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/AHRQ-logo_NEW.jpg
 agency-logo: ahrq-logo.png
 challenge-title: AHRQ Step Up App Challenge

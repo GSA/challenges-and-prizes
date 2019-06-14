@@ -1,9 +1,9 @@
 ---
-layout: archive-challenge
+layout: front-matter-data
 permalink: /challenge/2018-million-hearts-hypertension-control-challenge/
 challenge-id: 942
 status: closed
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/2018-Million-Hearts-Challenge-and-Champions-Rebrand-Design-1_Page_2a-002.jpg
 agency-logo: 256px-US_CDC_logo.png
 challenge-title: 2018 Million Hearts Hypertension Control Challenge

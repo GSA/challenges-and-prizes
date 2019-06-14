@@ -1,9 +1,9 @@
 ---
-layout: archive-challenge
+layout: front-matter-data
 permalink: /challenge/the-2016-fda-naloxone-app-competition/ 
 challenge-id: 855
 status: closed
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/Naloxone-Image.jpg
 agency-logo: Food_and_Drug_Administration_logo.png
 challenge-title: The 2016 FDA Naloxone App Competition
