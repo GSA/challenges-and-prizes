@@ -1,9 +1,9 @@
 ---
-layout: archive-challenge
+layout: front-matter-data
 permalink: /challenge/estimating-reservoir-water-storage/
 challenge-id: 880
 status: closed
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/estimating_reservoir.png
 agency-logo: usbr.jpg
 challenge-title: Estimating Reservoir Water Storage

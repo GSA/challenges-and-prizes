@@ -1,9 +1,9 @@
 ---
-layout: archive-challenge
+layout: front-matter-data
 permalink: /challenge/long-term-corrosion-protection-of-existing-hydraulic-steel-structures-stage-1/
 challenge-id: 906
 status: closed
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/corrosion.jpg
 agency-logo: usbr.jpg
 challenge-title: Long-Term Corrosion Protection of Existing Hydraulic Steel  Structures – Stage 1

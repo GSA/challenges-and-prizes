@@ -1,9 +1,9 @@
 ---
-layout: archive-challenge
+layout: front-matter-data
 permalink: /challenge/virtual-reality-heads-up-display-navigation-challenge/
 challenge-id: 934
 status: closed
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/Stock_LBSUI_515.png
 agency-logo: NIST_logo.png
 challenge-title: Virtual Reality Heads-Up-Display Navigation Challenge

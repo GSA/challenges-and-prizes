@@ -1,9 +1,9 @@
 ---
-layout: archive-challenge
+layout: front-matter-data
 permalink: /challenge/2017-innovations-in-food-and-agricultural-science-and-technology-i-fast-prize-competition-only-selected-pre-applicants-are-eligible/
 challenge-id: 912
 status: closed
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/Powerpt_usda_nifa_centered_rgb_300.jpg
 agency-logo: USDA_logo.png
 challenge-title: 2017 Innovations in Food and Agricultural Science and Technology (I-FAST) Prize Competition

@@ -1,9 +1,9 @@
 ---
-layout: archive-challenge
+layout: front-matter-data
 permalink: /challenge/colorado-river-basin-data-visualization-challenge/
 challenge-id: 917
 status: closed
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/Colorado_river.jpg
 agency-logo: usbr.jpg
 challenge-title: Colorado River Basin Data Visualization Challenge

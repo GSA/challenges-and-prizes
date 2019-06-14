@@ -1,9 +1,9 @@
 ---
-layout: archive-challenge
+layout: front-matter-data
 permalink: /challenge/detecting-leaks-and-flaws-in-water-pipelines-stage-1/
 challenge-id: 946
 status: closed
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/detecting_leaks.jpg
 agency-logo: usbr.jpg
 challenge-title: Detecting Leaks and Flaws in Water Pipelines - Stage 1

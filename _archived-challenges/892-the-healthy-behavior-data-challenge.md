@@ -1,9 +1,9 @@
 ---
-layout: archive-challenge
+layout: front-matter-data
 permalink: /challenge/the-healthy-behavior-data-challenge/ 
 challenge-id: 892
 status: closed
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/Wearable_Device.jpg
 agency-logo: 256px-US_CDC_logo.png
 challenge-title: The Healthy Behavior Data Challenge

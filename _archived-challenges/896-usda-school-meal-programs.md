@@ -1,9 +1,9 @@
 ---
-layout: archive-challenge
+layout: front-matter-data
 permalink: /challenge/usda-school-meal-programs-verification-response-rate-challenge/
 challenge-id: 896
 status: closed
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/Challenge-Video-Launch-Image-04-21.png
 agency-logo: USDA_logo.png
 challenge-title: USDA School Meal Programs Verification Response Rate Challenge

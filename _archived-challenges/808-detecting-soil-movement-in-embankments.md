@@ -1,9 +1,9 @@
 ---
-layout: archive-challenge
+layout: front-matter-data
 permalink: /challenge/detecting-soil-movement-in-embankments/
 challenge-id: 808
 status: closed
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/Erosion.jpg
 agency-logo: usbr.jpg
 challenge-title: Detecting Soil Movement in Embankments

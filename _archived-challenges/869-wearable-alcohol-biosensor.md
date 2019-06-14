@@ -1,9 +1,9 @@
 ---
-layout: archive-challenge
+layout: front-matter-data
 permalink: /challenge/wearable-alcohol-biosensor/ 
 challenge-id: 869
 status: closed
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/NIH.png
 agency-logo: NIH_Master_Logo_Vertical_2Color.jpg
 challenge-title: Wearable Alcohol Biosensor
