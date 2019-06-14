@@ -215,4 +215,3 @@ challenge-manager-email: amira.boland@gsa.gov
 <p><em>Date awardees announced: August 1st by 5PM ET</em></p>
 <p>See <a href="http://www.challenge.gov/challenge/gear-center-challenge/" target="_blank" rel="noopener">Challenge.gov</a>.</p>
       </div>
-    </div> 
