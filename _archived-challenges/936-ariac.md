@@ -69,8 +69,8 @@ challenge-manager-email: craig.schlenoff@nist.gov
 <li>Announcement of Cash Prize Winners: May 18, 2018</li>
 </ul>
 <p><strong>Event Website: </strong></p>
-<p>The Official Rules are posted at <a href="https://www.challenge.gov/challenge/ARIAC/">https://www.challenge.gov/challenge/ARIAC/</a>.</p>
-<p>The Event Website is&nbsp;<a href="http://www.nist.gov/ariac">http://www.nist.gov/ariac</a>.</p>
+<p>The Official Rules are posted at <a href="https://www.challenge.gov/challenge/ARIAC/" target="_blank" rel="noopener">https://www.challenge.gov/challenge/ARIAC/</a>.</p>
+<p>The Event Website is&nbsp;<a href="http://www.nist.gov/ariac" target="_blank" rel="noopener">http://www.nist.gov/ariac</a>.</p>
 <p><strong>Prize Amounts:</strong></p>
 <ul>
 <li>1<sup>st</sup>&nbsp;place - $10,000</li>
@@ -164,16 +164,16 @@ challenge-manager-email: craig.schlenoff@nist.gov
 </ol>
 </li>
 </ol>
-<p>The sum of these cost choices made by each team will be divided by a baseline cost of $1700 and made into a cost factor for the scoring. The team costs are designated as <em>TC</em>, and the baseline cost is designated as B<em>C</em>.&nbsp; The cost factor, is then calculated as: <a href="https://www.challenge.gov/wp-content/uploads/2018/01/Capture1.jpg"><img class="size-full wp-image-174465 aligncenter" src="https://www.challenge.gov/wp-content/uploads/2018/01/Capture1.jpg" alt="" width="156" height="58" /></a></p>
+<p>The sum of these cost choices made by each team will be divided by a baseline cost of $1700 and made into a cost factor for the scoring. The team costs are designated as <em>TC</em>, and the baseline cost is designated as B<em>C</em>.&nbsp; The cost factor, is then calculated as: <img src="{{ site.baseurl }}/assets/images/challenge-content/ariac-cost-metrics.png"></p>
 <p><strong>Completion Score</strong></p>
 <p>Performance metrics that cover both completion and efficiency are calculated for each Trial separately. Completion captures the quality of the orders fulfilled (that the boxes contain the correct products in the correct position/orientations); efficiency captures the responsiveness in fulfilling orders (that the orders were filled quickly).</p>
-<p>Each trial, since it has the option to have more than one order, will have a certain set of scores for each order. Each order consists of a list of products needed and a prescribed position and orientation for each product within the shipping box. The completion score, <em>CS</em>, is a combined score for each order, starting with 1 point for each product that is placed in the shipping box. For each product that is within 3 cm of the correct position, and within 0.1 radians of the correct orientation will result in an additional point. Next, since the main focus of the competition is to have fulfilled orders, any order with all of the products in the confines of the shipping box and in the correct position/orientation receives an additional point for each product. So, for an order s_<em>j</em>&nbsp;with <em>i</em> products in it would have a maximum score of: <a href="https://www.challenge.gov/wp-content/uploads/2018/01/capture3.png"><img class=" wp-image-174475 aligncenter" src="https://www.challenge.gov/wp-content/uploads/2018/01/capture3.png" alt="" width="186" height="61" /></a></p>
+<p>Each trial, since it has the option to have more than one order, will have a certain set of scores for each order. Each order consists of a list of products needed and a prescribed position and orientation for each product within the shipping box. The completion score, <em>CS</em>, is a combined score for each order, starting with 1 point for each product that is placed in the shipping box. For each product that is within 3 cm of the correct position, and within 0.1 radians of the correct orientation will result in an additional point. Next, since the main focus of the competition is to have fulfilled orders, any order with all of the products in the confines of the shipping box and in the correct position/orientation receives an additional point for each product. So, for an order s_<em>j</em>&nbsp;with <em>i</em> products in it would have a maximum score of: <img src="{{ site.baseurl }}/assets/images/challenge-content/ariac-completion-score.png"></p>
 <p><strong>Efficiency Factor</strong></p>
-<p>The Efficiency of the approaches chosen by the teams are accounted for in the scoring by using the times that each team takes to complete each trial. The times are counted in seconds from the start of the trial until the first order is completed and is designated as <em>T_01</em>. In the trials with multiple orders, the time, <em>Tj</em> is counted in seconds from the time that the <em>j</em>th order is sent to the team. For each trial, an average of the times for each team (<em>ATj</em>) is compared to the individual team time to calculate the Efficiency Factor: <a href="https://www.challenge.gov/wp-content/uploads/2018/01/Capture4.png"><img class=" wp-image-174480 aligncenter" src="https://www.challenge.gov/wp-content/uploads/2018/01/Capture4-300x135.png" alt="" width="176" height="79" /></a></p>
+<p>The Efficiency of the approaches chosen by the teams are accounted for in the scoring by using the times that each team takes to complete each trial. The times are counted in seconds from the start of the trial until the first order is completed and is designated as <em>T_01</em>. In the trials with multiple orders, the time, <em>Tj</em> is counted in seconds from the time that the <em>j</em>th order is sent to the team. For each trial, an average of the times for each team (<em>ATj</em>) is compared to the individual team time to calculate the Efficiency Factor: <img src="{{ site.baseurl }}/assets/images/challenge-content/ariac-efficiency-factor.png"></p>
 <p>If a team&rsquo;s system times out for a trial, the efficiency factor for the trial is set to 0 and the trial time is not used to calculate the average times for that trial.</p>
 <p>For the multi-order trials where one of the orders is a high priority order, an additional multiplier, <em>h</em>, is applied with the efficiency factor to give a higher proportion of the score to that order, which is initially set to a value of 3. The final <em>h</em> value will be made available to the Participants at least two weeks before the finals.</p>
 <p><strong>Trial Score Calculation</strong></p>
-<p>All of the scoring factors described above are combined as shown below to calculate the score for each trial: <a href="https://www.challenge.gov/wp-content/uploads/2018/01/capture5.png"><img class="wp-image-174485 aligncenter" src="https://www.challenge.gov/wp-content/uploads/2018/01/capture5-1024x90.png" alt="" width="615" height="54" /></a></p>
+<p>All of the scoring factors described above are combined as shown below to calculate the score for each trial: <img src="{{ site.baseurl }}/assets/images/challenge-content/ariac-trial-score-calculation.png"></p>
 <p><strong>Final Score Calculation</strong></p>
 <p>The final overall score is the equally weighted sum of all trial scores. As mentioned in the Competition Scenarios section, trials are expected to focus on the Baseline Order Fulfillment, Dropped Products, and In-Process Order Change scenarios, among others.</p>
 <p><strong>Winners:</strong>&nbsp;The Winners of cash prizes will be determined by three Judges appointed by the NIST Director, using the Judging Criteria outlined herein.</p>
@@ -195,7 +195,7 @@ challenge-manager-email: craig.schlenoff@nist.gov
 <p><strong>Presentation of Winning Approaches at a To Be Determined Workshop in a Robotics Conference:</strong></p>
 <p>Up to three Winners of the ARIAC Competition may be invited by NIST to attend a workshop dedicated to the ARIAC Competition at a future TBD robotics conference. The Winners will be required to make a 25-minute presentation on their approach in the ARIAC Competition followed by audience question and answer. NIST may arrange and pay for the travel for one team-selected representative from each of the winning Participants to cover eligible travel costs such as airfare, conference registration fee, and lodging.</p>
 <p><strong>Point of Contact for the Competition:</strong></p>
-<p>Questions about the ARIAC Prize Competition can be directed to Craig Schlenoff,&nbsp;<a href="mailto:craig.schlenoff@nist.gov">craig.schlenoff@nist.gov</a>. &nbsp;</p>
+<p>Questions about the ARIAC Prize Competition can be directed to Craig Schlenoff,&nbsp;<a href="mailto:craig.schlenoff@nist.gov" target="_blank" rel="noopener">craig.schlenoff@nist.gov</a>. &nbsp;</p>
 <p style="text-align: center;">-- TERMS AND CONDITIONS --</p>
 <p><strong>Intellectual Property Rights</strong></p>
 <p>Other than as set forth herein, NIST does not make any claim to ownership of your Entry or any of your intellectual property or third party intellectual property that it may contain. By participating in the ARIAC Prize Competition, you are not granting any rights in any patents or pending patent applications related to your Entry; provided that by submitting an entry (i.e., participating in the Competition), you are granting NIST certain limited rights as set forth herein.</p>
@@ -249,7 +249,7 @@ challenge-manager-email: craig.schlenoff@nist.gov
 {: .text-accent-warm-dark .font-heading-lg}
 
 <ol>
-<li>Register at the&nbsp;<a href="http://www.nist.gov/ariac">ARIAC Website</a></li>
+<li>Register at the&nbsp;<a href="http://www.nist.gov/ariac" target="_blank" rel="noopener">ARIAC Website</a></li>
 <li>Start coding! Review the Official Rules and documentation available at the&nbsp;<a href="http://www.nist.gov/ariac">ARIAC Website</a>&nbsp;to design your own robot control software.</li>
 <li>Compete in the Qualifiers in April 2018</li>
 <li>High-scoring teams will be invited to compete in the Finals May 11 &ndash; May 17, 2018</li>
