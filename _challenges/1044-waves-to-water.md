@@ -30,6 +30,7 @@ challenge-manager-email: jennifer.garson@ee.doe.gov
 ### Description
 {: .text-accent-warm-dark .font-heading-lg}
 
+<div class="description">
 <p>The U.S. Department of Energy Water Power Technologies Office invites you to submit your ideas to develop wave powered desalination systems for the Waves to Water Prize. The Waves to Water Prize is a 4-Stage, $2.5M contest to accelerate the development of small, modular, wave-powered desalination systems capable of providing potable drinking water in disaster relief scenarios and remote coastal locations.</p>
 <p>The prize supports the integration of existing and novel wave energy generation technologies with water technologies that can deliver effective, consistent, durable and low-maintenance water delivery systems. The prize seeks to identify the ideal scale of wave energy innovation paired with water technologies that can serve niche markets such as disaster response, and advance the state of both wave energy devices and desalination technologies that could provide value in other markets as the technologies mature.</p>
 <ul><li>Stage I: CONCEPT June 13, 2019 to September 11, 2019</li>
@@ -37,6 +38,7 @@ challenge-manager-email: jennifer.garson@ee.doe.gov
 <li>Stage III: CREATE 180 DAYS: February 2020 to August 2020 (anticipated)</li>
 <li>Stage IV: DRINK 180 DAYS: October 2020 to April 2021 (anticipated)</li>
 </ul>
+  </div>
 
 <!-- Prizes start -->
 ### Prizes
@@ -53,28 +55,28 @@ challenge-manager-email: jennifer.garson@ee.doe.gov
 <h4 class="text-primary">Stage II</h4>
 <p class="prize"><strong>$800,000</strong></p>
 <div class="description">
-<p><strong><span lang="EN">Up to 20 winners, who will share equally a total funding amount of $800,000, but not to exceed $100,000 per team even if less than 8 winners are selected.</span></p>
+<p>Up to 20 winners, who will share equally a total funding amount of $800,000, but not to exceed $100,000 per team even if less than 8 winners are selected.</p>
 </div>
 </div>
 <div class="prize-item">
 <h4 class="text-primary">Stage III</h4>
 <p class="prize"><strong>$500,000</strong></p>
 <div class="description">
-<p><strong><span lang="EN">Up to 5 - 10 winners will be awarded equally from a total prize pool of up to $500,000, but not to exceed $150,000 each, even if less than 4 winners are selected.</span></p>
+<p>Up to 5 - 10 winners will be awarded equally from a total prize pool of up to $500,000, but not to exceed $150,000 each, even if less than 4 winners are selected.</p>
 </div>
 </div>
 <div class="prize-item">
 <h4 class="text-primary">Stage IV: Grand Prize</h4>
 <p class="prize"><strong>$500,000</strong></p>
 <div class="description">
-<p><strong><span lang="EN">A grand prize in the amount of $500,000 will be awarded to the competitor with the best overall score. </span></p>
+<p>A grand prize in the amount of $500,000 will be awarded to the competitor with the best overall score.</p>
 </div>
 </div>
 <div class="prize-item">
 <h4 class="text-primary">Individual Metrics Prizese</h4>
 <p class="prize"><strong>$500,000</strong></p>
 <div class="description">
-<p><strong><span lang="EN">There will be other prizes awarded to the competitors for a total prize pool of $500,000.</span></p>
+<p>There will be other prizes awarded to the competitors for a total prize pool of $500,000.</p>
 </div>
 </div>
 
@@ -82,16 +84,22 @@ challenge-manager-email: jennifer.garson@ee.doe.gov
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg}
 
+<div class="rules">
 <p>The rules for the Waves to Water Prize can be found here: <a href="https://americanmadechallenges.org/wavestowater/Waves-to-Water_Prize_Official_Rules.pdf" target="_blank" rel="noopener">https://americanmadechallenges.org/wavestowater/Waves-to-Water_Prize_Official_Rules.pdf</a>.</p>
+</div>
 
 <!-- Judging start -->
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg}
 
+<div class="judging-criteria">
 <p>Please review the official rules for the judging criteria.</p>
+  </div>
 
 <!--  How To Enter start -->
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg}
 
+<div class="how-to-enter">
 <p>Competitors can enter on the HeroX platform: <a href="https://www.herox.com/wavestowater" target="_blank" rel="noopener">https://www.herox.com/wavestowater</a>.</p>
+  </div>
