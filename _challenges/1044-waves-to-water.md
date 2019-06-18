@@ -45,36 +45,36 @@ challenge-manager-email: jennifer.garson@ee.doe.gov
 {: .text-accent-warm-dark .font-heading-lg}
 
 <div class="prize-item">
-<h4 class="text-primary">Stage I</h4>
-<p class="prize"><strong>$200,000</strong></p>
+<h4>Stage I</h4>
+<p><strong>$200,000</strong></p>
 <div class="description">
-<p><strong><span lang="EN">Up to 20 winners will receive a $10,000 prize.</span></p>
+<p>Up to 20 winners will receive a $10,000 prize.</p>
 </div>
 </div>
 <div class="prize-item">
-<h4 class="text-primary">Stage II</h4>
-<p class="prize"><strong>$800,000</strong></p>
+<h4>Stage II</h4>
+<p><strong>$800,000</strong></p>
 <div class="description">
 <p>Up to 20 winners, who will share equally a total funding amount of $800,000, but not to exceed $100,000 per team even if less than 8 winners are selected.</p>
 </div>
 </div>
 <div class="prize-item">
-<h4 class="text-primary">Stage III</h4>
-<p class="prize"><strong>$500,000</strong></p>
+<h4>Stage III</h4>
+<p><strong>$500,000</strong></p>
 <div class="description">
 <p>Up to 5 - 10 winners will be awarded equally from a total prize pool of up to $500,000, but not to exceed $150,000 each, even if less than 4 winners are selected.</p>
 </div>
 </div>
 <div class="prize-item">
-<h4 class="text-primary">Stage IV: Grand Prize</h4>
-<p class="prize"><strong>$500,000</strong></p>
+<h4>Stage IV: Grand Prize</h4>
+<p><strong>$500,000</strong></p>
 <div class="description">
 <p>A grand prize in the amount of $500,000 will be awarded to the competitor with the best overall score.</p>
 </div>
 </div>
 <div class="prize-item">
-<h4 class="text-primary">Individual Metrics Prizese</h4>
-<p class="prize"><strong>$500,000</strong></p>
+<h4>Individual Metrics Prizese</h4>
+<p><strong>$500,000</strong></p>
 <div class="description">
 <p>There will be other prizes awarded to the competitors for a total prize pool of $500,000.</p>
 </div>
