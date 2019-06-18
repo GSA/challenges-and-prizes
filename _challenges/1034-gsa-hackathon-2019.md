@@ -60,12 +60,12 @@ prizes: true
 <div dir="ltr">[Special instructions: Participant will follow all security procedures stated and be escorted by a hackathon representative to Conference Room B on the first floor.]</div>
 <p><div dir="ltr"><strong>Chicago, IL</strong></div>
 <div dir="ltr"><strong>Ralph H. Metcalfe Federal Building</strong></div>
-<div dir="ltr">230 S Dearborn, Chicago, IL 60604</div>
+<div dir="ltr">77 W Jackson Blvd, Chicago, IL 60604</div>
 <div dir="ltr">Capacity: 27</div>
 <div dir="ltr">Hackathon Run Time: 9:00 am - 4:00 pm, Central Time (CT)</div>
 <div dir="ltr">Participants should arrive no later than: 8:15 am.</div>
 <div dir="ltr">[Special instructions: Participant will follow all security procedures stated and be escorted by a hackathon representative to Rooms 330 and 329.]</div></p>
-<p><div><strong>Ft. Worth, TX\</strong></div>
+<p><div><strong>Ft. Worth, TX</strong></div>
 <div><strong>Fritz G. Lanham Federal Building</strong></div>
 <div>819 Taylor Street, Fort Worth, TX 76102-6124</div>
 <div>Capacity: 25</div>
