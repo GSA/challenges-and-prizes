@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/waves-to-water-prize/
+permalink: /challenge/waves-to-water-prize/
 challenge-id: 1044
 status: open
 sidenav: true
