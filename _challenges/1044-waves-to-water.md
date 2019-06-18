@@ -73,7 +73,7 @@ challenge-manager-email: jennifer.garson@ee.doe.gov
 </div>
 </div>
 <div class="prize-item">
-<h4>Individual Metrics Prizese</h4>
+<h4>Individual Metrics Prizes</h4>
 <p><strong>$500,000</strong></p>
 <div class="description">
 <p>There will be other prizes awarded to the competitors for a total prize pool of $500,000.</p>
