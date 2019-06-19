@@ -1,9 +1,9 @@
 ---
-layout: archive-challenge
+layout: front-matter-data
 permalink: /challenge/more-water-less-concentrate-stage-1/
 challenge-id: 870
 status: closed
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/pipe.png
 agency-logo: usbr.jpg
 challenge-title: More Water Less Concentrate - Stage 1
@@ -44,7 +44,7 @@ challenge-manager-email: atiffenbach@usbr.gov
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg}
 
-<p><strong>All official entries must be submitted via the <a href="https://www.innocentive.com/ar/challenge/9933762>InnoCentive website</a> open on the date of launch (13 Dec 2016). </strong></p>
+<p><strong>All official entries must be submitted via the <a href="https://www.innocentive.com/ar/challenge/9933762">InnoCentive website</a> open on the date of launch (13 Dec 2016). </strong></p>
 <p><em>Questions about this Challenge?&nbsp; Please direct any requests for clarifications and additional information about this challenge to InnoCentive.com. As the administrator for this challenge, InnoCentive will contact the Bureau of Reclamation, as needed, to answer your questions and will also&nbsp;make the responses available to all registered solvers if they provide relevant additional information.&nbsp;To submit your questions to InnoCentive, register for the competition at the InnoCentive website. &nbsp;Registration is free and easy. Once you have registered, you will be able to see the full details of this challenge. After reviewing the full details, if you still have questions, InnoCentive provides each registered solver with the ability to submit their specific questions to the challenge administrator.</em></p>
 
 <!-- Judging start -->

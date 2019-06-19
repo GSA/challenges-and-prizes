@@ -1,9 +1,9 @@
 ---
-layout: archive-challenge
+layout: front-matter-data
 permalink: /challenge/differential-privacy-synthetic-data-challenge/
 challenge-id: 74
 status: closed
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/SyntheticData_PSCR.jpg
 agency-logo: NIST_logo.png
 challenge-title: Differential Privacy Synthetic Data Challenge

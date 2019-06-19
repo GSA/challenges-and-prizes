@@ -1,9 +1,9 @@
 ---
-layout: archive-challenge
+layout: front-matter-data
 permalink: /challenge/eradication-of-invasive-mussels-in-open-water-stage-1/
 challenge-id: 933
 status: closed
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/mussels.jpg
 agency-logo: usbr.jpg
 challenge-title: Eradication of Invasive Mussels in Open Water - Stage 1

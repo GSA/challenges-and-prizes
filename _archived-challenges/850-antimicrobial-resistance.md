@@ -1,9 +1,9 @@
 ---
-layout: archive-challenge
+layout: front-matter-data
 permalink: /challenge/antimicrobial-resistance-rapid-point-of-care-diagnostic-letter-of-intent/ 
 challenge-id: 850
 status: closed
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/Logo-trio-for-AMR.png
 agency-logo: NIH_Master_Logo_Vertical_2Color.jpg
 challenge-title: Antimicrobial Resistance Rapid Point of Care Diagnostic Letter of Intent

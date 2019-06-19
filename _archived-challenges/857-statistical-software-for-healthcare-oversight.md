@@ -1,9 +1,9 @@
 ---
-layout: archive-challenge
+layout: front-matter-data
 permalink: /challenge/statistical-software-for-healthcare-oversight/
 challenge-id: 857
 status: closed
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/seal-clear-600.png
 agency-logo: hhs.png
 challenge-title: Statistical Software for Healthcare Oversight
@@ -22,7 +22,7 @@ fiscal-year: 2016
 legal-authority: America COMPETES
 challenge-manager: Jared Smith
 challenge-manager-email: Jared.Smith@oig.hhs.gov
-------
+---
 
 <!-- Description start -->
 ### Description

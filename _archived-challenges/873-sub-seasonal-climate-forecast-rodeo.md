@@ -1,9 +1,9 @@
 ---
-layout: archive-challenge
+layout: front-matter-data
 permalink: /challenge/sub-seasonal-climate-forecast-rodeo/
 challenge-id: 873
 status: closed
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/forecast_thumbnail.png
 agency-logo: usbr.jpg
 challenge-title: Sub-Seasonal Climate Forecast Rodeo

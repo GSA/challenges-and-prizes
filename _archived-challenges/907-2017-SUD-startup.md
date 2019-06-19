@@ -1,9 +1,9 @@
 ---
-layout: archive-challenge
+layout: front-matter-data
 permalink: /challenge/the-2017-100000-for-start-a-sud-startupchallenge/
 challenge-id: 907
 status: closed
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/NIH_Master_Logo_Vertical_2Color.jpg
 agency-logo: NIH_Master_Logo_Vertical_2Color.jpg
 challenge-title: The 2017 "$100,000 for Start a SUD Startup" Challenge

@@ -1,9 +1,9 @@
 ---
-layout: archive-challenge
+layout: front-matter-data
 permalink: /challenge/ramp-reusable-abstractions-of-manufacturing-processes/ 
 challenge-id: 937
 status: closed
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/RampLogo2018.png
 agency-logo: NIST_logo.png
 challenge-title: 2018 RAMP - Reusable Abstractions of Manufacturing Processes

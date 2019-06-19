@@ -1,9 +1,9 @@
 ---
-layout: archive-challenge
+layout: front-matter-data
 permalink: /challenge/the-unmanned-aerial-systems-flight-and-payload-challenge/
 challenge-id: 935
 status: closed
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/Stock_DeployablesSystems_069.jpeg
 agency-logo: NIST_logo.png
 challenge-title: The Unmanned Aerial Systems Flight and Payload Challenge
