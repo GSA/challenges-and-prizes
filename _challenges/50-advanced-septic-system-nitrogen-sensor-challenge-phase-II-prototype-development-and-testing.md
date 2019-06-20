@@ -71,7 +71,7 @@ challenge-manager-email: theroux.maggie@epa.gov
 {: .text-accent-warm-dark .font-heading-lg}
 
 <div class="description">
-        <p><strong>Any technology/sensor developer is eligible to participate. The application is due July 26, 2019.</strong</p>
+        <p><strong>Any technology/sensor developer is eligible to participate. The application is due July 26, 2019.</strong></p>
       </div>
 
 <!-- Judging start -->
