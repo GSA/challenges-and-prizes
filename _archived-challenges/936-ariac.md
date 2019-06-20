@@ -44,7 +44,7 @@ challenge-manager-email: craig.schlenoff@nist.gov
 <p><strong>2nd Place:&nbsp;</strong>$5,000.00</p>
 <p>Pajamas. Joey Gannon, Pittsburgh, PA.</p>
 <p><strong>3rd Place:&nbsp;</strong>$2,500.00</p>
-<p>AAU. <a href="http://rvmi.aau.dk/" target="_blank" rel="noopener">Robotics, Vision and Machine Intelligence</a></p>
+<p>AAU. <a href="http://rvmi.aau.dk/" target="_blank" "rel="noopener">Robotics, Vision and Machine Intelligence</a></p>
 
 <!-- Rules start -->
 ### Rules 
@@ -164,16 +164,21 @@ challenge-manager-email: craig.schlenoff@nist.gov
 </ol>
 </li>
 </ol>
-<p>The sum of these cost choices made by each team will be divided by a baseline cost of $1700 and made into a cost factor for the scoring. The team costs are designated as <em>TC</em>, and the baseline cost is designated as B<em>C</em>.&nbsp; The cost factor, is then calculated as: <img src="{{ site.baseurl }}/assets/images/challenge-content/ariac-cost-metrics.png"></p>
+
+<p>The sum of these cost choices made by each team will be divided by a baseline cost of $1700 and made into a cost factor for the scoring. The team costs are designated as <em>TC</em>, and the baseline cost is designated as B<em>C</em>.&nbsp; The cost factor, is then calculated as:</p>
+<p><img src="{{ site.baseurl }}/assets/images/challenge-content/cost-metrics.png"></p>
 <p><strong>Completion Score</strong></p>
 <p>Performance metrics that cover both completion and efficiency are calculated for each Trial separately. Completion captures the quality of the orders fulfilled (that the boxes contain the correct products in the correct position/orientations); efficiency captures the responsiveness in fulfilling orders (that the orders were filled quickly).</p>
-<p>Each trial, since it has the option to have more than one order, will have a certain set of scores for each order. Each order consists of a list of products needed and a prescribed position and orientation for each product within the shipping box. The completion score, <em>CS</em>, is a combined score for each order, starting with 1 point for each product that is placed in the shipping box. For each product that is within 3 cm of the correct position, and within 0.1 radians of the correct orientation will result in an additional point. Next, since the main focus of the competition is to have fulfilled orders, any order with all of the products in the confines of the shipping box and in the correct position/orientation receives an additional point for each product. So, for an order s_<em>j</em>&nbsp;with <em>i</em> products in it would have a maximum score of: <img src="{{ site.baseurl }}/assets/images/challenge-content/ariac-completion-score.png"></p>
+<p>Each trial, since it has the option to have more than one order, will have a certain set of scores for each order. Each order consists of a list of products needed and a prescribed position and orientation for each product within the shipping box. The completion score, <em>CS</em>, is a combined score for each order, starting with 1 point for each product that is placed in the shipping box. For each product that is within 3 cm of the correct position, and within 0.1 radians of the correct orientation will result in an additional point. Next, since the main focus of the competition is to have fulfilled orders, any order with all of the products in the confines of the shipping box and in the correct position/orientation receives an additional point for each product. So, for an order s_<em>j</em>&nbsp;with <em>i</em> products in it would have a maximum score of:</p>
+<p><img src="{{ site.baseurl }}/assets/images/challenge-content/completion-score.png"></p>
 <p><strong>Efficiency Factor</strong></p>
-<p>The Efficiency of the approaches chosen by the teams are accounted for in the scoring by using the times that each team takes to complete each trial. The times are counted in seconds from the start of the trial until the first order is completed and is designated as <em>T_01</em>. In the trials with multiple orders, the time, <em>Tj</em> is counted in seconds from the time that the <em>j</em>th order is sent to the team. For each trial, an average of the times for each team (<em>ATj</em>) is compared to the individual team time to calculate the Efficiency Factor: <img src="{{ site.baseurl }}/assets/images/challenge-content/ariac-efficiency-factor.png"></p>
+<p>The Efficiency of the approaches chosen by the teams are accounted for in the scoring by using the times that each team takes to complete each trial. The times are counted in seconds from the start of the trial until the first order is completed and is designated as <em>T_01</em>. In the trials with multiple orders, the time, <em>Tj</em> is counted in seconds from the time that the <em>j</em>th order is sent to the team. For each trial, an average of the times for each team (<em>ATj</em>) is compared to the individual team time to calculate the Efficiency Factor:</p>
+<p><img src="{{ site.baseurl }}/assets/images/challenge-content/efficiency-factor.png"></p>
 <p>If a team&rsquo;s system times out for a trial, the efficiency factor for the trial is set to 0 and the trial time is not used to calculate the average times for that trial.</p>
 <p>For the multi-order trials where one of the orders is a high priority order, an additional multiplier, <em>h</em>, is applied with the efficiency factor to give a higher proportion of the score to that order, which is initially set to a value of 3. The final <em>h</em> value will be made available to the Participants at least two weeks before the finals.</p>
 <p><strong>Trial Score Calculation</strong></p>
-<p>All of the scoring factors described above are combined as shown below to calculate the score for each trial: <img src="{{ site.baseurl }}/assets/images/challenge-content/ariac-trial-score-calculation.png"></p>
+<p>All of the scoring factors described above are combined as shown below to calculate the score for each trial: </p>
+<p><img src="{{ site.baseurl }}/assets/images/challenge-content/trial-score-calculation.png"></p>
 <p><strong>Final Score Calculation</strong></p>
 <p>The final overall score is the equally weighted sum of all trial scores. As mentioned in the Competition Scenarios section, trials are expected to focus on the Baseline Order Fulfillment, Dropped Products, and In-Process Order Change scenarios, among others.</p>
 <p><strong>Winners:</strong>&nbsp;The Winners of cash prizes will be determined by three Judges appointed by the NIST Director, using the Judging Criteria outlined herein.</p>
@@ -250,7 +255,7 @@ challenge-manager-email: craig.schlenoff@nist.gov
 
 <ol>
 <li>Register at the&nbsp;<a href="http://www.nist.gov/ariac" target="_blank" rel="noopener">ARIAC Website</a></li>
-<li>Start coding! Review the Official Rules and documentation available at the&nbsp;<a href="http://www.nist.gov/ariac">ARIAC Website</a>&nbsp;to design your own robot control software.</li>
+<li>Start coding! Review the Official Rules and documentation available at the&nbsp;<a href="http://www.nist.gov/ariac" target="_blank" rel="noopener">ARIAC Website</a>&nbsp;to design your own robot control software.</li>
 <li>Compete in the Qualifiers in April 2018</li>
 <li>High-scoring teams will be invited to compete in the Finals May 11 &ndash; May 17, 2018</li>
 </ol>
