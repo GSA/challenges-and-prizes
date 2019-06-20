@@ -66,7 +66,6 @@ prizes: true
 <li>Agree to the eligibility rules and requirements listed on <strong><a href="https://nia.nih.gov/challenge-prize" target="_blank" rel="noopener">NIA&rsquo;s challenge details page</a></strong></li>
 <li>Submit solutions via email to NIAPrizeInput@nih.gov by June 30, 2019</li>
 </ul>
-</ul>
 
 <!--  How To Enter start -->
 ### How To Enter
