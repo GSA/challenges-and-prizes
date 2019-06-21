@@ -34,6 +34,7 @@ challenge manager email: betsy.steele@gsa.gov
 <p>Security and cloud professionals, academia, and anyone interested or involved in the FedRAMP ecosystem are invited to participate in this opportunity to share their best thinking on the next phase of FedRAMP.</p>
 <p>As technology evolves, it is important that federal Agencies manage information systems to address and mitigate security risks. We want to ensure FedRAMP continuously explores initiatives in support of a modern, efficient, and effective authorization process in an effort to reduce time and cost, without compromising cybersecurity rigor.</p>
 <p>This challenge provides FedRAMP&rsquo;s stakeholders and the cloud security community at large the opportunity to directly inform and contribute ideas in support of a new approach to risk assessments and security authorization for cloud products and services.</p>
+<p>For more information, visit <a href="http://www.fedramp.gov/challenge" target="_blank" rel="noopener">The FedRAMP Ideation Challenge page</a>.</p>
 
 
 <!-- Rules start -->
@@ -67,3 +68,4 @@ challenge manager email: betsy.steele@gsa.gov
 </ol>
 <p>Please keep in mind that we do not want to compromise security rigor!</p>
 <p>Submissions will be reviewed by the FedRAMP PMO. As a result of this challenge and internal efforts, FedRAMP will define its next big move as a program and communicate the results of this effort through the <a href="https://www.fedramp.gov/blog/">Focus on FedRAMP blog</a>. The PMO will also release a Special Notice on FedBizOps and on GSA eBuy as part of a larger coordinated effort to gather ideas from the broadest possible community. These public announcements will contain a direct link to the FedRAMP website for further details about the ideation challenge.</p>
+<p>For more information, visit <a href="http://www.fedramp.gov/challenge" target="_blank" rel="noopener">The FedRAMP Ideation Challenge page</a>.</p>
