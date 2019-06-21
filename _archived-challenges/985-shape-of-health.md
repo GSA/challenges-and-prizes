@@ -12,10 +12,10 @@ agency: Department of Health and Human Services
 partner-agencies-federal: 
 partners-non-federal: 
 external-url:
-total-prize-offered-cash: $900,000
-type-of-challenge:  Ideas
-submission-start: 
-submission-end: 2019/05/24 5:00 PM ET
+total-prize-offered-cash: $200,000
+type-of-challenge:  Software and apps
+submission-start: 2019/01/31 12:00 AM
+submission-end: 2019/04/07 11:59 PM
 submission-link:  
 prizes: true
 fiscal-year: FY19
@@ -23,8 +23,6 @@ legal-authority: America COMPETES
 challenge-manager: Ann Abercrombie
 challenge-manager-email: Ann.Abercrombie@hhs.gov 
 ---
-
-
 
 <!-- Description start -->
 ### Description
@@ -73,20 +71,88 @@ challenge-manager-email: Ann.Abercrombie@hhs.gov
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg}
 
-
+<p><strong>Phase 1 (Concept Development)</strong></p>
+<p>Participants will compete for a $20,000 prize pot from which up to 10 submissions may be selected to receive a $2,000 prize each.&nbsp;</p>
+<p><strong>Phase 2 (In-Person Demo)</strong></p>
+<p>The 10 participants from Phase 1 will compete for a $70,000 prize pot. The following prizes may be awarded:</p>
+<ul>
+<li>Two First Place winners of $20,000 (one girls&rsquo; health, one women&rsquo;s health)</li>
+<li>Two Second Place winners of $10,000 (one girls&rsquo; health, one women&rsquo;s health)</li>
+<li>Two Third Place winners of $5,000 (one girls&rsquo; health, one women&rsquo;s health)</li>
+</ul>
+<p><strong>Phase 3 (Final Development)</strong></p>
+<p>The First Place winners from Phase 2 may each be awarded an additional $55,000.</p>
 
 <!-- Rules start -->
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg}
 
+<p>To be eligible to win a prize under this competition, an individual, group, or entity:</p>
+<ol>
+<li>Shall have registered to participate in the competition under the rules promulgated by HHS;</li>
+<li>Shall have complied with all the requirements under this section;</li>
+<li>In the case of a private entity, shall be incorporated in and maintain a primary place of business in the United States, and in the case of an individual, whether participating singly or in a group, shall be a citizen or permanent resident of the United States;</li>
+<li>May not be a Federal entity or Federal employee acting within the scope of their employment (all non-HHS Federal employees must consult with their agency Ethics Official to determine whether the Federal ethics rules will limit or prohibit the acceptance of a COMPETES Act prize);</li>
+<li>Shall not be a Federal employee working on their applications or submissions during assigned duty hours;</li>
+<li>May not be an HHS employee;</li>
+<li>May not be any other individual or entity associated with the development, evaluation, or administration of the Shape of Health competition or members of such persons&rsquo; immediate families (spouses, children, siblings, parents), and persons living in the same household as such persons, whether or not related;</li>
+<li>A Federal grantee may not use Federal funds to develop submissions unless consistent with the purpose of their grant award;</li>
+<li>A Federal contractor may not use Federal funds from a contract to develop COMPETES Act challenge applications or to fund efforts in support of a COMPETES Act challenge submission;</li>
+<li>Must be an individual or team comprised only of members 18 years of age or older;</li>
+<li>Shall not be deemed ineligible because the individual or entity used federal facilities or consulted with federal employees during a competition if the facilities and employees are made equitably available to all individuals and entities participating in the competition;</li>
+<li>Must provide a statement agreeing to indemnify the federal government against third party claims for damages arising from or related to competition activities;</li>
+<li>Must provide a statement agreeing to assume all risks and waive claims against the Federal Government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from participation in this prize contest, whether the injury, death, damage, or loss arises through negligence or otherwise.</li>
+<li>HHS has hereby waived the requirement for participants to obtain liability insurance in a specified amount for this competition.&nbsp; Participants are advised to consult with appropriate advisors to determine what amounts of insurance may be necessary for their own liability protection.</li>
+<li>Shall not be currently on the Excluded Parties List (<a href="https://www.epls.gov" target="_blank" rel="noopener">https://www.epls.gov</a>).&nbsp;</li>
+</ol>
+<p><strong>Additional Requirements:</strong>&nbsp;</p>
+<p>Entrants shall not use the OWH or HHS logos or official seals in their submissions, and must not claim endorsement.</p>
+<p>HHS reserves the right to cancel, suspend, and/or modify the Shape of Health competition, or any part of it, for any reason, at HHS&rsquo; sole discretion.</p>
+<p><strong>Payment of the Prize:</strong></p>
+<p>Prizes awarded under this competition will be paid by electronic funds transfer and may be subject to Federal income taxes. HHS will comply with the Internal Revenue Service withholding and reporting requirements, where applicable.</p>
+<p><strong>Intellectual Property (IP):</strong></p>
+<ul>
+<li>Each entrant retains full ownership and title in and to their submission. Entrants expressly reserve all intellectual property rights not expressly granted under this publication notice.</li>
+<li>By participating in the competition, each entrant hereby irrevocably grants to HHS a limited, non-exclusive, royalty-free, worldwide license and right to reproduce, publically perform, publically display, and use the submission for internal HHS business and to the extent necessary to administer the competition, and to publically perform and publically display the submission, including, without limitation, for advertising and promotional purposes relating to the competition.</li>
+<li>Record Retention and FOIA: All materials submitted to HHS as part of a submission become HHS records and cannot be returned. Any confidential commercial information contained in a submission should be designated at the time of submission. Participants will be notified of any Freedom of Information Act requests for their submissions in accordance with 45 CFR 5.65.</li>
+</ul>
+<p><strong>Supplementary Information:</strong>&nbsp;</p>
+<p>Information on obesity prevention and control in women and girls can be found at: <a href="https://www.cdc.gov/obesity/resources/strategies-guidelines.html" target="_blank" rel="noopener">https://www.cdc.gov/obesity/resources/strategies-guidelines.html</a></p>
+<p><a href="https://www.womenshealth.gov/a-z-topics/overweight-obesity-and-weight-loss" target="_blank" rel="noopener">https://www.womenshealth.gov/a-z-topics/overweight-obesity-and-weight-loss</a></p>
+<p><a href="https://www.girlshealth.gov/nutrition/healthyweight/" target="_blank" rel="noopener">https://www.girlshealth.gov/nutrition/healthyweight/</a></p>
 
 <!-- Judging start -->
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg}
 
-
+<p><strong>Phase 1&nbsp; Scoring Criteria</strong></p>
+<p>All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and 5 being the highest score on each dimension. Scores are weighted by the proportion of each dimension and then aggregated to create a final score.</p>
+<ol>
+<li><strong>Viability of storyboard (30%):</strong> 1 = Storyboard is not likely to be developed into a working game / 5= Storyboard is likely to be able to developed into a working game</li>
+<li><strong>Application of research (20%):</strong> 1 = Storyboard does not address evidence-based obesity prevention or control determinants / 5 = Storyboard addresses evidence-based obesity prevention or control determinants</li>
+<li><strong>Relevancy of storyboard (20%):</strong> 1 = Storyboard does not address obesity from a women/girls&rsquo; health perspective / 5 = Storyboard addresses obesity from a women/girls&rsquo; health perspective</li>
+<li><strong>Originality of storyboard (15%):</strong> 1 = Storyboard does not take a novel approach / 5 = Storyboard takes a novel approach</li>
+<li><strong>Likelihood of adoption (15%):</strong> 1 = Proposed game is not likely to be used by women/girls / 5 = Proposed game is likely to be used by women/girls.</li>
+</ol>
+<p><strong>Phase 2 Scoring Criteria</strong></p>
+<p>All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and 5 being the highest score on each dimension. Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase 2 include:</p>
+<ol>
+<li><strong>Viability of game (30%):</strong>&nbsp;1 = Demo is not likely to be developed into a working game / 5= Demo is likely to be developed into a working game</li>
+<li><strong>Application of research (20%):</strong>&nbsp;1 = Game does not address evidence-based obesity prevention or control determinants / 5 = Game addresses evidence-based obesity prevention or control determinants</li>
+<li><strong>Relevancy of game (20%):</strong>&nbsp;1 = Game does not address obesity from an women/girls&rsquo; health perspective/ 5 = Game addresses obesity from a women/girls&rsquo; health perspective</li>
+<li><strong>Originality of game (15%):</strong>&nbsp;1 = Game does not take a novel approach / 5 = Game takes a novel approach</li>
+<li><strong>Likelihood of adoption (15%):</strong>&nbsp;1 = Game is not likely to be used by women/girls / 5 = Game is likely to be used by women/girls</li>
+</ol>
+<p><strong>Phase 3 Scoring Criteria (Pass/Fail)</strong></p>
+<p>The final prize money will be provided when the game:</p>
+<ul>
+<li>is complete;</li>
+<li>includes the proper obesity prevention or control determinants; and</li>
+<li>is available to the general public on a widely accessible platform.</li>
+</ul>
 
 <!--  How To Enter start -->
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg}
 
+<p>The submission period for Phase 1 of this challenge has closed. Please see the Description section for details on Phases 2 and 3.</p>
