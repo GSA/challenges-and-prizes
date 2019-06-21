@@ -14,12 +14,14 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: 
 type-of-challenge: Ideas
-submission-start: 
-submission-end: 2019/06/19 05:00 PM
+submission-start: 2019/06/25 11:00 AM
+submission-end: 2019/08/13 05:00 PM
 submission-link: www.fedramp.gov/challenge
 prizes: false
-challenge manager:
-challenge manager email: 
+legal authority: Other
+fiscal year: FY19
+challenge manager: Betsy Steele
+challenge manager email: betsy.steele@gsa.gov
 ---
 
 
