@@ -5,7 +5,7 @@ challenge-id: 50
 status: open
 sidenav: true
 card-image: /assets/images/cards/advancedspeticsystemlogo_test.jpg
-agency-logo: 256px-Environmental_Protection_Agency_logo
+agency-logo: 256px-Environmental_Protection_Agency_logo.png
 challenge-title: Advanced Septic System Nitrogen Sensor Challenge Phase II Prototype Development and Testing
 tagline: Engineer groundbreaking sensor technology for advanced septic systems
 agency: Environmental Protection Agency
