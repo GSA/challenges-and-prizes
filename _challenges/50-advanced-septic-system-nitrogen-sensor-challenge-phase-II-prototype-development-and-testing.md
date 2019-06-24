@@ -60,8 +60,8 @@ challenge-manager-email: theroux.maggie@epa.gov
 {: .text-accent-warm-dark .font-heading-lg}
 
 <div class="prize-item">
-<p><strong>October 2019 – Up to $50,000 in prize money to the best performing sensor(s) from the August 21-27, 2019 prototype screening test and an invitation to the December 2019 one month test.</p>
-<p>February 2021 - EPA will award International Standards Organization (ISO) Environmental Technology Verification (ETV) 14034 Verification Reports and Statements for sensors that complete the six-month field testing and meet the minimum performance goals.</strong></p>
+<p><strong>October 2019 – Up to $50,000 in prize money to the best performing sensor(s) from the August 21-27, 2019 prototype screening test and an invitation to the December 2019 one month test.</strong></p>
+<p><strong>February 2021 - EPA will award International Standards Organization (ISO) Environmental Technology Verification (ETV) 14034 Verification Reports and Statements for sensors that complete the six-month field testing and meet the minimum performance goals.</strong></p>
 <p>The ISO ETV 14034 verification reports and statements will be posted on the VerifiGlobal website. The value of each verification report is approximately $47,268 in testing and verification services. If a sensor technology developer independently approached VerifiGlobal and Battelle and asked for ISO ETV 14034 verification of their sensor, the cost would be close to $100,000 for one sensor without the benefits of the Challenge Phase II Prototype Testing Program.</p>
 <h4>Summer 2021 - MARKET STIMULATION OPPORTUNITY</h4>
 <p>Following the release of the verification reports in early 2021, an external technical panel and The Nature Conservancy (TNC) will review the results. TNC and others are seeking funding for an order of 200 units, not to exceed a total cost of $300,000. The order would be presented in the summer of 2021 to the best performing sensor/s that completes the 6-month field performance test and meets or exceeds the performance goals.</p>
@@ -78,6 +78,7 @@ challenge-manager-email: theroux.maggie@epa.gov
 <!-- Judging start -->
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg}
+
 <p>Please visit <a href="http://www.verifiglobal.com/en/" target="_blank" rel="noopener">VerifiGlobal</a> and read the Test/Quality Assurance Plan (T/QAP) for the judging criteria.</p>
 
 
