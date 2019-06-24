@@ -65,6 +65,7 @@ challenge-manager-email: theroux.maggie@epa.gov
 <p>The ISO ETV 14034 verification reports and statements will be posted on the VerifiGlobal website. The value of each verification report is approximately $47,268 in testing and verification services. If a sensor technology developer independently approached VerifiGlobal and Battelle and asked for ISO ETV 14034 verification of their sensor, the cost would be close to $100,000 for one sensor without the benefits of the Challenge Phase II Prototype Testing Program.</p>
 <h4>Summer 2021 - MARKET STIMULATION OPPORTUNITY</h4>
 <p>Following the release of the verification reports in early 2021, an external technical panel and The Nature Conservancy (TNC) will review the results. TNC and others are seeking funding for an order of 200 units, not to exceed a total cost of $300,000. The order would be presented in the summer of 2021 to the best performing sensor/s that completes the 6-month field performance test and meets or exceeds the performance goals.</p>
+</div>
 
 <!-- Rules start -->
 ### Rules 
