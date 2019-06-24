@@ -30,11 +30,16 @@ challenge manager email: betsy.steele@gsa.gov
 {: .text-accent-warm-dark .font-heading-lg}
 
 <p>Although Agencies are adopting secure cloud technologies at record-high levels, challenges remain. The Federal Risk and Authorization Management Program (FedRAMP) strives to continuously improve how we support our customers. In an effort to enhance and evolve our program, the FedRAMP Program Management Office (PMO) seeks to leverage the power and insights of the cybersecurity community. Respondents have the opportunity to help guide what the PMO&rsquo;s takes on next and ensure that the government keeps federal data secure while bolstering modernization efforts.</p>
+<p><strong>Goal</strong></p>
 <p>Participants should submit bold, innovative, and actionable ideas that offer a new perspective on the FedRAMP Authorization process.</p>
 <p>Security and cloud professionals, academia, and anyone interested or involved in the FedRAMP ecosystem are invited to participate in this opportunity to share their best thinking on the next phase of FedRAMP.</p>
+<p><strong>Opportunity</strong></p>
 <p>As technology evolves, it is important that federal Agencies manage information systems to address and mitigate security risks. We want to ensure FedRAMP continuously explores initiatives in support of a modern, efficient, and effective authorization process in an effort to reduce time and cost, without compromising cybersecurity rigor.</p>
 <p>This challenge provides FedRAMP&rsquo;s stakeholders and the cloud security community at large the opportunity to directly inform and contribute ideas in support of a new approach to risk assessments and security authorization for cloud products and services.</p>
-<p>For more information, visit <a href="http://www.fedramp.gov/challenge" target="_blank" rel="noopener">The FedRAMP Ideation Challenge page</a>.</p>
+<p><strong>Background</strong></p>
+<p>FedRAMP standardizes the Federal Government&rsquo;s requirements and approach to security assessment, authorization, and monitoring of cloud products and services (Infrastructure as a Service [IaaS], Platform as a Service [PaaS], and Software as a Service [SaaS]). The FedRAMP program established several cloud security baselines in accordance with <a href="https://www.congress.gov/113/plaws/publ283/PLAW-113publ283.pdf">FISMA</a> and aligned with the <a href="https://csrc.nist.gov/projects/risk-management/risk-management-framework-(RMF)-Overview">NIST RMF</a> and <a href="https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-53r4.pdf">NIST SP 800-53.</a> FedRAMP&rsquo;s unified approach allows CSPs to demonstrate how they are safeguarding information using a single set of security requirements that is accepted by all executive branch Departments and Agencies. This &ldquo;do once, use many&rdquo; approach minimizes duplicative Agency-specific authorization efforts, inconsistencies, and cost inefficiencies.&nbsp;</p>
+<p>FedRAMP works closely with partners from industry and government&nbsp; to promote the secure adoption of innovative information technologies. The FedRAMP PMO takes a continuous improvement mindset to its mission of creating transparent standards and processes to&nbsp; accelerate federal Agencies&rsquo; adoption of cloud technologies and ability to leverage security authorizations on a government-wide scale.&nbsp;</p>
+<p>For more information, please visit <a href="http://www.fedramp.gov/challenge">The FedRAMP Ideation Challenge</a> page.</p>
 
 
 <!-- Rules start -->
