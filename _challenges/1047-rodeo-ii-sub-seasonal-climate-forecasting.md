@@ -14,7 +14,7 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash:
 type-of-challenge:  Analytics, visualizations and algorithms
-submission-start: 
+submission-start: 2019/06/27 09:
 submission-end: 
 submission-link: http://topcoder.com/lp/rodeo2
 prizes: true
@@ -46,6 +46,12 @@ Challenge Manager Email: jbeardsley@usbr.gov
 {: .text-accent-warm-dark .font-heading-lg}
 
 <p>All contest details, including timeline, marathon match, and data sprint details can be found on the <a href="http://topcoder.com/lp/rodeo2">Topcoder Rodeo II website</a>.</p>
+
+<!-- Prizes start -->
+### Prizes 
+{: .text-accent-warm-dark .font-heading-lg}
+
+<p>This series will have more than $800,000 in prize money available over the next year.</p>
 
 <!-- Judging start -->
 ### Judging Criteria
