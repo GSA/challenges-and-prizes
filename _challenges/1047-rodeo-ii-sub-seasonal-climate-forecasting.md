@@ -32,6 +32,13 @@ Challenge Manager Email: jbeardsley@usbr.gov
 <p>The challenge of sub-seasonal forecasting encompasses the lead times of 15 to 45 days into the future, which lay between those of weather forecasting (i.e. up to 15 days, where initial ocean and atmospheric conditions matter most) and seasonal to longer-lead climate forecasting (i.e. beyond 45 days, where slowly varying earth system conditions matter most, such as sea surface temperatures, soil moisture, snow pack).&nbsp;</p>
 <p>The Rodeo II Challenge series will create algorithms to enhance sub-seasonal forecasting, reducing risks to our water systems, and helping water managers efficiently manage hydrological variations.</p>
 <p>This challenge series will first have one traditional marathon match challenge to establish predictive algorithms on historical weather data, and then recurring data science challenges (sprints) over the next <strong>full year</strong> to refine those solutions on live weather data.</p>
+<p><strong>Key Dates</strong></p>
+<p><strong>Pre-Registration:</strong>&nbsp; June 27 to week of July 19, 2019</p>
+<p><strong>Marathon Match:</strong>&nbsp; Week of July 19th to week of August 18th, 2019</p>
+<p><strong>Data Science Sprints:</strong>&nbsp; Fall 2019 start to Fall 2020 with recurring sprints every two weeks over the full year.</p>
+<p><strong>Marathon Match Winners:&nbsp;</strong>Anticipate announcement late to early September 2019</p>
+<p><strong>Data Science Sprint Winners:</strong> Anticipate announcement of winners after each sprint, beginning in late Fall 2019</p>
+<p><strong>Data Science Full Year Winners:</strong> Anticipate announcement of winners at the end of the full year in late 2020 to possibly early 2021.</p>
 
 
 <!-- Rules start -->
