@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/gsa-hackathon-2019/
 challenge-id: 1034
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/GSA-Hackathon-logo.png
 agency-logo: gsa.png
