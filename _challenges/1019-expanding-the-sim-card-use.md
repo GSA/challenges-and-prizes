@@ -31,7 +31,7 @@ challenge manager email: sarah.hughes@nist.gov
 ### Description
 {: .text-accent-warm-dark .font-heading-lg}
 
-<p><img src="{{ site.baseurl }}/assets/images/challenge-content/timeline_SIMCard.jpg" width="829" height="233" /></p>
+<p><img src="{{ site.baseurl }}/assets/images/challenge-content/timeline_SIMCard.jpg"/></p>
 <p><span lang="EN">The National Institute of Standards and Technology (NIST) Public Safety Communications Research (PSCR) Division and its co-sponsors are requesting solvers&rsquo; assistance to explore the possibilities and show that the Universal Integrated Circuit Card (UICC), commonly known as the SIM card, can be used as a secure storage container for public safety application credentials.&nbsp; Solvers are encouraged to participate in the <a href="http://www.publicsafetysimcard.com/">Expanding the SIM Card Use for Public Safety Challenge</a> (the &ldquo;Challenge&rdquo;) for a total prize purse of up to $100,000.</span></p>
 <p><strong><span lang="EN">Challenge Background &amp; Goals:</span></strong></p>
 <p><span lang="EN">Public Safety personnel utilize their mobile devices to access sensitive information during every day job requirements and emergency situations.</span> <span lang="EN">For improved mobile communications, public safety needs a secure mechanism for storing sensitive information; current external secure storage solutions can be bulky and cumbersome to use in emergency situations.</span><span lang="EN">&nbsp;</span><span lang="EN">They can also</span><span lang="EN"> be expensive for public safety organizations to acquire and manage with </span><span lang="EN">their</span><span lang="EN"> limited budgets. </span><span lang="EN">&nbsp;Current best practices recommend standards-based two-factor authentication, which often requires extra hardware, such as a token or a smart card, further inflating costs and increasing time in an emergency.</span></p>
@@ -49,7 +49,7 @@ challenge manager email: sarah.hughes@nist.gov
 <li>Increased versatility by adding the ability to provision credentials to the SIM card remotely; and</li>
 <li>Potential cost savings as public safety units would not need to purchase separate hardware authentication tokens.</li>
 </ul>
-<p style="text-align: center;"><a href="{{ site.baseurl }}/assets/document-library/NISTPSCR_ExpandingtheSIMCardUseforPublicSafety_OfficialRules.pdf" target="_blank" rel="noopener"><span lang="EN">View the complete summary of contest phases and key dates.</span></a></p>
+<p><a href="{{ site.baseurl }}/assets/document-library/NISTPSCR_ExpandingtheSIMCardUseforPublicSafety_OfficialRules.pdf">View the complete summary of contest phases and key dates.</a></p>
 
 
 
@@ -182,12 +182,7 @@ challenge manager email: sarah.hughes@nist.gov
 </tbody>
 </table>
 <p><span lang="EN">&nbsp;</span></p>
-<p><strong><span lang="EN">Concept Paper Evaluation Criteria:</span></strong></p>
-<p><span lang="EN">To learn how papers will be evaluated, view the Judging Criteria tab or&nbsp;<a href="/a/buzz/challenge/1019/ideas/top#challenge-judging-criterias">click here</a>.</span></p>
-<p><strong><span lang="EN">How to Enter:</span></strong></p>
-<p><span lang="EN">For instructions on how to enter Phase 1, view the How to Enter tab or&nbsp;<a href="/a/buzz/challenge/1019/ideas/top#challenge-how-to-enter">click here</a>.</span></p>
-<p align="center"><span lang="EN">&nbsp;</span></p>
-<p align="center"><a href="/community-library/1043/NISTPSCR_ExpandingtheSIMCardUseforPublicSafety_OfficialRules.pdf" target="_blank" rel="noopener"><span lang="EN">View the Official Rules document for all contest phases.</span></a></p>
+<p><a href="{{ site.baseurl }}/assets/document-library/NISTPSCR_ExpandingtheSIMCardUseforPublicSafety_OfficialRules.pdf">View the official rules for all contest phases.</a></p>
 <p align="center"><span lang="EN">For questions about the Official Rules, contact:&nbsp;</span><span lang="EN"><a href="mailto:psprizes@nist.gov">psprizes@nist.gov</a></span></p>
 <!-- end of Rules -->
 
@@ -218,7 +213,7 @@ challenge manager email: sarah.hughes@nist.gov
 <p>10: Contestant has strong potential to aid in the achievement of the goals of the challenge</p>
 <p>1-9: Varying degrees of certainty the contestant may have the potential to aid in the achievement of the goals of the challenge</p>
 <p>0: Contestant does not have the potential to aid in the achievement of the goals of the challenge</p>
-<p style="text-align: center;"><a href="/community-library/1043/NISTPSCR_ExpandingtheSIMCardUseforPublicSafety_OfficialRules.pdf" target="_blank" rel="noopener">View the Official Rules document for judging criteria for all other contest phases.</a></p>
+<p><a href="{{ site.baseurl }}/assets/document-library/NISTPSCR_ExpandingtheSIMCardUseforPublicSafety_OfficialRules.pdf">View the official rules for judging criteria for all other contest phases.</a></p>
 <!-- end-judging -->
 
 <!--  How To Enter -->
