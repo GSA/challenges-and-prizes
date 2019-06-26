@@ -8,7 +8,7 @@ card-image: /assets/images/cards/Sub-Seasonal.png
 agency-logo: usbr.jpg
 challenge-title: Rodeo II - Sub-Seasonal Climate Forecasting
 tagline: Closing the Gap on Sub-Seasonal Climate Forecasting.
-agency: Department of Interior - Bureau of Reclamation
+agency: Department of the Interior - Bureau of Reclamation
 partner-agencies-federal: NOAA - National Integrated Drought Information System
 partners-non-federal: 
 external-url:
