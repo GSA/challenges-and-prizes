@@ -214,6 +214,7 @@ challenge manager email: sarah.hughes@nist.gov
 <p>1-9: Varying degrees of certainty the contestant may have the potential to aid in the achievement of the goals of the challenge</p>
 <p>0: Contestant does not have the potential to aid in the achievement of the goals of the challenge</p>
 <p><a href="{{ site.baseurl }}/assets/document-library/NISTPSCR_ExpandingtheSIMCardUseforPublicSafety_OfficialRules.pdf">View the official rules for judging criteria for all other contest phases.</a></p>
+</div>
 <!-- end-judging -->
 
 <!--  How To Enter -->
