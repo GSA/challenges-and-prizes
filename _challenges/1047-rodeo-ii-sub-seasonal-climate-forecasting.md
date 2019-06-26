@@ -14,7 +14,7 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash:
 type-of-challenge:  Analytics, visualizations and algorithms
-submission-start: 2019/06/27 09:00 AM
+submission-start: 2019/06/27 12:00 AM
 submission-end: 2019/08/18 12:00 AM
 submission-link: http://topcoder.com/lp/rodeo2
 prizes: true
