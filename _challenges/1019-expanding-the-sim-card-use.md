@@ -16,7 +16,7 @@ external-url:
 total-prize-offered-cash: $425,000
 type-of-challenge: Software and apps
 submission-start: 2019/04/03 12:00 AM
-submission-end: 2019/05/22 11:59 PM
+submission-end: 2019/10/19
 submission-link: 
 prizes: true
 legal authority: America COMPETES
