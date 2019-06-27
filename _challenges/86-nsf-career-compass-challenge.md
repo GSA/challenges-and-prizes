@@ -42,8 +42,8 @@ prizes: true
 </ul>
 <p><strong>June 19, 2019 Part 2 Webinar&nbsp;&ndash; 1:00 PM ET&nbsp;</strong></p>
 <ul>
-<li>Webinar link: <a href="https://nsf2.webex.com/nsf2/onstage/g.php?MTID=e7fe69f00581926cb1f0d4bc926d243b0">https://nsf2.webex.com/nsf2/onstage/g.php?MTID=e7fe69f00581926cb1f0d4bc926d243b0</a></li>
-</ul>
+<li><a href="https://players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6050932532001">Webinar video</a></li>
+  <li><a href="{{ site.baseurl }}/assets/document-library/CCC_Part_2_June_Webinar_FINAL_06.19.19.pdf" target="_blank" rel="noopener">Slide presentation</a></li>
 <p><strong>STAY INFORMED ON THE NSF CAREER COMPASS CHALLENGE</strong></p>
 <p>Join the&nbsp;<em>new</em>&nbsp;NSF Career Compass Challenge listserv to receive the latest on Part 2 of the competition. To join, send an email to&nbsp;<a href="mailto:careercompass-subscribe-request@listserv.nsf.gov" target="_blank" rel="noopener">careercompass-subscribe-request@listserv.nsf.gov</a>, and you will be added automatically.</p>
 <p><strong>PART 2 COMPETITION OVERVIEW</strong></p>
