@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/expanding-the-sim-card-use-for-public-safety-challenge/
 challenge-id: 1019
-status: closed
+status: open
 sidenav: true
 banner-image: 
 card-image: /assets/images/cards/ChallengeMainLogo.jpg
