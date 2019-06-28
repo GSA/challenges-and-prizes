@@ -13,12 +13,12 @@ partner-agencies-federal: Department of Energy, Oak Ridge National Lab, Cybersec
 partners-non-federal: 
 external-url:
 total-prize-offered-cash: $150,000
-type-of-challenge:  Scientific
+type-of-challenge:  Technology demonstration and hardware
 submission-start: 2019/07/08 11:00 AM
 submission-end: 2019/09/30 08:00 PM
 submission-link: 
 prizes: true
-Legal Authority: Procurement Authority
+Legal Authority: Direct Prize Authority - DOD
 Fiscal Year: FY19, FY20
 Challenge Manager: Jessica Briesacker
 Challenge Manager Email: jessica.briesacker1@navy.mil
