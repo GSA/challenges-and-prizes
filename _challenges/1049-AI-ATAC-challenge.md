@@ -8,7 +8,7 @@ card-image: /assets/images/cards/AITAC.png
 agency-logo: dod_seal.jpg
 challenge-title: Artificial Intelligence Applications to Autonomous Cybersecurity (AI ATAC) Challenge
 tagline: Advanced malware prediction and prevention utilizing state-of-the art Artificial Intelligence (AI) at the endpoint.
-agency: Department of Defense
+agency: Department of Defense - Naval Information Warfare Systems Command
 partner-agencies-federal: Department of Energy, Oak Ridge National Lab, Cybersecurity Research Group
 partners-non-federal: 
 external-url:
