@@ -90,14 +90,85 @@ Challenge Manager Email: jessica.briesacker1@navy.mil
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg}
 
-<p><strong>Performance. </strong>The degree to which the integrated design (including sensor, platform, and data analysis) indicates an ability to achieve or exceed the necessary data requirements for production of the WMM (see target performance metrics in <a href="https://www.magquest.com/additional-resources/">Additional Resources</a>).</p>
-<p><strong>Technical Feasibility. </strong>The extent to which the design uses technically sound methods, the solver identifies potential risks, and proposes credible mitigation strategies.</p>
-<p><strong>Operational Feasibility and Cost Fidelity. </strong>The degree to which the design accounts for real-world implementation and operation in the near term (e.g., 5 years), as well as the ability to continuously and reliably collect data for several WMM iterations (e.g., 30 years).</p>
-<p><strong>Innovation. </strong>The degree to which the design creates potential efficiencies in time, money, or other resources.</p>
-<p><strong>Team. </strong>The extent to which the solver or team demonstrates sufficient expertise that may be needed to advance their integrated design to a Technology Readiness Level (TRL) of at least 5, and preferably 6, within a potential timeframe of two years (e.g., by September 2021). (see Technology Readiness Assessment in <a href="https://www.magquest.com/additional-resources/">Additional Resources</a> for more information on TRLs)</p>
+<p><strong>Scope: </strong></p>
+<p>The Challenge evaluation will focus on AI/ML technologies that detect malware on an endpoint. The following describes the scope of the candidate technologies:</p>
+<ul>
+<li>This evaluation is focused on detecting malware at the endpoint. Network-based tools (such as network intrusion detection systems) or network-based systems that reconstruct and analyze files from network traffic are not eligible.</li>
+<li>Malware detection tools will classify malware on the host:
+<ul>
+<li>within the filesystem statically or dynamically, including addition, alteration or replacement of authorized operating system, application, or user files; or</li>
+<li>with fileless techniques (e.g. identifying fileless malware that sits in memory as executable instructions); or</li>
+<li>based on other host activities (e.g., logs indicating encrypted command and control communications).</li>
+</ul>
+</li>
+<li>Technologies are expected to have an artificial intelligence and/or machine learning component (e.g., static or dynamic analysis and classifier), with the option to include other complementary approaches, such as signature-based detection.</li>
+<li>Technologies must operate on-premises, whether solely at the endpoint or in coordination with a local network-level appliance or VM that emulates a cloud analytic capability.</li>
+<li>To measure how AI/ML improves malware detection, the test data will use public and private benign and malicious samples.</li>
+</ul>
+<p><strong>Test Evaluation Process: </strong></p>
+<p>The evaluation team will review the white papers in order to better understand the tool.&nbsp; The actual test evaluation process of the tool will involve the delivery of multiple file test samples to virtual machines (VMs) running the Participant&rsquo;s malware detection technology. For each test sample (benign or malicious file), the following procedures will be performed on the tool:</p>
+<ul>
+<li>A VM will be instantiated with the Participant&rsquo;s malware detection technology installed and running.</li>
+<li>The following information will be recorded for evaluation during a set time interval in which the sample, a file or fileless malware/benign-ware, is present on the VM:
+<ul>
+<li>The classification decision for the sample, under the following constraints:
+<ul>
+<li>The label must identify whether benign or malicious and be time stamped. In the event there is no label given in the time interval or the tool does not produce a log or result for the sample, the classification will be interpreted as a benign label with maximum timestamp for that time interval.</li>
+<li>At most one label shall be given per sample. Other peripheral information beyond the required classification decision (e.g. taxonomy, confidence score, etc.) may also be provided, but will not be used in scoring of the Participant technology.</li>
+<li>The output classification and any peripheral information must be programmatically accessible by the evaluation team. Documentation of the classification logging approach and format must be provided by the Participant. For example, time-tagged logging content may be:
+<ul>
+<li>Sent to a logging server/SIEM, such as Splunk.</li>
+<li>Logged to syslog, a local file, or windows event logs.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Resource usage by only the Participant technology for the duration of the test sample&rsquo;s VM as follows:</li>
+<li>CPU usage per second</li>
+<li>Volatile memory usage per second</li>
+<li>Disk I/O per second</li>
+<li>Network I/O per second</li>
+</ul>
+<p><strong>Note:</strong> If the Participant&rsquo;s technology uses an on-premises appliance for dynamic or static analysis, or AI/ML analysis, either via a hardware appliance or a virtual machine, resource usage of the management console will be recorded as well as for the VM containing the test sample. If the on-premises appliance only manages endpoint agents, the usage will <strong>not</strong> be recorded.</p>
+<p><strong>Scoring:</strong></p>
+<p>Each candidate technology will be scored based on the aggregate performance of their technology when tested against benign and malicious file samples. The score will be in terms of a cost estimate, and will sum the following:</p>
+<ul>
+<li><strong>Simulated attack cost:</strong> A cost function will be used to compute estimated attack costs of each malicious file based on the file&rsquo;s negative effects. The functions will be increasing in time, so that early detection will incur less costs than later detection. Note that in the case of a true positive (correct classification of the malicious sample) only the attack cost up to the detection time is accrued. In the case of a false negative (no alert on a malicious sample) the attack cost for the whole test period will be incurred. For false positive (alerting upon a benign sample) and true negative (correctly not alerting upon a benign sample) scenarios, there is no attack and thus no attack costs will be accrued.</li>
+<li><strong>Simulated security operator cost:</strong> Costs for handling alerts will be computed. This includes only the costs for handling true positive and false positive scenarios, respectively. These will be estimated from actual manpower costs incurred by security operation centers to triage, investigate, and document host alerts. In the case of the true negative or false negative scenario, there are no alerts and hence no operator costs are accrued.</li>
+<li><strong>Simulated host resource cost: </strong>Costs for the use of host resources will be accrued throughout the duration of the event. The resources monitored on each host are as follows:
+<ul>
+<li>CPU usage per second</li>
+<li>Volatile memory usage per second</li>
+<li>Disk I/O per second</li>
+<li>Network I/O per second</li>
+</ul>
+</li>
+</ul>
+<p>The simulated costs of each resource itemized above will be estimated from current rates. These simulated resource costs are accrued regardless of correct (true positive, true negative) or incorrect (false positive, false negative) classification. Note that in the case of a true negative (correctly not alerting on a benign sample), only host resource costs (no attack cost and no operator costs) will be accrued.</p>
+<p><strong>THE WINNERS OF THE CHALLENGE WILL BE THE PARTICIPANTS WITH THE LOWEST COMPUTED TOTAL COST IN ACCORDANCE WITH THE SCORING ABOVE. </strong></p>
+<p><strong>Environment: </strong></p>
+<p>The evaluation environment will be VMs. Submitted technologies do not have to be compatible with all tested platforms, but must be compatible with at least one. The two evaluation platforms include the following:</p>
+<ul>
+<li>Windows 10 Enterprise 64-bit</li>
+<li>CentOS 7 64-bit</li>
+</ul>
+<p>The operating systems will have the following additional user software installed as a baseline:</p>
+<ul>
+<li>Windows: Microsoft Office, Java, Adobe PDF Reader</li>
+<li>CentOS: OpenOffice, Java, Adobe PDF Reader</li>
+</ul>
+<p>The host-based endpoint agents must be able to be installed on the Windows VM through either a GUI, console, or powershell using standard Windows installation procedures. On CentOS, an RPM-compatible or RHEL-distribution compatible installer must be provided. Documentation describing the installation procedures should also be provided when submitting the tool, in accordance with the tool submission guidelines provided above.</p>
+<p>If the technology requires an on-premises management appliance or console, then software and/or hardware components for the management appliance should be provided upon submission of the white paper <strong>no later than 30 September 2019 at 1700 EDT.</strong> The components to run the management console must include documentation necessary for installation and a three-month evaluation license if needed. The software and/or hardware components for the on-premises console must be one of the following:</p>
+<ul>
+<li>Exported Virtual Machine Image (e.g. .ova, .qcow2, etc.) that can be ran with a libvirt-compatible hypervisor (e.g. QEMU, XenServer, VMWare, Virtualbox, Emulab, etc.)</li>
+<li>Software packages needed to install the appliance, rather than providing the entire virtual machine image.</li>
+<li>If not an OVA or similar image, a <em>standalone </em>hardware appliance that <em>will not be </em>connected to external cloud services.</li>
+</ul>
 
 <!--  How To Enter start -->
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg}
 
-<p>Receive timely updates on MagQuest by&nbsp;<a href="https://magquest.us2.list-manage.com/subscribe?u=441bc2dfe9a009f0cf6c7d02b&amp;id=13b0ece820">signing up for the newsletter</a>.<strong><br /> <br /> </strong>To register and participate in this competition, visit the official MagQuest website at <a href="http://www.magquest.com">www.MagQuest.com</a><u>.</u></p>
+<p>See the Rules section for submission guidelines.</p>
