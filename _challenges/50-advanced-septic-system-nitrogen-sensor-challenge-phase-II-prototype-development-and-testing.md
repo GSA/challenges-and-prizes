@@ -70,6 +70,7 @@ challenge-manager-email: theroux.maggie@epa.gov
 
 <div class="rules">
         <p><strong>Any technology/sensor developer is eligible to apply for the one-week prototype screening test. The application is due on July 26, 2019.</strong></p>
+        </div>
 
 <!-- Judging start -->
 ### Judging Criteria
