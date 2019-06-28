@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenge/Artificial-intelligence-applications-to-autonomous-cybersecurity-challenge/
+permalink: /challenge/artificial-intelligence-applications-to-autonomous-cybersecurity-challenge/
 challenge-id: 1045
 status: open
 sidenav: true
