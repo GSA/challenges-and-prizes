@@ -15,13 +15,13 @@ external-url:
 total-prize-offered-cash: $150,000
 type-of-challenge:  Software and apps, Technology demonstration and hardware, Analytics, visualizations, and algorithms
 submission-start: 2019/06/28 02:30 PM
-submission-end: 2019/09/30 08:00 PM
+submission-end: 2019/09/30 05:00 PM
 submission-link: 
 prizes: true
 Legal Authority: Direct Prize Authority - DOD
 Fiscal Year: FY19, FY20
-Challenge Manager: Jessica Briesacker
-Challenge Manager Email: jessica.briesacker1@navy.mil
+Challenge Manager: Michael Karlbom
+Challenge Manager Email: michael.j.karlbom1@navy.mil
 ---
 
 <!-- Description start -->
