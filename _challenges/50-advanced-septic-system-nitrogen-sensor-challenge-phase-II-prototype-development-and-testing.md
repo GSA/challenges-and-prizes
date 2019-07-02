@@ -4,7 +4,7 @@ permalink: /challenge/advanced-septic-system-nitrogen-sensor-challenge-phase-II-
 challenge-id: 50
 status: open
 sidenav: true
-card-image: /assets/images/cards/Advanced-Septic-Sensor-PhII-Table-July2019.png
+card-image: /assets/images/cards/advancedspeticsystemlogo_test.jpg
 agency-logo: 256px-Environmental_Protection_Agency_logo.png
 challenge-title: Advanced Septic System Nitrogen Sensor Challenge Phase II Prototype Development and Testing
 tagline: Engineer groundbreaking sensor technology for advanced septic systems
@@ -50,7 +50,7 @@ challenge-manager-email: theroux.maggie@epa.gov
         <li>Late February 2021 – ISO ETV 14034 verification reports and statements completed</li>
         </ul>
 <h3>Sensor Performance Goals</h3>
-<p><span class="figure image file file-image file-image-png view-mode-full"><img class="media-element file-full" src="https://www.epa.gov/sites/production/files/styles/large/public/2018-02/maggie_table_sensor_requirements.png" alt="" width="635" height="778" /></span></p>
+<p><img src="{{ site.baseurl }}/assets/images/challenge-content/Advanced-Septic-Sensor-PhII-Table-July2019.png" alt="Sensor Goals Table" width="635" height="778" /></span></p>
 <h3>Prize: Verification Report and 2019 Market Stimulation Opportunity</h3>
 <p>Following the release of the verification reports in early 2019, an external technical panel and The Nature Conservancy (TNC) will review the results. TNC and others are seeking funding for an order of 200 units, not to exceed a total cost of $300,000. The order would be presented in the summer of 2019 to the best performing sensor/s that completes the 6-month field performance test and meets or exceeds the performance goals.</p>
 </div>
