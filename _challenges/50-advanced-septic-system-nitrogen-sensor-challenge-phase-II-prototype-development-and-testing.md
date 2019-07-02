@@ -50,7 +50,7 @@ challenge-manager-email: theroux.maggie@epa.gov
         <li>Late February 2021 – ISO ETV 14034 verification reports and statements completed</li>
         </ul>
 <h3>Sensor Performance Goals</h3>
-<p><img src="{{ site.baseurl }}/assets/images/challenge-content/Advanced-Septic-Sensor-PhII-Table-July2019.png" alt="Sensor Goals Table" width="635" height="778" /></span></p>
+<p><img src="{{ site.baseurl }}/assets/images/challenge-content/Advanced-Septic-Sensor-PhII-Table-July2019.png" alt="Sensor Goals Table" width="635" height="778" /></p>
 <h3>Prize: Verification Report and 2019 Market Stimulation Opportunity</h3>
 <p>Following the release of the verification reports in early 2019, an external technical panel and The Nature Conservancy (TNC) will review the results. TNC and others are seeking funding for an order of 200 units, not to exceed a total cost of $300,000. The order would be presented in the summer of 2019 to the best performing sensor/s that completes the 6-month field performance test and meets or exceeds the performance goals.</p>
 </div>
