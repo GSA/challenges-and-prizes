@@ -16,7 +16,7 @@ Contact the Challenge.gov team at [team@challenge.gov](mailto:team@challenge.gov
 
 You can also keep up with the community and Challenge.gov on social media:
 
-Twitter: <a href="http://www.twitter.com/challengegov" target="_blank" rel="noopener">http://www.twitter.com/challengegov</a>
+Twitter: <a href="http://www.twitter.com/challengegov" target="_blank" rel="noopener">http://www.twitter.com/challengegov</a><br />
 Facebook: <a href="http://www.facebook.com/challengegov" target="_blank" rel="noopener">http://www.facebook.com/challengegov</a>
 </div>
 </div>
