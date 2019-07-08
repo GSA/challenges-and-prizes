@@ -10,7 +10,6 @@ title: Contact
 
 # Contact Us
 
-
 The Challenge.gov platform is available at no cost to all federal agencies to help them list their challenge and prize competitions and learn how to engage the public through this innovative approach.
 
 Contact the Challenge.gov team at [team@challenge.gov](mailto:team@challenge.gov) to learn how to get started. 
