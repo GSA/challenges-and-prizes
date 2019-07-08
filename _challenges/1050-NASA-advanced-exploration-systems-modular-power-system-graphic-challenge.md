@@ -4,7 +4,7 @@ permalink: /challenge/nasa-advanced-exploration-systems-modular-power-system-gra
 challenge-id: 1050
 status: open
 sidenav: true
-card-image: /assets/images/cards/MagQuest_Phase 2.jpg
+card-image: /assets/images/cards/challenge-gov.png
 agency-logo: 717px-NASA_logo
 challenge-title: NASA Advanced Exploration Systems Modular Power System Graphic Challenge
 tagline: Help design a graphic to represent NASA’s power distribution system – the Advanced Exploration Systems Modular Power System.
