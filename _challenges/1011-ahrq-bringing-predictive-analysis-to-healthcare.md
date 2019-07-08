@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/ahrq-bringing-predictive-analysis-to-healthcare/
 challenge-id: 1011
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/ahrq-logo.png
 agency-logo: ahrq-logo.png
