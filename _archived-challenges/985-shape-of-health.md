@@ -155,4 +155,18 @@ challenge-manager-email: Ann.Abercrombie@hhs.gov
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg}
 
-<p>The submission period for Phase 1 of this challenge has closed. Please see the Description section for details on Phases 2 and 3.</p>
+<p>The submission period for Phase 1 of this challenge has closed.</p>
+<p>The winners of Phase 1 are:</p>
+<ul>
+<li>&ldquo;FitHer&rdquo; submitted by Camilo Ruiz</li>
+<li>&ldquo;HealthyMe123&rdquo; submitted by Gertie Loretta Hurley</li>
+<li>&ldquo;HERworld - Healthy Empowerment and Reimagination of the World&rdquo; submitted by Calandra Whitted</li>
+<li>&ldquo;Monster Appetite - a subversive game for obesity prevention&rdquo; submitted by Maria Hwang</li>
+<li>&ldquo;Florine: Teaching Healthy Diet Strategies for Women&rdquo; submitted by Jasmine Soria Sears</li>
+<li>&ldquo;Rhythmic Strategy: Nutritional Balance with a Beat&rdquo; submitted by&nbsp;Kara Kaminski-Killiany</li>
+<li>&ldquo;RasnicS, Mobile-Based Game for Women&rdquo; submitted by Samantha Rasnic</li>
+<li>&ldquo;Shape of Health - Concept Proposal&rdquo; submitted by&nbsp;Tarathorn Boonngamanong</li>
+<li>&ldquo;Frolic: Increasing active play among girls&rdquo; submitted by Melissa Kalarchian</li>
+<li>&ldquo;Shape Up: Support Obesity Prevention Among Teen Girls&rdquo; submitted by Olufunmilola Abraham</li>
+</ul>
+<p>Please see the Description section for details on Phases 2 and 3.</p>
