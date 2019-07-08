@@ -14,9 +14,10 @@ The Challenge.gov platform is available at no cost to all federal agencies to he
 
 Contact the Challenge.gov team at [team@challenge.gov](mailto:team@challenge.gov) to learn how to get started. 
 
-You can also keep up with the community and Challenge.gov on social media:<br />
+You can also keep up with the community and Challenge.gov on social media:
 
-Twitter: <a href="http://www.twitter.com/challengegov" target="_blank" rel="noopener">http://www.twitter.com/challengegov</a><br />
+Twitter: <a href="http://www.twitter.com/challengegov" target="_blank" rel="noopener">http://www.twitter.com/challengegov</a>
+
 Facebook: <a href="http://www.facebook.com/challengegov" target="_blank" rel="noopener">http://www.facebook.com/challengegov</a>
 </div>
 </div>
