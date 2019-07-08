@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/match-pilot-competition/
 challenge-id: 1036
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/sba-logo_NEW.jpg
 agency-logo: SBA_logo.jpg
