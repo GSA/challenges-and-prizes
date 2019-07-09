@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/iCARE-AD-ADRD/
 challenge-id: 36
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/iCare.jpg
 agency-logo: NIH-Generic.png
