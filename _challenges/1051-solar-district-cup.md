@@ -49,7 +49,7 @@ Learn more at www.energy.gov/solardistrictcup and register to compete: <a href="
 {: .text-accent-warm-dark .font-heading-lg}
 
 <div class="rules">
-<p>Solar District Cup rules are available at <a href="http://www.energy.gov/solardistrictcup" target="_blank" rel="noopener">www.energy.gov/solardistrictcup</a> starting July 31, 2019. Teams must agree to the terms and conditions listed at <a href="http://www.herox.com/solardistrictcup" target="_blank" rel="noopener">http://www.herox.com/solardistrictcup</a> upon registration.</p> 
+<p>Solar District Cup rules are available at <a href="http://www.energy.gov/solardistrictcup" target="_blank" rel="noopener">www.energy.gov/solardistrictcup</a> starting July 31, 2019. Teams must agree to the terms and conditions listed at <a href="http://www.herox.com/solardistrictcup" target="_blank" rel="noopener">www.herox.com/solardistrictcup</a> upon registration.</p> 
 </div>
 
 <!-- Judging start -->
@@ -59,6 +59,7 @@ Learn more at www.energy.gov/solardistrictcup and register to compete: <a href="
 <div class="judging">
 <p>A qualified panel of judges, comprising subject-matter experts and partner district representatives, will be selected by the competition organizers.</p>
 <p>Judging criteria are provided in the Solar District Cup rules.</p>
+</div>
 
 <!--  How To Enter start -->
 ### How To Enter
