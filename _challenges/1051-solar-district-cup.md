@@ -11,7 +11,7 @@ tagline: Challenging students to design reliable, resilient, cost-effective solu
 agency: Department of Energy
 partner-agencies-federal: 
 partners-non-federal: National Renewable Energy Laboratory
-external-url: http://www.herox.com/solardistrictcup 
+external-url: 
 total-prize-offered-cash: $0
 type-of-challenge: Ideas
 submission-start: 2019/04/01 10 a.m. ET
