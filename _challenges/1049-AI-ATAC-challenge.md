@@ -61,7 +61,7 @@ Challenge Manager Email: michael.j.karlbom1@navy.mil
 <div>Attn: AI ATAC Evaluation Team</div>
 <div>1 Bethel Valley Road Building 6012, Room 209</div>
 <div>Oak Ridge, TN 37830</div>
-<p>All questions regarding the Challenge should be sent via email to <a href="mailto:AIATAC.PRIZE.CHALLENGE@NAVY.MIL">AIATAC.PRIZE.CHALLENGE@NAVY.MIL</a></p>
+<p>All questions regarding the Challenge should be sent via email to&nbsp;<a href="mailto:AIATAC.PRIZE.CHALLENGE@NAVY.MIL" target="_blank" rel="noopener">AIATAC.PRIZE.CHALLENGE@<wbr />NAVY.MIL</a>&nbsp;no later than 30 August 2019, 1700 EDT. Questions submitted after this deadline may not be addressed.</p>
 <p><strong>Terms and Conditions:</strong></p>
 <p><strong>These terms and conditions apply to all participants in the Challenge.</strong></p>
 <p><span style="text-decoration: underline;"><strong>Agreement to Terms</strong></span></p>
