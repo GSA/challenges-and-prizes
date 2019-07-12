@@ -7,7 +7,7 @@ sidenav: true
 card-image: /assets/images/cards/NASA_challenge_logo.png
 agency-logo: 717px-NASA_logo.png
 challenge-title: Develop a Template & Production Process Instructions for an HTML-Based Newsletter
-tagline: This contest is to develop an HTML template and easy-to-use workflow to customize and send to a NASA Program's Newsletter.
+tagline: This contest is to develop an HTML template and easy-to-use workflow to customize and send a NASA Program's Newsletter.
 agency: National Aeronautics and Space Administration
 partner-agencies-federal: 
 partners-non-federal: 
