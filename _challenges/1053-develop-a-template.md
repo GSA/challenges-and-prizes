@@ -12,7 +12,7 @@ agency: National Aeronautics and Space Administration
 partner-agencies-federal: 
 partners-non-federal: 
 external-url: https://www.freelancer.com/contest/NASA-Contest-Develop-a-Template-Production-Process-Instructions-for-an-HTMLBased-Newsletter-1533859
-total-prize-offered-cash:
+total-prize-offered-cash: $500
 type-of-challenge:  Creative
 submission-start: 2019/07/10 08:00 AM
 submission-end: 2019/07/26 08:00 PM
