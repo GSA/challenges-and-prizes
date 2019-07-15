@@ -3,7 +3,7 @@ layout: front-matter-data
 permalink: /challenge/cinespace-film-competition/
 challenge-id: 1006
 status: open
-sidenav: true
+sidenav: false
 card-image: /assets/images/cards/Cinespace-2019.png
 agency-logo: 717px-NASA_logo.png
 challenge-title: Cinespace Film Competition
@@ -22,26 +22,3 @@ prizes: true
 
 
 
-<!-- Description start -->
-### Description
-{: .text-accent-warm-dark .font-heading-lg}
-
-
-<!-- Prizes start -->
-### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
-
-
-<!-- Rules start -->
-### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
-
-
-<!-- Judging start -->
-### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
-
-
-<!--  How To Enter start -->
-### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
