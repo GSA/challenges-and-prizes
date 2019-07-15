@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/cinespace-film-competition/
 challenge-id: 1006
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/Cinespace-2019.png
 agency-logo: 717px-NASA_logo.png
