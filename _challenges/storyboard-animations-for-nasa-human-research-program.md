@@ -1,4 +1,4 @@
-+---
+---
 layout: front-matter-data
 permalink: /challenges/storyboard-animations-for-nasa-human-research-program/
 challenge-id: 1054
@@ -12,7 +12,7 @@ agency: NASA
 partner-agencies-federal: 
 partners-non-federal: 
 external-url: https://www.freelancer.com/contest/NASA-Contest-Storyboard-for-Six-Animations-for-NASA-Human-Research-Program-HRP-EDT-1535340
-total-prize-offered-cash:
+total-prize-offered-cash: $500
 type-of-challenge: Creative
 submission-start: 2019/7/15 8:00 a.m. ET
 submission-end: 2019/08/09 8:00 a.m. ET
