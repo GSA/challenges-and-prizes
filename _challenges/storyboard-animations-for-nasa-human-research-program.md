@@ -8,7 +8,7 @@ card-image: /assets/images/cards/NASA_challenge_logo.png
 agency-logo: 717px-NASA_logo
 challenge-title: Storyboard Animations for NASA Human Research Program
 tagline: Create a storyboard for five short animations that describe the space effects on the human body and mind.
-agency: NASA
+agency: National Aeronautics and Space Administration
 partner-agencies-federal: 
 partners-non-federal: 
 external-url: https://www.freelancer.com/contest/NASA-Contest-Storyboard-for-Six-Animations-for-NASA-Human-Research-Program-HRP-EDT-1535340
