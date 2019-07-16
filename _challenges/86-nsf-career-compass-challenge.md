@@ -28,8 +28,10 @@ prizes: true
 
 <div class="description">
 <p><img src="{{ site.baseurl }}/assets/images/challenge-content/timeline.jpg" width="829" height="233" /></p>
-<p><strong>ATTEND A NSF CAREER COMPASS CHALLENGE WEBINAR</strong></p>
-<p>Send your questions to&nbsp;<a href="mailto:CareerCompassChallenge@nsf.gov" target="_blank" rel="noopener">CareerCompassChallenge@nsf.gov</a>&nbsp;before each webinar. The NSF Career Compass Challenge team will answer them live!&nbsp;</p>
+<p>IMPORTANT UPDATE</p>
+<ul>
+<li>The winning submission announcement will be on Friday, August 30.</li>
+</ul>
 <p><strong>April 26, 2019 Part 2 Introductory Webinar Resources</strong></p>
 <ul>
 <li><a href="https://players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6039401792001">Webinar video</a></li>
