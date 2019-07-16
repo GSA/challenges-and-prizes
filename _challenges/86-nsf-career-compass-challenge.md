@@ -27,6 +27,7 @@ prizes: true
 {: .text-accent-warm-dark .font-heading-lg}
 
 <div class="description">
+<p><img src="{{ site.baseurl }}/assets/images/challenge-content/timeline.jpg" width="829" height="233" /></p>
 <p><strong>ATTEND A NSF CAREER COMPASS CHALLENGE WEBINAR</strong></p>
 <p>Send your questions to&nbsp;<a href="mailto:CareerCompassChallenge@nsf.gov" target="_blank" rel="noopener">CareerCompassChallenge@nsf.gov</a>&nbsp;before each webinar. The NSF Career Compass Challenge team will answer them live!&nbsp;</p>
 <p><strong>April 26, 2019 Part 2 Introductory Webinar Resources</strong></p>
