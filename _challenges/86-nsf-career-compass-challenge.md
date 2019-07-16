@@ -38,23 +38,23 @@ prizes: true
   <li><a href="{{ site.baseurl }}/assets/document-library/Career-Compass-Challenge-Part-2-Kickoff-Webinar_04.26.2019.pdf" target="_blank" rel="noopener">Slide presentation</a></li>
   <li><a href="{{ site.baseurl }}/assets/document-library/Webinar-1-Poll-Results.pdf" target="_blank" rel="noopener">Live poll results</a></li>
 </ul>
-<p><strong>May 23, 2019 Part 2 Webinar &ndash; 1:00 PM ET&nbsp;</strong></p>
+<p><strong>May 23, 2019 Part 2 Webinar</strong></p>
 <ul>
   <li><a href="https://players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6045364182001" target="_blank" rel="noopener">Webinar Video</a></li>
 <li><a href="{{ site.baseurl }}/assets/document-library/CCC-Part-2-May-Webinar.pdf" target="_blank" rel="noopener">Slide Presentation</a></li>
 </ul>
-<p><strong>June 19, 2019 Part 2 Webinar&nbsp;&ndash; 1:00 PM ET&nbsp;</strong></p>
+<p><strong>June 19, 2019 Part 2 Webinar</strong></p>
 <ul>
 <li><a href="https://players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6050932532001">Webinar video</a></li>
   <li><a href="{{ site.baseurl }}/assets/document-library/CCC_Part_2_June_Webinar_FINAL_06.19.19.pdf" target="_blank" rel="noopener">Slide presentation</a></li>
 </ul>  
 <p><strong>STAY INFORMED ON THE NSF CAREER COMPASS CHALLENGE</strong></p>
-<p>Join the&nbsp;<em>new</em>&nbsp;NSF Career Compass Challenge listserv to receive the latest on Part 2 of the competition. To join, send an email to&nbsp;<a href="mailto:careercompass-subscribe-request@listserv.nsf.gov" target="_blank" rel="noopener">careercompass-subscribe-request@listserv.nsf.gov</a>, and you will be added automatically.</p>
+<p>Join the NSF Career Compass Challenge listserv to receive the latest on Part 2 of the competition. To join, send an email to&nbsp;<a href="mailto:careercompass-subscribe-request@listserv.nsf.gov" target="_blank" rel="noopener">careercompass-subscribe-request@listserv.nsf.gov</a>, and you will be added automatically.</p>
 <p><strong>PART 2 COMPETITION OVERVIEW</strong></p>
 <p>In Part 2, solvers are encouraged to leverage and build upon winning concepts awarded in Part 1 to develop a working prototype for Government testing and evaluation.&nbsp; Solvers are encouraged to participate in Part 2 of the challenge, either as individuals or as teams.&nbsp; If you wish to participate in Part 2 and need help finding partnership opportunities, consider connecting with other interested solvers using #NSFCareerCompass.</p>
-<p>In Part 1 of this challenge, solvers were asked to submit a concept white paper describing a solution to the challenge of continuous workforce reskilling and the desire for increased mobility within and between NSF and other Federal agencies (and perhaps even the private sector).&nbsp; Read the winning submissions on the PRIZES tab.</p>
+<p>In Part 1 of this challenge, solvers were asked to submit a concept white paper describing a solution to the challenge of continuous workforce reskilling and the desire for increased mobility within and between NSF and other Federal agencies (and perhaps even the private sector).&nbsp; Read the winning submissions in the PRIZES section.</p>
 <p>While five submissions were chosen as prize winners in Part 1, only one successful prototype will be selected to win the Part 2 prize purse of $75,000.</p>
-<p>Click <a href="{{ site.baseurl }}/assets/document-library/FAQs_Updated 7-11-19.pdf">here</a> for Part 2 Frequently Asked Questions.</p>
+<p>Click <a href="{{ site.baseurl }}/assets/document-library/FAQs_Updated 7-11-19.pdf">here</a> for updated Part 2 Frequently Asked Questions.</p>
 <p style="text-decoration: underline;"><strong>ABOUT THE COMPETITION</strong></p>
 <p><em><strong>NSF has a hypothesis.</strong></em></p>
 <p>Technology is changing the way we do our work, and the work itself. To keep up, the National Science Foundation (NSF)&nbsp;plans to invest in its most critical resource &ndash; the workforce. And it's not just NSF. The need for an adaptable and ready workforce extends to other Federal agencies and beyond. No industry will be immune to the way advances in technology change the nature of work. As a pressing example, we are facing critical gaps in matching people with data science and cybersecurity skills with the right mission needs. NSF believes that, along with other agencies and organizations, the best way to maintain a workforce ready to carry out its mission is to encourage a culture of continuous learning, and to empower each person to refresh and modernize their skills toward future work. We want to spark the thinking of the best and brightest to co-create a solution that can enable individual skill-matching and tailored training for the Workforce for the 21st Century.</p>
