@@ -54,7 +54,10 @@ challenge-manager-email: info@mgmwerx.org
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg}
 
-
+<p>During this phase, USAF experts will review solution proposals. The top solutions meeting the needs and requirements of the selection team will be invited to participate in a design and prototype phase beginning in early 2019.</p>
+<div>Selection Phase Start: 01/05/2019</div>
+<div>Selection Phase End: 01/11/2019</div>
+<p>Additional Judging Criteria can be found at the <a href="https://afwerx.spigit.com/spaceviz/Page/ChallengeOverview">Challenge website</a>.</p>
 
 <!--  How To Enter start -->
 ### How To Enter
