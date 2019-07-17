@@ -34,7 +34,13 @@ challenge-manager-email: info@mgmwerx.org
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg}
 
-
+<ul>
+<li>A chance to secure funding for prototype and experimentation</li>
+<li>A chance to secure a government contract</li>
+<li>A chance to promote your work with the USAF as a collaborator and/or customer</li>
+<li>Official recognition for your company or idea</li>
+<li>You will be helping the USAF and improving the operational effectiveness of the people that keep us safe</li>
+</ul>
 
 <!-- Rules start -->
 ### Rules 
