@@ -3,7 +3,7 @@ layout: front-matter-data
 permalink: /challenge/lithium-ion-battery-recycling-prize/
 challenge-id: 1014
 status: open
-sidenav: true
+sidenav: false
 card-image: /assets/images/cards/AmericanMadeSolarSkinny.jpg
 agency-logo: challengeGov placeholder image path
 challenge-title: Lithium-Ion Battery Recycling Prize
@@ -22,26 +22,3 @@ prizes: true
 
 
 
-<!-- Description start -->
-### Description
-{: .text-accent-warm-dark .font-heading-lg}
-
-
-<!-- Prizes start -->
-### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
-
-
-<!-- Rules start -->
-### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
-
-
-<!-- Judging start -->
-### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
-
-
-<!--  How To Enter start -->
-### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
