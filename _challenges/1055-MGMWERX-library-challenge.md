@@ -7,7 +7,7 @@ sidenav: true
 card-image: /assets/images/cards/MGMWERX_library.png
 agency-logo: dod_seal.jpg
 challenge-title: MGMWERX Library Challenge
-tagline: Automate key and routine Air University Library (AUL) services and operations using Augmented Reality (AR) combined with AUL’s Integrated Library System (ILS)..
+tagline: Automate key and routine Air University Library (AUL) services and operations using Augmented Reality (AR) combined with AUL’s Integrated Library System (ILS).
 agency: Department of Defense - U.S. Air Force
 partner-agencies-federal: Air University
 partners-non-federal: MGMWERX
