@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/iCARE-AD-ADRD/
 challenge-id: 36
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/iCare.jpg
 agency-logo: NIH-Generic.png
@@ -65,7 +65,6 @@ prizes: true
 <li>Must be a US citizen or permanent resident</li>
 <li>Agree to the eligibility rules and requirements listed on <strong><a href="https://nia.nih.gov/challenge-prize" target="_blank" rel="noopener">NIA&rsquo;s challenge details page</a></strong></li>
 <li>Submit solutions via email to NIAPrizeInput@nih.gov by June 30, 2019</li>
-</ul>
 </ul>
 
 <!--  How To Enter start -->

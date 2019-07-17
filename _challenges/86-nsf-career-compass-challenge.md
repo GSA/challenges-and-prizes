@@ -42,8 +42,9 @@ prizes: true
 </ul>
 <p><strong>June 19, 2019 Part 2 Webinar&nbsp;&ndash; 1:00 PM ET&nbsp;</strong></p>
 <ul>
-<li>Webinar link: <a href="https://nsf2.webex.com/nsf2/onstage/g.php?MTID=e7fe69f00581926cb1f0d4bc926d243b0">https://nsf2.webex.com/nsf2/onstage/g.php?MTID=e7fe69f00581926cb1f0d4bc926d243b0</a></li>
-</ul>
+<li><a href="https://players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6050932532001">Webinar video</a></li>
+  <li><a href="{{ site.baseurl }}/assets/document-library/CCC_Part_2_June_Webinar_FINAL_06.19.19.pdf" target="_blank" rel="noopener">Slide presentation</a></li>
+</ul>  
 <p><strong>STAY INFORMED ON THE NSF CAREER COMPASS CHALLENGE</strong></p>
 <p>Join the&nbsp;<em>new</em>&nbsp;NSF Career Compass Challenge listserv to receive the latest on Part 2 of the competition. To join, send an email to&nbsp;<a href="mailto:careercompass-subscribe-request@listserv.nsf.gov" target="_blank" rel="noopener">careercompass-subscribe-request@listserv.nsf.gov</a>, and you will be added automatically.</p>
 <p><strong>PART 2 COMPETITION OVERVIEW</strong></p>
@@ -54,7 +55,7 @@ prizes: true
 <p style="text-decoration: underline;"><strong>ABOUT THE COMPETITION</strong></p>
 <p><em><strong>NSF has a hypothesis.</strong></em></p>
 <p>Technology is changing the way we do our work, and the work itself. To keep up, the National Science Foundation (NSF)&nbsp;plans to invest in its most critical resource &ndash; the workforce. And it's not just NSF. The need for an adaptable and ready workforce extends to other Federal agencies and beyond. No industry will be immune to the way advances in technology change the nature of work. As a pressing example, we are facing critical gaps in matching people with data science and cybersecurity skills with the right mission needs. NSF believes that, along with other agencies and organizations, the best way to maintain a workforce ready to carry out its mission is to encourage a culture of continuous learning, and to empower each person to refresh and modernize their skills toward future work. We want to spark the thinking of the best and brightest to co-create a solution that can enable individual skill-matching and tailored training for the Workforce for the 21st Century.</p>
-<p><img src="{{ site.baseurl }}/assets/images/challenge-content/Future-Federal-Workforce.png" width="742" height="513"/></p>
+<p><img src="{{ site.baseurl }}/assets/images/challenge-content/Future-Federal-Workforce.png" width="742" height="513" alt="challenge vision for the future"/></p>
 <p><strong><em>NSF has a vision.</em></strong></p>
 <p>Imagine a mechanism that rapidly enables an individual to match their skills and interests to current and future work opportunities, leveraging advanced technologies which incorporate learning and development needs (traditional, non-traditional, and experiential), and that provides direct access to options for obtaining the relevant expertise to ready the individual for the chosen work.&nbsp;</p>
 <p>The future world of work may not be recognizable yet, however a ready workforce will remain critical for both economic prosperity and mission accomplishment.&nbsp; Employers must start now to instill a culture of continuous learning in its most critical resource, the workforce. To do this, we must think creatively about broadening the pool of available candidates by lowering the barriers for access to opportunities. This journey begins with a mechanism that enables individuals to self-select and prepare for chosen work that complements their skills and interests. The future of work is one of continuous change, which depends on a culture of continuous learning.&nbsp;</p>

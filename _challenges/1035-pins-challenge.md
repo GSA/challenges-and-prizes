@@ -11,7 +11,7 @@ tagline: Can you characterize the ionosphere with selected digitized radio-frequ
 agency: Office of Director of National Intelligence - Intelligence Advanced Research Projects Activity
 partner-agencies-federal: 
 partners-non-federal: 
-external-url: https://www.iarpa.gov/challenge/pins.html
+external-url: https://www.iarpa.gov/challenges/pins.html
 total-prize-offered-cash: $150,000
 type-of-challenge: Scientific
 submission-start: 2019/05/20 12:00 AM
