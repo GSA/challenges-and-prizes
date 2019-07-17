@@ -27,7 +27,7 @@ prizes: true
 {: .text-accent-warm-dark .font-heading-lg}
 
 <div class="description">
-<p><img src="{{ site.baseurl }}/assets/images/challenge-content/timeline.jpg" width="829" height="233" /></p>
+<p><img src="{{ site.baseurl }}/assets/images/challenge-content/Timeline.png" width="829" height="233" /></p>
   <p><strong>IMPORTANT UPDATE</strong></p>
 <ul>
 <li>The winning submission announcement will be on Friday, August 30.</li>
