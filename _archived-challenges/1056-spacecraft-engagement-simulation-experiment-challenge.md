@@ -40,6 +40,9 @@ challenge-manager-email: info@mgmwerx.org
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg}
 
+<p>Additional information as well as the submission page is found at:</p>
+<p><a href="https://afwerx.spigit.com/spaceviz/Page/ChallengeOverview">https://afwerx.spigit.com/spaceviz/Page/ChallengeOverview</a></p>
+<p>For questions about the challenge, please email info@mgmwerx.org</p>
 
 <!-- Judging start -->
 ### Judging Criteria
@@ -51,3 +54,4 @@ challenge-manager-email: info@mgmwerx.org
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg}
 
+<p>Those proposing solutions should submit their white papers by way of our&nbsp;<a href="https://afwerx.spigit.com/spaceviz/Page/ChallengeOverview">challenge website</a>.</p>
