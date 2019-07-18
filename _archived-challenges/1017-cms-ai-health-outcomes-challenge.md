@@ -9,7 +9,7 @@ agency-logo:
 challenge-title: CMS AI Health Outcomes Challenge
 tagline: Accelerate the future of health care with AI
 agency: Department of Health and Human Services - Centers for Medicare and Medicaid Services
-partner-agencies-federal: ""
+partner-agencies-federal: 
 partners-non-federal: 
 external-url: http://ai.cms.gov/
 total-prize-offered-cash: $1,650,000
@@ -20,27 +20,3 @@ submission-link:
 prizes: true
 ---
 
-
-<!-- Description start -->
-### Description
-{: .text-accent-warm-dark .font-heading-lg}
-
-
-<!-- Prizes start -->
-### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
-
-
-<!-- Rules start -->
-### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
-
-
-<!-- Judging start -->
-### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
-
-
-<!--  How To Enter start -->
-### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}

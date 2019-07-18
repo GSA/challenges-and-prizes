@@ -3,7 +3,7 @@ layout: front-matter-data
 permalink: /challenge/DARPA-subterranean-subt-challenge/
 challenge-id: 35
 status: open
-sidenav: true
+sidenav: false
 banner-image: 
 card-image: /assets/images/cards/subt-logo.jpg
 agency-logo: dod_seal.jpg

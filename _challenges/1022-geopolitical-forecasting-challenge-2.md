@@ -3,7 +3,7 @@ layout: front-matter-data
 permalink: /challenge/geopolitical-forecasting-challenge-2/
 challenge-id: 1022
 status: open
-sidenav: true
+sidenav: false
 card-image: /assets/images/cards/GFC2Challenge-gov.png
 agency-logo: challengeGov placeholder image path
 challenge-title: Geopolitical Forecasting Challenge 2
