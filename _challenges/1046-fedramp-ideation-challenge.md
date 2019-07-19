@@ -4,8 +4,8 @@ permalink: /challenge/the-fedramp-ideation-challenge/
 challenge-id: 1046
 status: open
 sidenav: true
-card-image: /assets/images/cards/MGMWERX_library.png
-agency-logo: dod_seal.jpg
+card-image: /assets/images/cards/FedRamp_Ideation_Logo.png
+agency-logo: gsa.png
 challenge-title: The FedRAMP Ideation Challenge
 tagline: Shape how government performs cloud security authorizations.
 agency: General Services Administration
