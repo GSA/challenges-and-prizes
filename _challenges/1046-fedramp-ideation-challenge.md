@@ -14,7 +14,7 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: 
 type-of-challenge: Ideas
-submission-start: 2019/07/24 
+submission-start: 2019/07/24 11:00 AM
 submission-end: 2019/08/22 05:00 PM
 submission-link: https://www.fedramp.gov/challenge
 prizes: false
