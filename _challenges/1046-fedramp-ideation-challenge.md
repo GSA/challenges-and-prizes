@@ -35,9 +35,7 @@ Challenge Manager Email: janelle.thalls@gsa.gov
 <p>Security and cloud professionals, academia, and anyone interested or involved in the FedRAMP ecosystem are invited to participate in this opportunity to share their best thinking on the next phase of FedRAMP.&nbsp;</p>
 <p><strong>Opportunity</strong></p>
 <p>As technology evolves, it is important that federal agencies manage information systems to address and mitigate security risks. We want to ensure FedRAMP continuously explores initiatives in support of a modern, efficient, and effective authorization process in an effort to reduce time and cost, without compromising cybersecurity rigor.</p>
-<p>&nbsp;</p>
 <p>This challenge provides FedRAMP&rsquo;s stakeholders and the cloud security community at large the opportunity to directly inform and contribute ideas in support of a new approach to risk assessments and security authorization for cloud products and services.</p>
-<p>&nbsp;</p>
 <p>For more information about FedRAMP and this challenge, please visit <a href="http://www.fedramp.gov/challenge">The FedRAMP Ideation Challenge</a> page.</p>
 
 
