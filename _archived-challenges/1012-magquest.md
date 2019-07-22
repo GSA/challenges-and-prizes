@@ -3,7 +3,7 @@ layout: front-matter-data
 permalink: /challenge/magquest/
 challenge-id: 1012
 status: closed
-sidenav: true
+sidenav: false
 banner-image: 
 card-image: /assets/images/cards/magquest.jpg
 agency-logo: NGIA.jpg
