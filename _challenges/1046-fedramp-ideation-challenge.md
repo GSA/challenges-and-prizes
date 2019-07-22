@@ -43,10 +43,9 @@ Challenge Manager Email: janelle.thalls@gsa.gov
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg}
 
-<p><strong>Rules and Conditions:&nbsp;&nbsp;</strong></p>
 <ul>
-<li>FedRAMP will not respond to each submission individually but may reach out via email to individual submitters for clarification if needed.</li>
-<li>This is a targeted open crowdsourcing and ideation activity to collect insight and is not a competition where prizes may be awarded.&nbsp;</li>
+<li>FedRAMP will not respond to each submission individually, but may reach out via email to individual submitters for clarification if needed.</li>
+<li>This is a targeted open crowdsourcing and ideation activity to collect insight and is not a competition where prizes will be awarded.&nbsp;</li>
 <li>Please do not submit proprietary information. Any information provided may be incorporated into the design of the project. Information submitted in response to this notice is subject to disclosure under the Freedom of Information Act. Respondents are advised that the Government is under no obligation to acknowledge, compensate or provide feedback with respect to any information submitted under this notice.</li>
 <li>By participating in this crowdsourcing activity, submitters agree to hold GSA harmless from all legal and administrative claims to include associated expenses that may arise from any claims related to their submission or its use.</li>
 <li>GSA will not be responsible for any claims or complaints from third parties about any disputes of ownership regarding the ideas, technology, white papers, prototypes, or images included in submissions.</li>
@@ -70,5 +69,5 @@ Challenge Manager Email: janelle.thalls@gsa.gov
 </ol>
 <p>Given the increasing capabilities of technology and innovative services, it is our expectation that new ideas can propose improvements in ways that continue or improve security rigor.&nbsp;</p>
 <p>Submissions will be reviewed by the FedRAMP PMO. As a result of this challenge and internal efforts, FedRAMP will define its next big move as a program and communicate the results of this effort through the <a href="https://www.fedramp.gov/blog/">Focus on FedRAMP blog</a>.&nbsp;</p>
-<p>As part of a larger coordinated effort, the PMO will also release a Special Announcement on FedBizOpps and a posting on Challenge.gov in order to gather ideas from the broadest possible community. These public announcements will contain a direct link to this page for further details about the ideation challenge.&nbsp;</p>
+<p>As part of a larger coordinated effort, the PMO will also release a Special Announcement on FedBizOpps in addition to this posting on Challenge.gov in order to gather ideas from the broadest possible community. These public announcements will contain a direct link to this page for further details about the ideation challenge.&nbsp;</p>
 <p>Thank you for your effort and commitment to partnering with FedRAMP to improve cybersecurity for all.</p>
