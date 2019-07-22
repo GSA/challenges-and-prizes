@@ -5,7 +5,7 @@ challenge-id: 1014
 status: open
 sidenav: false
 card-image: /assets/images/cards/AmericanMadeSolarSkinny.jpg
-agency-logo: challengeGov placeholder image path
+agency-logo: 256px-Seal_of_the_United_States_Department_of_Energy.png
 challenge-title: Lithium-Ion Battery Recycling Prize
 tagline: Develop transformative solutions for safely and economically collecting, sorting, storing, and transporting 90% of discarded or spent lithium-ion batteries in the United States with the ultimate goal of reintroducing key materials to the battery manufacturing supply chain.
 agency: Department of Energy - Energy Programs
