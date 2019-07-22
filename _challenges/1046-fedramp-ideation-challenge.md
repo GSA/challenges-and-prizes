@@ -36,7 +36,6 @@ Challenge Manager Email: janelle.thalls@gsa.gov
 <p><strong>Opportunity</strong></p>
 <p>As technology evolves, it is important that federal agencies manage information systems to address and mitigate security risks. We want to ensure FedRAMP continuously explores initiatives in support of a modern, efficient, and effective authorization process in an effort to reduce time and cost, without compromising cybersecurity rigor.</p>
 <p>This challenge provides FedRAMP&rsquo;s stakeholders and the cloud security community at large the opportunity to directly inform and contribute ideas in support of a new approach to risk assessments and security authorization for cloud products and services.</p>
-<p>For more information about FedRAMP and this challenge, please visit <a href="http://www.fedramp.gov/challenge">The FedRAMP Ideation Challenge</a> page.</p>
 <p><strong>Background</strong></p>
 <p>FedRAMP standardizes the Federal Government&rsquo;s requirements and approach to security assessment, authorization, and monitoring of cloud products and services. The FedRAMP program established several cloud security baselines in accordance with <a href="https://www.congress.gov/113/plaws/publ283/PLAW-113publ283.pdf">FISMA</a> and <a href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf">OMB A-130</a> and aligned with the <a href="https://csrc.nist.gov/projects/risk-management/risk-management-framework-(RMF)-Overview">NIST RMF</a> and <a href="https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-53r4.pdf">NIST SP 800-53.</a>&nbsp;</p>
 <p>In accordance with FISMA, each agency is required to issue an Authority to Operate (ATO) to authorize operation and accept the risk of using an information system. FISMA, and the <a href="https://www.whitehouse.gov/presidential-actions/presidential-executive-order-strengthening-cybersecurity-federal-networks-critical-infrastructure/">President&rsquo;s Executive Order,</a> require agency heads to be responsible for information security risk within that agency and, while FedRAMP helps streamline and support agency risk determinations, ultimately that responsibility lies with the individual agency.&nbsp;</p>
@@ -45,9 +44,8 @@ Challenge Manager Email: janelle.thalls@gsa.gov
 <p>How Do CSPs Get a FedRAMP Authorization?</p>
 <p>CSPs can achieve a FedRAMP Authorization for their Cloud Service Offering (CSO) from one of two approaches: through agency partnership or through the Joint Authorization Board (JAB). Regardless of the authorization approach, the CSP and 3PAO must produce the same deliverables (documents, artifacts, and evidence files) to convey the risk associated with the CSO.&nbsp;</p>
 <p><a href="https://www.fedramp.gov/jab-authorization/">JAB Authorization Process</a></p>
-<p>&nbsp;</p>
-<p><a href="https://www.fedramp.gov/agency-authorization/">Agency Authorization Process</a></p>
-<p>&nbsp;</p>
+<p><img src="{{ site.baseurl }}/assets/images/challenge-content/jab-auth.png" /></p><p><a href="https://www.fedramp.gov/agency-authorization/">Agency Authorization Process</a></p>
+<p><img src="{{ site.baseurl }}/assets/images/challenge-content/agency-auth.png" /></p>
 <p><strong>Challenges with the &ldquo;As-Is&rdquo; FedRAMP Process:</strong></p>
 <p>As agencies migrate to cloud technology, authorization challenges remain. FedRAMP is committed to providing workable and scalable solutions for our partners to advance the pace of secure cloud adoption. The FedRAMP PMO identified four improvement areas to the current &ldquo;as-is&rdquo; process.&nbsp;</p>
 <p>Current Challenges</p>
