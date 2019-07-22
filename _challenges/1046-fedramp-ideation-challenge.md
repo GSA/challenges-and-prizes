@@ -65,7 +65,6 @@ Challenge Manager Email: janelle.thalls@gsa.gov
 <li><a href="https://www.fedramp.gov/assets/resources/documents/CSP_JAB_P-ATO_Prioritization_Criteria_and_Guidance.pdf">FedRAMP Connect</a></li>
 <li><a href="https://www.fedramp.gov/pursuing-a-fedramp-tailored-authorization/">FedRAMP Tailored Li-SaaS Baseline</a></li>
 </ul>
-<p>For more information about FedRAMP and this challenge, please visit <a href="http://www.fedramp.gov/challenge">The FedRAMP Ideation Challenge</a> page.</p>
 
 
 <!-- Rules start -->
