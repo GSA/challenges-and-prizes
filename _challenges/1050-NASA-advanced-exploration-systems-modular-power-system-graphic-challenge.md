@@ -2,8 +2,8 @@
 layout: front-matter-data
 permalink: /challenge/nasa-advanced-exploration-systems-modular-power-system-graphic-challenge/
 challenge-id: 1050
-status: false
-sidenav: true
+status: closed
+sidenav: false
 card-image: /assets/images/cards/NASA_challenge_logo.png
 agency-logo: 717px-NASA_logo.png
 challenge-title: NASA Advanced Exploration Systems Modular Power System Graphic Challenge
