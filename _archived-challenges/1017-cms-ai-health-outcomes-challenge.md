@@ -3,9 +3,9 @@ layout: front-matter-data
 permalink: /challenge/cms-ai-health-outcomes-challenge/
 challenge-id: 1017
 status: closed
-sidenav: true
+sidenav: false
 card-image: /assets/images/cards/AI_CMS_updated-logo.png
-agency-logo: 
+agency-logo: Centers_for_Medicare_and_Medicaid_Services_logo_2014.png
 challenge-title: CMS AI Health Outcomes Challenge
 tagline: Accelerate the future of health care with AI
 agency: Department of Health and Human Services - Centers for Medicare and Medicaid Services

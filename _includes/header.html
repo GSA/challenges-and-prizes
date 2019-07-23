@@ -30,15 +30,15 @@ site, this is the place to do it.
  <meta property="og:title" content="{% if page.challenge-title %}{{ page.challenge-title }}{% elsif page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}">
 <meta property="og:description" content="{% if page.tagline %}{{ page.tagline }}{% else %}{{ site.description }}{% endif %}">
 
-<meta name="twitter:card" value="summary">
+<meta name="twitter:card" value="summary_large_image">
 <meta name="twitter:site" content="@{site.twitter}">
 
-<meta property="og:image" content="{{ site.feature_image | prepend: site.baseurl | prepend: site.url }}">
-<meta name="twitter:image" content="{{ site.feature_image | prepend: site.baseurl | prepend: site.url }}">
+<meta property="og:image" content="{% if page.card-image %}{{ page.card-image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.feature_image | prepend: site.baseurl | prepend: site.url }}{% endif %}">
+<meta name="twitter:image" content="{% if page.card-image %}{{ page.card-image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.feature_image | prepend: site.baseurl | prepend: site.url }}{% endif %}">
 <meta property="og:type" content="article">
 
-<link rel="canonical" href="{{site.baseurl}}/">
-<meta property="og:url" content="{{site.baseurl}}/">
+<link rel="canonical" href="{{site.baseurl}}/challenge.gov">
+<meta property="og:url" content="{{site.baseurl}}/challenge.gov">
 
 
 

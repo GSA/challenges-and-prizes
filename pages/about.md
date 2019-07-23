@@ -33,7 +33,7 @@ Every prize competition is structured differently, and the details matter. Make 
  
 **Work for government?** 
 
-If you’re a member of the federal workforce and want to run a challenge, make sure to visit the [Challenges and Prizes Toolkit]({{ site.baseurl }}/toolkit/){:target="_blank" rel="noopener"} for considerations in designing and executing a successful competition.
+If you’re a member of the federal workforce and want to run a challenge, make sure to visit the [Challenge and Prize Toolkit]({{ site.baseurl }}/toolkit/){:target="_blank" rel="noopener"} for considerations in designing and executing a successful competition.
 
 And to post on Challenge.gov, drop us a line at [team@challenge.gov](mailto:team@challenge.gov) to get started.
 </div>

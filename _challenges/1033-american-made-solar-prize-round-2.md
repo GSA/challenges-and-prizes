@@ -5,7 +5,7 @@ challenge-id: 1033
 status: closed
 sidenav: false
 card-image: /assets/images/cards/solarprizelogo.jpg
-agency-logo: challengeGov placeholder image path
+agency-logo: 256px-Seal_of_the_United_States_Department_of_Energy.png
 challenge-title: American-Made Solar Prize Round 2
 tagline: Accelerate and sustain American solar innovation
 agency: Department of Energy - Energy Programs
