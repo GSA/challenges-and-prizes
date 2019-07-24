@@ -19,6 +19,9 @@ i.e.
 @include u-padding-right('05');
 ----------------------------------------
 */
+
+$custom-image-path:  '../';
+
 .toolkit h1 {
 	color: color('primary-dark');
 	font-size: size('serif','2xl');
@@ -37,6 +40,12 @@ i.e.
 .usa-hero {
 	background-image: none;
 }
+
+@media (min-width: 600px) {
+	.usa-hero {
+		background-image: url("#{$custom-image-path}/images/hero-flag.jpg");
+	}
+  }
 
 .usa-hero__callout {
 	background-color: rgba(22, 46, 81, .85);
