@@ -22,7 +22,6 @@ i.e.
 
 $custom-image-path:  '../';
 
-
 .usa-hero {
 	background-image: none;
 }
@@ -33,8 +32,25 @@ $custom-image-path:  '../';
 	}
   }
 
+  @media (max-width: 600px) {
+	.usa-hero {
+		padding-top: 0;
+	}
+  }
+
 .usa-hero__callout {
 	background-color: rgba(22, 46, 81, .85);
+	max-width: 100% !important;
+}
+
+@media (max-width: 600px) {
+	.usa-hero__callout h2 {
+		font-size: 1.25rem;
+		line-height: 1.8rem;
+	}
+	.usa-hero__callout {
+		padding: 1rem;
+	}
 }
 
 .usa-header--extended .usa-logo {
@@ -47,10 +63,6 @@ $custom-image-path:  '../';
 	  margin-bottom: 2.1rem !important;
 	}
   }
-
-.usa-hero__callout {
-    max-width: 100% !important;
-}
 
 .grid-container {
     max-width: 74rem;
