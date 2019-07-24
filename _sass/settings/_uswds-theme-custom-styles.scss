@@ -22,6 +22,12 @@ i.e.
 
 $custom-image-path:  '../';
 
+@media (max-width: 600px) {
+	.usa-navbar {
+		border-bottom: none !important;
+	}
+  }
+
 .usa-hero {
 	background-image: none;
 }
