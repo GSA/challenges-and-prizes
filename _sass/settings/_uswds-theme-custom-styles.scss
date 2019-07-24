@@ -32,17 +32,9 @@ $custom-image-path:  '../';
 	background-image: none;
 }
 
-@media (min-width: 600px) {
 	.usa-hero {
 		background-image: url("#{$custom-image-path}/images/hero-flag-min.jpg");
 	}
-  }
-
-  @media (max-width: 600px) {
-	.usa-hero {
-		padding-top: 0;
-	}
-  }
 
 .usa-hero__callout {
 	background-color: rgba(22, 46, 81, .85);
