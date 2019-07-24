@@ -22,20 +22,6 @@ i.e.
 
 $custom-image-path:  '../';
 
-.toolkit h1 {
-	color: color('primary-dark');
-	font-size: size('serif','2xl');
-}
-
-.toolkit h2 {
-	color: color('primary-dark');
-	font-size: size('serif','xl');
-}
-
-.toolkit h3 {
-	color: color('primary');
-	font-size: size('serif','lg');
-}
 
 .usa-hero {
 	background-image: none;
@@ -208,6 +194,21 @@ h3 a {
 }
 
 //Toolkit
+
+.toolkit h1 {
+	color: color('primary-dark');
+	font-size: size('serif','2xl');
+}
+
+.toolkit h2 {
+	color: color('primary-dark');
+	font-size: size('serif','xl');
+}
+
+.toolkit h3 {
+	color: color('primary');
+	font-size: size('serif','lg');
+}
 .toolkit-nav {
 	margin-bottom: 1rem;
 	margin-left: auto;
