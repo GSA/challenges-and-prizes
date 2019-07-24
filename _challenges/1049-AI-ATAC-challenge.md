@@ -29,6 +29,7 @@ Challenge Manager Email: michael.j.karlbom1@navy.mil
 {: .text-accent-warm-dark .font-heading-lg}
 
 <p>The Naval Information Warfare Systems Command (NAVWARSYSCOM) and the Program Executive Office for Command, Control, Communications, Computers, and Intelligence (PEO C4I) are conducting the Artificial Intelligence Applications to Autonomous Cybersecurity (AI ATAC), pronounced &ldquo;AI attack&rdquo; Challenge (hereinafter referred to as &ldquo;the Challenge&rdquo;). The Navy&rsquo;s Information Assurance and Cybersecurity Program Office (PMW 130) seeks to automate the Security Operations Center (SOC) using artificial intelligence and machine learning (AI/ML) beginning with the endpoint.&nbsp; Modern malware strains, especially sophisticated malware created by advanced persistent threat (APT) groups, have shown capabilities that mutate faster than signature-based protection tools can adapt. PMW 130 solicits white papers describing endpoint-based security technologies and the corresponding tool for evaluation in the AI ATAC Prize Challenge competition.</p>
+<p><a href="{{ site.baseurl }}/assets/document-library/AI ATAC Prize Challenge FAQ Document 1- 23JUL19.pdf">See FAQs for this challenge.</a></p>
 
 <!-- Prizes start -->
 ### Prizes
