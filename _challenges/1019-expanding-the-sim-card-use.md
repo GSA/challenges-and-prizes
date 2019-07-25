@@ -13,7 +13,7 @@ agency: Department of Commerce - National Institute of Standards and Technology
 partner-agencies-federal: First Responder Network Authority 
 partners-non-federal: Nok Nok Labs, IBM Security
 external-url:
-total-prize-offered-cash: $425,000
+total-prize-offered-cash: $100,000
 type-of-challenge: Software and apps
 submission-start: 2019/04/03 12:00 AM
 submission-end: 2019/10/19
