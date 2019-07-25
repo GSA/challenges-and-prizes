@@ -152,6 +152,13 @@ h3 a {
 	}
 }
 
+@media (max-width: 600px) {
+	.challenge-agency-logo {
+		max-width: 25%;
+	}
+  }
+
+
 // Challenge Details Accordian
 .usa-accordion__button--primary-darkest {
 	background-image: url("#{$theme-image-path}/angle-arrow-up-white.svg");
