@@ -11,7 +11,7 @@ challenge-title: Haptic Interfaces for Public Safety Challenge
 tagline: Help first responders by developing haptic interfaces, prototyped in virtual reality and embedded in firefighter equipment for a live competition
 agency: NIST PSCR Group
 partner-agencies-federal: First Responder Network Authority 
-partners-non-federal: FirstNet (built with AT&T) and West Metro Fire Protection District (CO)
+partners-non-federal: FirstNet (built with AT&T); West Metro Fire Protection District (CO); and MSA, The Safety Company
 external-url:
 total-prize-offered-cash: $425,000
 type-of-challenge: Technology demonstration and hardware
