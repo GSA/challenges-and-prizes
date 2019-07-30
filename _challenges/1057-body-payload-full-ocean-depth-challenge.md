@@ -1,6 +1,6 @@
 +---
 layout: front-matter-data
-permalink: /challenges/title-goes-here/
+permalink: /challenges/body-payload-full-ocean-depth-challenge/
 challenge-id: 1057
 status: open
 sidenav: true
@@ -9,10 +9,10 @@ agency-logo: dod_seal.jpg
 challenge-title: Body/Payload Full Ocean Depth Challenge
 tagline: The Navy is seeking ideas and best practices in materials that can withstand undersea challenges. 
 agency: Department of Defense
-partner-agencies-federal: Naval Undersea Warfare Center Division Newport (NUWCDIVNPT), Office of Naval Research (ONR)
+partner-agencies-federal: Naval Undersea Warfare Center Division Newport, Office of Naval Research
 partners-non-federal: 
 external-url:
-total-prize-offered-cash:
+total-prize-offered-cash: $755,000
 type-of-challenge: Technology demonstration and hardware
 submission-start: 2019/07/31 05:00 PM ET
 submission-end: 2019/08/30 05:00 PM ET
