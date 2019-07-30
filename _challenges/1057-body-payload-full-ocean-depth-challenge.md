@@ -101,6 +101,30 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg}
 
+<div class="judging">
+  <h3>Judging Panel</h3>
+<p>The Technology Pitch and Technology Demonstration will be presented to NUWCDIVNPT and ONR experts.</p> 
+<h3>Judging Criteria</h3>
+  <p><strong>Phase I: </strong>The concept white paper must be submitted on time and address/outline the following areas:</p>
+  <ul>
+    <li>Knowledge</li>
+    <li>Skills</li>
+    <li>Capabilities meeting the Challenge.</li>
+  </ul>
+<p>A panel of judges will screen all submissions for compliance with the rules and terms and conditions detailed herein.</p> 
+<p><strong>Phase II: </strong>Each of the companies that move onto Phase II will be invited to pitch their proposal to the panel of judges during certain days.  In Phase II, companies will be evaluated by the review panel on a scale of 0-25 points (25 being the highest). The evaluation criteria is provided below:</p>
+  <p>Phase III: </strong>The offeror shall be evaluated based on the below demonstration criteria:</p> 
+<ul>
+  <li>Withstanding 10,000 psi Depth Pressure: The pressure test cycle will be 10 cycles to 10,000 psi, holding for 5 min each cycle until the last cycle holds for 30 minutes.</li>
+<li>Length: The payload section should be approximately 21 inches.</li>
+<li>Nominal Outer Diameter (OD): Nominal OD measure to be 5.125 inches.</li> 
+<li>Minimum Inner Diameter (ID):  Minimum ID measured to be at least 4 inches, with larger ID’s successfully pressure tested scoring higher.</li>
+<li>Endcap(s):  The internal design space shall be accessible through removable/reusable endcap(s) after successful pressure test is complete.</li>
+<li>Potential Scalability to Larger Diameters: Proposal should demonstrate that design/fabrication approach provides potential scalability to larger diameter shells.</li>
+<li>Factor of safety: Design factor of safety will be considered in evaluation.</li>
+  </ul>
+  </div>
+
 
 
 <!--  How To Enter start -->
