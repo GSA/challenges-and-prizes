@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/develop-a-template-and-production-process-instructions-for-an-html-based-newsletter/
 challenge-id: 1053
-status: open
+status: closed
 sidenav: false
 card-image: /assets/images/cards/NASA_challenge_logo.png
 agency-logo: 717px-NASA_logo.png
