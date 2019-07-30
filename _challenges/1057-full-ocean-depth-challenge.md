@@ -112,7 +112,217 @@ challenge-manager-email: christopher.r.hebert@navy.mil
     <li>Capabilities meeting the Challenge.</li>
   </ul>
 <p>A panel of judges will screen all submissions for compliance with the rules and terms and conditions detailed herein.</p> 
-<p><strong>Phase II: </strong>Each of the companies that move onto Phase II will be invited to pitch their proposal to the panel of judges during certain days.  In Phase II, companies will be evaluated by the review panel on a scale of 0-25 points (25 being the highest). The evaluation criteria is provided below:</p>
+<p><strong>Phase II: </strong>Each of the companies that move onto Phase II will be invited to pitch their proposal to the panel of judges during certain days. In Phase II, companies will be evaluated by the review panel on a scale of 0-25 points (25 being the highest). The evaluation criteria is provided below:</p>
+  <p style="line-height: normal; text-autospace: none;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<table style="border-collapse: collapse; border: none;" width="654">
+<tbody>
+<tr style="height: 15.0pt;">
+<td style="width: 251.2pt; border: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 15.0pt;" colspan="3" width="335">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Company/Topic #:</span></p>
+</td>
+<td style="width: 239.4pt; border: solid black 1.0pt; border-left: none; padding: 0in 5.4pt 0in 5.4pt; height: 15.0pt;" colspan="5" width="319">
+<p style="line-height: normal;"><span style="font-family: 'Candara',sans-serif;">Date:</span></p>
+</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="width: 490.6pt; border: solid black 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt; height: 15.0pt;" colspan="8" width="654">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Team or Company Name / Brief Description:</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="width: 251.2pt; border: solid black 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt; height: 15.0pt;" colspan="3" width="335">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">INVESTMENT CRITERIA</span></p>
+</td>
+<td style="width: 239.4pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 15.0pt;" colspan="5" width="319">
+<p style="line-height: normal;"><span style="font-family: 'Candara',sans-serif;">BETTER SCORE&nbsp; &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 90.9pt; border: solid black 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt;" width="121">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Criteria</span></p>
+</td>
+<td style="width: 160.3pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" colspan="2" width="214">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Description</span></p>
+</td>
+<td style="width: 239.4pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" colspan="5" width="319">
+<p style="line-height: normal; tab-stops: center 108.35pt right 228.6pt;"><span style="font-family: 'Candara',sans-serif;">Low Score&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Average&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; High Score</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 90.9pt; border: solid black 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt;" width="121">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Technical Approach</span></p>
+</td>
+<td style="width: 160.3pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" colspan="2" width="214">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Realistic, viable and feasible technology/approach to be completed in 6 months</span></p>
+</td>
+<td style="width: 47.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">1</span></p>
+</td>
+<td style="width: 47.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">2</span></p>
+</td>
+<td style="width: 47.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">3</span></p>
+</td>
+<td style="width: 47.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">4</span></p>
+</td>
+<td style="width: 47.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">5</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 490.6pt; border: solid black 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt;" colspan="8" width="654">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Comments / Notes:</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 90.9pt; border: solid black 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt;" width="121">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Team Background and Capabilities</span></p>
+</td>
+<td style="width: 160.3pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" colspan="2" width="214">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;Team proposed has knowledge and capacity to complete proposed work</span></p>
+</td>
+<td style="width: 47.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">1</span></p>
+</td>
+<td style="width: 47.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">2</span></p>
+</td>
+<td style="width: 47.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">3</span></p>
+</td>
+<td style="width: 47.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">4</span></p>
+</td>
+<td style="width: 47.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">5</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 490.6pt; border: solid black 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt;" colspan="8" width="654">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Comments / Notes:</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 90.9pt; border: solid black 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt;" width="121">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Proposal&nbsp; Fitness</span></p>
+</td>
+<td style="width: 160.3pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" colspan="2" width="214">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Proposal outcomes/deliverables answer the topic challenge and there is a path to a prototype</span></p>
+</td>
+<td style="width: 47.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">1</span></p>
+</td>
+<td style="width: 47.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">2</span></p>
+</td>
+<td style="width: 47.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">3</span></p>
+</td>
+<td style="width: 47.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">4</span></p>
+</td>
+<td style="width: 47.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">5</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 490.6pt; border: solid black 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt;" colspan="8" width="654">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Comments / Notes:</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 90.9pt; border: solid black 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt;" width="121">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Risk Reduction</span></p>
+</td>
+<td style="width: 160.3pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" colspan="2" width="214">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Risks/mitigation strategies acceptable</span></p>
+</td>
+<td style="width: 47.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">1</span></p>
+</td>
+<td style="width: 47.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">2</span></p>
+</td>
+<td style="width: 47.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">3</span></p>
+</td>
+<td style="width: 47.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">4</span></p>
+</td>
+<td style="width: 47.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">5</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 490.6pt; border: solid black 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt;" colspan="8" width="654">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Comments / Notes:</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 90.9pt; border: solid black 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt;" width="121">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Understanding</span></p>
+</td>
+<td style="width: 160.3pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" colspan="2" width="214">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Proposer understands the stakeholders and beneficiaries</span></p>
+</td>
+<td style="width: 47.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">1</span></p>
+</td>
+<td style="width: 47.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">2</span></p>
+</td>
+<td style="width: 47.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">3</span></p>
+</td>
+<td style="width: 47.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">4</span></p>
+</td>
+<td style="width: 47.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">5</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 490.6pt; border: solid black 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt;" colspan="8" width="654">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Comments / Notes:</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 171.9pt; border: solid black 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt;" colspan="2" width="229">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Worst Score: 5 Criteria x 1 = 5</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Avg. Score:&nbsp;&nbsp; 5 Criteria x 3 = 15</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Best Score:&nbsp;&nbsp; 5 Criteria x 5 = 25</span></p>
+</td>
+<td style="width: 318.7pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" colspan="6" width="425">
+<p style="line-height: normal;"><strong><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">Total Score:</span></strong></p>
+</td>
+</tr>
+</tbody>
+</table>
   <p><strong>Phase III: </strong>The offeror shall be evaluated based on the below demonstration criteria:</p> 
 <ul>
   <li>Withstanding 10,000 psi Depth Pressure: The pressure test cycle will be 10 cycles to 10,000 psi, holding for 5 min each cycle until the last cycle holds for 30 minutes.</li>
