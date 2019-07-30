@@ -1,4 +1,4 @@
-+---
+---
 layout: front-matter-data
 permalink: /challenge/body-payload-full-ocean-depth-challenge/
 challenge-id: 1057
@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $755,000
 type-of-challenge: Technology demonstration and hardware
-submission-start: 2019/07/31 05:00 PM ET
-submission-end: 2019/08/30 05:00 PM ET
+submission-start: 2019/07/31 5:00 PM ET
+submission-end: 2019/08/30 2:00 PM ET
 submission-link:  
 prizes: true
 fiscal-year: FY19-20
@@ -44,9 +44,9 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 <h3>Total Cash Prize Pool</h3>
 <p>The total prize purse is up to $755,000. Naval Undersea Warfare Center, Division Newport (NUWCDIVNPT) and Office of Naval Research (ONR) may select up to three Phase III winners.</p>
 <h3>Prize Breakdown</h3>
-<p>Phase 1 – Concept White Paper Contest: Up to twenty-five (25) winners will receive written invitation to participate in Phase II.</p>
-<p>Phase II – Technology Pitches: Up to three winners will receive a prize of $250,000 each for development of the Minimum Viable Product in accordance with their respective technology pitch and will receive written invitation to participate in Phase III. The winner of this prize will receive $75,000 for initial development of the Minimum Viable Product. The winner will receive the remaining $175,000 once virtual proof of life check has been completed. This shall be completed through a virtual means presenting the proof of life check to Navy experts.</p> 
-<p>Phase III – Technology Demonstration: At the conclusion of Phase III, the First Place winner will receive a prize of $5,000 and the possibility for a contract (under the Other Transaction Authority) for prototype development.</p>
+<p><strong>Phase 1 – </strong>Concept White Paper Contest: Up to twenty-five (25) winners will receive written invitation to participate in Phase II.</p>
+<p><strong>Phase II – </strong>Technology Pitches: Up to three winners will receive a prize of $250,000 each for development of the Minimum Viable Product in accordance with their respective technology pitch and will receive written invitation to participate in Phase III. The winner of this prize will receive $75,000 for initial development of the Minimum Viable Product. The winner will receive the remaining $175,000 once virtual proof of life check has been completed. This shall be completed through a virtual means presenting the proof of life check to Navy experts.</p> 
+<p><strong>Phase III – </strong>Technology Demonstration: At the conclusion of Phase III, the First Place winner will receive a prize of $5,000 and the possibility for a contract (under the Other Transaction Authority) for prototype development.</p>
 <p>**NOTE: The Government will not be providing additional funds For Phase II and Phase III travel and accommodations at the Phase II Technology Pitch and the Phase III Technology Demonstration.**</p>
 </div>
 
