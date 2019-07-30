@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenge/body-payload-full-ocean-depth-challenge/
+permalink: /challenge/full-ocean-depth-challenge/
 challenge-id: 1057
 status: open
 sidenav: true
@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $755,000
 type-of-challenge: Technology demonstration and hardware
-submission-start: 2019/07/31 5:00 PM ET
-submission-end: 2019/08/30 2:00 PM ET
+submission-start: 2019/08/13 2:00 PM ET
+submission-end: 2019/08/20 2:00 PM ET
 submission-link:  
 prizes: true
 fiscal-year: FY19-20
@@ -93,7 +93,7 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 <p>For technical and challenge related questions, please send an email to Christopher.r.hebert@navy.mil with “Challenge Title” in the subject line.</p>
 <p>The Government will post all questions and responses on the Federal Business Opportunities (FBO.gov).</p> 
 <p>Contestants should expect that their questions and the Government’s responses will be made available to all those accessing the FBO.gov.</p>
-<p>A deadline for Industry submission of Questions is hereby established. The deadline for prize challenge question submission is 2:00 PM Eastern Time on XX August 2019. After this date and time, the Government may not respond to questions received.</p>
+<p>A deadline for Industry submission of Questions is hereby established. The deadline for prize challenge question submission is 2:00 PM Eastern Time on 8 August 2019. After this date and time, the Government may not respond to questions received.</p>
 <p>NUWCDIVNPT reserves the right to cancel, suspend, and/or modify the challenge, or any part of it, if any fraud, technical failures, or any other factor beyond NUWCDIVNPT’s reasonable control impairs the integrity or proper functioning of the challenge, as determined by NUWCDIVNPT in its sole discretion. NUWCDIVNPT is not responsible for, nor is it required to accept, incomplete, late, misdirected, damaged, unlawful, or illicit submissions.</p>
 </div>
 
@@ -132,7 +132,7 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 {: .text-accent-warm-dark .font-heading-lg}
 
 <div class="how-to-enter">
-<p>Entries must be submitted via email to Christopher Hebert christopher.r.hebert@navy.mil by 02:00 Eastern Time on <strong>XX August 2019.</strong> Submissions received after the deadline will not be considered.</p>
+<p>Entries must be submitted via email to <a href="mailto:christopher.r.hebert@navy.mil" target="_blank" rel="noopener">christopher.r.hebert@navy.mil</a> by 02:00 Eastern Time on 20 August 2019. Submissions received after the deadline will not be considered.</p>
   <p>Submissions including attachments shall use the following filename convention:</p>
   <p>Ch.gov user name (e.g., User123X_concept.pdf, User123X_schematic.pdf)</p>
 </div>
