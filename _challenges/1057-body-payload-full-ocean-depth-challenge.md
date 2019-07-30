@@ -4,7 +4,7 @@ permalink: /challenge/body-payload-full-ocean-depth-challenge/
 challenge-id: 1057
 status: open
 sidenav: true
-card-image: /assets/images/cards/ocean-depthPrize Challenge Logo.png
+card-image: /assets/images/cards/ocean-depth-prize-challenge-logo.png
 agency-logo: dod_seal.jpg
 challenge-title: Body/Payload Full Ocean Depth Challenge
 tagline: The Navy is seeking ideas and best practices in materials that can withstand undersea challenges. 
