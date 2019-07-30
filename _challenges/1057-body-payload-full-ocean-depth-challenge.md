@@ -1,6 +1,6 @@
 +---
 layout: front-matter-data
-permalink: /challenges/body-payload-full-ocean-depth-challenge/
+permalink: /challenge/body-payload-full-ocean-depth-challenge/
 challenge-id: 1057
 status: open
 sidenav: true
