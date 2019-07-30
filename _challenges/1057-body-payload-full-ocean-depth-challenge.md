@@ -84,8 +84,7 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 <li>the participant’s submissions violating any rights of any other person or entity or any obligation the participant may have with them.</li>
 </ul>
 <p>Compliance with Laws. The participant agrees to follow and comply with all applicable federal, state and local laws, regulations and policies.</p>
-<p>Disclaimers. ALL CONTENT PROVIDED BY THE GOVERNMENT IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. THE GOVERNMENT DISCLAIMS ALL REPRESENTATIONS AND WARRANTIES (EXPRESS OR IMPLIED), INCLUDING ANY WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE GOVERNMENT IS NOT RESPONSIBLE FOR ANY INCOMPLETE, FAILED, OR DELAYED TRANSMISSION OF YOUR APPLICATION INFORMATION OR SUBMISSIONS DUE TO THE INTERNET, INCLUDING INTERRUPTION OR DELAYS CAUSED BY EQUIPMENT OR SOFTWARE MALFUNCTION OR OTHER TECHNICAL PROBLEMS.</p>
-<p>REFERENCE HEREIN TO ANY SPECIFIC COMMERCIAL PRODUCTS, PROCESS, OR SERVICE BY TRADE NAME, TRADEMARK, MANUFACTURER, OR OTHERWISE, DOES NOT CONSTITUTE OR IMPLY ITS ENDORSEMENT, RECOMMENDATION, OR FAVORING BY THE UNITED STATES GOVERNMENT.</p>
+<p>Disclaimers. ALL CONTENT PROVIDED BY THE GOVERNMENT IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. THE GOVERNMENT DISCLAIMS ALL REPRESENTATIONS AND WARRANTIES (EXPRESS OR IMPLIED), INCLUDING ANY WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE GOVERNMENT IS NOT RESPONSIBLE FOR ANY INCOMPLETE, FAILED, OR DELAYED TRANSMISSION OF YOUR APPLICATION INFORMATION OR SUBMISSIONS DUE TO THE INTERNET, INCLUDING INTERRUPTION OR DELAYS CAUSED BY EQUIPMENT OR SOFTWARE MALFUNCTION OR OTHER TECHNICAL PROBLEMS. REFERENCE HEREIN TO ANY SPECIFIC COMMERCIAL PRODUCTS, PROCESS, OR SERVICE BY TRADE NAME, TRADEMARK, MANUFACTURER, OR OTHERWISE, DOES NOT CONSTITUTE OR IMPLY ITS ENDORSEMENT, RECOMMENDATION, OR FAVORING BY THE UNITED STATES GOVERNMENT.</p>
 <p>Severability. If any term (or part of a term) of these terms or rules is invalid, illegal or unenforceable, the rest of the terms or rules will remain in effect.</p>
 <p>Translations. In the event of any discrepancy between the English version of these terms and rules and a translated version, the English version will govern.</p>
 <p>Governing Law. This prize challenge is subject to all applicable federal laws and regulations. ALL CLAIMS ARISING OUT OF OR RELATING TO THESE TERMS WILL BE GOVERNED BY THE FEDERAL LAWS AND REGULATIONS OF THE UNITED STATES OF AMERICA.</p>
@@ -102,28 +101,7 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg}
 
-<div class="judging">
-<p>The Technology Pitch and Technology Demonstration will be presented to NUWCDIVNPT and ONR experts.</p>
-<h3><strong>Judging Criteria</strong></h3>
-<p><strong>Phase I: </strong>The concept white paper must be submitted on time and address/outline the following areas:</p> 
-<ul>
-<li>Knowledge</li>
-<li>Skills</li>
-<li>Capabilities meeting the Challenge.</li>
-</ul>
-<p>A panel of judges will screen all submissions for compliance with the rules and terms and conditions detailed herein.</p> 
-<p><strong>Phase II: </strong>Each of the companies that move onto Phase II will be invited to pitch their proposal to the panel of judges during certain days. In Phase II, companies will be evaluated by the review panel on a scale of 0-25 points (25 being the highest). The evaluation criteria is provided below:</p>
-<p><strong>Phase III: </strong>The offeror shall be evaluated based on the below demonstration criteria:</p>
-<ul>
-<li>Withstanding 10,000 psi Depth Pressure: The pressure test cycle will be 10 cycles to 10,000 psi, holding for 5 min each cycle until the last cycle holds for 30 minutes.</li> 
-<li>Length: The payload section should be approximately 21 inches.</li>
-<li>Nominal Outer Diameter (OD): Nominal OD measure to be 5.125 inches.</li> 
-<li>Minimum Inner Diameter (ID): Minimum ID measured to be at least 4 inches, with larger ID’s successfully pressure tested scoring higher.</li>
-<li>Endcap(s): The internal design space shall be accessible through removable/reusable endcap(s) after successful pressure test is complete.</li>
-<li>Potential Scalability to Larger Diameters: Proposal should demonstrate that design/fabrication approach provides potential scalability to larger diameter shells.</li>
-<li>Factor of safety: Design factor of safety will be considered in evaluation.</li>
-</ul>
-</div>
+
 
 <!--  How To Enter start -->
 ### How To Enter
@@ -131,6 +109,5 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 
 <div class="how-to-enter">
 <p>Entries must be submitted via email to Christopher Hebert christopher.r.hebert@navy.mil by 02:00 Eastern Time on <strong>XX August 2019.</strong> Submissions received after the deadline will not be considered.</p>
-<p>Submissions including attachments shall use the following filename convention:</p>
-<p>Ch.gov user name (e.g., User123X_concept.pdf, User123X_schematic.pdf)</p>
+<p>Submissions including attachments shall use the following filename convention: Ch.gov user name (e.g., User123X_concept.pdf, User123X_schematic.pdf)</p>
 </div>
