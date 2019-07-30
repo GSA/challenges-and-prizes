@@ -33,7 +33,7 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 <div class="description">
 <p>Full Ocean depths (nominally 600m) and long-term exposure to seawater create great challenges in the undersea environment. These challenges restrict the design and capability of weapons, electronics and vehicles both manned and unmanned.</p>
 <p>The goal of this prize challenge is to seek solutions or technology to:</p>
-<p>Design and construct a body/payload section that will survive full ocean depth pressures (6000m/10,000psi).  The body/section shall be cylindrical with at least one removable/reusable end cap, approximately 21” in length, nominal outer diameter of 5.125” with maximized payload volume, and shall be scalable to diameters from 4” to 60”.</p>
+<p>Design and construct a body/payload section that will survive full ocean depth pressures (6000m/10,000psi). The body/section shall be cylindrical with at least one removable/reusable end cap, approximately 21” in length, nominal outer diameter of 5.125” with maximized payload volume, and shall be scalable to diameters from 4” to 60”.</p>
 </div>
 
 <!-- Prizes start -->
@@ -64,7 +64,7 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 <p>NOTE: The Government may negotiate Government Purpose Rights when requesting proposals if an Other Transaction Authority award is contemplated.</p>
 <p>Malware. Each participant warrants that the submission is virus free and free of malware.</p>
 <p>Intellectual Property (IP) Rights. All data submitted under the Prize Challenge will be made available to NAVSEA and parties authorized to act on behalf of the NAVSEA. By accepting these Terms and Conditions, the Participant consents to the use of data submitted to NAVSEA. Any materials submitted to NAVSEA as part of a prize challenge submission become NAVSEA records and will not be returned.</p>
-<p>The use of protective markings such as “Do Not Publicly Release – Trade Secret” or “Do Not Publicly Release – Confidential Proprietary Business Information” in the Header or Footer of the Submission is strongly encouraged where appropriate.  However, Participants should be aware that the use of protective markings is not dispositive as to whether information will be released publicly pursuant to a request for records under the Freedom of Information Act, (FOIA) 5 U.S.C. §552, et. seq., as amended by the OPEN Government Act of 2007, Pub. L. No. 110-175. Any information received from the Participant is considered to be a federal agency record, and as such, subject to public release under FOIA.  Decisions to disclose or withhold information received from a Participant are based on the applicability of one or more of the nine FOIA exemptions, not on the existence or nonexistence of protective markings.  Only the agency’s designated FOIA Officer may determine if information sought under a FOIA request will be withheld pursuant to one or more of the nine FOIA exemptions. All FOIA requests received by NAVSEA are processed in accordance with 10 C.F.R. Part 1004.  Participants will be notified of any FOIA requests for their submissions in accordance with 29 C.F.R. § 70.26. Participants may then have the opportunity to review materials and work with a NAVSEA FOIA representative prior to the release of materials. </p>
+<p>The use of protective markings such as “Do Not Publicly Release – Trade Secret” or “Do Not Publicly Release – Confidential Proprietary Business Information” in the Header or Footer of the Submission is strongly encouraged where appropriate.  However, Participants should be aware that the use of protective markings is not dispositive as to whether information will be released publicly pursuant to a request for records under the Freedom of Information Act, (FOIA) 5 U.S.C. §552, et. seq., as amended by the OPEN Government Act of 2007, Pub. L. No. 110-175. Any information received from the Participant is considered to be a federal agency record, and as such, subject to public release under FOIA.  Decisions to disclose or withhold information received from a Participant are based on the applicability of one or more of the nine FOIA exemptions, not on the existence or nonexistence of protective markings.  Only the agency’s designated FOIA Officer may determine if information sought under a FOIA request will be withheld pursuant to one or more of the nine FOIA exemptions. All FOIA requests received by NAVSEA are processed in accordance with 10 C.F.R. Part 1004.  Participants will be notified of any FOIA requests for their submissions in accordance with 29 C.F.R. § 70.26. Participants may then have the opportunity to review materials and work with a NAVSEA FOIA representative prior to the release of materials.</p>
 <p>By participating in this Challenge, each individual (whether participating singly or in a group) warrants and assures the Government that any data used for the purpose of submitting an entry for this Challenge, were obtained legally through authorized access to such data.</p>
 <p>By participating in this Challenge, each individual (whether participating singly or in a group) warrants and assures the Government that there are no known or pending patents on or related to the technology proposed within the submissions or, if there are known or pending patents, that the patent holder grants to the Government a fully paid, nonexclusive, irrevocable, worldwide license to use, or have used on the Government’s behalf, the patented material.</p>
 <p>Eligibility Requirements. Eligibility is subject to verification by the Government before cash prizes are awarded. Participants (residents or entities) who are designated by the United States Treasury’s Office of Foreign Assets Control are not eligible to receive any cash prize in the Challenge. Participants who are listed, or become listed, on the Eawardxcluded Parties List found on www.sam.gov, have any active exclusions, or are otherwise unable to be deemed responsible in accordance with FAR 9.104-1 based on information available in FAPIIS, are not eligible to receive any cash prize in the Challenge.</p>
@@ -85,15 +85,15 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 </ul>
 <p>Compliance with Laws. The participant agrees to follow and comply with all applicable federal, state and local laws, regulations and policies.</p>
 <p>Disclaimers. ALL CONTENT PROVIDED BY THE GOVERNMENT IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. THE GOVERNMENT DISCLAIMS ALL REPRESENTATIONS AND WARRANTIES (EXPRESS OR IMPLIED), INCLUDING ANY WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE GOVERNMENT IS NOT RESPONSIBLE FOR ANY INCOMPLETE, FAILED, OR DELAYED TRANSMISSION OF YOUR APPLICATION INFORMATION OR SUBMISSIONS DUE TO THE INTERNET, INCLUDING INTERRUPTION OR DELAYS CAUSED BY EQUIPMENT OR SOFTWARE MALFUNCTION OR OTHER TECHNICAL PROBLEMS.</p>
-REFERENCE HEREIN TO ANY SPECIFIC COMMERCIAL PRODUCTS, PROCESS, OR SERVICE BY TRADE NAME, TRADEMARK, MANUFACTURER, OR OTHERWISE, DOES NOT CONSTITUTE OR IMPLY ITS ENDORSEMENT, RECOMMENDATION, OR FAVORING BY THE UNITED STATES GOVERNMENT.</p>
+<p>REFERENCE HEREIN TO ANY SPECIFIC COMMERCIAL PRODUCTS, PROCESS, OR SERVICE BY TRADE NAME, TRADEMARK, MANUFACTURER, OR OTHERWISE, DOES NOT CONSTITUTE OR IMPLY ITS ENDORSEMENT, RECOMMENDATION, OR FAVORING BY THE UNITED STATES GOVERNMENT.</p>
 <p>Severability. If any term (or part of a term) of these terms or rules is invalid, illegal or unenforceable, the rest of the terms or rules will remain in effect.</p>
 <p>Translations. In the event of any discrepancy between the English version of these terms and rules and a translated version, the English version will govern.</p>
 <p>Governing Law. This prize challenge is subject to all applicable federal laws and regulations. ALL CLAIMS ARISING OUT OF OR RELATING TO THESE TERMS WILL BE GOVERNED BY THE FEDERAL LAWS AND REGULATIONS OF THE UNITED STATES OF AMERICA.</p>
 <p>Availability of Funds. The Government’s obligation for prizes under 10 U.S.C. 2374a is subject to availability of appropriated funds from which payment for prize purposes can be made. No legal liability on the part of the Government for any payment of prizes may arise unless appropriated funds are available to the United States Navy for such purposes.</p>
-<h3>Points of Contact:</h3>
+<h3><strong>Points of Contact:</strong></h3>
 <p>For technical and challenge related questions, please send an email to Christopher.r.hebert@navy.mil with “Challenge Title” in the subject line.</p>
 <p>The Government will post all questions and responses on the Federal Business Opportunities (FBO.gov).</p> 
-<p>Contestants should expect that their questions and the Government’s responses will be made available to all those accessing the FBO.gov. </p>
+<p>Contestants should expect that their questions and the Government’s responses will be made available to all those accessing the FBO.gov.</p>
 <p>A deadline for Industry submission of Questions is hereby established. The deadline for prize challenge question submission is 2:00 PM Eastern Time on XX August 2019. After this date and time, the Government may not respond to questions received.</p>
 <p>NUWCDIVNPT reserves the right to cancel, suspend, and/or modify the challenge, or any part of it, if any fraud, technical failures, or any other factor beyond NUWCDIVNPT’s reasonable control impairs the integrity or proper functioning of the challenge, as determined by NUWCDIVNPT in its sole discretion. NUWCDIVNPT is not responsible for, nor is it required to accept, incomplete, late, misdirected, damaged, unlawful, or illicit submissions.</p>
 </div>
@@ -105,18 +105,18 @@ REFERENCE HEREIN TO ANY SPECIFIC COMMERCIAL PRODUCTS, PROCESS, OR SERVICE BY TRA
 <div class="judging">
 <p>The Technology Pitch and Technology Demonstration will be presented to NUWCDIVNPT and ONR experts.</p>
 <h3><strong>Judging Criteria</strong></h3>
-<p><strong>Phase I:</strong> The concept white paper must be submitted on time and address/outline the following areas:<p> 
+<p><strong>Phase I: </strong>The concept white paper must be submitted on time and address/outline the following areas:<p> 
 <ul>
 <li>Knowledge</li>
 <li>Skills</li>
 <li>Capabilities meeting the Challenge.</li>
 </ul>
 <p>A panel of judges will screen all submissions for compliance with the rules and terms and conditions detailed herein.</p> 
-<p><strong>Phase II:</strong> Each of the companies that move onto Phase II will be invited to pitch their proposal to the panel of judges during certain days. In Phase II, companies will be evaluated by the review panel on a scale of 0-25 points (25 being the highest). The evaluation criteria is provided below:</p>
+<p><strong>Phase II: </strong>Each of the companies that move onto Phase II will be invited to pitch their proposal to the panel of judges during certain days. In Phase II, companies will be evaluated by the review panel on a scale of 0-25 points (25 being the highest). The evaluation criteria is provided below:</p>
 <p></p>
 <p></p>
 <p></p>
-<p><strong>Phase III:</strong> The offeror shall be evaluated based on the below demonstration criteria:</p>
+<p><strong>Phase III: </strong>The offeror shall be evaluated based on the below demonstration criteria:</p>
 <ul>
 <li>Withstanding 10,000 psi Depth Pressure: The pressure test cycle will be 10 cycles to 10,000 psi, holding for 5 min each cycle until the last cycle holds for 30 minutes.</li> 
 <li>Length: The payload section should be approximately 21 inches.</li>
@@ -133,11 +133,7 @@ REFERENCE HEREIN TO ANY SPECIFIC COMMERCIAL PRODUCTS, PROCESS, OR SERVICE BY TRA
 {: .text-accent-warm-dark .font-heading-lg}
 
 <div class="how-to-enter">
-<p>Entries must be submitted via email to Christopher Hebert christopher.r.hebert@navy.mil by 02:00 Eastern Time on XX August 2019. Submissions received after the deadline will not be considered.</p>
+<p>Entries must be submitted via email to Christopher Hebert christopher.r.hebert@navy.mil by 02:00 Eastern Time on <strong>XX August 2019.</strong> Submissions received after the deadline will not be considered.</p>
 <p>Submissions including attachments shall use the following filename convention:</p>
 <p>Ch.gov user name (e.g., User123X_concept.pdf, User123X_schematic.pdf)</p>
 </div>
-
-
-
-
