@@ -73,7 +73,7 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 <p>Individuals and organizations that are funded by NAVSEA, but not limited to, any Federally Funded Research and Development Centers and University Affiliated Research Centers (UARCs), or private-sector personnel whose scope of work includes NAVSEA development or administrative support are not eligible to participate in the challenge.</p>
 <p>Taxes. Tax treatment of prizes will be handled in accordance with U.S. Internal Revenue Service guidelines. The winners must provide a U.S. taxpayer identification number (e.g. a social security number) to receive the cash prize.</p>
 <p>Payment. Participants selected as monetary prize winners must submit all required taxpayer identification and bank account information required to complete an electronic payment of the monetary prize. Failure to provide the Government required documents for electronic payment within 30 days of notification by the Government will result in a disqualification of the winning entry.</p>
-<p>Government Right to Cancel, Suspend or Modify Challenge. The Government reserves the right, in its sole discretion, to cancel, suspend or modify the Challenge. These rules may be changed without prior notice, and all participants should monitor https://challenge.gov for the latest information. The Government further reserves the right to select no winners and award no prize money if the Government determines, in its sole discretion, that an award is not in the best interest of the Government.</p> 
+<p>Government Right to Cancel, Suspend or Modify Challenge. The Government reserves the right, in its sole discretion, to cancel, suspend or modify the Challenge. These rules may be changed without prior notice, and all participants should monitor https://www.challenge.gov for the latest information. The Government further reserves the right to select no winners and award no prize money if the Government determines, in its sole discretion, that an award is not in the best interest of the Government.</p> 
 <p>Responsibility for Costs Incurred. Nothing in these rules, to include information on the websites publicizing the award, may be interpreted as authorizing the incurrence of any costs, or modifying the statement of work or authorizing work outside the terms and conditions of any existing agreements or contracts with the Government.</p>
 <p>Participation in this prize challenge is at participant expense. The Government will not be responsible for any costs incurred by the participant, to include submission costs, travel costs, technology demonstration or development costs or any associated costs.</p>
 <p>Release of Claims. The participant agrees to release and forever discharge any and all manner of claims, equitable adjustments, actions, suits, debts, appeals, and all other obligations of any kind, whether past or present, known or unknown, that have or may arise from, are related to or are in connection with, directly or indirectly, this prize challenge or the participant’s submission.</p>
@@ -113,7 +113,7 @@ challenge-manager-email: christopher.r.hebert@navy.mil
   </ul>
 <p>A panel of judges will screen all submissions for compliance with the rules and terms and conditions detailed herein.</p> 
 <p><strong>Phase II: </strong>Each of the companies that move onto Phase II will be invited to pitch their proposal to the panel of judges during certain days.  In Phase II, companies will be evaluated by the review panel on a scale of 0-25 points (25 being the highest). The evaluation criteria is provided below:</p>
-  <p>Phase III: </strong>The offeror shall be evaluated based on the below demonstration criteria:</p> 
+  <p><strong>Phase III: </strong>The offeror shall be evaluated based on the below demonstration criteria:</p> 
 <ul>
   <li>Withstanding 10,000 psi Depth Pressure: The pressure test cycle will be 10 cycles to 10,000 psi, holding for 5 min each cycle until the last cycle holds for 30 minutes.</li>
 <li>Length: The payload section should be approximately 21 inches.</li>
@@ -133,5 +133,6 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 
 <div class="how-to-enter">
 <p>Entries must be submitted via email to Christopher Hebert christopher.r.hebert@navy.mil by 02:00 Eastern Time on <strong>XX August 2019.</strong> Submissions received after the deadline will not be considered.</p>
-<p>Submissions including attachments shall use the following filename convention: Ch.gov user name (e.g., User123X_concept.pdf, User123X_schematic.pdf)</p>
+  <p>Submissions including attachments shall use the following filename convention:</p>
+  <p>Ch.gov user name (e.g., User123X_concept.pdf, User123X_schematic.pdf)</p>
 </div>
