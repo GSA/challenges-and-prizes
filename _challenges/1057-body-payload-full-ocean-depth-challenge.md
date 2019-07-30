@@ -105,7 +105,7 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 <div class="judging">
 <p>The Technology Pitch and Technology Demonstration will be presented to NUWCDIVNPT and ONR experts.</p>
 <h3><strong>Judging Criteria</strong></h3>
-<p><strong>Phase I: </strong>The concept white paper must be submitted on time and address/outline the following areas:<p> 
+<p><strong>Phase I: </strong>The concept white paper must be submitted on time and address/outline the following areas:</p> 
 <ul>
 <li>Knowledge</li>
 <li>Skills</li>
@@ -113,9 +113,6 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 </ul>
 <p>A panel of judges will screen all submissions for compliance with the rules and terms and conditions detailed herein.</p> 
 <p><strong>Phase II: </strong>Each of the companies that move onto Phase II will be invited to pitch their proposal to the panel of judges during certain days. In Phase II, companies will be evaluated by the review panel on a scale of 0-25 points (25 being the highest). The evaluation criteria is provided below:</p>
-<p></p>
-<p></p>
-<p></p>
 <p><strong>Phase III: </strong>The offeror shall be evaluated based on the below demonstration criteria:</p>
 <ul>
 <li>Withstanding 10,000 psi Depth Pressure: The pressure test cycle will be 10 cycles to 10,000 psi, holding for 5 min each cycle until the last cycle holds for 30 minutes.</li> 
