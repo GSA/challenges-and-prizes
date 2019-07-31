@@ -26,7 +26,7 @@ challenge-manager-email: wzb@nist.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>On April 5, we held another live webinar that focused on submission guidelines for RAMP 2018 and improvements to the <a href="https://umpbuilder.nist.gov/" target="_blank" rel="noopener">UMP Builder</a>, an open tool that helps participants record Unit Manufacturing Process models.&nbsp; &nbsp;<a href="https://www.challenge.gov/wp-content/uploads/2018/01/RAMP2018_ExampleSubmission.zip" target="_blank" rel="noopener">An example submission of a Face Milling Model </a>was reviewed to help communicate the required components of a RAMP 2018 submission.&nbsp; &nbsp;A transcript of the Q&amp;A during the live webinar will be made available via the discussion board. You can find <a href="https://www.challenge.gov/wp-content/uploads/2018/01/2018_RAMP_Webinar_2nd.pdf" target="_blank" rel="noopener">a copy of the slides here</a>. <a href="https://www.nist.gov/video/ramp-2018-submission-packet-supporting-tools">You can access the webinar recording here.</a></p>
 <hr />
@@ -49,7 +49,7 @@ challenge-manager-email: wzb@nist.gov
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div>
 <h4>First Place</h4>
@@ -62,7 +62,7 @@ challenge-manager-email: wzb@nist.gov
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>Below, we have provided some key points for your submission.&nbsp; For the further details, see the&nbsp;<a href="https://www.challenge.gov/wp-content/uploads/2018/01/RAMP_Official_Rules_20181.pdf" target="_blank" rel="noopener">Official Rules for RAMP 2018</a>, which include all terms and conditions regarding this challenge.</p>
 <p><strong><u>GUIDELINES FOR YOUR SUBMISSION</u></strong></p>
@@ -132,7 +132,7 @@ challenge-manager-email: wzb@nist.gov
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div>
 <h4>Complexity -&nbsp;15%</h4>

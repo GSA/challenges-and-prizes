@@ -26,7 +26,7 @@ challenge-manager-email: Jared.Smith@oig.hhs.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>Results:</strong> We are pleased to announce the winners of the Statistical Software for Healthcare Oversight Challenge.&nbsp; The grand prize winner and the two finalists were able to create new versions of RAT-STATS that were 508 compliant, replicated the four required RAT-STATS modules, and met all other competition requirements. The Grand Prize winner was selected from the three initial finalists&nbsp;by a panel of 12 users. We have also included additional acknowledgements for the teams that provided the best and the most unique graphical user interfaces (these results have also been posted on the OIG website at <a href="https://oig.hhs.gov/compliance/rat-stats/prize/">https://oig.hhs.gov/compliance/rat-stats/prize/</a>).</p>
 <p><strong>Grand Prize Winner and Finalist: Doug Brown (Team Catalyst) </strong></p>
@@ -51,7 +51,7 @@ challenge-manager-email: Jared.Smith@oig.hhs.gov
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>Grand Prize:&nbsp;$25,000.00</strong></p>
 <p>In addition to the cash payment, winners will be listed on the new version of the RAT-STATS software (once released), on the RAT-STATS download website, and in the RAT-STATS User Manual.</p>
@@ -61,7 +61,7 @@ challenge-manager-email: Jared.Smith@oig.hhs.gov
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>In order to take part in this Challenge participants must create a software package that replicates the operation of four of the functions of the original RAT-STATS software: (1) Single Stage of Random Numbers; (2) Unrestricted Attribute Appraisal; (3) Unrestricted Variable Appraisal; and (4) Stratified Variable Appraisal. The steps required to add additional statistical modules to the software must be reasonable and fully documented, and the submission must contain all of the required elements (refer to the Submissions page for a complete list).</p>
 <p>In addition, participants must agree to the&nbsp;following terms and conditions.</p>
@@ -96,7 +96,7 @@ challenge-manager-email: Jared.Smith@oig.hhs.gov
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>Finalist Criteria</strong></p>
 <p>The first five eligible submissions that comply with the rules of this Federal Register Notice (see also the Rules page of this website), follow the detailed submission instructions, are complete, are able to fully replicate RAT-STATS on 60 target cases, and include a description of a reasonable method for adding additional modules will each be declared a finalist. Once five finalists have been identified, no further entries from teams not previously identified as finalists will be reviewed even if they are submitted prior to the May 15, 2017, 5:00 p.m. EST deadline. Moreover, the contest will end on May 15, 2017, at 5:00 p.m. EST even if fewer than five finalists have been selected.&nbsp;<br /><br />Finalists may update their entries without losing their finalist designation. Updates from the finalists will be accepted until 5:00 p.m. EST on the fourteenth day after the fifth finalist has been identified or May 15, 2017, 5:00 p.m. EST, whichever comes first. The newest entry from each team will be used for all judging purposes unless otherwise requested by the team.&nbsp;</p>
@@ -105,7 +105,7 @@ challenge-manager-email: Jared.Smith@oig.hhs.gov
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>Submissions must be entered electronically using the challenge.gov website and must contain a ZIP file with each of the following elements.</p>
 <p>(1) Executable software that replicates the 4 target RAT-STATS functions: Single Stage of Random Numbers, Unrestricted Attribute Appraisal, Unrestricted Variable Appraisal, and the Stratified Variable Appraisal.</p>

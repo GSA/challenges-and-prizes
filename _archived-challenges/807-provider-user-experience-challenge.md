@@ -29,7 +29,7 @@ challenge-manager-email: adam.wong@hhs.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong style="box-sizing: border-box; color: #333333; font-family: 'Open Sans', sans-serif;">Read the&nbsp;<a style="box-sizing: border-box; background-color: transparent; color: #4a90e2; transition: all 0.25s ease 0s;" href="https://www.hhs.gov/about/news/2017/01/12/onc-announces-winners-consumer-and-provider-app-challenges-improve-health-information-access-and-use"><strong style="box-sizing: border-box;">press release&nbsp;</strong></a><strong style="box-sizing: border-box;">announcing the final, Phase&nbsp;2 winners! Congratulations to them all!</strong></strong><span style="color: #333333; font-family: 'Open Sans', sans-serif;">&nbsp;</span><strong style="box-sizing: border-box; color: #333333; font-family: 'Open Sans', sans-serif;">&nbsp;</strong><span style="color: #333333; font-family: 'Open Sans', sans-serif;">
 The Provider User-Experience (UX)&nbsp;Challenge incents&nbsp;the development of applications that use open, standardized APIs to enable innovative ways for providers to interact with patient health data. This challenge will focus on demonstrating how data made accessible to apps through APIs&nbsp;can positively impact providers&rsquo; experience with EHRs by making clinical workflows more intuitive, specific to clinical specialty, and actionable. The lack of interoperability between electronic health record (EHR) systems remains a significant barrier to the modernization of health IT.&nbsp;</span><a style="box-sizing: border-box; color: #4a90e2; transition: all 0.25s ease 0s; font-family: 'Open Sans', sans-serif;" href="https://www.hl7.org/fhir/overview.html" target="_blank" rel="noopener">Fast Healthcare Interoperability Resources</a><span style="color: #333333; font-family: 'Open Sans', sans-serif;">&nbsp;(FHIR), developed by HL7, is a standard designed to increase the liquidity of granular patient data. The FHIR API allows data to move between vendor systems both within and across different providers, not to mention through third-party applications for direct use by both clinicians and consumers. Among several opportunities now enabled by this interoperability standard are the new channels being opened up for improving a provider&rsquo;s user experience when interacting with EHRs and the &ldquo;consumability&rdquo; of interrelated health data.&nbsp;</span><strong style="box-sizing: border-box; color: #333333; font-family: 'Open Sans', sans-serif;">***Watch the recording of the March 31&nbsp;<a style="box-sizing: border-box; background-color: transparent; color: #4a90e2; transition: all 0.25s ease 0s;" href="http://bit.ly/1SLG1gB">Informational Webinar</a>***</strong><span style="color: #333333; font-family: 'Open Sans', sans-serif;">&nbsp;The challenge has two phases. Phase 1 requires the submission of technical and business plans for the application (app) while Phase 2 requires that a working app be available for consumers. Phase 2 of the competition will not be limited to only those who won Phase 1 &ndash; all Phase 1 competitors, and those who did not participate in Phase 1, can submit a final app at the end of Phase 2.&nbsp;The final application must meet the following requirements:</span></p>
@@ -97,7 +97,7 @@ The Provider User-Experience (UX)&nbsp;Challenge incents&nbsp;the development of
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>Phase 2 First Prize - Herald Health</strong></p>
 <p>$50,000.00</p>
@@ -124,7 +124,7 @@ The Provider User-Experience (UX)&nbsp;Challenge incents&nbsp;the development of
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 <p>The statutory authority for this challenge competition is Section 105 of the America COMPETES Reauthorization Act of 2010 (Public L. No 111-358). <strong>Eligibility Rules for Participating in the Competition:</strong> To be eligible to win a prize under this challenge, an individual or entity:</p>
 <ol>
 <li>Shall have registered to participate in the competition under the rules promulgated by the Office of the National Coordinator for Health Information Technology.</li>
@@ -146,7 +146,7 @@ The Provider User-Experience (UX)&nbsp;Challenge incents&nbsp;the development of
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>Phase 2 - Number, sources, and types of data aggregation using FHIR</strong></p>
 <p>Success in achieving the technical requirements for the challenge</p>
@@ -171,7 +171,7 @@ The Provider User-Experience (UX)&nbsp;Challenge incents&nbsp;the development of
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>Participants will submit:</p>
 <ul>

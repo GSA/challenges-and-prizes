@@ -26,7 +26,7 @@ challenge-manager-email: tammi.marcoullier@nist.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <h3>Background</h3>
 <p>New technologies, including wearable interfaces like heads up displays, smart watches, and biological monitors have the potential to increase first responder safety while enhancing performance. However, variability in current testing procedures/environments pose a challenge in assessing the effectiveness of emerging technologies. To assess the potential of new technologies and compare technologies against each other, NIST is crowdsourcing ideas that use virtual/immersive environments in conjunction with physical spaces to create accurate first responder scenarios and a repeatable test environment for technology evaluation.</p>
@@ -54,7 +54,7 @@ challenge-manager-email: tammi.marcoullier@nist.gov
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>WINNERS</strong></p>
 <p><strong>1st Place</strong></p>
@@ -74,7 +74,7 @@ challenge-manager-email: tammi.marcoullier@nist.gov
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <h3><strong>Official Rules</strong></h3>
 <p>Following are the official rules and terms of participation. This document on Challenge.gov serves as the official record for the NIST Virtual Public Safety Test Environment Challenge. Official entry is through a third-party site, HeroX, <a href="https://herox.com/NISTvr">https://herox.com/NISTvr</a>, and Participants/Innovators must register there to compete in the challenge and submit an entry. No entries will be accepted through Challenge.gov.</p>
@@ -99,7 +99,7 @@ challenge-manager-email: tammi.marcoullier@nist.gov
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div>
 <p><strong>Reality&nbsp;- 20%</strong></p>
@@ -143,7 +143,7 @@ challenge-manager-email: tammi.marcoullier@nist.gov
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <h3>Registration</h3>
 <p>To register for the challenge competition:</p>

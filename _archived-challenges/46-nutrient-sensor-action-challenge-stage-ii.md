@@ -27,7 +27,7 @@ challenge-manager-email: Shaw.Denice@epa.gov
 ---
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 <h3 style="text-align: center;"><strong><a href="https://youtu.be/bJBo9oJtXpk" target="_blank" rel="noopener">Click here</a></strong>&nbsp;to view the full informational webinar from March 15th.</h3>
 <p>EPA, in collaboration with other agencies, is seeking demonstrations of the use of data and information from nutrient sensors to inform decisions and actions that address nutrient management.&nbsp; The total prize amount for this Challenge is $100,000; up to two winning teams will share the prize.&nbsp; This is Stage II of the Challenge; <strong><a href="https://www.challenge.gov/challenge/nutrient-sensor-action-challenge/" target="_blank" rel="noopener">Stage I</a></strong> was a call for action plans, which was completed September 2017.</p>
 <hr />
@@ -225,7 +225,7 @@ challenge-manager-email: Shaw.Denice@epa.gov
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 <p>Up to two winning teams will share the prize of $100,000.</p>
 
 
@@ -234,7 +234,7 @@ challenge-manager-email: Shaw.Denice@epa.gov
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <h4 style="text-align: justify;"><span style="color: #339966;">REQUIREMENTS</span></h4>
 <p style="text-align: justify;"><strong>Registration</strong></p>
@@ -289,7 +289,7 @@ challenge-manager-email: Shaw.Denice@epa.gov
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>Sensors and Monitoring</strong></p>
 <p>The extent to which the project monitoring design, sensor data collection, and analytics are appropriate and effective to inform the decision or action pertaining to the identified nutrient issue.</p>

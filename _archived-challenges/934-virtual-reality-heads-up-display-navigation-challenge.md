@@ -26,7 +26,7 @@ challenge-manager-email: craig.connelly@nist.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>Submissions have been extended to 9 p.m. ET, Monday, Jan. 29.&nbsp;</strong></p>
 <p>Join us for this exciting VR (virtual reality) prize competition using your ingenuity, software coding and VR expertise to create a concept for a heads-up display (HUD) with unimpeded visual aids.&nbsp; The result of the<strong> First Responder Virtual Reality (VR) Heads-up-Display (HUD) Navigation Challenge </strong>will support the public safety community and its stakeholders.</p>
@@ -98,7 +98,7 @@ challenge-manager-email: craig.connelly@nist.gov
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>STAGE 1: CONCEPT PAPER CONTEST</strong></p>
 <p>Congratulations to the 16 winners of Stage 1: Team Easily Immersive - Q Team - Team DeepScience - Team NextGen Interactions - Team Symstemics - Team Screen Door Labs - Team FIST - Team Navteca - Team REI - Team ENGRdynamics - Team MiniSim - Team FactualVR - Team LookOnVRTU - Team IVFR - Team EnhanceVR - Team Intelligent Masks</p>
@@ -111,7 +111,7 @@ challenge-manager-email: craig.connelly@nist.gov
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <h1>OFFICIAL RULES OF CONCEPT PAPER CONTEST (stage 1)</h1>
 <h2>Introduction:</h2>
@@ -515,7 +515,7 @@ challenge-manager-email: craig.connelly@nist.gov
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div>
 <p><strong>Stage 1 Criterion 1: Strategic Alignment &amp; Technical Outcome&nbsp;- 50%</strong></p>
@@ -528,7 +528,7 @@ challenge-manager-email: craig.connelly@nist.gov
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <ul>
 <li>Visit Challenge.gov, review the series of contests in The First Responder VR HUD Navigation Challenge.</li>

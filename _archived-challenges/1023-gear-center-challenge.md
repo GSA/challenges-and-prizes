@@ -28,7 +28,7 @@ challenge-manager-email: amira.boland@gsa.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="description">
                           <p>The Federal government would benefit from better access to a well-integrated set of partners representing diverse industries and sectors to help resolve our toughest management problems. How can the government improve collaboration with leading private sector organizations, state and local governments, researchers, academic institutions, Federal government representatives, and the public? We cannot keep solving problems the same way and expect different results.</p>
@@ -52,7 +52,7 @@ challenge-manager-email: amira.boland@gsa.gov
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
  <div class="prize-item">
         <h4 class="text-primary">Prizes</h4>
@@ -64,7 +64,7 @@ challenge-manager-email: amira.boland@gsa.gov
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="jumbotron description">
         <h4><strong>Eligibility to Participate</strong></h4>
@@ -110,7 +110,7 @@ challenge-manager-email: amira.boland@gsa.gov
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="judging-criterias">
         <div class="prize-item">
@@ -139,7 +139,7 @@ challenge-manager-email: amira.boland@gsa.gov
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="howtoenter">
         <h4><strong>Details on How to Submit Your Solutions Across Each Phase Are Provided Below:</strong></h4>

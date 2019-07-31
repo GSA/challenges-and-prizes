@@ -26,7 +26,7 @@ challenge-manager-email: Marisa.Cruz@fda.hhs.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>In 2014, nearly two million Americans aged 12 or older either abused or were dependent on opioid painkillers, and&nbsp;61% of drug overdose deaths involved either an opioid painkiller or heroin.&nbsp; Naloxone is an antidote for an opioid overdose, whether from prescription opioids or heroin.&nbsp; It is a prescription drug with few side effects that rapidly reverses the effects of opioid overdoses.&nbsp; Although most frequently used in emergency&nbsp;rooms and on ambulances,&nbsp;many states have recently&nbsp;taken steps to make it easier for&nbsp;people in the general public, including family and friends of drug users, to carry and administer naloxone.</p>
 <p>Despite&nbsp;the increasing availability of naloxone,&nbsp;people carrying naloxone&nbsp;are often&nbsp;unaware when&nbsp;an overdose occurs nearby.&nbsp; Currently, there are no mechanisms to alert carriers of naloxone to a person in need of the&nbsp;medication.&nbsp; This is where you come in!</p>
@@ -64,7 +64,7 @@ challenge-manager-email: Marisa.Cruz@fda.hhs.gov
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>First Prize: $40,000.00</strong></p>
 <p>The entrant with the highest score will be awarded a prize of $40,000.</p>
@@ -74,7 +74,7 @@ challenge-manager-email: Marisa.Cruz@fda.hhs.gov
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>Official Rules, Terms and Conditions</p>
 <p><strong>Background</strong></p>
@@ -177,7 +177,7 @@ challenge-manager-email: Marisa.Cruz@fda.hhs.gov
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>JUDGES</strong></p>
 <p><strong>Peter Lurie&nbsp;</strong></p>
@@ -204,6 +204,6 @@ challenge-manager-email: Marisa.Cruz@fda.hhs.gov
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>Thanks for all your enthusiasm and your submissions!&nbsp; The submission window is now closed.&nbsp; All eligible submissions will be judged, and a winner will be announced by the end of the calendar year.&nbsp; Stay tuned!</p>

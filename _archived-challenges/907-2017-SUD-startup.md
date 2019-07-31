@@ -28,7 +28,7 @@ challenge-manager-email: irina.sazonova@nih.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="description">
   <p><strong>CHALLENGE SUMMARY</strong></p>
@@ -55,13 +55,13 @@ challenge-manager-email: irina.sazonova@nih.gov
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>The Challenge will offer up to ten awards of $10,000 each and provide mentorship support from NIDA entrepreneurship experts for MVP development. The total prize award pool is up to $100,000. No institutional indirect costs are allowed. Winners are encouraged to submit the minimum viable proof (MVP) report 6 months after the prize payment. The names of the winners and the titles of their submissions will be posted on the NIDA web site. The award approving official for this Challenge is the Director of the National Institute on Drug Abuse.</p>
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="description">
   <p><strong><u>Submission Requirements.</u></strong> </p>
@@ -112,7 +112,7 @@ challenge-manager-email: irina.sazonova@nih.gov
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="judging-criterias">
         <div class="prize-item">
@@ -143,7 +143,7 @@ challenge-manager-email: irina.sazonova@nih.gov
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <ol>
 <li>Review the full challenge details, rules for participation and submission requirements.</li>

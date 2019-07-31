@@ -26,14 +26,14 @@ Challenge Manager Email: michael.j.karlbom1@navy.mil
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>The Naval Information Warfare Systems Command (NAVWARSYSCOM) and the Program Executive Office for Command, Control, Communications, Computers, and Intelligence (PEO C4I) are conducting the Artificial Intelligence Applications to Autonomous Cybersecurity (AI ATAC), pronounced &ldquo;AI attack&rdquo; Challenge (hereinafter referred to as &ldquo;the Challenge&rdquo;). The Navy&rsquo;s Information Assurance and Cybersecurity Program Office (PMW 130) seeks to automate the Security Operations Center (SOC) using artificial intelligence and machine learning (AI/ML) beginning with the endpoint.&nbsp; Modern malware strains, especially sophisticated malware created by advanced persistent threat (APT) groups, have shown capabilities that mutate faster than signature-based protection tools can adapt. PMW 130 solicits white papers describing endpoint-based security technologies and the corresponding tool for evaluation in the AI ATAC Prize Challenge competition.</p>
 <p><a href="{{ site.baseurl }}/assets/document-library/AI ATAC Prize Challenge FAQ Document 1- 23JUL19.pdf">See FAQs for this challenge.</a></p>
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>The Challenge winners will be notified via email. NAVWARSYSCOM will announce the winners on the Challenge.gov website and via appropriate channels.</p>
 <p>NAVWARSYSCOM has established $150,000 as the total amount set aside for cash prizes under this Challenge. A $100,000 first place cash prize will be awarded to the winning entry. A $50,000 second place cash prize will be awarded to the second place winner.&nbsp; In the unlikely event of a tie, NAVWARSYSCOM will determine an equitable method of distributing the cash prizes.</p>
@@ -43,7 +43,7 @@ Challenge Manager Email: michael.j.karlbom1@navy.mil
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>Each Participant (individual Participant, team of Participants, or commercial entity) shall submit one entry in response to this Challenge. Team entries or commercial entity entries must have an individual identified as the primary point of contact and prize recipient. By submitting an entry, a Participant authorizes his or her name to be released to the media if the Participant wins the prize.</p>
 <p>The submission package must include:</p>
@@ -89,7 +89,7 @@ Challenge Manager Email: michael.j.karlbom1@navy.mil
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>Scope: </strong></p>
 <p>The Challenge evaluation will focus on AI/ML technologies that detect malware on an endpoint. The following describes the scope of the candidate technologies:</p>
@@ -170,6 +170,6 @@ Challenge Manager Email: michael.j.karlbom1@navy.mil
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>See the Rules section for submission guidelines.</p>

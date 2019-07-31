@@ -26,7 +26,7 @@ challenge-manager-email: adanner@usbr.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>All questions, registrations, and official entries are found via the <a href="https://www.innocentive.com/ar/challenge/9933882">InnoCentive</a> website, which opens on the date of launch.&nbsp; </strong><strong>See official rules, terms and conditions on InnoCentive website.</strong></p>
 <p>The Bureau of Reclamation (Reclamation), the Seeker for this Challenge, plays a significant role in managing the Colorado River. Reclamation relies on a broad range of Colorado River Basin (CRB) data to support short-term water management and long-term planning, including data on historical, current, and projected weather and climate conditions, reservoir storage and releases, streamflows, and diversions.</p>
@@ -37,18 +37,18 @@ challenge-manager-email: adanner@usbr.gov
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>The Seeker has a&nbsp;total cash prize purse of $60,000. The Challenge cash prize awards will be contingent upon critical analysis and evaluation by the Seeker (Reclamation) and the judging panel appointed by the Seeker.&nbsp; The top submissions that meet or exceed the Solution Requirements will receive cash prize awards no less than $5,000 with a single cash prize award being as high as $20,000.&nbsp; No cash prizes are guaranteed unless they meet or exceed the Solution Requirements.&nbsp; Partial cash prizes will be considered for solutions that meet some, but not all, of the requirements.&nbsp; In addition, the Solvers with the top three submissions may be invited to present their visualizations for stakeholders online or at an in-person meeting. If the meeting is in-person, Reclamation will include an additional $1,500 for associated travel expenses if the winner agrees to present.</p>
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>All questions, registrations, and official entries are found via the <a href="https://www.innocentive.com/ar/challenge/9933882">InnoCentive</a> website, which opens on the date of launch.&nbsp; </strong><strong>See official rules, terms and conditions on InnoCentive website.</strong></p>
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>All questions, registrations, and official entries are found via the <a href="https://www.innocentive.com/ar/challenge/9933882">InnoCentive</a> website, which opens on the date of launch.&nbsp; </strong><strong>See official rules, terms and conditions on InnoCentive website.</strong></p>

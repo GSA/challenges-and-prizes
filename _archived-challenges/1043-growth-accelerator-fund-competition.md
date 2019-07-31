@@ -26,7 +26,7 @@ challenge-manager-email: steven.becker@nih.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>SUMMARY:</strong> The U.S. Small Business Administration (SBA) announces the 2019 Growth Accelerator Fund Competition, pursuant to the America Competes Act, to recognize the nation&rsquo;s most innovative accelerators and award them cash prizes they may use to fund their operations costs focused towards helping entrepreneurs apply for Government R&amp;D funding. Prize competition applications consist of a brief twelve-slide presentation and an optional two-minute video.</p>
 <p><strong>OVERVIEW:</strong> SBA is seeking to identify the nation's most innovative and promising small business accelerators and incubators that work with high tech entrepreneurs that are potential SBIR or STTR program applicants (see more information about SBIR/STTR below). These accelerators and incubators help entrepreneurs speed the launch, growth, and scale of their businesses and, ultimately, the creation of jobs. <strong>The Competition awards will infuse the accelerators and incubators with additional resource capital to help these entities provide focused assistance to high tech entrepreneurs, including support for company formation as well as awareness and education of the SBIR and STTR programs.</strong></p>
@@ -38,7 +38,7 @@ challenge-manager-email: steven.becker@nih.gov
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong><span lang="EN">Prizes for Winners:</span></strong><span lang="EN"> In total, SBA will award up to 60 prizes of $50,000 each for a total of up to $3 million in prizes under this announcement.</span></p>
 <p><span lang="EN">Prizes will be disbursed in two payments via the Automated Clearing House (ACH): </span></p>
@@ -55,7 +55,7 @@ challenge-manager-email: steven.becker@nih.gov
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><span style="text-decoration: underline;"><strong><span lang="EN">Eligibility Rules for Participating in the Competition</span><span lang="EN">:</span></strong></span><span lang="EN">&nbsp;This Competition is open to established private entities, such as corporations or nonprofit organizations that are already incorporated, have been in business for at least two years, and maintain a primary place of business and operations in the United States.&nbsp; Entities that have an outstanding, unresolved financial obligation to, or that are currently suspended or debarred by, the Federal Government are not eligible for this Competition. Federal, state, local and tribal agencies are also not eligible for this Competition.</span></p>
 <p><strong><span lang="EN">Entrepreneur Groups</span></strong><span lang="EN"><strong>:</strong> Participants in this Competition must target at least 60 percent of the Growth Accelerator&rsquo;s effort under this funding opportunity to entrepreneurs of <span style="text-decoration: underline;"><strong>one</strong></span> of the following groups: </span></p>
@@ -281,7 +281,7 @@ challenge-manager-email: steven.becker@nih.gov
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong><span lang="EN">Selection of Winners:</span></strong><span lang="EN"> Applications will be reviewed for eligibility and completeness (see Rules section).&nbsp; If an applicant does not meet the eligibility criteria and does not provide the basic contact details and the information outlined for the PowerPoint presentation/deck (see Rules section), the application will be deemed ineligible.</span></p>
 <p><span lang="EN">Eligible applications will be evaluated by a review committee that may be compromised of SBA officials, including District Office employees, other federal agencies, and/or private sector experts. Winners will be selected based upon how well they address the criteria identified in Items 1, 2, and 3 of this Competition announcement.&nbsp;&nbsp;</span></p>
@@ -289,7 +289,7 @@ challenge-manager-email: steven.becker@nih.gov
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong><span lang="EN">Registration and Entry Submission Process for Contestants</span><span lang="EN">:</span></strong><span lang="EN"><strong>&nbsp;</strong>Contestants must submit their 2019 Growth Accelerator Fund Competition applications online using the link designated for that purpose on&nbsp;</span><span lang="EN"><a href="http://www.sbir.gov/accelerators" target="_blank" rel="noopener">www.sbir.gov/accelerators</a></span><span lang="EN">,</span><span lang="EN">&nbsp;where the link will be posted on June 10, 2019. </span><span lang="EN">Applications may not include any confidential and/or proprietary information. No organization may submit more than one entry to the Competition.</span></p>
 <p><strong>For &ldquo;Information/Documents to Be Included as Part of Application,&rdquo; please refer to the &ldquo;Rules&rdquo; section.</strong></p>

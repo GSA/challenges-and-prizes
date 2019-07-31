@@ -26,7 +26,7 @@ challenge-manager-email: craig.schlenoff@nist.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>The Agile Robotics for Industrial Automation Competition, ARIAC, addresses a critical limitation of robots used in industrial environments like factory floors: they are not as agile as they need to be. Many robots are not able to quickly detect failures, or recover from those failures. They aren't able to sense changes in their environment and modify their actions accordingly. Programming these robots for even the simplest tasks takes time and effort. Help solve this problem by coding your own robot control system (software) that can outperform everyone else's in a simulated environment! Compete to win $17,500 in cash prizes and the opportunity to showcase your solution at a future robotics conference. Timeline for Competition:</p>
 <ul>
@@ -37,7 +37,7 @@ challenge-manager-email: craig.schlenoff@nist.gov
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>1st Place:&nbsp;</strong>$10,000.00</p>
 <p>Sirius. Dan Barry, Denbar Robotics.</p>
@@ -48,7 +48,7 @@ challenge-manager-email: craig.schlenoff@nist.gov
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p style="text-align: center;"><strong>Rules of the ARIAC Prize Competition</strong></p>
 <p><strong>Subject of the Competition:</strong></p>
@@ -237,7 +237,7 @@ challenge-manager-email: craig.schlenoff@nist.gov
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>JUDGES</strong></p>
 <p><strong>William Flannigan:</strong> Senior Manager of Advanced Robotics, Amazon Robotics</p>
@@ -251,7 +251,7 @@ challenge-manager-email: craig.schlenoff@nist.gov
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <ol>
 <li>Register at the&nbsp;<a href="http://www.nist.gov/ariac" target="_blank" rel="noopener">ARIAC Website</a></li>

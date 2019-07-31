@@ -26,7 +26,7 @@ challenge-manager-email: terese.manley@nist.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <h2><em>Submissions are in...Stage 1 is closed!&nbsp; </em></h2>
 <h2><em>Check back for winner information Sept 12th</em></h2>
@@ -58,7 +58,7 @@ challenge-manager-email: terese.manley@nist.gov
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>Stage 1 Concept Paper: $50,000.00</strong></p>
 <p>$15k Grand Prize - $10k Runner up - $5k Honorable Mention - $5k (x4) People's Choice</p>
@@ -67,7 +67,7 @@ challenge-manager-email: terese.manley@nist.gov
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>Challenge-Specific Agreement</strong> <strong>PLEASE READ THIS CAREFULLY! You ("Innovator&rdquo; or &ldquo;Participant&rdquo;) and NIST ("Challenge Sponsor&rdquo;) are entering into this Challenge-Specific Agreement ("CSA&rdquo;) for this particular incentive-based competition ("Challenge&rdquo;) only. In order to participate in this Challenge, Innovator must accept these terms, and therefore should take the time to understand them. This CSA includes the NIST Official Rules.</strong></p>
 <p>1.&nbsp; &nbsp;If Innovator clicks "Accept" and proceeds to register for this Challenge, this CSA will be a valid and binding agreement between Innovator and Challenge Sponsor, and is in addition to the existing HeroX Terms of Use for all purposes relating to this Challenge. Innovator should print and keep a copy of this CSA. No provisions that Innovator may have agreed to that are specific to any other individual challenge will apply. In the event of any discrepancy or inconsistency between the terms and conditions of the official rules and disclosures or other statements contained in any Competition materials, including but not limited to the Competition submission form, Competition website and use terms, HeroX terms of participation, advertising (including but not limited to television, print, radio or online ads), <strong>the terms and conditions of the NIST Official Rules on <a href="https://www.challenge.gov/challenge/the-unlinkable-data-challenge-advancing-methods-in-differential-privacy/">Challenge.gov</a></strong><strong>&nbsp;as specified within this Challenge Specific Agreement shall control.</strong></p>
@@ -113,7 +113,7 @@ challenge-manager-email: terese.manley@nist.gov
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div>
 <p><strong>Analysis Class - Regression: Differential Privacy Capability and Utility&nbsp;- 15%</strong></p>
@@ -154,7 +154,7 @@ challenge-manager-email: terese.manley@nist.gov
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <h1>How do I win?</h1>
 <p>NOTE:&nbsp;All submissions for this challenge must be made on the&nbsp;<a href="https://web.archive.org/web/20180503113247/https://www.herox.com/UnlinkableDataChallenge">HeroX website</a>.</p>

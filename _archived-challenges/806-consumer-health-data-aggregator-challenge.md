@@ -26,7 +26,7 @@ challenge-manager-email: adam.wong@hhs.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>***Read the&nbsp;<a href="https://www.hhs.gov/about/news/2017/01/12/onc-announces-winners-consumer-and-provider-app-challenges-improve-health-information-access-and-use">press release</a>&nbsp;announcing the final, Phase&nbsp;2 winners! Congratulations to them all!***&nbsp;&nbsp;&nbsp;</strong></p>
 <p>The Consumer Health Data Aggregator Challenge is intended to spur the development of third-party, consumer-facing applications that use open, standardized APIs to help consumers aggregate their data in one place and under their control. This challenge will focus on solving the problem that many consumers have today &ndash; the ability to easily and electronically access their health data from different health care providers using a variety of different health IT systems.</p>
@@ -101,7 +101,7 @@ challenge-manager-email: adam.wong@hhs.gov
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>Phase 2 First Prize - PatientLink Enterprises</strong></p>
 <p>$50,000.00</p>
@@ -126,7 +126,7 @@ challenge-manager-email: adam.wong@hhs.gov
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>The statutory authority for this challenge competition is Section 105 of the America COMPETES Reauthorization Act of 2010 (Public L. No 111-358). <strong>Eligibility Rules for Participating in the Competition: </strong> To be eligible to win a prize under this challenge, an individual or entity:</p>
 <ol>
@@ -149,7 +149,7 @@ challenge-manager-email: adam.wong@hhs.gov
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>Phase 2 - Number, sources, and types of data aggregation using FHIR</strong></p>
 <p>Success in achieving the technical requirements for the challenge</p>
@@ -170,7 +170,7 @@ challenge-manager-email: adam.wong@hhs.gov
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>Participants will submit:</p>
 <ul>

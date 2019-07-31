@@ -28,7 +28,7 @@ challenge-manager-email: sdockum@nifa.usda.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="description">
   <p><strong>SUMMARY:</strong></p>
@@ -74,7 +74,7 @@ challenge-manager-email: sdockum@nifa.usda.gov
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="prize-item">
         <h4 class="text-primary">2017 Innovations in Food and Agricultural Science and Technology (I-FAST) Prize Competition</h4>
@@ -88,7 +88,7 @@ challenge-manager-email: sdockum@nifa.usda.gov
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="rules">
 <p><strong>Eligibility Rules for Participating in the Competition: </strong></p>
@@ -122,7 +122,7 @@ challenge-manager-email: sdockum@nifa.usda.gov
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="howtoenter">
   <p>(Only Selected Pre-Applicants are Eligible)</p>

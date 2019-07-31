@@ -23,14 +23,14 @@ prizes: true
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 <p><span lang="EN">Fifty-three percent (53%) of small business owners report there &ldquo;are few or no qualified applicants for the positions they [are] trying to fill.&rdquo; The U.S. Department of Labor estimates that there are millions of unfilled jobs in the United States. Moreover, many businesses not only face a challenge when attempting to find individuals with the technical or hard skills needed to perform the work required by their industries, but also have difficulty finding individuals with the soft skills necessary to be successful in the workplace.&nbsp;</span></p>
 <p><span lang="EN">SBA believes that existing Makerspaces are uniquely positioned to help address this problem.&nbsp; The non-profit organization Maker City posits a strong connection between makerspaces and workforce development in U.S. cities, with numerous benefits including: embracing independent work and self-employment, focus on new forms of vocational education, opportunity to focus on &ldquo;jobs in the middle&rdquo; which match makers to those seeking traditional employment, development of new forms of apprenticeship, and a shift to new forms of credentials.&nbsp;&nbsp; SBA proposes a pilot program that will utilize existing Makerspaces to provide the necessary job specific and soft skills training and, to the extent feasible, any required industry or trade certifications (the &ldquo;MaTCH Pilot Competition&rdquo;).&nbsp; The goal of the The Makerspace Training, Collaboration, and Hiring (MaTCH) Pilot Competition, upon successful completion of the training program, is to have all program graduates immediately placed in positions with previously identified employers that are in need of skilled labor and have committed to employing a set number of program graduates.</span></p>
 <p>For more information, <a href="https://www.sba.gov/match/match-competition-faq">view MaTCH Competition FAQs</a>.</p>
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 <p><span lang="EN">The Competition will award up to $1 million in total prizes, based on the following tiered approach:</span></p>
 <div style="padding-left: 30px;"><span lang="EN">a) <strong>Seed:</strong></span><span lang="EN">&nbsp;up to $25,000 will be awarded to seed small workforce development programs.</span></div>
 <div style="padding-left: 30px;"><span lang="EN">b) <strong>Proof of Principle:</strong></span><span lang="EN">&nbsp;up to $100,000 will be awarded to grow programs that have a proven program with a history of training and/or workforce development.</span></div>
@@ -46,7 +46,7 @@ prizes: true
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 <p><strong><span lang="EN">Eligibility Rules</span></strong></p>
 <p><span lang="EN">This Competition is open only to: (1) citizens or permanent residents of the United States who are at least eighteen (18) years of age at the time of their submission of an entry (or teams of such individuals); and (2) private entities, such as corporations or other organizations, both for profit and nonprofit, that are incorporated or organized in and maintain a primary place of business in the United States. Individuals submitting on behalf of corporations, nonprofits, or other organizations or groups of individuals (such as an academic class or other team) must meet the eligibility requirements for individual contestants. An individual cannot belong to more than one team submitting an entry in this Competition. SBA employees and contractors are not eligible, nor are Federal entities or Federal employees acting within the scope of their employment. Individuals or organizations that are currently suspended or debarred by the federal government are not eligible for this Competition.&nbsp;&nbsp; Only Makerspaces that have been in existence and in operation for a minimum period of two (2) years prior to the date of submission will be considered eligible to provide the contemplated program training.</span></p>
 <p><span lang="EN">Makerspaces that support businesses or individuals engaged in any activity that is illegal under federal, state, or local law or that can reasonably be determined to support or facilitate any activity that is illegal under federal, state, or local law are ineligible for this competition.</span></p>
@@ -101,7 +101,7 @@ prizes: true
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 <p><span lang="EN">The SBA is launching the MaTCH Pilot Competition in order to address the job skills and placement problem faced by U.S. businesses. To be considered for selection, a proposed solution must leverage an existing Makerspace to provide vocational training programs (including job specific skills and soft skills training) that meet the minimum standards of the specific trade and, to the extent feasible, any required industry or trade certifications, in addition to targeted job placement of program graduates in local businesses.Additional factors may be considered, such as, but not limited to: (i)when appropriate, the offering of shared resources, including temporary staffing at no or reduced cost, to certain employers; (ii) when necessary, practical training and assistance in personnel management for certain employers; (iii) whether the Makerspace and/or the jobs to be filled are located in an Opportunity Zone<sup>1</sup>; (iv) presentation of opportunities for individuals with disabilities; and (v) presentation of opportunities for formerly incarcerated individuals.Proposed solutions must meet the forgoing requirements supported by documentation that includes the following:</span></p>
 <div style="padding-left: 30px;"><!-- [if !supportLists]--><span lang="EN">a)&nbsp;</span><span lang="EN">Detailed description of the approach to training and the establishment of a training program that, among other things: (i) identifies the industry or trade sector that will be the focus of the training, describes the minimum standards to be met during the training, and the associated rationale;&nbsp; (ii) identifies the unemployed or underemployed population segments that were targeted for training, the methodology used to recruit the trainees, and the number of individuals that will be in the training class; (iii) identifies the methodology and process used to identify prospective employers and secure the required commitments from these businesses to hire the program graduates; and (iv) includes a detailed budget that describes the funds that will be required to accomplish the objectives of the training and placement program and precisely how those funds will be allocated and utilized (25%);</span></div>
 <div style="padding-left: 30px;"><span lang="EN">b)&nbsp;</span><span lang="EN">Certificates of Placement or other written evidence from one or more employers that, taken together, demonstrate a reasonable commitment to employ program graduates immediately upon completion of the program. Such commitments may be secured with the assistance of local or national trade associations or other organizations that can assist in identifying and securing a commitment from potential employers (25%); </span></div>
@@ -115,6 +115,6 @@ prizes: true
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 <p>For more information and to enter the competition, visit:&nbsp;</p>
 <p class="MsoNormal"><span lang="EN"><a href="https://www.sba.gov/match?utm_source=govdelivery&amp;utm_medium=email&amp;utm_campaign=makerspace_challenge" target="_blank" rel="noopener">https://www.sba.gov/match?utm_source=govdelivery&amp;utm_medium=email&amp;utm_campaign=makerspace_challenge</a></span></p>

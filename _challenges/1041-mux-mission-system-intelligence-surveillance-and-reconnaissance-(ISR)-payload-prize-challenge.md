@@ -28,7 +28,7 @@ challenge-manager-email:
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 
 <div class="description">
@@ -42,7 +42,7 @@ challenge-manager-email:
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="prize-item">
 <h4 class="text-primary">Breakdown</h4>
@@ -56,7 +56,7 @@ challenge-manager-email:
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="jumbotron description">
  <p><span lang="EN">Detailed submission requirements, including terms and conditions, are provided at </span><span lang="EN"><a href="http://www.navair.navy.mil/muxchallenge" target="_blank" rel="noopener">http://www.navair.navy.mil/muxchallenge</a></span></p>
@@ -64,7 +64,7 @@ challenge-manager-email:
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="judging-criterias">
 <div class="prize-item">
@@ -74,7 +74,7 @@ challenge-manager-email:
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="jumbotron description">
  <p><span lang="EN">Please visit </span><span lang="EN"><a href="http://www.navair.navy.mil/muxchallenge" target="_blank" rel="noopener">http://www.navair.navy.mil/muxchallenge</a></span>&nbsp;to learn more about the prize challenge, submission requirements, evaluation criteria, MBSE model descriptions, and terms and conditions.&nbsp;</p>

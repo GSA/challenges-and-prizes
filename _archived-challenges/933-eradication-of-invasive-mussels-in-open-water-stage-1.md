@@ -26,7 +26,7 @@ challenge-manager-email: kwhitford@usbr.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <h4>This launches Stage 1 of a planned three-stage competition, that culminates in a Grand Prize Challenge including field-scale demonstrations.</h4>
 <p>The Bureau of Reclamation is seeking innovative solutions to eradicate invasive zebra and quagga mussels from large reservoirs, lakes, and rivers in a cost effective and environmentally sound manner. Invasive mussel infestations pose significant logistical and economic challenges for local communities, recreationists and water managers. Currently, no practical methods exist for large-scale control of invasive dreissenid mussel populations once they become widely established in a lake or reservoir (referred to as &ldquo;open-water&rdquo;). Solutions can be novel treatments or approaches that build upon existing treatments.</p>
@@ -35,18 +35,18 @@ challenge-manager-email: kwhitford@usbr.gov
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>Stage 1 is a Theoretical Challenge that requires only a written proposal to be submitted. The Seeker (Reclamation) has a total cash prize purse budget of $100,000 for Stage 1.&nbsp;The minimum full award amount is $15,000. The Seeker can allocate higher individual award amounts up to the prize purse of $100,000, as it deems appropriate. The Challenge award will be contingent upon critical analysis and evaluation by the Seeker and the judging panel appointed by the Seeker.&nbsp;A total of up to five awards can be made for the highest ranked submissions meeting or exceeding the Solution Requirements.&nbsp;As such, the meeting of the Solution Requirements does not guarantee that the proposal will be awarded by the Seeker. Partial cash prizes may be considered for solutions that meet some, but not all, of the criteria.</p>
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>All questions, registrations, and official entries are found via the <a href="https://www.innocentive.com/ar/challenge/9933880" target="_blank" rel="noopener">InnoCentive</a> website, which opens on the date of launch.</strong></p>
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>All questions, registrations, and official entries are found via the <a href="https://www.innocentive.com/ar/challenge/9933880" target="_blank" rel="noopener">InnoCentive</a> website, which opens on the date of launch.</strong></p>
