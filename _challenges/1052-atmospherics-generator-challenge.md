@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/atmospherics-generator-challenge/
 challenge-id: 1052
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/MGMWERX_challenge_logo.png
 agency-logo: dod_seal.jpg
