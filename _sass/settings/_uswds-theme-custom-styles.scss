@@ -152,6 +152,11 @@ h3 a {
 	}
 }
 
+// Challenge details main section
+.challenge-main {
+	margin-bottom: 30rem; // used to activate the last 'active' link in the sidebar
+}
+
 // Challenge Details Accordian
 .usa-accordion__button--primary-darkest {
 	background-image: url("#{$theme-image-path}/angle-arrow-up-white.svg");
