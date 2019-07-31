@@ -26,7 +26,7 @@ Challenge Manager Email: info@mgmwerx.org
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>We are seeking to rapidly innovate and prototype a web-based platform to ingest globally available data and based upon user inputs for desired topics of focus, synthesize relevant information for enhanced operational awareness and improved decision-making.&nbsp; The tool should depict the information graphically in a way to promote intuitive appreciation for the relevant connections between different elements of information.&nbsp; The desired product may incorporate vetting of source contributors but should allow for machine-based learning to increase speed of information synthesis and enhance data quality and accuracy over time.</p>
 <p>With the digital explosion of data and information, leaders in complex organizations find it increasingly difficult to find, glean, and absorb information relevant to the issues they confront on a daily basis.&nbsp; At the same time, emerging technology in the fields of Artificial Intelligence, Virtual Reality, Augmented Reality will almost certainly offer potential solutions to mitigate the information overload problem.</p>
@@ -48,7 +48,7 @@ Challenge Manager Email: info@mgmwerx.org
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <ul>
 <li>A chance to secure funding for prototype development and experimentation work;</li>
@@ -59,14 +59,14 @@ Challenge Manager Email: info@mgmwerx.org
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>Additional Challenge information as well as the submission page is found at: https://mgmwerx.org/mgmwerx-challenge/atmospherics-generator-challenge/</p>
 <p>For questions about the challenge, please email: info@mgmwerx.org</p>
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>During this phase, a team of USAF customers will review solution proposals. The top solution(s) meeting the specified requirements will be invited to participate in a design sprint phase beginning in late August 2019.</p>
 <div>Selection Phase Start: 8/01/2019</div>
@@ -75,6 +75,6 @@ Challenge Manager Email: info@mgmwerx.org
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>Those proposing solutions should submit their white papers by way of the MGMWERX challenge website:&nbsp;<a href="https://mgmwerx.org/mgmwerx-challenge/atmospherics-generator-challenge/">https://mgmwerx.org/mgmwerx-challenge/atmospherics-generator-challenge/</a></p>

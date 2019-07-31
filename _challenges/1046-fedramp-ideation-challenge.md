@@ -26,7 +26,7 @@ Challenge Manager Email: janelle.thalls@gsa.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>Although agencies are adopting secure cloud technologies at record-high levels, challenges remain within the FedRAMP process and across the FISMA and Risk Management Framework.&nbsp;</p>
 <p>The <a href="http://www.fedramp.gov" target="_blank" rel="noopener">Federal Risk and Authorization Management Program (FedRAMP)</a> strives to continuously improve how we support our customers. In an effort to enhance and evolve our program, the FedRAMP Program Management Office (PMO) seeks to leverage the power and insights of the cybersecurity community. Respondents have the opportunity to help guide what the PMO takes on next and ensure that the government keeps federal data secure while bolstering modernization efforts.</p>
@@ -70,7 +70,7 @@ Challenge Manager Email: janelle.thalls@gsa.gov
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <ul>
 <li>FedRAMP will not respond to each submission individually, but may reach out via email to individual submitters for clarification if needed.</li>
@@ -83,7 +83,7 @@ Challenge Manager Email: janelle.thalls@gsa.gov
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>Challenge participants are encouraged to submit any idea that could improve and benefit the authorization process. No idea is too small!&nbsp;</p>
 <p>Participants should submit their idea to <a href="mailto:info@fedramp.gov">info@fedramp.gov</a> by 5pm EDT August 22, 2019 with the subject line: &ldquo;FedRAMP Challenge Response.&rdquo; Submissions should be no more than two pages, 11 point Arial font, attached to the message as a PDF or Word document.&nbsp;</p>

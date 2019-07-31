@@ -23,7 +23,7 @@ prizes: true
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 <p><strong>Challenge Summary</strong></p>
 <p>The &ldquo;Improving Care for People with Alzheimer&rsquo;s Disease and Related Dementias Using Technology (iCare-AD/ADRD)&rdquo; Challenge is a Eureka prize competition in which the National Institute on Aging (NIA), part of the National Institutes of Health, rewards and spurs the development of solutions for a technology-based application, fostering connections between relevant stakeholders to use technology, or the development of new technology applications to improve dementia care coordination and/or care navigation. Though the solution should foster connections between relevant stakeholders to use technology or develop new technology applications, it may be targeted at consumers (persons with dementia (PWD), caregivers), healthcare providers, healthcare service organizations, and/or health systems, and/or community, local, or state governments. Specific methods for stimulating uptake and use of the product must be included with the working proof-of-concept demonstration. Please see the &ldquo;Submission Requirements and Template&rdquo; section for the necessary submission information.</p>
 <p><strong>Challenge Description</strong></p>
@@ -41,7 +41,7 @@ prizes: true
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 <p>The total prize purse for this Challenge is up to $400,000. Up to 3 winners will be awarded.</p>
 <p>The first-place winner will receive up to $250,000, the second-place winner will receive up to $100,000, and the third-place winner will receive up to $50,000. Additional solvers may be recognized with non-monetary awards.</p>
 <p>The NIH reserves the right to cancel, suspend, and/or modify this Challenge at any time by amending the Announcement Notice on NIA&rsquo;s iCare-AD/ADRD website and iCare-AD/ADRD page on challenge.gov. In addition, the NIH reserves the right to not award any prizes if no solutions are deemed worthy.</p>
@@ -49,7 +49,7 @@ prizes: true
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 <p>All details related to rules and eligibility are defined on&nbsp;<strong><a href="https://nia.nih.gov/challenge-prize">NIA&rsquo;s challenge details</a></strong>&nbsp;page. Only complete applications will be reviewed.</p>
 <p><strong>To participate:</strong></p>
 <ul>
@@ -69,7 +69,7 @@ prizes: true
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 <ul type="disc">
 <li>Go to NIA&rsquo;s challenge details page (<a href="https://nia.nih.gov/challenge-prize" target="_blank" rel="noopener">https://nia.nih.gov/challenge-prize</a>) and see &ldquo;Submission Requirements and Template.&rdquo;</li>
 <li>Solvers must submit their solutions via email to NIAPrizeInput@nih.gov. Use the application template to format your submissions.</li>

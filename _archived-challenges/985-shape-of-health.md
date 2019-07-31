@@ -26,7 +26,7 @@ challenge-manager-email: Ann.Abercrombie@hhs.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>The Office on Women&rsquo;s Health (OWH) is seeking new ways to get health messages out to women and girls. According to the CDC, two out of every three women in the United States are overweight or obese<a href="https://www.cdc.gov/nchs/fastats/obesity-overweight.htm" target="_blank" rel="noopener"><sup>1</sup></a>. This extra weight can lead to many diseases, such as heart disease, diabetes, and many cancers. Obesity results from a combination of causes and contributing factors, including individual factors such as behavior and genetics. Some examples of behaviors that affect weight include diet, physical activity, inactivity, and stress. Improving behaviors in these areas can help women and girls maintain a healthy weight.</p>
 <p>Furthermore, American children today are increasingly unhealthy at earlier ages. According to the 2014 National Health and Nutrition Examination Survey (NHANES), of girls ages 2-19, 16 percent were overweight and 17.1 percent were obese<a href="https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity" target="_blank" rel="noopener"><sup>2</sup></a>. Many children and teens do not eat properly or exercise enough and as a result, childhood obesity and diabetes are increasingly prevalent. Children with obesity may experience immediate health consequences that can lead to weight-related health problems in adulthood. In addition to physical health problems, overweight and obese children can be targets of social discrimination that can lead to low self-esteem and hinder social and academic functioning.</p>
@@ -69,7 +69,7 @@ challenge-manager-email: Ann.Abercrombie@hhs.gov
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>Phase 1 (Concept Development)</strong></p>
 <p>Participants will compete for a $20,000 prize pot from which up to 10 submissions may be selected to receive a $2,000 prize each.&nbsp;</p>
@@ -85,7 +85,7 @@ challenge-manager-email: Ann.Abercrombie@hhs.gov
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>To be eligible to win a prize under this competition, an individual, group, or entity:</p>
 <ol>
@@ -123,7 +123,7 @@ challenge-manager-email: Ann.Abercrombie@hhs.gov
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>Phase 1&nbsp; Scoring Criteria</strong></p>
 <p>All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and 5 being the highest score on each dimension. Scores are weighted by the proportion of each dimension and then aggregated to create a final score.</p>
@@ -153,7 +153,7 @@ challenge-manager-email: Ann.Abercrombie@hhs.gov
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>The submission period for Phase 1 of this challenge has closed.</p>
 <p>The winners of Phase 1 are:</p>

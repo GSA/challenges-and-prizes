@@ -25,7 +25,7 @@ challenge-manager-email: shaw.denice@epa.gov
 ---
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <h2 style="box-sizing: border-box; font-family: 'Open Sans', sans-serif; font-weight: 500; line-height: 1.1; color: #333333; margin-top: 20px; margin-bottom: 10px; font-size: 30px; -webkit-font-smoothing: antialiased; text-align: center;"><strong style="box-sizing: border-box;">Stage I is closed,&nbsp;<a style="box-sizing: border-box; background-color: transparent; color: #4a90e2; transition: all 0.25s ease 0s;" href="http://www.challenge.gov/nutrient-sensor-action-challenge-stage-II">click here</a>&nbsp;to access Stage II of this challenge.</strong></h2>
 <p><span style="color: #333333; font-family: 'Open Sans', sans-serif;">&nbsp;&nbsp;</span><a style="box-sizing: border-box; color: #4a90e2; transition: all 0.25s ease 0s; font-family: 'Open Sans', sans-serif;" href="https://www.challenge.gov/wp-content/uploads/2017/07/webinartextbox2.png"><img class=" wp-image-163622 aligncenter" style="box-sizing: border-box; border: 0px; vertical-align: middle;" src="https://www.challenge.gov/wp-content/uploads/2017/07/webinartextbox2-300x90.png" alt="" width="343" height="103" /></a></p>
@@ -66,7 +66,7 @@ challenge-manager-email: shaw.denice@epa.gov
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 <p><strong>WINNING PROJECTS</strong></p>
 <div><strong>Continuous Nitrate Monitoring on the Galena River: A Basis for Change&nbsp;</strong></div>
 <div>&nbsp;</div>
@@ -99,7 +99,7 @@ challenge-manager-email: shaw.denice@epa.gov
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 <h4><strong>STAGE 1 &ndash; ACTION PLAN SUBMISSION REQUIREMENTS</strong></h4>
 <p>Eligible teams are required to submit a plan on challenge.gov by clicking on the "Submit Solution" tab on the Nutrient Sensor Action Challenge page. If you have not worked with&nbsp;<a href="http://www.challenge.gov/">www.challenge.gov</a>&nbsp;in the past, you will need to&nbsp;<strong>register</strong>&nbsp;on the site, and&nbsp;<strong>create an account</strong>. Click on the New to Challenge.gov Register for an account&nbsp;link to register in order to submit nominations for the Nutrient Sensor Action Challenge. There is no cost to register or participate in the Challenge. Complete the registration; you will need to activate the account you create within 24 hours (look for an email to activate the account) in order to submit a nomination. Action plans must address the components listed below (<strong>A - G</strong>) Deadline &ndash; The submission must be available on Challenge.gov for evaluation by <strong>September 20, 2017</strong> <strong>at 11:59 PM ET&nbsp;</strong>for judging. &nbsp;Applications submitted via regular mail, facsimile, or email will not be accepted.&nbsp;No additions or modifications to the submissions will be accepted after the submission deadline. Applications must be submitted in English. Preferred file formats are .pdf, .doc, or .docx. Submissions must be no longer than 10 pages, (Times New Roman, size 12, single-spaced) and must address the information requested. Limit 1 plan per team.</p>
 <h4><strong>A.&nbsp;Nutrient Issue: </strong></h4>

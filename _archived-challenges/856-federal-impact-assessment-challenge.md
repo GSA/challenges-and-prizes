@@ -26,7 +26,7 @@ challenge-manager-email: michael.walsh@nist.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>Did you know that every year the Federal government&nbsp;invests over $135 billion in research and development? Almost one-third of these funds support intramural research - by Federal researchers within Federal laboratories - covering a wide range of technologies with applications in aerospace, biotechnology, chemical engineering, communications, electronics, and much, much more. Many of the technologies developed by Federal researchers are transferred to the private sector through formal agreements (e.g. patents, licenses, or cooperative research and development agreements) or through informal exchanges (e.g. publications, conference presentations or collaborations).&nbsp;Without doubt these Federal investments have yielded extraordinary long-term impacts, creating new knowledge and ultimately new industries. But we need more efforts to quantify these impacts. How can we most accurately and completely capture the economic and societal impact&nbsp;of federal technology transfer activities?&nbsp;This challenge calls on you to analyze a federally-developed technology that has been transferred to the private sector, and present the results in a paper suitable for an archival publication.</p>
 <p><strong>Why this Challenge?</strong></p>
@@ -48,7 +48,7 @@ challenge-manager-email: michael.walsh@nist.gov
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>Finalist (up to four): $20,000.00</strong></p>
 <p>Submitters of the top four papers will receive a $5,000 cash award and an invitation to have their paper considered for publication by The Journal of Technology Transfer.</p>
@@ -56,7 +56,7 @@ challenge-manager-email: michael.walsh@nist.gov
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>The Rules are fully detailed in the <a href="https://www.federalregister.gov/documents/2016/09/27/2016-23239/announcement-of-requirements-and-registration-for-national-institute-of-standards-and-technology" target="_blank" rel="noopener">Federal Register</a>&nbsp;and copied below for your convenience. In the event of any discrepancy, the Federal Register Notice posted in the Federal Register serves as the official document of the rules.</p>
 <p><strong>RULES&nbsp;</strong> In 2011, President Obama issued a Presidential Memorandum &ndash; <em>Accelerating Technology Transfer and Commercialization of Federal Research in Support of High-Growth Businesses</em> - which called on Federal agencies to establish performance goals, metrics, evaluation methods, and implementation plans to improve the effectiveness of Federal technology transfer activities.&nbsp; The President&rsquo;s charge has stimulated agency interest in studies that assess the impact of technologies transferred from Federal laboratories. In an effort to encourage research in this area, the National Institute of Standards and Technology and the <em>Journal of Technology Transfer</em> present a Federal Impact Assessment (FIA) Challenge for researchers to develop impact studies of Federal technology transfer activities. The FIA Challenge calls on researchers to perform original retrospective studies that assess the impact of federally developed technologies that 1) have been developed completely or in part by Federal researchers working at any Federal agency at any time over the past 30 years, and 2) have been transferred to an entity other than the agency which developed the technology.</p>
@@ -174,7 +174,7 @@ challenge-manager-email: michael.walsh@nist.gov
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div>
 <p><strong>Novelty of the Approach</strong></p>
@@ -191,7 +191,7 @@ challenge-manager-email: michael.walsh@nist.gov
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>To enter:</p>
 <p>(1) Create an&nbsp;account at&nbsp;Challenge.gov.</p>

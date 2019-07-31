@@ -21,7 +21,7 @@ prizes: true
 ---
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 <p class="MsoNormalCxSpFirst"><strong style="mso-bidi-font-weight: normal;"><span lang="EN-GB" style="mso-ansi-language: EN-GB;">Problem Statement</span></strong></p>
 <p class="MsoNormalCxSpMiddle"><span lang="EN-GB" style="mso-ansi-language: EN-GB;">Significant disparities persist among many U.S. subpopulations in their receipt of quality health care. Further, there are m</span><span lang="EN">ultiple social factors that contribute to poor quality care and increased health care spending.</span></p>
 <p class="MsoNormalCxSpMiddle"><span lang="EN">AHRQ seeks&nbsp;to better understand unmet health service delivery needs in communities and develop ways to predict these needs at the population level. Understanding population-level behavior in relation to health care decision making is necessary for providing integrated, coordinated, whole person, 360-degree care; yet, information to support decision making about how to provide the quality health care to populations is incomplete. Evidence has suggested that </span><span lang="EN-GB" style="mso-ansi-language: EN-GB;">social determinants of health<span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><!-- [if !supportFootnotes]--><sup><span class="MsoFootnoteReference"><span lang="EN-GB" style="line-height: 115%; font-family: Arial, sans-serif;">[1]</span></span></sup><!--[endif]--></span></span> (SDoH) and community service digital data sets add important information that&nbsp;AHRQ&nbsp;may be able to use to better predict and plan for the optimal use of limited resources, improve population health outcomes, and drive savings.</span></p>
@@ -35,22 +35,22 @@ prizes: true
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 <p class="MsoNormalCxSpFirst"><span lang="EN">Phase 1 winners will receive $10,000.</span></p>
 <p class="MsoNormalCxSpFirst"><span lang="EN" style="mso-bidi-font-family: Cambria; mso-bidi-theme-font: minor-latin;">In Phase 2, o</span><span lang="EN">ne grand prize winner will receive $50,000. The 2<sup>nd</sup> place winner will receive $35,000 and the 3<sup>rd</sup> place winner will receive $15,000.</span></p>
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 <p>Rules can be found at the <a href="https://www.ahrq.gov/sdoh-challenge/index.html">challenge website</a>.</p>
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 <p>Judging criteria can be found at the <a href="https://www.ahrq.gov/sdoh-challenge/index.html">challenge website</a>.</p>
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 <p>Additional challenge information, as well as the submission page, can be found at the <a href="https://www.ahrq.gov/sdoh-challenge/index.html">challenge website</a>.</p>
 <p>For questions about the challenge, please email <a href="mailto:ahrqchallenge@ahrq.hhs.gov">ahrqchcallenge@ahrq.hhs.gov</a>.</p>

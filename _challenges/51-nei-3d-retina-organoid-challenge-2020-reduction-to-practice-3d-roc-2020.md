@@ -28,7 +28,7 @@ challenge-manager-email: steven.becker@nih.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="description">
 <p>The National Eye Institute (NEI), part of the National Institutes of Health, is seeking in vitro, stem-cell derived 3-D human retina organoids. The goal of the challenge is to generate concrete prototypes of 3-D systems that model the cellular organization and function of the human retina.</p> 
@@ -56,7 +56,7 @@ challenge-manager-email: steven.becker@nih.gov
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="prize-item">
 <h4 class="text-primary">NEI 3-D ROC 2020 - winners phase 1</h4>
@@ -73,7 +73,7 @@ challenge-manager-email: steven.becker@nih.gov
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="rules">
 <p>All details related to rules and eligibility are defined on <a href="https://nei.nih.gov/content/2018-reduction-practice-challenge">NEI&rsquo;s challenge details</a> page. Only complete applications will be reviewed.</p>
@@ -97,7 +97,7 @@ challenge-manager-email: steven.becker@nih.gov
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="judging-criterias">
          <div class="prize-item">
@@ -134,7 +134,7 @@ challenge-manager-email: steven.becker@nih.gov
     
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="howtoenter">
         <p>Submissions for this challenge are being accepted via email at <a href="mailto:NEI3dROC@mail.nih.gov" target="_blank" rel="noopener">NEI3dROC@mail.nih.gov</a>.</p>

@@ -23,7 +23,7 @@ prizes: true
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 <p><span lang="EN">The Assistant Secretary of the Army for Acquisition, Logistics and Technology (ASA(ALT)) is announcing the third cohort of the Army Expeditionary Technology Search &ndash; xTechSearch &ndash; to be featured at the Association of the United States Army (AUSA) Annual Meeting in Washington, DC, on 14 to 16 October 2019. xTechSearch will highlight opportunities for small businesses to collaborate with the Army to tackle the most critical Army modernization challenges.</span></p>
 <p><span lang="EN">The ASA(ALT) recognizes that the Army must enhance engagements with the entrepreneurial funded community, small businesses, and other non-traditional defense entities, by: (1) understanding the spectrum of technologies being developed commercially that may benefit the Army; (2) integrating the sector of non-traditional defense entities into the Army&rsquo;s Science and Technology (S&amp;T) ecosystem; and (3) providing mentorship and expertise to accelerate, mature, and transition technologies of interest to the Army.</span></p>
 <p><span lang="EN">The xTechSearch program will provide resourcing to select small businesses to demonstrate proof of concept for their technologies pertaining to Army challenges.&nbsp; The program will also integrate these small businesses into the Army&rsquo;s S&amp;T ecosystem by providing research opportunities with Army labs, including access to the Army&rsquo;s organic intellectual and technical capital.&nbsp; xTechSearch is an opportunity for businesses to pitch novel technology solutions &ndash; a new application for an existing technology or a new technology concept entirely &ndash; to the Army.&nbsp; The Army will provide non-dilutive seed prizes for the small businesses to demonstrate proof of concept in an Army-relevant challenge area.&nbsp; </span></p>
@@ -49,7 +49,7 @@ prizes: true
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 <h4>Phase I: Concept White Paper</h4>
 <p>Up to 50 winners will receive $5,000 and be selected for Phase II.</p>
 
@@ -66,7 +66,7 @@ prizes: true
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 <p><span lang="EN">The xTechSearch program is voluntary and open to all entities that meet the eligibility requirements.&nbsp; There may be only one submission per eligible entity.&nbsp;</span></p>
 <p><strong><span lang="EN">Terms and Conditions: </span></strong><span lang="EN">The entities allowed to participate in this competition must be sole proprietors or small business concerns in accordance with Small Business Administration guidance under 13 Code of Federal Regulations &sect; 121.201 or any entity willing and able to be registered as a small business if selected to participate in this competition.</span></p>
 <p><span lang="EN">Each eligible entity:</span></p>
@@ -93,7 +93,7 @@ prizes: true
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 <h4>Phase I: Concept White Paper Contest</h4>
 <p>The Concept White Paper phase invites all eligible entities to submit a concept white paper outlining their knowledge, skills, capabilities and approach for this challenge. Each concept white paper will be reviewed by a panel of Army subject matter experts.&nbsp; Up to 50 small businesses with the highest ranking white papers will receive a prize of $5,000 and a written invitation to Phase II: xTechSearch Technology Pitches.</p>
 <p>Concept White Papers will be ranked using the following Scoring Criteria (Scoring Criteria Guide found at the registration link):</p>
@@ -136,7 +136,7 @@ prizes: true
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 <p><span lang="EN">The registration information and upload submission must be received by 2:59 AM EST 13 June 2019.&nbsp; Submissions received after the deadline will not be considered.</span></p>
 <p><span lang="EN">Register here:&nbsp;</span><span lang="EN"><a href="https://go.valideval.com/teams/army_xtech_3_0/signup" target="_blank" rel="noopener">https://go.valideval.com/teams/army_xtech_3_0/signup</a></span></p>
 <p><span lang="EN">&nbsp;</span>The Phase I submission must be a concept white paper, submitted using the template found on the registration page.&nbsp; Any proposals submitted in a format other than that provided by the template will not be reviewed.&nbsp; Please name your submission file using your company&rsquo;s name (i.e. ACME.pdf).&nbsp; All submissions must be made at the registration site above and identify 1 or more of the following eight (8) Army Focus Areas that the technology supports.&nbsp;</p>

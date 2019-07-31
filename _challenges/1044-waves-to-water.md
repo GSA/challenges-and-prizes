@@ -28,7 +28,7 @@ challenge-manager-email: jennifer.garson@ee.doe.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="description">
 <p>The U.S. Department of Energy Water Power Technologies Office invites you to submit your ideas to develop wave powered desalination systems for the Waves to Water Prize. The Waves to Water Prize is a 4-Stage, $2.5M contest to accelerate the development of small, modular, wave-powered desalination systems capable of providing potable drinking water in disaster relief scenarios and remote coastal locations.</p>
@@ -42,7 +42,7 @@ challenge-manager-email: jennifer.garson@ee.doe.gov
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="prize-item">
 <h4>Stage I</h4>
@@ -82,7 +82,7 @@ challenge-manager-email: jennifer.garson@ee.doe.gov
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="rules">
 <p>The rules for the Waves to Water Prize can be found here: <a href="https://americanmadechallenges.org/wavestowater/Waves-to-Water_Prize_Official_Rules.pdf" target="_blank" rel="noopener">https://americanmadechallenges.org/wavestowater/Waves-to-Water_Prize_Official_Rules.pdf</a>.</p>
@@ -90,7 +90,7 @@ challenge-manager-email: jennifer.garson@ee.doe.gov
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="judging-criteria">
 <p>Please review the official rules for the judging criteria.</p>
@@ -98,7 +98,7 @@ challenge-manager-email: jennifer.garson@ee.doe.gov
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="how-to-enter">
 <p>Competitors can enter on the HeroX platform: <a href="https://www.herox.com/wavestowater" target="_blank" rel="noopener">https://www.herox.com/wavestowater</a>.</p>

@@ -28,7 +28,7 @@ challenge-manager-email: craig.connelly@nist.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="description">
 <p><img src="{{ site.baseurl }}/assets/images/challenge-content/image002.png" width="858" height="210" alt="challenge timeline"/></p>
@@ -48,7 +48,7 @@ challenge-manager-email: craig.connelly@nist.gov
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="prize-item">
 <h4 class="text-primary">Prizes Anticipated for the Regional Codeathon Events and Contests</h4>
@@ -80,7 +80,7 @@ challenge-manager-email: craig.connelly@nist.gov
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="description">
         <p>Below are the rules on eligibility and submissions, as well as additional terms and conditions. Please read&nbsp; the <a href="{{ site.baseurl }}/assets/document-library/3.2_TechtoProtectChallenge_Program-Rules.FINAL.4.1.19.pdf" target="_blank" rel="noopener">Official Rules document</a> for detailed rules on all aspects of this challenge.</p>
@@ -150,7 +150,7 @@ challenge-manager-email: craig.connelly@nist.gov
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="judging-criterias"> 
         <div class="prize-item">
@@ -330,7 +330,7 @@ challenge-manager-email: craig.connelly@nist.gov
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="jumbotron description">
         <p><span lang="EN">The Tech to Protect Challenge depends on your participation. We recognize that barriers to entry can be discouraging, so we are committed to making participating the easiest part of the challenge, allowing all of your creative energy to be focused on developing your solution. Here is a step-by-step guide to participation.</span></p>

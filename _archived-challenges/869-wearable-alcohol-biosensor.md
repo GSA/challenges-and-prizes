@@ -26,20 +26,20 @@ challenge-manager-email: Kathy.jung@nih.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>The purpose of this Challenge &mdash; &ldquo;A Wearable Alcohol Biosensor: A Second Challenge&rdquo; &mdash; is to produce a prototype of a sleek, unobtrusive wearable capable of monitoring blood alcohol, non-invasively, and in real time. Such a device would significantly advance current alcohol monitoring capabilities. Highest priority will be given to devices that use non-invasive technologies to measure alcohol concentration in the blood or interstitial fluids, as opposed to detection of alcohol exuded through the skin in sweat or vapor. We welcome creative approaches &mdash; surprise us!</p>
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>1st Prize:</strong> $200,000.00</p>
 <p><strong>2nd Prize:</strong> $100,000.00</p>
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>A complete listing of the Eligibility Rules can be found in the&nbsp;<a href="https://web.archive.org/web/20170731181401/https://www.federalregister.gov/documents/2016/12/09/2016-29436/announcement-of-requirements-and-registration-for-a-wearable-alcohol-biosensor-a-second-challenge" target="_blank" rel="noopener noreferrer">Federal Register Notice</a>.&nbsp;Below is a brief description of certain eligibility requirements. All entrants must:</p>
 <ol>
@@ -56,7 +56,7 @@ challenge-manager-email: Kathy.jung@nih.gov
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <ul>
 <li>Accuracy, reliability, and frequency of blood alcohol levels as validated by NIAAA.</li>
@@ -69,7 +69,7 @@ challenge-manager-email: Kathy.jung@nih.gov
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>For additional information, see&nbsp;<a href="https://web.archive.org/web/20170731181401/https://niaaa.nih.gov/challenge-prize">https://niaaa.nih.gov/challenge-prize</a>&nbsp;and consult the&nbsp;Federal Register&nbsp;Announcement at&nbsp;<a href="https://web.archive.org/web/20170731181401/https://www.federalregister.gov/documents/2016/12/09/2016-29436/announcement-of-requirements-and-registration-for-a-wearable-alcohol-biosensor-a-second-challenge">https://www.federalregister.gov/documents/2016/12/09/2016-29436/announcement-of-requirements-and-registration-for-a-wearable-alcohol-biosensor-a-second-challenge</a>.</p>
 <p>Solvers must register on Challenge.gov and submit their solutions&nbsp;via the &ldquo;Submit Solution&rdquo; button on the left tab of this&nbsp;page.</p>

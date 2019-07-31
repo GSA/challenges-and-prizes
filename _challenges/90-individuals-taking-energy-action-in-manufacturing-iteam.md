@@ -28,7 +28,7 @@ challenge-manager-email: Tertia.Speiser@ee.doe.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="description">
                           <h4>Background</h4>
@@ -55,7 +55,7 @@ challenge-manager-email: Tertia.Speiser@ee.doe.gov
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div>
 <h4>Small Manufacturer</h4>
@@ -81,7 +81,7 @@ challenge-manager-email: Tertia.Speiser@ee.doe.gov
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="description">
         <p>Read the full competition <a href="{{ site.baseurl }}/assets/document-library/ITEAM-Prize-Competition-Rules-Document.pdf" target="_blank" rel="noopener">rules document</a>.</p>
@@ -89,7 +89,7 @@ challenge-manager-email: Tertia.Speiser@ee.doe.gov
       
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="judging-criterias">
         <div class="prize-item">
@@ -114,7 +114,7 @@ challenge-manager-email: Tertia.Speiser@ee.doe.gov
     
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="description">
         <p>Before submitting, please familiarize yourself with the <a href="/assets/document-library/ITEAM-Prize-Competition-Rules-Document.pdf">full rules and guidelines for this competition</a>. By submitting, you are agreeing to the terms and conditions defined in that rules document.</p>

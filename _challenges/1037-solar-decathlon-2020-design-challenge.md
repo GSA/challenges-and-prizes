@@ -28,7 +28,7 @@ challenge-manager-email: Rachel.Romero@nrel.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
  <div class="description">
                           <p><span lang="EN">The U.S. Department of Energy Solar Decathlon is a collegiate competition that challenges student teams to design and build highly efficient and innovative buildings powered by renewable energy. The winners will be those teams that best blend architectural and engineering excellence with innovation, market potential, building efficiency, and smart energy production.</span></p>
@@ -65,7 +65,7 @@ challenge-manager-email: Rachel.Romero@nrel.gov
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="prize-item">
         <h4 class="text-primary">Prizes/Incentives</h4>
@@ -77,7 +77,7 @@ challenge-manager-email: Rachel.Romero@nrel.gov
               
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="description">
         <p><span lang="EN">Before entering, participants should review competition rules and eligibility criteria, available at <a href="https://www.solardecathlon.gov/assets/pdfs/sd-competition-guide.pdf" target="_blank" rel="noopener">https://www.solardecathlon.gov/assets/pdfs/sd-competition-guide.pdf</a>.</span></p>
@@ -85,7 +85,7 @@ challenge-manager-email: Rachel.Romero@nrel.gov
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="judging-criterias">
         <div class="prize-item">
@@ -108,7 +108,7 @@ challenge-manager-email: Rachel.Romero@nrel.gov
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="description">
         <p><span lang="EN">Teams that compete in the annual Solar Decathlon Design Challenge must create residential or commercial building designs over one or two semesters. Designs are evaluated on how well they meet the nation&rsquo;s rapidly evolving demand for buildings that are innovative, cost-effective, quick to build, high quality, resilient, grid interactive, efficient, and locally responsive.</span></p>

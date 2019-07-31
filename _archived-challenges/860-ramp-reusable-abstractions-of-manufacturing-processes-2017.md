@@ -26,7 +26,7 @@ challenge-manager-email: swee.leong@nist.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><a href="https://www.challenge.gov/challenge/2018-ramp-reusable-abstractions-of-manufacturing-processes/"><strong>If you are interested in RAMP 2018, click here!</strong></a></p>
 <hr />
@@ -60,7 +60,7 @@ If you really want to rate highly and win a prize, read our judging criteria (be
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>First Place: $1,000.00</strong></p>
 <p><em>Won by:</em> Chris Yuan, Case Western Reserve University<br /><em>Solution:</em> Sustainable Manufacturing Analysis of Atomic Layer Deposition (ALD) of Al2O3 Thin Film<br /><br /></p>
@@ -74,7 +74,7 @@ If you really want to rate highly and win a prize, read our judging criteria (be
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>The Official Rules are posted in the Federal Register and copied below for your convenience. In the unlikely event of a discrepancy, the <a href="https://www.federalregister.gov/documents/2016/12/19/2016-30437/announcement-of-requirements-and-registration-for-national-institute-of-standards-and-technology">Federal Register Notice</a> is the official documentation of the rules for the RAMP Challenge. At the time of Entry, participants must meet the following Eligibility Rules: To be eligible for a cash prize, the Official Representative (individual or team lead, in the case of a group project) must be age 18 at the time of entry and a U.S. citizen or permanent resident of the United States. In the case of a private entity, the business shall be incorporated in and maintain a primary place of business in the United States or its territories.&nbsp;</p>
 <p>Participants may not be a Federal entity or Federal employee acting within the scope of their employment. Eligibility excludes NIST employees and NIST Researcher Associates as well as direct recipients of NIST funding awards to collaborate on the development of the ASTM standard E3012-16. Non-NIST Federal employees acting in their personal capacities should consult with their respective agency ethics officials to determine whether their participation in this Competition is permissible.&nbsp; Employees of the NSF, the ASTM, and the ASME Manufacturing Science and Engineering Conference (MSEC) Conference Organizers are excluded from participating but members of these organizations are eligible to enter.&nbsp;</p>
@@ -206,7 +206,7 @@ If you really want to rate highly and win a prize, read our judging criteria (be
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div>
 <p><strong>Complexity&nbsp;- 10%</strong></p>
@@ -231,7 +231,7 @@ If you really want to rate highly and win a prize, read our judging criteria (be
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>Overview of steps to enter this challenge:</p>
 <ol>

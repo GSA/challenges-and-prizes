@@ -26,7 +26,7 @@ challenge-manager-email: iferguson@usbr.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>All questions, registrations, and official entries must be submitted via the <a href="https://www.innocentive.com/ar/challenge/9933881">InnoCentive website</a> open on the date of launch. &nbsp;See official rules, terms and conditions on InnoCentive website.</strong></p>
 <p>Data collection and capture are fundamental to water and environmental science and management. Scientists, engineers, and technicians are increasingly using mobile devices such as tablets and smartphones to capture data in the field. Numerous apps are available to support general data collection, however existing apps do not provide the functionality and flexibility needed to support the broad range of water and environmental monitoring needs. More importantly, these existing apps do not support the development and sharing of new features and functions by individual users and communities of practice.</p>
@@ -38,13 +38,13 @@ challenge-manager-email: iferguson@usbr.gov
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>The cash prize purse award(s) will be paid to the best submission(s)&nbsp;as solely determined by the Seeker. The total payout will be $30,000, with at least one cash prize purse being no smaller than $5,000 and no cash prize purse being smaller than $2,500.</p>
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>All questions, registrations, and official entries must be submitted via the <a href="https://www.innocentive.com/ar/challenge/9933881">InnoCentive website</a> open on the date of launch. &nbsp;See official rules, terms and conditions on InnoCentive website.</strong></p>
 
@@ -52,6 +52,6 @@ challenge-manager-email: iferguson@usbr.gov
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>All questions, registrations, and official entries must be submitted via the <a href="https://www.innocentive.com/ar/challenge/9933881">InnoCentive website</a> open on the date of launch. &nbsp;See official rules, terms and conditions on InnoCentive website.</strong></p>

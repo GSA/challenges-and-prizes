@@ -26,7 +26,7 @@ challenge-manager-email: craig.connelly@nist.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>Join us for this exciting UAS (unmanned aerial systems) prize competition using your ingenuity and hardware build expertise to create a concept for a UAS prototype. The result of the <strong>UAS (Unmanned Aerial Systems) Flight and Payload Challenge&nbsp;</strong>will support the public safety community and its stakeholders.</p>
 <p>One of the barriers for UAS used in a public safety realm is payload versus flight time. Vertical takeoff and landing (VTOL) UAS provide many different mission capabilities, but their flight time is limited. The payload capacity, energy source and flight time are linked through design trade-offs that can be optimized for efficiency and flexibility. This challenge is designed to keep the UAS and its payload airborne for the longest time possible to support first responders&rsquo; communication technology on the ground while they conduct their search. The advancement of UAS research will help search and rescue operations support payloads for wireless communications or other life-saving goods to save lives.</p>
@@ -82,7 +82,7 @@ challenge-manager-email: craig.connelly@nist.gov
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>STAGE 1: CONCEPT PAPER CONTEST: $200,000.00</strong></p>
 <p>Congratulations to the 10 winners of Stage 1: Team DV8 Tech - Team escAerospace - Team EndureAir - Team ACRG - Team ARS - Team PFA - Team IRISS - Team AmeriFly - Team SOAPdrones - Team MaxPran</p>
@@ -93,7 +93,7 @@ challenge-manager-email: craig.connelly@nist.gov
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>&nbsp; &nbsp;</p>
 <h1>OFFICIAL RULES OF CONCEPT PAPER CONTEST (Stage 1)</h1>
@@ -510,7 +510,7 @@ challenge-manager-email: craig.connelly@nist.gov
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div>
 <p><strong>Criterion 1: Strategic Alignment &amp; Technical Outcome&nbsp;- 50%</strong></p>
@@ -523,7 +523,7 @@ challenge-manager-email: craig.connelly@nist.gov
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <ul>
 <li>Visit Challenge.gov, to review the series of contests in the UAS Flight and Payload Challenge.</li>
