@@ -26,7 +26,7 @@ challenge-manager-email: Bryan.Kim@ahrq.hhs.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <h3>Video Message From AHRQ Director Gopal Khanna&nbsp;About Entering the Step Up App Challenge</h3>
 <p><iframe src="https://www.youtube.com/embed/JL69rrgciMs" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
@@ -183,7 +183,7 @@ challenge-manager-email: Bryan.Kim@ahrq.hhs.gov
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>Phase 1</strong></p>
 <p>Up to 10 winners receive up to $12,000 each.</p>
@@ -198,7 +198,7 @@ challenge-manager-email: Bryan.Kim@ahrq.hhs.gov
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <h4>Eligibility Rules for Participating in the Challenge</h4>
 <p>To be eligible to win a prize under this Challenge, an individual or entity:</p>
@@ -234,7 +234,7 @@ challenge-manager-email: Bryan.Kim@ahrq.hhs.gov
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <h4><strong>Basis Upon Which Winner Will be Selected</strong></h4>
 <p><strong>Phase 1 Evaluation Criteria:</strong></p>
@@ -308,6 +308,6 @@ challenge-manager-email: Bryan.Kim@ahrq.hhs.gov
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>Participants can participate by visiting <strong><a href="http://www.challenge.gov/ahrq-step-up-app-challenge">www.challenge.gov/ahrq-step-up-app-challenge</a></strong>&nbsp;and creating a Challenge.gov account. Once logged in,&nbsp;click &ldquo;Submit&rdquo; anytime during the submission period stated above. Submission requirements and Challenge information including the judging criteria will be provided at <strong><a href="http://www.ahrq.gov/stepupappchallenge">www.ahrq.gov/stepupappchallenge</a></strong>.</p>

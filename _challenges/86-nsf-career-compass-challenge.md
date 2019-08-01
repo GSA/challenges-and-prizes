@@ -24,7 +24,7 @@ prizes: true
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="description">
 <p><img src="{{ site.baseurl }}/assets/images/challenge-content/Timeline.png" width="629" height="233" /></p>
@@ -98,7 +98,7 @@ prizes: true
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="prize-item">
 <h4 class="text-primary">Part 1</h4>
@@ -124,7 +124,7 @@ prizes: true
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="description">
 <p style="text-decoration: underline;"><strong>ENTRY GUIDELINES</strong></p>
@@ -156,7 +156,7 @@ prizes: true
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="judging-criterias">
 <h4>How will submitted prototypes in Part 2 of the challenge be judged?</h4>         
@@ -202,7 +202,7 @@ prizes: true
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="description">
         <p style="text-decoration: underline;"><strong>HOW CAN I ENTER?</strong></p>

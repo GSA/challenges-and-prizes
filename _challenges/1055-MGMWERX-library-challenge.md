@@ -26,7 +26,7 @@ Challenge Manager Email: info@mgmwerx.org
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>Automate key and routine Air University Library (AUL) services and operations using Augmented Reality (AR) combined with AUL&rsquo;s Integrated Library System (ILS). This is intended to facilitate routine customer requests and access at their immediate point of need, and redirect work priorities for AUL staff. Interoperability of AR with the ILS provides an option for users to become more self-reliant and self-directed using personal smartphones and other technology platforms as an alternative to relying on Library equipment, facilities, and staff.</p>
 <p>Solutions should be very accessible to enhance and advance the patron&rsquo;s experience. Moreover, they should contain both simple and complex way-pointing. For example, search results could display in device, steering users to a specific item or area and aiding in navigation by triggering images, virtual maps, and/or geo-location, activating 3-D digital object overlays; also displaying items related to the materials or subjects users are seeking.&nbsp; Finally, the solution should support refined identification displaying detailed information for staff uses such as shelf-reading, allowing for better circulation inventory control, identifying gaps, and miss-shelved items.</p>
@@ -50,7 +50,7 @@ Challenge Manager Email: info@mgmwerx.org
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <ul>
 <li>A chance to secure funding for prototype development and experimentation work;</li>
@@ -61,7 +61,7 @@ Challenge Manager Email: info@mgmwerx.org
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>Additional Challenge information as well as the submission page is found at:</p>
 <p><a href="https://mgmwerx.org/mgmwerx-challenge/library-challenge/">https://mgmwerx.org/mgmwerx-challenge/library-challenge/</a></p>
@@ -69,7 +69,7 @@ Challenge Manager Email: info@mgmwerx.org
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>During this phase, a team of USAF customers will review solution proposals. The top solution(s) meeting the specified requirements will be invited to participate in a design sprint phase beginning in late August 2019.</p>
 <div>Selection Phase Start: 8/08/2019</div>
@@ -78,6 +78,6 @@ Challenge Manager Email: info@mgmwerx.org
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>Those proposing solutions should submit their white papers by way of our <u><a href="https://mgmwerx.org/mgmwerx-challenge/library-challenge/">challenge website</a></u>.</p>

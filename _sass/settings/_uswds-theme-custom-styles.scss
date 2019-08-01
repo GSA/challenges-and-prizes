@@ -152,11 +152,18 @@ h3 a {
 	}
 }
 
+
+// Challenge details main section
+.challenge-main {
+	margin-bottom: 30rem; // used to activate the last 'active' link in the sidebar
+}
+
 @media (max-width: 600px) {
 	.challenge-agency-logo {
 		max-width: 25%;
 	}
   }
+
 
 
 // Challenge Details Accordian

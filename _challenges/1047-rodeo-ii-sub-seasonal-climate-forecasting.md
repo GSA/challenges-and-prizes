@@ -26,7 +26,7 @@ Challenge Manager Email: jbeardsley@usbr.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>Water managers need more skillful information on weather and climate conditions to help efficiently utilize water resources to reduce the impact of hydrologic variations.&nbsp; Examples of hydrologic variations include the onset of drought or a wet weather extreme. Lacking skillful sub-seasonal information limits water managers&rsquo; ability to prepare for shifts in hydrologic regimes and can pose major threats to their ability to manage the valuable resource.</p>
 <p>The challenge of sub-seasonal forecasting encompasses the lead times of 15 to 45 days into the future, which lay between those of weather forecasting (i.e. up to 15 days, where initial ocean and atmospheric conditions matter most) and seasonal to longer-lead climate forecasting (i.e. beyond 45 days, where slowly varying earth system conditions matter most, such as sea surface temperatures, soil moisture, snow pack).&nbsp;</p>
@@ -43,25 +43,25 @@ Challenge Manager Email: jbeardsley@usbr.gov
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>All contest details, including timeline, marathon match, and data sprint details can be found on the <a href="http://topcoder.com/lp/rodeo2">Topcoder Rodeo II website</a>.</p>
 
 <!-- Prizes start -->
 ### Prizes 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>This series will have more than $800,000 in prize money available over the next year.</p>
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>Marathon Match:&nbsp;</strong> Short term competition (over a 1-2 month period beginning in July) with solvers submitting a hind-cast over a set period of historic temperature and precipitation data.&nbsp; Performance of submissions will be evaluated against historic data.&nbsp;</p>
 <p><strong>Data Science Sprints:&nbsp;</strong> Year-long competition following the Marathon Match with solvers submitting forecasts every two weeks.&nbsp; Submissions will be scored against real-time forecasts at the 3-4 week and 5-6 week timeframes</p>
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>All submissions must be made online through the <a href="http://topcoder.com/lp/rodeo2">Topcoder Rodeo II website</a>.</p>

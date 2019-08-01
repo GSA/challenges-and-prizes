@@ -28,18 +28,18 @@ challenge-manager-email: mao.yang@acf.hhs.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 <p>The Administration for Children and Families (ACF), Administration on Children, Youth and Families (ACYF), Family and Youth Services Bureau (FYSB), Division of Family Violence and Prevention Services (FVPSA), announces a Domestic Violence Awareness Month YouTube Challenge. This Challenge is open to individuals and organizations that support children and youth exposed to domestic violence and their abused parents.</p>
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 The top three scoring videos will win the Challenge. FVPSA will award three prizes as follows: First Prize: $5,000; Second Prize: $3,000; and Third Prize: $2,000. All prize awards are subject to FVPSA verification of the winners’ identity, eligibility, and participation in the Challenge. Awards will be paid using electronic funds transfer and may be subject to federal income taxes. FVPSA will comply with the International Revenue Service (IRS) withholding and reporting requirements, where applicable.
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 <p><strong>DATES</strong>: Acceptance of video submissions will open on October 12, 2016, 12:00:00 AM, ET. &nbsp;The video submission period will be open for exactly 3 weeks (21 calendar days) and will close November 2, 2016, at 11:59:59 PM, ET.&nbsp;&nbsp;Contact information, a video link, a written transcript of the video, and ACF waiver form(s)&nbsp;must be submitted on www.challenge.gov<u>/domestic-violence-video-challenge</u> by the deadline.</p>
 <p><strong>Eligibility</strong> The Challenge is open to individuals and organizations. See the section on Video Submission Requirements. To be eligible to win a prize under the Challenge, those entering: (1) Must&nbsp;agree&nbsp;to participate in the competition under the rules and to abide by the terms and condition&nbsp;in this notice by submission of their contact information, video link,&nbsp;video script, and ACF waiver form(s); (2) Must comply with all submission, content, and format the requirements; (3) In the case of a private entity, shall be incorporated in and maintain a primary place of business in the United States, and in the case of an individual, whether participating singly or in a group, shall be a citizen or permanent resident of the United States; and (4) May not be a federal entity or federal employee acting within the scope of their employment.</p>
 <p><strong>Video Submission Requirements</strong> Each individual or organization is limited to entering one video in the Challenge. Multiple submissions from the same source will be disqualified. &nbsp;Only the first 150 videos that fulfill the following requirements and are submitted by the deadline will be accepted for the competition. &nbsp; To be eligible to participate in the Challenge, the Challenge solver must submit a video that meets the following requirements:</p>
@@ -68,7 +68,7 @@ The top three scoring videos will win the Challenge. FVPSA will award three priz
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>Please submit your name, email address, phone number, organizational affiliation (if applicable), a link to your video, and a script for the video.</p>
 <p>Please submit a&nbsp;<a style="box-sizing: border-box; background-color: transparent; color: #0071bc; text-decoration-line: none;" href="https://web.archive.org/web/20170609145312/https://www.challenge.gov/wp-content/uploads/2016/09/ACF-Waiver-Release-Form-Final.pdf">ACF Waiver Release Form (Final)</a>&nbsp;for individuals featured on the videos and submit it with their video link by the submission deadline.</p>

@@ -26,7 +26,7 @@ challenge-manager-email: lk82g@nih.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>In recognition of Native American Heritage Month, the&nbsp;National Institutes of Health (NIH) announces the &ldquo;Storytelling about Health and Wellness in American Indian and Alaska Native Communities&rdquo; Challenge. The goal of this Challenge is to develop a brief digital story (i.e., a video) that communicates how traditions and heritage promote health in American Indians and Alaska Natives (AI/AN).&nbsp;The NIH invites the public to participate to share stories about: 1) how heritage and tradition leads to health and wellness in AI/AN communities; and 2) how future research can improve the health of American Indians and Alaska Natives.&nbsp;The videos will augment the agency&rsquo;s ongoing efforts to inform a strengthened research portfolio that advances AI/AN research needs. This challenge is also designed to attract more interest and attention to the research needs of these communities and communicate these needs in a culturally appropriate manner.</p>
 <p>Submissions are limited to a video that may not exceed five minutes. Submissions must be substantially free of scientific jargon and understandable by viewers without scientific/technical backgrounds. The video must include at least one member of a federally recognized tribe(s) and address the following:</p>
@@ -55,7 +55,7 @@ challenge-manager-email: lk82g@nih.gov
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>First Place: $4,000.00</strong></p>
 <p>The first-place winner will be invited to attend a meeting of the NIH Tribal Consultation Advisory Committee. Travel and related costs will be reimbursed.</p>
@@ -71,7 +71,7 @@ challenge-manager-email: lk82g@nih.gov
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>All submissions must be provided on Challenge.gov. A complete listing of the Eligibility Rules can be found in the <a href="https://www.federalregister.gov/documents/2016/11/28/2016-28497/announcement-of-requirements-and-registration-for-storytelling-about-health-and-wellness-in-american" target="_blank" rel="noopener">Federal Register notice</a>. Below is a brief description of certain eligibility requirements. All entrants must:</p>
 <ol>
@@ -88,7 +88,7 @@ challenge-manager-email: lk82g@nih.gov
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>Quality, clarity, and historical accuracy</strong></p>
 <p>Is the information presented accurately and clearly?</p>
@@ -101,7 +101,7 @@ challenge-manager-email: lk82g@nih.gov
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>Entrants must register on Challenge.gov to submit solutions. There is NO cost for contestants to participate in this challenge.</p>
 <ul>

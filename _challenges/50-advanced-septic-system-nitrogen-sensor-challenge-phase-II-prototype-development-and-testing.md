@@ -28,7 +28,7 @@ challenge-manager-email: theroux.maggie@epa.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="description">
 <p><strong>Join the final round of open prototype testing, August 21-27, 2019. EPA will award up to $50,000 in prize money to the best performing sensor prototypes! Download the Testing Application at <a href="http://www.verifiglobal.com/en" target="_blank" rel="noopener">VerifiGlobal</a>, due July 26, 2019!</strong></p>
@@ -56,7 +56,7 @@ challenge-manager-email: theroux.maggie@epa.gov
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="prize-item">
 <p><strong>October 2019 – Up to $50,000 in prize money to the best performing sensor(s) from the August 21-27, 2019 prototype screening test and an invitation to the December 2019 one month test.</strong></p>
@@ -68,7 +68,7 @@ challenge-manager-email: theroux.maggie@epa.gov
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="rules">
         <p><strong>Any technology/sensor developer is eligible to apply for the one-week prototype screening test. The application is due on July 26, 2019.</strong></p>
@@ -76,7 +76,7 @@ challenge-manager-email: theroux.maggie@epa.gov
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="judging-criteria">
 <p>Please visit <a href="http://www.verifiglobal.com/en" target="_blank" rel="noopener">VerifiGlobal</a> and read the Test/Quality Assurance Plan (T/QAP) for the judging criteria.</p>
@@ -84,7 +84,7 @@ challenge-manager-email: theroux.maggie@epa.gov
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="how-to-enter">
 <p>July 26,2019: Deadline for submission of testing applications for the August 2019 one-week test. Download the application from <a href="http://www.verifiglobal.com/en" target="_blank" rel="noopener">VerifiGlobal</a>; submission instructions can be found on the cover page of the application.</p>

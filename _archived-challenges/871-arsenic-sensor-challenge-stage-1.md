@@ -26,7 +26,7 @@ challenge-manager-email: kguerra@usbr.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>All official entries must be submitted via the <a href="https://www.innocentive.com/ar/challenge/9933765">InnoCentive website</a> open on the date of launch (13 Dec. 2016).</strong></p>
 <p>Measuring <span class="il">arsenic</span> in the environment and in drinking water is important for protecting human health. Drinking water and wastewater treatment facilities are subject to <span class="il">arsenic</span> regulations in order to limit human exposure and environmental contamination. While current analytical methods are suitable for ensuring regulatory compliance, there is a need for rapid, low-cost monitoring of <span class="il">arsenic</span> that would benefit water treatment plant operations, wastewater monitoring, contaminated site remediation, private well owners, scientific research and other interested parties.</p>
@@ -36,19 +36,19 @@ challenge-manager-email: kguerra@usbr.gov
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>Stage 1 is a Theoretical Challenge that requires only a written proposal to be submitted. The Challenge award will be contingent upon evaluation by the Seeker (Reclamation) and the judging panel appointed by the Seeker. The Seeker has a total prize pool budget of $50,000 to pay the top five submission(s) that meet or exceed the criteria below an award of at least $10,000 each. No awards are guaranteed unless they meet or exceed the criteria, and more than one award is not guaranteed. Full or partial awards will be considered for solutions that meet all or some of the criteria, respectively. If only a single submission meets or exceeds the criteria, a single prize award may be as high as $20,000.</p>
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>All official entries must be submitted via the <a href="https://www.innocentive.com/ar/challenge/9933765">InnoCentive website</a> open on the date of launch (13 Dec. 2016).</strong></p>
 <p><em>Questions about this Challenge? Please direct any requests for clarifications and additional information about this challenge to InnoCentive.com. As the administrator for this challenge, InnoCentive will contact the Bureau of Reclamation, as needed, to answer your questions and will also make the responses available to all registered solvers if they provide relevant additional information. To submit your questions to InnoCentive, register for the competition at the InnoCentive website. Registration is free and easy. Once you have registered, you will be able to see the full details of this challenge. After reviewing the full details, if you still have questions, InnoCentive provides each registered solver with the ability to submit their specific questions to the challenge administrator.</em> &nbsp;</p>
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>All official entries must be submitted via the <a href="https://www.innocentive.com/ar/challenge/9933765">InnoCentive website</a> open on the date of launch (13 Dec. 2016).</strong></p>
