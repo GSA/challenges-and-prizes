@@ -7,7 +7,7 @@ sidenav: false
 card-image: /assets/images/cards/NASA_challenge_logo.png
 agency-logo: 717px-NASA_logo.png
 challenge-title: Design the Navigation Lidar (NDL) Graphic
-tagline: 
+tagline: The goal of this challenge is to develop a graphic to represent a critical landing technology being developed at NASA: navigation Doppler lidar (NDL). NDL is used to determine precise vehicle velocity and position.
 agency: National Aeronautics and Space Administration
 partner-agencies-federal: 
 partners-non-federal: 
