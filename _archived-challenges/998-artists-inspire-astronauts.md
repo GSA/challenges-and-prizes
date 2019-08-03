@@ -4,7 +4,7 @@ permalink: /challenges/artists-inspire-astronauts/
 challenge-id: 998
 status: closed
 sidenav: true
-card-image: /assets/images/cards/challenge-gov.png
+card-image: /assets/images/cards/NASA-Artists-Logo.jpg
 agency-logo: 717px-NASA_logo.png
 challenge-title: Artists Inspire Astronauts
 tagline: Space for Space Art in Kennedy Space Center's Astronaut Crew Quarters
@@ -31,7 +31,7 @@ challenge-manager-email: amanda.griffin@nasa.gov
 {: .text-accent-warm-dark .font-heading-lg}
 
 <div class="description">
-<p><img src="{{ site.baseurl }}/assets/images/challenge-content/YOUR-ART-HERE-3.jpg"></p>
+<p><img src="{{ site.baseurl }}/assets/images/challenge-content/NASA-art-astronauts-contest2.png"></p>
 <p>The goal of this challenge is to create an inspiring environment for astronauts before they head out on space missions. NASA's Kennedy Space Center is seeking submissions for original artwork to be displayed on a wall within the Astronaut Crew Quarters. The area is one of the last places astronauts will spend time before heading for the launch pad. Artwork on display may be visible during NASA video coverage of crew departure.</p>
 <h3><strong>Dates and Deadlines</strong></h3>
 <p>Entries must be submitted to Challenge.gov by <strong>Noon Eastern time on Thursday, April 30, 2019</strong>.&nbsp;</p>
