@@ -58,8 +58,8 @@ challenge-manager-email: amanda.griffin@nasa.gov
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg}
 
-<div class="rules>
-<h3><strong>Submission Requirements</strong></h3>
+<div class="rules">
+<h4><strong>Submission Requirements</strong></h4>
 <ul>
 <li>Must be U.S. citizen to participate.</li>
 <li>Contest is open to individual artists 18 years and older.</li>
@@ -71,7 +71,7 @@ challenge-manager-email: amanda.griffin@nasa.gov
 <li>Up to five works will be selected by a diverse panel of judges, including an astronaut, NASA officials and art community representatives.</li>
 <li>Artists will retain copyright in their works. Artists grant NASA the right to display their works publicly and to permit others to photograph, video, and record the works for public display (for example, news coverage of a mission in the crew quarters).</li>
 </ul>
-<h3><strong>Theme</strong></h3>
+<h4><strong>Theme</strong></h4>
 <p>The artist should depict what the future of space travel/space discovery/humans in space looks like to them. The artist may also tie into any of NASA&rsquo;s current themes below&mdash;but is not required to.</p>
 <p>Explore Humans in Space: Leading Discovery, Improving Life on Earth</p>
 <ul>
@@ -101,7 +101,6 @@ challenge-manager-email: amanda.griffin@nasa.gov
 <li>Only submissions meeting submission requirements will be reviewed.</li>
 </ul>
 </div>
-
 
 <!--  How To Enter start -->
 ### How To Enter
