@@ -144,7 +144,7 @@ increase public awareness of vision research and enhance the
 national effort to reduce the burden of ocular disorders and
 diseases worldwide.</p>
 <h2>Areas of Excellence</h2>
-<p><strong>Area of Excellence #1: "3.3 Judge Submissions and
+<p><strong>Area of Excellence #1: "Judge Submissions and
 Select Winners"</strong></p>
 <p>NEI employed a multi-tiered review process to select winners,
 with technical experts outside of NIH providing input to a
@@ -183,7 +183,7 @@ senior NIH leaders reviewed the technical comments and
 scores from the top 15 percent of projects for two weeks.
 During a half-day face-to-face meeting, they selected 10
 prize winners based on the de-identified ideas.</p>
-<p><strong>Area of Excellence #3: "5.5 Manage
+<p><strong>Area of Excellence #2: "Manage
 Solutions"</strong></p>
 <p>NEI invited the competition winners to present their ideas at
 the AGI Development Meeting in February 2013. In addition to
