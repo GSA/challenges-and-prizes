@@ -155,7 +155,7 @@ and clarity of the report they generated.</p>
 <p>The OneCodex team was awarded the grand prize of $200,000 for
 this challenge on Jan. 15, 2015.</p>
 <h2>Areas of Excellence</h2>
-<p><strong>Area of Excellence #1: "2.1 Design the
+<p><strong>Area of Excellence #1: "Design the
 Challenge"</strong></p>
 <p>This challenge posed a very open-ended and difficult
 question, and the CDC challenge team recognized from the
@@ -185,7 +185,7 @@ finalists.&nbsp; In future challenges, depending on the
 nature and scope, the challenge team may consider adjusting
 the value of the overall prize pool and including prizes for
 finalists and runners up.</p>
-<p><strong>Area of Excellence #2: "2.6 Create an Implementation
+<p><strong>Area of Excellence #2: "Create an Implementation
 Plan"</strong></p>
 <p>The implementation plan for this challenge was developed
 through ongoing consultation between the Division of
@@ -209,7 +209,7 @@ helped this challenge run more smoothly, since the CDC core
 challenge team was small and burdened with other
 responsibilities.&nbsp; Even so, this was a successful
 challenge, with a very successful outcome.</p>
-<p><strong>Area of Excellence #3: "5.5 Manage
+<p><strong>Area of Excellence #3: "Manage
 Solutions"</strong></p>
 <p>Following the challenge competition, CDC subject matter
 experts from the Division of Foodborne, Waterborne and
