@@ -99,7 +99,7 @@ Because the winners are all minors, CPSC posted only their
 first names, grades and home states to protect their
 privacy.</p>
 <h2>Areas of Excellence</h2>
-<p><strong>Areas of Excellence #1: "1.2 Prioritize Goals and
+<p><strong>Areas of Excellence #1: "Prioritize Goals and
 Outcomes"</strong></p>
 <p>The primary goal of the poster contest is to help raise
 awareness about the dangers of carbon monoxide poisoning
@@ -125,7 +125,7 @@ minutes." Another student created a poster depicting <a
 href="http://www.cpsc.gov/Safety-Education/CO-Contest-2014/Winners/co2015-Darcy/">"Codie
 the CO safety cat"</a> teaching kids about carbon
 monoxide dangers.</p>
-<p><strong>Area of Excellence #2: "2.2 Develop Submission
+<p><strong>Area of Excellence #2: "Develop Submission
 Requirements"</strong></p>
 <p>CPSC limited the poster contest to middle school students in
 sixth, seventh and eighth grades. Students must create
@@ -160,7 +160,7 @@ rules, CPSC states that the agency will collect and publish
 a minimal amount of information about the contestants along
 with their posters, and will include only their first names,
 grade levels and states of residence.</p>
-<p><strong>Area of Excellence #3: "3.1 Execute the
+<p><strong>Area of Excellence #3: "Execute the
 Communications Plan"</strong></p>
 <p>CPSC publicized the CO poster contest with direct appeals to
 middle school science and art teachers in dozens of school
