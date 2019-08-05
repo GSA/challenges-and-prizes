@@ -99,7 +99,7 @@ concepts from this tool into future capabilities to provide
 agencies with comprehensive travel spending analysis and
 benchmarking.</p>
 <h2>Areas of Excellence</h2>
-<p><strong>Area of Excellence #1: "2.3 Develop Terms and
+<p><strong>Area of Excellence #1: "Develop Terms and
 Conditions"</strong></p>
 <p>The project manager for this challenge worked closely with
 GSA's Office of General Counsel (OGC) to ensure compliance
@@ -143,7 +143,7 @@ employment.</p>
 <p>The full sets of rules and requirements can be viewed at <a
 href="http://gsatraveldata.devpost.com/">http://gsatraveldata.devpost.com/</a>.
 </p>
-<p><strong>Area of Excellence #2: "3.1 Execute the
+<p><strong>Area of Excellence #2: "Execute the
 Communications Plan"</strong></p>
 <p>In addition to listing the challenge on Challenge.gov, OGP
 worked with GSA's Office of Communications and Marketing to
