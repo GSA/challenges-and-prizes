@@ -120,7 +120,7 @@ id="8644" itemscope="" itemtype="http://schema.org/CreativeWork">
     crewmembers.</p>
 <p>&nbsp;</p>
 <h2>Areas of Excellence</h2>
-<p><strong>Area of Excellence #1: "1.6 Identify Legal
+<p><strong>Area of Excellence #1: "Identify Legal
     Authority"</strong></p>
 <p>Challenges launched through NASA's Center of Excellence for
     Collaborative Innovations (CoECI) are considered
@@ -136,7 +136,7 @@ id="8644" itemscope="" itemtype="http://schema.org/CreativeWork">
     requirements owner and does actively participate,
     particularly during the challenge definition and evaluation
     phases depending on the contractor's business model.</p>
-<p><strong>Area of Excellence #2: "3.2 Accept
+<p><strong>Area of Excellence #2: "Accept
     Solutions"</strong></p>
 <p>This challenge accepted code submissions that would be
     licensed as open source software. NASA procured an
@@ -159,7 +159,7 @@ id="8644" itemscope="" itemtype="http://schema.org/CreativeWork">
     integration of the code with the ISS networks, servers and
     iPads.</p>
 <p>&nbsp;</p>
-<p><strong>Area of Excellence #3: "4.2 Pay Winners"</strong></p>
+<p><strong>Area of Excellence #3: "Pay Winners"</strong></p>
 <p>While NASA procured the ISS Food Intake Tracker (FIT)
     software application as a product from Harvard and Topcoder,
     Topcoder's use of contests in its community of hundreds of
