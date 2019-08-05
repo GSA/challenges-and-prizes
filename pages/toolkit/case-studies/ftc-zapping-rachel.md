@@ -178,7 +178,7 @@ agency an opportunity to convey its consumer education
 messages about illegal telemarketing calls to a broad
 audience.</p>
 <h1>Areas of Excellence</h1>
-<p><strong>Area of Excellence #1: "1.3 Define the Problem to Be
+<p><strong>Area of Excellence #1: "Define the Problem to Be
 Solved"</strong></p>
 <p>After the FTC amended the Telemarketing Sales Rule in 2009 to
 prohibit the majority of robocalls, the FTC noticed a steady
@@ -214,7 +214,7 @@ robocalls, the FTC decided to launch its second contest,
 Zapping Rachel, and tap into the ingenuity of information
 security experts to generate ideas on how to develop the
 next-generation robocall honeypot.</p>
-<p><strong>Area of Excellence #2: "2.8 Prepare to
+<p><strong>Area of Excellence #2: "Prepare to
 Announce"</strong></p>
 <p>In announcing Zapping Rachel, the FTC took several steps.
 First, the FTC identified its target audiences and developed
@@ -258,7 +258,7 @@ employees familiar with the DEF CON community on the
 appropriate promotional materials to use and their design.&nbsp;
 The FTC used outside vendors to create the stickers and
 6-foot-tall cutout of Rachel the Robocaller.</p>
-<p><strong>Area of Excellence #3: "3.2 Accept
+<p><strong>Area of Excellence #3: "Accept
 Solutions"</strong></p>
 <p>For each phase, contestants were required to submit source
 code and a written description of their proposed solutions.&nbsp;
@@ -274,7 +274,7 @@ requested documentation as attachments or as links to
 accounts on repository hosting services that contained the
 solutions.&nbsp; Contestants also provided all necessary
 information to access those accounts in a secure manner.</p>
-<p><strong>Area of Excellence #4: "5.1 Document Metrics, Results
+<p><strong>Area of Excellence #4: "Document Metrics, Results
 and Outcomes"</strong></p>
 <p>In order to track the success of Zapping Rachel, the FTC
 defined three clear goals of its contest.&nbsp; First, the
