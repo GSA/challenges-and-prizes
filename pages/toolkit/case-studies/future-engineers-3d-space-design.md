@@ -150,7 +150,7 @@ Challenge and the Think Out of the Box Design Challenge are
 still underway.</p>
 <p>&nbsp;</p>
 <h2>Areas of Excellence</h2>
-<p><strong>Area of Excellence #1: "1.6 Identify Legal
+<p><strong>Area of Excellence #1: "Identify Legal
 Authority"</strong></p>
 <p>The Future Engineers 3D Space Design Challenges were executed
 through a non-reimbursable Space Act Agreement via NASA's
@@ -199,7 +199,7 @@ permissions and licenses as required;
 <li>providing subject matter experts; and</li>
 <li>providing awards to finalists.</li>
 </ul>
-<p><strong>Area of Excellence #2: "4.3 Award Nonmonetary
+<p><strong>Area of Excellence #2: "Award Nonmonetary
 Incentives"</strong></p>
 <p>The success of the Future Engineers 3D Space Design
 Challenges can be attributed to the unique assets and
