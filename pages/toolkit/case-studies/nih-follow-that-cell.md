@@ -135,7 +135,7 @@ for Phase 2, and depending on the scientific assessments by
 the Technical Evaluation Panel, the judges will determine
 how to allocate the prize pool.</p>
 <h2>Areas of Excellence</h2>
-<p><strong>Area of Excellence #1: "1.4 Determine If a Prize Is
+<p><strong>Area of Excellence #1: "Determine If a Prize Is
 Appropriate"</strong></p>
 <p>Between 2011 and 2012, the NIH issued requests for
 information (RFIs) and held two workshops asking the
@@ -164,7 +164,7 @@ fresh ideas and engage individuals or teams from different
 backgrounds, perhaps teaming with biologists, to propose new
 and creative ways to measure cells in a population over
 time.</p>
-<p><strong>Area of Excellence #2: "1.7 Estimate Budget and
+<p><strong>Area of Excellence #2: "Estimate Budget and
 Resources"</strong></p>
 <p>The NIH Single Cell Analysis Program determined, through its
 budget development process, to set aside $500,000 and the
@@ -219,7 +219,7 @@ pools and the contractual cost to InnoCentive, from January
 2014 through July 2017, to support development, hosting,
 marketing, screening and prize payments for the
 challenge.</p>
-<p><strong>Area of Excellence #3: "2.2 Develop Submission
+<p><strong>Area of Excellence #3: "Develop Submission
 Requirements"</strong></p>
 <p>The submission requirements and evaluation criteria for both
 phases of the Follow that Cell Challenge were announced in
@@ -266,7 +266,7 @@ Additionally, the Federal Register Notice stated that as
 part of the evaluation process for Phase 2, the technical
 evaluation panel may request a demonstration of the
 technology.</p>
-<p><strong>Area of Excellence #4: "5.3 Complete
+<p><strong>Area of Excellence #4: "Complete
 Reporting"</strong></p>
 <p>The NIH Follow that Cell Challenge has submitted two reports
 to be included in the Office of Science and Technology

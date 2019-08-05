@@ -118,7 +118,7 @@ presentations, and many staff members viewed it via webcast.
 The ideas presented by finalists are being kept in mind as
 HABC works with architects and developers on the site.</p>
 <h2>Areas of Excellence</h2>
-<p><strong>Area of Excellence #1: "3.3 Judge Submissions and
+<p><strong>Area of Excellence #1: "Judge Submissions and
 Select Winners"</strong></p>
 <p>HUD recruited a jury of five experts in the field of
 architecture, affordable housing, and community development.
@@ -157,7 +157,7 @@ boards. They presented in front of a live audience, a
 webcast audience and the panel of jurors. After all the
 finalists presented, the jurors deliberated and former HUD
 Secretary Shaun Donovan announced the winners.</p>
-<p><strong>Area of Excellence #2: "4.1 Announce
+<p><strong>Area of Excellence #2: "Announce
 Winners"</strong></p>
 <p>A webpage dedicated to the competition was created on
 HUDuser.org. An initial announcement of the competition was

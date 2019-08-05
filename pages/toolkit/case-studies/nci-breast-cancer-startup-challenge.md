@@ -146,7 +146,7 @@ the Nanotechnology Startup Challenge in October 2015.
 </li>
 </ul>
 <h2>Areas of Excellence</h2>
-<p><strong>Area of Excellence #1: "1.5 Build a Team"</strong>
+<p><strong>Area of Excellence #1: "Build a Team"</strong>
 </p>
 <p>In 2013, NCI entered into a Partnership Intermediary
 Agreement (PIA) with CAI, a nonprofit, to evaluate and offer
@@ -220,7 +220,7 @@ advisors and managed the judging process.</p>
 content on a variety of fronts, from the creation of
 training curriculum and course materials to the production
 of press releases and social media posts.</p>
-<p><strong>Area of Excellence #2: "2.1 Design the Challenge
+<p><strong>Area of Excellence #2: "Design the Challenge
 Structure"</strong></p>
 <p>The BCSC is a novel way to address a fundamental problem,
 focusing on creating startup companies to help develop and
@@ -250,7 +250,7 @@ third phase, the 12 BCSC winners and finalists incorporated
 their startups, began to raise funding and negotiated with
 the NIH Office of Technology Transfer to&nbsp;receive&nbsp;licenses
 to the technologies.</p>
-<p><strong>Area of Excellence #3: "2.5 Develop a Communications
+<p><strong>Area of Excellence #3: "Develop a Communications
 Plan"</strong></p>
 <p>CAI, working with NCI, took the lead in developing and
 executing the communications plan for the BCSC. It was
@@ -292,7 +292,7 @@ challenge. For example, CAI recruited:</p>
 <li>Reinhard Ambrose, head of venture from Novartis</li>
 <li>Scott Weiner, partner from Pappas Ventures</li>
 </ul>
-<p><strong>Area of Excellence #4: "2.8 Prepare to
+<p><strong>Area of Excellence #4: "Prepare to
 Announce"</strong></p>
 <p>In preparation to launch the BCSC, CAI:</p>
 <ul>
@@ -339,7 +339,7 @@ could be developed and deployed. The team also created
 standard wording that could be used.
 </li>
 </ul>
-<p><strong>Area of Excellence #5: "5.1 Document Metrics, Results
+<p><strong>Area of Excellence #5: "Document Metrics, Results
 and Outcomes"</strong></p>
 <p>For in-Challenge metrics, interested participants were
 tracked by way of the entry forms that they were required to

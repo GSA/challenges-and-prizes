@@ -118,7 +118,7 @@ of the rubber strap and correlated back to the woven strap.
 The solution was extremely elegant, simple and
 repeatable.</p>
 <p><strong>Areas of Excellence</strong></p>
-<p><strong>Area of Excellence #1: "3.4 Verify Winners"</strong>
+<p><strong>Area of Excellence #1: "Verify Winners"</strong>
 </p>
 <p>Challenges launched by CoECI through its contracts with
 crowdsourcing companies are launched as procurements, and
@@ -141,7 +141,7 @@ Additionally, the contractor has the responsibility of
 handling all IP negotiations.&nbsp; For this particular
 challenge, the government received an unlimited license to
 use the winning techniques.</p>
-<p><strong>Area of Excellence #2: "5.2 Document the
+<p><strong>Area of Excellence #2: "Document the
 Challenge"</strong></p>
 <p>As part of its standard process, InnoCentive conducts a
 close-out interview with challenge owners to evaluate the

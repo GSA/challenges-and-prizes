@@ -137,7 +137,7 @@ field verification testing began in May 2016. Final
 verification reports will be published and winners announced
 in December 2016.</p>
 <h2>Areas of Excellence</h2>
-<p><strong>Area of Excellence #1: "1.2 Prioritize Goals and
+<p><strong>Area of Excellence #1: "Prioritize Goals and
 Outcomes"</strong></p>
 <p>In November 2013, the Challenging Nutrient Coalition convened
 a "visioneering" meeting of experts in the field of nutrient
@@ -182,7 +182,7 @@ It was contingent on the success of the Nutrient Sensor
 Challenge to make available sensors that would produce
 needed data to inform actions and decisions at a community
 level.</p>
-<p><strong>Area of Excellence #2: "1.5 Build a Team"</strong>
+<p><strong>Area of Excellence #2: "Build a Team"</strong>
 </p>
 <p>In 2013, the White House Office of Science and Technology
 Policy convened a group of federal</p>

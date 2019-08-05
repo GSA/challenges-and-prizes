@@ -137,7 +137,7 @@ technology. These two teams were awarded the prize money and
 are eligible to receive up to $400,000 in additional grants
 to pilot their technologies in field tests.</p>
 <h2>Areas of Excellence</h2>
-<p><strong>Area of Excellence #1: "1.3 Define the Problem to Be
+<p><strong>Area of Excellence #1: "Define the Problem to Be
 Solved"</strong></p>
 <p>The Desal Prize emphasizes innovation in desalination
 technology development and environmental sustainability with
@@ -211,7 +211,7 @@ desalination community with the common goal of creating an
 environmentally sustainable technology that serves a dual
 purpose to provide water that is safe to drink and water
 that is appropriate for crops.</p>
-<p><strong>Area of Excellence #2: "1.6 Identify Legal
+<p><strong>Area of Excellence #2: "Identify Legal
 Authority"</strong><br>
 For the Desal Prize, USAID used its assistance authority and
 provided progressively greater awards at each stage. Though
@@ -219,7 +219,7 @@ it was called a prize and structured as such, USAID used its
 assistance authority rather than its prize authority for the
 competition and did not limit competitors to U.S.
 organizations.</p>
-<p><strong>Area of Excellence #3: "1.7 Estimate Budget and
+<p><strong>Area of Excellence #3: "Estimate Budget and
 Resources"</strong><br>
 A total of $200,000 in monetary incentives was available
 during head-to-head competitions. An additional $400,000 in
@@ -304,7 +304,7 @@ full-time equivalents
 testing of the devices in the field at the USAID Mission
 </li>
 </ul>
-<p><strong>Area of Excellence #4: "2.1 Design the Challenge
+<p><strong>Area of Excellence #4: "Design the Challenge
 Structure"</strong></p>
 <p>The Desal prize was designed as a Technical Point solution
 prize with a demonstration/competition component. The
@@ -383,7 +383,7 @@ water volume and quality requirements and achievement of
 a high level of environmental sustainability.
 </li>
 </ul>
-<p><strong>Area of Excellence #5: "2.5 Develop a Communications
+<p><strong>Area of Excellence #5: "Develop a Communications
 Plan"</strong></p>
 <p>In addition, the Desal Prize was featured in blog posts and
 articles including the Water Desalination Report. The Desal
@@ -392,7 +392,7 @@ enhance communications efforts.</p>
 <p>Communications efforts were led by the USAID Global
 Development Lab Office of Communications, with support from
 a communications contractor.</p>
-<p><strong>Area of Excellence #6: "3.2 Accept
+<p><strong>Area of Excellence #6: "Accept
 Solutions"</strong></p>
 <p>For the Phase-2 Technological Demonstration, semifinalist
 teams were required to submit the following via the platform
