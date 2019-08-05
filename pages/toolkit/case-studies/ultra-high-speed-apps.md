@@ -129,7 +129,7 @@ their Phase II submissions that explained their solutions.&nbsp;
 The judges found the videos immensely helpful in explaining
 the value, purpose and intended operation of the app.</p>
 <h2>Areas of Excellence</h2>
-<p><strong>Area of Excellence #1: "1.7 Estimate Budget and
+<p><strong>Area of Excellence #1: "Estimate Budget and
 Resources"</strong></p>
 <p>The tiered prize structure was intended to provide incentive
 for applicants to develop "the best solution" rather than
@@ -152,7 +152,7 @@ and management staff were responsible for all activities
 related to the Challenge, with some limited support from
 agency contract staff for activities such as application
 review and other related work.</p>
-<p><strong>Area of Excellence #2: "2.4 Define Evaluation and
+<p><strong>Area of Excellence #2: "Define Evaluation and
 judging Process"</strong></p>
 <p>A distinguished panel of individuals with expertise in one or
 more of the following areas: criminal justice, public
@@ -194,7 +194,7 @@ Phase I, the consensus meeting was conducted through an NIJ
 moderated teleconferences.&nbsp; For Phase II, the judges
 were brought together for a full day, face-to-face
 meeting.</p>
-<p><strong>Area of Excellence #3: "5.3 Complete Required
+<p><strong>Area of Excellence #3: "Complete Required
 Reports"</strong></p>
 <p>Like several federal agencies, NIJ does not administer
 Challenges under the authority of America COMPETES; instead,
