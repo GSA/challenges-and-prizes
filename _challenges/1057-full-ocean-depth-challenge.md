@@ -4,7 +4,7 @@ permalink: /challenge/full-ocean-depth-challenge/
 challenge-id: 1057
 status: open
 sidenav: true
-card-image: /assets/images/cards/ocean-depth-prize-challenge-logo.png
+card-image: /assets/images/cards/Full-Ocean-Depth-challenge.jpg
 agency-logo: dod_seal.jpg
 challenge-title: Full Ocean Depth Challenge
 tagline: The Navy is seeking ideas and best practices in materials that can withstand undersea challenges. 
