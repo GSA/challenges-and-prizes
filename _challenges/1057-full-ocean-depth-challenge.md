@@ -14,12 +14,12 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $755,000
 type-of-challenge: Technology demonstration and hardware
-submission-start: 2019/08/13 2:00 PM ET
-submission-end: 2019/08/20 2:00 PM ET
+submission-start: 2019/08/12 2:00 PM ET
+submission-end: 2019/08/30 2:00 PM ET
 submission-link:  
 prizes: true
 fiscal-year: FY19-20
-legal-authority: Other Transaction Authority
+legal-authority: America COMPETES
 challenge-manager: Christopher Hebert
 challenge-manager-email: christopher.r.hebert@navy.mil
 ---
@@ -73,7 +73,7 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 <p>Individuals and organizations that are funded by NAVSEA, but not limited to, any Federally Funded Research and Development Centers and University Affiliated Research Centers (UARCs), or private-sector personnel whose scope of work includes NAVSEA development or administrative support are not eligible to participate in the challenge.</p>
 <p>Taxes. Tax treatment of prizes will be handled in accordance with U.S. Internal Revenue Service guidelines. The winners must provide a U.S. taxpayer identification number (e.g. a social security number) to receive the cash prize.</p>
 <p>Payment. Participants selected as monetary prize winners must submit all required taxpayer identification and bank account information required to complete an electronic payment of the monetary prize. Failure to provide the Government required documents for electronic payment within 30 days of notification by the Government will result in a disqualification of the winning entry.</p>
-<p>Government Right to Cancel, Suspend or Modify Challenge. The Government reserves the right, in its sole discretion, to cancel, suspend or modify the Challenge. These rules may be changed without prior notice, and all participants should monitor https://www.challenge.gov for the latest information. The Government further reserves the right to select no winners and award no prize money if the Government determines, in its sole discretion, that an award is not in the best interest of the Government.</p> 
+<p>Government Right to Cancel, Suspend or Modify Challenge. The Government reserves the right, in its sole discretion, to cancel, suspend or modify the Challenge. These rules may be changed without prior notice, and all participants should monitor <a href="https://www.challenge.gov" target="_blank" rel="noopener">https://www.challenge.gov</a> for the latest information. The Government further reserves the right to select no winners and award no prize money if the Government determines, in its sole discretion, that an award is not in the best interest of the Government.</p> 
 <p>Responsibility for Costs Incurred. Nothing in these rules, to include information on the websites publicizing the award, may be interpreted as authorizing the incurrence of any costs, or modifying the statement of work or authorizing work outside the terms and conditions of any existing agreements or contracts with the Government.</p>
 <p>Participation in this prize challenge is at participant expense. The Government will not be responsible for any costs incurred by the participant, to include submission costs, travel costs, technology demonstration or development costs or any associated costs.</p>
 <p>Release of Claims. The participant agrees to release and forever discharge any and all manner of claims, equitable adjustments, actions, suits, debts, appeals, and all other obligations of any kind, whether past or present, known or unknown, that have or may arise from, are related to or are in connection with, directly or indirectly, this prize challenge or the participant’s submission.</p>
@@ -93,7 +93,7 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 <p>For technical and challenge related questions, please send an email to Christopher.r.hebert@navy.mil with “Challenge Title” in the subject line.</p>
 <p>The Government will post all questions and responses on the Federal Business Opportunities (FBO.gov).</p> 
 <p>Contestants should expect that their questions and the Government’s responses will be made available to all those accessing the FBO.gov.</p>
-<p>A deadline for Industry submission of Questions is hereby established. The deadline for prize challenge question submission is 2:00 PM Eastern Time on 8 August 2019. After this date and time, the Government may not respond to questions received.</p>
+<p>A deadline for Industry submission of questions is hereby established. The deadline for prize challenge question submission is 2:00 PM Eastern Time on 12 August 2019. After this date and time, the Government may not respond to questions received.</p>
 <p>NUWCDIVNPT reserves the right to cancel, suspend, and/or modify the challenge, or any part of it, if any fraud, technical failures, or any other factor beyond NUWCDIVNPT’s reasonable control impairs the integrity or proper functioning of the challenge, as determined by NUWCDIVNPT in its sole discretion. NUWCDIVNPT is not responsible for, nor is it required to accept, incomplete, late, misdirected, damaged, unlawful, or illicit submissions.</p>
 </div>
 
@@ -109,9 +109,10 @@ challenge-manager-email: christopher.r.hebert@navy.mil
   <ul>
     <li>Knowledge</li>
     <li>Skills</li>
-    <li>Capabilities meeting the Challenge.</li>
+    <li>Capabilities meeting the Challenge</li>
   </ul>
-<p>A panel of judges will screen all submissions for compliance with the rules and terms and conditions detailed herein.</p> 
+<p>The concept white paper shall be no more than five (5) pages in length in Times New Roman font and no smaller than size 11 font.</p>
+  <p>A panel of judges will screen all submissions for compliance with the rules and terms and conditions detailed herein.</p> 
 <p><strong>Phase II: </strong>Each of the companies that move onto Phase II will be invited to pitch their proposal to the panel of judges during certain days. In Phase II, companies will be evaluated by the review panel on a scale of 0-25 points (25 being the highest). The evaluation criteria is provided below:</p>
   <p style="line-height: normal; text-autospace: none;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
 <table style="border-collapse: collapse; border: none;" width="654">
@@ -323,6 +324,7 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 </tr>
 </tbody>
 </table>
+  <p>The virtual proof of life check of the Minimum Viable Product shall be presented to the Navy experts. The virtual presentation shall present a preliminary concept/design.</p>
   <p><strong>Phase III: </strong>The offeror shall be evaluated based on the below demonstration criteria:</p> 
 <ul>
   <li>Withstanding 10,000 psi Depth Pressure: The pressure test cycle will be 10 cycles to 10,000 psi, holding for 5 min each cycle until the last cycle holds for 30 minutes.</li>
@@ -335,14 +337,12 @@ challenge-manager-email: christopher.r.hebert@navy.mil
   </ul>
   </div>
 
-
-
 <!--  How To Enter start -->
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg}
 
 <div class="how-to-enter">
-<p>Entries must be submitted via email to <a href="mailto:christopher.r.hebert@navy.mil" target="_blank" rel="noopener">christopher.r.hebert@navy.mil</a> by 02:00 Eastern Time on 20 August 2019. Submissions received after the deadline will not be considered.</p>
+<p>Entries must be submitted via email to <a href="mailto:christopher.r.hebert@navy.mil" target="_blank" rel="noopener">christopher.r.hebert@navy.mil</a> by 02:00 Eastern Time on 30 August 2019. Submissions received after the deadline will not be considered.</p>
   <p>Submissions including attachments shall use the following filename convention:</p>
   <p>Ch.gov user name (e.g., User123X_concept.pdf, User123X_schematic.pdf)</p>
 </div>
