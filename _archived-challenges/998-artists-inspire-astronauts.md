@@ -30,6 +30,14 @@ challenge-manager-email: amanda.griffin@nasa.gov
 ### Description
 {: .text-accent-warm-dark .font-heading-lg}
 
+<h3>Winners Announced</h3>
+<p>NASA's Kennedy Space Center has announced the winners of the Artists Inspire Challenge as follows: </p>
+<li><strong>Winner:</strong> Juan Diego Medellin<br/><strong>Title: </strong>A Dream is Never Too Far To Reach</li>
+<li><strong>Winner:</strong> Cayla Massarelli<br/><strong>Title: </strong>Suerpgrediatur</li>
+<li><strong>Winner:</strong> Adrianna Allen</strong><br/><strong>Title: </strong>Emanation</li>
+<li><strong>Winner:</strong> Michael Hallberg</strong><br/><strong>Title: </strong>Ad Astra Ascendo</li>
+<li><strong>Winner:</strong> Bryan Larson</strong><br/><strong>Title: </strong>Anticipation</li>
+</ul>
 <div class="description">
 <p><img src="{{ site.baseurl }}/assets/images/challenge-content/NASA-art-astronauts-contest2.png"></p>
 <p>The goal of this challenge is to create an inspiring environment for astronauts before they head out on space missions. NASA's Kennedy Space Center is seeking submissions for original artwork to be displayed on a wall within the Astronaut Crew Quarters. The area is one of the last places astronauts will spend time before heading for the launch pad. Artwork on display may be visible during NASA video coverage of crew departure.</p>
