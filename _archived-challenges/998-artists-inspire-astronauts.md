@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenges/artists-inspire-astronauts/
+permalink: /challenge/artists-inspire-astronauts/
 challenge-id: 998
 status: closed
 sidenav: true
