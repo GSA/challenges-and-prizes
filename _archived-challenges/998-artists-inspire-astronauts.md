@@ -40,7 +40,7 @@ challenge-manager-email: amanda.griffin@nasa.gov
 <li><strong>Winner:</strong> Bryan Larson, <strong>Title: </strong>Anticipation</li>
 </ul>
 <div class="description">
-<p><img src="{{ site.baseurl }}/assets/images/challenge-content/NASA-art-astronauts-contest2.png"></p>
+<p><img src="{{ site.baseurl }}/assets/images/challenge-content/NASA-art-astronauts-contest2.png" alt="NASA challenge logo"></p>
 <p>The goal of this challenge is to create an inspiring environment for astronauts before they head out on space missions. NASA's Kennedy Space Center is seeking submissions for original artwork to be displayed on a wall within the Astronaut Crew Quarters. The area is one of the last places astronauts will spend time before heading for the launch pad. Artwork on display may be visible during NASA video coverage of crew departure.</p>
 <h3><strong>Dates and Deadlines</strong></h3>
 <p>Entries must be submitted to Challenge.gov by <strong>Noon Eastern time on Thursday, April 30, 2019</strong>.&nbsp;</p>
