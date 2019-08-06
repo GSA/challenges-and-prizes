@@ -293,7 +293,7 @@ Naval Surface Warfare Center Carderock Division have gained
 significant technical capabilities and capacities to
 rigorously test WECs.</p>
 <h2>Areas of Excellence</h2>
-<p><strong>Area of Excellence #1: "2.7 Identify Goal and Outcome
+<p><strong>Area of Excellence #1: "Identify Goal and Outcome
 Metrics"</strong></p>
 <p>There needs to be a step change in the levelized cost of
 energy (LCOE) of wave energy to put it on a path to
@@ -386,7 +386,7 @@ during MASK Basin testing. The teams that surpass the 3m/$M
 threshold will be ranked by their HPQ, and the team with the
 highest HPQ will win the $1.5 million grand prize.</p>
 <p>&nbsp;</p>
-<p><strong>Area of Excellence #2: "2.9 Obtain Agency
+<p><strong>Area of Excellence #2: "Obtain Agency
 Clearance"</strong></p>
 <p>The DOE prize team in the Water Power Program engaged with
 senior leadership from the very inception of the idea to run
@@ -412,7 +412,7 @@ Act (NEPA) staff, also part of the prize team, have ensured
 that all actions taken by participants during the
 competition meet the requirements of NEPA.</p>
 <p>&nbsp;</p>
-<p><strong>Area of Excellence #3: "3.1 Execute the
+<p><strong>Area of Excellence #3: "Execute the
 Communications Plan"</strong></p>
 <p>The Wave Energy Prize has used several approaches to
 successfully publicize the prize, mobilize potential
@@ -532,7 +532,7 @@ media platforms and its website, and developed a two-track
 communications plan, one executed by the contractor selected
 to administer the prize, and one executed by the
 program-level agency team.</p>
-<p><strong>Area of Excellence #4: "3.2 Accept
+<p><strong>Area of Excellence #4: "Accept
 Solutions"</strong></p>
 <p><strong>Registration and eligibility</strong>: The Wave
 Energy Prize registration period started April 27, 2015, and

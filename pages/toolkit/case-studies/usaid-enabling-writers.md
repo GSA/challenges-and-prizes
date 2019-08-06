@@ -138,7 +138,7 @@ an open source product that is freely available on the web
 or for use on computers, and SIL International may develop
 it into a commercial product or service in the future.</p>
 <h2>Areas of Excellence</h2>
-<p><strong>Area of Excellence #1: "1.4 Determine if a Prize Is
+<p><strong>Area of Excellence #1: "Determine if a Prize Is
 Appropriate"</strong></p>
 <p>ACR GCD knew that several for-profit companies and nonprofit
 organizations had developed online and computer-based
@@ -162,7 +162,7 @@ The prize competition ensured that ACR GCD would choose the
 best product developer and caused an increase in capacity of
 multiple providers that can compete with each other in the
 future.</p>
-<p><strong>Area of Excellence #2: "2.5 Develop a Communications
+<p><strong>Area of Excellence #2: "Develop a Communications
 Plan"</strong></p>
 <p>The Enabling Writers communication plan was focused on
 attracting solvers (i.e., potential applicants) for the
@@ -233,7 +233,7 @@ employed, as respondents may not remember or may answer
 vaguely. For example, respondents may say they learned about
 the challenge "at an event" rather than naming the specific
 event.</p>
-<p><strong>Area of Excellence #3: "5.2 Document the
+<p><strong>Area of Excellence #3: "Document the
 Challenge"</strong></p>
 <p>The InnoCentive web-based "OmniCompete" platform was chosen
 as a portal to manage both applicant and judging feedback.
@@ -261,7 +261,7 @@ several applicants about what type of open license the
 software needed to be provided, what programming languages
 should be used and what was meant by leveled and decodable
 software.</p>
-<p><strong>Area of Excellence #4: "5.5 Manage
+<p><strong>Area of Excellence #4: "Manage
 Solutions"</strong></p>
 <p>The Bloom software was compared against offerings that arose
 from both new literacy projects as well as existing

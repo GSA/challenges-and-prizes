@@ -145,7 +145,7 @@ determine the best uses of forecasts to inform public
 health decision-making. A single cash prize of $75,000
 was awarded to the challenge winner.</p>
 <h2>Areas of Excellence</h2>
-<p><strong>Area of Excellence #1: "1.4 Determine if a Prize
+<p><strong>Area of Excellence #1: "Determine if a Prize
 is Appropriate"</strong></p>
 <p>By hosting this challenge, CDC was able to create a sense
 of urgency and excitement around influenza forecasting,
@@ -167,7 +167,7 @@ accurately forecasting influenza season milestones
 without having to choose the forecasting methodologies
 and allowed CDC to evaluate forecasts for accuracy and
 quality prior to awarding of the challenge prize.</p>
-<p><strong>Area of Excellence #2: "3.2 Accept
+<p><strong>Area of Excellence #2: "Accept
 Solutions"</strong></p>
 <p>The challenge was data intensive for both the
 participating teams and CDC. Teams were required to
@@ -212,7 +212,7 @@ individual team forecasts. The challenges in data
 management and judging were noted, and standardized
 forecasting formats and accuracy assessments were
 developed for subsequent challenges.</p>
-<p><strong>Area of Excellence #3: "5.2 Document the
+<p><strong>Area of Excellence #3: "Document the
 Challenge"</strong></p>
 <p>Participating teams were invited to travel to Atlanta to
 present on their methodology and results and discuss

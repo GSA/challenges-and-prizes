@@ -114,7 +114,7 @@ successful in engaging new communities by increasing
 awareness of the high-risk, high-reward research that
 falls under IARPA's mission.</p>
 <h2>Areas of Excellence</h2>
-<p><strong>Area of Excellence #1: "1.5 Build a
+<p><strong>Area of Excellence #1: "Build a
 Team"</strong></p>
 <p>IARPA's internal team included the program manager and
 contract support for the TRUST program, out of which the
@@ -131,7 +131,7 @@ committee included members from NASA, the U.S. Agency
 for International Development, National Science
 Foundation, Defense Threat Reduction Agency and Defense
 Advanced Research Projects Agency.</p>
-<p><strong>Area of Excellence #2: "2.4 Define Evaluation and
+<p><strong>Area of Excellence #2: "Define Evaluation and
 Judging Process"</strong></p>
 <p>Evaluation was objective and quantitative.&nbsp;
 Participants first created their algorithms using a
@@ -164,7 +164,7 @@ machine learning research; the percentages were weighted
 to favor the training and final validation sets in order
 to maximize training efficacy and validation
 accuracy.</p>
-<p><strong>Area of Excellence #3: "2.7 Identify Goal and
+<p><strong>Area of Excellence #3: "Identify Goal and
 Outcome Metrics"</strong></p>
 <p>The central goal of INSTINCT was to improve prediction of
 trustworthiness.</p>
@@ -191,7 +191,7 @@ federal conference for algorithm developers also
 resulted in a registration surge.&nbsp; However, banner
 ads on a major scientific journal website received a
 relatively low click-through rate.</p>
-<p><strong>Area of Excellence #4: "3.2 Accept
+<p><strong>Area of Excellence #4: "Accept
 Solutions"</strong></p>
 <p>Submission requirements varied over the course of the
 challenge. The requirements were minimal for the
@@ -213,7 +213,7 @@ organizers.&nbsp; These algorithms were then run by the
 challenge owners themselves against a third, evaluation
 portion of the data, and performance against this data
 set was used to determine challenge winners.</p>
-<p><strong>Area of Excellence #5: "3.3 Judge Submissions and
+<p><strong>Area of Excellence #5: "Judge Submissions and
 Select Winners"</strong></p>
 <p>Predictive performance at both the test and evaluation
 stages was calculated using d' (d-prime), a measure that

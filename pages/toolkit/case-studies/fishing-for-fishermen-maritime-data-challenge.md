@@ -87,7 +87,7 @@ specified fishing type:</p>
 <li>Seiner – 91-92 percent</li>
 </ul>
 <h2>Areas of Excellence</h2>
-<p><strong>Area of Excellence #1: "1.5 Build a Team"</strong></p>
+<p><strong>Area of Excellence #1: "Build a Team"</strong></p>
 <p>By partnering with U.S. Government agencies, academia, and industry, NMIO was
 able to build a team of maritime stakeholders who were interested in addressing
 the problem of IUU fishing around the world.</p>
@@ -100,7 +100,7 @@ and the Data Challenge Team were able to tap into experienced data scientists
 across the globe who delivered highly accurate algorithms that can be used by
 fishery analysts and enforcement authorities globally to support their efforts
 in combating IUU fishing.</p>
-<p><strong>Area of Excellence #2: "5.6 Share Best Practices and Results"</strong>
+<p><strong>Area of Excellence #2: "Share Best Practices and Results"</strong>
 </p>
 <p>From the beginning, our intent was to make the winning algorithms publically
 available to enable analysts and enforcement personnel globally to more

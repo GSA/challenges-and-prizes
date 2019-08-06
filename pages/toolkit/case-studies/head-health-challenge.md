@@ -168,7 +168,7 @@ considerable percentage of brain injuries. These new methods were essential for
 assessing the materials submitted during the challenge and will be leveraged for
 future research in the field.</p>
 <h2>Areas of Excellence</h2>
-<p><strong>Area of Excellence #1: "1.5 Build a Team"</strong></p>
+<p><strong>Area of Excellence #1: "Build a Team"</strong></p>
 <p>Head Health Challenge III bridged resources through a public-private partnership
 with the challenge partners consisting of NIST, NFL, Under Armour and GE. This
 public-private partnership approach leveraged the best of the public and private
@@ -186,7 +186,7 @@ competitiveness. The partners worked together to identify the vision and
 technical criteria for the challenge, and each contributed funds for the cash
 prizes. The Challenge was hosted by NineSigma under contract with NFL, Under
 Armour and GE. Mechanical testing was designed and performed by NIST.</p>
-<p><strong>Area of Excellence #2: "3.3 Manage the Judging Process and Select
+<p><strong>Area of Excellence #2: "Manage the Judging Process and Select
 Winners"</strong></p>
 <p>A panel of independent judges made all decisions about the finalists and the
 grand prize winner. The director of NIST appointed the judges based on
@@ -228,7 +228,7 @@ industry, academia and the federal government:</p>
 <p>The challenge partners were grateful for the time and commitment of this group of
 individuals who played a critical role in achieving the ambitious goals set by
 the Head Health Challenge III.</p>
-<p><strong>Area of Excellence #3: "5.4 Continue Community Engagement"</strong></p>
+<p><strong>Area of Excellence #3: "Continue Community Engagement"</strong></p>
 <p>Participating in the Head Health Challenge III leveraged NIST's technical
 expertise and allowed NIST to do what it does best—conduct measurement science
 that helps industries overcome barriers to developing new products and

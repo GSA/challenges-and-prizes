@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/MGMWERX-library-challenge/
 challenge-id: 1055
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/MGMWERX_library.png
 agency-logo: dod_seal.jpg

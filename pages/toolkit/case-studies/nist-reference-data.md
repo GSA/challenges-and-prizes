@@ -110,7 +110,7 @@ This challenge kicked off a bigger NIST open data commitment
 to improve the accessibility of SRD for app developers and
 other users of this valuable scientific data.</p>
 <h2>Areas of Excellence</h2>
-<p><strong>Area of Excellence #1: "1.7 Estimate Budget and
+<p><strong>Area of Excellence #1: "Estimate Budget and
 Resources"</strong></p>
 <p>NIST personnel were involved in the design and execution of
 the Reference Data Challenge. In addition to a significant
@@ -131,7 +131,7 @@ In total, executing the challenge used approximately
 one-fifth FTE (challenge manager) and two FTEs at 10 percent
 effort, and $37,500 for IT services (data preparation and
 challenge website).</p>
-<p><strong>Area of Excellence #2: "2.3 Develop Terms and
+<p><strong>Area of Excellence #2: "Develop Terms and
 Conditions"</strong></p>
 <p>The NIST challenge manager coordinated closely with NIST's
 Office of the Chief Counsel to develop a comprehensive set
@@ -190,7 +190,7 @@ other users. In this competition, there were no
 requirements for open source solutions.
 </li>
 </ul>
-<p><strong>Area of Excellence #3: "4.2 Pay Winners"</strong></p>
+<p><strong>Area of Excellence #3: "Pay Winners"</strong></p>
 <p>Upon determination of the three winners by the judging panel,
 the challenge manager immediately informed the winners that
 they were being considered for a prize. To claim the prize,
