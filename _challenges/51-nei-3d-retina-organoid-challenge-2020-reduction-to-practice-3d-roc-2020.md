@@ -88,9 +88,9 @@ challenge-manager-email: steven.becker@nih.gov
 </ul>
 <p><strong>To win prizes: </strong></p>
 <ul type="disc">
-<li>Must be a US citizen or permanent resident</li>
-<li>Agree to the eligibility rules and requirements listed on NEI&rsquo;s challenge details page</li>
-<li>Register and submit solutions on Challenge.gov</li>
+<li>Must be a US citizen or permanent resident.</li>
+<li>Agree to the eligibility rules and requirements listed on NEI&rsquo;s challenge details page.</li>
+<li>Register and submit solutions on Challenge.gov.</li>
 </ul>
 </div>
 
