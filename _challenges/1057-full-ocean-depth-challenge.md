@@ -31,7 +31,7 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 {: .text-accent-warm-dark .font-heading-lg}
 
 <div class="description">
-<p>Full ocean depths (nominally 600m) and long-term exposure to seawater create great challenges in the undersea environment. These challenges restrict the design and capability of weapons, electronics and vehicles both manned and unmanned.</p>
+<p>Full ocean depths (nominally 6000m) and long-term exposure to seawater create great challenges in the undersea environment. These challenges restrict the design and capability of weapons, electronics and vehicles both manned and unmanned.</p>
 <p>The goal of this prize challenge is to seek solutions or technology to:</p>
 <p>Design and construct a body/payload section that will survive full ocean depth pressures (6000m/10,000psi). The body/section shall be cylindrical with at least one removable/reusable end cap, approximately 21” in length, nominal outer diameter of 5.125” with maximized payload volume, and shall be scalable to diameters from 4” to 60”.</p>
 </div>

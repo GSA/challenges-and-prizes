@@ -48,7 +48,7 @@ The commitment to accessibility for all is reflected on this site in our efforts
 
 This site site is routinely tested for compliance with Section 508 of the Rehabilitation Act using a technical standards checklist, in-depth testing with screen readers, policy experts, and people with disabilities. For more information on Section 508 technical standards, please visit [www.Section508.gov](http://www.section508.gov/){:target="_blank" rel="noopener"}.
 
-In addition, the Data.gov site is also routinely reviewed for alignment with the latest Web Accessibility Initiative Guidelines for W3C. The [Web Accessibility Initiative Guidelines](https://www.w3.org/WAI/){:target="_blank" rel="noopener"} from the W3C define how browsers, media players, and other "user agents" support people with disabilities and work assistive technologies.
+In addition, the Challenge.gov site is also routinely reviewed for alignment with the latest Web Accessibility Initiative Guidelines for W3C. The [Web Accessibility Initiative Guidelines](https://www.w3.org/WAI/){:target="_blank" rel="noopener"} from the W3C define how browsers, media players, and other "user agents" support people with disabilities and work assistive technologies.
 
 Images on the site contain "alt tags", which aid users who listen to the content of the site by using a screen reader, rather than reading the site. Likewise, a "skip to" link provides these users with a method for bypassing the header and going directly to the main content each time a page is accessed. Text transcripts accompany audio clips, and closed captioning is available on videos.
 
