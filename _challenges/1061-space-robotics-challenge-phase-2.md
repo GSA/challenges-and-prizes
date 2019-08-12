@@ -7,7 +7,7 @@ sidenav: true
 card-image: /assets/images/cards/Full-Ocean-Depth-challenge.jpg
 agency-logo: dod_seal.jpg
 challenge-title: Space Robotics Challenge Phase 2
-tagline: The Navy is seeking ideas and best practices in materials that can withstand undersea challenges. 
+tagline: Develop software that allows a team of virtual robots to operate fully autonomously for a specified length of time.
 agency: National Aeronautics and Space Administration
 partner-agencies-federal: 
 partners-non-federal: 
