@@ -28,7 +28,7 @@ challenge-manager-email: Monsi.roman@nasa.gov
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>Phase 1 of the Space Robotics Challenge focused on increasing the autonomous dexterous capabilities of humanoid robots (NASA's R5 robot) in a virtual Martian environment. The final Phase 1 winners were announced in June 2017.</p>
 <p>Phase 2 of the Space Robotics Challenge is seeking to foster the creation or advancement of autonomous capabilities of lunar surface robots. Future ISRU missions may occur on surfaces such as Earth's moon, and will likely need to operate autonomously for long periods of time before, during, and after the presence of astronauts. Robots that can successfully perform ISRU tasks with little to no human intervention are valuable due to both the communication latencies and limited bandwidth between these destinations and Earth. Additionally, NASA has unique constraints for robotic systems in space compared to terrestrial applications, namely the radiation and thermal environments encountered, which affect the processing and sensing capabilities available for robotic systems. It is also recognized that many of the robotic capabilities needed for future exploration missions could have highly valuable functionality for terrestrial robotic applications, such as disaster relief, exploration of difficult and/or dangerous terrains, and industrial plant maintenance and servicing.</p>
@@ -36,7 +36,7 @@ challenge-manager-email: Monsi.roman@nasa.gov
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>Qualification Round:</strong> The Top 25 scoring competitors in the Qualification Round that meet or exceed a given threshold score, will be awarded prizes from a purse of $375,000 USD.</p>
 <p>Only the Top 25 scoring competitors will be invited to compete in the Competition Round.</p>
@@ -53,17 +53,17 @@ challenge-manager-email: Monsi.roman@nasa.gov
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
