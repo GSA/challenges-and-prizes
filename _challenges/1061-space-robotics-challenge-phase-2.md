@@ -7,7 +7,7 @@ sidenav: true
 card-image: /assets/images/cards/SpaceRobotics2.jpg
 agency-logo: 717px-NASA_logo.png
 challenge-title: Space Robotics Challenge Phase 2
-tagline: Develop software that allows a team of virtual robots to operate fully autonomously for a specified length of time.
+tagline: Develop software that allows a team of virtual robots to operate fully autonomously for a long-term ISRU mission.
 agency: National Aeronautics and Space Administration
 partner-agencies-federal: 
 partners-non-federal: 
