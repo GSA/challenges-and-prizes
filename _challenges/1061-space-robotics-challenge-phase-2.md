@@ -55,7 +55,7 @@ challenge-manager-email: Monsi.roman@nasa.gov
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-
+<p>For complete rules, visit&nbsp;<a href="http://www.spaceroboticschallenge.com">www.spaceroboticschallenge.com</a></p>
 
 <!-- Judging start -->
 ### Judging Criteria
