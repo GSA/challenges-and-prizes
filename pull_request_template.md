@@ -7,7 +7,7 @@
 
 ## Completion Checklist
 
-- filename starts with the challenge ID #
+- filename starts with the challenge ID #  example-->(1052-challenge-title.md)
 
 - images/docs have been added to the appropriate [assets](https://github.com/GSA/challenges-and-prizes/tree/master/assets) folder
 
