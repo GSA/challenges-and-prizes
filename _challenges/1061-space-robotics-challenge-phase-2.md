@@ -4,8 +4,8 @@ permalink: /challenge/space-robotics-challenge-phase-2/
 challenge-id: 1061
 status: open
 sidenav: true
-card-image: /assets/images/cards/Full-Ocean-Depth-challenge.jpg
-agency-logo: dod_seal.jpg
+card-image: /assets/images/cards/SpaceRobotics2.jpg
+agency-logo: 717px-NASA_logo.png
 challenge-title: Space Robotics Challenge Phase 2
 tagline: Develop software that allows a team of virtual robots to operate fully autonomously for a specified length of time.
 agency: National Aeronautics and Space Administration
