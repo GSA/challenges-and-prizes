@@ -13,7 +13,7 @@ partner-agencies-federal:
 partners-non-federal: 
 external-url:
 total-prize-offered-cash: $1,000,000
-type-of-challenge: Software
+type-of-challenge: Software and apps; Technology demontration and hardware; Scientific
 submission-start: 2019/08/12 9:00 AM
 submission-end: 2019/12/20 1:00 PM
 submission-link: www.spaceroboticschallenge.com
