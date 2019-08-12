@@ -77,3 +77,4 @@ challenge-manager-email: Monsi.roman@nasa.gov
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>All interested teams must register on the <a href="http://www.spaceroboticschallenge.com" target="_blank" rel="noopener">official challenge site</a> by the given deadline and meet the eligibility requirements as stated in the Official Rules in order to participate in the Challenge.</p>
+<p>For questions about this challenge, please contact: <a href="mailto:hq-stmd-centennialchallenges@mail.nasa.gov">hq-stmd-centennialchallenges@mail.nasa.gov</a></p>
