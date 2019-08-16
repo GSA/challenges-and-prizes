@@ -50,10 +50,12 @@ challenge-manager-email: mperry@resonanceglobal.com
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 
+
 <!-- Rules start -->
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<p>The RISE Challenge rules are available in the Request for Applications:&nbsp; <a href="https://drive.google.com/file/d/16kKS2hqO_vooZSrucwDuobt_TBF4jABC/view">https://drive.google.com/file/d/16kKS2hqO_vooZSrucwDuobt_TBF4jABC/view</a>.</p>
 
 <!-- Judging start -->
 ### Judging Criteria
