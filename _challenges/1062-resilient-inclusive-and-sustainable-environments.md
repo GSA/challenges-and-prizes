@@ -14,7 +14,7 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $1,200,000
 type-of-challenge: Ideas; Business plans
-submission-start: 2019/08/15 12:00 AM
+submission-start: 2019/08/15 3:00 PM
 submission-end: 2019/10/08  11:00 AM
 submission-link:  
 prizes: true
