@@ -110,4 +110,4 @@ challenge-manager-email: mperry@resonanceglobal.com
 <p>For instructions on how to apply, visit: <a href="https://competitions4dev.org/risechallenge" target="_blank" rel="noopener">https://competitions4dev.org/risechallenge</a>.</p>
 
 <p><strong>Point of Contact</strong></p>
-<p>For questions about this challenge, please contact: rise@usaid.gov.</p>
+<p>For questions about this challenge, please contact: rise@usaid.gov</p>
