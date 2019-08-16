@@ -18,7 +18,7 @@ submission-start: 2019/08/15 12:00 AM
 submission-end: 2019/10/08  11:00 AM
 submission-link:  
 prizes: true
-fiscal-year: FY19, FY20
+fiscal-year: FY18, FY19
 legal-authority: Grants and cooperative agreements
 challenge-manager: Meredith Perry
 challenge-manager-email: mperry@resonanceglobal.com
@@ -60,14 +60,14 @@ challenge-manager-email: mperry@resonanceglobal.com
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p>The RISE Challenge rules are available in the Request for Applications:&nbsp; <a href="https://drive.google.com/file/d/16kKS2hqO_vooZSrucwDuobt_TBF4jABC/view">https://drive.google.com/file/d/16kKS2hqO_vooZSrucwDuobt_TBF4jABC/view</a>.</p>
+<p>The RISE Challenge rules are available in the Request for Applications: <a href="https://drive.google.com/file/d/16kKS2hqO_vooZSrucwDuobt_TBF4jABC/view">https://drive.google.com/file/d/16kKS2hqO_vooZSrucwDuobt_TBF4jABC/view</a>.</p>
 
 <!-- Judging start -->
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>Judging Panel</strong></p>
-<p>Expert judges from among USAID&rsquo;s Missions and Bureaus and affiliated partners will review the remaining applications and assess them against the judging criteria.</p>
+<p>Expert judges from among USAID's Missions and Bureaus and affiliated partners will review the remaining applications and assess them against the judging criteria.</p>
 <p><strong>Judging Criteria</strong></p>
 <p>There are five judging criteria, ranked in order of priority. The judging panel will assess each eligible application across these weighted technical criteria, and recommend the up to the top 20% of submissions to be invited for finalist interviews. Note the budget will be reviewed for cost reasonableness, but will not be weighed in the evaluation criteria.</p>
 <p><em>Intervention rationale (30%)</em>: Applicants will be judged on their articulation of the challenge, hypothesis for change and rationale for how their intervention will prevent or respond to GBV in environmental programming.</p>
@@ -83,18 +83,18 @@ challenge-manager-email: mperry@resonanceglobal.com
 <li>Has this intervention considered the specific needs and everyday lives of the people who will be affected?</li>
 <li>What measures are in place to protect any sensitive data or information (or the sources of that information) as well as the providers of that information as it is collected through the implementation process?</li>
 </ul>
-<p><em>MEL (20%)</em>: Given the nascency of the evidence base at this nexus, applicants will be judged on how their proposal will advance the international community&rsquo;s understanding of challenges and potential interventions at the intersection of GBV and environmental programming.</p>
+<p><em>MEL (20%)</em>: Given the nascency of the evidence base at this nexus, applicants will be judged on how their proposal will advance the international community's understanding of challenges and potential interventions at the intersection of GBV and environmental programming.</p>
 <ul>
 <li>What indicators will your intervention use to evaluate outputs?</li>
 <li>How will this intervention translate data into accessible and actionable insights for the evidence base?</li>
 <li>How will learning and evidence be shared with stakeholders?</li>
 </ul>
-<p><em>Partnership plan and organizational capacity (20%)</em>: Applicants will be judged on the degree to which their partnership model demonstrates the ability to leverage the diversity of expertise required for successfully innovating new interventions to challenges at the intersection of GBV and the environment. This includes proposed engagement with specific partners, including environmental organizations, gender-based violence organizations, women&rsquo;s and girls&rsquo; organizations, indigenous communities/groups, youth, and other vulnerable populations and local groups. .Partnerships with research, academic, or evaluation organizations with the capacity to support evidence collection are also highly encouraged.&nbsp;&nbsp;</p>
+<p><em>Partnership plan and organizational capacity (20%)</em>: Applicants will be judged on the degree to which their partnership model demonstrates the ability to leverage the diversity of expertise required for successfully innovating new interventions to challenges at the intersection of GBV and the environment. This includes proposed engagement with specific partners, including environmental organizations, gender-based violence organizations, women's and girls' organizations, indigenous communities/groups, youth, and other vulnerable populations and local groups. .Partnerships with research, academic, or evaluation organizations with the capacity to support evidence collection are also highly encouraged.</p>
 <ul>
-<li>How will the partnership&rsquo;s management plan credibility leverage existing work across the team?</li>
+<li>How will the partnership's management plan credibility leverage existing work across the team?</li>
 <li>What experience do the partners bring to this intersection of GBV and environmental programming?</li>
 <li>Do the key personnel have the requisite expertise and experience to successfully implement this intervention?</li>
-<li>What is the organization&rsquo;s GBV safeguarding policy?</li>
+<li>What is the organization's GBV safeguarding policy?</li>
 </ul>
 <p><em>Pathway to integration (10%)</em>: Applicants should demonstrate a plan for understanding how this intervention can be applied in new contexts beyond the initial application.</p>
 <ul>
