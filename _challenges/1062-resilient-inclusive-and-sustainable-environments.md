@@ -12,7 +12,7 @@ agency: U.S. Agency for International Development
 partner-agencies-federal: 
 partners-non-federal: 
 external-url:
-total-prize-offered-cash:
+total-prize-offered-cash: $1,200,000
 type-of-challenge: Ideas; Business plans
 submission-start: 2019/08/15 12:00 AM
 submission-end: 2019/10/08  11:00 AM
@@ -49,7 +49,12 @@ challenge-manager-email: mperry@resonanceglobal.com
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-
+<p><strong>Total Prize Pool</strong></p>
+<p>$1,200,000</p>
+<p><strong>Breakdown</strong></p>
+<p>Awards are available in amounts of $100,000-$300,000. U.S.-based institutions proposing global work are not eligible for grants of more than $100,000.</p>
+<p><strong>Non-monetary Prizes</strong></p>
+<p>Winners will also obtain a trip to a Washington D.C. conference, mentoring, networking opportunities, technical assistance, monitoring, evaluation, and learning support, and communications and co-promotion support.</p>
 
 <!-- Rules start -->
 ### Rules 
