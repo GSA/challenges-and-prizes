@@ -25,7 +25,7 @@ Challenge Manager Email: michael.j.karlbom1@navy.mil
 ---
 
 <!-- Description start -->
-<p>See <strong><a href="{{ site.baseurl }}/assets/document-library/AI-ATAC-Prize-Challenge-FAQ-2-05AUG19.pdf">FREQUENTLY ASKED QUESTIONS</a></strong> for this challenge.</p>
+<p>See <strong><a href="{{ site.baseurl }}/assets/document-library/AI-ATAC-Prize-Challenge-FAQ-2-05AUG19.pdf" target="_blank" rel="noopener">FREQUENTLY ASKED QUESTIONS</a></strong> for this challenge.</p>
 
 ### Description
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
