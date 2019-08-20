@@ -7,7 +7,7 @@ sidenav: true
 card-image: /assets/images/cards/rustbusters.jpg
 agency-logo: usbr.jpg
 challenge-title: Rust Busters Challenge
-tagline: Join the Resistance: Submit your rust busting breakthrough to extend the life of water infrastructure in the United States.
+tagline: Join the Resistance - Submit your rust busting breakthrough to extend the life of water infrastructure in the United States.
 agency: Department of the Interior - Bureau of Reclamation
 partner-agencies-federal: U.S. Army Corps of Engineers, NASA Tournament Labs
 partners-non-federal: 
