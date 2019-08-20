@@ -1,3 +1,4 @@
+
 ---
 layout: front-matter-data
 permalink: /challenge/mechanical-maker-challenge-detect-obstacles/
