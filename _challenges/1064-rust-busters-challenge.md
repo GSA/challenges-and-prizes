@@ -58,7 +58,7 @@ challenge-manager-email: kyla@herox.com
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>Total Prize Pool: $350,000</strong></p>
-<p><strong>Prize Breakdown</strong></p>
+<p><strong>Breakdown</strong></p>
 <p><em>Phase 1: $250,000</em></p>
 <p>Up to 5 winners will receive up to a $50,00 prize.</p>
 <p><em>Phase 2: $100,000</em> </p>
@@ -90,4 +90,4 @@ challenge-manager-email: kyla@herox.com
 <p>See challenge website: <a href="http://www.herox.com/RustBusters">www.herox.com/RustBusters</a></p>
 
 <p><strong>Point of Contact</strong></p>
-<p>For questions about this challenge, please see the challenge website: <a href="http://www.herox.com/RustBusters">www.herox.com/RustBusters</a> or email <a href="mailto:gethelp@herox.com">gethelp@herox.com</a></p>
+<p>For questions about this challenge, please see the challenge website at <a href="http://www.herox.com/RustBusters">www.herox.com/RustBusters</a> or email <a href="mailto:gethelp@herox.com">gethelp@herox.com</a></p>
