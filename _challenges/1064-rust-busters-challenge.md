@@ -30,25 +30,25 @@ challenge-manager-email: kyla@herox.com
 ### Description
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p>Water infrastructure in the United States is critical to the domestic economy, commerce, and resource management.&nbsp; There are thousands of existing hydraulic steel structures (HSS) that require regular maintenance and upkeep. Original methods to protect HSS are disfavored or no longer used due to environmental and safety concerns.&nbsp; Newer approaches to corrosion control suffer from higher costs, shorter service life, and reduced efficacy.&nbsp;</p>
-<p>In order to address rising maintenance costs and to advance the state of the art for corrosion control, the Bureau of Reclamation (Reclamation), in collaboration with the U.S. Army Corps of Engineers (USACE), is sponsoring this two phase Rust Busters Challenge.&nbsp; This Challenge seeks to identify and develop new methods for corrosion control.&nbsp; The Challenge sponsors are vitally interested in completely new approaches that are outside of conventional thought processes for corrosion control that can be applied to existing structures in situ. There is also interest in advancing existing technologies that can significantly improve service life, reduce costs (through innovative application methods or use of new materials), or improve performance range (through additional features such as health monitoring or self-healing).</p>
-<p>This Rust Busters Challenge offers the opportunity for the most compelling corrosion control approaches to be evaluated and field-tested by the Challenge sponsors.&nbsp; In Phase 1, participants will submit a paper containing the proposed approach to corrosion control, its scientific rationale, and any supporting data.&nbsp; Up to 5 of the most compelling submissions will be selected as Phase 1 winners.&nbsp; Only Phase 1 winners can participate in Phase 2, and each Phase 1 winner will receive up to $50,000 to help support Phase 2 efforts.&nbsp; During Phase 2, participants will demonstrate their technologies using test coupons supplied by Reclamation.&nbsp; Test coupons and/or prototypes will be evaluated by Reclamation, and up to 3 final winners will share the final prize of $100,000.&nbsp; This Challenge has a total prize purse of $350,000 ($250,000 in Phase 1 and $100,000 in Phase 2).&nbsp; It offers a rare opportunity for Phase 2 participants to receive field-test data for their technologies and additional possibilities to continue working with Reclamation to further develop their technologies.&nbsp;</p>
+<p>Water infrastructure in the United States is critical to the domestic economy, commerce, and resource management. There are thousands of existing hydraulic steel structures (HSS) that require regular maintenance and upkeep. Original methods to protect HSS are disfavored or no longer used due to environmental and safety concerns. Newer approaches to corrosion control suffer from higher costs, shorter service life, and reduced efficacy.</p>
+<p>In order to address rising maintenance costs and to advance the state of the art for corrosion control, the Bureau of Reclamation (Reclamation), in collaboration with the U.S. Army Corps of Engineers (USACE), is sponsoring this two phase Rust Busters Challenge. This Challenge seeks to identify and develop new methods for corrosion control. The Challenge sponsors are vitally interested in completely new approaches that are outside of conventional thought processes for corrosion control that can be applied to existing structures in situ. There is also interest in advancing existing technologies that can significantly improve service life, reduce costs (through innovative application methods or use of new materials), or improve performance range (through additional features such as health monitoring or self-healing).</p>
+<p>This Rust Busters Challenge offers the opportunity for the most compelling corrosion control approaches to be evaluated and field-tested by the Challenge sponsors. In Phase 1, participants will submit a paper containing the proposed approach to corrosion control, its scientific rationale, and any supporting data. Up to 5 of the most compelling submissions will be selected as Phase 1 winners. Only Phase 1 winners can participate in Phase 2, and each Phase 1 winner will receive up to $50,000 to help support Phase 2 efforts. During Phase 2, participants will demonstrate their technologies using test coupons supplied by Reclamation. Test coupons and/or prototypes will be evaluated by Reclamation, and up to 3 final winners will share the final prize of $100,000. This Challenge has a total prize purse of $350,000 ($250,000 in Phase 1 and $100,000 in Phase 2). It offers a rare opportunity for Phase 2 participants to receive field-test data for their technologies and additional possibilities to continue working with Reclamation to further develop their technologies.</p>
 <p><strong>KEY DATES</strong></p>
 <ul>
-<li><strong>Pre-Registration:&nbsp;</strong> August 22 &ndash; September 19, 2019</li>
+<li><strong>Pre-Registration:</strong> August 22 &ndash; September 19, 2019</li>
 <li><strong>Phase 1 Key Dates (anticipated)</strong>
 <ul>
 <li><strong>Submissions:</strong> September 19, 2019 &ndash; January 16, 2020</li>
-<li><strong>Judging:</strong>&nbsp; January 2020 &ndash; February 2020</li>
-<li><strong>Phase 1 Winners Announced:</strong>&nbsp; March 2020</li>
+<li><strong>Judging:</strong> January 2020 &ndash; February 2020</li>
+<li><strong>Phase 1 Winners Announced:</strong> March 2020</li>
 </ul>
 </li>
 <li><strong>Phase 2 Key Dates (anticipated)</strong>
 <ul>
-<li><strong>Prototype Development:</strong>&nbsp; March 2020 to September 2020</li>
-<li><strong>Prototype Testing and Evaluation:&nbsp; </strong>September 2020 to December 2021</li>
-<li><strong>Best in Lab Performance Winner Announcement:</strong>&nbsp; March 2021</li>
-<li><strong>Phase 2 Winner Announcement:</strong>&nbsp; December 2021</li>
+<li><strong>Prototype Development:</strong> March 2020 to September 2020</li>
+<li><strong>Prototype Testing and Evaluation: </strong>September 2020 to December 2021</li>
+<li><strong>Best in Lab Performance Winner Announcement:</strong> March 2021</li>
+<li><strong>Phase 2 Winner Announcement:</strong> December 2021</li>
 </ul>
 </li>
 </ul>
