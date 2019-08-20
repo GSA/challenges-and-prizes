@@ -14,13 +14,13 @@ partners-non-federal: Philadelphia Makers Meetup
 external-url:
 total-prize-offered-cash:
 type-of-challenge: Ideas
-submission-start: 2019/08/26 8:00 p.m. ET
-submission-end: 2019/10/17 11:59 p.m. ET
+submission-start: 2019/08/26 8:00 p.m.
+submission-end: 2019/10/17 11:59 p.m.
 submission-link:  
 prizes: true
 fiscal-year: FY19, FY20
 legal-authority: Procurement Authority
-challenge-manager: Jonathan Sauder, Jonathan.Sauder@jpl.nasa.gov
+challenge-manager: Jonathan Sauder Jonathan.Sauder@jpl.nasa.gov
 challenge-manager-email: mechanicalmaker@jpl.nasa.gov
 ---
 
@@ -98,3 +98,5 @@ challenge-manager-email: mechanicalmaker@jpl.nasa.gov
 <!--  How To Enter start -->
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
+<p>Design description and blueprint must be submitted via email to mechanicalmaker@jpl.nasa.gov. Please also include your name, email address, and state of residence. Provide a three-page description of the design as well as a separate blueprint illustrating how the concept works. Video demonstrations of working prototypes are encouraged but not required. If a prototype is built, a video of the prototype thoroughly describing the design should be provided via a link. Maximum submission size is 8 MB, therefore videos must be posted online.</p>
