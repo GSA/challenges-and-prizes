@@ -58,16 +58,24 @@ challenge-manager-email: kyla@herox.com
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 
+
 <!-- Rules start -->
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<p>See challenge website: <a href="http://www.herox.com/RustBusters">www.herox.com/RustBusters</a></p>
 
 <!-- Judging start -->
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<p>See challenge website: <a href="http://www.herox.com/RustBusters">www.herox.com/RustBusters</a></p>
 
 <!--  How To Enter start -->
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
+<p>See challenge website: <a href="http://www.herox.com/RustBusters">www.herox.com/RustBusters</a></p>
+
+<p><strong>Point of Contact</strong></p>
+<p>For questions about this challenge, please see the challenge website: <a href="http://www.herox.com/RustBusters">www.herox.com/RustBusters</a> or email <a href="mailto:gethelp@herox.com">gethelp@herox.com</a></p>
