@@ -6,7 +6,7 @@ status: open
 sidenav: true
 card-image: /assets/images/cards/NASA-MM-1063-Mechanical_Maker_General_logo.png
 agency-logo: 717px-NASA_logo.png
-challenge-title: Mechanical Maker Challenge: Detect Obstacles
+challenge-title: Mechanical Maker Challenge - Detect Obstacles
 tagline: Design a Clockwork Mechanical Obstacle Avoidance Sensor for Venus
 agency: National Aeronautics and Space Administration
 partner-agencies-federal: 
