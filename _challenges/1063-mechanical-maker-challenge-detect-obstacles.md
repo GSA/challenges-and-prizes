@@ -18,7 +18,7 @@ submission-start: 2019/08/26 8:00 p.m.
 submission-end: 2019/10/17 11:59 p.m.
 submission-link:  
 prizes: true
-fiscal-year: FY19, FY20
+fiscal-year: FY19-FY20
 legal-authority: Procurement Authority
 challenge-manager: Jonathan Sauder Jonathan.Sauder@jpl.nasa.gov
 challenge-manager-email: mechanicalmaker@jpl.nasa.gov
@@ -37,7 +37,7 @@ challenge-manager-email: mechanicalmaker@jpl.nasa.gov
 <p>The Challenge: Design a mechanical sensor that can:</p>
 <ul>
 <li>Detect obstacles that are larger than 0.35 meters tall, or holes/valleys deeper than 0.35 meters, as these are larger than half of the diameter of the tire.</li>
-<ul><li><li>See examples of obstacles in challenge details.</li></ul>
+<ul><li>See examples of obstacles in challenge details.</li></ul>
 <li>Is not triggered by obstacles which are less than 0.3 meters tall or holes/valleys 0.3 meters deep.</li>
 <ul>
 <li>Wheels are large enough to scale obstacles which are this size or smaller</li></ul>
@@ -46,7 +46,6 @@ challenge-manager-email: mechanicalmaker@jpl.nasa.gov
 <li>When an obstacles is detected, move a pin by 3 cm.</li></ul>
 <p><strong>What to Submit: </strong>A three-page description of the design as well as a separate blueprint illustrating how the concept works. Video demonstrations of working prototypes are encouraged but not required. If a prototype is built, a video of the prototype thoroughly describing the design should be provided via a publically accessible internet link. Maximum submission size is 8 MB, therefore videos must be posted online.</p>
 <p>This challenge is being run in collaboration with Philadelphia Makers Meetup.</p>
-
 
 <!-- Prizes start -->
 ### Prizes
