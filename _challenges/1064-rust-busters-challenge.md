@@ -13,15 +13,15 @@ partner-agencies-federal: U.S. Army Corps of Engineers, NASA Tournament Labs
 partners-non-federal: 
 external-url:
 total-prize-offered-cash: $350,000
-type-of-challenge: 
-submission-start: 
-submission-end: 
+type-of-challenge: Technology demonstration and hardware
+submission-start: 2019/9/16 12:00 PM
+submission-end: 2020/01/16 08:00 PM 
 submission-link:  
 prizes: true
 fiscal-year: FY19, FY20, FY21
 legal-authority: Other
-challenge-manager:
-challenge-manager-email:
+challenge-manager: Kyla Jeffrey
+challenge-manager-email: kyla@herox.com
 ---
 
 
