@@ -57,7 +57,19 @@ challenge-manager-email: kyla@herox.com
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-
+<p><strong>Total Prize Pool: $350,000</strong></p>
+<p><strong>Prize Breakdown</strong></p>
+<p><em>Phase 1: $250,000</em></p>
+<p>Up to 5 winners will receive up to a $50,00 prize.</p>
+<p><em>Phase 2: $100,000</em> </p>
+<p>Up to 3 winners will share the $100,000 prize.</p>
+<p><strong>Non-monetary Prizes</strong></p>
+<p>Phase 2 participants will receive field-test data for their technologies.</p>
+<p>Phase 2 winners:</p>
+<ul>
+<li>May be invited to present their work jointly with Reclamation at either the NACE 2022 International Corrosion Conference and Expo or the SSPC's Coatings+2022 Conference.</li>
+<li>May have the opportunity to further develop and field test their approaches in partnership with an existing Reclamation or U.S. Corps of Engineers Project.</li>
+</ul>
 
 <!-- Rules start -->
 ### Rules 
