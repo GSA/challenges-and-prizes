@@ -19,7 +19,33 @@ submission-end: 2019/10/17 11:59 p.m.
 submission-link:  
 prizes: true
 fiscal-year: FY19-FY20
-legal-authority: Procurement Authority
-challenge-manager: Jonathan Sauder Jonathan.Sauder@jpl.nasa.gov
+legal-authority: Procurement
+challenge-manager: Jonathan Sauder
 challenge-manager-email: mechanicalmaker@jpl.nasa.gov
 ---
+
+
+
+<!-- Description start -->
+### Description
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
+
+<!-- Prizes start -->
+### Prizes
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
+
+<!-- Rules start -->
+### Rules 
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
+
+<!-- Judging start -->
+### Judging Criteria
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
+
+<!--  How To Enter start -->
+### How To Enter
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
