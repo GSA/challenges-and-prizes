@@ -32,16 +32,12 @@ id="7944" itemscope="" itemtype="http://schema.org/CreativeWork">
 
 </div><!-- CLOSE .container -->
 
-<div class="grid-container usa-section">
+<div class="grid-container padding-bottom-5">
 
 <section class="article-body-wrap col-sm-9">
 <section class="portfolio-detail-description">
 <div class="body-text clearfix" itemprop="description">
-<section class="container">
-<div class="row">
-<div class="blank_spacer col-sm-12 " style="height:12px;"></div>
-</div>
-</section>
+
 <section class="container">
 <div class="row">
 <div class="spb_content_element col-sm-12 spb_text_column">
@@ -188,9 +184,9 @@ level.</p>
 Policy convened a group of federal</p>
 <div id="attachment_8069" style="max-width: 310px"
 class="wp-caption alignright"><a
-href="http://platform.gsa.gov/community-library/1043/uploads/2016/09/NutrientsensorII.jpg"><img
+href="{{ site.baseurl }}/assets/images/toolkit/case-studies/NutrientsensorII.jpg"><img
 class="wp-image-8069 size-medium"
-src="http://platform.gsa.gov/community-library/1043/uploads/2016/09/NutrientsensorII-300x225.jpg"
+src="{{ site.baseurl }}/assets/images/toolkit/case-studies/NutrientsensorII-300x225.jpg"
 alt="A crowd gathers at the Nutrient Sensor Challenge Summit in August 2015."
 width="300" height="225"></a>
 <p class="wp-caption-text">The Nutrient Sensor Challenge

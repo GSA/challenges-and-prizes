@@ -217,6 +217,21 @@ h3 a {
 	list-style-type: none;
 }
 
+.alignleft {
+	float: left;
+	padding-right: 20px;
+}
+
+.alignright {
+	float: right;
+	padding-left: 10px;
+}
+
+.wp-caption {
+	font-size: smaller;
+	font-style: italic
+}
+
 //Toolkit
 
 .toolkit h1 {
