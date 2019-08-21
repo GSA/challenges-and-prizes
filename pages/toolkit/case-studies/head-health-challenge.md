@@ -280,9 +280,7 @@ to different body types and applications. One of the co-winners, 6D Helmets has
 recently announced that the material it developed and improved for the challenge
 has been deployed in several of their helmet products for bicyclists and
 motocross sports.</p>
-<p>After the challenge, NIST and a representative from the winning team <a
-    href="https://science.house.gov/legislation/hearings/subcommittee-research-and-technology-hearing-head-health-challenge-preventing"
-    target="_blank" rel="noopener">testified</a> about its purpose and outcomes
+<p>After the challenge, NIST and a representative from the winning team testified about its purpose and outcomes
 before the House Subcommittee on Research and Technology. The hearing focused on
 Head Health Challenge III, which provided a catalyst for broader discussion of
 how prize competitions can be used to successfully address national priorities
