@@ -193,9 +193,9 @@ id="8644" itemscope="" itemtype="http://schema.org/CreativeWork">
 <p></p>
 <div id="attachment_8647" style="max-width: 410px"
         class="wp-caption alignright"><a
-        href="/community-library/1043/Toolkit/Images/Food-Intake-Tracker-II-760x1024.png"><img
+        href="{{ site.baseurl }}/assets/images/toolkit/case-studies/Food-Intake-Tracker-II-760x1024.png"><img
         class="wp-image-8647"
-        src="/community-library/1043/Toolkit/Images/Food-Intake-Tracker-II-760x1024.png"
+        src="{{ site.baseurl }}/assets/images/toolkit/case-studies/Food-Intake-Tracker-II-760x1024.png"
         alt="The ISS FIT Daily Intake Report screen charts the time, food and nutrition information of everything consumed by an astronaut."
         sizes="(max-width: 400px) 100vw, 400px" width="400"
         height="539"></a>
@@ -234,9 +234,7 @@ id="8644" itemscope="" itemtype="http://schema.org/CreativeWork">
 <h2></h2>
 <h2>Challenge Website</h2>
 <p>
-    <a href="https://www.topcoder.com/iss/fit/ (Open Source Code Repository: https://github.com/NASA-Tournament-Lab/NTL-ISS-Food-Intake-Tracker)">https://www.topcoder.com/iss/fit/
-        (Open Source Code Repository:
-        https://github.com/NASA-Tournament-Lab/NTL-ISS-Food-Intake-Tracker)</a>
+    Open Source Code Repository: <a href="https://github.com/george419/NTL-ISS-Food-Intake-Tracker" target="_blank" rel="noopener nofollow">https://github.com/george419/NTL-ISS-Food-Intake-Tracker</a>
 </p>
 
 </div>
