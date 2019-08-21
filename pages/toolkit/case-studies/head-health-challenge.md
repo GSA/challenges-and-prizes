@@ -7,7 +7,7 @@ title: Case Study - Head Health Challenge III
 
 
 <!--// OPEN .container //-->
-<div class="grid-container usa-section">
+<div class="grid-container padding-bottom-5">
 
 <!--// OPEN #page-wrap //-->
 <div id="page-wrap">

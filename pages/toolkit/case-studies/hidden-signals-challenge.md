@@ -7,7 +7,7 @@ title: Case Study - Hidden Signals Challenge
 
 
 <!--// OPEN .container //-->
-<div class="grid-container usa-section">
+<div class="grid-container padding-bottom-5">
 
 <!--// OPEN #page-wrap //-->
 <div id="page-wrap">

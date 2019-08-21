@@ -30,7 +30,7 @@ id="8644" itemscope="" itemtype="http://schema.org/CreativeWork">
 
 </div><!-- CLOSE .container -->
 
-<div class="grid-container usa-section">
+<div class="grid-container padding-bottom-5">
 
 <section class="article-body-wrap col-sm-9">
 <section class="portfolio-detail-description">
