@@ -64,7 +64,7 @@ challenge-manager-email: kyla@herox.com
 <p><em>Phase 2: $100,000</em> </p>
 <p>Up to 3 winners will share the $100,000 prize.</p>
 <p><strong>Non-monetary Prizes</strong></p>
-<p>Phase 2 participants will receive field-test data for their technologies.</p>
+<p>Phase 2 participants will receive laboratory and field testing data for their technologies.</p>
 <p>Phase 2 winners:</p>
 <ul>
 <li>May be invited to present their work jointly with Reclamation at either the NACE 2022 International Corrosion Conference and Expo or the SSPC's Coatings+2022 Conference.</li>
