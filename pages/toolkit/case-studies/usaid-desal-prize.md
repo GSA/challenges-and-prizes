@@ -518,8 +518,7 @@ countries.
 <h2>Challenge Website</h2>
 <p><a href="http://www.securingwaterforfood.org">http://www.securingwaterforfood.org</a>
 </p>
-<p><a href="https://storify.com/securingwater/the-desal-prize">https://storify.com/securingwater/the-desal-prize</a>
-</p>
+
 
 </div>
 </div>
