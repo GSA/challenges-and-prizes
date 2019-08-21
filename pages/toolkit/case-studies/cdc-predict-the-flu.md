@@ -261,8 +261,7 @@ forecast accuracy, the best way to communicate forecast
 uncertainty and the types of decisions best aided by
 forecasts. To help fill these research gaps, CDC has
 built upon the success of the original challenge to host
-<a href="http://www.cdc.gov/flu/news/flu-forecast-website-launched.htm">additional
-challenges</a> to predict subsequent influenza
+additional challenges to predict subsequent influenza
 seasons.</p>
 <h2>Legal Authority</h2>
 <p>America COMPETES Act</p>
