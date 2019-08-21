@@ -188,9 +188,9 @@ level.</p>
 Policy convened a group of federal</p>
 <div id="attachment_8069" style="max-width: 310px"
 class="wp-caption alignright"><a
-href="http://platform.gsa.gov/community-library/1043/uploads/2016/09/NutrientsensorII.jpg"><img
+href="{{ site.baseurl }}/assets/images/toolkit/case-studies/NutrientsensorII.jpg"><img
 class="wp-image-8069 size-medium"
-src="http://platform.gsa.gov/community-library/1043/uploads/2016/09/NutrientsensorII-300x225.jpg"
+src="{{ site.baseurl }}/assets/images/toolkit/case-studies/NutrientsensorII-300x225.jpg"
 alt="A crowd gathers at the Nutrient Sensor Challenge Summit in August 2015."
 width="300" height="225"></a>
 <p class="wp-caption-text">The Nutrient Sensor Challenge
