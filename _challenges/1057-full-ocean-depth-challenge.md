@@ -344,5 +344,5 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 <div class="how-to-enter">
 <p>Entries must be submitted via email to <a href="mailto:christopher.r.hebert@navy.mil" target="_blank" rel="noopener">christopher.r.hebert@navy.mil</a> by 02:00 Eastern Time on 30 August 2019. Submissions received after the deadline will not be considered.</p>
   <p>Submissions including attachments shall use the following filename convention:</p>
-  <p>Ch.gov user name (e.g., User123X_concept.pdf, User123X_schematic.pdf)</p>
+  <p>Company or Individual Name (e.g., Company or Individual Name_concept.pdf, Company or Individual Name _schematic.pdf)</p>
 </div>
