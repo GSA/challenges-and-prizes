@@ -188,9 +188,7 @@ the travel data.</p>
 <p>
 <a href="http://challengepost.com/software/gsa-data-analytics">http://challengepost.com/software/gsa-data-analytics</a>
 </p>
-<p>
-<a href="https://github.com/greggparrish/gsa/blob/master/apps/gsa_data/migrations/0001_initial.py">https://github.com/greggparrish/gsa/blob/master/apps/gsa_data/migrations/0001_initial.py</a>
-</p>
+
 
 </div>
 </div>
