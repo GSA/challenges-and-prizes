@@ -124,9 +124,11 @@ style="font-weight: 400;">, where they have access to partnership with researche
 </p>
 <h2>Legal Authority</h2>
 <p>America COMPETES Act</p>
+<!-- 
 <h2>Challenge Website</h2>
 <p><a href="https://www.wordgapchallenge.hrsa.gov/">https://www.wordgapchallenge.hrsa.gov/</a>
 </p>
+-->
 </div>
 </section>
 </section>
