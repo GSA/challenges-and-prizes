@@ -111,19 +111,16 @@ dangers and to create a compelling and attention-grabbing
 poster to showcase what they learned and steps they should
 take to protect themselves and their families from carbon
 monoxide poisoning. Students developed novel approaches to
-their posters, including a <a
-href="http://www.cpsc.gov/Safety-Education/CO-Contest-2014/Winners/co2015-Nisa/">colorful
-drawing of a canary</a> with the words: "Keep the canary
+their posters, including a colorful
+drawing of a canary with the words: "Keep the canary
 singing. You shouldn't rely on a canary to warn you about
 carbon monoxide. Install a carbon monoxide detector in your
-home." Another winner drew a <a
-href="http://www.cpsc.gov/Safety-Education/CO-Contest-2014/Winners/co2015-Frankie/">blindfolded
-girl</a>, who could not see or smell the carbon monoxide
+home." Another winner drew a blindfolded
+girl, who could not see or smell the carbon monoxide
 floating around her, coupled with the words: "The invisible
 killer. Odorless, colorless, tasteless—can kill within
-minutes." Another student created a poster depicting <a
-href="http://www.cpsc.gov/Safety-Education/CO-Contest-2014/Winners/co2015-Darcy/">"Codie
-the CO safety cat"</a> teaching kids about carbon
+minutes." Another student created a poster depicting "Codie
+the CO safety cat" teaching kids about carbon
 monoxide dangers.</p>
 <p><strong>Area of Excellence #2: "Develop Submission
 Requirements"</strong></p>
@@ -148,7 +145,7 @@ important
 </li>
 </ul>
 <p>Contest rules required students to submit their poster
-entries <a href="http://www.cpsc.gov/">online</a>. Because
+entries online. Because
 the contest involves children under the age of 13, CPSC's
 priority is their safety and privacy. CPSC complies with the
 Children's Online Privacy Protection Act of 1998 (COPPA) and
