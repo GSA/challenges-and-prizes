@@ -278,7 +278,7 @@ additive manufacturing workforce needs.</p>
 authority.</p>
 <h2></h2>
 <h2>Challenge Website</h2>
-<p><a href="http://futureengineers.org">http://futureengineers.org</a>
+<p><a href="https://www.futureengineers.org/" target="_blank" rel="noopener nofollow">http://futureengineers.org</a>
 </p>
 
 </div>
