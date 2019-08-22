@@ -60,6 +60,40 @@ challenge-manager-email: mechanicalmaker@jpl.nasa.gov
 <!-- Rules start -->
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
+<ul>
+  <li>Design a mechanical obstacle detector which:</li>
+      <ul>
+         <li>Detects obstacles that are larger than 0.35 meters tall, or holes/valleys deeper than 0.35 meters.</li>
+             <ul>
+                <li>See examples of obstacles below:</li>
+            </ul>
+        <li>Is not triggered by obstacles which are less than 0.3 meters tall or holes/valleys 0.3 meters deep.</li>
+            <ul>
+               <li>Wheels are large enough to scale obstacles which are 0.375 meters in height.</li>
+            </ul>
+        <li>Detect if the rover tilts by more than 30 degrees</li>
+            <ul>
+               <li>With angles greater than 30 degrees, the rover is at risk for tipping.</li>
+            </ul>
+        <li>When an obstacles is detected, move a pin by 3 cm.</li>
+            <ul>
+               <li>During entire travel of the pin, the pin must push with 100 N of force</li>
+            </ul>
+      </ul>
+  <li>Constraints:</li>
+      <ul>
+        <li>Size and Mass: Detection system must be located in the front of the rover, and fit on the rover as indicated. It should not weigh more than 25kg, and the center of mass must not be more than 1 meter in front of the front rover wheels.</li>
+<li>Electronics: Some simple electrical components are allowed including wires, resistors, and inductors, if beneficial. </li>
+<li>Inputs: The maximum number of inputs are one rotating shaft and two wires. The rotating shaft may be of any size, rotated at any speed, with any amount of torque desired. One of the wires is for power wire and the other ground/neutral. The maximum voltage difference across the wires shall be 18 V or less, and a maximum current of 600 mA (i.e. essentially can be driven by 2x 9V battery)</li>
+<li>Outputs: The obstacle detection mechanism must move a pin or shaft 3 cm axially, with a force of 50N.</li>
+ <ul><li>It can be assumed that the rover is capable of pushing the obstacle avoidance system with 150N of force. </li></ul>
+  </ul>
+<li>Rover Dimensions</li>
+<li>The rover has 0.75m diameter wheels, located 1.5m apart from each other on center.</li>
+<li>The rover has a ground clearance of 0.375m</li>
+<li>The rover has and wind turbine in the center that is 2.0m in diameter, and 1.5m above the ground clearance.</li>
+<li>See illustration below.</li>
+  </ul>
 
 
 <!-- Judging start -->
