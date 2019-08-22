@@ -18,10 +18,10 @@ submission-start:
 submission-end: 
 submission-link:  
 prizes: true
-fiscal-year:
-legal-authority:
-challenge-manager:
-challenge-manager-email:
+fiscal-year: FY19
+legal-authority: Procurement Authority
+challenge-manager: Patricia Watts
+challenge-manager-email: 
 ---
 
 
