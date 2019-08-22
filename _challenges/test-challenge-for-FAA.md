@@ -75,9 +75,9 @@ challenge-manager-email: patricia.watts@faa.gov
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p><strong>Initial Screening:</strong></p>
+<p><strong>Initial Screening</strong></p>
 <p>The Prize Administrator will initially review entries to determine that all required submission elements are included and to determine compliance with eligibility requirements.</p>
-<p><strong>Evaluation and Selection:</strong></p>
+<p><strong>Evaluation and Selection</strong></p>
 <p>The FAA Grand Challenge Steering Committee (SC), a panel of FAA subject-matter-experts, will evaluate, rate and rank submissions. After evaluating, rating and ranking the submissions, the SC will select three finalist teams. The finalists teams will be notified by March of 2020. Decisions will be based on the following factors (All factors are important and will be considered. However, the SC will give the "technical merit" factor the most weight in the screening process.):</p>
 <p><strong>Technical Merit</strong></p>
 <ul>
