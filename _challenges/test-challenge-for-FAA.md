@@ -54,8 +54,7 @@ challenge-manager-email: patricia.watts@faa.gov
 <li><strong>Effectiveness </strong>- Develop various options to reduce delays and costs throughout the travel experience and facilitate interactions to enhance travel logistics. Address variables such as those traveling with special needs, time of day, weather, congestion and unsafe road conditions. Consider enhanced methods to improve and accelerate various processes such as ticketing, security and customers' screenings to reduce wait time throughout the journey.</li>
 <li><strong>Technology and Tools</strong> - Apply technological innovations, procedures, techniques and strategies to provide solutions to streamline and enhance all aspects of traveling logistics. Consider the way the traveler navigates from home, to and through the airport, coordinates ground transportation, compares costs, makes reservations, parks, moves self, baggage and belongings, and travels to safely, securely and more expeditiously arrive at his/her final destination.</li>
 </ul>
-<p>Please carefully review the challenge announcement and the <a href="http://FAAGrandChallenge.nianet.org" target="_blank" rel="noopener">official competition website</a>  for the most up-to-date competition details.</p>
-
+<p>Please carefully review the <a href="{{ site.baseurl }}/assets/document-library/2019 FAA Grand Challenge Announcement">challenge announcement</a> and the <a href="http://FAAGrandChallenge.nianet.org" target="_blank" rel="noopener">official competition website</a>  for the most up-to-date competition details.</p>
 
 <!-- Prizes start -->
 ### Prizes
@@ -69,7 +68,7 @@ challenge-manager-email: patricia.watts@faa.gov
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>The FAA Grand Challenge: Smart Airport competition is open to teams of undergraduate and graduate students at accredited United States based colleges and universities. Teams may include senior capstone students, clubs, multi-university or multi-disciplinary students. Teams are encouraged to collaborate and work in concert with industry partners.</p>
-<p>See the challenge announcement for complete eligibility requirements, rules, terms and conditions.</p>
+<p>See the <a href="{{ site.baseurl }}/assets/document-library/2019 FAA Grand Challenge Announcement">challenge announcement</a> for complete eligibility requirements, rules, terms and conditions.</p>
 <p>Teams that do not comply with the rules, terms and conditions may be disqualified.</p>
 
 <!-- Judging start -->
@@ -116,7 +115,7 @@ challenge-manager-email: patricia.watts@faa.gov
 <p><strong>STEP I</strong></p>
 <p><strong>Expression of Interest: Due by 11:59 PM ET on 10/16/2019</strong></p>
 <p>Academic institutions are strongly encouraged to submit an expression of interest to compete prior to submitting entries. Teams who indicate interest by the stated deadline will be invited to participate in an exclusive Question and Answer (Q&A) Session with the SC prior to the proposal due date. Expression of interest must be submitted by 11:59 PM ET on October 16, 2019 via an online form available at the <a href="http://faagrandchallenge.nianet.org" target="_blank" rel="noopener">http://faagrandchallenge.nianet.org</a> website.</p>
-<p>See Page 9 of the challenge announcement for Expression of Interest requirements.</p>
+<p>See Page 9 of the <a href="{{ site.baseurl }}/assets/document-library/2019 FAA Grand Challenge Announcement">challenge announcement</a> for Expression of Interest requirements.</p>
 <p><strong>STEP II</strong></p>
 <p><strong>Submission Requirements for Project Plan Proposals: Due on or before</strong><strong>11:59 PM ET on</strong> <strong>01/13/2020</strong></p>
 <p>Submission packages must consist of the following elements submitted in the following order:</p>
@@ -129,5 +128,5 @@ challenge-manager-email: patricia.watts@faa.gov
 <li><strong>Letter(s)</strong></li>
 <li><strong>Additional Materials</strong></li>
 </ol>
-<p>See pages 9-12 of the challenge announcement for page lengths and detailed Submission Requirements.</p>
+<p>See pages 9-12 of the <a href="{{ site.baseurl }}/assets/document-library/2019 FAA Grand Challenge Announcement">challenge announcement</a> for page lengths and detailed Submission Requirements.</p>
 <p>Submissions must be transmitted electronically via the <a href="http://faagrandchallenge.nianet.org" target="_blank" rel="noopener">website</a> submission form by 11:59 PM ET on January 13, 2020. Late submissions will result in disqualification. Any other form of submission may be rejected.</p>
