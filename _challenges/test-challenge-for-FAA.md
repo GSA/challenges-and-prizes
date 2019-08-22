@@ -7,18 +7,18 @@ sidenav: true
 card-image: /assets/images/cards/FAA_seal.png
 agency-logo: FAA_logo.jpg
 challenge-title: FAA Grand Challenge - Smart Airport
-tagline: 
+tagline: The FAA challenges undergraduate and graduate students to develop innovative ways to use smart technology in and around  airports to enhance the overall travel experience.
 agency: Department of Transportation - Federal Aviation Administration
 partner-agencies-federal: 
 partners-non-federal: 
 external-url:
-total-prize-offered-cash:
-type-of-challenge: 
-submission-start: 
-submission-end: 
+total-prize-offered-cash: $25,000
+type-of-challenge: Ideas; Software and apps
+submission-start: 16/09/2019 12:00 AM
+submission-end: 15/01/2020 11:59 PM
 submission-link:  
 prizes: true
-fiscal-year: FY19
+fiscal-year: FY19, FY20
 legal-authority: Procurement Authority
 challenge-manager: Patricia Watts
 challenge-manager-email: 
@@ -29,6 +29,7 @@ challenge-manager-email:
 <!-- Description start -->
 ### Description
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 
 <!-- Prizes start -->
