@@ -28,16 +28,12 @@ id="8201" itemscope="" itemtype="http://schema.org/CreativeWork">
 
 </div><!-- CLOSE .container -->
 
-<div class="grid-container usa-section">
+<div class="grid-container padding-bottom-5">
 
 <section class="article-body-wrap col-sm-9">
 <section class="portfolio-detail-description">
 <div class="body-text clearfix" itemprop="description">
-<section class="container">
-<div class="row">
-<div class="blank_spacer col-sm-12 " style="height:30px;"></div>
-</div>
-</section>
+
 <section class="container">
 <div class="row">
 <div class="spb_content_element col-sm-12 spb_text_column">
@@ -188,9 +184,7 @@ the travel data.</p>
 <p>
 <a href="http://challengepost.com/software/gsa-data-analytics">http://challengepost.com/software/gsa-data-analytics</a>
 </p>
-<p>
-<a href="https://github.com/greggparrish/gsa/blob/master/apps/gsa_data/migrations/0001_initial.py">https://github.com/greggparrish/gsa/blob/master/apps/gsa_data/migrations/0001_initial.py</a>
-</p>
+
 
 </div>
 </div>

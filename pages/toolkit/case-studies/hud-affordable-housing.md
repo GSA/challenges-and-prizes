@@ -32,16 +32,12 @@ id="202" itemscope="" itemtype="http://schema.org/CreativeWork">
 
 </div><!-- CLOSE .container -->
 
-<div class="grid-container usa-section">
+<div class="grid-container padding-bottom-5">
 
 <section class="article-body-wrap col-sm-9">
 <section class="portfolio-detail-description">
 <div class="body-text clearfix" itemprop="description">
-<section class="container">
-<div class="row">
-<div class="blank_spacer col-sm-12 " style="height:12px;"></div>
-</div>
-</section>
+
 <section class="container">
 <div class="row">
 <div class="spb_content_element col-sm-12 spb_text_column">

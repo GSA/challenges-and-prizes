@@ -28,7 +28,7 @@ id="8443" itemscope="" itemtype="http://schema.org/CreativeWork">
 
 </div><!-- CLOSE .container -->
 
-<div class="grid-container usa-section">
+<div class="grid-container padding-bottom-5">
 
 <section class="article-body-wrap col-sm-9">
 <section class="portfolio-detail-description">
@@ -108,12 +108,14 @@ build, and test) separated by four technology gates as shown
 and described below:</p>
 <p><strong><em>Design</em></strong>: For the first part of the
 design phase, participants were required to submit detailed
+<div class="alignright" style="padding-bottom: 10px;">
 <a href="{{ site.baseurl }}/assets/images/toolkit/case-studies/Wave-energy-prize-funnel.jpg"><img
 class="size-medium wp-image-8448 alignright"
 src="{{ site.baseurl }}/assets/images/toolkit/case-studies/Wave-energy-prize-funnel-300x146.jpg"
 alt="A chart depicts the structure of the Wave Energy Prize, detailing the timeline from concept and design to test and award."
 sizes="(max-width: 300px) 100vw, 300px" width="300"
-height="146"></a>technical submissions describing
+height="146"></a></div>
+technical submissions describing
 their WEC concepts. The judging panel evaluated these
 submissions according to the Technology Performance Level
 rubric developed by the National Renewable Energy Laboratory

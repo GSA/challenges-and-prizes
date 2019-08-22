@@ -32,7 +32,7 @@ id="8619" itemscope="" itemtype="http://schema.org/CreativeWork">
 
 </div><!-- CLOSE .container -->
 
-<div class="grid-container usa-section">
+<div class="grid-container padding-bottom-5">
 
 <section class="article-body-wrap col-sm-9">
 <section class="portfolio-detail-description">
@@ -278,7 +278,7 @@ additive manufacturing workforce needs.</p>
 authority.</p>
 <h2></h2>
 <h2>Challenge Website</h2>
-<p><a href="http://futureengineers.org">http://futureengineers.org</a>
+<p><a href="https://www.futureengineers.org/" target="_blank" rel="noopener nofollow">http://futureengineers.org</a>
 </p>
 
 </div>
