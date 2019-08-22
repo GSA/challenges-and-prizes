@@ -8,7 +8,7 @@ card-image: /assets/images/cards/FAA_seal.png
 agency-logo: FAA_logo.jpg
 challenge-title: FAA Grand Challenge - Smart Airport
 tagline: 
-agency: 
+agency: Department of Transportation - Federal Aviation Administration
 partner-agencies-federal: 
 partners-non-federal: 
 external-url:
@@ -83,3 +83,22 @@ challenge-manager-email:
 <!--  How To Enter start -->
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
+<p><strong>STEP I</strong></p>
+<p><strong>Expression of Interest: Due by 11:59 PM ET on 10/16/2019</strong></p>
+<p>Academic institutions are strongly encouraged to submit an expression of interest to compete prior to submitting entries. Teams who indicate interest by the stated deadline will be invited to participate in an exclusive Question and Answer (Q&A) Session with the SC prior to the proposal due date. Expression of interest must be submitted by 11:59 PM ET on October 16, 2019 via an online form available at the <a href="http://faagrandchallenge.nianet.org" target="_blank" rel="noopener">http://faagrandchallenge.nianet.org</a> website.</p>
+<p>See Page 9 of the challenge announcement for Expression of Interest requirements.</p>
+<p><strong>STEP II</strong></p>
+<p><strong>Submission Requirements for Project Plan Proposals: Due on or before</strong><strong>11:59 PM ET on</strong> <strong>01/13/2020</strong></p>
+<p>Submission packages must consist of the following elements submitted in the following order:</p>
+<ol>
+<li><strong>Cover Page</strong></li>
+<li><strong>Table of Contents</strong></li>
+<li><strong>Summary </strong><strong>Statement</strong></li>
+<li><strong>Problem Statement and Background</strong></li>
+<li><strong>Project Description</strong></li>
+<li><strong>Letter(s)</strong></li>
+<li><strong>Additional Materials</strong></li>
+</ol>
+<p>See pages 9-12 of the challenge announcement for page lengths and detailed Submission Requirements.</p>
+<p>Submissions must be transmitted electronically via the <a href="http://faagrandchallenge.nianet.org" target="_blank" rel="noopener">website</a> submission form by 11:59 PM ET on January 13, 2020. Late submissions will result in disqualification. Any other form of submission may be rejected.</p>
