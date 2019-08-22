@@ -93,7 +93,20 @@ challenge-manager-email: mechanicalmaker@jpl.nasa.gov
 <li>The rover has a ground clearance of 0.375m</li>
 <li>The rover has and wind turbine in the center that is 2.0m in diameter, and 1.5m above the ground clearance.</li>
 <li>See illustration below.</li>
-  </ul>
+<p><img src="{{ site.baseurl }}/assets/images/challenge-content/NASA-MM-1063-Rover_Dimensions.png"></p>
+  <li>Obstacles to avoid</li>
+  <ul>The following should be considered as potential obstacles to avoid.</ul>
+<p><img src="{{ site.baseurl }}/assets/images/challenge-content/NASA-MM-1063-Obstacles_to_avoid.png"></p>
+ <li>Obstacles to ignore</li>
+  <ul><li>The following provides examples of obstacles which should be ignored.</li></ul>
+  <p><img src="{{ site.baseurl }}/assets/images/challenge-content/NASA-MM-1063-Obstacles_to_ignore.png"></p>
+ </ul>
+<h3>Terms and Conditions:</h3>
+<p>For detailed terms and conditions, please see the attached, but basically:</p>
+<ul>
+  <li>You must be a legal U.S. resident 18 or older.</li>
+  <li>You retain the rights to your invention, but JPL can distribute the information you submit to this challenge, and can use the invention without a license. We hope to see your design on Venus someday!</li>
+</ul>
 
 
 <!-- Judging start -->
@@ -127,7 +140,7 @@ challenge-manager-email: mechanicalmaker@jpl.nasa.gov
 <li>Would the concept operate at Venus pressure?</li>
 </ul>
 </ul>
-<p><strong>Note: Prototypes of the system or components are encouraged but not required.</strong> Prototypes may increase the score in the last two judging criteria.  </p>
+<p><strong>Note: Prototypes of the system or components are encouraged but not required.</strong> Prototypes may increase the score in the last two judging criteria.</p>
 
 <!--  How To Enter start -->
 ### How To Enter
