@@ -4,8 +4,8 @@ permalink: /challenge/FAA-Grand-Challenge-Smart-Airport/
 challenge-id: 
 status: open
 sidenav: true
-card-image: /assets/images/cards/FAA_seal.png
-agency-logo: FAA_logo.jpg
+card-image: /assets/images/cards/FAA_logo.jpg
+agency-logo: FAA_seal.png
 challenge-title: FAA Grand Challenge - Smart Airport
 tagline: The FAA challenges undergraduate and graduate students to develop innovative ways to use smart technology in and around  airports to enhance the overall travel experience.
 agency: Department of Transportation - Federal Aviation Administration
