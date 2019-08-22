@@ -42,6 +42,9 @@ challenge-manager-email:
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<p>The FAA Grand Challenge: Smart Airport competition is open to teams of undergraduate and graduate students at accredited United States based colleges and universities. Teams may include senior capstone students, clubs, multi-university or multi-disciplinary students. Teams are encouraged to collaborate and work in concert with industry partners.</p>
+<p>See the challenge announcement for complete eligibility requirements, rules, terms and conditions.</p>
+<p>Teams that do not comply with the rules, terms and conditions may be disqualified.</p>
 
 <!-- Judging start -->
 ### Judging Criteria
