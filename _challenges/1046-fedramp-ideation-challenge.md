@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/the-fedramp-ideation-challenge/
 challenge-id: 1046
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/FedRamp_Ideation_Logo.png
 agency-logo: gsa.png
