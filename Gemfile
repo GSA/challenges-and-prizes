@@ -18,6 +18,7 @@ group :jekyll_plugins do
   gem 'jekyll-paginate-v2', "2.0"  
   gem 'jekyll-sitemap'
   gem 'jekyll-last-modified-at'
+  gem 'pagemaster'
   # gem 'jekyll_pages_api_search'
 end
 
