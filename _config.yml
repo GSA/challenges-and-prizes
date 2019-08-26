@@ -91,6 +91,11 @@ collections:
 
 permalink: pretty
 
+page_gen:
+  - data: 'historical_challenges'
+    template: 'json-page'
+    name: 'name'
+    dir: 'historical-challenges' 
 
 markdown: kramdown
 plugins:
