@@ -70,6 +70,8 @@ GEM
     minitest (5.11.3)
     nokogiri (1.10.1)
       mini_portile2 (~> 2.4.0)
+    pagemaster (2.0.2)
+      jekyll (~> 3.8)
     parallel (1.13.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -104,6 +106,7 @@ DEPENDENCIES
   jekyll-paginate-v2 (= 2.0)
   jekyll-redirect-from
   jekyll-sitemap
+  pagemaster
   tzinfo-data
 
 BUNDLED WITH
