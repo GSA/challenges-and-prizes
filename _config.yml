@@ -53,6 +53,8 @@ primary_navigation:
         url: /toolkit/faq/
   - name: Contact
     url: /contact/
+  - name: Archived Challenges
+    url: /archive/
 
 secondary_navigation:
   - name: Secondary link
