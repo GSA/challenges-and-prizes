@@ -83,6 +83,11 @@ collections:
   archived-challenges:
     output: true
     permalink: /:path/
+  historical_challenges:
+    output: true
+    source: challenges.json
+    id_key: name
+    layout: json-page
 
 permalink: pretty
 
