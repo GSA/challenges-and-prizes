@@ -11,7 +11,7 @@ tagline: “Step up to the challenge.”
 agency: Environmental Protection Agency
 partner-agencies-federal: 
 partners-non-federal: 
-external-url: www.epa.gov/campusrainworks
+external-url: https://www.epa.gov/campusrainworks
 total-prize-offered-cash:
 type-of-challenge: Creative (multimedia and design); Ideas; Technology demonstration and hardware; Scientific
 submission-start: 2019/09/01 12:00 AM
