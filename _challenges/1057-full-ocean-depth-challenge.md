@@ -24,7 +24,8 @@ challenge-manager: Christopher Hebert
 challenge-manager-email: christopher.r.hebert@navy.mil
 ---
 
-
+<h3>Deadline Extended!</h3>
+<p>Entries must be submitted via email to Christopher Hebert <a href="mailto:christopher.r.hebert@navy.mil" target="_blank" rel="noopener">christopher.r.hebert@navy.mil</a> by 02:00 Eastern Time (ET) on 12 September 2019. Submissions received after the deadline will not be considered.”</p>
 
 <!-- Description start -->
 ### Description
