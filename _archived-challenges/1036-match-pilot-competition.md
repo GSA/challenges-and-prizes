@@ -20,6 +20,8 @@ submission-link:  https://www.sba.gov/match?utm_source=govdelivery&utm_medium=em
 prizes: true
 ---
 
+<h3>Winners Announced</h3>
+<p><strong>Aug. 20, 2019: </strong><a href="https://www.sba.gov/about-sba/sba-newsroom/press-releases-media-advisories/acting-administrator-pilkerton-announces-makerspace-training-collaboration-and-hiring-match-pilot" target="_blank" rel="noopener">Acting Administrator Chris Pilkerton announces MaTCH Pilot Competition winners</a></p>
 
 <!-- Description start -->
 ### Description
