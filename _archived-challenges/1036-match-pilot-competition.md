@@ -21,7 +21,7 @@ prizes: true
 ---
 
 <h3>Winners Announced</h3>
-<p><a href="https://www.sba.gov/about-sba/sba-newsroom/press-releases-media-advisories/acting-administrator-pilkerton-announces-makerspace-training-collaboration-and-hiring-match-pilot" target="_blank" rel="noopener">Acting Administrator Chris Pilkerton announces MaTCH Pilot Competition Winners on Aug. 20, 2019</a></p>
+<p><strong>Aug. 20, 2019: <a href="https://www.sba.gov/about-sba/sba-newsroom/press-releases-media-advisories/acting-administrator-pilkerton-announces-makerspace-training-collaboration-and-hiring-match-pilot" target="_blank" rel="noopener">Acting Administrator Chris Pilkerton announces MaTCH Pilot Competition winners</a></p>
 
 <!-- Description start -->
 ### Description
