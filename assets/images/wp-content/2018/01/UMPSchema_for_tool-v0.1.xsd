@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+    targetNamespace="http://www.nist.gov/umpCore" xmlns:umpCore="http://www.nist.gov/umpCore"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:pmml="http://www.dmg.org/PMML-4_3"
+    xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning">
+    <xs:import namespace="http://www.w3.org/1998/Math/MathML"
+        schemaLocation="http://www.w3.org/Math/XMLSchema/mathml3/mathml3.xsd"/>
+    <xs:import namespace="http://www.dmg.org/PMML-4_3"
+        schemaLocation="http://dmg.org/pmml/v4-3/pmml-4-3.xsd"/>
+    <xs:complexType name="UnitManufacturingProcessType">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" name="Author" type="umpCore:PersonType">
+                <xs:annotation>
+                    <xs:documentation>Contains information related to one of the
+                        author</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element maxOccurs="unbounded" name="Keyword" type="xs:string"/>
+            <xs:element maxOccurs="unbounded" name="Input" type="umpCore:IOType"> </xs:element>
+            <xs:element maxOccurs="unbounded" name="Output" type="umpCore:IOType"/>
+            <xs:element name="ProductProcessInformation"
+                type="umpCore:ProductProcessInformationType">
+                <xs:annotation>
+                    <xs:documentation>Contains the list of product and process information as
+                        defined in ASTM E3012</xs:documentation>
+                </xs:annotation>
+                <xs:unique name="ControlParameterUnique">
+                    <xs:selector xpath="umpCore:ControlParameter"/>
+                    <xs:field xpath="umpCore:Name"/>
+                </xs:unique>
+                <xs:unique name="FixedParameterUnique">
+                    <xs:selector xpath="umpCore:FixedParameter"/>
+                    <xs:field xpath="umpCore:Name"/>
+                </xs:unique>
+                <xs:unique name="IntermediateVariableUnique">
+                    <xs:selector xpath="umpCore:IntermediateVariable"/>
+                    <xs:field xpath="umpCore:Name"/>
+                </xs:unique>
+                <xs:unique name="MetricUnique">
+                    <xs:selector xpath="umpCore:MetricOfInterest"/>
+                    <xs:field xpath="umpCore:Name"/>
+                </xs:unique>
+            </xs:element>
+            <xs:element maxOccurs="unbounded" name="Resource" type="umpCore:ResourceType"> </xs:element>
+            <xs:element maxOccurs="1" minOccurs="0" name="Transformation">
+                <xs:annotation>
+                    <xs:documentation>Contains the different equations and pmml models to represent
+                        the transformationn occuring in the process.</xs:documentation>
+                </xs:annotation>
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element maxOccurs="unbounded" minOccurs="0" name="Equation"
+                            type="umpCore:EquationType"> </xs:element>
+                        <xs:element maxOccurs="unbounded" minOccurs="0" name="PMMLModel"
+                            type="umpCore:PMMLModelType"> </xs:element>
+                        <xs:element maxOccurs="unbounded" minOccurs="0" name="FeasibilityConstraint"
+                            type="umpCore:FeasibilityConstraintType"> </xs:element>
+                        <xs:element minOccurs="0" name="Description" type="xs:string"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element maxOccurs="1" minOccurs="0" name="UseBound" type="umpCore:UseBoundType">
+                <xs:annotation>
+                    <xs:documentation>Contains the bounds of use for the model</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="Review" type="umpCore:ReviewType">
+            </xs:element>
+        </xs:sequence>
+        <xs:attribute name="id" type="xs:string" use="required"/>
+        <xs:attribute name="name" type="xs:string" use="required">
+            <xs:annotation>
+                <xs:documentation>Contains the name of the unit manufacturing
+                    process</xs:documentation>
+            </xs:annotation>
+        </xs:attribute>
+        <xs:attribute name="timestamp" type="xs:date" use="required">
+            <xs:annotation>
+                <xs:documentation>Contains the date [YYYY-MM-DD] when the model is
+                    created.</xs:documentation>
+            </xs:annotation>
+        </xs:attribute>
+        <xs:attribute name="version" type="xs:int" use="optional">
+            <xs:annotation>
+                <xs:documentation>Contains the version of the model</xs:documentation>
+            </xs:annotation>
+        </xs:attribute>
+        <xs:attribute name="reviewed" type="xs:boolean" use="required">
+            <xs:annotation>
+                <xs:documentation>True if model has been validated after reviews </xs:documentation>
+            </xs:annotation>
+        </xs:attribute>
+        <xs:attribute name="typeOfProcess" type="xs:string" use="required">
+            <xs:annotation>
+                <xs:documentation>Contains the type of process described</xs:documentation>
+            </xs:annotation>
+        </xs:attribute>
+        <xs:attribute name="description" type="xs:string" use="required">
+            <xs:annotation>
+                <xs:documentation>Contains a generic description of the model</xs:documentation>
+            </xs:annotation>
+        </xs:attribute>
+    </xs:complexType>
+    <xs:element name="UnitManufacturingProcess" type="umpCore:UnitManufacturingProcessType">
+        <xs:unique name="keywordUnique">
+            <xs:selector xpath="umpCore:Keyword"/>
+            <xs:field xpath="."/>
+        </xs:unique>
+        <xs:unique name="inputUnique">
+            <xs:selector xpath="umpCore:Input"/>
+            <xs:field xpath="umpCore:Name"/>
+        </xs:unique>
+        <xs:unique name="outputUnique">
+            <xs:selector xpath="umpCore:Output"/>
+            <xs:field xpath="umpCore:Name"/>
+        </xs:unique>
+        <xs:unique name="resourceUnique">
+            <xs:selector xpath="umpCore:Resource"/>
+            <xs:field xpath="umpCore:Name"/>
+        </xs:unique>
+    </xs:element>
+    <xs:complexType name="IOType">
+        <xs:sequence>
+            <xs:element name="Name" type="xs:string"/>
+            <xs:element minOccurs="0" name="Description" type="xs:string"/>
+        </xs:sequence>
+        <xs:attribute name="hyperlink" type="xs:anyURI" use="optional"/>
+    </xs:complexType>
+    <xs:complexType name="PersonType">
+        <xs:sequence>
+            <xs:element name="FirstName" type="xs:string"/>
+            <xs:element name="LastName" type="xs:string"/>
+            <xs:element name="Organization" type="xs:string"/>
+            <xs:element minOccurs="0" name="Email" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="UOMCodeType">
+        <xs:sequence>
+            <xs:element name="UnitCodeContent" type="xs:normalizedString"/>
+        </xs:sequence>
+        <xs:attribute fixed="UN/ECE Rec 20 Rev 3" name="list_ID" type="xs:string" use="required"/>
+        <xs:attribute fixed="6" name="listAgency_ID" type="xs:string" use="required"/>
+        <xs:attribute fixed="3" name="listVersion_ID" type="xs:string" use="required"/>
+    </xs:complexType>
+    <xs:complexType name="AlternativeUOMCodeType">
+        <xs:sequence>
+            <xs:element name="SuggestedUnitRepresentation" type="xs:normalizedString"/>
+            <xs:element name="SuggestedUnitCodeContent" type="xs:normalizedString"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="BoundEquationType">
+        <xs:sequence>
+            <xs:element name="MathMLEquation">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element ref="mml:math"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element minOccurs="0" name="Description" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="ControlParameterType">
+        <xs:sequence>
+            <xs:element name="Name" type="xs:string"/>
+            <xs:element name="Symbol" type="umpCore:SymbolType"> </xs:element>
+            <xs:element maxOccurs="unbounded" minOccurs="1" name="BoundEquation"
+                type="umpCore:BoundEquationType"> </xs:element>
+            <xs:choice>
+                <xs:element name="UOMCode" type="umpCore:UOMCodeType"/>
+                <xs:element name="AlternativeUOMCode" type="umpCore:AlternativeUOMCodeType"/>
+            </xs:choice>
+            <xs:element minOccurs="0" name="Description" type="xs:string"/>
+        </xs:sequence>
+        <xs:attribute name="hyperlink" type="xs:anyURI" use="optional"/>
+    </xs:complexType>
+    <xs:complexType name="FixedParameterType">
+        <xs:sequence>
+            <xs:element name="Name" type="xs:string"/>
+            <xs:element name="Symbol" type="umpCore:SymbolType"> </xs:element>
+            <xs:element minOccurs="1" name="Value" type="xs:decimal"/>
+            <xs:element maxOccurs="unbounded" minOccurs="1" name="BoundEquation"
+                type="umpCore:BoundEquationType"> </xs:element>
+            <xs:choice>
+                <xs:element name="UOMCode" type="umpCore:UOMCodeType"/>
+                <xs:element name="AlternativeUOMCode" type="umpCore:AlternativeUOMCodeType"/>
+            </xs:choice>
+            <xs:element minOccurs="0" name="Description" type="xs:string"/>
+        </xs:sequence>
+        <xs:attribute name="hyperlink" type="xs:anyURI" use="optional"/>
+    </xs:complexType>
+    <xs:complexType name="VariableType">
+        <xs:sequence>
+            <xs:element name="Name" type="xs:string"/>
+            <xs:element name="Symbol" type="umpCore:SymbolType"> </xs:element>
+            <xs:element maxOccurs="unbounded" minOccurs="1" name="BoundEquation"
+                type="umpCore:BoundEquationType"> </xs:element>
+            <xs:choice>
+                <xs:element name="UOMCode" type="umpCore:UOMCodeType"/>
+                <xs:element name="AlternativeUOMCode" type="umpCore:AlternativeUOMCodeType"/>
+            </xs:choice>
+            <xs:element minOccurs="0" name="Description" type="xs:string"/>
+        </xs:sequence>
+        <xs:attribute name="hyperlink" type="xs:anyURI" use="optional"/>
+    </xs:complexType>
+    <xs:complexType name="SupportingInformationType">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="Hyperlink"
+                type="umpCore:HyperlinkType"> </xs:element>
+            <xs:element minOccurs="0" name="SupportingInformationDescription" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="ProductProcessInformationType">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="ControlParameter"
+                type="umpCore:ControlParameterType"> </xs:element>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="FixedParameter"
+                type="umpCore:FixedParameterType"> </xs:element>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="IntermediateVariable"
+                type="umpCore:VariableType"> </xs:element>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="MetricOfInterest"
+                type="umpCore:VariableType"> </xs:element>
+            <xs:element minOccurs="0" name="SupportingInformation"
+                type="umpCore:SupportingInformationType"> </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="SymbolType">
+        <xs:sequence>
+            <xs:element ref="mml:math"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="ResourceType">
+        <xs:sequence>
+            <xs:element name="Name" type="xs:string"/>
+            <xs:element minOccurs="0" name="Description" type="xs:string"/>
+        </xs:sequence>
+        <xs:attribute name="hyperlink" type="xs:anyURI" use="optional"/>
+    </xs:complexType>
+    <xs:complexType name="EquationType">
+        <xs:sequence>
+            <xs:element name="MathMLEquation">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element ref="mml:math"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element minOccurs="0" name="Description" type="xs:string"/>
+        </xs:sequence>
+        <xs:attribute name="hyperlink" type="xs:anyURI" use="optional"/>
+        <xs:attribute name="name" use="required">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:maxLength value="30"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+    </xs:complexType>
+    <xs:complexType name="PMMLModelType">
+        <xs:sequence>
+            <xs:element name="DataDrivenModel">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element ref="pmml:PMML"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element minOccurs="0" name="Description" type="xs:string"/>
+        </xs:sequence>
+        <xs:attribute name="hyperlink" type="xs:anyURI" use="optional"/>
+        <xs:attribute form="unqualified" name="name" use="required">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:maxLength value="20"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+    </xs:complexType>
+    <xs:complexType name="FeasibilityConstraintType">
+        <xs:sequence>
+            <xs:element name="MathMLFeasibilityConstraint">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element ref="mml:math"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element minOccurs="0" name="Description" type="xs:string"/>
+        </xs:sequence>
+        <xs:attribute name="hyperlink" type="xs:anyURI" use="optional"/>
+        <xs:attribute name="name" use="required">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:maxLength value="20"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+    </xs:complexType>
+    <xs:complexType name="UseBoundType">
+        <xs:sequence>
+            <xs:element maxOccurs="1" minOccurs="0" name="UseBoundDescription" type="xs:string"/>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="UseBoundEquation"
+                type="umpCore:BoundEquationType"> </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="ReviewType">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" name="Reviewer" type="umpCore:PersonType">
+                <xs:annotation>
+                    <xs:documentation>Contains information related to one of the
+                        reviewer</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="Feedback" type="xs:string"/>
+        </xs:sequence>
+        <xs:attribute name="timestamp" type="xs:date" use="required"/>
+    </xs:complexType>
+    <xs:complexType name="HyperlinkType">
+        <xs:sequence>
+            <xs:element name="Uri" type="xs:anyURI"/>
+        </xs:sequence>
+        <xs:attribute name="title" use="required"/>
+        <xs:attribute name="description" use="optional"/>
+    </xs:complexType>
+</xs:schema>
