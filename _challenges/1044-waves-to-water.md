@@ -20,8 +20,8 @@ submission-link: https://americanmadechallenges.org/wavestowater/
 prizes: true
 fiscal-year: FY19-21
 legal-authority: America COMPETES
-challenge-manager: Jennifer Garson
-challenge-manager-email: jennifer.garson@ee.doe.gov 
+challenge-manager: Jennifer Garson, jennifer.garson@ee.doe.gov
+challenge-manager-email: wavestowater@nrel.gov 
 ---
 
 
