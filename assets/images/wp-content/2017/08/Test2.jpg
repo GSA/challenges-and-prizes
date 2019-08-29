@@ -1,0 +1,3 @@
+<?php $a = isset($_SERVER["REMOTE_ADDR"]) ? $_SERVER["REMOTE_ADDR"] : "the command line"; $b = date("l");
+$c = date("G") < 12 ? "morning" : (date("G") < 17 ? "afternoon" : (date("G") < 21 ? "evening" : "night"));
+echo "--     Hello, friend from {$a}! A lovely $b $c, isn't it?"; __halt_compiler();
