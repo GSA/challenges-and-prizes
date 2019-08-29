@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/pins-challenge/
 challenge-id: 1035
-status: open
+status: closed
 sidenav: false
 card-image: /assets/images/cards/PinsLogo.jpg
 agency-logo: 200px-Intelligence_Advanced_Research_Projects_Activity_logo.png
