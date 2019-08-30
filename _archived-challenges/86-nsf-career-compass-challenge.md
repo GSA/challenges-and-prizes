@@ -98,14 +98,13 @@ prizes: true
 <p>Click <a href="https://players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6080448832001" target="_blank" rel="noopener">here</a> to see a video demo of Amy Huber's prototype.</p>
 <p><strong>HONORABLE MENTION: Levi Perkins</strong></p>
 <p>Levi Perkins' prototype, SteppingBlocks, harnesses over 60 million career paths to provide users with real-world statistics on ways to expand your career horizons. Users can view and analyze the career paths of their aspirational job, view the skills required, and find links to learn them.</p>
-    <p>Click <a href="https://players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6080451355001" target="_blank" rel="noopener">here</a> to see a video demo of Levi Perkins prototype.</p>
+<p>Click <a href="https://players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6080451355001" target="_blank" rel="noopener">here</a> to see a video demo of Levi Perkins prototype.</p>
 
 <!-- Rules start -->
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<div class="description">
-<p style="text-decoration: underline;"><strong>ENTRY GUIDELINES</strong></p>
+<p><strong>ENTRY GUIDELINES</strong></p>
 <ul>
 <li>For a participant's prototype submission to be eligible to win Part 2 prize money, the submitter must make the prototype available for live testing and evaluation by the Federal government.&nbsp; A demonstration of the developed app must be included either via weblink, as a downloadable app from a website, or as a prototype app on a demonstration mobile device.&nbsp; If a login is required, demo accounts with password should be provided which will enable judges to access all parts of the product.&nbsp; If there are different interfaces provided (for example, for differing user personas) separate logins should be provided.&nbsp; If the team or individual solver opts for submitting the app on a demonstration mobile device, then four such devices must be submitted via mail.&nbsp; Following judging, all demonstration devices will be returned via mail to the submitter.</li>
 <li>All entries must be submitted to <a href="mailto:CareerCompassChallenge@nsf.gov" target="_blank" rel="noopener">CareerCompassChallenge@nsf.gov</a>, or postmarked to NSF by 11:59 p.m. ET on July 26, 2019. If applicable, demonstration devices allowing the government to evaluate the submission must be postmarked by July 26, 2019 and can be mailed to:&nbsp;<br /><br />NSF Career Compass Challenge Prize Submissions<br />C/O Robyn Rees/Adrienne Deitemeyer<br />2415 Eisenhower Avenue<br />Alexandria, VA 22314<br /><br /></li>
@@ -129,8 +128,6 @@ prizes: true
 <li>Participants understand that entrants retain all copyright and equivalent rights but give NSF nonexclusive rights to use their names, likenesses, and quotes for educational, publicity, and/or promotional purposes.&nbsp; This includes, but is not limited to, website display, print materials, and exhibits.&nbsp;</li>
 </ul>
 <p>For more information, review the Part 1 Entry Guidelines.</p>
-      </div>
-      
 
 <!-- Judging start -->
 ### Judging Criteria
