@@ -28,7 +28,7 @@ prizes: true
 
 <div class="description">
   <h3>UPDATE (8/30): Congratulations to the Winners of Part 2!</h3>
-  <p>Click <a href="https://www.challenge.gov/challenge/nsf-career-compass-challenge/#prizes" target="_blank" rel="noopener">here</a> to learn more.</p>
+  <p>Click <a href="https://www.challenge.gov/challenge/nsf-career-compass-challenge/#prizes">here</a> to learn more.</p>
 <p style="text-decoration: underline;"><strong>ABOUT THE COMPETITION</strong></p>
 <p><em><strong>NSF has a hypothesis.</strong></em></p>
 <p>Technology is changing the way we do our work, and the work itself. To keep up, the National Science Foundation (NSF)&nbsp;plans to invest in its most critical resource &ndash; the workforce. And it's not just NSF. The need for an adaptable and ready workforce extends to other Federal agencies and beyond. No industry will be immune to the way advances in technology change the nature of work. As a pressing example, we are facing critical gaps in matching people with data science and cybersecurity skills with the right mission needs. NSF believes that, along with other agencies and organizations, the best way to maintain a workforce ready to carry out its mission is to encourage a culture of continuous learning, and to empower each person to refresh and modernize their skills toward future work. We want to spark the thinking of the best and brightest to co-create a solution that can enable individual skill-matching and tailored training for the Workforce for the 21st Century.</p>
