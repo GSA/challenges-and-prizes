@@ -74,9 +74,7 @@ prizes: true
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<div class="prize-item">
-<h4 class="text-primary">Part 1</h4>
-<div class="description">
+<h4>Part 1</h4>
 <p>Based on the quality of submissions received, five white papers were selected to win the award purse for Part 1. Each winner or winning team will receive a one-time prize of $5,000.00 to be issued in the form of an electronic direct deposit payment. For a participant&rsquo;s concept submission to be eligible to win Part 1 prize monies, the submitter must agree to have their winning concept materials posted on Challenge.gov and for the Part 2 solver community to be able to leverage the concept materials for prototype development.</p>
 <p><strong>PART ONE WINNING CONCEPTS:</strong></p>
 <ul>
@@ -86,29 +84,21 @@ prizes: true
 <li><a href="{{ site.baseurl }}/assets/document-library/ACCESS---Chen---NYU-Med.pdf">ACCESS: An Integrated Service Platform for Preparing Future Workforce</a></li>
 <li><a href="{{ site.baseurl }}/assets/document-library/Career-Charting-App---Woolf---UMA.pdf">The Career CHARTING App</a></li>
 </ul>
-</div>
-</div>
-<div class="prize-item">
-<h4 class="text-primary">Part 2</h4>
-<div class="description">
+<h4>Part 2</h4>
 <p>Based on the quality of submissions received, one successful prototype will be selected to win the award purse for Part 2. The winner or winning team will receive a one-time prize of $75,000.00 to be issued in the form of an electronic direct deposit payment. Winners will be responsible for providing the NSF Division of Financial Management with banking information (must be a U.S. bank account) in order to facilitate the electronic payment (i.e. direct deposit).</p>
 <p><strong>PART TWO WINNING PROTOTYPE: Amy Huber</strong></p>
-<p>Amy Huber's prototype, PathwayU, is an innovative tool which uses predictive analytics to identify alignment among personal characteristics, vocational choices, and job opportunities. The platform enables individuals to both identify optimal career paths and focus their reskilling efforts.  Specifically, the platform:</p>
+<p>Amy Huber's prototype, PathwayU, is an innovative tool which uses predictive analytics to identify alignment among personal characteristics, vocational choices, and job opportunities. The platform enables individuals to both identify optimal career paths and focus their reskilling efforts. Specifically, the platform:</p>
 <ul>
   <li>Measures interests, values, personality, and workplace preferences with scientific assessments</li>
   <li>Uses an algorithmic approach to recommend careers</li>
   <li>Provides up-to-date information about required knowledge and skills for matched jobs<li>
   <li>Guides users to relevant learning opportunities, and</li> 
   <li>Identifies well-fitting job opportunities available both within and outside of the federal government.</li>
-  <ul>
-    <p>Click <a href="https://players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6080448832001"> target="_blank"> rel="noopener">here</a> to see a video demo of Amy Huber's prototype.</p>
+  </ul>
+    <p>Click <a href="https://players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6080448832001" target="_blank" rel="noopener">here</a> to see a video demo of Amy Huber's prototype.</p>
     <p><strong>HONORABLE MENTION: Levi Perkins</strong></p>
     <p>Levi Perkins' prototype, SteppingBlocks, harnesses over 60 million career paths to provide users with real-world statistics on ways to expand your career horizons. Users can view and analyze the career paths of their aspirational job, view the skills required, and find links to learn them.</p>
     <p>Click <a href="https://players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6080451355001" target="_blank" rel="noopener">here</a> to see a video demo of Levi Perkins prototype.</p>
-
-
-</div>
-</div>
 
 <!-- Rules start -->
 ### Rules 
@@ -146,7 +136,6 @@ prizes: true
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<div class="judging-criterias">
 <h4>How will submitted prototypes in Part 2 of the challenge be judged?</h4>         
 <p>Judges will evaluate a collection of prototypes submitted. Based on the scoring, a single winning submission will be identified. A submission is considered a functional prototype at any stage of maturity (e.g. beta, v1.0, etc.)</p>
 <p><strong>2nd Round of Judging&nbsp;</strong></p>
@@ -186,14 +175,12 @@ prizes: true
 </li>
 </ul>
 <p>Click here to read <strong>Part 1 Judging Criteria.</strong></p>
-                    </div>
 
 <!--  How To Enter start -->
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<div class="description">
-        <p style="text-decoration: underline;"><strong>HOW CAN I ENTER?</strong></p>
+<p><strong>HOW CAN I ENTER?</strong></p>
 <ol>
 <li>All entries must be submitted to <a href="mailto:CareerCompassChallenge@nsf.gov" rel="noopener">CareerCompassChallenge@nsf.gov</a> in accordance with the deadlines stated for Part 2 of this competition.
 <ul>
@@ -232,4 +219,3 @@ prizes: true
 <li>For a participant&rsquo;s concept submission to be eligible to win Part 1 prize monies, the submitter must agree to have their winning concept materials posted on Challenge.gov and available for the Part 2 solver community to leverage for prototype development.</li>
 </ul>
 <p><strong>For a participant's prototype submission to be eligible to win Part 2 prize money, the submitter must make the prototype available for live testing and evaluation by the Federal government.</strong></p>
-      </div>
