@@ -91,13 +91,13 @@ prizes: true
 <ul>
   <li>Measures interests, values, personality, and workplace preferences with scientific assessments</li>
   <li>Uses an algorithmic approach to recommend careers</li>
-  <li>Provides up-to-date information about required knowledge and skills for matched jobs<li>
+  <li>Provides up-to-date information about required knowledge and skills for matched jobs</li>
   <li>Guides users to relevant learning opportunities, and</li> 
   <li>Identifies well-fitting job opportunities available both within and outside of the federal government.</li>
   </ul>
-    <p>Click <a href="https://players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6080448832001" target="_blank" rel="noopener">here</a> to see a video demo of Amy Huber's prototype.</p>
-    <p><strong>HONORABLE MENTION: Levi Perkins</strong></p>
-    <p>Levi Perkins' prototype, SteppingBlocks, harnesses over 60 million career paths to provide users with real-world statistics on ways to expand your career horizons. Users can view and analyze the career paths of their aspirational job, view the skills required, and find links to learn them.</p>
+<p>Click <a href="https://players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6080448832001" target="_blank" rel="noopener">here</a> to see a video demo of Amy Huber's prototype.</p>
+<p><strong>HONORABLE MENTION: Levi Perkins</strong></p>
+<p>Levi Perkins' prototype, SteppingBlocks, harnesses over 60 million career paths to provide users with real-world statistics on ways to expand your career horizons. Users can view and analyze the career paths of their aspirational job, view the skills required, and find links to learn them.</p>
     <p>Click <a href="https://players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6080451355001" target="_blank" rel="noopener">here</a> to see a video demo of Levi Perkins prototype.</p>
 
 <!-- Rules start -->
