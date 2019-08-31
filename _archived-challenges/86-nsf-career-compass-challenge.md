@@ -85,7 +85,6 @@ prizes: true
 <li><a href="{{ site.baseurl }}/assets/document-library/Career-Charting-App---Woolf---UMA.pdf">The Career CHARTING App</a></li>
 </ul>
 <h4>Part 2</h4>
-<p>Based on the quality of submissions received, one successful prototype will be selected to win the award purse for Part 2. The winner or winning team will receive a one-time prize of $75,000.00 to be issued in the form of an electronic direct deposit payment. Winners will be responsible for providing the NSF Division of Financial Management with banking information (must be a U.S. bank account) in order to facilitate the electronic payment (i.e. direct deposit).</p>
 <p><strong>PART TWO WINNING PROTOTYPE: Amy Huber</strong></p>
 <p>Amy Huber's prototype, PathwayU, is an innovative tool which uses predictive analytics to identify alignment among personal characteristics, vocational choices, and job opportunities. The platform enables individuals to both identify optimal career paths and focus their reskilling efforts. Specifically, the platform:</p>
 <ul>
