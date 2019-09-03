@@ -6,7 +6,7 @@ ideaSubmitFormInstruction: 'Create a challenge.gov account and upload your compl
   site.baseurl }}/assets/images/wp-content/2016/01/Submission-Form-1.docx" target="_blank">Submission
   Form</a> word document titled lastname.firstname. Note this should be the name of
   the student submitting a solution or the identified team leader.    A completed
-  <a href="{{ site.baseurl }}/assets/images/wp-content/2016/01/Submission-Form-1.docx"
+  <a href="www.challenge.gov/assets/images/wp-content/2016/01/Submission-Form-1.docx"
   target="_blank" rel="">Submission Form</a> must be one document that include:  <ul>   <li>Entrant
   details</li>   <li>URL link to your visualization</li>   <li>Project description
   (requirements for the project description can be found in the <a href="https://esri.app.box.com/vywgettingstartedguide"
@@ -130,7 +130,7 @@ campaignAttributes:
       site.baseurl }}/assets/images/wp-content/2016/01/Submission-Form-1.docx\" target=\"_blank\">Submission
       Form</a> word document titled lastname.firstname. Note this should be the name
       of the student submitting a solution or the identified team leader.\r\n\r\nA
-      completed <a href=\"{{ site.baseurl }}/assets/images/wp-content/2016/01/Submission-Form-1.docx\"
+      completed <a href=\"www.challenge.gov/assets/images/wp-content/2016/01/Submission-Form-1.docx\"
       target=\"_blank\" rel=\"\">Submission Form</a> must be one document that include:\r\n<ul>\r\n\t<li>Entrant
       details</li>\r\n\t<li>URL link to your visualization</li>\r\n\t<li>Project description
       (requirements for the project description can be found in the <a href=\"https://esri.app.box.com/vywgettingstartedguide\"
@@ -339,7 +339,7 @@ description: '<p style="text-align: center;"><span style="text-decoration: under
   skills and help to broaden their understanding of nutrient pollution issues. Students
   will submit their best, most innovative visualization that tells a story about nutrient
   pollution in a local waterway.</p>  <img class="wp-image-112291 size-medium alignleft"
-  src="{{ site.baseurl }}/assets/images/wp-content/2016/01/15409508130_9b311e928a_o-300x300.jpg"
+  src="www.challenge.gov/assets/images/wp-content/2016/01/15409508130_9b311e928a_o-300x300.jpg"
   alt="Credit: Patricia M." width="300" height="300" />    &nbsp;  <p style="text-align:
   left;"><span style="text-decoration: underline;"><strong>Background</strong></span></p>  <p
   style="text-align: left;">Nutrient pollution is one of America’s most widespread
@@ -383,7 +383,7 @@ description: '<p style="text-align: center;"><span style="text-decoration: under
   center;"><strong>Have a question? </strong>See <a href="https://esri.app.box.com/vywfaq"
   target="_blank">Frequently Asked Questions</a> or contact vizurwater@epa.gov</p>  &nbsp;    [caption
   id="attachment_112281" align="alignright" width="300"]<img class="wp-image-112281
-  size-medium" src="{{ site.baseurl }}/assets/images/wp-content/2016/01/15409013498_8d4f709f80_o-300x215.jpg"
+  size-medium" src="www.challenge.gov/assets/images/wp-content/2016/01/15409013498_8d4f709f80_o-300x215.jpg"
   alt="Credit: Patricia M." width="300" height="215" /> Credit: Patricia M.[/caption]    &nbsp;  <p
   style="text-align: left;"><span style="text-decoration: underline;"><strong>Timeline:</strong></span></p>  <p
   style="text-align: left;">Competition Begins  --- January 13th, 2016</p>  <p style="text-align:

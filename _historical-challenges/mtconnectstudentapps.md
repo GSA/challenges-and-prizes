@@ -42,10 +42,10 @@ campaignAttributes:
     advancing-the-agency-mission: ''
     rules: '<strong>Please refer to the attached document (updated on 6 MAY 2016 to
       clarify that recently graduated students are permitted to participate in this
-      challenge): </strong>    <strong><a href="{{ site.baseurl }}/assets/images/wp-content/2015/04/MTConnect-Challenge-Application-Development-Rules-6MAY2016.pdf"
+      challenge): </strong>    <strong><a href="www.challenge.gov/assets/images/wp-content/2015/04/MTConnect-Challenge-Application-Development-Rules-6MAY2016.pdf"
       rel="">MTConnect Challenge Application Development Rules 6MAY2016</a></strong>    &nbsp;    In
       addition to being available within our challenge discussion forum, a list of
-      frequently asked questions can be viewed here:    <a href="{{ site.baseurl }}/assets/images/wp-content/2015/04/MTConnect-Student-Challenge-Website-FAQ-v2.pdf">MTConnect
+      frequently asked questions can be viewed here:    <a href="www.challenge.gov/assets/images/wp-content/2015/04/MTConnect-Student-Challenge-Website-FAQ-v2.pdf">MTConnect
       Student Challenge – Website – FAQ – v2</a>'
     submission-start-date-1: ''
     hide-challenge-timeline: 'No'

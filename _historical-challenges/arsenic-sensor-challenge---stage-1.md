@@ -246,7 +246,7 @@ description: <strong>All official entries must be submitted via the <a href="htt
   to <a href="https://www.usbr.gov/research/challenges/arsenicsensor.html">Reclamation's
   Arsenic Sensor challenge page</a> to learn more!</strong></em>    [caption id="attachment_159183"
   align="alignleft" width="230"]<a href="https://www.usbr.gov/research/challenges/arsenicsensor.html"
-  target="_blank"><img class="wp-image-159183 size-medium" src="{{ site.baseurl }}/assets/images/wp-content/2016/12/arsenic-230x300.png"
+  target="_blank"><img class="wp-image-159183 size-medium" src="www.challenge.gov/assets/images/wp-content/2016/12/arsenic-230x300.png"
   alt="Image of water in a glass" width="230" height="300" /></a> <a href="https://www.usbr.gov/research/challenges/docs/arsenic508.pdf">Download
   Poster</a>[/caption]    &nbsp;    &nbsp;    &nbsp;    &nbsp;    &nbsp;    &nbsp;    &nbsp;    &nbsp;    &nbsp;    <em>Questions
   about this Challenge? Please direct any requests for clarifications and additional

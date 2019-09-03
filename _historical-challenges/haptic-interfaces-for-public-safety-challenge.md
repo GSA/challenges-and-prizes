@@ -93,7 +93,7 @@ campaignAttributes:
       lang=\"EN\">For instructions on how to enter Phase 3, view the How to Enter
       tab or <a href=\"/a/buzz/challenge/1003/ideas/top#challenge-how-to-enter\">click
       here</a>.</span></p>\r\n<div style=\"text-align: center;\">&nbsp;</div>\r\n<div
-      style=\"text-align: center;\"><a href=\"{{ site.baseurl }}/assets/images/ids-images/PSCR_HapticInterfacesforPublicSafetyChallenge_OfficialRules.pdf\"
+      style=\"text-align: center;\"><a href=\"www.challenge.gov/assets/images/ids-images/PSCR_HapticInterfacesforPublicSafetyChallenge_OfficialRules.pdf\"
       target=\"_blank\" rel=\"noopener\"><strong><span lang=\"EN\">View the Official
       Rules document for all contest phases.</span></strong></a></div>\r\n<div style=\"text-align:
       center;\"><span lang=\"EN\">For questions about the Official Rules, contact:&nbsp;<a
@@ -135,7 +135,7 @@ campaignAttributes:
       auto; line-height: normal; mso-list: l0 level1 lfo2; tab-stops: list .5in;\">The
       contestants with compliant designs and the greatest functionality will advance
       to the next contest in the challenge.&nbsp;</li>\r\n</ul>\r\n<p style=\"text-align:
-      center;\"><a href=\"{{ site.baseurl }}/assets/images/ids-images/PSCR_HapticInterfacesforPublicSafetyChallenge_OfficialRules.pdf\"
+      center;\"><a href=\"www.challenge.gov/assets/images/ids-images/PSCR_HapticInterfacesforPublicSafetyChallenge_OfficialRules.pdf\"
       target=\"_blank\" rel=\"noopener\"><strong><span lang=\"EN\">View the Official
       Rules document for details on entering all other contest phases.</span></strong></a></p>"
     partnerships: ''
@@ -150,7 +150,7 @@ campaignAttributes:
       the virtual scenario.</li>\r\n<li><!--[endif]-->The haptic interface is integrated
       into the virtual environment and is not triggered by external user input (e.g.,
       controller, mobile phone app).</li>\r\n</ul>\r\n<p style=\"text-align: center;\"><a
-      href=\"{{ site.baseurl }}/assets/images/ids-images/PSCR_HapticInterfacesforPublicSafetyChallenge_OfficialRules.pdf\"
+      href=\"www.challenge.gov/assets/images/ids-images/PSCR_HapticInterfacesforPublicSafetyChallenge_OfficialRules.pdf\"
       target=\"_blank\" rel=\"noopener\">View the Official Rules document for judging
       criteria for all other contest phases</a>.</p>"
     judging-criteria-percentage-0: ''
@@ -278,7 +278,7 @@ campaignAttributes:
     winner-name-2: ''
 memberIdeaSubmissionAllowed: true
 showTitle: true
-description: "<p><img src=\"{{ site.baseurl }}/assets/images/ids-images/timeline_haptics-3.jpg\"
+description: "<p><img src=\"www.challenge.gov/assets/images/ids-images/timeline_haptics-3.jpg\"
   width=\"861\" height=\"242\" /></p>\r\n<p><span lang=\"EN\">The National Institute
   of Standards and Technology (NIST) Public Safety Communications Research (PSCR)
   Division is hosting the <a href=\"https://publicsafetyhaptics.com/\" target=\"_blank\"

@@ -2,8 +2,8 @@
 ideaSubmitFormInstruction: '<span style="color: #cc0808;"><strong>How to Enter Your
   Solution</strong></span>    <strong>1. Select “Submit Solution” from the “Challenge
   Details” menu on the left hand side of this page to register for the challenge.</strong>    <a
-  href="{{ site.baseurl }}/assets/images/wp-content/2017/03/Challenge-image-1.png"><img
-  class="wp-image-161182 aligncenter" src="{{ site.baseurl }}/assets/images/wp-content/2017/03/Challenge-image-1.png"
+  href="www.challenge.gov/assets/images/wp-content/2017/03/Challenge-image-1.png"><img
+  class="wp-image-161182 aligncenter" src="www.challenge.gov/assets/images/wp-content/2017/03/Challenge-image-1.png"
   alt="" width="185" height="292" /></a><!--more-->    <strong>2. Fill out the form
   to describe your successful current practice or your great idea.</strong><strong> Support
   your solution with evidence of its effectiveness.</strong>    <strong>3. </strong><strong>Make
@@ -22,18 +22,18 @@ ideaSubmitFormInstruction: '<span style="color: #cc0808;"><strong>How to Enter Y
   on a specific solution. If you select “Discussions” from the “Challenge Details”
   menu your comment will not attach to a specific solution.</em></p>  <a href="{{
   site.baseurl }}/assets/images/wp-content/2017/03/Challenge-image-2.png"><img class="wp-image-161183
-  aligncenter" src="{{ site.baseurl }}/assets/images/wp-content/2017/03/Challenge-image-2.png"
+  aligncenter" src="www.challenge.gov/assets/images/wp-content/2017/03/Challenge-image-2.png"
   alt="" width="195" height="298" /></a>    &nbsp;    <strong>2. Click on the solution
   you’d like to comment on.</strong>                                             
                                                                                  
                                                                                  
-   <a href="{{ site.baseurl }}/assets/images/wp-content/2017/03/Challenge-image-3.png"><img
-  class="wp-image-161184 aligncenter" src="{{ site.baseurl }}/assets/images/wp-content/2017/03/Challenge-image-3.png"
+   <a href="www.challenge.gov/assets/images/wp-content/2017/03/Challenge-image-3.png"><img
+  class="wp-image-161184 aligncenter" src="www.challenge.gov/assets/images/wp-content/2017/03/Challenge-image-3.png"
   alt="" width="637" height="269" />  </a><!--more-->    <strong>3. Select “Comments”
   from the “Solution Details” menu.                                              
                                                          </strong><strong>        
-                                     </strong>    <a href="{{ site.baseurl }}/assets/images/wp-content/2017/03/Challenge-image-41.png"><img
-  class="wp-image-161190 aligncenter" src="{{ site.baseurl }}/assets/images/wp-content/2017/03/Challenge-image-41.png"
+                                     </strong>    <a href="www.challenge.gov/assets/images/wp-content/2017/03/Challenge-image-41.png"><img
+  class="wp-image-161190 aligncenter" src="www.challenge.gov/assets/images/wp-content/2017/03/Challenge-image-41.png"
   alt="" width="179" height="231" /></a>    &nbsp;'
 startDate: '2018-11-26T07:10:22'
 votingAllowed: false
@@ -205,7 +205,7 @@ campaignAttributes:
       Select “Submit Solution” from the “Challenge Details” menu on the left hand
       side of this page to register for the challenge.</strong>\r\n\r\n<a href=\"{{
       site.baseurl }}/assets/images/wp-content/2017/03/Challenge-image-1.png\"><img
-      class=\"wp-image-161182 aligncenter\" src=\"{{ site.baseurl }}/assets/images/wp-content/2017/03/Challenge-image-1.png\"
+      class=\"wp-image-161182 aligncenter\" src=\"www.challenge.gov/assets/images/wp-content/2017/03/Challenge-image-1.png\"
       alt=\"\" width=\"185\" height=\"292\" /></a><!--more-->\r\n\r\n<strong>2. Fill
       out the form to describe your successful current practice or your great idea.</strong><strong> Support
       your solution with evidence of its effectiveness.</strong>\r\n\r\n<strong>3. </strong><strong>Make
@@ -224,20 +224,20 @@ campaignAttributes:
       style=\"padding-left: 30px;\"><em>TIP: Be sure to select “Solutions” from the
       menu below in order to comment on a specific solution. If you select “Discussions”
       from the “Challenge Details” menu your comment will not attach to a specific
-      solution.</em></p>\r\n<a href=\"{{ site.baseurl }}/assets/images/wp-content/2017/03/Challenge-image-2.png\"><img
-      class=\"wp-image-161183 aligncenter\" src=\"{{ site.baseurl }}/assets/images/wp-content/2017/03/Challenge-image-2.png\"
+      solution.</em></p>\r\n<a href=\"www.challenge.gov/assets/images/wp-content/2017/03/Challenge-image-2.png\"><img
+      class=\"wp-image-161183 aligncenter\" src=\"www.challenge.gov/assets/images/wp-content/2017/03/Challenge-image-2.png\"
       alt=\"\" width=\"195\" height=\"298\" /></a>\r\n\r\n&nbsp;\r\n\r\n<strong>2.
       Click on the solution you’d like to comment on.</strong>                   
                                                                                  
                                                                                  
-                                         <a href=\"{{ site.baseurl }}/assets/images/wp-content/2017/03/Challenge-image-3.png\"><img
-      class=\"wp-image-161184 aligncenter\" src=\"{{ site.baseurl }}/assets/images/wp-content/2017/03/Challenge-image-3.png\"
+                                         <a href=\"www.challenge.gov/assets/images/wp-content/2017/03/Challenge-image-3.png\"><img
+      class=\"wp-image-161184 aligncenter\" src=\"www.challenge.gov/assets/images/wp-content/2017/03/Challenge-image-3.png\"
       alt=\"\" width=\"637\" height=\"269\" />\r\n</a><!--more-->\r\n\r\n<strong>3.
       Select “Comments” from the “Solution Details” menu.                        
                                                                                  
        </strong><strong>                                            </strong>\r\n\r\n<a
-      href=\"{{ site.baseurl }}/assets/images/wp-content/2017/03/Challenge-image-41.png\"><img
-      class=\"wp-image-161190 aligncenter\" src=\"{{ site.baseurl }}/assets/images/wp-content/2017/03/Challenge-image-41.png\"
+      href=\"www.challenge.gov/assets/images/wp-content/2017/03/Challenge-image-41.png\"><img
+      class=\"wp-image-161190 aligncenter\" src=\"www.challenge.gov/assets/images/wp-content/2017/03/Challenge-image-41.png\"
       alt=\"\" width=\"179\" height=\"231\" /></a>\r\n\r\n&nbsp;"
     partnerships: ''
   groupAttributes:
@@ -426,7 +426,7 @@ campaignAttributes:
     winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: '[embed]{{ site.baseurl }}/assets/images/wp-content/2017/05/FNS-powtoon.mp4[/embed]    &nbsp;    <em>It’s
+description: '[embed]www.challenge.gov/assets/images/wp-content/2017/05/FNS-powtoon.mp4[/embed]    &nbsp;    <em>It’s
   late September, 2017.  School meal applications have slowed to a trickle and your
   office is switching gears to draw your verification sample.  You have high hopes
   that the plan you spent so much time refining over the summer will increase your

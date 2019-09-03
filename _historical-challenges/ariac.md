@@ -255,8 +255,8 @@ campaignAttributes:
       sum of these cost choices made by each team will be divided by a baseline cost
       of $1700 and made into a cost factor for the scoring. The team costs are designated
       as <em>TC</em>, and the baseline cost is designated as B<em>C</em>.  The cost
-      factor, is then calculated as:    <a href="{{ site.baseurl }}/assets/images/wp-content/2018/01/Capture1.jpg"><img
-      class="size-full wp-image-174465 aligncenter" src="{{ site.baseurl }}/assets/images/wp-content/2018/01/Capture1.jpg"
+      factor, is then calculated as:    <a href="www.challenge.gov/assets/images/wp-content/2018/01/Capture1.jpg"><img
+      class="size-full wp-image-174465 aligncenter" src="www.challenge.gov/assets/images/wp-content/2018/01/Capture1.jpg"
       alt="" width="156" height="58" /></a>    <strong>Completion Score</strong>    Performance
       metrics that cover both completion and efficiency are calculated for each Trial
       separately. Completion captures the quality of the orders fulfilled (that the
@@ -273,8 +273,8 @@ campaignAttributes:
       any order with all of the products in the confines of the shipping box and in
       the correct position/orientation receives an additional point for each product.
       So, for an order s_<em>j</em> with <em>i</em> products in it would have a maximum
-      score of:    <a href="{{ site.baseurl }}/assets/images/wp-content/2018/01/capture3.png"><img
-      class=" wp-image-174475 aligncenter" src="{{ site.baseurl }}/assets/images/wp-content/2018/01/capture3.png"
+      score of:    <a href="www.challenge.gov/assets/images/wp-content/2018/01/capture3.png"><img
+      class=" wp-image-174475 aligncenter" src="www.challenge.gov/assets/images/wp-content/2018/01/capture3.png"
       alt="" width="186" height="61" /></a>    <strong>Efficiency Factor</strong>    The
       Efficiency of the approaches chosen by the teams are accounted for in the scoring
       by using the times that each team takes to complete each trial. The times are
@@ -283,8 +283,8 @@ campaignAttributes:
       time, <em>Tj</em> is counted in seconds from the time that the <em>j</em>th
       order is sent to the team. For each trial, an average of the times for each
       team (<em>ATj</em>) is compared to the individual team time to calculate the
-      Efficiency Factor:    <a href="{{ site.baseurl }}/assets/images/wp-content/2018/01/Capture4.png"><img
-      class=" wp-image-174480 aligncenter" src="{{ site.baseurl }}/assets/images/wp-content/2018/01/Capture4-300x135.png"
+      Efficiency Factor:    <a href="www.challenge.gov/assets/images/wp-content/2018/01/Capture4.png"><img
+      class=" wp-image-174480 aligncenter" src="www.challenge.gov/assets/images/wp-content/2018/01/Capture4-300x135.png"
       alt="" width="176" height="79" /></a>    If a team’s system times out for a
       trial, the efficiency factor for the trial is set to 0 and the trial time is
       not used to calculate the average times for that trial.    For the multi-order
@@ -294,8 +294,8 @@ campaignAttributes:
       <em>h</em> value will be made available to the Participants at least two weeks
       before the finals.    <strong>Trial Score Calculation</strong>    All of the
       scoring factors described above are combined as shown below to calculate the
-      score for each trial:    <a href="{{ site.baseurl }}/assets/images/wp-content/2018/01/capture5.png"><img
-      class="wp-image-174485 aligncenter" src="{{ site.baseurl }}/assets/images/wp-content/2018/01/capture5-1024x90.png"
+      score for each trial:    <a href="www.challenge.gov/assets/images/wp-content/2018/01/capture5.png"><img
+      class="wp-image-174485 aligncenter" src="www.challenge.gov/assets/images/wp-content/2018/01/capture5-1024x90.png"
       alt="" width="615" height="54" /></a>    <strong>Final Score Calculation</strong>    The
       final overall score is the equally weighted sum of all trial scores. As mentioned
       in the Competition Scenarios section, trials are expected to focus on the Baseline

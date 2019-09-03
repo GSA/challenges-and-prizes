@@ -216,7 +216,7 @@ campaignAttributes:
       interested Solvers to connect with experts working on PMA challenges. The webinar
       was broadcast widely and is available online, along with answers to frequently
       asked questions:&nbsp;<strong><a href=\"https://vimeo.com/336330824\" target=\"_blank\"
-      rel=\"noopener\">Webinar</a>&nbsp;|&nbsp;<a href=\"{{ site.baseurl }}/assets/images/ids-images/GEAR-Center-Challenge-QA---Update-1.pdf\">Frequently
+      rel=\"noopener\">Webinar</a>&nbsp;|&nbsp;<a href=\"www.challenge.gov/assets/images/ids-images/GEAR-Center-Challenge-QA---Update-1.pdf\">Frequently
       Asked Questions</a></strong></p>\r\n<p>Notification date of advancement of Semi-Finalists
       to Phase II: June 3rd by 5PM ET</p>\r\n<h5><strong>Phase II: Project and GEAR
       Center Plan, Opens June 3rd &ndash; Deadline to Submit by June 28th at 5:00
@@ -462,7 +462,7 @@ description: "<p>The Federal government would benefit from better access to a we
   Solvers to connect with experts working on PMA challenges. The webinar was broadcast
   widely and is available online, along with answers to frequently asked questions:
   <strong><a href=\"https://vimeo.com/336330824\" target=\"_blank\" rel=\"noopener\">Webinar</a>
-  | <a href=\"{{ site.baseurl }}/assets/images/ids-images/GEAR-Center-Challenge-QA---Update-1.pdf\">Frequently
+  | <a href=\"www.challenge.gov/assets/images/ids-images/GEAR-Center-Challenge-QA---Update-1.pdf\">Frequently
   Asked Questions</a></strong></p>"
 campaignStatusName: Launched
 templateId: 0

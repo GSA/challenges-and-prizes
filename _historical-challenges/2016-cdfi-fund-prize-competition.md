@@ -22,9 +22,9 @@ ideaSubmitFormInstruction: 'Participants will register for the Competition and w
   the terms of the partnership); and</li>    <li>The scalability and/or replicability
   of the idea or strategy.</li>  </ol>  Please use the documents listed below to better
   understand the evaluation criteria and look up rural areas and persistent poverty
-  counties.    <a href="{{ site.baseurl }}/assets/images/wp-content/2016/06/FY2016-CDFI-Fund-Prize-Evaluation-Criteria-FINAL-6.23.16.pdf"
+  counties.    <a href="www.challenge.gov/assets/images/wp-content/2016/06/FY2016-CDFI-Fund-Prize-Evaluation-Criteria-FINAL-6.23.16.pdf"
   target="_blank"><strong>FY2016 CDFI Fund Prize Evaluation Criteria </strong></a>    <strong><a
-  href="{{ site.baseurl }}/assets/images/wp-content/2016/06/CDFI-Fund-Prize-Challenge-Rural-and-PPC-Lookup-FINAL-7.21.16.xlsx">CDFI
+  href="www.challenge.gov/assets/images/wp-content/2016/06/CDFI-Fund-Prize-Challenge-Rural-and-PPC-Lookup-FINAL-7.21.16.xlsx">CDFI
   Fund Prize Challenge Rural and PPC Lookup </a></strong>'
 startDate: '2016-05-03T00:00:00'
 votingAllowed: false
@@ -85,7 +85,7 @@ campaignAttributes:
       bonus points shall be given to ideas or solutions that have been implemented
       or are proposed to be implemented in rural persistent poverty areas. <strong>Please
       click on the following link to view the Rural Area and Persistent Poverty Lookup
-      Tables: <a href="{{ site.baseurl }}/assets/images/wp-content/2016/06/CDFI-Fund-Prize-Challenge-Rural-and-PPC-Lookup-FINAL-7.21.16.xlsx">CDFI
+      Tables: <a href="www.challenge.gov/assets/images/wp-content/2016/06/CDFI-Fund-Prize-Challenge-Rural-and-PPC-Lookup-FINAL-7.21.16.xlsx">CDFI
       Fund Prize Challenge Rural and PPC Lookup </a></strong>.    (7) All applications
       must propose or present an idea or solution that directly addresses the issue
       of increasing CDFI investments and access to capital in underserved rural areas
@@ -146,7 +146,7 @@ campaignAttributes:
       up rural areas and persistent poverty counties.\r\n\r\n<a href=\"{{ site.baseurl
       }}/assets/images/wp-content/2016/06/FY2016-CDFI-Fund-Prize-Evaluation-Criteria-FINAL-6.23.16.pdf\"
       target=\"_blank\"><strong>FY2016 CDFI Fund Prize Evaluation Criteria </strong></a>\r\n\r\n<strong><a
-      href=\"{{ site.baseurl }}/assets/images/wp-content/2016/06/CDFI-Fund-Prize-Challenge-Rural-and-PPC-Lookup-FINAL-7.21.16.xlsx\">CDFI
+      href=\"www.challenge.gov/assets/images/wp-content/2016/06/CDFI-Fund-Prize-Challenge-Rural-and-PPC-Lookup-FINAL-7.21.16.xlsx\">CDFI
       Fund Prize Challenge Rural and PPC Lookup </a></strong>"
     partnerships: ''
   groupAttributes:
@@ -334,7 +334,7 @@ description: 'The Community Development Financial Institutions Fund (<a href="ht
   expected to increase CDFI investments and access to capital in underserved rural
   areas.</li>  </ol>  Judges will select the winning entries according to judging
   criteria. <strong>Please click on the following link to view the evaluation criteria:
-  <a href="{{ site.baseurl }}/assets/images/wp-content/2016/06/FY2016-CDFI-Fund-Prize-Evaluation-Criteria-FINAL-6.23.16.pdf"
+  <a href="www.challenge.gov/assets/images/wp-content/2016/06/FY2016-CDFI-Fund-Prize-Evaluation-Criteria-FINAL-6.23.16.pdf"
   target="_blank">FY2016 CDFI Fund Prize Evaluation Criteria</a></strong>. The CDFI
   Fund may choose to distribute the prize in one or more payments. In addition, the
   CDFI Fund may require prize awardees to submit reports detailing progress implementing

@@ -45,7 +45,7 @@ campaignAttributes:
     rules: '<h4 style="text-align: justify;"><span style="color: #339966;"><strong>REQUIREMENTS</strong></span></h4>  <p
       style="text-align: justify;"><strong>Registration</strong></p>    <ul style="text-align:
       justify;">    <li style="text-align: justify;">Teams must complete the registration
-      form, <strong><a href="{{ site.baseurl }}/assets/images/wp-content/2018/02/Nutrient-Sensor-Action-Challenge_Registration-form_final.docx"
+      form, <strong><a href="www.challenge.gov/assets/images/wp-content/2018/02/Nutrient-Sensor-Action-Challenge_Registration-form_final.docx"
       target="_blank" rel="noopener">found here</a>,</strong> and upload via the Challenge.gov
       "Submit Solution" tab two weeks prior to the start of monitoring and data collection
       from nutrient sensors.</li>  </ul>  <p style="text-align: justify;"><strong>Sensors</strong></p>    <ul
@@ -86,7 +86,7 @@ campaignAttributes:
       Results Package must be uploaded to Challenge.gov by <strong>January 31, 2019
       at 11:59 PM ET.</strong>   The Results Package must be no longer than 30 pages
       and must include (but is not limited to):    <strong>Updated Registration Information
-      (</strong><strong><a href="{{ site.baseurl }}/assets/images/wp-content/2018/02/Nutrient-Sensor-Action-Challenge_Registration-form_final.docx"
+      (</strong><strong><a href="www.challenge.gov/assets/images/wp-content/2018/02/Nutrient-Sensor-Action-Challenge_Registration-form_final.docx"
       target="_blank" rel="noopener">found here</a></strong><strong><a href="https://ftp.erg.com/?u=%20nutrient&amp;p=ActionChallenge"
       target="_blank" rel="noopener"><span style="color: #000000;">)</span></a></strong>    <strong>Data</strong>:  <ul>    <li>Illustration
       of the data architecture, including the flow and lifecycle of sensor data (e.g.
@@ -307,8 +307,8 @@ description: "<p style=\"text-align: center;\"><a href=\"https://youtu.be/bJBo9o
   and communicating that information.</p>\r\n<p style=\"text-align: justify;\"><strong>Participation
   in Stage I of the Challenge is not a requirement for participation in Stage II</strong>.</p>\r\n<hr
   />\r\n<h4><span style=\"color: #339966;\">SCHEDULE</span></h4>\r\n<p style=\"text-align:
-  center;\"><a href=\"{{ site.baseurl }}/assets/images/wp-content/2018/02/Nutrient-Sensor-Action-Challenge-v5b.png\"><img
-  class=\"alignnone wp-image-174250\" src=\"{{ site.baseurl }}/assets/images/wp-content/2018/02/Nutrient-Sensor-Action-Challenge-v5b.png\"
+  center;\"><a href=\"www.challenge.gov/assets/images/wp-content/2018/02/Nutrient-Sensor-Action-Challenge-v5b.png\"><img
+  class=\"alignnone wp-image-174250\" src=\"www.challenge.gov/assets/images/wp-content/2018/02/Nutrient-Sensor-Action-Challenge-v5b.png\"
   alt=\"\" width=\"314\" height=\"315\" /></a></p>\r\n<p>&nbsp;</p>\r\n<hr />\r\n<h4
   style=\"text-align: justify;\"><span style=\"color: #339966;\">REQUIREMENTS</span></h4>\r\n<p
   style=\"text-align: justify;\"><strong>Registration</strong></p>\r\n<ul style=\"text-align:
@@ -395,7 +395,7 @@ description: "<p style=\"text-align: center;\"><a href=\"https://youtu.be/bJBo9o
   (USDA)</li>\r\n<li>National Institute of Science and Technology (NIST)</li>\r\n<li>Cleveland
   Water Alliance (CWA)</li>\r\n</ul>\r\n<p style=\"text-align: justify;\"><a href=\"{{
   site.baseurl }}/assets/images/wp-content/2018/02/Untitled-collage-1.png\"><img class=\"alignleft
-  wp-image-175635\" src=\"{{ site.baseurl }}/assets/images/wp-content/2018/02/Untitled-collage-1-1024x95.png\"
+  wp-image-175635\" src=\"www.challenge.gov/assets/images/wp-content/2018/02/Untitled-collage-1-1024x95.png\"
   alt=\"\" width=\"724\" height=\"67\" /></a></p>\r\n<hr />\r\n<h4 style=\"text-align:
   justify;\"><strong><span style=\"color: #339966;\">POWERPOINTS AND WEBINARS</span></strong></h4>\r\n<ul>\r\n<li>Webinar
   presented on 1-30-2018 where USGS and Casco Bay Estuary Partnership discuss best

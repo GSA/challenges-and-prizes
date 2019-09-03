@@ -579,27 +579,27 @@ description: "<p>In 2014, nearly two million Americans aged 12 or older either a
   then send in your submission - more details about that below.</li>\r\n<li>The submissions
   are judged, and the entrant with the highest score wins $40,000!</li>\r\n</ul>\r\n<p><strong>Want
   to learn more about opioids and naloxone?</strong> We've pulled together lots of
-  resources to get you started -&nbsp;<a href=\"{{ site.baseurl }}/assets/images/wp-content/2016/09/Naloxone-App-Challenge-2016_Resources_Final.pdf\">Click</a><a
-  href=\"{{ site.baseurl }}/assets/images/wp-content/2016/09/Naloxone-App-Challenge-2016_Resources_Final.pdf\">
+  resources to get you started -&nbsp;<a href=\"www.challenge.gov/assets/images/wp-content/2016/09/Naloxone-App-Challenge-2016_Resources_Final.pdf\">Click</a><a
+  href=\"www.challenge.gov/assets/images/wp-content/2016/09/Naloxone-App-Challenge-2016_Resources_Final.pdf\">
   here</a>!</p>\r\n<p><strong> Want to learn more about the Competition?</strong>&nbsp;Click
   on&nbsp;the Rules tab for all the terms and conditions of the Competition.&nbsp;
   You can also learn more in the official Federal Register Notice that announced the
-  Competition - <a href=\"{{ site.baseurl }}/assets/images/wp-content/2016/09/Naloxone-App-Competition-Federal-Register-Notice.pdf\">Click
+  Competition - <a href=\"www.challenge.gov/assets/images/wp-content/2016/09/Naloxone-App-Competition-Federal-Register-Notice.pdf\">Click
   Here!</a></p>\r\n<p><strong>Want to learn more about the code-a-thon?</strong></p>\r\n<p>Recording
   of Day 1 Presentations:</p>\r\n<ul>\r\n<li><a href=\"https://collaboration.fda.gov/p66yrjt2b1e/\">https://collaboration.fda.gov/p66yrjt2b1e/</a></li>\r\n<li><a
-  href=\"{{ site.baseurl }}/assets/images/wp-content/2016/09/Code-a-thon-presentations_Overview.ppt\">Opioid
-  Epidemic Overview</a></li>\r\n<li><a href=\"{{ site.baseurl }}/assets/images/wp-content/2016/09/Code-a-thon-presentations_Naloxone-Formulations.ppt\">Naloxone
-  Formulations</a></li>\r\n<li><a href=\"{{ site.baseurl }}/assets/images/wp-content/2016/09/Code-a-thon-presentations_Ethnography.ppt\">Ethnography</a></li>\r\n<li><a
-  href=\"{{ site.baseurl }}/assets/images/wp-content/2016/09/Code-a-thon-presentations_Opioid-Treatment.ppt\">Opioid
-  Treatment</a></li>\r\n<li><a href=\"{{ site.baseurl }}/assets/images/wp-content/2016/09/Code-a-thon-presentations_911.ppt\">EMS
-  and 911</a></li>\r\n<li><a href=\"{{ site.baseurl }}/assets/images/wp-content/2016/09/Code-a-thon-presentations_Mobile-Health-IT.ppt\">Mobile
+  href=\"www.challenge.gov/assets/images/wp-content/2016/09/Code-a-thon-presentations_Overview.ppt\">Opioid
+  Epidemic Overview</a></li>\r\n<li><a href=\"www.challenge.gov/assets/images/wp-content/2016/09/Code-a-thon-presentations_Naloxone-Formulations.ppt\">Naloxone
+  Formulations</a></li>\r\n<li><a href=\"www.challenge.gov/assets/images/wp-content/2016/09/Code-a-thon-presentations_Ethnography.ppt\">Ethnography</a></li>\r\n<li><a
+  href=\"www.challenge.gov/assets/images/wp-content/2016/09/Code-a-thon-presentations_Opioid-Treatment.ppt\">Opioid
+  Treatment</a></li>\r\n<li><a href=\"www.challenge.gov/assets/images/wp-content/2016/09/Code-a-thon-presentations_911.ppt\">EMS
+  and 911</a></li>\r\n<li><a href=\"www.challenge.gov/assets/images/wp-content/2016/09/Code-a-thon-presentations_Mobile-Health-IT.ppt\">Mobile
   Health IT</a></li>\r\n</ul>\r\n<p>Recording of Day 2 Presentations:</p>\r\n<ul>\r\n<li><a
   href=\"https://collaboration.fda.gov/p316i6sm4c4/\">https://collaboration.fda.gov/p316i6sm4c4/</a></li>\r\n<li><a
-  href=\"{{ site.baseurl }}/assets/images/wp-content/2016/09/Code-a-thon-presentation_NIDA_SBIR-Final.pptx\">NIH
+  href=\"www.challenge.gov/assets/images/wp-content/2016/09/Code-a-thon-presentation_NIDA_SBIR-Final.pptx\">NIH
   SBIR Funding Opportunities</a></li>\r\n</ul>\r\n<p>Recording of Team Presentations:</p>\r\n<ul>\r\n<li><a
   href=\"https://collaboration.fda.gov/p7wn61s5yjc/\">https://collaboration.fda.gov/p7wn61s5yjc/</a></li>\r\n</ul>\r\n<p><strong>Still
   have questions?</strong> Email us! The&nbsp;Frequently Asked Questions&nbsp;document
-  has also recently been updated:&nbsp;<a href=\"{{ site.baseurl }}/assets/images/wp-content/2016/09/2016-FDA-Naloxone-App-Competition_FAQ_Update2.pdf\">click
+  has also recently been updated:&nbsp;<a href=\"www.challenge.gov/assets/images/wp-content/2016/09/2016-FDA-Naloxone-App-Competition_FAQ_Update2.pdf\">click
   here!</a> Send us&nbsp;any additional&nbsp;questions at&nbsp;<a href=\"mailto:NaloxoneApp@fda.hhs.gov\">NaloxoneApp@fda.hhs.gov</a>.
   You can also feel free to open up a discussion thread in the Discussions tab.</p>"
 campaignStatusName: Launched

@@ -219,7 +219,7 @@ campaignAttributes:
 memberIdeaSubmissionAllowed: false
 showTitle: true
 description: "<p><strong>WELCOME TO THE TRANSFORM TOX TESTING CHALLENGE</strong></p>\r\n<p>For
-  full challenge details, please download the <a href=\"{{ site.baseurl }}/assets/images/wp-content/2016/10/Transform-Tox-Testing-Challenge-Stage-2-Update1.pdf\">Transform
+  full challenge details, please download the <a href=\"www.challenge.gov/assets/images/wp-content/2016/10/Transform-Tox-Testing-Challenge-Stage-2-Update1.pdf\">Transform
   Tox Testing Challenge Brief</a> (pdf).</p>\r\n<p>NOTE: Stage 2 of the Challenge
   is only open to semi-finalists who have been awarded a Stage 1 prize.</p>\r\n<p><strong>Challenge
   Summary</strong></p>\r\n<p>Out of thousands of chemicals in use today, very few

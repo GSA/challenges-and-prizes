@@ -237,7 +237,7 @@ description: <strong>All official entries must be submitted via the InnoCentive 
   Solvers are asked to "dig deeper" than the rodents and offer creative, cost effective,
   long-term solutions to this real and serious problem.    <a href="{{ site.baseurl
   }}/assets/images/wp-content/2016/07/Rodent_Poster_image.png"><img class="alignnone
-  size-medium wp-image-149621" src="{{ site.baseurl }}/assets/images/wp-content/2016/07/Rodent_Poster_image-229x300.png"
+  size-medium wp-image-149621" src="www.challenge.gov/assets/images/wp-content/2016/07/Rodent_Poster_image-229x300.png"
   alt="Rodent_Poster_image" width="229" height="300" /></a>    Download the <a href="{{
   site.baseurl }}/assets/images/wp-content/2016/07/challenge-poster_RODENT_508.pdf">Rodent
   Prize Competition Poster</a>.    &nbsp;

@@ -196,7 +196,7 @@ campaignAttributes:
     winner-solution-title-1: ''
 memberIdeaSubmissionAllowed: true
 showTitle: true
-description: "<p><img src=\"{{ site.baseurl }}/assets/images/ids-images/YOUR-ART-HERE-3.jpg\"
+description: "<p><img src=\"www.challenge.gov/assets/images/ids-images/YOUR-ART-HERE-3.jpg\"
   /></p>\r\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt;\">&nbsp;</p>\r\n<p
   class=\"MsoNormal\" style=\"margin-bottom: .0001pt;\">The goal of this challenge
   is to create an inspiring environment for astronauts before they head out on space

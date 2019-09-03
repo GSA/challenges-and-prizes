@@ -44,7 +44,7 @@ campaignAttributes:
     judging-end-date: ''
     solicitation-methods: ''
     advancing-the-agency-mission: ''
-    rules: <a href="{{ site.baseurl }}/assets/images/wp-content/2015/12/ASpIRE-Evaluation-Plan-11-21-14.pdf">ASpIRE
+    rules: <a href="www.challenge.gov/assets/images/wp-content/2015/12/ASpIRE-Evaluation-Plan-11-21-14.pdf">ASpIRE
       Evaluation Plan 11-21-14</a>
     submission-start-date-1: ''
     hide-challenge-timeline: 'No'

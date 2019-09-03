@@ -106,7 +106,7 @@ campaignAttributes:
     judging-end-date: ''
     solicitation-methods: ''
     advancing-the-agency-mission: ''
-    rules: <a href="{{ site.baseurl }}/assets/images/wp-content/2017/01/N2NChallengeRules1.pdf">Review
+    rules: <a href="www.challenge.gov/assets/images/wp-content/2017/01/N2NChallengeRules1.pdf">Review
       the complete list of N2N Challenge rules and regulations.</a>
     submission-start-date-1: ''
     hide-challenge-timeline: 'No'

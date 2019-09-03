@@ -51,7 +51,7 @@ campaignAttributes:
     rules: <strong>The submissions period for Phase I of the Nutrient Recycling Challenge
       closed on January 15, 2016. Phase II will begin in October 2016, and will be
       limited to the 34 innovator teams selected to proceed from Phase I. </strong>    &nbsp;    <img
-      class="aligncenter wp-image-96401 size-medium" src="{{ site.baseurl }}/assets/images/wp-content/2015/10/Agriculture_032-300x200.jpg"
+      class="aligncenter wp-image-96401 size-medium" src="www.challenge.gov/assets/images/wp-content/2015/10/Agriculture_032-300x200.jpg"
       alt="Photo of plant sprouting from the ground." width="300" height="200" />
     submission-start-date-1: ''
     hide-challenge-timeline: 'No'
@@ -80,7 +80,7 @@ campaignAttributes:
       of the Nutrient Recycling Challenge closed on January 15, 2016. Phase II will
       begin in October 2016, and will be limited to the 34 innovator teams selected
       to proceed from Phase I. </span></strong></p>\r\n<img class=\"aligncenter wp-image-96651\"
-      src=\"{{ site.baseurl }}/assets/images/wp-content/2015/10/Sustainability_005-300x199.jpg\"
+      src=\"www.challenge.gov/assets/images/wp-content/2015/10/Sustainability_005-300x199.jpg\"
       alt=\"Photo of a light bulb\" width=\"468\" height=\"310\" />\r\n\r\n&nbsp;"
     partnerships: ''
   groupAttributes:
@@ -264,12 +264,12 @@ description: '<blockquote>  <p style="text-align: center;"><strong>Plans for Pha
   Challenge will be a non-competitive incubation program beginning in October 2016,
   in which the 34 teams selected from Phase I will develop Technology Designs based
   on the Concept Papers they submitted.</p>  <p style="text-align: center;">Click
-  here to view:</p>  <p style="text-align: center;"><a href="{{ site.baseurl }}/assets/images/wp-content/2015/10/NutrientRecyclingChallenge-Phase-II-Ancmnt_Factsheet_Nov2016_508.pdf"
+  here to view:</p>  <p style="text-align: center;"><a href="www.challenge.gov/assets/images/wp-content/2015/10/NutrientRecyclingChallenge-Phase-II-Ancmnt_Factsheet_Nov2016_508.pdf"
   target="_blank">Nutrient Recycling Challenge Phase II Announcement Factsheet (Nov.
-  2016</a>)</p>  <p style="text-align: center;"><a href="{{ site.baseurl }}/assets/images/wp-content/2015/10/Nutrient-Recycling-Challenge-Phase-II-Ancmnt_FAQ_10-04-2016.508-Final.pdf"
+  2016</a>)</p>  <p style="text-align: center;"><a href="www.challenge.gov/assets/images/wp-content/2015/10/Nutrient-Recycling-Challenge-Phase-II-Ancmnt_FAQ_10-04-2016.508-Final.pdf"
   target="_blank">Nutrient Recycling Challenge Phase II FAQs (Oct 2016</a>)</p>  <a
-  href="{{ site.baseurl }}/assets/images/wp-content/2015/10/Nutrient-Recycling-Challenge-Partners-banner_revised-web_Nov2016_DOEadded.png"><img
-  class="wp-image-158995 size-medium aligncenter" src="{{ site.baseurl }}/assets/images/wp-content/2015/10/Nutrient-Recycling-Challenge-Partners-banner_revised-web_Nov2016_DOEadded-300x100.png"
+  href="www.challenge.gov/assets/images/wp-content/2015/10/Nutrient-Recycling-Challenge-Partners-banner_revised-web_Nov2016_DOEadded.png"><img
+  class="wp-image-158995 size-medium aligncenter" src="www.challenge.gov/assets/images/wp-content/2015/10/Nutrient-Recycling-Challenge-Partners-banner_revised-web_Nov2016_DOEadded-300x100.png"
   alt="Nutrient Recycling Challenge Partners Banner" width="300" height="100" /></a></blockquote>  <p
   style="text-align: center;"><span style="text-decoration: underline;"><strong>Overview</strong></span></p>  <p
   style="text-align: left;">Every year, livestock producers manage over a billion
@@ -299,9 +299,9 @@ description: '<blockquote>  <p style="text-align: center;"><strong>Plans for Pha
   designs for effective and affordable technologies. Innovators will finalize their
   designs and teams by March 2017 before proceeding to <strong><em>Phase III </em></strong>of
   the challenge, which is expected to be a prize competition for building Prototypes.  <ul>    <li
-  style="text-align: left;"><a href="{{ site.baseurl }}/assets/images/wp-content/2015/10/NutrientRecyclingChallenge-Phase-II-Ancmnt_Factsheet_Nov2016_508.pdf"
+  style="text-align: left;"><a href="www.challenge.gov/assets/images/wp-content/2015/10/NutrientRecyclingChallenge-Phase-II-Ancmnt_Factsheet_Nov2016_508.pdf"
   target="_blank">Nutrient Recycling Challenge Phase II Announcement Factsheet (Nov.
-  2016)</a></li>    <li style="text-align: left;"><a href="{{ site.baseurl }}/assets/images/wp-content/2015/10/Nutrient-Recycling-Challenge-Phase-II-Ancmnt_FAQ_Oct2016.pdf"
+  2016)</a></li>    <li style="text-align: left;"><a href="www.challenge.gov/assets/images/wp-content/2015/10/Nutrient-Recycling-Challenge-Phase-II-Ancmnt_FAQ_Oct2016.pdf"
   target="_blank">Nutrient Recycling Challenge Phase II Ancmnt_FAQ_Oct2016</a></li>  </ul>  &nbsp;  <p
   style="text-align: center;"><span style="text-decoration: underline;"><strong>Background:
   Phase I</strong></span></p>  EPA received 75 concept papers from around the world
@@ -315,19 +315,19 @@ description: '<blockquote>  <p style="text-align: center;"><strong>Plans for Pha
   innovators, as well as learn about resources to develop their ideas into real-life
   technologies. EPA seeks to create a “brain trust” that can design nutrient recovery
   technologies that can achieve what both farmers and the environment need.  <ul>    <li><a
-  href="{{ site.baseurl }}/assets/images/wp-content/2015/10/Nutrient-Recycling-Challenge-DC-Summit_Final-Agenda.pdf"
+  href="www.challenge.gov/assets/images/wp-content/2015/10/Nutrient-Recycling-Challenge-DC-Summit_Final-Agenda.pdf"
   rel="">Nutrient Recycling Challenge DC Summit_Final Agenda</a></li>    <li><a href="{{
   site.baseurl }}/assets/images/wp-content/2015/10/Nutrient-Recycling-Challenge-Phase-I-Selections.pdf"
   rel="">Nutrient Recycling Challenge Phase I Selections</a></li>    <li><a href="{{
   site.baseurl }}/assets/images/wp-content/2015/10/Nutrient-Recycling-Challenge_Phase-1_Planning-Cmte-Judges-1.pdf"
   target="_blank">Nutrient Recycling Challenge - Phase 1 Planning Committee and Judging
   Panel</a></li>  </ul>  Documents from Phase I of the challenge:  <ul>    <li><em><a
-  href="{{ site.baseurl }}/assets/images/wp-content/2015/10/Nutrient-Recycling-Challenge-Competition-Information-Criteria-and-Guidelines.pdf">Nutrient
+  href="www.challenge.gov/assets/images/wp-content/2015/10/Nutrient-Recycling-Challenge-Competition-Information-Criteria-and-Guidelines.pdf">Nutrient
   Recycling Challenge Competition Information, Criteria, and Guidelines</a></em></li>    <li><em><a
-  href="{{ site.baseurl }}/assets/images/wp-content/2015/10/Nutrient-Recycling-Challenge_Background_508_Final.pdf">Background
+  href="www.challenge.gov/assets/images/wp-content/2015/10/Nutrient-Recycling-Challenge_Background_508_Final.pdf">Background
   Information on Nutrient Recovery Technologies and Pork and Dairy Production</a></em></li>  </ul>  &nbsp;    <a
-  href="{{ site.baseurl }}/assets/images/wp-content/2015/10/Cows.jpg"><img class="size-medium
-  wp-image-98281 aligncenter" src="{{ site.baseurl }}/assets/images/wp-content/2015/10/Cows-300x201.jpg"
+  href="www.challenge.gov/assets/images/wp-content/2015/10/Cows.jpg"><img class="size-medium
+  wp-image-98281 aligncenter" src="www.challenge.gov/assets/images/wp-content/2015/10/Cows-300x201.jpg"
   alt="Cows" width="300" height="201" /></a>    &nbsp;    <span style="text-decoration:
   underline;"><em><strong>Help spread the word!</strong></em></span>  <p style="text-align:
   left;"><a href="https://www.epa.gov/newsreleases/epa-announces-nutrient-recycling-challenge-winners"

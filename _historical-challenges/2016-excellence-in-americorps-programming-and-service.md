@@ -347,20 +347,20 @@ description: 'In honor of retired US Senator Tom Harkin, an inspiring champion
   that individuals, nonprofits, government agencies, schools, and more will be aware
   of the excellent and diverse range of national service programs across the country.    Check
   out the 2015 award recipients here:    Press Release: <a href="http://www.nationalservice.gov/newsroom/press-releases/2015/first-annual-harkin-awards-honor-americorps-members-programs">http://www.nationalservice.gov/newsroom/press-releases/2015/first-annual-harkin-awards-honor-americorps-members-programs</a>    Photos:
-  <a href="{{ site.baseurl }}/assets/images/wp-content/2016/04/Harkin-5.png" rel="attachment
-  wp-att-135731"><img class="wp-image-135731 aligncenter" src="{{ site.baseurl }}/assets/images/wp-content/2016/04/Harkin-5-300x167.png"
-  alt="Harkin 5" width="293" height="163" /></a><a href="{{ site.baseurl }}/assets/images/wp-content/2016/04/Harkin-4.png"
+  <a href="www.challenge.gov/assets/images/wp-content/2016/04/Harkin-5.png" rel="attachment
+  wp-att-135731"><img class="wp-image-135731 aligncenter" src="www.challenge.gov/assets/images/wp-content/2016/04/Harkin-5-300x167.png"
+  alt="Harkin 5" width="293" height="163" /></a><a href="www.challenge.gov/assets/images/wp-content/2016/04/Harkin-4.png"
   rel="attachment wp-att-135721"><img class="wp-image-135721 alignleft" src="{{ site.baseurl
   }}/assets/images/wp-content/2016/04/Harkin-4.png" alt="Harkin 4" width="206" height="162"
-  /></a> <a href="{{ site.baseurl }}/assets/images/wp-content/2016/04/Harkin-3.png"
+  /></a> <a href="www.challenge.gov/assets/images/wp-content/2016/04/Harkin-3.png"
   rel="attachment wp-att-135711"><img class="wp-image-135711 alignright" src="{{ site.baseurl
   }}/assets/images/wp-content/2016/04/Harkin-3.png" alt="Harkin 3" width="248" height="165"
-  /></a> <a href="{{ site.baseurl }}/assets/images/wp-content/2016/04/Harkin-2.png"
+  /></a> <a href="www.challenge.gov/assets/images/wp-content/2016/04/Harkin-2.png"
   rel="attachment wp-att-135701"><img class="size-medium wp-image-135701 alignright"
-  src="{{ site.baseurl }}/assets/images/wp-content/2016/04/Harkin-2.png" alt="Harkin
-  2" width="275" height="183" /></a> <a href="{{ site.baseurl }}/assets/images/wp-content/2016/04/Harkin-1.png"
+  src="www.challenge.gov/assets/images/wp-content/2016/04/Harkin-2.png" alt="Harkin
+  2" width="275" height="183" /></a> <a href="www.challenge.gov/assets/images/wp-content/2016/04/Harkin-1.png"
   rel="attachment wp-att-135691"><img class="size-full wp-image-135691 alignright"
-  src="{{ site.baseurl }}/assets/images/wp-content/2016/04/Harkin-1.png" alt="Harkin
+  src="www.challenge.gov/assets/images/wp-content/2016/04/Harkin-1.png" alt="Harkin
   1" width="275" height="183" /></a>'
 campaignStatusName: Launched
 templateId: 0

@@ -76,7 +76,7 @@ campaignAttributes:
       Continuous Nutrient Sensors <strong><em>(</em></strong><a href="http://www.act-us.info/nutrients-challenge/Participants.php"><em><strong>Click
       here </strong></em></a> for a list of participants from the 2014<em> </em><em>Nutrient
       Sensor Challenge</em>)</p>  <p style="padding-left: 60px;"><a href="http://www.act-us.info/nutrients-challenge/Partners.php"><img
-      class="wp-image-163821 alignleft" src="{{ site.baseurl }}/assets/images/wp-content/2017/07/BuildaTeam1.png"
+      class="wp-image-163821 alignleft" src="www.challenge.gov/assets/images/wp-content/2017/07/BuildaTeam1.png"
       alt="" width="247" height="95" /></a></p>    <h4></h4>  <h4></h4>  &nbsp;  <h4></h4>  &nbsp;  <h4><strong>C.
       Current Monitoring</strong>:</h4>  <p style="padding-left: 30px;">Describe current
       water quality monitoring efforts, locations and assets including links to any
@@ -175,7 +175,7 @@ campaignAttributes:
       href=\"http://www.act-us.info/nutrients-challenge/Participants.php\"><em><strong>Click
       here </strong></em></a> for a list of participants from the 2014<em> </em><em>Nutrient
       Sensor Challenge</em>)</p>\r\n<p style=\"padding-left: 30px;\"><a href=\"http://www.act-us.info/nutrients-challenge/Partners.php\"><img
-      class=\"wp-image-163821 alignleft\" src=\"{{ site.baseurl }}/assets/images/wp-content/2017/07/BuildaTeam1.png\"
+      class=\"wp-image-163821 alignleft\" src=\"www.challenge.gov/assets/images/wp-content/2017/07/BuildaTeam1.png\"
       alt=\"\" width=\"254\" height=\"89\" /></a></p>\r\n&nbsp;\r\n\r\n&nbsp;\r\n<h4></h4>\r\n&nbsp;\r\n<h4></h4>\r\n<h4></h4>\r\n&nbsp;\r\n<h4><strong>C.
       Current Monitoring</strong>:</h4>\r\n<p style=\"padding-left: 30px;\">Describe
       current water quality monitoring efforts, locations and assets including links
@@ -506,9 +506,9 @@ description: "<h2 style=\"box-sizing: border-box; font-family: 'Open Sans', sans
   here</a>&nbsp;to access Stage II of this challenge.</strong></h2>\r\n<p><span style=\"color:
   #333333; font-family: 'Open Sans', sans-serif;\">&nbsp;&nbsp;</span><a style=\"box-sizing:
   border-box; color: #4a90e2; transition: all 0.25s ease 0s; font-family: 'Open Sans',
-  sans-serif;\" href=\"{{ site.baseurl }}/assets/images/wp-content/2017/07/webinartextbox2.png\"><img
+  sans-serif;\" href=\"www.challenge.gov/assets/images/wp-content/2017/07/webinartextbox2.png\"><img
   class=\" wp-image-163622 aligncenter\" style=\"box-sizing: border-box; border: 0px;
-  vertical-align: middle;\" src=\"{{ site.baseurl }}/assets/images/wp-content/2017/07/webinartextbox2-300x90.png\"
+  vertical-align: middle;\" src=\"www.challenge.gov/assets/images/wp-content/2017/07/webinartextbox2-300x90.png\"
   alt=\"\" width=\"343\" height=\"103\" /></a></p>\r\n<p style=\"box-sizing: border-box;
   margin: 0px 0px 15px; color: #333333; font-family: 'Open Sans', sans-serif; text-align:
   center;\"><strong style=\"box-sizing: border-box;\"><a style=\"box-sizing: border-box;
@@ -543,9 +543,9 @@ description: "<h2 style=\"box-sizing: border-box; font-family: 'Open Sans', sans
   that depend on clean water. Federal, state and local governments spend billions
   of dollars per year to combat nutrient pollution or prevent its effects.</p>\r\n<p><a
   style=\"box-sizing: border-box; color: #4a90e2; transition: all 0.25s ease 0s; font-family:
-  'Open Sans', sans-serif;\" href=\"{{ site.baseurl }}/assets/images/wp-content/2017/07/NSAC.jpg\"><img
+  'Open Sans', sans-serif;\" href=\"www.challenge.gov/assets/images/wp-content/2017/07/NSAC.jpg\"><img
   class=\"wp-image-163688 alignleft\" style=\"box-sizing: border-box; border: 0px;
-  vertical-align: middle;\" src=\"{{ site.baseurl }}/assets/images/wp-content/2017/07/NSAC-913x1024.jpg\"
+  vertical-align: middle;\" src=\"www.challenge.gov/assets/images/wp-content/2017/07/NSAC-913x1024.jpg\"
   alt=\"\" width=\"311\" height=\"349\" /></a></p>\r\n<h4 style=\"box-sizing: border-box;
   font-family: 'Open Sans', sans-serif; font-weight: 500; line-height: 1.1; color:
   #333333; margin-top: 10px; margin-bottom: 10px; font-size: 18px; -webkit-font-smoothing:
@@ -572,9 +572,9 @@ description: "<h2 style=\"box-sizing: border-box; font-family: 'Open Sans', sans
   sensors into existing water monitoring efforts, the Challenge can help states and
   local communities overcome barriers to preventing and reducing nutrient pollution.</p>\r\n<p><a
   style=\"box-sizing: border-box; color: #4a90e2; transition: all 0.25s ease 0s; font-family:
-  'Open Sans', sans-serif;\" href=\"{{ site.baseurl }}/assets/images/wp-content/2017/07/logos3.png\"><img
+  'Open Sans', sans-serif;\" href=\"www.challenge.gov/assets/images/wp-content/2017/07/logos3.png\"><img
   class=\"wp-image-163704 aligncenter\" style=\"box-sizing: border-box; border: 0px;
-  vertical-align: middle;\" src=\"{{ site.baseurl }}/assets/images/wp-content/2017/07/logos3-1024x122.png\"
+  vertical-align: middle;\" src=\"www.challenge.gov/assets/images/wp-content/2017/07/logos3-1024x122.png\"
   alt=\"\" width=\"628\" height=\"75\" /></a></p>\r\n<h5 style=\"box-sizing: border-box;
   font-family: 'Open Sans', sans-serif; font-weight: 500; line-height: normal; color:
   #333333; margin-top: 10px; margin-bottom: 10px; font-size: 14px; -webkit-font-smoothing:
@@ -633,7 +633,7 @@ description: "<h2 style=\"box-sizing: border-box; font-family: 'Open Sans', sans
   all 0.25s ease 0s; font-family: 'Open Sans', sans-serif;\" href=\"{{ site.baseurl
   }}/assets/images/wp-content/2017/07/NSACtimeline.jpg\"><img class=\" wp-image-163689
   aligncenter\" style=\"box-sizing: border-box; border: 0px; vertical-align: middle;\"
-  src=\"{{ site.baseurl }}/assets/images/wp-content/2017/07/NSACtimeline-916x1024.jpg\"
+  src=\"www.challenge.gov/assets/images/wp-content/2017/07/NSACtimeline-916x1024.jpg\"
   alt=\"\" width=\"426\" height=\"477\" /></a><span style=\"color: #333333; font-family:
   'Open Sans', sans-serif;\">&nbsp;</span><strong style=\"box-sizing: border-box;
   color: #333333; font-family: 'Open Sans', sans-serif;\">Stage II: SENSORS IN ACTION

@@ -614,7 +614,7 @@ showTitle: true
 description: '<a href="https://www.challenge.gov/challenge/2018-ramp-reusable-abstractions-of-manufacturing-processes/"><strong>If
   you are interested in RAMP 2018, click here!</strong></a>    <hr />    <a href="{{
   site.baseurl }}/assets/images/wp-content/2016/10/RAMP_group_2017.jpg"><img class="alignnone
-  size-medium wp-image-164160" src="{{ site.baseurl }}/assets/images/wp-content/2016/10/RAMP_group_2017-300x77.jpg"
+  size-medium wp-image-164160" src="www.challenge.gov/assets/images/wp-content/2016/10/RAMP_group_2017-300x77.jpg"
   alt="" width="300" height="77" align="middle" /></a>    <hr />  <p style="text-align:
   left;"><em><strong>Announcing the RAMP 2017 Winners!</strong></em></p>  <strong>1st
   Place:</strong> <span class="TextRun SCXW127943398" lang="EN-US" xml:lang="EN-US"><span
@@ -659,7 +659,7 @@ description: '<a href="https://www.challenge.gov/challenge/2018-ramp-reusable-ab
   Be the first to model your favorite processes, share your experiences, and maybe
   win some cash and honors!    <a href="https://www.challenge.gov/challenge/ramp-reusable-abstractions-of-manufacturing-processes/simple-alarm-clock-3/"
   rel="attachment wp-att-159405"><img class="aligncenter size-full wp-image-159405"
-  src="{{ site.baseurl }}/assets/images/wp-content/2016/10/simple-alarm-clock-3.png"
+  src="www.challenge.gov/assets/images/wp-content/2016/10/simple-alarm-clock-3.png"
   alt="" width="464" height="350" /></a>    Want to hit us with novelty? While <a
   href="https://en.wikipedia.org/wiki/Rube_Goldberg_machine" target="_blank" rel="noopener">Rube
   Goldberg</a><sup>†</sup> may not be a winner in this challenge, your  submission
@@ -668,7 +668,7 @@ description: '<a href="https://www.challenge.gov/challenge/2018-ramp-reusable-ab
   expect initial models may sacrifice some accuracy in the interest of putting that
   initial stake in the ground.    <a href="https://www.challenge.gov/challenge/ramp-reusable-abstractions-of-manufacturing-processes/back-scratcher-3/"
   rel="attachment wp-att-159403"><img class="aligncenter size-full wp-image-159403"
-  src="{{ site.baseurl }}/assets/images/wp-content/2016/10/back-scratcher-3.png" alt=""
+  src="www.challenge.gov/assets/images/wp-content/2016/10/back-scratcher-3.png" alt=""
   width="464" height="326" /></a>    Not everyone can be an expert in all facets of
   manufacturing. You don''t even need to be an expert. All you need is a good idea
   for one model expressed clearly - and to do that, of course standards are the way
@@ -679,7 +679,7 @@ description: '<a href="https://www.challenge.gov/challenge/2018-ramp-reusable-ab
   and why they made sense to use!<a href="https://www.challenge.gov/challenge/ramp-reusable-abstractions-of-manufacturing-processes/back-scratcher-3/"
   rel="attachment wp-att-159403">  </a><a href="https://www.challenge.gov/challenge/ramp-reusable-abstractions-of-manufacturing-processes/clothing-3/"
   rel="attachment wp-att-159404"><img class="aligncenter size-full wp-image-159404"
-  src="{{ site.baseurl }}/assets/images/wp-content/2016/10/clothing-3.png" alt=""
+  src="www.challenge.gov/assets/images/wp-content/2016/10/clothing-3.png" alt=""
   width="464" height="550" /></a>    Want to see an example? Try this <a href="{{
   site.baseurl }}/assets/images/wp-content/2016/10/RAMP-Example.zip">example milling
   model</a>. Want to discuss? <a href="https://www.challenge.gov/?attachment_id=159190"
@@ -689,7 +689,7 @@ description: '<a href="https://www.challenge.gov/challenge/2018-ramp-reusable-ab
   the complete rules to the challenge.    Have more questions? Post them at the <a
   href="https://www.challenge.gov/challenge/ramp-reusable-abstractions-of-manufacturing-processes/#comment-849244">challenge
   discussion area</a>. And check out our Feb 23 2017 webinar <a href="https://www.nist.gov/video/ramp-competition-instructional-webinar-what-how-and-where-enter">video</a>
-  and <a href="{{ site.baseurl }}/assets/images/wp-content/2016/10/2017-Feb-23-RAMP-Competition-Webinar-Slides.pdf">companion
+  and <a href="www.challenge.gov/assets/images/wp-content/2016/10/2017-Feb-23-RAMP-Competition-Webinar-Slides.pdf">companion
   slides</a>.  <h6>† Artwork Copyright © and TM Rube Goldberg Inc. All Rights Reserved.
   RUBE GOLDBERG ® is a registered trademark of Rube Goldberg Inc. All materials used
   with permission. <a href="http://rubegoldberg.com">rubegoldberg.com</a> Calling

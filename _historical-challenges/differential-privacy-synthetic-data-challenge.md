@@ -579,15 +579,15 @@ description: "<h3>Overview</h3>\r\n<p><strong>THANK YOU to all the competitors i
   event&nbsp;<a href=\"https://gcc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsimons.berkeley.edu%2Fprivacy2019-1&amp;data=02%7C01%7Cterese.manley%40nist.gov%7Cc2c356c334ff467cbfd508d6a66253e3%7C2ab5d82fd8fa4797a93e054655c61dec%7C1%7C0%7C636879338579479314&amp;sdata=m%2Fm5d4iY4%2BKE%2FhYT%2BhlIOhMdkyW4GSGXl3bEjNa2qKo%3D&amp;reserved=0\"
   target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://gcc01.safelinks.protection.outlook.com/?url%3Dhttps%253A%252F%252Fsimons.berkeley.edu%252Fprivacy2019-1%26data%3D02%257C01%257Cterese.manley%2540nist.gov%257Cc2c356c334ff467cbfd508d6a66253e3%257C2ab5d82fd8fa4797a93e054655c61dec%257C1%257C0%257C636879338579479314%26sdata%3Dm%252Fm5d4iY4%252BKE%252FhYT%252BhlIOhMdkyW4GSGXl3bEjNa2qKo%253D%26reserved%3D0&amp;source=gmail&amp;ust=1552425614963000&amp;usg=AFQjCNF3dK5bxQiCNG3dJZTPScpjmd27tw\">Data
   Privacy: From Foundations to Applications</a>&nbsp;held March 4-8, 2019.&nbsp; <a
-  href=\"{{ site.baseurl }}/assets/images/ids-images/CTask_Knexus_Simons_NISTChallenge_Slides-030619.pdf\">View
+  href=\"www.challenge.gov/assets/images/ids-images/CTask_Knexus_Simons_NISTChallenge_Slides-030619.pdf\">View
   the slides</a>.</p>\r\n<p><strong>Jan. 15, 2019 Informational Webinar Resources:</strong></p>\r\n<ul>\r\n<li><a
   href=\"https://youtu.be/f5ig0qBByFo\">Webinar video recording</a></li>\r\n<li><a
-  href=\"{{ site.baseurl }}/assets/images/ids-images/NIST_Jan-15-Webinar-Questions.pdf\">Q&amp;A
-  Session document</a></li>\r\n<li><a href=\"{{ site.baseurl }}/assets/images/ids-images/NIST_Jan-15-2019-Webinar-Presentation.pdf\">Presentation
+  href=\"www.challenge.gov/assets/images/ids-images/NIST_Jan-15-Webinar-Questions.pdf\">Q&amp;A
+  Session document</a></li>\r\n<li><a href=\"www.challenge.gov/assets/images/ids-images/NIST_Jan-15-2019-Webinar-Presentation.pdf\">Presentation
   slides</a></li>\r\n</ul>\r\n<p><strong>Nov. 13, 2018 Informational Webinar Resources:</strong></p>\r\n<ul>\r\n<li><a
   href=\"https://youtu.be/6sU-NFTsR-I\">Webinar video recording</a></li>\r\n<li><a
-  href=\"{{ site.baseurl }}/assets/images/ids-images/Nist_Nov-13-Webinar-Questions.pdf\">Q&amp;A
-  Session document</a></li>\r\n<li><a href=\"{{ site.baseurl }}/assets/images/ids-images/NIST_Nov-13-Webinar-presentation.pdf\">Presentation
+  href=\"www.challenge.gov/assets/images/ids-images/Nist_Nov-13-Webinar-Questions.pdf\">Q&amp;A
+  Session document</a></li>\r\n<li><a href=\"www.challenge.gov/assets/images/ids-images/NIST_Nov-13-Webinar-presentation.pdf\">Presentation
   slides</a></li>\r\n</ul>\r\n<p>Are you a mathematician or data scientist interested
   in a new challenge? Then join this exciting data privacy competition with <strong>up
   to $150,000 in prizes</strong>, where participants will create new or improved differentially

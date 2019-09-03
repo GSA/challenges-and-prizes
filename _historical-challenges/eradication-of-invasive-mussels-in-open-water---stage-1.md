@@ -239,7 +239,7 @@ description: <h4>This launches Stage 1 of a planned three-stage competition, tha
   build upon existing treatments.    <iframe src="https://www.youtube.com/embed/WWEFlDAUeFQ"
   width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>    &nbsp;    <a
   href="https://www.usbr.gov/research/challenges/docs/mussels-poster.pdf"><img class="size-medium
-  wp-image-167804 alignnone" src="{{ site.baseurl }}/assets/images/wp-content/2017/11/mussels-poster1-232x300.jpg"
+  wp-image-167804 alignnone" src="www.challenge.gov/assets/images/wp-content/2017/11/mussels-poster1-232x300.jpg"
   alt="Image of Reclamation's Eradication of Mussels Prize Competition poster." width="232"
   height="300" /></a>    <a href="https://www.usbr.gov/research/challenges/docs/mussels-preview.pdf">Download
   Full Preview</a>    <a href="https://www.usbr.gov/research/challenges/docs/mussels-poster.pdf">Download

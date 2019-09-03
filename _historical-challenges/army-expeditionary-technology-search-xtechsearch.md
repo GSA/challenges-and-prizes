@@ -16,7 +16,7 @@ ideaSubmitFormInstruction: The xTechSearch program is voluntary and open to all 
   included in the announcement that includes a brief description of the company, any
   previous or on-going work with the Department of Defense, alignment to modernization
   priority and a company point-of-contact with a phone number and e-mail address.    <a
-  href="{{ site.baseurl }}/assets/images/wp-content/2018/06/xTechSearch-Registration-Form1.pdf">xTechSearch-Registration-Form1</a>
+  href="www.challenge.gov/assets/images/wp-content/2018/06/xTechSearch-Registration-Form1.pdf">xTechSearch-Registration-Form1</a>
 startDate: '2018-11-26T07:16:06'
 votingAllowed: false
 newCampaign: false
@@ -97,7 +97,7 @@ campaignAttributes:
       form included in the announcement that includes a brief description of the company,
       any previous or on-going work with the Department of Defense, alignment to modernization
       priority and a company point-of-contact with a phone number and e-mail address.\r\n\r\n<a
-      href=\"{{ site.baseurl }}/assets/images/wp-content/2018/06/xTechSearch-Registration-Form1.pdf\">xTechSearch-Registration-Form1</a>"
+      href=\"www.challenge.gov/assets/images/wp-content/2018/06/xTechSearch-Registration-Form1.pdf\">xTechSearch-Registration-Form1</a>"
     partnerships: ''
   groupAttributes:
   - judging-criteria-description-0: ''
@@ -271,7 +271,7 @@ description: '<strong>THANK YOU</strong>    The Army would like to thank all par
   I submissions should include both white paper and registration form and be sent
   to: <a href="mailto:usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil">usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil</a>.
   Specific instructions and deadlines are described below.    <em>Registration Form:</em> <a
-  href="{{ site.baseurl }}/assets/images/wp-content/2018/06/xTechSearch-Registration-Form.pdf">xTechSearch-Registration-Form</a>    &nbsp;    <strong>Background
+  href="www.challenge.gov/assets/images/wp-content/2018/06/xTechSearch-Registration-Form.pdf">xTechSearch-Registration-Form</a>    &nbsp;    <strong>Background
   Information:</strong>    The Assistant Secretary of the Army for Acquisition, Logistics
   and Technology (ASA(ALT)) is announcing the Army Expeditionary Technology Search
   – xTechSearch – to be featured at the Association of the United States Army (AUSA)
@@ -401,7 +401,7 @@ description: '<strong>THANK YOU</strong>    The Army would like to thank all par
   form included in the announcement that includes a brief description of the company,
   any previous or on-going work with the Department of Defense, alignment to modernization
   priority and a company point-of-contact with a phone number and e-mail address.    <a
-  href="{{ site.baseurl }}/assets/images/wp-content/2018/06/xTechSearch-Registration-Form.pdf">xTechSearch-Registration-Form</a>    <strong>Evaluation
+  href="www.challenge.gov/assets/images/wp-content/2018/06/xTechSearch-Registration-Form.pdf">xTechSearch-Registration-Form</a>    <strong>Evaluation
   Criteria and Process</strong>    The xTechSearch proposals will be evaluated and
   ranked in a multi-tiered manner.    <em>Phase I: Concept White Paper Contest</em>    The
   Concept White Paper phase invites all eligible contestants to complete a concept

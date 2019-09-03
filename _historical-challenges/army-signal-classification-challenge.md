@@ -255,8 +255,8 @@ description: '<strong>Registration will be conducted on a third-party site: <a 
   been labeled with one true class of 24 possible classes. For each test instance,
   <em>i</em>, you must submit a set of 24 predicted probabilities, p<sub>i,j</sub>.,
   where <em>j</em>=1, 2, …, 24. The formula used to compute your score is then,  <p
-  style="text-align: center;"><a href="{{ site.baseurl }}/assets/images/wp-content/2018/04/Scoring-Metric-16APRIL2018.jpeg"><img
-  class="alignnone wp-image-175559" src="{{ site.baseurl }}/assets/images/wp-content/2018/04/Scoring-Metric-16APRIL2018-300x193.jpeg"
+  style="text-align: center;"><a href="www.challenge.gov/assets/images/wp-content/2018/04/Scoring-Metric-16APRIL2018.jpeg"><img
+  class="alignnone wp-image-175559" src="www.challenge.gov/assets/images/wp-content/2018/04/Scoring-Metric-16APRIL2018-300x193.jpeg"
   alt="" width="455" height="293" /></a></p>  &nbsp;    Submission File    Participants
   will submit CSV files that contain their results across the test instances. These
   results are expected in the format of a confusion matrix that shows the predicted

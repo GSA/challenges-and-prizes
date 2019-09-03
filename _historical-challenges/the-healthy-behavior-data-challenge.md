@@ -24,7 +24,7 @@ ideaSubmitFormInstruction: '<strong>Dates</strong>: Submissions will be accepted
   outlined below will be ineligible for further review and prize award. During the
   open submission period, participants must submit the following information to enter
   the HBD Challenge:    <strong><u>Phase I (Prototype Development) </u></strong>  <ol>    <li>Submit/upload
-  a completed <a href="{{ site.baseurl }}/assets/images/wp-content/2017/04/CDC-Data-Challenge-Phase-1-submission-template-US-FINAL.docx">HBD
+  a completed <a href="www.challenge.gov/assets/images/wp-content/2017/04/CDC-Data-Challenge-Phase-1-submission-template-US-FINAL.docx">HBD
   Challenge Submission Template</a> describing the proposed project, project personnel
   and data sources.</li>    <li>Provide a PowerPoint or other visual presentation
   of the proposed project including purpose, methods and anticipated outcomes of the

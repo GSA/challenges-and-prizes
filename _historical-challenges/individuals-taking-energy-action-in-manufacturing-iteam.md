@@ -41,7 +41,7 @@ campaignAttributes:
     judging-end-date: ''
     solicitation-methods: ''
     advancing-the-agency-mission: ''
-    rules: <p>Read the full competition <a href="{{ site.baseurl }}/assets/images/ids-images/ITEAM-Prize-Competition-Rules-Document.pdf">rules
+    rules: <p>Read the full competition <a href="www.challenge.gov/assets/images/ids-images/ITEAM-Prize-Competition-Rules-Document.pdf">rules
       document</a>.</p>
     submission-start-date-1: ''
     hide-challenge-timeline: 'No'

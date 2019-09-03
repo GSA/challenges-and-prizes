@@ -487,7 +487,7 @@ campaignAttributes:
 memberIdeaSubmissionAllowed: false
 showTitle: true
 description: "<p><img style=\"display: block; margin-left: auto; margin-right: auto;\"
-  src=\"{{ site.baseurl }}/assets/images/ids-images/MEC_Challenge_HelmetRetentionSystem_NEW.jpg\"
+  src=\"www.challenge.gov/assets/images/ids-images/MEC_Challenge_HelmetRetentionSystem_NEW.jpg\"
   width=\"857\" height=\"416\" /></p>\r\n<h4>&nbsp;</h4>\r\n<h4><strong>Problem Statement</strong></h4>\r\n<p>The
   Marine Corps plans to field new, more capable night vision devices (NVDs) within
   the next year. While more capable, the new NVDs will be larger and heavier than

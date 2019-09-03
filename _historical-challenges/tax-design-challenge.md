@@ -374,7 +374,7 @@ description: '<p class="p1"><span class="s1">Taxpayers have the right to be info
   may include additional variables that are not in the TDD.    <a href="{{ site.baseurl
   }}/assets/images/wp-content/2016/03/TaxDataDocument.xlsx" rel="">TaxDataDocument</a>.xlsx    The
   Sample Tax Data is for illustrative purposes only — to show how many of the data
-  fields in the TDD are currently displayed.    <a href="{{ site.baseurl }}/assets/images/wp-content/2016/03/SampleTaxData.pdf"
+  fields in the TDD are currently displayed.    <a href="www.challenge.gov/assets/images/wp-content/2016/03/SampleTaxData.pdf"
   rel="">SampleTaxData</a>.pdf    <em><strong><em>  Mentors</em></strong></em>    Network
   with over two dozen mentors available for this challenge -- strategists and designers
   who have built products at Betterment, Google, Morningstar, Social Behavioral Sciences

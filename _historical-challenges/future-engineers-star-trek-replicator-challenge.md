@@ -41,9 +41,9 @@ campaignAttributes:
     judging-end-date: 06/09/2016 12:00 AM
     solicitation-methods: ''
     advancing-the-agency-mission: ''
-    rules: <a href="{{ site.baseurl }}/assets/images/wp-content/2016/02/StarTrekContestRulesSummary.pdf"
+    rules: <a href="www.challenge.gov/assets/images/wp-content/2016/02/StarTrekContestRulesSummary.pdf"
       rel="">NASA Future Engineers StarTrek Replicator Challenge Contest Rules</a>    <a
-      href="{{ site.baseurl }}/assets/images/wp-content/2016/02/FENASAStarTrekDesignGuidelines.pdf"
+      href="www.challenge.gov/assets/images/wp-content/2016/02/FENASAStarTrekDesignGuidelines.pdf"
       rel="">NASA Future Enginners StarTrek Replicator Challenge Design Guidelines</a>    &nbsp;
     submission-start-date-1: ''
     hide-challenge-timeline: 'No'
@@ -232,7 +232,7 @@ campaignAttributes:
     winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: '[video width="1920" height="1080" mp4="{{ site.baseurl }}/assets/images/wp-content/2016/02/FE-Star-Trek-Cut-2.mp4"][/video]    Calling
+description: '[video width="1920" height="1080" mp4="www.challenge.gov/assets/images/wp-content/2016/02/FE-Star-Trek-Cut-2.mp4"][/video]    Calling
   all Starfleet cadets!    Star Trek, ASME and NASA want you to pioneer the future
   of food in space. Your challenge is to create a digital model of a food-related
   item for astronauts to 3-D print in the year 2050. We want designs that boldy go

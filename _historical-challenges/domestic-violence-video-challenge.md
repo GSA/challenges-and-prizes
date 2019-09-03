@@ -158,7 +158,7 @@ campaignAttributes:
     number-of-phases: ''
     how-to-enter: "Please submit your name, email address, phone number, organizational
       affiliation (if applicable), a link to your video, and a script for the video.\r\n\r\nPlease
-      submit a <a href=\"{{ site.baseurl }}/assets/images/wp-content/2016/09/ACF-Waiver-Release-Form-Final.pdf\">ACF
+      submit a <a href=\"www.challenge.gov/assets/images/wp-content/2016/09/ACF-Waiver-Release-Form-Final.pdf\">ACF
       Waiver Release Form (Final)</a> for individuals featured on the videos and submit
       it with their video link by the submission deadline."
     partnerships: ''

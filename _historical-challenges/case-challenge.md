@@ -167,7 +167,7 @@ description: "<h3><strong>THE PROBLEM</strong></h3>\r\n<p>Every day we make deci
   and trustworthy &ndash; the person, their actions, what they say, a news source,
   or the actual information being conveyed. Often, the only tool to help us make those
   decisions are our own judgments based on current or past experiences.</p>\r\n<p><img
-  src=\"{{ site.baseurl }}/assets/images/ids-images/CASE-explainer-sketch.png\" width=\"772\"
+  src=\"www.challenge.gov/assets/images/ids-images/CASE-explainer-sketch.png\" width=\"772\"
   height=\"218\" /></p>\r\n<p>For some in-person and virtual interactions there are
   tools to aid our judgments. These might include listening to the way someone tells
   a story, looking at a user badge, validating with other people - or in more formal
@@ -181,7 +181,7 @@ description: "<h3><strong>THE PROBLEM</strong></h3>\r\n<p>Every day we make deci
   the large and lengthy investment in such research, a rigorous set of valid methods
   that are useful in determining the credibility of a source or their information
   across different applications remains difficult to achieve.</p>\r\n<h3><strong>TIMELINE</strong></h3>\r\n<p><img
-  src=\"{{ site.baseurl }}/assets/images/ids-images/CASEtimeline-04.png\" width=\"819\"
+  src=\"www.challenge.gov/assets/images/ids-images/CASEtimeline-04.png\" width=\"819\"
   height=\"202\" /></p>\r\n<h3><strong>DETAILS</strong></h3>\r\n<p>IARPA's Credibility
   Assessment Standardized Evaluation (CASE) Challenge seeks novel methods to measure
   the performance of credibility assessment techniques and technologies.&nbsp;</p>\r\n<p>Credibility

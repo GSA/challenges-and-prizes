@@ -166,7 +166,7 @@ campaignAttributes:
       lang=\"EN\">Participants under the age of 18</span><span lang=\"EN\">&nbsp;must
       also upload as part of their submission the Parent/Legal Guardian Consent Form,
       completed and signed by the parent or legal guardian of the participant. <a
-      href=\"{{ site.baseurl }}/assets/images/ids-images/Parental-Consent-Form.docx\"
+      href=\"www.challenge.gov/assets/images/ids-images/Parental-Consent-Form.docx\"
       target=\"_blank\" rel=\"noopener\">Download the parental consent form</a>.</span></em></li>\r\n</ol>\r\n<p><span
       lang=\"EN\"><strong>NOTE:</strong> When submitting an essay, please note:&nbsp;
       It would be extremely helpful to the evaluation process if the name of all files

@@ -275,7 +275,7 @@ campaignAttributes:
 memberIdeaSubmissionAllowed: false
 showTitle: true
 description: '<a href="http://http://www.allianceforartisanenterprise.org/contest/"><img
-  class=" size-medium wp-image-81661 aligncenter" src="{{ site.baseurl }}/assets/images/wp-content/2015/07/Competition-Title-Treatment-v2-300x293.png"
+  class=" size-medium wp-image-81661 aligncenter" src="www.challenge.gov/assets/images/wp-content/2015/07/Competition-Title-Treatment-v2-300x293.png"
   alt="Artisan Enterprise Multimedia Competition" width="300" height="293" /></a>    <strong>We
   are calling all artisans and artisan supporters to share your perspective on the
   value and impact of the $34B a year artisan economy and how artisan enterprise empowers

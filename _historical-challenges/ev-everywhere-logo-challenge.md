@@ -442,8 +442,8 @@ description: '<span style="font: 13px/19px Georgia, ''Times New Roman'', ''Bitst
   Everywhere Logo Design Challenge: Brian Marquis. The winning logo is below.  For
   more information, see the <a href="http://energy.gov/eere/articles/new-ev-everywhere-logo-ready-road">Office
   of Energy Efficiency and Renewable Energy''s blog post</a> on the winning entry.
-   </span>    <a href="{{ site.baseurl }}/assets/images/wp-content/2015/08/EV-Everywhere-logo-final-design.jpg"><img
-  class="aligncenter wp-image-91801 size-medium" src="{{ site.baseurl }}/assets/images/wp-content/2015/08/EV-Everywhere-logo-final-design-300x232.jpg"
+   </span>    <a href="www.challenge.gov/assets/images/wp-content/2015/08/EV-Everywhere-logo-final-design.jpg"><img
+  class="aligncenter wp-image-91801 size-medium" src="www.challenge.gov/assets/images/wp-content/2015/08/EV-Everywhere-logo-final-design-300x232.jpg"
   alt="Winner of the EV Everywhere logo contest. The logo is a stylized EV with a
   cord wrapped around and the words EV Everywhere, U.S. Department of Energy next
   to it." width="300" height="232" /></a>'

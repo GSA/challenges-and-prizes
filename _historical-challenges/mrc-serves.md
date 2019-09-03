@@ -12,7 +12,7 @@ ideaSubmitFormInstruction: 'Create a short video from 60-90 seconds that shows e
   Only a username and valid email address are required.</li>    <li>Click on the "Submit
   Solutions" tab on the left-side menu bar of this challenge competition to submit
   your entry.</li>    <li>If under the age of 18, the contestant must have their adult
-  parent or legal guardian complete the <a href="{{ site.baseurl }}/assets/images/wp-content/2016/08/parental-consent-form.pdf">Parental/Guardian
+  parent or legal guardian complete the <a href="www.challenge.gov/assets/images/wp-content/2016/08/parental-consent-form.pdf">Parental/Guardian
   Consent Form</a>. <strong>This</strong> <strong>form must be uploaded with your
   entry.</strong></li>  </ul>  On the "Submit Solutions" form, include the following:  <ul>    <li>Video
   URL</li>    <li>MRC Unit Name (include City and State)</li>    <li>Name and email
@@ -96,14 +96,14 @@ campaignAttributes:
       images. No copyrighted images, footage, or music.</li>    <li>Do not include
       any personal identifiable information in the video such as badges.</li>    <li>If
       under 18, a contestant must have their adult parent or legal guardian complete
-      the <a href="{{ site.baseurl }}/assets/images/wp-content/2016/08/parental-consent-form.pdf">Parental/Guardian
+      the <a href="www.challenge.gov/assets/images/wp-content/2016/08/parental-consent-form.pdf">Parental/Guardian
       Consent Form</a>. This form must be submitted with your entry.</li>    <li>Contestants
       must have the necessary documented permissions for individuals heard and/or
       seen on the submitted video. Please have individuals who are identifiable in
-      the video to complete a <a href="{{ site.baseurl }}/assets/images/wp-content/2016/07/Waiver-for-MRC-Serves-Video-Challenge.pdf">Consent
+      the video to complete a <a href="www.challenge.gov/assets/images/wp-content/2016/07/Waiver-for-MRC-Serves-Video-Challenge.pdf">Consent
       and Release Form</a>.</li>    <li>The documented permission of the adult parent
       or guardian of each person under the age of 18 seen or heard in the video is
-      also required to complete the <a href="{{ site.baseurl }}/assets/images/wp-content/2016/07/Waiver-for-MRC-Serves-Video-Challenge.pdf">Consent
+      also required to complete the <a href="www.challenge.gov/assets/images/wp-content/2016/07/Waiver-for-MRC-Serves-Video-Challenge.pdf">Consent
       and Release Form</a>.</li>    <li>Any individual contestant or group entry with
       a member on the <a href="https://www.sam.gov/sam/transcript/Public_-_Identifying_Excluded_Entities.pdf">Excluded
       Parties List</a> will not be eligible for prizes.</li>    <li>The video must
