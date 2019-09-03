@@ -7,7 +7,7 @@ sidenav: false
 card-image: /assets/images/cards/Campus_works_logo.png
 agency-logo: 256px-Environmental_Protection_Agency_logo.png
 challenge-title: 2019 Campus RainWorks Challenge
-tagline: “Step up to the challenge.”
+tagline: Stormwater runoff is a significant source of water pollution. Help highlight the positive benefits of green stormwater infrastructure.
 agency: Environmental Protection Agency
 partner-agencies-federal: 
 partners-non-federal: 
