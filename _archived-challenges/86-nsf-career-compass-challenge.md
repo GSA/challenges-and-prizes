@@ -27,34 +27,8 @@ prizes: true
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="description">
-<p><img src="{{ site.baseurl }}/assets/images/challenge-content/Timeline.png" width="629" height="233" /></p>
-  <p><strong>IMPORTANT UPDATE</strong></p>
-<ul>
-<li>The winning submission announcement will be on Friday, August 30.</li>
-</ul>
-<p><strong>April 26, 2019 Part 2 Introductory Webinar Resources</strong></p>
-<ul>
-<li><a href="https://players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6039401792001">Webinar video</a></li>
-  <li><a href="{{ site.baseurl }}/assets/document-library/Career-Compass-Challenge-Part-2-Kickoff-Webinar_04.26.2019.pdf" target="_blank" rel="noopener">Slide presentation</a></li>
-  <li><a href="{{ site.baseurl }}/assets/document-library/Webinar-1-Poll-Results.pdf" target="_blank" rel="noopener">Live poll results</a></li>
-</ul>
-<p><strong>May 23, 2019 Part 2 Webinar</strong></p>
-<ul>
-  <li><a href="https://players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6045364182001" target="_blank" rel="noopener">Webinar Video</a></li>
-<li><a href="{{ site.baseurl }}/assets/document-library/CCC-Part-2-May-Webinar.pdf" target="_blank" rel="noopener">Slide Presentation</a></li>
-</ul>
-<p><strong>June 19, 2019 Part 2 Webinar</strong></p>
-<ul>
-<li><a href="https://players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6050932532001">Webinar video</a></li>
-  <li><a href="{{ site.baseurl }}/assets/document-library/CCC_Part_2_June_Webinar_FINAL_06.19.19.pdf" target="_blank" rel="noopener">Slide presentation</a></li>
-</ul>  
-<p><strong>STAY INFORMED ON THE NSF CAREER COMPASS CHALLENGE</strong></p>
-<p>Join the NSF Career Compass Challenge listserv to receive the latest on Part 2 of the competition. To join, send an email to&nbsp;<a href="mailto:careercompass-subscribe-request@listserv.nsf.gov" target="_blank" rel="noopener">careercompass-subscribe-request@listserv.nsf.gov</a>, and you will be added automatically.</p>
-<p><strong>PART 2 COMPETITION OVERVIEW</strong></p>
-<p>In Part 2, solvers are encouraged to leverage and build upon winning concepts awarded in Part 1 to develop a working prototype for Government testing and evaluation.&nbsp; Solvers are encouraged to participate in Part 2 of the challenge, either as individuals or as teams.&nbsp; If you wish to participate in Part 2 and need help finding partnership opportunities, consider connecting with other interested solvers using #NSFCareerCompass.</p>
-<p>In Part 1 of this challenge, solvers were asked to submit a concept white paper describing a solution to the challenge of continuous workforce reskilling and the desire for increased mobility within and between NSF and other Federal agencies (and perhaps even the private sector).&nbsp; Read the winning submissions in the PRIZES section.</p>
-<p>While five submissions were chosen as prize winners in Part 1, only one successful prototype will be selected to win the Part 2 prize purse of $75,000.</p>
-<p>Click <a href="{{ site.baseurl }}/assets/document-library/FAQs_Updated 7-11-19.pdf">here</a> for updated Part 2 Frequently Asked Questions.</p>
+  <h3>UPDATE (8/30): Congratulations to the Winners of Part 2!</h3>
+  <p>Click <a href="https://www.challenge.gov/challenge/nsf-career-compass-challenge/#prizes">here</a> to learn more.</p>
 <p style="text-decoration: underline;"><strong>ABOUT THE COMPETITION</strong></p>
 <p><em><strong>NSF has a hypothesis.</strong></em></p>
 <p>Technology is changing the way we do our work, and the work itself. To keep up, the National Science Foundation (NSF)&nbsp;plans to invest in its most critical resource &ndash; the workforce. And it's not just NSF. The need for an adaptable and ready workforce extends to other Federal agencies and beyond. No industry will be immune to the way advances in technology change the nature of work. As a pressing example, we are facing critical gaps in matching people with data science and cybersecurity skills with the right mission needs. NSF believes that, along with other agencies and organizations, the best way to maintain a workforce ready to carry out its mission is to encourage a culture of continuous learning, and to empower each person to refresh and modernize their skills toward future work. We want to spark the thinking of the best and brightest to co-create a solution that can enable individual skill-matching and tailored training for the Workforce for the 21st Century.</p>
@@ -73,7 +47,7 @@ prizes: true
 <p><em><strong>Part 1 (November 9, 2018 &ndash; February 13, 2019)</strong></em></p>
 <p>In <em>Part 1</em> of this challenge, solvers were asked to submit a concept white paper that describes a solution to the challenge of continuous workforce reskilling and the desire for increased mobility within and between NSF and other Federal agencies (and perhaps even the private sector), as an example. Solvers were asked to think creatively about methods that go beyond the traditional "career path" thinking and "strategic workforce planning" methodology when exposing future skill needs or opportunities for an individual's consideration when choosing a development path. Solvers are also asked to consider relevant research on adult cognition and reskilling, particularly for those that must "work" and "learn" simultaneously. Read the winning submissions in the PRIZES section.</p>
 <p><em><strong>Part 2 (April 15, 2019 - August 30, 2019)</strong></em></p>
-<p>In <em>Part 2</em>, solvers are encouraged to leverage and build upon winning concepts to develop a working prototype for Government testing and evaluation. Solvers need not register in Challenge.gov to participate.&nbsp; Submissions will be accepted at <a href="mailto:CareerCompassChallenge@nsf.gov" target="_blank" rel="noopener">CareerCompassChallenge@nsf.gov</a> at any time up until the <strong>Part 2 submission deadline of July 26, 2019.</strong>&nbsp;For more information on submission, please see the <strong>official rules</strong>.&nbsp;&nbsp;</p>
+<p>In <em>Part 2</em>, solvers are encouraged to leverage and build upon winning concepts to develop a working prototype for Government testing and evaluation. Solvers need not register in Challenge.gov to participate. See the winning submissions in the PRIZES section.</p>
 <p style="text-decoration: underline;"><strong>COMPETITION SCHEDULE</strong></p>
 <p><em>Update (7/11/19):&nbsp;All competition dates have been updated below.</em></p>
 <p><em><strong>Part 1</strong></em></p>
@@ -100,11 +74,9 @@ prizes: true
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<div class="prize-item">
-<h4 class="text-primary">Part 1</h4>
-<div class="description">
+<h4>Part 1</h4>
 <p>Based on the quality of submissions received, five white papers were selected to win the award purse for Part 1. Each winner or winning team will receive a one-time prize of $5,000.00 to be issued in the form of an electronic direct deposit payment. For a participant&rsquo;s concept submission to be eligible to win Part 1 prize monies, the submitter must agree to have their winning concept materials posted on Challenge.gov and for the Part 2 solver community to be able to leverage the concept materials for prototype development.</p>
-<p><strong>PHASE ONE WINNING CONCEPTS:</strong></p>
+<p><strong>PART ONE WINNING CONCEPTS:</strong></p>
 <ul>
 <li><a href="{{ site.baseurl }}/assets/document-library/A-GPS-for-Learning-and-Work---Smith---UMUC.pdf" target="_blank" rel="noopener">Needed: A GPS for Learning and Work</a></li>
 <li><a href="{{ site.baseurl }}/assets/document-library/ETAG---Edwards---Elmhurst-College.PDF">E-TAG: Employee Training and Growth through Electronic Games</a></li>
@@ -112,22 +84,26 @@ prizes: true
 <li><a href="{{ site.baseurl }}/assets/document-library/ACCESS---Chen---NYU-Med.pdf">ACCESS: An Integrated Service Platform for Preparing Future Workforce</a></li>
 <li><a href="{{ site.baseurl }}/assets/document-library/Career-Charting-App---Woolf---UMA.pdf">The Career CHARTING App</a></li>
 </ul>
-</div>
-</div>
-<div class="prize-item">
-<h4 class="text-primary">Part 2</h4>
-<div class="description">
-<p>Based on the quality of submissions received, one successful prototype will be selected to win the award purse for Part 2. The winner or winning team will receive a one-time prize of $75,000.00 to be issued in the form of an electronic direct deposit payment. Winners will be responsible for providing the NSF Division of Financial Management with banking information (must be a U.S. bank account) in order to facilitate the electronic payment (i.e. direct deposit).</p>
-<p>For a participant's prototype submission to be eligible to win Part 2 prize money, <strong>the submitter must make the prototype available for live testing and evaluation by the Federal government.</strong> Read more about submission requirements in the Rules section.</p>
-</div>
-</div>
+<h4>Part 2</h4>
+<p><strong>PART TWO WINNING PROTOTYPE: Amy Huber</strong></p>
+<p>Amy Huber's prototype, PathwayU, is an innovative tool which uses predictive analytics to identify alignment among personal characteristics, vocational choices, and job opportunities. The platform enables individuals to both identify optimal career paths and focus their reskilling efforts. Specifically, the platform:</p>
+<ul>
+  <li>Measures interests, values, personality, and workplace preferences with scientific assessments</li>
+  <li>Uses an algorithmic approach to recommend careers</li>
+  <li>Provides up-to-date information about required knowledge and skills for matched jobs</li>
+  <li>Guides users to relevant learning opportunities, and</li> 
+  <li>Identifies well-fitting job opportunities available both within and outside of the federal government.</li>
+  </ul>
+<p>Click <a href="https://players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6080448832001" target="_blank" rel="noopener">here</a> to see a video demo of Amy Huber's prototype.</p>
+<p><strong>HONORABLE MENTION: Levi Perkins</strong></p>
+<p>Levi Perkins' prototype, SteppingBlocks, harnesses over 60 million career paths to provide users with real-world statistics on ways to expand your career horizons. Users can view and analyze the career paths of their aspirational job, view the skills required, and find links to learn them.</p>
+<p>Click <a href="https://players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6080451355001" target="_blank" rel="noopener">here</a> to see a video demo of Levi Perkins prototype.</p>
 
 <!-- Rules start -->
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<div class="description">
-<p style="text-decoration: underline;"><strong>ENTRY GUIDELINES</strong></p>
+<p><strong>ENTRY GUIDELINES</strong></p>
 <ul>
 <li>For a participant's prototype submission to be eligible to win Part 2 prize money, the submitter must make the prototype available for live testing and evaluation by the Federal government.&nbsp; A demonstration of the developed app must be included either via weblink, as a downloadable app from a website, or as a prototype app on a demonstration mobile device.&nbsp; If a login is required, demo accounts with password should be provided which will enable judges to access all parts of the product.&nbsp; If there are different interfaces provided (for example, for differing user personas) separate logins should be provided.&nbsp; If the team or individual solver opts for submitting the app on a demonstration mobile device, then four such devices must be submitted via mail.&nbsp; Following judging, all demonstration devices will be returned via mail to the submitter.</li>
 <li>All entries must be submitted to <a href="mailto:CareerCompassChallenge@nsf.gov" target="_blank" rel="noopener">CareerCompassChallenge@nsf.gov</a>, or postmarked to NSF by 11:59 p.m. ET on July 26, 2019. If applicable, demonstration devices allowing the government to evaluate the submission must be postmarked by July 26, 2019 and can be mailed to:&nbsp;<br /><br />NSF Career Compass Challenge Prize Submissions<br />C/O Robyn Rees/Adrienne Deitemeyer<br />2415 Eisenhower Avenue<br />Alexandria, VA 22314<br /><br /></li>
@@ -151,14 +127,11 @@ prizes: true
 <li>Participants understand that entrants retain all copyright and equivalent rights but give NSF nonexclusive rights to use their names, likenesses, and quotes for educational, publicity, and/or promotional purposes.&nbsp; This includes, but is not limited to, website display, print materials, and exhibits.&nbsp;</li>
 </ul>
 <p>For more information, review the Part 1 Entry Guidelines.</p>
-      </div>
-      
 
 <!-- Judging start -->
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<div class="judging-criterias">
 <h4>How will submitted prototypes in Part 2 of the challenge be judged?</h4>         
 <p>Judges will evaluate a collection of prototypes submitted. Based on the scoring, a single winning submission will be identified. A submission is considered a functional prototype at any stage of maturity (e.g. beta, v1.0, etc.)</p>
 <p><strong>2nd Round of Judging&nbsp;</strong></p>
@@ -198,14 +171,12 @@ prizes: true
 </li>
 </ul>
 <p>Click here to read <strong>Part 1 Judging Criteria.</strong></p>
-                    </div>
 
 <!--  How To Enter start -->
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<div class="description">
-        <p style="text-decoration: underline;"><strong>HOW CAN I ENTER?</strong></p>
+<p><strong>HOW CAN I ENTER?</strong></p>
 <ol>
 <li>All entries must be submitted to <a href="mailto:CareerCompassChallenge@nsf.gov" rel="noopener">CareerCompassChallenge@nsf.gov</a> in accordance with the deadlines stated for Part 2 of this competition.
 <ul>
@@ -244,4 +215,3 @@ prizes: true
 <li>For a participant&rsquo;s concept submission to be eligible to win Part 1 prize monies, the submitter must agree to have their winning concept materials posted on Challenge.gov and available for the Part 2 solver community to leverage for prototype development.</li>
 </ul>
 <p><strong>For a participant's prototype submission to be eligible to win Part 2 prize money, the submitter must make the prototype available for live testing and evaluation by the Federal government.</strong></p>
-      </div>
