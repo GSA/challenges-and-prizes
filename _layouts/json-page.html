@@ -36,20 +36,28 @@ layout: default
 
             <div class="text-base-darker">
                 <!-- Challenge Content start -->
+
+                    {% if page.description != "" %}
                     <h3 class="text-accent-warm-dark font-heading-lg">Description</h3>
                     {{ page.description }}
+                    {% endif %}
 
+                 
                     <h3 class="text-accent-warm-dark font-heading-lg">Prizes</h3>
                     {{ page.campaignAttributes.attributes.prize-description-0 }}
-
+                    
+                    {% if page.campaignAttributes.attributes.rules != "" %}
                     <h3 class="text-accent-warm-dark font-heading-lg">Rules</h3>
                     {{ page.campaignAttributes.attributes.rules }}
+                    {% endif %}
 
                     <h3 class="text-accent-warm-dark font-heading-lg">Judging Criteria</h3>
                     {{ page.campaignAttributes.judging-criteria-description-0 }}
-                    
+
+                    {% if page.campaignAttributes.attributes.how-to-enter != "" %}
                     <h3 class="text-accent-warm-dark font-heading-lg">How To Enter</h3>
                     {{ page.campaignAttributes.attributes.how-to-enter }}
+                    {% endif %}
             </div>
         </div>
 
