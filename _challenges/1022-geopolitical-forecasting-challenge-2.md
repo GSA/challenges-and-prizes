@@ -5,7 +5,7 @@ challenge-id: 1022
 status: open
 sidenav: false
 card-image: /assets/images/cards/GFC2Challenge-gov.png
-agency-logo: 256px-IARPA_logo.png
+agency-logo: 200px-Intelligence_Advanced_Research_Projects_Activity_logo.png
 challenge-title: Geopolitical Forecasting Challenge 2
 tagline: We're on a mission to improve the accuracy and timeliness of geopolitical forecasting.
 agency: Office of Director of National Intelligence - Intelligence Advanced Research Project Activity
