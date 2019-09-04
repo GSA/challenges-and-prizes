@@ -394,8 +394,7 @@ hideCommentAuthor: false
 authorizedGroupIds:
 - 28
 userSubscriptionAllowed: true
-bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.com{{ site.baseurl
-  }}/assets/images/ids-images/web-bg-1.png
+bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.comwww.challenge.gov/assets/images/ids-images/web-bg-1.png
 groupId: 27
 showTagline: true
 name: Army xTechSearch 3.0

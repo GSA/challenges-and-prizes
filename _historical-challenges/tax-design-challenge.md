@@ -371,11 +371,10 @@ description: '<p class="p1"><span class="s1">Taxpayers have the right to be info
   refund status, transactions, and line-by-line tax return information for specific
   tax years. Entrants should use some or all of these variables as part of their submission
   for an improved experience. Use of every variable in the TDD is not required; submissions
-  may include additional variables that are not in the TDD.    <a href="{{ site.baseurl
-  }}/assets/images/wp-content/2016/03/TaxDataDocument.xlsx" rel="">TaxDataDocument</a>.xlsx    The
-  Sample Tax Data is for illustrative purposes only — to show how many of the data
-  fields in the TDD are currently displayed.    <a href="www.challenge.gov/assets/images/wp-content/2016/03/SampleTaxData.pdf"
-  rel="">SampleTaxData</a>.pdf    <em><strong><em>  Mentors</em></strong></em>    Network
+  may include additional variables that are not in the TDD.    <a href="www.challenge.gov/assets/images/wp-content/2016/03/TaxDataDocument.xlsx"
+  rel="">TaxDataDocument</a>.xlsx    The Sample Tax Data is for illustrative purposes
+  only — to show how many of the data fields in the TDD are currently displayed.    <a
+  href="www.challenge.gov/assets/images/wp-content/2016/03/SampleTaxData.pdf" rel="">SampleTaxData</a>.pdf    <em><strong><em>  Mentors</em></strong></em>    Network
   with over two dozen mentors available for this challenge -- strategists and designers
   who have built products at Betterment, Google, Morningstar, Social Behavioral Sciences
   Team, United States Digital Service, and many more; and leaders within the IRS with

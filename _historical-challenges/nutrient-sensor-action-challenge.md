@@ -630,10 +630,9 @@ description: "<h2 style=\"box-sizing: border-box; font-family: 'Open Sans', sans
   border-box; color: #333333; font-family: 'Open Sans', sans-serif;\">Close of Stage
   1: September 20, 2017</em><span style=\"color: #333333; font-family: 'Open Sans',
   sans-serif;\">&nbsp;</span><a style=\"box-sizing: border-box; color: #4a90e2; transition:
-  all 0.25s ease 0s; font-family: 'Open Sans', sans-serif;\" href=\"{{ site.baseurl
-  }}/assets/images/wp-content/2017/07/NSACtimeline.jpg\"><img class=\" wp-image-163689
-  aligncenter\" style=\"box-sizing: border-box; border: 0px; vertical-align: middle;\"
-  src=\"www.challenge.gov/assets/images/wp-content/2017/07/NSACtimeline-916x1024.jpg\"
+  all 0.25s ease 0s; font-family: 'Open Sans', sans-serif;\" href=\"www.challenge.gov/assets/images/wp-content/2017/07/NSACtimeline.jpg\"><img
+  class=\" wp-image-163689 aligncenter\" style=\"box-sizing: border-box; border: 0px;
+  vertical-align: middle;\" src=\"www.challenge.gov/assets/images/wp-content/2017/07/NSACtimeline-916x1024.jpg\"
   alt=\"\" width=\"426\" height=\"477\" /></a><span style=\"color: #333333; font-family:
   'Open Sans', sans-serif;\">&nbsp;</span><strong style=\"box-sizing: border-box;
   color: #333333; font-family: 'Open Sans', sans-serif;\">Stage II: SENSORS IN ACTION

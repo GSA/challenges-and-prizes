@@ -4,8 +4,7 @@ ideaSubmitFormInstruction: '<p style="line-height: 15.0pt; background: white; ve
   ''Helvetica'',sans-serif; color: #555555;">The submissions period for Phase I of
   the Nutrient Recycling Challenge closed on January 15, 2016. Phase II will begin
   in October 2016, and will be limited to the 34 innovator teams selected to proceed
-  from Phase I. </span></strong></p>  <img class="aligncenter wp-image-96651" src="{{
-  site.baseurl }}/assets/images/wp-content/2015/10/Sustainability_005-300x199.jpg"
+  from Phase I. </span></strong></p>  <img class="aligncenter wp-image-96651" src="www.challenge.gov/assets/images/wp-content/2015/10/Sustainability_005-300x199.jpg"
   alt="Photo of a light bulb" width="468" height="310" />    &nbsp;'
 startDate: '2018-11-26T06:50:50'
 votingAllowed: false
@@ -316,10 +315,8 @@ description: '<blockquote>  <p style="text-align: center;"><strong>Plans for Pha
   technologies. EPA seeks to create a “brain trust” that can design nutrient recovery
   technologies that can achieve what both farmers and the environment need.  <ul>    <li><a
   href="www.challenge.gov/assets/images/wp-content/2015/10/Nutrient-Recycling-Challenge-DC-Summit_Final-Agenda.pdf"
-  rel="">Nutrient Recycling Challenge DC Summit_Final Agenda</a></li>    <li><a href="{{
-  site.baseurl }}/assets/images/wp-content/2015/10/Nutrient-Recycling-Challenge-Phase-I-Selections.pdf"
-  rel="">Nutrient Recycling Challenge Phase I Selections</a></li>    <li><a href="{{
-  site.baseurl }}/assets/images/wp-content/2015/10/Nutrient-Recycling-Challenge_Phase-1_Planning-Cmte-Judges-1.pdf"
+  rel="">Nutrient Recycling Challenge DC Summit_Final Agenda</a></li>    <li><a href="www.challenge.gov/assets/images/wp-content/2015/10/Nutrient-Recycling-Challenge-Phase-I-Selections.pdf"
+  rel="">Nutrient Recycling Challenge Phase I Selections</a></li>    <li><a href="www.challenge.gov/assets/images/wp-content/2015/10/Nutrient-Recycling-Challenge_Phase-1_Planning-Cmte-Judges-1.pdf"
   target="_blank">Nutrient Recycling Challenge - Phase 1 Planning Committee and Judging
   Panel</a></li>  </ul>  Documents from Phase I of the challenge:  <ul>    <li><em><a
   href="www.challenge.gov/assets/images/wp-content/2015/10/Nutrient-Recycling-Challenge-Competition-Information-Criteria-and-Guidelines.pdf">Nutrient

@@ -235,11 +235,9 @@ description: <strong>All official entries must be submitted via the InnoCentive 
   rodents inevitably return.  Annual programs of rodent removal over thousands of
   miles of earthen embankment are cost prohibitive and only marginally successful. 
   Solvers are asked to "dig deeper" than the rodents and offer creative, cost effective,
-  long-term solutions to this real and serious problem.    <a href="{{ site.baseurl
-  }}/assets/images/wp-content/2016/07/Rodent_Poster_image.png"><img class="alignnone
-  size-medium wp-image-149621" src="www.challenge.gov/assets/images/wp-content/2016/07/Rodent_Poster_image-229x300.png"
-  alt="Rodent_Poster_image" width="229" height="300" /></a>    Download the <a href="{{
-  site.baseurl }}/assets/images/wp-content/2016/07/challenge-poster_RODENT_508.pdf">Rodent
+  long-term solutions to this real and serious problem.    <a href="www.challenge.gov/assets/images/wp-content/2016/07/Rodent_Poster_image.png"><img
+  class="alignnone size-medium wp-image-149621" src="www.challenge.gov/assets/images/wp-content/2016/07/Rodent_Poster_image-229x300.png"
+  alt="Rodent_Poster_image" width="229" height="300" /></a>    Download the <a href="www.challenge.gov/assets/images/wp-content/2016/07/challenge-poster_RODENT_508.pdf">Rodent
   Prize Competition Poster</a>.    &nbsp;
 campaignStatusName: Launched
 templateId: 0

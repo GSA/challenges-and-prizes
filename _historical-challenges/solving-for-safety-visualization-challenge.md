@@ -450,8 +450,7 @@ description: '&nbsp;  <h2><strong>VISUALIZING TRANSPORTATION SAFETY TO REDUCE SE
   $250,000 final prize.    The Challenge will begin on June 14, 2018. After the launch,
   USDOT will accept Stage I submissions up to 11:59 pm EDT on July 31, 2018. A panel
   of judges will review team submissions and announce Stage I finalists in August
-  2018.    &nbsp;    <strong>ADDITIONAL INFORMATION</strong>  <ul>    <li><a href="{{
-  site.baseurl }}/assets/images/wp-content/2018/06/Solving-for-Safety-Fact-Sheet.pdf"
+  2018.    &nbsp;    <strong>ADDITIONAL INFORMATION</strong>  <ul>    <li><a href="www.challenge.gov/assets/images/wp-content/2018/06/Solving-for-Safety-Fact-Sheet.pdf"
   target="_blank" rel="noopener">Solving for Safety Fact Sheet</a></li>    <li><a
   href="https://www.gpo.gov/fdsys/pkg/FR-2018-06-14/pdf/2018-12795.pdf" target="_blank"
   rel="noopener">Solving for Safety Solver Solicitation</a></li>  </ul>  &nbsp;    <strong>FOR

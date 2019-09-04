@@ -240,21 +240,21 @@ campaignAttributes:
       over the educational content and takes advantage of the capabilities of mobile
       devices: push notifications, sharing to social media, calendar and email.'
     winner-name-1: Claudia Cassidy
-    winner-solution-title-1: "www.challenge.gov/assets/images/wp-content/2016/08/MIPS-Challenge-App-Design-ccassidy.pdf"
+    winner-solution-title-1: www.challenge.gov/assets/images/wp-content/2016/08/MIPS-Challenge-App-Design-ccassidy.pdf
   - winner-solution-description-2: 'This solver proposed leveraging data from a number
       of existing data and web services. The proposed app will include an intelligent
       chat bot as well as CME and education modules. '
     winner-solution-link-2: ''
-    winner-solution-title-2: "www.challenge.gov/assets/images/wp-content/2016/08/MIPS_Mobile_App_README.pdf"
+    winner-solution-title-2: www.challenge.gov/assets/images/wp-content/2016/08/MIPS_Mobile_App_README.pdf
     winner-name-2: Customer Value Partners (CVP)
   - winner-solution-link-3: ''
     winner-solution-description-3: 'The proposed app features an interactive schedule
       and is equipped with pop-up explanations as well as a tool for future planning
       needs  It also has a Share-to-Social Media” feature. '
-    winner-solution-title-3: "www.challenge.gov/assets/images/wp-content/2016/08/IPRO-MIPS-Challenge-Mobile-App-Submission_Phase-1.pdf"
+    winner-solution-title-3: www.challenge.gov/assets/images/wp-content/2016/08/IPRO-MIPS-Challenge-Mobile-App-Submission_Phase-1.pdf
     winner-name-3: 'Improving Healthcare for the Common Good (IPRO):  '
   - winner-name-4: IMS Health
-    winner-solution-title-4: "www.challenge.gov/assets/images/wp-content/2016/08/IMS-Health-MIPS-Challenge-Presentation-Final.pdf"
+    winner-solution-title-4: www.challenge.gov/assets/images/wp-content/2016/08/IMS-Health-MIPS-Challenge-Presentation-Final.pdf
     winner-solution-description-4: 'The solver uses the transtheoretical model (TTM)
       for behavior change, an evidence-based integrative, biopsychosocial model of
       intentional behavior change. Components of the app include assessment sof a
@@ -262,7 +262,7 @@ campaignAttributes:
       and other adjustments can be made to the system. '
     winner-solution-link-4: ''
   - winner-name-5: Softrams, LLC
-    winner-solution-title-5: "www.challenge.gov/assets/images/wp-content/2016/08/MIPS-Mobile-App-Prototype-by-Softrams-1.pdf"
+    winner-solution-title-5: www.challenge.gov/assets/images/wp-content/2016/08/MIPS-Mobile-App-Prototype-by-Softrams-1.pdf
     winner-solution-link-5: ''
     winner-solution-description-5: Called MyMIPS, the proposed app provides for customize
       user profiles so that different users (e.g., a clinician versus a data quality

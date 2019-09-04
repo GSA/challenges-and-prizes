@@ -730,8 +730,7 @@ hideCommentAuthor: false
 authorizedGroupIds:
 - 28
 userSubscriptionAllowed: true
-bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.com{{ site.baseurl
-  }}/assets/images/ids-images/DP-Synthetic-iStock-revised-2.jpg
+bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.comwww.challenge.gov/assets/images/ids-images/DP-Synthetic-iStock-revised-2.jpg
 groupId: 207
 showTagline: true
 name: Differential Privacy Synthetic Data Challenge

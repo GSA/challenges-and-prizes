@@ -285,8 +285,7 @@ moderatorAdminOnlyIdeasNotificationEnabled: true
 hideCommentAuthor: false
 authorizedGroupIds: []
 userSubscriptionAllowed: true
-bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.com{{ site.baseurl
-  }}/assets/images/ids-images/MEC_Challenge_KneeElbow_GOVSITEHEADER.PNG
+bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.comwww.challenge.gov/assets/images/ids-images/MEC_Challenge_KneeElbow_GOVSITEHEADER.PNG
 groupId: 27
 showTagline: true
 name: USMC Knee and Elbow Pad Innovation

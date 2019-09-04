@@ -20,9 +20,8 @@ ideaSubmitFormInstruction: '<span style="color: #cc0808;"><strong>How to Enter Y
   page to see the complete list of ideas submitted to date.</strong>  <p style="padding-left:
   30px;"><em>TIP: Be sure to select “Solutions” from the menu below in order to comment
   on a specific solution. If you select “Discussions” from the “Challenge Details”
-  menu your comment will not attach to a specific solution.</em></p>  <a href="{{
-  site.baseurl }}/assets/images/wp-content/2017/03/Challenge-image-2.png"><img class="wp-image-161183
-  aligncenter" src="www.challenge.gov/assets/images/wp-content/2017/03/Challenge-image-2.png"
+  menu your comment will not attach to a specific solution.</em></p>  <a href="www.challenge.gov/assets/images/wp-content/2017/03/Challenge-image-2.png"><img
+  class="wp-image-161183 aligncenter" src="www.challenge.gov/assets/images/wp-content/2017/03/Challenge-image-2.png"
   alt="" width="195" height="298" /></a>    &nbsp;    <strong>2. Click on the solution
   you’d like to comment on.</strong>                                             
                                                                                  
@@ -203,8 +202,7 @@ campaignAttributes:
     number-of-phases: ''
     how-to-enter: "<span style=\"color: #cc0808;\"><strong>How to Enter Your Solution</strong></span>\r\n\r\n<strong>1.
       Select “Submit Solution” from the “Challenge Details” menu on the left hand
-      side of this page to register for the challenge.</strong>\r\n\r\n<a href=\"{{
-      site.baseurl }}/assets/images/wp-content/2017/03/Challenge-image-1.png\"><img
+      side of this page to register for the challenge.</strong>\r\n\r\n<a href=\"www.challenge.gov/assets/images/wp-content/2017/03/Challenge-image-1.png\"><img
       class=\"wp-image-161182 aligncenter\" src=\"www.challenge.gov/assets/images/wp-content/2017/03/Challenge-image-1.png\"
       alt=\"\" width=\"185\" height=\"292\" /></a><!--more-->\r\n\r\n<strong>2. Fill
       out the form to describe your successful current practice or your great idea.</strong><strong> Support

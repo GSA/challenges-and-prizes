@@ -723,8 +723,7 @@ description: Did you know that every year the Federal government invests over $
   winner, you will receive a $5,000 cash award and you will be invited to have your
   paper considered for publication in <em>The Journal of Technology Transfer</em>.
   pp    <strong>Before you begin, carefully review the Rules to make sure you are
-  eligible to Participate and for more details about the Challenge. Use these <a href="{{
-  site.baseurl }}/assets/images/wp-content/2016/09/FIA-PDF-Writeup-270916.pdf">FIA
+  eligible to Participate and for more details about the Challenge. Use these <a href="www.challenge.gov/assets/images/wp-content/2016/09/FIA-PDF-Writeup-270916.pdf">FIA
   Challenge Instructions to help you craft your entry</a>. </strong>
 campaignStatusName: Launched
 templateId: 0

@@ -178,11 +178,10 @@ campaignAttributes:
       will only present and be judged against the same problem set. The judges will
       be evaluating each solution as if they are the application user. The round will
       be judged based on the following criteria with each judge independently scoring
-      the solution on a scale of 1 to 5; for more information, please see the <a href=\"{{
-      site.baseurl }}/assets/images/ids-images/Round-1_-GSA-Judging-Form-.docx\" target=\"_blank\"
-      rel=\"noopener\">Round 1 Judging Form</a>.</p>\r\n<p dir=\"ltr\">The judges&rsquo;
-      scores will then be calculated into a weighted percentage as detailed below.
-      The highest scoring solution in each problem set will be the winner.</p>\r\n<p
+      the solution on a scale of 1 to 5; for more information, please see the <a href=\"www.challenge.gov/assets/images/ids-images/Round-1_-GSA-Judging-Form-.docx\"
+      target=\"_blank\" rel=\"noopener\">Round 1 Judging Form</a>.</p>\r\n<p dir=\"ltr\">The
+      judges&rsquo; scores will then be calculated into a weighted percentage as detailed
+      below. The highest scoring solution in each problem set will be the winner.</p>\r\n<p
       dir=\"ltr\"><strong>Usability&nbsp;</strong>&mdash; 45 percent</p>\r\n<p dir=\"ltr\">All
       instructions and text are in plain language and written in terms that all customers
       can understand.</p>\r\n<ul>\r\n<li dir=\"ltr\">It&rsquo;s clear to the customer

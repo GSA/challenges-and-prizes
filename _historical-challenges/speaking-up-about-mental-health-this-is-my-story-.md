@@ -421,8 +421,7 @@ hideCommentAuthor: false
 authorizedGroupIds:
 - 28
 userSubscriptionAllowed: true
-bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.com{{ site.baseurl
-  }}/assets/images/ids-images/SpeakingUpChallengeBanner_948x186NEW.jpg
+bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.comwww.challenge.gov/assets/images/ids-images/SpeakingUpChallengeBanner_948x186NEW.jpg
 groupId: 23
 showTagline: false
 name: 'Speaking Up About Mental Health! This Is My Story '

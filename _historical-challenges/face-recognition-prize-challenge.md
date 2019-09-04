@@ -1,9 +1,7 @@
 ---
 ideaSubmitFormInstruction: '<strong>[STEP 1] Participants read the FRPC rules:</strong> 
-  Participants read the rules in full.  The FRPC rules document can be found <a href="{{
-  site.baseurl }}/assets/images/wp-content/2017/04/IARPA_NIST_FRPC_Rules.pdf">here</a>.    <strong>[STEP
-  2] Participants send documentation to NIST:</strong>  As specified in the <a href="{{
-  site.baseurl }}/assets/images/wp-content/2017/04/IARPA_NIST_FRPC_Rules.pdf">FRPC
+  Participants read the rules in full.  The FRPC rules document can be found <a href="www.challenge.gov/assets/images/wp-content/2017/04/IARPA_NIST_FRPC_Rules.pdf">here</a>.    <strong>[STEP
+  2] Participants send documentation to NIST:</strong>  As specified in the <a href="www.challenge.gov/assets/images/wp-content/2017/04/IARPA_NIST_FRPC_Rules.pdf">FRPC
   Rules</a>, participants must send a completed and signed Participation Agreement
   to NIST.  The participation agreement form is available at the <a href="https://www.nist.gov/programs-projects/face-recognition-prize-challenge/">NIST
   FRPC Support Website</a>.    <strong>[STEP 3] Participants send software to NIST:</strong> 
@@ -67,9 +65,9 @@ campaignAttributes:
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: 'Read the full rules and challenge eligibility document for the Face Recognition
-      Prize Challenge (FRPC) by downloading the PDF below:    <a href="{{ site.baseurl
-      }}/assets/images/wp-content/2017/04/IARPA_NIST_FRPC_Rules.pdf">FRPC Rules</a>    The
-      full NIST Concept of Operations and API Specifications can be found <a href="https://www.nist.gov/sites/default/files/documents/2017/04/11/iarpa_nist_frpc_face_challenge_api_v2.pdf">here.</a>'
+      Prize Challenge (FRPC) by downloading the PDF below:    <a href="www.challenge.gov/assets/images/wp-content/2017/04/IARPA_NIST_FRPC_Rules.pdf">FRPC
+      Rules</a>    The full NIST Concept of Operations and API Specifications can
+      be found <a href="https://www.nist.gov/sites/default/files/documents/2017/04/11/iarpa_nist_frpc_face_challenge_api_v2.pdf">here.</a>'
     submission-start-date-1: ''
     hide-challenge-timeline: 'No'
     judging-start-date: '09/01/2017 12:00 AM'
@@ -86,8 +84,7 @@ campaignAttributes:
     participation-requirements: ''
     number-of-phases: ''
     how-to-enter: "<strong>[STEP 1] Participants read the FRPC rules:</strong>  Participants
-      read the rules in full.  The FRPC rules document can be found <a href=\"{{ site.baseurl
-      }}/assets/images/wp-content/2017/04/IARPA_NIST_FRPC_Rules.pdf\">here</a>.\r\n\r\n<strong>[STEP
+      read the rules in full.  The FRPC rules document can be found <a href=\"www.challenge.gov/assets/images/wp-content/2017/04/IARPA_NIST_FRPC_Rules.pdf\">here</a>.\r\n\r\n<strong>[STEP
       2] Participants send documentation to NIST:</strong>  As specified in the <a
       href=\"www.challenge.gov/assets/images/wp-content/2017/04/IARPA_NIST_FRPC_Rules.pdf\">FRPC
       Rules</a>, participants must send a completed and signed Participation Agreement
@@ -358,8 +355,7 @@ description: '<strong>RESULTS:</strong> A full report of participants, performan
   access to privileged or proprietary information, or access to Government equipment
   or real property, will not be eligible to participate in the prize challenge.  Entities
   affiliated with the IARPA Janus program are ineligible to participate.    Read the
-  full rules and challenge eligibility document for the FRPC by downloading <a href="{{
-  site.baseurl }}/assets/images/wp-content/2017/04/IARPA_NIST_FRPC_Rules.pdf">this
+  full rules and challenge eligibility document for the FRPC by downloading <a href="www.challenge.gov/assets/images/wp-content/2017/04/IARPA_NIST_FRPC_Rules.pdf">this
   document</a>.    <strong>Why Participate: </strong>The developers of the most accurate
   algorithms will be eligible to win cash prizes from a total prize purse of $50,000.
   Prizes will be distributed for the following criteria:  <ul>    <li><strong>One-to-many

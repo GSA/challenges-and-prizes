@@ -46,10 +46,8 @@ campaignAttributes:
     rules: 'The <a href="https://www.nist.gov/programs-projects/fusion-face-recognition-algorithms-2018">NIST
       FOFRA Support Website</a> provides detailed instructions on participation, registration,
       and submissions.    An overview of the FOFRA Prize Challenge, including the
-      challenge concept and planned evaluations can be found <a href="{{ site.baseurl
-      }}/assets/images/wp-content/2018/05/nist_iarpa_frpc_2018_overview_public.pdf">here</a>.    The
-      full NIST Concept of Operations and API Specifications can be found <a href="{{
-      site.baseurl }}/assets/images/wp-content/2018/05/iarpa_nist_fofra_2018_fusion_api.pdf">here</a>.    <strong>Participation
+      challenge concept and planned evaluations can be found <a href="www.challenge.gov/assets/images/wp-content/2018/05/nist_iarpa_frpc_2018_overview_public.pdf">here</a>.    The
+      full NIST Concept of Operations and API Specifications can be found <a href="www.challenge.gov/assets/images/wp-content/2018/05/iarpa_nist_fofra_2018_fusion_api.pdf">here</a>.    <strong>Participation
       Eligibility</strong>    To be eligible to win a prize under this competition,
       an individual or entity:  <ol>    <li>Must have visited the FOFRA website at
       Challenge.gov;</li>    <li>Must have read the <a href="www.challenge.gov/assets/images/wp-content/2018/05/nist_iarpa_frpc_2018_overview_public.pdf">FOFRA

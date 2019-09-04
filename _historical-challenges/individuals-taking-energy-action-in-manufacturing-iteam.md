@@ -59,8 +59,7 @@ campaignAttributes:
     type-of-challenge: Ideas
     participation-requirements: ''
     number-of-phases: ''
-    how-to-enter: "<p>Before submitting, please familiarize yourself with the <a href=\"{{
-      site.baseurl }}/assets/images/ids-images/ITEAM-Prize-Competition-Rules-Document.pdf\">full
+    how-to-enter: "<p>Before submitting, please familiarize yourself with the <a href=\"www.challenge.gov/assets/images/ids-images/ITEAM-Prize-Competition-Rules-Document.pdf\">full
       rules and guidelines for this competition</a>. By submitting, you are agreeing
       to the terms and conditions defined in that rules document.</p>\r\n<p><strong>Send
       submissions to&nbsp;<a href=\"mailto:iteamprize@ee.doe.gov\" target=\"_blank\"

@@ -476,8 +476,7 @@ authorizedGroupIds:
 - 28
 - 242
 userSubscriptionAllowed: false
-bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.com{{ site.baseurl
-  }}/assets/images/ids-images/PMA-LOGO-Gears-Only_Hi-Res_FINAL.png
+bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.comwww.challenge.gov/assets/images/ids-images/PMA-LOGO-Gears-Only_Hi-Res_FINAL.png
 groupId: 279
 showTagline: true
 name: GEAR Center Challenge

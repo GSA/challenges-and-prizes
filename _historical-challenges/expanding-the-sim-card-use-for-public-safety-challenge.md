@@ -369,8 +369,7 @@ description: "<p><img style=\"display: block; margin-left: auto; margin-right: a
   mobile devices;</span></li>\r\n<li>Increased versatility by adding the ability to
   provision credentials to the SIM card remotely; and</li>\r\n<li>Potential cost savings
   as public safety units would not need to purchase separate hardware authentication
-  tokens.</li>\r\n</ul>\r\n<p style=\"text-align: center;\"><a href=\"{{ site.baseurl
-  }}/assets/images/ids-images/NISTPSCR_ExpandingtheSIMCardUseforPublicSafety_OfficialRules.pdf\"
+  tokens.</li>\r\n</ul>\r\n<p style=\"text-align: center;\"><a href=\"www.challenge.gov/assets/images/ids-images/NISTPSCR_ExpandingtheSIMCardUseforPublicSafety_OfficialRules.pdf\"
   target=\"_blank\" rel=\"noopener\"><span lang=\"EN\">View the complete summary of
   contest phases and key dates.</span></a></p>"
 campaignStatusName: Launched
@@ -384,8 +383,7 @@ hideCommentAuthor: false
 authorizedGroupIds:
 - 28
 userSubscriptionAllowed: true
-bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.com{{ site.baseurl
-  }}/assets/images/ids-images/SIM-CARD-BANNER.jpg
+bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.comwww.challenge.gov/assets/images/ids-images/SIM-CARD-BANNER.jpg
 groupId: 207
 showTagline: true
 name: Expanding the SIM Card Use for Public Safety Challenge

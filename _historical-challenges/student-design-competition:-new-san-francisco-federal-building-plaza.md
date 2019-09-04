@@ -509,13 +509,12 @@ description: '[UPDATED 1/8/2018]    We are pleased to announce the winning entri
   href="https://gsa.gov/portal/category/101226" target="_blank" rel="noopener">Building
   profile page on GSA.gov</a>    <strong>Downloads available for use in preparing
   Submissions:</strong>    <a href="www.challenge.gov/assets/images/wp-content/2017/08/SFFB-1.pdf"
-  target="_blank" rel="noopener">GSA SFFB Whitebook</a>    <a href="{{ site.baseurl
-  }}/assets/images/wp-content/2017/08/A-010-Axonometric-Site.pdf" target="_blank"
-  rel="noopener">A-010-Axonometric-Site</a>    <a href="www.challenge.gov/assets/images/wp-content/2017/08/A-011-Site-Plan.pdf"
+  target="_blank" rel="noopener">GSA SFFB Whitebook</a>    <a href="www.challenge.gov/assets/images/wp-content/2017/08/A-010-Axonometric-Site.pdf"
+  target="_blank" rel="noopener">A-010-Axonometric-Site</a>    <a href="www.challenge.gov/assets/images/wp-content/2017/08/A-011-Site-Plan.pdf"
   target="_blank" rel="noopener">A-011-Site-Plan</a>    <a href="https://www.challenge.gov/challenge/student-design-competition-new-san-francisco-federal-building-plaza/sffb-night-time-photos/"
   target="_blank" rel="attachment wp-att-164200 noopener">SFFB-Night-time-photos</a>    <a
-  href="www.challenge.gov/assets/images/wp-content/2017/08/A-020-Site-Plan1.pdf"
-  target="_blank" rel="noopener">A-020-Site-Plan1</a>'
+  href="www.challenge.gov/assets/images/wp-content/2017/08/A-020-Site-Plan1.pdf" target="_blank"
+  rel="noopener">A-020-Site-Plan1</a>'
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []

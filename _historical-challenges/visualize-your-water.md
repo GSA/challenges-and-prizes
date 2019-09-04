@@ -2,11 +2,10 @@
 ideaSubmitFormInstruction: 'Create a challenge.gov account and upload your completed
   the submission form by 8:00 pm EST on March 1, 2016. This can be done through the
   "Submit Solution" button found at the top left of the page. After signing in to
-  your challenge.gov account, fill in the submission title and upload the <a href="{{
-  site.baseurl }}/assets/images/wp-content/2016/01/Submission-Form-1.docx" target="_blank">Submission
-  Form</a> word document titled lastname.firstname. Note this should be the name of
-  the student submitting a solution or the identified team leader.    A completed
-  <a href="www.challenge.gov/assets/images/wp-content/2016/01/Submission-Form-1.docx"
+  your challenge.gov account, fill in the submission title and upload the <a href="www.challenge.gov/assets/images/wp-content/2016/01/Submission-Form-1.docx"
+  target="_blank">Submission Form</a> word document titled lastname.firstname. Note
+  this should be the name of the student submitting a solution or the identified team
+  leader.    A completed <a href="www.challenge.gov/assets/images/wp-content/2016/01/Submission-Form-1.docx"
   target="_blank" rel="">Submission Form</a> must be one document that include:  <ul>   <li>Entrant
   details</li>   <li>URL link to your visualization</li>   <li>Project description
   (requirements for the project description can be found in the <a href="https://esri.app.box.com/vywgettingstartedguide"
@@ -126,11 +125,10 @@ campaignAttributes:
     how-to-enter: "Create a challenge.gov account and upload your completed the submission
       form by 8:00 pm EST on March 1, 2016. This can be done through the \"Submit
       Solution\" button found at the top left of the page. After signing in to your
-      challenge.gov account, fill in the submission title and upload the <a href=\"{{
-      site.baseurl }}/assets/images/wp-content/2016/01/Submission-Form-1.docx\" target=\"_blank\">Submission
-      Form</a> word document titled lastname.firstname. Note this should be the name
-      of the student submitting a solution or the identified team leader.\r\n\r\nA
-      completed <a href=\"www.challenge.gov/assets/images/wp-content/2016/01/Submission-Form-1.docx\"
+      challenge.gov account, fill in the submission title and upload the <a href=\"www.challenge.gov/assets/images/wp-content/2016/01/Submission-Form-1.docx\"
+      target=\"_blank\">Submission Form</a> word document titled lastname.firstname.
+      Note this should be the name of the student submitting a solution or the identified
+      team leader.\r\n\r\nA completed <a href=\"www.challenge.gov/assets/images/wp-content/2016/01/Submission-Form-1.docx\"
       target=\"_blank\" rel=\"\">Submission Form</a> must be one document that include:\r\n<ul>\r\n\t<li>Entrant
       details</li>\r\n\t<li>URL link to your visualization</li>\r\n\t<li>Project description
       (requirements for the project description can be found in the <a href=\"https://esri.app.box.com/vywgettingstartedguide\"
@@ -405,8 +403,7 @@ description: '<p style="text-align: center;"><span style="text-decoration: under
   a question? Check out the <a href="https://esri.app.box.com/vywfaq" target="_blank">FAQs</a></strong></p>  <p
   style="text-align: center;"><strong>Contact: vizurwater@epa.gov</strong></p>  &nbsp;    [caption
   id="attachment_112321" align="aligncenter" width="300"]<a href="https://www.challenge.gov/?attachment_id=112321"
-  rel="attachment wp-att-112321"><img class="wp-image-112321 size-medium" src="{{
-  site.baseurl }}/assets/images/wp-content/2016/01/15595959392_6580f5fd9f_o-300x225.jpg"
+  rel="attachment wp-att-112321"><img class="wp-image-112321 size-medium" src="www.challenge.gov/assets/images/wp-content/2016/01/15595959392_6580f5fd9f_o-300x225.jpg"
   alt="Credit: Diana L." width="300" height="225" /></a> Credit: Diana L.[/caption]    &nbsp;  <p
   style="text-align: center;"><span style="text-decoration: underline;"><strong>Visualize
   Your Water Challenge Collaborators:</strong></span></p>  <p style="text-align: center;"><a

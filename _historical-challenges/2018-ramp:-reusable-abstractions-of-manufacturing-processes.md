@@ -62,17 +62,14 @@ campaignAttributes:
       a Journal of Manufacturing Science and Engineering paper titled “Standard representations
       for sustainability characterization of industrial processes.”  The paper may
       be downloaded <a href="https://www.nist.gov/node/1090636" target="_blank" rel="noopener">here</a>.    [caption
-      id="attachment_165945" align="alignright" width="300"]<a href="{{ site.baseurl
-      }}/assets/images/wp-content/2017/11/ClassDiagram.jpg" target="_blank" rel="noopener"><img
-      class="wp-image-165945 size-medium" src="www.challenge.gov/assets/images/wp-content/2017/11/ClassDiagram-300x243.jpg"
+      id="attachment_165945" align="alignright" width="300"]<a href="www.challenge.gov/assets/images/wp-content/2017/11/ClassDiagram.jpg"
+      target="_blank" rel="noopener"><img class="wp-image-165945 size-medium" src="www.challenge.gov/assets/images/wp-content/2017/11/ClassDiagram-300x243.jpg"
       alt="" width="300" height="243" /></a> UML class diagram for XML Schema for
       UMP[/caption]    <strong>Information Model:</strong>  The identified UMP information
-      model(s) each should include an XML instance conforming to the new <a href="{{
-      site.baseurl }}/assets/images/wp-content/2018/01/UMPSchema_for_user.xsd" target="_blank"
-      rel="noopener">UMP Schema</a>. The <a href="www.challenge.gov/assets/images/wp-content/2018/01/UMPSchema_for_user.xsd"
+      model(s) each should include an XML instance conforming to the new <a href="www.challenge.gov/assets/images/wp-content/2018/01/UMPSchema_for_user.xsd"
+      target="_blank" rel="noopener">UMP Schema</a>. The <a href="www.challenge.gov/assets/images/wp-content/2018/01/UMPSchema_for_user.xsd"
       target="_blank" rel="noopener">UMP Schema</a> provides the structure necessary
-      to meet these requirements. Please refer to the<strong> </strong><a href="{{
-      site.baseurl }}/assets/images/wp-content/2018/01/UMP_Schema_Documentation.pdf"
+      to meet these requirements. Please refer to the<strong> </strong><a href="www.challenge.gov/assets/images/wp-content/2018/01/UMP_Schema_Documentation.pdf"
       target="_blank" rel="noopener">UMP Schema Documentation</a><strong> </strong>for
       a detailed explanation of each element and attribute in the schema.  Within
       the XML instance, the following must be addressed:  <ul>    <li>Entity identification:
@@ -93,8 +90,7 @@ campaignAttributes:
       The five elements shown in the E3012-16 standard must also be clearly identified
       in the graphical representation:    [caption id="attachment_164168" align="alignright"
       width="300"]<a href="www.challenge.gov/assets/images/wp-content/2017/08/ump-graphical.png"
-      target="_blank" rel="noopener"><img class="wp-image-164168 size-medium" src="{{
-      site.baseurl }}/assets/images/wp-content/2017/08/ump-graphical-300x185.png"
+      target="_blank" rel="noopener"><img class="wp-image-164168 size-medium" src="www.challenge.gov/assets/images/wp-content/2017/08/ump-graphical-300x185.png"
       alt="" width="300" height="185" /></a> ASTM E3012-16 graphical representation[/caption]  <ul>    <li>Inputs:
       Identify inputs, which include information about the physical inputs to the
       process, such energy and material.</li>    <li>Outputs: Identify outputs, which
@@ -498,12 +494,11 @@ description: 'On April 5, we held another live webinar that focused on submissio
    The schema is expressed as an <a href="https://www.w3.org/XML/Schema" target="_blank"
   rel="noopener">eXtensible Markup Language (XML) Schema Definition (XSD)</a>.  Participants
   can import the schema into any XML editing tool to help build their XML submissions. 
-  Examples of well-formed XML documents built from the schema include an <a href="{{
-  site.baseurl }}/assets/images/wp-content/2018/01/Atomic_Layer_Deposition1.xml" target="_blank"
-  rel="noopener">Atomic Layer Deposition UMP Model</a> and a <a href="{{ site.baseurl
-  }}/assets/images/wp-content/2018/01/GPR_milling_model.xml" target="_blank" rel="noopener">Data-Driven
-  Milling UMP Model</a>.  More information about the schema can be found in the Rules.    <img
-  class="aligncenter wp-image-165915 size-full" src="www.challenge.gov/assets/images/wp-content/2017/11/conveyor_orange_boxes_assembly_line_1600_clr_4075.png"
+  Examples of well-formed XML documents built from the schema include an <a href="www.challenge.gov/assets/images/wp-content/2018/01/Atomic_Layer_Deposition1.xml"
+  target="_blank" rel="noopener">Atomic Layer Deposition UMP Model</a> and a <a href="www.challenge.gov/assets/images/wp-content/2018/01/GPR_milling_model.xml"
+  target="_blank" rel="noopener">Data-Driven Milling UMP Model</a>.  More information
+  about the schema can be found in the Rules.    <img class="aligncenter wp-image-165915
+  size-full" src="www.challenge.gov/assets/images/wp-content/2017/11/conveyor_orange_boxes_assembly_line_1600_clr_4075.png"
   alt="" width="457" height="100" />'
 campaignStatusName: Launched
 templateId: 0

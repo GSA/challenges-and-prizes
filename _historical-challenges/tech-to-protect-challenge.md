@@ -923,8 +923,7 @@ authorizedGroupIds:
 - 7052
 - 28
 userSubscriptionAllowed: true
-bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.com{{ site.baseurl
-  }}/assets/images/ids-images/T2P-Banner-FINAL.jpg
+bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.comwww.challenge.gov/assets/images/ids-images/T2P-Banner-FINAL.jpg
 groupId: 207
 showTagline: false
 name: Tech to Protect Challenge

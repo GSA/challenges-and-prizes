@@ -335,8 +335,7 @@ description: "<p><img src=\"www.challenge.gov/assets/images/ids-images/timeline_
   encouraged to develop multiple sets of prototypes throughout the challenge, in anticipation
   of this PSCR keeping the prototypes for demonstrations, and in case the contestants
   experience technical difficulties during later phases of the challenge.</span></p>\r\n<p
-  style=\"text-align: center;\"><strong><span lang=\"EN\"><span lang=\"EN\"><a href=\"{{
-  site.baseurl }}/assets/images/ids-images/PSCR_HapticInterfacesforPublicSafetyChallenge_OfficialRules.pdf\"
+  style=\"text-align: center;\"><strong><span lang=\"EN\"><span lang=\"EN\"><a href=\"www.challenge.gov/assets/images/ids-images/PSCR_HapticInterfacesforPublicSafetyChallenge_OfficialRules.pdf\"
   target=\"_blank\" rel=\"noopener\">View the a complete summary of contest phases
   and key dates</a>.</span></span></strong></p>"
 campaignStatusName: Launched
@@ -350,8 +349,7 @@ hideCommentAuthor: false
 authorizedGroupIds:
 - 28
 userSubscriptionAllowed: true
-bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.com{{ site.baseurl
-  }}/assets/images/ids-images/challengeheadertitle.jpg
+bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.comwww.challenge.gov/assets/images/ids-images/challengeheadertitle.jpg
 groupId: 207
 showTagline: true
 name: Haptic Interfaces for Public Safety Challenge

@@ -143,8 +143,7 @@ campaignAttributes:
       documenting the terms of the partnership); and</li>\r\n \t<li>The scalability
       and/or replicability of the idea or strategy.</li>\r\n</ol>\r\nPlease use the
       documents listed below to better understand the evaluation criteria and look
-      up rural areas and persistent poverty counties.\r\n\r\n<a href=\"{{ site.baseurl
-      }}/assets/images/wp-content/2016/06/FY2016-CDFI-Fund-Prize-Evaluation-Criteria-FINAL-6.23.16.pdf\"
+      up rural areas and persistent poverty counties.\r\n\r\n<a href=\"www.challenge.gov/assets/images/wp-content/2016/06/FY2016-CDFI-Fund-Prize-Evaluation-Criteria-FINAL-6.23.16.pdf\"
       target=\"_blank\"><strong>FY2016 CDFI Fund Prize Evaluation Criteria </strong></a>\r\n\r\n<strong><a
       href=\"www.challenge.gov/assets/images/wp-content/2016/06/CDFI-Fund-Prize-Challenge-Rural-and-PPC-Lookup-FINAL-7.21.16.xlsx\">CDFI
       Fund Prize Challenge Rural and PPC Lookup </a></strong>"
@@ -350,8 +349,7 @@ description: 'The Community Development Financial Institutions Fund (<a href="ht
   is defined as any county or Native community that has had 20 percent or more of
   its population living in poverty over the past 30 years, as measured by the 1990,
   2000, and 2010 decennial censuses. <strong>Please click on the following link to
-  view the Rural Area and Persistent Poverty Lookup Tables: <a href="{{ site.baseurl
-  }}/assets/images/wp-content/2016/06/CDFI-Fund-Prize-Challenge-Rural-and-PPC-Lookup-FINAL-7.21.16.xlsx">CDFI
+  view the Rural Area and Persistent Poverty Lookup Tables: <a href="www.challenge.gov/assets/images/wp-content/2016/06/CDFI-Fund-Prize-Challenge-Rural-and-PPC-Lookup-FINAL-7.21.16.xlsx">CDFI
   Fund Prize Challenge Rural and PPC Lookup </a>.  </strong><span style="text-decoration:
   underline;">**Please note: the Rural Area and Persistent Poverty Lookup Tables have
   been updated as of July 21, 2016 to include eligible areas for the U.S. Territories

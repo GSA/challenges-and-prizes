@@ -519,8 +519,7 @@ hideCommentAuthor: false
 authorizedGroupIds:
 - 28
 userSubscriptionAllowed: true
-bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.com{{ site.baseurl
-  }}/assets/images/ids-images/MEC_Challenge_HelmetRetentionSystem_GOVSITEHEADER.png
+bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.comwww.challenge.gov/assets/images/ids-images/MEC_Challenge_HelmetRetentionSystem_GOVSITEHEADER.png
 groupId: 27
 showTagline: true
 name: Marine Corps Systems Command Helmet Retention System

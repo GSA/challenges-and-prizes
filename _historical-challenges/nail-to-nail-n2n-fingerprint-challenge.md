@@ -1,7 +1,6 @@
 ---
 ideaSubmitFormInstruction: '<h4>Challenge Stages and Prizes</h4>  <h5>Stage 1:  Registration
-  and Feasibility Review</h5>  Participants will fill out a <a href="{{ site.baseurl
-  }}/assets/images/wp-content/2017/01/N2NChallengeRegistration.docx">registration
+  and Feasibility Review</h5>  Participants will fill out a <a href="www.challenge.gov/assets/images/wp-content/2017/01/N2NChallengeRegistration.docx">registration
   form</a> providing information about their proposed solution. The application will
   require the following sections:  <ul>    <li><strong>Abstract</strong> - brief description
   of what you plan to build</li>    <li><strong>Solution Description</strong>  <ul>    <li>Anticipated
@@ -124,8 +123,7 @@ campaignAttributes:
     participation-requirements: ''
     number-of-phases: ''
     how-to-enter: "<h4>Challenge Stages and Prizes</h4>\r\n<h5>Stage 1:  Registration
-      and Feasibility Review</h5>\r\nParticipants will fill out a <a href=\"{{ site.baseurl
-      }}/assets/images/wp-content/2017/01/N2NChallengeRegistration.docx\">registration
+      and Feasibility Review</h5>\r\nParticipants will fill out a <a href=\"www.challenge.gov/assets/images/wp-content/2017/01/N2NChallengeRegistration.docx\">registration
       form</a> providing information about their proposed solution. The application
       will require the following sections:\r\n<ul>\r\n \t<li><strong>Abstract</strong>
       - brief description of what you plan to build</li>\r\n \t<li><strong>Solution

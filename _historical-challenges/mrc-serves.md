@@ -81,10 +81,9 @@ campaignAttributes:
       does the MRC make my community more prepared and resilient.</li>    <li>The
       video should be an MPEG-4 video file with an aspect ratio of 16 x 9.</li>    <li>The
       trademarked MRC logo or the words Medical Reserve Corps or MRC should be clearly
-      visible and accurately displayed in the video, view the <a href="{{ site.baseurl
-      }}/assets/images/wp-content/2016/07/MRC-IdentityGuide_Sep2015.pdf">MRC Identity
-      Guide</a> for guidance on correct logo use.</li>    <li>Contestants may submit
-      their entry as an individual or as part of a group.</li>    <li>Submissions
+      visible and accurately displayed in the video, view the <a href="www.challenge.gov/assets/images/wp-content/2016/07/MRC-IdentityGuide_Sep2015.pdf">MRC
+      Identity Guide</a> for guidance on correct logo use.</li>    <li>Contestants
+      may submit their entry as an individual or as part of a group.</li>    <li>Submissions
       by groups should be submitted only once by one member of the group (one prize
       will be awarded for each winning entry).</li>    <li>Contestants must upload
       their video to <a href="http://www.youtube.com">YouTube</a> and add the link
@@ -153,8 +152,7 @@ campaignAttributes:
       Only a username and valid email address are required.</li>\r\n \t<li>Click on
       the \"Submit Solutions\" tab on the left-side menu bar of this challenge competition
       to submit your entry.</li>\r\n \t<li>If under the age of 18, the contestant
-      must have their adult parent or legal guardian complete the <a href=\"{{ site.baseurl
-      }}/assets/images/wp-content/2016/08/parental-consent-form.pdf\">Parental/Guardian
+      must have their adult parent or legal guardian complete the <a href=\"www.challenge.gov/assets/images/wp-content/2016/08/parental-consent-form.pdf\">Parental/Guardian
       Consent Form</a>. <strong>This</strong> <strong>form must be uploaded with your
       entry.</strong></li>\r\n</ul>\r\nOn the \"Submit Solutions\" form, include the
       following:\r\n<ul>\r\n \t<li>Video URL</li>\r\n \t<li>MRC Unit Name (include

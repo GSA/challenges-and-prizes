@@ -350,12 +350,10 @@ description: 'In honor of retired US Senator Tom Harkin, an inspiring champion
   <a href="www.challenge.gov/assets/images/wp-content/2016/04/Harkin-5.png" rel="attachment
   wp-att-135731"><img class="wp-image-135731 aligncenter" src="www.challenge.gov/assets/images/wp-content/2016/04/Harkin-5-300x167.png"
   alt="Harkin 5" width="293" height="163" /></a><a href="www.challenge.gov/assets/images/wp-content/2016/04/Harkin-4.png"
-  rel="attachment wp-att-135721"><img class="wp-image-135721 alignleft" src="{{ site.baseurl
-  }}/assets/images/wp-content/2016/04/Harkin-4.png" alt="Harkin 4" width="206" height="162"
-  /></a> <a href="www.challenge.gov/assets/images/wp-content/2016/04/Harkin-3.png"
-  rel="attachment wp-att-135711"><img class="wp-image-135711 alignright" src="{{ site.baseurl
-  }}/assets/images/wp-content/2016/04/Harkin-3.png" alt="Harkin 3" width="248" height="165"
-  /></a> <a href="www.challenge.gov/assets/images/wp-content/2016/04/Harkin-2.png"
+  rel="attachment wp-att-135721"><img class="wp-image-135721 alignleft" src="www.challenge.gov/assets/images/wp-content/2016/04/Harkin-4.png"
+  alt="Harkin 4" width="206" height="162" /></a> <a href="www.challenge.gov/assets/images/wp-content/2016/04/Harkin-3.png"
+  rel="attachment wp-att-135711"><img class="wp-image-135711 alignright" src="www.challenge.gov/assets/images/wp-content/2016/04/Harkin-3.png"
+  alt="Harkin 3" width="248" height="165" /></a> <a href="www.challenge.gov/assets/images/wp-content/2016/04/Harkin-2.png"
   rel="attachment wp-att-135701"><img class="size-medium wp-image-135701 alignright"
   src="www.challenge.gov/assets/images/wp-content/2016/04/Harkin-2.png" alt="Harkin
   2" width="275" height="183" /></a> <a href="www.challenge.gov/assets/images/wp-content/2016/04/Harkin-1.png"
