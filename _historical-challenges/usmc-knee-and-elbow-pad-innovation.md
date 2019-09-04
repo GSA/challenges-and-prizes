@@ -226,7 +226,7 @@ campaignAttributes:
     winner-name-2: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: "<p><img src=\"/assets/images/ids-images/Knee--Elbow-LinkedIn.jpg\"
+description: "<p><img src=\"www.challenge.gov/assets/images/ids-images/Knee--Elbow-LinkedIn.jpg\"
   width=\"919\" height=\"481\" /></p>\r\n<p><strong>Problem Statement:</strong></p>\r\n<p>The
   Marine Corps seeks new and innovative ideas and solutions that improve the currently
   fielded knee and elbow pads&rsquo; comfort. &nbsp;The current knee and elbow pads
