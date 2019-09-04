@@ -220,8 +220,8 @@ campaignAttributes:
     winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: '[caption id="attachment_125371" align="alignnone" width="300"]<a href="www.challenge.gov/assets/images/wp-content/2016/01/Afghan_air_force_train_on_Mi-17_helicopter_150602-F-HF922-114.jpg"
-  rel="attachment wp-att-125371"><img class="size-medium wp-image-125371" src="www.challenge.gov/assets/images/wp-content/2016/01/Afghan_air_force_train_on_Mi-17_helicopter_150602-F-HF922-114-300x200.jpg"
+description: '[caption id="attachment_125371" align="alignnone" width="300"]<a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/01/Afghan_air_force_train_on_Mi-17_helicopter_150602-F-HF922-114.jpg"
+  rel="attachment wp-att-125371"><img class="size-medium wp-image-125371" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/01/Afghan_air_force_train_on_Mi-17_helicopter_150602-F-HF922-114-300x200.jpg"
   alt="Multi-Sensor Optics" width="300" height="200" /></a> Multi-Sensor Optics[/caption]    The
   Seeker is developing a multi-spectral visual system; however, fusing the inputs
   of offset optical sources results in parallax - a perceived change in the position

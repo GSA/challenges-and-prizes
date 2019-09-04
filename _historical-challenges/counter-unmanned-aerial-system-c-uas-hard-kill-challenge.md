@@ -109,7 +109,7 @@ campaignAttributes:
       III Scoring</strong></em>.  Scoring for each test event is based on the distance
       each UAS is defeated. The farther the distance the higher the score. See the
       attachment for more details.  <h3><span style="color: #993300;">Attachments</span></h3>  <a
-      href="www.challenge.gov/assets/images/wp-content/2016/11/Hard-Kill-Challenge.pdf">hard-kill-challenge</a>    &nbsp;'
+      href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/11/Hard-Kill-Challenge.pdf">hard-kill-challenge</a>    &nbsp;'
     submission-start-date-1: ''
     hide-challenge-timeline: 'No'
     judging-start-date: ''

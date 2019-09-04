@@ -238,7 +238,7 @@ description: '<strong>All official entries must be submitted via the Innocentive
   canals across the U.S.  Solving this problem could impact millions of people who
   receive water, power, and flood protection from this infrastructure.    This is
   an Ideation Challenge with a guaranteed award for at least one submitted solution.    https://youtu.be/b1j0_CyXoV8    [video
-  width="610" height="454" mp4="www.challenge.gov/assets/images/wp-content/2016/03/InternalErosion.mp4"][/video]'
+  width="610" height="454" mp4="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/03/InternalErosion.mp4"][/video]'
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []

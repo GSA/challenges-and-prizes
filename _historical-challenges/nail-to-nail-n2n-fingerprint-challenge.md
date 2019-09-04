@@ -1,6 +1,6 @@
 ---
 ideaSubmitFormInstruction: '<h4>Challenge Stages and Prizes</h4>  <h5>Stage 1:  Registration
-  and Feasibility Review</h5>  Participants will fill out a <a href="www.challenge.gov/assets/images/wp-content/2017/01/N2NChallengeRegistration.docx">registration
+  and Feasibility Review</h5>  Participants will fill out a <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/01/N2NChallengeRegistration.docx">registration
   form</a> providing information about their proposed solution. The application will
   require the following sections:  <ul>    <li><strong>Abstract</strong> - brief description
   of what you plan to build</li>    <li><strong>Solution Description</strong>  <ul>    <li>Anticipated
@@ -105,7 +105,7 @@ campaignAttributes:
     judging-end-date: ''
     solicitation-methods: ''
     advancing-the-agency-mission: ''
-    rules: <a href="www.challenge.gov/assets/images/wp-content/2017/01/N2NChallengeRules1.pdf">Review
+    rules: <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/01/N2NChallengeRules1.pdf">Review
       the complete list of N2N Challenge rules and regulations.</a>
     submission-start-date-1: ''
     hide-challenge-timeline: 'No'
@@ -123,7 +123,7 @@ campaignAttributes:
     participation-requirements: ''
     number-of-phases: ''
     how-to-enter: "<h4>Challenge Stages and Prizes</h4>\r\n<h5>Stage 1:  Registration
-      and Feasibility Review</h5>\r\nParticipants will fill out a <a href=\"www.challenge.gov/assets/images/wp-content/2017/01/N2NChallengeRegistration.docx\">registration
+      and Feasibility Review</h5>\r\nParticipants will fill out a <a href=\"https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/01/N2NChallengeRegistration.docx\">registration
       form</a> providing information about their proposed solution. The application
       will require the following sections:\r\n<ul>\r\n \t<li><strong>Abstract</strong>
       - brief description of what you plan to build</li>\r\n \t<li><strong>Solution

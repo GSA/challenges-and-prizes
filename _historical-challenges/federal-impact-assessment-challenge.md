@@ -2,7 +2,7 @@
 ideaSubmitFormInstruction: To enter,    (1) Create an account at Challenge.gov.    (2)
   Review the Rules carefully to ensure you are eligible to participate and for other
   essential details about the submission requirements and evaluation criteria. Use
-  these<strong> <a href="www.challenge.gov/assets/images/wp-content/2016/09/FIA-PDF-Writeup-270916.pdf">FIA
+  these<strong> <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/09/FIA-PDF-Writeup-270916.pdf">FIA
   Challenge Instructions</a> </strong>to help you craft your entry.    (3) Write an
   original Paper describing a retrospective assessment of the economic and/or societal
   benefits resulting from a Federal technology(ies), providing evidence to support
@@ -479,7 +479,7 @@ campaignAttributes:
     how-to-enter: "To enter,\r\n\r\n(1) Create an account at Challenge.gov.\r\n\r\n(2)
       Review the Rules carefully to ensure you are eligible to participate and for
       other essential details about the submission requirements and evaluation criteria. Use
-      these<strong> <a href=\"www.challenge.gov/assets/images/wp-content/2016/09/FIA-PDF-Writeup-270916.pdf\">FIA
+      these<strong> <a href=\"https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/09/FIA-PDF-Writeup-270916.pdf\">FIA
       Challenge Instructions</a> </strong>to help you craft your entry.\r\n\r\n(3)
       Write an original Paper describing a retrospective assessment of the economic
       and/or societal benefits resulting from a Federal technology(ies), providing
@@ -723,7 +723,7 @@ description: Did you know that every year the Federal government invests over $
   winner, you will receive a $5,000 cash award and you will be invited to have your
   paper considered for publication in <em>The Journal of Technology Transfer</em>.
   pp    <strong>Before you begin, carefully review the Rules to make sure you are
-  eligible to Participate and for more details about the Challenge. Use these <a href="www.challenge.gov/assets/images/wp-content/2016/09/FIA-PDF-Writeup-270916.pdf">FIA
+  eligible to Participate and for more details about the Challenge. Use these <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/09/FIA-PDF-Writeup-270916.pdf">FIA
   Challenge Instructions to help you craft your entry</a>. </strong>
 campaignStatusName: Launched
 templateId: 0

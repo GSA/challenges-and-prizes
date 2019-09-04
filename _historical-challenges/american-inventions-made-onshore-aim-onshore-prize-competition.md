@@ -125,7 +125,7 @@ campaignAttributes:
     judging-end-date: ''
     solicitation-methods: ''
     advancing-the-agency-mission: ''
-    rules: '<strong>For Complete Rules, See </strong><a href="www.challenge.gov/assets/images/wp-content/2018/02/AIM_Onshore_Prize_Competition_Rules1.pdf">AIM
+    rules: '<strong>For Complete Rules, See </strong><a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/02/AIM_Onshore_Prize_Competition_Rules1.pdf">AIM
       Onshore Prize Competition Rules</a>  <h4><u>How to Register</u></h4>  <ol>    <li>Visit
       the <a href="https://build4scale.llnl.gov/aim-onshore.php">''AIM Onshore Prize''
       tab on Build4Scale.org</a> anytime during the submission period stated above. 

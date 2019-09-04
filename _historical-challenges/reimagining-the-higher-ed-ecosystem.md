@@ -286,7 +286,7 @@ campaignAttributes:
 memberIdeaSubmissionAllowed: false
 showTitle: true
 description: '<div class="page" title="Page 1">  <div class="section">  <div class="layoutArea">  <div
-  class="column">    <a href="www.challenge.gov/assets/images/wp-content/2018/06/Design-Brief-Final-2.pdf">Design-Brief-Final-2</a>    &nbsp;    <em><strong>How
+  class="column">    <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/06/Design-Brief-Final-2.pdf">Design-Brief-Final-2</a>    &nbsp;    <em><strong>How
   might we empower people to design their own learning journeys so they can lead purposeful
   and economically stable lives?</strong></em>    <strong>The Problem</strong>    Technology
   is rapidly transforming the way we live, learn, and work. Entirely new jobs are

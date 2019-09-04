@@ -1,5 +1,5 @@
 ---
-ideaSubmitFormInstruction: '<a href="www.challenge.gov/assets/images/wp-content/2016/05/Datapalooza-Challenge-PPT.pdf"
+ideaSubmitFormInstruction: '<a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/05/Datapalooza-Challenge-PPT.pdf"
   rel="">Datapalooza Challenge PPT</a>    <strong>Phase II: </strong>Development and
   functional integration of any features from Phase I, and user experience testing.
   During this phase, the participants must submit the object and source code, as well
@@ -96,7 +96,7 @@ campaignAttributes:
     type-of-challenge: Ideas
     participation-requirements: ''
     number-of-phases: ''
-    how-to-enter: "<a href=\"www.challenge.gov/assets/images/wp-content/2016/05/Datapalooza-Challenge-PPT.pdf\"
+    how-to-enter: "<a href=\"https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/05/Datapalooza-Challenge-PPT.pdf\"
       rel=\"\">Datapalooza Challenge PPT</a>\r\n\r\n<strong>Phase II: </strong>Development
       and functional integration of any features from Phase I, and user experience
       testing. During this phase, the participants must submit the object and source
@@ -240,21 +240,21 @@ campaignAttributes:
       over the educational content and takes advantage of the capabilities of mobile
       devices: push notifications, sharing to social media, calendar and email.'
     winner-name-1: Claudia Cassidy
-    winner-solution-title-1: www.challenge.gov/assets/images/wp-content/2016/08/MIPS-Challenge-App-Design-ccassidy.pdf
+    winner-solution-title-1: https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/08/MIPS-Challenge-App-Design-ccassidy.pdf
   - winner-solution-description-2: 'This solver proposed leveraging data from a number
       of existing data and web services. The proposed app will include an intelligent
       chat bot as well as CME and education modules. '
     winner-solution-link-2: ''
-    winner-solution-title-2: www.challenge.gov/assets/images/wp-content/2016/08/MIPS_Mobile_App_README.pdf
+    winner-solution-title-2: https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/08/MIPS_Mobile_App_README.pdf
     winner-name-2: Customer Value Partners (CVP)
   - winner-solution-link-3: ''
     winner-solution-description-3: 'The proposed app features an interactive schedule
       and is equipped with pop-up explanations as well as a tool for future planning
       needs  It also has a Share-to-Social Media” feature. '
-    winner-solution-title-3: www.challenge.gov/assets/images/wp-content/2016/08/IPRO-MIPS-Challenge-Mobile-App-Submission_Phase-1.pdf
+    winner-solution-title-3: https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/08/IPRO-MIPS-Challenge-Mobile-App-Submission_Phase-1.pdf
     winner-name-3: 'Improving Healthcare for the Common Good (IPRO):  '
   - winner-name-4: IMS Health
-    winner-solution-title-4: www.challenge.gov/assets/images/wp-content/2016/08/IMS-Health-MIPS-Challenge-Presentation-Final.pdf
+    winner-solution-title-4: https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/08/IMS-Health-MIPS-Challenge-Presentation-Final.pdf
     winner-solution-description-4: 'The solver uses the transtheoretical model (TTM)
       for behavior change, an evidence-based integrative, biopsychosocial model of
       intentional behavior change. Components of the app include assessment sof a
@@ -262,7 +262,7 @@ campaignAttributes:
       and other adjustments can be made to the system. '
     winner-solution-link-4: ''
   - winner-name-5: Softrams, LLC
-    winner-solution-title-5: www.challenge.gov/assets/images/wp-content/2016/08/MIPS-Mobile-App-Prototype-by-Softrams-1.pdf
+    winner-solution-title-5: https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/08/MIPS-Mobile-App-Prototype-by-Softrams-1.pdf
     winner-solution-link-5: ''
     winner-solution-description-5: Called MyMIPS, the proposed app provides for customize
       user profiles so that different users (e.g., a clinician versus a data quality
@@ -288,7 +288,7 @@ showTitle: true
 description: 'PHASE II is now open for the Medicare Program--Merit Based Incentive
   Payment System (MIPS) Mobile Challenge.    Winners from Phase I will be publically
   announced soon. All applicants that did not win in Phase I are permitted to compete
-  for Phase II.    <a href="www.challenge.gov/assets/images/wp-content/2016/05/Datapalooza-Presentation-Updated-7-11-15.pdf">Datapalooza
+  for Phase II.    <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/05/Datapalooza-Presentation-Updated-7-11-15.pdf">Datapalooza
   Presentation Updated 7-11-15</a>    Updated Dates  <ul>    <li>October 15: Deadline
   for Phase II Submissions</li>    <li>November 15: HHS announces grand prize winner</li>  </ul>  The
   Challenge:  <ul>    <li>CMS recently issued a proposed rule that will change the

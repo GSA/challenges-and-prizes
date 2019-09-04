@@ -49,7 +49,7 @@ campaignAttributes:
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: 'Below, we have provided some key points for your submission.  For the
-      further details, see the <a href="www.challenge.gov/assets/images/wp-content/2018/01/RAMP_Official_Rules_20181.pdf"
+      further details, see the <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/01/RAMP_Official_Rules_20181.pdf"
       target="_blank" rel="noopener">Official Rules for RAMP 2018</a>, which include
       all terms and conditions regarding this challenge.    <strong><u>GUIDELINES
       FOR YOUR SUBMISSION</u></strong>    <strong>Manufacturing Process Selection:  </strong>You
@@ -62,14 +62,14 @@ campaignAttributes:
       a Journal of Manufacturing Science and Engineering paper titled “Standard representations
       for sustainability characterization of industrial processes.”  The paper may
       be downloaded <a href="https://www.nist.gov/node/1090636" target="_blank" rel="noopener">here</a>.    [caption
-      id="attachment_165945" align="alignright" width="300"]<a href="www.challenge.gov/assets/images/wp-content/2017/11/ClassDiagram.jpg"
-      target="_blank" rel="noopener"><img class="wp-image-165945 size-medium" src="www.challenge.gov/assets/images/wp-content/2017/11/ClassDiagram-300x243.jpg"
+      id="attachment_165945" align="alignright" width="300"]<a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/11/ClassDiagram.jpg"
+      target="_blank" rel="noopener"><img class="wp-image-165945 size-medium" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/11/ClassDiagram-300x243.jpg"
       alt="" width="300" height="243" /></a> UML class diagram for XML Schema for
       UMP[/caption]    <strong>Information Model:</strong>  The identified UMP information
-      model(s) each should include an XML instance conforming to the new <a href="www.challenge.gov/assets/images/wp-content/2018/01/UMPSchema_for_user.xsd"
-      target="_blank" rel="noopener">UMP Schema</a>. The <a href="www.challenge.gov/assets/images/wp-content/2018/01/UMPSchema_for_user.xsd"
+      model(s) each should include an XML instance conforming to the new <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/01/UMPSchema_for_user.xsd"
+      target="_blank" rel="noopener">UMP Schema</a>. The <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/01/UMPSchema_for_user.xsd"
       target="_blank" rel="noopener">UMP Schema</a> provides the structure necessary
-      to meet these requirements. Please refer to the<strong> </strong><a href="www.challenge.gov/assets/images/wp-content/2018/01/UMP_Schema_Documentation.pdf"
+      to meet these requirements. Please refer to the<strong> </strong><a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/01/UMP_Schema_Documentation.pdf"
       target="_blank" rel="noopener">UMP Schema Documentation</a><strong> </strong>for
       a detailed explanation of each element and attribute in the schema.  Within
       the XML instance, the following must be addressed:  <ul>    <li>Entity identification:
@@ -89,8 +89,8 @@ campaignAttributes:
       title and participant information.    <strong>Graphical Representation</strong>: 
       The five elements shown in the E3012-16 standard must also be clearly identified
       in the graphical representation:    [caption id="attachment_164168" align="alignright"
-      width="300"]<a href="www.challenge.gov/assets/images/wp-content/2017/08/ump-graphical.png"
-      target="_blank" rel="noopener"><img class="wp-image-164168 size-medium" src="www.challenge.gov/assets/images/wp-content/2017/08/ump-graphical-300x185.png"
+      width="300"]<a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/08/ump-graphical.png"
+      target="_blank" rel="noopener"><img class="wp-image-164168 size-medium" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/08/ump-graphical-300x185.png"
       alt="" width="300" height="185" /></a> ASTM E3012-16 graphical representation[/caption]  <ul>    <li>Inputs:
       Identify inputs, which include information about the physical inputs to the
       process, such energy and material.</li>    <li>Outputs: Identify outputs, which
@@ -135,7 +135,7 @@ campaignAttributes:
       href="https://www.challenge.gov/challenge/ramp-reusable-abstractions-of-manufacturing-processes/">Event
       Website</a>. Entries sent to NIST in any manner other than through the Event
       Website will not be evaluated or considered for award.<img class="alignright
-      wp-image-165895 size-medium" src="www.challenge.gov/assets/images/wp-content/2017/11/figure_gripping_cordless_drill_1600_clr_14311-169x300.png"
+      wp-image-165895 size-medium" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/11/figure_gripping_cordless_drill_1600_clr_14311-169x300.png"
       alt="" width="169" height="300" />    <strong>Model types:</strong> Any manufacturing
       process can be modeled for purposes of information sharing and sustainability
       assessment.  The modeled process can be one that you have uniquely studied,
@@ -209,7 +209,7 @@ campaignAttributes:
       in the conference or does not respond within 5 business days, NIST reserves
       the right to invite the next highest ranked entrant (who is not already a finalist),
       as determined by the subject matter experts, to participate as a finalist.    <img
-      class="alignleft wp-image-165995 size-medium" src="www.challenge.gov/assets/images/wp-content/2017/11/robot_arm_1600_clr_8377-188x300.png"
+      class="alignleft wp-image-165995 size-medium" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/11/robot_arm_1600_clr_8377-188x300.png"
       alt="" width="282" height="450" />To win an Award, finalists must give a brief
       in-person presentation to the Judges during the MSEC conference in a special
       session dedicated to the RAMP Challenge.  Winners will be determined by the
@@ -227,7 +227,7 @@ campaignAttributes:
       Website. The Official Representatives are responsible for all taxes and reporting
       related to any Award received as part of the Competition.    All costs incurred
       in the preparation of Competition Entries are to be borne by Participants.    For
-      more information, please see the <a href="www.challenge.gov/assets/images/wp-content/2018/01/RAMP_Official_Rules_20181.pdf"
+      more information, please see the <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/01/RAMP_Official_Rules_20181.pdf"
       target="_blank" rel="noopener">Official Rules for RAMP 2018.</a>    &nbsp;    &nbsp;    &nbsp;    &nbsp;'
     submission-start-date-1: ''
     hide-challenge-timeline: 'No'
@@ -441,16 +441,16 @@ showTitle: true
 description: 'On April 5, we held another live webinar that focused on submission
   guidelines for RAMP 2018 and improvements to the <a href="https://umpbuilder.nist.gov/"
   target="_blank" rel="noopener">UMP Builder</a>, an open tool that helps participants
-  record Unit Manufacturing Process models.   <a href="www.challenge.gov/assets/images/wp-content/2018/01/RAMP2018_ExampleSubmission.zip"
+  record Unit Manufacturing Process models.   <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/01/RAMP2018_ExampleSubmission.zip"
   target="_blank" rel="noopener">An example submission of a Face Milling Model </a>was
   reviewed to help communicate the required components of a RAMP 2018 submission. 
    A transcript of the Q&amp;A during the live webinar will be made available via
-  the discussion board.    You can find <a href="www.challenge.gov/assets/images/wp-content/2018/01/2018_RAMP_Webinar_2nd.pdf"
+  the discussion board.    You can find <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/01/2018_RAMP_Webinar_2nd.pdf"
   target="_blank" rel="noopener">a copy of the slides here</a>. <a href="https://www.nist.gov/video/ramp-2018-submission-packet-supporting-tools">You
   can access the webinar recording here.</a>    <hr />    On February 6, we held a
   live webinar to discuss the rules and logistics of RAMP 2018.  You can find the <a
   href="https://www.nist.gov/video/ramp-2018-challenge-webinar-what-how-and-where-enter">webinar
-  recording here </a> and <a href="www.challenge.gov/assets/images/wp-content/2018/01/2018_RAMP_Webinar.pdf">a
+  recording here </a> and <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/01/2018_RAMP_Webinar.pdf">a
   copy of the slides here</a>.  The webinar also demonstrated a prototype tool to
   support RAMP 2018 called the <a href="https://www.nist.gov/services-resources/software/unit-manufacturing-process-ump-builder">UMP
   Builder</a>, which can be accessed at <a href="https://umpbuilder.nist.gov/">https://umpbuilder.nist.gov/</a> 
@@ -469,12 +469,12 @@ description: 'On April 5, we held another live webinar that focused on submissio
   Conference (NAMRC)</a> in College Station, TX, on June 18-22.  <strong>Click on
   the "Rules" link on the left of the page to check out the official rules for details
   on eligibility and submission criteria.</strong><img class="aligncenter wp-image-165880
-  size-medium" src="www.challenge.gov/assets/images/wp-content/2017/11/welder_with_torch_1600_clr_6058-300x300.png"
+  size-medium" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/11/welder_with_torch_1600_clr_6058-300x300.png"
   alt="" width="300" height="300" />  <p style="text-align: left;"><strong>Theme:</strong>
   This year''s RAMP competition will be underlined by the theme...</p>  <p style="text-align:
   left;"><em><span style="color: #000080;"><strong>T</strong><strong>racking Resources
   and Flows through the System</strong></span></em></p>  <img class="alignright wp-image-166005
-  size-thumbnail" src="www.challenge.gov/assets/images/wp-content/2017/11/custom_puzzle_piece_out_of_line_13804-150x150.png"
+  size-thumbnail" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/11/custom_puzzle_piece_out_of_line_13804-150x150.png"
   alt="" width="150" height="150" />  <p style="text-align: left;">Similar to <a href="https://www.challenge.gov/challenge/ramp-reusable-abstractions-of-manufacturing-processes-2017/"
   target="_blank" rel="noopener">last year''s competition</a>, the building blocks
   of each submission are the Unit Manufacturing Process (UMP) models, which represent
@@ -489,16 +489,16 @@ description: 'On April 5, we held another live webinar that focused on submissio
   and economic tradeoff analysis using alternative UMP methods</li>    <li>Balanced
   benefits and burden related to sustainability of UMPs</li>  </ul>  <strong>New to
   2018 RAMP:  </strong>The most significant upgrade to this year''s competition is
-  the new <a href="www.challenge.gov/assets/images/wp-content/2018/01/UMPSchema_for_user.xsd"
+  the new <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/01/UMPSchema_for_user.xsd"
   target="_blank" rel="noopener">UMP Schema</a> that must be followed for submission. 
    The schema is expressed as an <a href="https://www.w3.org/XML/Schema" target="_blank"
   rel="noopener">eXtensible Markup Language (XML) Schema Definition (XSD)</a>.  Participants
   can import the schema into any XML editing tool to help build their XML submissions. 
-  Examples of well-formed XML documents built from the schema include an <a href="www.challenge.gov/assets/images/wp-content/2018/01/Atomic_Layer_Deposition1.xml"
-  target="_blank" rel="noopener">Atomic Layer Deposition UMP Model</a> and a <a href="www.challenge.gov/assets/images/wp-content/2018/01/GPR_milling_model.xml"
+  Examples of well-formed XML documents built from the schema include an <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/01/Atomic_Layer_Deposition1.xml"
+  target="_blank" rel="noopener">Atomic Layer Deposition UMP Model</a> and a <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/01/GPR_milling_model.xml"
   target="_blank" rel="noopener">Data-Driven Milling UMP Model</a>.  More information
   about the schema can be found in the Rules.    <img class="aligncenter wp-image-165915
-  size-full" src="www.challenge.gov/assets/images/wp-content/2017/11/conveyor_orange_boxes_assembly_line_1600_clr_4075.png"
+  size-full" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/11/conveyor_orange_boxes_assembly_line_1600_clr_4075.png"
   alt="" width="457" height="100" />'
 campaignStatusName: Launched
 templateId: 0

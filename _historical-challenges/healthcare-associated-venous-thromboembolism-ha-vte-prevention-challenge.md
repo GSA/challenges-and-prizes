@@ -5,7 +5,7 @@ ideaSubmitFormInstruction: '<hr />  <p style="text-align: center;">The Challenge
   submit your entry.</strong> </strong></p>  <p style="text-align: center;">Submissions
   through challenge.gov will not be accepted. Entries must be submitted electronically
   through the submission portal by January 10, 2016.   A copy of the nomination form
-  is below to get you started.</p>  <p style="text-align: center;"><a href="www.challenge.gov/assets/images/wp-content/2015/09/HA-VTE-Prevention-Challenge-Nomination-Form.pdf">HA-VTE
+  is below to get you started.</p>  <p style="text-align: center;"><a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/09/HA-VTE-Prevention-Challenge-Nomination-Form.pdf">HA-VTE
   Prevention Challenge Nomination Form</a></p>      <hr />    <!--more-->    Entrants
   of the HA-VTE Prevention Challenge will be asked to describe the VTE prevention
   strategy and reasons that support the strategy choice developed by their organization.
@@ -191,7 +191,7 @@ campaignAttributes:
       through challenge.gov will not be accepted. Entries must be submitted electronically
       through the submission portal by January 10, 2016.   A copy of the nomination
       form is below to get you started.</p>\r\n<p style=\"text-align: center;\"><a
-      href=\"www.challenge.gov/assets/images/wp-content/2015/09/HA-VTE-Prevention-Challenge-Nomination-Form.pdf\">HA-VTE
+      href=\"https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/09/HA-VTE-Prevention-Challenge-Nomination-Form.pdf\">HA-VTE
       Prevention Challenge Nomination Form</a></p>\r\n\r\n\r\n<hr />\r\n\r\n<!--more-->\r\n\r\nEntrants
       of the HA-VTE Prevention Challenge will be asked to describe the VTE prevention
       strategy and reasons that support the strategy choice developed by their organization.

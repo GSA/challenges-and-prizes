@@ -249,8 +249,9 @@ description: <strong>All official entries must be submitted via the <a href="htt
   Rodeo</a> webpage!</strong></em>    [caption id="attachment_159180" align="alignleft"
   width="230"]<a href="https://www.usbr.gov/research/challenges/forecastrodeo.html"
   target="_blank" rel="noopener noreferrer"><img class="wp-image-159180 size-medium"
-  src="www.challenge.gov/assets/images/wp-content/2016/12/forecast-230x300.png" alt="Satellite
-  image of weather in western United States." width="230" height="300" /></a> <a href="https://www.usbr.gov/research/challenges/docs/forecast508.pdf">Download
+  src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/12/forecast-230x300.png"
+  alt="Satellite image of weather in western United States." width="230" height="300"
+  /></a> <a href="https://www.usbr.gov/research/challenges/docs/forecast508.pdf">Download
   Poster</a>[/caption]    &nbsp;    &nbsp;    &nbsp;    &nbsp;    &nbsp;    &nbsp;    &nbsp;    &nbsp;    &nbsp;    <em>Questions
   about this Challenge?  Please direct any requests for clarifications and additional
   information about this challenge to InnoCentive.com. As the administrator for this

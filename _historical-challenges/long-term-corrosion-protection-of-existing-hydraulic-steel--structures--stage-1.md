@@ -261,8 +261,8 @@ description: <strong>All questions, registrations, and official entries must be 
   as a Reduction to Practice Challenge in which participants demonstrate their technology
   in lab- and field-scale evaluations.    <iframe src="https://www.youtube.com/embed/BO8rmFOFhsw"
   width="400" height="300" frameborder="0" allowfullscreen="allowfullscreen"></iframe>    <a
-  href="www.challenge.gov/assets/images/wp-content/2017/05/corrosion_poster.jpg"><img
-  class="alignnone size-medium wp-image-162178" src="www.challenge.gov/assets/images/wp-content/2017/05/corrosion_poster-231x300.jpg"
+  href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/05/corrosion_poster.jpg"><img
+  class="alignnone size-medium wp-image-162178" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/05/corrosion_poster-231x300.jpg"
   alt="Image of Corrosion poster." width="231" height="300" /></a>    <a href="https://www.usbr.gov/research/challenges/images/corrosion_poster.pdf">Download
   Poster</a>    <a href="https://www.usbr.gov/research/challenges/docs/Corrosion_Briefing_Paper.pdf">Download
   Briefing Paper</a>    <em>Questions about this Challenge?  Please direct any requests

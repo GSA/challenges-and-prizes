@@ -221,8 +221,8 @@ campaignAttributes:
     winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: '<a href="www.challenge.gov/assets/images/wp-content/2017/03/WLF-announce.png"><img
-  class="alignnone size-medium wp-image-178603 aligncenter" src="www.challenge.gov/assets/images/wp-content/2017/03/WLF-announce-300x102.png"
+description: '<a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/03/WLF-announce.png"><img
+  class="alignnone size-medium wp-image-178603 aligncenter" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/03/WLF-announce-300x102.png"
   alt="" width="300" height="102" /></a>  <p style="text-align: center;"></p>  <p
   style="text-align: center;">The winners of the Wildland Fire Sensors Challenge</p>  <p
   style="text-align: center;">will be announced on September 12, 2018, at the</p>  <p
@@ -233,8 +233,8 @@ description: '<a href="www.challenge.gov/assets/images/wp-content/2017/03/WLF-an
   new ways to monitor air quality during fire events to better protect public health.
   Air quality managers and public health officials have limited access to accurate
   information on ground-level air pollution levels in the vicinity of wildland fires,
-  making it difficult to prov<a href="www.challenge.gov/assets/images/wp-content/2017/03/WFSC-graphic-hashtag.png"><img
-  class="size-medium wp-image-161142 alignleft" src="www.challenge.gov/assets/images/wp-content/2017/03/WFSC-graphic-hashtag-297x300.png"
+  making it difficult to prov<a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/03/WFSC-graphic-hashtag.png"><img
+  class="size-medium wp-image-161142 alignleft" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/03/WFSC-graphic-hashtag-297x300.png"
   alt="" width="297" height="300" /></a>ide appropriate strategies to minimize smoke
   exposure. Most air pollution monitoring equipment is large, not easily transportable,
   and complex to operate. Today, emerging technologies – including miniaturized direct-reading
@@ -253,8 +253,8 @@ description: '<a href="www.challenge.gov/assets/images/wp-content/2017/03/WLF-an
   fires. The prototype system should be accurate, light-weight, easy to operate, and
   capable of wireless data transmission, so that first responders and nearby communities
   have access to timely information about local air quality conditions during wildland
-  fire events.    <a href="www.challenge.gov/assets/images/wp-content/2017/04/WFSClogosround2.png"><img
-  class="size-medium wp-image-161230 aligncenter" src="www.challenge.gov/assets/images/wp-content/2017/04/WFSClogosround2-300x56.png"
+  fire events.    <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/04/WFSClogosround2.png"><img
+  class="size-medium wp-image-161230 aligncenter" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/04/WFSClogosround2-300x56.png"
   alt="Logos - United States Environmental Protection Agency, NASA, U.S. Forest Service,
   National Parks Service, Department of Health and Human Services, Centers for Disease
   Control and Prevention" width="300" height="56" /></a>    &nbsp;    <strong>Submission

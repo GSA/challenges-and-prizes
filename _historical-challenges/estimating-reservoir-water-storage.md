@@ -242,8 +242,8 @@ description: '<strong>All official entries must be submitted via the <span style
   the U.S. Army Corps of Engineers, is seeking a cost effective method to indirectly
   estimate the storage capacity and/or sediment volume (storage loss) in reservoirs.    <iframe
   src="https://www.youtube.com/embed/LEWlEulKt-g" width="400" height="300" frameborder="0"
-  allowfullscreen="allowfullscreen"></iframe>    <a href="www.challenge.gov/assets/images/wp-content/2017/02/waterstorage.png"><img
-  class="alignnone wp-image-160001 size-medium" src="www.challenge.gov/assets/images/wp-content/2017/02/waterstorage-230x300.png"
+  allowfullscreen="allowfullscreen"></iframe>    <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/02/waterstorage.png"><img
+  class="alignnone wp-image-160001 size-medium" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/02/waterstorage-230x300.png"
   alt="Poster image for Reclamation''s Water Storage prize competition." width="230"
   height="300" /></a>    More info:  <ul>    <li><a href="https://www.usbr.gov/research/challenges/docs/Sediment_Briefing_Paper_20Sep2016_REVISED.pdf"
   target="_blank" rel="noopener noreferrer">Download Briefing Paper</a></li>    <li><a

@@ -219,7 +219,7 @@ campaignAttributes:
 memberIdeaSubmissionAllowed: false
 showTitle: true
 description: "<p><strong>WELCOME TO THE TRANSFORM TOX TESTING CHALLENGE</strong></p>\r\n<p>For
-  full challenge details, please download the <a href=\"www.challenge.gov/assets/images/wp-content/2016/10/Transform-Tox-Testing-Challenge-Stage-2-Update1.pdf\">Transform
+  full challenge details, please download the <a href=\"https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/10/Transform-Tox-Testing-Challenge-Stage-2-Update1.pdf\">Transform
   Tox Testing Challenge Brief</a> (pdf).</p>\r\n<p>NOTE: Stage 2 of the Challenge
   is only open to semi-finalists who have been awarded a Stage 1 prize.</p>\r\n<p><strong>Challenge
   Summary</strong></p>\r\n<p>Out of thousands of chemicals in use today, very few
@@ -244,7 +244,7 @@ description: "<p><strong>WELCOME TO THE TRANSFORM TOX TESTING CHALLENGE</strong>
   to bring their designs to life by: meeting a general level of performance, technically
   characterizing the metabolic 'competence' of their system, and functionally characterizing
   their system in a series of pilot screens. Up to five&nbsp;finalists will be selected
-  and awarded a prize of $100,000 each. For more details,&nbsp;download the <a href=\"www.challenge.gov/assets/images/wp-content/2016/10/Transform-Tox-Testing-Challenge-Stage-2-Update.pdf\">Transform
+  and awarded a prize of $100,000 each. For more details,&nbsp;download the <a href=\"https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/10/Transform-Tox-Testing-Challenge-Stage-2-Update.pdf\">Transform
   Tox Testing Challenge Brief</a> (pdf).</p>\r\n<p>In the first stage of the Challenge,&nbsp;semi-finalists
   submitted practical designs for how HTS assays could be retrofitted to include xenobiotic
   metabolic competence. Ten submissions were selected as semi-finalists, awarded a

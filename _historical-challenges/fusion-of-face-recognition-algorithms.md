@@ -46,11 +46,11 @@ campaignAttributes:
     rules: 'The <a href="https://www.nist.gov/programs-projects/fusion-face-recognition-algorithms-2018">NIST
       FOFRA Support Website</a> provides detailed instructions on participation, registration,
       and submissions.    An overview of the FOFRA Prize Challenge, including the
-      challenge concept and planned evaluations can be found <a href="www.challenge.gov/assets/images/wp-content/2018/05/nist_iarpa_frpc_2018_overview_public.pdf">here</a>.    The
-      full NIST Concept of Operations and API Specifications can be found <a href="www.challenge.gov/assets/images/wp-content/2018/05/iarpa_nist_fofra_2018_fusion_api.pdf">here</a>.    <strong>Participation
+      challenge concept and planned evaluations can be found <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/05/nist_iarpa_frpc_2018_overview_public.pdf">here</a>.    The
+      full NIST Concept of Operations and API Specifications can be found <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/05/iarpa_nist_fofra_2018_fusion_api.pdf">here</a>.    <strong>Participation
       Eligibility</strong>    To be eligible to win a prize under this competition,
       an individual or entity:  <ol>    <li>Must have visited the FOFRA website at
-      Challenge.gov;</li>    <li>Must have read the <a href="www.challenge.gov/assets/images/wp-content/2018/05/nist_iarpa_frpc_2018_overview_public.pdf">FOFRA
+      Challenge.gov;</li>    <li>Must have read the <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/05/nist_iarpa_frpc_2018_overview_public.pdf">FOFRA
       overview slides</a>;</li>    <li>Must have completed and submitted a FOFRA participation
       agreement form (see <a href="https://www.nist.gov/programs-projects/fusion-face-recognition-algorithms-2018">NIST
       FOFRA Support Website</a>);</li>    <li>Must have complied with all the requirements
@@ -328,8 +328,8 @@ description: 'Can you leverage the data outputs of multiple face recognition alg
   (NIST).  Registration closes on <strong><u>August 6, 2018</u></strong>.  <ul>    <li><strong>When
   does FOFRA registration begin? </strong> May 23, 2018</li>    <li><strong>Where
   to learn more about the challenge, including rules, criteria and eligibility requirements?</strong>  <ul>    <li>This
-  website</li>    <li><a href="www.challenge.gov/assets/images/wp-content/2018/05/nist_iarpa_frpc_2018_overview_public.pdf">The
-  FOFRA Overview document</a></li>    <li><a href="www.challenge.gov/assets/images/wp-content/2018/05/iarpa_nist_fofra_2018_fusion_api.pdf">The
+  website</li>    <li><a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/05/nist_iarpa_frpc_2018_overview_public.pdf">The
+  FOFRA Overview document</a></li>    <li><a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/05/iarpa_nist_fofra_2018_fusion_api.pdf">The
   FOFRA API document</a></li>  </ul>  </li>    <li><strong>Where do participants register?</strong> 
   <a href="https://www.nist.gov/programs-projects/fusion-face-recognition-algorithms-2018">NIST
   FOFRA Support Website</a></li>    <li><strong>When is the deadline for comments

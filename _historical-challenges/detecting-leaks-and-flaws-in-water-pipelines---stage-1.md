@@ -248,8 +248,8 @@ description: This launches Stage 1 of a planned two-stage competition, that culm
   focus is finding condition assessment solutions for 48-inch or greater pipe diameters
   and for steel and prestressed concrete cylinder pipe types, although solutions for
   all pipe types and diameters greater than 24 inches will be considered.    [embed]https://www.youtube.com/watch?v=k1BYQrtaeoI[/embed]    <a
-  href="www.challenge.gov/assets/images/wp-content/2018/03/leakypipes_poster.jpg"><img
-  class="alignleft size-medium wp-image-174560" src="www.challenge.gov/assets/images/wp-content/2018/03/leakypipes_poster-230x300.jpg"
+  href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/03/leakypipes_poster.jpg"><img
+  class="alignleft size-medium wp-image-174560" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/03/leakypipes_poster-230x300.jpg"
   alt="" width="230" height="300" /></a>    &nbsp;    &nbsp;    &nbsp;    &nbsp;    &nbsp;    &nbsp;    &nbsp;    &nbsp;    &nbsp;    <a
   href="https://www.usbr.gov/research/challenges/docs/leakypipes_preview.pdf">Download
   Full Preview</a>    <a href="https://www.usbr.gov/research/challenges/docs/leakypipes_poster.jpg">Download

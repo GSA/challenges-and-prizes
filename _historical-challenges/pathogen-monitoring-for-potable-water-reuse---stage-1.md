@@ -250,8 +250,8 @@ description: As western U.S. water demands grow and water supplies become more s
   award an $80,000 prize purse ($40,000 of which is provided by Xylem Inc.), among
   winning eligible U.S. solvers. Winning eligible international solvers may receive
   meritorious recognition.    [embed]https://www.youtube.com/watch?v=BWCM_gC3KXE[/embed]    <a
-  href="www.challenge.gov/assets/images/wp-content/2018/05/pathogen_poster.jpg"><img
-  class="alignnone size-medium wp-image-176099" src="www.challenge.gov/assets/images/wp-content/2018/05/pathogen_poster-232x300.jpg"
+  href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/05/pathogen_poster.jpg"><img
+  class="alignnone size-medium wp-image-176099" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/05/pathogen_poster-232x300.jpg"
   alt="Image of glass of water " width="232" height="300" /></a>    <a href="https://www.usbr.gov/research/challenges/docs/pathogen_preview.pdf"
   target="_blank" rel="noopener">Download Full Preview</a>    <a href="https://www.usbr.gov/research/challenges/docs/pathogen_poster.pdf"
   target="_blank" rel="noopener">Download Poster</a>

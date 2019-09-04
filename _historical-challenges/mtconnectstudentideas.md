@@ -40,11 +40,11 @@ campaignAttributes:
     judging-end-date: 03/22/2016 06:00 PM
     solicitation-methods: ''
     advancing-the-agency-mission: ''
-    rules: 'Please see the rules document attached:  <a href="www.challenge.gov/assets/images/wp-content/2015/04/MTConnect-Challenge-Idea-Creation-Rules16DEC2015.pdf">MTConnect
+    rules: 'Please see the rules document attached:  <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/04/MTConnect-Challenge-Idea-Creation-Rules16DEC2015.pdf">MTConnect
       Challenge Idea Creation Rules16DEC2015</a>    <strong><em>Please note that the
       submission deadline has changed to March 15, 2016.</em></strong>    &nbsp;    In
       addition to being available within the challenge discussion forum, a list of
-      frequently asked questions can be viewed here:    <a href="www.challenge.gov/assets/images/wp-content/2015/04/MTConnect-Student-Challenge-Website-FAQ-v2.pdf">MTConnect
+      frequently asked questions can be viewed here:    <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/04/MTConnect-Student-Challenge-Website-FAQ-v2.pdf">MTConnect
       Student Challenge - Website - FAQ - v2</a>'
     submission-start-date-1: ''
     hide-challenge-timeline: 'No'

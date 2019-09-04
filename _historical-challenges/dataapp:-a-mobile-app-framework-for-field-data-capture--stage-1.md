@@ -257,9 +257,9 @@ description: <strong>All questions, registrations, and official entries must be 
   and software technologies for development of the desired app framework.    <iframe
   src="https://www.youtube.com/embed/FLF9TMyU_rs" width="400" height="300" frameborder="0"
   allowfullscreen="allowfullscreen"></iframe>    [caption id="attachment_162089" align="alignnone"
-  width="230"]<a href="www.challenge.gov/assets/images/wp-content/2017/05/dataapp_thumb.png"
+  width="230"]<a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/05/dataapp_thumb.png"
   target="_blank" rel="noopener noreferrer"><img class="wp-image-162089 size-medium"
-  src="www.challenge.gov/assets/images/wp-content/2017/05/dataapp_thumb-230x300.png"
+  src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/05/dataapp_thumb-230x300.png"
   alt="" width="230" height="300" /></a> <a href="https://www.usbr.gov/research/challenges/images/datapp_poster.pdf"
   target="_blank&quot;">Download Poster</a>[/caption]  <h4><a href="https://www.usbr.gov/research/challenges/docs/DataApp_BriefingPaper.pdf"
   target="_blank&quot;">Download Briefing Paper</a></h4>  <em>Questions about this

@@ -240,7 +240,7 @@ description: '<strong>All official entries must be submitted via the Innocentive
   to fish</li>    <li>Stress (e.g. crowding, removal from water, disorientation)</li>    <li>Impacts
   to the operation of the dam</li>    <li>Overall cost</li>  </ul>  This is an Ideation
   Challenge with a guaranteed award for at least one submitted solution.    [embed]https://youtu.be/TzCTgG0zXKs[/embed]    [video
-  width="1920" height="1080" mp4="www.challenge.gov/assets/images/wp-content/2016/03/Downstream_Fish_Passage.mp4"][/video]'
+  width="1920" height="1080" mp4="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/03/Downstream_Fish_Passage.mp4"][/video]'
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []

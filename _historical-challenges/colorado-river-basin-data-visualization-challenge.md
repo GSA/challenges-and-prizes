@@ -247,8 +247,8 @@ description: <strong>All questions, registrations, and official entries are foun
   of past, present, and projected conditions in the CRB and to support analysis and
   decision making by Reclamation and non-Reclamation users.    <iframe src="https://www.youtube.com/embed/MQraxjryG0k"
   width="400" height="300" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>    <a
-  href="www.challenge.gov/assets/images/wp-content/2017/08/2017-08-24_20-14-00.jpg"><img
-  class="alignnone size-medium wp-image-164120" src="www.challenge.gov/assets/images/wp-content/2017/08/2017-08-24_20-14-00-229x300.jpg"
+  href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/08/2017-08-24_20-14-00.jpg"><img
+  class="alignnone size-medium wp-image-164120" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/08/2017-08-24_20-14-00-229x300.jpg"
   alt="" width="229" height="300" /></a>    <a href="http://www.usbr.gov/research/challenges/docs/DataVis_preview.pdf"
   target="_blank" rel="noopener">Download Full Preview</a>  <a href="http://www.usbr.gov/research/challenges/docs/dataviz_poster.jpg"
   target="_blank" rel="noopener">Download Poster</a>    <em>Questions about this Challenge?

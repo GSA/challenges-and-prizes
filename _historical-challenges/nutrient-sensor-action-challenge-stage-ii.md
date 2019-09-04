@@ -45,7 +45,7 @@ campaignAttributes:
     rules: '<h4 style="text-align: justify;"><span style="color: #339966;"><strong>REQUIREMENTS</strong></span></h4>  <p
       style="text-align: justify;"><strong>Registration</strong></p>    <ul style="text-align:
       justify;">    <li style="text-align: justify;">Teams must complete the registration
-      form, <strong><a href="www.challenge.gov/assets/images/wp-content/2018/02/Nutrient-Sensor-Action-Challenge_Registration-form_final.docx"
+      form, <strong><a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/02/Nutrient-Sensor-Action-Challenge_Registration-form_final.docx"
       target="_blank" rel="noopener">found here</a>,</strong> and upload via the Challenge.gov
       "Submit Solution" tab two weeks prior to the start of monitoring and data collection
       from nutrient sensors.</li>  </ul>  <p style="text-align: justify;"><strong>Sensors</strong></p>    <ul
@@ -86,7 +86,7 @@ campaignAttributes:
       Results Package must be uploaded to Challenge.gov by <strong>January 31, 2019
       at 11:59 PM ET.</strong>   The Results Package must be no longer than 30 pages
       and must include (but is not limited to):    <strong>Updated Registration Information
-      (</strong><strong><a href="www.challenge.gov/assets/images/wp-content/2018/02/Nutrient-Sensor-Action-Challenge_Registration-form_final.docx"
+      (</strong><strong><a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/02/Nutrient-Sensor-Action-Challenge_Registration-form_final.docx"
       target="_blank" rel="noopener">found here</a></strong><strong><a href="https://ftp.erg.com/?u=%20nutrient&amp;p=ActionChallenge"
       target="_blank" rel="noopener"><span style="color: #000000;">)</span></a></strong>    <strong>Data</strong>:  <ul>    <li>Illustration
       of the data architecture, including the flow and lifecycle of sensor data (e.g.
@@ -277,7 +277,7 @@ campaignAttributes:
 memberIdeaSubmissionAllowed: false
 showTitle: true
 description: "<p style=\"text-align: center;\"><a href=\"https://youtu.be/bJBo9oJtXpk\"
-  target=\"_blank\" rel=\"noopener\"><img class=\"aligncenter wp-image-174335\" src=\"www.challenge.gov/assets/images/wp-content/2018/02/nsac2flyer-260x300.png\"
+  target=\"_blank\" rel=\"noopener\"><img class=\"aligncenter wp-image-174335\" src=\"https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/02/nsac2flyer-260x300.png\"
   alt=\"\" width=\"219\" height=\"253\" /></a></p>\r\n<h3 style=\"text-align: center;\"><strong><a
   href=\"https://youtu.be/bJBo9oJtXpk\" target=\"_blank\" rel=\"noopener\">Click here</a></strong>&nbsp;to
   view the full informational webinar from March 15th.</h3>\r\n<p>EPA, in collaboration
@@ -306,14 +306,14 @@ description: "<p style=\"text-align: center;\"><a href=\"https://youtu.be/bJBo9o
   and communicating that information.</p>\r\n<p style=\"text-align: justify;\"><strong>Participation
   in Stage I of the Challenge is not a requirement for participation in Stage II</strong>.</p>\r\n<hr
   />\r\n<h4><span style=\"color: #339966;\">SCHEDULE</span></h4>\r\n<p style=\"text-align:
-  center;\"><a href=\"www.challenge.gov/assets/images/wp-content/2018/02/Nutrient-Sensor-Action-Challenge-v5b.png\"><img
-  class=\"alignnone wp-image-174250\" src=\"www.challenge.gov/assets/images/wp-content/2018/02/Nutrient-Sensor-Action-Challenge-v5b.png\"
+  center;\"><a href=\"https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/02/Nutrient-Sensor-Action-Challenge-v5b.png\"><img
+  class=\"alignnone wp-image-174250\" src=\"https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/02/Nutrient-Sensor-Action-Challenge-v5b.png\"
   alt=\"\" width=\"314\" height=\"315\" /></a></p>\r\n<p>&nbsp;</p>\r\n<hr />\r\n<h4
   style=\"text-align: justify;\"><span style=\"color: #339966;\">REQUIREMENTS</span></h4>\r\n<p
   style=\"text-align: justify;\"><strong>Registration</strong></p>\r\n<ul style=\"text-align:
   justify;\">\r\n<li style=\"text-align: justify;\">Teams must complete the registration
   form,&nbsp;<strong><span id=\"docs-internal-guid-fbe74b27-7fff-a5fc-7e12-e4c62de7e1df\"
-  style=\"font-weight: normal;\"><a style=\"text-decoration-line: none;\" href=\"www.challenge.gov/assets/images/wp-content/2018/02/Nutrient-Sensor-Action-Challenge_Registration-form_final.docx\"><span
+  style=\"font-weight: normal;\"><a style=\"text-decoration-line: none;\" href=\"https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/02/Nutrient-Sensor-Action-Challenge_Registration-form_final.docx\"><span
   style=\"font-size: 8.5pt; font-family: Verdana; color: #1155cc; font-weight: bold;
   font-variant-numeric: normal; font-variant-east-asian: normal; text-decoration-line:
   underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space:
@@ -363,7 +363,7 @@ description: "<p style=\"text-align: center;\"><a href=\"https://youtu.be/bJBo9o
   style=\"font-weight: normal;\"><span style=\"font-size: 8.5pt; font-family: Verdana;
   color: #1155cc; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian:
   normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align:
-  baseline; white-space: pre-wrap;\"><a style=\"text-decoration-line: none;\" href=\"www.challenge.gov/assets/images/wp-content/2018/02/Nutrient-Sensor-Action-Challenge_Registration-form_final.docx\">found
+  baseline; white-space: pre-wrap;\"><a style=\"text-decoration-line: none;\" href=\"https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/02/Nutrient-Sensor-Action-Challenge_Registration-form_final.docx\">found
   here</a></span></span></strong><strong>)</strong></p>\r\n<p><strong>Data</strong>:</p>\r\n<ul>\r\n<li>Illustration
   of the data architecture, including the flow and lifecycle of sensor data (e.g.
   collection, access, communication, and use)</li>\r\n<li>Summary of the data collected
@@ -390,21 +390,21 @@ description: "<p style=\"text-align: center;\"><a href=\"https://youtu.be/bJBo9o
   Environmental Protection Agency (EPA)</li>\r\n<li>U.S. Geological Survey (USGS)</li>\r\n<li>NOAA-directed
   U.S. Integrated Ocean Observing System (IOOS)</li>\r\n<li>U.S. Department of Agriculture
   (USDA)</li>\r\n<li>National Institute of Science and Technology (NIST)</li>\r\n<li>Cleveland
-  Water Alliance (CWA)</li>\r\n</ul>\r\n<p style=\"text-align: justify;\"><a href=\"www.challenge.gov/assets/images/wp-content/2018/02/Untitled-collage-1.png\"><img
-  class=\"alignleft wp-image-175635\" src=\"www.challenge.gov/assets/images/wp-content/2018/02/Untitled-collage-1-1024x95.png\"
+  Water Alliance (CWA)</li>\r\n</ul>\r\n<p style=\"text-align: justify;\"><a href=\"https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/02/Untitled-collage-1.png\"><img
+  class=\"alignleft wp-image-175635\" src=\"https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/02/Untitled-collage-1-1024x95.png\"
   alt=\"\" width=\"724\" height=\"67\" /></a></p>\r\n<hr />\r\n<h4 style=\"text-align:
   justify;\"><strong><span style=\"color: #339966;\">POWERPOINTS AND WEBINARS</span></strong></h4>\r\n<ul>\r\n<li>Webinar
   presented on 1-30-2018 where USGS and Casco Bay Estuary Partnership discuss best
-  practices for nutrient sensor deployment.\r\n<ul>\r\n<li><strong><a href=\"www.challenge.gov/assets/images/wp-content/2018/02/NSAC-Stage-II-Webinar-1-30-18.pdf\">USGS
+  practices for nutrient sensor deployment.\r\n<ul>\r\n<li><strong><a href=\"https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/02/NSAC-Stage-II-Webinar-1-30-18.pdf\">USGS
   Sensor Deployment NSAC Stage II Webinar 1-30-18</a></strong></li>\r\n</ul>\r\n</li>\r\n<li>Webinar
   presented on 2-6-2018 focusing on usage of web services that have been selected
-  to support the interoperability requirement.\r\n<ul>\r\n<li><strong><a href=\"www.challenge.gov/assets/images/wp-content/2018/02/NSAC-Stage-II-Webinar-2-6-18.pptx\">Interoperability
+  to support the interoperability requirement.\r\n<ul>\r\n<li><strong><a href=\"https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/02/NSAC-Stage-II-Webinar-2-6-18.pptx\">Interoperability
   NSAC Stage II Webinar 2-6-18</a></strong></li>\r\n</ul>\r\n</li>\r\n<li>Webinar
   presented on 2-22-2018 reviewing Stage I of the Nutrient Sensor Action Challenge
-  and looking forward to Stage II.\r\n<ul>\r\n<li><strong><a href=\"www.challenge.gov/assets/images/wp-content/2018/02/Preliminary-NSAC-Stage-II-Webinar-2_22_18.pptx\">Preliminary
+  and looking forward to Stage II.\r\n<ul>\r\n<li><strong><a href=\"https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/02/Preliminary-NSAC-Stage-II-Webinar-2_22_18.pptx\">Preliminary
   NSAC Stage II Webinar 2-22-18</a></strong></li>\r\n</ul>\r\n</li>\r\n<li>Webinar
   presented on 3-15-2018 summarizing Stage II of the Nutrient Sensor Action Challenge
-  and reviewing the Challenge.gov page.\r\n<ul>\r\n<li><strong><a href=\"www.challenge.gov/assets/images/wp-content/2018/02/NSAC-Public-Webinar-3-15-18.pptx\">NSAC
+  and reviewing the Challenge.gov page.\r\n<ul>\r\n<li><strong><a href=\"https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/02/NSAC-Public-Webinar-3-15-18.pptx\">NSAC
   Public Webinar 3-15-18</a></strong></li>\r\n<li>YouTube Video with Audio:&nbsp;<strong><a
   href=\"https://youtu.be/bJBo9oJtXpk\">https://youtu.be/bJBo9oJtXpk</a></strong></li>\r\n</ul>\r\n</li>\r\n</ul>\r\n<hr
   />\r\n<h4><strong><span style=\"color: #339966;\">FREQUENTLY ASKED QUESTIONS</span></strong></h4>\r\n<ul>\r\n<li><strong>Is
