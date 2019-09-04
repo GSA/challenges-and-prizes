@@ -18,6 +18,11 @@ submission-start: 2016/06/13 12:00 AM
 submission-end: 2019/09/30 11:00 PM
 submission-link: scientific
 prizes: true
+fiscal-year:
+legal-authority:
+challenge-manager: Monsi Roman, monsi.roman@nasa.gov
+challenge-manager-email: monsi.roman@nasa.gov
+
 ---
 
 
