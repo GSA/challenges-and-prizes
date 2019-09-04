@@ -58,20 +58,27 @@ challenge manager email: sarah.hughes@nist.gov
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p><strong><span lang="EN">Phase 1: $20,000</span></strong></p>
-<p><span lang="EN">Up to 20 contestants will be awarded an invitation to participate in Phase 2, Challenge Kickoff Webinar and awarded $1,000.</span></p>
-<p><strong>Phase 2: $20,000</strong></p>
-<p>Up to 10 contestants will be awarded an invitation to participate in Phase 3 and $2,000.</p>
-<p><strong>Phase 3: $60,000</strong></p>
-<p><span lang="EN">Up to 5 final awards:</span></p>
+<p><strong>Overview</strong></p>
+<p>The total prize purse is up to $100,000. For details of prizes, see the "Prizes" section in the&nbsp;<strong>Description</strong>&nbsp;tab.</p>
+<p><strong>Phase 1 &ndash; Concept Paper Prize Winners:</strong></p>
+<p>Congratulations to the Phase 1 winners:</p>
 <ul>
-<li><span lang="EN">1st: $30,000</span></li>
-<li>2nd: $15,000</li>
-<li>3rd: $7,500</li>
-<li>Creativity in Public Safety Award (optional): $4,000</li>
-<li><span lang="EN">Most Commercially Promising Award (optional): of business technical assistance valued up to $3,500.</span></li>
+<li>EST Solutions ($1,000)</li>
+<li>ENGR Dynamics ($1,000)</li>
+<li>Fractal Authentication ($1,000)</li>
+<li>Fortifyedge ($1,000)</li>
+<li>Rivetz ($1,000)</li>
+<li>Solokeys ($1,000)</li>
 </ul>
-<p>&nbsp;</p>
+<p><strong>Phase 2 &ndash; File Stored on SIM Card Prize Winners:</strong></p>
+<p>Congratulations to the Phase 1 winners:</p>
+<ul>
+<li>EST Solutions ($2,000)</li>
+<li>ENGR Dynamics ($2,000)</li>
+<li>Fortifyedge ($2,000)</li>
+<li>Rivetz ($2,000)</li>
+<li>Solokeys ($2,000)</li>
+</ul>
 
 <!-- end-prizes -->
 
