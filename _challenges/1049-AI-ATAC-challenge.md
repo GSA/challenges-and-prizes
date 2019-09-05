@@ -20,8 +20,8 @@ submission-link:
 prizes: true
 Legal Authority: Direct Prize Authority - DOD
 Fiscal Year: FY19, FY20
-Challenge Manager: Michael Karlbom
-Challenge Manager Email: michael.j.karlbom1@navy.mil
+Challenge Manager: Michael Karlbom, michael.j.karlbom1@navy.mil
+Challenge Manager Email: atac.prize.challenge@navy.mil
 ---
 
 <!-- Description start -->

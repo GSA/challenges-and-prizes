@@ -18,6 +18,10 @@ submission-start: 2018/06/12 12:00 AM
 submission-end: 2019/10/01 12:00 AM
 submission-link:  https://conservationx.com/challenge/invasives/chytrid
 prizes: true
+fiscal-year: FY18, FY19, FY20
+legal-authority:
+challenge-manager: Jeffrey Morisette, jeffrey_morisette@ios.doi.gov
+challenge-manager-email: jeffrey_morisette@ios.doi.gov
 ---
 
 
