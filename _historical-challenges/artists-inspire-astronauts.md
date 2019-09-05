@@ -196,22 +196,22 @@ campaignAttributes:
     winner-solution-title-1: ''
 memberIdeaSubmissionAllowed: true
 showTitle: true
-description: "<p><img src=\"www.challenge.gov/assets/images/ids-images/YOUR-ART-HERE-3.jpg\"
-  /></p>\r\n<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt;\">&nbsp;</p>\r\n<p
-  class=\"MsoNormal\" style=\"margin-bottom: .0001pt;\">The goal of this challenge
-  is to create an inspiring environment for astronauts before they head out on space
-  missions. NASA&rsquo;s Kennedy Space Center is seeking submissions for original
-  artwork to be displayed on a wall within the Astronaut Crew Quarters. The area is
-  one of the last places astronauts will spend time before heading for the launch
-  pad. Artwork on display may be visible during NASA video coverage of crew departure.</p>\r\n<p
-  class=\"MsoNormal\" style=\"margin-bottom: .0001pt;\">&nbsp;</p>\r\n<p><strong>Dates
-  and Deadlines</strong></p>\r\n<p>Entries must be submitted to Challenge.gov by <strong>Noon
-  Eastern time on Thursday, April 30, 2019</strong>.&nbsp;</p>\r\n<p><strong>The Challenge
-  begins:</strong> February 15, 2019&nbsp;<br /><strong>Submission Period:</strong>
-  February 15 &ndash; April 30, 2019 (300 dpi image, 12&rdquo; x 18&rdquo;)<br /><strong>Judging
-  Period:</strong> May 1 - June 1, 2019<br /><strong>Winners Notified No Later Than:</strong>
-  June 7, 2019&nbsp;<br /><strong>Winners Final Submission Due</strong>: June 28,
-  2019 (110 dpi image, 4&rsquo; x 6&rsquo; via CD/DVD)<br /><strong>Winners Announced:</strong>&nbsp;Summer
+description: "<p><img src=\"/assets/images/ids-images/YOUR-ART-HERE-3.jpg\" /></p>\r\n<p
+  class=\"MsoNormal\" style=\"margin-bottom: .0001pt;\">&nbsp;</p>\r\n<p class=\"MsoNormal\"
+  style=\"margin-bottom: .0001pt;\">The goal of this challenge is to create an inspiring
+  environment for astronauts before they head out on space missions. NASA&rsquo;s
+  Kennedy Space Center is seeking submissions for original artwork to be displayed
+  on a wall within the Astronaut Crew Quarters. The area is one of the last places
+  astronauts will spend time before heading for the launch pad. Artwork on display
+  may be visible during NASA video coverage of crew departure.</p>\r\n<p class=\"MsoNormal\"
+  style=\"margin-bottom: .0001pt;\">&nbsp;</p>\r\n<p><strong>Dates and Deadlines</strong></p>\r\n<p>Entries
+  must be submitted to Challenge.gov by <strong>Noon Eastern time on Thursday, April
+  30, 2019</strong>.&nbsp;</p>\r\n<p><strong>The Challenge begins:</strong> February
+  15, 2019&nbsp;<br /><strong>Submission Period:</strong> February 15 &ndash; April
+  30, 2019 (300 dpi image, 12&rdquo; x 18&rdquo;)<br /><strong>Judging Period:</strong>
+  May 1 - June 1, 2019<br /><strong>Winners Notified No Later Than:</strong> June
+  7, 2019&nbsp;<br /><strong>Winners Final Submission Due</strong>: June 28, 2019
+  (110 dpi image, 4&rsquo; x 6&rsquo; via CD/DVD)<br /><strong>Winners Announced:</strong>&nbsp;Summer
   2019</p>"
 campaignStatusName: Launched
 templateId: 0

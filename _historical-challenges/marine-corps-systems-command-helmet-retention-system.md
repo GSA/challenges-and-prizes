@@ -487,8 +487,8 @@ campaignAttributes:
 memberIdeaSubmissionAllowed: false
 showTitle: true
 description: "<p><img style=\"display: block; margin-left: auto; margin-right: auto;\"
-  src=\"www.challenge.gov/assets/images/ids-images/MEC_Challenge_HelmetRetentionSystem_NEW.jpg\"
-  width=\"857\" height=\"416\" /></p>\r\n<h4>&nbsp;</h4>\r\n<h4><strong>Problem Statement</strong></h4>\r\n<p>The
+  src=\"/assets/images/ids-images/MEC_Challenge_HelmetRetentionSystem_NEW.jpg\" width=\"857\"
+  height=\"416\" /></p>\r\n<h4>&nbsp;</h4>\r\n<h4><strong>Problem Statement</strong></h4>\r\n<p>The
   Marine Corps plans to field new, more capable night vision devices (NVDs) within
   the next year. While more capable, the new NVDs will be larger and heavier than
   currently fielded systems, raising concerns about helmet stability and comfort with
@@ -519,7 +519,7 @@ hideCommentAuthor: false
 authorizedGroupIds:
 - 28
 userSubscriptionAllowed: true
-bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.comwww.challenge.gov/assets/images/ids-images/MEC_Challenge_HelmetRetentionSystem_GOVSITEHEADER.png
+bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.com/assets/images/ids-images/MEC_Challenge_HelmetRetentionSystem_GOVSITEHEADER.png
 groupId: 27
 showTagline: true
 name: Marine Corps Systems Command Helmet Retention System

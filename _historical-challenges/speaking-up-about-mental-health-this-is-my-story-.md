@@ -166,8 +166,8 @@ campaignAttributes:
       lang=\"EN\">Participants under the age of 18</span><span lang=\"EN\">&nbsp;must
       also upload as part of their submission the Parent/Legal Guardian Consent Form,
       completed and signed by the parent or legal guardian of the participant. <a
-      href=\"www.challenge.gov/assets/images/ids-images/Parental-Consent-Form.docx\"
-      target=\"_blank\" rel=\"noopener\">Download the parental consent form</a>.</span></em></li>\r\n</ol>\r\n<p><span
+      href=\"/assets/images/ids-images/Parental-Consent-Form.docx\" target=\"_blank\"
+      rel=\"noopener\">Download the parental consent form</a>.</span></em></li>\r\n</ol>\r\n<p><span
       lang=\"EN\"><strong>NOTE:</strong> When submitting an essay, please note:&nbsp;
       It would be extremely helpful to the evaluation process if the name of all files
       you upload include your initials and the short title of the essay.&nbsp; So
@@ -421,7 +421,7 @@ hideCommentAuthor: false
 authorizedGroupIds:
 - 28
 userSubscriptionAllowed: true
-bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.comwww.challenge.gov/assets/images/ids-images/SpeakingUpChallengeBanner_948x186NEW.jpg
+bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.com/assets/images/ids-images/SpeakingUpChallengeBanner_948x186NEW.jpg
 groupId: 23
 showTagline: false
 name: 'Speaking Up About Mental Health! This Is My Story '

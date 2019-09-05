@@ -41,7 +41,7 @@ campaignAttributes:
     judging-end-date: ''
     solicitation-methods: ''
     advancing-the-agency-mission: ''
-    rules: <p>Read the full competition <a href="www.challenge.gov/assets/images/ids-images/ITEAM-Prize-Competition-Rules-Document.pdf">rules
+    rules: <p>Read the full competition <a href="/assets/images/ids-images/ITEAM-Prize-Competition-Rules-Document.pdf">rules
       document</a>.</p>
     submission-start-date-1: ''
     hide-challenge-timeline: 'No'
@@ -59,7 +59,7 @@ campaignAttributes:
     type-of-challenge: Ideas
     participation-requirements: ''
     number-of-phases: ''
-    how-to-enter: "<p>Before submitting, please familiarize yourself with the <a href=\"www.challenge.gov/assets/images/ids-images/ITEAM-Prize-Competition-Rules-Document.pdf\">full
+    how-to-enter: "<p>Before submitting, please familiarize yourself with the <a href=\"/assets/images/ids-images/ITEAM-Prize-Competition-Rules-Document.pdf\">full
       rules and guidelines for this competition</a>. By submitting, you are agreeing
       to the terms and conditions defined in that rules document.</p>\r\n<p><strong>Send
       submissions to&nbsp;<a href=\"mailto:iteamprize@ee.doe.gov\" target=\"_blank\"

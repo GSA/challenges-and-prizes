@@ -116,7 +116,7 @@ campaignAttributes:
       lang=\"EN\">For instructions on how to enter Phase 1, view the How to Enter
       tab or&nbsp;<a href=\"/a/buzz/challenge/1019/ideas/top#challenge-how-to-enter\">click
       here</a>.</span></p>\r\n<p align=\"center\"><span lang=\"EN\">&nbsp;</span></p>\r\n<p
-      align=\"center\"><a href=\"www.challenge.gov/assets/images/ids-images/NISTPSCR_ExpandingtheSIMCardUseforPublicSafety_OfficialRules.pdf\"
+      align=\"center\"><a href=\"/assets/images/ids-images/NISTPSCR_ExpandingtheSIMCardUseforPublicSafety_OfficialRules.pdf\"
       target=\"_blank\" rel=\"noopener\"><span lang=\"EN\">View the Official Rules
       document for all contest phases.</span></a></p>\r\n<p align=\"center\"><span
       lang=\"EN\">For questions about the Official Rules, contact:&nbsp;</span><span
@@ -196,7 +196,7 @@ campaignAttributes:
       degrees of certainty the contestant may have the potential to aid in the achievement
       of the goals of the challenge</p>\r\n<p>0: Contestant does not have the potential
       to aid in the achievement of the goals of the challenge</p>\r\n<p style=\"text-align:
-      center;\"><a href=\"www.challenge.gov/assets/images/ids-images/NISTPSCR_ExpandingtheSIMCardUseforPublicSafety_OfficialRules.pdf\"
+      center;\"><a href=\"/assets/images/ids-images/NISTPSCR_ExpandingtheSIMCardUseforPublicSafety_OfficialRules.pdf\"
       target=\"_blank\" rel=\"noopener\">View the Official Rules document for judging
       criteria for all other contest phases.</a></p>"
     judging-criteria-percentage-0: ''
@@ -297,13 +297,13 @@ campaignAttributes:
 memberIdeaSubmissionAllowed: true
 showTitle: true
 description: "<p><img style=\"display: block; margin-left: auto; margin-right: auto;\"
-  src=\"www.challenge.gov/assets/images/ids-images/timeline_SIMCard.png\" width=\"850\"
-  height=\"239\" /></p>\r\n<p><span lang=\"EN\">The National Institute of Standards
-  and Technology (NIST) Public Safety Communications Research (PSCR) Division and
-  its co-sponsors are requesting solvers&rsquo; assistance to explore the possibilities
-  and show that the Universal Integrated Circuit Card (UICC), commonly known as the
-  SIM card, can be used as a secure storage container for public safety application
-  credentials.&nbsp; Solvers are encouraged to participate in the <a href=\"http://www.publicsafetysimcard.com/\">Expanding
+  src=\"/assets/images/ids-images/timeline_SIMCard.png\" width=\"850\" height=\"239\"
+  /></p>\r\n<p><span lang=\"EN\">The National Institute of Standards and Technology
+  (NIST) Public Safety Communications Research (PSCR) Division and its co-sponsors
+  are requesting solvers&rsquo; assistance to explore the possibilities and show that
+  the Universal Integrated Circuit Card (UICC), commonly known as the SIM card, can
+  be used as a secure storage container for public safety application credentials.&nbsp;
+  Solvers are encouraged to participate in the <a href=\"http://www.publicsafetysimcard.com/\">Expanding
   the SIM Card Use for Public Safety Challenge</a> (the &ldquo;Challenge&rdquo;) for
   a total prize purse of up to $100,000.</span></p>\r\n<p><strong><span lang=\"EN\">Challenge
   Background &amp; Goals:</span></strong></p>\r\n<p><span lang=\"EN\">Public Safety
@@ -369,7 +369,7 @@ description: "<p><img style=\"display: block; margin-left: auto; margin-right: a
   mobile devices;</span></li>\r\n<li>Increased versatility by adding the ability to
   provision credentials to the SIM card remotely; and</li>\r\n<li>Potential cost savings
   as public safety units would not need to purchase separate hardware authentication
-  tokens.</li>\r\n</ul>\r\n<p style=\"text-align: center;\"><a href=\"www.challenge.gov/assets/images/ids-images/NISTPSCR_ExpandingtheSIMCardUseforPublicSafety_OfficialRules.pdf\"
+  tokens.</li>\r\n</ul>\r\n<p style=\"text-align: center;\"><a href=\"/assets/images/ids-images/NISTPSCR_ExpandingtheSIMCardUseforPublicSafety_OfficialRules.pdf\"
   target=\"_blank\" rel=\"noopener\"><span lang=\"EN\">View the complete summary of
   contest phases and key dates.</span></a></p>"
 campaignStatusName: Launched
@@ -383,7 +383,7 @@ hideCommentAuthor: false
 authorizedGroupIds:
 - 28
 userSubscriptionAllowed: true
-bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.comwww.challenge.gov/assets/images/ids-images/SIM-CARD-BANNER.jpg
+bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.com/assets/images/ids-images/SIM-CARD-BANNER.jpg
 groupId: 207
 showTagline: true
 name: Expanding the SIM Card Use for Public Safety Challenge

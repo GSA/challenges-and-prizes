@@ -40,7 +40,7 @@ campaignAttributes:
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: "<p>Below are the rules on eligibility and submissions, as well as additional
-      terms and conditions. Please read&nbsp; the <a href=\"www.challenge.gov/assets/images/ids-images/3.2_TechtoProtectChallenge_Program-Rules.FINAL.4.1.19.pdf\"
+      terms and conditions. Please read&nbsp; the <a href=\"/assets/images/ids-images/3.2_TechtoProtectChallenge_Program-Rules.FINAL.4.1.19.pdf\"
       target=\"_blank\" rel=\"noopener\">Official Rules document</a> for detailed
       rules on all aspects of this challenge.</p>\r\n<p>---</p>\r\n<p><strong>7. SUBMISSION
       AND ELIGIBILITY REQUIREMENTS</strong></p>\r\n<p><strong>7.1 SUBMISSION REQUIREMENTS</strong></p>\r\n<p>In
@@ -340,7 +340,7 @@ campaignAttributes:
       30px;\"><span lang=\"EN\">5. Be sure to have your best and final submission
       submitted by November 15, 2019 &mdash; this is the &ldquo;code freeze&rdquo;
       submission deadline for all participants.</span></p>\r\n<p style=\"text-align:
-      center;\"><a href=\"www.challenge.gov/assets/images/ids-images/3.2_TechtoProtectChallenge_Program-Rules.FINAL.4.1.19.pdf\"
+      center;\"><a href=\"/assets/images/ids-images/3.2_TechtoProtectChallenge_Program-Rules.FINAL.4.1.19.pdf\"
       target=\"_blank\" rel=\"noopener\">View the Official Rules document for a complete
       summary of important dates.</a></p>"
     partnerships: ''
@@ -401,7 +401,7 @@ campaignAttributes:
       but in general examples may include aspects such as the application&rsquo;s
       UI/UX operability, accuracy, effectiveness, relevance to the contest&rsquo;s
       sample use case, and other similar elements.</p>\r\n<p><img style=\"display:
-      block; margin-left: auto; margin-right: auto;\" src=\"www.challenge.gov/assets/images/ids-images/TTP_evaluation_table.jpg\"
+      block; margin-left: auto; margin-right: auto;\" src=\"/assets/images/ids-images/TTP_evaluation_table.jpg\"
       width=\"671\" height=\"243\" /></p>"
     judging-criteria-percentage-1: ''
     judging-criteria-1: Evaluation Criteria
@@ -784,7 +784,7 @@ campaignAttributes:
     judging-criteria-5: Evaluation Criteria
     judging-criteria-description-5: <p>The Tech to Protect Challenge includes 10 unique
       contests &ndash; each with a specific focus. Complete evaluation criteria are
-      included in the <a href="www.challenge.gov/assets/images/ids-images/3.2_TechtoProtectChallenge_Program-Rules.FINAL.4.1.19.pdf"
+      included in the <a href="/assets/images/ids-images/3.2_TechtoProtectChallenge_Program-Rules.FINAL.4.1.19.pdf"
       target="_blank" rel="noopener">Official Rules document</a>.</p>
   - judging-criteria-6: ''
     judging-criteria-percentage-6: ''
@@ -870,31 +870,30 @@ campaignAttributes:
 memberIdeaSubmissionAllowed: true
 showTitle: false
 friendlyUrlKey: tech-to-protect
-description: "<p><img src=\"www.challenge.gov/assets/images/ids-images/image002.png\"
-  width=\"858\" height=\"210\" /></p>\r\n<p><span lang=\"EN\">The Tech to Protect
-  Challenge is an open innovation opportunity led by the National Institute of Standards
-  and Technology (NIST), Public Safety Communications Research (PSCR) Division. Taking
-  place throughout 2019 in ten different cities across the country, the challenge
-  features ten contests which allow for on-line and in-person participation. Each
-  contest is designed to develop new, creative technologies to address issues faced
-  by fire, law enforcement and EMS emergency responders.</span></p>\r\n<p><span lang=\"EN\">The
-  Tech to Protect Challenge is designed to engage entrepreneurs, technologists, students,
-  programmers, designers and public safety experts to create solutions across critical
-  technical areas of public safety communications, including secure communications,
-  location-based services, public safety data analytics, mission-critical voice and
-  user interface/user experience (UI/UX). The participant proposed solutions will
-  support emergency responders&rsquo; use of advanced communications technologies
-  in accomplishing their day to day activities, critical responsibilities in emergencies,
-  and beyond.</span></p>\r\n<p><span lang=\"EN\">Over the course of 2019-2020, the
-  challenge will include ten unique contests, host ten codeathons in cities across
-  the United States, and award up to $2.2 million in cash prizes to participants.
-  The challenge invites participants of all skill levels; provides opportunities to
-  engage with subject matter experts; and offers access to resources needed to develop
-  viable technology prototypes and solutions. The ten in-person codeathon events will
-  take place in two bursts, September 27-29 and November 1-3, 2019, with the Online
-  Contest launching a rolling application period between June 1 and November 15, 2019.
-  Ultimately, a final national award event will be hosted in April 2020 to showcase
-  and make the final cash awards to the top performing participants.</span></p>\r\n<p><span
+description: "<p><img src=\"/assets/images/ids-images/image002.png\" width=\"858\"
+  height=\"210\" /></p>\r\n<p><span lang=\"EN\">The Tech to Protect Challenge is an
+  open innovation opportunity led by the National Institute of Standards and Technology
+  (NIST), Public Safety Communications Research (PSCR) Division. Taking place throughout
+  2019 in ten different cities across the country, the challenge features ten contests
+  which allow for on-line and in-person participation. Each contest is designed to
+  develop new, creative technologies to address issues faced by fire, law enforcement
+  and EMS emergency responders.</span></p>\r\n<p><span lang=\"EN\">The Tech to Protect
+  Challenge is designed to engage entrepreneurs, technologists, students, programmers,
+  designers and public safety experts to create solutions across critical technical
+  areas of public safety communications, including secure communications, location-based
+  services, public safety data analytics, mission-critical voice and user interface/user
+  experience (UI/UX). The participant proposed solutions will support emergency responders&rsquo;
+  use of advanced communications technologies in accomplishing their day to day activities,
+  critical responsibilities in emergencies, and beyond.</span></p>\r\n<p><span lang=\"EN\">Over
+  the course of 2019-2020, the challenge will include ten unique contests, host ten
+  codeathons in cities across the United States, and award up to $2.2 million in cash
+  prizes to participants. The challenge invites participants of all skill levels;
+  provides opportunities to engage with subject matter experts; and offers access
+  to resources needed to develop viable technology prototypes and solutions. The ten
+  in-person codeathon events will take place in two bursts, September 27-29 and November
+  1-3, 2019, with the Online Contest launching a rolling application period between
+  June 1 and November 15, 2019. Ultimately, a final national award event will be hosted
+  in April 2020 to showcase and make the final cash awards to the top performing participants.</span></p>\r\n<p><span
   lang=\"EN\">Participants with diverse skill sets and varying levels of experience
   are welcome and encouraged to participate:</span></p>\r\n<ul>\r\n<li>Students, professionals
   and entrepreneurs with technical and non-technical backgrounds including engineers,
@@ -923,7 +922,7 @@ authorizedGroupIds:
 - 7052
 - 28
 userSubscriptionAllowed: true
-bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.comwww.challenge.gov/assets/images/ids-images/T2P-Banner-FINAL.jpg
+bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.com/assets/images/ids-images/T2P-Banner-FINAL.jpg
 groupId: 207
 showTagline: false
 name: Tech to Protect Challenge

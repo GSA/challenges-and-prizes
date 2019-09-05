@@ -65,7 +65,7 @@ campaignAttributes:
       narrative may include a link to privately hosted video (such as YouTube, Google
       Drive, OneDrive or similar), to demonstrate and/or present the functions of
       the prototype. The total duration of the video cannot exceed 10 minutes.</li>\r\n<li>The
-      Career Compass Challenge judging team plans to test using <a href=\"www.challenge.gov/assets/images/ids-images/User-Personas.pdf\"
+      Career Compass Challenge judging team plans to test using <a href=\"/assets/images/ids-images/User-Personas.pdf\"
       target=\"_blank\" rel=\"noopener\">NSF Persona(s).</a>&nbsp;These are five mock
       NSF employee profiles that each contain the person's demographics, his or her
       individual goals for using your reskilling prototype, and other information
@@ -115,7 +115,7 @@ campaignAttributes:
       NSF nonexclusive rights to use their names, likenesses, and quotes for educational,
       publicity, and/or promotional purposes.&nbsp; This includes, but is not limited
       to, website display, print materials, and exhibits.&nbsp;</li>\r\n</ul>\r\n<p>Click
-      here to view <a href=\"www.challenge.gov/assets/images/ids-images/NSF-Career-Compass-Challenge_Part-1-Rules.pdf\"
+      here to view <a href=\"/assets/images/ids-images/NSF-Career-Compass-Challenge_Part-1-Rules.pdf\"
       target=\"_blank\" rel=\"noopener\">Part 1 Entry Guidelines.</a></p>"
     submission-start-date-1: ''
     hide-challenge-timeline: 'Yes'
@@ -676,7 +676,7 @@ campaignAttributes:
       which proposed solution demonstrates implementation feasibility across intended
       platforms, sites, and/or users</li>\r\n<li>Extent to which proposed solution
       indicates potential for sustainability and profitability</li>\r\n</ul>\r\n</li>\r\n</ul>\r\n<p>Click
-      here to read <a href=\"www.challenge.gov/assets/images/ids-images/NSF-Career-Compass-Challenge_Part-1-Judging-Criteria.pdf\"
+      here to read <a href=\"/assets/images/ids-images/NSF-Career-Compass-Challenge_Part-1-Judging-Criteria.pdf\"
       target=\"_blank\" rel=\"noopener\">Part 1 Judging Criteria.</a></p>"
     judging-criteria-percentage-0: ''
     judging-criteria-0: How will Concept Papers submitted in Part 2 of the challenge
@@ -1174,12 +1174,12 @@ campaignAttributes:
       to be eligible to win Part 1 prize monies, the submitter must agree to have
       their winning concept materials posted on Challenge.gov and for the Part 2 solver
       community to be able to leverage the concept materials for prototype development.</p>\r\n<p><strong>PHASE
-      ONE WINNING CONCEPTS:</strong></p>\r\n<ul>\r\n<li><a href=\"www.challenge.gov/assets/images/ids-images/A-GPS-for-Learning-and-Work---Smith---UMUC.pdf\">Needed:
-      A GPS for Learning and Work</a></li>\r\n<li><a href=\"www.challenge.gov/assets/images/ids-images/ETAG---Edwards---Elmhurst-College.PDF\">E-TAG:
-      Employee Training and Growth through Electronic Games</a></li>\r\n<li><a href=\"www.challenge.gov/assets/images/ids-images/My-Career-Compass---C2---GMU.pdf\">My
-      Career Compass</a></li>\r\n<li><a href=\"www.challenge.gov/assets/images/ids-images/ACCESS---Chen---NYU-Med.pdf\">ACCESS:
+      ONE WINNING CONCEPTS:</strong></p>\r\n<ul>\r\n<li><a href=\"/assets/images/ids-images/A-GPS-for-Learning-and-Work---Smith---UMUC.pdf\">Needed:
+      A GPS for Learning and Work</a></li>\r\n<li><a href=\"/assets/images/ids-images/ETAG---Edwards---Elmhurst-College.PDF\">E-TAG:
+      Employee Training and Growth through Electronic Games</a></li>\r\n<li><a href=\"/assets/images/ids-images/My-Career-Compass---C2---GMU.pdf\">My
+      Career Compass</a></li>\r\n<li><a href=\"/assets/images/ids-images/ACCESS---Chen---NYU-Med.pdf\">ACCESS:
       An Integrated Service Platform for Preparing Future Workforce</a></li>\r\n<li><a
-      href=\"www.challenge.gov/assets/images/ids-images/Career-Charting-App---Woolf---UMA.pdf\">The
+      href=\"/assets/images/ids-images/Career-Charting-App---Woolf---UMA.pdf\">The
       Career CHARTING App</a></li>\r\n</ul>"
     prize-cash-amount-0: ''
     prize-name-0: Part 1
@@ -1718,11 +1718,11 @@ description: "<p><!-- [if gte mso 9]><xml>\r\n <o:OfficeDocumentSettings>\r\n  <
   />gov</a>&nbsp;before each webinar. The NSF Career Compass Challenge team will answer
   them live!&nbsp;</p>\r\n<p><strong>April 26, 2019 Part 2 Introductory Webinar Resources</strong></p>\r\n<ul>\r\n<li><a
   href=\"https://players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6039401792001\"
-  target=\"_blank\" rel=\"noopener\">Webinar video</a></li>\r\n<li><a href=\"www.challenge.gov/assets/images/ids-images/Career-Compass-Challenge-Part-2-Kickoff-Webinar_04.26.2019.pdf\"
-  target=\"_blank\" rel=\"noopener\">Slide presentation</a></li>\r\n<li><a href=\"www.challenge.gov/assets/images/ids-images/Webinar-1-Poll-Results.pdf\"
+  target=\"_blank\" rel=\"noopener\">Webinar video</a></li>\r\n<li><a href=\"/assets/images/ids-images/Career-Compass-Challenge-Part-2-Kickoff-Webinar_04.26.2019.pdf\"
+  target=\"_blank\" rel=\"noopener\">Slide presentation</a></li>\r\n<li><a href=\"/assets/images/ids-images/Webinar-1-Poll-Results.pdf\"
   target=\"_blank\" rel=\"noopener\">Live poll results</a></li>\r\n</ul>\r\n<p><strong>May
   23, 2019 Part 2 Webinar &ndash; 1:00 PM ET&nbsp;</strong></p>\r\n<ul>\r\n<li><a
-  href=\"www.challenge.gov/assets/images/ids-images/CCC-Part-2-May-Webinar.pdf\" target=\"_blank\"
+  href=\"/assets/images/ids-images/CCC-Part-2-May-Webinar.pdf\" target=\"_blank\"
   rel=\"noopener\">Slide Presentation</a></li>\r\n</ul>\r\n<p><strong>June 19, 2019
   Part 2 Webinar&nbsp;&ndash; 1:00 PM ET&nbsp;</strong></p>\r\n<ul>\r\n<li>Virtual
   presentation &ndash; Details coming soon&nbsp;</li>\r\n</ul>\r\n<p><strong>STAY
@@ -1743,8 +1743,8 @@ description: "<p><!-- [if gte mso 9]><xml>\r\n <o:OfficeDocumentSettings>\r\n  <
   even the private sector).&nbsp; Read the winning submissions on the PRIZES tab.&nbsp;
   &nbsp;</p>\r\n<p>While five submissions were chosen as prize winners in Part 1,
   only one successful prototype will be selected to win the Part 2 prize purse of
-  $75,000.</p>\r\n<p>Click <a href=\"www.challenge.gov/assets/images/ids-images/FAQs.pdf\"
-  target=\"_blank\" rel=\"noopener\">here</a> for Part 2 Frequently Asked Questions.</p>\r\n<p><span
+  $75,000.</p>\r\n<p>Click <a href=\"/assets/images/ids-images/FAQs.pdf\" target=\"_blank\"
+  rel=\"noopener\">here</a> for Part 2 Frequently Asked Questions.</p>\r\n<p><span
   style=\"text-decoration: underline;\"><strong>ABOUT THE COMPETITION</strong></span></p>\r\n<p><em><strong>NSF
   has a hypothesis.</strong></em></p>\r\n<p>Technology is changing the way we do our
   work, and the work itself. To keep up, the National Science Foundation (NSF)&nbsp;plans
@@ -1764,11 +1764,11 @@ description: "<p><!-- [if gte mso 9]><xml>\r\n <o:OfficeDocumentSettings>\r\n  <
   incorporate learning and development needs (traditional, non-traditional, and experiential),
   and that provides direct access to options for obtaining the relevant expertise
   to ready the individual for the chosen work.&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p><!--EndFragment--></p>\r\n<p><img
-  src=\"www.challenge.gov/assets/images/ids-images/Future-Federal-Workforce.PNG\"
-  width=\"742\" height=\"513\" /></p>\r\n<p><!-- [if gte mso 9]><xml>\r\n <o:OfficeDocumentSettings>\r\n
-  \ <o:AllowPNG/>\r\n </o:OfficeDocumentSettings>\r\n</xml><![endif]--> <!-- [if gte
-  mso 9]><xml>\r\n <w:WordDocument>\r\n  <w:View>Normal</w:View>\r\n  <w:Zoom>0</w:Zoom>\r\n
-  \ <w:TrackMoves/>\r\n  <w:TrackFormatting/>\r\n  <w:PunctuationKerning/>\r\n  <w:ValidateAgainstSchemas/>\r\n
+  src=\"/assets/images/ids-images/Future-Federal-Workforce.PNG\" width=\"742\" height=\"513\"
+  /></p>\r\n<p><!-- [if gte mso 9]><xml>\r\n <o:OfficeDocumentSettings>\r\n  <o:AllowPNG/>\r\n
+  </o:OfficeDocumentSettings>\r\n</xml><![endif]--> <!-- [if gte mso 9]><xml>\r\n
+  <w:WordDocument>\r\n  <w:View>Normal</w:View>\r\n  <w:Zoom>0</w:Zoom>\r\n  <w:TrackMoves/>\r\n
+  \ <w:TrackFormatting/>\r\n  <w:PunctuationKerning/>\r\n  <w:ValidateAgainstSchemas/>\r\n
   \ <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>\r\n  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>\r\n
   \ <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>\r\n  <w:DoNotPromoteQF/>\r\n
   \ <w:LidThemeOther>EN-US</w:LidThemeOther>\r\n  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>\r\n

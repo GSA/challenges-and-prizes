@@ -226,11 +226,11 @@ campaignAttributes:
     winner-name-2: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: "<p><img src=\"www.challenge.gov/assets/images/ids-images/Knee--Elbow-LinkedIn.jpg\"
-  width=\"919\" height=\"481\" /></p>\r\n<p><strong>Problem Statement:</strong></p>\r\n<p>The
-  Marine Corps seeks new and innovative ideas and solutions that improve the currently
-  fielded knee and elbow pads&rsquo; comfort. &nbsp;The current knee and elbow pads
-  secure to the leg or arm with elastic bands, negatively affecting comfort, maneuverability,
+description: "<p><img src=\"/assets/images/ids-images/Knee--Elbow-LinkedIn.jpg\" width=\"919\"
+  height=\"481\" /></p>\r\n<p><strong>Problem Statement:</strong></p>\r\n<p>The Marine
+  Corps seeks new and innovative ideas and solutions that improve the currently fielded
+  knee and elbow pads&rsquo; comfort. &nbsp;The current knee and elbow pads secure
+  to the leg or arm with elastic bands, negatively affecting comfort, maneuverability,
   and stability. &nbsp;Knee and elbow pad ideas and solutions that enhance the Marines&rsquo;
   comfort, maneuverability, and stability, and can either integrate into the trousers
   and blouse or are stand-alone items are sought.</p>\r\n<p>The desired end-state
@@ -285,7 +285,7 @@ moderatorAdminOnlyIdeasNotificationEnabled: true
 hideCommentAuthor: false
 authorizedGroupIds: []
 userSubscriptionAllowed: true
-bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.comwww.challenge.gov/assets/images/ids-images/MEC_Challenge_KneeElbow_GOVSITEHEADER.PNG
+bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.com/assets/images/ids-images/MEC_Challenge_KneeElbow_GOVSITEHEADER.PNG
 groupId: 27
 showTagline: true
 name: USMC Knee and Elbow Pad Innovation

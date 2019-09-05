@@ -75,8 +75,8 @@ campaignAttributes:
       (see graphic below). Background may be any color. Exact placement of the objects
       within the frame (side to side and height) are not critical, as long as objects
       are fully in the frame and in a plane 2.5 meters from the imager.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p><img
-      src=\"www.challenge.gov/assets/images/ids-images/5_Detailed_Challenge_Diagram.jpg\"
-      width=\"853\" height=\"876\" /></p>\r\n<p><strong>Judging:</strong></p>\r\n<ul>\r\n<li>Judging
+      src=\"/assets/images/ids-images/5_Detailed_Challenge_Diagram.jpg\" width=\"853\"
+      height=\"876\" /></p>\r\n<p><strong>Judging:</strong></p>\r\n<ul>\r\n<li>Judging
       occurs in two phases:\r\n<ul>\r\n<li style=\"list-style-type: none;\">&nbsp;All
       entries will be reviewed by mechanical engineers at JPL, and down selected to
       the top 6.&nbsp;</li>\r\n<li>The top 6 entries will then be judged by senior
@@ -602,8 +602,8 @@ description: "<p>With its sulfuric acid clouds, temperatures over 450&deg;C, and
   They will also receive a &ldquo;behind the scenes&rdquo; tour and a 3D printed Commemorative
   Mechanical Maker Challenge Coin.</p>\r\n<p>Second and third place will get serious
   bragging rights with a 3D printed Commemorative Mechanical Maker Challenge Coin.</p>\r\n<p><img
-  src=\"www.challenge.gov/assets/images/ids-images/Challenge_Description.png\" width=\"802\"
-  height=\"435\" /></p>"
+  src=\"/assets/images/ids-images/Challenge_Description.png\" width=\"802\" height=\"435\"
+  /></p>"
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []

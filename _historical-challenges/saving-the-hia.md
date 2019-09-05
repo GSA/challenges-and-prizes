@@ -184,7 +184,7 @@ description: "<p>Devastating fungi are killing Hawaii&rsquo;s iconic ʻŌhiʻa t
   of Hawaii's landscape? Take up the challenge, be a HERO, win up $70,000, and establish
   yourself as a leader in the fungus world!</p>\r\n<h4><strong>The Challenge</strong></h4>\r\n<p><a
   href=\"https://fast.wistia.net/embed/iframe/w834dhmmgo?wmode\" target=\"_blank\"
-  rel=\"noopener\"><img src=\"www.challenge.gov/assets/images/ids-images/OHIA-Video-Screengrab.png\"
+  rel=\"noopener\"><img src=\"/assets/images/ids-images/OHIA-Video-Screengrab.png\"
   width=\"500\" /></a></p>\r\n<p><a href=\"http://www.savetheohia.org\" target=\"_blank\"
   rel=\"noopener\">Saving the ʻŌhiʻa</a> is an innovation competition that seeks novel
   turn-key tools and creative solutions to rapidly and inexpensively detect the fungal
@@ -213,7 +213,7 @@ hideCommentAuthor: false
 authorizedGroupIds:
 - 28
 userSubscriptionAllowed: true
-bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.comwww.challenge.gov/assets/images/ids-images/ohia_1920x250-1.png
+bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.com/assets/images/ids-images/ohia_1920x250-1.png
 groupId: 120
 showTagline: true
 name: Saving the 'Ōhiʻa

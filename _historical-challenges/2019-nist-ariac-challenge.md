@@ -166,7 +166,7 @@ campaignAttributes:
       cost choices made by each team will be divided by a baseline cost of $1700 and
       made into a cost factor for the scoring. The team costs are designated as TC,
       and the baseline cost is designated as BC. The cost factor, is then calculated
-      as:&nbsp;</p>\r\n<p><img src=\"www.challenge.gov/assets/images/ids-images/ARIAC-Cost-Metrics.png\"
+      as:&nbsp;</p>\r\n<p><img src=\"/assets/images/ids-images/ARIAC-Cost-Metrics.png\"
       width=\"150\" /></p>\r\n<h4><strong>Completion Score</strong></h4>\r\n<p>Performance
       metrics that cover both completion and efficiency are calculated for each Trial
       separately. Completion captures the quality of the orders fulfilled (that the
@@ -182,7 +182,7 @@ campaignAttributes:
       main focus of the competition is to have fulfilled orders, any order with all
       of the products in the confines of the box and in the correct position/orientation
       receives an additional point for each product. So, for an order sj with i products
-      in it would have a maximum score of:</p>\r\n<p><img src=\"www.challenge.gov/assets/images/ids-images/ARIAC-Completion-Score.png\"
+      in it would have a maximum score of:</p>\r\n<p><img src=\"/assets/images/ids-images/ARIAC-Completion-Score.png\"
       width=\"150\" /></p>\r\n<h4><strong>Efficiency Factor</strong></h4>\r\n<p>The
       Efficiency of the approaches chosen by the teams are accounted for in the scoring
       by using the times that each team takes to complete each trial. The times are
@@ -197,10 +197,10 @@ campaignAttributes:
       additional multiplier, h, is applied with the efficiency factor to give a higher
       proportion of the score to that order, which is initially set to a value of
       3. The final h value will be made available to the Participants at least two
-      weeks before the finals.</p>\r\n<p><img src=\"www.challenge.gov/assets/images/ids-images/ARIAC-Efficiency-Factor.png\"
+      weeks before the finals.</p>\r\n<p><img src=\"/assets/images/ids-images/ARIAC-Efficiency-Factor.png\"
       width=\"200\" /></p>\r\n<h4><strong>Trial Score Calculation</strong></h4>\r\n<p>All
       of the scoring factors described above are combined as shown below to calculate
-      the score for each trial:&nbsp;</p>\r\n<p><img src=\"www.challenge.gov/assets/images/ids-images/ARIAC-Trial-Score-Calculation.png\"
+      the score for each trial:&nbsp;</p>\r\n<p><img src=\"/assets/images/ids-images/ARIAC-Trial-Score-Calculation.png\"
       width=\"600\" /></p>\r\n<h4><strong>Final Score Calculation</strong></h4>\r\n<p>The
       final overall score is the equally weighted sum of all trial scores. As mentioned
       in the Competition Scenarios section, trials are expected to focus on the Baseline

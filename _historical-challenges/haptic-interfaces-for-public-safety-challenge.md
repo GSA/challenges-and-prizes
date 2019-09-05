@@ -93,7 +93,7 @@ campaignAttributes:
       lang=\"EN\">For instructions on how to enter Phase 3, view the How to Enter
       tab or <a href=\"/a/buzz/challenge/1003/ideas/top#challenge-how-to-enter\">click
       here</a>.</span></p>\r\n<div style=\"text-align: center;\">&nbsp;</div>\r\n<div
-      style=\"text-align: center;\"><a href=\"www.challenge.gov/assets/images/ids-images/PSCR_HapticInterfacesforPublicSafetyChallenge_OfficialRules.pdf\"
+      style=\"text-align: center;\"><a href=\"/assets/images/ids-images/PSCR_HapticInterfacesforPublicSafetyChallenge_OfficialRules.pdf\"
       target=\"_blank\" rel=\"noopener\"><strong><span lang=\"EN\">View the Official
       Rules document for all contest phases.</span></strong></a></div>\r\n<div style=\"text-align:
       center;\"><span lang=\"EN\">For questions about the Official Rules, contact:&nbsp;<a
@@ -135,7 +135,7 @@ campaignAttributes:
       auto; line-height: normal; mso-list: l0 level1 lfo2; tab-stops: list .5in;\">The
       contestants with compliant designs and the greatest functionality will advance
       to the next contest in the challenge.&nbsp;</li>\r\n</ul>\r\n<p style=\"text-align:
-      center;\"><a href=\"www.challenge.gov/assets/images/ids-images/PSCR_HapticInterfacesforPublicSafetyChallenge_OfficialRules.pdf\"
+      center;\"><a href=\"/assets/images/ids-images/PSCR_HapticInterfacesforPublicSafetyChallenge_OfficialRules.pdf\"
       target=\"_blank\" rel=\"noopener\"><strong><span lang=\"EN\">View the Official
       Rules document for details on entering all other contest phases.</span></strong></a></p>"
     partnerships: ''
@@ -150,7 +150,7 @@ campaignAttributes:
       the virtual scenario.</li>\r\n<li><!--[endif]-->The haptic interface is integrated
       into the virtual environment and is not triggered by external user input (e.g.,
       controller, mobile phone app).</li>\r\n</ul>\r\n<p style=\"text-align: center;\"><a
-      href=\"www.challenge.gov/assets/images/ids-images/PSCR_HapticInterfacesforPublicSafetyChallenge_OfficialRules.pdf\"
+      href=\"/assets/images/ids-images/PSCR_HapticInterfacesforPublicSafetyChallenge_OfficialRules.pdf\"
       target=\"_blank\" rel=\"noopener\">View the Official Rules document for judging
       criteria for all other contest phases</a>.</p>"
     judging-criteria-percentage-0: ''
@@ -278,24 +278,23 @@ campaignAttributes:
     winner-name-2: ''
 memberIdeaSubmissionAllowed: true
 showTitle: true
-description: "<p><img src=\"www.challenge.gov/assets/images/ids-images/timeline_haptics-3.jpg\"
-  width=\"861\" height=\"242\" /></p>\r\n<p><span lang=\"EN\">The National Institute
-  of Standards and Technology (NIST) Public Safety Communications Research (PSCR)
-  Division is hosting the <a href=\"https://publicsafetyhaptics.com/\" target=\"_blank\"
-  rel=\"noopener\">Haptic Interfaces for Public Safety Challenge</a>. Up to $425,000
-  will be awarded to winning teams that create haptic interface prototypes that could
-  improve public safety operations.</span></p>\r\n<p><span lang=\"EN\">Public safety
-  officials perform tasks in a variety of environments that severely limit their senses
-  and ability to communicate. </span><span lang=\"EN\">This </span><span lang=\"EN\">challenge
-  seeks to investigate the relevance of haptic interfaces assisting in first responder
-  tasks</span><span lang=\"EN\">, such as monitoring patient vitals, navigating complex
-  spaces with limited visibility, or maintaining situational awareness. </span><span
-  lang=\"EN\">The challenge consists of multiple phases and will require contestants
-  to develop three haptic interface prototypes to be integrated into PSCR-provided
-  virtual reality scenarios as well as a final haptic prototype embedded into firefighter
-  PPE for use in a search and rescue task.</span><span lang=\"EN\"> Contestants will
-  also have the opportunity to demo their initial prototypes with first responders
-  at <a href=\"https://www.nist.gov/ctl/pscr/2019-public-safety-broadband-stakeholder-meeting\">the
+description: "<p><img src=\"/assets/images/ids-images/timeline_haptics-3.jpg\" width=\"861\"
+  height=\"242\" /></p>\r\n<p><span lang=\"EN\">The National Institute of Standards
+  and Technology (NIST) Public Safety Communications Research (PSCR) Division is hosting
+  the <a href=\"https://publicsafetyhaptics.com/\" target=\"_blank\" rel=\"noopener\">Haptic
+  Interfaces for Public Safety Challenge</a>. Up to $425,000 will be awarded to winning
+  teams that create haptic interface prototypes that could improve public safety operations.</span></p>\r\n<p><span
+  lang=\"EN\">Public safety officials perform tasks in a variety of environments that
+  severely limit their senses and ability to communicate. </span><span lang=\"EN\">This
+  </span><span lang=\"EN\">challenge seeks to investigate the relevance of haptic
+  interfaces assisting in first responder tasks</span><span lang=\"EN\">, such as
+  monitoring patient vitals, navigating complex spaces with limited visibility, or
+  maintaining situational awareness. </span><span lang=\"EN\">The challenge consists
+  of multiple phases and will require contestants to develop three haptic interface
+  prototypes to be integrated into PSCR-provided virtual reality scenarios as well
+  as a final haptic prototype embedded into firefighter PPE for use in a search and
+  rescue task.</span><span lang=\"EN\"> Contestants will also have the opportunity
+  to demo their initial prototypes with first responders at <a href=\"https://www.nist.gov/ctl/pscr/2019-public-safety-broadband-stakeholder-meeting\">the
   2019 Public Safety Broadband Stakeholder Meeting</a> in Chicago, IL.PSCR will assess
   the efficiency, effectiveness, and level of user satisfaction of the haptic interface
   prototypes and their ability to assist first responders in conducting their tasks.
@@ -335,7 +334,7 @@ description: "<p><img src=\"www.challenge.gov/assets/images/ids-images/timeline_
   encouraged to develop multiple sets of prototypes throughout the challenge, in anticipation
   of this PSCR keeping the prototypes for demonstrations, and in case the contestants
   experience technical difficulties during later phases of the challenge.</span></p>\r\n<p
-  style=\"text-align: center;\"><strong><span lang=\"EN\"><span lang=\"EN\"><a href=\"www.challenge.gov/assets/images/ids-images/PSCR_HapticInterfacesforPublicSafetyChallenge_OfficialRules.pdf\"
+  style=\"text-align: center;\"><strong><span lang=\"EN\"><span lang=\"EN\"><a href=\"/assets/images/ids-images/PSCR_HapticInterfacesforPublicSafetyChallenge_OfficialRules.pdf\"
   target=\"_blank\" rel=\"noopener\">View the a complete summary of contest phases
   and key dates</a>.</span></span></strong></p>"
 campaignStatusName: Launched
@@ -349,7 +348,7 @@ hideCommentAuthor: false
 authorizedGroupIds:
 - 28
 userSubscriptionAllowed: true
-bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.comwww.challenge.gov/assets/images/ids-images/challengeheadertitle.jpg
+bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.com/assets/images/ids-images/challengeheadertitle.jpg
 groupId: 207
 showTagline: true
 name: Haptic Interfaces for Public Safety Challenge

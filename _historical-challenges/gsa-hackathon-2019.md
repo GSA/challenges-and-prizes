@@ -178,7 +178,7 @@ campaignAttributes:
       will only present and be judged against the same problem set. The judges will
       be evaluating each solution as if they are the application user. The round will
       be judged based on the following criteria with each judge independently scoring
-      the solution on a scale of 1 to 5; for more information, please see the <a href=\"www.challenge.gov/assets/images/ids-images/Round-1_-GSA-Judging-Form-.docx\"
+      the solution on a scale of 1 to 5; for more information, please see the <a href=\"/assets/images/ids-images/Round-1_-GSA-Judging-Form-.docx\"
       target=\"_blank\" rel=\"noopener\">Round 1 Judging Form</a>.</p>\r\n<p dir=\"ltr\">The
       judges&rsquo; scores will then be calculated into a weighted percentage as detailed
       below. The highest scoring solution in each problem set will be the winner.</p>\r\n<p
@@ -214,7 +214,7 @@ campaignAttributes:
       from Round 1 judging. The judges will be evaluating each solution as if they
       are the application user. The round will be judged based on the following criteria
       with each judge independently scoring the solution on a scale of 1 to 5; for
-      more information, please see the <a href=\"www.challenge.gov/assets/images/ids-images/Round-2_-GSA-Judging-Form-.docx\"
+      more information, please see the <a href=\"/assets/images/ids-images/Round-2_-GSA-Judging-Form-.docx\"
       target=\"_blank\" rel=\"noopener\">Round 2 Judging Form</a>. These scores will
       then calculated into a weighted percentage as detailed below. The winner will
       be determined by averaging all federal employee judges scores and calculating
@@ -354,7 +354,7 @@ description: "<p dir=\"ltr\">The General Services Administration (GSA) is holdin
   System 2.0</a> in their solutions.</p>\r\n<p dir=\"ltr\">Throughout this all-day
   hackathon, taking place simultaneously at eight GSA locations nationwide, participants
   will evaluate real-world products and iterate on ideas for making the customer experience
-  better in GSA applications.</p>\r\n<p dir=\"ltr\"><a href=\"www.challenge.gov/assets/images/ids-images/Hackathon_List_of_Applications.docx\"
+  better in GSA applications.</p>\r\n<p dir=\"ltr\"><a href=\"/assets/images/ids-images/Hackathon_List_of_Applications.docx\"
   target=\"_blank\" rel=\"noopener\">View a list of applications we will be hacking.</a></p>\r\n<p
   dir=\"ltr\"><strong>Participating Cities</strong></p>\r\n<ol>\r\n<li dir=\"ltr\">Boston,
   MA</li>\r\n<li dir=\"ltr\">Chicago, IL</li>\r\n<li dir=\"ltr\">Ft Worth, TX</li>\r\n<li

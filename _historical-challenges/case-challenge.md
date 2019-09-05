@@ -167,24 +167,24 @@ description: "<h3><strong>THE PROBLEM</strong></h3>\r\n<p>Every day we make deci
   and trustworthy &ndash; the person, their actions, what they say, a news source,
   or the actual information being conveyed. Often, the only tool to help us make those
   decisions are our own judgments based on current or past experiences.</p>\r\n<p><img
-  src=\"www.challenge.gov/assets/images/ids-images/CASE-explainer-sketch.png\" width=\"772\"
-  height=\"218\" /></p>\r\n<p>For some in-person and virtual interactions there are
-  tools to aid our judgments. These might include listening to the way someone tells
-  a story, looking at a user badge, validating with other people - or in more formal
-  settings, verifying biometrics or recording someone&rsquo;s physiological responses,
-  i.e. the polygraph.</p>\r\n<p>Each of these examples uses a very different type
-  of tool to augment our ability to evaluate credibility. Yet there are no standardized
-  and rigorous tests to evaluate how comprehensive or accurate such tools really are.</p>\r\n<p>Countless
-  studies have tested a variety of credibility assessment techniques and have attempted
-  to use them to rigorously determine when a source and/or a message is credible and,
-  more specifically, when a person is lying or telling the truth.</p>\r\n<p>Despite
-  the large and lengthy investment in such research, a rigorous set of valid methods
-  that are useful in determining the credibility of a source or their information
-  across different applications remains difficult to achieve.</p>\r\n<h3><strong>TIMELINE</strong></h3>\r\n<p><img
-  src=\"www.challenge.gov/assets/images/ids-images/CASEtimeline-04.png\" width=\"819\"
-  height=\"202\" /></p>\r\n<h3><strong>DETAILS</strong></h3>\r\n<p>IARPA's Credibility
-  Assessment Standardized Evaluation (CASE) Challenge seeks novel methods to measure
-  the performance of credibility assessment techniques and technologies.&nbsp;</p>\r\n<p>Credibility
+  src=\"/assets/images/ids-images/CASE-explainer-sketch.png\" width=\"772\" height=\"218\"
+  /></p>\r\n<p>For some in-person and virtual interactions there are tools to aid
+  our judgments. These might include listening to the way someone tells a story, looking
+  at a user badge, validating with other people - or in more formal settings, verifying
+  biometrics or recording someone&rsquo;s physiological responses, i.e. the polygraph.</p>\r\n<p>Each
+  of these examples uses a very different type of tool to augment our ability to evaluate
+  credibility. Yet there are no standardized and rigorous tests to evaluate how comprehensive
+  or accurate such tools really are.</p>\r\n<p>Countless studies have tested a variety
+  of credibility assessment techniques and have attempted to use them to rigorously
+  determine when a source and/or a message is credible and, more specifically, when
+  a person is lying or telling the truth.</p>\r\n<p>Despite the large and lengthy
+  investment in such research, a rigorous set of valid methods that are useful in
+  determining the credibility of a source or their information across different applications
+  remains difficult to achieve.</p>\r\n<h3><strong>TIMELINE</strong></h3>\r\n<p><img
+  src=\"/assets/images/ids-images/CASEtimeline-04.png\" width=\"819\" height=\"202\"
+  /></p>\r\n<h3><strong>DETAILS</strong></h3>\r\n<p>IARPA's Credibility Assessment
+  Standardized Evaluation (CASE) Challenge seeks novel methods to measure the performance
+  of credibility assessment techniques and technologies.&nbsp;</p>\r\n<p>Credibility
   assessment refers to both the assessment of the truthfulness of specific claims
   and to the assessment of the reliability, honesty, and trustworthiness of a source
   of a particular claim, whether that be an individual, group, or a broader organization
