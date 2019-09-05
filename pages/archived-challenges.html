@@ -12,14 +12,14 @@ title: Archived Challenges
                 {% for item in dataset %}
                 {% if item.campaignAttributes.attributes.submission-end-date contains 2019 %}
         <div class="tablet:grid-col-6 cards">
-                <div class="card">
+                <div class="card position-relative" style="min-height: 180px;">
                     <div class="padding-x-1">
                             <div style="float: left;">{% include agency-logos.html %}</div>
                         <h3 class="text-primary-dark text-bold text-uppercase margin-y-1 text-ls-1">{{ item.name }}</h3>
                         <span class="text-gray-50 padding-top-1">{{ item.groupName }}</span>
                         <p><span class="text-bold">Closed On:</span> {{ item.campaignAttributes.attributes.submission-end-date }} ET</p>
                     </div>
-                    <div class="card__action card__action-block"> <a href="{{ site.baseurl }}/challenge/{{ item.name | slugify }} " class="usa-button radius-0">View Details</a></div>
+                    <div class="card__action card__action-block position-absolute"> <a href="{{ site.baseurl }}/challenge/{{ item.name | slugify }} " class="usa-button radius-0">View Details</a></div>
                 </div>
         </div>
         {% endif %}
