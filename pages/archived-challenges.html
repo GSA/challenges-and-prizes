@@ -13,42 +13,25 @@ title: Archived Challenges
             <button class="usa-button usa-button--outline">2017</button>
         </div>
         <div class="grid-row">
-                {% assign dataset = (site.data.challenges | sort: 'campaignAttributes.attributes.submission-end-date') %}
-                {% for item in dataset %}
-                {% if item.groupName %}
-                {% if item.campaignAttributes.attributes.submission-end-date contains 2019 %}
+                {% assign sorted = (site.historical-challenges | sort: 'submission-end') %}
+                {% for challenge in sorted %}
+                {% if challenge.groupName %}
+                {% if challenge.submission-end contains 2019 %}
         <div class="tablet:grid-col-6 cards">
                 <div class="card position-relative" style="min-height: 180px;">
                     <div class="padding-x-1">
                             <div style="float: left; padding: .7rem">{% include agency-logos.html %}</div>
-                        <h3 class="text-primary-dark text-bold text-uppercase margin-y-1 text-ls-1">{{ item.name }}</h3>
-                        <span class="text-gray-50 padding-top-1">{{ item.groupName }}</span>
-                        <p><span class="text-bold">Closed On:</span> {{ item.campaignAttributes.attributes.submission-end-date }} ET</p>
+                        <h3 class="text-primary-dark text-bold text-uppercase margin-y-1 text-ls-1">{{ challenge.name }}</h3>
+                        <span class="text-gray-50 padding-top-1">{{ challenge.groupName }}</span>
+                        <p><span class="text-bold">Closed On:</span> {{ challenge.submission-end }} ET</p>
                     </div>
-                    <div class="card__action card__action-block position-absolute"> <a href="{{ site.baseurl }}/challenge/{{ item.name | slugify }} " class="usa-button radius-0">View Details</a></div>
+                     <div class="card__action card__action-block position-absolute"> <a href="{{ site.baseurl }}{{challenge.permalink}} " class="usa-button radius-0">View Details</a></div>
                 </div>
         </div>
                 {% endif %}
                 {% endif %}
                 {% endfor %}
-                <!--start display of archived-challenges folder-->
-                {% assign sorted = (site.archived-challenges | sort: 'submission-end') %}
-                {% for challenge in sorted %}
-                {% if challenge.submission-end contains 2019%}
-                <div class="tablet:grid-col-6 cards">
-                        <div class="card position-relative" style="min-height: 180px;">
-                            <div class="padding-x-1">
-                                    <div style="float: left; padding: .7rem">{% include agency-logos.html %}</div>
-                                <h3 class="text-primary-dark text-bold text-uppercase margin-y-1 text-ls-1">{{ challenge.challenge-title }}</h3>
-                                <span class="text-gray-50 padding-top-1">{{ challenge.agency }}</span>
-                                <p><span class="text-bold">Closed On:</span> {{ challenge.submission-end }} ET</p>
-                            </div>
-                            <div class="card__action card__action-block position-absolute"> <a href="{{ site.baseurl }}{{ challenge.permalink }} " class="usa-button radius-0">View Details</a></div>
-                        </div>
-                </div>
-                {% endif %}
-                {% endfor %}
-              
+               
                
         </div>
     </div>
