@@ -25,7 +25,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://nistdata.devpost.com
-    submission-end-date: '09/28/2015 05:00 PM'
+    submission-end: '09/28/2015 05:00 PM'
     why-use-prizes: ''
     submission-start-date: 07/27/2015 09:00 AM
     fiscal-year: FY 2015

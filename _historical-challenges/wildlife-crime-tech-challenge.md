@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.wildlifecrimetech.org
-    submission-end-date: 06/30/2015 05:00 PM
+    submission-end: 06/30/2015 05:00 PM
     why-use-prizes: ''
     submission-start-date: ''
     fiscal-year: FY 2015

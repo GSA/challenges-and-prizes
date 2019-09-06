@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.nij.gov/funding/2012/body-armor-challenge.htm
-    submission-end-date: 12/14/2012 10:00 PM
+    submission-end: 12/14/2012 10:00 PM
     why-use-prizes: ''
     submission-start-date: '09/14/2012 07:00 PM'
     fiscal-year: FY 2012

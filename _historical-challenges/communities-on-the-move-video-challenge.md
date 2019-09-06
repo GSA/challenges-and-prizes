@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://letsmovecommunities.challengepost.com/submissions
-    submission-end-date: 04/06/2012 09:00 PM
+    submission-end: 04/06/2012 09:00 PM
     why-use-prizes: ''
     submission-start-date: 02/11/2012 03:00 PM
     fiscal-year: FY 2012

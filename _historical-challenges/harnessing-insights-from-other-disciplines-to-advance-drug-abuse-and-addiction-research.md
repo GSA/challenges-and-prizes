@@ -23,7 +23,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://nida.ideascale.com/
-    submission-end-date: 06/30/2015 11:59 PM
+    submission-end: 06/30/2015 11:59 PM
     why-use-prizes: ''
     submission-start-date: 05/26/2015 09:00 AM
     fiscal-year: FY 2015

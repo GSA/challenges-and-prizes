@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://carbonmonoxide.challengepost.com/submissions
-    submission-end-date: 01/01/2011 09:59 AM
+    submission-end: 01/01/2011 09:59 AM
     why-use-prizes: ''
     submission-start-date: '09/07/2010 08:00 AM'
     fiscal-year: FY 2010

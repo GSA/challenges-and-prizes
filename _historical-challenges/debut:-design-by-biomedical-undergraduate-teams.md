@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.nibib.nih.gov/news-events/newsroom/nih-announces-winners-undergraduate-biomedical-engineering-competition
-    submission-end-date: 06/03/2012 03:00 AM
+    submission-end: 06/03/2012 03:00 AM
     why-use-prizes: ''
     submission-start-date: 01/03/2012 05:00 AM
     fiscal-year: FY 2012

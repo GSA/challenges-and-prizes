@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.seventeen.com/twosecond
-    submission-end-date: '09/11/2010 03:59 AM'
+    submission-end: '09/11/2010 03:59 AM'
     why-use-prizes: ''
     submission-start-date: '08/02/2010 04:00 AM'
     fiscal-year: FY 2010

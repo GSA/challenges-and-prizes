@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.apps4africa.org
-    submission-end-date: '09/01/2010 03:00 AM'
+    submission-end: '09/01/2010 03:00 AM'
     why-use-prizes: ''
     submission-start-date: 07/01/2010 04:00 AM
     fiscal-year: FY 2010

@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.homeinnovation.com/DOEChallengeHomeStudentDesignCompetition
-    submission-end-date: 03/30/2014 12:00 AM
+    submission-end: 03/30/2014 12:00 AM
     why-use-prizes: ''
     submission-start-date: 02/24/2014 12:00 AM
     fiscal-year: FY 2014

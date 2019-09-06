@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.nsf.gov/news/special_reports/nsf2026ideamachine/index.jsp
-    submission-end-date: 10/26/2018 11:59 PM
+    submission-end: 10/26/2018 11:59 PM
     why-use-prizes: ''
     submission-start-date: '08/31/2018 08:00 AM'
     fiscal-year: FY 2019, FY 2018

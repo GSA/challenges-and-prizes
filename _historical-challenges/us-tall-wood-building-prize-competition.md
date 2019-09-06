@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://tallwoodbuildingcompetition.org/
-    submission-end-date: 12/09/2014 12:00 AM
+    submission-end: 12/09/2014 12:00 AM
     why-use-prizes: ''
     submission-start-date: 10/09/2014 12:00 AM
     fiscal-year: FY 2015

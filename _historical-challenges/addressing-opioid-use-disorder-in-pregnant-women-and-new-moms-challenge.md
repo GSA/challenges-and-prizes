@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://mchbgrandchallenges.hrsa.gov/challenges/addressing-opioid-use-disorder-pregnant-women-and-new-moms
-    submission-end-date: 12/03/2018 08:00 PM
+    submission-end: 12/03/2018 08:00 PM
     why-use-prizes: ''
     submission-start-date: '09/19/2018 09:00 AM'
     fiscal-year: FY 2019, FY 2018

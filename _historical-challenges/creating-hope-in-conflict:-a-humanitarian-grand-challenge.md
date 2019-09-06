@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://humanitariangrandchallenge.org/
-    submission-end-date: 04/12/2018 11:30 AM
+    submission-end: 04/12/2018 11:30 AM
     why-use-prizes: ''
     submission-start-date: 02/19/2018 10:30 AM
     fiscal-year: FY 2018

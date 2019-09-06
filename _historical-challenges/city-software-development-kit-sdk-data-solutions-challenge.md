@@ -24,7 +24,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://uscensusbureau.github.io/citysdk/challenge.html
-    submission-end-date: '08/03/2015 12:00 PM'
+    submission-end: '08/03/2015 12:00 PM'
     why-use-prizes: ''
     submission-start-date: 06/06/2015 09:00 AM
     fiscal-year: FY 2015

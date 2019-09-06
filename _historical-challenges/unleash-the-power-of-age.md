@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://unleashthepower.challengepost.com/submissions
-    submission-end-date: 04/29/2013 11:00 PM
+    submission-end: 04/29/2013 11:00 PM
     why-use-prizes: ''
     submission-start-date: 03/18/2013 12:00 AM
     fiscal-year: FY 2013

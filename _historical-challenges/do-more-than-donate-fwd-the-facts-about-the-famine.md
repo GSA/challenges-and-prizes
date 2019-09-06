@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://fwd.maker.good.is/
-    submission-end-date: 12/02/2011 05:00 PM
+    submission-end: 12/02/2011 05:00 PM
     why-use-prizes: ''
     submission-start-date: 11/28/2011 02:00 PM
     fiscal-year: FY 2012

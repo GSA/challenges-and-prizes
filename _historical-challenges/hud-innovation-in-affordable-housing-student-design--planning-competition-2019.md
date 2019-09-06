@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.huduser.gov/portal/challenge/home.html
-    submission-end-date: 02/04/2019 12:00 AM
+    submission-end: 02/04/2019 12:00 AM
     why-use-prizes: ''
     submission-start-date: 12/11/2018 12:00 AM
     fiscal-year: FY 2019

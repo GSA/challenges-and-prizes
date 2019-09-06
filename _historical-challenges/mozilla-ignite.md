@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://mozillaignite.org/
-    submission-end-date: '08/23/2012 02:00 PM'
+    submission-end: '08/23/2012 02:00 PM'
     why-use-prizes: ''
     submission-start-date: 06/13/2012 05:00 PM
     fiscal-year: FY 2012

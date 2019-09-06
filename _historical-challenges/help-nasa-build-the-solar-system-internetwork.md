@@ -23,7 +23,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.topcoder.com/dtn/
-    submission-end-date: 10/11/2014 12:00 AM
+    submission-end: 10/11/2014 12:00 AM
     why-use-prizes: ''
     submission-start-date: '08/22/2013 04:00 AM'
     fiscal-year: FY 2013

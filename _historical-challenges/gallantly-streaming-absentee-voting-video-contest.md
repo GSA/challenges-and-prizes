@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://gallantlystreaming.challengepost.com/submissions
-    submission-end-date: '08/06/2012 03:00 AM'
+    submission-end: '08/06/2012 03:00 AM'
     why-use-prizes: ''
     submission-start-date: 05/30/2012 02:00 PM
     fiscal-year: FY 2012

@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.health2challenge.org/2012/discharge-follow-up-appointment-challenge/
-    submission-end-date: 05/07/2012 04:00 PM
+    submission-end: 05/07/2012 04:00 PM
     why-use-prizes: ''
     submission-start-date: 01/26/2012 05:00 AM
     fiscal-year: FY 2012

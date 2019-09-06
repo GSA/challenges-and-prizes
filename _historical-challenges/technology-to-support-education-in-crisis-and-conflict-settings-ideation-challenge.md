@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.omnicompete.com/crisisandconflictedtech.html
-    submission-end-date: 03/30/2015 11:59 PM
+    submission-end: 03/30/2015 11:59 PM
     why-use-prizes: ''
     submission-start-date: 01/28/2015 12:00 AM
     fiscal-year: FY 2015

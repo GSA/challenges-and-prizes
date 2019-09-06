@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.health2challenge.org/one-in-a-million-hearts-challenge/
-    submission-end-date: 01/01/2012 05:00 AM
+    submission-end: 01/01/2012 05:00 AM
     why-use-prizes: ''
     submission-start-date: 10/03/2011 04:00 AM
     fiscal-year: FY 2012

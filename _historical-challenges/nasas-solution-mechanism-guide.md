@@ -22,7 +22,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.topcoder.com/smg/solwiz/
-    submission-end-date: 07/03/2014 12:00 AM
+    submission-end: 07/03/2014 12:00 AM
     why-use-prizes: ''
     submission-start-date: 02/05/2014 08:00 PM
     fiscal-year: FY 2014

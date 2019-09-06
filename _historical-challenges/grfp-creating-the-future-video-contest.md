@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.nsfgrfp.org/grfp_video_contest
-    submission-end-date: '09/14/2012 04:00 PM'
+    submission-end: '09/14/2012 04:00 PM'
     why-use-prizes: ''
     submission-start-date: 07/16/2012 04:00 AM
     fiscal-year: FY 2012

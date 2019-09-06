@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.huduser.gov/portal/challenge/home.html
-    submission-end-date: 12/10/2015 06:00 PM
+    submission-end: 12/10/2015 06:00 PM
     why-use-prizes: ''
     submission-start-date: 10/01/2015 12:00 AM
     fiscal-year: FY 2016

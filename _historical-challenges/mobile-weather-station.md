@@ -31,7 +31,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.innocentive.com/ar/challenge/9934001?cc=Gov4001
-    submission-end-date: 07/18/2017 05:00 PM
+    submission-end: 07/18/2017 05:00 PM
     why-use-prizes: ''
     submission-start-date: 05/18/2017 12:00 AM
     fiscal-year: FY 2017

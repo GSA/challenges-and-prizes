@@ -25,7 +25,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://tongal.com/project/TheFutureofPublicSafetyTechnology/
-    submission-end-date: '09/07/2017 01:00 PM'
+    submission-end: '09/07/2017 01:00 PM'
     why-use-prizes: ''
     submission-start-date: '08/21/2017 12:00 PM'
     fiscal-year: FY 2017

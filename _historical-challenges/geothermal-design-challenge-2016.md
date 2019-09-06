@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://caesenergy.org/geothermaldesign/
-    submission-end-date: 07/15/2016 12:00 AM
+    submission-end: 07/15/2016 12:00 AM
     why-use-prizes: ''
     submission-start-date: 12/01/2015 12:00 AM
     fiscal-year: FY 2016

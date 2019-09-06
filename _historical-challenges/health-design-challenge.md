@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://healthdesignchallenge.com/
-    submission-end-date: 12/02/2012 07:00 PM
+    submission-end: 12/02/2012 07:00 PM
     why-use-prizes: ''
     submission-start-date: 10/23/2012 01:00 PM
     fiscal-year: FY 2013

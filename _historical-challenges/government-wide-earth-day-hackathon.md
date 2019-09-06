@@ -30,7 +30,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://open.gsa.gov/EarthDayHackathon/
-    submission-end-date: 04/22/2016 04:30 PM
+    submission-end: 04/22/2016 04:30 PM
     why-use-prizes: ''
     submission-start-date: 04/22/2016 09:00 AM
     fiscal-year: FY 2016

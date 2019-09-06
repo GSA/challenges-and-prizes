@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://debut2013.challengepost.com/submissions
-    submission-end-date: 06/10/2013 04:00 AM
+    submission-end: 06/10/2013 04:00 AM
     why-use-prizes: ''
     submission-start-date: 01/28/2013 05:00 AM
     fiscal-year: FY 2013

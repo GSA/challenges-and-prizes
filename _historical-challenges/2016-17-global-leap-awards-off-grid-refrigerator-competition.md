@@ -27,7 +27,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://globalleapawards.wufoo.com/forms/m1stt6170nslx6f/
-    submission-end-date: 01/20/2017 12:00 AM
+    submission-end: 01/20/2017 12:00 AM
     why-use-prizes: ''
     submission-start-date: '09/22/2016 02:00 PM'
     fiscal-year: FY 2017

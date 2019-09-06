@@ -101,7 +101,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.synapse.org/upforachallenge
-    submission-end-date: 01/15/2016 08:00 PM
+    submission-end: 01/15/2016 08:00 PM
     why-use-prizes: ''
     submission-start-date: 06/05/2015 09:00 AM
     fiscal-year: FY 2016

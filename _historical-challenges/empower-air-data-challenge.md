@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.epa.gov/airmarkets/empower-air-data-challenge
-    submission-end-date: 04/08/2019 11:59 PM
+    submission-end: 04/08/2019 11:59 PM
     why-use-prizes: ''
     submission-start-date: 02/15/2019 12:00 PM
     fiscal-year: FY 2019

@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.va.gov/opa/pressrel/pressrelease.cfm?id=2434
-    submission-end-date: 06/01/2012 03:00 AM
+    submission-end: 06/01/2012 03:00 AM
     why-use-prizes: ''
     submission-start-date: 03/22/2012 04:00 PM
     fiscal-year: FY 2012

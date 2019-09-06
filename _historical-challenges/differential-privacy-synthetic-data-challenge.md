@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.topcoder.com/community/data-science/Differential-Privacy-Synthetic-Data-Challenge
-    submission-end-date: 05/20/2019 12:00 AM
+    submission-end: 05/20/2019 12:00 AM
     why-use-prizes: ''
     submission-start-date: 10/31/2018 04:00 PM
     fiscal-year: FY 2019, FY 2018

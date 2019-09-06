@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.health2challenge.org/2011/09/11/reporting-device-adverse-events-challenge/
-    submission-end-date: 02/04/2012 05:00 AM
+    submission-end: 02/04/2012 05:00 AM
     why-use-prizes: ''
     submission-start-date: '09/12/2011 04:00 AM'
     fiscal-year: FY 2011

@@ -31,7 +31,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.epa.gov/green-infrastructure/2015-campus-rainworks-challenge
-    submission-end-date: '09/30/2015 12:00 AM'
+    submission-end: '09/30/2015 12:00 AM'
     why-use-prizes: ''
     submission-start-date: '09/01/2015 12:00 AM'
     fiscal-year: FY 2016

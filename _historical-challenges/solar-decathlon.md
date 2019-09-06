@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.solardecathlon.gov/
-    submission-end-date: '09/24/2011 03:00 AM'
+    submission-end: '09/24/2011 03:00 AM'
     why-use-prizes: ''
     submission-start-date: '09/23/2009 04:00 AM'
     fiscal-year: FY 2010

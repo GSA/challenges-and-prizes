@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.topcoder.com/uspto
-    submission-end-date: 04/16/2012 01:00 PM
+    submission-end: 04/16/2012 01:00 PM
     why-use-prizes: ''
     submission-start-date: 03/26/2012 01:00 PM
     fiscal-year: FY 2012

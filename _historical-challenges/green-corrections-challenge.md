@@ -20,7 +20,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.nicic.gov/greencorrectionschallenge
-    submission-end-date: 11/03/2014 11:59 PM
+    submission-end: 11/03/2014 11:59 PM
     why-use-prizes: ''
     submission-start-date: 04/10/2014 12:00 AM
     fiscal-year: FY 2014

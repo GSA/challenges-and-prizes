@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://absenteeslogan.challengepost.com/submissions
-    submission-end-date: 04/09/2011 03:59 AM
+    submission-end: 04/09/2011 03:59 AM
     why-use-prizes: ''
     submission-start-date: 01/21/2011 05:00 AM
     fiscal-year: FY 2011

@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.iarpa.gov/challenges/morgothscrown.html
-    submission-end-date: '09/20/2017 09:00 PM'
+    submission-end: '09/20/2017 09:00 PM'
     why-use-prizes: ''
     submission-start-date: 07/27/2017 12:00 AM
     fiscal-year: FY 2017

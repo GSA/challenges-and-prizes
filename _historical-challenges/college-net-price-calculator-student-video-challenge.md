@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.ed.gov/blog/2012/05/education-department-announces-winners-of-net-price-calculator-video-contest/
-    submission-end-date: 02/01/2012 05:00 AM
+    submission-end: 02/01/2012 05:00 AM
     why-use-prizes: ''
     submission-start-date: 01/01/2012 05:00 AM
     fiscal-year: FY 2012

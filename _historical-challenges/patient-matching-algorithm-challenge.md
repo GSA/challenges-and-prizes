@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.patientmatchingchallenge.com/
-    submission-end-date: '09/12/2017 02:00 PM'
+    submission-end: '09/12/2017 02:00 PM'
     why-use-prizes: ''
     submission-start-date: 05/02/2017 12:00 AM
     fiscal-year: FY 2017

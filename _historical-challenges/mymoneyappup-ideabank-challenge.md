@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://ideabank.mymoneyappup.challengepost.com/submissions
-    submission-end-date: '08/02/2012 12:00 AM'
+    submission-end: '08/02/2012 12:00 AM'
     why-use-prizes: ''
     submission-start-date: 06/27/2012 09:00 AM
     fiscal-year: FY 2012

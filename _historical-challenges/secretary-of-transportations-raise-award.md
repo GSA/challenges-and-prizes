@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://1.usa.gov/1rAFKzv
-    submission-end-date: 12/30/2014 08:00 AM
+    submission-end: 12/30/2014 08:00 AM
     why-use-prizes: ''
     submission-start-date: 07/01/2014 08:00 AM
     fiscal-year: FY 2014

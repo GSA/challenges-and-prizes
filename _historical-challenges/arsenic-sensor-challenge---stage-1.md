@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.innocentive.com/ar/challenge/9933765?cc=BoR3765
-    submission-end-date: 03/13/2017 12:00 AM
+    submission-end: 03/13/2017 12:00 AM
     why-use-prizes: ''
     submission-start-date: 12/13/2016 12:00 AM
     fiscal-year: FY 2017

@@ -20,7 +20,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://airforceprize.com/
-    submission-end-date: '09/01/2018 04:00 PM'
+    submission-end: '09/01/2018 04:00 PM'
     why-use-prizes: ''
     submission-start-date: 05/27/2015 12:00 AM
     fiscal-year: FY 2015

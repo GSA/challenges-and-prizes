@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://sbirhof2013.challengepost.com/submissions
-    submission-end-date: 02/08/2013 01:00 AM
+    submission-end: 02/08/2013 01:00 AM
     why-use-prizes: ''
     submission-start-date: 12/17/2012 09:00 AM
     fiscal-year: FY 2013

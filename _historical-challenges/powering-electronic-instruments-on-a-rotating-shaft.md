@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.innocentive.com/ar/challenge/9933885
-    submission-end-date: 12/06/2018 11:59 PM
+    submission-end: 12/06/2018 11:59 PM
     why-use-prizes: ''
     submission-start-date: '09/06/2018 12:00 AM'
     fiscal-year: FY 2019

@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.epa.gov/compliance/criminal/contest/tribal.html
-    submission-end-date: 10/09/2010 03:00 AM
+    submission-end: 10/09/2010 03:00 AM
     why-use-prizes: ''
     submission-start-date: '08/30/2010 04:00 AM'
     fiscal-year: FY 2010

@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://jump.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/17628
-    submission-end-date: '09/11/2016 11:59 PM'
+    submission-end: '09/11/2016 11:59 PM'
     why-use-prizes: ''
     submission-start-date: '08/11/2016 12:00 AM'
     fiscal-year: FY 2016

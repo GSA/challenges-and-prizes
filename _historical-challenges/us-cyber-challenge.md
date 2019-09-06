@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://uscc.cyberquests.org/
-    submission-end-date: 04/30/2018 11:59 PM
+    submission-end: 04/30/2018 11:59 PM
     why-use-prizes: ''
     submission-start-date: 03/27/2018 07:00 AM
     fiscal-year: FY 2018

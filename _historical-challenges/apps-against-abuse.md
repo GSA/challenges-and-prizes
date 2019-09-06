@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://appsagainstabuse.challengepost.com/submissions
-    submission-end-date: 10/18/2011 03:59 AM
+    submission-end: 10/18/2011 03:59 AM
     why-use-prizes: ''
     submission-start-date: 07/13/2011 04:00 AM
     fiscal-year: FY 2011

@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.health2con.com/devchallenge/apps4tots-health-challenge/
-    submission-end-date: 05/21/2013 03:00 AM
+    submission-end: 05/21/2013 03:00 AM
     why-use-prizes: ''
     submission-start-date: 04/15/2013 01:00 PM
     fiscal-year: FY 2013

@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://tongal.com/project/ZeroRobotics
-    submission-end-date: '08/20/2012 09:00 PM'
+    submission-end: '08/20/2012 09:00 PM'
     why-use-prizes: ''
     submission-start-date: 06/19/2012 04:00 PM
     fiscal-year: FY 2012

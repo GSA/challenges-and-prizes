@@ -24,7 +24,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.herox.com/UnlinkableDataChallenge
-    submission-end-date: '08/02/2018 05:00 PM'
+    submission-end: '08/02/2018 05:00 PM'
     why-use-prizes: ''
     submission-start-date: 05/01/2018 12:00 PM
     fiscal-year: FY 2019

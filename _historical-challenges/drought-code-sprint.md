@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://blogs.usda.gov/2012/09/14/usda-drought-code-sprint-giving-americans-one-click-access-to-federal-drought-relief/
-    submission-end-date: 10/24/2012 09:00 PM
+    submission-end: 10/24/2012 09:00 PM
     why-use-prizes: ''
     submission-start-date: '09/14/2012 04:00 PM'
     fiscal-year: FY 2012

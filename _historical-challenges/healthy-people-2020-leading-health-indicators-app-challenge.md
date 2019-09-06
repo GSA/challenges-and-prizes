@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.health2challenge.org/healthy-people-2020-leading-health-indicators-app-challenge/
-    submission-end-date: 03/10/2012 05:00 AM
+    submission-end: 03/10/2012 05:00 AM
     why-use-prizes: ''
     submission-start-date: 10/31/2011 04:00 AM
     fiscal-year: FY 2012

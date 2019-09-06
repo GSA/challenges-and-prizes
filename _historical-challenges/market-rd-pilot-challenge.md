@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.oncpilotchallenge.com/
-    submission-end-date: 03/02/2015 12:00 AM
+    submission-end: 03/02/2015 12:00 AM
     why-use-prizes: ''
     submission-start-date: ''
     fiscal-year: FY 2015

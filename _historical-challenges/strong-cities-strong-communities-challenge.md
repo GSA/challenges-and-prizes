@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.sc2prize.com/
-    submission-end-date: '09/23/2014 12:00 AM'
+    submission-end: '09/23/2014 12:00 AM'
     why-use-prizes: ''
     submission-start-date: 02/07/2014 06:00 AM
     fiscal-year: FY 2014

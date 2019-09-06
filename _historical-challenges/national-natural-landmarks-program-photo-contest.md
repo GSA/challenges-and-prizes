@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.nature.nps.gov/nnl/photocontest.cfm
-    submission-end-date: 07/01/2011 07:00 AM
+    submission-end: 07/01/2011 07:00 AM
     why-use-prizes: ''
     submission-start-date: 03/28/2011 08:00 AM
     fiscal-year: FY 2011

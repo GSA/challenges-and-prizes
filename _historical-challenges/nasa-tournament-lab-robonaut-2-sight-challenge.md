@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.topcoder.com/iss/
-    submission-end-date: 04/22/2013 01:00 PM
+    submission-end: 04/22/2013 01:00 PM
     why-use-prizes: ''
     submission-start-date: 04/01/2013 01:00 PM
     fiscal-year: FY 2013

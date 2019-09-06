@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://bradley.edu/challenge
-    submission-end-date: 01/31/2017 12:00 AM
+    submission-end: 01/31/2017 12:00 AM
     why-use-prizes: ''
     submission-start-date: 10/07/2016 12:00 AM
     fiscal-year: FY 2017

@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.health2con.com/devchallenge/va-care-coordination-for-improved-outcomes-challenge/
-    submission-end-date: 07/13/2015 12:00 AM
+    submission-end: 07/13/2015 12:00 AM
     why-use-prizes: ''
     submission-start-date: 06/09/2015 12:00 AM
     fiscal-year: FY 2016

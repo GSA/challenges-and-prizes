@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://legislative-data-mapping.challengepost.com/submissions
-    submission-end-date: 01/01/2014 12:00 AM
+    submission-end: 01/01/2014 12:00 AM
     why-use-prizes: ''
     submission-start-date: '09/11/2013 09:00 AM'
     fiscal-year: FY 2013

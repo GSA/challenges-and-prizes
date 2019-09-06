@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.cccinnovationcenter.com/challenges/blockchain-in-healthcare-code-a-thon/
-    submission-end-date: 03/15/2017 12:00 AM
+    submission-end: 03/15/2017 12:00 AM
     why-use-prizes: ''
     submission-start-date: 02/13/2017 12:00 AM
     fiscal-year: FY 2017

@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.ndu.edu/press/holiday-scavenger-hunt.html
-    submission-end-date: 12/22/2010 11:59 PM
+    submission-end: 12/22/2010 11:59 PM
     why-use-prizes: ''
     submission-start-date: 12/14/2010 12:00 AM
     fiscal-year: FY 2011

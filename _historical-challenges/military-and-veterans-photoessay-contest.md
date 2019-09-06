@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.blm.gov/wo/st/en/info/newsroom/2012/december/NR_12_21_2012.html
-    submission-end-date: 12/12/2012 05:00 AM
+    submission-end: 12/12/2012 05:00 AM
     why-use-prizes: ''
     submission-start-date: 11/12/2012 05:00 PM
     fiscal-year: FY 2013

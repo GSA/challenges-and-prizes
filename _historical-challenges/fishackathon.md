@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://fishackathon.hackernest.com/
-    submission-end-date: 02/11/2018 12:00 AM
+    submission-end: 02/11/2018 12:00 AM
     why-use-prizes: ''
     submission-start-date: 02/07/2018 12:00 AM
     fiscal-year: FY 2018

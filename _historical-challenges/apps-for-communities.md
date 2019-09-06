@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://appsforcommunities.challengepost.com/submissions
-    submission-end-date: 10/04/2011 03:00 AM
+    submission-end: 10/04/2011 03:00 AM
     why-use-prizes: ''
     submission-start-date: 04/14/2011 04:00 AM
     fiscal-year: FY 2011

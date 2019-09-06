@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.uavforge.net/
-    submission-end-date: 01/07/2012 04:59 AM
+    submission-end: 01/07/2012 04:59 AM
     why-use-prizes: ''
     submission-start-date: 07/28/2011 04:00 AM
     fiscal-year: FY 2011

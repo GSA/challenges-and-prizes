@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.transformtoxtesting.com/
-    submission-end-date: 04/08/2016 12:00 AM
+    submission-end: 04/08/2016 12:00 AM
     why-use-prizes: ''
     submission-start-date: 01/08/2016 12:00 AM
     fiscal-year: FY 2016

@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://mchbgrandchallenges.hrsa.gov/challenges/remote-pregnancy-monitoring
-    submission-end-date: 12/07/2018 08:00 PM
+    submission-end: 12/07/2018 08:00 PM
     why-use-prizes: ''
     submission-start-date: '09/27/2018 09:00 AM'
     fiscal-year: FY 2019, FY 2018

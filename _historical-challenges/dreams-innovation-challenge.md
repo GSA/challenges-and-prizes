@@ -33,7 +33,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.dreamschallenge.org/
-    submission-end-date: 03/28/2016 12:00 AM
+    submission-end: 03/28/2016 12:00 AM
     why-use-prizes: ''
     submission-start-date: 02/17/2016 12:00 AM
     fiscal-year: FY 2016

@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.topcoder.com/collectiveminds/
-    submission-end-date: 10/04/2013 01:00 AM
+    submission-end: 10/04/2013 01:00 AM
     why-use-prizes: ''
     submission-start-date: '09/12/2013 05:00 PM'
     fiscal-year: FY 2013

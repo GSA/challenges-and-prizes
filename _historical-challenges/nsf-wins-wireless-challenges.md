@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://wirelesschallenge.mozilla.org
-    submission-end-date: 06/30/2018 11:59 PM
+    submission-end: 06/30/2018 11:59 PM
     why-use-prizes: ''
     submission-start-date: 06/15/2017 12:00 AM
     fiscal-year: FY 2017

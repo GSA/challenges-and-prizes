@@ -24,7 +24,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://open.gsa.gov/grace-hopper-hackathon/
-    submission-end-date: 12/09/2016 03:00 PM
+    submission-end: 12/09/2016 03:00 PM
     why-use-prizes: ''
     submission-start-date: 12/09/2016 08:00 AM
     fiscal-year: FY 2017

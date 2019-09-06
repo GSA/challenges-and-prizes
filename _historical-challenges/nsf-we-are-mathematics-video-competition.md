@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://wearemathematics2019.skild.com/
-    submission-end-date: 02/28/2019 11:59 PM
+    submission-end: 02/28/2019 11:59 PM
     why-use-prizes: ''
     submission-start-date: 10/05/2018 12:00 AM
     fiscal-year: FY 2019

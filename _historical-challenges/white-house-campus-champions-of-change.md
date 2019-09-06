@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.whitehouse.gov/the-press-office/2011/11/02/white-house-launches-2011-campus-champions-change-challenge
-    submission-end-date: 12/10/2011 05:00 AM
+    submission-end: 12/10/2011 05:00 AM
     why-use-prizes: ''
     submission-start-date: 11/02/2011 04:00 AM
     fiscal-year: FY 2012

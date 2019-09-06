@@ -21,7 +21,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.innocentive.com/ar/challenge/9933767?cc=BORgov3767
-    submission-end-date: '08/09/2018 12:00 AM'
+    submission-end: '08/09/2018 12:00 AM'
     why-use-prizes: ''
     submission-start-date: 05/10/2018 12:00 AM
     fiscal-year: FY 2018

@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.epa.gov/sunwise/postercontest.html
-    submission-end-date: 04/01/2012 04:00 PM
+    submission-end: 04/01/2012 04:00 PM
     why-use-prizes: ''
     submission-start-date: 01/01/2012 05:00 AM
     fiscal-year: FY 2012

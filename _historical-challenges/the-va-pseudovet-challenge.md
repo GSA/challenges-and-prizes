@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://herox.com/pseudovet
-    submission-end-date: 02/14/2018 12:00 AM
+    submission-end: 02/14/2018 12:00 AM
     why-use-prizes: ''
     submission-start-date: '08/30/2017 12:00 AM'
     fiscal-year: FY 2016

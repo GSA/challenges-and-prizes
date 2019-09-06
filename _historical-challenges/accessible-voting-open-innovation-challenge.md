@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.openideo.com/open/voting/
-    submission-end-date: 03/20/2012 09:00 PM
+    submission-end: 03/20/2012 09:00 PM
     why-use-prizes: ''
     submission-start-date: 02/29/2012 02:00 PM
     fiscal-year: FY 2012

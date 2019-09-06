@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: 'http://millionhearts.hhs.gov '
-    submission-end-date: 10/10/2014 08:00 AM
+    submission-end: 10/10/2014 08:00 AM
     why-use-prizes: ''
     submission-start-date: '08/20/2014 08:00 AM'
     fiscal-year: FY 2014

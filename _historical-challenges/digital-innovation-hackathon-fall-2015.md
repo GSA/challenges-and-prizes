@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://open.gsa.gov/Digital-Innovation-Hackathon-Fall2015/
-    submission-end-date: 10/16/2015 04:00 PM
+    submission-end: 10/16/2015 04:00 PM
     why-use-prizes: ''
     submission-start-date: 10/16/2015 09:00 AM
     fiscal-year: FY 2016

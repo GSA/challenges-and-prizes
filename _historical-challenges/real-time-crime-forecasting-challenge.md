@@ -33,7 +33,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://nij.gov/forecasting-challenge
-    submission-end-date: 02/28/2017 11:59 PM
+    submission-end: 02/28/2017 11:59 PM
     why-use-prizes: ''
     submission-start-date: 02/22/2017 12:00 AM
     fiscal-year: FY 2016

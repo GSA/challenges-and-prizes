@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://wp.wpi.edu/challenge
-    submission-end-date: 03/19/2013 03:00 AM
+    submission-end: 03/19/2013 03:00 AM
     why-use-prizes: ''
     submission-start-date: 12/05/2012 02:00 PM
     fiscal-year: FY 2013

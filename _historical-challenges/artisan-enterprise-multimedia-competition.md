@@ -33,7 +33,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.allianceforartisanenterprise.org/contest/
-    submission-end-date: '08/10/2015 11:59 PM'
+    submission-end: '08/10/2015 11:59 PM'
     why-use-prizes: ''
     submission-start-date: 07/10/2015 12:00 AM
     fiscal-year: FY 2015

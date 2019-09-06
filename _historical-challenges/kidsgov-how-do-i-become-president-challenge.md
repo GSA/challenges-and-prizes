@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://becomepresident.challengepost.com/submissions
-    submission-end-date: 11/09/2010 04:59 AM
+    submission-end: 11/09/2010 04:59 AM
     why-use-prizes: ''
     submission-start-date: '09/07/2010 04:00 AM'
     fiscal-year: FY 2010

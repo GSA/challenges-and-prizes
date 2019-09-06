@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://iarpa.gov/challenges/mercury.html
-    submission-end-date: 04/30/2019 12:00 AM
+    submission-end: 04/30/2019 12:00 AM
     why-use-prizes: ''
     submission-start-date: '08/01/2018 12:00 AM'
     fiscal-year: FY 2018

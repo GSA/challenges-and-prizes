@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.westwirelesshealth.org/
-    submission-end-date: 03/16/2011 03:00 AM
+    submission-end: 03/16/2011 03:00 AM
     why-use-prizes: ''
     submission-start-date: 11/01/2010 04:00 AM
     fiscal-year: FY 2011

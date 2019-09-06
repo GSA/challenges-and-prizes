@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.congressionalappchallenge.us/compete-2016/
-    submission-end-date: 11/02/2016 12:00 PM
+    submission-end: 11/02/2016 12:00 PM
     why-use-prizes: ''
     submission-start-date: 07/18/2016 12:00 PM
     fiscal-year: FY 2016

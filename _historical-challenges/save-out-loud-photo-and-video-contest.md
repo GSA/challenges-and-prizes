@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.treasurydirect.gov/readysavegrow/contest_winners.htm
-    submission-end-date: 11/26/2012 04:00 AM
+    submission-end: 11/26/2012 04:00 AM
     why-use-prizes: ''
     submission-start-date: 10/03/2012 12:00 PM
     fiscal-year: FY 2013

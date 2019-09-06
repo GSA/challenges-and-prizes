@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://tft.challengepost.com/submissions
-    submission-end-date: 06/29/2012 10:00 PM
+    submission-end: 06/29/2012 10:00 PM
     why-use-prizes: ''
     submission-start-date: 04/18/2012 03:00 PM
     fiscal-year: FY 2012

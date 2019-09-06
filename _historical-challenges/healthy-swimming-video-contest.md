@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://healthyswimming.challengepost.com/submissions
-    submission-end-date: 07/05/2011 03:59 AM
+    submission-end: 07/05/2011 03:59 AM
     why-use-prizes: ''
     submission-start-date: 05/16/2011 04:00 AM
     fiscal-year: FY 2011

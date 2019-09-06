@@ -43,7 +43,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://iab-rubric.org/DFW/dfw.html
-    submission-end-date: 05/01/2018 11:59 PM
+    submission-end: 05/01/2018 11:59 PM
     why-use-prizes: ''
     submission-start-date: 01/20/2018 12:00 AM
     fiscal-year: FY 2018

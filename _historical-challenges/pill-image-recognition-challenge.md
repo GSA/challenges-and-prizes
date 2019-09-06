@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://pir.nlm.nih.gov/challenge/
-    submission-end-date: 05/31/2016 05:00 PM
+    submission-end: 05/31/2016 05:00 PM
     why-use-prizes: ''
     submission-start-date: 04/04/2016 12:00 AM
     fiscal-year: FY 2016

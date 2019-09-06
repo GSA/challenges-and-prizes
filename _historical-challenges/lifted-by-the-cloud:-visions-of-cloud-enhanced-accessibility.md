@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://liftedbythecloud.challengepost.com/submissions
-    submission-end-date: 05/16/2011 07:59 AM
+    submission-end: 05/16/2011 07:59 AM
     why-use-prizes: ''
     submission-start-date: 10/22/2010 08:00 AM
     fiscal-year: FY 2011

@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.energystar.gov/BattleOfTheBuildings
-    submission-end-date: '08/31/2011 11:59 PM'
+    submission-end: '08/31/2011 11:59 PM'
     why-use-prizes: ''
     submission-start-date: '09/01/2010 12:00 AM'
     fiscal-year: FY 2010

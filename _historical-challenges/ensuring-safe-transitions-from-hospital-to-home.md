@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.health2challenge.org/2011/06/24/care-transitions/
-    submission-end-date: 11/17/2011 05:00 AM
+    submission-end: 11/17/2011 05:00 AM
     why-use-prizes: ''
     submission-start-date: '09/12/2011 04:00 AM'
     fiscal-year: FY 2011

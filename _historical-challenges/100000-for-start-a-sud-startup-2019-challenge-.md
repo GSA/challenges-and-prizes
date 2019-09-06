@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.drugabuse.gov/research/nida-research-programs-activities/nida-challenges-program
-    submission-end-date: 05/10/2019 06:00 PM
+    submission-end: 05/10/2019 06:00 PM
     why-use-prizes: ''
     submission-start-date: 04/01/2019 09:00 AM
     fiscal-year: FY 2019

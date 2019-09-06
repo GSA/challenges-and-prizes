@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://spectrumcollaborationchallenge.com/
-    submission-end-date: 04/30/2018 12:00 AM
+    submission-end: 04/30/2018 12:00 AM
     why-use-prizes: ''
     submission-start-date: 07/19/2016 12:00 AM
     fiscal-year: FY 2017

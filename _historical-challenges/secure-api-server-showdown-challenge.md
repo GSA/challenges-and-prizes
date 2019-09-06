@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.cccinnovationcenter.com/challenges/secure-api-server-showdown-challenge/
-    submission-end-date: 04/09/2018 11:59 PM
+    submission-end: 04/09/2018 11:59 PM
     why-use-prizes: ''
     submission-start-date: 02/20/2017 12:00 AM
     fiscal-year: FY 2018

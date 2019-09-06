@@ -20,7 +20,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.hbcucfe.net/pdfs/HBCU%20Mental%20Health%20Promotion%20Campaign%202011_Submission%20Guidelines.pdf
-    submission-end-date: 01/15/2011 04:59 AM
+    submission-end: 01/15/2011 04:59 AM
     why-use-prizes: ''
     submission-start-date: 11/01/2010 04:00 AM
     fiscal-year: FY 2011

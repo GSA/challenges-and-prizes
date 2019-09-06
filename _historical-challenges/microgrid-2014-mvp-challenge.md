@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: 'http://www.energy.gov/microgridchallenge '
-    submission-end-date: '08/29/2014 08:00 AM'
+    submission-end: '08/29/2014 08:00 AM'
     why-use-prizes: ''
     submission-start-date: 07/01/2014 08:00 AM
     fiscal-year: FY 2014

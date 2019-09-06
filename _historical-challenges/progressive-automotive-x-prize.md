@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.progressiveautoxprize.org/
-    submission-end-date: '09/01/2010 11:59 PM'
+    submission-end: '09/01/2010 11:59 PM'
     why-use-prizes: ''
     submission-start-date: '08/31/2010 12:00 AM'
     fiscal-year: FY 2010

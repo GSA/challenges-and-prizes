@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.kaggle.com/c/mdm
-    submission-end-date: '08/19/2011 03:59 AM'
+    submission-end: '08/19/2011 03:59 AM'
     why-use-prizes: ''
     submission-start-date: 05/25/2011 04:00 AM
     fiscal-year: FY 2011

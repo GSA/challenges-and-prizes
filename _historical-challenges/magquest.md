@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.magquest.com/
-    submission-end-date: 05/16/2019 04:59 PM
+    submission-end: 05/16/2019 04:59 PM
     why-use-prizes: ''
     submission-start-date: 03/21/2019 09:00 AM
     fiscal-year: FY 2019

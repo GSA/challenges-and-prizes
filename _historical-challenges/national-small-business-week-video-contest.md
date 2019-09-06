@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://smallbizvid.challengepost.com/submissions
-    submission-end-date: 05/15/2012 09:00 PM
+    submission-end: 05/15/2012 09:00 PM
     why-use-prizes: ''
     submission-start-date: 04/16/2012 04:00 PM
     fiscal-year: FY 2012

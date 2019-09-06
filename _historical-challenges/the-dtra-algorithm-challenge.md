@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.innocentive.com/dtra
-    submission-end-date: 05/31/2013 09:00 PM
+    submission-end: 05/31/2013 09:00 PM
     why-use-prizes: ''
     submission-start-date: 01/03/2013 02:00 PM
     fiscal-year: FY 2013

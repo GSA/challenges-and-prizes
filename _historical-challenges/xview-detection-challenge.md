@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://xviewdataset.org/
-    submission-end-date: 07/08/2018 11:59 PM
+    submission-end: 07/08/2018 11:59 PM
     why-use-prizes: ''
     submission-start-date: 04/01/2018 12:00 AM
     fiscal-year: FY 2018

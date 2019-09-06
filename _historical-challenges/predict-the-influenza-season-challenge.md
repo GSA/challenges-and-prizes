@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.federalregister.gov/articles/2013/11/25/2013-28198/predict-the-influenza-season-challenge-requirements-and-registration
-    submission-end-date: 03/27/2014 08:00 AM
+    submission-end: 03/27/2014 08:00 AM
     why-use-prizes: ''
     submission-start-date: 11/23/2013 10:00 AM
     fiscal-year: FY 2014

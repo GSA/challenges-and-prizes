@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://2013serviceimpact.challengepost.com/submissions
-    submission-end-date: 07/08/2013 09:00 PM
+    submission-end: 07/08/2013 09:00 PM
     why-use-prizes: ''
     submission-start-date: 05/16/2013 01:00 PM
     fiscal-year: FY 2013

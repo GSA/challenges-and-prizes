@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.topcoder.com/epa/challenge-details/
-    submission-end-date: 11/30/2013 03:00 AM
+    submission-end: 11/30/2013 03:00 AM
     why-use-prizes: ''
     submission-start-date: '08/22/2013 05:00 PM'
     fiscal-year: FY 2013

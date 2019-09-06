@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.nrel.gov/business_opportunities/solicitations_rfps.html
-    submission-end-date: 11/13/2010 04:59 AM
+    submission-end: 11/13/2010 04:59 AM
     why-use-prizes: ''
     submission-start-date: '09/21/2010 04:00 AM'
     fiscal-year: FY 2010

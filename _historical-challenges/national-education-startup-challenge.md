@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://nesc.challengepost.com/submissions
-    submission-end-date: 05/01/2012 09:00 PM
+    submission-end: 05/01/2012 09:00 PM
     why-use-prizes: ''
     submission-start-date: 02/01/2012 05:00 PM
     fiscal-year: FY 2012

@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.topcoder.com/iss/longeron/
-    submission-end-date: 02/06/2013 11:00 PM
+    submission-end: 02/06/2013 11:00 PM
     why-use-prizes: ''
     submission-start-date: 01/16/2013 11:00 PM
     fiscal-year: FY 2013

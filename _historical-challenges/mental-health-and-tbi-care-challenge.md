@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://dcoe.ideascale.com/
-    submission-end-date: 06/05/2015 12:00 AM
+    submission-end: 06/05/2015 12:00 AM
     why-use-prizes: ''
     submission-start-date: 05/04/2015 12:00 AM
     fiscal-year: FY 2015

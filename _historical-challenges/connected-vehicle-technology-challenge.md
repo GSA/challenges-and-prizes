@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://connectedvehicle.challengepost.com/submissions
-    submission-end-date: 05/02/2011 03:59 AM
+    submission-end: 05/02/2011 03:59 AM
     why-use-prizes: ''
     submission-start-date: 01/24/2011 08:45 PM
     fiscal-year: FY 2011

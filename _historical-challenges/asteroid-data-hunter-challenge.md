@@ -23,7 +23,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.topcoder.com/asteroids/
-    submission-end-date: 12/22/2014 12:00 AM
+    submission-end: 12/22/2014 12:00 AM
     why-use-prizes: ''
     submission-start-date: 03/17/2014 12:00 PM
     fiscal-year: FY 2014

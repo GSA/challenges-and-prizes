@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://nij.gov/funding/fy13-ultra-high-speed-apps-challenge.htm
-    submission-end-date: '08/29/2014 12:00 AM'
+    submission-end: '08/29/2014 12:00 AM'
     why-use-prizes: ''
     submission-start-date: '09/27/2013 04:00 PM'
     fiscal-year: FY 2013

@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.health2con.com/devchallenge/smart-indivo-app-challenge/
-    submission-end-date: '09/29/2012 04:00 AM'
+    submission-end: '09/29/2012 04:00 AM'
     why-use-prizes: ''
     submission-start-date: 07/09/2012 09:00 PM
     fiscal-year: FY 2012

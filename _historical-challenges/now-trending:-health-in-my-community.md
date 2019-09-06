@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.nowtrendingchallenge.com/
-    submission-end-date: 06/02/2012 03:00 AM
+    submission-end: 06/02/2012 03:00 AM
     why-use-prizes: ''
     submission-start-date: 03/16/2012 12:00 PM
     fiscal-year: FY 2012

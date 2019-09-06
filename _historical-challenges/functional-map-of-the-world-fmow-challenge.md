@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.iarpa.gov/challenges/fmow.html
-    submission-end-date: 12/31/2017 12:00 PM
+    submission-end: 12/31/2017 12:00 PM
     why-use-prizes: ''
     submission-start-date: '09/14/2017 12:00 PM'
     fiscal-year: FY 2017

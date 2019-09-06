@@ -36,7 +36,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.innocentive.com/ar/challenge/9933113
-    submission-end-date: 06/08/2015 11:59 PM
+    submission-end: 06/08/2015 11:59 PM
     why-use-prizes: ''
     submission-start-date: 04/07/2015 12:00 PM
     fiscal-year: FY 2015

@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://americanmadechallenges.org/solarprize/round2
-    submission-end-date: 07/16/2019 02:00 PM
+    submission-end: 07/16/2019 02:00 PM
     why-use-prizes: ''
     submission-start-date: 03/22/2019 09:00 AM
     fiscal-year: FY 2019, FY 2020

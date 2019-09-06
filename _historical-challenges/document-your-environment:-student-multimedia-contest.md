@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://documerica.challengepost.com/submissions
-    submission-end-date: 01/07/2012 10:00 AM
+    submission-end: 01/07/2012 10:00 AM
     why-use-prizes: ''
     submission-start-date: 11/01/2011 06:00 PM
     fiscal-year: FY 2012

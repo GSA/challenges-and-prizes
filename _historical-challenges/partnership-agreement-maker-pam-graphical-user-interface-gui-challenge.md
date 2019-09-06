@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.topcoder.com/challenge-details/30055736/?type=design
-    submission-end-date: 01/31/2017 12:00 AM
+    submission-end: 01/31/2017 12:00 AM
     why-use-prizes: ''
     submission-start-date: 11/18/2016 12:00 AM
     fiscal-year: FY 2017

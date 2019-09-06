@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.health2con.com/devchallenge/health-data-platform-simple-sign-on-challenge/
-    submission-end-date: 10/03/2012 04:00 AM
+    submission-end: 10/03/2012 04:00 AM
     why-use-prizes: ''
     submission-start-date: 06/05/2012 02:00 PM
     fiscal-year: FY 2012

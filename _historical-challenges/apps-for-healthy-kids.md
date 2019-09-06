@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://appsforhealthykids.challengepost.com/submissions
-    submission-end-date: '08/15/2010 07:00 AM'
+    submission-end: '08/15/2010 07:00 AM'
     why-use-prizes: ''
     submission-start-date: 03/10/2010 10:00 AM
     fiscal-year: FY 2010

@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.drugabuse.gov/related-topics/trends-statistics/infographics/popping-pills-prescription-drug-abuse-in-america
-    submission-end-date: 06/17/2013 03:00 AM
+    submission-end: 06/17/2013 03:00 AM
     why-use-prizes: ''
     submission-start-date: 05/17/2013 05:00 AM
     fiscal-year: FY 2013

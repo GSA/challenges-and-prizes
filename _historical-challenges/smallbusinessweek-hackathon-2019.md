@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://smallbizweek.hackathon.com/
-    submission-end-date: 05/05/2019 09:45 AM
+    submission-end: 05/05/2019 09:45 AM
     why-use-prizes: ''
     submission-start-date: 05/03/2019 09:00 PM
     fiscal-year: FY 2019

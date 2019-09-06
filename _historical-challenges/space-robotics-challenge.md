@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.spaceroboticschallenge.com
-    submission-end-date: 10/07/2016 12:00 AM
+    submission-end: 10/07/2016 12:00 AM
     why-use-prizes: ''
     submission-start-date: '08/16/2020 04:00 PM'
     fiscal-year: FY 2016

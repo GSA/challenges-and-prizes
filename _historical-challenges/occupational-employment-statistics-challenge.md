@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://employment.challengepost.com/submissions
-    submission-end-date: '09/15/2011 03:00 AM'
+    submission-end: '09/15/2011 03:00 AM'
     why-use-prizes: ''
     submission-start-date: 07/14/2011 04:00 AM
     fiscal-year: FY 2011

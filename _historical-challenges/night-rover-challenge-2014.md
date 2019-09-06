@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.NightRover.org
-    submission-end-date: 10/26/2013 02:00 AM
+    submission-end: 10/26/2013 02:00 AM
     why-use-prizes: ''
     submission-start-date: 04/02/2013 04:00 AM
     fiscal-year: FY 2012

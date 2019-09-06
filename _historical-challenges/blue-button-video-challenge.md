@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://bluebuttonvideo.challengepost.com/submissions
-    submission-end-date: 11/28/2012 05:00 PM
+    submission-end: 11/28/2012 05:00 PM
     why-use-prizes: ''
     submission-start-date: 10/02/2012 10:00 AM
     fiscal-year: FY 2013

@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.fmc.gov/news/chairmans_award.aspx
-    submission-end-date: 02/10/2016 11:00 AM
+    submission-end: 02/10/2016 11:00 AM
     why-use-prizes: ''
     submission-start-date: 10/08/2015 04:00 PM
     fiscal-year: FY 2016

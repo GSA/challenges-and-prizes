@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://thetechchallenge.org
-    submission-end-date: 11/29/2012 05:00 PM
+    submission-end: 11/29/2012 05:00 PM
     why-use-prizes: ''
     submission-start-date: 10/31/2012 09:00 AM
     fiscal-year: FY 2013

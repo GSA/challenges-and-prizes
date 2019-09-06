@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://zerorobotics.mit.edu
-    submission-end-date: '09/06/2011 03:00 AM'
+    submission-end: '09/06/2011 03:00 AM'
     why-use-prizes: ''
     submission-start-date: '08/01/2011 04:00 AM'
     fiscal-year: FY 2011

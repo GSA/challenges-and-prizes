@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://studio.topcoder.com/?module=ViewContestDetails&ct=30030539
-    submission-end-date: 12/21/2012 10:00 PM
+    submission-end: 12/21/2012 10:00 PM
     why-use-prizes: ''
     submission-start-date: 12/11/2012 05:00 PM
     fiscal-year: FY 2013

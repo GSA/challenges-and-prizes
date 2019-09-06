@@ -26,7 +26,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://nano.gov/EnvisioNano
-    submission-end-date: 03/31/2015 12:00 PM
+    submission-end: 03/31/2015 12:00 PM
     why-use-prizes: ''
     submission-start-date: 01/20/2015 12:00 PM
     fiscal-year: FY 2015

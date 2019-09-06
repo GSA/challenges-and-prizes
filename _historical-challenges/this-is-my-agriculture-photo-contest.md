@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://my-agriculture.challengepost.com/submissions
-    submission-end-date: 07/31/2012 04:00 AM
+    submission-end: 07/31/2012 04:00 AM
     why-use-prizes: ''
     submission-start-date: 06/01/2012 01:00 PM
     fiscal-year: FY 2012

@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://community.topcoder.com/tc?module=MatchDetails&rd=16978
-    submission-end-date: '09/08/2017 09:00 PM'
+    submission-end: '09/08/2017 09:00 PM'
     why-use-prizes: ''
     submission-start-date: '08/23/2017 09:00 PM'
     fiscal-year: FY 2017

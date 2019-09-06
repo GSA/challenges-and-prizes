@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.doi.gov/pfm/afrchallenge.cfm
-    submission-end-date: 06/30/2014 12:00 AM
+    submission-end: 06/30/2014 12:00 AM
     why-use-prizes: ''
     submission-start-date: 06/05/2014 12:00 AM
     fiscal-year: FY 2014

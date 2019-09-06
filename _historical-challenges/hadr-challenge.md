@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://hadr.challengepost.com/submissions
-    submission-end-date: '08/15/2011 11:59 PM'
+    submission-end: '08/15/2011 11:59 PM'
     why-use-prizes: ''
     submission-start-date: 07/06/2011 12:00 AM
     fiscal-year: FY 2011

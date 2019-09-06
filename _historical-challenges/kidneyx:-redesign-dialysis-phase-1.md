@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.kidneyx.org/
-    submission-end-date: 02/28/2019 05:00 PM
+    submission-end: 02/28/2019 05:00 PM
     why-use-prizes: ''
     submission-start-date: 10/25/2018 12:00 AM
     fiscal-year: FY 2019, FY 2020

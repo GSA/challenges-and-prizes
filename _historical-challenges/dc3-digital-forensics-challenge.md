@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.dc3.mil/challenge/2012
-    submission-end-date: 11/01/2013 04:00 AM
+    submission-end: 11/01/2013 04:00 AM
     why-use-prizes: ''
     submission-start-date: 12/17/2012 05:00 AM
     fiscal-year: FY 2013

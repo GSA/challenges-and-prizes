@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://breakinggov.com/2011/12/23/sba-contest-yields-mobile-apps-to-aid-small-businesses/
-    submission-end-date: 11/21/2011 04:00 AM
+    submission-end: 11/21/2011 04:00 AM
     why-use-prizes: ''
     submission-start-date: 11/05/2011 05:00 AM
     fiscal-year: FY 2012

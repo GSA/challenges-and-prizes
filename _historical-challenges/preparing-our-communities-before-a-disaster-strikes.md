@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://disasterprep.challengepost.com/submissions
-    submission-end-date: 01/30/2011 04:59 AM
+    submission-end: 01/30/2011 04:59 AM
     why-use-prizes: ''
     submission-start-date: 10/28/2010 04:00 AM
     fiscal-year: FY 2011

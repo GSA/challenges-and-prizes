@@ -20,7 +20,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://prepare.challengepost.com/submissions
-    submission-end-date: 10/12/2011 03:59 AM
+    submission-end: 10/12/2011 03:59 AM
     why-use-prizes: ''
     submission-start-date: '08/29/2011 04:00 AM'
     fiscal-year: FY 2011

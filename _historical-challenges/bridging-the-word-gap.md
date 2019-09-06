@@ -20,7 +20,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: 'http://wordgapchallenge.hrsa.gov '
-    submission-end-date: 12/31/2015 12:00 AM
+    submission-end: 12/31/2015 12:00 AM
     why-use-prizes: ''
     submission-start-date: 11/08/2015 12:00 AM
     fiscal-year: FY 2016

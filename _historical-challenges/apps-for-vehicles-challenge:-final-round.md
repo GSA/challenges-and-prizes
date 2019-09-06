@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://vehicles.challengepost.com/submissions
-    submission-end-date: 03/15/2013 09:00 PM
+    submission-end: 03/15/2013 09:00 PM
     why-use-prizes: ''
     submission-start-date: 03/08/2013 02:00 PM
     fiscal-year: FY 2013

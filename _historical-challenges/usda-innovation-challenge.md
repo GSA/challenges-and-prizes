@@ -24,7 +24,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://usdaapps.devpost.com/
-    submission-end-date: 10/27/2015 05:00 PM
+    submission-end: 10/27/2015 05:00 PM
     why-use-prizes: ''
     submission-start-date: 07/24/2015 10:00 AM
     fiscal-year: FY 2016

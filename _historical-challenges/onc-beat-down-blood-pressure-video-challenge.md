@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://bloodpressure.challengepost.com/submissions
-    submission-end-date: 05/16/2012 05:00 PM
+    submission-end: 05/16/2012 05:00 PM
     why-use-prizes: ''
     submission-start-date: 03/28/2012 08:00 AM
     fiscal-year: FY 2012

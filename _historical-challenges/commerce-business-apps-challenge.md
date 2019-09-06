@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://docbusinessapps.challengepost.com/submissions
-    submission-end-date: 05/01/2012 04:00 AM
+    submission-end: 05/01/2012 04:00 AM
     why-use-prizes: ''
     submission-start-date: 02/22/2012 02:00 PM
     fiscal-year: FY 2012

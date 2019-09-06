@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.dmace.net
-    submission-end-date: 12/07/2010 04:00 AM
+    submission-end: 12/07/2010 04:00 AM
     why-use-prizes: ''
     submission-start-date: 11/01/2010 04:00 AM
     fiscal-year: FY 2011

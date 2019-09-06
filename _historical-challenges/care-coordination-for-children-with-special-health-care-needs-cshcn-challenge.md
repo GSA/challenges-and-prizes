@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://mchbgrandchallenges.hrsa.gov/challenges/care-coordination-cshcn
-    submission-end-date: 11/09/2018 08:00 PM
+    submission-end: 11/09/2018 08:00 PM
     why-use-prizes: ''
     submission-start-date: '08/30/2018 08:00 AM'
     fiscal-year: FY 2019, FY 2018

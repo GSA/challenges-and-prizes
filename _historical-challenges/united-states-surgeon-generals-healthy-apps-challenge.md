@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://sghealthyapps.challengepost.com/submissions
-    submission-end-date: 12/31/2011 05:00 AM
+    submission-end: 12/31/2011 05:00 AM
     why-use-prizes: ''
     submission-start-date: 12/06/2011 05:00 AM
     fiscal-year: FY 2012

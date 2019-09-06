@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.ftc.gov/strikeback
-    submission-end-date: 06/15/2015 10:00 PM
+    submission-end: 06/15/2015 10:00 PM
     why-use-prizes: ''
     submission-start-date: ''
     fiscal-year: FY 2015

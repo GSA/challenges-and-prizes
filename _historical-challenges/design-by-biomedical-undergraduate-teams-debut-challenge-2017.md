@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://venturewell.org/debut/
-    submission-end-date: 05/31/2017 12:00 AM
+    submission-end: 05/31/2017 12:00 AM
     why-use-prizes: ''
     submission-start-date: 03/21/2017 12:00 AM
     fiscal-year: FY 2017

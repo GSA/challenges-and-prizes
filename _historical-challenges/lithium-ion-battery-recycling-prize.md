@@ -20,7 +20,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://americanmadechallenges.org/batteryrecycling/
-    submission-end-date: '08/01/2019 04:00 PM'
+    submission-end: '08/01/2019 04:00 PM'
     why-use-prizes: ''
     submission-start-date: 02/15/2019 07:58 AM
     fiscal-year: FY 2019

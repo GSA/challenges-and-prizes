@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://ninesights.ninesigma.com/web/nasa-insitu-materials
-    submission-end-date: 12/03/2015 12:00 AM
+    submission-end: 12/03/2015 12:00 AM
     why-use-prizes: ''
     submission-start-date: 10/07/2015 12:00 AM
     fiscal-year: FY 2015

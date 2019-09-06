@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.respiratorchallenge.org
-    submission-end-date: 04/11/2019 05:00 PM
+    submission-end: 04/11/2019 05:00 PM
     why-use-prizes: ''
     submission-start-date: 12/12/2018 10:00 AM
     fiscal-year: FY 2019

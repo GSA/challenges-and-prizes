@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://epa.gov/aging/carson/index.htm
-    submission-end-date: 06/11/2011 07:00 AM
+    submission-end: 06/11/2011 07:00 AM
     why-use-prizes: ''
     submission-start-date: 01/24/2011 10:00 AM
     fiscal-year: FY 2011

@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.edsimchallenge.com
-    submission-end-date: 01/17/2017 04:59 PM
+    submission-end: 01/17/2017 04:59 PM
     why-use-prizes: ''
     submission-start-date: 11/02/2016 09:00 AM
     fiscal-year: FY 2017

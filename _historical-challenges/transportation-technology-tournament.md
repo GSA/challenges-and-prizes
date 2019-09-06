@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://transportationops.org/transportation-technology-tournament
-    submission-end-date: 02/15/2018 12:00 AM
+    submission-end: 02/15/2018 12:00 AM
     why-use-prizes: ''
     submission-start-date: 12/01/2017 12:00 AM
     fiscal-year: FY 2018

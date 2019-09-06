@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.metropolismag.com/May-2011/Getting-the-Feds-to-Zero-The-Next-Generation-2011-Runners-Up/
-    submission-end-date: 02/01/2011 09:00 AM
+    submission-end: 02/01/2011 09:00 AM
     why-use-prizes: ''
     submission-start-date: '09/23/2010 08:00 AM'
     fiscal-year: FY 2010

@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://public.csr.nih.gov/Pages/challenge.aspx
-    submission-end-date: 06/30/2014 04:00 AM
+    submission-end: 06/30/2014 04:00 AM
     why-use-prizes: ''
     submission-start-date: 05/05/2014 08:00 PM
     fiscal-year: FY 2014

@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://catalyst.energy.gov
-    submission-end-date: '09/21/2015 08:00 PM'
+    submission-end: '09/21/2015 08:00 PM'
     why-use-prizes: ''
     submission-start-date: 05/22/2014 08:00 PM
     fiscal-year: FY 2014

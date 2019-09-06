@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://betterbuildingsinitiative.energy.gov/individuals-taking-energy-action-manufacturing-prize
-    submission-end-date: 05/15/2020 11:59 PM
+    submission-end: 05/15/2020 11:59 PM
     why-use-prizes: ''
     submission-start-date: 10/05/2018 12:00 AM
     fiscal-year: FY 2019

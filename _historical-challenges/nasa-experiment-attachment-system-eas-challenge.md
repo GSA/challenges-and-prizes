@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://grabcad.com/challenges/nasa-experiment-attachment-system-eas-challenge
-    submission-end-date: 04/10/2016 11:00 PM
+    submission-end: 04/10/2016 11:00 PM
     why-use-prizes: ''
     submission-start-date: 03/07/2016 12:00 AM
     fiscal-year: FY 2016

@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://fastapps.dmlcompetition.net/application/submit/dmlc-4v
-    submission-end-date: 02/20/2012 10:00 PM
+    submission-end: 02/20/2012 10:00 PM
     why-use-prizes: ''
     submission-start-date: 11/14/2011 05:00 PM
     fiscal-year: FY 2012

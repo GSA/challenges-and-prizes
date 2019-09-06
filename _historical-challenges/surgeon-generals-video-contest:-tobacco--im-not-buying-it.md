@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.cdc.gov/tobacco/data_statistics/sgr/2012/contest/
-    submission-end-date: 04/23/2012 03:00 AM
+    submission-end: 04/23/2012 03:00 AM
     why-use-prizes: ''
     submission-start-date: 03/08/2012 04:00 PM
     fiscal-year: FY 2012

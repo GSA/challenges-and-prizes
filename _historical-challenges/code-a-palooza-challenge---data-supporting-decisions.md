@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://healthdatapalooza.org/get-involved/code-a-palooza-at-health-datapalooza-2014/
-    submission-end-date: 04/25/2014 12:00 AM
+    submission-end: 04/25/2014 12:00 AM
     why-use-prizes: ''
     submission-start-date: 04/09/2014 12:00 AM
     fiscal-year: FY 2014

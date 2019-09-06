@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://thebeautyofhealthdata.org/
-    submission-end-date: 03/15/2014 12:00 AM
+    submission-end: 03/15/2014 12:00 AM
     why-use-prizes: ''
     submission-start-date: 01/05/2014 12:00 AM
     fiscal-year: FY 2014

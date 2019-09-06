@@ -20,7 +20,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.envirohealthchallenge.com
-    submission-end-date: 06/23/2017 11:59 PM
+    submission-end: 06/23/2017 11:59 PM
     why-use-prizes: ''
     submission-start-date: 04/13/2017 12:00 AM
     fiscal-year: FY 2017

@@ -20,7 +20,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.omnicompete.com/trackingandtracingbooks.html
-    submission-end-date: 04/01/2015 11:59 PM
+    submission-end: 04/01/2015 11:59 PM
     why-use-prizes: ''
     submission-start-date: 01/22/2015 10:00 AM
     fiscal-year: FY 2015

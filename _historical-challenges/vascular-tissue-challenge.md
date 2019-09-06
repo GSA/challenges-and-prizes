@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.neworgan.org/vtc-prize.php
-    submission-end-date: '09/30/2019 11:00 PM'
+    submission-end: '09/30/2019 11:00 PM'
     why-use-prizes: ''
     submission-start-date: 06/13/2016 12:00 AM
     fiscal-year: FY 2016

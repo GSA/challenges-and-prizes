@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://readyforrescuechallenge.com
-    submission-end-date: 10/15/2018 04:59 PM
+    submission-end: 10/15/2018 04:59 PM
     why-use-prizes: ''
     submission-start-date: '09/05/2018 12:00 PM'
     fiscal-year: FY 2019, FY 2018

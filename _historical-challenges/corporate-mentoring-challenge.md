@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://corporatementoring.challengepost.com/submissions
-    submission-end-date: 10/15/2013 12:00 AM
+    submission-end: 10/15/2013 12:00 AM
     why-use-prizes: ''
     submission-start-date: 01/24/2013 06:00 PM
     fiscal-year: FY 2013

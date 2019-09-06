@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://mtconnect.challengepost.com/submissions
-    submission-end-date: 06/01/2013 04:00 AM
+    submission-end: 06/01/2013 04:00 AM
     why-use-prizes: ''
     submission-start-date: 04/12/2013 01:00 PM
     fiscal-year: FY 2013

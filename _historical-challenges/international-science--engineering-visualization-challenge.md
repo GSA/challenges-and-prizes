@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://1.usa.gov/scivischallenge
-    submission-end-date: '09/28/2012 04:00 PM'
+    submission-end: '09/28/2012 04:00 PM'
     why-use-prizes: ''
     submission-start-date: 05/31/2012 04:00 AM
     fiscal-year: FY 2012

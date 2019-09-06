@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: ''
-    submission-end-date: '09/17/2011 12:00 AM'
+    submission-end: '09/17/2011 12:00 AM'
     why-use-prizes: ''
     submission-start-date: 06/09/2011 01:00 PM
     fiscal-year: FY 2011

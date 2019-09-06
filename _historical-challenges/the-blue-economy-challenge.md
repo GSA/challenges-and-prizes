@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://theblueeconomychallenge.com/
-    submission-end-date: 06/30/2016 11:59 PM
+    submission-end: 06/30/2016 11:59 PM
     why-use-prizes: ''
     submission-start-date: 02/29/2016 12:00 AM
     fiscal-year: FY 2016

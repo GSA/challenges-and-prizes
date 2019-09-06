@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.faa.gov/about/office_org/headquarters_offices/ang/offices/management/coe/opps/
-    submission-end-date: 06/30/2017 11:59 PM
+    submission-end: 06/30/2017 11:59 PM
     why-use-prizes: ''
     submission-start-date: 04/25/2017 12:00 AM
     fiscal-year: FY 2017

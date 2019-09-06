@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.co2conversionchallenge.org/
-    submission-end-date: 02/07/2019 06:00 PM
+    submission-end: 02/07/2019 06:00 PM
     why-use-prizes: ''
     submission-start-date: '08/30/2018 12:00 PM'
     fiscal-year: FY 2019, FY 2018

@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://edu2030.agorize.com/
-    submission-end-date: '08/08/2018 04:15 PM'
+    submission-end: '08/08/2018 04:15 PM'
     why-use-prizes: ''
     submission-start-date: 06/13/2018 04:15 PM
     fiscal-year: FY 2018

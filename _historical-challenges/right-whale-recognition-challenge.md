@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.kaggle.com/c/noaa-right-whale-recognition
-    submission-end-date: 12/31/2015 11:59 PM
+    submission-end: 12/31/2015 11:59 PM
     why-use-prizes: ''
     submission-start-date: '08/27/2015 12:00 AM'
     fiscal-year: FY 2016

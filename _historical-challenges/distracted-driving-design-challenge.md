@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://dd-design.challengepost.com/submissions
-    submission-end-date: '08/28/2012 03:00 AM'
+    submission-end: '08/28/2012 03:00 AM'
     why-use-prizes: ''
     submission-start-date: 04/16/2012 01:00 PM
     fiscal-year: FY 2012

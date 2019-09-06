@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://go.usa.gov/c6y
-    submission-end-date: 11/11/2010 04:00 AM
+    submission-end: 11/11/2010 04:00 AM
     why-use-prizes: ''
     submission-start-date: '08/31/2010 04:00 AM'
     fiscal-year: FY 2010

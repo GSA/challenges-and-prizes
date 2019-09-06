@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://fairlabor.challengepost.com/submissions
-    submission-end-date: 10/12/2013 03:00 AM
+    submission-end: 10/12/2013 03:00 AM
     why-use-prizes: ''
     submission-start-date: 07/09/2013 04:00 AM
     fiscal-year: FY 2013

@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.openscienceprize.org/
-    submission-end-date: 02/29/2016 05:00 PM
+    submission-end: 02/29/2016 05:00 PM
     why-use-prizes: ''
     submission-start-date: 10/20/2015 08:00 AM
     fiscal-year: FY 2016

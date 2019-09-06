@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://tongal.com/project/Cinespace2019/
-    submission-end-date: 07/15/2019 11:59 PM
+    submission-end: 07/15/2019 11:59 PM
     why-use-prizes: ''
     submission-start-date: 03/01/2019 12:00 AM
     fiscal-year: FY 2019

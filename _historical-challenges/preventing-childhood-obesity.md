@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://mchbgrandchallenges.hrsa.gov/
-    submission-end-date: '09/24/2018 12:00 AM'
+    submission-end: '09/24/2018 12:00 AM'
     why-use-prizes: ''
     submission-start-date: 07/23/2018 12:00 AM
     fiscal-year: FY 2018

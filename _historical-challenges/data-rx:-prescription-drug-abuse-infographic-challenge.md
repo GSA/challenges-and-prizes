@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://data-rx.challengepost.com/submissions
-    submission-end-date: 06/14/2013 04:00 AM
+    submission-end: 06/14/2013 04:00 AM
     why-use-prizes: ''
     submission-start-date: 05/16/2013 06:00 PM
     fiscal-year: FY 2013

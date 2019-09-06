@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://health2challenge.org/blog/go-viral/
-    submission-end-date: 04/28/2011 03:00 AM
+    submission-end: 04/28/2011 03:00 AM
     why-use-prizes: ''
     submission-start-date: 02/18/2011 05:00 AM
     fiscal-year: FY 2011

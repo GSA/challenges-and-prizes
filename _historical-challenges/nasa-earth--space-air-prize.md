@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.earthspaceairprize.org
-    submission-end-date: 01/31/2018 06:00 PM
+    submission-end: 01/31/2018 06:00 PM
     why-use-prizes: ''
     submission-start-date: '09/19/2017 09:00 AM'
     fiscal-year: FY 2016

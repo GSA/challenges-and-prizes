@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://innovation.ed.gov/challenges/challengetoinnovate/show/
-    submission-end-date: 01/15/2011 04:00 AM
+    submission-end: 01/15/2011 04:00 AM
     why-use-prizes: ''
     submission-start-date: '09/07/2010 04:00 AM'
     fiscal-year: FY 2010

@@ -23,7 +23,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://topcoder.com/earthscience
-    submission-end-date: 03/15/2015 12:00 AM
+    submission-end: 03/15/2015 12:00 AM
     why-use-prizes: ''
     submission-start-date: 12/15/2014 12:00 AM
     fiscal-year: FY 2015

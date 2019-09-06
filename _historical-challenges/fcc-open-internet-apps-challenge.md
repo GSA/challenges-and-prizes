@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://openinternetapps.challengepost.com/submissions
-    submission-end-date: 06/02/2011 07:59 AM
+    submission-end: 06/02/2011 07:59 AM
     why-use-prizes: ''
     submission-start-date: 02/01/2011 10:00 AM
     fiscal-year: FY 2011

@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.samhsa.gov/newsroom/advisories/1309183038.aspx
-    submission-end-date: 07/08/2013 01:00 PM
+    submission-end: 07/08/2013 01:00 PM
     why-use-prizes: ''
     submission-start-date: 05/24/2013 04:00 PM
     fiscal-year: FY 2013

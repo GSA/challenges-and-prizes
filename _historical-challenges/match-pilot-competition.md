@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.sba.gov/match?utm_source=govdelivery&utm_medium=email&utm_campaign=makerspace_challenge
-    submission-end-date: 07/08/2019 11:59 PM
+    submission-end: 07/08/2019 11:59 PM
     why-use-prizes: ''
     submission-start-date: 05/21/2019 12:00 PM
     fiscal-year: FY 2019

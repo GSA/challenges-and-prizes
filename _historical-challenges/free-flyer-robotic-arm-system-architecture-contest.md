@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.freelancer.com/contest/NASA-System-Architecture-Registration-Contest-329981.html
-    submission-end-date: 02/05/2016 12:00 AM
+    submission-end: 02/05/2016 12:00 AM
     why-use-prizes: ''
     submission-start-date: 01/14/2016 03:00 PM
     fiscal-year: FY 2016

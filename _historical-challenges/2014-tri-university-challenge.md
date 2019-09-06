@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.epa.gov/tri/university
-    submission-end-date: 03/21/2014 04:00 AM
+    submission-end: 03/21/2014 04:00 AM
     why-use-prizes: ''
     submission-start-date: 02/04/2014 05:00 AM
     fiscal-year: FY 2014

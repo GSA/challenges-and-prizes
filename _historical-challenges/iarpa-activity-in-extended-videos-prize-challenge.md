@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://actev.nist.gov/prizechallenge
-    submission-end-date: 02/28/2019 11:59 PM
+    submission-end: 02/28/2019 11:59 PM
     why-use-prizes: ''
     submission-start-date: 11/01/2018 12:00 AM
     fiscal-year: FY 2019

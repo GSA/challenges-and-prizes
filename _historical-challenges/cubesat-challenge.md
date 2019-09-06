@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://herox.com/cubesat-challenge
-    submission-end-date: 10/18/2017 05:00 PM
+    submission-end: 10/18/2017 05:00 PM
     why-use-prizes: ''
     submission-start-date: '08/15/2017 11:13 AM'
     fiscal-year: FY 2017

@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://connect.state.gov/page/photo-contest
-    submission-end-date: 12/18/2010 04:00 AM
+    submission-end: 12/18/2010 04:00 AM
     why-use-prizes: ''
     submission-start-date: 11/09/2010 05:00 AM
     fiscal-year: FY 2011

@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.nasa.gov/feature/nasa-international-space-station-rfid-localization-challenge
-    submission-end-date: 10/31/2018 11:59 PM
+    submission-end: 10/31/2018 11:59 PM
     why-use-prizes: ''
     submission-start-date: '09/26/2018 12:00 AM'
     fiscal-year: FY 2019, FY 2018

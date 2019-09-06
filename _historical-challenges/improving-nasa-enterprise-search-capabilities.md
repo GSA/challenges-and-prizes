@@ -20,7 +20,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.topcoder.com
-    submission-end-date: 02/10/2016 12:00 AM
+    submission-end: 02/10/2016 12:00 AM
     why-use-prizes: ''
     submission-start-date: '09/29/2015 12:00 AM'
     fiscal-year: FY 2015

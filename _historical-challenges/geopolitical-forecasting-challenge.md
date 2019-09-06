@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.iarpa.gov/challenges/gfchallenge.html
-    submission-end-date: '09/07/2018 02:00 PM'
+    submission-end: '09/07/2018 02:00 PM'
     why-use-prizes: ''
     submission-start-date: 03/07/2018 12:00 AM
     fiscal-year: FY 2018

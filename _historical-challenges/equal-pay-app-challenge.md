@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.dol.gov/equalpay/apps-winners.htm
-    submission-end-date: 04/01/2012 03:00 AM
+    submission-end: 04/01/2012 03:00 AM
     why-use-prizes: ''
     submission-start-date: 01/31/2012 06:00 PM
     fiscal-year: FY 2012

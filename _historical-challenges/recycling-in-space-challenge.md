@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://9sig.co/NASA_RISC
-    submission-end-date: 01/16/2019 05:00 PM
+    submission-end: 01/16/2019 05:00 PM
     why-use-prizes: ''
     submission-start-date: 10/10/2018 12:00 PM
     fiscal-year: FY 2019

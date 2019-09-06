@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.nigms.nih.gov/About/NIGMSAdvanceTracingChallenge/Pages/default.aspx
-    submission-end-date: 10/21/2014 08:00 AM
+    submission-end: 10/21/2014 08:00 AM
     why-use-prizes: ''
     submission-start-date: 07/22/2014 08:00 AM
     fiscal-year: FY 2014

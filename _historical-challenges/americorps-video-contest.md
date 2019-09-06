@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://americorpsvideo.challengepost.com/submissions
-    submission-end-date: 07/15/2012 09:00 PM
+    submission-end: 07/15/2012 09:00 PM
     why-use-prizes: ''
     submission-start-date: 03/10/2012 02:00 PM
     fiscal-year: FY 2012

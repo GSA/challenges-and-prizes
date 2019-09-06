@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.health2challenge.org/ehr-accessibility-module/
-    submission-end-date: 07/24/2012 04:00 AM
+    submission-end: 07/24/2012 04:00 AM
     why-use-prizes: ''
     submission-start-date: 01/30/2012 02:00 PM
     fiscal-year: FY 2012

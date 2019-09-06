@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://ninesights.ninesigma.com/web/nasa-eva-test
-    submission-end-date: 12/03/2015 12:00 AM
+    submission-end: 12/03/2015 12:00 AM
     why-use-prizes: ''
     submission-start-date: 10/05/2015 12:00 AM
     fiscal-year: FY 2015

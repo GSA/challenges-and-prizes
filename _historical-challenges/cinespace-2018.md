@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://tongal.com/l/55fz9wra0awp
-    submission-end-date: '08/01/2018 12:00 AM'
+    submission-end: '08/01/2018 12:00 AM'
     why-use-prizes: ''
     submission-start-date: 03/19/2018 12:00 AM
     fiscal-year: FY 2018

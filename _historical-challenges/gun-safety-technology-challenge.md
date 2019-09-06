@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://nij.gov/funding/Pages/fy16-gun-safety-challenge.aspx
-    submission-end-date: 01/05/2016 11:59 PM
+    submission-end: 01/05/2016 11:59 PM
     why-use-prizes: ''
     submission-start-date: 10/07/2015 09:00 AM
     fiscal-year: FY 2016

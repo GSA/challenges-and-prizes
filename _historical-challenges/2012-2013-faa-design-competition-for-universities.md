@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://FAADesignCompetition.odu.edu
-    submission-end-date: 04/20/2013 03:00 AM
+    submission-end: 04/20/2013 03:00 AM
     why-use-prizes: ''
     submission-start-date: 11/01/2012 04:00 AM
     fiscal-year: FY 2013

@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://managingmeds.challengepost.com/submissions
-    submission-end-date: 10/19/2012 05:00 PM
+    submission-end: 10/19/2012 05:00 PM
     why-use-prizes: ''
     submission-start-date: '08/10/2012 10:00 AM'
     fiscal-year: FY 2012

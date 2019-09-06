@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://mhhypertensioncntrlchallenge.com/
-    submission-end-date: 04/01/2019 11:59 PM
+    submission-end: 04/01/2019 11:59 PM
     why-use-prizes: ''
     submission-start-date: 02/14/2019 12:00 AM
     fiscal-year: FY 2019

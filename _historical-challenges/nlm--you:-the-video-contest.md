@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.nlm.nih.gov/news/video_winners.html
-    submission-end-date: 04/01/2011 03:59 AM
+    submission-end: 04/01/2011 03:59 AM
     why-use-prizes: ''
     submission-start-date: 02/22/2011 05:00 AM
     fiscal-year: FY 2011

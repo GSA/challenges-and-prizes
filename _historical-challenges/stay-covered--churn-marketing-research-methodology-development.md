@@ -20,7 +20,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://staycovered.challengepost.com/updates/1002-announcing-the-winners
-    submission-end-date: '09/01/2013 03:00 AM'
+    submission-end: '09/01/2013 03:00 AM'
     why-use-prizes: ''
     submission-start-date: 07/16/2013 09:00 PM
     fiscal-year: FY 2013

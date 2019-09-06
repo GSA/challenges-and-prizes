@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.foodsafetychallenge.com/
-    submission-end-date: 11/09/2014 12:00 AM
+    submission-end: 11/09/2014 12:00 AM
     why-use-prizes: ''
     submission-start-date: '09/23/2014 04:00 AM'
     fiscal-year: FY 2014

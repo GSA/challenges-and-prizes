@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.ahrq.gov/sdoh-challenge/index.html
-    submission-end-date: 06/07/2019 05:00 PM
+    submission-end: 06/07/2019 05:00 PM
     why-use-prizes: ''
     submission-start-date: 03/07/2019 12:00 AM
     fiscal-year: FY 2020

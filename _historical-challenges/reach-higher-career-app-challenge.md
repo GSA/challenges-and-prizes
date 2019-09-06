@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.reachhigherchallenge.com
-    submission-end-date: 12/07/2015 11:59 PM
+    submission-end: 12/07/2015 11:59 PM
     why-use-prizes: ''
     submission-start-date: 10/07/2015 12:00 AM
     fiscal-year: FY 2016

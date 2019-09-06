@@ -31,7 +31,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.epa.gov/campusrainworks
-    submission-end-date: '09/30/2016 12:00 PM'
+    submission-end: '09/30/2016 12:00 PM'
     why-use-prizes: ''
     submission-start-date: '09/01/2016 12:00 PM'
     fiscal-year: FY 2017

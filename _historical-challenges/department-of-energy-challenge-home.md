@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.energy.gov/eere/buildings/doe-challenge-home
-    submission-end-date: 02/24/2015 03:00 PM
+    submission-end: 02/24/2015 03:00 PM
     why-use-prizes: ''
     submission-start-date: 02/24/2014 03:00 PM
     fiscal-year: FY 2014

@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.whitehouse.gov/blog/2013/04/23/white-house-announces-girl-empower-equal-futures-challenge-notable-app-0
-    submission-end-date: 01/19/2013 10:00 AM
+    submission-end: 01/19/2013 10:00 AM
     why-use-prizes: ''
     submission-start-date: '09/25/2012 08:00 AM'
     fiscal-year: FY 2012

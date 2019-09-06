@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://tongal.com/project/NASACineSpace
-    submission-end-date: '08/01/2017 12:00 AM'
+    submission-end: '08/01/2017 12:00 AM'
     why-use-prizes: ''
     submission-start-date: 04/06/2017 12:00 AM
     fiscal-year: FY 2017

@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://web.ornl.gov/sci/buildings/jump/
-    submission-end-date: 12/16/2015 11:59 PM
+    submission-end: 12/16/2015 11:59 PM
     why-use-prizes: ''
     submission-start-date: ''
     fiscal-year: FY 2016

@@ -56,7 +56,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://proofchallenge.com/
-    submission-end-date: 10/29/2016 12:00 AM
+    submission-end: 10/29/2016 12:00 AM
     why-use-prizes: ''
     submission-start-date: '08/19/2016 12:00 AM'
     fiscal-year: FY 2016

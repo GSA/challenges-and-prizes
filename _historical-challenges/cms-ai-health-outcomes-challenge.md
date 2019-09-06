@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://ai.cms.gov/
-    submission-end-date: 06/18/2019 05:00 PM
+    submission-end: 06/18/2019 05:00 PM
     why-use-prizes: ''
     submission-start-date: 03/27/2019 02:00 PM
     fiscal-year: FY 2019

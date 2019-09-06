@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.nsf.gov/gradchallenge/
-    submission-end-date: 04/16/2013 07:00 AM
+    submission-end: 04/16/2013 07:00 AM
     why-use-prizes: ''
     submission-start-date: 02/15/2013 02:00 PM
     fiscal-year: FY 2013

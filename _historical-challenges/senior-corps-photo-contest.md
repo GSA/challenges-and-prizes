@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://seniorcorpsphotos.challengepost.com/submissions
-    submission-end-date: '08/07/2013 01:00 AM'
+    submission-end: '08/07/2013 01:00 AM'
     why-use-prizes: ''
     submission-start-date: 05/06/2013 09:00 PM
     fiscal-year: FY 2013

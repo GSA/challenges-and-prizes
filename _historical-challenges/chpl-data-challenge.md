@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.cccinnovationcenter.com/challenges/chpl-data-challenge/
-    submission-end-date: 10/31/2018 04:00 PM
+    submission-end: 10/31/2018 04:00 PM
     why-use-prizes: ''
     submission-start-date: 07/10/2018 12:00 AM
     fiscal-year: FY 2018

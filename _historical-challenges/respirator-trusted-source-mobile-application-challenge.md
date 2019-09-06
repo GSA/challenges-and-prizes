@@ -20,7 +20,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.resp-mobile-app.challengepost.com/submissions
-    submission-end-date: 12/24/2013 09:00 PM
+    submission-end: 12/24/2013 09:00 PM
     why-use-prizes: ''
     submission-start-date: 10/21/2013 04:00 AM
     fiscal-year: FY 2013

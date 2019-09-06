@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.mmsonline.com/blog/post/clemson-u-grad-student-wins-mtconnect-challenge
-    submission-end-date: 02/01/2014 04:00 AM
+    submission-end: 02/01/2014 04:00 AM
     why-use-prizes: ''
     submission-start-date: 07/01/2013 04:00 AM
     fiscal-year: FY 2013

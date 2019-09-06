@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://cancercare.challengepost.com/submissions
-    submission-end-date: 12/14/2012 05:00 PM
+    submission-end: 12/14/2012 05:00 PM
     why-use-prizes: ''
     submission-start-date: 10/18/2012 09:00 AM
     fiscal-year: FY 2013

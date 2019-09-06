@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.health2con.com/devchallenge/aetna-foundation-hhs-nhit-innovating-for-the-underserved-business-plan-challenge/
-    submission-end-date: 07/22/2015 12:00 AM
+    submission-end: 07/22/2015 12:00 AM
     why-use-prizes: ''
     submission-start-date: ''
     fiscal-year: FY 2015

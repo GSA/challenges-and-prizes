@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://nij.gov/funding/pages/rct-challenge.aspx
-    submission-end-date: 01/04/2016 12:00 PM
+    submission-end: 01/04/2016 12:00 PM
     why-use-prizes: ''
     submission-start-date: 07/08/2014 12:00 PM
     fiscal-year: FY 2014

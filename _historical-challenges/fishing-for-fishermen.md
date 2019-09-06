@@ -30,7 +30,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=16734&pm=14378
-    submission-end-date: '09/19/2016 09:00 PM'
+    submission-end: '09/19/2016 09:00 PM'
     why-use-prizes: ''
     submission-start-date: '09/05/2016 09:00 PM'
     fiscal-year: FY 2016

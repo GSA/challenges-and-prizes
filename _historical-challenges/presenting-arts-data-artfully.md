@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://artsdata.challengepost.com/submissions
-    submission-end-date: 02/02/2014 10:00 AM
+    submission-end: 02/02/2014 10:00 AM
     why-use-prizes: ''
     submission-start-date: '09/27/2013 08:00 AM'
     fiscal-year: FY 2013

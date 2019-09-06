@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.health2con.com/devchallenge/mobilizing-data-for-pressure-ulcer-prevention-challenge/
-    submission-end-date: 04/30/2013 03:00 AM
+    submission-end: 04/30/2013 03:00 AM
     why-use-prizes: ''
     submission-start-date: 12/06/2012 02:00 PM
     fiscal-year: FY 2013

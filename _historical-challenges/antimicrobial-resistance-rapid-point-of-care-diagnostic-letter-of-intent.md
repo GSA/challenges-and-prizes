@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.cccinnovationcenter.com/challenges/antimicrobial-resistance-diagnostic-challenge/
-    submission-end-date: '09/04/2018 11:59 PM'
+    submission-end: '09/04/2018 11:59 PM'
     why-use-prizes: ''
     submission-start-date: 06/01/2018 09:00 AM
     fiscal-year: FY 2018

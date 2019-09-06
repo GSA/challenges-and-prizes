@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.epa.gov/greenchemistry/pubs/pgcc/howto.html
-    submission-end-date: 01/01/2011 04:00 AM
+    submission-end: 01/01/2011 04:00 AM
     why-use-prizes: ''
     submission-start-date: 11/29/2010 05:00 AM
     fiscal-year: FY 2011

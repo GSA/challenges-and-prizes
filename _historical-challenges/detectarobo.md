@@ -41,7 +41,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.ftc.gov/news-events/contests/detectarobo
-    submission-end-date: 06/07/2015 08:00 PM
+    submission-end: 06/07/2015 08:00 PM
     why-use-prizes: ''
     submission-start-date: 06/06/2015 09:00 AM
     fiscal-year: FY 2015

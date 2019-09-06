@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.eventbrite.com/e/georgia-fall-2014-game-jam-tickets-12515499195
-    submission-end-date: '09/28/2014 04:00 PM'
+    submission-end: '09/28/2014 04:00 PM'
     why-use-prizes: ''
     submission-start-date: '09/26/2014 04:00 PM'
     fiscal-year: FY 2014

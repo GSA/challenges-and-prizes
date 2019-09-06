@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://applifyingusgsdata.challengepost.com/submissions
-    submission-end-date: 04/02/2013 03:00 AM
+    submission-end: 04/02/2013 03:00 AM
     why-use-prizes: ''
     submission-start-date: 01/09/2013 02:00 PM
     fiscal-year: FY 2013

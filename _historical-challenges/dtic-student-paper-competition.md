@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://go.usa.gov/ceD
-    submission-end-date: 02/08/2011 04:59 AM
+    submission-end: 02/08/2011 04:59 AM
     why-use-prizes: ''
     submission-start-date: '09/01/2010 04:00 AM'
     fiscal-year: FY 2010

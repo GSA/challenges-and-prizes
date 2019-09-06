@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.nationalservice.gov/newsroom/press-releases/2011/national-service-agency-announces-2011-september-11th-challenge-grant
-    submission-end-date: '09/14/2011 09:00 PM'
+    submission-end: '09/14/2011 09:00 PM'
     why-use-prizes: ''
     submission-start-date: '09/11/2011 04:01 PM'
     fiscal-year: FY 2011

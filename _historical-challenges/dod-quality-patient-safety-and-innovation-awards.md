@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.health.mil/dodpatientsafety
-    submission-end-date: 10/14/2014 04:00 AM
+    submission-end: 10/14/2014 04:00 AM
     why-use-prizes: ''
     submission-start-date: '09/04/2014 04:00 AM'
     fiscal-year: FY 2014

@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://buildings.ideascale.com/
-    submission-end-date: 05/31/2015 11:59 PM
+    submission-end: 05/31/2015 11:59 PM
     why-use-prizes: ''
     submission-start-date: ''
     fiscal-year: FY 2015

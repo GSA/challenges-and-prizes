@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://healthylivinginnovation.challengepost.com/submissions
-    submission-end-date: 03/01/2011 11:00 PM
+    submission-end: 03/01/2011 11:00 PM
     why-use-prizes: ''
     submission-start-date: 01/18/2011 12:00 AM
     fiscal-year: FY 2011

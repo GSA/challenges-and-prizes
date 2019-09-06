@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.eere.energy.gov/solar/sunshot/prize.html
-    submission-end-date: 07/22/2015 11:59 PM
+    submission-end: 07/22/2015 11:59 PM
     why-use-prizes: ''
     submission-start-date: 04/02/2015 11:59 PM
     fiscal-year: FY 2012

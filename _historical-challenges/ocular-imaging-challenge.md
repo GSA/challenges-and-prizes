@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.health2con.com/devchallenge/ocular-imaging-challenge/
-    submission-end-date: 11/12/2012 04:00 AM
+    submission-end: 11/12/2012 04:00 AM
     why-use-prizes: ''
     submission-start-date: 05/14/2012 09:00 PM
     fiscal-year: FY 2012

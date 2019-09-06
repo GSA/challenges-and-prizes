@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.herox.com/animaltracking?utm_source=NextGen&utm_medium=weblink&utm_campaign=challenge-gov
-    submission-end-date: 11/11/2018 05:00 PM
+    submission-end: 11/11/2018 05:00 PM
     why-use-prizes: ''
     submission-start-date: '09/12/2018 12:00 AM'
     fiscal-year: FY 2019, FY 2018

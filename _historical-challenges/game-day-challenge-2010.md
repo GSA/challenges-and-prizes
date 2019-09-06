@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.epa.gov/epawaste/partnerships/wastewise/challenge/gameday/
-    submission-end-date: 10/07/2010 11:59 PM
+    submission-end: 10/07/2010 11:59 PM
     why-use-prizes: ''
     submission-start-date: '09/07/2010 12:00 AM'
     fiscal-year: FY 2010

@@ -23,7 +23,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.topcoder.com/dtn/neighbor-discovery/
-    submission-end-date: 07/11/2015 12:00 AM
+    submission-end: 07/11/2015 12:00 AM
     why-use-prizes: ''
     submission-start-date: 02/05/2015 12:00 AM
     fiscal-year: FY 2015

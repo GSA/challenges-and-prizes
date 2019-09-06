@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://yourrecord.challengepost.com/submissions
-    submission-end-date: '08/23/2012 05:00 PM'
+    submission-end: '08/23/2012 05:00 PM'
     why-use-prizes: ''
     submission-start-date: 07/09/2012 09:00 AM
     fiscal-year: FY 2012

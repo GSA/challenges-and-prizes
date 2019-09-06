@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.techtoprotectchallenge.org
-    submission-end-date: 11/15/2019 05:00 PM
+    submission-end: 11/15/2019 05:00 PM
     why-use-prizes: ''
     submission-start-date: 06/01/2019 12:00 PM
     fiscal-year: FY 2019, FY 2020

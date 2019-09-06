@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.topcoder.com/lp/detect-radiation
-    submission-end-date: 04/19/2019 09:00 PM
+    submission-end: 04/19/2019 09:00 PM
     why-use-prizes: ''
     submission-start-date: 03/08/2019 09:00 PM
     fiscal-year: FY 2019

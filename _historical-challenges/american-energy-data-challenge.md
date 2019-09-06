@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://energychallenge.energy.gov/
-    submission-end-date: 02/09/2014 12:00 AM
+    submission-end: 02/09/2014 12:00 AM
     why-use-prizes: ''
     submission-start-date: 11/06/2013 05:00 AM
     fiscal-year: FY 2014

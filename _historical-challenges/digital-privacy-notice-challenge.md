@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://oncchallenges.ideascale.com/
-    submission-end-date: 04/07/2014 12:00 AM
+    submission-end: 04/07/2014 12:00 AM
     why-use-prizes: ''
     submission-start-date: 02/07/2014 12:00 AM
     fiscal-year: FY 2014

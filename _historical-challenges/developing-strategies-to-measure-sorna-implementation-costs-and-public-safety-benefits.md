@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://nij.gov/funding/2013/sorna-challenge.htm
-    submission-end-date: 11/18/2013 12:00 AM
+    submission-end: 11/18/2013 12:00 AM
     why-use-prizes: ''
     submission-start-date: 07/01/2013 01:00 PM
     fiscal-year: FY 2013

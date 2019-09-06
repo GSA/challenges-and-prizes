@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.health2con.com/devchallenge/challenges/onc-i2-challenges/
-    submission-end-date: '09/06/2012 04:00 AM'
+    submission-end: '09/06/2012 04:00 AM'
     why-use-prizes: ''
     submission-start-date: 06/05/2012 06:00 PM
     fiscal-year: FY 2012

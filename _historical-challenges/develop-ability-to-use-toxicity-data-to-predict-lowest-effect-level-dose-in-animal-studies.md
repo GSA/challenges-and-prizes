@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://epa.gov/ncct/challenges.html
-    submission-end-date: 07/11/2014 12:00 AM
+    submission-end: 07/11/2014 12:00 AM
     why-use-prizes: ''
     submission-start-date: 12/12/2013 03:00 PM
     fiscal-year: FY 2014

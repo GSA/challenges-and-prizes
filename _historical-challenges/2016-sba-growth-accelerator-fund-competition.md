@@ -20,7 +20,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://gaf2014.wufoo.com/forms/2016-sba-growth-accelerator-fund-application/
-    submission-end-date: 06/03/2016 11:59 PM
+    submission-end: 06/03/2016 11:59 PM
     why-use-prizes: ''
     submission-start-date: 05/02/2016 12:00 PM
     fiscal-year: FY 2016

@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://www.subtchallenge.com/
-    submission-end-date: '09/30/2021 12:00 AM'
+    submission-end: '09/30/2021 12:00 AM'
     why-use-prizes: ''
     submission-start-date: '09/27/2018 12:00 AM'
     fiscal-year: FY 2018

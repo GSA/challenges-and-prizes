@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.topcoder.com/cms/medicaid-enrollment-portal/
-    submission-end-date: 11/17/2012 04:00 AM
+    submission-end: 11/17/2012 04:00 AM
     why-use-prizes: ''
     submission-start-date: 05/31/2012 02:00 AM
     fiscal-year: FY 2012

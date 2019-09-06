@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.health2con.com/devchallenge/reporting-patient-safety-events-challenge/
-    submission-end-date: '09/01/2012 03:00 AM'
+    submission-end: '09/01/2012 03:00 AM'
     why-use-prizes: ''
     submission-start-date: 04/12/2012 03:00 PM
     fiscal-year: FY 2012

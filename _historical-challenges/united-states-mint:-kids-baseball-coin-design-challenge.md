@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://kidsbatterup.challengepost.com/submissions
-    submission-end-date: 06/29/2013 08:00 AM
+    submission-end: 06/29/2013 08:00 AM
     why-use-prizes: ''
     submission-start-date: 04/11/2013 08:00 AM
     fiscal-year: FY 2013

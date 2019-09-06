@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.grc.nasa.gov/WWW/balloonsat/Index.html
-    submission-end-date: 02/12/2011 04:59 AM
+    submission-end: 02/12/2011 04:59 AM
     why-use-prizes: ''
     submission-start-date: 01/12/2011 05:00 AM
     fiscal-year: FY 2011

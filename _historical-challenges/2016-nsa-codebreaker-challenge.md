@@ -17,7 +17,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://codebreaker.ltsnet.net/
-    submission-end-date: 12/31/2016 11:59 PM
+    submission-end: 12/31/2016 11:59 PM
     why-use-prizes: ''
     submission-start-date: '09/09/2016 09:00 PM'
     fiscal-year: FY 2016

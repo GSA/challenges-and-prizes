@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.gpo.gov/fdsys/pkg/FR-2012-05-11/pdf/2012-11465.pdf
-    submission-end-date: 07/27/2012 03:00 AM
+    submission-end: 07/27/2012 03:00 AM
     why-use-prizes: ''
     submission-start-date: 05/11/2012 01:00 PM
     fiscal-year: FY 2012

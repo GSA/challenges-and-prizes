@@ -19,7 +19,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: http://www.neurostartupchallenge.org/enter-now.html
-    submission-end-date: 12/12/2014 12:00 AM
+    submission-end: 12/12/2014 12:00 AM
     why-use-prizes: ''
     submission-start-date: '08/01/2014 12:00 AM'
     fiscal-year: FY 2014

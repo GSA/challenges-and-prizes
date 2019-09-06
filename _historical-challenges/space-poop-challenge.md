@@ -18,7 +18,7 @@ campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
     external-url: https://herox.com/SpacePoop
-    submission-end-date: 12/20/2016 12:00 AM
+    submission-end: 12/20/2016 12:00 AM
     why-use-prizes: ''
     submission-start-date: 10/11/2016 12:00 AM
     fiscal-year: FY 2017
