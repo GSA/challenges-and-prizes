@@ -44,6 +44,12 @@ layout: default
 
             <div class="text-base-darker">
                 <!-- Challenge Content start -->
+
+                    <p>
+                    {% if page.external-url  != "" %}
+                    <h3>This challenge is externally hosted.</h3> <p>You can view the challenge details here: <a href="{{page.external-url}}" target="_blank" rel="noopener">{{page.external-url}}</a></p>
+                    </p>
+                    {% endif %}
                     <!--Description-->
                     {% if page.description != "" %}
                     <h3 class="text-accent-warm-dark font-heading-lg">Description</h3>
