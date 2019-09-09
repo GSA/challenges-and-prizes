@@ -51,6 +51,11 @@ challenge-manager-email:
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<p><strong>Selection Panel</strong></p>
+<ul>
+<li>A panel consisting of subject matter experts in both ceramics and ballistics will review submissions to determine a solution that best meets the intent of this Prize Challenge.</li>
+<li>Panel will examine the submission for completeness, ability to address all defects listed in the description statement, demonstrated ability to perform the relevant characterization and analysis.</li>
+</ul>
 
 <!--  How To Enter start -->
 ### How To Enter
