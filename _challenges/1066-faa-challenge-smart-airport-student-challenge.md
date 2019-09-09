@@ -60,8 +60,8 @@ challenge-manager-email: faachallenge@nianet.org
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p>Finalists teams will be invited to demonstrate their concepts at the FAA William J. Hughes Technical Center (FAA Technical Center) and at a technical symposium in Atlantic City, New Jersey in May of 2020. A stipend of up to $6,000 will be awarded to each of the three finalist teams to help offset the cost of traveling to New Jersey to demonstrate their concepts.</p>
-<p>Student participants of each finalist team will receive certificates. Finalists teams will also be invited to an awards ceremony where a $25,000 prize will be presented to the lead university of the winning team.</p>
+<p>Finalist teams will be invited to demonstrate their concepts at the FAA William J. Hughes Technical Center (FAA Technical Center) and at a technical symposium in Atlantic City, New Jersey in May of 2020. A stipend of up to $6,000 will be awarded to each of the three finalist teams to help offset the cost of traveling to New Jersey to demonstrate their concepts.</p>
+<p>Student participants of each finalist team will receive certificates. Finalist teams will also be invited to an awards ceremony where a $25,000 prize will be presented to the lead university of the winning team.</p>
 
 <!-- Rules start -->
 ### Rules 
@@ -78,7 +78,7 @@ challenge-manager-email: faachallenge@nianet.org
 <p><strong>Initial Screening</strong></p>
 <p>The Prize Administrator will initially review entries to determine that all required submission elements are included and to determine compliance with eligibility requirements.</p>
 <p><strong>Evaluation and Selection</strong></p>
-<p>The FAA Challenge Steering Committee (SC), a panel of FAA subject-matter-experts, will evaluate, rate and rank submissions. After evaluating, rating and ranking the submissions, the SC will select three finalist teams. The finalists teams will be notified by March of 2020. Decisions will be based on the following factors (All factors are important and will be considered. However, the SC will give the "technical merit" factor the most weight in the screening process.):</p>
+<p>The FAA Challenge Steering Committee (SC), a panel of FAA subject-matter-experts, will evaluate, rate and rank submissions. After evaluating, rating and ranking the submissions, the SC will select three finalist teams. The finalist teams will be notified by March of 2020. Decisions will be based on the following factors (All factors are important and will be considered. However, the SC will give the "technical merit" factor the most weight in the screening process.):</p>
 <ul>
 <li><strong>Technical Merit</strong>
 <ul>
