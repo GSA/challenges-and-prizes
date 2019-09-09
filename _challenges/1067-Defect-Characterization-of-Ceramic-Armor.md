@@ -12,16 +12,16 @@ agency: Department of Defense - U.S. Army
 partner-agencies-federal: 
 partners-non-federal: 
 external-url:
-total-prize-offered-cash:
-type-of-challenge: 
+total-prize-offered-cash: $10,000
+type-of-challenge: Technology demonstration and hardware; Analytics, visualizations and algorithms; Scientific
 submission-start: 17/09/2019 08:00 AM 
 submission-end: 29/11/2019 05:00 PM
 submission-link:  
 prizes: true
 fiscal-year: FY20, FY21
 legal-authority: DOD - Direct Prize Authority
-challenge-manager:
-challenge-manager-email:
+challenge-manager: Stephen Tedeschi
+challenge-manager-email: stephen.t.tedeschi.civ@mail.mil
 ---
 
 
