@@ -46,6 +46,11 @@ challenge-manager-email: stephen.t.tedeschi.civ@mail.mil
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<ol>
+<li>Interested parties shall submit a whitepaper that illustrates an innovative method for identifying the impact of various ceramic defects.</li>
+<li>Whitepapers shall be limited to 4 pages exclusive of any illustrations.</li>
+<li>Whitepapers may choose to focus on the analysis of any one defect.</li>
+</ol>
 
 <!-- Judging start -->
 ### Judging Criteria
