@@ -4,7 +4,7 @@ permalink: /challenge/title-goes-here/
 challenge-id: 
 status: open
 sidenav: true
-card-image: /assets/images/cards/challenge-gov.png
+card-image: /assets/images/cards/Army_ceramic_armor.jpg
 agency-logo: 
 challenge-title: Defect Characterization of Ceramic Armor
 tagline: Develop a method for detecting and characterizing defects in ceramic armor to help keep our warfighters safe.
