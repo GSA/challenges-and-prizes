@@ -10,6 +10,7 @@ layout: default
                 <h3 class="text-base-dark">{{ page.groupName }}</h3>
             </aside>
         -->
+
         <div class="desktop:grid-col-9 usa-prose usa-section">  
             <h1 class="text-primary-dark">{{ page.name }}</h1>
             <h3 class="text-primary">{{ page.tagline }}</h3> 
@@ -49,13 +50,51 @@ layout: default
                     {{ page.description }}
                     {% endif %}
 
+                    <!--Winner-->
+                    {% if page.winner-name-0 != "" %}
+                    <h3 class="text-accent-warm-dark font-heading-lg">Winner</h3>
+                    {% endif %}
+                    <p>
+                    <strong>{{ page.winner-name-0 }}</strong><br>
+                    {% if page.winner-solution-description-0 != "" %}
+                    {{ page.winner-solution-description-0 }}<br>
+                    {% endif %}
+                    {% if page.winner-solution-link-0 != "" %}
+                    {{ page.winner-solution-link-0 }}<br>
+                    {% endif %}
+
+                    {% if page.winner-name-1 != "" %}
+                    <p>
+                    <strong>{{ page.winner-name-1 }}</strong><br>
+                    {% if page.winner-solution-description-1 != "" %}
+                    {{ page.winner-solution-description-1 }}<br>
+                    {% endif %}
+                    {% if page.winner-solution-link-1 != "" %}
+                    {{ page.winner-solution-link-1 }}<br>
+                    {% endif %}
+                    </p>
+                    {% endif %}
+                    
+
+                    {% if page.winner-name-2 != "" %}
+                    <p>
+                    <strong>{{ page.winner-name-2 }}</strong><br>
+                    {% if page.winner-solution-description-2 != "" %}
+                    {{ page.winner-solution-description-2 }}<br>
+                    {% endif %}
+                    {% if page.winner-solution-link-2 != "" %}
+                    {{ page.winner-solution-link-2 }}<br>
+                    {% endif %}
+                    </p>
+                    {% endif %}
+
                     <!--Prizes-->
                     {% if page.prize-name-0 != "" %}
                     <h3 class="text-accent-warm-dark font-heading-lg">Prizes</h3>
                     <p>
                     <strong>{{ page.prize-name-0 }}</strong><br>
                     {% if page.prize-cash-amount-0 != "" %}
-                    Cash Prize Amount: {{ page.prize-cash-amount-0 }}<br>
+                    Cash Prize Amount: ${{ page.prize-cash-amount-0 }}<br>
                     {% endif %}
                     {% if page.prize-description-0 != "" %}
                     {{ page.prize-description-0 }}<br>
@@ -68,7 +107,7 @@ layout: default
                     <strong>{{ page.prize-name-1 }}</strong><br>
                     {% endif %}
                     {% if page.prize-cash-amount-1 != "" %}
-                    Cash Prize Amount: {{ page.prize-cash-amount-1 }}<br>
+                    Cash Prize Amount: ${{ page.prize-cash-amount-1 }}<br>
                     {% endif %}
                     {% if page.prize-description-1 != "" %}
                     {{ page.prize-description-1 }}<br>
@@ -81,7 +120,7 @@ layout: default
                     <strong>{{ page.prize-name-2 }}</strong><br>
                     {% endif %}
                     {% if page.prize-cash-amount-2 != "" %}
-                    Cash Prize Amount: {{ page.prize-cash-amount-2 }}<br>
+                    Cash Prize Amount: %{{ page.prize-cash-amount-2 }}<br>
                     {% endif %}
                     {% if page.prize-description-2 != "" %}
                     {{ page.prize-description-2 }}<br>
@@ -117,15 +156,13 @@ layout: default
                     {% if page.judging-criteria-0 != "" %}
                     <strong>{{ page.judging-criteria-0 }}</strong><br>
                     {% endif %}
-                    {% if page.judging-percentage-criteria-0 != "" %}
+                    {% if page.judging-criteria-percentage-0 != "" %}
                     Percentage: {{ page.judging-criteria-percentage-0 }}<br>
                     {% endif %}
                     {% if page.judging-criteria-description-0 != "" %}
                     {{ page.judging-criteria-description-0 }}<br>
                     </p>
                     {% endif %}
-
-                    <!--need to revisit judging criteria display-->
 
                     {% if page.judging-criteria-1 != "" %}
                     <p>
@@ -146,6 +183,7 @@ layout: default
                     {{ page.judging-criteria-description-2 }}<br>
                     </p>
                     {% endif %}
+
                     
                     <!--How To Enter-->
                     {% if page.how-to-enter != "" %}
