@@ -62,6 +62,4 @@ challenge-manager-email:
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>Submit all whitepapers to: <strong>stephen.t.tedeschi.civ@mail.mil</strong></p>
-<p>For questions about this challenge, please contact:</p>
-<p>Stephen Tedeschi</p>
-<p>Email: <strong>stephen.t.tedeschi.civ@mail.mil</strong></p>
+<p>For questions about this challenge, please contact Stephen Tedeschi at <strong>stephen.t.tedeschi.civ@mail.mil</strong></p>
