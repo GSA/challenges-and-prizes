@@ -36,6 +36,11 @@ challenge-manager-email:
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<p><strong>Total Cash Prize Pool</strong></p>
+<p>$10,000</p>
+<p><strong>Prize Breakdown</strong></p>
+<div>$7,000 first prize<br />$2,000 second prize</div>
+<div>$1,000 third prize</div>
 
 <!-- Rules start -->
 ### Rules 
