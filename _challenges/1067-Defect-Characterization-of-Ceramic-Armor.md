@@ -20,7 +20,7 @@ submission-link:
 prizes: true
 fiscal-year: FY20, FY21
 legal-authority: DOD - Direct Prize Authority
-challenge-manager: Stephen Tedeschi
+challenge-manager: Stephen Tedeschi, stephen.t.tedeschi.civ@mail.mil
 challenge-manager-email: stephen.t.tedeschi.civ@mail.mil
 ---
 
