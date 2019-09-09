@@ -19,10 +19,10 @@ submission-start: 2019/04/03 12:00 AM
 submission-end: 2019/10/19
 submission-link: 
 prizes: true
-legal authority: America COMPETES
-fiscal year: FY19-FY20
-challenge manager: Sarah Hughes
-challenge manager email: sarah.hughes@nist.gov
+legal-authority: America COMPETES
+fiscal-year: FY19-FY20
+challenge-manager: Sarah Hughes
+challenge-manager-email: sarah.hughes@nist.gov
 ---
 
 

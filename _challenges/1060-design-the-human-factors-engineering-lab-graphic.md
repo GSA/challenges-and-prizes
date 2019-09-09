@@ -18,8 +18,8 @@ submission-start: 2019/08/06 12:00 PM
 submission-end: 2019/09/06 11:59 PM
 submission-link: 
 prizes: false
-Legal Authority: America COMPETES Act
-Fiscal Year: FY19
-Challenge Manager: Jeffrey Doi
-Challenge Manager Email: jeffrey.j.doi@nasa.gov
+legal-authority: America COMPETES Act
+fiscal-year: FY19
+challenge-manager: Jeffrey Doi
+challenge-manager-email: jeffrey.j.doi@nasa.gov
 ---
