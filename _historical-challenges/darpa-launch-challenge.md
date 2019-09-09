@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://www.darpalaunchchallenge.org
     submission-end: 12/14/2018 12:00 AM
     why-use-prizes: ''
-    submission-start-date: 04/19/2018 12:00 AM
+    submission-start: 04/19/2018 12:00 AM
     fiscal-year: FY 2018
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://www.topcoder.com/cms/open-payments-challenge/
     submission-end: 10/04/2013 09:00 PM
     why-use-prizes: ''
-    submission-start-date: 05/15/2013 01:00 PM
+    submission-start: 05/15/2013 01:00 PM
     fiscal-year: FY 2013
     public-voting-end-date: ''
     budget-and-resources: ''

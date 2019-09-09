@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://www1.eere.energy.gov/commercialization/natlbizplan.html
     submission-end: 06/01/2012 04:00 AM
     why-use-prizes: ''
-    submission-start-date: 01/01/2012 05:00 AM
+    submission-start: 01/01/2012 05:00 AM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://mchbgrandchallenges.hrsa.gov/
     submission-end: '09/24/2018 12:00 AM'
     why-use-prizes: ''
-    submission-start-date: 07/23/2018 12:00 AM
+    submission-start: 07/23/2018 12:00 AM
     fiscal-year: FY 2018
     public-voting-end-date: ''
     budget-and-resources: ''

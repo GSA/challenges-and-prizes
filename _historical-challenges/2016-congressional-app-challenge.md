@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: http://www.congressionalappchallenge.us/compete-2016/
     submission-end: 11/02/2016 12:00 PM
     why-use-prizes: ''
-    submission-start-date: 07/18/2016 12:00 PM
+    submission-start: 07/18/2016 12:00 PM
     fiscal-year: FY 2016
     public-voting-end-date: ''
     budget-and-resources: ''

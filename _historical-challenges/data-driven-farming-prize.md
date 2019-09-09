@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://datadrivenfarming.challenges.org/
     submission-end: 04/06/2017 11:59 PM
     why-use-prizes: ''
-    submission-start-date: 02/09/2017 12:00 AM
+    submission-start: 02/09/2017 12:00 AM
     fiscal-year: FY 2016
     public-voting-end-date: ''
     budget-and-resources: ''

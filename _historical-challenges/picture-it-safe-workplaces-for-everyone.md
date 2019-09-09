@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://www.osha.gov/osha40/photo-contest.html
     submission-end: '08/13/2011 03:00 AM'
     why-use-prizes: ''
-    submission-start-date: 05/02/2011 04:00 AM
+    submission-start: 05/02/2011 04:00 AM
     fiscal-year: FY 2011
     public-voting-end-date: ''
     budget-and-resources: ''

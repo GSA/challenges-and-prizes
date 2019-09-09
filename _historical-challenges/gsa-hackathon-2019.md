@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: https://digital.gov/event/2019/06/19/gsa-customer-experience-cx-hackathon/
     submission-end: 06/19/2019 05:00 PM
     why-use-prizes: ''
-    submission-start-date: 05/20/2019 08:00 AM
+    submission-start: 05/20/2019 08:00 AM
     fiscal-year: FY 2019
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://water.epa.gov/type/watersheds/monitoring/nars-challenge.cfm
     submission-end: 05/15/2014 12:00 AM
     why-use-prizes: ''
-    submission-start-date: 02/21/2014 12:00 AM
+    submission-start: 02/21/2014 12:00 AM
     fiscal-year: FY 2014
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: https://community.topcoder.com/tc?module=MatchDetails&rd=16672
     submission-end: 03/08/2016 12:00 AM
     why-use-prizes: ''
-    submission-start-date: 02/23/2016 12:00 AM
+    submission-start: 02/23/2016 12:00 AM
     fiscal-year: FY 2016
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: 'http://www.energy.gov/microgridchallenge '
     submission-end: '08/29/2014 08:00 AM'
     why-use-prizes: ''
-    submission-start-date: 07/01/2014 08:00 AM
+    submission-start: 07/01/2014 08:00 AM
     fiscal-year: FY 2014
     public-voting-end-date: ''
     budget-and-resources: ''

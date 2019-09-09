@@ -25,7 +25,7 @@ campaignAttributes:
     external-url: http://www.topcoder.com/dtn/
     submission-end: 10/11/2014 12:00 AM
     why-use-prizes: ''
-    submission-start-date: '08/22/2013 04:00 AM'
+    submission-start: '08/22/2013 04:00 AM'
     fiscal-year: FY 2013
     public-voting-end-date: ''
     budget-and-resources: ''

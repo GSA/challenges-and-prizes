@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://www.womenshealth.gov/cover-contest/
     submission-end: 03/01/2011 04:00 AM
     why-use-prizes: ''
-    submission-start-date: 01/03/2011 05:00 AM
+    submission-start: 01/03/2011 05:00 AM
     fiscal-year: FY 2011
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -24,7 +24,7 @@ campaignAttributes:
     external-url: http://www.topcoder.com/asteroids/tracker/
     submission-end: '08/31/2014 12:00 AM'
     why-use-prizes: ''
-    submission-start-date: 04/30/2014 04:00 AM
+    submission-start: 04/30/2014 04:00 AM
     fiscal-year: FY 2014
     public-voting-end-date: ''
     budget-and-resources: ''

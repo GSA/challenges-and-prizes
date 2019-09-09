@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://www.blm.gov/wo/st/en/info/newsroom/2012/december/NR_12_21_2012.html
     submission-end: 12/12/2012 05:00 AM
     why-use-prizes: ''
-    submission-start-date: 11/12/2012 05:00 PM
+    submission-start: 11/12/2012 05:00 PM
     fiscal-year: FY 2013
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://FAADesignCompetition.odu.edu
     submission-end: 04/20/2013 03:00 AM
     why-use-prizes: ''
-    submission-start-date: 11/01/2012 04:00 AM
+    submission-start: 11/01/2012 04:00 AM
     fiscal-year: FY 2013
     public-voting-end-date: ''
     budget-and-resources: ''

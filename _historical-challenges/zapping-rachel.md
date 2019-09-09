@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: 'http://www.ftc.gov/zapping-rachel '
     submission-end: '08/09/2014 12:00 AM'
     why-use-prizes: ''
-    submission-start-date: '08/07/2014 12:00 AM'
+    submission-start: '08/07/2014 12:00 AM'
     fiscal-year: FY 2014
     public-voting-end-date: ''
     budget-and-resources: ''

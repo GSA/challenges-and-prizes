@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://www.health2challenge.org/2011/06/08/using-public-data-for-cancer-prevention-and-control-from-innovation-to-impact/
     submission-end: '08/27/2011 03:00 AM'
     why-use-prizes: ''
-    submission-start-date: 07/21/2011 04:00 AM
+    submission-start: 07/21/2011 04:00 AM
     fiscal-year: FY 2011
     public-voting-end-date: ''
     budget-and-resources: ''

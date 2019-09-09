@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: https://www.innocentive.com/ar/challenge/9932703
     submission-end: 12/16/2011 05:00 AM
     why-use-prizes: ''
-    submission-start-date: 10/17/2011 04:00 AM
+    submission-start: 10/17/2011 04:00 AM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

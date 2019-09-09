@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: https://www.innocentive.com/ar/challenge/9933887
     submission-end: 05/06/2019 11:59 PM
     why-use-prizes: ''
-    submission-start-date: 03/06/2019 12:00 PM
+    submission-start: 03/06/2019 12:00 PM
     fiscal-year: FY 2019
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://orise.orau.gov/science-education/capabilities/science-education-events/eere-geothermal-student-competition.aspx
     submission-end: 04/05/2014 04:00 AM
     why-use-prizes: ''
-    submission-start-date: 02/28/2014 03:00 PM
+    submission-start: 02/28/2014 03:00 PM
     fiscal-year: FY 2014
     public-voting-end-date: ''
     budget-and-resources: ''

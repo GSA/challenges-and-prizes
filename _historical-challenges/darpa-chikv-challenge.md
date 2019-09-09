@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: http://www.innocentive.com/DARPAChikvChallenge
     submission-end: 02/01/2015 05:00 AM
     why-use-prizes: ''
-    submission-start-date: '08/15/2014 04:00 AM'
+    submission-start: '08/15/2014 04:00 AM'
     fiscal-year: FY 2014
     public-voting-end-date: ''
     budget-and-resources: ''

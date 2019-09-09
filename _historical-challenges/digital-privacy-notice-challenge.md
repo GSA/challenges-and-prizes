@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://oncchallenges.ideascale.com/
     submission-end: 04/07/2014 12:00 AM
     why-use-prizes: ''
-    submission-start-date: 02/07/2014 12:00 AM
+    submission-start: 02/07/2014 12:00 AM
     fiscal-year: FY 2014
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: https://tongal.com/project/Cinespace2019/
     submission-end: 07/15/2019 11:59 PM
     why-use-prizes: ''
-    submission-start-date: 03/01/2019 12:00 AM
+    submission-start: 03/01/2019 12:00 AM
     fiscal-year: FY 2019
     public-voting-end-date: ''
     budget-and-resources: ''

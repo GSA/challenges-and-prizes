@@ -23,7 +23,7 @@ campaignAttributes:
     external-url: http://www.nasa.gov/cubequest
     submission-end: 12/31/2018 12:00 AM
     why-use-prizes: ''
-    submission-start-date: 12/01/2014 12:00 AM
+    submission-start: 12/01/2014 12:00 AM
     fiscal-year: FY 2019
     public-voting-end-date: ''
     budget-and-resources: ''

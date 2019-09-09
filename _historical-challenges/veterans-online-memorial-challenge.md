@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: https://herox.com/VA-Online-Memorial
     submission-end: 11/30/2017 05:00 PM
     why-use-prizes: ''
-    submission-start-date: 10/26/2017 12:00 AM
+    submission-start: 10/26/2017 12:00 AM
     fiscal-year: FY 2018
     public-voting-end-date: ''
     budget-and-resources: ''

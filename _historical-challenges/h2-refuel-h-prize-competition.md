@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://hydrogenprize.org/
     submission-end: 10/29/2015 12:00 AM
     why-use-prizes: ''
-    submission-start-date: 10/29/2014 12:00 AM
+    submission-start: 10/29/2014 12:00 AM
     fiscal-year: FY 2014
     public-voting-end-date: ''
     budget-and-resources: ''

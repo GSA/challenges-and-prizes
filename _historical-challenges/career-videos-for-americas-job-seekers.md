@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://www.dol.gov/dol/videochallenge.htm
     submission-end: 01/01/2011 04:59 AM
     why-use-prizes: ''
-    submission-start-date: 11/08/2010 05:00 AM
+    submission-start: 11/08/2010 05:00 AM
     fiscal-year: FY 2011
     public-voting-end-date: ''
     budget-and-resources: ''

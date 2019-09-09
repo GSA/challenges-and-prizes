@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://www.lpi.usra.edu/humansinspaceart/challenge/
     submission-end: 11/15/2014 03:00 PM
     why-use-prizes: ''
-    submission-start-date: 06/26/2014 12:00 PM
+    submission-start: 06/26/2014 12:00 PM
     fiscal-year: FY 2014
     public-voting-end-date: ''
     budget-and-resources: ''

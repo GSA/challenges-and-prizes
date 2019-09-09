@@ -22,7 +22,7 @@ campaignAttributes:
     external-url: https://airforceprize.com/
     submission-end: '09/01/2018 04:00 PM'
     why-use-prizes: ''
-    submission-start-date: 05/27/2015 12:00 AM
+    submission-start: 05/27/2015 12:00 AM
     fiscal-year: FY 2015
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://www.zerorobotics.org/web/zero-robotics/tournament-details?tournamentId=6
     submission-end: 04/26/2012 12:00 AM
     why-use-prizes: ''
-    submission-start-date: 03/28/2012 05:00 PM
+    submission-start: 03/28/2012 05:00 PM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

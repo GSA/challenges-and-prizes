@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://community.topcoder.com/ntl/
     submission-end: 06/30/2011 03:00 AM
     why-use-prizes: ''
-    submission-start-date: 06/15/2011 04:00 AM
+    submission-start: 06/15/2011 04:00 AM
     fiscal-year: FY 2011
     public-voting-end-date: ''
     budget-and-resources: ''

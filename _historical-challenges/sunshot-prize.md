@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: http://www.eere.energy.gov/solar/sunshot/prize.html
     submission-end: 07/22/2015 11:59 PM
     why-use-prizes: ''
-    submission-start-date: 04/02/2015 11:59 PM
+    submission-start: 04/02/2015 11:59 PM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

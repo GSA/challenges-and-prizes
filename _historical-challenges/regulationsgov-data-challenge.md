@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: http://tco16.topcoder.com/
     submission-end: 11/21/2016 11:59 PM
     why-use-prizes: ''
-    submission-start-date: 11/18/2016 12:01 AM
+    submission-start: 11/18/2016 12:01 AM
     fiscal-year: FY 2017
     public-voting-end-date: ''
     budget-and-resources: ''

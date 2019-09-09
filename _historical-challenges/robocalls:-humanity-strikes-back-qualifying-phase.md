@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://www.ftc.gov/strikeback
     submission-end: 06/15/2015 10:00 PM
     why-use-prizes: ''
-    submission-start-date: ''
+    submission-start: ''
     fiscal-year: FY 2015
     public-voting-end-date: ''
     budget-and-resources: ''

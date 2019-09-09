@@ -24,7 +24,7 @@ campaignAttributes:
     external-url: https://www.transportation.gov/solve4safety
     submission-end: 07/31/2018 11:59 PM
     why-use-prizes: ''
-    submission-start-date: 06/14/2018 10:00 AM
+    submission-start: 06/14/2018 10:00 AM
     fiscal-year: FY 2018
     public-voting-end-date: ''
     budget-and-resources: ''

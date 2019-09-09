@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://www.neurostartupchallenge.org/enter-now.html
     submission-end: 12/12/2014 12:00 AM
     why-use-prizes: ''
-    submission-start-date: '08/01/2014 12:00 AM'
+    submission-start: '08/01/2014 12:00 AM'
     fiscal-year: FY 2014
     public-voting-end-date: ''
     budget-and-resources: ''

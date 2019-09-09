@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: https://ninesights.ninesigma.com/web/gun-safety-matters
     submission-end: 01/08/2018 12:00 AM
     why-use-prizes: ''
-    submission-start-date: '09/19/2017 12:00 AM'
+    submission-start: '09/19/2017 12:00 AM'
     fiscal-year: FY 2017
     public-voting-end-date: ''
     budget-and-resources: ''

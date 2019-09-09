@@ -26,7 +26,7 @@ campaignAttributes:
     external-url: http://uscensusbureau.github.io/citysdk/challenge.html
     submission-end: '08/03/2015 12:00 PM'
     why-use-prizes: ''
-    submission-start-date: 06/06/2015 09:00 AM
+    submission-start: 06/06/2015 09:00 AM
     fiscal-year: FY 2015
     public-voting-end-date: ''
     budget-and-resources: ''

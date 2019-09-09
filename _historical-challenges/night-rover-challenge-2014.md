@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: http://www.NightRover.org
     submission-end: 10/26/2013 02:00 AM
     why-use-prizes: ''
-    submission-start-date: 04/02/2013 04:00 AM
+    submission-start: 04/02/2013 04:00 AM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -41,7 +41,7 @@ campaignAttributes:
     external-url: http://www.whitehouse.gov/blog/2014/09/18/whiaapi-announces-its-2014-2015-e3-ambassadors
     submission-end: '08/27/2014 11:59 PM'
     why-use-prizes: ''
-    submission-start-date: 07/17/2014 12:00 AM
+    submission-start: 07/17/2014 12:00 AM
     fiscal-year: FY 2014
     public-voting-end-date: ''
     budget-and-resources: ''

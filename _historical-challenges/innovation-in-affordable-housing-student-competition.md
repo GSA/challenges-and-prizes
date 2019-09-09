@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://www.huduser.org/portal/challenge/home.html
     submission-end: 12/18/2014 11:59 PM
     why-use-prizes: ''
-    submission-start-date: 11/12/2014 12:00 AM
+    submission-start: 11/12/2014 12:00 AM
     fiscal-year: FY 2015
     public-voting-end-date: ''
     budget-and-resources: ''

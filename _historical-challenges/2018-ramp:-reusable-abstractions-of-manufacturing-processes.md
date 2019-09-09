@@ -27,7 +27,7 @@ campaignAttributes:
     external-url: ''
     submission-end: 04/21/2018 03:00 AM
     why-use-prizes: ''
-    submission-start-date: 01/29/2018 09:00 AM
+    submission-start: 01/29/2018 09:00 AM
     fiscal-year: FY 2018
     public-voting-end-date: ''
     budget-and-resources: ''

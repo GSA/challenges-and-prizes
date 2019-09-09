@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: https://www.innocentive.com/ar/challenge/9933766?cc=BORgov3766
     submission-end: 05/22/2017 12:00 AM
     why-use-prizes: ''
-    submission-start-date: 02/22/2017 12:00 AM
+    submission-start: 02/22/2017 12:00 AM
     fiscal-year: FY 2017
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://faq.challengepost.com/submissions
     submission-end: 11/02/2011 03:00 AM
     why-use-prizes: ''
-    submission-start-date: '09/12/2011 04:00 AM'
+    submission-start: '09/12/2011 04:00 AM'
     fiscal-year: FY 2011
     public-voting-end-date: ''
     budget-and-resources: ''

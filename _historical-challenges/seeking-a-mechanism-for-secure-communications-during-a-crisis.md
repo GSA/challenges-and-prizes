@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://thetechchallenge.org
     submission-end: 05/04/2013 12:00 AM
     why-use-prizes: ''
-    submission-start-date: 03/06/2013 09:00 AM
+    submission-start: 03/06/2013 09:00 AM
     fiscal-year: FY 2013
     public-voting-end-date: ''
     budget-and-resources: ''

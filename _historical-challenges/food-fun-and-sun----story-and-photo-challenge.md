@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://www.fns.usda.gov/cnd/summer/contest/default.htm
     submission-end: '08/21/2011 03:00 AM'
     why-use-prizes: ''
-    submission-start-date: 07/20/2011 04:00 AM
+    submission-start: 07/20/2011 04:00 AM
     fiscal-year: FY 2011
     public-voting-end-date: ''
     budget-and-resources: ''

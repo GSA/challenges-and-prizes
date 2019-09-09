@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: https://www.herox.com/IARPAGFChallenge2
     submission-end: 11/19/2019 02:01 PM
     why-use-prizes: ''
-    submission-start-date: 05/15/2019 12:30 PM
+    submission-start: 05/15/2019 12:30 PM
     fiscal-year: FY 2019, FY 2020
     public-voting-end-date: ''
     budget-and-resources: ''

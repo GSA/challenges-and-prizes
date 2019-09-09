@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: https://cec.ideascale.com/a/home
     submission-end: 04/03/2018 12:00 AM
     why-use-prizes: ''
-    submission-start-date: 01/15/2018 12:00 AM
+    submission-start: 01/15/2018 12:00 AM
     fiscal-year: FY 2018
     public-voting-end-date: ''
     budget-and-resources: ''

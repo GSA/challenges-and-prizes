@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://appsforenergy.challengepost.com/submissions
     submission-end: 05/16/2012 12:00 AM
     why-use-prizes: ''
-    submission-start-date: 04/05/2012 06:00 PM
+    submission-start: 04/05/2012 06:00 PM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

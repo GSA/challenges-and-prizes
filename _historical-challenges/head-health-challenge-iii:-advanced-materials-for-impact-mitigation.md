@@ -28,7 +28,7 @@ campaignAttributes:
     external-url: http://www.headhealthchallenge.com
     submission-end: 03/13/2015 05:00 PM
     why-use-prizes: ''
-    submission-start-date: 02/02/2015 09:00 AM
+    submission-start: 02/02/2015 09:00 AM
     fiscal-year: FY 2015
     public-voting-end-date: ''
     budget-and-resources: ''

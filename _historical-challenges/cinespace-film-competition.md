@@ -22,7 +22,7 @@ campaignAttributes:
     external-url: http://www.cinespace15.org
     submission-end: 07/31/2015 12:00 AM
     why-use-prizes: ''
-    submission-start-date: 06/01/2015 12:00 AM
+    submission-start: 06/01/2015 12:00 AM
     fiscal-year: FY 2016
     public-voting-end-date: ''
     budget-and-resources: ''

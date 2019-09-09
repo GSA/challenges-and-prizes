@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://documerica.challengepost.com/submissions
     submission-end: 01/07/2012 10:00 AM
     why-use-prizes: ''
-    submission-start-date: 11/01/2011 06:00 PM
+    submission-start: 11/01/2011 06:00 PM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

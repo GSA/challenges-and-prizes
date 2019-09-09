@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://nesc.challengepost.com/submissions
     submission-end: 05/01/2012 09:00 PM
     why-use-prizes: ''
-    submission-start-date: 02/01/2012 05:00 PM
+    submission-start: 02/01/2012 05:00 PM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

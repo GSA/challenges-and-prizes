@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://www.rebuildbydesign.org/
     submission-end: 04/05/2014 08:00 AM
     why-use-prizes: ''
-    submission-start-date: 06/20/2013 08:00 AM
+    submission-start: 06/20/2013 08:00 AM
     fiscal-year: FY 2014
     public-voting-end-date: ''
     budget-and-resources: ''

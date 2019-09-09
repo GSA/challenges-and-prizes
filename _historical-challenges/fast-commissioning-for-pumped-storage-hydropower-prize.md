@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: https://americanmadechallenges.org/fast/
     submission-end: 05/24/2019 05:00 PM
     why-use-prizes: ''
-    submission-start-date: 04/01/2019 01:00 PM
+    submission-start: 04/01/2019 01:00 PM
     fiscal-year: FY 2019, FY 2020
     public-voting-end-date: ''
     budget-and-resources: ''

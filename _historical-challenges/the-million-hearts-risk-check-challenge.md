@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://www.health2con.com/devchallenge/million-hearts-risk-check-challenge/
     submission-end: 11/03/2012 03:00 AM
     why-use-prizes: ''
-    submission-start-date: 07/27/2012 01:00 PM
+    submission-start: 07/27/2012 01:00 PM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

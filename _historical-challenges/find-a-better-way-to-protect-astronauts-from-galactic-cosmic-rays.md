@@ -24,7 +24,7 @@ campaignAttributes:
     external-url: https://www.innocentive.com/ar/challenge/9933637?cc=NASAdotgov
     submission-end: 12/15/2014 11:59 PM
     why-use-prizes: ''
-    submission-start-date: 11/12/2014 02:00 PM
+    submission-start: 11/12/2014 02:00 PM
     fiscal-year: FY 2015
     public-voting-end-date: ''
     budget-and-resources: ''

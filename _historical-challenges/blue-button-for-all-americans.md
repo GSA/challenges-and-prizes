@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://bluebutton.challengepost.com/submissions
     submission-end: 10/19/2011 03:00 AM
     why-use-prizes: ''
-    submission-start-date: 07/18/2011 04:00 AM
+    submission-start: 07/18/2011 04:00 AM
     fiscal-year: FY 2011
     public-voting-end-date: ''
     budget-and-resources: ''

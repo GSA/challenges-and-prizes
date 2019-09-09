@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: https://studio.topcoder.com/?module=ViewContestDetails&ct=30032756
     submission-end: 06/06/2013 10:00 AM
     why-use-prizes: ''
-    submission-start-date: 05/27/2013 10:00 AM
+    submission-start: 05/27/2013 10:00 AM
     fiscal-year: FY 2013
     public-voting-end-date: ''
     budget-and-resources: ''

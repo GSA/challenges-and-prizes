@@ -26,7 +26,7 @@ campaignAttributes:
     external-url: http://open.gsa.gov/grace-hopper-hackathon/
     submission-end: 12/09/2016 03:00 PM
     why-use-prizes: ''
-    submission-start-date: 12/09/2016 08:00 AM
+    submission-start: 12/09/2016 08:00 AM
     fiscal-year: FY 2017
     public-voting-end-date: ''
     budget-and-resources: ''

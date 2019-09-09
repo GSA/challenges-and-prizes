@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: https://www.ahrq.gov/predictive-analytics-challenge
     submission-end: 06/28/2019 05:00 PM
     why-use-prizes: ''
-    submission-start-date: 03/27/2019 12:00 AM
+    submission-start: 03/27/2019 12:00 AM
     fiscal-year: FY 2020
     public-voting-end-date: ''
     budget-and-resources: ''

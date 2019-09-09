@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: https://smartchicago2012.wufoo.com/forms/esri-illinois-public-health-challenge/
     submission-end: 11/30/2013 10:00 AM
     why-use-prizes: ''
-    submission-start-date: 11/09/2013 10:00 AM
+    submission-start: 11/09/2013 10:00 AM
     fiscal-year: FY 2014
     public-voting-end-date: ''
     budget-and-resources: ''

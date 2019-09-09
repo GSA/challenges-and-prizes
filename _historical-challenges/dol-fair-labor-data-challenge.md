@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://fairlabor.challengepost.com/submissions
     submission-end: 10/12/2013 03:00 AM
     why-use-prizes: ''
-    submission-start-date: 07/09/2013 04:00 AM
+    submission-start: 07/09/2013 04:00 AM
     fiscal-year: FY 2013
     public-voting-end-date: ''
     budget-and-resources: ''

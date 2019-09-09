@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: https://www.herox.com/CASEchallenge/
     submission-end: 04/14/2019 11:59 PM
     why-use-prizes: ''
-    submission-start-date: 01/02/2019 10:00 AM
+    submission-start: 01/02/2019 10:00 AM
     fiscal-year: FY 2019
     public-voting-end-date: ''
     budget-and-resources: ''

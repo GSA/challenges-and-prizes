@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://www.cdc.gov/Features/safervideochallenge/index.html
     submission-end: 07/31/2012 09:00 PM
     why-use-prizes: ''
-    submission-start-date: 05/01/2012 01:00 PM
+    submission-start: 05/01/2012 01:00 PM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

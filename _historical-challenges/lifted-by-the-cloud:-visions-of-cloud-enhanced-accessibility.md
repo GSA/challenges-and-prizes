@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://liftedbythecloud.challengepost.com/submissions
     submission-end: 05/16/2011 07:59 AM
     why-use-prizes: ''
-    submission-start-date: 10/22/2010 08:00 AM
+    submission-start: 10/22/2010 08:00 AM
     fiscal-year: FY 2011
     public-voting-end-date: ''
     budget-and-resources: ''

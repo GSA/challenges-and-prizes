@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://wp.wpi.edu/challenge/
     submission-end: 01/07/2016 12:00 AM
     why-use-prizes: ''
-    submission-start-date: 10/26/2015 12:00 AM
+    submission-start: 10/26/2015 12:00 AM
     fiscal-year: FY 2016
     public-voting-end-date: ''
     budget-and-resources: ''

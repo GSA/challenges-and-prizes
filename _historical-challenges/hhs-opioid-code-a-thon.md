@@ -24,7 +24,7 @@ campaignAttributes:
     external-url: https://hhs.gov/challenges
     submission-end: 12/07/2017 04:00 PM
     why-use-prizes: ''
-    submission-start-date: 12/06/2017 01:00 PM
+    submission-start: 12/06/2017 01:00 PM
     fiscal-year: FY 2018
     public-voting-end-date: ''
     budget-and-resources: ''

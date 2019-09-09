@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://www.topcoder.com/doe
     submission-end: 06/15/2014 12:00 PM
     why-use-prizes: ''
-    submission-start-date: 10/01/2013 12:00 PM
+    submission-start: 10/01/2013 12:00 PM
     fiscal-year: FY 2014
     public-voting-end-date: ''
     budget-and-resources: ''

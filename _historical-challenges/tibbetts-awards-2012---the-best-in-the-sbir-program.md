@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: http://www.sba.gov/community/blogs/innovative-and-outstanding-small-businesses-receive-tibbetts-awards
     submission-end: 02/01/2012 12:00 AM
     why-use-prizes: ''
-    submission-start-date: 12/16/2011 03:00 PM
+    submission-start: 12/16/2011 03:00 PM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

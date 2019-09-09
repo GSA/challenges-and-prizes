@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://innovation.ed.gov/challenges/gaming/show/
     submission-end: 03/06/2012 04:00 AM
     why-use-prizes: ''
-    submission-start-date: 01/23/2012 02:00 PM
+    submission-start: 01/23/2012 02:00 PM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

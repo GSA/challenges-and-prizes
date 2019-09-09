@@ -25,7 +25,7 @@ campaignAttributes:
     external-url: 'https://nei.nih.gov/content/national-eye-institute-awards-prize-retina-dish-competition '
     submission-end: '08/01/2017 12:00 PM'
     why-use-prizes: ''
-    submission-start-date: 06/01/2017 12:00 PM
+    submission-start: 06/01/2017 12:00 PM
     fiscal-year: FY 2017
     public-voting-end-date: ''
     budget-and-resources: ''

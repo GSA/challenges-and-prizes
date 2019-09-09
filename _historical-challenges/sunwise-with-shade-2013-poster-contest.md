@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://www.epa.gov/sunwise/postercontest.html
     submission-end: 04/01/2013 05:00 PM
     why-use-prizes: ''
-    submission-start-date: 01/01/2013 09:00 AM
+    submission-start: 01/01/2013 09:00 AM
     fiscal-year: FY 2013
     public-voting-end-date: ''
     budget-and-resources: ''

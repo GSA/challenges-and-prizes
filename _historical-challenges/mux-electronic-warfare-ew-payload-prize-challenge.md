@@ -22,7 +22,7 @@ campaignAttributes:
     external-url: http://www.navair.navy.mil/muxchallenge
     submission-end: '09/23/2019 11:59 PM'
     why-use-prizes: ''
-    submission-start-date: 05/23/2019 12:00 AM
+    submission-start: 05/23/2019 12:00 AM
     fiscal-year: FY 2019, FY 2020
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://americorpsphoto.challengepost.com/submissions
     submission-end: 07/16/2012 01:00 AM
     why-use-prizes: ''
-    submission-start-date: 03/10/2012 07:00 PM
+    submission-start: 03/10/2012 07:00 PM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

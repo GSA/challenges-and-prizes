@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://healthyswimming.challengepost.com/submissions
     submission-end: 07/05/2011 03:59 AM
     why-use-prizes: ''
-    submission-start-date: 05/16/2011 04:00 AM
+    submission-start: 05/16/2011 04:00 AM
     fiscal-year: FY 2011
     public-voting-end-date: ''
     budget-and-resources: ''

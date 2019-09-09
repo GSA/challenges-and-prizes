@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://openinternetapps.challengepost.com/submissions
     submission-end: 06/02/2011 07:59 AM
     why-use-prizes: ''
-    submission-start-date: 02/01/2011 10:00 AM
+    submission-start: 02/01/2011 10:00 AM
     fiscal-year: FY 2011
     public-voting-end-date: ''
     budget-and-resources: ''

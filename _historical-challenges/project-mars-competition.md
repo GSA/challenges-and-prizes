@@ -27,7 +27,7 @@ campaignAttributes:
     external-url: http://projectmarscompetition.com/index.html
     submission-end: '08/31/2018 11:59 PM'
     why-use-prizes: ''
-    submission-start-date: 05/01/2018 12:00 PM
+    submission-start: 05/01/2018 12:00 PM
     fiscal-year: FY 2018
     public-voting-end-date: ''
     budget-and-resources: ''

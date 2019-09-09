@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://1.usa.gov/scivischallenge
     submission-end: '09/28/2012 04:00 PM'
     why-use-prizes: ''
-    submission-start-date: 05/31/2012 04:00 AM
+    submission-start: 05/31/2012 04:00 AM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

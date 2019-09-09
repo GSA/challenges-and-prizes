@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://www.dol.gov/equalpay/apps-winners.htm
     submission-end: 04/01/2012 03:00 AM
     why-use-prizes: ''
-    submission-start-date: 01/31/2012 06:00 PM
+    submission-start: 01/31/2012 06:00 PM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

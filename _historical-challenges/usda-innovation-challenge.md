@@ -26,7 +26,7 @@ campaignAttributes:
     external-url: http://usdaapps.devpost.com/
     submission-end: 10/27/2015 05:00 PM
     why-use-prizes: ''
-    submission-start-date: 07/24/2015 10:00 AM
+    submission-start: 07/24/2015 10:00 AM
     fiscal-year: FY 2016
     public-voting-end-date: 11/17/2015 05:00 PM
     budget-and-resources: ''

@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://lunchux.devpost.com/
     submission-end: 03/01/2016 05:00 PM
     why-use-prizes: ''
-    submission-start-date: 12/01/2015 05:00 PM
+    submission-start: 12/01/2015 05:00 PM
     fiscal-year: FY 2016
     public-voting-end-date: ''
     budget-and-resources: ''

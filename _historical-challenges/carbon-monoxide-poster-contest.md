@@ -42,7 +42,7 @@ campaignAttributes:
     external-url: http://www.cpsc.gov/cocontest
     submission-end: 02/27/2015 11:59 PM
     why-use-prizes: ''
-    submission-start-date: 07/14/2014 07:00 AM
+    submission-start: 07/14/2014 07:00 AM
     fiscal-year: FY 2015
     public-voting-end-date: 02/27/2015 11:59 PM
     budget-and-resources: ''

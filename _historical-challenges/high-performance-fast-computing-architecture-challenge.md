@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: 'http://crowdsourcing.topcoder.com/nasa-hpc '
     submission-end: 06/17/2017 12:00 AM
     why-use-prizes: ''
-    submission-start-date: 05/02/2017 12:00 AM
+    submission-start: 05/02/2017 12:00 AM
     fiscal-year: FY 2017
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -25,7 +25,7 @@ campaignAttributes:
     external-url: http://topcoder.com/earthscience
     submission-end: 03/15/2015 12:00 AM
     why-use-prizes: ''
-    submission-start-date: 12/15/2014 12:00 AM
+    submission-start: 12/15/2014 12:00 AM
     fiscal-year: FY 2015
     public-voting-end-date: ''
     budget-and-resources: ''

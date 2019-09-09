@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://mtconnect.challengepost.com/submissions
     submission-end: 06/01/2013 04:00 AM
     why-use-prizes: ''
-    submission-start-date: 04/12/2013 01:00 PM
+    submission-start: 04/12/2013 01:00 PM
     fiscal-year: FY 2013
     public-voting-end-date: ''
     budget-and-resources: ''

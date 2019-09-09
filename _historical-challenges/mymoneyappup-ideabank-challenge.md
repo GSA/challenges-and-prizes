@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://ideabank.mymoneyappup.challengepost.com/submissions
     submission-end: '08/02/2012 12:00 AM'
     why-use-prizes: ''
-    submission-start-date: 06/27/2012 09:00 AM
+    submission-start: 06/27/2012 09:00 AM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://public.csr.nih.gov/Pages/challenge.aspx
     submission-end: 06/30/2014 04:00 AM
     why-use-prizes: ''
-    submission-start-date: 05/05/2014 08:00 PM
+    submission-start: 05/05/2014 08:00 PM
     fiscal-year: FY 2014
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://www.nlm.nih.gov/news/video_winners.html
     submission-end: 04/01/2011 03:59 AM
     why-use-prizes: ''
-    submission-start-date: 02/22/2011 05:00 AM
+    submission-start: 02/22/2011 05:00 AM
     fiscal-year: FY 2011
     public-voting-end-date: ''
     budget-and-resources: ''

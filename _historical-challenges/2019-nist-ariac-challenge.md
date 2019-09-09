@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: http://www.nist.gov/ariac
     submission-end: 04/19/2019 05:00 PM
     why-use-prizes: ''
-    submission-start-date: 02/12/2019 09:00 AM
+    submission-start: 02/12/2019 09:00 AM
     fiscal-year: FY 2019
     public-voting-end-date: ''
     budget-and-resources: ''

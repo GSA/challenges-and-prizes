@@ -25,7 +25,7 @@ campaignAttributes:
     external-url: http://nida.ideascale.com/
     submission-end: 06/01/2015 05:00 PM
     why-use-prizes: ''
-    submission-start-date: 01/14/2015 09:00 AM
+    submission-start: 01/14/2015 09:00 AM
     fiscal-year: FY 2015
     public-voting-end-date: ''
     budget-and-resources: ''

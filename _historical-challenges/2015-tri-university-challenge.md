@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://www2.epa.gov/toxics-release-inventory-tri-program/2015-tri-university-challenge-0
     submission-end: 03/27/2015 05:00 PM
     why-use-prizes: ''
-    submission-start-date: ''
+    submission-start: ''
     fiscal-year: FY 2015
     public-voting-end-date: ''
     budget-and-resources: ''

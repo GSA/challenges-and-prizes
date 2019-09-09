@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: http://www.techtoprotectchallenge.org
     submission-end: 11/15/2019 05:00 PM
     why-use-prizes: ''
-    submission-start-date: 06/01/2019 12:00 PM
+    submission-start: 06/01/2019 12:00 PM
     fiscal-year: FY 2019, FY 2020
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: http://www.reachhigherchallenge.com
     submission-end: 12/07/2015 11:59 PM
     why-use-prizes: ''
-    submission-start-date: 10/07/2015 12:00 AM
+    submission-start: 10/07/2015 12:00 AM
     fiscal-year: FY 2016
     public-voting-end-date: ''
     budget-and-resources: ''

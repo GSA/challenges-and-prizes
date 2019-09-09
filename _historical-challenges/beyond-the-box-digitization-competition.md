@@ -23,7 +23,7 @@ campaignAttributes:
     external-url: http://beyondthebox.aibs.org
     submission-end: '09/04/2015 12:00 AM'
     why-use-prizes: ''
-    submission-start-date: 12/05/2014 12:00 AM
+    submission-start: 12/05/2014 12:00 AM
     fiscal-year: FY 2015
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -33,7 +33,7 @@ campaignAttributes:
     external-url: http://www.epa.gov/campusrainworks
     submission-end: '09/30/2016 12:00 PM'
     why-use-prizes: ''
-    submission-start-date: '09/01/2016 12:00 PM'
+    submission-start: '09/01/2016 12:00 PM'
     fiscal-year: FY 2017
     public-voting-end-date: ''
     budget-and-resources: ''

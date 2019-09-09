@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://www.read.gov/literacyawards/index.html
     submission-end: 03/31/2014 12:00 PM
     why-use-prizes: ''
-    submission-start-date: 02/04/2014 03:00 PM
+    submission-start: 02/04/2014 03:00 PM
     fiscal-year: FY 2014
     public-voting-end-date: ''
     budget-and-resources: ''

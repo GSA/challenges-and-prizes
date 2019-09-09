@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://www.epa.gov/climatestudents/contest.html
     submission-end: 03/18/2014 12:00 AM
     why-use-prizes: ''
-    submission-start-date: 02/01/2014 09:00 PM
+    submission-start: 02/01/2014 09:00 PM
     fiscal-year: FY 2014
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://www.apps4africa.org
     submission-end: '09/01/2010 03:00 AM'
     why-use-prizes: ''
-    submission-start-date: 07/01/2010 04:00 AM
+    submission-start: 07/01/2010 04:00 AM
     fiscal-year: FY 2010
     public-voting-end-date: ''
     budget-and-resources: ''

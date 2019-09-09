@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://www.humansinspaceart.org
     submission-end: 12/04/2010 04:59 AM
     why-use-prizes: ''
-    submission-start-date: 10/01/2010 04:00 AM
+    submission-start: 10/01/2010 04:00 AM
     fiscal-year: FY 2011
     public-voting-end-date: ''
     budget-and-resources: ''

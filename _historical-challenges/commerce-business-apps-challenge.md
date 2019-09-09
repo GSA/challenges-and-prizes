@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://docbusinessapps.challengepost.com/submissions
     submission-end: 05/01/2012 04:00 AM
     why-use-prizes: ''
-    submission-start-date: 02/22/2012 02:00 PM
+    submission-start: 02/22/2012 02:00 PM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

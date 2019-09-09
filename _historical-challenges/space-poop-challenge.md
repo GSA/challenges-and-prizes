@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: https://herox.com/SpacePoop
     submission-end: 12/20/2016 12:00 AM
     why-use-prizes: ''
-    submission-start-date: 10/11/2016 12:00 AM
+    submission-start: 10/11/2016 12:00 AM
     fiscal-year: FY 2017
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: https://www.linkedin.com/groups/Military-Health-System-Innovation-Challenge-4334665.S.224219919
     submission-end: 01/17/2013 05:00 AM
     why-use-prizes: ''
-    submission-start-date: 12/17/2012 05:00 PM
+    submission-start: 12/17/2012 05:00 PM
     fiscal-year: FY 2013
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: https://smallbizweek.hackathon.com/
     submission-end: 05/05/2019 09:45 AM
     why-use-prizes: ''
-    submission-start-date: 05/03/2019 09:00 PM
+    submission-start: 05/03/2019 09:00 PM
     fiscal-year: FY 2019
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -22,7 +22,7 @@ campaignAttributes:
     external-url: http://www.topcoder.com
     submission-end: 02/10/2016 12:00 AM
     why-use-prizes: ''
-    submission-start-date: '09/29/2015 12:00 AM'
+    submission-start: '09/29/2015 12:00 AM'
     fiscal-year: FY 2015
     public-voting-end-date: ''
     budget-and-resources: ''

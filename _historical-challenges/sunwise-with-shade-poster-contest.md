@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://www2.epa.gov/sunwise/sunwise-shade-poster-contest
     submission-end: 04/01/2014 12:00 AM
     why-use-prizes: ''
-    submission-start-date: 03/01/2014 12:00 AM
+    submission-start: 03/01/2014 12:00 AM
     fiscal-year: FY 2014
     public-voting-end-date: ''
     budget-and-resources: ''

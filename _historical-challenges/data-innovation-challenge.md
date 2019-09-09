@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: http://www.transportation.gov/datachallenge
     submission-end: 04/30/2014 08:00 AM
     why-use-prizes: ''
-    submission-start-date: 02/22/2014 10:00 AM
+    submission-start: 02/22/2014 10:00 AM
     fiscal-year: FY 2014
     public-voting-end-date: ''
     budget-and-resources: ''

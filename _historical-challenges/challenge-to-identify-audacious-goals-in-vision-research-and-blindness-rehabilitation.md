@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://www.nei.nih.gov/challenge
     submission-end: 11/20/2012 04:00 AM
     why-use-prizes: ''
-    submission-start-date: '08/13/2012 01:00 PM'
+    submission-start: '08/13/2012 01:00 PM'
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

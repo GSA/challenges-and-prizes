@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://www.fmc.gov/news/chairmans_award.aspx
     submission-end: 02/10/2016 11:00 AM
     why-use-prizes: ''
-    submission-start-date: 10/08/2015 04:00 PM
+    submission-start: 10/08/2015 04:00 PM
     fiscal-year: FY 2016
     public-voting-end-date: ''
     budget-and-resources: ''

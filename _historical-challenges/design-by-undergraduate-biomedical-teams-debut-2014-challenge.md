@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://tinyurl.com/debut2014
     submission-end: 05/29/2014 12:00 AM
     why-use-prizes: ''
-    submission-start-date: 01/27/2014 12:00 AM
+    submission-start: 01/27/2014 12:00 AM
     fiscal-year: FY 2014
     public-voting-end-date: ''
     budget-and-resources: ''

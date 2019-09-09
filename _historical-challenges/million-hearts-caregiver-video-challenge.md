@@ -22,7 +22,7 @@ campaignAttributes:
     external-url: http://millionhearts.challengepost.com/submissions
     submission-end: '08/31/2012 09:00 PM'
     why-use-prizes: ''
-    submission-start-date: 07/16/2012 02:00 PM
+    submission-start: 07/16/2012 02:00 PM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

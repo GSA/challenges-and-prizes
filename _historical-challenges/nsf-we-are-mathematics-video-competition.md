@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: https://wearemathematics2019.skild.com/
     submission-end: 02/28/2019 11:59 PM
     why-use-prizes: ''
-    submission-start-date: 10/05/2018 12:00 AM
+    submission-start: 10/05/2018 12:00 AM
     fiscal-year: FY 2019
     public-voting-end-date: ''
     budget-and-resources: ''

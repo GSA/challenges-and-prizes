@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://www.neworgan.org/vtc-prize.php
     submission-end: '09/30/2019 11:00 PM'
     why-use-prizes: ''
-    submission-start-date: 06/13/2016 12:00 AM
+    submission-start: 06/13/2016 12:00 AM
     fiscal-year: FY 2016
     public-voting-end-date: ''
     budget-and-resources: ''

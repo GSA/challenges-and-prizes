@@ -32,7 +32,7 @@ campaignAttributes:
     external-url: http://theworkerslab.com/noise-safety-challenge-app/
     submission-end: '09/30/2016 04:00 PM'
     why-use-prizes: ''
-    submission-start-date: '08/01/2016 12:00 AM'
+    submission-start: '08/01/2016 12:00 AM'
     fiscal-year: FY 2016
     public-voting-end-date: ''
     budget-and-resources: ''

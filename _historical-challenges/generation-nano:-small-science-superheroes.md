@@ -70,7 +70,7 @@ campaignAttributes:
     external-url: http://www.nsf.gov/GenNano
     submission-end: 02/02/2016 11:59 PM
     why-use-prizes: ''
-    submission-start-date: 11/19/2015 12:00 PM
+    submission-start: 11/19/2015 12:00 PM
     fiscal-year: FY 2016
     public-voting-end-date: 04/16/2016 11:59 PM
     budget-and-resources: ''

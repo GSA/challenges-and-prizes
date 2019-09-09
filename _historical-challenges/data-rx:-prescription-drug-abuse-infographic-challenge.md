@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: http://data-rx.challengepost.com/submissions
     submission-end: 06/14/2013 04:00 AM
     why-use-prizes: ''
-    submission-start-date: 05/16/2013 06:00 PM
+    submission-start: 05/16/2013 06:00 PM
     fiscal-year: FY 2013
     public-voting-end-date: ''
     budget-and-resources: ''

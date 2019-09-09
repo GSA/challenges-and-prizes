@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: https://gw.innocentive.com/ar/challenge/9625880
     submission-end: '09/14/2010 03:00 AM'
     why-use-prizes: ''
-    submission-start-date: '08/17/2010 04:00 AM'
+    submission-start: '08/17/2010 04:00 AM'
     fiscal-year: FY 2010
     public-voting-end-date: ''
     budget-and-resources: ''

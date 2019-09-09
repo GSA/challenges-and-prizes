@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: https://www.subtchallenge.com/
     submission-end: '09/30/2021 12:00 AM'
     why-use-prizes: ''
-    submission-start-date: '09/27/2018 12:00 AM'
+    submission-start: '09/27/2018 12:00 AM'
     fiscal-year: FY 2018
     public-voting-end-date: ''
     budget-and-resources: ''

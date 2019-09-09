@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://sghealthyapps.challengepost.com/submissions
     submission-end: 12/31/2011 05:00 AM
     why-use-prizes: ''
-    submission-start-date: 12/06/2011 05:00 AM
+    submission-start: 12/06/2011 05:00 AM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

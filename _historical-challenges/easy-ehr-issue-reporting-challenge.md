@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: https://www.cccinnovationcenter.com/challenges/easy-ehr-issue-reporting-challenge/
     submission-end: 10/15/2018 11:00 PM
     why-use-prizes: ''
-    submission-start-date: 05/15/2018 12:00 AM
+    submission-start: 05/15/2018 12:00 AM
     fiscal-year: FY 2018
     public-voting-end-date: ''
     budget-and-resources: ''

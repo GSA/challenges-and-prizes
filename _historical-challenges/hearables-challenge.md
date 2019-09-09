@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: 'https://ninesights.ninesigma.com/web/hearables/innovationcontest '
     submission-end: 06/26/2017 05:00 PM
     why-use-prizes: ''
-    submission-start-date: 04/25/2017 04:00 PM
+    submission-start: 04/25/2017 04:00 PM
     fiscal-year: FY 2017
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://becomepresident.challengepost.com/submissions
     submission-end: 11/09/2010 04:59 AM
     why-use-prizes: ''
-    submission-start-date: '09/07/2010 04:00 AM'
+    submission-start: '09/07/2010 04:00 AM'
     fiscal-year: FY 2010
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://energychallenge.energy.gov
     submission-end: 03/09/2014 09:00 AM
     why-use-prizes: ''
-    submission-start-date: 01/16/2014 10:00 AM
+    submission-start: 01/16/2014 10:00 AM
     fiscal-year: FY 2014
     public-voting-end-date: ''
     budget-and-resources: ''

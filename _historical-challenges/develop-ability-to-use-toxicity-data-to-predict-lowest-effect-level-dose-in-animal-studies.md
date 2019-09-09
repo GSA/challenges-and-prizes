@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://epa.gov/ncct/challenges.html
     submission-end: 07/11/2014 12:00 AM
     why-use-prizes: ''
-    submission-start-date: 12/12/2013 03:00 PM
+    submission-start: 12/12/2013 03:00 PM
     fiscal-year: FY 2014
     public-voting-end-date: ''
     budget-and-resources: ''

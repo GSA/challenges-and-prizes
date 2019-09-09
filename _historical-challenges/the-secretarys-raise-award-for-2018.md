@@ -47,7 +47,7 @@ campaignAttributes:
     external-url: http://www.faa.gov/about/office_org/headquarters_offices/ang/offices/management/coe/opps/
     submission-end: 07/09/2018 11:59 PM
     why-use-prizes: ''
-    submission-start-date: 04/20/2018 12:00 AM
+    submission-start: 04/20/2018 12:00 AM
     fiscal-year: FY 2018
     public-voting-end-date: ''
     budget-and-resources: ''

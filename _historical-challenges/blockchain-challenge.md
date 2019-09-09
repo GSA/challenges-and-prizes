@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: http://www.cccinnovationcenter.com/challenges/block-chain-challenge/
     submission-end: '08/19/2016 04:00 PM'
     why-use-prizes: ''
-    submission-start-date: 07/07/2016 08:00 AM
+    submission-start: 07/07/2016 08:00 AM
     fiscal-year: FY 2016
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://preventionpsa.challengepost.com/submissions
     submission-end: 04/23/2011 03:59 AM
     why-use-prizes: ''
-    submission-start-date: 02/18/2011 05:00 AM
+    submission-start: 02/18/2011 05:00 AM
     fiscal-year: FY 2011
     public-voting-end-date: ''
     budget-and-resources: ''

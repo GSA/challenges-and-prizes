@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: https://www.herox.com/atlas-onshore-challenge
     submission-end: 04/19/2019 03:05 PM
     why-use-prizes: ''
-    submission-start-date: 01/11/2019 03:35 PM
+    submission-start: 01/11/2019 03:35 PM
     fiscal-year: FY 2019
     public-voting-end-date: ''
     budget-and-resources: ''

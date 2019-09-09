@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: https://www.cccinnovationcenter.com/challenges/proving-the-potential-a-health-data-and-standards-code-a-thon/
     submission-end: 04/21/2017 11:59 PM
     why-use-prizes: ''
-    submission-start-date: 04/11/2017 12:00 AM
+    submission-start: 04/11/2017 12:00 AM
     fiscal-year: FY 2017
     public-voting-end-date: ''
     budget-and-resources: ''

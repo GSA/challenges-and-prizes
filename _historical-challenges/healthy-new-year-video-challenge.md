@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://healthynewyear.challengepost.com/submissions
     submission-end: 02/16/2012 05:00 PM
     why-use-prizes: ''
-    submission-start-date: 01/09/2012 10:00 AM
+    submission-start: 01/09/2012 10:00 AM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

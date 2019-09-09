@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://www.quora.com/aneesh-chopra-1/startup-america-policy-challenge-we-want-to-hear-from-you
     submission-end: 05/22/2012 01:00 AM
     why-use-prizes: ''
-    submission-start-date: 12/08/2011 10:00 AM
+    submission-start: 12/08/2011 10:00 AM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

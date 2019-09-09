@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://yourrecord.challengepost.com/submissions
     submission-end: '08/23/2012 05:00 PM'
     why-use-prizes: ''
-    submission-start-date: 07/09/2012 09:00 AM
+    submission-start: 07/09/2012 09:00 AM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

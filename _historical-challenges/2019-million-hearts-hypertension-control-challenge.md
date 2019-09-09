@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: https://mhhypertensioncntrlchallenge.com/
     submission-end: 04/01/2019 11:59 PM
     why-use-prizes: ''
-    submission-start-date: 02/14/2019 12:00 AM
+    submission-start: 02/14/2019 12:00 AM
     fiscal-year: FY 2019
     public-voting-end-date: ''
     budget-and-resources: ''

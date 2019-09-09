@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://tft.challengepost.com/submissions
     submission-end: 06/29/2012 10:00 PM
     why-use-prizes: ''
-    submission-start-date: 04/18/2012 03:00 PM
+    submission-start: 04/18/2012 03:00 PM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

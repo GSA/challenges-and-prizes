@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://www.health2con.com/devchallenge/challenges/onc-i2-challenges/
     submission-end: '09/06/2012 04:00 AM'
     why-use-prizes: ''
-    submission-start-date: 06/05/2012 06:00 PM
+    submission-start: 06/05/2012 06:00 PM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

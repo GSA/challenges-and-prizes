@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: https://www.marcorsyscom.marines.mil/Unit-Home/Marine-Equipping-Challenge/Knee-and-Elbow-Pad-Challenge/
     submission-end: 07/12/2019 11:59 PM
     why-use-prizes: ''
-    submission-start-date: 05/28/2019 12:00 PM
+    submission-start: 05/28/2019 12:00 PM
     fiscal-year: FY 2019
     public-voting-end-date: ''
     budget-and-resources: ''

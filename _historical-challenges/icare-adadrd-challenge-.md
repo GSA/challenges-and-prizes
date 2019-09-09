@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: https://www.nia.nih.gov//challenge-prize
     submission-end: 06/30/2019 11:59 PM
     why-use-prizes: ''
-    submission-start-date: 10/01/2018 12:00 AM
+    submission-start: 10/01/2018 12:00 AM
     fiscal-year: FY 2019, FY 2018
     public-voting-end-date: ''
     budget-and-resources: ''

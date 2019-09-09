@@ -35,7 +35,7 @@ campaignAttributes:
     external-url: https://www.kaggle.com/c/noaa-fisheries-steller-sea-lion-population-count
     submission-end: 06/20/2017 11:59 PM
     why-use-prizes: ''
-    submission-start-date: 03/20/2017 12:00 AM
+    submission-start: 03/20/2017 12:00 AM
     fiscal-year: FY 2017
     public-voting-end-date: ''
     budget-and-resources: ''

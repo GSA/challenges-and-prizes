@@ -22,7 +22,7 @@ campaignAttributes:
     external-url: 'http://wordgapchallenge.hrsa.gov '
     submission-end: 12/31/2015 12:00 AM
     why-use-prizes: ''
-    submission-start-date: 11/08/2015 12:00 AM
+    submission-start: 11/08/2015 12:00 AM
     fiscal-year: FY 2016
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: https://www.afwerxchallenge.com/microdesign?utm_source=challenge.gov&utm_medium=solver&utm_campaign=microdesign
     submission-end: 01/22/2019 11:59 PM
     why-use-prizes: ''
-    submission-start-date: 11/05/2018 12:00 AM
+    submission-start: 11/05/2018 12:00 AM
     fiscal-year: FY 2019
     public-voting-end-date: ''
     budget-and-resources: ''

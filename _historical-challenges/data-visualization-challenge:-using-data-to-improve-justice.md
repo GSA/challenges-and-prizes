@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: http://www.nij.gov/funding/Pages/fy14-data-visualization-challenge.aspx
     submission-end: 01/30/2015 12:00 AM
     why-use-prizes: ''
-    submission-start-date: 10/15/2014 12:00 AM
+    submission-start: 10/15/2014 12:00 AM
     fiscal-year: FY 2015
     public-voting-end-date: ''
     budget-and-resources: ''

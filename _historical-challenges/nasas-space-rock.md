@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: https://songcontest.nasa.gov/home.aspx
     submission-end: 11/01/2010 11:00 PM
     why-use-prizes: ''
-    submission-start-date: '08/27/2010 12:00 AM'
+    submission-start: '08/27/2010 12:00 AM'
     fiscal-year: FY 2010
     public-voting-end-date: ''
     budget-and-resources: ''

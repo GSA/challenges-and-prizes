@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://www.gpo.gov/fdsys/pkg/FR-2012-05-11/pdf/2012-11465.pdf
     submission-end: 07/27/2012 03:00 AM
     why-use-prizes: ''
-    submission-start-date: 05/11/2012 01:00 PM
+    submission-start: 05/11/2012 01:00 PM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

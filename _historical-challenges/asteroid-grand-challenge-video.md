@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: https://tongal.com/project/NASAAsteroidGrandChallenge
     submission-end: 01/29/2016 12:00 AM
     why-use-prizes: ''
-    submission-start-date: 10/19/2015 12:00 AM
+    submission-start: 10/19/2015 12:00 AM
     fiscal-year: FY 2015
     public-voting-end-date: ''
     budget-and-resources: ''

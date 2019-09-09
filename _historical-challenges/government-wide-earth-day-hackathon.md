@@ -32,7 +32,7 @@ campaignAttributes:
     external-url: http://open.gsa.gov/EarthDayHackathon/
     submission-end: 04/22/2016 04:30 PM
     why-use-prizes: ''
-    submission-start-date: 04/22/2016 09:00 AM
+    submission-start: 04/22/2016 09:00 AM
     fiscal-year: FY 2016
     public-voting-end-date: ''
     budget-and-resources: ''

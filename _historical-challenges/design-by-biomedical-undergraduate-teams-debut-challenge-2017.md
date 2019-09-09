@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: https://venturewell.org/debut/
     submission-end: 05/31/2017 12:00 AM
     why-use-prizes: ''
-    submission-start-date: 03/21/2017 12:00 AM
+    submission-start: 03/21/2017 12:00 AM
     fiscal-year: FY 2017
     public-voting-end-date: ''
     budget-and-resources: ''

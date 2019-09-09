@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: http://jump.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/17628
     submission-end: '09/11/2016 11:59 PM'
     why-use-prizes: ''
-    submission-start-date: '08/11/2016 12:00 AM'
+    submission-start: '08/11/2016 12:00 AM'
     fiscal-year: FY 2016
     public-voting-end-date: ''
     budget-and-resources: ''

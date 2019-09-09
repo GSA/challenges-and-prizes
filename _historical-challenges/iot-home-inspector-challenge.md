@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: https://www.ftc.gov/iot-home-inspector-challenge
     submission-end: 05/22/2017 12:00 PM
     why-use-prizes: ''
-    submission-start-date: 03/01/2017 12:00 PM
+    submission-start: 03/01/2017 12:00 PM
     fiscal-year: FY 2016
     public-voting-end-date: ''
     budget-and-resources: ''

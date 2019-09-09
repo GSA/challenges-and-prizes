@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: https://www.earthspaceairprize.org
     submission-end: 01/31/2018 06:00 PM
     why-use-prizes: ''
-    submission-start-date: '09/19/2017 09:00 AM'
+    submission-start: '09/19/2017 09:00 AM'
     fiscal-year: FY 2016
     public-voting-end-date: ''
     budget-and-resources: ''

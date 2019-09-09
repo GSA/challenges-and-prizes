@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: http://unleashthepower.challengepost.com/submissions
     submission-end: 04/29/2013 11:00 PM
     why-use-prizes: ''
-    submission-start-date: 03/18/2013 12:00 AM
+    submission-start: 03/18/2013 12:00 AM
     fiscal-year: FY 2013
     public-voting-end-date: ''
     budget-and-resources: ''

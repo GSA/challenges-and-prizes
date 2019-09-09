@@ -136,7 +136,7 @@ campaignAttributes:
     external-url: ''
     submission-end: 06/23/2015 11:59 PM
     why-use-prizes: ''
-    submission-start-date: 05/23/2015 12:00 AM
+    submission-start: 05/23/2015 12:00 AM
     fiscal-year: FY 2015
     public-voting-end-date: ''
     budget-and-resources: ''

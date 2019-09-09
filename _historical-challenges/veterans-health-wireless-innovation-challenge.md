@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://www.westwirelesshealth.org/
     submission-end: 03/16/2011 03:00 AM
     why-use-prizes: ''
-    submission-start-date: 11/01/2010 04:00 AM
+    submission-start: 11/01/2010 04:00 AM
     fiscal-year: FY 2011
     public-voting-end-date: ''
     budget-and-resources: ''

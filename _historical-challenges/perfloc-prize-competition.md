@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: https://perfloc.nist.gov/perfloc-competition-rule.php
     submission-end: 01/17/2018 05:00 PM
     why-use-prizes: ''
-    submission-start-date: 03/22/2017 12:00 PM
+    submission-start: 03/22/2017 12:00 PM
     fiscal-year: ''
     public-voting-end-date: ''
     budget-and-resources: ''

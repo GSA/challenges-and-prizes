@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://www.health2con.com/devchallenge/reducing-cancer-among-women-color-challenge/
     submission-end: 02/06/2013 04:00 AM
     why-use-prizes: ''
-    submission-start-date: '08/24/2012 02:00 PM'
+    submission-start: '08/24/2012 02:00 PM'
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

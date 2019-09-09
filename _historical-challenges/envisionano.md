@@ -28,7 +28,7 @@ campaignAttributes:
     external-url: http://nano.gov/EnvisioNano
     submission-end: 03/31/2015 12:00 PM
     why-use-prizes: ''
-    submission-start-date: 01/20/2015 12:00 PM
+    submission-start: 01/20/2015 12:00 PM
     fiscal-year: FY 2015
     public-voting-end-date: 04/17/2015 12:00 PM
     budget-and-resources: ''

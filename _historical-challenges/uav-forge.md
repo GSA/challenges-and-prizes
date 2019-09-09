@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: http://www.uavforge.net/
     submission-end: 01/07/2012 04:59 AM
     why-use-prizes: ''
-    submission-start-date: 07/28/2011 04:00 AM
+    submission-start: 07/28/2011 04:00 AM
     fiscal-year: FY 2011
     public-voting-end-date: ''
     budget-and-resources: ''

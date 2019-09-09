@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: http://www.uspto.gov/news/pr/2013/13-17.jsp
     submission-end: 11/01/2012 05:00 AM
     why-use-prizes: ''
-    submission-start-date: 03/01/2012 01:00 PM
+    submission-start: 03/01/2012 01:00 PM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

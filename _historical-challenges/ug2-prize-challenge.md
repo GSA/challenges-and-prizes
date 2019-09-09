@@ -42,7 +42,7 @@ campaignAttributes:
     external-url: http://www.ug2challenge.org
     submission-end: 04/15/2018 11:59 PM
     why-use-prizes: ''
-    submission-start-date: 01/31/2018 12:00 AM
+    submission-start: 01/31/2018 12:00 AM
     fiscal-year: FY 2018
     public-voting-end-date: ''
     budget-and-resources: ''

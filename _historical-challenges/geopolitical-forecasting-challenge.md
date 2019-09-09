@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: https://www.iarpa.gov/challenges/gfchallenge.html
     submission-end: '09/07/2018 02:00 PM'
     why-use-prizes: ''
-    submission-start-date: 03/07/2018 12:00 AM
+    submission-start: 03/07/2018 12:00 AM
     fiscal-year: FY 2018
     public-voting-end-date: ''
     budget-and-resources: ''

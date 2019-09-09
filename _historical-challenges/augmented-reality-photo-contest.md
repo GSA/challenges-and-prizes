@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: http://www.flickr.com/groups/historyhappenshere/
     submission-end: 01/22/2011 09:00 AM
     why-use-prizes: ''
-    submission-start-date: 12/09/2010 10:00 AM
+    submission-start: 12/09/2010 10:00 AM
     fiscal-year: FY 2011
     public-voting-end-date: ''
     budget-and-resources: ''

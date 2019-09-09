@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://www.seventeen.com/twosecond
     submission-end: '09/11/2010 03:59 AM'
     why-use-prizes: ''
-    submission-start-date: '08/02/2010 04:00 AM'
+    submission-start: '08/02/2010 04:00 AM'
     fiscal-year: FY 2010
     public-voting-end-date: ''
     budget-and-resources: ''

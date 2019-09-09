@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://water.epa.gov/infrastructure/greeninfrastructure/crw_challenge.cfm
     submission-end: 12/23/2013 12:00 AM
     why-use-prizes: ''
-    submission-start-date: '09/09/2013 08:00 PM'
+    submission-start: '09/09/2013 08:00 PM'
     fiscal-year: FY 2013
     public-voting-end-date: ''
     budget-and-resources: ''

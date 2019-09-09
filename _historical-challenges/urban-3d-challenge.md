@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://crowdsourcing.topcoder.com/Urban3D
     submission-end: 12/04/2017 08:00 PM
     why-use-prizes: ''
-    submission-start-date: 10/09/2017 12:00 AM
+    submission-start: 10/09/2017 12:00 AM
     fiscal-year: FY 2018
     public-voting-end-date: ''
     budget-and-resources: ''

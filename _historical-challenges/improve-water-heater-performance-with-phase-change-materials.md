@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://web.ornl.gov/sci/buildings/jump/
     submission-end: 12/16/2015 11:59 PM
     why-use-prizes: ''
-    submission-start-date: ''
+    submission-start: ''
     fiscal-year: FY 2016
     public-voting-end-date: ''
     budget-and-resources: ''

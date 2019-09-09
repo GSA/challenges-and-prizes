@@ -24,7 +24,7 @@ campaignAttributes:
     external-url: https://grabcad.com/challenges/nasa-handrail-clamp-assembly-challenge
     submission-end: 02/16/2015 12:00 AM
     why-use-prizes: ''
-    submission-start-date: 01/20/2015 12:00 AM
+    submission-start: 01/20/2015 12:00 AM
     fiscal-year: FY 2015
     public-voting-end-date: ''
     budget-and-resources: ''

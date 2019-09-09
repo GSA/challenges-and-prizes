@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: http://alaska.score.org/news/score-congratulates-2012-sba-counselor-year-beth-shapiro
     submission-end: 03/01/2012 11:00 PM
     why-use-prizes: ''
-    submission-start-date: 02/15/2012 06:00 PM
+    submission-start: 02/15/2012 06:00 PM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

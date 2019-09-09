@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: https://grabcad.com/challenges/nasa-challenge-human-rated-spacecraft-3d-printing-process-animation
     submission-end: '08/10/2018 12:00 AM'
     why-use-prizes: ''
-    submission-start-date: 07/16/2018 12:00 AM
+    submission-start: 07/16/2018 12:00 AM
     fiscal-year: FY 2017
     public-voting-end-date: ''
     budget-and-resources: ''

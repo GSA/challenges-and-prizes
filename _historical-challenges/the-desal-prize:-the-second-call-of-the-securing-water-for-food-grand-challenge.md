@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://www.thedesalprize.org/
     submission-end: '08/01/2014 12:00 AM'
     why-use-prizes: ''
-    submission-start-date: 06/16/2014 12:00 AM
+    submission-start: 06/16/2014 12:00 AM
     fiscal-year: FY 2014
     public-voting-end-date: ''
     budget-and-resources: ''

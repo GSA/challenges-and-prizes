@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://www.nhlbi.nih.gov/health/public/heart/obesity/wecan/videocontest/index.htm
     submission-end: 07/24/2010 03:00 AM
     why-use-prizes: ''
-    submission-start-date: 06/03/2010 04:00 AM
+    submission-start: 06/03/2010 04:00 AM
     fiscal-year: FY 2010
     public-voting-end-date: ''
     budget-and-resources: ''

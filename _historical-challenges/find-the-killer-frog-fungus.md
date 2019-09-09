@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: https://conservationx.com/challenge/invasives/chytrid
     submission-end: 10/01/2019 12:00 AM
     why-use-prizes: ''
-    submission-start-date: 06/12/2018 12:00 AM
+    submission-start: 06/12/2018 12:00 AM
     fiscal-year: FY 2018
     public-voting-end-date: ''
     budget-and-resources: ''

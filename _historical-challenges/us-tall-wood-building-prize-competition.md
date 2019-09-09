@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: https://tallwoodbuildingcompetition.org/
     submission-end: 12/09/2014 12:00 AM
     why-use-prizes: ''
-    submission-start-date: 10/09/2014 12:00 AM
+    submission-start: 10/09/2014 12:00 AM
     fiscal-year: FY 2015
     public-voting-end-date: ''
     budget-and-resources: ''

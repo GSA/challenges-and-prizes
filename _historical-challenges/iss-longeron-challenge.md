@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://www.topcoder.com/iss/longeron/
     submission-end: 02/06/2013 11:00 PM
     why-use-prizes: ''
-    submission-start-date: 01/16/2013 11:00 PM
+    submission-start: 01/16/2013 11:00 PM
     fiscal-year: FY 2013
     public-voting-end-date: ''
     budget-and-resources: ''

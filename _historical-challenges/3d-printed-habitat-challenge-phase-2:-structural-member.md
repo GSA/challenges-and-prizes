@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://bradley.edu/challenge
     submission-end: 01/31/2017 12:00 AM
     why-use-prizes: ''
-    submission-start-date: 10/07/2016 12:00 AM
+    submission-start: 10/07/2016 12:00 AM
     fiscal-year: FY 2017
     public-voting-end-date: ''
     budget-and-resources: ''

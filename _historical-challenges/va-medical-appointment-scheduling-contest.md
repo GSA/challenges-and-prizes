@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://www.govhealthit.com/news/app-contest-may-pave-way-va-scheduling-procurement-EHR-Vista
     submission-end: 06/13/2013 04:00 PM
     why-use-prizes: ''
-    submission-start-date: 12/14/2012 01:00 PM
+    submission-start: 12/14/2012 01:00 PM
     fiscal-year: FY 2013
     public-voting-end-date: ''
     budget-and-resources: ''

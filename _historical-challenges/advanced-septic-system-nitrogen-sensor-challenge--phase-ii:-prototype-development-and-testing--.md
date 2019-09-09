@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: http://www.verifiglobal.com/en
     submission-end: 02/29/2020 11:59 PM
     why-use-prizes: ''
-    submission-start-date: 12/18/2017 10:00 AM
+    submission-start: 12/18/2017 10:00 AM
     fiscal-year: FY 2018
     public-voting-end-date: ''
     budget-and-resources: ''

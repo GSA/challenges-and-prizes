@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: http://www.local-motors.com/XC2V
     submission-end: 03/04/2011 04:59 AM
     why-use-prizes: ''
-    submission-start-date: 02/04/2011 05:00 AM
+    submission-start: 02/04/2011 05:00 AM
     fiscal-year: FY 2011
     public-voting-end-date: ''
     budget-and-resources: ''

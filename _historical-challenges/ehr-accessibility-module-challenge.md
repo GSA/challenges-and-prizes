@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://www.health2challenge.org/ehr-accessibility-module/
     submission-end: 07/24/2012 04:00 AM
     why-use-prizes: ''
-    submission-start-date: 01/30/2012 02:00 PM
+    submission-start: 01/30/2012 02:00 PM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

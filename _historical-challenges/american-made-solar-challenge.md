@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: https://americanmadechallenges.org/solarprize.html
     submission-end: 10/05/2018 11:59 PM
     why-use-prizes: ''
-    submission-start-date: 06/07/2018 12:00 AM
+    submission-start: 06/07/2018 12:00 AM
     fiscal-year: FY 2018
     public-voting-end-date: ''
     budget-and-resources: ''

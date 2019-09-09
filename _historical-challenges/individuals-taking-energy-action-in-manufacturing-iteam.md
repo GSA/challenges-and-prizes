@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: https://betterbuildingsinitiative.energy.gov/individuals-taking-energy-action-manufacturing-prize
     submission-end: 05/15/2020 11:59 PM
     why-use-prizes: ''
-    submission-start-date: 10/05/2018 12:00 AM
+    submission-start: 10/05/2018 12:00 AM
     fiscal-year: FY 2019
     public-voting-end-date: ''
     budget-and-resources: ''

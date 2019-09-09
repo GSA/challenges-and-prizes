@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://health2challenge.org/2011/07/12/the-aspr-lifeline-facebook-application-challenge/
     submission-end: 11/05/2011 03:00 AM
     why-use-prizes: ''
-    submission-start-date: '08/22/2011 04:00 AM'
+    submission-start: '08/22/2011 04:00 AM'
     fiscal-year: FY 2011
     public-voting-end-date: ''
     budget-and-resources: ''

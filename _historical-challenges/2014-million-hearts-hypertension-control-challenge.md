@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: 'http://millionhearts.hhs.gov '
     submission-end: 10/10/2014 08:00 AM
     why-use-prizes: ''
-    submission-start-date: '08/20/2014 08:00 AM'
+    submission-start: '08/20/2014 08:00 AM'
     fiscal-year: FY 2014
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: http://corporatementoring.challengepost.com/submissions
     submission-end: 10/15/2013 12:00 AM
     why-use-prizes: ''
-    submission-start-date: 01/24/2013 06:00 PM
+    submission-start: 01/24/2013 06:00 PM
     fiscal-year: FY 2013
     public-voting-end-date: ''
     budget-and-resources: ''

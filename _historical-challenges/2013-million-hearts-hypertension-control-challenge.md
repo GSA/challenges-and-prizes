@@ -22,7 +22,7 @@ campaignAttributes:
     external-url: http://www.millionhearts.hhs.gov
     submission-end: '09/30/2013 11:00 PM'
     why-use-prizes: ''
-    submission-start-date: '08/09/2013 11:00 AM'
+    submission-start: '08/09/2013 11:00 AM'
     fiscal-year: FY 2013
     public-voting-end-date: ''
     budget-and-resources: ''

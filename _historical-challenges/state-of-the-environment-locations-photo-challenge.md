@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://blog.epa.gov/epplocations/
     submission-end: 01/01/2014 04:00 AM
     why-use-prizes: ''
-    submission-start-date: 04/22/2011 04:00 AM
+    submission-start: 04/22/2011 04:00 AM
     fiscal-year: FY 2011
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: http://www.nowtrendingchallenge.com/
     submission-end: 06/02/2012 03:00 AM
     why-use-prizes: ''
-    submission-start-date: 03/16/2012 12:00 PM
+    submission-start: 03/16/2012 12:00 PM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

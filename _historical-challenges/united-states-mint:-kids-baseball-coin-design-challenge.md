@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: http://kidsbatterup.challengepost.com/submissions
     submission-end: 06/29/2013 08:00 AM
     why-use-prizes: ''
-    submission-start-date: 04/11/2013 08:00 AM
+    submission-start: 04/11/2013 08:00 AM
     fiscal-year: FY 2013
     public-voting-end-date: ''
     budget-and-resources: ''

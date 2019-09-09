@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: http://tibbetts2013.challengepost.com/submissions
     submission-end: 02/08/2013 01:00 AM
     why-use-prizes: ''
-    submission-start-date: 12/17/2012 09:00 AM
+    submission-start: 12/17/2012 09:00 AM
     fiscal-year: FY 2013
     public-voting-end-date: ''
     budget-and-resources: ''

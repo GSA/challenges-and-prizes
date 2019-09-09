@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: http://www.spaceward.org/elevator2010-ts
     submission-end: '08/13/2011 03:00 AM'
     why-use-prizes: ''
-    submission-start-date: 06/01/2011 04:00 AM
+    submission-start: 06/01/2011 04:00 AM
     fiscal-year: FY 2011
     public-voting-end-date: ''
     budget-and-resources: ''

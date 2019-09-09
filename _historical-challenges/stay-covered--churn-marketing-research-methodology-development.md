@@ -22,7 +22,7 @@ campaignAttributes:
     external-url: http://staycovered.challengepost.com/updates/1002-announcing-the-winners
     submission-end: '09/01/2013 03:00 AM'
     why-use-prizes: ''
-    submission-start-date: 07/16/2013 09:00 PM
+    submission-start: 07/16/2013 09:00 PM
     fiscal-year: FY 2013
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -33,7 +33,7 @@ campaignAttributes:
     external-url: http://www.cdc.gov/amd/cidtchallenge
     submission-end: 11/30/2014 11:59 PM
     why-use-prizes: ''
-    submission-start-date: '09/01/2014 12:00 AM'
+    submission-start: '09/01/2014 12:00 AM'
     fiscal-year: FY 2014
     public-voting-end-date: ''
     budget-and-resources: ''

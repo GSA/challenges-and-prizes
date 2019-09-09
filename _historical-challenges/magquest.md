@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: https://www.magquest.com/
     submission-end: 05/16/2019 04:59 PM
     why-use-prizes: ''
-    submission-start-date: 03/21/2019 09:00 AM
+    submission-start: 03/21/2019 09:00 AM
     fiscal-year: FY 2019
     public-voting-end-date: ''
     budget-and-resources: ''

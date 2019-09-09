@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: http://www.treasurydirect.gov/readysavegrow/contest_winners.htm
     submission-end: 11/26/2012 04:00 AM
     why-use-prizes: ''
-    submission-start-date: 10/03/2012 12:00 PM
+    submission-start: 10/03/2012 12:00 PM
     fiscal-year: FY 2013
     public-voting-end-date: ''
     budget-and-resources: ''

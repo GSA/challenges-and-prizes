@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: https://www.iarpa.gov/challenges/3dchallenge.html
     submission-end: 10/04/2016 09:00 PM
     why-use-prizes: ''
-    submission-start-date: '09/06/2016 09:00 PM'
+    submission-start: '09/06/2016 09:00 PM'
     fiscal-year: FY 2016
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: http://dd-design.challengepost.com/submissions
     submission-end: '08/28/2012 03:00 AM'
     why-use-prizes: ''
-    submission-start-date: 04/16/2012 01:00 PM
+    submission-start: 04/16/2012 01:00 PM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

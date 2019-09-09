@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://www.your-life-matters.org/YLM-logo-contest
     submission-end: 07/10/2014 12:00 AM
     why-use-prizes: ''
-    submission-start-date: 05/21/2014 08:00 PM
+    submission-start: 05/21/2014 08:00 PM
     fiscal-year: FY 2014
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -24,7 +24,7 @@ campaignAttributes:
     external-url: http://www.nibib.nih.gov/training-careers/undergraduate-graduate/design-biomedical-undergraduate-teams-debut-challenge
     submission-end: 05/29/2015 11:59 PM
     why-use-prizes: ''
-    submission-start-date: 03/16/2015 12:00 AM
+    submission-start: 03/16/2015 12:00 AM
     fiscal-year: FY 2015
     public-voting-end-date: ''
     budget-and-resources: ''

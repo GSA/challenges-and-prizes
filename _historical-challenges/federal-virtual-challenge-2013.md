@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://fvc.army.mil
     submission-end: 12/11/2012 04:00 AM
     why-use-prizes: ''
-    submission-start-date: 04/01/2012 04:00 AM
+    submission-start: 04/01/2012 04:00 AM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

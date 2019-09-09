@@ -18,7 +18,7 @@ campaignAttributes:
     external-url: http://www.nsf.gov/news/vizzies
     submission-end: '09/30/2014 12:00 PM'
     why-use-prizes: ''
-    submission-start-date: '08/01/2014 12:00 PM'
+    submission-start: '08/01/2014 12:00 PM'
     fiscal-year: FY 2014
     public-voting-end-date: ''
     budget-and-resources: ''

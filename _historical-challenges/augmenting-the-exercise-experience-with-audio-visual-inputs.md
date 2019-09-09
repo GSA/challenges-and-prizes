@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: https://gw.innocentive.com/ar/challenge/browse?pavilionName=NASA&pavilionId=463
     submission-end: 07/28/2010 03:59 AM
     why-use-prizes: ''
-    submission-start-date: 05/27/2010 04:00 AM
+    submission-start: 05/27/2010 04:00 AM
     fiscal-year: FY 2010
     public-voting-end-date: ''
     budget-and-resources: ''

@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://www.dol.gov/opa/media/press/odep/ODEP20121801.htm
     submission-end: '08/24/2012 03:00 AM'
     why-use-prizes: ''
-    submission-start-date: 05/23/2012 04:00 AM
+    submission-start: 05/23/2012 04:00 AM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

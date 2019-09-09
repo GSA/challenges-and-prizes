@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://www.health2con.com/devchallenge/crowds-care-for-cancer-challenge-supporting-survivors-2/
     submission-end: 05/29/2013 07:00 AM
     why-use-prizes: ''
-    submission-start-date: 04/30/2013 01:00 PM
+    submission-start: 04/30/2013 01:00 PM
     fiscal-year: FY 2013
     public-voting-end-date: ''
     budget-and-resources: ''

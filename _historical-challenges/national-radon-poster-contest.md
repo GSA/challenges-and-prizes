@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://sosradon.org/
     submission-end: 11/01/2010 03:00 AM
     why-use-prizes: ''
-    submission-start-date: 03/01/2010 05:00 AM
+    submission-start: 03/01/2010 05:00 AM
     fiscal-year: FY 2010
     public-voting-end-date: ''
     budget-and-resources: ''

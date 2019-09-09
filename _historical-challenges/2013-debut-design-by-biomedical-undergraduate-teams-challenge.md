@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://debut2013.challengepost.com/submissions
     submission-end: 06/10/2013 04:00 AM
     why-use-prizes: ''
-    submission-start-date: 01/28/2013 05:00 AM
+    submission-start: 01/28/2013 05:00 AM
     fiscal-year: FY 2013
     public-voting-end-date: ''
     budget-and-resources: ''

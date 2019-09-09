@@ -21,7 +21,7 @@ campaignAttributes:
     external-url: http://www.samhsa.gov/newsroom/advisories/1309183038.aspx
     submission-end: 07/08/2013 01:00 PM
     why-use-prizes: ''
-    submission-start-date: 05/24/2013 04:00 PM
+    submission-start: 05/24/2013 04:00 PM
     fiscal-year: FY 2013
     public-voting-end-date: ''
     budget-and-resources: ''

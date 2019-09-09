@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://planetforward.org/season/changing-planet/
     submission-end: 04/05/2011 03:00 AM
     why-use-prizes: ''
-    submission-start-date: 03/08/2011 05:00 AM
+    submission-start: 03/08/2011 05:00 AM
     fiscal-year: FY 2011
     public-voting-end-date: ''
     budget-and-resources: ''

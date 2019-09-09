@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://workersafetyhealth.challengepost.com/submissions
     submission-end: 12/01/2012 04:00 AM
     why-use-prizes: ''
-    submission-start-date: 05/16/2012 04:00 AM
+    submission-start: 05/16/2012 04:00 AM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''

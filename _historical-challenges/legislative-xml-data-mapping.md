@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: http://legislative-data-mapping.challengepost.com/submissions
     submission-end: 01/01/2014 12:00 AM
     why-use-prizes: ''
-    submission-start-date: '09/11/2013 09:00 AM'
+    submission-start: '09/11/2013 09:00 AM'
     fiscal-year: FY 2013
     public-voting-end-date: ''
     budget-and-resources: ''

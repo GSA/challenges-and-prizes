@@ -20,7 +20,7 @@ campaignAttributes:
     external-url: https://www.sbir.gov/accelerators
     submission-end: 06/20/2019 04:59 PM
     why-use-prizes: ''
-    submission-start-date: 06/10/2019 12:00 PM
+    submission-start: 06/10/2019 12:00 PM
     fiscal-year: FY 2019
     public-voting-end-date: ''
     budget-and-resources: ''

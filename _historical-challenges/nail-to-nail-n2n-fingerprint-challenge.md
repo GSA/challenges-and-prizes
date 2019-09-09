@@ -81,7 +81,7 @@ campaignAttributes:
     external-url: http://iarpa.gov/challenges/n2n/n2n.html
     submission-end: 03/17/2017 04:00 PM
     why-use-prizes: ''
-    submission-start-date: 02/06/2017 12:00 AM
+    submission-start: 02/06/2017 12:00 AM
     fiscal-year: FY 2017
     public-voting-end-date: ''
     budget-and-resources: ''

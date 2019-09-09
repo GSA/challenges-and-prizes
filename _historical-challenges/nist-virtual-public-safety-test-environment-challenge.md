@@ -26,7 +26,7 @@ campaignAttributes:
     external-url: https://herox.com/NISTvr
     submission-end: 05/03/2017 05:00 PM
     why-use-prizes: ''
-    submission-start-date: 03/29/2017 12:00 PM
+    submission-start: 03/29/2017 12:00 PM
     fiscal-year: FY 2017
     public-voting-end-date: ''
     budget-and-resources: ''

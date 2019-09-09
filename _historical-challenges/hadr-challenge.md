@@ -19,7 +19,7 @@ campaignAttributes:
     external-url: http://hadr.challengepost.com/submissions
     submission-end: '08/15/2011 11:59 PM'
     why-use-prizes: ''
-    submission-start-date: 07/06/2011 12:00 AM
+    submission-start: 07/06/2011 12:00 AM
     fiscal-year: FY 2011
     public-voting-end-date: ''
     budget-and-resources: ''
