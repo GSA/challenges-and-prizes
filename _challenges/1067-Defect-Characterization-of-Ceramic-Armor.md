@@ -14,11 +14,11 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash:
 type-of-challenge: 
-submission-start: 
-submission-end: 
+submission-start: 17/09/2019 08:00 AM 
+submission-end: 29/11/2019 05:00 PM
 submission-link:  
 prizes: true
-fiscal-year:
+fiscal-year: FY20
 legal-authority:
 challenge-manager:
 challenge-manager-email:
@@ -50,3 +50,5 @@ challenge-manager-email:
 <!--  How To Enter start -->
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
+<p>Submit all whitepapers to: <strong>stephen.t.tedeschi.civ@mail.mil</strong></p>
