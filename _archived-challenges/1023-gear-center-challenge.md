@@ -25,8 +25,8 @@ challenge-manager-email: amira.boland@gsa.gov
 ---
 
 <h3>Winners Announced Sept. 10, 2019</h3>
-<p><strongGSA and OMB Announce Government Effectiveness Advanced Research Center Challenge Winners</strong></p>
-<p><ital>Three groups received $300,000 each for innovative solutions to government challenges outlined in the President’s Management Agenda</ital></p>
+<p><strong>GSA and OMB Announce Government Effectiveness Advanced Research Center Challenge Winners</strong></p>
+<p><i>Three groups received $300,000 each for innovative solutions to government challenges outlined in the President’s Management Agenda</i></p>
 <p>"The GEAR Center challenge is a creative approach that engages the U.S. research and development system to help government adapt and improve in a rapidly changing world,” said GSA Administrator Emily Murphy.  “It also helped form new partnerships between different industries. These impressive winners will bring innovation led by our world class universities and enterprises to influence how the federal government performs."</p>
 <p>Read the full release to find out more and see the winners.</p>
 <p><img src="{{ site.baseurl }}/assets/images/challenge-content/gear-center-challenge-map.png"></p>
