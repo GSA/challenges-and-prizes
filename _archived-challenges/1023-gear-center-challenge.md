@@ -29,7 +29,7 @@ challenge-manager-email: amira.boland@gsa.gov
 <p><i>Three groups received $300,000 each for innovative solutions to government challenges outlined in the President’s Management Agenda</i></p>
 <p>"The GEAR Center challenge is a creative approach that engages the U.S. research and development system to help government adapt and improve in a rapidly changing world,” said GSA Administrator Emily Murphy.  “It also helped form new partnerships between different industries. These impressive winners will bring innovation led by our world class universities and enterprises to influence how the federal government performs."</p>
 <p>Read the full release to find out more and see the winners.</p>
-<p><img src="{{ site.baseurl }}/assets/images/challenge-content/GEAR-Center-Challenge-Map.png"></p>
+<p><img src="{{ site.baseurl }}/assets/images/challenge-content/GEAR-Center-Challenge-Map.png" alt="Map of Gear Challenge Winners: Data and Evidence for Government and Academic Impact, Kansas City, MO; Cybersecurity Workforce Collaboration, McLean, VA; and Data for Impact, Boston, MA"></p>
 
 <!-- Description start -->
 ### Description
