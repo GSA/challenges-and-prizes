@@ -44,12 +44,15 @@ permalink: json-page
                     <h3>This challenge is externally hosted.</h3> <p>You can view the challenge details here: <a href="{{page.external-url}}" target="_blank" rel="noopener">{{page.external-url}}</a></p>
                     </p>
                     {% endif %}
-                {{ content }} 
+                    {{ content }} 
+                </div>
+                {% if page.external-url == nil  %}
+                {% include challenge-poc.html %}
+                {% endif %}
             </div>
+      
         </div>
-  
-    </div>
-    </div>
+        </div>
  
 
    

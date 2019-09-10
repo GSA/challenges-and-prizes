@@ -18,10 +18,10 @@ submission-start: 2019/06/20 09:00 AM
 submission-end: 2019/08/28 04:59 PM
 submission-link: www.MagQuest.com
 prizes: true
-Legal Authority: Procurement Authority
-Fiscal Year: FY19
-Challenge Manager: Will Jackson
-Challenge Manager Email: William.N.Jackson@nga.mil
+legal-authority: Procurement Authority
+fiscal-year: FY19
+challenge-manager: Will Jackson
+challenge-manager-email: William.N.Jackson@nga.mil
 ---
 
 <!-- Description start -->

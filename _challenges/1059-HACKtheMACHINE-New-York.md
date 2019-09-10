@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/hack-the-machine-new-york/
 challenge-id: 1059
-status: open
+status: closed
 sidenav: false
 card-image: /assets/images/cards/Hackthemachine.png
 agency-logo: dod_seal.jpg
@@ -18,8 +18,8 @@ submission-start: 2019/07/22 12:00 AM
 submission-end: 2019/09/05 12:00 AM
 submission-link: 
 prizes: false
-Legal Authority: America COMPETES Act
-Fiscal Year: FY19
-Challenge Manager: CDR Tom Parker
-Challenge Manager Email: thomas.c.parker@navy.mil
+legal-authority: America COMPETES Act
+fiscal-year: FY19
+challenge-manager: CDR Tom Parker
+challenge-manager-email: thomas.c.parker@navy.mil
 ---

@@ -18,10 +18,10 @@ submission-start: 2019/06/28 02:30 PM
 submission-end: 2019/09/30 05:00 PM
 submission-link: 
 prizes: true
-Legal Authority: Direct Prize Authority - DOD
-Fiscal Year: FY19, FY20
-Challenge Manager: Michael Karlbom, michael.j.karlbom1@navy.mil
-Challenge Manager Email: atac.prize.challenge@navy.mil
+legal-authority: Direct Prize Authority - DOD
+fiscal-year: FY19, FY20
+challenge-manager: Michael Karlbom, michael.j.karlbom1@navy.mil
+challenge-manager-email: atac.prize.challenge@navy.mil
 ---
 
 <!-- Description start -->
