@@ -15,204 +15,204 @@ groupName: National Science Foundation
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: https://wearemathematics2019.skild.com/
-    submission-end: 02/28/2019 11:59 PM
-    why-use-prizes: ''
-    submission-start: 10/05/2018 12:00 AM
-    fiscal-year: FY 2019
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: ''
-    public-voting-start-date: ''
-    legal-authority: Other
-    total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: ''
-    solicitation-of-submissions: ''
-    total-submission-received: ''
-    total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: ''
-    partner-agencies-federal: ''
-    judging-end-date: ''
-    solicitation-methods: ''
-    advancing-the-agency-mission: ''
-    rules: "<h3>RULES AND ELIGIBILITY</h3>\r\n<p><strong>Competition Eligibility</strong></p>\r\n<ul>\r\n<li>Each
-      submission must be made by an individual or a team whose work has been supported
-      by the National Science Foundation (NSF).</li>\r\n<li>An NSF award number must
-      be included in registration and submission.</li>\r\n<li>All entries must be
-      submitted by an individual or team leader over the age of 18.</li>\r\n<li>All
-      team members who register as part of a team entry during the submission process
-      must be over the age of 18.</li>\r\n<li>Any entries not submitted directly by
-      a PI must include a PI verification and consent form.</li>\r\n<li>Participants
-      are limited to one entry. Multiple entries may be submitted per NSF award with
-      the consent of the PI.</li>\r\n<li>Each entrant must submit a signed NSF 1515
-      form (one per team), available on the competition platform.</li>\r\n<li>Parental
-      consent forms must be submitted for any videos that include participants under
-      the age of 18.</li>\r\n<li>Employees and contractors of the National Science
-      Foundation are not eligible to enter the competition.</li>\r\n</ul>\r\n<p><strong>Entry
-      Rules</strong></p>\r\n<ul>\r\n<li>All entries must be received during the competition
-      submission window.</li>\r\n<li>Video entries may not exceed 3 minutes.</li>\r\n<li>All
-      entries must include an official version of the NSF logo, which can be found
-      at <a href=\"https://www.nsf.gov/policies/logos.jsp\">https://www.nsf.gov/policies/logos.jsp</a>,
-      and the official NSF Acknowledgement of Support and Disclaimer found at <a href=\"https://www.nsf.gov/pubs/policydocs/pappg18_1/pappg_11.jsp#XIE4\">https://www.nsf.gov/pubs/policydocs/pappg18_1/pappg_11.jsp#XIE4</a>.</li>\r\n<li>All
-      entries must be submitted in English.</li>\r\n<li>A competition entry constitutes
-      an agreement to adhere to the rules and stipulations set forth by the competition
-      sponsors.</li>\r\n<li>Each entrant certifies, through submission to the competition,
-      that the entry is their own original, creative work and does not violate or
-      infringe the creative work of others, as protected under U.S. copyright law
-      or patent law.</li>\r\n<li>By entering the competition, the entrant agrees to
-      hold harmless, NSF, for all legal and administrative claims to include associated
-      expenses that may arise from any claims related to their submission or its use.</li>\r\n<li>All
-      judges&rsquo; decisions are final and may not be appealed.</li>\r\n<li>Entrants
-      retain all copyright and equivalent rights but give NSF nonexclusive rights
-      to use their names, likenesses, quotes, submissions, or any part of their submissions
-      for educational publicity and/or promotional purposes. These include but are
-      not limited to website display, print materials, and exhibits.</li>\r\n<li>NSF
-      will not be responsible for any claims or complaints from third parties about
-      any disputes of ownership regarding the ideas, solutions, or images.</li>\r\n</ul>\r\n<p><strong>Other
-      Rules</strong></p>\r\n<ul>\r\n<li>Any entrant or entry found in violation of
-      any rule will be disqualified.</li>\r\n<li>Winners are responsible for all taxes
-      or other fees connected with the prize received and/or travel paid for by the
-      sponsoring organization.</li>\r\n<li>NSF reserves the right to modify or cancel
-      the competition at any time during the duration of the competition for any reason,
-      including but not limited to an insufficient number of qualified entries received.</li>\r\n<li>Should
-      NSF decide to bring winning contestants to Washington, D.C., or to any other
-      location for promotional and other purposes, expenses paid by NSF will be within
-      the limits set forth in law according to federal travel regulations.</li>\r\n<li>All
-      contestants agree that they, their heirs and estates shall hold harmless the
-      United States, the employees of the federal government, and all employees of
-      NSF for any and all injuries and/or claims arising from participation in this
-      competition, to include that which may occur while traveling to or participating
-      in competition activities.</li>\r\n<li>NSF has the final say on any point not
-      outlined in the entry rules.</li>\r\n</ul>"
-    submission-start-date-1: ''
-    judging-start-date: ''
-    winners-announced-date: 05/03/2019 12:00 PM
-    cash-prizes-and-non-cash-prize-awards: ''
-    solution-type: Creative (design & multimedia)
-    partner-agencies-non-federal: ''
-    original-post-id: ''
-    total-number-of-winners-awarded: ''
-    hosting: Hybrid(Challenge details will be visible on this platform but submissions
-      will be happened in external url)
-    type-of-challenge: Creative (design & multimedia)
-    participation-requirements: ''
-    number-of-phases: ''
-    how-to-enter: "<p>1. Read the rules, eligibility, and video submission requirements
-      on the <a href=\"https://wearemathematics2019.skild.com/\">We Are Mathematics
-      Video Competition site</a>.</p>\r\n<p>2. Register <a href=\"https://wearemathematics2019.skild.com/skild2/wearemathematics2019/registerLeader.action#skild-content\">here</a>&nbsp;--
-      make sure you have your NSF award number!</p>\r\n<p>3. Write a brief, non-technical
-      description of your project.</p>\r\n<p>4. Identify the appropriate submission
-      level for your video and submit it on the <a href=\"https://wearemathematics2019.skild.com/\">We
-      Are Mathematics Video Competition site</a>. Don&rsquo;t forget to include all
-      required forms with your entry!</p>"
-    partnerships: ''
-  groupAttributes:
-  - judging-criteria-description-0: ''
-    judging-criteria-percentage-0: ''
-    judging-criteria-0: ''
-  - judging-criteria-description-1: ''
-    judging-criteria-percentage-1: ''
-    judging-criteria-1: ''
-  - judging-criteria-description-2: ''
-    judging-criteria-2: ''
-    judging-criteria-percentage-2: ''
-  - judging-criteria-description-3: ''
-    judging-criteria-3: ''
-    judging-criteria-percentage-3: ''
-  - judging-criteria-percentage-4: ''
-    judging-criteria-4: ''
-    judging-criteria-description-4: ''
-  - judging-criteria-percentage-5: ''
-    judging-criteria-5: ''
-    judging-criteria-description-5: ''
-  - judging-criteria-6: ''
-    judging-criteria-percentage-6: ''
-    judging-criteria-description-6: ''
-  - judging-criteria-7: ''
-    judging-criteria-percentage-7: ''
-    judging-criteria-description-7: ''
-  - prize-description-0: "<p>The winning entry for each level will receive a cash
-      prize of $3,000. These winners will be showcased at the 2019 National Math Festival
-      in Washington, DC on May 4, 2019. Recipients will be notified in advance and
-      invited to attend. Travel expenses will be covered for individual winners and
-      one representative from any winning team.</p>"
-    prize-cash-amount-0: '3000'
-    prize-name-0: Level 1 Grand Prize (K-12 or Undergraduate)
-  - prize-description-1: ''
-    prize-cash-amount-1: '3000'
-    prize-name-1: Level 2 Grand Prize (Graduate)
-  - prize-cash-amount-10: ''
-    prize-name-10: ''
-    prize-description-10: ''
-  - prize-cash-amount-11: ''
-    prize-name-11: ''
-    prize-description-11: ''
-  - prize-name-12: ''
-    prize-cash-amount-12: ''
-    prize-description-12: ''
-  - prize-name-13: ''
-    prize-cash-amount-13: ''
-    prize-description-13: ''
-  - prize-description-14: ''
-    prize-cash-amount-14: ''
-    prize-name-14: ''
-  - prize-description-15: ''
-    prize-cash-amount-15: ''
-    prize-name-15: ''
-  - prize-description-16: ''
-    prize-name-16: ''
-    prize-cash-amount-16: ''
-  - prize-description-17: ''
-    prize-name-17: ''
-    prize-cash-amount-17: ''
-  - prize-cash-amount-18: ''
-    prize-name-18: ''
-    prize-description-18: ''
-  - prize-description-2: ''
-    prize-name-2: Level 3 Grand Prize (Postdoctoral or Early Career)
-    prize-cash-amount-2: '3000'
-  - prize-description-3: ''
-    prize-name-3: Level 4 Grand Prize (Mid or Advanced Career)
-    prize-cash-amount-3: '3000'
-  - prize-cash-amount-4: ''
-    prize-name-4: The People's Choice Award
-    prize-description-4: "<p>Following the first round of judging, the entries from
-      up to 16 semifinalists will be made publicly available for online voting for
-      approximately 30 days. The People's Choice Award winner will also be announced
-      with the winners from each level on May 3, 2019.</p>\r\n<p>The People's Choice
-      Award will not include a monetary prize but will include public recognition
-      and promotion of the participants and their work on the NSF website and at other
-      events and venues. The video will be showcased at the 2019 National Math Festival,
-      but the winner will not be notified in advance, and therefore, no travel expenses
-      will be covered for the winner to attend.</p>"
-  - prize-cash-amount-5: ''
-    prize-name-5: ''
-    prize-description-5: ''
-  - prize-name-6: ''
-    prize-cash-amount-6: ''
-    prize-description-6: ''
-  - prize-name-7: ''
-    prize-cash-amount-7: ''
-    prize-description-7: ''
-  - prize-description-8: ''
-    prize-cash-amount-8: ''
-    prize-name-8: ''
-  - prize-description-9: ''
-    prize-cash-amount-9: ''
-    prize-name-9: ''
-  - winner-solution-description-0: ''
-    winner-solution-link-0: ''
-    winner-name-0: ''
-    winner-solution-title-0: ''
-  - winner-solution-link-1: ''
-    winner-solution-description-1: ''
-    winner-name-1: ''
-    winner-solution-title-1: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: https://wearemathematics2019.skild.com/
+submission-end: 02/28/2019 11:59 PM
+why-use-prizes: ''
+submission-start: 10/05/2018 12:00 AM
+fiscal-year: FY 2019
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: ''
+public-voting-start-date: ''
+legal-authority: Other
+total-number-of-prizes-awarded: ''
+evaluation-of-submissions: ''
+agency-id: ''
+solicitation-of-submissions: ''
+total-submission-received: ''
+total-number-of-participant: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: ''
+partner-agencies-federal: ''
+judging-end-date: ''
+solicitation-methods: ''
+advancing-the-agency-mission: ''
+rules: "<h3>RULES AND ELIGIBILITY</h3>\r\n<p><strong>Competition Eligibility</strong></p>\r\n<ul>\r\n<li>Each
+  submission must be made by an individual or a team whose work has been supported
+  by the National Science Foundation (NSF).</li>\r\n<li>An NSF award number must
+  be included in registration and submission.</li>\r\n<li>All entries must be
+  submitted by an individual or team leader over the age of 18.</li>\r\n<li>All
+  team members who register as part of a team entry during the submission process
+  must be over the age of 18.</li>\r\n<li>Any entries not submitted directly by
+  a PI must include a PI verification and consent form.</li>\r\n<li>Participants
+  are limited to one entry. Multiple entries may be submitted per NSF award with
+  the consent of the PI.</li>\r\n<li>Each entrant must submit a signed NSF 1515
+  form (one per team), available on the competition platform.</li>\r\n<li>Parental
+  consent forms must be submitted for any videos that include participants under
+  the age of 18.</li>\r\n<li>Employees and contractors of the National Science
+  Foundation are not eligible to enter the competition.</li>\r\n</ul>\r\n<p><strong>Entry
+  Rules</strong></p>\r\n<ul>\r\n<li>All entries must be received during the competition
+  submission window.</li>\r\n<li>Video entries may not exceed 3 minutes.</li>\r\n<li>All
+  entries must include an official version of the NSF logo, which can be found
+  at <a href=\"https://www.nsf.gov/policies/logos.jsp\">https://www.nsf.gov/policies/logos.jsp</a>,
+  and the official NSF Acknowledgement of Support and Disclaimer found at <a href=\"https://www.nsf.gov/pubs/policydocs/pappg18_1/pappg_11.jsp#XIE4\">https://www.nsf.gov/pubs/policydocs/pappg18_1/pappg_11.jsp#XIE4</a>.</li>\r\n<li>All
+  entries must be submitted in English.</li>\r\n<li>A competition entry constitutes
+  an agreement to adhere to the rules and stipulations set forth by the competition
+  sponsors.</li>\r\n<li>Each entrant certifies, through submission to the competition,
+  that the entry is their own original, creative work and does not violate or
+  infringe the creative work of others, as protected under U.S. copyright law
+  or patent law.</li>\r\n<li>By entering the competition, the entrant agrees to
+  hold harmless, NSF, for all legal and administrative claims to include associated
+  expenses that may arise from any claims related to their submission or its use.</li>\r\n<li>All
+  judges&rsquo; decisions are final and may not be appealed.</li>\r\n<li>Entrants
+  retain all copyright and equivalent rights but give NSF nonexclusive rights
+  to use their names, likenesses, quotes, submissions, or any part of their submissions
+  for educational publicity and/or promotional purposes. These include but are
+  not limited to website display, print materials, and exhibits.</li>\r\n<li>NSF
+  will not be responsible for any claims or complaints from third parties about
+  any disputes of ownership regarding the ideas, solutions, or images.</li>\r\n</ul>\r\n<p><strong>Other
+  Rules</strong></p>\r\n<ul>\r\n<li>Any entrant or entry found in violation of
+  any rule will be disqualified.</li>\r\n<li>Winners are responsible for all taxes
+  or other fees connected with the prize received and/or travel paid for by the
+  sponsoring organization.</li>\r\n<li>NSF reserves the right to modify or cancel
+  the competition at any time during the duration of the competition for any reason,
+  including but not limited to an insufficient number of qualified entries received.</li>\r\n<li>Should
+  NSF decide to bring winning contestants to Washington, D.C., or to any other
+  location for promotional and other purposes, expenses paid by NSF will be within
+  the limits set forth in law according to federal travel regulations.</li>\r\n<li>All
+  contestants agree that they, their heirs and estates shall hold harmless the
+  United States, the employees of the federal government, and all employees of
+  NSF for any and all injuries and/or claims arising from participation in this
+  competition, to include that which may occur while traveling to or participating
+  in competition activities.</li>\r\n<li>NSF has the final say on any point not
+  outlined in the entry rules.</li>\r\n</ul>"
+submission-start-date-1: ''
+judging-start-date: ''
+winners-announced-date: 05/03/2019 12:00 PM
+cash-prizes-and-non-cash-prize-awards: ''
+solution-type: Creative (design & multimedia)
+partner-agencies-non-federal: ''
+original-post-id: ''
+total-number-of-winners-awarded: ''
+hosting: Hybrid(Challenge details will be visible on this platform but submissions
+  will be happened in external url)
+type-of-challenge: Creative (design & multimedia)
+participation-requirements: ''
+number-of-phases: ''
+how-to-enter: "<p>1. Read the rules, eligibility, and video submission requirements
+  on the <a href=\"https://wearemathematics2019.skild.com/\">We Are Mathematics
+  Video Competition site</a>.</p>\r\n<p>2. Register <a href=\"https://wearemathematics2019.skild.com/skild2/wearemathematics2019/registerLeader.action#skild-content\">here</a>&nbsp;--
+  make sure you have your NSF award number!</p>\r\n<p>3. Write a brief, non-technical
+  description of your project.</p>\r\n<p>4. Identify the appropriate submission
+  level for your video and submit it on the <a href=\"https://wearemathematics2019.skild.com/\">We
+  Are Mathematics Video Competition site</a>. Don&rsquo;t forget to include all
+  required forms with your entry!</p>"
+partnerships: ''
+groupAttributes:
+judging-criteria-description-0: ''
+judging-criteria-percentage-0: ''
+judging-criteria-0: ''
+judging-criteria-description-1: ''
+judging-criteria-percentage-1: ''
+judging-criteria-1: ''
+judging-criteria-description-2: ''
+judging-criteria-2: ''
+judging-criteria-percentage-2: ''
+judging-criteria-description-3: ''
+judging-criteria-3: ''
+judging-criteria-percentage-3: ''
+judging-criteria-percentage-4: ''
+judging-criteria-4: ''
+judging-criteria-description-4: ''
+judging-criteria-percentage-5: ''
+judging-criteria-5: ''
+judging-criteria-description-5: ''
+judging-criteria-6: ''
+judging-criteria-percentage-6: ''
+judging-criteria-description-6: ''
+judging-criteria-7: ''
+judging-criteria-percentage-7: ''
+judging-criteria-description-7: ''
+prize-description-0: "<p>The winning entry for each level will receive a cash
+  prize of $3,000. These winners will be showcased at the 2019 National Math Festival
+  in Washington, DC on May 4, 2019. Recipients will be notified in advance and
+  invited to attend. Travel expenses will be covered for individual winners and
+  one representative from any winning team.</p>"
+prize-cash-amount-0: '3000'
+prize-name-0: Level 1 Grand Prize (K-12 or Undergraduate)
+prize-description-1: ''
+prize-cash-amount-1: '3000'
+prize-name-1: Level 2 Grand Prize (Graduate)
+prize-cash-amount-10: ''
+prize-name-10: ''
+prize-description-10: ''
+prize-cash-amount-11: ''
+prize-name-11: ''
+prize-description-11: ''
+prize-name-12: ''
+prize-cash-amount-12: ''
+prize-description-12: ''
+prize-name-13: ''
+prize-cash-amount-13: ''
+prize-description-13: ''
+prize-description-14: ''
+prize-cash-amount-14: ''
+prize-name-14: ''
+prize-description-15: ''
+prize-cash-amount-15: ''
+prize-name-15: ''
+prize-description-16: ''
+prize-name-16: ''
+prize-cash-amount-16: ''
+prize-description-17: ''
+prize-name-17: ''
+prize-cash-amount-17: ''
+prize-cash-amount-18: ''
+prize-name-18: ''
+prize-description-18: ''
+prize-description-2: ''
+prize-name-2: Level 3 Grand Prize (Postdoctoral or Early Career)
+prize-cash-amount-2: '3000'
+prize-description-3: ''
+prize-name-3: Level 4 Grand Prize (Mid or Advanced Career)
+prize-cash-amount-3: '3000'
+prize-cash-amount-4: ''
+prize-name-4: The People's Choice Award
+prize-description-4: "<p>Following the first round of judging, the entries from
+  up to 16 semifinalists will be made publicly available for online voting for
+  approximately 30 days. The People's Choice Award winner will also be announced
+  with the winners from each level on May 3, 2019.</p>\r\n<p>The People's Choice
+  Award will not include a monetary prize but will include public recognition
+  and promotion of the participants and their work on the NSF website and at other
+  events and venues. The video will be showcased at the 2019 National Math Festival,
+  but the winner will not be notified in advance, and therefore, no travel expenses
+  will be covered for the winner to attend.</p>"
+prize-cash-amount-5: ''
+prize-name-5: ''
+prize-description-5: ''
+prize-name-6: ''
+prize-cash-amount-6: ''
+prize-description-6: ''
+prize-name-7: ''
+prize-cash-amount-7: ''
+prize-description-7: ''
+prize-description-8: ''
+prize-cash-amount-8: ''
+prize-name-8: ''
+prize-description-9: ''
+prize-cash-amount-9: ''
+prize-name-9: ''
+winner-solution-description-0: ''
+winner-solution-link-0: ''
+winner-name-0: ''
+winner-solution-title-0: ''
+winner-solution-link-1: ''
+winner-solution-description-1: ''
+winner-name-1: ''
+winner-solution-title-1: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
 description: "<h3>COMPETITION OVERVIEW</h3>\r\n<p>The National Science Foundation

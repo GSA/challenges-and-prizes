@@ -14,192 +14,192 @@ groupName: Environmental Protection Agency
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: https://www.epa.gov/airmarkets/empower-air-data-challenge
-    submission-end: 04/08/2019 11:59 PM
-    why-use-prizes: ''
-    submission-start: 02/15/2019 12:00 PM
-    fiscal-year: FY 2019
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: ''
-    public-voting-start-date: ''
-    legal-authority: Other
-    total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: ''
-    solicitation-of-submissions: ''
-    total-submission-received: ''
-    total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: ''
-    partner-agencies-federal: ''
-    judging-end-date: ''
-    solicitation-methods: ''
-    advancing-the-agency-mission: ''
-    rules: "<p><span lang=\"EN\">Anyone who is affiliated with an accredited college
-      or university, or a research organization (e.g., think tank) is encouraged to
-      apply. Proposed projects may range from one semester to one academic year. Applicants
-      may include:</span></p>\r\n<ul>\r\n<li><span lang=\"EN\">Academic faculty and
-      researchers</span></li>\r\n<li>Undergraduate/graduate students with faculty
-      leadership</li>\r\n<li>Ph.D. candidates</li>\r\n<li>Post-doctoral researchers</li>\r\n<li>Research
-      fellows</li>\r\n</ul>\r\n<p><span lang=\"EN\">Applicants may work as individuals
-      or teams. If applying as an individual, you must meet one of the criteria listed
-      above for the duration of the project. If applying as a team, then the team
-      leader must meet one of the above criteria for the duration of the project,
-      but other team members need not be limited to the list above. Teams may be composed
-      of individuals from more than one institution.</span></p>"
-    submission-start-date-1: ''
-    hide-challenge-timeline: 'No'
-    judging-start-date: ''
-    winners-announced-date: 05/01/2019 12:00 PM
-    cash-prizes-and-non-cash-prize-awards: ''
-    solution-type: Analytics, visualizations, algorithms
-    partner-agencies-non-federal: ''
-    original-post-id: ''
-    total-number-of-winners-awarded: ''
-    hosting: Hybrid(Challenge details will be visible on this platform but submissions
-      will be happened in external url)
-    hide-challenge-funnel: 'Yes'
-    type-of-challenge: Analytics, visualizations, algorithms
-    participation-requirements: ''
-    number-of-phases: ''
-    how-to-enter: "<p><span lang=\"EN\">Submissions should include:</span></p>\r\n<ul>\r\n<li><span
-      lang=\"EN\">Detailed description of the approach of the project and how CAMD
-      data will be used</span></li>\r\n<li>Explanation of why the project meets challenge
-      objectives</li>\r\n<li>A project schedule</li>\r\n<li>Description of the work
-      product(s) and outcome(s)</li>\r\n<li>Brief bio(s) about applicant(s), including
-      area(s) of expertise</li>\r\n</ul>\r\n<p><span lang=\"EN\">Submissions should
-      not exceed eight pages.</span></p>\r\n<p><span lang=\"EN\">Applicant must submit
-      the <a href=\"https://www.epa.gov/airmarkets/empower-air-data-challenge-application\"
-      target=\"_blank\" rel=\"noopener\">Application Form</a> with their submissions.
-      All materials should be submitted electronically in either PDF or Microsoft
-      Word document format to <a href=\"mailto:EmPOWER@epa.gov\">EmPOWER@epa.gov</a>.</span></p>\r\n<p><span
-      lang=\"EN\">If you have any questions about the application process or the EmPOWER
-      Air Data Challenge in general, email <a href=\"mailto:EmPOWER@epa.gov\">EmPOWER@epa.gov</a>.</span></p>\r\n<p><span
-      lang=\"EN\"><span style=\"color: #222222; font-family: Calibri, sans-serif;
-      font-size: 14.6667px;\">For more information, please see EPA&rsquo;s <a href=\"https://www.epa.gov/airmarkets/empower-air-data-challenge\"
-      target=\"_blank\" rel=\"noopener\">EmPOWER Air Data Challenge website</a>.</span></span></p>"
-    partnerships: ''
-  groupAttributes:
-  - judging-criteria-description-0: "<p><span lang=\"EN\">EPA will evaluate the technical
-      merit of each submission using the following factors:</span></p>\r\n<ul>\r\n<li>Clarity
-      and Effectiveness of Proposed Approach (40 points)\r\n<ul>\r\n<li>Demonstrates
-      innovative and effective technical approach(es)</li>\r\n<li>Describes how the
-      proposed project supports EmPOWER Air Data Challenge objectives</li>\r\n<li>Identifies
-      project schedule and project milestones</li>\r\n</ul>\r\n</li>\r\n<li>Project
-      Outcomes (40 points)\r\n<ul>\r\n<li>Describes specific results and/or products
-      that will be developed</li>\r\n<li>Describes overall project benefits to stakeholders,
-      other colleges/universities, and/or students</li>\r\n<li>Discusses how the project
-      advances research and knowledge</li>\r\n<li>Identify specific project-related
-      metrics</li>\r\n</ul>\r\n</li>\r\n<li>Partner Capabilities (20 points)\r\n<ul>\r\n<li>Briefly
-      states why you're interested in your proposed project</li>\r\n<li>Describes
-      qualifications of Project Team and/or Project Director</li>\r\n<li>Discusses
-      student involvement, if applicable</li>\r\n</ul>\r\n</li>\r\n</ul>"
-    judging-criteria-percentage-0: ''
-    judging-criteria-0: ''
-  - judging-criteria-description-1: ''
-    judging-criteria-percentage-1: ''
-    judging-criteria-1: ''
-  - judging-criteria-description-2: ''
-    judging-criteria-2: ''
-    judging-criteria-percentage-2: ''
-  - judging-criteria-description-3: ''
-    judging-criteria-3: ''
-    judging-criteria-percentage-3: ''
-  - judging-criteria-percentage-4: ''
-    judging-criteria-4: ''
-    judging-criteria-description-4: ''
-  - judging-criteria-percentage-5: ''
-    judging-criteria-5: ''
-    judging-criteria-description-5: ''
-  - judging-criteria-6: ''
-    judging-criteria-percentage-6: ''
-    judging-criteria-description-6: ''
-  - judging-criteria-7: ''
-    judging-criteria-percentage-7: ''
-    judging-criteria-description-7: ''
-  - prize-description-0: "<p><span lang=\"EN\">As a challenge winner, you will receive
-      direct support from EPA CAMD staff experts to answer questions and assist you
-      with CAMD tools and data analysis as you complete your project. In addition,
-      you can expect to:</span></p>\r\n<ul>\r\n<li><span lang=\"EN\">Receive national
-      recognition for your university or organization, students, and project activities
-      by being featured on the EmPOWER Air Data Challenge webpage and offered opportunities
-      to speak at conferences and events</span></li>\r\n<li>Collaborate with EPA and
-      peers to advance power sector-related research and knowledge</li>\r\n<li>Participate
-      in special networking events and webinars</li>\r\n<li>Improve understanding
-      of and solve timely and relevant environmental problems</li>\r\n<li>Gain practical
-      experience working on environmental issues with EPA</li>\r\n</ul>\r\n<p><span
-      lang=\"EN\">While no funding is available for these projects, existing grants
-      may be leveraged by participants, and we suggest that applicants reach out to
-      their communities or other organizations for additional financial support, if
-      needed.</span></p>"
-    prize-cash-amount-0: ''
-    prize-name-0: Recognition & Support
-  - prize-description-1: ''
-    prize-cash-amount-1: ''
-    prize-name-1: ''
-  - prize-cash-amount-10: ''
-    prize-name-10: ''
-    prize-description-10: ''
-  - prize-cash-amount-11: ''
-    prize-name-11: ''
-    prize-description-11: ''
-  - prize-name-12: ''
-    prize-cash-amount-12: ''
-    prize-description-12: ''
-  - prize-name-13: ''
-    prize-cash-amount-13: ''
-    prize-description-13: ''
-  - prize-description-14: ''
-    prize-cash-amount-14: ''
-    prize-name-14: ''
-  - prize-description-15: ''
-    prize-cash-amount-15: ''
-    prize-name-15: ''
-  - prize-description-16: ''
-    prize-name-16: ''
-    prize-cash-amount-16: ''
-  - prize-description-17: ''
-    prize-name-17: ''
-    prize-cash-amount-17: ''
-  - prize-cash-amount-18: ''
-    prize-name-18: ''
-    prize-description-18: ''
-  - prize-description-2: ''
-    prize-name-2: ''
-    prize-cash-amount-2: ''
-  - prize-description-3: ''
-    prize-name-3: ''
-    prize-cash-amount-3: ''
-  - prize-cash-amount-4: ''
-    prize-name-4: ''
-    prize-description-4: ''
-  - prize-cash-amount-5: ''
-    prize-name-5: ''
-    prize-description-5: ''
-  - prize-name-6: ''
-    prize-cash-amount-6: ''
-    prize-description-6: ''
-  - prize-name-7: ''
-    prize-cash-amount-7: ''
-    prize-description-7: ''
-  - prize-description-8: ''
-    prize-cash-amount-8: ''
-    prize-name-8: ''
-  - prize-description-9: ''
-    prize-cash-amount-9: ''
-    prize-name-9: ''
-  - winner-solution-description-0: ''
-    winner-solution-link-0: ''
-    winner-name-0: ''
-    winner-solution-title-0: ''
-  - winner-solution-link-1: ''
-    winner-solution-description-1: ''
-    winner-name-1: ''
-    winner-solution-title-1: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: https://www.epa.gov/airmarkets/empower-air-data-challenge
+submission-end: 04/08/2019 11:59 PM
+why-use-prizes: ''
+submission-start: 02/15/2019 12:00 PM
+fiscal-year: FY 2019
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: ''
+public-voting-start-date: ''
+legal-authority: Other
+total-number-of-prizes-awarded: ''
+evaluation-of-submissions: ''
+agency-id: ''
+solicitation-of-submissions: ''
+total-submission-received: ''
+total-number-of-participant: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: ''
+partner-agencies-federal: ''
+judging-end-date: ''
+solicitation-methods: ''
+advancing-the-agency-mission: ''
+rules: "<p><span lang=\"EN\">Anyone who is affiliated with an accredited college
+  or university, or a research organization (e.g., think tank) is encouraged to
+  apply. Proposed projects may range from one semester to one academic year. Applicants
+  may include:</span></p>\r\n<ul>\r\n<li><span lang=\"EN\">Academic faculty and
+  researchers</span></li>\r\n<li>Undergraduate/graduate students with faculty
+  leadership</li>\r\n<li>Ph.D. candidates</li>\r\n<li>Post-doctoral researchers</li>\r\n<li>Research
+  fellows</li>\r\n</ul>\r\n<p><span lang=\"EN\">Applicants may work as individuals
+  or teams. If applying as an individual, you must meet one of the criteria listed
+  above for the duration of the project. If applying as a team, then the team
+  leader must meet one of the above criteria for the duration of the project,
+  but other team members need not be limited to the list above. Teams may be composed
+  of individuals from more than one institution.</span></p>"
+submission-start-date-1: ''
+hide-challenge-timeline: 'No'
+judging-start-date: ''
+winners-announced-date: 05/01/2019 12:00 PM
+cash-prizes-and-non-cash-prize-awards: ''
+solution-type: Analytics, visualizations, algorithms
+partner-agencies-non-federal: ''
+original-post-id: ''
+total-number-of-winners-awarded: ''
+hosting: Hybrid(Challenge details will be visible on this platform but submissions
+  will be happened in external url)
+hide-challenge-funnel: 'Yes'
+type-of-challenge: Analytics, visualizations, algorithms
+participation-requirements: ''
+number-of-phases: ''
+how-to-enter: "<p><span lang=\"EN\">Submissions should include:</span></p>\r\n<ul>\r\n<li><span
+  lang=\"EN\">Detailed description of the approach of the project and how CAMD
+  data will be used</span></li>\r\n<li>Explanation of why the project meets challenge
+  objectives</li>\r\n<li>A project schedule</li>\r\n<li>Description of the work
+  product(s) and outcome(s)</li>\r\n<li>Brief bio(s) about applicant(s), including
+  area(s) of expertise</li>\r\n</ul>\r\n<p><span lang=\"EN\">Submissions should
+  not exceed eight pages.</span></p>\r\n<p><span lang=\"EN\">Applicant must submit
+  the <a href=\"https://www.epa.gov/airmarkets/empower-air-data-challenge-application\"
+  target=\"_blank\" rel=\"noopener\">Application Form</a> with their submissions.
+  All materials should be submitted electronically in either PDF or Microsoft
+  Word document format to <a href=\"mailto:EmPOWER@epa.gov\">EmPOWER@epa.gov</a>.</span></p>\r\n<p><span
+  lang=\"EN\">If you have any questions about the application process or the EmPOWER
+  Air Data Challenge in general, email <a href=\"mailto:EmPOWER@epa.gov\">EmPOWER@epa.gov</a>.</span></p>\r\n<p><span
+  lang=\"EN\"><span style=\"color: #222222; font-family: Calibri, sans-serif;
+  font-size: 14.6667px;\">For more information, please see EPA&rsquo;s <a href=\"https://www.epa.gov/airmarkets/empower-air-data-challenge\"
+  target=\"_blank\" rel=\"noopener\">EmPOWER Air Data Challenge website</a>.</span></span></p>"
+partnerships: ''
+groupAttributes:
+judging-criteria-description-0: "<p><span lang=\"EN\">EPA will evaluate the technical
+  merit of each submission using the following factors:</span></p>\r\n<ul>\r\n<li>Clarity
+  and Effectiveness of Proposed Approach (40 points)\r\n<ul>\r\n<li>Demonstrates
+  innovative and effective technical approach(es)</li>\r\n<li>Describes how the
+  proposed project supports EmPOWER Air Data Challenge objectives</li>\r\n<li>Identifies
+  project schedule and project milestones</li>\r\n</ul>\r\n</li>\r\n<li>Project
+  Outcomes (40 points)\r\n<ul>\r\n<li>Describes specific results and/or products
+  that will be developed</li>\r\n<li>Describes overall project benefits to stakeholders,
+  other colleges/universities, and/or students</li>\r\n<li>Discusses how the project
+  advances research and knowledge</li>\r\n<li>Identify specific project-related
+  metrics</li>\r\n</ul>\r\n</li>\r\n<li>Partner Capabilities (20 points)\r\n<ul>\r\n<li>Briefly
+  states why you're interested in your proposed project</li>\r\n<li>Describes
+  qualifications of Project Team and/or Project Director</li>\r\n<li>Discusses
+  student involvement, if applicable</li>\r\n</ul>\r\n</li>\r\n</ul>"
+judging-criteria-percentage-0: ''
+judging-criteria-0: ''
+judging-criteria-description-1: ''
+judging-criteria-percentage-1: ''
+judging-criteria-1: ''
+judging-criteria-description-2: ''
+judging-criteria-2: ''
+judging-criteria-percentage-2: ''
+judging-criteria-description-3: ''
+judging-criteria-3: ''
+judging-criteria-percentage-3: ''
+judging-criteria-percentage-4: ''
+judging-criteria-4: ''
+judging-criteria-description-4: ''
+judging-criteria-percentage-5: ''
+judging-criteria-5: ''
+judging-criteria-description-5: ''
+judging-criteria-6: ''
+judging-criteria-percentage-6: ''
+judging-criteria-description-6: ''
+judging-criteria-7: ''
+judging-criteria-percentage-7: ''
+judging-criteria-description-7: ''
+prize-description-0: "<p><span lang=\"EN\">As a challenge winner, you will receive
+  direct support from EPA CAMD staff experts to answer questions and assist you
+  with CAMD tools and data analysis as you complete your project. In addition,
+  you can expect to:</span></p>\r\n<ul>\r\n<li><span lang=\"EN\">Receive national
+  recognition for your university or organization, students, and project activities
+  by being featured on the EmPOWER Air Data Challenge webpage and offered opportunities
+  to speak at conferences and events</span></li>\r\n<li>Collaborate with EPA and
+  peers to advance power sector-related research and knowledge</li>\r\n<li>Participate
+  in special networking events and webinars</li>\r\n<li>Improve understanding
+  of and solve timely and relevant environmental problems</li>\r\n<li>Gain practical
+  experience working on environmental issues with EPA</li>\r\n</ul>\r\n<p><span
+  lang=\"EN\">While no funding is available for these projects, existing grants
+  may be leveraged by participants, and we suggest that applicants reach out to
+  their communities or other organizations for additional financial support, if
+  needed.</span></p>"
+prize-cash-amount-0: ''
+prize-name-0: Recognition & Support
+prize-description-1: ''
+prize-cash-amount-1: ''
+prize-name-1: ''
+prize-cash-amount-10: ''
+prize-name-10: ''
+prize-description-10: ''
+prize-cash-amount-11: ''
+prize-name-11: ''
+prize-description-11: ''
+prize-name-12: ''
+prize-cash-amount-12: ''
+prize-description-12: ''
+prize-name-13: ''
+prize-cash-amount-13: ''
+prize-description-13: ''
+prize-description-14: ''
+prize-cash-amount-14: ''
+prize-name-14: ''
+prize-description-15: ''
+prize-cash-amount-15: ''
+prize-name-15: ''
+prize-description-16: ''
+prize-name-16: ''
+prize-cash-amount-16: ''
+prize-description-17: ''
+prize-name-17: ''
+prize-cash-amount-17: ''
+prize-cash-amount-18: ''
+prize-name-18: ''
+prize-description-18: ''
+prize-description-2: ''
+prize-name-2: ''
+prize-cash-amount-2: ''
+prize-description-3: ''
+prize-name-3: ''
+prize-cash-amount-3: ''
+prize-cash-amount-4: ''
+prize-name-4: ''
+prize-description-4: ''
+prize-cash-amount-5: ''
+prize-name-5: ''
+prize-description-5: ''
+prize-name-6: ''
+prize-cash-amount-6: ''
+prize-description-6: ''
+prize-name-7: ''
+prize-cash-amount-7: ''
+prize-description-7: ''
+prize-description-8: ''
+prize-cash-amount-8: ''
+prize-name-8: ''
+prize-description-9: ''
+prize-cash-amount-9: ''
+prize-name-9: ''
+winner-solution-description-0: ''
+winner-solution-link-0: ''
+winner-name-0: ''
+winner-solution-title-0: ''
+winner-solution-link-1: ''
+winner-solution-description-1: ''
+winner-name-1: ''
+winner-solution-title-1: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
 description: "<p><span lang=\"EN\">The majority of U.S. fossil fuel-fired electricity
