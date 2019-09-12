@@ -14,213 +14,213 @@ groupName: Department of Homeland Security - Science and Technology
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.respiratorchallenge.org
-    submission-end: 04/11/2019 05:00 PM
-    why-use-prizes: ''
-    submission-start: 12/12/2018 10:00 AM
-    fiscal-year: FY 2019
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: ''
-    public-voting-start-date: ''
-    legal-authority: America COMPETES
-    total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: ''
-    solicitation-of-submissions: ''
-    total-submission-received: ''
-    total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: ''
-    partner-agencies-federal: ''
-    judging-end-date: ''
-    solicitation-methods: ''
-    advancing-the-agency-mission: ''
-    rules: "<p>All participants must first register by the registration deadline before
-      submitting an application. All submissions must be submitted electronically
-      via the challenge website by 5:00 PM Eastern on Thursday, May 30, 2019. <strong>Late
-      submissions will not be considered. </strong>All dates are subject to change.
-      <span style=\"text-decoration: underline;\">Please submit at least one hour
-      before the contest deadline to ensure your completed submission is received</span>.</p>\r\n<p>To
-      be eligible to win a prize under Phase I of this competition, the competitor
-      shall have registered to participate in the contest under the process and challenge
-      terms and conditions identified on the contest&rsquo;s official entry site,
-      which may be accessed at <a href=\"http://www.respiratorchallenge.org\" target=\"_blank\"
-      rel=\"noopener\">http://www.respiratorchallenge.org</a> (hereafter referenced
-      simply as &ldquo;Competition Website&rdquo;).</p>\r\n<h4><strong>Eligibility</strong></h4>\r\n<p>The
-      Department of Homeland Security Science and Technology Directorate welcomes
-      applications from individuals, teams, and organization or entities that have
-      a recognized legal existence and structure under applicable law (state, federal
-      or country) and that are in good standing in the jurisdiction under which they
-      are organized. You are not eligible to participate in this challenge and/or
-      receive a monetary prize if you/entity/team/organization are a resident or entity
-      designated by the United States Treasury&rsquo;s Office of Foreign Assets Control
-      (see <a href=\"http://www.treasury.gov/resource-%20center/sanctions/SDN-List/Pages/default.aspx
-      for additional information\" target=\"_blank\" rel=\"noopener\">http://www.treasury.gov/resource-
-      center/sanctions/SDN-List/Pages/default.aspx for additional information</a>).&nbsp;&nbsp;</p>\r\n<p>U.S.
-      government employees may participate so long as they rely on no facilities,
-      access, personnel, knowledge or other resources that are available to them as
-      a result of their employment except for those resources available to all other
-      participants on an equal basis.</p>\r\n<p>U.S. government employees participating
-      as individuals, or who submit applications on behalf of an otherwise eligible
-      organization, will be responsible for ensuring that their participation in the
-      competition is permitted by the rules and regulations relevant to their position
-      and that they have obtained any authorization that may be required by virtue
-      of their government position. Failure to do so may result in the disqualification
-      of them individually or of the entity which they represent or in which they
-      are involved.</p>\r\n<p>The following participants (including any individuals
-      participating as part of a team or entity) are not eligible to win a monetary
-      prize regardless of whether they meet the criteria set forth above:&nbsp;&nbsp;</p>\r\n<ul>\r\n<li>Any
-      (U.S.) federal entity or (U.S.) federal employee acting within the scope of
-      his or her employment or otherwise be prohibited by (U.S.) federal law (employees
-      should consult their agency ethics officials). Scope of Employment Definition:
-      Activities of an employee that are in furtherance of duties that are owed to
-      an employer and where the employer is, or could be, exercising some control,
-      directly or indirectly, over the activities of the employee. Note: (U.S.) federal
-      ethical conduct rules may restrict or prohibit federal employees from engaging
-      in certain outside activities; any federal employee not excluded under the prior
-      paragraph seeking to participate in this competition outside the scope of employment
-      should consult his/her agency's ethics official prior to developing a submission;</li>\r\n<li>Any
-      individual or entity that used (U.S.) federal funds to develop a submission,
-      unless such use is consistent with the grant award, or other applicable (U.S.)
-      federal funds awarding document. If a grantee using (U.S.) federal funds enters
-      and wins this prize competition, the prize monies must be treated as program
-      income for purposes of the original grant in accordance with applicable Office
-      of Management and Budget Circulars. (U.S.) federal contractors may not use (U.S.)
-      federal funds from a contract to develop a submission for this competition;
-      and</li>\r\n<li>Any judge, members of their immediate family (spouses, children,
-      step-children, siblings, step-siblings, parents, step-parents), and persons
-      living in the same household, whether or not related, are not eligible to participate
-      in any portion of this competition. Note: The members of an individual&rsquo;s
-      household include any other person who shares the same residence as such individual
-      for at least three months out of the year.</li>\r\n</ul>\r\n<p>For a complete
-      list of eligibility requirements, please see <a href=\"http://www.respiratorchallenge.org/#rules\"
-      target=\"_blank\" rel=\"noopener\">http://www.respiratorchallenge.org/#rules</a>.</p>\r\n<p>Privacy:
-      Please see <a href=\"http://www.respiratorchallenge.org/#privacy-policy\" target=\"_blank\"
-      rel=\"noopener\">http://www.respiratorchallenge.org/#privacy-policy</a>.</p>"
-    submission-start-date-1: ''
-    judging-start-date: ''
-    winners-announced-date: ''
-    cash-prizes-and-non-cash-prize-awards: ''
-    solution-type: Software and apps
-    partner-agencies-non-federal: ''
-    original-post-id: ''
-    total-number-of-winners-awarded: ''
-    hosting: Hybrid(Challenge details will be visible on this platform but submissions
-      will be happened in external url)
-    type-of-challenge: Software and apps
-    participation-requirements: ''
-    number-of-phases: ''
-    how-to-enter: ''
-    partnerships: ''
-  groupAttributes:
-  - judging-criteria-description-0: "<p>There are two types of reviews that a valid
-      submission may receive: Evaluation Panel Review and Selection Committee Review.
-      Each judge has been carefully chosen for their knowledge and experience.&nbsp;</p>\r\n<p>Each
-      evaluation panel member (judge) scores and comments on the applications assigned
-      to them, using a five-point Likert scale with these four criteria: relevant,
-      usable, effective, and feasible. Each valid application will receive five sets
-      of reviews that have been statistically normalized. Based on the rank order
-      of the applications, the three highest-scoring submissions will be named as
-      finalists. (Detailed judging and scoring information may be accessed at <a href=\"http://www.respiratorchallenge.org\"
-      target=\"_blank\" rel=\"noopener\">http://www.respiratorchallenge.org</a>.)</p>"
-    judging-criteria-percentage-0: ''
-    judging-criteria-0: Evaluation Panel and Selection Committee Review
-  - judging-criteria-description-1: ''
-    judging-criteria-percentage-1: ''
-    judging-criteria-1: ''
-  - judging-criteria-description-2: ''
-    judging-criteria-2: ''
-    judging-criteria-percentage-2: ''
-  - judging-criteria-description-3: ''
-    judging-criteria-3: ''
-    judging-criteria-percentage-3: ''
-  - judging-criteria-percentage-4: ''
-    judging-criteria-4: ''
-    judging-criteria-description-4: ''
-  - judging-criteria-percentage-5: ''
-    judging-criteria-5: ''
-    judging-criteria-description-5: ''
-  - judging-criteria-6: ''
-    judging-criteria-percentage-6: ''
-    judging-criteria-description-6: ''
-  - judging-criteria-7: ''
-    judging-criteria-percentage-7: ''
-    judging-criteria-description-7: ''
-  - prize-description-0: "<p>Phase I ($150,000 purse): Up to 3 finalists in the first
-      phase of this prize competition will be selected by the judges according to
-      official challenge criteria and will each be awarded $50,000 in monetary prizes.
-      Phase I finalists are expected to participate in Phase II.</p>\r\n<p>Phase II
-      ($100,000 purse): Finalists will participate in a demonstration event where
-      they will demonstrate their prototypes. Finalists will compete for a cash grand
-      prize purse of $100,000.</p>"
-    prize-cash-amount-0: '250000'
-    prize-name-0: Monetary Prizes
-  - prize-description-1: ''
-    prize-cash-amount-1: ''
-    prize-name-1: ''
-  - prize-cash-amount-10: ''
-    prize-name-10: ''
-    prize-description-10: ''
-  - prize-cash-amount-11: ''
-    prize-name-11: ''
-    prize-description-11: ''
-  - prize-name-12: ''
-    prize-cash-amount-12: ''
-    prize-description-12: ''
-  - prize-name-13: ''
-    prize-cash-amount-13: ''
-    prize-description-13: ''
-  - prize-description-14: ''
-    prize-cash-amount-14: ''
-    prize-name-14: ''
-  - prize-description-15: ''
-    prize-cash-amount-15: ''
-    prize-name-15: ''
-  - prize-description-16: ''
-    prize-name-16: ''
-    prize-cash-amount-16: ''
-  - prize-description-17: ''
-    prize-name-17: ''
-    prize-cash-amount-17: ''
-  - prize-cash-amount-18: ''
-    prize-name-18: ''
-    prize-description-18: ''
-  - prize-description-2: ''
-    prize-name-2: ''
-    prize-cash-amount-2: ''
-  - prize-description-3: ''
-    prize-name-3: ''
-    prize-cash-amount-3: ''
-  - prize-cash-amount-4: ''
-    prize-name-4: ''
-    prize-description-4: ''
-  - prize-cash-amount-5: ''
-    prize-name-5: ''
-    prize-description-5: ''
-  - prize-name-6: ''
-    prize-cash-amount-6: ''
-    prize-description-6: ''
-  - prize-name-7: ''
-    prize-cash-amount-7: ''
-    prize-description-7: ''
-  - prize-description-8: ''
-    prize-cash-amount-8: ''
-    prize-name-8: ''
-  - prize-description-9: ''
-    prize-cash-amount-9: ''
-    prize-name-9: ''
-  - winner-solution-description-0: ''
-    winner-solution-link-0: ''
-    winner-name-0: ''
-    winner-solution-title-0: ''
-  - winner-solution-link-1: ''
-    winner-solution-description-1: ''
-    winner-name-1: ''
-    winner-solution-title-1: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.respiratorchallenge.org
+submission-end: 04/11/2019 05:00 PM
+why-use-prizes: ''
+submission-start: 12/12/2018 10:00 AM
+fiscal-year: FY 2019
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: ''
+public-voting-start-date: ''
+legal-authority: America COMPETES
+total-number-of-prizes-awarded: ''
+evaluation-of-submissions: ''
+agency-id: ''
+solicitation-of-submissions: ''
+total-submission-received: ''
+total-number-of-participant: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: ''
+partner-agencies-federal: ''
+judging-end-date: ''
+solicitation-methods: ''
+advancing-the-agency-mission: ''
+rules: "<p>All participants must first register by the registration deadline before
+  submitting an application. All submissions must be submitted electronically
+  via the challenge website by 5:00 PM Eastern on Thursday, May 30, 2019. <strong>Late
+  submissions will not be considered. </strong>All dates are subject to change.
+  <span style=\"text-decoration: underline;\">Please submit at least one hour
+  before the contest deadline to ensure your completed submission is received</span>.</p>\r\n<p>To
+  be eligible to win a prize under Phase I of this competition, the competitor
+  shall have registered to participate in the contest under the process and challenge
+  terms and conditions identified on the contest&rsquo;s official entry site,
+  which may be accessed at <a href=\"http://www.respiratorchallenge.org\" target=\"_blank\"
+  rel=\"noopener\">http://www.respiratorchallenge.org</a> (hereafter referenced
+  simply as &ldquo;Competition Website&rdquo;).</p>\r\n<h4><strong>Eligibility</strong></h4>\r\n<p>The
+  Department of Homeland Security Science and Technology Directorate welcomes
+  applications from individuals, teams, and organization or entities that have
+  a recognized legal existence and structure under applicable law (state, federal
+  or country) and that are in good standing in the jurisdiction under which they
+  are organized. You are not eligible to participate in this challenge and/or
+  receive a monetary prize if you/entity/team/organization are a resident or entity
+  designated by the United States Treasury&rsquo;s Office of Foreign Assets Control
+  (see <a href=\"http://www.treasury.gov/resource-%20center/sanctions/SDN-List/Pages/default.aspx
+  for additional information\" target=\"_blank\" rel=\"noopener\">http://www.treasury.gov/resource-
+  center/sanctions/SDN-List/Pages/default.aspx for additional information</a>).&nbsp;&nbsp;</p>\r\n<p>U.S.
+  government employees may participate so long as they rely on no facilities,
+  access, personnel, knowledge or other resources that are available to them as
+  a result of their employment except for those resources available to all other
+  participants on an equal basis.</p>\r\n<p>U.S. government employees participating
+  as individuals, or who submit applications on behalf of an otherwise eligible
+  organization, will be responsible for ensuring that their participation in the
+  competition is permitted by the rules and regulations relevant to their position
+  and that they have obtained any authorization that may be required by virtue
+  of their government position. Failure to do so may result in the disqualification
+  of them individually or of the entity which they represent or in which they
+  are involved.</p>\r\n<p>The following participants (including any individuals
+  participating as part of a team or entity) are not eligible to win a monetary
+  prize regardless of whether they meet the criteria set forth above:&nbsp;&nbsp;</p>\r\n<ul>\r\n<li>Any
+  (U.S.) federal entity or (U.S.) federal employee acting within the scope of
+  his or her employment or otherwise be prohibited by (U.S.) federal law (employees
+  should consult their agency ethics officials). Scope of Employment Definition:
+  Activities of an employee that are in furtherance of duties that are owed to
+  an employer and where the employer is, or could be, exercising some control,
+  directly or indirectly, over the activities of the employee. Note: (U.S.) federal
+  ethical conduct rules may restrict or prohibit federal employees from engaging
+  in certain outside activities; any federal employee not excluded under the prior
+  paragraph seeking to participate in this competition outside the scope of employment
+  should consult his/her agency's ethics official prior to developing a submission;</li>\r\n<li>Any
+  individual or entity that used (U.S.) federal funds to develop a submission,
+  unless such use is consistent with the grant award, or other applicable (U.S.)
+  federal funds awarding document. If a grantee using (U.S.) federal funds enters
+  and wins this prize competition, the prize monies must be treated as program
+  income for purposes of the original grant in accordance with applicable Office
+  of Management and Budget Circulars. (U.S.) federal contractors may not use (U.S.)
+  federal funds from a contract to develop a submission for this competition;
+  and</li>\r\n<li>Any judge, members of their immediate family (spouses, children,
+  step-children, siblings, step-siblings, parents, step-parents), and persons
+  living in the same household, whether or not related, are not eligible to participate
+  in any portion of this competition. Note: The members of an individual&rsquo;s
+  household include any other person who shares the same residence as such individual
+  for at least three months out of the year.</li>\r\n</ul>\r\n<p>For a complete
+  list of eligibility requirements, please see <a href=\"http://www.respiratorchallenge.org/#rules\"
+  target=\"_blank\" rel=\"noopener\">http://www.respiratorchallenge.org/#rules</a>.</p>\r\n<p>Privacy:
+  Please see <a href=\"http://www.respiratorchallenge.org/#privacy-policy\" target=\"_blank\"
+  rel=\"noopener\">http://www.respiratorchallenge.org/#privacy-policy</a>.</p>"
+submission-start-date-1: ''
+judging-start-date: ''
+winners-announced-date: ''
+cash-prizes-and-non-cash-prize-awards: ''
+solution-type: Software and apps
+partner-agencies-non-federal: ''
+original-post-id: ''
+total-number-of-winners-awarded: ''
+hosting: Hybrid(Challenge details will be visible on this platform but submissions
+  will be happened in external url)
+type-of-challenge: Software and apps
+participation-requirements: ''
+number-of-phases: ''
+how-to-enter: ''
+partnerships: ''
+groupAttributes:
+judging-criteria-description-0: "<p>There are two types of reviews that a valid
+  submission may receive: Evaluation Panel Review and Selection Committee Review.
+  Each judge has been carefully chosen for their knowledge and experience.&nbsp;</p>\r\n<p>Each
+  evaluation panel member (judge) scores and comments on the applications assigned
+  to them, using a five-point Likert scale with these four criteria: relevant,
+  usable, effective, and feasible. Each valid application will receive five sets
+  of reviews that have been statistically normalized. Based on the rank order
+  of the applications, the three highest-scoring submissions will be named as
+  finalists. (Detailed judging and scoring information may be accessed at <a href=\"http://www.respiratorchallenge.org\"
+  target=\"_blank\" rel=\"noopener\">http://www.respiratorchallenge.org</a>.)</p>"
+judging-criteria-percentage-0: ''
+judging-criteria-0: Evaluation Panel and Selection Committee Review
+judging-criteria-description-1: ''
+judging-criteria-percentage-1: ''
+judging-criteria-1: ''
+judging-criteria-description-2: ''
+judging-criteria-2: ''
+judging-criteria-percentage-2: ''
+judging-criteria-description-3: ''
+judging-criteria-3: ''
+judging-criteria-percentage-3: ''
+judging-criteria-percentage-4: ''
+judging-criteria-4: ''
+judging-criteria-description-4: ''
+judging-criteria-percentage-5: ''
+judging-criteria-5: ''
+judging-criteria-description-5: ''
+judging-criteria-6: ''
+judging-criteria-percentage-6: ''
+judging-criteria-description-6: ''
+judging-criteria-7: ''
+judging-criteria-percentage-7: ''
+judging-criteria-description-7: ''
+prize-description-0: "<p>Phase I ($150,000 purse): Up to 3 finalists in the first
+  phase of this prize competition will be selected by the judges according to
+  official challenge criteria and will each be awarded $50,000 in monetary prizes.
+  Phase I finalists are expected to participate in Phase II.</p>\r\n<p>Phase II
+  ($100,000 purse): Finalists will participate in a demonstration event where
+  they will demonstrate their prototypes. Finalists will compete for a cash grand
+  prize purse of $100,000.</p>"
+prize-cash-amount-0: '250000'
+prize-name-0: Monetary Prizes
+prize-description-1: ''
+prize-cash-amount-1: ''
+prize-name-1: ''
+prize-cash-amount-10: ''
+prize-name-10: ''
+prize-description-10: ''
+prize-cash-amount-11: ''
+prize-name-11: ''
+prize-description-11: ''
+prize-name-12: ''
+prize-cash-amount-12: ''
+prize-description-12: ''
+prize-name-13: ''
+prize-cash-amount-13: ''
+prize-description-13: ''
+prize-description-14: ''
+prize-cash-amount-14: ''
+prize-name-14: ''
+prize-description-15: ''
+prize-cash-amount-15: ''
+prize-name-15: ''
+prize-description-16: ''
+prize-name-16: ''
+prize-cash-amount-16: ''
+prize-description-17: ''
+prize-name-17: ''
+prize-cash-amount-17: ''
+prize-cash-amount-18: ''
+prize-name-18: ''
+prize-description-18: ''
+prize-description-2: ''
+prize-name-2: ''
+prize-cash-amount-2: ''
+prize-description-3: ''
+prize-name-3: ''
+prize-cash-amount-3: ''
+prize-cash-amount-4: ''
+prize-name-4: ''
+prize-description-4: ''
+prize-cash-amount-5: ''
+prize-name-5: ''
+prize-description-5: ''
+prize-name-6: ''
+prize-cash-amount-6: ''
+prize-description-6: ''
+prize-name-7: ''
+prize-cash-amount-7: ''
+prize-description-7: ''
+prize-description-8: ''
+prize-cash-amount-8: ''
+prize-name-8: ''
+prize-description-9: ''
+prize-cash-amount-9: ''
+prize-name-9: ''
+winner-solution-description-0: ''
+winner-solution-link-0: ''
+winner-name-0: ''
+winner-solution-title-0: ''
+winner-solution-link-1: ''
+winner-solution-description-1: ''
+winner-name-1: ''
+winner-solution-title-1: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
 description: "<p>Currently available escape hoods have several shortcomings for all

@@ -1,43 +1,42 @@
 ---
 ideaSubmitFormInstruction: ''
-startDate: '2018-09-13T13:38:38'
+startDate: '2019-03-26T12:12:08'
 votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 47
-moderatorAdminOnlyIdeasEnabled: false
+id: 1016
+moderatorAdminOnlyIdeasEnabled: true
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: false
-tagline: Can you create a method to forecast the future?
-groupName: Office of Director of National Intelligence - Intelligence Advanced Research
-  Project Activity
+tagline: Discover, develop, and test innovative and disruptive Control Co-Design solutions
+  for critical wind energy challenges (land-based wind turbine case)
+groupName: Department of Energy - Energy Programs
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
 attributes:
 total-prize-awarded-cash: ''
-external-url: https://iarpa.gov/challenges/mercury.html
-submission-end: 04/30/2019 12:00 AM
+external-url: https://www.herox.com/atlas-onshore-challenge
+submission-end: 04/19/2019 03:05 PM
 why-use-prizes: ''
-submission-start: '08/01/2018 12:00 AM'
-fiscal-year: FY 2018
+submission-start: 01/11/2019 03:35 PM
+fiscal-year: FY 2019
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '100000'
-campaign-owner: Rebecca Allegar
+total-prize-offered-cash: ''
 public-voting-start-date: ''
-legal-authority: Other
+legal-authority: Direct Prize Authority - DOE
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
-agency-id: '4901'
+agency-id: ''
 solicitation-of-submissions: ''
 total-submission-received: ''
 total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
 non-monetary-incentives-awarded: ''
-partner-agencies-federal: '0'
+partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''
@@ -47,14 +46,13 @@ hide-challenge-timeline: 'No'
 judging-start-date: ''
 winners-announced-date: ''
 cash-prizes-and-non-cash-prize-awards: ''
-campaign-owner-email: rebecca.allegar@iarpa.gov, mercury-challenge@iarpa.gov
-solution-type: Software and apps
+solution-type: Scientific
 partner-agencies-non-federal: ''
-original-post-id: '177989'
+original-post-id: ''
 total-number-of-winners-awarded: ''
 hosting: Externally (Challenge details will redirect to external url)
-hide-challenge-funnel: 'Yes'
-type-of-challenge: Software and apps
+hide-challenge-funnel: 'No'
+type-of-challenge: Scientific
 participation-requirements: ''
 number-of-phases: ''
 how-to-enter: ''
@@ -66,36 +64,6 @@ judging-criteria-0: ''
 judging-criteria-description-1: ''
 judging-criteria-percentage-1: ''
 judging-criteria-1: ''
-judging-criteria-description-10: ''
-judging-criteria-percentage-10: ''
-judging-criteria-10: ''
-judging-criteria-description-11: ''
-judging-criteria-percentage-11: ''
-judging-criteria-11: ''
-judging-criteria-description-12: ''
-judging-criteria-12: ''
-judging-criteria-percentage-12: ''
-judging-criteria-description-13: ''
-judging-criteria-13: ''
-judging-criteria-percentage-13: ''
-judging-criteria-percentage-14: ''
-judging-criteria-14: ''
-judging-criteria-description-14: ''
-judging-criteria-percentage-15: ''
-judging-criteria-15: ''
-judging-criteria-description-15: ''
-judging-criteria-16: ''
-judging-criteria-percentage-16: ''
-judging-criteria-description-16: ''
-judging-criteria-17: ''
-judging-criteria-percentage-17: ''
-judging-criteria-description-17: ''
-judging-criteria-description-18: ''
-judging-criteria-percentage-18: ''
-judging-criteria-18: ''
-judging-criteria-description-19: ''
-judging-criteria-percentage-19: ''
-judging-criteria-19: ''
 judging-criteria-description-2: ''
 judging-criteria-2: ''
 judging-criteria-percentage-2: ''
@@ -114,15 +82,9 @@ judging-criteria-description-6: ''
 judging-criteria-7: ''
 judging-criteria-percentage-7: ''
 judging-criteria-description-7: ''
-judging-criteria-description-8: ''
-judging-criteria-percentage-8: ''
-judging-criteria-8: ''
-judging-criteria-description-9: ''
-judging-criteria-percentage-9: ''
-judging-criteria-9: ''
-prize-description-0: The Total Incentive Breakdown can be found at https://iarpa.gov/challenges/mercury.html
-prize-cash-amount-0: '100000'
-prize-name-0: Total Prize Pool
+prize-description-0: ''
+prize-cash-amount-0: ''
+prize-name-0: ''
 prize-description-1: ''
 prize-cash-amount-1: ''
 prize-name-1: ''
@@ -185,64 +147,28 @@ winner-solution-link-1: ''
 winner-solution-description-1: ''
 winner-name-1: ''
 winner-solution-title-1: ''
-winner-solution-description-2: ''
-winner-solution-link-2: ''
-winner-solution-title-2: ''
-winner-name-2: ''
-winner-solution-link-3: ''
-winner-solution-description-3: ''
-winner-solution-title-3: ''
-winner-name-3: ''
-winner-name-4: ''
-winner-solution-title-4: ''
-winner-solution-description-4: ''
-winner-solution-link-4: ''
-winner-name-5: ''
-winner-solution-title-5: ''
-winner-solution-link-5: ''
-winner-solution-description-5: ''
-winner-solution-title-6: ''
-winner-name-6: ''
-winner-solution-description-6: ''
-winner-solution-link-6: ''
-winner-solution-title-7: ''
-winner-name-7: ''
-winner-solution-link-7: ''
-winner-solution-description-7: ''
-winner-solution-description-8: ''
-winner-solution-link-8: ''
-winner-name-8: ''
-winner-solution-title-8: ''
-winner-solution-link-9: ''
-winner-solution-description-9: ''
-winner-name-9: ''
-winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: "<p>In an effort to strengthen global crisis response capabilities, The
-  IARPA Mercury Challenge seeks innovative solutions using machine learning and artificial
-  intelligence methods to automatically predict the occurrence of critical events
-  involving military action, non-violent civil unrest, and infectious diseases in
-  Egypt, Saudi Arabia, Iraq, Syria, Qatar, Lebanon, Jordan, and Bahrain.</p>"
+description: ''
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
 summaryEnabled: false
 voteCount: 0
-ideaTabEnabledForChallenge: true
-moderatorAdminOnlyIdeasNotificationEnabled: false
+ideaTabEnabledForChallenge: false
+moderatorAdminOnlyIdeasNotificationEnabled: true
 hideCommentAuthor: false
 authorizedGroupIds:
 - 28
 userSubscriptionAllowed: true
 bannerImage: ''
-groupId: 269
+groupId: 59
 showTagline: true
-name: IARPA's Mercury Challenge
+name: 'ATLAS - Onshore Student Competition'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: true
-permalink: "/challenge/iarpas-mercury-challenge/"
+permalink: "/challenge/atlas-onshore-student-competition/"
 layout: json-page
 ---
