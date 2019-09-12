@@ -70,15 +70,66 @@ challenge-manager-email: hq-stmd-centennialchallenges@mail.nasa.gov
 <p><strong>Judging Criteria</strong></p>
 <p>To qualify to be judged, teams must provide a completed application package, submit a video of the system operating properly and have an interview by phone with a judge. The judge will determine is a team has sufficiently completed the required criteria and the judge will schedule a site visit with the team. The judging panel's evaluation of the submissions will be based on the following scoring criteria:</p>
 <p>Product Quality Assessment (100 points): Each team must host a judge for an on-site visit. During this visit, a team must successfully demonstrate the operation of their system and produce enough sample within 7 hours to be analyzed and scored. The product will be collected and analyzed by an independent laboratory for the presence of D-enantiomers of targeted simple sugars. Teams will be assigned scores based on the presence of targeted compounds.</p>
-<p><strong>Challenge Targeted Compounds & Weighting Factor</strong></p>
-<ul>
-<li>D-Glucose: 100</li>
-<li>Other 6-carbon sugars (D-hexoses): 80</li>
-<li>5-carbon sugars (D-pentoses): 50</li>
-<li>4-carbon sugars (D-tetroses): 10</li>
-<li>3-carbon sugars (D-trioses): 5</li>
-<li>D-Glycerol: 5</li>
-</ul>
+<table width="0">
+<tbody>
+<tr>
+<td width="419">
+<p style="text-align: center;"><strong>Challenge Targeted Compounds</strong></p>
+</td>
+<td width="217">
+<p style="text-align: center;"><strong>Weighting Factor</strong></p>
+</td>
+</tr>
+<tr>
+<td width="419">
+<p>D-Glucose</p>
+</td>
+<td width="217">
+<p style="text-align: center;">100</p>
+</td>
+</tr>
+<tr>
+<td width="419">
+<p>Other 6-carbon sugars (D-hexoses)</p>
+</td>
+<td width="217">
+<p style="text-align: center;">80</p>
+</td>
+</tr>
+<tr>
+<td width="419">
+<p>5-carbon sugars (D-pentoses)</p>
+</td>
+<td width="217">
+<p style="text-align: center;">50</p>
+</td>
+</tr>
+<tr>
+<td width="419">
+<p>4-carbon sugars (D-tetroses)</p>
+</td>
+<td width="217">
+<p style="text-align: center;">10</p>
+</td>
+</tr>
+<tr>
+<td width="419">
+<p>3-carbon sugars (D-trioses)</p>
+</td>
+<td width="217">
+<p style="text-align: center;">5</p>
+</td>
+</tr>
+<tr>
+<td width="419">
+<p>D-Glycerol</p>
+</td>
+<td width="217">
+<p style="text-align: center;">5</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 <!--  How To Enter start -->
 ### How To Enter
