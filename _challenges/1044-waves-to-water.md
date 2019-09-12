@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/waves-to-water-prize/
 challenge-id: 1044
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/waves-to-water.png
 agency-logo: 256px-Seal_of_the_United_States_Department_of_Energy.png
