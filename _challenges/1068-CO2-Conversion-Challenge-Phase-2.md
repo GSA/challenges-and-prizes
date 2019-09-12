@@ -10,7 +10,7 @@ challenge-title: CO2 Conversion Challenge Phase 2
 tagline: Get Out of Your Element
 agency: National Aeronautics and Space Administration
 partner-agencies-federal: NASA Centennial Challenges Program and NASA Ames Research Center
-partners-non-federal: 
+partners-non-federal: Common Pool
 external-url:
 total-prize-offered-cash:
 type-of-challenge: Scientific
@@ -45,6 +45,71 @@ challenge-manager-email: hq-stmd-centennialchallenges@mail.nasa.gov
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<p><strong>Judging Panel</strong></p>
+<p>A judging panel will be composed of a hybrid team, both internal and external to NASA</p>
+<p><strong>Judging Criteria</strong></p>
+<p>To qualify to be judged, teams must provide a completed application package, submit a video of the system operating properly and have an interview by phone with a judge. The judge will determine is a team has sufficiently completed the required criteria and the judge will schedule a site visit with the team. The judging panel's evaluation of the submissions will be based on the following scoring criteria:</p>
+<p>Product Quality Assessment (100 points): Each team must host a judge for an on-site visit. During this visit, a team must successfully demonstrate the operation of their system and produce enough sample within 7 hours to be analyzed and scored. The product will be collected and analyzed by an independent laboratory for the presence of D-enantiomers of targeted simple sugars. Teams will be assigned scores based on the presence of targeted compounds.</p>
+<table border="1">
+<tbody>
+<tr>
+<td width="222">
+<p><strong>Challenge Targeted Compounds</strong></p>
+</td>
+<td width="90">
+<p><strong>Weighting Factor</strong></p>
+</td>
+</tr>
+<tr>
+<td width="222">
+<p>D-Glucose</p>
+</td>
+<td width="90">
+<p>100</p>
+</td>
+</tr>
+<tr>
+<td width="222">
+<p>Other 6-carbon sugars (D-hexoses)</p>
+</td>
+<td width="90">
+<p>80</p>
+</td>
+</tr>
+<tr>
+<td width="222">
+<p>5-carbon sugars (D-pentoses)</p>
+</td>
+<td width="90">
+<p>50</p>
+</td>
+</tr>
+<tr>
+<td width="222">
+<p>4-carbon sugars (D-tetroses)</p>
+</td>
+<td width="90">
+<p>10</p>
+</td>
+</tr>
+<tr>
+<td width="222">
+<p>3-carbon sugars (D-trioses)</p>
+</td>
+<td width="90">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td width="222">
+<p>D-Glycerol</p>
+</td>
+<td width="90">
+<p>5</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 <!--  How To Enter start -->
 ### How To Enter
