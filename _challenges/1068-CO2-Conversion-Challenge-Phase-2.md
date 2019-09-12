@@ -50,6 +50,7 @@ challenge-manager-email: hq-stmd-centennialchallenges@mail.nasa.gov
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<p>The rules for this Challenge are on the <a href="https://www.co2conversionchallenge.org/" target="_blank" rel="noopener">official challenge site</a>.</p>
 
 <!-- Judging start -->
 ### Judging Criteria
