@@ -124,3 +124,5 @@ challenge-manager-email: hq-stmd-centennialchallenges@mail.nasa.gov
 <!--  How To Enter start -->
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
+<p>All interested teams must register on the <a href="https://www.co2conversionchallenge.org/" target="_blank" rel="noopener">official challenge site</a> by the given deadline in order to participate in the Challenge.</p>
