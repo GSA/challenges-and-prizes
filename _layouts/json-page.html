@@ -10,7 +10,7 @@ layout: default
                 <h3 class="text-base-dark">{{ page.groupName }}</h3>
             </aside>
         -->
-
+        {% include sidenav-json-page.html %}
         <div class="desktop:grid-col-9 usa-prose usa-section">  
             <h1 class="text-primary-dark">{{ page.name }}</h1>
             <h3 class="text-primary">{{ page.tagline }}</h3> 
@@ -50,9 +50,10 @@ layout: default
                     <h3>This challenge is externally hosted.</h3> <p>You can view the challenge details here: <a href="{{page.external-url}}" target="_blank" rel="noopener">{{page.external-url}}</a></p>
                     </p>
                     {% endif %}
+
                     <!--Description-->
                     {% if page.description != "" %}
-                    <h3 class="text-accent-warm-dark font-heading-lg">Description</h3>
+                    <h3 class="text-accent-warm-dark font-heading-lg challenge-section" id="description">Description</h3>
                     {{ page.description }}
                     {% endif %}
 
@@ -68,13 +69,13 @@ layout: default
                 
                     <!--Rules-->
                     {% if page.rules != "" %}
-                    <h3 class="text-accent-warm-dark font-heading-lg">Rules</h3>
+                    <h3 class="text-accent-warm-dark font-heading-lg challenge-section" id="rules">Rules</h3>
                     {{ page.rules }}
                     {% endif %}
 
                     <!--Judging Criteria-->
                     {% if page.judging-criteria-0 != "" or page.judging-criteria-description-0 != "" %}
-                    <h3 class="text-accent-warm-dark font-heading-lg">Judging Criteria</h3>
+                    <h3 class="text-accent-warm-dark font-heading-lg challenge-section" id="judging-criteria">Judging Criteria</h3>
                     <p>
                     {% endif %}
 
@@ -112,7 +113,7 @@ layout: default
                     
                     <!--How To Enter-->
                     {% if page.how-to-enter != "" %}
-                    <h3 class="text-accent-warm-dark font-heading-lg">How To Enter</h3>
+                    <h3 class="text-accent-warm-dark font-heading-lg challenge-section" id="how-to-enter">How To Enter</h3>
                     {{ page.how-to-enter }}
                     {% endif %}
             </div>
