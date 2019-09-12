@@ -73,15 +73,15 @@ challenge-manager-email: hq-stmd-centennialchallenges@mail.nasa.gov
 <table border="1" width="0">
 <tbody>
 <tr>
-<td width="419">
-<p style="text-align: left;"><strong>Challenge Targeted Compounds</strong></p>
+<td style="text-align: center;" width="419">
+<p style="text-align: center;"><strong>Challenge Targeted Compounds</strong></p>
 </td>
 <td width="217">
 <p style="text-align: center;"><strong>Weighting Factor</strong></p>
 </td>
 </tr>
 <tr>
-<td width="419">
+<td style="text-align: center;" width="419">
 <p>D-Glucose</p>
 </td>
 <td width="217">
@@ -89,7 +89,7 @@ challenge-manager-email: hq-stmd-centennialchallenges@mail.nasa.gov
 </td>
 </tr>
 <tr>
-<td width="419">
+<td style="text-align: center;" width="419">
 <p>Other 6-carbon sugars (D-hexoses)</p>
 </td>
 <td width="217">
@@ -97,7 +97,7 @@ challenge-manager-email: hq-stmd-centennialchallenges@mail.nasa.gov
 </td>
 </tr>
 <tr>
-<td width="419">
+<td style="text-align: center;" width="419">
 <p>5-carbon sugars (D-pentoses)</p>
 </td>
 <td width="217">
@@ -105,7 +105,7 @@ challenge-manager-email: hq-stmd-centennialchallenges@mail.nasa.gov
 </td>
 </tr>
 <tr>
-<td width="419">
+<td style="text-align: center;" width="419">
 <p>4-carbon sugars (D-tetroses)</p>
 </td>
 <td width="217">
@@ -113,7 +113,7 @@ challenge-manager-email: hq-stmd-centennialchallenges@mail.nasa.gov
 </td>
 </tr>
 <tr>
-<td width="419">
+<td style="text-align: center;" width="419">
 <p>3-carbon sugars (D-trioses)</p>
 </td>
 <td width="217">
@@ -121,7 +121,7 @@ challenge-manager-email: hq-stmd-centennialchallenges@mail.nasa.gov
 </td>
 </tr>
 <tr>
-<td width="419">
+<td style="text-align: center;" width="419">
 <p>D-Glycerol</p>
 </td>
 <td width="217">
