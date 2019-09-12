@@ -70,11 +70,11 @@ challenge-manager-email: hq-stmd-centennialchallenges@mail.nasa.gov
 <p><strong>Judging Criteria</strong></p>
 <p>To qualify to be judged, teams must provide a completed application package, submit a video of the system operating properly and have an interview by phone with a judge. The judge will determine is a team has sufficiently completed the required criteria and the judge will schedule a site visit with the team. The judging panel's evaluation of the submissions will be based on the following scoring criteria:</p>
 <p>Product Quality Assessment (100 points): Each team must host a judge for an on-site visit. During this visit, a team must successfully demonstrate the operation of their system and produce enough sample within 7 hours to be analyzed and scored. The product will be collected and analyzed by an independent laboratory for the presence of D-enantiomers of targeted simple sugars. Teams will be assigned scores based on the presence of targeted compounds.</p>
-<table width="0">
+<table border="1" width="0">
 <tbody>
 <tr>
 <td width="419">
-<p style="text-align: center;"><strong>Challenge Targeted Compounds</strong></p>
+<p style="text-align: left;"><strong>Challenge Targeted Compounds</strong></p>
 </td>
 <td width="217">
 <p style="text-align: center;"><strong>Weighting Factor</strong></p>
