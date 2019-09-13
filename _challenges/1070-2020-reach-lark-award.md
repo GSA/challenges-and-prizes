@@ -44,7 +44,7 @@ challenge-manager-email: dnpaopolicy@cdc.gov
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-
+<p>A maximum of one applicant (individual or team) will receive a winner's plaque winner. The winner may be invited to meetings by CDC or nonfederal individuals or organizations from outside the agency. Attendance at such events is not required as a condition of accepting the prize. No cash prize will be awarded.</p>
 
 <!-- Rules start -->
 ### Rules 
@@ -116,4 +116,4 @@ challenge-manager-email: dnpaopolicy@cdc.gov
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p>To compete for this award, individuals and entities must submit an application form, which will be available in October 2019. Applying will require applicants to provide a free-text written statement of 500 words or less that describes the nominee&rsquo;s unique and innovative approach that led to reduced health disparities in chronic disease.</p>
+<p>To compete for this award, individuals and entities must submit an application form, which will be available in October 2019. Applying will require applicants to provide a free-text written statement of 500 words or less that describes the nominee's unique and innovative approach that led to reduced health disparities in chronic disease.</p>
