@@ -115,3 +115,5 @@ challenge-manager-email: dnpaopolicy@cdc.gov
 <!--  How To Enter start -->
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
+<p>To compete for this award, individuals and entities must submit an application form, which will be available in October 2019. Applying will require applicants to provide a free-text written statement of 500 words or less that describes the nominee&rsquo;s unique and innovative approach that led to reduced health disparities in chronic disease.</p>
