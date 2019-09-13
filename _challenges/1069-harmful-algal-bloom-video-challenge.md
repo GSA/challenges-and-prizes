@@ -70,7 +70,7 @@ challenge-manager-email: R7PublicAffairs@epa.gov
   <li>Frame size of 1920X1080</li>
   </ul>
 <p>Selected winners will need to provide a video file to EPA.</p> 
-<p><strong>Required Paperwork: </strong>Each video entry must be accompanied with the following paperwork:
+<p><strong>Required Paperwork: </strong>Each video entry must be accompanied with the following paperwork:</p>
 <ul>
   <li>A written transcript of the video for closed captioning purposes</li>
   <li>Video Contest Form</li>
@@ -96,12 +96,12 @@ challenge-manager-email: R7PublicAffairs@epa.gov
 <p><strong>Non-endorsement: </strong>EPA and EPA officials do not endorse any product, service or enterprise that may appear in submitted videos. Furthermore, by recognizing winning videos, EPA is not endorsing products, services or enterprises that may appear in those videos.</p> 
 <p><strong>Funding Restrictions: </strong>Challenge-solvers cannot use funding from the Federal Government (either through grants or contracts) to compete in the Challenge.</p>
 <p>All prize awards are subject to EPA verification of the winners’ identity, eligibility, and participation in the Challenge.  Awards will be paid using electronic funds transfer and may be subject to federal income taxes.  EPA will comply with the International Revenue Service (IRS) withholding and reporting requirements, where applicable.</p>
-<p>A panel of state, tribal and EPA subject matter experts will judge video submissions.  EPA will make final determinations and award all prize winners.</p> 
+<p>A panel of state, tribal and EPA subject matter experts will judge video submissions. EPA will make final determinations and award all prize winners.</p> 
 <p><strong>Plagiarism: </strong>EPA has a no-tolerance policy for plagiarism. Any applicant whose winning work is determined to be plagiarized in whole or in part will forfeit any awards.</p>
 <p><strong>Assistance: </strong>Teachers and administrators at schools, or parents who homeschool, can  incorporate this challenge as part of their curriculum or incorporate it into an extramural activity. Teachers, administrators, or parents can guide students. Outside professional assistance is prohibited. Resources provided by EPA in the “Helpful Resources” section may be used.</p>
 <p>Students are responsible for all elements of the video including the research, writing, filming, graphics, and editing.</p>
 <p><strong>Waiver: </strong>By entering this challenge, participant agrees to assume any and all risks and waive claims against the Federal Government and its related entities (except in the case of willful misconduct), for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from their participation in the challenge, whether the injury, death, damage, or loss arises through negligence or otherwise.</p> 
-<p>Disclaimer:  EPA reserves the right to disqualify and or clarify any submittal.</p>
+<p>Disclaimer: EPA reserves the right to disqualify and or clarify any submittal.</p>
 
 <!-- Judging start -->
 ### Judging Criteria
