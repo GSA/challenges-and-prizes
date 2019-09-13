@@ -101,15 +101,14 @@ challenge-manager-email: dnpaopolicy@cdc.gov
 </li>
 <li>No cash prize will be awarded. The selected nomination will receive a plaque and recognition.</li>
 </ol>
-<p>&nbsp;</p>
-<p>Terms and Conditions</p>
+<p><strong>Terms and Conditions<strong/></p>
 <p>HHS/CDC reserves the right to cancel, suspend, or modify the REACH Lark Award, or any part of it, for any reason, at HHS/CDC's sole discretion.</p>
-<p>&nbsp;</p>
 <p>Applying for this award constitutes an applicants' full and unconditional agreement to abide by the Challenge's Official Rules.</p>
 
 <!-- Judging start -->
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 
 <!--  How To Enter start -->
