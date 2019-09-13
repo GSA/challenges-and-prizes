@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenge/see-a-bloom-give-it-room-high-school-video-challenge/
+permalink: /challenge/harmful-algal-bloom-video-challenge/
 challenge-id: 
 status: open
 sidenav: true
