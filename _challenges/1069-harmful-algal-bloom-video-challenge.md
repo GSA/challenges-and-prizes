@@ -30,7 +30,7 @@ challenge-manager-email: R7PublicAffairs@epa.gov
 ### Description
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
  
-<p>A harmful algal bloom is an overgrowth of algae in a water body that can affect water quality and aquatic life. Some blooms can produce toxins that may also harm people, animals, and the local environment. 
+<p>A harmful algal bloom is an overgrowth of algae in a water body that can affect water quality and aquatic life. Some blooms can produce toxins that may also harm people, animals, and the local environment.</p>
 <p><strong>We need high school students' help!</strong> Create a video, no more than two minutes in length, that teaches people how to spot harmful algal blooms and how to be safe around them. Videos should promote public awareness of harmful algal blooms to people who use the waters, such as swimmers, boaters, fishers, or people who bring pets or livestock to the waters.</p>
 <p>Entrants must be students in grades 9-12 residing in one of the following states or tribal lands in Environmental Protection Agency (EPA) Regions 7 and 8:</p>
 <ul>
@@ -41,7 +41,7 @@ challenge-manager-email: R7PublicAffairs@epa.gov
 <p>EPA will select a grand prize winner (individual or team) from each region who will each receive $4000 to be divided evenly among student participants.  A winner (individual or team) from each state and a winner from each region’s combined group of tribal nations will also be selected for a $2000 cash prize, each, to be divided evenly among the student participants.</p>  
 <p>In addition to cash prizes, winning videos will be posted on the EPA web page and announced on February 5th, 2020 during the EPA Harmful Algal Blooms Workshop in Kansas.</p>  
 <p>Videos will be judged on scientific accuracy, creativity, and quality.</p>
-<p><strong>Key dates :</strong>The Challenge begins on September 19, 2019.  All video entries must be submitted in digital format by midnight on January 3, 2020 MT.</p>
+<p><strong>Key dates :</strong>The Challenge begins on September 19, 2019. All video entries must be submitted in digital format by midnight on January 3, 2020 MT.</p>
 
 <!-- Prizes start -->
 ### Prizes
