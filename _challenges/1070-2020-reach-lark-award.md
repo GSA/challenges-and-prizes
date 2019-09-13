@@ -24,8 +24,6 @@ challenge-manager: Delia Sikes, wuy5@cdc.gov
 challenge-manager-email: dnpaopolicy@cdc.gov
 ---
 
-
-
 <!-- Description start -->
 ### Description
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
@@ -101,7 +99,7 @@ challenge-manager-email: dnpaopolicy@cdc.gov
 </li>
 <li>No cash prize will be awarded. The selected nomination will receive a plaque and recognition.</li>
 </ol>
-<p><strong>Terms and Conditions<strong/></p>
+<p><strong>Terms and Conditions</strong></p>
 <p>HHS/CDC reserves the right to cancel, suspend, or modify the REACH Lark Award, or any part of it, for any reason, at HHS/CDC's sole discretion.</p>
 <p>Applying for this award constitutes an applicants' full and unconditional agreement to abide by the Challenge's Official Rules.</p>
 
@@ -130,4 +128,4 @@ challenge-manager-email: dnpaopolicy@cdc.gov
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>To compete for this award, individuals and entities must submit an application form, which will be available in October 2019. Applying will require applicants to provide a free-text written statement of 500 words or less that describes the nominee's unique and innovative approach that led to reduced health disparities in chronic disease.</p>
-<p>If you have questions, send an email to the challenge manager using the information under <strong>Point of Contact<strong/>. Use the words "REACH Lark Award" in the subject line.</p>
+<p>If you have questions, send an email to the challenge manager using the information under <strong>Point of Contact</strong>. Use the words "REACH Lark Award" in the subject line.</p>
