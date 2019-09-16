@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenges/solar-district-cup/
 challenge-id: 1051
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/SDC-logo-393x187.png
 agency-logo: 256px-Seal_of_the_United_States_Department_of_Energy.png
