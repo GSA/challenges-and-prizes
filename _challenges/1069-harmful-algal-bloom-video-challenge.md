@@ -14,8 +14,8 @@ partners-non-federal: EPA Region 7 and 8 states, Regional Tribal Operations Comm
 external-url:
 total-prize-offered-cash: $32,000
 type-of-challenge: Creative (multimedia and design), scientific
-submission-start: 2019/09/19 12:00 p.m. MT
-submission-end: 2020/01/30 12:00 a.m. MT
+submission-start: 2019/09/19 11:00 a.m. ET
+submission-end: 2020/01/30 11 p.m. ET
 submission-link: 
 prizes: true
 fiscal-year: FY19, FY20
@@ -41,7 +41,7 @@ challenge-manager-email: R7PublicAffairs@epa.gov
 <p>EPA will select a grand prize winner (individual or team) from each region who will each receive $4000 to be divided evenly among student participants.  A winner (individual or team) from each state and a winner from each region’s combined group of tribal nations will also be selected for a $2000 cash prize, each, to be divided evenly among the student participants.</p>  
 <p>In addition to cash prizes, winning videos will be posted on the EPA web page and announced on February 5th, 2020 during the EPA Harmful Algal Blooms Workshop in Kansas.</p>  
 <p>Videos will be judged on scientific accuracy, creativity, and quality.</p>
-<p><strong>Key dates :</strong>The Challenge begins on September 19, 2019. All video entries must be submitted in digital format by midnight on January 3, 2020 MT.</p>
+<p><strong>Key dates :</strong>The Challenge begins on September 19, 2019. All video entries must be submitted in digital format by 11:00 p.m. ET on January 3, 2020.</p>
 
 <!-- Prizes start -->
 ### Prizes
@@ -101,7 +101,7 @@ challenge-manager-email: R7PublicAffairs@epa.gov
 <p><strong>Assistance: </strong>Teachers and administrators at schools, or parents who homeschool, can  incorporate this challenge as part of their curriculum or incorporate it into an extramural activity. Teachers, administrators, or parents can guide students. Outside professional assistance is prohibited. Resources provided by EPA in the “Helpful Resources” section may be used.</p>
 <p>Students are responsible for all elements of the video including the research, writing, filming, graphics, and editing.</p>
 <p><strong>Waiver: </strong>By entering this challenge, participant agrees to assume any and all risks and waive claims against the Federal Government and its related entities (except in the case of willful misconduct), for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from their participation in the challenge, whether the injury, death, damage, or loss arises through negligence or otherwise.</p> 
-<p>Disclaimer: EPA reserves the right to disqualify and or clarify any submittal.</p>
+<p><strong>Disclaimer: </strong>EPA reserves the right to disqualify and or clarify any submittal.</p>
 
 <!-- Judging start -->
 ### Judging Criteria
