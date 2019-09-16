@@ -12,7 +12,7 @@ agency: Environmental Protection Agency
 partner-agencies-federal: Environmental Protection Agency Regions 7 and 8
 partners-non-federal: EPA Region 7 and 8 states, Regional Tribal Operations Committees
 external-url:
-total-prize-offered-cash: $32000
+total-prize-offered-cash: $32,000
 type-of-challenge: Creative (multimedia and design), scientific
 submission-start: 2019/09/19 12:00 p.m. MT
 submission-end: 2020/01/30 12:00 a.m. MT
