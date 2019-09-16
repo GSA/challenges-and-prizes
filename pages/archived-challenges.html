@@ -38,7 +38,11 @@ title: Archived Challenges
                             {% endif %}
                         </span>
 
+                        {% if challenge.groupName %}
                         <p><span class="text-bold">Closed On:</span> {{ challenge.submission-end | date: "%d/%m/%Y "}} ET</p>
+                        {% else %}
+                        <p><span class="text-bold">Closed On:</span> {{ challenge.submission-end | date: "%m/%d/%Y "}} ET</p>
+                        {% endif %}
                     </div>
                      <div class="card__action card__action-block position-absolute"> <a href="{{ site.baseurl }}{{challenge.permalink}} " class="usa-button radius-0">View Details</a></div>
                 </div>
