@@ -15,34 +15,35 @@ title: Archived Challenges
         <div class="grid-row">
                 {% assign sorted = (site.historical-challenges | sort: 'submission-end') %}
                 {% for challenge in sorted %}
-                {% if challenge.groupName %}
+
                 {% if challenge.submission-end contains 2019 %}
         <div class="tablet:grid-col-6 cards">
                 <div class="card position-relative" style="min-height: 180px;">
                     <div class="padding-x-1">
                             <div style="float: left; padding: .7rem">{% include agency-logos.html %}</div>
-                        <h3 class="text-primary-dark text-bold text-uppercase margin-y-1 text-ls-1">{{ challenge.name }}</h3>
-                        <span class="text-gray-50 padding-top-1">{{ challenge.groupName }}</span>
-                        <p><span class="text-bold">Closed On:</span> {{ challenge.submission-end }} ET</p>
+                        <h3 class="text-primary-dark text-bold text-uppercase margin-y-1 text-ls-1">
+                            {% if challenge.name %}
+                            {{ challenge.name }}
+                            {% else %}
+                            {{ challenge.challenge-title }}
+                            {% endif %}
+                        </h3>
+
+                  
+                        <span class="text-gray-50 padding-top-1">
+                            {% if challenge.groupName %}
+                            {{ challenge.groupName }}
+                            {% else %}
+                            {{ challenge.agency }}
+                            {% endif %}
+                        </span>
+
+                        <p><span class="text-bold">Closed On:</span> {{ challenge.submission-end | date: "%d/%m/%Y "}} ET</p>
                     </div>
                      <div class="card__action card__action-block position-absolute"> <a href="{{ site.baseurl }}{{challenge.permalink}} " class="usa-button radius-0">View Details</a></div>
                 </div>
         </div>
-                {% endif %}
-                {% else %}
-                {% if challenge.submission-end contains 2019 %}
-        <div class="tablet:grid-col-6 cards">
-                <div class="card position-relative" style="min-height: 180px;">
-                    <div class="padding-x-1">
-                            <div style="float: left; padding: .7rem">{% include agency-logos.html %}</div>
-                        <h3 class="text-primary-dark text-bold text-uppercase margin-y-1 text-ls-1">{{ challenge.challenge-title }}</h3>
-                        <span class="text-gray-50 padding-top-1">{{ challenge.agency }}</span>
-                        <p><span class="text-bold">Closed On:</span> {{ challenge.submission-end }} ET</p>
-                    </div>
-                     <div class="card__action card__action-block position-absolute"> <a href="{{ site.baseurl }}{{challenge.permalink}} " class="usa-button radius-0">View Details</a></div>
-                </div>
-        </div>
-                {% endif %}
+               
                 {% endif %}
                 {% endfor %}
                
