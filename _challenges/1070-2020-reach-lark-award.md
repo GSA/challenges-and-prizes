@@ -42,7 +42,7 @@ challenge-manager-email: dnpaopolicy@cdc.gov
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p>A maximum of one applicant (individual or team) will receive a winner's plaque winner. The winner may be invited to meetings by CDC or nonfederal individuals or organizations from outside the agency. Attendance at such events is not required as a condition of accepting the prize. No cash prize will be awarded.</p>
+<p>A maximum of one applicant (individual or team) will receive a winner's plaque. The winner may be invited to meetings by CDC or nonfederal individuals or organizations from outside the agency. Attendance at such events is not required as a condition of accepting the prize. No cash prize will be awarded.</p>
 
 <!-- Rules start -->
 ### Rules 
@@ -55,7 +55,7 @@ challenge-manager-email: dnpaopolicy@cdc.gov
 <li>Comply with all the requirements under this section and satisfy one of the following requirements:
 <ol style="list-style-type: lower-alpha;">
 <li>Be a currently- or previously-funded CDC REACH recipient that has not previously received the REACH Lark Award in any year.</li>
-<li>Be a technical assistance provider to past or current REACH recipients. Learn about our REACH recipients.</li>
+<li>Be a technical assistance provider to past or current REACH recipients. <p><a href="https://www.cdc.gov/nccdphp/dnpao/state-local-programs/reach/current_programs/recipients.html" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://www.cdc.gov/nccdphp/dnpao/state-local-programs/reach/current_programs/recipients.html&amp;source=gmail&amp;ust=1568719068597000&amp;usg=AFQjCNGNjethaWiKUfncCtnh02RLH0l0RQ">Learn about our REACH recipients.</a></p>.</li>
 <li>Be a partner organization, part of a partner network, or coalition members that collaborated with current or previously funded REACH recipients.</li>
 </ol>
 </li>
