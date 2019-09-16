@@ -14,8 +14,8 @@ partners-non-federal: Common Pool
 external-url:
 total-prize-offered-cash:
 type-of-challenge: Scientific
-submission-start: 19/9/17 06:00 PM 
-submission-end: 20/11/30 06:00 PM 
+submission-start: 2019/9/17 06:00 PM 
+submission-end: 2020/11/30 06:00 PM 
 submission-link:  
 prizes: true
 fiscal-year: FY20
