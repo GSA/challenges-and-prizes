@@ -41,7 +41,7 @@ challenge-manager-email: R7PublicAffairs@epa.gov
 <p>EPA will select a grand prize winner (individual or team) from each region who will each receive $4000 to be divided evenly among student participants.  A winner (individual or team) from each state and a winner from each region’s combined group of tribal nations will also be selected for a $2000 cash prize, each, to be divided evenly among the student participants.</p>  
 <p>In addition to cash prizes, winning videos will be posted on the EPA web page and announced on February 5th, 2020 during the EPA Harmful Algal Blooms Workshop in Kansas.</p>  
 <p>Videos will be judged on scientific accuracy, creativity, and quality.</p>
-<p><strong>Key dates :</strong>The Challenge begins on September 19, 2019. All video entries must be submitted in digital format by 11:00 p.m. ET on January 3, 2020.</p>
+<p><strong>Key dates: </strong>The Challenge begins on September 19, 2019. All video entries must be submitted in digital format by 11:00 p.m. ET on January 3, 2020.</p>
 
 <!-- Prizes start -->
 ### Prizes
