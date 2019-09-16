@@ -77,7 +77,7 @@ challenge-manager-email: dnpaopolicy@cdc.gov
 </ol>
 <p><strong>Rules</strong></p>
 <ol>
-<li>Applicants submit an application, describing how they assisted with or successfully carried out culturally tailored interventions that ultimately led to reduced health disparities in chronic conditions including hypertension, heart disease, type 2 diabetes, or obesity and associated risk behaviors of physical inactivity, poor nutrition, or smoking.</li>
+<li>Applicants submit an application describing how they assisted with or successfully carried out culturally tailored interventions that ultimately led to reduced health disparities in chronic conditions including hypertension, heart disease, type 2 diabetes, or obesity and associated risk behaviors of physical inactivity, poor nutrition, or smoking.</li>
 <li>This award highlights how diverse communities worked together to address health disparities and achieve one of the following:
 <ol style="list-style-type: lower-alpha;">
 <li>Addressed preventable risk behaviors (tobacco use, poor nutrition and physical inactivity).</li>
@@ -110,7 +110,7 @@ challenge-manager-email: dnpaopolicy@cdc.gov
 <p><strong>Judging Panel</strong></p>
 <p>CDC will select judges based on their knowledge of the REACH program, the science and practice of improving health equity, and the elimination of health disparities at the national, state, or local levels. Judges may include REACH program senior advisors, other CDC employees, or nonfederal individuals from outside the agency that are national experts</p>
 <p><strong>Judging Criteria</strong></p>
-<p>CDC- or nonfederal individuals from outside the agency will facilitate a panel of three to five experts consisting of CDC staff and other national experts to review the applications and select a winning entry from all eligible entries based on the following judging criteria:</p>
+<p>CDC or nonfederal individuals from outside the agency will facilitate a panel of three to five experts consisting of CDC staff and other national experts to review the applications and select a winning entry from all eligible entries based on the following judging criteria:</p>
 <ul>
 <li>The extent to which the applicant's work shows alignment with CDC Office of Minority Health and Health Equity (OMHHE) health equity goals to decrease health disparities, address social determinants of health, and promote access to high quality preventive health care. (20 points)</li>
 <li>The extent to which the applicant's work addressed health issues, including hypertension, heart disease, type 2 diabetes, or obesity and addressed the following preventable risk behaviors: tobacco use, poor nutrition, or physical inactivity. (20 points)</li>
