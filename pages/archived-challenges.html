@@ -20,7 +20,8 @@ title: Archived Challenges
         <div class="tablet:grid-col-6 cards">
                 <div class="card position-relative" style="min-height: 180px;">
                     <div class="padding-x-1">
-                            <div style="float: left; padding: .7rem">{% include agency-logos.html %}</div>
+                        <div style="float: left; padding: .7rem; min-height: -webkit-fill-available;">{% include agency-logos.html %}</div>
+                        <div>
                         <h3 class="text-primary-dark text-bold text-uppercase margin-y-1 text-ls-1">
                             {% if challenge.name %}
                             {{ challenge.name }}
@@ -40,7 +41,7 @@ title: Archived Challenges
 
  
                         <p><span class="text-bold">Closed On:</span> {{ challenge.submission-end }}</p>
-          
+                    </div>
                     </div>
                      <div class="card__action card__action-block position-absolute"> <a href="{{ site.baseurl }}{{challenge.permalink}} " class="usa-button radius-0">View Details</a></div>
                 </div>
