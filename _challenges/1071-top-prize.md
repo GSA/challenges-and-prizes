@@ -36,7 +36,6 @@ challenge-manager-email: TOPprize@census.gov
 <li>November 1: Submissions Due</li>
 <li>December: Prize winners announced</li>
 </ul>
-
 <h3>Background</h3>
 <p><a href="https://opportunity.census.gov" target="_blank" rel="noopener">The Opportunity Project (TOP)</a>, a program run by the Census Open Innovation Labs (COIL) at the U.S. Census Bureau, brings together government, communities, and the technology industry to create digital tools that address our nation’s greatest challenges with open data. Through 12-week sprints, TOP challenges technologists outside of government – companies, non-profits, and universities – to create digital tools with Census and other federal open data to expand American economic opportunity.</p>
 <p>TOP works with experts from the Census Bureau and other federal agencies to identify high-priority challenges facing the public, and then engages experts from the private and nonprofit sectors through technology development sprints. Each 12-week sprint results in new data-driven tools that directly serve families, local leaders, and businesses. This process helps to empower people with technology, make government data more accessible and user-friendly, and facilitate cross-sector collaboration to build new digital solutions with open data. </p>
@@ -61,6 +60,7 @@ challenge-manager-email: TOPprize@census.gov
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<p>This is a single-phase prize competition in which five (5) prizes will be awarded, totaling $100,000. One $20,000 prize will be awarded in each of the following five (5) categories: 1) 2020 Census: Reaching Hard-to-Count Communities, 2) Revolutionizing the Workforce, 3) Building Thriving Communities, 4) Creating Resilient People and Places, 5) Creating the Future of Health. Each of these categories is described in more detail in the above “Challenge Goals & Categories” section. </p>
 
 <!-- Rules start -->
 ### Rules 
@@ -82,7 +82,7 @@ challenge-manager-email: TOPprize@census.gov
 <li>Must have registered to participate in the Challenge under the rules promulgated by the Census Bureau.</li>
 <li>Must have complied with all the stated requirements of The Opportunity Project Prize Challenge.</li>
 <li>May not be a Federal entity or Federal employee acting within the scope of their employment.</li> 
-<li>May not be an employee of the Census Bureau.
+  <li>May not be an employee of the Census Bureau.</li>
 <li>Federal grantees may not use Federal funds to develop COMPETES Act Challenge applications unless consistent with the purpose of their grant award.</li>
 <li>Federal contractors may not use Federal funds from a contract to develop COMPETES Act Challenge applications or to fund efforts in support of a COMPETES Act Challenge Submission.</li>
 <li>A product may be disqualified if it fails to function as expressed in the description provided by the participant, or if it provides inaccurate or incomplete information.</li>
@@ -104,7 +104,7 @@ challenge-manager-email: TOPprize@census.gov
 <ol type="a">
   <li><strong>Product Name </strong></li> 
 <li><strong>Product Access link:</strong> Teams must provide a web link to the working product they are submitting. If the solution is web-based, provide a URL and any other access instructions. For example, if a login is required, demo accounts with password should be provided which will enable judges to access all parts of the product. If there are different interfaces (i.e., a separate interface for patient and a different interface for a provider [e.g., physician]) separate logins should be provided. If the solution is a smartphone or tablet-based app, identify a web location to download the application. The product should not be submitted via desktop software that requires installation (i.e.; do not attach an executable software installer as your submission). A submitted digital product must run on at least one of the following: Smartphone, tablet, web or mobile web, desktop computer. </li>
-<li><strong>Product Overview:</strong A one-sentence overview of the product that must be in the following specific format: [Product name] uses [federal open data sets] to [solve XX problem] for [end users]. Please do not diverge from this format for the purposes of this section of the application; there are numerous other places to provide open ended descriptions of your product.</li>
+  <li><strong>Product Overview:</strong> A one-sentence overview of the product that must be in the following specific format: [Product name] uses [federal open data sets] to [solve XX problem] for [end users]. Please do not diverge from this format for the purposes of this section of the application; there are numerous other places to provide open ended descriptions of your product.</li>
 <li><strong>In which category (or at most 2 categories) are you applying? </strong></li>
 <ul>
 <li>2020 Census: Reaching Hard-to-Count Communities</li> 
@@ -146,7 +146,7 @@ challenge-manager-email: TOPprize@census.gov
 <ol type="1">
 <li>Agree to assume any and all risks and waive claims against the federal government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from their participation in this prize contest, whether the injury, death, damage, or loss arises through negligence or otherwise.</li>
 <li>Agree to obtain liability insurance, or demonstrate financial responsibility, in the amount of $500,000, for claims by (a) a third party for death, bodily injury, or property damage, or loss resulting from an activity carried out in connection with participation in a challenge, with the Census Bureau named as an additional insured under the registered participant’s insurance policy, and (b) the Federal Government for damage or loss to Government property resulting from such activity.</li>
-<li>Agree to indemnify the Federal Government against third party claims for damages arising from or related to Challenge activities.
+<li>Agree to indemnify the Federal Government against third party claims for damages arising from or related to Challenge activities.</li>
 <li>May not be a judge of the challenge, or any other party involved with the design, production, execution, or distribution of the Challenge or the immediate family of such a party (i.e., spouse, parent, step-parent, child, or step-child). </li>
 <li>Applicants must understand that it is their sole responsibility to review and understand their employers’ policies regarding eligibility to participate in this prize challenge. If applicants are participating in violation of employee policies, they may be disqualified from entering and/or receiving prizes. The Census Bureau disclaims any and all liability or responsibility for disputes arising between an employee and their employer related to the competition, and prizes will only be awarded in compliance with the employer's policies.</li>
   </ol>
