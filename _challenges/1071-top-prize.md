@@ -30,7 +30,7 @@ challenge-manager-email: TOPprize@census.gov
 ### Description
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<h3>>Key Dates:</h3>
+<h3>Key Dates:</h3>
 <ul>
 <li>September 23: Submissions Open</li>
 <li>November 1: Submissions Due</li>
@@ -205,4 +205,4 @@ challenge-manager-email: TOPprize@census.gov
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>Each team or individual wishing to participate in this challenge competition can apply by submitting an application package by email to TOPprize@census.gov, by 11:59pm ET on November 1, 2019. Application materials received after this time will not be evaluated.  Submissions can be modified until 11:59 p.m. ET on November 1, 2019. Please note that the latest application package sent will be the only one evaluated. Any questions about this prize challenge can be directed to <a href="mailto:TOPprize@census.gov" target="_blank" rel="noopener">TOPprize@census.gov</a>.</p>
-<p>Submission Email: <a href="mailto:TOPprize@census.gov" target="_blank" rel="noopener">TOPprize@census.gov</a>.</p> 
+<p><strong>Submission Email: </strong><a href="mailto:TOPprize@census.gov" target="_blank" rel="noopener">TOPprize@census.gov</a>.</p> 
