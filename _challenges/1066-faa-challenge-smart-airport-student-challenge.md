@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/FAA-Challenge-Smart-Airport-Student-Competition/
-challenge-id: 
+challenge-id: 1066
 status: open
 sidenav: true
 card-image: /assets/images/cards/FAA_logo.jpg
