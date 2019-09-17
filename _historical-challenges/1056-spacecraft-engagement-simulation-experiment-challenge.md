@@ -14,8 +14,8 @@ partners-non-federal: MGMWERX
 external-url:
 total-prize-offered-cash: 
 type-of-challenge:  Software and apps; Ideas; Analytics, visualizations and algorithms; Scientific
-submission-start: 2018/12/07
-submission-end: 2019/01/05 12:59 AM
+submission-start: 12/07/2018
+submission-end: 01/05/2019 12:59 AM
 submission-link:  
 prizes: false
 fiscal-year: FY19
