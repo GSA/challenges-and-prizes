@@ -4,8 +4,8 @@ permalink: /challenge/opportunity-project-prize/
 challenge-id: 1071
 status: open
 sidenav: true
-card-image: /assets/images/cards/TOP-Prize-Challenge-Logo-sized.jpg
-agency-logo: 
+card-image: /assets/images/cards/TOP-Prize-logo-large.png
+agency-logo: US-Census-Bureau-logo.png
 challenge-title: The Opportunity Project Prize Challenge
 tagline: Creating digital tools for the public with federal open data
 agency: U.S. Census Bureau
