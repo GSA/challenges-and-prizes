@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/mux-mission-system-data-relay-payload-prize-challenge/
 challenge-id: 1039
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/MUX_logo_resize.jpg
 agency-logo: dod_seal.jpg
