@@ -14,8 +14,8 @@ partners-non-federal:
 external-url: https://www.freelancer.com/contest/NASA-Contest-Storyboard-for-Six-Animations-for-NASA-Human-Research-Program-HRP-EDT-1535340
 total-prize-offered-cash: $500
 type-of-challenge: Creative
-submission-start: 7/15/2019 8:00 a.m. ET
-submission-end: 08/09/2019 8:00 a.m. ET
+submission-start: 7/15/2019 8:00 AM
+submission-end: 08/09/2019 8:00 AM 
 submission-link: https://www.freelancer.com/contest/NASA-Contest-Storyboard-for-Six-Animations-for-NASA-Human-Research-Program-HRP-EDT-1535340
 prizes: true
 fiscal-year: FY19

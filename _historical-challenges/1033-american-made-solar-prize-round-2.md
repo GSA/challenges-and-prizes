@@ -15,7 +15,7 @@ external-url: https://americanmadechallenges.org/solarprize/round2
 total-prize-offered-cash: $3,000,000
 type-of-challenge: 
 submission-start: 03/22/2019
-submission-end: 07/16/2019 2 p.m. ET
+submission-end: 07/16/2019 2:00 PM
 submission-link:  
 prizes: true
 ---
