@@ -92,7 +92,7 @@ challenge-manager-email: TOPprize@census.gov
 </ol>
 <h3>Submission Requirements</h3>
 <p><strong>What to Submit:</strong></p>
-<p>Applications for this prize challenge have four (4) required parts and one (1) optional part. To enter this challenge, participants should submit all of the information described below by the <strong>deadline, November 1, 2019 at 11:59 p.m. ET</strong>. /p>
+<p>Applications for this prize challenge have four (4) required parts and one (1) optional part. To enter this challenge, participants should submit all of the information described below by the <strong>deadline, November 1, 2019 at 11:59 p.m. ET</strong>.</p>
 <p>Please include Parts 1-3 (i.e., Team Information, Product Information, and Narrative) in a single document. If any responses are missing your application will be considered incomplete. Please include Part 4, and if applicable Part 5, in separate documents. Submit all components of the application package together by email as described in the “How to enter” section.</p> <p><Strong>PART 1: Team information</strong></p>
 <ol type="a">
 <li>List the organizations and individuals that contributed to the tech team that built this product. For each individual, please provide name, organization (if applicable), and role in developing the product.</li> 
@@ -128,7 +128,7 @@ challenge-manager-email: TOPprize@census.gov
   <p>Teams have the option to submit an up to 4-minute video or webinar recording that demonstrates the product’s functionality. In place of a video, teams may also submit images or screenshots of the product in a PPT or PDF document of five (5) slides or fewer. <strong>Submissions exceeding the allowed length may not be reviewed. </strong></p>
   <p>Additional submission guidelines and requirements:</p> 
 <ul>
-  <li><strong>Applications must be written in English<, follow all page limits and document specifications</strong> (for the required narrative, this must be single spaced, minimum 11-point font, 1” margins, page dimensions of 8.5 x 11 inches, submitted as a .doc/.docx or .pdf file). </li> 
+  <li><strong>Applications must be written in English, follow all page limits and document specifications</strong> (for the required narrative, this must be single spaced, minimum 11-point font, 1” margins, page dimensions of 8.5 x 11 inches, submitted as a .doc/.docx or .pdf file). </li> 
   <li><strong>Any material that does not follow instructions may not be considered. </strong></li> 
 <li>Each product should be submitted in at least one (1) and no more than two (2) categories.</li> 
 <li>Applicants must submit a working, interactive application/digital product that uses open government data to address one or more of the challenges in the categories above.</li> 
