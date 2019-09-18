@@ -14,8 +14,8 @@ partners-non-federal: EPA Region 7 and 8 states, Regional Tribal Operations Comm
 external-url:
 total-prize-offered-cash: $32,000
 type-of-challenge: Creative (multimedia and design), scientific
-submission-start: 2019/09/19 11:00 a.m. ET
-submission-end: 2020/01/30 11 p.m. ET
+submission-start: 2019/09/19 11:00 AM
+submission-end: 2020/01/30 11:00 PM
 submission-link: 
 prizes: true
 fiscal-year: FY19, FY20
