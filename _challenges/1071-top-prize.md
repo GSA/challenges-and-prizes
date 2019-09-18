@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenge/the-opportunity-project-prize-challenge/
+permalink: /challenge/opportunity-project-prize/
 challenge-id: 1071
 status: open
 sidenav: true
@@ -13,7 +13,7 @@ partner-agencies-federal:
 partners-non-federal: 
 external-url:
 total-prize-offered-cash: $100,000
-type-of-challenge: 
+type-of-challenge: Software and apps, creative (multimedia and design)
 submission-start: 2019/09/23 09:00 a.m. ET
 submission-end: 2019/11/01 11:59 p.m. ET
 submission-link:  
