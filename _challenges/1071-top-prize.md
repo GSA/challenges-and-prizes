@@ -47,11 +47,11 @@ challenge-manager-email: TOPprize@census.gov
 <p>The Opportunity Project Prize Challenge is a new opportunity for teams who have participated in The Opportunity Project to compete for funding to expand their impact, deploy tools to end users, and begin to or continue to deliver impact on critical problems facing the public.</p>
 <p>Because the challenges tackled in The Opportunity Project to date are so broad, COIL has identified five categories that capture a range of critical problems, described below. Teams applying for the prize must submit their product in at least one category, and can submit in up to 2 categories. </p>
 <ol>
-<li>2020 Census: Reaching Hard-to-Count Communities: e.g., products focusing on challenges such as increasing response rates in hard-to-count communities, bridging the digital divide, promoting online self-response through digital literacy, and promoting 2020 Census jobs; </li>
-<li>Revolutionizing the Workforce: e.g., products focusing on challenges such as employment, training, education, supporting entrepreneurship, creating multiple pathways for careers, and developing regional talent pipelines for high growth development; </li>
-<li>Building Thriving Communities: e.g., products focusing on challenges such as affordable housing, transportation information and infrastructure, public safety, investment in communities, and community infrastructure development;  </li>
-<li>Creating Resilient People and Places:  e.g., products focusing on challenges such as disaster preparedness and response, environmental stewardship, and local address databases to support first responders and other community needs; </li>
-<li>Creating the Future of Health: e.g., products focusing on challenges such as the opioid crisis, connecting patients with clinical trials, public health and disease prevention, emotional wellbeing, and tick borne diseases. </li>  
+<li><strong>2020 Census: Reaching Hard-to-Count Communities</strong>: e.g., products focusing on challenges such as increasing response rates in hard-to-count communities, bridging the digital divide, promoting online self-response through digital literacy, and promoting 2020 Census jobs; </li>
+<li><strong>Revolutionizing the Workforce: </strong>e.g., products focusing on challenges such as employment, training, education, supporting entrepreneurship, creating multiple pathways for careers, and developing regional talent pipelines for high growth development; </li>
+<li><strong>Building Thriving Communities: </strong>e.g., products focusing on challenges such as affordable housing, transportation information and infrastructure, public safety, investment in communities, and community infrastructure development;  </li>
+<li><strong>Creating Resilient People and Places: e.g., products focusing on challenges such as disaster preparedness and response, environmental stewardship, and local address databases to support first responders and other community needs; </li>
+  <li><strong>Creating the Future of Health: </strong>e.g., products focusing on challenges such as the opioid crisis, connecting patients with clinical trials, public health and disease prevention, emotional wellbeing, and tick borne diseases. </li>  
 </ol>
 <p>**If you missed the May 21 Informational Webinar on The Opportunity Project Prize Challenge, you can view the recording at <a href="https://www.uberconference.com/getmp3/AMIfv95Ryev7gx3KRzgJRi2_Ga3R1PhHVB4_foRTTZ-UxzP1MQdrmxvbBo2CrxOYkkg_nt8t8UPfxxHHlKBC5xZYKF6LxgdrE09G0uvwf6zY0bHpK0TZYYPOIW161HG7JCB24zW2xwWNxc2Vob87dlXTUE0xK5B9_A.mp3" target="_blank" rel="noopener">this link</a>.** </p>
 
@@ -93,8 +93,8 @@ challenge-manager-email: TOPprize@census.gov
 </ol>
 <h3>Submission Requirements</h3>
 <p><strong>What to Submit:</strong></p>
-<p>Applications for this prize challenge have four (4) required parts and one (1) optional part. To enter this challenge, participants should submit all of the information described below by the <strong>deadline, November 1, 2019 at 11:59 p.m. ET</strong>. </p>
-<p>Please include Parts 1-3 (Team Information, Product Information, and Narrative) in a single document. If any responses are missing your application will be considered incomplete. Please include Part 4, and if applicable Part 5, in separate documents. Submit all components of the application package together by email as described in the “How to enter” section.</p> <p><Strong>PART 1: Team information</strong></p>
+<p>Applications for this prize challenge have four (4) required parts and one (1) optional part. To enter this challenge, participants should submit all of the information described below by the <strong>deadline, November 1, 2019 at 11:59 p.m. ET</strong>. /p>
+<p>Please include Parts 1-3 (i.e., Team Information, Product Information, and Narrative) in a single document. If any responses are missing your application will be considered incomplete. Please include Part 4, and if applicable Part 5, in separate documents. Submit all components of the application package together by email as described in the “How to enter” section.</p> <p><Strong>PART 1: Team information</strong></p>
 <ol type="a">
 <li>List the organizations and individuals that contributed to the tech team that built this product. For each individual, please provide name, organization (if applicable), and role in developing the product.</li> 
 <li>Name one company, organization or individual as the lead organization who will receive the prize funds if awarded. </li>
@@ -103,7 +103,7 @@ challenge-manager-email: TOPprize@census.gov
 <p><strong>PART 2: Product Information</strong></p>
 <ol type="a">
   <li><strong>Product Name </strong></li> 
-<li><strong>Product Access link:</strong> Teams must provide a web link to the working product they are submitting. If the solution is web-based, provide a URL and any other access instructions. For example, if a login is required, demo accounts with password should be provided which will enable judges to access all parts of the product. If there are different interfaces (i.e., a separate interface for patient and a different interface for a provider [e.g., physician]) separate logins should be provided. If the solution is a smartphone or tablet-based app, identify a web location to download the application. The product should not be submitted via desktop software that requires installation (i.e.; do not attach an executable software installer as your submission). A submitted digital product must run on at least one of the following: Smartphone, tablet, web or mobile web, desktop computer. </li>
+  <li><strong>Product Access link:</strong> Teams must provide a <strong>web link</strong> to the working product they are submitting. If the solution is web-based, provide a URL and any other access instructions. For example, if a login is required, demo accounts with password should be provided which will enable judges to access all parts of the product. If there are different interfaces (i.e., a separate interface for patient and a different interface for a provider [e.g., physician]) separate logins should be provided. If the solution is a smartphone or tablet-based app, identify a web location to download the application. The product should not be submitted via desktop software that requires installation (i.e.; do not attach an executable software installer as your submission). A submitted digital product must run on at least one of the following: Smartphone, tablet, web or mobile web, desktop computer. </li>
   <li><strong>Product Overview:</strong> A one-sentence overview of the product that must be in the following specific format: [Product name] uses [federal open data sets] to [solve XX problem] for [end users]. Please do not diverge from this format for the purposes of this section of the application; there are numerous other places to provide open ended descriptions of your product.</li>
 <li><strong>In which category (or at most 2 categories) are you applying? </strong></li>
 <ul>
@@ -126,18 +126,18 @@ challenge-manager-email: TOPprize@census.gov
 <p><strong>PART 4: Collaborator letters of support</strong></p>
 <p>Teams must submit at least one (1) and up to three (3) letters of support from collaborators on this project who represent user advocates and/or implementation partners. This can include community-based organizations, state or local governments, national advocacy organizations, unions, direct end users, non-profits, foundations, or other representatives of the target end user. Each signed letter should indicate how this partner collaborated or will collaborate with the applicant on the specified product, should include the collaborators’ contact information (email and/or phone), and must be <strong>no longer than one page</strong> (minimum 11 point standard font, submitted as a <strong>.docx</strong> or <strong>PDF document</strong>).</p>
   <p><strong>PART 5: (Optional) Multimedia supporting documentation </strong></p>
-  <p>Teams have the option to submit an up to 4-minute video or webinar recording that demonstrates the product’s functionality. In place of a video, teams may also submit images or screenshots of the product in a PPT or PDF document of five (5) slides or fewer. Submissions exceeding the allowed length may not be reviewed. </p>
+  <p>Teams have the option to submit an up to 4-minute video or webinar recording that demonstrates the product’s functionality. In place of a video, teams may also submit images or screenshots of the product in a PPT or PDF document of five (5) slides or fewer. <strong>Submissions exceeding the allowed length may not be reviewed. </strong></p>
   <p>Additional submission guidelines and requirements:</p> 
 <ul>
-<li>Applications must be written in English, follow all page limits and document specifications (for the required narrative, this must be single spaced, minimum 11-point font, 1” margins, page dimensions of 8.5 x 11 inches, submitted as a .doc/.docx or .pdf file). </li> 
-<li>Any material that does not follow instructions may not be considered. </li> 
+  <li><strong>Applications must be written in English<, follow all page limits and document specifications</strong> (for the required narrative, this must be single spaced, minimum 11-point font, 1” margins, page dimensions of 8.5 x 11 inches, submitted as a .doc/.docx or .pdf file). </li> 
+  <li><strong>Any material that does not follow instructions may not be considered. </strong></li> 
 <li>Each product should be submitted in at least one (1) and no more than two (2) categories.</li> 
 <li>Applicants must submit a working, interactive application/digital product that uses open government data to address one or more of the challenges in the categories above.</li> 
 <ul>
 <li>Working indicates that the intended features of the product have been created and are currently usable. For example, a clickable prototype that illustrates future functionality, but does not yet provide it to the user, cannot be considered.</li> 
 <li>The product must include interactive functionality for the end user to access and/or use the open data.</li> 
 <li>The product must be capable of being successfully installed and running consistently on the platform for which it is intended, and must function as depicted or expressed in the text description.</li> 
-<li>A submitted digital product must run on at least one of the following: Smartphone, tablet, web or mobile web, desktop computer.</li>  
+<li><strong>A submitted digital product must run on at least one of the following: Smartphone, tablet, web or mobile web, desktop computer.</strong></li>  
 </ul>
 <li>Teams applying for the challenge who have participated in The Opportunity Project more than one time may submit multiple products.</li> 
 </ul>
@@ -204,5 +204,5 @@ challenge-manager-email: TOPprize@census.gov
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p>Each team or individual wishing to participate in this challenge competition can apply by submitting an application package by email to TOPprize@census.gov, by 11:59pm ET on November 1, 2019. Application materials received after this time will not be evaluated.  Submissions can be modified until 11:59 p.m. ET on November 1, 2019. Please note that the latest application package sent will be the only one evaluated. Any questions about this prize challenge can be directed to <a href="mailto:TOPprize@census.gov" target="_blank" rel="noopener">TOPprize@census.gov</a>.</p>
+<p>Each team or individual wishing to participate in this challenge competition can apply by submitting an application package <strong>by email to <a href="mailto:TOPprize@census.gov" target="_blank" rel="noopener">TOPprize@census.gov</a></strong>, by 11:59 p.mn. ET on November 1, 2019. Application materials received after this time will not be evaluated. Submissions can be modified until 11:59 p.m. ET on November 1, 2019. Please note that the latest application package sent will be the only one evaluated. Any questions about this prize challenge can be directed to <a href="mailto:TOPprize@census.gov" target="_blank" rel="noopener">TOPprize@census.gov</a>.</p>
 <p><strong>Submission Email: </strong><a href="mailto:TOPprize@census.gov" target="_blank" rel="noopener">TOPprize@census.gov</a>.</p> 
