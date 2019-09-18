@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $50,000
 type-of-challenge: Technology demonstration and hardware
-submission-start: 2018/05/01 12:00 PM
-submission-end: 2018/08/02 05:00 PM
+submission-start: 05/01/2018 12:00 PM
+submission-end: 08/02/2018 05:00 PM
 submission-link: https://www.herox.com/UnlinkableDataChallenge
 prizes: true
 fiscal-year: FY19

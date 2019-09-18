@@ -14,8 +14,8 @@ partners-non-federal: State of Colorado Dam Safety
 external-url:
 total-prize-offered-cash: $20,000
 type-of-challenge: Ideas
-submission-start: 2016/03/31 12:00 AM
-submission-end: 2016/05/10 12:00 AM
+submission-start: 03/31/2016 12:00 AM
+submission-end: 05/10/2016 12:00 AM
 submission-link: https://www.innocentive.com/ar/challenge/9933649
 prizes: true
 fiscal-year: FY16

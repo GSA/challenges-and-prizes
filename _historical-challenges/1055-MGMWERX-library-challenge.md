@@ -14,8 +14,8 @@ partners-non-federal: MGMWERX
 external-url:
 total-prize-offered-cash: 
 type-of-challenge: Software and apps; Creative; Ideas; Analytics, visualizations and algorithms
-submission-start: 2019/07/02 12:00 PM 
-submission-end: 2019/08/05 12:59 AM
+submission-start: 07/02/2019 12:00 PM 
+submission-end: 08/05/2019  12:59 AM
 submission-link: https://mgmwerx.org/mgmwerx-challenge/library-challenge/
 prizes: false
 Legal Authority: America COMPETES Act

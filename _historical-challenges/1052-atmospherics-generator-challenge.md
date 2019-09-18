@@ -14,8 +14,8 @@ partners-non-federal: MGMWERX
 external-url:
 total-prize-offered-cash: 
 type-of-challenge: Software and apps; Ideas; Analytics, visualizations and algorithms; Scientific
-submission-start: 2019/06/25 12:00 PM 
-submission-end: 2019/07/31 12:59 AM
+submission-start: 06/25/2019 12:00 PM 
+submission-end: 07/31/2019 12:59 AM
 submission-link: https://mgmwerx.org/mgmwerx-challenge/atmospherics-generator-challenge/
 prizes: false
 Legal Authority: America COMPETES Act

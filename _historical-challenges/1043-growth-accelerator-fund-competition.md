@@ -14,8 +14,8 @@ partners-non-federal:
 external-url: 
 total-prize-offered-cash: $3,000,000
 type-of-challenge: Business Plans
-submission-start: 2019/06/10 12:00 PM
-submission-end: 2019/06/20 04:59 PM
+submission-start: 06/10/2019 12:00 PM
+submission-end: 06/20/2019 04:59 PM
 submission-link:  https://www.sbir.gov/accelerators
 prizes: true
 fiscal-year: FY19

@@ -14,8 +14,8 @@ partners-non-federal:
 external-url: https://www.freelancer.com/contest/NASA-Contest-Design-the-Advanced-Exploration-Systems-AES-Modular-Power-System-Graphic-1528395
 total-prize-offered-cash:
 type-of-challenge:  Creative
-submission-start: 2019/07/01 08:00 AM
-submission-end: 2019/07/22 08:00 PM
+submission-start: 07/01/2019 08:00 AM
+submission-end: 07/22/2019 08:00 PM
 submission-link: 
 prizes: false
 Legal Authority: America COMPETES Act

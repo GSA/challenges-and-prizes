@@ -14,8 +14,8 @@ partners-non-federal: San Diego County Water Authority, Southern Nevada Water Au
 external-url:
 total-prize-offered-cash: $75,000
 type-of-challenge: Scientific
-submission-start: 2018/03/08 12:00 AM
-submission-end: 2018/05/07 12:00 AM
+submission-start: 03/08/2018 12:00 AM
+submission-end: 05/07/2018 12:00 AM
 submission-link: https://www.innocentive.com/ar/challenge/9933883
 prizes: true
 fiscal-year: FY18

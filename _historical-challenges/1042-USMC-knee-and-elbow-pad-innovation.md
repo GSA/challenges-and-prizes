@@ -14,8 +14,8 @@ partners-non-federal: MilTech (EPIC)
 external-url: 
 total-prize-offered-cash: $5,000
 type-of-challenge:  Technology demonstration and hardware
-submission-start: 2019/05/28 12:00 PM
-submission-end: 2019/07/12 11:59 PM
+submission-start: 05/28/2019 12:00 PM
+submission-end: 07/12/2019 11:59 PM
 submission-link:  https://www.marcorsyscom.marines.mil/Unit-Home/Marine-Equipping-Challenge/Knee-and-Elbow-Pad-Challenge/
 prizes: true
 fiscal-year: 2019

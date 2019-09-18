@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $2,290,000
 type-of-challenge: Ideas
-submission-start: 2019/05/02/ 12:00 PM 
-submission-end: 2019/06/13 02:59 AM
+submission-start: 05/02/2019 12:00 PM 
+submission-end: 06/13/2019 02:59 AM
 submission-link:  https://go.valideval.com/teams/army_xtech_3_0/signup
 prizes: true
 ---

@@ -14,8 +14,8 @@ partners-non-federal: The Nature Conservancy, Barnstable County and Massachusett
 external-url:
 total-prize-offered-cash:
 type-of-challenge: Scientific
-submission-start: 2017/12/18 10:00 AM 
-submission-end: 2019/07/26 11:59 PM
+submission-start: 12/18/2017 10:00 AM 
+submission-end: 07/26/2019 11:59 PM
 submission-link:  
 prizes: true
 fiscal-year: FY18-FY19

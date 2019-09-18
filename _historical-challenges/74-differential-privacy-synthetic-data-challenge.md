@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $150,000
 type-of-challenge: Software and apps
-submission-start: 2018/10/31 04:00 PM
-submission-end: 2019/05/20 12:00 AM
+submission-start: 10/31/2018 04:00 PM
+submission-end: 05/20/2019 12:00 AM
 submission-link: https://www.topcoder.com/community/data-science/Differential-Privacy-Synthetic-Data-Challenge
 prizes: true
 fiscal-year: FY18-19

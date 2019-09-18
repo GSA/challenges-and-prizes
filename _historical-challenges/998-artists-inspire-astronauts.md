@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash:
 type-of-challenge: Creative (design and multimedia)
-submission-start: 2019/02/15/ 9 a.m. ET 
-submission-end: 2019/04/30 12 p.m. ET
+submission-start: 02/15/2019 9 a.m. ET 
+submission-end: 04/30/2019 12 p.m. ET
 submission-link:  
 prizes: true
 fiscal-year: FY19
