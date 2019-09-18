@@ -4,7 +4,7 @@ permalink: /challenge/opportunity-project-prize/
 challenge-id: 1071
 status: open
 sidenav: true
-card-image: /assets/images/cards/TOP Prize Challenge Logo.png
+card-image: /assets/images/cards/TOP-Prize-Challenge-Logo-sized.jpg
 agency-logo: 
 challenge-title: The Opportunity Project Prize Challenge
 tagline: Creating digital tools for the public with federal open data
