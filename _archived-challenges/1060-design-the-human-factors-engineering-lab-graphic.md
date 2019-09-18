@@ -14,8 +14,8 @@ partners-non-federal:
 external-url: https://www.freelancer.com/contest/NASA-Contest-Design-the-Human-Factors-Engineering-Lab-HFEL-Graphic-1559091
 total-prize-offered-cash: $250
 type-of-challenge:  Creative
-submission-start: 2019/08/06 12:00 PM
-submission-end: 2019/09/06 11:59 PM
+submission-start: 08/06/2019 12:00 PM
+submission-end: 09/06/2019 11:59 PM
 submission-link: 
 prizes: false
 legal-authority: America COMPETES Act
