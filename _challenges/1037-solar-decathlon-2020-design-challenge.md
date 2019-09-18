@@ -38,10 +38,10 @@ challenge-manager-email: Rachel.Romero@nrel.gov
 <ul>
 <li><span lang="EN">July 2019&mdash;Solar Decathlon Competition Guide is released, and the team application opens. </span></li>
  <li><span lang="EN">September 2019 to March 2020&mdash;Webinars and building science trainings are offered.</span></li>
- <li><span lang="EN">November 2019, 5 p.m. ET&mdash;All Design Challenge participating teams must complete the team application. </span></li>
+ <li><span lang="EN">November 5, 2019, 5 p.m. ET&mdash;All Design Challenge participating teams must complete the team application. </span></li>
 <li><span lang="EN">November 26, 2019, 5 p.m. ET&mdash;Participating teams can submit an optional five-page Project Introduction.</span></li>
- <li><span lang="EN">February 18, 2020, 5 p.m. ET&mdash;All Design Challenge participating teams must complete the Project Progress Report</span></li>
- <li><span lang="EN">March 31, 2020, 5 p.m. ET&mdash;All Design Challenge participating teams must submit their Project Reports</span></li>
+ <li><span lang="EN">February 18, 2020, 5 p.m. ET&mdash;All Design Challenge participating teams must complete the Project Progress Report.</span></li>
+ <li><span lang="EN">March 31, 2020, 5 p.m. ET&mdash;All Design Challenge participating teams must submit their Project Reports.</span></li>
 <li><span lang="EN">April 17‒19, 2020&mdash;Finalist teams present project to industry leaders at Design Challenge Weekend.</span></li>
 </ul>
 <p><span lang="EN">The Solar Decathlon Design Challenge partners with building industry sponsors that provide technical support for project teams, invaluable jury feedback, and once-in-a-lifetime networking and talent recruitment opportunities for student participants. 2019 Challenge sponsors included:</span></p>
