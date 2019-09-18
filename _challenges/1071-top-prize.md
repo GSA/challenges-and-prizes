@@ -47,14 +47,13 @@ challenge-manager-email: TOPprize@census.gov
 <p>The Opportunity Project Prize Challenge is a new opportunity for teams who have participated in The Opportunity Project to compete for funding to expand their impact, deploy tools to end users, and begin to or continue to deliver impact on critical problems facing the public.</p>
 <p>Because the challenges tackled in The Opportunity Project to date are so broad, COIL has identified five categories that capture a range of critical problems, described below. Teams applying for the prize must submit their product in at least one category, and can submit in up to 2 categories. </p>
 <ol>
-<li><strong>2020 Census: Reaching Hard-to-Count Communities</strong>: e.g., products focusing on challenges such as increasing response rates in hard-to-count communities, bridging the digital divide, promoting online self-response through digital literacy, and promoting 2020 Census jobs; </li>
+<li><strong>2020 Census: Reaching Hard-to-Count Communities</strong>: e.g., products focusing on challenges such as increasing response rates in hard-to-count communities, bridging the digital divide, promoting online self-response through digital literacy, and promoting 2020 Census jobs;</li>
 <li><strong>Revolutionizing the Workforce: </strong>e.g., products focusing on challenges such as employment, training, education, supporting entrepreneurship, creating multiple pathways for careers, and developing regional talent pipelines for high growth development; </li>
 <li><strong>Building Thriving Communities: </strong>e.g., products focusing on challenges such as affordable housing, transportation information and infrastructure, public safety, investment in communities, and community infrastructure development;  </li>
-<li><strong>Creating Resilient People and Places: e.g., products focusing on challenges such as disaster preparedness and response, environmental stewardship, and local address databases to support first responders and other community needs; </li>
-  <li><strong>Creating the Future of Health: </strong>e.g., products focusing on challenges such as the opioid crisis, connecting patients with clinical trials, public health and disease prevention, emotional wellbeing, and tick borne diseases. </li>  
+  <li><strong>Creating Resilient People and Places: </strong>e.g., products focusing on challenges such as disaster preparedness and response, environmental stewardship, and local address databases to support first responders and other community needs; </li>
+  <li><strong>Creating the Future of Health: </strong>e.g., products focusing on challenges such as the opioid crisis, connecting patients with clinical trials, public health and disease prevention, emotional wellbeing, and tick borne diseases.</li>  
 </ol>
 <p>**If you missed the May 21 Informational Webinar on The Opportunity Project Prize Challenge, you can view the recording at <a href="https://www.uberconference.com/getmp3/AMIfv95Ryev7gx3KRzgJRi2_Ga3R1PhHVB4_foRTTZ-UxzP1MQdrmxvbBo2CrxOYkkg_nt8t8UPfxxHHlKBC5xZYKF6LxgdrE09G0uvwf6zY0bHpK0TZYYPOIW161HG7JCB24zW2xwWNxc2Vob87dlXTUE0xK5B9_A.mp3" target="_blank" rel="noopener">this link</a>.** </p>
-
 
 <!-- Prizes start -->
 ### Prizes
