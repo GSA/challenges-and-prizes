@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash:
 type-of-challenge: Creative (design & multimedia)
 submission-start: 2019/07/31 12:00 AM
-submission-end: 2019/11/05 11:59 PM
+submission-end: 2019/11/05 5:00 PM
 submission-link: https://www.solardecathlon.gov/2019/design/challenge.html
 prizes: true
 fiscal-year: FY19-20
@@ -37,9 +37,12 @@ challenge-manager-email: Rachel.Romero@nrel.gov
 <p><span lang="EN">Teams can start preparing for the Solar Decathlon 2020 Design Challenge, planned for April 17&ndash;19, 2020, at the National Renewable Energy Laboratory in Golden, Colorado. Below are key dates for the 2020 Design Challenge: </span></p>
 <ul>
 <li><span lang="EN">July 2019&mdash;Solar Decathlon Competition Guide is released, and the team application opens. </span></li>
-<li><span lang="EN">November 2019&mdash;All Design Challenge participating teams must complete the team application. </span></li>
-<li><span lang="EN">September 2019 to March 2020&mdash;Webinars and building science trainings are offered. </span></li>
-<li><span lang="EN">April 17‒19, 2020&mdash;Finalist teams complete their project submissions and compete with presentations to industry leaders.</span></li>
+ <li><span lang="EN">September 2019 to March 2020&mdash;Webinars and building science trainings are offered.</span></li>
+ <li><span lang="EN">November 2019, 5 p.m. ET&mdash;All Design Challenge participating teams must complete the team application. </span></li>
+<li><span lang="EN">November 26, 2019, 5 p.m. ET&mdash;Participating teams can submit an optional five-page Project Introduction.</span></li>
+ <li><span lang="EN">February 18, 2020, 5 p.m. ET&mdash;All Design Challenge participating teams must complete the Project Progress Report</span></li>
+ <li><span lang="EN">March 31, 2020, 5 p.m. ET&mdash;All Design Challenge participating teams must submit their Project Reports</span></li>
+<li><span lang="EN">April 17‒19, 2020&mdash;Finalist teams present project to industry leaders at Design Challenge Weekend.</span></li>
 </ul>
 <p><span lang="EN">The Solar Decathlon Design Challenge partners with building industry sponsors that provide technical support for project teams, invaluable jury feedback, and once-in-a-lifetime networking and talent recruitment opportunities for student participants. 2019 Challenge sponsors included:</span></p>
 <ul>
@@ -80,7 +83,7 @@ challenge-manager-email: Rachel.Romero@nrel.gov
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="description">
-        <p><span lang="EN">Before entering, participants should review competition rules and eligibility criteria, available at <a href="https://www.solardecathlon.gov/assets/pdfs/sd-competition-guide.pdf" target="_blank" rel="noopener">https://www.solardecathlon.gov/assets/pdfs/sd-competition-guide.pdf</a>.</span></p>
+        <p><span lang="EN">Before entering, participants should review competition rules and eligibility criteria, available at <a href="https://www.solardecathlon.gov/2020/assets/pdfs/sd-design-challenge-rules.pdf" target="_blank" rel="noopener">https://www.solardecathlon.gov/2020/assets/pdfs/sd-design-challenge-rules.pdf.</a>.</span></p>
       </div>
 
 <!-- Judging start -->
@@ -89,7 +92,7 @@ challenge-manager-email: Rachel.Romero@nrel.gov
 
 <div class="judging-criterias">
         <div class="prize-item">
-                                      <p><span lang="EN">Project submissions are evaluated by jurors according to 10 Contests: </span></p>
+                                      <p><span lang="EN">Project submissions are evaluated by industry jurors according to 10 Contests: </span></p>
 <ol>
 <li><span lang="EN">Energy Performance</span></li>
 <li><span lang="EN">Engineering</span></li>
@@ -102,7 +105,7 @@ challenge-manager-email: Rachel.Romero@nrel.gov
 <li><span lang="EN">Innovation</span></li>
 <li><span lang="EN">Presentation</span></li>
 </ol>
-<p><span lang="EN">All Contests are equally weighted. For additional detail on Contest judging criteria, see the <a href="https://www.solardecathlon.gov/assets/pdfs/sd-competition-guide.pdf" target="_blank" rel="noopener">Solar Decathlon Design Challenge Competition Guide</a>.</span></p>
+<p><span lang="EN">All Contests are equally weighted. For additional detail on Contest judging criteria, see the <a href="https://www.solardecathlon.gov/2020/assets/pdfs/sd-design-challenge-rules.pdf" target="_blank" rel="noopener">Solar Decathlon Design Challenge Rules</a>.</span></p>
                     </div>
     </div> 
 
@@ -128,10 +131,10 @@ challenge-manager-email: Rachel.Romero@nrel.gov
 <li><span lang="EN">Submits an optional five-page Project Introduction </span></li>
 <li><span lang="EN">Pays a nonrefundable $100 application fee.</span></li>
 </ul>
-<p><span lang="EN">Participating teams are confirmed and announced by December. Each team submits a Project Progress Report the following February for evaluation.</span></p>
+<p><span lang="EN">Teams are encouraged to submit an optional Project Introduction by November 26, 2019, 5 p.m. ET. Participating teams are confirmed and announced by December. Each team submits a Project Progress Report the following February for evaluation.</span></p>
 <p><span lang="EN">Up to 48 finalist teams, eight in each of six Divisions, are selected and invited to compete further with a final Project Report and Presentation of their design at the Design Challenge Weekend, held annually in April at the National Renewable Energy Laboratory (NREL) main campus in Golden, Colorado.</span></p>
 <p><span lang="EN">For this coming cycle, teams that apply by November 2019 and are selected to proceed after submitting their Project Progress Report in February 2020 will be invited to complete their project in March and then present at the Design Challenge Weekend at NREL in April 2020.</span></p>
-<p><span lang="EN">Six winners&mdash;one from each Division&mdash;are determined by juried evaluation across all 10 Contests and awarded with trophies at the annual Design Challenge Weekend. A Design Challenge Grand Winner is also selected from the pool of six winners and provided with a special award.</span></p>
+<p><span lang="EN">First and second place winnes, as well as honorable mentions&mdash;one from each Division&mdash;are determined by juried evaluation across all 10 Contests and awarded with trophies at the annual Design Challenge Weekend. In addition, two Design Challenge Grand Winners are also selected from the pool of six first-place winners and provided with a special award.</span></p>
 <p><span lang="EN">Ready to learn more? Teams interested in participating in the Design Challenge should carefully review the complete set of entry requirements, available in the <a href="https://www.solardecathlon.gov/assets/pdfs/sd-competition-guide.pdf" target="_blank" rel="noopener">Solar Decathlon Design Challenge Competition Guide</a>.</span></p>
-<p><span lang="EN">More information is available at&nbsp;<a href="https://www.solardecathlon.gov/2019/design/challenge.html" target="_blank" rel="noopener">https://www.solardecathlon.gov/2019/design/challenge.html</a>.</span></p>
+<p><span lang="EN">More information is available at&nbsp;<a href="https://www.solardecathlon.gov/event/challenges-design.html " target="_blank" rel="noopener">https://www.solardecathlon.gov/event/challenges-design.html</a>.</span></p>
       </div>
