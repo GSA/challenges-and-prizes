@@ -71,15 +71,23 @@
   		<img src="{{ site.baseurl }}/assets/images/agency/200px-Intelligence_Advanced_Research_Projects_Activity_logo.png" alt="IARPA logo" height="120px" title="IARPA">
 	{% endif %}
 
-	{% if challenge.groupName contains "Department of the Interior" or challenge.agency contains "Department of the Interior"%}
+	{% if challenge.groupName == "Department of the Interior" or challenge.agency == "Department of the Interior" %}
   		<img src="{{ site.baseurl }}/assets/images/agency/504px-Seal_of_the_United_States_Department_of_the_Interior.png" alt="DOI logo" height="120px" title="DOI">
+	{% endif %}
+
+	{% if challenge.groupName contains "Bureau of Reclamation" or challenge.agency contains "Bureau of Reclamation" %}
+  		<img src="{{ site.baseurl }}/assets/images/agency/usbr.jpg" alt="DOI logo" height="120px" title="DOI">
 	{% endif %}
 
 	{% if challenge.groupName contains "Agency for International Development" or challenge.agency contains "Agency for International Development" %}
   		<img src="{{ site.baseurl }}/assets/images/agency/usaid.png" alt="USAID logo" height="120px" title="USAID">
 	{% endif %}
 
-	{% if challenge.groupName contains "Department of Energy" or challenge.agency contains "Department of Energy" %}
+	{% if challenge.groupName contains "National Nuclear Security Administration" or challenge.agency contains "National Nuclear Security Administration" %}
+  		<img src="{{ site.baseurl }}/assets/images/agency/US-NationalNuclearSecurityAdmin-Logo.png" alt="DOE logo" width="120px" title="DOE">
+	{% endif %}
+
+	{% if challenge.groupName == "Department of Energy - Energy Programs" or challenge.agency == "Department of Energy - Energy Programs" %}
   		<img src="{{ site.baseurl }}/assets/images/agency/256px-Seal_of_the_United_States_Department_of_Energy.png" alt="DOE logo" height="120px" title="DOE">
 	{% endif %}
 
@@ -107,11 +115,22 @@
 	<img style="margin-top: .5rem;" src="{{ site.baseurl }}/assets/images/agency/NIST_logo.png" alt="NIST logo" width="120px" title="NIST">
 	{% endif %}
 
+	{% if challenge.groupName contains "NIST PSCR Group" or challenge.agency contains "NIST PSCR Group" %}
+	<img style="margin-top: .5rem;" src="{{ site.baseurl }}/assets/images/agency/pscr.png" alt="NIST PSCR logo" height="100px" title="NIST">
+	{% endif %}
+
 	{% if challenge.groupName == "Department of Health and Human Services" or challenge.agency == "Department of Health and Human Services" %}
 	<img src="{{ site.baseurl }}/assets/images/agency/hhs.png" alt="HHS logo" height="120px" title="HHS">
     {% endif %}
 
+	{% if challenge.groupName == "Department of Health and Human Services - Centers for Medicare and Medicaid Services" or challenge.agency == "Department of Health and Human Services - Centers for Medicare and Medicaid Services" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/Centers_for_Medicare_and_Medicaid_Services_logo_2014.png" alt="HHS logo" width="120px" title="HHS">
+	{% endif %}
 	
+	{% if challenge.groupName contains "Agency for Healthcare Research and Quality" or challenge.agency contains "Agency for Healthcare Research and Quality" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/ahrq-logo.png" alt="HHS logo" width="120px" title="HHS">
+    {% endif %}
+
     {% if challenge.groupName contains "Small Business Administration" or challenge.agency contains "Small Business Administration" %}
 	<img src="{{ site.baseurl }}/assets/images/agency/SBA_logo.jpg" alt="SBA logo" height="120px" title="HHS">
     {% endif %}
