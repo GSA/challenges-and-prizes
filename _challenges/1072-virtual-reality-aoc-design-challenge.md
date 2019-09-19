@@ -6,7 +6,7 @@ status: open
 sidenav: true
 card-image: /assets/images/cards/MGMWERX_virtual.jpg
 agency-logo: dod_seal.jpg
-challenge-title: Virtual Reality Air & Space Operations Center (AOC) Design Challenge
+challenge-title: Virtual Reality Air and Space Operations Center (AOC) Design Challenge
 tagline: We are seeking to rapidly innovate and prototype a virtual reality platform for providing education and training in the organization, functions, and operations of an Air & Space Operations Center (AOC).  
 agency: Department of Defense - Air Force
 partner-agencies-federal: Air University
