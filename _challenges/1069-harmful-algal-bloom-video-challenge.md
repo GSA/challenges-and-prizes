@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash: $32,000
 type-of-challenge: Creative (multimedia and design), scientific
 submission-start: 2019/09/19 11:00 AM
-submission-end: 2020/01/30 11:00 PM
+submission-end: 2020/01/03 11:00 PM
 submission-link: 
 prizes: true
 fiscal-year: FY19, FY20
