@@ -14,8 +14,8 @@ partners-non-federal:
 external-url: https://hackthemachine.ai
 total-prize-offered-cash: $90,000
 type-of-challenge:  Software and apps; Analytics, visualizations and algorithms; Scientific
-submission-start: 2019/07/22 12:00 AM
-submission-end: 2019/09/05 12:00 AM
+submission-start: 07/22/2019 12:00 AM
+submission-end: 09/05/2019 12:00 AM
 submission-link: 
 prizes: false
 legal-authority: America COMPETES Act
