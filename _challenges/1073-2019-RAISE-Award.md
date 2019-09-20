@@ -137,7 +137,7 @@ challenge-manager-email: patricia.watts@faa.gov
 </ol>
 <p>The FAA may request additional information, including supporting documentation, more detailed contact information, releases of liability, and statements of authenticity to guarantee the originality of the work.&nbsp; Failure to respond in a timely manner may result in disqualification.&nbsp;&nbsp; Electronic packages may be transmitted by email to <a href="mailto:Patricia.Watts@FAA.gov">Patricia.Watts@FAA.gov</a>.&nbsp;&nbsp; Hard copies should be forwarded with a cover letter to the attention of:</p>
 <div><strong>Patricia Watts, Ph.D., L-28 </strong></div>
-<div><strong>Centers of Excellence Program Office</strong></div>
+<div><strong>Challenge Management Office</strong></div>
 <div><strong>FAA William J. Hughes Technical Center</strong></div>
 <div><strong>Atlantic City International Airport, NJ 08405</strong></div>
 <p>The submission period begins on Friday, November 1, 2019.&nbsp; Submissions must be received by noon on Friday, November 15, 2019.&nbsp; The timeliness of submissions will be determined by the postmark (if sent in hard copy) or time stamp if emailed.&nbsp; Competition administrators assume no responsibility for lost or untimely submissions for any reason.</p>
