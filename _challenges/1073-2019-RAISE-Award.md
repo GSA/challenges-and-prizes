@@ -4,11 +4,11 @@ permalink: /challenge/2019-raise-award/
 challenge-id: 1073
 status: open
 sidenav: true
-card-image: /assets/images/cards/FAA_logo.jpg
-agency-logo: FAA_seal.png
+card-image: /assets/images/cards/DOT_raise_card.jpg
+agency-logo: DOT_logo.jpg
 challenge-title: 2019 Secretary's RAISE Award
 tagline: Incentivizing students at high schools and universities to think creatively in developing innovative solutions to aviation and aerospace challenges.
-agency: Department of Transportation - Federal Aviation Administration
+agency: Department of Transportation
 partner-agencies-federal: 
 partners-non-federal: 
 external-url:
