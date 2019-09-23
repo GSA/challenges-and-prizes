@@ -152,6 +152,18 @@ h3 a {
 	}
 }
 
+@media (max-width: 1024px) {
+	.usa-layout-docs-sidenav {
+	  display: none;
+	}
+  }
+
+  @media (min-width: 1024px) {
+	.desktop-only-display {
+	  display: none;
+	}
+  }
+
 
 // Challenge details main section
 .challenge-main {

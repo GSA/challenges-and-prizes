@@ -7,15 +7,9 @@ title: Archived Challenges
 
 <section class="usa-section bg-base-lightest">
     <div class="grid-container">
-        <div class="padding-bottom-2 tablet:grid-col-6 grid-row">
-            <button class="usa-button usa-button--outline">2019</button>
-            <button class="usa-button usa-button--outline">2018</button>
-            <button class="usa-button usa-button--outline">2017</button>
-        </div>
         <div class="grid-row">
                 {% assign sorted = (site.historical-challenges | sort: 'submission-end') %}
                 {% for challenge in sorted %}
-
                 {% if challenge.submission-end contains 2019 %}
         <div class="tablet:grid-col-6 cards">
                 <div class="card position-relative" style="min-height: 180px;">

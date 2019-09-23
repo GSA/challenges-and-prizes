@@ -4,12 +4,6 @@ layout: default
   
     <div class="grid-container">
     <div class="grid-row grid-gap">
-        <!--
-            <aside class="usa-layout-docs-sidenav desktop:grid-col-3 usa-section">
-                {% include agency-logos.html %}
-                <h3 class="text-base-dark">{{ page.groupName }}</h3>
-            </aside>
-        -->
         {% include sidenav-json-page.html %}
         <div class="desktop:grid-col-9 usa-prose usa-section"> 
                 <div class="usa-alert usa-alert--warning" >
@@ -20,7 +14,7 @@ layout: default
                 </div>
             <h1 class="text-primary-dark">{{ page.name }}</h1>
             <h3 class="text-primary">{{ page.tagline }}</h3> 
-            <h4 class="text-base-dark">{{ page.groupName }}</h4> 
+            <h4 class="text-base-dark  desktop-only-display">{{ page.groupName }}</h4> 
             <!-- Start Accordian -->
             <div class="usa-accordion">
                 <h4 class="usa-accordion__heading">
