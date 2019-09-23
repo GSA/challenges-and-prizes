@@ -13,7 +13,7 @@ partner-agencies-federal: Air University
 partners-non-federal: MGMWERX
 external-url:
 total-prize-offered-cash:
-type-of-challenge: Software and apps; Ideas; Virtual Reality; Analytics, visualizations and algorithms; Scientific
+type-of-challenge: Software and apps; Ideas; Virtual Reality; Analytics, Visualizations and algorithms; Scientific
 submission-start: 2019/09/10 04:00 AM
 submission-end: 2019/10/18 12:59 AM
 submission-link:  
