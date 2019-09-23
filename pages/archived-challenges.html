@@ -12,9 +12,9 @@ title: Archived Challenges
                 {% for challenge in sorted %}
                 {% if challenge.submission-end contains 2019 %}
         <div class="tablet:grid-col-6 cards">
-                <div class="card position-relative" style="min-height: 180px;">
+                <div class="card position-relative" style="min-height: 185px;">
                     <div class="padding-x-1">
-                        <div style="float: left; padding: .7rem; min-height: -webkit-fill-available;">{% include agency-logos.html %}</div>
+                        <div class="archive-listing-card-logo">{% include agency-logos.html %}</div>
                         <div>
                         <h3 class="text-primary-dark text-bold text-uppercase margin-y-1 text-ls-1">
                             {% if challenge.name %}

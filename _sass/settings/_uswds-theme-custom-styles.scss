@@ -132,6 +132,21 @@ h3 a {
 	}
 }
 
+//archive listing page styles
+
+.archive-listing-card-logo {
+	float: left; 
+	padding: .7rem; 
+}
+
+@media (min-width: 1024px) {
+	.archive-listing-card-logo {
+		min-height: -webkit-fill-available;
+	}
+  }
+
+
+
 // Sidenav
 .usa-layout-docs-sidenav {
 	@include at-media(desktop) {
