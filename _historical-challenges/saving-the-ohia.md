@@ -12,7 +12,7 @@ funnelId: 4
 ideaFromUnauthorizedMemberAllowed: false
 tagline: Developing new and improved tools for early detection of the fungi Ceratocystis
   lukuohia and Ceratocystis huliohia in the ʻŌhiʻa and the environment.
-groupName: Department of the Interior - Department-Wide Programs
+groupName: Department of the Interior
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
