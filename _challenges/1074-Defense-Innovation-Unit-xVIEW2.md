@@ -4,11 +4,11 @@ permalink: /challenge/defense-innovation-unit-xview2/
 challenge-id: 1074
 status: open
 sidenav: true
-card-image: /assets/images/cards/challenge-gov.png
-agency-logo: 
+card-image: /assets/images/cards/DIU_logo.png
+agency-logo: dod_seal.jpg
 challenge-title: 
 tagline: 
-agency: 
+agency: Department of Defense
 partner-agencies-federal: 
 partners-non-federal: 
 external-url:
