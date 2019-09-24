@@ -6,8 +6,8 @@ status: open
 sidenav: true
 card-image: /assets/images/cards/DIU_logo.png
 agency-logo: dod_seal.jpg
-challenge-title: 
-tagline: 
+challenge-title: Defense Innovation Unit’s xVIEW2 - Computer Vision for Building Damage Assessment
+tagline: Using satellite imagery of natural disasters
 agency: Department of Defense
 partner-agencies-federal: 
 partners-non-federal: 
