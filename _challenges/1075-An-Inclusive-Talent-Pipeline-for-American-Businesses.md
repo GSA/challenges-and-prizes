@@ -12,16 +12,16 @@ agency: Department of Health and Human Services
 partner-agencies-federal: 
 partners-non-federal: 
 external-url:
-total-prize-offered-cash:
-type-of-challenge: 
+total-prize-offered-cash: $280,000
+type-of-challenge: Ideas
 submission-start: 2019/11/22 5:00 PM 
 submission-end: 2020/02/14 11:59 PM 
 submission-link:  
 prizes: true
-fiscal-year:
-legal-authority:
-challenge-manager:
-challenge-manager-email:
+fiscal-year: FY19, FY20
+legal-authority: America COMPETES Act
+challenge-manager: Teresa Nguyen, teresa.nguyen@acl.hhs.gov
+challenge-manager-email: teresa.nguyen@acl.hhs.gov
 ---
 
 
