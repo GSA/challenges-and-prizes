@@ -57,3 +57,5 @@ challenge-manager-email:
 <!--  How To Enter start -->
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
+<p>View instructions on how to <a href="https://xview2.org/signup" target="_blank" rel="noopener">sign up</a> for this challenge.</p>
