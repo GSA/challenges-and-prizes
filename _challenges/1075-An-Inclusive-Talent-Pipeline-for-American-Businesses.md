@@ -93,6 +93,23 @@ challenge-manager-email:
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<p><strong>Total Cash Prize Pool</strong></p>
+<p>$280,000.00</p>
+<p><strong>Prize Breakdown</strong></p>
+<p>Phase 1 &ndash; Proposal of Innovative Models: Total Cash Prize of $100,000</p>
+<p>HHS will make up to five awards</p>
+<p>Phase 2 &ndash; Small Scale Testing of Models: Total Cash Prize of $80,000</p>
+<p>HHS will make up to two awards</p>
+<p>Phase 3 &ndash; Promise of Model Sustainability: Total Cash Prize of $100,000</p>
+<p>HHS will make one award</p>
+<p><strong>Non-monetary Prizes</strong></p>
+<p>Winners will also obtain:</p>
+<ul>
+<li>Trip to Washington, D.C. for a demo day</li>
+<li>Mentorship from experts in the field</li>
+<li>Networking opportunities</li>
+<li>Promotion of business innovation model</li>
+</ul>
 
 <!-- Rules start -->
 ### Rules 
@@ -121,3 +138,5 @@ challenge-manager-email:
 <!--  How To Enter start -->
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
+More details will come in November 2019.
