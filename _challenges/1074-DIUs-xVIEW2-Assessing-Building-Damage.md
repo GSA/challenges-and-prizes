@@ -9,22 +9,20 @@ agency-logo: dod_seal.jpg
 challenge-title: DIU’s xVIEW2 - Assessing Building Damage
 tagline: Computer Vision for Building Damage Assessment - Automate damage assessment to accelerate recovery from natural disasters
 agency: Department of Defense
-partner-agencies-federal: 
-partners-non-federal: 
+partner-agencies-federal: FEMA, USGS, NASA, NGA, Joint AI Center (DoD), National Security Innovation Network (DOD)
+partners-non-federal: Carnegie Mellon University’s Software Engineering Institute (FFRDC), California Governor’s Office of Emergency Services, CAL Fire, Cal Guard, MAXAR/Digital Globe
 external-url:
 total-prize-offered-cash: $150,000
-type-of-challenge: 
+type-of-challenge: Technology demonstration and hardware; Analytics, visualizations and algorithms; Scientific
 submission-start: 2019/09/18 08:00 AM
 submission-end: 2019/11/22 07:59 AM
 submission-link: 
 prizes: true
-fiscal-year:
-legal-authority:
-challenge-manager:
-challenge-manager-email:
+fiscal-year: FY19, FY20
+legal-authority: Direct Prize Authority – DOD
+challenge-manager: Johanna Spangenberg Jones, Johanna.ctr@diu.mil
+challenge-manager-email: xview@diu.mil
 ---
-
-
 
 <!-- Description start -->
 ### Description
