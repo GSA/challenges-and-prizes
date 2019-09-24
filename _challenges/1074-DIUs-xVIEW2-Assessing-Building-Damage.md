@@ -12,7 +12,7 @@ agency: Department of Defense
 partner-agencies-federal: 
 partners-non-federal: 
 external-url:
-total-prize-offered-cash:
+total-prize-offered-cash: $150,000
 type-of-challenge: 
 submission-start: 2019/09/18 08:00 AM
 submission-end: 2019/11/22 07:59 AM
@@ -41,6 +41,7 @@ challenge-manager-email:
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<p>Winners will receive awards from a total prize pool of $150,000.</p>
 
 <!-- Rules start -->
 ### Rules 
