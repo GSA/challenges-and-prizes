@@ -134,6 +134,7 @@ challenge-manager-email:
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+More details will come in November 2019.
 
 <!--  How To Enter start -->
 ### How To Enter
