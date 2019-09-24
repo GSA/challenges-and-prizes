@@ -5,7 +5,7 @@ challenge-id: 1075
 status: open
 sidenav: true
 card-image: /assets/images/cards/ACL_logo.jpg
-agency-logo: 
+agency-logo: hhs.png
 challenge-title: An Inclusive Talent Pipeline for American Businesses
 tagline: An opportunity to modernize employment recruitment, training, and retention for Americans with disabilities.
 agency: Department of Health and Human Services
@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash:
 type-of-challenge: 
-submission-start: 
-submission-end: 
+submission-start: 2019/11/22 5:00 PM 
+submission-end: 2020/02/14 11:59 PM 
 submission-link:  
 prizes: true
 fiscal-year:
@@ -98,6 +98,20 @@ challenge-manager-email:
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<p><strong>Eligibility Rules for Participating in the Competition</strong>: To be eligible to win a prize under this challenge, an individual or entity&mdash;</p>
+<p>(1) Shall have registered to participate in the competition under the rules promulgated by the <em>Administration for Community Living;</em></p>
+<p>(2) Shall have complied with all the requirements under this section;</p>
+<p>(3) In the case of a private entity, shall be incorporated in and maintain a primary place of business in the United States, and in the case of an individual, whether participating singly or in a group, shall be a citizen or permanent resident of the United States;</p>
+<p>(4) May not be a Federal entity or Federal employee acting within the scope of their employment (all non-HHS federal employees must consult with their agency Ethics Official to determine whether the federal ethics rules will limit or prohibit the acceptance of a COMPETES Act prize);</p>
+<p>(5) Shall not be an HHS employee;</p>
+<p>(6) Federal grantees may not use Federal funds to develop submissions unless consistent with the purpose of their grant award; and</p>
+<p>(7) Federal contractors may not use Federal funds from a contract to develop COMPETES Act challenge applications or to fund efforts in support of a COMPETES Act challenge submission.</p>
+<p><strong>Terms and Conditions</strong></p>
+<p>An individual or entity shall not be deemed ineligible because the individual or entity used Federal facilities or consulted with Federal employees during a competition if the facilities and employees are made available to all individuals and entities participating in the competition on an equitable basis.</p>
+<p>Participants must also agree to assume any and all risks and waive claims against the Federal Government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from my participation in this prize contest, whether the injury, death, damage, or loss arises through negligence or otherwise.</p>
+<p>Participants are required to obtain liability insurance or demonstrate financial responsibility in the amount of $0 for claims by a third party for death, bodily injury, or property damage, or loss resulting from an activity carried out in connection with participation in a challenge.</p>
+<p>Participants must also agree to indemnify the Federal Government against third party claims for damages arising from or related to Challenge activities.</p>
+<p><em>The Administration for Community Living</em> reserves the right to cancel, suspend, and/or modify the Challenge, or any part of it, for any reason, at the <em>Administration for Community Living&rsquo;s</em> sole discretion.</p>
 
 <!-- Judging start -->
 ### Judging Criteria
