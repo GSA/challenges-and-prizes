@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/MUX-mission-system-airborne-early-warning-aew-payload-prize-challenge/
 challenge-id: 1038
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/MUX_logo_resize.jpg
 agency-logo: dod_seal.jpg
