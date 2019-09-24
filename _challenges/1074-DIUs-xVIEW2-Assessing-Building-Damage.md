@@ -46,6 +46,8 @@ challenge-manager-email:
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<p>View the official <a href="https://xview2.org/rules" target="_blank" rel="noopener">rules</a> for this challenge.</p>
+<p>View the <a href="https://xview2.org/terms" target="_blank" rel="noopener">terms</a> for this challenge.</p>
 
 <!-- Judging start -->
 ### Judging Criteria
