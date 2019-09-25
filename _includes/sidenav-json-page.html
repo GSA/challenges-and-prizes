@@ -3,6 +3,7 @@
     <div class="">
     {% include agency-logos-archived-challenge-page.html %}
     <h3 class="text-base-dark">{{ page.groupName }}</h3>
+    {% if page.hosting contains "Hybrid" or page.hosting contains "Hosted" %}
     <hr>
     </div>
   <nav>
@@ -25,4 +26,5 @@
       </li>
     </ul>
   </nav>
+  {% endif %}
 </aside>
