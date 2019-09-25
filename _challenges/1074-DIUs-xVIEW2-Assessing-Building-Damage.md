@@ -9,8 +9,8 @@ agency-logo: dod_seal.jpg
 challenge-title: DIU’s xVIEW2 - Assessing Building Damage
 tagline: Computer Vision for Building Damage Assessment - Automate damage assessment to accelerate recovery from natural disasters
 agency: Department of Defense
-partner-agencies-federal: FEMA, USGS, NASA, NGA, Joint AI Center (DoD), National Security Innovation Network (DOD)
-partners-non-federal: Carnegie Mellon University’s Software Engineering Institute (FFRDC), California Governor’s Office of Emergency Services, CAL Fire, Cal Guard, MAXAR/Digital Globe
+partner-agencies-federal: FEMA, USGS, NASA, NGA, Joint AI Center (DoD), National Security Innovation Network (DOD), Carnegie Mellon University’s Software Engineering Institute (FFRDC)
+partners-non-federal: California Governor’s Office of Emergency Services, CAL Fire, Cal Guard, MAXAR/Digital Globe
 external-url:
 total-prize-offered-cash: $150,000
 type-of-challenge: Technology demonstration and hardware; Analytics, visualizations and algorithms; Scientific
@@ -28,6 +28,7 @@ challenge-manager-email: xview@diu.mil
 ### Description
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<p><img src="{{ site.baseurl }}/assets/images/challenge-content/xview2.png" width="742" height="513" alt="disaster relief satellite image"/></p>
 <p><strong>xVIEW2</strong></p>
 <p>When a disaster strikes, quick and accurate situational information is critical to an effective response. Before responders can act in the affected area, they need to know the location, cause and severity of damage. But disasters can strike anywhere, disrupting local communication and transportation infrastructure, making the process of assessing specific local damage difficult, dangerous, and slow.</p>
 <p><strong>Raw Imagery is Not Enough</strong></p>
