@@ -257,6 +257,6 @@ privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/cinespace-film-competition/"
+permalink: "/challenge/cinespace-film-competition-2015/"
 layout: json-page
 ---
