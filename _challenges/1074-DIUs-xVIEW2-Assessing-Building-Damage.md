@@ -23,12 +23,12 @@ legal-authority: Direct Prize Authority – DOD
 challenge-manager: Johanna Spangenberg Jones, Johanna.ctr@diu.mil
 challenge-manager-email: xview@diu.mil
 ---
+<p><img src="{{ site.baseurl }}/assets/images/challenge-content/xview2.png" align="middle" width="742" height="513" alt="disaster relief satellite image"/></p>
 
 <!-- Description start -->
 ### Description
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p><img src="{{ site.baseurl }}/assets/images/challenge-content/xview2.png" width="742" height="513" alt="disaster relief satellite image"/></p>
 <p><strong>xVIEW2</strong></p>
 <p>When a disaster strikes, quick and accurate situational information is critical to an effective response. Before responders can act in the affected area, they need to know the location, cause and severity of damage. But disasters can strike anywhere, disrupting local communication and transportation infrastructure, making the process of assessing specific local damage difficult, dangerous, and slow.</p>
 <p><strong>Raw Imagery is Not Enough</strong></p>
