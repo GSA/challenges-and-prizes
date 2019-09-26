@@ -5,9 +5,10 @@ title: Archived Challenges
 ---
 
 
-<section class="usa-section bg-base-lightest">
+<section class="bg-base-lightest">
     <div class="grid-container">
-        <div class="grid-row">
+            {% include highlights.html %}
+        <div class="grid-row usa-section">
                 {% assign sorted = (site.historical-challenges | sort: 'submission-end') %}
                 {% for challenge in sorted %}
                 {% if challenge.submission-end contains 2019 %}
