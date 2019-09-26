@@ -145,6 +145,12 @@ h3 a {
 	}
   }
 
+  @media (max-width: 1023px) {
+  .archive-listing-card-logo {
+	display: none;
+  }
+}
+
 
 
 // Sidenav
