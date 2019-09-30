@@ -9,7 +9,7 @@ agency-logo: dod_seal.jpg
 challenge-title: PMA-263 Tactical Resupply UAS Challenge
 tagline: Autonomously transport a water-filled five-gallon Jerry Can over a 10 km course to win cash prizes.
 agency: Department of Defense
-partner-agencies-federal: Naval Air Systems Command Program Manager (Air), Small Tactical Unmanned Aircraft Systems (PMA-263)
+partner-agencies-federal: Program Manager Air (PMA-263), Navy and Marine Corps Small Tactical Unmanned Aircraft Systems (STUAS)
 partners-non-federal: IMPAX
 external-url:
 total-prize-offered-cash: $225,000
