@@ -12,7 +12,7 @@ agency: Department of Health and Human Services
 partner-agencies-federal: 
 partners-non-federal: 
 external-url:
-total-prize-offered-cash: $280,000
+total-prize-offered-cash: $380,000
 type-of-challenge: Ideas
 submission-start: 2019/11/22 5:00 PM 
 submission-end: 2020/02/14 11:59 PM 
@@ -94,14 +94,14 @@ challenge-manager-email: teresa.nguyen@acl.hhs.gov
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>Total Cash Prize Pool</strong></p>
-<p>$280,000.00</p>
+<p>$380,000.00</p>
 <p><strong>Prize Breakdown</strong></p>
 <p>Phase 1 &ndash; Proposal of Innovative Models: Total Cash Prize of $100,000</p>
 <p>HHS will make up to five awards</p>
 <p>Phase 2 &ndash; Small Scale Testing of Models: Total Cash Prize of $80,000</p>
 <p>HHS will make up to two awards</p>
-<p>Phase 3 &ndash; Promise of Model Sustainability: Total Cash Prize of $100,000</p>
-<p>HHS will make one award</p>
+<p>Phase 3 &ndash; Promise of Model Sustainability: Total Cash Prize of $200,000</p>
+<p>HHS will make two awards</p>
 <p><strong>Non-monetary Prizes</strong></p>
 <p>Winners will also obtain:</p>
 <ul>
