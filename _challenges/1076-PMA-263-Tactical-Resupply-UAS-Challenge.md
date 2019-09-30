@@ -4,7 +4,7 @@ permalink: /challenge/PMA-263-tactical-resupply-UAS-challenge/
 challenge-id: 1076
 status: open
 sidenav: true
-card-image: /assets/images/cards/challenge-gov.png
+card-image: /assets/images/cards/UAS_challenge.png
 agency-logo: dod_seal.jpg
 challenge-title: PMA-263 Tactical Resupply UAS Challenge
 tagline: Autonomously transport a water-filled five-gallon Jerry Can over a 10 km course to win cash prizes.
