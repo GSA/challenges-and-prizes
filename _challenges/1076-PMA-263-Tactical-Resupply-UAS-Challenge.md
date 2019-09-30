@@ -35,6 +35,13 @@ challenge-manager-email: Christina.petrow@navy.mil
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<p><strong>Total Prize Pool</strong></p>
+<p>$225,000</p>
+<ul>
+<li>First Place: $100,000</li>
+<li>Second Place: $75,000</li>
+<li>Third Place: $50,000</li>
+</ul>
 
 <!-- Rules start -->
 ### Rules 
@@ -45,7 +52,10 @@ challenge-manager-email: Christina.petrow@navy.mil
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<p>The Fly-Off scoring rubric will be provided to competitors with their invitation to the Phase-2 Fly-Off challenge event.</p>
 
 <!--  How To Enter start -->
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
+<p>Eligible and interested applicants should visit impax.tech/uls-prize-challenge to learn more about the conduct of the prize challenge, evaluation criteria, information that must be provided, and to apply for participation. Applications for participation will be accepted until 2359 EDT on 18 October 2019.&nbsp; Invitations to participate in the Phase-2 Fly-Off will be issued via e-mail no later than 2359 EDT on 25 October 2019.&nbsp; Responses to invitations will be due no later than 2359 EST on 8 November 2019.</p>
