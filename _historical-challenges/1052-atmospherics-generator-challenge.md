@@ -18,10 +18,10 @@ submission-start: 06/25/2019 12:00 PM
 submission-end: 07/31/2019 12:59 AM
 submission-link: https://mgmwerx.org/mgmwerx-challenge/atmospherics-generator-challenge/
 prizes: false
-Legal Authority: America COMPETES Act
-Fiscal Year: FY19
-Challenge Manager: Steve Werner
-Challenge Manager Email: info@mgmwerx.org
+legal-authority: America COMPETES Act
+fiscal-year: FY19
+challenge-manager: Steve Werner
+challenge-manager-email: info@mgmwerx.org
 ---
 
 <!-- Description start -->

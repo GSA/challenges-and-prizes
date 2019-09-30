@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/full-ocean-depth-challenge/
 challenge-id: 1057
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/Full-Ocean-Depth-challenge.jpg
 agency-logo: dod_seal.jpg
@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $755,000
 type-of-challenge: Technology demonstration and hardware
-submission-start: 2019/08/12 2:00 PM ET
-submission-end: 2019/08/30 2:00 PM ET
+submission-start: 08/12/2019 2:00 PM ET
+submission-end: 09/12/2019 2:00 PM ET
 submission-link:  
 prizes: true
 fiscal-year: FY19-20
@@ -24,7 +24,8 @@ challenge-manager: Christopher Hebert
 challenge-manager-email: christopher.r.hebert@navy.mil
 ---
 
-
+<h3>Deadline Extended!</h3>
+<p>Entries must be submitted via email to Christopher Hebert <a href="mailto:christopher.r.hebert@navy.mil" target="_blank" rel="noopener">christopher.r.hebert@navy.mil</a> by 02:00 Eastern Time (ET) on 12 September 2019. Submissions received after the deadline will not be considered.</p>
 
 <!-- Description start -->
 ### Description
@@ -342,7 +343,7 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 {: .text-accent-warm-dark .font-heading-lg}
 
 <div class="how-to-enter">
-<p>Entries must be submitted via email to <a href="mailto:christopher.r.hebert@navy.mil" target="_blank" rel="noopener">christopher.r.hebert@navy.mil</a> by 02:00 Eastern Time on 30 August 2019. Submissions received after the deadline will not be considered.</p>
+<p>Entries must be submitted via email to Christopher Hebert <a href="mailto:christopher.r.hebert@navy.mil" target="_blank" rel="noopener">christopher.r.hebert@navy.mil</a> by 02:00 Eastern Time (ET) on 12 September 2019. Submissions received after the deadline will not be considered.</p>
   <p>Submissions including attachments shall use the following filename convention:</p>
   <p>Company or Individual Name (e.g., Company or Individual Name_concept.pdf, Company or Individual Name _schematic.pdf)</p>
 </div>

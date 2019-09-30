@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/design-the-human-factors-engineering-lab-graphic/
 challenge-id: 1060
-status: open
+status: closed
 sidenav: false
 card-image: /assets/images/cards/NASA_challenge_logo.png
 agency-logo: 717px-NASA_logo.png
@@ -14,12 +14,12 @@ partners-non-federal:
 external-url: https://www.freelancer.com/contest/NASA-Contest-Design-the-Human-Factors-Engineering-Lab-HFEL-Graphic-1559091
 total-prize-offered-cash: $250
 type-of-challenge:  Creative
-submission-start: 2019/08/06 12:00 PM
-submission-end: 2019/09/06 11:59 PM
+submission-start: 08/06/2019 12:00 PM
+submission-end: 09/06/2019 11:59 PM
 submission-link: 
 prizes: false
-Legal Authority: America COMPETES Act
-Fiscal Year: FY19
-Challenge Manager: Jeffrey Doi
-Challenge Manager Email: jeffrey.j.doi@nasa.gov
+legal-authority: America COMPETES Act
+fiscal-year: FY19
+challenge-manager: Jeffrey Doi
+challenge-manager-email: jeffrey.j.doi@nasa.gov
 ---

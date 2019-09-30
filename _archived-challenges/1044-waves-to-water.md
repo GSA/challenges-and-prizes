@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/waves-to-water-prize/
 challenge-id: 1044
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/waves-to-water.png
 agency-logo: 256px-Seal_of_the_United_States_Department_of_Energy.png
@@ -14,14 +14,14 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $2,500,000
 type-of-challenge: Technology demonstration / hardware
-submission-start: 2019/06/13 7:17 PM ET
-submission-end: 2019/09/11 5:00 PM ET
+submission-start: 06/13/2019 7:17 PM ET
+submission-end: 09/11/2019 5:00 PM ET
 submission-link: https://americanmadechallenges.org/wavestowater/ 
 prizes: true
 fiscal-year: FY19-21
 legal-authority: America COMPETES
-challenge-manager: Jennifer Garson
-challenge-manager-email: jennifer.garson@ee.doe.gov 
+challenge-manager: Jennifer Garson, jennifer.garson@ee.doe.gov
+challenge-manager-email: wavestowater@nrel.gov 
 ---
 
 

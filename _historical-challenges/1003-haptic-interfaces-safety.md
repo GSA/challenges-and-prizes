@@ -53,76 +53,68 @@ prizes: true
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<div class="prize-item">
-<h4 class="text-primary">Phase 1 Concept Paper Contest</h4>
-<div class="description">
-<p><span lang="EN">Award is invitation to phase 2.</span></p>
-</div>
-</div>
-
-<div class="prize-item">
-<h4 class="text-primary">Phase 2: Teaming Contest</h4>
-<p class="prize"><strong>$90,000</strong></p>
-<div class="description">
-<p><strong><span lang="EN">Haptic Development Teams:</span></strong><span lang="EN"> $2500; up to 9 haptic development teams</span></p>
-<p><strong><span lang="EN">Haptic Providers:</span></strong><span lang="EN"> $7500 per development team supported; up to 3 haptic providers, each supporting up to 3 development teams (max per Haptic Provider is $22,500)</span></p>
-</div>
-</div>
-
-<div class="prize-item">
-<h4 class="text-primary">Phase 3: Demonstration of Haptic Interface Prototypes in Virtual Reality</h4>
-<p class="prize"><strong>$60,000</strong></p>
-<div class="description">
-<p><strong><span lang="EN">Haptic Development Teams:</span></strong><span lang="EN"> $5000 travel funding to PSCR 2019 Stakeholder Meeting in Chicago, IL.; up to 9 haptic development teams</span></p>
-<p><strong><span lang="EN">Haptic Providers:</span></strong><span lang="EN"> $5000 travel funding to PSCR 2019 Stakeholder Meeting in Chicago, IL.; up to 3 haptic providers</span></p>
-</div>
-</div>
-
-<div class="prize-item">
-<h4 class="text-primary">Phase 4: Evaluation Round 1: Haptic Interface Prototypes in Virtual Reality</h4>
-<p class="prize"><strong>$153,000</strong></p>
-<div class="description">
-<p><span lang="EN"><strong>Haptic Development Teams:</strong> </span></p>
+<p><strong>Overview</strong></p>
+<p>The total prize purse is up to $425,000. For details of prizes, see the "Prizes" section in the&nbsp;<strong>Description</strong>&nbsp;tab.</p>
+<p><strong>Phase 1 &ndash; Concept Paper Prize Winners:</strong></p>
+<p>Congratulations to the Phase 1 winners, of whom received an invitation to Phase 2.</p>
 <ul>
-<li><span lang="EN">$2500; up to 9 haptic development teams</span></li>
+<li>Haptic Development Teams:</li>
+<li>Brilliant Sole, Inc.</li>
+<li>Carnegie Mellon University</li>
+<li>ENGR Dynamics</li>
+<li>Fauxsee Innovations LLC&nbsp;</li>
+<li>IFTech Inventing Future Technology, Inc.</li>
+<li>Team ASA-VR</li>
+<li>Team DSGN</li>
+<li>Team Haply</li>
+<li>Team WEAR Lab</li>
 </ul>
+<p>Haptic Providers:</p>
 <ul>
-<li><span lang="EN">Additional ranked prizes: 1st - $7500, 2nd - $5000, 3rd - $2500</span></li>
+<li>Engineering Acoustics, Inc.</li>
+<li>Contact Control Interfaces</li>
+<li>Janus Research Group, Inc.</li>
 </ul>
+<p><strong>Phase 2 - Teaming Contest Prize Winners: </strong></p>
+<p>Congratulations to the Phase 2 winners!</p>
+<p>Haptic Development Teams: This group of contestants each received $2,500.</p>
 <ul>
-<li><span lang="EN">$4000 travel funding to Phase 5 Firefighter Navigation Course per team; up to 9 haptic development teams</span></li>
+<li>Haptic Development Teams:</li>
+<li>Brilliant Sole, Inc.</li>
+<li>Carnegie Mellon University</li>
+<li>ENGR Dynamics</li>
+<li>IFTech Inventing Future Technology, Inc.</li>
+<li>Team ASA-VR</li>
+<li>Team DSGN</li>
+<li>Team Haply</li>
+<li>Team WEAR Lab</li>
 </ul>
-<p><strong><span lang="EN">Haptic Providers: </span></strong></p>
+<p>Haptic Providers: this group of contestants could receive $7,500 per development team supported; up to 3 haptic providers, each supporting up to 3 development teams (max per Haptic Provider is $22,500).</p>
 <ul>
-<li><span lang="EN">$7500 per development team supported; up to 3 haptic providers, each supporting up to 3 development teams (max per Haptic Provider is $22,500)</span></li>
+<li>Contact Control Interfaces ($15,000)</li>
+<li>Engineering Acoustics, Inc. ($7,500)</li>
+<li>Janus Research Group, Inc. ($22,500)</li>
 </ul>
+<p><strong>Phase 3 - Demonstration of Haptic Interface Prototypes in Virtual Reality Prize Winners:</strong></p>
+<p>Congratulations to the Phase 3 winners, all of whom received $5,000 in travel funding to PSCR 2019 Stakeholder Meeting in Chicago, IL.</p>
+<p>Haptic Development Teams:</p>
 <ul>
-<li><span lang="EN">$4000 travel funding to Phase 5 Firefighter Navigation Course per provider; up to 3 haptic providers</span></li>
+<li>Haptic Development Teams:</li>
+<li>Brilliant Sole, Inc.</li>
+<li>Carnegie Mellon University</li>
+<li>ENGR Dynamics</li>
+<li>IFTech Inventing Future Technology, Inc.</li>
+<li>Team ASA-VR</li>
+<li>Team DSGN</li>
+<li>Team Haply</li>
+<li>Team WEAR Lab</li>
 </ul>
-</div>
-</div>
-
-<div class="prize-item">
-<h4 class="text-primary">Phase 5: Evaluation Round 2: Haptic Interface Prototypes at Firefighter Navigation Course</h4>
-<p class="prize"><strong>$122,000</strong></p>
-<div class="description">
-<p><strong><span lang="EN">Haptic Development Teams: </span></strong></p>
+<p>Haptic Providers:</p>
 <ul>
-<li><span lang="EN">Ranked prizes: 1st - $25000, 2nd - $20000, 3rd - $15000, 4th - $10000, 5th - $7500</span></li>
+<li>Engineering Acoustics, Inc.</li>
+<li>Contact Control Interfaces</li>
+<li>Janus Research Group, Inc.</li>
 </ul>
-<ul>
-<li><span lang="EN">Most Commercially Promising (optional): business technical assistance services valued up to $3500</span></li>
-<li><span lang="EN">Most Creative Interface for Public Safety Requirements (optional): $2500</span></li>
-</ul>
-<p><strong><span lang="EN">Haptic Providers: </span></strong></p>
-<ul>
-<li><span lang="EN">Ranked prizes: 1st - $20000, 2nd - $10000, 3rd - $5000</span></li>
-</ul>
-<ul>
-<li><span lang="EN">Most Commercially Promising (optional): business technical assistance services valued up to $3500</span></li>
-</ul>
-</div>
-</div>
 
 <!-- end-prizes -->
 

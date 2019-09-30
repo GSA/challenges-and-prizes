@@ -18,10 +18,10 @@ submission-start: 2019/07/24 11:00 AM
 submission-end: 2019/08/22 05:00 PM
 submission-link: https://www.fedramp.gov/challenge
 prizes: false
-Legal Authority: NA
-Fiscal Year: FY19
-Challenge Manager: Janelle Thalls
-Challenge Manager Email: janelle.thalls@gsa.gov
+legal-authority: NA
+fiscal-year: FY19
+challenge-manager: Janelle Thalls
+challenge-manager-email: janelle.thalls@gsa.gov
 ---
 
 <!-- Description start -->
