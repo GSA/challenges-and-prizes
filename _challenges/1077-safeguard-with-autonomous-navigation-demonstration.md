@@ -8,7 +8,7 @@ card-image: /assets/images/cards/SAND-Brand-Image341x160.png
 agency-logo: 717px-NASA_logo.png
 challenge-title: Safeguard with Autonomous Navigation Demonstration
 tagline: Help build tomorrow’s airspace, today.
-agency: National Astronautics and Space Administration
+agency: National Aeronautics and Space Administration
 partner-agencies-federal: 
 partners-non-federal: National Institute of Aerospace
 external-url: http://sand2020.nianet.org
