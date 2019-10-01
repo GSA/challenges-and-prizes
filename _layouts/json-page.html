@@ -4,11 +4,12 @@ layout: default
   
     <div class="grid-container">
     <div class="grid-row grid-gap">
-    
-        <div class="desktop:grid-col-9 usa-prose usa-section">  
+        {% include sidenav-json-page.html %}
+        <div class="desktop:grid-col-9 usa-prose usa-section"> 
+            {% include alert-banner-closed-challenge.html %}
             <h1 class="text-primary-dark">{{ page.name }}</h1>
-            <h3 class="text-primary">{{ page.tagline }}</h3>
-            <p>{{ page.groupName }}</p>   
+            <h3 class="text-primary">{{ page.tagline }}</h3> 
+            <h4 class="text-base-dark  desktop-only-display">{{ page.groupName }}</h4> 
             <!-- Start Accordian -->
             <div class="usa-accordion">
                 <h4 class="usa-accordion__heading">
@@ -20,14 +21,16 @@ layout: default
                             <i class="fas fa-money-bill-wave text-accent-warm-dark font-size-mono-xl"></i><span class="text-primary text-uppercase"> Total Cash Prizes Offered: </span> {{ page.total-prize-offered-cash }}<br>
                             {% endif %}
                             <i class="fas fa-stream text-accent-warm-dark"></i><span class="text-primary text-uppercase"> Type of Challenge:</span>  {{ page.type-of-challenge }}</span><br>
-                            {% if page.partner-agencies-federal != "0" %}
+                            {% if page.partner-agencies-federal != "" %}
                             <i class="fas fa-university text-accent-warm-dark font-size-mono-xl"></i><span class="text-primary text-uppercase"> Partner Agencies | Federal:</span> {{ page.partner-agencies-federal }}<br>
                             {% endif %}
                             {% if page.partner-agencies-non-federal != "" %}
                             <i class="fas fa-building text-accent-warm-dark"></i><span class="text-primary text-uppercase">  Partner Agencies | Non-federal:</span> {{ page.partner-agencies-non-federal }}<br>
                             {% endif %}
-                            <i class="fas fa-calendar-alt text-accent-warm-dark"></i><span class="text-primary text-uppercase">  Submission Start:</span> {{ page.submission-start-date }} ET<br>
-                            <i class="fas fa-calendar-times text-accent-warm-dark"></i><span class="text-primary text-uppercase">  Submission End:</span> {{ page.submission-end-date }} ET
+                            {% if page.submission-start != "" %}
+                            <i class="fas fa-calendar-alt text-accent-warm-dark"></i><span class="text-primary text-uppercase">  Submission Start:</span> {{ page.submission-start }} ET<br>
+                            {% endif %}
+                            <i class="fas fa-calendar-times text-accent-warm-dark"></i><span class="text-primary text-uppercase">  Submission End:</span> {{ page.submission-end }} ET
                     </div>
               
                 </div>
@@ -36,79 +39,76 @@ layout: default
 
             <div class="text-base-darker">
                 <!-- Challenge Content start -->
+
+                    <p>
+                    {% if page.external-url  != "" %}
+                    <h3>This challenge is externally hosted.</h3> <p>You can view the challenge details here: <a href="{{page.external-url}}" target="_blank" rel="noopener">{{page.external-url}}</a></p>
+                    </p>
+                    {% endif %}
+
                     <!--Description-->
-                    {% if page.description %}
-                    <h3 class="text-accent-warm-dark font-heading-lg">Description</h3>
+                    {% if page.description != "" %}
+                    <h3 class="text-accent-warm-dark font-heading-lg challenge-section" id="description">Description</h3>
                     {{ page.description }}
                     {% endif %}
 
+                    <!--Winner-->
+                    {% if page.winner-name-0 != "" %}
+                    {% include challenge-winners.html %}
+                    {% endif %}
+
                     <!--Prizes-->
-                    {% if page.prize-name-0 %}
-                    <h3 class="text-accent-warm-dark font-heading-lg">Prizes</h3>
-                    <p>
-                    <strong>{{ page.prize-name-0 }}</strong><br>
-                    Cash Prize Amount: {{ page.prize-cash-amount-0 }}<br>
-                    {{ page.prize-description-0 }}<br>
-                    </p>
+                    {% if page.prize-name-0 != "" %}
+                    {% include challenge-prizes.html %}
                     {% endif %}
-                   
-                    {% if page.prize-name-1 %}
-                    <p>
-                    <strong>{{ page.prize-name-1 }}</strong><br>
-                    Cash Prize Amount: {{ page.prize-cash-amount-1 }}<br>
-                    {{ page.prize-description-1 }}<br>
-                    </p>
-                    {% endif %}
-             
-                    {% if page.prize-name-2 %}
-                    <p>
-                    <strong>{{ page.prize-name-2 }}</strong><br>
-                    Cash Prize Amount: {{ page.prize-cash-amount-2 }}<br>
-                    {{ page.prize-description-2 }}<br>
-                    </p>
-                    {% endif %}
-                  
+                
                     <!--Rules-->
-                    {% if page.rules %}
-                    <h3 class="text-accent-warm-dark font-heading-lg">Rules</h3>
+                    {% if page.rules != "" %}
+                    <h3 class="text-accent-warm-dark font-heading-lg challenge-section" id="rules">Rules</h3>
                     {{ page.rules }}
                     {% endif %}
 
                     <!--Judging Criteria-->
-                    {% if page.judging-criteria-0 %}
-                    <h3 class="text-accent-warm-dark font-heading-lg">Judging Criteria</h3>
+                    {% if page.judging-criteria-0 != "" or page.judging-criteria-description-0 != "" %}
+                    <h3 class="text-accent-warm-dark font-heading-lg challenge-section" id="judging-criteria">Judging Criteria</h3>
                     <p>
+                    {% endif %}
+
+                    {% if page.judging-criteria-0 != "" %}
                     <strong>{{ page.judging-criteria-0 }}</strong><br>
-                    {% if page.judging-percentage-criteria-0 %}
+                    {% endif %}
+                    {% if page.judging-criteria-percentage-0 != "" %}
                     Percentage: {{ page.judging-criteria-percentage-0 }}<br>
                     {% endif %}
+                    {% if page.judging-criteria-description-0 != "" %}
                     {{ page.judging-criteria-description-0 }}<br>
                     </p>
                     {% endif %}
 
-                    {% if page.judging-criteria-1 %}
+                    {% if page.judging-criteria-1 != "" %}
                     <p>
                     <strong>{{ page.judging-criteria-1 }}</strong><br>
-                    {% if page.judging-percentage-criteria-1 %}
+                    {% if page.judging-percentage-criteria-1 != "" %}
                     Percentage: {{ page.judging-criteria-percentage-1 }}<br>
                     {% endif %}
                     {{ page.judging-criteria-description-1 }}<br>
                     </p>
                     {% endif %}
 
-                    {% if page.judging-criteria-2 %}
+                    {% if page.judging-criteria-2 != "" %}
                     <p>
                     <strong>{{ page.judging-criteria-2 }}</strong><br>
-                    {% if page.judging-percentage-criteria-2 %}
+                    {% if page.judging-percentage-criteria-2 != "" %}
                     Percentage: {{ page.judging-criteria-percentage-2 }}<br>
                     {% endif %}
                     {{ page.judging-criteria-description-2 }}<br>
                     </p>
                     {% endif %}
+
                     
                     <!--How To Enter-->
-                    {% if page.how-to-enter %}
-                    <h3 class="text-accent-warm-dark font-heading-lg">How To Enter</h3>
+                    {% if page.how-to-enter != "" %}
+                    <h3 class="text-accent-warm-dark font-heading-lg challenge-section" id="how-to-enter">How To Enter</h3>
                     {{ page.how-to-enter }}
                     {% endif %}
             </div>

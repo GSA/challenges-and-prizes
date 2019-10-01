@@ -1,0 +1,30 @@
+
+<aside class="usa-layout-docs-sidenav desktop:grid-col-3 usa-section">  
+    <div class="">
+    {% include agency-logos-archived-challenge-page.html %}
+    <h3 class="text-base-dark">{{ page.groupName }}</h3>
+    {% if page.hosting contains "Hybrid" or page.hosting contains "Hosted" %}
+    <hr>
+    </div>
+  <nav>
+    <h3 class="text-base-dark">Page Contents</h3>
+    <ul class="usa-sidenav">
+      <li class="usa-sidenav__item">
+        <a class="text-accent-warm-dark" href="#description">Description</a>
+      </li>
+      <li class="usa-sidenav__item">
+        <a href="#prizes">Prizes</a>
+      </li>
+      <li class="usa-sidenav__item">
+        <a href="#rules">Rules</a>
+      </li>
+      <li class="usa-sidenav__item">
+        <a href="#judging-criteria">Judging Criteria</a>
+      </li>
+      <li class="usa-sidenav__item">
+        <a href="#how-to-enter">How To Enter</a>
+      </li>
+    </ul>
+  </nav>
+  {% endif %}
+</aside>

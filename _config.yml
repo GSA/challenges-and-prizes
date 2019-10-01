@@ -51,8 +51,8 @@ primary_navigation:
         url: /toolkit/resources/
       - name: FAQ
         url: /toolkit/faq/
-  - name: Contact
-    url: /contact/
+  - name: Archived Challenges
+    url: /archive/
 
 secondary_navigation:
   - name: Secondary link
@@ -83,9 +83,19 @@ collections:
   archived-challenges:
     output: true
     permalink: /:path/
+  historical-challenges:
+    output: true
+    source: challenges.json
+    id_key: name
+    layout: json-page
 
 permalink: pretty
 
+page_gen:
+  - data: 'historical_challenges'
+    template: 'json-page'
+    name: 'name'
+    dir: 'historical-challenges' 
 
 markdown: kramdown
 plugins:

@@ -1,6 +1,12 @@
 
+<!--re-write to If page.agency-logo then do this-->
+{% if page.agency-logo %}
 <div class="tablet:grid-col">
         <img class="challenge-agency-logo" src="{{ site.baseurl }}/assets/images/agency/{{ page.agency-logo }}" alt="{{ page.agency }} logo" width="225px" title="">
         <h3 class="text-base-dark">{{ page.agency }}</h3>
 </div> 
+{% else %}
 
+{% include agency-logos.html%}
+{% endif %}
+<!--else do this: add in agency logo from agency-logos.html-->

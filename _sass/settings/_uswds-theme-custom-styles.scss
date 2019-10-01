@@ -132,6 +132,27 @@ h3 a {
 	}
 }
 
+//archive listing page styles
+
+.archive-listing-card-logo {
+	float: left; 
+	padding: .7rem; 
+}
+
+@media (min-width: 1024px) {
+	.archive-listing-card-logo {
+		min-height: -webkit-fill-available;
+	}
+  }
+
+  @media (max-width: 1023px) {
+  .archive-listing-card-logo {
+	display: none;
+  }
+}
+
+
+
 // Sidenav
 .usa-layout-docs-sidenav {
 	@include at-media(desktop) {
@@ -151,6 +172,18 @@ h3 a {
 		color: color('base-dark');
 	}
 }
+
+@media (max-width: 1024px) {
+	.usa-layout-docs-sidenav {
+	  display: none;
+	}
+  }
+
+  @media (min-width: 1024px) {
+	.desktop-only-display {
+	  display: none;
+	}
+  }
 
 
 // Challenge details main section

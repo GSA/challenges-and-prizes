@@ -6,11 +6,13 @@ permalink: json-page
     <div class="grid-container">
     <div class="grid-row grid-gap">
     {% include sidenav-front-matter-data.html %}
-
-
-        <div class="desktop:grid-col-9 usa-prose usa-section challenge-main">  
+        <div class="desktop:grid-col-9 usa-prose usa-section challenge-main">
+            {% if page.status == "closed" %}
+            {% include alert-banner-closed-challenge.html %}
+            {% endif %}  
             <h1 class="text-primary-dark">{{ page.challenge-title }}</h1>
             <h3 class="text-primary">{{ page.tagline }}</h3>
+            <h4 class="text-base-dark  desktop-only-display">{{ page.agency }}</h4> 
             <!-- Start Accordion -->
             <div class="usa-accordion">
                 <h4 class="usa-accordion__heading">
@@ -28,10 +30,17 @@ permalink: json-page
                             {% if page.partners-non-federal  %}
                             <i class="fas fa-building text-accent-warm-dark"></i><span class="text-primary text-uppercase">  Partner Agencies | Non-federal:</span> {{ page.partners-non-federal }}<br>
                             {% endif %}
-                            {% if page.submission-start  %}
-                            <i class="fas fa-calendar-alt text-accent-warm-dark"></i><span class="text-primary text-uppercase">  Submission Start:</span> {{ page.submission-start | date: "%m/%d/%Y %I:%M %p" }} ET<br>
+                            {% if page.status == "open"  %}
+                                {% if page.submission-start  %}
+                                <i class="fas fa-calendar-alt text-accent-warm-dark"></i><span class="text-primary text-uppercase">  Submission Start:</span> {{ page.submission-start | date: "%m/%d/%Y %I:%M %p" }} ET<br>
+                                {% endif %}
+                                <i class="fas fa-calendar-times text-accent-warm-dark"></i><span class="text-primary text-uppercase">  Submission End:</span> {{ page.submission-end | date: "%m/%d/%Y %I:%M %p" }} ET
+                            {% elsif page.status == "closed" %}
+                                {% if page.submission-start  %}
+                                <i class="fas fa-calendar-alt text-accent-warm-dark"></i><span class="text-primary text-uppercase">  Submission Start:</span> {{ page.submission-start }} ET<br>
+                                {% endif %}
+                                <i class="fas fa-calendar-times text-accent-warm-dark"></i><span class="text-primary text-uppercase">  Submission End:</span> {{ page.submission-end }} ET
                             {% endif %}
-                            <i class="fas fa-calendar-times text-accent-warm-dark"></i><span class="text-primary text-uppercase">  Submission End:</span> {{ page.submission-end | date: "%m/%d/%Y %I:%M %p" }} ET
                     </div>
               
                 </div>

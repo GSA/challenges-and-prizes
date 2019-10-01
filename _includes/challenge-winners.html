@@ -1,0 +1,35 @@
+<h3 class="text-accent-warm-dark font-heading-lg">Winner</h3>
+
+<p>
+<strong>{{ page.winner-name-0 }}</strong><br>
+{% if page.winner-solution-description-0 != "" %}
+{{ page.winner-solution-description-0 }}<br>
+{% endif %}
+{% if page.winner-solution-link-0 != "" %}
+{{ page.winner-solution-link-0 }}<br>
+{% endif %}
+
+{% if page.winner-name-1 != "" %}
+<p>
+<strong>{{ page.winner-name-1 }}</strong><br>
+{% if page.winner-solution-description-1 != "" %}
+{{ page.winner-solution-description-1 }}<br>
+{% endif %}
+{% if page.winner-solution-link-1 != "" %}
+{{ page.winner-solution-link-1 }}<br>
+{% endif %}
+</p>
+{% endif %}
+
+
+{% if page.winner-name-2 != "" %}
+<p>
+<strong>{{ page.winner-name-2 }}</strong><br>
+{% if page.winner-solution-description-2 != "" %}
+{{ page.winner-solution-description-2 }}<br>
+{% endif %}
+{% if page.winner-solution-link-2 != "" %}
+{{ page.winner-solution-link-2 }}<br>
+{% endif %}
+</p>
+{% endif %}
