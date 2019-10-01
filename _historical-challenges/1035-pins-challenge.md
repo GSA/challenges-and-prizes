@@ -8,7 +8,7 @@ card-image: /assets/images/cards/PinsLogo.jpg
 agency-logo: 200px-Intelligence_Advanced_Research_Projects_Activity_logo.png
 challenge-title: PINS Challenge
 tagline: Can you characterize the ionosphere with selected digitized radio-frequency (RF) spectrum  recordings from sounder receiver data?
-agency: Office of Director of National Intelligence - Intelligence Advanced Research Projects Activity
+agency: Office of Director of National Intelligence - Intelligence Advanced Research Project Activity
 partner-agencies-federal: 
 partners-non-federal: 
 external-url: https://www.iarpa.gov/challenges/pins.html
