@@ -14,8 +14,8 @@ partners-non-federal: National Renewable Energy Laboratory
 external-url: 
 total-prize-offered-cash: $0
 type-of-challenge: Ideas
-submission-start: 04/01/2019 10 a.m. ET
-submission-end: 09/12/2019 5 p.m. ET
+submission-start: 04/01/2019 10:00 AM
+submission-end: 09/12/2019 5:00 PM
 submission-link: http://www.energy.gov/solardistrictcup 
 prizes: true
 fiscal-year: FY19-20
