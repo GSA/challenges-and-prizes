@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/nasa-vascular-tissue-challenge/
 challenge-id: 48
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/VTC-logo-rectangle-.png
 agency-logo: 717px-NASA_logo.png

@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/artificial-intelligence-applications-to-autonomous-cybersecurity-challenge/
 challenge-id: 1045
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/AITAC.png
 agency-logo: dod_seal.jpg

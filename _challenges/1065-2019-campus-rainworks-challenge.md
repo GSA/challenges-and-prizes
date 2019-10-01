@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/2019-campus-rainworks-challenge/
 challenge-id: 1065
-status: open
+status: closed
 sidenav: false
 card-image: /assets/images/cards/Campus_works_logo.png
 agency-logo: 256px-Environmental_Protection_Agency_logo.png
