@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash:
 type-of-challenge:  Scientific
-submission-start: 2019/06/20 09:00 AM
-submission-end: 2019/08/28 04:59 PM
+submission-start: 06/20/2019 09:00 AM
+submission-end: 08/28/2019 04:59 PM
 submission-link: www.MagQuest.com
 prizes: true
 legal-authority: Procurement Authority

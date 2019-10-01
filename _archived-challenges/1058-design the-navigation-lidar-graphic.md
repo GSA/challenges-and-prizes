@@ -14,8 +14,8 @@ partners-non-federal:
 external-url: https://www.freelancer.com/contest/NASA-Contest-Design-the-Navigation-Doppler-Lidar-NDL-Graphic-1554944
 total-prize-offered-cash: $250
 type-of-challenge:  Creative
-submission-start: 2019/08/02 08:00 AM
-submission-end: 2019/08/16 11:59 PM
+submission-start: 08/02/2019 08:00 AM
+submission-end: 08/16/2019 11:59 PM
 submission-link: 
 prizes: false
 legal-authority: America COMPETES Act
