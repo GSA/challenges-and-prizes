@@ -11,7 +11,7 @@ tagline: Help build tomorrow’s airspace, today.
 agency: National Astronautics and Space Administration
 partner-agencies-federal: 
 partners-non-federal: National Institute of Aerospace
-external-url: sand2020.nianet.org
+external-url: http://sand2020.nianet.org
 total-prize-offered-cash:
 type-of-challenge: Technology demonstration
 submission-start: 2019/09/23 5:00 p.m. ET
