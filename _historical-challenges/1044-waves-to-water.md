@@ -18,7 +18,7 @@ submission-start: 06/13/2019 7:17 PM
 submission-end: 09/11/2019 5:00 PM 
 submission-link: https://americanmadechallenges.org/wavestowater/ 
 prizes: true
-fiscal-year: FY19-21
+fiscal-year: FY19, FY20, FY21
 legal-authority: America COMPETES
 challenge-manager: Jennifer Garson, jennifer.garson@ee.doe.gov
 challenge-manager-email: wavestowater@nrel.gov 
