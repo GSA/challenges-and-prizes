@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $2,500,000
 type-of-challenge: Technology demonstration / hardware
-submission-start: 06/13/2019 7:17 PM ET
-submission-end: 09/11/2019 5:00 PM ET
+submission-start: 06/13/2019 7:17 PM 
+submission-end: 09/11/2019 5:00 PM 
 submission-link: https://americanmadechallenges.org/wavestowater/ 
 prizes: true
 fiscal-year: FY19-21
