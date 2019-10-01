@@ -15,10 +15,10 @@ external-url:
 total-prize-offered-cash: $1,000,000
 type-of-challenge: technology demonstration
 submission-start: 05/23/2019 12:00 AM
-submission-end: 2019/09/23 11:59 PM
+submission-end: 09/23/2019 11:59 PM
 submission-link: http://www.navair.navy.mil/muxchallenge 
 prizes: true
-fiscal-year: FY19-20
+fiscal-year: FY19, FY20
 legal-authority: Other Transaction Authority
 challenge-manager: Sean McManus
 challenge-manager-email: sean.t.mcmanus@navy.mil

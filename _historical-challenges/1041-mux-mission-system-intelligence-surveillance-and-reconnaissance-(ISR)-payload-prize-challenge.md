@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $1,000,000
 type-of-challenge:  Technology demonstration and hardware
-submission-start: 05/22/19
-submission-end:  2019/09/23 11:59 PM
+submission-start: 05/22/2019
+submission-end:  09/23/2019 11:59 PM
 submission-link:  
 prizes: true
 fiscal-year:

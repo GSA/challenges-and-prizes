@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash: $500,000
 type-of-challenge: Scientific
 submission-start: 2016/06/13 12:00 AM
-submission-end: 2019/09/30 11:00 PM
+submission-end: 09/30/2019 11:00 PM
 submission-link: scientific
 prizes: true
 fiscal-year:

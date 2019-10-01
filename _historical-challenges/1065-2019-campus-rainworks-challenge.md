@@ -14,8 +14,8 @@ partners-non-federal:
 external-url: https://www.epa.gov/campusrainworks
 total-prize-offered-cash:
 type-of-challenge: Creative (multimedia and design); Ideas; Technology demonstration and hardware; Scientific
-submission-start: 2019/09/01 12:00 AM
-submission-end: 2019/09/30 11:59 PM
+submission-start: 09/01/2019 12:00 AM
+submission-end: 09/30/2019 11:59 PM
 submission-link: 
 prizes: true
 fiscal-year: FY19, FY20
