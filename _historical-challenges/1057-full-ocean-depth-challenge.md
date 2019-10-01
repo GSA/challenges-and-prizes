@@ -18,7 +18,7 @@ submission-start: 08/12/2019 2:00 PM ET
 submission-end: 09/12/2019 2:00 PM ET
 submission-link:  
 prizes: true
-fiscal-year: FY19-20
+fiscal-year: FY19, FY20
 legal-authority: America COMPETES
 challenge-manager: Christopher Hebert
 challenge-manager-email: christopher.r.hebert@navy.mil
