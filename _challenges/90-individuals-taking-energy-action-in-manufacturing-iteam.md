@@ -20,8 +20,8 @@ submission-link:
 prizes: true
 fiscal-year: FY19-20
 legal-authority: America COMPETES
-challenge-manager: Tertia Speiser
-challenge-manager-email: Tertia.Speiser@ee.doe.gov
+challenge-manager: Tertia Speiser, Tertia.Speiser@ee.doe.gov
+challenge-manager-email: ITEAM@nrel.gov
 ---
 
 
@@ -84,7 +84,7 @@ challenge-manager-email: Tertia.Speiser@ee.doe.gov
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="description">
-        <p>Read the full competition <a href="{{ site.baseurl }}/assets/document-library/ITEAM-Prize-Competition-Rules-Document.pdf" target="_blank" rel="noopener">rules document</a>.</p>
+        <p>Read the full competition <a href="https://americanmadechallenges.org/iteam/ITEAM_Prize_Competition_Rules.pdf" target="_blank" rel="noopener">rules document</a>.</p>
       </div>
       
 <!-- Judging start -->
@@ -117,5 +117,5 @@ challenge-manager-email: Tertia.Speiser@ee.doe.gov
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="description">
-        <p>Before submitting, please familiarize yourself with the <a href="/assets/document-library/ITEAM-Prize-Competition-Rules-Document.pdf">full rules and guidelines for this competition</a>. By submitting, you are agreeing to the terms and conditions defined in that rules document.</p>
-<p><strong>Send submissions to&nbsp;<a href="mailto:iteamprize@ee.doe.gov" target="_blank" rel="noopener">iteamprize@ee.doe.gov.</a></strong></p>
+        <p>Before submitting, please familiarize yourself with the <a href="https://americanmadechallenges.org/iteam/ITEAM_Prize_Competition_Rules.pdf">full rules and guidelines for this competition</a>. By submitting, you are agreeing to the terms and conditions defined in that rules document.</p>
+<p><strong>Submit entries at<a href="https://americanmadechallenges.org/iteam/" target="_blank" rel="noopener">https://americanmadechallenges.org/iteam/.</a></strong></p>
