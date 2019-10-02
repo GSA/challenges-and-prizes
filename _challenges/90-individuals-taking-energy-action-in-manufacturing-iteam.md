@@ -118,4 +118,4 @@ challenge-manager-email: ITEAM@nrel.gov
 
 <div class="description">
         <p>Before submitting, please familiarize yourself with the <a href="https://americanmadechallenges.org/iteam/ITEAM_Prize_Competition_Rules.pdf">full rules and guidelines for this competition</a>. By submitting, you are agreeing to the terms and conditions defined in that rules document.</p>
-<p><strong>Submit entries at<a href="https://americanmadechallenges.org/iteam/" target="_blank" rel="noopener">https://americanmadechallenges.org/iteam/.</a></strong></p>
+<p><strong>Submit entries at <a href="https://americanmadechallenges.org/iteam/" target="_blank" rel="noopener">https://americanmadechallenges.org/iteam/.</a></strong></p>
