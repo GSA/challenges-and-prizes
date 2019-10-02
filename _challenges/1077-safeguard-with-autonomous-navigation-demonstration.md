@@ -3,8 +3,8 @@ layout: front-matter-data
 permalink: /challenge/NASA-sand-challenge
 challenge-id: 1077
 status: open
-sidenav: true
-card-image: /assets/images/cards/SAND-Brand-Image341x160.png
+sidenav: false 
+card-image: /assets/images/agency/717px-NASA_logo.png
 agency-logo: 717px-NASA_logo.png
 challenge-title: Safeguard with Autonomous Navigation Demonstration
 tagline: Help build tomorrow’s airspace, today.
