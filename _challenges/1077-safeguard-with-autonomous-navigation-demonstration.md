@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenge/NASA-sand-challenge
+permalink: /challenge/NASA-sand-challenge/
 challenge-id: 1077
 status: open
 sidenav: false 
