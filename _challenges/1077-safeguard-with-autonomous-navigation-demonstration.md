@@ -16,7 +16,7 @@ total-prize-offered-cash:
 type-of-challenge: Technology demonstration
 submission-start: 2019/09/23 5:00 p.m. ET
 submission-end: 2019/11/01 11:59 p.m. ET
-submission-link:  
+submission-link: http://sand2020.nianet.org 
 prizes: true
 fiscal-year: FY20
 legal-authority: America COMPETES
