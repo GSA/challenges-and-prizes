@@ -2,20 +2,20 @@
 layout: front-matter-data
 permalink: /challenge/find-the-killer-frog-fungus/
 challenge-id: 49
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/frogfungus_test.jpg
 agency-logo: DOI_logo.png
 challenge-title: Find the Killer Frog Fungus
 tagline: Help detect two globally emerging fungi and reverse the threat of global amphibian declines and extinction
-agency: Department of the Interior - Department-Wide Programs
+agency: Department of the Interior 
 partner-agencies-federal: 
 partners-non-federal: U.S. National Invasive Species Council Secretariate, Conservation X Labs
 external-url:
 total-prize-offered-cash: 
 type-of-challenge: Creative (design & multimedia)
-submission-start: 2018/06/12 12:00 AM
-submission-end: 2019/10/01 12:00 AM
+submission-start: 06/12/2018 12:00 AM
+submission-end: 10/01/2019 12:00 AM
 submission-link:  https://conservationx.com/challenge/invasives/chytrid
 prizes: true
 fiscal-year: FY18, FY19, FY20
