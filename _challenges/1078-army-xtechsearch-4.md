@@ -122,7 +122,5 @@ challenge-manager-email: usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil
 </ul>
 <p>Register here:</p>
 <p><a href="https://www.arl.army.mil/xtechsearch/">https://www.arl.army.mil/xtechsearch/</a></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>Army Focus Areas</strong></p>
 <p>xTechSearch seeks novel, disruptive concepts and technologies to support the top Army Modernization Priorities, Army Medical Technologies, Military Engineering Technologies, as well as other critical technology focus areas within the Army Research and Technology portfolio that can provide technology overmatch or enable cost savings throughout the Army systems&rsquo; life cycle.&nbsp; See Army Focus Areas document on the registration page for a list of the top Army Modernization Priorities and other critical Army Focus Areas.&nbsp;&nbsp;&nbsp; &nbsp;</p>
