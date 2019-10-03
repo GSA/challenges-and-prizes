@@ -30,6 +30,10 @@ challenge-manager-email: usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil
 ### Description
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<p>The Assistant Secretary of the Army for Acquisition, Logistics and Technology (ASA(ALT)) is announcing the fourth cohort of the Army Expeditionary Technology Search &ndash; <a href="https://www.arl.army.mil/xtechsearch/" target="_blank" rel="noopener">xTechSearch</a> &ndash; to be featured at the Association of the United States Army (AUSA) Annual Meeting in Washington, DC from on 12 to 14 October 2020. xTechSearch will highlight opportunities for small businesses to collaborate with the Army to tackle the most critical Army modernization challenges.</p>
+<p>The ASA(ALT) recognizes that the Army must enhance engagements with the small businesses, by: (1) understanding the spectrum of technologies being developed commercially that may benefit the Army; (2) integrating the sector of small business innovators into the Army&rsquo;s Science and Technology (S&amp;T) ecosystem; and (3) providing mentorship and expertise to accelerate, mature, and transition technologies of interest to the Army.</p>
+<p>The Army xTechSearch program will provide non-dilutive seed prizes to select small businesses to demonstrate proof of concept of their dual-use technologies pertaining to Army challenges.&nbsp; The program will also drive to integrate these small businesses into the Army&rsquo;s S&amp;T ecosystem by providing research opportunities with Army labs, including authorized access to the Army&rsquo;s organic intellectual and technical capital.&nbsp; Participating companies will have access to training, mentorship and other support infrastructure as they progress through the contest. The goal will be to best align solutions with real users and buyers within the Army.&nbsp; xTechSearch is an opportunity for businesses to pitch novel technology solutions &ndash; a new application for an existing technology or a new technology concept entirely &ndash; to the Army.&nbsp;</p>
+<p>The authority of this program is 15 United States Code (USC) &sect;3719.&nbsp;</p>
 
 <!-- Prizes start -->
 ### Prizes
