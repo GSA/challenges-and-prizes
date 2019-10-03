@@ -13,7 +13,7 @@ partner-agencies-federal:
 partners-non-federal: 
 external-url:
 total-prize-offered-cash: $2,280,000
-type-of-challenge: 
+type-of-challenge: Ideas, Technology demonstration and hardware
 submission-start: 2019/10/01
 submission-end: 2019/11/12 02:59 AM
 submission-link:  
@@ -39,6 +39,16 @@ challenge-manager-email: usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<h4>Phase I: Concept White Paper</h4>
+<p>Up to 48 winners will receive $5,000 and be selected for Phase II.</p>
+<h4>Phase II: xTechSearch Technology Pitches</h4>
+<p>Up to 24 winners will receive $10,000 each and be selected for Phase III.</p>
+<h4>Phase III: Innovators' Corner</h4>
+<p>Up to 12 winners will receive $120,000 and be selected for Phase IV.</p>
+<h4>Phase IV: xTechSearch Capstone Demonstration</h4>
+<p>Up to 12 winners will receive prizes.</p>
+<p>1st Place: $250,000</p>
+<p>2nd-12th Place: $10,000</p>
 
 <!-- Rules start -->
 ### Rules 
