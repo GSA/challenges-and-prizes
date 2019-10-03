@@ -4,7 +4,7 @@ permalink: /challenge/army-xtechsearch-4/
 challenge-id: 1078
 status: open
 sidenav: true
-card-image: /assets/images/cards/challenge-gov.png
+card-image: /assets/images/cards/xtechsearch_4.png
 agency-logo: dod_seal.jpg
 challenge-title: Army Expeditionary Technology Search (xTechSearch) 4.0
 tagline: xTechSearch will highlight opportunities for small businesses to collaborate with the Army to tackle the most critical Army modernization challenges.
