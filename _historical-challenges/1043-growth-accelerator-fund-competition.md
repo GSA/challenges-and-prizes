@@ -46,12 +46,10 @@ challenge-manager-email: steven.becker@nih.gov
 <p style="padding-left: 30px;"><span lang="EN">- The second payment, the remaining 20 percent ($10,000), will be disbursed after a winner submits a written Assessment to be provided by SBA.&nbsp; The Assessment must be submitted to SBA no earlier than nine (9) months and no later than 12 months after a winner receives its first prize payment.</span></p>
 <p style="padding-left: 30px;"><span lang="EN">- The written Assessment will include, but is not limited to, a brief evaluation of the outcomes and outputs of the Growth Accelerator&rsquo;s activities as measured by the metrics outlined in the Accelerator&rsquo;s Competition application (see Item 2), a summary of any lessons learned and best practices, and suggestions for any improvements to the design or implementation of similar competitions in the future. The written Assessments, or portions thereof, may be made public.</span></p>
 <p><span lang="EN">Additional Requirements for Winners:</span></p>
-<p style="padding-left: 30px;"><span lang="EN">- Create an account in the System for Award Management (SAM). This will include sharing bank account information with the SBA so funds can be transmitted electronically.&nbsp; Paperwork and system's credentials should be established prior to receipt of the award.</span></p>
-<p style="padding-left: 30px;"><span lang="EN">- Add SBA Powered By decal to web site as recognized funder</span></p>
-<p style="padding-left: 30px;"><span lang="EN">- Announce winning prize via social media with recognition of SBA, #sbaaccelerates</span></p>
-<p style="padding-left: 30px;"><span lang="EN">- Make themselves available to provide success stories</span></p>
-<p style="padding-left: 30px;"><span lang="EN">- Allow for SBA participation in Demo Days and other events</span></p>
-<p><span lang="EN">If SBA hosts or co-hosts an event for winners in Washington, D.C., the winner may use a portion of the award to pay for travel expenses that are reasonable and economically prudent.&nbsp; The travel expenses may equal costs for one person to travel from the Accelerator&rsquo;s location to Washington, D.C. to attend one event for two days.</span></p>
+<p style="padding-left: 30px;">- Create an account in the System for Award Management (SAM). This will include sharing bank account information with the SBA so funds can be transmitted electronically.&nbsp; Paperwork and system's credentials should be established prior to receipt of the award.</p>
+<p style="padding-left: 30px;">- Make themselves available to provide success stories</p>
+<p style="padding-left: 30px;">- Allow for SBA participation in Demo Days and other events</p>
+<p style="padding-left: 30px;">- If SBA hosts or co-hosts an event for winners in Washington, D.C., the winner may use a portion of the award to pay for travel expenses that are reasonable and economically prudent.&nbsp; The travel expenses may equal costs for one person to travel from the Accelerator&rsquo;s location to Washington, D.C. to attend one event for two days.</p>
 
 <!-- Rules start -->
 ### Rules 
