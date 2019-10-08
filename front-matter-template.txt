@@ -1,27 +1,27 @@
 ---
 layout: front-matter-data
 permalink: /challenge/title-goes-here/
-challenge-id: 
+challenge-id:
 status: open
-sidenav: true
+sidenav: true (false for challenges that are only external)
 card-image: /assets/images/cards/challenge-gov.png
-agency-logo: 
-challenge-title: 
-tagline: 
-agency: 
-partner-agencies-federal: 
-partners-non-federal: 
+agency-logo:
+challenge-title:
+tagline:
+agency:
+partner-agencies-federal:
+partners-non-federal:
 external-url:
 total-prize-offered-cash:
-type-of-challenge: 
-submission-start: 
-submission-end: 
-submission-link:  
+type-of-challenge:
+submission-start: (do NOT add ET for the time zone)
+submission-end: (do NOT add ET for the time zone)
+submission-link:
 prizes: true
-fiscal-year:
+fiscal-year: (formatted as FY19, FY20, FY21 etc...)
 legal-authority:
 challenge-manager:
-challenge-manager-email:
+challenge-manager-email: (will display in the Point of Contact field)
 ---
 
 
