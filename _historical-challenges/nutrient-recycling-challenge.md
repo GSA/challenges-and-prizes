@@ -73,12 +73,7 @@ hide-challenge-funnel: 'Yes'
 type-of-challenge: Ideas
 participation-requirements: ''
 number-of-phases: ''
-how-to-enter: "<p><span>The submissions period for Phase I
-  of the Nutrient Recycling Challenge closed on January 15, 2016. Phase II will
-  begin in October 2016, and will be limited to the 34 innovator teams selected
-  to proceed from Phase I. </span></p>\r\n<img class=\"aligncenter wp-image-96651\"
-  src=\"https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/10/Sustainability_005-300x199.jpg\"
-  alt=\"Photo of a light bulb\" width=\"468\" height=\"310\" />\r\n\r\n&nbsp;"
+how-to-enter: ''
 partnerships: ''
 groupAttributes:
 judging-criteria-description-0: ''
@@ -256,12 +251,8 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: '<p><strong>Plans for Phase
-  II </strong></p>  <p>Phase II of the Nutrient Recycling
-  Challenge will be a non-competitive incubation program beginning in October 2016,
-  in which the 34 teams selected from Phase I will develop Technology Designs based
-  on the Concept Papers they submitted.</p>  <p>Click
-  here to view:</p>  <p><a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/10/NutrientRecyclingChallenge-Phase-II-Ancmnt_Factsheet_Nov2016_508.pdf"
+description: '<p>The Nutrient Recycling Challenge was a prize competition that EPA launched in 2015 in collaboration with 20 organizations to spur development of affordable technologies that recover nitrogen and phosphorus from dairy and/or swine manure and create value-added products that producers can use or sell. In 2019, the EPA signed a <a href="https://www.epa.gov/npdes/animal-feeding-operations-afos#technology" target="blank" rel="noopener">Memorandum of Understanding (MOU)</a> with the Water Research Foundation (WRF) to build on the successes of Phases I and II by focusing on building capacity for technology evaluation programs and peer-to-peer information sharing about technology performance.</p>
+  <p><a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/10/NutrientRecyclingChallenge-Phase-II-Ancmnt_Factsheet_Nov2016_508.pdf"
   target="_blank">Nutrient Recycling Challenge Phase II Announcement Factsheet (Nov.
   2016</a>)</p>  <p><a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/10/Nutrient-Recycling-Challenge-Phase-II-Ancmnt_FAQ_10-04-2016.508-Final.pdf"
   target="_blank">Nutrient Recycling Challenge Phase II FAQs (Oct 2016</a>)</p>  <a
