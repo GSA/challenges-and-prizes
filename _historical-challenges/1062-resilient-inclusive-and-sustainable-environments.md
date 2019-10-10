@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/resilient-inclusive-and-sustainable-environments/
 challenge-id: 1062
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/RISE_card.png
 agency-logo: USAID_logo.png
@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $1,200,000
 type-of-challenge: Ideas; Business plans
-submission-start: 2019/08/15 3:00 PM
-submission-end: 2019/10/08  11:00 AM
+submission-start: 08/15/2019 3:00 PM
+submission-end: 10/08/2019  11:00 AM
 submission-link:  
 prizes: true
 fiscal-year: FY18, FY19

@@ -32,6 +32,9 @@ prizes: true
 <div style="mso-element: footnote-list;"><!-- [if !supportFootnotes]--><br clear="all" /><hr align="left" size="1" width="33%" /><!--[endif]-->
 <div id="ftn1" style="mso-element: footnote;">
 <p class="MsoFootnoteText"><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><!-- [if !supportFootnotes]--><sup><span class="MsoFootnoteReference"><span style="line-height: 115%; font-family: Cambria, serif;">[1]</span></span></sup><!--[endif]--></span></span><em style="mso-bidi-font-style: normal;"><span style="font-size: 9.0pt; font-family: 'Calibri',sans-serif; mso-bidi-font-family: Calibri;">Healthy People 2020 </span></em><span style="font-size: 9.0pt; font-family: 'Calibri',sans-serif; mso-bidi-font-family: Calibri;">defines social determinants of health as the c<span style="color: #333333;">onditions in the </span></span><span lang="EN" style="font-size: 9.0pt; font-family: 'Calibri',sans-serif; mso-bidi-font-family: Calibri; mso-ansi-language: EN;">environments in which people are born, live, learn, work, play, worship, and age that affect a wide range of health, functioning, and quality-of-life outcomes and risks. Conditions (e.g., social, economic, and physical) in these various environments and settings (e.g., school, church, workplace, and neighborhood) have been referred to as &ldquo;place.&rdquo; In addition to the more material attributes of &ldquo;place,&rdquo; the patterns of social engagement and sense of security and well-being are also affected by where people live. Resources that enhance quality of life can have a significant influence on population health outcomes. Examples of these resources include safe and affordable housing, access to education, public safety, availability of healthy foods, local emergency/health services, and environments free of life-threatening toxins.</span></p>
+</div>
+</div>
+
 
 <!-- Prizes start -->
 ### Prizes
