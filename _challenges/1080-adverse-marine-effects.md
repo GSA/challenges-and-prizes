@@ -4,7 +4,7 @@ permalink: /challenge/adverse-marine-effects/
 challenge-id: 1080
 status: open
 sidenav: true
-card-image: /assets/images/cards/self-healing-logo.png
+card-image: /assets/images/cards/Full-Ocean-Depth-challenge.jpg
 agency-logo: dod_seal.jpg
 challenge-title: Adverse Marine Effects
 tagline: The Navy is seeking ideas and best practices in mitigating adverse marine effects on composite materials.
