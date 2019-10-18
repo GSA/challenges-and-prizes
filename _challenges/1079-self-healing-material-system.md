@@ -3,8 +3,8 @@ layout: front-matter-data
 permalink: /challenge/self-healing-material-system/
 challenge-id: 1079
 status: open
-sidenav: true (false for challenges that are only external)
-card-image: /assets/images/cards/challenge-gov.png
+sidenav: true
+card-image: /assets/images/cards/self-healing-logo.png
 agency-logo: dod_seal.jpg
 challenge-title: Self-Healing Material System
 tagline: The Navy is seeking ideas and best practices in developing a self-healing material system for composite structures and/or vehicles.
@@ -13,12 +13,12 @@ partner-agencies-federal: Naval Undersea Warfare Center Division Newport, Office
 partners-non-federal:
 external-url:
 total-prize-offered-cash:
-type-of-challenge:
+type-of-challenge: Ideas; Technology demonstration and hardware; Scientific
 submission-start: 2019/10/25 02:00 PM 
 submission-end: 2019/11/05 02:00 PM 
 submission-link:
 prizes: true
-fiscal-year: (formatted as FY19, FY20, FY21 etc...)
+fiscal-year: FY20
 legal-authority: America COMPETES
 challenge-manager: Christopher Hebert
 challenge-manager-email: christopher.r.hebert@navy.mil
