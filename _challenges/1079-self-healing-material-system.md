@@ -119,6 +119,224 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 <li>Shall be suitable for submerged pressures, ocean depths, and sustained long term deployment</li>
 <li>Shall not require maintenance on a recurring basis</li>
 </ul>
+<p>In Phase II, companies will be evaluated by the review panel on a scale of 0-25 points (25 being the highest). The evaluation criteria is provided below:</p>
+<table width="0">
+<tbody>
+<tr>
+<td colspan="3" width="335">
+<p>Company/Topic #:</p>
+</td>
+<td colspan="5" width="319">
+<p>Date:</p>
+</td>
+</tr>
+<tr>
+<td colspan="8" width="654">
+<p>Team or Company Name / Brief Description:</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="335">
+<p>INVESTMENT CRITERIA</p>
+</td>
+<td colspan="5" width="319">
+<p>BETTER SCORE&nbsp; &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p>
+</td>
+</tr>
+<tr>
+<td width="121">
+<p>Criteria</p>
+</td>
+<td colspan="2" width="214">
+<p>Description</p>
+</td>
+<td colspan="5" width="319">
+<p>Low Score&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Average&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; High Score</p>
+</td>
+</tr>
+<tr>
+<td width="121">
+<p>Technical Approach</p>
+</td>
+<td colspan="2" width="214">
+<p>Realistic, viable and feasible technology/approach to be completed in 6 months</p>
+</td>
+<td width="64">
+<p>1</p>
+</td>
+<td width="64">
+<p>2</p>
+</td>
+<td width="64">
+<p>3</p>
+</td>
+<td width="64">
+<p>4</p>
+</td>
+<td width="64">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td colspan="8" width="654">
+<p>Comments / Notes:</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="121">
+<p>Team Background and Capabilities</p>
+</td>
+<td colspan="2" width="214">
+<p>&nbsp;Team proposed has knowledge and capacity to complete proposed work</p>
+</td>
+<td width="64">
+<p>1</p>
+</td>
+<td width="64">
+<p>2</p>
+</td>
+<td width="64">
+<p>3</p>
+</td>
+<td width="64">
+<p>4</p>
+</td>
+<td width="64">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td colspan="8" width="654">
+<p>Comments / Notes:</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="121">
+<p>Proposal&nbsp; Fitness</p>
+</td>
+<td colspan="2" width="214">
+<p>Proposal outcomes/deliverables answer the topic challenge and there is a path to a prototype</p>
+</td>
+<td width="64">
+<p>1</p>
+</td>
+<td width="64">
+<p>2</p>
+</td>
+<td width="64">
+<p>3</p>
+</td>
+<td width="64">
+<p>4</p>
+</td>
+<td width="64">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td colspan="8" width="654">
+<p>Comments / Notes:</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="121">
+<p>Risk Reduction</p>
+</td>
+<td colspan="2" width="214">
+<p>Risks/mitigation strategies acceptable</p>
+</td>
+<td width="64">
+<p>1</p>
+</td>
+<td width="64">
+<p>2</p>
+</td>
+<td width="64">
+<p>3</p>
+</td>
+<td width="64">
+<p>4</p>
+</td>
+<td width="64">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td colspan="8" width="654">
+<p>Comments / Notes:</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="121">
+<p>Understanding</p>
+</td>
+<td colspan="2" width="214">
+<p>Proposer understands the stakeholders and beneficiaries</p>
+</td>
+<td width="64">
+<p>1</p>
+</td>
+<td width="64">
+<p>2</p>
+</td>
+<td width="64">
+<p>3</p>
+</td>
+<td width="64">
+<p>4</p>
+</td>
+<td width="64">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td colspan="8" width="654">
+<p>Comments / Notes:</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="229">
+<p>Worst Score: 5 Criteria x 1 = 5</p>
+<p>Avg. Score:&nbsp;&nbsp; 5 Criteria x 3 = 15</p>
+<p>Best Score:&nbsp;&nbsp; 5 Criteria x 5 = 25</p>
+</td>
+<td colspan="6" width="425">
+<p>Total Score:</p>
+</td>
+</tr>
+<tr>
+<td width="152">&nbsp;</td>
+<td width="135">&nbsp;</td>
+<td width="132">&nbsp;</td>
+<td width="80">&nbsp;</td>
+<td width="80">&nbsp;</td>
+<td width="80">&nbsp;</td>
+<td width="80">&nbsp;</td>
+<td width="80">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>The virtual proof of life check of the Minimum Viable Product shall be presented to the Navy experts. The virtual presentation shall present a preliminary concept / design. &nbsp;</p>
+<p>Phase III: The offeror shall be evaluated based on the below demonstration and resulting datacriteria (using the same matrix as previously detailed above):</p>
+<ul>
+<li>Underlying Baseline Laminate Substrate: For the purposes of demonstration, the solid laminate substrate to which the self-healing solution is demonstrated shall be 0.1&rdquo; thick and a balanced, bi-axial construction laminate plate/panel.</li>
+<li>Void Content and Fiber Volume Fraction shall be quantified and will be evaluated in accordance with the matrix detailed above.</li>
+<li>Mechanical Characterization of Baseline and Self-Healing Laminate Substrates: Mechanical material properties shall be characterized for the baseline (no healing implementation) and self-healing laminate for both tensile and flexure stiffness/strength data according to ASTM Standard D3039-14 and ASTM Standard ASTM D7264 / D7264M, respectively. These baseline tensile and flexural material properties will serve as the basis for comparison the material degradation quantification tests below.</li>
+<li>Mechanical Failure Strength of Baseline and Self-Healing Laminate Substrates: The baseline and self-healing laminates shall be tested to failure in both tension and flexure to establish the respective strength capacity of each configuration and to demonstrate little/no structural integrity reductions occur in self-healing design over the non-healing baseline.</li>
+<li>The self-healing methodology shall not significantly influence the tensile or flexure failure strength of the overall laminate as compared to the strength of the non-healing laminate</li>
+<li>Demonstration of Self-Healing Capabilities in a Dry Environment: Utilizing the results of the strength characterization testing as a baseline, samples of the self-healing laminate shall be loaded to 5%, 10%, 25%, and 50% of the expected failure stress in both tension and flexure (independently) and subsequently allowed to self-heal in a dry environment.</li>
+<li>Post healing, the samples shall be reloaded to failure and the capability of the healing method shall be quantified in terms of baseline material strengths</li>
+<li>Demonstration of Self-Healing Capabilities in a Submerged Salt Water Environment: Utilizing the results of the strength characterization testing as a baseline, Samples of the self-healing laminate shall be loaded to 5%, 10%, 25%, and 50% of the expected failure stress in both tension and flexure (independently) and subsequently allowed to self-heal in a submerged salt water environment.</li>
+<li>Post healing, the samples shall be reloaded to failure and the capability of the healing method shall be quantified in terms of baseline material strengths.</li>
+</ul>
+<p>In all cases results shall be normalized to non-self-healing plate weight (per unit area)</p>
 
 <!--  How To Enter start -->
 ### How To Enter
