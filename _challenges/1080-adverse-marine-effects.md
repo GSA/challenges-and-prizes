@@ -4,7 +4,7 @@ permalink: /challenge/adverse-marine-effects/
 challenge-id: 1080
 status: open
 sidenav: true
-card-image: /assets/images/cards/adverse-marine-effects-logo.png
+card-image: /assets/images/cards/self-healing-logo.png
 agency-logo: dod_seal.jpg
 challenge-title: Adverse Marine Effects
 tagline: The Navy is seeking ideas and best practices in mitigating adverse marine effects on composite materials.
@@ -18,7 +18,7 @@ submission-start: 2019/10/25 02:00 PM
 submission-end: 2019/11/05 02:00 PM 
 submission-link:
 prizes: true
-fiscal-year: FY20
+fiscal-year: FY19, FY20
 legal-authority: America COMPETES
 challenge-manager: Christopher Hebert
 challenge-manager-email: christopher.r.hebert@navy.mil
@@ -108,13 +108,12 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 <p>A panel of judges will screen all submissions for compliance with the rules and terms and conditions detailed herein.</p>
 <p>Phase II: Each of the companies that move onto Phase II will be invited to pitch their proposal to the panel of judges during certain days.&nbsp; This pitch shall include information containing the following:</p>
 <ul>
-<li>Solution shall be compatible with both E-Glass and Carbon based laminates utilizing Epoxy and Vinyl Ester matrix systems</li>
-<li>Solution shall be able to self-heal in a fully submerged saltwater environment</li>
-<li>Coating shall be compatible (compatible meaning that the coating shall not degrade/dissolve/decompose when in contact with salt water nor become debonded from the underlying substrate) with submergence in a saline fluid (seawater of average ocean conditions)</li>
-<li>Shall be capable of operating in the 5%-95% environmental range of ocean temperatures</li>
-<li>The method shall not affect the structural integrity of the structure or operational capabilities such as stiffness / strength.</li>
-<li>Shall be suitable for submerged pressures, ocean depths, and sustained long term deployment</li>
-<li>Shall not require maintenance on a recurring basis</li>
+<li>Coating shall be capable of adhesion / bonding to E-Glass and Carbon-based laminates utilizing Epoxy and Vinyl Ester matrix systems</li>
+<li>Coating shall be compatible (compatible meaning the coating shall not degrade/dissolve/decompose when in contact with salt water nor become debonded from the underlying substrate) with submergence in a saline fluid (seawater of average ocean conditions)</li>
+<li>Coating shall be demonstrated to provide impact/dynamic loading protection to underlying laminate</li>
+<li>Coating shall be capable of operating in the 5%-95% environmental range of ocean temperatures</li>
+<li>Coated material must have similar hydrodynamic smoothness as the material without the coating.</li>
+<li>Coating shall not require maintenance on a recurring basis n</li>
 </ul>
 <p>In Phase II, companies will be evaluated by the review panel on a scale of 0-25 points (25 being the highest). The evaluation criteria is provided below:</p>
 <table style="border-collapse: collapse; border: none;" width="654">
@@ -327,19 +326,20 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 </tbody>
 </table>
 <p>The virtual proof of life check of the Minimum Viable Product shall be presented to the Navy experts. The virtual presentation shall present a preliminary concept / design. &nbsp;</p>
-<p>Phase III: The offeror shall be evaluated based on the below demonstration and resulting datacriteria (using the same matrix as previously detailed above):</p>
+<p>Phase III: The offeror shall be evaluated based on the below demonstration and resulting data criteria (using the same matrix as previously detailed above):</p>
 <ul>
-<li>Underlying Baseline Laminate Substrate: For the purposes of demonstration, the solid laminate substrate to which the self-healing solution is demonstrated shall be 0.1&rdquo; thick and a balanced, bi-axial construction laminate plate/panel.</li>
+<li>Underlying Baseline Laminate Substrate: For the purposes of demonstration, the solid laminate substrate to which the coating is applied shall be 0.1&rdquo; thick and a balanced, bi-axial construction laminate plate/panel</li>
 <li>Void Content and Fiber Volume Fraction shall be quantified and will be evaluated in accordance with the matrix detailed above.</li>
-<li>Mechanical Characterization of Baseline and Self-Healing Laminate Substrates: Mechanical material properties shall be characterized for the baseline (no healing implementation) and self-healing laminate for both tensile and flexure stiffness/strength data according to ASTM Standard D3039-14 and ASTM Standard ASTM D7264 / D7264M, respectively. These baseline tensile and flexural material properties will serve as the basis for comparison the material degradation quantification tests below.</li>
-<li>Mechanical Failure Strength of Baseline and Self-Healing Laminate Substrates: The baseline and self-healing laminates shall be tested to failure in both tension and flexure to establish the respective strength capacity of each configuration and to demonstrate little/no structural integrity reductions occur in self-healing design over the non-healing baseline.</li>
-<li>The self-healing methodology shall not significantly influence the tensile or flexure failure strength of the overall laminate as compared to the strength of the non-healing laminate</li>
-<li>Demonstration of Self-Healing Capabilities in a Dry Environment: Utilizing the results of the strength characterization testing as a baseline, samples of the self-healing laminate shall be loaded to 5%, 10%, 25%, and 50% of the expected failure stress in both tension and flexure (independently) and subsequently allowed to self-heal in a dry environment.</li>
-<li>Post healing, the samples shall be reloaded to failure and the capability of the healing method shall be quantified in terms of baseline material strengths</li>
-<li>Demonstration of Self-Healing Capabilities in a Submerged Salt Water Environment: Utilizing the results of the strength characterization testing as a baseline, Samples of the self-healing laminate shall be loaded to 5%, 10%, 25%, and 50% of the expected failure stress in both tension and flexure (independently) and subsequently allowed to self-heal in a submerged salt water environment.</li>
-<li>Post healing, the samples shall be reloaded to failure and the capability of the healing method shall be quantified in terms of baseline material strengths.</li>
+<li>Mechanical Characterization of Baseline Laminate Substrate: Baseline Material property performance (Dry/Unaged) shall be characterized for both tensile and shear stiffness/strength data according to ASTM Standard D3039-14 and ASTM Standard D3518-13, respectively.&nbsp; These baseline tensile and shear material properties will serve as the basis for comparison for the material degradation quantification tests below.</li>
+<li>Reduced Water Absorption: Uncoated and Coated panels will be submerged in a salt bath at 65&deg;C for a time period of 30 days utilizing a submergence facility of similar nature to those documented in http://dx.doi.org/10.1016/j.compositesb.2017.07.023 and https://doi.org/10.1007/s41939-017-0004-6</li>
+<li>During the submergence testing, daily measurements shall be taken of weight increase (%) due to water absorption in a manner consistent with the process documented in the above references (e.g. (wet weight &ndash; dry weight)/dry weight X 100%)</li>
+<li>The effect of the coatings shall be quantified in terms of reductions in water absorption of the coated plates over the uncoated plates.</li>
+<li>Mechanical Characterization of Aged Laminate Substrate: After material ageing due to water absorption testing, the coated and uncoated materials shall be re-characterized for tensile and shear material properties as detailed above and any degradations in stiffness and strength material properties documented.</li>
+<li>The effect of the coatings shall be quantified in terms of reductions of tensile and shear material property degradation between the uncoated and coated plates</li>
+<li>Coating as Mitigator of Impact Damage on Baseline Laminate Substrate: For the purposes of quantifying the potential effectiveness of the coating as an impact damage mitigator to the underlying substrate, drop tower testing shall be conducted in accordance with D7136/D7136M.&nbsp; These tests shall be conducted on dry, non-soaked panels to isolate the damage mitigation capability of the coatings.</li>
+<li>Uncoated and coated panels shall be impact tested and the effectiveness of the coating shall be quantified in terms of the resulting size and type of damage in the respective specimens. Reductions in damage to the laminate itself shall be the measure of effectiveness of the coating</li>
+<li>In all cases, results shall be normalized to uncoated plate weight (per unit area)</li>
 </ul>
-<p>In all cases results shall be normalized to non-self-healing plate weight (per unit area)</p>
 
 <!--  How To Enter start -->
 ### How To Enter
