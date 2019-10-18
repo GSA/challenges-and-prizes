@@ -117,7 +117,7 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 <li>Shall not require maintenance on a recurring basis</li>
 </ul>
 <p>In Phase II, companies will be evaluated by the review panel on a scale of 0-25 points (25 being the highest). The evaluation criteria is provided below:</p>
-<table width="0">
+<table border="1" width="0">
 <tbody>
 <tr>
 <td colspan="3" width="335">
@@ -319,7 +319,6 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>The virtual proof of life check of the Minimum Viable Product shall be presented to the Navy experts. The virtual presentation shall present a preliminary concept / design. &nbsp;</p>
 <p>Phase III: The offeror shall be evaluated based on the below demonstration and resulting datacriteria (using the same matrix as previously detailed above):</p>
 <ul>
