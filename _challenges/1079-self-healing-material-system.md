@@ -98,6 +98,27 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<p><strong>Judging Panel</strong></p>
+<p>The Technology Pitch and Technology Demonstration will be presented to NUWCDIVNPT and ONR experts.</p>
+<p><strong>Judging Criteria</strong></p>
+<p>Phase I: The concept white paper must be submitted on time and address/outline the following areas:</p>
+<ul>
+<li>Knowledge of topics required to complete the Challenge</li>
+<li>Skills needed to complete the Challenge</li>
+<li>Capabilities to meet the Challenge</li>
+</ul>
+<p>The concept white paper shall be no more than five (5) pages in length in Times New Roman font and no small than size 11 font.</p>
+<p>A panel of judges will screen all submissions for compliance with the rules and terms and conditions detailed herein.</p>
+<p>Phase II: Each of the companies that move onto Phase II will be invited to pitch their proposal to the panel of judges during certain days.&nbsp; This pitch shall include information containing the following:</p>
+<ul>
+<li>Solution shall be compatible with both E-Glass and Carbon based laminates utilizing Epoxy and Vinyl Ester matrix systems</li>
+<li>Solution shall be able to self-heal in a fully submerged saltwater environment</li>
+<li>Coating shall be compatible (compatible meaning that the coating shall not degrade/dissolve/decompose when in contact with salt water nor become debonded from the underlying substrate) with submergence in a saline fluid (seawater of average ocean conditions)</li>
+<li>Shall be capable of operating in the 5%-95% environmental range of ocean temperatures</li>
+<li>The method shall not affect the structural integrity of the structure or operational capabilities such as stiffness / strength.</li>
+<li>Shall be suitable for submerged pressures, ocean depths, and sustained long term deployment</li>
+<li>Shall not require maintenance on a recurring basis</li>
+</ul>
 
 <!--  How To Enter start -->
 ### How To Enter
