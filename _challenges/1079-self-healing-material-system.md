@@ -117,205 +117,212 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 <li>Shall not require maintenance on a recurring basis</li>
 </ul>
 <p>In Phase II, companies will be evaluated by the review panel on a scale of 0-25 points (25 being the highest). The evaluation criteria is provided below:</p>
-<table border="1" width="0">
+<table style="border-collapse: collapse; border: none;" width="654">
 <tbody>
-<tr>
-<td colspan="3" width="335">
-<p>Company/Topic #:</p>
+<tr style="height: 15.0pt;">
+<td style="width: 251.2pt; border: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 15.0pt;" colspan="3" width="335">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Company/Topic #:</span></p>
 </td>
-<td colspan="5" width="319">
-<p>Date:</p>
+<td style="width: 239.4pt; border: solid black 1.0pt; border-left: none; padding: 0in 5.4pt 0in 5.4pt; height: 15.0pt;" colspan="5" width="319">
+<p style="line-height: normal;"><span style="font-family: 'Candara',sans-serif;">Date:</span></p>
+</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="width: 490.6pt; border: solid black 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt; height: 15.0pt;" colspan="8" width="654">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Team or Company Name / Brief Description:</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="width: 251.2pt; border: solid black 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt; height: 15.0pt;" colspan="3" width="335">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">INVESTMENT CRITERIA</span></p>
+</td>
+<td style="width: 239.4pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 15.0pt;" colspan="5" width="319">
+<p style="line-height: normal;"><span style="font-family: 'Candara',sans-serif;">BETTER SCORE&nbsp; &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span></p>
 </td>
 </tr>
 <tr>
-<td colspan="8" width="654">
-<p>Team or Company Name / Brief Description:</p>
-<p>&nbsp;</p>
+<td style="width: 90.9pt; border: solid black 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt;" width="121">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Criteria</span></p>
+</td>
+<td style="width: 160.3pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" colspan="2" width="214">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Description</span></p>
+</td>
+<td style="width: 239.4pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" colspan="5" width="319">
+<p style="line-height: normal; tab-stops: center 108.35pt right 228.6pt;"><span style="font-family: 'Candara',sans-serif;">Low Score&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Average&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; High Score</span></p>
 </td>
 </tr>
 <tr>
-<td colspan="3" width="335">
-<p>INVESTMENT CRITERIA</p>
+<td style="width: 90.9pt; border: solid black 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt;" width="121">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Technical Approach</span></p>
 </td>
-<td colspan="5" width="319">
-<p>BETTER SCORE&nbsp; &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p>
+<td style="width: 160.3pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" colspan="2" width="214">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Realistic, viable and feasible technology/approach to be completed in 6 months</span></p>
 </td>
-</tr>
-<tr>
-<td width="121">
-<p>Criteria</p>
+<td style="width: 47.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">1</span></p>
 </td>
-<td colspan="2" width="214">
-<p>Description</p>
+<td style="width: 47.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">2</span></p>
 </td>
-<td colspan="5" width="319">
-<p>Low Score&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Average&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; High Score</p>
+<td style="width: 47.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">3</span></p>
 </td>
-</tr>
-<tr>
-<td width="121">
-<p>Technical Approach</p>
+<td style="width: 47.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">4</span></p>
 </td>
-<td colspan="2" width="214">
-<p>Realistic, viable and feasible technology/approach to be completed in 6 months</p>
-</td>
-<td width="64">
-<p>1</p>
-</td>
-<td width="64">
-<p>2</p>
-</td>
-<td width="64">
-<p>3</p>
-</td>
-<td width="64">
-<p>4</p>
-</td>
-<td width="64">
-<p>5</p>
+<td style="width: 47.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">5</span></p>
 </td>
 </tr>
 <tr>
-<td colspan="8" width="654">
-<p>Comments / Notes:</p>
-<p>&nbsp;</p>
+<td style="width: 490.6pt; border: solid black 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt;" colspan="8" width="654">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Comments / Notes:</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
 </td>
 </tr>
 <tr>
-<td width="121">
-<p>Team Background and Capabilities</p>
+<td style="width: 90.9pt; border: solid black 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt;" width="121">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Team Background and Capabilities</span></p>
 </td>
-<td colspan="2" width="214">
-<p>&nbsp;Team proposed has knowledge and capacity to complete proposed work</p>
+<td style="width: 160.3pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" colspan="2" width="214">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;Team proposed has knowledge and capacity to complete proposed work</span></p>
 </td>
-<td width="64">
-<p>1</p>
+<td style="width: 47.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">1</span></p>
 </td>
-<td width="64">
-<p>2</p>
+<td style="width: 47.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">2</span></p>
 </td>
-<td width="64">
-<p>3</p>
+<td style="width: 47.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">3</span></p>
 </td>
-<td width="64">
-<p>4</p>
+<td style="width: 47.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">4</span></p>
 </td>
-<td width="64">
-<p>5</p>
-</td>
-</tr>
-<tr>
-<td colspan="8" width="654">
-<p>Comments / Notes:</p>
-<p>&nbsp;</p>
+<td style="width: 47.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">5</span></p>
 </td>
 </tr>
 <tr>
-<td width="121">
-<p>Proposal&nbsp; Fitness</p>
-</td>
-<td colspan="2" width="214">
-<p>Proposal outcomes/deliverables answer the topic challenge and there is a path to a prototype</p>
-</td>
-<td width="64">
-<p>1</p>
-</td>
-<td width="64">
-<p>2</p>
-</td>
-<td width="64">
-<p>3</p>
-</td>
-<td width="64">
-<p>4</p>
-</td>
-<td width="64">
-<p>5</p>
+<td style="width: 490.6pt; border: solid black 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt;" colspan="8" width="654">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Comments / Notes:</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
 </td>
 </tr>
 <tr>
-<td colspan="8" width="654">
-<p>Comments / Notes:</p>
-<p>&nbsp;</p>
+<td style="width: 90.9pt; border: solid black 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt;" width="121">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Proposal&nbsp; Fitness</span></p>
+</td>
+<td style="width: 160.3pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" colspan="2" width="214">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Proposal outcomes/deliverables answer the topic challenge and there is a path to a prototype</span></p>
+</td>
+<td style="width: 47.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">1</span></p>
+</td>
+<td style="width: 47.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">2</span></p>
+</td>
+<td style="width: 47.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">3</span></p>
+</td>
+<td style="width: 47.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">4</span></p>
+</td>
+<td style="width: 47.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">5</span></p>
 </td>
 </tr>
 <tr>
-<td width="121">
-<p>Risk Reduction</p>
-</td>
-<td colspan="2" width="214">
-<p>Risks/mitigation strategies acceptable</p>
-</td>
-<td width="64">
-<p>1</p>
-</td>
-<td width="64">
-<p>2</p>
-</td>
-<td width="64">
-<p>3</p>
-</td>
-<td width="64">
-<p>4</p>
-</td>
-<td width="64">
-<p>5</p>
+<td style="width: 490.6pt; border: solid black 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt;" colspan="8" width="654">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Comments / Notes:</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
 </td>
 </tr>
 <tr>
-<td colspan="8" width="654">
-<p>Comments / Notes:</p>
-<p>&nbsp;</p>
+<td style="width: 90.9pt; border: solid black 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt;" width="121">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Risk Reduction</span></p>
+</td>
+<td style="width: 160.3pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" colspan="2" width="214">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Risks/mitigation strategies acceptable</span></p>
+</td>
+<td style="width: 47.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">1</span></p>
+</td>
+<td style="width: 47.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">2</span></p>
+</td>
+<td style="width: 47.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">3</span></p>
+</td>
+<td style="width: 47.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">4</span></p>
+</td>
+<td style="width: 47.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">5</span></p>
 </td>
 </tr>
 <tr>
-<td width="121">
-<p>Understanding</p>
-</td>
-<td colspan="2" width="214">
-<p>Proposer understands the stakeholders and beneficiaries</p>
-</td>
-<td width="64">
-<p>1</p>
-</td>
-<td width="64">
-<p>2</p>
-</td>
-<td width="64">
-<p>3</p>
-</td>
-<td width="64">
-<p>4</p>
-</td>
-<td width="64">
-<p>5</p>
+<td style="width: 490.6pt; border: solid black 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt;" colspan="8" width="654">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Comments / Notes:</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
 </td>
 </tr>
 <tr>
-<td colspan="8" width="654">
-<p>Comments / Notes:</p>
-<p>&nbsp;</p>
+<td style="width: 90.9pt; border: solid black 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt;" width="121">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Understanding</span></p>
+</td>
+<td style="width: 160.3pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" colspan="2" width="214">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Proposer understands the stakeholders and beneficiaries</span></p>
+</td>
+<td style="width: 47.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">1</span></p>
+</td>
+<td style="width: 47.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">2</span></p>
+</td>
+<td style="width: 47.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">3</span></p>
+</td>
+<td style="width: 47.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">4</span></p>
+</td>
+<td style="width: 47.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" width="64">
+<p style="text-align: center; line-height: normal;"><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">5</span></p>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="229">
-<p>Worst Score: 5 Criteria x 1 = 5</p>
-<p>Avg. Score:&nbsp;&nbsp; 5 Criteria x 3 = 15</p>
-<p>Best Score:&nbsp;&nbsp; 5 Criteria x 5 = 25</p>
-</td>
-<td colspan="6" width="425">
-<p>Total Score:</p>
+<td style="width: 490.6pt; border: solid black 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt;" colspan="8" width="654">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Comments / Notes:</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">&nbsp;</span></p>
 </td>
 </tr>
 <tr>
-<td width="152">&nbsp;</td>
-<td width="135">&nbsp;</td>
-<td width="132">&nbsp;</td>
-<td width="80">&nbsp;</td>
-<td width="80">&nbsp;</td>
-<td width="80">&nbsp;</td>
-<td width="80">&nbsp;</td>
-<td width="80">&nbsp;</td>
+<td style="width: 171.9pt; border: solid black 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt;" colspan="2" width="229">
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Worst Score: 5 Criteria x 1 = 5</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Avg. Score:&nbsp;&nbsp; 5 Criteria x 3 = 15</span></p>
+<p style="line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Open Sans'; color: #333333;">Best Score:&nbsp;&nbsp; 5 Criteria x 5 = 25</span></p>
+</td>
+<td style="width: 318.7pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" colspan="6" width="425">
+<p style="line-height: normal;"><strong><span style="font-size: 10.0pt; font-family: 'Candara',sans-serif;">Total Score:</span></strong></p>
+</td>
 </tr>
 </tbody>
 </table>
