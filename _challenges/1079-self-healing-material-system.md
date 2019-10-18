@@ -4,7 +4,7 @@ permalink: /challenge/self-healing-material-system/
 challenge-id: 1079
 status: open
 sidenav: true
-card-image: /assets/images/cards/self-healing-logo.png
+card-image: /assets/images/cards/Full-Ocean-Depth-challenge.jpg
 agency-logo: dod_seal.jpg
 challenge-title: Self-Healing Material System
 tagline: The Navy is seeking ideas and best practices in developing a self-healing material system for composite structures and/or vehicles.
