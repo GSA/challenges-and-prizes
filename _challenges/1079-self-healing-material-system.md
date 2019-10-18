@@ -19,9 +19,9 @@ submission-end: (do NOT add ET for the time zone)
 submission-link:
 prizes: true
 fiscal-year: (formatted as FY19, FY20, FY21 etc...)
-legal-authority:
-challenge-manager:
-challenge-manager-email: (will display in the Point of Contact field)
+legal-authority: America COMPETES
+challenge-manager: Christopher Hebert
+challenge-manager-email: christopher.r.hebert@navy.mil
 ---
 
 
