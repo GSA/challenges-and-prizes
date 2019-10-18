@@ -72,11 +72,8 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 <p>Responsibility for Costs Incurred. Nothing in these rules, to include information on the websites publicizing the award, may be interpreted as authorizing the incurrence of any costs, or modifying the statement of work or authorizing work outside the terms and conditions of any existing agreements or contracts with the Government.</p>
 <p>Participation in this prize challenge is at participant expense. The Government will not be responsible for any costs incurred by the participant, to include submission costs, travel costs, technology demonstration or development costs or any associated costs.</p>
 <p>Release of Claims. The participant agrees to release and forever discharge any and all manner of claims, equitable adjustments, actions, suits, debts, appeals, and all other obligations of any kind, whether past or present, known or unknown, that have or may arise from, are related to or are in connection with, directly or indirectly, this prize challenge or the participant&rsquo;s submission.</p>
-<p>&nbsp;</p>
 <p>Liability. By participating in this challenge, the participant agrees to assume, and thereby has assumed, any and all risks of injury or loss in connection with, or in any way arising from participation in this challenge, or development of any submission.</p>
-<p>&nbsp;</p>
 <p>Indemnification. The participant indemnifies the Government and its affiliates, directors, officers, employees against all liabilities, damages, losses, costs, fees (including legal fees), and expenses relating to any allegation or third-party legal proceeding to the extent arising from:</p>
-<p>&nbsp;</p>
 <p>(A) the participant&rsquo;s acts or omissions in relation to the Challenge (including the participant&rsquo;s use or acceptance of any prize and the participant&rsquo;s breach of these Terms); and</p>
 <p>(B) the participant&rsquo;s submissions violating any rights of any other person or entity or any obligation the participant may have with them.</p>
 <p>Compliance with Laws. The participant agrees to follow and comply with all applicable federal, state and local laws, regulations and policies.</p>
