@@ -1,3 +1,4 @@
+
 ---
 layout: front-matter-data
 permalink: /challenge/white-nose-syndrome-in-bats/
@@ -25,8 +26,6 @@ challenge-manager-email: WNSChallenge@fws.gov
 
 ---
 
-
-
 <!-- Description start -->
 ### Description
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
@@ -36,7 +35,7 @@ challenge-manager-email: WNSChallenge@fws.gov
 <p>The White-nose Syndrome Prize Challenge seeks ideas that may lead to a permanent solution to this crisis of wildlife health by eliminating, weakening, or disarming the fungus that causes it.</p>
 <p>The White-nose Syndrome Challenge specifically seeks ideas that can permanently eliminate, disarm, or weaken P. destructans in the wild. Through the challenge, we invite ideas that can lead to solutions to reduce the effects of the fungus without harming other beneficial species or the environment. We are seeking ideas that can be employed in the field in the near future and benefit many of the affected species across their ranges.</p>
 <p>Ideas recognized through this Challenge will be the focus of future collaborations to establish an appropriate research and development plan to bring the envisioned tools to fruition. Experts in relevant fields, including members of winning teams, if appropriate, will come together to identify critical research and technology needs to develop the solution. After that, qualified scientists, designers and engineers will have an opportunity to apply to do this work and develop prospective tools for use. Once ready, we hope the tool(s)will be used throughout the country to improve survival of bats susceptible to white-nose syndrome.</p> 
-<p>A webinar for interested solvers will be held on November 20, 2-3 pm EST.  Please visit <a href="https://doilearn2.webex.com/doilearn2/onstage/g.php?MTID=e98464ffeb58ec84ebc03a4b573337bc0" target="_blank" rel="noopener">https://doilearn2.webex.com/doilearn2/onstage/g.php?MTID=e98464ffeb58ec84ebc03a4b573337bc0</a> for more information.</p>
+<p>A webinar for interested solvers will be held on November 20, 2-3 p.m. ET. Please visit <a href="https://doilearn2.webex.com/doilearn2/onstage/g.php?MTID=e98464ffeb58ec84ebc03a4b573337bc0" target="_blank" rel="noopener">https://doilearn2.webex.com/doilearn2/onstage/g.php?MTID=e98464ffeb58ec84ebc03a4b573337bc0</a> for more information.</p>
 <p>More information on the prize challenge and other efforts to fight white-nose syndrome can be found at <a href="http://www.whitenosesyndrome.org" target="_blank" ref="noopener">www.whitenosesyndrome.org</a>.</p>
 
 <!-- Prizes start -->
@@ -46,8 +45,8 @@ challenge-manager-email: WNSChallenge@fws.gov
 <h3>Total Cash Prize Pool</h3>
 <p>The U.S. Fish and Wildlife Service has a total cash prize pot available of $100,000.</p>
 <h3>Prize Breakdown</h3>
-<p>Up to $20,000 in individual awards is possible. The Challenge award will be contingent upon the results of critical analysis and evaluation by the U.S. Fish and Wildlife Service and the Judging Panel appointed by them. 
-Honorable mentions may be given to solutions that judges and the U.S. Fish and Wildlife Service believe show potential but did not rank as highly the top ideas submitted. Honorable mentions may also receive part of the cash prize pot available through the Challenge.</p>
+<p>Up to $20,000 in individual awards is possible. The Challenge award will be contingent upon the results of critical analysis and evaluation by the U.S. Fish and Wildlife Service and the Judging Panel appointed by them.</p>
+<p>Honorable mentions may be given to solutions that judges and the U.S. Fish and Wildlife Service believe show potential but did not rank as highly the top ideas submitted. Honorable mentions may also receive part of the cash prize pot available through the Challenge.</p>
 <h3>Non-monetary Prizes</h3>
 <p>Winners, including honorable mentions, may be invited to attend or participate in future discussions to establish an appropriate research and development plan to bring the envisioned tools to fruition. If so, the U.S. Fish and Wildlife Service will provide travel costs for at least one member of each winning team.</p>
 
@@ -55,9 +54,9 @@ Honorable mentions may be given to solutions that judges and the U.S. Fish and W
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p>For rules and more information on how to enter, visit: <a href="https://www.whitenosesyndrome.org/static-page/white-nose-syndrome-challenge" target="_blank" rel="noopener">https://www.whitenosesyndrome.org/static-page/white-nose-syndrome-challenge</a>.
+<p>For rules and more information on how to enter, visit: <a href="https://www.whitenosesyndrome.org/static-page/white-nose-syndrome-challenge" target="_blank" rel="noopener">https://www.whitenosesyndrome.org/static-page/white-nose-syndrome-challenge</a>.</p>
 
-<p>Applications must be e-mailed to <a href="mailto:WNSChallenge@fws.gov" target="_blank" rel="noopener">WNSChallenge@fws.gov</a>. </p>
+<p>Applications must be e-mailed to <a href="mailto:WNSChallenge@fws.gov" target="_blank" rel="noopener">WNSChallenge@fws.gov</a>.</p>
 
 <!-- Judging start -->
 ### Judging Criteria
@@ -70,7 +69,7 @@ Honorable mentions may be given to solutions that judges and the U.S. Fish and W
 <ul>
 <li>Readiness: How sufficiently developed is the idea? Do intended users have to develop other technologies or methods to apply the idea? Can it use “off the shelf” parts to carry out? (20%)</li>
 <li>Deployment Scale: Which geographic regions of the United States and Canada will the idea work in? Can it work in more than one region?  What kinds of bat habitats can the idea work in? Will it work in the presence and absence of Pd? (15%)</li>
-<li>pecies Susceptibility: Will the idea work for the most highly susceptible bat species? (20%)</li>
+<li>Species Susceptibility: Will the idea work for the most highly susceptible bat species? (20%)</li>
 <li>Ease of Use: How easy is the idea to apply? For example, will carrying it out require significant physical exertion, extensive time in the field, highly trained scientists or other specialists, or significant safety training and precautions? (10%)</li>
 <li>Cost Efficiency: Submitted Solutions are not required to include a specific cost per bat to implement the idea, but do you have a sense of what it would cost to implement the idea? (10%)</li>
 <li>Efficacy: How effective is the treatment at the point of application to eliminate or weaken Pd to help bats survive? (25%)</li>
