@@ -3,22 +3,22 @@ layout: front-matter-data
 permalink: /challenge/white-nose-syndrome-in-bats/
 challenge-id: 1081
 status: open
-sidenav: true (false for challenges that are only external)
+sidenav: true
 card-image: /assets/images/cards/challenge-gov.png
-agency-logo:
+agency-logo: US-FWS-logo.png
 challenge-title: White-nose Syndrome in Bats Challenge: Fight the Fungus, Save Our Bats
 tagline: Help the U.S. Fish and Wildlife Service identify ways to permanently eradicate, weaken, or disarm the fungus that causes white-nose syndrome, a devastating disease that is killing millions of hibernating bats across the United States and Canada.
 agency: U.S. Fish and Wildlife Service
 partner-agencies-federal:
 partners-non-federal:
 external-url:
-total-prize-offered-cash:
+total-prize-offered-cash: $20,000
 type-of-challenge:
 submission-start: 2019/10/24 12:00 p.m.
 submission-end: 2019/12/31 11:59 p.m.
-submission-link: http://www.whitenosesyndrome.org
+submission-link:
 prizes: true
-fiscal-year: (formatted as FY19, FY20, FY21 etc...)
+fiscal-year: FY20
 legal-authority: AMERICA Competes
 challenge-manager: Jason Goldberg, jgoldberg@fws.gov
 challenge-manager-email: WNSChallenge@fws.gov
@@ -75,7 +75,7 @@ Honorable mentions may be given to solutions that judges and the U.S. Fish and W
 <li>Cost Efficiency: Submitted Solutions are not required to include a specific cost per bat to implement the idea, but do you have a sense of what it would cost to implement the idea? (10%)</li>
 <li>Efficacy: How effective is the treatment at the point of application to eliminate or weaken Pd to help bats survive? (25%)</li>
 <li>Risk to Resources: When used at the proposed scale, will the idea keep harm to native natural or cultural resources at a minimum? Solutions that the judges find help bats, but only at the expense of causing irreparable harm to natural or cultural resources near bat populations, or solutions that cause significant harm to bats themselves, will not be considered for winning this Challenge.</li>
-  </ul>
+</ul>
 
 <!--  How To Enter start -->
 ### How To Enter
