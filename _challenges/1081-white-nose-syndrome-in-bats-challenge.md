@@ -1,4 +1,3 @@
-
 ---
 layout: front-matter-data
 permalink: /challenge/white-nose-syndrome-in-bats/
@@ -7,7 +6,7 @@ status: open
 sidenav: true
 card-image: /assets/images/cards/challenge-gov.png
 agency-logo: US-FWS-logo.png
-challenge-title: White-nose Syndrome in Bats Challenge: Fight the Fungus, Save Our Bats
+challenge-title: White-nose Syndrome in Bats Challenge, Fight the Fungus, Save Our Bats
 tagline: Help the U.S. Fish and Wildlife Service identify ways to permanently eradicate, weaken, or disarm the fungus that causes white-nose syndrome, a devastating disease that is killing millions of hibernating bats across the United States and Canada.
 agency: U.S. Fish and Wildlife Service
 partner-agencies-federal:
