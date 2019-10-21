@@ -22,7 +22,6 @@ fiscal-year: FY20
 legal-authority: AMERICA Competes
 challenge-manager: Jason Goldberg, jgoldberg@fws.gov
 challenge-manager-email: WNSChallenge@fws.gov
-
 ---
 
 <!-- Description start -->
