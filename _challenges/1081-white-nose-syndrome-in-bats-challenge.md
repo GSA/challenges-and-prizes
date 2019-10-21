@@ -4,7 +4,7 @@ permalink: /challenge/white-nose-syndrome-in-bats/
 challenge-id: 1081
 status: open
 sidenav: true
-card-image: /assets/images/cards/challenge-gov.png
+card-image: /assets/images/cards/WNS-logo-square-340.png
 agency-logo: US-FWS-logo.png
 challenge-title: White-nose Syndrome in Bats Challenge, Fight the Fungus, Save Our Bats
 tagline: Help the U.S. Fish and Wildlife Service identify ways to permanently eradicate, weaken, or disarm the fungus that causes white-nose syndrome, a devastating disease that is killing millions of hibernating bats across the United States and Canada.
@@ -31,6 +31,7 @@ challenge-manager-email: WNSChallenge@fws.gov
 
 <p>Hibernating bats in North America are in trouble. An invasive fungus, Pseudogymnoascus destructans, that causes a disease called white-nose syndrome is spreading across the continent and killing millions of bats. Bats eat insects and are integral to thriving ecosystems. With the loss of millions of bats because of this deadly fungus, many millions more forest and agriculture insect pests are left to feed on trees and crops, ultimately affecting the balance of nature and even human health.</p>
 <p>There is no known cure for white-nose syndrome, but scientists from all over the world are working together to study the disease, how it spreads and infects bats and what we can do to control it. Much of this work has been done under the umbrella of the United States’ National Response to White-nose Syndrome, a broad, multi-agency effort led by the U.S. Fish and Wildlife Service.</p>
+<p><img src="{{ site.baseurl }}/assets/images/challenge-content/Bat-image.png" width="858" height="210" alt="Bat affected by white-nose bat syndrome"></p>
 <p>The White-nose Syndrome Prize Challenge seeks ideas that may lead to a permanent solution to this crisis of wildlife health by eliminating, weakening, or disarming the fungus that causes it.</p>
 <p>The White-nose Syndrome Challenge specifically seeks ideas that can permanently eliminate, disarm, or weaken P. destructans in the wild. Through the challenge, we invite ideas that can lead to solutions to reduce the effects of the fungus without harming other beneficial species or the environment. We are seeking ideas that can be employed in the field in the near future and benefit many of the affected species across their ranges.</p>
 <p>Ideas recognized through this Challenge will be the focus of future collaborations to establish an appropriate research and development plan to bring the envisioned tools to fruition. Experts in relevant fields, including members of winning teams, if appropriate, will come together to identify critical research and technology needs to develop the solution. After that, qualified scientists, designers and engineers will have an opportunity to apply to do this work and develop prospective tools for use. Once ready, we hope the tool(s)will be used throughout the country to improve survival of bats susceptible to white-nose syndrome.</p> 
