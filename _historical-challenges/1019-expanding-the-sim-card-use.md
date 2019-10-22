@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/expanding-the-sim-card-use-for-public-safety-challenge/
 challenge-id: 1019
-status: open
+status: closed
 sidenav: true
 banner-image: 
 card-image: /assets/images/cards/ChallengeMainLogo.jpg
@@ -15,8 +15,8 @@ partners-non-federal: Nok Nok Labs, IBM Security
 external-url:
 total-prize-offered-cash: $100,000
 type-of-challenge: Software and apps
-submission-start: 2019/04/03 12:00 AM
-submission-end: 2019/10/19
+submission-start: 04/03/2019 12:00 AM
+submission-end: 10/19/2019
 submission-link: 
 prizes: true
 legal-authority: America COMPETES

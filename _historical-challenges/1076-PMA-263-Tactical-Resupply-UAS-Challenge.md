@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/PMA-263-tactical-resupply-UAS-challenge/
 challenge-id: 1076
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/UAS_challenge.png
 agency-logo: dod_seal.jpg
@@ -14,8 +14,8 @@ partners-non-federal: IMPAX
 external-url:
 total-prize-offered-cash: $225,000
 type-of-challenge: Technology
-submission-start: 2019/09/27 08:00 AM
-submission-end: 2019/10/18 11:59 PM
+submission-start: 09/27/2019 08:00 AM
+submission-end: 10/18/2019 11:59 PM
 submission-link:  
 prizes: true
 fiscal-year: FY19, FY20

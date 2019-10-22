@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/virtual-reality-aoc-design-challenge/
 challenge-id: 1072
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/MGMWERX_virtual.jpg
 agency-logo: dod_seal.jpg
@@ -14,8 +14,8 @@ partners-non-federal: MGMWERX
 external-url:
 total-prize-offered-cash:
 type-of-challenge: Software and apps; Ideas; Virtual Reality; Analytics, Visualizations and algorithms; Scientific
-submission-start: 2019/09/10 04:00 AM
-submission-end: 2019/10/18 12:59 AM
+submission-start: 09/10/2019 04:00 AM
+submission-end: 10/18/2019 12:59 AM
 submission-link:  
 prizes: true
 fiscal-year: FY19
