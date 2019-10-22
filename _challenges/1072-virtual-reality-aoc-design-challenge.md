@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/virtual-reality-aoc-design-challenge/
 challenge-id: 1072
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/MGMWERX_virtual.jpg
 agency-logo: dod_seal.jpg
