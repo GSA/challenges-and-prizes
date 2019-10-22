@@ -12,7 +12,7 @@ agency: Department of the Interior - U.S. Fish and Wildlife Service
 partner-agencies-federal:
 partners-non-federal:
 external-url:
-total-prize-offered-cash: $20.000
+total-prize-offered-cash: $20,000
 type-of-challenge: Ideas
 submission-start: 2019/10/24 12 p.m.
 submission-end: 2019/12/31 11:59 p.m.
@@ -26,7 +26,7 @@ challenge-manager-email: WNSChallenge@fws.gov
 
 
 
-<!-- Description start -->
+
 <!-- Description start -->
 ### Description
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
@@ -37,7 +37,7 @@ challenge-manager-email: WNSChallenge@fws.gov
 <p>The White-nose Syndrome Prize Challenge seeks ideas that may lead to a permanent solution to this crisis of wildlife health by eliminating, weakening, or disarming the fungus that causes it.</p>
 <p>The White-nose Syndrome Challenge specifically seeks ideas that can permanently eliminate, disarm, or weaken P. destructans in the wild. Through the challenge, we invite ideas that can lead to solutions to reduce the effects of the fungus without harming other beneficial species or the environment. We are seeking ideas that can be employed in the field in the near future and benefit many of the affected species across their ranges.</p>
 <p>Ideas recognized through this Challenge will be the focus of future collaborations to establish an appropriate research and development plan to bring the envisioned tools to fruition. Experts in relevant fields, including members of winning teams, if appropriate, will come together to identify critical research and technology needs to develop the solution.</p>
-<p>After that, qualified scientists, designers and engineers will have an opportunity to apply to do this work and develop prospective tools for use. Once ready, we hope the tool(s)will be used throughout the country to improve survival of bats susceptible to white-nose syndrome.</p> 
+<p>After that, qualified scientists, designers and engineers will have an opportunity to apply to do this work and develop prospective tools for use. Once ready, we hope the tool(s)will be used throughout the country to improve survival of bats susceptible to white-nose syndrome.</p>
 <p>A webinar for interested solvers will be held on November 20, 2-3 p.m. ET. Please visit <a href="https://doilearn2.webex.com/doilearn2/onstage/g.php?MTID=e98464ffeb58ec84ebc03a4b573337bc0" target="_blank" rel="noopener">https://doilearn2.webex.com/doilearn2/onstage/g.php?MTID=e98464ffeb58ec84ebc03a4b573337bc0</a> for more information.</p>
 <p>More information on the prize challenge and other efforts to fight white-nose syndrome can be found at <a href="http://www.whitenosesyndrome.org" target="_blank" ref="noopener">www.whitenosesyndrome.org</a>.</p>
 
