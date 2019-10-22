@@ -12,7 +12,7 @@ agency: Department of the Interior - U.S. Fish and Wildlife Service
 partner-agencies-federal:
 partners-non-federal:
 external-url:
-total-prize-offered-cash: $20,000
+total-prize-offered-cash: $100,000
 type-of-challenge: Ideas
 submission-start: 2019/10/24 12 p.m.
 submission-end: 2019/12/31 11:59 p.m.
