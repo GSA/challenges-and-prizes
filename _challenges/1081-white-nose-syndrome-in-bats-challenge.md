@@ -45,12 +45,12 @@ challenge-manager-email: WNSChallenge@fws.gov
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<h2>Total Cash Prize Pool</h2>
+<h4>Total Cash Prize Pool</h4>
 <p>The U.S. Fish and Wildlife Service has a total cash prize pot available of $100,000.</p>
-<h2>Prize Breakdown</h2>
+<h4>Prize Breakdown</h4>
 <p>Up to $20,000 in individual awards is possible. The Challenge award will be contingent upon the results of critical analysis and evaluation by the U.S. Fish and Wildlife Service and the Judging Panel appointed by them.</p>
 <p>Honorable mentions may be given to solutions that judges and the U.S. Fish and Wildlife Service believe show potential but did not rank as highly the top ideas submitted. Honorable mentions may also receive part of the cash prize pot available through the Challenge.</p>
-<h2>Non-monetary Prizes</h2>
+<h4>Non-monetary Prizes</h4>
 <p>Winners, including honorable mentions, may be invited to attend or participate in future discussions to establish an appropriate research and development plan to bring the envisioned tools to fruition. If so, the U.S. Fish and Wildlife Service will provide travel costs for at least one member of each winning team.</p>
 
 <!-- Rules start -->
@@ -65,9 +65,9 @@ challenge-manager-email: WNSChallenge@fws.gov
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<h2>Judging Panel</h2>
+<h4>Judging Panel</h4>
 <p>The Judging Panel will be composed of federal and/or non-federal scientists and other technical and subject matter experts.</p>
-<h2>Judging Criteria</h2>
+<h4>Judging Criteria</h4>
 <p>Submitted ideas and solutions will be scored by performance using the following criteria with approximate weights noted in parentheses:</p>
 <ul>
 <li>Readiness: How sufficiently developed is the idea? Do intended users have to develop other technologies or methods to apply the idea? Can it use “off the shelf” parts to carry out? (20%)</li>
