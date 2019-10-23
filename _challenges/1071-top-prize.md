@@ -90,7 +90,7 @@ challenge-manager-email: TOPprize@census.gov
 <li>An individual or entity shall not be deemed ineligible because the individual or entity used federal facilities or consulted with Federal employees during a challenge, if the facilities and employees are made available to all individuals and entities participating in the challenge on an equitable basis.</li>
 <li>Participants may be asked in future stages of this competition to provide additional confirmation of their eligibility.  The Census Bureau will determine whether applicants meet eligibility criteria.</li>
 </ol>
-<h4>Submission Requirements</h4>
+<h3>Submission Requirements</h3>
 <p><strong>What to Submit:</strong></p>
 <p>Applications for this prize challenge have four (4) required parts and one (1) optional part. To enter this challenge, participants should submit all of the information described below by the <strong>deadline, November 1, 2019 at 11:59 p.m. ET</strong>.</p>
 <p>Please include Parts 1-3 (i.e., Team Information, Product Information, and Narrative) in a single document. If any responses are missing your application will be considered incomplete. Please include Part 4, and if applicable Part 5, in separate documents. Submit all components of the application package together by email as described in the “How to enter” section.</p> <p><Strong>PART 1: Team information</strong></p>
@@ -162,7 +162,7 @@ challenge-manager-email: TOPprize@census.gov
 
 <h4>Judging Panel</h4>
 <p>Submissions will be reviewed by experts in technology, open data, product development community engagement, user centered design, and the policy issues covered in the prize categories, from federal agencies as well as external organizations. </p> 
-<h3>Judging Criteria</h3>
+<h4>Judging Criteria</h4>
 <p>Each submission will be scored by multiple reviewers on the following five (5) criteria:</p>
 <ul>
   <li><strong>Quality + Technical Evaluation (20%): </strong>This score focuses on the overall user experience and user interface (UX/UI) design of the product, designing and implementation of product functionality, visual design if applicable, and generally how well the product achieves its stated functionality. This includes questions such as:</li> 
