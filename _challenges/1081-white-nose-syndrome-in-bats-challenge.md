@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $100,000
 type-of-challenge: Ideas
-submission-start: 2019/10/24 12 p.m.
-submission-end: 2019/12/31 11:59 p.m.
+submission-start: 2019/10/24 12 pm
+submission-end: 2019/12/31 11:59 pm
 submission-link:
 prizes: true
 fiscal-year: FY20
