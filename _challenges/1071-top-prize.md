@@ -24,26 +24,26 @@ challenge-manager: Drew Zachary (primary) and Dominica Zhu (secondary), Drew.a.z
 challenge-manager-email: TOPprize@census.gov
 ---
 
-
+<h3>If you're planning to apply or considering The Opportunity Project Prize Challenge, join us for an open Q&A and informational webinar on Monday, October 28, from 2-3pm ET! Register at: <a href="https://TOPprize.splashthat.com" target="_blank" rel="noopener">https://TOPprize.splashthat.com</a>.</h3>
 
 <!-- Description start -->
 ### Description
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<h3>Key Dates:</h3>
+<h4>Key Dates:</h4>
 <ul>
 <li>September 23: Submissions Open</li>
 <li>November 1: Submissions Due</li>
 <li>December: Prize winners announced</li>
 </ul>
-<h3>Background</h3>
+<h4>Background</h4>
 <p><a href="https://opportunity.census.gov" target="_blank" rel="noopener">The Opportunity Project (TOP)</a>, a program run by the Census Open Innovation Labs (COIL) at the U.S. Census Bureau, brings together government, communities, and the technology industry to create digital tools that address our nation’s greatest challenges with open data. Through 12-week sprints, TOP challenges technologists outside of government – companies, non-profits, and universities – to create digital tools with Census and other federal open data to expand American economic opportunity.</p>
 <p>TOP works with experts from the Census Bureau and other federal agencies to identify high-priority challenges facing the public, and then engages experts from the private and nonprofit sectors through technology development sprints. Each 12-week sprint results in new data-driven tools that directly serve families, local leaders, and businesses. This process helps to empower people with technology, make government data more accessible and user-friendly, and facilitate cross-sector collaboration to build new digital solutions with open data. </p>
 <p>Since launching in 2016, 30 federal agencies and over 100 external organizations including companies, universities and community organizations have worked together to create 80 new digital products for the public.  These products provide solutions to challenges including the opioid crisis, disaster response, connecting veterans with jobs, promoting STEM education, and more. </p>
 <p>TOP supports the Census Bureau’s mission and Title 13 mandate to disseminate data to the public. It is also a component of the <a href="https://www.whitehouse.gov/wp-content/uploads/2018/03/Presidents-Management-Agenda.pdf" target="_blank" rel="noopener">President’s Management Agenda</a> — namely, <a href="https://www.performance.gov/CAP/leveragingdata/" target="_blank" rel="noopener">Cross Agency Priority (CAP) Goal 2: Leveraging Data as a Strategic Asset</a>, championed by Commerce Deputy Secretary Karen Dunn Kelley, which focuses on utilizing data as an asset to grow the economy, increase the effectiveness of the Federal Government, promote transparency, and make government data more useful to the public, businesses, and researchers. TOP is also a <a href="https://strategy.data.gov/proof-points/2019/04/26/helping-baltimore-volunteers-find-where-to-help/" target="_blank" rel="noopener">Proof Point</a> within the first ever <a href="https://strategy.data.gov" target="_blank" rel="noopener">Federal Data Strategy</a>.</p>
-<h3>The Problem</h3>
+<h4>The Problem</h4>
 <p>Over 9 sprint cycles and nearly 4 years, it has become clear that one of the greatest challenges associated with civic technology development is product sustainability and adoption – in short, what happens to these solutions after The Opportunity Project sprint process. Now, in order to help advance some of the most promising technology solutions developed through The Opportunity Project, the Census Bureau is launching a Prize Challenge to help tech teams deploy their technology solutions, ensure they reach end users and drive impact on the critical problems they aim to solve. This prize challenge is open to teams that have previously participated or are currently participating in The Opportunity Project, and built a digital product with open data through an Opportunity Project facilitated sprint or utilizing <a href="https://opportunity.census.gov/toolkit.html" target="_blank" rel="noopener">The Opportunity Project toolkit, which provides a step-by-step outline for replicating the sprint process</a>. <strong>The Census Bureau is conducting this challenge under the authority of and in accordance with the America COMPETES Act, as amended, 15 U.S.C. § 3719.</strong></p> 
-<h3>Challenge Goals and Categories</h3> 
+<h4>Challenge Goals and Categories</h4> 
 <p>The Opportunity Project Prize Challenge is a new opportunity for teams who have participated in The Opportunity Project to compete for funding to expand their impact, deploy tools to end users, and begin to or continue to deliver impact on critical problems facing the public.</p>
 <p>Because the challenges tackled in The Opportunity Project to date are so broad, COIL has identified five categories that capture a range of critical problems, described below. Teams applying for the prize must submit their product in at least one category, and can submit in up to 2 categories. </p>
 <ol>
@@ -65,7 +65,7 @@ challenge-manager-email: TOPprize@census.gov
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<h3>Eligibility</h3> 
+<h4>Eligibility</h4> 
 <p>This prize challenge is open to any team that has built a digital product in The Opportunity Project, including in 2019, whether through a facilitated sprint, or the <a href="https://opportunity.census.gov/toolkit.html" target="_blank" rel="noopener">digital toolkit</a>. Applicants must:</p> 
 <ul>
 <li>demonstrate eligibility through participating in a TOP sprint or leveraging the <a href="https://opportunity.census.gov/toolkit.html" target="_blank" rel="noopener">TOP toolkit</a>;</li>
@@ -90,7 +90,7 @@ challenge-manager-email: TOPprize@census.gov
 <li>An individual or entity shall not be deemed ineligible because the individual or entity used federal facilities or consulted with Federal employees during a challenge, if the facilities and employees are made available to all individuals and entities participating in the challenge on an equitable basis.</li>
 <li>Participants may be asked in future stages of this competition to provide additional confirmation of their eligibility.  The Census Bureau will determine whether applicants meet eligibility criteria.</li>
 </ol>
-<h3>Submission Requirements</h3>
+<h4>Submission Requirements</h4>
 <p><strong>What to Submit:</strong></p>
 <p>Applications for this prize challenge have four (4) required parts and one (1) optional part. To enter this challenge, participants should submit all of the information described below by the <strong>deadline, November 1, 2019 at 11:59 p.m. ET</strong>.</p>
 <p>Please include Parts 1-3 (i.e., Team Information, Product Information, and Narrative) in a single document. If any responses are missing your application will be considered incomplete. Please include Part 4, and if applicable Part 5, in separate documents. Submit all components of the application package together by email as described in the “How to enter” section.</p> <p><Strong>PART 1: Team information</strong></p>
@@ -140,7 +140,7 @@ challenge-manager-email: TOPprize@census.gov
 </ul>
 <li>Teams applying for the challenge who have participated in The Opportunity Project more than one time may submit multiple products.</li> 
 </ul>
-  <h3>Terms and Conditions</h3>
+  <h4>Terms and Conditions</h4>
 <p>By participating in this challenge, participants:</p>
 <ol type="1">
 <li>Agree to assume any and all risks and waive claims against the federal government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from their participation in this prize contest, whether the injury, death, damage, or loss arises through negligence or otherwise.</li>
@@ -149,7 +149,7 @@ challenge-manager-email: TOPprize@census.gov
 <li>May not be a judge of the challenge, or any other party involved with the design, production, execution, or distribution of the Challenge or the immediate family of such a party (i.e., spouse, parent, step-parent, child, or step-child). </li>
 <li>Applicants must understand that it is their sole responsibility to review and understand their employers’ policies regarding eligibility to participate in this prize challenge. If applicants are participating in violation of employee policies, they may be disqualified from entering and/or receiving prizes. The Census Bureau disclaims any and all liability or responsibility for disputes arising between an employee and their employer related to the competition, and prizes will only be awarded in compliance with the employer's policies.</li>
   </ol>
-<h3>Restrictions</h3>
+<h4>Restrictions</h4>
 <ol type="1">
 <li>An application may be disqualified if it fails to function as expressed in the description provided by the participant, if it provides inaccurate or incomplete information, or if any components of the application are missing.</li>
 <li>Submissions must be free of malware. Participant agrees that the Census Bureau may conduct testing on the application(s) to determine whether malware or other security threats may be present. The Census Bureau may disqualify the application(s) if, in the Census Bureau’s judgment, the application may damage government or others' equipment or operating environment.</li>
@@ -160,7 +160,7 @@ challenge-manager-email: TOPprize@census.gov
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<h3>Judging Panel</h3>
+<h4>Judging Panel</h4>
 <p>Submissions will be reviewed by experts in technology, open data, product development community engagement, user centered design, and the policy issues covered in the prize categories, from federal agencies as well as external organizations. </p> 
 <h3>Judging Criteria</h3>
 <p>Each submission will be scored by multiple reviewers on the following five (5) criteria:</p>
