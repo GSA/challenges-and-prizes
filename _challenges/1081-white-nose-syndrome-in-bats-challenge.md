@@ -7,7 +7,7 @@ sidenav: true
 card-image: /assets/images/cards/WNS-logo-square-340.png
 agency-logo: US-FWS-logo.png
 challenge-title: White-Nose Syndrome - Fight the Fungus, Save Our Bats
-tagline: Share your ideas to help destroy P. destructans and combat white-nose syndrome, a disease killing millions of bats.
+tagline: Share your ideas to help destroy the fungus P. destructans and combat white-nose syndrome, a disease killing millions of bats.
 agency: Department of the Interior - U.S. Fish and Wildlife Service
 partner-agencies-federal:
 partners-non-federal:
