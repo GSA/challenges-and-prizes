@@ -198,6 +198,7 @@ challenge-manager-email: TOPprize@census.gov
  <li>If this product is deployed to end users, has it or will it deliver meaningful improvement on an important problem?</li>   <li>Has the product team described what metrics it will use or is using to measure the product’s tangible social impact</li>
   </ul>
   </ul>
+  <p><strong><em>The Census Bureau reserves the right to choose not to award prizes in one or more categories if a quality threshold is not met.</em></strong></p>
 
 <!--  How To Enter start -->
 ### How To Enter
