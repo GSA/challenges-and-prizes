@@ -23,7 +23,7 @@ submission-start: 06/13/2018 04:15 PM
 fiscal-year: FY 2018
 public-voting-end-date: '08/24/2018 12:00 AM'
 budget-and-resources: ''
-total-prize-offered-cash: ' '
+total-prize-offered-cash: ''
 campaign-owner: Sharon Leu
 public-voting-start-date: '08/15/2018 12:00 AM'
 legal-authority: Other
@@ -36,7 +36,7 @@ total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
 non-monetary-incentives-awarded: ''
-partner-agencies-federal: ' '
+partner-agencies-federal: ''
 judging-end-date: 06/15/2018 12:00 AM
 solicitation-methods: ''
 advancing-the-agency-mission: ''

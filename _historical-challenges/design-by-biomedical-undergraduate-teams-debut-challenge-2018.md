@@ -24,7 +24,7 @@ submission-start: 03/09/2018 12:00 AM
 fiscal-year: FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: ' '
+total-prize-offered-cash: ''
 campaign-owner: Zeynep Erim
 public-voting-start-date: ''
 legal-authority: America COMPETES
@@ -37,7 +37,7 @@ total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
 non-monetary-incentives-awarded: ''
-partner-agencies-federal: ' '
+partner-agencies-federal: ''
 judging-end-date: '08/23/2018 11:59 PM'
 solicitation-methods: ''
 advancing-the-agency-mission: ''

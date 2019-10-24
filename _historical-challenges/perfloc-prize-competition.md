@@ -50,7 +50,7 @@ non-monetary-incentives-awarded: The Prize Purse for the PerfLoc Prize Competiti
   Japan. The Prize Purse may increase, but will not decrease. Any increases in
   the Prize Purse will be posted on the Event Website. NIST reserves the right
   to announce additional winners of non-cash prizes.
-partner-agencies-federal: ' '
+partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''

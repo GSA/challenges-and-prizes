@@ -96,7 +96,7 @@ submission-start: 07/13/2018 10:00 AM
 fiscal-year: FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: ' '
+total-prize-offered-cash: ''
 campaign-owner: Scott Dockum and Olivia Moreno
 public-voting-start-date: ''
 legal-authority: America COMPETES

@@ -28,7 +28,7 @@ submission-start: 06/14/2018 10:00 AM
 fiscal-year: FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: ' '
+total-prize-offered-cash: ''
 campaign-owner: Solving for Safety Visualization Challenge
 public-voting-start-date: ''
 legal-authority: America COMPETES
@@ -44,7 +44,7 @@ non-monetary-incentives-awarded: 'The Challenge consists of three stages.  Indiv
   (Solvers) will compete for an overall prize purse of $350,000.  Four semi-finalists
   will compete for a portion of the $100,000 interim prize and two final stage
   Solvers will compete for a portion of the $250,000 final prize. '
-partner-agencies-federal: ' '
+partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''

@@ -48,7 +48,7 @@ non-monetary-incentives-awarded: "1st Place $25,000; 2nd $20,000; 3rd $15,000;
   4th $10,000; 5th $7,500; 6th $5,000; 7th $2,500\r\nTravel to June 2018 PSCR
   Stakeholders Meeting for finalist: up to $4,000 per contestant or team, up to
   10 selected."
-partner-agencies-federal: ' '
+partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''

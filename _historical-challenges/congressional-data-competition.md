@@ -38,7 +38,7 @@ total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
 non-monetary-incentives-awarded: ''
-partner-agencies-federal: ' '
+partner-agencies-federal: ''
 judging-end-date: 05/18/2018 12:00 AM
 solicitation-methods: ''
 advancing-the-agency-mission: ''

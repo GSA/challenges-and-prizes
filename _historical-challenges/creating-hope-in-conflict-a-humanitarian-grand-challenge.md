@@ -24,7 +24,7 @@ submission-start: 02/19/2018 10:30 AM
 fiscal-year: FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: ' '
+total-prize-offered-cash: ''
 campaign-owner: Devorah West
 public-voting-start-date: ''
 legal-authority: Grants and Cooperative Agreements
@@ -44,7 +44,7 @@ non-monetary-incentives-awarded: "Seed Funding:\r\n10-15 Seed projects are expec
   support over a maximum of twenty-four (24) months to support the refinement,
   testing, and implementation of innovative solutions that have already achieved
   proof of concept.\r\n"
-partner-agencies-federal: ' '
+partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''

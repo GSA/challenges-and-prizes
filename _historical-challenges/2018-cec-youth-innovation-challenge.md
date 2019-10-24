@@ -24,7 +24,7 @@ submission-start: 01/15/2018 12:00 AM
 fiscal-year: FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: ' '
+total-prize-offered-cash: ''
 campaign-owner: Martin Dieu
 public-voting-start-date: ''
 legal-authority: Other
@@ -37,7 +37,7 @@ total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
 non-monetary-incentives-awarded: ''
-partner-agencies-federal: ' '
+partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''

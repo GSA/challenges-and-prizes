@@ -186,7 +186,7 @@ submission-start: 04/28/2017 12:05 PM
 fiscal-year: FY 2017
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: ' '
+total-prize-offered-cash: ''
 campaign-owner: Dr. Machell Town
 public-voting-start-date: ''
 legal-authority: America COMPETES
@@ -205,7 +205,7 @@ non-monetary-incentives-awarded: "Compliance with Rules and Contacting Contest
   after the date of the judging. Awards may be subject to Federal income taxes,
   and the Department of Health and Human Services will comply with the Internal
   Revenue Service withholding and reporting requirements, where applicable.\r\n"
-partner-agencies-federal: ' '
+partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''
