@@ -42,7 +42,7 @@ non-monetary-incentives-awarded: "Phase 1: Design\r\n7-10 winners\r\nUp to $10,0
   be awarded to each winner.\r\nSubmission Period: Fall 2018 – Spring 2019\r\n\r\nPhase
   3: Scaling\r\n1 winner\r\nUp to $150,000 will be awarded.\r\nSubmission Period:
   Spring 2019 – Fall 2019"
-partner-agencies-federal: '0'
+partner-agencies-federal: ' '
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''

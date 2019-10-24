@@ -205,7 +205,7 @@ non-monetary-incentives-awarded: "Compliance with Rules and Contacting Contest
   after the date of the judging. Awards may be subject to Federal income taxes,
   and the Department of Health and Human Services will comply with the Internal
   Revenue Service withholding and reporting requirements, where applicable.\r\n"
-partner-agencies-federal: '0'
+partner-agencies-federal: ' '
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''

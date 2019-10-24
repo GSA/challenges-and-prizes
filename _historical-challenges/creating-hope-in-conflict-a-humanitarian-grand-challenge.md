@@ -44,7 +44,7 @@ non-monetary-incentives-awarded: "Seed Funding:\r\n10-15 Seed projects are expec
   support over a maximum of twenty-four (24) months to support the refinement,
   testing, and implementation of innovative solutions that have already achieved
   proof of concept.\r\n"
-partner-agencies-federal: '0'
+partner-agencies-federal: ' '
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''

@@ -44,7 +44,7 @@ non-monetary-incentives-awarded: 'The Challenge consists of three stages.  Indiv
   (Solvers) will compete for an overall prize purse of $350,000.  Four semi-finalists
   will compete for a portion of the $100,000 interim prize and two final stage
   Solvers will compete for a portion of the $250,000 final prize. '
-partner-agencies-federal: '0'
+partner-agencies-federal: ' '
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''
