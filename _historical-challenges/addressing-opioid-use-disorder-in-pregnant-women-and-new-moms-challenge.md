@@ -179,7 +179,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 162
 showTagline: true
-name: Addressing Opioid Use Disorder in Pregnant Women and New Moms Challenge
+name: Addressing Opioid Use Disorder in Pregnant Women and New Moms
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
