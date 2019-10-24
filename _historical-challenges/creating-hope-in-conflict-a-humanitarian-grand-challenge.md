@@ -24,7 +24,7 @@ submission-start: 02/19/2018 10:30 AM
 fiscal-year: FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '0'
+total-prize-offered-cash: ' '
 campaign-owner: Devorah West
 public-voting-start-date: ''
 legal-authority: Grants and Cooperative Agreements

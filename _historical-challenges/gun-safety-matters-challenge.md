@@ -24,7 +24,7 @@ submission-start: '09/19/2017 12:00 AM'
 fiscal-year: FY 2017
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '0'
+total-prize-offered-cash: ' '
 campaign-owner: Jarah Meador
 public-voting-start-date: ''
 legal-authority: Procurement Authority

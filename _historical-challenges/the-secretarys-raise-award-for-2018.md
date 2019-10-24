@@ -51,7 +51,7 @@ submission-start: 04/20/2018 12:00 AM
 fiscal-year: FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '0'
+total-prize-offered-cash: ' '
 campaign-owner: Patricia Watts
 public-voting-start-date: ''
 legal-authority: Grants and Cooperative Agreements

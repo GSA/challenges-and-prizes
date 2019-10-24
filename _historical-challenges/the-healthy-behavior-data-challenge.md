@@ -186,7 +186,7 @@ submission-start: 04/28/2017 12:05 PM
 fiscal-year: FY 2017
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '0'
+total-prize-offered-cash: ' '
 campaign-owner: Dr. Machell Town
 public-voting-start-date: ''
 legal-authority: America COMPETES

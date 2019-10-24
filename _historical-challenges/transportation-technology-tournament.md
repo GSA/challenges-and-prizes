@@ -24,7 +24,7 @@ submission-start: 12/01/2017 12:00 AM
 fiscal-year: FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '0'
+total-prize-offered-cash: ' '
 campaign-owner: Adam Hopps
 public-voting-start-date: ''
 legal-authority: Other

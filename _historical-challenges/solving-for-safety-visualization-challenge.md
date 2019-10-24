@@ -28,7 +28,7 @@ submission-start: 06/14/2018 10:00 AM
 fiscal-year: FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '0'
+total-prize-offered-cash: ' '
 campaign-owner: Solving for Safety Visualization Challenge
 public-voting-start-date: ''
 legal-authority: America COMPETES

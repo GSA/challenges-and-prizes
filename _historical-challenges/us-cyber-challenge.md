@@ -24,7 +24,7 @@ submission-start: 03/27/2018 07:00 AM
 fiscal-year: FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '0'
+total-prize-offered-cash: ' '
 campaign-owner: Katie Hanson
 public-voting-start-date: ''
 legal-authority: Public-Private Partnership Authority

@@ -24,7 +24,7 @@ submission-start: 04/10/2018 12:00 AM
 fiscal-year: FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '0'
+total-prize-offered-cash: ' '
 campaign-owner: Barbara Ellen Reynolds
 public-voting-start-date: ''
 legal-authority: Grants and Cooperative Agreements
