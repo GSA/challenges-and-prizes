@@ -23,7 +23,7 @@ submission-start: 06/07/2018 12:00 AM
 fiscal-year: FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '3000000'
+total-prize-offered-cash: '3,000,000'
 campaign-owner: Victor Kane
 public-voting-start-date: ''
 legal-authority: America COMPETES
