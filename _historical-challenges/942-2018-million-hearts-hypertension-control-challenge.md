@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: 
 type-of-challenge: Ideas
-submission-start: 2018/02/20 12:00 AM
-submission-end: 2018/04/06 11:59 PM
+submission-start: 02/20/2018 12:00 AM
+submission-end: 04/06/2018 11:59 PM
 submission-link: http://www.mhhypertensionchallenge.com/home
 prizes: true
 fiscal-year: FY18

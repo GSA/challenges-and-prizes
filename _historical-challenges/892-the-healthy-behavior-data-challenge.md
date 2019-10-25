@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: 
 type-of-challenge: Ideas
-submission-start: 2017/04/28 12:05 PM
-submission-end: 2018/01/15 12:00 AM
+submission-start: 04/28/2017 12:05 PM
+submission-end: 01/15/2018 12:00 AM
 submission-link: 
 prizes: true
 fiscal-year: FY17

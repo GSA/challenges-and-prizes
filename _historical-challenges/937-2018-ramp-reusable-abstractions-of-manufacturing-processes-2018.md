@@ -14,8 +14,8 @@ partners-non-federal: ASTM International E60 Committee, ASME MSEC, SME NAMRC
 external-url:
 total-prize-offered-cash: $2,850
 type-of-challenge: Scientific
-submission-start: 2018/01/29 09:00 AM
-submission-end: 2018/04/21 03:00 AM
+submission-start: 01/29/2018 09:00 AM
+submission-end: 04/21/2018 03:00 AM
 submission-link:  
 prizes: true
 fiscal-year: FY18

@@ -14,8 +14,8 @@ partners-non-federal: Molloy & Associates, LLC
 external-url:
 total-prize-offered-cash: $100,000
 type-of-challenge: Scientific
-submission-start: 2017/12/14 12:00 AM
-submission-end: 2018/02/28 12:00 AM
+submission-start: 12/14/2017 12:00 AM
+submission-end: 02/28/2018 12:00 AM
 submission-link: https://www.innocentive.com/ar/challenge/9933880 
 prizes: true
 fiscal-year: FY18

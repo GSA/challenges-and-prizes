@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $20,500,000
 type-of-challenge: Scientific
-submission-start: 2018/06/01 09:00 AM
-submission-end: 2018/09/04 11:59 PM
+submission-start: 06/01/2018 09:00 AM
+submission-end: 09/04/2018 11:59 PM
 submission-link: http://www.cccinnovationcenter.com/challenge/antimicrobial-resistance-diagnostic-challenge/
 prizes: true
 fiscal-year: 2018
