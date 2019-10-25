@@ -43,7 +43,7 @@ partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''
-rules: "&nbsp;    &nbsp;"
+rules: ''
 submission-start-date-1: ''
 hide-challenge-timeline: 'No'
 judging-start-date: ''
