@@ -115,6 +115,20 @@ prizes: true
 <li>Contact Control Interfaces</li>
 <li>Janus Research Group, Inc.</li>
 </ul>
+<p><strong>Phase 4 &ndash; Evaluation Round 1: Haptic Interface Prototypes in Virtual Reality Prize Winners:</strong></p>
+<p>Haptic Development Teams: This group of contestants each received $2,500 in cash prizes; be awarded up to $4,000 in invitational travel to the firefighter navigation course and live competition; and PSCR will also rank and award the top 3 Haptic Development Teams based on Evaluation Round 1 who will eligible to receive additional cash prizes &ndash; 1st $7,500, 2nd $5,000, 3rd $2,500.</p>
+<p>Haptic Development Teams:</p>
+<ul>
+<li>ENGR Dynamics ($10,000 in cash prizes)</li>
+<li>Carnegie Mellon University ($7,500 in cash prizes)</li>
+<li>Team DSGN ($5,000 in cash prizes)</li>
+<li>Team Haply ($2,500 in cash prizes)</li>
+</ul>
+<p>Haptic Providers: this group of contestants could receive $7,500 in cash prizes per development team supported and be awarded up to $4,000 in invitational travel to the firefighter navigation course and live competition.</p>
+<ul>
+<li>Engineering Acoustics, Inc. ($7,500 in cash prizes)</li>
+<li>Janus Research Group, Inc. ($7,500 in cash prizes)</li>
+</ul>
 
 <!-- end-prizes -->
 
