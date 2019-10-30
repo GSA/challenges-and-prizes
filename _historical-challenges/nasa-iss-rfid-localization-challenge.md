@@ -127,7 +127,7 @@ voteCount: 0
 ideaTabEnabledForChallenge: true
 moderatorAdminOnlyIdeasNotificationEnabled: false
 hideCommentAuthor: false
-authorizedGroupIds: - 28
+authorizedGroupIds: 28
 userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 281

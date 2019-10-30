@@ -45,7 +45,7 @@ judging-end-date: '08/13/2018 12:00 AM'
 solicitation-methods: ''
 advancing-the-agency-mission: ''
 rules: <strong>Participants must register on the website <a href="https://sites.mitre.org/armychallenge/">https://sites.mitre.org/armychallenge/</a>to
-  enter.  All submissions must conform to the requirements set forth on https://sites.mitre.org/armychallenge/. 
+  enter. All submissions must conform to the requirements set forth on https://sites.mitre.org/armychallenge/.
   </strong>    &nbsp;
 submission-start-date-1: ''
 hide-challenge-timeline: 'No'
@@ -225,7 +225,7 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-  description: '<strong>Registration will be conducted on a third-party site: <a href="https://sites.mitre.org/armychallenge/"
+description: '<strong>Registration will be conducted on a third-party site: <a href="https://sites.mitre.org/armychallenge/"
   target="_blank" rel="noopener">https://sites.mitre.org/armychallenge/</a></strong>    Did
   you know the Army Rapid Capabilities Office (RCO) is sponsoring a Blind Signal Classification
   Challenge where the winners will split $150,000? Set to launch on April 30, the

@@ -1,6 +1,6 @@
 ---
-ideaSubmitFormInstruction: LC will accept submissions only through <a href="http://www.challenge.gov/">challenge.gov</a>.
-See Rules for more details.
+ideaSubmitFormInstruction: LC will accept submissions only    through <a href="http://www.challenge.gov/">challenge.gov</a>.
+  See Rules for more details.
 startDate: '2018-11-26T07:12:51'
 votingAllowed: false
 newCampaign: false

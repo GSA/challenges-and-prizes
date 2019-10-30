@@ -13,7 +13,7 @@ funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
 tagline: Fuse the outputs of multiple face recognition algorithms to improve accuracy
 groupName: Office of Director of National Intelligence - Intelligence Advanced Research
-Project Activity
+  Project Activity
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:

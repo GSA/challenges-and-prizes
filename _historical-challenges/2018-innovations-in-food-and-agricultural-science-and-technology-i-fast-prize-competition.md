@@ -586,7 +586,7 @@ bannerImage: ''
 groupId: 182
 showTagline: true
 name: 2018 Innovations in Food and Agricultural Science and Technology (I-FAST) Prize
-Competition
+  Competition
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
