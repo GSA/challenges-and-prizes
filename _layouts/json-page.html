@@ -18,7 +18,7 @@ layout: default
                 <div id="a1" class="usa-accordion__content bg-gray-5">
                     <div class="text-base-darker">
                             {% if page.total-prize-offered-cash != "" %}
-                            <i class="fas fa-money-bill-wave text-accent-warm-dark font-size-mono-xl"></i><span class="text-primary text-uppercase"> Total Cash Prizes Offered: </span> {{ page.total-prize-offered-cash }}<br>
+                            <i class="fas fa-money-bill-wave text-accent-warm-dark font-size-mono-xl"></i><span class="text-primary text-uppercase"> Total Cash Prizes Offered: </span> ${{ page.total-prize-offered-cash }}<br>
                             {% endif %}
                             <i class="fas fa-stream text-accent-warm-dark"></i><span class="text-primary text-uppercase"> Type of Challenge:</span>  {{ page.type-of-challenge }}</span><br>
                             {% if page.partner-agencies-federal != "" %}

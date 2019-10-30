@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $87,500
 type-of-challenge: Software and apps
-submission-start: 2018/01/02 05:00 PM
-submission-end: 2018/01/29 09:00 PM
+submission-start: 01/02/2018 05:00 PM
+submission-end: 01/29/2018 09:00 PM
 submission-link:  
 prizes: true
 fiscal-year: FY18
