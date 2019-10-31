@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $800,000
 type-of-challenge: Software/Apps
-submission-start: 2016/12/21 12:00 AM
-submission-end: 2018/05/03 12:00 AM
+submission-start: 12/21/2016 12:00 AM
+submission-end: 05/03/2018 12:00 AM
 submission-link: https://www.innocentive.com/ar/challenge/9933764
 prizes: true
 fiscal-year: FY17

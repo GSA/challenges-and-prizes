@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $17,500
 type-of-challenge: Software and apps
-submission-start: 2018/01/26 12:00 PM
-submission-end: 2018/05/17 05:00 PM
+submission-start: 01/26/2018 12:00 PM
+submission-end: 05/17/2018 05:00 PM
 submission-link: http://www.nist.gov/ariac
 prizes: true
 fiscal-year: FY18

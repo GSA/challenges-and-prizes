@@ -52,7 +52,12 @@ primary_navigation:
       - name: FAQ
         url: /toolkit/faq/
   - name: Archived Challenges
-    url: /archive/
+    children:
+      - name: 2019
+        url: /archive/2019/
+      - name: 2018
+        url: /archive/2018/
+
 
 secondary_navigation:
   - name: Secondary link
