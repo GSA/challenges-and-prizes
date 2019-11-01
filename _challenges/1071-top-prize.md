@@ -26,7 +26,7 @@ challenge-manager-email: TOPprize@census.gov
 
 <h3>The Opportunity Project Prize Challenge held an open Q&A and informational webinar on Monday, October 28. <a href="https://census.webex.com/census/ldr.php?RCID=e5afc6a6694a265cfad89a78e685f96f" target="_blank" rel="noopener">Dowload the recording</a>.</h3>
 
-<h3>View the final <a href="{{ site.baseurl }}/assets/document-library/TOP-Prize-Evaluation-Rubric.pdf" target="_blank" rel="noopener">judging criteria</a> for the prize.</h3>
+<h3>View the final <a href="{{ site.baseurl }}/assets/document-library/TOP-Prize-Evaluation-Rubric.pdf" target="_blank" rel="noopener">scoring rubric</a> for the prize.</h3>
 
 
 <!-- Description start -->
