@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/opportunity-project-prize/
 challenge-id: 1071
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/TOP-Prize-logo-large.png
 agency-logo: US-Census-Bureau-logo.png
