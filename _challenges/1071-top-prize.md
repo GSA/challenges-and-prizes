@@ -26,7 +26,7 @@ challenge-manager-email: TOPprize@census.gov
 
 <h3>The Opportunity Project Prize Challenge held an open Q&A and informational webinar on Monday, October 28. <a href="https://census.webex.com/census/ldr.php?RCID=e5afc6a6694a265cfad89a78e685f96f" target="_blank" rel="noopener">Dowload the recording</a>.</h3>
 
-<h3>View the final <a href="{{ site.baseurl }}/assets/document-library/TOP-Prize-Evaluation-Rubric.pdf" target="_blank" rel="noopener">judging criteria</a> for the prize.</h3>
+<h3>View the final <a href="{{ site.baseurl }}/assets/document-library/TOP-Prize-Evaluation-Rubric.pdf" target="_blank" rel="noopener">scoring rubric</a> for the prize.</h3>
 
 
 <!-- Description start -->
@@ -166,7 +166,7 @@ challenge-manager-email: TOPprize@census.gov
 <h4>Judging Panel</h4>
 <p>Submissions will be reviewed by experts in technology, open data, product development community engagement, user centered design, and the policy issues covered in the prize categories, from federal agencies as well as external organizations. </p> 
 <h4>Judging Criteria</h4>
-<p>View the final <a href="{{ site.baseurl }}/assets/document-library/TOP-Prize-Evaluation-Rubric.pdf" target="_blank" rel="noopener">judging criteria.</a></p>
+<p>View the final <a href="{{ site.baseurl }}/assets/document-library/TOP-Prize-Evaluation-Rubric.pdf" target="_blank" rel="noopener">scoring rubric.</a></p>
 <p>Each submission will be scored by multiple reviewers on the following five (5) criteria:</p>
 <ul>
   <li><strong>Quality + Technical Evaluation (20%): </strong>This score focuses on the overall user experience and user interface (UX/UI) design of the product, designing and implementation of product functionality, visual design if applicable, and generally how well the product achieves its stated functionality. This includes questions such as:</li> 
