@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash: $150,000
 type-of-challenge: Technology demonstration and hardware; Analytics, visualizations and algorithms; Scientific
 submission-start: 2019/09/18 08:00 AM
-submission-end: 2019/11/22 07:59 AM
+submission-end: 2019/12/31 11:59 PM
 submission-link: 
 prizes: true
 fiscal-year: FY19, FY20
