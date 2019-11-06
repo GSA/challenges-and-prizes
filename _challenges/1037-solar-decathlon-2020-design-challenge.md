@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/solar-decathlon-2020-design-challenge/
 challenge-id: 1037
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/solar_decathlon_logo.png
 agency-logo: 256px-Seal_of_the_United_States_Department_of_Energy.png
