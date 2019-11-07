@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/self-healing-material-system/
 challenge-id: 1079
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/Full-Ocean-Depth-challenge.jpg
 agency-logo: dod_seal.jpg
@@ -51,7 +51,7 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>Terms and Conditions</strong></p>
-<p><strong>&nbsp;T</strong>hese terms and conditions apply to all participants in the Challenge.</p>
+<p>These terms and conditions apply to all participants in the Challenge.</p>
 <p>Agreement to Terms. By responding to this announcement, the participant agrees to comply with and be bound by the rules (including these terms and conditions) of this prize challenge and the decisions of the Government, which rules and decisions are binding and final in all matters relating to this challenge.</p>
 <p>Security Requirements. By responding to this announcement, the participant agrees to comply with the DoDM 5200.01 (all volumes) and any revisions to this manual.</p>
 <p>Participation by Government Support Contractors. Government support contractors will assist in the review of any data provided by participants. A non-disclosure agreement (NDA) has been signed by the support contractors with the Government that precludes them from disclosing any proprietary data outside of the Government. If participants desire a separate NDA with the Government support contractors, participants should submit a NDA form, along with instructions, with their initial qualification application.</p>
