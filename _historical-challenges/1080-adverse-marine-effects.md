@@ -1,24 +1,24 @@
 ---
 layout: front-matter-data
-permalink: /challenge/self-healing-material-system/
-challenge-id: 1079
+permalink: /challenge/adverse-marine-effects/
+challenge-id: 1080
 status: closed
 sidenav: true
 card-image: /assets/images/cards/Full-Ocean-Depth-challenge.jpg
 agency-logo: dod_seal.jpg
-challenge-title: Self-Healing Material System
-tagline: The Navy is seeking ideas and best practices in developing a self-healing material system for composite structures and/or vehicles.
+challenge-title: Adverse Marine Effects
+tagline: The Navy is seeking ideas and best practices in mitigating adverse marine effects on composite materials.
 agency: Department of Defense
 partner-agencies-federal: Naval Undersea Warfare Center Division Newport, Office of Naval Research
 partners-non-federal:
 external-url:
 total-prize-offered-cash:
 type-of-challenge: Ideas; Technology demonstration and hardware; Scientific
-submission-start: 2019/10/25 02:00 PM 
-submission-end: 2019/11/05 02:00 PM 
+submission-start: 10/25/2019 02:00 PM 
+submission-end: 11/05/2019 02:00 PM 
 submission-link:
 prizes: true
-fiscal-year: FY20
+fiscal-year: FY19, FY20
 legal-authority: America COMPETES
 challenge-manager: Christopher Hebert
 challenge-manager-email: christopher.r.hebert@navy.mil
@@ -30,9 +30,9 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 ### Description
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p>Developing a Self-Healing material system for composite structures and/or vehicles in order to mitigate and/or counteract the adverse effects of fatigue, cyclic, and low impact damage while potentially extending service life and reducing maintenance costs.</p>
+<p>The marine community needs a robust encapsulation/coating method for composite structures and/or vehicles in order to protect them from the adverse effects of long-term seawater immersion/exposure and impact/dynamic loading.</p>
 <p>The goal of this prize challenge is to seek solutions or technology to:</p>
-<p>A self-healing material system for composite structures and/or vehicles in order to mitigate and/or counteract the adverse effects of fatigue, cyclic, and low impact damage while potentially extending service life and reducing maintenance costs.</p>
+<p>Develop a encapsulation/coating method for composite structures and/or vehicles in order to protect them from the adverse effects of long-term seawater immersion/exposure and impact/dynamic loading. &nbsp;</p>
 
 <!-- Prizes start -->
 ### Prizes
@@ -58,7 +58,7 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 <p>Other Transaction Authority (OTA). At the Government&rsquo;s discretion, the Government may choose to award an Other Transaction Authority (OTA) award (under 10 U.S. Code, Section 2371 or 2371b) under these authorities to any chosen participant in this prize challenge. In the case of an award under 10 U.S. Code, Section 2371b, a successful prototype project may result in the further award of a follow-on OTA without additional competition. The case of an award under any of the authorities mentioned, significant quantities may be needed for field-testing.</p>
 <p>NOTE: The Government may negotiate Government Purpose Rights when requesting proposals if an Other Transaction Authority award is contemplated.</p>
 <p>Malware. Each participant warrants that the submission is virus free and free of malware.</p>
-<p>Intellectual Property (IP) Rights. All data submitted under the Prize Challenge will be made available to NAVSEA and parties authorized to act on behalf of NAVSEA.&nbsp;&nbsp; By accepting these Terms and Conditions, the participant consents to the use of data submitted to NAVSEA.&nbsp; Any materials submitted to NAVSEA as part of a prize challenge submission become NAVSEA records and will not be returned.</p>
+<p>Intellectual Property (IP) Rights. All data submitted under the Prize Challenge will be made available to NAVSEA and parties authorized to act on behalf of NAVSEA, including its contractors.&nbsp; By accepting these Terms and Conditions, the participant consents to the use of data submitted to NAVSEA.&nbsp; Any materials submitted to NAVSEA as part of a prize challenge submission become NAVSEA records and will not be returned.</p>
 <p>The use of protective markings such as &ldquo;Do Not Publicly Release &ndash; Trade Secret&rdquo; or &ldquo;Do Not Publicly Release &ndash; Confidential Proprietary Business Information&rdquo; in the Header or Footer of the Submission is strongly encouraged where appropriate.&nbsp; However, participants should be aware that the use of protective markings is not dispositive as to whether information will be released publicly pursuant to a request for records under the Freedom of Information Act, (FOIA) 5 U.S.C. &sect;552, et. seq., as amended by the OPEN Government Act of 2007, Pub. L. No. 110-175. Any information received from the participant is considered to be a federal agency record, and as such, subject to public release under FOIA.&nbsp; Decisions to disclose or withhold information received from a participant are based on the applicability of one or more of the nine FOIA exemptions, not on the existence or nonexistence of protective markings.&nbsp; Only the agency&rsquo;s designated FOIA Officer may determine if information sought under a FOIA request will be withheld pursuant to one or more of the nine FOIA exemptions. All FOIA requests received by NAVSEA are processed in accordance with 10 C.F.R. Part 1004.&nbsp; Participants will be notified of any FOIA requests for their submissions in accordance with 29 C.F.R. &sect; 70.26.&nbsp; Participants may then have the opportunity to review materials and work with a NAVSEA FOIA representative prior to the release of materials.</p>
 <p>By participating in this Challenge, each individual (whether participating singly or in a group) warrants and assures the Government that any data used for the purpose of submitting an entry for this Challenge, were obtained legally through authorized access to such data.</p>
 <p>By participating in this Challenge, each individual (whether participating singly or in a group) warrants and assures the Government that there are no known or pending patents on or related to the technology proposed within the submissions or, if there are known or pending patents, that the patent holder grants to the Government a fully paid, nonexclusive, irrevocable, worldwide license to use, or have used on the Government&rsquo;s behalf, the patented material.</p>
@@ -108,13 +108,12 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 <p>A panel of judges will screen all submissions for compliance with the rules and terms and conditions detailed herein.</p>
 <p>Phase II: Each of the companies that move onto Phase II will be invited to pitch their proposal to the panel of judges during certain days.&nbsp; This pitch shall include information containing the following:</p>
 <ul>
-<li>Solution shall be compatible with both E-Glass and Carbon based laminates utilizing Epoxy and Vinyl Ester matrix systems</li>
-<li>Solution shall be able to self-heal in a fully submerged saltwater environment</li>
-<li>Coating shall be compatible (compatible meaning that the coating shall not degrade/dissolve/decompose when in contact with salt water nor become debonded from the underlying substrate) with submergence in a saline fluid (seawater of average ocean conditions)</li>
-<li>Shall be capable of operating in the 5%-95% environmental range of ocean temperatures</li>
-<li>The method shall not affect the structural integrity of the structure or operational capabilities such as stiffness / strength.</li>
-<li>Shall be suitable for submerged pressures, ocean depths, and sustained long term deployment</li>
-<li>Shall not require maintenance on a recurring basis</li>
+<li>Coating shall be capable of adhesion / bonding to E-Glass and Carbon-based laminates utilizing Epoxy and Vinyl Ester matrix systems</li>
+<li>Coating shall be compatible (compatible meaning the coating shall not degrade/dissolve/decompose when in contact with salt water nor become debonded from the underlying substrate) with submergence in a saline fluid (seawater of average ocean conditions)</li>
+<li>Coating shall be demonstrated to provide impact/dynamic loading protection to underlying laminate</li>
+<li>Coating shall be capable of operating in the 5%-95% environmental range of ocean temperatures</li>
+<li>Coated material must have similar hydrodynamic smoothness as the material without the coating.</li>
+<li>Coating shall not require maintenance on a recurring basis n</li>
 </ul>
 <p>In Phase II, companies will be evaluated by the review panel on a scale of 0-25 points (25 being the highest). The evaluation criteria is provided below:</p>
 <table style="border-collapse: collapse; border: none;" width="654">
@@ -327,19 +326,20 @@ challenge-manager-email: christopher.r.hebert@navy.mil
 </tbody>
 </table>
 <p>The virtual proof of life check of the Minimum Viable Product shall be presented to the Navy experts. The virtual presentation shall present a preliminary concept / design. &nbsp;</p>
-<p>Phase III: The offeror shall be evaluated based on the below demonstration and resulting datacriteria (using the same matrix as previously detailed above):</p>
+<p>Phase III: The offeror shall be evaluated based on the below demonstration and resulting data criteria (using the same matrix as previously detailed above):</p>
 <ul>
-<li>Underlying Baseline Laminate Substrate: For the purposes of demonstration, the solid laminate substrate to which the self-healing solution is demonstrated shall be 0.1&rdquo; thick and a balanced, bi-axial construction laminate plate/panel.</li>
+<li>Underlying Baseline Laminate Substrate: For the purposes of demonstration, the solid laminate substrate to which the coating is applied shall be 0.1&rdquo; thick and a balanced, bi-axial construction laminate plate/panel</li>
 <li>Void Content and Fiber Volume Fraction shall be quantified and will be evaluated in accordance with the matrix detailed above.</li>
-<li>Mechanical Characterization of Baseline and Self-Healing Laminate Substrates: Mechanical material properties shall be characterized for the baseline (no healing implementation) and self-healing laminate for both tensile and flexure stiffness/strength data according to ASTM Standard D3039-14 and ASTM Standard ASTM D7264 / D7264M, respectively. These baseline tensile and flexural material properties will serve as the basis for comparison the material degradation quantification tests below.</li>
-<li>Mechanical Failure Strength of Baseline and Self-Healing Laminate Substrates: The baseline and self-healing laminates shall be tested to failure in both tension and flexure to establish the respective strength capacity of each configuration and to demonstrate little/no structural integrity reductions occur in self-healing design over the non-healing baseline.</li>
-<li>The self-healing methodology shall not significantly influence the tensile or flexure failure strength of the overall laminate as compared to the strength of the non-healing laminate</li>
-<li>Demonstration of Self-Healing Capabilities in a Dry Environment: Utilizing the results of the strength characterization testing as a baseline, samples of the self-healing laminate shall be loaded to 5%, 10%, 25%, and 50% of the expected failure stress in both tension and flexure (independently) and subsequently allowed to self-heal in a dry environment.</li>
-<li>Post healing, the samples shall be reloaded to failure and the capability of the healing method shall be quantified in terms of baseline material strengths</li>
-<li>Demonstration of Self-Healing Capabilities in a Submerged Salt Water Environment: Utilizing the results of the strength characterization testing as a baseline, Samples of the self-healing laminate shall be loaded to 5%, 10%, 25%, and 50% of the expected failure stress in both tension and flexure (independently) and subsequently allowed to self-heal in a submerged salt water environment.</li>
-<li>Post healing, the samples shall be reloaded to failure and the capability of the healing method shall be quantified in terms of baseline material strengths.</li>
+<li>Mechanical Characterization of Baseline Laminate Substrate: Baseline Material property performance (Dry/Unaged) shall be characterized for both tensile and shear stiffness/strength data according to ASTM Standard D3039-14 and ASTM Standard D3518-13, respectively.&nbsp; These baseline tensile and shear material properties will serve as the basis for comparison for the material degradation quantification tests below.</li>
+<li>Reduced Water Absorption: Uncoated and Coated panels will be submerged in a salt bath at 65&deg;C for a time period of 30 days utilizing a submergence facility of similar nature to those documented in http://dx.doi.org/10.1016/j.compositesb.2017.07.023 and https://doi.org/10.1007/s41939-017-0004-6</li>
+<li>During the submergence testing, daily measurements shall be taken of weight increase (%) due to water absorption in a manner consistent with the process documented in the above references (e.g. (wet weight &ndash; dry weight)/dry weight X 100%)</li>
+<li>The effect of the coatings shall be quantified in terms of reductions in water absorption of the coated plates over the uncoated plates.</li>
+<li>Mechanical Characterization of Aged Laminate Substrate: After material ageing due to water absorption testing, the coated and uncoated materials shall be re-characterized for tensile and shear material properties as detailed above and any degradations in stiffness and strength material properties documented.</li>
+<li>The effect of the coatings shall be quantified in terms of reductions of tensile and shear material property degradation between the uncoated and coated plates</li>
+<li>Coating as Mitigator of Impact Damage on Baseline Laminate Substrate: For the purposes of quantifying the potential effectiveness of the coating as an impact damage mitigator to the underlying substrate, drop tower testing shall be conducted in accordance with D7136/D7136M.&nbsp; These tests shall be conducted on dry, non-soaked panels to isolate the damage mitigation capability of the coatings.</li>
+<li>Uncoated and coated panels shall be impact tested and the effectiveness of the coating shall be quantified in terms of the resulting size and type of damage in the respective specimens. Reductions in damage to the laminate itself shall be the measure of effectiveness of the coating</li>
+<li>In all cases, results shall be normalized to uncoated plate weight (per unit area)</li>
 </ul>
-<p>In all cases results shall be normalized to non-self-healing plate weight (per unit area)</p>
 
 <!--  How To Enter start -->
 ### How To Enter
