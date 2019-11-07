@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/solar-decathlon-2020-design-challenge/
 challenge-id: 1037
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/solar_decathlon_logo.png
 agency-logo: 256px-Seal_of_the_United_States_Department_of_Energy.png
@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash:
 type-of-challenge: Creative (design & multimedia)
-submission-start: 2019/07/31 12:00 AM
-submission-end: 2019/11/05 5:00 PM
+submission-start: 07/31/2019 12:00 AM
+submission-end: 11/05/2019 5:00 PM
 submission-link: https://www.solardecathlon.gov/2019/design/challenge.html
 prizes: true
 fiscal-year: FY19-20
@@ -135,5 +135,5 @@ challenge-manager-email: Rachel.Romero@nrel.gov
 <p><span lang="EN">For this coming cycle, teams that apply by November 2019 and are selected to proceed after submitting their Project Progress Report in February 2020 will be invited to complete their project in March and then present at the Design Challenge Weekend at NREL in April 2020.</span></p>
 <p><span lang="EN">First and second place winners, as well as honorable mentions&mdash;one from each Division&mdash;are determined by juried evaluation across all 10 Contests and awarded with trophies at the annual Design Challenge Weekend. In addition, two Design Challenge Grand Winners are also selected from the pool of six first-place winners and provided with a special award.</span></p>
 <p><span lang="EN">Ready to learn more? Teams interested in participating in the Design Challenge should carefully review the complete set of entry requirements, available in the <a href="https://www.solardecathlon.gov/2020/assets/pdfs/sd-design-challenge-rules.pdf" target="_blank" rel="noopener">Solar Decathlon Design Challenge Rules</a>.</span></p>
-<p><span lang="EN">More information is available at&nbsp;<a href="https://www.solardecathlon.gov/2020/assets/pdfs/sd-design-challenge-rules.pdf" target="_blank" rel="noopener">Solar Decathlon Design Challenge Rules</a>.</span></p>
+<p><span lang="EN">More information is available at <a href="https://www.solardecathlon.gov/2020/assets/pdfs/sd-design-challenge-rules.pdf" target="_blank" rel="noopener">Solar Decathlon Design Challenge Rules</a>.</span></p>
       </div>
