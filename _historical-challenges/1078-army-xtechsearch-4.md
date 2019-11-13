@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/army-xtechsearch-4/
 challenge-id: 1078
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/xtechsearch_4.png
 agency-logo: dod_seal.jpg
@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $2,280,000
 type-of-challenge: Ideas, Technology demonstration and hardware
-submission-start: 2019/10/01
-submission-end: 2019/11/12 02:59 AM
+submission-start: 10/01/2019
+submission-end: 11/12/2019 02:59 AM
 submission-link:  
 prizes: true
 fiscal-year: FY20, FY21
