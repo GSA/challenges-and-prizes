@@ -61,7 +61,7 @@ challenge-manager-email: (will display in the Point of Contact field)
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p>Please review the official rules for the judging criteria here: < a href="https://www.herox.com/oceanobserving" target="_blank" rel="noopener">https://www.herox.com/oceanobserving</a>.</p>
+<p>Please review the official rules for the judging criteria here: <a href="https://www.herox.com/oceanobserving" target="_blank" rel="noopener">https://www.herox.com/oceanobserving</a>.</p>
 
 <!--  How To Enter start -->
 ### How To Enter
