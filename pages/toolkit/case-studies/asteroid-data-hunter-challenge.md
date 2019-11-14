@@ -32,7 +32,7 @@ id="9475" itemscope="" itemtype="http://schema.org/CreativeWork">
 <div style="line-height: .75rem">
 <h1 style="margin-top: 1em;">Asteroid Data Hunter Challenge | NASA</h1>
 </div>
-<p style="font-size: x-large;">The Asteroid Data Hunter Challenge was the first open innovation project in support of a NASA grand challenge to find all asteroid threats to human populations and determine what to do about them. This inaugural challenge led to development of software accessible enough that citizen scientists, hobbyist astronomers, and even professional organizations/institutions could download and use it.
+<p style="font-size: x-large;">The Asteroid Data Hunter Challenge was the first open innovation project in support of a NASA grand challenge to find all asteroid threats to human populations. This inaugural challenge led to development of software accessible enough that citizen scientists, hobbyist astronomers, and even professional organizations/institutions could download and use it.
 </p>
 <br>
 <h2>Background</h2>
@@ -76,14 +76,15 @@ id="9475" itemscope="" itemtype="http://schema.org/CreativeWork">
 <p>This project was initiated purely as an algorithm-improvement challenge. It wasn&rsquo;t until it was clear the improvement was going to be significant that the idea was born to use that algorithm as part of a software application that could be used by citizen scientists. Given how well the NASA, PRI, and Topcoder personnel were working together, the second phase fell into place quickly and easily once funding was secured.</p>
 <p>This wasn&rsquo;t necessarily a lesson learned as much as a confirmation of the benefits of open innovation. In this case, NASA and its partners adapted based on initial results, and the project morphed into something with even greater reach and utility.</p>
 
-<h2>Challenge Type: Software and Apps, Analytics, Visualizations, and Algorithms (AVA)</h2>
+<h2>Challenge Type</h2>
+<p><strong>Software and Apps, Analytics, Visualizations, and Algorithms (AVA)</strong></p>
 <p>NASA, in partnership with PRI, launched the Asteroid Data Hunter challenge in 2014-2015 to improve the algorithms for image processing of telescopic space imagery to detect asteroids. This challenge was conducted by TopCoder through NASA&rsquo;s contract with Harvard University.&nbsp;&nbsp;</p>
 <p>The challenge had over $70,000 in prizes and resulted in an algorithm that was determined to be 15 percent better than current methods in locating asteroids in the main belt. Additionally, the project built the algorithm into a multiplatform downloadable app for use by amateur astronomers.</p>
 <p>Given the data set that was available through partnership with PRI, and NASA and PRI&rsquo;s interest in more efficiently sifting through the available data, this was the perfect problem to address with an algorithm challenge. NASA had been experimenting with image-processing algorithms prior to this effort, and that previous experience benefitted the challenge. Also, once the successful algorithm results were known, there was an added goal of making sure that capability could be placed in the hands of both amateurs and professionals.</p>
 <p>This is a good example of a problem aptly suited to an algorithm challenge that evolved into an effort to develop an app that was easy to use. The expertise and effort already underway for the algorithm challenge became the perfect scenario for a follow-on software development challenge. Thus, what started as a challenge to generate a specialized scientific tool resulted in a solid application that supports the use of citizen science to support scientific discovery.</p>
 
 <h2>Legal Authority</h2>
-<p>Procurement Authority</p>
+<p><strong>Procurement Authority</strong></p>
  
 <h2>Challenge Website</h2>
 <p><a href="https://www.nasa.gov/content/asteroid-data-hunter-challenge-0">https://www.nasa.gov/content/asteroid-data-hunter-challenge-0</a>
