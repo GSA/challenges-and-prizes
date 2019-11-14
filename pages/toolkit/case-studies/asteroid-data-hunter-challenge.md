@@ -68,17 +68,26 @@ id="9475" itemscope="" itemtype="http://schema.org/CreativeWork">
 <p>This challenge evolved from having an intended outcome of a new open-source algorithm to include the integration of that improved algorithm into a software application easily downloadable to almost any home computer. Once the potential for the successful use of the new application became apparent, PRI acknowledged that it would assume responsibility for maintaining the code. Please note that maintenance of this open-source code was not resource intensive but did provide users a responsible party who could answer questions and continue to monitor the use of the software.</p>
 <p>NASA initially provided an easily accessible GitHub site as repository for the open-source code.&nbsp; All the original code is within this GitHub instance. It is maintained by PRI, and the source code is posted there under an Apache 2.0 license.&nbsp; All products from the competition are still available through the NASA GitHub instance. PRI, however, maintains a SourceForge instance where the Mac/Windows/Linus installers&mdash;plus the test data and user guide&mdash;are kept to enable any user access to data to practice with the app. This is maintained by PRI as well.</p>
 
-<h2>Challenge Type: Ideas and Software</h2>
-<p><span style="font-weight: 400;">Our challenge was both an ideas and software challenge. Not only did we want to spur creative ideas and new thinking to address the word gap, but we wanted to support tangible interventions that would be accessible to all families through technology. We succeeded in generating many innovative ideas that were supported through the design and incubation phases of our challenge, to result in low-cost, scalable apps (and one hardware device), accessible to low-income families in the United States. All five semi-finalists' solutions are currently available on iTunes and Google Play. </span>
-</p>
+<h2>Lessons Learned</h2>
+<p><strong>Be clear with partners about who does what when it comes to outreach.</strong></p>
+<p>This challenge worked because all stakeholders were on the same page regarding goals, and project management responsibilities were well defined. This carried over to the communications plan. Still, it wasn&rsquo;t crystal clear to PRI from the onset that NASA would be taking the lead on outreach. Once this was cleared up, PRI took on the role of amplifying NASA&rsquo;s communications. This proved critical to the success of the challenge.</p>
+
+<p><strong>Be open and willing to go where your innovators take you.</strong></p>
+<p>This project was initiated purely as an algorithm-improvement challenge. It wasn&rsquo;t until it was clear the improvement was going to be significant that the idea was born to use that algorithm as part of a software application that could be used by citizen scientists. Given how well the NASA, PRI, and Topcoder personnel were working together, the second phase fell into place quickly and easily once funding was secured.</p>
+<p>This wasn&rsquo;t necessarily a lesson learned as much as a confirmation of the benefits of open innovation. In this case, NASA and its partners adapted based on initial results, and the project morphed into something with even greater reach and utility.</p>
+
+<h2>Challenge Type: Software and Apps, Analytics, Visualizations, and Algorithms (AVA)</h2>
+<p>NASA, in partnership with PRI, launched the Asteroid Data Hunter challenge in 2014-2015 to improve the algorithms for image processing of telescopic space imagery to detect asteroids. This challenge was conducted by TopCoder through NASA&rsquo;s contract with Harvard University.&nbsp;&nbsp;</p>
+<p>The challenge had over $70,000 in prizes and resulted in an algorithm that was determined to be 15 percent better than current methods in locating asteroids in the main belt. Additionally, the project built the algorithm into a multiplatform downloadable app for use by amateur astronomers.</p>
+<p>Given the data set that was available through partnership with PRI, and NASA and PRI&rsquo;s interest in more efficiently sifting through the available data, this was the perfect problem to address with an algorithm challenge. NASA had been experimenting with image-processing algorithms prior to this effort, and that previous experience benefitted the challenge. Also, once the successful algorithm results were known, there was an added goal of making sure that capability could be placed in the hands of both amateurs and professionals.</p>
+<p>This is a good example of a problem aptly suited to an algorithm challenge that evolved into an effort to develop an app that was easy to use. The expertise and effort already underway for the algorithm challenge became the perfect scenario for a follow-on software development challenge. Thus, what started as a challenge to generate a specialized scientific tool resulted in a solid application that supports the use of citizen science to support scientific discovery.</p>
 
 <h2>Legal Authority</h2>
-<p>America COMPETES Act</p>
-<!-- 
+<p>Procurement Authority</p>
+ 
 <h2>Challenge Website</h2>
-<p><a href="https://www.wordgapchallenge.hrsa.gov/">https://www.wordgapchallenge.hrsa.gov/</a>
+<p><a href="https://www.nasa.gov/content/asteroid-data-hunter-challenge-0">https://www.nasa.gov/content/asteroid-data-hunter-challenge-0</a>
 </p>
--->
 
 </div>
 </section>
