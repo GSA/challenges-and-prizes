@@ -1,0 +1,79 @@
+---
+permalink: /toolkit/case-studies/asteroid-data-hunter-challenge/
+layout: toolkit
+title: Case Study - Asteroid Data Hunter Challenge
+---
+
+
+<!--// OPEN .container //-->
+<div class="grid-container padding-bottom-5">
+<!--// OPEN #page-wrap //-->
+<div id="page-wrap">
+<div class="inner-page-wrap has-no-sidebar portfolio-type-standard row clearfix">
+<!-- OPEN article -->
+<article
+class="portfolio-article col-sm-12 clearfix post-9475 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-category-ideas portfolio-category-software portfolio-category-2-1 portfolio-category-4-3"
+id="9475" itemscope="" itemtype="http://schema.org/CreativeWork">
+<div class="portfolio-item-content">
+<figure class="media-wrap col-sm-12">
+</figure>
+<section class="article-body-wrap col-sm-9">
+<section class="portfolio-detail-description">
+<div class="body-text clearfix" itemprop="description">
+
+
+<!--Feature Image-->
+<div id="attachment_9500" class="wp-caption"><a
+    href="{{ site.baseurl }}/assets/images/toolkit/case-studies/Asteroid_Data_Hunter.jpg"><img
+    class="wp-image-9500"
+    src="{{ site.baseurl }}/assets/images/toolkit/case-studies/Asteroid_Data_Hunter.jpg" alt="child reading">
+    </a>
+</div>
+<div style="line-height: .75rem">
+<h1 style="margin-top: 1em;">Asteroid Data Hunter Challenge | NASA</h1>
+</div>
+<p style="font-size: x-large;">The Asteroid Data Hunter Challenge was the first open innovation project in support of a NASA grand challenge to find all asteroid threats to human populations and determine what to do about them. This inaugural challenge led to development of software accessible enough that citizen scientists, hobbyist astronomers, and even professional organizations/institutions could download and use it.
+</p>
+<br>
+<h2>Background</h2>
+<!--Body Content Start-->
+<p>The Asteroid Data Hunter Challenge was the first open innovation project to be conducted in support of NASA's Asteroid Grand Challenge: To find all asteroid threats to human populations and determine what to do about them. The results of the Asteroid Data Hunter Challenge were originally intended to provide new algorithms to increase the ability to detect asteroids from imagery captured by ground-based telescopes, such as the Catalina Sky Survey (CSS).</p>
+<p>NASA partnered with Planetary Resources, Inc., (PRI) to launch a series of contests that made up the overall challenge using TopCoder, available through NASA&rsquo;s contract with Harvard University, to develop a more computationally efficient, general purpose algorithm to detect moving objects using CSS data&mdash;specifically, to increase the detection sensitivity, minimize the number of false positives, ignore imperfections in the data, and ensure that the algorithm can run effectively on all computers.</p>
+</p>
+
+<h2>Goals</h2>
+<p>Given the success of the initial algorithm contest, the outcome for the overall challenge evolved to include the development of a software application that is so easy to use that citizen scientists, hobbyist astronomers, and even professional organizations/institutions will want to download it. Thus, the challenge sought to provide both scientific value to the asteroid detection community and a tool for citizen scientists to use to help with asteroid detection.</p>
+
+<h2>Areas of Excellence</h2>
+<p><strong>Area of Excellence #1: "Design the Challenge Structure"</strong></p>
+<p><span style="font-weight: 400;">The design of our challenge in three phases was a large factor in its success. &nbsp;We were able to narrow the number of applicants through each phase to result in one final winner, providing incentives – both monetary and non-monetary – throughout each phase. In Phase 1, we issued a call for ideas, detailed in five pages or less. &nbsp;Of the 90 submissions, we selected 10 to proceed, providing each with $10,000. The low barrier to entry allowed non-traditional participants with promising ideas but perhaps too few resources an opportunity to apply. &nbsp;We leveraged both traditional and social media as well as partnerships to reach a broad audience, and received submissions from individuals, private businesses, and non-profit organizations. The unexpectedly large and diverse response validated to us how well a challenge could easily engage a broad set of innovators focused on solving a particular problem.</span>
+</p>
+
+<h2>Challenge Type: Ideas and Software</h2>
+<p><span style="font-weight: 400;">Our challenge was both an ideas and software challenge. Not only did we want to spur creative ideas and new thinking to address the word gap, but we wanted to support tangible interventions that would be accessible to all families through technology. We succeeded in generating many innovative ideas that were supported through the design and incubation phases of our challenge, to result in low-cost, scalable apps (and one hardware device), accessible to low-income families in the United States. All five semi-finalists' solutions are currently available on iTunes and Google Play. </span>
+</p>
+
+<h2>Legal Authority</h2>
+<p>America COMPETES Act</p>
+<!-- 
+<h2>Challenge Website</h2>
+<p><a href="https://www.wordgapchallenge.hrsa.gov/">https://www.wordgapchallenge.hrsa.gov/</a>
+</p>
+-->
+
+</div>
+</section>
+</section>
+</div>
+<!-- CLOSE article -->
+</article>
+</div>
+<!--// WordPress Hook //-->
+<!--// CLOSE #page-wrap //-->
+</div>
+
+<!--// CLOSE #main-container //-->
+</div>
+
+
+<!--// CLOSE #container //-->
