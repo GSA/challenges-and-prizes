@@ -37,7 +37,7 @@ challenge-manager-email: wavestowater@nrel.gov
 <ul><li>Stage I: CONCEPT - Closed and awarded Nov. 14, 2019</li>
 <li>Stage II DESIGN (120 DAYS) - November 14, 2019 to March 13, 2020</li>
   <li>Stage II Judging Period: Stage 2: March 14, 2020 to April 28, 2020</li>
-  <li>Stage II Winners Announced: May 19, 2020
+  <li>Stage II Winners Announced: May 19, 2020</li>
 <li>Stage III: CREATE (150 DAYS) - April 2020 to August 2020 (anticipated)</li>
 <li>Stage IV: DRINK (180 DAYS) - October 2020 to April 2021 (anticipated)</li>
 </ul>
