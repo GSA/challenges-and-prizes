@@ -4,7 +4,7 @@ permalink: /challenge/ocean-observing-prize/
 challenge-id: 1082
 status: open
 sidenav: true
-card-image: /assets/images/cards/challenge-gov.png
+card-image: /assets/images/cards/Ocean_observing_341x160.jpg
 agency-logo: 256px-Seal_of_the_United_States_Department_of_Energy.png
 challenge-title: Ocean Observing Prize
 tagline: Seeking innovators to integrate marine renewable energy with ocean observation platforms, ultimately revolutionizing our capability to collect oceanographic data.
