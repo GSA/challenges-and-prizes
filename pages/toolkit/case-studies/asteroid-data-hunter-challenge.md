@@ -32,14 +32,13 @@ id="9475" itemscope="" itemtype="http://schema.org/CreativeWork">
 <div style="line-height: .75rem">
 <h1 style="margin-top: 1em;">Asteroid Data Hunter Challenge | NASA</h1>
 </div>
-<p style="font-size: x-large;">The Asteroid Data Hunter Challenge was the first open innovation project in support of a NASA grand challenge to find all asteroid threats to human populations. This inaugural challenge led to development of software accessible enough that citizen scientists, hobbyist astronomers, and even professional organizations/institutions could download and use it.
+<p style="font-size: x-large;">The Asteroid Data Hunter Challenge was the first open innovation project in support of a NASA grand challenge to find all asteroid threats to human populations. This inaugural challenge led to development of software accessible enough that citizen scientists, hobbyist astronomers, and professional organizations and institutions could download and use it.
 </p>
 <br>
 <h2>Background</h2>
 <!--Body Content Start-->
 <p>The Asteroid Data Hunter Challenge was the first open innovation project to be conducted in support of NASA's Asteroid Grand Challenge: To find all asteroid threats to human populations and determine what to do about them. The results of the Asteroid Data Hunter Challenge were originally intended to provide new algorithms to increase the ability to detect asteroids from imagery captured by ground-based telescopes, such as the Catalina Sky Survey (CSS).</p>
 <p>NASA partnered with Planetary Resources, Inc., (PRI) to launch a series of contests that made up the overall challenge using TopCoder, available through NASA&rsquo;s contract with Harvard University, to develop a more computationally efficient, general purpose algorithm to detect moving objects using CSS data&mdash;specifically, to increase the detection sensitivity, minimize the number of false positives, ignore imperfections in the data, and ensure that the algorithm can run effectively on all computers.</p>
-</p>
 
 <h2>Goals</h2>
 <p>Given the success of the initial algorithm contest, the outcome for the overall challenge evolved to include the development of a software application that is so easy to use that citizen scientists, hobbyist astronomers, and even professional organizations/institutions will want to download it. Thus, the challenge sought to provide both scientific value to the asteroid detection community and a tool for citizen scientists to use to help with asteroid detection.</p>
