@@ -24,9 +24,9 @@ id="9475" itemscope="" itemtype="http://schema.org/CreativeWork">
 
 <!--Feature Image-->
 <div id="attachment_9500" class="wp-caption"><a
-    href="{{ site.baseurl }}/assets/images/toolkit/case-studies/Asteroid_Data_Hunter.jpg"><img
+    href="{{ site.baseurl }}/assets/images/toolkit/case-studies/Asteroid-Data-Hunter.jpg"><img
     class="wp-image-9500"
-    src="{{ site.baseurl }}/assets/images/toolkit/case-studies/Asteroid_Data_Hunter.jpg" alt="infographic">
+    src="{{ site.baseurl }}/assets/images/toolkit/case-studies/Asteroid-Data-Hunter.jpg" alt="infographic">
     </a>
 </div>
 <div style="line-height: .75rem">
