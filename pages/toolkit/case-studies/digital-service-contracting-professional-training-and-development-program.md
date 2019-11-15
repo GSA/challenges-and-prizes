@@ -101,18 +101,22 @@ id="9475" itemscope="" itemtype="http://schema.org/CreativeWork">
 <p>The team utilized a draft version of the prize challenge to float the language, evaluation, and prize amount to a varied group of potential solution providers to ensure that when it was published it would be clear and actionable.</p>
 
 <h2>Challenge Type</h2>
-<p><strong>Software and Apps, Analytics, Visualizations, and Algorithms (AVA)</strong></p>
-<p>NASA, in partnership with PRI, launched the Asteroid Data Hunter challenge in 2014-2015 to improve the algorithms for image processing of telescopic space imagery to detect asteroids. This challenge was conducted by TopCoder through NASA&rsquo;s contract with Harvard University.&nbsp;&nbsp;</p>
-<p>The challenge had over $70,000 in prizes and resulted in an algorithm that was determined to be 15 percent better than current methods in locating asteroids in the main belt. Additionally, the project built the algorithm into a multiplatform downloadable app for use by amateur astronomers.</p>
-<p>Given the data set that was available through partnership with PRI, and NASA and PRI&rsquo;s interest in more efficiently sifting through the available data, this was the perfect problem to address with an algorithm challenge. NASA had been experimenting with image-processing algorithms prior to this effort, and that previous experience benefitted the challenge. Also, once the successful algorithm results were known, there was an added goal of making sure that capability could be placed in the hands of both amateurs and professionals.</p>
-<p>This is a good example of a problem aptly suited to an algorithm challenge that evolved into an effort to develop an app that was easy to use. The expertise and effort already underway for the algorithm challenge became the perfect scenario for a follow-on software development challenge. Thus, what started as a challenge to generate a specialized scientific tool resulted in a solid application that supports the use of citizen science to support scientific discovery.</p>
+<p><strong>Design</strong></p>
+<p>Ultimately, this challenge was a call for design: Help us design a program that will develop and produce contracting officers who can be successful in the era of digital government.</p>
+<p>This was the first challenge explicitly targeted at coaching and training procurement professionals on how to apply best practices from industry to the regulations and processes that government employees face. Going in, the team did not know how enough about instructional design to create a set of requirements that would result in a contract for this type of service. Due to this, the challenge process was perfect in its ability to bring experts in this field as well as experts in the content that needed to be taught.&nbsp;&nbsp;</p>
+<p>The challenge presented a unique opportunity for participants to design a program that would immediately be put into use in a government setting. After submitting their initial concept papers, participants had the opportunity to sit with the team to ask very specific questions related to the design of their unique solution. By having an open and honest conversation in the two week &ldquo;design&rdquo; phase, the top 3 contestants were able to provide a level of detail and analysis in their solutions to ensure their ideas could move from paper into practice.</p>
+<p>The phased structure of the challenge ensured that everything&mdash;from oral presentations to mock classroom experiences to constant assessment of performance metrics and cost&mdash;led to fully formed designs that could be implemented in a pilot program.&nbsp;</p>
+<p>For more information about the program itself visit: <a href="https://techfarhub.cio.gov/initiatives/ditap/">https://techfarhub.cio.gov/initiatives/ditap/</a></p>
+<p>On this site is a link to the open source portal which hosts all of the content, including the winning response to the challenge and the after action report created by the winner documenting the results of the pilot. The challenge team was led by Traci Walker from USDS and Joanie Newhart from OFPP.</p>
 
 <h2>Legal Authority</h2>
-<p><strong>Procurement Authority</strong></p>
- 
+<p><strong>America COMPETES Act</strong></p>
+
+<!--
 <h2>Challenge Website</h2>
 <p><a href="https://www.nasa.gov/content/asteroid-data-hunter-challenge-0">https://www.nasa.gov/content/asteroid-data-hunter-challenge-0</a>
 </p>
+-->
 
 </div>
 </section>
