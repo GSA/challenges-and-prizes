@@ -24,9 +24,9 @@ id="9475" itemscope="" itemtype="http://schema.org/CreativeWork">
 
 <!--Feature Image-->
 <div id="attachment_9500" class="wp-caption"><a
-    href="{{ site.baseurl }}/assets/images/toolkit/case-studies/Asteroid-Data-Hunter.jpg"><img
+    href="{{ site.baseurl }}/assets/images/toolkit/case-studies/OMB_banner.jpg"><img
     class="wp-image-9500"
-    src="{{ site.baseurl }}/assets/images/toolkit/case-studies/Asteroid-Data-Hunter.jpg" alt="infographic">
+    src="{{ site.baseurl }}/assets/images/toolkit/case-studies/OMB_banner.jpg" alt="OMB logo">
     </a>
 </div>
 <div style="line-height: .75rem">
@@ -37,17 +37,32 @@ id="9475" itemscope="" itemtype="http://schema.org/CreativeWork">
 <br>
 <h2>Background</h2>
 <!--Body Content Start-->
-<p>The Asteroid Data Hunter Challenge was the first open innovation project to be conducted in support of NASA's Asteroid Grand Challenge: To find all asteroid threats to human populations and determine what to do about them. The results of the Asteroid Data Hunter Challenge were originally intended to provide new algorithms to increase the ability to detect asteroids from imagery captured by ground-based telescopes, such as the Catalina Sky Survey (CSS).</p>
-<p>NASA partnered with Planetary Resources, Inc., (PRI) to launch a series of contests that made up the overall challenge using TopCoder, available through NASA&rsquo;s contract with Harvard University, to develop a more computationally efficient, general purpose algorithm to detect moving objects using CSS data&mdash;specifically, to increase the detection sensitivity, minimize the number of false positives, ignore imperfections in the data, and ensure that the algorithm can run effectively on all computers.</p>
+<p>Digital technology has transformed all aspects of society, including government. Federal agencies must adapt and change the way they serve members of the public who increasingly demand and require digital services.</p>
+<p>But technological changes happen at a breakneck pace, and federal procurement practices don&rsquo;t always provide the flexibility required to buy and deliver modern digital services.</p>
+<p>In 2014, USDS was established to help improve interactions between citizens and their government. A crucial part of this mission is reshaping how government purchases IT goods and services. OFPP, in conjunction with the release of the Digital Services Playbook, also launched the TechFAR Handbook which described the flexibilities that exist in the FAR specific to implementing digital service strategies.</p>
+<p>Strengthening digital expertise in the government and simplifying the digital experiences that citizens and businesses have with government can reduce the risk of failed acquisitions and save taxpayer dollars.</p>
+<p>USDS set out to create a community of digital contracting experts who could lead the government into a more efficient procurement process and implement strategies to adopt agile software development and human centered design services.&nbsp;</p>
+<p>To accomplish this, USDS partnered with OFPP in an effort to develop an immersive development and training program to enhance digital services acquisition expertise across the federal government.&nbsp;</p>
+<p>The Digital Service Contracting Professional Training and Development Program prize competition was designed to spur innovation in the training and development of federal contracting professionals who are fundamental to the success of digital service acquisitions.&nbsp;</p>
+<p>Through a multi-phased challenge, participants were eligible for prize money up to $360,000. The challenge called for concept white papers, up to three design presentations, and a pilot program developed by the winner of the competition.</p>
 
 <h2>Goals</h2>
-<p>Given the success of the initial algorithm contest, the outcome for the overall challenge evolved to include the development of a software application that is so easy to use that citizen scientists, hobbyist astronomers, and even professional organizations/institutions will want to download it. Thus, the challenge sought to provide both scientific value to the asteroid detection community and a tool for citizen scientists to use to help with asteroid detection.</p>
+<ol>
+<li>Develop a Digital Service Contracting Professional Training and Development Program for the federal government, which will add a digital service core-plus specialization for contracting professionals under the Federal Acquisition Certification in Contracting (FAC-C) Program issued by OFPP.</li>
+<li>Foster transformative change in the federal digital service acquisition culture.</li>
+<li>Spur innovation in the training and development market for federal contracting professionals who are fundamental to the success of digital service acquisitions.</li>
+</ol>
 
 <h2>Results</h2>
-<p>This challenge was announced at the 2014 South by Southwest Interactive Festival in Austin, Texas. It received significant press coverage, which brought new competitors to the TopCoder community. Throughout the 10 months of the challenge, over 1,200 solvers participated and submitted 700 solutions that resulted in the development of both a new algorithm and a software package.</p>
-<p>The algorithm demonstrated a 15-percent improvement over the current method of identifying asteroids in the main belt of asteroids that orbit between Mars and Jupiter and also represents a real opportunity to identify more asteroids in the CSS data. The software was officially released at the 2015 South by Southwest Interactive festival and provides amateur astronomers with access to a new tool in the asteroid-hunting arsenal.&nbsp;</p>
-<p>&ldquo;The beauty of such archives is that the data doesn't grow stale, and with novel approaches, techniques and algorithms, they can be harvested for new information. The participants of the Asteroid Data Hunter Challenge did just that, probing observations of the night sky for new asteroids that might have slipped through the software cracks the first time the images were analyzed,&rdquo; said Jose Luis Galache of the Minor Planet Center. &ldquo;Moreover, this software can now be used to analyze new images and is available to any observer who wants to use it. The Minor Planet Center applauds these efforts to provide superior tools to all, and looks forward to receiving new asteroid observations generated with them.&rdquo;</p>
-<p>The results of this challenge continue to support the use of crowdsourced algorithms to advance NASA's image-processing capabilities and the continued use of open innovation. Furthermore, these results were obtained for a total project cost of less than $200,000, which is less than the salary for one full-time engineer for the same time period. The software is open source and continued to be maintained by PRI after the challenge.&nbsp; It already had been downloaded to more than 8,000 amateur users by March 2016.</p>
+<p>By using Challenge.gov, USDS and OFPP were able to elicit feedback from a diverse group, ranging from the public to the private sector.</p>
+<p>USDS received 23 submissions during the initial call for concept papers. These came from individuals, training companies, and businesses large and small. Based on specific criteria, they narrowed the pool to three submissions from: GovLoop, Management Concepts, and the team of ICF International &amp; ASI Government.</p>
+<p>In the second phase of the challenge, the three finalists presented their program design in oral presentations and a mock classroom sessions. All three finalists offered compelling approaches, detailed solutions, and creative uses of technology and agile instruction methodologies.</p>
+<p>Ultimately, the judging panel selected the team of ICF International and ASI Government as the winner to develop and pilot their program. Elements of the winning solution included customized learning paths, self-directed learning, in-classroom guided learning, and a live digital assignment.</p>
+<p>The six month pilot period began October 20, 2015. The concept was tested with a cohort of 30 contracting officers representing several federal agencies. These <a href="https://techfarhub.cio.gov/initiatives/ditap-alumni/">participants</a> received the first-ever Digital Service Contracting Officer Core-Plus Certification, establishing them as pioneers in the field of digital services procurement.</p>
+<p>The challenge was only the beginning of our efforts to develop digital service and IT expertise for contracting professionals, program managers, and other stakeholders.&nbsp;</p>
+<p>As a result of the challenge and the partnership between USDS and OFPP, there is now a thriving Digital IT Acquisition Professional community (DITAP). The DITAP training and certification program produced by the challenge was run again to prove that it was repeatable. This method of incrementally moving towards a full implementation is championed by the USDS and was demonstrated through success in an additional 30 Contracting Officers being put through the training course.&nbsp;</p>
+<p>The pilots focused on training contract specialists/officers to create a community of informed buyers on the front lines of acquisition. In May of 2018, OFPP published the <a href="https://techfarhub.cio.gov/assets/files/FAC_C_Digital_Services_5-18-18.pdf">Memo</a> which made the FAC- C Digital Service Certification an official core-plus designation. Beginning in 2022, a procurement specialist who has the Certification will be required to be involved digital services acquisitions of $7 million or more.</p>
+<p>The ultimate goal is for the program to be offered in multiple agencies, by various training providers, or by the Federal Acquisition Institute. USDS and OFPP continue to work with training institutions and companies to continue offering new DITAP Development Program courses.</p>
 
 <h2>Areas of Excellence</h2>
 <p><strong>Building a Team</strong></p>
