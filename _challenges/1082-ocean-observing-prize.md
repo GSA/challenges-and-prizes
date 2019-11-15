@@ -20,8 +20,8 @@ submission-link: https://americanmadechallenges.org/oceanobserving/
 prizes: true
 fiscal-year: FY19, FY20, FY21
 legal-authority: America COMPETES
-challenge-manager:
-challenge-manager-email: (will display in the Point of Contact field)
+challenge-manager: Jennifer Garson, jennifer.garson@ee.doe.gov
+challenge-manager-email: OceanObserving@nrel.gov
 ---
 
 
