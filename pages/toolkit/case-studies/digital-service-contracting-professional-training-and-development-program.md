@@ -25,11 +25,11 @@ id="9475" itemscope="" itemtype="http://schema.org/CreativeWork">
 <!--Feature Image-->
 <div id="attachment_9500" class="wp-caption"><a
     href="{{ site.baseurl }}/assets/images/toolkit/case-studies/OMB_banner.jpg"><img
-    class="wp-image-9500"
+    class="wp-image-9500" width="100%"
     src="{{ site.baseurl }}/assets/images/toolkit/case-studies/OMB_banner.jpg" alt="OMB logo">
     </a>
 </div>
-<div style="line-height: .75rem">
+<div style="line-height: 2.75rem">
 <h1 style="margin-top: 1em;">Digital Service Contracting Professional Training and Development Program | Office of Management and Budget (OMB)</h1>
 </div>
 <p style="font-size: x-large;">In 2014, the U.S. Digital Service (USDS) and the Office of Federal Procurement Policy (OFPP) set out to transform the way the federal government buys technology to support improved digital experiences for citizens. As a first step, they turned to Challenge.gov and ran a prize competition that produced a pilot training program and the first-ever digital certification for federal contracting officers. The open-source curriculum since continues to evolve to educate digital procurement pioneers across the federal government.
