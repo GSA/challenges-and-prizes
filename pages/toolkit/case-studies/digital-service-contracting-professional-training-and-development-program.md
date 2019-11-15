@@ -106,8 +106,8 @@ id="9475" itemscope="" itemtype="http://schema.org/CreativeWork">
 <p>This was the first challenge explicitly targeted at coaching and training procurement professionals on how to apply best practices from industry to the regulations and processes that government employees face. Going in, the team did not know how enough about instructional design to create a set of requirements that would result in a contract for this type of service. Due to this, the challenge process was perfect in its ability to bring experts in this field as well as experts in the content that needed to be taught.&nbsp;&nbsp;</p>
 <p>The challenge presented a unique opportunity for participants to design a program that would immediately be put into use in a government setting. After submitting their initial concept papers, participants had the opportunity to sit with the team to ask very specific questions related to the design of their unique solution. By having an open and honest conversation in the two week &ldquo;design&rdquo; phase, the top 3 contestants were able to provide a level of detail and analysis in their solutions to ensure their ideas could move from paper into practice.</p>
 <p>The phased structure of the challenge ensured that everything&mdash;from oral presentations to mock classroom experiences to constant assessment of performance metrics and cost&mdash;led to fully formed designs that could be implemented in a pilot program.&nbsp;</p>
-<p><em>For more information about the program itself visit: <a href="https://techfarhub.cio.gov/initiatives/ditap/">https://techfarhub.cio.gov/initiatives/ditap/</a></p>
-<p>On this site is a link to the open source portal which hosts all of the content, including the winning response to the challenge and the after action report created by the winner documenting the results of the pilot. The challenge team was led by Traci Walker from USDS and Joanie Newhart from OFPP.</em></p>
+<p><em>For more information about the program itself visit:&nbsp;<a href="https://techfarhub.cio.gov/initiatives/ditap/">https://techfarhub.cio.gov/initiatives/ditap/</a></em></p>
+<p><em>On this site is a link to the open source portal which hosts all of the content, including the winning response to the challenge and the after action report created by the winner documenting the results of the pilot. The challenge team was led by Traci Walker from USDS and Joanie Newhart from OFPP.</em></p>
 
 <h2>Legal Authority</h2>
 <p><strong>America COMPETES Act</strong></p>
@@ -118,19 +118,11 @@ id="9475" itemscope="" itemtype="http://schema.org/CreativeWork">
 </p>
 -->
 
-</div>
-</section>
-</section>
-</div>
+
 <!-- CLOSE article -->
-</article>
-</div>
 <!--// WordPress Hook //-->
 <!--// CLOSE #page-wrap //-->
-</div>
-
 <!--// CLOSE #main-container //-->
-</div>
 
 
 <!--// CLOSE #container //-->
