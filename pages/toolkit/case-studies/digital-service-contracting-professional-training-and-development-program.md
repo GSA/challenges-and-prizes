@@ -94,12 +94,11 @@ id="9475" itemscope="" itemtype="http://schema.org/CreativeWork">
 <p>A second pilot, or minimum viable product (MVP), was conducted to prove that the pilot success could be replicated. Following the successful second running of the course, the content material, requirements for instruction and guidance on how to create this course was provided to federal acquisition training institutions for implementation. This information informed OMB&rsquo;s efforts to transition the winning proposal into a government program that can be adapted for future needs.</p>
 
 <h2>Lessons Learned</h2>
-<p><strong>Be clear with partners about who does what when it comes to outreach.</strong></p>
-<p>This challenge worked because all stakeholders were on the same page regarding goals, and project management responsibilities were well defined. This carried over to the communications plan. Still, it wasn&rsquo;t crystal clear to PRI from the onset that NASA would be taking the lead on outreach. Once this was cleared up, PRI took on the role of amplifying NASA&rsquo;s communications. This proved critical to the success of the challenge.</p>
+<p><strong>Understand what your end goal is and use the challenge program to achieve that.</strong></p>
+<p>From the beginning we wanted a tangible pilot as our outcome. If we had just done an ideation challenge, we would still have received great ideas and concepts, but not the knowledge to implement them without conducting either a follow-on challenge or an acquisition. By utilizing the phased approach that had already been used by others on challenge.gov, the team was able to have a tangible outcome that could be learned from and replicated.</p>
 
-<p><strong>Be open and willing to go where your innovators take you.</strong></p>
-<p>This project was initiated purely as an algorithm-improvement challenge. It wasn&rsquo;t until it was clear the improvement was going to be significant that the idea was born to use that algorithm as part of a software application that could be used by citizen scientists. Given how well the NASA, PRI, and Topcoder personnel were working together, the second phase fell into place quickly and easily once funding was secured.</p>
-<p>This wasn&rsquo;t necessarily a lesson learned as much as a confirmation of the benefits of open innovation. In this case, NASA and its partners adapted based on initial results, and the project morphed into something with even greater reach and utility.</p>
+<p><strong>Do market research to determine whether the prize amount is enough to inspire the targeted responders.</strong></p>
+<p>The team utilized a draft version of the prize challenge to float the language, evaluation, and prize amount to a varied group of potential solution providers to ensure that when it was published it would be clear and actionable.</p>
 
 <h2>Challenge Type</h2>
 <p><strong>Software and Apps, Analytics, Visualizations, and Algorithms (AVA)</strong></p>
