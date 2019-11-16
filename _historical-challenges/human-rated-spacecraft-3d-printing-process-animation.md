@@ -24,7 +24,7 @@ submission-start: 07/16/2018 12:00 AM
 fiscal-year: FY 2017
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '3000'
+total-prize-offered-cash: '$3,000'
 campaign-owner: Jeff Doi
 public-voting-start-date: ''
 legal-authority: Procurement Authority

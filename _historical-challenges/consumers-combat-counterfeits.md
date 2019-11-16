@@ -24,7 +24,7 @@ submission-start: 07/27/2018 12:00 AM
 fiscal-year: FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '2000'
+total-prize-offered-cash: '$2,000'
 campaign-owner: Tashia Bunch
 public-voting-start-date: ''
 legal-authority: America COMPETES

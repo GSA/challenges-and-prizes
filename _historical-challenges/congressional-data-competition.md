@@ -25,7 +25,7 @@ submission-start: 10/19/2017 12:00 AM
 fiscal-year: FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '6000'
+total-prize-offered-cash: '$6,000'
 campaign-owner: Stephen Dagadakis
 public-voting-start-date: ''
 legal-authority: Necessary Expense Doctrine

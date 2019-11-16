@@ -40,7 +40,7 @@ submission-start: 06/15/2018 08:00 PM
 fiscal-year: FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '1950000'
+total-prize-offered-cash: '$1,950,000'
 campaign-owner: Dr. Matt Willis & Mr. Joshua Israel
 public-voting-start-date: ''
 legal-authority: America COMPETES

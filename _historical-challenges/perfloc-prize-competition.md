@@ -23,7 +23,7 @@ submission-start: 03/22/2017 12:00 PM
 fiscal-year: ''
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '35000'
+total-prize-offered-cash: '$35,000'
 campaign-owner: Heather Evans
 public-voting-start-date: ''
 legal-authority: America COMPETES

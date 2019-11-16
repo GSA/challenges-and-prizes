@@ -31,7 +31,7 @@ submission-start: 05/01/2018 12:00 PM
 fiscal-year: FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '31000'
+total-prize-offered-cash: '$31,000'
 campaign-owner: SciArt Exchange
 public-voting-start-date: ''
 legal-authority: Procurement Authority

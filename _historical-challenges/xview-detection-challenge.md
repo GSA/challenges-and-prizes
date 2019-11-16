@@ -23,7 +23,7 @@ submission-start: 04/01/2018 12:00 AM
 fiscal-year: FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '150000'
+total-prize-offered-cash: '$150,000'
 campaign-owner: Johanna Spangenburg-Jones
 public-voting-start-date: ''
 legal-authority: Other Transactions Authority

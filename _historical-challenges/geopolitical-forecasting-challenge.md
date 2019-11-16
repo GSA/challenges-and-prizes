@@ -25,7 +25,7 @@ submission-start: 03/07/2018 12:00 AM
 fiscal-year: FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '200,000'
+total-prize-offered-cash: '$200,000'
 campaign-owner: Rebecca Allegar
 public-voting-start-date: ''
 legal-authority: Other

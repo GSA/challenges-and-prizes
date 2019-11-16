@@ -24,7 +24,7 @@ submission-start: 03/21/2017 12:00 AM
 fiscal-year: FY 2017
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '45000'
+total-prize-offered-cash: '$45,000'
 campaign-owner: Zeynep Erim
 public-voting-start-date: ''
 legal-authority: America COMPETES

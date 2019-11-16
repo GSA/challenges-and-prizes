@@ -104,7 +104,7 @@ submission-start: 02/06/2018 11:59 AM
 fiscal-year: FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '400000'
+total-prize-offered-cash: '$400,000'
 campaign-owner: Eli Levine
 public-voting-start-date: ''
 legal-authority: America COMPETES

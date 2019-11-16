@@ -27,7 +27,7 @@ submission-start: 12/01/2014 12:00 AM
 fiscal-year: FY 2019
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '5,000,000'
+total-prize-offered-cash: '$5,000,000'
 campaign-owner: ''
 public-voting-start-date: ''
 legal-authority: Space Act

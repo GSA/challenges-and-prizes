@@ -31,7 +31,7 @@ attributes:
   fiscal-year: FY 2018
   public-voting-end-date: ''
   budget-and-resources: ''
-  total-prize-offered-cash: '2850'
+  total-prize-offered-cash: '$2,850'
   campaign-owner: Bill Bernstein
   public-voting-start-date: ''
   legal-authority: America COMPETES

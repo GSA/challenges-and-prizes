@@ -24,7 +24,7 @@ submission-start: 07/10/2018 03:30 PM
 fiscal-year: FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '15000'
+total-prize-offered-cash: '$15,000'
 campaign-owner: Dan Pfadt
 public-voting-start-date: ''
 legal-authority: Direct Prize Authority - DOD

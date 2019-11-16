@@ -27,7 +27,7 @@ submission-start: 05/10/2018 12:00 AM
 fiscal-year: FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '80000'
+total-prize-offered-cash: '$80,000'
 campaign-owner: Andrew Tiffenbach
 public-voting-start-date: ''
 legal-authority: America COMPETES
