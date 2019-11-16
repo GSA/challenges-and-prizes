@@ -121,7 +121,7 @@ non-monetary-incentives-awarded: "Initial Prize: Propose a Financially Sustainab
   $150,000 per winner\r\nFinal Prize: Demonstrate outcomes of training delivery
   and partnership development, via a financially sustainable revenue model\t\r\n2
   winners, $250,000 for First $100,000 for Second\r\n"
-partner-agencies-federal: '1'
+partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''

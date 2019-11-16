@@ -60,7 +60,7 @@ show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
 non-monetary-incentives-awarded: "One-to-many identification accuracy:\t\t$25,000\r\nOne-to-many
   identification speed:\t\t\t$5,000\r\nOne-to-one verification accuracy:\t\t \t$20,000"
-partner-agencies-federal: '1'
+partner-agencies-federal: ''
 judging-end-date: '09/30/2017 12:00 AM'
 solicitation-methods: ''
 advancing-the-agency-mission: ''

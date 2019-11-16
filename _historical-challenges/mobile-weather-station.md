@@ -50,7 +50,7 @@ total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
 non-monetary-incentives-awarded: ''
-partner-agencies-federal: '1'
+partner-agencies-federal: ''
 judging-end-date: 07/29/2017 12:00 AM
 solicitation-methods: ''
 advancing-the-agency-mission: ''

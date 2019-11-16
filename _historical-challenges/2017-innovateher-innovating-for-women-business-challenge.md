@@ -69,7 +69,7 @@ show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
 non-monetary-incentives-awarded: "Total of $70,000 in prizes:\r\n$40,000 - First
   place\r\n$20,000 - Second place\r\n$10,000 - Third place"
-partner-agencies-federal: '0'
+partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''

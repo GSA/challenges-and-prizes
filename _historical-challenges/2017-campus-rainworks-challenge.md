@@ -57,7 +57,7 @@ non-monetary-incentives-awarded: "Breakdown: EPA will award four (4) cash prizes
   Prize - $2,000\r\nFaculty Prize - $3,000\r\n\r\n2nd place Master Plan:\r\nStudent
   Prize - $1,000\r\nFaculty Prize - $2,000\r\n\r\n2nd place Demonstration Project:\r\nStudent
   Prize - $1,000\r\nFaculty Prize - $2,000"
-partner-agencies-federal: '0'
+partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''

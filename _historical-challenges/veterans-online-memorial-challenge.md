@@ -38,7 +38,7 @@ estimated-value-of-partner-contributions: ''
 non-monetary-incentives-awarded: "The Department of Veterans Affairs will award
   up to $10,000 in prize money, awarded as follows:\r\n•5 Finalists - $1,000 each\r\n•1
   Grand Winner - $5,000\r\n"
-partner-agencies-federal: '0'
+partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''

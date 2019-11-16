@@ -127,7 +127,7 @@ non-monetary-incentives-awarded: "The cash prize portion of the award will be
   of similar competitions in the future. The written assessment must be submitted
   to SBA no later than eighteen months after a winner receives its first prize
   payment and the documentation must be satisfactory to SBA."
-partner-agencies-federal: '0'
+partner-agencies-federal: ''
 judging-end-date: 03/10/2017 05:00 PM
 solicitation-methods: ''
 advancing-the-agency-mission: ''

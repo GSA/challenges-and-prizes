@@ -101,7 +101,7 @@ non-monetary-incentives-awarded: "Grand Prize: Best Useable Matching System: $10
   Accuracy Prize: $25,000\r\nLatent Accuracy Prize: $25,000\r\nSpeed Prize: $25,000\r\nPrint
   Provider Prize x12: $8,000 x 12 = $96,000 \r\nMaster Builder Prize x12: $2,000
   x 12 = $24,000\r\n\r\nTotal Prize Purse: $295,000\r\n"
-partner-agencies-federal: '0'
+partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''

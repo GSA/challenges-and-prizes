@@ -43,7 +43,7 @@ non-monetary-incentives-awarded: "There is a guaranteed award.  The awards will
   be paid to the top 5-10 papers submitted to this Challenge.\r\n$1500 more will
   be paid after that awardee has presented their ideas at the Workshop to be held
   in October. (Note: Solvers will be attending at their own expense.)"
-partner-agencies-federal: '0'
+partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''
