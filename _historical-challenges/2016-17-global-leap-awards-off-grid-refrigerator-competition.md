@@ -20,7 +20,7 @@ funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
 tagline: An international competition to identify and promote super-efficient, high
   quality off-grid refrigerators.
-groupName: International Assistance Programs - Agency for International Dev
+groupName: International Assistance Programs - Agency for International Development
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
