@@ -19,10 +19,6 @@
   		<img src="{{ site.baseurl }}/assets/images/agency/usfs.png" alt="USFS logo" height="120px" title="USFS">
 	{% endif %}
 
-	{% if challenge.groupName contains "National Oceanic and Atmospheric Administration" challenge.agency contains "National Oceanic and Atmospheric Administration" %}
-  		<img src="{{ site.baseurl }}/assets/images/agency/noaa-logo-150x150.jpg" alt="NOAA logo" height="120px" title="NOAA">
-	{% endif %}
-
 	{% if challenge.groupName contains "Fish and Wildlife Service" challenge.agency contains "Fish and Wildlife Service" %}
   		<img src="{{ site.baseurl }}/assets/images/agency/usfws-logo-251x300.png" alt="Fish and Wildlife Service logo" height="120px" title="Fish & Wildlife Service">
 	{% endif %}
@@ -40,7 +36,7 @@
 	{% endif %}
 
 	{% if challenge.groupName contains "National Institutes of Health" or challenge.agency contains "National Institutes of Health" %}
-  		<img src="{{ site.baseurl }}/assets/images/agency/NIH-Generic.png" alt="NIH logo" width="120px" title="NIH">
+  		<img style="padding-top: 1em" src="{{ site.baseurl }}/assets/images/agency/NIH-Generic.png" alt="NIH logo" width="120px" title="NIH">
 	{% endif %}
 
 	{% if challenge.groupName contains "Environmental Protection Agency" or challenge.agency contains "Environmental Protection Agency" %}
@@ -170,6 +166,27 @@
 	{% if challenge.groupName contains "Library of Congress" or challenge.agency contains "Library of Congress" %}
 	<img src="{{ site.baseurl }}/assets/images/agency/library-of-congress_small.png" alt="LOC logo" width="120px" title="LOC">
 	{% endif %}
+
+	{% if challenge.groupName contains "Department of Education" or challenge.agency contains "Department of Education" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/Department_of_Education.png" alt="Department of Education logo" width="120px" title="Department of Education">
+	{% endif %}
+
+	{% if challenge.groupName contains "Federal Trade Commission" or challenge.agency contains "Federal Trade Commission" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/federal_trade_commission.jpg" alt="FTC logo" width="120px" title="FTC">
+	{% endif %}
+
+	{% if challenge.groupName contains "National Oceanic and Atmospheric Administration" or challenge.agency contains "National Oceanic and Atmospheric Administration" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/noaa_logo.png" alt="NOAA logo" width="120px" title="NOAA">
+	{% endif %}
+
+	{% if challenge.groupName contains "House of Representatives" or challenge.agency contains "House of Representatives" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/US_house_of_representatives.png" alt="US House of Representatives logo" width="120px" title="US House of Representatives">
+	{% endif %}
+
+	{% if challenge.groupName contains "Office of Justice Programs" or challenge.agency contains "Office of Justice Programs" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/dept_of_justice.png" alt="Department of Justice - Office of Justice Programs logo" width="120px" title="Department of Justice - Office of Justice Programs">
+	{% endif %}
+
 
 
 	
