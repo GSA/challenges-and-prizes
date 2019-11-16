@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $10,000
 type-of-challenge: Creative (multimedia & design)
-submission-start: 2016/11/28 12:00 AM
-submission-end: 2017/01/31 11:59 PM
+submission-start: 11/28/2016 12:00 AM
+submission-end: 01/31/2017 11:59 PM
 submission-link: 
 prizes: true
 fiscal-year: 2017

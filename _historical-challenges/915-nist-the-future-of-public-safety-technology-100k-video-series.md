@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $100,000
 type-of-challenge: Creative (multimedia & design)
-submission-start: 2017/08/21 12:00 PM
-submission-end: 2017/09/07 01:00 PM
+submission-start: 08/21/2017 12:00 PM
+submission-end: 09/07/2017 01:00 PM
 submission-link: https://tongal.com/project/TheFutureofPublicSafetyTechnology/
 prizes: true
 fiscal-year: FY

@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $50,000
 type-of-challenge: Ideas
-submission-start: 2017/03/29 12:00 PM
-submission-end: 2017/05/03 05:00 PM
+submission-start: 03/29/2017 12:00 PM
+submission-end: 05/03/2017 05:00 PM
 submission-link: https://herox.com/NISTvr
 prizes: true
 fiscal-year: FY17

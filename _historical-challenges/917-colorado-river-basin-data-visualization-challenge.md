@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $60,000
 type-of-challenge: Creative (design & multimedia)
-submission-start: 2017/09/07 12:00 AM
-submission-end: 2017/11/17 12:00 AM
+submission-start: 09/07/2017 12:00 AM
+submission-end: 11/17/2017 12:00 AM
 submission-link: https://www.innocentive.com/ar/challenge/9933882
 prizes: true
 fiscal-year: FY17

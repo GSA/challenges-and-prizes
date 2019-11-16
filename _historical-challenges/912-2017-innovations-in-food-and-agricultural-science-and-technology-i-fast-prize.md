@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $400,000
 type-of-challenge: ideas
-submission-start: 2017/09/15 10:00 AM
-submission-end: 2017/10/06 12:00 AM
+submission-start: 09/15/2017 10:00 AM
+submission-end: 10/06/2017 12:00 AM
 submission-link:  
 prizes: true
 fiscal-year: FY17
