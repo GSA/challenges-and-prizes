@@ -55,13 +55,13 @@ non-monetary-incentives-awarded: "Global LEAP Award Winners and Finalists benefi
   in off-grid appliance enterprises\r\nUse of the Global LEAP Awards logo and
   brand\r\nInclusion in a global promotional campaign, including publicity and
   networking opportunities with distributors and investors"
-partner-agencies-federal: '2'
+partner-agencies-federal: ''
 judging-end-date: 01/16/2018 12:00 AM
 solicitation-methods: ''
 advancing-the-agency-mission: ''
 rules: '<table width="102%">  <tbody>  <tr>  <td colspan="2" width="99%"></td>  <td
-  width="0%"></td>  </tr>  <tr>  <td colspan="2" width="99%">Global LEAP                                                             
-  Outstanding Off-Grid    Appliance Awards</td>  <td width="0%"></td>  </tr>  <tr>  <td
+  width="0%"></td>  </tr>  <tr>  <td colspan="2" width="99%">Global LEAP 
+  Outstanding Off-Grid Appliance Awards</td>  <td width="0%"></td>  </tr>  <tr>  <td
   width="1%"></td>  <td colspan="2" width="98%">2016-2017 Off-Grid Refrigerator    Competition
   &amp; Innovation Prize    Official Rules</td>  </tr>  <tr>  <td colspan="2"
   width="99%"></td>  <td width="0%"></td>  </tr>  <tr>  <td colspan="2" width="99%"><strong> </strong></td>  <td
@@ -674,9 +674,9 @@ how-to-enter: "<u>Nomination Form</u>. Nominators may submit more than one Produ
   Suite 1100\r\n\r\nWashington, DC 20005\r\n\r\nUnited States of America"
 partnerships: ''
 groupAttributes:
-judging-criteria-description-0: https://static1.squarespace.com/static/56ba427f9f726695ab77ec09/t/58790214f7e0ab6f51edc3fe/1484325397576/Global+LEAP+Off-Refrigerator+Test+Method+Overview+%2813+Jan+17%29.pdf
+judging-criteria-description-0: ''
 judging-criteria-percentage-0: ''
-judging-criteria-0: Judging Criteria for Lab Testing
+judging-criteria-0: ''
 judging-criteria-description-1: ''
 judging-criteria-percentage-1: ''
 judging-criteria-1: ''
