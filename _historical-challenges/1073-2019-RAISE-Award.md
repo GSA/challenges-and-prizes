@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/2019-raise-award/
 challenge-id: 1073
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/DOT_raise_card.jpg
 agency-logo: DOT_logo.jpg
@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: 
 type-of-challenge: Ideas; Scientific
-submission-start: 2019/11/1 12:00 AM
-submission-end: 2019/11/15 12:00 PM
+submission-start: 11/1/2019 12:00 AM
+submission-end: 11/15/2019 12:00 PM
 submission-link:  
 prizes: true
 fiscal-year: FY19, FY20
