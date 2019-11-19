@@ -32,7 +32,7 @@ challenge-manager-email: teresa.nguyen@acl.hhs.gov
 
 <p><strong><u>The Challenge: An Inclusive Talent Pipeline for American Businesses</u></strong></p>
 <p>The Administration for Community Living (ACL), U.S. Department of Health and Human Services (HHS) is announcing a competition for American businesses to expand human capital pipelines by drawing upon highly talented and diverse workforces, inclusive of people with disabilities.&nbsp;</p>
-<p>To achieve this, the Inclusive Talent Pipeline for American Businesses challenge will support rapid innovation and adoption of models that help businesses improve performance by recruiting and retaining workers with disabilities, including people with intellectual and developmental disabilities (IDD),.&nbsp;</p>
+<p>To achieve this, the Inclusive Talent Pipeline for American Businesses challenge will support rapid innovation and adoption of models that help businesses improve performance by recruiting and retaining workers with disabilities, including people with intellectual and developmental disabilities (IDD).&nbsp;</p>
 <p>People with disabilities use creativity to navigate the world, and in turn they develop unique strengths, such as problem-solving skills, persistence, forethought and an eagerness to innovate &mdash; all of which are essential to today&rsquo;s market. American businesses that employ and support workers with disabilities see improved performance over their industry peers. On average these firms have:</p>
 <ul>
 <li>28% higher revenue, double the net income, and</li>
@@ -134,6 +134,63 @@ challenge-manager-email: teresa.nguyen@acl.hhs.gov
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<p><strong>Judging Panel</strong></p>
+<p>The Judging Panel will be composed of federal and/or other technical and subject matter experts.</p>
+<p><strong>Judging Criteria</strong></p>
+<ol>
+<li>INNOVATION AND VALUE TO EMPLOYERS AND DISABILITY COMMUNITY (25)</li>
+</ol>
+<ul>
+<li>To what extent does the proposed solution use innovative approaches developed to simultaneously address recruiting, training, and retaining people with IDD into the inclusive and integrated talent pipeline model?</li>
+<li>To what extent does the narrative describe how the workforce pipeline will be integrated into current business plans and how the model will benefit America&rsquo;s business leaders (e.g., by providing educational or training opportunities)?</li>
+<li>To what extent are there feasible economic benefits provided by the proposed model?</li>
+<li>To what extent are the predicted benefits quantified and supported by appropriate assumptions?</li>
+</ul>
+<ol start="2">
+<li>PARTNERSHIPS &amp; COLLABORATION (25)</li>
+</ol>
+<ul>
+<li>To what extent does the project demonstrate collaboration between different stakeholders (e.g., local partnerships, disability community, employer networks, etc.) throughout the entire process?</li>
+<li>To what extent does the project demonstrate that it will forge partnerships and/or identify stakeholders that could help support the proposed project? The purpose of such partnerships or stakeholder involvement could include, but is not limited to financial support, operations and maintenance, design consultation, or workforce internal education.</li>
+</ul>
+<ol start="3">
+<li>LIKELIHOOD OF IMPLEMENTATION (15)</li>
+</ol>
+<ul>
+<li>To what extent does the project narrative detail how the design would be implemented over the near, mid, and long-term time horizons? To what extent are the selected time frames for project implementation reasonable?</li>
+<li>To what extent is the proposed pipeline model adaptable to different communities / business environments?</li>
+</ul>
+<ol start="4">
+<li>DOCUMENTATION (5)</li>
+</ol>
+<ul>
+<li>To what extent are the documents of sufficient quality (adheres to the project narrative requirements including: cover page, page limits, and the addition of appendices) to enable the judges to evaluate the design?</li>
+<li>To what extent does the applicant include a description of their organizational capacity to implement the project?</li>
+<li>To what extent does the project include a description of the overall project goals, project context, existing conditions along with the problem to be solved, proposed talent pipeline approaches, and expected outcomes?</li>
+<li>To what extent does the team appear to have conducted the background research necessary to support their design?</li>
+<li>To what extent are the documents well-written and free of errors?</li>
+</ul>
+<ol start="5">
+<li>FINANCIAL VIABILITY (10)</li>
+</ol>
+<ul>
+<li>To what extent does the team present a cost estimate for the proposed model?</li>
+<li>To what extent does the narrative include detailed information on how the model could be paid for?</li>
+<li>To what extent did the team research grants, loans, or other sources of financing that must cover the entire projected cost of the project. Information included in the narrative must represent a viable financing path to project construction.</li>
+<li>To what extent does the team account for the cost of long-term operations and maintenance?</li>
+</ul>
+<ol start="6">
+<li>OUTREACH &amp; DISSEMINATION (20)</li>
+</ol>
+<ul>
+<li>To what extent does the project contemplate public outreach and education (e.g., examples of marketing the workforce program model)?</li>
+<li>To what extent will the proposed project complement efforts within the broader community areas of need?</li>
+</ul>
+
+<!--  How To Enter start -->
+### How To Enter
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 <p><strong>Application Requirements:</strong></p>
 <p><strong>Project Narrative</strong></p>
 <p>The intent of the project narrative is to provide a summary of each company&rsquo;s approach to meeting the challenge criteria (see Judging section).</p>
@@ -156,9 +213,3 @@ challenge-manager-email: teresa.nguyen@acl.hhs.gov
 <li>Project Narrative (saved as &ldquo;CompanyName_Date_Project Narrative.pdf&rdquo;)</li>
 <li>Signed Memorandum(s) of Understanding (saved as&ldquo;CompanyName_Date_MOU.pdf&rdquo;)</li>
 </ol>
-
-<!--  How To Enter start -->
-### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
-
-More details will come in November 2019.
