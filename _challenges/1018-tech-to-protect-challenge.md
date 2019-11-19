@@ -63,6 +63,13 @@ challenge-manager-email: craig.connelly@nist.gov
 <p><strong><em>Total Regional Cash Prizes:</em> $350,000</strong></p>
           </div>
           </div>
+<div><strong>Participant Prizes Announced</strong></div>
+<div>
+<ul>
+<li>&nbsp;<a href="https://www.techtoprotectchallenge.org/november-tech-to-protect-challenge-winners-announced-30-teams-recognized-at-nationwide-regional-codeathons-held-nov/" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://www.techtoprotectchallenge.org/november-tech-to-protect-challenge-winners-announced-30-teams-recognized-at-nationwide-regional-codeathons-held-nov/&amp;source=gmail&amp;ust=1574165702057000&amp;usg=AFQjCNFhqaiWC-sKHyQmQnPxMTCbeHFU_g">NIST PSCR Awards $180,000 at Tech to Protect Challenge November Codeathons</a></li>
+<li><a href="https://www.techtoprotectchallenge.org/september-tech-to-protect-challenge-winners-announced/" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://www.techtoprotectchallenge.org/september-tech-to-protect-challenge-winners-announced/&amp;source=gmail&amp;ust=1574165702057000&amp;usg=AFQjCNHIW36QOy1X74vuGIux7hYueVNK2w">September Tech to Protect Challenge Winners Announced</a></li>
+</ul>
+</div>          
    
 <div class="prize-item">
 <h4 class="text-primary">Prizes Anticipated for the Online & National Awards Event Contests</h4>
