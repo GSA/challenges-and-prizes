@@ -21,7 +21,7 @@ prizes: true
 fiscal-year: FY19, FY20
 legal-authority: America COMPETES Act
 challenge-manager: Teresa Nguyen, teresa.nguyen@acl.hhs.gov
-challenge-manager-email: teresa.nguyen@acl.hhs.gov
+challenge-manager-email: dana.fink@acl.hhs.gov
 ---
 
 
@@ -50,7 +50,7 @@ challenge-manager-email: teresa.nguyen@acl.hhs.gov
 <ul>
 <li>Phase 1, beginning in Fall of 2019, seeks proposals from competitors who aim to innovate and tailor the pipeline models to include individuals with IDD.</li>
 <li>Phase 2, beginning in Spring of 2020, participants will be asked to conduct small scale feasibility testing on the selected workforce pipeline models.&nbsp; Teams will convene in Washington, D.C. to propose their ideas to a panel of judges who will help select winners.&nbsp; Judges will have expertise in increasing access into the labor force for people with disabilities.</li>
-<li>Phase 3, beginning in Summer 2020, will examine the long-term sustainability and the Grand Prize winner will be announced in October of 2020.&nbsp;&nbsp;</li>
+<li>Phase 3, beginning in Summer 2020, will examine the replicability, scalability, and long-term sustainability. Teams will again convene in Washington, DC, and the Grand Prize winner will be announced in October of 2020..&nbsp;&nbsp;</li>
 </ul>
 <p>ACL is looking for innovative workforce pipelines that:</p>
 <ul>
@@ -98,17 +98,18 @@ challenge-manager-email: teresa.nguyen@acl.hhs.gov
 <p><strong>Prize Breakdown</strong></p>
 <p>Phase 1 &ndash; Proposal of Innovative Models: Total Cash Prize of $100,000</p>
 <p>HHS will make up to five awards</p>
-<p>Phase 2 &ndash; Small Scale Testing of Models: Total Cash Prize of $80,000</p>
-<p>HHS will make up to two awards</p>
-<p>Phase 3 &ndash; Promise of Model Sustainability: Total Cash Prize of $200,000</p>
-<p>HHS will make two awards</p>
+<p>Phase 2 &ndash; Small Scale Testing of Models: Total Cash Prize of $180,000</p>
+<p>HHS will make up to three awards</p>
+<p>Phase 3 &ndash; Promise of Model Sustainability: Total Cash Prize of $100,000</p>
+<p>HHS will make one awards</p>
 <p><strong>Non-monetary Prizes</strong></p>
 <p>Winners will also obtain:</p>
 <ul>
-<li>Trip to Washington, D.C. for a demo day</li>
+<li>Paid travel to Washington, D.C. for a demonstration day during Phase 2 and Phase 3</li>
 <li>Mentorship from experts in the field</li>
 <li>Networking opportunities</li>
 <li>Promotion of business innovation model</li>
+<li>Federal recognition of an additional top model proposed</li>
 </ul>
 
 <!-- Rules start -->
