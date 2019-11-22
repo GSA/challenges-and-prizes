@@ -1,6 +1,6 @@
 ---
 ideaSubmitFormInstruction: 'Participants can register by visiting the Challenge website
-  at: <a href="http://envirohealthchallenge.com/">envirohealthchallenge.com</a> anytime
+  at: <a href="http://envirohealthchallenge.com/">envirohealthchallenge.com</a>anytime
   during the proposal submission period.'
 startDate: '2018-11-26T07:09:42'
 votingAllowed: false
@@ -13,7 +13,7 @@ funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
 tagline: Explore connections between the environment and health.
 groupName: Department of Health and Human Services - Centers for Disease Control and
-Prevention
+  Prevention
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:

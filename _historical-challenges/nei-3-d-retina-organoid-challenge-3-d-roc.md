@@ -1,5 +1,5 @@
 ---
-  ideaSubmitFormInstruction: <ul>    <li>Go to <a href="https://nei.nih.gov/content/3-d-roc-challenge-details">NEI’s
+ideaSubmitFormInstruction: <ul>    <li>Go to <a href="https://nei.nih.gov/content/3-d-roc-challenge-details">NEI’s
   challenge details</a> page and see “Registration Process for Participants” and “Submission
   Requirements and Template.”</li>    <li><strong>Create an account on Challenge.gov,
   or use an existing account, to submit your solution, including all information required
