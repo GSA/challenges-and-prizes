@@ -41,15 +41,15 @@ challenge-manager-email: sean.t.mcmanus@navy.mil
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<div class="prize-item">
-<h4 class="text-primary">Breakdown</h4>
-<p class="prize"><strong>$1,000,000</strong></p>
-<div class="description">
-<p><span lang="EN">First Place: $700,000</span></p>
-<p><span lang="EN">Second Place: $200,000</span></p>
-<p><span lang="EN">Third Place: $100,000</span></p>
-</div>
-</div>
+<p><strong>Overview</strong></p>
+<p>The total prize purse is $1,000,000.</p>
+<p><strong>MUX Electronic Warfare (EW) Payload Prize Winners:</strong></p>
+<p>Congratulations to the EW Payload Prize Challenge winners!</p>
+<p>1st ($700,000): L3Harris Technologies, Inc., Herndon, Virginia</p>
+<p>2nd ($200,000): General Atomics Aeronautical Systems Inc., San Diego, California</p>
+<p>3rd ($100,000): Piasecki Aircraft Corporation, Essington, Pennsylvania</p>
+<p>NAVAIR has announced the prize challenge winners here:</p>
+<p><a href="https://www.navair.navy.mil/news/Navy-awards-MUX-prize-challenges/Thu-11212019-1054">https://www.navair.navy.mil/news/Navy-awards-MUX-prize-challenges/Thu-11212019-1054</a></p>
 
 <!-- Rules start -->
 ### Rules 
