@@ -36,7 +36,7 @@ challenge-manager-email: dnpaopolicy@cdc.gov
 <li>Linked community and clinical efforts to increase access to health care and preventive care programs at the community level.</li>
 <li>Supported implementation, evaluation, and dissemination of practice- and evidence-based strategies related to tobacco use prevention, nutrition, physical activity, or community-clinical linkages.</li>
 </ul>
-<p>Nominations for this award can help further the goals of the REACH program by documenting and disseminating the innovative or unique interventions that led to reduced health disparities.</p>
+<p>Nominations for this award can help further the goals of the REACH program by documenting and disseminating the innovative interventions that led to reduced health disparities.</p>
 
 <!-- Prizes start -->
 ### Prizes
@@ -94,7 +94,7 @@ challenge-manager-email: dnpaopolicy@cdc.gov
 </li>
 <li>By participating
 <ol style="list-style-type: lower-alpha;">
-<li>Individuals and organizations agree to assume any and all risks related to participating in the award process. Individuals or organizations also agree to waive claims against the federal government and its related entities, except in the case of willful misconduct, when participating in the award process, including claims for injury; death; damage; or loss of property, money, or profits, and including those risks caused by negligence or other causes.</li>
+<li>Individuals and organizations agree to assume any and all risks related to participating in the award process. Individuals or organizations also agree to waive claims against the federal government and its related entities, except in the case of willful misconduct, when participating in the award process, including claims for injury, death, damage, or loss of property, money, or profits, and including those risks caused by negligence or other causes.</li>
 </ol>
 </li>
 <li>No cash prize will be awarded. The selected nomination will receive a plaque and recognition.</li>
@@ -112,20 +112,20 @@ challenge-manager-email: dnpaopolicy@cdc.gov
 <p><strong>Judging Criteria</strong></p>
 <p>CDC or nonfederal individuals from outside the agency will facilitate a panel of three to five experts consisting of CDC staff and other national experts to review the applications and select a winning entry from all eligible entries based on the following judging criteria:</p>
 <ul>
-<li>The extent to which the applicant's work shows alignment with CDC Office of Minority Health and Health Equity (OMHHE) health equity goals to decrease health disparities, address social determinants of health, and promote access to high quality preventive health care. (20 points)</li>
+<li>The extent to which the applicant's work shows alignment with CDC Office of Minority Health and Health Equity health equity goals to decrease health disparities, address social determinants of health, and promote access to high-quality preventive health care. (20 points)</li>
 <li>The extent to which the applicant's work addressed health issues, including hypertension, heart disease, type 2 diabetes, or obesity and addressed the following preventable risk behaviors: tobacco use, poor nutrition, or physical inactivity. (20 points)</li>
 <li>The extent to which the applicant's work demonstrated success in systems improvement that impacted health outcomes in one or more of the following areas: access to quality care, education, employment, income, community environment, housing, and public safety. (20 points)</li>
-<li>The extent to which the applicant's work provided a unique or innovative solution to improving outcomes for groups most affected by health disparities, specifically, African Americans/blacks, American Indians/Alaska Natives, Asian Americans, Hispanic Americans, and Native Hawaiian/Pacific Islanders. (20 points)</li>
+<li>The extent to which the applicant's work provided an innovative solution to improving outcomes for groups most affected by health disparities—specifically, African Americans/blacks, American Indians/Alaska Natives, Asian Americans, Hispanic Americans, and Native Hawaiian/Pacific Islanders. (20 points)</li>
 <li>The extent to which the applicant engaged members of the community across different sectors and successfully demonstrated the development, implementation, and evaluation of the work within the community related to groups most affected by health disparities. (20 points)</li>
 <li>Judges will use a point system out of 100 to select the winner putting equal emphasis on the basis of the criteria discussed above.</li>
 </ul>
-<p>In addition to the 500 word or less free-text written statement, applicants can also submit evidence that demonstrates they met the criteria through publications, links to online content, and other forms of written material.</p>
-<p>After the selection process is completed, up to nine applicants (inclusive of the winner) may be asked to participate in a telephone discussion about the interventions used by the individual or team to successfully promote health equity and reduce health disparities. Themes from these discussions may be shared publicly to provide additional information to promote innovative and unique interventions that led to reduced health disparities.</p>
+<p>In addition to the 500 word or less written statement, applicants can also submit evidence that demonstrates they met the criteria through publications, links to online content, and other forms of written material.</p>
+<p>After the selection process is completed, up to nine applicants (inclusive of the winner) may be asked to participate in a telephone discussion about the interventions used by the individual or team to successfully promote health equity and reduce health disparities. Themes from these discussions may be shared publicly to provide additional information to promote innovative interventions that led to reduced health disparities.</p>
 <p>Applicants and the winner (including all members of the team, if a team is selected as the winner) must comply with all terms and conditions of these official rules. Winning is contingent upon fulfilling all requirements herein. CDC will notify the winner by e-mail, telephone, or mail after the date of the judging.</p>
 
 <!--  How To Enter start -->
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p>To compete for this award, individuals and entities must submit an application form, which will be available in October 2019. Applying will require applicants to provide a free-text written statement of 500 words or less that describes the nominee's unique and innovative approach that led to reduced health disparities in chronic disease.</p>
+<p>To compete for this award, individuals and entities must submit an application form. Applying will require applicants to provide a written statement of 500 words or less that describes the nominee's innovative approach that led to reduced health disparities in chronic disease.</p>
 <p>If you have questions, send an email to the challenge manager using the information under <strong>Point of Contact</strong>. Use the words "REACH Lark Award" in the subject line.</p>
