@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash: $1,000,000
 type-of-challenge: scientific
 submission-start: 2018/09/04 02:00 PM
-submission-end: 2020/03/02 02:00 PM
+submission-end: 2020/10/02 02:00 PM
 submission-link:  
 prizes: true
 fiscal-year: FY19-20
@@ -35,15 +35,15 @@ challenge-manager-email: steven.becker@nih.gov
 <p><strong>Solvers will have 2 opportunities to submit solutions and win prizes. </strong></p> 
 <ul> 
 <li>Phase 1 deadline:<strong>&nbsp;October 1, 2018 at 2:00 pm ET</strong></li> 
-<li>Phase 2 deadline: <strong>March 2, 2020 at 2:00 pm ET</strong></li> 
+<li>Phase 2 deadline: <strong>October 2, 2020 at 2:00 pm ET</strong></li> 
 </ul> 
-<p>Evaluation criteria are the same for both phases; at each deadline, teams can submit a solution that includes data supporting the scientific evaluation criteria they have accomplished to date. Full description, rules, and details of this prize competition are defined on <strong><a href="https://nei.nih.gov/content/2018-reduction-practice-challenge" target="_blank" rel="noopener noreferrer">NEI&rsquo;s challenge details</a></strong> page.</p> 
+<p>Evaluation criteria are the same for both phases; at each deadline, teams can submit a solution that includes data supporting the scientific evaluation criteria they have accomplished to date. Full description, rules, and details of this prize competition are defined on <strong><a href="https://www.nei.nih.gov/about/goals-and-accomplishments/nei-research-initiatives/3-d-retina-organoid-challenge-3-d-roc/3-d-roc-2020-reduction-practice-challenge">NEI&rsquo;s challenge details</a></strong> page.</p> 
 <p>NEI is seeking innovative solutions that achieve significant advances over currently available retina organoids. Solutions must show publication-quality data demonstrating:</p> 
 <ul> 
 <li>A 3-D human retina organoid system that mimics the physiological and morphological features of the in vivo biology, consists of the major retina cell types (rod and cone photoreceptors, horizontal, bipolar, amacrine, and ganglion cells and Muller glia) with appropriate lamination and synaptic organization, and represents their biological functions and interplay. Components (neurons, retinal pigment epithelium [RPE], glia) may be produced separately or dissociated and recombined (1) if protocol is driven by a valuable biological question and (2) if in the process of re-assembly, specific functions/roles of cell types are delineated. Three-dimensional assembly may be achieved using various approaches, for example through self-organization that recapitulates natural development (&ldquo;true organoid&rdquo;) or through bioengineering with scaffolds, bioprinting, and/or microfluidic apparatuses.</li> 
 <li>Retina organoids that are generated entirely from human cells (e.g. derived from iPSCs, hESCs, multipotent cells, or adult cells subjected to a combination of transdifferentiation/reprogramming methods).</li> 
 <li>Modeling and treating retinal disease, or testing and developing drug (i.e., high content screening) therapies.</li> 
-<li>Find detailed evaluation criteria <a href="https://nei.nih.gov/content/2018-reduction-practice-challenge" target="_blank" rel="noopener">here</a>&nbsp;under "Evaluation and Winner Selection"</li> 
+<li>Find detailed evaluation criteria <a href="https://www.nei.nih.gov/about/goals-and-accomplishments/nei-research-initiatives/3-d-retina-organoid-challenge-3-d-roc/3-d-roc-2020-reduction-practice-challenge>here</a>&nbsp;under "Evaluation and Winner Selection"</li> 
 </ul> 
 <p>Explants are not of interest for this Challenge. Tissue-on-a-chip systems that use cells grown in 2-D co-culture and do not fully represent the structure, morphology, and function of the human retina are also not of interest. However, creative approaches that incorporate use of microfluidics or perfusion to enhance culture or extend duration of survival for 3-D organoid systems are acceptable.</p> 
 <p>Reviewers will be asked to use the following criteria when evaluating whether (in the form of results, graphs, images, etc.) a prototype 3-D human retina organoid meets evaluation criteria:</p> 
@@ -76,15 +76,15 @@ challenge-manager-email: steven.becker@nih.gov
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="rules">
-<p>All details related to rules and eligibility are defined on <a href="https://nei.nih.gov/content/2018-reduction-practice-challenge">NEI&rsquo;s challenge details</a> page. Only complete applications will be reviewed.</p>
+<p>All details related to rules and eligibility are defined on <a href=" https://www.nei.nih.gov/about/goals-and-accomplishments/nei-research-initiatives/3-d-retina-organoid-challenge-3-d-roc/3-d-roc-2020-reduction-practice-challenge">NEI&rsquo;s challenge details</a> page. Only complete applications will be reviewed.</p>
 <p><strong>To participate: </strong></p>
 <ul type="disc">
 <li>Must follow all rules &amp; guidelines listed on NEI's challenge details page.</li>
 <li>Must be 18 years of age or older</li>
 <li>May participate individually or as part of one or more teams</li>
 <li>Each team&rsquo;s designated captain must be a U.S. citizen or permanent resident</li>
-<li>Must use NEI's <a href="https://nei.nih.gov/sites/default/files/Application_Template_3DROC202.docx" target="_blank" rel="noopener">application template</a> to format submissions</li>
-<li>Must submit solutions by 2:00 PM Eastern time on March 2, 2020</li>
+<li>Must use NEI's <a href="https://www.nei.nih.gov/about/goals-and-accomplishments/nei-research-initiatives/3-d-retina-organoid-challenge-3-d-roc/3-d-roc-2020-reduction-practice-challenge#section-id-2115">application template</a> to format submissions</li>
+<li>Must submit solutions by 2:00 PM Eastern time on October 2, 2020</li>
 </ul>
 <p><strong>To win prizes: </strong></p>
 <ul type="disc">
