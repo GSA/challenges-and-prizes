@@ -226,7 +226,7 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: The U.S. Department of Education has launched the EdSim Challenge with
+description: <p>The U.S. Department of Education has launched the EdSim Challenge with
   a cash prize pool of $680,000 and additional sponsor prizes from IBM, Microsoft,
   Oculus, and Samsung. The Challenge calls upon the virtual reality, video game developer,
   and educational technology communities to submit concepts for immersive simulations
@@ -239,12 +239,13 @@ description: The U.S. Department of Education has launched the EdSim Challenge w
   Accelerator phase. Each finalist will be awarded $50,000 and gain access to expert
   mentorship as they refine their concept and build a simulation prototype. The Challenge
   winner(s) will be awarded the remainder of the $680,000 prize money and additional
-  sponsor prizes from IBM, Microsoft, Oculus, and Samsung.    <strong>Judging Criteria</strong>    <strong>A
-  complete list of criteria is included in the Federal Register Notice (</strong><a
-  href="https://www.federalregister.gov/d/2016-26262">https://www.federalregister.gov/d/2016-26262</a><strong>)</strong>    &nbsp;    <strong>How
-  to Enter</strong>    Visit <a href="http://www.edsimchallenge.com/">edsimchallenge.com</a> for
-  submission requirements and to enter the challenge.    &nbsp;    <strong>Prizes
-  </strong><em>(right column)</em>    EdSim Challenge Prize Pool    $680,000    <em> </em>    <em>Up
+  sponsor prizes from IBM, Microsoft, Oculus, and Samsung.</p>    
+  <strong>Judging Criteria</strong>    
+  A complete list of criteria is included in the Federal Register Notice<a
+  href="https://www.federalregister.gov/d/2016-26262">https://www.federalregister.gov/d/2016-26262</a><br>     
+  <strong>How to Enter</strong>    Visit <a href="http://www.edsimchallenge.com/">edsimchallenge.com</a> for
+  submission requirements and to enter the challenge.<br>     
+  <strong>Prizes</strong> EdSim Challenge Prize Pool    $680,000      <em>Up
   to 5 finalists will be awarded $50,000 each and</em><em> advance to the Virtual
   Accelerator phase, which will include access to expert mentorship. The Challenge
   winner(s) will be awarded the remainder of the $680,000 prize money and additional
