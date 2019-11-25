@@ -44,15 +44,15 @@ challenge-manager-email:
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<div class="prize-item">
-<h4 class="text-primary">Breakdown</h4>
-<p class="prize"><strong>$1,000,000</strong></p>
-<div class="description">
-<p><span lang="EN">First Place: $700,000</span></p>
-<p><span lang="EN">Second Place: $200,000</span></p>
-<p><span lang="EN"> Third Place: $100,000</span></p>
-</div>
-</div>
+<p><strong>Overview</strong></p>
+<p>The total prize purse is $1,000,000.</p>
+<p><strong>MUX Intelligence, Surveillance, and Reconnaissance (ISR) Payload Prize Winners:</strong></p>
+<p>Congratulations to the ISR Payload Prize Challenge winners!</p>
+<p>1st ($700,000): BAE Systems Information and Electronic Systems Integration, Inc., Nashua, New Hampshire</p>
+<p>2nd ($200,000): Piasecki Aircraft Corporation, Essington, Pennsylvania</p>
+<p>3rd ($100,000): General Atomics Aeronautical Systems Inc., San Diego, California</p>
+<p>NAVAIR has announced the prize challenge winners here:</p>
+<p><a href="https://www.navair.navy.mil/news/Navy-awards-MUX-prize-challenges/Thu-11212019-1054">https://www.navair.navy.mil/news/Navy-awards-MUX-prize-challenges/Thu-11212019-1054</a></p>
 
 <!-- Rules start -->
 ### Rules 
