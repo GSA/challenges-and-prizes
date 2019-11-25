@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $75,000
 type-of-challenge: Scientific
-submission-start: 2017/06/06 12:00 AM
-submission-end: 2017/09/05 12:00 AM
+submission-start: 06/06/2017 12:00 AM
+submission-end: 09/05/2017 12:00 AM
 submission-link: https://www.innocentive.com/ar/challenge/9933879
 prizes: true
 fiscal-year: FY17

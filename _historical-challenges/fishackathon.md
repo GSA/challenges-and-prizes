@@ -24,7 +24,7 @@ submission-start: 02/07/2018 12:00 AM
 fiscal-year: FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '25000'
+total-prize-offered-cash: '$25,000'
 campaign-owner: Jim Thompson
 public-voting-start-date: ''
 legal-authority: Other

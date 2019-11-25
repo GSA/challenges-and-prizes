@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $400,000
 type-of-challenge: ideas
-submission-start: 2017/09/15 10:00 AM
-submission-end: 2017/10/06 12:00 AM
+submission-start: 09/15/2017 10:00 AM
+submission-end: 10/06/2017 12:00 AM
 submission-link:  
 prizes: true
 fiscal-year: FY17
@@ -53,7 +53,7 @@ challenge-manager-email: sdockum@nifa.usda.gov
   <p>Verification of Winners: October 13, 2017</p>
   <p>Announcement of Winner(s): October 17, 2017</p>
   <p>NSF I-Corps Training for Winner(s): Winning team(s) will need to be available to travel to and attend one of the following NSF I-Corps training sessions with the following dates and locations:</p>
-  <p><strong>Winter 2018 COHORTS:</p></strong>
+  <p><strong>Winter 2018 COHORTS:</strong></p>
   <p>Winter Cohort #1: Seattle, WA</p>
   <ul>
     <li>Kickoff (on-site): January (arrive 16) 17-19, 2018</li>
@@ -69,8 +69,8 @@ challenge-manager-email: sdockum@nifa.usda.gov
   <p>The Pre-Application Phase Competition Submission Period begins August 3, 2017 at 10:00 a.m. ET and ends September 8, 2017 at 12:00 a.m. ET. USDA NIFA’s receiving computer set to Eastern Time is the official time keeping device for the Competition. Pre-Application Interviews will take place September 11, 2017 to September 14, 2017.</p>
   <p>The Full-Application Phase Competition Submission Period begins September 15, 2017 at 10:00 a.m. ET and ends October 6, 2017 at 12:00 a.m. ET. USDA NIFA’s receiving computer set to Eastern Time is the official timekeeping device for the Competition. </p>
   <p>Competition dates are subject to change. Entries submitted after the Competition Submission Period will not be reviewed or considered for award.</p>
-  <p><strong>FOR FURTHER INFORMATION CONTACT:</strong> Changes or updates to the Competition rules will be posted and can be viewed at <a href="http://www.nifa.usda.gov" target="_blank" rel="noopener">www.nifa.usda.gov</a>. Questions about the Competition can be directed to Scott Dockum or Olivia Moreno at <a href="mailto:sdockum@nifa.usda.gov" target="_blank" rel="noopener">contest@nifa.usda.gov</a>, or phone 202-720-6346.
-              </div>
+  <p><strong>FOR FURTHER INFORMATION CONTACT:</strong> Changes or updates to the Competition rules will be posted and can be viewed at <a href="http://www.nifa.usda.gov" target="_blank" rel="noopener">www.nifa.usda.gov</a>. Questions about the Competition can be directed to Scott Dockum or Olivia Moreno at <a href="mailto:sdockum@nifa.usda.gov" target="_blank" rel="noopener">contest@nifa.usda.gov</a>, or phone 202-720-6346.</p>
+  </div>
 
 <!-- Prizes start -->
 ### Prizes

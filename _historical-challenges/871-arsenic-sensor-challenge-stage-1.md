@@ -14,8 +14,8 @@ partners-non-federal: Xylem Inc.
 external-url:
 total-prize-offered-cash: $50,000
 type-of-challenge: Ideas
-submission-start: 2016/12/13 12:00 AM
-submission-end: 2017/03/13 12:00 AM
+submission-start: 12/13/2016 12:00 AM
+submission-end: 03/13/2017 12:00 AM
 submission-link: https://www.innocentive.com/ar/challenge/9933765
 prizes: true
 fiscal-year:

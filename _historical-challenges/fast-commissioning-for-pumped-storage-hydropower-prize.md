@@ -23,7 +23,7 @@ submission-start: 04/01/2019 01:00 PM
 fiscal-year: FY 2019, FY 2020
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '550000'
+total-prize-offered-cash: '$550,000'
 public-voting-start-date: ''
 legal-authority: America COMPETES
 total-number-of-prizes-awarded: ''

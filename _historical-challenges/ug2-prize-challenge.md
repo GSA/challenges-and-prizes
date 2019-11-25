@@ -46,7 +46,7 @@ submission-start: 01/31/2018 12:00 AM
 fiscal-year: FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '75000'
+total-prize-offered-cash: '$75,000'
 campaign-owner: Dr. Christopher Boehnen
 public-voting-start-date: ''
 legal-authority: Other

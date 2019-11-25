@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $3,250
 type-of-challenge: Scientific
-submission-start: 2016/12/19 09:00 AM
-submission-end: 2017/04/17 11:59 PM
+submission-start: 12/19/2016 09:00 AM
+submission-end: 04/17/2017 11:59 PM
 submission-link: 
 prizes: true
 fiscal-year: FY17

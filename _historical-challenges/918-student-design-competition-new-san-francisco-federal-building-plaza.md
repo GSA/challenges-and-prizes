@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash: $1,750
 type-of-challenge: Creative (design & multimedia)
 submission-start: 08/28/2017 11:00 AM ET
-submission-end: 2017/11/22 05:00 PM ET
+submission-end: 11/22/2017 05:00 PM ET
 submission-link:  
 prizes: true
 fiscal-year: 2017

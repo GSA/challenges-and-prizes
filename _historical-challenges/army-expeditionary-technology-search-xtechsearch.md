@@ -40,7 +40,7 @@ submission-start: 06/15/2018 08:00 PM
 fiscal-year: FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '1950000'
+total-prize-offered-cash: '$1,950,000'
 campaign-owner: Dr. Matt Willis & Mr. Joshua Israel
 public-voting-start-date: ''
 legal-authority: America COMPETES
@@ -59,7 +59,7 @@ non-monetary-incentives-awarded: "Each prize winner will also be offered opportu
   for Phase II\r\nPhase II. xTechSearch Pitches - Up to 25 - $5,000 & Selection
   for Phase III\r\nPhase III. Innovators’ Corner - Up to 12 - $125,000 & Selection
   for Phase IV\r\nPhase IV. xTechSearch Capstone Demonstration - $200,000\r\n\r\n"
-partner-agencies-federal: '1'
+partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''

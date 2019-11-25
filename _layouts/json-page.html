@@ -18,7 +18,7 @@ layout: default
                 <div id="a1" class="usa-accordion__content bg-gray-5">
                     <div class="text-base-darker">
                             {% if page.total-prize-offered-cash != "" %}
-                            <i class="fas fa-money-bill-wave text-accent-warm-dark font-size-mono-xl"></i><span class="text-primary text-uppercase"> Total Cash Prizes Offered: </span> ${{ page.total-prize-offered-cash }}<br>
+                            <i class="fas fa-money-bill-wave text-accent-warm-dark font-size-mono-xl"></i><span class="text-primary text-uppercase"> Total Cash Prizes Offered: </span> {{ page.total-prize-offered-cash }}<br>
                             {% endif %}
                             <i class="fas fa-stream text-accent-warm-dark"></i><span class="text-primary text-uppercase"> Type of Challenge:</span>  {{ page.type-of-challenge }}</span><br>
                             {% if page.partner-agencies-federal != "" %}
@@ -70,42 +70,9 @@ layout: default
 
                     <!--Judging Criteria-->
                     {% if page.judging-criteria-0 != "" or page.judging-criteria-description-0 != "" %}
-                    <h3 class="text-accent-warm-dark font-heading-lg challenge-section" id="judging-criteria">Judging Criteria</h3>
-                    <p>
+                    {% include challenge-judging-criteria.html %}
                     {% endif %}
 
-                    {% if page.judging-criteria-0 != "" %}
-                    <strong>{{ page.judging-criteria-0 }}</strong><br>
-                    {% endif %}
-                    {% if page.judging-criteria-percentage-0 != "" %}
-                    Percentage: {{ page.judging-criteria-percentage-0 }}<br>
-                    {% endif %}
-                    {% if page.judging-criteria-description-0 != "" %}
-                    {{ page.judging-criteria-description-0 }}<br>
-                    </p>
-                    {% endif %}
-
-                    {% if page.judging-criteria-1 != "" %}
-                    <p>
-                    <strong>{{ page.judging-criteria-1 }}</strong><br>
-                    {% if page.judging-percentage-criteria-1 != "" %}
-                    Percentage: {{ page.judging-criteria-percentage-1 }}<br>
-                    {% endif %}
-                    {{ page.judging-criteria-description-1 }}<br>
-                    </p>
-                    {% endif %}
-
-                    {% if page.judging-criteria-2 != "" %}
-                    <p>
-                    <strong>{{ page.judging-criteria-2 }}</strong><br>
-                    {% if page.judging-percentage-criteria-2 != "" %}
-                    Percentage: {{ page.judging-criteria-percentage-2 }}<br>
-                    {% endif %}
-                    {{ page.judging-criteria-description-2 }}<br>
-                    </p>
-                    {% endif %}
-
-                    
                     <!--How To Enter-->
                     {% if page.how-to-enter != "" %}
                     <h3 class="text-accent-warm-dark font-heading-lg challenge-section" id="how-to-enter">How To Enter</h3>

@@ -14,8 +14,8 @@ partners-non-federal: The Journal of Technology Transfer
 external-url:
 total-prize-offered-cash: $20,000
 type-of-challenge: Ideas
-submission-start: 2016/09/27 09:00 AM
-submission-end: 2017/03/31 05:00 PM
+submission-start: 09/27/2016 09:00 AM
+submission-end: 03/31/2017 05:00 PM
 submission-link: 
 prizes: true
 fiscal-year: FY17

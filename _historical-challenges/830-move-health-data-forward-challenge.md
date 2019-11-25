@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash: $250,000
 type-of-challenge: Software/Apps
 submission-start: 11/19/2016 12:00 AM 
-submission-end: 2017/01/12 11:59 PM 
+submission-end: 01/12/2017 11:59 PM 
 submission-link:  
 prizes: true
 fiscal-year: 2016

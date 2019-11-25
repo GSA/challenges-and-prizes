@@ -104,7 +104,7 @@ submission-start: 02/06/2018 11:59 AM
 fiscal-year: FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '400000'
+total-prize-offered-cash: '$400,000'
 campaign-owner: Eli Levine
 public-voting-start-date: ''
 legal-authority: America COMPETES
@@ -121,7 +121,7 @@ non-monetary-incentives-awarded: "Initial Prize: Propose a Financially Sustainab
   $150,000 per winner\r\nFinal Prize: Demonstrate outcomes of training delivery
   and partnership development, via a financially sustainable revenue model\t\r\n2
   winners, $250,000 for First $100,000 for Second\r\n"
-partner-agencies-federal: '1'
+partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''

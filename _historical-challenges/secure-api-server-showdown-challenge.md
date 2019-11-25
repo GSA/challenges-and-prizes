@@ -25,7 +25,7 @@ submission-start: 02/20/2017 12:00 AM
 fiscal-year: FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '50000'
+total-prize-offered-cash: '$50,000'
 campaign-owner: Josh Shapiro
 public-voting-start-date: ''
 legal-authority: America COMPETES
