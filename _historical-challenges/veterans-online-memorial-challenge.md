@@ -42,10 +42,10 @@ partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''
-rules: '<h2>Rules</h2>  <u>Participation Eligibility:</u>    The challenge is
+rules: '<u>Participation Eligibility:</u>    The challenge is
   open to individuals, age 18 or older, private teams, public teams, and collegiate
   teams. Individual competitors and teams may originate from any country, as long
-  as United States federal sanctions do not prohibit participation (see: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/Programs.aspx).    The
+  as United States federal sanctions do not prohibit participation (see: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/Programs.aspx).  <br>  The
   following restrictions apply to the Challenge:  (1) Federal employees acting
   within the scope of their employment are not eligible to participate; (2) Federal
   employees acting outside the scope of their employment should consult their
@@ -56,15 +56,15 @@ rules: '<h2>Rules</h2>  <u>Participation Eligibility:</u>    The challenge is
   and persons living in the same household whether or not related, are not eligible
   to participate; (4) Contractors receiving Government funding for the same or
   similar projects, along with their employees, are not eligible to participate
-  in the Challenge.    Submissions must be made in English. All challenge-related
+  in the Challenge.  <br>  Submissions must be made in English. All challenge-related
   communication will be in English.    No specific qualifications or expertise
   is required. Prize organizers <em>encourage outside individuals and non-expert
-  teams</em> to compete and propose new solutions.    To be eligible to compete,
+  teams</em> to compete and propose new solutions.  <br>  To be eligible to compete,
   you must comply with all the terms of the challenge as defined in the Challenge-Specific
-  Agreement.    <u>Registration and Submissions</u>:    Submissions must be made
+  Agreement.   <br> <u>Registration and Submissions</u>:    Submissions must be made
   online (only), via upload to the <a href="https://herox.com/VA-Online-Memorial">HeroX.com</a>
   website, on or before 5pm ET on November 30, 2017. All uploads must be in PDF
-  format. No late submissions will be accepted.    <u>Intellectual Property:</u>    As
+  format. No late submissions will be accepted. <br>   <u>Intellectual Property:</u>    As
   detailed in the Challenge-Specific Agreement – Innovators who are awarded a
   prize for their submission must agree to grant The United States Department
   of Veterans Affairs an irrevocable, royalty free, perpetual, sublicensable,
