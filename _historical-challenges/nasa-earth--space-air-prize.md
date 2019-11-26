@@ -23,7 +23,7 @@ submission-start: '09/19/2017 09:00 AM'
 fiscal-year: FY 2016
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '250000'
+total-prize-offered-cash: '$250,000'
 campaign-owner: Lynn E. Buquo
 public-voting-start-date: ''
 legal-authority: America COMPETES

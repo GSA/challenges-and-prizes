@@ -24,7 +24,7 @@ submission-start: 04/30/2018 12:00 AM
 fiscal-year: FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '150000'
+total-prize-offered-cash: '$150,000'
 campaign-owner: Rob Monto
 public-voting-start-date: ''
 legal-authority: Other Transactions Authority
@@ -40,7 +40,7 @@ non-monetary-incentives-awarded: " - $100K, 1st Place Solver submission for Army
   Signal Classification Challenge\r\n\r\n - $30K, 2nd Place Solver submission
   for Army Signal Classification Challenge\r\n\r\n - $20K, 3rd Place Solver submission
   for Army Signal Classification Challenge"
-partner-agencies-federal: '1'
+partner-agencies-federal: ''
 judging-end-date: '08/13/2018 12:00 AM'
 solicitation-methods: ''
 advancing-the-agency-mission: ''

@@ -24,7 +24,7 @@ submission-start: 01/16/2018 12:00 AM
 fiscal-year: FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '2500'
+total-prize-offered-cash: '$2,500'
 campaign-owner: Holly Brown
 public-voting-start-date: ''
 legal-authority: America COMPETES

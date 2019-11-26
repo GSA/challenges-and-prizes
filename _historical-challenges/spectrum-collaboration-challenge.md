@@ -24,7 +24,7 @@ submission-start: 07/19/2016 12:00 AM
 fiscal-year: FY 2017
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '3750000'
+total-prize-offered-cash: '$3,750,000'
 campaign-owner: Paul Tilghman
 public-voting-start-date: ''
 legal-authority: Other

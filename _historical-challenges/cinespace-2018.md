@@ -25,7 +25,7 @@ submission-start: 03/19/2018 12:00 AM
 fiscal-year: FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '26000'
+total-prize-offered-cash: '$26,000'
 campaign-owner: Robert Lewis
 public-voting-start-date: ''
 legal-authority: Procurement Authority
