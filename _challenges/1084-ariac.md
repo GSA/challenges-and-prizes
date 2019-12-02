@@ -4,7 +4,7 @@ permalink: /challenge/ariac/
 challenge-id: 1084
 status: open
 sidenav: true (false for challenges that are only external)
-card-image: /assets/images/cards/challenge-gov.png
+card-image: /assets/images/cards/ARIAC-image.png
 agency-logo: 
 challenge-title: ARIAC
 tagline: Build your own robot control software and win up to $10,000!
