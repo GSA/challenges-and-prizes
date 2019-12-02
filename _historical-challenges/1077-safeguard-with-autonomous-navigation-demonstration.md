@@ -14,8 +14,8 @@ partners-non-federal: National Institute of Aerospace
 external-url: http://sand2020.nianet.org
 total-prize-offered-cash:
 type-of-challenge: Technology demonstration
-submission-start: 2019/09/23 5:00 PM
-submission-end: 2019/11/30 11:59 PM
+submission-start: 09/23/2019 5:00 PM
+submission-end: 11/30/2019 11:59 PM
 submission-link: http://sand2020.nianet.org 
 prizes: true
 fiscal-year: FY20
