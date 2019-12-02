@@ -3,7 +3,7 @@ layout: front-matter-data
 permalink: /challenge/ariac/
 challenge-id: 1084
 status: open
-sidenav: true (false for challenges that are only external)
+sidenav: true 
 card-image: /assets/images/cards/ARIAC-image.png
 agency-logo: NIST_logo.png
 challenge-title: ARIAC
