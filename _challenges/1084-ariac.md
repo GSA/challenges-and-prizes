@@ -5,7 +5,7 @@ challenge-id: 1084
 status: open
 sidenav: true (false for challenges that are only external)
 card-image: /assets/images/cards/ARIAC-image.png
-agency-logo: 
+agency-logo: NIST_logo.png
 challenge-title: ARIAC
 tagline: Build your own robot control software and win up to $10,000!
 agency: Department of Commerce - National Institute of Standards and Technology
