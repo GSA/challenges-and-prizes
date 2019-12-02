@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash: $17,500
 type-of-challenge: Software and apps
 submission-start: 2020/01/27
-submission-end: 2020/10/05
+submission-end: 2020/05/10
 submission-link:
 prizes: true
 fiscal-year: FY20
