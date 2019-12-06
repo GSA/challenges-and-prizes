@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/american-made-solar-prize-round-3/
 challenge-id: 1083
-status: open
+status: closed
 sidenav: false (false for challenges that are only external)
 card-image: /assets/images/cards/solarprizelogo.jpg
 agency-logo: 256px-Seal_of_the_United_States_Department_of_Energy.png
