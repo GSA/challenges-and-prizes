@@ -4,9 +4,9 @@ permalink: /challenge/vets-job-matching-challenge/
 challenge-id: 1085
 status: open
 sidenav: true
-card-image: /assets/images/cards/challenge-gov.png
+card-image: /assets/images/cards/Vets-Employment-Challenge-logo-340x160v1.jpg
 agency-logo: DOL-MasterLogo_Color300.png
-challenge-title: TBD - Vets Job Matching Challenge - TBD
+challenge-title: PREVIEW - Veterans Employment Match Challeng - PREVIEW
 tagline: Build a better application to match the skills of those who have served in the military with employer needs.
 agency: Department of Labor
 partner-agencies-federal: Department of Defense, Department of Veterans Affairs
@@ -32,6 +32,7 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 
 <p>The goal of this challenge is to develop a job-matching tool that will be piloted in a <a href="https://www.dol.gov/agencies/vets/programs/tap" target="_blank">Transition Assistance Program (TAP)</a> Employment Workshop at selected base locations. If the tool is effective, it could be added to the Employment Workshop curriculum for all transitioning service members.</p>
 <p>In 2018, the Department of Labor (DOL), the Department of Defense (DOD), and the Department of Veterans’ Affairs (VA) began a cross-agency effort to understand the transition of a Service member from active duty to civilian employment, from the perspective of the individual navigating this process—not the perspective of the Federal organizations that exist to support a plethora of programs. The agencies built a journeymap of this process and found a recurring theme: navigating the “sea of support” and resources relating to the job search can be a challenging task.</p>
+<p><img src="{{ site.baseurl }}/assets/images/challenge-content/Vets-Employment-Challenge-sealsV1.jpg"></p>
 <p>Veterans complete their military service with unique and technical skillsets that bring value to all sectors of the economy, but can encounter challenges framing their experience and skills for civilian employers. American businesses report that they are also missing an opportunity to attract and retain a capable, competent workforce, and recognize the value in veterans and spouses.</p>
 <p>Many job boards, veteran hiring programs, and other initiatives exist, but there are disparate platforms of valuable data. Traversing across these resources can be overwhelming for both first-time job-seeking veterans and businesses with limited time to fill urgent needs. Additionally, most job search tools for Service members are based purely on military occupational specialties, which do not accurately represent the breadth of experiences many individuals have. Finally, small businesses in particular do not have the staff capacity to build out robust skills profiles that better describe hiring needs.</p>
 <p>There is a need for both a more sophisticated matching mechanism and a simpler interface that can pull from existing data sources (from Federal platforms like O*NET, MilGEARs, and the National Labor Exchange, to LinkedIn profiles, resumes, or job descriptions that individuals and businesses have created).</p>
