@@ -63,7 +63,7 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 <h4>Federal Government Needs</h4>
 <ul>
 <li>Access to a feedback loop to learn more about matches made, types of users, most useful feature, and other raw data to inform Federal program efforts and ultimately track outcomes, including employment that is initiated beyond 180 days, wage rates, and/or retention statistics.</li>
-</li>Ability to fold in/link to existing government data efforts (e.g., Oak Ridge National Laboratory project) when they reach maturity.</li>
+<li>Ability to fold in/link to existing government data efforts (e.g., Oak Ridge National Laboratory project) when they reach maturity.</li>
 </ul>
 
 <!-- Prizes start -->
@@ -193,16 +193,16 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<h4>Phase I: </strong>Proposal</h4>
-<p><strong>Open Date: </strong>December 11, 2019</p>
-<p><strong>Duration: </strong>6 weeks</p>
-<p><strong>Close Date: </strong>January 24, 2020 – Deadline to submit at 5:00 PM EST</p>
-<p><strong>Submit: Concept paper</p>
+<h4>Phase I: Proposal</h4>
+<p>Open Date: >December 11, 2019</p>
+<p>Duration: 6 weeks</p>
+<p>Close Date: January 24, 2020 – Deadline to submit at 5:00 PM EST</p>
+<p>Submit: Concept paper</p>
 <ul>
 <li>Entries must consist of PDF files with font size no smaller than 11-point Arial.</li> 
 <li>All submissions must be in English.</li> 
 <li>Solvers must not use DOL, VA, DOD, or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement.</li>
-<li>Submission details to VETS.Challenge2020@dol.gov:</li> 
+<li>Submission details to <a href="mailto:VETS.Challenge2020@dol.gov" target="_blank">VETS.Challenge2020@dol.gov</a>:</li> 
 <ul>
 <li>Title the email subject line “Job Matching Challenge Phase I Proposal”</li>
 <li>Email sender (person and email address) must be Official Representative/person of contact for the team</li>
@@ -244,7 +244,7 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 <p><strong>Close Date: </strong>May 1, 2020 – Deadline to submit at 5:00 PM EST</p>
 <p><strong>Submit: </strong>MVP (link)</p>
 <ul>
- <li>Submission details to VETS.Challenge2020@dol.gov:</li>
+ <li>Submission details to <a href="mailto:VETS.Challenge2020@dol.gov" target="_blank">VETS.Challenge2020@dol.gov</a>:</li>
 <ul>
  <li>The sender should be the same Official Representative who submitted the entry for the Solver team in Phases I and II.</li>
  <li>The MVP must be a workable link.</li>
@@ -254,13 +254,13 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
  <p><strong>Description: </strong>The Phase II awardees (up to 5 Solvers) will be invited to participate to test their MVPs with actual users (employers, Service members, and Veterans) in a virtual user testing session the week of March 2 (exact dates TBD). Solvers should bring to this event a clickable MVP to receive feedback from these three user groups, in order to update a final MVP submission at the end of this phase. Solvers selected to participate in this phase must participate in the user testing in order to be evaluated and advance to the next phase.</p>
 <p><strong>Prize: <strong>Up to 3 awardees will advance to the next phase and receive $100,000 each. </p>
  <p>Notification date of advancement of Finalists to Phase IV: May 8, 2020 by 5:00 PM EST</p>
- <h3><strong>Phase IV: </strong>Field Testing (Finals)</h3>
+ <h4><strong>Phase IV: </strong>Field Testing (Finals)</h4>
  <p><strong>Open Date: </strong>May 11, 2020</p>
  <p><strong>Duration: </strong>8 Weeks</p>
  <p><strong>Close Date: </strong>July 3, 2020 – Deadline to submit at 5:00 PM EST</p>
  <p><strong>Submit: </strong>Alpha Product Version, 30 minute TAP module</p>
 <ul>
- <li>Submission details to VETS.Challenge2020@dol.gov:</li>
+ <li>Submission details to <a href="mailto:VETS.Challenge2020@dol.gov" target="_blank">VETS.Challenge2020@dol.gov</a>:</li>
  <ul>
   <li>The sender should be the same Official Representative that submitted the entry for the Solver team in Phases I-III.</li>
   <li>Title the email subject line “Job Matching Challenge Phase IV Pilot Materials”</li>
@@ -270,13 +270,13 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 <p><strong>Description: </strong>The Phase III awardees (up to 3 Solvers) will be invited to participate in small-scale pilot to test their product with Service members participating in TAP sessions during the weeks of June 15 and June 22 (exact dates TBD). Solvers will have 30 minutes in these sessions to present their tool, demo, and provide the opportunity for Service members to test the tool / observe their reactions and use. Following these demos and delivery, Solvers will have one week to update their final product before submission. Solvers selected to participate in this phase must participate in the user testing in order to be evaluated and advance to the next phase. Solvers must cover their own expenses to the user testing event.</p>
 <p><strong>Prize: </strong>1 Finalist will advance to the next phase and receive a prize of $300,000. </p>
 <p>Notification date of advancement of selected Finalist to Phase V: July 10, 2020 by 5:00 PM EST</p>
-<h3>Phase V: Implementation Pilot </h3>
+<h4>Phase V: Implementation Pilot </h4>
 <p><strong>Open Date: July 13, 2020</strong></p>
 <p><strong>Duration: 8 Weeks</strong></p>
 <p><strong>Close Date: September 4, 2020 – Deadline to submit at 5:00 PM EST</strong></p>
 <p><strong>Submit: Beta Product Version, 15 minute TAP module</strong></p>
 <ul>
- <li>Submission details to VETS.Challenge2020@dol.gov:</li> 
+ <li>Submission details to <a href="mailto:VETS.Challenge2020@dol.gov" target="_blank">VETS.Challenge2020@dol.gov</a>:</li> 
 <ul>
  <li>The sender should be the same Official Representative who submitted the entry for the Solver team in Phases I-IV.</li>
 <li>Title the email subject line “Job Matching Challenge Phase V Final Materials”<li>
