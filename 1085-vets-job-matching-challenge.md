@@ -20,7 +20,7 @@ submission-link:
 prizes: true
 fiscal-year: FY20
 legal-authority: America COMPETES
-challenge-manager:
+challenge-manager: Amira Boland, Amira.C.Boland@omb.eop.gov 
 challenge-manager-email: VETS.Challenge2020@dol.gov
 ---
 
@@ -271,7 +271,7 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
  <ul>
   <li>The sender should be the same Official Representative that submitted the entry for the Solver team in Phases I-III.</li>
   <li>Title the email subject line “Job Matching Challenge Phase IV Pilot Materials”</li>
-  </li>The product should be fully functional for job seekers and employers.</li>
+  <li>The product should be fully functional for job seekers and employers.</li>
  </ul>
 </ul>
 <p><strong>Description: </strong>The Phase III awardees (up to 3 Solvers) will be invited to participate in small-scale pilot to test their product with Service members participating in TAP sessions during the weeks of June 15 and June 22 (exact dates TBD). Solvers will have 30 minutes in these sessions to present their tool, demo, and provide the opportunity for Service members to test the tool / observe their reactions and use. Following these demos and delivery, Solvers will have one week to update their final product before submission. Solvers selected to participate in this phase must participate in the user testing in order to be evaluated and advance to the next phase. Solvers must cover their own expenses to the user testing event.</p>
