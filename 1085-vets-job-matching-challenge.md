@@ -55,7 +55,8 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 <li>Ability to easily remove a particular profile and all related data from the platform.</li>
 </ul>
 <h4>Employer Needs</h4>
-<li>Present themselves—in particular, small business with limited HR capacities—through a profile that contains standardized information, as well as information about the organization.</li> 
+<ul>
+ <li>Present themselves—in particular, small business with limited HR capacities—through a profile that contains standardized information, as well as information about the organization.</li> 
 <li>Post specific available opportunities in a manner that is designed to address service member and veteran-specific priorities, including: position descriptions, required skillsets, benefits, and work environment (e.g., support for Veterans, training, onboarding, mentorship opportunities). This could include options to connect a job-seeker directly to veterans currently employed at the company.</li>
 <li>Generate “match lists” of qualified candidates.</li>
 <li>Provide technology-enabled solutions to allow for direct outreach to candidates through mechanisms they regularly check (existing email accounts, text messages) rather than a separate message management system that requires additional login (only if candidates have set their profiles to allow for direct contact).</li>
@@ -209,13 +210,15 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 <li>Following documents should be attached:</li>
 <ul>
 <li>Proposal cover sheet as PDF</li>
- <ul>
-<li>Solver Official Representative (person of contact) contact information (full name, email, phone)</li> 
+<ul>
+ <li>Solver Official Representative (person of contact) contact information (full name, email, phone)</li> 
 <li>Name of organization(s) and all team member(s) submitting entry</li>
 </ul>
 <li>Two-page MAX Concept description document as PDF</li>    
-<li>Wireframe: The wireframe may be included as either an attachment or included as a link in the body of the email Submission to a clickable website. A one-page document description of the wireframe may be included with the Submission.</li>
-<li>Description: The concept paper phase invites all eligible entities to submit a concept white paper outlining their technology, the potential impact for job seekers and employers, the innovative idea / concept behind how their platform could work and leverage existing efforts, and how this is informed by user needs they have identified.  Each concept and wireframe will be reviewed by a tri-agency panel.  Only the first two pages (inclusive of any visual representations or graphics) of the concept description document will be reviewed along with the wireframe submission and its one page description, if any. During the Phase I review process, the concept paper and wireframe will be redacted for both applicant and any specific organizational partner names referenced (versus broader categories of organizational partners) and reviewed by Federal evaluators screened to avoid conflicts of interest. Department of Labor DOL) will provide additional criteria throughout the various phases to further define requirement expectations.</li>
+<li>Wireframe: The wireframe may be included as either an attachment or included as a link in the body of the email Submission to a clickable website. A one-page document description of the wireframe may be included with the Submission.</li></ul>
+ </ul>
+ </ul>
+<p>Description: The concept paper phase invites all eligible entities to submit a concept white paper outlining their technology, the potential impact for job seekers and employers, the innovative idea / concept behind how their platform could work and leverage existing efforts, and how this is informed by user needs they have identified.  Each concept and wireframe will be reviewed by a tri-agency panel.  Only the first two pages (inclusive of any visual representations or graphics) of the concept description document will be reviewed along with the wireframe submission and its one page description, if any. During the Phase I review process, the concept paper and wireframe will be redacted for both applicant and any specific organizational partner names referenced (versus broader categories of organizational partners) and reviewed by Federal evaluators screened to avoid conflicts of interest. Department of Labor DOL) will provide additional criteria throughout the various phases to further define requirement expectations.</p>
 </ul>
 <p>Up to 10 applicants with the highest ranking white papers will advance to Phase II.</p>
 <p>Notification date of advancement of Semi-Finalists to Phase II: January 31, 2020 by 5:00 PM EST</p>
