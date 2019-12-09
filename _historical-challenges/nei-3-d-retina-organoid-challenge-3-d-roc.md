@@ -1,4 +1,57 @@
 ---
+layout: front-matter-data
+permalink: /challenge/nei-3-d-retina-organoid-challenge-3-d-roc/
+challenge-id: 895
+status: closed
+sidenav: true (false for challenges that are only external)
+card-image: /assets/images/cards/challenge-gov.png
+agency-logo:
+challenge-title: NEI 3-D Retina Organoid Challenge (3-D ROC)
+tagline: Insights wanted: leveraging mini-retinas for big breakthroughs in eye disease
+agency: Department of Health and Human Services - National Institutes of Health
+partner-agencies-federal:
+partners-non-federal:
+external-url:
+total-prize-offered-cash: $100,000
+type-of-challenge: Ideas
+submission-start: 08/01/2017 12:00 PM
+submission-end: 06/01/2017 12:00 PM
+submission-link:
+prizes: true
+fiscal-year: FY17
+legal-authority: America Competes Act
+challenge-manager: Steve Becker, steven.becker@nih.gov
+challenge-manager-email: (will display in the Point of Contact field)
+---
+
+
+
+<!-- Description start -->
+### Description
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
+
+<!-- Prizes start -->
+### Prizes
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
+
+<!-- Rules start -->
+### Rules 
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
+
+<!-- Judging start -->
+### Judging Criteria
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
+
+<!--  How To Enter start -->
+### How To Enter
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
+
+---
 ideaSubmitFormInstruction: <ul>    <li>Go to <a href="https://nei.nih.gov/content/3-d-roc-challenge-details">NEI’s
   challenge details</a> page and see “Registration Process for Participants” and “Submission
   Requirements and Template.”</li>    <li><strong>Create an account on Challenge.gov,
