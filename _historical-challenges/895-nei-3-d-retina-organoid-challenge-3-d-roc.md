@@ -7,7 +7,7 @@ sidenav: true (false for challenges that are only external)
 card-image: /assets/images/cards/challenge-gov.png
 agency-logo: NIH-Generic.png
 challenge-title: NEI 3-D Retina Organoid Challenge (3-D ROC)
-tagline: Insights wanted: leveraging mini-retinas for big breakthroughs in eye disease
+tagline: Insights wanted - leveraging mini-retinas for big breakthroughs in eye disease
 agency: Department of Health and Human Services - National Institutes of Health
 partner-agencies-federal:
 partners-non-federal:
