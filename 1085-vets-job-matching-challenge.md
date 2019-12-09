@@ -30,7 +30,7 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 ### Description
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p>The goal of this challenge is to develop a job-matching tool that will be piloted in a <a href="https://www.dol.gov/agencies/vets/programs/tap" target="_blank">Transition Assistance Program (TAP)</a> Employment Workshop at selected base locations. If the tool is effective, it could be added to the Employment Workshop curriculum for all transitioning service members.</p>
+<p>The goal of this challenge is to develop a job-matching tool that will be piloted in a <a href="https://www.dol.gov/agencies/vets/programs/tap" target="_blank" rel="noopener">Transition Assistance Program (TAP)</a> Employment Workshop at selected base locations. If the tool is effective, it could be added to the Employment Workshop curriculum for all transitioning service members.</p>
 <p>In 2018, the Department of Labor (DOL), the Department of Defense (DOD), and the Department of Veterans’ Affairs (VA) began a cross-agency effort to understand the transition of a Service member from active duty to civilian employment, from the perspective of the individual navigating this process—not the perspective of the Federal organizations that exist to support a plethora of programs. The agencies built a journeymap of this process and found a recurring theme: navigating the “sea of support” and resources relating to the job search can be a challenging task.</p>
 <p><img src="{{ site.baseurl }}/assets/images/challenge-content/Vets-Employment-Challenge-sealsV1.jpg"></p>
 <p>Veterans complete their military service with unique and technical skillsets that bring value to all sectors of the economy, but can encounter challenges framing their experience and skills for civilian employers. American businesses report that they are also missing an opportunity to attract and retain a capable, competent workforce, and recognize the value in veterans and spouses.</p>
@@ -222,6 +222,7 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 <p><strong>Description: </strong>The concept paper phase invites all eligible entities to submit a concept white paper outlining their technology, the potential impact for job seekers and employers, the innovative idea / concept behind how their platform could work and leverage existing efforts, and how this is informed by user needs they have identified.  Each concept and wireframe will be reviewed by a tri-agency panel.  Only the first two pages (inclusive of any visual representations or graphics) of the concept description document will be reviewed along with the wireframe submission and its one page description, if any. During the Phase I review process, the concept paper and wireframe will be redacted for both applicant and any specific organizational partner names referenced (versus broader categories of organizational partners) and reviewed by Federal evaluators screened to avoid conflicts of interest. Department of Labor DOL) will provide additional criteria throughout the various phases to further define requirement expectations.</p>
 <p>Up to 10 applicants with the highest ranking white papers will advance to Phase II.</p>
 <p>Notification date of advancement of Semi-Finalists to Phase II: January 31, 2020 by 5:00 PM EST</p>
+<hr>
 <h4>Phase II: Wireframe: User-Centered Testing/Concept Optimization</h4>
 <p><strong>Open Date: </strong>February 3, 2020</p>
 <p><strong>Duration: </strong>4 Weeks</p>
@@ -230,7 +231,7 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 <ul>
  <li>All submissions must be in English.</li> 
 <li>Solvers must not use DOL, VA, DOD, or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement.</li>
- <li>Submission details to VETS.Challenge2020@dol.gov: </li>
+ <li>Submission details to <a href="mailto:VETS.Challenge2020@dol.gov" target="_blank" rel="noopener">VETS.Challenge2020@dol.gov</a>: </li>
 <ul>
  <li>The sender must be the same Official Representative who submitted the entry for the Solver team in Phase I</li>
 <li>Title the email subject line “Job Matching Challenge Phase II Wireframe”</li> 
@@ -239,15 +240,16 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
  </ul>
  </ul>
 <p><strong>Description: </strong>The applicants selected from Phase I (up to 10 Solvers) will be invited to participate in “rapid testing” session with actual users (employers, Service members, and Veterans) the week of February 21. Solvers will have an opportunity to present their wireframe to receive feedback from these three user groups, in order to update a final wireframe submission at the end of this phase. Solvers will also be provided with sample data sets. Solvers selected to participate in this phase must participate in the rapid testing in order to be evaluated and advance to the next phase.</p>
-<p>Prize: Up to 5 awardees will advance to the next phase and receive $20,000 each.</p>
-<p>Notification date of advancement of Semi-Finalists to Phase III: March 6, 2020 by 5:00 PM EST</p>
+<p><strong>Prize: </strong>Up to 5 awardees will advance to the next phase and receive $20,000 each.</p>
+<p><strong>Notification date of advancement of Semi-Finalists to Phase III: </strong>March 6, 2020 by 5:00 PM EST</p>
+<hr>
 <h4><strong>Phase III: </strong>MVP (Semi-Finals)</h4>
 <p><strong>Open Date: </strong>March 9, 2020</p>
 <p><strong>Duration: </strong>8 Weeks</p>
 <p><strong>Close Date: </strong>May 1, 2020 – Deadline to submit at 5:00 PM EST</p>
 <p><strong>Submit: </strong>MVP (link)</p>
 <ul>
- <li>Submission details to <a href="mailto:VETS.Challenge2020@dol.gov" target="_blank">VETS.Challenge2020@dol.gov</a>:</li>
+ <li>Submission details to <a href="mailto:VETS.Challenge2020@dol.gov" target="_blank" rel="noopener">VETS.Challenge2020@dol.gov</a>:</li>
 <ul>
  <li>The sender should be the same Official Representative who submitted the entry for the Solver team in Phases I and II.</li>
  <li>The MVP must be a workable link.</li>
@@ -257,14 +259,15 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
  </ul>
  <p><strong>Description: </strong>The Phase II awardees (up to 5 Solvers) will be invited to participate to test their MVPs with actual users (employers, Service members, and Veterans) in a virtual user testing session the week of March 2 (exact dates TBD). Solvers should bring to this event a clickable MVP to receive feedback from these three user groups, in order to update a final MVP submission at the end of this phase. Solvers selected to participate in this phase must participate in the user testing in order to be evaluated and advance to the next phase.</p>
 <p><strong>Prize: </strong>Up to 3 awardees will advance to the next phase and receive $100,000 each. </p>
- <p>Notification date of advancement of Finalists to Phase IV: May 8, 2020 by 5:00 PM EST</p>
- <h4><strong>Phase IV: </strong>Field Testing (Finals)</h4>
+ <p><strong>Notification date of advancement of Finalists to Phase IV: </strong>May 8, 2020 by 5:00 PM EST</p>
+<hr>
+<h4><strong>Phase IV: </strong>Field Testing (Finals)</h4>
  <p><strong>Open Date: </strong>May 11, 2020</p>
  <p><strong>Duration: </strong>8 Weeks</p>
  <p><strong>Close Date: </strong>July 3, 2020 – Deadline to submit at 5:00 PM EST</p>
  <p><strong>Submit: </strong>Alpha Product Version, 30 minute TAP module</p>
 <ul>
- <li>Submission details to <a href="mailto:VETS.Challenge2020@dol.gov" target="_blank">VETS.Challenge2020@dol.gov</a>:</li>
+ <li>Submission details to <a href="mailto:VETS.Challenge2020@dol.gov" target="_blank" rel="noopener">VETS.Challenge2020@dol.gov</a>:</li>
  <ul>
   <li>The sender should be the same Official Representative that submitted the entry for the Solver team in Phases I-III.</li>
   <li>Title the email subject line “Job Matching Challenge Phase IV Pilot Materials”</li>
@@ -273,18 +276,19 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 </ul>
 <p><strong>Description: </strong>The Phase III awardees (up to 3 Solvers) will be invited to participate in small-scale pilot to test their product with Service members participating in TAP sessions during the weeks of June 15 and June 22 (exact dates TBD). Solvers will have 30 minutes in these sessions to present their tool, demo, and provide the opportunity for Service members to test the tool / observe their reactions and use. Following these demos and delivery, Solvers will have one week to update their final product before submission. Solvers selected to participate in this phase must participate in the user testing in order to be evaluated and advance to the next phase. Solvers must cover their own expenses to the user testing event.</p>
 <p><strong>Prize: </strong>1 Finalist will advance to the next phase and receive a prize of $300,000. </p>
-<p>Notification date of advancement of selected Finalist to Phase V: July 10, 2020 by 5:00 PM EST</p>
+<p><strong>Notification date of advancement of selected Finalist to Phase V:</strong> July 10, 2020 by 5:00 PM EST</p>
+<hr>
 <h4>Phase V: Implementation Pilot </h4>
 <p><strong>Open Date: </strong>July 13, 2020</p>
 <p><strong>Duration: </strong>8 Weeks</p>
 <p><strong>Close Date: </strong>September 4, 2020 – Deadline to submit at 5:00 PM EST</p>
 <p><strong>Submit: </strong>Beta Product Version, 15 minute TAP module</p>
 <ul>
- <li>Submission details to <a href="mailto:VETS.Challenge2020@dol.gov" target="_blank">VETS.Challenge2020@dol.gov</a>:</li> 
+ <li>Submission details to <a href="mailto:VETS.Challenge2020@dol.gov" target="_blank" rel="noopener">VETS.Challenge2020@dol.gov</a>:</li> 
 <ul>
  <li>The sender should be the same Official Representative who submitted the entry for the Solver team in Phases I-IV.</li>
-<li>Title the email subject line “Job Matching Challenge Phase V Final Materials”<li>
-<li>The product must be fully functional for job seekers and employers, with incorporated improvements from additional piloting.<li>
+<li>Title the email subject line “Job Matching Challenge Phase V Final Materials”</li>
+<li>The product must be fully functional for job seekers and employers, with incorporated improvements from additional piloting.</li>
  </ul>
  </ul>
 <p><strong>Description: </strong>The selected Phase IV Finalist will be invited to participate in a series of implementation pilots to further test and refine their product with Service members participating in TAP sessions during the weeks of July 27 – August 21 (exact dates TBD), and this may include the test of a large-scale pilot employer (e.g., Federal government agency). The Finalist will have 30 minutes in these sessions to present their tool, demo, and provide the opportunity for Service members to test the tool / observe their reactions and use. Following these demos and delivery, the Finalist will have two weeks to update their final product before submission. The overall goal of this final round is for the Finalist to develop a tool that transitioning Service members will use.  In order to claim the $300,000 grand prize the tool must receive an overall approval rating score of 80% or greater (calculated from the evaluation criteria). The raters for this round will be Service members, instructors, and employers participating in the training sessions. The selected Finalist must cover the Finalist’s own expenses to the user testing event and participate in the user testing event in order to be eligible for the grand prize.</p>
