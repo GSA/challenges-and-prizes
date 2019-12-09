@@ -97,6 +97,8 @@ challenge-manager-email: (will display in the Point of Contact field)
 <li>Peter Loskill, PhD,&nbsp;Fraunhofer Institute for Interfacial Engineering and&nbsp;Biotechnology</li>
 </ul>
 <p>The culture system proposed allows for 3-D co-culture of retinal organoids, retinal pigment epithelium (RPE) and further cell types in a defined and reproducible microenvironment, featuring a physiological vasculature-like perfusion for multiple weeks. Their 3-D Retina-on-a-chip system features 48 individual units in an integrated chip with standard well plate-dimensions that will be amenable for high content drug&nbsp;screening.</p>
+<h2>Abstracts</h2>
+<p>View the <a href="{{ site.baseurl }}/assets/document-library/3DROC-Abstracts.pdf" target="_blank" rel="noopener">abstracts</a> for all 13 submissions.</p>
 
 <!-- Rules start -->
 ### Rules 
