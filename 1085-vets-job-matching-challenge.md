@@ -5,7 +5,7 @@ challenge-id: 1085
 status: open
 sidenav: true
 card-image: /assets/images/cards/challenge-gov.png
-agency-logo:
+agency-logo: DOL-MasterLogo_Color300.png
 challenge-title: TBD - Vets Job Matching Challenge - TBD
 tagline: Build a better application to match the skills of those who have served in the military with employer needs.
 agency: Department of Labor
@@ -33,11 +33,11 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 <p>The goal of this challenge is to develop a job-matching tool that will be piloted in a <a href="https://www.dol.gov/agencies/vets/programs/tap" target="_blank">Transition Assistance Program (TAP)</a> Employment Workshop at selected base locations. If the tool is effective, it could be added to the Employment Workshop curriculum for all transitioning service members.</p>
 <p>In 2018, the Department of Labor (DOL), the Department of Defense (DOD), and the Department of Veterans’ Affairs (VA) began a cross-agency effort to understand the transition of a Service member from active duty to civilian employment, from the perspective of the individual navigating this process—not the perspective of the Federal organizations that exist to support a plethora of programs. The agencies built a journeymap of this process and found a recurring theme: navigating the “sea of support” and resources relating to the job search can be a challenging task.</p>
 <p>Veterans complete their military service with unique and technical skillsets that bring value to all sectors of the economy, but can encounter challenges framing their experience and skills for civilian employers. American businesses report that they are also missing an opportunity to attract and retain a capable, competent workforce, and recognize the value in veterans and spouses.</p>
-<p>Many job boards, veteran hiring programs, and other initiatives exist, but there are disparate platforms of valuable data. Traversing across these resources can be overwhelming for both first-time job-seeking veterans and businesses with limited time to fill urgent needs. Additionally, most job search tools for Service members are based purely on military occupational specialties, which do not accurately represent the breadth of experiences many individuals have. Finally, small businesses in particular do not have the staff capacity to build out robust skills profiles that better describe hiring needs. </p>
-<p>There is a need for both a more sophisticated matching mechanism and a simpler interface that can pull from existing data sources (from Federal platforms like O*NET, MilGEARs, and the National Labor Exchange, to LinkedIn profiles, resumes, or job descriptions that individuals and businesses have created).
+<p>Many job boards, veteran hiring programs, and other initiatives exist, but there are disparate platforms of valuable data. Traversing across these resources can be overwhelming for both first-time job-seeking veterans and businesses with limited time to fill urgent needs. Additionally, most job search tools for Service members are based purely on military occupational specialties, which do not accurately represent the breadth of experiences many individuals have. Finally, small businesses in particular do not have the staff capacity to build out robust skills profiles that better describe hiring needs.</p>
+<p>There is a need for both a more sophisticated matching mechanism and a simpler interface that can pull from existing data sources (from Federal platforms like O*NET, MilGEARs, and the National Labor Exchange, to LinkedIn profiles, resumes, or job descriptions that individuals and businesses have created).</p>
+<p>The Government wants to be mindful of not prescribing what the platform should look like or how it will work, but wanted to note some of what job-seekers and Federal employees have shared throughout the research process of designing this competition. In particular, the agencies heard a need for:</p>
 <ul>
-<li>The Government wants to be mindful of not prescribing what the platform should look like or how it will work, but wanted to note some of what job-seekers and Federal employees have shared throughout the research process of designing this competition. In particular, the agencies heard a need for:</li>
-<li>A matching-oriented application for the job-searching process. A platform that could determine likeness of fit, reveal matches, and allow both the employers and job-seekers to opt-in and share more information with each other and potentially interact more (connecting with Veterans at the company, chatting, etc.).</li>
+ <li>A matching-oriented application for the job-searching process. A platform that could determine likeness of fit, reveal matches, and allow both the employers and job-seekers to opt-in and share more information with each other and potentially interact more (connecting with Veterans at the company, chatting, etc.).</li>
 <li>A platform that has functions like a “ZocDoc” for job searching. Employers can self-input information (like doctors input their location, office hours, and information about their practice), external reviews from users are included, and users can actually take an action (book an appointment) in one place.</li>
 <li>A one-stop-shop verification system of employers. Employers on the platform could be matched automatically with databases that note if they are Federal contractors, have earned a HIRE Vets Medallion, or display information to help form a profile indicating whether the employer is who it claims to be (e.g., Google/Glassdoor/Yelp/Better Business Bureau/etc.).</li>
 </ul>
@@ -193,11 +193,11 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<h4>Phase I: Proposal</h4>
-<p>Open Date: >December 11, 2019</p>
-<p>Duration: 6 weeks</p>
-<p>Close Date: January 24, 2020 – Deadline to submit at 5:00 PM EST</p>
-<p>Submit: Concept paper</p>
+<h4><strong>Phase I: </strong>Proposal</h4>
+<p><strong>Open Date: </strong>December 11, 2019</p>
+<p><strong>Duration: </strong>6 weeks</p>
+<p><strong>Close Date: </strong>January 24, 2020 – Deadline to submit at 5:00 PM EST</p>
+<p><strong>Submit: </strong>Concept paper</p>
 <ul>
 <li>Entries must consist of PDF files with font size no smaller than 11-point Arial.</li> 
 <li>All submissions must be in English.</li> 
@@ -238,7 +238,7 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 <p><strong>Description: </strong>The applicants selected from Phase I (up to 10 Solvers) will be invited to participate in “rapid testing” session with actual users (employers, Service members, and Veterans) the week of February 21. Solvers will have an opportunity to present their wireframe to receive feedback from these three user groups, in order to update a final wireframe submission at the end of this phase. Solvers will also be provided with sample data sets. Solvers selected to participate in this phase must participate in the rapid testing in order to be evaluated and advance to the next phase.</p>
 <p>Prize: Up to 5 awardees will advance to the next phase and receive $20,000 each.</p>
 <p>Notification date of advancement of Semi-Finalists to Phase III: March 6, 2020 by 5:00 PM EST</p>
-<h3><strong>Phase III: </strong>MVP (Semi-Finals)</h3>
+<h4><strong>Phase III: </strong>MVP (Semi-Finals)</h4>
 <p><strong>Open Date: </strong>March 9, 2020</p>
 <p><strong>Duration: </strong>8 Weeks</p>
 <p><strong>Close Date: </strong>May 1, 2020 – Deadline to submit at 5:00 PM EST</p>
@@ -252,7 +252,7 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 <li>The Solver should also include a 1 page overview of the business/pricing model of the product.</li>
  </ul>
  <p><strong>Description: </strong>The Phase II awardees (up to 5 Solvers) will be invited to participate to test their MVPs with actual users (employers, Service members, and Veterans) in a virtual user testing session the week of March 2 (exact dates TBD). Solvers should bring to this event a clickable MVP to receive feedback from these three user groups, in order to update a final MVP submission at the end of this phase. Solvers selected to participate in this phase must participate in the user testing in order to be evaluated and advance to the next phase.</p>
-<p><strong>Prize: <strong>Up to 3 awardees will advance to the next phase and receive $100,000 each. </p>
+<p><strong>Prize: </strong>Up to 3 awardees will advance to the next phase and receive $100,000 each. </p>
  <p>Notification date of advancement of Finalists to Phase IV: May 8, 2020 by 5:00 PM EST</p>
  <h4><strong>Phase IV: </strong>Field Testing (Finals)</h4>
  <p><strong>Open Date: </strong>May 11, 2020</p>
