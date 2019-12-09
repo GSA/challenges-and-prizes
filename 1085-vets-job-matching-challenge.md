@@ -6,7 +6,7 @@ status: open
 sidenav: true
 card-image: /assets/images/cards/Vets-Employment-Challenge-logo-340x160v1.jpg
 agency-logo: DOL-MasterLogo_Color300.png
-challenge-title: PREVIEW - Veterans Employment Match Challeng - PREVIEW
+challenge-title: PREVIEW - Veterans Employment Match Challenge - PREVIEW
 tagline: Build a better application to match the skills of those who have served in the military with employer needs.
 agency: Department of Labor
 partner-agencies-federal: Department of Defense, Department of Veterans Affairs
@@ -87,11 +87,11 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 <h4>Eligibility to Participate</h4>
 <p>To be eligible to participate:</p>
 <ul>
-<li>Each Competition Solver (individual, team, or legal entity) is required to register through email participation in submitting the concept paper for Phase I as described in these competition rules. 
+<li>Each Competition Solver (individual, team, or legal entity) is required to register through email participation in submitting the concept paper for Phase I as described in these competition rules.</li> 
 <li>There shall be one Official Representative for each Competition Entry. The Official Representative must provide a name and email address and, by sending the first submission in Phase I, affirms on behalf of the Solver individual, team, or legal entity, that he or she has read and consents to be governed by the Competition Rules.</li> 
-<li>As determined by DOL, any violation of these rules will be grounds for disqualification from the Competition. 
+<li>As determined by DOL, any violation of these rules will be grounds for disqualification from the Competition. </li>
 <li>Multiple individuals and/or legal entities may collaborate as a Solver team to submit a single entry, in which case the designated Official Representative will be responsible for meeting all entry and evaluation requirements.</li> 
-<li>Participation is subject to all U.S. Federal, state, local, and country of residence laws and regulations.
+<li>Participation is subject to all U.S. Federal, state, local, and country of residence laws and regulations.</li>
 <li>Solvers must not be suspended, debarred, or otherwise excluded from doing business with the Federal Government. An individual or entity that is determined to be on the GSA Excluded Parties List (www.sam.gov) is ineligible to participate. Individuals entering on behalf of or representing a company, institution, or other legal entity are responsible for confirming that their entry does not violate any policies of that company, institution, or legal entity.</li>  
 <li>As a condition of participation, all Solvers must agree to indemnify the Federal Government against third-party claims for damages arising from or related to competition activities. Entrants are not required to obtain liability insurance or demonstrate financial responsibility in order to participate in the competition. By entering the contest, Solvers agree to hold DOL harmless from all legal and administrative claims to include associated expenses that may arise from any claims related to their entry or its use.</li>
 <li>Federal grantees may not use Federal funds to develop competition solutions unless consistent with the purpose of their grant award.</li> 
@@ -219,8 +219,7 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 <li>Wireframe: The wireframe may be included as either an attachment or included as a link in the body of the email Submission to a clickable website. A one-page document description of the wireframe may be included with the Submission.</li></ul>
  </ul>
  </ul>
-<p>Description: The concept paper phase invites all eligible entities to submit a concept white paper outlining their technology, the potential impact for job seekers and employers, the innovative idea / concept behind how their platform could work and leverage existing efforts, and how this is informed by user needs they have identified.  Each concept and wireframe will be reviewed by a tri-agency panel.  Only the first two pages (inclusive of any visual representations or graphics) of the concept description document will be reviewed along with the wireframe submission and its one page description, if any. During the Phase I review process, the concept paper and wireframe will be redacted for both applicant and any specific organizational partner names referenced (versus broader categories of organizational partners) and reviewed by Federal evaluators screened to avoid conflicts of interest. Department of Labor DOL) will provide additional criteria throughout the various phases to further define requirement expectations.</p>
-</ul>
+<p><strong>Description: </strong>The concept paper phase invites all eligible entities to submit a concept white paper outlining their technology, the potential impact for job seekers and employers, the innovative idea / concept behind how their platform could work and leverage existing efforts, and how this is informed by user needs they have identified.  Each concept and wireframe will be reviewed by a tri-agency panel.  Only the first two pages (inclusive of any visual representations or graphics) of the concept description document will be reviewed along with the wireframe submission and its one page description, if any. During the Phase I review process, the concept paper and wireframe will be redacted for both applicant and any specific organizational partner names referenced (versus broader categories of organizational partners) and reviewed by Federal evaluators screened to avoid conflicts of interest. Department of Labor DOL) will provide additional criteria throughout the various phases to further define requirement expectations.</p>
 <p>Up to 10 applicants with the highest ranking white papers will advance to Phase II.</p>
 <p>Notification date of advancement of Semi-Finalists to Phase II: January 31, 2020 by 5:00 PM EST</p>
 <h4>Phase II: Wireframe: User-Centered Testing/Concept Optimization</h4>
@@ -255,6 +254,7 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 <li>The MVP can be accompanied by a document (no more than 5 pages if so, or could be built into the MVP) summarizing how user feedback in the rapid testing sessions was incorporated into the overall design.</li>
 <li>The Solver should also include a 1 page overview of the business/pricing model of the product.</li>
  </ul>
+ </ul>
  <p><strong>Description: </strong>The Phase II awardees (up to 5 Solvers) will be invited to participate to test their MVPs with actual users (employers, Service members, and Veterans) in a virtual user testing session the week of March 2 (exact dates TBD). Solvers should bring to this event a clickable MVP to receive feedback from these three user groups, in order to update a final MVP submission at the end of this phase. Solvers selected to participate in this phase must participate in the user testing in order to be evaluated and advance to the next phase.</p>
 <p><strong>Prize: </strong>Up to 3 awardees will advance to the next phase and receive $100,000 each. </p>
  <p>Notification date of advancement of Finalists to Phase IV: May 8, 2020 by 5:00 PM EST</p>
@@ -275,16 +275,18 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 <p><strong>Prize: </strong>1 Finalist will advance to the next phase and receive a prize of $300,000. </p>
 <p>Notification date of advancement of selected Finalist to Phase V: July 10, 2020 by 5:00 PM EST</p>
 <h4>Phase V: Implementation Pilot </h4>
-<p><strong>Open Date: July 13, 2020</strong></p>
-<p><strong>Duration: 8 Weeks</strong></p>
-<p><strong>Close Date: September 4, 2020 – Deadline to submit at 5:00 PM EST</strong></p>
-<p><strong>Submit: Beta Product Version, 15 minute TAP module</strong></p>
+<p><strong>Open Date: </strong>July 13, 2020</p>
+<p><strong>Duration: </strong>8 Weeks</p>
+<p><strong>Close Date: </strong>September 4, 2020 – Deadline to submit at 5:00 PM EST</p>
+<p><strong>Submit: </strong>Beta Product Version, 15 minute TAP module</p>
 <ul>
  <li>Submission details to <a href="mailto:VETS.Challenge2020@dol.gov" target="_blank">VETS.Challenge2020@dol.gov</a>:</li> 
 <ul>
  <li>The sender should be the same Official Representative who submitted the entry for the Solver team in Phases I-IV.</li>
 <li>Title the email subject line “Job Matching Challenge Phase V Final Materials”<li>
 <li>The product must be fully functional for job seekers and employers, with incorporated improvements from additional piloting.<li>
+ </ul>
+ </ul>
 <p><strong>Description: </strong>The selected Phase IV Finalist will be invited to participate in a series of implementation pilots to further test and refine their product with Service members participating in TAP sessions during the weeks of July 27 – August 21 (exact dates TBD), and this may include the test of a large-scale pilot employer (e.g., Federal government agency). The Finalist will have 30 minutes in these sessions to present their tool, demo, and provide the opportunity for Service members to test the tool / observe their reactions and use. Following these demos and delivery, the Finalist will have two weeks to update their final product before submission. The overall goal of this final round is for the Finalist to develop a tool that transitioning Service members will use.  In order to claim the $300,000 grand prize the tool must receive an overall approval rating score of 80% or greater (calculated from the evaluation criteria). The raters for this round will be Service members, instructors, and employers participating in the training sessions. The selected Finalist must cover the Finalist’s own expenses to the user testing event and participate in the user testing event in order to be eligible for the grand prize.</p>
- <p>Prize: Grand Prize winner will receive a prize of $300,000.</p> 
- <p>Notification date of Grand Prize Winner: September 18, 2020 by 5:00 PM EST</p>
+ <p><strong>Prize: </strong>Grand Prize winner will receive a prize of $300,000.</p> 
+ <p><strong>Notification date of Grand Prize Winner: </strong>September 18, 2020 by 5:00 PM EST</p>
