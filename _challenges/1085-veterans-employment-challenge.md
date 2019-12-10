@@ -4,7 +4,7 @@ permalink: /challenge/veterans-employment-challenge/
 challenge-id: 1085
 status: open
 sidenav: true
-card-image: /assets/images/cards/Vets-Employment-Challenge-logo4-Montage-340x160.jpg
+card-image: /assets/images/cards/Vets-Employment-Challenge-logoV5-Montage-Bold-340x160.jpg
 agency-logo: DOL-MasterLogo_Color300.png
 challenge-title: Veterans Employment Challenge
 tagline: Build a better application to match the skills of those who have served in the military with employer needs.
