@@ -40,7 +40,7 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 <ul>
  <li>A matching-oriented application for the job-searching process. A platform that could determine likeness of fit, reveal matches, and allow both the employers and job-seekers to opt-in and share more information with each other and potentially interact more (connecting with Veterans at the company, chatting, etc.).</li>
 <li>A platform that has functions like a “ZocDoc” for job searching. Employers can self-input information (like doctors input their location, office hours, and information about their practice), external reviews from users are included, and users can actually take an action (book an appointment) in one place.</li>
-<li>A one-stop-shop verification system of employers. Employers on the platform could be matched automatically with databases that note if they are Federal contractors, have earned a HIRE Vets Medallion, or display information to help form a profile indicating whether the employer is who it claims to be (e.g., Google/Glassdoor/Yelp/Better Business Bureau/etc.).</li>
+<li>A one-stop-shop verification system of employers. Employers on the platform could be matched automatically with databases that note if they are Federal contractors, have earned a <a href="https://www.hirevets.gov" target="_blank" rel="noopener">HIRE Vets Medallion</a>, or display information to help form a profile indicating whether the employer is who it claims to be (e.g., Google/Glassdoor/Yelp/Better Business Bureau/etc.).</li>
 </ul>
 <p>This competition is divided into phases that will enable Solvers to further engage users in their design process and gather feedback on working prototypes. The most important requirement of this competition is that the platform solves challenges faced by the actual users, understanding what’s most useful and helpful to them, rather than being tool-led.</p>
 <p>Here is some of what we heard about the gap that exists:</p>
@@ -149,50 +149,51 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 <h4>Advancement to Phase II</h4>
 <p>Evaluation Criteria:</p>
 <ul>
-<li>Game changer - Potential to revolutionize the job search process for transitioning service members/Veterans – 35%. Key evaluation factors shall include: superior matching capability which improves upon prior efforts; ease of use; and security and verification capabilities which improve upon prior efforts</li>
-<li>Technical feasibility and integration of other efforts, data, and platforms – 30%. Key evaluation factors shall include the extent to which the proposal captures short and long-term feasibility and sustainability.</li>
-<li>Approach meets the needs of Service members – 20%</li>
-<li>Design quality – 15%</li>
+ <li><strong>Novelty (30%). </strong>Potential to revolutionize the job search process for transitioning service members/Veterans.</li>
+ <li><strong>Needs Met / Potential for Impact (30%). </strong>Key evaluation factors shall include: superior matching capability which improves upon prior efforts, ease of use, and security and verification capabilities which improve upon prior efforts.
+ <li><strong>Technical Feasibility (30%). </strong>Integration of other efforts, data, and platforms. Key evaluation factors shall include the extent to which the proposal captures short- and long-term feasibility and sustainability.</li>
+ <li><strong>Design quality – 10%</strong></li>
 </ul>
 <h4>Advancement to Phase III</h4>
 <p>Evaluation Criteria:</p>
 <ul>
-<li>Innovation – “Is this new?” Potential for impact, revolutionizing the job search process – 25%. Key evaluation factors shall include: superior matching capability which improves upon prior efforts, ease of use; and security and verification capabilities which improve upon prior efforts</li>
-<li>Technical feasibility and integration of other efforts, data, and platforms – 25%. Key evaluation factors shall include the extent to which the proposal captures short and long-term feasibility and sustainability.</li>
-<li>Usability - Recognition of user needs – 25%</strong>, may incorporate actual poll of testers</li>
-<li>Look and Feel - Completeness, clarity of workflows, and quality – 25%</li>
+ <li><strong> Impact / Needs Met (25%). </strong>Key evaluation factors shall include: superior matching capability which improves upon prior efforts, ease of use, and security and verification capabilities which improve upon prior efforts.</li>
+ <li><strong>Technical Feasibility / Viability (25%). </strong> Integration of other efforts, data, and platforms. Key evaluation factors shall include the extent to which the proposal captures short- and long-term feasibility and sustainability.</li>
+ <li><strong>Usability (25%). </strong> Recognition of user needs; may incorporate actual poll of testers</li>
+ <li><strong>Design Quality. (25%) </strong> Completeness, clarity of workflows, and quality</li>
 </ul>
 <h4>Advancement to Phase IV</h4>
 <p>Evaluation Criteria:</p>
 <ul>
- <li>Functionality – 40%. Key evaluation factors shall include a review of networking capabilities among user communities.</li>
-<li>Analytical Depth/Integration - 25%. Key evaluation factors shall include: data integration and matching approaches, and platform used</li>
- <li>Usability - user experience – 20%, may incorporate actual poll of testers</li>
- <li>Deployment Approach and Sustainability – 15%</li>
+ <li><strong>Functionality (40%). </strong>Key evaluation factors shall include a review of networking capabilities among user communities.</li>
+ <li><strong>Analytical Depth/Integration (25%). </strong>Key evaluation factors shall include: security and verification, data integration and matching approaches, and platform used.</li>
+ <li><strong>Usability / User Experience (20%). </strong>May incorporate actual poll of testers</li>
+ <li><strong>Deployment Approach and Sustainability (15%).</strong></li>
  </ul>
  <h4>Advancement to Phase V</h4>
  <p>Evaluation Criteria:</p>
 <ul>
  <li>Judges will evaluate these criteria worth 50% of the score:</li>
 <ul>
- <li>Functionality (20%). Key evaluation factors shall include a review of networking capabilities among user communities.</li>
- <li>Quality of the demonstration/training (30%). Key evaluation factors shall include: data integration and matching approaches, and platform used.</li>
+ <li><strong>Functionality (20%). </strong>Key evaluation factors shall include a review of networking capabilities among user communities.</li>
+ <li><strong>Quality of the Demonstration / Training (30%). </strong>Key evaluation factors shall include: data integration and matching approaches, and platform used.</li>
  </ul>
  <li>Users will evaluate these criteria worth 50% of the overall score:</li>
 <ul>
- <li>User experience - ease of use, look and feel (25%)</li>
- <li>Task Success (15%) (users are given instructions to complete a task - metrics are collected to measure successful completion rate)</li> 
- <li>Net Promoter Score - scale of 1-10 (10%) (how likely would you recommend this tool to a friend?)</li>
+ <li><strong>User Experience (25%). </strong> Ease of use, look and feel</li>
+ <li><strong>Net Promoter Score (10%). </strong> Scale of 1-10 (How likely would you be to recommend this tool to a friend?)</li>
+ <li><strong>Task Success (15%). </strong> Users are given instructions to complete a task - metrics are collected to measure successful completion rate.</li> 
  </ul>
  </ul>
  <h4>Successful Completion of the Challenge</h4>
  <p>Evaluation Criteria:</p>
 <ul>
- <li>User experience - ease of use, look and feel (40%)</li>
-<li>Task Success (35%) (users are given instructions to complete a task - metrics are collected to measure successful completion rate)</li> 
-<li>Net Promoter Score - scale of 1-10 (25%) (how likely would you recommend this tool to a friend?)</li>
+ <li><strong>User Experience (35%). </strong> Ease of use, look and feel</li>
+ <li><strong>Net Promoter Score (20%). </strong> Scale of 1-10 (How likely would you be to recommend this tool to a friend?)</li>
+ <li><strong>Task Success (35%). </strong> Users are given instructions to complete a task - metrics are collected to measure successful completion rate.</li> 
+ <li><strong>Data Integration (10%). </strong></li>
  </ul>
- <p>Written feedback may be provided to all participants at the end of each phase.  The purpose of providing this feedback is to provide insight on the Government’s application of the scoring criteria or identified needs from users.  However, the Government will not respond to questions or inquiries regarding this feedback.</p>
+ <p>Written feedback may be provided to all participants at the end of each phase. The purpose of providing this feedback is to provide insight on the Government’s application of the scoring criteria or identified needs from users. However, the Government will not respond to questions or inquiries regarding this feedback.</p>
  
 <!--  How To Enter start -->
 ### How To Enter
@@ -209,8 +210,8 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 <li>Solvers must not use DOL, VA, DOD, or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement.</li>
 <li>Submission details to <a href="mailto:VETS.Challenge2020@dol.gov" target="_blank">VETS.Challenge2020@dol.gov</a>:</li> 
 <ul>
-<li>Title the email subject line “Job Matching Challenge Phase I Proposal”</li>
-<li>Email sender (person and email address) must be Official Representative/person of contact for the team</li>
+<li>Title the email subject line “Job Matching Challenge Phase I Proposal”.</li>
+<li>Email sender (person and email address) must be Official Representative/person of contact for the team.</li>
 <li>Following documents should be attached:</li>
 <ul>
 <li>Proposal cover sheet as PDF</li>
@@ -219,14 +220,14 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 <li>Name of organization(s) and all team member(s) submitting entry</li>
 </ul>
 <li>Two-page MAX Concept description document as PDF</li>    
-<li>Wireframe: The wireframe may be included as either an attachment or included as a link in the body of the email Submission to a clickable website. A one-page document description of the wireframe may be included with the Submission.</li></ul>
+<li>Wireframe sketch: The wireframe sketch should be included as either an attachment or included as a link in the body of the email Submission to a clickable website. A one-page document description of the wireframe sketch should be included with the Submission.</li></ul>
  </ul>
  </ul>
-<p><strong>Description: </strong>The concept paper phase invites all eligible entities to submit a concept white paper outlining their technology, the potential impact for job seekers and employers, the innovative idea / concept behind how their platform could work and leverage existing efforts, and how this is informed by user needs they have identified.  Each concept and wireframe will be reviewed by a tri-agency panel.  Only the first two pages (inclusive of any visual representations or graphics) of the concept description document will be reviewed along with the wireframe submission and its one page description, if any. During the Phase I review process, the concept paper and wireframe will be redacted for both applicant and any specific organizational partner names referenced (versus broader categories of organizational partners) and reviewed by Federal evaluators screened to avoid conflicts of interest. Department of Labor DOL) will provide additional criteria throughout the various phases to further define requirement expectations.</p>
+<p><strong>Description: </strong>The concept paper phase invites all eligible entities to submit a concept white paper outlining their technology, the potential impact for job seekers and employers, the innovative idea / concept behind how their platform could work and leverage existing efforts, and how this is informed by user needs they have identified. Each concept and wireframe will be reviewed by a tri-agency panel. Only the first two pages (inclusive of any visual representations or graphics) of the concept description document will be reviewed along with the wireframe sketch submission and its one page description, if any. During the Phase I review process, the concept paper and wireframe sketch will be redacted for both applicant and any specific organizational partner names referenced (versus broader categories of organizational partners) and reviewed by Federal evaluators screened to avoid conflicts of interest. Department of Labor DOL) will provide additional criteria throughout the various phases to further define requirement expectations.</p>
 <p>Up to 10 applicants with the highest ranking white papers will advance to Phase II.</p>
 <p>Notification date of advancement of Semi-Finalists to Phase II: January 31, 2020 by 5:00 PM EST</p>
 <hr>
-<h4>Phase II: Wireframe: User-Centered Testing/Concept Optimization</h4>
+<h4>Phase II: Enhanced Wireframe: User-Centered Testing/Concept Optimization</h4>
 <p><strong>Open Date: </strong>February 3, 2020</p>
 <p><strong>Duration: </strong>4 Weeks</p>
 <p><strong>Close Date: </strong>February 28, 2020 – Deadline to submit at 5:00 PM EST</p>
@@ -236,9 +237,9 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 <li>Solvers must not use DOL, VA, DOD, or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement.</li>
  <li>Submission details to <a href="mailto:VETS.Challenge2020@dol.gov" target="_blank" rel="noopener">VETS.Challenge2020@dol.gov</a>: </li>
 <ul>
- <li>The sender must be the same Official Representative who submitted the entry for the Solver team in Phase I</li>
-<li>Title the email subject line “Job Matching Challenge Phase II Wireframe”</li> 
-<li>The wireframe may be included as either an attachment or a link in the body of an email to a clickable website.</li>
+ <li>The sender must be the same Official Representative who submitted the entry for the Solver team in Phase I.</li>
+<li>Title the email subject line “Job Matching Challenge Phase II Wireframe”.</li> 
+<li>The wireframe must be included as either an attachment or a link in the body of an email to a clickable website.</li>
 <li>The wireframe can be accompanied by a document (no more than 5 pages if a document, or could be built into the wireframe) summarizing how user feedback in the rapid testing sessions was incorporated into the overall design.</li>
  </ul>
  </ul>
@@ -257,7 +258,7 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
  <li>The sender should be the same Official Representative who submitted the entry for the Solver team in Phases I and II.</li>
  <li>The MVP must be a workable link.</li>
 <li>The MVP can be accompanied by a document (no more than 5 pages if so, or could be built into the MVP) summarizing how user feedback in the rapid testing sessions was incorporated into the overall design.</li>
-<li>The Solver should also include a 1 page overview of the business/pricing model of the product.</li>
+<li>The Solver should also include a one-page overview of the business/pricing model of the product.</li>
  </ul>
  </ul>
  <p><strong>Description: </strong>The Phase II awardees (up to 5 Solvers) will be invited to participate to test their MVPs with actual users (employers, Service members, and Veterans) in a virtual user testing session the week of March 2 (exact dates TBD). Solvers should bring to this event a clickable MVP to receive feedback from these three user groups, in order to update a final MVP submission at the end of this phase. Solvers selected to participate in this phase must participate in the user testing in order to be evaluated and advance to the next phase.</p>
@@ -268,12 +269,12 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
  <p><strong>Open Date: </strong>May 11, 2020</p>
  <p><strong>Duration: </strong>8 Weeks</p>
  <p><strong>Close Date: </strong>July 3, 2020 – Deadline to submit at 5:00 PM EST</p>
- <p><strong>Submit: </strong>Alpha Product Version, 30 minute TAP module</p>
+ <p><strong>Submit: </strong>Alpha Product Version, 30-minute TAP module</p>
 <ul>
  <li>Submission details to <a href="mailto:VETS.Challenge2020@dol.gov" target="_blank" rel="noopener">VETS.Challenge2020@dol.gov</a>:</li>
  <ul>
   <li>The sender should be the same Official Representative that submitted the entry for the Solver team in Phases I-III.</li>
-  <li>Title the email subject line “Job Matching Challenge Phase IV Pilot Materials”</li>
+  <li>Title the email subject line “Job Matching Challenge Phase IV Pilot Materials”.</li>
   <li>The product should be fully functional for job seekers and employers.</li>
  </ul>
 </ul>
@@ -290,10 +291,10 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
  <li>Submission details to <a href="mailto:VETS.Challenge2020@dol.gov" target="_blank" rel="noopener">VETS.Challenge2020@dol.gov</a>:</li> 
 <ul>
  <li>The sender should be the same Official Representative who submitted the entry for the Solver team in Phases I-IV.</li>
-<li>Title the email subject line “Job Matching Challenge Phase V Final Materials”</li>
+<li>Title the email subject line “Job Matching Challenge Phase V Final Materials”.</li>
 <li>The product must be fully functional for job seekers and employers, with incorporated improvements from additional piloting.</li>
  </ul>
  </ul>
-<p><strong>Description: </strong>The selected Phase IV Finalist will be invited to participate in a series of implementation pilots to further test and refine their product with Service members participating in TAP sessions during the weeks of July 27 – August 21 (exact dates TBD), and this may include the test of a large-scale pilot employer (e.g., Federal government agency). The Finalist will have 30 minutes in these sessions to present their tool, demo, and provide the opportunity for Service members to test the tool / observe their reactions and use. Following these demos and delivery, the Finalist will have two weeks to update their final product before submission. The overall goal of this final round is for the Finalist to develop a tool that transitioning Service members will use.  In order to claim the $300,000 grand prize the tool must receive an overall approval rating score of 80% or greater (calculated from the evaluation criteria). The raters for this round will be Service members, instructors, and employers participating in the training sessions. The selected Finalist must cover the Finalist’s own expenses to the user testing event and participate in the user testing event in order to be eligible for the grand prize.</p>
- <p><strong>Prize: </strong>Grand Prize winner will receive a prize of $300,000.</p> 
+<p><strong>Description: </strong>The selected Phase IV Finalist will be invited to participate in a series of implementation pilots to further test and refine their product with Service members participating in TAP sessions during the weeks of July 27 – August 21 (exact dates TBD), and this may include the test of a large-scale pilot employer (e.g., Federal government agency). The Finalist will have 30 minutes in these sessions to present their tool, demo, and provide the opportunity for Service members to test the tool / observe their reactions and use. Following these demos and delivery, the Finalist will have two weeks to update their final product before submission. The overall goal of this final round is for the Finalist to develop a tool that transitioning Service members will use. In order to claim the $300,000 grand prize the tool must receive an overall approval rating score of 80% or greater (calculated from the evaluation criteria). The raters for this round will be Service members, instructors, and employers participating in the training sessions. The selected Finalist must cover the Finalist’s own expenses to the user testing event and participate in the user testing event in order to be eligible for the grand prize.</p>
+ <p><strong>Prize: </strong>Grand Prize winner may receive a prize of $300,000.</p> 
  <p><strong>Notification date of Grand Prize Winner: </strong>September 18, 2020 by 5:00 PM EST</p>
