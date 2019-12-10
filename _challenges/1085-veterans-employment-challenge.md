@@ -13,7 +13,7 @@ partner-agencies-federal: Department of Defense, Department of Veterans Affairs
 partners-non-federal:
 external-url:
 total-prize-offered-cash: $1,000,000
-type-of-challenge: Scientific
+type-of-challenge: Software
 submission-start: 2019/12/11 10:30 AM
 submission-end: 2020/01/24 5:00 PM
 submission-link:
