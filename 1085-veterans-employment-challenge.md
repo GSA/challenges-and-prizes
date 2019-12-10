@@ -1,12 +1,12 @@
 ---
 layout: front-matter-data
-permalink: /challenge/vets-job-matching-challenge/
+permalink: /challenge/veterans-employment-challenge/
 challenge-id: 1085
 status: open
 sidenav: true
 card-image: /assets/images/cards/Vets-Employment-Challenge-logo-340x160v1.jpg
 agency-logo: DOL-MasterLogo_Color300.png
-challenge-title: PREVIEW - Veterans Employment Match Challenge - PREVIEW
+challenge-title: Veterans Employment Challenge
 tagline: Build a better application to match the skills of those who have served in the military with employer needs.
 agency: Department of Labor
 partner-agencies-federal: Department of Defense, Department of Veterans Affairs
@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $1,000,000
 type-of-challenge: Scientific
-submission-start: 2019/12/11 10:30 am
-submission-end: 2020/01/24 5:00 pm
+submission-start: 2019/12/11 10:30 AM
+submission-end: 2020/01/24 5:00 PM
 submission-link:
 prizes: true
 fiscal-year: FY20
