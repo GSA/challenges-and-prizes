@@ -1,4 +1,58 @@
 ---
+layout: front-matter-data
+permalink: /challenge/solving-for-safety-visualization-challenge/
+challenge-id: 960
+status: closed
+sidenav: true (false for challenges that are only external)
+card-image: /assets/images/cards/challenge-gov.png
+agency-logo: DOT_logo.jpg
+challenge-title: Solving for Safety Visualization Challenge
+tagline: Visualize transportation safety to reduce serious crashes
+agency: Department of Transportation
+partner-agencies-federal:
+partners-non-federal:
+external-url:
+total-prize-offered-cash: $380,000
+type-of-challenge: Analytics, visualizations, algorithms
+submission-start: 14/06/2018 10:00 AM
+submission-end: 31/07/2018 11:59 PM
+submission-link:
+prizes: true
+fiscal-year: FY18
+legal-authority: America Competes Act
+challenge-manager: Jordan Riddle, jordan.riddle.ctr@dot.gov
+challenge-manager-email: (will display in the Point of Contact field)
+---
+
+
+
+<!-- Description start -->
+### Description
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
+
+<!-- Prizes start -->
+### Prizes
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
+
+<!-- Rules start -->
+### Rules 
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
+
+<!-- Judging start -->
+### Judging Criteria
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
+
+<!--  How To Enter start -->
+### How To Enter
+{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
+
+
+---
 ideaSubmitFormInstruction: <h3></h3>  <h3><b>THE CHALLENGE IS OPEN!  </b></h3>  For
   more information, and to register your intent to compete as a Solver or to commit
   your support of the Challenge as an Innovation Agent, visit <a href="http://www.transportation.gov/solve4safety"
