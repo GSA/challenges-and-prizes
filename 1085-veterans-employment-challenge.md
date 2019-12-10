@@ -5,7 +5,7 @@ challenge-id: 1085
 status: open
 sidenav: true
 card-image: /assets/images/cards/Vets-Employment-Challenge-logo-340x160v2.jpg
-agency-logo: DOL-MasterLogo-Color300.png
+agency-logo: DOL-MasterLogo_Color300.png
 challenge-title: Veterans Employment Challenge
 tagline: Build a better application to match the skills of those who have served in the military with employer needs.
 agency: Department of Labor
