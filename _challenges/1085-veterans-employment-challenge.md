@@ -150,7 +150,7 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 <p>Evaluation Criteria:</p>
 <ul>
  <li><strong>Novelty (30%). </strong>Potential to revolutionize the job search process for transitioning service members/Veterans.</li>
- <li><strong>Needs Met / Potential for Impact (30%). </strong>Key evaluation factors shall include: superior matching capability which improves upon prior efforts, ease of use, and security and verification capabilities which improve upon prior efforts.
+ <li><strong>Needs Met / Potential for Impact (30%). </strong>Key evaluation factors shall include: superior matching capability which improves upon prior efforts, ease of use, and security and verification capabilities which improve upon prior efforts.</li>
  <li><strong>Technical Feasibility (30%). </strong>Integration of other efforts, data, and platforms. Key evaluation factors shall include the extent to which the proposal captures short- and long-term feasibility and sustainability.</li>
  <li><strong>Design quality – 10%</strong></li>
 </ul>
