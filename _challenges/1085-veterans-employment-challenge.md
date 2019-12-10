@@ -210,7 +210,7 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 <li>Solvers must not use DOL, VA, DOD, or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement.</li>
 <li>Submission details to <a href="mailto:VETS.Challenge2020@dol.gov" target="_blank">VETS.Challenge2020@dol.gov</a>:</li> 
 <ul>
-<li>Title the email subject line “Job Matching Challenge Phase I Proposal”.</li>
+<li>Title the email subject line “Veterans Employment Challenge Phase I Proposal”.</li>
 <li>Email sender (person and email address) must be Official Representative/person of contact for the team.</li>
 <li>Following documents should be attached:</li>
 <ul>
@@ -223,7 +223,7 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 <li>Wireframe sketch: The wireframe sketch should be included as either an attachment or included as a link in the body of the email Submission to a clickable website. A one-page document description of the wireframe sketch should be included with the Submission.</li></ul>
  </ul>
  </ul>
-<p><strong>Description: </strong>The concept paper phase invites all eligible entities to submit a concept white paper outlining their technology, the potential impact for job seekers and employers, the innovative idea / concept behind how their platform could work and leverage existing efforts, and how this is informed by user needs they have identified. Each concept and wireframe will be reviewed by a tri-agency panel. Only the first two pages (inclusive of any visual representations or graphics) of the concept description document will be reviewed along with the wireframe sketch submission and its one page description, if any. During the Phase I review process, the concept paper and wireframe sketch will be redacted for both applicant and any specific organizational partner names referenced (versus broader categories of organizational partners) and reviewed by Federal evaluators screened to avoid conflicts of interest. Department of Labor DOL) will provide additional criteria throughout the various phases to further define requirement expectations.</p>
+<p><strong>Description: </strong>The concept paper phase invites all eligible entities to submit a concept white paper outlining their technology, the potential impact for job seekers and employers, the innovative idea / concept behind how their platform could work and leverage existing efforts, and how this is informed by user needs they have identified. Each concept and wireframe will be reviewed by a tri-agency panel. Only the first two pages (inclusive of any visual representations or graphics) of the concept description document will be reviewed along with the wireframe sketch submission and its one page description, if any. During the Phase I review process, the concept paper and wireframe sketch will be redacted for both applicant and any specific organizational partner names referenced (versus broader categories of organizational partners) and reviewed by Federal evaluators screened to avoid conflicts of interest. Department of Labor (DOL) will provide additional criteria throughout the various phases to further define requirement expectations.</p>
 <p>Up to 10 applicants with the highest ranking white papers will advance to Phase II.</p>
 <p>Notification date of advancement of Semi-Finalists to Phase II: January 31, 2020 by 5:00 PM EST</p>
 <hr>
@@ -238,7 +238,7 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
  <li>Submission details to <a href="mailto:VETS.Challenge2020@dol.gov" target="_blank" rel="noopener">VETS.Challenge2020@dol.gov</a>: </li>
 <ul>
  <li>The sender must be the same Official Representative who submitted the entry for the Solver team in Phase I.</li>
-<li>Title the email subject line “Job Matching Challenge Phase II Wireframe”.</li> 
+<li>Title the email subject line “Veterans Employment Challenge Phase II Wireframe”.</li> 
 <li>The wireframe must be included as either an attachment or a link in the body of an email to a clickable website.</li>
 <li>The wireframe can be accompanied by a document (no more than 5 pages if a document, or could be built into the wireframe) summarizing how user feedback in the rapid testing sessions was incorporated into the overall design.</li>
  </ul>
@@ -274,7 +274,7 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
  <li>Submission details to <a href="mailto:VETS.Challenge2020@dol.gov" target="_blank" rel="noopener">VETS.Challenge2020@dol.gov</a>:</li>
  <ul>
   <li>The sender should be the same Official Representative that submitted the entry for the Solver team in Phases I-III.</li>
-  <li>Title the email subject line “Job Matching Challenge Phase IV Pilot Materials”.</li>
+  <li>Title the email subject line “Veterans Employment Challenge Phase IV Pilot Materials”.</li>
   <li>The product should be fully functional for job seekers and employers.</li>
  </ul>
 </ul>
@@ -291,7 +291,7 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
  <li>Submission details to <a href="mailto:VETS.Challenge2020@dol.gov" target="_blank" rel="noopener">VETS.Challenge2020@dol.gov</a>:</li> 
 <ul>
  <li>The sender should be the same Official Representative who submitted the entry for the Solver team in Phases I-IV.</li>
-<li>Title the email subject line “Job Matching Challenge Phase V Final Materials”.</li>
+<li>Title the email subject line “Veterans Employment Challenge Phase V Final Materials”.</li>
 <li>The product must be fully functional for job seekers and employers, with incorporated improvements from additional piloting.</li>
  </ul>
  </ul>
