@@ -3,7 +3,7 @@ layout: front-matter-data
 permalink: /challenge/nei-3-d-retina-organoid-challenge-3-d-roc/
 challenge-id: 895
 status: closed
-sidenav: true (false for challenges that are only external)
+sidenav: true
 card-image: /assets/images/cards/challenge-gov.png
 agency-logo: NIH-Generic.png
 challenge-title: NEI 3-D Retina Organoid Challenge (3-D ROC)
