@@ -4,15 +4,15 @@ permalink: /challenge/veterans-employment-challenge/
 challenge-id: 1085
 status: open
 sidenav: true
-card-image: /assets/images/cards/Vets-Employment-Challenge-logo-340x160v1.jpg
+card-image: /assets/images/cards/Vets-Employment-Challenge-logo-340x160v2.jpg
 agency-logo: DOL-MasterLogo_Color300.png
 challenge-title: Veterans Employment Challenge
-tagline: Build a better application to match the skills of those who have served in the military with employer needs
+tagline: Build a better application to match the skills of those who have served in the military with employer needs.
 agency: Department of Labor
 partner-agencies-federal: Department of Defense, Department of Veterans Affairs
 partners-non-federal:
 external-url:
-total-prize-offered-cash: $1000000
+total-prize-offered-cash: $1,000,000
 type-of-challenge: Scientific
 submission-start: 2019/12/11 10:30 AM
 submission-end: 2020/01/24 5:00 PM
@@ -20,7 +20,7 @@ submission-link:
 prizes: true
 fiscal-year: FY20
 legal-authority: America COMPETES
-challenge-manager: Amira Boland, Amira.C.Boland@omb.eop.gov 
+challenge-manager: Matthew Grob, grob.matthew.a@dol.gov
 challenge-manager-email: VETS.Challenge2020@dol.gov
 ---
 
@@ -65,7 +65,7 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 <h4>Federal Government Needs</h4>
 <ul>
 <li>Access to a feedback loop to learn more about matches made, types of users, most useful feature, and other raw data to inform Federal program efforts and ultimately track outcomes, including employment that is initiated beyond 180 days, wage rates, and/or retention statistics.</li>
-<li>Ability to fold in/link to existing government data efforts (e.g., Oak Ridge National Laboratory project) when they reach maturity.</li>
+<li>Ability to fold in/link to existing government data efforts when they reach maturity.</li>
 </ul>
 
 <!-- Prizes start -->
@@ -282,7 +282,7 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 <p><strong>Open Date: </strong>July 13, 2020</p>
 <p><strong>Duration: </strong>8 Weeks</p>
 <p><strong>Close Date: </strong>September 4, 2020 – Deadline to submit at 5:00 PM EST</p>
-<p><strong>Submit: </strong>Beta Product Version, 15 minute TAP module</p>
+<p><strong>Submit: </strong>Beta Product Version, 30-minute TAP module</p>
 <ul>
  <li>Submission details to <a href="mailto:VETS.Challenge2020@dol.gov" target="_blank" rel="noopener">VETS.Challenge2020@dol.gov</a>:</li> 
 <ul>
