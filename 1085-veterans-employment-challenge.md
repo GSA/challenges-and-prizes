@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash: $1,000,000
 type-of-challenge: Scientific
 submission-start: 2019/12/11 10:30 AM
-submission-end: 2020/01/24 5:00 PM
+submission-end: 2020/1/24 5:00 PM
 submission-link:
 prizes: true
 fiscal-year: FY20
@@ -32,7 +32,7 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 
 <p>The goal of this challenge is to develop a job-matching tool that will be piloted in a <a href="https://www.dol.gov/agencies/vets/programs/tap" target="_blank" rel="noopener">Transition Assistance Program (TAP)</a> Employment Workshop at selected base locations. If the tool is effective, it could be added to the Employment Workshop curriculum for all transitioning service members.</p>
 <p>In 2018, the Department of Labor (DOL), the Department of Defense (DOD), and the Department of Veterans’ Affairs (VA) began a cross-agency effort to understand the transition of a Service member from active duty to civilian employment, from the perspective of the individual navigating this process—not the perspective of the Federal organizations that exist to support a plethora of programs. The agencies built a journeymap of this process and found a recurring theme: navigating the “sea of support” and resources relating to the job search can be a challenging task.</p>
-<p><img src="{{ site.baseurl }}/assets/images/challenge-content/Vets-Employment-Challenge-sealsV1.jpg"></p>
+<p><img src="{{ site.baseurl }}/assets/images/challenge-content/Vets-Employment-Challenge-sealsV1.jpg" max-height="200px" alt="Department of Veterans Affairs, Department of Labor, Department of Defense seals"></p>
 <p>Veterans complete their military service with unique and technical skillsets that bring value to all sectors of the economy, but can encounter challenges framing their experience and skills for civilian employers. American businesses report that they are also missing an opportunity to attract and retain a capable, competent workforce, and recognize the value in veterans and spouses.</p>
 <p>Many job boards, veteran hiring programs, and other initiatives exist, but there are disparate platforms of valuable data. Traversing across these resources can be overwhelming for both first-time job-seeking veterans and businesses with limited time to fill urgent needs. Additionally, most job search tools for Service members are based purely on military occupational specialties, which do not accurately represent the breadth of experiences many individuals have. Finally, small businesses in particular do not have the staff capacity to build out robust skills profiles that better describe hiring needs.</p>
 <p>There is a need for both a more sophisticated matching mechanism and a simpler interface that can pull from existing data sources (from Federal platforms like O*NET, MilGEARs, and the National Labor Exchange, to LinkedIn profiles, resumes, or job descriptions that individuals and businesses have created).</p>
@@ -100,6 +100,7 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 <li>DOL, DOD, and VA Federal employees are not eligible to participate in this Competition.</li>
 <li>Any other individuals or legal entities involved with the design, production, execution, distribution, or evaluation of this DOL Competition are not eligible to participate.</li>
 </ul>
+<hr>
 <h4>Eligibility to Win a Cash Prize</h4>
 <p>To be eligible for a cash prize:</p>
 <ul>
@@ -110,6 +111,7 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 <li>Entrants in this Competition agree, as a condition for winning a cash prize, to complete and submit all requested winner verification and payment documents to DOL within three business days of formal notification. Failure to return all required verification documents by the date specified in the notification may be a basis for disqualification of a cash prize winning entry.</li>
 <li>A Solver shall not be deemed ineligible because the Solver consulted with Federal employees or used Federal facilities in preparing its submission to this DOL Competition if the Federal employees and facilities are made available to all Solvers on an equitable basis.</li>
 </ul>
+<hr>
 <h4>Terms and Conditions</h4>
 <ul>
 <li>This Competition shall be performed in accordance with the America COMPETES Reauthorization Act of 2010, Pub. Law 111-358, Title I, § 105(a), Jan. 4, 2011, codified at 15 U.S.C. § 3719, as amended. </li>
@@ -130,6 +132,7 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 <li>All Solvers agree that they, their heirs and estates agree to assume any and all risks and waive claims against the Federal Government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from their participation in a prize competition, whether the injury, death, damage, or loss arises through negligence or otherwise. </li>
 <li>By participating in the Competition, each Solver agrees to comply with and abide by all DOL Challenge rules, terms, and conditions, and the decisions of DOL and/or the individual judges, which shall be final and binding in all respects.</li>
 </ul>
+<hr>
 <h4>Ownership</h4>
 <p>Any applicable ownership of IP in the submission will remain with the Solver. By participating in the Competition the Solver is not transferring any exclusive IP rights in applicable patents, pending patent applications, or copyrights in connection with the submission. However, by entering the submission, the Solver agrees to grant the Federal government (“Government”) certain license rights, as set forth in this section.</p>
 <p>Namely, the Solver grants the Government the right to review the submission, to publicly describe the submission in any materials created in connection with this competition, to screen and evaluate the submission, and to have the Judges, the Challenge administrators, and the designees of any of them review the submission. The Government is also granted the right to publicize Solver names and, as applicable, the names of Solver team members and/or organizations that participated in the submission following the conclusion of the competition.</p>
