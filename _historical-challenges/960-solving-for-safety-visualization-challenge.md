@@ -3,7 +3,7 @@ layout: front-matter-data
 permalink: /challenge/solving-for-safety-visualization-challenge/
 challenge-id: 960
 status: closed
-sidenav: true (false for challenges that are only external)
+sidenav: true
 card-image: /assets/images/cards/challenge-gov.png
 agency-logo: DOT_logo.jpg
 challenge-title: Solving for Safety Visualization Challenge
@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $380,000
 type-of-challenge: Analytics, visualizations, algorithms
-submission-start: 14/06/2018 10:00 AM
-submission-end: 31/07/2018 11:59 PM
+submission-start: 06/14/2018 10:00 AM
+submission-end: 07/31/2018 11:59 PM
 submission-link:
 prizes: true
 fiscal-year: FY18
