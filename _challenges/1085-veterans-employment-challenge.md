@@ -4,7 +4,7 @@ permalink: /challenge/veterans-employment-challenge/
 challenge-id: 1085
 status: open
 sidenav: true
-card-image: /assets/images/cards/Vets-Employment-Challenge-logo-340x160v2.jpg
+card-image: /assets/images/cards/Vets-Employment-Montage-logoV3-340x160.jpg
 agency-logo: DOL-MasterLogo_Color300.png
 challenge-title: Veterans Employment Challenge
 tagline: Build a better application to match the skills of those who have served in the military with employer needs.
@@ -35,7 +35,7 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 <p><img style="width: 500px; float: right;" src="{{ site.baseurl }}/assets/images/challenge-content/Vets-Employment-Challenge-sealsV1.jpg" alt="Department of Veterans Affairs, Department of Labor, Department of Defense seals"></p>
 <p>Veterans complete their military service with unique and technical skillsets that bring value to all sectors of the economy, but can encounter challenges framing their experience and skills for civilian employers. American businesses report that they are also missing an opportunity to attract and retain a capable, competent workforce, and recognize the value in veterans and spouses.</p>
 <p>Many job boards, veteran hiring programs, and other initiatives exist, but there are disparate platforms of valuable data. Traversing across these resources can be overwhelming for both first-time job-seeking veterans and businesses with limited time to fill urgent needs. Additionally, most job search tools for Service members are based purely on military occupational specialties, which do not accurately represent the breadth of experiences many individuals have. Finally, small businesses in particular do not have the staff capacity to build out robust skills profiles that better describe hiring needs.</p>
-<p>There is a need for both a more sophisticated matching mechanism and a simpler interface that can pull from existing data sources (from Federal platforms like O*NET and the National Labor Exchange, to LinkedIn profiles, resumes, or job descriptions that individuals and businesses have created).</p>
+<p>There is a need for both a more sophisticated matching mechanism and a simpler interface that can pull from existing data sources (from Federal platforms like <a href="https://www.onetonline.org/" target="_blank" rel="noopener">O*NET</a>, the <a href="https://www.militaryonesource.mil/military-life-cycle/separation-transition/employment-education/credentialing-your-military-experience" target="_blank" rel="noopener">Credentialing Opportunities On-Line (COOL) program</a>, and the <a href="https://veterans.usnlx.com/" target="_blank" rel="noopener">National Labor Exchange</a>, to LinkedIn profiles, resumes, or job descriptions that individuals and businesses have created).</p>
 <p>The Government wants to be mindful of not prescribing what the platform should look like or how it will work, but wanted to note some of what job-seekers and Federal employees have shared throughout the research process of designing this competition. In particular, the agencies heard a need for:</p>
 <ul>
  <li>A matching-oriented application for the job-searching process. A platform that could determine likeness of fit, reveal matches, and allow both the employers and job-seekers to opt-in and share more information with each other and potentially interact more (connecting with Veterans at the company, chatting, etc.).</li>
