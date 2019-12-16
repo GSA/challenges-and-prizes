@@ -106,10 +106,10 @@ challenge-manager-email: (will display in the Point of Contact field)
 </ul>
 <p><strong>Stage II, Concept</strong></p>
 <p>In Stage II, the five semi-finalists from Stage I will develop their ideations into proofs of concept (i.e., detailed system designs and prototypes) for an analytical visualization tool. The five semi-finalists will compete for part of a $100,000 prize purse for their proofs of concept. Based on review of the Stage II submissions by the judges, two of the five semi-finalists will also advance to Stage III as finalists. An additional semi-finalist may also receive an honorable mention, but not advance to Stage III. If a selectee declines to participate in the next stage, an alternate may be selected.</p>
-<p><strong>Stage II finalists are:</strong></p>
+<p><strong>Stage II finalists:</strong></p>
 <ul>
 <li><strong>Ford Motor Co.</strong> will combine traditional crash data with connected vehicle and driver behavior, social media, and population data along with the Highway Safety Manual and Crash Modification Factors to help decision-makers uncover insights about safety opportunity areas, simulate potential interventions, and evaluate predicted impact.</li>
-<li><strong> The University of Central Florida</strong>will use Artificial Intelligence and integrate real-time and static data, providing predictive analytics and diagnosing real-time traffic safety conditions to suggest real-time interventions and long-term countermeasures to decision makers and operators and inform the public of zip-code level safety conditions.</li>
+<li><strong> The University of Central Florida</strong> will use Artificial Intelligence and integrate real-time and static data, providing predictive analytics and diagnosing real-time traffic safety conditions to suggest real-time interventions and long-term countermeasures to decision makers and operators and inform the public of zip-code level safety conditions.</li>
 </ul>
 <p><strong>Stage III, Tool</strong></p>
 <p>In Stage III, the two finalists from Stage II will further develop their proofs of concept into full working analytical visualization tools. The two finalists will compete for a $250,000 prize purse, with each receiving a minimum of $50,000. The Stage III prize purse will be awarded to the winners based on the judges&rsquo; review of the Stage III submissions.</p>
