@@ -125,8 +125,7 @@ challenge-manager-email: (will display in the Point of Contact field)
 <p><strong>SOLUTION SUBMISSION MATERIALS</strong></p>
 <p><strong>Stage I, Ideation</strong></p>
 <p>To be eligible to win a prize under this stage, an individual or entity must submit:</p>
-<ol>
-<li><strong>A cover page with the following information:</strong>
+<p>1.<strong> A cover page with the following information:</strong></p>
 <ul>
 <li>Team name, participant names, organization(s), and primary point of contact</li>
 <li><strong>Challenge tracks they are solving for:</strong>
@@ -156,21 +155,18 @@ challenge-manager-email: (will display in the Point of Contact field)
 </ul>
 </li>
 </ul>
-</li>
-<li><strong>Written Summary of the Solution Idea&nbsp;</strong>This includes a detailed description of the proposed solution idea. Summary should discuss in detail the functionality and capabilities of the analytical visualization tool. The Solver must describe, in a high level of technical detail, how the proposed solution will meet each of the Solution Requirements and the Judging Criteria for this stage. The Summary must not exceed the character length of the on-line submission form.&nbsp;The Solver should understand that their submittal will be reviewed by technical experts in transportation safety analysis, data, IT and visualization. If the level of detail is deemed insufficient by the experts, the proposed solution will not be regarded as feasible. All written work shall be phrased in layperson English language.&nbsp;Geospatial, visualization, statistical and technical terminology, including program coding language, shall not be used without providing an explanation of terms. Solvers should respond to the judging criteria specified in the Judging Criteria Section.</li>
-<li><strong>Information on qualifications of your team</strong>
+<p>2.<strong> Written Summary of the Solution Idea&nbsp;</strong></p>
+<p>This includes a detailed description of the proposed solution idea. Summary should discuss in detail the functionality and capabilities of the analytical visualization tool. The Solver must describe, in a high level of technical detail, how the proposed solution will meet each of the Solution Requirements and the Judging Criteria for this stage. The Summary must not exceed the character length of the on-line submission form.&nbsp;The Solver should understand that their submittal will be reviewed by technical experts in transportation safety analysis, data, IT and visualization. If the level of detail is deemed insufficient by the experts, the proposed solution will not be regarded as feasible. All written work shall be phrased in layperson English language.&nbsp;Geospatial, visualization, statistical and technical terminology, including program coding language, shall not be used without providing an explanation of terms. Solvers should respond to the judging criteria specified in the Judging Criteria Section.</p>
+<p>3.<strong> Information on qualifications of your team</strong></p>
 <ul>
 <li>Please include a resume or bio of key individual(s) who would be responsible for developing the idea into a proof of concept with a detailed system design and prototype.</li>
 <li>If you plan to work with a Technical Assistance or Data Innovation Agent, please indicate which Innovation Agent(s) you are or will be working with and their role in tool development.</li>
 </ul>
-</li>
-<li><strong>Appendices</strong>
+<p>4.<strong> Appendices</strong></p>
 <ul>
 <li>Video of Submission Idea. Provide a link to a 30 second video of solution idea.</li>
 <li>Additional Assets. If available, upload or link to additional research abstracts, presentations, data visualizations, or other supporting visual information that may help us better understand your concept. Accepted upload file formats include: .ppt, .pptx, .doc, .docx, .pdf, .jpg, .png (50 MB max).</li>
 </ul>
-</li>
-</ol>
 <p><strong>Stage II, Concepts</strong></p>
 <p>To be eligible to win a prize under this stage, an individual or entity must submit:</p>
 <p>1.<strong> A written summary of the proof of concept with a detailed system design and text that addresses each Stage II judging criterion in detail.&nbsp;</strong></p>
