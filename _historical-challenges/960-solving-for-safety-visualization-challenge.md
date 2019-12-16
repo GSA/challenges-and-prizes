@@ -183,7 +183,7 @@ challenge-manager-email: (will display in the Point of Contact field)
 <li>The prototype should tell the story of how the target audience would use the tool to create actionable insights on safety.</li>
 </ul>
 <p>It will be the responsibility of the competitor to furnish the necessary access for DOT judges to view and interact with the prototype. DOT will not install or deploy the prototype on its own equipment or cloud services, so competitors must plan to provision access.</p>
-<p><strong>A video providing a high-level overview of the proof of concept with strong examples of visualizations.&nbsp;</strong></p>
+<p>4.<strong> A video providing a high-level overview of the proof of concept with strong examples of visualizations.&nbsp;</strong></p>
 <p>Applicants must prepare a short video (5-minute maximum).&nbsp;The video should provide a high-level overview of the proof of concept with strong examples of visualizations.&nbsp; It should include a discussion of the objectives of the tool, the target audience(s), what safety problem the tool is attempting to solve, how the tool functions, and how it can be used to address the safety problem. The video should also highlight the novelty of the tool, how it differs from existing tools.</p>
 <p>5.<strong> Virtual demonstration of the prototype.&nbsp;</strong></p>
 <p>The applicant must be prepared to conduct a virtual demonstration of the prototype for the technical evaluation judging team.&nbsp; The presentation and demonstration should be no more than 10 minutes.&nbsp;An additional 20 minutes will be allotted for questions from the judging team.</p>
