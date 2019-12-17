@@ -12,7 +12,7 @@ agency: Department of Transportation
 partner-agencies-federal:
 partners-non-federal:
 external-url:
-total-prize-offered-cash: $380,000
+total-prize-offered-cash: $350,000
 type-of-challenge: Analytics, visualizations, algorithms
 submission-start: 06/14/2018 10:00 AM
 submission-end: 07/31/2018 11:59 PM
@@ -106,10 +106,10 @@ challenge-manager-email: (will display in the Point of Contact field)
 </ul>
 <p><strong>Stage II, Concept</strong></p>
 <p>In Stage II, the five semi-finalists from Stage I will develop their ideations into proofs of concept (i.e., detailed system designs and prototypes) for an analytical visualization tool. The five semi-finalists will compete for part of a $100,000 prize purse for their proofs of concept. Based on review of the Stage II submissions by the judges, two of the five semi-finalists will also advance to Stage III as finalists. An additional semi-finalist may also receive an honorable mention, but not advance to Stage III. If a selectee declines to participate in the next stage, an alternate may be selected.</p>
-<p><strong>Stage II finalists are:</strong></p>
+<p><strong>Stage II finalists:</strong></p>
 <ul>
 <li><strong>Ford Motor Co.</strong> will combine traditional crash data with connected vehicle and driver behavior, social media, and population data along with the Highway Safety Manual and Crash Modification Factors to help decision-makers uncover insights about safety opportunity areas, simulate potential interventions, and evaluate predicted impact.</li>
-<li><strong> The University of Central Florida</strong>will use Artificial Intelligence and integrate real-time and static data, providing predictive analytics and diagnosing real-time traffic safety conditions to suggest real-time interventions and long-term countermeasures to decision makers and operators and inform the public of zip-code level safety conditions.</li>
+<li><strong> The University of Central Florida</strong> will use Artificial Intelligence and integrate real-time and static data, providing predictive analytics and diagnosing real-time traffic safety conditions to suggest real-time interventions and long-term countermeasures to decision makers and operators and inform the public of zip-code level safety conditions.</li>
 </ul>
 <p><strong>Stage III, Tool</strong></p>
 <p>In Stage III, the two finalists from Stage II will further develop their proofs of concept into full working analytical visualization tools. The two finalists will compete for a $250,000 prize purse, with each receiving a minimum of $50,000. The Stage III prize purse will be awarded to the winners based on the judges&rsquo; review of the Stage III submissions.</p>
@@ -125,8 +125,7 @@ challenge-manager-email: (will display in the Point of Contact field)
 <p><strong>SOLUTION SUBMISSION MATERIALS</strong></p>
 <p><strong>Stage I, Ideation</strong></p>
 <p>To be eligible to win a prize under this stage, an individual or entity must submit:</p>
-<ol>
-<li><strong>A cover page with the following information:</strong>
+<p>1.<strong> A cover page with the following information:</strong></p>
 <ul>
 <li>Team name, participant names, organization(s), and primary point of contact</li>
 <li><strong>Challenge tracks they are solving for:</strong>
@@ -156,28 +155,26 @@ challenge-manager-email: (will display in the Point of Contact field)
 </ul>
 </li>
 </ul>
-</li>
-<li><strong>Written Summary of the Solution Idea&nbsp;</strong>This includes a detailed description of the proposed solution idea. Summary should discuss in detail the functionality and capabilities of the analytical visualization tool. The Solver must describe, in a high level of technical detail, how the proposed solution will meet each of the Solution Requirements and the Judging Criteria for this stage. The Summary must not exceed the character length of the on-line submission form.&nbsp;The Solver should understand that their submittal will be reviewed by technical experts in transportation safety analysis, data, IT and visualization. If the level of detail is deemed insufficient by the experts, the proposed solution will not be regarded as feasible. All written work shall be phrased in layperson English language.&nbsp;Geospatial, visualization, statistical and technical terminology, including program coding language, shall not be used without providing an explanation of terms. Solvers should respond to the judging criteria specified in the Judging Criteria Section.</li>
-<li><strong>Information on qualifications of your team</strong>
+<p>2.<strong> Written Summary of the Solution Idea&nbsp;</strong></p>
+<p>This includes a detailed description of the proposed solution idea. Summary should discuss in detail the functionality and capabilities of the analytical visualization tool. The Solver must describe, in a high level of technical detail, how the proposed solution will meet each of the Solution Requirements and the Judging Criteria for this stage. The Summary must not exceed the character length of the on-line submission form.&nbsp;The Solver should understand that their submittal will be reviewed by technical experts in transportation safety analysis, data, IT and visualization. If the level of detail is deemed insufficient by the experts, the proposed solution will not be regarded as feasible. All written work shall be phrased in layperson English language.&nbsp;Geospatial, visualization, statistical and technical terminology, including program coding language, shall not be used without providing an explanation of terms. Solvers should respond to the judging criteria specified in the Judging Criteria Section.</p>
+<p>3.<strong> Information on qualifications of your team</strong></p>
 <ul>
 <li>Please include a resume or bio of key individual(s) who would be responsible for developing the idea into a proof of concept with a detailed system design and prototype.</li>
 <li>If you plan to work with a Technical Assistance or Data Innovation Agent, please indicate which Innovation Agent(s) you are or will be working with and their role in tool development.</li>
 </ul>
-</li>
-<li><strong>Appendices</strong>
+<p>4.<strong> Appendices</strong></p>
 <ul>
 <li>Video of Submission Idea. Provide a link to a 30 second video of solution idea.</li>
 <li>Additional Assets. If available, upload or link to additional research abstracts, presentations, data visualizations, or other supporting visual information that may help us better understand your concept. Accepted upload file formats include: .ppt, .pptx, .doc, .docx, .pdf, .jpg, .png (50 MB max).</li>
 </ul>
-</li>
-</ol>
 <p><strong>Stage II, Concepts</strong></p>
 <p>To be eligible to win a prize under this stage, an individual or entity must submit:</p>
-<ol>
-<li><strong>A written summary of the proof of concept with a detailed system design and text that addresses each Stage II judging criterion in detail.&nbsp;</strong>Semi-finalists must provide a written summary of the proof of concept, refining and adding additional detail to their initial ideation (20 page maximum).&nbsp; The summary must describe its plans for data use, technical approach, user implementation, testing and deployment, and tool development in a high level of technical detail and address the Solution Requirements and Judging Criteria for this stage.</li>
-<li><strong>Information on the qualifications of the team who would be responsible for developing the idea into a proof of concept and prototype.&nbsp;</strong>Applicants must include a resume or bio of key individual(s) who would be responsible for developing the idea into a proof of concept with a detailed system design and prototype.&nbsp;If applicants plan to work with an Innovation Agent, this section should indicate which Innovation Agent(s) the applicant will be working with and their role in tool development.<br /> &nbsp;</li>
-<li><strong>A prototype with a working interactive model of the analytical visualization tool, that can be easily accessed by DOT judges.</strong><br /> The prototype must provide an idea of the proposed design, navigation and layout of the tool. It must demonstrate the functionality and verify that the analytical visualization or simulation tool idea and concept can be achieved in full development.<br /> <br /> The prototype should demonstrate what the tool looks like and how it operates from the target user&rsquo;s perspective. It should demonstrate, for example:</li>
-</ol>
+<p>1.<strong> A written summary of the proof of concept with a detailed system design and text that addresses each Stage II judging criterion in detail.&nbsp;</strong></p>
+<p>Semi-finalists must provide a written summary of the proof of concept, refining and adding additional detail to their initial ideation (20 page maximum).&nbsp; The summary must describe its plans for data use, technical approach, user implementation, testing and deployment, and tool development in a high level of technical detail and address the Solution Requirements and Judging Criteria for this stage.</p>
+<p>2.<strong> Information on the qualifications of the team who would be responsible for developing the idea into a proof of concept and prototype.&nbsp;</strong></p>
+<p>Applicants must include a resume or bio of key individual(s) who would be responsible for developing the idea into a proof of concept with a detailed system design and prototype.&nbsp;If applicants plan to work with an Innovation Agent, this section should indicate which Innovation Agent(s) the applicant will be working with and their role in tool development.</p>
+<p>3.<strong> A prototype with a working interactive model of the analytical visualization tool, that can be easily accessed by DOT judges.</strong></p>
+<p>The prototype must provide an idea of the proposed design, navigation and layout of the tool. It must demonstrate the functionality and verify that the analytical visualization or simulation tool idea and concept can be achieved in full development.<br /><br />The prototype should demonstrate what the tool looks like and how it operates from the target user&rsquo;s perspective. It should demonstrate, for example:</p>
 <ul>
 <li>How a user would access and input data from different sources;</li>
 <li>What types of analyses could be performed on the data;</li>
@@ -186,15 +183,14 @@ challenge-manager-email: (will display in the Point of Contact field)
 <li>The prototype should tell the story of how the target audience would use the tool to create actionable insights on safety.</li>
 </ul>
 <p>It will be the responsibility of the competitor to furnish the necessary access for DOT judges to view and interact with the prototype. DOT will not install or deploy the prototype on its own equipment or cloud services, so competitors must plan to provision access.</p>
-<ol start="4">
-<li><strong>A video providing a high-level overview of the proof of concept with strong examples of visualizations.</strong><br /> Applicants must prepare a short video (5-minute maximum).&nbsp;The video should provide a high-level overview of the proof of concept with strong examples of visualizations.&nbsp; It should include a discussion of the objectives of the tool, the target audience(s), what safety problem the tool is attempting to solve, how the tool functions, and how it can be used to address the safety problem. The video should also highlight the novelty of the tool, how it differs from existing tools.<br /> &nbsp;</li>
-<li><strong>Virtual demonstration of the prototype.</strong><br /> The applicant must be prepared to conduct a virtual demonstration of the prototype for the technical evaluation judging team.&nbsp; The presentation and demonstration should be no more than 10 minutes.&nbsp;An additional 20 minutes will be allotted for questions from the judging team.</li>
-</ol>
+<p>4.<strong> A video providing a high-level overview of the proof of concept with strong examples of visualizations.&nbsp;</strong></p>
+<p>Applicants must prepare a short video (5-minute maximum).&nbsp;The video should provide a high-level overview of the proof of concept with strong examples of visualizations.&nbsp; It should include a discussion of the objectives of the tool, the target audience(s), what safety problem the tool is attempting to solve, how the tool functions, and how it can be used to address the safety problem. The video should also highlight the novelty of the tool, how it differs from existing tools.</p>
+<p>5.<strong> Virtual demonstration of the prototype.&nbsp;</strong></p>
+<p>The applicant must be prepared to conduct a virtual demonstration of the prototype for the technical evaluation judging team.&nbsp; The presentation and demonstration should be no more than 10 minutes.&nbsp;An additional 20 minutes will be allotted for questions from the judging team.</p>
 <p><strong>Stage III, Tools</strong></p>
 <p>To be eligible to win a prize under this stage, an individual or entity must submit:</p>
-<ol>
-<li><strong>A fully functioning software and analytical visualization tool</strong>*<br /> Applicants must provide full access to an executable version of their software and analytical visualization tool, with all of the components and functionality promised in their Stage II submissions.<br /> <br /> *<strong>What to provide with submission</strong>:&nbsp;</li>
-</ol>
+<p>1.<strong> A fully functioning software and analytical visualization tool</strong>*</p>
+<p>Applicants must provide full access to an executable version of their software and analytical visualization tool, with all of the components and functionality promised in their Stage II submissions.<br /><br />*<strong>What to provide with submission</strong>:&nbsp;</p>
 <ul>
 <li>Copy of source code</li>
 <li>Copy of executable code</li>
@@ -202,10 +198,10 @@ challenge-manager-email: (will display in the Point of Contact field)
 <li>Clarify what components are proprietary, if any</li>
 <li>Clarify what data is necessary to operate the tool</li>
 </ul>
-<ol start="2">
-<li><strong>A written summary addressing the judging criteria (20-page maximum).</strong><br /> Applicants must provide a written summary which addresses the criteria-related items below and describes any updates or changes since Stage II.<br /> <br /> Solvers should respond to the judging criteria specified in the Judging Criteria Section.<br /> &nbsp;</li>
-<li><strong>A complete User&rsquo;s Guide to the tool.</strong><br /> The User&rsquo;s Guide should provide a detailed step-by-step explanation, in layperson English language, of how to access, set up, operate, maintain, and upgrade the tool. This should include, for example:</li>
-</ol>
+<p>2.<strong> A written summary addressing the judging criteria (20-page maximum).</strong></p>
+<p>Applicants must provide a written summary which addresses the criteria-related items below and describes any updates or changes since Stage II.<br /><br />Solvers should respond to the judging criteria specified in the Judging Criteria Section.</p>
+<p>3.<strong> A complete User&rsquo;s Guide to the tool.</strong></p>
+<p>The User&rsquo;s Guide should provide a detailed step-by-step explanation, in layperson English language, of how to access, set up, operate, maintain, and upgrade the tool. This should include, for example:</p>
 <ul>
 <li>Specifications for hardware and software needed to operate the tool.</li>
 <li>Information on the data needed, e.g., how to collect, validate and input the data; how to integrate data from different sources; how to update data; how to deal with incomplete data, etc.</li>
@@ -213,12 +209,13 @@ challenge-manager-email: (will display in the Point of Contact field)
 <li>Information on the assumptions/constraints/value judgments/algorithms underlying calculations.</li>
 <li>Options, if available, for customizing the software to address specific local needs, data limitations, etc.</li>
 <li>Maintenance and upgrading requirements and procedures.</li>
-<li>Support available for users.<br /> <br /> If there are different types of users, separate instructions should be given for each user category.</li>
+<li>Support available for users.</li>
 </ul>
-<ol start="4">
-<li><strong>A one-page description of the tool for external audiences.</strong><br /> As part of the marketing and outreach plan, applicants should prepare a one-page description of the tool, aimed at potential users. Applicants also have the option to submit updated Stage II videos to reflect any changes in their Stage III submissions, which can then be used as a marketing tool. The video submissions are optional, however, and will not be part of the judging process.<br /> &nbsp;</li>
-<li><strong>A virtual session with demonstration of the enhancements made to the tool since Stage II and Q&amp;A on the tool and deployment plan (45-60 minutes).</strong><br /> Applicants should be prepared to conduct a virtual demonstration of the tool, with the emphasis on enhancements and functionality added since their Stage II submissions, and answer questions from DOT subject matter experts on the evaluation team.</li>
-</ol>
+<p>If there are different types of users, separate instructions should be given for each user category.</p>
+<p>4.<strong> A one-page description of the tool for external audiences.</strong></p>
+<p>As part of the marketing and outreach plan, applicants should prepare a one-page description of the tool, aimed at potential users. Applicants also have the option to submit updated Stage II videos to reflect any changes in their Stage III submissions, which can then be used as a marketing tool. The video submissions are optional, however, and will not be part of the judging process.</p>
+<p>5.<strong> A virtual session with demonstration of the enhancements made to the tool since Stage II and Q&amp;A on the tool and deployment plan (45-60 minutes).</strong></p>
+<p>Applicants should be prepared to conduct a virtual demonstration of the tool, with the emphasis on enhancements and functionality added since their Stage II submissions, and answer questions from DOT subject matter experts on the evaluation team.</p>
 <p><strong>ELIGIBLE CHALLENGE PARTICIPANTS</strong></p>
 <p>Eligible Solvers are individuals or teams from the business and research communities in the United States or US territory.&nbsp; This includes but is not limited to organizations such as: technology companies, analytics firms, transportation carriers, industry associations, research institutions, universities, mapping and visualization providers.&nbsp; Teams are encouraged to organize themselves in a manner that best fits meeting the Challenge. &nbsp;</p>
 <p><strong>Challenge Authority&nbsp;USDOT will be carrying out this challenge prize competition under the authority of 15 U.S.C. 3719.</strong></p>
@@ -253,11 +250,11 @@ challenge-manager-email: (will display in the Point of Contact field)
 <li><strong>Analytical Depth</strong>.&nbsp; Considers a variety of data sources and application of an appropriate analysis technique.</li>
 <li><strong>Technology Transfer Readiness Level and Feasibility.</strong> Demonstrates a reasonable path for implementation and production, and a clear method for validating data with a high degree of confidence backed by credible supporting evidence.&nbsp; Uses technology that USDOT or the public sector can easily deploy.&nbsp; Provides a clear breakdown of data input costs and operating and maintenance costs.</li>
 <li><strong>Testing and Deployment Approach.</strong> Provides a plan for how the system would be tested in a real-world setting and deployed, and describes how the system could be expanded to other geographic areas, to different safety data, or to other scenarios of concern for transportation safety.&nbsp; Demonstrates feasibility of implementation and scalability of tool and data.</li>
-<li>Outlines the costs of development and a plan for funding these costs. Demonstrates the commitment and expertise to bring the Full Working Analytical Visualization Tool design to fruition.</li>
+  <li><strong>Team.</strong>Outlines the costs of development and a plan for funding these costs. Demonstrates the commitment and expertise to bring the Full Working Analytical Visualization Tool design to fruition.</li>
 </ul>
 <p><strong>Stage 3, Tool</strong></p>
 <ul>
-<li>The extent to which the submission illustrates a plan to maintain consistent long-term access to the tool and ongoing technical support for the tool users, and adequately addresses potential constraints and possible unintended consequences of the tool&rsquo;s use.</li>
+<li><strong>Sustainability</strong>The extent to which the submission illustrates a plan to maintain consistent long-term access to the tool and ongoing technical support for the tool users, and adequately addresses potential constraints and possible unintended consequences of the tool&rsquo;s use.</li>
 <li><strong>Deployment Approach.&nbsp;</strong>The feasibility of the approach for deploying the tool in real-world settings and expanding usage to multiple geographic areas and/or nationwide.</li>
 <li><strong>Functionality and Technical Effectiveness</strong>. The ability of the final product to provide significant insights or visualize scenario analyses. The level of speed, sensitivity and precision (completeness and usefulness) of the results based on the safety problems posed in the Challenge. The intuitive design and ease of use for different user groups and skill levels. The flexibility to adapt to varying user needs.</li>
 <li><strong>Expected Return on Investment.</strong>The benefits of the tool as compared to the data, operating and maintenance costs for implementing and potentially scaling the tool.</li>
