@@ -10,7 +10,7 @@ sitemap: false
     <div class="grid-container">
             {% include highlights.html %}
         <div class="grid-row usa-section">
-                {% assign sorted = (site.historical-challenges | sort: 'submission-end') %}
+                {% assign sorted = site.historical-challenges | sort: 'submission-end' %}
                 {% for challenge in sorted %}
                 {% if challenge.submission-end contains 2019 %}
         <div class="tablet:grid-col-6 cards">
@@ -55,7 +55,7 @@ sitemap: false
         <div class="grid-container bg-base-lightest">
             <h2 class="font-sans-xl margin-left-1 text-primary-dark">2018 Challenges</h2>
             <div class="grid-row usa-section">
-                    {% assign sorted = (site.historical-challenges | sort: 'submission-end') %}
+                    {% assign sorted = site.historical-challenges | sort: 'submission-end' %}
                     {% for challenge in sorted %}
                     {% if challenge.submission-end contains "2018" %}
             <div class="tablet:grid-col-6 cards">
@@ -98,7 +98,7 @@ sitemap: false
         <div class="grid-container bg-base-lightest">
             <h2 class="font-sans-xl margin-left-1 text-primary-dark">2017 Challenges</h2>
             <div class="grid-row usa-section">
-                    {% assign sorted = (site.historical-challenges | sort: 'submission-end') %}
+                    {% assign sorted = site.historical-challenges | sort: 'submission-end' %}
                     {% for challenge in sorted %}
                     {% if challenge.submission-end contains "2017" %}
             <div class="tablet:grid-col-6 cards">
