@@ -23,9 +23,9 @@ id="9475" itemscope="" itemtype="http://schema.org/CreativeWork">
 
 
 <!--Feature Image-->
-<div style= "text-align: center;" id="attachment_9500" class="wp-caption"><a
+<div style= "text-align: left;" id="attachment_9500" class="wp-caption"><a
     href="{{ site.baseurl }}/assets/images/toolkit/case-studies/OMB_banner.jpg"><img
-    class="wp-image-9500" width="80%"
+    class="wp-image-9500" width="60%"
     src="{{ site.baseurl }}/assets/images/toolkit/case-studies/OMB_banner.jpg" alt="OMB logo">
     </a>
 </div>
