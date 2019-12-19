@@ -25,7 +25,7 @@ id="9475" itemscope="" itemtype="http://schema.org/CreativeWork">
 <!--Feature Image-->
 <div id="attachment_9500" class="wp-caption"><a
     href="{{ site.baseurl }}/assets/images/toolkit/case-studies/OMB_banner.jpg"><img
-    class="wp-image-9500" width="100%"
+    class="wp-image-9500" width="80%"
     src="{{ site.baseurl }}/assets/images/toolkit/case-studies/OMB_banner.jpg" alt="OMB logo">
     </a>
 </div>
