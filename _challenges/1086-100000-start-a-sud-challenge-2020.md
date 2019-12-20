@@ -65,7 +65,7 @@ challenge-manager-email: irina.sazonova@nih.gov
 
 <p>The Challenge is open to any participant(s) 18 years of age or older. No prior startup experience is necessary. A participant may be (i) an entity or (ii) an individual or group of individuals (i.e., a team assembled with the purpose of participating in this Challenge).</p>
 <ol>
-  <li>To be eligible to win a prize under this Challenge, a Participant (whether an entity, individual, or group of individuals): 
+  <li>To be eligible to win a prize under this Challenge, a Participant (whether an entity, individual, or group of individuals): </li>
     <ol type="a">
       <li>Shall have registered to participate in the Challenge under the rules promulgated by NIDA as published in this announcement;</li>
       <li>Shall have complied with all the requirements set forth in this announcement; </li>
@@ -77,7 +77,7 @@ challenge-manager-email: irina.sazonova@nih.gov
       <li>Must have an intention to form a United States-based startup or be a United States-based new startup (i.e. in the early stage of formation and growth).</li>
     </ol>
     <li>Federal grantees may not use Federal funds from a grant award to develop their Challenge submissions or to fund efforts in support of their Challenge submissions.</li>
-<li>Federal contractors may not use Federal funds from a contract to develop their Challenge submissions or to fund efforts in support of their Challenge submissions.</li> 
+  <li>Federal contractors may not use Federal funds from a contract to develop their Challenge submissions or to fund efforts in support of their Challenge submissions.</li> 
   <li>By participating in this Challenge, each Participant (whether an entity, individual, or group of individuals) warrants that he or she, or it is the sole author or owner of, or has the right to use, any copyrightable works that the challenge submission comprises, that the works are wholly original with the Participant (or is an improved version of an existing work that the Participant has sufficient rights to use and improve), and that the challenge submission does not infringe any copyright or any other rights of any third party of which the Participant is aware.</li>
   <li>By participating in this Challenge, each Participant (whether an entity, individual, or group of individuals) agrees to assume any and all risks and waive claims against the Federal government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from participation in this Challenge, whether the injury, death, damage, or loss arises through negligence or otherwise.</li>
   <li>Based on the subject matter of the Challenge, the type of work that it will possibly require, as well as an analysis of the likelihood of any claims for death, bodily injury, property damage, or loss potentially resulting from Challenge participation, no Participant (whether an entity, individual, or group of individuals) participating in the Challenge is required to obtain liability insurance or demonstrate financial responsibility in order to participate in this Challenge.</li>
@@ -112,16 +112,15 @@ challenge-manager-email: irina.sazonova@nih.gov
 <h4><strong>Submission Requirements</strong></h4>
 <p>Each submission for this Challenge requires a complete Submission Package. The Submission Package includes a 4-page written proposal describing the idea and 5-min video introducing the individual participant or the team (see requirements below). Both the 4-page written proposal and the 5-min video will be evaluated.</p>
 <ol>
-  <li>In the proposal:
+  <li><strong>Proposal. </strong>The proposal must consist of a PDF file with at least 1-inch margins and no more than four (4) pages long. Font size must be no smaller than 11-point Arial. All submissions must be in English. The participants must not use HHS’s logo or official seal or the logo of NIH or NIDA in the submissions and must not claim federal government endorsement. In the proposal:</p>
     <ol type="a">
       <li>Describe how your research idea would further an understanding of SUD and be the foundation for a successful startup. (1 page)</li>
       <li>Convince the Challenge reviewers of your technical competence as a researcher. Be brief, selective and persuasive. Do not use the NIH Bibliographic Sketch format. (0.5 page)</li>
       <li>Describe, in as many details as possible, what the prototype of your product would look like. Then, walk the Challenge reviewers through the typical use of the product, using simple terms and instructions. (1.5 pages)</li>
       <li>Explain the methods you will use (how, when, where, whom) to determine whether the product is needed by the target audience and whether that audience would be willing to pay for the product. (1 page)</li>
     </ol>
-    <p>The proposal must consist of a PDF file with at least 1-inch margins and no more than four (4) pages long. Font size must be no smaller than 11-point Arial. All submissions must be in English. The participants must not use HHS’s logo or official seal or the logo of NIH or NIDA in the submissions and must not claim federal government endorsement.</p>
-<li>A brief 5-min video must be posted to YouTube© and the link to video provided. If the Challenge submission is from the team of participants, the entire team must participate in the submitted video. In the YouTube© video:</ul>
-<ol>
+<li><strong>Video. </strong>A brief 5-min video must be posted to YouTube© and the link to video provided. If the Challenge submission is from the team of participants, the entire team must participate in the submitted video. In the YouTube© video:</li>
+<ol type="a">
   <li>In one minute or less, tell NIDA something that can illustrate the drive or the desire of each team member to become a startup founder.</li>
   <li>Tell NIDA something about each team member that shows a high level of scientific and entrepreneurial ability.</li>
   <li>Tell NIDA something about each team member that shows a high level of perseverance and grit.</li>
