@@ -12,7 +12,7 @@ agency: Department of Health and Human Services - National Institutes of Health
 partner-agencies-federal:
 partners-non-federal:
 external-url:
-total-prize-offered-cash:
+total-prize-offered-cash: $100,000
 type-of-challenge: Ideas
 submission-start: 2020/01/21 9 a.m.
 submission-end: 2020/04/24 5 p.m.
@@ -125,5 +125,4 @@ challenge-manager-email: irina.sazonova@nih.gov
   <li>Tell NIDA something about each team member that shows a high level of scientific and entrepreneurial ability.</li>
   <li>Tell NIDA something about each team member that shows a high level of perseverance and grit.</li>
   <li>Tell NIDA about a time when your great idea was rejected. What was your response?</li>
-  </ol>
   </ol>
