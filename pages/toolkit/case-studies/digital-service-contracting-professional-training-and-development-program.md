@@ -23,16 +23,16 @@ id="9475" itemscope="" itemtype="http://schema.org/CreativeWork">
 
 
 <!--Feature Image-->
-<div style= "text-align: left;" id="attachment_9500" class="wp-caption"><a
-    href="{{ site.baseurl }}/assets/images/toolkit/case-studies/OMB_banner.jpg"><img
-    class="wp-image-9500" width="60%"
+<div style= "text-align: left;" id="attachment_9500" class="wp-caption">
+    <a href="{{ site.baseurl }}/assets/images/toolkit/case-studies/OMB_banner.jpg">
+    <img class="case-study-feature-img margin-right-2" style="float: left;"
     src="{{ site.baseurl }}/assets/images/toolkit/case-studies/OMB_banner.jpg" alt="OMB logo">
     </a>
 </div>
 <div style="line-height: 2.75rem">
-<h1 style="margin-top: 1em;">Digital Service Contracting Professional Training and Development Program | Office of Management and Budget (OMB)</h1>
+<h1 style="margin-top: 1em;">Digital Service Contracting Professional Training and Development Program</h1><h2 class="case-study-agency-heading">Office of Management and Budget (OMB)</h2>
 </div>
-<p style="font-size: x-large;">In 2014, the U.S. Digital Service (USDS) and the Office of Federal Procurement Policy (OFPP) set out to transform the way the federal government buys technology to support improved digital experiences for citizens. As a first step, they turned to Challenge.gov and ran a prize competition that produced a pilot training program and the first-ever digital certification for federal contracting officers. The open-source curriculum continues to evolve to educate digital procurement pioneers across the federal government.
+<p style="font-size: x-large; float: left;">In 2014, the U.S. Digital Service (USDS) and the Office of Federal Procurement Policy (OFPP) set out to transform the way the federal government buys technology to support improved digital experiences for citizens. As a first step, they turned to Challenge.gov and ran a prize competition that produced a pilot training program and the first-ever digital certification for federal contracting officers. The open-source curriculum continues to evolve to educate digital procurement pioneers across the federal government.
 </p>
 <br>
 <h2>Background</h2>
