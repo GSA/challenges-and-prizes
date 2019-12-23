@@ -6,7 +6,7 @@ status: open
 sidenav: true
 card-image: /assets/images/cards/NIH.png
 agency-logo: NIH_Master_Logo_Vertical_2Color.jpg
-challenge-title: $100,000 for a Start a SUD Startup Challenge, 2020 Edition
+challenge-title: $100,000 for a Start a SUD Startup Challenge, 2020 Spring Edition
 tagline: Test the premise of research ideas that can be fostered into biotech startups
 agency: Department of Health and Human Services - National Institutes of Health
 partner-agencies-federal:
@@ -107,8 +107,7 @@ challenge-manager-email: irina.sazonova@nih.gov
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<h4><strong>Registration Process for Participants</strong></h4>
-<p>To participate in this Challenge visit www.challenge.gov, search for “$100,000 for Start a SUD Startup 2020” Challenge and follow the instructions. For teams, each team is required to identify a team leader who registers and submits a solution on behalf of the team.</p>
+<p>Eeach team is required to identify a team leader who registers and submits a solution on behalf of the team. All submission materials must be emailed to <a href="mailto:irina.sazonova@nih.gov" target="_blank" rel="noopener">irina.sazonova@nih.gov</a> by the specified submission deadline date and time.</p>
 <h4><strong>Submission Requirements</strong></h4>
 <p>Each submission for this Challenge requires a complete Submission Package. The Submission Package includes a 4-page written proposal describing the idea and 5-min video introducing the individual participant or the team (see requirements below). Both the 4-page written proposal and the 5-min video will be evaluated.</p>
 <ol>
