@@ -41,7 +41,7 @@ challenge-manager-email: irina.sazonova@nih.gov
 <h3><strong>Dates</strong></h3>
 <ul>
 <li>The Challenge begins January 2, 2020.</li> 
-<li>Submission Period: January 21, 2020 to April 24, 2020, 5:00 p.m. ET.</li>
+<li>Submission Period: 9 a.m. ET, January 21, 2020 to April 24, 2020, 5:00 p.m. ET.</li>
 <li>Judging Period: April 27, 2020 to May 15, 2019.</li>
 <li>Winners Announced: May 20, 2019.</li>
   </ul>
