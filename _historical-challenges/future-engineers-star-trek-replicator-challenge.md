@@ -10,7 +10,7 @@ moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
 tagline: NASA, ASME and Star Trek Challenges students to pioneer the future of food
-in space
+  in space
 groupName: National Aeronautics and Space Administration
 hideIdeaAuthor: false
 template: ideation

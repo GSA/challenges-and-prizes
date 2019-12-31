@@ -19,7 +19,7 @@ moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
 tagline: Use patent data to reveal new insights on cancer research, treatments through
-visualization & interactive mapping
+  visualization & interactive mapping
 groupName: Department of Commerce - U.S. Patent and Trademark Office
 hideIdeaAuthor: false
 template: ideation

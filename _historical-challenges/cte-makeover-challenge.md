@@ -1,6 +1,6 @@
 ---
 ideaSubmitFormInstruction: Visit <a href="http://www.ctemakeoverchallenge.com" target="_blank">ctemakeoverchallenge.com</a> for
-submission requirements and to enter the challenges.
+  submission requirements and to enter the challenges.
 startDate: '2016-03-09T00:00:00'
 votingAllowed: false
 newCampaign: false
@@ -11,7 +11,7 @@ moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
 tagline: "$200,000 in cash prizes and $378,000 in in-kind prizes to bring more makerspaces
-to American high schools"
+  to American high schools"
 groupName: Department of Education
 hideIdeaAuthor: false
 template: ideation

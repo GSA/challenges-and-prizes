@@ -10,7 +10,7 @@ moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
 tagline: This challenge is seeking multiple ways to approach creating a decomposed
-architecture of a complex system.
+  architecture of a complex system.
 groupName: National Aeronautics and Space Administration
 hideIdeaAuthor: false
 template: ideation

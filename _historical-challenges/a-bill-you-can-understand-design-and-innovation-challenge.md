@@ -20,7 +20,7 @@ moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
 tagline: Help Patients Understand Their Medical Bills and the Financial Aspect of
-Health
+  Health
 groupName: Department of Health and Human Services
 hideIdeaAuthor: false
 template: ideation
