@@ -12,7 +12,7 @@ ideaFromUnauthorizedMemberAllowed: true
 tagline: To encourage the use of Randomized Controlled Trials in the criminal justice
   field, NIJ is issuing this Challenge for timely and innovative RCTs that address
   meaningful criminal justice problems.
-groupName: Department of Justice
+groupName: Department of Justice - Office of Justice Programs
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
