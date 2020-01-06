@@ -53,6 +53,8 @@ primary_navigation:
         url: /toolkit/faq/
   - name: Archived Challenges
     children:
+      - name: 2020
+        url: /archive/2020/
       - name: 2019
         url: /archive/2019/
       - name: 2018
