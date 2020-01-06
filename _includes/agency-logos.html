@@ -223,7 +223,9 @@
 	<img src="{{ site.baseurl }}/assets/images/agency/nsa.png" alt="NSA logo" width="120" title="NSA logo">
 	{% endif %}
 
-
+	{% if challenge.groupName contains "National Endowment for the Humanities" or challenge.agency contains "National Endowment for the Humanities" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/natl_endowment_humanities.jpg" alt="NEH logo" width="120" title="NEH logo">
+	{% endif %}
 	
 	
 

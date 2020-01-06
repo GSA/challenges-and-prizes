@@ -223,8 +223,9 @@
 	<img src="{{ site.baseurl }}/assets/images/agency/nsa.png" alt="NSA logo" title="NSA logo">
 	{% endif %}
 	
-
-
+	{% if page.groupName contains "National Endowment for the Humanities" or page.agency contains "National Endowment for the Humanities" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/natl_endowment_humanities.jpg" alt="NEH logo" title="NEH logo">
+	{% endif %}
 
 	
 
