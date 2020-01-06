@@ -16,7 +16,7 @@ template: ideation
 campaignAttributes:
 attributes:
 total-prize-awarded-cash: ''
-external-url: http://www.congressionalappchallenge.us/compete-2016/
+external-url: https://www.congressionalappchallenge.us/
 submission-end: 11/02/2016 12:00 PM
 why-use-prizes: ''
 submission-start: 07/18/2016 12:00 PM
