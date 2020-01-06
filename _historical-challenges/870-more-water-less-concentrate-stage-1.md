@@ -8,7 +8,7 @@ card-image: /assets/images/cards/pipe.png
 agency-logo: usbr.jpg
 challenge-title: More Water Less Concentrate - Stage 1
 tagline: Help desalination plants make more water and less concentrate
-agency: Bureau of Reclamation
+agency: Department of the Interior - Bureau of Reclamation
 partner-agencies-federal: Environmental Protection Agency, Corps of Engineers--Civil Works, Department of Defense
 partners-non-federal: Water Environment and Reuse Foundation, Water Research Foundation
 external-url:
