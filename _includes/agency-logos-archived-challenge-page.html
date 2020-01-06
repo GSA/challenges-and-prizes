@@ -219,7 +219,9 @@
 	<img src="{{ site.baseurl }}/assets/images/agency/FDIC.png" alt="FDIC logo" title="FDIC logo">
 	{% endif %}
 
-
+	{% if page.groupName contains "National Security Agency" or page.agency contains "National Security Agency" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/nsa.png" alt="NSA logo" title="NSA logo">
+	{% endif %}
 	
 
 
