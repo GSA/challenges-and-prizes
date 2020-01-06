@@ -138,6 +138,10 @@
 	{% if challenge.groupName == "Department of Health and Human Services - Substance Abuse and Mental Health Services Administration" or challenge.agency == "Department of Health and Human Services - Substance Abuse and Mental Health Services Administration" %}
 	<img style="padding-top: 1em" src="{{ site.baseurl }}/assets/images/agency/SAMHSA.png" alt="SAMHSA logo" width="120" title="SAMHSA">
 	{% endif %}
+
+	{% if challenge.groupName == "Department of Health and Human Services - Administration for Children and Families" or challenge.agency == "Department of Health and Human Services - Administration for Children and Families" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/hhs.png" alt="HHS logo" height="120" title="HHS">
+	{% endif %}
 	
 	{% if challenge.groupName contains "Agency for Healthcare Research and Quality" or challenge.agency contains "Agency for Healthcare Research and Quality" %}
 	<img src="{{ site.baseurl }}/assets/images/agency/ahrq-logo.png" alt="AHRQ logo" width="120" title="AHRQ">
