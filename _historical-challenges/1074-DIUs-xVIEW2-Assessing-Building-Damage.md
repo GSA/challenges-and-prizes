@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/diu-xview2-assessing-building-damage/
 challenge-id: 1074
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/DIU_logo.png
 agency-logo: dod_seal.jpg
@@ -14,8 +14,8 @@ partners-non-federal: California Governor’s Office of Emergency Services, CAL 
 external-url:
 total-prize-offered-cash: $150,000
 type-of-challenge: Technology demonstration and hardware; Analytics, visualizations and algorithms; Scientific
-submission-start: 2019/09/18 08:00 AM
-submission-end: 2019/12/31 11:59 PM
+submission-start: 09/18/2019 08:00 AM
+submission-end: 12/31/2019 11:59 PM
 submission-link: 
 prizes: true
 fiscal-year: FY19, FY20
