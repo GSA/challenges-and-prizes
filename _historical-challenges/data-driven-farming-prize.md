@@ -11,7 +11,7 @@ funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
 tagline: We're looking for tools and approaches that share insights from data with
   farmers so they can improve their productivity.
-groupName: International Assistance Programs - Agency for International Development
+groupName: U.S. Agency for International Development
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
