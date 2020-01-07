@@ -219,10 +219,10 @@ winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
 description: The Congressional App Challenge is a coding competition hosted by Members
-  of Congress for the students in their districts. The 2016 Challenge opens on July
-  18 and runs through <span class="aBn" tabindex="0" data-term="goog_846117438"><span
+  of Congress for the students in 180 districts. The 2016 Challenge ran July
+  18 through <span class="aBn" tabindex="0" data-term="goog_846117438"><span
   class="aQJ">November 2, 2016</span></span>. Students are welcome to create any type
-  of app they like, on whatever platform they like, and beginners are welcome!
+  of app they like, on whatever platform they like, and beginners are welcome! See a list of the <a href="https://www.congressionalappchallenge.us/2016-winners/" target="_blank" rel="noopener" >2016 winners</a>!
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
