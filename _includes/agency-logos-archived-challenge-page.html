@@ -15,12 +15,12 @@
   		<img src="{{ site.baseurl }}/assets/images/agency/717px-NASA_logo.png" alt="NASA logo" title="NASA">
 	{% endif %}
 
-	{% if page.groupName contains "Forest Service" or .groupName contains "Forest Service" %}
+	{% if page.groupName contains "Forest Service" or page.agency contains "Forest Service" %}
   		<img src="{{ site.baseurl }}/assets/images/agency/usfs.png" alt="USFS logo" title="USFS">
 	{% endif %}
 
-	{% if page.groupName contains "Fish and Wildlife Service" page.agency contains "Fish and Wildlife Service" %}
-  		<img src="{{ site.baseurl }}/assets/images/agency/usfws-logo-251x300.png" alt="Fish and Wildlife Service logo" title="Fish & Wildlife Service">
+	{% if page.groupName contains "Fish and Wildlife Service" or page.agency contains "Fish and Wildlife Service" %}
+  		<img src="{{ site.baseurl }}/assets/images/agency/US-FWS-logo.png" alt="Fish and Wildlife Service logo" title="Fish & Wildlife Service">
 	{% endif %}
 
 	{% if page.groupName contains "National Park Service" or page.agency contains "National Park Service" %}

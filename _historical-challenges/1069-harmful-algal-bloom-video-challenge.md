@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/harmful-algal-bloom-video-challenge/
 challenge-id: 1069
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/201909013_EPA_HABVideo_ChallengeGov_Logo.jpg
 agency-logo: 256px-Environmental_Protection_Agency_logo.png
@@ -14,8 +14,8 @@ partners-non-federal: EPA Region 7 and 8 states, Regional Tribal Operations Comm
 external-url:
 total-prize-offered-cash: $32,000
 type-of-challenge: Creative (multimedia and design), scientific
-submission-start: 2019/09/19 11:00 AM
-submission-end: 2020/01/03 11:00 PM
+submission-start: 09/19/2019 11:00 AM
+submission-end: 01/03/2020 11:00 PM
 submission-link: 
 prizes: true
 fiscal-year: FY19, FY20

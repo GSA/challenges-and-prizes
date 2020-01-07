@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/white-nose-syndrome-in-bats/
 challenge-id: 1081
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/WNS-logo-square-340.png
 agency-logo: US-FWS-logo.png
@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $100,000
 type-of-challenge: Ideas
-submission-start: 2019/10/24 12:00 pm
-submission-end: 2019/12/31 11:59 pm
+submission-start: 10/24/2019 12:00 pm
+submission-end: 12/31/2019 11:59 pm
 submission-link:
 prizes: true
 fiscal-year: FY20
