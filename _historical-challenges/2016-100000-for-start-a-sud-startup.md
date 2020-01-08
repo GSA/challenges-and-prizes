@@ -11,8 +11,7 @@ funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
 tagline: The goal of this Challenge is to enable biomedical scientists to test the
   hypothesis that their research idea can be fostered into a biotech startup
-groupName: Department of Health and Human Services - Food and Drug Administration
-  - National Institute on Drug Abuse
+groupName: Department of Health and Human Services - National Institutes of Health
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
