@@ -12,7 +12,6 @@ ideaFromUnauthorizedMemberAllowed: true
 tagline: NIDA aims to develop novel mobile applications for future addiction research
   explicitly created on Apple Inc.’s ResearchKit framework
 groupName: Department of Health and Human Services - Food and Drug Administration
-  - National Institute on Drug Abuse
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
