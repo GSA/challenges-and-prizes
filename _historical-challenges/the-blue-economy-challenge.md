@@ -11,7 +11,7 @@ funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
 tagline: Join us as we reengineer aqualculture for sustainability to achieve a blue
   revolution for our oceans
-groupName: International Assistance Programs - Agency for International Dev
+groupName: U.S. Agency for International Development
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
