@@ -91,7 +91,7 @@ id="9475" itemscope="" itemtype="http://schema.org/CreativeWork">
 <li>A final estimated investment required to implement the proposed program; and</li>
 <li>A description of how to monitor return on investment.</li>
 </ul>
-<p>A second pilot, or minimum viable product (MVP), was conducted to prove that the pilot success could be replicated. Following the successful second running of the course, the content material, requirements for instruction and guidance on how to create this course was provided to federal acquisition training institutions for implementation. This information informed OMB&rsquo;s efforts to transition the winning proposal into a government program that can be adapted for future needs.</p>
+<p>A second pilot, or minimum viable product (MVP), was conducted through a sole-source contract to prove that the pilot success could be replicated. Following the successful second running of the course, the content material, requirements for instruction and guidance on how to create this course was provided to federal acquisition training institutions for implementation. This information informed OMB&rsquo;s efforts to transition the winning proposal into a government program that can be adapted for future needs.</p>
 
 <h2>Lessons Learned</h2>
 <p><strong>Understand what your end goal is and use the challenge program to achieve that.</strong></p>
@@ -111,6 +111,7 @@ id="9475" itemscope="" itemtype="http://schema.org/CreativeWork">
 
 <h2>Legal Authority</h2>
 <p><strong>America COMPETES Act</strong></p>
+<p>The America COMPETES Act provided the legal authority for the challenge through the first pilot. A sole-cource contract was used for the second MVP pilot.</p>
 
 <!--
 <h2>Challenge Website</h2>
