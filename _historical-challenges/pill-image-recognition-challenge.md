@@ -10,7 +10,7 @@ moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
 tagline: Image Recognition for Prescription Pills
-groupName: National Library of Medicine
+groupName: Department of Health and Human Services - National Institutes of Health
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
