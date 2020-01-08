@@ -24,7 +24,7 @@ submission-start: 10/26/2015 12:00 AM
 fiscal-year: FY 2016
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '1,500,000'
+total-prize-offered-cash: '$1,500,000'
 campaign-owner: Monsi Roman
 public-voting-start-date: ''
 legal-authority: Space Act

@@ -87,7 +87,7 @@ submission-start: 01/11/2016 12:00 PM
 fiscal-year: FY 2016
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '125,000'
+total-prize-offered-cash: '$125,000'
 campaign-owner: Matthew Stevens
 public-voting-start-date: ''
 legal-authority: America COMPETES

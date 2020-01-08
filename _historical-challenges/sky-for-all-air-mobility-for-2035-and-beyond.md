@@ -24,7 +24,7 @@ submission-start: 12/17/2015 12:00 AM
 fiscal-year: FY 2016
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '15,000'
+total-prize-offered-cash: '$15,000'
 campaign-owner: Allison Wolff
 public-voting-start-date: ''
 legal-authority: Procurement Authority

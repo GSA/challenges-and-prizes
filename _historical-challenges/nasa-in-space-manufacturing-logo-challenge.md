@@ -23,7 +23,7 @@ submission-start: 03/24/2016 12:00 AM
 fiscal-year: FY 2016
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '300'
+total-prize-offered-cash: '$300'
 campaign-owner: Steven Rader
 public-voting-start-date: ''
 legal-authority: Procurement Authority

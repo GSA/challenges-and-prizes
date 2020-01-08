@@ -24,7 +24,7 @@ submission-start: 06/13/2016 09:00 AM
 fiscal-year: FY 2016
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '100000'
+total-prize-offered-cash: '$100,000'
 campaign-owner: " Irina Sazonova, Ph.D."
 public-voting-start-date: ''
 legal-authority: America COMPETES
