@@ -90,7 +90,7 @@ campaignAttributes:
     show-winners-instead-of-prizes: 'No'
     estimated-value-of-partner-contributions: ''
     non-monetary-incentives-awarded: ''
-    partner-agencies-federal: '0'
+    partner-agencies-federal: ''
     judging-end-date: 02/12/2016 12:00 AM
     solicitation-methods: ''
     advancing-the-agency-mission: ''

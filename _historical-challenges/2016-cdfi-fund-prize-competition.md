@@ -66,7 +66,7 @@ non-monetary-incentives-awarded: "The CDFI Fund tentatively expects to award up
   to a total of $1 million divided among approximately four winners.\r\n\r\nJudges
   may also select entries for Honorable Mention based on the judging criteria
   in order to highlight and promote success stories and best practices. "
-partner-agencies-federal: '0'
+partner-agencies-federal: ''
 judging-end-date: '08/31/2016 05:00 PM'
 solicitation-methods: ''
 advancing-the-agency-mission: ''
