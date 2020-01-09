@@ -368,23 +368,18 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: '<b><em>You are invited to compete in "Generation Nano: Small Science,
+description: '<p><b><em>You are invited to compete in "Generation Nano: Small Science,
   Superheroes," a competition that asks individual high school students to submit
   an original idea for a superhero, using modern nanotechnology research to inspire
   unique "gear" for their hero. Students will submit a short written entry, as well
   as a short video or comic, that illustrates their superhero''s nanotechnology-enabled
   gear. Winners will receive cash prizes and the opportunity to showcase their creation
-  at the 2016 USA Science &amp; Engineering Festival in Washington, D.C.</em></b>    The
-  idea of the superhero armed with their fantastical powers has served to mesmerize
+  at the 2016 USA Science &amp; Engineering Festival in Washington, D.C.</em></b></p>    <p>The idea of the superhero armed with their fantastical powers has served to mesmerize
   the world for nearly a century. The ability to fly, cling to walls with bare hands,
   and see with X-ray vision is popularly interpreted as a supposition based on no
   solid foundation. Often, superhero abilities appear magical rather than being grounded
-  in science and technology. As we make advances in nanotechnology and materials research,
-  we''re discovering that superhero powers may not be that farfetched. Through nanotechnology
-  applications like targeted drugs, self-assembled nanodevices, molecular motors,
-  graphene in electrical supercapacitors, and artificial red blood cells, we may not
-  have to wait until that fateful day we''re bitten by a radioactive spider in order
-  to become superhuman!    The National Science Foundation (NSF) and the National
+  in science and technology. As we make advances in nanotechnology and materials research, we''re discovering that superhero powers may not be that farfetched.</p> <p>Through nanotechnology applications like targeted drugs, self-assembled nanodevices, molecular motors, graphene in electrical supercapacitors, and artificial red blood cells, we may not have to wait until that fateful day we''re bitten by a radioactive spider in order
+  to become superhuman!</p>    <p>The National Science Foundation (NSF) and the National
   Nanotechnology Initiative (NNI) are excited to introduce "Generation Nano: Small
   Science, Superheroes!" This competition asks high school students to design a costume,
   gadget, vehicle or other gear for an original superhero that uses technology extrapolated
@@ -392,7 +387,7 @@ description: '<b><em>You are invited to compete in "Generation Nano: Small Scien
   about the potential and limitations of real world nanotechnology. Students will
   submit a written entry explaining their superhero and how they have incorporated
   nanotechnology research into their hero''s gear, as well as either a short comic
-  strip or video introducing the superhero.'
+  strip or video introducing the superhero.</p>'
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
