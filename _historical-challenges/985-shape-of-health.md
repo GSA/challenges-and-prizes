@@ -155,7 +155,7 @@ challenge-manager-email: Ann.Abercrombie@hhs.gov
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p>The submission period for Phase 1 of this challenge has closed.</p>
+<p>Phase 1 and Phase 2 of this challenge have closed.</p>
 <p>The winners of Phase 1 are:</p>
 <ul>
 <li>&ldquo;FitHer&rdquo; submitted by Camilo Ruiz</li>
@@ -169,4 +169,19 @@ challenge-manager-email: Ann.Abercrombie@hhs.gov
 <li>&ldquo;Frolic: Increasing active play among girls&rdquo; submitted by Melissa Kalarchian</li>
 <li>&ldquo;Shape Up: Support Obesity Prevention Among Teen Girls&rdquo; submitted by Olufunmilola Abraham</li>
 </ul>
-<p>Please see the Description section for details on Phases 2 and 3.</p>
+<p>The winners of Phase 2 are:</p>
+<p>First prize:</p>
+<ul>
+<li>&ldquo;Frolic: Increasing active play among girls&rdquo; submitted by Melissa Kalarchian and Jessica Hammer</li>
+<li>&ldquo;Well Spent&rdquo; submitted by Tarathorn Boongamanong and Panote Nuchprayoon</li>
+</ul>
+<p>Second prize:</p>
+<ul>
+<li>&ldquo;Florine: Teaching Healthy Diet Strategies for Women&rdquo; submitted by Jasmine Sears</li>
+<li>&ldquo;Monster Appetite &ndash; a subversive game for obesity prevention&rdquo; submitted by Maria Hwang</li>
+</ul>
+<p>Third prize:</p>
+<ul>
+<li>&ldquo;Chef&rsquo;s Cookbook&rdquo; submitted by Samantha Rasnic</li>
+</ul>
+<p>Please see the Description section for details on Phases 3.</p>
