@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/FAA-Challenge-Smart-Airport-Student-Competition/
 challenge-id: 1066
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/FAA_logo.jpg
 agency-logo: FAA_seal.png
@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $25,000
 type-of-challenge: Ideas; Software and apps
-submission-start: 2019/09/16 12:00 AM
-submission-end: 2020/01/13 11:59 PM
+submission-start: 09/16/2019 12:00 AM
+submission-end: 01/13/2020 11:59 PM
 submission-link:  
 prizes: true
 fiscal-year: FY19, FY20
