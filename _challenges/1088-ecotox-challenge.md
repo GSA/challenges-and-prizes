@@ -99,7 +99,7 @@ challenge-manager-email: villeneuve.dan@epa.gov
 <p><strong>Quality control: </strong>Does the platform contain a quality control system that addresses consistency within and between samples and is consistent with current standards used within various platforms for transcriptomic analyses?</p>
 <p>o E.g., Microarray chip-based platforms should contain hybridization controls, redundant positional controls to evaluate edge effects, etc.</p>
 <p>o E.g., RNA-seq platforms provide number of reads per sample, base quality score by cycle, nucleotide distribution by cycle, GC content, etc.</p>
-<p>o Note &ndash; scoring for this category will require subjectivity from the judging panel</p>
+<p>o Note &ndash; Scoring for this category will require subjectivity from the judging panel.</p>
 </td>
 <td width="15%">
 <p>0 to 5</p>
@@ -223,7 +223,7 @@ challenge-manager-email: villeneuve.dan@epa.gov
 <tr>
 <td width="72%">
 <p><strong>Approach and annotation: </strong></p>
-<p>o Is the approach taken for detection and quantification of transcript expression adequately described? (e.g., whether the platform employs a targeted or non-targeted analysis and the general means by which the platform detects and quantifies transcript presence and abundance)</p>
+<p>o Is the approach taken for detection and quantification of transcript expression adequately described? (e.g., whether the platform employs a targeted or non-targeted analysis and the general means by which the platform detects and quantifies transcript presence and abundance)?</p>
 <p>o Are annotation files provided with each platform/species that contain the required information and link to the data files?</p>
 </td>
 <td width="15%">
@@ -246,7 +246,7 @@ challenge-manager-email: villeneuve.dan@epa.gov
 </tr>
 <tr>
 <td width="72%">
-<p><strong>Species coverage: </strong></p>Did the solvers provide a platform and reference sample data for all four species?</p>
+<p><strong>Species coverage: </strong>Did the solvers provide a platform and reference sample data for all four species?</p>
 </td>
 <td width="15%">
 <p>Y or N</p>
