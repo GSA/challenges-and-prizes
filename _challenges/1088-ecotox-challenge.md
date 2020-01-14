@@ -4,7 +4,7 @@ permalink: /challenge/ecotox-challenge/
 challenge-id: 1088
 status: open
 sidenav: true
-card-image: /assets/images/cards/challenge-gov.png
+card-image: /assets/images/cards/EcoTox_TARGET_Logo.png
 agency-logo: 256px-Environmental_Protection_Agency_logo.png
 challenge-title: EcoTox Technology Advancing Rapid Gene Expression-based Testing (TARGET) Challenge
 tagline:
@@ -73,7 +73,7 @@ challenge-manager-email: villeneuve.dan@epa.gov
 <p>Submissions will be judged based on data generated for a common set of blinded reference samples provided to all Solvers and an accompanying Technology Description Template.</p>
 <h4>Scoring Overview</h4>
 <p>Scoring will be based on the weighted (% of total score) criteria provided in the tables below. Each criterion is scored based on either a nominal or fractional scale of 0-5 with 0 being the lowest and 5 being the highest, or by pass/fail with 5 being pass and 0 being fail.</p>
-<table width="99%">
+<table width="99%" class="usa-table">
 <tbody>
 <tr>
 <td width="72%">
@@ -89,9 +89,9 @@ challenge-manager-email: villeneuve.dan@epa.gov
 <tr>
 <td width="72%">
 <p><strong>Quality control: </strong>Does the platform contain a quality control system that addresses consistency within and between samples and is consistent with current standards used within various platforms for transcriptomic analyses?</p>
-<p>o&nbsp;&nbsp; E.g., Microarray chip-based platforms should contain hybridization controls, redundant positional controls to evaluate edge effects, etc.</p>
-<p>o&nbsp;&nbsp; E.g., RNA-seq platforms provide number of reads per sample, base quality score by cycle, nucleotide distribution by cycle, GC content, etc.</p>
-<p>o&nbsp;&nbsp; Note &ndash; scoring for this category will require subjectivity from the judging panel</p>
+<p>o E.g., Microarray chip-based platforms should contain hybridization controls, redundant positional controls to evaluate edge effects, etc.</p>
+<p>o E.g., RNA-seq platforms provide number of reads per sample, base quality score by cycle, nucleotide distribution by cycle, GC content, etc.</p>
+<p>o Note &ndash; scoring for this category will require subjectivity from the judging panel</p>
 </td>
 <td width="15%">
 <p>0 to 5</p>
@@ -136,13 +136,13 @@ challenge-manager-email: villeneuve.dan@epa.gov
 <tr>
 <td width="72%">
 <p><strong>Quantity of RNA: </strong>Was the quantity of reference RNA used per analysis tracked and reported (Y = points awarded; N=0 points)?</p>
-<p>o&nbsp;&nbsp; Results generated using &lt; 1 &micro;g total RNA = 2 pts</p>
-<p>o&nbsp;&nbsp; Results generated using &lt; 0.25 &micro;g total RNA = 1 pt</p>
-<p>o&nbsp;&nbsp; Results generated using &lt; 0.1 &micro;g total RNA = 1 pt</p>
-<p>o&nbsp;&nbsp; Results generated using &lt; 0.01 &micro;g total RNA = 1 pt</p>
+<p>o Results generated using &lt; 1 &micro;g total RNA = 2 pts</p>
+<p>o Results generated using &lt; 0.25 &micro;g total RNA = 1 pt</p>
+<p>o Results generated using &lt; 0.1 &micro;g total RNA = 1 pt</p>
+<p>o Results generated using &lt; 0.01 &micro;g total RNA = 1 pt</p>
 </td>
 <td width="15%">
-<p>&nbsp;(0 to 5)</p>
+<p>&nbsp;0 to 5</p>
 </td>
 <td width="12%">
 <p>5%</p>
@@ -150,8 +150,8 @@ challenge-manager-email: villeneuve.dan@epa.gov
 </tr>
 </tbody>
 </table>
-<p><strong><u>&nbsp;</u></strong></p>
-<table width="99%">
+<hr>
+<table width="99%" class="usa-table">
 <tbody>
 <tr>
 <td width="72%">
@@ -167,14 +167,16 @@ challenge-manager-email: villeneuve.dan@epa.gov
 <tr>
 <td width="72%">
 <p><strong>Economic viability </strong> (i.e., cost per sample, including downstream data analysis cost): </p>
-<p>o&nbsp;&nbsp; Is the cost of sample preparation and per sample supply and reagent costs for conducting the sample analysis and generating the data provided? If proprietary downstream data analysis software is required, include a per-sample adjustment to overall sample cost based on software license cost.</p>
-<p>o&nbsp;&nbsp; Total per-sample cost is</p>
-<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp; </strong>$20 or less = 5 pts</p>
-<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp; </strong>&gt;$20-$30 = 4 pts.</p>
-<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iii.&nbsp;&nbsp;&nbsp;&nbsp; </strong>&gt;$30-$50 = 3 pts.</p>
-<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iv.&nbsp;&nbsp;&nbsp;&nbsp; </strong>&gt;$50-$75 = 2 pts.</p>
-<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; v.&nbsp;&nbsp;&nbsp;&nbsp; </strong>&gt;$75-$100 = 1 pt.</p>
-<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; vi.&nbsp;&nbsp;&nbsp;&nbsp; </strong>&gt;$100 = 0 pts.</p>
+<p>o Is the cost of sample preparation and per sample supply and reagent costs for conducting the sample analysis and generating the data provided? If proprietary downstream data analysis software is required, include a per-sample adjustment to overall sample cost based on software license cost.</p>
+<p>o Total per-sample cost is</p>
+<ul>
+  <li>i. $20 or less = 5 pts</li>
+  <li>ii. &gt;$20-$30 = 4 pts.</li>
+  <li>iii. &gt;$30-$50 = 3 pts.</li>
+  <li>iv. &gt;$50-$75 = 2 pts.</li>
+  <li>v. &gt;$75-$100 = 1 pt.</li>
+  <li>vi. &gt;$100 = 0 pts.</li>
+  </ul>
 </td>
 <td width="15%">
 <p>0 to 5</p>
@@ -185,7 +187,7 @@ challenge-manager-email: villeneuve.dan@epa.gov
 </tr>
 <tr>
 <td width="72%">
-<p><strong>Commercial viability and throughput capability: </strong></p>Is there a reasonable demonstration/description of how and when the Solver would be able to meet the potential throughput requirements of HTP sample generation?&nbsp;</p>
+<p><strong>Commercial viability and throughput capability: </strong></p>Is there a reasonable demonstration/description of how and when the Solver would be able to meet the potential throughput requirements of HTP sample generation?</p>
 </td>
 <td width="15%">
 <p>0 to 5</p>
@@ -196,8 +198,8 @@ challenge-manager-email: villeneuve.dan@epa.gov
 </tr>
 </tbody>
 </table>
-<p><strong><u>&nbsp;</u></strong></p>
-<table width="99%">
+<hr>
+<table width="99%" class="usa-table">
 <tbody>
 <tr>
 <td width="72%">
@@ -212,9 +214,9 @@ challenge-manager-email: villeneuve.dan@epa.gov
 </tr>
 <tr>
 <td width="72%">
-<p> <strong>Approach and annotation: </strong></p>
-<p>o&nbsp;&nbsp; Is the approach taken for detection and quantification of transcript expression adequately described? (e.g., whether the platform employs a targeted or non-targeted analysis and the general means by which the platform detects and quantifies transcript presence and abundance)</p>
-<p>o&nbsp;&nbsp; Are annotation files provided with each platform/species that contain the required information and link to the data files?</p>
+<p><strong>Approach and annotation: </strong></p>
+<p>o Is the approach taken for detection and quantification of transcript expression adequately described? (e.g., whether the platform employs a targeted or non-targeted analysis and the general means by which the platform detects and quantifies transcript presence and abundance)</p>
+<p>o Are annotation files provided with each platform/species that contain the required information and link to the data files?</p>
 </td>
 <td width="15%">
 <p>0 to 5</p>
@@ -248,7 +250,6 @@ challenge-manager-email: villeneuve.dan@epa.gov
 </tbody>
 </table>
 <p>*Eligible submissions will include platforms, data and associated required information for all four species.</p>
-<p>&nbsp;</p>
 
 <!--  How To Enter start -->
 ### How To Enter
