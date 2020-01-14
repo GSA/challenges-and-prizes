@@ -31,17 +31,14 @@ challenge-manager-email: villeneuve.dan@epa.gov
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>This challenge calls for respondents to develop high quality, low cost, technologies/platforms for evaluating global gene expression in samples from four common aquatic toxicity test organisms: Pimephales promelas (a fish), Daphnia magna (a crustacean), Chironomous dilutus (an insect; formerly Chironomous tentans), and Raphidocelis subcapitata (a green algae). These represent species and associated trophic levels most frequently tested when evaluating the ecological hazards of chemicals. While there are many extant, viable, technologies for measuring global gene expression, the significant technological leap and challenge to the solver community is to provide these capabilities at a cost and scale of commercial throughput that can accommodate the analysis of thousands or tens of thousands of samples per year. A target price point is $50 per sample or less.</p>
-<h4>Key Dates<h4>
-  <p><strong>Informational Webinar</strong></p>
-  <p>12:00 p.m. ET, February 18, 2020</p>
-  <p><strong>Kick-off Webinar for Registered Solvers</strong></p>
-  <p>12:00 p.m. ET, March 19, 2020</p>
-  <p><strong>Submission Start</strong></p>
-  <p>12:00 p.m. ET, March 19, 2020</p>
-  <p><strong>Registration Closes</strong></p>
-  <p><strong>11:59 p.m. ET, March 16,2020</p>
-  <p>strong>Submission End</strong></p>
-  <p>11:59 p.m. ET June 15, 2021</p>
+ <p><strong>Key Dates:</strong></p>
+ <ul>
+   <li>Informational Webinar: 12:00 p.m. ET, February 18, 2020</li>
+   <li>Kick-off Webinar for Registered Solvers: 12:00 p.m. ET, March 19, 2020</li>
+   <li>Submission Start: 12:00 p.m. ET, March 19, 2020</li>
+   <li>Registration Closes: 11:59 p.m. ET, March 16,2020</li>
+  <li>Submission End: 11:59 p.m. ET June 15, 2021</li>
+  </ul>
 
 <!-- Prizes start -->
 ### Prizes
