@@ -4,10 +4,10 @@ permalink: /challenge/ecotox-challenge/
 challenge-id: 1088
 status: open
 sidenav: true
-card-image: /assets/images/cards/EcoTox_TARGET_Logo_small.png
+card-image: /assets/images/cards/EcoTox_EPA_341x105.png
 agency-logo: 256px-Environmental_Protection_Agency_logo.png
-challenge-title: EcoTox Technology Advancing Rapid Gene Expression-based Testing (TARGET) Challenge
-tagline:
+challenge-title: EcoTox TARGET Challenge
+tagline: Develop high quality, low-cost tools that assess global gene expression in common aquatic toxicity test organisms
 agency: Environmental Protection Agency
 partner-agencies-federal: U.S. Army Engineer Research and Development Center, Environment and Climate Change Canada
 partners-non-federal: Syngenta, DoW, European Commission Joint Research Centre
@@ -19,7 +19,7 @@ submission-end: 2021/06/15 11:59 p.m.
 submission-link: http://www.epa.gov/innovation/EcoTox-Target-Challenge
 prizes: true
 fiscal-year: FY20, FY21
-legal-authority:
+legal-authority: Section 20 of the Federal Insecticide, Fungicide, and Rodenticide Act, 7 U.S.C. 136r; Section 10 of the Toxic Substances Control Act, 15 U.S.C. 2609; as well as Section 104 of the Clean Water Act, 33 U.S.C. 1254
 challenge-manager: Denice Shaw, shaw.denice@epa.gov
 challenge-manager-email: villeneuve.dan@epa.gov
 ---
@@ -195,7 +195,7 @@ challenge-manager-email: villeneuve.dan@epa.gov
 </tr>
 <tr>
 <td width="72%">
-<p><strong>Commercial viability and throughput capability: </strong></p>Is there a reasonable demonstration/description of how and when the Solver would be able to meet the potential throughput requirements of HTP sample generation?</p>
+<p><strong>Commercial viability and throughput capability: </strong>Is there a reasonable demonstration/description of how and when the Solver would be able to meet the potential throughput requirements of HTP sample generation?</p>
 </td>
 <td width="15%">
 <p>0 to 5</p>
