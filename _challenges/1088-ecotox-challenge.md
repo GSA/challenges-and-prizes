@@ -89,9 +89,9 @@ challenge-manager-email: villeneuve.dan@epa.gov
 <tr>
 <td width="72%">
 <p><strong>Quality control: </strong>Does the platform contain a quality control system that addresses consistency within and between samples and is consistent with current standards used within various platforms for transcriptomic analyses?</p>
-<p>o E.g., Microarray chip-based platforms should contain hybridization controls, redundant positional controls to evaluate edge effects, etc.</p>
-<p>o E.g., RNA-seq platforms provide number of reads per sample, base quality score by cycle, nucleotide distribution by cycle, GC content, etc.</p>
-<p>o Note &ndash; scoring for this category will require subjectivity from the judging panel.</p>
+<p>o&nbsp;&nbsp; E.g., Microarray chip-based platforms should contain hybridization controls, redundant positional controls to evaluate edge effects, etc.</p>
+<p>o&nbsp;&nbsp; E.g., RNA-seq platforms provide number of reads per sample, base quality score by cycle, nucleotide distribution by cycle, GC content, etc.</p>
+<p>o&nbsp;&nbsp; Note &ndash; scoring for this category will require subjectivity from the judging panel</p>
 </td>
 <td width="15%">
 <p>0 to 5</p>
@@ -102,7 +102,7 @@ challenge-manager-email: villeneuve.dan@epa.gov
 </tr>
 <tr>
 <td width="72%">
-  <p><strong>Data collection/extraction: </strong>Are the data collection/extraction methods and expression normalization/quantification methods described in adequate detail? Are they compatible with the ToxCast high throughput transcriptomics data analysis pipeline?</p>
+<p><strong>Data collection/extraction: </strong>Are the data collection/extraction methods and expression normalization/quantification methods described in adequate detail? Are they compatible with the ToxCast high throughput transcriptomics data analysis pipeline?</p>
 </td>
 <td width="15%">
 <p>0 to 5</p>
@@ -135,14 +135,14 @@ challenge-manager-email: villeneuve.dan@epa.gov
 </tr>
 <tr>
 <td width="72%">
-<p><strong>Quantity of RNA: </strong>Was the quantity of reference RNA used per analysis tracked and reported (Y = points awarded; N=0 points)?</p>
-<p>o Results generated using &lt; 1 &micro;g total RNA = 2 pts</p>
-<p>o Results generated using &lt; 0.25 &micro;g total RNA = 1 pt</p>
-<p>o Results generated using &lt; 0.1 &micro;g total RNA = 1 pt</p>
-<p>o Results generated using &lt; 0.01 &micro;g total RNA = 1 pt</p>
+<p><strong>Quantity of RNA</strong>: Was the quantity of reference RNA used per analysis tracked and reported (Y = points awarded; N=0 points)?</p>
+<p>o&nbsp;&nbsp; Results generated using &lt; 1 &micro;g total RNA = 2 pts</p>
+<p>o&nbsp;&nbsp; Results generated using &lt; 0.25 &micro;g total RNA = 1 pt</p>
+<p>o&nbsp;&nbsp; Results generated using &lt; 0.1 &micro;g total RNA = 1 pt</p>
+<p>o&nbsp;&nbsp; Results generated using &lt; 0.01 &micro;g total RNA = 1 pt</p>
 </td>
 <td width="15%">
-<p>0 to 5</p>
+<p>&nbsp;0 to 5</p>
 </td>
 <td width="12%">
 <p>5%</p>
@@ -167,16 +167,14 @@ challenge-manager-email: villeneuve.dan@epa.gov
 <tr>
 <td width="72%">
 <p><strong>Economic viability: </strong>(i.e., cost per sample, including downstream data analysis cost)</p>
-<p>o Is the cost of sample preparation and per sample supply and reagent costs for conducting the sample analysis and generating the data provided? If proprietary downstream data analysis software is required, include a per-sample adjustment to overall sample cost based on software license cost.</p>
-<p>o Total per-sample cost is</p>
-<ul>
-  <li>i. $20 or less = 5 pts</li>
-  <li>ii. $20-$30 = 4 pts.</li>
-  <li>iii. $30-$50 = 3 pts.</li>
-  <li>iv. $50-$75 = 2 pts.</li>
-  <li>v. $75-$100 = 1 pt.</li>
-  <li>vi. $100 = 0 pts.</li>
-  </ul>
+<p>o&nbsp;&nbsp; Is the cost of sample preparation and per sample supply and reagent costs for conducting the sample analysis and generating the data provided? If proprietary downstream data analysis software is required, include a per-sample adjustment to overall sample cost based on software license cost.</p>
+<p>o&nbsp;&nbsp; Total per-sample cost is</p>
+<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp; </strong>$20 or less = 5 pts</p>
+<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp; </strong>&gt;$20-$30 = 4 pts.</p>
+<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iii.&nbsp;&nbsp;&nbsp;&nbsp; </strong>&gt;$30-$50 = 3 pts.</p>
+<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iv.&nbsp;&nbsp;&nbsp;&nbsp; </strong>&gt;$50-$75 = 2 pts.</p>
+<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; v.&nbsp;&nbsp;&nbsp;&nbsp; </strong>&gt;$75-$100 = 1 pt.</p>
+<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; vi.&nbsp;&nbsp;&nbsp;&nbsp; </strong>&gt;$100 = 0 pts.</p>
 </td>
 <td width="15%">
 <p>0 to 5</p>
@@ -187,7 +185,7 @@ challenge-manager-email: villeneuve.dan@epa.gov
 </tr>
 <tr>
 <td width="72%">
-<p><strong>Commercial viability and throughput capability: </strong> Is there a reasonable demonstration/description of how and when the Solver would be able to meet the potential throughput requirements of HTP sample generation?</p>
+<p><strong>Commercial viability and throughput capability: </strong>Is there a reasonable demonstration/description of how and when the Solver would be able to meet the potential throughput requirements of HTP sample generation?</p>
 </td>
 <td width="15%">
 <p>0 to 5</p>
@@ -215,8 +213,8 @@ challenge-manager-email: villeneuve.dan@epa.gov
 <tr>
 <td width="72%">
 <p><strong>Approach and annotation</strong></p>
-<p>o Is the approach taken for detection and quantification of transcript expression adequately described? (e.g., whether the platform employs a targeted or non-targeted analysis and the general means by which the platform detects and quantifies transcript presence and abundance)</p>
-<p>o Are annotation files provided with each platform/species that contain the required information and link to the data files?</p>
+<p>o&nbsp;&nbsp; Is the approach taken for detection and quantification of transcript expression adequately described? (e.g., whether the platform employs a targeted or non-targeted analysis and the general means by which the platform detects and quantifies transcript presence and abundance)</p>
+<p>o&nbsp;&nbsp; Are annotation files provided with each platform/species that contain the required information and link to the data files?</p>
 </td>
 <td width="15%">
 <p>0 to 5</p>
