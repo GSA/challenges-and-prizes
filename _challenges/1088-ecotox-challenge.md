@@ -77,7 +77,7 @@ challenge-manager-email: villeneuve.dan@epa.gov
 <tbody>
 <tr>
 <td width="72%">
-<p><strong>1. Quality and performance</strong></p>
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Quality and performance</strong></p>
 </td>
 <td width="15%">
 <p>Points</p>
@@ -88,7 +88,7 @@ challenge-manager-email: villeneuve.dan@epa.gov
 </tr>
 <tr>
 <td width="72%">
-<p><strong>Quality control: </strong>Does the platform contain a quality control system that addresses consistency within and between samples and is consistent with current standards used within various platforms for transcriptomic analyses?</p>
+<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Quality control</strong>:&nbsp; Does the platform contain a quality control system that addresses consistency within and between samples and is consistent with current standards used within various platforms for transcriptomic analyses?</p>
 <p>o&nbsp;&nbsp; E.g., Microarray chip-based platforms should contain hybridization controls, redundant positional controls to evaluate edge effects, etc.</p>
 <p>o&nbsp;&nbsp; E.g., RNA-seq platforms provide number of reads per sample, base quality score by cycle, nucleotide distribution by cycle, GC content, etc.</p>
 <p>o&nbsp;&nbsp; Note &ndash; scoring for this category will require subjectivity from the judging panel</p>
@@ -102,7 +102,7 @@ challenge-manager-email: villeneuve.dan@epa.gov
 </tr>
 <tr>
 <td width="72%">
-<p><strong>Data collection/extraction: </strong>Are the data collection/extraction methods and expression normalization/quantification methods described in adequate detail? Are they compatible with the ToxCast high throughput transcriptomics data analysis pipeline?</p>
+<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Data collection/extraction</strong>: Are the data collection/extraction methods and expression normalization/quantification methods described in adequate detail? Are they compatible with the ToxCast high throughput transcriptomics data analysis pipeline?</p>
 </td>
 <td width="15%">
 <p>0 to 5</p>
@@ -113,7 +113,7 @@ challenge-manager-email: villeneuve.dan@epa.gov
 </tr>
 <tr>
 <td width="72%">
-<p><strong>Precision: </strong>Precision will be determined by evaluating 1) coefficients of variation of gene expression values across unblinded technical duplicates, 2) correlation analysis of fold-change profiles between selected reference samples, resulting in a metric of concordance, and 3) clustering unblinded reference samples when analyzed together with all conditions. Results from these three analyses will be normalized and merged into a multiplier between 0-1 that will be used to determine the total score between 0-5.</p>
+<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Precision</strong>: Precision will be determined by evaluating 1) coefficients of variation of gene expression values across unblinded technical duplicates, 2) correlation analysis of fold-change profiles between selected reference samples, resulting in a metric of concordance, and 3) clustering unblinded reference samples when analyzed together with all conditions. Results from these three analyses will be normalized and merged into a multiplier between 0-1 that will be used to determine the total score between 0-5.</p>
 </td>
 <td width="15%">
 <p>multiplier x 5</p>
@@ -124,7 +124,7 @@ challenge-manager-email: villeneuve.dan@epa.gov
 </tr>
 <tr>
 <td width="72%">
-<p><strong>Accuracy: </strong>Accuracy will be determined by evaluating 1) the percent concordance between fold-change values determined by Solver data compared to the fold-change values determined by pre-qualification. Results to determine the total score between 0-5.</p>
+<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Accuracy</strong>: Accuracy will be determined by evaluating 1) the percent concordance between fold-change values determined by Solver data compared to the fold-change values determined by pre-qualification. Results to determine the total score between 0-5.</p>
 </td>
 <td width="15%">
 <p>0 to 5</p>
@@ -135,14 +135,15 @@ challenge-manager-email: villeneuve.dan@epa.gov
 </tr>
 <tr>
 <td width="72%">
-<p><strong>Quantity of RNA</strong>: Was the quantity of reference RNA used per analysis tracked and reported (Y = points awarded; N=0 points)?</p>
+<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Quantity of RNA</strong>: Was the quantity of reference RNA used per analysis tracked and reported (Y = points awarded; N=0 points)?</p>
 <p>o&nbsp;&nbsp; Results generated using &lt; 1 &micro;g total RNA = 2 pts</p>
 <p>o&nbsp;&nbsp; Results generated using &lt; 0.25 &micro;g total RNA = 1 pt</p>
 <p>o&nbsp;&nbsp; Results generated using &lt; 0.1 &micro;g total RNA = 1 pt</p>
 <p>o&nbsp;&nbsp; Results generated using &lt; 0.01 &micro;g total RNA = 1 pt</p>
+<p>&nbsp;</p>
 </td>
 <td width="15%">
-<p>&nbsp;0 to 5</p>
+<p>&nbsp;(0 to 5)</p>
 </td>
 <td width="12%">
 <p>5%</p>
@@ -150,12 +151,13 @@ challenge-manager-email: villeneuve.dan@epa.gov
 </tr>
 </tbody>
 </table>
-<hr>
+<p><strong><u>&nbsp;</u></strong></p>
+<p><strong><u>&nbsp;</u></strong></p>
 <table width="99%">
 <tbody>
 <tr>
 <td width="72%">
-<p><strong>2. Economic and commercial viability</strong></p>
+<p><strong>2.&nbsp;&nbsp;&nbsp; </strong><strong>Economic and commercial viability</strong></p>
 </td>
 <td width="15%">
 <p>Points</p>
@@ -166,7 +168,7 @@ challenge-manager-email: villeneuve.dan@epa.gov
 </tr>
 <tr>
 <td width="72%">
-<p><strong>Economic viability: </strong>(i.e., cost per sample, including downstream data analysis cost)</p>
+<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Economic viability</strong> (i.e., cost per sample, including downstream data analysis cost)</p>
 <p>o&nbsp;&nbsp; Is the cost of sample preparation and per sample supply and reagent costs for conducting the sample analysis and generating the data provided? If proprietary downstream data analysis software is required, include a per-sample adjustment to overall sample cost based on software license cost.</p>
 <p>o&nbsp;&nbsp; Total per-sample cost is</p>
 <p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp; </strong>$20 or less = 5 pts</p>
@@ -185,7 +187,8 @@ challenge-manager-email: villeneuve.dan@epa.gov
 </tr>
 <tr>
 <td width="72%">
-<p><strong>Commercial viability and throughput capability: </strong>Is there a reasonable demonstration/description of how and when the Solver would be able to meet the potential throughput requirements of HTP sample generation?</p>
+<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Commercial viability and throughput capability</strong></p>
+<p>o&nbsp;&nbsp; Is there a reasonable demonstration/description of how and when the Solver would be able to meet the potential throughput requirements of HTP sample generation?&nbsp;</p>
 </td>
 <td width="15%">
 <p>0 to 5</p>
@@ -196,12 +199,13 @@ challenge-manager-email: villeneuve.dan@epa.gov
 </tr>
 </tbody>
 </table>
-<hr>
+<p><strong><u>&nbsp;</u></strong></p>
+<p><strong><u>&nbsp;</u></strong></p>
 <table width="99%">
 <tbody>
 <tr>
 <td width="72%">
-<p><strong>3. Coverage</strong></p>
+<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Coverage</strong></p>
 </td>
 <td width="15%">
 <p>Points</p>
@@ -212,7 +216,7 @@ challenge-manager-email: villeneuve.dan@epa.gov
 </tr>
 <tr>
 <td width="72%">
-<p><strong>Approach and annotation</strong></p>
+<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Approach and annotation</strong></p>
 <p>o&nbsp;&nbsp; Is the approach taken for detection and quantification of transcript expression adequately described? (e.g., whether the platform employs a targeted or non-targeted analysis and the general means by which the platform detects and quantifies transcript presence and abundance)</p>
 <p>o&nbsp;&nbsp; Are annotation files provided with each platform/species that contain the required information and link to the data files?</p>
 </td>
@@ -225,7 +229,8 @@ challenge-manager-email: villeneuve.dan@epa.gov
 </tr>
 <tr>
 <td width="72%">
-<p><strong>Transcriptome coverage: </strong>What proportion of transcriptome coverage do the platforms have in relation to the pre-qualification standards? The mean percent coverage will be calculated across the four species&rsquo; platforms and used as a multiplier to determine point value.</p>
+<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Transcriptome coverage</strong></p>
+<p>o&nbsp;&nbsp; What proportion of transcriptome coverage do the platforms have in relation to the pre-qualification standards? The mean percent coverage will be calculated across the four species&rsquo; platforms and used as a multiplier to determine point value.</p>
 </td>
 <td width="15%">
 <p>multiplier x 5</p>
@@ -236,7 +241,8 @@ challenge-manager-email: villeneuve.dan@epa.gov
 </tr>
 <tr>
 <td width="72%">
-<p><strong>Species coverage: </strong>Did the solvers provide a platform and reference sample data for all four species?</p>
+<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Species coverage</strong></p>
+<p>o&nbsp;&nbsp; Did the solvers provide a platform and reference sample data for all four species?</p>
 </td>
 <td width="15%">
 <p>Y or N</p>
@@ -248,6 +254,7 @@ challenge-manager-email: villeneuve.dan@epa.gov
 </tbody>
 </table>
 <p>*Eligible submissions will include platforms, data and associated required information for all four species.</p>
+<p>&nbsp;</p>
 
 <!--  How To Enter start -->
 ### How To Enter
