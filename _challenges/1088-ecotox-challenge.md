@@ -5,7 +5,7 @@ challenge-id: 1088
 status: open
 sidenav: true
 card-image: /assets/images/cards/challenge-gov.png
-agency-logo:
+agency-logo: 256px-Environmental_Protection_Agency_logo.png
 challenge-title: EcoTox Technology Advancing Rapid Gene Expression-based Testing (TARGET) Challenge
 tagline:
 agency: Environmental Protection Agency
@@ -30,36 +30,33 @@ challenge-manager-email: villeneuve.dan@epa.gov
 ### Description
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p>This challenge calls for respondents to develop high quality, low cost, technologies/platforms for evaluating global gene expression in samples from four common aquatic toxicity test organisms:  Pimephales promelas (a fish), Daphnia magna (a crustacean), Chironomous dilutus (an insect; formerly Chironomous tentans), and Raphidocelis subcapitata (a green algae). These represent species and associated trophic levels most frequently tested when evaluating the ecological hazards of chemicals.  While there are many extant, viable, technologies for measuring global gene expression, the significant technological leap and challenge to the solver community is to provide these capabilities at a cost and scale of commercial throughput that can accommodate the analysis of thousands or tens of thousands of samples per year. A target price point is $50 per sample or less.</p>
+<p>This challenge calls for respondents to develop high quality, low cost, technologies/platforms for evaluating global gene expression in samples from four common aquatic toxicity test organisms: Pimephales promelas (a fish), Daphnia magna (a crustacean), Chironomous dilutus (an insect; formerly Chironomous tentans), and Raphidocelis subcapitata (a green algae). These represent species and associated trophic levels most frequently tested when evaluating the ecological hazards of chemicals. While there are many extant, viable, technologies for measuring global gene expression, the significant technological leap and challenge to the solver community is to provide these capabilities at a cost and scale of commercial throughput that can accommodate the analysis of thousands or tens of thousands of samples per year. A target price point is $50 per sample or less.</p>
 
 <!-- Prizes start -->
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<h4>Total Cash Prize Pool</h4>
-<p>The prize for the challenge winner will be $300,000 US dollars.</p>
-<h4>Prize Breakdown</h4>
-<p>The prize for the challenge winner will be $300,000 US dollars. One prize awarded.</p>
+<p>The prize for the challenge winner will be $300,000 US dollars. One prize will be awarded.</p>
 
 <!-- Rules start -->
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p>To be eligible to compete for the award, prospective solvers must register at: <a href="https://www.epa.gov/innovation/ecotox-target-challenge" target="_blank" rel="noopener">https://www.epa.gov/innovation/ecotox-target-challenge</a>, no later than March 16, 2020.</p>
+<p>To be eligible to compete for the award, prospective solvers must register by no later than March 16, 2020 at: <a href="https://www.epa.gov/innovation/ecotox-target-challenge" target="_blank" rel="noopener">https://www.epa.gov/innovation/ecotox-target-challenge</a>.</p>
 <h4>Eligibility:</h4>
 <ul>
-  <li>Eligible:  Individuals, or teams from private companies, academic institutions, non-governmental organizations, or independent research or technological institutes. The competition is open to both US and foreign citizens/organizations.</li>
- <li>Not eligible:  U.S. or foreign government organizations.</li>
- <li>Not eligible:  Individuals involved in development of award selection criteria or reference sample generation.</li>
+  <li>Eligible: Individuals, or teams from private companies, academic institutions, non-governmental organizations, or independent research or technological institutes. The competition is open to both U.S. and foreign citizens/organizations.</li>
+ <li>Not eligible: U.S. or foreign government organizations.</li>
+ <li>Not eligible: Individuals involved in development of award selection criteria or reference sample generation.</li>
   </ul>
-<p>For additional details and rules, visit:<a href="https://www.epa.gov/innovation/ecotox-target-challenge" target="_blank" rel="noopener">https://www.epa.gov/innovation/ecotox-target-challenge</a></p>
+<p>For additional details and rules, visit: <a href="https://www.epa.gov/innovation/ecotox-target-challenge" target="_blank" rel="noopener">https://www.epa.gov/innovation/ecotox-target-challenge</a></p>
 <h4>Terms and Conditions</h4>
 <p>By registering, Solvers agree to the following terms of participation:</p>
 <ul>
   <li>Solvers will not receive compensation for resources or time invested in addressing the challenge. Only the winning Solution will receive a cash award.</li>
 <li>Only the top-ranked Solution will receive the award.</li>
 <li>Solvers retain their rights to all intellectual property (e.g., details and design of their technology) that may be disclosed to the sponsors over the course of the challenge. Technical details and designs will not be disclosed or published without permission from the technical point of contact named in the registration.</li>
-<li>Sponsors retain the right to disclose reference sample data, performance criteria, and other evaluation criteria summarized in the technology description template to provide a transparent reporting of how the winning solution was selected.
+<li>Sponsors retain the right to disclose reference sample data, performance criteria, and other evaluation criteria summarized in the technology description template to provide a transparent reporting of how the winning solution was selected.</li>
 <li>Sponsors retain the right to publish, present, and/or otherwise publicize results of the challenge competition that does not involve the disclosure of intellectual property of the Solver(s). Solvers will be afforded opportunity to review publications, presentation, or other publicity to protect against unwanted disclosure of intellectual property.</li>
 <li>Solvers reserve the right to remove themselves from the competition at any time, up to final submission of results for evaluation, by notifying the sponsor in writing. The technical point of contact must make the request in writing on behalf of his/her team. </li>
 <li>Registration for the challenge does not confer any obligation to deliver results.  However, any solvers removing themselves from the competition prior to evaluation forfeit the rights to publish results obtained for the reference samples supplied for the competition unless they obtain written consent from the challenge sponsors.</li>
