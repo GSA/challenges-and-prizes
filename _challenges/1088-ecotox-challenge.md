@@ -4,7 +4,7 @@ permalink: /challenge/ecotox-challenge/
 challenge-id: 1088
 status: open
 sidenav: true
-card-image: /assets/images/cards/EcoTox_EPA_341x105.png
+card-image: /assets/images/cards/Challenge_TARGET_Logo.png
 agency-logo: 256px-Environmental_Protection_Agency_logo.png
 challenge-title: EcoTox TARGET Challenge
 tagline: Develop high quality, low-cost tools that assess global gene expression in common aquatic toxicity test organisms
