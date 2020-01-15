@@ -9,8 +9,8 @@ agency-logo: 256px-Environmental_Protection_Agency_logo.png
 challenge-title: EcoTox TARGET Challenge
 tagline: Develop high quality, low-cost tools that assess global gene expression in common aquatic toxicity test organisms
 agency: Environmental Protection Agency
-partner-agencies-federal: U.S. Army Engineer Research and Development Center, Environment and Climate Change Canada
-partners-non-federal: Syngenta, DoW, European Commission Joint Research Centre
+partner-agencies-federal: U.S. Army Engineer Research and Development Center
+partners-non-federal: DoW, Environment and Climate Change Canada, European Commission Joint Research Centre, Syngenta
 external-url:
 total-prize-offered-cash: $300,000
 type-of-challenge: Scientific
@@ -34,9 +34,9 @@ challenge-manager-email: villeneuve.dan@epa.gov
  <p><strong>Key Dates:</strong></p>
  <ul>
    <li>Informational Webinar: 12:00 p.m. ET, February 18, 2020</li>
+      <li>Registration Closes: 11:59 p.m. ET, March 16, 2020</li>
    <li>Kick-off Webinar for Registered Solvers: 12:00 p.m. ET, March 19, 2020</li>
    <li>Submission Start: 12:00 p.m. ET, March 19, 2020</li>
-   <li>Registration Closes: 11:59 p.m. ET, March 16,2020</li>
   <li>Submission End: 11:59 p.m. ET June 15, 2021</li>
   </ul>
 
@@ -263,5 +263,5 @@ challenge-manager-email: villeneuve.dan@epa.gov
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p>To be eligible to compete for the award, prospective solvers must register at: <a href="http://www.epa.gov/innovation/EcoTox-Target-Challenge" target="_blank" rel="noopener">https://www.epa.gov/innovation/ecotox-target-challenge</a>, no later than March 16, 2020.</p>
-<p>Submission URL: <a href="http://www.epa.gov/innovation/EcoTox-Target-Challenge" target="_blank" rel="noopener">http://www.epa.gov/innovation/EcoTox-Target-Challenge</a></p>
+<p>To be eligible to compete for the award, prospective solvers must register at: <a href="https://wcms.epa.gov/innovation/forms/ecotox-target-challenge-registration" target="_blank" rel="noopener">https://wcms.epa.gov/innovation/forms/ecotox-target-challenge-registration</a>, no later than March 16, 2020.</p>
+<p>Submission: Instructions on submission of entries will be provided to registered participants during the Kick-off Webinar on March 19, 2020.</p>
