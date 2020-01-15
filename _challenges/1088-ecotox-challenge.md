@@ -57,7 +57,7 @@ challenge-manager-email: villeneuve.dan@epa.gov
  <li>Not eligible: U.S. or foreign government organizations.</li>
  <li>Not eligible: Individuals involved in development of award selection criteria or reference sample generation.</li>
   </ul>
-<p>For additional details and rules, visit: <a href="https://www.epa.gov/innovation/ecotox-target-challenge" target="_blank" rel="noopener">https://www.epa.gov/innovation/ecotox-target-challenge</a></p>
+<p>For additional details and rules, visit: <a href="https://www.epa.gov/innovation/ecotox-target-challenge" target="_blank" rel="noopener">https://www.epa.gov/innovation/ecotox-target-challenge</a>.</p>
 <h4>Terms and Conditions</h4>
 <p>By registering, Solvers agree to the following terms of participation:</p>
 <ul>
@@ -263,5 +263,5 @@ challenge-manager-email: villeneuve.dan@epa.gov
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p>To be eligible to compete for the award, prospective solvers must register at: <a href="https://wcms.epa.gov/innovation/forms/ecotox-target-challenge-registration" target="_blank" rel="noopener">https://wcms.epa.gov/innovation/forms/ecotox-target-challenge-registration</a>, no later than March 16, 2020.</p>
+<p>To be eligible to compete for the award, prospective solvers must register at <a href="https://wcms.epa.gov/innovation/forms/ecotox-target-challenge-registration" target="_blank" rel="noopener">https://wcms.epa.gov/innovation/forms/ecotox-target-challenge-registration</a> by no later than March 16, 2020.</p>
 <p>Submission: Instructions on submission of entries will be provided to registered participants during the Kick-off Webinar on March 19, 2020.</p>
