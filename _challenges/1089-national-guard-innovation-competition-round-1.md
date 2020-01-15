@@ -1,4 +1,3 @@
-  
 ---
 layout: front-matter-data
 permalink: /challenge/national-guard-innovation-competition-round-1/
