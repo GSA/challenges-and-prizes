@@ -23,7 +23,7 @@ ideaSubmitFormInstruction: 'Registration Process for Participants    To register
   Challenge website (<a href="https://www.synapse.org/upforachallenge">https://www.synapse.org/upforachallenge</a>). 
   Data Access Requests will be reviewed by the appropriate NIH Data Access Committees
   (DAC) to ensure that the proposed project is consistent with any Data Use Limitations
-  for the requested dataset(s).  NOTE: that any scientific collaborators, including
+  for the requested dataset(s). NOTE: that any scientific collaborators, including
   contractors, who are not at the same institution as the PI must submit their own
   DAR. Data cannot be shared with collaborators from other institutions until they
   have submitted an application (and explicitly named this collaborators) to use the
@@ -198,7 +198,7 @@ how-to-enter: "Registration Process for Participants\r\n\r\nTo register for this
   member of a Team must be a registered participant in the Challenge.</li>\r\n\t<li>Individuals
   may participate on multiple Teams, and Challenge Teams may merge (requiring
   mutual agreement of Team Captains). Individuals are allowed to leave a Team
-  to work alone or join another Team.</li>\r\n</ol>\r\nData Access Process\r\n\r\nOnce
+  to work alone or join another Team.</li>\r\n</ol>\r\n<p>Data Access Process\r\n\r\nOnce
   registered for the Challenge, participants must apply for controlled access
   to the designated Challenge genetic datasets following instructions on the Challenge
   website.  Challenge participants may use any of these dbGaP datasets or any
@@ -211,7 +211,7 @@ how-to-enter: "Registration Process for Participants\r\n\r\nTo register for this
   the Challenge website (<a href=\"https://www.synapse.org/upforachallenge\">https://www.synapse.org/upforachallenge</a>). 
   Data Access Requests will be reviewed by the appropriate NIH Data Access Committees
   (DAC) to ensure that the proposed project is consistent with any Data Use Limitations
-  for the requested dataset(s).  NOTE: that any scientific collaborators, including
+  for the requested dataset(s).</p>  <p>NOTE: that any scientific collaborators, including
   contractors, who are not at the same institution as the PI must submit their
   own DAR. Data cannot be shared with collaborators from other institutions until
   they have submitted an application (and explicitly named this collaborators)
@@ -229,7 +229,7 @@ how-to-enter: "Registration Process for Participants\r\n\r\nTo register for this
   Note that individual datasets may have additional limitations in regards to
   use of the data.  As the GWAS datasets obtained from dbGaP are considered controlled
   access data, individuals approved to use these data must abide by dbGaP security
-  best practices in regards to the data (<a href=\"http://www.ncbi.nlm.nih.gov/projects/gap/pdf/dbgap_2b_security_procedures.pdf\">http://www.ncbi.nlm.nih.gov/projects/gap/pdf/dbgap_2b_security_procedures.pdf</a>).\r\n\r\nIf
+  best practices in regards to the data (<a href=\"http://www.ncbi.nlm.nih.gov/projects/gap/pdf/dbgap_2b_security_procedures.pdf\">http://www.ncbi.nlm.nih.gov/projects/gap/pdf/dbgap_2b_security_procedures.pdf</a>).</p>\r\n\r\n<p>If
   submitting a request to dbGaP for use of data for the Challenge, participants
   should be aware that the data requested should be used solely for the research
   purpose described in the Data Access Request, i.e. solely for the Challenge.
@@ -244,7 +244,7 @@ how-to-enter: "Registration Process for Participants\r\n\r\nTo register for this
   of an Entry, Challenge participants must include the Team name under which they
   are submitting.\r\n\r\nAll final Entries must be submitted through the Challenge
   website on Synapse, following website instructions and should provide necessary
-  and sufficient detail and annotation for reproduction of the submitted results. 
+  and sufficient detail and annotation for reproduction of the submitted results.</p> 
   Information accompanying each Entry should include:\r\n<ol>\r\n\t<li>Title of
   project</li>\r\n\t<li>Name of Team</li>\r\n\t<li>Names and field of expertise
   of Team members</li>\r\n\t<li>List of new pair-wise collaborations on Team (defined
@@ -280,7 +280,7 @@ how-to-enter: "Registration Process for Participants\r\n\r\nTo register for this
   third party.</li>\r\n</ol>"
 partnerships: ''
 groupAttributes:
-judging-criteria-description-0: '1. Identification of Novel Findings (25 points)
+judging-criteria-description-0: '<p>1. Identification of Novel Findings (25 points)
   – Using breast cancer GWAS data sets available in dbGaP and/or any          other
   publicly available data sets, Challenge participants must identify new genes
   or combinations of genes,          genetic variants, or sets of genomic features
@@ -299,7 +299,7 @@ judging-criteria-description-0: '1. Identification of Novel Findings (25 points)
   or combined effect is     new, but the variants were previously identified)
   (medium)            iv. New genes or loci (high)            v. New combinations
   of variants from genes or loci not identified previously                    (i.e.,
-  the combination and some of the variants are new) (high)  2. Replication of
+  the combination and some of the variants are new) (high)</p>  <p>2. Replication of
   Findings (25 points) – Evidence of the validity of the proposed novel finding
   will be evaluated           through replication.      a. There are several different
   ways replication can be accomplished. These may include using data sets as testing          and
@@ -314,7 +314,7 @@ judging-criteria-description-0: '1. Identification of Novel Findings (25 points)
   for replication in the narrative portion of their                  Challenge
   Entry.         c. The adequacy of criteria selected by the Challenge participant
   and evidence for replication will be scored by the           Challenge Evaluation
-  Panel.   3. Innovation of Approach (25 points) – Innovation and creativity of
+  Panel.</p>   <p>3. Innovation of Approach (25 points) – Innovation and creativity of
   the submitted approach will be evaluated.          Innovation will be defined
   as a new or significantly improved method.  The submitted narrative must describe          what
   is innovative about the approach, what this approach is building on, and why
@@ -324,7 +324,7 @@ judging-criteria-description-0: '1. Identification of Novel Findings (25 points)
   or           methodologies?       b. Are the concepts, approaches, or methods
   in the Entry novel to this field of research or novel in a broader sense?       c.
   Does the Entry represent a refinement, improvement, or new application of theoretical
-  concepts, approaches, or           methodologies?  4. Evidence of Novel Biological
+  concepts, approaches, or           methodologies?</p>  <p>4. Evidence of Novel Biological
   Hypothesis(es) (10 points) –       a. Evaluation of this aspect of Challenge
   Entries will be based on whether findings (i.e., new genes or combinations           of
   genes, genetic variants, or sets of genomic features) lead to novel biological
@@ -341,13 +341,13 @@ judging-criteria-description-0: '1. Identification of Novel Findings (25 points)
   on the narrative description of hypotheses generated from the findings and proposed
   follow up experiments.  In contrast, the “Identification of Novel Findings”
   criteria (1) are the identification of new genes or combinations of genes, genetic
-  variants, or sets of genomic features associated with breast cancer susceptibility.    5.
+  variants, or sets of genomic features associated with breast cancer susceptibility.</p>    <p>5.
   Collaboration (15 points) – Points will be awarded based on (a) the number of
   different fields represented on the          Team; (b) the number of new collaborations
   represented on the Team (defined as individuals not having           published
   together in the past 5 years); and (c) the number of individuals invited to
   participate in the Challenge by           Team members resulting in Entries
-  to the Challenge'
+  to the Challenge</p>'
 judging-criteria-percentage-0: '100'
 judging-criteria-0: Entries will be scored by the Challenge Evaluation Panel using
   the criteria listed below. After the Challenge Evaluation Panel provides final
@@ -513,23 +513,23 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: The National Institutes of Health, National Cancer Institute’s (NCI)
+description: <p>The National Institutes of Health, National Cancer Institute’s (NCI)
   Division of Cancer Control and Population Sciences (DCCPS) announces that they are
   partnering with Sage Bionetworks to launch “Up For A Challenge (U4C) – Stimulating
   Innovation in Breast Cancer Genetic Epidemiology” (the “Challenge”) to encourage
-  unique approaches to more fully decipher the genomic basis of breast cancer.  Utilizing
-  innovative approaches, the goal of this Challenge is to identify new genes or combinations
+  unique approaches to more fully decipher the genomic basis of breast cancer. 
+  Utilizing innovative approaches, the goal of this Challenge is to identify new genes or combinations
   of genes, genetic variants, or sets of genomic features involved in breast cancer
   susceptibility. In addition, the NCI aims to advance innovation in the field of
   genetic epidemiology by making data more widely available, increasing the amount
   and diversity of minds approaching a difficult scientific problem, and promoting
-  broader collaborations.    In order to stimulate innovation, the National Cancer
+  broader collaborations.</p>    <p>In order to stimulate innovation, the National Cancer
   Institute’s (NCI) Division of Cancer Control and Population Sciences (DCCPS) is
   launching a prize competition to inspire novel cross-disciplinary approaches to
   more fully decipher the genomic basis of breast cancer, called “Up For A Challenge
   (U4C) – Stimulating Innovation in Breast Cancer Genetic Epidemiology” (the “Challenge”)
   using the America Creating Opportunities to Meaningfully Promote Excellence in Technology,
-  Education, and Science (COMPETES) Reauthorization Act of 2010.    The goal of this
+  Education, and Science (COMPETES) Reauthorization Act of 2010.</p>    <p>The goal of this
   Challenge is to use innovative approaches to identify novel pathways—including new
   genes or combinations of genes, genetic variants, or sets of genomic features—involved
   in breast cancer susceptibility in order to generate new biological hypotheses.    To
@@ -537,14 +537,14 @@ description: The National Institutes of Health, National Cancer Institute’s (N
   in the Challenge; some of these will be released for the first time. In addition,
   Challenge participants will be free to use any other publicly available data sets
   (subject to compliance with applicable terms and conditions) for the purposes of
-  developing and applying methods for identification of the novel pathways.    Breast
+  developing and applying methods for identification of the novel pathways.</p>    <p>Breast
   cancer is the most commonly occurring cancer, and the second most common cause of
   cancer deaths in women in the United States.  An estimated 231,840 new cases of
   invasive breast cancer are expected to be diagnosed among women (2,350 in men) in
   the U.S. during 2015 with an estimated 40,730 deaths. Despite advances in breast
   cancer therapies, breast cancer remains a major public health burden. One approach
   to reduce overall occurrence and mortality from breast cancer is to develop ways
-  of identifying women who are at increased risk for breast cancer.    Epidemiologic
+  of identifying women who are at increased risk for breast cancer.</p>    <p>Epidemiologic
   studies suggest that genetic factors play a key role in determining who is at increased
   risk of developing breast cancer, as well as what type of cancer they develop.  To
   date, genome-wide association studies (GWAS) have helped researchers identify more
@@ -554,7 +554,7 @@ description: The National Institutes of Health, National Cancer Institute’s (N
   cancer. However, shifting the focus of analysis from individual genetic variants
   (also known as single nucleotide polymorphisms or SNPs) to pathways (i.e. combinations
   of genes, genetic variants, or sets of genomic features), could lead to the identification
-  of novel gene sets involved in breast cancer risk.    This Challenge provides an
+  of novel gene sets involved in breast cancer risk.</p>    <p>This Challenge provides an
   opportunity to examine the heritable contribution to racial disparities, by facilitating
   access to GWAS data sets from African American, Asian, European, and Latino women. 
   African American women are known to have a lower incidence of breast cancer, but
@@ -562,12 +562,12 @@ description: The National Institutes of Health, National Cancer Institute’s (N
   stage of diagnosis. Meanwhile, Asian women have the lowest rates of breast cancer
   incidence and mortality compared with non-Hispanic white, African American, and
   Hispanic/Latino women.  Findings from this Challenge may provide insights into some
-  of these observed differences.    As more fully described below, participants are
+  of these observed differences.</p>    <p>As more fully described below, participants are
   invited to use innovative approaches to identify novel pathways—including new genes
   or combinations of genes, genetic variants, or sets of genomic features—involved
   in breast cancer susceptibility. Besides developing a better understanding of cancer
   risk assessment, the identification of breast cancer susceptibility genes holds
-  promise for providing therapeutic targets for drug development.
+  promise for providing therapeutic targets for drug development.</p>
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
