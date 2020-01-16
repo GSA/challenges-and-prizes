@@ -33,7 +33,7 @@ challenge-manager-email: villeneuve.dan@epa.gov
 <p>This challenge calls for respondents to develop high quality, low cost, technologies/platforms for evaluating global gene expression in samples from four common aquatic toxicity test organisms: Pimephales promelas (a fish), Daphnia magna (a crustacean), Chironomous dilutus (an insect; formerly Chironomous tentans), and Raphidocelis subcapitata (a green algae). These represent species and associated trophic levels most frequently tested when evaluating the ecological hazards of chemicals. While there are many extant, viable, technologies for measuring global gene expression, the significant technological leap and challenge to the solver community is to provide these capabilities at a cost and scale of commercial throughput that can accommodate the analysis of thousands or tens of thousands of samples per year. A target price point is $50 per sample or less.</p>
  <p><strong>Key Dates:</strong></p>
  <ul>
-   <li>Informational Webinar: 12:00 p.m. ET, February 18, 2020</li>
+   <li><a href="https://www.epa.gov/innovation/ecotox-target-challenge-informational-webinar" target="_blank" rel="noopener">Informational Webinar</a>: 12:00 p.m. ET, February 18, 2020</li>
       <li>Registration Closes: 11:59 p.m. ET, March 16, 2020</li>
    <li>Kick-off Webinar for Registered Solvers: 12:00 p.m. ET, March 19, 2020</li>
    <li>Submission Start: 12:00 p.m. ET, March 19, 2020</li>
@@ -263,5 +263,5 @@ challenge-manager-email: villeneuve.dan@epa.gov
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p>To be eligible to compete for the award, prospective solvers must register at <a href="https://wcms.epa.gov/innovation/forms/ecotox-target-challenge-registration" target="_blank" rel="noopener">https://www.epa.gov/innovation/ecotox-target-challenge</a> by no later than March 16, 2020.</p>
+<p>To be eligible to compete for the award, prospective solvers must register at <a href="https://www.epa.gov/innovation/forms/ecotox-target-challenge-registration" target="_blank" rel="noopener">https://www.epa.gov/innovation/forms/ecotox-target-challenge-registration</a> by no later than March 16, 2020.</p>
 <p>Submission: Instructions on submission of entries will be provided to registered participants during the Kick-off Webinar on March 19, 2020.</p>
