@@ -39,7 +39,7 @@ ideaSubmitFormInstruction: 'Entries should be submitted via the Challenge’s ho
   provided with other capabilities.    5) A submission may be disqualified if the
   visualization tool or application fails to function as expressed in the description
   provided by the participant, or if the tool or application provides inaccurate or
-  incomplete information.    6) Submissions must be free of malware. Participant agrees
+  incomplete information.    6) Submissions must be free of malware.<br> Participant agrees
   that NIH may conduct testing on the data visualization tool or application to determine
   whether malware or other security threats may be present. NIEHS may disqualify the
   submission if, in NIEHS’ judgment, the data visualization tool or application or
@@ -340,7 +340,7 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: '<strong>Winners Announced!</strong>    Challenge entries focused on
+description: '<strong>Winners Announced!</strong>    <p>Challenge entries focused on
   creating data visualization tools and maps that connect current science on climate
   change to the exposure pathways for environmental hazards, in order to help decision
   makers and communities identify areas and people at greatest risk and help to prioritize
@@ -349,22 +349,22 @@ description: '<strong>Winners Announced!</strong>    Challenge entries focused o
   waste sites, which were overlayed with maps of health outcomes such as mortality,
   cardiovascular disease, emergency room admissions, and asthma. Winning submissions
   will be incorporated into the U.S. Climate Resilience Toolkit and disseminated to
-  communities and decision makers.    Additional information and interviews with winners
+  communities and decision makers.  Additional information and interviews with winners
   can be found on: <a href="http://www.niehs.nih.gov/news/newsletter/2016/4/feature/feature%201%20-%20climate/index.htm"
-  target="_blank">The NIEHS E-Factor</a>    &nbsp;    <strong>1st Place, National
+  target="_blank">The NIEHS E-Factor</a></p>    <p><strong>1st Place, National
   Tool category: <a href="http://ndssl.vbi.vt.edu/gis/pieviz/" target="_blank">PIE
   VIZ: Populations, Infrastructures, and Exposures Visualization Tool</a></strong>    Developed
   by a team at Virginia Tech, Pie VIZ combines datasets on power outages, air pollution
   levels, and extreme heat across the contiguous United States and includes tool incorporates
   social isolation metrics to allow a to visualize county-level extreme heat and dangerous
   air pollution days and can select a county to view attributes including numbers
-  of isolated persons.    <strong>1st Place, Local Tool category: <a href="https://sites.google.com/site/iumdcat/"
+  of isolated persons.</p>    <p><strong>1st Place, Local Tool category: <a href="https://sites.google.com/site/iumdcat/"
   target="_blank">Effects of Climate Change on the Future of Local Communities in
   Indianapolis: A prototype</a></strong>    Created by a team at IUPUI, this tool
   leverages climate and health data in an interactive web portal that displays and
   communicates potential health and environmental effects of climate change including
   flooding, extreme heat, and air pollution, on a low income, disadvantaged Indianapolis
-  neighborhood: the Near West Neighborhood.    <strong>2nd Place, Local Tool category
+  neighborhood: the Near West Neighborhood.</p>    <p><strong>2nd Place, Local Tool category
   (tie): <a href="http://www.sfclimatehealth.org/" target="_blank">The San Francisco
   Climate and Health Profile</a></strong>    Developed by the San Francisco Department
   of Public Health, the San Francisco Climate and Health Profile is an innovative
@@ -373,7 +373,7 @@ description: '<strong>Winners Announced!</strong>    Challenge entries focused o
   outcomes. By centralizing and formalizing the collection of neighborhood-level data,
   the Climate and Health Profile provides neighborhood organizations, city departments,
   and direct service providers a simple, streamlined way to access information on
-  climate and health.    <strong>2nd Place, Local Tool category (tie): <a href="http://upwiththewaters.wustl.edu/"
+  climate and health.</p>    <p><strong>2nd Place, Local Tool category (tie): <a href="http://upwiththewaters.wustl.edu/"
   target="_blank">Up with the Waters: Climate change, flooding and contamination in
   the River City</a></strong>    Developed by a team based at Washington University
   in St. Louis, Up With the Waters Up With the Waters is a series of maps that help
@@ -383,8 +383,8 @@ description: '<strong>Winners Announced!</strong>    Challenge entries focused o
   also identify public parks that have high likelihood of becoming contaminated. This
   tool is intended to help government and land managers prioritize clean-up of the
   most heavily contaminated and populated areas within the flood plain in order to
-  minimize exposure risks to the people of St. Louis.    See also the <a href="http://www.niehs.nih.gov/funding/challenges/climate_change/index.cfm"
-  target="_blank">NIEHS Announcement</a> of the winners    &nbsp;    &nbsp;    &nbsp;    <strong>Submissions
+  minimize exposure risks to the people of St. Louis.</p>    See also the <a href="http://www.niehs.nih.gov/funding/challenges/climate_change/index.cfm"
+  target="_blank">NIEHS Announcement</a> of the winners    &nbsp;    &nbsp;    &nbsp;    <p><strong>Submissions
   for this challenge will close at 9AM EST, Tuesday, Feb. 2, 2016.</strong>    Climate
   change is likely to alter the risks posed by environmental exposures in ways that
   are just beginning to be explored. The National Institute of Environmental Health
@@ -396,20 +396,20 @@ description: '<strong>Winners Announced!</strong>    Challenge entries focused o
   and people at greatest risk and help to prioritize protective actions.    You can
   visit the <a href="http://www.niehs.nih.gov/funding/challenges/climate_change/index.cfm"
   target="_blank">NIEHS webpage</a> for this challenge for additional information
-  about the challenge and examples of data sets.    &nbsp;    <strong>Background</strong>    Communities
+  about the challenge and examples of data sets.</p>     <strong>Background</strong><br>    <p>Communities
   can face health risks from a variety of environmental exposures, including hazardous
   wastes and deposits of industrial chemicals, air pollution, harmful algal blooms,
   toxic contaminants in food, and exposures to pesticides. The effects of climate
   change may exacerbate these health risks. Fortunately, newly released data and tools,
   in combination with other publicly available datasets, allow for innovative approaches
-  to demonstrating and assessing such risks.    Better information about climate change’s
+  to demonstrating and assessing such risks.</p>    <p>Better information about climate change’s
   potential impacts on environmental exposures would improve a wide range of important
   protective decisions. At the local level, such decisions might include where to
   build day care centers or new housing. This information could also assist local
   decision makers on critical infrastructure questions, such as where to place new
   water intakes for drinking water systems, design or siting of urban waste water
   drainage or green infrastructure, or placement of monitoring equipment or other
-  sensors.    At the national level, greater understanding of climate change’s influence
+  sensors.</p>    <p>At the national level, greater understanding of climate change’s influence
   on the magnitude and spatial distribution of environmental exposures would inform
   decisions about prioritizing efforts to remove pollution and contaminants. This
   information would also be useful in setting national standards or policies.    <u>Examples</u><u>
