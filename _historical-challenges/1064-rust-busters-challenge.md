@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/rust-busters-challenge/
 challenge-id: 1064
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/rustbusters.jpg
 agency-logo: usbr.jpg
@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $350,000
 type-of-challenge: Technology demonstration and hardware
-submission-start: 2019/9/16 12:00 PM
-submission-end: 2020/01/16 08:00 PM 
+submission-start: 9/16/2019 12:00 PM
+submission-end: 01/16/2020 08:00 PM 
 submission-link:  
 prizes: true
 fiscal-year: FY19, FY20, FY21
