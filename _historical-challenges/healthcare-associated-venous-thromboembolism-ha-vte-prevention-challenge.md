@@ -88,7 +88,7 @@ rules: "<strong><i>Eligibility Rules for Participating in the Competition:</i> 
   may not use Federal funds from a contract to develop COMPETES Act challenge
   applications or to fund efforts in support of a COMPETES Act challenge submission;
   \   (8) Must agree to participate in a data validation process to be conducted
-  by a CDC-selected contractor. To the extent applicable law allows, data will
+  by a CDC-selected contractor. <br>To the extent applicable law allows, data will
   be kept confidential by the contractor and will be shared with the CDC in aggregate
   form only; i.e., the VTE prevention coverage rate for the practice not individual
   data;    (9) Must have a data management system (electronic or paper) that allows
@@ -134,7 +134,7 @@ rules: "<strong><i>Eligibility Rules for Participating in the Competition:</i> 
   may apply for non-monetary recognition. No monetary prize will be awarded.    Entrants
   who are an international hospital, multi-hospital system, hospital network or
   managed care organization that provides inpatient medical care for patients
-  may apply for non-monetary recognition. No monetary prize will be awarded.    <strong><i>Additional
+  may apply for non-monetary recognition. No monetary prize will be awarded.    <br><strong><i>Additional
   Information:</i> </strong>    Information received from nominees will be stored
   in a password protected file on a secure server. The challenge website may post
   the number of nominations received but will not include information about individual
@@ -152,21 +152,21 @@ rules: "<strong><i>Eligibility Rules for Participating in the Competition:</i> 
   HHS/CDC resources. Summary data on the types of systems and processes used to
   increase VTE prevention will be shared in documents or other communication products
   that describe generally used practices for successful VTE prevention. HHS/CDC
-  will use the summary data only as described.    <strong><i>Compliance with Rules
+  will use the summary data only as described.    <br><strong><i>Compliance with Rules
   and Contacting Contest Winners:</i> </strong>    Finalists must comply with
   all terms and conditions of these official rules, and winning is contingent
   upon fulfilling all requirements herein. The finalists will be notified by email,
-  telephone, or mail after the date of judging.    <strong><i>Payment of the Monetary
+  telephone, or mail after the date of judging.    <br><strong><i>Payment of the Monetary
   Prize:</i></strong>    Monetary prizes awarded under this challenge will be
   paid by electronic funds transfer and may be subject to Federal income taxes.
   HHS will comply with the Internal Revenue Service withholding and reporting
-  requirements, where applicable.    <strong><i>Privacy:</i></strong>    Personal
+  requirements, where applicable.    <br><strong><i>Privacy:</i></strong>    Personal
   information provided by entrants on the nomination form through the challenge
   website will be used to contact selected finalists. Information is not collected
   for commercial marketing. Winners are permitted to cite that they won this challenge.
   \   The names, cities, and states of selected Champions will be made available
   in CDC’s educational materials on VTE prevention and at recognition events.
-  \   <strong><i>General Conditions:</i></strong>    The HHS/CDC reserves the
+  \   <br><strong><i>General Conditions:</i></strong>    The HHS/CDC reserves the
   right to cancel suspend, and/or modify the challenge, or any part of it, for
   any reason, as HHS/CDC’s sole discretion."
 submission-start-date-1: ''
@@ -430,7 +430,7 @@ description: '<blockquote><strong>View the Winners at: <a href="http://www.cdc.
   vein thrombosis (DVT), pulmonary embolism (PE), or both, is an important and growing
   public health issue. Prevention of healthcare-associated VTE (HA-VTE) is a national
   hospital safety priority. Many HA-VTEs can be prevented, but VTE prevention strategies
-  are still not being applied regularly or effectively across the United States.    <strong>The
+  are still not being applied regularly or effectively across the United States.    <br><strong>The
   Challenge:</strong>    To support and promote HA-VTE prevention, HHS and CDC announce
   the 2015 HA-VTE Prevention Challenge. The challenge will bring prestige to organizations
   that invest in VTE prevention, improve understanding of successful implementation
@@ -440,13 +440,13 @@ description: '<blockquote><strong>View the Winners at: <a href="http://www.cdc.
   Prevention Champions. CDC will document these successful strategies and highlight
   the systems, processes, and staffing that contributed to exceptional VTE prevention
   outcomes achieved by Champions. Champions will receive a cash prize (if eligible)
-  and other forms of recognition.    <strong>The Goal:</strong>    To identify hospitals,
+  and other forms of recognition.    <br><strong>The Goal:</strong>    To identify hospitals,
   multi-hospital systems, hospital networks, and managed care organizations that have
   implemented an innovative and effective VTE prevention strategy using one or more
   interventions (e.g. VTE protocols and order sets, risk assessment, electronic alerts,
   clinical decision support tools, performance monitoring systems and dashboards,
   patient and/or provider education and awareness, post-discharge follow-up, etc.)
-  designed to increase VTE prevention.    <strong>The Solution?</strong>    There
+  designed to increase VTE prevention.    <br><strong>The Solution?</strong>    There
   is no one solution! We are looking for successful programs from all types of hospitals—small
   and large, urban and rural, academic, private, public, federal, and international.
   In short, we want to know what was successful in your setting!    Entrants of the
@@ -459,7 +459,7 @@ description: '<blockquote><strong>View the Winners at: <a href="http://www.cdc.
   measure showing an increase of VTE prevention (e.g. # of patients assessed for VTE
   risk, # of at risk patients receiving appropriate VTE prevention, # of patients
   and/or providers receiving education on VTE prevention, etc.) and/or decrease in
-  HA-VTE rates for the organization’s population of interest.    <strong>The Prizes:</strong>    An
+  HA-VTE rates for the organization’s population of interest.    <br><strong>The Prizes:</strong>    An
   estimated 7 of the highest scoring U.S. non-federal hospitals, multi-hospital systems,
   hospital networks and managed care organizations will be recognized as HA-VTE Prevention
   Champions and will receive a cash award of $10,000. A maximum of $70,000 will be
@@ -469,7 +469,7 @@ description: '<blockquote><strong>View the Winners at: <a href="http://www.cdc.
   for non-monetary recognition.    In addition, all Champions will be recognized by
   the CDC. Documentation of the clinical systems and strategies used by Champions
   to improve VTE prevention will be promoted and shared on the CDC website and attributed
-  to Champions.    <strong>The Judging:</strong>    Challenge submissions will be
+  to Champions.    <br><strong>The Judging:</strong>    Challenge submissions will be
   evaluated by a panel of three to five judges from CDC and other HHS agencies using
   the information provided on, and in accordance with, the nomination form. The judges
   will score the nomination form using a rubric based on the following evaluation
@@ -488,7 +488,7 @@ description: '<blockquote><strong>View the Winners at: <a href="http://www.cdc.
   the interview is one hour, which includes time to review the interview protocol
   with the interviewer, respond to the interview questions, and review a summary report
   about the Champion’s practices. The summary will be written as a success story and
-  will be posted on the CDC website.    <strong>How to Enter:</strong>    Challenge
+  will be posted on the CDC website.    <br><strong>How to Enter:</strong>    Challenge
   launches <strong>Monday, November 2, 2015 @ 5:00 pm</strong>! <strong>To enter,
   go to <a href="http://vte-challenge.com">vte-challenge.com</a> and submit your entry.</strong>
    Submissions through challenge.gov will not be accepted.  Questions about the Challenge
