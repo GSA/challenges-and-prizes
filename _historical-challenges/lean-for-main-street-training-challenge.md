@@ -129,12 +129,12 @@ partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''
-rules: '<u>1. Subject of Challenge Competition</u>: Given the success and growing
+rules: '<p><u>1. Subject of Challenge Competition</u>: Given the success and growing
   popularity of the National Science Foundation’s I-Corps™ program (see http://www.nsf.gov/news/special_reports/i-corps/about.jsp),
   the SBA is interested in the potential for using adapted versions of that program
   as a means to assist a broader array of small businesses and aspiring entrepreneurs
   operating outside the I-Corps™ program’s current focus on technology-based businesses
-  or commercialization concepts.  For reference, the I-Corps™ program involves
+  or commercialization concepts. For reference, the I-Corps™ program involves
   expert business trainers helping teams of scientists and entrepreneurs apply
   “lean principles”—a collection of practices and concepts for business model
   analysis—to those scientists’ and entrepreneurs’ nascent entrepreneurial efforts. 
@@ -150,12 +150,12 @@ rules: '<u>1. Subject of Challenge Competition</u>: Given the success and growin
   framework for exposing lean methodology to businesses in traditional sectors. 
   Winners will then implement these newly-developed lean training resources to
   businesses in their respective communities on a pilot basis and provide SBA
-  with an assessment of their effectiveness.    <u>2. Eligibility Rules for Participating
+  with an assessment of their effectiveness.</p>    <p><u>2. Eligibility Rules for Participating
   in the Competition</u>: Only current recipients in good standing of grants and
   cooperative agreements from SBA under the Women’s Business Center, Veterans''
   Business Outreach Center, Small Business Development Center (both lead and service
   centers are eligible), or SCORE programs (“Resource Partners”) are eligible
-  to take part in this competition.  To be eligible to win a prize under this
+  to take part in this competition.</p>  To be eligible to win a prize under this
   Competition, a Contestant:  <p style="padding-left: 30px;">(a) Shall have registered
   to participate in the competition under the rules promulgated by SBA;</p>  <p
   style="padding-left: 30px;">(b) Shall have complied with all the requirements
@@ -236,7 +236,7 @@ rules: '<u>1. Subject of Challenge Competition</u>: Given the success and growin
   14; virtual sessions will take place on April 7, 14, 21, 28, and May 5.  On
   May 14, winners will participate in a forum with I-Corps instructors to discuss
   and refine their customized lean programs which will then be piloted by the
-  winners.    <u>5. Payment of Prize</u>:  The scholarships portion of the prize
+  winners.    <p><u>5. Payment of Prize</u>:  The scholarships portion of the prize
   will be disbursed in the form of two vouchers for the two representatives from
   each winning organization to attend the I-Corps™ training event in early 2016. 
   The cash prize portion of the award will be disbursed in a series of three payments.
@@ -252,7 +252,7 @@ rules: '<u>1. Subject of Challenge Competition</u>: Given the success and growin
   metrics outlined in its proposal, a summary of any lessons learned and best
   practices, and suggestions for any improvements to the design or implementation
   of similar competitions in the future. The written assessment must be submitted
-  to SBA no later than 12 months after a winner receives its first prize payment.    <u>6.
+  to SBA no later than 12 months after a winner receives its first prize payment.</p>    <p><u>6.
   Selection of Winners</u>:  Winners will be selected based upon how well they
   address the following criteria on their application forms:  <ul>   <li>Audience:
   SBA’s Resource Partners interact with a diverse group of small business owners
@@ -283,7 +283,7 @@ rules: '<u>1. Subject of Challenge Competition</u>: Given the success and growin
   curriculum that they will develop, and the funds awarded to bring lean methods
   into their communities on a pilot basis. Applications should also give a clear
   idea of how they intend to assess the effectiveness of their program, including
-  specific metrics that the Resource Partner will track.</li>  </ul>  <u>7. Applicable
+  specific metrics that the Resource Partner will track.</li>  </ul></p>  <p><u>7. Applicable
   Law</u>:  This Competition is being conducted by SBA pursuant to the America
   Competes Act (15 U.S.C. 3719) and is subject to all applicable federal laws
   and regulations. By participating in this Competition, each Contestant gives
@@ -293,11 +293,11 @@ rules: '<u>1. Subject of Challenge Competition</u>: Given the success and growin
   contingent upon its fulfilling all requirements identified in this notice and
   in the Official Rules. Publication of this notice is not an obligation of funds
   on the part of SBA. SBA reserves the right to modify or cancel this Competition,
-  in whole or in part, at any time prior to the award of prizes.    <u>8. Conflicts
+  in whole or in part, at any time prior to the award of prizes.</p>    <p><u>8. Conflicts
   of Interest</u>: No individual acting as a judge at any stage of this Competition
   may have personal or financial interests in, or be an employee, officer, director,
   or agent of any Contestant or have a familial or financial relationship with
-  a Contestant.    <u>9. Intellectual Property Rights</u>:  <p style="padding-left:
+  a Contestant.</p>    <p><u>9. Intellectual Property Rights</u>:  <p style="padding-left:
   30px;">(a). All entries submitted in response to this Competition will remain
   the sole intellectual property of the individuals or organizations that developed
   them. By registering and entering a submission, each Contestant represents and
@@ -311,11 +311,11 @@ rules: '<u>1. Subject of Challenge Competition</u>: Given the success and growin
   awarded, grant to SBA an irrevocable, royalty-free, exclusive worldwide license
   to reproduce, distribute, copy, display, create derivative works, and publicly
   post, link to, and share, the winning design or parts thereof, for the purpose
-  of the design competition and for any official SBA purpose.</p>  <u>10. Publicity
+  of the design competition and for any official SBA purpose.</p>  <p><u>10. Publicity
   Rights</u>:  By registering and entering a submission, each Contestant consents
   to SBA''s and its agents'' use, in perpetuity, of its name, likeness, photograph,
   voice, opinions, and/or hometown and state information for promotional or informational
-  purposes through any form of media, worldwide, without further payment or consideration.    <u>11.
+  purposes through any form of media, worldwide, without further payment or consideration.</p> <p><u>11.
   Liability and Insurance Requirements</u>:  By registering and entering a submission,
   each Contestant agrees to assume any and all risks and waive claims against
   the Federal Government and its related entities, except in the case of willful
@@ -329,11 +329,11 @@ rules: '<u>1. Subject of Challenge Competition</u>: Given the success and growin
   with its participation in this Competition, or claims by the Federal Government
   for damage or loss to Government property resulting from such an activity. Competition
   winners should be prepared to demonstrate proof of insurance or financial responsibility
-  in the event SBA deems it necessary.    <u>12. Record Retention and Disclosure</u>:
+  in the event SBA deems it necessary.</p>  <p><u>12. Record Retention and Disclosure</u>:
   All submissions and related materials provided to SBA in the course of this
-  Competition automatically become SBA records and cannot be returned. Contestants
+  Competition automatically become SBA records and cannot be returned. Contestants
   should identify any confidential commercial information contained in their entries
-  at the time of their submission.'
+  at the time of their submission.</p>'
 submission-start-date-1: ''
 hide-challenge-timeline: 'No'
 judging-start-date: ''
@@ -565,8 +565,8 @@ prize-name-8: ''
 prize-description-9: ''
 prize-cash-amount-9: ''
 prize-name-9: ''
-winner-solution-description-0: "Link to SBA press release: https://www.sba.gov/content/sba-announces-winners-lean-main-street-training-challenge-0
-  \r\n\r\nSBA Announces Winners of Lean for Main Street Training Challenge\r\n
+winner-solution-description-0: "<p>Link to SBA press release: https://www.sba.gov/content/sba-announces-winners-lean-main-street-training-challenge-0
+  SBA Announces Winners of Lean for Main Street Training Challenge\r\n
   \r\nWASHINGTON – The U.S. Small Business Administration (SBA) today announced
   the winners of the “Lean for Main Street Training Challenge” competition. The
   training challenge is designed to give representatives from SBA’s resource partner
@@ -577,7 +577,7 @@ winner-solution-description-0: "Link to SBA press release: https://www.sba.gov/c
   \r\nLean methodology has been long popular in technology start-ups, driving
   companies to move away from a traditional business plan to a more simplified,
   step-by-step approach.  It involves a cycle of consumer feedback and adaption
-  to quickly take products to market.  The SBA has a national network of resource
+  to quickly take products to market.</p>  <p>The SBA has a national network of resource
   partners who are uniquely well positioned to make the most cutting edge tools
   accessible to new businesses in all corners of the country.\r\n \r\n“The lean
   start-up approach has the potential to empower entrepreneurs well beyond Silicon
@@ -588,27 +588,27 @@ winner-solution-description-0: "Link to SBA press release: https://www.sba.gov/c
   program, we are training and building the capacity of five of those organizations
   to become experts in I-Corps instruction, and we’ll work closely with them as
   they adapt and deliver new variations of the program to targeted audiences in
-  their regions.”\r\n \r\nI-Corps, the curriculum developed by the National Science
+  their regions.”</p><p>I-Corps, the curriculum developed by the National Science
   Foundation (NSF), provides a framework of principles and practices challenging
   conventional notions about business model planning.\r\n \r\nThe winning resource
   partners will attend NSF’s I-Corps program in Washington, D.C. this spring,
   where they will receive guidance from instructors on how to adapt the curriculum
   to their own communities. Throughout the learning cycle, they will work with
   I-Corps master trainers to observe, reflect, and adapt the current curriculum
-  for use in their centers, and in counseling their local area businesses.\r\n
-  \r\nThe winners are as follows:\r\n \r\n•           Community Business Partnership
-  (SBDC) – Springfield, Va.\r\n•           McLennan SBDC – Waco, Texas\r\n•           Renaissance
-  Entrepreneurship Center (WBC) – San Francisco, Calif.\r\n•           University
-  of Pittsburgh (SBDC) – Pittsburgh, Pa.\r\n•           Mississippi State University
-  (VBOC) – Mississippi State, Miss.\r\n \r\nEach winning center will also receive
+  for use in their centers, and in counseling their local area businesses.</p>
+  The winners are as follows:<br>•           Community Business Partnership
+  (SBDC) – Springfield, Va.<br>•           McLennan SBDC – Waco, Texas<br>•           Renaissance
+  Entrepreneurship Center (WBC) – San Francisco, Calif.<br>•           University
+  of Pittsburgh (SBDC) – Pittsburgh, Pa.<br>•           Mississippi State University
+  (VBOC) – Mississippi State, Miss.<p>Each winning center will also receive
   $25,000 in prize money to support travel expenses associated with the I-Corps
   program, the adaptation and development of a new curriculum, and the delivery
   of that curriculum in their local communities.  The SBA plans to leverage these
   adapted curricula by making them available to all members of the SBA’s resource
-  partner network.\r\n \r\nThe five winning contestants represent a geographically
+  partner network.</p><p>The five winning contestants represent a geographically
   diverse group.  Applicants aimed their proposed curricula at a number of different
   audiences, including disadvantaged Main Street districts, and women from minority
-  and immigrant communities.\r\n \r\n###\r\n"
+  and immigrant communities.</p>"
 winner-solution-link-0: ''
 winner-name-0: Community Business Partnership (SBDC) – Springfield, Va; McLennan
   SBDC – Waco, Texas; Renaissance Entrepreneurship Center (WBC) – San Francisco,
@@ -653,24 +653,24 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: '<strong>UPDATE - 3/11/2016 - SBA is pleased to announce the five winners
-  of the Lean for Main Street Training Challenge. Please see the discussion tab or
+description: '<p><strong>UPDATE - 3/11/2016 - SBA is pleased to announce the five winners
+  of the Lean for Main Street Training Challenge. Please see
   the <a href="https://www.sba.gov/content/sba-announces-winners-lean-main-street-training-challenge-0"
-  target="_blank">press release</a> for winner information. Thank you to all applicants!</strong>    -----------------------------    <strong><em>Note:
+  target="_blank">press release</a> for winner information. <br>Thank you to all applicants!</strong>     <strong></p><p><em>Note:
   This challenge is limited only to entities that are currently part of SBA’s Resource
   Partner Network, i.e. entities that receive SBA funding to operate Small Business
   Development Centers (both lead and service centers are eligible), Women’s Business
   Centers, Veteran''s Business Outreach Centers, and SCORE Chapters. Please see the
   Rules section for more information, or contact leanchallenge@sba.gov with additional
-  questions.</em></strong>    Given the success and growing popularity of the National
+  questions.</em></strong></p>    <p>Given the success and growing popularity of the National
   Science Foundation’s I-Corps™ program (see http://www.nsf.gov/news/special_reports/i-corps/about.jsp),
   the SBA is interested in the potential for using adapted versions of that program
   as a means to assist a broader array of small businesses and aspiring entrepreneurs
   operating outside the I-Corps™ program’s current focus on technology-based businesses
-  or commercialization concepts.  For reference, the I-Corps™ program involves expert
+  or commercialization concepts.</p> <p>For reference, the I-Corps™ program involves expert
   business trainers helping teams of scientists and entrepreneurs apply “lean principles”—a
   collection of practices and concepts for business model analysis—to those scientists’
-  and entrepreneurs’ nascent entrepreneurial efforts.  Given the SBA’s esteem for
+  and entrepreneurs’ nascent entrepreneurial efforts.</p> <p>Given the SBA’s esteem for
   the success of this program, the SBA has partnered with the National Science Foundation
   (NSF) to offer the Lean for Main Street Training Challenge to current SBA Women’s
   Business Centers, Small Business Development Centers, and SCORE Chapters (“Contestants”).    Contestants
@@ -679,10 +679,10 @@ description: '<strong>UPDATE - 3/11/2016 - SBA is pleased to announce the five w
   regions that have not had significant exposure or access to these resources. Winning
   Contestant representatives will participate in an in-person and virtual train-the-trainer 
   program and forum with I-Corps™ national instructors to develop an innovative framework
-  for exposing lean methodology to businesses in traditional sectors.  Winners will
+  for exposing lean methodology to businesses in traditional sectors.</p> <p>Winners will
   then implement these newly-developed lean training resources to businesses in their
   respective communities on a pilot basis and provide SBA with an assessment of their
-  effectiveness. For more information, please see the Rules section.'
+  effectiveness. For more information, please see the Rules section.</p>'
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
