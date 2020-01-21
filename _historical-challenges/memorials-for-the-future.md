@@ -97,18 +97,18 @@ rules: '<strong>SUBMISSION</strong>    The deadline for registration and electro
   project, please include the following items in a maximum of five pages total:</li>   <li>A
   150-word description of the project''s relevance to this proposal, innovative
   design and/or policy strategies, and implementation.</li>   <li>A list of participating
-  team members, including their roles within the scope of the past project.</li>  </ul>  <strong>TEAMS</strong>    The
+  team members, including their roles within the scope of the past project.</li>  </ul>  <p><strong>TEAMS</strong><br>    The
   competition is open to the public. Teams must include at least one designer
   (an artist, architect, landscape architect, urban designer and/or planner),
   and are encouraged to include members with expertise in technology, storytelling,
   history, commemoration, visual arts, and the social sciences. The competition
   partners will select three teams to each receive $15,000 stipends to participate
-  in a research and design process.    <strong>LOCATION</strong>    The competition
+  in a research and design process.</p>    <strong>LOCATION</strong><br>    The competition
   proposals should be based on specific places or areas in Washington D.C. Proposals
   may take a physical form or may be virtual. Preference will be given to teams
   that propose a site or sites <strong>outside of</strong> the National Mall.
   The following locations are suggestions reflecting typical opportunity sites
-  for new memorials in Washington:    Near the monumental core: <strong>The Belvedere
+  for new memorials in Washington:    Near the monumental core: <br><strong>The Belvedere
   </strong>  The Belvedere is located on waterfront parkland within West Potomac
   Park and is bounded by the Potomac River to the west, the Theodore Roosevelt
   Bridge to the north, and the Rock Creek Parkway to the east. The Belvedere is
@@ -116,17 +116,17 @@ rules: '<strong>SUBMISSION</strong>    The deadline for registration and electro
   to the south, providing a visual link between the two structures. The Belvedere
   is the historic terminus of the western end of Constitution Avenue and provides
   open vistas across the Potomac River to Virginia, as well as the natural environment
-  of Rock Creek and West Potomac Parks.    Within a residential area: <strong>Randle
-  Circle or Tenley Circle</strong>  Memorials must be integrated with community
+  of Rock Creek and West Potomac Parks.    Within a residential area: <br><strong>Randle
+  Circle or Tenley Circle</strong><br>  Memorials must be integrated with community
   uses and goals for public plazas and open space. Implementation of new memorials
   within the city''s residential areas must be closely coordinated with neighborhood
-  plans prepared by local residents and elected officials.    <strong>Randle Circle</strong>
+  plans prepared by local residents and elected officials.<br>    <strong>Randle Circle</strong>
   is located in a residential neighborhood in Southeast Washington, D.C. Randle
   Circle comprises two landscaped parcels that are associated with the intersection
   of Massachusetts and Minnesota Avenues, SE. The entrance to Fort Dupont Park,
   part of the National Park System and the Civil War Defenses of Washington, is
   located on Randle Circle. The character of the surrounding neighborhood should
-  be considered in any future memorial for the site.    <strong>Tenley Circle</strong>
+  be considered in any future memorial for the site.    <br><strong>Tenley Circle</strong>
   is located in a vibrant, mixed-use neighborhood setting and is within walking
   distance of the Tenleytown-American University Metro station. Tenley Circle
   comprises several landscaped parcels that are associated with the intersection
@@ -135,7 +135,7 @@ rules: '<strong>SUBMISSION</strong>    The deadline for registration and electro
   are small and occupied by existing transit uses (bus stops). In conjunction
   with several out-parcels, Tenley Circle is suitable for commemorative features.
   The character of the surrounding neighborhood should be considered in any future
-  memorial for the site.    Around a natural setting: <strong>Hains Point</strong>  Hains
+  memorial for the site.    <br>Around a natural setting: <strong>Hains Point</strong>  Hains
   Point is located at the confluence of the Potomac and Anacostia Rivers and is
   part of East Potomac Park. The site is bounded by the Washington Channel and
   the Potomac River shorelines and offers dramatic waterfront vistas within the
@@ -366,82 +366,79 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: 'The National Park Service (NPS), the National Capital Planning Commission
+description: '<p>The National Park Service (NPS), the National Capital Planning Commission
   (NCPC), and Van Alen Institute are collaborating on Memorials for the Future, an
   ideas competition to reimagine how we think about, feel, and experience memorials
-  with the <strong>Memorials for the Future</strong> challenge.    Memorials enshrine
+  with the <strong>Memorials for the Future</strong> challenge.</p>    <p>Memorials enshrine
   what we as a society want to remember. But the places, people, and stories that
   we memorialize, and the audiences who engage with them are constantly changing.
   A memorial tells its story through subject matter and design. This story is often
   complex and multi-dimensional, as a memorial''s interpretive elements embody ideas
   of identity, culture, and heritage, and each has intensely personal interpretations
-  for every individual.    As a national capital, Washington is a place of collective
+  for every individual.</p>    <p>As a national capital, Washington is a place of collective
   memory. The wealth of monuments sited throughout the city take on heightened significance
   as they reflect relationships among nations, of national remembrance, and of many
   important events and figures in our history. Often the traditional and fixed nature
   of memorial design does not allow for adaptation and redefinition over time and
-  does not encourage more than one interpretation of a given narrative.    The traditional
+  does not encourage more than one interpretation of a given narrative.</p>    <p>The traditional
   approach to developing memorials in Washington has resulted in a commemorative landscape
   that is thematically similar and increasingly land-intensive, which poses challenges
   for Washington, and has long-term implications for the potential uses of a memorial''s
-  surrounding park setting.    The planning and design process is often costly and
+  surrounding park setting.</p>    <p>The planning and design process is often costly and
   lengthy, which limits opportunities to groups or individuals with significant resources.
   Current trends raise a number of questions about the future of Washington''s memorial
   landscape and the ability to provide space and resources for future commemorative
-  works.    <strong>Memorials for the Future</strong> calls for designers, artists,
+  works.</p>    <p><strong>Memorials for the Future</strong> calls for designers, artists,
   and social scientists to develop new ways to commemorate people and events that
   are more inclusive and flexible, and that enrich Washington''s landscape while responding
   to the limitations of traditional commemoration. As NPS celebrates its centennial
   in 2016, Memorials for the Future creates new ideas for honoring our diverse histories,
-  heritage, and culture.    The entries will be narrowed to three teams to participate
+  heritage, and culture.</p>    <p>The entries will be narrowed to three teams to participate
   in a research and design process, working closely with the competition partners
   to develop site-specific designs for memorials in Washington D.C. that are adaptive,
   ephemeral, virtual, event-focused, or interactive. The teams'' proposals will advance
   a framework for the design of 21st-century memorials and provide future memorial
-  sponsors with fresh approaches to commemorating their subject matter.    The goals
+  sponsors with fresh approaches to commemorating their subject matter.</p>    The goals
   of the competition are to create new approaches to and forms of memorializing:  <ul>   <li>That
   advance a framework for the planning and design of commemorative works in the 21st
-  century.</li>   <li><i class="fa fa-circle fa-sm color-blue"></i>That demonstrate
+  century.</li>   <li>That demonstrate
   how temporary, mobile, interactive or adaptive displays can provide powerful and
-  memorable experiences that are cost-efficient.</li>   <li><i class="fa fa-circle
-  fa-sm color-blue"></i>That develop ways to commemorate that are inclusive of multiple
-  narratives and have the potential to be flexible as perspectives change.</li>   <li><i
-  class="fa fa-circle fa-sm color-blue"></i>That Honor the scale, context and national
-  significance of Washington, DC.</li>  </ul>  The competition results will be displayed
+  memorable experiences that are cost-efficient.</li>   <li>That develop ways to commemorate that are inclusive of multiple
+  narratives and have the potential to be flexible as perspectives change.</li>   
+  <li>That Honor the scale, context and national
+  significance of Washington, DC.</li>  </ul> <p>The competition results will be displayed
   online and at an exhibition in Washington D.C., published in an illustrated report,
   and will inform NPS, NCPC, and their partners on future design and policy opportunities.    The
   deadline for registration and electronic submission of the Request for Concepts
-  is <strong>11:59 p.m. EDT on May 4, 2016</strong>.    <strong>PHASES</strong>    <strong>Phase
+  is <strong>11:59 p.m. EDT on May 4, 2016</strong>.</p>    <strong>PHASES</strong><br>    <p><strong>Phase
   I</strong> – Initial Application  April 11 – May 4, 2016    Applications from multidisciplinary
   teams for this Request for Concepts are due May 4, 2016. (See submission requirements
   below for more information on applying.) Phase I will conclude on May 30, 2016,
   with the notification of the three teams selected to participate in the competition.    Finalist
   teams will attend a launch event in Washington, DC, on June 8, 2016 and June 9,
   2016. Teams will present their initial proposals to the competition partners, advisory
-  committee, and any public attendees.    <strong>Phase II</strong> – Research and
+  committee, and any public attendees.</p>    <p><strong>Phase II</strong> – Research and
   Design Concept  June 8 – July 10, 2016    Over the course of the subsequent five
   weeks, teams will continue to conduct research and refine designs. Teams will participate
   in weekly calls with competition partners during which they will show in-progress
   work (via PDF sent beforehand). Teams are expected to incorporate feedback from
   the competition partners throughout the five-week process.    For one to two days
   during the week of July 11, 2016, teams will reconvene for a design framework mid-review
-  working session.    <strong>Phase III</strong> – Final Designs  July 11 – August
+  working session.</p>    <p><strong>Phase III</strong> – Final Designs  July 11 – August
   1, 2016    Teams will have between three and four weeks to develop their final memorial
   proposals. During this period, teams will participate in weekly calls with competition
   partners and show in-progress materials via PDF.    For one to two days during the
-  week of August 1, teams will meet again for a final design presentation.    <strong>Phase
+  week of August 1, teams will meet again for a final design presentation.</p>   <p><strong>Phase
   IV</strong> – Exhibition Development and Installation  August 1 – September 8, 2016    During
   the time period between the final review and exhibition launch, teams will participate
   in weekly calls with competition partners and show in-progress materials for the
   exhibition via PDF.    <strong>TIMELINE</strong>  <ul>   <li>April 18, 2016 – Pre-registration
   Deadline (Encouraged but not required)</li>   <li>May 4, 2016 – Submission DeadlinE</li>   <li>Early
   June 2016 – Top Three Finalist Teams NotifieD</li>   <li>June 8, 2016 – Competition
-  Launch Event<i class="fa fa-circle fa-sm color-blue"></i></li>   <li>Mid-July, 2016
-  – Design Framework Working Session (Exact dates TBD)<i class="fa fa-circle fa-sm
-  color-blue"></i></li>   <li>Early August, 2016 – Final Presentation<i class="fa
-  fa-circle fa-sm color-blue"></i></li>   <li>August 8, 2016 – Final Deliverables
-  Due<i class="fa fa-circle fa-sm color-blue"></i></li>   <li>September 8, 2016 –
-  Announcement of Competition Winner &amp; Exhibition Launch</li>  </ul>'
+  Launch Event</li>   <li>Mid-July, 2016
+  – Design Framework Working Session (Exact dates TBD)</li>   <li>Early August, 2016 – Final Presentation</li>   <li>August 8, 2016 – Final Deliverables
+  Due</li>   <li>September 8, 2016 –
+  Announcement of Competition Winner &amp; Exhibition Launch</li>  </ul></p>'
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
