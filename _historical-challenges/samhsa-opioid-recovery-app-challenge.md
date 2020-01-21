@@ -78,7 +78,7 @@ rules: '<h5 id="samhsa-s-opioid-recovery-app-challenge"><strong>SAMHSA’s Opioi
   and other nonprofit organizations), limited liability companies, partnerships,
   and other legal entities that, at the time of entry, are domiciled (or incorporated)
   in the United States, have been duly organized or incorporated and validly exist,
-  and employ no more than one hundred (100) people (“Organizations”).    B. Each
+  and employ no more than one hundred (100) people (“Organizations”).    <br>B. Each
   team or Organization shall appoint one individual (the “Representative”) to
   represent and act, including entering a Submission, on behalf of said team or
   Organization. The Representative must meet the eligibility requirements for
@@ -136,7 +136,7 @@ rules: '<h5 id="samhsa-s-opioid-recovery-app-challenge"><strong>SAMHSA’s Opioi
   service provider or other organization responsible for assigning email addresses
   for the domain associated with the submitted address. Contestants generally
   and potential winners may be required to show proof of being the authorized
-  account holder.    <strong>B. Submission </strong>    (i) Contestants must create
+  account holder.    <br><strong>B. Submission </strong>    (i) Contestants must create
   a working software application. Apps must be developed as either:    a. iOS
   or Android, as a downloadable app.    Contestants can submit an app developed
   for just one operating system (OS) but the 1st place winner must develop for
@@ -217,7 +217,7 @@ rules: '<h5 id="samhsa-s-opioid-recovery-app-challenge"><strong>SAMHSA’s Opioi
   such as uncompiled code, data, images, etc., belonging to the application for
   review.</li>  </ol>  <h5 id="5-submission-requirements"><strong>5. SUBMISSION
   REQUIREMENTS </strong></h5>  <strong>A. Language Requirements </strong>    All
-  Submission materials must be in English.    <strong>B. Text Description, Image
+  Submission materials must be in English.    <br><strong>B. Text Description, Image
   and Video Requirements </strong>    (i) The text description must describe the
   Application’s key features and functionality, and must outline how the features
   address the insights specified by the Administrator in Attachment A.    (ii)
@@ -232,7 +232,7 @@ rules: '<h5 id="samhsa-s-opioid-recovery-app-challenge"><strong>SAMHSA’s Opioi
   features (by walking through the Application), the Submission may be disqualified
   at the Sponsor’s and/or Administrator’s sole discretion.    (v) Please provide
   a description of ideas for how you could promote the app if you are a prizewinner
-  (350 words max)    <strong>C. Content Requirements</strong>    (i) The Submission
+  (350 words max)    <br><strong>C. Content Requirements</strong>    (i) The Submission
   must only address insights provided.    (ii) The Submission must include the
   required information contained in the <a href="https://challenges.s3.amazonaws.com/ABT/Challenge%20Assets%20_FINAL%20APPROVED.xlsx"
   target="_blank">asset file</a>. This includes APIs and resources. The <a href="https://challenges.s3.amazonaws.com/ABT/Challenge%20Assets%20_FINAL%20APPROVED.xlsx"
@@ -247,7 +247,7 @@ rules: '<h5 id="samhsa-s-opioid-recovery-app-challenge"><strong>SAMHSA’s Opioi
   audio or visual performance, including but not limited to music, dance, or other
   performing art, third-party copyrighted material or trademarks, unless the Contestant
   has written permission to use such material.    (vi) The Submission must not
-  use HHS''s or SAMHSA''s logos or official seals and must not claim endorsement.    <strong>D.
+  use HHS''s or SAMHSA''s logos or official seals and must not claim endorsement.    <br><strong>D.
   Application Requirements</strong>    In addition to the requirements described
   above in Sections 5(A) – 5(C):    (i) The Application must be able to be successfully
   installed and capable of running consistently as described on the platform for
@@ -282,7 +282,7 @@ rules: '<h5 id="samhsa-s-opioid-recovery-app-challenge"><strong>SAMHSA’s Opioi
   for review before the end of the Competition Submission Period. For any software
   that is not a web or mobile web Application run on a web browser (tablet and
   desktop Applications), Contestants will be required to provide an installation
-  file containing the Application.    <strong>E. General Requirements </strong>    (i)
+  file containing the Application.    <br><strong>E. General Requirements </strong>    (i)
   Submissions must not:    a. violate any law or regulation;    b. depict hatred;    c.
   be in bad taste;    d. denigrate (or be derogatory towards) any person or group
   of persons or any race, ethnic group or culture;    e. threaten a specific community
@@ -331,8 +331,8 @@ rules: '<h5 id="samhsa-s-opioid-recovery-app-challenge"><strong>SAMHSA’s Opioi
   limitation, any statutory or common law trademark, copyright or patent, nor
   any privacy rights, moral rights nor any other rights of any person or entity;
   or    b. constitute or result in any misappropriation or other violation of
-  any person’s publicity rights or right of privacy.    &nbsp;  <h4 id="6-submission-rights"><strong>6.
-  SUBMISSION RIGHTS</strong></h4>  A. Any applicable intellectual property rights
+  any person’s publicity rights or right of privacy.    &nbsp;  <h5 id="6-submission-rights"><strong>6.
+  SUBMISSION RIGHTS</strong></h5>  A. Any applicable intellectual property rights
   to a Submission will remain with the Contestant.    B. As part of its submission,
   the Applicant must provide written consent granting the Sponsor and Administrator,
   and any third parties acting on the Sponsor’s behalf, a royalty-free, non-exclusive,
@@ -346,8 +346,8 @@ rules: '<h5 id="samhsa-s-opioid-recovery-app-challenge"><strong>SAMHSA’s Opioi
   third parties acting on their behalf will also have the right to publicize Contestant’s
   name and, as applicable, the names of Contestant’s team members or Organization
   which participated in the Submission on the Competition Website for a period
-  of two years following the conclusion of the Competition.    &nbsp;  <h5 id="7-display-of-submissions"><strong>7.
-  DISPLAY OF SUBMISSIONS</strong></h5>  A. Eligible Submissions will be posted
+  of two years following the conclusion of the Competition.
+  <h5><strong>7. DISPLAY OF SUBMISSIONS</strong></h5>  A. Eligible Submissions will be posted
   on the Competition Website on a rolling basis after being screened and/or tested
   by the Administrator for basic functionality, accuracy of messaging, integrity
   (i.e., security) and appropriateness of content. The Administrator has the right
@@ -395,8 +395,8 @@ rules: '<h5 id="samhsa-s-opioid-recovery-app-challenge"><strong>SAMHSA’s Opioi
   discretion, to    a. cancel, suspend, or modify the Challenge, and/or    b.
   not award any prizes if no submissions are deemed worthy.    H. All decisions
   made by the Sponsor regarding adherence to contest rules are final.    I. All
-  selection of contest winners is final.    <strong>9. VERIFICATION OF POTENTIAL
-  WINNERS</strong>    A. ALL POTENTIAL COMPETITION WINNERS ARE SUBJECT TO VERIFICATION
+  selection of contest winners is final.    <h5><strong>9. VERIFICATION OF POTENTIAL
+  WINNERS</strong></h5>    A. ALL POTENTIAL COMPETITION WINNERS ARE SUBJECT TO VERIFICATION
   OF IDENTITY, QUALIFICATIONS AND ROLE IN THE CREATION OF THE APPLICATION BY THE
   SPONSOR AND THE ADMINISTRATOR, WHOSE DECISIONS ARE FINAL AND BINDING IN ALL
   MATTERS RELATED TO THE COMPETITION. Potential winners must continue to comply
@@ -621,7 +621,7 @@ rules: '<h5 id="samhsa-s-opioid-recovery-app-challenge"><strong>SAMHSA’s Opioi
   4</strong>. <strong>Individuals in MAT need support in relapse prevention such
   as warning signs, trigger alerts, and motivations for recovery.</strong></td>  </tr>  <tr>  <td><strong>Required
   Features: </strong>There are no required features, but developers are encouraged
-  to provide relapse prevention support.</td>  </tr>  <tr>  <td><strong>Insight
+  to provide relapse prevention support.</td>  </tr> <br><br> <tr>  <td><strong>Insight
   5. Individuals in MAT maintenance are often juggling their work, personal, and
   treatment schedules.</strong></td>  </tr>  <tr>  <td><strong>Required Features:
   </strong>There are no required features, but developers are encouraged to provide
@@ -803,24 +803,23 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: 'Please check out our DevPost site for more details on applying for this
-  Challenge    &nbsp;    <strong>medication-assisted treatment for opioid use disorders</strong>    Are
+description: '<p>Are
   you good at creating user-friendly mobile apps for smartphones? Do you like to make
   a positive difference in the lives of others and in our nation’s communities? Then
   we’re looking for you to work on this challenge! Just as there are apps to help
   people with diabetes manage their disease, people in recovery from opioid use disorder
   could benefit from an app that provides features and information that support their
-  recovery.    Addiction is a chronic brain disease. Those who suffer from a substance
+  recovery.</p><p>Addiction is a chronic brain disease. Those who suffer from a substance
   use disorder need help to change their behavior and learn new strategies to maintain
   health. They can get this help with treatment—with the care of doctors and substance
   use disorders treatment providers. Treatment can help people stop using substances.
   It helps them get through withdrawal and cope with cravings. Treatment also helps
-  address other harmful behaviors that are not conducive to recovery.    Just as important,
+  address other harmful behaviors that are not conducive to recovery.</p><p>Just as important,
   treatment helps people address life issues they might have that can trigger relapse,
   such as feelings of low self-worth, a bad situation at work or home, a co-occurring
   mental disorder, or spending time with people who use drugs. In short, treatment
   helps people move into healthy lifestyles—into a new way of living which is referred
-  to as recovery.    Treatment may include medication. Medication-assisted treatment
+  to as recovery.</p><p>Treatment may include medication. Medication-assisted treatment
   (MAT) is treatment that includes the use of medication along with counseling and
   other types of support. Treatment that includes medication-assisted treatment is
   an important option for opioid use disorder. Medication-assisted treatment can reduce
@@ -831,15 +830,15 @@ description: 'Please check out our DevPost site for more details on applying for
   can give the person the chance to focus on the lifestyle changes that lead back
   to healthy living.  People in outpatient MAT could benefit from a mobile app for
   smartphones that provides features and information that supports their maintenance
-  in recovery.    Below are some ideas and information on the insights regarding what
+  in recovery.</p><p>Below are some ideas and information on the insights regarding what
   patients receiving MAT might need, and what an app like this might do to respond
   to those insights. There are some required features and resources that must be included
   in the final product we’ve provided them in the <a href="https://challenges.s3.amazonaws.com/ABT/Challenge%20Assets%20_FINAL%20APPROVED.xlsx"
   target="_blank">assets</a> file. <em>The rest is up to you.</em> We ask you to be
   creative and innovative, and to develop a good user experience. You might want to
   collaborate with an existing recovery tool already on the market, or think of a
-  recovery-related use to an existing tool.    What does someone in recovery from
-  opioid use disorder need and what type of mobile app could you create? <strong>Here’s
+  recovery-related use to an existing tool.</p><p>What does someone in recovery from
+  opioid use disorder need and what type of mobile app could you create?</p> <br><strong>Here’s
   insight one:</strong> Since medication-assisted treatment is likely an important
   part of an individual’s recovery, patients may need drug interaction and side effect
   information for methadone, buprenorphine, and naltrexone that they can access on
@@ -847,7 +846,7 @@ description: 'Please check out our DevPost site for more details on applying for
   a couple of days ago but is suddenly feeling some side effects and can’t reach a
   doctor to ask them about these side effects. With the app, they can look up side
   effects, how long they might last, and what else they can anticipate – all via the
-  privacy of their smartphone.    <strong>Insight two</strong>: Patients receiving
+  privacy of their smartphone.    <br><strong>Insight two</strong>: Patients receiving
   MAT need education and psychoeducational materials for opioid recovery support,
   such as how to manage their time; information on parenting skills; and the effects
   of drug use on their family. Perhaps they haven’t told their friends yet that they’re
@@ -862,7 +861,7 @@ description: 'Please check out our DevPost site for more details on applying for
   avoiding relapse; dealing with guilt; managing time, life, money, and emotions;
   repairing relationships; and dealing with other health issues. Having these resources
   on a smartphone – a tool many people carry with them everywhere – means that they
-  are available for use and referral in down time, waiting time, or crisis time.    <strong>Insight
+  are available for use and referral in down time, waiting time, or crisis time.   <br> <strong>Insight
   three</strong> is related to relapse prevention – an important component of recovery.
   One of the main ways to prevent relapse is getting involved in healthy activities
   - replacing unhealthy habits with new habits that have emotional, physical, and/or
@@ -873,7 +872,7 @@ description: 'Please check out our DevPost site for more details on applying for
   prevention is being aware and avoiding triggers for drug use. Triggers could be
   certain people, places, or situations. Perhaps a feature that reminds patients,
   via a call or text when a trigger is present would be useful – to help keep their
-  recovery at the forefront of their awareness.    <strong>Insight four</strong> describes
+  recovery at the forefront of their awareness.    <br><strong>Insight four</strong> describes
   how individuals in MAT need support in relapse prevention such as warning signs,
   trigger alerts, and motivations for recovery. Could recovery motivation reminders
   in a calendar tool, with links to personal motivations – such as photos of family,
@@ -885,12 +884,12 @@ description: 'Please check out our DevPost site for more details on applying for
   aware and avoiding triggers for drug use. Triggers could be certain people, places,
   or situations. Perhaps a feature that reminds patients, via a call or text when
   a trigger is present would be useful – to help keep their recovery at the forefront
-  of their awareness.    <strong>Insight five</strong> shows that Individuals in MAT
+  of their awareness.    <br><strong>Insight five</strong> shows that Individuals in MAT
   maintenance are often juggling their work, personal, and treatment schedules. Maintaining
   recovery means finding new ways to live a healthy lifestyle just as other individuals
   with chronic health conditions must do.  How could an app help with this? Could
   a time management tool, with daily reminders for doctor, counselor, and treatment
-  appointments help?    So here is the Challenge…SAMHSA would like the development
+  appointments help?    <p>So here is the Challenge…SAMHSA would like the development
   of a free, opioid recovery focused and user friendly <em>Opioid Recovery Support
   app</em> available to patients in recovery who are receiving outpatient medication-assisted
   treatment. Any features, tools, or <a href="https://challenges.s3.amazonaws.com/ABT/Challenge%20Assets%20_FINAL%20APPROVED.xlsx"
@@ -909,7 +908,7 @@ description: 'Please check out our DevPost site for more details on applying for
   support app or develop an entirely new one, SAMHSA wants you to submit your solutions!    See
   the App information (see “REQUIREMENTS” below and the <a href="https://challenges.s3.amazonaws.com/ABT/Challenge%20Assets%20_FINAL%20APPROVED.xlsx"
   target="_blank">Rules tab </a>for more information).    <a href="http://samhsaopioidrecoveryapp.devpost.com/rules">View
-  full rules</a>'
+  full rules</a></p>'
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
