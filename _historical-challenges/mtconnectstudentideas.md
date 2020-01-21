@@ -65,32 +65,31 @@ hide-challenge-funnel: 'Yes'
 type-of-challenge: Ideas
 participation-requirements: ''
 number-of-phases: ''
-how-to-enter: "Please use the \"Submit Solution\" tab to upload your five-page
-  proposal.\r\n\r\n<strong>(A) Cover Page (1 page)</strong>\r\nProgram Name: <em>MTConnect
+how-to-enter: "<strong>(A) Cover Page (1 page)</strong>\r\nProgram Name: <em>MTConnect
   Student Challenge: Idea Creation</em>\r\nTitle of Idea:\r\nRespondent Name:\r\nOrganization
-  (if applicable):\r\nPhone Number:\r\nEmail address:\r\nDate of Proposal:\r\n\r\n<strong>(B)
+  (if applicable):\r\nPhone Number:\r\nEmail address:\r\nDate of Proposal:\r\n\r\n<strong><br>(B)
   Section I: Abstract</strong> (200 words max.): Proposed idea:\r\nProvide an
-  abstract describing your idea for an application\r\n\r\n<strong>(C) Section
+  abstract describing your idea for an application\r\n\r\n<strong><br>(C) Section
   II: Proposed idea:</strong>\r\nProvide an innovative, achievable, and inspirational
   goal statement that summarizes your idea\r\nDescribe your proposed idea\r\nIdentify
-  areas of benefit and the impact your idea would have on manufacturing\r\n\r\n<strong>(D)
+  areas of benefit and the impact your idea would have on manufacturing\r\n\r\n<strong><br>(D)
   Section III: Technical Requirements:</strong>\r\nIdentify the technical requirements
   needed to implement your proposed idea\r\nDescribe how your idea proposes to
   utilize MTConnect\r\nAre there scientific or technical breakthroughs and milestones
   required to achieve the goal (i.e. new technology developments, enhancements
-  to MTConnect standard, etc.)?\r\n\r\n<strong>(E) Section IV: Benefits and Impact:</strong>\r\nDescribe
+  to MTConnect standard, etc.)?\r\n\r\n<strong><br>(E) Section IV: Benefits and Impact:</strong>\r\nDescribe
   the anticipated benefits to manufacturing that will be realized through your
   proposed solution.\r\nThe impact should be described as a return on investment
   (ROI) to include the installation and maintenance of the prescribed technology.
   ROI could include concepts such as quality improvement, reduction in cost of
   doing business, increase in productivity, improved efficiency, etc.\r\n\r\n<span
-  style=\"text-decoration: underline;\">The format for the submission is limited
+  style=\"text-decoration: underline;\"><p>The format for the submission is limited
   to 5 single-spaced pages</span>, not including the Title page, with 1 inch margins
   on 8.5 x 11 inch letter paper and using Times New Roman font in the 12 point
   font size. All submissions shall not exceed 35MB. If links are included, they
   will not be considered during evaluation of the submission.\r\n\r\nAll abstracts
   will be made public.\r\n\r\nSubmissions containing proprietary data will not
-  be accepted.\r\n\r\n&nbsp;"
+  be accepted.\r\n\r\n&nbsp;</p>"
 partnerships: ''
 groupAttributes:
 judging-criteria-description-0: ''
