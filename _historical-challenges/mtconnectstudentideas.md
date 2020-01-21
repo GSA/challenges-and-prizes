@@ -253,12 +253,12 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: '<span style="color: #000000; font-family: Calibri;">UPDATE: Based on
+description: '<p><span style="color: #000000; font-family: Calibri;">UPDATE: Based on
   multiple requests from both professors and students, the submission deadline for
   this competition has been EXTENDED to March 15, 2016. Winners will be announced
   by March 23, 2016. Ideation winners will be invited to attend the <a href="http://mc2conference.com"
   target="_blank">[MC]2 Conference</a>, a digital manufacturing conference taking
-  place in Dallas on April 19-21, 2016.</span>    &nbsp;    The next Industrial Revolution
+  place in Dallas on April 19-21, 2016.</span></p>    <p>The next Industrial Revolution
   is happening <em>now</em>, and this is your opportunity to change its trajectory
   forever! Your participation in this challenge could directly affect the advancement
   of an entire industry, and subsequently our nation’s economic growth. Sounds daunting?
@@ -267,22 +267,23 @@ description: '<span style="color: #000000; font-family: Calibri;">UPDATE: Based 
   industry. Not only are there incredible opportunities and cash prizes on the line
   (upwards of $10,500!), but the challenge could also serve as an impressive thesis,
   capstone or finals project. You have to do these projects for class anyway, you
-  might as well make your mark on history while you’re at it!    Your challenge is
+  might as well make your mark on history while you’re at it!</p><p>Your challenge is
   to brainstorm and develop innovative and adaptable manufacturing intelligence, drawing
   from data acquired using the MTConnect standard. MTConnect is an open, XML- and
   HTTP-based communications standard that acts as the enabler for the Internet of
   Things for manufacturing by fostering improved connectivity and interoperability
   between manufacturing equipment and devices. Within the challenge itself— there
-  are two separate competitions, and you can choose to participate in one or both.    #1— Idea
+  are two separate competitions, and you can choose to participate in one or both.</p> 
+  <p>#1— Idea
   Creation: You must identify a manufacturing intelligence need, and build a business
   case for your proposed solution. Your solution must be written out, and including
-  a cover page and 200 word abstract, <em>may not exceed five pages</em>.    #2— Applications:
+  a cover page and 200 word abstract, <em>may not exceed five pages</em>.</p>  <p>#2— Applications:
   Read more about the Application Challenge <u><a href="https://www.challenge.gov/challenge/mtconnectstudentapps/"
   target="_blank">here</a></u>.    Please see the Rules tab for a comprehensive run
   down of the challenge rules and requirements. For more information, check out the
   Discussion tab here and our <a href="http://www.mtconnect.org/resources" target="_blank">resources on MTConnect.org</a>.
   And, if you have any other questions, don’t hesitate to reach out on <a href="http://www.facebook.com/mtconnect">Facebook</a> or <a
-  href="http://www.twitter.com/mtconnect">Twitter</a>. Good luck!    &nbsp;'
+  href="http://www.twitter.com/mtconnect">Twitter</a>. Good luck!</p>'
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
