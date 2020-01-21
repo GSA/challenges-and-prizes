@@ -331,8 +331,8 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: '<p style="text-align: center;"><span style="text-decoration: underline;"><strong>Visualize
-  Your Water</strong></span></p>  <p style="text-align: center;">Visualize Your Water
+description: '<p><span style="text-decoration: underline;"><strong>Visualize
+  Your Water</strong></span></p>  <p>Visualize Your Water
   is an exciting challenge that will equip high school students with new technology
   skills and help to broaden their understanding of nutrient pollution issues. Students
   will submit their best, most innovative visualization that tells a story about nutrient
@@ -368,22 +368,20 @@ description: '<p style="text-align: center;"><span style="text-decoration: under
   Started Guide.</a></li>   <li style="text-align: left;">Create your solution!</li>   <li
   style="text-align: left;">Submit your solution and submission form.</li>   <li style="text-align:
   left;">Note the submission confirmation in your browser window.</li>  </ol>  </li>  </ul>  &nbsp;  <p
-  style="text-align: center;"><strong>Introductory Resources</strong></p>  <p style="text-align:
-  center;"><a href="https://www.youtube.com/watch?v=vCicSNnKUvM" target="_blank">U.S.
-  EPA video on Nutrient Pollution</a></p>  <p style="text-align: center;"><a href="https://www.govloop.com/resources/story-mapping-chesapeake%E2%80%8B/"
+><strong>Introductory Resources</strong></p>  <p><a href="https://www.youtube.com/watch?v=vCicSNnKUvM" target="_blank">U.S.
+  EPA video on Nutrient Pollution</a></p>  <p><a href="https://www.govloop.com/resources/story-mapping-chesapeake%E2%80%8B/"
   target="_blank">Story Mapping Environmental Success in the Chesapeake </a></p>  <p
-  style="text-align: center;"><a href="http://www.cgll.org/for-educators/webinar-archive/visualize-your-water-challenge-webinar/"
-  target="_blank">Visualize Your Water Challenge Webinar</a></p>  <p style="text-align:
-  center;">Any use of trade, firm, or product names is for descriptive purposes only
-  and does not imply endorsement by the U.S. Government.</p>  <p style="text-align:
-  center;"><strong>See <a href="https://esri.app.box.com/vywgettingstartedguide" target="_blank">Getting
-  Started Guide</a> for the full list of resources.</strong></p>  &nbsp;  <p style="text-align:
-  center;"><strong>Have a question? </strong>See <a href="https://esri.app.box.com/vywfaq"
-  target="_blank">Frequently Asked Questions</a> or contact vizurwater@epa.gov</p>  &nbsp;    [caption
-  id="attachment_112281" align="alignright" width="300"]<img class="wp-image-112281
-  size-medium" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/01/15409013498_8d4f709f80_o-300x215.jpg"
-  alt="Credit: Patricia M." width="300" height="215" /> Credit: Patricia M.[/caption]    &nbsp;  <p
-  style="text-align: left;"><span style="text-decoration: underline;"><strong>Timeline:</strong></span></p>  <p
+><a href="http://www.cgll.org/for-educators/webinar-archive/visualize-your-water-challenge-webinar/"
+  target="_blank">Visualize Your Water Challenge Webinar</a></p>  <p>Any use of trade, firm, or product names is for descriptive purposes only
+  and does not imply endorsement by the U.S. Government.</p>  <p><strong>See <a href="https://esri.app.box.com/vywgettingstartedguide" target="_blank">Getting
+  Started Guide</a> for the full list of resources.</strong></p>
+  <p><strong>Have a question? </strong>See <a href="https://esri.app.box.com/vywfaq"
+  target="_blank">Frequently Asked Questions</a> or contact vizurwater@epa.gov</p>  &nbsp;   
+ <img class="wp-image-112281 size-medium" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/01/15409013498_8d4f709f80_o-300x215.jpg"
+  alt="Credit: Patricia M." width="300" height="215"/><br> 
+  Credit: Patricia M. 
+  &nbsp;  
+  <p style="text-align: left;"><span style="text-decoration: underline;"><strong>Timeline:</strong></span></p>  <p
   style="text-align: left;">Competition Begins  --january 13th, 2016</p>  <p style="text-align:
   left;">Submissions Due --- March 1st, 2016 by 8 pm EST</p>  <p style="text-align:
   left;">Judging --- Ends mid-March 2016</p>  <p style="text-align: left;">Winners
@@ -398,26 +396,24 @@ description: '<p style="text-align: center;"><span style="text-decoration: under
   and sponsored by a teacher at their high school. Home school students are welcome
   to enter, and in this case, guardians act as a sponsor. Teams are allowed as long
   as there is an identified team leader. If a prize is awarded to a team, it will
-  be provided to the team leader.    &nbsp;  <p style="text-align: center;"><strong>Join
-  the conversation with #VizUrWater</strong></p>  <p style="text-align: center;"><strong>Have
+  be provided to the team leader.    &nbsp;  <p><strong>Join
+  the conversation with #VizUrWater</strong></p>  <p><strong>Have
   a question? Check out the <a href="https://esri.app.box.com/vywfaq" target="_blank">FAQs</a></strong></p>  <p
-  style="text-align: center;"><strong>Contact: vizurwater@epa.gov</strong></p>  &nbsp;    [caption
-  id="attachment_112321" align="aligncenter" width="300"]<a href="https://www.challenge.gov/?attachment_id=112321"
+><strong>Contact: vizurwater@epa.gov</strong></p>  &nbsp; <a href="https://www.challenge.gov/?attachment_id=112321"
   rel="attachment wp-att-112321"><img class="wp-image-112321 size-medium" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/01/15595959392_6580f5fd9f_o-300x225.jpg"
-  alt="Credit: Diana L." width="300" height="225" /></a> Credit: Diana L.[/caption]    &nbsp;  <p
-  style="text-align: center;"><span style="text-decoration: underline;"><strong>Visualize
-  Your Water Challenge Collaborators:</strong></span></p>  <p style="text-align: center;"><a
+  alt="Credit: Diana L." width="300" height="225" /></a><br> Credit: Diana L.    &nbsp;  <p
+><span style="text-decoration: underline;"><strong>Visualize
+  Your Water Challenge Collaborators:</strong></span></p>  <p><a
   href="http://www.cgll.org/" target="_blank">Center for Great Lakes Literacy</a></p>  <p
-  style="text-align: center;"><a href="http://www.cbf.org/" target="_blank">Chesapeake
-  Bay Foundation</a></p>  <p style="text-align: center;"><a href="http://www.esri.com/"
-  target="_blank">Esri</a></p>  <p style="text-align: center;"><a href="http://glos.us/"
-  target="_blank">Great Lakes Observing System</a></p>  <p style="text-align: center;"><a
+><a href="http://www.cbf.org/" target="_blank">Chesapeake
+  Bay Foundation</a></p>  <p><a href="http://www.esri.com/"
+  target="_blank">Esri</a></p>  <p><a href="http://glos.us/"
+  target="_blank">Great Lakes Observing System</a></p>  <p><a
   href="http://www.seagrant.umn.edu/" target="_blank">Minnesota Sea Grant</a></p>  <p
-  style="text-align: center;"><a href="http://nationalgeographic.org/" target="_blank">National
-  Geographic Society</a></p>  <p style="text-align: center;"><a href="http://www.epa.gov/"
-  target="_blank">U.S. Environmental Protection Agency</a></p>  <p style="text-align:
-  center;"><a href="http://www.usgs.gov/" target="_blank">U.S. Geological Survey</a></p>  <p
-  style="text-align: center;"><a href="http://seagrant.wisc.edu/" target="_blank">Wisconsin
+><a href="http://nationalgeographic.org/" target="_blank">National
+  Geographic Society</a></p>  <p><a href="http://www.epa.gov/"
+  target="_blank">U.S. Environmental Protection Agency</a></p>  <p><a href="http://www.usgs.gov/" target="_blank">U.S. Geological Survey</a></p>  <p
+><a href="http://seagrant.wisc.edu/" target="_blank">Wisconsin
   Sea Grant</a></p>'
 campaignStatusName: Launched
 templateId: 0
