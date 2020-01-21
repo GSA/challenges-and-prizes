@@ -352,12 +352,12 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: 'People have successfully applied advanced analysis techniques to ‘big
+description: '<p>People have successfully applied advanced analysis techniques to ‘big
   data’ and have solved significant challenges in several areas of society including
-  business, biology, and astronomy.  Using these techniques has provided people with
+  business, biology, and astronomy.</p> <p>Using these techniques has provided people with
   new and valuable information from the data that was not readily available by other
   means.  However, materials science and engineering data has not yet been exploited
-  to its full potential because of its complexity.  This complexity also stands to
+  to its full potential because of its complexity.</p> <p>This complexity also stands to
   provide rich insights if the mysteries the data hold can be unraveled.    To advance
   the National goals of the Materials Genome Initiative (MGI), we are soliciting innovative
   approaches to solve materials science and engineering problems primarily through
@@ -365,13 +365,13 @@ description: 'People have successfully applied advanced analysis techniques to �
   discovery of new materials to meet an application need, or development of a new
   model describing processing-structure-property relationships in either a structural
   (load bearing), functional (electrical, optical or magnetic), or multifunctional
-  material.    Emphasis will be on use of existing and accessible data sources, novelty
+  material.</p>  <p>Emphasis will be on use of existing and accessible data sources, novelty
   of the approach, and validation of results.    Winners will be invited to present
   their work at a special session (reasonable expenses paid) during Materials Science
   &amp; Technology 2016 in Salt Lake City, Utah.    This challenge requires only a
   written research report in a format suitable for peer-reviewed scientific publication
   be submitted. The challenge award will be contingent upon evaluation of the proposal
-  by the review committee.  The Air Force Research Laboratory intends to make multiple
+  by the review committee.</p>  The Air Force Research Laboratory intends to make multiple
   awards with the top award being $25K and no award less than $5K depending on creativity
   and completeness of the report.    To receive an award, the Solvers will not have
   to transfer their exclusive IP rights to the US Government.  Instead, they will
@@ -383,14 +383,14 @@ description: 'People have successfully applied advanced analysis techniques to �
   compositions that provide previously unattained and useful properties that enable
   new industrial applications or products.</li>   <li>Development of new models to
   link at least two elements in materials processing-structure-property relationships
-  where those relationships are currently poorly described by physics-based models.</li>  </ol>  Note:
+  where those relationships are currently poorly described by physics-based models.</li>  </ol>  <p>Note:
   Solvers can be individuals or teams from academia, industry, or any other area.
   Solvers can submit reports for solutions to either or both of the needs described
   in 1 &amp; 2 above, but they should submit a separate report for each if responding
   to both. Reports must detail the source of the materials data, the research approaches
   used, and methods used to validate the findings.    We are not seeking submissions
   for the following areas: Research in biology for pharmaceutical, medical, or other
-  biological or biomedical purposes.    <strong>Background</strong>    Reuse or repurposing
+  biological or biomedical purposes.</p>    <strong>Background</strong><br>    <p>Reuse or repurposing
   of digital scientific data has been applied in many scientific disciplines to solve
   important technical challenges for that discipline. Advances in computational power
   and data science techniques have enabled these innovations by providing new means
@@ -401,7 +401,7 @@ description: 'People have successfully applied advanced analysis techniques to �
   behavior. This lack of well-developed physics-based approaches across scales hampers
   advances in the discovery of new materials and an ability to link processing-structure-property
   relationships in such a way as to enable quantitative and predictive materials design
-  tools. The goal of the Materials Genome Initiative is to halve the time it takes
+  tools.</p> <p>The goal of the Materials Genome Initiative is to halve the time it takes
   to discover, develop and deploy a new material and at a fraction of the cost compared
   to traditional approaches. Application of data science techniques to accessible
   digital materials data to develop new knowledge is expected to be part of the solution
@@ -416,7 +416,7 @@ description: 'People have successfully applied advanced analysis techniques to �
   article on the Materials Genome Initiative can be found here:    <a title="OSTP
   article" href="https://www.whitehouse.gov/blog/2015/02/06/its-time-open-materials-science-data"><span
   style="color: #000000; font-family: Calibri; font-size: medium;">OSTP article on
-  MGI</span></a>    &nbsp;    &nbsp;    &nbsp;    &nbsp;'
+  MGI</span></a> </p>'
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
