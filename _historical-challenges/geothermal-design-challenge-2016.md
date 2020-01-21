@@ -40,15 +40,15 @@ partner-agencies-federal: ''
 judging-end-date: 07/30/2016 12:00 AM
 solicitation-methods: ''
 advancing-the-agency-mission: ''
-rules: Contest entry constitutes agreement to adhere to the rules and stipulations
+rules: '<p>Contest entry constitutes agreement to adhere to the rules and stipulations
   set forth by the contest sponsors.    Any entrant or entry found to be in violation
-  of any rule will be disqualified.    Each entrant certifies, through submission
+  of any rule will be disqualified.</p><p>Each entrant certifies, through submission
   to the contest, that the entry is his or her own original creative work and
   does not violate or infringe the creative work of others, as protected under
   U.S. copyright law.    By entering the contest the entrant agrees to hold harmless,
   DOE GTO and the INL/CAES for all legal and administrative claims, to include
   associated expenses that may arise from any claims related to his or her submission
-  or its use.    Entrants retain all copyright and equivalent rights but give
+  or its use.</p><p>    Entrants retain all copyright and equivalent rights but give
   DOE GTO and the INL/CAES nonexclusive rights to use their names, likenesses,
   quotes and submissions for educational publicity and/or promotional purposes.
   This includes but is not limited to website display, print materials and exhibits.    DOE
@@ -56,7 +56,7 @@ rules: Contest entry constitutes agreement to adhere to the rules and stipulatio
   names and entries for educational publicity and/or promotional purposes, including
   the exhibition of winning entries on its website and elsewhere. It is understood
   that entries will be shared with reporters covering these awards and for promotion
-  of the contest itself.    Winners that are published by DOE GTO and the INL/CAES
+  of the contest itself.</p><p>    Winners that are published by DOE GTO and the INL/CAES
   will be required to sign an agreement granting nonexclusive publication and
   Web rights.    Winners are responsible for all taxes or other fees connected
   with the prize received and/or travel paid for by the sponsoring organizations.    DOE
@@ -66,7 +66,7 @@ rules: Contest entry constitutes agreement to adhere to the rules and stipulatio
   to determine how and if the contest is meeting its goals, purposes and audience.
   Submission of this information is also necessary to contact entrants.    Employees,
   contractors, officers or judges of the sponsoring organizations are not eligible
-  to enter the contest.    Judges are not eligible to enter the contest.    If
+  to enter the contest.</p><p>    Judges are not eligible to enter the contest.    If
   an insufficient number of qualified entries are received, the sponsoring organizations
   reserve the right to modify or cancel the contest prior to announcing winners.    Should
   DOE GTO and the INL/CAES decide to bring winning contestants to Washington,
@@ -77,7 +77,7 @@ rules: Contest entry constitutes agreement to adhere to the rules and stipulatio
   of the federal government, and all employees of the DOE GTO and the INL/CAES
   for any and all injuries and/or claims arising from participation in this contest,
   to include that which may occur while traveling to or participating in contest
-  activities.    A team leader must be designated for team submissions. The order
+  activities.</p><p>    A team leader must be designated for team submissions. The order
   in which names are listed on the entry form is how the names will appear on
   the DOE GTO and the INL/CAES website.    Infographics must not contain material
   that is inappropriate, indecent, obscene, hateful, defamatory, slanderous or
@@ -85,7 +85,7 @@ rules: Contest entry constitutes agreement to adhere to the rules and stipulatio
   hatred or harm against any group or individual, or that promotes discrimination
   based on race, sex, religion, nationality, disability, sexual orientation or
   age.    Infographics must not contain material that violates any applicable
-  law.
+  law.</p>'
 submission-start-date-1: ''
 hide-challenge-timeline: 'No'
 judging-start-date: ''
