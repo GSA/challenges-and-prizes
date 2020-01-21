@@ -232,24 +232,24 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: '[video width="1920" height="1080" mp4="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/02/FE-Star-Trek-Cut-2.mp4"][/video]    Calling
-  all Starfleet cadets!    Star Trek, ASME and NASA want you to pioneer the future
+description: '  Calling
+  all Starfleet cadets!    <p>Star Trek, ASME and NASA want you to pioneer the future
   of food in space. Your challenge is to create a digital model of a food-related
   item for astronauts to 3-D print in the year 2050. We want designs that boldy go
   where no human has 3-D printed before and designs that help astronauts eat nutritious
-  meals so they can live long and prosper.    You must specify one of the following
+  meals so they can live long and prosper.</p>    <p>You must specify one of the following
   locations for your 3-D print: our moon, another planet, another planet’s moon, or
   a spacecraft beyond low earth orbit (explain where it is going and why). You must
   also specify the intended printing material (feedstock) for your 3-D print. This
   could be plastic, metal, recycled materials, locally sourced material, or any non-edible,
-  3-D printing feedstock you think would advance human space exploration.    Eating
+  3-D printing feedstock you think would advance human space exploration.</p>    <p>Eating
   a meal in space goes beyond the actual food itself - from growing food to devouring
   it. There are many things to consider, so check out our <u>rules</u>, <u>design
   guidelines</u>, and <u>education resources</u> prior to starting your design.    Student
   winners will receive a range of prizes, including a trip to New York for a tour
   of the Space Shuttle Enterprise at the Intrepid Museum with an astronaut, a 3-D
   printer for the winners’ schools or a <em>Star Trek</em> prize pack.    We hope
-  you’re hungry for space innovation… Good Luck!'
+  you’re hungry for space innovation… Good Luck!</p>'
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
