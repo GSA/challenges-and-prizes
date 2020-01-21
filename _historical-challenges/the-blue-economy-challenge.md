@@ -253,15 +253,15 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: 'THE CALL TO ACTION    Aquaculture, the farming of fish and other seafood,
+description: '<h4>THE CALL TO ACTION</h4>    <p>Aquaculture, the farming of fish and other seafood,
   has great potential to contribute to food security, nutrition, and economic growth
   for the developing world. It is currently the fastest growing animal food producing
   sector, and an increasing source of protein for human consumption. Most aquaculture
   occurs within the developing world. Despite its increasing importance, current aquaculture
   methods are neither sustainable nor scalable. The Blue Economy Challenge seeks to
   find ways to rethink aquaculture inputs, design, and products in way that meets
-  human sustainability and development through long-term ecological sustainability.    THE
-  PROBLEM    Global demand for protein is anticipated to skyrocket in the coming decades.
+  human sustainability and development through long-term ecological sustainability.</p><h4>THE
+  PROBLEM</h4> <p>Global demand for protein is anticipated to skyrocket in the coming decades.
   Aquaculture has the potential to produce a significant proportion of the world’s
   nutrition. While fisheries globally are nearing the point of collapse, the worldwide
   demand for protein is expected to continue to grow rapidly, especially as large
@@ -272,7 +272,7 @@ description: 'THE CALL TO ACTION    Aquaculture, the farming of fish and other s
   value have grown at an annual rate of almost 9% for decades, and although this rate
   is around 6-6.5% today, farmed seafood has overtaken production from capture fisheries.
   Fish farming enables seafood consumption (and access to protein) to continue to
-  increase even as marine fisheries production has flat-lined.    While the current
+  increase even as marine fisheries production has flat-lined.</p>    <p>While the current
   aquaculture industry is a vital producer for the global fish market, supplying 58
   percent of the fish we eat, much aquaculture (particularly predatory fish and prawn)
   remains unsustainable, degrading both land and marine habitat, risking the introduction
@@ -282,7 +282,7 @@ description: 'THE CALL TO ACTION    Aquaculture, the farming of fish and other s
   capital, coupled with weak regulation, are barriers to change. Moreover, aquaculture
   is often a direct response to depleted fisheries, yet the aquaculture industry relies
   heavily on wild-caught fish to feed captive fish, which could lead to overfishing
-  and undermine human and environmental sustainability in the long-term.    The opportunity
+  and undermine human and environmental sustainability in the long-term.</p><p>    The opportunity
   for reengineering aquaculture in the Indian Ocean Region (IOR) is great. People
   in a number of developing countries of the IOR rely on fish for over half of the
   animal protein in their diets (i.e. Bangladesh, Comoros, Indonesia, Maldives, and
@@ -294,7 +294,7 @@ description: 'THE CALL TO ACTION    Aquaculture, the farming of fish and other s
   of many people in the developing economies of the IOR. Aquaculture can be the protein
   source of the future, yet as the industry currently stands, it is in need of innovations
   to improve efficiency, sustainability, and long-term viability. Accordingly, we
-  are inviting you to solve three of its major challenges.    <strong>The Problem</strong>    While
+  are inviting you to solve three of its major challenges.</p>    <strong>The Problem</strong>    While
   helping to relieve pressure on at-risk and collapsed fisheries, aquaculture has
   its own unique sustainability challenges. The most direct concern is the feed used
   in aquaculture. It accounts for 40-70% of producton costs and puts heavy demands
@@ -312,14 +312,14 @@ description: 'THE CALL TO ACTION    Aquaculture, the farming of fish and other s
   become significantly more sustainable, nutritious, and profitable. Moreover, by
   reducing the price of sustainable feed it could allow smaller farmers to enter the
   market. Potential replacement solutions include generating feed from soy, seaweed,
-  ethanol/biofuel waste products, algae, yeast, bacteria, and insects.    <strong>
+  ethanol/biofuel waste products, algae, yeast, bacteria, and insects.    <br><strong>
   The Challenge </strong>    Create highly nutritional aquaculture feed replacements
   that matches or improves on the cost and nutritional performance of existing feedstock
   while reducing the burden on the natural environment. New feed replacements should
   eliminate or dramatically minimize their impact on wild fish stocks and and other
   environmental systems not use agricultural products used for human consumption.
   Feed replacements should have equal or greater nutritional value per dollar compared
-  to commercially available fishmeal.    <strong>Criteria </strong>    Environmental
+  to commercially available fishmeal.    <br><strong>Criteria </strong>    Environmental
   Sustainability: Feed replacements should eliminate or dramatically minimise their
   impact on wild fish stocks. Feed replacements should not have any measurable increase
   in the use of antibiotics. The solutions will include clear mitigation plans for
