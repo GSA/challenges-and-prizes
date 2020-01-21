@@ -91,13 +91,13 @@ rules: '<strong>Eligibility:</strong>    Eligible nominees are current service
   consistent with the agency’s national service mission. This includes the right
   to copy, reproduce, display, or distribute the content of the submission, and
   to make derivative works based upon the submission or a substantial portion
-  of it without attribution or prior permission.    <strong>Deadline for Submissions:</strong>    Submissions
-  must be entered by 5:00 PM, EDT on Monday, June 6, 2016.    <strong>Format for
-  Submissions:</strong>    Nominations must be submitted online.    <strong>Limitations:</strong>    Individuals
+  of it without attribution or prior permission.    <br><strong>Deadline for Submissions:</strong>    Submissions
+  must be entered by 5:00 PM, EDT on Monday, June 6, 2016.    <br><strong>Format for
+  Submissions:</strong>    Nominations must be submitted online.    <br><strong>Limitations:</strong>    Individuals
   and programs may submit no more than one nominee in each award category. However,
   individuals may not nominate themselves; self-nominations will not be eligible
   for review. Nominators are highly encouraged to focus on the quality of the
-  nomination submitted – and not the quantity of nominations submitted.    <strong>Tips
+  nomination submitted – and not the quantity of nominations submitted.    <br><strong>Tips
   for Writing the Nomination:</strong>  <ol>   <li>Enter the award category and
   full name of the nominee in the Title field in the Submit Solution link.</li>   <li>Clearly
   identify the full name of the nominee, the service program affiliation, and
@@ -329,7 +329,7 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: 'In honor of retired US Senator Tom Harkin, an inspiring champion for
+description: '<p>In honor of retired US Senator Tom Harkin, an inspiring champion for
   national service, the Corporation for National and Community Service will present
   the <strong>“Excellence in AmeriCorps Programming and Service Awards.”</strong>  Our
   goal for these awards is to recognize outstanding and innovative programs and high
@@ -338,28 +338,29 @@ description: 'In honor of retired US Senator Tom Harkin, an inspiring champion
   these awards to encourage the development and expansion of best practices in national
   service programming, improved project development, and increase the value of the
   AmeriCorps member experience to help tackle the country’s most pressing human and
-  environmental needs through service.  With emphases on engaging individuals with
+  environmental needs through service.</p><p>With emphases on engaging individuals with
   disabilities in service, program innovation and enhancements, and compelling AmeriCorps
   member experiences, the awards reflect the depth of impact of the national service
   field on the communities served and the individuals serving.    These awards will
   allow the Corporation for National and Community Service to share excellent program
   strategies and models with the national service field and the general public so
   that individuals, nonprofits, government agencies, schools, and more will be aware
-  of the excellent and diverse range of national service programs across the country.    Check
-  out the 2015 award recipients here:    Press Release: <a href="http://www.nationalservice.gov/newsroom/press-releases/2015/first-annual-harkin-awards-honor-americorps-members-programs">http://www.nationalservice.gov/newsroom/press-releases/2015/first-annual-harkin-awards-honor-americorps-members-programs</a>    Photos:
+  of the excellent and diverse range of national service programs across the country.</p>    Check
+  out the 2015 award recipients here:    Press Release: <a href="http://www.nationalservice.gov/newsroom/press-releases/2015/first-annual-harkin-awards-honor-americorps-members-programs">http://www.nationalservice.gov/newsroom/press-releases/2015/first-annual-harkin-awards-honor-americorps-members-programs</a>    
+  <p>
   <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/04/Harkin-5.png"
-  rel="attachment wp-att-135731"><img class="wp-image-135731 aligncenter" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/04/Harkin-5-300x167.png"
+  rel="attachment wp-att-135731"><img " src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/04/Harkin-5-300x167.png"
   alt="Harkin 5" width="293" height="163" /></a><a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/04/Harkin-4.png"
-  rel="attachment wp-att-135721"><img class="wp-image-135721 alignleft" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/04/Harkin-4.png"
+  rel="attachment wp-att-135721"><img " src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/04/Harkin-4.png"
   alt="Harkin 4" width="206" height="162" /></a> <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/04/Harkin-3.png"
-  rel="attachment wp-att-135711"><img class="wp-image-135711 alignright" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/04/Harkin-3.png"
+  rel="attachment wp-att-135711"><img src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/04/Harkin-3.png"
   alt="Harkin 3" width="248" height="165" /></a> <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/04/Harkin-2.png"
-  rel="attachment wp-att-135701"><img class="size-medium wp-image-135701 alignright"
+  rel="attachment wp-att-135701"><img 
   src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/04/Harkin-2.png"
   alt="Harkin 2" width="275" height="183" /></a> <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/04/Harkin-1.png"
-  rel="attachment wp-att-135691"><img class="size-full wp-image-135691 alignright"
+  rel="attachment wp-att-135691"><img 
   src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/04/Harkin-1.png"
-  alt="Harkin 1" width="275" height="183" /></a>'
+  alt="Harkin 1" width="275" height="183" /></a></p>'
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
