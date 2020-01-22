@@ -50,29 +50,29 @@ partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''
-rules: 'To be eligible to win a prize under this challenge, an individual or entity—    (1)
+rules: '<p>To be eligible to win a prize under this challenge, an individual or entity—  <br>  (1)
   Shall have registered to participate in the competition under the rules promulgated
-  by the United States Patent and Trademark Office (USPTO).    (2) Shall have
-  complied with all the requirements under this section.    (3) In the case of
+  by the United States Patent and Trademark Office (USPTO).  <br>  (2) Shall have
+  complied with all the requirements under this section.  <br>  (3) In the case of
   a private entity, shall be incorporated in and maintain a primary place of business
   in the United States, and in the case of an individual, whether participating
   singly or in a group, shall be a citizen or permanent resident of the United
-  States.    (4) May not be a federal entity or federal employee acting within
-  the scope of their employment.    (5) Shall not be an USPTO employee working
-  on their applications or submissions during assigned duty hours.    (6) Federal
+  States. <br>   (4) May not be a federal entity or federal employee acting within
+  the scope of their employment.  <br>  (5) Shall not be an USPTO employee working
+  on their applications or submissions during assigned duty hours.   <br> (6) Federal
   grantees may not use federal funds to develop applications unless consistent
-  with the purpose of their grant award.    (7) Federal contractors may not use
+  with the purpose of their grant award.  <br>  (7) Federal contractors may not use
   federal funds from a contract to develop applications or to fund efforts in
-  support of a challenge submission.    An individual or entity shall not be deemed
+  support of a challenge submission.  </p><p>  An individual or entity shall not be deemed
   ineligible because the individual or entity used federal facilities or consulted
   with federal employees during a competition if the facilities and employees
   are made equitably available to all individuals and entities participating in
-  the competition.    Entrants must agree to assume any and all risks and waive
+  the competition.  </p><p>  Entrants must agree to assume any and all risks and waive
   claims against the federal government and its related entities, except in the
   case of willful misconduct, for any injury, death, damage, or loss of property,
   revenue, or profits, whether direct, indirect, or consequential, arising from
   my participation in this prize contest, whether the injury, death, damage, or
-  loss arises through negligence or otherwise.    Entrants must also agree to
+  loss arises through negligence or otherwise.  </p><p>  Entrants must also agree to
   indemnify the federal government against third-party claims for damages arising
   from or related to competition activities. By entering into this competition,
   entrants represent that the they possess liability insurance or are otherwise
@@ -81,7 +81,7 @@ rules: 'To be eligible to win a prize under this challenge, an individual or ent
   with participation in the competition, with the Federal Government named as
   an additional insured under the Entrant’s insurance policy, if any, and 2) claims
   by the Federal Government for damage or loss to Government property resulting
-  from such an activity.    By submitting an entry to this competition you represent
+  from such an activity. </p><p>   By submitting an entry to this competition you represent
   and warrant that your submission:  <ul>    <li>is your own work and not copied.
   If we have reason to believe that your submission is not your own work then
   we may not consider it;</li>    <li>does not contain any third party intellectual
@@ -99,7 +99,7 @@ rules: 'To be eligible to win a prize under this challenge, an individual or ent
   per person or group. In the event of a dispute over the identity of an entrant,
   the submission will be deemed submitted by the authorized account holder of
   the email account of the email address submitted during the registration process.</li>  </ul>  Submissions that
-  do not adhere to the requirements listed above will be automatically disqualified.    INTELLECTUAL
+  do not adhere to the requirements listed above will be automatically disqualified.  </p><p>  INTELLECTUAL
   PROPERTY    Ownership of intellectual property is determined by the following:  <ul>    <li>Each
   entrant retains title and full ownership in and to their submission.  Entrants
   expressly reserve all intellectual property rights not expressly granted under
@@ -110,7 +110,7 @@ rules: 'To be eligible to win a prize under this challenge, an individual or ent
   and to publicly perform and publicly display the submission, including, without
   limitation, for advertising and promotional purposes relating to the challenge.</li>    <li>All
   entrants are encouraged to open source your code to the extent possible as a
-  continuing contribution to cancer research.</li>  </ul>'
+  continuing contribution to cancer research.</li>  </ul></p>'
 submission-start-date-1: ''
 hide-challenge-timeline: 'No'
 judging-start-date: ''
@@ -316,33 +316,33 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: '“In his 2016 State of the Union Address, President Obama called upon
+description: '<p>“In his 2016 State of the Union Address, President Obama called upon
   the nation to harness the spirit of American innovation by identifying new ways
   to prevent, diagnose, and treat cancer.”    – Under Secretary of Commerce for Intellectual
   Property and Director of the United States Patent and Trademark Office Michelle
-  K. Lee    <strong>BACKGROUND </strong>    Cancer is undoubtedly a disease that touches
+  K. Lee  </p><p>  <strong>BACKGROUND </strong> <br>   Cancer is undoubtedly a disease that touches
   all our lives. Ending cancer as we know it requires the formation of new alliances.
   As President Obama noted, getting this done isn’t just going to take the best and
   brightest across the medical, research, and data communities — but millions of Americans
   owning a stake of it. By harnessing the power of patent data, and accelerating the
   process for protecting the intellectual property that lead to cancer immunotherapy
   breakthroughs, the USPTO is standing up and doing its part to help bring potentially
-  life-saving treatments to patients, faster.    <strong style="line-height: 1.5;">THE
-  CHALLENGE </strong>    With data released through the <a href="https://developer.uspto.gov">USPTO
+  life-saving treatments to patients, faster.  </p><p>  <strong style="line-height: 1.5;">THE
+  CHALLENGE </strong><br>   With data released through the <a href="https://developer.uspto.gov">USPTO
   Developer Hub</a>, users are building rich visualizations of intellectual property
   data, an early indicator of meaningful innovation and research and development (R&amp;D),
   and combining this data with other state or agency data, such as census and bureau
   of labor statistics; and/or economic, and financial data. These types of visualizations
   demonstrate the power of telling complex stories that lead to impactful insights
-  and ask why the data matter. Similarly, we challenge you to create and illuminate
+  and ask why the data matter. </p><p>Similarly, we challenge you to create and illuminate
   new trend lines and interactive mappings of innovation with visualizations for all
   types of cancer treatments and diagnostics by combining our data with other unique
   data. Be sure to list the sources of your data sets (i.e. orange book data from
-  FDA), tools and assumptions used to form your conclusion and visualizations. Imagine
+  FDA), tools and assumptions used to form your conclusion and visualizations. </p><p>Imagine
   your data visualizations will be the foundation to empower the federal government—as
   well as the medical, research, and data communities—to make more precise funding
   and policy decisions based on the commercialization lifecycle of the most promising
-  treatments, while maximizing U.S. competitiveness in cancer investments.    Using
+  treatments, while maximizing U.S. competitiveness in cancer investments.  </p><p>  Using
   analytic tools, processes and  other interoperable data sets, we are challenging
   you to develop interactive visualizations and stories that can help reveal new insights
   to guide public policy and research to achieve the goal of doubling the rate of
@@ -373,11 +373,10 @@ description: '“In his 2016 State of the Union Address, President Obama called 
   Developer Hub</a>.    An online informational session was held via Webex on 8/25/2016 at
   3:00 PM EST.  Please visit us at the <a href="https://www.uspto.gov/about-us/events/cancer-moonshot-challenge-info-session">USPTO
   Cancer Moonshot Challenge Info Session</a> page to see the answers to your questions
-  about the challenge and the USPTO Cancer Moonshot Patent data set.    <strong>WINNERS
+  about the challenge and the USPTO Cancer Moonshot Patent data set.  </p><p>  <strong>WINNERS
   ANNOUNCED!</strong>    Visit the <a href="http://www.uspto.gov/about-us/national-cancer-moonshot">USPTO
-  National Cancer Moonshot</a> page for more information.    <strong>MORE INFORMATION
-  ABOUT THE CANCER MOONSHOT INITIATIVE</strong>  <p style="line-height: 15.0pt; background:
-  white; vertical-align: top; margin: 0in 0in 7.5pt 0in;">As the President’s Cancer
+  National Cancer Moonshot</a> page for more information. </p><p>   <strong>MORE INFORMATION
+  ABOUT THE CANCER MOONSHOT INITIATIVE</strong><br> As the President’s Cancer
   Moonshot Initiative looks to build public-private partnerships with industry, governments,
   health systems, non-profits, philanthropy, research institutes, patients, and academia,
   those interested in advancing the Cancer Moonshot can join today by visiting <a
