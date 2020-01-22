@@ -66,8 +66,8 @@ hide-challenge-funnel: 'Yes'
 type-of-challenge: Software and apps
 participation-requirements: ''
 number-of-phases: ''
-how-to-enter: "Please use the “Submit Solution” tab to upload your submission.\r\n\r\n<strong>Submission
-  Requirements</strong>\r\nSubmissions to <em>MTConnect Student Challenge: Applications</em>
+how-to-enter: "<strong>Submission
+  Requirements</strong><br>Submissions to <em>MTConnect Student Challenge:</em><br> Applications
   shall include a written summary of the application describing the benefits that
   can be derived from the application, a video of the application in action, and
   a thumbnail image representing the application. It is not necessary to submit
@@ -152,7 +152,7 @@ judging-criteria-description-9: ''
 judging-criteria-percentage-9: ''
 judging-criteria-9: ''
 prize-description-0: ''
-prize-cash-amount-0: '22500'
+prize-cash-amount-0: '22,500'
 prize-name-0: Prizes Totaling
 prize-description-1: ''
 prize-cash-amount-1: ''
@@ -250,38 +250,37 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: '<span style="color: #000000; font-family: Calibri;">UPDATE: Please upload
-  all submissions through our new challenge site here: <a href="http://mtconnect-apps.devpost.com/">MTConnect-Apps.devpost.com</a></span>    <span
-  style="color: #000000; font-family: Calibri;">  The submission deadline for this
+description: '<p>UPDATE: Please upload
+  all submissions through our new challenge site here: <a href="http://mtconnect-apps.devpost.com/">MTConnect-Apps.devpost.com</a></p>   <p>  The submission deadline for this
   competition has been EXTENDED to July 15, 2016. Winners will be announced by September
   17, 2016. Finalists will be invited to Chicago to attend <a href="http://www.imts.com/"
   target="_blank">IMTS-The International Manufacturing Technology Show</a>, one of
   the largest manufacturing trade shows in the world, taking place September 12-17,
-  2016</span>    &nbsp;    Attention all college and university students! We are standing
+  2016</p><p>Attention all college and university students! We are standing
   at the intersection of big data and industrial manufacturing, and we need <em>you</em> to
   help us maximize connected technologies to revolutionize the manufacturing industry.
   Although the Industrial Internet of Things has been around for some time now, right
   now there is a new wave of innovation in how these industrial machines communicate.
   Every piece on the factory floor is a potential source of valuable data that could
   be used to improve the entire manufacturing industry, from the products themselves
-  to how work gets done.    So we’re asking you to develop super innovative and advanced
+  to how work gets done.</p><p>So we’re asking you to develop super innovative and advanced
   manufacturing intelligence application solutions, which are both innovative and
   deployable, using data acquired through the MTConnect standard. MTConnect is an
   open, XML- and HTTP-based communications standard that acts as the enabler for the
   Internet of Things for manufacturing by fostering improved connectivity and interoperability
   between manufacturing equipment and devices. Within the challenge itself, there
-  are two separate competitions, and you can choose to participate in one or both.    #1— Idea
+  are two separate competitions, and you can choose to participate in one or both.</p><p>#1— Idea
   Creation: Read more about the Ideation Challenge <u><a href="https://www.challenge.gov/challenge/mtconnectstudentideas/"
-  target="_blank">here</a></u>.    #2— Applications: Using either an independent idea/solution,
+  target="_blank">here</a></u>.</p><p> #2— Applications: Using either an independent idea/solution,
   or your solution from the Ideation Challenge (should you chose to complete both
   challenges), you must create an innovative and effective application of your solution.
   Your submission must include a written summary of the application, a video of the
-  application in action, and a thumbnail image.    Please see the Rules tab for a
+  application in action, and a thumbnail image.</p><p> Please see the Rules tab for a
   comprehensive run down of the challenge rules and requirements. For more information,
   check out the Discussion tab here and our <a href="http://www.mtconnect.org/resources"
   target="_blank">resources on MTConnect.org</a>. And, if you have any other questions,
   don’t hesitate to reach out on <a href="http://www.facebook.com/mtconnect">Facebook</a> or <a
-  href="http://www.twitter.com/mtconnect">Twitter</a>. Good luck!    &nbsp;'
+  href="http://www.twitter.com/mtconnect">Twitter</a>. Good luck!</p>'
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
