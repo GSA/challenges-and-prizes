@@ -27,7 +27,7 @@ template: ideation
 campaignAttributes:
 attributes:
 total-prize-awarded-cash: ''
-external-url: ''
+external-url: 'http://www.abillyoucanunderstand.com'
 submission-end: '08/10/2016 11:59 PM'
 why-use-prizes: ''
 submission-start: 05/09/2016 09:00 AM
@@ -51,43 +51,43 @@ partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''
-rules: "<strong><u>Eligibility Rules for Participating in the Competition</u></strong>
+rules: "<p><strong><u>Eligibility Rules for Participating in the Competition</u></strong></p><p>
   \   The Challenge is open to any contestant, defined as (1) a business or non-profit
   entity or (2) an individual or team of no more than 5 U.S. citizens or permanent
   residents of the United States who are 18 years of age or older at the time
-  of entry.  All individual members of a team must meet the eligibility requirements.
+  of entry. </p><p>All individual members of a team must meet the eligibility requirements.
   \   To be eligible to win a prize under this challenge, an individual or entity—
-  \   (1) Shall have registered to participate in the competition under the rules
-  issued by CMS;    (2) Shall have complied with all the requirements under this
+  \   <br>(1) Shall have registered to participate in the competition under the rules
+  issued by CMS;    <br>(2) Shall have complied with all the requirements under this
   Notice, the rules for participants referenced herein below, and the requirements
-  set forth in 15 U.S.C. 3719;    (3) In the case of a private entity, shall be
+  set forth in 15 U.S.C. 3719;    <br>(3) In the case of a private entity, shall be
   incorporated in and maintain a primary place of business in the United States,
   and in the case of an individual, whether participating singly or in a group,
-  shall be a citizen or permanent resident of the United States; and    (4) May
+  shall be a citizen or permanent resident of the United States; and    <br>(4) May
   not be a Federal entity or Federal employee acting within the scope of their
   employment.  Federal employees seeking to participate in this contest outside
   the scope of their employment should consult their ethics official prior to
-  developing their submission.    (5) May not be employees of CMS, judges of the
+  developing their submission.    <br>(5) May not be employees of CMS, judges of the
   Challenge, or any other party involved with the design, production, execution,
   or distribution of the Challenge or their immediate family (spouse, parents
   or step-parents, siblings and step-siblings, and children and step-children).
-  \   (6) May not be the trustees, directors, shareholders, employees, clients
+  \   <br>(6) May not be the trustees, directors, shareholders, employees, clients
   (with respect to Mad*Pow only), contractors, agents, representatives and affiliates
   of AARP, Mad*Pow and any entity associated with the funding, administration,
   judging, or processing of the Challenge and the members of the immediate family
   which includes a person’s spouse/domestic partner and the parents, siblings,
   children and grandchildren of the person and his or her spouse/domestic partner.
-  \   (8) Federal grantees may not use Federal funds to develop COMPETES Act challenge
-  applications unless consistent with the purpose of their grant award.    (9)
+  \   <br>(8) Federal grantees may not use Federal funds to develop COMPETES Act challenge
+  applications unless consistent with the purpose of their grant award.   <br> (9)
   Federal contractors may not use Federal funds from a contract to develop COMPETES
   Act challenge applications or to fund efforts in support of a COMPETES Act challenge
-  submission.    An individual or entity shall not be deemed ineligible because
+  submission.    </p><p>An individual or entity shall not be deemed ineligible because
   the individual or entity used Federal facilities or consulted with Federal employees
   during a competition if the facilities and employees are made available to all
-  individuals and entities participating in the competition on an equitable basis.
-  \   By entering, each contestant agrees to:    (a) Comply with, and be bound
+  individuals and entities participating in the competition on an equitable basis.</p>
+  \   <p>By entering, each contestant agrees to:    <br>(a) Comply with, and be bound
   by, these official rules and the decisions of the Challenge and judges which
-  are binding and final in all matters relating to this Challenge;    (b) assume
+  are binding and final in all matters relating to this Challenge;   <br> (b) assume
   any and all risks and waive claims against the federal government and its related
   entities, except in the case of willful misconduct, for any injury, death, damage,
   or loss of property, revenue, or profits, whether direct, indirect, or consequential,
@@ -99,12 +99,12 @@ rules: "<strong><u>Eligibility Rules for Participating in the Competition</u></s
   protected interest in challenge entries submitted to Mad*Pow.  Provided, however,
   that contestants are not required to waive claims arising out of the unauthorized
   use or disclosure by AARP and/or Mad*Pow of the intellectual property, trade
-  secrets, or confidential business information of the contestant.    (c) Be responsible
+  secrets, or confidential business information of the contestant.    <br>(c) Be responsible
   for obtaining their own liability insurance to cover claims by any third party
   for death, bodily injury, or property damage, or loss resulting from an activity
   carried out in connection with participation in the Challenge, and claims by
   the federal government for damage or loss to government property resulting from
-  such an activity; and    (d) Indemnify the federal government against third
+  such an activity; and   <br>(d) Indemnify the federal government against third
   party claims for damages arising from or related to Challenge activities.    Based
   on the subject matter of the Challenge, the type of work that it will possibly
   require, as well as an analysis of the likelihood of any claims for death, bodily
@@ -113,7 +113,7 @@ rules: "<strong><u>Eligibility Rules for Participating in the Competition</u></s
   in the Challenge is required to obtain liability insurance or demonstrate financial
   responsibility in order to participate in this Challenge.    Contestants who
   are determined at any time to have violated the eligibility criteria will be
-  disqualified from the Challenge."
+  disqualified from the Challenge.</p>"
 submission-start-date-1: ''
 hide-challenge-timeline: 'No'
 judging-start-date: ''
@@ -303,10 +303,10 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: 'This Challenge engages those in the health care community working on
+description: '<p>This Challenge engages those in the health care community working on
   these issues, as well as new players from other industries, such as human-centered
   design and digital tech, to help in redesigning the “Medical Bill” or the “Medical
-  Billing Process.”    “A Bill You Can Understand” design and innovation challenge
+  Billing Process.” </p><p>   “A Bill You Can Understand” design and innovation challenge
   will invite participants to design a medical bill that is easier to understand,
   as well as reinvent cost of care estimation and the medical billing journey with
   the goal of improving the patient financial experience. Participants will be asked
@@ -314,17 +314,17 @@ description: 'This Challenge engages those in the health care community working 
   of the medical billing process. Submissions will include the (1) design concept
   for the redesigned medical bill, (2) journey map or wireframe for the redesigned
   patient experience, (3) written explanation of submission, and (3) video explanation
-  of submission. Specific criteria for the written and video explanations will be
+  of submission. </p><p>Specific criteria for the written and video explanations will be
   provided on the Challenge Website.  These may include but are not limited to explaining
   how the redesign will better empower patients to understand the financial information
   provided on their medical bill and take appropriate action and vision for an improved
-  patient financial experience.  The challenge is sponsored by AARP, administrated
+  patient financial experience.</p><p>  The challenge is sponsored by AARP, administrated
   by Mad*Pow, an experience design agency, and organized in collaboration with HHS.    Two
   winning contestants will be selected for the following prizes:  <ul>   <li><u>Prize
   1 – $5000</u>: Most Improved Medical Bill Design (Focusing on the design of the
   bill itself).</li>   <li><u>Prize 2 – $5000</u>: Transformational Approach to Medical
   Cost Estimation and Billing Process (Focusing on what the patient sees and does
-  throughout the process).</li>  </ul>'
+  throughout the process).</li>  </ul></p>'
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
