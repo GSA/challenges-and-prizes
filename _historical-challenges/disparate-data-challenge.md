@@ -395,17 +395,17 @@ description: '<p style="text-align: center;"><strong>==== Stage Two Prize Awards
   instructions and logistics for Stage 2 demos in the Washington, D.C. metro area
   tentatively scheduled for <span class="aBn" tabindex="0" data-term="goog_1095791296"><span
   class="aQJ">Oct 20th &amp; 21st</span></span> pending prize authority being granted.  <p
-  style="text-align: center;">_____________________________________________</p>  Just
+  style="text-align: center;">_____________________________________________</p> <p> Just
   like the commercial world, the government is drowning in data, and accessing that
   data to discover the insights hiding within it remains difficult. The National Geospatial-Intelligence
   Agency (NGA) Disparate Data Challenge encourages participants to offer solutions
   that can demonstrate effective capabilities that enable access to data that is wildly
   disparate in its formats, schemas, interfaces and locations, so that it may be available
-  for search, business metrics and data and information analytics.    This is a multistage
+  for search, business metrics and data and information analytics.</p><p>    This is a multistage
   challenge open to U.S. and foreign citizens, or and U.S. or foreign entities. Please
   be advised that while foreign citizens and foreign entities may participate, they
   are not eligible to receive cash (monetary) prizes (see full eligibility requirements
-  below.)    <strong>STAGE 1:</strong>  Stage 1 requires solvers to implement functioning
+  below.)   </p><p> <strong>STAGE 1:</strong>  Stage 1 requires solvers to implement functioning
   capabilities that can demonstrate access and retrieval to analyze either part or
   all of the provided representative datasets that approximate the difficulties associated
   with accessing and using NGA’s disparate restricted-access holdings. You may access
@@ -419,7 +419,7 @@ description: '<p style="text-align: center;"><strong>==== Stage Two Prize Awards
   up to 15 cash prizes in the amount of $10,000 each to the top 15 eligible awardees.
   The total amount available for cash prizes is $150,000. All Stage 1 awardees  will
   also receive invitations to participate in Stage 2 of the challenge.  Stage 1 awardees
-  will be announced on September 30, 2016.    <strong>STAGE 2: </strong> Stage 2 of
+  will be announced on September 30, 2016.  </p><p>  <strong>STAGE 2: </strong> Stage 2 of
   the challenge is restricted to Stage 1 awardees.  Stage 2 of the challenge is a
   demonstration (Demo-thon) of the Stage 1 awardees solutions in the Washington, D.C.
   area.  Execution of Stage 2 is dependent on extension of NGA’s challenge authority
@@ -435,7 +435,7 @@ description: '<p style="text-align: center;"><strong>==== Stage Two Prize Awards
   during the second stage and used to test technical effectiveness.  To get a feel
   of the type of NIST data that will be added at Stage 2, a sample collection of data
   can be obtained <a href="http://trec.nist.gov/data/reuters/reuters.html" target="_blank">http://trec.nist.gov/data/reuters/reuters.html</a>
-  by signing up for access at the site.    As part of Stage 2, NGA reserves the right
+  by signing up for access at the site. </p><p>   As part of Stage 2, NGA reserves the right
   to make multiple awards, or no reward at all. Award decisions will be based upon
   the solutions the judges determine to be most responsive to the challenge and most
   likely to be effective when applied to part or all of NGA’s restricted-access data.
@@ -443,11 +443,11 @@ description: '<p style="text-align: center;"><strong>==== Stage Two Prize Awards
   winners (i.e., have meaningfully met and addressed the challenge), NGA reserves
   the right to award up to three additional cash awards to the three highest rated
   eligible awardees (highest rated ($25,000), second highest rated ($15,000) or third highest
-  rated ($10,000)).    The challenge concludes upon announcement of the Stage 2 winners.    <strong>IMPORTANT
+  rated ($10,000)).    The challenge concludes upon announcement of the Stage 2 winners. </p><p>   <strong>IMPORTANT
   DATES:</strong>    August 19 – Challenge published on challenge.gov    September
   19,<strong> 5PM ET</strong> – Stage 1 submissions due    Sept 30 – Stage 1 winners
   announced.    October 20-21 – Demo-Thon conducted in the DC area (Notional)    October
-  21 – Stage 2 winners announced (Notional)    <strong>ADDITIONAL INFORMATION:</strong>  <ul>    <li>Response
+  21 – Stage 2 winners announced (Notional)    </p><p><strong>ADDITIONAL INFORMATION:</strong>  <ul>    <li>Response
   to this Disparate Data Challenge is completely separate from the GEOINT Search and
   Retrieval (GSR) Request for Proposal. <a href="http://disparatedata.s3-website-us-east-1.amazonaws.com/Disparate
   _Data-GSR _Relationship_Memo.pdf">Please refer to our memo</a> for more details.</li>    <li>Participants
@@ -470,7 +470,7 @@ description: '<p style="text-align: center;"><strong>==== Stage Two Prize Awards
   consult a tax advisor to ensure that winnings are handled properly and reported
   accurately for tax purposes.</li>    <li>If NGA is unable to contact the winning
   participants within 72 hours after the announcement of the awardees, NGA reserves
-  the right to withdraw the award.</li>  </ul>'
+  the right to withdraw the award.</li>  </ul></p>'
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
