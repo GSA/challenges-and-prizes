@@ -371,12 +371,12 @@ description: 'EPA has selected two awardees of the <a href="https://developer.ep
   honorable mention project teams to share knowledge about how they collect, store
   and manage large amounts of data. EPA encourages these communities and others to
   share their findings so other communities can learn from their successes, challenges
-  and lessons.    <hr />    Here’s a chance for communities to demonstrate their leadership
+  and lessons.    <hr />    <p>Here’s a chance for communities to demonstrate their leadership
   in managing hundreds of air quality sensors at the local level.    EPA is challenging
   communities across the country to collect data using hundreds of air quality sensors
   as part of the Smart City Air Challenge. The agency is offering up to $40,000 apiece
   to two communities to help them develop and implement plans for collecting and sharing
-  data from air quality sensors.    To qualify for the challenge, communities will
+  data from air quality sensors.  </p><p>  To qualify for the challenge, communities will
   need to submit plans for deploying hundreds of air quality sensors and managing
   the data they collect. EPA will award up to $40,000 apiece to up to two communities
   that have the best data collection strategies, including their plans to share their
@@ -386,12 +386,12 @@ description: 'EPA has selected two awardees of the <a href="https://developer.ep
   their plans.    - <strong>See EPA''s <a href="https://developer.epa.gov/smart-city-air-challenge-resource-pages/">challenge
   resource pages</a></strong> about air quality sensors, data management and more.    -
   <strong>Attend <a href="https://developer.epa.gov/smart-city-air-challenge-webinar-series/">webinars
-  about the challenge</a></strong>.    After a year, EPA will evaluate the two projects
+  about the challenge</a></strong>.  </p><p>  After a year, EPA will evaluate the two projects
   and award up to an additional $10,000 to the winning communities based on their
   accomplishments and collaboration.    The challenge is open from August 30, 2016
   to October 28, 2016. Through the challenge, communities have the opportunity to
   adopt the paradigm of big data, citizen science, and the Internet of Things as they
-  address air quality problems that are relevant to them.    The challenge is designed
+  address air quality problems that are relevant to them. </p><p>   The challenge is designed
   to inspire communities to discover new approaches to managing data for air topics
   they care about, then develop solutions and share them. It is experimental in nature
   and EPA expects to learn how communities handle data from many sensors. The challenge
@@ -401,7 +401,7 @@ description: 'EPA has selected two awardees of the <a href="https://developer.ep
   rel="noopener">Resource Pages</a> that list EPA’s research and similar experiences
   in other communities, <a href="https://developer.epa.gov/smart-city-air-challenge-webinar-series/">webinars about
   the challenge</a> and a <a href="https://developer.epa.gov/frequently-asked-questions/">Frequently
-  Asked Questions</a> page.    EPA prefers that the sensors and the resulting data
+  Asked Questions</a> page.  </p><p>  EPA prefers that the sensors and the resulting data
   are of good quality. Although standards exist for measuring criteria pollutants
   (see Designated EPA Reference and Equivalent Methods at <a href="https://www3.epa.gov/ttn/amtic/criteria.html"
   target="_blank" rel="noopener">https://www3.epa.gov/ttn/amtic/criteria.html</a>),
@@ -411,7 +411,7 @@ description: 'EPA has selected two awardees of the <a href="https://developer.ep
   The data from these projects will belong to the projects and will be available for
   others to use. EPA recommends that communities carefully evaluate the quality of
   sensors and the associated data. Please refer to the sensor resource page to learn
-  more about independent sensor testing by EPA and others.    The challenge encourages
+  more about independent sensor testing by EPA and others.   </p><p> The challenge encourages
   communities to create solutions and identify best practices that other communities
   can adopt and benefit from. In doing so, they will advance the theme of Information
   Technology Infrastructure and New Data Streams, as mentioned in EPA''s <a href="https://www.epa.gov/sites/production/files/2014-09/documents/roadmap-20130308.pdf"
@@ -419,11 +419,11 @@ description: 'EPA has selected two awardees of the <a href="https://developer.ep
   Through their projects, communities will help each other and EPA “face challenges
   presented by the ever increasing amounts of sensor-generated data, the analytics
   needed to translate data into knowledge, and how to make sensor data available for
-  discovery and integration with data from other allied disciplines.”    EPA expects
+  discovery and integration with data from other allied disciplines.”  </p><p>  EPA expects
   the challenge to yield several benefits, such as identifying best practices for
   managing big data at the community level, how to engage citizens in collecting data
   about their community, and how to use data from many sensors to understand environmental
-  condition and its relationship to human health.    <strong>Constraints</strong>  Submissions
+  condition and its relationship to human health.</p><p>    <strong>Constraints</strong><br>  Submissions
   will be judged based on the constraints and performance criteria outlined below.
   Before being scored against weighted performance criteria, entries must meet the
   four constraints listed below. Submissions that do not meet the constraints must
@@ -446,7 +446,7 @@ description: 'EPA has selected two awardees of the <a href="https://developer.ep
   of partners and project sustainability</td>  <td width="97">Yes or No</td>  </tr>  <tr>  <td
   width="381">Be transparent in terms of making the data open and describing the data
   management plans</td>  <td width="97">Yes or No</td>  </tr>  </tbody>  </table>  See
-  the Judging Criteria for more details.    <strong>Email recipients</strong>  Send
+  the Judging Criteria for more details. </p><p>   <strong>Email recipients</strong><br>  Send
   comments to the Discussion section of this challenge or to smartcityairchallenge@epa.gov. 
   ALL DECISIONS BY THE EPA ARE FINAL AND BINDING IN ALL MATTERS RELATED TO THE COMPETITION.    EPA
   will also screen submissions for contestant eligibility and compliance with Challenge.gov''s
@@ -454,7 +454,7 @@ description: 'EPA has selected two awardees of the <a href="https://developer.ep
   on the Challenge website on a rolling basis.    Entries meeting the criteria will
   then be scored based on the weighted (% of total score) Performance criteria provided
   in the table below. Each performance criterion will be scored on a scale of 0-5
-  with 0 being the lowest and 5 being the highest.'
+  with 0 being the lowest and 5 being the highest.</p>'
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
