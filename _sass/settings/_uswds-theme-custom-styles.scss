@@ -272,6 +272,14 @@ h3 a {
 	font-style: italic
 }
 
+.case-study-agency-heading {
+	font-weight: 400;
+}
+
+.case-study-feature-img {
+	max-width: 50% !important;
+}
+
 //Toolkit
 
 .toolkit h1 {
@@ -316,3 +324,4 @@ h3 a {
 	text-decoration: none;
 	color: color('primary');
 }
+
