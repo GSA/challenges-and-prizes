@@ -70,40 +70,40 @@ partner-agencies-federal: ''
 judging-end-date: '08/31/2016 05:00 PM'
 solicitation-methods: ''
 advancing-the-agency-mission: ''
-rules: 'To be eligible to win a prize under the Challenge, an individual or entity—    (1)
-  Must comply with all the requirements under this section.    (2) In the case
+rules: '<p>To be eligible to win a prize under the Challenge, an individual or entity—    <br>(1)
+  Must comply with all the requirements under this section.    <br>(2) In the case
   of a private entity, shall be incorporated in and maintain a primary place of
   business in the United States, and in the case of an individual, whether participating
   singly or in a group, shall be a citizen or permanent resident of the United
-  States.    (3) Shall not be a Federal entity or Federal employee acting within
-  the scope of their employment.    (4) Federal grantees may not use Federal funds
+  States.    <br>(3) Shall not be a Federal entity or Federal employee acting within
+  the scope of their employment.    <br>(4) Federal grantees may not use Federal funds
   to develop Challenge applications unless consistent with the purpose of their
-  grant award.    (5) Federal contractors may not use Federal funds from a contract
+  grant award.    <br>(5) Federal contractors may not use Federal funds from a contract
   to develop Challenge applications or to fund efforts in support of a Challenge
-  submission.    (6) All applications must propose or present ideas or solutions
+  submission.    <br>(6) All applications must propose or present ideas or solutions
   that have been implemented or are proposed to be implemented in rural areas<strong>;</strong>
   bonus points shall be given to ideas or solutions that have been implemented
   or are proposed to be implemented in rural persistent poverty areas. <strong>Please
   click on the following link to view the Rural Area and Persistent Poverty Lookup
   Tables: <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/06/CDFI-Fund-Prize-Challenge-Rural-and-PPC-Lookup-FINAL-7.21.16.xlsx">CDFI
-  Fund Prize Challenge Rural and PPC Lookup </a></strong>.    (7) All applications
+  Fund Prize Challenge Rural and PPC Lookup </a></strong>.    <br>(7) All applications
   must propose or present an idea or solution that directly addresses the issue
   of increasing CDFI investments and access to capital in underserved rural areas
-  and/or rural persistent poverty areas.    (8) Applicants must be certified CDFIs,
+  and/or rural persistent poverty areas.    <br>(8) Applicants must be certified CDFIs,
   a collaboration of CDFIs, or a non-CDFI partnering with certified CDFIs. Joint
   applicants as part of any collaboration or partnership should select a primary
   applicant to submit the application.    An individual or entity shall not be
   deemed ineligible because the individual or entity used Federal facilities or
   consulted with Federal employees during a competition if the facilities and
   employees are made available to all individuals and entities participating in
-  the Challenge on an equitable basis.    Entrants must agree to assume any and
+  the Challenge on an equitable basis.</p><p>Entrants must agree to assume any and
   all risks and waive claims against the Federal Government, its related entities,
   except in the case of willful misconduct, for any injury, death, damage, or
   loss of property, revenue, or profits, whether direct, indirect, or consequential,
   arising from participation in the Challenge, whether the injury, death, damage,
   or loss arises through negligence or otherwise.    Entrants must also agree
   to indemnify the Federal Government against third-party claims for damages arising
-  from or related to Challenge activities.'
+  from or related to Challenge activities.</p>'
 submission-start-date-1: ''
 hide-challenge-timeline: 'No'
 judging-start-date: '08/03/2016 09:00 AM'
@@ -331,7 +331,7 @@ innovative idea or strategy, implemented within the past two years, that helped
 increase CDFI investments and access to capital in underserved rural areas; or</li>    <li>An
 innovative idea or strategy that <em>has not yet been implemented</em>, but is reasonably
 expected to increase CDFI investments and access to capital in underserved rural
-areas.</li>  </ol>  Judges will select the winning entries according to judging
+areas.</li>  </ol>  <p>Judges will select the winning entries according to judging
 criteria. <strong>Please click on the following link to view the evaluation criteria:
 <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/06/FY2016-CDFI-Fund-Prize-Evaluation-Criteria-FINAL-6.23.16.pdf"
 target="_blank">FY2016 CDFI Fund Prize Evaluation Criteria</a></strong>. The CDFI
@@ -348,7 +348,7 @@ a county or counties that are considered non-Metropolitan Areas under the CDFI P
 regulations (12 CFR 1805.104). An area that is characterized by “persistent poverty”
 is defined as any county or Native community that has had 20 percent or more of
 its population living in poverty over the past 30 years, as measured by the 1990,
-2000, and 2010 decennial censuses. <strong>Please click on the following link to
+2000, and 2010 decennial censuses.</p><p> <strong>Please click on the following link to
 view the Rural Area and Persistent Poverty Lookup Tables: <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/06/CDFI-Fund-Prize-Challenge-Rural-and-PPC-Lookup-FINAL-7.21.16.xlsx">CDFI
 Fund Prize Challenge Rural and PPC Lookup </a>.  </strong><span style="text-decoration:
 underline;">**Please note: the Rural Area and Persistent Poverty Lookup Tables have
@@ -362,7 +362,7 @@ peoples of North and South America (including Central America) and who maintains
 tribal affiliation or community attachment," and “Native Hawaiian” refers to “a
 person having origins in the original peoples of Hawaii”. (OMB Statistical Policy
 Directive No. 15, Race and Ethnic Standards for Federal Statistics and Administrative
-Reporting, 62 Fed. Reg. 58782, October 30, 1997)    &nbsp;'
+Reporting, 62 Fed. Reg. 58782, October 30, 1997)</p>'
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
