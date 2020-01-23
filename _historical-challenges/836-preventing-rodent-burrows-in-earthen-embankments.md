@@ -8,7 +8,7 @@ card-image: /assets/images/cards/rodent_thumbnail-1.png
 agency-logo: usbr.jpg
 challenge-title: Preventing Rodent Burrows in Earthen Embankments
 tagline: Help stop and prevent rodents from endangering earthen dams, canals, and levees
-agency: Bureau of Reclamation
+agency: Department of the Interior - Bureau of Reclamation
 partner-agencies-federal: U.S. Army Corps of Engineers
 partners-non-federal: State of Colorado Department of Natural Resources - Dam Safety Branch
 external-url:

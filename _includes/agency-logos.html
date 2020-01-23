@@ -24,7 +24,7 @@
 	{% endif %}
 
 	{% if challenge.groupName contains "National Park Service" or challenge.agency contains "National Park Service" %}
-  		<img src="{{ site.baseurl }}/assets/images/agency/nps.png" alt="NPS logo" height="120" title="NPS">
+  		<img src="{{ site.baseurl }}/assets/images/agency/920px-US-NationalParkService-Logo..png" alt="NPS logo" height="120" title="NPS">
 	{% endif %}
 
 	{% if challenge.groupName contains "Department of Agriculture" or challenge.agency contains "Department of Agriculture" %}
@@ -36,7 +36,7 @@
 	{% endif %}
 
 	{% if challenge.groupName contains "National Institutes of Health" or challenge.agency contains "National Institutes of Health" %}
-  		<img style="padding-top: 1em" src="{{ site.baseurl }}/assets/images/agency/NIH-Generic.png" alt="NIH logo" width="120" title="NIH">
+  		<img style="padding-top: 1em" src="{{ site.baseurl }}/assets/images/agency/NIH_Master_Logo_Vertical_2Color.jpg" alt="NIH logo" width="120" title="NIH">
 	{% endif %}
 
 	{% if challenge.groupName contains "Environmental Protection Agency" or challenge.agency contains "Environmental Protection Agency" %}
@@ -48,7 +48,7 @@
 	{% endif %}
 
 	{% if challenge.groupName contains "Food and Drug Administration" or challenge.agency contains "Food and Drug Administration" %}
-  		<img src="{{ site.baseurl }}/assets/images/agency/fda.png" alt="FDA logo" height="120" title="FDA">
+  		<img src="{{ site.baseurl }}/assets/images/agency/Food_and_Drug_Administration_logo.png" alt="FDA logo" width="120" title="FDA">
 	{% endif %}
 
 	{% if challenge.groupName contains "Centers for Disease Control" or challenge.agency contains "Centers for Disease Control" %}
@@ -132,19 +132,31 @@
     {% endif %}
 
 	{% if challenge.groupName == "Department of Health and Human Services - Centers for Medicare and Medicaid Services" or challenge.agency == "Department of Health and Human Services - Centers for Medicare and Medicaid Services" %}
-	<img src="{{ site.baseurl }}/assets/images/agency/Centers_for_Medicare_and_Medicaid_Services_logo_2014.png" alt="HHS logo" width="120" title="HHS">
+	<img src="{{ site.baseurl }}/assets/images/agency/Centers_for_Medicare_and_Medicaid_Services_logo_2014.png" alt="CMS logo" width="120" title="CMS">
+	{% endif %}
+
+	{% if challenge.groupName == "Department of Health and Human Services - Substance Abuse and Mental Health Services Administration" or challenge.agency == "Department of Health and Human Services - Substance Abuse and Mental Health Services Administration" %}
+	<img style="padding-top: 1em" src="{{ site.baseurl }}/assets/images/agency/SAMHSA.png" alt="SAMHSA logo" width="120" title="SAMHSA">
+	{% endif %}
+
+	{% if challenge.groupName == "Department of Health and Human Services - Administration for Children and Families" or challenge.agency == "Department of Health and Human Services - Administration for Children and Families" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/hhs.png" alt="HHS logo" height="120" title="HHS">
+	{% endif %}
+
+	{% if challenge.groupName == "Department of Health and Human Services - Office of the Assistant Secretary for Preparedness and Response" or challenge.agency == "Department of Health and Human Services - Office of the Assistant Secretary for Preparedness and Response" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/hhs.png" alt="HHS logo" height="120" title="HHS">
 	{% endif %}
 	
 	{% if challenge.groupName contains "Agency for Healthcare Research and Quality" or challenge.agency contains "Agency for Healthcare Research and Quality" %}
-	<img src="{{ site.baseurl }}/assets/images/agency/ahrq-logo.png" alt="HHS logo" width="120" title="HHS">
+	<img src="{{ site.baseurl }}/assets/images/agency/ahrq-logo.png" alt="AHRQ logo" width="120" title="AHRQ">
     {% endif %}
 
     {% if challenge.groupName contains "Small Business Administration" or challenge.agency contains "Small Business Administration" %}
-	<img src="{{ site.baseurl }}/assets/images/agency/SBA_logo.jpg" alt="SBA logo" height="120" title="HHS">
+	<img src="{{ site.baseurl }}/assets/images/agency/SBA_logo.jpg" alt="SBA logo" height="120" title="SBA">
     {% endif %}
     
     {% if challenge.groupName contains "General Services Administration" or challenge.agency contains "General Services Administration" %}
-	<img src="{{ site.baseurl }}/assets/images/agency/gsa.png" alt="GSA logo" height="100" title="HHS">
+	<img src="{{ site.baseurl }}/assets/images/agency/gsa.png" alt="GSA logo" height="100" title="GSA">
 	{% endif %}
 
 	{% if challenge.groupName contains "Department of Veterans Affairs" or challenge.agency contains "Department of Veterans Affairs" %}
@@ -187,10 +199,41 @@
 	<img src="{{ site.baseurl }}/assets/images/agency/dept_of_justice.png" alt="Department of Justice - Office of Justice Programs logo" width="120" title="Department of Justice - Office of Justice Programs">
 	{% endif %}
 
+	{% if challenge.groupName contains "Federal Maritime Commission" or challenge.agency contains "Federal Maritime Commission" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/fed_maritime_commission.png" alt="Federal Maritime Commission logo" width="120" title="Federal Maritime Commission logo">
+	{% endif %}
 
+	{% if challenge.groupName contains "Internal Revenue Service" or challenge.agency contains "Internal Revenue Service" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/irs.gif" alt="Internal Revenue Service logo" height="120" title="Internal Revenue Service logo">
+	{% endif %}
 
+	{% if challenge.groupName contains "Millennium Challenge Corporation" or challenge.agency contains "Millennium Challenge Corporation" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/millennium-challenge-corporation.png" alt="Millennium Challenge Corporation logo" height="120" title="Millennium Challenge Corporation logo">
+	{% endif %}
+
+	{% if challenge.groupName == "Department of the Treasury" or challenge.agency == "Department of the Treasury" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/treasury.gif" alt="Department of the Treasury logo" height="120" title="Department of the Treasury logo">
+	{% endif %}
+
+	{% if challenge.groupName == "Department of Labor" or challenge.agency == "Department of Labor" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/DOL-MasterLogo_Color300.png" alt="Department of Labor logo" height="120" title="Department of Labor logo">
+	{% endif %}
+
+	{% if challenge.groupName contains "FDIC" or challenge.agency contains "FDIC" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/FDIC.png" alt="FDIC logo" width="120" title="FDIC logo">
+	{% endif %}
+
+	{% if challenge.groupName contains "National Security Agency" or challenge.agency contains "National Security Agency" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/nsa.png" alt="NSA logo" width="120" title="NSA logo">
+	{% endif %}
+
+	{% if challenge.groupName contains "National Endowment for the Humanities" or challenge.agency contains "National Endowment for the Humanities" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/natl_endowment_humanities.jpg" alt="NEH logo" width="120" title="NEH logo">
+	{% endif %}
 	
-	
+	{% if challenge.groupName == "Office of Director of National Intelligence" or challenge.agency == "Office of Director of National Intelligence" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/ODNI.png" alt="ODNI logo" width="120" title="ODNI logo">
+	{% endif %}
 
 
 
