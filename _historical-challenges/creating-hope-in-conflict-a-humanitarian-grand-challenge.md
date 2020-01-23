@@ -11,7 +11,7 @@ funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
 tagline: Seeks solutions that enable life-saving or life-improving assistance to reach
   people affected by conflict-generated humanitarian crises.
-groupName: International Assistance Programs - Agency for International Development
+groupName: U.S. Agency for International Development
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:

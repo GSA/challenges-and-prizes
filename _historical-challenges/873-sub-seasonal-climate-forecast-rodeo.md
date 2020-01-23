@@ -8,7 +8,7 @@ card-image: /assets/images/cards/forecast_thumbnail.png
 agency-logo: usbr.jpg
 challenge-title: Sub-Seasonal Climate Forecast Rodeo
 tagline: Compete in real-time forecasting of temperature and precipitation for one year
-agency:  Bureau of Reclamation
+agency: Department of the Interior - Bureau of Reclamation
 partner-agencies-federal: National Oceanic and Atmospheric Administration, United States Geological Survey, Corps of Engineers - Civil Works
 partners-non-federal: 
 external-url:
