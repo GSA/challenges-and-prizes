@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/vets-match/
 challenge-id: 1085
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/Vets-Employment-Challenge-logoV5-bold-340x160.jpg
 agency-logo: DOL-MasterLogo_Color300.png
@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $1,000,000
 type-of-challenge: Software
-submission-start: 2019/12/11 10:30 AM
-submission-end: 2020/01/24 5:00 PM
+submission-start: 12/11/2019 10:30 AM
+submission-end: 01/24/2020 5:00 PM
 submission-link:
 prizes: true
 fiscal-year: FY20
