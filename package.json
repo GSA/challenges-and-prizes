@@ -24,7 +24,7 @@
   ],
   "license": "CC0-1.0",
   "dependencies": {
-    "uswds": "^2.0.1"
+    "uswds": "^2.4.0"
   },
   "devDependencies": {
     "autoprefixer": "^9.5.1",
