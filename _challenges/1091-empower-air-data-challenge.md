@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenge/empower-air-data-challenge/
+permalink: /challenge/empower-air-data-challenge-2020/
 challenge-id: 1091
 status: open
 sidenav: true
