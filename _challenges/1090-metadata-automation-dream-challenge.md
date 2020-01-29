@@ -37,4 +37,5 @@ challenge-manager-email: emjchavarria@synapse.org
   <li>Dr. Gilberto Fragoso</li>
   <li>Dr. Denise Warzel</li>
   </ul>
-<p>Questions posted in <a href="https://www.synapse.org/#!Synapse:syn18065891/discussion/default" target="_blank" rel="noopener">this discussion forum</a> will be addressed during the webinar.</p>
+<h3><strong>Attend the Webinar</strong></h3>
+<p><a href="https://datascience.cancer.gov/news-events/events/metadata-automation-dream-challenge-webinar" target="_blank" rel="noopener">Register for the webinar</a> here. Questions posted in <a href="https://www.synapse.org/#!Synapse:syn18065891/discussion/default" target="_blank" rel="noopener">this discussion forum</a> will be addressed during the virtual event.</p>
