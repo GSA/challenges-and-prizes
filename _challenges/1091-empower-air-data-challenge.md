@@ -4,8 +4,8 @@ permalink: /challenge/empower-air-data-challenge-2020/
 challenge-id: 1091
 status: open
 sidenav: true
-card-image: /assets/images/cards/challenge-gov.png
-agency-logo:
+card-image: /assets/images/cards/Empower_EPA.jpg
+agency-logo: 256px-Environmental_Protection_Agency_logo.png
 challenge-title: EmPOWER Air Data Challenge
 tagline: Developing Innovative Analyses Using Emissions and Air Quality Monitoring Data
 agency: Environmental Protection Agency
