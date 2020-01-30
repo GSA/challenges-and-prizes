@@ -41,7 +41,6 @@ challenge-manager-email: wavestowater@nrel.gov
 <li>Stage III: CREATE (150 DAYS) - April 2020 to August 2020 (anticipated)</li>
 <li>Stage IV: DRINK (180 DAYS) - October 2020 to April 2021 (anticipated)</li>
 </ul>
-<p>Note: Any dates you include in the above categories will appear in a graphic timeline at the top of the “Overview” tab. This timeline is automatic and cannot be hidden.</p>
 
 <!-- Prizes start -->
 ### Prizes
