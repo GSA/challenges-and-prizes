@@ -68,7 +68,7 @@ challenge-manager-email: EmPOWER@epa.gov
 <ul>
 <li>Academic faculty and researchers</li>
 <li>Undergraduate/graduate students with faculty leadership</li>
-<li>D. candidates</li>
+<li>PhD candidates</li>
 <li>Post-doctoral researchers</li>
 <li>Research fellows</li>
 </ul>
