@@ -57,13 +57,13 @@ challenge-manager-email: Jennifer.Garson@ee.doe.gov
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p>The rules for the Fish Protection Prize can be found here: <a href="https://www.herox.com/fishprotection/resource" target="_blank" rel="noopener">https://www.herox.com/fishprotection/resources</a>.</p>
+<p>The rules for the Fish Protection Prize can be found here: <a href="https://www.herox.com/fishprotection/resources" target="_blank" rel="noopener">https://www.herox.com/fishprotection/resources</a>.</p>
 
 <!-- Judging start -->
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p>Please review the official rules for the judging criteria at <a href="https://www.herox.com/fishprotection/resource" target="_blank" rel="noopener">https://www.herox.com/fishprotection/resources</a>.</p>
+<p>Please review the official rules for the judging criteria at <a href="https://www.herox.com/fishprotection/resources" target="_blank" rel="noopener">https://www.herox.com/fishprotection/resources</a>.</p>
 
 <!--  How To Enter start -->
 ### How To Enter
