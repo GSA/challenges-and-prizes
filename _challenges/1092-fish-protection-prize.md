@@ -4,7 +4,7 @@ permalink: /challenge/fish-protection-prize/
 challenge-id: 1092
 status: open
 sidenav: true (false for challenges that are only external)
-card-image: /assets/images/cards/challenge-gov.png
+card-image: /assets/images/cards/1092-Fish-Protection-Prize-DOE-341x160.jpg
 agency-logo: 256px-Seal_of_the_United_States_Department_of_Energy.png
 challenge-title: Fish Protection Prize
 tagline: Catalyze new solutions, designs and strategies to protect fish from water infrastructure, such as water diversions, pipes, and intakes at hydropower dams.
