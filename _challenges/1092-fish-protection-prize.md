@@ -7,7 +7,7 @@ sidenav: true (false for challenges that are only external)
 card-image: /assets/images/cards/1092-Fish-Protection-Prize-DOE-341x160.jpg
 agency-logo: 256px-Seal_of_the_United_States_Department_of_Energy.png
 challenge-title: Fish Protection Prize
-tagline: Catalyze new solutions, designs and strategies to protect fish from water infrastructure, such as water diversions, pipes, and intakes at hydropower dams.
+tagline: Catalyze new solutions, designs and strategies to protect fish from water infrastructure, such as water diversions, pipes and hydropower dam intakes.
 agency: Department of Energy - Water Power Technologies Office
 partner-agencies-federal: Department of the Interior - Bureau of Reclamation
 partners-non-federal: Pacific Northwest National Laboratory, National Renewable Energy Laboratory
@@ -51,6 +51,7 @@ challenge-manager-email: Jennifer.Garson@ee.doe.gov
 <li><strong>Concept Stage Prizes: </strong>Up to 10 finalists will win 50 hours of support from <a href="https://www.pnnl.gov/" target="_blank" rel="noopener">Pacific Northwest National Laboratory</a> to refine their concepts and develop a plan to test their solution.</li>
 <li><strong>INCUBATE Stage Winners: </strong>Finalists who submit their final reports and pitch deck will be invited to participate in the PITCH Contest.</li>  
 <li><strong>PITCH Contest: </strong>Participants will present their concepts in front of a live audience, with a 10-minute pitch and 10-minute question-and-answer period. Participants will be judged based both on their pitch and their required technical submission and will be evaluated based on technical innovation, technical feasibility, market feasibility, and the proposed research and development plan. The three winners of this stage will split a prize pool of up to $700,000 receive cash and in-kind voucher support for use through September 30, 2021.</li> 
+  </ul>
 
 <!-- Rules start -->
 ### Rules 
