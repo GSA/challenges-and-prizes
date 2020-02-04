@@ -66,10 +66,8 @@ The Artists Inspire Astronauts Challenge was an open competition for artists to 
 <h2>Legal Authority</h2>
 <p><strong>Procurement Authority</strong></p>
 
-<!--
 <h2>Challenge Website</h2>
 <p><u><a href="https://www.challenge.gov/challenge/artists-inspire-astronauts/">https://www.challenge.gov/challenge/artists-inspire-astronauts/</a></u></p>
--->
 
 
 <!-- CLOSE article -->
