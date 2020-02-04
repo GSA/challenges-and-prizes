@@ -41,6 +41,8 @@ primary_navigation:
     url: /
   - name: About
     url: /about/
+  - name: Blog
+    url: /blog/
   - name: Agency Toolkit
     children:
       - name: Overview
