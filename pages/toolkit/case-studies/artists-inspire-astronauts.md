@@ -29,9 +29,9 @@ id="9475" itemscope="" itemtype="http://schema.org/CreativeWork">
     </a>
 </div>
 <div style="line-height: 2.75rem">
-<h1 style="text-align:right;">Artists Inspire Astronauts Challenge | NASA</h1>
+<h1 style="text-align:left;">Artists Inspire Astronauts Challenge | NASA</h1>
 </div>
-<p style="font-size: x-large; float: left;">In 2019, NASA's Artists Inspire Astronauts Challenge sought original and inspiring artwork to be displayed in Astronaut Crew Quarters, which is one of the last places astronauts spend time before heading to the launch pad.</p>
+<p style="font-size: x-large; float: left;">In 2019, NASA's Artists Inspire Astronauts Challenge sought original and inspiring artwork to be displayed in Astronaut Crew Quarters, one of the last places astronauts spend time before heading to the launch pad.</p>
 <br>
 <h2>Background</h2>
 <!--Body Content Start-->
