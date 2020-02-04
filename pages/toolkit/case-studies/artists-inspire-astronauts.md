@@ -25,7 +25,7 @@ id="9475" itemscope="" itemtype="http://schema.org/CreativeWork">
 <!--Feature Image-->
 <div style= "text-align: left;" id="attachment_9500" class="wp-caption">
     <a href="{{ site.baseurl }}/assets/images/toolkit/case-studies/Artists_Inspire_Astronauts.jpg">
-    <img class="case-study-feature-img margin-right-2" style="float: middle;"
+    <img class="case-study-feature-img margin-right-2" style="float: left;"
     src="{{ site.baseurl }}/assets/images/toolkit/case-studies/Artists_Inspire_Astronauts.jpg" alt="NASA artwork">
     </a>
 </div>
