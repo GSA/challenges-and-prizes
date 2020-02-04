@@ -25,12 +25,11 @@ id="9475" itemscope="" itemtype="http://schema.org/CreativeWork">
 <!--Feature Image-->
 <div style= "text-align: left;" id="attachment_9500" class="wp-caption">
     <a href="{{ site.baseurl }}/assets/images/toolkit/case-studies/Artists_Inspire_Astronauts.jpg">
-    <img class="case-study-feature-img margin-right-2" style="float: left;"
-    src="{{ site.baseurl }}/assets/images/toolkit/case-studies/Artists_Inspire_Astronauts.jpg" alt="NASA artwork">
+    <img src="{{ site.baseurl }}/assets/images/toolkit/case-studies/Artists_Inspire_Astronauts.jpg" alt="NASA artwork">
     </a>
 </div>
 <div style="line-height: 2.75rem">
-<h1 style="margin-top: 1em;">Artists Inspire Astronauts Challenge</h1><h2 class="case-study-agency-heading">NASA</h2>
+<h1 style="text-align:right;">Artists Inspire Astronauts Challenge | NASA</h1>
 </div>
 <p style="font-size: x-large; float: left;">In 2019, NASA's Artists Inspire Astronauts Challenge sought original and inspiring artwork to be displayed in Astronaut Crew Quarters, which is one of the last places astronauts spend time before heading to the launch pad.</p>
 <br>
