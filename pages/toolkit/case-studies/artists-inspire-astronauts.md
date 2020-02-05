@@ -27,7 +27,7 @@ id="9475" itemscope="" itemtype="http://schema.org/CreativeWork">
     <a href="{{ site.baseurl }}/assets/images/toolkit/case-studies/Artists_Inspire_Astronauts.jpg">
     <img src="{{ site.baseurl }}/assets/images/toolkit/case-studies/Artists_Inspire_Astronauts.jpg" alt="NASA artwork">
     </a>
-    <p class="wp-caption-text">The winning pieces from left to right: Anticipation by Bryan Larson; Ad Astra Ascendo by Michael Hallberg; Suerpgrediatur by Cayla Massarelli; A Dream is Never Too Far to Reach by Juan Diego Medellin; and Emanation by Adrianna Allen. (Image courtesy of NASA)</p>
+    <p class="wp-caption-text">The winning pieces from left to right: Anticipation by Bryan Larson; Ad Astra Ascendo by Michael Hallberg; Supergrediatur by Cayla Massarelli; A Dream is Never Too Far to Reach by Juan Diego Medellin; and Emanation by Adrianna Allen. (Image courtesy of NASA)</p>
 </div>
 <div style="line-height: 2.75rem">
 <h1 style="text-align:left;">Artists Inspire Astronauts Challenge | NASA</h1>
