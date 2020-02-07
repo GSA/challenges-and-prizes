@@ -7,7 +7,7 @@ sidenav: false
 card-image: /assets/images/cards/USMC_ground_sensors.png
 agency-logo: dod_seal.jpg
 challenge-title: Marine Corps Ground Sensors Challenge
-tagline: How can the USMC make better use of unmanned technology to detect human movement and network signatures in an austere environment?
+tagline: How can the USMC better use unmanned technology to detect human movement and network signatures in an austere environment?
 agency: Department of Defense - U.S. Marine Corps
 partner-agencies-federal:
 partners-non-federal:
