@@ -12,16 +12,16 @@ agency: Department of Health and Human Services - Agency for Healthcare Research
 partner-agencies-federal:
 partners-non-federal:
 external-url:
-total-prize-offered-cash:
-type-of-challenge:
-submission-start: (do NOT add ET for the time zone)
-submission-end: (do NOT add ET for the time zone)
+total-prize-offered-cash: $175,000
+type-of-challenge: Software and apps
+submission-start: 2020/02/11 05:00 PM
+submission-end: 2020/10/30 05:00 PM
 submission-link:
 prizes: true
-fiscal-year: (formatted as FY19, FY20, FY21 etc...)
+fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
-challenge-manager:
-challenge-manager-email: (will display in the Point of Contact field)
+challenge-manager: Susan Kerin, susank@capconcorp.com
+challenge-manager-email: ahrqchallenge@ahrq.hhs.gov
 ---
 
 
