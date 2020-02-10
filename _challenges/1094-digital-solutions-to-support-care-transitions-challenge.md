@@ -1,14 +1,14 @@
 ---
 layout: front-matter-data
-permalink: /challenge/title-goes-here/
-challenge-id:
+permalink: /challenge/digital-solutions-to-support-care-transitions-challenge/
+challenge-id: 1094
 status: open
-sidenav: true (false for challenges that are only external)
+sidenav: true
 card-image: /assets/images/cards/challenge-gov.png
-agency-logo:
-challenge-title:
-tagline:
-agency:
+agency-logo: 
+challenge-title: Digital Solutions to Support Care Transitions Challenge
+tagline: Can you help develop interoperable health information technology (IT) solutions that engage patients and family caregivers during care transitions from in-patient hospital care to home (community living)?
+agency: Department of Health and Human Services - Agency for Healthcare Research and Quality
 partner-agencies-federal:
 partners-non-federal:
 external-url:
@@ -19,7 +19,7 @@ submission-end: (do NOT add ET for the time zone)
 submission-link:
 prizes: true
 fiscal-year: (formatted as FY19, FY20, FY21 etc...)
-legal-authority:
+legal-authority: America COMPETES Act
 challenge-manager:
 challenge-manager-email: (will display in the Point of Contact field)
 ---
