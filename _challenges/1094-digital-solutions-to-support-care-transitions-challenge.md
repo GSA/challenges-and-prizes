@@ -72,6 +72,7 @@ challenge-manager-email: ahrqchallenge@ahrq.hhs.gov
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<p>Please review the official rules for the judging criteria here: <a href="https://bestincrowd.com/home/challenge-details/digital-solutions-to-support-care-transitions" target="_blank" rel="noopener">https://bestincrowd.com/home/challenge-details/digital-solutions-to-support-care-transitions</a></p>
 
 <!--  How To Enter start -->
 ### How To Enter
