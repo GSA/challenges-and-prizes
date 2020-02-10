@@ -66,6 +66,7 @@ challenge-manager-email: ahrqchallenge@ahrq.hhs.gov
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<p>The rules can be found here: <a href="https://bestincrowd.com/home/challenge-details/digital-solutions-to-support-care-transitions" target="_blank" rel="noopener">https://bestincrowd.com/home/challenge-details/digital-solutions-to-support-care-transitions</a></p>
 
 <!-- Judging start -->
 ### Judging Criteria
