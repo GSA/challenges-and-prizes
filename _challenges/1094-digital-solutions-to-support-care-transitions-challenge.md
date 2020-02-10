@@ -48,6 +48,19 @@ challenge-manager-email: ahrqchallenge@ahrq.hhs.gov
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<p><strong>Phase 1 &ndash; Proposal of Innovative Models</strong></p>
+<ul>
+<li>Total Cash Prize: $100,000</li>
+<li>$20,000 per semi-finalist will be awarded; up to 5 awards</li>
+<li>Semi-finalists will use a portion of their earnings to travel to a demo day in either Chicago, IL or Washington, DC.</li>
+</ul>
+<p><strong>Phase 2 &ndash; Prototype Development</strong></p>
+<p>AHRQ/HHS will make up to two awards:</p>
+<ul>
+<li>Total Cash Prize: $75,000</li>
+<li>First place winner: $50,000</li>
+<li>Second place winner: $25,000</li>
+</ul>
 
 <!-- Rules start -->
 ### Rules 
