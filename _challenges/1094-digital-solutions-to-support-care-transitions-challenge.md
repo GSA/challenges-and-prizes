@@ -39,7 +39,7 @@ challenge-manager-email: ahrqchallenge@ahrq.hhs.gov
 <li>Phase 1 Submission Open: February 10, 2020</li>
 <li>Phase 1 Submission Close: April 6, 2020</li>
 <li>Judging and Review Period: Anticipated April 6, 2020 &ndash; May 2020</li>
-<li>Phase 2 Submission Open: Anticipated May 8, 2020</li>
+<li>Phase 2 Submission Open: Anticipated May 2020</li>
 <li>Phase 1 Submission Close: Anticipated November 20, 2020</li>
 </ul>
 
