@@ -77,3 +77,5 @@ challenge-manager-email: ahrqchallenge@ahrq.hhs.gov
 <!--  How To Enter start -->
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
+<p>Competitors can enter the Challenge here: <a href="https://bestincrowd.com/home/challenge-details/digital-solutions-to-support-care-transitions" target="_blank" rel="noopener">https://bestincrowd.com/home/challenge-details/digital-solutions-to-support-care-transitions</a></p>
