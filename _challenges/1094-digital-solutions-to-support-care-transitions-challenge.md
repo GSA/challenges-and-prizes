@@ -5,7 +5,7 @@ challenge-id: 1094
 status: open
 sidenav: true
 card-image: /assets/images/cards/AHRQ-logo_NEW.jpg
-agency-logo: 
+agency-logo: ahrq-logo.png
 challenge-title: Digital Solutions to Support Care Transitions Challenge
 tagline: Can you help develop interoperable health information technology (IT) solutions that engage patients and family caregivers during care transitions from in-patient hospital care to home (community living)?
 agency: Department of Health and Human Services - Agency for Healthcare Research and Quality
