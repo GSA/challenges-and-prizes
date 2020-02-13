@@ -80,6 +80,21 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
  <li>Grand Prize (1): $300,000</li>
 </ul>
 
+<h4>Phase 1 - Concept Paper Top 10 Scorers Advancing to Phase II (no cash prize at this Phase) in alphabetical order:</h4>
+
+<ul>
+<li>Acronis SMS</li>
+<li>Eightfold</li>
+<li>Enfuego</li>
+<li>JobPath Partners</li>
+<li>LinkedIn</li>
+<li>Pathfinder Labs</li>
+<li>Purepost</li>
+<li>Square Peg Hires</li>
+<li>Vantage Point</li>
+<li>Vet It</li>
+</ul>
+
 <!-- Rules start -->
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
