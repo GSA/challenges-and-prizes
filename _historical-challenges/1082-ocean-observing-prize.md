@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/ocean-observing-prize/
 challenge-id: 1082
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/Ocean_observing_341x160.jpg
 agency-logo: 256px-Seal_of_the_United_States_Department_of_Energy.png
@@ -14,8 +14,8 @@ partners-non-federal:
 external-url: 
 total-prize-offered-cash: $3,125,000
 type-of-challenge: Ideation, Technology demonstration/hardware
-submission-start: 2019/11/14
-submission-end: 2020/02/12 11:59 p.m.
+submission-start: 11/14/2019
+submission-end: 02/12/2020 11:59 p.m.
 submission-link: https://americanmadechallenges.org/oceanobserving/
 prizes: true
 fiscal-year: FY19, FY20, FY21
