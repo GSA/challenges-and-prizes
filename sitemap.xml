@@ -30,11 +30,11 @@ layout: null
     {% endif %}
   </url>
   {% endfor %}
-  {% for archived-challenge in site.archived-challenges %}
+  {% for historical-challenge in site.historical-challenges %}
   <url>
-    <loc>{{ archived-challenge.url | replace:'/index.html','/' | prepend: site_url }}</loc>
-    {% if archived-challenge.last_modified_at %}
-    <lastmod>{{ archived-challenge.last_modified_at | date_to_xmlschema }}</lastmod>
+    <loc>{{ historical-challenge.url | replace:'/index.html','/' | prepend: site_url }}</loc>
+    {% if historical-challenge.last_modified_at %}
+    <lastmod>{{ historical-challenge.last_modified_at | date_to_xmlschema }}</lastmod>
     {% endif %}
   </url>
   {% endfor %}
