@@ -80,7 +80,7 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
  <li>Grand Prize (1): $300,000</li>
 </ul>
 
-<h4>Phase 1 - Concept Paper Top 10 Scorers Advancing to Phase II (no cash prize at this Phase) in alphabetical order:</h4>
+<h4>Phase I - Concept Paper Top 10 Scorers Advancing to Phase II (no cash prize at this Phase) in alphabetical order:</h4>
 
 <ul>
 <li>Acronis SMS</li>
