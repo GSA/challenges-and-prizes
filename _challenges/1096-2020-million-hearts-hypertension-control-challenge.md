@@ -112,7 +112,7 @@ challenge-manager-email: MillionHearts@cdc.gov
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p>To enter the Challenge, participants must complete the application form by clicking the link at the bottom of this page.&nbsp; The application form is a combination of short answer responses, checkbox responses, and assurances.</p>
+<p>To enter the Challenge, participants must complete the <a href="https://htnchampions.millionhearts.hhs.gov/" target="_blank" rel="noopener">application form</a> on the Million Hearts&reg; site. The application form is a combination of short answer responses, checkbox responses, and assurances.</p>
 <p>Application information includes:</p>
 <ol>
 <li>The size of the applicant&rsquo;s adult patient population defined as the number of adult patients (age 18 years and older) served during the reporting year regardless of diagnosis, a summary of known patient demographics (e.g., age distribution), and any noteworthy patient population characteristics. The reporting year (continuous 12 months) should reflect the most currently available data.</li>
