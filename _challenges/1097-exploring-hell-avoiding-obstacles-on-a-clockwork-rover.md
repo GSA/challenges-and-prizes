@@ -13,7 +13,7 @@ partner-agencies-federal:
 partners-non-federal:
 external-url: https://www.herox.com/VenusRover
 total-prize-offered-cash:
-type-of-challenge: 
+type-of-challenge: Technology demonstration and hardware
 submission-start: 2020/02/18 09:00 AM
 submission-end: 2020/05/29 05:00 PM
 submission-link:
