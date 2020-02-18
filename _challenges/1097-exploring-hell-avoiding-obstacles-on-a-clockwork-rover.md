@@ -26,26 +26,3 @@ challenge-manager-email: sarah.e.schlieder@nasa.gov
 
 
 
-<!-- Description start -->
-### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
-
-
-<!-- Prizes start -->
-### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
-
-
-<!-- Rules start -->
-### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
-
-
-<!-- Judging start -->
-### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
-
-
-<!--  How To Enter start -->
-### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
