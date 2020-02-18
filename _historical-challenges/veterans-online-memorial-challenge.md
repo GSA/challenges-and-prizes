@@ -9,7 +9,7 @@ id: 930
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: ''
+tagline: 'Submit your idea to make the Veterans Online Memorial more engaging and meaningful for users'
 groupName: Department of Veterans Affairs
 hideIdeaAuthor: false
 template: ideation
