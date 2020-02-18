@@ -83,7 +83,7 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 <h4>Phase I - Concept Paper Top 10 Scorers Advancing to Phase II (no cash prize at this Phase) in alphabetical order:</h4>
 
 <ul>
-<li>Acronis SMS</li>
+<li>Acronis SCS</li>
 <li>Eightfold</li>
 <li>Enfuego</li>
 <li>JobPath Partners</li>
