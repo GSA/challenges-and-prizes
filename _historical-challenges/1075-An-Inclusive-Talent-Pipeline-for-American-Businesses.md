@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/an-inclusive-talent-pipeline-for-american-businesses/
 challenge-id: 1075
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/ACL_logo.jpg
 agency-logo: hhs.png
@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $380,000
 type-of-challenge: Ideas
-submission-start: 2019/11/22 5:00 PM 
-submission-end: 2020/02/14 11:59 PM 
+submission-start: 11/22/2019 5:00 PM 
+submission-end: 02/14/2020 11:59 PM 
 submission-link:  
 prizes: true
 fiscal-year: FY19, FY20

@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/2020-reach-lark-award/
 challenge-id: 1070
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/REACH_LARK_Badge.jpg
 agency-logo: 256px-US_CDC_logo.png
@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash:
 type-of-challenge: Nominations
-submission-start: 2019/12/01 12:00 AM 
-submission-end: 2020/02/14 11:59 PM 
+submission-start: 12/01/2019 12:00 AM 
+submission-end: 02/14/2020 11:59 PM 
 submission-link:  
 prizes: true
 fiscal-year: FY19, FY20
