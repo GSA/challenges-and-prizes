@@ -162,7 +162,7 @@ challenge-manager-email: jshapiro@capconcorp.com
 <li>Participate in a 5-day Live Competition demonstrating full capabilities and features of the UAS prototype</li>
 </ul>
 <h3><strong>UAS Challenge Stages</strong></h3>
-<table style="width: 787px; height: 472px;">
+<table style="width: 787px; height: 472px;" border="1">
 <tbody>
 <tr>
 <td style="width: 86.4px;">
@@ -251,7 +251,7 @@ challenge-manager-email: jshapiro@capconcorp.com
 <p>Up to $552,000</p>
 <h3>Prize Breakdown&nbsp;</h3>
 <p>NIST Public Safety Communications Research program is hosting a 4-stage challenge, with development funds, travel, and prize awards listed in the following table.</p>
-<table style="width: 718px; height: 533px;">
+<table style="width: 718px; height: 533px;" border="1">
 <tbody>
 <tr>
 <td style="width: 208px;">
