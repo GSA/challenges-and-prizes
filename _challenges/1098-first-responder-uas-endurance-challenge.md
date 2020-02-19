@@ -247,6 +247,136 @@ challenge-manager-email: jshapiro@capconcorp.com
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<h3>Total Cash Prize Pool&nbsp;</h3>
+<p>Up to $552,000</p>
+<h3>Prize Breakdown&nbsp;</h3>
+<p>NIST Public Safety Communications Research program is hosting a 4-stage challenge, with development funds, travel, and prize awards listed in the following table.</p>
+<table style="width: 718px; height: 533px;">
+<tbody>
+<tr>
+<td style="width: 208px;">
+<h3><strong>Award Ranking</strong></h3>
+</td>
+<td style="width: 152px;">
+<h3><strong>Number of Awards</strong></h3>
+</td>
+<td style="width: 337.6px;">
+<h3><strong>Award Value</strong></h3>
+</td>
+</tr>
+<tr>
+<td style="width: 208px;">
+<p>Stage 1</p>
+</td>
+<td style="width: 152px;">
+<p>Up to 10</p>
+</td>
+<td style="width: 337.6px;">
+<p>$10,000 (each), up to $100,000 total</p>
+</td>
+</tr>
+<tr>
+<td style="width: 208px;">
+<p>Stage 2</p>
+</td>
+<td style="width: 152px;">
+<p>Up to 15</p>
+</td>
+<td style="width: 337.6px;">
+<p>Achieving Milestone 1: $5,000 (each), up to $75,000 total</p>
+<p>Achieving Milestone 2: $5,000 (each), up to $75,000 total</p>
+</td>
+</tr>
+<tr>
+<td style="width: 208px;">
+<p>Stage 3</p>
+</td>
+<td style="width: 152px;">
+<p>Up to 15</p>
+</td>
+<td style="width: 337.6px;">
+<p>$6,000 (each), up to $90,000 total in travel prize awards for contestants to compete in Stage 4, Live Test &amp; Evaluation</p>
+</td>
+</tr>
+<tr>
+<td style="width: 708.8px;" colspan="3">
+<p>Stage 4</p>
+</td>
+</tr>
+<tr>
+<td style="width: 208px;">
+<p>Travel Funds</p>
+</td>
+<td style="width: 152px;">
+<p>Up to 3</p>
+</td>
+<td style="width: 337.6px;">
+<p>$4,000 (each), up to $12,000 total in travel prize awards for first, second and third place contestants to attend and present at the 2021 PSCR conference</p>
+</td>
+</tr>
+<tr>
+<td style="width: 208px;">
+<p>Best-In-Class Award</p>
+</td>
+<td style="width: 152px;">
+<p>Up to 6&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td style="width: 337.6px;">
+<p>$5,000 (each), up to $30,000 total</p>
+</td>
+</tr>
+<tr>
+<td style="width: 208px;">
+<p>First Responder&rsquo;s Choice Award</p>
+</td>
+<td style="width: 152px;">
+<p>2&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td style="width: 337.6px;">
+<p>$5,000 (each), up to $10,000 total</p>
+</td>
+</tr>
+<tr>
+<td style="width: 208px;">
+<p>Third Place</p>
+</td>
+<td style="width: 152px;">
+<p>1</p>
+</td>
+<td style="width: 337.6px;">
+<p>$20,000</p>
+</td>
+</tr>
+<tr>
+<td style="width: 208px;">
+<p>Second Place</p>
+</td>
+<td style="width: 152px;">
+<p>1</p>
+</td>
+<td style="width: 337.6px;">
+<p>$40,000</p>
+</td>
+</tr>
+<tr>
+<td style="width: 208px;">
+<p>First Place</p>
+</td>
+<td style="width: 152px;">
+<p>1</p>
+</td>
+<td style="width: 337.6px;">
+<p>$100,000</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>NOTE: This table only describes prize awards; additional contestants may be invited to participate in challenge stages but not receive prize awards. All Stage 4 Contestants are eligible to compete for all Stage 4 prizes.</p>
+<h3>Non-monetary Prizes</h3>
+<ul>
+<li>Informal mentoring for contestants selected from Stage 1: Concept Paper Contest</li>
+<li>Opportunities for contestants to showcase prototype UAS to representatives of the first responder community in Stage 4: Live Test &amp; Evaluation</li>
+</ul>
 
 <!-- Rules start -->
 ### Rules 
@@ -261,3 +391,11 @@ challenge-manager-email: jshapiro@capconcorp.com
 <!--  How To Enter start -->
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
+<p>Visit the Challenge website <a href="http://www.firstresponderuaschallenge.org">www.firstresponderuaschallenge.org</a>, to review the challenge stages in the First Responder UAS Endurance Challenge.</p>
+<ul>
+<li>Visit <a href="http://www.challenge.gov/challenge/first-responder-uas-endurance-challenge/">challenge.gov/challenge/first-responder-uas-endurance-challenge/</a> to view the Official Rules and series of contests in the First Responder UAS Endurance Challenge.</li>
+<li>To enter for Stage 1, complete the submission requirements for the Concept Paper Contest, submit the required concept paper and summary slide via the Challenge website <a href="http://www.firstresponderuaschallenge.org">firstresponderuaschallenge.org</a>.</li>
+<li>To enter for Stage 3, complete the submission requirements for the Walk-on Teams: Video Test &amp; Safety Evaluation Contest, submit a Bill of Materials for the UAS and the same test flight videos required for the Stage 3: Video Test &amp; Safety Evaluation Contest via the Challenge website <a href="http://www.firstresponderuaschallenge.org">firstresponderuaschallenge.org</a>.</li>
+<li>Additional information on how to complete a Contestant entry is available at <a href="http://www.firstresponderuaschallenge.org">firstresponderuaschallenge.org</a>.</li>
+</ul>
