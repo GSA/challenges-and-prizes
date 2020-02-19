@@ -72,7 +72,7 @@ partner-agencies-non-federal: Lockheed Martin, Boeing, Futuramic, Delaware North
   Aerospace Industries Association, AllPoints LLC, Northrop Grumman, Jacobs
 original-post-id: '178247'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Creative (design & multimedia)
 participation-requirements: ''

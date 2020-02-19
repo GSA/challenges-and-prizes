@@ -54,7 +54,7 @@ solution-type: ''
 partner-agencies-non-federal: Wellcome Trust, National Institute of Health
 original-post-id: '90011'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Software and apps
 participation-requirements: ''
