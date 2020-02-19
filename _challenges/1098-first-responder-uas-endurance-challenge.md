@@ -9,19 +9,19 @@ agency-logo: NIST_logo.png
 challenge-title: First Responder UAS Endurance Challenge
 tagline: Increase UAS flight time and capabilities in support of first responders
 agency: Department of Commerce - National Institute of Standards and Technology
-partner-agencies-federal:
-partners-non-federal:
+partner-agencies-federal: First Responder Network Authority (FirstNet the Authority)
+partners-non-federal: FIRSTNET Built with AT&T
 external-url:
-total-prize-offered-cash:
-type-of-challenge:
-submission-start: (do NOT add ET for the time zone)
-submission-end: (do NOT add ET for the time zone)
+total-prize-offered-cash: $552,000
+type-of-challenge: Technology demonstration and hardware
+submission-start: 2020/04/01 09:00 AM
+submission-end: 2020/04/30 09:00 PM
 submission-link:
 prizes: true
 fiscal-year: FY20
 legal-authority: America COMPETES Act
-challenge-manager: Terese Manley
-challenge-manager-email: (will display in the Point of Contact field)
+challenge-manager: Terese Manley, terese.manley@nist.gov
+challenge-manager-email: jshapiro@capconcorp.com
 ---
 
 
