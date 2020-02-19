@@ -382,7 +382,7 @@ challenge-manager-email: jshapiro@capconcorp.com
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-See the officials rules document for complete breakdown of stages.
+See the <a href="{{ site.baseurl }}/assets/document-library/3.2-Challenge-Rules-UAS2-final-OCC-approved-2-18-20.pdf">official rules document</a> for details on all aspects of the challenge.
 
 <!-- Judging start -->
 ### Judging Criteria
