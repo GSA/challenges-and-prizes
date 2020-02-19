@@ -161,6 +161,87 @@ challenge-manager-email: jshapiro@capconcorp.com
 <li>Produce a Test flight video demonstrating the UAS prototype capabilities and safety compliance</li>
 <li>Participate in a 5-day Live Competition demonstrating full capabilities and features of the UAS prototype</li>
 </ul>
+<h3><strong>UAS Challenge Stages</strong></h3>
+<table style="width: 787px; height: 472px;">
+<tbody>
+<tr>
+<td style="width: 86.4px;">
+<p><strong>Stage</strong></p>
+</td>
+<td style="width: 196px;">
+<p><strong>Contest Description</strong></p>
+</td>
+<td style="width: 240px;">
+<p><strong>Review Criteria Summary</strong></p>
+</td>
+<td style="width: 238.4px;">
+<p><strong>Number of Contestants Eligible to Compete</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 86.4px;">
+<p>1</p>
+</td>
+<td style="width: 196px;">
+<p>Concept Papers</p>
+</td>
+<td style="width: 240px;">
+<p>Strategic Alignment &amp; Technical Outcome; Feasibility &amp; Team</p>
+</td>
+<td style="width: 238.4px;">
+<p>Open to all eligible contestants</p>
+</td>
+</tr>
+<tr>
+<td style="width: 86.4px;">
+<p>2</p>
+</td>
+<td style="width: 196px;">
+<p>Design, Prototyping, &amp; Hardware Build</p>
+</td>
+<td style="width: 240px;">
+<p>Preliminary Design Review; Critical Design Review</p>
+</td>
+<td style="width: 238.4px;">
+<p>Up to 20 contestants invited from Stage 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width: 86.4px;">
+<p>3</p>
+</td>
+<td style="width: 196px;">
+<p>Video Test &amp; Safety Evaluation</p>
+</td>
+<td style="width: 240px;">
+<p>Video Test &amp; Evaluation</p>
+<p>Walk-on&rsquo;s evaluated for entry</p>
+</td>
+<td style="width: 238.4px;">
+<p>Up to 20 contestants from Stage 2 who meet the required performance standards</p>
+<p>&nbsp;</p>
+<p>Walk-on contestants evaluated for Stage 4 eligibility</p>
+</td>
+</tr>
+<tr>
+<td style="width: 86.4px;">
+<p>4</p>
+</td>
+<td style="width: 196px;">
+<p>Live Test &amp; Evaluation &nbsp;</p>
+</td>
+<td style="width: 240px;">
+<p>Drone Specification and Safety Review;</p>
+<p>Static Capability Assessment;</p>
+<p>Technical Flight Evaluations;</p>
+<p>Endurance Flight</p>
+</td>
+<td style="width: 238.4px;">
+<p>Up to 15 contestants invited from Stage 3</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 <!-- Prizes start -->
 ### Prizes
