@@ -8,22 +8,32 @@
     </div>
   <nav>
     <h3 class="text-base-dark">Page Contents</h3>
+    {% if page.description != "" %}
     <ul class="usa-sidenav">
       <li class="usa-sidenav__item">
         <a class="text-accent-warm-dark" href="#description">Description</a>
       </li>
+      {% endif %}
+      {% if page.prize-name-0 != "" %}
       <li class="usa-sidenav__item">
         <a href="#prizes">Prizes</a>
       </li>
+      {% endif %}
+      {% if page.rules != "" %}
       <li class="usa-sidenav__item">
         <a href="#rules">Rules</a>
       </li>
+      {% endif %}
+      {% if page.judging-criteria-0 != "" %}
       <li class="usa-sidenav__item">
         <a href="#judging-criteria">Judging Criteria</a>
       </li>
+      {% endif %}
+      {% if page.how-to-enter != "" %}
       <li class="usa-sidenav__item">
         <a href="#how-to-enter">How To Enter</a>
       </li>
+      {% endif %}
     </ul>
   </nav>
   {% endif %}
