@@ -153,7 +153,14 @@ challenge-manager-email: jshapiro@capconcorp.com
 <li>The drone needs to continuously fly as long as possible, be easily recovered, stored and readied for the next mission.</li>
 </ul>
 <p>PSCR is aware that various organizations have, or are developing, drones with higher payload capacities and long endurance; however, these drones typically cost more than what a local public safety department might be able to afford. Additionally, they may not be practical due to the difficulty of transporting large equipment and/or the need for specialized training to operate it, both of which can be difficult for city/state agencies with limited staff and resources. Therefore, PSCR is hosting this 4-stage challenge to design, develop, and demonstrate drones with extended flight time and other capabilities that support first responders to help advance the research and push the boundaries of UAS technology for public safety.&nbsp;</p>
-
+<h3>Deliverables Due</h3>
+<p>Participants will be asked to:</p>
+<ul>
+<li>Submit a concept paper using an online form, outlining the UAS knowledge, skills, capabilities and design approach for this challenge</li>
+<li>Create or purchase hardware necessary to build a prototype and implement the design approach outlined within the concept paper</li>
+<li>Produce a Test flight video demonstrating the UAS prototype capabilities and safety compliance</li>
+<li>Participate in a 5-day Live Competition demonstrating full capabilities and features of the UAS prototype</li>
+</ul>
 
 <!-- Prizes start -->
 ### Prizes
