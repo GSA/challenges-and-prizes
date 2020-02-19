@@ -391,7 +391,6 @@ See the officials rules document for complete breakdown of stages.
 <h3>Judging Panel</h3>
 <p>The submissions will be judged by a qualified panel of expert(s) selected by the U.S. Department of Commerce, National Institute of Standards and Technology (NIST) at its sole discretion. The panel consists of U.S. Department of Commerce, NIST and non-Department of Commerce, NIST experts and will judge the submissions according to the judging criteria in order to select winners. The decisions of the judges for the contest will be announced in accordance with the dates noted in the "Summary of Important Dates.&rdquo;</p>
 <h3>Judging Criteria</h3>
-<p>&nbsp;</p>
 <p><strong>Stage 1 Criteria</strong></p>
 <p>NIST makes an independent assessment of each Concept Paper based on the evaluation criteria. NIST will not review or consider ineligible Concept Paper submissions. During the review, each subject matter expert reviewer will review the entire concept papers to which they are assigned. The review is not done in sections with different reviewers responsible for different assigned sections. Therefore, it is not necessary to repeat information in every part of the Concept Paper. Do not include sensitive materials in the Concept Paper, for example personally identifiable information such as social security numbers or business sensitive information such as tax ID numbers, etc.</p>
 <p><strong>Criterion 1: Strategic Alignment &amp; Technical Outcome (50%)</strong></p>
