@@ -35,7 +35,7 @@ challenge-manager-email: jshapiro@capconcorp.com
 <p>The National Institute of Standards and Technology (NIST) Public Safety Communications Research Division (PSCR) is hosting a 4-stage challenge, with prize awards <strong>up to $552,000</strong> for the top designs. There are no fees or qualifications needed to enter the first stage. The most outstanding Stage 1 conceptual designs will be eligible to participate in the remaining stages of the competition (see Official Rules).</p>
 <p><strong>You can make a difference!</strong> Continue reading to learn about challenge stages and details. To enter for Stage 1, submit your <u><a href="https://www.firstresponderuaschallenge.org">entry</a></u> by April 30, 2020. For entry as a Walk-on for Stage 3, submit your <u><a href="https://www.firstresponderuaschallenge.org">entry</a></u> by December 18, 2020. Entries can be submit on the challenge website at <a href="https://www.firstresponderuaschallenge.org/">https://www.firstresponderuaschallenge.org/</a></p>
 <h3><strong>Table A - Summary of Important Dates</strong></h3>
-<table style="width: 709px; height: 745px;">
+<table style="width: 709px; height: 745px;" border="1">
 <tbody>
 <tr>
 <td style="width: 187.2px;">
