@@ -382,11 +382,32 @@ challenge-manager-email: jshapiro@capconcorp.com
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+See the officials rules document for complete breakdown of stages.
 
 <!-- Judging start -->
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<h3>Judging Panel</h3>
+<p>The submissions will be judged by a qualified panel of expert(s) selected by the U.S. Department of Commerce, National Institute of Standards and Technology (NIST) at its sole discretion. The panel consists of U.S. Department of Commerce, NIST and non-Department of Commerce, NIST experts and will judge the submissions according to the judging criteria in order to select winners. The decisions of the judges for the contest will be announced in accordance with the dates noted in the "Summary of Important Dates.&rdquo;</p>
+<h3>Judging Criteria</h3>
+<p>&nbsp;</p>
+<p><strong>Stage 1 Criteria</strong></p>
+<p>NIST makes an independent assessment of each Concept Paper based on the evaluation criteria. NIST will not review or consider ineligible Concept Paper submissions. During the review, each subject matter expert reviewer will review the entire concept papers to which they are assigned. The review is not done in sections with different reviewers responsible for different assigned sections. Therefore, it is not necessary to repeat information in every part of the Concept Paper. Do not include sensitive materials in the Concept Paper, for example personally identifiable information such as social security numbers or business sensitive information such as tax ID numbers, etc.</p>
+<p><strong>Criterion 1: Strategic Alignment &amp; Technical Outcome (50%)</strong></p>
+<p>This criterion involves consideration of the following factors:</p>
+<ul>
+<li><strong><em>Strategic Alignment</em></strong> &ndash; The extent to which the proposed approach meets the objectives listed in the goals of the challenge; the responsiveness to the public safety scenarios; the likelihood that successful implementation of the proposed solution will have a significant real-world impact.</li>
+<li><strong><em>Technical Outcome</em></strong> &ndash; The extent to which the proposed approach will result in significant improvement in commercially available technology and will potentially result in a technical outcome which enables considerable progress toward the challenge goals. Contestants will be evaluated on the extent to which their proposed approach demonstrates the potential to meet the Challenge Objectives listed in <u><a href="#bookmark=id.2et92p0">Table B</a></u> - Drone Design Specification.</li>
+</ul>
+<p><strong>Criterion 2: Feasibility &amp; Team (50%)</strong></p>
+<p>This criterion involves consideration of the following factors:</p>
+<ul>
+<li><strong><em>Team</em></strong> &ndash; The extent to which the capability of the Contestant(s) can address all aspects of the proposed project with a high chance of success, including, but not limited to, qualifications, relevant expertise, and time commitment of the Contestants. Reviewers will evaluate: (a) The relevance of the qualifications and experience of the key staff, leadership, and technical experts. (b) The extent of the Contestants&rsquo; prior experience and the quality of the results achieved in leading programs similar in nature to the purpose, scope, etc.</li>
+<li><strong><em>Plan</em></strong> &ndash; Contestant(s) plan to manage the limited schedule, resources, project risks and other challenges, and produce high quality project outcomes, in pursuit of the challenge goals.</li>
+</ul>
+<p>Concept Papers will be evaluated based on Criteria 1 and 2 above. Each Concept Paper will be reviewed by at least two expert reviewers and be assigned a score on a scale of 1 to 10 for each criterion based on the merit and potential of success of the proposal. Reviewers scores will be averaged for each Concept Paper. The specific scores will not be released publicly or provided to the Contestant.</p>
+<p>*SEE Official Rules for judging criteria associated with all other Stages of the contest.</p>
 
 <!--  How To Enter start -->
 ### How To Enter
