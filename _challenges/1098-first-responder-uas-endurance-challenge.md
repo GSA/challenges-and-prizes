@@ -4,7 +4,7 @@ permalink: /challenge/first-responder-uas-endurance-challenge/
 challenge-id: 1098
 status: open
 sidenav: true
-card-image: /assets/images/cards/challenge-gov.png
+card-image: /assets/images/cards/NIST-UAS-2021.png
 agency-logo: NIST_logo.png
 challenge-title: First Responder UAS Endurance Challenge
 tagline: Increase UAS flight time and capabilities in support of first responders
