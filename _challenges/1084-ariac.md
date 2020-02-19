@@ -55,7 +55,7 @@ challenge-manager-email: ariac@nist.gov
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p>Review the Official Rules and documentation at the&nbsp;<a href="http://www.nist.gov/ariac" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=http://www.nist.gov/ariac&amp;source=gmail&amp;ust=1575371912059000&amp;usg=AFQjCNEdjavCLJ05pTRNSa3yP6ykeaNpRA">ARIAC Website</a><span style="color: #3d4551;">.</span></p>
+<p>Review the <a href="{{ site.baseurl }}/assets/document-library/ARIAC-2020-Rules-Document-Updated-Posted-02202020.pdf" target="_blank">official rules and documentation.</a></p>  
 
 <!--  How To Enter start -->
 ### How To Enter
