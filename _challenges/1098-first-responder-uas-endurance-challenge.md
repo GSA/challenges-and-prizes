@@ -18,7 +18,7 @@ submission-start: 2020/04/01 09:00 AM
 submission-end: 2020/04/30 09:00 PM
 submission-link:
 prizes: true
-fiscal-year: FY20
+fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Terese Manley, terese.manley@nist.gov
 challenge-manager-email: jshapiro@capconcorp.com
@@ -141,6 +141,19 @@ challenge-manager-email: jshapiro@capconcorp.com
 </tbody>
 </table>
 <p>NOTE: NIST reserves the right to revise the dates at any time.</p>
+<h3>Background</h3>
+<p>NIST PSCR established the Innovation Accelerator to spearhead the research that supports the development and deployment of the Nationwide Public Safety Broadband Network (NPSBN). PSCR&rsquo;s Open Innovation team engages public safety entities, government, academia, and industry to identify innovation opportunities and foster technology advancements for public safety communications through prize competitions and challenges.</p>
+<h3>Project Objectives</h3>
+<p>The purpose of this Challenge is to advance UAS technologies by building and flying drones designed to support first responders. One of the barriers for the public safety community is having access to drones that can fly for long periods of time, ninety minutes or greater, while carrying a heavy payload. Emergency responders can accomplish their mission more efficiently and effectively if the drone flight time for a known payload is maximized. Since the payload capacity, energy source, flight characteristics, and flight time are linked together through design trade-offs, PSCR is exploring ways to optimize drones for increased flight endurance while making it more efficient and flexible for use by public safety.</p>
+<p>In pursuit of that goal, PSCR is investigating options to enable state and local first responders the ability to deploy drones for law enforcement, firefighting, and other emergency services needing broadband connectivity and services. In a typical search-and-rescue scenario, a team of one or two first responders may be dispatched to a location where broadband LTE communications are unavailable. To maintain communications, first responders might deploy an LTE system using a drone to provide communications to first responders on the ground and extend coverage to an area that is remote from where the drone initially launched. Some key features and capabilities of interest to public safety include:</p>
+<ul>
+<li>The drone and supporting system equipment can be stored in the cargo space of an SUV or pickup truck.</li>
+<li>The drone should be light in weight (one-person setup), easy to set up, capable of Vertical Take Off and Landing (VTOL) and not require special tools.</li>
+<li>The drone may be required to move between different locations in order to maintain communications coverage.</li>
+<li>The drone needs to continuously fly as long as possible, be easily recovered, stored and readied for the next mission.</li>
+</ul>
+<p>PSCR is aware that various organizations have, or are developing, drones with higher payload capacities and long endurance; however, these drones typically cost more than what a local public safety department might be able to afford. Additionally, they may not be practical due to the difficulty of transporting large equipment and/or the need for specialized training to operate it, both of which can be difficult for city/state agencies with limited staff and resources. Therefore, PSCR is hosting this 4-stage challenge to design, develop, and demonstrate drones with extended flight time and other capabilities that support first responders to help advance the research and push the boundaries of UAS technology for public safety.&nbsp;</p>
+
 
 <!-- Prizes start -->
 ### Prizes
