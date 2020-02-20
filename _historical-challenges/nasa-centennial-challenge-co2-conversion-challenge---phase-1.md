@@ -45,7 +45,7 @@ cash-prizes-and-non-cash-prize-awards: ''
 solution-type: Software and apps
 partner-agencies-non-federal: ''
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 type-of-challenge: Software and apps
 participation-requirements: ''
 number-of-phases: ''

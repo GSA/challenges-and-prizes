@@ -45,7 +45,7 @@ cash-prizes-and-non-cash-prize-awards: ''
 solution-type: Ideas
 partner-agencies-non-federal: ''
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 type-of-challenge: Ideas
 participation-requirements: ''
 number-of-phases: ''

@@ -54,7 +54,7 @@ partner-agencies-non-federal: "Johns Hopkins University Applied Physics Laborato
   TopCoder, Booz Allen Hamilton"
 original-post-id: '157546'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Scientific
 participation-requirements: ''

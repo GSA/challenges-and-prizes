@@ -54,7 +54,7 @@ solution-type: Software and apps
 partner-agencies-non-federal: Microsoft, Samsung, Oculus, IBM
 original-post-id: '158525'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Software and apps
 participation-requirements: ''

@@ -52,7 +52,7 @@ solution-type: Ideas
 partner-agencies-non-federal: National Operations Center of Excellence (NOCoE)
 original-post-id: '168165'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Ideas
 participation-requirements: ''

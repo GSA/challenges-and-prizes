@@ -49,7 +49,7 @@ solution-type: Analytics, visualizations, algorithms
 partner-agencies-non-federal: ''
 original-post-id: ''
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 type-of-challenge: Analytics, visualizations, algorithms
 participation-requirements: ''
 number-of-phases: ''

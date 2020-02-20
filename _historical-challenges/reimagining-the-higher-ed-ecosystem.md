@@ -100,7 +100,7 @@ partner-agencies-non-federal: Georgia Institute of Technology Center for 21st
   Century Universities
 original-post-id: '177379'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Ideas
 participation-requirements: ''

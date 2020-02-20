@@ -61,7 +61,7 @@ partner-agencies-non-federal: Office of the Secretary of Defense (OSD) Defense-w
   in partnership with SME and the National Tooling and Machining Association (NTMA)
 original-post-id: '78501'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Software and apps
 participation-requirements: ''

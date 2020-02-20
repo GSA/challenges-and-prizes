@@ -53,7 +53,7 @@ solution-type: Software and apps
 partner-agencies-non-federal: ''
 original-post-id: '163730'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Scientific
 participation-requirements: ''

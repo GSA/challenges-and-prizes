@@ -50,7 +50,7 @@ solution-type: Scientific
 partner-agencies-non-federal: ''
 original-post-id: ''
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'No'
 type-of-challenge: Scientific
 participation-requirements: ''

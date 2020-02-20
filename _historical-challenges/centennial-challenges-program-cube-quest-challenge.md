@@ -579,7 +579,7 @@ solution-type: Technology demonstration and hardware
 partner-agencies-non-federal: Ames Reseach Center, Marshall Space Flight Center
 original-post-id: '70822'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Creative (design & multimedia)
 participation-requirements: ''

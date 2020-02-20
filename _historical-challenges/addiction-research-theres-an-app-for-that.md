@@ -55,7 +55,7 @@ partner-agencies-non-federal: National Institute on Drug Abuse, Department of
   Scripps Translational Science Institute
 original-post-id: '91591'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Software and apps
 participation-requirements: ''

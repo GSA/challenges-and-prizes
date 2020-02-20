@@ -55,7 +55,7 @@ solution-type: Creative (design & multimedia)
 partner-agencies-non-federal: ASME Foundation, Star Trek
 original-post-id: '127651'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Creative (design & multimedia)
 participation-requirements: ''

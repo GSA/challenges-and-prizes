@@ -156,7 +156,7 @@ solution-type: Ideas
 partner-agencies-non-federal: Van Alen Institute
 original-post-id: '135921'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Ideas
 participation-requirements: ''

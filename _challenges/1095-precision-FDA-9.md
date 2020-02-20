@@ -15,7 +15,7 @@ external-url: https://go.usa.gov/xd9nG
 total-prize-offered-cash:
 type-of-challenge: Analytics, visualization, and algorithms
 submission-start: 2020/01/17 02:20 PM
-submission-end: 2020/02/29 11:59 PM
+submission-end: 2020/02/28 11:59 PM
 submission-link:
 prizes: true
 fiscal-year: FY20
