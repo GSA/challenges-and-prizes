@@ -4,7 +4,7 @@ permalink: /challenge/ncats-rare-diseases-are-not-rare-2020-challenge/
 challenge-id: 1099
 status: open
 sidenav: true
-card-image: /assets/images/cards/challenge-gov.png
+card-image: /assets/images/cards/NCATS-rare-diseases.png
 agency-logo:
 challenge-title: NCATS Rare Diseases Are Not Rare! 2020 Challenge
 tagline: Find innovative ways to communicate about rare diseases through social media or art.
@@ -12,16 +12,16 @@ agency: Department of Health and Human Services - Naitonal Institutes of Health
 partner-agencies-federal:
 partners-non-federal:
 external-url:
-total-prize-offered-cash:
-type-of-challenge:
+total-prize-offered-cash: $5,000
+type-of-challenge: Creative (multimedia and design); Ideas
 submission-start: 2020/02/29 09:00 AM 
 submission-end: 2020/04/30 05:00 PM
 submission-link:
 prizes: true
 fiscal-year: FY20
-legal-authority:
-challenge-manager:
-challenge-manager-email: (will display in the Point of Contact field)
+legal-authority: America COMPETES Act
+challenge-manager: Crina Frincu, cfrincu@mail.nih.gov
+challenge-manager-email: RDChallenge@nih.gov
 ---
 
 
