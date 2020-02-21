@@ -45,6 +45,16 @@ challenge-manager-email: (will display in the Point of Contact field)
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<p><strong>Total Cash Prize Pool</strong></p>
+<p>$5,000</p>
+<p><strong>Prize Breakdown</strong></p>
+<ul>
+<li>First place: $3,000</li>
+<li>Second place: $1,500</li>
+<li>Third place: $500</li>
+</ul>
+<p><strong>Non-monetary Prizes</strong></p>
+<p>All winners and 10 honorable mentions will be posted on the NCATS public website (<a href="https://ncats.nih.gov">https://ncats.nih.gov</a>).</p>
 
 <!-- Rules start -->
 ### Rules 
@@ -74,3 +84,5 @@ challenge-manager-email: (will display in the Point of Contact field)
 <!--  How To Enter start -->
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
+<p>Each team must designate a captain who is a U.S. citizen or permanent resident and submits a solution on behalf of the team. The captain is responsible for all correspondence regarding this Challenge. Each submission for this Challenge requires a complete &ldquo;Submission Package.&rdquo; The Submission Package includes a Cover Letter, the Communication Vehicle and, when appropriate, participant consent forms. All submission materials must be emailed to <a href="mailto:RDChallenge@nih.gov">RDChallenge@nih.gov</a> by the specified submission deadline date and time.</p>
