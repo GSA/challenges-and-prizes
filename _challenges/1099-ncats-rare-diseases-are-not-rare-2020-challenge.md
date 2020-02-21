@@ -80,6 +80,7 @@ challenge-manager-email: (will display in the Point of Contact field)
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<p>Please review the official rules for the judging criteria: <a href="https://ncats.nih.gov/funding/challenges/rare-diseases-challenge-2020">https://ncats.nih.gov/funding/challenges/rare-diseases-challenge-2020</a>.</p>
 
 <!--  How To Enter start -->
 ### How To Enter
