@@ -6,7 +6,7 @@ status: open
 sidenav: true
 card-image: /assets/images/cards/NIH_NHLBI_Stacked_Sig_Logo_CMYK.jpg
 agency-logo: NIH-Generic.png
-challenge-title: Big Data Analysis Challenge: Creating New Paradigms for Heart Failure Research
+challenge-title: Big Data Analysis Challenge - Creating New Paradigms for Heart Failure Research
 tagline: Use your big data analysis capabilities to help 6.5 million American adults living with heart failure
 agency: Department of Health and Human Services - National Institutes of Health
 partner-agencies-federal: National Heart, Lung, and Blood Institute
