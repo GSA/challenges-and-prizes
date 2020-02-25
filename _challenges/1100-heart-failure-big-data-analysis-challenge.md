@@ -93,7 +93,7 @@ challenge-manager-email: nhlbi_challenge@nhlbi.nih.gov
  <li>To what extent has the Solution brought together NHLBI-funded (or other, if used) biomedical health datasets, using an approach that is novel and innovative to adult heart failure research?</li>
  <li>How high is the likelihood that the Solution will have major impact in the field of adult heart failure research? How significantly might the Solution change the concepts, methods, and/or technologies that drive this field?</li>
  <li>Where applicable, to what extent do the datasets used to develop the Solution include data from diverse participants (including ethnicity, race, gender, and/or age)? </li>
- <li>To what extent have the Participants demonstrated why/how the Solution could provide new insights in the field of heart failure research compared to existing adult heart failure phenotyping models?</ul>
+ <li>To what extent have the Participants demonstrated why/how the Solution could provide new insights in the field of heart failure research compared to existing adult heart failure phenotyping models?</li>
  </ul>
  <p><strong>Evaluation Criterion 2:  Functionality and Implementation (30 points) </strong></p>  
 <ul>
@@ -109,6 +109,7 @@ challenge-manager-email: nhlbi_challenge@nhlbi.nih.gov
  <li>To what degree have the Participants described a model for sub-phenotyping adult heart failure that is an easy-to-use, free, and publicly accessible tool for the basic and/or clinical heart failure research community? </li>
  </ul>
 <p><strong>Evaluation Criterion 3: Applied Expertise (5 points)</strong></p>
+ <ul>
  <li>How well have the Participants demonstrated that appropriate expertise was utilized to develop the Solution?</li>
  <li>To what extent have the Participants brought together cross-disciplinary expertise? </li>
  <li>How well have the Participants integrated their relevant expertise in the development of the Solution?</li>
