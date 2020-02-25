@@ -39,13 +39,13 @@ challenge-manager-email: nhlbi_challenge@nhlbi.nih.gov
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<h3>Prize Breakdown</h3>
+<p><strong>Prize Breakdown</strong></p>
 <p>Up to five (5) winners will be selected, with each winning up to $50,000.</p>
-<h3>Non-monetary Prizes</h3>
+<p><strong>Non-monetary Prizes</strong></p>
 <p>NHLBI will advertise the results of the competition and publicly display the winning Solutions. Winning participants may be invited to present their Solutions at an NHLBI-hosted scientific symposium.</p>
-<h3>Award Approving Official</h3>
+<p><strong>Award Approving Official</strong></p>
 <p>The Award Approving Official will be Gary H. Gibbons, M.D., Director of the National Heart, Lung, and Blood Institute (NHLBI).</p>
-<h3>Payment of the Prize</h3>
+<p><strong>Payment of the Prize</strong></p>
 <p>Prizes awarded under this Challenge will be paid by electronic funds transfer and may be subject to Federal income taxes. If the Participants submit as a team, the prize will be awarded in one payment to the designated team leader. HHS/NIH will comply with the Internal Revenue Service withholding and reporting requirements, where applicable.</p>
 <p>NIH reserves the right, in its sole discretion, to (a) cancel, suspend, or modify the Challenge, or any part of it, for any reason, and/or (b) not award any prizes if no entries are deemed worthy. </p>
 
@@ -53,7 +53,6 @@ challenge-manager-email: nhlbi_challenge@nhlbi.nih.gov
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<h3>Rules
  <p><strong>Eligibility Rules for Participating in the Challenge: </strong></p>
 <ol>
  <li>To be eligible to win a prize under this Challenge, a Participant (whether an individual, group of individuals, or entity)</li>
@@ -85,11 +84,11 @@ challenge-manager-email: nhlbi_challenge@nhlbi.nih.gov
 ### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<h3>Basis Upon Which a Winner Will be Selected</h3>
+<p><strong>Basis Upon Which a Winner Will be Selected</strong></p>
 <p>Technical reviewers with expertise relevant to the Challenge will evaluate the Solutions based on their ability to achieve the criteria listed below. The Solutions and evaluation statements from the technical panel will then be reviewed by federal employees serving as judges, who will select up to five (5) Challenge winners, subject to a final decision by the Award Approving Official.</p>
-<h3>Basis Upon Which Solutions Will Be Evaluated</h3>
+<p><strong>Basis Upon Which Solutions Will Be Evaluated</strong></p>
 <p>This challenge aims to encourage and reward innovative adult heart failure disease modeling. These computational models will help create heart failure research paradigms that drive discovery and new treatment approaches. Successful Solutions of sub-phenotyping schema will facilitate hypothesis development and study design in the basic and/or clinical research communities. For example, an adult heart failure sub-phenotyping scheme incorporating large genomic and imaging datasets could reveal new insights into the mechanism of disease. It could also refine adult heart failure diagnoses, and identify subgroups of adult heart failure patients for personalized treatment. The Solution should address the following judging criteria from the NHLBI. The points assigned to each set of evaluation criteria suggest which scientific milestones interest the Institute and warrant emphasis.</p>
-<strong>Evaluation Criterion 1: Impact and Innovation (15 points)</strong>
+<p><strong>Evaluation Criterion 1: Impact and Innovation (15 points)</strong></p>
 <ul>
  <li>To what extent has the Solution brought together NHLBI-funded (or other, if used) biomedical health datasets, using an approach that is novel and innovative to adult heart failure research?</li>
  <li>How high is the likelihood that the Solution will have major impact in the field of adult heart failure research? How significantly might the Solution change the concepts, methods, and/or technologies that drive this field?</li>
@@ -119,10 +118,10 @@ challenge-manager-email: nhlbi_challenge@nhlbi.nih.gov
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<h3>Registration Process</h3>
+<p><strong>Registration Process</strong></p>
 <p>Participants are invited to send an optional letter of intent to nhlbi_challenge@nhlbi.nih.gov briefly describing the anticipated approach for developing the Solution. Letters of intent should include a tentative title and a one-paragraph summary of the planned approaches. If a letter of intent is being submitted on behalf of a team or entity, it should identify the team leader. Limit 1 page.</p> 
 <p>The optional letter of intent should be submitted to <a href="mailto:nhlbi_challenge@nhlbi.nih.gov" target="_blank">nhlbi_challenge@nhlbi.nih.gov</a> by NOON (12 p.m.) EST, July 28, 2020.</p>
-<h3>Solution Requirements</h3>
+<p><strong>Solution Requirements</strong></p>
 <p>Each Solution for this Challenge requires a complete “Solution Package.” If Participants submit as a team or as an entity, they should identify a team leader who will serve as a point of contact and submit the Solution Package on behalf of the team. Only complete and correctly formatted Solution Packages will be reviewed. The Solution Package includes a cover page and a written description of the Solution, including approach and utility. Detailed instructions on the content of the Solution Package are listed below.</p> 
 <p>Submit the Solution Package as a single PDF file to <a href="mailto:nhlbi_challenge@nhlbi.nih.gov" target="_blank">nhlbi_challenge@nhlbi.nih.gov</a> by NOON (12 p.m.) EST, August 28, 2020.</p>
 <ul>
