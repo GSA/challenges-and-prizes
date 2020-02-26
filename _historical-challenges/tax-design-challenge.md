@@ -390,7 +390,7 @@ description: '<p class="p1"><span class="s1">Taxpayers have the right to be info
   data-reactid=".1.1.0.1.1.2">Where:<strong> </strong><a href="http://www.1776.vc/"
   target="_blank">1776</a>, 1133 15th Street NW, </span><span class="proposal-header__city"
   data-reactid=".1.1.0.1.1.4">Washington, DC 20005<a href="https://www.eventbrite.com/e/tax-design-challenge-kickoff-at-1776-tickets-23103120054"
-  target="_blank">  </a></span>    At this event, you''ll have the opportunity to:  <ul>   <li>Learn
+  target="_blank">https://www.eventbrite.com/e/tax-design-challenge-kickoff-at-1776-tickets-23103120054</a></span>    At this event, you''ll have the opportunity to:  <ul>   <li>Learn
   about the IRS''s first crowdsourcing challenge from leaders at the IRS and Treasury</li>   <li>Engage
   with policy experts about financial capability challenges that could be addressed
   with an improved taxpayer experience</li>   <li>Network in-person with some of the
