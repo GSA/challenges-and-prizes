@@ -6,7 +6,7 @@ status: open
 sidenav: true
 card-image: /assets/images/cards/NCATS-rare-diseases.png
 agency-logo: NIH_Master_Logo_Vertical_2Color.jpg
-challenge-title: NCATS Rare Diseases Are Not Rare 2020 Challenge
+challenge-title: NCATS Rare Diseases Are Not Rare! 2020 Challenge
 tagline: Find innovative ways to communicate about rare diseases through social media or art.
 agency: Department of Health and Human Services - National Institutes of Health 
 partner-agencies-federal:
