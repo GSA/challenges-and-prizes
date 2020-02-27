@@ -17,8 +17,8 @@
 
 - test skip links
 
-- add @greensteph as a reviewer when you are ready to go Live
+- add greensteph as a reviewer when you are ready to go Live
 
 ----
 
->To Note: you cannot use colons in the front-matter data fields
+

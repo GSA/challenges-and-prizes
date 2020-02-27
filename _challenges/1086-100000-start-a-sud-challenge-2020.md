@@ -20,8 +20,8 @@ submission-link:
 prizes: true
 fiscal-year: FY20
 legal-authority: America COMPETES
-challenge-manager: Irina Sazanova, irina.sazonova@nih.gov
-challenge-manager-email: irina.sazonova@nih.gov
+challenge-manager: Dr. Elena Koustova, koustovae@nida.nih.gov
+challenge-manager-email: koustovae@nida.nih.gov
 ---
 
 
@@ -46,11 +46,8 @@ challenge-manager-email: irina.sazonova@nih.gov
 <li>Winners Announced: May 20, 2019.</li>
   </ul>
 <h4><strong>For further information, contact:</strong></h4>
-<ul>
-<li>Elena Koustova, PhD, MBA, Director, Office of Translational Initiatives and Program Innovations (OTIPI), NIDA Challenge Manager, National Institute on Drug Abuse (NIDA), 6001 Executive Blvd Room 4206, MSC 9555 Bethesda, MD 20892-9555. Phone: (301) 496-8768, Email: <a href="mailto:elena.koustova@nih.gov" target="_blank" rel="noopener">elena.koustova@nih.gov</a></li>
-<li>Irina Sazonova, Ph.D., M.Sc., Health Scientist Administrator, Office of Translational Initiatives and Program Innovations (OTIPI), NIDA Challenge Administrator, National Institute on Drug Abuse (NIDA), 6001 Executive Blvd Room 4206, MSC 9555 Bethesda, MD 20892-9555. Phone: (301) 827-5873, Email: <a href="mailto:irina.sazonova@nih.gov" target="_blank" rel="noopener">irina.sazonova@nih.gov</a></li>
-</ul>
-<p>The Institute’s Statutory Authority to Conduct the Challenge.  NIDA is conducting this Challenge under the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science (COMPETES) Reauthorization Act of 2010, 15 U.S.C. 3719. The general purpose of NIDA is to conduct and support biomedical and behavioral research, health-services research, research training, and health-information dissemination with respect to the prevention of drug abuse and the treatment of drug abusers. This Challenge is consistent with and advances the mission of NIDA as described in 42 U.S.C. 285o in that it supports new and potential biotech start-ups in the development of research ideas that would further an understanding and management of SUD. </p>
+<p>Elena Koustova, PhD, MBA, Director, Office of Translational Initiatives and Program Innovations (OTIPI), NIDA Challenge Manager, National Institute on Drug Abuse (NIDA), 6001 Executive Blvd Room 4206, MSC 9555 Bethesda, MD 20892-9555. Phone: (301) 496-8768, Email: <a href="mailto:elena.koustova@nih.gov" target="_blank" rel="noopener">elena.koustova@nih.gov</a></p>
+<p>The Institute’s Statutory Authority to Conduct the Challenge. NIDA is conducting this Challenge under the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science (COMPETES) Reauthorization Act of 2010, 15 U.S.C. 3719. The general purpose of NIDA is to conduct and support biomedical and behavioral research, health-services research, research training, and health-information dissemination with respect to the prevention of drug abuse and the treatment of drug abusers. This Challenge is consistent with and advances the mission of NIDA as described in 42 U.S.C. 285o in that it supports new and potential biotech start-ups in the development of research ideas that would further an understanding and management of SUD. </p>
 
 <!-- Prizes start -->
 ### Prizes
@@ -107,7 +104,7 @@ challenge-manager-email: irina.sazonova@nih.gov
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p>Eeach team is required to identify a team leader who registers and submits a solution on behalf of the team. All submission materials must be emailed to <a href="mailto:irina.sazonova@nih.gov" target="_blank" rel="noopener">irina.sazonova@nih.gov</a> by the specified submission deadline date and time.</p>
+<p>Eeach team is required to identify a team leader who registers and submits a solution on behalf of the team. All submission materials must be emailed to <a href="mailto:koustovae@nida.nih.gov" target="_blank" rel="noopener">koustovae@nida.nih.gov</a> by the specified submission deadline date and time.</p>
 <h4><strong>Submission Requirements</strong></h4>
 <p>Each submission for this Challenge requires a complete Submission Package. The Submission Package includes a 4-page written proposal describing the idea and 5-min video introducing the individual participant or the team (see requirements below). Both the 4-page written proposal and the 5-min video will be evaluated.</p>
 <ol>
