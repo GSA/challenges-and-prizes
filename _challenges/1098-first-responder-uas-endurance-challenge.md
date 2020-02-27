@@ -39,10 +39,10 @@ challenge-manager-email: jshapiro@capconcorp.com
 <tbody>
 <tr>
 <td style="width: 187.2px;">
-<h3><strong>Date</strong></h3>
+<p><strong>Date</strong></p>
 </td>
 <td style="width: 507.2px;">
-<h3><strong>Event</strong></h3>
+<p><strong>Event</strong></p>
 </td>
 </tr>
 <tr>
