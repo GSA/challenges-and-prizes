@@ -35,7 +35,7 @@ challenge-manager-email: jshapiro@capconcorp.com
 <p>The National Institute of Standards and Technology (NIST) Public Safety Communications Research (PSCR) Division is hosting a 4-stage challenge, with prize awards <strong>up to $552,000</strong> for the top designs. There are no fees or qualifications needed to enter the first stage. The most outstanding Stage 1 conceptual designs will be eligible to participate in the remaining stages of the competition (see Official Rules).</p>
 <p><strong>You can make a difference!</strong> Continue reading to learn about challenge stages and details. To enter for Stage 1, submit your <u><a href="https://www.firstresponderuaschallenge.org">entry</a></u> by April 30, 2020. For entry as a Walk-on for Stage 3, submit your <u><a href="https://www.firstresponderuaschallenge.org">entry</a></u> by December 18, 2020. Entries can be submited through the Contestant Portal on the challenge website at <a href="https://www.firstresponderuaschallenge.org/">https://www.firstresponderuaschallenge.org/</a></p>
 <h3><strong>Table A - Summary of Important Dates</strong></h3>
-<table style="width: 709px; height: 745px;" border="1">
+<table style="width: 800px; height: 745px; font-size: 12px" border="1">
 <tbody>
 <tr>
 <td style="width: 187.2px;">
@@ -162,7 +162,7 @@ challenge-manager-email: jshapiro@capconcorp.com
 <li>Participate in a 5-day Live Competition demonstrating full capabilities and features of the UAS prototype</li>
 </ul>
 <h3><strong>UAS Challenge Stages</strong></h3>
-<table style="width: 787px; height: 472px;" border="1">
+<table style="width: 800px; height: 472px;" border="1">
 <tbody>
 <tr>
 <td style="width: 86.4px;">
@@ -251,7 +251,7 @@ challenge-manager-email: jshapiro@capconcorp.com
 <p>Up to $552,000</p>
 <h3>Prize Breakdown&nbsp;</h3>
 <p>NIST Public Safety Communications Research program is hosting a 4-stage challenge, with development funds, travel, and prize awards listed in the following table.</p>
-<table style="width: 718px; height: 533px;" border="1">
+<table style="width: 800px; height: 533px;" border="1">
 <tbody>
 <tr>
 <td style="width: 208px;">
