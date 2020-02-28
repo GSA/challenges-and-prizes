@@ -32,8 +32,8 @@ challenge-manager-email: jshapiro@capconcorp.com
 
 <p>Join us for this exciting drone (aka unmanned aircraft system or UAS) prize competition using your ingenuity and hardware build expertise to create a concept for a drone prototype. The result of the First Responder UAS Endurance Challenge will support the public safety community and its stakeholders.</p>
 <p>Vertical take-off and landing (VTOL) UAS provide many different mission capabilities, but their flight time is limited. The payload capacity, energy source and flight time are linked through design trade-offs that can be optimized for efficiency and flexibility. This challenge is designed to keep a UAS and its payload airborne for the longest time possible to support first responders on the ground while they conduct their mission. The advancement of UAS research achieved through this challenge will help support the development and operation of UAS that are intended to host critical tools for public safety missions, such as wireless communications systems.</p>
-<p>The National Institute of Standards and Technology (NIST) Public Safety Communications Research Division (PSCR) is hosting a 4-stage challenge, with prize awards <strong>up to $552,000</strong> for the top designs. There are no fees or qualifications needed to enter the first stage. The most outstanding Stage 1 conceptual designs will be eligible to participate in the remaining stages of the competition (see Official Rules).</p>
-<p><strong>You can make a difference!</strong> Continue reading to learn about challenge stages and details. To enter for Stage 1, submit your <u><a href="https://www.firstresponderuaschallenge.org">entry</a></u> by April 30, 2020. For entry as a Walk-on for Stage 3, submit your <u><a href="https://www.firstresponderuaschallenge.org">entry</a></u> by December 18, 2020. Entries can be submit on the challenge website at <a href="https://www.firstresponderuaschallenge.org/">https://www.firstresponderuaschallenge.org/</a></p>
+<p>The National Institute of Standards and Technology (NIST) Public Safety Communications Research (PSCR) Division is hosting a 4-stage challenge, with prize awards <strong>up to $552,000</strong> for the top designs. There are no fees or qualifications needed to enter the first stage. The most outstanding Stage 1 conceptual designs will be eligible to participate in the remaining stages of the competition (see Official Rules).</p>
+<p><strong>You can make a difference!</strong> Continue reading to learn about challenge stages and details. To enter for Stage 1, submit your <u><a href="https://www.firstresponderuaschallenge.org">entry</a></u> by April 30, 2020. For entry as a Walk-on for Stage 3, submit your <u><a href="https://www.firstresponderuaschallenge.org">entry</a></u> by December 18, 2020. Entries can be submited through the Contestant Portal on the challenge website at <a href="https://www.firstresponderuaschallenge.org/">https://www.firstresponderuaschallenge.org/</a></p>
 <h3><strong>Table A - Summary of Important Dates</strong></h3>
 <table style="width: 709px; height: 745px;" border="1">
 <tbody>
@@ -382,7 +382,7 @@ challenge-manager-email: jshapiro@capconcorp.com
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-See the <a href="{{ site.baseurl }}/assets/document-library/3.2-Challenge-Rules-UAS2-final-OCC-approved-2-18-20.pdf">official rules document</a> for details on all aspects of the challenge.
+See the <a href="{{ site.baseurl }}/assets/document-library/Official Challenge Rules - PSCR First Responder UAS Endurance Challenge April2020.pdf">official rules document</a> for details on all aspects of the challenge.
 
 <!-- Judging start -->
 ### Judging Criteria
@@ -406,7 +406,7 @@ See the <a href="{{ site.baseurl }}/assets/document-library/3.2-Challenge-Rules-
 <li><strong><em>Plan</em></strong> &ndash; Contestant(s) plan to manage the limited schedule, resources, project risks and other challenges, and produce high quality project outcomes, in pursuit of the challenge goals.</li>
 </ul>
 <p>Concept Papers will be evaluated based on Criteria 1 and 2 above. Each Concept Paper will be reviewed by at least two expert reviewers and be assigned a score on a scale of 1 to 10 for each criterion based on the merit and potential of success of the proposal. Reviewers scores will be averaged for each Concept Paper. The specific scores will not be released publicly or provided to the Contestant.</p>
-<p>*SEE Official Rules for judging criteria associated with all other Stages of the contest.</p>
+<p><strong>*SEE <a href="{{ site.baseurl }}/assets/document-library/Official Challenge Rules - PSCR First Responder UAS Endurance Challenge April2020.pdf">Official Rules</a> for judging criteria associated with all other Stages of the contest.</strong></p>
 
 <!--  How To Enter start -->
 ### How To Enter
