@@ -98,7 +98,6 @@ challenge-manager-email: ami.patel@acl.hhs.gov
 <li>Federal grantees may not use Federal funds to develop submissions unless consistent with the purpose of their grant award; and</li>
 <li>Federal contractors may not use Federal funds from a contract to develop COMPETES Act challenge applications or to fund efforts in support of a COMPETES Act challenge submission.</li>
 </ul>
-<p>&nbsp;</p>
 <p><strong>Terms and Conditions</strong></p>
 <p>Provide any specific terms and conditions you want solvers to be aware of before registering or submitting to your competition.</p>
 <ul>
