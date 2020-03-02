@@ -103,7 +103,6 @@ challenge-manager-email: AIATAC.PRIZE.CHALLENGE@NAVY.MIL
 <li>A representative sample of output with schema including minimally the descriptions of each field and how to interpret the overall alerts/outputs</li>
 </ul>
 <p>Where appropriate, use protective markings such as &ldquo;Do Not Publicly Release &ndash; Trade Secret&rdquo; or &ldquo;Do Not Publicly Release &ndash; Confidential Proprietary Business Information&rdquo; in the Header or Footer of the Submission. Do not submit any Classified information.</p>
-<p>&nbsp;</p>
 <p><strong>Terms and Conditions</strong></p>
 <p><strong>These terms and conditions apply to all participants in the Challenge.</strong></p>
 <p><strong>Agreement to Terms</strong></p>
