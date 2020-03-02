@@ -100,7 +100,6 @@ challenge-manager-email: ami.patel@acl.hhs.gov
 <li>Federal contractors may not use Federal funds from a contract to develop COMPETES Act challenge applications or to fund efforts in support of a COMPETES Act challenge submission.</li>
 </ul>
 <p><strong>Terms and Conditions</strong></p>
-<p>Provide any specific terms and conditions you want solvers to be aware of before registering or submitting to your competition.</p>
 <ul>
 <li>An individual or entity shall not be deemed ineligible because the individual or entity used Federal facilities or consulted with Federal employees during a competition if the facilities and employees are made available to all individuals and entities participating in the competition on an equitable basis.</li>
 <li>Federal grantees may not use Federal funds to develop their Challenge Submissions unless use of such funds is consistent with the purpose of their grant award and specifically requested to do so due to the Challenge design, and as announced on challenge.gov.</li>
