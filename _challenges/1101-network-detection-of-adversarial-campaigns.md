@@ -1,13 +1,13 @@
 ---
 layout: front-matter-data
-permalink: /challenge/network-AI-ML-detection-of-adversarial-campaigns/
+permalink: /challenge/network-detection-of-adversarial-campaigns/
 challenge-id: 1101
 status: open
 sidenav: true 
 card-image: /assets/images/cards/AI-ATAC-AI-logo.png
 agency-logo: dod_seal.jpg
-challenge-title: Network Artificial Intelligence and Machine Learning (AI/ML) Detection of Adversarial Campaigns
-tagline: Adversarial campaign detection utilizing state-of-the art Artificial Intelligence (AI) and Machine Learning (AI/ML) at the network layer
+challenge-title: Network Detection of Adversarial Campaigns using Artificial Intelligence and Machine Learning (AI/ML)
+tagline: Adversarial campaign detection utilizing state-of-the-art AI/ML at the network layer
 agency: Department of Defense - Naval Information Warfare Systems Command
 partner-agencies-federal: Department of Energy, Oak Ridge National Lab, Cybersecurity Research Group
 partners-non-federal:
@@ -30,7 +30,7 @@ challenge-manager-email: AIATAC.PRIZE.CHALLENGE@NAVY.MIL
 ### Description
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p>The Naval Information Warfare Systems Command (NAVWARSYSCOM) and the Program Executive Office for Command, Control, Communications, Computers, and Intelligence (PEO C4I) are conducting a second instance of the Artificial Intelligence Applications to Autonomous Cybersecurity (AI ATAC), pronounced &ldquo;AI attack&rdquo; Challenge (hereinafter referred to as &ldquo;the Challenge&rdquo;). The Navy&rsquo;s Information Assurance and Cybersecurity Program Office (PMW 130) seeks to automate the Security Operations Center (SOC) using artificial intelligence and machine learning (AI/ML) to detect advanced persistent threat (APT) campaign activity. There is a tremendous amount of untapped cybersecurity information at the network level that can improve situational awareness, provide context for network events, and reveal the presence of adversaries. PMW 130 solicits white papers describing network-based security technologies and the corresponding tool for evaluation in the AI ATAC Prize Challenge competition.</p>
+<p>The Naval Information Warfare Systems Command (NAVWARSYSCOM) and the Program Executive Office for Command, Control, Communications, Computers, and Intelligence (PEO C4I) are conducting a second instance of the Artificial Intelligence Applications to Autonomous Cybersecurity (AI ATAC), pronounced &ldquo;AI attack&rdquo; Challenge (hereinafter referred to as &ldquo;the Challenge&rdquo;). The Navy&rsquo;s Cybersecurity Program Office (PMW 130) seeks to automate the Security Operations Center (SOC) using artificial intelligence and machine learning (AI/ML) to detect advanced persistent threat (APT) campaign activity. There is a tremendous amount of untapped cybersecurity information at the network level that can improve situational awareness, provide context for network events, and reveal the presence of adversaries. PMW 130 solicits white papers describing network-based security technologies and the corresponding tool for evaluation in the AI ATAC Prize Challenge competition.</p>
 
 <!-- Prizes start -->
 ### Prizes
