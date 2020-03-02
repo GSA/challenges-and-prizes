@@ -120,3 +120,7 @@ challenge-manager-email: (will display in the Point of Contact field)
 <!--  How To Enter start -->
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
+<p>Phase 1: Concept &amp; Design Submission (April &ndash; August 2020)</p>
+<p><strong><u>Intent to apply:</u></strong> An individual, entity, or captain of a team, with support of all team members, is to provide a brief letter of intent to submit an application for this Challenge.</p>
+<p>Email letter of intent by May 15, 2020 to <a href="mailto:ami.patel@acl.hhs.gov">patel@acl.hhs.gov</a></p>
