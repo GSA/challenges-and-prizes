@@ -67,7 +67,7 @@ challenge-manager-email:
 <li>Benefits and novelty of the approach within the context of existing academic and commercially available technologies</li>
 </ul>
 <p>White papers must be collectively no more than six pages in length and regardless of format include the information that is requested in the white paper template.</p>
-<p>The white paper template can be found <strong><u>here</u></strong></p>
+<p>The white paper template can be found <a href="{{ site.baseurl }}/assets/document-library/AI-ATAC-2-Whitepaper-Template-FINAL.docx"><strong>here</strong></a>.</p>
 <p>Where appropriate, use protective markings such as &ldquo;Do Not Publicly Release &ndash; Trade Secret&rdquo; or &ldquo;Do Not Publicly Release &ndash; Confidential Proprietary Business Information&rdquo; in the Header or Footer of the Submission. Do not submit any Classified information.</p>
 <p>White papers must be submitted along with the Participant&rsquo;s tool per the instructions outlined in the tool submission guidelines below and user&rsquo;s guide.</p>
 <p><strong>Tool Submission Guidelines</strong></p>
