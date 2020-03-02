@@ -4,7 +4,7 @@ permalink: /challenge/heart-failure-big-data-analysis-challenge/
 challenge-id: 1100
 status: open
 sidenav: true
-card-image: /assets/images/cards/NIH_NHLBI_Stacked_Sig_Logo_CMYK.jpg
+card-image: /assets/images/cards/NIH_NHLBI_340x160.jpg
 agency-logo: NIH-Generic.png
 challenge-title: Big Data Analysis Challenge - Creating New Paradigms for Heart Failure Research
 tagline: Use your big data analysis capabilities to help 6.5 million American adults living with heart failure
