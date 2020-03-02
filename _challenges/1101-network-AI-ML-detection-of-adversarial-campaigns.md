@@ -4,7 +4,7 @@ permalink: /challenge/network-AI-ML-detection-of-adversarial-campaigns/
 challenge-id: 1101
 status: open
 sidenav: true 
-card-image: /assets/images/cards/challenge-gov.png
+card-image: /assets/images/cards/AI-ATAC-AI-logo.png
 agency-logo: dod_seal.jpg
 challenge-title: Network Artificial Intelligence and Machine Learning (AI/ML) Detection of Adversarial Campaigns
 tagline: Adversarial campaign detection utilizing state-of-the art Artificial Intelligence (AI) and Machine Learning (AI/ML) at the network layer
@@ -18,7 +18,7 @@ submission-start: 2020/03/02 05:00 PM
 submission-end: 2020/05/29 05:00 PM
 submission-link:
 prizes: true
-fiscal-year: FY20
+fiscal-year: FY20, FY21
 legal-authority: Agency specific prize authority
 challenge-manager: Michael Karlbom, karlbom@spawar.navy.mil
 challenge-manager-email: AIATAC.PRIZE.CHALLENGE@NAVY.MIL
