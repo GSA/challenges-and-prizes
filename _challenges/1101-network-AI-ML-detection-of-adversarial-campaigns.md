@@ -9,19 +9,19 @@ agency-logo: dod_seal.jpg
 challenge-title: Network Artificial Intelligence and Machine Learning (AI/ML) Detection of Adversarial Campaigns
 tagline: Adversarial campaign detection utilizing state-of-the art Artificial Intelligence (AI) and Machine Learning (AI/ML) at the network layer
 agency: Department of Defense - Naval Information Warfare Systems Command
-partner-agencies-federal: 
+partner-agencies-federal: Department of Energy, Oak Ridge National Lab, Cybersecurity Research Group
 partners-non-federal:
 external-url:
 total-prize-offered-cash:
-type-of-challenge:
+type-of-challenge: Software and apps; Technology demonstration and hardware; Analytics, visualizations, algorithms
 submission-start: 2020/03/02 05:00 PM
 submission-end: 2020/05/29 05:00 PM
 submission-link:
 prizes: true
 fiscal-year: FY20
-legal-authority:
-challenge-manager:
-challenge-manager-email: 
+legal-authority: Agency specific prize authority
+challenge-manager: Michael Karlbom, karlbom@spawar.navy.mil
+challenge-manager-email: AIATAC.PRIZE.CHALLENGE@NAVY.MIL
 ---
 
 
