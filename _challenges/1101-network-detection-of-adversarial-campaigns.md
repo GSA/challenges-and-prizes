@@ -6,7 +6,7 @@ status: open
 sidenav: true 
 card-image: /assets/images/cards/AI-ATAC-AI-logo.png
 agency-logo: dod_seal.jpg
-challenge-title: Network Detection of Adversarial Campaigns using Artificial Intelligence and Machine Learning (AI/ML)
+challenge-title: Network Detection of Adversarial Campaigns using Artificial Intelligence and Machine Learning
 tagline: Adversarial campaign detection utilizing state-of-the-art AI/ML at the network layer
 agency: Department of Defense - Naval Information Warfare Systems Command
 partner-agencies-federal: Department of Energy, Oak Ridge National Lab, Cybersecurity Research Group
