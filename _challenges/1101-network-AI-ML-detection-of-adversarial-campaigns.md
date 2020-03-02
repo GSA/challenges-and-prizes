@@ -12,7 +12,7 @@ agency: Department of Defense - Naval Information Warfare Systems Command
 partner-agencies-federal: Department of Energy, Oak Ridge National Lab, Cybersecurity Research Group
 partners-non-federal:
 external-url:
-total-prize-offered-cash:
+total-prize-offered-cash: $500,000
 type-of-challenge: Software and apps; Technology demonstration and hardware; Analytics, visualizations, algorithms
 submission-start: 2020/03/02 05:00 PM
 submission-end: 2020/05/29 05:00 PM
