@@ -13,7 +13,7 @@ partner-agencies-federal: Department of Energy, Oak Ridge National Lab, Cybersec
 partners-non-federal:
 external-url:
 total-prize-offered-cash: $500,000
-type-of-challenge: Software and apps; Technology demonstration and hardware; Analytics, visualizations and algorithms
+type-of-challenge: Software and apps; Technology demonstration and hardware; Analytics, visualizations, algorithms
 submission-start: 2020/03/02 05:00 PM
 submission-end: 2020/05/29 05:00 PM
 submission-link:
