@@ -119,11 +119,10 @@ challenge-manager-email: ami.patel@acl.hhs.gov
 <p><strong>Judging Panel</strong></p>
 <p>The Judging Panel will be composed of federal and/or other technical and subject matter experts.</p>
 <p><strong>Judging Criteria</strong></p>
-<p>Provide a heading, description and weight (if applicable) for each criteria submissions will be evaluated by. You can provide a general summary of how submissions will be evaluated if you don&rsquo;t have individual weighted criteria.</p>
 <p><strong>Additional detail on the judging criteria and submission guidelines will be posted prior to the submission start date of April 20, 2020. </strong></p>
 <p>1. Level of Innovation and Value to Stakeholders</p>
 <ul>
-<li>Bridge the gaps between community members and products, services, information</li>
+<li>Bridge the gaps between community members and products, services, and information</li>
 <li>Forward-thinking solutions that leverages upcoming and future technology trends including existing and developing content, e-referral, exchange and access standards</li>
 </ul>
 <p>2. Partnerships &amp; Collaboration</p>
@@ -140,7 +139,7 @@ challenge-manager-email: ami.patel@acl.hhs.gov
 <p>&nbsp;4. Product Functionality and Usability</p>
 <ul>
 <li>Inclusive of planning assessments</li>
-<li>Closed loop referral management</li>
+<li>Closed-loop referral management</li>
 <li>Analytics and dashboards visuals to track service delivery and outcomes</li>
 </ul>
 <p>&nbsp;5. Identification and Mitigation of Business and Technical Risk</p>
@@ -156,4 +155,4 @@ challenge-manager-email: ami.patel@acl.hhs.gov
 
 <p>Phase 1: Concept &amp; Design Submission (April &ndash; August 2020)</p>
 <p><strong><u>Intent to apply:</u></strong> An individual, entity, or captain of a team, with support of all team members, is to provide a brief letter of intent to submit an application for this Challenge.</p>
-<p>Email letter of intent by May 15, 2020 to <a href="mailto:ami.patel@acl.hhs.gov">patel@acl.hhs.gov</a></p>
+<p>Email letter of intent by May 15, 2020 to <a href="mailto:ami.patel@acl.hhs.gov">ami.patel@acl.hhs.gov</a></p>
