@@ -12,16 +12,16 @@ agency: Department of Health and Human Services
 partner-agencies-federal:
 partners-non-federal:
 external-url:
-total-prize-offered-cash:
-type-of-challenge:
+total-prize-offered-cash: $500,000
+type-of-challenge: Software and apps
 submission-start: 2020/04/20 12:00 PM
 submission-end: 2020/08/21 05:00 PM
 submission-link:
 prizes: true
-fiscal-year: (formatted as FY19, FY20, FY21 etc...)
-legal-authority:
-challenge-manager:
-challenge-manager-email: (will display in the Point of Contact field)
+fiscal-year: FY20
+legal-authority: America COMPETES Act
+challenge-manager: Ami Patel
+challenge-manager-email: ami.patel@acl.hhs.gov
 ---
 
 
