@@ -11,23 +11,23 @@ _layouts/page.html layout template, or you can add "sidenav: true" in the front-
     <h3 class="text-base-dark">Page Contents</h3>
     <ul class="usa-sidenav">
       <li class="usa-sidenav__item">
-        <a class="text-accent-warm-dark" href="#description">Description</a>
+        <a class="text-accent-warm-dark" href="#description">Description<span class="sr-only"> (in-page link)</span></a>
       </li>
       <li class="usa-sidenav__item">
-        <a href="#prizes">Prizes</a>
+        <a href="#prizes">Prizes<span class="sr-only"> (in-page link)</span></a>
       </li>
       <li class="usa-sidenav__item">
-        <a href="#rules">Rules</a>
+        <a href="#rules">Rules<span class="sr-only"> (in-page link)</span></a>
       </li>
       <li class="usa-sidenav__item">
-        <a href="#judging-criteria">Judging Criteria</a>
+        <a href="#judging-criteria">Judging Criteria<span class="sr-only"> (in-page link)</span></a>
       </li>
       <li class="usa-sidenav__item">
-        <a href="#how-to-enter">How To Enter</a>
+        <a href="#how-to-enter">How To Enter<span class="sr-only"> (in-page link)</span></a>
       </li>
       {% if page.status == "open" %}
       <li class="usa-sidenav__item">
-        <a href="#contact">Point of Contact</a>
+        <a href="#contact">Point of Contact<span class="sr-only"> (in-page link)</span></a>
       </li>
       {% endif %}
     </ul>
