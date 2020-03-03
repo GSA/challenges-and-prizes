@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/empower-air-data-challenge-2020/
 challenge-id: 1091
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/Empower_EPA.jpg
 agency-logo: 256px-Environmental_Protection_Agency_logo.png
@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: 
 type-of-challenge: Analytics, visualizations and algorithms
-submission-start: 2019/12/09 09:00 AM 
-submission-end: 2020/03/02 11:59 PM
+submission-start: 12/09/2019 09:00 AM 
+submission-end: 03/02/2020 11:59 PM
 submission-link:
 prizes: true
 fiscal-year: FY20
