@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/artists-inspire-astronauts/
-challenge-id: 998
+id: 998
 status: closed
 sidenav: true
 card-image: /assets/images/cards/NASA-Artists-Logo.jpg

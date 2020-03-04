@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/shape-of-health-an-obesity-prevention-game/
-challenge-id: 985
+id: 985
 status: closed
 sidenav: true
 card-image: /assets/images/cards/HHS_shape_of_health.jpg

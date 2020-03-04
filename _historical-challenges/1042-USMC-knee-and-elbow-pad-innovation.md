@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/USMC-knee-and-elbow-pad-innovation/
-challenge-id: 1042
+id: 1042
 status: closed
 sidenav: true
 card-image: /assets/images/cards/MEC_Challenge_KneeElbow.jpg

@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/detecting-soil-movement-in-embankments/
-challenge-id: 808
+id: 808
 status: closed
 sidenav: true
 card-image: /assets/images/cards/Erosion.jpg

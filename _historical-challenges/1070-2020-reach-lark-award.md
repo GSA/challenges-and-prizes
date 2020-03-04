@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/2020-reach-lark-award/
-challenge-id: 1070
+id: 1070
 status: closed
 sidenav: true
 card-image: /assets/images/cards/REACH_LARK_Badge.jpg

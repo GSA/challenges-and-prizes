@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/cinespace-film-competition/
-challenge-id: 1006
+id: 1006
 status: closed
 sidenav: false
 card-image: /assets/images/cards/Cinespace-2019.png

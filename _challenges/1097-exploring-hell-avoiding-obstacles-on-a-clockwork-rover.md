@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/exploring-hell-avoiding-obstacles-on-a-clockwork-rover/
-challenge-id: 1097
+id: 1097
 status: open
 sidenav: false
 card-image: /assets/images/cards/Rover-2.png

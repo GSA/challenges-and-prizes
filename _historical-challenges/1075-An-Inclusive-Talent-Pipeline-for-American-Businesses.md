@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/an-inclusive-talent-pipeline-for-american-businesses/
-challenge-id: 1075
+id: 1075
 status: closed
 sidenav: true
 card-image: /assets/images/cards/ACL_logo.jpg

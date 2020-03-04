@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/american-made-solar-prize-round-3/
-challenge-id: 1083
+id: 1083
 status: closed
 sidenav: false
 card-image: /assets/images/cards/solarprizelogo.jpg

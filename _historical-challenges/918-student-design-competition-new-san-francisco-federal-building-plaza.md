@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/student-design-competition-new-san-francisco-federal-building-plaza/
-challenge-id: 918
+id: 918
 status: closed
 sidenav: true
 card-image: /assets/images/cards/SFD_logo.jpg

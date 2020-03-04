@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/title-goes-here/
-challenge-id:
+id:
 status: open
 sidenav: true (false for challenges that are only external)
 card-image: /assets/images/cards/challenge-gov.png

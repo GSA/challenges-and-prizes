@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/nsf-wins-wireless-challenges/
-challenge-id: 900
+id: 900
 status: closed
 sidenav: true
 card-image: /assets/images/cards/NSFWINS.png

@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/cms-ai-health-outcomes-challenge/
-challenge-id: 1017
+id: 1017
 status: closed
 sidenav: false
 card-image: /assets/images/cards/AI_CMS_updated-logo.png

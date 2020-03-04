@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/DARPA-subterranean-subt-challenge/
-challenge-id: 35
+id: 35
 status: open
 sidenav: false
 banner-image: 

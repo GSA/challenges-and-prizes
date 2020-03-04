@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/2020-million-hearts-hypertension-control-challenge/
-challenge-id: 1096
+id: 1096
 status: open
 sidenav: true
 card-image: /assets/images/cards/2020-Million-Hearts.png

@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/iCARE-AD-ADRD/
-challenge-id: 36
+id: 36
 status: closed
 sidenav: true
 card-image: /assets/images/cards/iCare.jpg

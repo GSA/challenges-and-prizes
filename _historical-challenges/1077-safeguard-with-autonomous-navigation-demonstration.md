@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/NASA-sand-challenge/
-challenge-id: 1077
+id: 1077
 status: closed
 sidenav: false 
 card-image: /assets/images/cards/NASA_challenge_logo.png

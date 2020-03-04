@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/national-guard-innovation-competition-round-1/
-challenge-id: 1089
+id: 1089
 status: open
 sidenav: false
 card-image: /assets/images/cards/NGB_Logo.png

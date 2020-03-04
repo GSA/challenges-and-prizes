@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/first-responder-uas-endurance-challenge/
-challenge-id: 1098
+id: 1098
 status: open
 sidenav: true
 card-image: /assets/images/cards/NIST-UAS-2021.png

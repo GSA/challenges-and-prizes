@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/haptic-interfaces-for-public-safety-challenge/
-challenge-id: 1003
+id: 1003
 status: closed
 sidenav: true
 banner-image: 

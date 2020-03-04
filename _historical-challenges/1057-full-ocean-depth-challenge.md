@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/full-ocean-depth-challenge/
-challenge-id: 1057
+id: 1057
 status: closed
 sidenav: true
 card-image: /assets/images/cards/Full-Ocean-Depth-challenge.jpg

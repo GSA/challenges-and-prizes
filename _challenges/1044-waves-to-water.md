@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/waves-to-water-prize/
-challenge-id: 1044
+id: 1044
 status: open
 sidenav: true
 card-image: /assets/images/cards/Waves_to_Water_341x160.jpg

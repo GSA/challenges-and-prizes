@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/antimicrobial-resistance-rapid-point-of-care-diagnostic-letter-of-intent/ 
-challenge-id: 850
+id: 850
 status: closed
 sidenav: true
 card-image: /assets/images/cards/Logo-trio-for-AMR.png

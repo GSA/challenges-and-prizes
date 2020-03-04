@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: /feed-open.json
+permalink: /feed-closed.json
 ---
 {
     "version": "https://jsonfeed.org/version/1",
@@ -9,7 +9,7 @@ permalink: /feed-open.json
     "feed_url": "{{ site.url }}/feed-open.json",
     "expired": false,
     "_challenge": [
-{% for item in site.challenges %}
+{% for item in site.historical-challenges %}
         {
             "challenge-id": "{{ item.challenge-id}}",
             "challenge-title": "{{ item.challenge-title }}",

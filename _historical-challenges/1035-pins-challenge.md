@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/pins-challenge/
-challenge-id: 1035
+id: 1035
 status: closed
 sidenav: false
 card-image: /assets/images/cards/PinsLogo.jpg

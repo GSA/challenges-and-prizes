@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/preventing-rodent-burrows-in-earthen-embankments/
-challenge-id: 836
+id: 836
 status: closed
 sidenav: true
 card-image: /assets/images/cards/rodent_thumbnail-1.png

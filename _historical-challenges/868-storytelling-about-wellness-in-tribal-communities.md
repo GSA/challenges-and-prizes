@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/storytelling-about-wellness-in-tribal-communities/ 
-challenge-id: 868
+id: 868
 status: closed
 sidenav: true
 card-image: /assets/images/cards/NIH.png

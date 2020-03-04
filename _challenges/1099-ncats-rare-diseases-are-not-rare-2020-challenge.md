@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/ncats-rare-diseases-are-not-rare-2020-challenge/
-challenge-id: 1099
+id: 1099
 status: open
 sidenav: true
 card-image: /assets/images/cards/NCATS-rare-diseases.png

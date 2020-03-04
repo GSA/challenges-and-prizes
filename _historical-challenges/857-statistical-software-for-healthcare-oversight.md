@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/statistical-software-for-healthcare-oversight/
-challenge-id: 857
+id: 857
 status: closed
 sidenav: true
 card-image: /assets/images/cards/seal-clear-600.png

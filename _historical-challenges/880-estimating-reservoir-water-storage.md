@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/estimating-reservoir-water-storage/
-challenge-id: 880
+id: 880
 status: closed
 sidenav: true
 card-image: /assets/images/cards/estimating_reservoir.png

@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/magquest-phase-2/
-challenge-id: 1045
+id: 1045
 status: closed
 sidenav: true
 card-image: /assets/images/cards/MagQuest_Phase 2.jpg

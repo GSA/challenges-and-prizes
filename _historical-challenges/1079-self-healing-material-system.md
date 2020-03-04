@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/self-healing-material-system/
-challenge-id: 1079
+id: 1079
 status: closed
 sidenav: true
 card-image: /assets/images/cards/Full-Ocean-Depth-challenge.jpg

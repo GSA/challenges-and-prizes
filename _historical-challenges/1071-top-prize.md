@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/opportunity-project-prize/
-challenge-id: 1071
+id: 1071
 status: closed
 sidenav: true
 card-image: /assets/images/cards/TOP-Prize-logo-large.png

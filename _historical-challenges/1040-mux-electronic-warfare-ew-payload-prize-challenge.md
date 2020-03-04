@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/mux-electronic-warfare-payload-prize-challenge/
-challenge-id: 1040
+id: 1040
 status: closed
 sidenav: true
 card-image: /assets/images/cards/MUX_logo_resize.jpg

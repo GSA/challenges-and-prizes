@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenges/storyboard-animations-for-nasa-human-research-program/
-challenge-id: 1054
+id: 1054
 status: closed
 sidenav: false
 card-image: /assets/images/cards/NASA_challenge_logo.png

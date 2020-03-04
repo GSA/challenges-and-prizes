@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/hack-the-machine-new-york/
-challenge-id: 1059
+id: 1059
 status: closed
 sidenav: false
 card-image: /assets/images/cards/Hackthemachine.png

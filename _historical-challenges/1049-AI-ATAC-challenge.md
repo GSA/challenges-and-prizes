@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/artificial-intelligence-applications-to-autonomous-cybersecurity-challenge/
-challenge-id: 1045
+id: 1045
 status: closed
 sidenav: true
 card-image: /assets/images/cards/AITAC.png

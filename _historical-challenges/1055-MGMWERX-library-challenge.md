@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/MGMWERX-library-challenge/
-challenge-id: 1055
+id: 1055
 status: closed
 sidenav: true
 card-image: /assets/images/cards/MGMWERX_library.png

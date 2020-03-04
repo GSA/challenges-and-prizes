@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/long-term-corrosion-protection-of-existing-hydraulic-steel-structures-stage-1/
-challenge-id: 906
+id: 906
 status: closed
 sidenav: true
 card-image: /assets/images/cards/corrosion.jpg

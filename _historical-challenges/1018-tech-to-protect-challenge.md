@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/tech-to-protect-challenge/
-challenge-id: 1018
+id: 1018
 status: closed
 sidenav: true
 card-image: /assets/images/cards/TechtoProtect-NEW-logo.jpg

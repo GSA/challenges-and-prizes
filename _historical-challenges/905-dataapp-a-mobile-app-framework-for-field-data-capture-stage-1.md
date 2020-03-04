@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/dataapp-a-mobile-app-framework-for-field-data-capture-stage-1/
-challenge-id: 905
+id: 905
 status: closed
 sidenav: true
 card-image: /assets/images/cards/dataapp-thumb-3.png

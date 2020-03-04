@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/2020-debut-challenge/
-challenge-id: 1087
+id: 1087
 status: open
 sidenav: false
 card-image: /assets/images/cards/DEBUT.png

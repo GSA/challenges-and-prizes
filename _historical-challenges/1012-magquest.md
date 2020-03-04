@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/magquest/
-challenge-id: 1012
+id: 1012
 status: closed
 sidenav: false
 banner-image: 

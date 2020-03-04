@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/wearable-alcohol-biosensor/ 
-challenge-id: 869
+id: 869
 status: closed
 sidenav: true
 card-image: /assets/images/cards/NIH.png

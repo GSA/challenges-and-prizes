@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/lithium-ion-battery-recycling-prize/
-challenge-id: 1014
+id: 1014
 status: closed
 sidenav: false
 card-image: /assets/images/cards/AmericanMadeSolarSkinny.jpg

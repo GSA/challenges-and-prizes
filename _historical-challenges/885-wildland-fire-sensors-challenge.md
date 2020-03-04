@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/wildland-fire-sensors-challenge/
-challenge-id: 885
+id: 885
 status: closed
 sidenav: true
 card-image: /assets/images/cards/Wildfire-Flame-Logo.jpg

@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/army-xtech-search-3.0/ 
-challenge-id: 1029
+id: 1029
 status: closed
 sidenav: true
 card-image: /assets/images/cards/army-xtech.png

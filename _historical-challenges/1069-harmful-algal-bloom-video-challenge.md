@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/harmful-algal-bloom-video-challenge/
-challenge-id: 1069
+id: 1069
 status: closed
 sidenav: true
 card-image: /assets/images/cards/201909013_EPA_HABVideo_ChallengeGov_Logo.jpg

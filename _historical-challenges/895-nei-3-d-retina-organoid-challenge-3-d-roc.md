@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/nei-3-d-retina-organoid-challenge-3-d-roc/
-challenge-id: 895
+id: 895
 status: closed
 sidenav: true
 card-image: /assets/images/cards/challenge-gov.png

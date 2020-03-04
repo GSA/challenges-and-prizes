@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/resilient-inclusive-and-sustainable-environments/
-challenge-id: 1062
+id: 1062
 status: closed
 sidenav: true
 card-image: /assets/images/cards/RISE_card.png

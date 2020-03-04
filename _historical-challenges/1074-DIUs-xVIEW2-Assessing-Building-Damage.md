@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/diu-xview2-assessing-building-damage/
-challenge-id: 1074
+id: 1074
 status: closed
 sidenav: true
 card-image: /assets/images/cards/DIU_logo.png

@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/precision-FDA-9/
-challenge-id: 1095
+id: 1095
 status: open
 sidenav: false
 card-image: /assets/images/cards/openFDA.png

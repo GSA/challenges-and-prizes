@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/space-robotics-challenge-phase-2/
-challenge-id: 1061
+id: 1061
 status: closed
 sidenav: true
 card-image: /assets/images/cards/SpaceRobotics2.jpg

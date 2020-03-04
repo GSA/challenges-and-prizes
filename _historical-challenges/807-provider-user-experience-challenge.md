@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/provider-user-experience-challenge/
-challenge-id: 807
+id: 807
 status: closed
 sidenav: true
 card-image: /assets/images/cards/PUE-Challenge-Logo.png
