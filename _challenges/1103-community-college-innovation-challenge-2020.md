@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenge/community-college-innovation-challenge/
+permalink: /challenge/community-college-innovation-challenge-2020/
 challenge-id: 1103
 status: open
 sidenav: false
