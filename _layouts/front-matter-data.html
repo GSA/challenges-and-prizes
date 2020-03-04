@@ -55,7 +55,37 @@ permalink: json-page
                     <h3>This challenge is externally hosted.</h3> <p>You can view the challenge details here: <a href="{{page.external-url}}" target="_blank" rel="noopener">{{page.external-url}}</a></p>
                     </p>
                     {% endif %}
-                    {{ content }} 
+
+                    <!--Description-->
+                    {% if page.description != "" %}
+                    <h3 class="text-accent-warm-dark font-heading-lg challenge-section" id="description">Description</h3>
+                    {{ page.description }}
+                    {% endif %}
+
+                    <!--Prizes-->
+                    {% if page.prizes != "" %}
+                    <h3 class="text-accent-warm-dark font-heading-lg challenge-section" id="rules">Prizes</h3>
+                    {{ page.prizes }}
+                    {% endif %}
+                
+                    <!--Rules-->
+                    {% if page.rules != "" %}
+                    <h3 class="text-accent-warm-dark font-heading-lg challenge-section" id="rules">Rules</h3>
+                    {{ page.rules }}
+                    {% endif %}
+
+                    <!--Judging Criteria-->
+                    {% if page.judging != "" or page.judging-criteria-description-0 != "" %}
+                    <h3 class="text-accent-warm-dark font-heading-lg challenge-section" id="rules">Judging Criteria</h3>
+                    {{ page.judging }}
+                    {% endif %}
+
+                    <!--How To Enter-->
+                    {% if page.how-to-enter != "" %}
+                    <h3 class="text-accent-warm-dark font-heading-lg challenge-section" id="how-to-enter">How To Enter</h3>
+                    {{ page.how-to-enter }}
+                    {% endif %}
+
                 </div>
                 {% if page.external-url == nil  %}
                 {% if page.status == "open"  %}
