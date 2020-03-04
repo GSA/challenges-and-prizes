@@ -69,7 +69,7 @@ challenge-manager-email: ariac@nist.gov
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<h4>Rules</strong></h4>
+<h4>Rules</h4>
 <p>The Official Rules are posted at <a href="https://www.challenge.gov/challenge/ariac/" target="_blank" rel="noopener">https://www.challenge.gov/challenge/ariac/</a> and the Event Website, <a href="http://www.nist.gov/ariac" target="_blank" rel="noopener">http://www.nist.gov/ariac</a>.</p>
 <h4>Eligibility to Participate in the Competition:</h4>
 <p>Participation in the ARIAC Prize Competition is open to ALL; however, not all participants are eligible to win cash prizes as explained in the next section.</p>
@@ -139,21 +139,21 @@ challenge-manager-email: ariac@nist.gov
   <li>$100 for each other sensor used (e.g., break beam, proximity, laser scanner).</li>
   </ul>
 <p>The sum of these cost choices made by each team will be compared to the average of all the team costs and made into a cost factor for the scoring. The team costs are designated as TC, and the average team cost is designated as AC. There is also a factor (m) for the cost factor to magnify the difference between the cost factors of each team, which is initially set at a value of 3. The final m value will be made available to the Participants at least two weeks before the finals. The cost factor, is then calculated as: </p>
-<p><img src="{{ site.baseurl }}/assets/images/challenge-content/cost-metric-ariac-2020.png" width="150" alt="cost metric equation"/></p>
+<p><img src="{{ site.baseurl }}/assets/images/challenge-content/cost-metric-ariac-2020.png" width="300" alt="cost metric equation"/></p>
 <h4>Completion Score</h4>
 <p>Performance metrics that cover both completion and efficiency are calculated for each Trial separately. Completion captures the quality of the orders fulfilled (that the boxes contain the correct products in the correct position/orientations); efficiency captures the responsiveness in fulfilling orders (that the orders were filled quickly).</p>
 <p>Each trial, since it has the option to have more than one order, will have a certain set of scores for each order. Each order consists of a list of products needed and a prescribed position and orientation for each product within the box. The completion score, CS, is a combined score for each order, starting with 1 point for each product that is placed in the box. For each product that is within 3 cm of the correct position, and within 0.1 radians of the correct orientation will result in an additional point. Next, since the main focus of the competition is to have fulfilled orders, any order with all of the products in the confines of the box and in the correct position/orientation receives an additional point for each product. So, for an order kj with i products in it would have a maximum score of: </p>
-<p><img src="{{ site.baseurl }}/assets/images/challenge-content/completion-score-ariac-2020.png" width="150" alt="completion score equation"></p>
+<p><img src="{{ site.baseurl }}/assets/images/challenge-content/completion-score-ariac-2020.png" width="300" alt="completion score equation"></p>
 <h4>Efficiency Factor</h4>
 <p>The Efficiency of the approaches chosen by the teams are accounted for in the scoring by using the times that each team takes to complete each trial. The times are counted in seconds from the start of the trial until the first kit is completed and is designated as T01. In the trials with multiple orders, the time, Ti is counted in seconds from the time that the ith order is sent to the team. For each trial, an average of the times for each team (ATi) is compared to the individual team time to calculate the Efficiency Factor: </p>
-<p><img src="{{ site.baseurl }}/assets/images/challenge-content/efficiency-factor-ariac-2020.png" width="200" alt="efficiency factor equation"></p>
+<p><img src="{{ site.baseurl }}/assets/images/challenge-content/efficiency-factor-ariac-2020.png" width="300" alt="efficiency factor equation"></p>
 <p>If a team’s system times out for a trial, the efficiency factor for the trial is set to 0 and the trial time is not used to calculate the average times for that trial.</p> 
 <p>For the multi-order trials where one of the orders is a high priority order, an additional multiplier, h, is applied with the efficiency factor to give a higher proportion of the score to that order, which is initially set to a value of 3. The final h value will be made available to the Participants at least two weeks before the finals.</p>
 <h4>Trial Score Calculation</h4>
 <p>All of the scoring factors described above are combined as shown below to calculate the score for each trial: </p>
 <p><img src="{{ site.baseurl }}/assets/images/challenge-content/trial-score-calculation1-ariac-2020.png" width="600" alt="scoring equation for each trial"></p>
 <p>For the trials where there is no second, higher priority, order, the following modifications are used: CSK2 = CSK1 , EF2 = 0. This results in the simplified scoring equation: </p>
-<p><img src="{{ site.baseurl }}/assets/images/challenge-content/trial-score-calculation2-ariac-2020.png" width="600" alt="modified scoring for each trial"></p> 
+<p><img src="{{ site.baseurl }}/assets/images/challenge-content/trial-score-calculation2-ariac-2020.png" width="450" alt="modified scoring for each trial"></p> 
 <h4>Final Score Calculation</h4>
 <p>The final overall score is the equally weighted sum of all trial scores. As mentioned in the Competition Scenarios section, trials are expected to focus on the Baseline Kit Building, Dropped Part, and In-Process Kit Change scenarios, among others.</p>
 <p><strong>Winners: </strong>The Winners of cash prizes will be determined by three Judges appointed by the NIST Director, using the Judging Criteria outlined herein.</p>
