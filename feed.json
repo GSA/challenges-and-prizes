@@ -4,7 +4,7 @@ permalink: /feed.json
 ---
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": {{ challenge.title | smartify | jsonify }},
+    "title": "{{ challenge.title | smartify | jsonify }}",
     "home_page_url": "{{ site.url }}",
     "feed_url": "{{ site.url }}/feed.json",
     "expired": false,
@@ -17,6 +17,7 @@ permalink: /feed.json
             "external-url": "{{ item.external-url }}",
             "card-image": "{{ site.url }}{{ item.card-image }}",
             "agency-logo": "{{ site.url }}/{{ item.agency-logo }}",
+            "description": "{{ item.description }}",
             "tagline": "{{ item.tagline | strip | escape }}",
             "legal-authority": "{{ item.legal-authority }}",
             "type-of-challenge": "{{ item.type-of-challenge }}",
@@ -30,6 +31,10 @@ permalink: /feed.json
             "challenge-manager-email": "{{ item.challenge-manager-email }}",
             "submission-start": "{{ item.submission-start }}",
             "submission-end": "{{ item.submission-end }}",
+            "prizes": "{{ item.prizes }}",
+            "rules": "{{ item.rules }}",
+            "judging": "{{ item.judging }}",
+            "how-to-enter": "{{ item.how-to-enter }}",
             "fiscal-year": "{{ item.fiscal-year }}"            
         }{% unless forloop.last == true %},{% endunless %}
 {% endfor %}
