@@ -8,29 +8,29 @@ permalink: /feed.json
     "home_page_url": "{{ site.url }}",
     "feed_url": "{{ site.url }}/feed.json",
     "expired": false,
-    "_project": [
-{% for post in site.challenges%}
+    "_challenge": [
+{% for item in site.challenges %}
         {
-            "project_id": "{{ post.challenge-id}}",
-            "project_name": "{{ post.challenge-title }}",
-            "project_url_on_catalog": "{{ site.url }}/{{ post.permalink }}",
-            "project_url_external": "{{ post.external-url }}",
-            "card-image": "{{ site.url }}/{{ post.card-image }}",
-            "agency-logo": "{{ site.url }}/{{ post.agency-logo }}",
-            "prizes": "{{ post.prizes }}",
-            "project_description": "{{ post.tagline | strip | escape }}",
-            "keywords": "{{ post.legal-authority }}",
-            "fields_of_science": "{{ post.type-of-challenge }}",
-            "total-prize-offered-cash": "{{ post.total-prize-offered-cash }}",
-            "project_status": "{{ post.status}}",
-            "agency_sponsor": "{{ post.agency }}",
-            "agency_email": "{{ post.challenge-manager-email }}",
-            "agency_sponsor_other": "{{ post.partner-agencies-federal }}",
-            "challenge-manager": "{{ post.challenge-manager }}",
-            "challenge-manager-email": "{{ post.challenge-manager-email }}",
-            "start_date": "{{ post.submission-start }}",
-            "end_date": "{{ post.submission-end }}",
-            "fiscal-year": "{{ post.fiscal-year }}"            
+            "challenge-id": "{{ item.challenge-id}}",
+            "challenge-title": "{{ item.challenge-title }}",
+            "permalink": "{{ site.url }}{{ item.permalink }}",
+            "external-url": "{{ item.external-url }}",
+            "card-image": "{{ site.url }}{{ item.card-image }}",
+            "agency-logo": "{{ site.url }}/{{ item.agency-logo }}",
+            "tagline": "{{ item.tagline | strip | escape }}",
+            "legal-authority": "{{ item.legal-authority }}",
+            "type-of-challenge": "{{ item.type-of-challenge }}",
+            "total-prize-offered-cash": "{{ item.total-prize-offered-cash }}",
+            "challenge_status": "{{ item.status}}",
+            "agency": "{{ item.agency }}",
+            "partner-agencies-federal": "{{ item.partner-agencies-federal }}",
+            "partners-non-federal": "{{ item.partners-non-federal }}",
+            "challenge-manager-email": "{{ item.challenge-manager-email }}",
+            "challenge-manager": "{{ item.challenge-manager }}",
+            "challenge-manager-email": "{{ item.challenge-manager-email }}",
+            "submission-start": "{{ item.submission-start }}",
+            "submission-end": "{{ item.submission-end }}",
+            "fiscal-year": "{{ item.fiscal-year }}"            
         }{% unless forloop.last == true %},{% endunless %}
 {% endfor %}
     ]
