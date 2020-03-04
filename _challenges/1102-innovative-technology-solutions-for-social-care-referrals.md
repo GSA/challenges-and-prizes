@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/innovative-technology-solutions-for-social-care-referrals/
-id: 1102
+challenge-id: 1102
 status: open
 sidenav: true 
 card-image: /assets/images/cards/ACL_logo.jpg

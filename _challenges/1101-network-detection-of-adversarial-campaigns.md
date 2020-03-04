@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/network-detection-of-adversarial-campaigns/
-id: 1101
+challenge-id: 1101
 status: open
 sidenav: true 
 card-image: /assets/images/cards/AI-ATAC-AI-logo.png

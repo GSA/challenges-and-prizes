@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/downstream-fish-passage-at-tall-dams/
-id: 809
+challenge-id: 809
 status: closed
 sidenav: true
 card-image: /assets/images/cards/Juvenile-salmon_John-Crandall-1_crop

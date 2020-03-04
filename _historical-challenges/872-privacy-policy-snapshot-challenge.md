@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/privacy-policy-snapshot-challenge/
-id: 872
+challenge-id: 872
 status: closed
 sidenav: true
 card-image: /assets/images/cards/PPS-Challenge-Logo-FINAL1.jpg

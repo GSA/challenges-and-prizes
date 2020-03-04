@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/rust-busters-challenge/
-id: 1064
+challenge-id: 1064
 status: closed
 sidenav: true
 card-image: /assets/images/cards/rustbusters.jpg

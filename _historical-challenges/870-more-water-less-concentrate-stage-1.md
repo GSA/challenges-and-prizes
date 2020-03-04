@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/more-water-less-concentrate-stage-1/
-id: 870
+challenge-id: 870
 status: closed
 sidenav: true
 card-image: /assets/images/cards/pipe.png

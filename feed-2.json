@@ -6,13 +6,13 @@ permalink: /feed-closed.json
     "version": "https://jsonfeed.org/version/1",
     "title": "{{ challenge.title | smartify | jsonify }}",
     "home_page_url": "{{ site.url }}",
-    "feed_url": "{{ site.url }}/feed-open.json",
+    "feed_url": "{{ site.url }}/feed-closed.json",
     "expired": false,
     "_challenge": [
 {% for item in site.historical-challenges %}
         {
             "challenge-id": "{{ item.challenge-id}}",
-            "challenge-title": "{{ item.challenge-title }}",
+            "challenge-title": "{{ item.name }}",
             "permalink": "{{ site.url }}{{ item.permalink }}",
             "external-url": "{{ item.external-url }}",
             "card-image": "{{ site.url }}{{ item.card-image }}",

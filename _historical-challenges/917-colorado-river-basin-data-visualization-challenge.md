@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/colorado-river-basin-data-visualization-challenge/
-id: 917
+challenge-id: 917
 status: closed
 sidenav: true
 card-image: /assets/images/cards/Colorado_river.jpg

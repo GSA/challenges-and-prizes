@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/virtual-reality-heads-up-display-navigation-challenge/
-id: 934
+challenge-id: 934
 status: closed
 sidenav: true
 card-image: /assets/images/cards/Stock_LBSUI_515.png

@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/heart-failure-big-data-analysis-challenge/
-id: 1100
+challenge-id: 1100
 status: open
 sidenav: true
 card-image: /assets/images/cards/NIH_NHLBI_340x160.jpg

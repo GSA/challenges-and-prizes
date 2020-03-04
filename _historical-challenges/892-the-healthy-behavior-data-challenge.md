@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/the-healthy-behavior-data-challenge/ 
-id: 892
+challenge-id: 892
 status: closed
 sidenav: true
 card-image: /assets/images/cards/Wearable_Device.jpg

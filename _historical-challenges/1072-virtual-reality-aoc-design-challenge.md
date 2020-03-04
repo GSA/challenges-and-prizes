@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/virtual-reality-aoc-design-challenge/
-id: 1072
+challenge-id: 1072
 status: closed
 sidenav: true
 card-image: /assets/images/cards/MGMWERX_virtual.jpg

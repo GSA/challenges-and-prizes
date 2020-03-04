@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/nist-the-future-of-public-safety-technology-100k-video-series/
-id: 915
+challenge-id: 915
 status: closed
 sidenav: true
 card-image: /assets/images/cards/TONGAL-NIST-noprizing.jpg

@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/nutrient-sensor-action-challenge-stage-ii/
-id: 46
+challenge-id: 46
 status: closed
 sidenav: true
 card-image: /assets/images/cards/NutrientSensorAction_new.jpg

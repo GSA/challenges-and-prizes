@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/2019-raise-award/
-id: 1073
+challenge-id: 1073
 status: closed
 sidenav: true
 card-image: /assets/images/cards/DOT_raise_card.jpg

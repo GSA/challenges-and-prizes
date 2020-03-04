@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/design-the-navigation-lidar-graphic/
-id: 1058
+challenge-id: 1058
 status: closed
 sidenav: false
 card-image: /assets/images/cards/NASA_challenge_logo.png

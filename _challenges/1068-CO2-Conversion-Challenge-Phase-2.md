@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/CO2-Conversion-Challenge-Phase-2/
-id: 1068
+challenge-id: 1068
 status: open
 sidenav: true
 card-image: /assets/images/cards/CO2_phase_2.jpg

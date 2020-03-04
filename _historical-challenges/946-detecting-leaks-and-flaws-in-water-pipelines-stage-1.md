@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/detecting-leaks-and-flaws-in-water-pipelines-stage-1/
-id: 946
+challenge-id: 946
 status: closed
 sidenav: true
 card-image: /assets/images/cards/detecting_leaks.jpg

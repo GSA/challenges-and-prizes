@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/PMA-263-tactical-resupply-UAS-challenge/
-id: 1076
+challenge-id: 1076
 status: closed
 sidenav: true
 card-image: /assets/images/cards/UAS_challenge.png

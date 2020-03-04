@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/2020-1000000-start-a-sud-startup-challenge/
-id: 1086
+challenge-id: 1086
 status: open
 sidenav: true
 card-image: /assets/images/cards/NIH.png

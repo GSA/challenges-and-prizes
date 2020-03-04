@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/solar-decathlon-2020-design-challenge/
-id: 1037
+challenge-id: 1037
 status: closed
 sidenav: true
 card-image: /assets/images/cards/solar_decathlon_logo.png

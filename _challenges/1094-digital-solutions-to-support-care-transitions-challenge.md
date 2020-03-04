@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/digital-solutions-to-support-care-transitions-challenge/
-id: 1094
+challenge-id: 1094
 status: open
 sidenav: true
 card-image: /assets/images/cards/AHRQ-card.png

@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/2017-innovations-in-food-and-agricultural-science-and-technology-i-fast-prize-competition-only-selected-pre-applicants-are-eligible/
-id: 912
+challenge-id: 912
 status: closed
 sidenav: true
 card-image: /assets/images/cards/Powerpt_usda_nifa_centered_rgb_300.jpg

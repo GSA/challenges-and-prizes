@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/the-unmanned-aerial-systems-flight-and-payload-challenge/
-id: 935
+challenge-id: 935
 status: closed
 sidenav: true
 card-image: /assets/images/cards/Stock_DeployablesSystems_069.jpeg

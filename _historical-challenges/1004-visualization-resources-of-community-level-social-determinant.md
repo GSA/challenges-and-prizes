@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/visualization-resources-of-community-level-social-determinants-of-health-challenge/
-id: 1004
+challenge-id: 1004
 status: closed
 sidenav: true
 card-image: /assets/images/cards/ahrq-logo.png

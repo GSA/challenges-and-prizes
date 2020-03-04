@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/consumer-health-data-aggregator-challenge/
-id: 806
+challenge-id: 806
 status: closed
 sidenav: true
 card-image: /assets/images/cards/CHDA-Challenge-Logo.png

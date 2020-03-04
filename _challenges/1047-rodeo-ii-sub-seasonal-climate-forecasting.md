@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/rodeo-ii-sub-seasonal-climate-forecasting/
-id: 1047
+challenge-id: 1047
 status: open
 sidenav: true
 card-image: /assets/images/cards/Sub-Seasonal.png

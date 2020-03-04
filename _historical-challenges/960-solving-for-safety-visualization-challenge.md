@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/solving-for-safety-visualization-challenge/
-id: 960
+challenge-id: 960
 status: closed
 sidenav: true
 card-image: /assets/images/cards/challenge-gov.png

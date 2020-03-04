@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/geopolitical-forecasting-challenge-2/
-id: 1022
+challenge-id: 1022
 status: closed
 sidenav: false
 card-image: /assets/images/cards/GFC2Challenge-gov.png

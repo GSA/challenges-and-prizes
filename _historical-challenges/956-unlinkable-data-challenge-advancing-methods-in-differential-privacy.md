@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/the-unlinkable-data-challenge-advancing-methods-in-differential-privacy/
-id: 956
+challenge-id: 956
 status: closed
 sidenav: true
 card-image: /assets/images/cards/De-id-graphic.png

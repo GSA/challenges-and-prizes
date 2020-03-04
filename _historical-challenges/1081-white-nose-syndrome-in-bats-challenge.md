@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/white-nose-syndrome-in-bats/
-id: 1081
+challenge-id: 1081
 status: closed
 sidenav: true
 card-image: /assets/images/cards/WNS-logo-square-340.png

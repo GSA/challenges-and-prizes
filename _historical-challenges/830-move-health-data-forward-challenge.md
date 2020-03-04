@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/move-health-data-forward-challenge/
-id: 830
+challenge-id: 830
 status: closed
 sidenav: true
 card-image: /assets/images/cards/MHDFC_LOGO_01.jpg

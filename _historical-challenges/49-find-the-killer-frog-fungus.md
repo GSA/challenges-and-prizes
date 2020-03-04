@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/find-the-killer-frog-fungus/
-id: 49
+challenge-id: 49
 status: closed
 sidenav: true
 card-image: /assets/images/cards/frogfungus_test.jpg

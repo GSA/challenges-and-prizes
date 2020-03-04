@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/fish-protection-prize/
-id: 1092
+challenge-id: 1092
 status: open
 sidenav: true 
 card-image: /assets/images/cards/1092-Fish-Protection-Prize-DOE-341x160.jpg

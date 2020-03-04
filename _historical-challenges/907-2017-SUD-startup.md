@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/the-2017-100000-for-start-a-sud-startupchallenge/
-id: 907
+challenge-id: 907
 status: closed
 sidenav: true
 card-image: /assets/images/cards/NIH_Master_Logo_Vertical_2Color.jpg

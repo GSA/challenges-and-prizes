@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/ecotox-challenge/
-id: 1088
+challenge-id: 1088
 status: open
 sidenav: true
 card-image: /assets/images/cards/Challenge_TARGET_Logo.png

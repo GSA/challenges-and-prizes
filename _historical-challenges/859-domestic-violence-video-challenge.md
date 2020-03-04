@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/domestic-violence-video-challenge/
-id: 859
+challenge-id: 859
 status: closed
 sidenav: true
 card-image: /assets/images/cards/DomesticViolenceVid.jpg

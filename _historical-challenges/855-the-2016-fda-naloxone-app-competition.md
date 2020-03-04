@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/the-2016-fda-naloxone-app-competition/ 
-id: 855
+challenge-id: 855
 status: closed
 sidenav: true
 card-image: /assets/images/cards/Naloxone-Image.jpg

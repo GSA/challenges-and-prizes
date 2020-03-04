@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/2018-million-hearts-hypertension-control-challenge/
-id: 942
+challenge-id: 942
 status: closed
 sidenav: true
 card-image: /assets/images/cards/2018-Million-Hearts-Challenge-and-Champions-Rebrand-Design-1_Page_2a-002.jpg

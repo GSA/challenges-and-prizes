@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/empower-air-data-challenge-2020/
-id: 1091
+challenge-id: 1091
 status: closed
 sidenav: true
 card-image: /assets/images/cards/Empower_EPA.jpg

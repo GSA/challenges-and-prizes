@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/marine-corps-ground-sensor-challenge/
-id: 1093
+challenge-id: 1093
 status: open
 sidenav: false
 card-image: /assets/images/cards/USMC_ground_sensors.png

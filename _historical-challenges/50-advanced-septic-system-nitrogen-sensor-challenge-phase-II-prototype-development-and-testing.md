@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/advanced-septic-system-nitrogen-sensor-challenge-phase-II-prototype-development-and-testing/
-id: 50
+challenge-id: 50
 status: closed
 sidenav: true
 card-image: /assets/images/cards/advancedspeticsystemlogo_test.jpg

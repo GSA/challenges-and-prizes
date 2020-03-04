@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/gear-center-challenge/
-id: 1023
+challenge-id: 1023
 status: closed
 sidenav: true
 card-image: /assets/images/cards/GEAR-Center-341x160.png

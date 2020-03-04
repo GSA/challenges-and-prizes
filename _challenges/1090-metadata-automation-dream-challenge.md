@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/metadata-automation-dream-challenge/
-id: 1090
+challenge-id: 1090
 status: open
 sidenav: false
 card-image: /assets/images/cards/MAC-Canva-Image_JRN-341x160.png

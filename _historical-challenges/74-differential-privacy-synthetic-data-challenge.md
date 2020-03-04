@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/differential-privacy-synthetic-data-challenge/
-id: 74
+challenge-id: 74
 status: closed
 sidenav: true
 card-image: /assets/images/cards/SyntheticData_PSCR.jpg

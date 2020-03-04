@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/nasa-advanced-exploration-systems-modular-power-system-graphic-challenge/
-id: 1050
+challenge-id: 1050
 status: closed
 sidenav: false
 card-image: /assets/images/cards/NASA_challenge_logo.png

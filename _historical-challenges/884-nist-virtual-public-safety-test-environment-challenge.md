@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/nist-virtual-public-safety-test-environment-challenge/
-id: 884
+challenge-id: 884
 status: closed
 sidenav: true
 card-image: /assets/images/cards/VRideation-main-image.jpg

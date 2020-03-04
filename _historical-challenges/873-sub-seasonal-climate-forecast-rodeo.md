@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/sub-seasonal-climate-forecast-rodeo/
-id: 873
+challenge-id: 873
 status: closed
 sidenav: true
 card-image: /assets/images/cards/forecast_thumbnail.png

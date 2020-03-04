@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/design-the-human-factors-engineering-lab-graphic/
-id: 1060
+challenge-id: 1060
 status: closed
 sidenav: false
 card-image: /assets/images/cards/NASA_challenge_logo.png

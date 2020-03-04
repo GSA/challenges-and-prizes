@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/usda-school-meal-programs-verification-response-rate-challenge/
-id: 896
+challenge-id: 896
 status: closed
 sidenav: true
 card-image: /assets/images/cards/Challenge-Video-Launch-Image-04-21.png

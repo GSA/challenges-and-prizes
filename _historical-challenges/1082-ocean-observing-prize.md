@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/ocean-observing-prize/
-id: 1082
+challenge-id: 1082
 status: closed
 sidenav: true
 card-image: /assets/images/cards/Ocean_observing_341x160.jpg

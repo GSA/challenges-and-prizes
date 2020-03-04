@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/ariac/
-id: 1084
+challenge-id: 1084
 status: open
 sidenav: true 
 card-image: /assets/images/cards/ARIAC-image.png

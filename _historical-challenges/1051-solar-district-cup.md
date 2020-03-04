@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenges/solar-district-cup/
-id: 1051
+challenge-id: 1051
 status: closed
 sidenav: true
 card-image: /assets/images/cards/SDC-logo-393x187.png

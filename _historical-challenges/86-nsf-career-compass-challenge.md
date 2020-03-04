@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/nsf-career-compass-challenge/
-id: 86
+challenge-id: 86
 status: closed
 sidenav: true
 card-image: /assets/images/cards/career-compass.png

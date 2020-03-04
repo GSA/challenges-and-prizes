@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/vets-match/
-id: 1085
+challenge-id: 1085
 status: closed
 sidenav: true
 card-image: /assets/images/cards/Vets-Employment-Challenge-logoV5-bold-340x160.jpg

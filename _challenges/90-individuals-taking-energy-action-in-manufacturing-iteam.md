@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/individuals-taking-energy-action-in-manufacturing-iteam/
-id: 90
+challenge-id: 90
 status: open
 sidenav: true
 card-image: /assets/images/cards/DOE_Logo_seal_Color-302X1401.jpg

@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/army-xtechsearch-4/
-id: 1078
+challenge-id: 1078
 status: closed
 sidenav: true
 card-image: /assets/images/cards/xtechsearch_4.png

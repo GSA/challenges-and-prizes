@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/ramp-reusable-abstractions-of-manufacturing-processes/ 
-id: 937
+challenge-id: 937
 status: closed
 sidenav: true
 card-image: /assets/images/cards/RampLogo2018.png

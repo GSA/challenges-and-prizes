@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/spacecraft-engagement-simulation-experiment-challenge/
-id: 1056
+challenge-id: 1056
 status: closed
 sidenav: true
 card-image: /assets/images/cards/MGMWERX_Logo.png

@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/growth-accelerator-fund-competition/
-id: 1043
+challenge-id: 1043
 status: closed
 sidenav: true
 card-image: /assets/images/cards/SBA_growth.jpg

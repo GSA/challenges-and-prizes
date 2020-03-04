@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/the-fedramp-ideation-challenge/
-id: 1046
+challenge-id: 1046
 status: closed
 sidenav: true
 card-image: /assets/images/cards/FedRamp_Ideation_Logo.png
