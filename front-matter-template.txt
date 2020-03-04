@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-expanded
 permalink: /challenge/title-goes-here/
 challenge-id:
 status: open
