@@ -8,7 +8,9 @@ layout: default
         <div class="desktop:grid-col-9 usa-prose usa-section"> 
             {% include alert-banner-closed-challenge.html %}
             <h1 class="text-primary-dark">{{ page.name }}</h1>
-            <h3 class="text-primary">{{ page.tagline }}</h3> 
+            {% if page.tagline != "" %}
+            <h3 class="text-primary">{{ page.tagline }}</h3>
+            {% endif %}  
             <h4 class="text-base-dark  desktop-only-display">{{ page.groupName }}</h4> 
             <!-- Start Accordian -->
             <div class="usa-accordion">
