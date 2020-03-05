@@ -1,15 +1,16 @@
 ---
 layout: null
-permalink: /feed-closed.json
+permalink: /feed-closed-imported.json
 ---
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "{{ challenge.title | smartify | jsonify }}",
     "home_page_url": "{{ site.url }}",
-    "feed_url": "{{ site.url }}/feed-closed.json",
+    "feed_url": "{{ site.url }}/feed-closed-imported.json",
     "expired": false,
     "_challenge": [
 {% for item in site.historical-challenges %}
+{% if item.layout != "front-matter-data" %}
         {
             "challenge-id": "{{ item.challenge-id}}",
             "challenge-title": "{{ item.name }}",
@@ -19,6 +20,7 @@ permalink: /feed-closed.json
             "legal-authority": "{{ item.legal-authority }}",
             "type-of-challenge": "{{ item.type-of-challenge }}",
             "total-prize-offered-cash": "{{ item.total-prize-offered-cash }}",
+            "non-monetary-incentives-awarded": "{{ item.non-monetary-incentives-awarded }}",
             "challenge_status": "{{ item.campaignStatusName}}",
             "agency": "{{ item.groupName }}",
             "partner-agencies-federal": "{{ item.partner-agencies-federal }}",
@@ -123,6 +125,7 @@ permalink: /feed-closed.json
             "winner-solution-title-9": "{{ item.winner-solution-title-9 }}",
             "winner-solution-link-9": "{{ item.winner-solution-link-9 }}"          
         }{% unless forloop.last == true %},{% endunless %}
+        {% endif %}
 {% endfor %}
     ]
 }
