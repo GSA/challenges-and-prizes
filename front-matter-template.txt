@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-expanded
 permalink: /challenge/title-goes-here/
 challenge-id:
 status: open
@@ -22,30 +22,11 @@ fiscal-year: (formatted as FY19, FY20, FY21 etc...)
 legal-authority:
 challenge-manager:
 challenge-manager-email: (will display in the Point of Contact field)
+description: (you can use a :&nbsp; but not a : with a regular blank space after it)
+prizes: 
+rules: 
+judging:
+how-to-enter:
 ---
 
 
-
-<!-- Description start -->
-### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
-
-
-<!-- Prizes start -->
-### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
-
-
-<!-- Rules start -->
-### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
-
-
-<!-- Judging start -->
-### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
-
-
-<!--  How To Enter start -->
-### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}

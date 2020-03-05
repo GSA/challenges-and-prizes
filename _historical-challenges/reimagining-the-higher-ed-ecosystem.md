@@ -1,11 +1,11 @@
 ---
-  ideaSubmitFormInstruction: Please create an account at http://edu2030.agorize.com/.    There will be specific instructions for forming a team and creating a valid submission.
+ideaSubmitFormInstruction: Please create an account at http://edu2030.agorize.com/.    There will be specific instructions for    forming a team and creating a valid submission.
 startDate: '2018-11-26T07:15:53'
 votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 959
+challenge-id: 959
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -287,7 +287,7 @@ showTitle: true
 description: '<div class="page" title="Page 1">  <div class="section">  <div class="layoutArea">  <div
   class="column">    <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/06/Design-Brief-Final-2.pdf">Design-Brief-Final-2</a>    &nbsp;    <em><strong>How
   might we empower people to design their own learning journeys so they can lead purposeful
-  and economically stable lives?</strong></em>    <strong>The Problem</strong>    Technology
+  and economically stable lives?</strong></em><p><strong>The Problem</strong>    Technology
   is rapidly transforming the way we live, learn, and work. Entirely new jobs are
   emerging as others are lost to automation. People are living longer, yet switching
   jobs more often. These dramatic shifts call for a reimagining of the way we prepare
@@ -299,32 +299,32 @@ description: '<div class="page" title="Page 1">  <div class="section">  <div cla
   we have an educational ecosystem flexible and fair enough to help all people live
   purposeful and economically stable lives. And if we are to design solutions proportionate
   to this problem, new technologies must be called on to scale approaches that reach
-  the millions of vulnerable people across the country.    <strong>The Challenge</strong>    The
+  the millions of vulnerable people across the country.</p><p><strong>The Challenge</strong>    The
   Challenge—Reimagining the Higher Education Ecosystem—seeks bold ideas for how our
   postsecondary education system could be reimagined to foster equity and encourage
   learner agency and resilience. We seek specific pilots to move us toward a future
   in which all learners can achieve economic stability and lead purposeful lives.    This
   Challenge invites participants to articulate a vision and then design pilot projects
-  for a future ecosystem that has the following characteristics:    ●  Expands access:​
+  for a future ecosystem that has the following characteristics:    <br>●  Expands access:​
   The educational system must ensure that all people—including low-income learners
   who are disproportionately underserved by the current higher education system—can
-  leverage education to live meaningful and economically stable lives.    ●  Draws
+  leverage education to live meaningful and economically stable lives.    <br>●  Draws
   on a broad postsecondary ecosystem:​ While college and universities play a vital
   role in educating students, there is a much larger ecosystem in which students learn.
   This ecosystem includes non-traditional “classes” or alternative learning providers,
   such as MOOCs, bootcamps, and online courses as well as on-the-job training and
   informal learning. Our future learning system must value the learning that happens
   in many different environments and enable seamless transitions between learning,
-  work, and life.    <strong>Opportunity Areas</strong>    We have identified three
+  work, and life.</p><p> <strong>Opportunity Areas</strong>    We have identified three
   important categories ripe for innovative solutions. We encourage submissions aligned
   to one or more of these opportunity areas.    Curating lifelong learning pathways:​
-  ​ People are working longer and in jobs that require them to keep learning new skills.
+  People are working longer and in jobs that require them to keep learning new skills.
   As a result, instead of completing most of their education before they start their
   careers, they are learning continuously over the course of their lifetimes. How
   might we ensure that people have access to learning opportunities that match their
   evolving personal and professional goals? In particular, can you imagine new types
   of education-to-work pathways and credentials that support low-income people and
-  other disadvantaged populations in achieving living-wage work?    Creating a marketplace
+  other disadvantaged populations in achieving living-wage work?</p><p>Creating a marketplace
   for student learning:​ ​Increasingly, people are collecting learning experiences
   and the credentials that communicate their accomplishments from multiple education
   providers. How might we create educational marketplaces that help learners discover
@@ -339,18 +339,18 @@ description: '<div class="page" title="Page 1">  <div class="section">  <div cla
   on competencies and assessments be used to bridge the education and workforce ecosystems?
   As increasing amounts of data about individuals are generated through this technology-rich
   learning environment, how might we allow people to own and securely manage their
-  own digital identities, electing when and how that information is shared?    <strong>Guidance</strong>    During
-  this Challenge, we’re excited to see ideas that:    ●  Incorporate specific, actionable
-  pilots (or “scalable betas”) that can be launched in the near term.    ●  Demonstrate
+  own digital identities, electing when and how that information is shared?</p><p><strong>Guidance</strong>    During
+  this Challenge, we’re excited to see ideas that:    <br>●  Incorporate specific, actionable
+  pilots (or “scalable betas”) that can be launched in the near term.    <br>●  Demonstrate
   relevance for traditionally underserved populations (such as people with low incomes,
   new    immigrants, first-generation learners, and transitioning service members,
-  etc.).    ●  Address one or more of the three opportunity areas identified.    ●
-   Facilitate seamless transitions between learning and work.    ●  Include “big bet”
-  ideas that enable transformative change.    <strong>Logistics &amp; Prizes</strong>    ●
-   The Challenge runs June 13 - August 8. Winners will be announced in early fall.    ●
+  etc.).    <br>●  Address one or more of the three opportunity areas identified.    <br>●
+   Facilitate seamless transitions between learning and work.    <br>●  Include “big bet”
+  ideas that enable transformative change.</p><p><strong>Logistics &amp; Prizes</strong>    <br>●
+   The Challenge runs June 13 - August 8. Winners will be announced in early fall.    <br>●
    Prizes include national recognition, an invitation to a national convening sponsored
   by the U.S. Department of    Education, mentorship packages, and priority consideration
-  for edtech accelerators and/or pitch competitions.    ●  After a period of refinement,
+  for edtech accelerators and/or pitch competitions.    <br>●  After a period of refinement,
   top ideas will be put before philanthropic and venture funders for consideration.    </div>  </div>  </div>  </div>  <div
   class="page" title="Page 2">  <div class="section">  <div class="layoutArea">  <div
   class="column">    &nbsp;    </div>  </div>  </div>  </div>'
