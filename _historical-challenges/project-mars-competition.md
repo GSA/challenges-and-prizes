@@ -1,5 +1,5 @@
 ---
-  ideaSubmitFormInstruction: 'Enter the Contest Here: <a href="https://contest.sciartexchange.org/project-mars-2018/entry_form/">https://contest.sciartexchange.org/project-mars-2018/entry_form/</a>    Requested
+ideaSubmitFormInstruction: 'Enter the Contest Here: <a href="https://contest.sciartexchange.org/project-mars-2018/entry_form/">https://contest.sciartexchange.org/project-mars-2018/entry_form/</a>    Requested
   submission information will include:    Key Point of Contact for entry  School Name
   &amp; Faculty/Staff Point of Contact and Contact Information (if applicable)  Each
   Team Member’s Name and Contact Information  Film or Poster Entry Title  Statement
