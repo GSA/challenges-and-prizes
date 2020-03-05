@@ -1,5 +1,5 @@
 ---
-  ideaSubmitFormInstruction: 'Contestants will submit their application through challenge.gov. Winners
+ideaSubmitFormInstruction: 'Contestants will submit their application through challenge.gov. Winners
   will be required to have an account in System for Award Management (SAM) <a href="https://www.sam.gov/">https://www.sam.gov</a> to
   receive the award.    Participants should create an account on the challenge.gov
   site and go to (Challenge website URL) and click on the sidebar link which says
@@ -597,7 +597,7 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-  description: '<p style="text-align: center;"><strong>** BEGIN STATUS UPDATE 3/14/2017**</strong></p>  <strong>Thank
+description: '<p style="text-align: center;"><strong>** BEGIN STATUS UPDATE 3/14/2017**</strong></p>  <strong>Thank
   you for the interest in the Aspire Challenge and to all contestants who submitted
   potential solutions.  Award decisions under this challenge are delayed. Once we
   have further information, we will notify all contestants via email and on www.challenge.gov/aspire-challenge.
