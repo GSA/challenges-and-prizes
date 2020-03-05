@@ -38,9 +38,9 @@ challenge-manager-email: adam.wong@hhs.gov
 <ul>
 <li>Uses FHIR Draft Standard for Technical Use 2 (DSTU2)</li>
 <li>Leverages&nbsp;data as specified in the 2015 Edition Common Clinical Data Set (in the&nbsp;<a href="https://www.healthit.gov/sites/default/files/commonclinicaldataset_ml_11-4-15.pdf" target="_blank" rel="noopener">Data column</a>)</li>
-<li>Verified compatibility with different health IT developer systems implemented in production settings, 1 of which must be from the top 10 systems measured by Meaningful Use attestation per HealthIT.gov. Apps must be integrated with a minimum of 3 unique health IT developer systems in 2 unique provider settings.
-<ul style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0px;">
-<li style="box-sizing: border-box;">There are two options to assess MU attestation here, by&nbsp;<a href="http://dashboard.healthit.gov/quickstats/pages/FIG-Vendors-of-EHRs-to-Participating-Professionals.php" target="_blank" rel="noopener">Healthcare Professionals</a> or by <a href="http://dashboard.healthit.gov/quickstats/pages/FIG-Vendors-of-EHRs-to-Participating-Hospitals.php" target="_blank" rel="noopener">Hospitals</a> The top 10 system can be selected from Primary EHR Vendor &ndash; not Secondary EHR Vendor &ndash; in either of these reports.</span></li>
+<li>Verified compatibility with different health IT developer systems implemented in production settings, 1 of which must be from the top 10 systems measured by Meaningful Use attestation per HealthIT.gov. Apps must be integrated with a minimum of 3 unique health IT developer systems in 2 unique provider settings.</li>
+<ul>
+<li>There are two options to assess MU attestation here, by&nbsp;<a href="http://dashboard.healthit.gov/quickstats/pages/FIG-Vendors-of-EHRs-to-Participating-Professionals.php" target="_blank" rel="noopener">Healthcare Professionals</a> or by <a href="http://dashboard.healthit.gov/quickstats/pages/FIG-Vendors-of-EHRs-to-Participating-Hospitals.php" target="_blank" rel="noopener">Hospitals</a> The top 10 system can be selected from Primary EHR Vendor &ndash; not Secondary EHR Vendor &ndash; in either of these reports.</li>
 </ul>
 </li>
 <li>Has been tested with users&nbsp;in production settings</li>
@@ -67,7 +67,7 @@ challenge-manager-email: adam.wong@hhs.gov
 </li>
 </ul>
 <p>The grand prize winner will receive $50,000 and a second place winner will receive $25,000. There will be an additional $25,000 prize for the app that connects to the greatest number of unique health IT developer systems implemented in production settings (the "Ultimate Connector"), which can be won by any entry, including the grand prize or 2nd place winner.&nbsp;</p>
-<strong>Phase 1 Participation Requirements</p>
+<p><strong>Phase 1 Participation Requirements</strong></p>
 <p>Participants interested in competing for Phase 1 awards will need to submit an app development plan that must include:</p>
 <ul>
 <li>Mockup/wireframes of the app
@@ -98,7 +98,7 @@ challenge-manager-email: adam.wong@hhs.gov
 </ul>
 </li>
 </ul>
-<p><To augment technical development and enhance the likelihood of a successful app that will continue to exist beyond the end of the challenge, a progress update/matchmaking event will be held that will seek to connect participants with provider partners. In Phase 1, up to five app proposals will be recognized as winners and awarded up to $15,000 each.</p>
+<p>To augment technical development and enhance the likelihood of a successful app that will continue to exist beyond the end of the challenge, a progress update/matchmaking event will be held that will seek to connect participants with provider partners. In Phase 1, up to five app proposals will be recognized as winners and awarded up to $15,000 each.</p>
 
 <!-- Prizes start -->
 ### Prizes
