@@ -25,7 +25,8 @@ challenge-manager-email: psprizes@nist.gov
 ---
 
 
-### Description 
+<!-- Description start -->
+### Description
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>The CHARIoT Challenge is a dual track challenge covering an Augmented Reality Contest and an Internet of Things-based Contest.</p>
@@ -132,7 +133,8 @@ challenge-manager-email: psprizes@nist.gov
 </tbody>
 </table>
 
-### Prizes 
+<!-- Prizes start -->
+### Prizes
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>Total Cash Prize Pool</strong></p>
@@ -144,6 +146,7 @@ challenge-manager-email: psprizes@nist.gov
 <p>Winning contestants will receive additional prizes and technical mentorship opportunities with key challenge partners from Magic Leap, First Responder Network Authority, FirstNet built with AT&amp;T, MSA Safety and Blueforce Development.</p>
 <p>To learn more about the prizes in each contest, please see the <a href="{{ site.baseurl }}/assets/document-library/CHARIoT Challenge_NISTPSCR_OfficialRules.pdf">full Official Rules</a>.</p>
 
+<!-- Rules start -->
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
@@ -177,7 +180,8 @@ challenge-manager-email: psprizes@nist.gov
 <li>Prior to payment of award, winners will be<strong> required to verify eligibility.</strong></li>
 </ul>
 
-### Judging Criteria 
+<!-- Judging start -->
+### Judging Criteria
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><u>Emulate Smart City Data for Disaster Scenarios</u></p>
@@ -195,7 +199,8 @@ challenge-manager-email: psprizes@nist.gov
 </ul>
 <p>Phase 4: The Judging panel will utilize the contestants&rsquo; augmented reality interfaces to complete multiple first responder tasks across the four simulated emergency scenarios. Contestants&rsquo; interfaces will be tested and evaluated by the subject matter experts and the Judging panel.</p>
 
-### How To Enter 
+<!--  How To Enter start -->
+### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>To enter the CHARIoT Challenge, participants must complete three easy steps:</p>
