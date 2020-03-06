@@ -150,5 +150,20 @@ challenge-manager-email: psprizes@nist.gov
 ### Judging Criteria 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<p><u>Emulate Smart City Data for Disaster Scenarios</u></p>
+<ul>
+<li>Phase 1: The concept papers and videos will be judged based on approach, strength of concept, methodology for data acquisition, proposed hardware, transmission capabilities, and write up.</li>
+<li>Phase 2: The Pass/Fail evaluation will be based on the contestants&rsquo; ability to demonstrate the transmission of data streams for at least 2 of the 4 emergency scenarios.</li>
+<li>Phase 3: The contestants will be judged based on accuracy of data transmitted, implementation of network protocols, and implementation of data types.</li>
+<li>Phase 4: At the live competition, the IoT data contestants will receive scores based on the number of Augmented Reality developers that elect to use their data streams and their corresponding feedback, and their transmitters and data will be tested and evaluated by the subject matter experts and the Judging panel.</li>
+</ul>
+<p><u>Building Augmented Reality Interfaces for First Responders</u></p>
+<ul>
+<li>Phase 1: The concept papers and videos will be judged based on approach, strength of concept, augmented reality capabilities, collaboration with first responder, and write up.</li>
+<li>Phase 2: Contestants will be required to demonstrate a developed or enhanced augmented reality prototype and the public safety use case.</li>
+<li>Phase 3: The contestants will be tested and evaluated based on augmented reality heads-up display and holograms.</li>
+</ul>
+<p>Phase 4: The Judging panel will utilize the contestants&rsquo; augmented reality interfaces to complete multiple first responder tasks across the four simulated emergency scenarios. Contestants&rsquo; interfaces will be tested and evaluated by the subject matter experts and the Judging panel.</p>
+
 ### How To Enter 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
