@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-expanded
+layout: front-matter-data
 permalink: /challenge/chariot/
 challenge-id: 1104
 status: open
@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash: $1.1 million
 type-of-challenge: Technology demonstration and hardware; Analytics, visualizations, algorithms
 submission-start: 2020/03/11 01:00 PM
-submission-end: 2020/11/18
+submission-end: 2020/11/18 05:00 PM
 submission-link:
 prizes: true
 fiscal-year: FY20,  FY21
@@ -24,6 +24,12 @@ challenge-manager: Sarah Hughes, sarah.hughes@nist.gov
 challenge-manager-email: psprizes@nist.gov
 ---
 
+<p><strong>NOTE:</strong> This are different submission deadlines for each track in Phase 1.</p>
+<ul>
+<li>Building Augmented Reality Interfaces for First Responders: May 6, 2020 05:00 PM ET</li>
+<li>Emulate Smart City Data for Disaster Scenarios: April 23, 2020 05:00 PM ET</li>
+</ul>
+<p>The final phase of the CHARIoT Challenge will end on November 18, 2020.</p>
 
 
 <!-- Description start -->
