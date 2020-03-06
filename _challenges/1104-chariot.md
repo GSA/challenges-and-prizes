@@ -135,6 +135,15 @@ challenge-manager-email: psprizes@nist.gov
 ### Prizes 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<p><strong>Total Cash Prize Pool</strong></p>
+<p>PSCR and its challenge partners will award prizes valued up to $1,100,000.</p>
+<p><strong>Prize Breakdown</strong></p>
+<p>Up to $888,000 in prizes are dedicated to the Augmented Reality interfaces for First Responders Contest.</p>
+<p>Up to $212,000 in prizes are dedicated to the Emulate Smart City Data for Disaster Scenario Contest.</p>
+<p><strong>Non-monetary Prizes</strong></p>
+<p>Winning contestants will receive additional prizes and technical mentorship opportunities with key challenge partners from Magic Leap, First Responder Network Authority, FirstNet built with AT&amp;T, MSA Safety and Blueforce Development.</p>
+<p>To learn more about the prizes in each contest, please see the <a href="{{ site.baseurl }}/assets/document-library/CHARIoT Challenge_NISTPSCR_OfficialRules.pdf">full Official Rules</a>.</p>
+
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
