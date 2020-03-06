@@ -40,11 +40,7 @@ judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''
 rules: '<p>Official rules, challlenge statement, and guidelines for submissions
-  are available here:&nbsp;<a style="background-image: initial; background-position:
-  initial; background-size: initial; background-repeat: initial; background-attachment:
-  initial; background-origin: initial; background-clip: initial; box-sizing: border-box;
-  color: #2a6496; outline: 0px; font-family: ''Helvetica Neue'', Helvetica, Arial,
-  sans-serif;" href="https://9sig.co/NASA_RISC" target="_blank" rel="noopener">https://9sig.co/NASA_RISC</a></p>'
+  are available here:&nbsp;<a href="https://9sig.co/NASA_RISC" target="_blank" rel="noopener">https://9sig.co/NASA_RISC</a></p>'
 judging-start-date: ''
 winners-announced-date: ''
 cash-prizes-and-non-cash-prize-awards: ''
@@ -58,11 +54,7 @@ type-of-challenge: Technology demonstration and hardware
 participation-requirements: ''
 number-of-phases: ''
 how-to-enter: '<p>Official rules, challenge statement, and guidelines for submissions
-  are available here:&nbsp;<a style="box-sizing: border-box; background-image:
-  initial; background-position: initial; background-size: initial; background-repeat:
-  initial; background-attachment: initial; background-origin: initial; background-clip:
-  initial; color: #2a6496; outline: 0px; font-family: ''Helvetica Neue'', Helvetica,
-  Arial, sans-serif;" href="https://9sig.co/NASA_RISC" target="_blank" rel="noopener">https://9sig.co/NASA_RISC</a></p>'
+  are available here:&nbsp;<a href="https://9sig.co/NASA_RISC" target="_blank" rel="noopener">https://9sig.co/NASA_RISC</a></p>'
 partnerships: ''
 groupAttributes:
 judging-criteria-description-0: ''
@@ -174,11 +166,7 @@ description: "<p class=\"p1\"><strong>An informational webinar for this challeng
   gloves</li>\r\n<li class=\"li1\">Paper</li>\r\n</ul>\r\n<p class=\"p1\">Given the
   volume and variety of waste products, it is crucial that NASA identify mechanisms
   to facilitate mission recycling.</p>\r\n<p class=\"p1\">For full contest details,
-  please visit:&nbsp;<a style=\"box-sizing: border-box; background-image: initial;
-  background-position: initial; background-size: initial; background-repeat: initial;
-  background-attachment: initial; background-origin: initial; background-clip: initial;
-  text-decoration-line: none; color: #428bca; font-family: 'Helvetica Neue', Helvetica,
-  Arial, sans-serif;\" href=\"https://9sig.co/NASA_RISC\" target=\"_blank\" rel=\"noopener\">https://9sig.co/NASA_RISC</a></p>"
+  please visit:&nbsp;<a href=\"https://9sig.co/NASA_RISC\" target=\"_blank\" rel=\"noopener\">https://9sig.co/NASA_RISC</a></p>"
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
