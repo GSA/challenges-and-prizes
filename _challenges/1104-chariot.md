@@ -4,7 +4,7 @@ permalink: /challenge/chariot/
 challenge-id: 1104
 status: open
 sidenav: true 
-card-image: /assets/images/cards/CHARIoT_Challenge.jpg
+card-image: /assets/images/cards/CHARIoT_Challengegov.jpg
 agency-logo: NIST_logo.png
 challenge-title: CHARIoT Challenge - Advancing First Responder Communications
 tagline: The CHARIoT Challenge is a 4-Phase, dual track competition that offers up to $1.1 million in cash prizes, with a mission to enhance first responder decision-making by designing Augmented Reality interfaces leveraging Internet of Things based sensor streams in four emergency scenarios.
