@@ -32,8 +32,8 @@ challenge-manager-email: adam.wong@hhs.gov
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>Read the <a href="https://www.hhs.gov/about/news/2017/01/12/onc-announces-winners-consumer-and-provider-app-challenges-improve-health-information-access-and-use">press release</a> announcing the final, Phase&nbsp;2 winners! Congratulations to them all!</strong></p>
-<p>The Provider User-Experience (UX)&nbsp;Challenge incents&nbsp;the development of applications that use open, standardized APIs to enable innovative ways for providers to interact with patient health data. This challenge will focus on demonstrating how data made accessible to apps through APIs&nbsp;can positively impact providers&rsquo; experience with EHRs by making clinical workflows more intuitive, specific to clinical specialty, and actionable. The lack of interoperability between electronic health record (EHR) systems remains a significant barrier to the modernization of health IT.&nbsp;<a href="https://www.hl7.org/fhir/overview.html" target="_blank" rel="noopener">Fast Healthcare Interoperability Resources</a>&nbsp;(FHIR), developed by HL7, is a standard designed to increase the liquidity of granular patient data. The FHIR API allows data to move between vendor systems both within and across different providers, not to mention through third-party applications for direct use by both clinicians and consumers. Among several opportunities now enabled by this interoperability standard are the new channels being opened up for improving a provider&rsquo;s user experience when interacting with EHRs and the &ldquo;consumability&rdquo; of interrelated health data.&nbsp;
-  <p><strong>***Watch the recording of the March 31&nbsp;<a href="http://bit.ly/1SLG1gB" target="_blank" rel="noopener">Informational Webinar</a>***</strong></p>
+<p>The Provider User-Experience (UX)&nbsp;Challenge incents&nbsp;the development of applications that use open, standardized APIs to enable innovative ways for providers to interact with patient health data. This challenge will focus on demonstrating how data made accessible to apps through APIs&nbsp;can positively impact providers&rsquo; experience with EHRs by making clinical workflows more intuitive, specific to clinical specialty, and actionable. The lack of interoperability between electronic health record (EHR) systems remains a significant barrier to the modernization of health IT.&nbsp;<a href="https://www.hl7.org/fhir/overview.html" target="_blank" rel="noopener">Fast Healthcare Interoperability Resources</a>&nbsp;(FHIR), developed by HL7, is a standard designed to increase the liquidity of granular patient data. The FHIR API allows data to move between vendor systems both within and across different providers, not to mention through third-party applications for direct use by both clinicians and consumers. Among several opportunities now enabled by this interoperability standard are the new channels being opened up for improving a provider&rsquo;s user experience when interacting with EHRs and the &ldquo;consumability&rdquo; of interrelated health data.&nbsp;</p>
+<p><strong>***Watch the recording of the March 31&nbsp;<a href="http://bit.ly/1SLG1gB" target="_blank" rel="noopener">Informational Webinar</a>***</strong></p>
   <p>The challenge has two phases. Phase 1 requires the submission of technical and business plans for the application (app) while Phase 2 requires that a working app be available for consumers. Phase 2 of the competition will not be limited to only those who won Phase 1 &ndash; all Phase 1 competitors, and those who did not participate in Phase 1, can submit a final app at the end of Phase 2.&nbsp;The final application must meet the following requirements:</p>
 <ul>
 <li>Uses FHIR Draft Standard for Technical Use 2 (DSTU2)</li>
@@ -42,61 +42,52 @@ challenge-manager-email: adam.wong@hhs.gov
 <ul>
 <li>There are two options to assess MU attestation here, by&nbsp;<a href="http://dashboard.healthit.gov/quickstats/pages/FIG-Vendors-of-EHRs-to-Participating-Professionals.php" target="_blank" rel="noopener">Healthcare Professionals</a> or by <a href="http://dashboard.healthit.gov/quickstats/pages/FIG-Vendors-of-EHRs-to-Participating-Hospitals.php" target="_blank" rel="noopener">Hospitals</a> The top 10 system can be selected from Primary EHR Vendor &ndash; not Secondary EHR Vendor &ndash; in either of these reports.</li>
 </ul>
-</li>
 <li>Has been tested with users&nbsp;in production settings</li>
 <li>Available to providers&nbsp;through at least one of the following modes: direct from&nbsp;web, iOS Store, or Android Stores</li>
 </ul>
 <p><strong>Phase 2 Participation Requirements</strong></p>
 <p>The second phase, to run from&nbsp;June 2 to November 7, will entail the actual development of the apps, verification of technical capabilities, user testing/piloting, and public release of the apps. This will include remote testing with providers and health IT developers to test the technical abilities of the apps to connect to in-production systems. Participants will submit:</p>
 <ul>
-<li>Working app
+  <li>Working app</li>
 <ul>
 <li>Provide the url to download/access the app.</li>
 </ul>
-</li>
-<li>Video demonstrating the app (maximum of 5 minutes)
+  <li>Video demonstrating the app (maximum of 5 minutes)</li>
 <ul>
 <li>Provide the url of the video on YouTube or Vimeo.</li>
 <li>The video must highlight the use of FHIR to integrate with EHR vendor systems, including demonstration of data exchange with each system. The rest of the video should address the remaining evaluation criteria: functionality and quality of data aggregation, privacy and security of patient data, impact potential in a clinical setting,&nbsp;and user experience and visual appeal.</li>
 </ul>
-</li>
-<li>Slide deck describing app (maximum of 15 slides)
+  <li>Slide deck describing app (maximum of 15 slides)</li>
 <ul>
 <li>Overall, the slide deck should complement the video demonstration. It should include a list of the active FHIR integrations with EHRs at provider settings, as demonstrated in the video. It should describe other functionality pertaining to the review criteria, particularly anything that was not covered in the video.</li>
 </ul>
-</li>
 </ul>
 <p>The grand prize winner will receive $50,000 and a second place winner will receive $25,000. There will be an additional $25,000 prize for the app that connects to the greatest number of unique health IT developer systems implemented in production settings (the "Ultimate Connector"), which can be won by any entry, including the grand prize or 2nd place winner.&nbsp;</p>
 <p><strong>Phase 1 Participation Requirements</strong></p>
 <p>Participants interested in competing for Phase 1 awards will need to submit an app development plan that must include:</p>
 <ul>
-<li>Mockup/wireframes of the app
+  <li>Mockup/wireframes of the app</li>
 <ul>
 <li>Provide a clear sense of the look, feel, and interactions of the app.</li>
 </ul>
-</li>
-<li>Technical specifications, including but not limited to planned data sources, system architecture, and compliance with HIPAA regulations (and other applicable law)
+<li>Technical specifications, including but not limited to planned data sources, system architecture, and compliance with HIPAA regulations (and other applicable law)</li>
 <ul>
 <li>Provide a realistic idea of what data sources, and from who, will be included; how that data will be integrated together and in service to the consumer&rsquo;s needs; how data privacy and security will be implemented.</li>
 </ul>
-</li>
-<li>Business/sustainability plan
+  <li>Business/sustainability plan</li>
 <ul>
-<li>How does the submitter propose to enter the market and lead to a successful app? The plan should include the following:
+<li>How does the submitter propose to enter the market and lead to a successful app? The plan should include the following:</li>
 <ol>
 <li>Issue analysis, demonstrating understanding of the issue (1 page)</li>
 <li>Solution description, describing the solution and how it addresses the issues (2 pages)</li>
 <li>Financial estimates, including revenues and expenses (2 pages)</li>
 <li>Engagement plan, including targeted customer base and stakeholders (2 pages)</li>
 </ol>
-</li>
 </ul>
-</li>
 <li>Provider partnership
 <ul>
 <li>Submitters are strongly encouraged to partner with a healthcare provider or EHR vendor for activities such as app development or pilot testing; evidence of partnership should be demonstrated with signed letters of intent on partner letterhead (i.e., we will not be reviewing actual business agreements).</li>
 </ul>
-</li>
 </ul>
 <p>To augment technical development and enhance the likelihood of a successful app that will continue to exist beyond the end of the challenge, a progress update/matchmaking event will be held that will seek to connect participants with provider partners. In Phase 1, up to five app proposals will be recognized as winners and awarded up to $15,000 each.</p>
 
@@ -107,7 +98,6 @@ challenge-manager-email: adam.wong@hhs.gov
 <p><strong>Phase 2 First Prize - Herald Health</strong></p>
 <p>$50,000.00</p>
 <p>Its solution helps clinicians manage the overwhelming flow of alerts and information by allowing them to create highly customizable push notifications. These can be tailored to both individual patients and groups and exported to fellow users.</p>
-
 <p><strong>Phase 2 Second Prize and Connector Award - University of Utah Health Care / Intermountain Healthcare / Duke Health System</strong></p>
 <p>$50,000.00</p>
 <p>Their solution is a clinical decision support tool that can provide recommendations for the treatment of babies with jaundice detected at birth based on the level of liver waste products found in their blood.</p>
@@ -179,20 +169,17 @@ challenge-manager-email: adam.wong@hhs.gov
 
 <p>Participants will submit:</p>
 <ul>
-<li>Working app
+  <li>Working app</li>
 <ul>
 <li>Provide the url to download/access the app.</li>
 </ul>
-</li>
-<li>Video demonstrating the app (maximum of 5 minutes)
+  <li>Video demonstrating the app (maximum of 5 minutes)</li>
 <ul>
 <li>Provide the url of the video on YouTube or Vimeo.</li>
 <li>The video must highlight the use of FHIR to integrate with EHR vendor systems, including demonstration of data exchange with each system. The rest of the video should address the remaining evaluation criteria: functionality and quality of data aggregation, privacy and security of patient data, impact potential in a clinical setting,&nbsp;and user experience and visual appeal.</li>
 </ul>
-</li>
 <li>Slide deck describing app (maximum of 15 slides)
 <ul>
 <li>Overall, the slide deck should complement the video demonstration. It should include a list of the active FHIR integrations with EHRs at provider settings, as demonstrated in the video. It should describe other functionality pertaining to the review criteria, particularly anything that was not covered in the video.</li>
 </ul>
-</li>
 </ul>
