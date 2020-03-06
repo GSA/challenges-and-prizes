@@ -5,23 +5,23 @@ challenge-id: 1104
 status: open
 sidenav: true 
 card-image: /assets/images/cards/challenge-gov.png
-agency-logo: 
+agency-logo: NIST_logo.png
 challenge-title: CHARIoT Challenge - Advancing First Responder Communications
 tagline: The CHARIoT Challenge is a 4-Phase, dual track competition that offers up to $1.1 million in cash prizes, with a mission to enhance first responder decision-making by designing Augmented Reality (AR) interfaces leveraging Internet of Things (IoT) based sensor streams in four emergency scenarios.
 agency: Department of Commerce - National Institute of Standards and Technology
-partner-agencies-federal:
-partners-non-federal:
+partner-agencies-federal: First Responder Network Authority
+partners-non-federal: Magic Leap; FirstNet, Built with AT&T; MSA Safety; Blueforce Development Corporation
 external-url:
-total-prize-offered-cash:
-type-of-challenge:
-submission-start: (do NOT add ET for the time zone)
-submission-end: (do NOT add ET for the time zone)
+total-prize-offered-cash: $1.1 million
+type-of-challenge: Technology demonstration and hardware; Analytics, visualizations, algorithms
+submission-start: 2020/03/11 01:00 PM
+submission-end: 2020/11/18
 submission-link:
 prizes: true
-fiscal-year: (formatted as FY19, FY20, FY21 etc...)
-legal-authority:
-challenge-manager:
-challenge-manager-email: (will display in the Point of Contact field)
+fiscal-year: FY20,  FY21
+legal-authority: America COMPETES Act
+challenge-manager: Sarah Hughes, sarah.hughes@nist.gov
+challenge-manager-email: psprizes@nist.gov
 ---
 
 
