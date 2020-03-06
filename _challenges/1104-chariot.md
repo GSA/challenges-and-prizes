@@ -24,10 +24,10 @@ challenge-manager: Sarah Hughes, sarah.hughes@nist.gov
 challenge-manager-email: psprizes@nist.gov
 ---
 
-<p><strong>NOTE:</strong> This are different submission deadlines for each track in Phase 1.</p>
+<p><strong>NOTE:</strong> There are different submission deadlines for each track in Phase 1.</p>
 <ul>
-<li>Building Augmented Reality Interfaces for First Responders: May 6, 2020 05:00 PM ET</li>
-<li>Emulate Smart City Data for Disaster Scenarios: April 23, 2020 05:00 PM ET</li>
+<li>Building Augmented Reality Interfaces for First Responders: Submissions due <strong>May 6, 2020 05:00 PM ET</strong></li>
+<li>Emulate Smart City Data for Disaster Scenarios: Submissions due <strong>April 23, 2020 05:00 PM ET</strong></li>
 </ul>
 <p>The final phase of the CHARIoT Challenge will end on November 18, 2020.</p>
 
