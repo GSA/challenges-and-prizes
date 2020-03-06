@@ -38,56 +38,35 @@ challenge-manager-email: adam.wong@hhs.gov
 <ul>
 <li>Uses FHIR Draft Standard for Technical Use 2 (DSTU2)</li>
 <li>Leverages&nbsp;data as specified in the 2015 Edition Common Clinical Data Set (in the&nbsp;<a href="https://www.healthit.gov/sites/default/files/commonclinicaldataset_ml_11-4-15.pdf" target="_blank" rel="noopener">Data column</a>)</li>
-<li>Verified compatibility with different health IT developer systems implemented in production settings, 1 of which must be from the top 10 systems measured by Meaningful Use attestation per HealthIT.gov. Apps must be integrated with a minimum of 3 unique health IT developer systems in 2 unique provider settings.</li>
-<ul>
-<li>There are two options to assess MU attestation here, by&nbsp;<a href="http://dashboard.healthit.gov/quickstats/pages/FIG-Vendors-of-EHRs-to-Participating-Professionals.php" target="_blank" rel="noopener">Healthcare Professionals</a> or by <a href="http://dashboard.healthit.gov/quickstats/pages/FIG-Vendors-of-EHRs-to-Participating-Hospitals.php" target="_blank" rel="noopener">Hospitals</a> The top 10 system can be selected from Primary EHR Vendor &ndash; not Secondary EHR Vendor &ndash; in either of these reports.</li>
-</ul>
+<li>Verified compatibility with different health IT developer systems implemented in production settings, 1 of which must be from the top 10 systems measured by Meaningful Use attestation per HealthIT.gov. Apps must be integrated with a minimum of 3 unique health IT developer systems in 2 unique provider settings. There are two options to assess MU attestation here, by&nbsp;<a href="http://dashboard.healthit.gov/quickstats/pages/FIG-Vendors-of-EHRs-to-Participating-Professionals.php" target="_blank" rel="noopener">Healthcare Professionals</a> or by <a href="http://dashboard.healthit.gov/quickstats/pages/FIG-Vendors-of-EHRs-to-Participating-Hospitals.php" target="_blank" rel="noopener">Hospitals</a>. The top 10 system can be selected from Primary EHR Vendor &ndash; not Secondary EHR Vendor &ndash; in either of these reports.</li>
 <li>Has been tested with users&nbsp;in production settings</li>
 <li>Available to providers&nbsp;through at least one of the following modes: direct from&nbsp;web, iOS Store, or Android Stores</li>
 </ul>
 <p><strong>Phase 2 Participation Requirements</strong></p>
 <p>The second phase, to run from&nbsp;June 2 to November 7, will entail the actual development of the apps, verification of technical capabilities, user testing/piloting, and public release of the apps. This will include remote testing with providers and health IT developers to test the technical abilities of the apps to connect to in-production systems. Participants will submit:</p>
 <ul>
-  <li>Working app</li>
-<ul>
-<li>Provide the url to download/access the app.</li>
-</ul>
+  <li>Working app: Provide the url to download/access the app.</li>
   <li>Video demonstrating the app (maximum of 5 minutes)</li>
 <ul>
 <li>Provide the url of the video on YouTube or Vimeo.</li>
 <li>The video must highlight the use of FHIR to integrate with EHR vendor systems, including demonstration of data exchange with each system. The rest of the video should address the remaining evaluation criteria: functionality and quality of data aggregation, privacy and security of patient data, impact potential in a clinical setting,&nbsp;and user experience and visual appeal.</li>
 </ul>
-  <li>Slide deck describing app (maximum of 15 slides)</li>
-<ul>
-<li>Overall, the slide deck should complement the video demonstration. It should include a list of the active FHIR integrations with EHRs at provider settings, as demonstrated in the video. It should describe other functionality pertaining to the review criteria, particularly anything that was not covered in the video.</li>
-</ul>
+  <li>Slide deck describing app (maximum of 15 slides): Overall, the slide deck should complement the video demonstration. It should include a list of the active FHIR integrations with EHRs at provider settings, as demonstrated in the video. It should describe other functionality pertaining to the review criteria, particularly anything that was not covered in the video.</li>
 </ul>
 <p>The grand prize winner will receive $50,000 and a second place winner will receive $25,000. There will be an additional $25,000 prize for the app that connects to the greatest number of unique health IT developer systems implemented in production settings (the "Ultimate Connector"), which can be won by any entry, including the grand prize or 2nd place winner.&nbsp;</p>
 <p><strong>Phase 1 Participation Requirements</strong></p>
 <p>Participants interested in competing for Phase 1 awards will need to submit an app development plan that must include:</p>
 <ul>
-  <li>Mockup/wireframes of the app</li>
-<ul>
-<li>Provide a clear sense of the look, feel, and interactions of the app.</li>
-</ul>
-<li>Technical specifications, including but not limited to planned data sources, system architecture, and compliance with HIPAA regulations (and other applicable law)</li>
-<ul>
-<li>Provide a realistic idea of what data sources, and from who, will be included; how that data will be integrated together and in service to the consumer&rsquo;s needs; how data privacy and security will be implemented.</li>
-</ul>
-  <li>Business/sustainability plan</li>
-<ul>
-<li>How does the submitter propose to enter the market and lead to a successful app? The plan should include the following:</li>
-<ol>
-<li>Issue analysis, demonstrating understanding of the issue (1 page)</li>
-<li>Solution description, describing the solution and how it addresses the issues (2 pages)</li>
-<li>Financial estimates, including revenues and expenses (2 pages)</li>
-<li>Engagement plan, including targeted customer base and stakeholders (2 pages)</li>
-</ol>
-</ul>
-<li>Provider partnership
-<ul>
-<li>Submitters are strongly encouraged to partner with a healthcare provider or EHR vendor for activities such as app development or pilot testing; evidence of partnership should be demonstrated with signed letters of intent on partner letterhead (i.e., we will not be reviewing actual business agreements).</li>
-</ul>
+  <li>Mockup/wireframes of the app: Provide a clear sense of the look, feel, and interactions of the app.</li>
+  <li>Technical specifications, including but not limited to planned data sources, system architecture, and compliance with HIPAA regulations (and other applicable law): Provide a realistic idea of what data sources, and from who, will be included; how that data will be integrated together and in service to the consumer&rsquo;s needs; how data privacy and security will be implemented.</li>
+  <li>Business/sustainability plan: How does the submitter propose to enter the market and lead to a successful app? The plan should include the following:</li>
+  <ol>
+    <li>Issue analysis, demonstrating understanding of the issue (1 page)</li>
+    <li>Solution description, describing the solution and how it addresses the issues (2 pages)</li>
+    <li>Financial estimates, including revenues and expenses (2 pages)</li>
+    <li>Engagement plan, including targeted customer base and stakeholders (2 pages)</li>
+  </ol>
+  <li>Provider partnership: Submitters are strongly encouraged to partner with a healthcare provider or EHR vendor for activities such as app development or pilot testing; evidence of partnership should be demonstrated with signed letters of intent on partner letterhead (i.e., we will not be reviewing actual business agreements).</li>
 </ul>
 <p>To augment technical development and enhance the likelihood of a successful app that will continue to exist beyond the end of the challenge, a progress update/matchmaking event will be held that will seek to connect participants with provider partners. In Phase 1, up to five app proposals will be recognized as winners and awarded up to $15,000 each.</p>
 
@@ -119,7 +98,9 @@ challenge-manager-email: adam.wong@hhs.gov
 <!-- Rules start -->
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
-<p>The statutory authority for this challenge competition is Section 105 of the America COMPETES Reauthorization Act of 2010 (Public L. No 111-358). <strong>Eligibility Rules for Participating in the Competition:</strong> To be eligible to win a prize under this challenge, an individual or entity:</p>
+
+<p>The statutory authority for this challenge competition is Section 105 of the America COMPETES Reauthorization Act of 2010 (Public L. No 111-358).</p>
+<p><strong>Eligibility Rules for Participating in the Competition:</strong> To be eligible to win a prize under this challenge, an individual or entity:</p>
 <ol>
 <li>Shall have registered to participate in the competition under the rules promulgated by the Office of the National Coordinator for Health Information Technology.</li>
 <li>Shall have complied with all the requirements under this section.</li>
@@ -130,13 +111,16 @@ challenge-manager-email: adam.wong@hhs.gov
 <li>Federal grantees may not use Federal funds to develop COMPETES Act challenge applications unless consistent with the purpose of their grant award.</li>
 <li>Federal contractors may not use Federal funds from a contract to develop COMPETES Act challenge applications or to fund efforts in support of a COMPETES Act challenge submission.</li>
 </ol>
-<p>An individual or entity shall not be deemed ineligible because the individual or entity used Federal facilities or consulted with Federal employees during a competition if the facilities and employees are made available to all individuals and entities participating in the competition on an equitable basis. Entrants must agree to assume any and all risks and waive claims against the Federal Government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from my participation in this prize contest, whether the injury, death, damage, or loss arises through negligence or otherwise. Entrants must also agree to indemnify the Federal Government against third party claims for damages arising from or related to competition activities. <u>Submission Requirements</u> In order for a submission to be eligible to win this Challenge, it must meet the following requirements:</p>
+<p>An individual or entity shall not be deemed ineligible because the individual or entity used Federal facilities or consulted with Federal employees during a competition if the facilities and employees are made available to all individuals and entities participating in the competition on an equitable basis. Entrants must agree to assume any and all risks and waive claims against the Federal Government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from my participation in this prize contest, whether the injury, death, damage, or loss arises through negligence or otherwise. Entrants must also agree to indemnify the Federal Government against third party claims for damages arising from or related to competition activities.</p>
+<p><u>Submission Requirements: </u>In order for a submission to be eligible to win this Challenge, it must meet the following requirements:</p>
 <ol>
 <li>No HHS or ONC logo &ndash; The product must not use HHS&rsquo; or ONC&rsquo;s logos or official seals and must not claim endorsement.</li>
 <li>Functionality/Accuracy &ndash; A product may be disqualified if it fails to function as expressed in the description provided by the user, or if it provides inaccurate or incomplete information.</li>
 <li>Security &ndash; Submissions must be free of malware. Contestant agrees that ONC may conduct testing on the product to determine whether malware or other security threats may be present. ONC may disqualify the product if, in ONC&rsquo;s judgment, the app may damage government or others&rsquo; equipment or operating environment.</li>
 </ol>
-<p><strong>Additional Information:</strong> <u>General Conditions</u>:&nbsp;ONC reserves the right to cancel, suspend, and/or modify the Contest, or any part of it, for any reason, at ONC's sole discretion. <u>Intellectual Property</u>: Each entrant retains title and full ownership in and to their submission.&nbsp; Entrants expressly reserve all intellectual property rights not expressly granted under the challenge agreement. By participating in the challenge, each entrant hereby irrevocably grants to Sponsor and Administrator a limited, non-exclusive, royalty-free, worldwide license and right to reproduce, publically perform, publically display, and use the Submission to the extent necessary to administer the challenge, and to publically perform and publically display the Submission, including, without limitation, for advertising and promotional purposes relating to the challenge. <strong>Authority:</strong> 15 U.S.C. 3719.</p>
+<p><strong>Additional Information: </strong></p>
+<p><u>General Conditions </u>:&nbsp;ONC reserves the right to cancel, suspend, and/or modify the Contest, or any part of it, for any reason, at ONC's sole discretion. <u>Intellectual Property</u>: Each entrant retains title and full ownership in and to their submission.&nbsp; Entrants expressly reserve all intellectual property rights not expressly granted under the challenge agreement. By participating in the challenge, each entrant hereby irrevocably grants to Sponsor and Administrator a limited, non-exclusive, royalty-free, worldwide license and right to reproduce, publically perform, publically display, and use the Submission to the extent necessary to administer the challenge, and to publically perform and publically display the Submission, including, without limitation, for advertising and promotional purposes relating to the challenge.</p>
+<p><strong>Authority:</strong> 15 U.S.C. 3719.</p>
 
 <!-- Judging start -->
 ### Judging Criteria
@@ -169,17 +153,11 @@ challenge-manager-email: adam.wong@hhs.gov
 
 <p>Participants will submit:</p>
 <ul>
-  <li>Working app</li>
-<ul>
-<li>Provide the url to download/access the app.</li>
-</ul>
+  <li>Working app: Provide the url to download/access the app.</li>
   <li>Video demonstrating the app (maximum of 5 minutes)</li>
 <ul>
 <li>Provide the url of the video on YouTube or Vimeo.</li>
 <li>The video must highlight the use of FHIR to integrate with EHR vendor systems, including demonstration of data exchange with each system. The rest of the video should address the remaining evaluation criteria: functionality and quality of data aggregation, privacy and security of patient data, impact potential in a clinical setting,&nbsp;and user experience and visual appeal.</li>
 </ul>
-<li>Slide deck describing app (maximum of 15 slides)
-<ul>
-<li>Overall, the slide deck should complement the video demonstration. It should include a list of the active FHIR integrations with EHRs at provider settings, as demonstrated in the video. It should describe other functionality pertaining to the review criteria, particularly anything that was not covered in the video.</li>
-</ul>
+  <li>Slide deck describing app (maximum of 15 slides): Overall, the slide deck should complement the video demonstration. It should include a list of the active FHIR integrations with EHRs at provider settings, as demonstrated in the video. It should describe other functionality pertaining to the review criteria, particularly anything that was not covered in the video.</li>
 </ul>
