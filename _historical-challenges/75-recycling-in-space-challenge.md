@@ -146,7 +146,7 @@ winner-solution-title-1: ''
 memberIdeaSubmissionAllowed: true
 showTitle: true
 description: "<p class=\"p1\"><strong>An informational webinar for this challenge
-  is scheduled for&nbsp;Nov. 5, 2018&nbsp;(10 a.m. EST). <a href=\"https://register.gotowebinar.com/register/2673391448534664203\">Register
+  is scheduled for&nbsp;Nov. 5, 2018&nbsp;(10 a.m. EST). <a href=\"https://register.gotowebinar.com/register/2673391448534664203\" target=\"_blank\" rel=\"noopener\>Register
   now!</a></strong></p>\r\n<p class=\"p1\">On Earth, recycling technologies can utilize
   gravity to move waste when converting it to new materials or constituent molecules.
   In a microgravity environment, however, technology is the only way to transfer the
