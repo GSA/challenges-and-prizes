@@ -32,7 +32,7 @@ challenge-manager-email: psprizes@nist.gov
 <p>The CHARIoT Challenge is a dual track challenge covering an Augmented Reality Contest and an Internet of Things-based Contest.</p>
 <p>Startups, developers, data gurus, engineers, and user experience experts are challenged to develop solutions that deliver first responders augmented reality interfaces leveraging data streams from buildings and city sensors. Solutions must be designed to assist first responders in four (4) emergency scenarios: wildfires, floods, active shooter situations, and tunnel collapses. These interfaces will improve decision-making and resource deployment capabilities for public safety personnel, ensuring America’s first responders have the tools to effectively save lives.</p>
 <p>AR contestants are challenged to concept and design augmented reality interfaces for two public safety users: Incident Command Officers and boots-on-the-ground First Responders. IoT contestants will emulate accurate smart city and public safety personal area network data by first determining which sensors that would be most useful for first responders and then creating data transmitters of the sensor data based on the provided emergency scenarios. The top selected data streams, developed by IoT contestants, will serve as a core data infrastructure for high performing AR contestants at a final live event competition at a public safety training center.</p>
-<p>Both contests consist of four (4) phases:</p?
+<p>Both contests consist of four (4) phases:</p>
 <table style="height: 1454px;" border="1" width="1021">
 <tbody>
 <tr style="height: 86px;">
