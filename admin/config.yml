@@ -5,7 +5,7 @@ media_folder: 'assets/images/cards'
 collections:
   - name: 'challenges'
     label: 'Challenges'
-    folder: '_challenges/'
+    folder: '_challenges'
     create: true
     editor:
       preview: false
