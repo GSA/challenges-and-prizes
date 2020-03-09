@@ -26,7 +26,7 @@ challenge-manager-email: psprizes@nist.gov
 
 <p><strong>NOTE:</strong> There are different submission deadlines for each track in Phase 1.</p>
 <ul>
-<li>Building Augmented Reality Interfaces for First Responders: Submissions due <strong>May 6, 2020 05:00 PM ET</strong></li>
+<li>Build Augmented Reality Interfaces for First Responders: Submissions due <strong>May 6, 2020 05:00 PM ET</strong></li>
 <li>Emulate Smart City Data for Disaster Scenarios: Submissions due <strong>April 23, 2020 05:00 PM ET</strong></li>
 </ul>
 <p>The final phase of the CHARIoT Challenge will end on November 18, 2020.</p>
@@ -36,7 +36,7 @@ challenge-manager-email: psprizes@nist.gov
 ### Description
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p>The CHARIoT Challenge is a dual track challenge covering an Augmented Reality Contest and an Internet of Things-based Contest.</p>
+<p>The CHARIoT Challenge is a dual track competition covering an Augmented Reality Contest and an Internet of Things-based Contest.</p>
 <p>Startups, developers, data gurus, engineers, and user experience experts are challenged to develop solutions that deliver first responders augmented reality interfaces leveraging data streams from buildings and city sensors. Solutions must be designed to assist first responders in four (4) emergency scenarios: wildfires, floods, active shooter situations, and tunnel collapses. These interfaces will improve decision-making and resource deployment capabilities for public safety personnel, ensuring America’s first responders have the tools to effectively save lives.</p>
 <p>AR contestants are challenged to concept and design augmented reality interfaces for two public safety users: Incident Command Officers and boots-on-the-ground First Responders. IoT contestants will emulate accurate smart city and public safety personal area network data by first determining which sensors that would be most useful for first responders and then creating data transmitters of the sensor data based on the provided emergency scenarios. The top selected data streams, developed by IoT contestants, will serve as a core data infrastructure for high performing AR contestants at a final live event competition at a public safety training center.</p>
 <p>Both contests consist of four (4) phases:</p>
@@ -50,7 +50,7 @@ challenge-manager-email: psprizes@nist.gov
 <p style="text-align: center;"><strong>Emulate Smart City Data for Disaster Scenarios</strong></p>
 </td>
 <td style="width: 360px; height: 74px;">
-<p style="text-align: center;"><strong>Building Augmented Reality Interfaces for First Responders</strong></p>
+<p style="text-align: center;"><strong>Build Augmented Reality Interfaces for First Responders</strong></p>
 </td>
 </tr>
 <tr style="height: 13px;">
@@ -147,7 +147,7 @@ challenge-manager-email: psprizes@nist.gov
 <p><strong>Total Cash Prize Pool</strong></p>
 <p>PSCR and its challenge partners will award prizes valued up to $1,100,000.</p>
 <p><strong>Prize Breakdown</strong></p>
-<p>Up to $888,000 in prizes are dedicated to the Augmented Reality interfaces for First Responders Contest.</p>
+<p>Up to $888,000 in prizes are dedicated to the Build Augmented Reality interfaces for First Responders Contest.</p>
 <p>Up to $212,000 in prizes are dedicated to the Emulate Smart City Data for Disaster Scenario Contest.</p>
 <p><strong>Non-monetary Prizes</strong></p>
 <p>Winning contestants will receive additional prizes and technical mentorship opportunities with key challenge partners from Magic Leap, First Responder Network Authority, FirstNet built with AT&amp;T, MSA Safety and Blueforce Development.</p>
@@ -167,7 +167,7 @@ challenge-manager-email: psprizes@nist.gov
 <li>It is an express condition of submission and eligibility that each contestant warrants and represents that the contestant&rsquo;s submission is solely owned by the contestant, that the submission is wholly original with the contestant, and that no other party has any ownership rights or ownership interest in the submission. The participant must disclose if they are subject to any obligation to assign intellectual property rights to parties other than the contest participant, it the participant is licensing or, through any other legal instrument, utilizing intellectual property of another party</li>
 <li>Each contestant further represents and warrants to NIST that the submission, and any use thereof by NIST shall not: (I) be defamatory or libelous in any manner towards any person, (ii) constitute or result in any misappropriation or other violation of any person&rsquo;s publicity rights or rights of privacy, or (iii) infringe, misappropriate or otherwise violate any intellectual property rights, privacy rights or any other rights of any person or entity</li>
 <li>Each submission must be in English</li>
-<li>Submissions will not be accepted, evaluated, or considered for award if they contain any matter that, in the sole discretion of NIST, is indecent, obscene, defamatory, libelous, in bad taste, demonstrates a lack of respect for public morals or conduct, promotes discrimination in any form, or which adversely affects the reputation of NNIST. NIST shall have the right to remove any content from the Event Website in its sole discretion at any time and for any reason, including, but not limited to, any online comment or posting related to the CHARIoT Challenge</li>
+<li>Submissions will not be accepted, evaluated, or considered for award if they contain any matter that, in the sole discretion of NIST, is indecent, obscene, defamatory, libelous, in bad taste, demonstrates a lack of respect for public morals or conduct, promotes discrimination in any form, or which adversely affects the reputation of NIST. NIST shall have the right to remove any content from the Event Website in its sole discretion at any time and for any reason, including, but not limited to, any online comment or posting related to the CHARIoT Challenge</li>
 <li>IF NIST, in its discretion, finds any submission to be unacceptable, then such submission shall be deemed disqualified</li>
 </ul>
 <p>Any applicable intellectual property rights to a submission will remain with the contestant. By participating in the prize challenge, the contestant is not granting any rights in any patents, pending patent applications, or copyrights related to the technology described in the entry.</p>
@@ -217,5 +217,5 @@ challenge-manager-email: psprizes@nist.gov
 <li><strong>Submit your Entry:</strong> Log-in and complete your submission on the challenge platform.</li>
 </ol>
 <p>The Phase 1 Concept for Emulate Smart City Data for Disaster Scenarios is <u>due on April 23, 2020</u>.</p>
-<p>The Phase 1 Concept for Building Augmented Reality Interfaces for First Responders is <u>due on May 6, 2020</u>.</p>
+<p>The Phase 1 Concept for Build Augmented Reality Interfaces for First Responders is <u>due on May 6, 2020</u>.</p>
 <p><strong>Submission URL: </strong><a href="http://www.chariotchallenge.com">www.chariotchallenge.com</a> to launch March 11, 2020.</p>
