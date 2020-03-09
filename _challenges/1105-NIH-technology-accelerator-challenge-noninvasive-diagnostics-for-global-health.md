@@ -1,15 +1,15 @@
 ---
-layout: front-matter-data-expanded
+layout: front-matter-data
 permalink: /challenge/NIH-technology-accelerator-challenge-noninvasive-diagnostics-for-global-health/
 challenge-id: 1105
 status: open
 sidenav: false
-card-image: /assets/images/cards/challenge-gov.png
+card-image: /assets/images/cards/NIH_TAC_Lockup-color.jpg
 agency-logo: NIH-Generic.png
 challenge-title: NIH Technology Accelerator Challenge: Non-invasive Diagnostics for Global Health
-tagline: Develop diagnostic technologies for sickle cell disease, malaria, and anemia, and diseases with high global and public health impact
+tagline: Develop diagnostic technologies for sickle cell disease, malaria, and anemia, and other high-impact diseases
 agency: Department of Health and Human Services - National Institutes of Health
-partner-agencies-federal: NIH Office of the Director; National Institute of Allergy and Infectious Disease; National Heart, Lung and Blood Institute; National Institute of Diabetes and Digestive and Kidney Diseases; and the Fogarty International Center.
+partner-agencies-federal: NIH Office of the Director, National Institute of Allergy and Infectious Disease, National Heart, Lung and Blood Institute, National Institute of Diabetes and Digestive and Kidney Diseases, and the Fogarty International Center
 partners-non-federal: The Bill and Melinda Gates Foundation
 external-url: https://venturewell.org/ntac/
 total-prize-offered-cash: $1,000,000
