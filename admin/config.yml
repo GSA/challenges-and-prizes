@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: gsa/challenges-and-prizes
   branch: add-netlify # Branch to update (optional; defaults to master)
   auth_endpoint: external/auth/github
