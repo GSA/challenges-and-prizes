@@ -4,7 +4,7 @@ permalink: /challenge/NIH-technology-accelerator-challenge-noninvasive-diagnosti
 challenge-id: 1105
 status: open
 sidenav: false
-card-image: /assets/images/cards/NIH_TAC_Lockup-color.jpg
+card-image: /assets/images/cards/NIH_TAC_Lockup-color-340x160.jpg
 agency-logo: NIH-Generic.png
 challenge-title: NIH Technology Accelerator Challenge Non-invasive Diagnostics for Global Health
 tagline: Develop diagnostic technologies for sickle cell disease, malaria, and anemia, and other high-impact diseases
