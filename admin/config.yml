@@ -31,11 +31,11 @@ collections:
       - { label: 'Legal Authority', name: 'legal-authority', widget: 'string' }
       - { label: 'Challenge Manager', name: 'challenge-manager', widget: 'string' }
       - { label: 'Challenge Manager Email', name: 'challenge-manager-email', widget: 'string' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Prizes', name: 'prizes', widget: 'string' }
-      - { label: 'Rules', name: 'rules', widget: 'string' }
-      - { label: 'Judging', name: 'judging', widget: 'string' }
-      - { label: 'How To Enter', name: 'how-to-enter', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'markdown' }
+      - { label: 'Prizes', name: 'prizes', widget: 'string', required: false }
+      - { label: 'Rules', name: 'rules', widget: 'string', required: false }
+      - { label: 'Judging', name: 'judging', widget: 'string', required: false }
+      - { label: 'How To Enter', name: 'how-to-enter', widget: 'string', required: false }
 
       
 
