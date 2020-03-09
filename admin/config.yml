@@ -11,13 +11,13 @@ collections:
       preview: false
     fields:
       - { label: 'Layout', name: 'layout', widget: 'string', default: "front-matter-data" }
-      - { label: 'Permalink', name: 'permalink:', widget: 'string' }
+      - { label: 'Permalink', name: 'permalink', widget: 'string' }
       - { label: 'Challenge-ID', name: 'challenge-id', widget: 'string' }
-      - { label: 'Challenge Title', name: 'challenge-title:', widget: 'string' }
-      - { label: 'Tagline', name: 'tagline:', widget: 'string' }
-      - { label: 'Permalink', name: 'permalink:', widget: 'file' }
-      - { label: 'Type of Challenge', name: 'type-of-challenge:', widget: 'string' }
-      - { label: 'external-url', name: 'external-url:', widget: 'string' }
+      - { label: 'Challenge Title', name: 'challenge-title', widget: 'string' }
+      - { label: 'Tagline', name: 'tagline', widget: 'string' }
+      - { label: 'Permalink', name: 'permalink', widget: 'file' }
+      - { label: 'Type of Challenge', name: 'type-of-challenge', widget: 'string' }
+      - { label: 'external-url', name: 'external-url', widget: 'string' }
     
 
 
