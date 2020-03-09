@@ -6,7 +6,7 @@ status: open
 sidenav: false
 card-image: /assets/images/cards/NIH_TAC_Lockup-color.jpg
 agency-logo: NIH-Generic.png
-challenge-title: NIH Technology Accelerator Challenge: Non-invasive Diagnostics for Global Health
+challenge-title: NIH Technology Accelerator Challenge Non-invasive Diagnostics for Global Health
 tagline: Develop diagnostic technologies for sickle cell disease, malaria, and anemia, and other high-impact diseases
 agency: Department of Health and Human Services - National Institutes of Health
 partner-agencies-federal: NIH Office of the Director, National Institute of Allergy and Infectious Disease, National Heart, Lung and Blood Institute, National Institute of Diabetes and Digestive and Kidney Diseases, and the Fogarty International Center
@@ -23,6 +23,7 @@ legal-authority: Unspecified
 challenge-manager: Tiffani Bailey Lash, Tiffani.Lash@nih.gov
 challenge-manager-email: NIBIBChallenge@nih.gov
 ---
+
 
 
 <!-- Description start -->
