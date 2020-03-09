@@ -1,6 +1,10 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: gsa/challenges-and-prizes
   branch: add-netlify # Branch to update (optional; defaults to master)
+  auth_endpoint: external/auth/github
+  preview_context: federalist/build
+  use_graphql: true
 media_folder: 'assets/images/cards'
 collections:
   - name: 'challenges'
