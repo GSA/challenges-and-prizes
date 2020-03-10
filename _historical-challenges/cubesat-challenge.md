@@ -57,20 +57,7 @@ rules: 'USSOCOM is pursuing a development effort to determine the operational
   or equivalent license required)</li>    <li>Antennas</li>    <li>Processor(s)
   (Microprocessors or FPGAs)</li>    <li>Flight Software (Satellite and payload
   control)</li>    <li>Attitude Determination and Control System (ADCS, Optional)</li>    <li>Propulsion
-  (Optional)</li>    <li>Ground Station (Separate)</li>  </ul>  <h2></h2>  <h2>Prizes</h2>  The
-  CubeSat Challenge will award a grand total of up to $35,000 in cash prizes.
-  Up to 7 - $5,000 prizes will be awarded in the following categories:    <strong>4</strong> -
-  3U Winners    <strong>2</strong> - 6U Winners    <strong>1</strong> people’s
-  Choice Award    &nbsp;    The $5,000 popular choice award will be awarded based
-  on number of votes received during the voting period.  A competitor is eligible
-  to win both a Judges'' Award and the People''s Choice Award.    All votes are
-  subject to review. Any competitor using unfair methods to solicit votes will
-  be automatically disqualified from the challenge.    Entries that are eligible
-  for the voting stage will become viewable to the public. Make sure that if your
-  entry moves on to the voting stage, that you''re OK with anyone seeing it! Depending
-  on the number of entries received, either all or a selected shortlist will move
-  on to the voting stage.    Potential future challenges may ask competitors to
-  design, develop, and implement concept submissions entered in this challenge.    &nbsp;  <h2>How
+  (Optional)</li>    <li>Ground Station (Separate)</li>  </ul>   &nbsp;  <h2>How
   do I win?</h2>  To be eligible for an award, the solution must, at minimum meet
   the following specifications and standards:  <ul>    <li> Payload Volume  <ul>    <li>Range
   from 1.5U to 4U. Concepts will be considered that utilize up to 4U volume (to
@@ -224,7 +211,20 @@ judging-criteria-8: ''
 judging-criteria-description-9: ''
 judging-criteria-percentage-9: ''
 judging-criteria-9: ''
-prize-description-0: ''
+prize-description-0: The
+  CubeSat Challenge will award a grand total of up to $35,000 in cash prizes.
+  Up to 7 - $5,000 prizes will be awarded in the following categories:    <strong>4</strong> -
+  3U Winners    <strong>2</strong> - 6U Winners    <strong>1</strong> people’s
+  Choice Award    &nbsp;    The $5,000 popular choice award will be awarded based
+  on number of votes received during the voting period.  A competitor is eligible
+  to win both a Judges'' Award and the People''s Choice Award.    All votes are
+  subject to review. Any competitor using unfair methods to solicit votes will
+  be automatically disqualified from the challenge.    Entries that are eligible
+  for the voting stage will become viewable to the public. Make sure that if your
+  entry moves on to the voting stage, that you''re OK with anyone seeing it! Depending
+  on the number of entries received, either all or a selected shortlist will move
+  on to the voting stage.    Potential future challenges may ask competitors to
+  design, develop, and implement concept submissions entered in this challenge. 
 prize-cash-amount-0: ''
 prize-name-0: ''
 prize-description-1: ''
