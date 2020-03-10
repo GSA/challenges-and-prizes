@@ -36,6 +36,7 @@ collections:
       - { label: 'Legal Authority', name: 'legal-authority', widget: 'string' }
       - { label: 'Challenge Manager', name: 'challenge-manager', widget: 'string' }
       - { label: 'Challenge Manager Email', name: 'challenge-manager-email', widget: 'string' }
+      - { label: 'Challenge Point of Contact', name: 'point-of-contact', widget: 'string' }
       - { label: 'Description', name: 'description', widget: 'markdown' }
       - { label: 'Prizes', name: 'prizes', widget: 'markdown' }
       - { label: 'Rules', name: 'rules', widget: 'markdown' }
