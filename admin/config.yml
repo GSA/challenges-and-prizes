@@ -14,7 +14,7 @@ collections:
     folder: '_challenges'
     create: true
     editor:
-      preview: true
+      preview: false
     fields:
       - { label: 'Challenge Title', name: 'challenge-title', widget: 'string' }
       - { label: 'Layout', name: 'layout', widget: 'string', default: "front-matter-data" }
