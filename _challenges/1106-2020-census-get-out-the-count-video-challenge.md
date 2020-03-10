@@ -6,7 +6,7 @@ status: open
 sidenav: true
 card-image: /assets/images/cards/Census-GOTC-Video-Prize-Logo.png
 agency-logo: US-Census-Bureau-logo.png
-challenge-title: 2020 Census: Get Out The Count Video Challenge
+challenge-title: 2020 Census - Get Out The Count Video Challenge
 tagline: Win up to $30,000 for a short YouTube video explaining the importance of the 2020 Census in an informative, emotional, entertaining, and/or humorous way.
 agency: U.S. Census Bureau
 partner-agencies-federal:
