@@ -49,6 +49,13 @@ challenge-manager-email: (will display in the Point of Contact field)
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<p>Financial prizes totaling at least $50,000 will be awarded through this challenge.<strong>&nbsp;</strong></p>
+<p>Prizes will be allocated as follows:</p>
+<ul>
+<li>$30,000 for a grand prize winner</li>
+<li>$10,000 for a runner-up</li>
+<li>$10,000 for a student prize</li>
+</ul>
 
 <!-- Rules start -->
 ### Rules 
