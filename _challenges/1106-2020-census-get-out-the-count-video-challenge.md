@@ -12,16 +12,16 @@ agency: U.S. Census Bureau
 partner-agencies-federal:
 partners-non-federal:
 external-url:
-total-prize-offered-cash:
-type-of-challenge:
+total-prize-offered-cash: $50,000
+type-of-challenge: Creative (multimedia & design)
 submission-start: 2020/03/12 12:00 PM
 submission-end: 2020/04/10 02:59 AM
 submission-link:
 prizes: true
-fiscal-year: (formatted as FY19, FY20, FY21 etc...)
-legal-authority:
-challenge-manager:
-challenge-manager-email: (will display in the Point of Contact field)
+fiscal-year: FY20
+legal-authority: America COMPETES Act
+challenge-manager: Mara Abrams, mara.abrams@census.gov
+challenge-manager-email: census.accelerate@census.gov
 ---
 
 
