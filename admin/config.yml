@@ -6,6 +6,7 @@ backend:
   auth_endpoint: external/auth/github
   preview_context: federalist/build
   use_graphql: true
+  publish_mode: editorial_workflow
 media_folder: 'assets/images/cards'
 collections:
   - name: 'challenges'
@@ -13,7 +14,7 @@ collections:
     folder: '_challenges'
     create: true
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: 'Challenge Title', name: 'challenge-title', widget: 'string' }
       - { label: 'Layout', name: 'layout', widget: 'string', default: "front-matter-data" }
