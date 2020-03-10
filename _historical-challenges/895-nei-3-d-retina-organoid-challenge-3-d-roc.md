@@ -17,7 +17,7 @@ type-of-challenge: Ideas
 submission-start: 08/01/2017 12:00 PM
 submission-end: 06/01/2017 12:00 PM
 submission-link:
-prizes: true
+prize: true
 fiscal-year: FY17
 legal-authority: America Competes Act
 challenge-manager: Steve Becker, steven.becker@nih.gov

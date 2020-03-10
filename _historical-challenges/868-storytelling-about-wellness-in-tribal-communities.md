@@ -17,7 +17,7 @@ type-of-challenge: Creative (multimedia & design)
 submission-start: 11/28/2016 12:00 AM
 submission-end: 01/31/2017 11:59 PM
 submission-link: 
-prizes: true
+prize: true
 fiscal-year: 2017
 legal-authority: America COMPETES
 challenge-manager: Lora Kutkat

@@ -17,7 +17,7 @@ type-of-challenge: Ideas
 submission-start: 11/22/2019 5:00 PM 
 submission-end: 02/14/2020 11:59 PM 
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: FY19, FY20
 legal-authority: America COMPETES Act
 challenge-manager: Teresa Nguyen, teresa.nguyen@acl.hhs.gov

@@ -17,7 +17,7 @@ type-of-challenge: Software
 submission-start: 12/11/2019 10:30 AM
 submission-end: 01/24/2020 5:00 PM
 submission-link:
-prizes: true
+prize: true
 fiscal-year: FY20
 legal-authority: America COMPETES
 challenge-manager: Matthew Grob, grob.matthew.a@dol.gov

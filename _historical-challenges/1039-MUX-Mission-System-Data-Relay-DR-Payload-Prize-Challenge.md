@@ -17,7 +17,7 @@ type-of-challenge: technology demonstration
 submission-start: 05/23/2019 12:00 AM
 submission-end: 09/23/2019 11:59 PM
 submission-link: http://www.navair.navy.mil/muxchallenge/ 
-prizes: true
+prize: true
 fiscal-year: FY19, FY20
 legal-authority: Other Transactions Authority
 challenge-manager: Sean McManus

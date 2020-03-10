@@ -17,7 +17,7 @@ type-of-challenge: Ideas
 submission-start: 04/28/2017 12:05 PM
 submission-end: 01/15/2018 12:00 AM
 submission-link: 
-prizes: true
+prize: true
 fiscal-year: FY17
 legal-authority: America COMPETES
 challenge-manager: Dr. Machell Town

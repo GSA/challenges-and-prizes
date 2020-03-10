@@ -17,7 +17,7 @@ type-of-challenge: Scientific
 submission-start: 06/06/2017 12:00 AM
 submission-end: 09/05/2017 12:00 AM
 submission-link: https://www.innocentive.com/ar/challenge/9933879
-prizes: true
+prize: true
 fiscal-year: FY17
 legal-authority: America COMPETES
 challenge-manager: Chrissy Henderson

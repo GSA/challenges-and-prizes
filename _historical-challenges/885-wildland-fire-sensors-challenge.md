@@ -17,7 +17,7 @@ type-of-challenge:  Scientific
 submission-start: 04/06/2017 11:00 AM
 submission-end: 11/22/2017 05:00 PM
 submission-link:  https://www.innocentive.com/ar/challenge/9933927
-prizes: true
+prize: true
 fiscal-year: 2017-2018
 legal-authority: Other
 challenge-manager: Kirk Baker, Gayle Hagler

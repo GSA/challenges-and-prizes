@@ -17,7 +17,7 @@ type-of-challenge: Technology demonstration
 submission-start: 09/23/2019 5:00 PM
 submission-end: 11/30/2019 11:59 PM
 submission-link: http://sand2020.nianet.org 
-prizes: true
+prize: true
 fiscal-year: FY20
 legal-authority: America COMPETES
 challenge-manager: Genevieve Ebarl, Genevieve.Ebarle@nianet.org

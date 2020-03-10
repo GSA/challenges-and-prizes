@@ -17,7 +17,7 @@ type-of-challenge: Technology demonstration / hardware
 submission-start: 2019/11/14 3:00 PM 
 submission-end: 2020/03/13 11:59 PM 
 submission-link: https://americanmadechallenges.org/wavestowater/ 
-prizes: true
+prize: true
 fiscal-year: FY19, FY20, FY21
 legal-authority: America COMPETES
 challenge-manager: Jennifer Garson, jennifer.garson@ee.doe.gov

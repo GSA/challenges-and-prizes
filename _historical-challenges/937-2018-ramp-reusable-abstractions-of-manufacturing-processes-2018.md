@@ -17,7 +17,7 @@ type-of-challenge: Scientific
 submission-start: 01/29/2018 09:00 AM
 submission-end: 04/21/2018 03:00 AM
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: FY18
 legal-authority: America COMPETES
 challenge-manager: Bill Bernstein

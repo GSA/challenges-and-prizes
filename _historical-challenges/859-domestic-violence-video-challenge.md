@@ -17,7 +17,7 @@ type-of-challenge: Creative (design & multimedia)
 submission-start: 10/12/2016 12:00 AM
 submission-end: 2016/11/03 11:59 PM
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: 2016
 legal-authority: America COMPETES
 challenge-manager: Mao Yang

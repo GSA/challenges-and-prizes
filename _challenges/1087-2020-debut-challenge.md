@@ -17,7 +17,7 @@ type-of-challenge: Technology demonstration and hardware, Scientific, Software a
 submission-start: 2020/01/13 12:00 AM
 submission-end: 2020/06/01 11:59 PM
 submission-link:
-prizes: true
+prize: true
 fiscal-year: FY20
 legal-authority: America COMPETES Act
 challenge-manager: Zeynep Erim

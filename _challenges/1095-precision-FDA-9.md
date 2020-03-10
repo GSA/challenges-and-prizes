@@ -17,7 +17,7 @@ type-of-challenge: Analytics, visualization, and algorithms
 submission-start: 2020/01/17 02:20 PM
 submission-end: 2020/03/13 11:59 PM
 submission-link:
-prizes: true
+prize: true
 fiscal-year: FY20
 legal-authority: America COMPETES Act
 challenge-manager: Elaine Johanson, Elaine.Johanson@fda.hhs.gov

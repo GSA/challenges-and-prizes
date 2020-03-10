@@ -17,7 +17,7 @@ type-of-challenge: Ideas
 submission-start: 04/01/2019 10:00 AM
 submission-end: 09/12/2019 5:00 PM
 submission-link: http://www.energy.gov/solardistrictcup 
-prizes: true
+prize: true
 fiscal-year: FY19, FY20
 legal-authority: Other
 challenge-manager: Shamara Collins

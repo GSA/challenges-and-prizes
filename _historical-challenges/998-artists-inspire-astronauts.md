@@ -17,7 +17,7 @@ type-of-challenge: Creative (design and multimedia)
 submission-start: 02/15/2019 9:00 AM 
 submission-end: 04/30/2019 12:00 PM
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: FY19
 legal-authority: America COMPETES
 challenge-manager: Amanda Griffin 

@@ -17,7 +17,7 @@ type-of-challenge: Ideas
 submission-start: 2020/02/07 12:00 AM ET
 submission-end: 2020/03/15 11:59 PM ET
 submission-link:
-prizes: true
+prize: true
 fiscal-year: FY20
 legal-authority: Unspecified
 challenge-manager: Chris Levitt

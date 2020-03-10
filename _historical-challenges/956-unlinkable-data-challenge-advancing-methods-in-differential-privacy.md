@@ -17,7 +17,7 @@ type-of-challenge: Technology demonstration and hardware
 submission-start: 05/01/2018 12:00 PM
 submission-end: 08/02/2018 05:00 PM
 submission-link: https://www.herox.com/UnlinkableDataChallenge
-prizes: true
+prize: true
 fiscal-year: FY19
 legal-authority: America COMPETES
 challenge-manager: Terese Manley

@@ -17,7 +17,7 @@ type-of-challenge:  Scientific
 submission-start: 06/20/2019 09:00 AM
 submission-end: 08/28/2019 04:59 PM
 submission-link: www.MagQuest.com
-prizes: true
+prize: true
 legal-authority: Procurement Authority
 fiscal-year: FY19
 challenge-manager: Will Jackson

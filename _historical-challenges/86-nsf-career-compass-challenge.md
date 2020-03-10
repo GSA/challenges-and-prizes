@@ -17,7 +17,7 @@ type-of-challenge:  Ideas
 submission-start: 04/15/2019 03:30 PM
 submission-end: 07/26/2019 11:59 PM
 submission-link:  
-prizes: true
+prize: true
 ---
 
 

@@ -21,7 +21,7 @@ fiscal-year: FY19-20
 legal-authority: America COMPETES
 challenge-manager: 'Tertia Speiser, Tertia.Speiser@ee.doe.gov'
 challenge-manager-email: ITEAM@nrel.gov
-prizes: true
+prize: true
 partners-non-federal: null
 submission-link: null
 description: >-

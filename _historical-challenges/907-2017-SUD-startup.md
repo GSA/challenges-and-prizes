@@ -17,7 +17,7 @@ type-of-challenge: ideas
 submission-start: 06/09/2017 08:00 AM
 submission-end: 12/22/2017 05:00 PM
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: FY17-18
 legal-authority: America COMPETES
 challenge-manager: Irina Sazonova

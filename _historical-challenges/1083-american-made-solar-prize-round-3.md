@@ -17,7 +17,7 @@ type-of-challenge: Tech demonstration and hardware
 submission-start: 09/24/2019 
 submission-end: 12/10/2019 02:00 PM 
 submission-link:
-prizes: true
+prize: true
 fiscal-year: FY19, FY20 
 legal-authority:
 challenge-manager: Nicholas Langle, Nicholas.Langle@nrel.gov

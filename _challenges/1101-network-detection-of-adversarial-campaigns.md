@@ -17,7 +17,7 @@ type-of-challenge: Software and apps; Technology demonstration and hardware; Ana
 submission-start: 2020/03/02 05:00 PM
 submission-end: 2020/05/29 05:00 PM
 submission-link:
-prizes: true
+prize: true
 fiscal-year: FY20, FY21
 legal-authority: Agency specific prize authority
 challenge-manager: Michael Karlbom, karlbom@spawar.navy.mil
