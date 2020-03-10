@@ -15,7 +15,7 @@ external-url: https://venturewell.org/ntac/
 total-prize-offered-cash: $1,000,000
 type-of-challenge: Scientific
 submission-start: 2020/03/02 10 a.m.
-submission-end: 202/06/02 5 p.m.
+submission-end: 2020/06/02 5 p.m.
 submission-link: https://venturewell.org/ntac/
 prizes: true
 fiscal-year: FY20
