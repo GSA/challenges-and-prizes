@@ -214,7 +214,7 @@ challenge-manager-email: psprizes@nist.gov
 <ol>
 <li><strong>Get Smart &amp; Register Your Team:</strong> Read about the challenge phases, problem, emergency scenarios, submission requirements, and eligibility terms to participate in this prize challenge. Complete the registration form to set up your participant profile. Register your team <a href="https://www.chariotchallenge.com/register/">here</a>.</li>
 <li><strong>Develop your Concept:</strong> Depending on your area of expertise, learn about the Stage 1 submission requirements for the AR submission or IoT submission then build your idea!</li>
-<li><strong>Submit your Entry:</strong> Log-in and complete your submission on the challenge platform.</li>
+<li><strong>Submit your Entry:</strong> Log-in and complete your <a href="https://www.chariotchallenge.com/login/">submission</a> on the challenge platform.</li>
 </ol>
 <p>The Phase 1 Concept for Emulate Smart City Data for Disaster Scenarios is <u>due on April 23, 2020</u>.</p>
 <p>The Phase 1 Concept for Build Augmented Reality Interfaces for First Responders is <u>due on May 6, 2020</u>.</p>
