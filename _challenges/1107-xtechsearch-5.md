@@ -12,7 +12,7 @@ agency: Department of Defense - U.S. Army
 partner-agencies-federal:
 partners-non-federal:
 external-url:
-total-prize-offered-cash:
+total-prize-offered-cash: $2,040,000
 type-of-challenge:
 submission-start: 2020/03/09 05:00 PM
 submission-end: 2020/04/01 02:59 AM
@@ -40,6 +40,80 @@ challenge-manager-email: (will display in the Point of Contact field)
 ### Prizes
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<p>Prizes will be offered under 15 USC &sect;3719 (Prize competitions). The total prize pool is <strong>$2.04 million</strong>.</p>
+<table style="height: 379px;" border="1" width="694">
+<tbody>
+<tr style="height: 66px;">
+<td style="width: 316.8px; height: 66px;">
+<p><strong><em>Phase</em></strong></p>
+</td>
+<td style="width: 118.4px; height: 66px;">
+<p><strong><em>Number of Winners</em></strong></p>
+</td>
+<td style="width: 238.4px; height: 66px;">
+<p><strong><em>Prize</em></strong></p>
+</td>
+</tr>
+<tr style="height: 48px;">
+<td style="width: 316.8px; height: 48px;">
+<p>Application Part 1:White Paper</p>
+</td>
+<td style="width: 118.4px; height: 48px;">
+<p>Up to 60</p>
+</td>
+<td style="width: 238.4px; height: 48px;">
+<p>$5,000</p>
+</td>
+</tr>
+<tr style="height: 48px;">
+<td style="width: 316.8px; height: 48px;">
+<p>Application Part 2: Technology Pitches</p>
+</td>
+<td style="width: 118.4px; height: 48px;">
+<p>Up to 20</p>
+</td>
+<td style="width: 238.4px; height: 48px;">
+<p>$10,000</p>
+</td>
+</tr>
+<tr style="height: 48px;">
+<td style="width: 316.8px; height: 48px;">
+<p>Semifinals</p>
+</td>
+<td style="width: 118.4px; height: 48px;">
+<p>Up to 10</p>
+</td>
+<td style="width: 238.4px; height: 48px;">
+<p>$120,000</p>
+</td>
+</tr>
+<tr style="height: 80px;">
+<td style="width: 316.8px; height: 80px;">
+<p>Finals</p>
+</td>
+<td style="width: 118.4px; height: 80px;">
+<p>Up to 10</p>
+</td>
+<td style="width: 238.4px; height: 80px;">
+<p>1st Place: $250,000</p>
+<p>All others finalists: $10,000</p>
+</td>
+</tr>
+<tr>
+<td style="width: 316.8px;">
+<p>&nbsp;</p>
+</td>
+<td style="width: 118.4px;">
+<p>Total</p>
+</td>
+<td style="width: 238.4px;">
+<p>$2,040,000</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Non-monetary Prizes</strong></p>
+<p>Other non-monetary incentives are provided through the xTechSearch program to help small business engage, and stay engaged with the Army.</p>
 
 <!-- Rules start -->
 ### Rules 
