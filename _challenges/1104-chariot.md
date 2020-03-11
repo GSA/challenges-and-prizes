@@ -151,7 +151,11 @@ challenge-manager-email: psprizes@nist.gov
 <p>Up to $212,000 in prizes are dedicated to the Emulate Smart City Data for Disaster Scenario Contest.</p>
 <p><strong>Non-monetary Prizes</strong></p>
 <p>Winning contestants will receive additional prizes and technical mentorship opportunities with key challenge partners from Magic Leap, First Responder Network Authority, FirstNet built with AT&amp;T, MSA Safety and Blueforce Development.</p>
-<p>To learn more about the prizes in each contest, please see the <a href="{{ site.baseurl }}/assets/document-library/CHARIoT Challenge_NISTPSCR_OfficialRules.pdf">full Official Rules</a>.</p>
+<p>To learn more about the prizes in each contest, please go to the AR or IoT prize page:</p>
+<ul>
+<li><a href="https://www.chariotchallenge.com/ar-awards/">AR Prizes Information</a></li>
+<li><a href="https://www.chariotchallenge.com/iot-awards/">IoT Prizes Information</a></li>
+</ul>
 
 <!-- Rules start -->
 ### Rules 
