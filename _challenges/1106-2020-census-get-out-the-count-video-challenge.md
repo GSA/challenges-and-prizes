@@ -7,7 +7,7 @@ sidenav: true
 card-image: /assets/images/cards/Census-GOTC-Video-Prize-Logo.png
 agency-logo: US-Census-Bureau-logo.png
 challenge-title: 2020 Census - Get Out The Count Video Challenge
-tagline: Win up to $30,000 for a short YouTube video explaining the importance of the 2020 Census in an informative, emotional, entertaining, and/or humorous way.
+tagline: Creative videos to share the importance of the 2020 Census.
 agency: U.S. Census Bureau
 partner-agencies-federal:
 partners-non-federal:
@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash: $50,000
 type-of-challenge: Creative (multimedia & design)
 submission-start: 2020/03/12 12:00 PM
-submission-end: 2020/04/10 02:59 AM
+submission-end: 2020/04/11 02:59 AM
 submission-link:
 prizes: true
 fiscal-year: FY20
@@ -42,7 +42,7 @@ challenge-manager-email: census.accelerate@census.gov
 <li>to fill content voids that can be exploited with disinformation intended to suppress 2020 census response rates.</li>
 </ul>
 <p>Census Accelerate is launching this prize competition to reward 2020 Census-related videos with the highest visibility (or viral potential) and the highest impact (i.e., ability to move people to respond to the census). The challenge focuses on <strong>short-format video content </strong>&mdash; a medium that is relatively lacking in quantity and quality on user-generated platforms such as YouTube. The Census Bureau is conducting this challenge under the authority of and in accordance with the America COMPETES Act, as amended, 15 U.S.C. &sect; 3719.</p>
-<h2><strong>The challenge: guidance on video content and format&nbsp; </strong></h2>
+<h2><strong>The challenge:</strong></h2>
 <p><strong>Explain why the census matters in a short (30 seconds to 3 minutes) video, designed for a platform such as YouTube, that uses entertainment, emotion, creativity, and/or humor to motivate people to respond. </strong></p>
 
 <!-- Prizes start -->
@@ -87,6 +87,7 @@ challenge-manager-email: census.accelerate@census.gov
 <li>An individual or entity shall not be deemed ineligible because the individual or entity used federal facilities or consulted with Federal employees during a challenge, if the facilities and employees are made available to all individuals and entities participating in the challenge on an equitable basis.</li>
 <li>Participants may be asked in future stages of this competition to provide additional confirmation of their eligibility. The Census Bureau will determine whether applicants meet eligibility criteria.</li>
 </ol>
+<p><strong>Guidance on video content and format</strong></p>
 <p><strong><u>Video requirements</u></strong></p>
 <ul>
 <li><strong>The following are video requirements that must be met for videos to be considered eligible for this competition. Videos <u>must</u>: </strong>
