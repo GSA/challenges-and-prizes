@@ -212,7 +212,7 @@ challenge-manager-email: psprizes@nist.gov
 
 <p>To enter the CHARIoT Challenge, participants must complete three easy steps:</p>
 <ol>
-<li><strong>Get Smart &amp; Register Your Team:</strong> Read about the challenge phases, problem, emergency scenarios, submission requirements, and eligibility terms to participate in this prize challenge. Complete the registration form to set up your participant profile. Register your team<u>.</u></li>
+<li><strong>Get Smart &amp; Register Your Team:</strong> Read about the challenge phases, problem, emergency scenarios, submission requirements, and eligibility terms to participate in this prize challenge. Complete the registration form to set up your participant profile. Register your team <a href="https://www.chariotchallenge.com/register/">here</a>.</li>
 <li><strong>Develop your Concept:</strong> Depending on your area of expertise, learn about the Stage 1 submission requirements for the AR submission or IoT submission then build your idea!</li>
 <li><strong>Submit your Entry:</strong> Log-in and complete your submission on the challenge platform.</li>
 </ol>
