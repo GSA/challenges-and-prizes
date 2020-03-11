@@ -4,7 +4,7 @@ permalink: /challenge/xtechsearch-5/
 challenge-id: 1107
 status: open
 sidenav: true
-card-image: /assets/images/cards/xTechSearch_5.png
+card-image: /assets/images/cards/xtechsearch_4.png
 agency-logo: dod_seal.jpg
 challenge-title: xTechSearch 5
 tagline: xTechSearch will highlight opportunities for small businesses to collaborate with the Army to tackle the most critical Army modernization challenges.
