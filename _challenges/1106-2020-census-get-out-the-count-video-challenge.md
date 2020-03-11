@@ -4,7 +4,7 @@ permalink: /challenge/2020-census-get-out-the-count-video-challenge/
 challenge-id: 1106
 status: open
 sidenav: true
-card-image: /assets/images/cards/Census-GOTC-Video-Prize-Logo.png
+card-image: /assets/images/cards/GOTC-Prize-logo.png
 agency-logo: US-Census-Bureau-logo.png
 challenge-title: 2020 Census - Get Out The Count Video Challenge
 tagline: Creative videos to share the importance of the 2020 Census.
