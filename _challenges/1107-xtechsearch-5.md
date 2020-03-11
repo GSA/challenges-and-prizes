@@ -13,15 +13,15 @@ partner-agencies-federal:
 partners-non-federal:
 external-url:
 total-prize-offered-cash: $2,040,000
-type-of-challenge:
+type-of-challenge: Ideas; Technology demonstration and hardware
 submission-start: 2020/03/09 05:00 PM
 submission-end: 2020/04/01 02:59 AM
 submission-link:
 prizes: true
-fiscal-year: (formatted as FY19, FY20, FY21 etc...)
-legal-authority:
-challenge-manager:
-challenge-manager-email: (will display in the Point of Contact field)
+fiscal-year: FY20, FY21
+legal-authority: America COMPETES Act
+challenge-manager: Zeke Topolosky, Zeke.j.topolosky.civ@mail.mil
+challenge-manager-email: usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil
 ---
 
 
