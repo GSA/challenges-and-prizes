@@ -13,7 +13,7 @@ partner-agencies-federal: First Responder Network Authority
 partners-non-federal: Magic Leap; FirstNet, Built with AT&T; MSA Safety; Blueforce Development Corporation
 external-url:
 total-prize-offered-cash: $1.1 million
-type-of-challenge: Technology demonstration and hardware; Analytics, visualizations, algorithms
+type-of-challenge: Technology demonstration and hardware; Analytics, visualizations and algorithms
 submission-start: 2020/03/11 01:00 PM
 submission-end: 2020/11/18 05:00 PM
 submission-link:
