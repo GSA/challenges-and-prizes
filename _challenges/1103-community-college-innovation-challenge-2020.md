@@ -32,6 +32,10 @@ challenge-manager-email: ccic@aacc.nche.edu
 
 **DEADLINE EXTENDED UNTIL APRIL 24, 2020. AN IMPORTANT MESSAGE ABOUT THE CCIC.**
 
+If you are a part of a team that is still interested in participating in the CCIC and the closures on your campus and/or in your community will prevent you from submitting a complete application by April 24, 2020, please contact the challenge team at ccic@aacc.nche.edu. 
+
+At this time, the CCIC Boot Camp is tentatively scheduled for June 2020. The CCIC team will continue to make any updates based on guidance from the Centers for Disease Control and the World Health Organization. In the meantime, please email ccic@aacc.nche.edu s with any questions.
+
 The Community College Innovation Challenge (CCIC) is sponsored by the
 National Science Foundation (NSF) and the American Association of Community
 Colleges (AACC). It is a prestigious, two-phase competition where community
