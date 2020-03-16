@@ -106,7 +106,6 @@ challenge-manager-email: census.accelerate@census.gov
 <li><strong>Speak to the tangible benefits of the census</strong>. For example, the census means funding for your community for critical services like hospitals, health care, education, roads,&nbsp;<u><a href="https://www.benefits.gov/benefit/361">SNAP</a></u>, and more. (See the&nbsp;<u><a href="https://www.challenge.gov/assets/document-library/2020-Census-Resource-Guide-GOTC-Video-Prize-Challenge.pdf">&ldquo;key facts</a></u>&rdquo; section of the <a href="https://www.challenge.gov/assets/document-library/2020-Census-Resource-Guide-GOTC-Video-Prize-Challenge.pdf">Resource Guide</a> and <a href="https://2020census.gov/">2020census.gov</a> to learn more about the benefits.) It also determines how many representatives your state will have in the House of Representatives; these are the people who will vote on issues that deeply impact your life and community.
 <li><strong>Focus on multiple benefits of completing the census </strong>where format allows.</li>
 <li><strong>Weave direct messaging into realistic, authentic situations that avoid stereotyping</strong> in order to clearly communicate the importance and relevance of census participation.</li>
-</ul>
 </li>
 <li><strong>General messaging guidance:</strong>
 <ul>
