@@ -191,14 +191,12 @@ challenge-manager-email: census.accelerate@census.gov
 </li>
 </ul>
 <ul>
-<li><strong>Ability to Reach to Hard to Count Population(s) (25%): </strong>This score focuses on the ability of the video messages to meaningfully reach hard-to-count populations. Each video <strong>must target at least <strong>one <a href="https://www.census.gov/newsroom/blogs/director/2018/11/counting_everyoneon.html">hard-to-count (HTC) population</a>,&nbsp;</strong>such as (but not limited to): ethnic and racial minorities, non-native English speakers, millennials/gen Z, families with young children, (please see page 2 of the <u><a href="{{ site.baseurl }}/assets/document-library/2020-Census-Resource-Guide-GOTC-Video-Prize-Challenge.pdf">Resource Guide</a></u> for a comprehensive list). The score for this category includes considerations such as:
+<li><strong>Ability to Reach to Hard to Count Population(s) (25%): </strong>This score focuses on the ability of the video messages to meaningfully reach hard-to-count populations. Each video <strong>must target at least <strong>one <a href="https://www.census.gov/newsroom/blogs/director/2018/11/counting_everyoneon.html">hard-to-count (HTC) population</a></strong>,&nbsp;such as (but not limited to): ethnic and racial minorities, non-native English speakers, millennials/gen Z, families with young children, (please see page 2 of the <u><a href="{{ site.baseurl }}/assets/document-library/2020-Census-Resource-Guide-GOTC-Video-Prize-Challenge.pdf">Resource Guide</a></u> for a comprehensive list). The score for this category includes considerations such as:
 <ul>
 <li>Does the video effectively communicate messaging to the selected HTC group(s)?</li>
 <li>Does the video accurately utilize specific cultural, historical, or language assets to strengthen messaging?</li>
 <li>Will the targeted HTC group(s) find the video meaningful?</li>
 <li>Has the video been tested and iterated based on feedback from targeted viewers?</li>
-</ul>
-</li>
 </ul>
 <ul>
 <li><strong>Technical Quality (20%)</strong>: This score focuses on the overall quality of the video including audio and visual content. This includes questions such as:
