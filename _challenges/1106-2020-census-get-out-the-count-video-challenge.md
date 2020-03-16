@@ -223,14 +223,6 @@ challenge-manager-email: census.accelerate@census.gov
 <li>First Runner Up Prize: $10,000</li>
 <li>Student Prize: $10,000.</li>
 </ul>
-<p><strong>Selection of Winners</strong></p>
-<p>Winners of the Challenge will be selected and announced in May 2020. The videos with highest scores from the preliminary judging panel will be considered finalists and may be passed along for further review by additional expert or &ldquo;VIP&rdquo; judges from government and industry.&nbsp; Selection of winners is ultimately at the discretion of the U.S. Census Bureau.</p>
-<p>All prize awards are subject to U.S. Census Bureau verification of the winners&rsquo; identity, eligibility, and participation in the Challenge. The&nbsp; Census Bureau will award three prizes as follows:</p>
-<ul>
-<li>Grand Prize: $30,000</li>
-<li>First Runner Up Prize: $10,000</li>
-<li>Student Prize: $10,000.</li>
-</ul>
  
 <!--  How To Enter start -->
 ### How To Enter
