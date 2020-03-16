@@ -30,7 +30,7 @@ challenge-manager-email: census.accelerate@census.gov
 ### Description
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<h2><strong>Background &amp; Context </strong></h2>
+<h2><strong>Background &amp; Context</strong></h2>
 <p><strong>The 2020 Census</strong></p>
 <p>The <a href="https://2020census.gov/">2020 Census</a> is a constitutionally mandated once-a-decade count of our nation.&nbsp;<strong>It is critical that we achieve a complete and accurate count of </strong><strong><a href="https://2020census.gov/en/am-i-required.html">everyone living in the United States</a></strong><strong> because the results determine how many representatives in Congress each state has &mdash; and how more than $675 billion federal dollars are distributed each year into communities for the next decade.</strong>&nbsp;The 2020 Census results inform spending for&nbsp;<strong>critical services like schools, hospitals, roads, fire departments, and much more.</strong><strong>&nbsp;</strong>For further information and talking points about the importance of the 2020 Census, please refer to the&nbsp;<u><a href="https://www.challenge.gov/assets/document-library/2020-Census-Resource-Guide-GOTC-Video-Prize-Challenge.pdf">2020 Census Resources Guide</a></u><u> and </u><a href="https://2020census.gov/">2020census.gov</a>.</p>
 <p>Many people don&rsquo;t know how important the <a href="https://2020census.gov/">census</a> is to their community and day-to-day lives, and without further explanation or motivation, may not complete it at all. To solve this problem and help promote a complete and accurate count of the population, communities, government, creators, and experts have banded together to create engaging content that explains the importance, use, and safety of the census, and how to complete it.&nbsp; These efforts aim&nbsp;<strong>to make the 2020 Census a must-do for communities, particularly those considered &ldquo;</strong><strong><a href="https://www.census.gov/newsroom/blogs/director/2018/11/counting_everyoneon.html">hard-to-count</a></strong><strong>,&rdquo; such as racial and ethnic minorities, young and mobile populations, families with young children, LGBTQ+, non-English speakers, among others.</strong><strong>&nbsp;</strong>As part of this grassroots outreach effort, it is critical that entertaining and/or humorous content be created in ways that will deeply resonate with a broad audience, with a particular hard-to-count group, or both.</p>
@@ -223,7 +223,7 @@ challenge-manager-email: census.accelerate@census.gov
 <li>First Runner Up Prize: $10,000</li>
 <li>Student Prize: $10,000.</li>
 </ul>
- </div>
+
 <!--  How To Enter start -->
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
