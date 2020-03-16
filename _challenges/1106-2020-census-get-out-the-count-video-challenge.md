@@ -90,14 +90,13 @@ challenge-manager-email: census.accelerate@census.gov
 <p><strong>Guidance on video content and format</strong></p>
 <p><strong><u>Video requirements</u></strong></p>
 <ul>
-<li><strong>The following are video requirements that must be met for videos to be considered eligible for this competition. Videos <u>must</u>: </strong>
+<li><strong>The following are video requirements that must be met for videos to be considered eligible for this competition. Videos&nbsp;must:</strong></li>
 <ul>
-<li><strong>Target at least one hard to count population, </strong>such as (but not limited to): people of color, non-native English speakers, millennials/gen Z, families with young children, (please see page 2 of the <u><a href="{{ site.baseurl }}/assets/document-library/2020-Census-Resource-Guide-GOTC-Video-Prize-Challenge.pdf">Resource Guide</a></u> for a comprehensive list).</li>
-<li>Be at least 30 seconds and no more than 3 minutes in length</li>
+<li><strong>Target at least one </strong><strong><a href="https://www.census.gov/newsroom/blogs/director/2018/11/counting_everyoneon.html">hard-to-count</a></strong><strong> population,&nbsp;</strong>such as (but not limited to): &nbsp;racial and ethnic minorities, non-native English speakers, millennials/gen Z, families with young children, (please see page 2 of the&nbsp;<u><a href="https://www.challenge.gov/assets/document-library/2020-Census-Resource-Guide-GOTC-Video-Prize-Challenge.pdf">Resource Guide</a></u>&nbsp;for a comprehensive list).</li>
+<li>Be at <strong>least 30 seconds and no more than 3 minutes</strong> in length</li>
 <li>Be digital and available online via a web link. Ideally, videos should be designed for or available on platforms such as YouTube.</li>
-<li><strong>Contain only accurate and factual content about the census.</strong> A <u><a href="{{ site.baseurl }}/assets/document-library/2020-Census-Resource-Guide-GOTC-Video-Prize-Challenge.pdf">resource guide</a></u> is available as content guidance. Questions or clarifications on census facts may be directed to <u><a href="mailto:census.accelerate@census.gov">accelerate@census.gov</a></u>; clarifying questions are encouraged and will not impact eligibility or chances of winning a prize<em>.</em></li>
+<li><strong>Contain only accurate and factual content about the census.</strong>&nbsp;A&nbsp;<u><a href="https://www.challenge.gov/assets/document-library/2020-Census-Resource-Guide-GOTC-Video-Prize-Challenge.pdf">resource guide</a></u>&nbsp;is available as content guidance, as well as all resources on <a href="https://2020census.gov/">2020census.gov</a>. Questions or clarifications on census facts may be directed to&nbsp;<a href="mailto:census.accelerate@census.gov">census.accelerate@census.gov</a>; clarifying questions are encouraged and will not impact eligibility or chances of winning a prize<em>.</em></li>
 </ul>
-</li>
 </ul>
 <p><strong><u>Video messaging guidance</u></strong></p>
 <ul>
