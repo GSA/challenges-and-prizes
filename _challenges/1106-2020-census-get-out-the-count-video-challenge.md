@@ -181,45 +181,47 @@ challenge-manager-email: census.accelerate@census.gov
 </ul>
 <p><strong>Judging Criteria</strong></p>
 <ul>
-<li><strong>Potential for Impact (25%): </strong>This score focuses on the overall impact of the video, especially emotional impact. This includes questions such as:
+<li><strong>Potential for Impact (25%):&nbsp;</strong>This score focuses on the overall impact of the video, especially emotional impact. This includes questions such as:
 <ul>
 <li>How compelling is the video?</li>
 <li>Does this video incite and inspire viewers to respond to the census?</li>
 <li>Is this video memorable?</li>
 </ul>
 </li>
-</ul>
-<ul>
-<li><strong>Ability to Reach to Hard to Count Population(s) (25%):</strong> This score focuses on the ability of the video messages to meaningfully reach hard-to-count populations. Each video <strong>must target at least <strong>one <a href="https://www.census.gov/newsroom/blogs/director/2018/11/counting_everyoneon.html">hard-to-count (HTC) population</a>,&nbsp;</strong> such as (but not limited to): ethnic and racial minorities, non-native English speakers, millennials/gen Z, families with young children, (please see page 2 of the <u><a href="{{ site.baseurl }}/assets/document-library/2020-Census-Resource-Guide-GOTC-Video-Prize-Challenge.pdf">Resource Guide</a></u> for a comprehensive list). The score for this category includes considerations such as:
+<li><strong>Ability to Reach to Hard to Count Population(s) (25%):</strong>&nbsp;This score focuses on the ability of the video messages to meaningfully reach hard-to-count populations. Each video&nbsp;<strong>must target at least&nbsp;one&nbsp;<a href="https://www.census.gov/newsroom/blogs/director/2018/11/counting_everyoneon.html">hard-to-count (HTC) population</a>,&nbsp;&nbsp;</strong>such as (but not limited to): ethnic and racial minorities, non-native English speakers, millennials/gen Z, families with young children, (please see page 2 of the&nbsp;<u><a href="https://federalist-2c628203-05c2-48ab-8f87-3eda79380559.app.cloud.gov/preview/gsa/challenges-and-prizes/update-1106-per-agency-request/assets/document-library/2020-Census-Resource-Guide-GOTC-Video-Prize-Challenge.pdf">Resource Guide</a></u>&nbsp;for a comprehensive list). The score for this category includes considerations such as:
 <ul>
 <li>Does the video effectively communicate messaging to the selected HTC group(s)?</li>
 <li>Does the video accurately utilize specific cultural, historical, or language assets to strengthen messaging?</li>
 <li>Will the targeted HTC group(s) find the video meaningful?</li>
 <li>Has the video been tested and iterated based on feedback from targeted viewers?</li>
 </ul>
-<ul>
+</li>
 <li><strong>Technical Quality (20%)</strong>: This score focuses on the overall quality of the video including audio and visual content. This includes questions such as:
 <ul>
 <li>Does the video have clear audio and visual content?</li>
 <li>Is the video easily comprehensible for diverse members of the target population?</li>
 </ul>
 </li>
-</ul>
-<ul>
-<li><strong>Viral Potential (15%): </strong>This score focuses on the overall potential of the video to &ldquo;go viral.&rdquo; Virality is defined as the tendency of content to be circulated rapidly and widely from one internet user to another. This includes questions such as:
+<li><strong>Viral Potential (15%):&nbsp;</strong>This score focuses on the overall potential of the video to &ldquo;go viral.&rdquo; Virality is defined as the tendency of content to be circulated rapidly and widely from one internet user to another. This includes questions such as:
 <ul>
 <li>Is this video already viral or does it have a clear pathway to become viral via the medium, audience, creator, and/or distribution channels?</li>
 <li>Has the video been tested and iterated based on feedback from targeted viewers?</li>
 <li>Does the video have potential or have proven ability to touch a wide range of audience types?</li>
 </ul>
 </li>
-</ul>
-<ul>
-<li><strong>Creativity (15%): </strong>This score focuses on the overall creativity of the content of the video. The highest scoring videos will find innovative ways to inform, inspire, and incite action among viewers of the nation. Considerations include:
+<li><strong>Creativity (15%):&nbsp;</strong>This score focuses on the overall creativity of the content of the video. The highest scoring videos will find innovative ways to inform, inspire, and incite action among viewers of the nation. Considerations include:
 <ul>
 <li>Are the content or technical features novel and interesting?</li>
 </ul>
 </li>
+</ul>
+<p><strong>Selection of Winners</strong></p>
+<p>Winners of the Challenge will be selected and announced in May 2020. The videos with highest scores from the preliminary judging panel will be considered finalists and may be passed along for further review by additional expert or &ldquo;VIP&rdquo; judges from government and industry.&nbsp; Selection of winners is ultimately at the discretion of the U.S. Census Bureau.</p>
+<p>All prize awards are subject to U.S. Census Bureau verification of the winners&rsquo; identity, eligibility, and participation in the Challenge. The&nbsp; Census Bureau will award three prizes as follows:</p>
+<ul>
+<li>Grand Prize: $30,000</li>
+<li>First Runner Up Prize: $10,000</li>
+<li>Student Prize: $10,000.</li>
 </ul>
 <p><strong>Selection of Winners</strong></p>
 <p>Winners of the Challenge will be selected and announced in May 2020. The videos with highest scores from the preliminary judging panel will be considered finalists and may be passed along for further review by additional expert or &ldquo;VIP&rdquo; judges from government and industry.&nbsp; Selection of winners is ultimately at the discretion of the U.S. Census Bureau.</p>
