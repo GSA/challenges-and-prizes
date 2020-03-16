@@ -123,21 +123,20 @@ challenge-manager-email: census.accelerate@census.gov
 <li>In messaging research, young people connected with diversity and inclusion and demonstrated a deep understanding of the key messages and effects of the census.</li>
 </ul>
 </li>
-<li><strong>Consider the timing of this challenge, which will conclude in the &ldquo;reminder phase&rdquo;: </strong>When winners of this challenge are announced<strong> in May</strong>, the national census advertising campaign will be in the &ldquo;reminder&rdquo; phase.
 <ul>
-<li>The key message during this phase is that although the census will have kicked off in March, <strong>it&rsquo;s not too late to respond.</strong></li>
-<li>During the reminder phase, census-takers (officially called &ldquo;enumerators&rdquo;) will start going door-to-door to collect responses. Yet, for many people, a knock on the door by a government official may not be welcome.<strong> Message testing shows that people may be motivated to respond online knowing that it will make it less likely for a census worker to come to their door. </strong></li>
-<li>Effective messages specific to the reminder phase include:
+<li><strong>Consider the timing of this challenge, which will conclude in the &ldquo;reminder phase&rdquo;:&nbsp;</strong>When winners of this challenge are announced<strong>&nbsp;in May</strong>, the national census advertising campaign will be in the &ldquo;reminder&rdquo; phase.</li>
+<ul>
+<li>The key message during this phase is that although the census will have kicked off in March,&nbsp;<strong>it&rsquo;s not too late to respond.</strong></li>
+<li>During the reminder phase, census-takers (officially called &ldquo;enumerators&rdquo;) will start going door-to-door to collect responses. Yet, for many people, a knock on the door by a government official may not be welcome (please see <a href="https://www.census.gov/newsroom/press-releases/2020/statement-coronavirus.html">U.S. Census Bureau&rsquo;s statement on Coronavirus (COVID-1) and the 2020 Census</a>).<strong>&nbsp;</strong><strong><a href="https://www2.census.gov/programs-surveys/decennial/2020/program-management/pmr-materials/02-01-2019/pmr-cbams-comm-2019-02-01.pdf?">Message testing</a></strong><strong> from the </strong><strong><a href="https://www.census.gov/programs-surveys/decennial-census/2020-census/research-testing/communications-research/2020_cbams.html">Census Barriers, Attitudes and Motivators Study (CBAMS)</a></strong><strong> shows that people may be motivated to respond online knowing that it will make it less likely for a census worker to come to their door, if messaging includes language like &ldquo;it&rsquo;s not too late to respond&rdquo;.</strong></li>
+<li>Effective messages specific to the reminder phase include:</li>
 <ul>
 <li><strong>Convey urgency</strong>: it is important to fill out the census right away.</li>
 <li>You can still respond online today before you get a knock on the door.</li>
-<li>If you do get a knock on the door by an official census worker (who can verify their identity), answer it. <strong>Enumerators are friendly people, often from your own neighborhood, and it helps to humanize them.</strong> They are working to better the community for everyone (i.e. they are not &ldquo;coming to get you and your information&rdquo;).</li>
+<li>If you do get a knock on the door by an official census worker (who can verify their identity), answer it.&nbsp;<strong>Census takers (enumerators) are friendly people, often from your own neighborhood, and it helps to humanize them.</strong>&nbsp;They are working to better the community for everyone (i.e. they are not &ldquo;coming to get you and your information&rdquo;).</li>
 </ul>
-</li>
 </ul>
-</li>
 </ul>
-<p><strong><u>Guidance for Video Tags and Titles </u></strong></p>
+<p><strong>Guidance for Video Tags and Titles</strong></p>
 <p>Appropriately tagging and titling videos can make them more visible and discoverable, and help mitigate other content that is problematic or misinformed.&nbsp; Some suggested titles and/or tags, used by the U.S. Census Bureau and Census Partners, include:</p>
 <ul>
 <li>#2020Census</li>
@@ -145,9 +144,11 @@ challenge-manager-email: census.accelerate@census.gov
 <li>Count Us In / #countusin</li>
 <li>I Count / #icount</li>
 <li>We Count / #wecount</li>
-<li>Cuenta Conmigo / #cuentaconmigo</li>
+<li>Be Counted / #BeCounted</li>
 <li>Stand Up and Be Counted / #standupbecounted</li>
 <li>Come to Your Census / #cometoyourcensus</li>
+<li>Shape Your Future. Start Here. / #ShapeYourFuture</li>
+<li>Cuenta Conmigo / #cuentaconmigo</li>
 </ul>
 <p><strong>Terms and Conditions</strong></p>
 <p>By participating in this challenge, participants:</p>
@@ -190,7 +191,7 @@ challenge-manager-email: census.accelerate@census.gov
 </li>
 </ul>
 <ul>
-<li><strong>Ability to Reach to Hard to Count Population(s) (25%): </strong>This score focuses on the ability of the video messages to meaningfully reach hard-to-count populations. Each video <strong>must target at least one hard to count (HTC) population, </strong>such as (but not limited to): people of color, non-native English speakers, millennials/gen Z, families with young children, (please see page 2 of the <u><a href="{{ site.baseurl }}/assets/document-library/2020-Census-Resource-Guide-GOTC-Video-Prize-Challenge.pdf">Resource Guide</a></u> for a comprehensive list). The score for this category includes considerations such as:
+<li><strong>Ability to Reach to Hard to Count Population(s) (25%): </strong>This score focuses on the ability of the video messages to meaningfully reach hard-to-count populations. Each video <strong>must target at least <strong>one <a href="https://www.census.gov/newsroom/blogs/director/2018/11/counting_everyoneon.html">hard-to-count (HTC) population</a>,&nbsp;</strong>such as (but not limited to): ethnic and racial minorities, non-native English speakers, millennials/gen Z, families with young children, (please see page 2 of the <u><a href="{{ site.baseurl }}/assets/document-library/2020-Census-Resource-Guide-GOTC-Video-Prize-Challenge.pdf">Resource Guide</a></u> for a comprehensive list). The score for this category includes considerations such as:
 <ul>
 <li>Does the video effectively communicate messaging to the selected HTC group(s)?</li>
 <li>Does the video accurately utilize specific cultural, historical, or language assets to strengthen messaging?</li>
