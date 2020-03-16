@@ -223,7 +223,7 @@ challenge-manager-email: census.accelerate@census.gov
 <li>First Runner Up Prize: $10,000</li>
 <li>Student Prize: $10,000.</li>
 </ul>
- 
+ </div>
 <!--  How To Enter start -->
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
