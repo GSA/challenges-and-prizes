@@ -13,7 +13,7 @@ collections:
     label: 'Challenges'
     folder: '_challenges'
     identifier_field: 'challenge-title'
-    slug: {{challenge-id}}{{challenge-title}}
+    slug: '{{challenge-id}}-{{challenge-title}}'
     create: true
     editor:
       preview: false
