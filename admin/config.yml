@@ -12,6 +12,7 @@ collections:
   - name: 'challenges'
     label: 'Challenges'
     folder: '_challenges'
+    identifier_field: 'challenge-title'
     create: true
     editor:
       preview: false
