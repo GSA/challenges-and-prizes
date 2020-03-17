@@ -31,8 +31,8 @@ collections:
       - { label: 'external-url', name: 'external-url', widget: 'string', required: false }
       - { label: 'Total Prize Offered Cash', name: 'total-prize-offered-cash', widget: 'string', required: false }
       - { label: 'Type of Challenge', name: 'type-of-challenge', widget: 'select', options: ["Software and apps", "Creative (multimedia & design)", "Ideas", "Technology demonstration and hardware", "Nominations", "Business plans", "Analytics, visualizations, algorithms", "Scientific"] }
-      - { label: 'Submission Start)', name: 'submission-start', widget: 'string', hint: 'yyyy/mm/dd XX:XX AM/PM' }
-      - { label: 'Submission End (yyyy/mm/dd XX:XX AM/PM)', name: 'submission-end', widget: 'string' }
+      - { label: 'Submission Start', name: 'submission-start', widget: 'string', hint: 'yyyy/mm/dd XX:XX AM/PM' }
+      - { label: 'Submission End', name: 'submission-end', widget: 'string', hint: 'yyyy/mm/dd XX:XX AM/PM' }
       - { label: 'Fiscal Year (ie. FY20 or FY20, FY21)', name: 'fiscal-year', widget: 'string' }
       - { label: 'Legal Authority', name: 'legal-authority', widget: 'string' }
       - { label: 'Challenge Manager', name: 'challenge-manager', widget: 'string' }
