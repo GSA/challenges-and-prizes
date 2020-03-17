@@ -20,8 +20,8 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'string', default: "front-matter-data" }
       - { label: 'Permalink', name: 'permalink', widget: 'string', default: '/challenge/' }
       - { label: 'Challenge-ID', name: 'challenge-id', widget: 'string' }
-      - { label: 'Status', name: 'status', widget: 'boolean', default: true }
-      - { label: 'Sidenav', name: 'sidenav', widget: 'select' }
+      - { label: 'Status', name: 'status', widget: 'select', ["open", "closed"] }
+      - { label: 'Sidenav', name: 'sidenav', widget: 'boolean', default: true }
       - { label: 'Card Image', name: 'card-image', widget: 'file' }
       - { label: 'Agency Logo', name: 'agency-logo', widget: 'string' }
       - { label: 'Tagline', name: 'tagline', widget: 'string' }
@@ -34,7 +34,7 @@ collections:
       - { label: 'Submission Start', name: 'submission-start', widget: 'string', hint: 'yyyy/mm/dd XX:XX AM/PM' }
       - { label: 'Submission End', name: 'submission-end', widget: 'string', hint: 'yyyy/mm/dd XX:XX AM/PM' }
       - { label: 'Fiscal Year', name: 'fiscal-year', widget: 'string', hint: 'FY20 or FY20, FY21' }
-      - { label: 'Legal Authority', name: 'legal-authority', widget: 'string' }
+      - { label: 'Legal Authority', name: 'legal-authority', widget: 'select', ["America COMPETES Act", "Agency specific prize authority", "Procurement Authority", "Other Transaction Authority", "Grants and cooperative agreements", "Other"] }
       - { label: 'Challenge Manager', name: 'challenge-manager', widget: 'string' }
       - { label: 'Challenge Manager Email', name: 'challenge-manager-email', widget: 'string' }
       - { label: 'Challenge Point of Contact', name: 'point-of-contact', widget: 'string' }
