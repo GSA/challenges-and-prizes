@@ -20,7 +20,7 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'string', default: "front-matter-data" }
       - { label: 'Permalink', name: 'permalink', widget: 'string' }
       - { label: 'Challenge-ID', name: 'challenge-id', widget: 'string' }
-      - { label: 'Status', name: 'status', widget: 'select' options: ["open", "closed"] }
+      - { label: 'Status', name: 'status', widget: 'select', options: ["open", "closed"] }
       - { label: 'Sidenav', name: 'sidenav', widget: 'string' }
       - { label: 'Card Image', name: 'card-image', widget: 'file' }
       - { label: 'Agency Logo', name: 'agency-logo', widget: 'string' }
@@ -30,7 +30,7 @@ collections:
       - { label: 'Partner Agencies | Non-Federal', name: 'partner-agencies-non-federal', widget: 'string', required: false }
       - { label: 'external-url', name: 'external-url', widget: 'string', required: false }
       - { label: 'Total Prize Offered Cash', name: 'total-prize-offered-cash', widget: 'string', required: false }
-      - { label: 'Type of Challenge', name: 'type-of-challenge', widget: 'string' }
+      - { label: 'Type of Challenge', name: 'type-of-challenge', widget: 'select', options: ["left", "center", "right"] }
       - { label: 'Submission Start (yyyy/mm/dd XX:XX AM/PM)', name: 'submission-start', widget: 'string' }
       - { label: 'Submission End (yyyy/mm/dd XX:XX AM/PM)', name: 'submission-end', widget: 'string' }
       - { label: 'Fiscal Year (ie. FY20 or FY20, FY21)', name: 'fiscal-year', widget: 'string' }
