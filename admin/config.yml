@@ -18,7 +18,7 @@ collections:
     fields:
       - { label: 'Challenge Title', name: 'challenge-title', widget: 'string' }
       - { label: 'Layout', name: 'layout', widget: 'string', default: "front-matter-data" }
-      - { label: 'Permalink', name: 'permalink', widget: 'string' }
+      - { label: 'Permalink', name: 'permalink', widget: 'string', default: '/challenge/' }
       - { label: 'Challenge-ID', name: 'challenge-id', widget: 'string' }
       - { label: 'Status', name: 'status', widget: 'boolean', default: true }
       - { label: 'Sidenav', name: 'sidenav', widget: 'select' }
