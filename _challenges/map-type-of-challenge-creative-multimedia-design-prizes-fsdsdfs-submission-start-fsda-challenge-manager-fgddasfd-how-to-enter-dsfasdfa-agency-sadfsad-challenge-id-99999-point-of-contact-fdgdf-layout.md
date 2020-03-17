@@ -17,10 +17,12 @@ legal-authority: Agency specific prize authority
 challenge-manager: fgddasfd
 challenge-manager-email: gdfgdf
 point-of-contact: fdgdf
-description: |-
+description: >-
+  Hello, this is my test description. Here is a
+  \[link](/assets/images/octocat-coffee.png)
 
 
-  ![OctoCat holding coffee mug](/assets/images/octocat-coffee.png "TEST Image")
+  ![OctoCat holding coffee mug](/assets/images/octocat-coffee.png)
 prizes: fsdsdfs
 rules: fdsfsdfd
 judging: sdfsdsdf
