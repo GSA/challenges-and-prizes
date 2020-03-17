@@ -43,7 +43,7 @@ collections:
           label: 'Description',
           name: 'description',
           widget: 'markdown',
-          media_folder: 
+          media_folder: ,
             config: '/{{media_folder}}/challenge-content/' 
         }
       - { label: 'Prizes', name: 'prizes', widget: 'markdown' }
