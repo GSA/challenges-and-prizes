@@ -19,7 +19,7 @@ challenge-manager-email: gdfgdf
 point-of-contact: fdgdf
 description: >-
   Hello, this is my test description. Here is a
-  \[link](/assets/images/octocat-coffee.png)
+  [link](/assets/images/octocat-coffee.png)
 
 
   ![OctoCat holding coffee mug](/assets/images/octocat-coffee.png)
