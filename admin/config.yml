@@ -13,6 +13,7 @@ collections:
     label: 'Challenges'
     folder: '_challenges'
     identifier_field: 'challenge-title'
+    slug: {{item.challenge-id}}{{item.challenge-title | slugify}}
     create: true
     editor:
       preview: false
