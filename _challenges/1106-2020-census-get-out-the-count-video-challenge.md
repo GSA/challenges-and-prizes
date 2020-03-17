@@ -64,12 +64,12 @@ challenge-manager-email: census.accelerate@census.gov
 <p><strong>Eligibility</strong></p>
 <p><u>Video eligibility:</u></p>
 <p>To be eligible to participate in the Challenge, the applicant must submit a video that meets the following requirements:</p>
-    <ul>
-        <li>Be 30 seconds to 3 minutes in length;</li>
-        <li>Be in a compatible YouTube format with the proper codecs: WebM files, MPEG4, 3GPP, MOV, AVI, MPEGPS, WMV, FLV with suggested aspect of 16:9;</li>
-        <li>Be fact-based and contain no misleading or false information;</li>
-        <li>Must include all elements of the submission requirements described above, including video link, team information, and video information. Videos or descriptions exceeding the length requirements or submitted after the stated deadline may not be reviewed.</li>
-    </ul>
+<ul>
+<li>Be 30 seconds to 3 minutes in length;</li>
+<li>Be in a compatible YouTube format with the proper codecs: WebM files, MPEG4, 3GPP, MOV, AVI, MPEGPS, WMV, FLV with suggested aspect of 16:9;</li>
+<li>Be fact-based and contain no misleading or false information;</li>
+<li>Must include all elements of the submission requirements described above, including video link, team information, and video information. Videos or descriptions exceeding the length requirements or submitted after the stated deadline may not be reviewed.</li>
+</ul>
 <p><u>Applicant eligibility: </u></p>
 <p>This video prize challenge is open to any individual, team, or university student/student organization that can create a video that meets all of the requirements of this challenge. To be eligible to win a prize under the Challenge, those entering: (1) Must agree to participate in the competition under the rules and abide by the terms and conditions in this notice by submission of their contact information, video link, and video description; (2) Must comply with all submission, content, and format requirements.</p>
 <p>Each individual, team, or student may submit more than one video to this Challenge. Multiple submissions from the same source will not be disqualified and will not be judged any differently than the rest of the videos that are submitted. Only videos that fulfill all necessary requirements and are submitted by the deadline will be accepted into the competition.</p>
