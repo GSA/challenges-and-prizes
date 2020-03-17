@@ -20,7 +20,7 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'string', default: "front-matter-data" }
       - { label: 'Permalink', name: 'permalink', widget: 'string' }
       - { label: 'Challenge-ID', name: 'challenge-id', widget: 'string' }
-      - { label: 'Status', name: 'status', widget: 'string' }
+      - { label: 'Status', name: 'status', widget: 'select' options: ["open", "closed"] }
       - { label: 'Sidenav', name: 'sidenav', widget: 'string' }
       - { label: 'Card Image', name: 'card-image', widget: 'file' }
       - { label: 'Agency Logo', name: 'agency-logo', widget: 'string' }
