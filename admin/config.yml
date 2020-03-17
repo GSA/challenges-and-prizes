@@ -7,7 +7,7 @@ backend:
   preview_context: federalist/build
   use_graphql: true
   publish_mode: editorial_workflow
-media_folder: 'assets/images/challenge-content'
+media_folder: 'assets/images'
 collections:
   - name: 'challenges'
     label: 'Challenges'
@@ -22,7 +22,7 @@ collections:
       - { label: 'Challenge-ID', name: 'challenge-id', widget: 'string' }
       - { label: 'Status', name: 'status', widget: 'select', options: ["open", "closed"] }
       - { label: 'Sidenav', name: 'sidenav', widget: 'boolean', default: true }
-      - { label: 'Card Image', name: 'card-image', widget: 'image', media_folder: '/assets/images/cards/' }
+      - { label: 'Card Image', name: 'card-image', widget: 'image', media_folder: '/{{media_folder}}/cards/' }
       - { label: 'Agency Logo', name: 'agency-logo', widget: 'image', media_folder: '/{{media_folder}}/agency/' }
       - { label: 'Tagline', name: 'tagline', widget: 'string' }
       - { label: 'Agency', name: 'agency', widget: 'string' }
@@ -39,7 +39,13 @@ collections:
       - { label: 'Challenge Manager Email', name: 'challenge-manager-email', widget: 'string' }
       - { label: 'Challenge Point of Contact', name: 'point-of-contact', widget: 'string' }
       - { label: 'Body Content Uploads', name: 'agency-logo', widget: 'file', media_folder: '/{{media_folder}}/challenge-content/' }
-      - { label: 'Description', name: 'description', widget: 'markdown', media_folder: '/{{media_folder}}/' }
+      - { 
+          label: 'Description',
+          name: 'description',
+          widget: 'markdown',
+          media_folder: 
+            config: '/{{media_folder}}/challenge-content/' 
+        }
       - { label: 'Prizes', name: 'prizes', widget: 'markdown' }
       - { label: 'Rules', name: 'rules', widget: 'markdown' }
       - { label: 'Judging', name: 'judging', widget: 'markdown' }
