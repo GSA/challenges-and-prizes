@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/marine-corps-ground-sensor-challenge/
 challenge-id: 1093
-status: open
+status: closed
 sidenav: false
 card-image: /assets/images/cards/USMC_ground_sensors.png
 agency-logo: dod_seal.jpg
@@ -14,8 +14,8 @@ partners-non-federal:
 external-url: https://innovatedefense.net/usmc/ground-sensor
 total-prize-offered-cash:
 type-of-challenge: Ideas
-submission-start: 2020/02/07 12:00 AM ET
-submission-end: 2020/03/15 11:59 PM ET
+submission-start: 02/07/2020 12:00 AM ET
+submission-end: 03/15/2020 11:59 PM ET
 submission-link:
 prizes: true
 fiscal-year: FY20
