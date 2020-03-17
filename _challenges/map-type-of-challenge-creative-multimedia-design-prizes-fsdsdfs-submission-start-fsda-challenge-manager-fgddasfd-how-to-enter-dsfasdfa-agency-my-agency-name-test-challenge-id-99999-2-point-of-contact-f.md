@@ -1,7 +1,7 @@
 ---
 challenge-title: TEST Challenge SG-2
 layout: front-matter-data-expanded
-permalink: /challenge/sg-test-challenge/
+permalink: /challenge/sg-test-challenge-2/
 challenge-id: 99999-2
 status: open
 sidenav: true
