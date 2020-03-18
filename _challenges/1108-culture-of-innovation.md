@@ -21,6 +21,6 @@ prizes: true
 fiscal-year: FY20
 legal-authority: DOD Prize Authority
 challenge-manager: Heather Renze, heather.renze.ctr@afwerx.af.mil
-challenge-manager-email: (will display in the Point of Contact field)
+challenge-manager-email: support@afwerx.af.mil
 ---
 
