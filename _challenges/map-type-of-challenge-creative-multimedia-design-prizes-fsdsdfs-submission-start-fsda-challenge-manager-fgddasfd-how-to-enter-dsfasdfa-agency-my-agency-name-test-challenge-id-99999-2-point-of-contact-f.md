@@ -5,8 +5,8 @@ permalink: /challenge/sg-test-challenge-2/
 challenge-id: 99999-2
 status: open
 sidenav: true
-card-image: /assets/images/challenge-gov.png
-agency-logo: /assets/images/1198px-US-GeneralServicesAdministration-Logo.png
+card-image: /assets/images/AI-ATAC-AI-logo.png
+agency-logo: /assets/images/256px-Environmental_Protection_Agency_logo.png
 tagline: fdsaasd
 agency: My Agency Name - TEST
 type-of-challenge: Creative (multimedia & design)
