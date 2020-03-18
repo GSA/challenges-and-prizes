@@ -3,13 +3,13 @@ layout: front-matter-data
 permalink: /challenge/culture-of-innovation/
 challenge-id: 1108
 status: open
-sidenav: true (false for challenges that are only external)
+sidenav: false
 card-image: /assets/images/cards/AFWERX-Innovation.png
 agency-logo: dod_seal.jpg
 challenge-title: The Culture of Innovation
 tagline: Help us create the base of the future!
 agency: Department of Defense - U.S. Air Force
-partner-agencies-federal:
+partner-agencies-federal: AFWERX
 partners-non-federal:
 external-url: https://afwerxchallenge.com/baseofthefuture/cultureofinnovation
 total-prize-offered-cash:
