@@ -6,7 +6,7 @@ challenge-id: 99999-2
 status: open
 sidenav: true
 card-image: /assets/images/octocat-coffee.png
-agency-logo: /assets/images/octocat-coffee.png
+agency-logo: /assets/images/1198px-US-GeneralServicesAdministration-Logo.png
 tagline: fdsaasd
 agency: My Agency Name - TEST
 type-of-challenge: Creative (multimedia & design)
