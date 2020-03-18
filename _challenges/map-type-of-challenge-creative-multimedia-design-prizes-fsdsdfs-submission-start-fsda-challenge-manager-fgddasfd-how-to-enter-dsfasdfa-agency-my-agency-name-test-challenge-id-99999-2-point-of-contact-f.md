@@ -6,7 +6,8 @@ challenge-id: 99999-2
 status: open
 sidenav: true
 card-image: /assets/images/AI-ATAC-AI-logo.png
-agency-logo: /assets/images/256px-Environmental_Protection_Agency_logo.png
+agency-logo: >-
+  assets/images/agency/200px-Intelligence_Advanced_Research_Projects_Activity_logo.png
 tagline: fdsaasd
 agency: My Agency Name - TEST
 type-of-challenge: Creative (multimedia & design)
