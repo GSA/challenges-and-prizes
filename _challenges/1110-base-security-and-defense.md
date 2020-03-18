@@ -11,7 +11,7 @@ tagline: Help us create the base of the future!
 agency: Department of Defense - Air Force
 partner-agencies-federal: AFWERX
 partners-non-federal:
-external-url: 
+external-url: https://afwerxchallenge.com/botf
 total-prize-offered-cash:
 type-of-challenge: Technology demonstration and hardware
 submission-start: 2020/03/10 09:00 AM
@@ -20,6 +20,6 @@ submission-link:
 prizes: true
 fiscal-year: FY20
 legal-authority: Agency specific prize authority
-challenge-manager: Heather Renze
-challenge-manager-email: heather.renze.ctr@afwerx.af.mil
+challenge-manager: Heather Renze, heather.renze.ctr@afwerx.af.mil
+challenge-manager-email: 
 ---
