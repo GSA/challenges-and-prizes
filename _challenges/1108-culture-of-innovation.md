@@ -11,7 +11,7 @@ tagline: Help us create the base of the future!
 agency: Department of Defense - U.S. Air Force
 partner-agencies-federal: AFWERX
 partners-non-federal:
-external-url: https://afwerxchallenge.com/baseofthefuture/cultureofinnovation
+external-url: https://afwerxchallenge.com/botf
 total-prize-offered-cash:
 type-of-challenge: Technology demonstration and hardware
 submission-start: 2020/03/10 9 a.m.
