@@ -21,11 +21,7 @@ point-of-contact: stephanie.green@gsa.gov
 ---
 ### Description
 
-
-
 Fish and [water infrastructure](https://www.example.com) are not natural bedfellows. 
-
-
 
 #### Key Dates
 
@@ -36,3 +32,21 @@ Fish and [water infrastructure](https://www.example.com) are not natural bedfell
 * INCUBATE Stage Winner Notification: Anticipated August 30, 2020
 * PITCH Contest and Awards: Anticipated September 2, 2020
 * Winners Announced: Anticipated September 2020
+
+
+
+### Prizes
+
+The xTechSearch program will also strives to integrate these small businesses into the Army’s S&T ecosystem by providing research opportunities with Army labs, including authorized access to the Army’s organic intellectual and technical capital. Every small business idea submitted will receive detailed operational and technical feedback from Army stakeholders. Participating companies will have access to training, mentorship and other support infrastructure as they progress through the contest to determine how best to align their technology solutions with real users and buyers within the Army. Finalists will be entered into the xTech Accelerator to receive intensive mentorship and access to networking events to help grow their companies for Army and commercial users. xTechSearch is an opportunity for businesses to pitch novel technology solutions – a new application for an existing technology or an entirely new technology concept – to the Army.
+
+### Rules
+
+The xTechSearch program will also strives to integrate these small businesses into the Army’s S&T ecosystem by providing research opportunities with Army labs, including authorized access to the Army’s organic intellectual and technical capital. Every small business idea submitted will receive detailed operational and technical feedback from Army stakeholders. Participating companies will have access to training, mentorship and other support infrastructure as they progress through the contest to determine how best to align their technology solutions with real users and buyers within the Army. Finalists will be entered into the xTech Accelerator to receive intensive mentorship and access to networking events to help grow their companies for Army and commercial users. xTechSearch is an opportunity for businesses to pitch novel technology solutions – a new application for an existing technology or an entirely new technology concept – to the Army.
+
+### Judging Criteria
+
+The xTechSearch program will also strives to integrate these small businesses into the Army’s S&T ecosystem by providing research opportunities with Army labs, including authorized access to the Army’s organic intellectual and technical capital. Every small business idea submitted will receive detailed operational and technical feedback from Army stakeholders. Participating companies will have access to training, mentorship and other support infrastructure as they progress through the contest to determine how best to align their technology solutions with real users and buyers within the Army. Finalists will be entered into the xTech Accelerator to receive intensive mentorship and access to networking events to help grow their companies for Army and commercial users. xTechSearch is an opportunity for businesses to pitch novel technology solutions – a new application for an existing technology or an entirely new technology concept – to the Army.
+
+### How To Enter
+
+The xTechSearch program will also strives to integrate these small businesses into the Army’s S&T ecosystem by providing research opportunities with Army labs, including authorized access to the Army’s organic intellectual and technical capital. Every small business idea submitted will receive detailed operational and technical feedback from Army stakeholders. Participating companies will have access to training, mentorship and other support infrastructure as they progress through the contest to determine how best to align their technology solutions with real users and buyers within the Army. Finalists will be entered into the xTech Accelerator to receive intensive mentorship and access to networking events to help grow their companies for Army and commercial users. xTechSearch is an opportunity for businesses to pitch novel technology solutions – a new application for an existing technology or an entirely new technology concept – to the Army.
