@@ -24,7 +24,7 @@ description: |-
 prizes: |-
   fsdsdfs
 
-  ![My alt text](assets/images/crowd.jpg)
+  ![My alt text](assets/images/edit-a-thon.jpg)
 rules: fdsfsdfd
 judging: sdfsdsdf
 how-to-enter: dsfasdfa
