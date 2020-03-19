@@ -5,7 +5,7 @@ permalink: /challenge/sg-test-challenge-2/
 challenge-id: 99999-2
 status: open
 sidenav: true
-card-image: assets/images/community.jpg
+card-image: assets/images/citscilogo.jpg
 agency-logo: assets/images/agency/hero-flag.jpg
 tagline: fdsaasd
 agency: My Agency Name - TEST
