@@ -1,6 +1,6 @@
 ---
 challenge-title: Another New Challenge
-layout: front-matter-data-netlify
+layout: front-matter-data-expanded
 permalink: /challenge/another-new-challenge/
 challenge-id: 00990011
 status: open
@@ -18,6 +18,32 @@ legal-authority: Procurement Authority
 challenge-manager: stephanie green
 challenge-manager-email: stephanie.green@gsa.gov
 point-of-contact: stephanie.green@gsa.gov
+body-content-uploads: /assets/images/hire-us.jpg
+description: >-
+  Fish and [water infrastructure](https://www.example.com) are not natural
+  bedfellows. 
+
+
+  #### Key Dates
+
+
+  * Submission Open: January 27, 2020
+
+  * Submission Close: April 24, 2020
+
+  * Judging and Review Complete: Anticipated May 22, 2020
+
+  * CONCEPT Stage Winner Notification: Anticipated May 22, 2020
+
+  * INCUBATE Stage Winner Notification: Anticipated August 30, 2020
+
+  * PITCH Contest and Awards: Anticipated September 2, 2020
+
+  * Winners Announced: Anticipated September 2020
+prizes: f
+rules: f
+judging: f
+how-to-enter: f
 ---
 ### Description
 
