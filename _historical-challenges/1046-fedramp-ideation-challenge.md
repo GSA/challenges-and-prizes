@@ -17,7 +17,7 @@ type-of-challenge: Ideas
 submission-start: 07/24/2019 11:00 AM
 submission-end: 08/22/2019 05:00 PM
 submission-link: https://www.fedramp.gov/challenge
-prizes: false
+prize: false
 legal-authority: NA
 fiscal-year: FY19
 challenge-manager: Janelle Thalls

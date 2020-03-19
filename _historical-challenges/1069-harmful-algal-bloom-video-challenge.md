@@ -17,7 +17,7 @@ type-of-challenge: Creative (multimedia and design), scientific
 submission-start: 09/19/2019 11:00 AM
 submission-end: 01/03/2020 11:00 PM
 submission-link: 
-prizes: true
+prize: true
 fiscal-year: FY19, FY20
 legal-authority: Necessary Expense Doctrine and CWA 104
 challenge-manager: Jennifer Kissel, Kissel.Jennifer@epa.gov

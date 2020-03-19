@@ -17,7 +17,7 @@ type-of-challenge: Scientific
 submission-start: 02/22/2017 12:00 AM
 submission-end: 05/22/2017 12:00 AM
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: FY17
 legal-authority: America COMPETES
 challenge-manager: Sean Kimbrel

@@ -17,7 +17,7 @@ type-of-challenge:  Software and apps; Analytics, visualizations and algorithms;
 submission-start: 07/22/2019 12:00 AM
 submission-end: 09/05/2019 12:00 AM
 submission-link: 
-prizes: false
+prize: false
 legal-authority: America COMPETES Act
 fiscal-year: FY19
 challenge-manager: CDR Tom Parker

@@ -17,7 +17,7 @@ type-of-challenge: Analytics, visualizations, algorithms
 submission-start: 06/14/2018 10:00 AM
 submission-end: 07/31/2018 11:59 PM
 submission-link:
-prizes: true
+prize: true
 fiscal-year: FY18
 legal-authority: America Competes Act
 challenge-manager: Jordan Riddle, jordan.riddle.ctr@dot.gov

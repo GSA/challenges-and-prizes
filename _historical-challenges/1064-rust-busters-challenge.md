@@ -17,7 +17,7 @@ type-of-challenge: Technology demonstration and hardware
 submission-start: 9/16/2019 12:00 PM
 submission-end: 01/16/2020 08:00 PM 
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: FY19, FY20, FY21
 legal-authority: Other
 challenge-manager: Kyla Jeffrey

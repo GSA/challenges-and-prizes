@@ -17,7 +17,7 @@ type-of-challenge: Business Plans
 submission-start: 05/21/2019 12:00 PM
 submission-end: 07/08/2019 11:59 PM
 submission-link:  https://www.sba.gov/match?utm_source=govdelivery&utm_medium=email&utm_campaign=makerspace_challenge
-prizes: true
+prize: true
 ---
 
 <h3>Winners Announced</h3>

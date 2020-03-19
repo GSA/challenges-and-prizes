@@ -17,7 +17,7 @@ type-of-challenge: Scientific
 submission-start: 2019/9/17 06:00 PM 
 submission-end: 2020/11/30 06:00 PM 
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: FY20
 legal-authority: Space Act
 challenge-manager: Monsi Roman, monsi.roman@nasa.gov

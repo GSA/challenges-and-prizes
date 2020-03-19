@@ -17,7 +17,7 @@ type-of-challenge: Scientific
 submission-start: 03/01/2018 12:00 AM 
 submission-end: 02/28/2019 11:59 PM 
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: 2019
 legal-authority: America COMPETES Act
 challenge-manager: Denice Shaw

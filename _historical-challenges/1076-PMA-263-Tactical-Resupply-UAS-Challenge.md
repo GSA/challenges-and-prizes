@@ -17,7 +17,7 @@ type-of-challenge: Technology
 submission-start: 09/27/2019 08:00 AM
 submission-end: 10/18/2019 11:59 PM
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: FY19, FY20
 legal-authority: DOD - Direct Prize Authority
 challenge-manager: Christina Petrow

@@ -17,7 +17,7 @@ type-of-challenge: Software and apps; Scientific
 submission-start: 08/12/2019 10:00 AM
 submission-end: 12/20/2019 6:00 PM
 submission-link: www.spaceroboticschallenge.com
-prizes: true
+prize: true
 fiscal-year: FY19, FY20, FY21
 legal-authority: Space Act
 challenge-manager: Monsi Roman

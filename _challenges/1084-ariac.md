@@ -17,7 +17,7 @@ type-of-challenge: Software and apps
 submission-start: 2020/01/27
 submission-end: 2020/05/10
 submission-link:
-prizes: true
+prize: true
 fiscal-year: FY20
 legal-authority: America COMPETES Act
 challenge-manager: Craig Schlenoff, craig.schlenoff@nist.gov

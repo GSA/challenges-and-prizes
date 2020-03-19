@@ -17,7 +17,7 @@ type-of-challenge: Software and apps, creative (multimedia and design)
 submission-start: 09/23/2019 09:00 AM
 submission-end: 11/01/2019 11:59 PM
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: FY19, FY20
 legal-authority: America COMPETES
 challenge-manager: Drew Zachary (primary) and Dominica Zhu (secondary), Drew.a.zachary@census.gov and dominica.zhu@census.gov

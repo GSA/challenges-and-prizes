@@ -17,7 +17,7 @@ type-of-challenge: Scientific
 submission-start: 2016/06/13 12:00 AM
 submission-end: 09/30/2019 11:00 PM
 submission-link: scientific
-prizes: true
+prize: true
 fiscal-year:
 legal-authority:
 challenge-manager: Monsi Roman, monsi.roman@nasa.gov

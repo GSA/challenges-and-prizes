@@ -17,7 +17,7 @@ type-of-challenge: Ideas
 submission-start: 03/29/2017 12:00 PM
 submission-end: 05/03/2017 05:00 PM
 submission-link: https://herox.com/NISTvr
-prizes: true
+prize: true
 fiscal-year: FY17
 legal-authority: America COMPETES
 challenge-manager: Tammi Marcoullier

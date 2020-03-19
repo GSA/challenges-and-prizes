@@ -17,7 +17,7 @@ type-of-challenge: Ideation, Technology Demonstration/Hardware
 submission-start: 2020/01/27 8 a.m.
 submission-end: 2020/04/24 5 p.m.
 submission-link: https://americanmadechallenges.org/fishprotection
-prizes: true
+prize: true
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES
 challenge-manager: Jennifer Garson, Jennifer.Garson@ee.doe.gov

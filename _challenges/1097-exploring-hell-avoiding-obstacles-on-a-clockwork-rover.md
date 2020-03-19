@@ -17,7 +17,7 @@ type-of-challenge: Technology demonstration and hardware
 submission-start: 2020/02/18 09:00 AM
 submission-end: 2020/05/29 05:00 PM
 submission-link:
-prizes: true
+prize: true
 fiscal-year: FY20
 legal-authority: Other
 challenge-manager: Sarah Schlieder, sarah.e.schlieder@nasa.gov

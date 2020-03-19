@@ -17,7 +17,7 @@ type-of-challenge: Software/Apps
 submission-start: 12/21/2016 12:00 AM
 submission-end: 05/03/2018 12:00 AM
 submission-link: https://www.innocentive.com/ar/challenge/9933764
-prizes: true
+prize: true
 fiscal-year: FY17
 legal-authority: America COMPETES
 challenge-manager: Ken Nowak

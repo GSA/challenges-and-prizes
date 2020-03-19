@@ -17,7 +17,7 @@ type-of-challenge: Software/Apps
 submission-start: 09/28/2016 12:00 AM
 submission-end: 05/15/2017 05:00 PM
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: 2016
 legal-authority: America COMPETES
 challenge-manager: Jared Smith

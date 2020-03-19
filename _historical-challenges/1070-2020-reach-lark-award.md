@@ -17,7 +17,7 @@ type-of-challenge: Nominations
 submission-start: 12/01/2019 12:00 AM 
 submission-end: 02/14/2020 11:59 PM 
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: FY19, FY20
 legal-authority: America COMPETES Act
 challenge-manager: Delia Sikes, wuy5@cdc.gov

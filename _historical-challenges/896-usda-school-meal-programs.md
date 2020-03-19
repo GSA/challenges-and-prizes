@@ -17,7 +17,7 @@ type-of-challenge: ideas
 submission-start: 05/04/2017 10:00 AM
 submission-end: 06/15/2017 02:00 PM
 submission-link:  
-prizes: true
+prize: true
 fiscal-year:
 legal-authority: America COMPETES
 challenge-manager: Janis Johnston

@@ -17,7 +17,7 @@ type-of-challenge: Software and apps
 submission-start: 2020/04/20 12:00 PM
 submission-end: 2020/08/21 05:00 PM
 submission-link:
-prizes: true
+prize: true
 fiscal-year: FY20
 legal-authority: America COMPETES Act
 challenge-manager: Ami Patel

@@ -17,7 +17,7 @@ type-of-challenge:
 submission-start: 03/01/2019 12:00 AM
 submission-end: 07/15/2019 11:59 PM
 submission-link: https://tongal.com/project/Cinespace2019/
-prizes: true
+prize: true
 ---
 
 

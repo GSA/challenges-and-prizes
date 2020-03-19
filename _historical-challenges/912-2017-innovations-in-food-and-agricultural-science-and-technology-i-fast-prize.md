@@ -17,7 +17,7 @@ type-of-challenge: ideas
 submission-start: 09/15/2017 10:00 AM
 submission-end: 10/06/2017 12:00 AM
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: FY17
 legal-authority: America COMPETES
 challenge-manager: Scott Dockum

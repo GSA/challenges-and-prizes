@@ -17,7 +17,7 @@ type-of-challenge: Ideas
 submission-start: 2016/08/29 01:01 AM
 submission-end: 2016/10/11 11:59 PM
 submission-link: https://www.innocentive.com/ar/challenge/9933763
-prizes: true
+prize: true
 fiscal-year: FY16
 legal-authority: America COMPETES
 challenge-manager: Chuck Hennig

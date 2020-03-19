@@ -17,7 +17,7 @@ type-of-challenge: Scientific
 submission-start: 09/27/2016 12:00 PM
 submission-end: 01/26/2017 11:59 PM
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: 2017
 legal-authority: Other
 challenge-manager: Kevin Kuhn

@@ -17,7 +17,7 @@ type-of-challenge: Creative (design & multimedia)
 submission-start: 09/07/2017 12:00 AM
 submission-end: 11/17/2017 12:00 AM
 submission-link: https://www.innocentive.com/ar/challenge/9933882
-prizes: true
+prize: true
 fiscal-year: FY17
 legal-authority: America COMPETES
 challenge-manager: Allison Danner

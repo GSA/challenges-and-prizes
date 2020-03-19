@@ -17,7 +17,7 @@ type-of-challenge: Software and apps
 submission-start: 01/02/2018 05:00 PM
 submission-end: 01/29/2018 09:00 PM
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: FY18
 legal-authority: America COMPETES
 challenge-manager: Craig Connelly

@@ -17,7 +17,7 @@ type-of-challenge: Software and apps
 submission-start: 03/27/2019 12:00 AM
 submission-end: 06/28/2019 05:00 PM
 submission-link: https://www.ahrq.gov/predictive-analytics-challenge
-prizes: true
+prize: true
 ---
 
 

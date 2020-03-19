@@ -17,7 +17,7 @@ type-of-challenge: Analytics, visualizations, algorithms
 submission-start: 2020/02/28 8 a.m.
 submission-end: 2020/08/28 12 p.m.
 submission-link:
-prizes: true
+prize: true
 fiscal-year: FY20
 legal-authority: America COMPETES
 challenge-manager: Laura Hsu, laura.hsu@nih.gov

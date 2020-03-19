@@ -17,7 +17,7 @@ type-of-challenge: Software and apps; Ideas; Virtual Reality; Analytics, Visuali
 submission-start: 09/10/2019 04:00 AM
 submission-end: 10/18/2019 12:59 AM
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: FY19
 legal-authority: America COMPETES Act
 challenge-manager: Steve Werner

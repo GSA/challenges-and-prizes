@@ -17,7 +17,7 @@ type-of-challenge: Software and apps
 submission-start: 03/07/2019 12:00 AM
 submission-end: 06/07/2019 05:00 PM
 submission-link: https://www.ahrq.gov/sdoh-challenge/index.html
-prizes: true
+prize: true
 ---
 <!-- Description start -->
 ### Description

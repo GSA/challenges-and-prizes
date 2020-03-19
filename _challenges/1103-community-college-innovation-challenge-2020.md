@@ -17,7 +17,7 @@ type-of-challenge: Ideas, scientific
 submission-start: 2020/01/16 9 a.m.
 submission-end: 2020/04/24 11:59 p.m.
 submission-link:
-prizes: true
+prize: true
 fiscal-year: FY20
 legal-authority: Grants and Cooperative Agreements
 challenge-manager: Kim Nelson, knelson@nsf.gov, and Ellen Hause, ehause@aacc.nche.edu
