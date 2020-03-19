@@ -15,7 +15,7 @@ external-url: http://www.aaccinnovationchallenge.com
 total-prize-offered-cash:
 type-of-challenge: Ideas, scientific
 submission-start: 2020/01/16 9 a.m.
-submission-end: 2020/03/31 11:59 p.m.
+submission-end: 2020/04/24 11:59 p.m.
 submission-link:
 prize: true
 fiscal-year: FY20
@@ -29,6 +29,12 @@ challenge-manager-email: ccic@aacc.nche.edu
 <!-- Description start -->
 ### Description
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
+**DEADLINE EXTENDED UNTIL APRIL 24, 2020. AN IMPORTANT MESSAGE ABOUT THE CCIC.**
+
+If you are a part of a team that is still interested in participating in the CCIC and the closures on your campus and/or in your community will prevent you from submitting a complete application by April 24, 2020, please contact the challenge team at ccic@aacc.nche.edu. 
+
+At this time, the CCIC Boot Camp is tentatively scheduled for June 2020. The CCIC team will continue to make any updates based on guidance from the Centers for Disease Control and the World Health Organization. In the meantime, please email ccic@aacc.nche.edu s with any questions.
 
 The Community College Innovation Challenge (CCIC) is sponsored by the
 National Science Foundation (NSF) and the American Association of Community

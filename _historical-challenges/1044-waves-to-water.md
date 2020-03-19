@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/waves-to-water-prize/
 challenge-id: 1044
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/Waves_to_Water_341x160.jpg
 agency-logo: 256px-Seal_of_the_United_States_Department_of_Energy.png
@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $2,500,000
 type-of-challenge: Technology demonstration / hardware
-submission-start: 2019/11/14 3:00 PM 
-submission-end: 2020/03/13 11:59 PM 
+submission-start: 11/14/2019 3:00 PM 
+submission-end: 03/13/2020 11:59 PM 
 submission-link: https://americanmadechallenges.org/wavestowater/ 
 prize: true
 fiscal-year: FY19, FY20, FY21

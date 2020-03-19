@@ -95,6 +95,16 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
 <li>Vet It</li>
 </ul>
 
+<h4>Phase II &ndash; Enhanced Wireframe Top 5 Scorers Advancing to Phase III (cash prize of $20,000 each) in alphabetical order:</h4>
+
+<ul>
+<li>Eightfold</li>
+<li>LinkedIn</li>
+<li>Square Peg Hires</li>
+<li>Vantage Point</li>
+<li>Vet It</li>
+</ul>
+
 <!-- Rules start -->
 ### Rules 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
