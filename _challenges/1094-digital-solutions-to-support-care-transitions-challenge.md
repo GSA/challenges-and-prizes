@@ -17,7 +17,7 @@ type-of-challenge: Software and apps
 submission-start: 2020/02/10 05:00 PM
 submission-end: 2020/11/20 05:00 PM
 submission-link:
-prizes: true
+prize: true
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Susan Kerin, susank@capconcorp.com

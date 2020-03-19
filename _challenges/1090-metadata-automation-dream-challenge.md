@@ -17,7 +17,7 @@ type-of-challenge: Scientific
 submission-start: 2020/01/14
 submission-end: 2020/04/24
 submission-link: 
-prizes: true
+prize: true
 fiscal-year: FY20
 legal-authority: Grants Authority
 challenge-manager: Dr. Eric M. Johnson Chavarria, emjchavarria@synapse.org

@@ -17,7 +17,7 @@ type-of-challenge: Nominations
 submission-start: 2020/02/21 12:00 AM
 submission-end: 2020/04/06 11:59 PM
 submission-link:
-prizes: true
+prize: true
 fiscal-year: FY20
 legal-authority: America COMPETES Act
 challenge-manager: Andrea Neiman

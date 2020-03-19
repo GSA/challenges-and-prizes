@@ -17,7 +17,7 @@ type-of-challenge: Software/Apps
 submission-start: 2016/06/02 12:00 AM
 submission-end: 2016/11/07 02:00 PM
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: 2016
 legal-authority: America COMPETES Act
 challenge-manager: Adam Wong

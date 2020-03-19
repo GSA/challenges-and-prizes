@@ -17,7 +17,7 @@ type-of-challenge: Analytics, visualizations and algorithms
 submission-start: 12/09/2019 09:00 AM 
 submission-end: 03/02/2020 11:59 PM
 submission-link:
-prizes: true
+prize: true
 fiscal-year: FY20
 legal-authority: Clean Air Act Section 103
 challenge-manager: Justine Huetteman, huetteman.justine@epa.gov

@@ -17,7 +17,7 @@ type-of-challenge: Scientific
 submission-start: 12/10/2016 12:00 AM
 submission-end: 05/15/2017 11:59 PM
 submission-link: 
-prizes: true
+prize: true
 fiscal-year: 2017
 legal-authority: America COMPETES
 challenge-manager: Kathy Jung

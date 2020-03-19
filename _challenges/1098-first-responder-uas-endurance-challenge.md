@@ -17,7 +17,7 @@ type-of-challenge: Technology demonstration and hardware
 submission-start: 2020/04/01 09:00 AM
 submission-end: 2020/04/30 09:00 PM
 submission-link:
-prizes: true
+prize: true
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Terese Manley, terese.manley@nist.gov

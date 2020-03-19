@@ -17,7 +17,7 @@ type-of-challenge:  Ideas
 submission-start: 
 submission-end: 05/24/2019 5:00 PM
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: FY19
 legal-authority: America COMPETES
 challenge-manager: Amira Boland

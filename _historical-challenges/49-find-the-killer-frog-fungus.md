@@ -17,7 +17,7 @@ type-of-challenge: Creative (design & multimedia)
 submission-start: 06/12/2018 12:00 AM
 submission-end: 10/01/2019 12:00 AM
 submission-link:  https://conservationx.com/challenge/invasives/chytrid
-prizes: true
+prize: true
 fiscal-year: FY18, FY19, FY20
 legal-authority:
 challenge-manager: Jeffrey Morisette, jeffrey_morisette@ios.doi.gov

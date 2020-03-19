@@ -17,7 +17,7 @@ type-of-challenge: Scientific
 submission-start: 12/18/2017 10:00 AM 
 submission-end: 07/26/2019 11:59 PM
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: FY18-FY19
 legal-authority: Other
 challenge-manager: Maggie Theroux

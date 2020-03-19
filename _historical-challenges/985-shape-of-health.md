@@ -17,7 +17,7 @@ type-of-challenge:  Software and apps
 submission-start: 01/31/2019 12:00 AM
 submission-end: 04/07/2019 11:59 PM
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: FY19
 legal-authority: America COMPETES
 challenge-manager: Ann Abercrombie

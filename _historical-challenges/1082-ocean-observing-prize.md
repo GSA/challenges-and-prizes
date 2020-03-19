@@ -17,7 +17,7 @@ type-of-challenge: Ideation, Technology demonstration/hardware
 submission-start: 11/14/2019
 submission-end: 02/12/2020 11:59 p.m.
 submission-link: https://americanmadechallenges.org/oceanobserving/
-prizes: true
+prize: true
 fiscal-year: FY19, FY20, FY21
 legal-authority: America COMPETES
 challenge-manager: Jennifer Garson, jennifer.garson@ee.doe.gov

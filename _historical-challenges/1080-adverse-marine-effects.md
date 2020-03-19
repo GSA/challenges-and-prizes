@@ -17,7 +17,7 @@ type-of-challenge: Ideas; Technology demonstration and hardware; Scientific
 submission-start: 10/25/2019 02:00 PM 
 submission-end: 11/05/2019 02:00 PM 
 submission-link:
-prizes: true
+prize: true
 fiscal-year: FY19, FY20
 legal-authority: America COMPETES
 challenge-manager: Christopher Hebert

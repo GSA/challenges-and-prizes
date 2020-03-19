@@ -17,7 +17,7 @@ type-of-challenge: Ideas
 submission-start: 2016/03/31 12:00 AM
 submission-end: 2016/05/10 12:00 AM
 submission-link: https://www.innocentive.com/ar/challenge/9933648
-prizes: true
+prize: true
 fiscal-year: FY16
 legal-authority: America COMPETES
 challenge-manager: David Raff

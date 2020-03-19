@@ -17,7 +17,7 @@ type-of-challenge: Ideas
 submission-start: 2020/01/21 9 a.m.
 submission-end: 2020/04/24 5 p.m.
 submission-link:
-prizes: true
+prize: true
 fiscal-year: FY20
 legal-authority: America COMPETES
 challenge-manager: Dr. Elena Koustova, koustovae@nida.nih.gov

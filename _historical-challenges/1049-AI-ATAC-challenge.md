@@ -17,7 +17,7 @@ type-of-challenge:  Software and apps; Technology demonstration and hardware; An
 submission-start: 06/28/2019 02:30 PM
 submission-end: 09/30/2019 05:00 PM
 submission-link: 
-prizes: true
+prize: true
 legal-authority: Direct Prize Authority - DOD
 fiscal-year: FY19, FY20
 challenge-manager: Michael Karlbom, michael.j.karlbom1@navy.mil

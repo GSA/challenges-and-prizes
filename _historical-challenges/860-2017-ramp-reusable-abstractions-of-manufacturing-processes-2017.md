@@ -17,7 +17,7 @@ type-of-challenge: Scientific
 submission-start: 12/19/2016 09:00 AM
 submission-end: 04/17/2017 11:59 PM
 submission-link: 
-prizes: true
+prize: true
 fiscal-year: FY17
 legal-authority: America COMPETES
 challenge-manager: Swee Leong

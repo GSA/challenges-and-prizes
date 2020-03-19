@@ -17,7 +17,7 @@ type-of-challenge:  Analytics, visualizations and algorithms
 submission-start: 2019/06/27 11:00 AM
 submission-end: 2020/10/01 12:00 AM
 submission-link: http://topcoder.com/lp/rodeo2
-prizes: true
+prize: true
 legal-authority: Procurement Authority
 fiscal-year: FY19-FY20
 challenge-manager: Jen Beardsley, jbeardsley@usbr.gov

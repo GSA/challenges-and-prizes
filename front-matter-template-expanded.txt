@@ -17,7 +17,7 @@ type-of-challenge:
 submission-start: (do NOT add ET for the time zone)
 submission-end: (do NOT add ET for the time zone)
 submission-link:
-prizes: true
+prize: true
 fiscal-year: (formatted as FY19, FY20, FY21 etc...)
 legal-authority:
 challenge-manager:

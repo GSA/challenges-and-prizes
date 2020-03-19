@@ -17,7 +17,7 @@ type-of-challenge: Scientific
 submission-start: 06/01/2018 09:00 AM
 submission-end: 09/04/2018 11:59 PM
 submission-link: http://www.cccinnovationcenter.com/challenge/antimicrobial-resistance-diagnostic-challenge/
-prizes: true
+prize: true
 fiscal-year: 2018
 legal-authority: America COMPETES
 challenge-manager: Bob Eisinger

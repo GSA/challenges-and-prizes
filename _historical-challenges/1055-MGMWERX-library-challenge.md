@@ -17,7 +17,7 @@ type-of-challenge: Software and apps; Creative; Ideas; Analytics, visualizations
 submission-start: 07/02/2019 12:00 PM 
 submission-end: 08/05/2019  12:59 AM
 submission-link: https://mgmwerx.org/mgmwerx-challenge/library-challenge/
-prizes: false
+prize: false
 legal-authority: America COMPETES Act
 fiscal-year: FY19
 challenge-manager: Steve Werner

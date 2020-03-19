@@ -17,7 +17,7 @@ type-of-challenge: Software/Apps
 submission-start: 2016/09/23 09:00 AM
 submission-end: 2016/11/07 11:59 PM
 submission-link: 
-prizes: true
+prize: true
 fiscal-year: 2016
 legal-authority: America COMPETES
 challenge-manager: Marisa Cruz

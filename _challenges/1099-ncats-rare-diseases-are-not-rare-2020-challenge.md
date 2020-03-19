@@ -17,7 +17,7 @@ type-of-challenge: Creative (multimedia and design); Ideas
 submission-start: 2020/02/29 09:00 AM 
 submission-end: 2020/04/30 05:00 PM
 submission-link:
-prizes: true
+prize: true
 fiscal-year: FY20
 legal-authority: America COMPETES Act
 challenge-manager: Crina Frincu, cfrincu@mail.nih.gov

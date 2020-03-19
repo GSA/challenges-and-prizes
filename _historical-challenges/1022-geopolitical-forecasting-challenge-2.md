@@ -17,7 +17,7 @@ type-of-challenge: Scientific
 submission-start: 05/15/2019 12:30 PM
 submission-end: 11/19/2019 02:01 PM
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: FY19, FY20
 legal-authority: Other
 challenge-manager: Rebecca Allegar

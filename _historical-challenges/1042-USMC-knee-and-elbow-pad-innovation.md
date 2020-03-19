@@ -17,7 +17,7 @@ type-of-challenge:  Technology demonstration and hardware
 submission-start: 05/28/2019 12:00 PM
 submission-end: 07/12/2019 11:59 PM
 submission-link:  https://www.marcorsyscom.marines.mil/Unit-Home/Marine-Equipping-Challenge/Knee-and-Elbow-Pad-Challenge/
-prizes: true
+prize: true
 fiscal-year: 2019
 legal-authority: Other
 challenge-manager: Meghann Viggiani

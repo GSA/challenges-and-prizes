@@ -17,7 +17,7 @@ type-of-challenge: Software and apps
 submission-start: 10/01/2018 12:00 AM
 submission-end: 06/30/2019 11:59 PM
 submission-link:  
-prizes: true
+prize: true
 ---
 
 

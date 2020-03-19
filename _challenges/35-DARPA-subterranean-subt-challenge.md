@@ -18,14 +18,9 @@ type-of-challenge: Scientific
 submission-start: 2018/09/27 12:00 AM
 submission-end: 2021/09/30 12:00 AM
 submission-link:  
-prizes: false
+prize: false
 fiscal-year: FY18-21
 legal-authority: Direct Prize Authority - DoD
 challenge-manager: Dr. Timothy Chung
 challenge-manager-email: timothy.chung@darpa.mil
-description:
-prizes:
-rules:
-judging:
-how-to-enter: 
 ---

@@ -17,7 +17,7 @@ type-of-challenge: Software and apps
 submission-start: 05/23/2017 12:00 AM
 submission-end: 07/06/2017 12:00 AM
 submission-link: https://www.innocentive.com/ar/challenge/9933881
-prizes: true
+prize: true
 fiscal-year: FY17
 legal-authority: America COMPETES
 challenge-manager: Ian Ferguson

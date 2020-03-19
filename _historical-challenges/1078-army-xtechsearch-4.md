@@ -17,7 +17,7 @@ type-of-challenge: Ideas, Technology demonstration and hardware
 submission-start: 10/01/2019
 submission-end: 11/12/2019 02:59 AM
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Zeke Topolosky, zeke.j.topolosky.civ@mail.mil

@@ -17,7 +17,7 @@ type-of-challenge: Creative (design & multimedia)
 submission-start: 07/31/2019 12:00 AM
 submission-end: 11/05/2019 5:00 PM
 submission-link: https://www.solardecathlon.gov/2019/design/challenge.html
-prizes: true
+prize: true
 fiscal-year: FY19-20
 legal-authority: Other
 challenge-manager: Rachel Romero
