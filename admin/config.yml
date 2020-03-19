@@ -25,8 +25,8 @@ collections:
       - { label: 'Challenge-ID', name: 'challenge-id', widget: 'string' }
       - { label: 'Status', name: 'status', widget: 'select', options: ["open", "closed"] }
       - { label: 'Sidenav', name: 'sidenav', widget: 'boolean', default: true }
-      - { label: 'Card Image', name: 'card-image', widget: 'image', media_folder: '/{{media_folder}}/cards/' }
-      - { label: 'Agency Logo', name: 'agency-logo', widget: 'image', media_folder: '/{{media_folder}}' }
+      - { label: 'Card Image', name: 'card-image', widget: 'image' }
+      - { label: 'Agency Logo', name: 'agency-logo', widget: 'image' }
       - { label: 'Tagline', name: 'tagline', widget: 'string' }
       - { label: 'Agency', name: 'agency', widget: 'string' }
       - { label: 'Partner Agencies | Federal', name: 'partner-agencies-federal', widget: 'string', required: false }
