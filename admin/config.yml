@@ -8,7 +8,7 @@ backend:
   use_graphql: true
   publish_mode: editorial_workflow
 media_folder: 'assets/images'
-public_folder: 'challenges/assets/images'
+public_folder: 'challenges/images'
 collections:
   - name: 'challenges'
     label: 'Challenges'
