@@ -21,7 +21,10 @@ description: |-
   # Hello TESTING h1
 
   ## TESTING H2
-prizes: fsdsdfs
+prizes: |-
+  fsdsdfs
+
+  ![My alt text](assets/images/crowd.jpg)
 rules: fdsfsdfd
 judging: sdfsdsdf
 how-to-enter: dsfasdfa
