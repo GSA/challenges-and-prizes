@@ -42,11 +42,8 @@ collections:
       - { label: 'Challenge Manager Email', name: 'challenge-manager-email', widget: 'string' }
       - { label: 'Challenge Point of Contact', name: 'point-of-contact', widget: 'string' }
       - { label: 'Body Content Uploads', name: 'agency-logo', widget: 'file', media_folder: '/{{media_folder}}/challenge-content/' }
-      - { label: 'Description', name: 'description', widget: 'markdown', media_folder: '/{{media_folder}}/challenge-content/' }
-      - { label: 'Prizes', name: 'prizes', widget: 'markdown' }
-      - { label: 'Rules', name: 'rules', widget: 'markdown' }
-      - { label: 'Judging', name: 'judging', widget: 'markdown' }
-      - { label: 'How To Enter', name: 'how-to-enter', widget: 'markdown' }
+      - { label: 'body', name: 'body', widget: 'markdown' }
+
 
       
 
