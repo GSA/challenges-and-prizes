@@ -7,7 +7,7 @@ backend:
   preview_context: federalist/build
   use_graphql: true
   publish_mode: editorial_workflow
-media_folder: 'assets/images'
+media_folder: 'challenges/assets/images'
 public_folder: 'assets/images'
 collections:
   - name: 'challenges'
