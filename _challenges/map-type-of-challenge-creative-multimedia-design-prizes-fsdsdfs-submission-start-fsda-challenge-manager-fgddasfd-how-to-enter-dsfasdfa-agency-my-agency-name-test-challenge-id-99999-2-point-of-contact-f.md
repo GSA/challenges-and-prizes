@@ -5,7 +5,7 @@ permalink: /challenge/sg-test-challenge-2/
 challenge-id: 99999-2
 status: open
 sidenav: true
-card-image: assets/images/agency/201909013_EPA_HABVideo_ChallengeGov_Logo.jpg
+card-image: assets/images/agency/ARIAC-image.png
 agency-logo: assets/images/agency/hero-flag.jpg
 tagline: fdsaasd
 agency: My Agency Name - TEST
