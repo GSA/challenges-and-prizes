@@ -22,14 +22,13 @@ point-of-contact: stephanie.green@gsa.gov
 <!-- Description start -->
 
 ### Description
-
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 
 
 <p>Fish and water infrastructure are not natural bedfellows. When fish swim into pipes and dam intakes, they become separated from their natural habitat, which impacts native populations, threatens biodiversity, and impedes recovery efforts for threatened and endangered species.</p>
 
-<p>The<ahref="https://www.energy.gov/eere/water/water-power-technologies-office"target="_blank"rel="noopener">U.S. Department of Energy Water Power Technologies Office</a>, in collaboration with the<ahref="https://www.usbr.gov/"target="_blank"rel="noopener">U.S. Bureau of Reclamation</a>, has launched the Fish Protection Prize, inspiring innovators to compete for $700,000 of combined cash prizes and voucher support to help protect fish from these threats. Up to 10 finalists will receive up to 50 hours of support for the Pacific Northwest National Laboratory to refine their concepts in an Incubation Stage, and those finalists will be invited to compete in a Pitch Contest and compete for up to $700,000 in cash and in-kind prizes. As many as three winners will be selected at the Pitch Contest. The prize is administered through the<ahref="https://www.pnnl.gov/"target="_blank"rel="noopener">National Renewable Energy Laboratory</a>.</p>
+<p>The <ahref="https://www.energy.gov/eere/water/water-power-technologies-office"target="_blank"rel="noopener">U.S. Department of Energy Water Power Technologies Office</a>, in collaboration with the<ahref="https://www.usbr.gov/"target="_blank"rel="noopener">U.S. Bureau of Reclamation</a>, has launched the Fish Protection Prize, inspiring innovators to compete for $700,000 of combined cash prizes and voucher support to help protect fish from these threats. Up to 10 finalists will receive up to 50 hours of support for the Pacific Northwest National Laboratory to refine their concepts in an Incubation Stage, and those finalists will be invited to compete in a Pitch Contest and compete for up to $700,000 in cash and in-kind prizes. As many as three winners will be selected at the Pitch Contest. The prize is administered through the<ahref="https://www.pnnl.gov/"target="_blank"rel="noopener">National Renewable Energy Laboratory</a>.</p>
 
 <h4>Key Dates</h4>
 
