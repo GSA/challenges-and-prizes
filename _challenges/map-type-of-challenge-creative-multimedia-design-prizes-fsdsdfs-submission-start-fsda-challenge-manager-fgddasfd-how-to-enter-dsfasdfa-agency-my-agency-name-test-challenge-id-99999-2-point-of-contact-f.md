@@ -22,9 +22,9 @@ description: |-
 
   ## TESTING H2
 prizes: |-
-  fsdsdfs
+  ![](challenges/assets/images/toolkit.jpg)
 
-  ![My alt text](assets/images/edit-a-thon.jpg)
+  fsdsdfs
 rules: fdsfsdfd
 judging: sdfsdsdf
 how-to-enter: dsfasdfa
