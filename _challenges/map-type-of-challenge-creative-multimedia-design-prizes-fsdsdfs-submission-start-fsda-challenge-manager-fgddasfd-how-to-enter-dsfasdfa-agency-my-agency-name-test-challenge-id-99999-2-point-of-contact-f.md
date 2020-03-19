@@ -22,7 +22,7 @@ description: |-
 
   ## TESTING H2
 prizes: |-
-  ![](challenges/assets/images/toolkit.jpg)
+  ![toolkit image alt text](challenges/assets/images/toolkit.jpg)
 
   fsdsdfs
 rules: fdsfsdfd
