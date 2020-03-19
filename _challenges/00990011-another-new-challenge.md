@@ -40,7 +40,7 @@ description: >-
   * PITCH Contest and Awards: Anticipated September 2, 2020
 
   * Winners Announced: Anticipated September 2020
-prizes: f
+prizes: ''
 rules: f
 judging: f
 how-to-enter: f
