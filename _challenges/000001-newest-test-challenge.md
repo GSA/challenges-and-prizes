@@ -21,7 +21,7 @@ point-of-contact: stephanie.green@gsa.gov
 ---
 <!-- Description start -->
 
-\### Description
+### Description
 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
@@ -55,7 +55,7 @@ point-of-contact: stephanie.green@gsa.gov
 
 <!-- Prizes start -->
 
-\### Prizes
+### Prizes
 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
@@ -75,7 +75,7 @@ point-of-contact: stephanie.green@gsa.gov
 
 <!-- Rules start -->
 
-\### Rules
+### Rules
 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
@@ -87,7 +87,7 @@ point-of-contact: stephanie.green@gsa.gov
 
 <!-- Judging start -->
 
-\### Judging Criteria
+### Judging Criteria
 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
@@ -99,7 +99,7 @@ point-of-contact: stephanie.green@gsa.gov
 
 <!-- How To Enter start -->
 
-\### How To Enter
+### How To Enter
 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
