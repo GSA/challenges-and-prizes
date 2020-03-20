@@ -6,7 +6,7 @@ challenge-id: 00990011
 status: open
 sidenav: true
 card-image: /assets/images/hire-us.jpg
-agency-logo: /assets/images/hero-flag.jpg
+agency-logo: /assets/images/octocat-coffee.png
 tagline: Another test challenge tagline
 agency: GSA - TTS
 total-prize-offered-cash: '$5,566'
