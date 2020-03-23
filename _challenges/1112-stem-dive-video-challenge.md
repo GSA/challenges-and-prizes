@@ -4,7 +4,7 @@ permalink: /challenge/stem-dive-video-challenge/
 challenge-id: 1112
 status: open
 sidenav: true 
-card-image: /assets/images/cards/STEM-DIVE.png
+card-image: /assets/images/cards/STEM-DIVE-resize.png
 agency-logo: nsf.png
 challenge-title: STEM DIVE Video Challenge – Diversity and Inclusion Video Exhibition
 tagline: Submit videos that showcase innovative ways to forge partnerships that increase diversity and inclusion in the STEM workforce
@@ -39,7 +39,7 @@ challenge-manager-email: stemdive@nsf.gov
 </ul>
 <p>Employment requirements can be located at&nbsp;<a href="http://www.nsf.gov/ehr/stemdive.jsp" target="_blank" rel="noopener"><u>www.nsf.gov/ehr/stemdive.jsp</u></a></p>
 <p>Cash prizes will be issued to the registered team leader. It is the team and team leader&rsquo;s responsibility to determine whether and how prizes will be shared among team members and to implement such sharing arrangements.</p>
-<p>In addition to cash prizes, winning videos will be posted on NSF&rsquo;s Education Human Resources Directorate web page and the NSF INCLUDES Coordination Hub website. &nbsp;Should NSF decide to bring winning entrants to Washington, D.C., or to any other location for promotional and other purposes, expenses paid by NSF for entrants&rsquo; travel will be within the limits set forth in law according to federal travel regulations.</p>
+<p>In addition to cash prizes, winning videos will be posted on NSF&rsquo;s Education Human Resources Directorate web page and the NSF INCLUDES National Network on&nbsp;<a href="https://www.includesnetwork.org/" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://www.includesnetwork.org&amp;source=gmail&amp;ust=1585051119444000&amp;usg=AFQjCNHJdkeEqmEJtLgCUDgoMicEWSIl3A">https://www.includesnetwork.<wbr />org</a>. &nbsp;Should NSF decide to bring winning entrants to Washington, D.C., or to any other location for promotional and other purposes, expenses paid by NSF for entrants&rsquo; travel will be within the limits set forth in law according to federal travel regulations.</p>
 <p>Videos will be judged on approach, impact and sustainability; visual appeal; effective communication; and originality.</p>
 <p><strong>Key dates: </strong>The Challenge begins on March 24, 2020. All video entries must be uploaded to YouTube and written entries submitted by 11:00 p.m. ET on June 25, 2020.</p>
 
