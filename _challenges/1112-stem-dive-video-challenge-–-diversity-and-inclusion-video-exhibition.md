@@ -5,7 +5,7 @@ permalink: /challenge/stem-dive-video-challenge/
 challenge-id: '1112'
 status: open
 sidenav: true
-card-image: /assets/images/stem-dive-resize.png
+card-image: /assets/netlify-uploads/stem-dive-resize.png
 agency-logo: /assets/images/nsf.png
 tagline: >-
   Submit videos that showcase innovative ways to forge partnerships that
