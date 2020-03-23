@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-expanded
+layout: front-matter-data-netlify
 permalink: /challenge/nei-3d-retina-organoid-challenge-2020-reduction-to-practice-3d-roc-2020/
 challenge-id: 51
 status: open
