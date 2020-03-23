@@ -84,8 +84,11 @@ challenge-manager-email: stemdive@nsf.gov
 <p><strong>Terms and Conditions</strong></p>
 <p><strong>Eligibility: </strong></p>
 <ul>
-<li>All entrants (whether submitting individually or on a team) must be at least 18 years of age on or before June 24, 2020 and be:&nbsp;</li>
-<li>U.S. citizens or permanent residents, or legal residents in the U.S. by June 24, 2020</li>
+<li>All entrants (whether submitting individually or on a team) must be at least 18 years of age on or before June 24, 2020 and be:&nbsp;
+<ul>
+<li>U.S. citizens or permanent residents, or legal residents in the U.S. by June 24, 2020.</li>
+</ul>
+</li>
 <li>Only one entry per individual or team is permitted. Entries can be produced by individuals or by teams of up to four people. Individuals cannot serve on more than one team per entry category.</li>
 <li>All team members must be named and affirm they meet eligibility criteria.&nbsp;One member of the team must be designated and named as the team leader in the submission.</li>
 <li>The following individuals are not eligible to participate in this contest:</li>
