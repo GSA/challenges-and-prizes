@@ -182,7 +182,6 @@ rules: >-
 
   * All entrants (whether submitting individually or on a team) must be at least
   18 years of age on or before June 24, 2020 and be:
-
     * U.S. citizens or permanent residents, or legal residents in the U.S. by June 24, 2020.
   * Only one entry per individual or team is permitted. Entries can be produced
   by individuals or by teams of up to four people. Individuals cannot serve on
