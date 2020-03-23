@@ -64,9 +64,9 @@ description: >-
 
   In addition to cash prizes, winning videos will be posted on NSF’s Education
   Human Resources Directorate web page and the NSF INCLUDES National Network on
-  [https://www.includesnetwork.​org](https://www.includesnetwork.org/). Should
-  NSF decide to bring winning entrants to Washington, D.C., or to any other
-  location for promotional and other purposes, expenses paid by NSF for
+  [https://www.includesnetwork.​org](https://www.includesnetwork.org/){:target="_blank"}.
+  Should NSF decide to bring winning entrants to Washington, D.C., or to any
+  other location for promotional and other purposes, expenses paid by NSF for
   entrants’ travel will be within the limits set forth in law according to
   federal travel regulations.
 
