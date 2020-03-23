@@ -1,4 +1,7 @@
 ---
+type-of-challenge: Ideas; Technology demonstration and hardware
+prizes: true
+challenge-title: xTechSearch 5
 layout: front-matter-data
 permalink: /challenge/xtechsearch-5/
 challenge-id: 1107
@@ -6,28 +9,27 @@ status: open
 sidenav: true
 card-image: /assets/images/cards/xtechsearch_4.png
 agency-logo: dod_seal.jpg
-challenge-title: xTechSearch 5
-tagline: xTechSearch will highlight opportunities for small businesses to collaborate with the Army to tackle the most critical Army modernization challenges.
+tagline: >-
+  xTechSearch will highlight opportunities for small businesses to collaborate
+  with the Army to tackle the most critical Army modernization challenges.
 agency: Department of Defense - U.S. Army
-partner-agencies-federal:
-partners-non-federal:
-external-url:
-total-prize-offered-cash: $2,040,000
-type-of-challenge: Ideas; Technology demonstration and hardware
-submission-start: 2020/03/09 05:00 PM
-submission-end: 2020/04/01 02:59 AM
-submission-link:
-prizes: true
-fiscal-year: FY20, FY21
+partner-agencies-federal: null
+external-url: null
+total-prize-offered-cash: '$2,040,000'
+submission-start: '2020/03/09 05:00 PM'
+submission-end: '2020/04/01 02:59 AM'
+fiscal-year: 'FY20, FY21'
 legal-authority: America COMPETES Act
-challenge-manager: Zeke Topolosky, Zeke.j.topolosky.civ@mail.mil
+challenge-manager: 'Zeke Topolosky, Zeke.j.topolosky.civ@mail.mil'
 challenge-manager-email: usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil
+point-of-contact: usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil
+partners-non-federal: null
+submission-link: null
 ---
-
-
-
 <!-- Description start -->
+
 ### Description
+
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>The Assistant Secretary of the Army for Acquisition, Logistics and Technology (ASA(ALT)) is announcing the fifth iteration of the Army Expeditionary Technology Search &ndash; xTechSearch &ndash;&nbsp; prize competition. xTechSearch will highlight opportunities for small businesses to collaborate with the Army to tackle the most critical Army modernization challenges.</p>
@@ -37,7 +39,9 @@ challenge-manager-email: usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil
 <p>The authority of this program is 15 United States Code (USC) &sect;3719.</p>
 
 <!-- Prizes start -->
+
 ### Prizes
+
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>Prizes will be offered under 15 USC &sect;3719 (Prize competitions). The total prize pool is <strong>$2.04 million</strong>.</p>
@@ -116,7 +120,9 @@ challenge-manager-email: usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil
 <p>Other non-monetary incentives are provided through the xTechSearch program to help small business engage, and stay engaged with the Army.</p>
 
 <!-- Rules start -->
-### Rules 
+
+### Rules
+
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>Rules</strong></p>
@@ -144,7 +150,9 @@ challenge-manager-email: usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil
 </ul>
 
 <!-- Judging start -->
+
 ### Judging Criteria
+
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>Judging Panel</strong></p>
@@ -162,7 +170,9 @@ challenge-manager-email: usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil
 </ul>
 
 <!--  How To Enter start -->
+
 ### How To Enter
+
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>The xTechSearch program is voluntary and open to all entities that meet the eligibility requirements. &nbsp;There may be only one submission per eligible entity.&nbsp; The registration information and upload submission must be received by 11:59 PM PST on 31 March 2020.&nbsp; Submissions received after the deadline will not be considered.</p>
@@ -199,7 +209,7 @@ challenge-manager-email: usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil
 <li>Presentation Quality - 10%</li>
 </ul>
 <p><em>xTechSearch 5 Semifinals</em></p>
-<p>Up to 20 semifinalists will be invited to make a live public presentation on the Innovators&rsquo; Corner stage at the AUSA 2020 Annual Meeting 12-14 October, 2020 that will be evaluated by a panel of Army and business experts.&nbsp; In addition, semifinalists will be provided Army-sponsored exhibit space in the AUSA Innovators&rsquo; Corner booth to engage with Department of Defense (DoD) customers, Army leadership, industry partners, and academia in attendance.</p>
+<p>Up to 20 semifinalists will be invited to make a live public presentation on the Innovators&rsquo; Corner stage at the AUSA 2020 Annual Meeting 12-14 October, 2020 that will be evaluated by a panel of U.S. Army and business experts.&nbsp; In addition, semifinalists will be provided Army-sponsored exhibit space in the AUSA Innovators&rsquo; Corner booth to engage with Department of Defense (DoD) customers, Army leadership, industry partners, and academia in attendance.</p>
 <p>Detailed instructions and evaluation criteria will be provided to semifinalist companies. Up to ten (10) participants with the highest ranking pitches will receive a prize of $120,000 and will advance to the xTechSearch Finals.</p>
 <p><em>xTechSearch 5 Finals</em></p>
 <p>Up to ten (10) finalists will be invited to conduct Proof-of-Concept Demonstrations and present their transition plans to a panel of Army subject matter experts at the 2021 AUSA Global Force Symposium and Exhibition in March 2021 in Huntsville, AL.&nbsp; In addition, finalists will be provided Army-sponsored exhibit space at the AUSA Innovators&rsquo; Corner to engage with Department of Defense (DoD) customers, Army leadership, industry partners, and academia in attendance.</p>

@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-expanded
+layout: front-matter-data-netlify
 permalink: /challenge/title-goes-here/
 challenge-id:
 status: open
