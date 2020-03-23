@@ -12,7 +12,8 @@ tagline: >-
   increase diversity and inclusion in the STEM workforce
 agency: National Science Foundation
 total-prize-offered-cash: '$12,500'
-type-of-challenge: Creative (multimedia & design)
+type-of-challenge:
+  - Creative (multimedia & design)
 submission-start: '2020/03/24 11:00 AM'
 submission-end: '2020/06/25 11:00 PM'
 fiscal-year: FY20
