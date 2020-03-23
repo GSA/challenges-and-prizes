@@ -4,7 +4,7 @@ permalink: /challenge/pandemic-response-hackathon/
 challenge-id: 1113
 status: open
 sidenav: false
-card-image: /assets/images/cards/challenge-gov.png
+card-image: /assets/images/cards/pandemic-response-340x160.png
 agency-logo: hhs.png
 challenge-title: Pandemic Response Hackathon
 tagline: Join a virtual hackathon aimed at better understanding and mitigating the spread of COVID-19 and future pandemics.
