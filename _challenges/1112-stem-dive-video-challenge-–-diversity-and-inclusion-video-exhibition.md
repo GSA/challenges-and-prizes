@@ -6,7 +6,7 @@ challenge-id: '1112'
 status: open
 sidenav: true
 card-image: /assets/netlify-uploads/stem-dive-resize.png
-agency-logo: /assets/images/nsf.png
+agency-logo: /assets/netlify-uploads/nsf.png
 tagline: >-
   Submit videos that showcase innovative ways to forge partnerships that
   increase diversity and inclusion in the STEM workforce
