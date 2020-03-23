@@ -76,7 +76,7 @@ challenge-manager-email: stemdive@nsf.gov
 <li>Video Entrant Form</li>
 <li>NSF Form 1515 Consent Form (One form per entry must be completed, signed, and uploaded with your final submission.)</li>
 <li>Participant and Parental Consent Form (Must be included for anyone appearing in a video, but not registering as an entrant or team member.)</li>
-<li>PI Verification and Consent Form</li>
+<li>PI Consent Form</li>
 </ul>
 <p>Required forms can be accessed at <a href="http://www.nsf.gov/ehr/stemdive.jsp" target="_blank" rel="noopener">www.nsf.gov/ehr/stemdive.jsp</a></p>
 <p><strong>Submission Limit: </strong>Each individual or team is limited to entering one video in the challenge. Multiple submissions from the same source will be disqualified.</p>
@@ -84,8 +84,8 @@ challenge-manager-email: stemdive@nsf.gov
 <p><strong>Terms and Conditions</strong></p>
 <p><strong>Eligibility: </strong></p>
 <ul>
-<li>All entrants (whether submitting individually or on a team) must be at least 18 years of age on or before September 30, 2019 and be:&nbsp;</li>
-<li>S. citizens or permanent residents, or legal residents in the U.S. by June 24, 2020</li>
+<li>All entrants (whether submitting individually or on a team) must be at least 18 years of age on or before June 24, 2020 and be:&nbsp;</li>
+<li>U.S. citizens or permanent residents, or legal residents in the U.S. by June 24, 2020</li>
 <li>Only one entry per individual or team is permitted. Entries can be produced by individuals or by teams of up to four people. Individuals cannot serve on more than one team per entry category.</li>
 <li>All team members must be named and affirm they meet eligibility criteria.&nbsp;One member of the team must be designated and named as the team leader in the submission.</li>
 <li>The following individuals are not eligible to participate in this contest:</li>
