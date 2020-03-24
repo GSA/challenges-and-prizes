@@ -6,7 +6,7 @@ backend:
   auth_endpoint: external/auth/github
   preview_context: federalist/build
   use_graphql: true
-  publish_mode: editorial_workflow
+publish_mode: editorial_workflow
 media_folder: '/assets/netlify-uploads'
 public_folder: '/assets/netlify-uploads'
 collections:
