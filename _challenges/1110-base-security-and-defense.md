@@ -4,7 +4,7 @@ permalink: /challenge/base-security-and-defense/
 challenge-id: 1110
 status: open
 sidenav: false
-card-image: /assets/images/cards/Defense.png
+card-image: /assets/images/cards/base-security.png
 agency-logo: dod_seal.jpg
 challenge-title: Base Security and Defense
 tagline: Help us create the base of the future!

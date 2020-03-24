@@ -90,7 +90,7 @@ challenge-manager-email: craig.connelly@nist.gov
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="description">
-        <p>Below are the rules on eligibility and submissions, as well as additional terms and conditions. Please read&nbsp; the <a href="{{ site.baseurl }}/assets/document-library/3.2_TechtoProtectChallenge_Program-Rules.FINAL.4.1.19.pdf" target="_blank" rel="noopener">Official Rules document</a> for detailed rules on all aspects of this challenge.</p>
+        <p>Below are the rules on eligibility and submissions, as well as additional terms and conditions. Please read&nbsp; the original <a href="{{ site.baseurl }}/assets/document-library/3.2_TechtoProtectChallenge_Program-Rules.FINAL.4.1.19.pdf" target="_blank" rel="noopener">Official Rules document</a> as well as the <a href="{{ site.baseurl }}/assets/document-library/TTP-Rules-Changes-FINAL.pdf" target="_blank" rel="noopener">rules modification</a> posted March 19, 2020 for detailed rules on all aspects of this challenge.</p>
 <p>---</p>
 <p><strong>7. SUBMISSION AND ELIGIBILITY REQUIREMENTS</strong></p>
 <p><strong>7.1 SUBMISSION REQUIREMENTS</strong></p>

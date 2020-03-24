@@ -4,7 +4,7 @@ permalink: /challenge/leveraging-technology-for-operational-effectiveness/
 challenge-id: 1109
 status: open
 sidenav: false
-card-image: /assets/images/cards/Technology-afwerx.png
+card-image: /assets/images/cards/ops-tech.png
 agency-logo: dod_seal.jpg
 challenge-title: Leveraging Technology for Operational Effectiveness
 tagline: Help us create the base of the future!

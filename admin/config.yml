@@ -1,14 +1,14 @@
 backend:
   name: github
   repo: gsa/challenges-and-prizes
-  branch: add-netlify # Branch to update (optional; defaults to master)
+  branch: netlify-updates # Branch to update (optional; defaults to master)
   base_url: https://federalistapp.18f.gov
   auth_endpoint: external/auth/github
   preview_context: federalist/build
   use_graphql: true
   publish_mode: editorial_workflow
-media_folder: 'assets/images'
-public_folder: 'assets/images'
+media_folder: '/assets/netlify-uploads'
+public_folder: '/assets/netlify-uploads'
 collections:
   - name: 'challenges'
     label: 'Challenges'
@@ -33,7 +33,7 @@ collections:
       - { label: 'Partner Agencies | Non-Federal', name: 'partner-agencies-non-federal', widget: 'string', required: false }
       - { label: 'external-url', name: 'external-url', widget: 'string', required: false }
       - { label: 'Total Prize Offered Cash', name: 'total-prize-offered-cash', widget: 'string', required: false }
-      - { label: 'Type of Challenge', name: 'type-of-challenge', widget: 'select', options: ["Software and apps", "Creative (multimedia & design)", "Ideas", "Technology demonstration and hardware", "Nominations", "Business plans", "Analytics, visualizations, algorithms", "Scientific"] }
+      - { label: 'Type of Challenge', name: 'type-of-challenge', widget: 'select', multiple: true, options: ["Software and apps", "Creative (multimedia & design)", "Ideas", "Technology demonstration and hardware", "Nominations", "Business plans", "Analytics, visualizations, algorithms", "Scientific"] }
       - { label: 'Submission Start', name: 'submission-start', widget: 'string', hint: 'yyyy/mm/dd XX:XX AM/PM' }
       - { label: 'Submission End', name: 'submission-end', widget: 'string', hint: 'yyyy/mm/dd XX:XX AM/PM' }
       - { label: 'Fiscal Year', name: 'fiscal-year', widget: 'string', hint: 'FY20 or FY20, FY21' }
@@ -41,12 +41,14 @@ collections:
       - { label: 'Challenge Manager', name: 'challenge-manager', widget: 'string' }
       - { label: 'Challenge Manager Email', name: 'challenge-manager-email', widget: 'string' }
       - { label: 'Challenge Point of Contact', name: 'point-of-contact', widget: 'string' }
-      - { label: 'Body Content Uploads', name: 'agency-logo', widget: 'file', media_folder: '/{{media_folder}}/challenge-content/' }
-      - { label: 'Description', name: 'description', widget: 'markdown', media_folder: '/{{media_folder}}/challenge-content/' }
-      - { label: 'Prizes', name: 'prizes', widget: 'markdown' }
-      - { label: 'Rules', name: 'rules', widget: 'markdown' }
-      - { label: 'Judging', name: 'judging', widget: 'markdown' }
-      - { label: 'How To Enter', name: 'how-to-enter', widget: 'markdown' }
+      - { label: 'Body Content Uploads', name: 'body-content-uploads', widget: 'file', required: false }
+      - { label: 'Description', name: 'description', widget: 'markdown', required: false }
+      - { label: 'Prizes', name: 'prizes', widget: 'markdown', required: false }
+      - { label: 'Rules', name: 'rules', widget: 'markdown', required: false }
+      - { label: 'Judging', name: 'judging', widget: 'markdown', required: false }
+      - { label: 'How To Enter', name: 'how-to-enter', widget: 'markdown', required: false }
+
+
 
       
 
