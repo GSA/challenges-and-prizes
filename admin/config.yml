@@ -12,6 +12,7 @@ public_folder: '/assets/netlify-uploads'
 collections:
   - name: 'challenges'
     label: 'Challenges'
+    label_singular: 'Challenge'
     folder: '_challenges'
     identifier_field: 'challenge-title'
     slug: '{{challenge-id}}-{{challenge-title}}'
