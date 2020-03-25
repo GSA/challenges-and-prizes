@@ -20,8 +20,9 @@ submission-link:
 prize: true
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
-challenge-manager: Zeke Topolosky, zeke.j.topolosky.civ@mail.mil
-challenge-manager-email: usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil
+challenge-manager: Zeke Topolosky
+challenge-manager-email: zeke.j.topolosky.civ@mail.mil
+point-of-contact: usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil
 ---
 
 

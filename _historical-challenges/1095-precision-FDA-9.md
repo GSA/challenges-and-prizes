@@ -20,6 +20,7 @@ submission-link:
 prize: true
 fiscal-year: FY20
 legal-authority: America COMPETES Act
-challenge-manager: Elaine Johanson, Elaine.Johanson@fda.hhs.gov
-challenge-manager-email: precisionfda@fda.hhs.gov
+challenge-manager: Elaine Johanson
+challenge-manager-email: Elaine.Johanson@fda.hhs.gov
+point-of-contact: precisionfda@fda.hhs.gov
 ---

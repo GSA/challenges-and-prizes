@@ -20,8 +20,9 @@ submission-link:
 prize: true
 fiscal-year: FY19, FY20
 legal-authority: Necessary Expense Doctrine and CWA 104
-challenge-manager: Jennifer Kissel, Kissel.Jennifer@epa.gov
-challenge-manager-email: R7PublicAffairs@epa.gov 
+challenge-manager: Jennifer Kissel
+challenge-manager-email: Kissel.Jennifer@epa.gov
+point-of-contact: R7PublicAffairs@epa.gov 
 ---
 
 

@@ -20,8 +20,9 @@ submission-link:
 prize: true
 fiscal-year: FY20
 legal-authority: Clean Air Act Section 103
-challenge-manager: Justine Huetteman, huetteman.justine@epa.gov
-challenge-manager-email: EmPOWER@epa.gov
+challenge-manager: Justine Huetteman
+challenge-manager-email: huetteman.justine@epa.gov
+point-of-contact: EmPOWER@epa.gov
 ---
 
 

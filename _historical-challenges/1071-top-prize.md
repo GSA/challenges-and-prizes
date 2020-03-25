@@ -20,8 +20,9 @@ submission-link:
 prize: true
 fiscal-year: FY19, FY20
 legal-authority: America COMPETES
-challenge-manager: Drew Zachary (primary) and Dominica Zhu (secondary), Drew.a.zachary@census.gov and dominica.zhu@census.gov
-challenge-manager-email: TOPprize@census.gov
+challenge-manager: Drew Zachary (primary) and Dominica Zhu (secondary)
+challenge-manager-email: Drew.a.zachary@census.gov, dominica.zhu@census.gov
+point-of-contact: TOPprize@census.gov
 ---
 
 <h3>The Opportunity Project Prize Challenge held an open Q&A and informational webinar on Monday, October 28. <a href="https://census.webex.com/census/ldr.php?RCID=e5afc6a6694a265cfad89a78e685f96f" target="_blank" rel="noopener">Dowload the recording</a>.</h3>
