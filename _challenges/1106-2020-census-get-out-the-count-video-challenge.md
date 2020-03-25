@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash: $50,000
 type-of-challenge: Creative (multimedia & design)
 submission-start: 2020/03/12 12:00 PM
-submission-end: 2020/04/11 02:59 AM
+submission-end: 2020/04/17 11:59 PM
 submission-link:
 prizes: true
 fiscal-year: FY20
@@ -33,8 +33,9 @@ point-of-contact: census.accelerate@census.gov
 
 <h2><strong>Background &amp; Context</strong></h2>
 <p><strong>The 2020 Census</strong></p>
-<p>The <a href="https://2020census.gov/">2020 Census</a> is a constitutionally mandated once-a-decade count of our nation.&nbsp;<strong>It is critical that we achieve a complete and accurate count of </strong><strong><a href="https://2020census.gov/en/am-i-required.html">everyone living in the United States</a></strong><strong> because the results determine how many representatives in Congress each state has &mdash; and how more than $675 billion federal dollars are distributed each year into communities for the next decade.</strong>&nbsp;The 2020 Census results inform spending for&nbsp;<strong>critical services like schools, hospitals, roads, fire departments, and much more.</strong><strong>&nbsp;</strong>For further information and talking points about the importance of the 2020 Census, please refer to the&nbsp;<u><a href="https://www.challenge.gov/assets/document-library/2020-Census-Resource-Guide-GOTC-Video-Prize-Challenge.pdf">2020 Census Resources Guide</a></u><u> and </u><a href="https://2020census.gov/">2020census.gov</a>.</p>
-<p>Many people don&rsquo;t know how important the <a href="https://2020census.gov/">census</a> is to their community and day-to-day lives, and without further explanation or motivation, may not complete it at all. To solve this problem and help promote a complete and accurate count of the population, communities, government, creators, and experts have banded together to create engaging content that explains the importance, use, and safety of the census, and how to complete it.&nbsp; These efforts aim&nbsp;<strong>to make the 2020 Census a must-do for communities, particularly those considered &ldquo;</strong><strong><a href="https://www.census.gov/newsroom/blogs/director/2018/11/counting_everyoneon.html">hard-to-count</a></strong><strong>,&rdquo; such as racial and ethnic minorities, young and mobile populations, families with young children, LGBTQ+, non-English speakers, among others.</strong><strong>&nbsp;</strong>As part of this grassroots outreach effort, it is critical that entertaining and/or humorous content be created in ways that will deeply resonate with a broad audience, with a particular hard-to-count group, or both.</p>
+<p>The <a href="https://2020census.gov/">2020 Census</a> is a constitutionally mandated once-a-decade count of our nation.&nbsp;<strong>It is critical that we achieve a complete and accurate count of </strong><strong><a href="https://2020census.gov/en/am-i-required.html">everyone living in the United States</a></strong><strong> because the results determine how many representatives in Congress each state has &mdash; and how more than $675 billion federal dollars are distributed each year into communities for the next decade.</strong>&nbsp;The 2020 Census results inform spending for&nbsp;<strong>critical services like schools, hospitals, roads, fire departments, and much more.</strong><strong>&nbsp;</strong>For further information and talking points about the importance of the 2020 Census, please refer to the&nbsp;<u><a href="{{ site.baseurl }}/assets/document-library/2020-Census-Resource-Guide-GOTC-Video-Prize-Challenge-UPDATED.pdf">2020 Census Resources Guide</a></u> and <a href="https://2020census.gov/">2020census.gov</a>.</p>
+<p>Many people don&rsquo;t know how important the <a href="https://2020census.gov/">census</a> is to their community and day-to-day lives, and without further explanation or motivation, may not complete it at all. Further, in light of <u><a href="https://2020census.gov/en/news-events/press-kits/covid-19.html">current global events</a></u>, it&rsquo;s important for people to know that<strong> it has never been easier to respond on their own, either online, by phone, or by mail, without having to meet a census taker.</strong></p>
+<p>To solve this problem and help promote a complete and accurate count of the population, communities, government, creators, and experts have banded together to create engaging content that explains the importance, use, and safety of the census, and how to complete it.&nbsp; These efforts aim&nbsp;<strong>to make the 2020 Census a must-do for communities, particularly those considered &ldquo;</strong><strong><a href="https://www.census.gov/newsroom/blogs/director/2018/11/counting_everyoneon.html">hard-to-count</a></strong><strong>,&rdquo; such as racial and ethnic minorities, young and mobile populations, families with young children, LGBTQ+, non-English speakers, among others.</strong><strong>&nbsp;</strong>As part of this grassroots outreach effort, it is critical that entertaining and/or humorous content be created in ways that will deeply resonate with a broad audience, with a particular hard-to-count group, or both.</p>
 <p><strong><u>Census Accelerate </u></strong></p>
 <p>This prize challenge is a component of the U.S. Census Bureau&rsquo;s innovation program called <u><a href="http://accelerate.census.gov">Census Accelerate</a></u>. <strong>&nbsp;Census Accelerate</strong> brings together creative professionals, national advocacy organizations, and local leaders to develop community-driven content about the importance of the 2020 Census.</p>
 <p>Its purpose is twofold:</p>
@@ -45,6 +46,8 @@ point-of-contact: census.accelerate@census.gov
 <p>Census Accelerate is launching this prize competition to reward 2020 Census-related videos with the highest visibility (or viral potential) and the highest impact (i.e., ability to move people to respond to the census). The challenge focuses on <strong>short-format video content </strong>&mdash; a medium that is relatively lacking in quantity and quality on user-generated platforms such as YouTube. The Census Bureau is conducting this challenge under the authority of and in accordance with the America COMPETES Act, as amended, 15 U.S.C. &sect; 3719.</p>
 <h2><strong>The challenge:</strong></h2>
 <p><strong>Explain why the census matters in a short (30 seconds to 3 minutes) video, designed for a platform such as YouTube, that uses entertainment, emotion, creativity, and/or humor to motivate people to respond. </strong></p>
+<h2><strong>FAQ's:</strong></h2>
+<p>See answers to <a href="{{ site.baseurl }}/assets/document-library/FAQs-Video-Prize Challenge-2020Census.pdf">frequently asked questions</a>.</p>
 
 <!-- Prizes start -->
 ### Prizes
@@ -93,20 +96,21 @@ point-of-contact: census.accelerate@census.gov
 <ul>
 <li><strong>The following are video requirements that must be met for videos to be considered eligible for this competition. Videos&nbsp;must:</strong></li>
 <ul>
-<li><strong>Target at least one </strong><strong><a href="https://www.census.gov/newsroom/blogs/director/2018/11/counting_everyoneon.html">hard-to-count</a></strong><strong> population,&nbsp;</strong>such as (but not limited to): &nbsp;racial and ethnic minorities, non-native English speakers, millennials/gen Z, families with young children, (please see page 2 of the&nbsp;<u><a href="https://www.challenge.gov/assets/document-library/2020-Census-Resource-Guide-GOTC-Video-Prize-Challenge.pdf">Resource Guide</a></u>&nbsp;for a comprehensive list).</li>
+<li><strong>Target at least one </strong><strong><a href="https://www.census.gov/newsroom/blogs/director/2018/11/counting_everyoneon.html">hard-to-count</a></strong><strong> population,&nbsp;</strong>such as (but not limited to): &nbsp;racial and ethnic minorities, non-native English speakers, millennials/gen Z, families with young children, (please see page 2 of the&nbsp;<u><a href="{{ site.baseurl }}/assets/document-library/2020-Census-Resource-Guide-GOTC-Video-Prize-Challenge-UPDATED.pdf">Resource Guide</a></u>&nbsp;for a comprehensive list).</li>
 <li>Be at <strong>least 30 seconds and no more than 3 minutes</strong> in length</li>
 <li>Be digital and available online via a web link. Ideally, videos should be designed for or available on platforms such as YouTube.</li>
-<li><strong>Contain only accurate and factual content about the census.</strong>&nbsp;A&nbsp;<u><a href="https://www.challenge.gov/assets/document-library/2020-Census-Resource-Guide-GOTC-Video-Prize-Challenge.pdf">resource guide</a></u>&nbsp;is available as content guidance, as well as all resources on <a href="https://2020census.gov/">2020census.gov</a>. Questions or clarifications on census facts may be directed to&nbsp;<a href="mailto:census.accelerate@census.gov">census.accelerate@census.gov</a>; clarifying questions are encouraged and will not impact eligibility or chances of winning a prize<em>.</em></li>
+<li><strong>Contain only accurate and factual content about the census.</strong>&nbsp;A&nbsp;<u><a href="{{ site.baseurl }}/assets/document-library/2020-Census-Resource-Guide-GOTC-Video-Prize-Challenge-UPDATED.pdf">resource guide</a></u>&nbsp;is available as content guidance, as well as all resources on <a href="https://2020census.gov/">2020census.gov</a>. Questions or clarifications on census facts may be directed to&nbsp;<a href="mailto:census.accelerate@census.gov">census.accelerate@census.gov</a>; clarifying questions are encouraged and will not impact eligibility or chances of winning a prize<em>.</em></li>
 </ul>
 </ul>
 <p><strong><u>Video messaging guidance</u></strong></p>
 <ul>
-<li><strong>All videos <em>are strongly encouraged to</em>:</strong>
+<li><strong>All videos&nbsp;<em>are strongly encouraged to</em>:</strong>
 <ul>
-<li><strong>Contain a balance of emotional storytelling and clear, relevant, motivating information. </strong></li>
-<li><strong>Speak to the tangible benefits of the census</strong>. For example, the census means funding for your community for critical services like hospitals, health care, education, roads,&nbsp;<u><a href="https://www.benefits.gov/benefit/361">SNAP</a></u>, and more. (See the&nbsp;<u><a href="https://www.challenge.gov/assets/document-library/2020-Census-Resource-Guide-GOTC-Video-Prize-Challenge.pdf">&ldquo;key facts</a></u>&rdquo; section of the <a href="https://www.challenge.gov/assets/document-library/2020-Census-Resource-Guide-GOTC-Video-Prize-Challenge.pdf">Resource Guide</a> and <a href="https://2020census.gov/">2020census.gov</a> to learn more about the benefits.) It also determines how many representatives your state will have in the House of Representatives; these are the people who will vote on issues that deeply impact your life and community.</li>
-<li><strong>Focus on multiple benefits of completing the census </strong>where format allows.</li>
-<li><strong>Weave direct messaging into realistic, authentic situations that avoid stereotyping</strong> in order to clearly communicate the importance and relevance of census participation.</li>
+<li><strong>Contain a balance of emotional storytelling and clear, relevant, motivating information.</strong></li>
+<li><strong>Speak to the tangible benefits of the census</strong>. For example, the census means funding for your community for critical services like hospitals, health care, education, roads,&nbsp;<u><a href="https://www.benefits.gov/benefit/361">SNAP</a></u>, and more. (See the&nbsp;<u><a href="{{ site.baseurl }}/assets/document-library/2020-Census-Resource-Guide-GOTC-Video-Prize-Challenge-UPDATED.pdf">&ldquo;key facts</a></u>&rdquo; section of the <a href="{{ site.baseurl }}/assets/document-library/2020-Census-Resource-Guide-GOTC-Video-Prize-Challenge-UPDATED.pdf">Resource Guide</a> and <a href="https://2020census.gov/">2020census.gov</a> to learn more about the benefits.) It also determines how many representatives your state will have in the House of Representatives; these are the people who will vote on issues that deeply impact your life and community.</li>
+<li><strong>Focus on multiple benefits of completing the census&nbsp;</strong>where format allows.</li>
+<li><strong>Weave direct messaging into realistic, authentic situations that avoid stereotyping</strong>in order to clearly communicate the importance and relevance of census participation.</li>
+</ul>
 </li>
 <li><strong>General messaging guidance:</strong>
 <ul>
@@ -119,22 +123,35 @@ point-of-contact: census.accelerate@census.gov
 </li>
 <li><strong>Additional messaging guidance for specific audiences:</strong>
 <ul>
-<li>Consider using languages other than English (there are <u><a href="https://www.census.gov/programs-surveys/decennial-census/2020-census/planning-management/language-resources/language-guides.html">59 language guides available</a></u>; the census itself is available in 13 languages).</li>
+<li>Consider using languages other than English (there are&nbsp;<u><a href="https://www.census.gov/programs-surveys/decennial-census/2020-census/planning-management/language-resources/language-guides.html">59 language guides available</a></u>; the census itself is available in 13 languages).</li>
 <li>In messaging research, young people connected with diversity and inclusion and demonstrated a deep understanding of the key messages and effects of the census.</li>
 </ul>
 </li>
+<li><strong>Strike the right tone in light of current global events:</strong>
 <ul>
-<li><strong>Consider the timing of this challenge, which will conclude in the &ldquo;reminder phase&rdquo;:&nbsp;</strong>When winners of this challenge are announced<strong>&nbsp;in May</strong>, the national census advertising campaign will be in the &ldquo;reminder&rdquo; phase.</li>
+<li>As families and individuals across the U.S. settle into a new reality, people are searching for ways to connect with their communities from their living rooms. Parents and caregivers are looking for something to teach or do with their children, businesses are trying to stay afloat, and local governments are trying to keep their communities safe and informed. Despite the current situation, it&rsquo;s important to remember that future funding for many of the critical healthcare and emergency services being used today will be determined by communities participating in the 2020 Census.</li>
+<li><strong>Key message to incorporate into videos: </strong>
+<ul>
+<li><strong>It has never been easier to respond on your own, either online, by phone, or by mail, without having to meet a census taker. </strong></li>
+<li><strong>Responding now will minimize the need for the Census Bureau to send census takers out into communities to follow up. </strong></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><em>Please <u><a href="https://2020census.gov/en/news-events/press-kits/covid-19.html">check this page</a></u> for regular updates.</em></p>
+<ul>
+<li><strong>Additional timing considerations of the challenge, which will conclude in the &ldquo;reminder phase&rdquo;:</strong>When winners of this challenge are announced<strong>&nbsp;in May</strong>, the national census advertising campaign will be in the &ldquo;reminder&rdquo; phase.
 <ul>
 <li>The key message during this phase is that although the census will have kicked off in March,&nbsp;<strong>it&rsquo;s not too late to respond.</strong></li>
-<li>During the reminder phase, census-takers (officially called &ldquo;enumerators&rdquo;) will start going door-to-door to collect responses. Yet, for many people, a knock on the door by a government official may not be welcome (please see <a href="https://www.census.gov/newsroom/press-releases/2020/statement-coronavirus.html">U.S. Census Bureau&rsquo;s statement on Coronavirus (COVID-19) and the 2020 Census</a>).<strong>&nbsp;</strong><strong><a href="https://www2.census.gov/programs-surveys/decennial/2020/program-management/pmr-materials/02-01-2019/pmr-cbams-comm-2019-02-01.pdf?">Message testing</a></strong><strong> from the </strong><strong><a href="https://www.census.gov/programs-surveys/decennial-census/2020-census/research-testing/communications-research/2020_cbams.html">Census Barriers, Attitudes and Motivators Study (CBAMS)</a></strong><strong> shows that people may be motivated to respond online knowing that it will make it less likely for a census worker to come to their door, if messaging includes language like &ldquo;it&rsquo;s not too late to respond&rdquo;.</strong></li>
-<li>Effective messages specific to the reminder phase include:</li>
+<li>Effective messages specific to the reminder phase include:
 <ul>
 <li><strong>Convey urgency</strong>: it is important to fill out the census right away.</li>
-<li>You can still respond online today before you get a knock on the door.</li>
-<li>If you do get a knock on the door by an official census worker (who can verify their identity), answer it.&nbsp;<strong>Census takers (enumerators) are friendly people, often from your own neighborhood, and it helps to humanize them.</strong>&nbsp;They are working to better the community for everyone (i.e. they are not &ldquo;coming to get you and your information&rdquo;).</li>
+<li>You can still respond online today before you get a knock on the door by a census-taker (officially called an &ldquo;enumerator&rdquo;).</li>
 </ul>
+</li>
 </ul>
+</li>
 </ul>
 <p><strong>Guidance for Video Tags and Titles</strong></p>
 <p>Appropriately tagging and titling videos can make them more visible and discoverable, and help mitigate other content that is problematic or misinformed.&nbsp; Some suggested titles and/or tags, used by the U.S. Census Bureau and Census Partners, include:</p>
@@ -189,7 +206,7 @@ point-of-contact: census.accelerate@census.gov
 <li>Is this video memorable?</li>
 </ul>
 </li>
-<li><strong>Ability to Reach to Hard to Count Population(s) (25%):</strong>&nbsp;This score focuses on the ability of the video messages to meaningfully reach hard-to-count populations. Each video&nbsp;<strong>must target at least&nbsp;one&nbsp;<a href="https://www.census.gov/newsroom/blogs/director/2018/11/counting_everyoneon.html">hard-to-count (HTC) population</a>,&nbsp;&nbsp;</strong>such as (but not limited to): ethnic and racial minorities, non-native English speakers, millennials/gen Z, families with young children, (please see page 2 of the&nbsp;<u><a href="https://federalist-2c628203-05c2-48ab-8f87-3eda79380559.app.cloud.gov/preview/gsa/challenges-and-prizes/update-1106-per-agency-request/assets/document-library/2020-Census-Resource-Guide-GOTC-Video-Prize-Challenge.pdf">Resource Guide</a></u>&nbsp;for a comprehensive list). The score for this category includes considerations such as:
+<li><strong>Ability to Reach to Hard to Count Population(s) (25%):</strong>&nbsp;This score focuses on the ability of the video messages to meaningfully reach hard-to-count populations. Each video&nbsp;<strong>must target at least&nbsp;one&nbsp;<a href="https://www.census.gov/newsroom/blogs/director/2018/11/counting_everyoneon.html">hard-to-count (HTC) population</a>,&nbsp;&nbsp;</strong>such as (but not limited to): ethnic and racial minorities, non-native English speakers, millennials/gen Z, families with young children, (please see page 2 of the&nbsp;<u><a href="{{ site.baseurl }}/assets/document-library/2020-Census-Resource-Guide-GOTC-Video-Prize-Challenge-UPDATED.pdf">Resource Guide</a></u>&nbsp;for a comprehensive list). The score for this category includes considerations such as:
 <ul>
 <li>Does the video effectively communicate messaging to the selected HTC group(s)?</li>
 <li>Does the video accurately utilize specific cultural, historical, or language assets to strengthen messaging?</li>
@@ -249,7 +266,7 @@ point-of-contact: census.accelerate@census.gov
 </ol>
 <p><strong>(3) Video information:&nbsp; </strong>In the same word or PDF document, in <u>no more than 2 page single spaced (</u>at least 11 point standard font), please briefly describe the following information about the video:</p>
 <ol style="list-style-type: lower-alpha;">
-<li><strong><em>Which Hard To Count community(ies) are targeted in this video? </em></strong>Videos must target at least one HTC community from the list described on page 2 of the <u><a href="https://www.challenge.gov/assets/document-library/2020-Census-Resource-Guide-GOTC-Video-Prize-Challenge.pdf">Resource Guide</a> and <a href="https://2020census.gov/">2020census.gov</a></u>.</li>
+<li><strong><em>Which Hard To Count community(ies) are targeted in this video? </em></strong>Videos must target at least one HTC community from the list described on page 2 of the <u><a href="{{ site.baseurl }}/assets/document-library/2020-Census-Resource-Guide-GOTC-Video-Prize-Challenge-UPDATED.pdf">Resource Guide</a> and <a href="https://2020census.gov/">2020census.gov</a></u>.</li>
 <li><strong><em>How did you engage members of the target HTC community?</em></strong> Describe whether and how you engaged people from the targeted HTC group(s) in developing or testing the video content, seeking feedback, iterating on the video, and/or engaging them directly in production. If you did not engage members of the target community directly, explain why you believe this video will resonate meaningfully with the audience.</li>
 <li><strong><em>How and when was this video made? </em></strong>Briefly describe the production timeline and process.</li>
 <li><strong><em>How will you share this video widely with your target audience?</em></strong> Describe how, within whatever resources you have available, you will distribute this video, increase its virality, and ensure that members of the target audience are viewing the video.</li>
