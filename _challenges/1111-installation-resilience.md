@@ -4,7 +4,7 @@ permalink: /challenge/base-security-and-defense/
 challenge-id: 1111
 status: open
 sidenav: false
-card-image: /assets/images/cards/Resilience.png
+card-image: /assets/images/cards/base-resilience.png
 agency-logo: dod_seal.jpg
 challenge-title: Installation Resilience
 tagline: Help us create the base of the future!

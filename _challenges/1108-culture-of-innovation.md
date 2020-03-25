@@ -4,7 +4,7 @@ permalink: /challenge/culture-of-innovation/
 challenge-id: 1108
 status: open
 sidenav: false
-card-image: /assets/images/cards/AFWERX-Innovation.png
+card-image: /assets/images/cards/culture.png
 agency-logo: dod_seal.jpg
 challenge-title: The Culture of Innovation
 tagline: Help us create the base of the future!
