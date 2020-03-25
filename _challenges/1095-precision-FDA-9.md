@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/precision-FDA-9/
 challenge-id: 1095
-status: closed
+status: open
 sidenav: false
 card-image: /assets/images/cards/openFDA.png
 agency-logo: FDA_blue_logo.png
@@ -14,13 +14,12 @@ partners-non-federal:
 external-url: https://go.usa.gov/xd9nG
 total-prize-offered-cash:
 type-of-challenge: Analytics, visualization, and algorithms
-submission-start: 01/17/2020 02:20 PM
-submission-end: 03/13/2020 11:59 PM
+submission-start: 2020/01/17 02:20 PM
+submission-end: 2020/05/18 11:59 PM
 submission-link:
 prize: true
 fiscal-year: FY20
 legal-authority: America COMPETES Act
-challenge-manager: Elaine Johanson
-challenge-manager-email: Elaine.Johanson@fda.hhs.gov
-point-of-contact: precisionfda@fda.hhs.gov
+challenge-manager: Elaine Johanson, Elaine.Johanson@fda.hhs.gov
+challenge-manager-email: precisionfda@fda.hhs.gov
 ---
