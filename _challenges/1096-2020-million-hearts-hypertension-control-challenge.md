@@ -21,7 +21,8 @@ prize: true
 fiscal-year: FY20
 legal-authority: America COMPETES Act
 challenge-manager: Andrea Neiman
-challenge-manager-email: MillionHearts@cdc.gov
+challenge-manager-email: 
+point-of-contact: MillionHearts@cdc.gov
 ---
 
 

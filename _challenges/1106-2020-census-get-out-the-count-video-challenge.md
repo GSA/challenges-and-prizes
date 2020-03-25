@@ -20,8 +20,9 @@ submission-link:
 prizes: true
 fiscal-year: FY20
 legal-authority: America COMPETES Act
-challenge-manager: Mara Abrams, mara.abrams@census.gov
-challenge-manager-email: census.accelerate@census.gov
+challenge-manager: Mara Abrams
+challenge-manager-email: mara.abrams@census.gov
+point-of-contact: census.accelerate@census.gov
 ---
 
 

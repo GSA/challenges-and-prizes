@@ -22,6 +22,7 @@ fiscal-year: FY20
 legal-authority: America COMPETES Act
 challenge-manager: Ami Patel
 challenge-manager-email: ami.patel@acl.hhs.gov
+point-of-contact: ami.patel@acl.hhs.gov
 ---
 
 

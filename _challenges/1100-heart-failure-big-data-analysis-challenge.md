@@ -20,8 +20,9 @@ submission-link:
 prize: true
 fiscal-year: FY20
 legal-authority: America COMPETES
-challenge-manager: Laura Hsu, laura.hsu@nih.gov
-challenge-manager-email: nhlbi_challenge@nhlbi.nih.gov
+challenge-manager: Laura Hsu
+challenge-manager-email: laura.hsu@nih.gov
+point-of-contact: nhlbi_challenge@nhlbi.nih.gov
 ---
 
 

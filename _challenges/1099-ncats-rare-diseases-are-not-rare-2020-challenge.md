@@ -20,8 +20,9 @@ submission-link:
 prize: true
 fiscal-year: FY20
 legal-authority: America COMPETES Act
-challenge-manager: Crina Frincu, cfrincu@mail.nih.gov
-challenge-manager-email: RDChallenge@nih.gov
+challenge-manager: Crina Frincu
+challenge-manager-email: cfrincu@mail.nih.gov
+point-of-contact: RDChallenge@nih.gov
 ---
 
 
