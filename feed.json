@@ -11,7 +11,7 @@ permalink: /feed-open.json
     "_challenge": [
 {% for item in site.challenges %}
         {
-            "challenge-id": "{{ item.id}}",
+            "challenge-id": "{{ item.challenge-id}}",
             "challenge-title": "{{ item.challenge-title }}",
             "permalink": "{{ site.url }}{{ item.permalink }}",
             "external-url": "{{ item.external-url }}",
@@ -26,8 +26,8 @@ permalink: /feed-open.json
             "agency": "{{ item.agency }}",
             "partner-agencies-federal": "{{ item.partner-agencies-federal }}",
             "partners-non-federal": "{{ item.partners-non-federal }}",
-            "challenge-manager-email": "{{ item.challenge-manager-email }}",
             "challenge-manager": "{{ item.challenge-manager }}",
+            "challenge-manager-email": "{{ item.challenge-manager-email }}",
             "point-of-contact": "{{ item.point-of-contact }}",
             "submission-start": "{{ item.submission-start }}",
             "submission-end": "{{ item.submission-end }}",
