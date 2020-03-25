@@ -20,8 +20,9 @@ submission-link:
 prize: true
 fiscal-year: FY20
 legal-authority: Space Act
-challenge-manager: Monsi Roman, monsi.roman@nasa.gov
-challenge-manager-email: hq-stmd-centennialchallenges@mail.nasa.gov
+challenge-manager: Monsi Roman
+challenge-manager-email: monsi.roman@nasa.gov
+point-of-contact: hq-stmd-centennialchallenges@mail.nasa.gov
 ---
 
 

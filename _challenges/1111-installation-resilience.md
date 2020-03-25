@@ -20,6 +20,7 @@ submission-link:
 prizes: true
 fiscal-year: FY20
 legal-authority: Agency specific prize authority
-challenge-manager: Heather Renze, heather.renze.ctr@afwerx.af.mil
-challenge-manager-email: 
+challenge-manager: Heather Renze
+challenge-manager-email: heather.renze.ctr@afwerx.af.mil
+point-of-contact: support@afwerx.af.mil
 ---

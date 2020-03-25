@@ -20,8 +20,9 @@ submission-link: http://sand2020.nianet.org
 prize: true
 fiscal-year: FY20
 legal-authority: America COMPETES
-challenge-manager: Genevieve Ebarl, Genevieve.Ebarle@nianet.org
-challenge-manager-email: lena.little@nasa.gov
+challenge-manager: Genevieve Ebarl
+challenge-manager-email: Genevieve.Ebarle@nianet.org
+point-of-contact: lena.little@nasa.gov
 ---
 
 

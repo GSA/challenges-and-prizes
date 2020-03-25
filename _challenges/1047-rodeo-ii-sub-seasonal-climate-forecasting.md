@@ -20,8 +20,9 @@ submission-link: http://topcoder.com/lp/rodeo2
 prize: true
 legal-authority: Procurement Authority
 fiscal-year: FY19-FY20
-challenge-manager: Jen Beardsley, jbeardsley@usbr.gov
-challenge-manager-email: prize@usbr.gov
+challenge-manager: Jen Beardsley
+challenge-manager-email: jbeardsley@usbr.gov
+point-of-contact: prize@usbr.gov
 ---
 
 <!-- Description start -->

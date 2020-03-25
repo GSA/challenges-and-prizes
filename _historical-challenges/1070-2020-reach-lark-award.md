@@ -20,8 +20,9 @@ submission-link:
 prize: true
 fiscal-year: FY19, FY20
 legal-authority: America COMPETES Act
-challenge-manager: Delia Sikes, wuy5@cdc.gov
-challenge-manager-email: dnpaopolicy@cdc.gov
+challenge-manager: Delia Sikes
+challenge-manager-email: wuy5@cdc.gov
+point-of-contact: dnpaopolicy@cdc.gov
 ---
 
 <!-- Description start -->

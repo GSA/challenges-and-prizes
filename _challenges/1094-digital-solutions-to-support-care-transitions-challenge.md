@@ -20,8 +20,9 @@ submission-link:
 prize: true
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
-challenge-manager: Susan Kerin, susank@capconcorp.com
-challenge-manager-email: ahrqchallenge@ahrq.hhs.gov
+challenge-manager: Susan Kerin
+challenge-manager-email: susank@capconcorp.com
+point-of-contact: ahrqchallenge@ahrq.hhs.gov
 ---
 
 

@@ -20,8 +20,9 @@ submission-link:
 prize: true
 fiscal-year: FY20
 legal-authority: Grants and Cooperative Agreements
-challenge-manager: Kim Nelson, knelson@nsf.gov, and Ellen Hause, ehause@aacc.nche.edu
-challenge-manager-email: ccic@aacc.nche.edu
+challenge-manager: Kim Nelson and Ellen Hause
+challenge-manager-email: knelson@nsf.gov, ehause@aacc.nche.edu
+point-of-contact: ccic@aacc.nche.edu
 ---
 
 
