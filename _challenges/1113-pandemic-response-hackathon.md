@@ -24,10 +24,3 @@ challenge-manager: Stephen Konya, stephen.konya@hhs.gov
 challenge-manager-email: hackathon@datavant.com
 ---
 
-
-
-<!-- Description start -->
-### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
-
-The Pandemic Response Hackathon is a virtual hackathon aimed at better understanding and mitigating the spread of COVID-19 and future pandemics. Our goal is to bring public health professionals alongside the technology community’s talent to contribute to the world’s response to the pandemic. Hackathon projects will be formulated and judged by an interdisciplinary panel of public health, health IT, and policy experts.
