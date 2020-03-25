@@ -20,8 +20,9 @@ submission-link:
 prize: true
 fiscal-year: FY20
 legal-authority: America COMPETES Act
-challenge-manager: Craig Schlenoff, craig.schlenoff@nist.gov
-challenge-manager-email: ariac@nist.gov
+challenge-manager: Craig Schlenoff
+challenge-manager-email: craig.schlenoff@nist.gov
+point-of-contact: ariac@nist.gov
 ---
 
 

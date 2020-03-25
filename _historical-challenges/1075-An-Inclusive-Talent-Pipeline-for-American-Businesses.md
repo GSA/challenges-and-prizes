@@ -20,8 +20,9 @@ submission-link:
 prize: true
 fiscal-year: FY19, FY20
 legal-authority: America COMPETES Act
-challenge-manager: Teresa Nguyen, teresa.nguyen@acl.hhs.gov
-challenge-manager-email: dana.fink@acl.hhs.gov
+challenge-manager: Teresa Nguyen
+challenge-manager-email: teresa.nguyen@acl.hhs.gov
+point-of-contact: dana.fink@acl.hhs.gov
 ---
 
 

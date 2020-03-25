@@ -21,7 +21,8 @@ prize: true
 fiscal-year: FY19, FY20
 legal-authority: Other
 challenge-manager: Shamara Collins
-challenge-manager-email: solardistrictcup@nrel.gov
+challenge-manager-email: 
+point-of-contact: solardistrictcup@nrel.gov
 ---
 
 

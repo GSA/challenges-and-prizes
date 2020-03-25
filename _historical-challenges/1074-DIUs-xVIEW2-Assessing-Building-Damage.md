@@ -20,8 +20,9 @@ submission-link:
 prize: true
 fiscal-year: FY19, FY20
 legal-authority: Direct Prize Authority – DOD
-challenge-manager: Johanna Spangenberg Jones, Johanna.ctr@diu.mil
-challenge-manager-email: xview@diu.mil
+challenge-manager: Johanna Spangenberg Jones
+challenge-manager-email: Johanna.ctr@diu.mil
+point-of-contact: xview@diu.mil
 ---
 
 <!-- Description start -->

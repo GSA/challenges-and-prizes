@@ -13,8 +13,8 @@ tagline: >-
   xTechSearch will highlight opportunities for small businesses to collaborate
   with the Army to tackle the most critical Army modernization challenges.
 agency: Department of Defense - U.S. Army
-partner-agencies-federal: null
-external-url: null
+partner-agencies-federal: 
+external-url: 
 total-prize-offered-cash: '$2,040,000'
 submission-start: '2020/03/09 05:00 PM'
 submission-end: '2020/04/01 02:59 AM'
@@ -23,8 +23,8 @@ legal-authority: America COMPETES Act
 challenge-manager: 'Zeke Topolosky, Zeke.j.topolosky.civ@mail.mil'
 challenge-manager-email: usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil
 point-of-contact: usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil
-partners-non-federal: null
-submission-link: null
+partners-non-federal: 
+submission-link: 
 ---
 <!-- Description start -->
 

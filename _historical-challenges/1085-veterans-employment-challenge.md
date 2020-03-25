@@ -20,8 +20,9 @@ submission-link:
 prize: true
 fiscal-year: FY20
 legal-authority: America COMPETES
-challenge-manager: Matthew Grob, grob.matthew.a@dol.gov
-challenge-manager-email: VETS.Challenge2020@dol.gov
+challenge-manager: Matthew Grob
+challenge-manager-email: grob.matthew.a@dol.gov
+point-of-contact: VETS.Challenge2020@dol.gov
 ---
 
 

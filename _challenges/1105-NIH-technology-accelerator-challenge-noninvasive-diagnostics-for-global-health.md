@@ -20,8 +20,9 @@ submission-link: https://venturewell.org/ntac/
 prizes: true
 fiscal-year: FY20
 legal-authority: Unspecified
-challenge-manager: Tiffani Bailey Lash, Tiffani.Lash@nih.gov
-challenge-manager-email: NIBIBChallenge@nih.gov
+challenge-manager: Tiffani Bailey Lash
+challenge-manager-email: Tiffani.Lash@nih.gov
+point-of-contact: NIBIBChallenge@nih.gov
 ---
 
 

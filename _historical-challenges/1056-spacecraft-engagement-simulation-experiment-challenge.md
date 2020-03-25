@@ -21,7 +21,8 @@ prize: false
 fiscal-year: FY19
 legal-authority: America COMPETES
 challenge-manager: Steve Werner
-challenge-manager-email: info@mgmwerx.org
+challenge-manager-email: 
+point-of-contact: info@mgmwerx.org
 ---
 
 <!-- Description start -->

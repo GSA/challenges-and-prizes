@@ -23,4 +23,5 @@ fiscal-year: FY18-21
 legal-authority: Direct Prize Authority - DoD
 challenge-manager: Dr. Timothy Chung
 challenge-manager-email: timothy.chung@darpa.mil
+point-of-contact: timothy.chung@darpa.mil
 ---

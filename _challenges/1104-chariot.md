@@ -20,8 +20,9 @@ submission-link:
 prizes: true
 fiscal-year: FY20,  FY21
 legal-authority: America COMPETES Act
-challenge-manager: Sarah Hughes, sarah.hughes@nist.gov
-challenge-manager-email: psprizes@nist.gov
+challenge-manager: Sarah Hughes
+challenge-manager-email: sarah.hughes@nist.gov
+point-of-contact: psprizes@nist.gov
 ---
 
 <p><strong>NOTE:</strong> There are different submission deadlines for each track in Phase 1.</p>

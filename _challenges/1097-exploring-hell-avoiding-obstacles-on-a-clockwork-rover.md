@@ -20,8 +20,9 @@ submission-link:
 prize: true
 fiscal-year: FY20
 legal-authority: Other
-challenge-manager: Sarah Schlieder, sarah.e.schlieder@nasa.gov
+challenge-manager: Sarah Schlieder
 challenge-manager-email: sarah.e.schlieder@nasa.gov
+point-of-contact: sarah.e.schlieder@nasa.gov
 ---
 
 

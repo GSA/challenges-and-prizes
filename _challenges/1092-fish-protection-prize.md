@@ -20,8 +20,9 @@ submission-link: https://americanmadechallenges.org/fishprotection
 prize: true
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES
-challenge-manager: Jennifer Garson, Jennifer.Garson@ee.doe.gov
-challenge-manager-email: Fish.Protection@nrel.gov
+challenge-manager: Jennifer Garson
+challenge-manager-email: Jennifer.Garson@ee.doe.gov
+point-of-contact: Fish.Protection@nrel.gov
 ---
 
 

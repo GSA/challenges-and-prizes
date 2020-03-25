@@ -20,8 +20,9 @@ submission-link:
 prize: true
 fiscal-year: FY20
 legal-authority: Grants Authority
-challenge-manager: Dr. Eric M. Johnson Chavarria, emjchavarria@synapse.org
+challenge-manager: Dr. Eric M. Johnson Chavarria
 challenge-manager-email: emjchavarria@synapse.org
+point-of-contact: emjchavarria@synapse.org
 ---
 
 
