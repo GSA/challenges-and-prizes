@@ -14,8 +14,8 @@ partners-non-federal: Datavant, American Public Health Association, Komodo Healt
 external-url: https://datavant.com/pandemic-response-hackathon/
 total-prize-offered-cash:
 type-of-challenge: Ideas, software and apps, creative (multimedia & design), technology demonstration and hardware, analytics, visualizations and algorithms
-submission-start: 2020/03/23 9 a.m.
-submission-end: 2020/03/29 3 p.m.
+submission-start: 2020/03/23 9:00 AM
+submission-end: 2020/03/29 3:00 PM
 submission-link: https://datavant.com/pandemic-response-hackathon/
 prize: true
 fiscal-year: FY20
