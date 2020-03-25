@@ -28,6 +28,7 @@ permalink: /feed-open.json
             "challenge-manager-email": "{{ item.challenge-manager-email }}",
             "challenge-manager": "{{ item.challenge-manager }}",
             "challenge-manager-email": "{{ item.challenge-manager-email }}",
+            "point-of-contact": "{{ item.point-of-contact }}",
             "submission-start": "{{ item.submission-start }}",
             "submission-end": "{{ item.submission-end }}",
             "description": "{{ item.description }}",
