@@ -42,7 +42,7 @@ description: >-
 
   This challenge series will first have one traditional marathon match challenge
   to establish predictive algorithms on historical weather data, and then
-  recurring data science challenges (sprints) over the next**full year**to
+  recurring data science challenges (sprints) over the next **full year** to
   refine those solutions on live weather data.
 
 
@@ -59,15 +59,15 @@ description: >-
   every two weeks over the full year.
 
 
-  **Marathon Match Winners:**Anticipate announcement late to early September
+  **Marathon Match Winners:** Anticipate announcement late to early September
   2019
 
 
-  **Data Science Sprint Winners:**Anticipate announcement of winners after each
+  **Data Science Sprint Winners:** Anticipate announcement of winners after each
   sprint, beginning in late Fall 2019
 
 
-  **Data Science Full Year Winners:**Anticipate announcement of winners at the
+  **Data Science Full Year Winners:** Anticipate announcement of winners at the
   end of the full year in late 2020 to possibly early 2021.
 prizes: >-
   This series will have more than $800,000 in prize money available over the
@@ -77,13 +77,13 @@ rules: >-
   details can be found on the [Topcoder Rodeo II
   website](http://topcoder.com/lp/rodeo2).
 judging: >-
-  **Marathon Match:**Short term competition (over a 1-2 month period beginning
+  **Marathon Match:** Short term competition (over a 1-2 month period beginning
   in July) with solvers submitting a hind-cast over a set period of historic
   temperature and precipitation data. Performance of submissions will be
   evaluated against historic data.
 
 
-  **Data Science Sprints:**Year-long competition following the Marathon Match
+  **Data Science Sprints:** Year-long competition following the Marathon Match
   with solvers submitting forecasts every two weeks. Submissions will be scored
   against real-time forecasts at the 3-4 week and 5-6 week timeframes
 how-to-enter: >-
