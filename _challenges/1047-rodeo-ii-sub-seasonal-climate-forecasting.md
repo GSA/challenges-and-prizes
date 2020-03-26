@@ -1,28 +1,32 @@
 ---
-layout: front-matter-data
+challenge-title: Rodeo II - Sub-Seasonal Climate Forecasting
+layout: front-matter-data-netlify
 permalink: /challenge/rodeo-ii-sub-seasonal-climate-forecasting/
 challenge-id: 1047
 status: open
 sidenav: true
 card-image: /assets/images/cards/Sub-Seasonal.png
 agency-logo: usbr.jpg
-challenge-title: Rodeo II - Sub-Seasonal Climate Forecasting
 tagline: Closing the Gap on Sub-Seasonal Climate Forecasting.
 agency: Department of the Interior - Bureau of Reclamation
 partner-agencies-federal: NOAA - National Integrated Drought Information System
-partners-non-federal: 
-external-url:
-total-prize-offered-cash:
-type-of-challenge:  Analytics, visualizations and algorithms
-submission-start: 2019/06/27 11:00 AM
-submission-end: 2020/10/01 12:00 AM
-submission-link: http://topcoder.com/lp/rodeo2
-prize: true
-legal-authority: Procurement Authority
+external-url: null
+total-prize-offered-cash: null
+type-of-challenge: 'Analytics, visualizations and algorithms'
+submission-start: '2019/06/27 11:00 AM'
+submission-end: '2020/10/01 12:00 AM'
 fiscal-year: FY19-FY20
+legal-authority: Procurement Authority
 challenge-manager: Jen Beardsley
 challenge-manager-email: jbeardsley@usbr.gov
 point-of-contact: prize@usbr.gov
+prize: true
+rules: >-
+  All contest details, including timeline, marathon match, and data sprint
+  details can be found on the [Topcoder Rodeo II
+  website](http://topcoder.com/lp/rodeo2).
+partners-non-federal: null
+submission-link: 'http://topcoder.com/lp/rodeo2'
 ---
 
 <!-- Description start -->
