@@ -14,13 +14,13 @@ partners-non-federal: MIT
 external-url: https://covid19challenge.mit.edu/
 total-prize-offered-cash: 
 type-of-challenge: Software and apps
-submission-start: 2020/04/03
-submission-end:  2020/04/05
+submission-start: 2020/04/03 06:00 PM
+submission-end:  2020/04/05 06:00 PM
 submission-link:
 prize: true
 fiscal-year: FY21
 legal-authority: Other
 challenge-manager: Suzanne Shirley
 challenge-manager-email: Suzanne.Shirley@va.gov
-point-of-contact: 
+point-of-contact: covid19challenge@mit.edu
 ---
