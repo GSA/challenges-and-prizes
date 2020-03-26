@@ -22,6 +22,7 @@ legal-authority: America COMPETES
 challenge-manager: Jennifer Garson
 challenge-manager-email: Jennifer.Garson@ee.doe.gov
 point-of-contact: Fish.Protection@nrel.gov
+prizes: ANOTHER EDIT HERE
 prize: true
 partners-non-federal: 'Pacific Northwest National Laboratory, National Renewable Energy Laboratory'
 submission-link: 'https://americanmadechallenges.org/fishprotection'
