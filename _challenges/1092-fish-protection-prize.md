@@ -1,28 +1,31 @@
 ---
+challenge-title: Fish Protection Prize
 layout: front-matter-data
 permalink: /challenge/fish-protection-prize/
 challenge-id: 1092
 status: open
-sidenav: true 
+sidenav: true
 card-image: /assets/images/cards/1092-Fish-Protection-Prize-DOE-341x160.jpg
 agency-logo: 256px-Seal_of_the_United_States_Department_of_Energy.png
-challenge-title: Fish Protection Prize
-tagline: Catalyze new solutions, designs and strategies to protect fish from water infrastructure, such as water diversions, pipes and hydropower dam intakes.
+tagline: >-
+  Catalyze new solutions, designs and strategies to protect fish from water
+  infrastructure, such as water diversions, pipes and hydropower dam intakes.
 agency: Department of Energy - Water Power Technologies Office
 partner-agencies-federal: Department of the Interior - Bureau of Reclamation
-partners-non-federal: Pacific Northwest National Laboratory, National Renewable Energy Laboratory
-external-url:
-total-prize-offered-cash: $700,000
-type-of-challenge: Ideation, Technology Demonstration/Hardware
+external-url: null
+total-prize-offered-cash: '$700,000'
+type-of-challenge: 'Ideation, Technology Demonstration/Hardware'
 submission-start: 2020/01/27 8 a.m.
 submission-end: 2020/04/24 5 p.m.
-submission-link: https://americanmadechallenges.org/fishprotection
-prize: true
-fiscal-year: FY20, FY21
+fiscal-year: 'FY20, FY21'
 legal-authority: America COMPETES
 challenge-manager: Jennifer Garson
 challenge-manager-email: Jennifer.Garson@ee.doe.gov
 point-of-contact: Fish.Protection@nrel.gov
+prize: true
+partners-non-federal: 'Pacific Northwest National Laboratory, National Renewable Energy Laboratory'
+submission-link: 'https://americanmadechallenges.org/fishprotection'
+description: TEST EDIT HERE
 ---
 
 
