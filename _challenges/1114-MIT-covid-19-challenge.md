@@ -7,7 +7,7 @@ sidenav: false
 card-image: /assets/images/cards/MIT-COVID-19.png
 agency-logo: valogo.png
 challenge-title: MIT COVID-19 Challenge
-tagline: A series of hackathons to build solutions for the COVID-19 crisis. Next event, Beat the Pandemic, is April 3-5.
+tagline: In partnership with the Department of Veterans Affairs, MIT is hosting a series of virtual hackathons to build solutions for the COVID-19 crisis. Next event, Beat the Pandemic, is April 3-5.
 agency: Department of Veterans Affairs
 partner-agencies-federal:
 partners-non-federal: MIT
