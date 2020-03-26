@@ -79,6 +79,9 @@ description: >-
   **Key dates:** The Challenge begins on March 24, 2020. All video entries must
   be uploaded to YouTube and written entries submitted by 11:00 p.m. ET on June
   25, 2020.
+
+
+  **Submission URL:** <https://www.nsf.gov/ehr/stemdive.jsp>
 prizes: >-
   * Up to four Experts’ Choice awards of $2500, with no more than one from any
   category.
