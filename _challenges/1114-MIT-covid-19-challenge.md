@@ -7,7 +7,7 @@ sidenav: false
 card-image: /assets/images/cards/MIT-COVID-19.png
 agency-logo: valogo.png
 challenge-title: MIT COVID-19 Challenge
-tagline: Build a solution for the COVID-19 crisis
+tagline: MIT, the Department of Veterans Affairs and other partners invite you to build a solution for the COVID-19 crisis.
 agency: Department of Veterans Affairs
 partner-agencies-federal:
 partners-non-federal: MIT
