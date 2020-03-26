@@ -21,10 +21,14 @@ challenge-manager: Jen Beardsley
 challenge-manager-email: jbeardsley@usbr.gov
 point-of-contact: prize@usbr.gov
 prize: true
+description:
+prizes:
 rules: >-
   All contest details, including timeline, marathon match, and data sprint
   details can be found on the [Topcoder Rodeo II
   website](http://topcoder.com/lp/rodeo2).
+judging-criteria:
+how-to-enter:
 partners-non-federal: null
 submission-link: 'http://topcoder.com/lp/rodeo2'
 ---
