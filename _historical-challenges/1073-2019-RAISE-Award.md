@@ -20,7 +20,7 @@ submission-link:
 prize: true
 fiscal-year: FY19, FY20
 legal-authority: America COMPETES Act
-challenge-manager: Patricia Watts, patricia.watts@faa.gov
+challenge-manager: Patricia Watts
 challenge-manager-email: patricia.watts@faa.gov
 ---
 

@@ -20,8 +20,9 @@ submission-link: https://afwerxchallenge.com/botf
 prizes: true
 fiscal-year: FY20
 legal-authority: DOD Prize Authority  
-challenge-manager: Heather Renze, heather.renze.ctr@afwerx.af.mil
-challenge-manager-email: support@afwerx.af.mil
+challenge-manager: Heather Renze
+challenge-manager-email: heather.renze.ctr@afwerx.af.mil
+point-of-contact: support@afwerx.af.mil
 ---
 
 

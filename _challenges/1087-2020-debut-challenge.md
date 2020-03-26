@@ -22,6 +22,7 @@ fiscal-year: FY20
 legal-authority: America COMPETES Act
 challenge-manager: Zeynep Erim
 challenge-manager-email: Zeynep.Erim@nih.gov
+point-of-contact: Zeynep.Erim@nih.gov
 description: 
 ---
 

@@ -20,8 +20,9 @@ submission-link:
 prize: true
 fiscal-year: FY20, FY21
 legal-authority: Agency specific prize authority
-challenge-manager: Michael Karlbom, karlbom@spawar.navy.mil
-challenge-manager-email: AIATAC.PRIZE.CHALLENGE@NAVY.MIL
+challenge-manager: Michael Karlbom
+challenge-manager-email: karlbom@spawar.navy.mil
+point-of-contact: AIATAC.PRIZE.CHALLENGE@NAVY.MIL
 ---
 
 

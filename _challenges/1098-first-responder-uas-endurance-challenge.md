@@ -20,8 +20,9 @@ submission-link:
 prize: true
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
-challenge-manager: Terese Manley, terese.manley@nist.gov
-challenge-manager-email: jshapiro@capconcorp.com
+challenge-manager: Terese Manley
+challenge-manager-email: terese.manley@nist.gov
+point-of-contact: jshapiro@capconcorp.com
 ---
 
 

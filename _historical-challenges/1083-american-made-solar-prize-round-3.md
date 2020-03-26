@@ -22,6 +22,7 @@ fiscal-year: FY19, FY20
 legal-authority:
 challenge-manager: Nicholas Langle, Nicholas.Langle@nrel.gov
 challenge-manager-email: 
+point-of-contact: 
 ---
 
 

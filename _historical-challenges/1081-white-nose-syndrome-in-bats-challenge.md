@@ -20,8 +20,9 @@ submission-link:
 prize: true
 fiscal-year: FY20
 legal-authority: AMERICA Competes
-challenge-manager: Jason Goldberg, jgoldberg@fws.gov
-challenge-manager-email: WNSChallenge@fws.gov
+challenge-manager: Jason Goldberg
+challenge-manager-email: jgoldberg@fws.gov
+point-of-contact: WNSChallenge@fws.gov
 ---
 
 

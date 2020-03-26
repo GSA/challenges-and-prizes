@@ -20,8 +20,9 @@ submission-link:
 prize: true
 fiscal-year: FY20
 legal-authority: America COMPETES
-challenge-manager: Dr. Elena Koustova, koustovae@nida.nih.gov
+challenge-manager: Dr. Elena Koustova
 challenge-manager-email: koustovae@nida.nih.gov
+point-of-contact: koustovae@nida.nih.gov
 ---
 
 
