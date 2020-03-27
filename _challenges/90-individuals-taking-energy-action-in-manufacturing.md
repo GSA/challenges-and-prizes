@@ -5,8 +5,7 @@ permalink: /challenge/individuals-taking-energy-action-in-manufacturing-iteam/
 challenge-id: '90'
 status: open
 sidenav: true
-card-image: >-
-  /assets/netlify-uploads/256px-Seal_of_the_United_States_Department_of_Energy.png
+card-image: /assets/netlify-uploads/doe_logo_seal_color-302x1401.jpg
 agency-logo: >-
   /assets/netlify-uploads/256px-Seal_of_the_United_States_Department_of_Energy.png
 tagline: >-
@@ -167,7 +166,7 @@ rules: >-
   Read the full competition [rules
   document](https://americanmadechallenges.org/iteam/ITEAM_Prize_Competition_Rules.pdf).
 judging: >-
-  #### Energy Savings and Impact -**50%**
+  #### Energy Savings and Impact - **50%**
 
 
   Engineering-based results are acceptable, but true metered data is preferred.
@@ -177,7 +176,7 @@ judging: >-
   for other plants, auxiliary benefits beyond energy savings).
 
 
-  #### Initiative/Leadership -**30%**
+  #### Initiative/Leadership - **30%**
 
 
   Participants should show how their actions made the process or facility more
@@ -199,7 +198,7 @@ judging: >-
   company.
 
 
-  #### Innovation -**20%**
+  #### Innovation - **20%**
 
 
   Please articulate how this represents a new way of doing business for the
