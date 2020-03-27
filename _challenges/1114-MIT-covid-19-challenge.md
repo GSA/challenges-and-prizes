@@ -7,7 +7,7 @@ sidenav: false
 card-image: /assets/images/cards/MIT-COVID-19.png
 agency-logo: valogo.png
 challenge-title: MIT COVID19 Challenge
-tagline: Build solutions to beat the pandemic: protect the most vulnerable and support our health systems in the COVID19 crisis.
+tagline: Build solutions to beat the pandemic - protect the most vulnerable and support our health systems in the COVID19 crisis.
 agency: Department of Veterans Affairs
 partner-agencies-federal:
 partners-non-federal: MIT Martin Trust Center, MIT Innovation Initiative, MIT Industrial Liaison Program, MIT Hacking Medicine, MIT Sloan Healthcare Club, MIT Biotech Group, MIT Sandbox, Brigham Women’s iHub & Mass General Brigham, Digital Medicine Society, HTLH, Massachusetts Biotechnology Council, Netherlands Innovation Network, MIT Hong Kong Innovation Node, UHS - Universal Health Services, Abelson Taylor, Fish & Richardson, Health Data Science and Analytics Community, LENS Design, Hacking Medicine Institute, Prescribe Design, athenahealth, BCG Digital Ventures, InterSystems, MIT Systems Design & Management, Massachusetts eHealth Institute, Oregon Health Sciences University Inventathon, Cedars Sinai Accelerator
