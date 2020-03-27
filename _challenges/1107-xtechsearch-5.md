@@ -29,7 +29,6 @@ submission-link:
 <!-- Description start -->
 
 ### Description
-
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>The Assistant Secretary of the Army for Acquisition, Logistics and Technology (ASA(ALT)) is announcing the fifth iteration of the Army Expeditionary Technology Search &ndash; xTechSearch &ndash;&nbsp; prize competition. xTechSearch will highlight opportunities for small businesses to collaborate with the Army to tackle the most critical Army modernization challenges.</p>
@@ -41,7 +40,6 @@ submission-link:
 <!-- Prizes start -->
 
 ### Prizes
-
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>Prizes will be offered under 15 USC &sect;3719 (Prize competitions). The total prize pool is <strong>$2.04 million</strong>.</p>
@@ -122,10 +120,8 @@ submission-link:
 <!-- Rules start -->
 
 ### Rules
-
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p><strong>Rules</strong></p>
 <p>The entities allowed to participate in this competition must be sole proprietors or small business concerns in accordance with Small Business Administration guidance under 13 Code of Federal Regulations &sect; 121.201, or any entity willing and able to be registered as a small business in the United States (U.S.) if selected to participate in this competition.</p>
 <p>Each eligible entity:</p>
 <ul>
@@ -152,7 +148,6 @@ submission-link:
 <!-- Judging start -->
 
 ### Judging Criteria
-
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>Judging Panel</strong></p>
@@ -172,7 +167,6 @@ submission-link:
 <!--  How To Enter start -->
 
 ### How To Enter
-
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>The xTechSearch program is voluntary and open to all entities that meet the eligibility requirements. &nbsp;There may be only one submission per eligible entity.&nbsp; The registration information and upload submission must be received by 11:59 PM PST on 31 March 2020.&nbsp; Submissions received after the deadline will not be considered.</p>
