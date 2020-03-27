@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $500,000
 type-of-challenge: Software and apps
-submission-start: 2020/04/20 12:00 PM
-submission-end: 2020/08/21 05:00 PM
+submission-start: 2020/07/13 12:00 PM
+submission-end: 2020/12/07 05:00 PM
 submission-link:
 prize: true
 fiscal-year: FY20
@@ -31,6 +31,7 @@ point-of-contact: ami.patel@acl.hhs.gov
 ### Description
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<p>At an unprecedented pace, Federal and state leaders, community based organizations, and all avenues of the health care system are expending their time and resources to respond to the COVID-19 pandemic. We at ACL recognize the need and are expanding the timeline of this new funding opportunity. The Challenge Competition will now begin in July. As a result of this crises, there is a greater need for enhanced, standardized data tracking and referral processes and an even more need to connect people with the right community resources and supports. This will continue to be a priority as we think about the resources necessary to address the effects of COVID-19.</p>
 <p><strong>Today&rsquo;s Landscape of Health and Social Care Coordination for Older Adults and People with Disabilities:</strong></p>
 <p>Individual health plans and health systems are implementing technology approaches to screen and refer individuals to community resources in order to address their social needs and improve their health and overall well-being. However, the existing technology solutions lack interoperability and scalability within and across communities. Since 2003, states and community based organizations<sup>1</sup> (CBOs) have invested in robust resource directory and referral platforms through state <a href="https://nwd.acl.gov/">No Wrong Door (NWD) System</a> integration to streamline access to long term services and supports for older adults, individuals with disabilities, and their caregivers. State NWD Systems include a community based approach to person-centered planning and assessment, information and referral to state and community resources, and a governance structure that ensures these functions are available across the state. However, provider and plan specific referral platforms are often not leveraging this existing infrastructure that enables access to a variety of services and supports that address social needs.</p>
 <p>While some states have developed or are planning statewide technology platforms that enable social risk assessments and referrals from health care to community resources, there is a need for a more collaborative, multi-stakeholder approach that ensures the interoperability and scalability of such platforms.<sup>2</sup> As is, there is duplicative spending across stakeholders as they independently contract for different referral vendors to secure community connections. As a result, community based organizations are faced with the burden of accessing multiple platforms to receive and act on referrals. Opportunities to manage populations across a continuum of care are also limited when individuals seek care from providers with differing platforms that lack seamless connections to critical health and social care.</p>
@@ -40,19 +41,19 @@ point-of-contact: ami.patel@acl.hhs.gov
 <p>To demonstrate value and achieve seamless network integration, technical solutions are challenged with incorporating closed-loop referral and follow-up protocols to track and support individuals when they obtain services from any organization or health care provider within the network. Producing data on the individual, organizational, and regional levels about referrals, the prevalence of SDoH, and service utilization and outcomes guarantees opportunities to strengthen coordinated referral networks across CBOs, states, and the health care system. Technology-based platforms that enable linkages between healthcare providers and the existing ecosystem of community-based, social service organizations are challenged to more efficiently share standardized data to support referral processes and better informed decision-making, ensuring that individuals are seamlessly connected to resources that address their preferences, goals, values, and social determinants in ways that promote independence in the community for as long as possible.</p>
 <p>Critical partners for designing solutions to this Challenge should include a team of key stakeholders. Strong preference will be given to teams that include state leaders across aging, disability and Medicaid programs (or their designees), community based organizations in the aging and disability networks, health IT developers, health care providers, health plans, and others with expertise in technical standards, interoperability and data analysis.</p>
 <p>The Challenge will compete in three phases with cash prizes awarded in each phase. The total prize award available is $500,000. &nbsp;</p>
-<p>Phase 1: Concept &amp; Design Submission (April &ndash; August 2020)</p>
+<p>Phase 1: Concept &amp; Design Submission (July &ndash; December 2020)</p>
 <ul>
 <li>Form multi-stakeholder team, submit letter of intent and develop idea and concept designs that include data visualization methods and functional enhancements to technology platforms that connect health and social services.
 <ul>
-<li><strong><u>Intent to apply:</u></strong> An individual, entity, or captain of a team, with support of all team members, is to provide a brief letter of intent to submit an application for this Challenge. Email letter of intent by May 15, 2020 to <a href="mailto:ami.patel@acl.hhs.gov">ami.patel@acl.hhs.gov</a></li>
+<li><strong><u>Intent to apply:</u></strong> An individual, entity, or captain of a team, with support of all team members, is to provide a brief letter of intent to submit an application for this Challenge. Email letter of intent by August 14, 2020 to <a href="mailto:ami.patel@acl.hhs.gov">ami.patel@acl.hhs.gov</a></li>
 </ul>
 </li>
 </ul>
-<p>Phase 2: Proof of Concept &amp; Demonstration (September 2020 &ndash; January 2021)</p>
+<p>Phase 2: Proof of Concept &amp; Demonstration (January 2020 &ndash; June 2021)</p>
 <ul>
 <li>Participant teams will convene in-person or virtually to demo proposed solutions.</li>
 </ul>
-<p>Phase 3: Implementation &amp; Testing - (February &ndash; August 2021)</p>
+<p>Phase 3: Implementation &amp; Testing - (July &ndash; December 2021)</p>
 <ul>
 <li>Implementation and real-world testing of designed approach.</li>
 </ul>
@@ -120,7 +121,7 @@ point-of-contact: ami.patel@acl.hhs.gov
 <p><strong>Judging Panel</strong></p>
 <p>The Judging Panel will be composed of federal and/or other technical and subject matter experts.</p>
 <p><strong>Judging Criteria</strong></p>
-<p><strong>Additional detail on the judging criteria and submission guidelines will be posted prior to the submission start date of April 20, 2020. </strong></p>
+<p><strong>Additional detail on the judging criteria and submission guidelines will be posted prior to the submission start date.</strong></p>
 <p>1. Level of Innovation and Value to Stakeholders</p>
 <ul>
 <li>Bridge the gaps between community members and products, services, and information</li>
@@ -150,10 +151,3 @@ point-of-contact: ami.patel@acl.hhs.gov
 <li>Valid operational security and privacy measures are addressed.</li>
 </ul>
 
-<!--  How To Enter start -->
-### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
-
-<p>Phase 1: Concept &amp; Design Submission (April &ndash; August 2020)</p>
-<p><strong><u>Intent to apply:</u></strong> An individual, entity, or captain of a team, with support of all team members, is to provide a brief letter of intent to submit an application for this Challenge.</p>
-<p>Email letter of intent by May 15, 2020 to <a href="mailto:ami.patel@acl.hhs.gov">ami.patel@acl.hhs.gov</a></p>
