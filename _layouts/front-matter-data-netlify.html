@@ -95,31 +95,31 @@ permalink: json-page
                     {% endif %}
 
                     <!--Description-->
-                    {% if page.description != "" %}
+                    {% if page.description %}
                     <h3 class="text-accent-warm-dark font-heading-lg challenge-section" id="description">Description</h3>    
                     {{ page.description | markdownify }}
                     {% endif %}
 
                     <!--Prizes-->
-                    {% if page.prizes != "" %}
+                    {% if page.prizes %}
                     <h3 class="text-accent-warm-dark font-heading-lg challenge-section" id="prizes">Prizes</h3>
                     {{ page.prizes | markdownify }}
                     {% endif %}
                 
                     <!--Rules-->
-                    {% if page.rules != "" %}
+                    {% if page.rules %}
                     <h3 class="text-accent-warm-dark font-heading-lg challenge-section" id="rules">Rules</h3>
                     {{ page.rules | markdownify }}
                     {% endif %}
 
                     <!--Judging Criteria-->
-                    {% if page.judging != "" %}
+                    {% if page.judging %}
                     <h3 class="text-accent-warm-dark font-heading-lg challenge-section" id="judging-criteria">Judging Criteria</h3>
                     {{ page.judging | markdownify }}
                     {% endif %}
 
                     <!--How To Enter-->
-                    {% if page.how-to-enter != "" %}
+                    {% if page.how-to-enter %}
                     <h3 class="text-accent-warm-dark font-heading-lg challenge-section" id="how-to-enter">How To Enter</h3>
                     {{ page.how-to-enter | markdownify }}
                     {% endif %}
