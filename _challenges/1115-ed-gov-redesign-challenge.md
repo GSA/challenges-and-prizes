@@ -481,9 +481,70 @@ rules: >-
 
   Please contact the person listed in the Point of Contact section of this
   notice, should you have any comments or questions about these Official Rules,
-  Terms, and Conditions. X. Other Information Accessible Format: Individuals
-  with disabilities can obtain this document and a copy of the submission
-  package in an accessible format (e.g., braille, large print, audiotape, or
-  compact disc) on request to the program contact person listed under For
-  Further Information Contact in this notice.
+  Terms, and Conditions.
+
+
+  **X. Other Information**
+
+
+  *Accessible Format:* Individuals with disabilities can obtain this document
+  and a copy of the submission package in an accessible format (e.g., braille,
+  large print, audiotape, or compact disc) on request to the program contact
+  person listed under For Further Information Contact in this notice.
+judging: >-
+  Up to 100 points may be assigned during the judging of submissions based on
+  the following criteria: 
+
+
+  * **Innovation** (50 points). The submission should:
+
+    * Offer a creative redesign using non-traditional improvements that maximize user experience in terms of form and function.
+    * Propose new adaptations and innovations in layout, typography, animation, illustration, video, and photography.
+    * Use new technologies and innovative tools, i.e., plug-ins.
+  * **Quality of redesign** (35 points). The submission should:
+
+    * Have a clean, simple, modern aesthetic
+    * Have an easy-to-navigate interface with a quick response time.
+    * Integrate social media, video, photography, and plug-ins.
+  * **Compliance with federal standards and website requirements** (15 points).
+  The submission should:
+
+    * Meet accessibility, US Web Design Standards maturity model, and 21st Century IDEA Act, etc., standards.
+
+  **Reviewer Conflict of Interest**
+
+
+  Prior to the start of the judging, all submissions will be reviewed to ensure
+  no reviewer will have a conflict of interest with any submission he/she will
+  be reviewing. Reviewers in this challenge may not review a submission in which
+  they (a) have personal or financial interests in, or be an employee, officer,
+  director, or agent of any entity that is a registered participant in the Prize
+  challenge; or (b) have a familial or financial relationship with an individual
+  who is a registered participant.
+
+
+  **Review**
+
+
+  ED will screen all completed submissions to determine compliance with
+  submission criteria and assign reviewers to independently score the content of
+  each qualified submission. The reviewers will be composed of ED subject matter
+  experts with expertise in relevant website and web design areas. The size of
+  the review panel will be based on the number of entrants.  As needed, after
+  preliminary consideration of all submissions for suitability in terms of
+  innovation, quality of redesign and compliance with federal web standards, ED
+  will eliminate those not meeting these standards in order to determine
+  compliance with submission criteria. Reviewers will offer input scores on
+  those submissions passing the initial review.  Reviewers will rate submissions
+  using the judging criteria above and make non-consensus forming
+  recommendations as to which finalists should be selected as winners. ED will
+  make final selection determinations. One or more concepts will be selected as
+  winners. Up to three prize winners may be selected from the submissions,
+  including a Grand Prize, a Runner Up, and an Honorable Mention.
+
+
+  By participating in the Challenge, each entrant acknowledges and agrees that
+  such recommendations of the reviewers based on the criteria may differ and
+  agrees to be bound by, and not to challenge, the final decisions of the
+  Department.
 ---
