@@ -120,7 +120,7 @@ point-of-contact: ami.patel@acl.hhs.gov
 <p><strong>Judging Panel</strong></p>
 <p>The Judging Panel will be composed of federal and/or other technical and subject matter experts.</p>
 <p><strong>Judging Criteria</strong></p>
-<p><strong>Additional detail on the judging criteria and submission guidelines will be posted prior to the submission start date of April 20, 2020. </strong></p>
+<p><strong>Additional detail on the judging criteria and submission guidelines will be posted prior to the submission start date.</strong></p>
 <p>1. Level of Innovation and Value to Stakeholders</p>
 <ul>
 <li>Bridge the gaps between community members and products, services, and information</li>
