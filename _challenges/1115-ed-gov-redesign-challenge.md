@@ -67,9 +67,10 @@ description: >-
   their states, districts, schools, and children. That’s why the organization
   must keep pace with the way 21st century Americans learn, engage, and
   interact. With 312 million internet users in the United States alone – and 90
-  percent of American adults reporting using the internet “at least
-  occasionally”  – it is essential to maintain a strong web presence. A key
-  component of that effort is redesigning ED’s website.
+  percent of American adults reporting using the internet “[at least
+  occasionally](https://www.statista.com/statistics/276445/number-of-internet-users-in-the-united-states/)” 
+  – it is essential to maintain a strong web presence. A key component of that
+  effort is redesigning ED’s website.
 
 
   ED.gov is the Department’s main public-facing website, with nearly 15 million
@@ -91,9 +92,11 @@ description: >-
 
 
   Nearly 40 percent of people will stop engaging with a website if the design is
-  unattractive, , and nearly half of users cite design as the number one factor
-  in assessing credibility. . Design plays a critical role in ensuring the
-  public has access to, and engages with, the content on ED.gov.
+  [unattractive](https://blogs.adobe.com/creative/files/2015/12/Adobe-State-of-Content-Report.pdf),
+  and nearly half of users cite design as the number one factor in assessing
+  [credibility](https://www.bluecorona.com/blog/20-web-design-facts-small-business-owners/).
+  Design plays a critical role in ensuring the public has access to, and engages
+  with, the content on ED.gov.
 
 
   The last large-scale update of ED.gov occurred in 2015. At that time, ED
@@ -243,4 +246,26 @@ description: >-
   browser(s) supported, mobile compatibility, screen resolutions (including
   responsive for mobile), operating systems, assistive technologies, text
   sizing, etc.
+prizes: >-
+  The Department of Education is offering a total prize pot of up to $50,000.
+  The entirety of the prize may go to one winner or may be split between
+  multiple winners, if the panel determines multiple winners are warranted. Up
+  to three prize winners may be selected from the submissions, including a Grand
+  Prize, a Runner Up, and an Honorable Mention.
+
+
+  At the Department’s discretion, to assist with selecting winners, one or more
+  of the most highly rated challenge participants may be invited to present a
+  live demonstration of their ED.gov redesign prototype before agency subject
+  matter experts, including Office of the Chief Information Officer staff,
+  website owners, or segment owners. 
+
+
+  Any potential prizes awarded under this Challenge will be paid by electronic
+  funds transfer.  Winners will be required to complete and return an Automated
+  Clearing House (ACH) Vendor/Miscellaneous Payment Enrollment Form to ED within
+  a given timeframe. The form collects banking information needed to make an
+  electronic payment (direct deposit) to the winner. Award recipients will be
+  responsible for any applicable local, state, and federal taxes and reporting
+  that may be required under applicable tax laws.
 ---
