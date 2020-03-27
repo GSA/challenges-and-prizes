@@ -5,7 +5,7 @@ permalink: /challenge/individuals-taking-energy-action-in-manufacturing-iteam/
 challenge-id: '90'
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/doe_logo_seal_color-302x1401.jpg
+card-image: /assets/netlify-uploads/doe_logo_seal_color.jpg
 agency-logo: >-
   /assets/netlify-uploads/256px-Seal_of_the_United_States_Department_of_Energy.png
 tagline: >-
