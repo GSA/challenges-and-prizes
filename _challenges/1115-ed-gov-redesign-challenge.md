@@ -268,4 +268,222 @@ prizes: >-
   electronic payment (direct deposit) to the winner. Award recipients will be
   responsible for any applicable local, state, and federal taxes and reporting
   that may be required under applicable tax laws.
+rules: >-
+  #### Terms and Conditions
+
+
+  All entry information submitted on the Challenge webpage and all materials,
+  including any copy of the submission, become property of the Department and
+  will not be returned. Furthermore, the Department shall have no liability for
+  any submission that is lost, intercepted, or not received by the Department.
+  The Department assumes no liability or responsibility for any error, omission,
+  interruption, deletion, theft, destruction, unauthorized access to, or
+  alteration of, submissions. 
+
+
+  **Representations and Warranties/Indemnification** By participating in the
+  Challenge, each entrant represents, warrants, and covenants as follows: 
+
+
+  (a) The entrants are the sole authors, creators, and owners of the submission;
+
+  (b) The entrant's submission;
+
+
+  1. Is not the subject of any actual or threatened litigation or claim;
+
+  2. Does not, and will not, violate or infringe upon the privacy rights,
+  publicity rights, or other legal rights of any third party; and
+
+  3. Does not contain any harmful computer code (sometimes referred to as
+  “malware,” “viruses,” or “worms”).
+
+
+  (c) The submission, and entrants' implementation of the submission, does not,
+  and will not, violate any applicable laws or regulations of the United States.
+
+
+  Entrants will indemnify, defend, and hold harmless the Department from and
+  against all third party claims, actions, or proceedings of any kind and from
+  any and all damages, liabilities, costs, and expenses relating to, or arising
+  from, entrant's submission or any breach or alleged breach of any of the
+  representations, warranties, and covenants of entrant hereunder. 
+
+
+  The Department reserves the right to disqualify any submission that the
+  Department, in its discretion, deems to violate these Official Rules, Terms,
+  and Conditions in this notice.
+
+
+  **OWNERSHIP AND Licensing**
+
+
+  Each entrant retains full ownership of their submission, including all
+  intellectual property rights therein.  By participating in the Challenge, each
+  entrant hereby grants to the Department a royalty-free, nonexclusive,
+  irrevocable, and worldwide license to reproduce, publish, produce derivative
+  works, distribute copies to the public, perform publicly and display publicly,
+  and/or otherwise use the submissions. 
+
+
+  **Publicity Release**
+
+
+  By participating in the Challenge, each entrant hereby irrevocably grants to
+  the Department the right to use the entrant’s name, likeness, image, and
+  biographical information in any and all media for advertising and promotional
+  purposes relating to the Challenge. 
+
+
+  **Disqualification** 
+
+
+  The Department reserves the right, in its sole discretion, to disqualify any
+  entrant who is found to be tampering with the entry process or the operation
+  of the Challenge, Challenge webpage, or other Challenge-related webpages; to
+  be acting in violation of these Official Rules, Terms, and Conditions; to be
+  acting in an unsportsmanlike or disruptive manner, or with the intent to
+  disrupt or undermine the legitimate operation of the Challenge; or to annoy,
+  abuse, threaten, or harass any other person; and, the Department reserves the
+  right to seek damages and other remedies from any such person to the fullest
+  extent permitted by law.
+
+
+  **Links to Third-Party Webpages**
+
+
+  The Challenge webpage may contain links to third-party webpages that are not
+  owned or controlled by  the Department. The Department does not endorse or
+  assume any responsibility for any such third-party sites. If an entrant
+  accesses a third-party webpage from the Challenge webpage, the entrant does so
+  at the entrant's own risk and expressly relieves the Department from any and
+  all liability arising from use of any third-party webpage content.
+
+
+  **Disclaimer**
+
+
+  The Challenge webpage contains information and resources from public and
+  private organizations that may be useful to the reader. Inclusion of this
+  information does not constitute an endorsement by the Department of any
+  products or services offered or views expressed. 
+
+
+  The Challenge webpage also contains hyperlinks and URLs created and maintained
+  by outside organizations, which are provided for the reader’s convenience. The
+  Department is not responsible for the accuracy of the information contained
+  therein.
+
+
+  **Notice to Challenge Entrants and Award Recipients**
+
+
+  Attempts to notify entrants and award recipients will be made using the email
+  address associated with the entrants’ submission. The Department is not
+  responsible for email or other communication problems of any kind.
+
+
+  If, despite reasonable efforts, an entrant does not respond within three days
+  of the first notification attempt regarding selection as an award recipient
+  (or a shorter time as exigencies may require) or if the notification is
+  returned as undeliverable to such entrant, that entrant may forfeit the
+  entrant's award and associated prizes, and an alternate award recipient may be
+  selected.
+
+
+  If any potential award recipient is found to be ineligible, has not complied
+  with these Official Rules, Terms, and Conditions, or declines the applicable
+  prize for any reason prior to award, such potential award recipient will be
+  disqualified. An alternate award recipient may be selected, or the applicable
+  award may go unawarded.
+
+
+  **Dates/Deadlines** 
+
+
+  The Department reserves the right to modify any dates or deadlines set forth
+  in these Official Rules, Terms, and Conditions or otherwise governing the
+  Challenge.
+
+
+  **Challenge Termination**
+
+
+  The Department reserves the right to suspend, postpone, cease, terminate, or
+  otherwise modify this Challenge, or any entrant's participation in the
+  Challenge, at any time at the Department's discretion.
+
+
+  **General Liability Release**
+
+
+  By participating in the Challenge, each entrant hereby agrees that —
+
+  (a) The Department shall not be responsible or liable for any losses, damages,
+  or injuries of any kind (including death) resulting from participation in the
+  Challenge or any Challenge-related activity, or from entrants' acceptance,
+  receipt, possession, use, or misuse of any prize; and
+
+  (b) The entrant will indemnify, defend, and hold harmless the Department from
+  and against all third party claims, actions, or proceedings of any kind and
+  from any and all damages, liabilities, costs, and expenses relating to, or
+  arising from, the entrant's participation in the Challenge.
+
+
+  Without limiting the generality of the foregoing, the Department is not
+  responsible for incomplete, illegible, misdirected, misprinted, late, lost,
+  postage-due, damaged, or stolen entries or prize notifications; or for lost,
+  interrupted, inaccessible, or unavailable networks, servers, satellites,
+  Internet Service Providers, webpages, or other connections; or for
+  miscommunications, failed, jumbled, scrambled, delayed, or misdirected
+  computer, telephone, cable transmissions or other communications; or for any
+  technical malfunctions, failures, difficulties, or other errors of any kind or
+  nature; or for the incorrect or inaccurate capture of information, or the
+  failure to capture any information.
+
+
+  These Official Rules, Terms, and Conditions cannot be modified except by the
+  Department in its sole and absolute discretion. The invalidity or
+  unenforceability of any provision of these Official Rules, Terms, and
+  Conditions shall not affect the validity or enforceability of any other
+  provision. In the event that any provision is determined to be invalid or
+  otherwise unenforceable or illegal, these Official Rules, Terms, and
+  Conditions shall otherwise remain in effect and shall be construed in
+  accordance with their terms as if the invalid or illegal provision were not
+  contained herein.
+
+
+  **Exercise** 
+
+
+  The failure of the Department to exercise or enforce any right or provision of
+  these Official Rules, Terms, and Conditions shall not constitute a waiver of
+  such right or provision.
+
+
+  **Governing Law**
+
+
+  All issues and questions concerning the construction, validity,
+  interpretation, and enforceability of these Official Rules, Terms, and
+  Conditions shall be governed by and construed in accordance with U.S. Federal
+  law as applied in the Federal courts of the District of Columbia if a
+  complaint is filed by any party against the Department.
+
+
+  **Privacy Policy**
+
+
+  By participating in the Challenge, each entrant hereby agrees that
+  occasionally, the Department may also use the entrant’s information to contact
+  the entrant about Federal Challenge and innovation related activities.
+
+
+  Please contact the person listed in the Point of Contact section of this
+  notice, should you have any comments or questions about these Official Rules,
+  Terms, and Conditions. X. Other Information Accessible Format: Individuals
+  with disabilities can obtain this document and a copy of the submission
+  package in an accessible format (e.g., braille, large print, audiotape, or
+  compact disc) on request to the program contact person listed under For
+  Further Information Contact in this notice.
 ---
