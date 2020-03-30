@@ -19,6 +19,7 @@ collections:
     editor:
       preview: false
     fields:
+      - { label: 'Workflow Card Label', name: 'title', widget: 'string', default: 'Card Title Here', required: false }
       - { label: 'Challenge Title', name: 'challenge-title', widget: 'string' }
       - { label: 'Layout', name: 'layout', widget: 'string', default: "front-matter-data-netlify" }
       - { label: 'Permalink', name: 'permalink', widget: 'string', default: '/challenge/challenge-url-here/' }
@@ -57,6 +58,7 @@ collections:
     editor:
       preview: false
     fields:
+      - { label: 'Workflow Card Label', name: 'title', widget: 'string', default: 'Card Title Here', required: false }
       - { label: 'Challenge Title', name: 'challenge-title', widget: 'string' }
       - { label: 'Layout', name: 'layout', widget: 'string', default: "front-matter-data-netlify" }
       - { label: 'Permalink', name: 'permalink', widget: 'string', default: '/challenge/challenge-url-here/' }
