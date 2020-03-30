@@ -1,4 +1,5 @@
 ---
+title: Waves Title
 challenge-title: Waves to Water Prize
 layout: front-matter-data
 permalink: /challenge/waves-to-water-prize/
@@ -23,10 +24,7 @@ submission-end: '03/13/2020 11:59 PM'
 fiscal-year: 'FY19, FY20, FY21'
 legal-authority: America COMPETES
 challenge-manager: 'Jennifer Garson, jennifer.garson@ee.doe.gov'
-prize: true
 challenge-manager-email: wavestowater@nrel.gov
-partners-non-federal: null
-submission-link: 'https://americanmadechallenges.org/wavestowater/'
 description: >-
   In June, 2019, the U.S. Department of Energy Water Power Technologies Office
   launched a prize to develop wave energy powered desalination systems. The
@@ -67,6 +65,35 @@ description: >-
   * Stage III: CREATE (150 DAYS) - April 2020 to August 2020 (anticipated)
 
   * Stage IV: DRINK (180 DAYS) - October 2020 to April 2021 (anticipated)
+prizes: >-
+
+  * **Stage I:**Up to 20 winners will receive a $10,000 prize.
+
+  * **Stage II:**Up to 20 winners, who will share equally a total funding amount
+  of $800,000, but not to exceed $100,000 per team even if less than 8 winners
+  are selected.
+
+  * **Stage III:**Up to 5 - 10 winners will be awarded equally from a total
+  prize pool of up to $500,000, but not to exceed $150,000 each, even if less
+  than 4 winners are selected.
+
+  * **Stage IV Grand Prize:**A grand prize in the amount of $500,000 will be
+  awarded to the competitor with the best overall score.
+
+  * **Individual Metrics Prizes:**There will be other prizes awarded to the
+  competitors for a total prize pool of $500,000.
+rules: >-
+  The rules for the Waves to Water Prize can be found here:
+  <https://www.herox.com/wavestowater/resources>.
+judging: >-
+  Please review the official rules for the judging criteria:
+  <https://www.herox.com/wavestowater>.
+how-to-enter: >-
+  Competitors can enter on the HeroX platform:
+  <https://www.herox.com/wavestowater>.
+prize: true
+partners-non-federal: null
+submission-link: 'https://americanmadechallenges.org/wavestowater/'
 ---
 
 
