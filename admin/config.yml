@@ -47,7 +47,7 @@ collections:
       - { label: 'Rules', name: 'rules', widget: 'markdown', required: false }
       - { label: 'Judging', name: 'judging', widget: 'markdown', required: false }
       - { label: 'How To Enter', name: 'how-to-enter', widget: 'markdown', required: false }
-- name: 'archived-challenges'
+  - name: 'archived-challenges'
     label: 'Archived Challenges'
     label_singular: 'Challenge'
     folder: '_historical-challenges'
