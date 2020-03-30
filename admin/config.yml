@@ -49,7 +49,7 @@ collections:
       - { label: 'How To Enter', name: 'how-to-enter', widget: 'markdown', required: false }
   - name: 'archived-challenges'
     label: 'Archived Challenges'
-    label_singular: 'Challenge'
+    label_singular: 'Archived Challenge'
     folder: '_historical-challenges'
     identifier_field: 'challenge-title'
     slug: '{{challenge-id}}-{{challenge-title}}'
@@ -57,7 +57,6 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Challenge Title', name: 'challenge-title', widget: 'string' }
       - { label: 'Layout', name: 'layout', widget: 'string', default: "front-matter-data-netlify" }
       - { label: 'Permalink', name: 'permalink', widget: 'string', default: '/challenge/challenge-url-here/' }
