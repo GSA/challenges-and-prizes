@@ -1,7 +1,7 @@
 ---
 challenge-title: Waves to Water Prize
 layout: front-matter-data
-permalink: /challenge/netlify-waves-to-water-prize/
+permalink: /challenge/waves-to-water-prize/
 challenge-id: 1044
 status: closed
 sidenav: true
