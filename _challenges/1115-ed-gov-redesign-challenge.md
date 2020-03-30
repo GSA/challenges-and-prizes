@@ -281,12 +281,14 @@ rules: >-
   alteration of, submissions. 
 
 
-  **Representations and Warranties/Indemnification** By participating in the
-  Challenge, each entrant represents, warrants, and covenants as follows: 
+  **Representations and Warranties/Indemnification** 
+
+
+  By participating in the Challenge, each entrant represents, warrants, and
+  covenants as follows: 
 
 
   (a) The entrants are the sole authors, creators, and owners of the submission;
-
   (b) The entrant's submission;
 
 
@@ -315,7 +317,7 @@ rules: >-
   and Conditions in this notice.
 
 
-  **OWNERSHIP AND Licensing**
+  **Ownership and Licensing**
 
 
   Each entrant retains full ownership of their submission, including all
@@ -417,10 +419,9 @@ rules: >-
   **General Liability Release**
 
 
-  By participating in the Challenge, each entrant hereby agrees that —
-
-  (a) The Department shall not be responsible or liable for any losses, damages,
-  or injuries of any kind (including death) resulting from participation in the
+  By participating in the Challenge, each entrant hereby agrees that — (a) The
+  Department shall not be responsible or liable for any losses, damages, or
+  injuries of any kind (including death) resulting from participation in the
   Challenge or any Challenge-related activity, or from entrants' acceptance,
   receipt, possession, use, or misuse of any prize; and
 
@@ -479,18 +480,17 @@ rules: >-
   the entrant about Federal Challenge and innovation related activities.
 
 
-  Please contact the person listed in the Point of Contact section of this
-  notice, should you have any comments or questions about these Official Rules,
-  Terms, and Conditions.
+  Please contact [challenge@ed.gov](<mailto: challenge@ed.gov>) should you have
+  any comments or questions about these Official Rules, Terms, and Conditions.
 
 
-  **X. Other Information**
+  **Other Information**
 
 
   *Accessible Format:* Individuals with disabilities can obtain this document
   and a copy of the submission package in an accessible format (e.g., braille,
-  large print, audiotape, or compact disc) on request to the program contact
-  person listed under For Further Information Contact in this notice.
+  large print, audiotape, or compact disc) on request to
+  [challenge@ed.gov](<mailto: challenge@ed.gov>).
 judging: >-
   Up to 100 points may be assigned during the judging of submissions based on
   the following criteria: 
@@ -561,14 +561,13 @@ how-to-enter: >-
 
   If an entrant requests submission of an entry after the deadline date because
   of a technical problem with the Challenge webpage system, the entrant must
-  immediately contact the person listed under Point of Contact in this notice
-  and provide an explanation of the technical problem experienced on the
-  Challenge webpage system. The Department will accept the entrant’s submission
-  if the Department can confirm that a technical problem occurred with the
-  Challenge webpage system and that the technical problem affected the entrant's
-  ability to submit an entry by the entry deadline date. The Department will
-  contact the entrant after a determination is made on whether the entry will be
-  accepted.
+  immediately contact [challenge@ed.gov](<mailto: challenge@ed.gov>) and provide
+  an explanation of the technical problem experienced on the Challenge webpage
+  system. The Department will accept the entrant’s submission if the Department
+  can confirm that a technical problem occurred with the Challenge webpage
+  system and that the technical problem affected the entrant's ability to submit
+  an entry by the entry deadline date. The Department will contact the entrant
+  after a determination is made on whether the entry will be accepted.
 
 
   Note: These extensions apply only to the unavailability of, or technical
@@ -579,18 +578,18 @@ how-to-enter: >-
 
 
   Individuals with disabilities who need an accommodation or auxiliary aid in
-  connection with the submission process should contact the person listed under
-  Point of Contact in this notice. If the Department provides an accommodation
-  or auxiliary aid to an individual with a disability in connection with the
-  submission process, the entry remains subject to all other requirements and
-  limitations in this notice.
+  connection with the submission process should contact
+  [challenge@ed.gov](<mailto: challenge@ed.gov>). If the Department provides an
+  accommodation or auxiliary aid to an individual with a disability in
+  connection with the submission process, the entry remains subject to all other
+  requirements and limitations in this notice.
 
 
   **Timeline and Notification**
 
 
   All submissions will be acknowledged as they are received. The winning
-  proposal(s) will be notified via email by August 1, 2020. All are invited to
+  proposal(s) will be notified via email by August 3, 2020. All are invited to
   compete for the implementation contract expected to request proposals by
-  August 30, 2020.
+  August 28, 2020.
 ---
