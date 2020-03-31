@@ -731,6 +731,9 @@ judging: >-
   category. The Prize Selection Decision will be a subjective evaluation of all
   entries for each phase at completion of this challenge.
 how-to-enter: >-
+  #### Submissions
+
+
   Entries for Phase I must be submitted via email to Marissa Wagler at
   [marissa.wagler@navy.mil](<mailto: marissa.wagler@navy.mil>) by 02:00 Eastern
   Time on 16 April 2020 02:00 PM ET. Submissions received after the deadline may
@@ -751,7 +754,7 @@ how-to-enter: >-
   *Ch.gov user name (e.g., User123X_concept.pdf, User123X_schematic.pdf)*
 
 
-  **\---**
+  #### Questions
 
 
   For technical and challenge related questions, please send an email to
