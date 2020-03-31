@@ -295,4 +295,182 @@ description: >-
   The Prize Challenge winner(s) will be notified via email by the challenge
   manager of their selection for each phase. An announcement of the winner(s)
   will be posted on both the Challenge.gov webpage and https://beta.sam.gov.
+prizes: >-
+  **Total Cash Prize Pool**
+
+
+  The total prize purse is up to $750,000.
+
+
+  **Prize Breakdown**
+
+
+  Phase I White paper and Virtual Presentation of White Paper Concept – N/A
+
+
+  Phase II Detailed Design and Proof-of-Concept (POC) – Prize pool of $300,000
+  will be disbursed equally among up to five winner(s)
+
+
+  Phase III Technology Development Prototype – Prize pool of $450,000 is
+  disbursed to winner(s): One (1) winner will be selected to win first place
+  prize of $250,000, second place prize of $125,000, and third place prize of
+  $75,000. If there is less than three winners the second and/or third place
+  prize will be equally disbursed among the winners.
+
+
+  Phase IV Follow-on Award – N/A
+rules: >-
+  **Rules**
+
+
+  Eligibility Requirements. Eligibility is subject to verification by the
+  Government before cash prizes are awarded. Participants (residents or
+  entities) who are designated by the United States Treasury’s Office of Foreign
+  Assets Control are not eligible to receive any cash prize in the Challenge.
+  Participants who are listed, or become listed, on the Excluded Parties List
+  found on www.sam.gov or have any active exclusions may not eligible to receive
+  any cash prize in the Challenge.
+
+
+  Only U.S. citizens and entities incorporated in and maintaining a primary
+  place of business in the United States are eligible to receive cash prizes in
+  this Challenge.
+
+
+  Federal employees, including NSWC-CD employees, and NSWC-CD support
+  contractors acting within the scope of their employment are not eligible to
+  participate in the challenge. Likewise, members of their immediate family
+  (spouses, children, step-children, siblings, step-siblings, parents,
+  step-parents), and persons living in the same household, whether or not
+  related, are not eligible to participate in any portion of this Challenge.
+  Federal employees and contractors acting outside the scope of their employment
+  should consult their ethics official and appropriate management before
+  participating in the Challenge.
+
+
+  Individuals and organizations that are funded by NSWC-CD, but not limited to,
+  any Federally Funded Research and Development Centers and University
+  Affiliated Research Centers (UARCs), or private-sector personnel whose scope
+  of work includes NSWC-CD development or administrative support are not
+  eligible to participate in the challenge.
+
+
+  **Terms and Conditions**
+
+
+  These terms and conditions apply to all participants in the Challenge.
+
+
+  Agreement to Terms. By responding to this announcement, the participant agrees
+  to comply with and be bound by the rules (including these terms and
+  conditions) of this prize challenge and the decisions of the Government, which
+  rules and decisions are binding and final in all matters relating to this
+  challenge. The final scores and final determination of Winner, is final and
+  binding on all Participants. The final scores of the Judging Panel and the
+  final determination of Winner may not be challenged by the Participants.
+
+
+  Security Requirements. By responding to this announcement, the participant
+  agrees to comply with the DoDM 5200.01 (all volumes) and any revisions to this
+  manual.
+
+
+  Participation by Government Support Contractors. Government support
+  contractors will assist in the review of any data provided by participants. A
+  non-disclosure agreement (NDA) has been signed by the support contractors with
+  the Government that precludes them from disclosing any proprietary data
+  outside of the Government. If participants desire a separate NDA with the
+  Government support contractors, participants should submit a NDA form, along
+  with instructions, with their initial qualification application.
+
+
+  Follow-On Acquisition. At the Government’s discretion, the Government may
+  choose to award a FAR-base procurement contract, Other Transaction Authority
+  (OTA) award (under 10 U.S.C 2371 or 2371b) or a procurement contract for
+  experimental purposes (10 U.S.C. 2373) or a combination of awards under those
+  authorizes to any chosen participant in this prize challenge.
+
+
+  Malware. Each participant warrants that any submission is virus free and free
+  of malware.
+
+
+  Data Rights and Marking. All data submitted under the Prize Challenge will be
+  made available to NSWC-CD and parties authorized to act on behalf of the
+  NSWC-CD. By accepting these Terms and Conditions, the Participant consents to
+  the use of data submitted to NSWC-CD. Any materials submitted to NSWC-CD as
+  part of a prize challenge submission become NSWC-CD records and will not be
+  returned.
+
+
+  The use of protective markings such as “Do Not Publicly Release – Trade
+  Secret” or “Do Not Publicly Release – Confidential Proprietary Business
+  Information” in the Header or Footer of the Submission is strongly encouraged
+  where appropriate. However, Participants should be aware that the use of
+  protective markings is not dispositive as to whether information will be
+  released publicly pursuant to a request for records under the Freedom of
+  Information Act, (FOIA) 5 U.S.C. §552, et. seq., as amended by the OPEN
+  Government Act of 2007, Pub. L. No. 110-175. Any information received from the
+  Participant is considered to be a federal agency record, and as such, subject
+  to public release under FOIA. Decisions to disclose or withhold information
+  received from a Participant are based on the applicability of one or more of
+  the nine FOIA exemptions, not on the existence or nonexistence of protective
+  markings. Only the agency’s designated FOIA Officer may determine if
+  information sought under a FOIA request will be withheld pursuant to one or
+  more of the nine FOIA exemptions. All FOIA requests received by NSWC-CD are
+  processed in accordance with 10 C.F.R. Part 1004. Participants will be
+  notified of any FOIA requests for their submissions in accordance with 29
+  C.F.R. § 70.26. Participants may then have the opportunity to review materials
+  and work with a NSWC-CD FOIA representative prior to the release of materials.
+
+
+  By participating in this Challenge, each individual (whether participating
+  singly or in a group) warrants and assures the Government that any data used
+  for the purpose of submitting an entry for this Challenge, were obtained
+  legally through authorized access to such data.
+
+
+  Upon submission, the Participant hereby represents and warrants that:
+
+
+  1) it is the sole author and copyright owner of the submission; that the
+  submission is an original work of the Participant and that the Participant has
+  sufficient rights to use and to authorize others, including NSWC-CD, to use
+  the submission, as specified throughout the Official Rules; that the
+  submission does not infringe upon any copyright or upon any other third party
+  rights of which the Participant is aware; and that there are no known or
+  pending patents on or related to the technology proposed within the
+  submissions or, if there are known or pending patents, that the patent holder
+  grants to the Government a fully paid, nonexclusive, irrevocable, worldwide
+  license to use, or have used on the Government’s behalf, reproduce, prepare
+  derivative works, distribute copies to the public, and perform and display
+  publicly copyrightable works of the patented material. Except as provided
+  above, any submission shall be accompanied by a statement delineating which
+  intellectual property rights and licenses will not be extended to the
+  government for this challenge.
+
+
+  2) the submission, and any use thereof by NSWC-CD is not defamatory or
+  libelous in any manner; does not constitute or result in any misappropriation
+  or other violation of the publicity rights or right of privacy of any person
+  or entity, or infringe, misappropriate or otherwise violate any intellectual
+  property rights, privacy rights or any other rights of any person or entity;
+
+
+  3) it is free to enter into this challenge without the consent of any third
+  party and has the capability to fully perform its obligations as stipulated by
+  the Prize rules;
+
+
+  4) there is no suit, proceeding, or any other claim pending or threatened
+  against the Participant, nor does any circumstance exist, to its knowledge,
+  which may be the basis of any such suit, proceeding, or other claim, that
+  could limit or impair the Participant’s performance of its obligations
+  pursuant to the Prize rules or Terms and Conditions;
+
+
+  5) it will not infringe, violate, or interfere with the intellectual property,
+  publicity, privacy, contract or other right of any third party in the course
+  of performance of this agreement or cause NSWC-CD to do any of the same;
 ---
