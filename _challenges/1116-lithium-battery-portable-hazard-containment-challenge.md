@@ -730,4 +730,50 @@ judging: >-
   scored lower points than an unselected participant of a different type or
   category. The Prize Selection Decision will be a subjective evaluation of all
   entries for each phase at completion of this challenge.
+how-to-enter: >-
+  Entries for Phase I must be submitted via email to Marissa Wagler at
+  [marissa.wagler@navy.mil](<mailto: marissa.wagler@navy.mil>) by 02:00 Eastern
+  Time on 16 April 2020 02:00 PM ET. Submissions received after the deadline may
+  not be considered.
+
+
+  Submissions shall reference both the challenge name and participant
+  challenge.gov username in the subject line in the following format:
+
+
+  *Lithium_Battery_Portable_Hazard_Containment_Challenge_User123X Phase I
+  Submission*
+
+
+  Submissions including attachments shall use the following filename convention:
+
+
+  *Ch.gov user name (e.g., User123X_concept.pdf, User123X_schematic.pdf)*
+
+
+  **\---**
+
+
+  For technical and challenge related questions, please send an email to
+  [marissa.wagler@navy.mil](mailto:marissa.wagler@navy.mil) with “Lithium
+  Battery Portable Hazard Containment Challenge_Questions” in the subject line.
+  The deadline for prize challenge question submission is 2:00 PM Eastern Time
+  on 09 April 2020 02:00 PM ET. After this date and time, the Government may not
+  respond to questions received.
+
+
+  The Government will post all questions and responses on the Beta SAM website
+  (<https://beta.sam.gov>).
+
+
+  Contestants should expect that their questions and the Government’s responses
+  will be made available to all those accessing the <https://beta.sam.gov>.
+
+
+  NSWC-CD reserves the right to cancel, suspend, and/or modify the challenge, or
+  any part of it, if any fraud, technical failures, or any other factor beyond
+  NSWC-CD’s reasonable control impairs the integrity or proper functioning of
+  the challenge, as determined by NSWC-CD in its sole discretion. NSWC-CD is not
+  responsible for, nor is it required to accept, incomplete, late, misdirected,
+  damaged, unlawful, or illicit submissions.
 ---
