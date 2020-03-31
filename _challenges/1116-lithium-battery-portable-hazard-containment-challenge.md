@@ -164,4 +164,135 @@ description: >-
   2371b), a procurement contract for experimental purposes (10 U.S.C 2373), or a
   combination of awards under those authorities to any chosen participant in
   this prize challenge.
+
+
+  Initial submission of the White Paper Concept shall not exceed five pages and
+  required to be in the following format.
+
+
+  a. Text size shall be no smaller than what is equivalent to Microsoft Word,
+  Times New Roman, 10 point, uncompressed font.
+
+
+  b. Pages shall be single sided, one and one half line spaced, with a minimum
+  of one inch margins on all sides. Pages shall be dated and numbered
+  sequentially.
+
+
+  c. Legible tables, charts, graphs and figures shall be used when necessary to
+  depict organizations, data, drawings, systems and layout, implementation
+  schedules, plans, etc. For tables, charts, graphs, and figures, the text shall
+  be no smaller than 8 point, Times New Roman. These items WILL be included in
+  the page count.
+
+
+  d. Electronic files shall be formatted for Microsoft Windows Office 2010: text
+  shall be prepared using Microsoft Word compatible formats; spreadsheets,
+  worksheets, or workbooks shall be prepared using Microsoft Excel compatible
+  formats, and presentations prepared using PowerPoint compatible formats. All
+  schedules shall be prepared in Microsoft Project 2010 compatible applications.
+
+
+  e. A glossary shall be included of all abbreviations and acronyms used with an
+  explanation for each that will NOT be included in the page count.
+
+
+  f. A cover sheet should be include with the following information:
+
+
+  * Challenge Title
+
+  * Name(s) of company(ies) and POC individual(s)
+
+  * Address(es)
+
+  * If a company, CAGE or DUNS Code
+
+  * Point of Contact Telephone and Email address
+
+  * State if the participant is a U.S. Company (an entity incorporated in and
+  maintaining a primary place of business in the United States) or a U.S.
+  citizen?
+
+  * If applicable, provide verification that the individual currently maintains
+  a DoD security clearance or the company has a Facilities Clearance (per DoD
+  5220.22-M, 28 Feb 2006)
+
+  * A description of the participant’s previous experience and expertise with
+  lithium batteries
+
+  * A description of the participant’s experience in collaborating with other
+  companies to design, manufacture, and field relevant products.
+
+
+  The cover sheet will NOT be included in the page count for each volume.
+
+
+  **Phase I** **Initial submission of White Paper Concept Due:**04/16/2020 02:00
+  PM ET
+
+
+  **Timeline:**
+
+
+  The Government estimates the following timeline for the completion of the
+  prize challenge.
+
+
+  Phase I Virtual Presentation of White Paper Concept.
+
+
+  * Initial submission of White Paper Concept – 21 Calendar Days
+
+  * Evaluation by Judges and selection distributed– 14 Calendar Days
+
+  * Follow on submission of Virtual Presentation – 7 Calendar Days
+
+  * Virtual Presentation – 7 Calendar Days
+
+  * Selection of Phase I winners – 7 Calendar Days
+
+
+  Phase II Detailed Design and Proof-of-Concept (POC)
+
+
+  * Design and POC submission – 45 Calendar Days
+
+  * Evaluation by Judges – 7 Calendar Days
+
+  * Prize pool of $300,000 disbursed to winner(s) – 14 Calendar Days
+
+
+  Phase III Technology Development Prototype
+
+
+  * Technology Development Prototype submission – 60 Calendar Days
+
+  * Evaluation by Judges – 7 Calendar Days
+
+  * Prize pool of $450,000 disbursed to winner(s) – 7 Calendar Days
+
+
+  Phase IV Follow-on Award – To be determined
+
+
+  Total estimated time from Challenge.gov posting to Phase IV is 231 Calendar
+  Days.
+
+
+  **Winners Announced:**
+
+
+  For the purposes of this prize challenge, “Participant” refers to individuals
+  and entities that apply to the prize challenge and “Winner” refers to
+  individuals selected to receive a cash prize under this prize challenge.
+
+
+  ALL DECISIONS BY NSWC-CD ARE FINAL AND BINDING IN ALL MATTERS RELATED TO THE
+  PRIZE CHALLENGE.
+
+
+  The Prize Challenge winner(s) will be notified via email by the challenge
+  manager of their selection for each phase. An announcement of the winner(s)
+  will be posted on both the Challenge.gov webpage and https://beta.sam.gov.
 ---
