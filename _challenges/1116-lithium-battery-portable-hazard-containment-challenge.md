@@ -624,4 +624,110 @@ rules: >-
   prize purposes can be made. No legal liability on the part of the Government
   for any payment of prizes may arise unless appropriated funds are available to
   the United States Navy for such purposes.
+judging: >-
+  **Judging Panel**
+
+
+  The Technology Presentation and Technology Demonstration Results will be
+  presented to NSWC-CD.
+
+
+  **Judging Criteria**
+
+
+  A review panel will rate participant submissions on the degree to which the
+  problem could be resolved/solved. The panel of judges will screen all
+  submissions for compliance with the rules and terms and conditions detailed
+  herein. Subjective ratings will be assessed for each Phase by the review panel
+  based on the key areas as shown below.
+
+
+  **Phase I – Technical White Paper Review:**
+
+
+  *Rated on the Following Criteria*:
+
+
+  * Technical Approach (50% of Rating)
+
+    * *Participant(s) demonstrate an appropriate, realistic, innovative and cost effective solution to resolve the problem statement.*
+  * Innovation (20% of Rating)
+
+    * *Unique or novel solution that differs from current applications or common solutions.*
+  * Knowledge Base (20% of Rating)
+
+    * *Lead investigator and organization display sufficient knowledge base and resources in problem statement area.*
+  * Innovation Path (10% of rating)
+
+    * *Approach to develop the proposed concept is realistic and feasible*
+
+  **Phase I – Virtual Presentation and Demonstration:**
+
+
+  *Rated on the Following Criteria*:
+
+
+  * Technical Approach (25% of Rating)
+
+    * *Participant(s) demonstrate an appropriate, realistic, innovative and cost effective solution to resolve the problem statement*
+  * Team Background and Capabilities (20% of Rating)
+
+    * *Participant(s) has knowledge, resources and capacity to complete proposed work.*
+  * Proposal Viability (25% of Rating)
+
+    * *Proposal plan and deliverables answer the topic challenge and there is a path to a design and POC.*
+  * Risk Reduction (15% of Rating)
+
+    * *Risks/mitigation strategies to accommodate potential problems.*
+  * Proposal Plan (15% of Rating)
+
+    * *Description of design tasks and time needed to accomplish them can be realistically completed in 6 months.*
+
+  **Phase II – Detailed Design and Proof-of-Concept (POC):**
+
+
+  *Rated on the Following Criteria*:
+
+
+  * Technical Approach (30% of Rating)
+
+    * *Design and POC results demonstrate an appropriate, realistic, innovative and cost effective solution.*
+  * Proposal Viability (30% of Rating)
+
+    * *Submission plan and deliverables answer the topic challenge and a path from POC to Prototype is possible. Will also take into consideration how much of the design will be granted government purpose rights.*
+  * Risk Reduction (20% of Rating)
+
+    * *Risks/mitigation strategies.*
+  * Development Plan (20% of Rating)
+
+    * *Description of prototype fabrication and testing tasks, and time needed to accomplish them can be completed within 2 months.*
+
+  **Phase III – Technology Development Prototype:**
+
+
+  *Rated on the Following Criteria*:
+
+
+  * Technical Approach (40% of Rating)
+
+    * *Technology Development Prototype displayed viable and feasible test results in a cost effective solution to resolve the problem statement.*
+  * Transition Approach (25% of Rating)
+
+    * *Participant(s) provide a clear path forward to transitioning the prototype to pre-production level fielded system and is able to adequately communicate it with clarity to the panel. Participant(s) shows a knowledge of potential roadblocks and can provide suggestions resolutions. Will also take into consideration how much of the design will be granted government purpose rights.*
+  * Team Background and Capabilities (25% of Rating)
+
+    * *Participant(s) proposed can provide a clear plan of action to move Technology Development Prototype into production..*
+  * Demonstrated Level of Innovation (10% of Rating)
+
+    * *Uniqueness or novel prototype that differs from current applications or common solutions.*
+
+  If multiple technologies of similar type or category are submitted, the review
+  panel may choose the most advantageous solution(s) within each type or
+  category to continue competing in the prize challenge. The Government
+  selection may be based on the highest scored participant solution that has the
+  most innovative concept or unique capabilities for each type or category. In
+  doing so, the Government may, at its discretion, select a participant that
+  scored lower points than an unselected participant of a different type or
+  category. The Prize Selection Decision will be a subjective evaluation of all
+  entries for each phase at completion of this challenge.
 ---
