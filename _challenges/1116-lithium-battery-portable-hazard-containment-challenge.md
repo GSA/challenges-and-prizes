@@ -9,10 +9,10 @@ sidenav: true
 card-image: /assets/netlify-uploads/challenge-gov.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
 tagline: >-
-  Naval Surface Warfare Center – Crane, Division is seeking ideas and best
-  practices for a technology development for a method that suitably mitigates
-  inherent hazards with transporting small quantities (~1200Wh) of lithium
-  batteries.
+  Naval Surface Warfare Center – Crane, Division (NSWC-CD) is seeking ideas and
+  best practices for a technology development for a method that suitably
+  mitigates inherent hazards with transporting small quantities (~1200Wh) of
+  lithium batteries.
 agency: Department of Defense - U.S. Navy
 partner-agencies-federal: Office of Naval Research
 total-prize-offered-cash: '$750,000'
