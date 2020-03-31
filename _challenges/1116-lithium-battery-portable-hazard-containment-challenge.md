@@ -473,4 +473,155 @@ rules: >-
   5) it will not infringe, violate, or interfere with the intellectual property,
   publicity, privacy, contract or other right of any third party in the course
   of performance of this agreement or cause NSWC-CD to do any of the same;
+
+
+  By participating in this Challenge, each individual (whether participating
+  singly or in a group) warrants and assures the Government that there are no
+  known or pending patents on or related to the technology proposed within the
+  submissions or, if there are known or pending patents, that the patent holder
+  provides the Government a description of the patented material and its use in
+  the proposed Challenge solution.
+
+
+  Relationship of the Parties. Nothing contained in these Terms and Conditions
+  is intended to create or constitute a relationship between NSWC-CD with the
+  Participants. Participation in the Prize Challenge does not imply any form of
+  sanction, endorsement or support of the Participant by the NSWC-CD, nor does
+  it grant either party any authority to act as agent, nor assume or create any
+  obligation, on behalf of the other party. Participant may not use the NSWC-CD
+  logo or official seal in their submission.
+
+
+  Taxes. Tax treatment of prizes will be handled in accordance with U.S.
+  Internal Revenue Service guidelines. The winners must provide a U.S. taxpayer
+  identification number (e.g. a social security number) to receive the cash
+  prize.
+
+
+  Payment. Winner(s) agree to accept payment via electronic funds transfer.
+  Participants selected as monetary prize winners must submit all required
+  taxpayer identification and bank account information required to complete an
+  electronic payment of the monetary prize. Failure to provide the Government
+  required documents for electronic payment within 30 days of notification by
+  the Government will result in a disqualification of the winning entry. Each
+  Winner, will be required to sign and return to NSWC-CD, within 30 days of the
+  date the notice is sent, a completed Standard Form 3881 (Automated Clearing
+  House – Miscellaneous Payment Enrollment) showing bank routing number for
+  payment purpose and a completed IRS Form W-9
+  (https://www.irs.gov/pub/irspdf/fw9.pdf). At the sole discretion of NSWC-CD, a
+  winning participant will be disqualified from the challenge and receive no
+  prize funds if:
+
+
+  i) the person/entity cannot be contacted
+
+
+  ii) the person/entity fails to sign and return the required documentation
+  within the required time period;
+
+
+  iii) the notification is returned as undeliverable;
+
+
+  iv) the submission or person/entity is disqualified for any other reason.
+
+
+  Government Right to Cancel, Suspend or Modify Challenge. The Government
+  reserves the right, in its sole discretion, to cancel, suspend or modify the
+  Challenge. These rules may be changed without prior notice, and all
+  participants should monitor https://challenge.gov for the latest information.
+  The Government further reserves the right to select no winners and award no
+  prize money if the Government determines, in its sole discretion, that an
+  award is not in the best interest of the Government.
+
+
+  Responsibility for Costs Incurred. Nothing in these rules, to include
+  information on the websites publicizing the award, may be interpreted as
+  authorizing the incurrence of any costs, or modifying the statement of work or
+  authorizing work outside the terms and conditions of any existing agreements
+  or contracts with the Government.
+
+
+  Participation in this prize challenge is at participant expense. The
+  Government will not be responsible for any costs incurred by the participant,
+  to include submission costs, travel costs, technology demonstration or
+  development costs or any associated costs.
+
+
+  Release of Claims. The participant agrees to release and forever discharge any
+  and all manner of claims, equitable adjustments, actions, suits, debts,
+  appeals, and all other obligations of any kind, whether past or present, known
+  or unknown, that have or may arise from, are related to or are in connection
+  with, directly or indirectly, this prize challenge or the participant’s
+  submission.
+
+
+  Liability. By participating in this challenge, the participant agrees to
+  assume, and thereby has assumed, any and all risks of injury or loss in
+  connection with, or in any way arising from participation in this challenge,
+  or development of any submission. Based on the subject matter of the prize
+  challenge, the type of work that it will require, as well as the unlikeliness
+  of claims for death, bodily injury, property damage, or loss potentially
+  arising from or related to participation in the prize challenge, no individual
+  or entity participating in the prize challenge is required to obtain liability
+  insurance.
+
+
+  Indemnification. The participant indemnifies the Government and its
+  affiliates, directors, officers, employees against all liabilities, damages,
+  losses, costs, fees (including legal fees), and expenses relating to any
+  allegation or third-party legal proceeding to the extent arising from:
+
+
+  (A) the participant’s acts or omissions in relation to the Challenge
+  (including the participant’s use or acceptance of any prize and the
+  participant’s breach of these Terms); and
+
+
+  (B) the participant’s submissions violating any rights of any other person or
+  entity or any obligation the participant may have with them.
+
+
+  Compliance with Laws. The participant agrees to follow and comply with all
+  applicable federal, state and local laws, regulations and policies.
+
+
+  Disclaimers.
+
+
+  All content provided by the government is provided on an "as is" and "as
+  available" basis. The government disclaims all representations and warranties
+  (express or implied), including any warranties of merchantability and fitness
+  for a particular purpose. The government is not responsible for any
+  incomplete, failed, or delayed transmission of your application information or
+  submissions due to the internet, including interruption or delays caused by
+  equipment or software malfunction or other technical problems.
+
+
+  Reference herein to any specific commercial products, process, or service by
+  trade name, trademark, manufacturer, or otherwise, does not constitute or
+  imply its endorsement, recommendation, or favoring by the united states
+  government.
+
+
+  Severability. If any term (or part of a term) of these terms or rules is
+  invalid, illegal or unenforceable, the rest of the terms or rules will remain
+  in effect.
+
+
+  Translations. In the event of any discrepancy between the English version of
+  these terms and rules and a translated version, the English version will
+  govern.
+
+
+  Governing Law. This prize challenge is subject to all applicable federal laws
+  and regulations. ALL CLAIMS ARISING OUT OF OR RELATING TO THESE TERMS WILL BE
+  GOVERNED BY THE FEDERAL LAWS AND REGULATIONS OF THE UNITED STATES OF AMERICA.
+
+
+  Availability of Funds. The Government’s obligation for prizes under 10 U.S.C.
+  2374a is subject to availability of appropriated funds from which payment for
+  prize purposes can be made. No legal liability on the part of the Government
+  for any payment of prizes may arise unless appropriated funds are available to
+  the United States Navy for such purposes.
 ---
