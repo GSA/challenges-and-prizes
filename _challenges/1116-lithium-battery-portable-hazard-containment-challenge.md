@@ -228,8 +228,8 @@ description: >-
   The cover sheet will NOT be included in the page count for each volume.
 
 
-  **Phase I** **Initial submission of White Paper Concept Due:**04/16/2020 02:00
-  PM ET
+  **Phase I** **Initial submission of White Paper Concept Due:** 04/16/2020
+  02:00 PM ET
 
 
   **Timeline:**
@@ -294,7 +294,7 @@ description: >-
 
   The Prize Challenge winner(s) will be notified via email by the challenge
   manager of their selection for each phase. An announcement of the winner(s)
-  will be posted on both the Challenge.gov webpage and https://beta.sam.gov.
+  will be posted on both the Challenge.gov webpage and <https://beta.sam.gov>.
 prizes: >-
   **Total Cash Prize Pool**
 
