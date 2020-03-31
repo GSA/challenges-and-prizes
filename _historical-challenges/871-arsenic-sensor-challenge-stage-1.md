@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/arsenic-sensor-challenge-stage-1/
-challenge-id: 
+challenge-id: 871
 status: open
 sidenav: true
 card-image: /assets/images/cards/arsenic_thumbnail.png
