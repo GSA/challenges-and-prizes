@@ -508,8 +508,8 @@ rules: >-
   date the notice is sent, a completed Standard Form 3881 (Automated Clearing
   House – Miscellaneous Payment Enrollment) showing bank routing number for
   payment purpose and a completed IRS Form W-9
-  (https://www.irs.gov/pub/irspdf/fw9.pdf). At the sole discretion of NSWC-CD, a
-  winning participant will be disqualified from the challenge and receive no
+  (<https://www.irs.gov/pub/irspdf/fw9.pdf>). At the sole discretion of NSWC-CD,
+  a winning participant will be disqualified from the challenge and receive no
   prize funds if:
 
 
@@ -529,10 +529,10 @@ rules: >-
   Government Right to Cancel, Suspend or Modify Challenge. The Government
   reserves the right, in its sole discretion, to cancel, suspend or modify the
   Challenge. These rules may be changed without prior notice, and all
-  participants should monitor https://challenge.gov for the latest information.
-  The Government further reserves the right to select no winners and award no
-  prize money if the Government determines, in its sole discretion, that an
-  award is not in the best interest of the Government.
+  participants should monitor [Challenge.gov](https://www.challenge.gov/) for
+  the latest information. The Government further reserves the right to select no
+  winners and award no prize money if the Government determines, in its sole
+  discretion, that an award is not in the best interest of the Government.
 
 
   Responsibility for Costs Incurred. Nothing in these rules, to include
