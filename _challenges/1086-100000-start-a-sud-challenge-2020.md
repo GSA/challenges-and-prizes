@@ -25,14 +25,14 @@ challenge-manager-email: koustovae@nida.nih.gov
 point-of-contact: koustovae@nida.nih.gov
 ---
 
-<p><strong>Update:</strong><p>
-<p>NIDA understands that the emergency declaration related to novel coronavirus (COVID-19) will adversely affect many Challenge applicants' ability to submit applications in a timely manner.</p>
-<p>Therefore, Challenge applications will be accepted through May 26, 2020. New dates for the judging period and winners announcement are also reflected under "Dates" in the Description section.
 
 <!-- Description start -->
 ### Description
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<p><strong>Update:</strong><p>
+<p>NIDA understands that the emergency declaration related to novel coronavirus (COVID-19) will adversely affect many Challenge applicants' ability to submit applications in a timely manner.</p>
+<p>Therefore, Challenge applications will be accepted through May 26, 2020. New dates for the judging period and winners announcement are also reflected under "Dates" in this section.</p>
 <h3><strong>Challenge Summary</strong></h3>
 <p>The <a href="https://www.drugabuse.gov/" target="_blank" rel="noopener">National Institute on Drug Abuse</a> (NIDA), one of the components of the National Institutes of Health (NIH), announces the 5th “$100,000 for Start a SUD Startup” Challenge. The Challenge goal is to support research ideas that would further an understanding of Substance Use Disorders (SUD) and that are intended to be the foundation for the development of successful new startups. NIDA expects that the contest will enable participants to test the premise that their research idea can be fostered into a biotech startup, and that eventually the newly created startups will contribute to the pool of innovative small business companies that can successfully compete for NIDA’s Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) funding.</p>
 <p>The Challenge will offer up to ten awards of $10,000 each and technical expertise and mentoring from NIDA scientific research entrepreneurship experts. The Challenge total purse is up to $100,000.</p>
