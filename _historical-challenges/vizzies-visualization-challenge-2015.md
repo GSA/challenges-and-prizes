@@ -1,60 +1,57 @@
 ---
 ideaSubmitFormInstruction: ''
-startDate: '2018-11-26T06:50:12'
+startDate: '2015-06-01T00:00:00'
 votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 590
+id: 577
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: The Nutrient Sensor Challenge will accelerate the development and deployment
-  of affordable nutrient sensors to reduce the cost and complexity of collecting nutrient
-  data and allow for better measurement and tracking of nutrients throughout ecosystems.
-  The Challenging Nutrients Coalition includes NOAA, USGS, and NIST.
-groupName: Environmental Protection Agency
+tagline: The most illustrative and impactful visualizations from the worlds of science
+  and engineering
+groupName: National Science Foundation
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
 attributes:
 total-prize-awarded-cash: ''
-external-url: http://www.act-us.info/nutrients-challenge/
-submission-end: 12/18/2015 11:59 PM
+external-url: 'http://www.nsf.gov/Vizzies'
+submission-end: '09/15/2015 12:00 AM'
 why-use-prizes: ''
-submission-start: 10/07/2015 09:00 AM
-fiscal-year: FY 2016
-public-voting-end-date: ''
+submission-start: 06/15/2015 12:00 AM
+fiscal-year: FY 2015
+public-voting-end-date: 11/13/2015 12:00 AM
 budget-and-resources: ''
-total-prize-offered-cash: ''
+total-prize-offered-cash: '$3,000'
 campaign-owner: ''
-public-voting-start-date: ''
-legal-authority: Other
+public-voting-start-date: 11/06/2015 12:00 AM
+legal-authority: America COMPETES
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
-agency-id: '222'
+agency-id: '272'
 solicitation-of-submissions: ''
 total-submission-received: ''
 total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
 non-monetary-incentives-awarded: ''
-partner-agencies-federal: 'National Oceanic and Atmospheric Administration
-  (including the U.S. Integrated Ocean Observing System and the Alliance for Coastal
-  Technologies), U.S. Geological Survey, National Institute of Standards and Technology'
-judging-end-date: ''
+partner-agencies-federal: ''
+judging-end-date: 11/13/2015 12:00 AM
 solicitation-methods: ''
 advancing-the-agency-mission: ''
-rules: ''
+rules: <a href="http://www.nsf.gov/news/special_reports/scivis/pdf/participants_guide.pdf">Vizzies
+  Participants' Guide</a>
 submission-start-date-1: ''
 hide-challenge-timeline: 'No'
-judging-start-date: ''
-winners-announced-date: ''
+judging-start-date: 10/01/2015 12:00 AM
+winners-announced-date: 03/01/2016 12:00 AM
 cash-prizes-and-non-cash-prize-awards: ''
 campaign-owner-email: ''
 solution-type: ''
-partner-agencies-non-federal: ''
-original-post-id: '89281'
+partner-agencies-non-federal: Popular Science
+original-post-id: '82941'
 total-number-of-winners-awarded: ''
 hosting: Externally (Challenge details will redirect to external url)
 hide-challenge-funnel: 'Yes'
@@ -125,11 +122,11 @@ judging-criteria-description-9: ''
 judging-criteria-percentage-9: ''
 judging-criteria-9: ''
 prize-description-0: ''
-prize-cash-amount-0: '0'
-prize-name-0: ''
+prize-cash-amount-0: '500'
+prize-name-0: People's Choice
 prize-description-1: ''
-prize-cash-amount-1: ''
-prize-name-1: ''
+prize-cash-amount-1: '2500'
+prize-name-1: Experts' Choice
 prize-cash-amount-10: ''
 prize-name-10: ''
 prize-description-10: ''
@@ -223,13 +220,9 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: 'This effort will focus on reducing the cost and complexity of collecting
-  nutrient data, to ultimately facilitate better environmental management and stewardship,
-  while stimulating innovation and private sector growth. The goal is for next-generation
-  sensors developed through the Challenge to:  <ul>  <ul>   <li>be easy to use in
-  maintenance-free deployments of up to three months,</li>   <li>cost less than $5,000
-  to purchase,</li>   <li>and be commercially available by 2017.</li>  </ul>  </ul>  REGISTER
-  HERE: <a href="http://www.nutrients-challenge.org/">www.nutrients-challenge.org</a>'
+description: Do you love animating data, creating science apps, or taking photographs?
+  In the Visualization Challenge, sponsored by the National Science Foundation and
+  Popular Science, your handiwork can receive its due glory and win you cash prizes.
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
@@ -241,13 +234,13 @@ hideCommentAuthor: false
 authorizedGroupIds: []
 userSubscriptionAllowed: false
 bannerImage: ''
-groupId: 18
+groupId: 21
 showTagline: true
-name: 'Nutrient Sensor Challenge Phase 2 - Technology Evaluations and Award Selections'
+name: 'Vizzies | Visualization Challenge'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/nutrient-sensor-challenge-phase-2-technology-evaluations-and-award-selections/"
+permalink: "/challenge/vizzies-visualization-challenge-2015/"
 layout: json-page
 ---
