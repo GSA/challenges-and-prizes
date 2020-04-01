@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash: $100,000
 type-of-challenge: Ideas
 submission-start: 2020/01/21 9 a.m.
-submission-end: 2020/04/24 5 p.m.
+submission-end: 2020/05/26 5 p.m.
 submission-link:
 prize: true
 fiscal-year: FY20
@@ -25,7 +25,9 @@ challenge-manager-email: koustovae@nida.nih.gov
 point-of-contact: koustovae@nida.nih.gov
 ---
 
-
+<p><strong>Update:</strong><p>
+<p>NIDA understands that the emergency declaration related to novel coronavirus (COVID-19) will adversely affect many Challenge applicants' ability to submit applications in a timely manner.</p>
+<p>Therefore, Challenge applications will be accepted through May 26, 2020. New dates for the judging period and winners announcement are also reflected under "Dates" in the Description section.
 
 <!-- Description start -->
 ### Description
@@ -42,9 +44,9 @@ point-of-contact: koustovae@nida.nih.gov
 <h3><strong>Dates</strong></h3>
 <ul>
 <li>The Challenge begins January 2, 2020.</li> 
-<li>Submission Period: 9 a.m. ET, January 21, 2020 to April 24, 2020, 5:00 p.m. ET.</li>
-<li>Judging Period: April 27, 2020 to May 15, 2019.</li>
-<li>Winners Announced: May 20, 2019.</li>
+<li>Submission Period: 9 a.m. ET, January 21, 2020 to May 26, 2020, 5:00 p.m. ET.</li>
+<li>Judging Period: May 27, 2020 to June 15, 2020.</li>
+<li>Winners Announced: June 22, 2020.</li>
   </ul>
 <h4><strong>For further information, contact:</strong></h4>
 <p>Elena Koustova, PhD, MBA, Director, Office of Translational Initiatives and Program Innovations (OTIPI), NIDA Challenge Manager, National Institute on Drug Abuse (NIDA), 6001 Executive Blvd Room 4206, MSC 9555 Bethesda, MD 20892-9555. Phone: (301) 496-8768, Email: <a href="mailto:elena.koustova@nih.gov" target="_blank" rel="noopener">elena.koustova@nih.gov</a></p>
