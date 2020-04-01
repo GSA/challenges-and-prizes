@@ -13,7 +13,7 @@ tagline: The Tracking and Tracing Books Prize Competition seeks innovations to t
   books destined for early-grade classrooms and learning centers in low-income countries
   and allow stakeholders, ranging from parents to Ministries of Education and donor
   agencies, to quickly and easily access tracking information.
-groupName: International Assistance Programs - Agency for International Dev
+groupName: International Assistance Programs - Agency for International Development
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:

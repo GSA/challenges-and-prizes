@@ -10,7 +10,7 @@ moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
 tagline: Improve understanding of criminal justice data through visualization!
-groupName: Department of Justice
+groupName: Department of Justice - Office of Justice Programs
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:

@@ -12,7 +12,7 @@ ideaFromUnauthorizedMemberAllowed: true
 tagline: 'This Ideation Challenge is looking for technology-supported approaches to
   provide basic education in one or more of the following crisis or conflict situations:
   Health Crisis, Natural Disaster, and Conflict Zone'
-groupName: International Assistance Programs - Agency for International Dev
+groupName: International Assistance Programs - Agency for International Development
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:

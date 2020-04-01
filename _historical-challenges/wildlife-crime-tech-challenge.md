@@ -11,7 +11,7 @@ funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
 tagline: Share bold and innovative science and technology solutions to stem the slaughter
   of the world’s wildlife.
-groupName: International Assistance Programs - Agency for International Dev
+groupName: International Assistance Programs - Agency for International Development
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:

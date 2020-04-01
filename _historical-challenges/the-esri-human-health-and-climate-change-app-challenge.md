@@ -12,8 +12,7 @@ moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
 tagline: Build Apps Where Community Health, Climate, and Location Matter
-groupName: Department of Health and Human Services - Climate and Health Innovation
-  Challenge Series
+groupName: Department of Health and Human Services 
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
