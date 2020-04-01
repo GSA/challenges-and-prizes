@@ -1,6 +1,6 @@
 ---
-title: Lithium Battery Portable Hazard Containment Challenge
-challenge-title: Lithium Battery Portable Hazard Containment Challenge
+title: Lithium Battery Man Portable Hazard Containment Challenge
+challenge-title: Lithium Battery Man Portable Hazard Containment Challenge
 layout: front-matter-data-netlify
 permalink: /challenge/lithium-battery-man-portable-containment/
 challenge-id: '1116'
@@ -21,7 +21,7 @@ type-of-challenge:
   - Technology demonstration and hardware
   - Scientific
 submission-start: '2020/04/02 02:00 PM'
-submission-end: '2020/04/16 02:00 PM'
+submission-end: '2020/04/23 02:00 PM'
 fiscal-year: 'FY20, FY21'
 legal-authority: Agency specific prize authority
 challenge-manager: Marissa Wagler
@@ -228,7 +228,7 @@ description: >-
   The cover sheet will NOT be included in the page count for each volume.
 
 
-  **Phase I** **Initial submission of White Paper Concept Due:** 04/16/2020
+  **Phase I** **Initial submission of White Paper Concept Due:** 04/23/2020
   02:00 PM ET
 
 
@@ -256,7 +256,7 @@ description: >-
   Phase II Detailed Design and Proof-of-Concept (POC)
 
 
-  * Design and POC submission – 45 Calendar Days
+  * Design and POC submission – 49 Calendar Days
 
   * Evaluation by Judges – 7 Calendar Days
 
@@ -266,17 +266,17 @@ description: >-
   Phase III Technology Development Prototype
 
 
-  * Technology Development Prototype submission – 60 Calendar Days
+  * Technology Development Prototype submission – 56 Calendar Days
 
   * Evaluation by Judges – 7 Calendar Days
 
-  * Prize pool of $450,000 disbursed to winner(s) – 7 Calendar Days
+  * Prize pool of $450,000 disbursed to winner(s) – 14 Calendar Days
 
 
   Phase IV Follow-on Award – To be determined
 
 
-  Total estimated time from Challenge.gov posting to Phase IV is 231 Calendar
+  Total estimated time from Challenge.gov posting to Phase IV is 203 Calendar
   Days.
 
 
@@ -736,7 +736,7 @@ how-to-enter: >-
 
   Entries for Phase I must be submitted via email to Marissa Wagler at
   [marissa.wagler@navy.mil](<mailto: marissa.wagler@navy.mil>) by 02:00 Eastern
-  Time on 16 April 2020 02:00 PM ET. Submissions received after the deadline may
+  Time on 23 April 2020 02:00 PM ET. Submissions received after the deadline may
   not be considered.
 
 
@@ -744,7 +744,7 @@ how-to-enter: >-
   challenge.gov username in the subject line in the following format:
 
 
-  *Lithium_Battery_Portable_Hazard_Containment_Challenge_User123X Phase I
+  *Lithium_Battery_Man_Portable_Hazard_Containment_Challenge_User123X Phase I
   Submission*
 
 
@@ -759,10 +759,10 @@ how-to-enter: >-
 
   For technical and challenge related questions, please send an email to
   [marissa.wagler@navy.mil](mailto:marissa.wagler@navy.mil) with “Lithium
-  Battery Portable Hazard Containment Challenge_Questions” in the subject line.
-  The deadline for prize challenge question submission is 2:00 PM Eastern Time
-  on 09 April 2020 02:00 PM ET. After this date and time, the Government may not
-  respond to questions received.
+  Battery Man Portable Hazard Containment Challenge_Questions” in the subject
+  line. The deadline for prize challenge question submission is 2:00 PM Eastern
+  Time on 16 April 2020 02:00 PM ET. After this date and time, the Government
+  may not respond to questions received.
 
 
   The Government will post all questions and responses on the Beta SAM website
