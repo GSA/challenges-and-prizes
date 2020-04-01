@@ -5,7 +5,7 @@ challenge-title: xTechSearch 5
 layout: front-matter-data
 permalink: /challenge/xtechsearch-5/
 challenge-id: 1107
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/xtechsearch_4.png
 agency-logo: dod_seal.jpg
@@ -16,12 +16,12 @@ agency: Department of Defense - U.S. Army
 partner-agencies-federal: 
 external-url: 
 total-prize-offered-cash: '$2,040,000'
-submission-start: '2020/03/09 05:00 PM'
-submission-end: '2020/04/01 02:59 AM'
+submission-start: '03/09/2020 05:00 PM'
+submission-end: '04/01/2020 02:59 AM'
 fiscal-year: 'FY20, FY21'
 legal-authority: America COMPETES Act
-challenge-manager: 'Zeke Topolosky, Zeke.j.topolosky.civ@mail.mil'
-challenge-manager-email: usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil
+challenge-manager: 'Zeke Topolosky'
+challenge-manager-email: 'Zeke.j.topolosky.civ@mail.mil'
 point-of-contact: usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil
 partners-non-federal: 
 submission-link: 
