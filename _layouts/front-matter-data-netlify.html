@@ -62,7 +62,7 @@ permalink: json-page
                             <i class="fas fa-money-bill-wave text-accent-warm-dark font-size-mono-xl"></i><span class="text-primary text-uppercase"> Total Cash Prizes Offered: </span> {{ page.total-prize-offered-cash }}<br>
                             {% endif %}
                             {% if page.type-of-challenge %}
-                            <i class="fas fa-stream text-accent-warm-dark"></i><span class="text-primary text-uppercase"> Type of Challenge:</span>  {{ page.type-of-challenge }}</span><br>
+                            <i class="fas fa-stream text-accent-warm-dark"></i><span class="text-primary text-uppercase"> Type of Challenge:</span>  {{ page.type-of-challenge | join: ', ' }}</span><br>
                             {% endif %}
                             {% if page.partner-agencies-federal %}
                             <i class="fas fa-university text-accent-warm-dark font-size-mono-xl"></i><span class="text-primary text-uppercase"> Partner Agencies | Federal:</span> {{ page.partner-agencies-federal }}<br>
