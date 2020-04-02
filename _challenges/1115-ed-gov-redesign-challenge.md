@@ -272,13 +272,13 @@ rules: >-
   #### Terms and Conditions
 
 
-  All entry information submitted on the Challenge webpage and all materials,
-  including any copy of the submission, become property of the Department and
-  will not be returned. Furthermore, the Department shall have no liability for
-  any submission that is lost, intercepted, or not received by the Department.
-  The Department assumes no liability or responsibility for any error, omission,
-  interruption, deletion, theft, destruction, unauthorized access to, or
-  alteration of, submissions. 
+  All entry information submitted to [challenge@ed.gov](<mailto:
+  challenge@ed.gov>) and all materials, including any copy of the submission,
+  become property of the Department and will not be returned. Furthermore, the
+  Department shall have no liability for any submission that is lost,
+  intercepted, or not received by the Department. The Department assumes no
+  liability or responsibility for any error, omission, interruption, deletion,
+  theft, destruction, unauthorized access to, or alteration of, submissions. 
 
 
   **Representations and Warranties/Indemnification** 
@@ -423,12 +423,11 @@ rules: >-
   Department shall not be responsible or liable for any losses, damages, or
   injuries of any kind (including death) resulting from participation in the
   Challenge or any Challenge-related activity, or from entrants' acceptance,
-  receipt, possession, use, or misuse of any prize; and
-
-  (b) The entrant will indemnify, defend, and hold harmless the Department from
-  and against all third party claims, actions, or proceedings of any kind and
-  from any and all damages, liabilities, costs, and expenses relating to, or
-  arising from, the entrant's participation in the Challenge.
+  receipt, possession, use, or misuse of any prize; and (b) The entrant will
+  indemnify, defend, and hold harmless the Department from and against all third
+  party claims, actions, or proceedings of any kind and from any and all
+  damages, liabilities, costs, and expenses relating to, or arising from, the
+  entrant's participation in the Challenge.
 
 
   Without limiting the generality of the foregoing, the Department is not
@@ -548,33 +547,13 @@ judging: >-
   agrees to be bound by, and not to challenge, the final decisions of the
   Department.
 how-to-enter: >-
-  To submit an entry, an entrant must go to the Challenge webpage and complete
-  all required fields of the submission form by the June 15, 2020 deadline. All
-  entrants are required to provide consent to the Official Rules, Terms, and
-  Conditions upon submitting an entry. Once submitted, a submission may not be
-  altered. The Department reserves the right to disqualify any submission that
-  the Department deems inappropriate. The Department encourages entrants to
-  submit entries as far in advance of the deadline as possible and suggests not
-  later than one hour before the deadline to ensure the completed submission is
-  received. 
-
-
-  If an entrant requests submission of an entry after the deadline date because
-  of a technical problem with the Challenge webpage system, the entrant must
-  immediately contact [challenge@ed.gov](<mailto: challenge@ed.gov>) and provide
-  an explanation of the technical problem experienced on the Challenge webpage
-  system. The Department will accept the entrant’s submission if the Department
-  can confirm that a technical problem occurred with the Challenge webpage
-  system and that the technical problem affected the entrant's ability to submit
-  an entry by the entry deadline date. The Department will contact the entrant
-  after a determination is made on whether the entry will be accepted.
-
-
-  Note: These extensions apply only to the unavailability of, or technical
-  problems with, the Challenge webpage system. The Department will not grant an
-  entrant an extension if the entrant failed to submit an entry in the system by
-  the submission deadline date and time, or if the technical problem experienced
-  is unrelated to the Challenge webpage system.
+  To submit an entry, an entrant must email [challenge@ed.gov](<mailto:
+  challenge@ed.gov>) by the June 15, 2020 deadline. All entrants are required to
+  provide consent to the Official Rules, Terms, and Conditions upon submitting
+  an entry. Once submitted, a submission may not be altered. The Department
+  reserves the right to disqualify any submission that the Department deems
+  inappropriate. The Department encourages entrants to submit entries as far in
+  advance of the deadline as possible. 
 
 
   Individuals with disabilities who need an accommodation or auxiliary aid in
