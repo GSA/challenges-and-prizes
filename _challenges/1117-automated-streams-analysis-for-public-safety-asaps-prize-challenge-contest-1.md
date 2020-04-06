@@ -201,8 +201,8 @@ description: >-
 
 
   To provide some additional clarity on the context and make-up of the data,
-  [see tables for examples of public safety data types and emergency events](<{{
-  site.baseurl }}/assets/netlify-uploads/asaps-tables-data-events.pdf>).
+  [see tables for examples of public safety data types and emergency events]({{
+  site.baseurl }}/assets/netlify-uploads/asaps-tables-data-events.pdf).
 
 
   Additional information on the Challenge can be found on
