@@ -21,7 +21,7 @@ collections:
     fields:
       - { label: 'Workflow Card Label', name: 'title', widget: 'string', default: 'Card Title Here', required: false }
       - { label: 'Challenge Title', name: 'challenge-title', widget: 'string' }
-      - { label: 'Layout', name: 'layout', widget: 'string', default: "front-matter-data-netlify" }
+      - { label: 'Layout', name: 'layout', widget: 'string', default: "front-matter-data-markdownify-content" }
       - { label: 'Permalink', name: 'permalink', widget: 'string', default: '/challenge/challenge-url-here/' }
       - { label: 'Challenge-ID', name: 'challenge-id', widget: 'string' }
       - { label: 'Status', name: 'status', widget: 'select', options: ["open", "closed"] }
@@ -43,12 +43,13 @@ collections:
       - { label: 'Challenge Manager Email', name: 'challenge-manager-email', widget: 'string' }
       - { label: 'Challenge Point of Contact', name: 'point-of-contact', widget: 'string', required: false }
       - { label: 'Body Content Uploads', name: 'body-content-uploads', widget: 'file', required: false }
-      - { label: 'Description', name: 'description', widget: 'markdown', required: false }
-      - { label: 'Prizes', name: 'prizes', widget: 'markdown', required: false }
-      - { label: 'Rules', name: 'rules', widget: 'markdown', required: false }
-      - { label: 'Judging', name: 'judging', widget: 'markdown', required: false }
-      - { label: 'How To Enter', name: 'how-to-enter', widget: 'markdown', required: false }
-      - { label: "Body", name: "body", widget: "markdown", required: false }
+      - { label: "Body Content", name: "body", widget: "markdown", required: false }
+      - { label: '(DO NOT USE)Description', name: 'description', widget: 'markdown', required: false }
+      - { label: '(DO NOT USE)Prizes', name: 'prizes', widget: 'markdown', required: false }
+      - { label: '(DO NOT USE)Rules', name: 'rules', widget: 'markdown', required: false }
+      - { label: '(DO NOT USE)Judging', name: 'judging', widget: 'markdown', required: false }
+      - { label: '(DO NOT USE)How To Enter', name: 'how-to-enter', widget: 'markdown', required: false }
+
   - name: 'archived-challenges'
     label: 'Archived Challenges'
     label_singular: 'Archived Challenge'
