@@ -127,12 +127,15 @@ description: >-
   Challenge focuses only on the what, when, and where aspects of streaming data
   analysis and specifically excludes identity-related technologies such as
   facial and voice biometrics which are considered out of scope for this
-  research program[\[1]](#_ftn1). This focus of the Challenge is because the
-  area of identifying the situational and time-critical evolving characteristics
-  of an emergency across information streams is under-researched. This Challenge
-  seeks to focus research on analyzing a plethora of fast-moving data streams
-  for life/infrastructure-critical situational information to support both
-  effective and efficient response.
+  research program - with the exception of technology to maintain scene-relative
+  identification of people/vehicle/object/place entities involved in emergencies
+  in order to associate activities with the entities they are involved with.
+  This focus of the Challenge is because the area of identifying the situational
+  and time-critical evolving characteristics of an emergency across information
+  streams is under-researched. This Challenge seeks to focus research on
+  analyzing a plethora of fast-moving data streams for
+  life/infrastructure-critical situational information to support both effective
+  and efficient response.
 
 
   Public safety organizations are inundated with live streaming data from a
@@ -196,90 +199,12 @@ description: >-
   developed to address the challenge.
 
 
-  To provide some additional clarity on the context and make-up of the data,
-  Table 1 illustrates the categories and types of data generally available to
-  public safety.
-
-
-  **Table 1**: Example Public Safety Data Types
-
-
-  | **Data Stream Category**  | **Example Data
-  Types**                                                                                                                                                     
-  |
-
-  | ------------------------- |
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  |
-
-  | Video & Still Images      | \- Fixed/Stationary or Pan Tilt Zoom mounted
-  CCTV cameras (some potentially including infrared data)\
-
-  - Vehicle Cameras\
-
-  - Cell phone cameras\
-
-  - Drones                     |
-
-  | Audio                     | \- 911 calls\
-
-  - Communications between dispatch and first responders\
-
-  - Peer-to-peer first responder
-  communications                                                         |
-
-  | Text                      | \- 911 texts\
-
-  - Communications between dispatch and first responders\
-
-  - Peer-to-peer first responder
-  communications                                                         |
-
-  | Social Media (multimedia) | \- Instagram\
-
-  - Twitter\
-
-  - Includes text, images, video, audio, graphics, and other non-textual
-  information                                                                 |
-
-  | Sensors                   | \- Gunshot detection systems\
-
-  - Automated license plate readers\
-
-  - First responder asset tracking systems (for example GPS location of first
-  responders and their vehicles) |
-
-
-
-
-  Public safety requires automated approaches to sift through this incoming data
-  and enable decision support tools and capabilities of the future. Tools and
-  capabilities are needed which can identify emergency events and emergency
-  related information within live streaming data. Table 2 lists examples of
-  emergency events.
-
-
-  **Table 2**: Example of Public Safety Emergency Events
-
-
-  |     |     |
-
-  | --- | --- |
-
-  |     |     |
-
-  |     |     |
-
-  |     |     |
+  To provide some additional clarity on the context and make-up of the data, see
+  tables illustrating public safety data types and emergency events. 
 
 
   Additional information on the Challenge can be found on
   *[www.herox.com/ASAPS1](http://www.herox.com/ASAPS1)*. Questions on the
   Challenge can be directed to the challenge forum:
   *[www.herox.com/ASAPS1/forum](http://www.herox.com/ASAPS1/forum)*.
-
-
-  [\[1]](#_ftnref1) With the exception of technology to maintain scene-relative
-  identification of people/vehicle/object/place entities involved in emergencies
-  in order to associate activities with the entities they are involved with.
 ---
