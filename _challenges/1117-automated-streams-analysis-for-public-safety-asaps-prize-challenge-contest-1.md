@@ -201,8 +201,8 @@ description: >-
 
 
   To provide some additional clarity on the context and make-up of the data,
-  [see tables for examples of public safety data types and emergency
-  events](https://www.challenge.gov/assets/netlify-uploads/asaps-tables-data-events.pdf).
+  [see tables for examples of public safety data types and emergency events](<{{
+  site.baseurl }}/assets/netlify-uploads/asaps-tables-data-events.pdf>).
 
 
   Additional information on the Challenge can be found on
@@ -230,7 +230,7 @@ prizes: >-
   Topic 4: Extraction-to-analysis systems approach across all data categories:
   **2 X $30,000**
 rules: >-
-  View the [Official Rules document](<{{ site.based.url
+  View the [Official Rules document](<{{ site.baseurl
   }}/assets/netlify-uploads/3.2-oio-rules-asaps-contest-1-final-.pdf>) for
   detailed rules on all aspects of this challenge. 
 
@@ -269,10 +269,10 @@ judging: >-
   * Be written in English
 
 
-  Submissions will be evaluated based on the [criteria in this
-  table](https://www.challenge.gov/assets/netlify-uploads/asaps-judging-criteria.pdf).
-  Scores will not be provided to the contestants. In the case of a tie, the
-  Judging panel will decide on the winners.
+  Submissions will be evaluated based on the [criteria in this table](<{{
+  site.baseurl }}/assets/netlify-uploads/asaps-judging-criteria.pdf>). Scores
+  will not be provided to the contestants. In the case of a tie, the Judging
+  panel will decide on the winners.
 
 
   In addition to the criteria listed in the table, submissions will also be
