@@ -208,6 +208,26 @@ description: >-
   *[www.herox.com/ASAPS1](http://www.herox.com/ASAPS1)*. Questions on the
   Challenge can be directed to the challenge forum:
   *[www.herox.com/ASAPS1/forum](http://www.herox.com/ASAPS1/forum)*.
+prizes: >-
+  A total prize purse of up to **$150,000** will be awarded to the winners, as
+  follows:
+
+
+  Topic 1: Information extraction across ASAPS streams and data sources across 1
+  or more data categories: **$30,000**
+
+
+  Topic 2: Information fusion across extracted data and generation of
+  live/dynamic information representation, across 3 or more data categories:
+  **$30,000**
+
+
+  Topic 3: Automated emergency event analysis across 3 or more data stream
+  categories, and preferably across all data categories: **$30,000**
+
+
+  Topic 4: Extraction-to-analysis systems approach across all data categories:
+  **2 X $30,000**
 how-to-enter: >-
   Visit *[www.herox.com/ASAPS1](http://www.herox.com/ASAPS1)*:.
 
