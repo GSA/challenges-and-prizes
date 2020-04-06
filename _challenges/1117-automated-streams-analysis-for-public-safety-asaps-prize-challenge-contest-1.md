@@ -8,7 +8,7 @@ permalink: /challenge/ASAPSContest1/
 challenge-id: '1117'
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/challenge-gov.png
+card-image: /assets/netlify-uploads/asaps-card.jpg
 agency-logo: /assets/netlify-uploads/NIST_logo.png
 tagline: >-
   Develop tools and capabilities to detect and analyze emergency events from
