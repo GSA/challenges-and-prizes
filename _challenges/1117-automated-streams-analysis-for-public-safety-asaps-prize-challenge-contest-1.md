@@ -14,6 +14,7 @@ tagline: >-
   Develop tools and capabilities to detect and analyze emergency events from
   live streaming multimodal public safety data
 agency: Department of Commerce - National Institute of Standards and Technology
+total-prize-offered-cash: '$150,000'
 type-of-challenge:
   - Software and apps
   - Ideas
@@ -25,7 +26,7 @@ fiscal-year: 'FY20, FY21, FY22'
 legal-authority: America COMPETES Act
 challenge-manager: Craig Connelly
 challenge-manager-email: craig.connelly@nist.gov
-body-content-uploads: /assets/netlify-uploads/asaps-rendering.jpg
+body-content-uploads: /assets/netlify-uploads/asaps-tables-data-events.pdf
 description: >-
   The Public Safety Communications Research Division of the National Institute
   of Standards and Technology is conducting the Automated Streams Analysis for
@@ -200,11 +201,22 @@ description: >-
 
 
   To provide some additional clarity on the context and make-up of the data, see
-  tables illustrating public safety data types and emergency events. 
+  tables for examples of public safety data types and emergency events.
 
 
   Additional information on the Challenge can be found on
   *[www.herox.com/ASAPS1](http://www.herox.com/ASAPS1)*. Questions on the
   Challenge can be directed to the challenge forum:
   *[www.herox.com/ASAPS1/forum](http://www.herox.com/ASAPS1/forum)*.
+how-to-enter: >-
+  Visit *[www.herox.com/ASAPS1](http://www.herox.com/ASAPS1)*:.
+
+
+  * Register as a contestant on HeroX.com and complete your submission using the
+  online portal by the Submission Deadline.
+
+  * Each individual, team, or organization is allowed only one entry.
+
+  * There are four topics addressed in this contest and you may respond to one
+  or more of these topics within your submission form.
 ---
