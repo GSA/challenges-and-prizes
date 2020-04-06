@@ -200,8 +200,9 @@ description: >-
   developed to address the challenge.
 
 
-  To provide some additional clarity on the context and make-up of the data, see
-  tables for examples of public safety data types and emergency events.
+  To provide some additional clarity on the context and make-up of the data,
+  [see tables for examples of public safety data types and emergency
+  events](https://www.challenge.gov/assets/netlify-uploads/asaps-tables-data-events.pdf).
 
 
   Additional information on the Challenge can be found on
