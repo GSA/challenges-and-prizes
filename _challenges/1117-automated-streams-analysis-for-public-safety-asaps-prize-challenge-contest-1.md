@@ -26,7 +26,7 @@ fiscal-year: 'FY20, FY21, FY22'
 legal-authority: America COMPETES Act
 challenge-manager: Craig Connelly
 challenge-manager-email: craig.connelly@nist.gov
-body-content-uploads: /assets/netlify-uploads/3.2-oio-rules-asaps-contest-1-final-.pdf
+body-content-uploads: /assets/netlify-uploads/asaps-judging-criteria.pdf
 description: >-
   The Public Safety Communications Research Division of the National Institute
   of Standards and Technology is conducting the Automated Streams Analysis for
@@ -237,7 +237,66 @@ rules: >-
 
   Rules regarding submissions, as well as additional terms and conditions, begin
   on Page 6 of the document.
-judging: ''
+judging: >-
+  **Judging Panel**
+
+
+  Submissions will initially be screened for completeness and compliance with
+  the objectives and Official Rules of this challenge. A submission that fails
+  to meet the compliance requirements listed below will be disqualified and will
+  be ineligible to compete in this challenge. Submissions that pass the initial
+  compliance review will be evaluated by a panel of subject matter experts and
+  scored by a panel of judges. An evaluation of a submission by the Judging
+  panel does not constitute NIST's final determination of the contestant or
+  submission eligibility.
+
+
+  **Judging Criteria**
+
+
+  To pass initial screening, submissions must:
+
+
+  * Discuss the current technology landscape
+
+  * Identify the technology gaps
+
+  * Describe the proposed approach to bridging the identified gaps
+
+  * Present the expertise and experience represented by the team and discuss how
+  it aligns with the proposed approach
+
+  * Be written in English
+
+
+  Submissions will be evaluated based on the [criteria in this
+  table](https://www.challenge.gov/assets/netlify-uploads/asaps-judging-criteria.pdf).
+  Scores will not be provided to the contestants. In the case of a tie, the
+  Judging panel will decide on the winners.
+
+
+  In addition to the criteria listed in the table, submissions will also be
+  evaluated to ensure they meet the requirements for the number of data
+  categories (see Table 1 for data stream categories) required for each topic
+  area. The requirements are as follows:
+
+
+  * **Topic 1: Information Extraction across ASAPS streams and data sources**
+  Submitted ideas must address information extraction across one or more data
+  stream categories.
+
+  * **Topic 2: Information fusion across extracted data and generation of
+  live/dynamic information representation** Submitted ideas must address
+  information fusion and information representation from 3 or more data stream
+  categories.
+
+  * **Topic 3: Automated emergency event analysis** Submitted ideas must address
+  emergency event analysis across 3 or more data stream categories. Preference
+  will be given to ideas that span all data stream categories.
+
+  * **Topic 4: Extraction-to-analysis systems approach** Submitted ideas must
+  address an extraction-to-analysis systems approach that uses all data stream
+  categories.
 how-to-enter: >-
   Visit *[www.herox.com/ASAPS1](http://www.herox.com/ASAPS1)*:.
 
