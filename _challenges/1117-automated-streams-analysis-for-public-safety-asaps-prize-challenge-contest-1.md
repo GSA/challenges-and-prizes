@@ -229,6 +229,7 @@ prizes: >-
 
   Topic 4: Extraction-to-analysis systems approach across all data categories:
   **2 X $30,000**
+judging: ''
 how-to-enter: >-
   Visit *[www.herox.com/ASAPS1](http://www.herox.com/ASAPS1)*:.
 
