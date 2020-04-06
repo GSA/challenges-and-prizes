@@ -42,7 +42,7 @@ partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''
-rules: http://www.ftc.gov/news-events/contests/robocalls-humanity-strikes-back-1
+rules: ''
 submission-start-date-1: ''
 hide-challenge-timeline: 'No'
 judging-start-date: ''
@@ -221,10 +221,7 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: '[caption id="" align="alignnone" width="656"]<a href="www.ftc.gov/strikeback"><img
-  src="http://www.ftc.gov/system/files/attachments/robocalls-humanity-strikes-back/strikesback-contest.jpg"
-  alt="FTC robocall contest at DEF CON 23" width="656" height="117" /></a> Robocalls:
-  Humanity Strikes Back[/caption]'
+description: ''
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
@@ -238,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 341
 showTagline: true
-name: 'Robocalls: Humanity Strikes Back (Qualifying Phase)'
+name: 'Robocalls- Humanity Strikes Back (Qualifying Phase)'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

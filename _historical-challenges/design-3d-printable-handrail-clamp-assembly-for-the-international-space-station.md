@@ -124,12 +124,8 @@ judging-criteria-8: ''
 judging-criteria-description-9: ''
 judging-criteria-percentage-9: ''
 judging-criteria-9: ''
-prize-description-0: '1st Place: $1000&amp;amp;amp;lt;br /&amp;amp;amp;gt;&amp;amp;lt;br
-  /&amp;amp;gt;&amp;lt;br /&amp;gt;&lt;br /&gt;<br />  2nd Place: $500&amp;amp;amp;lt;br
-  /&amp;amp;amp;gt;&amp;amp;lt;br /&amp;amp;gt;&amp;lt;br /&amp;gt;&lt;br /&gt;<br
-  />  3rd Place: $250&amp;amp;amp;lt;br /&amp;amp;amp;gt;&amp;amp;lt;br /&amp;amp;gt;&amp;lt;br
-  /&amp;gt;&lt;br /&gt;<br />  4th Place: $150&amp;amp;amp;lt;br /&amp;amp;amp;gt;&amp;amp;lt;br
-  /&amp;amp;gt;&amp;lt;br /&amp;gt;&lt;br /&gt;<br />  5th Place: $100'
+prize-description-0: '1st Place: $1000<br />  2nd Place: $500<br
+  />  3rd Place: $250<br />  4th Place: $150<br />  5th Place: $100'
 prize-cash-amount-0: '2000'
 prize-name-0: "$2000 in Prizes"
 prize-description-1: ''

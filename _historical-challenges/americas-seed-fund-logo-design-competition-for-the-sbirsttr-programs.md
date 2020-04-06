@@ -43,7 +43,7 @@ partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''
-rules: '<em><strong>Competition Details:</strong></em>    <strong>1) Subject of
+rules: '<em><strong>Competition Details:</strong></em><br>    <strong>1) Subject of
   Competition:</strong> The SBA is seeking a new design to be used as the official
   logo of the SBIR/STTR Programs and the recently redesigned website <a href="https://www.sbir.gov/"><em>https://www.sbir.gov/</em></a>.
   The SBIR/STTR Programs are extremely competitive and encourage small businesses
@@ -69,14 +69,14 @@ rules: '<em><strong>Competition Details:</strong></em>    <strong>1) Subject of
   agency websites, conferences, events, television, print, and other media outlets.
   The winning logo is intended to premiere at the 2015 Tibbetts Awards ceremony
   on June 15, 2015, and be highlighted at the National SBIR Conference, June 15-17,
-  2015.    <strong>2) Eligibility Rules for Participating in the Competition:</strong>
-  To be eligible to win a prize under this Logo Design Competition, you-    (a)
+  2015.    <strong><br>2) Eligibility Rules for Participating in the Competition:</strong>
+  To be eligible to win a prize under this Logo Design Competition, you-    <br>(a)
   Must register to participate in the competition under the link designated for
-  that purpose by SBA on <em>challenge.gov</em>;    (b) Must comply with all the
+  that purpose by SBA on <em>challenge.gov</em>;    <br>(b) Must comply with all the
   requirements under this notice and the America Competes Act of 2010 (Pub. L.
-  111-358);    (c) Must be a citizen or permanent resident of the United States
-  before the submission period ends;    (d) May not be a Federal employee acting
-  within the scope of your employment; and,    (e) May not be an entity with an
+  111-358);    <br>(c) Must be a citizen or permanent resident of the United States
+  before the submission period ends;    <br>(d) May not be a Federal employee acting
+  within the scope of your employment; and,    <br>(e) May not be an entity with an
   outstanding, unresolved financial obligation to, or that is currently suspended
   or debarred by, the federal government.    If you are under 18 years of age,
   you must have the permission of a parent or legal guardian to participate. If
@@ -86,28 +86,28 @@ rules: '<em><strong>Competition Details:</strong></em>    <strong>1) Subject of
   from a contract to develop or fund efforts in support of applications for this
   competition. You may use Federal facilities or consult with Federal employees
   during the competition if the facilities and employees are made available to
-  all contestants participating in the competition on an equitable basis.    <strong>3)
+  all contestants participating in the competition on an equitable basis.    <strong><br>3)
   Registration Process for Participants:</strong> Design competition participants
   must submit their “America’s Seed Fund” Logo Designs online using the link designated
   for that purpose on <em>challenge.gov</em>, either by filtering search criteria
   to “Small Business Administration” or going to <a href="https://www.sbir.gov/"><em>https://www.sbir.gov/</em></a>,
   where the link will be posted.    SBA will accept logo design competition submissions
   only through <em>challenge.gov</em>.    Things to keep in mind as you design
-  your “America’s Seed Fund” Logo:    (a) Translating the common programmatic
+  your “America’s Seed Fund” Logo:    <br>(a) Translating the common programmatic
   elements of the SBIR and STTR programs – to support scientific excellence and
   technological innovation through the investment of Federal research funds in
   critical American priorities to build a strong national economy… one small business
   at a time. (For more information about the SBIR and STTR Programs, visit the
-  website at <a href="https://www.sbir.gov/"><em>https://www.sbir.gov/</em></a>.);    (b)
+  website at <a href="https://www.sbir.gov/"><em>https://www.sbir.gov/</em></a>.);    <br>(b)
   Reflecting the importance of the SBIR/STTR Programs in an insightful and ultimately
-  innovative manner; and,    (c) Evoking through imagery thoughts related to words
+  innovative manner; and,    <br>(c) Evoking through imagery thoughts related to words
   such as – Innovation, Inventions, High-Tech, Cutting Edge, Technology, Startups,
   Seed Money, STEM driven, Angel Funding, Seeding Ideas, Business Plans, Forward-Looking,
   Venture Capital, Widely Applicable, High-Growth Entrepreneurship, National Competitiveness,
   and Next Generation Solutions.    When uploading your “America’s Seed Fund”
   Logo design, in the “Submission Text” field please also include a brief description
   about your logo entry and thought process behind the design – how it relates
-  to the SBIR/STTR Programs as “America’s Seed Fund”.    <strong>4) Prizes for
+  to the SBIR/STTR Programs as “America’s Seed Fund”.    <strong><br>4) Prizes for
   Winners:</strong> The winning contestant will be awarded a $2,500 prize and
   the design will become the official logo for the SBIR/STTR Programs, the Programs’
   website at <em>sbir.gov</em>, and any official SBA, SBIR Program and/or STTR
@@ -118,27 +118,27 @@ rules: '<em><strong>Competition Details:</strong></em>    <strong>1) Subject of
   logo from SBA Administrator Maria Contreras-Sweet. The winning contestant and
   winning logo design will also be recognized during the National SBIR Conference,
   June 15-17, 2015, in National Harbor, MD. Any and all associated travel costs
-  will be the sole responsibility of the winning contestant.    <strong>5) Selection
+  will be the sole responsibility of the winning contestant.    <strong><br>5) Selection
   of Winners:</strong> SBA will select a judging panel that will consist of SBA
   officials and Program Managers of the SBIR/STTR participating Federal agencies.
   Judges will be fair and impartial. A judge may not have a familial or financial
   relationship with an individual who is a registered contestant in the competition.
   Judges will fully comply with all applicable government ethics requirements
   for Federal employees.    Judges will use the following criteria to judge the
-  submitted designs:    (a) Design relates to the SBIR/STTR Programs as “America’s
+  submitted designs:    <br>(a) Design relates to the SBIR/STTR Programs as “America’s
   Seed Fund”. The subjects and ideas of small business, innovation, technological
   advancement, commercialization, and research and development need to be conveyed
   in the design of the logo. This may be done through a realistic or abstract
-  design.    (b) Creativity and originality. Is the visual quality of the design
+  design.    <br>(b) Creativity and originality. Is the visual quality of the design
   at once informative and representative of imagery connected to the SBIR/STTR
-  Programs?    (c) Design can be easily replicated. Can this design be replicated
+  Programs?    <br>(c) Design can be easily replicated. Can this design be replicated
   successfully, without excessive cost, for many media formats?    The judging
   panel will evaluate the submissions and select up to ten logos to recommend
   to the SBA Administrator, who will choose the final winning design from all
   submissions, including the up to ten logos recommended to the SBA Administrator
   by the judging panel.  SBA will publicly announce the winner and unveil the
   winning logo on June 15, 2015. For questions or further information, please
-  see the contact information listed above.    <strong>6) Applicable Law:</strong>
+  see the contact information listed above.    <strong><br>6) Applicable Law:</strong>
   This design competition is being conducted by SBA pursuant to the America Competes
   Act (15 U.S.C. 3719) and is subject to all applicable federal laws and regulations.
   By participating in this design competition, each contestant gives its full
@@ -148,11 +148,11 @@ rules: '<em><strong>Competition Details:</strong></em>    <strong>1) Subject of
   is contingent upon their fulfilling all requirements identified in this notice.
   Publication of this notice is not an obligation of funds on the part of SBA.
   SBA reserves the right to modify or cancel this design competition, in whole
-  or in part, at any time prior to the award of prizes.    <strong>7) Conflicts
+  or in part, at any time prior to the award of prizes.    <strong><br>7) Conflicts
   of Interest:</strong> No individual acting as a judge at any stage of this design
   competition may have personal or financial interests in, or be an employee,
   officer, director, or agent of any contestant or have a familial or financial
-  relationship with a contestant.    <strong>8) Intellectual Property Rights:</strong>    (a)
+  relationship with a contestant.    <strong><br>8) Intellectual Property Rights:</strong>    <br>(a)
   By submitting a design to this competition, you represent and warrant that you
   are the sole author and owner of the submitted design. Designs must be your
   original work, and must not violate or infringe the rights of other parties,
@@ -160,28 +160,28 @@ rules: '<em><strong>Competition Details:</strong></em>    <strong>1) Subject of
   or material that constitutes copyright or license infringement. Your design
   may not contain any material that is inappropriate, indecent, obscene, hateful,
   defamatory, or in any way disparaging. Your design cannot have been submitted
-  previously in another promotion or contest of any kind.    (b) You understand
+  previously in another promotion or contest of any kind.    <br>(b) You understand
   and agree that if your entry is selected as the winning design, it may be modified
   or altered by SBA, in its sole discretion, as deemed appropriate or necessary
-  to execute, produce, or distribute the winning design in its final logo format.    (c)
+  to execute, produce, or distribute the winning design in its final logo format.    <br>(c)
   The winning contestant will, in consideration of the prize to be awarded, grant
   to SBA an irrevocable, royalty-free, exclusive worldwide license to reproduce,
   distribute, copy, display, create derivative works, and publicly post, link
   to, and share, the winning design or parts thereof, for the purpose of the design
-  competition and for any official SBA, SBIR Program and/or STTR Program purpose.    <strong>9)
+  competition and for any official SBA, SBIR Program and/or STTR Program purpose.    <strong><br>9)
   Publicity Rights:</strong> By registering and entering a submission, each contestant
   consents to SBA''s and its agents'' use, in perpetuity, of its name, likeness,
   photograph, voice, opinions, and/or hometown and state information for promotional
   or informational purposes through any form of media, worldwide, without payment
-  or consideration.    <strong>10) Liability and Insurance Requirements:</strong>
-  (a) By registering and entering a submission, each contestant agrees to assume
+  or consideration.    <strong><br>10) Liability and Insurance Requirements:</strong>
+  <br>(a) By registering and entering a submission, each contestant agrees to assume
   any and all risks and waive claims against the Federal Government and its related
   entities, except in the case of willful misconduct, for any injury, death, damage,
   or loss of property, revenue, or profits, whether direct, indirect, or consequential,
   arising from their participation in this competition, whether the injury, death,
-  damage, or loss arises through negligence or otherwise.    (b) By participating
+  damage, or loss arises through negligence or otherwise.    <br>(b) By participating
   in this competition, you agree to indemnify the Federal government against third
-  party claims for damages arising from or related to competition activities.    (c)
+  party claims for damages arising from or related to competition activities.    <br>(c)
   By registering and entering a submission, each contestant further represents
   and warrants that it possesses sufficient liability insurance or financial resources
   to cover claims by a third party for death, bodily injury, or property damage
@@ -189,20 +189,20 @@ rules: '<em><strong>Competition Details:</strong></em>    <strong>1) Subject of
   in this competition, or claims by the Federal Government for damage or loss
   to Government property resulting from such an activity. Challenge winners should
   be prepared to demonstrate proof of insurance or financial responsibility in
-  the event SBA deems it necessary.    <strong>11) Record Retention and Disclosure:</strong>
+  the event SBA deems it necessary.    <strong><br>11) Record Retention and Disclosure:</strong>
   All submissions and related materials provided to SBA in the course of this
   Competition automatically become SBA records and cannot be returned.    Award
   Approving Official:  Javier Saade, Associate Administrator, Office of Investment
   and Innovation, U.S. Small Business Administration, 409 Third Street, SW, Washington,
-  DC 20416.    Authority:  Pub. L. 111-358 (2011).    <strong>DATES:  The submission
+  DC 20416.    Authority:  Pub. L. 111-358 (2011).    <p><strong>DATES:</p><p>The submission
   period for entries begins 12:00 p.m. EDT, May 4, 2015 or when this notice is
   published if a later date and ends May 29, 2015 at 11:59 p.m. EDT. The winning
   contestant will be announced and the winning design will plan to be unveiled
   during a White House ceremony on June 15, 2015. The winning contestant will
-  be notified in advance of the public announcement. </strong>    <strong>FOR
+  be notified in advance of the public announcement. </strong></p><p><strong>FOR
   FURTHER INFORMATION CONTACT:  Nagesh Rao, Chief Technologist, Office of Investment
   and Innovation, U.S. Small Business Administration, 409 Third Street, SW, 6th
-  Floor Washington, DC 20416, </strong> <em> </em><a href="mailto:sbirlogochallenge@sba.gov"><em>sbirlogochallenge@sba.gov</em></a>.'
+  Floor Washington, DC 20416, </strong> <em> </em><a href="mailto:sbirlogochallenge@sba.gov"><em>sbirlogochallenge@sba.gov</em></a>.</p>'
 submission-start-date-1: ''
 hide-challenge-timeline: 'No'
 judging-start-date: ''
@@ -391,16 +391,15 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: '<span style="text-decoration: underline;"><strong>Problem Statement
-  &amp; Desired Solution:</strong></span>    <strong>The U.S. Small Business Administration
+description: '<p><strong>Problem Statement
+  &amp; Desired Solution:</strong></p>    <strong>The U.S. Small Business Administration
   (SBA) “America’s Seed Fund” Logo Design Competition, pursuant to the America Competes
   Act</strong>, <strong> is seeking submissions from artists and/or designers <em>to
   create a thoughtful and imaginative visual representation of the government''s largest
   innovation effort focused on research-driven, innovative and cutting-edge small
   businesses</em> through the Small Business Innovation Research (SBIR) and Small
-  Business Technology Transfer (STTR) Programs. <span style="text-decoration: underline;"><em>Our
-  tag-line is 12 Agencies...1 Vision: Seed The Future.</em></span></strong>    <span
-  style="text-decoration: underline;"><strong>Background Info:</strong></span>    The
+  Business Technology Transfer (STTR) Programs. <p><em>Our
+  tag-line is 12 Agencies...1 Vision: Seed The Future.</em></p></strong> <p><strong>Background Info:</strong></p>    The
   SBIR/STTR Programs are extremely competitive and encourage small businesses to engage
   in federally funded research and development (R&amp;D) through eleven Federal agencies
   with R&amp;D needs. SBIR/STTR awards enable small businesses to explore their technological
@@ -417,7 +416,7 @@ description: '<span style="text-decoration: underline;"><strong>Problem Statemen
   Science Foundation and the U.S. Departments of Agriculture, Commerce, Defense, Education,
   Energy, Health and Human Services, Home Land Security and Transportation. (Visit
   the <em>sbir.gov</em> website at <a href="https://www.sbir.gov/"><em>https://www.sbir.gov/</em></a>
-  for more information.)    <span style="text-decoration: underline;"><strong>Prize:</strong></span>    The
+  for more information.)    <p><strong>Prize:</strong></p>    The
   new logo will serve as the official logo for the SBIR/STTR Programs to be used for
   promotional and educational information, including but not limited to, the Programs’
   website, SBA’s website, participating Federal agency websites, conferences, events,

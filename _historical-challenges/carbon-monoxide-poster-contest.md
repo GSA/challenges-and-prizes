@@ -63,18 +63,18 @@ partner-agencies-federal: ''
 judging-end-date: 04/30/2015 06:00 PM
 solicitation-methods: ''
 advancing-the-agency-mission: ''
-rules: '1. Contest Description  The U.S. Consumer Product Safety Commission (CPSC)
+rules: '<p>1. Contest Description  The U.S. Consumer Product Safety Commission (CPSC)
   is sponsoring a nationwide carbon monoxide (CO) safety poster contest (Contest)
   to help raise awareness about the dangers of CO in the home.  Possible topics
   include:  How to recognize CO exposure and symptoms;  Facts about CO: You cannot
   see it or smell it. It’s an invisible killer;  What steps you can take to protect
   against CO poisoning;  How to install and test CO alarms and why they are important.    Additional
-  information about the dangers of CO may be found at: www.cpsc.gov/CO.    2.
+  information about the dangers of CO may be found at: www.cpsc.gov/CO.    <p></p>2.
   Eligibility  Any child who is a citizen or permanent resident of the United
   States and is in grade six, seven, or eight is eligible to participate in this
   Contest. Children of CPSC employees are not eligible to enter the Contest. To
   win a prize, a contestant must comply with the requirements and rules of the
-  Contest, including submitting a Contest Submission and  Parental Consent Form.    3.
+  Contest, including submitting a Contest Submission and  Parental Consent Form.  <p></p>  3.
   How to Enter  Contestants may submit entries to the CPSC between July 14, 2014
   and February 27, 2015. Only one poster per contestant may be submitted, and
   all entries must be received by CPSC no later than February 27, 2015.  Entries
@@ -96,17 +96,17 @@ rules: '1. Contest Description  The U.S. Consumer Product Safety Commission (CPS
   is a skills-based contest. Chance plays no part in the determination of winners.  To
   maintain privacy, contestants should not put their name or any personal information
   on the poster. If there is identifying information on the poster, CPSC will
-  remove the information.    4. Parent or Guardian’s Consent  Along with their
+  remove the information.   <p></p> 4. Parent or Guardian’s Consent  Along with their
   poster submission, all contestants must also submit a completed Contest Submission
   and Parental Consent Form signed by a parent or guardian. In the Form, parents
   or guardians must provide CPSC:  permission for the Contestant to enter the
   contest;  an agreement that the Contestant will abide by the contest rules;  contact
   information to notify the parent or guardian if the poster wins a prize;  permission
   to collect, use, or disclose the child’s personal information in accordance
-  with the contest rules and applicable laws.    5. Privacy  CPSC will collect,
+  with the contest rules and applicable laws.  <p></p>  5. Privacy  CPSC will collect,
   use, and disclose the information submitted in accordance with the Privacy Act
   and/or E-Government Act of 2002. Information is not collected for commercial
-  marketing.    6. Children’s Online Privacy  The safety and privacy of children
+  marketing. <p></p>   6. Children’s Online Privacy  The safety and privacy of children
   is CPSC’s priority. CPSC complies with the Children’s Online Privacy Protection
   Act of 1998 (COPPA) and its accompanying regulations protecting the privacy
   of children using the Internet.  CPSC requires verifiable parental consent via
@@ -131,53 +131,53 @@ rules: '1. Contest Description  The U.S. Consumer Product Safety Commission (CPS
   a parent or guardian may review or have deleted the contestant’s personal information
   and may refuse to permit further collection or use of the contestant’s information
   by contacting the contest administrator at: pdavis@cpsc.gov.  To win a prize,
-  a contestant must comply with the requirements and rules of the contest.    7.
-  Prizes   Three 6th grade winners will win $500 each.   Three 7th grade winners
-  will win $500 each.   Three 8th grade winners will win $500 each.   One winner
+  a contestant must comply with the requirements and rules of the contest.   <p></p> 7.
+  Prizes   Three 6th grade winners will win $500 each.   Three 7th grade winners
+  will win $500 each.   Three 8th grade winners will win $500 each.   One winner
   will be chosen by public vote on CPSC’s website from all contest entries. This
-  winner will receive a cash award of $500.   One grand prize winner picked from
-  the finalists will win $1,000.   One poster may win multiple prizes.  Winners
+  winner will receive a cash award of $500.   One grand prize winner picked from
+  the finalists will win $1,000.   One poster may win multiple prizes.  Winners
   shall be responsible for any applicable federal, state, or local taxes. CPSC
   will pay prize money directly to the winners. Each winner must provide CPSC
   with sufficient information to support payment transactions in accordance with
   CPSC fiscal policy and the issuance of Internal Revenue Service Form 1099. Winners
   may not transfer, assign, or substitute their prize.  CPSC may print, reproduce,
   or display winning posters publicly in print, online on the CPSC’s website,
-  and online on other safety partners’ websites.    8. Judges The posters will
+  and online on other safety partners’ websites.  <p></p>  8. Judges The posters will
   be judged by a qualified panel selected by CPSC in its sole discretion. CPSC
   retains the right to add or remove judges at any time before the winners are
   announced. Contest judges may include people from outside CPSC, including individuals
   from the private sector. The panel of judges will choose the winning posters
   based on the criteria identified below. Judges have the right to withdraw without
-  advance notice. Judges may not:  have personal or financial interests in, or
+  advance notice. Judges may not:  have personal or financial interests in, or
   be an employee, officer, director, or agent of, any entity that is a registered
-  contestant in this contest; or  have a familial or financial relationship with
-  an individual who is a registered contestant; or  have any matter pending before
+  contestant in this contest; or  have a familial or financial relationship with
+  an individual who is a registered contestant; or  have any matter pending before
   CPSC or represent anyone in any matter pending before the agency. Specific tasks
   related to the judging process may be delegated to CPSC employees or employees
   of a collaborating agency. Judges shall have the authority to disregard any
   minor error in an entry that does not create any substantial benefit or detriment
-  to any contestant. Decisions made by the judges are final.    9. Judging Criteria
-   CO safety message clarity;  Visual appeal;  Design originality.    10. Contest
+  to any contestant. Decisions made by the judges are final.  <p></p>  9. Judging Criteria
+   CO safety message clarity;  Visual appeal;  Design originality.  <p></p>  10. Contest
   Subject to Applicable Law The Contest is subject to all applicable federal laws
   and regulations. By submitting an entry to the Contest, the contestant agrees
   to be bound by these Official Rules and administrative decisions, which are
   final and binding in all matters relating to the Contest. Eligibility for a
   prize award is contingent upon fulfilling all of the requirements of the Official
-  Rules. The final award of prizes is contingent upon the availability of appropriations.    11.
+  Rules. The final award of prizes is contingent upon the availability of appropriations.  <p></p>  11.
   No CPSC Logo The poster must not use CPSC’s logo or official seal and must not
-  claim federal government endorsement.    12. Copyright/Original Work Each contestant,
+  claim federal government endorsement.  <p></p>  12. Copyright/Original Work Each contestant,
   through the contestant’s parent or guardian, represents and warrants that he
   or she is the sole author and owner of the poster; that the poster is wholly
   original with the contestant; and that the poster does not infringe any copyright
-  or any other rights of any third party of which the contestant is aware.    13.
+  or any other rights of any third party of which the contestant is aware. <p></p>   13.
   Intellectual Property Rights By entering a poster, each contestant and the contestant’s
   parent or guardian grants to CPSC an irrevocable, paid-up, royalty-free, nonexclusive
   worldwide and perpetual license to use, copy, distribute to the public, create
   derivative works from, link to, display publicly (on the Internet or otherwise),
   and grant sublicenses to the poster indefinitely, starting on the date the poster
   is entered into the Contest. All contestants will retain all other intellectual
-  property rights over their posters.    14. Verification of Contest Winners All
+  property rights over their posters.  <p></p>  14. Verification of Contest Winners All
   contestants must continue to comply with all terms and conditions of the Official
   Rules, and winning is contingent upon fulfilling all requirements contained
   herein. The parent or guardian of the winner(s) will be notified by email, telephone,
@@ -188,7 +188,7 @@ rules: '1. Contest Description  The U.S. Consumer Product Safety Commission (CPS
   sent, an Affidavit of Eligibility and Liability/Publicity Release (except where
   prohibited) to claim any prize or recognition. If a Contest winner is disqualified
   for any reason, CPSC may award the applicable prize and recognition to an alternate
-  winner selected by the judges from the eligible entries remaining.    15. Limitation
+  winner selected by the judges from the eligible entries remaining.  <p></p>  15. Limitation
   of Liability By submitting an entry for the Contest, all contestants and parents
   or guardians of the contestants agree to, and thereby do, release, discharge,
   and hold harmless the government and its employees, agents, contractors, and
@@ -204,18 +204,18 @@ rules: '1. Contest Description  The U.S. Consumer Product Safety Commission (CPS
   confidential information of the contestant. The contestant and his or her parent
   or guardian shall be liable for, and shall indemnify and hold harmless the government
   against all actions or  claims for loss of or damage to property resulting from
-  the fault, negligence, or wrongful act or omission of the contestant.    16.
+  the fault, negligence, or wrongful act or omission of the contestant.  <p></p>  16.
   Liability Insurance Based on the subject matter of the Contest, the type of
   work that the Contest possibly will require, and the likelihood of any claims
   for death, bodily injury, or property damage, or loss potentially resulting
   from Contest participation, contestants are not required to obtain liability
-  insurance or demonstrate financial responsibility to participate in this Contest.    17.
+  insurance or demonstrate financial responsibility to participate in this Contest.  <p></p>  17.
   Records Retention and Freedom of Information Act  All materials submitted as
   part of a Contest entry (including the poster and the Contest Submission and
   Parental Consent Form) become CPSC records and will not be returned. No confidential
   information will be accepted with any Contest entry. Contestants will be notified
   of any Freedom of Information Act requests for their Contest entries in accordance
-  with applicable law. 18. General Conditions THIS CONTEST IS VOID WHERE PROHIBITED.
+  with applicable law. <p></p>18. General Conditions THIS CONTEST IS VOID WHERE PROHIBITED.
   Contestants agree that this Contest shall be subject to and governed by the
   laws of the District of Columbia, and the forum for any dispute shall be in
   the District of Columbia, United States of America. To the extent permitted
@@ -228,7 +228,7 @@ rules: '1. Contest Description  The U.S. Consumer Product Safety Commission (CPS
   quantity, or nature of eligible entries. CPSC reserves the right to cancel,
   suspend, and/or modify the Contest, or any part of the Contest, for any reason,
   at CPSC’s sole discretion. All decisions by CPSC are final and binding in all
-  matters related to the Contest.    SUPPLEMENTAL NOTICE  This notice supplements
+  matters related to the Contest.   <p></p> SUPPLEMENTAL NOTICE  This notice supplements
   the contest rules for CPSC’s Carbon Monoxide Safety Poster Contest. The contest
   rules, as supplemented by this notice, apply to all contestants who enter submissions
   in the Carbon Monoxide Safety Poster Contest during the term of the contest,
@@ -237,7 +237,7 @@ rules: '1. Contest Description  The U.S. Consumer Product Safety Commission (CPS
   on CPSC’s website from all contest entries. CPSC is contacting you and publishing
   this notice on the contest website to announce a supplement to the contest rules
   that explains the terms and conditions of the public vote that will select the
-  public vote winner.  You can view the contest rules at: http://www.cpsc.gov//PageFiles/169709/COPosterContestRules.pdf.
+  public vote winner.  You can view the contest rules at: http://www.cpsc.gov//PageFiles/169709/COPosterContestRules.pdf.<p></p>
   The contest rules allow CPSC to modify the contest in CPSC’s discretion and
   state that certain restrictions may apply. Additionally, CPSC has reserved the
   right not to make any award based on a variety of factors.  Public Vote Prize:
@@ -255,7 +255,7 @@ rules: '1. Contest Description  The U.S. Consumer Product Safety Commission (CPS
   to win the public vote prize, invalidate votes, decide not to award the public
   vote prize or take other appropriate action in CPSC’s discretion. CPSC’s decisions
   as to the administration of the contest and prize awards are final.  Please
-  contact the contest administrators with any additional questions.'
+  contact the contest administrators with any additional questions.</p>'
 submission-start-date-1: ''
 hide-challenge-timeline: 'No'
 judging-start-date: 03/10/2015 08:00 AM

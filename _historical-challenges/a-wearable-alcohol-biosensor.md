@@ -78,17 +78,16 @@ total-submission-received: ''
 total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
-non-monetary-incentives-awarded: "$200,000 for first place and $100,000 for second
-  place"
+non-monetary-incentives-awarded: ''
 partner-agencies-federal: ''
 judging-end-date: 05/02/2016 12:00 AM
 solicitation-methods: ''
 advancing-the-agency-mission: ''
-rules: 'To Participate    This Challenge is open to any ‘‘Solver’’ where ‘‘Solver’’
+rules: '<p>This Challenge is open to any ‘‘Solver’’ where ‘‘Solver’’
   is defined as an individual, a group of individuals (i.e., a team), or an entity.
   Whether singly or as part of a group or entity, individuals younger than 18
   participating in the Challenge must provide parental consent and must abide
-  by the Children''s Online Privacy Protection Act.  <ol start="2">   <li>To Win</li>  </ol>  To
+  by the Children''s Online Privacy Protection Act. To
   be eligible to win a prize under this Challenge, the Solver—  <ol>   <li>Shall
   have registered to participate in the Challenge at www.challenge.gov.</li>   <li>Shall
   have complied with all the requirements under this section on Eligibility.</li>   <li>In
@@ -362,29 +361,29 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: '<strong>NIAAA Selects Winnners of Its Wearable Alcohol Biosensor Challenge  </strong>    The
+description: '<p><strong>NIAAA Selects Winnners of Its Wearable Alcohol Biosensor Challenge  </strong></p><p>The
   National Institute on Alcohol Abuse and Alcoholism announced the winners of its
-  Wearable Alcohol Biosensor Challenge on May 19, 2016.  The competition sought the
-  design of a discreet device capable of measuring blood alcohol levels in near real-time.    The
+  Wearable Alcohol Biosensor Challenge on May 19, 2016.The competition sought the
+  design of a discreet device capable of measuring blood alcohol levels in near real-time.</p><p>The
   winning prototype and recipient of the $200,000 first prize was submitted by BACtrack,
   a company known nationally for designing and selling portable breath alcohol testers
-  for consumer and professional use. Their entry, the <strong>BACtrack Skyn</strong>,
+  for consumer and professional use. Their entry, the BACtrack Skyn,
   is worn on the wrist and offers continuous and non-invasive monitoring of a user’s
   BAC. Alcohol is detected using a fuel cell technology similar to that in devices
   used by law enforcement for roadside alcohol testing. The device connects via Bluetooth
-  to a smartphone to store data.    “NIAAA issued this challenge to spark innovation
+  to a smartphone to store data.</p><p>“NIAAA issued this challenge to spark innovation
   in alcohol biosensor development. We were very pleased at the level of response
   and quality of prototypes that we received from the biotech community,” said NIAAA
-  Director George Koob, PhD.    For the full list of winners, see <a href="http://www.niaaa.nih.gov/news-events/news-releases/niaaa-selects-winners-its-wearable-alcohol-biosensor-challenge"
-  target="_blank">NIAAA''s complete announcement</a>.    The Wearable Alcohol Biosensor
+  Director George Koob, PhD.</p><p>For the full list of winners, see <a href="http://www.niaaa.nih.gov/news-events/news-releases/niaaa-selects-winners-its-wearable-alcohol-biosensor-challenge"
+  target="_blank">NIAAA''s complete announcement</a>.</p><p>The Wearable Alcohol Biosensor
   Challenge, issued through Challenge.gov in March 2015, called for non-invasive wearable
   technology that could improve upon existing alcohol biosensor technology used in
   the criminal justice system. An improved alcohol biosensor could be a valuable resource
   for the alcohol research community, decreasing reliance on participant self-report
-  in scientific studies.    Background:    Current technologies for real-time monitoring
+  in scientific studies.</p><p>Background:    Current technologies for real-time monitoring
   of alcohol consumption, used in criminal justice applications, have performed adequately,
   but have disadvantages for broader use. Current technology for continuous alcohol
-  monitoring takes a reading every 30 minutes.    NIAAA sought a solution that improves
+  monitoring takes a reading every 30 minutes.</p><p>NIAAA sought a solution that improves
   on this interval and most closely approximates real-time monitoring and data collection.
    The desired device would quantitate blood alcohol level, interpret and store the
   data, or transmit it to a smartphone or other device by wireless transmission. 
@@ -392,9 +391,9 @@ description: '<strong>NIAAA Selects Winnners of Its Wearable Alcohol Biosensor C
   privacy of the individual.  The device would have the ability to verify standardization
   at regular intervals and to indicate loss of functionality.  The power source would
   be dependable and rechargeable.  A form of subject identification would be an added
-  benefit.  The device would be removable.    The challenge required written documentation
+  benefit.  The device would be removable.</p><p>The challenge required written documentation
   and a working prototype of the submitted solution. NIAAA previously stipulated it
-  was open to a range of design forms which can accomplish the above tasks.'
+  was open to a range of design forms which can accomplish the above tasks.</p>'
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []

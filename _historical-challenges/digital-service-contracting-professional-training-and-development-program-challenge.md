@@ -48,12 +48,12 @@ ideaSubmitFormInstruction: "<h3>This Challenge will be conducted in three phases
   pilot is a scaled-down version of the fully-implemented program, the differentiation
   must be explained.</li>   <li>Any expected intangible benefits related to the program,
   or ways to leverage quantities of scale strategies to facilitate a widespread adoption
-  of the program in the government.</li>  </ul>  </li>  </ul>  <strong>Phase II Oral
+  of the program in the government.</li>  </ul>  </li>  </ul>  <br><strong>Phase II Oral
   Proposal </strong>    This program design will be presented to the judges through
   oral proposals. Additionally, a one hour mock classroom training shall be provided
   to the judges in order for the challengers to demonstrate one aspect of their proposed
   design. It will be up to the challenger to determine which aspect and method of
-  delivery will best encompass the concept of their proposed design.    <strong>Phase
+  delivery will best encompass the concept of their proposed design.    <br><strong>Phase
   III:  Program Development and Pilot</strong>    The challenge winner receives up
   to $250,000 in milestone payments and will have five months to develop and implement
   their design with up to 30 government contracting students.  Milestone payments
@@ -69,7 +69,7 @@ ideaSubmitFormInstruction: "<h3>This Challenge will be conducted in three phases
   approval to fully participate and meet the requirements of the pilot; however it
   is anticipated that pilot participants will be not required to be 100% assigned
   to the pilots for the entire length of the program, and will remain in their current
-  jobs during the pilot.    <strong>Assignment:</strong>   In order to help judge
+  jobs during the pilot.    <br><strong>Assignment:</strong>   In order to help judge
   the effectiveness of the training and development program, as part of the pilot,
   the Federal contracting students will be expected to complete a “live” digital service
   assignment, which could be an actual project, procurement, or agency engagement.
@@ -96,7 +96,7 @@ ideaSubmitFormInstruction: "<h3>This Challenge will be conducted in three phases
   \ </ul>  Submission shall include an end user survey to be delivered to the students
   based on the proposed program concept which will be used to determine how confident
   the participants are in their ability to apply the knowledge and skills learned.
-  \   <strong>Final Submission: Results of Pilot and Update of Proposed Program </strong>
+  \   <br><strong>Final Submission: Results of Pilot and Update of Proposed Program </strong>
   \   Upon completion of the pilot, the following information shall be provided to
   OMB by January 31, 2016 to help OMB judge the outcome of the proposed training and
   development program:  <ul>   <li>Results of the assessment of how well the students
@@ -241,7 +241,7 @@ rules: 'No formal contract to any challenge participant will be awarded as a dir
   The PDF documents must be formatted to be no larger than 8.5” by 11.0”, with
   at least 1 inch margins. The participant must not use OFPP’s or OMB’s logo or
   official seal, or the logo of the US Digital Service in the submission, and
-  must not claim Federal Government endorsement.<strong> </strong>    <strong>Certification:
+  must not claim Federal Government endorsement.<strong> </strong>    <br><strong>Certification:
    </strong>Each submission must include a cover letter that the individual or
   every member of the team responding has read and consents to be governed by
   the Challenge Rules and meets the eligibility requirements. This cover letter
@@ -336,7 +336,7 @@ how-to-enter: "<h3>This Challenge will be conducted in three phases.</h3>\r\n<st
   shall be provided to the judges in order for the challengers to demonstrate
   one aspect of their proposed design. It will be up to the challenger to determine
   which aspect and method of delivery will best encompass the concept of their
-  proposed design.\r\n\r\n<strong>Phase III:  Program Development and Pilot</strong>\r\n\r\nThe
+  proposed design.\r\n\r\n<br><strong>Phase III:  Program Development and Pilot</strong>\r\n\r\nThe
   challenge winner receives up to $250,000 in milestone payments and will have
   five months to develop and implement their design with up to 30 government contracting
   students.  Milestone payments will be made based on mutually agreed upon deliverables
@@ -352,7 +352,7 @@ how-to-enter: "<h3>This Challenge will be conducted in three phases.</h3>\r\n<st
   and meet the requirements of the pilot; however it is anticipated that pilot
   participants will be not required to be 100% assigned to the pilots for the
   entire length of the program, and will remain in their current jobs during the
-  pilot.\r\n\r\n<strong>Assignment:</strong>   In order to help judge the effectiveness
+  pilot.\r\n\r\n<br><strong>Assignment:</strong>   In order to help judge the effectiveness
   of the training and development program, as part of the pilot, the Federal contracting
   students will be expected to complete a “live” digital service assignment, which
   could be an actual project, procurement, or agency engagement. OMB will work
@@ -379,7 +379,7 @@ how-to-enter: "<h3>This Challenge will be conducted in three phases.</h3>\r\n<st
   a Digital Service Agency team’s acquisition strategy for multiple projects/acquisitions.</li>\r\n</ul>\r\nSubmission
   shall include an end user survey to be delivered to the students based on the
   proposed program concept which will be used to determine how confident the participants
-  are in their ability to apply the knowledge and skills learned.\r\n\r\n<strong>Final
+  are in their ability to apply the knowledge and skills learned.\r\n\r\n<br><strong>Final
   Submission: Results of Pilot and Update of Proposed Program </strong>\r\n\r\nUpon
   completion of the pilot, the following information shall be provided to OMB
   by January 31, 2016 to help OMB judge the outcome of the proposed training and
@@ -608,7 +608,7 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: 'Winner Update:    The Challenge Managers, Traci Walker and Joanie Newhart,
+description: 'Winner Update:    <p>The Challenge Managers, Traci Walker and Joanie Newhart,
   both of the Office of Management and Budget (OMB), made the call to notify <strong>Team
   ICF International and ASI Government</strong> that their program design had been
   selected as the winner of the Digital Service Contracting Professional Training
@@ -617,50 +617,50 @@ description: 'Winner Update:    The Challenge Managers, Traci Walker and Joanie 
   to pilot their training program with 30 Federal contracting professionals and help
   foster transformative change in the Federal Digital Service acquisition culture.    The
   winning program design comprises customized learning paths, self-directed learning,
-  guided learning, and a live digital assignment.    During the six month pilot, which
+  guided learning, and a live digital assignment.</p><p>During the six month pilot, which
   kicks off on October 20, 2015, the challenge winner will work in close collaboration
   with OFPP and the U.S. Digital Service to test its concepts and produce the first
   cohort of certified digital service contracting experts. After successful completion
   of the pilot and incorporation of lessons learned, the final program design will
   be turned over to federal acquisition training institutions for implementation.
   This challenge is only the beginning of OMB’s efforts to develop digital service
-  and IT expertise for contracting professionals, program managers, and other stakeholders.    &nbsp;    _______________________________________________________________________________________    The
+  and IT expertise for contracting professionals, program managers, and other stakeholders.</p><p>The
   US Digital Service and Office of Federal Procurement Policy (OFPP), as part of the
   Office of Management and Budget (OMB), give notice of the availability of the “Digital
   Service Contracting Professional Training and Development Program” prize competition
   and rules. Through a multi-phased challenge, participants are eligible for prize
-  money up to $360,000.00 under this competition.    In August 2014, the US Digital
+  money up to $360,000.00 under this competition.</p><p>In August 2014, the US Digital
   Service was launched to bring in the country’s brightest digital talent to transform
   how government works for American citizens and businesses by dramatically improving
-  the way government builds and buys digital services.    On December 4, 2014, Anne
+  the way government builds and buys digital services.</p><p>On December 4, 2014, Anne
   Rung, Administrator for Federal Procurement Policy, issued a memorandum titled Transforming
   the Marketplace: Simplifying Federal Procurement to Improve Performance, Drive Innovation,
-  and Increase Savings.<a href="#_edn1" name="_ednref1">[i]</a>  In this memorandum,
+  and Increase Savings.<a href="#_edn1" name="_ednref1">[i]</a></p><p>In this memorandum,
   Administrator Rung lays out several initiatives for driving greater innovation and
   strengthening Federal acquisition practices, one of which is building digital information
-  technology (IT) acquisition expertise.    As part of this initiative, OFPP and the
+  technology (IT) acquisition expertise.</p><p>As part of this initiative, OFPP and the
   U.S. Digital Service are working together to focus on improving the process of IT
   acquisition, and specifically the acquisition of digital services. OFPP and the
   US Digital Service recognize the need for improving and simplifying the digital
-  experiences that citizens and businesses have with the Government.  Strengthening
+  experiences that citizens and businesses have with the Government.</p><p>Strengthening
   digital services expertise in the Government is a key component of being able to
-  reduce the risk of failed acquisitions and systems, and save taxpayer dollars. 
+  reduce the risk of failed acquisitions and systems, and save taxpayer dollars.</p><p>
   The Digital Service Contracting Professional Training and Development Program prize
   competition seeks to spur innovation in the training and development of Federal
   Contracting Professionals who are fundamental to the success of digital service
   acquisitions. Through program concept white papers, up to three design presentations,
   and a pilot program, the effectiveness and feasibility of innovative training and
-  development program approaches will be explored.    Please send inquiries or questions
+  development program approaches will be explored.</p><p>Please send inquiries or questions
   to Challenge@omb.eop.gov or post to the discussion thread on challenge.gov    <strong>Objective: 
   </strong>The goal of this prize competition is to develop a Digital Service Contracting
   Professional Training and Development Program for the Federal Government, which
   will be used to add a digital service core-plus specialization for contracting professionals
   under the Federal Acquisition Certification in Contracting (FAC-C) Program issued
-  by OFPP<a href="#_edn1" name="_ednref1">[i]</a>.   The final results of the challenge
+  by OFPP<a href="#_edn1" name="_ednref1">[i]</a>.</p><p>The final results of the challenge
   will be provided to Federal training institutions, such as the Federal Acquisition
   Institute (FAI) and Defense Acquisition University (DAU), for those institutions
   to implement and maintain the program. This program will be one of many initiatives
-  to foster transformative change in the Federal Digital Service acquisition culture.    The
+  to foster transformative change in the Federal Digital Service acquisition culture.</p><p>The
   optimal comprehensive training and development program, intended for Federal Contracting
   Professionals, specifically Contracting Officers and Contract Specialists, will
   enable them to understand and apply strategic thinking, industry best practices,
@@ -670,12 +670,12 @@ description: 'Winner Update:    The Challenge Managers, Traci Walker and Joanie 
   assignments, mentoring, in-classroom training, and detail assignments woven into
   an innovative approach to accomplish the stated objectives. A definition of a successful
   digital service buyer, novel ideas, leading-edge approaches, and iterative methodologies
-  are highly encouraged in response to this Challenge.    Digital services, as defined
+  are highly encouraged in response to this Challenge.</p><p>Digital services, as defined
   by OMB, refers to “the delivery of digital information (data or content) and transactional
   services (e.g., online forms, benefits applications) across a variety of platforms,
   devices, and delivery mechanisms (e.g., websites, mobile applications, and social
   media).” Digital services may be delivered to customers either internal or external
-  to the Government, or both.<a href="#_edn2" name="_ednref2">[ii]</a>    The primary
+  to the Government, or both.<a href="#_edn2" name="_ednref2">[ii]</a></p><p>The primary
   outcomes of this Digital Service Contracting Professional Training and Development
   Program are that participating Federal contracting professionals:  <ul>   <li>Become
   digital service procurement experts;</li>   <li>Are equipped with the knowledge
@@ -692,35 +692,29 @@ description: 'Winner Update:    The Challenge Managers, Traci Walker and Joanie 
   describe and define the value received; and    (4) Encourage the use of commercial
   practices and innovative approaches (e.g. modular contracting, broad agency announcements,
   challenges and prizes) to ensure procurements can capture flexible and rapidly changing
-  technology advancements.    The prize challenge will include three phases. <strong>Phase
+  technology advancements.</p><p>The prize challenge will include three phases. <br><strong>Phase
   I</strong> asks for participants to submit a white paper that describes their concept
   for a training and development program that will meet the stated objectives. Up
-  to three Phase I submissions will be selected as finalists and move to <strong>Phase
+  to three Phase I submissions will be selected as finalists and move to <br><strong>Phase
   II</strong>. These finalists are awarded $20,000 each in prize money to design in
   more detail their proposed concept program. At the end of Phase II, these finalists
   will present their in-depth program designs at an oral presentation and a one hour
   mock classroom training to a panel of Federal senior leaders. One winner will be
-  selected and moves to <strong>Phase III</strong>, which requires that participant
-  to develop and pilot its program for approximately 30 students.  In Phase III<strong>,</strong>
+  selected and moves to <br><strong>Phase III</strong>, which requires that participant
+  to develop and pilot its program for approximately 30 students.</p><p>In Phase III<strong>,</strong>
   up to $250,000 in milestone payments will be provided to assist the participant
   in developing their proposed pilot for a training and development program that can
   be easily adopted and implemented by the Government. Upon completion of Phase III,
   the finalist can win up to $50,000 in additional prize money for developing a program
-  that fully met the stated objectives.    The pilot will be held in the Washington,
+  that fully met the stated objectives.</p><p>The pilot will be held in the Washington,
   DC area with local students. However, approaches for the proposed program that include
   virtual components to allow participation of students outside of the Washington,
   DC area (with some in-person sessions required) and/or self-pacing are highly encouraged,
-  but must also demonstrate cost effectiveness.    <a href="#_ednref1" name="_edn1">[i]</a>
+  but must also demonstrate cost effectiveness.    <a href="#_ednref1" name="_edn1"></p><p>[i]</a>
   <a href="http://www.fai.gov/drupal/sites/default/files/2006-1-20-OMB-Memo-FAC-C-Certification.pdf">http://www.fai.gov/drupal/sites/default/files/2006-1-20-OMB-Memo-FAC-C-Certification.pdf</a>    <a
-  href="#_ednref2" name="_edn2">[ii]</a><span style="color: #333333; line-height:
-  107%; font-family: ''Georgia'',serif; font-size: 10pt;"> <a href="http://www.whitehouse.gov/digitalgov/digital-services-governance-recommendations"><span
-  style="color: #0563c1;">http://www.whitehouse.gov/digitalgov/digital-services-governance-recommendations</span></a></span>    <a
-  href="#_ednref3" name="_edn3">[iii]</a><span style="color: #333333; line-height:
-  107%; font-family: ''Georgia'',serif; font-size: 10pt;"> <a href="https://playbook.cio.gov/"><span
-  style="color: #0563c1;">https://playbook.cio.gov/</span></a></span>    <a href="#_ednref4"
-  name="_edn4">[iv]</a><span style="color: #333333; line-height: 107%; font-family:
-  ''Georgia'',serif; font-size: 10pt;"> <a href="https://playbook.cio.gov/techfar"><span
-  style="color: #0563c1;">https://playbook.cio.gov/techfar</span></a></span>    <a
+  href="#_ednref2" name="_edn2">[ii]</a> <a href="http://www.whitehouse.gov/digitalgov/digital-services-governance-recommendations">http://www.whitehouse.gov/digitalgov/digital-services-governance-recommendations</span></a>    <a
+  href="#_ednref3" name="_edn3">[iii]</a><a href="https://playbook.cio.gov/">https://playbook.cio.gov/</span></a><a href="#_ednref4"
+  name="_edn4">[iv]</a><a href="https://playbook.cio.gov/techfar">https://playbook.cio.gov/techfar</a>    <a
   href="#_ednref1" name="_edn1">[i]</a>  <a href="http://www.whitehouse.gov/sites/default/files/omb/procurement/memo/simplifying-federal-procurement-to-improve-performance-drive-innovation-increase-savings.pdf">http://www.whitehouse.gov/sites/default/files/omb/procurement/memo/simplifying-federal-procurement-to-improve-performance-drive-innovation-increase-savings.pdf</a>.'
 campaignStatusName: Launched
 templateId: 0

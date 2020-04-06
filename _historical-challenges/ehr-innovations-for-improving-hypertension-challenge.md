@@ -44,15 +44,15 @@ ideaSubmitFormInstruction: '<b>PHASE 2</b>    Phase 2 submitters can include any
   exemplary blood pressure control for hypertensive patients driven by EHR/CDS interventions
   – a practice-wide control rate of at least 70%, and/or a significantly improved
   level from before the enhanced CDS interventions described in the submission were
-  deployed (no specific threshold must be met).  <ul>   <li>• Hypertension prevalence
-  in practice: per cent of patients 18 or older whose diagnosis list includes hypertension.</li>   <li>•
+  deployed (no specific threshold must be met).  <ul>   <li> Hypertension prevalence
+  in practice: per cent of patients 18 or older whose diagnosis list includes hypertension.</li>   <li>
   Per cent of patients with hypertension whose blood pressure is controlled (&lt;140/90).
   The specifications used to determine this rate must be the same as that used for
   PQRS #236/NQF #0018 (see the <a href="http://ushik.ahrq.gov/ViewItemDetails?system=mu&amp;itemKey=118811000">US
   Health Information Knowledgebase</a>). Significant improvement over time in BP control:
   Provide the percent of the patient population whose BP rate was improved over a
   specified period. Each submission will be evaluated based on the percent improvement
-  and time period but no specific threshold for these must be met.</li>   <li>• Per
+  and time period but no specific threshold for these must be met.</li>   <li> Per
   cent of the patient population whose blood pressure rate was improved over a specified
   period, the per cent improvement, and the time period, using the specifications
   above for determining the rates.</li>  </ul>  b. <b><a href="http://millionhearts.hhs.gov/resources/protocols.html">Blood
@@ -60,12 +60,12 @@ ideaSubmitFormInstruction: '<b>PHASE 2</b>    Phase 2 submitters can include any
   Describe the CDS interventions and implementation strategies believed to have had
   the greatest effects on BP control. In a narrative, describe the protocol elements
   you addressed and how you used EHR and related CDS interventions to address them
-  (we encourage but do not require that you address all five elements):  <ul>   <li>•
+  (we encourage but do not require that you address all five elements):  <ul>   <li>
   BP measurement/recording (e.g., use of documentation templates, highlighting abnormal
-  BPs in EHR)</li>   <li>• BP follow-up and patient recall (e.g., use of registry
-  reports)</li>   <li>• Medication selection and titration (e.g., use of order sets)</li>   <li>•
+  BPs in EHR)</li>   <li> BP follow-up and patient recall (e.g., use of registry
+  reports)</li>   <li> Medication selection and titration (e.g., use of order sets)</li>   <li>
   Patient engagement (e.g., use of patient education and goal setting tools, templates
-  for documenting and responding to home BP readings, patient reminders for medications/appointments)</li>   <li>•
+  for documenting and responding to home BP readings, patient reminders for medications/appointments)</li>   <li>
   Workup/referral for poor control (e.g., reference information, hypertension-specific
   consult order forms)</li>  </ul>  c. <b>CDS Intervention Details.</b> For each intervention
   used to implement the blood pressure protocol, provide a detailed description that
@@ -130,72 +130,72 @@ partner-agencies-federal: ''
 judging-end-date: 11/20/2015 12:00 AM
 solicitation-methods: ''
 advancing-the-agency-mission: ''
-rules: "<b>KEY DATES</b>    Phase 1:    Submission period: July 7-October 6, 2014
+rules: "<p><b>KEY DATES</b></p>    <p>Phase 1:    Submission period: July 7-October 6, 2014
   \   Review period: October 7-October 21, 2014    Winners announcement: October
-  27, 2014    Phase II:    Submission period: January 23-October 23, 2015    Review
+  27, 2014    </p><p>Phase II:    Submission period: January 23-October 23, 2015    Review
   period: October 26-November 9, 2015    Winners announcement: November/December,
-  2015    <b>PRACTICE INFORMATION</b>    A Practice is defined as the ambulatory
+  2015    </p><p><b>PRACTICE INFORMATION</b></p><p>    A Practice is defined as the ambulatory
   care organization that has implemented the CDS-enabled hypertension protocol
   addressed in the submission. It can be a solo provider or much larger business
   entity, as long as the blood pressure management approach - and supportive CDS
-  tools and their use - are uniform throughout.    1. Name/address of practice
-  \   2. Practice demographics:  <ul>   <li>• Type (e.g., private practice, health
-  center, health system)</li>   <li>• Number and type of providers</li>   <li>•
-  Specialty(ies)</li>   <li>• Setting (e.g., rural, urban)</li>  </ul>  3. Overall
-  practice’s patient population demographics:  <ul>   <li>• Size of practice’s
+  tools and their use - are uniform throughout.</p><p>    1. Name/address of practice
+  \   2. Practice demographics:  <ul>   <li> Type (e.g., private practice, health
+  center, health system)</li>   <li> Number and type of providers</li>   <li>
+  Specialty(ies)</li>   <li> Setting (e.g., rural, urban)</li>  </ul>  3. Overall
+  practice’s patient population demographics:  <ul>   <li> Size of practice’s
   patient population, including number of unique patients seen in the last year</li>
-  \  <li>• Hypertension prevalence in patient population</li>   <li>• Demographic
+  \  <li> Hypertension prevalence in patient population</li>   <li> Demographic
   data including: Race/ethnicity (African-American, Hispanic/Latino, Asian, American
   Indian/Alaska Native, Native Hawaiian / Other Pacific Islander); Gender; Age;
   Insurance status (Medicaid/CHIP, Medicare, self-pay/uninsured); LGBTI (optional)</li>
   \ </ul>  4. EHR/HIT tools and systems pertinent to BP protocol implementation
   \   5. Quality/HIT support received pertinent to BP protocol implementation;
   e.g., from HCCN, REC, QIO    6. Any co-submitters that supported the practice's
-  CDS-enabled hypertension protocol implementation    <b>SUBMISSION REQUIREMENTS</b>
+  CDS-enabled hypertension protocol implementation    <br><b>SUBMISSION REQUIREMENTS</b>
   \   In order for an entry to be eligible to win this Challenge, it must not
   use HHS’ or ONC’s logos or official seals in the Submission, and must not claim
-  endorsement.    <b>ELIGIBILITY RULES FOR PARTICIPATING IN THE COMPETITION</b>
+  endorsement.    <br><b>ELIGIBILITY RULES FOR PARTICIPATING IN THE COMPETITION</b>
   \   To be eligible to win a prize under this challenge, an individual or entity—
-  \   (1) Shall have registered to participate in the competition under the rules
+  \   <br>(1) Shall have registered to participate in the competition under the rules
   promulgated by the Office of the National Coordinator for Health Information
-  Technology.    (2) Shall have complied with all the requirements under this
-  section.    (3) In the case of a private entity, shall be incorporated in and
+  Technology.    <br>(2) Shall have complied with all the requirements under this
+  section.    <br>(3) In the case of a private entity, shall be incorporated in and
   maintain a primary place of business in the United States, and in the case of
   an individual, whether participating singly or in a group, shall be a citizen
-  or permanent resident of the United States.    (4) May not be a Federal entity
-  or Federal employee acting within the scope of their employment.    (5) Shall
+  or permanent resident of the United States.    <br>(4) May not be a Federal entity
+  or Federal employee acting within the scope of their employment.    <br>(5) Shall
   not be an HHS employee working on their applications or submissions during assigned
-  duty hours.    (6) Shall not be an employee of Office of the National Coordinator
-  for Health IT.    (7) Federal grantees may not use Federal funds to develop
+  duty hours.    <br>(6) Shall not be an employee of Office of the National Coordinator
+  for Health IT.    <br>(7) Federal grantees may not use Federal funds to develop
   COMPETES Act challenge applications unless consistent with the purpose of their
-  grant award.    (8) Federal contractors may not use Federal funds from a contract
+  grant award.    <br>(8) Federal contractors may not use Federal funds from a contract
   to develop COMPETES Act challenge applications or to fund efforts in support
-  of a COMPETES Act challenge submission.    An individual or entity shall not
+  of a COMPETES Act challenge submission.</p><p>An individual or entity shall not
   be deemed ineligible because the individual or entity used Federal facilities
   or consulted with Federal employees during a competition if the facilities and
   employees are made available to all individuals and entities participating in
-  the competition on an equitable basis.    Entrants must agree to assume any
+  the competition on an equitable basis.</p><p>Entrants must agree to assume any
   and all risks and waive claims against the Federal Government and its related
   entities, except in the case of willful misconduct, for any injury, death, damage,
   or loss of property, revenue, or profits, whether direct, indirect, or consequential,
   arising from my participation in this prize contest, whether the injury, death,
-  damage, or loss arises through negligence or otherwise.    Entrants must also
+  damage, or loss arises through negligence or otherwise.</p><p>Entrants must also
   agree to indemnify the Federal Government against third party claims for damages
-  arising from or related to competition activities.    <b>INTELLECTUAL PROPERTY</b>
-  \   Ownership of intellectual property is determined by the following:    Each
+  arising from or related to competition activities.</p><p><b>INTELLECTUAL PROPERTY</b>
+  \   Ownership of intellectual property is determined by the following:    <br>Each
   entrant retains title and full ownership in and to their submission. Entrants
   expressly reserve all intellectual property rights not expressly granted under
-  the challenge agreement.    By participating in the challenge, each entrant
+  the challenge agreement.</p><p>By participating in the challenge, each entrant
   hereby irrevocably grants to Sponsor and Administrator a limited, non-exclusive,
   royalty-free, worldwide license and right to reproduce, publically perform,
   publically display, and use the Submission to the extent necessary to administer
   the challenge, and to publically perform and publically display the Submission,
   including, without limitation, for advertising and promotional purposes relating
-  to the challenge.    <b>ADDITIONAL INFORMATION</b>    ONC reserves the right
+  to the challenge.    </p><p><b>ADDITIONAL INFORMATION</b></p><p>ONC reserves the right
   to cancel, suspend, and/or modify the Contest, or any part of it, for any reason,
-  at ONC's sole discretion.    ONC is administering this challenge under authority
+  at ONC's sole discretion.</p><p>ONC is administering this challenge under authority
   of the America COMPETES Reauthorization Act of 2010, Section 105 (15 U.S.C.
-  3719)."
+  3719).</p>"
 submission-start-date-1: ''
 hide-challenge-timeline: 'No'
 judging-start-date: 11/02/2015 12:00 AM
@@ -211,23 +211,23 @@ hide-challenge-funnel: 'Yes'
 type-of-challenge: Scientific
 participation-requirements: ''
 number-of-phases: ''
-how-to-enter: "<b>PHASE 2</b>\r\n\r\nPhase 2 submitters can include any organization
+how-to-enter: "<p><b>PHASE 2</b></p><p>Phase 2 submitters can include any organization
   or collaboration that is able to widely spread the successful use of the tools
   recognized in Phase 1, and need not have participated in Phase 1. Success will
   likely require partnership with organizations that have significant size and
   reach - such as specialty societies, quality organizations, Regional Extension
   Centers (RECs), health IT products or services vendors - to support the tool
   dissemination goals. Submitters must demonstrate successful use of these tools
-  in at least 2 additional practices.\r\n\r\n<strong><a title=\"Green Spring Internal
+  in at least 2 additional practices.</p><p><strong><a title=\"Green Spring Internal
   Medicine Tools\" href=\"http://bit.ly/15DWNh3\">DOWNLOAD GREEN SPRING INTERNAL
-  MEDICINE TOOLS</a></strong>\r\n\r\n<strong><a title=\"Vibrant Health Clinics
-  Tools\" href=\"http://bit.ly/1JujwIV\">DOWNLOAD VIBRANT HEALTH CLINICS TOOLS</a></strong>\r\n\r\nTo
+  MEDICINE TOOLS</a></strong></p><p><strong><a title=\"Vibrant Health Clinics
+  Tools\" href=\"http://bit.ly/1JujwIV\">DOWNLOAD VIBRANT HEALTH CLINICS TOOLS</a></strong></p><p>To
   participate in Phase 2, provide documentation describing the elements below.
   Narrative elements must be no longer than 5 pages, not including screenshots,
-  artifacts, or worksheets.\r\n\r\na. <b>CDS Tools Spread.</b> Describe which
+  artifacts, or worksheets.</p><p>a. <b>CDS Tools Spread.</b> Describe which
   tools from Phase 1 your team spread to other practices using the format of the
   <b>Phase I CDS Intervention Details</b>. Describe in detail any modifications
-  that were made to the Phase 1 version of the tools.\r\n\r\nb. <b>Spread Results.</b>\r\n<ul>\r\n\t<li>Successful
+  that were made to the Phase 1 version of the tools.</p><p>b. <b>Spread Results.</b>\r\n<ul>\r\n\t<li>Successful
   implementations: Describe the number and nature of practices to which the CDS
   interventions were spread. For each practice, provide details as described in
   <b>Phase 1 Practice Information</b>.</li>\r\n\t<li>Blood pressure control and
@@ -243,25 +243,25 @@ how-to-enter: "<b>PHASE 2</b>\r\n\r\nPhase 2 submitters can include any organiza
   and pitfalls to avoid, so that others could replicate it. See Phase 1 items
   CDS Support Overview and Blood Pressure Protocol, and Workflow Integration Details
   for guidance on providing details about protocol/CDS implementation details
-  for individual sites.\r\n\r\n&nbsp;\r\n\r\n<b>***Submit your solution by clicking
-  the \"Submit Solution\" tab in the upper-right corner and following the instructions***</b>\r\n\r\n&nbsp;\r\n\r\n<b>PHASE
-  1</b>\r\n\r\nA practice implementing the protocol must lead the submission.
+  for individual sites.</p><p>&nbsp;</p><p><b>***Submit your solution by clicking
+  the \"Submit Solution\" tab in the upper-right corner and following the instructions***</b></p><p>&nbsp;</p><p><b>PHASE
+  1</b></p><p>A practice implementing the protocol must lead the submission.
   Practices are encouraged to form teams supporting their entry that include organizations
   such as a Regional Extension Center (REC), EHR developer, quality organization
   and/or professional society. Practices must demonstrate high blood pressure
   control levels and/or improvement to ensure that their tools and strategies
-  merit replication across other practice settings.\r\n\r\nTo participate in Phase
+  merit replication across other practice settings.</p><p>To participate in Phase
   1, provide documentation describing the elements below. Narrative elements must
-  be no longer than 5 pages, not including screenshots, artifacts, or worksheets.\r\n\r\n<b>***
+  be no longer than 5 pages, not including screenshots, artifacts, or worksheets.</p><p><b>***
   VIEW THE AUGUST 5 <a href=\"https://capconcorp.webex.com/capconcorp/lsr.php?RCID=6fe98e1917855df0751bdc8a0a63d2b0\">WEBINAR
   RECORDING</a> (<a href=\"http://oncchallenges.ideascale.com/userimages/accounts/91/917467/EHR_Innovations_Challenge_Transcript.pdf\">transcript</a>)
-  ***</b>\r\n\r\na. <b><a>Blood Pressure Control Results</a>.</b> Challenge entry
+  ***</b></p><p>a. <b><a>Blood Pressure Control Results</a>.</b> Challenge entry
   requires exemplary blood pressure control for hypertensive patients driven by
   EHR/CDS interventions – a practice-wide control rate of at least 70%, and/or
   a significantly improved level from before the enhanced CDS interventions described
-  in the submission were deployed (no specific threshold must be met).\r\n<ul>\r\n\t<li>•
+  in the submission were deployed (no specific threshold must be met).\r\n<ul>\r\n\t<li>
   Hypertension prevalence in practice: per cent of patients 18 or older whose
-  diagnosis list includes hypertension.</li>\r\n\t<li>• Per cent of patients with
+  diagnosis list includes hypertension.</li>\r\n\t<li> Per cent of patients with
   hypertension whose blood pressure is controlled (&lt;140/90). The specifications
   used to determine this rate must be the same as that used for PQRS #236/NQF
   #0018 (see the <a href=\"http://ushik.ahrq.gov/ViewItemDetails?system=mu&amp;itemKey=118811000\">US
@@ -269,7 +269,7 @@ how-to-enter: "<b>PHASE 2</b>\r\n\r\nPhase 2 submitters can include any organiza
   BP control: Provide the percent of the patient population whose BP rate was
   improved over a specified period. Each submission will be evaluated based on
   the percent improvement and time period but no specific threshold for these
-  must be met.</li>\r\n\t<li>• Per cent of the patient population whose blood
+  must be met.</li>\r\n\t<li> Per cent of the patient population whose blood
   pressure rate was improved over a specified period, the per cent improvement,
   and the time period, using the specifications above for determining the rates.</li>\r\n</ul>\r\nb.
   <b><a href=\"http://millionhearts.hhs.gov/resources/protocols.html\">Blood Pressure
@@ -277,13 +277,13 @@ how-to-enter: "<b>PHASE 2</b>\r\n\r\nPhase 2 submitters can include any organiza
   Describe the CDS interventions and implementation strategies believed to have
   had the greatest effects on BP control. In a narrative, describe the protocol
   elements you addressed and how you used EHR and related CDS interventions to
-  address them (we encourage but do not require that you address all five elements):\r\n<ul>\r\n\t<li>•
+  address them (we encourage but do not require that you address all five elements):\r\n<ul>\r\n\t<li>
   BP measurement/recording (e.g., use of documentation templates, highlighting
-  abnormal BPs in EHR)</li>\r\n\t<li>• BP follow-up and patient recall (e.g.,
-  use of registry reports)</li>\r\n\t<li>• Medication selection and titration
-  (e.g., use of order sets)</li>\r\n\t<li>• Patient engagement (e.g., use of patient
+  abnormal BPs in EHR)</li>\r\n\t<li> BP follow-up and patient recall (e.g.,
+  use of registry reports)</li>\r\n\t<li> Medication selection and titration
+  (e.g., use of order sets)</li>\r\n\t<li> Patient engagement (e.g., use of patient
   education and goal setting tools, templates for documenting and responding to
-  home BP readings, patient reminders for medications/appointments)</li>\r\n\t<li>•
+  home BP readings, patient reminders for medications/appointments)</li>\r\n\t<li>
   Workup/referral for poor control (e.g., reference information, hypertension-specific
   consult order forms)</li>\r\n</ul>\r\nc. <b>CDS Intervention Details.</b> For
   each intervention used to implement the blood pressure protocol, provide a detailed
@@ -296,7 +296,7 @@ how-to-enter: "<b>PHASE 2</b>\r\n\r\nPhase 2 submitters can include any organiza
   without payment or limitation. DO NOT submit any propriety material without
   submitting all pertinent permissions (e.g., from EHR vendor) and DO NOT submit
   any <a href=\"http://www.hhs.gov/ocr/privacy/hipaa/understanding/summary/\">protected
-  health information (PHI)</a>.\r\n\r\nd. <b>Workflow Integration Details.</b>
+  health information (PHI)</a>.</p><p>d. <b>Workflow Integration Details.</b>
   Describe how you integrated into the practice and clinical workflow the interventions
   described in the previous section. Provide enough detail so that other practices
   wanting to use the same interventions you have used would experience similar
@@ -304,9 +304,9 @@ how-to-enter: "<b>PHASE 2</b>\r\n\r\nPhase 2 submitters can include any organiza
   and the CDS/Quality Improvement worksheets for standard presentation/replication
   (e.g., similar to QI case example within the <a href=\"http://bit.ly/CDS4MU\">CDS/QI
   resources recently provided by ONC</a>; see specifically II.A: CHC Inc. and
-  Ellsworth QI Case Studies).\r\n\r\ne. <b>Practice Information.</b> Provide information
+  Ellsworth QI Case Studies).</p><p>e. <b>Practice Information.</b> Provide information
   about the lead practice as detailed in the \"Practice Information\" section
-  in Rules.\r\n\r\n&nbsp;"
+  in Rules.</p>&nbsp;"
 partnerships: ''
 groupAttributes:
 judging-criteria-description-0: ''
@@ -523,25 +523,25 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: 'The goal of the EHR Innovations for Improving Hypertension Challenge
+description: '<p>The goal of the EHR Innovations for Improving Hypertension Challenge
   is to gather specific descriptions of health IT tools and approaches used by individual
   practices to implement an evidence-based blood pressure (BP) treatment protocol
   that has led to improvement in practice-wide blood pressure control (Phase 1), and
   identify models for quickly and widely spreading these to other practices (Phase
-  2). A comprehensive clinical decision support (CDS) approach supports these <b>five
+  2). </p><p>A comprehensive clinical decision support (CDS) approach supports these <b>five
   protocol elements</b>:  <ul>   <li>1. Blood pressure measurement/recording</li>   <li>2.
   Blood pressure follow-up</li>   <li>3. Initiation and titration of medications</li>   <li>4.
-  Patient engagement</li>   <li>5. Workup/referral for poor control</li>  </ul>  In
+  Patient engagement</li>   <li>5. Workup/referral for poor control</li>  </ul>  </p><p>In
   Phase 1 (three months), practices will document the electronic health record (EHR)
   tools they used to implement an evidence-based BP control protocol, as well as describe
   the details and results of the implementation. Practices must demonstrate high BP
   control levels and/or improvement to ensure that tools and strategies merit replication
-  across practice settings.    <b>*** VIEW THE JANUARY 23 WEBINAR MATERIALS: RECORDING (<a
+  across practice settings.    </p><p><b>*** VIEW THE JANUARY 23 WEBINAR MATERIALS: RECORDING (<a
   href="http://bit.ly/1DikMeM">Download</a>, <a href="http://youtu.be/vy8NfnmIbbI">YouTube</a>) |
-  <a href="http://bit.ly/1HtxtuV">SLIDES</a> ***</b>    <strong><a title="Green Spring
+  <a href="http://bit.ly/1HtxtuV">SLIDES</a> ***</b>    <br><strong><a title="Green Spring
   Internal Medicine Tools" href="http://bit.ly/15DWNh3">DOWNLOAD GREEN SPRING INTERNAL
   MEDICINE TOOLS</a></strong>    <strong><a title="Vibrant Health Clinics Tools" href="http://bit.ly/1JujwIV">DOWNLOAD
-  VIBRANT HEALTH CLINICS TOOLS</a></strong>    In Phase 2 (nine months), practices
+  VIBRANT HEALTH CLINICS TOOLS</a></strong>    </p><p>In Phase 2 (nine months), practices
   and their partners will conduct, evaluate and document dissemination strategies
   for tools recognized in Phase 1, emphasizing widespread, effective use of these
   tools by other practices. Submitters must demonstrate successful use of these tools
@@ -551,9 +551,9 @@ description: 'The goal of the EHR Innovations for Improving Hypertension Challen
   who provide CDS tools that reviewers select for Phase 2 dissemination efforts, and
   for other Phase 2 submitters with commendable CDS tool dissemination and implementation
   strategies. Both phases will recognize submitters in different categories such as
-  practice type and size, based on the submissions received.    <b>***Submit your
+  practice type and size, based on the submissions received.    </p><p><b>***Submit your
   solution by clicking the "Submit Solution" tab in the upper-right corner and following
-  the instructions***</b>'
+  the instructions***</b></p>'
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []

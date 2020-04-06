@@ -112,9 +112,9 @@ rules: "<ol>   <li>Who can win: To be eligible to win a prize under this challen
   listing project title and team member information.</li>   <li>Project Description
   (not to exceed 6 pages using Arial font and a font size of at least 11 points)
   that includes the following 4 sections:</li>  </ul>  1)            Abstract
-  \   2)            Description of clinical need or problem, including background
-  and current methods available    3)            Design, including a discussion
-  of the innovative aspects    4)            Evidence of a working prototype (results/graphics
+  \   <br>2)            Description of clinical need or problem, including background
+  and current methods available  <br>  3)            Design, including a discussion
+  of the innovative aspects  <br>  4)            Evidence of a working prototype (results/graphics
   obtained with the designed solution)    When the submitted entry is part of
   a bigger/ongoing project, the specific components designed and implemented by
   the competing Student Team must be clarified and distinguished from those accomplished
@@ -338,23 +338,23 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: NIBIB’s  DEBUT Challenge is open to teams of undergraduate students working
+description: <p>NIBIB’s  DEBUT Challenge is open to teams of undergraduate students working
   on projects that develop innovative solutions to unmet health and clinical problems.
   NIBIB’s mission is to improve health by leading the development and accelerating
-  the application of biomedical technologies. The goals of the challenge are 1) to
+  the application of biomedical technologies.<p></p> The goals of the challenge are <br>1) to
   provide undergraduate students valuable experiences such as working in teams, identifying
   unmet clinical needs, and designing, building and debugging solutions for such open-ended
-  problems; 2) to generate novel, innovative tools to improve healthcare, consistent
+  problems; <br>2) to generate novel, innovative tools to improve healthcare, consistent
   with NIBIB’s purpose to support research, training, the dissemination of health
   information, and other programs with respect to biomedical imaging and engineering
-  and associated technologies and modalities with biomedical applications; and 3)
+  and associated technologies and modalities with biomedical applications; and <br>3)
   to highlight and acknowledge the contributions and accomplishments of undergraduate
-  students.    To participate in the challenge, a team of undergraduate students must
+  students.<p></p>To participate in the challenge, a team of undergraduate students must
   identify an unmet health/clinical need, and design and build a biomedical  technology/method 
   that addresses it.  Areas of interest for these design projects include, but are
   not limited to, diagnostics, therapeutics, technologies for underserved populations
   and low resource settings, point-of-care systems, precision medicine, preventive
-  medicine and technologies to aid individuals with disabilities.
+  medicine and technologies to aid individuals with disabilities.</p>
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []

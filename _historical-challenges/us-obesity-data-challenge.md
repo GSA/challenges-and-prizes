@@ -43,31 +43,31 @@ partner-agencies-federal: ''
 judging-end-date: '08/19/2015 04:00 PM'
 solicitation-methods: ''
 advancing-the-agency-mission: ''
-rules: 'RULES    To be eligible to win a prize under this challenge, an individual
-  or entity—    (1) Shall have registered to participate in the competition under
-  the rules promulgated by HHS, Health Data Consortium, and de Beaumont Foundation.    (2)
-  Shall have complied with all the requirements under this section.    (3) In
+rules: '<p>To be eligible to win a prize under this challenge, an individual
+  or entity—  <br>  (1) Shall have registered to participate in the competition under
+  the rules promulgated by HHS, Health Data Consortium, and de Beaumont Foundation.    <br>(2)
+  Shall have complied with all the requirements under this section.    <br>(3) In
   the case of a private entity, shall be incorporated in and maintain a primary
   place of business in the United States, and in the case of an individual, whether
   participating singly or in a group, shall be a citizen or permanent resident
-  of the United States.    (4) May not be a Federal entity or Federal employee
-  acting within the scope of their employment.    (5) Shall not be an HHS employee
-  working on their applications or submissions during assigned duty hours.    (7)
+  of the United States.    <br>(4) May not be a Federal entity or Federal employee
+  acting within the scope of their employment.    <br>(5) Shall not be an HHS employee
+  working on their applications or submissions during assigned duty hours.    <br>(7)
   Federal grantees may not use Federal funds to develop applications unless consistent
-  with the purpose of their grant award.    (8) Federal contractors may not use
+  with the purpose of their grant award.    <br>(8) Federal contractors may not use
   Federal funds from a contract to develop applications or to fund efforts in
-  support of a challenge submission.    An individual or entity shall not be deemed
+  support of a challenge submission.</p><p>An individual or entity shall not be deemed
   ineligible because the individual or entity used Federal facilities or consulted
   with Federal employees during a competition if the facilities and employees
   are made equitably available to all individuals and entities participating in
-  the competition.    Entrants must agree to assume any and all risks and waive
+  the competition.</p><p>Entrants must agree to assume any and all risks and waive
   claims against the Federal Government and its related entities, except in the
   case of willful misconduct, for any injury, death, damage, or loss of property,
   revenue, or profits, whether direct, indirect, or consequential, arising from
   my participation in this prize contest, whether the injury, death, damage, or
-  loss arises through negligence or otherwise.    Entrants must also agree to
+  loss arises through negligence or otherwise.</p><p>Entrants must also agree to
   indemnify the Federal Government against third party claims for damages arising
-  from or related to competition activities.    By submitting an entry to this
+  from or related to competition activities.</p><p>By submitting an entry to this
   competition you represent and warrant that your submission:  <ul>   <li>is your
   own work and not copied. If we have reason to believe that your submission is
   not your own work then we may not consider it;</li>   <li>does not contain any
@@ -97,7 +97,7 @@ rules: 'RULES    To be eligible to win a prize under this challenge, an individu
   and to publicly perform and publicly display the Submission, including, without
   limitation, for advertising and promotional purposes relating to the Challenge.</li>   <li>Winners
   for the U.S. Obesity Data Challenge are encouraged to open source your code
-  to the extent possible as a continuing contribution to combating obesity.</li>  </ul>'
+  to the extent possible as a continuing contribution to combating obesity.</li>  </ul></p>'
 submission-start-date-1: ''
 hide-challenge-timeline: 'No'
 judging-start-date: '08/03/2015 08:00 AM'
@@ -311,10 +311,10 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: '<strong> </strong>    <b>Calling all data enthusiasts and innovators
+description: '<p><b>Calling all data enthusiasts and innovators
   to harness existing open health data to develop visualizations and tools for health
   care providers and public health officials to better tackle obesity!</b>    <strong>All
-  entries are due by 9 AM ET, Monday, Aug. 3, 2015</strong>    <i>The U.S. Obesity
+  entries are due by 9 AM ET, Monday, Aug. 3, 2015</strong></p><p><i>The U.S. Obesity
   Data Challenge is a parallel, but separate prize-based competition. Learn more about
   the Obesity Data Challenge led by National Health Service (NHS) England and their
   organizing partner, Rewired State </i><a href="http://obesitychallenge.rewiredstate.org"><i>here</i></a>.  <h2><b>THE
@@ -323,17 +323,17 @@ description: '<strong> </strong>    <b>Calling all data enthusiasts and innovat
   adults are overweight or obese (Ogden, 2014). But the epidemic is not limited to
   the developed world; about one billion adults in the developing world are overweight
   or obese (PHE, 2014). Obesity contributes to a host of other diseases, including
-  increased risk of heart attack, strokes and diabetes    Societal, economic, and
+  increased risk of heart attack, strokes and diabetes.</p><p>Societal, economic, and
   cultural conditions all contribute to the obesity epidemic. These factors include
   (but are not limited to) personal food choices, cost and access to healthful foods,
   individual physical activity, genetic predisposition, and other demographic and
-  environmental risk factors.    Currently, volumes of data exist, but they aren’t
+  environmental risk factors.</p><p>Currently, volumes of data exist, but they aren’t
   always put to use for the benefit of individual patients or their communities –
   or, just as commonly, data are used selectively, without the full power that comes
   from combining data from multiple sources. Many are unaware that relevant data even
   exists, and few have the capability to combine or visualize data in sophisticated
   ways. With communities coming together to address obesity as a critical issue, it’s
-  time to provide better tools that put these data to work<b>.</b>  <h2><b>THE CHALLENGE</b></h2>  Challenge
+  time to provide better tools that put these data to work<b>.</b>  </p><p><h2><b>THE CHALLENGE</b></h2>  Challenge
   participants should utilize and mash up open data to develop new data visualization
   tools to give communities, local health officials, patients and practitioners new
   means to improve population health. Winning solutions will enable public health

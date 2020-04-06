@@ -48,53 +48,53 @@ partner-agencies-federal: ''
 judging-end-date: 05/02/2015 04:00 PM
 solicitation-methods: ''
 advancing-the-agency-mission: ''
-rules: 'Submissions to this prize competition shall include:    (1)     A comprehensive
+rules: '<p>Submissions to this prize competition shall include:  <p></p>  (1)     A comprehensive
   description including drawings and diagrams, as appropriate, of the proposed
   solution in 10 pages or less, 8.5 x 11 inch page, 12-point font or greater and
-  one inch margins including:    (i)         A one-paragraph executive summary
-  that clearly states the technical question to be solved;    (ii)       Background
+  one inch margins including:    <br>(i)         A one-paragraph executive summary
+  that clearly states the technical question to be solved;   <br> (ii)       Background
   information supporting the significance of the technical question(s) and the
   proposed approach, pitfalls, and validation scheme that addresses efforts to
   support reproducibility; if possible, citing selected peer-reviewed articles
-  that strengthen the proposed solution;    (iii)     Descriptions of methods
-  and technologies key to implementation;    (iv)       A “state-of-the-art” statement
+  that strengthen the proposed solution;   <br> (iii)     Descriptions of methods
+  and technologies key to implementation;  <br>  (iv)       A “state-of-the-art” statement
   that describes approaches currently in use (if any) and clearly explains how
-  the methods and measures proposed advance existing capabilities; and    (v)        
+  the methods and measures proposed advance existing capabilities; and  <br>  (v)        
   A feasibility assessment and a statement describing your ability to execute
   the proposed solution, including the estimated timeframe, supporting precedents
-  and any special resource you may have or will need.    Judging: Solutions for
+  and any special resource you may have or will need.  <p></p>  Judging: Solutions for
   this competition will be evaluated by a judging panel using the criteria and
   rating scales described below. Judges will review highly rated solutions for
   technical alignment to the Next Generation First Responder Apex program, relevance
-  to the DHS mission, and potential integration with existing projects.    The
+  to the DHS mission, and potential integration with existing projects.  <p></p>  The
   three use cases, listed under (1) below, apply to this competition and, at a
   minimum; at least two of these must be addressed. The judging panel will use
   the following criteria and rating scales for evaluating proposed solutions with
   high scores reflecting the most highly rated solutions: (Maximum 100 points;
-  plus up to 50 bonus points)    (1)     Building structure (0-30 points) -    (i)        
+  plus up to 50 bonus points)  <p></p>  (1)     Building structure (0-30 points) -    (i)        
   Case 1 – Should be able to track multiple first responders inside of a 2-story
   residential structure above and below grade;    (ii)       Case 2 – Should be
   able to track multiple first responders inside of a warehouse structure with
   a minimal footprint of 20,000 square feet;    (iii)     Case 3 – Should be able
   to track multiple first responders inside of a multi-storied commercial building
-  above grade and below grade.    (2)     Location Accuracy (0-50 points) - Location
+  above grade and below grade.  <p></p>  (2)     Location Accuracy (0-50 points) - Location
   capability should provide 3-dimentional positioning where X is less than or
   equal to 3 meters with a position error of less than equal to +/- 0.50 meters;
   where Y is less than or equal to 3 meters with a position error of less than
   equal to +/- 0.50 meters; and where Z is less than or equal to 2 meters with
-  a position error of less than equal to +/- 0.25 meters.    (3)     Real-time
+  a position error of less than equal to +/- 0.25 meters.  <p></p>  (3)     Real-time
   reporting (0-10 points) - The solution should be able to provide real-time reporting
   of +/- 15 seconds to the on-scene commander and must be able to transmit, omni-directional,
-  position location no less than 1500 feet from within the structure.    (4)    
+  position location no less than 1500 feet from within the structure.  <p></p>  (4)    
   The modular form should be man-portable and weigh less than 5 pounds (0 – 10
   points).  <ul>   <li>Bonus Points (Maximum 50 bonus points) -</li>  </ul>  (i)        
   Feasibility (Bonus worth up to 30 points) - Solvers should provide sufficient
   details to support the feasibility that the proposed solution can be demonstrated
   with further research and development in less than two years, including published
-  or unpublished data, scientific basis, technological capability, and resources.    (ii)      
+  or unpublished data, scientific basis, technological capability, and resources.   <br> (ii)      
   Adaptability (Bonus worth up to 20 points) - Must describe broad utility and
   scalability. The approach should lend itself to more than one first responder
-  discipline, such as law enforcement, firefighting, and emergency medical services.'
+  discipline, such as law enforcement, firefighting, and emergency medical services.</p>'
 submission-start-date-1: ''
 hide-challenge-timeline: 'No'
 judging-start-date: 04/04/2015 12:00 PM
@@ -310,7 +310,7 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: The Department of Homeland Security,  Science and Technology Directorate
+description: <p>The Department of Homeland Security,  Science and Technology Directorate
   (DHS S&amp;T) First Responders Group (FRG) is seeking innovative methods for real-time,
   robust indoor tracking of the next generation first responder. The development of
   sensors and communications able to perform well across a variety of indoor environments
@@ -318,7 +318,7 @@ description: The Department of Homeland Security,  Science and Technology Direc
   This prize competition seeks personalized, modular and scalable approaches to track
   the next generation of first responders indoors using current and emerging technologies,
   sensors, and techniques. Submissions should consist of a concept/design for a low
-  cost, robust, real-time indoor tracking capability.    The ability to use Global
+  cost, robust, real-time indoor tracking capability. <p></p>   The ability to use Global
   Positioning System (GPS) technology is extremely limited for indoor tracking capabilities
   due to its weak signal strength and inability to penetrate buildings. There are
   limited alternatives to GPS, such as wave measurements, magnetic fields, sonar/acoustics,
@@ -330,7 +330,7 @@ description: The Department of Homeland Security,  Science and Technology Direc
   of varying heights. Ideally, a solution will be wearable; self-reporting to provide
   real-time x, y, z positioning; and mission-agnostic thereby allowing for use by
   any first responder discipline (e.g., law enforcement, firefighting, emergency medical
-  services, and emergency management).
+  services, and emergency management).</p>
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []

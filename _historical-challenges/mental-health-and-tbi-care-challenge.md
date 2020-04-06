@@ -281,35 +281,35 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: 'Mental health is as important as physical health. However, many people
+description: '<p>Mental health is as important as physical health. However, many people
   with posttraumatic stress disorder (PTSD) or traumatic brain injury (TBI) don’t
   get the care they need – including our nation’s Service members.    Defense Centers
   of Excellence for Psychological Health and Traumatic Brain Injury (DCoE) exists
   to improve the lives of our nation''s Service members, veterans, and their families
   by advancing excellence in psychological health and traumatic brain injury prevention
-  and care – and <strong>we want to hear from you</strong>.    <strong>We challenge
-  you</strong> to share your thoughts on improving mental health care.    <strong>If
+  and care – and we want to hear from you.  <p></p>We challenge
+  you to share your thoughts on improving mental health care.    If
   you could pitch an idea to fill gaps in care and improve the well-being of people
-  with PTSD or traumatic brain injury, what would it be? </strong>    Gaps in care
+  with PTSD or traumatic brain injury, what would it be?   <p></p>  Gaps in care
   may exist in areas such as prevention, diagnosis and identification, treatment,
   or research. Solutions can include ideas for new services, technologies, products,
-  or specific research related to PTSD and TBI.    <strong>You Can Make a Difference</strong>    Your
+  or specific research related to PTSD and TBI.  <p></p>  You Can Make a Difference    Your
   input is valuable and we want to hear from everyone — whether you are a caregiver,
   a clinician, someone living with PTSD or TBI, or someone with a good idea to share.
-  You don’t have to be an expert to participate.    ********************    <strong>Background</strong>    <strong>What''s
-  DCoE?</strong>    <a href="http://dcoe.mil/"><strong>DCoE</strong><strong> </strong></a>is
+  You don’t have to be an expert to participate. <p></p>  Background  <br>  What''s
+  DCoE?    <a href="http://dcoe.mil/">DCoE </a>is
   a Defense Department organization that works to improve the lives of service members,
   veterans, and their families, by advancing excellence in psychological health and
-  traumatic brain injury prevention and care.    DCoE includes three centers: <a href="http://dvbic.dcoe.mil/"><strong>Defense
-  and Veterans Brain Injury Center (DVBIC)</strong></a>, <a href="http://www.pdhealth.mil/about_dhcc.asp"><strong>Deployment
-  Health Clinical Center (DHCC)</strong></a>, and <a href="http://t2health.dcoe.mil/"><strong>National
-  Center for Telehealth and Technology (T2)</strong></a>.    <strong>Psychological
-  Health</strong>    Psychological health encompasses many aspects of a person''s
+  traumatic brain injury prevention and care.    DCoE includes three centers: <a href="http://dvbic.dcoe.mil/">Defense
+  and Veterans Brain Injury Center (DVBIC)</a>, <a href="http://www.pdhealth.mil/about_dhcc.asp">Deployment
+  Health Clinical Center (DHCC)</a>, and <a href="http://t2health.dcoe.mil/">National
+  Center for Telehealth and Technology (T2)</a>. <p></p>   Psychological
+  Health<br>    Psychological health encompasses many aspects of a person''s
   mental well-being. Common psychological health concerns among service members include
   posttraumatic stress disorder (PTSD), depression, anxiety and substance use disorder.
   In addition to advancing the treatment for these concerns, DCoE helps connect people
-  with available relevant resources, develops products and works to clarify misconceptions.    <strong>Traumatic
-  Brain Injury</strong>    Traumatic brain injury can be the result of a blow or jolt
+  with available relevant resources, develops products and works to clarify misconceptions. <p></p>   Traumatic
+  Brain Injury <br>   Traumatic brain injury can be the result of a blow or jolt
   to the head or a penetrating head injury that disrupts the function of the brain.
   In the general population 1.7 million people sustain a TBI each year, resulting
   in 52,000 deaths, according to the Centers for Disease Control and Prevention<sup>1</sup> and

@@ -43,11 +43,11 @@ partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''
-rules: '<span style="text-decoration: underline;">Eligibility Rules for Participating
+rules: '<p><span style="text-decoration: underline;">Eligibility Rules for Participating
   in the Competition:</span> <em>This Competition is open only to the <strong>local
   governments of United States cities</strong> (referred to as municipalities
   and townships by the U.S. Census Bureau) or <strong>American Indian, Alaska
-  Native, or Native Hawaiian communities, or their constituent agencies and subdivisions</strong>.</em>
+  Native, or Native Hawaiian communities, or their constituent agencies and subdivisions</strong>.</em></p><p>
   No city or Native American Community may submit more than one entry to the Startup
   in a Day Competition – Start Small Model. However, cities and Native American
   Communities are allowed to apply to both the Startup in a Day Competition –
@@ -58,7 +58,7 @@ rules: '<span style="text-decoration: underline;">Eligibility Rules for Particip
   a city or Native American Community is a finalist for both competitions, the
   city or Native American Community will be awarded the larger prize. No city
   or Native American Community that is currently suspended or debarred by the
-  Federal government is eligible to take part in this Competition.    <span style="text-decoration:
+  Federal government is eligible to take part in this Competition.</p><p><span style="text-decoration:
   underline;">Priority Communities:</span> An additional aim of this competition
   is to stimulate economic development in certain Priority Communities. For purposes
   of the Startup in a Day Competition – Start Small Model, Priority Communities
@@ -67,7 +67,7 @@ rules: '<span style="text-decoration: underline;">Eligibility Rules for Particip
   American Communities are being funded and scored separately and are not eligible
   for Priority Community consideration. However, both cities and Native American
   Communities are eligible for additional points for agreeing to the Startup in
-  a Day Pledge. See Part V below for more details.):  <ul>   <li>Rural/Non-Metropolitan:
+  a Day Pledge. See Part V below for more details.):  </p><ul>   <li>Rural/Non-Metropolitan:
   Cities having a population of less than 50,000. Please reference http://quickfacts.census.gov/qfd/index.html.</li>   <li>High
   Poverty: Cities where 20 percent or more of residents are below the poverty
   level. Please reference http://quickfacts.census.gov/qfd/index.html.</li>   <li>Veterans
@@ -215,7 +215,7 @@ prize-description-0: 'In total, SBA will award up to $1.35 million in prizes und
   of up to $50,000 each to cities that are selected as winners.  Due to the use
   of additional funding sources with different constraints, SBA will also separately
   award no more than two (2) prizes of up to $50,000 each to winning entries submitted
-  by Native American Communities.     PAYMENTS: Because the subject of this competition
+  by Native American Communities.     <br>PAYMENTS: Because the subject of this competition
   is not just the development of online tools to streamline the business startup
   process, but also the implementation and improvement of such tools, prizes will
   be disbursed in two payments. The first payment, equal to 80 percent of a winner’s
@@ -228,12 +228,12 @@ prize-description-0: 'In total, SBA will award up to $1.35 million in prizes und
   to the design or implementation of similar competitions in the future. Winners
   must base this assessment on a period of live operation of their Startup in
   a Day web tools that is at least six (6) months and no more than twelve (12)
-  months in length.     ASSESSMENT: Regardless of the length of the period of
+  months in length.     <br>ASSESSMENT: Regardless of the length of the period of
   operation on which they are based, the written assessment must be submitted
   to SBA no later than 15 months after a winner receives its first prize payment.
   The written assessments, or portions thereof, may be made public. Further guidance
   regarding the format and means of submission of these assessments will be provided
-  to winners prior to their acceptance of prizes.    ACH and SAM: All prizes will
+  to winners prior to their acceptance of prizes.    <br>ACH and SAM: All prizes will
   be paid via the Automated Clearing House (ACH) and winners will be required
   to create an account in the System for Award Management (SAM) in order to receive
   their prizes.'
@@ -340,22 +340,22 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: '<em>Note: This Competition is open only to the <strong>local governments
+description: '<p><em>Note: This Competition is open only to the <strong>local governments
   of United States cities</strong> (referred to as municipalities and townships by
   the U.S. Census Bureau) or <strong>American Indian, Alaska Native, or Native Hawaiian
-  communities, or their constituent agencies and subdivisions</strong>.  See more
-  details regarding eligibility rules for participating in the competition under "Rules."</em>    The
+  communities, or their constituent agencies and subdivisions</strong>.</p><p>See more
+  details regarding eligibility rules for participating in the competition under "Rules."</em></p><p>The
   SBA is seeking to support entrepreneurs who are navigating the requirements to start
-  a business.  Currently many of these requirements are in multiple locations and
+  a business.Currently many of these requirements are in multiple locations and
   a streamlined approach could help entrepreneurs startup more easily. The Startup
   in a Day Competition – Start Small Model is designed to spur the development, implementation,
   and improvement of online tools that will let entrepreneurs learn about the business
   startup process in their area, including how to register and apply for all required
-  local licenses and permits, in one day or less.    In order to maximize the success
+  local licenses and permits, in one day or less.</p><p>In order to maximize the success
   of this Competition, SBA will work with the National League of Cities (NLC), an
   advocacy organization representing thousands of municipalities, to establish a formal
   mechanism by which all Startup in a Day Competition winners will be able to collaborate
-  and share best practices.    In conjunction with the Startup in a Day Competition,
+  and share best practices.</p><p>In conjunction with the Startup in a Day Competition,
   President Barack Obama is asking cities and Native American Communities across America
   to take a pledge to support entrepreneurs in their area by making it easier to start
   a business (for the text of this pledge, see sba.gov/startup). While it is not required
@@ -364,7 +364,7 @@ description: '<em>Note: This Competition is open only to the <strong>local gover
   and Native American Communities that do take the pledge will receive five (5) bonus
   points during the evaluation process, as stipulated in Item 3: Part V below. Furthermore,
   all Startup in a Day Competition – Start Small Model winners will be required to
-  take the pledge prior to receiving their prizes.'
+  take the pledge prior to receiving their prizes.</p>'
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []

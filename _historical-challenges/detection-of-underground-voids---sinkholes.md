@@ -243,17 +243,17 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: '<strong>BACKGROUND</strong>    Mining and Gas/oil exploration have led
+description: '<p><strong>BACKGROUND</strong> Mining and Gas/oil exploration have led
   to great technology advances in detection of anomalies underground. Geologist can
   “see” pockets of materials through thousands of feet of rock. This usually works
   because there is a great contrast between the background (rock) and the target (oil).
   Also the “pocket” of target material is usually quite large as well. Even with all
   this technology, however, it is still difficult to consistently find a void or “hole”
-  below ground.    Voids / sinkholes underneath the ground’s surface are responsible
+  below ground.   <p></p> Voids / sinkholes underneath the ground’s surface are responsible
   for damage to many buildings and roads due to collapse. There is a need to detect
   underground voids / sinkholes as deep as 100 feet below the surface. A lot of work
   has been done to predict conditions where sinkholes can form, but actual detection
-  from above is quite difficult.    <strong>KNOWN TECHNOLOGIES</strong>    There are
+  from above is quite difficult.  <p></p>  <strong>KNOWN TECHNOLOGIES</strong>    There are
   many known technologies (some will be mentioned here) that work in some limited
   fashion but none that work consistently under all conditions. The Seeker is familiar
   with most known methods that exist today for this purpose. This Challenge is not
@@ -261,7 +261,7 @@ description: '<strong>BACKGROUND</strong>    Mining and Gas/oil exploration have
   or adapting known technologies with new features to find voids below the surface.
    The Seeker would like to discover any technologies that exist that have not been
   tried to detect these voids previously. Your knowledge and experience in other areas
-  applied to this problem is what is requested.    Previous efforts using <a href="http://en.wikipedia.org/wiki/Ground-penetrating_radar"
+  applied to this problem is what is requested.  <p></p>  Previous efforts using <a href="http://en.wikipedia.org/wiki/Ground-penetrating_radar"
   target="_blank">Ground Penetrating Radar</a> (GPR), <a href="http://en.wikipedia.org/wiki/Gravity_gradiometry"
   target="_blank">Gravity Gradiometer</a>, <a href="http://en.wikipedia.org/wiki/Seismometer"
   target="_blank">Seismic</a> and <a href="http://en.wikipedia.org/wiki/Surface_acoustic_wave_sensor"
@@ -269,7 +269,7 @@ description: '<strong>BACKGROUND</strong>    Mining and Gas/oil exploration have
   composition and the depth of some sinkholes. Some systems are effective in one geographical
   location and become useless in other locations. For example, it may work in wet
   but not dry soil, or in compact but not sandy soil. Many techniques can map a void
-  when you already know something is there, but are not helpful in unknown areas.    <strong>THE
+  when you already know something is there, but are not helpful in unknown areas. <p></p>   <strong>THE
   CHALLENGE</strong>    The Challenge is to come up with a system that can detect
   underground voids or sinkholes as deep as 30 feet below the surface (threshold)
   and preferably as deep as 100 feet below the surface (objective). The system must
@@ -277,7 +277,7 @@ description: '<strong>BACKGROUND</strong>    Mining and Gas/oil exploration have
   it would provide a “picture” that shows the void and its location (GPS, Google Maps,
   or similar).    The system should have as small a footprint as possible (deployable
   from a vehicle) and easily set up and utilized with minimal training by non-technicians
-  (surveyors, realtors, law enforcement, border patrol, etc.), not only scientists/specialists.    Submissions
+  (surveyors, realtors, law enforcement, border patrol, etc.), not only scientists/specialists.  <p></p>  Submissions
   to this Challenge should try to meet the following <strong>Technical Requirements</strong>:  <ol>   <li>The
   system should be able to detect voids (empty space) as deep as 30 feet and preferably
   as deep as 100 feet.</li>   <li>The system should be able to detect spherical voids

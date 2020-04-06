@@ -58,12 +58,12 @@ rules: '<strong>ELIGIBILITY FOR CHALLENGE:  </strong>Eligibility to participate
   not be deemed ineligible because the individual or entity used federal facilities
   or consulted with federal employees during a competition if the facilities and
   employees are made available to all individuals and entities participating in
-  the competition on an equitable basis.</li>  </ol>  Participants agree to assume
+  the competition on an equitable basis.</li>  </ol>  <p>Participants agree to assume
   any and all risks and waive claims against the federal government and its related
   entities, except in the case of willful misconduct, for any injury, death, damage,
   or loss of property, revenue, or profits, whether direct, indirect, or consequential,
   arising from participation in this competition, whether the injury, death, damage,
-  or loss arose through negligence or otherwise.  Participants also agree to obtain
+  or loss arose through negligence or otherwise.</p><p>Participants also agree to obtain
   liability insurance or demonstrate financial responsibility, to cover a third
   party for death, bodily injury, property damage, or loss resulting from an activity
   carried out in connection with participation in this competition.    Participants
@@ -74,12 +74,12 @@ rules: '<strong>ELIGIBILITY FOR CHALLENGE:  </strong>Eligibility to participate
   any commercial advertising or similar promotions in a manner that states or
   implies that the product or service being used is endorsed or preferred by GSA
   or any other element of the federal government, or that the federal government
-  considers it to be superior to other products or services.  The intent of this
+  considers it to be superior to other products or services.</p><p>The intent of this
   policy is to prevent the appearance of federal government bias toward any one
   product or service.    Participants agree that GSA’s trademarks, logos, service
   marks, trade names, or the fact that GSA awarded a prize to a Participant, shall
   not be used by the Participant to imply direct GSA endorsement of Participant
-  or Participant’s submission.  Both Participants and GSA may list the other party’s
+  or Participant’s submission.</p><p>Both Participants and GSA may list the other party’s
   name in a publicly available customer or other list so long as the name is not
   displayed in a more prominent fashion than any other third party name.    <strong>PRIZES:
   </strong>GSA may award up to three team prizes $1,000 to each member of a winning
@@ -87,7 +87,7 @@ rules: '<strong>ELIGIBILITY FOR CHALLENGE:  </strong>Eligibility to participate
   a smaller number of entries meet the scope and requirements laid out for this
   competition, or if the Agency plans to only use code from a smaller number of
   entries.  Funding for this GSA Digital Innovation and Strategy competition award
-  will come from GSA.  Prizes will be awarded to the winner(s) of the competition
+  will come from GSA.</p>Prizes will be awarded to the winner(s) of the competition
   via Electronic Funds Transfer (EFT), within 60 days of announcement of the winner(s). <strong> </strong>    <strong>REQUIREMENTS: 
   </strong>The final solution should be open source code and placed on GSA’s GitHub
   site.  Open source refers to a program in which the source code is available
@@ -330,29 +330,29 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: 'Join with the Office of Digital Innovation and Strategy to develop a
+description: '<p>Join with the Office of Digital Innovation and Strategy to develop a
   smart technology solution in the form of an Application, Application Programming
   Interface (APIs), and/or Data Mashup for Acquisition, Travel and Public Building
-  Service (PBS).    The purpose of this notice is to announce a software programming
+  Service (PBS).</p><p>    The purpose of this notice is to announce a software programming
   and data innovation competition hosted by GSA’s Office of Digital Innovation and
   Strategy that will be held on May 8th, 2015. The competition will be open from 9:00
   a.m. until 4:30 p.m.  The competition details can be viewed at <a href="http://open.gsa.gov/Digital-Innovation-Hackathon/">http://open.gsa.gov/Digital-Innovation-Hackathon/</a>
-  .  The goal of this competition is to ask the public and academia to develop smart
+  .  </p><p>The goal of this competition is to ask the public and academia to develop smart
   technology solutions in the form of an application, Application Programming Interface
   (API), and/or data mashup that has the capability to providing GSA with key insights
   and recommendations for future enhancements.  GSA will challenge software developers
-  and designers to create a solution using sample GSA data.    <strong>FOR FURTHER
+  and designers to create a solution using sample GSA data.</p>   <p> <strong>FOR FURTHER
   INFORMATION CONTACT:</strong> Ms. Cindy A. Smith at cindya.smith@gsa.gov or 816-823-5291.    In
   this competition, the public is asked to develop a technology-driven solution using
   GSA data that allows an agency to identify opportunities for improvements and transparency. 
   As such, GSA challenges the public to create a solution using GSA data that could
   be replicated across government to every agency, using their own data.  Sample data
-  sets with GSA data will be provided.    <strong>DETAILS OF CHALLENGE:  </strong>Design
+  sets with GSA data will be provided.</p>    <p><strong>DETAILS OF CHALLENGE:  </strong>Design
   and create a digital interactive solution in the form of an application, Application
   Programming Interface (API), and/or data mashup that utilizes federal data collected
   by GSA. The technology solution should be innovative!  GSA does not want an analysis
   tool that tells what is already known.  This should be a forward-thinking solution
-  that enhances transparency.    The solution should be a data-driven solution to
+  that enhances transparency.</p>    The solution should be a data-driven solution to
   provide meaningful insights that can help drive smarter decisions by federal employees. 
   The ultimate goal is to help federal agencies use data to its fullest, share data
   with all agencies, and become transparent to the American Public.    The solution

@@ -66,14 +66,14 @@ rules: "<strong>Authority:</strong>    This award is authorized under the Corpor
   to increasing the participation of other individuals with disabilities in national
   service; and</li>   <li>Most compelling member experience in either building
   an ethic of civic responsibility or having positive change in their life.</li>
-  \ </ol>  <strong>Nominees should select only one award category and one program
-  affiliation per submission.</strong>    Submit a narrative of up to 500 words
+  \ </ol>  <p><strong>Nominees should select only one award category and one program
+  affiliation per submission.</strong></p><p>Submit a narrative of up to 500 words
   that clearly and concisely describes the nominee’s best program design, enhancement,
   expansion, or experience and accomplishments as a member for the award category
   selected. Ideally, the narrative will include evidence of the nominee's impact
   in the community or on the program or other local projects, as well as evidence
   to support the nominee's work or service as innovative, a best practice and/or
-  a highly compelling and motivating experience.    Submissions may also include
+  a highly compelling and motivating experience.</p><p>Submissions may also include
   photos and videos. Photos and videos should support the narrative submission
   and not replace it. Photos and video are encouraged as they are often very helpful
   in telling the complete service story. Please note that photos or videos are
@@ -83,13 +83,13 @@ rules: "<strong>Authority:</strong>    This award is authorized under the Corpor
   mission. This includes the right to copy, reproduce, display, or distribute
   the content of the submission, and to make derivative works based upon the submission
   or a substantial portion of it without attribution or prior permission.    <strong>Deadline
-  for Submissions:</strong>    Submissions must be entered by 5:00 PM, EDT on
-  Monday, June 22, 2015.    <strong>Format for Submissions:</strong>    Nominations
-  must be submitted online.    <strong>Limitations:</strong>    Individuals and
+  for Submissions:</strong></p><p>Submissions must be entered by 5:00 PM, EDT on
+  Monday, June 22, 2015.</p><p><strong>Format for Submissions:</strong>    Nominations
+  must be submitted online.</p><p><strong>Limitations:</strong>    Individuals and
   programs may submit no more than one nominee in each award category. However,
   individuals may not nominate themselves; self-nominations will not be eligible
   for review. Nominators are highly encouraged to focus on the quality of the
-  nomination submitted – and not the quantity of nominations submitted."
+  nomination submitted – and not the quantity of nominations submitted.</p>"
 submission-start-date-1: ''
 hide-challenge-timeline: 'No'
 judging-start-date: 06/23/2015 09:00 AM
@@ -278,23 +278,23 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: In honor of retired US Senator Tom Harkin, an inspiring champion for
+description: <p>In honor of retired US Senator Tom Harkin, an inspiring champion for
   national service, the Corporation for National and Community Service will present
-  the <strong>“Excellence in AmeriCorps Programming and Service Awards.”</strong>  Our
+  the <strong>“Excellence in AmeriCorps Programming and Service Awards.”</strong><p></p>Our
   goal for these awards is to recognize outstanding and innovative programs and high
   quality and meaningful AmeriCorps service experiences (for current members and alumni).    Just
   as Senator Harkin sought to expand “what worked” throughout his career, we want
   these awards to encourage the development and expansion of best practices in national
   service programming, improved project development, and increase the value of the
   AmeriCorps member experience to help tackle the country’s most pressing human and
-  environmental needs through service.  With emphases on engaging individuals with
+  environmental needs through service.</p><p>With emphases on engaging individuals with
   disabilities in service, best program innovation and enhancements, and compelling
   AmeriCorps member experience, the awards reflect the depth of impact of the national
   service field on the communities served and the individuals serving.    These awards
   will allow us to share excellent program strategies and models with the national
   service field and the general public so that individuals, nonprofits, government
   agencies, schools, and more will be aware of the excellent and diverse range of
-  national service programs across the country.
+  national service programs across the country.</p>
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []

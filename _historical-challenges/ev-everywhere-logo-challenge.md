@@ -63,12 +63,12 @@ rules: '1) <em>Subject of Competition: </em>The Department of Energy (DOE) is
   to increase energy and environmental security.  In addition to public outreach
   and education, it also includes efforts to reduce the cost and improve the convenience
   of PEVs through research and development as well as increase community readiness
-  for the use of PEVs. For further information, contact <a href="mailto:ev-everywhere@ee.doe.gov">ev-everywhere@ee.doe.gov</a>.    &nbsp;    2)
+  for the use of PEVs. For further information, contact <a href="mailto:ev-everywhere@ee.doe.gov">ev-everywhere@ee.doe.gov</a>.    &nbsp;    <br>2)
   <em>Dates: </em>The submission period for entries begins at August 13, 2015
   and must be received electronically by September 25, 2015 by 11:59 p.m. EST.
   The winning contestant will be announced October 26, 2015.  All dates are subject
   to change.  The winning contestant will be notified in advance of the public
-  announcement.    &nbsp;    3) <em>Eligibility Rules for Participating in the
+  announcement.    &nbsp;    <br>3) <em>Eligibility Rules for Participating in the
   Competition:</em> To be eligible to win a prize under this Logo Design Competition,
   you-    (a) Must register to participate in the competition under the link designated
   for that purpose by DOE on https://www.challenge.gov;    (b) Must comply with
@@ -90,7 +90,7 @@ rules: '1) <em>Subject of Competition: </em>The Department of Energy (DOE) is
   or fund efforts in support of applications for this competition. You may use
   Federal facilities or consult with Federal employees during the competition
   if the facilities and employees are made available to all contestants participating
-  in the competition on an equitable basis.    &nbsp;    4) <em>Registration Process
+  in the competition on an equitable basis.    &nbsp;    <br>4) <em>Registration Process
   for Contestants:</em> Design competition contestants must submit their “EV Everywhere”
   Logo designs online as a vector-based image in an .ai, .eps, or PDF file using
   the link designated for that purpose on https://www.challenge.gov. Contestants
@@ -127,10 +127,10 @@ rules: '1) <em>Subject of Competition: </em>The Department of Energy (DOE) is
   federal agency’s logo.    When uploading your “EV Everywhere” Logo design, in
   the “Submission Text” field, please include a brief description about your logo
   entry and thought process behind the design, including any personal experience
-  the designer has with PEVs.    &nbsp;    5) <em>Prize for Winner</em>: The winning
+  the designer has with PEVs.    &nbsp;    <br>5) <em>Prize for Winner</em>: The winning
   contestant will be awarded a $5,000 prize and the design will become the official
   logo for the EV Everywhere activities, the magnetic decals, the program’s website
-  and any official DOE purpose.    &nbsp;    6) <em>Selection of Winner</em>:
+  and any official DOE purpose.    &nbsp;    <br>6) <em>Selection of Winner</em>:
   DOE will select a judging panel that will consist of DOE officials, EV industry
   leaders, and other communications experts. Judges will be fair and impartial.
   A judge may not have personal or financial interests in, or be an employee,
@@ -150,7 +150,7 @@ rules: '1) <em>Subject of Competition: </em>The Department of Energy (DOE) is
   to the panel''s satisfaction, the Department of Energy is under no obligation
   to select a winner.  All decisions by DOE are final and binding with respect
   to the contest.  For questions or further information, please see the contact
-  information listed in the <strong>DATES</strong> section above.    &nbsp;    7)
+  information listed in the <strong>DATES</strong> section above.    &nbsp;    <br>7)
   <em>Applicable Law</em>: This design competition is being conducted by DOE pursuant
   to the America COMPETES Reauthorization Act requirements at 15 U.S.C. 3719 and
   is subject to all applicable federal laws and regulations. By participating
@@ -159,7 +159,7 @@ rules: '1) <em>Subject of Competition: </em>The Department of Energy (DOE) is
   is contingent upon their fulfilling all requirements identified in this notice.
   Publication of this notice is not an obligation of funds on the part of DOE.
   DOE reserves the right to cancel, suspend, and/or modify this contest, in whole
-  or in part, at any time prior to the award of prizes.    &nbsp;    8) <em>Resolution
+  or in part, at any time prior to the award of prizes.    &nbsp;    <br>8) <em>Resolution
   of Disputes</em>: The Department of Energy is solely responsible for administrative
   decisions, which are final and binding in all matters related to the contest.
   In the event of a dispute as to any registration, the authorized account holder
@@ -168,7 +168,7 @@ rules: '1) <em>Subject of Competition: </em>The Department of Energy (DOE) is
   email address by an Internet access provider, online service provider or other
   organization responsible for assigning email addresses for the domain associated
   with the submitted address. Contestants and potential winner may be required
-  to show proof of being the authorized account holder.    &nbsp;    9) <em>Intellectual
+  to show proof of being the authorized account holder.    &nbsp;    <br>9) <em>Intellectual
   Property Rights:</em>    (a) By submitting a design to this competition, you
   represent and warrant that you are the sole author and copyright owner of the
   submitted design; that the submission is your original work, and as the contestant,
@@ -188,11 +188,11 @@ rules: '1) <em>Subject of Competition: </em>The Department of Energy (DOE) is
   worldwide license to reproduce, distribute, copy, display, create derivative
   works, and publicly post, link to, and share, the winning design or parts thereof,
   for the purpose of the design competition and for any official EV Everywhere
-  or DOE purpose.    &nbsp;    10) <em>Publicity Rights:</em> Upon registration,
+  or DOE purpose.    &nbsp;    <br>10) <em>Publicity Rights:</em> Upon registration,
   each contestant consents to DOE’s and its agents’ use, in perpetuity, of its
   name, likeness, photograph, voice, opinions, and/or hometown and state information
   for promotional or informational purposes through any form of media, worldwide,
-  without payment or consideration.    &nbsp;    11) <em>Liability and Insurance
+  without payment or consideration.    &nbsp;    <br>11) <em>Liability and Insurance
   Requirements:</em>    (a) Any and all information provided by or obtained from
   the Federal Government is without any warranty or representation whatsoever,
   including but not limited to its suitability for any particular purpose.    (b)Upon
@@ -214,7 +214,7 @@ rules: '1) <em>Subject of Competition: </em>The Department of Energy (DOE) is
   the amount of $500 or less, made by: (A) a third party for death, bodily injury,
   or property damage, or loss resulting from an activity carried out in connection
   with participation in the Logo competition; and (B) the Federal Government for
-  damage or loss to Government property resulting from such an activity.    &nbsp;    12)
+  damage or loss to Government property resulting from such an activity.    &nbsp;    <br>12)
   <em>Record Retention and FOIA</em>: All materials submitted to DOE as part of
   a submission become DOE records and cannot be returned. Any confidential commercial
   information contained in a submission should be designated at the time of submission.
@@ -420,33 +420,25 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: '<span style="font: 13px/19px Georgia, ''Times New Roman'', ''Bitstream
-  Charter'', Times, serif; color: #333333; text-transform: none; text-indent: 0px;
-  letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important;
-  white-space: normal; widows: 1; font-size-adjust: none; font-stretch: normal; background-color:
-  #ffffff; -webkit-text-stroke-width: 0px;">The EV Everywhere Logo Design Challenge
-  invites designers to create a compelling graphic that communicates two main ideas:
-  1) that plug-in electric vehicles (PEVs) are beneficial and practical and 2) EV
+description: '<p>The EV Everywhere Logo Design Challenge
+  invites designers to create a compelling graphic that communicates two main ideas:<br>
+  1) that plug-in electric vehicles (PEVs) are beneficial and practical and <br>2) EV
   Everywhere is the place for drivers to come for data-driven, objective information
   about them. As PEVs can help increase America’s economic, energy, and environmental
   security, the Department of Energy and its stakeholders will be leading the way
-  through EV Everywhere. The competition is only the first part of an expanded outreach
+  through EV Everywhere.</p><p>The competition is only the first part of an expanded outreach
   and education effort to increase consumer awareness of PEVs’ benefits. The winning
   logo will be featured in EV Everywhere communications products, potentially including
   a magnetic decal, the program’s website and any other official Department of Energy
-  purpose. </span>    <span style="font: 13px/19px Georgia, ''Times New Roman'', ''Bitstream
-  Charter'', Times, serif; color: #333333; text-transform: none; text-indent: 0px;
-  letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important;
-  white-space: normal; widows: 1; font-size-adjust: none; font-stretch: normal; background-color:
-  #ffffff; -webkit-text-stroke-width: 0px;">The winner has been selected for the EV
+  purpose.</p><p>The winner has been selected for the EV
   Everywhere Logo Design Challenge: Brian Marquis. The winning logo is below.  For
   more information, see the <a href="http://energy.gov/eere/articles/new-ev-everywhere-logo-ready-road">Office
   of Energy Efficiency and Renewable Energy''s blog post</a> on the winning entry.
-   </span>    <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/08/EV-Everywhere-logo-final-design.jpg"><img
+  <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/08/EV-Everywhere-logo-final-design.jpg"><img
   class="aligncenter wp-image-91801 size-medium" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/08/EV-Everywhere-logo-final-design-300x232.jpg"
   alt="Winner of the EV Everywhere logo contest. The logo is a stylized EV with a
   cord wrapped around and the words EV Everywhere, U.S. Department of Energy next
-  to it." width="300" height="232" /></a>'
+  to it." width="300" height="232" /></a></p>'
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
