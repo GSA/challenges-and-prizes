@@ -230,9 +230,9 @@ prizes: >-
   Topic 4: Extraction-to-analysis systems approach across all data categories:
   **2 X $30,000**
 rules: >-
-  View the [Official Rules document](<{{ site.baseurl
-  }}/assets/netlify-uploads/3.2-oio-rules-asaps-contest-1-final-.pdf>) for
-  detailed rules on all aspects of this challenge. 
+  View the [Official Rules
+  document](https://www.challenge.gov/assets/netlify-uploads/3.2-oio-rules-asaps-contest-1-final-.pdf)
+  for detailed rules on all aspects of this challenge. 
 
 
   Rules regarding submissions, as well as additional terms and conditions, begin
