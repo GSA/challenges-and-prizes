@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/community-college-innovation-challenge-2020/
 challenge-id: 1103
-status: open
+status: closed
 sidenav: false
 card-image: /assets/images/cards/CCIC-2020-340x160.png
 agency-logo: nsf.png
@@ -14,8 +14,8 @@ partners-non-federal: American Association of Community Colleges
 external-url: http://www.aaccinnovationchallenge.com
 total-prize-offered-cash:
 type-of-challenge: Ideas, scientific
-submission-start: 2020/01/16 9 a.m.
-submission-end: 2020/04/03 11:59 p.m.
+submission-start: 01/16/2020 9 a.m.
+submission-end: 04/03/2020 11:59 p.m.
 submission-link:
 prize: true
 fiscal-year: FY20
