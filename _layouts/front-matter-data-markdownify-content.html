@@ -5,15 +5,51 @@ permalink: json-page
   
     <div class="grid-container">
     <div class="grid-row grid-gap">
-    {% include sidenav-front-matter-data.html %}
+<!--Start Sidenav-->   
+<aside class="usa-layout-docs-sidenav desktop:grid-col-3 usa-section">
+    <!--Agency Logo-->
+    <div class="tablet:grid-col">
+        <img class="challenge-agency-logo" src="{{ site.baseurl }}{{ page.agency-logo }}" alt="{{ page.agency }} logo" width="225px" title="">
+        <h3 class="text-base-dark">{{ page.agency }}</h3>
+    </div> 
+    <!--End Agency Logo-->
+    {% if page.sidenav == true %}
+    <hr>
+  <nav>
+    <h3 class="text-base-dark">Page Contents</h3>
+    <ul class="usa-sidenav">
+      <li class="usa-sidenav__item">
+        <a class="text-accent-warm-dark" href="#description">Description<span class="sr-only"> (in-page link)</span></a>
+      </li>
+      <li class="usa-sidenav__item">
+        <a href="#prizes">Prizes<span class="sr-only"> (in-page link)</span></a>
+      </li>
+      <li class="usa-sidenav__item">
+        <a href="#rules">Rules<span class="sr-only"> (in-page link)</span></a>
+      </li>
+      <li class="usa-sidenav__item">
+        <a href="#judging-criteria">Judging Criteria<span class="sr-only"> (in-page link)</span></a>
+      </li>
+      <li class="usa-sidenav__item">
+        <a href="#how-to-enter">How To Enter<span class="sr-only"> (in-page link)</span></a>
+      </li>
+      {% if page.status == "open" %}
+      <li class="usa-sidenav__item">
+        <a href="#contact">Point of Contact<span class="sr-only"> (in-page link)</span></a>
+      </li>
+      {% endif %}
+    </ul>
+  </nav>
+  {% endif %}
+</aside>
+<!--End Sidenav-->
+
         <div class="desktop:grid-col-9 usa-prose usa-section challenge-main">
             {% if page.status == "closed" %}
             {% include alert-banner-closed-challenge.html %}
             {% endif %}  
             <h1 class="text-primary-dark">{{ page.challenge-title }}</h1>
-            {% if page.tagline != "" %}
             <h3 class="text-primary">{{ page.tagline }}</h3>
-            {% endif %}  
             <h4 class="text-base-dark  desktop-only-display">{{ page.agency }}</h4> 
             <!-- Start Accordion -->
             <div class="usa-accordion">
@@ -26,7 +62,7 @@ permalink: json-page
                             <i class="fas fa-money-bill-wave text-accent-warm-dark font-size-mono-xl"></i><span class="text-primary text-uppercase"> Total Cash Prizes Offered: </span> {{ page.total-prize-offered-cash }}<br>
                             {% endif %}
                             {% if page.type-of-challenge %}
-                            <i class="fas fa-stream text-accent-warm-dark"></i><span class="text-primary text-uppercase"> Type of Challenge:</span>  {{ page.type-of-challenge }}</span><br>
+                            <i class="fas fa-stream text-accent-warm-dark"></i><span class="text-primary text-uppercase"> Type of Challenge:</span>  {{ page.type-of-challenge | join: ', ' }}</span><br>
                             {% endif %}
                             {% if page.partner-agencies-federal %}
                             <i class="fas fa-university text-accent-warm-dark font-size-mono-xl"></i><span class="text-primary text-uppercase"> Partner Agencies | Federal:</span> {{ page.partner-agencies-federal }}<br>
@@ -61,7 +97,16 @@ permalink: json-page
                 </div>
                 {% if page.external-url == nil  %}
                 {% if page.status == "open"  %}
-                {% include challenge-poc.html %}
+                <!-- Contact start -->
+                <h3 id="contact" class="text-accent-warm-dark font-heading-lg challenge-section">Point of Contact</h3>
+                <div>
+                    <p class="text-bold">Have feedback or questions about this challenge?
+                        {% if page.point-of-contact %}
+                    <a class="usa-link--external" href="mailto:{{ page.point-of-contact }}">  Send the challenge manager an email</a></p>
+                    {% else %}
+                    <a class="usa-link--external" href="mailto:team@challenge.gov">  Send the challenge manager an email</a></p>
+                    {% endif %}
+                </div>
                 {% endif %}
                 {% endif %}
             </div>
