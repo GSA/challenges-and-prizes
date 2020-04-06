@@ -26,7 +26,7 @@ fiscal-year: 'FY20, FY21, FY22'
 legal-authority: America COMPETES Act
 challenge-manager: Craig Connelly
 challenge-manager-email: craig.connelly@nist.gov
-body-content-uploads: /assets/netlify-uploads/asaps-tables-data-events.pdf
+body-content-uploads: /assets/netlify-uploads/3.2-oio-rules-asaps-contest-1-final-.pdf
 description: >-
   The Public Safety Communications Research Division of the National Institute
   of Standards and Technology is conducting the Automated Streams Analysis for
@@ -229,6 +229,14 @@ prizes: >-
 
   Topic 4: Extraction-to-analysis systems approach across all data categories:
   **2 X $30,000**
+rules: >-
+  View the [Official Rules
+  document](https://www.challenge.gov/assets/netlify-uploads/3.2-oio-rules-asaps-contest-1-final-.pdf)
+  for detailed rules on all aspects of this challenge. 
+
+
+  Rules regarding submissions, as well as additional terms and conditions, begin
+  on Page 6 of the document.
 judging: ''
 how-to-enter: >-
   Visit *[www.herox.com/ASAPS1](http://www.herox.com/ASAPS1)*:.
