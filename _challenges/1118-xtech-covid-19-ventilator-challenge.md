@@ -87,11 +87,12 @@ Part 1 applications will be evaluated and ranked using the following Scoring Cri
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-Register now: https://www.xtechsearch.army.mil/
+Register now: <a href="https://www.xtechsearch.army.mil/" target="_blank" rel="noopener">https://www.xtechsearch.army.mil/</a>
 
 **Submission Format** 
 
-*Part 1: Concept Submission Quad Chart and Video* All eligible entities shall submit a concept quad chart and accompanying video up to 3 minutes in length outlining their technology, the technical viability of their approach, human and clinical risk, and speed to production. Please adhere to the following requirements:
+*Part 1: Concept Submission Quad Chart and Video* 
+All eligible entities shall submit a concept quad chart and accompanying video up to 3 minutes in length outlining their technology, the technical viability of their approach, human and clinical risk, and speed to production. Please adhere to the following requirements:
 
 * All concept quad charts must be submitted using the template found on the registration page, “xTechCOVID19_QuadChart_Template.ppt”. Any proposals submitted in a format other than that provided by the template will not be reviewed.
 * Please include on your quad chart your company name, proposal title, and company logo EXACTLY how you would like them to appear on any contest marketing materials.
