@@ -95,11 +95,11 @@ Register now: https://www.xtechsearch.army.mil/
 
 **Submission Format** 
 
-*Part 1: Concept Submission Quad Chart and Video* All eligible entities shall submit a concept quad chart and accompanying video up to 3 minutes in length outlining their technology, the technical viability of their approach, human and clinical risk, and speed to production.  Please adhere to the following requirements:
+*Part 1: Concept Submission Quad Chart and Video* All eligible entities shall submit a concept quad chart and accompanying video up to 3 minutes in length outlining their technology, the technical viability of their approach, human and clinical risk, and speed to production. Please adhere to the following requirements:
 
-* All concept quad charts must be submitted using the template found on the registration page, “xTechCOVID19_QuadChart_Template.ppt”.  Any proposals submitted in a format other than that provided by the template will not be reviewed.
+* All concept quad charts must be submitted using the template found on the registration page, “xTechCOVID19_QuadChart_Template.ppt”. Any proposals submitted in a format other than that provided by the template will not be reviewed.
 * Please include on your quad chart your company name, proposal title, and company logo EXACTLY how you would like them to appear on any contest marketing materials.
-* Provide an optional URL on the contest registration page to a video supporting your application. Production value does not matter at all, and the can be used to explain the concept, brief the quad chart, or to otherwise demonstrate the technology concept proposed.  MAXIMUM of 3-minutes for the video's length.
+* Provide an optional URL on the contest registration page to a video supporting your application. Production value does not matter at all, and the can be used to explain the concept, brief the quad chart, or to otherwise demonstrate the technology concept proposed. MAXIMUM of 3-minutes for the video's length.
 
 *Part 2: Technology Pitches* 
 
