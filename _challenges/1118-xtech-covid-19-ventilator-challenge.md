@@ -29,7 +29,6 @@ point-of-contact: usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil
 <!-- Description start -->
 
 ### Description
-
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 The Army is conducting a change of mission to focus on combating the COVID-19 pandemic. With this new mission, the Army will protect the force, posture the force to maintain global operational readiness, and support the national effort to fight against COVID-19. The Army continually assesses how we will best protect Soldiers, Civilians and their families, maintain force readiness to meet global challenges, and provide support to the FEMA-lead national COVID-19 response.
@@ -39,7 +38,6 @@ Accordingly, effective immediately, the Army Acquisition Executive is launching 
 <!-- Prizes start -->
 
 ### Prizes
-
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 Prizes will be offered under 10 USC §2374a (Prize competitions). The total prize pool is $1,000,000.00. 
@@ -56,7 +54,6 @@ In addition, detailed feedback will be provided to all participants at the end o
 <!-- Rules start -->
 
 ### Rules
-
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 The Ventilator Challenge is voluntary and open to all US-based entities. Registration information and upload submission will be accepted beginning 5 April 2020 and will be reviewed upon receipt. Submissions that are approved by the Ventilator Challenge judging panel will be invited to deliver a virtual pitch to the panel starting on 13 April 2020. Virtual pitch schedules are dependent on submission date and will be scheduled with selected submitters. Applicants should be prepared to deliver a virtual pitch of their concept within 1 week of submitting the application.
@@ -76,7 +73,6 @@ For the xTech: COVID-19 Ventilator Challenge:
 <!-- Judging start -->
 
 ### Judging Criteria
-
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 Each application will be reviewed by a panel of experts from the Army, medical, and manufacturing communities.
@@ -93,7 +89,6 @@ Part 1 applications will be evaluated and ranked using the following Scoring Cri
 <!--  How To Enter start -->
 
 ### How To Enter
-
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 Register now: https://www.xtechsearch.army.mil/
