@@ -28,10 +28,10 @@ permalink: json-page
                             {% if page.type-of-challenge %}
                             <i class="fas fa-stream text-accent-warm-dark"></i><span class="text-primary text-uppercase"> Type of Challenge:</span>  {{ page.type-of-challenge }}</span><br>
                             {% endif %}
-                            {% if page.partner-agencies-federal %}
+                            {% if page.partner-agencies-federal and page.partner-agencies-federal != '' %}
                             <i class="fas fa-university text-accent-warm-dark font-size-mono-xl"></i><span class="text-primary text-uppercase"> Partner Agencies | Federal:</span> {{ page.partner-agencies-federal }}<br>
                             {% endif %}
-                            {% if page.partners-non-federal  %}
+                            {% if page.partners-non-federal and page.partners-non-federal != '' %}
                             <i class="fas fa-building text-accent-warm-dark"></i><span class="text-primary text-uppercase">  Partner Agencies | Non-federal:</span> {{ page.partners-non-federal }}<br>
                             {% endif %}
                             {% if page.status == "open"  %}
@@ -53,13 +53,13 @@ permalink: json-page
 
             <div class="text-base-darker">
                 <p>
-                    {% if page.external-url  %}
+                    {% if page.external-url and page.external-url != '' %}
                     <h3>This challenge is externally hosted.</h3> <p>You can view the challenge details here: <a href="{{page.external-url}}" target="_blank" rel="noopener">{{page.external-url}}</a></p>
                     </p>
                     {% endif %}
                     {{ content | markdownify }} 
                 </div>
-                {% if page.external-url == nil  %}
+                {% if page.point-of-contact and page.point-of-contact != ''  %}
                 {% if page.status == "open"  %}
                 {% include challenge-poc.html %}
                 {% endif %}
