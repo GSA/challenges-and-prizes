@@ -105,4 +105,3 @@ Register now: https://www.xtechsearch.army.mil/
 
 Selected participants will conduct a virtual pitch to the Ventilator Challenge panel of Army, medical, and manufacturing experts.  Detailed pitch instructions and evaluation criteria will be provided to selected applicants.  Technology pitches selected to meet the requirements of this posted solicitation will receive a prize of $100,000 and will be invited to develop and demonstrate a concept prototype to potentially receive follow on contracts for additional production and deployment.
 
-![xTech COVID-19 now accepting submissions](/assets/netlify-uploads/xtech-covid-inline-image-copy.png)
