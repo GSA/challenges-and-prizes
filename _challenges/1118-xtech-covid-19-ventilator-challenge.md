@@ -79,7 +79,7 @@ Each application will be reviewed by a panel of experts from the Army, medical, 
 
 Judging Criteria
 
-Part 1 applications will be evaluated and ranked using the following Scoring Criteria (further details on each scoring dimension can be found on the xTech|COVID-19 registration page):
+Part 1 applications will be evaluated and ranked using the following Scoring Criteria (further details on each scoring dimension can be found on the xTech COVID-19 registration page):
 
 * Requirements Alignment – 30%
 * Technical Viability – 20%
