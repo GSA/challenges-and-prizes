@@ -250,7 +250,7 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: "<strong><u>Background</u></strong>    Raman spectroscopy is commonly
+description: "<p><strong><u>Background</u></strong>    Raman spectroscopy is commonly
   utilized in the field for the identification of bulk powders due to its reliability
   and high specificity; however, this specificity poses a problem when the unknown
   bulk powder is a mixture. Each mixture produces unique spectra at different concentrations
@@ -258,7 +258,7 @@ description: "<strong><u>Background</u></strong>    Raman spectroscopy is common
   mixtures based on the pure components recorded in its library. In the field of explosive
   detection, this poses a problem when dealing with homemade explosives (HMEs) especially
   oxidizer/fuel mixtures. Vendors have attempted to address this issue with their
-  Raman systems; however, they have not yet found a robust solution.    <strong><u>The
+  Raman systems; however, they have not yet found a robust solution.</p><p><strong><u>The
   Challenge</u></strong>    From this Challenge we ideally seek to receive an algorithm
   that can be translated into a software update for any commercial Raman system in
   the field. This solution will allow the system to better identify mixtures and preferably
@@ -268,12 +268,12 @@ description: "<strong><u>Background</u></strong>    Raman spectroscopy is common
   and not a library of mixture spectra. The algorithm should still identify pure components
   correctly.  In addition, it would be nice to have their relative concentrations
   from the Raman spectra, but it is not absolutely required as some assumptions about
-  ratios can be made.    Typically for oxidizer and fuel mixtures the Raman signal
+  ratios can be made.</p><p>Typically for oxidizer and fuel mixtures the Raman signal
   is dominated by the oxidizer signal. The identification of a mixture with both fuel
-  and oxidizer requires identification of the fuel component.    Solvers are not obligated
+  and oxidizer requires identification of the fuel component.</p><p>Solvers are not obligated
   to use this approach, but a potential solution could include saturating the oxidizer
   signal and running an algorithm to identify the smaller return from the fuel component,
-  while ignoring the saturated peaks."
+  while ignoring the saturated peaks.</p>"
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []

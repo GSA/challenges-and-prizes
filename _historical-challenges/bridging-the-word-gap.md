@@ -43,40 +43,40 @@ partner-agencies-federal: ''
 judging-end-date: 01/31/2016 12:00 AM
 solicitation-methods: ''
 advancing-the-agency-mission: ''
-rules: 'Eligibility Rules    To be eligible to win a prize under this challenge,
-  an individual or entity—    (1) Shall have registered to participate in the
+rules: '<p>Eligibility Rules</p><p>    To be eligible to win a prize under this challenge,
+  an individual or entity—    <br>(1) Shall have registered to participate in the
   competition under the rules promulgated by the Health Resources Services Administration
-  and the US Department of Health and Human Services.    (2) Shall have complied
-  with all the requirements under this section.    (3) In the case of a private
+  and the US Department of Health and Human Services.    <br>(2) Shall have complied
+  with all the requirements under this section.    <br>(3) In the case of a private
   entity, shall be incorporated in and maintain a primary place of business in
   the United States, and in the case of an individual, whether participating singly
-  or in a group, shall be a citizen or permanent resident of the United States.    (4)
+  or in a group, shall be a citizen or permanent resident of the United States.    <br>(4)
   May not be a Federal entity or Federal employee acting within the scope of their
-  employment.    (5) Shall not be an HHS employee working on their applications
-  or submissions during assigned duty hours.    (6) May not be employees of HRSA
+  employment.    <br>(5) Shall not be an HHS employee working on their applications
+  or submissions during assigned duty hours.    <br>(6) May not be employees of HRSA
   or any other company, organization, or individual involved with the design,
   production, execution, judging, or distribution of the Challenge and their immediate
   family (spouse, parents and step-parents, siblings and step-siblings, and children
   and step-children) and household members (people who share the same residence
-  at least three (3) months out of the year).    (7) Federal grantees may not
+  at least three (3) months out of the year).    <br>(7) Federal grantees may not
   use Federal funds to develop COMPETES Act challenge applications unless consistent
-  with the purpose of their grant award.    (8) Federal contractors may not use
+  with the purpose of their grant award.    <br>(8) Federal contractors may not use
   Federal funds from a contract to develop COMPETES Act challenge applications
-  or to fund efforts in support of a COMPETES Act challenge submission.    (9)
+  or to fund efforts in support of a COMPETES Act challenge submission.    <br>(9)
   An individual or entity shall not be deemed ineligible because the individual
   or entity used Federal facilities or consulted with Federal employees during
   a competition if the facilities and employees are made equitably available to
-  all individuals and entities participating in the competition.    (10) Entrants
+  all individuals and entities participating in the competition.    <br>(10) Entrants
   must agree to assume any and all risks and waive claims against the Federal
   Government and its related entities, except in the case of willful misconduct,
   for any injury, death, damage, or loss of property, revenue, or profits, whether
   direct, indirect, or consequential, arising from my participation in this prize
   contest, whether the injury, death, damage, or loss arises through negligence
-  or otherwise.    (11) Entrants must also agree to indemnify the Federal Government
+  or otherwise.    <br>(11) Entrants must also agree to indemnify the Federal Government
   against third party claims for damages arising from or related to competition
-  activities.    (12) The government will not select as a winner an individual
-  who is currently on the Excluded Parties List (<a href="https://www.epls.gov/">https://www.epls.gov/</a>).    &nbsp;    Submission
-  Requirements    <strong>The Challenge has three phases.</strong>    <em>Phase
+  activities.    <br>(12) The government will not select as a winner an individual
+  who is currently on the Excluded Parties List (<a href="https://www.epls.gov/">https://www.epls.gov/</a>).    &nbsp;    </p><p>Submission
+  Requirements   </p><p> <strong>The Challenge has three phases.</strong>  </p><p>  <em>Phase
   One – Design </em>    The first stage of the prize competition aims to attract
   a large set of ideas and innovators. The target product of the first stage will
   be the conceptualization of the most promising innovations to help support parental
@@ -90,7 +90,7 @@ rules: 'Eligibility Rules    To be eligible to win a prize under this challenge,
   of how the applicant arrived at their idea;</li>   <li>Descriptions of the methods
   and technologies involved in implementation of the intervention; and</li>   <li>An
   assessment describing the applicant’s ability to execute the proposed solution
-  in Phase 2 and 3.</li>  </ul>  <em>Phase Two – Development and Small Scale Testing</em>    The
+  in Phase 2 and 3.</li>  </ul> </p><p> <em>Phase Two – Development and Small Scale Testing</em>    The
   winners of Phase One of the prize competition will then advance to a second
   stage focused on prototyping the intervention, and testing of the effectiveness
   of the intervention. Using support from the Phase One prize, intervention developers
@@ -98,13 +98,13 @@ rules: 'Eligibility Rules    To be eligible to win a prize under this challenge,
   demonstrates an impact on the outcomes of interest for children and families.
   The applicants should demonstrate both the evidence base for the intervention
   and its usability. Mentors will be made available to help solvers design appropriate
-  testing methodologies and learn more about the evidence base.    <em>Phase Three
+  testing methodologies and learn more about the evidence base.   </p><p> <em>Phase Three
   – Scaling</em>    The final phase of the Word Gap Incentive Prize will involve
   testing the most promising models at greater scale through rollout at the program
   or community level. This will test the scalability of the device at low-cost,
   the feasibility of implementation, and the impact on the intended outcomes.
   Applicants will be assisted in matching their submission with a community or
-  program.    &nbsp;'
+  program.</p>'
 submission-start-date-1: ''
 hide-challenge-timeline: 'No'
 judging-start-date: 01/01/2016 12:00 AM
@@ -309,20 +309,20 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: 'HRSA''s Maternal & Child Health Bureau is sponsoring the Word Gap Challenge
+description: '<p>HRSA''s Maternal & Child Health Bureau is sponsoring the Word Gap Challenge
   to spur innovative solutions to promote the early language environment and address
   the "word gap," the large difference in exposure to language for children from low-income
   families as compared to children from higher-income families. This challenge will
   reward the development and testing of scalable innovations that drive behavior change
-  among parents and caregivers.    The goal of the challenge is to develop a low-cost,
+  among parents and caregivers.</p><p>The goal of the challenge is to develop a low-cost,
   scalable technologically-based intervention that drives parents and caregivers to
   talk- and engage in more back-and-forth interactionswith their young children
-  (ages 0-4).    This Challenge, structured in three phases, will reach a diverse
+  (ages 0-4).</p><p>This Challenge, structured in three phases, will reach a diverse
   population of innovators and solvers, including coders, public health experts, individuals
   affiliated with academic institutions, research and development communities in the
-  private sector, and others.    All submissions will be evaluated; separate prizes
-  will be awarded for each of the three phases below.    Phase 1: Design    Phase
-  2: Development and Small Scale Testing    Phase 3: Scaling'
+  private sector, and others.</p><p>All submissions will be evaluated; separate prizes
+  will be awarded for each of the three phases below.</p><p>Phase 1: Design    Phase<br>
+  2: Development and Small Scale Testing<br>    Phase 3: Scaling</p>'
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []

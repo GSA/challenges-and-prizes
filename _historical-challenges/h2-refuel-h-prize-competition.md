@@ -42,7 +42,7 @@ partner-agencies-federal: ''
 judging-end-date: 11/30/2016 12:00 AM
 solicitation-methods: ''
 advancing-the-agency-mission: ''
-rules: '<h1>H2 Refuel H-Prize Guidelines</h1>  &nbsp;  <ol>   <li><strong> Introduction</strong></li>  </ol>  Fuel
+rules: '<h4>H2 Refuel H-Prize Guidelines</h4><p>   <p><strong> Introduction</strong> Fuel
   cells powered by hydrogen from renewable or low-carbon resources can lead to
   substantial energy savings and reductions in imported petroleum and carbon emissions.
   Fuel Cell Electric Vehicles (FCEVs) are much more efficient than today’s gasoline
@@ -50,12 +50,12 @@ rules: '<h1>H2 Refuel H-Prize Guidelines</h1>  &nbsp;  <ol>   <li><strong> Intro
   The hydrogen fuel can be generated from a range of domestic sources. While the
   commercial sale of FCEVs is rapidly approaching, infrastructure remains a major
   challenge, with only approximately 50 fueling stations in the United States,
-  only 10 of which are operating as public stations.    The H-Prize was authorized
+  only 10 of which are operating as public stations.</p><p>The H-Prize was authorized
   under section 654 of the Energy Independence and Security Act of 2007 (Pub.
   L. 110-140). As efforts to build a hydrogen fueling station infrastructure are
   getting underway, the H2 Refuel H-Prize is intended to incentivize the development
   of small-scale systems for non-commercial fueling to supplement the larger-scale
-  infrastructure development.    The H2 Refuel H-Prize anticipates award of a
+  infrastructure development.</p><p>The H2 Refuel H-Prize anticipates award of a
   $1 million prize to the top refueler system entry that can produce hydrogen
   using electricity and/or natural gas, energy sources commonly available to residential
   locations, and dispense the hydrogen to a vehicle, providing at least 1 kg per
@@ -64,12 +64,12 @@ rules: '<h1>H2 Refuel H-Prize Guidelines</h1>  &nbsp;  <ol>   <li><strong> Intro
   generating and dispensing 5-50 kg H<sub>2</sub>/day. Medium scale systems would
   serve a larger community with multiple users daily, such as a large apartment
   complex or retail centers to fuel small fleets of vehicles (e.g., light duty
-  automobiles, forklifts or tractors).    Interested parties can register and
+  automobiles, forklifts or tractors).</p><p>Interested parties can register and
   find more information, updates and pages where teams can discuss the prize at
   the H-Prize website: <a href="http://hydrogenprize.org/">http://hydrogenprize.org</a>.
   The Hydrogen Education Foundation (HEF) is currently administering the prize
   for the U.S. Department of Energy (DOE), and DOE will coordinate prize activities
-  with HEF.    Teams will have a year to design a system that generates and dispenses
+  with HEF.</p><p>Teams will have a year to design a system that generates and dispenses
   hydrogen fuel that meets the criteria and identify a location where it can be
   installed and used. Twelve months after the competition opens, teams will be
   required to complete registration and submit system designs and blue prints,
@@ -87,7 +87,7 @@ rules: '<h1>H2 Refuel H-Prize Guidelines</h1>  &nbsp;  <ol>   <li><strong> Intro
   that cannot be done remotely. Teams must also provide requested information
   to a DOE designated entity for independent verification of the cost of the system
   and the cost of the generated hydrogen. The scoring criteria will be ranked
-  and weighted.    <strong>Proposed Timeline</strong>  <table>  <tbody>  <tr>  <td
+  and weighted.    </p><p><strong>Proposed Timeline</strong></p><p>  <table>  <tbody>  <tr>  <td
   width="205"><strong>Current tentative date</strong></td>  <td width="409"><strong>Activity</strong></td>  </tr>  <tr>  <td
   width="205"><strong>March 2014</strong></td>  <td width="409">Draft Guidelines
   posted for public comment</td>  </tr>  <tr>  <td width="205"><strong>April 2014</strong></td>  <td
@@ -107,8 +107,8 @@ rules: '<h1>H2 Refuel H-Prize Guidelines</h1>  &nbsp;  <ol>   <li><strong> Intro
   begins</td>  </tr>  <tr>  <td width="205"><strong>October 2016</strong></td>  <td
   width="409">Competition ends – data is analyzed to determine winner</td>  </tr>  <tr>  <td
   width="205"><strong>December 2016 (tentative)</strong></td>  <td width="409">Anticipated
-  winner announcement</td>  </tr>  </tbody>  </table>  <ol>   <li><strong> Prize
-  criteria and testing</strong></li>  </ol>  <strong>Finalist selection phase</strong>    Twelve
+  winner announcement</td>  </tr>  </tbody>  </table>   <p><strong> Prize
+  criteria and testing</strong></p><p>  <strong>Finalist selection phase</strong>    Twelve
   months after the competition opens, teams interested in competing must have
   completed registering for the competition and submit all required information.
   To be considered, an entry must meet the initial selection criteria defined
@@ -132,8 +132,8 @@ rules: '<h1>H2 Refuel H-Prize Guidelines</h1>  &nbsp;  <ol>   <li><strong> Intro
   safety page on the H-Prize website will provide updated information on safety
   issues and requirements for the safety plan and hazard analysis. To be selected
   as a finalist, contestant designs, installation details and safety plans must
-  be judged adequately safe by a panel of safety professionals.    <strong>Minimum/Maximum
-  Criteria Table </strong>  <table width="583">  <tbody>  <tr>  <td width="271"><strong>Criteria</strong></td>  <td
+  be judged adequately safe by a panel of safety professionals.    </p><p><strong>Minimum/Maximum
+  Criteria Table </strong></p><p>  <table width="583">  <tbody>  <tr>  <td width="271"><strong>Criteria</strong></td>  <td
   width="144"><strong>Home</strong></td>  <td width="168"><strong>Community</strong></td>  </tr>  <tr>  <td
   width="271"><strong>Minimum dispensing pressure</strong></td>  <td colspan="2"
   width="312">350 bar</td>  </tr>  <tr>  <td width="271"><strong>Maximum dispensing
@@ -153,9 +153,9 @@ rules: '<h1>H2 Refuel H-Prize Guidelines</h1>  &nbsp;  <ol>   <li><strong> Intro
   considerations, entries must meet the safety codes and standards in effect at
   the installation location appropriate to the system. Further, all required permits
   and approvals must be received prior to system operations.    Each entry will
-  be scored in six different technical and cost criteria:    -      Dispensing
-  pressure    -      Dispensing time    -      Number of standard fills per day    -     
-  Tested availability    -      Total installed system cost    -      Direct user
+  be scored in six different technical and cost criteria:    <br>- Dispensing
+  pressure    <br>- Dispensing time    <br>- Number of standard fills per day    <br>-
+  Tested availability    <br>- Total installed system cost    <br>- Direct user
   cost per kg    The criteria and scoring ranges are listed in more detail below.    Testing
   for the technical criteria will be performed remotely over a period of 2 to
   3 months, with at least one on-site inspection to verify data and perform testing
@@ -173,7 +173,7 @@ rules: '<h1>H2 Refuel H-Prize Guidelines</h1>  &nbsp;  <ol>   <li><strong> Intro
   the results and determine the scores based on the published scoring criteria,
   and confirm entry eligibility based on the base criteria and eligibility requirements.
   After resolving any ties (see tie resolution process below), the eligible team
-  with the highest score will be the winner.    <strong>Installation site criteria</strong>    Any
+  with the highest score will be the winner.   </p><p> <strong>Installation site criteria</strong>    Any
   site in the 50 United States and the District of Columbia can be used for the
   installation of the refueler, as long as there is access for installing equipment
   for remote monitoring, at least one on-site visit for in-depth testing, and
@@ -185,8 +185,8 @@ rules: '<h1>H2 Refuel H-Prize Guidelines</h1>  &nbsp;  <ol>   <li><strong> Intro
   this level, simulated fills can be used for testing. Simulated fill protocols
   will be posted on the H-Prize website before testing begins.    Entries must
   meet the safety codes and standards in effect at the installation location.
-  Teams are encouraged to consider the relevant SAE, ASME and NFPA codes and standards.<sup><sup>[1]</sup></sup>    <strong>Prize
-  criteria</strong>    The criteria were developed through discussion with experts
+  Teams are encouraged to consider the relevant SAE, ASME and NFPA codes and standards.<sup><sup>[1]</sup></sup>    </p><p><strong>Prize
+  criteria</strong>  The criteria were developed through discussion with experts
   in the field, including members of Hydrogen and Fuel Cell Technical Advisory
   Committee, other DOE offices, and federal agencies, and from responses to a
   Request for Information (DE-FOA-0000907: RFI - Home Hydrogen Refueler H-Prize
@@ -359,7 +359,7 @@ rules: '<h1>H2 Refuel H-Prize Guidelines</h1>  &nbsp;  <ol>   <li><strong> Intro
   entry with the highest measured pressure will win; if the pressure measurements
   are within the measurement error, the entry with the highest measured availability
   will be selected as the winner. Otherwise, the entry with the highest score
-  will win.  <ol>   <li><strong> Competition requirements and process</strong></li>  </ol>  <strong>Eligibility
+  will win. <p><strong> Competition requirements and process</strong></p><p>  <strong>Eligibility
   </strong>    This H-Prize Competition is open to contestants, defined as individuals,
   entities, or teams that meet the following requirements:  <ol>   <li>Comply
   with all Registration and H-Prize Competition Rules and Requirements as listed
@@ -403,13 +403,13 @@ rules: '<h1>H2 Refuel H-Prize Guidelines</h1>  &nbsp;  <ol>   <li><strong> Intro
   registration and all required eligibility documentation must be completed through
   the web site <a href="http://hydrogenprize.org/">http://hydrogenprize.org</a>no
   later than one week before the initial data submission deadline.Early registration
-  is encouraged.    <strong>H-Prize Competition Schedule</strong>    Once registered,
+  is encouraged.   </p><p> <strong>H-Prize Competition Schedule</strong>    Once registered,
   teams will receive all notices and rules updates, including answers to questions
   asked by the contestants. The public web site, <a href="http://hydrogenprize.org/">http://hydrogenprize.org</a>,
   will also post this same information, including publicity about various teams
   and sponsors. Contestants are encouraged to utilize the web site as a means
   of highlighting any information they would like to convey to the public or potential
-  sponsors. There are no entry fees.    On <strong>October 29, 2015</strong> contestants
+  sponsors. There are no entry fees.    </p><p>On <strong>October 29, 2015</strong> contestants
   will be required to submit initial data (including information on how the data
   was gathered and measured) and requested financial information for evaluation
   by a designated panel of judges. Instructions for the initial data submission
@@ -418,14 +418,14 @@ rules: '<h1>H2 Refuel H-Prize Guidelines</h1>  &nbsp;  <ol>   <li><strong> Intro
   in October 2016. The winner will be determined after all testing data has been
   analyzed to determine scoring and any ties resolved as described above. DOE
   plans select and announce a winner within three months after the close of the
-  competition.    <strong>Intellectual property</strong>    Intellectual property
+  competition.    </p><p><strong>Intellectual property</strong>    Intellectual property
   rights developed by the contestant for H-Prize technology are set forth in 42
   U.S.C. § 16396(f)(4). No parties managing the contest, including the U.S. Government,
   their testing laboratories, judges or H-Prize administrators will claim rights
   to the intellectual property derived by a registered contestant as a consequence
   of, or in direct relation to, their participation in this H-Prize Competition.
   The Government and the contestant may negotiate a license for the Government
-  to use the intellectual property developed by the contestant.    <strong>Cancellation
+  to use the intellectual property developed by the contestant.    </p><p><strong>Cancellation
   and team disqualification </strong>    A contestant may be disqualified for
   the following reasons:  <ul>   <li>At the request of the registered individual
   or team leader;</li>   <li>Failure to meet or maintain eligibility requirements
@@ -436,21 +436,21 @@ rules: '<h1>H2 Refuel H-Prize Guidelines</h1>  &nbsp;  <ol>   <li><strong> Intro
   or misrepresentations involving any H-Prize participation or documentation;
   or,</li>   <li>Violation of any federal, state or local law or regulation.</li>  </ul>  DOE
   reserves the right to cancel this prize program at any time prior to the completion
-  of system testing.    <strong>Liability and competition costs </strong>    The
+  of system testing.    </p><p><strong>Liability and competition costs </strong>    The
   Department of Energy, H-Prize, the Hydrogen Education Foundation and any sponsoring
   or supporting organization assume no liability or responsibility for accidents
   or injury related to the Prize.    The entrants are responsible for costs associated
   with participating in the competitionincluding but not limited to designing,
-  installing and operating their systems.    <strong>Key Dates</strong>    -     
-  <strong>October 29, 2014</strong><em>: </em>Competition opens    -      <strong>October
-  29, 2015</strong>:Preliminary data submission date    -      <strong>July 2016</strong>:Finalist
-  system testing begins    -      <strong>October 31, 2016</strong>:Competitionends,
+  installing and operating their systems.    </p><p><strong>Key Dates</strong>    <br>-
+  <strong>October 29, 2014</strong><em>: </em>Competition opens    <br>- <strong>October
+  29, 2015</strong>: Preliminary data submission date    <br>- <strong>July 2016</strong>: Finalist
+  system testing begins    <br>- <strong>October 31, 2016</strong>: Competitionends,
   data will be analyzed to determine winnerAward of $1 million prize, if the Panel
   of Judges determines that there is a winning entry. <em> (DATES caption contains
   information as how long a comment period will be, or when any hearings will
   be held, etc. When calculation dates, you can insert an instruction for the
-  Federal Register office to tie the date to the date of publication.) </em>    -     
-  <strong>December 2016</strong>:Anticipatedaward of $1 million prize, if the
+  Federal Register office to tie the date to the date of publication.) </em>    <br>-
+  <strong>December 2016</strong>: Anticipatedaward of $1 million prize, if the
   Panel of Judges determines that there is a winning entry. <em> (DATES caption
   contains information as how long a comment period will be, or when any hearings
   will be held, etc. When calculation dates, you can insert an instruction for
@@ -473,7 +473,7 @@ hide-challenge-funnel: 'Yes'
 type-of-challenge: Scientific
 participation-requirements: ''
 number-of-phases: ''
-how-to-enter: 'See Guidlines at: http://hydrogenprize.org/ for more details'
+how-to-enter: ''
 partnerships: ''
 groupAttributes:
 judging-criteria-description-0: ''

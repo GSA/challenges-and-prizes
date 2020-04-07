@@ -212,26 +212,26 @@ hide-challenge-funnel: 'Yes'
 type-of-challenge: Creative (design & multimedia)
 participation-requirements: ''
 number-of-phases: ''
-how-to-enter: "<strong>Data Submission and Registration</strong>\r\n\r\nFormat\r\n\r\n1.    
+how-to-enter: "<p><strong>Data Submission and Registration</strong></p><p>Format</p><p>1.    
   All Challenge document submissions shall be written in Helvetica font style
   with minimum 12 point font size. Arial is a suitable substitute when Helvetica
-  font style is not available.\r\n\r\n2.     Document submissions shall be in
-  Adobe portable document format (pdf).\r\n\r\n3.     Hand written or drawn documents
+  font style is not available.</p><p>2.     Document submissions shall be in
+  Adobe portable document format (pdf).</p><p>3.     Hand written or drawn documents
   shall be scanned into Adobe pdf with minimum 400x400 dots per inch (dpi) and
-  maximum 600x600 dpi.\r\n\r\nMethod\r\n\r\n1.     All Challenge submissions shall
+  maximum 600x600 dpi.</p><p>Method</p><p>1.     All Challenge submissions shall
   be sent to the 3D-Printed Habitat Challenge email address (challenge@americamakes.us).
-  The subject line should be ‘3D-Printed Habitat Challenge’.\r\n\r\n2.     Submitted
+  The subject line should be ‘3D-Printed Habitat Challenge’.</p><p>2.     Submitted
   documents will be routed to appropriate points of contact (Judges, Subject Matter
   Experts, etc.) At no point will Competitor Team Intellectual Property (IP) be
-  passed to anyone not involved with Challenge administration.\r\n\r\nSubmissions\r\n\r\n1.    
+  passed to anyone not involved with Challenge administration.</p><p>Submissions</p><p>1.    
   An individual, or team, must submit a Team Agreement (available on challenge
   website) and a two page proposal, as described in 5.2, in order to compete in
-  the 3D-Printed Habitat Challenge – Design Competition.\r\n\r\n2.     Upon acceptance,
-  individuals or teams must submit a Design Entry as described in 5.3.\r\n\r\n3.    
+  the 3D-Printed Habitat Challenge – Design Competition.</p><p>2.     Upon acceptance,
+  individuals or teams must submit a Design Entry as described in 5.3.</p><p>3.    
   If an individual or team is selected as one of the thirty (30) finalists, then
   the individual or team must submit proof of insurance as described in the Team
   Agreement, a final Design Entry as described in 5.3, and a 3D-Printed subscale
-  model as described in 5.4."
+  model as described in 5.4.</p>"
 partnerships: ''
 groupAttributes:
 judging-criteria-description-0: The final competition will be judged by a panel

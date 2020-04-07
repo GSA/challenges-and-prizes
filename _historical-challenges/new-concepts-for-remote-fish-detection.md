@@ -224,28 +224,28 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: <strong>We are seeking new fish tracking capabilities that can significantly
+description: <p><strong>We are seeking new fish tracking capabilities that can significantly
   reduce costs and dramatically increase the effectiveness and efficiency of various
   fish recovery efforts led by federal, state, local, and/or other organizations.
   </strong>    <strong>Enter the competition: <a href="https://www.innocentive.com/ar/challenge/9933646"
-  target="_blank">https://www.innocentive.com/ar/challenge/9933646</a></strong>    The
+  target="_blank">https://www.innocentive.com/ar/challenge/9933646</a></strong></p><p>The
   ability to track fish is central to efforts to recover threatened and endangered
   fish species and reduce impacts to at-risk species. Reliable, affordable detection
   and tracking provides vital information about how many fish are present, where and
   why mortality occurs, and where and why species thrive. This information enables
   fish recovery program managers to pursue targeted and more effective actions that
   can reduce mortality rates, improve habitat, and increase survival rates while continuing
-  to meet Reclamation's mission.    Federal and non-federal resource managers require
+  to meet Reclamation's mission.</p><p>Federal and non-federal resource managers require
   the ability to identify and monitor fish and other aquatic animals.  Fish, in particular,
   use different habitats, from small streams to deep fast-flowing rivers, and large
   lakes and oceans.  A common challenge faced by fish recovery managers is the need
   to monitor movements of free-swimming individual fish without repeated capture and
-  handling.    https://youtu.be/mCw_1zhLybg    The Bureau of Reclamation, in collaboration
+  handling.    https://youtu.be/mCw_1zhLybg  </p><p>  The Bureau of Reclamation, in collaboration
   with other federal agencies (U.S. Geological Survey, U.S. Fish and Wildlife Service,
   NOAA-National Marine Fisheries Service, and U.S. Army Corps of Engineers) are looking
   for detailed concepts for the next generation of fish tracking methods, beyond what
   is available and in the literature today. Emphasis is on accurate tracking of many
-  fish, ease of use, longevity, and low cost.    The goal of this Challenge is to
+  fish, ease of use, longevity, and low cost.  </p><p>  The goal of this Challenge is to
   generate new concepts for tracking fish that advance technologies that meet fish
   recovery program management needs at a reasonable cost.  A solution is being pursued
   through a prize competition because the Bureau of Reclamation and the collaborating
@@ -253,11 +253,11 @@ description: <strong>We are seeking new fish tracking capabilities that can sign
   the usual sources of potential solvers and experts that commonly work in the fish
   recovery management domain. We find ourselves often wondering if somebody, somewhere
   may know a better way of tracking and monitoring fish for our purposes than the
-  methods we currently use.  The prize competition approach enables us to reach a
+  methods we currently use.</p><p>The prize competition approach enables us to reach a
   new source of potential Solvers to generate new and timely solutions that would
   not likely be accomplished by standard contractual methods.    <em>Submissions to
   this Challenge must be received by 11:59 PM (US Eastern Time) on August 26, 2015. 
-  Late submissions will not be considered.</em>    <strong>This is an Ideation Challenge,
+  Late submissions will not be considered.</em>    </p><p><strong>This is an Ideation Challenge,
   which has the following unique features:</strong>  <ul>   <li><strong>There is a
   guaranteed award</strong>.  The awards will be paid to the best submission(s) <strong>as
   solely determined by the Seeker</strong>.  The total payout will be <strong>$20,000</strong>,
@@ -282,8 +282,8 @@ description: <strong>We are seeking new fish tracking capabilities that can sign
   Register Notice</a> for full details</li>  </ul>  After the Challenge deadline,
   the Seeker will evaluate the submissions  and make a decision with regards to the
   Winning Solution(s).  All Solvers that submitted a proposal will be notified on
-  the status of their submissions; however, <strong><u>no detailed evaluation of individual
-  submissions will be provided</u></strong>. Decisions by the Seeker cannot be contested.    &nbsp;    &nbsp;
+  the status of their submissions; however, no detailed evaluation of individual
+  submissions will be provided. </p><p>Decisions by the Seeker cannot be contested.</p>
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []

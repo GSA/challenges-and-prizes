@@ -58,16 +58,16 @@ rules: '<div>  <p id="1-poster-administrator"><strong>1. POSTER [&amp; ADMINISTR
   with the cooperation of the U.S. Department of Agriculture (“USDA”). Microsoft
   (Poster) is the sponsor and entity responsible for the Challenge and is contributing
   the funding. USDA is contributing its data and is supporting and approving this
-  Challenge.    <strong>Administrator </strong>(the “Administrator”): ChallengePost,
-  Inc., 425 W. 13th Street, Suite #504, New York, NY 10014.    <strong>2. DATES
+  Challenge.    </p><p><strong>Administrator </strong>(the “Administrator”): ChallengePost,
+  Inc., 425 W. 13th Street, Suite #504, New York, NY 10014.    </p><p><strong>2. DATES
   AND TIMING</strong>    <strong>Challenge Submission Period:</strong> July 24,
   2015 (10:00am Eastern Time) – October 27, 2015 (5:00pm Eastern Time) (the “Challenge
-  Submission Period”)    <strong>Judging Period:</strong> November 20th 2015 (10:00am
+  Submission Period”)    </p><p><strong>Judging Period:</strong> November 20th 2015 (10:00am
   Eastern Time) – November 17, 2015 (5:00pm Eastern Time) (the “Judging Period”)    <strong>Public
   Voting Period:</strong> November 4, 2015 (10:00am Eastern Time) – November 17,
-  2015 (5:00pm Eastern Time) (the “Public Voting Period”)    <strong>Winners Announced:</strong>
+  2015 (5:00pm Eastern Time) (the “Public Voting Period”)    </p><p><strong>Winners Announced:</strong>
   On or around December 2, 2015 (2:00pm Eastern Time)    The Administrator will
-  be the official timekeeper for the Challenge.    <strong>3. ELIGIBILITY</strong>    <strong>A.
+  be the official timekeeper for the Challenge.    </p><p><strong>3. ELIGIBILITY</strong>  </p><p>  <strong>A.
   The Challenge IS open to: </strong>  <ul>   <li>individuals who are at least
   18 years of age as of the time of entry</li>   <li>teams of eligible individuals</li>   <li>teams
   entering on behalf of organizations (including corporations, not-for-profit
@@ -85,7 +85,7 @@ rules: '<div>  <p id="1-poster-administrator"><strong>1. POSTER [&amp; ADMINISTR
   a Submission (as defined below in Section 4), on their behalf. The Representative
   must meet the eligibility requirements above. By entering a Submission on the
   Site on behalf of a team or organization, you represent and warrant that you
-  are the Representative authorized to act on behalf of your team or organization.    <strong>B.
+  are the Representative authorized to act on behalf of your team or organization.   </p><p> <strong>B.
   The Challenge IS NOT open to: </strong>  <ul>   <li>individuals who are residents
   of, or Organizations or Large Organizations domiciled in, a country, state,
   province or territory where the laws of the United States or local law prohibits
@@ -114,7 +114,7 @@ rules: '<div>  <p id="1-poster-administrator"><strong>1. POSTER [&amp; ADMINISTR
   an organization that is under common control, sharing a common majority or controlling
   owner, or common management; or (b) an organization that has a substantial ownership
   in, or is substantially owned by the other organization.    Additional Prize
-  specific eligibility requirements are stated below in Section 8.    <strong>4.
+  specific eligibility requirements are stated below in Section 8.    </p><p><strong>4.
   SUBMISSION REQUIREMENTS</strong>    Makers must do the following to participate
   in the Challenge:  <ul>   <li>Register for the Challenge on the Challenge Website
   by clicking the “Register” button. To complete registration, sign up to create
@@ -128,20 +128,20 @@ rules: '<div>  <p id="1-poster-administrator"><strong>1. POSTER [&amp; ADMINISTR
   and functionality through a comprehensive demonstration.</li>   <li>Complete
   and enter all of the required fields on the “Enter a Submission” page of the
   Challenge Website (each a “Submission”) during the Challenge Submission Period,
-  and follow the requirements below.</li>  </ul>  <strong>A. Language Requirements </strong>    All
+  and follow the requirements below.</li>  </ul>  </p><p><strong>A. Language Requirements </strong>    All
   Submission materials must be in English or, if not in English, the Maker must
   provide an English translation of the demonstration video, text description,
-  and testing instructions as well as all other materials submitted.    <strong>B.
-  Application Requirements</strong>    (i) <strong>What to Create: </strong>Makers
+  and testing instructions as well as all other materials submitted.</p><p><strong>B.
+  Application Requirements</strong>   </p><p> (i) <strong>What to Create: </strong>Makers
   must create a working, interactive software application that that integrates
   one or more of the required USDA datasets listed in the “Required USDA Datasets”
   section of the Challenge Website Resources page at: <a href="http://usdaapps.challengepost.com/details/resources">http://usdaapps.challengepost.com/details/resources</a>.
   (each an “Application”). The Application must include interactive functionality
   for the end user to access and/or analyze the USDA data. Static data visualizations
-  are not eligible.    (ii) <strong>Functionality: </strong>The Application must
+  are not eligible.    </p><p>(ii) <strong>Functionality: </strong>The Application must
   be capable of being successfully installed and running consistently on the platform
   for which it is intended, and must function as depicted in the video and/or
-  expressed in the text description.    (iii) <strong>Platforms: </strong>A submitted
+  expressed in the text description.    </p><p>(iii) <strong>Platforms: </strong>A submitted
   Application must run on at least one of the following:  <ul>   <li>Android device
   (such as a smartphone, tablet, Google Glass, etc.)</li>   <li>iOS device (such
   as a smartphone, tablet, etc.)</li>   <li>Windows Phone device (such as a smartphone,
@@ -151,7 +151,7 @@ rules: '<div>  <p id="1-poster-administrator"><strong>1. POSTER [&amp; ADMINISTR
   hardware)</li>  </ul>  &nbsp;    (iv) <strong>New &amp; Existing: </strong>Applications
   must be either newly created by the Maker or, if the Application existed prior
   to the Challenge Submission Period, must have integrated the required USDA data
-  after the start of the Challenge Submission Period.    (v) <strong>Testing:
+  after the start of the Challenge Submission Period.    </p><p>(v) <strong>Testing:
   </strong>The Maker must make the Application available free of charge and without
   any restriction, for testing, evaluation and use by the Poster, Administrator
   and judges during the Challenge and until the Judging Period ends. You can make
@@ -170,13 +170,13 @@ rules: '<div>  <p id="1-poster-administrator"><strong>1. POSTER [&amp; ADMINISTR
   and UDID’s to provision a build and send the Administrator a link via the “Share
   Links” button. Add the testing link to the Enter a Submission form under “iOS
   Build Link”.  Beta by Crashalytics is a free service. Please review the <a href="https://dev.twitter.com/crashlytics/beta-distribution">how-to
-  for their Beta Distribution tool</a>.    <strong>Administrator UDIDs:</strong>  <ul>   <li>iPhone
+  for their Beta Distribution tool</a>.    </p><p><strong>Administrator UDIDs:</strong>  <ul>   <li>iPhone
   5 (iOS 8.3) 4c4270daadcf6f2dcd38ef407c38c01c3fa849b8</li>   <li>iPhone 5 (iOS
   8.3) c94acc0069278cee4b38e4d27ae3f838bf50aa79</li>   <li>iPhone 6 (iOS 8.3)
   ac3c04f10b03e033bc31a0d14146d5740bc7db54</li>  </ul>  <a href="https://developer.apple.com/library/ios/documentation/LanguagesUtilities/Conceptual/iTunesConnect_Guide/Chapters/BetaTestingTheApp.html#//apple_ref/doc/uid/TP40011225-CH35-SW2">2. <strong>TestFlight
   / iTunes Connect</strong></a>    Enter the Administrator’s email address to
   share a build for testing. The Administrator’s TestFlight account email is:
-  <a href="mailto:testing@challengepost.com">testing@challengepost.com</a>. <strong>Please
+  <a href="mailto:testing@challengepost.com">testing@challengepost.com</a>. </p><p><strong>Please
   note that if you add the Administrator as an “External Tester” your Application
   will need to go through </strong><a href="https://developer.apple.com/library/ios/documentation/LanguagesUtilities/Conceptual/iTunesConnect_Guide/Chapters/BetaTestingTheApp.html#//apple_ref/doc/uid/TP40011225-CH35-SW13"><strong>Beta
   App Review</strong></a> <strong>before you can send your build. This could lead
@@ -184,11 +184,11 @@ rules: '<div>  <p id="1-poster-administrator"><strong>1. POSTER [&amp; ADMINISTR
   test build before the end of the Challenge Submission Period.</strong> To learn
   more about TestFlight via iTunes Connect, please review the <a href="https://developer.apple.com/library/ios/documentation/LanguagesUtilities/Conceptual/iTunesConnect_Guide/Chapters/BetaTestingTheApp.html#//apple_ref/doc/uid/TP40011225-CH35-SW2">iTunes
   Connect Developer Guide</a> and the <a href="https://itunesconnect.apple.com/downloads/Documentation/TestFlight-v09-iTC-Export-sw.mov">TestFlight
-  Video Tutorial</a>.    3. <strong><a href="http://hockeyapp.net/">HockeyApp</a> </strong>    Send
+  Video Tutorial</a>.    </p><p>3. <strong><a href="http://hockeyapp.net/">HockeyApp</a> </strong>    Send
   a testing link to the Administrator at: <a href="mailto:testing@challengepost.com">testing@challengepost.com</a>,
   and add the testing link on the Enter a Submission form under “iOS Build Link”.
   Please note that there is a <a href="http://hockeyapp.net/pricing/">fee to use
-  HockeyApp</a>.    4. <strong><a href="http://www.diawi.com/index.php">Diawi</a></strong>    Send
+  HockeyApp</a>.    </p><p>4. <strong><a href="http://www.diawi.com/index.php">Diawi</a></strong>    Send
   us your beta file quickly via Diawi. After uploading your file, Diawi creates
   a unique short URL to access the installation page (for ex: aBcDeF). When opened
   in Safari on the iOS device, the page will display a link to install the application.
@@ -238,7 +238,7 @@ rules: '<div>  <p id="1-poster-administrator"><strong>1. POSTER [&amp; ADMINISTR
   or received a commercial license, from the Poster or Administrator any time
   prior to the end of Challenge Submission Period. The Poster, at their sole discretion,
   may disqualify an Application, if awarding a prize to the Application would
-  create a real or apparent conflict of interest.    &nbsp;    <strong>C. Text
+  create a real or apparent conflict of interest.    &nbsp;   </p><p> <strong>C. Text
   Description, Image, and Video Requirements </strong>    <strong>(i) Text Description: </strong>The
   text description should explain the features and functionality of your Application.    <strong>(ii)
   Images: </strong>The image(s) should be photographs or screenshots of your working
@@ -248,8 +248,8 @@ rules: '<div>  <p id="1-poster-administrator"><strong>1. POSTER [&amp; ADMINISTR
   demonstration;    c. must be uploaded to YouTube or Vimeo, and a link to the
   video must be provided on the submission form on the Challenge Website; and    d.
   must not include third party trademarks, or copyrighted music or other material
-  unless the Maker has permission to use such material.    <strong>5. SUBMISSION
-  RIGHTS</strong>    <strong>A. Maker Rights: </strong>Subject to the licenses
+  unless the Maker has permission to use such material.   </p><p> <strong>5. SUBMISSION
+  RIGHTS</strong> </p><p>   <strong>A. Maker Rights: </strong>Subject to the licenses
   described below, any applicable intellectual property rights to a Submission
   will remain with the Maker.    <strong>B. Poster Rights:</strong>By entering
   the Challenge, you grant to the Poster, Administrator, and any other third parties
@@ -272,7 +272,7 @@ rules: '<div>  <p id="1-poster-administrator"><strong>1. POSTER [&amp; ADMINISTR
   may be employees of the Poster or external, may or may not be listed individually
   on the Challenge Website, and may change before or during the Judging Period.
   Judging may take place in one or more rounds with one or more panels of Judges,
-  at the discretion of the Poster.    <strong>B. Criteria: </strong>The Judges
+  at the discretion of the Poster.    </p><p><strong>B. Criteria: </strong>The Judges
   will score eligible Submissions using the following criteria (the “Judging Criteria”):    (i)
   <strong>Quality of Idea</strong> (Includes creativity and originality of the
   idea);    (ii) <strong>Implementation of Idea</strong> (Includes the quality
@@ -286,16 +286,16 @@ rules: '<div>  <p id="1-poster-administrator"><strong>1. POSTER [&amp; ADMINISTR
   The Maker(s) that are (a) eligible for a Prize; (b) entered Submission(s) eligible
   for a Prize based on the Prize-specific category requirements described below
   in Section 8; and (c) earn the highest overall scores based on the applicable
-  Judging Criteria, will become potential winners of that Prize.    <strong>C.
+  Judging Criteria, will become potential winners of that Prize.   </p><p> <strong>C.
   Submission Review:</strong> JUDGES are not required to test the Application
   and may choose to judge based solely on the text description, IMAGES and video
-  provided in the Submission.    <strong>D. Tie Breaker:</strong> For each Prize
+  provided in the Submission.  </p><p>  <strong>D. Tie Breaker:</strong> For each Prize
   listed in Section 7 below, if two or more Submissions are tied, the tied Submission
   with the highest score in the first applicable criterion listed above will be
   considered the higher scoring Submission. In the event any ties remain, this
   process will be repeated, as needed, by comparing the tied Submissions’ scores
   on the next applicable criterion. If two or more Submissions are tied on all
-  applicable criteria, the panel of Judges will vote on the tied Submissions.    <strong>7.
+  applicable criteria, the panel of Judges will vote on the tied Submissions.  </p><p>  <strong>7.
   PRIZES</strong>  <table class="responsive">  <tbody>  <tr>  <td><strong>Winner</strong></td>  <td><strong>Prize </strong></td>  <td><strong>Quantity</strong></td>  <td><strong>Eligible
   Makers</strong></td>  <td><strong>Applicable Category &amp; Judging Criteria</strong></td>  </tr>  <tr>  <td>Best
   Overall App – Grand Prize</td>  <td>US$25,000</td>  <td>1</td>  <td>All except
@@ -316,7 +316,7 @@ rules: '<div>  <p id="1-poster-administrator"><strong>1. POSTER [&amp; ADMINISTR
   Organization Recognition Award</td>  <td>Recognition only</td>  <td>1</td>  <td>Only
   Large Organizations</td>  <td>i, ii, iii, iv</td>  </tr>  </tbody>  </table>  <strong> </strong>    <strong>**</strong>Please
   review the ChallengePost Terms of Service at <a href="http://ChallengePost.com/terms">http://ChallengePost.com/terms</a>
-  for voting rules.    <strong>8. PRIZE SPECIFIC ELIGIBILITY &amp; CATEGORY REQUIREMENTS</strong>    <strong>A.
+  for voting rules.   </p><p> <strong>8. PRIZE SPECIFIC ELIGIBILITY &amp; CATEGORY REQUIREMENTS</strong>    <strong>A.
   Best Open Source App Category Requirements</strong>    For a Submission to be
   eligible for the Best Open Source App Award, it must meet all of the Submission
   Requirements in Section 4, and the Maker must make the Application code available
@@ -326,7 +326,7 @@ rules: '<div>  <p id="1-poster-administrator"><strong>1. POSTER [&amp; ADMINISTR
   in Section 7, provided they meet any applicable Prize-specific eligibility and
   category requirements. Such winners are not eligible for the Large Organization
   Recognition Award, and Large Organizations are not eligible for the Best Open
-  Source App Award.    <strong>B. Best Student-made App Eligibility Requirements</strong>    In
+  Source App Award.   </p><p> <strong>B. Best Student-made App Eligibility Requirements</strong>    In
   addition to the requirements in Section 3, Makers (including all team members,
   if a team submission) must:  <ul>   <li>be currently enrolled in at least nine
   credits or three courses, or the equivalent at the time of entry (or must have
@@ -338,7 +338,7 @@ rules: '<div>  <p id="1-poster-administrator"><strong>1. POSTER [&amp; ADMINISTR
   in Section 7, provided they meet any applicable Prize-specific eligibility and
   category requirements. Such winners are not eligible for the Large Organization
   Recognition Award, and Large Organizations are not eligible for the Best Student-made
-  App Award.    <strong>C. Best Visualization in Time or Space Award Category
+  App Award.    </p><p><strong>C. Best Visualization in Time or Space Award Category
   Requirements</strong>    To be eligible for the Best Visualization in Time or
   Space Award, a Submission must meet all of the Submission Requirements described
   in Section 4, and the requirements of one of the following sub-categories:    <strong>(i)
@@ -360,11 +360,11 @@ rules: '<div>  <p id="1-poster-administrator"><strong>1. POSTER [&amp; ADMINISTR
   they meet any applicable Prize-specific eligibility and category requirements.
   Such winners are not eligible for the Large Organization Recognition Award,
   and Large Organizations are not eligible for the Best Visualization in Time
-  or Space Award.    <strong>9. VERIFICATION OF POTENTIAL WINNERS</strong>    <strong>A.
+  or Space Award.   </p><p> <strong>9. VERIFICATION OF POTENTIAL WINNERS</strong>  </p><p>  <strong>A.
   Verification Requirement: </strong>THE AWARD OF A PRIZE TO A POTENTIAL WINNER
   IS SUBJECT TO VERIFICATION OF THE IDENTITY, QUALIFICATIONS AND ROLE OF THE POTENTIAL
   WINNER IN THE CREATION OF THE SUBMISSION. The final decision to designate a
-  winner shall be made by the Poster and/or Administrator.    <strong>B. Required
+  winner shall be made by the Poster and/or Administrator.    </p><p><strong>B. Required
   Forms: </strong>Potential winners will be notified using the email address associated
   with the ChallengePost account used to enter the Submission (the submitter is
   the “Representative” in the case of a team, Organization, or Large Organization).
@@ -373,7 +373,7 @@ rules: '<div>  <p id="1-poster-administrator"><strong>1. POSTER [&amp; ADMINISTR
   and return to the Poster or Administrator, affidavit(s) of eligibility (or a
   similar verification document) and liability/publicity release(s), and any applicable
   tax forms (“Required Forms”).    <strong>Deadline for Returning Required Forms:
-  </strong>ten (10) business days after the Required Forms are sent.    <strong>C.
+  </strong>ten (10) business days after the Required Forms are sent.  </p><p>  <strong>C.
   Disqualification: </strong>The Poster and/or Administrator may deem a potential
   winner (or participating team members) ineligible to win if:    (i) the potential
   winner’s Representative or any participating member does not respond to multiple
@@ -383,20 +383,20 @@ rules: '<div>  <p id="1-poster-administrator"><strong>1. POSTER [&amp; ADMINISTR
   or any member of a potential winner’s team, Organization, or Large Organization,
   is disqualified for any other reason.    In the event of a disqualification,
   the Poster and/or Administrator may award the applicable Prize to an alternate
-  potential winner.    <strong>10. PRIZE DISTRIBUTION</strong>    <strong>A. Substitutions
+  potential winner.  </p><p>  <strong>10. PRIZE DISTRIBUTION</strong>   </p><p> <strong>A. Substitutions
   &amp; Changes: </strong>The Poster has the right to make a Prize substitution
   of equivalent or greater value. The Poster will not award a Prize if there are
   no eligible Submissions entered in the Challenge, or if there are no eligible
-  Makers or Submissions for a specific Prize.    <strong>B. Prize Delivery: </strong>A
+  Makers or Submissions for a specific Prize.   </p><p> <strong>B. Prize Delivery: </strong>A
   monetary Prize will be mailed to the winning Maker’s address (if an individual)
   or the Representative’s address (if a team or Organization) after receipt of
   the Required Forms. Prizes will be payable to the Maker, if an individual, to
   the Maker’s Representative, if a team, or to the Organization, if the Maker
   is an Organization. It will be the responsibility of the winning Maker’s Representative
   to allocate the Prize among their team or Organization’s participating members,
-  as the Representative deems appropriate.    <strong>C. Prize Delivery Timeframe:
+  as the Representative deems appropriate.   </p><p> <strong>C. Prize Delivery Timeframe:
   </strong>Within 45 days of the Poster or Administrator’s receipt of the Required
-  Forms    <strong>D. Taxes: </strong>Winners (and in the case of team or Organization,
+  Forms   </p><p> <strong>D. Taxes: </strong>Winners (and in the case of team or Organization,
   all participating members) are responsible for reporting and paying all applicable
   taxes in their jurisdiction of residence (federal, state/provincial/territorial
   and local). Winners may be required to provide certain information to facilitate
@@ -409,7 +409,7 @@ rules: '<div>  <p id="1-poster-administrator"><strong>1. POSTER [&amp; ADMINISTR
   relevant government departments/agencies, if necessary. The Poster, Administrator,
   and/or Prize provider reserve the right to withhold a portion of the prize amount
   to comply with the tax laws of the United States or other Poster jurisdiction,
-  or those of a winner’s jurisdiction.    </div>'
+  or those of a winner’s jurisdiction.</p></div>'
 submission-start-date-1: ''
 hide-challenge-timeline: 'No'
 judging-start-date: 11/20/2015 10:00 AM
@@ -610,28 +610,28 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: <h2>Help build a sustainable US food system by putting USDA data into
-  the hands of farmers, researchers, and consumers.</h2>  Being a farmer in America
+description: <h4>Help build a sustainable US food system by putting USDA data into
+  the hands of farmers, researchers, and consumers.</h4>  <p>Being a farmer in America
   is not for the weak of heart. For decades, it has been a game of both chance and
   experience - making farming a difficult industry to enter. In fact, the number of
-  entry-level farmers has fallen by 30% since 1987 (<a href="http://www.cfra.org/resources/beginning_farmer">http://www.cfra.org</a>).    For
+  entry-level farmers has fallen by 30% since 1987 (<a href="http://www.cfra.org/resources/beginning_farmer">http://www.cfra.org</a>).</p><p>For
   those that do enter this industry, farming is becoming an increasingly data and
   technology driven activity. Known as “precision farming” or “precision ag,” farmers
   are now utilizing data from satellites, market reports, weather forecasts, surveys,
-  and sensors that provide on-demand GPS monitoring and mapping tools. (<a href="http://www.usatoday.com/story/money/business/2012/12/02/high-tech-farming/1741071/">http://www.usatoday.com</a>)    Still,
-  it’s not enough.    American farmers need more data in order to create a sustainable
+  and sensors that provide on-demand GPS monitoring and mapping tools. (<a href="http://www.usatoday.com/story/money/business/2012/12/02/high-tech-farming/1741071/">http://www.usatoday.com</a>)</p><p>Still,
+  it’s not enough. American farmers need more data in order to create a sustainable
   food system for the United States. They need to analyse the food supply coming from
   farms and ranches and the economics of consumer demand. They need to know how yields
   have changed over time so they can prepare for and predict future crops. They need
   to know what is growing well in their area and what isn’t. Similarly, consumers
   and researchers want to know where their food is coming from and how we can make
-  US agriculture more sustainable.    The USDA has a tremendous amount of food supply,
+  US agriculture more sustainable.</p><p>The USDA has a tremendous amount of food supply,
   economic demand, and remote sensing data as part of its Agricultural Statistical
   Service (NASS) and Economic Research Service (ERS), the challenge is to explore
   how to make this data accessible and provide insights for potential users.    Help
   create a sustainable, competitive, and healthy US food system. Use USDA data to
   create working, interactive applications to get farmers the information they need
-  – <em>and help feed America.</em>
+  – <em>and help feed America.</em></p>
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []

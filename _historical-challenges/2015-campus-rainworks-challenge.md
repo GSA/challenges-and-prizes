@@ -62,27 +62,27 @@ partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''
-rules: '<strong>Eligibility:</strong>    To compete in the Campus RainWorks Challenge,
+rules: '<strong>Eligibility:</strong>    <p>To compete in the Campus RainWorks Challenge,
   †each student team must be affiliated with a degree-granting public or private
   institution of higher education located in the U.S. and†sponsored by a †faculty
   advisor. All team members must be enrolled in an undergraduate or graduate degree
-  program †at an eligible college or university as of August 31, 2015.    <strong>Submission
+  program †at an eligible college or university as of August 31, 2015.    </p><p><strong>Submission
   Categories:</strong>    To encourage participating teams to assess the environmental,
   economic, and social benefits of green infrastructure at a range of spatial
   scales, EPA is accepting submissions in two design categories: a Demonstration
-  Project category and a Master Plan category.    <strong>Demonstration Project
+  Project category and a Master Plan category.    </p><p><strong>Demonstration Project
   Category:</strong>    For submissions in the Demonstration Project category,
   EPA is seeking proof-of-concept level designs that examine how green infrastructure
   could be integrated into a particular site on the teamís campus to meet multiple
   environmental, educational, and economic objectives. Entries in this category
   should include detailed information on the design and performance of the proposed
   demonstration project, and should reflect extensive consultation with the facilities
-  planning department to assess project feasibility.    <strong>Master Plan Category:</strong>    For
+  planning department to assess project feasibility.    </p><p><strong>Master Plan Category:</strong>    For
   submissions in the Master Plan category, EPA is seeking conceptual designs that
   examine how green infrastructure could be integrated into a broad area of the
   teamís campus. Entries in this category should be coordinated with existing
   campus master plans and should describe how green infrastructure could be used
-  to enhance the long-term sustainability of the campus.    <strong>†For Both
+  to enhance the long-term sustainability of the campus.    </p><p><strong>†For Both
   Categories:</strong>    This year''s competition asks student teams to incorporate
   climate resiliency considerations into their stormwater management designs.
   For both submission categories, teams should examine and describe the current
@@ -91,7 +91,7 @@ rules: '<strong>Eligibility:</strong>    To compete in the Campus RainWorks Chal
   performance of the teamís proposed green infrastructure project can mitigate
   and build resiliency to those impacts while effectively managing stormwater
   runoff (e.g., manage localized flooding, prepare for drought, reduce or eliminate
-  irrigation, reduce urban heat impacts, lower energy demands).    <strong>Submission
+  irrigation, reduce urban heat impacts, lower energy demands).    </p><p><strong>Submission
   Requirements:</strong>    To compete in EPA''s Campus RainWorks Challenge, registered
   teams must submit the following which describe an innovative green infrastructure
   project for a location on their campus:  <ul>    <li>One (1) Project Narrative</li>    <li>Two
@@ -99,7 +99,7 @@ rules: '<strong>Eligibility:</strong>    To compete in the Campus RainWorks Chal
   should provide information of sufficient quality to enable the judges to evaluate
   the design. Submissions should describe the overall project goals, project context
   within the campus or watershed, existing conditions along with the problem to
-  be solved, proposed green infrastructure approaches, and expected outcomes.    <strong>Project
+  be solved, proposed green infrastructure approaches, and expected outcomes.    </p><p><strong>Project
   Narrative:</strong>  <ul>    <li>The intent of the Project Narrative is to provide
   a summary of each team''s approach to addressing the challenge criteria (see
   Judging section).</li>    <li>Each team must prepare a Project Narrative not
@@ -138,7 +138,7 @@ rules: '<strong>Eligibility:</strong>    To compete in the Campus RainWorks Chal
   of Support must be provided in Adobe Acrobat PDF format. Instructions on submitting
   project files are provided below.</li>  </ul>  For complete eligibility requirements
   and rules, please visit the Campus RainWorks Challenge website to read the competition
-  brief: http://water.epa.gov/infrastructure/greeninfrastructure/crw_challenge.cfm    &nbsp;'
+  brief: http://water.epa.gov/infrastructure/greeninfrastructure/crw_challenge.cfm</p>'
 submission-start-date-1: ''
 hide-challenge-timeline: 'No'
 judging-start-date: ''
@@ -162,7 +162,7 @@ how-to-enter: "<strong>Registration:</strong>\r\n\r\nTo compete in EPA's Campus
   form is to allow EPA to confirm the eligibility of each team.\r\n\r\n†Once a
   team has submitted a registration form, the team will receive a registration
   number via email. Registration opens September 1, 2015 and closes September
-  30, 2015.\r\n\r\n<strong>Submission Instructions:</strong>\r\n\r\nEPA will collect
+  30, 2015.\r\n\r\n<br><strong>Submission Instructions:</strong>\r\n\r\nEPA will collect
   submissions to the Campus RainWorks Challenge via email. Participating teams
   must email their submissions to RainWorks@epa.gov by Friday, December 18 at
   11:59 PM EST.\r\n\r\nEmail submissions must include the registration number

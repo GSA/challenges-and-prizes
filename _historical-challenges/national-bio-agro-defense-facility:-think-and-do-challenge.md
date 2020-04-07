@@ -389,30 +389,30 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: 'The Department of Homeland Science Science and Technology Directorate
+description: '<p>The Department of Homeland Science Science and Technology Directorate
   (DHS S&amp;T) Research and Development Partnerships (RDP) Group Office of National
   Labs (ONL) is seeking individuals and entities with unique ideas and concepts to
   jump start the development of an innovation ecosystem focused on Bio/Agro Security.
   Innovation ecosystems typically consist of the people, institutions, policies and
   resources that promote the translation of new ideas into products, processes and
   services. This innovation ecosystem will support one of DHS’s major infrastructure
-  investments: the National Bio and Agro-Defense Facility (NBAF). This prize competition
+  investments: the National Bio and Agro-Defense Facility (NBAF). </p><p>This prize competition
   seeks novel approaches to build one or more pieces of the innovation ecosystem.
   The novel approach will result in enhancement to innovation, collaboration, training,
   and talent, therefore enhancing the NBAF mission. Cash prize(s) awarded from this
   competition are intended to fund a portion of the operating budget for the idea(s)
   and associated business plan(s) that provides the best solution to build one or
-  more pieces of an innovation ecosystem that aligns to the needs of the NBAF mission.    In
+  more pieces of an innovation ecosystem that aligns to the needs of the NBAF mission.</p><p>In
   2022, DHS S&amp;T will open the National Bio and Agro-Defense Facility (NBAF) in
   Manhattan, Kansas. This state-of-the-art maximum biocontainment facility will offer
   leading-edge capabilities to help protect our food supply and the nation’s public
-  health.    Without a smart strategy, a laboratory can function as an island unto
+  health.</p><p>Without a smart strategy, a laboratory can function as an island unto
   itself, unable to capitalize on the benefits of collaboration, innovation, talent
   and training that are necessary to support the mission over time. The NBAF “Think
   and Do Challenge” is an opportunity for thinkers, doers, and entrepreneurs to offer
   fresh approaches, unique ideas or proven methods to jumpstart development of an
   instrument that enhances the NBAF’s role in shaping bio/agro security for the 21<sup>st</sup>
-  Century.    According to the World Health Organization, approximately 75 percent
+  Century.</p><p>According to the World Health Organization, approximately 75 percent
   of new and emerging infectious diseases are zoonotic diseases which may be transmitted
   from animals to humans. The United States currently does not have a laboratory facility
   with maximum biocontainment (BSL-4) space to study high-consequence zoonotic diseases
@@ -420,7 +420,7 @@ description: 'The Department of Homeland Science Science and Technology Director
   States to provide BSL-4 laboratories capable of housing cattle and other large livestock.
   NBAF will also feature a vaccine development module to augment its laboratory research
   and accelerate the transfer of new science and technology into the marketplace.
-  See <a href="http://www.dhs.gov/science-and-technology/national-bio-and-agro-defense-facility">http://www.dhs.gov/science-and-technology/national-bio-and-agro-defense-facility</a>    NBAF’s
+  See <a href="http://www.dhs.gov/science-and-technology/national-bio-and-agro-defense-facility">http://www.dhs.gov/science-and-technology/national-bio-and-agro-defense-facility</a>    </p><p>NBAF’s
   location in Manhattan, Kansas, places it within the Kansas City Animal Health Corridor,
   the largest concentration of animal health companies in the world. NBAF will be
   constructed and operated on a secure federally owned site on the northwest corner
@@ -433,7 +433,7 @@ description: 'The Department of Homeland Science Science and Technology Director
   enable skilled training, talent development, and regional economic growth. BASIS
   is strengthened by NBAF’s proximity to a network of organizations with veterinary,
   agricultural, and animal pharmaceutical expertise.    A video presentation that
-  outlines the strategic vision of the innovation ecosystem can be found at <a href="http://www.nbafchallenge.gov/">www.nbafchallenge.gov</a>.
+  outlines the strategic vision of the innovation ecosystem can be found at <a href="http://www.nbafchallenge.gov/">www.nbafchallenge.gov</a>.</p><p>
   The National Science Foundation has identified a number of the features of an innovation
   ecosystem. For more information see: <a href="http://www.nsf.gov/news/special_reports/i-corps/ecosystem.jsp">http://www.nsf.gov/news/special_reports/i-corps/ecosystem.jsp</a>    While
   a number of the features are in place to establish an innovation ecosystem focused
@@ -449,11 +449,11 @@ description: 'The Department of Homeland Science Science and Technology Director
   would accelerate agricultural technologies to market; Collaboration Component: The
   prize competition winner would receive a cash prize to accelerate novel tools to
   facilitate virtual research collaboration across long distances or other barriers
-  (i.e. from within biocontainment).    The concepts above are provided as illustrations.
+  (i.e. from within biocontainment).</p><p>The concepts above are provided as illustrations.
   Solvers are encouraged to develop their own concepts or to build upon the ideas
   above. Proposed Solutions should pursue economic, scientific, educational and technical
   opportunities that will advance the development of a vital innovation ecosystem
-  around NBAF, comprising elements of innovation, collaboration, talent, and training.'
+  around NBAF, comprising elements of innovation, collaboration, talent, and training.</p>'
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []

@@ -46,72 +46,72 @@ estimated-value-of-partner-contributions: ''
 non-monetary-incentives-awarded: 'Three prizes were given as planned, but the
   judges decided to give additional , non-monetary honorable mention recognitions
   to two of the apps because they were impressed with them. '
-partner-agencies-federal: '0'
+partner-agencies-federal: ''
 judging-end-date: 11/04/2015 03:00 PM
 solicitation-methods: ''
 advancing-the-agency-mission: ''
-rules: '<h4 id="the-official-rules-are-posted-in-the-federal-register-at-linkhere-and-copied-below-for-your-convenience-in-the-unlikely-event-of-a-discrepancy-the-federal-register-notice-is-the-official-documentation-of-the-rules-for-this-competition">The
+rules: '<h4>The
   Official Rules are posted in the Federal Register and copied below. In the unlikely
   event of a discrepancy, the Federal Register Notice is the official documentation
-  of the rules for this Competition.</h4>  <strong>Eligibility Rules for Participating
-  in the Competition</strong>    This Competition is open to all individuals over
+  of the rules for this Competition.</h4>  <p><strong>Eligibility Rules for Participating
+  in the Competition</strong>    </p><p>This Competition is open to all individuals over
   the age of 18 that are residents of the 50 United States, the District of Columbia,
   Puerto Rico, the U.S. Virgin Islands, Gauam, the Commonwealth of the Northern
   Mariana Islands, and American Samoa, and to for-profit or non-profit corporations,
   institutions, or other validly formed legal entities organized or incorporated
   in, <em>and</em> which maintain a primary place of business in, any of the preceding
-  jurisdictions.  An individual, whether participating singly or with a group,
-  must be a citizen or permanent resident of the United States.    To be eligible
+  jurisdictions. </p><p>An individual, whether participating singly or with a group,
+  must be a citizen or permanent resident of the United States.</p><p>To be eligible
   to win a Competition prize, a Participant (whether an individual or legal entity)
   must have registered to participate, must have complied with all the requirements
-  under section 3719 of title 15, United States Code (“Prize competitions”).    A
+  under section 3719 of title 15, United States Code (“Prize competitions”).</p><p>A
   Participant shall not be deemed ineligible because the Participant used Federal
   facilities or consulted with Federal employees in preparing its submission to
   the Competition if the facilities and employees are made available to all Participants
-  on an equitable basis.    Multiple entries are permitted.  Each entry will be
+  on an equitable basis.</p><p>Multiple entries are permitted.  Each entry will be
   reviewed independently.  Multiple individuals and/or legal entities may collaborate
   as a group to submit a single entry, in which case all members of the group
   must satisfy the eligibility requirements, and a single individual from the
   group must be designated as an official representative for each entry.  That
   designated individual will be responsible for meeting all entry and evaluation
-  requirements.  Participation is subject to all U.S. federal, state and local
+  requirements.</p><p>Participation is subject to all U.S. federal, state and local
   laws and regulations.  Void where prohibited or restricted by law.  Participants
   are responsible for checking applicable laws and regulations in their jurisdiction(s)
   before participating in this Competition, to ensure that their participation
-  is legal.  Individuals entering on behalf of or representing a company, institution
+  is legal.</p><p>Individuals entering on behalf of or representing a company, institution
   or other legal entity are responsible for confirming that their entry does not
   violate any policies of that company, institution or legal entity.    NIST employees,
   NIST associates, and any other individuals or legal entities involved with the
   design, production, execution, distribution or evaluation of the Competition,
   are not eligible to enter. Federal entities and non-NIST Federal employees acting
   in their official capacities are not eligible to enter. NIST employees and NIST
-  Guest Researchers are <em>not</em> eligible to enter.  Non-NIST Federal employees
+  Guest Researchers are <em>not</em> eligible to enter.</p><p>Non-NIST Federal employees
   acting in their personal capacities should consult with their respective agency
   ethics officials to determine whether their participation in this Competition
-  is permissible.    <strong>Entry Process for Participants</strong>    To enter,
+  is permissible.</p><p><strong>Entry Process for Participants</strong>   </p><p> To enter,
   create a user account at ChallengePost and register your interest in participating
   in the Competition at the <a title="Event Website" href="http://nistdata.challengepost.com">Event
   Website</a>. Create an App (as defined herein) that uses at least one of the
   <a title="Eligible NIST Datasets" href="http://nistdata.challengepost.com/details/data">Eligible
-  NIST Datasets</a> identified on the Event Website.    NIST provides free online
+  NIST Datasets</a> identified on the Event Website.   </p><p> NIST provides free online
   access to high quality scientific data in a wide range of disciplines. The eligible
   NIST datasets for this Competition pertain to physics and chemistry and are
   frequently used by high school, college, and graduate students in advanced chemistry
-  and physics coursework. For example, below are links to four NIST Standard Reference
-  Data that represent some of the eligible NIST datasets for this Competition:    (1)
-  Ground Levels and Ionization Energies for the Neutral Atoms (SRD 111, <a href="http://www.nist.gov/pml/data/ion_energy.cfm">http://www.nist.gov/pml/data/ion_energy.cfm</a>),    (2)
-  Atomic Weights and Isotopic Compositions (SRD 144, <a href="http://www.nist.gov/pml/data/comp.cfm">http://www.nist.gov/pml/data/comp.cfm</a>),    (3)
+  and physics coursework. </p><p>For example, below are links to four NIST Standard Reference
+  Data that represent some of the eligible NIST datasets for this Competition:    </p><p>(1)
+  Ground Levels and Ionization Energies for the Neutral Atoms (SRD 111, <a href="http://www.nist.gov/pml/data/ion_energy.cfm">http://www.nist.gov/pml/data/ion_energy.cfm</a>),    </p><p>(2)
+  Atomic Weights and Isotopic Compositions (SRD 144, <a href="http://www.nist.gov/pml/data/comp.cfm">http://www.nist.gov/pml/data/comp.cfm</a>),    </p><p>(3)
   CODATA Fundamental Physical Constants (SRD 121, <a href="http://physics.nist.gov/cuu/Constants/">http://physics.nist.gov/cuu/Constants/</a>),
-  and    (4) the NIST Computational Chemistry Comparison and Benchmark Database
+  and    </p><p>(4) the NIST Computational Chemistry Comparison and Benchmark Database
   (SRD 101, <a href="http://cccbdb.nist.gov">http://cccbdb.nist.gov</a>).    These
   four datasets are a subset of the <a title="Eligible NIST Datasets" href="http://nistdata.challengepost.com/details/data">Eligible
-  NIST Datasets</a> that are listed on the Event Website, <a href="http://nistdata.challengepost.com">http://nistdata.challengepost.com</a>.
+  NIST Datasets</a> that are listed on the Event Website, <a href="http://nistdata.challengepost.com">http://nistdata.challengepost.com</a>.</p><p>
   The data listed above represent some of the most fundamental data in the NIST
   SRD collection – from the speed of light to the atomic weight of carbon. Participants
   in this Competition are invited to integrate other freely available datasets
   into their applications to increase the usefulness of the data to a wider audience.
   For example, additional free online NIST Standard Reference Data can be found
-  by searching the NIST Data Gateway at <a href="http://srdata.nist.gov/gateway">http://srdata.nist.gov/gateway</a>.    While
+  by searching the NIST Data Gateway at <a href="http://srdata.nist.gov/gateway">http://srdata.nist.gov/gateway</a>.    </p><p>While
   not required, other freely available scientific data (from NIST or other third
   party providers) may enhance the usefulness of the App for other users. A submission
   requires (1) your App software provided to the Competition Sponsor at no cost;
@@ -120,13 +120,13 @@ rules: '<h4 id="the-official-rules-are-posted-in-the-federal-register-at-linkher
   (4) a brief (less than five minutes) video demonstrating the functionality of
   your App; and (5) confirmation that you have read and agree to the Competition
   Rules contained in this Notice.  Competition Entries must be submitted no later
-  than 5:00 PM EDT on the closing date listed on the Event Website.    Entries
+  than 5:00 PM EDT on the closing date listed on the Event Website.    </p><p>Entries
   submitted before the start date and time, or after the end date and time, will
   not be evaluated or considered for award.  Entries sent to NIST in any manner
   other than through the Event Website will not be evaluated or considered for
   award.  Entries that do not comply with the formatting requirements set forth
   in this Notice and the Event Website will not be evaluated or considered for
-  award.    Entries must be complete, non-confidential and in English.  <h5 id="in-general-each-entry"><strong>In
+  award.    </p><p>Entries must be complete, non-confidential and in English.  <h5 id="in-general-each-entry"><strong>In
   general, each Entry:</strong></h5>  a)   Must affirmatively represent that the
   Participant (and each Participant if more than one) has read and consents to
   be governed by the Competition rules and meets the eligibility requirements;    b)  
@@ -141,7 +141,7 @@ rules: '<h4 id="the-official-rules-are-posted-in-the-federal-register-at-linkher
   file, or shared test build. Details are provided at the Event Website. Namely,
   for Android or Windows applications, the Participant can upload an .apk file
   in the submission form or provide a link for the Competition Sponsor to download
-  the Participant’s App.  For iOS applications, the Participant should provide
+  the Participant’s App. </p><p>For iOS applications, the Participant should provide
   a link if it is in the Apple Store (promo code must be provided if the Participant
   charges money for the app).  If a Participant’s iOS App is not yet publicly
   available, the Participant must send a test build following the instructions
@@ -151,7 +151,7 @@ rules: '<h4 id="the-official-rules-are-posted-in-the-federal-register-at-linkher
     Must include a weblink (YouTube or Vimeo) to a short (less than five minutes)
   video that demonstrates the functionality of the application. Participant must
   have permission to use all content in the video, including footage, music and
-  images.    &nbsp;  <h4 id="competition-award-s"><strong>Competition Award(s)</strong></h4>  The
+  images.</p>    &nbsp;  <h4 id="competition-award-s"><strong>Competition Award(s)</strong></h4>  The
   Prize Purse is a total of $45,000.  The Prize Purse may increase, but will not
   decrease.  Any increases in the Prize Purse will be posted on the Event Website
   and published in the Federal Register.  The Prize Purse will be used to fund
@@ -641,22 +641,22 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: Scientists and engineers need data—from the atomic weight of carbon and
+description: <p>Scientists and engineers need data—from the atomic weight of carbon and
   the structure of benzene, to the most precise value for the speed of light. High
   quality physical and chemical reference data help researchers design experiments,
   build better products, solve health and environmental problems, and even study the
   stars. The National Institute of Standards and Technology, NIST, is a non-regulatory
-  agency of the United States Department of Commerce. NIST provides some of the most
+  agency of the United States Department of Commerce. </p><p>NIST provides some of the most
   accurate and comprehensive datasets in the world. Physicists, biochemical engineers,
   environmental researchers, and many other technically trained experts routinely
   use NIST Standard Reference Data in their workday. Students from high school through
   graduate school use the same datasets to master the ropes of scientific discovery.
   NIST needs help making sure our customers can find and better use our reference
-  data, putting the information in the hands of scientists and engineers. The eligible
+  data, putting the information in the hands of scientists and engineers. </p><p>The eligible
   NIST datasets for this challenge include chemical and physical datasets that are
   frequently accessed, and/or data that is related and would be good for mash ups. 
   Help drive innovation and support research by developing your own mobile applications
-  that use NIST Standard Reference Data!
+  that use NIST Standard Reference Data!</p>
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
