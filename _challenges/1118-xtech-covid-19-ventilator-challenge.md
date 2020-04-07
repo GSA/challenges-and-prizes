@@ -26,8 +26,6 @@ challenge-manager: Zeke Topolosky
 challenge-manager-email: zeke.j.topolosky.civ@mail.mil
 point-of-contact: usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil
 ---
-
-
 <!-- Description start -->
 
 ### Description
@@ -36,7 +34,7 @@ point-of-contact: usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil
 
 The Army is conducting a change of mission to focus on combating the COVID-19 pandemic. With this new mission, the Army will protect the force, posture the force to maintain global operational readiness, and support the national effort to fight against COVID-19. The Army continually assesses how we will best protect Soldiers, Civilians and their families, maintain force readiness to meet global challenges, and provide support to the FEMA-lead national COVID-19 response.
 
-Accordingly, effective immediately, the Army Acquisition Executive is launching the xTech: COVID-19 Ventilator Challenge to all innovators across the nation.  The Army solicits the innovation community's ideas for combatting this unprecedented modern pandemic.  The prize competition will evaluate technology proposals immediately upon submission and award novel solutions with a prize of $5,000 to present a virtual pitch of the technology concept to the xTech COVID-19 panel, and award prizes of $100,000 to solutions accepted by the panel to develop a concept prototype.  Select technologies may receive follow on contracts for additional production and deployment.  The efforts described in this Notice are being pursued under the authorities of 10 USC 2374a.
+Accordingly, effective immediately, the Army Acquisition Executive is launching the xTech: COVID-19 Ventilator Challenge to all innovators across the nation. The Army solicits the innovation community's ideas for combatting this unprecedented modern pandemic. The prize competition will evaluate technology proposals immediately upon submission and award novel solutions with a prize of $5,000 to present a virtual pitch of the technology concept to the xTech COVID-19 panel, and award prizes of $100,000 to solutions accepted by the panel to develop a concept prototype.  Select technologies may receive follow on contracts for additional production and deployment.  The efforts described in this Notice are being pursued under the authorities of 10 USC 2374a.
 
 <!-- Prizes start -->
 
@@ -44,7 +42,16 @@ Accordingly, effective immediately, the Army Acquisition Executive is launching 
 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+Prizes will be offered under 10 USC §2374a (Prize competitions). The total prize pool is $1,000,000.00. 
 
+Phase
+
+* Application Part 1: White Paper - $5,000
+* Application Part 2: Technology Pitches - $100,000
+
+Number of winners is to be determined, with total prizes not to exceed $1,000,000.00.
+
+In addition, detailed feedback will be provided to all participants at the end of each phase. The purpose of providing this feedback is to help accelerate transition of the technology by providing suggestions for product improvement, and recommended next steps for development.  
 
 <!-- Rules start -->
 
@@ -52,7 +59,7 @@ Accordingly, effective immediately, the Army Acquisition Executive is launching 
 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-The Ventilator Challenge is voluntary and open to all US-based entities.  Registration information and upload submission will be accepted beginning 5 April 2020 and will be reviewed upon receipt.  Submissions that are approved by the Ventilator Challenge judging panel will be invited to deliver a virtual pitch to the panel starting on 13 April 2020.  Virtual pitch schedules are dependent on submission date and will be scheduled with selected submitters.  Applicants should be prepared to deliver a virtual pitch of their concept within 1 week of submitting the application.
+The Ventilator Challenge is voluntary and open to all US-based entities. Registration information and upload submission will be accepted beginning 5 April 2020 and will be reviewed upon receipt. Submissions that are approved by the Ventilator Challenge judging panel will be invited to deliver a virtual pitch to the panel starting on 13 April 2020. Virtual pitch schedules are dependent on submission date and will be scheduled with selected submitters. Applicants should be prepared to deliver a virtual pitch of their concept within 1 week of submitting the application.
 
 #### Terms and Conditions
 
@@ -72,6 +79,17 @@ For the xTech: COVID-19 Ventilator Challenge:
 
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+Each application will be reviewed by a panel of experts from the Army, medical, and manufacturing communities.
+
+Judging Criteria
+
+Part 1 applications will be evaluated and ranked using the following Scoring Criteria (further details on each scoring dimension can be found on the xTech|COVID-19 registration page):
+
+* Requirements Alignment – 30%
+* Technical Viability – 20%
+* Regulatory – 20%
+* Speed – 30%
+
 <!--  How To Enter start -->
 
 ### How To Enter
@@ -82,8 +100,7 @@ Register now: https://www.xtechsearch.army.mil/
 
 **Submission Format** 
 
-*Part 1: Concept Submission Quad Chart and Video*
-All eligible entities shall submit a concept quad chart and accompanying video up to 3 minutes in length outlining their technology, the technical viability of their approach, human and clinical risk, and speed to production.  Please adhere to the following requirements:
+*Part 1: Concept Submission Quad Chart and Video* All eligible entities shall submit a concept quad chart and accompanying video up to 3 minutes in length outlining their technology, the technical viability of their approach, human and clinical risk, and speed to production.  Please adhere to the following requirements:
 
 * All concept quad charts must be submitted using the template found on the registration page, “xTechCOVID19_QuadChart_Template.ppt”.  Any proposals submitted in a format other than that provided by the template will not be reviewed.
 * Please include on your quad chart your company name, proposal title, and company logo EXACTLY how you would like them to appear on any contest marketing materials.
@@ -92,3 +109,5 @@ All eligible entities shall submit a concept quad chart and accompanying video u
 *Part 2: Technology Pitches* 
 
 Selected participants will conduct a virtual pitch to the Ventilator Challenge panel of Army, medical, and manufacturing experts.  Detailed pitch instructions and evaluation criteria will be provided to selected applicants.  Technology pitches selected to meet the requirements of this posted solicitation will receive a prize of $100,000 and will be invited to develop and demonstrate a concept prototype to potentially receive follow on contracts for additional production and deployment.
+
+![xTech COVID-19 now accepting submissions](/assets/netlify-uploads/xtech-covid-inline-image-copy.png)
