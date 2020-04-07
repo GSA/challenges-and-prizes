@@ -13,7 +13,7 @@ tagline: >-
   augment ventilator capacity during the COVID-19 pandemic.  
 agency: Department of Defense - U.S. Army
 partner-agencies-federal: ''
-external-url: 'https://www.xtechsearch.army.mil/'
+external-url: ''
 total-prize-offered-cash: '$1,000,000'
 type-of-challenge:
   - Ideas
