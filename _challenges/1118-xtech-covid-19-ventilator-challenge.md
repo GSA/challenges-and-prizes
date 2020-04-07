@@ -42,12 +42,10 @@ Accordingly, effective immediately, the Army Acquisition Executive is launching 
 
 Prizes will be offered under 10 USC §2374a (Prize competitions). The total prize pool is $1,000,000.00. 
 
-Phase
-
 * Application Part 1: White Paper - $5,000
 * Application Part 2: Technology Pitches - $100,000
 
-Number of winners is to be determined, with total prizes not to exceed $1,000,000.00.
+Number of winners is to-be determined, with total prizes not to exceed $1,000,000.00.
 
 In addition, detailed feedback will be provided to all participants at the end of each phase. The purpose of providing this feedback is to help accelerate transition of the technology by providing suggestions for product improvement, and recommended next steps for development.  
 
