@@ -3,7 +3,7 @@ challenge-title: MIT COVID19 Challenge
 layout: front-matter-data-netlify
 permalink: /challenge/MIT-COVID19-challenge/
 challenge-id: 1114
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/mit-covid-19.png
 agency-logo: /assets/netlify-uploads/valogo.png
@@ -17,8 +17,8 @@ total-prize-offered-cash: null
 type-of-challenge: >-
   Software and apps; Creative (multimedia & design); Technology demonstration
   and hardware; Analytics, visulizations, algorithms; Scientific
-submission-start: '2020/03/24 01:00 PM'
-submission-end: '2020/04/03 12:00 PM'
+submission-start: '03/24/2020 01:00 PM'
+submission-end: '04/03/2020 12:00 PM'
 fiscal-year: FY20
 legal-authority: Grants and cooperative agreements
 challenge-manager: Suzanne Shirley
