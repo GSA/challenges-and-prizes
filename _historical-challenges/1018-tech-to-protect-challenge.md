@@ -17,7 +17,7 @@ type-of-challenge: software and apps
 submission-start: 06/01/2019 12:00 PM
 submission-end: 11/16/2019 03:00 AM
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: FY19-FY20
 legal-authority: America COMPETES
 challenge-manager: Craig Connelly
@@ -73,15 +73,14 @@ challenge-manager-email: craig.connelly@nist.gov
    
 <div class="prize-item">
 <h4 class="text-primary">Prizes Anticipated for the Online & National Awards Event Contests</h4>
-<p class="prize"><strong>$1,850,000</strong></p>
-<div class="description">
-<p><strong>Cash prizes in each of the ten discrete contests</strong></p>
-<p><em>1st Place:</em> $30,000 x 10 = $300,000</p>
-<p><em>2nd Place:</em> $20,000 x 10 = $200,000</p>
-<p><em>3rd Place:</em> $15,000 x 10 = $150,000</p>
-<p><em>Seed and Progress Contest Awards:</em> $100,000 x 12 = $1,200,000</p>
-<p><strong><em>Total National Cash &amp; Non-Cash Prizes:</em> $1,850,000</strong></p>
-</div>
+<p><strong>Finalist solutions will be given an adjectival rating corresponding to a cash prize</strong></p>
+<p><em>Excellent:</em>&nbsp;&nbsp; $40,000 x 4&nbsp;&nbsp; = $160,000</p>
+<p><em>Superior:&nbsp;</em>&nbsp;&nbsp; $20,000 x 5&nbsp;&nbsp; = $100,000</p>
+<p><em>Very Good:</em>&nbsp;$15,000 x 6&nbsp;&nbsp; = $75,000</p>
+<p><em>Good:</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $10,000 x 10 = $100,000</p>
+<p><em>Unacceptable:</em> no cash prize</p>
+<p><em>Seed and Progress Contest Awards:</em>&nbsp;$100,000 x 12 = $1,200,000</p>
+<p><em><strong>Total National Cash &amp; Non-Cash Prizes:&nbsp;$1,635,000</strong></em></p>
 </div>
              
 
@@ -90,7 +89,7 @@ challenge-manager-email: craig.connelly@nist.gov
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="description">
-        <p>Below are the rules on eligibility and submissions, as well as additional terms and conditions. Please read&nbsp; the <a href="{{ site.baseurl }}/assets/document-library/3.2_TechtoProtectChallenge_Program-Rules.FINAL.4.1.19.pdf" target="_blank" rel="noopener">Official Rules document</a> for detailed rules on all aspects of this challenge.</p>
+        <p>Below are the rules on eligibility and submissions, as well as additional terms and conditions. Please read&nbsp; the original <a href="{{ site.baseurl }}/assets/document-library/3.2_TechtoProtectChallenge_Program-Rules.FINAL.4.1.19.pdf" target="_blank" rel="noopener">Official Rules document</a> as well as the <a href="{{ site.baseurl }}/assets/document-library/TTP-Rules-Changes-FINAL.pdf" target="_blank" rel="noopener">rules modification</a> posted March 19, 2020 for detailed rules on all aspects of this challenge.</p>
 <p>---</p>
 <p><strong>7. SUBMISSION AND ELIGIBILITY REQUIREMENTS</strong></p>
 <p><strong>7.1 SUBMISSION REQUIREMENTS</strong></p>

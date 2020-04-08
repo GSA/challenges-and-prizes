@@ -17,6 +17,6 @@ type-of-challenge: Analytics, visualization, algorithms
 submission-start: 03/27/2019 02:00 PM
 submission-end: 06/18/2019 05:00 PM
 submission-link:  
-prizes: true
+prize: true
 ---
 

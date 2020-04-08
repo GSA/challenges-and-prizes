@@ -11,7 +11,9 @@ permalink: json-page
             {% include alert-banner-closed-challenge.html %}
             {% endif %}  
             <h1 class="text-primary-dark">{{ page.challenge-title }}</h1>
+            {% if page.tagline != "" %}
             <h3 class="text-primary">{{ page.tagline }}</h3>
+            {% endif %}  
             <h4 class="text-base-dark  desktop-only-display">{{ page.agency }}</h4> 
             <!-- Start Accordion -->
             <div class="usa-accordion">

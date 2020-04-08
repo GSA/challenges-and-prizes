@@ -17,11 +17,12 @@ type-of-challenge: Ideas; Software and apps
 submission-start: 09/16/2019 12:00 AM
 submission-end: 01/13/2020 11:59 PM
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: FY19, FY20
 legal-authority: Procurement Authority
-challenge-manager: Patricia Watts, patricia.watts@faa.gov
-challenge-manager-email: faachallenge@nianet.org
+challenge-manager: Patricia Watts
+challenge-manager-email: patricia.watts@faa.gov
+point-of-contact: faachallenge@nianet.org
 ---
 
 

@@ -17,7 +17,7 @@ type-of-challenge: Creative (design and multimedia)
 submission-start: 02/15/2019 9:00 AM 
 submission-end: 04/30/2019 12:00 PM
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: FY19
 legal-authority: America COMPETES
 challenge-manager: Amanda Griffin 
@@ -33,11 +33,11 @@ challenge-manager-email: amanda.griffin@nasa.gov
 <h3>Winners Announced</h3>
 <p>NASA's Kennedy Space Center has announced the winners of the Artists Inspire Challenge as follows: </p>
 <ul>
-<li><strong>Winner:</strong> Juan Diego Medellin, <strong>Title: </strong>A Dream is Never Too Far To Reach</li>
-<li><strong>Winner:</strong> Cayla Massarelli, <strong>Title: </strong>Suerpgrediatur</li>
-<li><strong>Winner:</strong> Adrianna Allen, <strong>Title: </strong>Emanation</li>
-<li><strong>Winner:</strong> Michael Hallberg, <strong>Title: </strong>Ad Astra Ascendo</li>
-<li><strong>Winner:</strong> Bryan Larson, <strong>Title: </strong>Anticipation</li>
+<li><strong>Winner:</strong> Juan Diego Medellin <strong>Title: </strong>A Dream is Never Too Far To Reach</li>
+<li><strong>Winner:</strong> Cayla Massarelli <strong>Title: </strong>Supergrediatur</li>
+<li><strong>Winner:</strong> Adrianna Allen <strong>Title: </strong>Emanation</li>
+<li><strong>Winner:</strong> Michael Hallberg <strong>Title: </strong>Ad Astra Ascendo</li>
+<li><strong>Winner:</strong> Bryan Larson <strong>Title: </strong>Anticipation</li>
 </ul>
 <div class="description">
 <p><img src="{{ site.baseurl }}/assets/images/challenge-content/NASA-art-astronauts-contest2.png" alt="NASA challenge logo"></p>

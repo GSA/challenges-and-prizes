@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 70
+challenge-id: 70
 moderatorAdminOnlyIdeasEnabled: true
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: false
@@ -47,7 +47,7 @@ solution-type: Scientific
 partner-agencies-non-federal: ''
 original-post-id: ''
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 type-of-challenge: Scientific
 participation-requirements: ''
 number-of-phases: ''

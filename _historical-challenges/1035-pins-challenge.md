@@ -17,7 +17,7 @@ type-of-challenge: Scientific
 submission-start: 05/20/2019 12:00 AM
 submission-end: 08/30/2019 11:59 PM
 submission-link:  
-prizes: true
+prize: true
 ---
 
 

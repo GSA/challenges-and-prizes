@@ -17,7 +17,7 @@ type-of-challenge: Scientific
 submission-start: 03/01/2018 12:00 AM 
 submission-end: 02/28/2019 11:59 PM 
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: 2019
 legal-authority: America COMPETES Act
 challenge-manager: Denice Shaw
@@ -54,28 +54,28 @@ challenge-manager-email: Shaw.Denice@epa.gov
 <li>National Institute of Science and Technology (NIST)</li>
 <li>Cleveland Water Alliance (CWA)</li>
 </ul>
-<p style="text-align: justify;"><a href="https://www.challenge.gov/wp-content/uploads/2018/02/Untitled-collage-1.png"><img class="alignleft wp-image-175635" src="https://www.challenge.gov/wp-content/uploads/2018/02/Untitled-collage-1-1024x95.png" alt="" width="724" height="67" /></a></p>
+<p style="text-align: justify;"><a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/02/Untitled-collage-1.png"><img class="alignleft wp-image-175635" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/02/Untitled-collage-1-1024x95.png" alt="" width="724" height="67" /></a></p>
 <hr />
 <h4 style="text-align: justify;"><strong><span style="color: #339966;">POWERPOINTS AND WEBINARS</span></strong></h4>
 <ul>
 <li>Webinar presented on 1-30-2018 where USGS and Casco Bay Estuary Partnership discuss best practices for nutrient sensor deployment.
 <ul>
-<li><strong><a href="https://www.challenge.gov/wp-content/uploads/2018/02/NSAC-Stage-II-Webinar-1-30-18.pdf">USGS Sensor Deployment NSAC Stage II Webinar 1-30-18</a></strong></li>
+<li><strong><a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/02/NSAC-Stage-II-Webinar-1-30-18.pdf">USGS Sensor Deployment NSAC Stage II Webinar 1-30-18</a></strong></li>
 </ul>
 </li>
 <li>Webinar presented on 2-6-2018 focusing on usage of web services that have been selected to support the interoperability requirement.
 <ul>
-<li><strong><a href="https://www.challenge.gov/wp-content/uploads/2018/02/NSAC-Stage-II-Webinar-2-6-18.pptx">Interoperability NSAC Stage II Webinar 2-6-18</a></strong></li>
+<li><strong><a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/02/NSAC-Stage-II-Webinar-2-6-18.pptx">Interoperability NSAC Stage II Webinar 2-6-18</a></strong></li>
 </ul>
 </li>
 <li>Webinar presented on 2-22-2018 reviewing Stage I of the Nutrient Sensor Action Challenge and looking forward to Stage II.
 <ul>
-<li><strong><a href="https://www.challenge.gov/wp-content/uploads/2018/02/Preliminary-NSAC-Stage-II-Webinar-2_22_18.pptx">Preliminary NSAC Stage II Webinar 2-22-18</a></strong></li>
+<li><strong><a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/02/Preliminary-NSAC-Stage-II-Webinar-2_22_18.pptx">Preliminary NSAC Stage II Webinar 2-22-18</a></strong></li>
 </ul>
 </li>
 <li>Webinar presented on 3-15-2018 summarizing Stage II of the Nutrient Sensor Action Challenge and reviewing the Challenge.gov page.
 <ul>
-<li><strong><a href="https://www.challenge.gov/wp-content/uploads/2018/02/NSAC-Public-Webinar-3-15-18.pptx">NSAC Public Webinar 3-15-18</a></strong></li>
+<li><strong><a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/02/NSAC-Public-Webinar-3-15-18.pptx">NSAC Public Webinar 3-15-18</a></strong></li>
 <li>YouTube Video with Audio:&nbsp;<strong><a href="https://youtu.be/bJBo9oJtXpk">https://youtu.be/bJBo9oJtXpk</a></strong></li>
 </ul>
 </li>

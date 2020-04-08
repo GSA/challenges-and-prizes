@@ -17,7 +17,7 @@ type-of-challenge: Business Plans
 submission-start: 06/10/2019 12:00 PM
 submission-end: 06/20/2019 04:59 PM
 submission-link:  https://www.sbir.gov/accelerators
-prizes: true
+prize: true
 fiscal-year: FY19
 legal-authority: America COMPETES
 challenge-manager: Stephen Becker

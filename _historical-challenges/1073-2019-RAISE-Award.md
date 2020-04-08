@@ -17,10 +17,10 @@ type-of-challenge: Ideas; Scientific
 submission-start: 11/1/2019 12:00 AM
 submission-end: 11/15/2019 12:00 PM
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: FY19, FY20
 legal-authority: America COMPETES Act
-challenge-manager: Patricia Watts, patricia.watts@faa.gov
+challenge-manager: Patricia Watts
 challenge-manager-email: patricia.watts@faa.gov
 ---
 

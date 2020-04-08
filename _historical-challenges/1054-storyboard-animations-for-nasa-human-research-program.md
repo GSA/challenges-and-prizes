@@ -17,7 +17,7 @@ type-of-challenge: Creative
 submission-start: 7/15/2019 8:00 AM
 submission-end: 08/09/2019 8:00 AM 
 submission-link: https://www.freelancer.com/contest/NASA-Contest-Storyboard-for-Six-Animations-for-NASA-Human-Research-Program-HRP-EDT-1535340
-prizes: true
+prize: true
 fiscal-year: FY19
 legal-authority: Other
 challenge-manager: Jeffrey Doi

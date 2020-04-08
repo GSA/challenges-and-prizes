@@ -18,7 +18,7 @@ type-of-challenge: Technology demonstration and hardware
 submission-start: 03/18/2019 12:00 AM
 submission-end: 04/22/2019 12:00 AM
 submission-link:  
-prizes: true
+prize: true
 ---
 
 

@@ -1,14 +1,12 @@
 {
-  "defaults": {
-  "timeout": 20000,
-  "wait": 1000,
-  "standard": "WCAG2AA",
-  "viewport": {
-      "width": 1000,
-      "height": 1000 
+  "default": {
+    "timeout": 20000,
+    "wait": 1000,
+    "standard": "WCAG2AA",
+    "level": "error",
+    "viewport": {
+        "width": 1000,
+        "height": 1000 
   }
-},
-    "urls": [
-        "http://localhost:4000"
-    ]
+}
 }

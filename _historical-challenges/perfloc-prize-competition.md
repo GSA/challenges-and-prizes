@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 882
+challenge-id: 882
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -769,7 +769,7 @@ rules: '<h3 class="h3-rule-heading">Rules for being eligible to participate in
   id="MJXc-Node-283" class="mjx-mo MJXc-space1"><span class="mjx-char MJXc-TeX-main-R">.</span></span><span
   id="MJXc-Node-284" class="mjx-mo MJXc-space1"><span class="mjx-char MJXc-TeX-main-R">.</span></span><span
   id="MJXc-Node-285" class="mjx-mo MJXc-space1"><span class="mjx-char MJXc-TeX-main-R">.</span></span><span
-  id="MJXc-Node-286" class="mjx-mo MJXc-space1"><span class="mj'
+  id="MJXc-Node-286" class="mjx-mo MJXc-space1">'
 submission-start-date-1: ''
 hide-challenge-timeline: 'No'
 judging-start-date: ''

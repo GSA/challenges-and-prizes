@@ -17,11 +17,12 @@ type-of-challenge:  Software and apps; Ideas; Analytics, visualizations and algo
 submission-start: 12/07/2018
 submission-end: 01/05/2019 12:59 AM
 submission-link:  
-prizes: false
+prize: false
 fiscal-year: FY19
 legal-authority: America COMPETES
 challenge-manager: Steve Werner
-challenge-manager-email: info@mgmwerx.org
+challenge-manager-email: 
+point-of-contact: info@mgmwerx.org
 ---
 
 <!-- Description start -->

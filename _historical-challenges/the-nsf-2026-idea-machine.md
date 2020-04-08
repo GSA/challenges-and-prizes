@@ -5,7 +5,7 @@ votingAllowed: true
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 41
+challenge-id: 41
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: false
@@ -46,7 +46,7 @@ cash-prizes-and-non-cash-prize-awards: ''
 solution-type: Ideas
 partner-agencies-non-federal: ''
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 type-of-challenge: Ideas
 participation-requirements: ''
 number-of-phases: ''

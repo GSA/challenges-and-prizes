@@ -17,11 +17,12 @@ type-of-challenge: Ideas
 submission-start: 10/24/2019 12:00 pm
 submission-end: 12/31/2019 11:59 pm
 submission-link:
-prizes: true
+prize: true
 fiscal-year: FY20
 legal-authority: AMERICA Competes
-challenge-manager: Jason Goldberg, jgoldberg@fws.gov
-challenge-manager-email: WNSChallenge@fws.gov
+challenge-manager: Jason Goldberg
+challenge-manager-email: jgoldberg@fws.gov
+point-of-contact: WNSChallenge@fws.gov
 ---
 
 

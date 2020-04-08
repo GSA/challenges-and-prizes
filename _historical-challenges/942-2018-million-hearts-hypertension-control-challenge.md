@@ -17,7 +17,7 @@ type-of-challenge: Ideas
 submission-start: 02/20/2018 12:00 AM
 submission-end: 04/06/2018 11:59 PM
 submission-link: http://www.mhhypertensionchallenge.com/home
-prizes: true
+prize: true
 fiscal-year: FY18
 legal-authority: America COMPETES
 challenge-manager: Mary George

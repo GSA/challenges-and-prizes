@@ -17,7 +17,7 @@ type-of-challenge: Ideas
 submission-start: 04/28/2017 12:05 PM
 submission-end: 01/15/2018 12:00 AM
 submission-link: 
-prizes: true
+prize: true
 fiscal-year: FY17
 legal-authority: America COMPETES
 challenge-manager: Dr. Machell Town
@@ -140,7 +140,7 @@ challenge-manager-email: BRFSSinnovations@cdc.gov
 <p><strong>Submission Requirements:</strong>&nbsp;Entries not in compliance with the submission requirements outlined below will be ineligible for further review and prize award. During the open submission period, participants must submit the following information to enter the HBD Challenge:</p>
 <p><strong>Phase I (Prototype Development)</strong></p>
 <ol>
-<li>Submit/upload a completed&nbsp;<a href="https://web.archive.org/web/20180911014012/https://www.challenge.gov/wp-content/uploads/2017/04/CDC-Data-Challenge-Phase-1-submission-template-US-FINAL.docx">HBD Challenge Submission Template</a>&nbsp;describing the proposed project, project personnel and data sources.</li>
+<li>Submit/upload a completed&nbsp;<a href="https://web.archive.org/web/20180911014012/https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/04/CDC-Data-Challenge-Phase-1-submission-template-US-FINAL.docx">HBD Challenge Submission Template</a>&nbsp;describing the proposed project, project personnel and data sources.</li>
 <li>Provide a PowerPoint or other visual presentation of the proposed project including purpose, methods and anticipated outcomes of the proposed approach, which could be used to present the proposal to a judging panel.</li>
 <li>Provide a description of data that are anticipated to be captured by the proposed approach, and, if applicable, descriptions of online app(s), web-based tools or communication devices used to recruit or track subjects&rsquo; healthy behavior information.</li>
 <li>Propose (a) viable data source(s) from currently available or a feasible future source (such as a proposed app or online tool). HBD Challenge participants may propose the use of public and/or private data sources, as long as respondent confidentiality and privacy are maintained.</li>

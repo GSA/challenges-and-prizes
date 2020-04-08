@@ -17,11 +17,12 @@ type-of-challenge: Software
 submission-start: 12/11/2019 10:30 AM
 submission-end: 01/24/2020 5:00 PM
 submission-link:
-prizes: true
+prize: true
 fiscal-year: FY20
 legal-authority: America COMPETES
-challenge-manager: Matthew Grob, grob.matthew.a@dol.gov
-challenge-manager-email: VETS.Challenge2020@dol.gov
+challenge-manager: Matthew Grob
+challenge-manager-email: grob.matthew.a@dol.gov
+point-of-contact: VETS.Challenge2020@dol.gov
 ---
 
 
@@ -78,6 +79,31 @@ challenge-manager-email: VETS.Challenge2020@dol.gov
  <li>Finalist Prizes (3): $100,000 each</li>
  <li>Pilot Prize (1): $300,000</li>
  <li>Grand Prize (1): $300,000</li>
+</ul>
+
+<h4>Phase I - Concept Paper Top 10 Scorers Advancing to Phase II (no cash prize at this Phase) in alphabetical order:</h4>
+
+<ul>
+<li>Acronis SCS</li>
+<li>Eightfold</li>
+<li>Enfuego</li>
+<li>JobPath Partners</li>
+<li>LinkedIn</li>
+<li>Pathfinder Labs</li>
+<li>Purepost</li>
+<li>Square Peg Hires</li>
+<li>Vantage Point</li>
+<li>Vet It</li>
+</ul>
+
+<h4>Phase II &ndash; Enhanced Wireframe Top 5 Scorers Advancing to Phase III (cash prize of $20,000 each) in alphabetical order:</h4>
+
+<ul>
+<li>Eightfold</li>
+<li>LinkedIn</li>
+<li>Square Peg Hires</li>
+<li>Vantage Point</li>
+<li>Vet It</li>
 </ul>
 
 <!-- Rules start -->

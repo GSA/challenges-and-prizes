@@ -17,7 +17,7 @@ type-of-challenge: Scientific
 submission-start: 03/08/2018 12:00 AM
 submission-end: 05/07/2018 12:00 AM
 submission-link: https://www.innocentive.com/ar/challenge/9933883
-prizes: true
+prize: true
 fiscal-year: FY18
 legal-authority: America COMPETES
 challenge-manager: Jessica Torrey

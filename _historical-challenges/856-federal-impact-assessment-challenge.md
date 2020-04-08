@@ -17,7 +17,7 @@ type-of-challenge: Ideas
 submission-start: 09/27/2016 09:00 AM
 submission-end: 03/31/2017 05:00 PM
 submission-link: 
-prizes: true
+prize: true
 fiscal-year: FY17
 legal-authority: America COMPETES
 challenge-manager: Michael Walsh

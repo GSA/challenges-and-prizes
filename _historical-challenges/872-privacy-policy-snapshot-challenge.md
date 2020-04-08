@@ -17,7 +17,7 @@ type-of-challenge: Software/Apps
 submission-start: 12/13/2016 12:00 PM 
 submission-end: 04/10/2017 02:00 PM
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: 2017
 legal-authority: America COMPETES Act
 challenge-manager:

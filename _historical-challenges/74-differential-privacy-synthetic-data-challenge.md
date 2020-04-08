@@ -17,7 +17,7 @@ type-of-challenge: Software and apps
 submission-start: 10/31/2018 04:00 PM
 submission-end: 05/20/2019 12:00 AM
 submission-link: https://www.topcoder.com/community/data-science/Differential-Privacy-Synthetic-Data-Challenge
-prizes: true
+prize: true
 fiscal-year: FY18-19
 legal-authority: America COMPETES
 challenge-manager: Terese Manley

@@ -17,11 +17,12 @@ type-of-challenge: Scientific
 submission-start: 2020/03/19 12 p.m.
 submission-end: 2021/06/15 11:59 p.m.
 submission-link: http://www.epa.gov/innovation/EcoTox-Target-Challenge
-prizes: true
+prize: true
 fiscal-year: FY20, FY21
 legal-authority: Section 20 of the Federal Insecticide, Fungicide, and Rodenticide Act, 7 U.S.C. 136r; Section 10 of the Toxic Substances Control Act, 15 U.S.C. 2609; as well as Section 104 of the Clean Water Act, 33 U.S.C. 1254
-challenge-manager: Denice Shaw, shaw.denice@epa.gov
-challenge-manager-email: villeneuve.dan@epa.gov
+challenge-manager: Denice Shaw
+challenge-manager-email: shaw.denice@epa.gov
+point-of-contact: villeneuve.dan@epa.gov
 ---
 
 

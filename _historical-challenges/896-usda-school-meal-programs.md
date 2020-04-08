@@ -17,7 +17,7 @@ type-of-challenge: ideas
 submission-start: 05/04/2017 10:00 AM
 submission-end: 06/15/2017 02:00 PM
 submission-link:  
-prizes: true
+prize: true
 fiscal-year:
 legal-authority: America COMPETES
 challenge-manager: Janis Johnston
@@ -31,7 +31,7 @@ challenge-manager-email: janis.johnston@fns.usda.gov
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <div class="description">
-<!-- <p>[embed]https://www.challenge.gov/wp-content/uploads/2017/05/FNS-powtoon.mp4[/embed] -->   <p><em>It’s late September, 2017. School meal applications have slowed to a trickle and your office is switching gears to draw your verification sample. You have high hopes that the plan you spent so much time refining over the summer will increase your household response rate: a re-designed verification selection notice, text message reminders, and that brilliant idea that Wanda came up with! Surely one of those will make a difference...  You would feel just a little more confident if you knew that another school district had success with a similar strategy.</em></p>    
+<!-- <p>[embed]https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/05/FNS-powtoon.mp4[/embed] -->   <p><em>It’s late September, 2017. School meal applications have slowed to a trickle and your office is switching gears to draw your verification sample. You have high hopes that the plan you spent so much time refining over the summer will increase your household response rate: a re-designed verification selection notice, text message reminders, and that brilliant idea that Wanda came up with! Surely one of those will make a difference...  You would feel just a little more confident if you knew that another school district had success with a similar strategy.</em></p>    
 <hr />
 <p><strong>Background</strong></p>   
 <p>School districts approved almost five million household applications for free or reduced price school meal benefits last year. Nearly nine million children from low income families were named on those applications. You know how vital the school meal programs are to the families in your district. But you also recognize the importance of the annual verification process.</p>
@@ -225,7 +225,7 @@ challenge-manager-email: janis.johnston@fns.usda.gov
 <div class="challenge-enter-item"><p><span style="color: #cc0808;"><strong>How to Enter Your Solution</strong></span></p>
 <ol>
 <li><strong>Select “Submit Solution” from the “Challenge Details” menu on the left hand side of this page to register for the challenge.</strong></li>
-<!-- <p><a href="http://web.archive.org/web/20170609044027/https://www.challenge.gov/wp-content/uploads/2017/03/Challenge-image-1.png"><img class="wp-image-161182 aligncenter" src="http://web.archive.org/web/20170609044027im_/https://www.challenge.gov/wp-content/uploads/2017/03/Challenge-image-1.png" alt="" width="185" height="292"/></a>more</p>-->
+<!-- <p><a href="http://web.archive.org/web/20170609044027/https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/03/Challenge-image-1.png"><img class="wp-image-161182 aligncenter" src="http://web.archive.org/web/20170609044027im_/https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/03/Challenge-image-1.png" alt="" width="185" height="292"/></a>more</p>-->
 <li><strong>Fill out the form to describe your successful current practice or your great idea.</strong></li>
 <li><strong> Support your solution with evidence of its effectiveness.</strong>
 <li><strong>Make your solution visible to everyone else by:</strong>
@@ -245,8 +245,8 @@ challenge-manager-email: janis.johnston@fns.usda.gov
 <ol>
 <li><strong>Select “Solutions” from the “Challenge Details” menu on the left hand side of this page to see the complete list of ideas submitted to date.</strong></li>
 <p style="padding-left: 30px;"><em>TIP: Be sure to select “Solutions” from the menu below in order to comment on a specific solution. If you select “Discussions” from the “Challenge Details” menu your comment will not attach to a specific solution.</em></p>
-<!-- <p><a href="http://web.archive.org/web/20170609044027/https://www.challenge.gov/wp-content/uploads/2017/03/Challenge-image-2.png"><img class="wp-image-161183 aligncenter" src="http://web.archive.org/web/20170609044027im_/https://www.challenge.gov/wp-content/uploads/2017/03/Challenge-image-2.png" alt="" width="195" height="298"/></a></p>< -->
-<li><strong>Click on the solution you’d like to comment on.</strong>                                                           <!-- <a href="http://web.archive.org/web/20170609044027/https://www.challenge.gov/wp-content/uploads/2017/03/Challenge-image-3.png"><img class="wp-image-161184 aligncenter" src="http://web.archive.org/web/20170609044027im_/https://www.challenge.gov/wp-content/uploads/2017/03/Challenge-image-3.png" alt="" width="637" height="269"/><br/></a></p> -->
+<!-- <p><a href="http://web.archive.org/web/20170609044027/https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/03/Challenge-image-2.png"><img class="wp-image-161183 aligncenter" src="http://web.archive.org/web/20170609044027im_/https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/03/Challenge-image-2.png" alt="" width="195" height="298"/></a></p>< -->
+<li><strong>Click on the solution you’d like to comment on.</strong>                                                           <!-- <a href="http://web.archive.org/web/20170609044027/https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/03/Challenge-image-3.png"><img class="wp-image-161184 aligncenter" src="http://web.archive.org/web/20170609044027im_/https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/03/Challenge-image-3.png" alt="" width="637" height="269"/><br/></a></p> -->
 <li><strong>Select “Comments” from the “Solution Details” menu.</strong></li>                                               
-<!-- <a href="http://web.archive.org/web/20170609044027/https://www.challenge.gov/wp-content/uploads/2017/03/Challenge-image-41.png"><img class="wp-image-161190 aligncenter" src="http://web.archive.org/web/20170609044027im_/https://www.challenge.gov/wp-content/uploads/2017/03/Challenge-image-41.png" alt="" width="179" height="231"/></a> -->
+<!-- <a href="http://web.archive.org/web/20170609044027/https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/03/Challenge-image-41.png"><img class="wp-image-161190 aligncenter" src="http://web.archive.org/web/20170609044027im_/https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/03/Challenge-image-41.png" alt="" width="179" height="231"/></a> -->
 

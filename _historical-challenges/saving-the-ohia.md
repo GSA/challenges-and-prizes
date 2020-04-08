@@ -6,7 +6,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 24
+challenge-id: 24
 moderatorAdminOnlyIdeasEnabled: true
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: false
@@ -185,7 +185,7 @@ description: "<p>Devastating fungi are killing Hawaii&rsquo;s iconic ʻŌhiʻa t
   yourself as a leader in the fungus world!</p>\r\n<h4><strong>The Challenge</strong></h4>\r\n<p><a
   href=\"https://fast.wistia.net/embed/iframe/w834dhmmgo?wmode\" target=\"_blank\"
   rel=\"noopener\"><img src=\"/assets/images/ids-images/OHIA-Video-Screengrab.png\"
-  width=\"500\" /></a></p>\r\n<p><a href=\"http://www.savetheohia.org\" target=\"_blank\"
+  width=\"500\" alt=\"Incidences of ceratocystis confirmed in 2017 and before, video launch on conservation efforts to save Hawaii's sacred tree, the Ohi'a\"/></a></p>\r\n<p><a href=\"http://www.savetheohia.org\" target=\"_blank\"
   rel=\"noopener\">Saving the ʻŌhiʻa</a> is an innovation competition that seeks novel
   turn-key tools and creative solutions to rapidly and inexpensively detect the fungal
   species <em>Ceratocystis lukuohia</em> and <em>Ceratocystis huliohia</em> in asymptomatic

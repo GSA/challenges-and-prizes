@@ -17,7 +17,7 @@ type-of-challenge: Ideas; Business plans
 submission-start: 08/15/2019 3:00 PM
 submission-end: 10/08/2019  11:00 AM
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: FY18, FY19
 legal-authority: Grants and cooperative agreements
 challenge-manager: Meredith Perry

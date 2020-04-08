@@ -5,7 +5,7 @@ votingAllowed: true
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 77
+challenge-id: 77
 moderatorAdminOnlyIdeasEnabled: true
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: false
@@ -153,6 +153,24 @@ judging-criteria-percentage-3: ''
 judging-criteria-percentage-4: ''
 judging-criteria-4: ''
 judging-criteria-description-4: ''
+judging-criteria-description-5: ''
+judging-criteria-percentage-5: ''
+judging-criteria-5: ''
+judging-criteria-description-6: ''
+judging-criteria-percentage-6: ''
+judging-criteria-6: ''
+judging-criteria-description-7: ''
+judging-criteria-percentage-7: ''
+judging-criteria-7: ''
+judging-criteria-description-8: ''
+judging-criteria-percentage-8: ''
+judging-criteria-8: ''
+judging-criteria-description-9: ''
+judging-criteria-percentage-9: ''
+judging-criteria-9: ''
+judging-criteria-description-10: ''
+judging-criteria-percentage-10: ''
+judging-criteria-10: ''
 prize-description-0: "<p>The total award pool for the Challenge is $250,000. Awards
   will be available in two phases: an initial Phase 1 award up to $50,000, and
   a final Phase 2 award reflecting the balance up to $250,000.&nbsp;</p>\r\n<p>Phase

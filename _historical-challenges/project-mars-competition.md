@@ -1,5 +1,5 @@
 ---
-  ideaSubmitFormInstruction: 'Enter the Contest Here: <a href="https://contest.sciartexchange.org/project-mars-2018/entry_form/">https://contest.sciartexchange.org/project-mars-2018/entry_form/</a>    Requested
+ideaSubmitFormInstruction: 'Enter the Contest Here: <a href="https://contest.sciartexchange.org/project-mars-2018/entry_form/">https://contest.sciartexchange.org/project-mars-2018/entry_form/</a>    Requested
   submission information will include:    Key Point of Contact for entry  School Name
   &amp; Faculty/Staff Point of Contact and Contact Information (if applicable)  Each
   Team Member’s Name and Contact Information  Film or Poster Entry Title  Statement
@@ -13,7 +13,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 964
+challenge-id: 964
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -72,7 +72,7 @@ partner-agencies-non-federal: Lockheed Martin, Boeing, Futuramic, Delaware North
   Aerospace Industries Association, AllPoints LLC, Northrop Grumman, Jacobs
 original-post-id: '178247'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Creative (design & multimedia)
 participation-requirements: ''

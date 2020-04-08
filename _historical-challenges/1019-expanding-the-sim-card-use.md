@@ -18,7 +18,7 @@ type-of-challenge: Software and apps
 submission-start: 04/03/2019 12:00 AM
 submission-end: 10/19/2019
 submission-link: 
-prizes: true
+prize: true
 legal-authority: America COMPETES
 fiscal-year: FY19-FY20
 challenge-manager: Sarah Hughes

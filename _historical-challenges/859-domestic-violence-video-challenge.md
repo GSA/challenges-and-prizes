@@ -17,7 +17,7 @@ type-of-challenge: Creative (design & multimedia)
 submission-start: 10/12/2016 12:00 AM
 submission-end: 2016/11/03 11:59 PM
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: 2016
 legal-authority: America COMPETES
 challenge-manager: Mao Yang
@@ -71,4 +71,4 @@ The top three scoring videos will win the Challenge. FVPSA will award three priz
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>Please submit your name, email address, phone number, organizational affiliation (if applicable), a link to your video, and a script for the video.</p>
-<p>Please submit a&nbsp;<a style="box-sizing: border-box; background-color: transparent; color: #0071bc; text-decoration-line: none;" href="https://web.archive.org/web/20170609145312/https://www.challenge.gov/wp-content/uploads/2016/09/ACF-Waiver-Release-Form-Final.pdf">ACF Waiver Release Form (Final)</a>&nbsp;for individuals featured on the videos and submit it with their video link by the submission deadline.</p>
+<p>Please submit a&nbsp;<a style="box-sizing: border-box; background-color: transparent; color: #0071bc; text-decoration-line: none;" href="https://web.archive.org/web/20170609145312/https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2016/09/ACF-Waiver-Release-Form-Final.pdf">ACF Waiver Release Form (Final)</a>&nbsp;for individuals featured on the videos and submit it with their video link by the submission deadline.</p>

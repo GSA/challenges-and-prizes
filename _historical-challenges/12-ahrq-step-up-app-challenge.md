@@ -17,7 +17,7 @@ type-of-challenge: Software/Apps
 submission-start: 08/13/2018 09:00 AM
 submission-end: 09/24/2018 11:59 PM
 submission-link:  
-prizes: true
+prize: true
 fiscal-year: FY18
 legal-authority: America COMPETES
 challenge-manager: Bryan Kim

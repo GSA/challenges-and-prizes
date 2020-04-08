@@ -5,10 +5,12 @@
                 {% for challenge in sorted %}
             <div class="tablet:grid-col-4 cards">
                     <div class="card">
-                            {% if challenge.external-url %}
+                            {% if challenge.external-url and challenge.external-url != '' %}
                                 <a href="{{ challenge.external-url }}" target="_blank" rel="noopener">
+                                        <span class="sr-only">{{challenge.challenge-title}} external challenge site (opens in new window)</span>
                             {% else %}
                                 <a href="{{ site.baseurl }}{{ challenge.url }}">
+                                        <span class="sr-only">{{ challenge.challenge-title }} details</span>
                             {% endif %}
                         <div class="card__image" style="background-image: url('{{ site.baseurl }}{{ challenge.card-image }}')"></div>
                         </a>
@@ -26,10 +28,17 @@
                                 {% endif %}
                         </div>
                         <div class="card__action card__action-block"> 
-                                {% if challenge.external-url %}
-                                    <a href="{{ challenge.external-url }}" class="usa-button radius-0" target="_blank" rel="noopener">View External Challenge Details</a>
+                                {% if challenge.external-url and challenge.external-url != '' %}
+                                    <a href="{{ challenge.external-url }}" class="usa-button radius-0" target="_blank" rel="noopener">
+                                        <span class="sr-only">{{challenge.challenge-title}}</span>
+                                        View External Challenge Details
+                                        <span class="sr-only">(opens in new window)</span>
+                                    </a>
                                 {% else %}
-                                    <a href="{{ site.baseurl }}{{ challenge.permalink }}" class="usa-button radius-0">View Details</a>
+                                    <a href="{{ site.baseurl }}{{ challenge.permalink }}" class="usa-button radius-0">
+                                        <span class="sr-only">{{ challenge.challenge-title }}</span>
+                                        View Details
+                                    </a>
                                 {% endif %}
                         </div> 
                     </div>

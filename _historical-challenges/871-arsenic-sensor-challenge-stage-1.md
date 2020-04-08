@@ -1,7 +1,7 @@
 ---
 layout: front-matter-data
 permalink: /challenge/arsenic-sensor-challenge-stage-1/
-challenge-id: 
+challenge-id: 871
 status: open
 sidenav: true
 card-image: /assets/images/cards/arsenic_thumbnail.png
@@ -17,7 +17,7 @@ type-of-challenge: Ideas
 submission-start: 12/13/2016 12:00 AM
 submission-end: 03/13/2017 12:00 AM
 submission-link: https://www.innocentive.com/ar/challenge/9933765
-prizes: true
+prize: true
 fiscal-year:
 legal-authority: America COMPETES
 challenge-manager: Katie Guerra

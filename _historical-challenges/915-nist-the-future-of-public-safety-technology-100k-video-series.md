@@ -17,7 +17,7 @@ type-of-challenge: Creative (multimedia & design)
 submission-start: 08/21/2017 12:00 PM
 submission-end: 09/07/2017 01:00 PM
 submission-link: https://tongal.com/project/TheFutureofPublicSafetyTechnology/
-prizes: true
+prize: true
 fiscal-year: FY
 legal-authority: America COMPETES
 challenge-manager: Terese Manley
