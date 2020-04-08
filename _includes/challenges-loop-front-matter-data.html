@@ -5,7 +5,7 @@
                 {% for challenge in sorted %}
             <div class="tablet:grid-col-4 cards">
                     <div class="card">
-                            {% if challenge.external-url %}
+                            {% if challenge.external-url and challenge.external-url != '' %}
                                 <a href="{{ challenge.external-url }}" target="_blank" rel="noopener">
                                         <span class="sr-only">{{challenge.challenge-title}} external challenge site (opens in new window)</span>
                             {% else %}
@@ -28,7 +28,7 @@
                                 {% endif %}
                         </div>
                         <div class="card__action card__action-block"> 
-                                {% if challenge.external-url %}
+                                {% if challenge.external-url and challenge.external-url != '' %}
                                     <a href="{{ challenge.external-url }}" class="usa-button radius-0" target="_blank" rel="noopener">
                                         <span class="sr-only">{{challenge.challenge-title}}</span>
                                         View External Challenge Details
