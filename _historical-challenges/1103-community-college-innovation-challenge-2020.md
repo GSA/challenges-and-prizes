@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/community-college-innovation-challenge-2020/
 challenge-id: 1103
-status: open
+status: closed
 sidenav: false
 card-image: /assets/images/cards/CCIC-2020-340x160.png
 agency-logo: nsf.png
@@ -14,8 +14,8 @@ partners-non-federal: American Association of Community Colleges
 external-url: http://www.aaccinnovationchallenge.com
 total-prize-offered-cash:
 type-of-challenge: Ideas, scientific
-submission-start: 2020/01/16 9 a.m.
-submission-end: 2020/04/24 11:59 p.m.
+submission-start: 01/16/2020 9 a.m.
+submission-end: 04/03/2020 11:59 p.m.
 submission-link:
 prize: true
 fiscal-year: FY20
@@ -31,11 +31,31 @@ point-of-contact: ccic@aacc.nche.edu
 ### Description
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-**DEADLINE EXTENDED UNTIL APRIL 24, 2020. AN IMPORTANT MESSAGE ABOUT THE CCIC.**
+**IMPORTANT ANNOUNCEMENT -- THE CCIC 2020 IS CANCELLED.**
 
-If you are a part of a team that is still interested in participating in the CCIC and the closures on your campus and/or in your community will prevent you from submitting a complete application by April 24, 2020, please contact the challenge team at ccic@aacc.nche.edu. 
 
-At this time, the CCIC Boot Camp is tentatively scheduled for June 2020. The CCIC team will continue to make any updates based on guidance from the Centers for Disease Control and the World Health Organization. In the meantime, please email ccic@aacc.nche.edu s with any questions.
+In response to the coronavirus pandemic and out of concern for the health and safety of CCIC
+participants, AACC made the difficult decision to cancel the Community College Innovation
+Challenge for 2020.
+
+We have been closely monitoring guidance from the Centers for Disease Control and the World
+Health Organization, as well as staying abreast of the closures and state and local ordinances in
+the Washington, D.C. metro area and of community colleges nationwide. We know that many
+of you are dealing with challenging situations related to the closures of your colleges and
+campuses and ensuring that your students, staff, and families remain healthy during this time. 
+We greatly appreciate all the hard work that has gone into registering team members and
+preparing submissions; and we strongly encourage you to reapply in the fall. AACC currently
+anticipates that the call for submissions for the 2021 Community College Innovation Challenge
+will open in late October 2020 and close in February 2021.
+
+We would be happy to carry over any 2020 submissions, from teams that wish us to do so, to
+be automatically considered for the next Community College Innovation Challenge. We can also
+extend flexibility regarding current team member eligibility if students graduate prior to the
+submission period for the next CCIC and still wish to participate.
+Thank you again for your interest and efforts in applying for the 2020 Community College
+Innovation Challenge. If you have any questions, please reach out to us at ccic@aacc.nche.edu.
+
+* * *
 
 The Community College Innovation Challenge (CCIC) is sponsored by the
 National Science Foundation (NSF) and the American Association of Community

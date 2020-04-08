@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/2020-million-hearts-hypertension-control-challenge/
 challenge-id: 1096
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/2020-Million-Hearts.png
 agency-logo: 256px-US_CDC_logo.png
@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash:
 type-of-challenge: Nominations
-submission-start: 2020/02/21 12:00 AM
-submission-end: 2020/04/06 11:59 PM
+submission-start: 02/21/2020 12:00 AM
+submission-end: 04/06/2020 11:59 PM
 submission-link:
 prize: true
 fiscal-year: FY20
