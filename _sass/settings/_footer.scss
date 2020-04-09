@@ -1,0 +1,21 @@
+.usa-footer {
+  .grid-container {
+    background-image: url(/assets/images/layout/curved_blue_footer.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+
+  a {
+    color: #ffffff;
+    margin-bottom: 1rem;
+
+    &:hover {
+      color: #ffffff;
+    }
+  }
+
+  &__social_link {
+    font-size: 2rem;
+  }
+}

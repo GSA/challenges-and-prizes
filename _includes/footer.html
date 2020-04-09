@@ -1,30 +1,49 @@
-<footer class="usa-footer site-footer" role="contentinfo">
-  <div class="footer-section-bottom bg-base-lighter">
-    <div class="grid-container">
-        <div class="grid-row padding-3">
-          <div class="tablet:grid-col" >
-            <div class="logo-links">
-                <a class="footer-logo media_link" href="https://gsa.gov">
-                  <img src="{{ site.baseurl }}/assets/images/agency/gsa-logo.svg" width="90" alt="GSA logo">
-                </a>
-              </div>
-          </div>
-          <div class="tablet:grid-col"></div>
+<footer class="usa-footer site-footer bg-base-lightest text-white" role="contentinfo">
+  <div class="grid-container padding-top-15 padding-bottom-5">
+    <div class="grid-row">
+      <div class="tablet:grid-col footer__left">
+        <img class="height-5 margin-bottom-2" src="{{ site.baseurl }}/assets/images/agency/challenge-logo-white.png" alt="Challenge Gov Logo" title="Challenge Gov" >
+        <hr class="border-white margin-bottom-5" />
+        <div class="grid-row">
           <div class="tablet:grid-col">
             <ul class="add-list-reset">
-              <li><a class="text-no-underline" href="{{ site.baseurl }}/">Home</a></li>
-              <li><a class="text-no-underline" href="{{ site.baseurl }}/contact">Contact</a></li>
-              <li><a class="text-no-underline" href="https://www.usa.gov">USA.gov</a></li>
+              <li class="margin-bottom-1"><a class="text-no-underline" href="{{ site.baseurl }}/about">About</a></li>
+              <li class="margin-bottom-1"><a class="text-no-underline" href="{{ site.baseurl }}/contact">Contact</a></li>
+              <li class="margin-bottom-1"><a class="text-no-underline" href="https://www.usa.gov">USA.gov</a></li>
             </ul>
           </div>
           <div class="tablet:grid-col">
             <ul class="add-list-reset">
-                <li><a class="text-no-underline" href="{{ site.baseurl }}/terms">Terms</a></li>
-                <li><a class="text-no-underline" href="{{ site.baseurl }}/privacy-policy">Privacy Policy</a></li>
+              <li class="margin-bottom-1"><a class="text-no-underline" href="{{ site.baseurl }}/toolkit">Agency toolkit</a></li>
+              <li class="margin-bottom-1"><a class="text-no-underline" href="#">Archived challenges</a></li>
             </ul>
+          </div>
+          <div class="tablet:grid-col">
+            <ul class="add-list-reset">
+              <li class="margin-bottom-1"><a class="text-no-underline" href="{{ site.base_url }}/terms">Terms</a></li>
+              <li class="margin-bottom-1"><a class="text-no-underline" href="{{ site.base_url }}/privacy-policy">Privacy policy</a></li>
+            </ul>
+          </div>
+          <div class="tablet:grid-col">
+            <div class="grid-row usa-footer__social_links">
+              <a href="https://www.facebook.com/challengegov" class="margin-right-2 usa-footer__social_link" target="_blank" rel="noopener">
+                <i class="fab fa-facebook"></i>
+              </a>
+              <a href="https://www.twitter.com/challengegov" class="margin-right-2 usa-footer__social_link" target="_blank" rel="noopener">
+                <i class="fab fa-twitter"></i>
+              </a>
+              <a href="https://www.youtube.com/challengegov" class="margin-right-2 usa-footer__social_link" target="_blank" rel="noopener">
+                <i class="fab fa-youtube"></i>
+              </a>
+            </div>
           </div>
         </div>
       </div>
+
+      <div class="tablet:grid-col-2 text-right">
+        <img src="{{ site.baseurl }}/assets/images/agency/challenge-logo-square-white.svg" alt="Challenge Gov Logo Square" title="Challenge Gov" class="height-10 footer__challenge-logo-square">
+      </div>
+    </div>
   </div>
 </footer>
 
