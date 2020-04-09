@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash: $50,000
 type-of-challenge: Creative (multimedia & design)
 submission-start: 2020/03/12 12:00 PM
-submission-end: 2020/04/17 11:59 PM
+submission-end: 2020/05/07 11:59 PM
 submission-link:
 prizes: true
 fiscal-year: FY20
@@ -46,6 +46,7 @@ point-of-contact: census.accelerate@census.gov
 <p>Census Accelerate is launching this prize competition to reward 2020 Census-related videos with the highest visibility (or viral potential) and the highest impact (i.e., ability to move people to respond to the census). The challenge focuses on <strong>short-format video content </strong>&mdash; a medium that is relatively lacking in quantity and quality on user-generated platforms such as YouTube. The Census Bureau is conducting this challenge under the authority of and in accordance with the America COMPETES Act, as amended, 15 U.S.C. &sect; 3719.</p>
 <h2><strong>The challenge:</strong></h2>
 <p><strong>Explain why the census matters in a short (30 seconds to 3 minutes) video, designed for a platform such as YouTube, that uses entertainment, emotion, creativity, and/or humor to motivate people to respond. </strong></p>
+<p>Deadline extended to: 05/07/2020 11:59 PM ET</p>
 <h2><strong>FAQ's:</strong></h2>
 <p>See answers to <a href="{{ site.baseurl }}/assets/document-library/FAQs-Video-Prize Challenge-2020Census.pdf">frequently asked questions</a>.</p>
 
