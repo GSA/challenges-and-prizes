@@ -247,7 +247,9 @@ point-of-contact: census.accelerate@census.gov
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p>Each team or individual wishing to participate in this challenge must submit an application package including the information described below by 11:59 p.m. PT on April 10, 2020. To apply, participants should email the required information to <strong>census.accelerate@census.gov</strong> at any time during the submission period stated above (March 12, 2020 to April 10, 2020) <strong>with the Subject Line: &ldquo;Prize Submission: [Team Name], [Title of Video].&rdquo; &nbsp;</strong>Please include a web link to your video and the required written information as described in the &ldquo;What to Submit&rdquo; section.&nbsp;</p>
+<p>Each team or individual wishing to participate in this challenge must submit an application package including the information described below by 11:59 p.m. ET on May 7, 2020.</p>
+<p><strong>How to submit your entry</strong><p>
+<p>To apply, participants should email the required information to <strong>census.accelerate@census.gov</strong> at any time during the submission period <strong>with the Subject Line: &ldquo;Prize Submission: [Team Name], [Title of Video].&rdquo; &nbsp;</strong>Please include a web link to your video and the required written information as described in the &ldquo;What to Submit&rdquo; section.&nbsp;</p>
 <p><strong>What to Submit </strong></p>
 <p>Applicants to this challenge must submit a digital video meeting the audience, length, format and accuracy requirements described above, along with a brief description of the team and video, as described below.</p>
 <p>All submissions must include (1), (2)and (3) below.&nbsp; Number (4) and student information are optional.&nbsp;</p>
