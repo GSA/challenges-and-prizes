@@ -33,20 +33,20 @@ Due to the multitude of sensors and devices being used in public safety along wi
 * Tools that make data available to first responders in real-time are heavily weighted towards a visual representation of responder location and structured reporting of known emergency communications.
 * Few public safety emergency analysis tools exist that provide an effective real-time automated analysis and fusion of information from unstructured public safety communications streams and sensor- and citizen-generated data streams.
 
-  ### Prizes
+### Prizes
 
-  A total prize purse of up to**$150,000**will be awarded to the winners, as follows:
+A total prize purse of up to**$150,000**will be awarded to the winners, as follows:
 
-  Topic 1: Information extraction across ASAPS streams and data sources across 1 or more data categories:**$30,000**
+Topic 1: Information extraction across ASAPS streams and data sources across 1 or more data categories:**$30,000**
 
-  Topic 2: Information fusion across extracted data and generation of live/dynamic information representation, across 3 or more data categories:**$30,000**
+Topic 2: Information fusion across extracted data and generation of live/dynamic information representation, across 3 or more data categories:**$30,000**
 
-  Topic 3: Automated emergency event analysis across 3 or more data stream categories, and preferably across all data categories:**$30,000**
+Topic 3: Automated emergency event analysis across 3 or more data stream categories, and preferably across all data categories:**$30,000**
 
-  Topic 4: Extraction-to-analysis systems approach across all data categories:**2 X $30,000**
+Topic 4: Extraction-to-analysis systems approach across all data categories:**2 X $30,000**
 
-  ### **Rules**
+### **Rules**
 
-  View the [Official Rules document](https://www.challenge.gov/assets/netlify-uploads/3.2-oio-rules-asaps-contest-1-final-.pdf) for detailed rules on all aspects of this challenge.
+View the [Official Rules document](https://www.challenge.gov/assets/netlify-uploads/3.2-oio-rules-asaps-contest-1-final-.pdf) for detailed rules on all aspects of this challenge.
 
-  Rules regarding submissions, as well as additional terms and conditions, begin on Page 6 of the document.
+Rules regarding submissions, as well as additional terms and conditions, begin on Page 6 of the document.
