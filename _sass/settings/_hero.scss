@@ -1,0 +1,97 @@
+.usa-hero {
+  padding-top: 0;
+  display: flex;
+  align-items: center;
+
+  .grid-container {
+    background-image: url(/assets/images/layout/curved_blue_banner.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+
+
+  &__description {
+    font-size: 2rem;
+
+    p {
+      padding: none;
+    }
+    span {
+      color: #FA9441;
+    }
+    button {
+      background-color: #FA9441;
+      font-weight: normal;
+      font-size: 1.5rem;
+      color: #000000;
+
+      &:hover {
+        background: #FA801B;
+        box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.3), 0 2px 10px 0 rgba(0, 0, 0, 0.2);
+        transform: translateY(-1%);
+        transition: 0.15s;
+      }
+      
+      &:active {
+        background: #E17B28;
+        box-shadow: none;
+        transform: none;
+      }
+    }
+  }
+}
+
+.banner-steps {
+  background-color: rgba(0,0,0,.4);
+
+  &__header {
+    font-size: 1.5rem;
+    text-align: center;
+  }
+
+  hr {
+    margin-bottom: 3rem;
+    border-color: #fcfcfc;
+  }
+
+  &__numbers {
+    display: none;
+    align-items: center;
+  }
+  &__number {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 99px;
+    width: 99px;
+    margin: auto;
+    border-radius: 50%;
+    border: 1px solid #fcfcfc;
+    font-size: 4rem;
+  }
+  &__arrow {
+    width: 36px;
+    height: 28px;
+    background-image: url(/assets/images/icons/right_arrow.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+
+  &__descriptions {
+    margin-top: 1rem;
+    font-size: 1rem;
+
+    :first-child {
+      padding-left: 0;
+    }
+    :last-child {
+      padding-right: 0;
+    }
+  }
+
+  &__description {
+    text-align: center;
+  }
+}
