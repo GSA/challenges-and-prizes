@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash: $50,000
 type-of-challenge: Creative (multimedia & design)
 submission-start: 2020/03/12 12:00 PM
-submission-end: 2020/04/17 11:59 PM
+submission-end: 2020/05/07 11:59 PM
 submission-link:
 prizes: true
 fiscal-year: FY20
@@ -46,6 +46,7 @@ point-of-contact: census.accelerate@census.gov
 <p>Census Accelerate is launching this prize competition to reward 2020 Census-related videos with the highest visibility (or viral potential) and the highest impact (i.e., ability to move people to respond to the census). The challenge focuses on <strong>short-format video content </strong>&mdash; a medium that is relatively lacking in quantity and quality on user-generated platforms such as YouTube. The Census Bureau is conducting this challenge under the authority of and in accordance with the America COMPETES Act, as amended, 15 U.S.C. &sect; 3719.</p>
 <h2><strong>The challenge:</strong></h2>
 <p><strong>Explain why the census matters in a short (30 seconds to 3 minutes) video, designed for a platform such as YouTube, that uses entertainment, emotion, creativity, and/or humor to motivate people to respond. </strong></p>
+<p>Deadline extended to: 05/07/2020 11:59 PM ET</p>
 <h2><strong>FAQ's:</strong></h2>
 <p>See answers to <a href="{{ site.baseurl }}/assets/document-library/FAQs-Video-Prize Challenge-2020Census.pdf">frequently asked questions</a>.</p>
 
@@ -246,7 +247,9 @@ point-of-contact: census.accelerate@census.gov
 ### How To Enter
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p>Each team or individual wishing to participate in this challenge must submit an application package including the information described below by 11:59 p.m. PT on April 10, 2020. To apply, participants should email the required information to <strong>census.accelerate@census.gov</strong> at any time during the submission period stated above (March 12, 2020 to April 10, 2020) <strong>with the Subject Line: &ldquo;Prize Submission: [Team Name], [Title of Video].&rdquo; &nbsp;</strong>Please include a web link to your video and the required written information as described in the &ldquo;What to Submit&rdquo; section.&nbsp;</p>
+<p>Each team or individual wishing to participate in this challenge must submit an application package including the information described below by 11:59 p.m. ET on May 7, 2020.</p>
+<p><strong>How to submit your entry</strong><p>
+<p>To apply, participants should email the required information to <strong>census.accelerate@census.gov</strong> at any time during the submission period <strong>with the Subject Line: &ldquo;Prize Submission: [Team Name], [Title of Video].&rdquo; &nbsp;</strong>Please include a web link to your video and the required written information as described in the &ldquo;What to Submit&rdquo; section.&nbsp;</p>
 <p><strong>What to Submit </strong></p>
 <p>Applicants to this challenge must submit a digital video meeting the audience, length, format and accuracy requirements described above, along with a brief description of the team and video, as described below.</p>
 <p>All submissions must include (1), (2)and (3) below.&nbsp; Number (4) and student information are optional.&nbsp;</p>
