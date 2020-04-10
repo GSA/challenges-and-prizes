@@ -51,6 +51,10 @@ View the [Official Rules document](https://www.challenge.gov/assets/netlify-uplo
 
 Rules regarding submissions, as well as additional terms and conditions, begin on Page 6 of the document.
 
-TEST image here 
+#### TEST Image Here - #1
 
 ![covid-19 test image](/assets/netlify-uploads/xtech-ventilator-challenge2.png)
+
+#### TEST Image Here - #2
+
+![covid-19 test image]({{ site.baseurl }}/assets/netlify-uploads/xtech-ventilator-challenge2.png)
