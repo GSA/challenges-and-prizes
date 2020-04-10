@@ -27,13 +27,12 @@ point-of-contact: WNSChallenge@fws.gov
 
 
 
-<h3>Help the U.S. Fish and Wildlife Service identify ways to permanently eradicate, weaken, or disarm the fungus that causes white-nose syndrome, a devastating disease that is killing millions of hibernating bats across the United States and Canada.</h3>
+<h3>UPDATE: The WNS Challenge winner announcement is postponed until further notice. Stay tuned for more information and thank you for your support!</h3>
 
 <!-- Description start -->
 ### Description
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<h4>UPDATE: The WNS Challenge winner announcement is postponed until further notice. Stay tuned for more information and thank you for your support!</h4>
 <p>Hibernating bats in North America are in trouble. An invasive fungus, <em>Pseudogymnoascus destructans</em>, that causes a disease called white-nose syndrome is spreading across the continent and killing millions of bats. Bats eat insects and are integral to thriving ecosystems. With the loss of millions of bats because of this deadly fungus, many millions more forest and agriculture insect pests are left to feed on trees and crops, ultimately affecting the balance of nature and even human health.</p>
 <p>There is no known cure for white-nose syndrome, but scientists from all over the world are working together to study the disease, how it spreads and infects bats and what we can do to control it. Much of this work has been done under the umbrella of the United States’ National Response to White-nose Syndrome, a broad, multi-agency effort led by the U.S. Fish and Wildlife Service.</p>
 <p><img src="{{ site.baseurl }}/assets/images/challenge-content/Bat-image-2.jpg" alt="Bat affected by white-nose syndrome"></p>
