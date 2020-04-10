@@ -70,7 +70,7 @@ point-of-contact: RDChallenge@nih.gov
 <li>Must be 18 years of age or older</li>
 <li>May participate individually or as part of one or more teams</li>
 <li>Each team&rsquo;s designated captain must be a U.S. citizen or permanent resident</li>
-<li>Must submit solutions by 5:00 PM Eastern Time on April 30, 2020</li>
+<li>Must submit solutions by 5:00 PM Eastern Time on June 15, 2020</li>
 </ul>
 <p><strong>To win prizes:</strong></p>
 <ul>
