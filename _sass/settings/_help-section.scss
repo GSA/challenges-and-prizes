@@ -1,0 +1,37 @@
+.help-section {
+  .grid-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  &__header {
+    font-size: 2rem;
+  }
+
+  &__content {
+    a {
+      font-weight: normal;
+    }
+
+    img {
+      padding: 3rem 0rem;
+      color: #2C608A;
+      font-size: 6rem;
+    }
+
+    p {
+      padding: 2rem;
+      text-align: center;
+    }
+  }
+
+  &__noteworthy {
+    border: 2px solid #2C608A;
+    border-radius: 5px;
+
+    span {
+      font-weight: bold;
+    }
+  }
+}
