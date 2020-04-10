@@ -15,12 +15,13 @@ type-of-challenge:
   - Creative (multimedia & design)
   - Analytics, visualizations, algorithms
 submission-start: 2020/03/31 6:59 PM
-submission-end: 2020/05/31 11:59 Pm
+submission-end: 2020/05/31 11:59 PM
 fiscal-year: FY20
 legal-authority: America COMPETES Act
 challenge-manager: Stephanie Green
 challenge-manager-email: stephanie.green@gsa.gov
 point-of-contact: toiletpaperchallenge@example.gov
+body-content-uploads: /assets/netlify-uploads/asaps-judging-criteria.pdf
 ---
 ### Description
 
@@ -47,7 +48,7 @@ Topic 4: Extraction-to-analysis systems approach across all data categories:**2 
 
 ### **Rules**
 
-View the [Official Rules document](https://www.challenge.gov/assets/netlify-uploads/3.2-oio-rules-asaps-contest-1-final-.pdf) for detailed rules on all aspects of this challenge.
+View the [Official Rules document](/assets/netlify-uploads/3.2-oio-rules-asaps-contest-1-final-.pdf) for detailed rules on all aspects of this challenge.
 
 Rules regarding submissions, as well as additional terms and conditions, begin on Page 6 of the document.
 
@@ -58,3 +59,7 @@ Rules regarding submissions, as well as additional terms and conditions, begin o
 #### TEST Image Here - #2
 
 ![covid-19 test image]({{ site.baseurl }}/assets/netlify-uploads/xtech-ventilator-challenge2.png)
+
+#### TEST Inline Document Here - #3
+
+View the [Official Documents](<{{ site.baseurl }}/assets/netlify-uploads/asaps-judging-criteria.pdf>) here.
