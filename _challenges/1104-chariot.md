@@ -28,7 +28,7 @@ point-of-contact: psprizes@nist.gov
 <p><strong>NOTE:</strong> There are different submission deadlines for each track in Phase 1.</p>
 <ul>
 <li>Build Augmented Reality Interfaces for First Responders: Submissions due <strong>May 6, 2020 05:00 PM ET</strong></li>
-<li>Emulate Smart City Data for Disaster Scenarios: Submissions due <strong>April 23, 2020 05:00 PM ET</strong></li>
+<li>Emulate Smart City Data for Disaster Scenarios: Submissions due <strong>May 6, 2020 05:00 PM ET</strong></li>
 </ul>
 <p>The final phase of the CHARIoT Challenge will end on November 18, 2020.</p>
 
@@ -102,7 +102,7 @@ point-of-contact: psprizes@nist.gov
 </td>
 <td style="width: 392px; height: 18px;">
 <p><strong>Evaluation of Data Streams</strong></p>
-<p>The IoT data contestants will incorporate feedback from the 2020 Public Safety Stakeholder Meeting and collaborate with external public safety mentors and advisors to finalize their emulated data for the four emergency scenarios. Contestants will submit a wireless network and their data transmitters pre-configured for the four emergency scenarios for evaluation by the Judging panel.</p>
+<p>The IoT data contestants will collaborate with external public safety mentors and advisors to finalize their emulated data for the four emergency scenarios. Contestants will submit a wireless network and their data transmitters pre-configured for the four emergency scenarios for evaluation by the Judging panel.</p>
 </td>
 <td style="width: 360px; height: 18px;">
 <p><strong>AR Heads-Up Displays &amp; Holograms</strong></p>
@@ -148,7 +148,7 @@ point-of-contact: psprizes@nist.gov
 <p><strong>Total Cash Prize Pool</strong></p>
 <p>PSCR and its challenge partners will award prizes valued up to $1,100,000.</p>
 <p><strong>Prize Breakdown</strong></p>
-<p>Up to $888,000 in prizes are dedicated to the Build Augmented Reality interfaces for First Responders Contest.</p>
+<p>Up to $888,000 in prizes are dedicated to the Build Augmented Reality Interfaces for First Responders Contest.</p>
 <p>Up to $212,000 in prizes are dedicated to the Emulate Smart City Data for Disaster Scenario Contest.</p>
 <p><strong>Non-monetary Prizes</strong></p>
 <p>Winning contestants will receive additional prizes and technical mentorship opportunities with key challenge partners from Magic Leap, First Responder Network Authority, FirstNet built with AT&amp;T, MSA Safety and Blueforce Development.</p>
@@ -221,6 +221,6 @@ point-of-contact: psprizes@nist.gov
 <li><strong>Develop your Concept:</strong> Depending on your area of expertise, learn about the Stage 1 submission requirements for the AR submission or IoT submission then build your idea!</li>
 <li><strong>Submit your Entry:</strong> Log-in and complete your <a href="https://www.chariotchallenge.com/login/">submission</a> on the challenge platform.</li>
 </ol>
-<p>The Phase 1 Concept for Emulate Smart City Data for Disaster Scenarios is <u>due on April 23, 2020</u>.</p>
+<p>The Phase 1 Concept for Emulate Smart City Data for Disaster Scenarios is <u>due on May 6, 2020</u>.</p>
 <p>The Phase 1 Concept for Build Augmented Reality Interfaces for First Responders is <u>due on May 6, 2020</u>.</p>
-<p><strong>Submission URL: </strong><a href="http://www.chariotchallenge.com">www.chariotchallenge.com</a> to launch March 11, 2020.</p>
+<p><strong>Submission URL: </strong><a href="http://www.chariotchallenge.com">www.chariotchallenge.com</a> launched March 11, 2020.</p>
