@@ -176,9 +176,9 @@ point-of-contact: psprizes@nist.gov
 <li>IF NIST, in its discretion, finds any submission to be unacceptable, then such submission shall be deemed disqualified</li>
 </ul>
 <p>Any applicable intellectual property rights to a submission will remain with the contestant. By participating in the prize challenge, the contestant is not granting any rights in any patents, pending patent applications, or copyrights related to the technology described in the entry.</p>
-<p>Download the <a href="{{ site.baseurl }}/assets/document-library/CHARIoT Challenge_NISTPSCR_OfficialRules.pdf"> Official Rules</a>.</p>
+<p>Download the <a href="{{ site.baseurl }}/assets/document-library/CHARIoT_Challenge_NISTPSCR_OfficialRules.pdf"> Official Rules</a>.</p>
 <p><strong>Terms and Conditions</strong></p>
-<p>For a complete list of eligibility requirements and the terms and conditions, please see the <a href="{{ site.baseurl }}/assets/document-library/CHARIoT Challenge_NISTPSCR_OfficialRules.pdf"> Official Rules</a>.</p>
+<p>For a complete list of eligibility requirements and the terms and conditions, please see the <a href="{{ site.baseurl }}/assets/document-library/CHARIoT_Challenge_NISTPSCR_OfficialRules.pdf"> Official Rules</a>.</p>
 <ul>
 <li><strong>The official representative</strong> (whether an individual, team, or legal entity) must be 18 or older and a U.S. citizen or permanent resident of the United States or its territories</li>
 <li>In the case of a <strong>private entity</strong>, the business shall be incorporated in and maintain a place of business in the United States or its territories</li>
