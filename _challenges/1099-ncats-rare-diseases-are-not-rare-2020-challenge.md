@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash: $5,000
 type-of-challenge: Creative (multimedia and design); Ideas
 submission-start: 2020/02/29 09:00 AM 
-submission-end: 2020/04/30 05:00 PM
+submission-end: 2020/06/15 05:00 PM
 submission-link:
 prize: true
 fiscal-year: FY20
@@ -31,13 +31,14 @@ point-of-contact: RDChallenge@nih.gov
 ### Description
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<h4>UPDATE: The deadline for this challenge has been extended to June 15, 2020. Please see the Key Dates below for updated timeframes for judging period.</h4>
 <p>The National Center for Advancing Translational Sciences (NCATS), part of the National Institutes of Health (NIH), is seeking innovative ways to communicate with others and educate people about rare diseases through social media or art. There are about 7,000 different rare diseases that affect an estimated 30 million people in the United States. Some difficulties with rare diseases are that they are hard to recognize, are often hidden conditions, and most do not currently have ongoing medical research. The goal of this Challenge, which is being led by NCATS&rsquo; Office of Rare Diseases Research (ORDR), is to bring attention to rare diseases so that they can gain more medical research interest, thereby improving the lives of people with rare diseases. Science, especially genetic medicine, has moved forward to the point now where treatments are possible&mdash;such as gene therapies, 3-D printing (devices, tissues, and organs), and new drugs. Everyone deserves a chance at an effective medical treatment&mdash;whether for a common disease or a rare one.</p>
 <p>You can help us get the word out by competing in our rare diseases prize competition!</p>
 <p><strong>Key Dates:</strong></p>
 <ul>
 <li>The Challenge Begins: February 29, 2020</li>
-<li>Submission Period: <strong>9:00 AM ET, February 29, 2020 &ndash; April 30, 2020, 5:00 PM ET</strong></li>
-<li>Judging Period: May 1, 2020 &ndash; May 31, 2020</li>
+<li>Submission Period: <strong>9:00 AM ET, February 29, 2020 &ndash; June 15, 2020, 5:00 PM ET</strong></li>
+<li>Judging Period: June 16, 2020 &ndash; July 16, 2020</li>
 <li>Winners Announced: Summer 2020</li>
 </ul>
 <p>For full details about eligibility requirements, competition rules, detailed judging criteria, and deadlines for submissions, please consult the <a href="https://ncats.nih.gov/funding/challenges/rare-diseases-challenge-2020">NCATS Rare Diseases Are Not Rare! Challenge Details page</a>.</p>
@@ -69,7 +70,7 @@ point-of-contact: RDChallenge@nih.gov
 <li>Must be 18 years of age or older</li>
 <li>May participate individually or as part of one or more teams</li>
 <li>Each team&rsquo;s designated captain must be a U.S. citizen or permanent resident</li>
-<li>Must submit solutions by 5:00 PM Eastern Time on April 30, 2020</li>
+<li>Must submit solutions by 5:00 PM Eastern Time on June 15, 2020</li>
 </ul>
 <p><strong>To win prizes:</strong></p>
 <ul>
