@@ -10,7 +10,7 @@ card-image: /assets/netlify-uploads/minipayload.png
 agency-logo: /assets/netlify-uploads/717px-NASA_logo.png
 tagline: Give a tiny bot a new set of tools to explore the moon. Share your
   ideas for a mini payload to make lunar exploration more effective.
-agency: NASA
+agency: National Aeronautics and Space Administration
 external-url: https://www.herox.com/NASApayload
 total-prize-offered-cash: $160,000
 type-of-challenge:
