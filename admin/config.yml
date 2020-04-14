@@ -74,11 +74,11 @@ collections:
       - { label: 'Partner Agencies | Non-Federal', name: 'partner-agencies-non-federal', widget: 'string', required: false }
       - { label: 'external-url', name: 'external-url', widget: 'string', required: false }
       - { label: 'Total Prize Offered Cash', name: 'total-prize-offered-cash', widget: 'string', required: false }
-      - { label: 'Type of Challenge', name: 'type-of-challenge', widget: 'string' }
+      - { label: 'Type of Challenge', name: 'type-of-challenge', widget: 'select', multiple: true, options: ["Software and apps", "Creative (multimedia & design)", "Ideas", "Technology demonstration and hardware", "Nominations", "Business plans", "Analytics, visualizations, algorithms", "Scientific"] }
       - { label: 'Submission Start', name: 'submission-start', widget: 'string', hint: 'YYYY/MM/DD XX:XX AM/PM' }
       - { label: 'Submission End', name: 'submission-end', widget: 'string', hint: 'YYYY/MM/DD XX:XX AM/PM' }
       - { label: 'Fiscal Year', name: 'fiscal-year', widget: 'string', hint: 'FY20 or FY20, FY21' }
-      - { label: 'Legal Authority', name: 'legal-authority', widget: 'string' }
+      - { label: 'Legal Authority', name: 'legal-authority', widget: 'select', options: ["America COMPETES Act", "Agency specific prize authority", "Procurement Authority", "Other Transaction Authority", "Grants and cooperative agreements", "Other"] }
       - { label: 'Challenge Manager', name: 'challenge-manager', widget: 'string' }
       - { label: 'Challenge Manager Email', name: 'challenge-manager-email', widget: 'string' }
       - { label: 'Challenge Point of Contact', name: 'point-of-contact', widget: 'string', required: false }
