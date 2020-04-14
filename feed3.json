@@ -6,7 +6,7 @@ permalink: /feed-closed.json
     "version": "https://jsonfeed.org/version/1",
     "title": "{{ challenge.title | smartify | jsonify }}",
     "home_page_url": "{{ site.url }}",
-    "feed_url": "{{ site.url }}/feed-closed-imported.json",
+    "feed_url": "{{ site.url }}/feed-closed.json",
     "expired": false,
     "_challenge": [
 {% for item in site.historical-challenges %}
