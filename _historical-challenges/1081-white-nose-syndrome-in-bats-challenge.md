@@ -27,7 +27,7 @@ point-of-contact: WNSChallenge@fws.gov
 
 
 
-<h3>Help the U.S. Fish and Wildlife Service identify ways to permanently eradicate, weaken, or disarm the fungus that causes white-nose syndrome, a devastating disease that is killing millions of hibernating bats across the United States and Canada.</h3>
+<h3>UPDATE: The WNS Challenge winner announcement is postponed until further notice. Stay tuned for more information and thank you for your support!</h3>
 
 <!-- Description start -->
 ### Description
