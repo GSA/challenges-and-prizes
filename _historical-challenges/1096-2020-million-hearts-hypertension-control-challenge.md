@@ -1,4 +1,5 @@
 ---
+challenge-title: 2020 Million Hearts® Hypertension Control Challenge
 layout: front-matter-data
 permalink: /challenge/2020-million-hearts-hypertension-control-challenge/
 challenge-id: 1096
@@ -6,23 +7,34 @@ status: closed
 sidenav: true
 card-image: /assets/images/cards/2020-Million-Hearts.png
 agency-logo: 256px-US_CDC_logo.png
-challenge-title: 2020 Million Hearts® Hypertension Control Challenge
-tagline: Are you a clinician, practice or health system working to control hypertension among your patient population? 
-agency: Department of Health and Human Services - Centers for Disease Control and Prevention
-partner-agencies-federal:
-partners-non-federal:
-external-url:
-total-prize-offered-cash:
-type-of-challenge: Nominations
+tagline: Are you a clinician, practice or health system working to control
+  hypertension among your patient population?
+agency: Department of Health and Human Services - Centers for Disease Control
+  and Prevention
+partner-agencies-federal: null
+external-url: null
+total-prize-offered-cash: null
+type-of-challenge:
+  - Nominations
 submission-start: 02/21/2020 12:00 AM
 submission-end: 04/06/2020 11:59 PM
-submission-link:
-prize: true
 fiscal-year: FY20
 legal-authority: America COMPETES Act
 challenge-manager: Andrea Neiman
-challenge-manager-email: 
+challenge-manager-email: MillionHearts@cdc.gov
 point-of-contact: MillionHearts@cdc.gov
+prize: true
+partners-non-federal: null
+submission-link: null
+description: >-
+  ![2020 Million Hearts Hypertension Control Challenge logo]({{ site.baseurl
+  }}/assets/images/challenge-content/2020-Million-Hearts.png)
+
+
+  The Million Hearts® Hypertension Control Challenge is a competition to identify clinicians, practices, and health systems that have demonstrated exceptional achievements in working with their patients to control hypertension. This year, we will be recognizing those who achieved 80% blood pressure control (blood pressure reading <140 mmHg/<90 mmHg) among their hypertensive population aged 18-85 years.
+
+
+  The Challenge is open to public and private clinicians, medical practices, and health systems located in the United States. Strategies used by Champions that support hypertension control may be written into a success story and posted on the Million Hearts® website at [https://millionhearts.hhs.gov/](https://millionhearts.hhs.gov/).
 ---
 
 
