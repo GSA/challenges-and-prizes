@@ -14,8 +14,8 @@ partners-non-federal:
 external-url: https://afwerxchallenge.com/botf
 total-prize-offered-cash:
 type-of-challenge: Technology demonstration and hardware
-submission-start: 03/10/2020 9 a.m.
-submission-end: 04/14/2020 11:59 p.m.
+submission-start: 03/10/2020 9 AM
+submission-end: 04/14/2020 11:59 PM
 submission-link: https://afwerxchallenge.com/botf
 prizes: true
 fiscal-year: FY20

@@ -14,8 +14,8 @@ partner-agencies-federal: null
 external-url: http://www.aaccinnovationchallenge.com
 total-prize-offered-cash: null
 type-of-challenge: Ideas, scientific
-submission-start: 01/16/2020 9 a.m.
-submission-end: 04/03/2020 11:59 p.m.
+submission-start: 01/16/2020 9 AM
+submission-end: 04/03/2020 11:59 PM
 fiscal-year: FY20
 legal-authority: Grants and Cooperative Agreements
 challenge-manager: Kim Nelson and Ellen Hause
