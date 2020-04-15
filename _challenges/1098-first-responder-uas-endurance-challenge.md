@@ -31,6 +31,11 @@ point-of-contact: jshapiro@capconcorp.com
 ### Description
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
+<p>Informational Materials</p>
+<ul>
+<li><a href="https://capconcorp.egnyte.com/dl/FqF0hCXwEV/" target="_blank" rel="noopener">April 2, 2020 Webinar</a></li>
+<li><a href="https://www.firstresponderuaschallenge.org/faqs.php" target="_blank" rel="noopener">Frequently Asked Questions</a></li>
+</ul>
 <p>Join us for this exciting drone (aka unmanned aircraft system or UAS) prize competition using your ingenuity and hardware build expertise to create a concept for a drone prototype. The result of the First Responder UAS Endurance Challenge will support the public safety community and its stakeholders.</p>
 <p>Vertical take-off and landing (VTOL) UAS provide many different mission capabilities, but their flight time is limited. The payload capacity, energy source and flight time are linked through design trade-offs that can be optimized for efficiency and flexibility. This challenge is designed to keep a UAS and its payload airborne for the longest time possible to support first responders on the ground while they conduct their mission. The advancement of UAS research achieved through this challenge will help support the development and operation of UAS that are intended to host critical tools for public safety missions, such as wireless communications systems.</p>
 <p>The National Institute of Standards and Technology (NIST) Public Safety Communications Research (PSCR) Division is hosting a 4-stage challenge, with prize awards <strong>up to $552,000</strong> for the top designs. There are no fees or qualifications needed to enter the first stage. The most outstanding Stage 1 conceptual designs will be eligible to participate in the remaining stages of the competition (see Official Rules).</p>
