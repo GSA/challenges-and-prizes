@@ -31,7 +31,7 @@ point-of-contact: jshapiro@capconcorp.com
 ### Description
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p>Informational Materials</p>
+<h3>Informational Materials</h3>
 <ul>
 <li><a href="https://capconcorp.egnyte.com/dl/FqF0hCXwEV/" target="_blank" rel="noopener">April 2, 2020 Webinar</a></li>
 <li><a href="https://www.firstresponderuaschallenge.org/faqs.php" target="_blank" rel="noopener">Frequently Asked Questions</a></li>
