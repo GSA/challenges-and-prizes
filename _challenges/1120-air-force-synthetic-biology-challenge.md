@@ -24,21 +24,22 @@ point-of-contact: bob.lee@wbi-innovates.com
 ---
 ### Description
 
-This is the first of three challenges the Air Force Research Laboratory is sponsoring. It is focused on the use of biotechnology to create products or product precursors required by the Air Force. Participants will submit white papers on viability of the approach to bio-synthesize two molecules A and B needed for aerospace thermosets.\
-\
-In Phase Two, submitted white papers will be down-selected from the viable entrees . The potential awardees will be given two weeks to enter into a subsequent agreement with a company that can scale up their production concept and demonstrate the capability to manufacture testable amounts with a US company (if they cannot manufacture themselves).\
-\
+This is the first of three challenges the Air Force Research Laboratory is sponsoring. It is focused on the use of biotechnology to create products or product precursors required by the Air Force. Participants will submit white papers on viability of the approach to bio-synthesize two molecules A and B needed for aerospace thermosets.
+
+In Phase Two, submitted white papers will be down-selected from the viable entrees . The potential awardees will be given two weeks to enter into a subsequent agreement with a company that can scale up their production concept and demonstrate the capability to manufacture testable amounts with a US company (if they cannot manufacture themselves).
+
 Semi-finalist teams will be given a one-hour time slot to pitch their concept and scale up strategy, with their manufacturing partner (if needed), to the evaluation team.
 
 ### Prizes
 
 This challenge has a $1 Million prize.
 
-Prize Breakdown: The winner of this Pitch Competition will be awarded half of the prize (based on their total cost estimate to complete the challenge). They will then demonstrate that they can bio-synthesize molecules A and B. Upon completion of this demonstration they will then be given one-third of the prize award to demonstrate the viability of the concept to manufacture 1 gram each of A and B to test for purity.
+**Prize Breakdown:** The winner of this Pitch Competition will be awarded half of the prize (based on their total cost estimate to complete the challenge). They will then demonstrate that they can bio-synthesize molecules A and B. Upon completion of this demonstration they will then be given one-third of the prize award to demonstrate the viability of the concept to manufacture 1 gram each of A and B to test for purity.
 
 ### Rules
 
-Participants will submit white papers on viability of the approach to bio-synthesize two molecules A and B needed for aerospace thermosets. To complete this contest the awardee must manufacture the testable quantity within three months of the start of this award. Upon successful completion the final 1/6 of the prize will be awarded.\
+Participants will submit white papers on viability of the approach to bio-synthesize two molecules A and B needed for aerospace thermosets. To complete this contest the awardee must manufacture the testable quantity within three months of the start of this award. Upon successful completion the final 1/6 of the prize will be awarded.
+
 No prize will be awarded if a viable path to testable quantities of targets A and B are not identified in Phase 1.
 
 ### Judging Criteria
