@@ -5,6 +5,7 @@ backend:
   base_url: https://federalistapp.18f.gov
   auth_endpoint: external/auth/github
   preview_context: federalist/build
+publish_mode: editorial_workflow
 media_folder: '/assets/netlify-uploads'
 public_folder: '/assets/netlify-uploads'
 collections:
