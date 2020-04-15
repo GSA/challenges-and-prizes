@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/leveraging-technology-for-operational-effectiveness/
 challenge-id: 1109
-status: open
+status: closed
 sidenav: false
 card-image: /assets/images/cards/ops-tech.png
 agency-logo: dod_seal.jpg
@@ -14,8 +14,8 @@ partners-non-federal:
 external-url: https://afwerxchallenge.com/botf
 total-prize-offered-cash:
 type-of-challenge: Technology demonstration and hardware
-submission-start: 2020/03/10 9 a.m.
-submission-end: 2020/04/14 11:59 p.m.
+submission-start: 03/10/2020 9 a.m.
+submission-end: 04/14/2020 11:59 p.m.
 submission-link: https://afwerxchallenge.com/botf
 prizes: true
 fiscal-year: FY20
