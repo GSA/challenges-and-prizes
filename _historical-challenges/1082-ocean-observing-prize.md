@@ -15,7 +15,7 @@ external-url:
 total-prize-offered-cash: $3,125,000
 type-of-challenge: Ideation, Technology demonstration/hardware
 submission-start: 11/14/2019
-submission-end: 02/12/2020 11:59 p.m.
+submission-end: 02/12/2020 11:59 PM
 submission-link: https://americanmadechallenges.org/oceanobserving/
 prize: true
 fiscal-year: FY19, FY20, FY21

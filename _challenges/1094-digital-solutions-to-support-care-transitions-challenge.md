@@ -23,6 +23,34 @@ legal-authority: America COMPETES Act
 challenge-manager: Susan Kerin
 challenge-manager-email: susank@capconcorp.com
 point-of-contact: ahrqchallenge@ahrq.hhs.gov
+description: <p>AHRQ is seeking technological solutions that ease administrative and information management burdens, and support patient activation and engagement, especially among Americans that may have low health literacy or limited English language proficiency. These technical solutions should leverage evidence-based standards.</p>
+    <p>Solutions in this Challenge will improve care communications during transitions, develop and use standardized processes for leveraging and transferring data from electronic health records.</p>
+    <p>Fast Healthcare Interoperability Resources (FHIR) serves as a standalone data exchange standard but can be used in partnership with existing widely used standards, accelerating the develop process for digital solutions. FHIR is used to address the people, processes, and technology needed to send, receive, and use digital care plans and optimize medication reconciliation.&nbsp; Winning solutions that use FHIR in this Challenge would enable patients, families, and caregivers to receive and understand hospital discharge instructions and care plans while easing administrative burden on physicians, nurses, and staff at discharging hospitals.</p>
+    <p>The Challenge will include two phases.</p>
+    <p><strong>Key Dates:</strong></p>
+    <ul>
+    <li>Phase 1 Submission Open:&nbsp; February 10, 2020</li>
+    <li>Phase 1 Submission Close:&nbsp; April 6, 2020</li>
+    <li>Judging and Review Period:&nbsp; Anticipated April 6, 2020 &ndash; May 2020</li>
+    <li>Phase 2 Submission Open:&nbsp; Anticipated May 2020</li>
+    <li>Phase 1 Submission Close:&nbsp; Anticipated November 20, 2020</li>
+    </ul>
+prizes: <p><strong>Phase 1 &ndash; Proposal of Innovative Models</strong></p>
+    <ul>
+    <li>Total Cash Prize:&nbsp; $100,000</li>
+    <li>$20,000 per semi-finalist will be awarded; up to 5 awards</li>
+    <li>Semi-finalists will use a portion of their earnings to travel to a demo day in either Chicago, IL or Washington, DC.</li>
+    </ul>
+    <p><strong>Phase 2 &ndash; Prototype Development</strong></p>
+    <p>AHRQ/HHS will make up to two awards:</p>
+    <ul>
+    <li>Total Cash Prize:&nbsp; $75,000</li>
+    <li>First place winner:&nbsp; $50,000</li>
+    <li>Second place winner:&nbsp; $25,000</li>
+    </ul>
+rules: <p>The rules can be found here:&nbsp; <a href="https://bestincrowd.com/home/challenge-details/digital-solutions-to-support-care-transitions" target="_blank" rel="noopener">https://bestincrowd.com/home/challenge-details/digital-solutions-to-support-care-transitions</a></p>
+judging: <p>Please review the official rules for the judging criteria here:&nbsp; <a href="https://bestincrowd.com/home/challenge-details/digital-solutions-to-support-care-transitions" target="_blank" rel="noopener">https://bestincrowd.com/home/challenge-details/digital-solutions-to-support-care-transitions</a></p>
+how-to-enter: <p>Competitors can enter the Challenge here:&nbsp; <a href="https://bestincrowd.com/home/challenge-details/digital-solutions-to-support-care-transitions" target="_blank" rel="noopener">https://bestincrowd.com/home/challenge-details/digital-solutions-to-support-care-transitions</a></p>
 ---
 
 

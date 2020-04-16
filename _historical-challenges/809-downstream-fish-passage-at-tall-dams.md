@@ -22,6 +22,21 @@ fiscal-year: FY16
 legal-authority: America COMPETES
 challenge-manager: David Raff
 challenge-manager-email: draff@usbr.gov
+description: <p><strong>All official entries must be submitted via the Innocentive website at the following:</strong></p>
+    <p><strong><a href="https://www.innocentive.com/ar/challenge/9933648" target="_blank" rel="noopener">https://www.<span class="il">innocentive</span>.com/<wbr />ar/challenge/9933648</a></strong></p>
+    <p>The Bureau of Reclamation, in collaboration with federal and state partners,&nbsp;is seeking new ideas for successful and cost-effective downstream fish passage&nbsp;at tall&nbsp;dams. &nbsp;Effective downstream passage for migrating juvenile fish will help us recover threatened and endangered species such as salmon and steelhead. A successful solution should describe how fish will be attracted to the system and how fish will be collected, conveyed, and released. &nbsp;Solutions should minimize:</p>
+    <ul>
+    <li>Physical damage to fish</li>
+    <li>Stress (e.g. crowding, removal from water, disorientation)</li>
+    <li>Impacts to&nbsp;the operation of the dam</li>
+    <li>Overall cost</li>
+    </ul>
+    <p>This is an Ideation Challenge with a guaranteed award for at least one submitted solution.</p>
+prizes: <p>The awards will be paid to the best submission(s)&nbsp;as solely determined by the Seeker.&nbsp; The total payout will be&nbsp;$20,000, with at least one award being no smaller than&nbsp;$5,000&nbsp;and no award being smaller than&nbsp;$2,500.</p>
+rules: <p><strong>All official entries must be submitted via the Innocentive website at the following:</strong></p>
+    <p><strong><a href="https://www.innocentive.com/ar/challenge/9933648" target="_blank" rel="noopener">https://www.<span class="il">innocentive</span>.com/<wbr />ar/challenge/9933648</a></strong></p>
+how-to-enter: <p><strong>All official entries must be submitted via the Innocentive website at the following:</strong></p>
+    <p><strong><a href="https://www.innocentive.com/ar/challenge/9933648" target="_blank" rel="noopener">https://www.<span class="il">innocentive</span>.com/<wbr />ar/challenge/9933648</a></strong></p>
 ---
 
 <!-- Description start -->
