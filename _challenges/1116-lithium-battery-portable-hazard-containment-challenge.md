@@ -207,17 +207,14 @@ description: >-
   Official responses to questions that have come in:
 
 
-  1. While carefully reading the threshold parameters, we came across “Physical dimension must have a single side that is less than 36” in circumference and 11.5” in radius”. It looks like that you are assuming the cylindrical object to hold four batteries and not rectangular. However, in order to have 36” circumference, is the 11.5” is radius or diameter. If its diameter, the calculations for circumference C (36”) = 2PI r = 2x3.14x5.75 would make sense. Please clarify.\
+  1. While carefully reading the threshold parameters, we came across “Physical dimension must have a single side that is less than 36” in circumference and 11.5” in radius”. It looks like that you are assuming the cylindrical object to hold four batteries and not rectangular. However, in order to have 36” circumference, is the 11.5” is radius or diameter. If its diameter, the calculations for circumference C (36”) = 2PI r = 2x3.14x5.75 would make sense. Please clarify.
 
-  \
 
-  *Answer: The requirement is that one orientation of the containment system must have a maximum diameter of 23”. This containment system does not have to have a side that is round.*\
+  *Answer: The requirement is that one orientation of the containment system must have a maximum diameter of 23”. This containment system does not have to have a side that is round.*
 
-  \
 
-  2. Please clarify the dimension requirements and in particular this: “Physical dimension must have a single side that is less than 36” in circumference and 11.5” in radius”. For a rectangular enclosure of dimensions 14.5” x 13.5” x 5.5”, how would you calculate the sides circumference and radius for such enclosure? Would it meet your requirements?\
+  2. Please clarify the dimension requirements and in particular this: “Physical dimension must have a single side that is less than 36” in circumference and 11.5” in radius”. For a rectangular enclosure of dimensions 14.5” x 13.5” x 5.5”, how would you calculate the sides circumference and radius for such enclosure? Would it meet your requirements?
 
-  \
 
   *Answer: The requirement is that one orientation of the containment system must have a maximum diameter of 23”. This containment system does not have to have a side that is round.*
 prizes: >-
