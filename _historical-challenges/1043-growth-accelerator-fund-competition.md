@@ -63,123 +63,40 @@ challenge-manager-email: steven.becker@nih.gov
 <p style="padding-left: 30px;"><!-- [if !supportLists]--><span lang="EN">- </span><span lang="EN">See 13 CFR 124.103 and 13 CFR 124.104.</span><span lang="EN">&nbsp;</span></p>
 <p><strong><span lang="EN">-OR-</span></strong></p>
 <p><span lang="EN">C - Entrepreneurs that live in states or territories that are underrepresented by SBIR/STTR awardees, or whose businesses are located in and operate out of states or territories that are underrepresented by SBIR/STTR awardees.&nbsp; <em>Growth Accelerators in states or territories that meet the underrepresented criteria can still have a primary focus in one of the other Entrepreneur Groups.&nbsp; Be sure to note which Entrepreneur Group will be the primary focus.&nbsp; &nbsp;&nbsp;</em></span></p>
-<p><span lang="EN">List of Qualifying States and Territories:</span></p>
-<div align="center">
-<table border="1" width="100%" cellspacing="0" cellpadding="0">
-<tbody>
-<tr>
-<td valign="bottom" nowrap="nowrap" width="156">
-<p>Alaska</p>
-</td>
-<td valign="bottom" nowrap="nowrap" width="156">
-<p>Indiana</p>
-</td>
-<td valign="bottom" nowrap="nowrap" width="156">
-<p>Nebraska</p>
-</td>
-<td valign="bottom" nowrap="nowrap" width="156">
-<p>South Carolina</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" nowrap="nowrap" width="156">
-<p>American Samoa</p>
-</td>
-<td valign="bottom" nowrap="nowrap" width="156">
-<p>Iowa</p>
-</td>
-<td valign="bottom" nowrap="nowrap" width="156">
-<p>Nevada</p>
-</td>
-<td valign="bottom" nowrap="nowrap" width="156">
-<p>South Dakota</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" nowrap="nowrap" width="156">
-<p>Arkansas</p>
-</td>
-<td valign="bottom" nowrap="nowrap" width="156">
-<p>Kansas</p>
-</td>
-<td valign="bottom" nowrap="nowrap" width="156">
-<p>North Dakota</p>
-</td>
-<td valign="bottom" nowrap="nowrap" width="156">
-<p>Tennessee</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" nowrap="nowrap" width="156">
-<p>Delaware</p>
-</td>
-<td valign="bottom" nowrap="nowrap" width="156">
-<p>Kentucky</p>
-</td>
-<td valign="bottom" nowrap="nowrap" width="156">
-<p>Northern Mariana Islands</p>
-</td>
-<td valign="bottom" nowrap="nowrap" width="156">
-<p>U.S. Virgin Islands</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" nowrap="nowrap" width="156">
-<p>District of Columbia</p>
-</td>
-<td valign="bottom" nowrap="nowrap" width="156">
-<p>Maine</p>
-</td>
-<td valign="bottom" nowrap="nowrap" width="156">
-<p>Oklahoma</p>
-</td>
-<td valign="bottom" nowrap="nowrap" width="156">
-<p>Vermont</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" nowrap="nowrap" width="156">
-<p>Guam</p>
-</td>
-<td valign="bottom" nowrap="nowrap" width="156">
-<p>Mississippi</p>
-</td>
-<td valign="bottom" nowrap="nowrap" width="156">
-<p>Louisiana</p>
-</td>
-<td valign="bottom" nowrap="nowrap" width="156">
-<p>West Virginia</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" nowrap="nowrap" width="156">
-<p>Hawaii</p>
-</td>
-<td valign="bottom" nowrap="nowrap" width="156">
-<p>Missouri</p>
-</td>
-<td valign="bottom" nowrap="nowrap" width="156">
-<p>Puerto Rico</p>
-</td>
-<td valign="bottom" nowrap="nowrap" width="156">
-<p>Wisconsin</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" nowrap="nowrap" width="156">
-<p>Idaho</p>
-</td>
-<td valign="bottom" nowrap="nowrap" width="156">
-<p>Montana</p>
-</td>
-<td valign="bottom" nowrap="nowrap" width="156">
-<p>Rhode Island</p>
-</td>
-<td nowrap="nowrap" width="156">Wyoming</td>
-</tr>
-</tbody>
-</table>
-</div>
+<p><span lang="EN">List of Qualifying States and Territories:</span>
+<ul>
+<li>Alaska</li>
+<li>Indiana</li>
+<li>Nebraska</li>
+<li>South Carolina</li>
+<li>American Samoa</li>
+<li>Iowa</li>
+<li>Nevada</li>
+<li>South Dakota</li>
+<li>Arkansas</li>
+<li>Kansas</li>
+<li>North Dakota</li>
+<li>Tennessee</li>
+<li>Delaware</li>
+<li>Kentucky</li>
+<li>Northern Mariana Islands</li>
+<li>U.S. Virgin Islands</li>
+<li>District of Columbia</li>
+<li>Maine</li>
+<li>Oklahoma</li>
+<li>Vermont</li>
+<li>Guam</li>
+<li>Mississippi</li>
+<li>Louisiana</li>
+<li>West Virginia</li>
+<li>Hawaii</li>
+<li>Missouri</li>
+<li>Puerto Rico</li>
+<li>Wisconsin</li>
+<li>Idaho</li>
+<li>Montana</li>
+<li>Rhode Island</li>
+</ul></p>
 <p class="MsoNormal"><strong><span lang="EN">-OR-</span></strong></p>
 <p><span lang="EN">D - Entrepreneurs that live in an Opportunity Zone, or whose businesses are located in and operate out of an Opportunity Zone.</span></p>
 <p style="padding-left: 30px;">- Definition of an Opportunity Zone: Refer to the list of designated Opportunity Zones at <a href="https://www.cdfifund.gov/Pages/Opportunity-Zones.aspx" target="_blank" rel="noopener">https://www.cdfifund.gov/Pages/Opportunity-Zones.aspx</a></p>
