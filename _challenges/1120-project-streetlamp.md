@@ -9,7 +9,7 @@ sidenav: true
 card-image: /assets/netlify-uploads/project-streetlamp.jpg
 agency-logo: /assets/netlify-uploads/cftc.jpg
 tagline: Deploy AI and other technologies that help CFTC identify unregistered
-  foreign entities so U.S. customers can make more informed trade decisions.
+  foreign entities so U.S. customers can make informed trade decisions.
 agency: Commodity Futures Trading Commission
 type-of-challenge:
   - Software and apps
