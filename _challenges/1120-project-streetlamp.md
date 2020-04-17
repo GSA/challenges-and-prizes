@@ -21,6 +21,7 @@ legal-authority: America COMPETES Act
 challenge-manager: Brian Trackman
 challenge-manager-email: Btrackman@cftc.gov
 point-of-contact: LabCFTC@cftc.gov
+body-content-uploads: /assets/netlify-uploads/project-streetlamp-official-announcement.pdf
 ---
 ### Description
 
@@ -29,6 +30,8 @@ The mission of the Commodity Futures Trading Commission’s (“CFTC”)is to pr
 Increasingly, fraudsters use a variety of social engineering, fake profiling and manipulative techniques to ensnare their victims.Fraud tactics regularly employ common keywords and phrases.With this information, there is an opportunity to utilize modern technology as a tool to augment traditional, manual efforts and to identify bad actors.
 
 The CFTC is vigilant to protect customers from unscrupulous fraudsters, including those operating outside the U.S.LabCFTC is launching this competition (“Project Streetlamp”) to call on innovators to utilize technology, including artificial intelligence (“AI”), and innovative approaches to detect foreign entities that should be – but are not –registered with the CFTC.The competition is intended to generate information that ultimately helps customers make more informed decisions about whether to trade with, or through, these unregistered foreign entities.
+
+View the Project Streetlamp [official announcement](<{{ site.baseurl }}/assets/netlify-uploads/project-streetlamp-official-announcement.pdf>).
 
 **The RED List**
 
@@ -85,3 +88,5 @@ For purposes of this contest, successful tools will use AI and/or other technolo
 Finally, the tool should incorporate an archive function that saves searches and results for future reference and audit purposes.\
 \
 Participants will determine the best approach to create their tool and to deploy it, as well as the format of the report and output that is generated. The output may be in any machine readable format (e.g., csv, xml, excel) to facilitate further analysis.
+
+*Note: Reference to the NFA is for informational purposes only and does not constitute endorsement, recommendation, or favoring by the U.S. government.*
