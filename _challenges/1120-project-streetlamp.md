@@ -90,3 +90,61 @@ Finally, the tool should incorporate an archive function that saves searches and
 Participants will determine the best approach to create their tool and to deploy it, as well as the format of the report and output that is generated. The output may be in any machine readable format (e.g., csv, xml, excel) to facilitate further analysis.
 
 *Note: Reference to the NFA is for informational purposes only and does not constitute endorsement, recommendation, or favoring by the U.S. government.*
+
+### Rules
+
+The administration of Project Streetlamp will be carried out in accordance with Section 401 of the American Innovation and Competitiveness Act which is known as the Science Prize Competition Act (“SPCA”), 15 U.S.C. 3719, and the rules, terms, and conditions described in this announcement. Subject to the following provisions, all interested competitors – individuals and entities – are encouraged to participate. Collaboration is encouraged. Team entries will be accepted. All members of teams must be individually eligible to participate in accordance with these rules.
+
+#### Participant Eligibility
+
+(1) Individuals or entities being investigated by, or not in good standing with, the CFTC may not compete. Likewise, individuals or entities participating in the contest must not be suspended, debarred, or otherwise excluded from doing business with the federal government. An individual or entity that is determined to be on the GSA Excluded Parties List (www.sam.gov) is ineligible to participate.
+
+(2) Participants, including individuals and private entities, must not have been convicted of a felony criminal violation under any federal law within the preceding 24 months and must not have any unpaid federal tax liability that has been assessed, for which all judicial and administrative remedies have been exhausted or have lapsed, and that is not being paid in a timely manner pursuant to an agreement with the authority responsible for collecting the tax liability.
+
+(3) Individuals entering on behalf of or representing a company, institution, or other legal entity are responsible for confirming that their entry does not violate any policies of that company, institution, or legal entity.
+
+(4) The CFTC reserves the right to exclude from this competition any person or entity whose participation may not serve the public interest. Any such decision shall be final and not subject to review or appeal.
+
+(5) CFTC employees shall not be permitted to participate in the competition. Non-CFTC federal employees acting in their personal capacities should consult with their respective agency ethics officials to determine whether their participation in this challenge is permissible.
+
+(6) A participant shall not be deemed ineligible because the participant consulted with federal employees or used federal facilities in preparing its entry to this competition if the federal employees and facilities are made available to all participants on an equitable basis.
+
+#### Submission Requirements
+
+(1) The submission (and use of the submission) does not, and will not, (1) violate any applicable laws or regulations of the United States, including licensing, export control, and nonproliferation laws, and related regulations; (2) violate or infringe upon the patent rights, industrial design rights, copyrights, trademarks, rights of privacy, publicity or other intellectual property or other rights of any person or entity; or (3) disclose trade secrets (the participant’s or anyone else’s).
+
+(2) The submission represents original work of the participant(s), or it is being submitted with all necessary permissions and with full and proper credit given within the entry.
+
+(3) The participant has the right and authority to make the submission on the participant’s own behalf and on behalf of any other persons and entities specified in the submission.
+
+(4) The submission works reliably (i.e., generates consistent results over time), and is designed to generate true information (i.e., balances comprehensiveness with accuracy). The submission does not contain malicious code, such as viruses, malware, timebombs, cancelbots, worms, Trojan horses, or other potentially harmful programs or other material.
+
+(5) The submission may not use the logo or official seal of the CFTC or any other government agency, and the submission must not claim CFTC or government endorsement.
+
+#### Ownership and Use Rights
+
+(1) Participation in Project Streetlamp does not transfer ownership of any intellectual property rights in a submission or any related components of a submission.
+
+(2) By submitting an entry individually or as a member of team, a contest participant agrees to grant to the CFTC, competition judges, competition administrators, and the designees of any of them: (a) the right to review, test and evaluate the submission, (b) the right to publicly describe the submission in any materials created in connection with this competition, and (c) the right to use any data or information or other output generated.
+
+#### Publicity
+
+Each participant in Project Streetlamp grants the CFTC permission to use his/her/its name, likeness, photograph, voice, statements, and/or submission summary on its website and for promotional purposes in any form of media, worldwide, including the CFTC’s website, print materials, outreach materials, and social media without further permission, payment, or consideration. The submission summary will include the written description provided with the submission, as well as the names and titles of any submission contributors.
+
+#### Terms and Conditions
+
+(1) The competition is subject to all applicable federal, state, and local laws and regulations. Participants are responsible for checking applicable laws and regulations in their jurisdiction(s) before participating in the prize competition to ensure that their participation is legal. The CFTC shall not, by virtue of conducting this prize competition, be responsible for compliance by participants in the prize competition with any applicable law. Individuals entering on behalf of or representing a company, institution, or other legal entity are responsible for confirming that their entry does not violate any policies of that company, institution, or legal entity.
+
+(2) Federal contractors may not use federal funds from a contract to develop a submission for this competition or otherwise to fund efforts in support of a submission.
+
+(3) The CFTC has determined to waive the insurance requirement in 15 U.S.C. § 3719(i)(2). Individuals and entities participating in the Project Streetlamp competition will not be required to obtain liability insurance or demonstrate financial responsibility in order to participate in this prize competition.
+
+(4) CFTC reserves the right in its sole discretion to disqualify any submission. Submissions containing any matter which, in the sole discretion of the CFTC, is indecent, defamatory, in obvious bad taste, which demonstrates a lack of respect for public morals or conduct, which promotes discrimination in any form, which shows unlawful acts being performed, which is slanderous or libelous, or which adversely affects the reputation of the CFTC, will not be accepted, and will not be evaluated or considered for award.
+
+(5) The CFTC reserves the right to remove any content from its website in its sole discretion at any time and for any reason.
+
+(6) The CFTC reserves the right to cancel, suspend, postpone, or modify Project Streetlamp, or any part of it, in its sole discretion at any time and for any reason. If the CFTC takes any of these actions, it will notify contest participants.
+
+(7) By entering this competition, participant agrees to assume any and all risks and waive claims against the CFTC, federal government and its related entities (i.e., a contractor or subcontractor at any tier, and a supplier, user, customer, cooperating party, grantee, investigator, or detailee), except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from their participation in the competition, whether the injury, death, damage, or loss arises through negligence or otherwise. The CFTC and federal government shall not be responsible or liable for any expenses, losses, damages, or injuries of any kind (including death) resulting from participation in Project Streetlamp or any competition-related activity, or from participants’ acceptance, receipt, possession, use, or misuse of any prize.
+
+(8) Participation constitutes full and unconditional agreement by the individual(s) and/or entity(ies) to all of the rules, terms, and conditions set forth in this announcement, which are final and binding in all matters related to the Project Streetlamp competition.
