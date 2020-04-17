@@ -91,6 +91,12 @@ Participants will determine the best approach to create their tool and to deploy
 
 *Note: Reference to the NFA is for informational purposes only and does not constitute endorsement, recommendation, or favoring by the U.S. government.*
 
+### Prizes
+
+Contest winner(s) will be recognized on the CFTC’s website, <https://www.cftc.gov>.  Each contest winner will also be designated as a CFTC Innovator of the Year and receive a commemorative award.  Winner(s) will be invited to CFTC headquarters where they will have the opportunity to meet the LabCFTC Director and other CFTC staff, present their submissions, and receive their award during a formal ceremony. 
+
+Travel expenses are not covered.  No cash prize will be awarded.
+
 ### Rules
 
 The administration of Project Streetlamp will be carried out in accordance with Section 401 of the American Innovation and Competitiveness Act which is known as the Science Prize Competition Act (“SPCA”), 15 U.S.C. 3719, and the rules, terms, and conditions described in this announcement. Subject to the following provisions, all interested competitors – individuals and entities – are encouraged to participate. Collaboration is encouraged. Team entries will be accepted. All members of teams must be individually eligible to participate in accordance with these rules.
@@ -148,3 +154,13 @@ Each participant in Project Streetlamp grants the CFTC permission to use his/her
 (7) By entering this competition, participant agrees to assume any and all risks and waive claims against the CFTC, federal government and its related entities (i.e., a contractor or subcontractor at any tier, and a supplier, user, customer, cooperating party, grantee, investigator, or detailee), except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from their participation in the competition, whether the injury, death, damage, or loss arises through negligence or otherwise. The CFTC and federal government shall not be responsible or liable for any expenses, losses, damages, or injuries of any kind (including death) resulting from participation in Project Streetlamp or any competition-related activity, or from participants’ acceptance, receipt, possession, use, or misuse of any prize.
 
 (8) Participation constitutes full and unconditional agreement by the individual(s) and/or entity(ies) to all of the rules, terms, and conditions set forth in this announcement, which are final and binding in all matters related to the Project Streetlamp competition.
+
+### How To Enter
+
+(1) Prepare a submission. A submission consists of the following components:
+
+* A submission summary. A brief overview (~300 words max) of your tool suitable for immediate publication.
+* Written explanation. This element should explain in detail your solution and how it works. Please include any relevant technical details, and indicate any special functionalities (or limitations) of the tool. Please include in this explanation instructions for installation / implementation as may be appropriate.
+* The tool. Entries should either include a copy of the code or program that you have developed or, if the tool is hosted externally, access instructions to facilitate evaluation by the judging panel.
+* Example of output. A copy of the tool’s output demonstrating its capability (i.e., list of entities or data identifying entities as described in this announcement – see Outputs section).
+* A list with the name, affiliation, and contact information for each individual and entity that contributed to the contest entry.
