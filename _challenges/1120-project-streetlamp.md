@@ -157,41 +157,34 @@ Each participant in Project Streetlamp grants the CFTC permission to use his/her
 
 #### Judging Criteria
 
-
-   
-
-**Judging Panel**
-
-
+#### **Judging Panel**
 
 The judging panel will consist of three members of the CFTC staff.One panelist will bring an application focus, able to assess how the submission(both the tool and its output) canbe used and its overall effectiveness.Another panelist will have a technical background,able to read, interpret, and understand the coding behind the program.The third panel member will have a regulatory background. This person would bring an understanding of regulation from the perspective of market intermediaries, including compliance and possibly registration issues.
 
-
-
-**Judging Criteria**
-
-
-
-**Evaluation Criteria**
+#### **Evaluation Criteria**
 
 The judging panel will evaluate each submission using a scoring rubric in terms of its output, effectiveness, and ease of use as defined by the evaluation criteria discussed below.In conducting the evaluation, judges will determine the points that a submission merits up to the maximum value specified for each element.
 
-* To what extent does the tool effectively discover entities appropriate for inclusion on the RED List?(See Entity Selection Criteria above.)
-* * How many entities does the tool identify?How many of these entities would be determined appropriate to add to the RED List (true positives), and how many of the entities would not be appropriate for the RED List (false positives)?(10 points)
-  * What is the scope of the tool in searching for such entities?Does it cover a variety of platforms and media?(10 points)
-  * Can the tool be configured or “customized” to identify particular types of activity?(10 points)
-* To what extent is the tool able to perform an analysis that aligns with, and so facilitates, the CFTC staff review process for making such a determination?
-* * To the extent that the tool makes use of AI, are the results generated explainable?Can CFTC staff understand how the tool identified a foreign entity?(10 points)
-* * Can the tool provide an output that responds to each of the questions CFTC staff considers in its preliminary review of an entity (see Competition section)?(10 points)
-  * Is the tool able to prioritize or rank its output to identify foreign entities that may be most problematic?(10 points)
-  * How easy is the tool to use?Is it easy to interact with?(10 points)
-* To what extent does the tool provide additional information that may be of use to the CFTC (*e.g.*, efforts to target customer outreach and education effectively; understand methods unregistered entities use to promote their operation and entice participation, etc.) Relevant information might include data on any of the following:(5 points)
-* * * Modes of communication and user engagement (*e.g.*, social media, instant message (IM), third party apps, communities and groups).
-    * Message commonalities.
-    * Amount of engagement with potential targets (*e.g.*, message count, degree of personalization, response rate, etc.), timing or cadence of posts, geographic targeting of messages, and types of products offered.
-    * Information on platform utilization (*i.e.*, which platforms have higher likelihood for carrying scam messages).
+To what extent does the tool effectively discover entities appropriate for inclusion on the RED List?(See Entity Selection Criteria above.)
 
-For decentralized networks, network maps, including identity of nodes.
+* How many entities does the tool identify?How many of these entities would be determined appropriate to add to the RED List (true positives), and how many of the entities would not be appropriate for the RED List (false positives)?(10 points)
+* What is the scope of the tool in searching for such entities?Does it cover a variety of platforms and media?(10 points)
+* Can the tool be configured or “customized” to identify particular types of activity?(10 points)
+
+To what extent is the tool able to perform an analysis that aligns with, and so facilitates, the CFTC staff review process for making such a determination?
+
+* To the extent that the tool makes use of AI, are the results generated explainable?Can CFTC staff understand how the tool identified a foreign entity?(10 points)
+* Can the tool provide an output that responds to each of the questions CFTC staff considers in its preliminary review of an entity (see Competition section)?(10 points)
+* Is the tool able to prioritize or rank its output to identify foreign entities that may be most problematic?(10 points)
+* How easy is the tool to use?Is it easy to interact with?(10 points)
+
+To what extent does the tool provide additional information that may be of use to the CFTC (*e.g.*, efforts to target customer outreach and education effectively; understand methods unregistered entities use to promote their operation and entice participation, etc.) Relevant information might include data on any of the following:(5 points)
+
+* Modes of communication and user engagement (*e.g.*, social media, instant message (IM), third party apps, communities and groups).
+* Message commonalities.
+* Amount of engagement with potential targets (*e.g.*, message count, degree of personalization, response rate, etc.), timing or cadence of posts, geographic targeting of messages, and types of products offered.
+* Information on platform utilization (*i.e.*, which platforms have higher likelihood for carrying scam messages).
+* For decentralized networks, network maps, including identity of nodes.
 
 ### How To Enter
 
