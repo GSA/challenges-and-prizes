@@ -217,6 +217,57 @@ description: >-
 
 
   *Answer: The requirement is that one orientation of the containment system must have a maximum diameter of 23”. This containment system does not have to have a side that is round.*
+
+
+  3. Are the cells used in the BB-2590 Bren-Tronics BT-70791CG military battery cylindrical cells (i.e. 18650 or similar dimension) ; or are they polymer flat cells?
+
+     a. If they are cylindrical cells, how many cells comprise the battery? What is the composition of the cells and at what percentages? (i.e. Li-Cobalt, Li-Nickel, etc.)
+
+     b. If they are polymer flat cells, how many cells comprise the battery? What is the composition of the cells and at what percentages?
+
+  *Answer: The BB-2590 batteries use the cylindrical format 18650 Li-ion cells configured as two series sets, each with 3 parallel strings of 4 cells in series, for 24 cells total in each BB-2590.*
+
+
+  *a. For the answers, you may refer to the Safety Data Sheet (SDS) provided by the BB-2590 manufacturer for details on chemistry and composition of the cells used in the battery. As for cell count, you can obtain the number of cells based on the cell chemistry characteristics, case dimensions, battery overall capacity and voltage.*
+
+
+  *b. Not applicable.*
+
+
+  4. Can a company that is currently producing similar products and selling them modify a product to specifications set forth, or does the USN desire a prototype developed strictly for their use?
+
+
+  *Answer: As stated in the challenge, either a BB-2590 Bren-Tronics BT-70791CG or similar approximately 300 Wh Li-ion battery may be used. If you produce a battery that can be proposed for the challenge as “similar” to the BB-2590 (meaning sufficiently close in Wh, voltage range, packaging and dimensions), that would be acceptable. You may submit details of your proposed substitute and we can give you a more definitive answer as to the suitability for the purposes of the challenge.*
+
+
+  5. What type of battery case is used for these batteries? E.g., metal and type of metal, plastic and type of plastic as well as thickness of plastic, other case materials?
+
+
+  *Answer: For details on the construction of the BB-2590 type batteries referenced in the challenge, please refer to the “military performance specification” document that specifies attributes of this type of battery. You may download this document, MIL-PRF-32052/1, from the web. The case is plastic, with an approximate thickness of 1/16th inch. Other case materials are listed generically in the manufacturers Safety Data Sheet document.*
+
+
+  6. Are there vents or other pressure relief mechanisms on the battery cases?
+
+
+  *Answer: For details on the construction of the BB-2590 type batteries (including the case vent) referenced in the challenge, please refer to the “military performance specification” document that specifies attributes of this type of battery. You may download this document, MIL-PRF-32052/1, from the web.*
+
+
+  7. What is the Wh rating of the individual cells in these batteries at 100% State of Charge (SOC)?
+
+
+  *Answer: For the Wh rating of the individual cells, you may refer to the Safety Data Sheet (SDS) provided by the BB-2590 manufacturer for details on chemistry and composition of the cells used in the battery you chose. It is possible to estimate the cell-level Wh rating for the specific cells being used in the BB-2590 you are considering using. The Wh estimate can be calculated from the number of cells in the battery (24 total for BB-2590, configured as two series sets, each with 3 parallel strings of 4 cells in series), the cell chemistry characteristics, and, battery overall capacity and voltage.*
+
+
+  8. Will NSWC assist us in sourcing the military versions of these batteries from the manufacturer(s) and authorized distributors?
+
+
+  *Answer: Given the time and resources it would take to acquire and distribute these batteries and the process involved with re-selling or otherwise supplying “government furnished materials,” NSWC Crane will not be able to provide batteries to participants. The BB-2590 type battery referred to in the challenge can be readily purchased from multiple sources.*
+
+
+  9. Alternatively, would NSWC be willing to purchase the military versions of these batteries in bulk for participants in the challenge and sell them to participants at cost?
+
+
+  *Answer: Given the time and resources it would take to acquire and distribute these batteries and the process involved with re-selling or otherwise supplying “government furnished materials,” NSWC Crane will not be able to provide batteries to participants. The BB-2590 type battery referred to in the challenge can be readily purchased from multiple sources.*
 prizes: >-
   **Total Cash Prize Pool**
 
