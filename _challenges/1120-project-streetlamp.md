@@ -166,18 +166,18 @@ The judging panel will evaluate each submission using a scoring rubric in terms 
 
 To what extent does the tool effectively discover entities appropriate for inclusion on the RED List? (See RED List Inclusion Criteria under "Description.")
 
-* How many entities does the tool identify?How many of these entities would be determined appropriate to add to the RED List (true positives), and how many of the entities would not be appropriate for the RED List (false positives)?(10 points)
-* What is the scope of the tool in searching for such entities?Does it cover a variety of platforms and media?(10 points)
-* Can the tool be configured or “customized” to identify particular types of activity?(10 points)
+* How many entities does the tool identify? How many of these entities would be determined appropriate to add to the RED List (true positives), and how many of the entities would not be appropriate for the RED List (false positives)? (10 points)
+* What is the scope of the tool in searching for such entities? Does it cover a variety of platforms and media? (10 points)
+* Can the tool be configured or “customized” to identify particular types of activity? (10 points)
 
 To what extent is the tool able to perform an analysis that aligns with, and so facilitates, the CFTC staff review process for making such a determination?
 
-* To the extent that the tool makes use of AI, are the results generated explainable?Can CFTC staff understand how the tool identified a foreign entity?(10 points)
-* Can the tool provide an output that responds to each of the questions CFTC staff considers in its preliminary review of an entity (see Competition section)?(10 points)
-* Is the tool able to prioritize or rank its output to identify foreign entities that may be most problematic?(10 points)
-* How easy is the tool to use?Is it easy to interact with?(10 points)
+* To the extent that the tool makes use of AI, are the results generated explainable? Can CFTC staff understand how the tool identified a foreign entity? (10 points)
+* Can the tool provide an output that responds to each of the questions CFTC staff considers in its preliminary review of an entity (see Competition section)? (10 points)
+* Is the tool able to prioritize or rank its output to identify foreign entities that may be most problematic? (10 points)
+* How easy is the tool to use? Is it easy to interact with? (10 points)
 
-To what extent does the tool provide additional information that may be of use to the CFTC (*e.g.*, efforts to target customer outreach and education effectively; understand methods unregistered entities use to promote their operation and entice participation, etc.) Relevant information might include data on any of the following:(5 points)
+To what extent does the tool provide additional information that may be of use to the CFTC (*e.g.*, efforts to target customer outreach and education effectively; understand methods unregistered entities use to promote their operation and entice participation, etc.) Relevant information might include data on any of the following: (5 points)
 
 * Modes of communication and user engagement (*e.g.*, social media, instant message (IM), third party apps, communities and groups).
 * Message commonalities.
