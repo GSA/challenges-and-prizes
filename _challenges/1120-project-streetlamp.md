@@ -26,7 +26,7 @@ body-content-uploads: /assets/netlify-uploads/project-streetlamp-official-announ
 
 The mission of the Commodity Futures Trading Commission’s (“CFTC”)is to promote the integrity, resilience, and vibrancy of the U.S. derivatives markets through sound regulation. As part of this mission, the CFTC regulates a variety of individuals and organizations. These include futures commission merchants, commodity pool operators, commodity trading advisors, retail foreign exchange dealers, introducing brokers, designated contract markets, foreign boards of trade, swap dealers, and other entities and individuals. To promote market integrity, the CFTC surveils the derivatives markets for various abuses, and holds wrongdoers accountable.
 
-Increasingly, fraudsters use a variety of social engineering, fake profiling and manipulative techniques to ensnare their victims. Fraud tactics regularly employ common keywords and phrases. With this information, there is an opportunity to utilize modern technology as a tool to augment traditional, manual efforts and to identify bad actors.
+Increasingly, fraudsters use a variety of social engineering, fake profiling, and manipulative techniques to ensnare their victims. Fraud tactics regularly employ common keywords and phrases. With this information, there is an opportunity to utilize modern technology as a tool to augment traditional, manual efforts and to identify bad actors.
 
 The CFTC is vigilant to protect customers from unscrupulous fraudsters, including those operating outside the U.S. LabCFTC is launching this competition (“Project Streetlamp”) to call on innovators to utilize technology, including artificial intelligence (“AI”), and innovative approaches to detect foreign entities that should be – but are not –registered with the CFTC. The competition is intended to generate information that ultimately helps customers make more informed decisions about whether to trade with, or through, these unregistered foreign entities.
 
@@ -44,7 +44,7 @@ The process to update and maintain the RED List relies on tips and referrals fro
 
 #### Competition
 
-The goal of Project Streetlamp is to explore how AI and other technologies can help the CFTC maintain a comprehensive, up-to-date RED List by automating the process of identifying foreign entities potentially engaged in CFTC-regulated activity.  AI could be an important component of such a tool, because the technology has the potential to learn the “footprints” of actors that are unregistered, but engaged in CFTC-regulated activity. For example, key identifying data (e.g., keywords, website data, audience information, network and outreach, etc.) associated with unregistered entities known to be engaged in CFTC-regulated activity could be used to develop a model that is useful for identifying other unknown entities.
+The goal of Project Streetlamp is to explore how AI and other technologies can help the CFTC maintain a comprehensive, up-to-date RED List by automating the process of identifying foreign entities potentially engaged in CFTC-regulated activity.  AI could be an important component of such a tool, because the technology has the potential to learn the “footprints” of actors that are unregistered, but engaged in CFTC-regulated activity. For example, key identifying data (*e.g.*, keywords, website data, audience information, network and outreach, etc.) associated with unregistered entities known to be engaged in CFTC-regulated activity could be used to develop a model that is useful for identifying other unknown entities.
 
 Participants will develop a tool to identify companies engaged in activity that the CFTC should investigate further for possible inclusion on the RED List. Such activity may include, but is not limited to: soliciting or accepting customers’ orders; soliciting discretionary accounts; directing customer accounts; providing commodity trading advice; or operating a commodity pool. This information may also help identify broader trends or behavior that the CFTC finds helpful to target customer education and awareness efforts.
 
@@ -86,7 +86,7 @@ For purposes of this contest, successful tools will use AI and/or other technolo
 
 Finally, the tool should incorporate an archive function that saves searches and results for future reference and audit purposes.
 
-Participants will determine the best approach to create their tool and to deploy it, as well as the format of the report and output that is generated. The output may be in any machine readable format (e.g., csv, xml, excel) to facilitate further analysis.
+Participants will determine the best approach to create their tool and to deploy it, as well as the format of the report and output that is generated. The output may be in any machine readable format (*e.g.*, csv, xml, excel) to facilitate further analysis.
 
 *Note: Reference to the NFA is for informational purposes only and does not constitute endorsement, recommendation, or favoring by the U.S. government.*
 
@@ -122,7 +122,7 @@ The administration of Project Streetlamp will be carried out in accordance with 
 
 (3) The participant has the right and authority to make the submission on the participant’s own behalf and on behalf of any other persons and entities specified in the submission.
 
-(4) The submission works reliably (i.e., generates consistent results over time), and is designed to generate true information (i.e., balances comprehensiveness with accuracy). The submission does not contain malicious code, such as viruses, malware, timebombs, cancelbots, worms, Trojan horses, or other potentially harmful programs or other material.
+(4) The submission works reliably (*i.e.*, generates consistent results over time), and is designed to generate true information (*i.e.*, balances comprehensiveness with accuracy). The submission does not contain malicious code, such as viruses, malware, timebombs, cancelbots, worms, Trojan horses, or other potentially harmful programs or other material.
 
 (5) The submission may not use the logo or official seal of the CFTC or any other government agency, and the submission must not claim CFTC or government endorsement.
 
@@ -150,7 +150,7 @@ Each participant in Project Streetlamp grants the CFTC permission to use his/her
 
 (6) The CFTC reserves the right to cancel, suspend, postpone, or modify Project Streetlamp, or any part of it, in its sole discretion at any time and for any reason. If the CFTC takes any of these actions, it will notify contest participants.
 
-(7) By entering this competition, participant agrees to assume any and all risks and waive claims against the CFTC, federal government and its related entities (i.e., a contractor or subcontractor at any tier, and a supplier, user, customer, cooperating party, grantee, investigator, or detailee), except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from their participation in the competition, whether the injury, death, damage, or loss arises through negligence or otherwise. The CFTC and federal government shall not be responsible or liable for any expenses, losses, damages, or injuries of any kind (including death) resulting from participation in Project Streetlamp or any competition-related activity, or from participants’ acceptance, receipt, possession, use, or misuse of any prize.
+(7) By entering this competition, participant agrees to assume any and all risks and waive claims against the CFTC, federal government and its related entities (*i.e.*, a contractor or subcontractor at any tier, and a supplier, user, customer, cooperating party, grantee, investigator, or detailee), except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from their participation in the competition, whether the injury, death, damage, or loss arises through negligence or otherwise. The CFTC and federal government shall not be responsible or liable for any expenses, losses, damages, or injuries of any kind (including death) resulting from participation in Project Streetlamp or any competition-related activity, or from participants’ acceptance, receipt, possession, use, or misuse of any prize.
 
 (8) Participation constitutes full and unconditional agreement by the individual(s) and/or entity(ies) to all of the rules, terms, and conditions set forth in this announcement, which are final and binding in all matters related to the Project Streetlamp competition.
 
@@ -192,7 +192,7 @@ To what extent does the tool provide additional information that may be of use t
 * A submission summary. A brief overview (~300 words max) of your tool suitable for immediate publication.
 * Written explanation. This element should explain in detail your solution and how it works. Please include any relevant technical details, and indicate any special functionalities (or limitations) of the tool. Please include in this explanation instructions for installation / implementation as may be appropriate.
 * The tool. Entries should either include a copy of the code or program that you have developed or, if the tool is hosted externally, access instructions to facilitate evaluation by the judging panel.
-* Example of output. A copy of the tool’s output demonstrating its capability (i.e., list of entities or data identifying entities as described in this announcement – see Outputs section).
+* Example of output. A copy of the tool’s output demonstrating its capability (*i.e.*, list of entities or data identifying entities as described in this announcement – see Outputs section).
 * A list with the name, affiliation, and contact information for each individual and entity that contributed to the contest entry.
 
 (2) Email your completed submission to **LabCFTC@cftc.gov** with subject line listed as “LabCFTC Project Streetlamp Submission.” If applicable, the email sender will be considered the contact person and official representative for the participating team. Contest entries must be in English and .pdf format with font size no smaller than 11-point. All submissions must conform to the requirements set out in this contest announcement.
