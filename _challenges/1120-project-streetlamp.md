@@ -116,7 +116,7 @@ The administration of Project Streetlamp will be carried out in accordance with 
 
 #### Submission Requirements
 
-(1) The submission (and use of the submission) does not, and will not, (1) violate any applicable laws or regulations of the United States, including licensing, export control, and nonproliferation laws, and related regulations; (2) violate or infringe upon the patent rights, industrial design rights, copyrights, trademarks, rights of privacy, publicity or other intellectual property or other rights of any person or entity; or (3) disclose trade secrets (the participant’s or anyone else’s).
+(1) The submission (and use of the submission) does not, and will not, (i) violate any applicable laws or regulations of the United States, including licensing, export control, and nonproliferation laws, and related regulations; (ii) violate or infringe upon the patent rights, industrial design rights, copyrights, trademarks, rights of privacy, publicity or other intellectual property or other rights of any person or entity; or (iii) disclose trade secrets (the participant’s or anyone else’s).
 
 (2) The submission represents original work of the participant(s), or it is being submitted with all necessary permissions and with full and proper credit given within the entry.
 
@@ -158,7 +158,7 @@ Each participant in Project Streetlamp grants the CFTC permission to use his/her
 
 #### **Judging Panel**
 
-The judging panel will consist of three members of the CFTC staff.One panelist will bring an application focus, able to assess how the submission(both the tool and its output) canbe used and its overall effectiveness.Another panelist will have a technical background,able to read, interpret, and understand the coding behind the program.The third panel member will have a regulatory background. This person would bring an understanding of regulation from the perspective of market intermediaries, including compliance and possibly registration issues.
+The judging panel will consist of three members of the CFTC staff. One panelist will bring an application focus, able to assess how the submission (both the tool and its output) can be used and its overall effectiveness. Another panelist will have a technical background, able to read, interpret, and understand the coding behind the program. The third panel member will have a regulatory background. This person would bring an understanding of regulation from the perspective of market intermediaries, including compliance and possibly registration issues.
 
 #### **Evaluation Criteria**
 
