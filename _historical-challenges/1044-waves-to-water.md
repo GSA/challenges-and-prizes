@@ -22,9 +22,10 @@ type-of-challenge: Technology demonstration / hardware
 submission-start: '11/14/2019 3:00 PM'
 submission-end: '03/13/2020 11:59 PM'
 fiscal-year: 'FY19, FY20, FY21'
-legal-authority: America COMPETES
-challenge-manager: 'Jennifer Garson, jennifer.garson@ee.doe.gov'
-challenge-manager-email: wavestowater@nrel.gov
+legal-authority: America COMPETES Act
+challenge-manager: Jennifer Garson
+challenge-manager-email: jennifer.garson@ee.doe.gov
+point-of-contact: wavestowater@nrel.gov
 description: >-
   In June, 2019, the U.S. Department of Energy Water Power Technologies Office
   launched a prize to develop wave energy powered desalination systems. The
