@@ -165,7 +165,7 @@ The judging panel will consist of three members of the CFTC staff.One panelist w
 
 The judging panel will evaluate each submission using a scoring rubric in terms of its output, effectiveness, and ease of use as defined by the evaluation criteria discussed below.In conducting the evaluation, judges will determine the points that a submission merits up to the maximum value specified for each element.
 
-To what extent does the tool effectively discover entities appropriate for inclusion on the RED List?(See Entity Selection Criteria above.)
+To what extent does the tool effectively discover entities appropriate for inclusion on the RED List? (See RED List Inclusion Criteria under "Description.")
 
 * How many entities does the tool identify?How many of these entities would be determined appropriate to add to the RED List (true positives), and how many of the entities would not be appropriate for the RED List (false positives)?(10 points)
 * What is the scope of the tool in searching for such entities?Does it cover a variety of platforms and media?(10 points)
@@ -195,3 +195,27 @@ To what extent does the tool provide additional information that may be of use t
 * The tool. Entries should either include a copy of the code or program that you have developed or, if the tool is hosted externally, access instructions to facilitate evaluation by the judging panel.
 * Example of output. A copy of the tool’s output demonstrating its capability (i.e., list of entities or data identifying entities as described in this announcement – see Outputs section).
 * A list with the name, affiliation, and contact information for each individual and entity that contributed to the contest entry.
+
+(2) Email your completed submission to **LabCFTC@cftc.gov** with subject line listed as “LabCFTC Project Streetlamp Submission.” If applicable, the email sender will be considered the contact person and official representative for the participating team. Contest entries must be in English and .pdf format with font size no smaller than 11-point. All submissions must conform to the requirements set out in this contest announcement.
+
+(3) Submissions must be received on or before the submission deadline, 5:00 pm ET, September 4, 2020.
+
+#### Competition Process
+
+(1) Competition participants prepare and submit entries. Entries must be complete. (See “How to Enter” section.) Competition participants must submit their entry on or before the submission deadline, 5:00 pm ET, September 4, 2020.
+
+(2) Following the submission closing date, entries will be reviewed. Those that are complete and meet the threshold submission requirements specified in this announcement will be passed to the judging panel for evaluation. As part of its review, the CFTC may request additional information from contest participants in support of a submission. Failure to respond timely may result in disqualification.
+
+(3) The CFTC will not accept duplicate or substantially identical submissions. The CFTC may in its sole discretion reject duplicate submissions.
+
+(4) As described above, the judging panel will evaluate entries and determine the contest winner(s). All decisions and recommendations of the judging panel with respect to submissions and awards will be final and not subject to appeal or contest.
+
+(5) All contest winners will be required to verify their identity and role in creating their submission prior to receiving any award.
+
+(6) If any potential prize winner is found for any reason to be ineligible, has not complied with the rules, terms, and conditions described herein, or declines the applicable prize prior to award, such potential prize winner will be disqualified.
+
+#### Privacy Notice
+
+Personally Identifiable Information you submit to the CFTC through LabCFTC for your competition submission may contain information covered under the Privacy Act of 1974. Submitting this information is voluntary and facilitates the processing of your submission and administering the competition. The collection of this information is authorized under 7 U.S.C. 5(b) and the American Innovation and Competitiveness Act. The information will be maintained and disclosures may be made in accordance with System of Records Notice (“SORN”) “CFTC-50, LabCFTC,” 83 FR 104. In addition, the CFTC may share information you provide to external judges who will be evaluating competition submissions. Current versions of all CFTC SORNs are located on the CFTC Privacy Program page at [www.CFTC.gov/privacy](https://www.cftc.gov/Privacy).
+
+Participants acknowledge that they have read the CFTC’s and challenge.gov website’s data privacy, use, security, and retention policies and understand that all data, except that expressly marked for government use, is subject to these policies.
