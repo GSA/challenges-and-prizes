@@ -221,9 +221,12 @@ description: >-
 
   3. Are the cells used in the BB-2590 Bren-Tronics BT-70791CG military battery cylindrical cells (i.e. 18650 or similar dimension) ; or are they polymer flat cells?
 
-     a. If they are cylindrical cells, how many cells comprise the battery? What is the composition of the cells and at what percentages? (i.e. Li-Cobalt, Li-Nickel, etc.)
 
-     b. If they are polymer flat cells, how many cells comprise the battery? What is the composition of the cells and at what percentages?
+  a. If they are cylindrical cells, how many cells comprise the battery? What is the composition of the cells and at what percentages? (i.e. Li-Cobalt, Li-Nickel, etc.)
+
+
+  b. If they are polymer flat cells, how many cells comprise the battery? What is the composition of the cells and at what percentages?
+
 
   *Answer: The BB-2590 batteries use the cylindrical format 18650 Li-ion cells configured as two series sets, each with 3 parallel strings of 4 cells in series, for 24 cells total in each BB-2590.*
 
