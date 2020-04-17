@@ -154,7 +154,7 @@ Each participant in Project Streetlamp grants the CFTC permission to use his/her
 
 (8) Participation constitutes full and unconditional agreement by the individual(s) and/or entity(ies) to all of the rules, terms, and conditions set forth in this announcement, which are final and binding in all matters related to the Project Streetlamp competition.
 
-#### Judging Criteria
+### Judging Criteria
 
 #### **Judging Panel**
 
