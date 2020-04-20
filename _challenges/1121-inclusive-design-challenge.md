@@ -105,10 +105,10 @@ A functional prototype may include one or more of the options outlined below, as
 * Full-size physical prototype, either:
 
   * Integrated into a vehicle (the vehicle itself does not need to be automated, but should be reflective of vehicles being developed and tested with Level 4 or 5 automation).
-  * Full-size, standalone demonstration separate from a vehicle. In this case,
-    Participants should be prepared to illustrate how their proposed solution would be
-    integrated into a full-size vehicle, potentially through one of the other prototype
-    approaches listed.
+  * Full-size, standalone demonstration separate from a vehicle. In this case, Participants should be prepared to illustrate how their proposed solution would be integrated into a full-size vehicle, potentially through one of the other prototype approaches listed.
 * **Software prototype** - Given that certain solutions or components of broader solutions will entail a software/interface component, Participants can consider functioning software interfaces as prototypes.
 * **Scale physical prototype** - If a full-size physical prototype is infeasible for the proposed solution given the time and resources available, Participants may consider demonstrating their concept via a scale model. Accompanying demonstration exhibits may complement scale prototypes, particularly to demonstrate engineering feasibility, integration into a vehicle platform, and usability.
 * **Virtual prototype** - DOT will consider the submission of virtual prototypes (3D models, computer-aided design (CAD) drawings, schematics) of physical solutions, but strongly encourages Participants to consider other primary means of demonstrating their solution(s), and to limit the use of virtual prototypes to supporting/secondary exhibits.
+
+DOT anticipates that partway through Stage II one or more design charrettes will be held with subject matter experts from industry and the disability community. At the end of Stage II, teams will be invited to Washington, D.C. to demonstrate their prototypes. After this, the final prize selections will be announced. Up to three finalists will be selected and awarded a portion of the remaining prize purse, contingent upon review of the Stage II submissions and demonstrations against the judging criteria. As discussed below under Judging Criteria, the details of Stage II are subject to change and will not be finalized until Stage I is complete. DOT may, in its sole
+discretion, not proceed with Stage II.
