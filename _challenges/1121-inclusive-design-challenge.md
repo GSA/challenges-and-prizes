@@ -214,4 +214,8 @@ The judging panel will consider each submission's alignment with each of these c
    * **Path to Production**. Submission demonstrates a reasonable path for implementation and production, including expected obstacles to overcome. Submission aligns with statements made in Stage I about proposed feasibility and cost to implement (including discussion of potential production volumes).
    * **Testing and Deployment Approach**. Submission provides a description for how the solution would be tested in a real-world setting and deployed. Demonstrates feasibility of implementation and scalability.
    * **Technology Readiness Level (TRL) Self-Assessment**. Submission describes the maturity of the prototype by completing the TRL questionnaire (to be provided) and self-reporting a score.
-3.
+3. IMPACT/BENEFIT:
+
+   * **Intuitive**. Submission demonstrates a solution that is easy and intuitive for a prospective user and can be operated independently by a user with one or more of the disability types described in the Challenge statement.
+   * **Inclusive**. Submission demonstrates inclusivity in vehicle design and engineering, laying a foundation for future automated vehicles that can be used by people with physical, sensory, and cognitive disabilities.
+   * **Beneficial**. Submission describes potential benefit to one or more target user(s) or demonstrates the potential for users, should the solution be developed.
