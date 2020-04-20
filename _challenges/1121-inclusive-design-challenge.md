@@ -240,3 +240,11 @@ DOT anticipates that criteria from Stage I will carry over to the judging of Sta
    * **Intuitive**. Submission demonstrates a solution that is easy and intuitive for a prospective user and can be operated independently by a user with one or more of the disability types described in the Challenge statement.
    * **Inclusive**. Submission demonstrates inclusivity in vehicle design and engineering, laying a foundation for future automated vehicles that can be used by people with physical, sensory, and cognitive disabilities.
    * **Beneficial**. Submission describes potential benefit to one or more target user(s) or demonstrates the potential for users, should the solution be developed.
+
+### How To Enter
+
+Submissions should follow the instructions below and should be submitted to  [hostedsites.volpe.dot.gov/inclusivedesign](https://hostedsites.volpe.dot.gov/inclusivedesign/). 
+
+#### Stage I Submission Requirements
+
+Complete Stage I submission packages shall consist of the following elements:
