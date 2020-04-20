@@ -21,7 +21,7 @@ legal-authority: Procurement Authority
 challenge-manager: Andrea Falken
 challenge-manager-email: Andrea.Falken@ed.gov
 point-of-contact: Challenge@ed.gov
-body-content-uploads: /assets/netlify-uploads/redesign-faqs.pdf
+body-content-uploads: /assets/netlify-uploads/challenge-appl.pdf
 description: >-
   To improve service to and communication with stakeholders and the general
   public, the Department of Education (“ED” or “Department”) plans to modernize
@@ -32,7 +32,7 @@ description: >-
   The Department is not seeking a run-of-the-mill refresh but rather a creative redesign that maximizes user experience and proposes new innovations in layout, typography, animation, illustration, video and photography, and other modern advances.
 
 
-  #### **NEW! [Frequently Asked Questions](<{{ site.baseurl }}/assets/netlify-uploads/redesign-faqs.pdf>)**
+  #### **NEW! [Submission Form](<{{ site.baseurl }}/assets/netlify-uploads/challenge-appl.pdf>) and [Frequently Asked Questions](<{{ site.baseurl }}/assets/netlify-uploads/redesign-faqs.pdf>)**
 
 
   *About the Department of Education*
@@ -362,13 +362,11 @@ how-to-enter: >-
 ---
 ### Description
 
-
-
 To improve service to and communication with stakeholders and the general public, the Department of Education (“ED” or “Department”) plans to modernize its public facing website.  Accordingly, ED is seeking interactive prototypes for a redesign of ED.gov, the Department’s homepage.  
 
 The Department is not seeking a run-of-the-mill refresh but rather a creative redesign that maximizes user experience and proposes new innovations in layout, typography, animation, illustration, video and photography, and other modern advances.
 
-#### **NEW! [Frequently Asked Questions](<{{ site.baseurl }}/assets/netlify-uploads/redesign-faqs.pdf>)**
+#### **NEW! [Submission Form](<{{ site.baseurl }}/assets/netlify-uploads/challenge-appl.pdf>) and [Frequently Asked Questions](<{{ site.baseurl }}/assets/netlify-uploads/redesign-faqs.pdf>)**
 
 *About the Department of Education*
 
