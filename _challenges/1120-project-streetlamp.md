@@ -24,7 +24,7 @@ body-content-uploads: /assets/netlify-uploads/project-streetlamp-official-announ
 ---
 ### Description
 
-The mission of the Commodity Futures Trading Commission’s (“CFTC”)is to promote the integrity, resilience, and vibrancy of the U.S. derivatives markets through sound regulation. As part of this mission, the CFTC regulates a variety of individuals and organizations. These include futures commission merchants, commodity pool operators, commodity trading advisors, retail foreign exchange dealers, introducing brokers, designated contract markets, foreign boards of trade, swap dealers, and other entities and individuals. To promote market integrity, the CFTC surveils the derivatives markets for various abuses, and holds wrongdoers accountable.
+The mission of the Commodity Futures Trading Commission’s (“CFTC”) is to promote the integrity, resilience, and vibrancy of the U.S. derivatives markets through sound regulation. As part of this mission, the CFTC regulates a variety of individuals and organizations. These include futures commission merchants, commodity pool operators, commodity trading advisors, retail foreign exchange dealers, introducing brokers, designated contract markets, foreign boards of trade, swap dealers, and other entities and individuals. To promote market integrity, the CFTC surveils the derivatives markets for various abuses, and holds wrongdoers accountable.
 
 Increasingly, fraudsters use a variety of social engineering, fake profiling, and manipulative techniques to ensnare their victims. Fraud tactics regularly employ common keywords and phrases. With this information, there is an opportunity to utilize modern technology as a tool to augment traditional, manual efforts and to identify bad actors.
 
@@ -40,7 +40,7 @@ The goal of the RED List is to provide information to U.S. customers about forei
 
 In certain cases, a review by the CFTC reveals that certain foreign entities solicit and/or accept funds from U.S. customers, have limited or no U.S. presence, and may be acting in a capacity that requires registration, but yet are *not* registered with the CFTC. After such review, foreign entities which meet the RED List criteria are included on the RED List.
 
-The process to update and maintain the RED List relies on tips and referrals from concerned individuals as well as investigative work by CFTC staff. The work is time-intensive.Given the scope of global markets, range of participants, and limited resources, the process could benefit from technology applications, including those that leverage AI, which can identify and flag potentially problematic activity for further follow-up by CFTC staff. This may enable a more efficient and comprehensive search and review process to identify foreign entities for inclusion on the RED List. Also, it could enable the CFTC to be proactive in its ongoing efforts to maintain the Red List. Currently, it is only after wrongdoing is *reported* that an entity is investigated for possible enforcement action or inclusion on the RED List.
+The process to update and maintain the RED List relies on tips and referrals from concerned individuals as well as investigative work by CFTC staff. The work is time-intensive. Given the scope of global markets, range of participants, and limited resources, the process could benefit from technology applications, including those that leverage AI, which can identify and flag potentially problematic activity for further follow-up by CFTC staff. This may enable a more efficient and comprehensive search and review process to identify foreign entities for inclusion on the RED List. Also, it could enable the CFTC to be proactive in its ongoing efforts to maintain the RED List. Currently, it is only after wrongdoing is *reported* that an entity is investigated for possible enforcement action or inclusion on the RED List.
 
 #### Competition
 
@@ -78,7 +78,7 @@ The National Futures Association’s public registration database at <https://ww
 
 *7.  In the case of binary options, is the foreign entity currently not registered as a Foreign Board of Trade (“FBOT”)?*
 
-The CFTC maintains a database of registered FBOT’s available at <https://sirt.cftc.gov/sirt/sirt.aspx?Topic=ForeignBoardsofTrade>. If an entity is registered as an FBOT, the tool should not designate it for inclusion on the RED List.
+The CFTC maintains a [database of registered FBOT’s](https://sirt.cftc.gov/sirt/sirt.aspx?Topic=ForeignBoardsofTrade). If an entity is registered as an FBOT, the tool should not designate it for inclusion on the RED List.
 
 #### Outputs
 
@@ -92,7 +92,7 @@ Participants will determine the best approach to create their tool and to deploy
 
 ### Prizes
 
-Contest winner(s) will be recognized on the CFTC’s website, <https://www.cftc.gov>.  Each contest winner will also be designated as a CFTC Innovator of the Year and receive a commemorative award.  Winner(s) will be invited to CFTC headquarters where they will have the opportunity to meet the LabCFTC Director and other CFTC staff, present their submissions, and receive their award during a formal ceremony. 
+Contest winner(s) will be recognized on the CFTC’s website, <https://www.cftc.gov>.  Each contest winner will also be designated as a *CFTC Innovator of the Year* and receive a commemorative award.  Winner(s) will be invited to CFTC headquarters where they will have the opportunity to meet the LabCFTC Director and other CFTC staff, present their submissions, and receive their award during a formal ceremony. 
 
 Travel expenses are not covered.  No cash prize will be awarded.
 
@@ -102,7 +102,7 @@ The administration of Project Streetlamp will be carried out in accordance with 
 
 #### Participant Eligibility
 
-(1) Individuals or entities being investigated by, or not in good standing with, the CFTC may not compete. Likewise, individuals or entities participating in the contest must not be suspended, debarred, or otherwise excluded from doing business with the federal government. An individual or entity that is determined to be on the GSA Excluded Parties List (www.sam.gov) is ineligible to participate.
+(1) Individuals or entities being investigated by, or not in good standing with, the CFTC may not compete. Likewise, individuals or entities participating in the contest must not be suspended, debarred, or otherwise excluded from doing business with the federal government. An individual or entity that is determined to be on the GSA Excluded Parties List ([www.sam.gov](https://www.sam.gov/SAM/)) is ineligible to participate.
 
 (2) Participants, including individuals and private entities, must not have been convicted of a felony criminal violation under any federal law within the preceding 24 months and must not have any unpaid federal tax liability that has been assessed, for which all judicial and administrative remedies have been exhausted or have lapsed, and that is not being paid in a timely manner pursuant to an agreement with the authority responsible for collecting the tax liability.
 
@@ -124,7 +124,7 @@ The administration of Project Streetlamp will be carried out in accordance with 
 
 (4) The submission works reliably (*i.e.*, generates consistent results over time), and is designed to generate true information (*i.e.*, balances comprehensiveness with accuracy). The submission does not contain malicious code, such as viruses, malware, timebombs, cancelbots, worms, Trojan horses, or other potentially harmful programs or other material.
 
-(5) The submission may not use the logo or official seal of the CFTC or any other government agency, and the submission must not claim CFTC or government endorsement.
+(5) The submission may not use any logo or official seal of the CFTC or any other government agency, and the submission must not claim CFTC or government endorsement.
 
 #### Ownership and Use Rights
 
@@ -162,7 +162,7 @@ The judging panel will consist of three members of the CFTC staff. One panelist 
 
 #### **Evaluation Criteria**
 
-The judging panel will evaluate each submission using a scoring rubric in terms of its output, effectiveness, and ease of use as defined by the evaluation criteria discussed below.In conducting the evaluation, judges will determine the points that a submission merits up to the maximum value specified for each element.
+The judging panel will evaluate each submission using a scoring rubric in terms of its output, effectiveness, and ease of use as defined by the evaluation criteria discussed below. In conducting the evaluation, judges will determine the points that a submission merits up to the maximum value specified for each element.
 
 To what extent does the tool effectively discover entities appropriate for inclusion on the RED List? (See RED List Inclusion Criteria under "Description.")
 
@@ -207,7 +207,7 @@ To what extent does the tool provide additional information that may be of use t
 
 (3) The CFTC will not accept duplicate or substantially identical submissions. The CFTC may in its sole discretion reject duplicate submissions.
 
-(4) As described above, the judging panel will evaluate entries and determine the contest winner(s). All decisions and recommendations of the judging panel with respect to submissions and awards will be final and not subject to appeal or contest.
+(4) As described above, the judging panel will evaluate entries and determine the contest winner(s). All decisions and recommendations of the judging panel with respect to submissions and awards will be final and not subject to appeal or dispute.
 
 (5) All contest winners will be required to verify their identity and role in creating their submission prior to receiving any award.
 
