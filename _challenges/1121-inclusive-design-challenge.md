@@ -130,3 +130,23 @@ Prizes will be structured as follows:
   * Winner (1st place) will receive $1,00Q,000
   * 2nd place receives $700,000
   * 3rd place receives $300,000
+
+### Rules
+
+If any potential (semi)finalist is found to be ineligible, has not complied with these Challenge rules, or declines the cash prize for any reason prior to award, an alternate (semi-)finalist may be selected.
+
+Eligibility The Challenge is open to individuals and teams (Participants) from the academic, research, and business communities including, but not limited to, universities, research institutions, technology companies, and entrepreneurs. DOT expects teams to describe how they have engaged with stakeholders tc understand the needs and constraints of both industry and travelers with disabilities as part of explaining the feasibility and impact of their design. Teams are strongly encouraged to identify representatives from both industry and the disability community to serve as advisors and/or team members and help inform the direction of their idea based on their
+knowledge and expertise. Strong proposals will be well-informed by a rich understanding of user needs and industry conditions. 
+
+To be eligible to win a prize under this Challenge, an individual or entity:
+
+1. Shall register to participate in the Challenge under the rules promulgated by the DOT Office of the Secretary of Transportation;
+2. Shall comply with all the requirements under this announcement and any subsequently announced rules for the competition;
+3. In the case of a private entity, shall be incorporated in and maintain a primary place of business in the United States or US territory, and in the case of an individual, whether participating singly or in a group, shall be a citizen or permanent resident of the United States or US territory;
+4. Shall not be a DOT employee; and
+5. Shall not be another Federal entity or Federal employee acting within the scope of their employment (all non-DOT Federal employees must consult with their agency Ethics Official to determine whether the Federal ethics rules will limit or prohibit the acceptance of a cash prize stemming from a Federally sponsored prize competition).
+
+In addition, these two restrictions apply to recipients of other Federal funds:
+
+1. Federal grantees may not use Federal funds to develop submissions unless consistent with the purpose of their grant award; and
+2. Federal contractors may not use Federal funds from a contract to develop prize competition applications or to fund efforts in support of a prize competition submission.
