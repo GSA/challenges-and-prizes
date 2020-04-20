@@ -15,7 +15,7 @@ total-prize-offered-cash: $5,000,000
 type-of-challenge:
   - Technology demonstration and hardware
 submission-start: 2020/04/21 08:00 AM
-submission-end: 2020/10/31 05:00 PM
+submission-end: 2020/10/30 05:00 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Rachael Sack
