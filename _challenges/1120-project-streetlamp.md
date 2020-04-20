@@ -3,7 +3,7 @@ title: "Project Streetlamp "
 challenge-title: "Project Streetlamp "
 layout: front-matter-data-markdownify-content
 permalink: /challenge/project-streetlamp/
-challenge-id: "1120"
+challenge-id: "1121"
 status: open
 sidenav: true
 card-image: /assets/netlify-uploads/project-streetlamp.jpg
