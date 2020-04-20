@@ -203,14 +203,22 @@ Participant further grants the DOT, and anyone acting on its behalf the right to
 
 The judging panel will consider each submission's alignment with each of these criteria and make recommendations to the Secretary of Transportation. The Secretary will select as semifinalists those submissions that best advance the purposes of the Challenge.
 
-
-
 1. TECHNICAL MERIT:
 
    * **Innovation**. Submission advances the state of the practice in meeting the needs of users with one or more disabilities (physical, sensory, and/or cognitive)
    * **Technical Detail and Understanding**. Submission demonstrates an understanding of the problemlengineering need being met as well as limitations.
    * **User-Driven**. Submission demonstrates user-driven design and incorporates direct input from relevant communities.
    * **Team**. Submission describes the team's composition including disability and industry advisors and how the team's background supports the solution development.
+2. PRODUCTION FEASIBILITY:
+
+   * **Production Integration**. Submission describes how the solution can be integrated into a production vehicle, as original equipment or as an afiermarket modification, including scalability, ease of integration, and market readiness.
+   * **Risks and Challenges**. Submission identifies possible risks and challenges and how to overcome them.
+   * **Safety Considerations**. Submission clearly describes the individual's/team's approach to ensuring the safety of occupants and other road users.
+   * **Cost and Other Adoption Considerations**. Submission describes expected costs to implement the technology and if/how the cost will impact the potential for future industry adoption. Cost, in this case, reflects both the cost to develop and the cost to manufacture, integrate into vehicles, and sell to the end consumer (either individual vehicle buyer or fleet operator).
+3. IMPACT/BENEFIT:
+
+   * **Inclusivity**. Submission demonstrates inclusivity in vehicle design and engineering, laying a foundation for future automated vehicles that can be used by people physical, sensory, and cognitive disabilities.
+   * **Potential Benefit**. Submission describes potential benefit to one or more target user(s) or demonstrates the potential for users, should the solution be developed.
 
 #### Draft Stage II Judging Criteria 
 
