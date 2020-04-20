@@ -74,7 +74,7 @@ Participants will also focus their efforts by designing solutions for use by one
 
 ##### *Production Feasibility*
 
-DOT seeks proposals through this Challenge that strike a balance between innovation and nearterm implementation. For innovation to have the desired impact, implementation is critical. Participants are expected to discuss factors related to the feasibility of producing their solution(s), including the maturity of the technology underlying the inclusive design elements of the proposed design, as well as cost and other production considerations. "Production" here refers to the incorporation of the proposed solution(s) into a vehicle as original equipment, integration into an existing vehicle platform as part of an aftermarket modification, or a holistic reimagining of passenger vehicle design with a focus on seamlessly integrating inclusive features.
+DOT seeks proposals through this Challenge that strike a balance between innovation and near-term implementation. For innovation to have the desired impact, implementation is critical. Participants are expected to discuss factors related to the feasibility of producing their solution(s), including the maturity of the technology underlying the inclusive design elements of the proposed design, as well as cost and other production considerations. "Production" here refers to the incorporation of the proposed solution(s) into a vehicle as original equipment, integration into an existing vehicle platform as part of an aftermarket modification, or a holistic reimagining of passenger vehicle design with a focus on seamlessly integrating inclusive features.
 
 #### Challenge Structure
 
@@ -84,14 +84,14 @@ DOT anticipates that the Challenge will proceed according to the schedule outlin
 
 * Stage I Launch: April 21, 2020
 * Stage I Close: October 30, 2020, 5:00 PM Eastern
-* Stage I Selection/ Awards, Launch of Stage II: January 2021 ( anticipated)
-* Stage II Design Charrette: Summer 2021 (anticipated)·
-* Stage II Close, Prototype Demonstrations at U.S. DOT Headquarters: June 2022 ( anticipated)
+* Stage I Selection/ Awards, Launch of Stage II: January 2021 (anticipated)
+* Stage II Design Charrette: Summer 2021 (anticipated)
+* Stage II Close, Prototype Demonstrations at U.S. DOT Headquarters: June 2022 (anticipated)
 * Stage II Prize Selections: July 2022 (anticipated)
 
 ##### *Stage I, Proof of Concept*
 
-In Stage I, eligible Participants will submit proposals for inclusive design solutions for AVs. DOT will select up to ten semifinalists to advance to Stage II to develop a functional prototype of their idea and compete for a cash prize. 
+In Stage I, eligible Participants will submit proposals for inclusive design solutions for ADS-DVs. DOT will select up to ten semifinalists to advance to Stage II to develop a functional prototype of their idea and compete for a cash prize. 
 
 Stage I proposals will be limited to written, descriptive summaries (no more than 10 pages; see "Stage I Submission Requirements" below for additional detail on proposal length constraints), supporting visual exhibits, and accompanying information (team biographies, etc.) as outlined below.
 
@@ -190,9 +190,8 @@ Participant further grants the DOT, and anyone acting on its behalf the right to
 
 #### Notes on Terminology
 
-1. This Challenge focuses specifically on vehicles operated exclusively by a Level 4 and 5 ADS, a level of automation at which human occupants are not expected to serve as a fallback, as long as the vehicle remains within the system's operational design domain. In its standard J3016 Taxonomy and Definitions for Terms Related to On-Road Motor Vehicle Automated Driving Systems, SAE International refers to such vehicles as ADSdedicated vehicles or ADS-DVs. DOT recognizes that some solutions proposed through this Challenge may also be applicable to dual-mode vehicles - capable of both driverless operation and operation by a conventional driver for a complete trip.
-2. In the Consolidated Appropriations Act of2018 (Public Law 115-14]), Congress reallocated $100 million for ". . . a highly automated vehicle (HAV) research and development program," a portion of which is being used to fund this Challenge. The accompanying Explanatory Statement further clarified: "Of the total amount provided, not less than $38,000,000 shall be used for direct research, including administrative expenses, on HAV and \[Advanced Driver Assistance System] technologies by the National Highway Traffic Safety Administration, the Federal Highway
-3. Administration, the Federal Motor Carrier Safety Administration, and the Federal Transit Administration, of which no more than $5,000,000 shall be for ADAS research. For the purposes of the agreement, HAV refers to technologies capable of the Society of Automotive Engineers (SAE) DOT Level 3, Level 4, or Level 5 automation, whereas ADAS refers to technologies capable of Level 1 or Level 2" (Division L, Title 1). DOT previously used the term HAV to refer to vehicles with Level 3-5 driving automation, but subsequently adopted the terminology in SAE J3016 Taxonomy and Definitionsfor Terms Related to On-Road Motor Vehicle Automated Driving Systems.
+1. This Challenge focuses specifically on vehicles operated exclusively by a Level 4 and 5 ADS, a level of automation at which human occupants are not expected to serve as a fallback, as long as the vehicle remains within the system's operational design domain. In its standard J3016 Taxonomy and Definitions for Terms Related to On-Road Motor Vehicle Automated Driving Systems, SAE International refers to such vehicles as ADS-dedicated vehicles or ADS-DVs. DOT recognizes that some solutions proposed through this Challenge may also be applicable to dual-mode vehicles - capable of both driverless operation and operation by a conventional driver for a complete trip.
+2. In the Consolidated Appropriations Act of 2018 (Public Law 115-14]), Congress reallocated $100 million for ". . . a highly automated vehicle (HAV) research and development program," a portion of which is being used to fund this Challenge. The accompanying Explanatory Statement further clarified: "Of the total amount provided, not less than $38,000,000 shall be used for direct research, including administrative expenses, on HAV and \[Advanced Driver Assistance System] technologies by the National Highway Traffic Safety Administration, the Federal Highway Administration, the Federal Motor Carrier Safety Administration, and the Federal Transit Administration, of which no more than $5,000,000 shall be for ADAS research. For the purposes of the agreement, HAV refers to technologies capable of the Society of Automotive Engineers (SAE) DOT Level 3, Level 4, or Level 5 automation, whereas ADAS refers to technologies capable of Level 1 or Level 2" (Division L, Title 1). DOT previously used the term HAV to refer to vehicles with Level 3-5 driving automation, but subsequently adopted the terminology in SAE J3016 Taxonomy and Definitions for Terms Related to On-Road Motor Vehicle Automated Driving Systems.
 
 ### Judging Criteria
 
@@ -257,14 +256,14 @@ Complete Stage I submission packages shall consist of the following elements:
 3. A concept paper (10-page limit), including but not limited to the following content:
 
    * A detailed technical description of the proposed solution discussing its functionality and capabilities, demonstrating the user needs being met and how, and strategies involved in integrating the proposed solution into a production vehicle as original equipment or as a modification. The paper should explain how the team arrived at its understanding of these issues, including its process for incorporating guidance from potential users and/or industry;
-   * Describe how the proposed solution will meet the objective of the Challenge, namely how it advances the state of the practice in feasible, purpose-built, fully inclusive vehicle design than can enable independent use of future AVs by people with disabilities, and how the proposed solution satisfies the Judging Criteria;
+   * Describe how the proposed solution will meet the objective of the Challenge, namely how it advances the state of the practice in feasible, purpose-built, fully inclusive vehicle design than can enable independent use of future ADS-DVs by people with disabilities, and how the proposed solution satisfies the Judging Criteria;
    * Discuss the approach to ensuring the safety of occupants and other road users;
    * Describe the anticipated user experience of the technology, including how the team incorporated input from stakeholders in the disability community;
    * Discuss the team's assessment of the production feasibility of the proposed solution(s), including whether it is intended as an original equipment feature or an aftermarket modification, level of maturity of the underlying technologies, and production cost considerations. The team should also discuss how its proposal has been informed by industry stakeholders or partners;
    * Include a plan/schedule for Stage II project implementation (prototype development), resources, and costs.
 4. Appendices:
 
-   * Information on the qualifications of your team -briefly describe the makeup of the team and include a résumé or bio of key individual(s). Also, describe how you have engaged with specific parties to understand the needs and constraints of both industry and travelers with disabilities as part of explaining the feasibility and impact of your design, and provide the name and affiliation of any representatives from industry and the disability community who you plan to have serve as an advisor during the Stage II prototyping phase and how you plan to use them.
+   * Information on the qualifications of your team - Briefly describe the makeup of the team and include a resume or bio of key individual(s). Also, describe how you have engaged with specific parties to understand the needs and constraints of both industry and travelers with disabilities as part of explaining the feasibility and impact of your design, and provide the name and affiliation of any representatives from industry and the disability community who you plan to have serve as an advisor during the Stage II prototyping phase and how you plan to use them.
    * Supporting technical data and/or figures, if available, should be included as an appendix, which does not count towards the 10-page limit of the concept paper.
 
 Note: Submission requirements for Stage II will be provided to the semifinalists upon advancing to the next stage and will also be posted on the DOT's Inclusive Design Challenge website.
