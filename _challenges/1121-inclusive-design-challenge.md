@@ -196,3 +196,22 @@ Participant further grants the DOT, and anyone acting on its behalf the right to
 1. This Challenge focuses specifically on vehicles operated exclusively by a Level 4 and 5 ADS, a level of automation at which human occupants are not expected to serve as a fallback, as long as the vehicle remains within the system's operational design domain. In its standard J3016 Taxonomy and Definitions for Terms Related to On-Road Motor Vehicle Automated Driving Systems, SAE International refers to such vehicles as ADSdedicated vehicles or ADS-DVs. DOT recognizes that some solutions proposed through this Challenge may also be applicable to dual-mode vehicles - capable of both driverless operation and operation by a conventional driver for a complete trip.
 2. In the Consolidated Appropriations Act of2018 (Public Law 115-14]), Congress reallocated $100 million for ". . . a highly automated vehicle (HAV) research and development program," a portion of which is being used to fund this Challenge. The accompanying Explanatory Statement further clarified: "Of the total amount provided, not less than $38,000,000 shall be used for direct research, including administrative expenses, on HAV and \[Advanced Driver Assistance System] technologies by the National Highway Traffic Safety Administration, the Federal Highway
 3. Administration, the Federal Motor Carrier Safety Administration, and the Federal Transit Administration, of which no more than $5,000,000 shall be for ADAS research. For the purposes of the agreement, HAV refers to technologies capable of the Society of Automotive Engineers (SAE) DOT Level 3, Level 4, or Level 5 automation, whereas ADAS refers to technologies capable of Level 1 or Level 2" (Division L, Title 1). DOT previously used the term HAY to refer to vehicles with Level 3-5 driving automation, but subsequently adopted the terminology in SAE J3016 Taxonomy and Definitionsfor Terms Related to On-Road Motor Vehicle Automated Driving Systems.
+
+### Judging Criteria
+
+#### Stage I Judging Criteria
+
+The judging panel will consider each submission's alignment with each of these criteria and make recommendations to the Secretary of Transportation. The Secretary will select as semifinalists those submissions that best advance the purposes of the Challenge.
+
+1. TECHNICAL MERIT:
+
+   * **Innovation**. Submission advances the state of the practice in meeting the needs of users with one or more disabilities (physical, sensory, and/or cognitive)
+   * **Technical Detail and Understanding**. Submission demonstrates an understanding of the problemlengineering need being met as well as limitations.
+   * **User-Driven**. Submission demonstrates user-driven design and incorporates direct input from relevant communities.
+   * **Team**. Submission describes the team's composition including disability and industry advisors and how the team's background supports the solution development.
+2. PRODUCTION FEASIBILITY:
+
+   * **Path to Production**. Submission demonstrates a reasonable path for implementation and production, including expected obstacles to overcome. Submission aligns with statements made in Stage I about proposed feasibility and cost to implement (including discussion of potential production volumes).
+   * **Testing and Deployment Approach**. Submission provides a description for how the solution would be tested in a real-world setting and deployed. Demonstrates feasibility of implementation and scalability.
+   * **Technology Readiness Level (TRL) Self-Assessment**. Submission describes the maturity of the prototype by completing the TRL questionnaire (to be provided) and self-reporting a score.
+3.
