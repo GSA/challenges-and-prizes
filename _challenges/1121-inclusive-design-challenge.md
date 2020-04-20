@@ -269,3 +269,5 @@ Complete Stage I submission packages shall consist of the following elements:
 
    * Information on the qualifications of your team -briefly describe the makeup of the team and include a résumé or bio of key individual(s). Also, describe how you have engaged with specific parties to understand the needs and constraints of both industry and travelers with disabilities as part of explaining the feasibility and impact of your design, and provide the name and affiliation of any representatives from industry and the disability community who you plan to have serve as an advisor during the Stage II prototyping phase and how you plan to use them.
    * Supporting technical data and/or figures, if available, should be included as an appendix, which does not count towards the 10-page limit of the concept paper.
+
+Note: Submission requirements for Stage II will be provided to the semifinalists upon advancing to the next stage and will also be posted on the DOT's Inclusive Design Challenge website.
