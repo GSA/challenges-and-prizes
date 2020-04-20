@@ -102,7 +102,7 @@ In Stage II, the semifinalists selected to advance from Stage I will develop the
 
 A functional prototype may include one or more of the options outlined below, as appropriate given the nature of solution(s) being demonstrated, their sophistication, and the time available. DOT will not require semifinalists to demonstrate their proposed feature(s) on an actual vehicle, although a team may determine that doing so is necessary and/or advantageous to illustrate maturity, productionlintegration feasibility, or functionality.
 
-* Full-size physical prototype, either:
+* **Full-size physical prototype**, either:
 
   * Integrated into a vehicle (the vehicle itself does not need to be automated, but should be reflective of vehicles being developed and tested with Level 4 or 5 automation).
   * Full-size, standalone demonstration separate from a vehicle. In this case, Participants should be prepared to illustrate how their proposed solution would be integrated into a full-size vehicle, potentially through one of the other prototype approaches listed.
