@@ -166,3 +166,15 @@ Cash prizes awarded under this Challenge will be paid to the individual or Team 
 #### Confidential and Business Information 
 
 Challenge submissions and communication with DOT are subject to the Freedom of Information Act (FOIA). If the application includes information that the applicant considers to be a trade secret or confidential commercial or financial information, the proposer should do the following: (1) Note on the front cover that the submission "Contains Confidential Business Information (CBI)"; (2) mark each affected page "CBI"; and (3) highlight or otherwise denote the CBI portions. DOT protects such information from disclosure to the extent allowed under applicable law. In the event DOT receives a FOIA request for the information, DOT will follow the procedures described in its FOIA regulations at 49 CFR 7.29. Only information that is ultimately determined to be confidential under that procedure will be exempt from disclosure under FOIA. DOT may proactively publish any application information that is not marked as CBI.
+
+Representation, Warranties, and Indemnification
+
+By entering the Challenge, each applicant represents, warrants, and covenants as follows:
+
+* Participant is the sole author, creator, and owner of the Submission
+* The Submission is not the subject of any actual or threatened litigation or claim;
+* The Submission does not and will not violate or infringe upon the intellectual property rights, privacy rights, publicity rights, or other legal rights of any third party;
+* The Submission does not and will not contain any harmful computer code (sometimes referred to as "malware," "viruses," or "worms"); and
+* The Submission, and contestants use of the Submission, does not and will not violate any applicable laws or regulations, including, without limitation, the Health Insurance Portability and Accountability Act (HIPAA), or applicable export control laws and regulations of the United States and other jurisdictions.
+
+DOT reserves the right to disqualify any submission that it deems, in its discretion, to violate these Official Rules, Terms & Conditions.
