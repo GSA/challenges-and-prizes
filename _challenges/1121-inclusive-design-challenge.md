@@ -135,7 +135,9 @@ Prizes will be structured as follows:
 
 If any potential (semi)finalist is found to be ineligible, has not complied with these Challenge rules, or declines the cash prize for any reason prior to award, an alternate (semi-)finalist may be selected.
 
-Eligibility The Challenge is open to individuals and teams (Participants) from the academic, research, and business communities including, but not limited to, universities, research institutions, technology companies, and entrepreneurs. DOT expects teams to describe how they have engaged with stakeholders tc understand the needs and constraints of both industry and travelers with disabilities as part of explaining the feasibility and impact of their design. Teams are strongly encouraged to identify representatives from both industry and the disability community to serve as advisors and/or team members and help inform the direction of their idea based on their
+#### Eligibility 
+
+The Challenge is open to individuals and teams (Participants) from the academic, research, and business communities including, but not limited to, universities, research institutions, technology companies, and entrepreneurs. DOT expects teams to describe how they have engaged with stakeholders tc understand the needs and constraints of both industry and travelers with disabilities as part of explaining the feasibility and impact of their design. Teams are strongly encouraged to identify representatives from both industry and the disability community to serve as advisors and/or team members and help inform the direction of their idea based on their
 knowledge and expertise. Strong proposals will be well-informed by a rich understanding of user needs and industry conditions. 
 
 To be eligible to win a prize under this Challenge, an individual or entity:
@@ -150,3 +152,9 @@ In addition, these two restrictions apply to recipients of other Federal funds:
 
 1. Federal grantees may not use Federal funds to develop submissions unless consistent with the purpose of their grant award; and
 2. Federal contractors may not use Federal funds from a contract to develop prize competition applications or to fund efforts in support of a prize competition submission.
+
+An individual or entity shall not be deemed ineligible because the individual or entity used Federal facilities or consulted with Federal employees during a competition if the facilities and employees are made available to all individuals and entities participating in the competition on an equitable basis.
+
+#### Liability and Insurance Requirements
+
+By registering and entering a submission, each participant agrees to assume any and all risks and waive claims against the Federal Government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from their participation in this competition, whether the injury, death, damage, or loss arises through negligence or otherwise. By registering and entering a submission, each participant further represents and warrants that it possesses sufficient liability insurance or financial resources to cover claims by a third party for death, bodily injury, or property damage or loss resulting from any activity it carries out in connection with its participation in this competition, or claims by the Federal Government for damage or loss to government property resulting from such an activity. Competition winners shall be prepared to demonstrate proof of insurance or financial responsibility in the event DOT deems it necessary.
