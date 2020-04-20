@@ -203,12 +203,25 @@ Participant further grants the DOT, and anyone acting on its behalf the right to
 
 The judging panel will consider each submission's alignment with each of these criteria and make recommendations to the Secretary of Transportation. The Secretary will select as semifinalists those submissions that best advance the purposes of the Challenge.
 
+
+
 1. TECHNICAL MERIT:
 
    * **Innovation**. Submission advances the state of the practice in meeting the needs of users with one or more disabilities (physical, sensory, and/or cognitive)
    * **Technical Detail and Understanding**. Submission demonstrates an understanding of the problemlengineering need being met as well as limitations.
    * **User-Driven**. Submission demonstrates user-driven design and incorporates direct input from relevant communities.
    * **Team**. Submission describes the team's composition including disability and industry advisors and how the team's background supports the solution development.
+
+#### Draft Stage II Judging Criteria 
+
+DOT anticipates that criteria from Stage I will carry over to the judging of Stage II submissions, with a focus on prototype development and maturity. In addition to the Stage I criteria, DOT anticipates applying the following draft criteria to Stage II submissions (to be finalized and issued to Stage II participants upon the completion of Stage I based on insights and feedback gained during Stage I):
+
+1. TECHNICAL MERIT:
+
+   * **Technical Approach**. Submission demonstrates significant development and improvement of the initial proof-of-concept through additional specifics and refinement of concept. Demonstrates a high-level of technical merit for the proposed approach.
+   * **Team**. Submission outlines the involvement of disability experts in the creation and testing of the solution, including responses to comments and how feedback has been incorporated into the design structure.
+   * **Design and Desirability**. Submission demonstrates how the proposed solution meets the needs of users. Shows how it could integrate into production now or in the future.
+   * **Functions as Intended**. Submission demonstrates that the prototype being presented performs its intended function and demonstrates the proposed solution(s) described in the participant's Stage I submission. Submission demonstrates the results of any testing performed through the design, development, and validation process.
 2. PRODUCTION FEASIBILITY:
 
    * **Path to Production**. Submission demonstrates a reasonable path for implementation and production, including expected obstacles to overcome. Submission aligns with statements made in Stage I about proposed feasibility and cost to implement (including discussion of potential production volumes).
