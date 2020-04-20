@@ -112,3 +112,21 @@ A functional prototype may include one or more of the options outlined below, as
 
 DOT anticipates that partway through Stage II one or more design charrettes will be held with subject matter experts from industry and the disability community. At the end of Stage II, teams will be invited to Washington, D.C. to demonstrate their prototypes. After this, the final prize selections will be announced. Up to three finalists will be selected and awarded a portion of the remaining prize purse, contingent upon review of the Stage II submissions and demonstrations against the judging criteria. As discussed below under Judging Criteria, the details of Stage II are subject to change and will not be finalized until Stage I is complete. DOT may, in its sole
 discretion, not proceed with Stage II.
+
+### Prizes
+
+The Challenge consists of two stages. Individuals and teams will compete for an overall prize purse of up to $5,000,000. The prize purse is part of the $100 million allocated in Fiscal Year 2018 for a "Highly automated vehicle research and development program" through the Consolidated Appropriations Act of 2018 (Public Law 115-141) and its accompanying Explanatory Statement.
+
+In Stage I, DOT will select up to ten semifinalists to advance to Stage II; each will receive $300,000 in prize money, which may be used to support the development of their prototype in Stage II. If a selectee declines to participate in the next stage, an alternate semifinalist may be selected. In Stage II, DOT will select three winning teams to receive a portion of the remaining prize purse.
+
+Prizes will be structured as follows:
+
+* Stage I Proof-of-Concept: Total prize funds awarded = Up to $3,000,000
+
+  * Up to 10 Semifinalists will be selected
+  * Each will receive $300,000 upon selection as a Semifinalist
+* Stage II Prototype/Demonstration: Total prize funds awarded = $2,000,000
+
+  * Winner (1st place) will receive $1,00Q,000
+  * 2nd place receives $700,000
+  * 3rd place receives $300,000
