@@ -20,15 +20,107 @@ submission-end: 11/16/2019 03:00 AM
 fiscal-year: FY19, FY20
 legal-authority: America COMPETES Act
 challenge-manager: Craig Connelly
-prize: true
 challenge-manager-email: craig.connelly@nist.gov
+prizes: >-
+  <divclass="prize-item">
+
+
+  <h4class="text-primary">Prizes Anticipated for the Regional Codeathon Events and Contests</h4>
+
+
+  <pclass="prize"><strong>$350,000</strong></p>
+
+
+  <divclass="description">
+
+
+  <p><strong>Cash prizes per regional event (10 locations)</strong></p>
+
+
+  <p><em>1st Place:</em>$10,000 x 10 = $100,000</p>
+
+
+  <p><em>2nd Place:</em>$7,500 x 10 = $75,000</p>
+
+
+  <p><em>3rd Place:</em>$5,000 x 10 = $50,000</p>
+
+
+  <p><em>4th Place:</em>$2,500 x 10 = $25,000</p>
+
+
+  <p><em>Top Participant Cash Prizes in each of the ten discrete contests, at each of the ten regional events:</em>$1,000 x 100 = $100,000</p>
+
+
+  <p><strong><em>Total Regional Cash Prizes:</em>$350,000</strong></p>
+
+
+  </div>
+
+
+  </div>
+
+
+  <div><strong>Participant Prizes Announced</strong></div>
+
+
+  <div>
+
+
+  <ul>
+
+
+  <li>&nbsp;<ahref="https://www.techtoprotectchallenge.org/november-tech-to-protect-challenge-winners-announced-30-teams-recognized-at-nationwide-regional-codeathons-held-nov/"target="_blank"rel="noopener"data-saferedirecturl="https://www.google.com/url?q=https://www.techtoprotectchallenge.org/november-tech-to-protect-challenge-winners-announced-30-teams-recognized-at-nationwide-regional-codeathons-held-nov/&amp;source=gmail&amp;ust=1574165702057000&amp;usg=AFQjCNFhqaiWC-sKHyQmQnPxMTCbeHFU_g">NIST PSCR Awards $180,000 at Tech to Protect Challenge November Codeathons</a></li>
+
+
+  <li><ahref="https://www.techtoprotectchallenge.org/september-tech-to-protect-challenge-winners-announced/"target="_blank"rel="noopener"data-saferedirecturl="https://www.google.com/url?q=https://www.techtoprotectchallenge.org/september-tech-to-protect-challenge-winners-announced/&amp;source=gmail&amp;ust=1574165702057000&amp;usg=AFQjCNHIW36QOy1X74vuGIux7hYueVNK2w">September Tech to Protect Challenge Winners Announced</a></li>
+
+
+  </ul>
+
+
+  </div>
+
+
+  <divclass="prize-item">
+
+
+  <h4class="text-primary">Prizes Anticipated for the Online & National Awards Event Contests</h4>
+
+
+  <p><strong>Finalist solutions will be given an adjectival rating corresponding to a cash prize</strong></p>
+
+
+  <p><em>Excellent:</em>&nbsp;&nbsp;$40,000 x 4&nbsp;&nbsp;= $160,000</p>
+
+
+  <p><em>Superior:&nbsp;</em>&nbsp;&nbsp;$20,000 x 5&nbsp;&nbsp;= $100,000</p>
+
+
+  <p><em>Very Good:</em>&nbsp;$15,000 x 6&nbsp;&nbsp;= $75,000</p>
+
+
+  <p><em>Good:</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$10,000 x 10 = $100,000</p>
+
+
+  <p><em>Unacceptable:</em>no cash prize</p>
+
+
+  <p><em>Seed and Progress Contest Awards:</em>&nbsp;$100,000 x 12 = $1,200,000</p>
+
+
+  <p><em><strong>Total National Cash&amp;Non-Cash Prizes:&nbsp;$1,635,000</strong></em></p>
+
+
+  </div>
+prize: true
 partners-non-federal: null
 submission-link: null
 description: >-
   <divclass="description">
 
 
-  <p><imgsrc="{{ site.baseurl }}/assets/images/challenge-content/image002.png"width="858"height="210"alt="challenge timeline"/></p>
+  <p><img src="{{ site.baseurl }}/assets/images/challenge-content/image002.png"width="858"height="210"alt="challenge timeline"/></p>
 
 
   <p>The Tech to Protect Challenge is an open innovation opportunity led by the National Institute of Standards and Technology (NIST), Public Safety Communications Research (PSCR) Division. Taking place throughout 2019 in ten different cities across the country, the challenge features ten contests which allow for on-line and in-person participation. Each contest is designed to develop new, creative technologies to address issues faced by fire, law enforcement and EMS emergency responders.</p>
