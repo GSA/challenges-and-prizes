@@ -75,3 +75,17 @@ Participants will also focus their efforts by designing solutions for use by one
 ##### *Production Feasibility*
 
 DOT seeks proposals through this Challenge that strike a balance between innovation and nearterm implementation. For innovation to have the desired impact, implementation is critical. Participants are expected to discuss factors related to the feasibility of producing their solution(s), including the maturity of the technology underlying the inclusive design elements of the proposed design, as well as cost and other production considerations. "Production" here refers to the incorporation of the proposed solution(s) into a vehicle as original equipment, integration into an existing vehicle platform as part of an aftermarket modification, or a holistic reimagining of passenger vehicle design with a focus on seamlessly integrating inclusive features.
+
+#### Challenge Structure
+
+##### *Overall Schedule*
+
+DOT anticipates that the Challenge will proceed according to the schedule outlined below. Dates are subject to change with any changes being posted on the DOT's Challenge website accordingly.
+
+* Stage I Launch: April 21, 2020
+* Stage I Close: October 30, 2020, 5:00 PM Eastern
+* Stage I Selection/ Awards, Launch of Stage II: January 2021 ( anticipated)
+* Stage II Design Charrette: Summer 2021 (anticipated)·
+* Stage II Close, Prototype Demonstrations at U.S. DOT Headquarters: June 2022
+  ( anticipated)
+* Stage II Prize Selections: July 2022 (anticipated)
