@@ -167,7 +167,7 @@ Cash prizes awarded under this Challenge will be paid to the individual or Team 
 
 Challenge submissions and communication with DOT are subject to the Freedom of Information Act (FOIA). If the application includes information that the applicant considers to be a trade secret or confidential commercial or financial information, the proposer should do the following: (1) Note on the front cover that the submission "Contains Confidential Business Information (CBI)"; (2) mark each affected page "CBI"; and (3) highlight or otherwise denote the CBI portions. DOT protects such information from disclosure to the extent allowed under applicable law. In the event DOT receives a FOIA request for the information, DOT will follow the procedures described in its FOIA regulations at 49 CFR 7.29. Only information that is ultimately determined to be confidential under that procedure will be exempt from disclosure under FOIA. DOT may proactively publish any application information that is not marked as CBI.
 
-Representation, Warranties, and Indemnification
+#### Representation, Warranties, and Indemnification
 
 By entering the Challenge, each applicant represents, warrants, and covenants as follows:
 
@@ -178,3 +178,15 @@ By entering the Challenge, each applicant represents, warrants, and covenants as
 * The Submission, and contestants use of the Submission, does not and will not violate any applicable laws or regulations, including, without limitation, the Health Insurance Portability and Accountability Act (HIPAA), or applicable export control laws and regulations of the United States and other jurisdictions.
 
 DOT reserves the right to disqualify any submission that it deems, in its discretion, to violate these Official Rules, Terms & Conditions.
+
+#### Intellectual Property of Submissions
+
+Participants can utilize intellectual property developed prior to this Challenge as a part of their submission. Neither the U.S. Department of Transportation nor anyone acting on its behalf will obtain any rights in intellectual property developed prior to or during the conduct of this Challenge without the prior written consent of the Participant. By participating in the Challenge, the Participant is not granting rights in any patents, pending patent applications, or copyrights related to the technology described in their submission. However, by submitting their entry, the Participant is granting the U.S; Department of Transportation and any parties acting on its behalf certain limited rights as set forth herein.
+
+By virtue oftheir submission to this Challenge, Participants grant to the DOT, and any parties acting on their behalf the right to:
+
+1. review the submission per the Stage I Judging Criteria;
+2. describe the submission in any materials created in connection with this Challenge; and
+3. screen and evaluate the submission per the Stage II Judging Criteria, if Participant is selected for Stage II.
+
+Participant further grants the DOT, and anyone acting on its behalf the right to publicize Participant's name and, as applicable, the name of Participant's team members and/or the name of any Entity that assisted in preparing Participant's submission. Such authority includes posting or linking to the Participant's submission on U.S. Department of Transportation websites, including the Challenge website, Participant's websites, and inclusion of the Participant's submission in any other media, worldwide. More speeifically, such authority includes the right to copy, distribute, publicly display and publicly perform all parts of Participant's submission.
