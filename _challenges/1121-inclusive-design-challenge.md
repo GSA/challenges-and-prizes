@@ -89,3 +89,26 @@ DOT anticipates that the Challenge will proceed according to the schedule outlin
 * Stage II Close, Prototype Demonstrations at U.S. DOT Headquarters: June 2022
   ( anticipated)
 * Stage II Prize Selections: July 2022 (anticipated)
+
+##### *Stage I, Proof of Concept*
+
+In Stage I, eligible Participants will submit proposals for inclusive design solutions for AVs. DOT will select up to ten semifinalists to advance to Stage II to develop a functional prototype of their idea and compete for a cash prize. 
+
+Stage I proposals will be limited to written, descriptive summaries (no more than 10 pages; see "Stage I Submission Requirements" below for additional detail on proposal length constraints), supporting visual exhibits, and accompanying information (team biographies, etc.) as outlined below.
+
+##### *Stage II, Prototype/Demonstration*
+
+In Stage II, the semifinalists selected to advance from Stage I will develop their concepts into functional prototypes of an inclusive design solution. 
+
+A functional prototype may include one or more of the options outlined below, as appropriate given the nature of solution(s) being demonstrated, their sophistication, and the time available. DOT will not require semifinalists to demonstrate their proposed feature(s) on an actual vehicle, although a team may determine that doing so is necessary and/or advantageous to illustrate maturity, productionlintegration feasibility, or functionality.
+
+* Full-size physical prototype, either:
+
+  * Integrated into a vehicle (the vehicle itself does not need to be automated, but should be reflective of vehicles being developed and tested with Level 4 or 5 automation).
+  * Full-size, standalone demonstration separate from a vehicle. In this case,
+    Participants should be prepared to illustrate how their proposed solution would be
+    integrated into a full-size vehicle, potentially through one of the other prototype
+    approaches listed.
+* **Software prototype** - Given that certain solutions or components of broader solutions will entail a software/interface component, Participants can consider functioning software interfaces as prototypes.
+* **Scale physical prototype** - If a full-size physical prototype is infeasible for the proposed solution given the time and resources available, Participants may consider demonstrating their concept via a scale model. Accompanying demonstration exhibits may complement scale prototypes, particularly to demonstrate engineering feasibility, integration into a vehicle platform, and usability.
+* **Virtual prototype** - DOT will consider the submission of virtual prototypes (3D models, computer-aided design (CAD) drawings, schematics) of physical solutions, but strongly encourages Participants to consider other primary means of demonstrating their solution(s), and to limit the use of virtual prototypes to supporting/secondary exhibits.
