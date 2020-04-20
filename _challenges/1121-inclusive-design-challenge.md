@@ -3,7 +3,7 @@ title: Inclusive Design Challenge
 challenge-title: Inclusive Design Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/inclusive-design-challenge/
-challenge-id: "1121"
+challenge-id: "1122"
 status: open
 sidenav: true
 card-image: /assets/netlify-uploads/dot-idc.jpg
