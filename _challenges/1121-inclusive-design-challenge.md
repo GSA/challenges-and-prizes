@@ -248,3 +248,24 @@ Submissions should follow the instructions below and should be submitted to  [ho
 #### Stage I Submission Requirements
 
 Complete Stage I submission packages shall consist of the following elements:
+
+1. A cover page with the following information:
+
+   * Submission title;
+   * Brief description of the submission (15 words);
+   * Team name, participant(s) name(s), organization(s), and primary point of contact;
+   * Vehicle use(s) addressed; and
+   * Disability type(s) addressed.
+2. A one-page executive summary of the concept being proposed.
+3. A concept paper (10-page limit), including but not limited to the following content:
+
+   * A detailed technical description of the proposed solution discussing its functionality and capabilities, demonstrating the user needs being met and how, and strategies involved in integrating the proposed solution into a production vehicle as original equipment or as a modification. The paper should explain how the team arrived at its understanding of these issues, including its process for incorporating guidance from potential users and/or industry;
+   * Describe how the proposed solution will meet the objective of the Challenge, namely how it advances the state of the practice in feasible, purpose-built, fully inclusive vehicle design than can enable independent use of future AVs by people with disabilities, and how the proposed solution satisfies the Judging Criteria;
+   * Discuss the approach to ensuring the safety of occupants and other road users;
+   * Describe the anticipated user experience of the technology, including how the team incorporated input from stakeholders in the disability community;
+   * Discuss the team's assessment of the production feasibility of the proposed solution(s), including whether it is intended as an original equipment feature or an aftermarket modification, level of maturity of the underlying technologies, and production cost considerations. The team should also discuss how its proposal has been informed by industry stakeholders or partners;
+   * Include a plan/schedule for Stage II project implementation (prototype development), resources, and costs.
+4. Appendices:
+
+   * Information on the qualifications of your team -briefly describe the makeup of the team and include a résumé or bio of key individual(s). Also, describe how you have engaged with specific parties to understand the needs and constraints of both industry and travelers with disabilities as part of explaining the feasibility and impact of your design, and provide the name and affiliation of any representatives from industry and the disability community who you plan to have serve as an advisor during the Stage II prototyping phase and how you plan to use them.
+   * Supporting technical data and/or figures, if available, should be included as an appendix, which does not count towards the 10-page limit of the concept paper.
