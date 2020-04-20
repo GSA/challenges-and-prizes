@@ -28,7 +28,7 @@ point-of-contact: inclusivedesign@dot.gov
 
 An estimated 25.5 million Americans experience a travel-limiting disability that impacts their access to employment, medical care, and other activities of daily living. The current COVID-19 pandemic has further highlighted the critical need for vulnerable populations to have on-demand transportation services to access healthcare, pharmacies, grocery stores, and other essential services. Automated vehicles, particularly those designed to be operated exclusively by Level 4 and Level 5 Automated Driving Systems (ADS), hold great promise to enhance freedom of movement for these individuals. However, fulfilling this promise will require innovation and creativity, not only in how vehicles drive themselves, but also in how all users access and interact with them.
 
-Through the Inclusive Design Challenge, the United States Department of Transportation (DOT) seeks innovative, inclusive design features to enable people with physical, sensory, and cognitive disabilities to use automated vehicles, particularly ADS-dedicated vehicles (ADS-DV) that are operated exclusively at Levels 4 and 5 (see Notes on Terminology below for additional detail on terms used throughout this Challenge). Solutions must address one or more aspects of ADS-DV use - such as locating and entering an ADS-DV or interacting with the vehicle in routine and emergency situations - through physical hardware and/or human-machine interface (HMI) designs. Individuals and teams will compete for an overall prize purse ofup to $5,000,000 in a two-stage competition. In Stage I, DOT solicits brief technical proposals for inclusive design features that could then be demonstrated in prototype form by semifinalists in Stage II.
+Through the Inclusive Design Challenge, the United States Department of Transportation (DOT) seeks innovative, inclusive design features to enable people with physical, sensory, and cognitive disabilities to use automated vehicles, particularly ADS-dedicated vehicles (ADS-DV) that are operated exclusively at Levels 4 and 5 (see Notes on Terminology below for additional detail on terms used throughout this Challenge). Solutions must address one or more aspects of ADS-DV use - such as locating and entering an ADS-DV or interacting with the vehicle in routine and emergency situations - through physical hardware and/or human-machine interface (HMI) designs. Individuals and teams will compete for an overall prize purse of up to $5,000,000 in a two-stage competition. In Stage I, DOT solicits brief technical proposals for inclusive design features that could then be demonstrated in prototype form by semifinalists in Stage II.
 
 By using a prize competition format, DOT seeks to draw attention to the topic of passenger vehicle accessibility; encourage new cross-disciplinary collaborations; incentivize the development of new approaches and technologies to improve mobility; and tap into the creativity and knowledge of the disability community, researchers, advocates, manufacturers, and entrepreneurs. DOT aims to attract ideas from around the nation to identify new solutions for common access issues.
 
@@ -36,13 +36,13 @@ This Challenge seeks inclusive solutions, referring to features and designs that
 
 #### Background
 
-DOT is eager to realize the potential mobility benefits that ADS-DVs could bring to people with disabilities. ADS-DVs, could offer greater levels of mobility for individuals who either cannot drive or require a vehicle with extensive modifications, but only if their needs are considered explicitly and incorporated into future ADS-DY designs. DOT recognizes that the diversity of disabilities and resulting implications for vehicle design features makes this a complicated engineering challenge. While some mobility services (e.g., public transportation or for-hire vehicles, such as taxis) currently incorporate some accessibility features, few of these features are universally included in passenger vehicles as part of vehicle design. Meanwhile, aftermarket solutions tend to be expensive and cumbersome.
+DOT is eager to realize the potential mobility benefits that ADS-DVs could bring to people with disabilities. ADS-DVs, could offer greater levels of mobility for individuals who either cannot drive or require a vehicle with extensive modifications, but only if their needs are considered explicitly and incorporated into future ADS-DV designs. DOT recognizes that the diversity of disabilities and resulting implications for vehicle design features makes this a complicated engineering challenge. While some mobility services (e.g., public transportation or for-hire vehicles, such as taxis) currently incorporate some accessibility features, few of these features are universally included in passenger vehicles as part of vehicle design. Meanwhile, aftermarket solutions tend to be expensive and cumbersome.
 
 Several recent publications are provided at [www.transportation.gov/accessibility/inclusivedesign](www.transportation.gov/accessibility/inclusivedesign) to offer further information on the needs, challenges, and opportunities that ADS-DVs introduce for people with disabilities.
 
 #### Challenge Details
 
-DOT seeks ideas for inclusive features that will enable future ADS-DVs to meet the needs of people with disabilities safely, effectively, and efficiently. Participants will compete for cash prizes by developing innovative design solutions to increase access to and use ofADS-DVs for people with disabilities. Such features can be human-machine interfaces, physical hardware designs, or combinations thereof that can allow a person with a physical, sensory, and/or cognitive disability to perform one or more tasks required to use an ADS-DY. Solutions may be proposed as standalone features or integrated into a holistic vehicle design. Successful solutions will show that they have taken into account production feasibility and an understanding of the needs and constraints of both industry and travelers with disabilities. The Department notes that it is seeking to further innovation in inclusive design for ADS-DVs with this Challenge, rather than the development of the Automated Driving Systems themselves. Thus, awards are judged solely on the factors described in this statement, and are not based on the sophistication Of any ADS included as part of a prototype vehicle. See Stage II Prototype/Demonstration below for additional details on prototype expectations and requirements. 
+DOT seeks ideas for inclusive features that will enable future ADS-DVs to meet the needs of people with disabilities safely, effectively, and efficiently. Participants will compete for cash prizes by developing innovative design solutions to increase access to and use ofADS-DVs for people with disabilities. Such features can be human-machine interfaces, physical hardware designs, or combinations thereof that can allow a person with a physical, sensory, and/or cognitive disability to perform one or more tasks required to use an ADS-DV. Solutions may be proposed as standalone features or integrated into a holistic vehicle design. Successful solutions will show that they have taken into account production feasibility and an understanding of the needs and constraints of both industry and travelers with disabilities. The Department notes that it is seeking to further innovation in inclusive design for ADS-DVs with this Challenge, rather than the development of the Automated Driving Systems themselves. Thus, awards are judged solely on the factors described in this statement, and are not based on the sophistication Of any ADS included as part of a prototype vehicle. See Stage II Prototype/Demonstration below for additional details on prototype expectations and requirements. 
 
 The sections below provide important information on elements to consider as part of your Challenge solution.
 
@@ -52,14 +52,14 @@ Participants should consider features intended to be incorporated into vehicles 
 
 ##### *Vehicle Use*
 
-Participants will develop inclusive design solutions to address one or more of the following tasks that an ADS-Dy user with a disability will need to complete:
+Participants will develop inclusive design solutions to address one or more of the following tasks that an ADS-DV user with a disability will need to complete:
 
-* Locating an ADS-Dy -Including, but not limited to, being notified that a vehicle has arrived; identifying the correct vehicle and locating and navigating to the correct vehicle.
-* Entering an ADS-DY-Including, but not limited to, unlocking and opening vehicle door(s); deploying and stowing ramps or other equipment enabling access for wheelchair users or people with other physical disabilities or mobility equipment; and closing vehicle door(s).
+* Locating an ADS-DV -Including, but not limited to, being notified that a vehicle has arrived; identifying the correct vehicle and locating and navigating to the correct vehicle.
+* Entering an ADS-DV-Including, but not limited to, unlocking and opening vehicle door(s); deploying and stowing ramps or other equipment enabling access for wheelchair users or people with other physical disabilities or mobility equipment; and closing vehicle door(s).
 * Securing Passengers and Mobility Equipment -Including, but not limited to, securing seatbelts and other passenger restraints; securing wheelchairs or other mobility equipment to the vehicle; and accommodating service animals.
 * Inputting Information-Including, but not limited to, confirming passenger identity; searching for, entering, and changing a desired destination; confirming the vehicle's destination; selecting a specific drop-off point (e.g., a particular entrance to a large complex or a location with a curb cut or sufficient space to deploy a ramp or other physical device).
 * Interacting with the ADS in routine and emergency situations -Including, but not limited to, operating passenger convenience and safety features (e.g., entertainment, window controls, locks, climate control); monitoring the vehicle's location and route progress; changing the vehicle's destination en route; requesting assistance (emergency or non-emergency); understanding and performing appropriate actions in the event of a breakdown or crash.
-* Exiting an ADS-DY ---- Including, but not limited to, being notified and confirming that a vehicle has reached its intended destination; releasing passenger and/or mobility equipment restraints; identifying and locating the safe and appropriate door(s) from which to exit the vehicle; recognizing when it is safe to exit a vehicle; opening door(s) and deploying and stowing ramps or other equipment enabling access for passengers and/or mobility equipment (e.g., wheelchairs).
+* Exiting an ADS-DV ---- Including, but not limited to, being notified and confirming that a vehicle has reached its intended destination; releasing passenger and/or mobility equipment restraints; identifying and locating the safe and appropriate door(s) from which to exit the vehicle; recognizing when it is safe to exit a vehicle; opening door(s) and deploying and stowing ramps or other equipment enabling access for passengers and/or mobility equipment (e.g., wheelchairs).
 
 ##### *Disability Types*
 
@@ -86,8 +86,7 @@ DOT anticipates that the Challenge will proceed according to the schedule outlin
 * Stage I Close: October 30, 2020, 5:00 PM Eastern
 * Stage I Selection/ Awards, Launch of Stage II: January 2021 ( anticipated)
 * Stage II Design Charrette: Summer 2021 (anticipated)·
-* Stage II Close, Prototype Demonstrations at U.S. DOT Headquarters: June 2022
-  ( anticipated)
+* Stage II Close, Prototype Demonstrations at U.S. DOT Headquarters: June 2022 ( anticipated)
 * Stage II Prize Selections: July 2022 (anticipated)
 
 ##### *Stage I, Proof of Concept*
@@ -100,7 +99,7 @@ Stage I proposals will be limited to written, descriptive summaries (no more tha
 
 In Stage II, the semifinalists selected to advance from Stage I will develop their concepts into functional prototypes of an inclusive design solution. 
 
-A functional prototype may include one or more of the options outlined below, as appropriate given the nature of solution(s) being demonstrated, their sophistication, and the time available. DOT will not require semifinalists to demonstrate their proposed feature(s) on an actual vehicle, although a team may determine that doing so is necessary and/or advantageous to illustrate maturity, productionlintegration feasibility, or functionality.
+A functional prototype may include one or more of the options outlined below, as appropriate given the nature of solution(s) being demonstrated, their sophistication, and the time available. DOT will not require semifinalists to demonstrate their proposed feature(s) on an actual vehicle, although a team may determine that doing so is necessary and/or advantageous to illustrate maturity, production/integration feasibility, or functionality.
 
 * **Full-size physical prototype**, either:
 
@@ -110,8 +109,7 @@ A functional prototype may include one or more of the options outlined below, as
 * **Scale physical prototype** - If a full-size physical prototype is infeasible for the proposed solution given the time and resources available, Participants may consider demonstrating their concept via a scale model. Accompanying demonstration exhibits may complement scale prototypes, particularly to demonstrate engineering feasibility, integration into a vehicle platform, and usability.
 * **Virtual prototype** - DOT will consider the submission of virtual prototypes (3D models, computer-aided design (CAD) drawings, schematics) of physical solutions, but strongly encourages Participants to consider other primary means of demonstrating their solution(s), and to limit the use of virtual prototypes to supporting/secondary exhibits.
 
-DOT anticipates that partway through Stage II one or more design charrettes will be held with subject matter experts from industry and the disability community. At the end of Stage II, teams will be invited to Washington, D.C. to demonstrate their prototypes. After this, the final prize selections will be announced. Up to three finalists will be selected and awarded a portion of the remaining prize purse, contingent upon review of the Stage II submissions and demonstrations against the judging criteria. As discussed below under Judging Criteria, the details of Stage II are subject to change and will not be finalized until Stage I is complete. DOT may, in its sole
-discretion, not proceed with Stage II.
+DOT anticipates that partway through Stage II one or more design charrettes will be held with subject matter experts from industry and the disability community. At the end of Stage II, teams will be invited to Washington, D.C. to demonstrate their prototypes. After this, the final prize selections will be announced. Up to three finalists will be selected and awarded a portion of the remaining prize purse, contingent upon review of the Stage II submissions and demonstrations against the judging criteria. As discussed below under Judging Criteria, the details of Stage II are subject to change and will not be finalized until Stage I is complete. DOT may, in its sole discretion, not proceed with Stage II.
 
 ### Prizes
 
@@ -127,7 +125,7 @@ Prizes will be structured as follows:
   * Each will receive $300,000 upon selection as a Semifinalist
 * Stage II Prototype/Demonstration: Total prize funds awarded = $2,000,000
 
-  * Winner (1st place) will receive $1,00Q,000
+  * Winner (1st place) will receive $1,000,000
   * 2nd place receives $700,000
   * 3rd place receives $300,000
 
@@ -135,10 +133,9 @@ Prizes will be structured as follows:
 
 If any potential (semi)finalist is found to be ineligible, has not complied with these Challenge rules, or declines the cash prize for any reason prior to award, an alternate (semi-)finalist may be selected.
 
-#### Eligibility 
+#### Eligibility
 
-The Challenge is open to individuals and teams (Participants) from the academic, research, and business communities including, but not limited to, universities, research institutions, technology companies, and entrepreneurs. DOT expects teams to describe how they have engaged with stakeholders tc understand the needs and constraints of both industry and travelers with disabilities as part of explaining the feasibility and impact of their design. Teams are strongly encouraged to identify representatives from both industry and the disability community to serve as advisors and/or team members and help inform the direction of their idea based on their
-knowledge and expertise. Strong proposals will be well-informed by a rich understanding of user needs and industry conditions. 
+The Challenge is open to individuals and teams (Participants) from the academic, research, and business communities including, but not limited to, universities, research institutions, technology companies, and entrepreneurs. DOT expects teams to describe how they have engaged with stakeholders to understand the needs and constraints of both industry and travelers with disabilities as part of explaining the feasibility and impact of their design. Teams are strongly encouraged to identify representatives from both industry and the disability community to serve as advisors and/or team members and help inform the direction of their idea based on their knowledge and expertise. Strong proposals will be well-informed by a rich understanding of user needs and industry conditions. 
 
 To be eligible to win a prize under this Challenge, an individual or entity:
 
@@ -163,7 +160,7 @@ By registering and entering a submission, each participant agrees to assume any 
 
 Cash prizes awarded under this Challenge will be paid to the individual or Team Lead directly by DOT through electronic funds transfer. Finalists and winner(s) will be responsible for any applicable local, State, and Federal taxes and reporting that may be required under applicable tax laws. The DOT will comply with the Internal Revenue Service withholding and reporting requirements, where applicable.
 
-#### Confidential and Business Information 
+#### Confidential and Business Information
 
 Challenge submissions and communication with DOT are subject to the Freedom of Information Act (FOIA). If the application includes information that the applicant considers to be a trade secret or confidential commercial or financial information, the proposer should do the following: (1) Note on the front cover that the submission "Contains Confidential Business Information (CBI)"; (2) mark each affected page "CBI"; and (3) highlight or otherwise denote the CBI portions. DOT protects such information from disclosure to the extent allowed under applicable law. In the event DOT receives a FOIA request for the information, DOT will follow the procedures described in its FOIA regulations at 49 CFR 7.29. Only information that is ultimately determined to be confidential under that procedure will be exempt from disclosure under FOIA. DOT may proactively publish any application information that is not marked as CBI.
 
@@ -183,19 +180,19 @@ DOT reserves the right to disqualify any submission that it deems, in its discre
 
 Participants can utilize intellectual property developed prior to this Challenge as a part of their submission. Neither the U.S. Department of Transportation nor anyone acting on its behalf will obtain any rights in intellectual property developed prior to or during the conduct of this Challenge without the prior written consent of the Participant. By participating in the Challenge, the Participant is not granting rights in any patents, pending patent applications, or copyrights related to the technology described in their submission. However, by submitting their entry, the Participant is granting the U.S; Department of Transportation and any parties acting on its behalf certain limited rights as set forth herein.
 
-By virtue oftheir submission to this Challenge, Participants grant to the DOT, and any parties acting on their behalf the right to:
+By virtue of their submission to this Challenge, Participants grant to the DOT, and any parties acting on their behalf the right to:
 
 1. review the submission per the Stage I Judging Criteria;
 2. describe the submission in any materials created in connection with this Challenge; and
 3. screen and evaluate the submission per the Stage II Judging Criteria, if Participant is selected for Stage II.
 
-Participant further grants the DOT, and anyone acting on its behalf the right to publicize Participant's name and, as applicable, the name of Participant's team members and/or the name of any Entity that assisted in preparing Participant's submission. Such authority includes posting or linking to the Participant's submission on U.S. Department of Transportation websites, including the Challenge website, Participant's websites, and inclusion of the Participant's submission in any other media, worldwide. More speeifically, such authority includes the right to copy, distribute, publicly display and publicly perform all parts of Participant's submission.
+Participant further grants the DOT, and anyone acting on its behalf the right to publicize Participant's name and, as applicable, the name of Participant's team members and/or the name of any Entity that assisted in preparing Participant's submission. Such authority includes posting or linking to the Participant's submission on U.S. Department of Transportation websites, including the Challenge website, Participant's websites, and inclusion of the Participant's submission in any other media, worldwide. More specifically, such authority includes the right to copy, distribute, publicly display and publicly perform all parts of Participant's submission.
 
 #### Notes on Terminology
 
 1. This Challenge focuses specifically on vehicles operated exclusively by a Level 4 and 5 ADS, a level of automation at which human occupants are not expected to serve as a fallback, as long as the vehicle remains within the system's operational design domain. In its standard J3016 Taxonomy and Definitions for Terms Related to On-Road Motor Vehicle Automated Driving Systems, SAE International refers to such vehicles as ADSdedicated vehicles or ADS-DVs. DOT recognizes that some solutions proposed through this Challenge may also be applicable to dual-mode vehicles - capable of both driverless operation and operation by a conventional driver for a complete trip.
 2. In the Consolidated Appropriations Act of2018 (Public Law 115-14]), Congress reallocated $100 million for ". . . a highly automated vehicle (HAV) research and development program," a portion of which is being used to fund this Challenge. The accompanying Explanatory Statement further clarified: "Of the total amount provided, not less than $38,000,000 shall be used for direct research, including administrative expenses, on HAV and \[Advanced Driver Assistance System] technologies by the National Highway Traffic Safety Administration, the Federal Highway
-3. Administration, the Federal Motor Carrier Safety Administration, and the Federal Transit Administration, of which no more than $5,000,000 shall be for ADAS research. For the purposes of the agreement, HAV refers to technologies capable of the Society of Automotive Engineers (SAE) DOT Level 3, Level 4, or Level 5 automation, whereas ADAS refers to technologies capable of Level 1 or Level 2" (Division L, Title 1). DOT previously used the term HAY to refer to vehicles with Level 3-5 driving automation, but subsequently adopted the terminology in SAE J3016 Taxonomy and Definitionsfor Terms Related to On-Road Motor Vehicle Automated Driving Systems.
+3. Administration, the Federal Motor Carrier Safety Administration, and the Federal Transit Administration, of which no more than $5,000,000 shall be for ADAS research. For the purposes of the agreement, HAV refers to technologies capable of the Society of Automotive Engineers (SAE) DOT Level 3, Level 4, or Level 5 automation, whereas ADAS refers to technologies capable of Level 1 or Level 2" (Division L, Title 1). DOT previously used the term HAV to refer to vehicles with Level 3-5 driving automation, but subsequently adopted the terminology in SAE J3016 Taxonomy and Definitionsfor Terms Related to On-Road Motor Vehicle Automated Driving Systems.
 
 ### Judging Criteria
 
@@ -206,21 +203,21 @@ The judging panel will consider each submission's alignment with each of these c
 1. TECHNICAL MERIT:
 
    * **Innovation**. Submission advances the state of the practice in meeting the needs of users with one or more disabilities (physical, sensory, and/or cognitive)
-   * **Technical Detail and Understanding**. Submission demonstrates an understanding of the problemlengineering need being met as well as limitations.
+   * **Technical Detail and Understanding**. Submission demonstrates an understanding of the problem/engineering need being met as well as limitations.
    * **User-Driven**. Submission demonstrates user-driven design and incorporates direct input from relevant communities.
    * **Team**. Submission describes the team's composition including disability and industry advisors and how the team's background supports the solution development.
 2. PRODUCTION FEASIBILITY:
 
-   * **Production Integration**. Submission describes how the solution can be integrated into a production vehicle, as original equipment or as an afiermarket modification, including scalability, ease of integration, and market readiness.
+   * **Production Integration**. Submission describes how the solution can be integrated into a production vehicle, as original equipment or as an aftermarket modification, including scalability, ease of integration, and market readiness.
    * **Risks and Challenges**. Submission identifies possible risks and challenges and how to overcome them.
    * **Safety Considerations**. Submission clearly describes the individual's/team's approach to ensuring the safety of occupants and other road users.
    * **Cost and Other Adoption Considerations**. Submission describes expected costs to implement the technology and if/how the cost will impact the potential for future industry adoption. Cost, in this case, reflects both the cost to develop and the cost to manufacture, integrate into vehicles, and sell to the end consumer (either individual vehicle buyer or fleet operator).
 3. IMPACT/BENEFIT:
 
-   * **Inclusivity**. Submission demonstrates inclusivity in vehicle design and engineering, laying a foundation for future automated vehicles that can be used by people physical, sensory, and cognitive disabilities.
+   * **Inclusivity**. Submission demonstrates inclusivity in vehicle design and engineering, laying a foundation for future automated vehicles that can be used by people with physical, sensory, and cognitive disabilities.
    * **Potential Benefit**. Submission describes potential benefit to one or more target user(s) or demonstrates the potential for users, should the solution be developed.
 
-#### Draft Stage II Judging Criteria 
+#### Draft Stage II Judging Criteria
 
 DOT anticipates that criteria from Stage I will carry over to the judging of Stage II submissions, with a focus on prototype development and maturity. In addition to the Stage I criteria, DOT anticipates applying the following draft criteria to Stage II submissions (to be finalized and issued to Stage II participants upon the completion of Stage I based on insights and feedback gained during Stage I):
 
