@@ -19,7 +19,7 @@ submission-end: 03/15/2020 11:59 PM
 submission-link:
 prize: true
 fiscal-year: FY20
-legal-authority: Unspecified
+legal-authority: Other
 challenge-manager: Chris Levitt
 challenge-manager-email: clevitt@nsin.us
 ---
