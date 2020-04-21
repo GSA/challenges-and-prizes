@@ -657,6 +657,14 @@ The Prize Challenge winner(s) will be notified via email by the challenge manage
 
 Official responses to questions that have come in:
 
+Question: We currently produce a containment system that has been tested to similar standards. Can we modify that product for the challenge or does the USN want a completely new product?
+
+* *Answer: Yes, you can modify your current containment product to meet the goals of the challenge. Note that the judging criteria rewards innovation in proposed solutions over existing products. Modifications to existing products would still be regarded positively if the innovation substantially enhanced the existing product's performance.*
+
+Question: For the Proof of Concept testing at what state of charge (SOC) is required of the battery during testing?
+
+* *Answer: All batteries are required to be at 100% SOC.*
+
 Question: While carefully reading the threshold parameters, we came across “Physical dimension must have a single side that is less than 36” in circumference and 11.5” in radius”. It looks like that you are assuming the cylindrical object to hold four batteries and not rectangular. However, in order to have 36” circumference, is the 11.5” is radius or diameter. If its diameter, the calculations for circumference C (36”) = 2PI r = 2x3.14x5.75 would make sense. Please clarify.
 
 * *Answer: The requirement is that one orientation of the containment system must have a maximum diameter of 23”. This containment system does not have to have a side that is round.*
