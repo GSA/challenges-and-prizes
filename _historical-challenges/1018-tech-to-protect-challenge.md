@@ -19,7 +19,7 @@ submission-end: 11/16/2019 03:00 AM
 submission-link:  
 prize: true
 fiscal-year: FY19-FY20
-legal-authority: America COMPETES
+legal-authority: America COMPETES Act
 challenge-manager: Craig Connelly
 challenge-manager-email: craig.connelly@nist.gov 
 description: <div class="description">
@@ -171,7 +171,7 @@ judging: <div class="judging-criterias">
         <h4>Judging Phases</h4>
         <p><strong><span>Phase 1 - Initial compliance check</span></strong></p>
         <p><span>Criteria \#0</span></p>
-        <p><strong><span>Objective:</span></strong><span> Initial assessment on evaluation criteria #0 items</span></p>
+        <p><strong><span>Objective:</span></strong><span> Initial assessment on evaluation criteria /#0 items</span></p>
         <p><strong>Evaluation Process</strong></p>
 
         <p>● During the last day of each codeathon event, before the code freeze submission deadline, judges will review the progress of the teams towards meeting the criteria requirements of each respective contest. Judges will complete this initial review by interacting with participants. Judges will ask two questions to each participant. Judges will take notes on the progress of each participant at this stage during this initial assessment.</p>
