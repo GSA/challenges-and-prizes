@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: gsa/challenges-and-prizes
-  branch: staging # Branch to update (optional; defaults to master)
+  branch: master # Branch to update (optional; defaults to master)
   base_url: https://federalistapp.18f.gov
   auth_endpoint: external/auth/github
   preview_context: federalist/build
