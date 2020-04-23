@@ -20,7 +20,7 @@ type-of-challenge:
   - Technology demonstration and hardware
   - Scientific
 submission-start: 2020/04/02 02:00 PM
-submission-end: 2020/04/23 02:00 PM
+submission-end: 2020/05/07 02:00 PM
 fiscal-year: FY20, FY21
 legal-authority: Agency specific prize authority
 challenge-manager: Marissa Wagler
@@ -140,7 +140,10 @@ description: >-
   The cover sheet will NOT be included in the page count for each volume.
 
 
-  **Phase I** **Initial submission of White Paper Concept Due:** 04/23/2020 02:00 PM ET
+  **Phase I** **Initial submission of White Paper Concept Due*:** 05/07/2020 02:00 PM ET
+
+
+  \*The submission deadline for White Paper Concepts has been extended by fourteen (14) Calendar Days to 05/07/2020. Participants that have already submitted solutions prior to the announcement of this extension can submit revisions to their White Paper Concepts to the Challenge Manager prior to the revised closing date.
 
 
   **Timeline:**
@@ -152,7 +155,7 @@ description: >-
   Phase I Virtual Presentation of White Paper Concept.
 
 
-  * Initial submission of White Paper Concept – 21 Calendar Days
+  * Initial submission of White Paper Concept – 35 Calendar Days
 
   * Evaluation by Judges and selection distributed– 14 Calendar Days
 
@@ -186,7 +189,7 @@ description: >-
   Phase IV Follow-on Award – To be determined
 
 
-  Total estimated time from Challenge.gov posting to Phase IV is 203 Calendar Days.
+  Total estimated time from Challenge.gov posting to Phase IV is 217 Calendar Days.
 
 
   **Winners Announced:**
@@ -522,25 +525,25 @@ how-to-enter: >-
   #### Submissions
 
 
-  Entries for Phase I must be submitted via email to Marissa Wagler at [marissa.wagler@navy.mil](<mailto: marissa.wagler@navy.mil>) by 02:00 Eastern Time on 23 April 2020 02:00 PM ET. Submissions received after the deadline may not be considered.
+  Entries for Phase I must be submitted via email to Marissa Wagler at [marissa.wagler@navy.mil](<mailto: marissa.wagler@navy.mil>) by 02:00 Eastern Time on 07 May 2020 02:00 PM ET. Submissions received after the deadline may not be considered.
 
 
-  Submissions shall reference both the challenge name and participant challenge.gov username in the subject line in the following format:
+  Submissions shall reference both the challenge name and participant name in the subject line in the following format:
 
 
-  *Lithium_Battery_Man_Portable_Hazard_Containment_Challenge_User123X Phase I Submission*
+  *Lithium_Battery_Man_Portable_Hazard_Containment_Challenge_FirstName_LastName Phase I Submission*
 
 
   Submissions including attachments shall use the following filename convention:
 
 
-  *Ch.gov user name (e.g., User123X_concept.pdf, User123X_schematic.pdf)*
+  *Example: CompanyName_concept.pdf, FirstName_LastName_schematic.pdf*
 
 
   #### Questions
 
 
-  For technical and challenge related questions, please send an email to [marissa.wagler@navy.mil](mailto:marissa.wagler@navy.mil) with “Lithium Battery Man Portable Hazard Containment Challenge_Questions” in the subject line. The deadline for prize challenge question submission is 2:00 PM Eastern Time on 16 April 2020 02:00 PM ET. After this date and time, the Government may not respond to questions received.
+  For technical and challenge related questions, please send an email to [marissa.wagler@navy.mil](mailto:marissa.wagler@navy.mil) with “Lithium Battery Man Portable Hazard Containment Challenge_Questions” in the subject line. The deadline for prize challenge question submission is 2:00 PM Eastern Time on 30 April 2020 02:00 PM ET. After this date and time, the Government may not respond to questions received.
 
 
   The Government will post all questions and responses on the Beta SAM website (<https://beta.sam.gov>).
@@ -615,7 +618,9 @@ f. A cover sheet should be include with the following information:
 
 The cover sheet will NOT be included in the page count for each volume.
 
-**Phase I** **Initial submission of White Paper Concept Due:** 04/23/2020 02:00 PM ET
+**Phase I** **Initial submission of White Paper Concept Due*:** 05/07/2020 02:00 PM ET
+
+\*The submission deadline for White Paper Concepts has been extended by fourteen (14) Calendar Days to 05/07/2020. Participants that have already submitted solutions prior to the announcement of this extension can submit revisions to their White Paper Concepts to the Challenge Manager prior to the revised closing date.
 
 **Timeline:**
 
@@ -623,7 +628,7 @@ The Government estimates the following timeline for the completion of the prize 
 
 Phase I Virtual Presentation of White Paper Concept.
 
-* Initial submission of White Paper Concept – 21 Calendar Days
+* Initial submission of White Paper Concept – 35 Calendar Days
 * Evaluation by Judges and selection distributed– 14 Calendar Days
 * Follow on submission of Virtual Presentation – 7 Calendar Days
 * Virtual Presentation – 7 Calendar Days
@@ -643,7 +648,7 @@ Phase III Technology Development Prototype
 
 Phase IV Follow-on Award – To be determined
 
-Total estimated time from Challenge.gov posting to Phase IV is 203 Calendar Days.
+Total estimated time from Challenge.gov posting to Phase IV is 217 Calendar Days.
 
 **Winners Announced:**
 
@@ -900,19 +905,19 @@ If multiple technologies of similar type or category are submitted, the review p
 
 #### Submissions
 
-Entries for Phase I must be submitted via email to Marissa Wagler at [marissa.wagler@navy.mil](<mailto: marissa.wagler@navy.mil>) by 02:00 Eastern Time on 23 April 2020 02:00 PM ET. Submissions received after the deadline may not be considered.
+Entries for Phase I must be submitted via email to Marissa Wagler at [marissa.wagler@navy.mil](<mailto: marissa.wagler@navy.mil>) by 02:00 Eastern Time on 07 May 2020 02:00 PM ET. Submissions received after the deadline may not be considered.
 
-Submissions shall reference both the challenge name and participant challenge.gov username in the subject line in the following format:
+Submissions shall reference both the challenge name and participant name in the subject line in the following format:
 
-*Lithium_Battery_Man_Portable_Hazard_Containment_Challenge_User123X Phase I Submission*
+*Lithium_Battery_Man_Portable_Hazard_Containment_Challenge_FirstName_LastName Phase I Submission*
 
 Submissions including attachments shall use the following filename convention:
 
-*Ch.gov user name (e.g., User123X_concept.pdf, User123X_schematic.pdf)*
+*Example: CompanyName_concept.pdf, FirstName_LastName_schematic.pdf*
 
 #### Questions
 
-For technical and challenge related questions, please send an email to [marissa.wagler@navy.mil](mailto:marissa.wagler@navy.mil) with “Lithium Battery Man Portable Hazard Containment Challenge_Questions” in the subject line. The deadline for prize challenge question submission is 2:00 PM Eastern Time on 16 April 2020 02:00 PM ET. After this date and time, the Government may not respond to questions received.
+For technical and challenge related questions, please send an email to [marissa.wagler@navy.mil](mailto:marissa.wagler@navy.mil) with “Lithium Battery Man Portable Hazard Containment Challenge_Questions” in the subject line. The deadline for prize challenge question submission is 2:00 PM Eastern Time on 30 April 2020 02:00 PM ET. After this date and time, the Government may not respond to questions received.
 
 The Government will post all questions and responses on the Beta SAM website (<https://beta.sam.gov>).
 
