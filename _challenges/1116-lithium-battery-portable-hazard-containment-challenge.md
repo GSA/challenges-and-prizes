@@ -20,7 +20,7 @@ type-of-challenge:
   - Technology demonstration and hardware
   - Scientific
 submission-start: 2020/04/02 02:00 PM
-submission-end: 2020/04/23 02:00 PM
+submission-end: 2020/05/07 02:00 PM
 fiscal-year: FY20, FY21
 legal-authority: Agency specific prize authority
 challenge-manager: Marissa Wagler
@@ -140,7 +140,10 @@ description: >-
   The cover sheet will NOT be included in the page count for each volume.
 
 
-  **Phase I** **Initial submission of White Paper Concept Due:** 04/23/2020 02:00 PM ET
+  **Phase I** **Initial submission of White Paper Concept Due*:** 05/07/2020 02:00 PM ET
+
+
+  \*The submission deadline for White Paper Concepts has been extended by fourteen (14) Calendar Days to 05/07/2020. Participants that have already submitted solutions prior to the announcement of this extension can submit revisions to their White Paper Concepts to the Challenge Manager prior to the revised closing date.
 
 
   **Timeline:**
@@ -152,7 +155,7 @@ description: >-
   Phase I Virtual Presentation of White Paper Concept.
 
 
-  * Initial submission of White Paper Concept – 21 Calendar Days
+  * Initial submission of White Paper Concept – 35 Calendar Days
 
   * Evaluation by Judges and selection distributed– 14 Calendar Days
 
@@ -186,7 +189,7 @@ description: >-
   Phase IV Follow-on Award – To be determined
 
 
-  Total estimated time from Challenge.gov posting to Phase IV is 203 Calendar Days.
+  Total estimated time from Challenge.gov posting to Phase IV is 217 Calendar Days.
 
 
   **Winners Announced:**
@@ -207,19 +210,19 @@ description: >-
   Official responses to questions that have come in:
 
 
-  1. While carefully reading the threshold parameters, we came across “Physical dimension must have a single side that is less than 36” in circumference and 11.5” in radius”. It looks like that you are assuming the cylindrical object to hold four batteries and not rectangular. However, in order to have 36” circumference, is the 11.5” is radius or diameter. If its diameter, the calculations for circumference C (36”) = 2PI r = 2x3.14x5.75 would make sense. Please clarify.
+  Question: While carefully reading the threshold parameters, we came across “Physical dimension must have a single side that is less than 36” in circumference and 11.5” in radius”. It looks like that you are assuming the cylindrical object to hold four batteries and not rectangular. However, in order to have 36” circumference, is the 11.5” is radius or diameter. If its diameter, the calculations for circumference C (36”) = 2PI r = 2x3.14x5.75 would make sense. Please clarify.
 
 
-  *Answer: The requirement is that one orientation of the containment system must have a maximum diameter of 23”. This containment system does not have to have a side that is round.*
+  * *Answer: The requirement is that one orientation of the containment system must have a maximum diameter of 23”. This containment system does not have to have a side that is round.*
 
 
-  2.Please clarify the dimension requirements and in particular this: “Physical dimension must have a single side that is less than 36” in circumference and 11.5” in radius”. For a rectangular enclosure of dimensions 14.5” x 13.5” x 5.5”, how would you calculate the sides circumference and radius for such enclosure? Would it meet your requirements?
+  Question: Please clarify the dimension requirements and in particular this: “Physical dimension must have a single side that is less than 36” in circumference and 11.5” in radius”. For a rectangular enclosure of dimensions 14.5” x 13.5” x 5.5”, how would you calculate the sides circumference and radius for such enclosure? Would it meet your requirements?
 
 
-  *Answer: The requirement is that one orientation of the containment system must have a maximum diameter of 23”. This containment system does not have to have a side that is round.*
+  * *Answer: The requirement is that one orientation of the containment system must have a maximum diameter of 23”. This containment system does not have to have a side that is round.*
 
 
-  3.Are the cells used in the BB-2590 Bren-Tronics BT-70791CG military battery cylindrical cells (i.e. 18650 or similar dimension) ; or are they polymer flat cells?
+  Question: Are the cells used in the BB-2590 Bren-Tronics BT-70791CG military battery cylindrical cells (i.e. 18650 or similar dimension) ; or are they polymer flat cells?
 
 
   a. If they are cylindrical cells, how many cells comprise the battery? What is the composition of the cells and at what percentages? (i.e. Li-Cobalt, Li-Nickel, etc.)
@@ -228,49 +231,58 @@ description: >-
   b. If they are polymer flat cells, how many cells comprise the battery? What is the composition of the cells and at what percentages?
 
 
-  *Answer: The BB-2590 batteries use the cylindrical format 18650 Li-ion cells configured as two series sets, each with 3 parallel strings of 4 cells in series, for 24 cells total in each BB-2590.*
+  * *Answer: The BB-2590 batteries use the cylindrical format 18650 Li-ion cells configured as two series sets, each with 3 parallel strings of 4 cells in series, for 24 cells total in each BB-2590.*
+
+    *a. For the answers, you may refer to the Safety Data Sheet (SDS) provided by the BB-2590 manufacturer for details on chemistry and composition of the cells used in the battery. As for cell count, you can obtain the number of cells based on the cell chemistry characteristics, case dimensions, battery overall capacity and voltage.*
+
+    *b. Not applicable.*
+
+  Question: Can a company that is currently producing similar products and selling them modify a product to specifications set forth, or does the USN desire a prototype developed strictly for their use?
 
 
-  *a. For the answers, you may refer to the Safety Data Sheet (SDS) provided by the BB-2590 manufacturer for details on chemistry and composition of the cells used in the battery. As for cell count, you can obtain the number of cells based on the cell chemistry characteristics, case dimensions, battery overall capacity and voltage.*
+  * *Answer: As stated in the challenge, either a BB-2590 Bren-Tronics BT-70791CG or similar approximately 300 Wh Li-ion battery may be used. If you produce a battery that can be proposed for the challenge as “similar” to the BB-2590 (meaning sufficiently close in Wh, voltage range, packaging and dimensions), that would be acceptable. You may submit details of your proposed substitute and we can give you a more definitive answer as to the suitability for the purposes of the challenge.*
 
 
-  *b. Not applicable.*
+  Question: What type of battery case is used for these batteries? E.g., metal and type of metal, plastic and type of plastic as well as thickness of plastic, other case materials?
 
 
-  *4.* Can a company that is currently producing similar products and selling them modify a product to specifications set forth, or does the USN desire a prototype developed strictly for their use?
+  * *Answer: For details on the construction of the BB-2590 type batteries referenced in the challenge, please refer to the “military performance specification” document that specifies attributes of this type of battery. You may download this document, MIL-PRF-32052/1, from the web. The case is plastic, with an approximate thickness of 1/16th inch. Other case materials are listed generically in the manufacturers Safety Data Sheet document.*
 
 
-  *Answer: As stated in the challenge, either a BB-2590 Bren-Tronics BT-70791CG or similar approximately 300 Wh Li-ion battery may be used. If you produce a battery that can be proposed for the challenge as “similar” to the BB-2590 (meaning sufficiently close in Wh, voltage range, packaging and dimensions), that would be acceptable. You may submit details of your proposed substitute and we can give you a more definitive answer as to the suitability for the purposes of the challenge.*
+  Question: Are there vents or other pressure relief mechanisms on the battery cases?
 
 
-  *5.* What type of battery case is used for these batteries? E.g., metal and type of metal, plastic and type of plastic as well as thickness of plastic, other case materials?
+  * *Answer: For details on the construction of the BB-2590 type batteries (including the case vent) referenced in the challenge, please refer to the “military performance specification” document that specifies attributes of this type of battery. You may download this document, MIL-PRF-32052/1, from the web.*
 
 
-  *Answer: For details on the construction of the BB-2590 type batteries referenced in the challenge, please refer to the “military performance specification” document that specifies attributes of this type of battery. You may download this document, MIL-PRF-32052/1, from the web. The case is plastic, with an approximate thickness of 1/16th inch. Other case materials are listed generically in the manufacturers Safety Data Sheet document.*
+  Question: What is the Wh rating of the individual cells in these batteries at 100% State of Charge (SOC)?
 
 
-  *6.* Are there vents or other pressure relief mechanisms on the battery cases?
+  * *Answer: For the Wh rating of the individual cells, you may refer to the Safety Data Sheet (SDS) provided by the BB-2590 manufacturer for details on chemistry and composition of the cells used in the battery you chose. It is possible to estimate the cell-level Wh rating for the specific cells being used in the BB-2590 you are considering using. The Wh estimate can be calculated from the number of cells in the battery (24 total for BB-2590, configured as two series sets, each with 3 parallel strings of 4 cells in series), the cell chemistry characteristics, and, battery overall capacity and voltage.*
 
 
-  *Answer: For details on the construction of the BB-2590 type batteries (including the case vent) referenced in the challenge, please refer to the “military performance specification” document that specifies attributes of this type of battery. You may download this document, MIL-PRF-32052/1, from the web.*
+  Question: Will NSWC assist us in sourcing the military versions of these batteries from the manufacturer(s) and authorized distributors?
 
 
-  *7.* What is the Wh rating of the individual cells in these batteries at 100% State of Charge (SOC)?
+  * *Answer: Given the time and resources it would take to acquire and distribute these batteries and the process involved with re-selling or otherwise supplying “government furnished materials,” NSWC Crane will not be able to provide batteries to participants. The BB-2590 type battery referred to in the challenge can be readily purchased from multiple sources.*
 
 
-  *Answer: For the Wh rating of the individual cells, you may refer to the Safety Data Sheet (SDS) provided by the BB-2590 manufacturer for details on chemistry and composition of the cells used in the battery you chose. It is possible to estimate the cell-level Wh rating for the specific cells being used in the BB-2590 you are considering using. The Wh estimate can be calculated from the number of cells in the battery (24 total for BB-2590, configured as two series sets, each with 3 parallel strings of 4 cells in series), the cell chemistry characteristics, and, battery overall capacity and voltage.*
+  Question: Alternatively, would NSWC be willing to purchase the military versions of these batteries in bulk for participants in the challenge and sell them to participants at cost?
 
 
-  *8.* Will NSWC assist us in sourcing the military versions of these batteries from the manufacturer(s) and authorized distributors?
+  * *Answer: Given the time and resources it would take to acquire and distribute these batteries and the process involved with re-selling or otherwise supplying “government furnished materials,” NSWC Crane will not be able to provide batteries to participants. The BB-2590 type battery referred to in the challenge can be readily purchased from multiple sources.*
 
 
-  *Answer: Given the time and resources it would take to acquire and distribute these batteries and the process involved with re-selling or otherwise supplying “government furnished materials,” NSWC Crane will not be able to provide batteries to participants. The BB-2590 type battery referred to in the challenge can be readily purchased from multiple sources.*
+  Question: We currently produce a containment system that has been tested to similar standards. Can we modify that product for the challenge or does the USN want a completely new product?
 
 
-  *9.* Alternatively, would NSWC be willing to purchase the military versions of these batteries in bulk for participants in the challenge and sell them to participants at cost?
+  * *Answer: Yes, you can modify your current containment product to meet the goals of the challenge. Note that the judging criteria rewards innovation in proposed solutions over existing products. Modifications to existing products would still be regarded positively if the innovation substantially enhanced the existing product's performance.*
 
 
-  *Answer: Given the time and resources it would take to acquire and distribute these batteries and the process involved with re-selling or otherwise supplying “government furnished materials,” NSWC Crane will not be able to provide batteries to participants. The BB-2590 type battery referred to in the challenge can be readily purchased from multiple sources.*
+  Question: For the Proof of Concept testing at what state of charge (SOC) is required of the battery during testing?
+
+
+  * *Answer: All batteries are required to be at 100% SOC.*
 prizes: >-
   **Total Cash Prize Pool**
 
@@ -522,25 +534,25 @@ how-to-enter: >-
   #### Submissions
 
 
-  Entries for Phase I must be submitted via email to Marissa Wagler at [marissa.wagler@navy.mil](<mailto: marissa.wagler@navy.mil>) by 02:00 Eastern Time on 23 April 2020 02:00 PM ET. Submissions received after the deadline may not be considered.
+  Entries for Phase I must be submitted via email to Marissa Wagler at [marissa.wagler@navy.mil](<mailto: marissa.wagler@navy.mil>) by 02:00 Eastern Time on 07 May 2020 02:00 PM ET. Submissions received after the deadline may not be considered.
 
 
-  Submissions shall reference both the challenge name and participant challenge.gov username in the subject line in the following format:
+  Submissions shall reference both the challenge name and participant name in the subject line in the following format:
 
 
-  *Lithium_Battery_Man_Portable_Hazard_Containment_Challenge_User123X Phase I Submission*
+  *Lithium_Battery_Man_Portable_Hazard_Containment_Challenge_FirstName_LastName Phase I Submission*
 
 
   Submissions including attachments shall use the following filename convention:
 
 
-  *Ch.gov user name (e.g., User123X_concept.pdf, User123X_schematic.pdf)*
+  *Example: CompanyName_concept.pdf, FirstName_LastName_schematic.pdf*
 
 
   #### Questions
 
 
-  For technical and challenge related questions, please send an email to [marissa.wagler@navy.mil](mailto:marissa.wagler@navy.mil) with “Lithium Battery Man Portable Hazard Containment Challenge_Questions” in the subject line. The deadline for prize challenge question submission is 2:00 PM Eastern Time on 16 April 2020 02:00 PM ET. After this date and time, the Government may not respond to questions received.
+  For technical and challenge related questions, please send an email to [marissa.wagler@navy.mil](mailto:marissa.wagler@navy.mil) with “Lithium Battery Man Portable Hazard Containment Challenge_Questions” in the subject line. The deadline for prize challenge question submission is 2:00 PM Eastern Time on 30 April 2020 02:00 PM ET. After this date and time, the Government may not respond to questions received.
 
 
   The Government will post all questions and responses on the Beta SAM website (<https://beta.sam.gov>).
@@ -615,7 +627,9 @@ f. A cover sheet should be include with the following information:
 
 The cover sheet will NOT be included in the page count for each volume.
 
-**Phase I** **Initial submission of White Paper Concept Due:** 04/23/2020 02:00 PM ET
+**Phase I** **Initial submission of White Paper Concept Due*:** 05/07/2020 02:00 PM ET
+
+\*The submission deadline for White Paper Concepts has been extended by fourteen (14) Calendar Days to 05/07/2020. Participants that have already submitted solutions prior to the announcement of this extension can submit revisions to their White Paper Concepts to the Challenge Manager prior to the revised closing date.
 
 **Timeline:**
 
@@ -623,7 +637,7 @@ The Government estimates the following timeline for the completion of the prize 
 
 Phase I Virtual Presentation of White Paper Concept.
 
-* Initial submission of White Paper Concept – 21 Calendar Days
+* Initial submission of White Paper Concept – 35 Calendar Days
 * Evaluation by Judges and selection distributed– 14 Calendar Days
 * Follow on submission of Virtual Presentation – 7 Calendar Days
 * Virtual Presentation – 7 Calendar Days
@@ -643,7 +657,7 @@ Phase III Technology Development Prototype
 
 Phase IV Follow-on Award – To be determined
 
-Total estimated time from Challenge.gov posting to Phase IV is 203 Calendar Days.
+Total estimated time from Challenge.gov posting to Phase IV is 217 Calendar Days.
 
 **Winners Announced:**
 
@@ -656,14 +670,6 @@ The Prize Challenge winner(s) will be notified via email by the challenge manage
 #### Questions & Answers
 
 Official responses to questions that have come in:
-
-Question: We currently produce a containment system that has been tested to similar standards. Can we modify that product for the challenge or does the USN want a completely new product?
-
-* *Answer: Yes, you can modify your current containment product to meet the goals of the challenge. Note that the judging criteria rewards innovation in proposed solutions over existing products. Modifications to existing products would still be regarded positively if the innovation substantially enhanced the existing product's performance.*
-
-Question: For the Proof of Concept testing at what state of charge (SOC) is required of the battery during testing?
-
-* *Answer: All batteries are required to be at 100% SOC.*
 
 Question: While carefully reading the threshold parameters, we came across “Physical dimension must have a single side that is less than 36” in circumference and 11.5” in radius”. It looks like that you are assuming the cylindrical object to hold four batteries and not rectangular. However, in order to have 36” circumference, is the 11.5” is radius or diameter. If its diameter, the calculations for circumference C (36”) = 2PI r = 2x3.14x5.75 would make sense. Please clarify.
 
@@ -708,6 +714,14 @@ Question: Will NSWC assist us in sourcing the military versions of these batteri
 Question: Alternatively, would NSWC be willing to purchase the military versions of these batteries in bulk for participants in the challenge and sell them to participants at cost?
 
 * *Answer: Given the time and resources it would take to acquire and distribute these batteries and the process involved with re-selling or otherwise supplying “government furnished materials,” NSWC Crane will not be able to provide batteries to participants. The BB-2590 type battery referred to in the challenge can be readily purchased from multiple sources.*
+
+Question: We currently produce a containment system that has been tested to similar standards. Can we modify that product for the challenge or does the USN want a completely new product?
+
+* *Answer: Yes, you can modify your current containment product to meet the goals of the challenge. Note that the judging criteria rewards innovation in proposed solutions over existing products. Modifications to existing products would still be regarded positively if the innovation substantially enhanced the existing product's performance.*
+
+Question: For the Proof of Concept testing at what state of charge (SOC) is required of the battery during testing?
+
+* *Answer: All batteries are required to be at 100% SOC.*
 
 ### Prizes
 
@@ -900,19 +914,19 @@ If multiple technologies of similar type or category are submitted, the review p
 
 #### Submissions
 
-Entries for Phase I must be submitted via email to Marissa Wagler at [marissa.wagler@navy.mil](<mailto: marissa.wagler@navy.mil>) by 02:00 Eastern Time on 23 April 2020 02:00 PM ET. Submissions received after the deadline may not be considered.
+Entries for Phase I must be submitted via email to Marissa Wagler at [marissa.wagler@navy.mil](<mailto: marissa.wagler@navy.mil>) by 02:00 Eastern Time on 07 May 2020 02:00 PM ET. Submissions received after the deadline may not be considered.
 
-Submissions shall reference both the challenge name and participant challenge.gov username in the subject line in the following format:
+Submissions shall reference both the challenge name and participant name in the subject line in the following format:
 
-*Lithium_Battery_Man_Portable_Hazard_Containment_Challenge_User123X Phase I Submission*
+*Lithium_Battery_Man_Portable_Hazard_Containment_Challenge_FirstName_LastName Phase I Submission*
 
 Submissions including attachments shall use the following filename convention:
 
-*Ch.gov user name (e.g., User123X_concept.pdf, User123X_schematic.pdf)*
+*Example: CompanyName_concept.pdf, FirstName_LastName_schematic.pdf*
 
 #### Questions
 
-For technical and challenge related questions, please send an email to [marissa.wagler@navy.mil](mailto:marissa.wagler@navy.mil) with “Lithium Battery Man Portable Hazard Containment Challenge_Questions” in the subject line. The deadline for prize challenge question submission is 2:00 PM Eastern Time on 16 April 2020 02:00 PM ET. After this date and time, the Government may not respond to questions received.
+For technical and challenge related questions, please send an email to [marissa.wagler@navy.mil](mailto:marissa.wagler@navy.mil) with “Lithium Battery Man Portable Hazard Containment Challenge_Questions” in the subject line. The deadline for prize challenge question submission is 2:00 PM Eastern Time on 30 April 2020 02:00 PM ET. After this date and time, the Government may not respond to questions received.
 
 The Government will post all questions and responses on the Beta SAM website (<https://beta.sam.gov>).
 
