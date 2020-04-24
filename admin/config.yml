@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: gsa/challenges-and-prizes
-  branch: staging # Branch to update (optional; defaults to master)
+  branch: master # Branch to update (optional; defaults to master)
   base_url: https://federalistapp.18f.gov
   auth_endpoint: external/auth/github
   preview_context: federalist/build
@@ -43,12 +43,12 @@ collections:
       - { label: 'Challenge Manager Email', name: 'challenge-manager-email', widget: 'string' }
       - { label: 'Challenge Point of Contact', name: 'point-of-contact', widget: 'string', required: false }
       - { label: 'Body Content Uploads', name: 'body-content-uploads', widget: 'file', required: false }
-      - { label: "Body Content", name: "body", widget: "markdown", required: false }
-      - { label: '(DO NOT USE)Description', name: 'description', widget: 'markdown', required: false }
-      - { label: '(DO NOT USE)Prizes', name: 'prizes', widget: 'markdown', required: false }
-      - { label: '(DO NOT USE)Rules', name: 'rules', widget: 'markdown', required: false }
-      - { label: '(DO NOT USE)Judging', name: 'judging', widget: 'markdown', required: false }
-      - { label: '(DO NOT USE)How To Enter', name: 'how-to-enter', widget: 'markdown', required: false }
+      - { label: "Body Content (Will Display in Preview)", name: "body", widget: "markdown", required: false }
+      - { label: 'Description (Copy from Body)', name: 'description', widget: 'markdown', required: false }
+      - { label: 'Prizes (Copy from Body)', name: 'prizes', widget: 'markdown', required: false }
+      - { label: 'Rules (Copy from Body)', name: 'rules', widget: 'markdown', required: false }
+      - { label: 'Judging (Copy from Body)', name: 'judging', widget: 'markdown', required: false }
+      - { label: 'How To Enter (Copy from Body)', name: 'how-to-enter', widget: 'markdown', required: false }
 
   - name: 'archived-challenges'
     label: 'Archived Challenges'

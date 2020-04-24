@@ -14,12 +14,12 @@ partners-non-federal:
 external-url: https://innovatedefense.net/usmc/ground-sensor
 total-prize-offered-cash:
 type-of-challenge: Ideas
-submission-start: 02/07/2020 12:00 AM ET
-submission-end: 03/15/2020 11:59 PM ET
+submission-start: 02/07/2020 12:00 AM
+submission-end: 03/15/2020 11:59 PM
 submission-link:
 prize: true
 fiscal-year: FY20
-legal-authority: Unspecified
+legal-authority: Other
 challenge-manager: Chris Levitt
 challenge-manager-email: clevitt@nsin.us
 ---

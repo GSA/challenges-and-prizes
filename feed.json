@@ -31,7 +31,7 @@ permalink: /feed-open.json
             "point-of-contact": "{{ item.point-of-contact }}",
             "submission-start": "{{ item.submission-start }}",
             "submission-end": "{{ item.submission-end }}",
-            "description": "{{ item.description | strip_html }}",
+            "description": "{{ item.description }}",
             "prizes": "{{ item.prizes }}",
             "rules": "{{ item.rules }}",
             "judging": "{{ item.judging }}",

@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/base-security-and-defense/
 challenge-id: 1110
-status: open
+status: closed
 sidenav: false
 card-image: /assets/images/cards/base-security.png
 agency-logo: dod_seal.jpg
@@ -14,8 +14,8 @@ partners-non-federal:
 external-url: https://afwerxchallenge.com/botf
 total-prize-offered-cash:
 type-of-challenge: Technology demonstration and hardware
-submission-start: 2020/03/10 09:00 AM
-submission-end: 2020/04/14 11:59 PM
+submission-start: 03/10/2020 09:00 AM
+submission-end: 04/14/2020 11:59 PM
 submission-link:
 prizes: true
 fiscal-year: FY20
