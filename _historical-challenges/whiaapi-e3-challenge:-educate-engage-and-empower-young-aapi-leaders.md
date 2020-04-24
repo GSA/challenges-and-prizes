@@ -36,336 +36,336 @@ groupName: Department of Education
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.whitehouse.gov/blog/2014/09/18/whiaapi-announces-its-2014-2015-e3-ambassadors
-    submission-end: '08/27/2014 11:59 PM'
-    why-use-prizes: ''
-    submission-start: 07/17/2014 12:00 AM
-    fiscal-year: FY 2014
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '0'
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: America COMPETES
-    total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '192'
-    solicitation-of-submissions: ''
-    total-submission-received: ''
-    total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: Trip to DC and congratulatory letter
-    partner-agencies-federal: '0'
-    judging-end-date: ''
-    solicitation-methods: ''
-    advancing-the-agency-mission: ''
-    rules: 'By submitting an application to this Challenge, the applicant agrees to
-      adhere to the application guidelines below.    &nbsp;    <span style="text-decoration:
-      underline;"><b>Guidelines</b></span>  <span style="text-decoration: underline;"><b>Encouraged
-      Participants</b></span>    &nbsp;    &nbsp;    • WHIAAPI invites individuals
-      between the years of 18 to 30 years old at the time of application, and who
-      reside within the continental U.S. or territories of the U.S., to apply.  •
-      No more than 15 applicants will be selected per federal region (see Regional
-      Map).  • Federal employees are ineligible to apply.    <span style="text-decoration:
-      underline;">Where to submit:</span> Please submit your application via  • Email
-      to whitehouseaapi@ed.gov with subject line “E3! Program Application” or  • Hard
-      copy to the following address:  White House Initiative on Asian Americans and
-      Pacific Islanders  RE: E3! Program Application  550 12th Street SW  Washington,
-      DC 20202  Note: We are looking for applicants who are succinct and able to concisely
-      outline their ideas. Given the time constraints for the E3! Ambassadors selection
-      process, we may not be able to consider any application that provides responses
-      that exceed 750 words.    If you use email to submit your application please
-      include your responses to the questions (later in this notice) as an attachment.
-      However, if you include your responses in the body of the email message, we
-      will still consider them if the email arrives timely. If you send your application
-      via some other method, we will not be able to consider your application if it
-      is received by WHIAAPI after August 17, 2014.    Individuals with disabilities
-      can obtain a copy of this notice in an accessible format (e.g., braille, large
-      print, audiotape, or compact disc) by contacting the WHIAAPI office at (202)
-      245-6021. If you use a telecommunications device for the deaf (TDD) or a text
-      telephone (TTY), and need other assistance please call the Federal Relay Service
-      (FRS), toll free, at 1-800-877-8339, which can connect you with WHIAAPI.    <span
-      style="text-decoration: underline;">Proposal Acceptance Period:</span> Proposals
-      will be accepted beginning on July 17, 2014 through August 27, 2014 (“Proposal
-      Acceptance Period”). All entries must be received by the end of the Proposal
-      Acceptance Period.    • <span style="text-decoration: underline;">Encouraged
-      Applicants:</span> WHIAAPI invites individuals between the years of 18 to 30
-      years old at the time of application, and who reside within the continental
-      U.S. or territories of the U.S., to apply.  • No more than 15 applicants will
-      be selected per federal region (see Regional Map).  • Federal employees are
-      ineligible to apply.    <span style="text-decoration: underline;">Number of
-      Entries:</span> One entry may be submitted per applicant.    <span style="text-decoration:
-      underline;">Finalist Selection and Notification:</span> Applications will be
-      reviewed by a panel of reviewers, consisting of Initiative staff. The decisions
-      of the panel on all matters relating to the Challenge are final. The Initiative
-      will not consider any application that does not adhere to these guidelines or
-      proposes a plan that would result in a violation of Federal law, regulation,
-      or the policies of the U.S. Department of Education (ED) or the Initiative.
-      Selected applicants will be notified via email.    <span style="text-decoration:
-      underline;">Copyright/Original Work:</span> Each applicant represents and warrants
-      that he or she is the sole author and owner of the application submission for
-      the Challenge (Submission); that the Submission is wholly original with the
-      applicant (or is an improved version of an existing application that the applicant
-      has sufficient rights to use and to authorize others (including ED) to use);
-      and that the Submission does not infringe any copyright or any other rights
-      of any third party of which the applicant is aware. Each applicant also warrants
-      that the application is free of malware.    <span style="text-decoration: underline;">Intellectual
-      Property Rights:</span> By providing a Submission to ED, each applicant grants
-      to ED an irrevocable, paid-up, royalty-free, non-exclusive worldwide license
-      to use, copy, distribute to the public, create derivative works from, link to,
-      and display publicly (on the Internet or otherwise) the Submission (including
-      the associated application) for a period of 1 year starting on the date of the
-      announcement of the accepted applicants, and for such additional period as may
-      be agreed to by ED and the applicant. All applicants will retain all other intellectual
-      property rights over their Submissions. Each accepted applicant guarantees and
-      agrees that the application or tool will be provided to the public free of charge
-      for a period of one year starting on the date of the announcement of accepted
-      applicants. Applicant also agrees to allow ED to use his or her name and other
-      submitted information (i.e., address) in any news report, media release, or
-      documentation issued by ED (or its designee) related to this Challenge.    <span
-      style="text-decoration: underline;">Limitation of Liability:</span> By submitting
-      an entry for the Challenge, all applicants agree to, and thereby do, release,
-      discharge, and hold harmless the Government and its employees, agents, contractors,
-      and representatives (except in the case of willful misconduct) from any claims,
-      losses, and damages arising out of their participation in this Challenge or
-      any Challenge-related activities and the acceptance and use, misuse, or possession
-      of any prize awarded hereunder, including claims for injury, death, damage,
-      or loss of property, revenue or profits, whether direct, indirect, or consequential,
-      arising from their participation in the Challenge, whether the injury, death,
-      damage or loss arises through negligence, or otherwise. Participants will not
-      be required to waive claims against the Government that arise from the unauthorized
-      use or disclosure by the agency of the intellectual property, trade secrets,
-      or confidential information of the applicant. The applicant shall be liable
-      for, and shall indemnify and hold harmless the Government against, all actions
-      or claims for loss of or damage to property (including any damage that may result
-      from a virus or malware to the government’s computer systems or those of the
-      end-users of the software and/or applications), resulting from the fault, negligence,
-      or wrongful act or omission of the applicant.    <span style="text-decoration:
-      underline;">Privacy Policy:</span> Participation in the Challenge constitutes
-      the applicant’s consent to the use by ED (and its agents and contractors) of
-      the applicant’s name, likeness, photograph, voice, opinions, and contact information
-      (i.e., email, phone number, and address) for communication purposes on matters
-      regarding the Challenge in any media, worldwide, without payment or consideration.
-      Participation in the Challenge also constitutes the applicant’s consent to permit
-      ED and its agents and contractors to share any application information of an
-      applicant who is selected to be a E3! Ambassador with WHIAAPI staff, members
-      of the President’s Advisory Commission on AAPIs and Regional Interagency Working
-      Group, as well as other Administration officials for purposes related to administering
-      the Challenge, including the award of prizes. Individually identifiable information
-      provided to ED by submitting an application to this Challenge will be used only
-      to communicate on matters regarding the applicant’s submission or administering
-      or implementing the Challenge. Individually identifiable information provided
-      to ED by submitting an application to this Challenge will not be used for any
-      purpose that is unrelated to the submission and/or administering or implementing
-      the Challenge, unless such a use is required by law.'
-    submission-start-date-1: ''
-    hide-challenge-timeline: 'No'
-    judging-start-date: ''
-    winners-announced-date: ''
-    cash-prizes-and-non-cash-prize-awards: ''
-    campaign-owner-email: ''
-    solution-type: Ideas
-    partner-agencies-non-federal: ''
-    original-post-id: '5932'
-    total-number-of-winners-awarded: ''
-    hosting: Hosted on this platform
-    hide-challenge-funnel: 'Yes'
-    type-of-challenge: Ideas
-    participation-requirements: ''
-    number-of-phases: ''
-    how-to-enter: "To ensure that your application is considered, please submit responses
-      to the following by August 27, 2014:\r\n\r\n<b><i>Applicant Information:</i>\r\n</b>\r\n•
-      Name\r\n• Email\r\n• Phone number\r\n• Address indicating whether it’s your
-      school, work, or home address.\r\n\r\n<i><b> Essay Question:</b></i>\r\n\r\nPlease
-      craft an original, innovative plan to increase outreach and awareness within
-      your campus or community around the following four issue areas: education, mental
-      health, pathways to public service, and Deferred Action for Childhood Arrivals
-      (DACA). Proposals should:\r\n• Mention why you are interested in this Challenge
-      and what about your background makes you particularly qualified to address the
-      aforementioned issue areas.\r\n• Include measurable goals and benchmarks.\r\n•
-      Demonstrate the use of marketing techniques such as print/social media, etc.\r\n•
-      Provide a foundation upon which future E3! Ambassadors can build.\r\n\r\nNote:
-      We are looking for applicants who are succinct and able to concisely outline
-      their ideas. Given the time constraints for the E3! Ambassadors selection process,
-      we may not be able to consider any application that provides responses that
-      exceed 750 words.\r\n\r\n<span style=\"font-size: medium;\"><b><span style=\"text-decoration:
-      underline;\">Submissions</span></b></span>\r\n\r\n• Email attachment to WhiteHouseAAPI@ed.gov
-      with subject line “E3! Program Application” <b>OR</b>\r\n• Mail a hard copy
-      to the following address:\r\n\r\nWhite House Initiative on Asian Americans and
-      Pacific Islanders\r\nRE: E3! Program Application\r\n550 12th Street SW\r\nWashington,
-      DC 20202"
-    partnerships: ''
-  groupAttributes:
-  - judging-criteria-description-0: ''
-    judging-criteria-percentage-0: ''
-    judging-criteria-0: ''
-  - judging-criteria-description-1: ''
-    judging-criteria-percentage-1: ''
-    judging-criteria-1: ''
-  - judging-criteria-description-10: ''
-    judging-criteria-percentage-10: ''
-    judging-criteria-10: ''
-  - judging-criteria-description-11: ''
-    judging-criteria-percentage-11: ''
-    judging-criteria-11: ''
-  - judging-criteria-description-12: ''
-    judging-criteria-12: ''
-    judging-criteria-percentage-12: ''
-  - judging-criteria-description-13: ''
-    judging-criteria-13: ''
-    judging-criteria-percentage-13: ''
-  - judging-criteria-percentage-14: ''
-    judging-criteria-14: ''
-    judging-criteria-description-14: ''
-  - judging-criteria-percentage-15: ''
-    judging-criteria-15: ''
-    judging-criteria-description-15: ''
-  - judging-criteria-16: ''
-    judging-criteria-percentage-16: ''
-    judging-criteria-description-16: ''
-  - judging-criteria-17: ''
-    judging-criteria-percentage-17: ''
-    judging-criteria-description-17: ''
-  - judging-criteria-description-18: ''
-    judging-criteria-percentage-18: ''
-    judging-criteria-18: ''
-  - judging-criteria-description-19: ''
-    judging-criteria-percentage-19: ''
-    judging-criteria-19: ''
-  - judging-criteria-description-2: ''
-    judging-criteria-2: ''
-    judging-criteria-percentage-2: ''
-  - judging-criteria-description-3: ''
-    judging-criteria-3: ''
-    judging-criteria-percentage-3: ''
-  - judging-criteria-percentage-4: ''
-    judging-criteria-4: ''
-    judging-criteria-description-4: ''
-  - judging-criteria-percentage-5: ''
-    judging-criteria-5: ''
-    judging-criteria-description-5: ''
-  - judging-criteria-6: ''
-    judging-criteria-percentage-6: ''
-    judging-criteria-description-6: ''
-  - judging-criteria-7: ''
-    judging-criteria-percentage-7: ''
-    judging-criteria-description-7: ''
-  - judging-criteria-description-8: ''
-    judging-criteria-percentage-8: ''
-    judging-criteria-8: ''
-  - judging-criteria-description-9: ''
-    judging-criteria-percentage-9: ''
-    judging-criteria-9: ''
-  - prize-description-0: "• Up to 150 E3! Ambassadors will be selected (15 from each
-      federal region) and serve for one academic year from September 1, 2014 through
-      May 31, 2015. For a list of the federal regions, see Eligibility.  • The E3!
-      Program (Challenge) is non-monetary.  • Selected E3! Ambassadors will be announced
-      in a White House blog in August 2014.  • Selected E3! Ambassadors will be invited
-      to convene in-person in Washington, DC at least once (dependent on available
-      funding).  • E3! Ambassadors will receive a congratulatory letter from WHIAAPI
-      Executive Director, Kiran Ahuja.  • E3! Ambassadors will have the opportunity
-      to work collaboratively with WHIAAPI staff, members of the President’s Advisory
-      Commission on AAPIs, and Regional Interagency Working Group, as well as other
-      Administration officials."
-    prize-cash-amount-0: '0'
-    prize-name-0: Prizes
-  - prize-description-1: ''
-    prize-cash-amount-1: ''
-    prize-name-1: ''
-  - prize-cash-amount-10: ''
-    prize-name-10: ''
-    prize-description-10: ''
-  - prize-cash-amount-11: ''
-    prize-name-11: ''
-    prize-description-11: ''
-  - prize-name-12: ''
-    prize-cash-amount-12: ''
-    prize-description-12: ''
-  - prize-name-13: ''
-    prize-cash-amount-13: ''
-    prize-description-13: ''
-  - prize-description-14: ''
-    prize-cash-amount-14: ''
-    prize-name-14: ''
-  - prize-description-15: ''
-    prize-cash-amount-15: ''
-    prize-name-15: ''
-  - prize-description-16: ''
-    prize-name-16: ''
-    prize-cash-amount-16: ''
-  - prize-description-17: ''
-    prize-name-17: ''
-    prize-cash-amount-17: ''
-  - prize-cash-amount-18: ''
-    prize-name-18: ''
-    prize-description-18: ''
-  - prize-description-2: ''
-    prize-name-2: ''
-    prize-cash-amount-2: ''
-  - prize-description-3: ''
-    prize-name-3: ''
-    prize-cash-amount-3: ''
-  - prize-cash-amount-4: ''
-    prize-name-4: ''
-    prize-description-4: ''
-  - prize-cash-amount-5: ''
-    prize-name-5: ''
-    prize-description-5: ''
-  - prize-name-6: ''
-    prize-cash-amount-6: ''
-    prize-description-6: ''
-  - prize-name-7: ''
-    prize-cash-amount-7: ''
-    prize-description-7: ''
-  - prize-description-8: ''
-    prize-cash-amount-8: ''
-    prize-name-8: ''
-  - prize-description-9: ''
-    prize-cash-amount-9: ''
-    prize-name-9: ''
-  - winner-solution-description-0: ''
-    winner-solution-link-0: ''
-    winner-name-0: ''
-    winner-solution-title-0: ''
-  - winner-solution-link-1: ''
-    winner-solution-description-1: ''
-    winner-name-1: ''
-    winner-solution-title-1: ''
-  - winner-solution-description-2: ''
-    winner-solution-link-2: ''
-    winner-solution-title-2: ''
-    winner-name-2: ''
-  - winner-solution-link-3: ''
-    winner-solution-description-3: ''
-    winner-solution-title-3: ''
-    winner-name-3: ''
-  - winner-name-4: ''
-    winner-solution-title-4: ''
-    winner-solution-description-4: ''
-    winner-solution-link-4: ''
-  - winner-name-5: ''
-    winner-solution-title-5: ''
-    winner-solution-link-5: ''
-    winner-solution-description-5: ''
-  - winner-solution-title-6: ''
-    winner-name-6: ''
-    winner-solution-description-6: ''
-    winner-solution-link-6: ''
-  - winner-solution-title-7: ''
-    winner-name-7: ''
-    winner-solution-link-7: ''
-    winner-solution-description-7: ''
-  - winner-solution-description-8: ''
-    winner-solution-link-8: ''
-    winner-name-8: ''
-    winner-solution-title-8: ''
-  - winner-solution-link-9: ''
-    winner-solution-description-9: ''
-    winner-name-9: ''
-    winner-solution-title-9: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.whitehouse.gov/blog/2014/09/18/whiaapi-announces-its-2014-2015-e3-ambassadors
+submission-end: '08/27/2014 11:59 PM'
+why-use-prizes: ''
+submission-start: 07/17/2014 12:00 AM
+fiscal-year: FY 2014
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: '0'
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: America COMPETES
+total-number-of-prizes-awarded: ''
+evaluation-of-submissions: ''
+agency-id: '192'
+solicitation-of-submissions: ''
+total-submission-received: ''
+total-number-of-participant: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: Trip to DC and congratulatory letter
+partner-agencies-federal: ''
+judging-end-date: ''
+solicitation-methods: ''
+advancing-the-agency-mission: ''
+rules: 'By submitting an application to this Challenge, the applicant agrees to
+  adhere to the application guidelines below.    &nbsp;    <span style="text-decoration:
+  underline;"><b>Guidelines</b></span>  <span style="text-decoration: underline;"><b>Encouraged
+  Participants</b></span>    &nbsp;    &nbsp;    • WHIAAPI invites individuals
+  between the years of 18 to 30 years old at the time of application, and who
+  reside within the continental U.S. or territories of the U.S., to apply.  •
+  No more than 15 applicants will be selected per federal region (see Regional
+  Map).  • Federal employees are ineligible to apply.    <span style="text-decoration:
+  underline;">Where to submit:</span> Please submit your application via  • Email
+  to whitehouseaapi@ed.gov with subject line “E3! Program Application” or  • Hard
+  copy to the following address:  White House Initiative on Asian Americans and
+  Pacific Islanders  RE: E3! Program Application  550 12th Street SW  Washington,
+  DC 20202  Note: We are looking for applicants who are succinct and able to concisely
+  outline their ideas. Given the time constraints for the E3! Ambassadors selection
+  process, we may not be able to consider any application that provides responses
+  that exceed 750 words.    If you use email to submit your application please
+  include your responses to the questions (later in this notice) as an attachment.
+  However, if you include your responses in the body of the email message, we
+  will still consider them if the email arrives timely. If you send your application
+  via some other method, we will not be able to consider your application if it
+  is received by WHIAAPI after August 17, 2014.    Individuals with disabilities
+  can obtain a copy of this notice in an accessible format (e.g., braille, large
+  print, audiotape, or compact disc) by contacting the WHIAAPI office at (202)
+  245-6021. If you use a telecommunications device for the deaf (TDD) or a text
+  telephone (TTY), and need other assistance please call the Federal Relay Service
+  (FRS), toll free, at 1-800-877-8339, which can connect you with WHIAAPI.    <span
+  style="text-decoration: underline;">Proposal Acceptance Period:</span> Proposals
+  will be accepted beginning on July 17, 2014 through August 27, 2014 (“Proposal
+  Acceptance Period”). All entries must be received by the end of the Proposal
+  Acceptance Period.    • <span style="text-decoration: underline;">Encouraged
+  Applicants:</span> WHIAAPI invites individuals between the years of 18 to 30
+  years old at the time of application, and who reside within the continental
+  U.S. or territories of the U.S., to apply.  • No more than 15 applicants will
+  be selected per federal region (see Regional Map).  • Federal employees are
+  ineligible to apply.    <span style="text-decoration: underline;">Number of
+  Entries:</span> One entry may be submitted per applicant.    <span style="text-decoration:
+  underline;">Finalist Selection and Notification:</span> Applications will be
+  reviewed by a panel of reviewers, consisting of Initiative staff. The decisions
+  of the panel on all matters relating to the Challenge are final. The Initiative
+  will not consider any application that does not adhere to these guidelines or
+  proposes a plan that would result in a violation of Federal law, regulation,
+  or the policies of the U.S. Department of Education (ED) or the Initiative.
+  Selected applicants will be notified via email.    <span style="text-decoration:
+  underline;">Copyright/Original Work:</span> Each applicant represents and warrants
+  that he or she is the sole author and owner of the application submission for
+  the Challenge (Submission); that the Submission is wholly original with the
+  applicant (or is an improved version of an existing application that the applicant
+  has sufficient rights to use and to authorize others (including ED) to use);
+  and that the Submission does not infringe any copyright or any other rights
+  of any third party of which the applicant is aware. Each applicant also warrants
+  that the application is free of malware.    <span style="text-decoration: underline;">Intellectual
+  Property Rights:</span> By providing a Submission to ED, each applicant grants
+  to ED an irrevocable, paid-up, royalty-free, non-exclusive worldwide license
+  to use, copy, distribute to the public, create derivative works from, link to,
+  and display publicly (on the Internet or otherwise) the Submission (including
+  the associated application) for a period of 1 year starting on the date of the
+  announcement of the accepted applicants, and for such additional period as may
+  be agreed to by ED and the applicant. All applicants will retain all other intellectual
+  property rights over their Submissions. Each accepted applicant guarantees and
+  agrees that the application or tool will be provided to the public free of charge
+  for a period of one year starting on the date of the announcement of accepted
+  applicants. Applicant also agrees to allow ED to use his or her name and other
+  submitted information (i.e., address) in any news report, media release, or
+  documentation issued by ED (or its designee) related to this Challenge.    <span
+  style="text-decoration: underline;">Limitation of Liability:</span> By submitting
+  an entry for the Challenge, all applicants agree to, and thereby do, release,
+  discharge, and hold harmless the Government and its employees, agents, contractors,
+  and representatives (except in the case of willful misconduct) from any claims,
+  losses, and damages arising out of their participation in this Challenge or
+  any Challenge-related activities and the acceptance and use, misuse, or possession
+  of any prize awarded hereunder, including claims for injury, death, damage,
+  or loss of property, revenue or profits, whether direct, indirect, or consequential,
+  arising from their participation in the Challenge, whether the injury, death,
+  damage or loss arises through negligence, or otherwise. Participants will not
+  be required to waive claims against the Government that arise from the unauthorized
+  use or disclosure by the agency of the intellectual property, trade secrets,
+  or confidential information of the applicant. The applicant shall be liable
+  for, and shall indemnify and hold harmless the Government against, all actions
+  or claims for loss of or damage to property (including any damage that may result
+  from a virus or malware to the government’s computer systems or those of the
+  end-users of the software and/or applications), resulting from the fault, negligence,
+  or wrongful act or omission of the applicant.    <span style="text-decoration:
+  underline;">Privacy Policy:</span> Participation in the Challenge constitutes
+  the applicant’s consent to the use by ED (and its agents and contractors) of
+  the applicant’s name, likeness, photograph, voice, opinions, and contact information
+  (i.e., email, phone number, and address) for communication purposes on matters
+  regarding the Challenge in any media, worldwide, without payment or consideration.
+  Participation in the Challenge also constitutes the applicant’s consent to permit
+  ED and its agents and contractors to share any application information of an
+  applicant who is selected to be a E3! Ambassador with WHIAAPI staff, members
+  of the President’s Advisory Commission on AAPIs and Regional Interagency Working
+  Group, as well as other Administration officials for purposes related to administering
+  the Challenge, including the award of prizes. Individually identifiable information
+  provided to ED by submitting an application to this Challenge will be used only
+  to communicate on matters regarding the applicant’s submission or administering
+  or implementing the Challenge. Individually identifiable information provided
+  to ED by submitting an application to this Challenge will not be used for any
+  purpose that is unrelated to the submission and/or administering or implementing
+  the Challenge, unless such a use is required by law.'
+submission-start-date-1: ''
+hide-challenge-timeline: 'No'
+judging-start-date: ''
+winners-announced-date: ''
+cash-prizes-and-non-cash-prize-awards: ''
+campaign-owner-email: ''
+solution-type: Ideas
+partner-agencies-non-federal: ''
+original-post-id: '5932'
+total-number-of-winners-awarded: ''
+hosting: Hosted on this platform
+hide-challenge-funnel: 'Yes'
+type-of-challenge: Ideas
+participation-requirements: ''
+number-of-phases: ''
+how-to-enter: "To ensure that your application is considered, please submit responses
+  to the following by August 27, 2014:\r\n\r\n<b><i>Applicant Information:</i>\r\n</b>\r\n•
+  Name\r\n• Email\r\n• Phone number\r\n• Address indicating whether it’s your
+  school, work, or home address.\r\n\r\n<i><b> Essay Question:</b></i>\r\n\r\nPlease
+  craft an original, innovative plan to increase outreach and awareness within
+  your campus or community around the following four issue areas: education, mental
+  health, pathways to public service, and Deferred Action for Childhood Arrivals
+  (DACA). Proposals should:\r\n• Mention why you are interested in this Challenge
+  and what about your background makes you particularly qualified to address the
+  aforementioned issue areas.\r\n• Include measurable goals and benchmarks.\r\n•
+  Demonstrate the use of marketing techniques such as print/social media, etc.\r\n•
+  Provide a foundation upon which future E3! Ambassadors can build.\r\n\r\nNote:
+  We are looking for applicants who are succinct and able to concisely outline
+  their ideas. Given the time constraints for the E3! Ambassadors selection process,
+  we may not be able to consider any application that provides responses that
+  exceed 750 words.\r\n\r\n<span style=\"font-size: medium;\"><b><span style=\"text-decoration:
+  underline;\">Submissions</span></b></span>\r\n\r\n• Email attachment to WhiteHouseAAPI@ed.gov
+  with subject line “E3! Program Application” <b>OR</b>\r\n• Mail a hard copy
+  to the following address:\r\n\r\nWhite House Initiative on Asian Americans and
+  Pacific Islanders\r\nRE: E3! Program Application\r\n550 12th Street SW\r\nWashington,
+  DC 20202"
+partnerships: ''
+groupAttributes:
+judging-criteria-description-0: ''
+judging-criteria-percentage-0: ''
+judging-criteria-0: ''
+judging-criteria-description-1: ''
+judging-criteria-percentage-1: ''
+judging-criteria-1: ''
+judging-criteria-description-10: ''
+judging-criteria-percentage-10: ''
+judging-criteria-10: ''
+judging-criteria-description-11: ''
+judging-criteria-percentage-11: ''
+judging-criteria-11: ''
+judging-criteria-description-12: ''
+judging-criteria-12: ''
+judging-criteria-percentage-12: ''
+judging-criteria-description-13: ''
+judging-criteria-13: ''
+judging-criteria-percentage-13: ''
+judging-criteria-percentage-14: ''
+judging-criteria-14: ''
+judging-criteria-description-14: ''
+judging-criteria-percentage-15: ''
+judging-criteria-15: ''
+judging-criteria-description-15: ''
+judging-criteria-16: ''
+judging-criteria-percentage-16: ''
+judging-criteria-description-16: ''
+judging-criteria-17: ''
+judging-criteria-percentage-17: ''
+judging-criteria-description-17: ''
+judging-criteria-description-18: ''
+judging-criteria-percentage-18: ''
+judging-criteria-18: ''
+judging-criteria-description-19: ''
+judging-criteria-percentage-19: ''
+judging-criteria-19: ''
+judging-criteria-description-2: ''
+judging-criteria-2: ''
+judging-criteria-percentage-2: ''
+judging-criteria-description-3: ''
+judging-criteria-3: ''
+judging-criteria-percentage-3: ''
+judging-criteria-percentage-4: ''
+judging-criteria-4: ''
+judging-criteria-description-4: ''
+judging-criteria-percentage-5: ''
+judging-criteria-5: ''
+judging-criteria-description-5: ''
+judging-criteria-6: ''
+judging-criteria-percentage-6: ''
+judging-criteria-description-6: ''
+judging-criteria-7: ''
+judging-criteria-percentage-7: ''
+judging-criteria-description-7: ''
+judging-criteria-description-8: ''
+judging-criteria-percentage-8: ''
+judging-criteria-8: ''
+judging-criteria-description-9: ''
+judging-criteria-percentage-9: ''
+judging-criteria-9: ''
+prize-description-0: "• Up to 150 E3! Ambassadors will be selected (15 from each
+  federal region) and serve for one academic year from September 1, 2014 through
+  May 31, 2015. For a list of the federal regions, see Eligibility.  • The E3!
+  Program (Challenge) is non-monetary.  • Selected E3! Ambassadors will be announced
+  in a White House blog in August 2014.  • Selected E3! Ambassadors will be invited
+  to convene in-person in Washington, DC at least once (dependent on available
+  funding).  • E3! Ambassadors will receive a congratulatory letter from WHIAAPI
+  Executive Director, Kiran Ahuja.  • E3! Ambassadors will have the opportunity
+  to work collaboratively with WHIAAPI staff, members of the President’s Advisory
+  Commission on AAPIs, and Regional Interagency Working Group, as well as other
+  Administration officials."
+prize-cash-amount-0: ''
+prize-name-0: Prizes
+prize-description-1: ''
+prize-cash-amount-1: ''
+prize-name-1: ''
+prize-cash-amount-10: ''
+prize-name-10: ''
+prize-description-10: ''
+prize-cash-amount-11: ''
+prize-name-11: ''
+prize-description-11: ''
+prize-name-12: ''
+prize-cash-amount-12: ''
+prize-description-12: ''
+prize-name-13: ''
+prize-cash-amount-13: ''
+prize-description-13: ''
+prize-description-14: ''
+prize-cash-amount-14: ''
+prize-name-14: ''
+prize-description-15: ''
+prize-cash-amount-15: ''
+prize-name-15: ''
+prize-description-16: ''
+prize-name-16: ''
+prize-cash-amount-16: ''
+prize-description-17: ''
+prize-name-17: ''
+prize-cash-amount-17: ''
+prize-cash-amount-18: ''
+prize-name-18: ''
+prize-description-18: ''
+prize-description-2: ''
+prize-name-2: ''
+prize-cash-amount-2: ''
+prize-description-3: ''
+prize-name-3: ''
+prize-cash-amount-3: ''
+prize-cash-amount-4: ''
+prize-name-4: ''
+prize-description-4: ''
+prize-cash-amount-5: ''
+prize-name-5: ''
+prize-description-5: ''
+prize-name-6: ''
+prize-cash-amount-6: ''
+prize-description-6: ''
+prize-name-7: ''
+prize-cash-amount-7: ''
+prize-description-7: ''
+prize-description-8: ''
+prize-cash-amount-8: ''
+prize-name-8: ''
+prize-description-9: ''
+prize-cash-amount-9: ''
+prize-name-9: ''
+winner-solution-description-0: ''
+winner-solution-link-0: ''
+winner-name-0: ''
+winner-solution-title-0: ''
+winner-solution-link-1: ''
+winner-solution-description-1: ''
+winner-name-1: ''
+winner-solution-title-1: ''
+winner-solution-description-2: ''
+winner-solution-link-2: ''
+winner-solution-title-2: ''
+winner-name-2: ''
+winner-solution-link-3: ''
+winner-solution-description-3: ''
+winner-solution-title-3: ''
+winner-name-3: ''
+winner-name-4: ''
+winner-solution-title-4: ''
+winner-solution-description-4: ''
+winner-solution-link-4: ''
+winner-name-5: ''
+winner-solution-title-5: ''
+winner-solution-link-5: ''
+winner-solution-description-5: ''
+winner-solution-title-6: ''
+winner-name-6: ''
+winner-solution-description-6: ''
+winner-solution-link-6: ''
+winner-solution-title-7: ''
+winner-name-7: ''
+winner-solution-link-7: ''
+winner-solution-description-7: ''
+winner-solution-description-8: ''
+winner-solution-link-8: ''
+winner-name-8: ''
+winner-solution-title-8: ''
+winner-solution-link-9: ''
+winner-solution-description-9: ''
+winner-name-9: ''
+winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
 description: 'Last summer 2013, the White House Initiative on Asian Americans and
@@ -451,11 +451,11 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 285
 showTagline: true
-name: 'WHIAAPI E3! Challenge: Educate, Engage, and Empower Young AAPI Leaders'
+name: 'WHIAAPI E3! Challenge - Educate, Engage, and Empower Young AAPI Leaders'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/whiaapi-e3-challenge:-educate-engage-and-empower-young-aapi-leaders/"
+permalink: "/challenge/whiaapi-e3-challenge-educate-engage-and-empower-young-aapi-leaders/"
 layout: json-page
 ---

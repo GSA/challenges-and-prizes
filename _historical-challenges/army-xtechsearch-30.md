@@ -199,7 +199,7 @@ campaignAttributes:
       Physics Modeling and Simulation</li>\r\n</ul>\r\n</li>\r\n</ul>"
     partnerships: ''
   groupAttributes:
-  - judging-criteria-description-0: "<p>The Concept White Paper phase invites all
+  judging-criteria-description-0: "<p>The Concept White Paper phase invites all
       eligible entities to submit a concept white paper outlining their knowledge,
       skills, capabilities and approach for this challenge. Each concept white paper
       will be reviewed by a panel of Army subject matter experts.&nbsp; Up to 50 small
@@ -211,7 +211,7 @@ campaignAttributes:
       45%</li>\r\n<li>Proposal Quality &ndash; 10%</li>\r\n</ul>"
     judging-criteria-percentage-0: ''
     judging-criteria-0: 'Phase I: Concept White Paper Contest'
-  - judging-criteria-description-1: "<p>The xTechSearch Technology Pitch phase invites
+  judging-criteria-description-1: "<p>The xTechSearch Technology Pitch phase invites
       selected small businesses from Phase I to complete an in-person venture-capital
       style pitch to a panel of Army subject matter experts at locations across the
       United States.&nbsp; Small businesses will pitch their technology concept and
@@ -225,7 +225,7 @@ campaignAttributes:
       Quality &ndash; 10%</li>\r\n</ul>"
     judging-criteria-percentage-1: ''
     judging-criteria-1: 'Phase II: xTechSearch Technology Pitches'
-  - judging-criteria-description-2: "<p>The AUSA Innovators&rsquo; Corner phase will
+  judging-criteria-description-2: "<p>The AUSA Innovators&rsquo; Corner phase will
       provide the invited Phase II participants with Army-sponsored exhibit space
       at AUSA Innovators&rsquo; Corner at the AUSA Annual Meeting, 14-16 October 2019
       in Washington, DC.&nbsp; Phase III participants will leverage the exhibit space
@@ -249,7 +249,7 @@ campaignAttributes:
       20%</li>\r\n<li>Elevator Pitch &ndash; 10%</li>\r\n</ul>"
     judging-criteria-2: 'Phase III: AUSA Innovators'' Corner'
     judging-criteria-percentage-2: ''
-  - judging-criteria-description-3: "<p>The xTechSearch Capstone Demonstration is
+  judging-criteria-description-3: "<p>The xTechSearch Capstone Demonstration is
       an opportunity for each Phase IV finalists to demonstrate proof-of-concept for
       their technology solution to a panel of Army subject matter experts and DoD
       leadership at the 2020 AUSA Global Force Symposium and Exposition, March 17-19,
@@ -264,84 +264,84 @@ campaignAttributes:
       Quality &ndash; 10%</li>\r\n</ul>"
     judging-criteria-3: 'Phase IV: xTechSearch Capstone Demonstration'
     judging-criteria-percentage-3: ''
-  - judging-criteria-percentage-4: ''
+  judging-criteria-percentage-4: ''
     judging-criteria-4: ''
     judging-criteria-description-4: ''
-  - judging-criteria-percentage-5: ''
+  judging-criteria-percentage-5: ''
     judging-criteria-5: ''
     judging-criteria-description-5: ''
-  - judging-criteria-6: ''
+  judging-criteria-6: ''
     judging-criteria-percentage-6: ''
     judging-criteria-description-6: ''
-  - judging-criteria-7: ''
+  judging-criteria-7: ''
     judging-criteria-percentage-7: ''
     judging-criteria-description-7: ''
-  - prize-description-0: "<p>Up to 50 winners will receive $5,000 and be selected
+  prize-description-0: "<p>Up to 50 winners will receive $5,000 and be selected
       for Phase II.</p>"
     prize-cash-amount-0: '250000'
     prize-name-0: 'Phase I: Concept White Paper'
-  - prize-description-1: "<p>Up to 24 winners will receive $10,000 each and be selected
+  prize-description-1: "<p>Up to 24 winners will receive $10,000 each and be selected
       for Phase III.</p>"
     prize-cash-amount-1: '240000'
     prize-name-1: 'Phase II: xTechSearch Technology Pitches'
-  - prize-cash-amount-10: ''
+  prize-cash-amount-10: ''
     prize-name-10: ''
     prize-description-10: ''
-  - prize-cash-amount-11: ''
+  prize-cash-amount-11: ''
     prize-name-11: ''
     prize-description-11: ''
-  - prize-name-12: ''
+  prize-name-12: ''
     prize-cash-amount-12: ''
     prize-description-12: ''
-  - prize-name-13: ''
+  prize-name-13: ''
     prize-cash-amount-13: ''
     prize-description-13: ''
-  - prize-description-14: ''
+  prize-description-14: ''
     prize-cash-amount-14: ''
     prize-name-14: ''
-  - prize-description-15: ''
+  prize-description-15: ''
     prize-cash-amount-15: ''
     prize-name-15: ''
-  - prize-description-16: ''
+  prize-description-16: ''
     prize-name-16: ''
     prize-cash-amount-16: ''
-  - prize-description-17: ''
+  prize-description-17: ''
     prize-name-17: ''
     prize-cash-amount-17: ''
-  - prize-cash-amount-18: ''
+  prize-cash-amount-18: ''
     prize-name-18: ''
     prize-description-18: ''
-  - prize-description-2: "<p>Up to 12 winners will receive $120,000 and be selected
+  prize-description-2: "<p>Up to 12 winners will receive $120,000 and be selected
       for Phase IV.</p>"
     prize-name-2: 'Phase III: Innovators'' Corner'
     prize-cash-amount-2: '1440000'
-  - prize-description-3: "<p>Up to 12 winners will receive prizes.</p>\r\n<p>1st Place:
+  prize-description-3: "<p>Up to 12 winners will receive prizes.</p>\r\n<p>1st Place:
       $250,000</p>\r\n<p>2nd-12th Place: $10,000</p>"
     prize-name-3: 'Phase IV: xTechSearch Capstone Demonstration'
     prize-cash-amount-3: '360000'
-  - prize-cash-amount-4: ''
+  prize-cash-amount-4: ''
     prize-name-4: ''
     prize-description-4: ''
-  - prize-cash-amount-5: ''
+  prize-cash-amount-5: ''
     prize-name-5: ''
     prize-description-5: ''
-  - prize-name-6: ''
+  prize-name-6: ''
     prize-cash-amount-6: ''
     prize-description-6: ''
-  - prize-name-7: ''
+  prize-name-7: ''
     prize-cash-amount-7: ''
     prize-description-7: ''
-  - prize-description-8: ''
+  prize-description-8: ''
     prize-cash-amount-8: ''
     prize-name-8: ''
-  - prize-description-9: ''
+  prize-description-9: ''
     prize-cash-amount-9: ''
     prize-name-9: ''
-  - winner-solution-description-0: ''
+  winner-solution-description-0: ''
     winner-solution-link-0: ''
     winner-name-0: ''
     winner-solution-title-0: ''
-  - winner-solution-link-1: ''
+  winner-solution-link-1: ''
     winner-solution-description-1: ''
     winner-name-1: ''
     winner-solution-title-1: ''
