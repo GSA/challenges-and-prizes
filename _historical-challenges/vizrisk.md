@@ -66,25 +66,25 @@ non-monetary-incentives-awarded: |-
   Scientific Excellence Award
   $1,000.00
   Shows exceptional rigor in measured relationships that adhere to the principles of scientific inquiry.
-partner-agencies-federal: '0'
+partner-agencies-federal: ''
 judging-end-date: 11/11/2014 12:00 AM
 solicitation-methods: ''
 advancing-the-agency-mission: ''
-rules: 'To be eligible to win a prize under this challenge, an individual or entity—  (1)
+rules: '<p>To be eligible to win a prize under this challenge, an individual or entity—  <br>(1)
   Shall have registered to participate in the competition under the rules promulgated
-  by the Office of Business Management and Transformation.  (2) Shall have complied
-  with all the requirements under this section.  (3) In the case of a private
+  by the Office of Business Management and Transformation.  <br>(2) Shall have complied
+  with all the requirements under this section.  <br>(3) In the case of a private
   entity, shall be incorporated in and maintain a primary place of business in
   the United States, and in the case of an individual, whether participating singly
-  or in a group, shall be a citizen or permanent resident of the United States.  (4)
+  or in a group, shall be a citizen or permanent resident of the United States.  <br>(4)
   May not be a Federal entity or Federal employee acting within the scope of their
-  employment.  (5) Shall not be an HHS employee working on their applications
-  or submissions during assigned duty hours.  (6) Shall not be an employee of
-  Office Business Management and Transformation at HHS.  (7) Federal grantees
+  employment.  <br>(5) Shall not be an HHS employee working on their applications
+  or submissions during assigned duty hours.  <br>(6) Shall not be an employee of
+  Office Business Management and Transformation at HHS.  <br>(7) Federal grantees
   may not use Federal funds to develop COMPETES Act challenge applications unless
-  consistent with the purpose of their grant award.  (8) Federal contractors may
+  consistent with the purpose of their grant award.  <br>(8) Federal contractors may
   not use Federal funds from a contract to develop COMPETES Act challenge applications
-  or to fund efforts in support of a COMPETES Act challenge submission.  An individual
+  or to fund efforts in support of a COMPETES Act challenge submission.</p><p>  An individual
   or entity shall not be deemed ineligible because the individual or entity used
   Federal facilities or consulted with Federal employees during a competition
   if the facilities and employees are made equitably available to all individuals
@@ -95,17 +95,17 @@ rules: 'To be eligible to win a prize under this challenge, an individual or ent
   arising from my participation in this prize contest, whether the injury, death,
   damage, or loss arises through negligence or otherwise.  Entrants must also
   agree to indemnify the Federal Government against third party claims for damages
-  arising from or related to competition activities.    In addition,    All projects
+  arising from or related to competition activities.</p><p>    In addition,    All projects
   must be submitted on Challengepost no later than 12am on October 28th,, 2014.
-  Submissions must consist of two parts: 1) a link/screenshot/pdf of the project
-  itself, and a 250-word accompanying description 2) a link to a 2-minute video
+  Submissions must consist of two parts: <br>1) a link/screenshot/pdf of the project
+  itself, and a 250-word accompanying description <br>2) a link to a 2-minute video
   of the team explaining the thought process behind, significance of, and context
-  for the project.    All submissions must include analysis of BRFSS Data in some
+  for the project.</p><p>    All submissions must include analysis of BRFSS Data in some
   way    Judges must be able to view the final product on a website, pdf, or another
   easily available tool for final evaluation. The tool must be designed for use
   with existing web, mobile web, electronic health record, or other platform (iOS,
-  Android, etc.).    Submissions must be compliant with HHS Section 508 Evaluation
-  Product Regulations.'
+  Android, etc.).</p><p>    Submissions must be compliant with HHS Section 508 Evaluation
+  Product Regulations.</p>'
 submission-start-date-1: ''
 hide-challenge-timeline: 'No'
 judging-start-date: 10/29/2014 12:00 AM
@@ -121,15 +121,15 @@ hide-challenge-funnel: 'Yes'
 type-of-challenge: Software and apps
 participation-requirements: ''
 number-of-phases: ''
-how-to-enter: "All submissions must be posted here by October 28th at 12am and
-  must include four parts:\r\n\r\n1) Link to a 2-minute YouTube video pitch explaining
+how-to-enter: "<p>All submissions must be posted here by October 28th at 12am and
+  must include four parts:<br>1) Link to a 2-minute YouTube video pitch explaining
   the context, goal of project, and process of developing the visualization/application.
-  Videos exceeding 2 minutes will only be evaluated for the first 120 seconds.\r\n\r\n2)
-  Demo of submission that is accessible via web, powerpoint, or pdf\r\n\r\n3)
-  250-word explanation of the project\r\n\r\n4) List of all datasets used in the
-  project development\r\n\r\nWinners will be notified by November 24, 2014, and
+  Videos exceeding 2 minutes will only be evaluated for the first 120 seconds.<br>2)
+  Demo of submission that is accessible via web, powerpoint, or pdf<br>3)
+  250-word explanation of the project<br>4) List of all datasets used in the
+  project development<br>Winners will be notified by November 24, 2014, and
   will be required to submit a detailed process report on the development of the
-  demo prior to receiving the cash prize."
+  demo prior to receiving the cash prize.</p>"
 partnerships: ''
 groupAttributes:
 judging-criteria-description-0: ''
@@ -298,18 +298,18 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: 'VizRisk is a visualization challenge hosted by the US Department of
+description: '<p>VizRisk is a visualization challenge hosted by the US Department of
   Health and Human Services (HHS) to foster increased utilization, innovation, and
   analyses of government data to help inform personal and health policy decisions
-  through critical analyses and applications of the data.    This 3-month challenge,
+  through critical analyses and applications of the data.</p><p>This 3-month challenge,
   July 28th to October, 28th 2014 will call on talented designers, coders, government
   officials, healthcare providers, and experts from around the country to analyze,
   organize, and visualize behavioral health risk data from CDC’s Behavioral Risk Factor
   Surveillance System data. Participants will be challenged to combine this data with
   other publicly available government data sets to provide key insights and show compelling
-  relationships.    All submissions will be evaluated on the four criteria of innovation,
+  relationships.</p><p>All submissions will be evaluated on the four criteria of innovation,
   relevance, scientific excellence, and design.    For more information, please visit:
-  http://www.hhsvizrisk.org/'
+  http://www.hhsvizrisk.org/</p>'
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []

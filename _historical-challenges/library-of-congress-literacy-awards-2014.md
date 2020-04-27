@@ -11,7 +11,7 @@ funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
 tagline: Recognizing organizations that have made outstanding contributions to increasing
   literacy.
-groupName: Legislative Branch - Library of Congress
+groupName: LegislativeBranch - Library of Congress
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
@@ -180,8 +180,8 @@ prize-name-8: ''
 prize-description-9: ''
 prize-cash-amount-9: ''
 prize-name-9: ''
-winner-solution-description-0: "From http://www.loc.gov/today/pr/2014/14-156.html\r\nThe
-  recipients were:\r\n\r\nDavid M. Rubenstein Prize ($150,000): Room to Read    \r\nRoom
+winner-solution-description-0: "<p>From http://www.loc.gov/today/pr/2014/14-156.html<br>The
+  recipients were:</p> <p>David M. Rubenstein Prize ($150,000): Room to Read    <br>Room
   to Read, founded in 2001, believes that world change starts with educated children
   and that the best way to create long-term systemic change in the developing
   world is through literacy and gender equality in education. It focuses on literacy
@@ -193,7 +193,7 @@ winner-solution-description-0: "From http://www.loc.gov/today/pr/2014/14-156.htm
   organization also aims to equalize the educational experience for girls by supporting
   them in completing secondary school with the academic and life skills necessary
   to succeed in school and beyond. Room to Read’s service area is Africa and Southeast
-  Asia.\r\n    \r\nThe American Prize ($50,000): SMART\r\nThe third-grade reading
+  Asia.</p><p>The American Prize ($50,000): SMART<br>The third-grade reading
   level is widely recognized as a key indicator of a child’s future educational
   success. A student who cannot read on grade level by third grade is four times
   less likely to graduate by age 19 than a child who does read proficiently in
@@ -201,8 +201,8 @@ winner-solution-description-0: "From http://www.loc.gov/today/pr/2014/14-156.htm
   address the growing number of elementary school children who were reading significantly
   below grade level. Start Making a Reader Today (SMART) now operates at more
   than 250 program sites throughout the U.S. and serves approximately 9,000 children
-  each year.\r\n    \r\nThe International Prize ($50,000): Mother Child Education
-  Foundation\r\nThe Mother Child Education Foundation (AÇEV) was started in 1993
+  each year.</p><p>The International Prize ($50,000): Mother Child Education
+  Foundation<br>The Mother Child Education Foundation (AÇEV) was started in 1993
   and is the largest literacy organization in Turkey. Its mission is to empower
   the Turkish people through education and enable them to improve the quality
   of their lives. It operates a variety of projects designed to address family,
@@ -213,7 +213,7 @@ winner-solution-description-0: "From http://www.loc.gov/today/pr/2014/14-156.htm
   access to preschool education. However, early MOCEP trials revealed that not
   all participating mothers were literate and therefore many were unable to carry
   out the collaborative cognitive exercises with their children, pushing AÇEV
-  into a complementary area of need, adult literacy."
+  into a complementary area of need, adult literacy.</p>"
 winner-solution-link-0: http://www.loc.gov/today/pr/2014/14-156.html
 winner-name-0: '3 winners: Room to Read, SMART, and Mother Child Education Foundation '
 winner-solution-title-0: ''
