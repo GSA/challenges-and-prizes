@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/metadata-automation-dream-challenge/
 challenge-id: 1090
-status: open
+status: closed
 sidenav: false
 card-image: /assets/images/cards/MAC-Canva-Image_JRN-341x160.png
 agency-logo: NIH-Generic.png
@@ -14,8 +14,8 @@ partners-non-federal:
 external-url: https://synapse.org/metadatachallenge
 total-prize-offered-cash:
 type-of-challenge: Scientific
-submission-start: 2020/01/14
-submission-end: 2020/04/24
+submission-start: 01/14/2020
+submission-end: 04/24/2020
 submission-link: 
 prize: true
 fiscal-year: FY20
