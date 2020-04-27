@@ -179,16 +179,14 @@ participation-requirements: ''
 number-of-phases: ''
 how-to-enter: "<span style=\"color: #000000;\">Register and submit your entry
   from this site between May 13, 2014 and May 30, 2014 (01:59 p.m. Eastern Daylight
-  Time).</span>\r\n\r\n<span style=\"color: #000000;\">At registration you will
+  Time).</span></p><p><span style=\"color: #000000;\">At registration you will
   be prompted for your name and contact information. The contest is open to both
   individuals and teams. If entering as a team, you will enter your team’s name
   and the email address of your team leader.  The names of your team members and
   team leader should be entered as a separate attached file.  Registered contestants
   and team leaders will receive contest updates by email.</span>\r\n<h4><span
   style=\"color: #000000;\">PUBLIC COMMENT AND VOTING</span></h4>\r\n<p style=\"text-align:
-  center;\"><span style=\"color: #000000;\"><a href=\"https://challenge.platform5.challenge.gov/files/2014/02/horizontal-line.jpg\"><span
-  style=\"color: #000000;\"><img class=\"wp-image-4212 aligncenter\" src=\"https://challenge.platform5.challenge.gov/files/2014/02/horizontal-line-300x5.jpg\"
-  alt=\"horizontal line\" width=\"100%\" height=\"3\" /></span></a></span></p>\r\n<span
+  center;\"></p>\r\n<span
   style=\"color: #000000; line-height: 1.5em;\">GSA encourages visitors to the
   contest website to review entries, offer comments, and vote for their favorites.
   The comment and voting process offers you an opportunity to contribute to the
@@ -204,25 +202,22 @@ how-to-enter: "<span style=\"color: #000000;\">Register and submit your entry
   style=\"color: #000000; line-height: 1.5em;\">Visitors may cast up to one vote
   for each entry, including their own.</span></li>\r\n\t<li type=\"disc\"><span
   style=\"color: #000000; line-height: 1.5em;\">Visitors will vote by awarding
-  up to 5 stars, with each star representing one point.</span></li>\r\n</ul>\r\n&nbsp;\r\n<h4><span
+  up to 5 stars, with each star representing one point.</span></li>\r\n</ul><h4><span
   style=\"color: #000000;\"><strong>APPENDIX - Profiles of Public Sector Program
   Managers – ca.</strong><strong style=\"font-size: 1em; line-height: 1.5em;\">
-  2014</strong></span></h4>\r\n<p style=\"text-align: center;\"><span style=\"color:
-  #000000;\"><a href=\"https://challenge.platform5.challenge.gov/files/2014/02/horizontal-line.jpg\"><span
-  style=\"color: #000000;\"><img class=\"wp-image-4212 aligncenter\" src=\"https://challenge.platform5.challenge.gov/files/2014/02/horizontal-line-300x5.jpg\"
-  alt=\"horizontal line\" width=\"100%\" height=\"3\" /></span></a></span></p>\r\n<span
+  2014</strong></span></h4>\r\n<p style=\"text-align: center;\"></p>\r\n<span
   style=\"color: #000000;\">Program managers in the public sector are a diverse
   group.  They confront an extraordinary range of challenges in mission areas
   as diverse as regulatory compliance, basic research, service delivery, law enforcement,
   and military preparedness, to name just a few.  While many are unique to a particular
-  program mission, some challenges tend to be shared by all program managers.</span>\r\n\r\n<span
+  program mission, some challenges tend to be shared by all program managers.</span></p><p><span
   style=\"color: #000000;\">The following profiles offer a snapshot of the immediate
   challenges faced by four government program managers.  These challenges are
   defined in part by the tools and resources available to address them.  They
   are defined, as well, by current expectations of what government can and should
   do.  As expectations change, and as technology and workplace skills evolve,
-  the nature of these challenges will change as well.</span>\r\n\r\n<span style=\"color:
-  #000000;\"><strong>Profile 1 - regulatory compliance</strong></span>\r\n\r\n<span
+  the nature of these challenges will change as well.</span></p><p><span style=\"color:
+  #000000;\"><strong>Profile 1 - regulatory compliance</strong></span></p><p><span
   style=\"color: #000000;\">Trina is a program manager with a Federal Government
   regulatory agency.  She leads an office that writes policy, processes industry
   applications for licenses, and tracks routine industry reporting in support
@@ -233,8 +228,8 @@ how-to-enter: "<span style=\"color: #000000;\">Register and submit your entry
   agency’s compliance efforts are more effective than at any point in the past,
   Trina recognizes the need to develop more sophisticated approaches to keep up
   with a rapidly evolving industry and an increasingly complicated regulatory
-  environment.</span>\r\n\r\n<span style=\"color: #000000;\"><strong>Profile 2
-  - service delivery</strong></span>\r\n\r\n<span style=\"color: #000000;\">Henry
+  environment.</span></p><p><span style=\"color: #000000;\"><strong>Profile 2
+  - service delivery</strong></span></p><p><span style=\"color: #000000;\">Henry
   manages a program that benefits low income households.  Removing barriers to
   participation by eligible households is central to the program’s purpose.  At
   the same time the program is committed to eliminating payments to ineligible
@@ -245,8 +240,8 @@ how-to-enter: "<span style=\"color: #000000;\">Register and submit your entry
   Henry has challenged his staff and program partners to draw on their diversity
   of skills and perspectives to come up with ideas that advance both goals simultaneously
   so that 25 years from now the present tension between the two is replaced with
-  a relationship of positive and mutual reinforcement.  Welcome to the team!</span>\r\n\r\n<span
-  style=\"color: #000000;\"><strong>Profile 3 - grants management</strong></span>\r\n\r\n<span
+  a relationship of positive and mutual reinforcement.  Welcome to the team!</span></p><p><span
+  style=\"color: #000000;\"><strong>Profile 3 - grants management</strong></span></p><p><span
   style=\"color: #000000;\">Ty oversees an office that awards and administers
   grants to community-based social service organizations.  As part of an ongoing
   effort to maximize the agency’s return on investment, Ty’s office is awarding
@@ -257,8 +252,8 @@ how-to-enter: "<span style=\"color: #000000;\">Register and submit your entry
   models of service delivery may call for changes in the way that the office collects
   and analyzes program data.  Responding to these challenges is critical to ensuring
   that management of the grant-making process does not stand in the way of grantee-led
-  program innovation.</span>\r\n\r\n<span style=\"color: #000000;\"><strong>Profile
-  4 - law enforcement</strong></span>\r\n\r\n<span style=\"color: #000000;\">Sami
+  program innovation.</span></p><p><span style=\"color: #000000;\"><strong>Profile
+  4 - law enforcement</strong></span></p><p><span style=\"color: #000000;\">Sami
   was recently hired by her city’s chief of police to review the organization’s
   case prioritization approach.  She is faced with the dilemma of meeting higher
   expectations for successful criminal prosecution/crime reduction/agility in
@@ -268,7 +263,7 @@ how-to-enter: "<span style=\"color: #000000;\">Register and submit your entry
   enforcement agencies to learn what they are doing that she may be able to replicate
   but she also believes that new, innovative approaches are necessary to meet
   expectations in the long run.  She is actually more concerned about internal
-  resistance to trying new approaches than she is about anything else.</span>"
+  resistance to trying new approaches than she is about anything else.</span></p>"
 partnerships: ''
 groupAttributes:
 judging-criteria-description-0: Judges will award up to 35 points for originality.  An
@@ -454,57 +449,49 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: '<span style="line-height: 1.5em;">  <script src="//player.ooyala.com/v3/ODg2OGUwNDhhYWQ5NGVkMjZkYzU3MTg5"></script></span>    <div
-  id="ooyalaplayer" style="width: 450px; height: 270px;"></div>    <script>// <![CDATA[  OO.ready(function()
-  { OO.Player.create(''ooyalaplayer'', ''Z5ajRzbTqa_OD1XZHAvfDssfzO9iJyRC''); });  //
-  ]]></script>    <noscript>  <div>Please enable Javascript to watch this video</div>  </noscript>    Planning,
+description: '<p>Planning,
   project management, financial management, employee engagement, and reporting are
   among the key responsibilities of today’s public sector program managers. The approach
   to each of these and so many others is defined, in part, by the state of existing
   technology, access to data, and the ability of a skilled workforce to take full
-  advantage of those resources.  Today’s tools and resources both enable and limit
+  advantage of those resources.</p><p>Today’s tools and resources both enable and limit
   program managers’ ability to deliver the best service to the public, efficiently
   and within budget, while adjusting to changes in political direction and mission
-  focus.  You understand the critical importance of communication and information
+  focus.</p><p>You understand the critical importance of communication and information
   processing technology, the value of quality and timely data, and the cost of recruiting,
-  training, and retaining top quality talent.  And you can help shape the conversation
+  training, and retaining top quality talent.</p><p>And you can help shape the conversation
   about the coming direction of public sector program management.    How will the
   work of public sector program managers change over the next 25 years?  How <em>should</em> it
-  change?  How <em>can</em> it change with thoughtful steering?  <p style="text-align:
-  left;"><em><strong style="font-size: 1em;">The Performance Improvement Council wants
-  to hear from you.  Look ahead 25 years and let us know what you see.</strong></em></p>    <h4>GUIDELINES</h4>  <a
-  href="https://challenge.platform5.challenge.gov/files/2014/02/horizontal-line.jpg"><img
-  src="https://challenge.platform5.challenge.gov/files/2014/02/horizontal-line-300x5.jpg"
-  alt="horizontal line" width="100%" height="3" /></a>    Y<span style="line-height:
-  1.5em;">our entry should describe where you think the field of public sector program
+  change?  How <em>can</em> it change with thoughtful steering?</p><p>The Performance Improvement Council wants
+  to hear from you.  Look ahead 25 years and let us know what you see.</strong></em></p>    
+  <h4>GUIDELINES</h4><p>Your entry should describe where you think the field of public sector program
   management will be in 25 years.  You may choose to illustrate your vision with a
   scenario that reaches ahead to the year 2039.  Or you may describe your vision in
-  more general terms.  Either way, use your foresight and be creative.  Note that
+  more general terms.  Either way, use your foresight and be creative.</p><p>Note that
   today’s kindergartners will be well on their way to established careers in business
   and government in 25 years.  And today’s teenagers will be moving into positions
-  of senior leadership, reshaping the way the world does business.</span>    Although
+  of senior leadership, reshaping the way the world does business.  Although
   you should consider how advances in technology and the skill set of a new generation
   will drive the development of public sector program management, your entry need
   not address any particular issue or question.  Imagine how the work of government
   program managers will evolve, and describe what you see.  We’re interested in <i>your</i>
-  vision.    The appendix at the bottom of this page contains brief profiles of four
+  vision.</p><p>The appendix at the bottom of this page contains brief profiles of four
   government program managers and some of the challenges they faced in 2014.  These
   profiles are an entirely optional resource for your benefit.  Use them if you find
-  them helpful in focusing your thoughts, but do not let them limit your creativity.
+  them helpful in focusing your thoughts, but do not let them limit your creativity.</p><p>
    <em>Your entry need not refer to any of the themes discussed in these profiles</em>.    <a
   href="https://challenge.platform5.challenge.gov/files/2014/02/SAMPLE-SUBMISSION-STARTERS.docx">As
-  a starter, you may click here to get ideas for your submission. </a>  <h4><span
+  a starter, you may click here to get ideas for your submission. </a></p>  <h4><span
   style="font-size: 1em; line-height: 1.5em;">AFTER THE CHALLENGE - WHAT''S NEXT?</span><span
-  style="font-size: 1em; line-height: 1.5em;">  </span></h4>  <a href="https://challenge.platform5.challenge.gov/files/2014/02/horizontal-line.jpg"><img
-  src="https://challenge.platform5.challenge.gov/files/2014/02/horizontal-line-300x5.jpg"
-  alt="horizontal line" width="100%" height="3" /></a>    The General Services Administration
+  style="font-size: 1em; line-height: 1.5em;">  </span>
+  </h4><p>The General Services Administration
   (GSA) and the Performance Improvement Council expect this challenge to kick off
   an ongoing dialog about current trends and challenges in public sector program management,
   what tomorrow promises, and how today’s managers can position themselves and their
   organizations for future success.  GSA will feature winning entries on both the
   challenge homepage and on the GSA website.  GSA will also invite contest winners
   to participate in a moderated and recorded Google Hangout conversation, and may
-  highlight ideas from one or more winning entries in a follow-up contest.'
+  highlight ideas from one or more winning entries in a follow-up contest.</p>'
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []

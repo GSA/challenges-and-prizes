@@ -71,26 +71,26 @@ partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''
-rules: '<span style="text-decoration: underline;">Proposal Acceptance Period:</span>
+rules: '<p>Proposal Acceptance Period:
   Proposals will be accepted beginning at 1:00 AM EDT February 26, 2014 through
   11:59 PM EDT April 15, 2014 (“Proposal Acceptance Period”).  All entries must
-  be received by the end of the Proposal Acceptance Period.    <span style="text-decoration:
-  underline;">Eligibility:</span> This Challenge is open to community-based organizations,
+  be received by the end of the Proposal Acceptance Period.</p>
+  <p>Eligibility: This Challenge is open to community-based organizations,
   schools (private/public, elementary-college/university), non-profit organizations,
   faith-based institutions, philantropic organizations, local government, and
-  small businesses within the continental U.S. and territories of the U.S.    <span
-  style="text-decoration: underline;">Number of Entries:</span> One entry may
+  small businesses within the continental U.S. and territories of the U.S.</p>
+  <p>Number of Entries: One entry may
   be submitted per proposal/idea, but there are no limits to the number of ideas
   that one proposer or group of proposers may submit.  However, if multiple versions
   of the same proposal/idea are submitted, the Initiative reserves the right to
-  read only one proposal and will not consider the other submissions.    <span
-  style="text-decoration: underline;">Word limits:</span> Please use the linked <a
+  read only one proposal and will not consider the other submissions.</p>
+  <p>Word limits: Please use the linked <a
   title="submission form" href="https://docs.google.com/forms/d/1aJvcq1FL6WyTevveOxfh1oTop3Hst1bhyyF40_uyK3U/viewform"
   target="_blank">submission form</a> and adhere to the word limits for each section
   (no more than 300 words in description sections). The three prompts to address
   are:  (1) Interest in the AAPI Community; (2) Proposed scope of work; and (3)
-  Why partner with the WHIAAPI on this work?    <span style="text-decoration:
-  underline;">Finalist Selection and Notification:</span> Proposals will be reviewed
+  Why partner with the WHIAAPI on this work?</p>
+  <p>Finalist Selection and Notification: Proposals will be reviewed
   by a panel of reviewers, consisting of Initiative staff. The decisions of the
   panel on all matters relating to the Challenge are final. The Initiative reserves
   the right to refuse any proposals that do not adhere to the rules or that would
@@ -98,7 +98,7 @@ rules: '<span style="text-decoration: underline;">Proposal Acceptance Period:</s
   Department of Education or the Initiative. The proposal review panel will select
   the best proposed ideas and may recognize those ideas through the Initiative’s
   communication channels (e.g. websites, blogs, emails, etc.) beginning on April
-  2014.'
+  2014.</p>'
 submission-start-date-1: ''
 hide-challenge-timeline: 'No'
 judging-start-date: ''
@@ -114,28 +114,28 @@ hide-challenge-funnel: 'Yes'
 type-of-challenge: Ideas
 participation-requirements: ''
 number-of-phases: ''
-how-to-enter: "Please adhere to the rules and use the linked <a title=\"submission
+how-to-enter: "<p>Please adhere to the rules and use the linked <a title=\"submission
   form\" href=\"https://docs.google.com/forms/d/1aJvcq1FL6WyTevveOxfh1oTop3Hst1bhyyF40_uyK3U/viewform\"
-  target=\"_blank\">submission form</a> to submit one entry per idea.\r\n\r\n<strong>Rules</strong>\r\n\r\n<span
+  target=\"_blank\">submission form</a> to submit one entry per idea.</p><p><strong>Rules</strong></p><p><span
   style=\"text-decoration: underline;\">Proposal Acceptance Period:</span> Proposals
   will be accepted beginning at 1:00 AM EDT February 26, 2014 through 11:59 PM
-  EDT April 15, 2014 (“Proposal Acceptance Period”).  All entries must be received
-  by the end of the Proposal Acceptance Period.\r\n\r\n<span style=\"text-decoration:
+  EDT April 15, 2014 (“Proposal Acceptance Period”).</p><p>All entries must be received
+  by the end of the Proposal Acceptance Period.</p><p><span style=\"text-decoration:
   underline;\">Eligibility:</span> This Challenge is open to community-based organizations,
   schools (private/public, elementary-college/university), non-profit organizations,
   faith-based institutions, philantropic organizations, local government, and
-  small businesses within the continental U.S. and territories of the U.S.\r\n\r\n<span
+  small businesses within the continental U.S. and territories of the U.S.</p><p><span
   style=\"text-decoration: underline;\">Number of Entries:</span> One entry may
   be submitted per proposal/idea, but there are no limits to the number of ideas
   that one proposer or group of proposers may submit.  However, if multiple versions
   of the same proposal/idea are submitted, the Initiative reserves the right to
-  read only one proposal and will not consider the other submissions.\r\n\r\n<span
+  read only one proposal and will not consider the other submissions.</p><p><span
   style=\"text-decoration: underline;\">Word limits:</span> Please use the linked <a
   title=\"submission form\" href=\"https://docs.google.com/forms/d/1aJvcq1FL6WyTevveOxfh1oTop3Hst1bhyyF40_uyK3U/viewform\"
   target=\"_blank\">submission form</a> and adhere to the word limits for each
   section (no more than 300 words in description sections). The three prompts
   to address are:  (1) Interest in the AAPI Community; (2) Proposed scope of work;
-  and (3) Why partner with the WHIAAPI on this work?\r\n\r\n<span style=\"text-decoration:
+  and (3) Why partner with the WHIAAPI on this work?</p><p><span style=\"text-decoration:
   underline;\">Finalist Selection and Notification:</span> Proposals will be reviewed
   by a panel of reviewers, consisting of Initiative staff. The decisions of the
   panel on all matters relating to the Challenge are final. The Initiative reserves
@@ -144,7 +144,7 @@ how-to-enter: "Please adhere to the rules and use the linked <a title=\"submissi
   Department of Education or the Initiative. The proposal review panel will select
   the best proposed ideas and may recognize those ideas through the Initiative’s
   communication channels (e.g. websites, blogs, emails, etc.) beginning on April
-  2014."
+  2014.</p>"
 partnerships: ''
 groupAttributes:
 judging-criteria-description-0: Articulate plan’s potential impact to engage and
@@ -319,32 +319,32 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: 'http://www.youtube.com/watch?v=ffIHSjlKyto&amp;feature=share&amp;t=8m4s    This
+description: '<p>This
   challenge seeks ideas for how you would partner with the federal government to make
   a meaningful impact on the Asian American and Pacific Islander (AAPI) community.
   Proposals may include innovation, enhanced infrastructure, or a solution for a hot
   topic issue to achieve effective outcomes during a focused amount of time (e.g.
   one year) on a project of choice. The White House Initiative on AAPIs is calling
   for submissions on great ideas to work in partnership with the federal government
-  to expand opportunities for the AAPI community.    View our <a title="National AAPI
+  to expand opportunities for the AAPI community.</p><p>View our <a title="National AAPI
   Community Google+ Hangout link" href="http://www.youtube.com/watch?v=ffIHSjlKyto&amp;feature=c4-overview&amp;list=UUBDnqUbZI2JstkwiTqqJguA"
-  target="_blank">National AAPI Community Google+ Hangout</a> for the announcement
-  about this Challenge.    <span style="line-height: 1.5em;">America is home to 18.2
+  target="_blank">National AAPI Community Google+ Hangout</a>for the announcement
+  about this Challenge.</p><p>    <span style="line-height: 1.5em;">America is home to 18.2
   million Asian Americans and Pacific Islanders (AAPIs) who are part of diverse communities
   with diverse needs. They speak numerous languages, represent several cultures, and
-  all are part of America.  It’s a time of extraordinary growth for the AAPI community.
+  all are part of America.</p><p>It’s a time of extraordinary growth for the AAPI community.
   The AAPI population is on the rise in every region of the country. In fact, the
   population has increased by nearly 50% in just 10 years. The White House Initiative
   on Asian Americans and Pacific Islanders (WHIAAPI or Initiative) is working with
   local leaders to provide the necessary tools for communities to keep up with this
   growth. WHIAAPI is also helping AAPIs realize the potential of an America built
   through shared prosperity and equal opportunity. We’re helping to build new government
-  connections with the AAPI community on national and regional levels.  At the heart
+  connections with the AAPI community on national and regional levels. </p><p>At the heart
   of this work is the desire for AAPIs to work across cultures and sectors to establish
   effective local services, and ultimately achieve prosperity nationwide.</span>    <i>Expanding
   Opportunity for AAPIs: WHIAAPI Proposal Challenge</i> is based on these principals
   and seeks to generate fresh ideas to expand the mission and work of the Initiative
-  through ideas for potential partnerships.    Over the past three years, the Initiative
+  through ideas for potential partnerships.</p><p>Over the past three years, the Initiative
   has connected with diverse AAPI communities across the country. The Initiative has
   hosted more than 200 roundtables, stakeholder meetings and summits in 25 states,
   the District of Columbia and the Pacific Islands, reaching more than 30,000 individuals.
@@ -354,7 +354,7 @@ description: 'http://www.youtube.com/watch?v=ffIHSjlKyto&amp;feature=share&amp;t
   AAPI communities and federal agencies working together to address unique health,
   education, civil rights, economic and community development issues and cross-cutting
   policy areas including language access, data disaggregation, workforce diversity,
-  and capacity building.    <span style="line-height: 1.5em;">The Initiative’s work
+  and capacity building.</p><p><span style="line-height: 1.5em;">The Initiative’s work
   has thrived on past partnerships with community-based organizations (CBOs) to implement
   Executive Order 13515, which reestablished the Initiative on October 14, 2009. Some
   examples of this collaborative work include:</span>  <ul>   <li>Parterning with
@@ -366,13 +366,12 @@ description: 'http://www.youtube.com/watch?v=ffIHSjlKyto&amp;feature=share&amp;t
   CBOs;</li>   <li>Connecting with other Federal Agencies to provide technical assistance
   webinars on <a title="AANAPISI video link" href="http://www.youtube.com/watch?v=ZNeOn7Yb4ZQ&amp;list=UUBDnqUbZI2JstkwiTqqJguA&amp;feature=c4-overview"
   target="_blank">Asian American Native American Pacific Islander Serving Institutions
-  (AANAPISI)</a>; and</li>   <li>Establishing a mentorship series for young professionals.</li>  </ul>  The
-  success of past partnerships has encouraged the Initiative to seek <b>new partnerships.</b> The
+  (AANAPISI)</a>; and</li>   <li>Establishing a mentorship series for young professionals.</li>  </ul></p><p> The success of past partnerships has encouraged the Initiative to seek <b>new partnerships.</b> The
   Initiative invites proposals from <em>entities who have never partnered with the
   Initiative</em>, as well as <em>existing partners that have new proposals.</em> 
   These new partnerships will thrive on  the innovations proposed by the partner while
   also maintaining a focus on the Initiative’s current work on issues such as: immigration,
-  health, health care, education, and workforce development.'
+  health, health care, education, and workforce development.</p>'
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
