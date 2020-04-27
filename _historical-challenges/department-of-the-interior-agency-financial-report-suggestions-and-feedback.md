@@ -11,7 +11,7 @@ funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
 tagline: Do you have improvements or suggestions to make the Department of the Interior
   Agency Financial Report more beneficial?
-groupName: Department of the Interior - Department-Wide Programs
+groupName: Department of the Interior 
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:

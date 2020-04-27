@@ -12,7 +12,7 @@ ideaFromUnauthorizedMemberAllowed: true
 tagline: The Desal Prize call for innovations is now open, and you could win up to
   $400K for your affordable, energy-efficient brackish water desalination technologies
   to be used in developing countries!
-groupName: International Assistance Programs - Agency for International Dev
+groupName: International Assistance Programs - Agency for International Development
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
