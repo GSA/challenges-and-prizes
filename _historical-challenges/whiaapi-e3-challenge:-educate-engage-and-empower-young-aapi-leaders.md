@@ -1,21 +1,21 @@
 ---
 ideaSubmitFormInstruction: 'To ensure that your application is considered, please
-  submit responses to the following by August 27, 2014:    <b><i>Applicant Information:</i>  </b>  •
-  Name  • Email  • Phone number  • Address indicating whether it’s your school, work,
+  submit responses to the following by August 27, 2014:    <b><i>Applicant Information:</i>  </b>  <br>•
+  Name  <br>• Email  <br>• Phone number  <br>• Address indicating whether it’s your school, work,
   or home address.    <i><b> Essay Question:</b></i>    Please craft an original,
   innovative plan to increase outreach and awareness within your campus or community
   around the following four issue areas: education, mental health, pathways to public
-  service, and Deferred Action for Childhood Arrivals (DACA). Proposals should:  •
+  service, and Deferred Action for Childhood Arrivals (DACA). Proposals should:  <br>•
   Mention why you are interested in this Challenge and what about your background
-  makes you particularly qualified to address the aforementioned issue areas.  • Include
-  measurable goals and benchmarks.  • Demonstrate the use of marketing techniques
-  such as print/social media, etc.  • Provide a foundation upon which future E3! Ambassadors
+  makes you particularly qualified to address the aforementioned issue areas.  <br>• Include
+  measurable goals and benchmarks.  <br>• Demonstrate the use of marketing techniques
+  such as print/social media, etc.  <br>• Provide a foundation upon which future E3! Ambassadors
   can build.    Note: We are looking for applicants who are succinct and able to concisely
   outline their ideas. Given the time constraints for the E3! Ambassadors selection
   process, we may not be able to consider any application that provides responses
   that exceed 750 words.    <span style="font-size: medium;"><b><span style="text-decoration:
-  underline;">Submissions</span></b></span>    • Email attachment to WhiteHouseAAPI@ed.gov
-  with subject line “E3! Program Application” <b>OR</b>  • Mail a hard copy to the
+  underline;">Submissions</span></b></span>    <br>• Email attachment to WhiteHouseAAPI@ed.gov
+  with subject line “E3! Program Application” <b>OR</b>  <br>• Mail a hard copy to the
   following address:    White House Initiative on Asian Americans and Pacific Islanders  RE:
   E3! Program Application  550 12th Street SW  Washington, DC 20202'
 startDate: '2014-07-22T00:00:00'
@@ -62,16 +62,16 @@ partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''
-rules: 'By submitting an application to this Challenge, the applicant agrees to
-  adhere to the application guidelines below.    &nbsp;    <span style="text-decoration:
+rules: '<p>By submitting an application to this Challenge, the applicant agrees to
+  adhere to the application guidelines below.</p>    <p><span style="text-decoration:
   underline;"><b>Guidelines</b></span>  <span style="text-decoration: underline;"><b>Encouraged
-  Participants</b></span>    &nbsp;    &nbsp;    • WHIAAPI invites individuals
+  Participants</b></span>    &nbsp;    &nbsp;    <br>• WHIAAPI invites individuals
   between the years of 18 to 30 years old at the time of application, and who
-  reside within the continental U.S. or territories of the U.S., to apply.  •
+  reside within the continental U.S. or territories of the U.S., to apply.  <br>•
   No more than 15 applicants will be selected per federal region (see Regional
-  Map).  • Federal employees are ineligible to apply.    <span style="text-decoration:
-  underline;">Where to submit:</span> Please submit your application via  • Email
-  to whitehouseaapi@ed.gov with subject line “E3! Program Application” or  • Hard
+  Map).  <br>• Federal employees are ineligible to apply.    <span style="text-decoration:
+  underline;">Where to submit:</span> Please submit your application via  <br>• Email
+  to whitehouseaapi@ed.gov with subject line “E3! Program Application” or  <br>• Hard
   copy to the following address:  White House Initiative on Asian Americans and
   Pacific Islanders  RE: E3! Program Application  550 12th Street SW  Washington,
   DC 20202  Note: We are looking for applicants who are succinct and able to concisely
@@ -87,24 +87,24 @@ rules: 'By submitting an application to this Challenge, the applicant agrees to
   print, audiotape, or compact disc) by contacting the WHIAAPI office at (202)
   245-6021. If you use a telecommunications device for the deaf (TDD) or a text
   telephone (TTY), and need other assistance please call the Federal Relay Service
-  (FRS), toll free, at 1-800-877-8339, which can connect you with WHIAAPI.    <span
+  (FRS), toll free, at 1-800-877-8339, which can connect you with WHIAAPI.    </p><p><span
   style="text-decoration: underline;">Proposal Acceptance Period:</span> Proposals
   will be accepted beginning on July 17, 2014 through August 27, 2014 (“Proposal
   Acceptance Period”). All entries must be received by the end of the Proposal
-  Acceptance Period.    • <span style="text-decoration: underline;">Encouraged
+  Acceptance Period.    <br>• <span style="text-decoration: underline;">Encouraged
   Applicants:</span> WHIAAPI invites individuals between the years of 18 to 30
   years old at the time of application, and who reside within the continental
-  U.S. or territories of the U.S., to apply.  • No more than 15 applicants will
-  be selected per federal region (see Regional Map).  • Federal employees are
-  ineligible to apply.    <span style="text-decoration: underline;">Number of
-  Entries:</span> One entry may be submitted per applicant.    <span style="text-decoration:
+  U.S. or territories of the U.S., to apply.  <br>• No more than 15 applicants will
+  be selected per federal region (see Regional Map).  <br>• Federal employees are
+  ineligible to apply. </p><p><span style="text-decoration: underline;">Number of
+  Entries:</span> One entry may be submitted per applicant.    </p><p><span style="text-decoration:
   underline;">Finalist Selection and Notification:</span> Applications will be
   reviewed by a panel of reviewers, consisting of Initiative staff. The decisions
   of the panel on all matters relating to the Challenge are final. The Initiative
   will not consider any application that does not adhere to these guidelines or
   proposes a plan that would result in a violation of Federal law, regulation,
   or the policies of the U.S. Department of Education (ED) or the Initiative.
-  Selected applicants will be notified via email.    <span style="text-decoration:
+  Selected applicants will be notified via email.    </p><p><span style="text-decoration:
   underline;">Copyright/Original Work:</span> Each applicant represents and warrants
   that he or she is the sole author and owner of the application submission for
   the Challenge (Submission); that the Submission is wholly original with the
@@ -112,7 +112,7 @@ rules: 'By submitting an application to this Challenge, the applicant agrees to
   has sufficient rights to use and to authorize others (including ED) to use);
   and that the Submission does not infringe any copyright or any other rights
   of any third party of which the applicant is aware. Each applicant also warrants
-  that the application is free of malware.    <span style="text-decoration: underline;">Intellectual
+  that the application is free of malware.    </p><p><span style="text-decoration: underline;">Intellectual
   Property Rights:</span> By providing a Submission to ED, each applicant grants
   to ED an irrevocable, paid-up, royalty-free, non-exclusive worldwide license
   to use, copy, distribute to the public, create derivative works from, link to,
@@ -125,7 +125,7 @@ rules: 'By submitting an application to this Challenge, the applicant agrees to
   for a period of one year starting on the date of the announcement of accepted
   applicants. Applicant also agrees to allow ED to use his or her name and other
   submitted information (i.e., address) in any news report, media release, or
-  documentation issued by ED (or its designee) related to this Challenge.    <span
+  documentation issued by ED (or its designee) related to this Challenge.    </p><p><span
   style="text-decoration: underline;">Limitation of Liability:</span> By submitting
   an entry for the Challenge, all applicants agree to, and thereby do, release,
   discharge, and hold harmless the Government and its employees, agents, contractors,
@@ -143,7 +143,7 @@ rules: 'By submitting an application to this Challenge, the applicant agrees to
   or claims for loss of or damage to property (including any damage that may result
   from a virus or malware to the government’s computer systems or those of the
   end-users of the software and/or applications), resulting from the fault, negligence,
-  or wrongful act or omission of the applicant.    <span style="text-decoration:
+  or wrongful act or omission of the applicant.    </p><p><span style="text-decoration:
   underline;">Privacy Policy:</span> Participation in the Challenge constitutes
   the applicant’s consent to the use by ED (and its agents and contractors) of
   the applicant’s name, likeness, photograph, voice, opinions, and contact information
@@ -160,7 +160,7 @@ rules: 'By submitting an application to this Challenge, the applicant agrees to
   or implementing the Challenge. Individually identifiable information provided
   to ED by submitting an application to this Challenge will not be used for any
   purpose that is unrelated to the submission and/or administering or implementing
-  the Challenge, unless such a use is required by law.'
+  the Challenge, unless such a use is required by law.</p>'
 submission-start-date-1: ''
 hide-challenge-timeline: 'No'
 judging-start-date: ''
@@ -177,23 +177,23 @@ type-of-challenge: Ideas
 participation-requirements: ''
 number-of-phases: ''
 how-to-enter: "To ensure that your application is considered, please submit responses
-  to the following by August 27, 2014:\r\n\r\n<b><i>Applicant Information:</i>\r\n</b>\r\n•
-  Name\r\n• Email\r\n• Phone number\r\n• Address indicating whether it’s your
+  to the following by August 27, 2014:\r\n\r\n<b><i>Applicant Information:</i>\r\n</b>\r\n<br>•
+  Name\r\n<br>• Email\r\n<br>• Phone number\r\n<br>• Address indicating whether it’s your
   school, work, or home address.\r\n\r\n<i><b> Essay Question:</b></i>\r\n\r\nPlease
   craft an original, innovative plan to increase outreach and awareness within
   your campus or community around the following four issue areas: education, mental
   health, pathways to public service, and Deferred Action for Childhood Arrivals
-  (DACA). Proposals should:\r\n• Mention why you are interested in this Challenge
+  (DACA). Proposals should:\r\n<br>• Mention why you are interested in this Challenge
   and what about your background makes you particularly qualified to address the
-  aforementioned issue areas.\r\n• Include measurable goals and benchmarks.\r\n•
-  Demonstrate the use of marketing techniques such as print/social media, etc.\r\n•
+  aforementioned issue areas.\r\n<br>• Include measurable goals and benchmarks.\r\n<br>•
+  Demonstrate the use of marketing techniques such as print/social media, etc.\r\n<br>•
   Provide a foundation upon which future E3! Ambassadors can build.\r\n\r\nNote:
   We are looking for applicants who are succinct and able to concisely outline
   their ideas. Given the time constraints for the E3! Ambassadors selection process,
   we may not be able to consider any application that provides responses that
   exceed 750 words.\r\n\r\n<span style=\"font-size: medium;\"><b><span style=\"text-decoration:
-  underline;\">Submissions</span></b></span>\r\n\r\n• Email attachment to WhiteHouseAAPI@ed.gov
-  with subject line “E3! Program Application” <b>OR</b>\r\n• Mail a hard copy
+  underline;\">Submissions</span></b></span>\r\n\r\n<br>• Email attachment to WhiteHouseAAPI@ed.gov
+  with subject line “E3! Program Application” <b>OR</b>\r\n<br>• Mail a hard copy
   to the following address:\r\n\r\nWhite House Initiative on Asian Americans and
   Pacific Islanders\r\nRE: E3! Program Application\r\n550 12th Street SW\r\nWashington,
   DC 20202"
@@ -259,14 +259,14 @@ judging-criteria-8: ''
 judging-criteria-description-9: ''
 judging-criteria-percentage-9: ''
 judging-criteria-9: ''
-prize-description-0: "• Up to 150 E3! Ambassadors will be selected (15 from each
+prize-description-0: "<br>• Up to 150 E3! Ambassadors will be selected (15 from each
   federal region) and serve for one academic year from September 1, 2014 through
-  May 31, 2015. For a list of the federal regions, see Eligibility.  • The E3!
-  Program (Challenge) is non-monetary.  • Selected E3! Ambassadors will be announced
-  in a White House blog in August 2014.  • Selected E3! Ambassadors will be invited
+  May 31, 2015. For a list of the federal regions, see Eligibility.  <br>• The E3!
+  Program (Challenge) is non-monetary.  <br>• Selected E3! Ambassadors will be announced
+  in a White House blog in August 2014.  <br>• Selected E3! Ambassadors will be invited
   to convene in-person in Washington, DC at least once (dependent on available
-  funding).  • E3! Ambassadors will receive a congratulatory letter from WHIAAPI
-  Executive Director, Kiran Ahuja.  • E3! Ambassadors will have the opportunity
+  funding).  <br>• E3! Ambassadors will receive a congratulatory letter from WHIAAPI
+  Executive Director, Kiran Ahuja.  <br>• E3! Ambassadors will have the opportunity
   to work collaboratively with WHIAAPI staff, members of the President’s Advisory
   Commission on AAPIs, and Regional Interagency Working Group, as well as other
   Administration officials."
@@ -368,17 +368,17 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: 'Last summer 2013, the White House Initiative on Asian Americans and
+description: '<p>Last summer 2013, the White House Initiative on Asian Americans and
   Pacific Islanders (WHIAAPI) launched the <a href="http://www.ed.gov/edblogs/aapi/issue-areas/the-affordable-care-act/hey/">Healthy
   Engaged Youth (HEY!) Program,</a> encouraging young AAPI leaders to become Ambassadors
   by conducting outreach around the Affordable Care Act <a href="https://www.healthcare.gov/">(ACA)</a>
-  within their campuses and communities. This summer 2014, WHIAAPI is launching the
+  within their campuses and communities.</p><p> This summer 2014, WHIAAPI is launching the
   E3! Program in order to “Educate, Engage, and Empower” young leaders to increase
   awareness and outreach around the following four issue areas: <b><a href="http://www.ed.gov/edblogs/aapi/education/">education,</a>
   <a href="http://www.ed.gov/edblogs/aapi/health/behavioral-health-and-aapis/">mental
   health,</a> <a href="http://www.ed.gov/edblogs/aapi/workforce-diversity/">pathways
   to public service,</a> </b> and <b><a href="http://www.ed.gov/edblogs/aapi/immigration/">Deferred
-  Action for Childhood Arrivals (DACA)</a>.</b>    The mission of the WHIAAPI E3!
+  Action for Childhood Arrivals (DACA)</a>.</b>    </p><p>The mission of the WHIAAPI E3!
   Ambassador Program is to Educate, Engage, and Empower young leaders to increase
   awareness around critical issues facing the AAPI community and to highlight key
   federal programs and resources in which AAPIs may be underserved. Selected E3! Ambassadors
@@ -386,14 +386,9 @@ description: 'Last summer 2013, the White House Initiative on Asian Americans an
   it’s setting up a table to share resources at a campus fair, facilitating a workshop
   during a conference, or even utilizing social media – with the goal of improving
   the quality of life and opportunity for young AAPIs. You can read more about these
-  issue areas and questions to consider <a href="http://www.ed.gov/edblogs/aapi/e3-issue-areas/">here</a>.    &nbsp;    For
-  more information about the four focus areas, please look at the following toolkits:.<a
-  href="https://challenge.platform5.challenge.gov/files/2014/07/E3-TOOLKIT-Education.pdf">Education</a>,
-  <a href="https://challenge.platform5.challenge.gov/files/2014/07/E3-TOOLKIT-Mental-Health.pdf">Mental
-  Health</a>, and <a href="https://challenge.platform5.challenge.gov/files/2014/07/E3-TOOLKIT-Pathways-to-Public-Service.pdf">Pathways
-  to Public Service</a>.    &nbsp;    <iframe class="aligncenter" src="//www.youtube.com/embed/TltYlZcEjMI"
-  width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>    <span
-  style="font-size: medium;"><b><span style="text-decoration: underline;">Eligibility</span></b></span>    &nbsp;    WHIAAPI
+  issue areas and questions to consider <a href="http://www.ed.gov/edblogs/aapi/e3-issue-areas/">here</a>.<br>    &nbsp; <br>  <iframe class="aligncenter" src="//www.youtube.com/embed/TltYlZcEjMI"
+  width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe><p>    
+  <span style="font-size: medium;"><b><span style="text-decoration: underline;">Eligibility</span></b></span>    &nbsp;    WHIAAPI
   invites individuals between the ages of 18 to 30 years old at the time of application,
   and who reside within the U.S. or territories of the U.S., to apply. Federal employees
   are ineligible to apply.    E3! Ambassadors are encouraged to commit at least 10-20
@@ -402,42 +397,40 @@ description: 'Last summer 2013, the White House Initiative on Asian Americans an
   E3! Ambassadors will be expected to participate in conference call check-ins every
   other month and will be responsible for coordinating with relevant staff members
   during their tenure as E3! Ambassadors. They should also expect to report back on
-  their progress before/during the check-ins.    No more than 15 applicants will be
-  selected per federal region:    <a href="https://challenge.platform5.challenge.gov/files/2014/07/rsz_basic_riwg_map1.png"><img
-  class="aligncenter size-large wp-image-6022" src="https://challenge.platform5.challenge.gov/files/2014/07/rsz_basic_riwg_map1-1024x667.png"
-  alt="rsz_basic_riwg_map" width="512" height="333" /></a>    Region 1: Maine, New
-  Hampshire, Massachusetts, Connecticut, Rhode Island, Vermont  Region 2: New York,
-  New Jersey, Puerto Rico, Virgin Islands  Region 3: Pennsylvania, Delaware, Maryland,
-  Virginia, West Virginia, DC  Region 4: Kentucky, Tennessee, North Carolina, South
-  Carolina, Georgia, Alabama, Mississippi, Florida  Region 5: Ohio, Michigan, Indiana,
-  Illinois, Wisconsin, Minnesota  Region 6: Oklahoma, New Mexico, Arkansas, Louisiana,
-  Texas  Region 7: Kansas, Nebraska, Missouri, and Iowa  Region 8: Colorado, Utah,
-  Wyoming, Montana, North Dakota, and South Dakota  Region 9: California, Nevada,
-  Arizona, Hawaii, Pacific Islands  Region 10: Alaska, Washington, Oregon, Idaho    &nbsp;    <span
-  style="font-size: medium;"><b><span style="text-decoration: underline;">Timeline*</span></b></span>    &nbsp;    &nbsp;    •
-  <b>July 17, 2014</b> – E3! Program launched at White House AAPI Youth Forum  • <b>August
-  17, 2014</b> – Application Deadline  • <b>August 2014 – E3!</b> Ambassadors Announced
-  in White House Blog  • <b>September 2014 – E3!</b> Ambassadors Convening in Washington,
-  DC (dependent on available funding)  • <b>September-October 2014 – </b> Back to
-  School Events and Focus on Education  • <b>November-December 2014 – </b> Focus on
-  Mental Health  • <b>January-February 2015 – </b> Focus on Pathways to Public Service  •
-  <b>March-April 2015 – </b> Focus on DACA  • <b>May 2015:</b> E3! Ambassadors Convening
+  their progress before/during the check-ins.    </p><p>No more than 15 applicants will be
+  selected per federal region:</p><p> Region 1: Maine, New
+  Hampshire, Massachusetts, Connecticut, Rhode Island, Vermont  <br>Region 2: New York,
+  New Jersey, Puerto Rico, Virgin Islands  <br>Region 3: Pennsylvania, Delaware, Maryland,
+  Virginia, West Virginia, DC  <br>Region 4: Kentucky, Tennessee, North Carolina, South
+  Carolina, Georgia, Alabama, Mississippi, Florida  <br>Region 5: Ohio, Michigan, Indiana,
+  Illinois, Wisconsin, Minnesota  <br>Region 6: Oklahoma, New Mexico, Arkansas, Louisiana,
+  Texas  <br>Region 7: Kansas, Nebraska, Missouri, and Iowa  <br>Region 8: Colorado, Utah,
+  Wyoming, Montana, North Dakota, and South Dakota  <br>Region 9: California, Nevada,
+  Arizona, Hawaii, Pacific Islands  <br>Region 10: Alaska, Washington, Oregon, Idaho </p>   &nbsp;    <span
+  style="font-size: medium;"><p><b><span style="text-decoration: underline;">Timeline*</span></b></span>    &nbsp;    &nbsp;    <br>•
+  <b>July 17, 2014</b> – E3! Program launched at White House AAPI Youth Forum  <br>• <b>August
+  17, 2014</b> – Application Deadline  <br>• <b>August 2014 – E3!</b> Ambassadors Announced
+  in White House Blog  <br>• <b>September 2014 – E3!</b> Ambassadors Convening in Washington,
+  DC (dependent on available funding)  <br>• <b>September-October 2014 – </b> Back to
+  School Events and Focus on Education  <br>• <b>November-December 2014 – </b> Focus on
+  Mental Health  <br>• <b>January-February 2015 – </b> Focus on Pathways to Public Service  <br>•
+  <b>March-April 2015 – </b> Focus on DACA  <br>• <b>May 2015:</b> E3! Ambassadors Convening
   during AAPI Heritage Month in Washington, DC (dependent on available funding)    <i>*Events/dates
   are subject to change. E3! Ambassadors will also participate in conference call
   check-ins in November 2014, January 2015, and March 2015.</i>    &nbsp;    <span
   style="font-size: medium;"><b><span style="text-decoration: underline;">Judging
-  Criteria</span></b></span>    • <b>Educate, Engage and Empower (40%)</b>– Articulate
+  Criteria</span></b></span>    <br>• <b>Educate, Engage and Empower (40%)</b>– Articulate
   a plan to increase outreach and awareness around the following four issue areas:
   education, mental health, pathways to public service, and DACA demonstrating your
-  leadership ability and personal commitment to addressing these issues.  • <b>Measurability
+  leadership ability and personal commitment to addressing these issues.  <br>• <b>Measurability
   (20%)</b> – Articulate a plan that includes measurable goals and benchmarks that
-  will be used to evaluate the effectiveness and success of your plan.  • <b>Outreach
+  will be used to evaluate the effectiveness and success of your plan.  <br>• <b>Outreach
   (20%)</b> – Articulate a creative outreach/community engagement plan that will demonstrate
-  your use of marketing techniques such as print/social media, etc.  • <b>Sustainability
+  your use of marketing techniques such as print/social media, etc.  <br>• <b>Sustainability
   (20%)</b> – Articulate a plan that is sustainable and provides a foundation upon
   which future E3! Ambassadors can build.    <span style="font-size: medium;"><b><span
   style="text-decoration: underline;">Terms and Conditions</span></b></span>    You
-  can find a more comprehensive list of terms and conditions <a href="http://www.ed.gov/edblogs/aapi/e3-ambassadors-terms-and-conditions/">here</a>.'
+  can find a more comprehensive list of terms and conditions <a href="http://www.ed.gov/edblogs/aapi/e3-ambassadors-terms-and-conditions/">here</a>.</p>'
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []

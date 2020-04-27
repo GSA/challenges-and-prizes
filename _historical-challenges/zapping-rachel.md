@@ -41,26 +41,26 @@ partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''
-rules: 'The Federal Trade Commission (“FTC”) announces an open source prize competition
+rules: '<p>The Federal Trade Commission (“FTC”) announces an open source prize competition
   that challenges the public to create and improve an innovative robocall honeypot.
   A honeypot is an information system that is designed to attract perpetrators
   of illegal acts—in this case robocallers—and gain knowledge about their tactics.
   The Contest will be held at DEF CON 22, a conference of information security
-  specialists, in Las Vegas, Nevada, from August 7-10, 2014. The Contest will
+  specialists, in Las Vegas, Nevada, from August 7-10, 2014.</p><p>The Contest will
   occur in 3 independent phases, with Winner(s) chosen from each phase. Phase
   1, “Creator,” involves building a robocall honeypot. Phase 2, “Attacker,” requires
   Contestants to identify a honeypot’s security vulnerabilities. Phase 3, “Detective,”
-  involves analysis of data from an existing robocall honeypot.    <article class="node-568801
+  involves analysis of data from an existing robocall honeypot.</p><p><article class="node-568801
   node node-page view-mode-full clearfix">  <div class="field field-name-body
   field-type-text-with-summary field-label-hidden field-wrapper">    <strong>DATES:
   </strong>Contestants may register for any phase beginning at 9:00 am Pacific
   Daylight Time ("PDT") on August 7, 2014 at the FTC’s “Zapping Rachel” booth
   at DEF CON 22. The deadline for submitting entries for phase 1 is August 8,
   2014 at 12:00 pm (PDT); phase 2 is August 9, 2014 at 12:00 pm (PDT); and phase
-  3 is August 9, 2014 at 7:00 pm (PDT).    <strong>FOR FURTHER INFORMATION CONTACT:</strong>
+  3 is August 9, 2014 at 7:00 pm (PDT).</p><p><strong>FOR FURTHER INFORMATION CONTACT:</strong>
   Patricia Hsue, 202-326-3132, or Kati Daffan, 202-326-2727, Division of Marketing
   Practices, Bureau of Consumer Protection, FTC; 600 Pennsylvania Ave. NW; Mailstop
-  CC-8528; Washington, DC 20580.    <strong>SUPPLEMENTARY INFORMATION: </strong>The
+  CC-8528; Washington, DC 20580.</p><p><strong>SUPPLEMENTARY INFORMATION: </strong>The
   FTC Robocall Contest (the “Contest”) will complement the Federal Trade Commission’s
   2012 Robocall Challenge and advance its work, along with that of its public
   and private sector partners, to combat illegal telemarketing calls. Telemarketing
@@ -79,55 +79,55 @@ rules: 'The Federal Trade Commission (“FTC”) announces an open source prize 
   full agreement to these Official Rules and to decisions of the Sponsor (as defined
   below), which are final and binding in all matters related to the Contest. Winning
   a Prize is contingent upon fulfilling all requirements set forth in the Official
-  Rules.  <h2><strong>1.  Sponsor and Participating Organizations</strong></h2>  A. 
+  Rules.  <h2><strong>1.  Sponsor and Participating Organizations</strong></h2>  <p>A. 
   Sponsor: Federal Trade Commission, 600 Pennsylvania Avenue, NW; Washington,
-  DC 20580.    B.  Participating Organizations:    (i)  Telephone Science Corporation,
-  also d/b/a Nomorobo, 5507-10 Nesconset Hwy, Suite 201; Mt Sinai, NY 11766;    (ii)
+  DC 20580.    B.  Participating Organizations:    <br>(i)  Telephone Science Corporation,
+  also d/b/a Nomorobo, 5507-10 Nesconset Hwy, Suite 201; Mt Sinai, NY 11766;    <br>(ii)
    Twilio, Inc. (“Twilio”), 645 Harrison Street, Third Floor; San Francisco, CA
-  94107.  <h2><strong>2.  Eligibility</strong></h2>  A.  To participate in the
-  Contest:    (i) Contestants may compete as individuals or as teams of individuals,
+  94107.</p>  <h2><strong>2.  Eligibility</strong></h2>  <p>A.  To participate in the
+  Contest:<br>(i) Contestants may compete as individuals or as teams of individuals,
   if they meet all eligibility requirements set forth in sections 2.A-C. To be
   eligible to win a Prize, Contestants must meet the additional prize eligibility
-  requirements set forth in section 2.D.    (ii)  Contestants must comply with
+  requirements set forth in section 2.D.    <br><br>(ii)  Contestants must comply with
   all terms and conditions of the Official Rules throughout the Contest and Judging
-  Period.    (iii)  Contestants must own or have access at their own expense to
+  Period.    <br>(iii)  Contestants must own or have access at their own expense to
   a computer, an Internet connection, and any other electronic devices, documentation,
   software, or other items that Contestants may deem necessary to create and enter
-  a Submission (as defined in Section 4 below).    (iv)  Each team shall appoint
+  a Submission (as defined in Section 4 below).    <br>(iv)  Each team shall appoint
   one individual (the “Representative”) to represent and act on behalf of said
   team, including by entering a Submission. The Representative must be duly authorized
   to submit on behalf of the team, and must represent and warrant that he/she
-  is duly authorized to act on behalf of the team.    (v)  An individual may join
+  is duly authorized to act on behalf of the team.    <br>(v)  An individual may join
   more than one team, and an individual who is part of a team may also enter the
-  Contest on an individual basis.    (vi)  No individual or team may enter the
+  Contest on an individual basis.    <br>(vi)  No individual or team may enter the
   Contest on behalf of a corporation or other non-individual legal entity.    B.
-   The following individuals (including any individuals participating as part
+   The following individuals <br>(including any individuals participating as part
   of a team) are <span style="text-decoration: underline;">not</span> eligible
-  regardless of whether they meet the criteria set forth above:    (i)  any individual
-  under the age of 18;    (ii)  any individual who employs any Judge or otherwise
-  has a material business relationship or affiliation with any Judge;    (iii)
-   any individual who is a member of any Judge’s immediate family or household;    (iv)
-   any individual who has been convicted of a felony;    (v)  the Sponsor, Participating
+  regardless of whether they meet the criteria set forth above:    <br>(i)  any individual
+  under the age of 18;    <br>(ii)  any individual who employs any Judge or otherwise
+  has a material business relationship or affiliation with any Judge;    <br>(iii)
+   any individual who is a member of any Judge’s immediate family or household;    <br>(iv)
+   any individual who has been convicted of a felony;    <br>(v)  the Sponsor, Participating
   Organizations, and any advertising agency, contractor or other individual or
   organization involved with the design, production, promotion, execution, or
   distribution of the Contest; all employees, representatives and agents thereof;
   and all members of the immediate family or household of any such individual,
-  employee, representative, or agent;    (vi)  any Federal entity or Federal employee
+  employee, representative, or agent;    <br>(vi)  any Federal entity or Federal employee
   acting within the scope of his or her employment, or as may otherwise be prohibited
   by Federal law (employees should consult their agency ethics officials);    (vii)
    any individual or team that used Federal facilities or relied upon significant
   consultation with Federal employees to develop a Submission, unless the facilities
   and employees were made available to all Contestants participating in the Contest
-  on an equal basis; and    (viii)  any individual or team that used Federal funds
+  on an equal basis; and    <br>(viii)  any individual or team that used Federal funds
   to develop a Submission, unless such use is consistent with the grant award,
   or other applicable Federal funds awarding document. If a grantee using Federal
   funds enters and wins this Contest, the prize monies will need to be treated
   as program income for purposes of the original grant in accordance with applicable
   Office of Management and Budget Circulars.  Federal contractors may not use
   Federal funds from a contract to develop a Submission for this Challenge.    C.
-   For purposes hereof:    (i)  the members of an individual’s immediate family
+   For purposes hereof:    <br>(i)  the members of an individual’s immediate family
   include such individual’s spouse, children and step-children, parents and step-parents,
-  and siblings and step-siblings; and    (ii) the members of an individual’s household
+  and siblings and step-siblings; and    <br>(ii) the members of an individual’s household
   include any other person who shares the same residence as such individual for
   at least three (3) months out of the year.    D.  Pursuant to the America Creating
   Opportunities to Meaningfully Promote Excellence in Technology, Education, and
@@ -142,7 +142,7 @@ rules: 'The Federal Trade Commission (“FTC”) announces an open source prize 
   signing a form (“Registration Form”) to verify that he or she:  (1) has read
   and agreed to the Official Rules; (2) is over the age of 18; (3) does not have
   a familial or financial relationship with any Judge as specified in Section
-  2.B.(ii)-(iii); and (4) has not been convicted of a felony. A familial or financial
+  2.B.<br>(ii)-(iii); and (4) has not been convicted of a felony. A familial or financial
   relationship with any Judge or a felony conviction will disqualify the Contestant
   from participation in the Contest.  The Registration Form will be available
   to Contestants beginning at 9:00 am (PDT) on August 7, 2014 at the FTC’s “Zapping
@@ -173,32 +173,32 @@ rules: 'The Federal Trade Commission (“FTC”) announces an open source prize 
   will not be able to attend any other events, contests, presentations, or otherwise
   participate in DEF CON 22.  <h2><strong>4.  Submission </strong></h2>  A.  To
   participate in any phase of the Contest, a Contestant must submit the following
-  via electronic mail:    (i)  the name of the solution;    (ii)  solution source
-  code;    (iii)  a written description (as required for the specific phase);
-  and    (iv)  any other materials required under Sections 7-9 below, including
+  via electronic mail:    <br>(i)  the name of the solution;    <br>(ii)  solution source
+  code;    <br>(iii)  a written description (as required for the specific phase);
+  and    <br>(iv)  any other materials required under Sections 7-9 below, including
   access to relevant call detail records, dialing platforms, and/or other technologies
-  needed to test the Submission.    Paragraphs (i)-(iv) above are collectively
+  needed to test the Submission.    Paragraphs <br>(i)-<br>(iv) above are collectively
   a “Submission.” The email address used to submit the Submission shall match
   the address provided on a Contestant’s Registration Form. With the exception
   of this originating email address, no part of the Submission shall contain information
   revealing the Contestant’s identity, such as a name, address, employment information,
-  or other identifying details.    B.  Submission Deadlines    (i) For phase 1,
-  Contestants must enter their Submissions by August 8, 2014 at 12:00 pm (PDT).    (ii)
+  or other identifying details.    B.  Submission Deadlines    <br>(i) For phase 1,
+  Contestants must enter their Submissions by August 8, 2014 at 12:00 pm (PDT).    <br>(ii)
   For phase 2, Contestants must enter their Submissions by August 9, 2014 at 12:00
-  pm (PDT).    (iii) For phase 3, Contestants must enter their Submissions by
-  August 9, 2014 at 7:00 pm (PDT).    Paragraphs (i)-(iii) above are collectively
+  pm (PDT).    <br>(iii) For phase 3, Contestants must enter their Submissions by
+  August 9, 2014 at 7:00 pm (PDT).    Paragraphs <br>(i)-<br>(iii) above are collectively
   the “Contest Deadlines.” The Sponsor’s computer is the official time-keeping
   device for this Contest. Any Submissions entered following the respective Contest
   Deadlines shall be disqualified. The Judging Period for each phase will commence
   immediately following the deadline for each phase. The Sponsor may limit the
   number of Contestants who can participate in each phase to ensure that the Judges
-  have sufficient time to review the Submissions.    C.  Submission Requirements    (i)
+  have sufficient time to review the Submissions.    C.  Submission Requirements    <br>(i)
    The name, source code, written description, and any other materials should
   all be submitted at the same time. All Submissions must be received by the Contest
-  Deadline for each phase.    (ii)  Source code must be compatible with languages
-  and platforms that the Sponsor will specify on or before August 7, 2014.    (iii) 
+  Deadline for each phase.    <br>(ii)  Source code must be compatible with languages
+  and platforms that the Sponsor will specify on or before August 7, 2014.    <br>(iii) 
   No part of a Submission may require the Sponsor or Judges to spend money or
-  otherwise obtain anything of value.    (iv)  Submissions from a team must so
+  otherwise obtain anything of value.    <br>(iv)  Submissions from a team must so
   indicate when entering a Submission.    (v)  With the exception of source code,
   Submissions must be in English, except that textual material in a language other
   than English will be accepted if accompanied by an English translation of that
@@ -216,14 +216,14 @@ rules: 'The Federal Trade Commission (“FTC”) announces an open source prize 
   activity; or    i. disparage the Sponsor.    (viii)  Submissions must be free
   of malware and other security threats. Contestant agrees that the Sponsor may
   conduct testing on each Submission to determine whether malware or other security
-  threats may be present.    (ix)  Submissions that do not comply with any of
-  the above requirements may be disqualified.    D.  Additional Terms    (i)  Once
+  threats may be present.    <br>(ix)  Submissions that do not comply with any of
+  the above requirements may be disqualified.    D.  Additional Terms    <br>(i)  Once
   a Submission has been submitted, Contestant may not access or make any changes
-  or alterations to the Submission.    (ii)  A Contestant may submit more than
+  or alterations to the Submission.    <br>(ii)  A Contestant may submit more than
   one Submission. However, each Submission must be unique, as determined by Sponsor
   in its sole discretion. If a Contestant enters two or more Submissions that
   are substantially similar, the Sponsor reserves the right to disqualify Submissions
-  or require the Contestant to choose one Submission to be entered into the Contest.    (iii)
+  or require the Contestant to choose one Submission to be entered into the Contest.    <br>(iii)
    By entering a Submission, Contestant represents, warrants, and agrees that
   the Submission is the original work of the Contestant and complies with the
   Official Rules.    Contestant further represents, warrants, and agrees that
@@ -298,7 +298,7 @@ rules: 'The Federal Trade Commission (“FTC”) announces an open source prize 
   by sending calls to the honeypots and reviewing the information associated with
   incoming calls. Each Contestant will submit all source code in addition to a
   written description of the solution, consisting of fewer than 500 words, summarizing
-  the Contestant’s techniques and outcomes.    <strong>Judging Criteria:</strong>    <strong>(i)
+  the Contestant’s techniques and outcomes.    <br><strong>Judging Criteria:</strong>    <strong><br>(i)
   Building Knowledge</strong> (70% of total score)  <ul>   <li>Did you succeed
   in identifying inaccuracies in the data captured?  You will receive ten points
   for each distinct successful method that your honeypot used to identify calls
@@ -319,12 +319,12 @@ rules: 'The Federal Trade Commission (“FTC”) announces an open source prize 
   Judges have sole discretion to determine whether two methods are meaningfully
   distinct.</li>   <li>The Judges will compare the total points earned by each
   Contestant in this category and use these totals to assign a percentage amount
-  of no greater than 70% to each Contestant.</li>  </ul>  <strong> (ii) Explaining
+  of no greater than 70% to each Contestant.</li>  </ul>  <strong> <br>(ii) Explaining
   the Scheme</strong> (20% of total score)  <ul>   <li>What insights did your
   Submission demonstrate with respect to setting up an effective robocall honeypot?</li>   <li>What
   insights did your Submission demonstrate in determining the accuracy of the
   data captured?</li>   <li>What insights did your Submission demonstrate in determining
-  how to categorize calls based on the likelihood that the calls are robocalls?</li>  </ul>  <strong>(iii)
+  how to categorize calls based on the likelihood that the calls are robocalls?</li>  </ul>  <strong><br>(iii)
   Innovation</strong> (10% of total score)  <ul>   <li>How innovative was your
   Submission?</li>  </ul>  B.  In order to be considered for a Prize, Submissions
   must score at least one percentage point in each required category (building
@@ -367,7 +367,7 @@ rules: 'The Federal Trade Commission (“FTC”) announces an open source prize 
   words summarizing: 1) the Contestant’s circumvention techniques and outcomes;
   2) theoretical circumvention techniques that the Contestant did not test but
   would be useful to a robocaller; and 3) how the Contestant would build a better
-  honeypot to prevent such techniques.    <strong>Judging Criteria: </strong>    <strong>(i)
+  honeypot to prevent such techniques.    <strong>Judging Criteria: </strong>    <strong><br>(i)
   Hitting the Target</strong> (50% of total score)  <ul>   <li>Did you succeed
   in circumventing the robocall honeypot? You will receive one point for each
   distinct method that you used to circumvent the robocall honeypot. Contestants
@@ -376,14 +376,14 @@ rules: 'The Federal Trade Commission (“FTC”) announces an open source prize 
   the Judges have sole discretion to determine whether two circumvention methods
   are meaningfully distinct.</li>   <li>The Judges will compare the total points
   earned by each Contestant in this category and use these totals to assign a
-  percentage amount of no greater than 50% to each Contestant.</li>  </ul>  <strong> (ii)
+  percentage amount of no greater than 50% to each Contestant.</li>  </ul>  <strong> <br>(ii)
   Explaining the Scheme</strong> (20% of total score)  <ul>   <li>What insights
   did your Submission demonstrate about how attackers might circumvent a robocall
   honeypot, including by placing undetected calls?</li>   <li>What theoretical
   techniques did your Submission describe for how attackers might circumvent a
-  robocall honeypot?</li>  </ul>  <strong>(iii) Rebuilding</strong> (10% of total
+  robocall honeypot?</li>  </ul>  <strong><br>(iii) Rebuilding</strong> (10% of total
   score)  <ul>   <li>What insights did your Submission demonstrate about building
-  a better robocall honeypot?</li>  </ul>  <strong>(iv) Innovation</strong> (20%
+  a better robocall honeypot?</li>  </ul>  <strong><br>(iv) Innovation</strong> (20%
   of total score)  <ul>   <li>How innovative were your actual or proposed methods
   of circumventing the honeypot?</li>  </ul>  B. In order to be considered for
   a Prize, Submissions must score at least one percentage point in each required
@@ -411,7 +411,7 @@ rules: 'The Federal Trade Commission (“FTC”) announces an open source prize 
   predict which of the calls in the second data set are likely to be robocalls.
   In addition to submitting these predictions, each Contestant will submit all
   source code and a written description of the algorithm consisting of fewer than
-  250 words.    <strong>Judging Criteria:</strong>    <strong>(i) Uncovering the
+  250 words.    <strong>Judging Criteria:</strong>    <strong><br>(i) Uncovering the
   Truth</strong> (70% of total score)  <ul>   <li>Did you correctly predict whether
   the calls in the second honeypot data set were likely to be robocalls? To assess
   this, the Judges will compare your predictions with real-world information about
@@ -420,9 +420,9 @@ rules: 'The Federal Trade Commission (“FTC”) announces an open source prize 
   for each call you inaccurately identified as a likely robocall.</li>   <li>The
   Judges will compare the total points earned by each Contestant in this category
   and use these totals to assign a percentage amount of no greater than 70% to
-  each Contestant.</li>  </ul>  <strong>(ii) Explaining the Scheme</strong> (20%
+  each Contestant.</li>  </ul>  <strong><br>(ii) Explaining the Scheme</strong> (20%
   of total score)  <ul>   <li>What insights did your Submission demonstrate with
-  respect to the analysis of honeypot call records?</li>  </ul>  <strong>(iii)
+  respect to the analysis of honeypot call records?</li>  </ul>  <strong><br>(iii)
   Innovation</strong> (10% of total score)  <ul>   <li>How innovative was your
   Submission?</li>  </ul>  B.  In order to be considered for a Prize, Submissions
   must score at least one percentage point in each required category (uncovering
@@ -451,13 +451,13 @@ rules: 'The Federal Trade Commission (“FTC”) announces an open source prize 
   align="center">US $1,337.00</p>  </td>  <td>  <p align="center">2</p>  </td>  </tr>  <tr>  <td>Phase
   3 Top Prize</td>  <td>  <p align="center">US $3,133.70</p>  </td>  <td>  <p
   align="center">1</p>  </td>  </tr>  <tr>  <td>Phase 3 Honorable Mention(s)</td>  <td>  <p
-  align="center">US $1,337.00</p>  </td>  <td>  <p align="center">2</p>  </td>  </tr>  </tbody>  </table>  A.
+  align="center">US $1,337.00</p>  </td>  <td>  <p align="center">2</p>  </td>  </tr>  </tbody>  </table>  <p>A.
    If no eligible Submissions are entered in the Contest, the Prize will not be
   awarded. The Sponsor retains the right to make a Prize substitution in the event
   that funding for the Prize or any portion thereof becomes unavailable.  No transfer
   or substitution of a Prize is permitted except at the Sponsor’s sole discretion.
   It will be the responsibility of the winning team’s Representative to allocate
-  the Prize amongst the team, as the Representative deems it appropriate.    B. 
+  the Prize amongst the team, as the Representative deems it appropriate.</p><p>    B. 
   In the event a Winner’s employer has a policy that prohibits the awarding of
   a Prize to an employee, the Winner must forfeit the Prize and the Sponsor may
   select an alternate Winner. Each Contestant hereby acknowledges and agrees that
@@ -467,57 +467,57 @@ rules: 'The Federal Trade Commission (“FTC”) announces an open source prize 
   does not place the Sponsor and its respective agents in a position that is any
   different from the position held by the members of the general public with regard
   to elements of the Contestant’s Submission, except as specifically provided
-  in these Official Rules.    C.  Winners (including any winning team members)
+  in these Official Rules.</p><p>    C.  Winners <br>(including any winning team members)
   are responsible for reporting and paying all applicable federal, state, and
   local taxes. It is the sole responsibility of Winners of $600 or more to provide
   information to the Sponsor in order to facilitate receipt of the award, including
   completing and submitting any tax forms when necessary.  It is also the sole
   responsibility of Winners to satisfy any applicable reporting requirements.
   The Sponsor reserves the right to withhold a portion of the Prize amount to
-  comply with tax laws.    D.  All payments shall be made by electronic funds
-  transfer or other means determined by the Sponsor.  <h2><strong>11.  Verification
-  of Eligibility for Receipt of a Prize </strong></h2>  A.  ALL PRIZE AWARDS ARE
+  comply with tax laws.</p><p>    D.  All payments shall be made by electronic funds
+  transfer or other means determined by the Sponsor.</p>  <h2><strong>11.  Verification
+  of Eligibility for Receipt of a Prize </strong></h2>  <p>A.  ALL PRIZE AWARDS ARE
   SUBJECT TO SPONSOR VERIFICATION OF THE WINNER’S IDENTITY, ELIGIBILITY, AND PARTICIPATION
   IN THE CREATION OF THE SOLUTION.  THE SPONSOR’S DECISIONS ARE FINAL AND BINDING
   IN ALL MATTERS RELATED TO THE CONTEST. In order to receive a Prize, a Contestant
   will be required to complete, sign and return to the Sponsor affidavit(s) of
   eligibility and liability release, or a similar verification document (“Verification
   Form”).  31 U.S.C. 7701 requires Federal agencies to collect social security
-  numbers to issue a payment.  (In the case of a team, the Representative and
+  numbers to issue a payment. (In the case of a team, the Representative and
   all participating members must complete, sign and return to the Sponsor the
-  Verification Form in order for the team to receive a Prize.)    B.  Contestants
+  Verification Form in order for the team to receive a Prize.)    </p><p>B.  Contestants
   potentially qualifying for a Prize will be notified and sent the Verification
   Form using the email address submitted at registration, starting on or about
   August 10, 2014. In the case of a team, the notification will only be sent to
   the Representative. If a notification is returned as undeliverable, the Contestant
-  or team may be disqualified at the Sponsor’s sole discretion.    C.  At the
-  sole discretion of the Sponsor, a Contestant or team forfeits any Prize if:    (i)
+  or team may be disqualified at the Sponsor’s sole discretion.    </p><p>C.  At the
+  sole discretion of the Sponsor, a Contestant or team forfeits any Prize if:    <br>(i)
    the Contestant fails to provide the Verification Form within five (5) business
   days of receipt of the email notification discussed above (or in the case of
   a team, any team member fails to provide the Verification Form within five business
-  days of receipt of the email notification);    (ii)  the Contestant (or in the
+  days of receipt of the email notification);    <br>(ii)  the Contestant (or in the
   case of a team, its Representative) does not timely communicate with the Sponsor
   to provide payment and all other necessary information within five business
-  days of receiving a request for such information;    (iii)  such individual
-  or team Representative is contacted and refuses the Prize;    (iv)  the Prize
-  is returned as undeliverable; or    (v)  the Submission of the Winner, the Winner,
-  or any member of a Winner’s team is disqualified for any reason.    D.  In the
+  days of receiving a request for such information;    <br>(iii)  such individual
+  or team Representative is contacted and refuses the Prize;    <br>(iv)  the Prize
+  is returned as undeliverable; or    <br>(v)  the Submission of the Winner, the Winner,
+  or any member of a Winner’s team is disqualified for any reason.    </p><p>D.  In the
   event of a disqualification, Sponsor, at its sole discretion, may award the
   applicable Prize to an alternate Contestant. The disqualification of one (or
   more) team members at any time for any reason may result in the disqualification
   of the entire team and of each participating member at the sole discretion of
-  the Sponsor.  <h2><strong>12.  Entry Conditions and Release</strong></h2>  A.
-   By entering, each Contestant (including, in the case of a team, all participating
-  members) agree(s) to:    (i) comply with and be bound by these Official Rules
+  the Sponsor.</p>  <h2><strong>12.  Entry Conditions and Release</strong></h2>  A.
+   By entering, each Contestant <br>(including, in the case of a team, all participating
+  members) agree(s) to:    <br>(i) comply with and be bound by these Official Rules
   and the decisions of the Sponsor and/or the Contest Judges, whose Rules and
-  decisions are binding and final in all matters relating to this Contest;    (ii)
+  decisions are binding and final in all matters relating to this Contest;    <br>(ii)
   release, indemnify, defend, and hold harmless the Sponsor, Participating Organizations,
   and any other individuals or organizations responsible for sponsoring, fulfilling,
   administering, advertising, or promoting the Contest, including their respective
   parents, subsidiaries, and affiliated companies, if any, and all of their respective
   past and present officers, directors, employees, agents and representatives
   (hereafter the “Released Parties”) from and against any and all claims, expenses,
-  and liabilities (including reasonable attorneys’ fees), including but not limited
+  and liabilities <br>(including reasonable attorneys’ fees), including but not limited
   to negligence and damages of any kind to persons and property, defamation, slander,
   libel, violation of right of publicity, infringement of trademark, copyright
   or other intellectual property rights, property damage, or death or personal
@@ -526,15 +526,15 @@ rules: 'The Federal Trade Commission (“FTC”) announces an open source prize 
   misuse of the Prize and/or the broadcast, transmission, performance, exploitation,
   or use of Submission as authorized or licensed by these Official Rules.    B.
    Without limiting the foregoing, each Contestant agrees to release all Released
-  Parties of all liability in connection with:    (i)  any incorrect or inaccurate
+  Parties of all liability in connection with:    <br>(i)  any incorrect or inaccurate
   information, whether caused by the Sponsor’s or a Contestant’s electronic or
   printing error or by any of the equipment or programming associated with or
-  utilized in the Contest;    (ii)  technical failures of any kind, including,
+  utilized in the Contest;    <br>(ii)  technical failures of any kind, including,
   but not limited to, malfunctions, interruptions, or disconnections in phone
   lines, internet connectivity, or electronic transmission errors, or network
   hardware or software or failure of the Contest Website, or any other platform
-  or tool that Contestants or Judges choose to use;    (iii)  unauthorized human
-  intervention in any part of the entry process or the Contest;    (iv)  technical
+  or tool that Contestants or Judges choose to use;    <br>(iii)  unauthorized human
+  intervention in any part of the entry process or the Contest;    <br>(iv)  technical
   or human error that may occur in the administration of the Contest or the processing
   of Submissions; or    (v)  any injury or damage to persons or property that
   may be caused, directly or indirectly, in whole or in part, from the Contestant’s
@@ -559,7 +559,7 @@ rules: 'The Federal Trade Commission (“FTC”) announces an open source prize 
   likeness, photograph, voice, opinions, comments, and/or hometown and state of
   residence (and, as applicable, those of all other members of the team that participated
   in the Submission) may be used if the Contestant provides consent.  <h2><strong>14.
-   General Conditions</strong></h2>  A.  Sponsor reserves the right to cancel,
+   General Conditions</strong></h2>  <p>A.  Sponsor reserves the right to cancel,
   suspend, and/or modify the Contest, or any part of it, if any fraud, technical
   failure, or any other unanticipated factor or factors beyond Sponsor’s control
   impairs the integrity or proper functioning of the Contest, as determined by
@@ -567,39 +567,39 @@ rules: 'The Federal Trade Commission (“FTC”) announces an open source prize 
   to disqualify any individual or Contestant that the Sponsor finds to be tampering
   with the entry process or the operation of the Contest, or to be acting in violation
   of these Official Rules or in a manner that is inappropriate, not in the best
-  interests of this Contest, or in violation of any applicable law or regulation.    B.
+  interests of this Contest, or in violation of any applicable law or regulation.</p><p>    B.
    Any attempt by any person to undermine the proper functioning of the Contest
   may be a violation of criminal and civil law, and, should such an attempt be
   made, the Sponsor reserves the right to take proper legal action, including,
-  without limiting, referral to law enforcement, for any illegal or unlawful activities.    C.
+  without limiting, referral to law enforcement, for any illegal or unlawful activities.</p><p>    C.
    The Sponsor’s failure to enforce any term of these Official Rules shall not
   constitute a waiver of that provision. The Sponsor is not responsible for incomplete,
   late, misdirected, damaged, lost, illegible, or incomprehensible Submissions
   or for address or email address changes of the Contestants. Proof of sending
-  or submitting will not be deemed to be proof of receipt by Sponsor.    D.  In
+  or submitting will not be deemed to be proof of receipt by Sponsor.</p><p>    D.  In
   the event of any discrepancy or inconsistency between the terms and conditions
   of the Official Rules and disclosures or other statements contained in any Contest
   materials, including but not limited to the Contest Website or point of sale,
   television, print or online advertising, the terms and conditions of the Official
-  Rules shall prevail.    E.  The Sponsor reserves the right, without liability,
+  Rules shall prevail.</p><p>    E.  The Sponsor reserves the right, without liability,
   to amend the terms and conditions of the Official Rules at any time, including
   the rights or obligations of the Contestant and the Sponsor. The Sponsor will
   post the terms and conditions of the amended Official Rules on the Contest Website
   (“Corrective Notice”). As permitted by law, any amendment will become effective
-  at the time the Sponsor posts the amended Official Rules.    F.  Excluding Submissions,
+  at the time the Sponsor posts the amended Official Rules.</p><p>    F.  Excluding Submissions,
   all intellectual property related to this Contest, including but not limited
   to trademarks, trade-names, logos, designs, promotional materials, web pages,
   source codes, drawings, illustrations, slogans, and representations are owned
   or used under license by the Sponsor. All rights are reserved.  Unauthorized
   copying or use of any copyrighted material or intellectual property without
-  the express written consent of its owners is strictly prohibited.    G.  Should
+  the express written consent of its owners is strictly prohibited.</p><p>    G.  Should
   any provision of these Official Rules be or become illegal or unenforceable
   under applicable Federal law, such illegality or unenforceability shall leave
   the remainder of these Official Rules unaffected and valid. The illegal or unenforceable
   provision shall be replaced by a valid and enforceable provision that comes
   closest and best reflects the Sponsor’s intention in a legal and enforceable
-  manner with respect to the invalid or unenforceable provision.  <h2><strong>15.
-   Limitations of Liability</strong></h2>  By entering, all Contestants (including,
+  manner with respect to the invalid or unenforceable provision.</p>  <h2><strong>15.
+   Limitations of Liability</strong></h2>  By entering, all Contestants <br>(including,
   in the case of a team, all participating members) agree to be bound by the Official
   Rules and hereby release the Released Parties from any and all liability in
   connection with the Prizes or Contestant’s participation in the Contest, except
@@ -610,12 +610,12 @@ rules: 'The Federal Trade Commission (“FTC”) announces an open source prize 
   limitation regarding gross negligence or intentional acts, or events of death
   or body injury, shall not be applicable in jurisdictions where such limitation
   is not legal.  <h2><strong>16.  Disputes</strong></h2>  A.  Contestants agree
-  that:    (i) any and all disputes, claims, and causes of action arising out
+  that:    <br>(i) any and all disputes, claims, and causes of action arising out
   of or connected with this Contest, any Prizes awarded, the administration of
-  the Contest, or the determination of Winners, shall be resolved individually;    (ii)
+  the Contest, or the determination of Winners, shall be resolved individually;    <br>(ii)
   any and all disputes, claims, and causes of action arising out of or connected
   with this Contest, any Prizes awarded, the administration of the Contest, or
-  the determination of Winners, shall be resolved pursuant to Federal law;    (iii)
+  the determination of Winners, shall be resolved pursuant to Federal law;    <br>(iii)
   under no circumstances will Contestants be entitled to, and Contestants hereby
   waive, all rights to claim, any punitive, incidental, and consequential damages
   and any and all rights to have damages multiplied or otherwise increased.    B.
@@ -636,7 +636,7 @@ rules: 'The Federal Trade Commission (“FTC”) announces an open source prize 
   The Telephone Consumer Protection Act also prohibits any type of call (other
   than a call made for emergency purposes) using automated telephone equipment
   or an artificial or prerecorded voice to a cellular telephone in the absence
-  of prior express consent.  47 U.S.C. 227(b)(1)(A)(iii).    </div>  </div>  </div>  </article>'
+  of prior express consent.  47 U.S.C. 227(b)(1)(A)<br>(iii).    </div>  </div>  </div>  </article></p>'
 submission-start-date-1: ''
 hide-challenge-timeline: 'No'
 judging-start-date: ''
