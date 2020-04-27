@@ -10,7 +10,7 @@ moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
 tagline: Do you have improvements or suggestions to make the Department of the Interior
-Agency Financial Report more beneficial?
+  Agency Financial Report more beneficial?
 groupName: Department of the Interior - Department-Wide Programs
 hideIdeaAuthor: false
 template: ideation
@@ -121,7 +121,7 @@ judging-criteria-description-9: ''
 judging-criteria-percentage-9: ''
 judging-criteria-9: ''
 prize-description-0: ''
-prize-cash-amount-0: '0'
+prize-cash-amount-0: ''
 prize-name-0: ''
 prize-description-1: ''
 prize-cash-amount-1: ''
