@@ -283,6 +283,12 @@ description: >-
 
 
   * *Answer: All batteries are required to be at 100% SOC.*
+
+
+  Question: Does the "references" section (i.e., the bibliography of references used to prepare the white paper) at the end of the white paper count toward the five-page limit? The NSWC-CD document provided in Challenge.gov does not talk about this although the document does state that the cover sheets at the beginning of the white paper concept will not be counted toward the five-page limit.
+
+
+  * *Answer: The references page is not included the page count limitation.*
 prizes: >-
   **Total Cash Prize Pool**
 
@@ -722,6 +728,10 @@ Question: We currently produce a containment system that has been tested to simi
 Question: For the Proof of Concept testing at what state of charge (SOC) is required of the battery during testing?
 
 * *Answer: All batteries are required to be at 100% SOC.*
+
+Question: Does the "references" section (i.e., the bibliography of references used to prepare the white paper) at the end of the white paper count toward the five-page limit? The NSWC-CD document provided in Challenge.gov does not talk about this although the document does state that the cover sheets at the beginning of the white paper concept will not be counted toward the five-page limit.
+
+* *Answer: The references page is not included the page count limitation.*
 
 ### Prizes
 
