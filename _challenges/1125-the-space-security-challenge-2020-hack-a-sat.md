@@ -1,12 +1,12 @@
 ---
 title: "The Space Security Challenge 2020: Hack-A-Sat"
-challenge-title: "The Space Security Challenge 2020: Hack-A-Sat"
+challenge-title: "Space Security Challenge 2020: Hack-A-Sat"
 layout: front-matter-data-markdownify-content
 permalink: /challenge/hack-a-sat/
 challenge-id: "1125"
 status: open
 sidenav: false
-card-image: /assets/netlify-uploads/ssc-blackpink.png
+card-image: /assets/netlify-uploads/has_logo_usgovchallenge.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
 tagline: Capture the Flag, Meet Satellite – a new frontier in cybersecurity
 agency: Department of Defense - U.S. Air Force
