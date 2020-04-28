@@ -18,7 +18,7 @@ type-of-challenge:
   - Ideas
   - Technology demonstration and hardware
 submission-start: 2020/04/05 5:00 p.m.
-submission-end: 2020/05/31 11:59 p.m.
+submission-end: 2020/04/30 06:00 p.m.
 fiscal-year: FY20
 legal-authority: Agency specific prize authority
 challenge-manager: Zeke Topolosky
