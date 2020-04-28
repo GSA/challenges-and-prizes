@@ -203,6 +203,10 @@
 	<img src="{{ site.baseurl }}/assets/images/agency/dept_of_justice.png" alt="Department of Justice - Office of Justice Programs logo" title="Department of Justice - Office of Justice Programs">
 	{% endif %}
 
+	{% if page.groupName == "Department of Justice" or page.agency == "Department of Justice" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/dept_of_justice.png" alt="Department of Justice - Office of Justice Programs logo" title="Department of Justice - Office of Justice Programs">
+	{% endif %}
+
 	{% if page.groupName contains "Federal Maritime Commission" or page.agency contains "Federal Maritime Commission" %}
 	<img src="{{ site.baseurl }}/assets/images/agency/fed_maritime_commission_large.jpg" alt="Federal Maritime Commission logo" title="Federal Maritime Commission logo">
 	{% endif %}
@@ -245,6 +249,10 @@
 
 	{% if page.groupName contains "Office of Management and Budget" or page.agency contains "Office of Management and Budget" %}
 	<img src="{{ site.baseurl }}/assets/images/agency/omb.png" alt="OMB logo" title="OMB logo">
+	{% endif %}
+
+	{% if page.groupName == "Department of Commerce" or page.agency == "Department of Commerce" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/doc_logo.png" alt="Commerce logo" title="Commerce logo">
 	{% endif %}
 
 	

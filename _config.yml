@@ -65,6 +65,8 @@ primary_navigation:
         url: /archive/2016/
       - name: 2015
         url: /archive/2015/
+      - name: 2014
+        url: /archive/2014/
 
 
 secondary_navigation:

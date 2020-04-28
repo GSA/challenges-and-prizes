@@ -203,6 +203,10 @@
 	<img src="{{ site.baseurl }}/assets/images/agency/dept_of_justice.png" alt="Department of Justice - Office of Justice Programs logo" width="120" title="Department of Justice - Office of Justice Programs">
 	{% endif %}
 
+	{% if challenge.groupName == "Department of Justice" or challenge.agency == "Department of Justice" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/dept_of_justice.png" alt="Department of Justice - Office of Justice Programs logo" width="120" title="Department of Justice - Office of Justice Programs">
+	{% endif %}
+
 	{% if challenge.groupName contains "Federal Maritime Commission" or challenge.agency contains "Federal Maritime Commission" %}
 	<img src="{{ site.baseurl }}/assets/images/agency/fed_maritime_commission.png" alt="Federal Maritime Commission logo" width="120" title="Federal Maritime Commission logo">
 	{% endif %}
@@ -245,6 +249,10 @@
 
 	{% if challenge.groupName contains "Office of Management and Budget" or challenge.agency contains "Office of Management and Budget" %}
 	<img src="{{ site.baseurl }}/assets/images/agency/omb.png" alt="OMB logo" width="120" title="OMB logo">
+	{% endif %}
+
+	{% if challenge.groupName == "Department of Commerce" or challenge.agency == "Department of Commerce" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/doc_logo.png" alt="Commerce logo" width="120" title="Commerce logo">
 	{% endif %}
 
 
