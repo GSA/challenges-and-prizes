@@ -91,10 +91,10 @@ show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
 non-monetary-incentives-awarded: ''
 partner-agencies-federal: ''
-    judging-end-date: 02/12/2016 12:00 AM
-    solicitation-methods: ''
-    advancing-the-agency-mission: ''
-    rules: 'This competition is designed to encourage U.S. high school students to
+judging-end-date: 02/12/2016 12:00 AM
+solicitation-methods: ''
+advancing-the-agency-mission: ''
+rules: 'This competition is designed to encourage U.S. high school students to
       pursue skills in computer science. We welcome students of <em>all</em> skill
       levels.    <strong> </strong>    <strong>First Steps:</strong>    Here is the
       summary of the steps students must take to submit their applications to the
@@ -161,19 +161,19 @@ partner-agencies-federal: ''
       District in which they are competing.</li>   <li>You can double-check <a href="http://www.house.gov/representatives/find/"
       target="_blank"><strong>what district you live in, here.</strong></a></li>  </ul>  </li>  </ul>'
 submission-start-date-1: ''
-    hide-challenge-timeline: 'No'
-    judging-start-date: 01/22/2016 12:00 AM
-    winners-announced-date: 02/22/2016 12:00 PM
-    cash-prizes-and-non-cash-prize-awards: ''
+hide-challenge-timeline: 'No'
+judging-start-date: 01/22/2016 12:00 AM
+winners-announced-date: 02/22/2016 12:00 PM
+cash-prizes-and-non-cash-prize-awards: ''
 campaign-owner-email: randerson@congresssionalappchallenge.us
-    solution-type: Software and apps
+solution-type: Software and apps
 partner-agencies-non-federal: ''
     original-post-id: '94161'
 total-number-of-winners-awarded: ''
     hosting: Hosted on this platform
-    hide-challenge-funnel: 'Yes'
-    type-of-challenge: Software and apps
-    participation-requirements: ''
+hide-challenge-funnel: 'Yes'
+type-of-challenge: Software and apps
+participation-requirements: ''
     number-of-phases: ''
     how-to-enter: "<strong> </strong>\r\n\r\n<strong>Summary of How to Enter:</strong>\r\n<ol>\r\n\t<li>Check
       your eligibility</li>\r\n\t<li>Register on Challenge.gov</li>\r\n\t<li>Make
@@ -237,67 +237,67 @@ total-number-of-winners-awarded: ''
   groupAttributes:
   judging-criteria-description-0: How creative is the app? How original is it? Does
       the app address a problem? If so, how creative is the solution?
-    judging-criteria-percentage-0: ''
-    judging-criteria-0: Quality of the Idea
+judging-criteria-percentage-0: ''
+judging-criteria-0: Quality of the Idea
   judging-criteria-description-1: Did the student consider the user experience?
       Did the student give thought to the app design?
-    judging-criteria-percentage-1: ''
-    judging-criteria-1: Implementation of the Idea
+judging-criteria-percentage-1: ''
+judging-criteria-1: Implementation of the Idea
   judging-criteria-description-10: ''
-    judging-criteria-percentage-10: ''
-    judging-criteria-10: ''
+judging-criteria-percentage-10: ''
+judging-criteria-10: ''
   judging-criteria-description-11: ''
-    judging-criteria-percentage-11: ''
-    judging-criteria-11: ''
+judging-criteria-percentage-11: ''
+judging-criteria-11: ''
   judging-criteria-description-12: ''
-    judging-criteria-12: ''
-    judging-criteria-percentage-12: ''
+judging-criteria-12: ''
+judging-criteria-percentage-12: ''
   judging-criteria-description-13: ''
-    judging-criteria-13: ''
-    judging-criteria-percentage-13: ''
+judging-criteria-13: ''
+judging-criteria-percentage-13: ''
   judging-criteria-percentage-14: ''
-    judging-criteria-14: ''
-    judging-criteria-description-14: ''
+judging-criteria-14: ''
+judging-criteria-description-14: ''
   judging-criteria-percentage-15: ''
-    judging-criteria-15: ''
-    judging-criteria-description-15: ''
+judging-criteria-15: ''
+judging-criteria-description-15: ''
   judging-criteria-16: ''
-    judging-criteria-percentage-16: ''
-    judging-criteria-description-16: ''
+judging-criteria-percentage-16: ''
+judging-criteria-description-16: ''
   judging-criteria-17: ''
-    judging-criteria-percentage-17: ''
-    judging-criteria-description-17: ''
+judging-criteria-percentage-17: ''
+judging-criteria-description-17: ''
   judging-criteria-description-18: ''
-    judging-criteria-percentage-18: ''
-    judging-criteria-18: ''
+judging-criteria-percentage-18: ''
+judging-criteria-18: ''
   judging-criteria-description-19: ''
-    judging-criteria-percentage-19: ''
-    judging-criteria-19: ''
+judging-criteria-percentage-19: ''
+judging-criteria-19: ''
   judging-criteria-description-2: Did the student display understanding of the tools
       they were using? Did the student demonstrate they had learned about how to code?
-    judging-criteria-2: Demonstrated Excellence of Coding and Programming Skills
-    judging-criteria-percentage-2: ''
+judging-criteria-2: Demonstrated Excellence of Coding and Programming Skills
+judging-criteria-percentage-2: ''
   judging-criteria-description-3: ''
-    judging-criteria-3: ''
-    judging-criteria-percentage-3: ''
+judging-criteria-3: ''
+judging-criteria-percentage-3: ''
   judging-criteria-percentage-4: ''
-    judging-criteria-4: ''
-    judging-criteria-description-4: ''
+judging-criteria-4: ''
+judging-criteria-description-4: ''
   judging-criteria-percentage-5: ''
-    judging-criteria-5: ''
-    judging-criteria-description-5: ''
+judging-criteria-5: ''
+judging-criteria-description-5: ''
   judging-criteria-6: ''
-    judging-criteria-percentage-6: ''
-    judging-criteria-description-6: ''
+judging-criteria-percentage-6: ''
+judging-criteria-description-6: ''
   judging-criteria-7: ''
-    judging-criteria-percentage-7: ''
-    judging-criteria-description-7: ''
+judging-criteria-percentage-7: ''
+judging-criteria-description-7: ''
   judging-criteria-description-8: ''
-    judging-criteria-percentage-8: ''
-    judging-criteria-8: ''
+judging-criteria-percentage-8: ''
+judging-criteria-8: ''
   judging-criteria-description-9: ''
-    judging-criteria-percentage-9: ''
-    judging-criteria-9: ''
+judging-criteria-percentage-9: ''
+judging-criteria-9: ''
   prize-description-0: The winners of the Congressional App Challenge will be recognized
       and honored by their Member of Congress. They'll have their app displayed on
       the Congressional App Challenge website, and winners will also have their apps

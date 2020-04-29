@@ -41,23 +41,23 @@ non-monetary-incentives-awarded: 2 first place $7,500, 2 second place $5,000;
       Recognition/Featured on Website; Monetary/Prize value $10,000 and below; Trophy/certificate
 partner-agencies-federal: ''
     judging-end-date: ''
-    solicitation-methods: ''
-    advancing-the-agency-mission: ''
-    rules: ''
+solicitation-methods: ''
+advancing-the-agency-mission: ''
+rules: ''
 submission-start-date-1: ''
-    hide-challenge-timeline: 'No'
+hide-challenge-timeline: 'No'
     judging-start-date: ''
-    winners-announced-date: ''
-    cash-prizes-and-non-cash-prize-awards: ''
+winners-announced-date: ''
+cash-prizes-and-non-cash-prize-awards: ''
 campaign-owner-email: ''
-    solution-type: Creative (design & multimedia)
+solution-type: Creative (design & multimedia)
 partner-agencies-non-federal: ''
     original-post-id: '54382'
 total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)
-    hide-challenge-funnel: 'Yes'
-    type-of-challenge: Creative (design & multimedia)
-    participation-requirements: ''
+hide-challenge-funnel: 'Yes'
+type-of-challenge: Creative (design & multimedia)
+participation-requirements: ''
     number-of-phases: ''
     how-to-enter: ''
     partnerships: ''

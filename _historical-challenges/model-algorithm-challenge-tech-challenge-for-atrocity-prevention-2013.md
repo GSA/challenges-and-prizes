@@ -39,23 +39,23 @@ estimated-value-of-partner-contributions: ''
 non-monetary-incentives-awarded: Monetary/Prize value $49,999 - $10,001
 partner-agencies-federal: '0'
     judging-end-date: ''
-    solicitation-methods: ''
-    advancing-the-agency-mission: ''
-    rules: ''
+solicitation-methods: ''
+advancing-the-agency-mission: ''
+rules: ''
 submission-start-date-1: ''
-    hide-challenge-timeline: 'No'
+hide-challenge-timeline: 'No'
     judging-start-date: ''
-    winners-announced-date: ''
-    cash-prizes-and-non-cash-prize-awards: ''
+winners-announced-date: ''
+cash-prizes-and-non-cash-prize-awards: ''
 campaign-owner-email: ''
-    solution-type: Ideas
+solution-type: Ideas
 partner-agencies-non-federal: ''
     original-post-id: '57002'
 total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)
-    hide-challenge-funnel: 'Yes'
-    type-of-challenge: Software and apps
-    participation-requirements: ''
+hide-challenge-funnel: 'Yes'
+type-of-challenge: Software and apps
+participation-requirements: ''
     number-of-phases: ''
     how-to-enter: ''
     partnerships: ''

@@ -41,23 +41,23 @@ non-monetary-incentives-awarded: 6 winners each in 0 to 5 and 6 to 10 age groups
       runners-up in each age bracket received a clad version
 partner-agencies-federal: ''
     judging-end-date: ''
-    solicitation-methods: ''
-    advancing-the-agency-mission: ''
-    rules: ''
+solicitation-methods: ''
+advancing-the-agency-mission: ''
+rules: ''
 submission-start-date-1: ''
-    hide-challenge-timeline: 'No'
+hide-challenge-timeline: 'No'
     judging-start-date: ''
-    winners-announced-date: ''
-    cash-prizes-and-non-cash-prize-awards: ''
+winners-announced-date: ''
+cash-prizes-and-non-cash-prize-awards: ''
 campaign-owner-email: ''
-    solution-type: Creative (design & multimedia)
+solution-type: Creative (design & multimedia)
 partner-agencies-non-federal: ''
     original-post-id: '56102'
 total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)
-    hide-challenge-funnel: 'Yes'
-    type-of-challenge: Creative (design & multimedia)
-    participation-requirements: ''
+hide-challenge-funnel: 'Yes'
+type-of-challenge: Creative (design & multimedia)
+participation-requirements: ''
     number-of-phases: ''
     how-to-enter: ''
     partnerships: ''

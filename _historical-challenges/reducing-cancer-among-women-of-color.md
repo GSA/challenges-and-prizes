@@ -41,23 +41,23 @@ non-monetary-incentives-awarded: "$100000 in prizes: 1st, $85000; 2nd, $10000;
       and 3rd $5000; Conference invitation; Public recognition"
 partner-agencies-federal: ''
     judging-end-date: ''
-    solicitation-methods: ''
-    advancing-the-agency-mission: ''
-    rules: ''
+solicitation-methods: ''
+advancing-the-agency-mission: ''
+rules: ''
 submission-start-date-1: ''
-    hide-challenge-timeline: 'No'
+hide-challenge-timeline: 'No'
     judging-start-date: ''
-    winners-announced-date: ''
-    cash-prizes-and-non-cash-prize-awards: ''
+winners-announced-date: ''
+cash-prizes-and-non-cash-prize-awards: ''
 campaign-owner-email: ''
-    solution-type: Software and apps
+solution-type: Software and apps
 partner-agencies-non-federal: ''
     original-post-id: '54652'
 total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)
-    hide-challenge-funnel: 'Yes'
-    type-of-challenge: Software and apps
-    participation-requirements: ''
+hide-challenge-funnel: 'Yes'
+type-of-challenge: Software and apps
+participation-requirements: ''
     number-of-phases: ''
     how-to-enter: ''
     partnerships: ''

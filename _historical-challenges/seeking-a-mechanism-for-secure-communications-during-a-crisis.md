@@ -40,23 +40,23 @@ non-monetary-incentives-awarded: "$20000 total, distributed at discretion of spo
       and judges at up to $10000 for each solver"
 partner-agencies-federal: ''
     judging-end-date: ''
-    solicitation-methods: ''
-    advancing-the-agency-mission: ''
-    rules: ''
+solicitation-methods: ''
+advancing-the-agency-mission: ''
+rules: ''
 submission-start-date-1: ''
-    hide-challenge-timeline: 'No'
+hide-challenge-timeline: 'No'
     judging-start-date: ''
-    winners-announced-date: ''
-    cash-prizes-and-non-cash-prize-awards: ''
+winners-announced-date: ''
+cash-prizes-and-non-cash-prize-awards: ''
 campaign-owner-email: ''
-    solution-type: Ideas
+solution-type: Ideas
 partner-agencies-non-federal: ''
     original-post-id: '56042'
 total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)
-    hide-challenge-funnel: 'Yes'
-    type-of-challenge: Ideas
-    participation-requirements: ''
+hide-challenge-funnel: 'Yes'
+type-of-challenge: Ideas
+participation-requirements: ''
     number-of-phases: ''
     how-to-enter: ''
     partnerships: ''
