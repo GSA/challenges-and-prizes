@@ -24,7 +24,7 @@ submission-start: 03/18/2013 01:00 PM
 fiscal-year: FY 2013
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '0'
+total-prize-offered-cash: ''
 campaign-owner: ''
 public-voting-start-date: ''
 legal-authority: America COMPETES
@@ -37,7 +37,7 @@ total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
 non-monetary-incentives-awarded: Partnership with the EPA
-partner-agencies-federal: '0'
+partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''

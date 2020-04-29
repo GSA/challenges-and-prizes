@@ -24,7 +24,7 @@ submission-start: 12/17/2012 05:00 PM
 fiscal-year: FY 2013
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '0'
+total-prize-offered-cash: ''
 campaign-owner: ''
 public-voting-start-date: ''
 legal-authority: Unspecified
@@ -37,7 +37,7 @@ total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
 non-monetary-incentives-awarded: Winners will work with the Innovation Te
-partner-agencies-federal: '0'
+partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''

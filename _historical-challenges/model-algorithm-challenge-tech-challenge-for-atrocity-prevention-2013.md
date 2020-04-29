@@ -11,7 +11,7 @@ funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
 tagline: USAID and Humanity United Launch the MODEL algorithm challenge, the last
   in The Tech Challenge for Atrocity Prevention series.
-groupName: International Assistance Programs - Agency for International Dev
+groupName: International Assistance Programs - Agency for International Development
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
@@ -24,7 +24,7 @@ submission-start: '08/22/2013 06:00 PM'
 fiscal-year: FY 2013
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '25000'
+total-prize-offered-cash: '$25,000'
 campaign-owner: ''
 public-voting-start-date: ''
 legal-authority: America COMPETES
@@ -37,7 +37,7 @@ total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
 non-monetary-incentives-awarded: Monetary/Prize value $49,999 - $10,001
-partner-agencies-federal: '0'
+partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''

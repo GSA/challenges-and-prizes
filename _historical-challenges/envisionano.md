@@ -32,7 +32,7 @@ submission-start: 01/20/2015 12:00 PM
 fiscal-year: FY 2015
 public-voting-end-date: 04/17/2015 12:00 PM
 budget-and-resources: ''
-total-prize-offered-cash: '0'
+total-prize-offered-cash: ''
 campaign-owner: ''
 public-voting-start-date: 04/07/2015 12:00 PM
 legal-authority: Other

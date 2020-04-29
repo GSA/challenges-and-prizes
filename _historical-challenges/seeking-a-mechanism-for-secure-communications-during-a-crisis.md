@@ -24,7 +24,7 @@ submission-start: 03/06/2013 09:00 AM
 fiscal-year: FY 2013
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '20000'
+total-prize-offered-cash: '$20,000'
 campaign-owner: ''
 public-voting-start-date: ''
 legal-authority: Unspecified

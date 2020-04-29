@@ -24,7 +24,7 @@ submission-start: 12/17/2012 09:00 PM
 fiscal-year: FY 2013
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '15000'
+total-prize-offered-cash: '$15,000'
 campaign-owner: ''
 public-voting-start-date: ''
 legal-authority: Procurement Authority

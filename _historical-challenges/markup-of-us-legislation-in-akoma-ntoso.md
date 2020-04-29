@@ -24,7 +24,7 @@ submission-start: 07/17/2013 05:00 AM
 fiscal-year: FY 2013
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '5000'
+total-prize-offered-cash: '$5,000'
 campaign-owner: ''
 public-voting-start-date: ''
 legal-authority: Necessary Expense Doctrine
@@ -37,7 +37,7 @@ total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
 non-monetary-incentives-awarded: "$5000 to winner"
-partner-agencies-federal: '0'
+partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''

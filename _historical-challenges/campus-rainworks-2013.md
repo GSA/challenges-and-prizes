@@ -24,7 +24,7 @@ submission-start: '09/09/2013 08:00 PM'
 fiscal-year: FY 2013
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '6000'
+total-prize-offered-cash: '$6,000'
 campaign-owner: ''
 public-voting-start-date: ''
 legal-authority: America COMPETES
@@ -38,7 +38,7 @@ show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
 non-monetary-incentives-awarded: Entry put into production; Monetary/Prize value
       $10,000 and below
-partner-agencies-federal: '0'
+partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''

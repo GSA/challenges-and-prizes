@@ -40,7 +40,7 @@ estimated-value-of-partner-contributions: ''
 non-monetary-incentives-awarded: video posted on the White House website and screened
   at 1600 Pennsylvania Avenue. Finalist videos may also be featured on the White
   House website, YouTube channel, and social media pages.
-partner-agencies-federal: '0'
+partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''

@@ -77,7 +77,7 @@ submission-start: 12/24/2015 12:00 AM
 fiscal-year: FY 2016
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '0'
+total-prize-offered-cash: ''
 campaign-owner: Rhianon Anderson
 public-voting-start-date: ''
 legal-authority: Other
