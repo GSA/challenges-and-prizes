@@ -22,24 +22,24 @@ why-use-prizes: ''
 submission-start: 04/11/2013 08:00 AM
 fiscal-year: FY 2013
 public-voting-end-date: ''
-    budget-and-resources: ''
+budget-and-resources: ''
 total-prize-offered-cash: '0'
-    campaign-owner: ''
+campaign-owner: ''
 public-voting-start-date: ''
-    legal-authority: Unspecified
+legal-authority: Unspecified
 total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '162'
-    solicitation-of-submissions: ''
+evaluation-of-submissions: ''
+agency-id: '162'
+solicitation-of-submissions: ''
 total-submission-received: '226'
 total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: 6 winners each in 0 to 5 and 6 to 10 age groups.
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: 6 winners each in 0 to 5 and 6 to 10 age groups.
       7 winners in 11 to 13 age group. The grand prize winner in each age bracket
       receives a National Baseball Hall of Fame $1 Silver Commemorative Coin! The
       runners-up in each age bracket received a clad version
-    partner-agencies-federal: ''
+partner-agencies-federal: ''
     judging-end-date: ''
     solicitation-methods: ''
     advancing-the-agency-mission: ''
@@ -49,9 +49,9 @@ submission-start-date-1: ''
     judging-start-date: ''
     winners-announced-date: ''
     cash-prizes-and-non-cash-prize-awards: ''
-    campaign-owner-email: ''
+campaign-owner-email: ''
     solution-type: Creative (design & multimedia)
-    partner-agencies-non-federal: ''
+partner-agencies-non-federal: ''
     original-post-id: '56102'
 total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)

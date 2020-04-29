@@ -22,21 +22,21 @@ why-use-prizes: ''
 submission-start: 11/09/2013 05:00 AM
 fiscal-year: FY 2014
 public-voting-end-date: ''
-    budget-and-resources: ''
+budget-and-resources: ''
 total-prize-offered-cash: '15000'
-    campaign-owner: ''
+campaign-owner: ''
 public-voting-start-date: ''
-    legal-authority: Unspecified
+legal-authority: Unspecified
 total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '102'
-    solicitation-of-submissions: ''
+evaluation-of-submissions: ''
+agency-id: '102'
+solicitation-of-submissions: ''
 total-submission-received: Unknown
 total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: "$10,000 main prize, $5,000 to runner up"
-    partner-agencies-federal: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: "$10,000 main prize, $5,000 to runner up"
+partner-agencies-federal: ''
     judging-end-date: ''
     solicitation-methods: ''
     advancing-the-agency-mission: ''
@@ -46,9 +46,9 @@ submission-start-date-1: ''
     judging-start-date: ''
     winners-announced-date: ''
     cash-prizes-and-non-cash-prize-awards: ''
-    campaign-owner-email: ''
+campaign-owner-email: ''
     solution-type: Software and apps
-    partner-agencies-non-federal: ''
+partner-agencies-non-federal: ''
     original-post-id: '57332'
 total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)

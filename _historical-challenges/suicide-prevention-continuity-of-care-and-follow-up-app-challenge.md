@@ -25,21 +25,21 @@ why-use-prizes: ''
 submission-start: 06/06/2013 03:00 PM
 fiscal-year: FY 2013
 public-voting-end-date: ''
-    budget-and-resources: ''
+budget-and-resources: ''
 total-prize-offered-cash: '100000'
-    campaign-owner: ''
+campaign-owner: ''
 public-voting-start-date: ''
-    legal-authority: America COMPETES
+legal-authority: America COMPETES
 total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '102'
-    solicitation-of-submissions: ''
+evaluation-of-submissions: ''
+agency-id: '102'
+solicitation-of-submissions: ''
 total-submission-received: '25'
 total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: "$100000 total; 1st-$50000; 2nd-$30000; 3rd-$20000"
-    partner-agencies-federal: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: "$100000 total; 1st-$50000; 2nd-$30000; 3rd-$20000"
+partner-agencies-federal: ''
     judging-end-date: ''
     solicitation-methods: ''
     advancing-the-agency-mission: ''
@@ -49,9 +49,9 @@ submission-start-date-1: ''
     judging-start-date: ''
     winners-announced-date: ''
     cash-prizes-and-non-cash-prize-awards: ''
-    campaign-owner-email: ''
+campaign-owner-email: ''
     solution-type: Software and apps
-    partner-agencies-non-federal: ''
+partner-agencies-non-federal: ''
     original-post-id: '56682'
 total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)

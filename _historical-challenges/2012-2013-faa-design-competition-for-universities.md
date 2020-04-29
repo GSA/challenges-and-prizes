@@ -23,22 +23,22 @@ why-use-prizes: ''
 submission-start: 11/01/2012 04:00 AM
 fiscal-year: FY 2013
 public-voting-end-date: ''
-    budget-and-resources: ''
+budget-and-resources: ''
 total-prize-offered-cash: '30'
-    campaign-owner: ''
+campaign-owner: ''
 public-voting-start-date: ''
-    legal-authority: Unspecified
+legal-authority: Unspecified
 total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '212'
-    solicitation-of-submissions: ''
+evaluation-of-submissions: ''
+agency-id: '212'
+solicitation-of-submissions: ''
 total-submission-received: Unknown
 total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: 1st- $2500; 2nd- $1500; 3rd-$1000 - $1000. This
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: 1st- $2500; 2nd- $1500; 3rd-$1000 - $1000. This
       is in each of the 6 technical design areas; First place award-winning teamrepresenta
-    partner-agencies-federal: ''
+partner-agencies-federal: ''
     judging-end-date: ''
     solicitation-methods: ''
     advancing-the-agency-mission: ''
@@ -48,9 +48,9 @@ submission-start-date-1: ''
     judging-start-date: ''
     winners-announced-date: ''
     cash-prizes-and-non-cash-prize-awards: ''
-    campaign-owner-email: ''
+campaign-owner-email: ''
     solution-type: Ideas
-    partner-agencies-non-federal: ''
+partner-agencies-non-federal: ''
     original-post-id: '55362'
 total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)

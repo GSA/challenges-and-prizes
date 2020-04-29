@@ -23,22 +23,22 @@ why-use-prizes: ''
 submission-start: '09/09/2013 08:00 PM'
 fiscal-year: FY 2013
 public-voting-end-date: ''
-    budget-and-resources: ''
+budget-and-resources: ''
 total-prize-offered-cash: '6000'
-    campaign-owner: ''
+campaign-owner: ''
 public-voting-start-date: ''
-    legal-authority: America COMPETES
+legal-authority: America COMPETES
 total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '222'
-    solicitation-of-submissions: ''
+evaluation-of-submissions: ''
+agency-id: '222'
+solicitation-of-submissions: ''
 total-submission-received: Unknown
 total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: Entry put into production; Monetary/Prize value
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: Entry put into production; Monetary/Prize value
       $10,000 and below
-    partner-agencies-federal: '0'
+partner-agencies-federal: '0'
     judging-end-date: ''
     solicitation-methods: ''
     advancing-the-agency-mission: ''
@@ -48,9 +48,9 @@ submission-start-date-1: ''
     judging-start-date: ''
     winners-announced-date: ''
     cash-prizes-and-non-cash-prize-awards: ''
-    campaign-owner-email: ''
+campaign-owner-email: ''
     solution-type: Creative (design & multimedia)
-    partner-agencies-non-federal: ''
+partner-agencies-non-federal: ''
     original-post-id: '56942'
 total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)

@@ -22,21 +22,21 @@ why-use-prizes: ''
 submission-start: 01/09/2013 02:00 PM
 fiscal-year: FY 2013
 public-voting-end-date: ''
-    budget-and-resources: ''
+budget-and-resources: ''
 total-prize-offered-cash: '0'
-    campaign-owner: ''
+campaign-owner: ''
 public-voting-start-date: ''
-    legal-authority: Other
+legal-authority: Other
 total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '142'
-    solicitation-of-submissions: ''
+evaluation-of-submissions: ''
+agency-id: '142'
+solicitation-of-submissions: ''
 total-submission-received: '4'
 total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: Winner will be honored at the USGS The N
-    partner-agencies-federal: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: Winner will be honored at the USGS The N
+partner-agencies-federal: ''
     judging-end-date: ''
     solicitation-methods: ''
     advancing-the-agency-mission: ''
@@ -46,9 +46,9 @@ submission-start-date-1: ''
     judging-start-date: ''
     winners-announced-date: ''
     cash-prizes-and-non-cash-prize-awards: ''
-    campaign-owner-email: ''
+campaign-owner-email: ''
     solution-type: Software and apps
-    partner-agencies-non-federal: ''
+partner-agencies-non-federal: ''
     original-post-id: '55392'
 total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)

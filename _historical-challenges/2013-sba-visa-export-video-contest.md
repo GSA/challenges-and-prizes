@@ -22,22 +22,22 @@ why-use-prizes: ''
 submission-start: 02/25/2013 05:00 PM
 fiscal-year: FY 2013
 public-voting-end-date: ''
-    budget-and-resources: ''
+budget-and-resources: ''
 total-prize-offered-cash: '30000'
-    campaign-owner: ''
+campaign-owner: ''
 public-voting-start-date: ''
-    legal-authority: Unspecified
+legal-authority: Unspecified
 total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '122'
-    solicitation-of-submissions: ''
+evaluation-of-submissions: ''
+agency-id: '122'
+solicitation-of-submissions: ''
 total-submission-received: '59'
 total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: "$30000 total; 1st: $10000, 2nd: $8000, 3rd:
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: "$30000 total; 1st: $10000, 2nd: $8000, 3rd:
       $6000; 4th: $4000; 5th: $2000"
-    partner-agencies-federal: ''
+partner-agencies-federal: ''
     judging-end-date: ''
     solicitation-methods: ''
     advancing-the-agency-mission: ''
@@ -47,9 +47,9 @@ submission-start-date-1: ''
     judging-start-date: ''
     winners-announced-date: ''
     cash-prizes-and-non-cash-prize-awards: ''
-    campaign-owner-email: ''
+campaign-owner-email: ''
     solution-type: Creative (design & multimedia)
-    partner-agencies-non-federal: ''
+partner-agencies-non-federal: ''
     original-post-id: '55812'
 total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)

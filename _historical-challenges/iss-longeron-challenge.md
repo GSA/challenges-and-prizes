@@ -24,22 +24,22 @@ why-use-prizes: ''
 submission-start: 01/16/2013 11:00 PM
 fiscal-year: FY 2013
 public-voting-end-date: ''
-    budget-and-resources: ''
+budget-and-resources: ''
 total-prize-offered-cash: '30000'
-    campaign-owner: ''
+campaign-owner: ''
 public-voting-start-date: ''
-    legal-authority: Procurement Authority
+legal-authority: Procurement Authority
 total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '132'
-    solicitation-of-submissions: ''
+evaluation-of-submissions: ''
+agency-id: '132'
+solicitation-of-submissions: ''
 total-submission-received: '191'
 total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: "$30000 in total, $10000 to first prize then
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: "$30000 in total, $10000 to first prize then
       in smaller amounts for the remaining top ten solvers with lowest being $250"
-    partner-agencies-federal: ''
+partner-agencies-federal: ''
     judging-end-date: ''
     solicitation-methods: ''
     advancing-the-agency-mission: ''
@@ -49,9 +49,9 @@ submission-start-date-1: ''
     judging-start-date: ''
     winners-announced-date: ''
     cash-prizes-and-non-cash-prize-awards: ''
-    campaign-owner-email: ''
+campaign-owner-email: ''
     solution-type: Technology demonstration and hardware
-    partner-agencies-non-federal: ''
+partner-agencies-non-federal: ''
     original-post-id: '55692'
 total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)

@@ -76,21 +76,21 @@ why-use-prizes: ''
 submission-start: 11/09/2015 12:00 PM
 fiscal-year: FY 2016
 public-voting-end-date: ''
-    budget-and-resources: ''
+budget-and-resources: ''
 total-prize-offered-cash: '0'
-    campaign-owner: Rhianon Anderson
+campaign-owner: Rhianon Anderson
 public-voting-start-date: ''
-    legal-authority: Other
+legal-authority: Other
 total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '3642'
-    solicitation-of-submissions: ''
+evaluation-of-submissions: ''
+agency-id: '3642'
+solicitation-of-submissions: ''
 total-submission-received: ''
 total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: ''
-    partner-agencies-federal: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: ''
+partner-agencies-federal: ''
     judging-end-date: 02/12/2016 12:00 AM
     solicitation-methods: ''
     advancing-the-agency-mission: ''
@@ -165,9 +165,9 @@ submission-start-date-1: ''
     judging-start-date: 01/22/2016 12:00 AM
     winners-announced-date: 02/22/2016 12:00 AM
     cash-prizes-and-non-cash-prize-awards: ''
-    campaign-owner-email: randerson@congresssionalappchallenge.us
+campaign-owner-email: randerson@congresssionalappchallenge.us
     solution-type: Software and apps
-    partner-agencies-non-federal: ''
+partner-agencies-non-federal: ''
     original-post-id: '92221'
 total-number-of-winners-awarded: ''
     hosting: Hosted on this platform

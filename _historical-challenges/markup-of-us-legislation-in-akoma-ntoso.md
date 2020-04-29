@@ -23,21 +23,21 @@ why-use-prizes: ''
 submission-start: 07/17/2013 05:00 AM
 fiscal-year: FY 2013
 public-voting-end-date: ''
-    budget-and-resources: ''
+budget-and-resources: ''
 total-prize-offered-cash: '5000'
-    campaign-owner: ''
+campaign-owner: ''
 public-voting-start-date: ''
-    legal-authority: Necessary Expense Doctrine
+legal-authority: Necessary Expense Doctrine
 total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '3712'
-    solicitation-of-submissions: ''
+evaluation-of-submissions: ''
+agency-id: '3712'
+solicitation-of-submissions: ''
 total-submission-received: '3'
 total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: "$5000 to winner"
-    partner-agencies-federal: '0'
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: "$5000 to winner"
+partner-agencies-federal: '0'
     judging-end-date: ''
     solicitation-methods: ''
     advancing-the-agency-mission: ''
@@ -47,9 +47,9 @@ submission-start-date-1: ''
     judging-start-date: ''
     winners-announced-date: ''
     cash-prizes-and-non-cash-prize-awards: ''
-    campaign-owner-email: ''
+campaign-owner-email: ''
     solution-type: Creative (design & multimedia)
-    partner-agencies-non-federal: ''
+partner-agencies-non-federal: ''
     original-post-id: '56132'
 total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)
