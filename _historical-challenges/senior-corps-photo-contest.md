@@ -15,25 +15,25 @@ groupName: International Assistance Programs - Department of State - Other
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://seniorcorpsphotos.challengepost.com/submissions
-    submission-end: '08/07/2013 01:00 AM'
-    why-use-prizes: ''
-    submission-start: 05/06/2013 09:00 PM
-    fiscal-year: FY 2013
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://seniorcorpsphotos.challengepost.com/submissions
+submission-end: '08/07/2013 01:00 AM'
+why-use-prizes: ''
+submission-start: 05/06/2013 09:00 PM
+fiscal-year: FY 2013
+public-voting-end-date: ''
     budget-and-resources: ''
-    total-prize-offered-cash: '0'
+total-prize-offered-cash: '0'
     campaign-owner: ''
-    public-voting-start-date: ''
+public-voting-start-date: ''
     legal-authority: Unspecified
-    total-number-of-prizes-awarded: ''
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '542'
     solicitation-of-submissions: ''
-    total-submission-received: '57'
-    total-number-of-participant: ''
+total-submission-received: '57'
+total-number-of-participant: ''
     show-winners-instead-of-prizes: 'No'
     estimated-value-of-partner-contributions: ''
     non-monetary-incentives-awarded: Recognition
@@ -42,7 +42,7 @@ campaignAttributes:
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''
-    submission-start-date-1: ''
+submission-start-date-1: ''
     hide-challenge-timeline: 'No'
     judging-start-date: ''
     winners-announced-date: ''
@@ -51,7 +51,7 @@ campaignAttributes:
     solution-type: Creative (design & multimedia)
     partner-agencies-non-federal: ''
     original-post-id: '56282'
-    total-number-of-winners-awarded: ''
+total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)
     hide-challenge-funnel: 'Yes'
     type-of-challenge: Creative (design & multimedia)

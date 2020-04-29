@@ -14,25 +14,25 @@ groupName: Department of Health and Human Services
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: https://smartchicago2012.wufoo.com/forms/illinois-public-health-challenge/
-    submission-end: 11/30/2013 05:00 AM
-    why-use-prizes: ''
-    submission-start: 11/09/2013 05:00 AM
-    fiscal-year: FY 2014
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: https://smartchicago2012.wufoo.com/forms/illinois-public-health-challenge/
+submission-end: 11/30/2013 05:00 AM
+why-use-prizes: ''
+submission-start: 11/09/2013 05:00 AM
+fiscal-year: FY 2014
+public-voting-end-date: ''
     budget-and-resources: ''
-    total-prize-offered-cash: '15000'
+total-prize-offered-cash: '15000'
     campaign-owner: ''
-    public-voting-start-date: ''
+public-voting-start-date: ''
     legal-authority: Unspecified
-    total-number-of-prizes-awarded: ''
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '102'
     solicitation-of-submissions: ''
-    total-submission-received: Unknown
-    total-number-of-participant: ''
+total-submission-received: Unknown
+total-number-of-participant: ''
     show-winners-instead-of-prizes: 'No'
     estimated-value-of-partner-contributions: ''
     non-monetary-incentives-awarded: "$10,000 main prize, $5,000 to runner up"
@@ -41,7 +41,7 @@ campaignAttributes:
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''
-    submission-start-date-1: ''
+submission-start-date-1: ''
     hide-challenge-timeline: 'No'
     judging-start-date: ''
     winners-announced-date: ''
@@ -50,7 +50,7 @@ campaignAttributes:
     solution-type: Software and apps
     partner-agencies-non-federal: ''
     original-post-id: '57332'
-    total-number-of-winners-awarded: ''
+total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)
     hide-challenge-funnel: 'Yes'
     type-of-challenge: Ideas

@@ -15,25 +15,25 @@ groupName: Department of Defense
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: https://www.innocentive.com/ar/challenge/9933053
-    submission-end: 04/22/2013 09:00 PM
-    why-use-prizes: ''
-    submission-start: 03/22/2013 01:00 PM
-    fiscal-year: FY 2013
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: https://www.innocentive.com/ar/challenge/9933053
+submission-end: 04/22/2013 09:00 PM
+why-use-prizes: ''
+submission-start: 03/22/2013 01:00 PM
+fiscal-year: FY 2013
+public-voting-end-date: ''
     budget-and-resources: ''
-    total-prize-offered-cash: '8000'
+total-prize-offered-cash: '8000'
     campaign-owner: ''
-    public-voting-start-date: ''
+public-voting-start-date: ''
     legal-authority: Unspecified
-    total-number-of-prizes-awarded: ''
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '92'
     solicitation-of-submissions: ''
-    total-submission-received: Unknown
-    total-number-of-participant: ''
+total-submission-received: Unknown
+total-number-of-participant: ''
     show-winners-instead-of-prizes: 'No'
     estimated-value-of-partner-contributions: ''
     non-monetary-incentives-awarded: "$8000 total; at discretion of sponsor"
@@ -42,7 +42,7 @@ campaignAttributes:
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''
-    submission-start-date-1: ''
+submission-start-date-1: ''
     hide-challenge-timeline: 'No'
     judging-start-date: ''
     winners-announced-date: ''
@@ -51,7 +51,7 @@ campaignAttributes:
     solution-type: Ideas
     partner-agencies-non-federal: ''
     original-post-id: '56162'
-    total-number-of-winners-awarded: ''
+total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)
     hide-challenge-funnel: 'Yes'
     type-of-challenge: Scientific

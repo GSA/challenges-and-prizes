@@ -15,25 +15,25 @@ groupName: National Aeronautics and Space Administration
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://community.topcoder.com/coeci/opm/
-    submission-end: 06/30/2013 09:00 PM
-    why-use-prizes: ''
-    submission-start: 11/18/2012 02:00 PM
-    fiscal-year: FY 2013
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://community.topcoder.com/coeci/opm/
+submission-end: 06/30/2013 09:00 PM
+why-use-prizes: ''
+submission-start: 11/18/2012 02:00 PM
+fiscal-year: FY 2013
+public-voting-end-date: ''
     budget-and-resources: ''
-    total-prize-offered-cash: '400000'
+total-prize-offered-cash: '400000'
     campaign-owner: ''
-    public-voting-start-date: ''
+public-voting-start-date: ''
     legal-authority: Unspecified
-    total-number-of-prizes-awarded: ''
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '132'
     solicitation-of-submissions: ''
-    total-submission-received: Unknown
-    total-number-of-participant: ''
+total-submission-received: Unknown
+total-number-of-participant: ''
     show-winners-instead-of-prizes: 'No'
     estimated-value-of-partner-contributions: ''
     non-monetary-incentives-awarded: Over 100 contests over a 35 week period with
@@ -43,7 +43,7 @@ campaignAttributes:
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''
-    submission-start-date-1: ''
+submission-start-date-1: ''
     hide-challenge-timeline: 'No'
     judging-start-date: ''
     winners-announced-date: ''
@@ -52,7 +52,7 @@ campaignAttributes:
     solution-type: Software and apps
     partner-agencies-non-federal: ''
     original-post-id: '55242'
-    total-number-of-winners-awarded: ''
+total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)
     hide-challenge-funnel: 'Yes'
     type-of-challenge: Software and apps

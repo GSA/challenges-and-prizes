@@ -17,25 +17,25 @@ groupName: Department of Health and Human Services - Centers for Disease Control
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.resp-mobile-app.challengepost.com/submissions
-    submission-end: 12/24/2013 09:00 PM
-    why-use-prizes: ''
-    submission-start: 10/21/2013 04:00 AM
-    fiscal-year: FY 2013
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.resp-mobile-app.challengepost.com/submissions
+submission-end: 12/24/2013 09:00 PM
+why-use-prizes: ''
+submission-start: 10/21/2013 04:00 AM
+fiscal-year: FY 2013
+public-voting-end-date: ''
     budget-and-resources: ''
-    total-prize-offered-cash: '10000'
+total-prize-offered-cash: '10000'
     campaign-owner: ''
-    public-voting-start-date: ''
+public-voting-start-date: ''
     legal-authority: Unspecified
-    total-number-of-prizes-awarded: ''
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '102'
     solicitation-of-submissions: ''
-    total-submission-received: '5'
-    total-number-of-participant: ''
+total-submission-received: '5'
+total-number-of-participant: ''
     show-winners-instead-of-prizes: 'No'
     estimated-value-of-partner-contributions: ''
     non-monetary-incentives-awarded: "$8,000 first prize plus 2 $1,000 honorable mentions"
@@ -44,7 +44,7 @@ campaignAttributes:
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''
-    submission-start-date-1: ''
+submission-start-date-1: ''
     hide-challenge-timeline: 'No'
     judging-start-date: ''
     winners-announced-date: ''
@@ -53,7 +53,7 @@ campaignAttributes:
     solution-type: Software and apps
     partner-agencies-non-federal: ''
     original-post-id: '57232'
-    total-number-of-winners-awarded: ''
+total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)
     hide-challenge-funnel: 'Yes'
     type-of-challenge: Creative (design & multimedia)

@@ -15,25 +15,25 @@ groupName: Department of Health and Human Services
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.health2con.com/devchallenge/mobilizing-data-for-pressure-ulcer-prevention-challenge/
-    submission-end: 04/30/2013 03:00 AM
-    why-use-prizes: ''
-    submission-start: 12/06/2012 02:00 PM
-    fiscal-year: FY 2013
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.health2con.com/devchallenge/mobilizing-data-for-pressure-ulcer-prevention-challenge/
+submission-end: 04/30/2013 03:00 AM
+why-use-prizes: ''
+submission-start: 12/06/2012 02:00 PM
+fiscal-year: FY 2013
+public-voting-end-date: ''
     budget-and-resources: ''
-    total-prize-offered-cash: '80000'
+total-prize-offered-cash: '80000'
     campaign-owner: ''
-    public-voting-start-date: ''
+public-voting-start-date: ''
     legal-authority: America COMPETES
-    total-number-of-prizes-awarded: ''
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '102'
     solicitation-of-submissions: ''
-    total-submission-received: '14'
-    total-number-of-participant: ''
+total-submission-received: '14'
+total-number-of-participant: ''
     show-winners-instead-of-prizes: 'No'
     estimated-value-of-partner-contributions: ''
     non-monetary-incentives-awarded: "$80000 in prized, 1st: $60,000; 2nd: $15,000;
@@ -43,7 +43,7 @@ campaignAttributes:
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''
-    submission-start-date-1: ''
+submission-start-date-1: ''
     hide-challenge-timeline: 'No'
     judging-start-date: ''
     winners-announced-date: ''
@@ -52,7 +52,7 @@ campaignAttributes:
     solution-type: Software and apps
     partner-agencies-non-federal: ''
     original-post-id: '55482'
-    total-number-of-winners-awarded: ''
+total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)
     hide-challenge-funnel: 'Yes'
     type-of-challenge: Software and apps

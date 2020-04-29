@@ -15,25 +15,25 @@ groupName: International Assistance Programs - Agency for International Dev
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://thetechchallenge.org
-    submission-end: '09/12/2013 06:00 PM'
-    why-use-prizes: ''
-    submission-start: '08/22/2013 06:00 PM'
-    fiscal-year: FY 2013
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://thetechchallenge.org
+submission-end: '09/12/2013 06:00 PM'
+why-use-prizes: ''
+submission-start: '08/22/2013 06:00 PM'
+fiscal-year: FY 2013
+public-voting-end-date: ''
     budget-and-resources: ''
-    total-prize-offered-cash: '25000'
+total-prize-offered-cash: '25000'
     campaign-owner: ''
-    public-voting-start-date: ''
+public-voting-start-date: ''
     legal-authority: America COMPETES
-    total-number-of-prizes-awarded: ''
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '292'
     solicitation-of-submissions: ''
-    total-submission-received: Unknown
-    total-number-of-participant: ''
+total-submission-received: Unknown
+total-number-of-participant: ''
     show-winners-instead-of-prizes: 'No'
     estimated-value-of-partner-contributions: ''
     non-monetary-incentives-awarded: Monetary/Prize value $49,999 - $10,001
@@ -42,7 +42,7 @@ campaignAttributes:
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''
-    submission-start-date-1: ''
+submission-start-date-1: ''
     hide-challenge-timeline: 'No'
     judging-start-date: ''
     winners-announced-date: ''
@@ -51,7 +51,7 @@ campaignAttributes:
     solution-type: Ideas
     partner-agencies-non-federal: ''
     original-post-id: '57002'
-    total-number-of-winners-awarded: ''
+total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)
     hide-challenge-funnel: 'Yes'
     type-of-challenge: Software and apps

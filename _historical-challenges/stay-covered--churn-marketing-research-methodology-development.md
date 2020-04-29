@@ -17,25 +17,25 @@ groupName: Department of Health and Human Services - Substance Abuse and Mental 
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://staycovered.challengepost.com/updates/1002-announcing-the-winners
-    submission-end: '09/01/2013 03:00 AM'
-    why-use-prizes: ''
-    submission-start: 07/16/2013 09:00 PM
-    fiscal-year: FY 2013
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://staycovered.challengepost.com/updates/1002-announcing-the-winners
+submission-end: '09/01/2013 03:00 AM'
+why-use-prizes: ''
+submission-start: 07/16/2013 09:00 PM
+fiscal-year: FY 2013
+public-voting-end-date: ''
     budget-and-resources: ''
-    total-prize-offered-cash: '100000'
+total-prize-offered-cash: '100000'
     campaign-owner: ''
-    public-voting-start-date: ''
+public-voting-start-date: ''
     legal-authority: America COMPETES
-    total-number-of-prizes-awarded: ''
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '102'
     solicitation-of-submissions: ''
-    total-submission-received: '4'
-    total-number-of-participant: ''
+total-submission-received: '4'
+total-number-of-participant: ''
     show-winners-instead-of-prizes: 'No'
     estimated-value-of-partner-contributions: ''
     non-monetary-incentives-awarded: 'First (2): $30000 each; Second (2): $15000;
@@ -45,7 +45,7 @@ campaignAttributes:
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''
-    submission-start-date-1: ''
+submission-start-date-1: ''
     hide-challenge-timeline: 'No'
     judging-start-date: ''
     winners-announced-date: ''
@@ -54,7 +54,7 @@ campaignAttributes:
     solution-type: Ideas
     partner-agencies-non-federal: ''
     original-post-id: '56822'
-    total-number-of-winners-awarded: ''
+total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)
     hide-challenge-funnel: 'Yes'
     type-of-challenge: Creative (design & multimedia)

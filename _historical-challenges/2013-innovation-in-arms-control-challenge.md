@@ -14,25 +14,25 @@ groupName: International Assistance Programs - Department of State - Other
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: https://www.innocentive.com/ar/challenge/9933381
-    submission-end: 10/21/2013 01:00 AM
-    why-use-prizes: ''
-    submission-start: 07/22/2013 11:00 PM
-    fiscal-year: FY 2013
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: https://www.innocentive.com/ar/challenge/9933381
+submission-end: 10/21/2013 01:00 AM
+why-use-prizes: ''
+submission-start: 07/22/2013 11:00 PM
+fiscal-year: FY 2013
+public-voting-end-date: ''
     budget-and-resources: ''
-    total-prize-offered-cash: '10000'
+total-prize-offered-cash: '10000'
     campaign-owner: ''
-    public-voting-start-date: ''
+public-voting-start-date: ''
     legal-authority: America COMPETES
-    total-number-of-prizes-awarded: ''
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '182'
     solicitation-of-submissions: ''
-    total-submission-received: '24'
-    total-number-of-participant: ''
+total-submission-received: '24'
+total-number-of-participant: ''
     show-winners-instead-of-prizes: 'No'
     estimated-value-of-partner-contributions: ''
     non-monetary-incentives-awarded: '1st (1): $30,000; 2nd (1): $15,000; 3rd (1):
@@ -42,7 +42,7 @@ campaignAttributes:
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''
-    submission-start-date-1: ''
+submission-start-date-1: ''
     hide-challenge-timeline: 'No'
     judging-start-date: ''
     winners-announced-date: ''
@@ -51,7 +51,7 @@ campaignAttributes:
     solution-type: Technology demonstration and hardware
     partner-agencies-non-federal: ''
     original-post-id: '56762'
-    total-number-of-winners-awarded: ''
+total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)
     hide-challenge-funnel: 'Yes'
     type-of-challenge: Ideas

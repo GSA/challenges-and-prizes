@@ -14,25 +14,25 @@ groupName: Department of the Treasury - United States Mint
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://kidsbatterup.challengepost.com/submissions
-    submission-end: 06/29/2013 08:00 AM
-    why-use-prizes: ''
-    submission-start: 04/11/2013 08:00 AM
-    fiscal-year: FY 2013
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://kidsbatterup.challengepost.com/submissions
+submission-end: 06/29/2013 08:00 AM
+why-use-prizes: ''
+submission-start: 04/11/2013 08:00 AM
+fiscal-year: FY 2013
+public-voting-end-date: ''
     budget-and-resources: ''
-    total-prize-offered-cash: '0'
+total-prize-offered-cash: '0'
     campaign-owner: ''
-    public-voting-start-date: ''
+public-voting-start-date: ''
     legal-authority: Unspecified
-    total-number-of-prizes-awarded: ''
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '162'
     solicitation-of-submissions: ''
-    total-submission-received: '226'
-    total-number-of-participant: ''
+total-submission-received: '226'
+total-number-of-participant: ''
     show-winners-instead-of-prizes: 'No'
     estimated-value-of-partner-contributions: ''
     non-monetary-incentives-awarded: 6 winners each in 0 to 5 and 6 to 10 age groups.
@@ -44,7 +44,7 @@ campaignAttributes:
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''
-    submission-start-date-1: ''
+submission-start-date-1: ''
     hide-challenge-timeline: 'No'
     judging-start-date: ''
     winners-announced-date: ''
@@ -53,7 +53,7 @@ campaignAttributes:
     solution-type: Creative (design & multimedia)
     partner-agencies-non-federal: ''
     original-post-id: '56102'
-    total-number-of-winners-awarded: ''
+total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)
     hide-challenge-funnel: 'Yes'
     type-of-challenge: Creative (design & multimedia)

@@ -16,25 +16,25 @@ groupName: Department of Health and Human Services - Health Resources and Servic
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: ''
-    submission-end: '08/31/2013 03:00 AM'
-    why-use-prizes: ''
-    submission-start: 07/31/2013 12:00 PM
-    fiscal-year: FY 2013
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: ''
+submission-end: '08/31/2013 03:00 AM'
+why-use-prizes: ''
+submission-start: 07/31/2013 12:00 PM
+fiscal-year: FY 2013
+public-voting-end-date: ''
     budget-and-resources: ''
-    total-prize-offered-cash: '25000'
+total-prize-offered-cash: '25000'
     campaign-owner: ''
-    public-voting-start-date: ''
+public-voting-start-date: ''
     legal-authority: Unspecified
-    total-number-of-prizes-awarded: ''
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '102'
     solicitation-of-submissions: ''
-    total-submission-received: '4'
-    total-number-of-participant: ''
+total-submission-received: '4'
+total-number-of-participant: ''
     show-winners-instead-of-prizes: 'No'
     estimated-value-of-partner-contributions: ''
     non-monetary-incentives-awarded: 2 first place $7,500, 2 second place $5,000;
@@ -44,7 +44,7 @@ campaignAttributes:
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''
-    submission-start-date-1: ''
+submission-start-date-1: ''
     hide-challenge-timeline: 'No'
     judging-start-date: ''
     winners-announced-date: ''
@@ -53,7 +53,7 @@ campaignAttributes:
     solution-type: Creative (design & multimedia)
     partner-agencies-non-federal: ''
     original-post-id: '54382'
-    total-number-of-winners-awarded: ''
+total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)
     hide-challenge-funnel: 'Yes'
     type-of-challenge: Creative (design & multimedia)

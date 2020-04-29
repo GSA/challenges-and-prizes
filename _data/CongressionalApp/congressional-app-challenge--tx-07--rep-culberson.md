@@ -68,25 +68,25 @@ groupName: Legislative Branch - House of Representatives
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: ''
-    submission-end: 01/21/2016 03:00 PM
-    why-use-prizes: ''
-    submission-start: 11/12/2015 12:00 PM
-    fiscal-year: FY 2016
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: ''
+submission-end: 01/21/2016 03:00 PM
+why-use-prizes: ''
+submission-start: 11/12/2015 12:00 PM
+fiscal-year: FY 2016
+public-voting-end-date: ''
     budget-and-resources: ''
-    total-prize-offered-cash: '0'
+total-prize-offered-cash: '0'
     campaign-owner: Rhianon Anderson
-    public-voting-start-date: ''
+public-voting-start-date: ''
     legal-authority: Other
-    total-number-of-prizes-awarded: ''
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '3642'
     solicitation-of-submissions: ''
-    total-submission-received: ''
-    total-number-of-participant: ''
+total-submission-received: ''
+total-number-of-participant: ''
     show-winners-instead-of-prizes: 'No'
     estimated-value-of-partner-contributions: ''
     non-monetary-incentives-awarded: ''
@@ -160,7 +160,7 @@ campaignAttributes:
       team, at least two (2) of the students must live or attend high school in the
       District in which they are competing.</li>   <li>You can double-check <a href="http://www.house.gov/representatives/find/"
       target="_blank"><strong>what district you live in, here.</strong></a></li>  </ul>  </li>  </ul>'
-    submission-start-date-1: ''
+submission-start-date-1: ''
     hide-challenge-timeline: 'No'
     judging-start-date: 01/22/2016 12:00 AM
     winners-announced-date: 02/22/2016 12:00 PM
@@ -169,7 +169,7 @@ campaignAttributes:
     solution-type: Software and apps
     partner-agencies-non-federal: ''
     original-post-id: '98221'
-    total-number-of-winners-awarded: ''
+total-number-of-winners-awarded: ''
     hosting: Hosted on this platform
     hide-challenge-funnel: 'Yes'
     type-of-challenge: Software and apps

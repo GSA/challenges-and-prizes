@@ -15,25 +15,25 @@ groupName: Department of Transportation
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://FAADesignCompetition.odu.edu
-    submission-end: 04/20/2013 03:00 AM
-    why-use-prizes: ''
-    submission-start: 11/01/2012 04:00 AM
-    fiscal-year: FY 2013
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://FAADesignCompetition.odu.edu
+submission-end: 04/20/2013 03:00 AM
+why-use-prizes: ''
+submission-start: 11/01/2012 04:00 AM
+fiscal-year: FY 2013
+public-voting-end-date: ''
     budget-and-resources: ''
-    total-prize-offered-cash: '30'
+total-prize-offered-cash: '30'
     campaign-owner: ''
-    public-voting-start-date: ''
+public-voting-start-date: ''
     legal-authority: Unspecified
-    total-number-of-prizes-awarded: ''
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '212'
     solicitation-of-submissions: ''
-    total-submission-received: Unknown
-    total-number-of-participant: ''
+total-submission-received: Unknown
+total-number-of-participant: ''
     show-winners-instead-of-prizes: 'No'
     estimated-value-of-partner-contributions: ''
     non-monetary-incentives-awarded: 1st- $2500; 2nd- $1500; 3rd-$1000 - $1000. This
@@ -43,7 +43,7 @@ campaignAttributes:
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''
-    submission-start-date-1: ''
+submission-start-date-1: ''
     hide-challenge-timeline: 'No'
     judging-start-date: ''
     winners-announced-date: ''
@@ -52,7 +52,7 @@ campaignAttributes:
     solution-type: Ideas
     partner-agencies-non-federal: ''
     original-post-id: '55362'
-    total-number-of-winners-awarded: ''
+total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)
     hide-challenge-funnel: 'Yes'
     type-of-challenge: Scientific

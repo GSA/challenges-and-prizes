@@ -15,25 +15,25 @@ groupName: National Science Foundation
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.nsf.gov/gradchallenge/
-    submission-end: 04/16/2013 07:00 AM
-    why-use-prizes: ''
-    submission-start: 02/15/2013 02:00 PM
-    fiscal-year: FY 2013
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.nsf.gov/gradchallenge/
+submission-end: 04/16/2013 07:00 AM
+why-use-prizes: ''
+submission-start: 02/15/2013 02:00 PM
+fiscal-year: FY 2013
+public-voting-end-date: ''
     budget-and-resources: ''
-    total-prize-offered-cash: '12500'
+total-prize-offered-cash: '12500'
     campaign-owner: ''
-    public-voting-start-date: ''
+public-voting-start-date: ''
     legal-authority: America COMPETES
-    total-number-of-prizes-awarded: ''
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '272'
     solicitation-of-submissions: ''
-    total-submission-received: '534'
-    total-number-of-participant: ''
+total-submission-received: '534'
+total-number-of-participant: ''
     show-winners-instead-of-prizes: 'No'
     estimated-value-of-partner-contributions: ''
     non-monetary-incentives-awarded: "$12500, at discretion of sponsor but to winners
@@ -43,7 +43,7 @@ campaignAttributes:
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''
-    submission-start-date-1: ''
+submission-start-date-1: ''
     hide-challenge-timeline: 'No'
     judging-start-date: ''
     winners-announced-date: ''
@@ -52,7 +52,7 @@ campaignAttributes:
     solution-type: Ideas
     partner-agencies-non-federal: ''
     original-post-id: '56222'
-    total-number-of-winners-awarded: ''
+total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)
     hide-challenge-funnel: 'Yes'
     type-of-challenge: Ideas
