@@ -10,7 +10,7 @@ moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
 tagline: App-ly Yourself to Tackle Today's Scientific Challenges
-groupName: Department of the Interior - United States Geological Survey
+groupName: Department of the Interior - U.S. Geological Survey
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
