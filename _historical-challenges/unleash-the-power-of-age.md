@@ -9,8 +9,7 @@ moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
 tagline: Unleash the Power of Age
-groupName: Department of Health and Human Services - Administration for Community
-  Living
+groupName: Department of Health and Human Services 
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
