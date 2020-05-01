@@ -59,10 +59,8 @@ permalink: json-page
                     {% endif %}
                     {{ content }} 
                 </div>
-                {% if page.external-url == nil  %}
                 {% if page.status == "open"  %}
                 {% include challenge-poc.html %}
-                {% endif %}
                 {% endif %}
             </div>
       
