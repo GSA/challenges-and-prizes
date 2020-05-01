@@ -3,7 +3,7 @@ layout: front-matter-data
 permalink: /challenge/2020-debut-challenge/
 challenge-id: 1087
 status: open
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/DEBUT.png
 agency-logo: NIH_Master_Logo_Vertical_2Color.jpg
 challenge-title: 2020 Design by Biomedical Undergraduate Teams (DEBUT) Challenge
