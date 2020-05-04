@@ -3,6 +3,7 @@
             <div class="grid-row">
                 {% assign sorted = (site.challenges | sort: 'submission-end') %}
                 {% for challenge in sorted %}
+                {% if challenge.status == "open" %}
             <div class="tablet:grid-col-4 cards">
                     <div class="card">
                             {% if challenge.external-url and challenge.external-url != '' %}
@@ -43,6 +44,7 @@
                         </div> 
                     </div>
             </div>
+            {% endif %}
                 {% endfor %}
             </div>
         </div>
