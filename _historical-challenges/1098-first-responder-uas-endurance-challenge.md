@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/first-responder-uas-endurance-challenge/
 challenge-id: 1098
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/NIST-UAS-2021.png
 agency-logo: NIST_logo.png
@@ -14,8 +14,8 @@ partners-non-federal: FIRSTNET Built with AT&T
 external-url:
 total-prize-offered-cash: $552,000
 type-of-challenge: Technology demonstration and hardware
-submission-start: 2020/04/01 09:00 AM
-submission-end: 2020/04/30 09:00 PM
+submission-start: 04/01/2020 09:00 AM
+submission-end: 04/30/2020 09:00 PM
 submission-link:
 prize: true
 fiscal-year: FY20, FY21
