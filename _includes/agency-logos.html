@@ -79,20 +79,10 @@
   		<img src="{{ site.baseurl }}/assets/images/agency/USAID_logo.png" alt="USAID logo" height="120" title="USAID">
 	{% endif %}
 
-	{% if challenge.groupName contains "National Nuclear Security Administration" or challenge.agency contains "National Nuclear Security Administration" %}
-  		<img src="{{ site.baseurl }}/assets/images/agency/US-NationalNuclearSecurityAdmin-Logo.png" alt="DOE logo" width="120" title="DOE">
-	{% endif %}
-
-	{% if challenge.groupName == "Department of Energy - Energy Programs" or challenge.agency == "Department of Energy - Energy Programs" %}
-  		<img src="{{ site.baseurl }}/assets/images/agency/256px-Seal_of_the_United_States_Department_of_Energy.png" alt="DOE logo" height="120" title="DOE">
-	{% endif %}
-
-	{% if challenge.groupName == "Department of Energy - Office of Energy Efficiency & Renewable Energy" or challenge.agency == "Department of Energy - Office of Energy Efficiency & Renewable Energy" %}
-		<img src="{{ site.baseurl }}/assets/images/agency/256px-Seal_of_the_United_States_Department_of_Energy.png" alt="DOE logo" height="120" title="DOE">
-	{% endif %}
-
-	{% if challenge.groupName == "Department of Energy" or challenge.agency == "Department of Energy" %}
-		<img src="{{ site.baseurl }}/assets/images/agency/256px-Seal_of_the_United_States_Department_of_Energy.png" alt="DOE logo" height="120" title="DOE">
+	{% if page.groupName contains "National Nuclear Security Administration" or page.agency contains "National Nuclear Security Administration" %}
+			<img src="{{ site.baseurl }}/assets/images/agency/US-NationalNuclearSecurityAdmin-Logo.png" alt="DOE logo" title="DOE">
+		{% elsif page.groupName contains "Department of Energy" or page.agency contains "Department of Energy" %}
+			<img src="{{ site.baseurl }}/assets/images/agency/256px-Seal_of_the_United_States_Department_of_Energy.png" alt="DOE logo" title="DOE">
 	{% endif %}
 
 	{% if challenge.groupName contains "Department of State" or challenge.agency contains "Department of State" %}
