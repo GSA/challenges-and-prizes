@@ -1,6 +1,6 @@
 
 	{% if challenge.groupName contains "U.S. Geological Survey" or challenge.agency contains "U.S. Geological Survey" %}
-  		<img src="{{ site.baseurl }}/assets/images/agency/usgs.jpg" alt="USGS logo" height="120" title="USGS">
+  		<img src="{{ site.baseurl }}/assets/images/agency/USGS_logo.png" alt="USGS logo" width="140" title="USGS">
 	{% endif %}
 
 	{% if challenge.groupName contains "National Science Foundation" or challenge.agency contains "National Science Foundation" %}
@@ -244,6 +244,16 @@
 	{% if challenge.groupName == "Department of Commerce" or challenge.agency == "Department of Commerce" %}
 	<img src="{{ site.baseurl }}/assets/images/agency/doc_logo.png" alt="Commerce logo" width="120" title="Commerce logo">
 	{% endif %}
+
+	{% if challenge.groupName contains "White House" or challenge.agency contains "White House" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/white_house-logo.jpeg" alt="White House logo" width="170" title="White House logo">
+	{% endif %}
+
+	{% if challenge.groupName contains "United States Mint" or challenge.agency contains "United States Mint" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/treasury-us-mint.png" alt="United States Mint logo" width="120" title="United States Mint logo">
+	{% endif %}
+
+
 
 
 

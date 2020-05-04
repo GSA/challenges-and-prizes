@@ -1,6 +1,6 @@
 
 	{% if page.groupName contains "U.S. Geological Survey" or page.agency contains "U.S. Geological Survey" %}
-  		<img src="{{ site.baseurl }}/assets/images/agency/usgs.jpg" alt="USGS logo" title="USGS">
+  		<img src="{{ site.baseurl }}/assets/images/agency/USGS_logo.png" alt="USGS logo" title="USGS">
 	{% endif %}
 
 	{% if page.groupName contains "National Science Foundation" or page.agency contains "National Science Foundation" %}
@@ -245,8 +245,13 @@
 	<img src="{{ site.baseurl }}/assets/images/agency/doc_logo.png" alt="Commerce logo" title="Commerce logo">
 	{% endif %}
 
-	
+	{% if page.groupName contains "White House" or page.agency contains "White House" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/white_house-logo.jpeg" alt="White House logo" title="White House logo">
+	{% endif %}
 
+
+	
+	
 
 
 
