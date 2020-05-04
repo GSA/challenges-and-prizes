@@ -5,42 +5,7 @@ layout: default
 <div class="grid-container">
     <div class="grid-row grid-gap">
 <!--Start Sidenav-->   
-<aside class="usa-layout-docs-sidenav desktop:grid-col-3 usa-section">
-    <!--Agency Logo-->
-    <div class="tablet:grid-col">
-        <img class="challenge-agency-logo" src="{{ site.baseurl }}{{ page.agency-logo }}" alt="{{ page.agency }} logo" width="225px" title="">
-        <h3 class="text-base-dark">{{ page.agency }}</h3>
-    </div> 
-    <!--End Agency Logo-->
-    {% if page.sidenav == true %}
-    <hr>
-  <nav>
-    <h3 class="text-base-dark">Page Contents</h3>
-    <ul class="usa-sidenav">
-      <li class="usa-sidenav__item">
-        <a class="text-accent-warm-dark" href="#description">Description<span class="sr-only"> (in-page link)</span></a>
-      </li>
-      <li class="usa-sidenav__item">
-        <a href="#prizes">Prizes<span class="sr-only"> (in-page link)</span></a>
-      </li>
-      <li class="usa-sidenav__item">
-        <a href="#rules">Rules<span class="sr-only"> (in-page link)</span></a>
-      </li>
-      <li class="usa-sidenav__item">
-        <a href="#judging-criteria">Judging Criteria<span class="sr-only"> (in-page link)</span></a>
-      </li>
-      <li class="usa-sidenav__item">
-        <a href="#how-to-enter">How To Enter<span class="sr-only"> (in-page link)</span></a>
-      </li>
-      {% if page.status == "open" %}
-      <li class="usa-sidenav__item">
-        <a href="#contact">Point of Contact<span class="sr-only"> (in-page link)</span></a>
-      </li>
-      {% endif %}
-    </ul>
-  </nav>
-  {% endif %}
-</aside>
+      {% include sidenav-front-matter-data.html %}
 <!--End Sidenav-->
         <div class="desktop:grid-col-9 usa-prose usa-section challenge-main">
             {% if page.status == "closed" %}

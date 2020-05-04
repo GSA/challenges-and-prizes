@@ -1,6 +1,10 @@
 
 <aside class="usa-layout-docs-sidenav desktop:grid-col-3 usa-section">
+  {% if page.layout == "front-matter-data" %}
     {% include agency-front-matter-data.html %}
+  {% elsif page.layout == "front-matter-data-markdownify-content" %}
+    {% include netlify-layout-sidenav-agency-logo.html %}
+  {% endif %}
     <hr>
     {% if page.sidenav == true %}
   <nav>
