@@ -3,7 +3,7 @@ layout: front-matter-data
 permalink: /challenge/NASA-sand-challenge/
 challenge-id: 1077
 status: closed
-sidenav: false 
+sidenav: true 
 card-image: /assets/images/cards/NASA_challenge_logo.png
 agency-logo: 717px-NASA_logo.png
 challenge-title: Safeguard with Autonomous Navigation Demonstration

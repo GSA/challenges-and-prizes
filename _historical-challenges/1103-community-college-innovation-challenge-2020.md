@@ -4,7 +4,7 @@ layout: front-matter-data
 permalink: /challenge/community-college-innovation-challenge-2020/
 challenge-id: 1103
 status: closed
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/CCIC-2020-340x160.png
 agency-logo: nsf.png
 tagline: Seeking community college student innovators to develop STEM solutions
