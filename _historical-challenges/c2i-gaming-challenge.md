@@ -1,42 +1,43 @@
 ---
 ideaSubmitFormInstruction: ''
-startDate: '2012-03-16T00:00:00'
+startDate: '2012-01-23T00:00:00'
 votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 253
+id: 235
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: Following disease trends, 140 characters at a time
-groupName: Department of Health and Human Services
+tagline: How can interactive technology and game-based learning improve teaching and
+  learning?
+groupName: Department of Education
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
-    external-url: http://www.nowtrendingchallenge.com/
-    submission-end: 06/02/2012 03:00 AM
+    external-url: http://innovation.ed.gov/challenges/gaming/show/
+    submission-end: 03/06/2012 04:00 AM
     why-use-prizes: ''
-    submission-start: 03/16/2012 12:00 PM
+    submission-start: 01/23/2012 02:00 PM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''
-    total-prize-offered-cash: '21000'
+    total-prize-offered-cash: '10000'
     campaign-owner: ''
     public-voting-start-date: ''
-    legal-authority: America COMPETES
+    legal-authority: Unspecified
     total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
-    agency-id: '102'
+    agency-id: '192'
     solicitation-of-submissions: ''
-    total-submission-received: '33'
+    total-submission-received: '157'
     total-number-of-participant: ''
     show-winners-instead-of-prizes: 'No'
     estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: '1st (1): $21,000, $1,000 travel money, Demo
-      opportunity'
+    non-monetary-incentives-awarded: Up to 10 solutions will receive $1,000 cash awards
+      from the NEA Foundation
     partner-agencies-federal: ''
     judging-end-date: ''
     solicitation-methods: ''
@@ -50,11 +51,11 @@ campaignAttributes:
     campaign-owner-email: ''
     solution-type: Software and apps
     partner-agencies-non-federal: ''
-    original-post-id: '53362'
+    original-post-id: '52832'
     total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)
     hide-challenge-funnel: 'Yes'
-    type-of-challenge: Software and apps
+    type-of-challenge: Ideas
     participation-requirements: ''
     number-of-phases: ''
     how-to-enter: ''
@@ -121,7 +122,7 @@ campaignAttributes:
     judging-criteria-percentage-9: ''
     judging-criteria-9: ''
   - prize-description-0: ''
-    prize-cash-amount-0: '21000'
+    prize-cash-amount-0: '10000'
     prize-name-0: ''
   - prize-description-1: ''
     prize-cash-amount-1: ''
@@ -231,13 +232,13 @@ hideCommentAuthor: false
 authorizedGroupIds: []
 userSubscriptionAllowed: false
 bannerImage: ''
-groupId: 23
+groupId: 285
 showTagline: true
-name: 'Now Trending: #Health in My Community'
+name: 'C2i: Gaming Challenge'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/now-trending:-health-in-my-community/"
+permalink: "/challenge/c2i-gaming-challenge/"
 layout: json-page
 ---

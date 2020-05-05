@@ -1,41 +1,42 @@
 ---
 ideaSubmitFormInstruction: ''
-startDate: '2012-02-15T00:00:00'
+startDate: '2012-03-16T00:00:00'
 votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 245
+id: 253
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: Nominate the most outstanding SBA Counselor of the Year in the SCORE association!
-groupName: Small Business Administration
+tagline: Following disease trends, 140 characters at a time
+groupName: Department of Health and Human Services
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
-    external-url: http://alaska.score.org/news/score-congratulates-2012-sba-counselor-year-beth-shapiro
-    submission-end: 03/01/2012 11:00 PM
+    external-url: http://www.nowtrendingchallenge.com/
+    submission-end: 06/02/2012 03:00 AM
     why-use-prizes: ''
-    submission-start: 02/15/2012 06:00 PM
+    submission-start: 03/16/2012 12:00 PM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''
-    total-prize-offered-cash: '0'
+    total-prize-offered-cash: '21000'
     campaign-owner: ''
     public-voting-start-date: ''
-    legal-authority: Unspecified
+    legal-authority: America COMPETES
     total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
-    agency-id: '122'
+    agency-id: '102'
     solicitation-of-submissions: ''
-    total-submission-received: Unknown
+    total-submission-received: '33'
     total-number-of-participant: ''
     show-winners-instead-of-prizes: 'No'
     estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: The winner will be announced during Nati
+    non-monetary-incentives-awarded: '1st (1): $21,000, $1,000 travel money, Demo
+      opportunity'
     partner-agencies-federal: ''
     judging-end-date: ''
     solicitation-methods: ''
@@ -47,13 +48,13 @@ campaignAttributes:
     winners-announced-date: ''
     cash-prizes-and-non-cash-prize-awards: ''
     campaign-owner-email: ''
-    solution-type: Nominations
+    solution-type: Software and apps
     partner-agencies-non-federal: ''
-    original-post-id: '53122'
+    original-post-id: '53362'
     total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)
     hide-challenge-funnel: 'Yes'
-    type-of-challenge: Nominations
+    type-of-challenge: Software and apps
     participation-requirements: ''
     number-of-phases: ''
     how-to-enter: ''
@@ -120,7 +121,7 @@ campaignAttributes:
     judging-criteria-percentage-9: ''
     judging-criteria-9: ''
   - prize-description-0: ''
-    prize-cash-amount-0: '0'
+    prize-cash-amount-0: '21000'
     prize-name-0: ''
   - prize-description-1: ''
     prize-cash-amount-1: ''
@@ -230,13 +231,13 @@ hideCommentAuthor: false
 authorizedGroupIds: []
 userSubscriptionAllowed: false
 bannerImage: ''
-groupId: 280
+groupId: 23
 showTagline: true
-name: 'SBA Counselor of the Year: SCORE'
+name: 'Now Trending: #Health in My Community'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/sba-counselor-of-the-year:-score/"
+permalink: "/challenge/now-trending-health-in-my-community/"
 layout: json-page
 ---

@@ -1,44 +1,41 @@
 ---
 ideaSubmitFormInstruction: ''
-startDate: '2011-11-01T00:00:00'
+startDate: '2012-02-15T00:00:00'
 votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 208
+id: 244
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: The National Archives challenges students to create multimedia projects inspired
-  by Documerica environmental photos. Compete in 3 age groups and submit in the Graphic
-  Art, Video, or Poetry category.
-groupName: International Assistance Programs - Department of State - Other
+tagline: Nominate the most outstanding SBA Counselor of the Year in the WBC network!
+groupName: Small Business Administration
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
-    external-url: http://documerica.challengepost.com/submissions
-    submission-end: 01/07/2012 10:00 AM
+    external-url: http://www.sba.gov/sites/default/files/news/2012%20SBW%20Award%20Winner%20Press%20Bios_0.pdf
+    submission-end: 03/01/2012 11:00 PM
     why-use-prizes: ''
-    submission-start: 11/01/2011 06:00 PM
+    submission-start: 02/15/2012 06:00 PM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''
-    total-prize-offered-cash: '990'
+    total-prize-offered-cash: '0'
     campaign-owner: ''
     public-voting-start-date: ''
     legal-authority: Unspecified
     total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
-    agency-id: '542'
+    agency-id: '122'
     solicitation-of-submissions: ''
-    total-submission-received: '7'
+    total-submission-received: Unknown
     total-number-of-participant: ''
     show-winners-instead-of-prizes: 'No'
     estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: 'Grand Prize: $500; Video finalist: $70; Graphic
-      art (3): $70; poetry (3): $70'
+    non-monetary-incentives-awarded: The winner will be announced during Nati
     partner-agencies-federal: ''
     judging-end-date: ''
     solicitation-methods: ''
@@ -50,13 +47,13 @@ campaignAttributes:
     winners-announced-date: ''
     cash-prizes-and-non-cash-prize-awards: ''
     campaign-owner-email: ''
-    solution-type: Creative (design & multimedia)
+    solution-type: Nominations
     partner-agencies-non-federal: ''
-    original-post-id: '52012'
+    original-post-id: '53092'
     total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)
     hide-challenge-funnel: 'Yes'
-    type-of-challenge: Creative (design & multimedia)
+    type-of-challenge: Nominations
     participation-requirements: ''
     number-of-phases: ''
     how-to-enter: ''
@@ -123,7 +120,7 @@ campaignAttributes:
     judging-criteria-percentage-9: ''
     judging-criteria-9: ''
   - prize-description-0: ''
-    prize-cash-amount-0: '990'
+    prize-cash-amount-0: '0'
     prize-name-0: ''
   - prize-description-1: ''
     prize-cash-amount-1: ''
@@ -233,13 +230,13 @@ hideCommentAuthor: false
 authorizedGroupIds: []
 userSubscriptionAllowed: false
 bannerImage: ''
-groupId: 290
+groupId: 280
 showTagline: true
-name: 'Document Your Environment: Student Multimedia Contest'
+name: 'SBA Counselor of the Year: Womens Business Center'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/document-your-environment:-student-multimedia-contest/"
+permalink: "/challenge/sba-counselor-of-the-year-womens-business-center/"
 layout: json-page
 ---

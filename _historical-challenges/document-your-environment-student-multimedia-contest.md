@@ -1,44 +1,44 @@
 ---
 ideaSubmitFormInstruction: ''
-startDate: '2012-03-08T00:00:00'
+startDate: '2011-11-01T00:00:00'
 votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 252
+id: 208
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: The Surgeon Generals (SG) Video Contest for Youth and Young Adults invites
-  young Americans to speak up about tobacco and tell us why they are not buying it.
-groupName: Department of Health and Human Services - Centers for Disease Control and
-  Prevention
+tagline: The National Archives challenges students to create multimedia projects inspired
+  by Documerica environmental photos. Compete in 3 age groups and submit in the Graphic
+  Art, Video, or Poetry category.
+groupName: International Assistance Programs - Department of State - Other
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
-    external-url: http://www.cdc.gov/tobacco/data_statistics/sgr/2012/contest/
-    submission-end: 04/23/2012 03:00 AM
+    external-url: http://documerica.challengepost.com/submissions
+    submission-end: 01/07/2012 10:00 AM
     why-use-prizes: ''
-    submission-start: 03/08/2012 04:00 PM
+    submission-start: 11/01/2011 06:00 PM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''
-    total-prize-offered-cash: '10000'
+    total-prize-offered-cash: '990'
     campaign-owner: ''
     public-voting-start-date: ''
-    legal-authority: America COMPETES
+    legal-authority: Unspecified
     total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
-    agency-id: '102'
+    agency-id: '542'
     solicitation-of-submissions: ''
-    total-submission-received: '24'
+    total-submission-received: '7'
     total-number-of-participant: ''
     show-winners-instead-of-prizes: 'No'
     estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: '1st (4): $1,000, Public recognition; 2nd (12):
-      $500, Public recognition'
+    non-monetary-incentives-awarded: 'Grand Prize: $500; Video finalist: $70; Graphic
+      art (3): $70; poetry (3): $70'
     partner-agencies-federal: ''
     judging-end-date: ''
     solicitation-methods: ''
@@ -52,7 +52,7 @@ campaignAttributes:
     campaign-owner-email: ''
     solution-type: Creative (design & multimedia)
     partner-agencies-non-federal: ''
-    original-post-id: '53332'
+    original-post-id: '52012'
     total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)
     hide-challenge-funnel: 'Yes'
@@ -123,7 +123,7 @@ campaignAttributes:
     judging-criteria-percentage-9: ''
     judging-criteria-9: ''
   - prize-description-0: ''
-    prize-cash-amount-0: '10000'
+    prize-cash-amount-0: '990'
     prize-name-0: ''
   - prize-description-1: ''
     prize-cash-amount-1: ''
@@ -233,13 +233,13 @@ hideCommentAuthor: false
 authorizedGroupIds: []
 userSubscriptionAllowed: false
 bannerImage: ''
-groupId: 164
+groupId: 290
 showTagline: true
-name: 'Surgeon General''s Video Contest: Tobacco- I''m Not Buying It'
+name: 'Document Your Environment: Student Multimedia Contest'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/surgeon-generals-video-contest:-tobacco--im-not-buying-it/"
+permalink: "/challenge/document-your-environment-student-multimedia-contest/"
 layout: json-page
 ---

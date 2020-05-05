@@ -1,41 +1,44 @@
 ---
 ideaSubmitFormInstruction: ''
-startDate: '2012-02-15T00:00:00'
+startDate: '2012-03-08T00:00:00'
 votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 244
+id: 252
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: Nominate the most outstanding SBA Counselor of the Year in the WBC network!
-groupName: Small Business Administration
+tagline: The Surgeon Generals (SG) Video Contest for Youth and Young Adults invites
+  young Americans to speak up about tobacco and tell us why they are not buying it.
+groupName: Department of Health and Human Services - Centers for Disease Control and
+  Prevention
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
-    external-url: http://www.sba.gov/sites/default/files/news/2012%20SBW%20Award%20Winner%20Press%20Bios_0.pdf
-    submission-end: 03/01/2012 11:00 PM
+    external-url: http://www.cdc.gov/tobacco/data_statistics/sgr/2012/contest/
+    submission-end: 04/23/2012 03:00 AM
     why-use-prizes: ''
-    submission-start: 02/15/2012 06:00 PM
+    submission-start: 03/08/2012 04:00 PM
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''
-    total-prize-offered-cash: '0'
+    total-prize-offered-cash: '10000'
     campaign-owner: ''
     public-voting-start-date: ''
-    legal-authority: Unspecified
+    legal-authority: America COMPETES
     total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
-    agency-id: '122'
+    agency-id: '102'
     solicitation-of-submissions: ''
-    total-submission-received: Unknown
+    total-submission-received: '24'
     total-number-of-participant: ''
     show-winners-instead-of-prizes: 'No'
     estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: The winner will be announced during Nati
+    non-monetary-incentives-awarded: '1st (4): $1,000, Public recognition; 2nd (12):
+      $500, Public recognition'
     partner-agencies-federal: ''
     judging-end-date: ''
     solicitation-methods: ''
@@ -47,13 +50,13 @@ campaignAttributes:
     winners-announced-date: ''
     cash-prizes-and-non-cash-prize-awards: ''
     campaign-owner-email: ''
-    solution-type: Nominations
+    solution-type: Creative (design & multimedia)
     partner-agencies-non-federal: ''
-    original-post-id: '53092'
+    original-post-id: '53332'
     total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)
     hide-challenge-funnel: 'Yes'
-    type-of-challenge: Nominations
+    type-of-challenge: Creative (design & multimedia)
     participation-requirements: ''
     number-of-phases: ''
     how-to-enter: ''
@@ -120,7 +123,7 @@ campaignAttributes:
     judging-criteria-percentage-9: ''
     judging-criteria-9: ''
   - prize-description-0: ''
-    prize-cash-amount-0: '0'
+    prize-cash-amount-0: '10000'
     prize-name-0: ''
   - prize-description-1: ''
     prize-cash-amount-1: ''
@@ -230,13 +233,13 @@ hideCommentAuthor: false
 authorizedGroupIds: []
 userSubscriptionAllowed: false
 bannerImage: ''
-groupId: 280
+groupId: 164
 showTagline: true
-name: 'SBA Counselor of the Year: Womens Business Center'
+name: 'Surgeon General''s Video Contest: Tobacco- I''m Not Buying It'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/sba-counselor-of-the-year:-womens-business-center/"
+permalink: "/challenge/surgeon-generals-video-contest-tobacco--im-not-buying-it/"
 layout: json-page
 ---

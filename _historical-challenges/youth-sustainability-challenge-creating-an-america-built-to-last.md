@@ -239,6 +239,6 @@ privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/youth-sustainability-challenge:-creating-an-america-built-to-last/"
+permalink: "/challenge/youth-sustainability-challenge-creating-an-america-built-to-last/"
 layout: json-page
 ---

@@ -5,18 +5,18 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 246
+id: 245
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: Nominate the most outstanding SBA Counselor of the Year in the SBDC network!
+tagline: Nominate the most outstanding SBA Counselor of the Year in the SCORE association!
 groupName: Small Business Administration
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
   attributes:
     total-prize-awarded-cash: ''
-    external-url: http://www.sba.gov/sites/default/files/news/2012%20SBW%20Award%20Winner%20Press%20Bios_0.pdf
+    external-url: http://alaska.score.org/news/score-congratulates-2012-sba-counselor-year-beth-shapiro
     submission-end: 03/01/2012 11:00 PM
     why-use-prizes: ''
     submission-start: 02/15/2012 06:00 PM
@@ -49,7 +49,7 @@ campaignAttributes:
     campaign-owner-email: ''
     solution-type: Nominations
     partner-agencies-non-federal: ''
-    original-post-id: '53152'
+    original-post-id: '53122'
     total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)
     hide-challenge-funnel: 'Yes'
@@ -232,11 +232,11 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 280
 showTagline: true
-name: 'SBA Counselor of the Year: Small Business Development Center'
+name: 'SBA Counselor of the Year: SCORE'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/sba-counselor-of-the-year:-small-business-development-center/"
+permalink: "/challenge/sba-counselor-of-the-year-score/"
 layout: json-page
 ---
