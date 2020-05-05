@@ -30,21 +30,21 @@ campaign-owner: ''
 public-voting-start-date: ''
 legal-authority: America COMPETES
 total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '202'
-    solicitation-of-submissions: ''
-    total-submission-received: '56'
-    total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: 'Best Overall Application Grand Prize: $30,000;
+evaluation-of-submissions: ''
+agency-id: '202'
+solicitation-of-submissions: ''
+total-submission-received: '56'
+total-number-of-participant: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: 'Best Overall Application Grand Prize: $30,000;
       Best Overall Application Second Prize: $15,000; Best Overall Application Third
       Prize: $7,500; Student Award Grand Prize: $15,000; Student Award Second Prize:
       $7,500; Popular Choice Award Grand Prize: $8,000; Popular Choice Award Second
       Prize $4,000; Travel to DC (7): $1,000; Peak Energy Usage Award: $6,000'
-    partner-agencies-federal: '0'
-    judging-end-date: ''
-    solicitation-methods: ''
+partner-agencies-federal: '0'
+judging-end-date: ''
+solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''
     submission-start-date-1: ''

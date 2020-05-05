@@ -29,19 +29,19 @@ campaign-owner: ''
 public-voting-start-date: ''
 legal-authority: Other
 total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '92'
-    solicitation-of-submissions: ''
-    total-submission-received: Unknown
-    total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: 'Within each focus--1st: $10000; 2nd: $5000;
+evaluation-of-submissions: ''
+agency-id: '92'
+solicitation-of-submissions: ''
+total-submission-received: Unknown
+total-number-of-participant: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: 'Within each focus--1st: $10000; 2nd: $5000;
       3rd: $3000; one grand prize that is awarded to one entry in either focus area
       of $15000'
-    partner-agencies-federal: ''
-    judging-end-date: ''
-    solicitation-methods: ''
+partner-agencies-federal: ''
+judging-end-date: ''
+solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''
     submission-start-date-1: ''

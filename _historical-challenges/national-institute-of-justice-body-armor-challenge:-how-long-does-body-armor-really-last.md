@@ -29,19 +29,19 @@ campaign-owner: ''
 public-voting-start-date: ''
 legal-authority: Other
 total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '152'
-    solicitation-of-submissions: ''
-    total-submission-received: Unknown
-    total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: Up to $50000. $25000 of that will be apportioned
+evaluation-of-submissions: ''
+agency-id: '152'
+solicitation-of-submissions: ''
+total-submission-received: Unknown
+total-number-of-participant: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: Up to $50000. $25000 of that will be apportioned
       equally among contestants invited to participate in Phase II, and the remaining
       $25000 will be awarded tot he winner of Phase II
-    partner-agencies-federal: ''
-    judging-end-date: ''
-    solicitation-methods: ''
+partner-agencies-federal: ''
+judging-end-date: ''
+solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''
     submission-start-date-1: ''

@@ -29,17 +29,17 @@ campaign-owner: ''
 public-voting-start-date: ''
 legal-authority: Other
 total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '132'
-    solicitation-of-submissions: ''
-    total-submission-received: Unknown
-    total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: "$8000, distribution undefined"
-    partner-agencies-federal: ''
-    judging-end-date: ''
-    solicitation-methods: ''
+evaluation-of-submissions: ''
+agency-id: '132'
+solicitation-of-submissions: ''
+total-submission-received: Unknown
+total-number-of-participant: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: "$8000, distribution undefined"
+partner-agencies-federal: ''
+judging-end-date: ''
+solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''
     submission-start-date-1: ''

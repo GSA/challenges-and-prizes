@@ -28,21 +28,21 @@ campaign-owner: ''
 public-voting-start-date: ''
 legal-authority: America COMPETES
 total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '102'
-    solicitation-of-submissions: ''
-    total-submission-received: '232'
-    total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: "$50000. Best overall first: $16000; best overall
+evaluation-of-submissions: ''
+agency-id: '102'
+solicitation-of-submissions: ''
+total-submission-received: '232'
+total-number-of-participant: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: "$50000. Best overall first: $16000; best overall
       second: $6000; best overall third: $4000; best medical/problem history section:
       $5000; best medical/problem history section second: $2000; Best medical/problem
       history section third: $1000; Best medication; Public recognition; Resources
       to develop winning design"
-    partner-agencies-federal: ''
-    judging-end-date: ''
-    solicitation-methods: ''
+partner-agencies-federal: ''
+judging-end-date: ''
+solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''
     submission-start-date-1: ''

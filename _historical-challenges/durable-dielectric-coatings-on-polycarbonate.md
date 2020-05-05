@@ -29,20 +29,20 @@ campaign-owner: ''
 public-voting-start-date: ''
 legal-authority: Other
 total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '92'
-    solicitation-of-submissions: ''
-    total-submission-received: Unknown
-    total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: Best Solution(s); To receive an award, the Solvers
+evaluation-of-submissions: ''
+agency-id: '92'
+solicitation-of-submissions: ''
+total-submission-received: Unknown
+total-number-of-participant: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: Best Solution(s); To receive an award, the Solvers
       will not have to transfer their exclusive IP rights to the Seeker, instead,
       they will grant to the Seeker non-exclusive license to practice their solutions.
       However, no awards were made.
-    partner-agencies-federal: ''
-    judging-end-date: ''
-    solicitation-methods: ''
+partner-agencies-federal: ''
+judging-end-date: ''
+solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''
     submission-start-date-1: ''

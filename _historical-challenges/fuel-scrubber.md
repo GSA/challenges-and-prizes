@@ -28,18 +28,18 @@ campaign-owner: ''
 public-voting-start-date: ''
 legal-authority: Other
 total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '92'
-    solicitation-of-submissions: ''
-    total-submission-received: Unknown
-    total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: "$20000 to winner. Two winners were selected.
+evaluation-of-submissions: ''
+agency-id: '92'
+solicitation-of-submissions: ''
+total-submission-received: Unknown
+total-number-of-participant: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: "$20000 to winner. Two winners were selected.
       This is the AF first double award. Both winners received the full prize"
-    partner-agencies-federal: ''
-    judging-end-date: ''
-    solicitation-methods: ''
+partner-agencies-federal: ''
+judging-end-date: ''
+solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''
     submission-start-date-1: ''

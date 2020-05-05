@@ -28,20 +28,20 @@ campaign-owner: ''
 public-voting-start-date: ''
 legal-authority: Unspecified
 total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '92'
-    solicitation-of-submissions: ''
-    total-submission-received: '140'
-    total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: Up to ten teams will receive travel, lodging,
+evaluation-of-submissions: ''
+agency-id: '92'
+solicitation-of-submissions: ''
+total-submission-received: '140'
+total-number-of-participant: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: Up to ten teams will receive travel, lodging,
       and per diem expenses for up to five team members to participate in the competition
       fly-off, with expenses not to exceed $15,000 (USD) per team. The competition
       fly-off winner will be awarded a $100,000 prize
-    partner-agencies-federal: ''
-    judging-end-date: ''
-    solicitation-methods: ''
+partner-agencies-federal: ''
+judging-end-date: ''
+solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''
     submission-start-date-1: ''
