@@ -4,7 +4,7 @@ challenge-title: xTech COVID-19 Ventilator Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/xTech-COVID-19-ventilator-challenge/
 challenge-id: "1118"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/xtech-ventilator-challenge2.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
@@ -17,8 +17,8 @@ total-prize-offered-cash: $1,000,000
 type-of-challenge:
   - Ideas
   - Technology demonstration and hardware
-submission-start: 2020/04/05 5:00 p.m.
-submission-end: 2020/04/30 06:00 p.m.
+submission-start: 04/05/2020 5:00 p.m.
+submission-end: 04/30/2020 06:00 p.m.
 fiscal-year: FY20
 legal-authority: Agency specific prize authority
 challenge-manager: Zeke Topolosky

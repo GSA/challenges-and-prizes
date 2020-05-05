@@ -24,7 +24,7 @@ submission-start: '09/17/2014 12:00 AM'
 fiscal-year: FY 2014
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '12500'
+total-prize-offered-cash: '$12,500'
 campaign-owner: ''
 public-voting-start-date: ''
 legal-authority: Unspecified
@@ -40,7 +40,7 @@ non-monetary-incentives-awarded: The total guaranteed payout will be $12,500,
   with at least one award being no smaller than $5,000 and no award being smaller
   than $1,000.  In addition, an extra $12,500 in award money is available for
   truly exceptional submissions.
-partner-agencies-federal: '0'
+partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''

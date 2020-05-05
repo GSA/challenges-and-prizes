@@ -1,6 +1,6 @@
 
 	{% if challenge.groupName contains "U.S. Geological Survey" or challenge.agency contains "U.S. Geological Survey" %}
-  		<img src="{{ site.baseurl }}/assets/images/agency/usgs.jpg" alt="USGS logo" height="120" title="USGS">
+  		<img src="{{ site.baseurl }}/assets/images/agency/USGS_logo.png" alt="USGS logo" width="140" title="USGS">
 	{% endif %}
 
 	{% if challenge.groupName contains "National Science Foundation" or challenge.agency contains "National Science Foundation" %}
@@ -80,19 +80,9 @@
 	{% endif %}
 
 	{% if challenge.groupName contains "National Nuclear Security Administration" or challenge.agency contains "National Nuclear Security Administration" %}
-  		<img src="{{ site.baseurl }}/assets/images/agency/US-NationalNuclearSecurityAdmin-Logo.png" alt="DOE logo" width="120" title="DOE">
-	{% endif %}
-
-	{% if challenge.groupName == "Department of Energy - Energy Programs" or challenge.agency == "Department of Energy - Energy Programs" %}
-  		<img src="{{ site.baseurl }}/assets/images/agency/256px-Seal_of_the_United_States_Department_of_Energy.png" alt="DOE logo" height="120" title="DOE">
-	{% endif %}
-
-	{% if challenge.groupName == "Department of Energy - Office of Energy Efficiency & Renewable Energy" or challenge.agency == "Department of Energy - Office of Energy Efficiency & Renewable Energy" %}
-		<img src="{{ site.baseurl }}/assets/images/agency/256px-Seal_of_the_United_States_Department_of_Energy.png" alt="DOE logo" height="120" title="DOE">
-	{% endif %}
-
-	{% if challenge.groupName == "Department of Energy" or challenge.agency == "Department of Energy" %}
-		<img src="{{ site.baseurl }}/assets/images/agency/256px-Seal_of_the_United_States_Department_of_Energy.png" alt="DOE logo" height="120" title="DOE">
+			<img src="{{ site.baseurl }}/assets/images/agency/US-NationalNuclearSecurityAdmin-Logo.png" alt="DOE logo" width="120" title="DOE">
+		{% elsif challenge.groupName contains "Department of Energy" or challenge.agency contains "Department of Energy" %}
+			<img src="{{ site.baseurl }}/assets/images/agency/256px-Seal_of_the_United_States_Department_of_Energy.png" alt="DOE logo" height="120" title="DOE">
 	{% endif %}
 
 	{% if challenge.groupName contains "Department of State" or challenge.agency contains "Department of State" %}
@@ -254,6 +244,16 @@
 	{% if challenge.groupName == "Department of Commerce" or challenge.agency == "Department of Commerce" %}
 	<img src="{{ site.baseurl }}/assets/images/agency/doc_logo.png" alt="Commerce logo" width="120" title="Commerce logo">
 	{% endif %}
+
+	{% if challenge.groupName contains "White House" or challenge.agency contains "White House" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/white_house-logo.jpeg" alt="White House logo" width="170" title="White House logo">
+	{% endif %}
+
+	{% if challenge.groupName contains "United States Mint" or challenge.agency contains "United States Mint" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/treasury-us-mint.png" alt="United States Mint logo" width="120" title="United States Mint logo">
+	{% endif %}
+
+
 
 
 

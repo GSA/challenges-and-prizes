@@ -1,10 +1,10 @@
 ---
 challenge-title: MIT COVID19 Challenge
-layout: front-matter-data-netlify
+layout: front-matter-data-markdownify-content
 permalink: /challenge/MIT-COVID19-challenge/
 challenge-id: 1114
 status: closed
-sidenav: false
+sidenav: true
 card-image: /assets/netlify-uploads/mit-covid-19.png
 agency-logo: /assets/netlify-uploads/valogo.png
 tagline: >-

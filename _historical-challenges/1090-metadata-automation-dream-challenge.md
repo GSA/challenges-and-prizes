@@ -3,7 +3,7 @@ layout: front-matter-data
 permalink: /challenge/metadata-automation-dream-challenge/
 challenge-id: 1090
 status: closed
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/MAC-Canva-Image_JRN-341x160.png
 agency-logo: NIH-Generic.png
 challenge-title: Metadata Automation DREAM Challenge

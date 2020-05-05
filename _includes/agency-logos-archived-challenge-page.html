@@ -1,6 +1,6 @@
 
 	{% if page.groupName contains "U.S. Geological Survey" or page.agency contains "U.S. Geological Survey" %}
-  		<img src="{{ site.baseurl }}/assets/images/agency/usgs.jpg" alt="USGS logo" title="USGS">
+  		<img src="{{ site.baseurl }}/assets/images/agency/USGS_logo.png" alt="USGS logo" title="USGS">
 	{% endif %}
 
 	{% if page.groupName contains "National Science Foundation" or page.agency contains "National Science Foundation" %}
@@ -80,19 +80,9 @@
 	{% endif %}
 
 	{% if page.groupName contains "National Nuclear Security Administration" or page.agency contains "National Nuclear Security Administration" %}
-  		<img src="{{ site.baseurl }}/assets/images/agency/US-NationalNuclearSecurityAdmin-Logo.png" alt="DOE logo" title="DOE">
-	{% endif %}
-
-	{% if page.groupName == "Department of Energy - Energy Programs" or page.agency == "Department of Energy - Energy Programs" %}
-  		<img src="{{ site.baseurl }}/assets/images/agency/256px-Seal_of_the_United_States_Department_of_Energy.png" alt="DOE logo" title="DOE">
-	{% endif %}
-
-	{% if page.groupName == "Department of Energy - Office of Energy Efficiency & Renewable Energy" or page.agency == "Department of Energy - Office of Energy Efficiency & Renewable Energy" %}
-  		<img src="{{ site.baseurl }}/assets/images/agency/256px-Seal_of_the_United_States_Department_of_Energy.png" alt="DOE logo" title="DOE">
-	{% endif %}
-
-	{% if page.groupName == "Department of Energy" or page.agency == "Department of Energy" %}
-  		<img src="{{ site.baseurl }}/assets/images/agency/256px-Seal_of_the_United_States_Department_of_Energy.png" alt="DOE logo" title="DOE">
+		  <img src="{{ site.baseurl }}/assets/images/agency/US-NationalNuclearSecurityAdmin-Logo.png" alt="DOE logo" title="DOE">
+		{% elsif page.groupName contains "Department of Energy" or page.agency contains "Department of Energy" %}
+		  <img src="{{ site.baseurl }}/assets/images/agency/256px-Seal_of_the_United_States_Department_of_Energy.png" alt="DOE logo" title="DOE">
 	{% endif %}
 
 	{% if page.groupName contains "Department of State" or page.agency contains "Department of State" %}
@@ -255,8 +245,13 @@
 	<img src="{{ site.baseurl }}/assets/images/agency/doc_logo.png" alt="Commerce logo" title="Commerce logo">
 	{% endif %}
 
-	
+	{% if page.groupName contains "White House" or page.agency contains "White House" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/white_house-logo.jpeg" alt="White House logo" title="White House logo">
+	{% endif %}
 
+
+	
+	
 
 
 
