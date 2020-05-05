@@ -71,7 +71,7 @@ external-url: http://www.nsf.gov/GenNano
 submission-end: 02/02/2016 11:59 PM
 why-use-prizes: ''
 submission-start: 11/19/2015 12:00 PM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: 04/16/2016 11:59 PM
 budget-and-resources: ''
 total-prize-offered-cash: '$3,000'

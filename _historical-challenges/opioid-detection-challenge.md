@@ -21,7 +21,7 @@ external-url: http://www.opioiddetectionchallenge.com
 submission-end: 04/24/2019 04:59 PM
 why-use-prizes: ''
 submission-start: 02/27/2019 09:30 AM
-fiscal-year: FY 2019
+fiscal-year: FY19
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

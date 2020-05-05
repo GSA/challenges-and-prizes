@@ -22,7 +22,7 @@ external-url: http://vetoviolence.challengepost.com/submissions
 submission-end: '08/16/2013 03:00 AM'
 why-use-prizes: ''
 submission-start: 07/15/2013 04:00 AM
-fiscal-year: FY 2013
+fiscal-year: FY13
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$1,500'

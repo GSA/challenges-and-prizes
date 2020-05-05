@@ -21,7 +21,7 @@ external-url: http://www.health2con.com/devchallenge/aetna-foundation-hhs-nhit-i
 submission-end: 07/22/2015 12:00 AM
 why-use-prizes: ''
 submission-start: ''
-fiscal-year: FY 2015
+fiscal-year: FY15
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$75,000'

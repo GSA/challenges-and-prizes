@@ -20,7 +20,7 @@ external-url: http://mtconnect-apps.devpost.com/
 submission-end: 07/15/2016 12:00 PM
 why-use-prizes: ''
 submission-start: 06/09/2015 12:30 PM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$22,500'

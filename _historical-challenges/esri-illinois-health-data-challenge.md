@@ -20,7 +20,7 @@ external-url: https://smartchicago2012.wufoo.com/forms/esri-illinois-public-heal
 submission-end: 11/30/2013 10:00 AM
 why-use-prizes: ''
 submission-start: 11/09/2013 10:00 AM
-fiscal-year: FY 2014
+fiscal-year: FY14
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

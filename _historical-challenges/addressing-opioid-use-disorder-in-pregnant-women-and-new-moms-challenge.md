@@ -21,7 +21,7 @@ external-url: https://mchbgrandchallenges.hrsa.gov/challenges/addressing-opioid-
 submission-end: 12/03/2018 08:00 PM
 why-use-prizes: ''
 submission-start: '09/19/2018 09:00 AM'
-fiscal-year: FY 2019, FY 2018
+fiscal-year: FY19, FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

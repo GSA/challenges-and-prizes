@@ -21,7 +21,7 @@ external-url: http://go.appirio.com/questforquakes
 submission-end: '08/09/2015 12:00 AM'
 why-use-prizes: ''
 submission-start: 07/27/2015 12:00 AM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$25,000'

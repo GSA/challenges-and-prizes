@@ -21,7 +21,7 @@ external-url: https://www.cccinnovationcenter.com/challenges/easy-ehr-issue-repo
 submission-end: 10/15/2018 11:00 PM
 why-use-prizes: ''
 submission-start: 05/15/2018 12:00 AM
-fiscal-year: FY 2018
+fiscal-year: FY18
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

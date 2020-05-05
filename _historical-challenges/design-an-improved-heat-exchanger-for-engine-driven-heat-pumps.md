@@ -20,7 +20,7 @@ external-url: http://jump.ideascale.com/a/ideas/top/campaign-filter/byids/campai
 submission-end: 05/16/2016 12:00 AM
 why-use-prizes: ''
 submission-start: 02/29/2016 12:00 AM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

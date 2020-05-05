@@ -21,7 +21,7 @@ external-url: http://legislative-data-mapping.challengepost.com/submissions
 submission-end: 01/01/2014 12:00 AM
 why-use-prizes: ''
 submission-start: '09/11/2013 09:00 AM'
-fiscal-year: FY 2013
+fiscal-year: FY13
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$10,000'

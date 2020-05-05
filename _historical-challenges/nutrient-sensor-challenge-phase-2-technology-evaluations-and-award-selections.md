@@ -23,7 +23,7 @@ external-url: http://www.act-us.info/nutrients-challenge/
 submission-end: 12/18/2015 11:59 PM
 why-use-prizes: ''
 submission-start: 10/07/2015 09:00 AM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

@@ -25,7 +25,7 @@ external-url: http://www.topcoder.com/dtn/dashboard
 submission-end: 07/06/2015 12:00 AM
 why-use-prizes: ''
 submission-start: 04/27/2015 12:00 AM
-fiscal-year: FY 2015
+fiscal-year: FY15
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$8,000'

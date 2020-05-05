@@ -22,7 +22,7 @@ external-url: http://nij.gov/funding/fy13-ultra-high-speed-apps-challenge.htm
 submission-end: '08/29/2014 12:00 AM'
 why-use-prizes: ''
 submission-start: '09/27/2013 04:00 PM'
-fiscal-year: FY 2013
+fiscal-year: FY13
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$150,000'

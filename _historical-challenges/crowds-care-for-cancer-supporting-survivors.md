@@ -21,7 +21,7 @@ external-url: http://www.health2con.com/devchallenge/crowds-care-for-cancer-chal
 submission-end: 05/29/2013 07:00 AM
 why-use-prizes: ''
 submission-start: 04/30/2013 01:00 PM
-fiscal-year: FY 2013
+fiscal-year: FY13
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$40,000'

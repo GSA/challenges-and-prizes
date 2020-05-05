@@ -22,7 +22,7 @@ external-url: https://www.topcoder.com/community/data-science/USSOCOM-HF-Geoloca
 submission-end: 05/27/2019 08:59 PM
 why-use-prizes: ''
 submission-start: 04/19/2019 02:00 PM
-fiscal-year: FY 2019, FY 2018
+fiscal-year: FY19, FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

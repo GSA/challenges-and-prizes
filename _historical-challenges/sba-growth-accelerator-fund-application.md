@@ -22,7 +22,7 @@ external-url: 'https://gaf2014.wufoo.com/forms/sba-growth-accelerator-fund-appli
 submission-end: '08/02/2014 12:00 AM'
 why-use-prizes: ''
 submission-start: 05/12/2014 12:00 AM
-fiscal-year: FY 2014
+fiscal-year: FY14
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$2,500,000'

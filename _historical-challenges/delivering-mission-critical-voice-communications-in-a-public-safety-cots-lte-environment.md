@@ -22,7 +22,7 @@ external-url: 'http://nij.gov/funding/fy13-comms-challenge.htm '
 submission-end: 02/15/2014 12:00 AM
 why-use-prizes: ''
 submission-start: '09/21/2013 08:00 AM'
-fiscal-year: FY 2013
+fiscal-year: FY13
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$50,000'

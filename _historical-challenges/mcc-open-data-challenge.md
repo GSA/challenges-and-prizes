@@ -34,7 +34,7 @@ external-url: https://www.mcc.gov/news-and-events/feature/open-data-challenge
 submission-end: 10/17/2016 05:00 PM
 why-use-prizes: ''
 submission-start: 02/02/2016 04:00 PM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$1,000'

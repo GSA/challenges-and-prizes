@@ -22,7 +22,7 @@ external-url: https://www.federalregister.gov/articles/2013/11/25/2013-28198/pre
 submission-end: 03/27/2014 08:00 AM
 why-use-prizes: ''
 submission-start: 11/23/2013 10:00 AM
-fiscal-year: FY 2014
+fiscal-year: FY14
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$75,000'

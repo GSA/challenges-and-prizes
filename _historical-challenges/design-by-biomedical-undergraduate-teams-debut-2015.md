@@ -25,7 +25,7 @@ external-url: http://www.nibib.nih.gov/training-careers/undergraduate-graduate/d
 submission-end: 05/29/2015 11:59 PM
 why-use-prizes: ''
 submission-start: 03/16/2015 12:00 AM
-fiscal-year: FY 2015
+fiscal-year: FY15
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$45,000'

@@ -42,7 +42,7 @@ external-url: http://www.whitehouse.gov/blog/2014/09/18/whiaapi-announces-its-20
 submission-end: '08/27/2014 11:59 PM'
 why-use-prizes: ''
 submission-start: 07/17/2014 12:00 AM
-fiscal-year: FY 2014
+fiscal-year: FY14
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

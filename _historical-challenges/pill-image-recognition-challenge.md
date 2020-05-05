@@ -20,7 +20,7 @@ external-url: http://pir.nlm.nih.gov/challenge/
 submission-end: 05/31/2016 05:00 PM
 why-use-prizes: ''
 submission-start: 04/04/2016 12:00 AM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$50,000'

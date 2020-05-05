@@ -23,7 +23,7 @@ external-url: https://www.innocentive.com/ar/challenge/9933746?cc=NASAdotgov
 submission-end: 07/06/2015 11:59 PM
 why-use-prizes: ''
 submission-start: 05/05/2015 01:03 PM
-fiscal-year: FY 2015
+fiscal-year: FY15
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$15,000'

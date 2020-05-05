@@ -21,7 +21,7 @@ external-url: https://humanitariangrandchallenge.org/
 submission-end: 04/12/2018 11:30 AM
 why-use-prizes: ''
 submission-start: 02/19/2018 10:30 AM
-fiscal-year: FY 2018
+fiscal-year: FY18
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

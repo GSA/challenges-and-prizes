@@ -20,7 +20,7 @@ external-url: https://www.congressionalappchallenge.us/
 submission-end: 11/02/2016 12:00 PM
 why-use-prizes: ''
 submission-start: 07/18/2016 12:00 PM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

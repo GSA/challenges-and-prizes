@@ -21,7 +21,7 @@ external-url: https://www.cccinnovationcenter.com/challenges/chpl-data-challenge
 submission-end: 10/31/2018 04:00 PM
 why-use-prizes: ''
 submission-start: 07/10/2018 12:00 AM
-fiscal-year: FY 2018
+fiscal-year: FY18
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

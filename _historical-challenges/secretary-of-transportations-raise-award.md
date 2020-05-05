@@ -21,7 +21,7 @@ external-url: http://1.usa.gov/1rAFKzv
 submission-end: 12/30/2014 08:00 AM
 why-use-prizes: ''
 submission-start: 07/01/2014 08:00 AM
-fiscal-year: FY 2014
+fiscal-year: FY14
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

@@ -22,7 +22,7 @@ external-url: http://artsdata.challengepost.com/submissions
 submission-end: 02/02/2014 10:00 AM
 why-use-prizes: ''
 submission-start: '09/27/2013 08:00 AM'
-fiscal-year: FY 2013
+fiscal-year: FY13
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$60,000'

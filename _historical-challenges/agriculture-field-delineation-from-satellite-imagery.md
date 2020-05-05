@@ -23,7 +23,7 @@ external-url: https://www.innocentive.com/ar/challenge/9933930
 submission-end: 11/19/2018 05:00 PM
 why-use-prizes: ''
 submission-start: 10/24/2018 12:00 PM
-fiscal-year: FY 2019
+fiscal-year: FY19
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

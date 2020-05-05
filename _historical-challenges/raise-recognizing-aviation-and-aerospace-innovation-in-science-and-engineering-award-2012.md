@@ -22,7 +22,7 @@ campaignAttributes:
     submission-end: 07/27/2012 03:00 AM
     why-use-prizes: ''
     submission-start: 05/11/2012 01:00 PM
-    fiscal-year: FY 2012
+    fiscal-year: FY12
     public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: ''

@@ -21,7 +21,7 @@ external-url: https://www.netl.doe.gov/OEElectricityChallenge
 submission-end: 04/30/2019 08:00 PM
 why-use-prizes: ''
 submission-start: 02/04/2019 12:00 AM
-fiscal-year: FY 2019
+fiscal-year: FY19
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

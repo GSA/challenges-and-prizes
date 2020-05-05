@@ -21,7 +21,7 @@ external-url: http://www.rebuildbydesign.org/
 submission-end: 04/05/2014 08:00 AM
 why-use-prizes: ''
 submission-start: 06/20/2013 08:00 AM
-fiscal-year: FY 2014
+fiscal-year: FY14
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$2,000,000'

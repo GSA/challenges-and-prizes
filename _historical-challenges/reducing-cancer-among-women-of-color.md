@@ -22,7 +22,7 @@ external-url: http://www.health2con.com/devchallenge/reducing-cancer-among-women
 submission-end: 02/06/2013 04:00 AM
 why-use-prizes: ''
 submission-start: '08/24/2012 02:00 PM'
-fiscal-year: FY 2012
+fiscal-year: FY12
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$100,000'

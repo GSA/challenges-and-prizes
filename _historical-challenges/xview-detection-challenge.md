@@ -20,7 +20,7 @@ external-url: http://xviewdataset.org/
 submission-end: 07/08/2018 11:59 PM
 why-use-prizes: ''
 submission-start: 04/01/2018 12:00 AM
-fiscal-year: FY 2018
+fiscal-year: FY18
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$150,000'

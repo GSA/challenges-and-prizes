@@ -20,7 +20,7 @@ external-url: http://www.nij.gov/funding/Pages/fy14-data-visualization-challenge
 submission-end: 01/30/2015 12:00 AM
 why-use-prizes: ''
 submission-start: 10/15/2014 12:00 AM
-fiscal-year: FY 2015
+fiscal-year: FY15
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$25,000'
