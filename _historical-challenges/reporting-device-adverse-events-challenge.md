@@ -25,7 +25,7 @@ submission-start: '09/12/2011 04:00 AM'
 fiscal-year: FY 2011
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '$40000'
+total-prize-offered-cash: '$40,000'
 campaign-owner: ''
 public-voting-start-date: ''
 legal-authority: Unspecified
