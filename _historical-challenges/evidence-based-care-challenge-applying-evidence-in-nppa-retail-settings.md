@@ -25,7 +25,7 @@ campaignAttributes:
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''
-    total-prize-offered-cash: '8500'
+    total-prize-offered-cash: '$8500'
     campaign-owner: ''
     public-voting-start-date: ''
     legal-authority: Unspecified
@@ -239,6 +239,6 @@ privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/evidence-based-care-challenge:-applying-evidence-in-nppa-retail-settings/"
+permalink: "/challenge/evidence-based-care-challenge-applying-evidence-in-nppa-retail-settings/"
 layout: json-page
 ---

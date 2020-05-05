@@ -24,7 +24,7 @@ campaignAttributes:
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''
-    total-prize-offered-cash: '4500'
+    total-prize-offered-cash: '$4500'
     campaign-owner: ''
     public-voting-start-date: ''
     legal-authority: Unspecified

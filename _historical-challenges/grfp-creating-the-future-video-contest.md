@@ -25,7 +25,7 @@ campaignAttributes:
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''
-    total-prize-offered-cash: '5500'
+    total-prize-offered-cash: '$5500'
     campaign-owner: ''
     public-voting-start-date: ''
     legal-authority: America COMPETES

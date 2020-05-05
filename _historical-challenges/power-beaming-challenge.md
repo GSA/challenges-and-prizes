@@ -23,7 +23,7 @@ campaignAttributes:
     fiscal-year: FY 2011
     public-voting-end-date: ''
     budget-and-resources: ''
-    total-prize-offered-cash: '2000000'
+    total-prize-offered-cash: '$2000000'
     campaign-owner: ''
     public-voting-start-date: ''
     legal-authority: Unspecified

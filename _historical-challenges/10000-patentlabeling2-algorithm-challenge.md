@@ -24,7 +24,7 @@ campaignAttributes:
     fiscal-year: FY 2012
     public-voting-end-date: ''
     budget-and-resources: ''
-    total-prize-offered-cash: '100000'
+    total-prize-offered-cash: '$100000'
     campaign-owner: NASA CoECI
     public-voting-start-date: ''
     legal-authority: America COMPETES
