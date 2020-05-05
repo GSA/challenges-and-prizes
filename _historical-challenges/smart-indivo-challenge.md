@@ -15,20 +15,20 @@ groupName: Department of Health and Human Services
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.health2con.com/devchallenge/smart-indivo-app-challenge/
-    submission-end: '09/29/2012 04:00 AM'
-    why-use-prizes: ''
-    submission-start: 07/09/2012 09:00 PM
-    fiscal-year: FY12
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '$13000'
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: America COMPETES
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.health2con.com/devchallenge/smart-indivo-app-challenge/
+submission-end: '09/29/2012 04:00 AM'
+why-use-prizes: ''
+submission-start: 07/09/2012 09:00 PM
+fiscal-year: FY12
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: '$13000'
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: America COMPETES
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '102'
     solicitation-of-submissions: ''

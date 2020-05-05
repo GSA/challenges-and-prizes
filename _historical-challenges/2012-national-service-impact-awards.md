@@ -16,20 +16,20 @@ groupName: International Assistance Programs - Department of State - Other
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://2012serviceimpact.challengepost.com/submissions
-    submission-end: 05/01/2012 09:00 PM
-    why-use-prizes: ''
-    submission-start: 04/01/2012 01:00 PM
-    fiscal-year: FY12
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: ''
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: Unspecified
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://2012serviceimpact.challengepost.com/submissions
+submission-end: 05/01/2012 09:00 PM
+why-use-prizes: ''
+submission-start: 04/01/2012 01:00 PM
+fiscal-year: FY12
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: ''
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: Unspecified
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '542'
     solicitation-of-submissions: ''

@@ -15,20 +15,20 @@ groupName: Department of the Treasury
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: ''
-    submission-end: '08/13/2012 04:00 AM'
-    why-use-prizes: ''
-    submission-start: 06/27/2012 01:00 PM
-    fiscal-year: FY12
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '$25000'
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: Other
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: ''
+submission-end: '08/13/2012 04:00 AM'
+why-use-prizes: ''
+submission-start: 06/27/2012 01:00 PM
+fiscal-year: FY12
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: '$25000'
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: Other
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '162'
     solicitation-of-submissions: ''

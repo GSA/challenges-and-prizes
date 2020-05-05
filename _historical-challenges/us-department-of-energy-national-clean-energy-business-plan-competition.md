@@ -16,20 +16,20 @@ groupName: Department of Energy - Energy Programs
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www1.eere.energy.gov/commercialization/natlbizplan.html
-    submission-end: 06/01/2012 04:00 AM
-    why-use-prizes: ''
-    submission-start: 01/01/2012 05:00 AM
-    fiscal-year: FY12
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '$2000000'
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: America COMPETES
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www1.eere.energy.gov/commercialization/natlbizplan.html
+submission-end: 06/01/2012 04:00 AM
+why-use-prizes: ''
+submission-start: 01/01/2012 05:00 AM
+fiscal-year: FY12
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: '$2000000'
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: America COMPETES
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '202'
     solicitation-of-submissions: ''

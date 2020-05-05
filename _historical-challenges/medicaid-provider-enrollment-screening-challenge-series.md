@@ -15,20 +15,20 @@ groupName: National Aeronautics and Space Administration
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.topcoder.com/cms/medicaid-enrollment-portal/
-    submission-end: 11/17/2012 04:00 AM
-    why-use-prizes: ''
-    submission-start: 05/31/2012 02:00 AM
-    fiscal-year: FY12
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '$500000'
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: Other
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.topcoder.com/cms/medicaid-enrollment-portal/
+submission-end: 11/17/2012 04:00 AM
+why-use-prizes: ''
+submission-start: 05/31/2012 02:00 AM
+fiscal-year: FY12
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: '$500000'
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: Other
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '132'
     solicitation-of-submissions: ''

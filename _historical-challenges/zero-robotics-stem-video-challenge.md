@@ -16,20 +16,20 @@ groupName: National Aeronautics and Space Administration
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://tongal.com/project/ZeroRobotics
-    submission-end: '08/20/2012 09:00 PM'
-    why-use-prizes: ''
-    submission-start: 06/19/2012 04:00 PM
-    fiscal-year: FY12
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '$30000'
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: Unspecified
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://tongal.com/project/ZeroRobotics
+submission-end: '08/20/2012 09:00 PM'
+why-use-prizes: ''
+submission-start: 06/19/2012 04:00 PM
+fiscal-year: FY12
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: '$30000'
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: Unspecified
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '132'
     solicitation-of-submissions: ''

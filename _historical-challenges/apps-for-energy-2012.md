@@ -16,20 +16,20 @@ groupName: Department of Energy - Energy Programs
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://appsforenergy.challengepost.com/submissions
-    submission-end: 05/16/2012 12:00 AM
-    why-use-prizes: ''
-    submission-start: 04/05/2012 06:00 PM
-    fiscal-year: FY12
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '$100000'
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: America COMPETES
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://appsforenergy.challengepost.com/submissions
+submission-end: 05/16/2012 12:00 AM
+why-use-prizes: ''
+submission-start: 04/05/2012 06:00 PM
+fiscal-year: FY12
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: '$100000'
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: America COMPETES
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '202'
     solicitation-of-submissions: ''

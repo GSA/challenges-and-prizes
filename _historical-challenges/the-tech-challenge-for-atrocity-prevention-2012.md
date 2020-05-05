@@ -15,20 +15,20 @@ groupName: National Aeronautics and Space Administration
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://thetechchallenge.org
-    submission-end: 11/29/2012 05:00 PM
-    why-use-prizes: ''
-    submission-start: 10/31/2012 09:00 AM
-    fiscal-year: FY13
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '$20000'
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: America COMPETES
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://thetechchallenge.org
+submission-end: 11/29/2012 05:00 PM
+why-use-prizes: ''
+submission-start: 10/31/2012 09:00 AM
+fiscal-year: FY13
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: '$20000'
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: America COMPETES
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '132'
     solicitation-of-submissions: ''

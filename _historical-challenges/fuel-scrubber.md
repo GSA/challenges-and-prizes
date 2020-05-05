@@ -14,20 +14,20 @@ groupName: Department of Defense
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: https://www.innocentive.com/ar/challenge/9932706
-    submission-end: 03/12/2012 09:00 PM
-    why-use-prizes: ''
-    submission-start: 01/12/2012 02:00 PM
-    fiscal-year: FY12
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '$20000'
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: Other
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: https://www.innocentive.com/ar/challenge/9932706
+submission-end: 03/12/2012 09:00 PM
+why-use-prizes: ''
+submission-start: 01/12/2012 02:00 PM
+fiscal-year: FY12
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: '$20000'
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: Other
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '92'
     solicitation-of-submissions: ''

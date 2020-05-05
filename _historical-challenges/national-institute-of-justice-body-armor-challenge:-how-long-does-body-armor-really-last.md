@@ -15,20 +15,20 @@ groupName: Department of Justice
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.nij.gov/funding/2012/body-armor-challenge.htm
-    submission-end: 12/14/2012 10:00 PM
-    why-use-prizes: ''
-    submission-start: '09/14/2012 07:00 PM'
-    fiscal-year: FY12
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '$50000'
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: Other
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.nij.gov/funding/2012/body-armor-challenge.htm
+submission-end: 12/14/2012 10:00 PM
+why-use-prizes: ''
+submission-start: '09/14/2012 07:00 PM'
+fiscal-year: FY12
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: '$50000'
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: Other
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '152'
     solicitation-of-submissions: ''

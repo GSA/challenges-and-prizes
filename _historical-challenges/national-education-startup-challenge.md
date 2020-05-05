@@ -15,20 +15,20 @@ groupName: Department of Education
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://nesc.challengepost.com/submissions
-    submission-end: 05/01/2012 09:00 PM
-    why-use-prizes: ''
-    submission-start: 02/01/2012 05:00 PM
-    fiscal-year: FY12
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: ''
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: Unspecified
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://nesc.challengepost.com/submissions
+submission-end: 05/01/2012 09:00 PM
+why-use-prizes: ''
+submission-start: 02/01/2012 05:00 PM
+fiscal-year: FY12
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: ''
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: Unspecified
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '192'
     solicitation-of-submissions: ''

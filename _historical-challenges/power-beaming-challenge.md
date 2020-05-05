@@ -14,20 +14,20 @@ groupName: National Aeronautics and Space Administration
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.spaceward.org/
-    submission-end: 01/01/2012 03:00 AM
-    why-use-prizes: ''
-    submission-start: 01/01/2011 05:00 AM
-    fiscal-year: FY 2011
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '$2000000'
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: Unspecified
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.spaceward.org/
+submission-end: 01/01/2012 03:00 AM
+why-use-prizes: ''
+submission-start: 01/01/2011 05:00 AM
+fiscal-year: FY 2011
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: '$2000000'
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: Unspecified
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '132'
     solicitation-of-submissions: ''

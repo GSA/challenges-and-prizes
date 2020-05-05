@@ -16,20 +16,20 @@ groupName: National Aeronautics and Space Administration
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.lpi.usra.edu/humansinspaceart/challenge/
-    submission-end: 11/15/2014 03:00 PM
-    why-use-prizes: ''
-    submission-start: 06/26/2014 12:00 PM
-    fiscal-year: FY14
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: ''
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: Other
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.lpi.usra.edu/humansinspaceart/challenge/
+submission-end: 11/15/2014 03:00 PM
+why-use-prizes: ''
+submission-start: 06/26/2014 12:00 PM
+fiscal-year: FY14
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: ''
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: Other
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '132'
     solicitation-of-submissions: ''

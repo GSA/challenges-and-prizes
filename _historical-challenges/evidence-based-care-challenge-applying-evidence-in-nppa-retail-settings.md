@@ -16,20 +16,20 @@ groupName: Department of Health and Human Services - Agency for Healthcare Resea
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.effectivehealthcare.ahrq.gov/index.cfm/tools-and-resources/the-ahrq-evidence-based-care-ebc-challenge/
-    submission-end: 10/19/2012 09:00 PM
-    why-use-prizes: ''
-    submission-start: 06/18/2012 01:00 PM
-    fiscal-year: FY12
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '$8500'
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: Unspecified
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.effectivehealthcare.ahrq.gov/index.cfm/tools-and-resources/the-ahrq-evidence-based-care-ebc-challenge/
+submission-end: 10/19/2012 09:00 PM
+why-use-prizes: ''
+submission-start: 06/18/2012 01:00 PM
+fiscal-year: FY12
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: '$8500'
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: Unspecified
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '102'
     solicitation-of-submissions: ''

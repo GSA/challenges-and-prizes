@@ -14,20 +14,20 @@ groupName: National Science Foundation
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: https://mozillaignite.org/
-    submission-end: '08/23/2012 02:00 PM'
-    why-use-prizes: ''
-    submission-start: 06/13/2012 05:00 PM
-    fiscal-year: FY12
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '$15000'
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: America COMPETES
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: https://mozillaignite.org/
+submission-end: '08/23/2012 02:00 PM'
+why-use-prizes: ''
+submission-start: 06/13/2012 05:00 PM
+fiscal-year: FY12
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: '$15000'
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: America COMPETES
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '272'
     solicitation-of-submissions: ''

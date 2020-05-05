@@ -17,20 +17,20 @@ groupName: Department of Health and Human Services - Centers for Disease Control
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://millionhearts.challengepost.com/submissions
-    submission-end: '08/31/2012 09:00 PM'
-    why-use-prizes: ''
-    submission-start: 07/16/2012 02:00 PM
-    fiscal-year: FY12
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '$1000'
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: America COMPETES
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://millionhearts.challengepost.com/submissions
+submission-end: '08/31/2012 09:00 PM'
+why-use-prizes: ''
+submission-start: 07/16/2012 02:00 PM
+fiscal-year: FY12
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: '$1000'
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: America COMPETES
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '102'
     solicitation-of-submissions: ''

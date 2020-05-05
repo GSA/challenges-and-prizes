@@ -16,20 +16,20 @@ groupName: Department of Health and Human Services
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.health2challenge.org/pophealth-tool-development-challenge/
-    submission-end: 01/21/2012 05:00 AM
-    why-use-prizes: ''
-    submission-start: 10/03/2011 04:00 AM
-    fiscal-year: FY12
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '$100000'
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: America COMPETES
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.health2challenge.org/pophealth-tool-development-challenge/
+submission-end: 01/21/2012 05:00 AM
+why-use-prizes: ''
+submission-start: 10/03/2011 04:00 AM
+fiscal-year: FY12
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: '$100000'
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: America COMPETES
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '102'
     solicitation-of-submissions: ''

@@ -15,20 +15,20 @@ groupName: National Aeronautics and Space Administration
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: https://studio.topcoder.com/?module=ViewContestDetails&ct=30030539
-    submission-end: 12/21/2012 10:00 PM
-    why-use-prizes: ''
-    submission-start: 12/11/2012 05:00 PM
-    fiscal-year: FY13
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '$8000'
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: Other
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: https://studio.topcoder.com/?module=ViewContestDetails&ct=30030539
+submission-end: 12/21/2012 10:00 PM
+why-use-prizes: ''
+submission-start: 12/11/2012 05:00 PM
+fiscal-year: FY13
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: '$8000'
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: Other
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '132'
     solicitation-of-submissions: ''

@@ -16,20 +16,20 @@ groupName: National Science Foundation
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: https://www.nsfgrfp.org/grfp_video_contest
-    submission-end: '09/14/2012 04:00 PM'
-    why-use-prizes: ''
-    submission-start: 07/16/2012 04:00 AM
-    fiscal-year: FY12
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '$5500'
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: America COMPETES
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: https://www.nsfgrfp.org/grfp_video_contest
+submission-end: '09/14/2012 04:00 PM'
+why-use-prizes: ''
+submission-start: 07/16/2012 04:00 AM
+fiscal-year: FY12
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: '$5500'
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: America COMPETES
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '272'
     solicitation-of-submissions: ''

@@ -14,20 +14,20 @@ groupName: Small Business Administration
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://smallbizvid.challengepost.com/submissions
-    submission-end: 05/15/2012 09:00 PM
-    why-use-prizes: ''
-    submission-start: 04/16/2012 04:00 PM
-    fiscal-year: FY12
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: ''
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: America COMPETES
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://smallbizvid.challengepost.com/submissions
+submission-end: 05/15/2012 09:00 PM
+why-use-prizes: ''
+submission-start: 04/16/2012 04:00 PM
+fiscal-year: FY12
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: ''
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: America COMPETES
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '122'
     solicitation-of-submissions: ''

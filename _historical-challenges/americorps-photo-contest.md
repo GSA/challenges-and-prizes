@@ -15,20 +15,20 @@ groupName: Corporation for National and Community Service
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://americorpsphoto.challengepost.com/submissions
-    submission-end: 07/16/2012 01:00 AM
-    why-use-prizes: ''
-    submission-start: 03/10/2012 07:00 PM
-    fiscal-year: FY12
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '$2500'
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: America COMPETES
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://americorpsphoto.challengepost.com/submissions
+submission-end: 07/16/2012 01:00 AM
+why-use-prizes: ''
+submission-start: 03/10/2012 07:00 PM
+fiscal-year: FY12
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: '$2500'
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: America COMPETES
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '1422'
     solicitation-of-submissions: ''

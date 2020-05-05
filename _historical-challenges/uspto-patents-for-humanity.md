@@ -14,20 +14,20 @@ groupName: Department of Commerce - U.S. Patent and Trademark Office
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.uspto.gov/news/pr/2013/13-17.jsp
-    submission-end: 11/01/2012 05:00 AM
-    why-use-prizes: ''
-    submission-start: 03/01/2012 01:00 PM
-    fiscal-year: FY12
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: ''
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: Unspecified
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.uspto.gov/news/pr/2013/13-17.jsp
+submission-end: 11/01/2012 05:00 AM
+why-use-prizes: ''
+submission-start: 03/01/2012 01:00 PM
+fiscal-year: FY12
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: ''
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: Unspecified
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '82'
     solicitation-of-submissions: ''

@@ -16,20 +16,20 @@ groupName: International Assistance Programs - Department of State - Other
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://documerica.challengepost.com/submissions
-    submission-end: 01/07/2012 10:00 AM
-    why-use-prizes: ''
-    submission-start: 11/01/2011 06:00 PM
-    fiscal-year: FY12
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '$990'
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: Unspecified
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://documerica.challengepost.com/submissions
+submission-end: 01/07/2012 10:00 AM
+why-use-prizes: ''
+submission-start: 11/01/2011 06:00 PM
+fiscal-year: FY12
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: '$990'
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: Unspecified
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '542'
     solicitation-of-submissions: ''

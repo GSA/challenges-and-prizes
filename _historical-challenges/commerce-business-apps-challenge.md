@@ -16,20 +16,20 @@ groupName: Department of Commerce
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://docbusinessapps.challengepost.com/submissions
-    submission-end: 05/01/2012 04:00 AM
-    why-use-prizes: ''
-    submission-start: 02/22/2012 02:00 PM
-    fiscal-year: FY12
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '$10000'
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: Unspecified
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://docbusinessapps.challengepost.com/submissions
+submission-end: 05/01/2012 04:00 AM
+why-use-prizes: ''
+submission-start: 02/22/2012 02:00 PM
+fiscal-year: FY12
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: '$10000'
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: Unspecified
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '82'
     solicitation-of-submissions: ''

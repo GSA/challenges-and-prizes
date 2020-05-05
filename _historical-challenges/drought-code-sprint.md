@@ -14,20 +14,20 @@ groupName: Department of Agriculture
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://blogs.usda.gov/2012/09/14/usda-drought-code-sprint-giving-americans-one-click-access-to-federal-drought-relief/
-    submission-end: 10/24/2012 09:00 PM
-    why-use-prizes: ''
-    submission-start: '09/14/2012 04:00 PM'
-    fiscal-year: FY12
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: ''
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: Unspecified
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://blogs.usda.gov/2012/09/14/usda-drought-code-sprint-giving-americans-one-click-access-to-federal-drought-relief/
+submission-end: 10/24/2012 09:00 PM
+why-use-prizes: ''
+submission-start: '09/14/2012 04:00 PM'
+fiscal-year: FY12
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: ''
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: Unspecified
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '72'
     solicitation-of-submissions: ''

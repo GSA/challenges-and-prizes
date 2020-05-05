@@ -16,20 +16,20 @@ groupName: Department of Health and Human Services
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.health2challenge.org/2011/09/11/reporting-device-adverse-events-challenge/
-    submission-end: 02/04/2012 05:00 AM
-    why-use-prizes: ''
-    submission-start: '09/12/2011 04:00 AM'
-    fiscal-year: FY 2011
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '$40000'
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: Unspecified
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.health2challenge.org/2011/09/11/reporting-device-adverse-events-challenge/
+submission-end: 02/04/2012 05:00 AM
+why-use-prizes: ''
+submission-start: '09/12/2011 04:00 AM'
+fiscal-year: FY 2011
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: '$40000'
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: Unspecified
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '102'
     solicitation-of-submissions: ''

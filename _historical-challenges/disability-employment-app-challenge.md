@@ -15,20 +15,20 @@ groupName: Department of Labor
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.dol.gov/opa/media/press/odep/ODEP20121801.htm
-    submission-end: '08/24/2012 03:00 AM'
-    why-use-prizes: ''
-    submission-start: 05/23/2012 04:00 AM
-    fiscal-year: FY12
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '$10000'
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: America COMPETES
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.dol.gov/opa/media/press/odep/ODEP20121801.htm
+submission-end: '08/24/2012 03:00 AM'
+why-use-prizes: ''
+submission-start: 05/23/2012 04:00 AM
+fiscal-year: FY12
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: '$10000'
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: America COMPETES
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '172'
     solicitation-of-submissions: ''

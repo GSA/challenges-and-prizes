@@ -14,20 +14,20 @@ groupName: Department of Transportation
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://dd-design.challengepost.com/submissions
-    submission-end: '08/28/2012 03:00 AM'
-    why-use-prizes: ''
-    submission-start: 04/16/2012 01:00 PM
-    fiscal-year: FY12
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: ''
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: Unspecified
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://dd-design.challengepost.com/submissions
+submission-end: '08/28/2012 03:00 AM'
+why-use-prizes: ''
+submission-start: 04/16/2012 01:00 PM
+fiscal-year: FY12
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: ''
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: Unspecified
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '212'
     solicitation-of-submissions: ''

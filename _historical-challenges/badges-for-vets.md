@@ -14,20 +14,20 @@ groupName: Department of Veterans Affairs
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://fastapps.dmlcompetition.net/application/submit/dmlc-4v
-    submission-end: 02/20/2012 10:00 PM
-    why-use-prizes: ''
-    submission-start: 11/14/2011 05:00 PM
-    fiscal-year: FY12
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '$75000'
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: Unspecified
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://fastapps.dmlcompetition.net/application/submit/dmlc-4v
+submission-end: 02/20/2012 10:00 PM
+why-use-prizes: ''
+submission-start: 11/14/2011 05:00 PM
+fiscal-year: FY12
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: '$75000'
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: Unspecified
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '602'
     solicitation-of-submissions: ''

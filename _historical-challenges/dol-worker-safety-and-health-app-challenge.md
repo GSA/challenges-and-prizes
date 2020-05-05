@@ -15,20 +15,20 @@ groupName: Department of Labor
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://workersafetyhealth.challengepost.com/submissions
-    submission-end: 12/01/2012 04:00 AM
-    why-use-prizes: ''
-    submission-start: 05/16/2012 04:00 AM
-    fiscal-year: FY12
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '$30000'
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: Unspecified
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://workersafetyhealth.challengepost.com/submissions
+submission-end: 12/01/2012 04:00 AM
+why-use-prizes: ''
+submission-start: 05/16/2012 04:00 AM
+fiscal-year: FY12
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: '$30000'
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: Unspecified
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '172'
     solicitation-of-submissions: ''

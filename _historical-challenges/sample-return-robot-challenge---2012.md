@@ -14,20 +14,20 @@ groupName: National Aeronautics and Space Administration
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://wp.wpi.edu/challenge/
-    submission-end: 03/18/2012 09:00 PM
-    why-use-prizes: ''
-    submission-start: '09/14/2011 04:00 AM'
-    fiscal-year: FY 2011
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '$1500000'
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: Space Act
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://wp.wpi.edu/challenge/
+submission-end: 03/18/2012 09:00 PM
+why-use-prizes: ''
+submission-start: '09/14/2011 04:00 AM'
+fiscal-year: FY 2011
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: '$1500000'
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: Space Act
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '132'
     solicitation-of-submissions: ''

@@ -14,20 +14,20 @@ groupName: Department of the Treasury
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.treasurydirect.gov/readysavegrow/contest_winners.htm
-    submission-end: 11/26/2012 04:00 AM
-    why-use-prizes: ''
-    submission-start: 10/03/2012 12:00 PM
-    fiscal-year: FY13
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: ''
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: Unspecified
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.treasurydirect.gov/readysavegrow/contest_winners.htm
+submission-end: 11/26/2012 04:00 AM
+why-use-prizes: ''
+submission-start: 10/03/2012 12:00 PM
+fiscal-year: FY13
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: ''
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: Unspecified
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '162'
     solicitation-of-submissions: ''

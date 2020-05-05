@@ -16,20 +16,20 @@ groupName: National Science Foundation
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://1.usa.gov/scivischallenge
-    submission-end: '09/28/2012 04:00 PM'
-    why-use-prizes: ''
-    submission-start: 05/31/2012 04:00 AM
-    fiscal-year: FY12
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: ''
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: Unspecified
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://1.usa.gov/scivischallenge
+submission-end: '09/28/2012 04:00 PM'
+why-use-prizes: ''
+submission-start: 05/31/2012 04:00 AM
+fiscal-year: FY12
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: ''
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: Unspecified
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '272'
     solicitation-of-submissions: ''

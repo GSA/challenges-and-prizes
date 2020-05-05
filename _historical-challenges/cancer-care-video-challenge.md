@@ -15,20 +15,20 @@ groupName: Department of Health and Human Services
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://cancercare.challengepost.com/submissions
-    submission-end: 12/14/2012 05:00 PM
-    why-use-prizes: ''
-    submission-start: 10/18/2012 09:00 AM
-    fiscal-year: FY13
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '$8350'
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: Unspecified
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://cancercare.challengepost.com/submissions
+submission-end: 12/14/2012 05:00 PM
+why-use-prizes: ''
+submission-start: 10/18/2012 09:00 AM
+fiscal-year: FY13
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: '$8350'
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: Unspecified
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '102'
     solicitation-of-submissions: ''

@@ -14,20 +14,20 @@ groupName: Small Business Administration
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://alaska.score.org/news/score-congratulates-2012-sba-counselor-year-beth-shapiro
-    submission-end: 03/01/2012 11:00 PM
-    why-use-prizes: ''
-    submission-start: 02/15/2012 06:00 PM
-    fiscal-year: FY12
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: ''
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: Unspecified
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://alaska.score.org/news/score-congratulates-2012-sba-counselor-year-beth-shapiro
+submission-end: 03/01/2012 11:00 PM
+why-use-prizes: ''
+submission-start: 02/15/2012 06:00 PM
+fiscal-year: FY12
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: ''
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: Unspecified
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '122'
     solicitation-of-submissions: ''

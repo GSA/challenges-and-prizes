@@ -9,27 +9,27 @@ id: 241
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: "<i>Lets Move!</i> invites faith-based, community, and other organizations
+tagline: "Lets Move! invites faith-based, community, and other organizations
   to create inspiring videos about their efforts to reverse the trend of childhood
   obesity."
 groupName: Department of Agriculture
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://letsmovecommunities.challengepost.com/submissions
-    submission-end: 04/06/2012 09:00 PM
-    why-use-prizes: ''
-    submission-start: 02/11/2012 03:00 PM
-    fiscal-year: FY12
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '$2000'
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: Unspecified
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://letsmovecommunities.challengepost.com/submissions
+submission-end: 04/06/2012 09:00 PM
+why-use-prizes: ''
+submission-start: 02/11/2012 03:00 PM
+fiscal-year: FY12
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: '$2000'
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: Unspecified
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '72'
     solicitation-of-submissions: ''

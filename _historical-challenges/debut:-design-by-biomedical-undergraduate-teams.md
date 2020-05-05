@@ -16,20 +16,20 @@ groupName: Department of Health and Human Services - National Institutes of Heal
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.nibib.nih.gov/news-events/newsroom/nih-announces-winners-undergraduate-biomedical-engineering-competition
-    submission-end: 06/03/2012 03:00 AM
-    why-use-prizes: ''
-    submission-start: 01/03/2012 05:00 AM
-    fiscal-year: FY12
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '$30000'
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: America COMPETES
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.nibib.nih.gov/news-events/newsroom/nih-announces-winners-undergraduate-biomedical-engineering-competition
+submission-end: 06/03/2012 03:00 AM
+why-use-prizes: ''
+submission-start: 01/03/2012 05:00 AM
+fiscal-year: FY12
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: '$30000'
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: America COMPETES
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '102'
     solicitation-of-submissions: ''

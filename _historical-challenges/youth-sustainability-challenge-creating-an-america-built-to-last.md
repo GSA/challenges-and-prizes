@@ -16,20 +16,20 @@ groupName: White House
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://youthsustainability.challengepost.com/submissions
-    submission-end: 06/08/2012 08:00 AM
-    why-use-prizes: ''
-    submission-start: 05/02/2012 11:00 PM
-    fiscal-year: FY12
-    public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: ''
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: America COMPETES
-    total-number-of-prizes-awarded: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://youthsustainability.challengepost.com/submissions
+submission-end: 06/08/2012 08:00 AM
+why-use-prizes: ''
+submission-start: 05/02/2012 11:00 PM
+fiscal-year: FY12
+public-voting-end-date: ''
+budget-and-resources: ''
+total-prize-offered-cash: ''
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: America COMPETES
+total-number-of-prizes-awarded: ''
     evaluation-of-submissions: ''
     agency-id: '4802'
     solicitation-of-submissions: ''
