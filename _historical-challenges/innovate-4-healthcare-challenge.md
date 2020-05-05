@@ -24,7 +24,7 @@ submission-start: 02/03/2012 05:00 PM
 fiscal-year: FY12
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '$30000'
+total-prize-offered-cash: '$30,000'
 campaign-owner: ''
 public-voting-start-date: ''
 legal-authority: Unspecified
@@ -37,7 +37,7 @@ total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
 non-monetary-incentives-awarded: 'Grand Prize: $20000; Runners up (2): $5000'
-partner-agencies-federal: '0'
+partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''
