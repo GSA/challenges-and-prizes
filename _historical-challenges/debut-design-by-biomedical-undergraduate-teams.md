@@ -25,7 +25,7 @@ submission-start: 01/03/2012 05:00 AM
 fiscal-year: FY12
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '$30000'
+total-prize-offered-cash: '$30,000'
 campaign-owner: ''
 public-voting-start-date: ''
 legal-authority: America COMPETES
@@ -240,6 +240,6 @@ privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/debut:-design-by-biomedical-undergraduate-teams/"
+permalink: "/challenge/debut-design-by-biomedical-undergraduate-teams/"
 layout: json-page
 ---

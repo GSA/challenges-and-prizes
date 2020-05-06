@@ -23,7 +23,7 @@ submission-start: '09/14/2011 04:00 AM'
 fiscal-year: FY 2011
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '$1500000'
+total-prize-offered-cash: '$1,500,000'
 campaign-owner: ''
 public-voting-start-date: ''
 legal-authority: Space Act

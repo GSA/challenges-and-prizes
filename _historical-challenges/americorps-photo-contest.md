@@ -24,7 +24,7 @@ submission-start: 03/10/2012 07:00 PM
 fiscal-year: FY12
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '$2500'
+total-prize-offered-cash: '$2,500'
 campaign-owner: ''
 public-voting-start-date: ''
 legal-authority: America COMPETES
@@ -37,7 +37,7 @@ total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
 non-monetary-incentives-awarded: '1st: $2000; 2nd: $500'
-partner-agencies-federal: '0'
+partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''

@@ -25,7 +25,7 @@ submission-start: 04/05/2012 06:00 PM
 fiscal-year: FY12
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '$100000'
+total-prize-offered-cash: '$100,000'
 campaign-owner: ''
 public-voting-start-date: ''
 legal-authority: America COMPETES
@@ -42,7 +42,7 @@ non-monetary-incentives-awarded: 'Best Overall Application Grand Prize: $30,000;
       Prize: $7,500; Student Award Grand Prize: $15,000; Student Award Second Prize:
       $7,500; Popular Choice Award Grand Prize: $8,000; Popular Choice Award Second
       Prize $4,000; Travel to DC (7): $1,000; Peak Energy Usage Award: $6,000'
-partner-agencies-federal: '0'
+partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''
