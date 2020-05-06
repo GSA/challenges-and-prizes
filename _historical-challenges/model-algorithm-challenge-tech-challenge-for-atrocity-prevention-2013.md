@@ -21,7 +21,7 @@ external-url: http://thetechchallenge.org
 submission-end: '09/12/2013 06:00 PM'
 why-use-prizes: ''
 submission-start: '08/22/2013 06:00 PM'
-fiscal-year: FY 2013
+fiscal-year: FY13
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$25,000'

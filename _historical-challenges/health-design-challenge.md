@@ -1,47 +1,45 @@
 ---
 ideaSubmitFormInstruction: ''
-startDate: '2013-09-27T00:00:00'
+startDate: '2012-10-23T00:00:00'
 votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 381
+id: 311
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: Join NIJ's efforts to develop Ultra-High-Speed compatible software applications
-  that measurably improve the efficiency and effectiveness of criminal justice and
-  public safety services and operations!
-groupName: Department of Justice
+tagline: We invite designers and developers to redesign the patient health record.
+groupName: Department of Health and Human Services
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
 attributes:
 total-prize-awarded-cash: ''
-external-url: http://nij.gov/funding/fy13-ultra-high-speed-apps-challenge.htm
-submission-end: '08/29/2014 12:00 AM'
+external-url: http://healthdesignchallenge.com/
+submission-end: 12/02/2012 07:00 PM
 why-use-prizes: ''
-submission-start: '09/27/2013 04:00 PM'
-fiscal-year: FY 2013
+submission-start: 10/23/2012 01:00 PM
+fiscal-year: FY13
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '$150,000'
+total-prize-offered-cash: '$50,000'
 campaign-owner: ''
 public-voting-start-date: ''
-legal-authority: Other
+legal-authority: America COMPETES
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
-agency-id: '152'
+agency-id: '102'
 solicitation-of-submissions: ''
-total-submission-received: Unknown
+total-submission-received: '232'
 total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
-non-monetary-incentives-awarded: Challenge winners may be honored at an NIJ event
-  in Washington, DC. It also is anticipated that the winner may be invited to
-  attend one or more professional association meetings to be recognized; Honored
-  at event; Monetary/Prize value $50,000 and above; Monetary/Prize value $49,999
-  - $10,001
+non-monetary-incentives-awarded: "$50000. Best overall first: $16000; best overall
+      second: $6000; best overall third: $4000; best medical/problem history section:
+      $5000; best medical/problem history section second: $2000; Best medical/problem
+      history section third: $1000; Best medication; Public recognition; Resources
+      to develop winning design"
 partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
@@ -55,11 +53,11 @@ cash-prizes-and-non-cash-prize-awards: ''
 campaign-owner-email: ''
 solution-type: Software and apps
 partner-agencies-non-federal: ''
-original-post-id: '57152'
+original-post-id: '55092'
 total-number-of-winners-awarded: ''
 hosting: Externally (Challenge details will redirect to external url)
 hide-challenge-funnel: 'Yes'
-type-of-challenge: Software and apps
+type-of-challenge: Creative (design & multimedia)
 participation-requirements: ''
 number-of-phases: ''
 how-to-enter: ''
@@ -126,7 +124,7 @@ judging-criteria-description-9: ''
 judging-criteria-percentage-9: ''
 judging-criteria-9: ''
 prize-description-0: ''
-prize-cash-amount-0: '150000'
+prize-cash-amount-0: '50000'
 prize-name-0: ''
 prize-description-1: ''
 prize-cash-amount-1: ''
@@ -224,12 +222,7 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: NIJ  encourages the creation, use, and evaluation of Ultra-High-Speed
-  software applications capable of improving criminal justice and public safety efficiency
-  and/or effectiveness.  This two-phase Challenge seeks relevant, functional UHS software
-  applications.  Submissions must also include effective models for measuring and
-  quantifying the specific impact of the software applications.  A total of $150,000
-  in prizes is available.
+description: ''
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
@@ -241,14 +234,13 @@ hideCommentAuthor: false
 authorizedGroupIds: []
 userSubscriptionAllowed: false
 bannerImage: ''
-groupId: 282
+groupId: 23
 showTagline: true
-name: 'ULTRA-HIGH-SPEED APPS - USING CURRENT TECHNOLOGY TO IMPROVE CRIMINAL JUSTICE
-OPERATIONS'
+name: Health Design Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/ultra-high-speed-apps-using-current-technology-to-improve-criminal-justice-operations/"
+permalink: "/challenge/health-design-challenge/"
 layout: json-page
 ---

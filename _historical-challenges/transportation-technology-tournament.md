@@ -21,7 +21,7 @@ external-url: https://transportationops.org/transportation-technology-tournament
 submission-end: 02/15/2018 12:00 AM
 why-use-prizes: ''
 submission-start: 12/01/2017 12:00 AM
-fiscal-year: FY 2018
+fiscal-year: FY18
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

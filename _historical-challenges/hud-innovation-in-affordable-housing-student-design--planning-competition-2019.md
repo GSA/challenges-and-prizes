@@ -22,7 +22,7 @@ external-url: https://www.huduser.gov/portal/challenge/home.html
 submission-end: 02/04/2019 12:00 AM
 why-use-prizes: ''
 submission-start: 12/11/2018 12:00 AM
-fiscal-year: FY 2019
+fiscal-year: FY19
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

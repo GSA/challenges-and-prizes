@@ -20,7 +20,7 @@ external-url: http://www.innocentive.com/dtra
 submission-end: 05/31/2013 09:00 PM
 why-use-prizes: ''
 submission-start: 01/03/2013 02:00 PM
-fiscal-year: FY 2013
+fiscal-year: FY13
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$1,000,000'

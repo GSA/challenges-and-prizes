@@ -20,7 +20,7 @@ external-url: https://smartchicago2012.wufoo.com/forms/illinois-public-health-ch
 submission-end: 11/30/2013 05:00 AM
 why-use-prizes: ''
 submission-start: 11/09/2013 05:00 AM
-fiscal-year: FY 2014
+fiscal-year: FY14
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$15,000'

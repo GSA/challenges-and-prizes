@@ -20,7 +20,7 @@ external-url: http://www.NightRover.org
 submission-end: 10/26/2013 02:00 AM
 why-use-prizes: ''
 submission-start: 04/02/2013 04:00 AM
-fiscal-year: FY 2012
+fiscal-year: FY12
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$1,500,000'

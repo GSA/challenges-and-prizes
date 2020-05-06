@@ -21,7 +21,7 @@ external-url: http://orise.orau.gov/science-education/capabilities/science-educa
 submission-end: 04/05/2014 04:00 AM
 why-use-prizes: ''
 submission-start: 02/28/2014 03:00 PM
-fiscal-year: FY 2014
+fiscal-year: FY14
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

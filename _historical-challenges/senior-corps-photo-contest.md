@@ -21,7 +21,7 @@ external-url: http://seniorcorpsphotos.challengepost.com/submissions
 submission-end: '08/07/2013 01:00 AM'
 why-use-prizes: ''
 submission-start: 05/06/2013 09:00 PM
-fiscal-year: FY 2013
+fiscal-year: FY13
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

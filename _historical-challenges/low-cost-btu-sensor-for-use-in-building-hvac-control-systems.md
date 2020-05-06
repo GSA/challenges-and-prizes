@@ -21,7 +21,7 @@ external-url: http://web.ornl.gov/sci/buildings/jump/
 submission-end: 12/16/2015 11:59 PM
 why-use-prizes: ''
 submission-start: ''
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$5,000'

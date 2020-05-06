@@ -22,7 +22,7 @@ external-url: http://nij.gov/funding/2013/sorna-challenge.htm
 submission-end: 11/18/2013 12:00 AM
 why-use-prizes: ''
 submission-start: 07/01/2013 01:00 PM
-fiscal-year: FY 2013
+fiscal-year: FY13
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$50000'

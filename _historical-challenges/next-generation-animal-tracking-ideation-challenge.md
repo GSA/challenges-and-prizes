@@ -20,7 +20,7 @@ external-url: https://www.herox.com/animaltracking?utm_source=NextGen&utm_medium
 submission-end: 11/11/2018 05:00 PM
 why-use-prizes: ''
 submission-start: '09/12/2018 12:00 AM'
-fiscal-year: FY 2019, FY 2018
+fiscal-year: FY19, FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

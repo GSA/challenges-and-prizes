@@ -20,7 +20,7 @@ external-url: https://www.nasa.gov/feature/nasa-international-space-station-rfid
 submission-end: 10/31/2018 11:59 PM
 why-use-prizes: ''
 submission-start: '09/26/2018 12:00 AM'
-fiscal-year: FY 2019, FY 2018
+fiscal-year: FY19, FY 2018
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

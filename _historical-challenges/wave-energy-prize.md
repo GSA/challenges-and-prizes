@@ -21,7 +21,7 @@ external-url: ''
 submission-end: 06/15/2015 12:00 AM
 why-use-prizes: ''
 submission-start: 04/27/2015 10:00 AM
-fiscal-year: FY 2015
+fiscal-year: FY15
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$2,250,000'

@@ -29,7 +29,7 @@ external-url: http://www.headhealthchallenge.com
 submission-end: 03/13/2015 05:00 PM
 why-use-prizes: ''
 submission-start: 02/02/2015 09:00 AM
-fiscal-year: FY 2015
+fiscal-year: FY15
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$2,000,000'

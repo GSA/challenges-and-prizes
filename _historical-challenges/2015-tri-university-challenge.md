@@ -21,7 +21,7 @@ external-url: http://www2.epa.gov/toxics-release-inventory-tri-program/2015-tri-
 submission-end: 03/27/2015 05:00 PM
 why-use-prizes: ''
 submission-start: ''
-fiscal-year: FY 2015
+fiscal-year: FY15
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

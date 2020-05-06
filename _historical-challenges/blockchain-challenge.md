@@ -20,7 +20,7 @@ external-url: http://www.cccinnovationcenter.com/challenges/block-chain-challeng
 submission-end: '08/19/2016 04:00 PM'
 why-use-prizes: ''
 submission-start: 07/07/2016 08:00 AM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

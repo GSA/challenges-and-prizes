@@ -21,7 +21,7 @@ external-url: http://community.topcoder.com/coeci/opm/
 submission-end: 06/30/2013 09:00 PM
 why-use-prizes: ''
 submission-start: 11/18/2012 02:00 PM
-fiscal-year: FY 2013
+fiscal-year: FY13
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$400,000'

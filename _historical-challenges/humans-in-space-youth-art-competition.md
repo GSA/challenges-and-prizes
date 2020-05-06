@@ -20,7 +20,7 @@ external-url: http://www.lpi.usra.edu/humansinspaceart/
 submission-end: 10/22/2012 03:00 AM
 why-use-prizes: ''
 submission-start: 03/09/2012 02:00 PM
-fiscal-year: FY 2012
+fiscal-year: FY12
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

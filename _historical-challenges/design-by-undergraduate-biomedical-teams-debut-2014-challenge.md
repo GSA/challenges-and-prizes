@@ -21,7 +21,7 @@ external-url: http://tinyurl.com/debut2014
 submission-end: 05/29/2014 12:00 AM
 why-use-prizes: ''
 submission-start: 01/27/2014 12:00 AM
-fiscal-year: FY 2014
+fiscal-year: FY14
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$45,000'

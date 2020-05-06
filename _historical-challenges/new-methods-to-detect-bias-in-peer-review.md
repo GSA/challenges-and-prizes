@@ -22,7 +22,7 @@ external-url: http://public.csr.nih.gov/Pages/challenge.aspx
 submission-end: 06/30/2014 04:00 AM
 why-use-prizes: ''
 submission-start: 05/05/2014 08:00 PM
-fiscal-year: FY 2014
+fiscal-year: FY14
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$10,000'

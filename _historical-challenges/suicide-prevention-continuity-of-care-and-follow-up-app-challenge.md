@@ -23,7 +23,7 @@ external-url: ''
 submission-end: '08/09/2013 09:00 PM'
 why-use-prizes: ''
 submission-start: 06/06/2013 03:00 PM
-fiscal-year: FY 2013
+fiscal-year: FY13
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$100,000'

@@ -20,7 +20,7 @@ external-url: https://edu2030.agorize.com/
 submission-end: '08/08/2018 04:15 PM'
 why-use-prizes: ''
 submission-start: 06/13/2018 04:15 PM
-fiscal-year: FY 2018
+fiscal-year: FY18
 public-voting-end-date: '08/24/2018 12:00 AM'
 budget-and-resources: ''
 total-prize-offered-cash: ''

@@ -20,7 +20,7 @@ external-url: http://vehicles.challengepost.com/submissions
 submission-end: 03/15/2013 09:00 PM
 why-use-prizes: ''
 submission-start: 03/08/2013 02:00 PM
-fiscal-year: FY 2013
+fiscal-year: FY13
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$34,000'

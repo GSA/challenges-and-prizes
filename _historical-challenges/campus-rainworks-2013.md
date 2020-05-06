@@ -21,7 +21,7 @@ external-url: http://water.epa.gov/infrastructure/greeninfrastructure/crw_challe
 submission-end: 12/23/2013 12:00 AM
 why-use-prizes: ''
 submission-start: '09/09/2013 08:00 PM'
-fiscal-year: FY 2013
+fiscal-year: FY13
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$6,000'

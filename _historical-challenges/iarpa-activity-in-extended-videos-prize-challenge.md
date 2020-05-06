@@ -21,7 +21,7 @@ external-url: https://actev.nist.gov/prizechallenge
 submission-end: 02/28/2019 11:59 PM
 why-use-prizes: ''
 submission-start: 11/01/2018 12:00 AM
-fiscal-year: FY 2019
+fiscal-year: FY19
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

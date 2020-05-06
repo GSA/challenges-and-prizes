@@ -19,7 +19,7 @@ external-url: http://www.nsf.gov/CCchallenge
 submission-end: 01/15/2015 05:00 AM
 why-use-prizes: ''
 submission-start: '09/15/2014 04:00 AM'
-fiscal-year: FY 2014
+fiscal-year: FY14
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$20,000'

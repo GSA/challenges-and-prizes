@@ -21,7 +21,7 @@ external-url: http://datadrivenfarming.challenges.org/
 submission-end: 04/06/2017 11:59 PM
 why-use-prizes: ''
 submission-start: 02/09/2017 12:00 AM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$50,000'

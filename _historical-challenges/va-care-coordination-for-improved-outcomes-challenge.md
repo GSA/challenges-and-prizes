@@ -21,7 +21,7 @@ external-url: http://www.health4con.com/devchallenge/va-care-coordination-for-im
 submission-end: 07/13/2015 12:00 AM
 why-use-prizes: ''
 submission-start: 06/09/2015 12:00 AM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$300,000'

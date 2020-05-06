@@ -23,7 +23,7 @@ external-url: http://www.topcoder.com
 submission-end: 02/10/2016 12:00 AM
 why-use-prizes: ''
 submission-start: '09/29/2015 12:00 AM'
-fiscal-year: FY 2015
+fiscal-year: FY15
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$50,200'

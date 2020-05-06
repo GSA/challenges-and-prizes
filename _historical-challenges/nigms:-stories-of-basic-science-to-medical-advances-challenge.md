@@ -21,7 +21,7 @@ external-url: http://www.nigms.nih.gov/About/NIGMSAdvanceTracingChallenge/Pages/
 submission-end: 10/21/2014 08:00 AM
 why-use-prizes: ''
 submission-start: 07/22/2014 08:00 AM
-fiscal-year: FY 2014
+fiscal-year: FY14
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$5,000'

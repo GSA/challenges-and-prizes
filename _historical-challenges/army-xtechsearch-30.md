@@ -21,7 +21,7 @@ external-url: https://go.valideval.com/teams/army_xtech_3_0/signup
 submission-end: 06/13/2019 02:59 AM
 why-use-prizes: ''
 submission-start: 05/02/2019 12:00 PM
-fiscal-year: FY 2019, FY 2020
+fiscal-year: FY19, FY 2020
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

@@ -33,7 +33,7 @@ external-url: http://www.epa.gov/campusrainworks
 submission-end: '09/30/2017 11:59 PM'
 why-use-prizes: ''
 submission-start: '09/01/2017 12:00 AM'
-fiscal-year: FY 2018
+fiscal-year: FY18
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$16,000'

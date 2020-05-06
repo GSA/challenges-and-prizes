@@ -21,7 +21,7 @@ external-url: https://wearemathematics2019.skild.com/
 submission-end: 02/28/2019 11:59 PM
 why-use-prizes: ''
 submission-start: 10/05/2018 12:00 AM
-fiscal-year: FY 2019
+fiscal-year: FY19
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

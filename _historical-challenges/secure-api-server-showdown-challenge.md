@@ -22,7 +22,7 @@ external-url: https://www.cccinnovationcenter.com/challenges/secure-api-server-s
 submission-end: 04/09/2018 11:59 PM
 why-use-prizes: ''
 submission-start: 02/20/2017 12:00 AM
-fiscal-year: FY 2018
+fiscal-year: FY18
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$50,000'

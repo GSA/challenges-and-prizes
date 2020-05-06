@@ -46,7 +46,7 @@ external-url: http://iab-rubric.org/DFW/dfw.html
 submission-end: 05/01/2018 11:59 PM
 why-use-prizes: ''
 submission-start: 01/20/2018 12:00 AM
-fiscal-year: FY 2018
+fiscal-year: FY18
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$25,500'

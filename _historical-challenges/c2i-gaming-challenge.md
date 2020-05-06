@@ -1,45 +1,43 @@
 ---
 ideaSubmitFormInstruction: ''
-startDate: '2014-02-20T00:00:00'
+startDate: '2012-01-23T00:00:00'
 votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 403
+id: 235
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: Create an innovative algorithm that uses data from recent studies to predict
-  trustworthy behavior, based on volunteers neural, physiological, and behavioral
-  signals.
-groupName: Office of Director of National Intelligence - Intelligence Advanced Research
-  Project Activity
+tagline: How can interactive technology and game-based learning improve teaching and
+  learning?
+groupName: Department of Education
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
 attributes:
 total-prize-awarded-cash: ''
-external-url: https://www.innocentive.com/ar/challenge/9933465
-submission-end: 05/05/2014 04:00 PM
+external-url: http://innovation.ed.gov/challenges/gaming/show/
+submission-end: 03/06/2012 04:00 AM
 why-use-prizes: ''
-submission-start: 02/19/2014 08:00 PM
-fiscal-year: FY 2014
+submission-start: 01/23/2012 02:00 PM
+fiscal-year: FY12
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '$50,000'
-campaign-owner: Ruthanna Gordon
+total-prize-offered-cash: '$10,000'
+campaign-owner: ''
 public-voting-start-date: ''
-legal-authority: America COMPETES
+legal-authority: Unspecified
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
-agency-id: '1552'
+agency-id: '192'
 solicitation-of-submissions: ''
-total-submission-received: Unknown
+total-submission-received: '157'
 total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
-non-monetary-incentives-awarded: "$25,000 for first place, $15,000 for second
-  place, and $10,000 for third place"
+non-monetary-incentives-awarded: Up to 10 solutions will receive $1,000 cash awards
+      from the NEA Foundation
 partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
@@ -50,14 +48,14 @@ hide-challenge-timeline: 'No'
 judging-start-date: ''
 winners-announced-date: ''
 cash-prizes-and-non-cash-prize-awards: ''
-campaign-owner-email: ruthanna.emrysgordon@iarpa.gov
+campaign-owner-email: ''
 solution-type: Software and apps
 partner-agencies-non-federal: ''
-original-post-id: '57732'
+original-post-id: '52832'
 total-number-of-winners-awarded: ''
 hosting: Externally (Challenge details will redirect to external url)
 hide-challenge-funnel: 'Yes'
-type-of-challenge: Software and apps
+type-of-challenge: Ideas
 participation-requirements: ''
 number-of-phases: ''
 how-to-enter: ''
@@ -124,7 +122,7 @@ judging-criteria-description-9: ''
 judging-criteria-percentage-9: ''
 judging-criteria-9: ''
 prize-description-0: ''
-prize-cash-amount-0: '50000'
+prize-cash-amount-0: '10000'
 prize-name-0: ''
 prize-description-1: ''
 prize-cash-amount-1: ''
@@ -222,11 +220,7 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: How do you know if you can trust someone? Answering this question accurately
-  is essential for society in generalbut particularly so in the Intelligence Community
-  (IC), where knowing whom to trust is often vital. The Intelligence Advanced Research
-  Project Activity (IARPA) seeks ways to use one persons neural, psychological, physiological,
-  and behavioral signals to assess their partners trustworthiness.
+description: ''
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
@@ -238,13 +232,13 @@ hideCommentAuthor: false
 authorizedGroupIds: []
 userSubscriptionAllowed: false
 bannerImage: ''
-groupId: 269
+groupId: 285
 showTagline: true
-name: 'INSTINCT - The IARPA Trustworthiness Challenge'
+name: 'C2i: Gaming Challenge'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/instinct-the-iarpa-trustworthiness-challenge/"
+permalink: "/challenge/c2i-gaming-challenge/"
 layout: json-page
 ---

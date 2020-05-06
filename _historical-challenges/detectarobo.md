@@ -44,7 +44,7 @@ external-url: https://www.ftc.gov/news-events/contests/detectarobo
 submission-end: 06/07/2015 08:00 PM
 why-use-prizes: ''
 submission-start: 06/06/2015 09:00 AM
-fiscal-year: FY 2015
+fiscal-year: FY15
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

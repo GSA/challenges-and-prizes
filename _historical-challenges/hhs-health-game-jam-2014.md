@@ -21,7 +21,7 @@ external-url: http://www.eventbrite.com/e/georgia-fall-2014-game-jam-tickets-125
 submission-end: '09/28/2014 04:00 PM'
 why-use-prizes: ''
 submission-start: '09/26/2014 04:00 PM'
-fiscal-year: FY 2014
+fiscal-year: FY14
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$20,000'

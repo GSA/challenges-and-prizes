@@ -20,7 +20,7 @@ external-url: http://www.drugabuse.gov/related-topics/trends-statistics/infograp
 submission-end: 06/17/2013 03:00 AM
 why-use-prizes: ''
 submission-start: 05/17/2013 05:00 AM
-fiscal-year: FY 2013
+fiscal-year: FY13
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$15,000'

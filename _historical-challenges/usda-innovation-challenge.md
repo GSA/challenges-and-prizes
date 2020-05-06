@@ -27,7 +27,7 @@ external-url: http://usdaapps.devpost.com/
 submission-end: 10/27/2015 05:00 PM
 why-use-prizes: ''
 submission-start: 07/24/2015 10:00 AM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: 11/17/2015 05:00 PM
 budget-and-resources: ''
 total-prize-offered-cash: '$63,000'
