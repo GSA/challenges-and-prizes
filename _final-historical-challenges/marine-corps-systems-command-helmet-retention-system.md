@@ -18,7 +18,7 @@ campaignAttributes:
 attributes:
 total-prize-awarded-cash: ''
 external-url: https://www.marcorsyscom.marines.mil/Unit-Home/Marine-Equipping-Challenge/ 
-submission-end-date: 03/15/2019 12:00 AM
+submission-end: 03/15/2019 12:00 AM
 why-use-prizes: ''
 submission-start-date: 01/31/2019 09:30 AM
 fiscal-year: FY 2019
