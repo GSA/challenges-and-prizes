@@ -15,14 +15,14 @@ groupName: Consumer Product Safety Commission
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://carbonmonoxide.challengepost.com/submissions
-    submission-end: 01/01/2011 09:59 AM
-    why-use-prizes: ''
-    submission-start: '09/07/2010 08:00 AM'
-    fiscal-year: FY 2010
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://carbonmonoxide.challengepost.com/submissions
+submission-end: 01/01/2011 09:59 AM
+why-use-prizes: ''
+submission-start: '09/07/2010 08:00 AM'
+fiscal-year: FY 2010
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '2750'
     campaign-owner: ''

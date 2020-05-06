@@ -15,14 +15,14 @@ groupName: Department of Homeland Security - Federal Emergency Management Agency
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://disasterprep.challengepost.com/submissions
-    submission-end: 01/30/2011 04:59 AM
-    why-use-prizes: ''
-    submission-start: 10/28/2010 04:00 AM
-    fiscal-year: FY 2011
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://disasterprep.challengepost.com/submissions
+submission-end: 01/30/2011 04:59 AM
+why-use-prizes: ''
+submission-start: 10/28/2010 04:00 AM
+fiscal-year: FY 2011
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '0'
     campaign-owner: ''

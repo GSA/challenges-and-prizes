@@ -14,14 +14,14 @@ groupName: Department of Defense
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://gallantlystreaming.challengepost.com/submissions
-    submission-end: '08/06/2012 03:00 AM'
-    why-use-prizes: ''
-    submission-start: 05/30/2012 02:00 PM
-    fiscal-year: FY 2012
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://gallantlystreaming.challengepost.com/submissions
+submission-end: '08/06/2012 03:00 AM'
+why-use-prizes: ''
+submission-start: 05/30/2012 02:00 PM
+fiscal-year: FY 2012
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '3000'
     campaign-owner: ''

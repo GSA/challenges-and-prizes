@@ -15,14 +15,14 @@ groupName: Department of Transportation
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://dataviz.challengepost.com/submissions
-    submission-end: 11/01/2011 03:00 AM
-    why-use-prizes: ''
-    submission-start: 07/29/2011 04:00 AM
-    fiscal-year: FY 2011
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://dataviz.challengepost.com/submissions
+submission-end: 11/01/2011 03:00 AM
+why-use-prizes: ''
+submission-start: 07/29/2011 04:00 AM
+fiscal-year: FY 2011
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '4000'
     campaign-owner: ''

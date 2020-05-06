@@ -16,14 +16,14 @@ groupName: Department of Housing and Urban Development
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.changemakers.com/sustainableurbanhousing
-    submission-end: 02/02/2011 11:00 PM
-    why-use-prizes: ''
-    submission-start: 11/05/2010 12:00 AM
-    fiscal-year: FY 2011
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.changemakers.com/sustainableurbanhousing
+submission-end: 02/02/2011 11:00 PM
+why-use-prizes: ''
+submission-start: 11/05/2010 12:00 AM
+fiscal-year: FY 2011
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '31000'
     campaign-owner: ''

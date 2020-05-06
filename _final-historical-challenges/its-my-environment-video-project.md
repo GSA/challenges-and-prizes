@@ -15,14 +15,14 @@ groupName: Environmental Protection Agency
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.epa.gov/earthday/video/
-    submission-end: 06/07/2011 03:59 AM
-    why-use-prizes: ''
-    submission-start: '08/28/2010 04:00 AM'
-    fiscal-year: FY 2010
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.epa.gov/earthday/video/
+submission-end: 06/07/2011 03:59 AM
+why-use-prizes: ''
+submission-start: '08/28/2010 04:00 AM'
+fiscal-year: FY 2010
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '0'
     campaign-owner: ''

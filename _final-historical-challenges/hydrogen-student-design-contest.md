@@ -16,14 +16,14 @@ groupName: Department of Energy - Energy Programs
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.hydrogencontest.org/
-    submission-end: 01/04/2011 04:00 AM
-    why-use-prizes: ''
-    submission-start: '08/15/2010 04:00 AM'
-    fiscal-year: FY 2010
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.hydrogencontest.org/
+submission-end: 01/04/2011 04:00 AM
+why-use-prizes: ''
+submission-start: '08/15/2010 04:00 AM'
+fiscal-year: FY 2010
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '5000'
     campaign-owner: ''

@@ -15,14 +15,14 @@ groupName: Department of Health and Human Services
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.healthymagination.com
-    submission-end: 11/20/2011 05:00 AM
-    why-use-prizes: ''
-    submission-start: '09/15/2011 04:00 AM'
-    fiscal-year: FY 2011
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.healthymagination.com
+submission-end: 11/20/2011 05:00 AM
+why-use-prizes: ''
+submission-start: '09/15/2011 04:00 AM'
+fiscal-year: FY 2011
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '500000'
     campaign-owner: ''

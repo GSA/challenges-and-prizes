@@ -14,14 +14,14 @@ groupName: Environmental Protection Agency
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.epa.gov/epawaste/partnerships/wastewise/challenge/gameday/
-    submission-end: 10/07/2010 11:59 PM
-    why-use-prizes: ''
-    submission-start: '09/07/2010 12:00 AM'
-    fiscal-year: FY 2010
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.epa.gov/epawaste/partnerships/wastewise/challenge/gameday/
+submission-end: 10/07/2010 11:59 PM
+why-use-prizes: ''
+submission-start: '09/07/2010 12:00 AM'
+fiscal-year: FY 2010
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '0'
     campaign-owner: ''

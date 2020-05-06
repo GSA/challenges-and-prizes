@@ -16,14 +16,14 @@ groupName: Department of Defense
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://absenteeposter.challengepost.com/submissions
-    submission-end: 04/11/2011 03:59 AM
-    why-use-prizes: ''
-    submission-start: 01/21/2011 05:00 AM
-    fiscal-year: FY 2011
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://absenteeposter.challengepost.com/submissions
+submission-end: 04/11/2011 03:59 AM
+why-use-prizes: ''
+submission-start: 01/21/2011 05:00 AM
+fiscal-year: FY 2011
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '10000'
     campaign-owner: ''

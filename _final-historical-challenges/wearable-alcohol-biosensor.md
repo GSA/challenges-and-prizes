@@ -17,14 +17,14 @@ groupName: Department of Health and Human Services - National Institutes of Heal
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: ''
-    submission-end: 05/15/2017 11:59 PM
-    why-use-prizes: ''
-    submission-start: 12/10/2016 12:00 AM
-    fiscal-year: FY 2017
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: ''
+submission-end: 05/15/2017 11:59 PM
+why-use-prizes: ''
+submission-start: 12/10/2016 12:00 AM
+fiscal-year: FY 2017
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '100000'
     campaign-owner: Kathy Jung

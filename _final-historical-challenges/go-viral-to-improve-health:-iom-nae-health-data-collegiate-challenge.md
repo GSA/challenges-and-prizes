@@ -16,14 +16,14 @@ groupName: Department of Health and Human Services
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://health2challenge.org/blog/go-viral/
-    submission-end: 04/28/2011 03:00 AM
-    why-use-prizes: ''
-    submission-start: 02/18/2011 05:00 AM
-    fiscal-year: FY 2011
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://health2challenge.org/blog/go-viral/
+submission-end: 04/28/2011 03:00 AM
+why-use-prizes: ''
+submission-start: 02/18/2011 05:00 AM
+fiscal-year: FY 2011
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '6000'
     campaign-owner: ''

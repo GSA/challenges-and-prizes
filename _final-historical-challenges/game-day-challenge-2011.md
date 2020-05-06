@@ -16,7 +16,7 @@ groupName: Environmental Protection Agency
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes: {}
+attributes: {}
   groupAttributes: []
 memberIdeaSubmissionAllowed: false
 showTitle: true

@@ -16,14 +16,14 @@ groupName: Department of Health and Human Services
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://smartapps.challengepost.com/submissions
-    submission-end: 06/01/2011 03:59 AM
-    why-use-prizes: ''
-    submission-start: 03/08/2011 05:00 AM
-    fiscal-year: FY 2011
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://smartapps.challengepost.com/submissions
+submission-end: 06/01/2011 03:59 AM
+why-use-prizes: ''
+submission-start: 03/08/2011 05:00 AM
+fiscal-year: FY 2011
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '5000'
     campaign-owner: ''

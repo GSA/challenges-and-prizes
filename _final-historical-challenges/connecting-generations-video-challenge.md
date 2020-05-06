@@ -15,14 +15,14 @@ groupName: Department of Health and Human Services
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.aoa.gov/AoAroot/Press_Room/Observances/oam/archive/2011/Contest_Winners.aspx
-    submission-end: 05/10/2011 03:59 AM
-    why-use-prizes: ''
-    submission-start: 03/28/2011 04:00 AM
-    fiscal-year: FY 2011
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.aoa.gov/AoAroot/Press_Room/Observances/oam/archive/2011/Contest_Winners.aspx
+submission-end: 05/10/2011 03:59 AM
+why-use-prizes: ''
+submission-start: 03/28/2011 04:00 AM
+fiscal-year: FY 2011
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '0'
     campaign-owner: ''

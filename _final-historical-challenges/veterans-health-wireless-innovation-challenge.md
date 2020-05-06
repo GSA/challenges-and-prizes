@@ -16,14 +16,14 @@ groupName: Department of Veterans Affairs
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.westwirelesshealth.org/
-    submission-end: 03/16/2011 03:00 AM
-    why-use-prizes: ''
-    submission-start: 11/01/2010 04:00 AM
-    fiscal-year: FY 2011
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.westwirelesshealth.org/
+submission-end: 03/16/2011 03:00 AM
+why-use-prizes: ''
+submission-start: 11/01/2010 04:00 AM
+fiscal-year: FY 2011
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '10000'
     campaign-owner: ''

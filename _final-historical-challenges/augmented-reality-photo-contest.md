@@ -14,14 +14,14 @@ groupName: International Assistance Programs - Department of State - Other
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.flickr.com/groups/historyhappenshere/
-    submission-end: 01/22/2011 09:00 AM
-    why-use-prizes: ''
-    submission-start: 12/09/2010 10:00 AM
-    fiscal-year: FY 2011
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.flickr.com/groups/historyhappenshere/
+submission-end: 01/22/2011 09:00 AM
+why-use-prizes: ''
+submission-start: 12/09/2010 10:00 AM
+fiscal-year: FY 2011
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '0'
     campaign-owner: ''

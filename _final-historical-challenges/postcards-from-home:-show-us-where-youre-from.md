@@ -16,14 +16,14 @@ groupName: International Assistance Programs - Department of State - Other
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://connect.state.gov/page/photo-contest
-    submission-end: 12/18/2010 04:00 AM
-    why-use-prizes: ''
-    submission-start: 11/09/2010 05:00 AM
-    fiscal-year: FY 2011
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://connect.state.gov/page/photo-contest
+submission-end: 12/18/2010 04:00 AM
+why-use-prizes: ''
+submission-start: 11/09/2010 05:00 AM
+fiscal-year: FY 2011
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '5000'
     campaign-owner: ''

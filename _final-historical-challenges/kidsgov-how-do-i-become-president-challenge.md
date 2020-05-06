@@ -15,14 +15,14 @@ groupName: General Services Administration
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://becomepresident.challengepost.com/submissions
-    submission-end: 11/09/2010 04:59 AM
-    why-use-prizes: ''
-    submission-start: '09/07/2010 04:00 AM'
-    fiscal-year: FY 2010
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://becomepresident.challengepost.com/submissions
+submission-end: 11/09/2010 04:59 AM
+why-use-prizes: ''
+submission-start: '09/07/2010 04:00 AM'
+fiscal-year: FY 2010
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '5000'
     campaign-owner: ''

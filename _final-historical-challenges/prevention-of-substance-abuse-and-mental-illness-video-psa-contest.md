@@ -16,14 +16,14 @@ groupName: Department of Health and Human Services - Substance Abuse and Mental 
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://preventionpsa.challengepost.com/submissions
-    submission-end: 04/23/2011 03:59 AM
-    why-use-prizes: ''
-    submission-start: 02/18/2011 05:00 AM
-    fiscal-year: FY 2011
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://preventionpsa.challengepost.com/submissions
+submission-end: 04/23/2011 03:59 AM
+why-use-prizes: ''
+submission-start: 02/18/2011 05:00 AM
+fiscal-year: FY 2011
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '3000'
     campaign-owner: ''

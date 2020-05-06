@@ -16,14 +16,14 @@ groupName: National Aeronautics and Space Administration
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://cafefoundation.org/v2/gfc_main.php
-    submission-end: 01/01/2011 04:59 AM
-    why-use-prizes: ''
-    submission-start: '09/01/2010 04:00 AM'
-    fiscal-year: FY 2010
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://cafefoundation.org/v2/gfc_main.php
+submission-end: 01/01/2011 04:59 AM
+why-use-prizes: ''
+submission-start: '09/01/2010 04:00 AM'
+fiscal-year: FY 2010
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '1650000'
     campaign-owner: ''

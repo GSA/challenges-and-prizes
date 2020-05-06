@@ -16,14 +16,14 @@ groupName: Office of Director of National Intelligence - Intelligence Advanced R
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: https://www.herox.com/IARPAGFChallenge2
-    submission-end: 11/19/2019 02:01 PM
-    why-use-prizes: ''
-    submission-start: 05/15/2019 12:30 PM
-    fiscal-year: FY 2019, FY 2020
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: https://www.herox.com/IARPAGFChallenge2
+submission-end: 11/19/2019 02:01 PM
+why-use-prizes: ''
+submission-start: 05/15/2019 12:30 PM
+fiscal-year: FY 2019, FY 2020
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: ''
     public-voting-start-date: ''

@@ -16,14 +16,14 @@ groupName: Department of Education
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://innovation.ed.gov/challenges/challengetoinnovate/show/
-    submission-end: 01/15/2011 04:00 AM
-    why-use-prizes: ''
-    submission-start: '09/07/2010 04:00 AM'
-    fiscal-year: FY 2010
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://innovation.ed.gov/challenges/challengetoinnovate/show/
+submission-end: 01/15/2011 04:00 AM
+why-use-prizes: ''
+submission-start: '09/07/2010 04:00 AM'
+fiscal-year: FY 2010
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '67500'
     campaign-owner: ''

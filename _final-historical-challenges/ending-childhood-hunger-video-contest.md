@@ -15,14 +15,14 @@ groupName: Department of Agriculture
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: ''
-    submission-end: 12/15/2011 11:00 PM
-    why-use-prizes: ''
-    submission-start: '09/15/2011 12:00 PM'
-    fiscal-year: FY 2011
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: ''
+submission-end: 12/15/2011 11:00 PM
+why-use-prizes: ''
+submission-start: '09/15/2011 12:00 PM'
+fiscal-year: FY 2011
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '0'
     campaign-owner: ''

@@ -15,14 +15,14 @@ groupName: Department of Health and Human Services - National Institutes of Heal
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: https://www.nia.nih.gov//challenge-prize
-    submission-end: 06/30/2019 11:59 PM
-    why-use-prizes: ''
-    submission-start: 10/01/2018 12:00 AM
-    fiscal-year: FY 2019, FY 2018
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: https://www.nia.nih.gov//challenge-prize
+submission-end: 06/30/2019 11:59 PM
+why-use-prizes: ''
+submission-start: 10/01/2018 12:00 AM
+fiscal-year: FY 2019, FY 2018
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: ''
     public-voting-start-date: ''

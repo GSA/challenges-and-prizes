@@ -15,14 +15,14 @@ groupName: Department of Veterans Affairs
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://liftedbythecloud.challengepost.com/submissions
-    submission-end: 05/16/2011 07:59 AM
-    why-use-prizes: ''
-    submission-start: 10/22/2010 08:00 AM
-    fiscal-year: FY 2011
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://liftedbythecloud.challengepost.com/submissions
+submission-end: 05/16/2011 07:59 AM
+why-use-prizes: ''
+submission-start: 10/22/2010 08:00 AM
+fiscal-year: FY 2011
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '0'
     campaign-owner: ''

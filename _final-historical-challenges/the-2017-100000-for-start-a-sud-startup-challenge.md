@@ -21,14 +21,14 @@ groupName: Department of Health and Human Services - National Institutes of Heal
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: ''
-    submission-end: 12/22/2017 05:00 PM
-    why-use-prizes: ''
-    submission-start: 06/09/2017 08:00 AM
-    fiscal-year: FY 2017
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: ''
+submission-end: 12/22/2017 05:00 PM
+why-use-prizes: ''
+submission-start: 06/09/2017 08:00 AM
+fiscal-year: FY 2017
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '100000'
     campaign-owner: " Irina Sazonova, Ph.D."

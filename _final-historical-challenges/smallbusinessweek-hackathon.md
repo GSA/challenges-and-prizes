@@ -16,14 +16,14 @@ groupName: Small Business Administration
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: https://www.sba.gov/national-small-business-week/events
-    submission-end: 04/29/2018 01:30 PM
-    why-use-prizes: ''
-    submission-start: 04/27/2018 06:00 PM
-    fiscal-year: FY 2018
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: https://www.sba.gov/national-small-business-week/events
+submission-end: 04/29/2018 01:30 PM
+why-use-prizes: ''
+submission-start: 04/27/2018 06:00 PM
+fiscal-year: FY 2018
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '24000'
     campaign-owner: Natale Goriel

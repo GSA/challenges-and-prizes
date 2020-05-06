@@ -16,14 +16,14 @@ groupName: Environmental Protection Agency
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://epa.gov/aging/carson/index.htm
-    submission-end: 06/11/2011 07:00 AM
-    why-use-prizes: ''
-    submission-start: 01/24/2011 10:00 AM
-    fiscal-year: FY 2011
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://epa.gov/aging/carson/index.htm
+submission-end: 06/11/2011 07:00 AM
+why-use-prizes: ''
+submission-start: 01/24/2011 10:00 AM
+fiscal-year: FY 2011
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '0'
     campaign-owner: ''

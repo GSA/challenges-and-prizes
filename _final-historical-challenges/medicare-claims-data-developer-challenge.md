@@ -17,14 +17,14 @@ groupName: Department of Health and Human Services - Centers for Medicare and Me
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.health2challenge.org/2011/06/01/medicare-claims-data/
-    submission-end: '08/16/2011 03:00 AM'
-    why-use-prizes: ''
-    submission-start: 06/09/2011 04:00 AM
-    fiscal-year: FY 2011
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.health2challenge.org/2011/06/01/medicare-claims-data/
+submission-end: '08/16/2011 03:00 AM'
+why-use-prizes: ''
+submission-start: 06/09/2011 04:00 AM
+fiscal-year: FY 2011
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '10000'
     campaign-owner: ''

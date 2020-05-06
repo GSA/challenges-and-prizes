@@ -16,14 +16,14 @@ groupName: Department of Transportation
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.its.dot.gov/
-    submission-end: 07/01/2011 03:00 AM
-    why-use-prizes: ''
-    submission-start: 04/06/2011 04:00 AM
-    fiscal-year: FY 2011
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.its.dot.gov/
+submission-end: 07/01/2011 03:00 AM
+why-use-prizes: ''
+submission-start: 04/06/2011 04:00 AM
+fiscal-year: FY 2011
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '8000'
     campaign-owner: ''

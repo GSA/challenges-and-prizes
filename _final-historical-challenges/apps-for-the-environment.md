@@ -15,14 +15,14 @@ groupName: Environmental Protection Agency
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: ''
-    submission-end: '09/17/2011 12:00 AM'
-    why-use-prizes: ''
-    submission-start: 06/09/2011 01:00 PM
-    fiscal-year: FY 2011
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: ''
+submission-end: '09/17/2011 12:00 AM'
+why-use-prizes: ''
+submission-start: 06/09/2011 01:00 PM
+fiscal-year: FY 2011
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '0'
     campaign-owner: ''

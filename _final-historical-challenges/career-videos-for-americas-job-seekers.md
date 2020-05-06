@@ -15,14 +15,14 @@ groupName: Department of Labor
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.dol.gov/dol/videochallenge.htm
-    submission-end: 01/01/2011 04:59 AM
-    why-use-prizes: ''
-    submission-start: 11/08/2010 05:00 AM
-    fiscal-year: FY 2011
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.dol.gov/dol/videochallenge.htm
+submission-end: 01/01/2011 04:59 AM
+why-use-prizes: ''
+submission-start: 11/08/2010 05:00 AM
+fiscal-year: FY 2011
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '15000'
     campaign-owner: ''

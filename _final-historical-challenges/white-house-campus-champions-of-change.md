@@ -15,14 +15,14 @@ groupName: International Assistance Programs - Department of State - Other
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.whitehouse.gov/the-press-office/2011/11/02/white-house-launches-2011-campus-champions-change-challenge
-    submission-end: 12/10/2011 05:00 AM
-    why-use-prizes: ''
-    submission-start: 11/02/2011 04:00 AM
-    fiscal-year: FY 2012
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.whitehouse.gov/the-press-office/2011/11/02/white-house-launches-2011-campus-champions-change-challenge
+submission-end: 12/10/2011 05:00 AM
+why-use-prizes: ''
+submission-start: 11/02/2011 04:00 AM
+fiscal-year: FY 2012
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '0'
     campaign-owner: ''

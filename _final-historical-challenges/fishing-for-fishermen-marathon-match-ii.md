@@ -14,14 +14,14 @@ groupName: Office of Director of National Intelligence
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: https://community.topcoder.com/tc?module=MatchDetails&rd=16978
-    submission-end: '09/08/2017 09:00 PM'
-    why-use-prizes: ''
-    submission-start: '08/23/2017 09:00 PM'
-    fiscal-year: FY 2017
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: https://community.topcoder.com/tc?module=MatchDetails&rd=16978
+submission-end: '09/08/2017 09:00 PM'
+why-use-prizes: ''
+submission-start: '08/23/2017 09:00 PM'
+fiscal-year: FY 2017
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '26000'
     campaign-owner: Gary Khalil

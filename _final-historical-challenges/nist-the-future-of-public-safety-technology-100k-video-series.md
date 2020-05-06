@@ -22,14 +22,14 @@ groupName: Department of Commerce - National Institute of Standards and Technolo
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: https://tongal.com/project/TheFutureofPublicSafetyTechnology/
-    submission-end: '09/07/2017 01:00 PM'
-    why-use-prizes: ''
-    submission-start: '08/21/2017 12:00 PM'
-    fiscal-year: FY 2017
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: https://tongal.com/project/TheFutureofPublicSafetyTechnology/
+submission-end: '09/07/2017 01:00 PM'
+why-use-prizes: ''
+submission-start: '08/21/2017 12:00 PM'
+fiscal-year: FY 2017
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '100000'
     campaign-owner: Terese Manley

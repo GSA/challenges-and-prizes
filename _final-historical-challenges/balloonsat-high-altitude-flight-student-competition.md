@@ -15,14 +15,14 @@ groupName: National Aeronautics and Space Administration
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.grc.nasa.gov/WWW/balloonsat/Index.html
-    submission-end: 02/12/2011 04:59 AM
-    why-use-prizes: ''
-    submission-start: 01/12/2011 05:00 AM
-    fiscal-year: FY 2011
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.grc.nasa.gov/WWW/balloonsat/Index.html
+submission-end: 02/12/2011 04:59 AM
+why-use-prizes: ''
+submission-start: 01/12/2011 05:00 AM
+fiscal-year: FY 2011
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '8000'
     campaign-owner: ''

@@ -17,14 +17,14 @@ groupName: Environmental Protection Agency
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.nutrients-challenge.org
-    submission-end: 03/16/2015 11:59 PM
-    why-use-prizes: ''
-    submission-start: 12/17/2014 12:00 PM
-    fiscal-year: FY 2015
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.nutrients-challenge.org
+submission-end: 03/16/2015 11:59 PM
+why-use-prizes: ''
+submission-start: 12/17/2014 12:00 PM
+fiscal-year: FY 2015
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '0'
     campaign-owner: ''

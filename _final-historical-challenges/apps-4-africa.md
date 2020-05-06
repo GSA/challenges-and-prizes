@@ -15,14 +15,14 @@ groupName: International Assistance Programs - Department of State - Other
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.apps4africa.org
-    submission-end: '09/01/2010 03:00 AM'
-    why-use-prizes: ''
-    submission-start: 07/01/2010 04:00 AM
-    fiscal-year: FY 2010
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.apps4africa.org
+submission-end: '09/01/2010 03:00 AM'
+why-use-prizes: ''
+submission-start: 07/01/2010 04:00 AM
+fiscal-year: FY 2010
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '15000'
     campaign-owner: ''

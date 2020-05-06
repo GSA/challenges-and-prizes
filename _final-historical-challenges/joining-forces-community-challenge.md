@@ -15,14 +15,14 @@ groupName: International Assistance Programs - Department of State - Other
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.whitehouse.gov/the-press-office/2012/04/06/first-lady-michelle-obama-and-dr-jill-biden-announce-joining-forces-comm
-    submission-end: 11/01/2011 03:00 AM
-    why-use-prizes: ''
-    submission-start: 07/22/2011 04:00 AM
-    fiscal-year: FY 2011
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.whitehouse.gov/the-press-office/2012/04/06/first-lady-michelle-obama-and-dr-jill-biden-announce-joining-forces-comm
+submission-end: 11/01/2011 03:00 AM
+why-use-prizes: ''
+submission-start: 07/22/2011 04:00 AM
+fiscal-year: FY 2011
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '0'
     campaign-owner: ''

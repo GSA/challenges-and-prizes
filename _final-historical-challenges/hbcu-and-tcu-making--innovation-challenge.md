@@ -22,7 +22,7 @@ groupName: Department of Education
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes: {}
+attributes: {}
   groupAttributes: []
 memberIdeaSubmissionAllowed: false
 showTitle: true

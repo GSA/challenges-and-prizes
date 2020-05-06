@@ -16,14 +16,14 @@ groupName: Department of the Interior - Bureau of Reclamation
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: https://www.innocentive.com/ar/challenge/9933766?cc=BORgov3766
-    submission-end: 05/22/2017 12:00 AM
-    why-use-prizes: ''
-    submission-start: 02/22/2017 12:00 AM
-    fiscal-year: FY 2017
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: https://www.innocentive.com/ar/challenge/9933766?cc=BORgov3766
+submission-end: 05/22/2017 12:00 AM
+why-use-prizes: ''
+submission-start: 02/22/2017 12:00 AM
+fiscal-year: FY 2017
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '50000'
     campaign-owner: Sean Kimbrel

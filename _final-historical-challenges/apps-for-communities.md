@@ -15,14 +15,14 @@ groupName: International Assistance Programs - Department of State - Other
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://appsforcommunities.challengepost.com/submissions
-    submission-end: 10/04/2011 03:00 AM
-    why-use-prizes: ''
-    submission-start: 04/14/2011 04:00 AM
-    fiscal-year: FY 2011
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://appsforcommunities.challengepost.com/submissions
+submission-end: 10/04/2011 03:00 AM
+why-use-prizes: ''
+submission-start: 04/14/2011 04:00 AM
+fiscal-year: FY 2011
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '100000'
     campaign-owner: ''

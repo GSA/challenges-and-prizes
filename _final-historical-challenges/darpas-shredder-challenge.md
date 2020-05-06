@@ -14,14 +14,14 @@ groupName: Department of Defense
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.shredderchallenge.com
-    submission-end: 12/05/2011 04:00 AM
-    why-use-prizes: ''
-    submission-start: 10/27/2011 04:00 PM
-    fiscal-year: FY 2012
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.shredderchallenge.com
+submission-end: 12/05/2011 04:00 AM
+why-use-prizes: ''
+submission-start: 10/27/2011 04:00 PM
+fiscal-year: FY 2012
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '50000'
     campaign-owner: ''

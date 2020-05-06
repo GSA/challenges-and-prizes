@@ -16,14 +16,14 @@ groupName: Department of Defense
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.ndu.edu/press/holiday-scavenger-hunt.html
-    submission-end: 12/22/2010 11:59 PM
-    why-use-prizes: ''
-    submission-start: 12/14/2010 12:00 AM
-    fiscal-year: FY 2011
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.ndu.edu/press/holiday-scavenger-hunt.html
+submission-end: 12/22/2010 11:59 PM
+why-use-prizes: ''
+submission-start: 12/14/2010 12:00 AM
+fiscal-year: FY 2011
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '1000'
     campaign-owner: ''

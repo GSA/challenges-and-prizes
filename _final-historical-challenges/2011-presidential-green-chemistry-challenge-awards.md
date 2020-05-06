@@ -16,14 +16,14 @@ groupName: Environmental Protection Agency
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.epa.gov/greenchemistry/pubs/pgcc/howto.html
-    submission-end: 01/01/2011 04:00 AM
-    why-use-prizes: ''
-    submission-start: 11/29/2010 05:00 AM
-    fiscal-year: FY 2011
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.epa.gov/greenchemistry/pubs/pgcc/howto.html
+submission-end: 01/01/2011 04:00 AM
+why-use-prizes: ''
+submission-start: 11/29/2010 05:00 AM
+fiscal-year: FY 2011
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '0'
     campaign-owner: ''

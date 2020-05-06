@@ -15,14 +15,14 @@ groupName: Department of Health and Human Services
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://drugfactsweek.drugabuse.gov/contest.php
-    submission-end: 10/16/2010 03:59 AM
-    why-use-prizes: ''
-    submission-start: '09/20/2010 04:00 AM'
-    fiscal-year: FY 2010
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://drugfactsweek.drugabuse.gov/contest.php
+submission-end: 10/16/2010 03:59 AM
+why-use-prizes: ''
+submission-start: '09/20/2010 04:00 AM'
+fiscal-year: FY 2010
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '850'
     campaign-owner: ''

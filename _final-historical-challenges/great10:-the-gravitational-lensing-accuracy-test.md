@@ -15,14 +15,14 @@ groupName: National Aeronautics and Space Administration
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://great10challenge.info/
-    submission-end: '09/03/2011 03:59 AM'
-    why-use-prizes: ''
-    submission-start: 04/30/2011 04:00 AM
-    fiscal-year: FY 2011
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://great10challenge.info/
+submission-end: '09/03/2011 03:59 AM'
+why-use-prizes: ''
+submission-start: 04/30/2011 04:00 AM
+fiscal-year: FY 2011
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '400'
     campaign-owner: ''

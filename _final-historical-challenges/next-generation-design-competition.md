@@ -15,14 +15,14 @@ groupName: General Services Administration
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://www.metropolismag.com/May-2011/Getting-the-Feds-to-Zero-The-Next-Generation-2011-Runners-Up/
-    submission-end: 02/01/2011 09:00 AM
-    why-use-prizes: ''
-    submission-start: '09/23/2010 08:00 AM'
-    fiscal-year: FY 2010
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://www.metropolismag.com/May-2011/Getting-the-Feds-to-Zero-The-Next-Generation-2011-Runners-Up/
+submission-end: 02/01/2011 09:00 AM
+why-use-prizes: ''
+submission-start: '09/23/2010 08:00 AM'
+fiscal-year: FY 2010
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '10000'
     campaign-owner: ''

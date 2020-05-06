@@ -15,14 +15,14 @@ groupName: Department of Health and Human Services
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
-  attributes:
-    total-prize-awarded-cash: ''
-    external-url: http://sghealthyapps.challengepost.com/submissions
-    submission-end: 12/31/2011 05:00 AM
-    why-use-prizes: ''
-    submission-start: 12/06/2011 05:00 AM
-    fiscal-year: FY 2012
-    public-voting-end-date: ''
+attributes:
+total-prize-awarded-cash: ''
+external-url: http://sghealthyapps.challengepost.com/submissions
+submission-end: 12/31/2011 05:00 AM
+why-use-prizes: ''
+submission-start: 12/06/2011 05:00 AM
+fiscal-year: FY 2012
+public-voting-end-date: ''
     budget-and-resources: ''
     total-prize-offered-cash: '0'
     campaign-owner: ''
