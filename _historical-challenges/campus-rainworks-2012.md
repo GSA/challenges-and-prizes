@@ -38,7 +38,7 @@ show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
 non-monetary-incentives-awarded: 'Student team 1st prize (2): $2500; 2nd (2):
       $1500; Green Infrastructure research 1st prize (2): $11000; 2nd (2): $8000'
-partner-agencies-federal: '0'
+partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''
