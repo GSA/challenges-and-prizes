@@ -49,14 +49,14 @@ why-use-prizes: ''
 submission-start: 07/24/2018 09:00 AM
 fiscal-year: FY 2018
 public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '0'
-    campaign-owner: Jim Thompson
-    public-voting-start-date: ''
-    legal-authority: Other
-    total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '5985'
+budget-and-resources: ''
+total-prize-offered-cash: '0'
+campaign-owner: Jim Thompson
+public-voting-start-date: ''
+legal-authority: Other
+total-number-of-prizes-awarded: ''
+evaluation-of-submissions: ''
+agency-id: '5985'
     solicitation-of-submissions: ''
     total-submission-received: ''
     total-number-of-participant: ''

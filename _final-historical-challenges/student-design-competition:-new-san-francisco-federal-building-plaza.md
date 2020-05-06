@@ -39,14 +39,14 @@ why-use-prizes: ''
 submission-start: '08/28/2017 11:00 AM'
 fiscal-year: FY 2017
 public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '1750'
-    campaign-owner: David Leites
-    public-voting-start-date: ''
-    legal-authority: America COMPETES
-    total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '112'
+budget-and-resources: ''
+total-prize-offered-cash: '1750'
+campaign-owner: David Leites
+public-voting-start-date: ''
+legal-authority: America COMPETES
+total-number-of-prizes-awarded: ''
+evaluation-of-submissions: ''
+agency-id: '112'
     solicitation-of-submissions: ''
     total-submission-received: ''
     total-number-of-participant: ''

@@ -24,14 +24,14 @@ why-use-prizes: ''
 submission-start: 02/22/2017 12:00 AM
 fiscal-year: FY 2017
 public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '50000'
-    campaign-owner: Sean Kimbrel
-    public-voting-start-date: ''
-    legal-authority: America COMPETES
-    total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '2542'
+budget-and-resources: ''
+total-prize-offered-cash: '50000'
+campaign-owner: Sean Kimbrel
+public-voting-start-date: ''
+legal-authority: America COMPETES
+total-number-of-prizes-awarded: ''
+evaluation-of-submissions: ''
+agency-id: '2542'
     solicitation-of-submissions: ''
     total-submission-received: ''
     total-number-of-participant: ''

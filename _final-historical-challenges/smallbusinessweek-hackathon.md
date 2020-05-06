@@ -24,14 +24,14 @@ why-use-prizes: ''
 submission-start: 04/27/2018 06:00 PM
 fiscal-year: FY 2018
 public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '24000'
-    campaign-owner: Natale Goriel
-    public-voting-start-date: ''
-    legal-authority: America COMPETES
-    total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '122'
+budget-and-resources: ''
+total-prize-offered-cash: '24000'
+campaign-owner: Natale Goriel
+public-voting-start-date: ''
+legal-authority: America COMPETES
+total-number-of-prizes-awarded: ''
+evaluation-of-submissions: ''
+agency-id: '122'
     solicitation-of-submissions: ''
     total-submission-received: ''
     total-number-of-participant: ''

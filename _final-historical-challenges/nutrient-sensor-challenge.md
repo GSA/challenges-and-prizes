@@ -25,14 +25,14 @@ why-use-prizes: ''
 submission-start: 12/17/2014 12:00 PM
 fiscal-year: FY 2015
 public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '0'
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: Other
-    total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '222'
+budget-and-resources: ''
+total-prize-offered-cash: '0'
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: Other
+total-number-of-prizes-awarded: ''
+evaluation-of-submissions: ''
+agency-id: '222'
     solicitation-of-submissions: ''
     total-submission-received: ''
     total-number-of-participant: ''

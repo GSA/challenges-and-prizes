@@ -30,14 +30,14 @@ why-use-prizes: ''
 submission-start: '08/21/2017 12:00 PM'
 fiscal-year: FY 2017
 public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '100000'
-    campaign-owner: Terese Manley
-    public-voting-start-date: ''
-    legal-authority: America COMPETES
-    total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: 3522|4931
+budget-and-resources: ''
+total-prize-offered-cash: '100000'
+campaign-owner: Terese Manley
+public-voting-start-date: ''
+legal-authority: America COMPETES
+total-number-of-prizes-awarded: ''
+evaluation-of-submissions: ''
+agency-id: 3522|4931
     solicitation-of-submissions: ''
     total-submission-received: ''
     total-number-of-participant: ''

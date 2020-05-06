@@ -22,14 +22,14 @@ why-use-prizes: ''
 submission-start: '08/23/2017 09:00 PM'
 fiscal-year: FY 2017
 public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '26000'
-    campaign-owner: Gary Khalil
-    public-voting-start-date: ''
-    legal-authority: Other
-    total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '1552'
+budget-and-resources: ''
+total-prize-offered-cash: '26000'
+campaign-owner: Gary Khalil
+public-voting-start-date: ''
+legal-authority: Other
+total-number-of-prizes-awarded: ''
+evaluation-of-submissions: ''
+agency-id: '1552'
     solicitation-of-submissions: ''
     total-submission-received: ''
     total-number-of-participant: ''

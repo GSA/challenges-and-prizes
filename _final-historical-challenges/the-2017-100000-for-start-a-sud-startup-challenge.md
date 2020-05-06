@@ -29,14 +29,14 @@ why-use-prizes: ''
 submission-start: 06/09/2017 08:00 AM
 fiscal-year: FY 2017
 public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '100000'
-    campaign-owner: " Irina Sazonova, Ph.D."
-    public-voting-start-date: ''
-    legal-authority: America COMPETES
-    total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '3102'
+budget-and-resources: ''
+total-prize-offered-cash: '100000'
+campaign-owner: " Irina Sazonova, Ph.D."
+public-voting-start-date: ''
+legal-authority: America COMPETES
+total-number-of-prizes-awarded: ''
+evaluation-of-submissions: ''
+agency-id: '3102'
     solicitation-of-submissions: ''
     total-submission-received: ''
     total-number-of-participant: ''

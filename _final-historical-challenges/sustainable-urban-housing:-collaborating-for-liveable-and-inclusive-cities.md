@@ -24,14 +24,14 @@ why-use-prizes: ''
 submission-start: 11/05/2010 12:00 AM
 fiscal-year: FY 2011
 public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '31000'
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: Unspecified
-    total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '592'
+budget-and-resources: ''
+total-prize-offered-cash: '31000'
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: Unspecified
+total-number-of-prizes-awarded: ''
+evaluation-of-submissions: ''
+agency-id: '592'
     solicitation-of-submissions: ''
     total-submission-received: '300'
     total-number-of-participant: ''

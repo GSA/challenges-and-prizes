@@ -24,13 +24,13 @@ why-use-prizes: ''
 submission-start: 05/15/2019 12:30 PM
 fiscal-year: FY 2019, FY 2020
 public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: ''
-    public-voting-start-date: ''
-    legal-authority: Other
-    total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: ''
+budget-and-resources: ''
+total-prize-offered-cash: ''
+public-voting-start-date: ''
+legal-authority: Other
+total-number-of-prizes-awarded: ''
+evaluation-of-submissions: ''
+agency-id: ''
     solicitation-of-submissions: ''
     total-submission-received: ''
     total-number-of-participant: ''

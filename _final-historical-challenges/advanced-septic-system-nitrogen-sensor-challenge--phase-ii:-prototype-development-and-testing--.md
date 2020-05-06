@@ -22,14 +22,14 @@ why-use-prizes: ''
 submission-start: 12/18/2017 10:00 AM
 fiscal-year: FY 2018
 public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '0'
-    campaign-owner: Maggie Theroux
-    public-voting-start-date: ''
-    legal-authority: Other
-    total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '222'
+budget-and-resources: ''
+total-prize-offered-cash: '0'
+campaign-owner: Maggie Theroux
+public-voting-start-date: ''
+legal-authority: Other
+total-number-of-prizes-awarded: ''
+evaluation-of-submissions: ''
+agency-id: '222'
     solicitation-of-submissions: ''
     total-submission-received: ''
     total-number-of-participant: ''

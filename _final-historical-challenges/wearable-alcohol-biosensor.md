@@ -25,14 +25,14 @@ why-use-prizes: ''
 submission-start: 12/10/2016 12:00 AM
 fiscal-year: FY 2017
 public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '100000'
-    campaign-owner: Kathy Jung
-    public-voting-start-date: ''
-    legal-authority: America COMPETES
-    total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '3102'
+budget-and-resources: ''
+total-prize-offered-cash: '100000'
+campaign-owner: Kathy Jung
+public-voting-start-date: ''
+legal-authority: America COMPETES
+total-number-of-prizes-awarded: ''
+evaluation-of-submissions: ''
+agency-id: '3102'
     solicitation-of-submissions: ''
     total-submission-received: ''
     total-number-of-participant: ''

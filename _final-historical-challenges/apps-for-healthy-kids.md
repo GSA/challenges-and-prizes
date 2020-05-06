@@ -24,14 +24,14 @@ why-use-prizes: ''
 submission-start: 03/10/2010 10:00 AM
 fiscal-year: FY 2010
 public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '60000'
-    campaign-owner: ''
-    public-voting-start-date: ''
-    legal-authority: America COMPETES
-    total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '72'
+budget-and-resources: ''
+total-prize-offered-cash: '60000'
+campaign-owner: ''
+public-voting-start-date: ''
+legal-authority: America COMPETES
+total-number-of-prizes-awarded: ''
+evaluation-of-submissions: ''
+agency-id: '72'
     solicitation-of-submissions: ''
     total-submission-received: '94'
     total-number-of-participant: ''

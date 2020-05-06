@@ -56,14 +56,14 @@ why-use-prizes: ''
 submission-start: 05/04/2017 10:00 AM
 fiscal-year: FY 2017
 public-voting-end-date: 06/22/2017 02:00 PM
-    budget-and-resources: ''
-    total-prize-offered-cash: '0'
-    campaign-owner: Janis Johnston
-    public-voting-start-date: 06/16/2017 10:00 AM
-    legal-authority: America COMPETES
-    total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '3402'
+budget-and-resources: ''
+total-prize-offered-cash: '0'
+campaign-owner: Janis Johnston
+public-voting-start-date: 06/16/2017 10:00 AM
+legal-authority: America COMPETES
+total-number-of-prizes-awarded: ''
+evaluation-of-submissions: ''
+agency-id: '3402'
     solicitation-of-submissions: ''
     total-submission-received: ''
     total-number-of-participant: ''

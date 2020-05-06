@@ -94,14 +94,14 @@ why-use-prizes: ''
 submission-start: '09/15/2017 10:00 AM'
 fiscal-year: FY 2017
 public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '0'
-    campaign-owner: Scott Dockum
-    public-voting-start-date: ''
-    legal-authority: America COMPETES
-    total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '3272'
+budget-and-resources: ''
+total-prize-offered-cash: '0'
+campaign-owner: Scott Dockum
+public-voting-start-date: ''
+legal-authority: America COMPETES
+total-number-of-prizes-awarded: ''
+evaluation-of-submissions: ''
+agency-id: '3272'
     solicitation-of-submissions: ''
     total-submission-received: ''
     total-number-of-participant: ''

@@ -23,14 +23,14 @@ why-use-prizes: ''
 submission-start: 11/30/2011 06:00 PM
 fiscal-year: FY 2012
 public-voting-end-date: ''
-    budget-and-resources: ''
-    total-prize-offered-cash: '50000'
-    campaign-owner: NASA CoECI
-    public-voting-start-date: ''
-    legal-authority: America COMPETES
-    total-number-of-prizes-awarded: ''
-    evaluation-of-submissions: ''
-    agency-id: '3492'
+budget-and-resources: ''
+total-prize-offered-cash: '50000'
+campaign-owner: NASA CoECI
+public-voting-start-date: ''
+legal-authority: America COMPETES
+total-number-of-prizes-awarded: ''
+evaluation-of-submissions: ''
+agency-id: '3492'
     solicitation-of-submissions: ''
     total-submission-received: '27'
     total-number-of-participant: ''
