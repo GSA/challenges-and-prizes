@@ -31,15 +31,15 @@ legal-authority: Unspecified
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
 agency-id: '112'
-    solicitation-of-submissions: ''
-    total-submission-received: '29'
-    total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: Best overall infographic and best overall by
+solicitation-of-submissions: ''
+total-submission-received: '29'
+total-number-of-participant: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: Best overall infographic and best overall by
       a kid each awarded $2500; People's Choice (5), Public recognition
-    partner-agencies-federal: ''
-    judging-end-date: ''
+partner-agencies-federal: ''
+judging-end-date: ''
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''

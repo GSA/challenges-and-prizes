@@ -32,17 +32,17 @@ legal-authority: Unspecified
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
 agency-id: '132'
-    solicitation-of-submissions: ''
-    total-submission-received: Unknown
-    total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: 'Highest score: $1.3 million; 2nd: $80000; 3rd:
+solicitation-of-submissions: ''
+total-submission-received: Unknown
+total-number-of-participant: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: 'Highest score: $1.3 million; 2nd: $80000; 3rd:
       $60000; 4th: $40000; 5th: $20000. Bio-Fuel Prize: $150000--if no bio-fueled
       aircraft achieves ? 80 mph and ? 160 pMPG, or if no bio-fueled aircraft qualify,
       then the funds are distributed as follows: Highest'
-    partner-agencies-federal: ''
-    judging-end-date: ''
+partner-agencies-federal: ''
+judging-end-date: ''
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''

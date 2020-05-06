@@ -37,14 +37,14 @@ legal-authority: America COMPETES
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
 agency-id: '3102'
-    solicitation-of-submissions: ''
-    total-submission-received: ''
-    total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: ''
-    partner-agencies-federal: '0'
-    judging-end-date: 02/02/2018 05:00 PM
+solicitation-of-submissions: ''
+total-submission-received: ''
+total-number-of-participant: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: ''
+partner-agencies-federal: '0'
+judging-end-date: 02/02/2018 05:00 PM
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: "<strong><u>Submission Requirements.</u></strong>  Each submission for

@@ -31,17 +31,17 @@ legal-authority: Unspecified
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
 agency-id: '542'
-    solicitation-of-submissions: ''
-    total-submission-received: '66'
-    total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: 'Grand prize: $30000; 2nd: $20000; 3rd: $10000;
+solicitation-of-submissions: ''
+total-submission-received: '66'
+total-number-of-participant: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: 'Grand prize: $30000; 2nd: $20000; 3rd: $10000;
       Runners up (5): $1000 each; Best design and visualization: $10000; Most replicable
       app: $10000; Best use of SMS: $5000; Digital Proficiency: $5000; English Literacy:
       $5000'
-    partner-agencies-federal: ''
-    judging-end-date: ''
+partner-agencies-federal: ''
+judging-end-date: ''
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''

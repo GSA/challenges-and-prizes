@@ -31,15 +31,15 @@ legal-authority: Unspecified
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
 agency-id: '102'
-    solicitation-of-submissions: ''
-    total-submission-received: Unknown
-    total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: Winner receives $1000; Winners and runners up
+solicitation-of-submissions: ''
+total-submission-received: Unknown
+total-number-of-participant: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: Winner receives $1000; Winners and runners up
       have videos featu
-    partner-agencies-federal: ''
-    judging-end-date: ''
+partner-agencies-federal: ''
+judging-end-date: ''
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''

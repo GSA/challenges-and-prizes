@@ -31,17 +31,17 @@ legal-authority: Unspecified
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
 agency-id: '542'
-    solicitation-of-submissions: ''
-    total-submission-received: '139'
-    total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: "$10,000 Challenge Recipient (5): grant to support
+solicitation-of-submissions: ''
+total-submission-received: '139'
+total-number-of-participant: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: "$10,000 Challenge Recipient (5): grant to support
       expansion and growth of September 11 Day of Remembrance and Service Projects.
       $25,000 Challenge Recipient (4): grant to support expansion and growth of September
       11 Day of Remembrance and Service Projects."
-    partner-agencies-federal: ''
-    judging-end-date: ''
+partner-agencies-federal: ''
+judging-end-date: ''
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''

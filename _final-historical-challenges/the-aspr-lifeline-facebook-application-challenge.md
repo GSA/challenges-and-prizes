@@ -31,15 +31,15 @@ legal-authority: Unspecified
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
 agency-id: '102'
-    solicitation-of-submissions: ''
-    total-submission-received: Unknown
-    total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: '1st: $10,000, 2nd: $5,000, 3rd: $1,000; First
+solicitation-of-submissions: ''
+total-submission-received: Unknown
+total-number-of-participant: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: '1st: $10,000, 2nd: $5,000, 3rd: $1,000; First
       place: a chance to attend an event'
-    partner-agencies-federal: ''
-    judging-end-date: ''
+partner-agencies-federal: ''
+judging-end-date: ''
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''

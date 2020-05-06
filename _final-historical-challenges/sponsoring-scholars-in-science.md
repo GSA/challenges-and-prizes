@@ -31,16 +31,16 @@ legal-authority: Unspecified
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
 agency-id: '92'
-    solicitation-of-submissions: ''
-    total-submission-received: Unknown
-    total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: Winning proposals may earn up to $100000 in seed
+solicitation-of-submissions: ''
+total-submission-received: Unknown
+total-number-of-participant: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: Winning proposals may earn up to $100000 in seed
       funding for further development; Fall 2011--Funding is allocated and awarded
       based on final proposals
-    partner-agencies-federal: ''
-    judging-end-date: ''
+partner-agencies-federal: ''
+judging-end-date: ''
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''

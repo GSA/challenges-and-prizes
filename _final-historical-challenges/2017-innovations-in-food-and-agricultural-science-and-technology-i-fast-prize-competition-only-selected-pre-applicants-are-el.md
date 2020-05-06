@@ -102,14 +102,14 @@ legal-authority: America COMPETES
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
 agency-id: '3272'
-    solicitation-of-submissions: ''
-    total-submission-received: ''
-    total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: ''
-    partner-agencies-federal: '1'
-    judging-end-date: 10/11/2017 05:00 PM
+solicitation-of-submissions: ''
+total-submission-received: ''
+total-number-of-participant: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: ''
+partner-agencies-federal: '1'
+judging-end-date: 10/11/2017 05:00 PM
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: '<h4><a class="title local-link" title="Link to Innovations in Food and

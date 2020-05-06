@@ -31,17 +31,17 @@ legal-authority: Unspecified
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
 agency-id: '102'
-    solicitation-of-submissions: ''
-    total-submission-received: '514'
-    total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: The independent panel of judges will determine
+solicitation-of-submissions: ''
+total-submission-received: '514'
+total-number-of-participant: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: The independent panel of judges will determine
       awards of $10,000-$100,000 depending on each specific challenge. At least one
       seed award of $100,000 will be awarded in each of the sub-challenges for Breast
       Cancer Pathways and Molecular Similarities Between
-    partner-agencies-federal: ''
-    judging-end-date: ''
+partner-agencies-federal: ''
+judging-end-date: ''
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''

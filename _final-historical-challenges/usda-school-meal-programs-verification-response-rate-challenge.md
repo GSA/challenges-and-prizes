@@ -64,14 +64,14 @@ legal-authority: America COMPETES
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
 agency-id: '3402'
-    solicitation-of-submissions: ''
-    total-submission-received: ''
-    total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: ''
-    partner-agencies-federal: '0'
-    judging-end-date: 06/26/2017 05:00 PM
+solicitation-of-submissions: ''
+total-submission-received: ''
+total-number-of-participant: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: ''
+partner-agencies-federal: '0'
+judging-end-date: 06/26/2017 05:00 PM
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: '<span style="color: #cc0800;"><strong> Definitions</strong></span>  <ul>    <li><strong>The

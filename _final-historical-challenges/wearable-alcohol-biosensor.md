@@ -33,14 +33,14 @@ legal-authority: America COMPETES
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
 agency-id: '3102'
-    solicitation-of-submissions: ''
-    total-submission-received: ''
-    total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: ''
-    partner-agencies-federal: '0'
-    judging-end-date: 07/26/2017 12:00 AM
+solicitation-of-submissions: ''
+total-submission-received: ''
+total-number-of-participant: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: ''
+partner-agencies-federal: '0'
+judging-end-date: 07/26/2017 12:00 AM
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: 'A complete listing of the Eligibility Rules can be found in the <a href="https://www.federalregister.gov/documents/2016/12/09/2016-29436/announcement-of-requirements-and-registration-for-a-wearable-alcohol-biosensor-a-second-challenge"

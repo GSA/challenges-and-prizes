@@ -31,15 +31,15 @@ legal-authority: Unspecified
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
 agency-id: '212'
-    solicitation-of-submissions: ''
-    total-submission-received: '18'
-    total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: 2 Grand prize winners receive $2000 each; People's
+solicitation-of-submissions: ''
+total-submission-received: '18'
+total-number-of-participant: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: 2 Grand prize winners receive $2000 each; People's
       Choice recognition featured on
-    partner-agencies-federal: ''
-    judging-end-date: ''
+partner-agencies-federal: ''
+judging-end-date: ''
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''

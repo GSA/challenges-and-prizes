@@ -31,15 +31,15 @@ legal-authority: Unspecified
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
 agency-id: '432'
-    solicitation-of-submissions: ''
-    total-submission-received: '444'
-    total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: Grand Prize (1), $500, Public recognition; Finalists
+solicitation-of-submissions: ''
+total-submission-received: '444'
+total-number-of-participant: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: Grand Prize (1), $500, Public recognition; Finalists
       (9), $250 each
-    partner-agencies-federal: '0'
-    judging-end-date: ''
+partner-agencies-federal: '0'
+judging-end-date: ''
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''

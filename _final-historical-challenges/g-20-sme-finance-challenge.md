@@ -32,16 +32,16 @@ legal-authority: Unspecified
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
 agency-id: '162'
-    solicitation-of-submissions: ''
-    total-submission-received: '34'
-    total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: "$1000 as Early Entry Prize submitted by August
+solicitation-of-submissions: ''
+total-submission-received: '34'
+total-number-of-participant: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: "$1000 as Early Entry Prize submitted by August
       6, 2010, judges select other winners as well as a People's choice winner; Conference
       invitation"
-    partner-agencies-federal: ''
-    judging-end-date: ''
+partner-agencies-federal: ''
+judging-end-date: ''
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''

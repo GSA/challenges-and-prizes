@@ -32,15 +32,15 @@ legal-authority: Unspecified
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
 agency-id: '102'
-    solicitation-of-submissions: ''
-    total-submission-received: '9'
-    total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: "$3000 to winner; Wide reaching exposure and
+solicitation-of-submissions: ''
+total-submission-received: '9'
+total-number-of-participant: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: "$3000 to winner; Wide reaching exposure and
       national dist; all expense paid trip to Meeting (altern"
-    partner-agencies-federal: ''
-    judging-end-date: ''
+partner-agencies-federal: ''
+judging-end-date: ''
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''

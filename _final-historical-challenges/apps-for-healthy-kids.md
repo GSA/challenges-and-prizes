@@ -32,19 +32,19 @@ legal-authority: America COMPETES
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
 agency-id: '72'
-    solicitation-of-submissions: ''
-    total-submission-received: '94'
-    total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: '1st - Tool (1): $10,000; 2nd - Tool (1): $4,500;
+solicitation-of-submissions: ''
+total-submission-received: '94'
+total-number-of-participant: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: '1st - Tool (1): $10,000; 2nd - Tool (1): $4,500;
       Honorable Mention - Tool (1): $1,000; GE Healthymagination Student - Tool (1):
       $10,000; Corporate Recognition - Tool (1): Public recognition; Popular Choice
       - Tool (1): $4,500; 1st - Game (1): $10,000; 2nd - Game (1): $4,500; Honorable
       Mention - Game (1): $1,000; GE Healthymagination - Game (1): $10,000; Popular
       Choice - Game (1): $4,500; Public recognition'
-    partner-agencies-federal: '0'
-    judging-end-date: ''
+partner-agencies-federal: '0'
+judging-end-date: ''
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''

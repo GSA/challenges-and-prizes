@@ -32,15 +32,15 @@ legal-authority: Unspecified
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
 agency-id: '172'
-    solicitation-of-submissions: ''
-    total-submission-received: '350'
-    total-number-of-participant: ''
-    show-winners-instead-of-prizes: 'No'
-    estimated-value-of-partner-contributions: ''
-    non-monetary-incentives-awarded: Winning and finalist photographs display; 1st,
+solicitation-of-submissions: ''
+total-submission-received: '350'
+total-number-of-participant: ''
+show-winners-instead-of-prizes: 'No'
+estimated-value-of-partner-contributions: ''
+non-monetary-incentives-awarded: Winning and finalist photographs display; 1st,
       2nd, and third place winners will h; 1st will receive certificate from Sec of
-    partner-agencies-federal: ''
-    judging-end-date: ''
+partner-agencies-federal: ''
+judging-end-date: ''
     solicitation-methods: ''
     advancing-the-agency-mission: ''
     rules: ''
