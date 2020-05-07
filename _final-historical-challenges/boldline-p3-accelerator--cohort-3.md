@@ -38,9 +38,9 @@ estimated-value-of-partner-contributions: ''
 non-monetary-incentives-awarded: ''
 partner-agencies-federal: ''
 judging-end-date: ''
-    solicitation-methods: ''
-    advancing-the-agency-mission: ''
-    rules: "<p>Proposals should outline a partnership idea that clearly illustrates
+solicitation-methods: ''
+advancing-the-agency-mission: ''
+rules: "<p>Proposals should outline a partnership idea that clearly illustrates
       the problem statement, potential partners, activities, and objectives.&nbsp;
       Please note that proposals should focus on the global dimension of the problem;
       solely domestic proposals will not be considered.&nbsp; Applicants may be requested
@@ -70,9 +70,9 @@ judging-end-date: ''
       and click the red Submit button on the top right of the page. Proposals also
       are being accepted via email at:&nbsp;<a href=\"mailto:partnerships@state.gov\">partnerships@state.gov</a></p>\r\n<h4>Questions?</h4>\r\n<p>Please
       send questions to:&nbsp;<a href=\"mailto:partnerships@state.gov\">partnerships@state.gov</a></p>"
-    judging-start-date: ''
-    winners-announced-date: ''
-    cash-prizes-and-non-cash-prize-awards: ''
+judging-start-date: ''
+winners-announced-date: ''
+cash-prizes-and-non-cash-prize-awards: ''
     solution-type: Ideas
     partner-agencies-non-federal: ''
     original-post-id: ''

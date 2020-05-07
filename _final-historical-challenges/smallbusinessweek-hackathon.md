@@ -40,9 +40,9 @@ estimated-value-of-partner-contributions: ''
 non-monetary-incentives-awarded: ''
 partner-agencies-federal: '0'
 judging-end-date: ''
-    solicitation-methods: ''
-    advancing-the-agency-mission: ''
-    rules: 'The U.S. Small Business Administration and the Visa will conduct a National
+solicitation-methods: ''
+advancing-the-agency-mission: ''
+rules: 'The U.S. Small Business Administration and the Visa will conduct a National
       Small Business Week Hackathon Challenge (as further described herein, the “Challenge”).
       Each individual who registers for and participates in the National Small Business
       Week Hackathon is eligible to participate in the Challenge.    The National
@@ -361,12 +361,12 @@ judging-end-date: ''
       commercial information contained in their entries at the time of their submission.
       SBA will notify contestants of any Freedom of Information Act requests the Agency
       receives related to their submissions in accordance with 13 CFR part 102.</li>  </ol>'
-    submission-start-date-1: ''
-    hide-challenge-timeline: 'No'
-    judging-start-date: ''
-    winners-announced-date: 04/29/2018 01:00 PM
-    cash-prizes-and-non-cash-prize-awards: ''
-    campaign-owner-email: natale.goriel@sba.gov
+submission-start-date-1: ''
+hide-challenge-timeline: 'No'
+judging-start-date: ''
+winners-announced-date: 04/29/2018 01:00 PM
+cash-prizes-and-non-cash-prize-awards: ''
+campaign-owner-email: natale.goriel@sba.gov
     solution-type: Software and apps
     partner-agencies-non-federal: Visa
     original-post-id: '175495'
