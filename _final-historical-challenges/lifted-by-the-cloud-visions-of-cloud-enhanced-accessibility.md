@@ -1,70 +1,63 @@
 ---
-ideaSubmitFormInstruction: <strong>All official entries must be submitted via the
-  <a href="https://www.innocentive.com/ar/challenge/browse?pavilionName=Water&amp;pavilionId=28&amp;source=pavilion">InnoCentive
-  website</a> open on the date of launch.</strong>
-startDate: '2018-11-26T07:08:54'
+ideaSubmitFormInstruction: ''
+startDate: '2010-10-22T00:00:00'
 votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 880
+id: 131
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: Can you tell us how much water is stored behind dams?
-groupName: Department of the Interior - Bureau of Reclamation
+tagline: The FCC challenged the public to share visions of how cloud computing can
+  create new opportunities for people with disabilities.
+groupName: Department of Veterans Affairs
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
 attributes:
 total-prize-awarded-cash: ''
-external-url: https://www.innocentive.com/ar/challenge/9933766?cc=BORgov3766
-submission-end: 05/22/2017 12:00 AM
+external-url: http://liftedbythecloud.challengepost.com/submissions
+submission-end: 05/16/2011 07:59 AM
 why-use-prizes: ''
-submission-start: 02/22/2017 12:00 AM
-fiscal-year: FY 2017
+submission-start: 10/22/2010 08:00 AM
+fiscal-year: FY 2011
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '50000'
-campaign-owner: Sean Kimbrel
+total-prize-offered-cash: '0'
+campaign-owner: ''
 public-voting-start-date: ''
-legal-authority: America COMPETES
+legal-authority: Unspecified
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
-agency-id: '2542'
+agency-id: '602'
 solicitation-of-submissions: ''
-total-submission-received: ''
+total-submission-received: '12'
 total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
-non-monetary-incentives-awarded: ''
-partner-agencies-federal: '1'
+non-monetary-incentives-awarded: Public recognition
+partner-agencies-federal: ''
 judging-end-date: ''
     solicitation-methods: ''
     advancing-the-agency-mission: ''
-    rules: '<strong>All official entries must be submitted via the <span style="color:
-      #0000ff;"><a style="color: #0000ff;" href="https://www.innocentive.com/ar/challenge/9933766?cc=BORgov3766&amp;utm_source=ChallengeGov&amp;utm_campaign=9933766&amp;utm_medium=landing+page"
-      target="_blank" rel="noopener noreferrer">InnoCentive website</a></span> open
-      on the date of launch. Review these <span style="color: #0000ff;"><a style="color:
-      #0000ff;" href="https://www.usbr.gov/research/challenges/SolverFAQ.html" target="&quot;_blank">Solver
-      FAQ</a></span> for more information.</strong>'
+    rules: ''
     submission-start-date-1: ''
     hide-challenge-timeline: 'No'
     judging-start-date: ''
     winners-announced-date: ''
     cash-prizes-and-non-cash-prize-awards: ''
-    campaign-owner-email: skimbrel@usbr.gov
-    solution-type: Ideas
+    campaign-owner-email: ''
+    solution-type: Creative (design & multimedia)
     partner-agencies-non-federal: ''
-    original-post-id: '159999'
+    original-post-id: '49732'
     total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)
     hide-challenge-funnel: 'Yes'
-    type-of-challenge: Scientific
+    type-of-challenge: Ideas
     participation-requirements: ''
     number-of-phases: ''
-    how-to-enter: <strong>All official entries must be submitted via the <a href="https://www.innocentive.com/ar/challenge/browse?pavilionName=Water&amp;pavilionId=28&amp;source=pavilion">InnoCentive
-      website</a> open on the date of launch.</strong>
+    how-to-enter: ''
     partnerships: ''
   groupAttributes:
   - judging-criteria-description-0: ''
@@ -128,7 +121,7 @@ judging-end-date: ''
     judging-criteria-percentage-9: ''
     judging-criteria-9: ''
   - prize-description-0: ''
-    prize-cash-amount-0: '50000'
+    prize-cash-amount-0: '0'
     prize-name-0: ''
   - prize-description-1: ''
     prize-cash-amount-1: ''
@@ -226,30 +219,7 @@ judging-end-date: ''
     winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: '<strong>All official entries must be submitted via the <span style="color:
-  #0000ff;"><a style="color: #0000ff;" href="https://www.innocentive.com/ar/challenge/9933766?cc=BORgov3766&amp;utm_source=ChallengeGov&amp;utm_campaign=9933766&amp;utm_medium=landing+page"
-  target="_blank" rel="noopener noreferrer">InnoCentive website</a></span> open on
-  the date of launch. Review these <span style="color: #0000ff;"><a style="color:
-  #0000ff;" href="https://www.usbr.gov/research/challenges/SolverFAQ.html" target="&quot;_blank">Solver
-  FAQ</a></span> for more information.</strong>    Water storage in reservoirs behind
-  dams is a vital component for water management, and the amount available defines
-  the delivery of benefits from reservoirs. Available water storage, over time, decreases
-  as sediment deposition occurs, thus decreasing the capacity for storage.  This sediment
-  deposition, known as sedimentation, also adversely affects reservoir infrastructure
-  operation and maintenance such as outlet works and water intakes. Assessing the
-  loss of storage capacity currently is an expensive and time consuming process performed
-  directly by in-field surveys.    The Bureau of Reclamation, in collaboration with
-  the U.S. Army Corps of Engineers, is seeking a cost effective method to indirectly
-  estimate the storage capacity and/or sediment volume (storage loss) in reservoirs.    <iframe
-  src="https://www.youtube.com/embed/LEWlEulKt-g" width="400" height="300" frameborder="0"
-  allowfullscreen="allowfullscreen"></iframe>    <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/02/waterstorage.png"><img
-  class="alignnone wp-image-160001 size-medium" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/02/waterstorage-230x300.png"
-  alt="Poster image for Reclamation''s Water Storage prize competition." width="230"
-  height="300" /></a>    More info:  <ul>    <li><a href="https://www.usbr.gov/research/challenges/docs/Sediment_Briefing_Paper_20Sep2016_REVISED.pdf"
-  target="_blank" rel="noopener noreferrer">Download Briefing Paper</a></li>    <li><a
-  href="https://www.usbr.gov/research/challenges/images/SedimentPoster.PNG" target="_blank&quot;">Download
-  Poster</a></li>    <li>Visit Reclamation''s <a href="https://www.usbr.gov/research/challenges/waterstorage.html"
-  target="_blank&quot;">Estimating Water Storage</a> webpage</li>  </ul>'
+description: ''
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
@@ -261,13 +231,13 @@ hideCommentAuthor: false
 authorizedGroupIds: []
 userSubscriptionAllowed: false
 bannerImage: ''
-groupId: 109
+groupId: 292
 showTagline: true
-name: Estimating Reservoir Water Storage
+name: 'Lifted by the Cloud: Visions of Cloud-Enhanced Accessibility'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/estimating-reservoir-water-storage/"
+permalink: "/challenge/lifted-by-the-cloud-visions-of-cloud-enhanced-accessibility/"
 layout: json-page
 ---
