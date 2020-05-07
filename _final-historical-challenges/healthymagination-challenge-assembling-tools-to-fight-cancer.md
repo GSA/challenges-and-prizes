@@ -1,30 +1,30 @@
 ---
 ideaSubmitFormInstruction: ''
-startDate: '2011-02-22T00:00:00'
+startDate: '2011-09-15T00:00:00'
 votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 154
+id: 214
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: The National Library of Medicine challenged the public to create videos highlighting
-  uses of NLM products and services.
-groupName: Department of Health and Human Services - National Institutes of Health
+tagline: An open call to action for businesses, entrepreneurs, innovators, and students
+  with breakthrough ideas for the detection and treatment of breast cancer.
+groupName: Department of Health and Human Services
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
 attributes:
 total-prize-awarded-cash: ''
-external-url: http://www.nlm.nih.gov/news/video_winners.html
-submission-end: 04/01/2011 03:59 AM
+external-url: http://www.healthymagination.com
+submission-end: 11/20/2011 05:00 AM
 why-use-prizes: ''
-submission-start: 02/22/2011 05:00 AM
+submission-start: '09/15/2011 04:00 AM'
 fiscal-year: FY 2011
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '1000'
+total-prize-offered-cash: '500000'
 campaign-owner: ''
 public-voting-start-date: ''
 legal-authority: Unspecified
@@ -32,12 +32,14 @@ total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
 agency-id: '102'
 solicitation-of-submissions: ''
-total-submission-received: Unknown
+total-submission-received: '514'
 total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
-non-monetary-incentives-awarded: Winner receives $1000; Winners and runners up
-      have videos featu
+non-monetary-incentives-awarded: The independent panel of judges will determine
+      awards of $10,000-$100,000 depending on each specific challenge. At least one
+      seed award of $100,000 will be awarded in each of the sub-challenges for Breast
+      Cancer Pathways and Molecular Similarities Between
 partner-agencies-federal: ''
 judging-end-date: ''
     solicitation-methods: ''
@@ -49,13 +51,13 @@ judging-end-date: ''
     winners-announced-date: ''
     cash-prizes-and-non-cash-prize-awards: ''
     campaign-owner-email: ''
-    solution-type: Creative (design & multimedia)
+    solution-type: Technology demonstration and hardware
     partner-agencies-non-federal: ''
-    original-post-id: '50422'
+    original-post-id: '52222'
     total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)
     hide-challenge-funnel: 'Yes'
-    type-of-challenge: Creative (design & multimedia)
+    type-of-challenge: Scientific
     participation-requirements: ''
     number-of-phases: ''
     how-to-enter: ''
@@ -122,7 +124,7 @@ judging-end-date: ''
     judging-criteria-percentage-9: ''
     judging-criteria-9: ''
   - prize-description-0: ''
-    prize-cash-amount-0: '1000'
+    prize-cash-amount-0: '500000'
     prize-name-0: ''
   - prize-description-1: ''
     prize-cash-amount-1: ''
@@ -232,13 +234,13 @@ hideCommentAuthor: false
 authorizedGroupIds: []
 userSubscriptionAllowed: false
 bannerImage: ''
-groupId: 165
+groupId: 23
 showTagline: true
-name: 'NLM & You: The Video Contest'
+name: 'Healthymagination Challenge - Assembling Tools to Fight Cancer'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/nlm--you:-the-video-contest/"
+permalink: "/challenge/healthymagination-challenge-assembling-tools-to-fight-cancer/"
 layout: json-page
 ---

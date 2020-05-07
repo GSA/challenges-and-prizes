@@ -1,30 +1,30 @@
 ---
 ideaSubmitFormInstruction: ''
-startDate: '2011-04-12T00:00:00'
+startDate: '2011-02-22T00:00:00'
 votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 159
+id: 154
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: NLM is challenging people to create innovative software applications that
-  use the Librarys vast collection of biomedical data.
+tagline: The National Library of Medicine challenged the public to create videos highlighting
+  uses of NLM products and services.
 groupName: Department of Health and Human Services - National Institutes of Health
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
 attributes:
 total-prize-awarded-cash: ''
-external-url: http://www.nih.gov/news/health/oct2011/nlm-27.htm
-submission-end: '09/01/2011 03:59 AM'
+external-url: http://www.nlm.nih.gov/news/video_winners.html
+submission-end: 04/01/2011 03:59 AM
 why-use-prizes: ''
-submission-start: 04/12/2011 04:00 AM
+submission-start: 02/22/2011 05:00 AM
 fiscal-year: FY 2011
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '0'
+total-prize-offered-cash: '1000'
 campaign-owner: ''
 public-voting-start-date: ''
 legal-authority: Unspecified
@@ -32,11 +32,12 @@ total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
 agency-id: '102'
 solicitation-of-submissions: ''
-total-submission-received: '35'
+total-submission-received: Unknown
 total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
-non-monetary-incentives-awarded: 5 winners have the opportunity to attend
+non-monetary-incentives-awarded: Winner receives $1000; Winners and runners up
+      have videos featu
 partner-agencies-federal: ''
 judging-end-date: ''
     solicitation-methods: ''
@@ -48,13 +49,13 @@ judging-end-date: ''
     winners-announced-date: ''
     cash-prizes-and-non-cash-prize-awards: ''
     campaign-owner-email: ''
-    solution-type: Software and apps
+    solution-type: Creative (design & multimedia)
     partner-agencies-non-federal: ''
-    original-post-id: '50562'
+    original-post-id: '50422'
     total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)
     hide-challenge-funnel: 'Yes'
-    type-of-challenge: Software and apps
+    type-of-challenge: Creative (design & multimedia)
     participation-requirements: ''
     number-of-phases: ''
     how-to-enter: ''
@@ -121,7 +122,7 @@ judging-end-date: ''
     judging-criteria-percentage-9: ''
     judging-criteria-9: ''
   - prize-description-0: ''
-    prize-cash-amount-0: '0'
+    prize-cash-amount-0: '1000'
     prize-name-0: ''
   - prize-description-1: ''
     prize-cash-amount-1: ''
@@ -233,11 +234,11 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 165
 showTagline: true
-name: 'NLM Show Off Your Apps: Innovative Uses of NLM Information'
+name: 'NLM & You: The Video Contest'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/nlm-show-off-your-apps:-innovative-uses-of-nlm-information/"
+permalink: "/challenge/nlm--you-the-video-contest/"
 layout: json-page
 ---

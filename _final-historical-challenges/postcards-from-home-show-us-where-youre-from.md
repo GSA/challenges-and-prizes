@@ -236,11 +236,11 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 290
 showTagline: true
-name: 'Postcards from Home: Show Us Where You''re From'
+name: 'Postcards from Home - Show Us Where You''re From'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/postcards-from-home:-show-us-where-youre-from/"
+permalink: "/challenge/postcards-from-home-show-us-where-youre-from/"
 layout: json-page
 ---

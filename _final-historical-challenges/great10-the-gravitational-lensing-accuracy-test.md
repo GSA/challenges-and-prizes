@@ -1,45 +1,42 @@
 ---
 ideaSubmitFormInstruction: ''
-startDate: '2011-09-15T00:00:00'
+startDate: '2011-04-30T00:00:00'
 votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 214
+id: 173
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: An open call to action for businesses, entrepreneurs, innovators, and students
-  with breakthrough ideas for the detection and treatment of breast cancer.
-groupName: Department of Health and Human Services
+tagline: Help us measure the shapes of distant galaxies to determine the content of
+  the Universe
+groupName: National Aeronautics and Space Administration
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
 attributes:
 total-prize-awarded-cash: ''
-external-url: http://www.healthymagination.com
-submission-end: 11/20/2011 05:00 AM
+external-url: http://great10challenge.info/
+submission-end: '09/03/2011 03:59 AM'
 why-use-prizes: ''
-submission-start: '09/15/2011 04:00 AM'
+submission-start: 04/30/2011 04:00 AM
 fiscal-year: FY 2011
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '500000'
+total-prize-offered-cash: '400'
 campaign-owner: ''
 public-voting-start-date: ''
 legal-authority: Unspecified
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
-agency-id: '102'
+agency-id: '132'
 solicitation-of-submissions: ''
-total-submission-received: '514'
+total-submission-received: '95'
 total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
-non-monetary-incentives-awarded: The independent panel of judges will determine
-      awards of $10,000-$100,000 depending on each specific challenge. At least one
-      seed award of $100,000 will be awarded in each of the sub-challenges for Breast
-      Cancer Pathways and Molecular Similarities Between
+non-monetary-incentives-awarded: None
 partner-agencies-federal: ''
 judging-end-date: ''
     solicitation-methods: ''
@@ -53,11 +50,11 @@ judging-end-date: ''
     campaign-owner-email: ''
     solution-type: Technology demonstration and hardware
     partner-agencies-non-federal: ''
-    original-post-id: '52222'
+    original-post-id: '50972'
     total-number-of-winners-awarded: ''
     hosting: Externally (Challenge details will redirect to external url)
     hide-challenge-funnel: 'Yes'
-    type-of-challenge: Scientific
+    type-of-challenge: Software and apps
     participation-requirements: ''
     number-of-phases: ''
     how-to-enter: ''
@@ -124,7 +121,7 @@ judging-end-date: ''
     judging-criteria-percentage-9: ''
     judging-criteria-9: ''
   - prize-description-0: ''
-    prize-cash-amount-0: '500000'
+    prize-cash-amount-0: '400'
     prize-name-0: ''
   - prize-description-1: ''
     prize-cash-amount-1: ''
@@ -234,13 +231,13 @@ hideCommentAuthor: false
 authorizedGroupIds: []
 userSubscriptionAllowed: false
 bannerImage: ''
-groupId: 23
+groupId: 281
 showTagline: true
-name: 'Healthymagination Challenge: Assembling Tools to Fight Cancer'
+name: 'GREAT10 - The GRavitational lEnsing Accuracy Test'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/healthymagination-challenge:-assembling-tools-to-fight-cancer/"
+permalink: "/challenge/great10-the-gravitational-lensing-accuracy-test/"
 layout: json-page
 ---

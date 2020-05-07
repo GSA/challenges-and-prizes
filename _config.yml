@@ -71,6 +71,8 @@ primary_navigation:
         url: /archive/2013/
       - name: 2012
         url: /archive/2012/
+      - name: 2011
+        url: /archive/2011/
 
 
 secondary_navigation:
