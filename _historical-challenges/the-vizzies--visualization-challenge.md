@@ -21,7 +21,7 @@ external-url: http://www.nsf.gov/Vizzies
 submission-end: 04/15/2018 11:59 PM
 why-use-prizes: ''
 submission-start: 01/16/2018 12:00 AM
-fiscal-year: FY 2018
+fiscal-year: FY18
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$2,500'

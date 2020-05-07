@@ -33,7 +33,7 @@ external-url: https://community.topcoder.com/longcontest/?module=ViewProblemStat
 submission-end: '09/19/2016 09:00 PM'
 why-use-prizes: ''
 submission-start: '09/05/2016 09:00 PM'
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$23,000'

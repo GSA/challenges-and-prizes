@@ -20,7 +20,7 @@ external-url: http://thebeautyofhealthdata.org/
 submission-end: 03/15/2014 12:00 AM
 why-use-prizes: ''
 submission-start: 01/05/2014 12:00 AM
-fiscal-year: FY 2014
+fiscal-year: FY14
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$5,000'

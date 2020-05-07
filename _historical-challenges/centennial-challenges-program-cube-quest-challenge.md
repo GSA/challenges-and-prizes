@@ -24,7 +24,7 @@ external-url: http://www.nasa.gov/cubequest
 submission-end: 12/31/2018 12:00 AM
 why-use-prizes: ''
 submission-start: 12/01/2014 12:00 AM
-fiscal-year: FY 2019
+fiscal-year: FY19
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$5,000,000'

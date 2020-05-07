@@ -22,7 +22,7 @@ external-url: https://www.omnicompete.com/crisisandconflictedtech.html
 submission-end: 03/30/2015 11:59 PM
 why-use-prizes: ''
 submission-start: 01/28/2015 12:00 AM
-fiscal-year: FY 2015
+fiscal-year: FY15
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$50,000'

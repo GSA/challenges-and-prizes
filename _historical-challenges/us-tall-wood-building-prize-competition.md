@@ -22,7 +22,7 @@ external-url: https://tallwoodbuildingcompetition.org/
 submission-end: 12/09/2014 12:00 AM
 why-use-prizes: ''
 submission-start: 10/09/2014 12:00 AM
-fiscal-year: FY 2015
+fiscal-year: FY15
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

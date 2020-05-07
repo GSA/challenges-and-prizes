@@ -23,7 +23,7 @@ external-url: ''
 submission-end: 05/30/2014 01:59 PM
 why-use-prizes: ''
 submission-start: 05/13/2014 12:00 AM
-fiscal-year: FY 2014
+fiscal-year: FY14
 public-voting-end-date: 06/06/2014 01:59 PM
 budget-and-resources: ''
 total-prize-offered-cash: ''

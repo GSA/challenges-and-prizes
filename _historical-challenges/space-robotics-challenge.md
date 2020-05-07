@@ -20,7 +20,7 @@ external-url: http://www.spaceroboticschallenge.com
 submission-end: 10/07/2016 12:00 AM
 why-use-prizes: ''
 submission-start: '08/16/2020 04:00 PM'
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$1,000,000'

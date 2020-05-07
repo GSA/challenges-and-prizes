@@ -21,7 +21,7 @@ external-url: http://wp.wpi.edu/challenge/
 submission-end: 01/07/2016 12:00 AM
 why-use-prizes: ''
 submission-start: 10/26/2015 12:00 AM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$1,500,000'

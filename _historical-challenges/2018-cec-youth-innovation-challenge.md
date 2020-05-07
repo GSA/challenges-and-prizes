@@ -21,7 +21,7 @@ external-url: https://cec.ideascale.com/a/home
 submission-end: 04/03/2018 12:00 AM
 why-use-prizes: ''
 submission-start: 01/15/2018 12:00 AM
-fiscal-year: FY 2018
+fiscal-year: FY18
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

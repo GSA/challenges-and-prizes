@@ -20,7 +20,7 @@ external-url: http://www.reachhigherchallenge.com
 submission-end: 12/07/2015 11:59 PM
 why-use-prizes: ''
 submission-start: 10/07/2015 12:00 AM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$225,000'

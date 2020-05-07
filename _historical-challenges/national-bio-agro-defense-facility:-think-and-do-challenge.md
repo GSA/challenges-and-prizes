@@ -20,7 +20,7 @@ external-url: https://www.innocentive.com/ar/challenge/9933727
 submission-end: 11/30/2015 11:59 PM
 why-use-prizes: ''
 submission-start: ''
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$100,000'

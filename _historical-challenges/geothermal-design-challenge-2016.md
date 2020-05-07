@@ -20,7 +20,7 @@ external-url: https://caesenergy.org/geothermaldesign/
 submission-end: 07/15/2016 12:00 AM
 why-use-prizes: ''
 submission-start: 12/01/2015 12:00 AM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$7,500'

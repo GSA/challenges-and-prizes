@@ -22,7 +22,7 @@ external-url: https://ninesights.ninesigma.com/web/nasa-eva-test
 submission-end: 12/03/2015 12:00 AM
 why-use-prizes: ''
 submission-start: 10/05/2015 12:00 AM
-fiscal-year: FY 2015
+fiscal-year: FY15
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$15,000'

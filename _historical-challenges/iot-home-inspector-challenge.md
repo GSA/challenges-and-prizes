@@ -20,7 +20,7 @@ external-url: https://www.ftc.gov/iot-home-inspector-challenge
 submission-end: 05/22/2017 12:00 PM
 why-use-prizes: ''
 submission-start: 03/01/2017 12:00 PM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$28,000'

@@ -22,7 +22,7 @@ external-url: http://www.huduser.org/portal/challenge/home.html
 submission-end: 12/18/2014 11:59 PM
 why-use-prizes: ''
 submission-start: 11/12/2014 12:00 AM
-fiscal-year: FY 2015
+fiscal-year: FY15
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$30,000'

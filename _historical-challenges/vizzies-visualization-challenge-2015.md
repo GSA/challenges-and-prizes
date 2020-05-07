@@ -21,7 +21,7 @@ external-url: 'http://www.nsf.gov/Vizzies'
 submission-end: '09/15/2015 12:00 AM'
 why-use-prizes: ''
 submission-start: 06/15/2015 12:00 AM
-fiscal-year: FY 2015
+fiscal-year: FY15
 public-voting-end-date: 11/13/2015 12:00 AM
 budget-and-resources: ''
 total-prize-offered-cash: '$3,000'

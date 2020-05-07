@@ -20,7 +20,7 @@ external-url: http://tibbetts2013.challengepost.com/submissions
 submission-end: 02/08/2013 01:00 AM
 why-use-prizes: ''
 submission-start: 12/17/2012 09:00 AM
-fiscal-year: FY 2013
+fiscal-year: FY13
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

@@ -22,7 +22,7 @@ external-url: http://www.whitehouse.gov/blog/2013/04/23/white-house-announces-gi
 submission-end: 01/19/2013 10:00 AM
 why-use-prizes: ''
 submission-start: '09/25/2012 08:00 AM'
-fiscal-year: FY 2012
+fiscal-year: FY12
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

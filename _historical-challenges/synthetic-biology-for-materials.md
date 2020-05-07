@@ -22,7 +22,7 @@ external-url: https://www.innocentive.com/ar/challenge/9933056
 submission-end: 10/17/2014 04:00 AM
 why-use-prizes: ''
 submission-start: '09/02/2014 04:00 AM'
-fiscal-year: FY 2014
+fiscal-year: FY14
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$50,000'

@@ -20,7 +20,7 @@ external-url: https://www.drugabuse.gov/research/nida-research-programs-activiti
 submission-end: 05/10/2019 06:00 PM
 why-use-prizes: ''
 submission-start: 04/01/2019 09:00 AM
-fiscal-year: FY 2019
+fiscal-year: FY19
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

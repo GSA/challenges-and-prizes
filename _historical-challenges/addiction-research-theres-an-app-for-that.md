@@ -21,7 +21,7 @@ external-url: http://nida.ideascale.com/
 submission-end: 04/29/2016 11:59 PM
 why-use-prizes: ''
 submission-start: 11/03/2015 10:00 AM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$100,000'

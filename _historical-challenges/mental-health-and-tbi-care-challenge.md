@@ -21,7 +21,7 @@ external-url: http://dcoe.ideascale.com/
 submission-end: 06/05/2015 12:00 AM
 why-use-prizes: ''
 submission-start: 05/04/2015 12:00 AM
-fiscal-year: FY 2015
+fiscal-year: FY15
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

@@ -21,7 +21,7 @@ external-url: https://www.freelancer.com/contest/NASA-System-Architecture-Regist
 submission-end: 02/05/2016 12:00 AM
 why-use-prizes: ''
 submission-start: 01/14/2016 03:00 PM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$3,300'

@@ -1,47 +1,44 @@
 ---
 ideaSubmitFormInstruction: ''
-startDate: '2014-03-21T00:00:00'
+startDate: '2011-10-03T00:00:00'
 votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 417
+id: 216
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: The Desal Prize call for innovations is now open, and you could win up to
-  $400K for your affordable, energy-efficient brackish water desalination technologies
-  to be used in developing countries!
-groupName: International Assistance Programs - Agency for International Development
+tagline: The popHealth Challenge tasks developers with creating applications that
+  leverage the popHealth framework, functionality, and datasets to improve patient
+  care and insight into patient populations.
+groupName: Department of Health and Human Services
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
 attributes:
 total-prize-awarded-cash: ''
-external-url: http://www.thedesalprize.org/
-submission-end: '08/01/2014 12:00 AM'
+external-url: http://www.health2challenge.org/pophealth-tool-development-challenge/
+submission-end: 01/21/2012 05:00 AM
 why-use-prizes: ''
-submission-start: 06/16/2014 12:00 AM
-fiscal-year: FY 2014
+submission-start: 10/03/2011 04:00 AM
+fiscal-year: FY12
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '$400,000'
-campaign-owner: maurice kent
+total-prize-offered-cash: '$100,000'
+campaign-owner: ''
 public-voting-start-date: ''
 legal-authority: America COMPETES
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
-agency-id: '292'
+agency-id: '102'
 solicitation-of-submissions: ''
-total-submission-received: Unknown
+total-submission-received: '24'
 total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
-non-monetary-incentives-awarded: "Ten to twelve semifinalists will receive $5,000
-  to build a prototype which will be tested. Top performing devices from this
-  group will be selected as finalists and will receive an additional $5,000 to
-  continue. $500,000 grand prize selected by judges.\r\n\r\nHosted externally
-  on Chaortix (http://www.thedesalprize.org/)"
+non-monetary-incentives-awarded: '1st (1): $75,000, Conference invitation; 2nd
+      (1): $20,000; 3rd (1): $5,000'
 partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
@@ -52,14 +49,14 @@ hide-challenge-timeline: 'No'
 judging-start-date: ''
 winners-announced-date: ''
 cash-prizes-and-non-cash-prize-awards: ''
-campaign-owner-email: mkent@usaid.gov
-solution-type: Technology demonstration and hardware
+campaign-owner-email: ''
+solution-type: Software and apps
 partner-agencies-non-federal: ''
-original-post-id: '58152'
+original-post-id: '52282'
 total-number-of-winners-awarded: ''
-hosting: Hosted on this platform
+hosting: Externally (Challenge details will redirect to external url)
 hide-challenge-funnel: 'Yes'
-type-of-challenge: Scientific
+type-of-challenge: Software and apps
 participation-requirements: ''
 number-of-phases: ''
 how-to-enter: ''
@@ -126,7 +123,7 @@ judging-criteria-description-9: ''
 judging-criteria-percentage-9: ''
 judging-criteria-9: ''
 prize-description-0: ''
-prize-cash-amount-0: '400000'
+prize-cash-amount-0: '100000'
 prize-name-0: ''
 prize-description-1: ''
 prize-cash-amount-1: ''
@@ -224,10 +221,7 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: As the second call under Securing Water for Food, the Desal Prize aims
-  to develop cost-effective, energy efficient, and environmentally sustainable small-scale
-  desalination technology that provides potable water for humans and water appropriate
-  crops in developing countries.
+description: ''
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
@@ -239,13 +233,13 @@ hideCommentAuthor: false
 authorizedGroupIds: []
 userSubscriptionAllowed: false
 bannerImage: ''
-groupId: 31
+groupId: 23
 showTagline: true
-name: 'The Desal Prize - The second "call" of the Securing Water for Food Grand Challenge'
+name: popHealth Tool Development Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/the-desal-prize-the-second-call-of-the-securing-water-for-food-grand-challenge/"
+permalink: "/challenge/pophealth-tool-development-challenge/"
 layout: json-page
 ---

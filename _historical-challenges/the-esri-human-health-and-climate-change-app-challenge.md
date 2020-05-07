@@ -22,7 +22,7 @@ external-url: http://www.esri.com/landing-pages/industries/health/climate-change
 submission-end: '08/14/2015 05:00 PM'
 why-use-prizes: ''
 submission-start: ''
-fiscal-year: FY 2015
+fiscal-year: FY15
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$17,000'

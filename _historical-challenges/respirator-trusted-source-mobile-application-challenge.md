@@ -23,7 +23,7 @@ external-url: http://www.resp-mobile-app.challengepost.com/submissions
 submission-end: 12/24/2013 09:00 PM
 why-use-prizes: ''
 submission-start: 10/21/2013 04:00 AM
-fiscal-year: FY 2013
+fiscal-year: FY13
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$10,000'

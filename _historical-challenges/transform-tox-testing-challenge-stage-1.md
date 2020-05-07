@@ -20,7 +20,7 @@ external-url: http://www.transformtoxtesting.com/
 submission-end: 04/08/2016 12:00 AM
 why-use-prizes: ''
 submission-start: 01/08/2016 12:00 AM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

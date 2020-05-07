@@ -1,43 +1,44 @@
 ---
 ideaSubmitFormInstruction: ''
-startDate: '2015-03-04T14:00:00'
+startDate: '2012-01-31T00:00:00'
 votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 475
+id: 237
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: We’re challenging tech gurus to create a tool that people can use to block
-  or forward unwanted robocalls automatically to a honeypot.
-groupName: Federal Trade Commission
+tagline: The National Equal Pay Task Force wants your help in building innovative
+  tools to educate the public about the pay gap and promote equal pay for women.
+groupName: Department of Labor
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
 attributes:
 total-prize-awarded-cash: ''
-external-url: http://www.ftc.gov/strikeback
-submission-end: 06/15/2015 10:00 PM
+external-url: http://www.dol.gov/equalpay/apps-winners.htm
+submission-end: 04/01/2012 03:00 AM
 why-use-prizes: ''
-submission-start: ''
-fiscal-year: FY 2015
+submission-start: 01/31/2012 06:00 PM
+fiscal-year: FY12
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '$50,000'
-campaign-owner: Patty Hsue
+total-prize-offered-cash: ''
+campaign-owner: ''
 public-voting-start-date: ''
 legal-authority: America COMPETES
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
-agency-id: '1142'
+agency-id: '172'
 solicitation-of-submissions: ''
-total-submission-received: ''
+total-submission-received: '8'
 total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
-non-monetary-incentives-awarded: "Qualified First place winner – $25,000\r\nUp
-  to 2 Runners-up – $10,500 each\r\nUp to 2 additional Finalists - $2,000 each\r\n"
+non-monetary-incentives-awarded: 'Grand Prize (4): Scholarship for training; Non-profit
+      (1): App purchase opportunity; Mentorship (1): Network opportunity; Women Innovation
+      (1): Conference invitation'
 partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
@@ -48,11 +49,10 @@ hide-challenge-timeline: 'No'
 judging-start-date: ''
 winners-announced-date: ''
 cash-prizes-and-non-cash-prize-awards: ''
-campaign-owner-email: phsue@ftc.gov
+campaign-owner-email: ''
 solution-type: Software and apps
-partner-agencies-non-federal: Canadian Radio-television and Telecommunications
-  Commission, Pindrop Security
-original-post-id: '75542'
+partner-agencies-non-federal: ''
+original-post-id: '52892'
 total-number-of-winners-awarded: ''
 hosting: Externally (Challenge details will redirect to external url)
 hide-challenge-funnel: 'Yes'
@@ -123,7 +123,7 @@ judging-criteria-description-9: ''
 judging-criteria-percentage-9: ''
 judging-criteria-9: ''
 prize-description-0: ''
-prize-cash-amount-0: '50,000'
+prize-cash-amount-0: '0'
 prize-name-0: ''
 prize-description-1: ''
 prize-cash-amount-1: ''
@@ -233,13 +233,13 @@ hideCommentAuthor: false
 authorizedGroupIds: []
 userSubscriptionAllowed: false
 bannerImage: ''
-groupId: 341
+groupId: 284
 showTagline: true
-name: 'Robocalls- Humanity Strikes Back (Qualifying Phase)'
+name: Equal Pay App Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/robocalls-humanity-strikes-back-qualifying-phase/"
+permalink: "/challenge/equal-pay-app-challenge/"
 layout: json-page
 ---

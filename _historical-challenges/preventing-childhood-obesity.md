@@ -21,7 +21,7 @@ external-url: http://mchbgrandchallenges.hrsa.gov/
 submission-end: '09/24/2018 12:00 AM'
 why-use-prizes: ''
 submission-start: 07/23/2018 12:00 AM
-fiscal-year: FY 2018
+fiscal-year: FY18
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$375,000'

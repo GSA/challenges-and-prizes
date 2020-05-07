@@ -39,7 +39,7 @@ external-url: http://www.americamakes.us/challenge
 submission-end: 07/15/2015 11:59 PM
 why-use-prizes: ''
 submission-start: 05/16/2015 12:00 PM
-fiscal-year: FY 2015
+fiscal-year: FY15
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$50,000'

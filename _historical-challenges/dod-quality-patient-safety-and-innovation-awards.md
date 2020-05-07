@@ -21,7 +21,7 @@ external-url: http://www.health.mil/dodpatientsafety
 submission-end: 10/14/2014 04:00 AM
 why-use-prizes: ''
 submission-start: '09/04/2014 04:00 AM'
-fiscal-year: FY 2014
+fiscal-year: FY14
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

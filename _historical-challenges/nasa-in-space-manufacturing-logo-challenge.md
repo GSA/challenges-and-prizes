@@ -20,7 +20,7 @@ external-url: https://www.freelancer.com/contest/NASA-InSpace-Manufacturing-Logo
 submission-end: 04/14/2016 12:00 AM
 why-use-prizes: ''
 submission-start: 03/24/2016 12:00 AM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$300'

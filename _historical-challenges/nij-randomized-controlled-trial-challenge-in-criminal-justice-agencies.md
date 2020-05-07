@@ -22,7 +22,7 @@ external-url: http://nij.gov/funding/pages/rct-challenge.aspx
 submission-end: 01/04/2016 12:00 PM
 why-use-prizes: ''
 submission-start: 07/08/2014 12:00 PM
-fiscal-year: FY 2014
+fiscal-year: FY14
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$300,000'

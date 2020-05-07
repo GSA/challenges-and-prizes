@@ -20,7 +20,7 @@ external-url: https://codebreaker.ltsnet.net/
 submission-end: 12/31/2016 11:59 PM
 why-use-prizes: ''
 submission-start: '09/09/2016 09:00 PM'
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

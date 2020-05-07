@@ -21,7 +21,7 @@ external-url: http://www.wildlifecrimetech.org
 submission-end: 06/30/2015 05:00 PM
 why-use-prizes: ''
 submission-start: ''
-fiscal-year: FY 2015
+fiscal-year: FY15
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

@@ -21,7 +21,7 @@ external-url: http://www.health2challenge.org
 submission-end: 02/02/2013 05:00 AM
 why-use-prizes: ''
 submission-start: 12/07/2012 02:00 PM
-fiscal-year: FY 2013
+fiscal-year: FY13
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$80,000'

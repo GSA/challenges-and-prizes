@@ -20,7 +20,7 @@ external-url: https://www.innocentive.com/ar/challenge/9933381
 submission-end: 10/21/2013 01:00 AM
 why-use-prizes: ''
 submission-start: 07/22/2013 11:00 PM
-fiscal-year: FY 2013
+fiscal-year: FY13
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$10000'

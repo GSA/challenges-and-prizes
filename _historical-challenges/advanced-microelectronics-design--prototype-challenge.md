@@ -21,7 +21,7 @@ external-url: https://www.afwerxchallenge.com/microdesign?utm_source=challenge.g
 submission-end: 01/22/2019 11:59 PM
 why-use-prizes: ''
 submission-start: 11/05/2018 12:00 AM
-fiscal-year: FY 2019
+fiscal-year: FY19
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

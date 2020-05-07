@@ -34,7 +34,7 @@ external-url: https://www.epa.gov/green-infrastructure/2015-campus-rainworks-cha
 submission-end: '09/30/2015 12:00 AM'
 why-use-prizes: ''
 submission-start: '09/01/2015 12:00 AM'
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$16,000'

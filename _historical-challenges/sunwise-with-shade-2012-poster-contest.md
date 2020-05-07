@@ -1,47 +1,44 @@
 ---
 ideaSubmitFormInstruction: ''
-startDate: '2018-11-26T06:50:12'
+startDate: '2012-01-01T00:00:00'
 votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 590
+id: 243
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: The Nutrient Sensor Challenge will accelerate the development and deployment
-  of affordable nutrient sensors to reduce the cost and complexity of collecting nutrient
-  data and allow for better measurement and tracking of nutrients throughout ecosystems.
-  The Challenging Nutrients Coalition includes NOAA, USGS, and NIST.
+tagline: Submit original, creative posters illustrating ways to prevent skin cancer
+  and raise sun safety awareness.
 groupName: Environmental Protection Agency
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
 attributes:
 total-prize-awarded-cash: ''
-external-url: http://www.act-us.info/nutrients-challenge/
-submission-end: 12/18/2015 11:59 PM
+external-url: http://www.epa.gov/sunwise/postercontest.html
+submission-end: 04/01/2012 04:00 PM
 why-use-prizes: ''
-submission-start: 10/07/2015 09:00 AM
-fiscal-year: FY 2016
+submission-start: 01/01/2012 05:00 AM
+fiscal-year: FY12
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''
 campaign-owner: ''
 public-voting-start-date: ''
-legal-authority: Other
+legal-authority: Unspecified
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
 agency-id: '222'
 solicitation-of-submissions: ''
-total-submission-received: ''
+total-submission-received: '12000'
 total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
-non-monetary-incentives-awarded: ''
-partner-agencies-federal: 'National Oceanic and Atmospheric Administration
-  (including the U.S. Integrated Ocean Observing System and the Alliance for Coastal
-  Technologies), U.S. Geological Survey, National Institute of Standards and Technology'
+non-monetary-incentives-awarded: 'K-3: Digital Camera for top 5 entries; Grades
+      4-8: Expenses paid Disney Trip for national contest winner'
+partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''
@@ -52,13 +49,13 @@ judging-start-date: ''
 winners-announced-date: ''
 cash-prizes-and-non-cash-prize-awards: ''
 campaign-owner-email: ''
-solution-type: ''
+solution-type: Creative (design & multimedia)
 partner-agencies-non-federal: ''
-original-post-id: '89281'
+original-post-id: '53062'
 total-number-of-winners-awarded: ''
 hosting: Externally (Challenge details will redirect to external url)
 hide-challenge-funnel: 'Yes'
-type-of-challenge: Scientific
+type-of-challenge: Creative (design & multimedia)
 participation-requirements: ''
 number-of-phases: ''
 how-to-enter: ''
@@ -223,13 +220,7 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: 'This effort will focus on reducing the cost and complexity of collecting
-  nutrient data, to ultimately facilitate better environmental management and stewardship,
-  while stimulating innovation and private sector growth. The goal is for next-generation
-  sensors developed through the Challenge to:  <ul>  <ul>   <li>be easy to use in
-  maintenance-free deployments of up to three months,</li>   <li>cost less than $5,000
-  to purchase,</li>   <li>and be commercially available by 2017.</li>  </ul>  </ul>  REGISTER
-  HERE: <a href="http://www.nutrients-challenge.org/">www.nutrients-challenge.org</a>'
+description: ''
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
@@ -243,11 +234,11 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 18
 showTagline: true
-name: 'Nutrient Sensor Challenge Phase 2 - Technology Evaluations and Award Selections'
+name: Sunwise with SHADE 2012 Poster Contest
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/nutrient-sensor-challenge-phase-2-technology-evaluations-and-award-selections/"
+permalink: "/challenge/sunwise-with-shade-2012-poster-contest/"
 layout: json-page
 ---

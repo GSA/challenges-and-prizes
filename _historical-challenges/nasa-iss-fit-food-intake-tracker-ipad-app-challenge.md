@@ -22,7 +22,7 @@ external-url: 'http://www.topcoder.com/iss/fit/ '
 submission-end: 07/02/2013 09:00 AM
 why-use-prizes: ''
 submission-start: 02/11/2013 05:00 AM
-fiscal-year: FY 2013
+fiscal-year: FY13
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$55,000'

@@ -23,7 +23,7 @@ external-url: http://www.nicic.gov/greencorrectionschallenge
 submission-end: 11/03/2014 11:59 PM
 why-use-prizes: ''
 submission-start: 04/10/2014 12:00 AM
-fiscal-year: FY 2014
+fiscal-year: FY14
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

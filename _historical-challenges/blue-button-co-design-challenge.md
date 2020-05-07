@@ -22,7 +22,7 @@ external-url: http://www.health2con.com/devchallenge/blue-button-co-design-chall
 submission-end: '08/06/2013 03:00 AM'
 why-use-prizes: ''
 submission-start: 06/03/2013 07:00 PM
-fiscal-year: FY 2013
+fiscal-year: FY13
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$55,000'

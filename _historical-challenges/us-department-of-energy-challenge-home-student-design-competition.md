@@ -22,7 +22,7 @@ external-url: http://www.homeinnovation.com/DOEChallengeHomeStudentDesignCompeti
 submission-end: 03/30/2014 12:00 AM
 why-use-prizes: ''
 submission-start: 02/24/2014 12:00 AM
-fiscal-year: FY 2014
+fiscal-year: FY14
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

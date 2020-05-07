@@ -20,7 +20,7 @@ external-url: https://herox.com/pseudovet
 submission-end: 02/14/2018 12:00 AM
 why-use-prizes: ''
 submission-start: '08/30/2017 12:00 AM'
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$100,000'
