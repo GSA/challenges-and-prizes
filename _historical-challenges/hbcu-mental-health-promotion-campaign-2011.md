@@ -1,43 +1,44 @@
 ---
 ideaSubmitFormInstruction: ''
-startDate: '2012-10-31T00:00:00'
+startDate: '2010-11-01T00:00:00'
 votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 317
+id: 134
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: USAID and Humanity United launch challenges to award prize money to problem-solvers
-  who develop innovative concept papers and prototypes contributing to atrocity prevention.
-groupName: National Aeronautics and Space Administration
+tagline: Produce a communication campaign to raise awareness and education about mental
+  health, its impact on the overall well-being of students attending Historically
+  Black Colleges and Universities (HBCUs) a
+groupName: Department of Health and Human Services - Substance Abuse and Mental Health
+  Services Administration
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
 attributes:
 total-prize-awarded-cash: ''
-external-url: http://thetechchallenge.org
-submission-end: 11/29/2012 05:00 PM
+external-url: http://www.hbcucfe.net/pdfs/HBCU%20Mental%20Health%20Promotion%20Campaign%202011_Submission%20Guidelines.pdf
+submission-end: 01/15/2011 04:59 AM
 why-use-prizes: ''
-submission-start: 10/31/2012 09:00 AM
-fiscal-year: FY13
+submission-start: 11/01/2010 04:00 AM
+fiscal-year: FY 2011
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '$20,000'
+total-prize-offered-cash: '$200'
 campaign-owner: ''
 public-voting-start-date: ''
-legal-authority: America COMPETES
+legal-authority: Unspecified
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
-agency-id: '132'
+agency-id: '102'
 solicitation-of-submissions: ''
-total-submission-received: '88'
+total-submission-received: Unknown
 total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
-non-monetary-incentives-awarded: '1st Place: $5000; 2nd Place: $3000; 3rd Place:
-      $2000 in 2 ideation challenges (Enablers and Capture challenges)'
+non-monetary-incentives-awarded: One winner and two honorable mentions, w
 partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
@@ -49,13 +50,13 @@ judging-start-date: ''
 winners-announced-date: ''
 cash-prizes-and-non-cash-prize-awards: ''
 campaign-owner-email: ''
-solution-type: Ideas
+solution-type: Creative (design & multimedia)
 partner-agencies-non-federal: ''
-original-post-id: '55272'
+original-post-id: '49822'
 total-number-of-winners-awarded: ''
 hosting: Externally (Challenge details will redirect to external url)
 hide-challenge-funnel: 'Yes'
-type-of-challenge: Ideas
+type-of-challenge: Creative (design & multimedia)
 participation-requirements: ''
 number-of-phases: ''
 how-to-enter: ''
@@ -122,7 +123,7 @@ judging-criteria-description-9: ''
 judging-criteria-percentage-9: ''
 judging-criteria-9: ''
 prize-description-0: ''
-prize-cash-amount-0: '20000'
+prize-cash-amount-0: '200'
 prize-name-0: ''
 prize-description-1: ''
 prize-cash-amount-1: ''
@@ -220,7 +221,9 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: ''
+description: Produce a communication campaign to raise awareness and education about
+  mental health, its impact on the overall well-being of students attending Historically
+  Black Colleges and Universities (HBCUs) and associated impacts on academic performance.
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
@@ -232,13 +235,13 @@ hideCommentAuthor: false
 authorizedGroupIds: []
 userSubscriptionAllowed: false
 bannerImage: ''
-groupId: 281
+groupId: 166
 showTagline: true
-name: The Tech Challenge for Atrocity Prevention 2012
+name: HBCU Mental Health Promotion Campaign 2011
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/the-tech-challenge-for-atrocity-prevention-2012/"
+permalink: "/challenge/hbcu-mental-health-promotion-campaign-2011/"
 layout: json-page
 ---

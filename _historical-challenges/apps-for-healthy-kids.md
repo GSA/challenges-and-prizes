@@ -1,43 +1,48 @@
 ---
 ideaSubmitFormInstruction: ''
-startDate: '2012-10-31T00:00:00'
+startDate: '2010-03-10T00:00:00'
 votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 317
+id: 99
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: USAID and Humanity United launch challenges to award prize money to problem-solvers
-  who develop innovative concept papers and prototypes contributing to atrocity prevention.
-groupName: National Aeronautics and Space Administration
+tagline: The USDA challenged software developers, game designers, students, and others
+  to develop fun and engaging software tools and games that drive children to eat
+  better and be more physically active.
+groupName: Department of Agriculture
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
 attributes:
 total-prize-awarded-cash: ''
-external-url: http://thetechchallenge.org
-submission-end: 11/29/2012 05:00 PM
+external-url: http://appsforhealthykids.challengepost.com/submissions
+submission-end: '08/15/2010 07:00 AM'
 why-use-prizes: ''
-submission-start: 10/31/2012 09:00 AM
-fiscal-year: FY13
+submission-start: 03/10/2010 10:00 AM
+fiscal-year: FY 2010
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '$20,000'
+total-prize-offered-cash: '$60,000'
 campaign-owner: ''
 public-voting-start-date: ''
 legal-authority: America COMPETES
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
-agency-id: '132'
+agency-id: '72'
 solicitation-of-submissions: ''
-total-submission-received: '88'
+total-submission-received: '94'
 total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
-non-monetary-incentives-awarded: '1st Place: $5000; 2nd Place: $3000; 3rd Place:
-      $2000 in 2 ideation challenges (Enablers and Capture challenges)'
+non-monetary-incentives-awarded: '1st - Tool (1): $10,000; 2nd - Tool (1): $4,500;
+      Honorable Mention - Tool (1): $1,000; GE Healthymagination Student - Tool (1):
+      $10,000; Corporate Recognition - Tool (1): Public recognition; Popular Choice
+      - Tool (1): $4,500; 1st - Game (1): $10,000; 2nd - Game (1): $4,500; Honorable
+      Mention - Game (1): $1,000; GE Healthymagination - Game (1): $10,000; Popular
+      Choice - Game (1): $4,500; Public recognition'
 partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
@@ -49,13 +54,13 @@ judging-start-date: ''
 winners-announced-date: ''
 cash-prizes-and-non-cash-prize-awards: ''
 campaign-owner-email: ''
-solution-type: Ideas
+solution-type: Software and apps
 partner-agencies-non-federal: ''
-original-post-id: '55272'
+original-post-id: '48762'
 total-number-of-winners-awarded: ''
 hosting: Externally (Challenge details will redirect to external url)
 hide-challenge-funnel: 'Yes'
-type-of-challenge: Ideas
+type-of-challenge: Software and apps
 participation-requirements: ''
 number-of-phases: ''
 how-to-enter: ''
@@ -122,7 +127,7 @@ judging-criteria-description-9: ''
 judging-criteria-percentage-9: ''
 judging-criteria-9: ''
 prize-description-0: ''
-prize-cash-amount-0: '20000'
+prize-cash-amount-0: '60000'
 prize-name-0: ''
 prize-description-1: ''
 prize-cash-amount-1: ''
@@ -220,7 +225,9 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: ''
+description: "$60,000 in prizes to create innovative, fun and engaging software tools
+  and games that encourage children directly or through their parents to make more
+  nutritious food choices and be more physically active."
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
@@ -232,13 +239,13 @@ hideCommentAuthor: false
 authorizedGroupIds: []
 userSubscriptionAllowed: false
 bannerImage: ''
-groupId: 281
+groupId: 273
 showTagline: true
-name: The Tech Challenge for Atrocity Prevention 2012
+name: Apps for Healthy Kids
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/the-tech-challenge-for-atrocity-prevention-2012/"
+permalink: "/challenge/apps-for-healthy-kids/"
 layout: json-page
 ---
