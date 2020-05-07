@@ -73,14 +73,14 @@ rules: "<p>Proposals should outline a partnership idea that clearly illustrates
 judging-start-date: ''
 winners-announced-date: ''
 cash-prizes-and-non-cash-prize-awards: ''
-    solution-type: Ideas
-    partner-agencies-non-federal: ''
-    original-post-id: ''
-    total-number-of-winners-awarded: ''
-    hosting: Hosted on this platform
-    type-of-challenge: Ideas
-    participation-requirements: ''
-    number-of-phases: ''
+solution-type: Ideas
+partner-agencies-non-federal: ''
+original-post-id: ''
+total-number-of-winners-awarded: ''
+hosting: Hosted on this platform
+type-of-challenge: Ideas
+participation-requirements: ''
+number-of-phases: ''
     how-to-enter: "<h4>Proposal submissions must include:</h4>\r\n<ul>\r\n<li>Name
       of organization submitting partnership</li>\r\n<li>Full address and postal code:</li>\r\n<li>For
       profit or not for profit</li>\r\n<li>Industry affiliation (ie. health care,

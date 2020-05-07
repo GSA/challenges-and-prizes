@@ -52,15 +52,15 @@ judging-start-date: ''
 winners-announced-date: ''
 cash-prizes-and-non-cash-prize-awards: ''
 campaign-owner-email: ''
-    solution-type: Technology demonstration and hardware
-    partner-agencies-non-federal: ''
-    original-post-id: '49272'
-    total-number-of-winners-awarded: ''
-    hosting: Externally (Challenge details will redirect to external url)
-    hide-challenge-funnel: 'Yes'
-    type-of-challenge: Scientific
-    participation-requirements: ''
-    number-of-phases: ''
+solution-type: Technology demonstration and hardware
+partner-agencies-non-federal: ''
+original-post-id: '49272'
+total-number-of-winners-awarded: ''
+hosting: Externally (Challenge details will redirect to external url)
+hide-challenge-funnel: 'Yes'
+type-of-challenge: Scientific
+participation-requirements: ''
+number-of-phases: ''
     how-to-enter: ''
     partnerships: ''
   groupAttributes:

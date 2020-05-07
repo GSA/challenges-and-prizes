@@ -367,15 +367,15 @@ judging-start-date: ''
 winners-announced-date: 04/29/2018 01:00 PM
 cash-prizes-and-non-cash-prize-awards: ''
 campaign-owner-email: natale.goriel@sba.gov
-    solution-type: Software and apps
-    partner-agencies-non-federal: Visa
-    original-post-id: '175495'
-    total-number-of-winners-awarded: ''
-    hosting: Externally (Challenge details will redirect to external url)
-    hide-challenge-funnel: 'Yes'
-    type-of-challenge: Software and apps
-    participation-requirements: ''
-    number-of-phases: ''
+solution-type: Software and apps
+partner-agencies-non-federal: Visa
+original-post-id: '175495'
+total-number-of-winners-awarded: ''
+hosting: Externally (Challenge details will redirect to external url)
+hide-challenge-funnel: 'Yes'
+type-of-challenge: Software and apps
+participation-requirements: ''
+number-of-phases: ''
     how-to-enter: ''
     partnerships: ''
   groupAttributes:

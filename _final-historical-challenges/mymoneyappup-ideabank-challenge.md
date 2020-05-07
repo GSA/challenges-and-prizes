@@ -49,15 +49,15 @@ judging-start-date: ''
 winners-announced-date: ''
 cash-prizes-and-non-cash-prize-awards: ''
 campaign-owner-email: ''
-    solution-type: Software and apps
-    partner-agencies-non-federal: ''
-    original-post-id: '54292'
-    total-number-of-winners-awarded: ''
-    hosting: Externally (Challenge details will redirect to external url)
-    hide-challenge-funnel: 'Yes'
-    type-of-challenge: Ideas
-    participation-requirements: ''
-    number-of-phases: ''
+solution-type: Software and apps
+partner-agencies-non-federal: ''
+original-post-id: '54292'
+total-number-of-winners-awarded: ''
+hosting: Externally (Challenge details will redirect to external url)
+hide-challenge-funnel: 'Yes'
+type-of-challenge: Ideas
+participation-requirements: ''
+number-of-phases: ''
     how-to-enter: ''
     partnerships: ''
   groupAttributes:
