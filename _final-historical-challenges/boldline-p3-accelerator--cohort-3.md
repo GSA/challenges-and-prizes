@@ -81,7 +81,7 @@ hosting: Hosted on this platform
 type-of-challenge: Ideas
 participation-requirements: ''
 number-of-phases: ''
-    how-to-enter: "<h4>Proposal submissions must include:</h4>\r\n<ul>\r\n<li>Name
+how-to-enter: "<h4>Proposal submissions must include:</h4>\r\n<ul>\r\n<li>Name
       of organization submitting partnership</li>\r\n<li>Full address and postal code:</li>\r\n<li>For
       profit or not for profit</li>\r\n<li>Industry affiliation (ie. health care,
       aviation, energy)</li>\r\n<li>Consulting and innovation</li>\r\n<li>Links to
@@ -107,40 +107,40 @@ number-of-phases: ''
       and click the red Submit button on the top right of the page. Proposals also
       are being accepted via email at:&nbsp;<a href=\"mailto:partnerships@state.gov\">partnerships@state.gov</a></p>\r\n<h4>Questions?</h4>\r\n<p>Please
       send questions to:&nbsp;<a href=\"mailto:partnerships@state.gov\">partnerships@state.gov</a></p>"
-    partnerships: ''
-  groupAttributes:
-  - judging-criteria-description-0: Are there significant needs for your product or
+partnerships: ''
+groupAttributes:
+judging-criteria-description-0: Are there significant needs for your product or
       service? Does the partnership address an important problem or critical barrier
       to progress in society? Does it go beyond one-country? Does it have the potential
       to further scale? Will it impact the well-being of people and enhance life or
       livelihoods? If an already existing partnership, please provide metrics of impact.
-    judging-criteria-percentage-0: '20'
-    judging-criteria-0: Impact
-  - judging-criteria-description-1: Does the submission seek to shift current paradigms
+judging-criteria-percentage-0: '20'
+judging-criteria-0: Impact
+judging-criteria-description-1: Does the submission seek to shift current paradigms
       by utilizing novel approaches, methodologies, services or interventions to create
       a changed environment? Is your partnership proposal novel in a broad sense?
-    judging-criteria-percentage-1: '20'
-    judging-criteria-1: Innovation
-  - judging-criteria-description-2: Is the proposal reasonable, resourceful, and feasible?
+judging-criteria-percentage-1: '20'
+judging-criteria-1: Innovation
+judging-criteria-description-2: Is the proposal reasonable, resourceful, and feasible?
       Is the proposing organization committed to making the partnership successful?
       Is the entire organization committed to the partnership? A successful proposal
       will improve upon existing policies, practices, strategies, and leverage existing
       or emerging technologies. It will offer creative solutions to possible funding
       and resource constraints if applicable. It can be implemented within 1-3 years.
-    judging-criteria-2: Feasibility
-    judging-criteria-percentage-2: '20'
-  - judging-criteria-description-3: Is the proposal responsive to GEC's mandate for
+judging-criteria-2: Feasibility
+judging-criteria-percentage-2: '20'
+judging-criteria-description-3: Is the proposal responsive to GEC's mandate for
       countering propaganda? Proposals should explain how a partnership will directly
       impact the U.S. capabilities to recognize, understand, expose, and counter foreign
       state and non-state propaganda and disinformation efforts aimed at undermining
       the United States' national security interests. A successful proposal will be
       understood by and persuasive to both government stakeholders and lay audiences
       alike in its written and oral communication.
-    judging-criteria-3: Relevance to GEC Mission Set
-    judging-criteria-percentage-3: '30'
-  - judging-criteria-percentage-4: '10'
-    judging-criteria-4: Collaboration
-    judging-criteria-description-4: Is the proposal collaborative in its approach
+judging-criteria-3: Relevance to GEC Mission Set
+judging-criteria-percentage-3: '30'
+judging-criteria-percentage-4: '10'
+judging-criteria-4: Collaboration
+judging-criteria-description-4: Is the proposal collaborative in its approach
       to the problem or issue and/or proposed solution? Is a partnership feasible
       for this effort? A successful proposal will involve team members and stakeholder
       engagement and support from across sectors of government and non-government.

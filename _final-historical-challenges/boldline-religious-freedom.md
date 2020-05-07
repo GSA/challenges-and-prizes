@@ -83,7 +83,7 @@ hide-challenge-funnel: 'Yes'
 type-of-challenge: Ideas
 participation-requirements: ''
 number-of-phases: ''
-    how-to-enter: "Proposals should outline a partnership idea that clearly illustrates
+how-to-enter: "Proposals should outline a partnership idea that clearly illustrates
       the problem statement, potential partners, activities, and objectives.<span
       class=\"Apple-converted-space\"> </span>Please note that proposals should focus
       on the global dimension of the problem; solely domestic proposals will not be
@@ -111,89 +111,89 @@ number-of-phases: ''
       make for a successful partnership.</i>\r\n\r\n<b>Ideal End State </b>(150 words
       max): <i>Describe what success will look like with the implementation of your
       idea. Address the impact of your idea and its innovation potential</i>"
-    partnerships: ''
-  groupAttributes:
-  - judging-criteria-description-0: Are there significant needs for your product or
+partnerships: ''
+groupAttributes:
+judging-criteria-description-0: Are there significant needs for your product or
       service? Does the partnership address an important problem or critical barrier
       to religious freedom globally? Does it go beyond one-country? Does it have the
       potential to further scale? Will it impact the well-being of people and enhance
       life or livelihoods? If an already existing partnership, please provide metrics
       of impact.  
-    judging-criteria-percentage-0: '20'
-    judging-criteria-0: Impact
-  - judging-criteria-description-1: Does the submission seek to shift current paradigms
+judging-criteria-percentage-0: '20'
+judging-criteria-0: Impact
+judging-criteria-description-1: Does the submission seek to shift current paradigms
       by utilizing novel approaches, methodologies, services or interventions to create
       a changed environment? Is your partnership proposal novel in a broad sense?
-    judging-criteria-percentage-1: '20'
-    judging-criteria-1: Innovation
-  - judging-criteria-description-10: ''
-    judging-criteria-percentage-10: ''
-    judging-criteria-10: ''
-  - judging-criteria-description-11: ''
-    judging-criteria-percentage-11: ''
-    judging-criteria-11: ''
-  - judging-criteria-description-12: ''
-    judging-criteria-12: ''
-    judging-criteria-percentage-12: ''
-  - judging-criteria-description-13: ''
-    judging-criteria-13: ''
-    judging-criteria-percentage-13: ''
-  - judging-criteria-percentage-14: ''
-    judging-criteria-14: ''
-    judging-criteria-description-14: ''
-  - judging-criteria-percentage-15: ''
-    judging-criteria-15: ''
-    judging-criteria-description-15: ''
-  - judging-criteria-16: ''
-    judging-criteria-percentage-16: ''
-    judging-criteria-description-16: ''
-  - judging-criteria-17: ''
-    judging-criteria-percentage-17: ''
-    judging-criteria-description-17: ''
-  - judging-criteria-description-18: ''
-    judging-criteria-percentage-18: ''
-    judging-criteria-18: ''
-  - judging-criteria-description-19: ''
-    judging-criteria-percentage-19: ''
-    judging-criteria-19: ''
-  - judging-criteria-description-2: Is the proposal reasonable, resourceful, and feasible?
+judging-criteria-percentage-1: '20'
+judging-criteria-1: Innovation
+judging-criteria-description-10: ''
+judging-criteria-percentage-10: ''
+judging-criteria-10: ''
+judging-criteria-description-11: ''
+judging-criteria-percentage-11: ''
+judging-criteria-11: ''
+judging-criteria-description-12: ''
+judging-criteria-12: ''
+judging-criteria-percentage-12: ''
+judging-criteria-description-13: ''
+judging-criteria-13: ''
+judging-criteria-percentage-13: ''
+judging-criteria-percentage-14: ''
+judging-criteria-14: ''
+judging-criteria-description-14: ''
+judging-criteria-percentage-15: ''
+judging-criteria-15: ''
+judging-criteria-description-15: ''
+judging-criteria-16: ''
+judging-criteria-percentage-16: ''
+judging-criteria-description-16: ''
+judging-criteria-17: ''
+judging-criteria-percentage-17: ''
+judging-criteria-description-17: ''
+judging-criteria-description-18: ''
+judging-criteria-percentage-18: ''
+judging-criteria-18: ''
+judging-criteria-description-19: ''
+judging-criteria-percentage-19: ''
+judging-criteria-19: ''
+judging-criteria-description-2: Is the proposal reasonable, resourceful, and feasible?
       Is the proposing organization committed to making the partnership successful?
       Is the entire organization committed to the partnership? A successful proposal
       will improve upon existing policies, practices, strategies, and leverage existing
       or emerging technologies. It will offer creative solutions to possible funding
       and resource constraints if applicable. It can be implemented within 1-3 years.
-    judging-criteria-2: Feasibility
-    judging-criteria-percentage-2: '20'
-  - judging-criteria-description-3: Is the proposal within the framework of U.S. foreign
+judging-criteria-2: Feasibility
+judging-criteria-percentage-2: '20'
+judging-criteria-description-3: Is the proposal within the framework of U.S. foreign
       policy interests? Proposals should explain how the partnership will directly
       impact U.S. foreign policy goals related to promoting and protecting religious
       freedom around the world for all, including the protection of religious minority
       groups and those holding no faith.  A successful proposal will be understood
       by and persuasive to both government stakeholders and lay audiences alike in
       its written and oral communication.
-    judging-criteria-3: Relevance to U.S. Foreign Policy Priorities
-    judging-criteria-percentage-3: '25'
-  - judging-criteria-percentage-4: '15'
-    judging-criteria-4: Collaboration
-    judging-criteria-description-4: Is the proposal collaborative in its approach
+judging-criteria-3: Relevance to U.S. Foreign Policy Priorities
+judging-criteria-percentage-3: '25'
+judging-criteria-percentage-4: '15'
+judging-criteria-4: Collaboration
+judging-criteria-description-4: Is the proposal collaborative in its approach
       to the problem or issue and/or proposed solution? Is a partnership feasible
       for this effort? A successful proposal will involve team members and stakeholder
       engagement and support from across sectors of government and non-government.
-  - judging-criteria-percentage-5: ''
-    judging-criteria-5: ''
-    judging-criteria-description-5: ''
-  - judging-criteria-6: ''
-    judging-criteria-percentage-6: ''
-    judging-criteria-description-6: ''
-  - judging-criteria-7: ''
-    judging-criteria-percentage-7: ''
-    judging-criteria-description-7: ''
-  - judging-criteria-description-8: ''
-    judging-criteria-percentage-8: ''
-    judging-criteria-8: ''
-  - judging-criteria-description-9: ''
-    judging-criteria-percentage-9: ''
-    judging-criteria-9: ''
+judging-criteria-percentage-5: ''
+judging-criteria-5: ''
+judging-criteria-description-5: ''
+judging-criteria-6: ''
+judging-criteria-percentage-6: ''
+judging-criteria-description-6: ''
+judging-criteria-7: ''
+judging-criteria-percentage-7: ''
+judging-criteria-description-7: ''
+judging-criteria-description-8: ''
+judging-criteria-percentage-8: ''
+judging-criteria-8: ''
+judging-criteria-description-9: ''
+judging-criteria-percentage-9: ''
+judging-criteria-9: ''
   - prize-description-0: ''
     prize-cash-amount-0: ''
     prize-name-0: ''
