@@ -177,7 +177,7 @@ description: "<p class=\"p1\"><strong>An informational webinar for this challeng
   please visit:&nbsp;<a style=\"box-sizing: border-box; background-image: initial;
   background-position: initial; background-size: initial; background-repeat: initial;
   background-attachment: initial; background-origin: initial; background-clip: initial;
-  text-decoration-line: none; color: #428bca; font-family: 'Helvetica Neue', Helvetica,
+  font-family: 'Helvetica Neue', Helvetica,
   Arial, sans-serif;\" href=\"https://9sig.co/NASA_RISC\" target=\"_blank\" rel=\"noopener\">https://9sig.co/NASA_RISC</a></p>"
 campaignStatusName: Launched
 templateId: 0
