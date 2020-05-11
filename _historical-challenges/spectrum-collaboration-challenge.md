@@ -41,7 +41,7 @@ partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''
-rules: See rules document: https://spectrumcollaborationchallenge.com//wp-content/uploads/SC2-Rules-Document.pdf
+rules: See rules document- https://spectrumcollaborationchallenge.com//wp-content/uploads/SC2-Rules-Document.pdf
 submission-start-date-1: ''
 hide-challenge-timeline: 'No'
 judging-start-date: ''
