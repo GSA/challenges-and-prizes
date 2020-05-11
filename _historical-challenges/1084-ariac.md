@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/ariac/
 challenge-id: 1084
-status: open
+status: closed
 sidenav: true 
 card-image: /assets/images/cards/ARIAC-image.png
 agency-logo: NIST_logo.png
@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $17,500
 type-of-challenge: Software and apps
-submission-start: 2020/01/27
-submission-end: 2020/05/10
+submission-start: 01/27/2020
+submission-end: 05/10/2020
 submission-link:
 prize: true
 fiscal-year: FY20

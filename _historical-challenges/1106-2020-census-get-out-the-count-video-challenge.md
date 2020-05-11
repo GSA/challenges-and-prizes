@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/2020-census-get-out-the-count-video-challenge/
 challenge-id: 1106
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/GOTC-Prize-logo.png
 agency-logo: US-Census-Bureau-logo.png
@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $50,000
 type-of-challenge: Creative (multimedia & design)
-submission-start: 2020/03/12 12:00 PM
-submission-end: 2020/05/07 11:59 PM
+submission-start: 03/12/2020 12:00 PM
+submission-end: 05/07/2020 11:59 PM
 submission-link:
 prizes: true
 fiscal-year: FY20
