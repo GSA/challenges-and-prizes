@@ -1,43 +1,42 @@
 ---
 ideaSubmitFormInstruction: ''
-startDate: '2012-10-31T00:00:00'
+startDate: '2018-11-07T10:20:27'
 votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 317
+id: 128
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: USAID and Humanity United launch challenges to award prize money to problem-solvers
-  who develop innovative concept papers and prototypes contributing to atrocity prevention.
-groupName: National Aeronautics and Space Administration
+tagline: Creating original music and/or music videos that celebrates healthy and inspirational
+  living, or accurately depicts the dark side of drug abuse.
+groupName: Department of Health and Human Services
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
 attributes:
 total-prize-awarded-cash: ''
-external-url: http://thetechchallenge.org
-submission-end: 11/29/2012 05:00 PM
+external-url: http://drugfactsweek.drugabuse.gov/contest.php
+submission-end: 10/16/2010 03:59 AM
 why-use-prizes: ''
-submission-start: 10/31/2012 09:00 AM
-fiscal-year: FY13
+submission-start: '09/20/2010 04:00 AM'
+fiscal-year: FY 2010
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '$20,000'
+total-prize-offered-cash: '$850'
 campaign-owner: ''
 public-voting-start-date: ''
-legal-authority: America COMPETES
+legal-authority: Other
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
-agency-id: '132'
+agency-id: '102'
 solicitation-of-submissions: ''
-total-submission-received: '88'
+total-submission-received: ''
 total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
-non-monetary-incentives-awarded: '1st Place: $5000; 2nd Place: $3000; 3rd Place:
-      $2000 in 2 ideation challenges (Enablers and Capture challenges)'
+non-monetary-incentives-awarded: None
 partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
@@ -49,13 +48,13 @@ judging-start-date: ''
 winners-announced-date: ''
 cash-prizes-and-non-cash-prize-awards: ''
 campaign-owner-email: ''
-solution-type: Ideas
+solution-type: ''
 partner-agencies-non-federal: ''
-original-post-id: '55272'
+original-post-id: '49642'
 total-number-of-winners-awarded: ''
 hosting: Externally (Challenge details will redirect to external url)
 hide-challenge-funnel: 'Yes'
-type-of-challenge: Ideas
+type-of-challenge: Creative (design & multimedia)
 participation-requirements: ''
 number-of-phases: ''
 how-to-enter: ''
@@ -122,7 +121,7 @@ judging-criteria-description-9: ''
 judging-criteria-percentage-9: ''
 judging-criteria-9: ''
 prize-description-0: ''
-prize-cash-amount-0: '20000'
+prize-cash-amount-0: '850'
 prize-name-0: ''
 prize-description-1: ''
 prize-cash-amount-1: ''
@@ -232,13 +231,14 @@ hideCommentAuthor: false
 authorizedGroupIds: []
 userSubscriptionAllowed: false
 bannerImage: ''
-groupId: 281
+groupId: 23
 showTagline: true
-name: The Tech Challenge for Atrocity Prevention 2012
+name: The MusiCares and GRAMMY Foundation's Teen Substance Abuse Awareness through
+  Music Contest
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/the-tech-challenge-for-atrocity-prevention-2012/"
+permalink: "/challenge/the-musicares-and-grammy-foundations-teen-substance-abuse-awareness-through-music-contest/"
 layout: json-page
 ---

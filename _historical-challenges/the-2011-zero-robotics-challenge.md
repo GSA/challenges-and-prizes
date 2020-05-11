@@ -1,43 +1,42 @@
 ---
 ideaSubmitFormInstruction: ''
-startDate: '2012-10-31T00:00:00'
+startDate: '2011-08-01T00:00:00'
 votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 317
+id: 202
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: USAID and Humanity United launch challenges to award prize money to problem-solvers
-  who develop innovative concept papers and prototypes contributing to atrocity prevention.
+tagline: NASA and the Defense Advanced Research Projects Agency announce an opportunity
+  for U.S. high school students to conduct experiments in space.
 groupName: National Aeronautics and Space Administration
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
 attributes:
 total-prize-awarded-cash: ''
-external-url: http://thetechchallenge.org
-submission-end: 11/29/2012 05:00 PM
+external-url: http://zerorobotics.mit.edu
+submission-end: '09/06/2011 03:00 AM'
 why-use-prizes: ''
-submission-start: 10/31/2012 09:00 AM
-fiscal-year: FY13
+submission-start: '08/01/2011 04:00 AM'
+fiscal-year: FY 2011
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '$20,000'
+total-prize-offered-cash: ''
 campaign-owner: ''
 public-voting-start-date: ''
-legal-authority: America COMPETES
+legal-authority: Other
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
 agency-id: '132'
 solicitation-of-submissions: ''
-total-submission-received: '88'
+total-submission-received: Unknown
 total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
-non-monetary-incentives-awarded: '1st Place: $5000; 2nd Place: $3000; 3rd Place:
-      $2000 in 2 ideation challenges (Enablers and Capture challenges)'
+non-monetary-incentives-awarded: Top 27 Teams will have their programs se
 partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
@@ -49,13 +48,13 @@ judging-start-date: ''
 winners-announced-date: ''
 cash-prizes-and-non-cash-prize-awards: ''
 campaign-owner-email: ''
-solution-type: Ideas
+solution-type: Technology demonstration and hardware
 partner-agencies-non-federal: ''
-original-post-id: '55272'
+original-post-id: '51832'
 total-number-of-winners-awarded: ''
 hosting: Externally (Challenge details will redirect to external url)
 hide-challenge-funnel: 'Yes'
-type-of-challenge: Ideas
+type-of-challenge: Software and apps
 participation-requirements: ''
 number-of-phases: ''
 how-to-enter: ''
@@ -122,7 +121,7 @@ judging-criteria-description-9: ''
 judging-criteria-percentage-9: ''
 judging-criteria-9: ''
 prize-description-0: ''
-prize-cash-amount-0: '20000'
+prize-cash-amount-0: '0'
 prize-name-0: ''
 prize-description-1: ''
 prize-cash-amount-1: ''
@@ -234,11 +233,11 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: The Tech Challenge for Atrocity Prevention 2012
+name: The 2011 Zero Robotics Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/the-tech-challenge-for-atrocity-prevention-2012/"
+permalink: "/challenge/the-2011-zero-robotics-challenge/"
 layout: json-page
 ---

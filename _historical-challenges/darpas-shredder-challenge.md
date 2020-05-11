@@ -1,43 +1,41 @@
 ---
 ideaSubmitFormInstruction: ''
-startDate: '2012-10-31T00:00:00'
+startDate: '2011-10-27T00:00:00'
 votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 317
+id: 220
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: USAID and Humanity United launch challenges to award prize money to problem-solvers
-  who develop innovative concept papers and prototypes contributing to atrocity prevention.
-groupName: National Aeronautics and Space Administration
+tagline: DARPA Offers up to $50,000 Prize for Document Reconstruction
+groupName: Department of Defense
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
 attributes:
 total-prize-awarded-cash: ''
-external-url: http://thetechchallenge.org
-submission-end: 11/29/2012 05:00 PM
+external-url: http://www.shredderchallenge.com
+submission-end: 12/05/2011 04:00 AM
 why-use-prizes: ''
-submission-start: 10/31/2012 09:00 AM
-fiscal-year: FY13
+submission-start: 10/27/2011 04:00 PM
+fiscal-year: FY 2012
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '$20,000'
+total-prize-offered-cash: '$50,000'
 campaign-owner: ''
 public-voting-start-date: ''
-legal-authority: America COMPETES
+legal-authority: Other
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
-agency-id: '132'
+agency-id: '92'
 solicitation-of-submissions: ''
-total-submission-received: '88'
+total-submission-received: '9000'
 total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
-non-monetary-incentives-awarded: '1st Place: $5000; 2nd Place: $3000; 3rd Place:
-      $2000 in 2 ideation challenges (Enablers and Capture challenges)'
+non-monetary-incentives-awarded: "$50000 prize to the winner"
 partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
@@ -49,13 +47,13 @@ judging-start-date: ''
 winners-announced-date: ''
 cash-prizes-and-non-cash-prize-awards: ''
 campaign-owner-email: ''
-solution-type: Ideas
+solution-type: Software and apps
 partner-agencies-non-federal: ''
-original-post-id: '55272'
+original-post-id: '52402'
 total-number-of-winners-awarded: ''
 hosting: Externally (Challenge details will redirect to external url)
 hide-challenge-funnel: 'Yes'
-type-of-challenge: Ideas
+type-of-challenge: Scientific
 participation-requirements: ''
 number-of-phases: ''
 how-to-enter: ''
@@ -122,7 +120,7 @@ judging-criteria-description-9: ''
 judging-criteria-percentage-9: ''
 judging-criteria-9: ''
 prize-description-0: ''
-prize-cash-amount-0: '20000'
+prize-cash-amount-0: '50000'
 prize-name-0: ''
 prize-description-1: ''
 prize-cash-amount-1: ''
@@ -232,13 +230,13 @@ hideCommentAuthor: false
 authorizedGroupIds: []
 userSubscriptionAllowed: false
 bannerImage: ''
-groupId: 281
+groupId: 27
 showTagline: true
-name: The Tech Challenge for Atrocity Prevention 2012
+name: DARPA's Shredder Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/the-tech-challenge-for-atrocity-prevention-2012/"
+permalink: "/challenge/darpas-shredder-challenge/"
 layout: json-page
 ---

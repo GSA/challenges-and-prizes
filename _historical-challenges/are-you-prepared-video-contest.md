@@ -1,43 +1,44 @@
 ---
 ideaSubmitFormInstruction: ''
-startDate: '2012-10-31T00:00:00'
+startDate: '2011-08-29T00:00:00'
 votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 317
+id: 200
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: USAID and Humanity United launch challenges to award prize money to problem-solvers
-  who develop innovative concept papers and prototypes contributing to atrocity prevention.
-groupName: National Aeronautics and Space Administration
+tagline: We are encouraging individuals and organizations to take action before disaster
+  strikes by making an emergency kit and plan, and talking with their networks about
+  how to respond during a disaster.
+groupName: Department of Health and Human Services - Centers for Disease Control and
+  Prevention
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
 attributes:
 total-prize-awarded-cash: ''
-external-url: http://thetechchallenge.org
-submission-end: 11/29/2012 05:00 PM
+external-url: http://prepare.challengepost.com/submissions
+submission-end: 10/12/2011 03:59 AM
 why-use-prizes: ''
-submission-start: 10/31/2012 09:00 AM
-fiscal-year: FY13
+submission-start: '08/29/2011 04:00 AM'
+fiscal-year: FY 2011
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '$20,000'
+total-prize-offered-cash: ''
 campaign-owner: ''
 public-voting-start-date: ''
-legal-authority: America COMPETES
+legal-authority: Unspecified
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
-agency-id: '132'
+agency-id: '102'
 solicitation-of-submissions: ''
-total-submission-received: '88'
+total-submission-received: '26'
 total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
-non-monetary-incentives-awarded: '1st Place: $5000; 2nd Place: $3000; 3rd Place:
-      $2000 in 2 ideation challenges (Enablers and Capture challenges)'
+non-monetary-incentives-awarded: First place winner will have their video
 partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
@@ -49,13 +50,13 @@ judging-start-date: ''
 winners-announced-date: ''
 cash-prizes-and-non-cash-prize-awards: ''
 campaign-owner-email: ''
-solution-type: Ideas
+solution-type: Creative (design & multimedia)
 partner-agencies-non-federal: ''
-original-post-id: '55272'
+original-post-id: '51772'
 total-number-of-winners-awarded: ''
 hosting: Externally (Challenge details will redirect to external url)
 hide-challenge-funnel: 'Yes'
-type-of-challenge: Ideas
+type-of-challenge: Creative (design & multimedia)
 participation-requirements: ''
 number-of-phases: ''
 how-to-enter: ''
@@ -122,7 +123,7 @@ judging-criteria-description-9: ''
 judging-criteria-percentage-9: ''
 judging-criteria-9: ''
 prize-description-0: ''
-prize-cash-amount-0: '20000'
+prize-cash-amount-0: '0'
 prize-name-0: ''
 prize-description-1: ''
 prize-cash-amount-1: ''
@@ -232,13 +233,13 @@ hideCommentAuthor: false
 authorizedGroupIds: []
 userSubscriptionAllowed: false
 bannerImage: ''
-groupId: 281
+groupId: 164
 showTagline: true
-name: The Tech Challenge for Atrocity Prevention 2012
+name: Are You Prepared? Video Contest
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/the-tech-challenge-for-atrocity-prevention-2012/"
+permalink: "/challenge/are-you-prepared-video-contest/"
 layout: json-page
 ---

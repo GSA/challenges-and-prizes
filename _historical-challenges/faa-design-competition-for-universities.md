@@ -1,43 +1,43 @@
 ---
 ideaSubmitFormInstruction: ''
-startDate: '2012-10-31T00:00:00'
+startDate: '2010-11-01T00:00:00'
 votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 317
+id: 147
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: USAID and Humanity United launch challenges to award prize money to problem-solvers
-  who develop innovative concept papers and prototypes contributing to atrocity prevention.
-groupName: National Aeronautics and Space Administration
+tagline: The Federal Aviation Administration is sponsoring a national Design Competition
+  for Universities addressing airport design challenges.
+groupName: Department of Transportation
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
 attributes:
 total-prize-awarded-cash: ''
-external-url: http://thetechchallenge.org
-submission-end: 11/29/2012 05:00 PM
+external-url: http://faadesigncompetition.odu.edu/
+submission-end: 04/16/2011 03:00 AM
 why-use-prizes: ''
-submission-start: 10/31/2012 09:00 AM
-fiscal-year: FY13
+submission-start: 11/01/2010 04:00 AM
+fiscal-year: FY 2011
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$20,000'
 campaign-owner: ''
 public-voting-start-date: ''
-legal-authority: America COMPETES
+legal-authority: Unspecified
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
-agency-id: '132'
+agency-id: '212'
 solicitation-of-submissions: ''
-total-submission-received: '88'
+total-submission-received: Unknown
 total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
-non-monetary-incentives-awarded: '1st Place: $5000; 2nd Place: $3000; 3rd Place:
-      $2000 in 2 ideation challenges (Enablers and Capture challenges)'
+non-monetary-incentives-awarded: '1st: $2500; 2nd: $1500; 3rd: $1000; Honorable
+      Mention: $500'
 partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
@@ -51,11 +51,11 @@ cash-prizes-and-non-cash-prize-awards: ''
 campaign-owner-email: ''
 solution-type: Ideas
 partner-agencies-non-federal: ''
-original-post-id: '55272'
+original-post-id: '50212'
 total-number-of-winners-awarded: ''
 hosting: Externally (Challenge details will redirect to external url)
 hide-challenge-funnel: 'Yes'
-type-of-challenge: Ideas
+type-of-challenge: Scientific
 participation-requirements: ''
 number-of-phases: ''
 how-to-enter: ''
@@ -232,13 +232,13 @@ hideCommentAuthor: false
 authorizedGroupIds: []
 userSubscriptionAllowed: false
 bannerImage: ''
-groupId: 281
+groupId: 286
 showTagline: true
-name: The Tech Challenge for Atrocity Prevention 2012
+name: FAA Design Competition for Universities
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/the-tech-challenge-for-atrocity-prevention-2012/"
+permalink: "/challenge/faa-design-competition-for-universities/"
 layout: json-page
 ---

@@ -1,43 +1,45 @@
 ---
 ideaSubmitFormInstruction: ''
-startDate: '2012-10-31T00:00:00'
+startDate: '2011-12-01T00:00:00'
 votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 317
+id: 181
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: USAID and Humanity United launch challenges to award prize money to problem-solvers
-  who develop innovative concept papers and prototypes contributing to atrocity prevention.
-groupName: National Aeronautics and Space Administration
+tagline: Americas Home Energy Education Challenge is designed to teach students and
+  families about energy, its use, and the link between saving energy and money. There
+  are two parts of the program.
+groupName: Department of Energy - Energy Programs
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
 attributes:
 total-prize-awarded-cash: ''
-external-url: http://thetechchallenge.org
-submission-end: 11/29/2012 05:00 PM
+external-url: http://www.homeenergychallenge.org
+submission-end: 12/31/2011 11:00 PM
 why-use-prizes: ''
-submission-start: 10/31/2012 09:00 AM
-fiscal-year: FY13
+submission-start: 12/01/2011 12:00 AM
+fiscal-year: FY 2012
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '$20,000'
+total-prize-offered-cash: '$75,000'
 campaign-owner: ''
 public-voting-start-date: ''
-legal-authority: America COMPETES
+legal-authority: Unspecified
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
-agency-id: '132'
+agency-id: '202'
 solicitation-of-submissions: ''
-total-submission-received: '88'
+total-submission-received: Unknown
 total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
-non-monetary-incentives-awarded: '1st Place: $5000; 2nd Place: $3000; 3rd Place:
-      $2000 in 2 ideation challenges (Enablers and Capture challenges)'
+non-monetary-incentives-awarded: 'National winner: $10000; Regional winners: $5000;
+      Runners up: $500 each. Poster competition: winner-$1000 and honorable mentions
+      $500 each'
 partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
@@ -51,7 +53,7 @@ cash-prizes-and-non-cash-prize-awards: ''
 campaign-owner-email: ''
 solution-type: Ideas
 partner-agencies-non-federal: ''
-original-post-id: '55272'
+original-post-id: '51212'
 total-number-of-winners-awarded: ''
 hosting: Externally (Challenge details will redirect to external url)
 hide-challenge-funnel: 'Yes'
@@ -122,7 +124,7 @@ judging-criteria-description-9: ''
 judging-criteria-percentage-9: ''
 judging-criteria-9: ''
 prize-description-0: ''
-prize-cash-amount-0: '20000'
+prize-cash-amount-0: '75000'
 prize-name-0: ''
 prize-description-1: ''
 prize-cash-amount-1: ''
@@ -232,13 +234,13 @@ hideCommentAuthor: false
 authorizedGroupIds: []
 userSubscriptionAllowed: false
 bannerImage: ''
-groupId: 281
+groupId: 59
 showTagline: true
-name: The Tech Challenge for Atrocity Prevention 2012
+name: Americas Home Energy Education Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/the-tech-challenge-for-atrocity-prevention-2012/"
+permalink: "/challenge/americas-home-energy-education-challenge/"
 layout: json-page
 ---

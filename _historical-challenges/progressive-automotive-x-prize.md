@@ -1,43 +1,44 @@
 ---
 ideaSubmitFormInstruction: ''
-startDate: '2012-10-31T00:00:00'
+startDate: '2008-08-31T00:00:00'
 votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 317
+id: 111
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: USAID and Humanity United launch challenges to award prize money to problem-solvers
-  who develop innovative concept papers and prototypes contributing to atrocity prevention.
-groupName: National Aeronautics and Space Administration
+tagline: The goal of the multimillion dollar Progressive Insurance Automotive X PRIZE
+  is to inspire a new generation of viable, superefficient vehicles that help break
+  our addiction to oil and stem the effec
+groupName: Department of Energy - Energy Programs
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
 attributes:
 total-prize-awarded-cash: ''
-external-url: http://thetechchallenge.org
-submission-end: 11/29/2012 05:00 PM
+external-url: http://www.progressiveautoxprize.org/
+submission-end: '09/01/2010 11:59 PM'
 why-use-prizes: ''
-submission-start: 10/31/2012 09:00 AM
-fiscal-year: FY13
+submission-start: '08/31/2010 12:00 AM'
+fiscal-year: FY 2010
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '$20,000'
+total-prize-offered-cash: '$10,000,000'
 campaign-owner: ''
 public-voting-start-date: ''
-legal-authority: America COMPETES
+legal-authority: Unspecified
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
-agency-id: '132'
+agency-id: '202'
 solicitation-of-submissions: ''
-total-submission-received: '88'
+total-submission-received: '111'
 total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
-non-monetary-incentives-awarded: '1st Place: $5000; 2nd Place: $3000; 3rd Place:
-      $2000 in 2 ideation challenges (Enablers and Capture challenges)'
+non-monetary-incentives-awarded: "$5 million to first place; $2.5 to each second
+      and third"
 partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
@@ -49,13 +50,13 @@ judging-start-date: ''
 winners-announced-date: ''
 cash-prizes-and-non-cash-prize-awards: ''
 campaign-owner-email: ''
-solution-type: Ideas
+solution-type: Technology demonstration and hardware
 partner-agencies-non-federal: ''
-original-post-id: '55272'
+original-post-id: '49122'
 total-number-of-winners-awarded: ''
 hosting: Externally (Challenge details will redirect to external url)
 hide-challenge-funnel: 'Yes'
-type-of-challenge: Ideas
+type-of-challenge: Technology demonstration and hardware
 participation-requirements: ''
 number-of-phases: ''
 how-to-enter: ''
@@ -122,7 +123,7 @@ judging-criteria-description-9: ''
 judging-criteria-percentage-9: ''
 judging-criteria-9: ''
 prize-description-0: ''
-prize-cash-amount-0: '20000'
+prize-cash-amount-0: '10000000'
 prize-name-0: ''
 prize-description-1: ''
 prize-cash-amount-1: ''
@@ -220,7 +221,13 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: ''
+description: The goal of the multimillion dollar Progressive Insurance Automotive
+  X PRIZE is to inspire a new generation of viable, superefficient vehicles that help
+  break our addiction to oil and stem the effects of climate change. A project of
+  the X PRIZE Foundation, the Progressive Automotive X PRIZE is an independent, technology
+  neutral challenge for teams from around the world to compete in a multistage competition
+  for clean, production-capable vehicles that exceed 100 milespergallon energy equivalent
+  (MPGe).
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
@@ -232,13 +239,13 @@ hideCommentAuthor: false
 authorizedGroupIds: []
 userSubscriptionAllowed: false
 bannerImage: ''
-groupId: 281
+groupId: 59
 showTagline: true
-name: The Tech Challenge for Atrocity Prevention 2012
+name: Progressive Automotive X Prize
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/the-tech-challenge-for-atrocity-prevention-2012/"
+permalink: "/challenge/progressive-automotive-x-prize/"
 layout: json-page
 ---

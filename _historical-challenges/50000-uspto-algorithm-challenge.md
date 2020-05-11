@@ -1,44 +1,45 @@
 ---
 ideaSubmitFormInstruction: ''
-startDate: '2012-10-31T00:00:00'
+startDate: '2011-11-30T00:00:00'
 votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 317
+id: 226
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: USAID and Humanity United launch challenges to award prize money to problem-solvers
-  who develop innovative concept papers and prototypes contributing to atrocity prevention.
-groupName: National Aeronautics and Space Administration
+tagline: The US Patent and Trademark Office, together with the NASA Tournament Lab,
+  is launching a contest to develop new algorithms to aid in patent examination.
+groupName: Department of Commerce - U.S. Patent and Trademark Office
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
 attributes:
 total-prize-awarded-cash: ''
-external-url: http://thetechchallenge.org
-submission-end: 11/29/2012 05:00 PM
+external-url: http://www.topcoder.com/uspto
+submission-end: 12/06/2011 04:00 AM
 why-use-prizes: ''
-submission-start: 10/31/2012 09:00 AM
-fiscal-year: FY13
+submission-start: 11/30/2011 06:00 PM
+fiscal-year: FY 2012
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '$20,000'
-campaign-owner: ''
+total-prize-offered-cash: '$50,000'
+campaign-owner: NASA CoECI
 public-voting-start-date: ''
 legal-authority: America COMPETES
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
-agency-id: '132'
+agency-id: '3492'
 solicitation-of-submissions: ''
-total-submission-received: '88'
+total-submission-received: '27'
 total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
-non-monetary-incentives-awarded: '1st Place: $5000; 2nd Place: $3000; 3rd Place:
-      $2000 in 2 ideation challenges (Enablers and Capture challenges)'
-partner-agencies-federal: ''
+non-monetary-incentives-awarded: '1st: $10000; 2nd: $5000; remaining $35000 to
+      be distributed to winners in virtual competition rooms (1st: $5,000; 2nd: $2,000;
+      3rd: $1,500; 4th: $1,000; 5th: $500)'
+partner-agencies-federal: 'NASA Tournament Lab'
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''
@@ -48,14 +49,14 @@ hide-challenge-timeline: 'No'
 judging-start-date: ''
 winners-announced-date: ''
 cash-prizes-and-non-cash-prize-awards: ''
-campaign-owner-email: ''
-solution-type: Ideas
+campaign-owner-email: challenge@gsa.gov
+solution-type: Software and apps
 partner-agencies-non-federal: ''
-original-post-id: '55272'
+original-post-id: '52582'
 total-number-of-winners-awarded: ''
 hosting: Externally (Challenge details will redirect to external url)
 hide-challenge-funnel: 'Yes'
-type-of-challenge: Ideas
+type-of-challenge: Software and apps
 participation-requirements: ''
 number-of-phases: ''
 how-to-enter: ''
@@ -122,7 +123,7 @@ judging-criteria-description-9: ''
 judging-criteria-percentage-9: ''
 judging-criteria-9: ''
 prize-description-0: ''
-prize-cash-amount-0: '20000'
+prize-cash-amount-0: '50000'
 prize-name-0: ''
 prize-description-1: ''
 prize-cash-amount-1: ''
@@ -232,13 +233,13 @@ hideCommentAuthor: false
 authorizedGroupIds: []
 userSubscriptionAllowed: false
 bannerImage: ''
-groupId: 281
+groupId: 204
 showTagline: true
-name: The Tech Challenge for Atrocity Prevention 2012
+name: "$50,000 USPTO Algorithm Challenge"
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/the-tech-challenge-for-atrocity-prevention-2012/"
+permalink: "/challenge/50000-uspto-algorithm-challenge/"
 layout: json-page
 ---
