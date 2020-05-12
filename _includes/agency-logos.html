@@ -15,6 +15,10 @@
   		<img src="{{ site.baseurl }}/assets/images/agency/717px-NASA_logo.png" alt="NASA logo" height="120" title="NASA">
 	{% endif %}
 
+	{% if challenge.groupName contains "Social Security Administration" or challenge.agency contains "Social Security Administration" %}
+		<img src="{{ site.baseurl }}/assets/images/agency/SSA_logo.png" alt="SSA logo" height="120" title="SSA">
+	{% endif %}
+
 	{% if challenge.groupName contains "Forest Service" or challenge.agency contains "Forest Service" %}
   		<img src="{{ site.baseurl }}/assets/images/agency/usfs.png" alt="USFS logo" height="120" title="USFS">
 	{% endif %}
