@@ -14,7 +14,7 @@ tagline: Teams of innovative engineers, designers, manufacturers and other
   against COVID-19.
 agency: Department of Veterans Affairs
 partner-agencies-federal: VHA Innovation Ecosystem
-partner-agencies-non-federal: Challenge America, America Makes, Carahsoft,
+partners-non-federal: Challenge America, America Makes, Carahsoft,
   Salesforce, Balance Innovation and Design, Medallia, UHS, BioEnterprise,
   Acumen Solutions, Fix8, AMVETS
 type-of-challenge:
