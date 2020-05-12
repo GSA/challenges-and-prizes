@@ -210,6 +210,12 @@ description: >-
   Official responses to questions that have come in:
 
 
+  Question: Can the Challenge be extended by two weeks?
+
+
+  * *Answer: We understand that COVID-19 has created unique challenges that all companies and the Government have had to innovate around. This effort, as with all Government projects, has its own set of deadlines and metrics that we must meet independent of the COVID-19 impacts. Our position is that the additional two-week extension that was given to extend the submission deadline to 07 May 2020 is sufficient for interested organizations to develop the minimalistic white paper submission required for Phase I. We do not intend at this time to provide any additional extensions to this initial phase of this challenge.*
+
+
   Question: While carefully reading the threshold parameters, we came across “Physical dimension must have a single side that is less than 36” in circumference and 11.5” in radius”. It looks like that you are assuming the cylindrical object to hold four batteries and not rectangular. However, in order to have 36” circumference, is the 11.5” is radius or diameter. If its diameter, the calculations for circumference C (36”) = 2PI r = 2x3.14x5.75 would make sense. Please clarify.
 
 
@@ -676,6 +682,10 @@ The Prize Challenge winner(s) will be notified via email by the challenge manage
 #### Questions & Answers
 
 Official responses to questions that have come in:
+
+Question: Can the Challenge be extended by two weeks?
+
+* *Answer: We understand that COVID-19 has created unique challenges that all companies and the Government have had to innovate around. This effort, as with all Government projects, has its own set of deadlines and metrics that we must meet independent of the COVID-19 impacts. Our position is that the additional two-week extension that was given to extend the submission deadline to 07 May 2020 is sufficient for interested organizations to develop the minimalistic white paper submission required for Phase I. We do not intend at this time to provide any additional extensions to this initial phase of this challenge.*
 
 Question: While carefully reading the threshold parameters, we came across “Physical dimension must have a single side that is less than 36” in circumference and 11.5” in radius”. It looks like that you are assuming the cylindrical object to hold four batteries and not rectangular. However, in order to have 36” circumference, is the 11.5” is radius or diameter. If its diameter, the calculations for circumference C (36”) = 2PI r = 2x3.14x5.75 would make sense. Please clarify.
 
