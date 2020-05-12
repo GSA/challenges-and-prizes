@@ -1,60 +1,66 @@
 ---
 ideaSubmitFormInstruction: ''
-startDate: '2018-11-26T07:14:51'
+startDate: '2010-03-10T00:00:00'
 votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-challenge-id: 947
+id: 99
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: A first-of-its kind collaborative machine-learning competition to overcome
-  scarcity in the radio frequency spectrum.
-groupName: Department of Defense
+tagline: The USDA challenged software developers, game designers, students, and others
+  to develop fun and engaging software tools and games that drive children to eat
+  better and be more physically active.
+groupName: Department of Agriculture
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
 attributes:
 total-prize-awarded-cash: ''
-external-url: https://spectrumcollaborationchallenge.com/
-submission-end: 04/30/2018 12:00 AM
+external-url: http://appsforhealthykids.challengepost.com/submissions
+submission-end: '08/15/2010 07:00 AM'
 why-use-prizes: ''
-submission-start: 07/19/2016 12:00 AM
-fiscal-year: FY 2017
+submission-start: 03/10/2010 10:00 AM
+fiscal-year: FY 2010
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '$3,750,000'
-campaign-owner: Paul Tilghman
+total-prize-offered-cash: '$60,000'
+campaign-owner: ''
 public-voting-start-date: ''
-legal-authority: Other
+legal-authority: America COMPETES
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
-agency-id: 92|4052|6010
+agency-id: '72'
 solicitation-of-submissions: ''
-total-submission-received: ''
+total-submission-received: '94'
 total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
-non-monetary-incentives-awarded: ''
+non-monetary-incentives-awarded: '1st - Tool (1): $10,000; 2nd - Tool (1): $4,500;
+      Honorable Mention - Tool (1): $1,000; GE Healthymagination Student - Tool (1):
+      $10,000; Corporate Recognition - Tool (1): Public recognition; Popular Choice
+      - Tool (1): $4,500; 1st - Game (1): $10,000; 2nd - Game (1): $4,500; Honorable
+      Mention - Game (1): $1,000; GE Healthymagination - Game (1): $10,000; Popular
+      Choice - Game (1): $4,500; Public recognition'
 partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''
-rules: See rules document- https://spectrumcollaborationchallenge.com//wp-content/uploads/SC2-Rules-Document.pdf
+rules: ''
 submission-start-date-1: ''
 hide-challenge-timeline: 'No'
 judging-start-date: ''
 winners-announced-date: ''
 cash-prizes-and-non-cash-prize-awards: ''
-campaign-owner-email: paul.tilghman@darpa.mil
-solution-type: Technology demonstration and hardware
+campaign-owner-email: ''
+solution-type: Software and apps
 partner-agencies-non-federal: ''
-original-post-id: '167832'
+original-post-id: '48762'
 total-number-of-winners-awarded: ''
-hosting: Externally
+hosting: Externally (Challenge details will redirect to external url)
 hide-challenge-funnel: 'Yes'
-type-of-challenge: Scientific
+type-of-challenge: Software and apps
 participation-requirements: ''
 number-of-phases: ''
 how-to-enter: ''
@@ -121,11 +127,11 @@ judging-criteria-description-9: ''
 judging-criteria-percentage-9: ''
 judging-criteria-9: ''
 prize-description-0: ''
-prize-cash-amount-0: '2000000'
-prize-name-0: First Place
+prize-cash-amount-0: '60000'
+prize-name-0: ''
 prize-description-1: ''
-prize-cash-amount-1: '1000000'
-prize-name-1: Second Place
+prize-cash-amount-1: ''
+prize-name-1: ''
 prize-cash-amount-10: ''
 prize-name-10: ''
 prize-description-10: ''
@@ -154,8 +160,8 @@ prize-cash-amount-18: ''
 prize-name-18: ''
 prize-description-18: ''
 prize-description-2: ''
-prize-name-2: Third Place
-prize-cash-amount-2: '750000'
+prize-name-2: ''
+prize-cash-amount-2: ''
 prize-description-3: ''
 prize-name-3: ''
 prize-cash-amount-3: ''
@@ -219,42 +225,9 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: The DARPA Spectrum Collaboration Challenge (SC2) is the first-of-its-kind
-  collaborative machine-learning competition to overcome scarcity in the radio frequency
-  (RF) spectrum. Today, spectrum is managed by dividing it into rigid, exclusively
-  licensed bands. This human-driven process is not adaptive to the dynamics of supply
-  and demand, and thus cannot exploit the full potential capacity of the spectrum.
-  In SC2, competitors will reimagine a new, more efficient wireless paradigm in which
-  radio networks autonomously collaborate to dynamically determine how the spectrum
-  should be used moment to moment.    The team whose radio design most reliably achieves
-  successful communication in the presence of other competing radios could win as
-  much as $3,500,000.    Across the nation and around the world, the wireless revolution
-  is fueling a voracious demand for access to the radio frequency (RF) spectrum. In
-  the civilian sector, consumer devices from smartphones to wearable fitness recorders
-  to smart kitchen appliances are competing for bandwidth. In the military there is
-  a growing reliance on unmanned platforms, from underwater sensors to satellites,
-  and a push for broadband connectivity for every member of every Service. Managing
-  this increasing demand, while combating what appears to be a looming scarcity of
-  RF spectrum is a serious problem for our nation.    Today’s approach, which is nearly
-  a century old, isolates wireless systems by dividing the spectrum into rigid exclusively
-  licensed bands, which are allocated over large, geographically defined regions.
-  This approach rations access to the spectrum in exchange for the guarantee of interference-free
-  communication. However, it is human-driven and not adaptive to the dynamics of supply
-  and demand. At any given time, many allocated bands are unused by licensees while
-  other bands are overwhelmed, thus squandering the spectrum’s enormous capacity and
-  unnecessarily creating conditions of scarcity.    The Spectrum Collaboration Challenge
-  (SC2), aims to ensure that the exponentially growing number of military and civilian
-  wireless devices will have full access to the increasingly crowded electromagnetic
-  spectrum. Competitors will reimagine spectrum access strategies and develop a new
-  wireless paradigm in which radio networks will autonomously collaborate and reason
-  about how to share the RF spectrum, avoiding interference and jointly exploiting
-  opportunities to achieve the most efficient use of the available spectrum. SC2 teams
-  will develop these breakthrough capabilities by taking advantage of recent advances
-  in artificial intelligence (AI) and machine learning, and the expanding capacities
-  of software-defined radios. Ultimately this competition aims not only to challenge
-  innovators in academia and business to produce breakthroughs in collaborative AI,
-  but also to catalyze a new spectrum paradigm that can help usher in an era of spectrum
-  abundance.
+description: "$60,000 in prizes to create innovative, fun and engaging software tools
+  and games that encourage children directly or through their parents to make more
+  nutritious food choices and be more physically active."
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
@@ -266,13 +239,13 @@ hideCommentAuthor: false
 authorizedGroupIds: []
 userSubscriptionAllowed: false
 bannerImage: ''
-groupId: 27
+groupId: 273
 showTagline: true
-name: Spectrum Collaboration Challenge
+name: Apps for Healthy Kids
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/spectrum-collaboration-challenge/"
+permalink: "/challenge/apps-for-healthy-kids/"
 layout: json-page
 ---

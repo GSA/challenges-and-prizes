@@ -1,60 +1,67 @@
 ---
 ideaSubmitFormInstruction: ''
-startDate: '2018-11-26T07:14:51'
+startDate: '2018-11-26T07:10:10'
 votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-challenge-id: 947
+id: 893
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: A first-of-its kind collaborative machine-learning competition to overcome
-  scarcity in the radio frequency spectrum.
-groupName: Department of Defense
+tagline: Demonstrate solutions that improve hearables' clarity of conversation in
+  noisy settings
+groupName: National Science Foundation
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
 attributes:
 total-prize-awarded-cash: ''
-external-url: https://spectrumcollaborationchallenge.com/
-submission-end: 04/30/2018 12:00 AM
+external-url: 'https://ninesights.ninesigma.com/web/hearables/innovationcontest '
+submission-end: 06/26/2017 05:00 PM
 why-use-prizes: ''
-submission-start: 07/19/2016 12:00 AM
+submission-start: 04/25/2017 04:00 PM
 fiscal-year: FY 2017
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '$3,750,000'
-campaign-owner: Paul Tilghman
+total-prize-offered-cash: '$146,000'
+campaign-owner: Wendy Nilsen
 public-voting-start-date: ''
-legal-authority: Other
+legal-authority: America COMPETES
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
-agency-id: 92|4052|6010
+agency-id: '272'
 solicitation-of-submissions: ''
 total-submission-received: ''
 total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
-non-monetary-incentives-awarded: ''
+non-monetary-incentives-awarded: "The total prize pool is made up of US$146,000
+  in cash prizes and the opportunity to present a poster about the winning solutions
+  at Ubicomp 2017 in Maui, Hawaii.  \r\n \r\nFirst Place: US$80,000 and an invitation
+  to present at Ubicomp 2017\r\nSecond Place: US$60,000 and an invitation to present
+  at Ubicomp 2017\r\nThird Place: An invitation to present at Ubicomp 2017 and
+  US$3,000 towards expenses\r\nFourth Place: An invitation to present at Ubicomp
+  2017 and US$3,000 towards expenses\r\n"
 partner-agencies-federal: ''
-judging-end-date: ''
+judging-end-date: '09/01/2017 12:00 AM'
 solicitation-methods: ''
 advancing-the-agency-mission: ''
-rules: See rules document- https://spectrumcollaborationchallenge.com//wp-content/uploads/SC2-Rules-Document.pdf
+rules: Please see the <a href="https://ninesights.ninesigma.com/documents/16909748/0/NSF+T%26Cs+4.24.17/55e1b49c-9727-46d3-9ecd-e8e31b5d679c">Official
+  Challenge Rules</a>.
 submission-start-date-1: ''
 hide-challenge-timeline: 'No'
-judging-start-date: ''
+judging-start-date: 06/27/2017 12:00 AM
 winners-announced-date: ''
 cash-prizes-and-non-cash-prize-awards: ''
-campaign-owner-email: paul.tilghman@darpa.mil
-solution-type: Technology demonstration and hardware
+campaign-owner-email: wnilsen@nsf.gov
+solution-type: Software and apps
 partner-agencies-non-federal: ''
-original-post-id: '167832'
+original-post-id: '161670'
 total-number-of-winners-awarded: ''
-hosting: Externally
+hosting: Hosted on this platform
 hide-challenge-funnel: 'Yes'
-type-of-challenge: Scientific
+type-of-challenge: Software and apps
 participation-requirements: ''
 number-of-phases: ''
 how-to-enter: ''
@@ -120,11 +127,13 @@ judging-criteria-8: ''
 judging-criteria-description-9: ''
 judging-criteria-percentage-9: ''
 judging-criteria-9: ''
-prize-description-0: ''
-prize-cash-amount-0: '2000000'
-prize-name-0: First Place
-prize-description-1: ''
-prize-cash-amount-1: '1000000'
+prize-description-0: In addition to the cash purse, winner(s) will receive an
+  invitation to present at Ubicomp 2017.
+prize-cash-amount-0: '80000'
+prize-name-0: 'First Place '
+prize-description-1: Along with cash prizes, winner(s) will receive an invitation
+  to present at Ubicomp 2017.
+prize-cash-amount-1: '60000'
 prize-name-1: Second Place
 prize-cash-amount-10: ''
 prize-name-10: ''
@@ -153,12 +162,14 @@ prize-cash-amount-17: ''
 prize-cash-amount-18: ''
 prize-name-18: ''
 prize-description-18: ''
-prize-description-2: ''
+prize-description-2: Winner(s) will receive an invitation to present at Ubicomp
+  2017 and $3,000 towards expenses.
 prize-name-2: Third Place
-prize-cash-amount-2: '750000'
-prize-description-3: ''
-prize-name-3: ''
-prize-cash-amount-3: ''
+prize-cash-amount-2: '3000'
+prize-description-3: Winner(s) will receive an invitation to present at Ubicomp
+  2017 and $3,000 towards expenses.
+prize-name-3: Fourth Place
+prize-cash-amount-3: '3000'
 prize-cash-amount-4: ''
 prize-name-4: ''
 prize-description-4: ''
@@ -219,42 +230,24 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: The DARPA Spectrum Collaboration Challenge (SC2) is the first-of-its-kind
-  collaborative machine-learning competition to overcome scarcity in the radio frequency
-  (RF) spectrum. Today, spectrum is managed by dividing it into rigid, exclusively
-  licensed bands. This human-driven process is not adaptive to the dynamics of supply
-  and demand, and thus cannot exploit the full potential capacity of the spectrum.
-  In SC2, competitors will reimagine a new, more efficient wireless paradigm in which
-  radio networks autonomously collaborate to dynamically determine how the spectrum
-  should be used moment to moment.    The team whose radio design most reliably achieves
-  successful communication in the presence of other competing radios could win as
-  much as $3,500,000.    Across the nation and around the world, the wireless revolution
-  is fueling a voracious demand for access to the radio frequency (RF) spectrum. In
-  the civilian sector, consumer devices from smartphones to wearable fitness recorders
-  to smart kitchen appliances are competing for bandwidth. In the military there is
-  a growing reliance on unmanned platforms, from underwater sensors to satellites,
-  and a push for broadband connectivity for every member of every Service. Managing
-  this increasing demand, while combating what appears to be a looming scarcity of
-  RF spectrum is a serious problem for our nation.    Today’s approach, which is nearly
-  a century old, isolates wireless systems by dividing the spectrum into rigid exclusively
-  licensed bands, which are allocated over large, geographically defined regions.
-  This approach rations access to the spectrum in exchange for the guarantee of interference-free
-  communication. However, it is human-driven and not adaptive to the dynamics of supply
-  and demand. At any given time, many allocated bands are unused by licensees while
-  other bands are overwhelmed, thus squandering the spectrum’s enormous capacity and
-  unnecessarily creating conditions of scarcity.    The Spectrum Collaboration Challenge
-  (SC2), aims to ensure that the exponentially growing number of military and civilian
-  wireless devices will have full access to the increasingly crowded electromagnetic
-  spectrum. Competitors will reimagine spectrum access strategies and develop a new
-  wireless paradigm in which radio networks will autonomously collaborate and reason
-  about how to share the RF spectrum, avoiding interference and jointly exploiting
-  opportunities to achieve the most efficient use of the available spectrum. SC2 teams
-  will develop these breakthrough capabilities by taking advantage of recent advances
-  in artificial intelligence (AI) and machine learning, and the expanding capacities
-  of software-defined radios. Ultimately this competition aims not only to challenge
-  innovators in academia and business to produce breakthroughs in collaborative AI,
-  but also to catalyze a new spectrum paradigm that can help usher in an era of spectrum
-  abundance.
+description: Think about your friends, family, neighbors, and co-workers.  You probably
+  know someone with hearing loss—an elderly grandparent or a veteran who served our
+  country—and you probably know how hearing loss impacts one’s ability to communicate. 
+  According to the Committee on Accessible and Affordable Hearing Health Care for
+  Adults, there are 30 million Americans over 12 that have hearing loss, and hearing
+  loss worsens as we age.  Many with hearing loss do not seek or receive hearing health
+  care because of cost, availability of services, stigma, lack of realization that
+  they have hearing loss, and belief that nothing can help them.    While some hearable
+  technologies (i.e., hearing aids and assistive listening devices) can enhance hearing
+  for many individuals, there are situations where these technologies do not perform
+  optimally.  One particularly challenging situation for people with hearing impairment
+  is understanding conversation in a noisy environment such as a restaurant.  Inability
+  to hear clearly because of background noise and intermittent peaks in noise makes
+  following a conversation difficult.  Amplification of speech sounds will also amplify
+  the background noise.    The National Science Foundation seeks solutions to process
+  audio data to augment speech recognition in noisy environments.  The goal of this
+  challenge is to demonstrate solutions such as algorithms or methods that improve
+  clarity of conversation in a noisy setting.
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
@@ -266,13 +259,13 @@ hideCommentAuthor: false
 authorizedGroupIds: []
 userSubscriptionAllowed: false
 bannerImage: ''
-groupId: 27
+groupId: 21
 showTagline: true
-name: Spectrum Collaboration Challenge
+name: Hearables Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/spectrum-collaboration-challenge/"
+permalink: "/challenge/hearables-challenge/"
 layout: json-page
 ---

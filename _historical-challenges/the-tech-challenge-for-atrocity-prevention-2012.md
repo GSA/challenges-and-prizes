@@ -38,7 +38,7 @@ show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
 non-monetary-incentives-awarded: '1st Place: $5000; 2nd Place: $3000; 3rd Place:
       $2000 in 2 ideation challenges (Enablers and Capture challenges)'
-partner-agencies-federal: '0'
+partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''

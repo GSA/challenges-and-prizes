@@ -278,7 +278,7 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: 'With recent advancements in deep learning, the capabilities of automatic
+description: '<p>With recent advancements in deep learning, the capabilities of automatic
   face recognition has been significantly increased. However, face recognition in
   unconstrained environment with non-cooperative users is still a research challenge,
   pertinent for users such as law enforcement agencies. While several covariates such
@@ -292,33 +292,34 @@ description: 'With recent advancements in deep learning, the capabilities of aut
   of 1<sup>st</sup> International Workshop on Disguised Face in the Wild at CVPR 2018,
   a competition is being held in which participants are asked to show their results
   on the Disguised Faces in the Wild (DFW) database.  More details on the workshop
-  and competition are available at:  <ul>    <li><a href="http://iab-rubric.org/DFW/dfw.html">http://iab-rubric.org/DFW/dfw.html</a>.</li>  </ul>  Prize
-  awards for the DFW 2018 Competition are provided by the Intelligence Advanced Research
+  and competition are available at: <a href="http://iab-rubric.org/DFW/dfw.html">http://iab-rubric.org/DFW/dfw.html</a>.</p>
+  <p>Prize awards for the DFW 2018 Competition are provided by the Intelligence Advanced Research
   Projects Activity (IARPA), within the Office of the Director of National Intelligence
-  (ODNI).    <strong>Two phases of the competition and winners:</strong>    The competition
+  (ODNI).<br>    <strong>Two phases of the competition and winners:</strong>    The competition
   involves two phases. The early phase involves the participants with early access
   to the data with an opportunity to submit a paper describing their approach. The
   second phase participants will have more time to submit their score results but
   will not be able to submit a written paper. However, the second phase participants
   may be invited to orally present their work based on their performance results at
-  the CVPR workshop.  Teams may elect to participate in either or both phases.    <span
-  style="text-decoration: underline;"><strong>Phase 1:</strong></span>  <ul>    <li><strong>Enrollment
+  the CVPR workshop.  Teams may elect to participate in either or both phases.</p>
+  <p><strong>Phase 1:</strong>  <ul>    <li><strong>Enrollment
   deadline for the overall competition:</strong> February 23, 2018</li>    <li><strong>Result
-  Submissions due to Organizers:</strong> March 05, 2018  <span style="color: #ff0000;">UPDATED</span></li>    <li><strong>Invitation
+  Submissions due to Organizers:</strong> March 05, 2018 - UPDATED</li>    <li><strong>Invitation
   to top performing participants for paper submission (results will not be released
   publicly):</strong> Mar 07, 2018</li>    <li><strong>Paper submissions by selected
   Competition Participants due to organizers:</strong> Mar 20, 2018</li>    <li><strong>Notification
   provided authors:</strong> Apr 05, 2018</li>    <li><strong>Camera-ready deadline:</strong>
-  Apr 09, 2018</li>  </ul>  <span style="text-decoration: underline;"><strong>Phase
-  2:</strong></span>  <ul>    <li><strong>Final results submissions to Organizers:</strong>
+  Apr 09, 2018</li>  </ul>  <strong>Phase
+  2:</strong>  <ul>    <li><strong>Final results submissions to Organizers:</strong>
   May 01, 2018</li>    <li><strong>Winners of the competition announced based on final
-  Comparative Results:</strong> May 10, 2018</li>  </ul>  Results will be announced
+  Comparative Results:</strong> May 10, 2018</li>  </ul></p>
+  <p>Results will be announced
   at the end of Phase 2 based on submission received up until the May 1<sup>st</sup>
   deadline. Participants are permitted to submit one set of results to Phase 1 and
   then resubmit a second set of revised/final results to Phase 2.  No paper submission
   is possible for participants who <strong>only</strong> participate in Phase 2, but
   winners will be invited to give an oral presentation on their work at the CVPR workshop.    <strong>Questions?</strong>    In
-  case of any difficulties or questions, please email to <a href="mailto:rsingh@iiitd.ac.in">rsingh@iiitd.ac.in</a>.'
+  case of any difficulties or questions, please email to <a href="mailto:rsingh@iiitd.ac.in">rsingh@iiitd.ac.in</a>.</p>'
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
