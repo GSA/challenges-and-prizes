@@ -7,7 +7,7 @@ challenge-id: "1126"
 status: open
 sidenav: true
 card-image: /assets/netlify-uploads/covidmaker.png
-agency-logo: /assets/netlify-uploads/valogo.jpg
+agency-logo: /assets/netlify-uploads/valogo.png
 tagline: Teams of innovative engineers, designers, manufacturers and other
   subject-matter experts will be charged with developing innovative solutions to
   the challenges frontline essential workers encounter in their daily fight
