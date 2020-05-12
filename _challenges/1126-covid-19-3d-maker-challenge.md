@@ -6,7 +6,7 @@ permalink: /challenge/covid-19-3d-maker-challenge/
 challenge-id: "1126"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/covid-19_maker_challenge.png
+card-image: /assets/netlify-uploads/covidmaker.png
 agency-logo: /assets/netlify-uploads/valogo.jpg
 tagline: Teams of innovative engineers, designers, manufacturers and other
   subject-matter experts will be charged with developing innovative solutions to
