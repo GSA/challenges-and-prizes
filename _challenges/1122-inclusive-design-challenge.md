@@ -43,7 +43,7 @@ description: >-
   DOT is eager to realize the potential mobility benefits that ADS-DVs could bring to people with disabilities. ADS-DVs, could offer greater levels of mobility for individuals who either cannot drive or require a vehicle with extensive modifications, but only if their needs are considered explicitly and incorporated into future ADS-DV designs. DOT recognizes that the diversity of disabilities and resulting implications for vehicle design features makes this a complicated engineering challenge. While some mobility services (e.g., public transportation or for-hire vehicles, such as taxis) currently incorporate some accessibility features, few of these features are universally included in passenger vehicles as part of vehicle design. Meanwhile, aftermarket solutions tend to be expensive and cumbersome.
 
 
-  Several recent publications are provided at [www.transportation.gov/accessibility/inclusivedesign](www.transportation.gov/accessibility/inclusivedesign) to offer further information on the needs, challenges, and opportunities that ADS-DVs introduce for people with disabilities.
+  Several recent publications are provided at [www.transportation.gov/accessibility/inclusivedesign](https://www.transportation.gov/accessibility/inclusivedesign) to offer further information on the needs, challenges, and opportunities that ADS-DVs introduce for people with disabilities.
 
 
   #### Challenge Details
@@ -378,7 +378,7 @@ This Challenge seeks inclusive solutions, referring to features and designs that
 
 DOT is eager to realize the potential mobility benefits that ADS-DVs could bring to people with disabilities. ADS-DVs, could offer greater levels of mobility for individuals who either cannot drive or require a vehicle with extensive modifications, but only if their needs are considered explicitly and incorporated into future ADS-DV designs. DOT recognizes that the diversity of disabilities and resulting implications for vehicle design features makes this a complicated engineering challenge. While some mobility services (e.g., public transportation or for-hire vehicles, such as taxis) currently incorporate some accessibility features, few of these features are universally included in passenger vehicles as part of vehicle design. Meanwhile, aftermarket solutions tend to be expensive and cumbersome.
 
-Several recent publications are provided at [www.transportation.gov/accessibility/inclusivedesign](www.transportation.gov/accessibility/inclusivedesign) to offer further information on the needs, challenges, and opportunities that ADS-DVs introduce for people with disabilities.
+Several recent publications are provided at [www.transportation.gov/accessibility/inclusivedesign](https://www.transportation.gov/accessibility/inclusivedesign) to offer further information on the needs, challenges, and opportunities that ADS-DVs introduce for people with disabilities.
 
 #### Challenge Details
 
