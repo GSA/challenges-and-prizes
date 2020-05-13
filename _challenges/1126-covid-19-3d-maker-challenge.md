@@ -8,13 +8,12 @@ status: open
 sidenav: true
 card-image: /assets/netlify-uploads/covidmaker.png
 agency-logo: /assets/netlify-uploads/valogo.png
-tagline: Teams of innovative engineers, designers, manufacturers and other
-  subject-matter experts will be charged with developing innovative solutions to
+tagline: Teams of subject-matter experts will develop innovative solutions to
   the challenges frontline essential workers encounter in their daily fight
   against COVID-19.
 agency: Department of Veterans Affairs
 partner-agencies-federal: VHA Innovation Ecosystem
-partners-non-federal: Challenge America, America Makes, Carahsoft,
+partner-agencies-non-federal: Challenge America, America Makes, Carahsoft,
   Salesforce, Balance Innovation and Design, Medallia, UHS, BioEnterprise,
   Acumen Solutions, Fix8, AMVETS
 type-of-challenge:
