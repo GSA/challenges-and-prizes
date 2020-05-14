@@ -1,5 +1,5 @@
 ---
-title: A ‘Model’ for Government
+title: A ‘Model’ for Government: Federal agencies advance infectious disease modeling and forecasting with competitions
 layout: post
 date: May 13, 2020
 author: Tammy White
@@ -9,11 +9,13 @@ image_alt_text: Concept of computer model on coronavirus impact
 ---
  
 Dr. Jeffrey Shaman and his Columbia University team work mostly from home these days. 
+
 Shaman has spent nearly two decades studying the effects of atmospheric conditions on mosquitos and the illnesses they carry, such as St. Louis encephalitis and West Nile Virus.
 
 But today, the New York-based professor is tracking another virus.
 
 On several weekly calls facilitated by the Centers for Disease Control and Prevention (CDC), Shaman and other researchers are discussing inference, operations forecasts and projections for COVID-19, the disease at the center of a global pandemic that has resulted in more than 239,000 deaths worldwide.
+
 Shaman and his team know about infectious disease projections.
 
 In 2014, they claimed the $75,000 top prize in the CDC’s <a href="https://www.challenge.gov/toolkit/case-studies/cdc-predict-the-flu/">Predict the Influenza Season Challenge</a>. The prize competition challenged participants to develop more advanced, real-time flu modeling to inform prevention strategies and control tactics.
