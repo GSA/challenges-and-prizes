@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 778
+challenge-id: 778
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -21,7 +21,7 @@ external-url: https://herox.com/SkyForAll
 submission-end: 02/26/2016 12:00 AM
 why-use-prizes: ''
 submission-start: 12/17/2015 12:00 AM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$15,000'
@@ -52,7 +52,7 @@ solution-type: Ideas
 partner-agencies-non-federal: ''
 original-post-id: '110111'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Ideas
 participation-requirements: ''

@@ -1,6 +1,6 @@
 
 	{% if page.groupName contains "U.S. Geological Survey" or page.agency contains "U.S. Geological Survey" %}
-  		<img src="{{ site.baseurl }}/assets/images/agency/usgs.jpg" alt="USGS logo" title="USGS">
+  		<img src="{{ site.baseurl }}/assets/images/agency/USGS_logo.png" alt="USGS logo" title="USGS">
 	{% endif %}
 
 	{% if page.groupName contains "National Science Foundation" or page.agency contains "National Science Foundation" %}
@@ -8,11 +8,15 @@
 	{% endif %}
 
 	{% if page.groupName contains "Bureau of Land Management" or page.agency contains "Bureau of Land Management" %}
-  		<img src="{{ site.baseurl }}/assets/images/agency/blm.jpg" alt="BLM logo" title="BLM">
+  		<img src="{{ site.baseurl }}/assets/images/agency/US-DOI-BureauOfLandManagement-Logo.png" alt="BLM logo" title="BLM">
 	{% endif %}
 
 	{% if page.groupName contains "National Aeronautics and Space Administration" or page.agency contains "National Aeronautics and Space Administration" %}
   		<img src="{{ site.baseurl }}/assets/images/agency/717px-NASA_logo.png" alt="NASA logo" title="NASA">
+	{% endif %}
+
+	{% if page.groupName contains "Social Security Administration" or page.agency contains "Social Security Administration" %}
+  		<img src="{{ site.baseurl }}/assets/images/agency/SSA_logo.png" alt="SSA logo" title="SSA">
 	{% endif %}
 
 	{% if page.groupName contains "Forest Service" or page.agency contains "Forest Service" %}
@@ -52,7 +56,7 @@
 	{% endif %}
 
 	{% if page.groupName contains "Centers for Disease Control" or page.agency contains "Centers for Disease Control" %}
-  		<img src="{{ site.baseurl }}/assets/images/agency/256px-US_CDC_logo.png" alt="CDC logo" height="100" title="CDC">
+  		<img src="{{ site.baseurl }}/assets/images/agency/256px-US_CDC_logo.png" alt="CDC logo" title="CDC">
 	{% endif %}
 
 	{% if page.groupName contains "Smithsonian Institution" or page.agency contains "Smithsonian Institution" %}
@@ -80,19 +84,9 @@
 	{% endif %}
 
 	{% if page.groupName contains "National Nuclear Security Administration" or page.agency contains "National Nuclear Security Administration" %}
-  		<img src="{{ site.baseurl }}/assets/images/agency/US-NationalNuclearSecurityAdmin-Logo.png" alt="DOE logo" title="DOE">
-	{% endif %}
-
-	{% if page.groupName == "Department of Energy - Energy Programs" or page.agency == "Department of Energy - Energy Programs" %}
-  		<img src="{{ site.baseurl }}/assets/images/agency/256px-Seal_of_the_United_States_Department_of_Energy.png" alt="DOE logo" title="DOE">
-	{% endif %}
-
-	{% if page.groupName == "Department of Energy - Office of Energy Efficiency & Renewable Energy" or page.agency == "Department of Energy - Office of Energy Efficiency & Renewable Energy" %}
-  		<img src="{{ site.baseurl }}/assets/images/agency/256px-Seal_of_the_United_States_Department_of_Energy.png" alt="DOE logo" title="DOE">
-	{% endif %}
-
-	{% if page.groupName == "Department of Energy" or page.agency == "Department of Energy" %}
-  		<img src="{{ site.baseurl }}/assets/images/agency/256px-Seal_of_the_United_States_Department_of_Energy.png" alt="DOE logo" title="DOE">
+		  <img src="{{ site.baseurl }}/assets/images/agency/US-NationalNuclearSecurityAdmin-Logo.png" alt="DOE logo" title="DOE">
+		{% elsif page.groupName contains "Department of Energy" or page.agency contains "Department of Energy" %}
+		  <img src="{{ site.baseurl }}/assets/images/agency/256px-Seal_of_the_United_States_Department_of_Energy.png" alt="DOE logo" title="DOE">
 	{% endif %}
 
 	{% if page.groupName contains "Department of State" or page.agency contains "Department of State" %}
@@ -144,6 +138,10 @@
 	{% endif %}
 
 	{% if page.groupName == "Department of Health and Human Services - Office of the Assistant Secretary for Preparedness and Response" or page.agency == "Department of Health and Human Services - Office of the Assistant Secretary for Preparedness and Response" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/hhs.png" alt="HHS logo" title="HHS">
+	{% endif %}
+
+	{% if page.groupName == "Department of Health and Human Services - Office of the National Coordination for Health Information Technology" or page.agency == "Department of Health and Human Services - Office of the National Coordination for Health Information Technology" %}
 	<img src="{{ site.baseurl }}/assets/images/agency/hhs.png" alt="HHS logo" title="HHS">
 	{% endif %}
 	
@@ -199,6 +197,10 @@
 	<img src="{{ site.baseurl }}/assets/images/agency/dept_of_justice.png" alt="Department of Justice - Office of Justice Programs logo" title="Department of Justice - Office of Justice Programs">
 	{% endif %}
 
+	{% if page.groupName == "Department of Justice" or page.agency == "Department of Justice" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/dept_of_justice.png" alt="Department of Justice - Office of Justice Programs logo" title="Department of Justice - Office of Justice Programs">
+	{% endif %}
+
 	{% if page.groupName contains "Federal Maritime Commission" or page.agency contains "Federal Maritime Commission" %}
 	<img src="{{ site.baseurl }}/assets/images/agency/fed_maritime_commission_large.jpg" alt="Federal Maritime Commission logo" title="Federal Maritime Commission logo">
 	{% endif %}
@@ -235,14 +237,29 @@
 	<img src="{{ site.baseurl }}/assets/images/agency/ODNI.png" alt="ODNI logo" title="ODNI logo">
 	{% endif %}
 
+	{% if page.groupName == "Consumer Product Safety Commission" or page.agency == "Consumer Product Safety Commission" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/cpsc.png" alt="CPSC logo" title="CPSC logo">
+	{% endif %}
+
+	{% if page.groupName contains "Office of Management and Budget" or page.agency contains "Office of Management and Budget" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/omb.png" alt="OMB logo" title="OMB logo">
+	{% endif %}
+
+	{% if page.groupName == "Department of Commerce" or page.agency == "Department of Commerce" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/doc_logo.png" alt="Commerce logo" title="Commerce logo">
+	{% endif %}
+
+	{% if page.groupName contains "White House" or page.agency contains "White House" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/white_house-logo.jpeg" alt="White House logo" title="White House logo">
+	{% endif %}
 
 
+	
 	
 
 
 
-
-
+	
 
 
 

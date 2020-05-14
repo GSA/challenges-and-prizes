@@ -5,7 +5,7 @@ votingAllowed: true
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 45
+challenge-id: 45
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: false
@@ -24,7 +24,7 @@ external-url: http://www.nasa.gov/cubequest
 submission-end: 12/31/2018 12:00 AM
 why-use-prizes: ''
 submission-start: 12/01/2014 12:00 AM
-fiscal-year: FY 2019
+fiscal-year: FY19
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$5,000,000'
@@ -579,7 +579,7 @@ solution-type: Technology demonstration and hardware
 partner-agencies-non-federal: Ames Reseach Center, Marshall Space Flight Center
 original-post-id: '70822'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Creative (design & multimedia)
 participation-requirements: ''

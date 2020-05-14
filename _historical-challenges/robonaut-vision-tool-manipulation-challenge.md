@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 804
+challenge-id: 804
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -22,7 +22,7 @@ external-url: https://community.topcoder.com/tc?module=MatchDetails&rd=16672
 submission-end: 03/08/2016 12:00 AM
 why-use-prizes: ''
 submission-start: 02/23/2016 12:00 AM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$10,000'
@@ -53,7 +53,7 @@ solution-type: Technology demonstration and hardware
 partner-agencies-non-federal: ''
 original-post-id: '127901'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Technology demonstration and hardware
 participation-requirements: ''

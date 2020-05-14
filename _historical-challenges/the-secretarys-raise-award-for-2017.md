@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 902
+challenge-id: 902
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -20,7 +20,7 @@ external-url: http://www.faa.gov/about/office_org/headquarters_offices/ang/offic
 submission-end: 06/30/2017 11:59 PM
 why-use-prizes: ''
 submission-start: 04/25/2017 12:00 AM
-fiscal-year: FY 2017
+fiscal-year: FY17
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''
@@ -108,7 +108,7 @@ solution-type: Nominations
 partner-agencies-non-federal: ''
 original-post-id: '161990'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Scientific
 participation-requirements: ''

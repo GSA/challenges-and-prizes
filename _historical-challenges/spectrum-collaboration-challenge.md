@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 947
+challenge-id: 947
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -21,7 +21,7 @@ external-url: https://spectrumcollaborationchallenge.com/
 submission-end: 04/30/2018 12:00 AM
 why-use-prizes: ''
 submission-start: 07/19/2016 12:00 AM
-fiscal-year: FY 2017
+fiscal-year: FY17
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$3,750,000'
@@ -41,7 +41,7 @@ partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''
-rules: See rules document: https://spectrumcollaborationchallenge.com//wp-content/uploads/SC2-Rules-Document.pdf
+rules: See rules document- https://spectrumcollaborationchallenge.com//wp-content/uploads/SC2-Rules-Document.pdf
 submission-start-date-1: ''
 hide-challenge-timeline: 'No'
 judging-start-date: ''
@@ -52,7 +52,7 @@ solution-type: Technology demonstration and hardware
 partner-agencies-non-federal: ''
 original-post-id: '167832'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Scientific
 participation-requirements: ''

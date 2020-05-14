@@ -3,7 +3,7 @@ layout: front-matter-data
 permalink: /challenge/2020-debut-challenge/
 challenge-id: 1087
 status: open
-sidenav: false
+sidenav: true
 card-image: /assets/images/cards/DEBUT.png
 agency-logo: NIH_Master_Logo_Vertical_2Color.jpg
 challenge-title: 2020 Design by Biomedical Undergraduate Teams (DEBUT) Challenge
@@ -17,11 +17,13 @@ type-of-challenge: Technology demonstration and hardware, Scientific, Software a
 submission-start: 2020/01/13 12:00 AM
 submission-end: 2020/06/01 11:59 PM
 submission-link:
-prizes: true
+prize: true
 fiscal-year: FY20
 legal-authority: America COMPETES Act
 challenge-manager: Zeynep Erim
 challenge-manager-email: Zeynep.Erim@nih.gov
+point-of-contact: Zeynep.Erim@nih.gov
+description: <p>The National Institute of Biomedical Imaging and Bioengineering (NIBIB) and VentureWell are challenging undergraduate student teams to develop technology solutions to unmet needs in any area of healthcare. Two NIH partners, NIH Office of AIDS Research and the National Institute of Minority and Health Disparities, are providing a prize each for 1) technologies for HIV/AIDS prevention and/or care, and 2) technologies for underrepresented populations and/or for low-resource settings. The challenge offers a total of $100,000 in prizes and 12 chances to win a prize!</p>
 ---
 
 <!-- Description start -->

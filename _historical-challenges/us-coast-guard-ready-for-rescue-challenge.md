@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 13
+challenge-id: 13
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: false
@@ -20,7 +20,7 @@ external-url: http://readyforrescuechallenge.com
 submission-end: 10/15/2018 04:59 PM
 why-use-prizes: ''
 submission-start: '09/05/2018 12:00 PM'
-fiscal-year: FY 2019, FY 2018
+fiscal-year: FY19, FY18
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''
@@ -186,7 +186,7 @@ solution-type: Software and apps
 partner-agencies-non-federal: ''
 original-post-id: ''
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 type-of-challenge: Software and apps
 participation-requirements: ''
 number-of-phases: ''

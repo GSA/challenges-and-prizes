@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 954
+challenge-id: 954
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -22,7 +22,7 @@ external-url: https://tongal.com/l/55fz9wra0awp
 submission-end: '08/01/2018 12:00 AM'
 why-use-prizes: ''
 submission-start: 03/19/2018 12:00 AM
-fiscal-year: FY 2018
+fiscal-year: FY18
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$26,000'
@@ -53,7 +53,7 @@ solution-type: Creative (design & multimedia)
 partner-agencies-non-federal: ''
 original-post-id: '175651'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Creative (design & multimedia)
 participation-requirements: ''

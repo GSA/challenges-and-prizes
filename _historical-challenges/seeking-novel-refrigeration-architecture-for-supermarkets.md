@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 818
+challenge-id: 818
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -20,7 +20,7 @@ external-url: http://jump.ideascale.com/a/ideas/top/campaign-filter/byids/campai
 submission-end: 05/16/2016 12:00 AM
 why-use-prizes: ''
 submission-start: 02/29/2016 12:00 AM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''
@@ -51,7 +51,7 @@ solution-type: Ideas
 partner-agencies-non-federal: ''
 original-post-id: '135791'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Scientific
 participation-requirements: ''

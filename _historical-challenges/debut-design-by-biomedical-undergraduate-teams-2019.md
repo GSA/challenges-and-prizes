@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 984
+challenge-id: 984
 moderatorAdminOnlyIdeasEnabled: true
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: false
@@ -21,7 +21,7 @@ external-url: https://venturewell.org/debut/
 submission-end: 05/31/2019 11:59 PM
 why-use-prizes: ''
 submission-start: 02/01/2019 09:00 AM
-fiscal-year: FY 2019
+fiscal-year: FY19
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

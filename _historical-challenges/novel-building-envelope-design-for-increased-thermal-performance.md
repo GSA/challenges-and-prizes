@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 883
+challenge-id: 883
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -21,7 +21,7 @@ external-url: https://jump.ideascale.com/a/ideas/top/campaign-filter/byids/campa
 submission-end: 06/11/2017 11:59 PM
 why-use-prizes: ''
 submission-start: 03/23/2017 12:00 AM
-fiscal-year: FY 2017
+fiscal-year: FY17
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$5,000'
@@ -52,7 +52,7 @@ solution-type: Technology demonstration and hardware
 partner-agencies-non-federal: ''
 original-post-id: '161068'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Creative (design & multimedia)
 participation-requirements: ''

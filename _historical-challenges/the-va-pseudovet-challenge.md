@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 922
+challenge-id: 922
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -20,7 +20,7 @@ external-url: https://herox.com/pseudovet
 submission-end: 02/14/2018 12:00 AM
 why-use-prizes: ''
 submission-start: '08/30/2017 12:00 AM'
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$100,000'
@@ -51,7 +51,7 @@ solution-type: Software and apps
 partner-agencies-non-federal: ''
 original-post-id: '164343'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Software and apps
 participation-requirements: ''

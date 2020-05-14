@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 597
+challenge-id: 597
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -21,7 +21,7 @@ external-url: https://tongal.com/project/NASAAsteroidGrandChallenge
 submission-end: 01/29/2016 12:00 AM
 why-use-prizes: ''
 submission-start: 10/19/2015 12:00 AM
-fiscal-year: FY 2015
+fiscal-year: FY15
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$20,000'
@@ -52,7 +52,7 @@ solution-type: Creative (design & multimedia)
 partner-agencies-non-federal: ''
 original-post-id: '90051'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Creative (design & multimedia)
 participation-requirements: ''

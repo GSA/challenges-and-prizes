@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 817
+challenge-id: 817
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -20,7 +20,7 @@ external-url: https://www.freelancer.com/contest/NASA-InSpace-Manufacturing-Logo
 submission-end: 04/14/2016 12:00 AM
 why-use-prizes: ''
 submission-start: 03/24/2016 12:00 AM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$300'
@@ -51,7 +51,7 @@ solution-type: Creative (design & multimedia)
 partner-agencies-non-federal: ''
 original-post-id: '135011'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Creative (design & multimedia)
 participation-requirements: ''

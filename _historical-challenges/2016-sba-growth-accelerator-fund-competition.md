@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 827
+challenge-id: 827
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -23,7 +23,7 @@ external-url: https://gaf2014.wufoo.com/forms/2016-sba-growth-accelerator-fund-a
 submission-end: 06/03/2016 11:59 PM
 why-use-prizes: ''
 submission-start: 05/02/2016 12:00 PM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$3,950,000'
@@ -56,7 +56,7 @@ partner-agencies-non-federal: the National Science Foundation, the Department
   and Inter-American Development Bank
 original-post-id: '138371'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Ideas
 participation-requirements: ''

@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 797
+challenge-id: 797
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -21,7 +21,7 @@ external-url: https://www.freelancer.com/contest/NASA-System-Architecture-Regist
 submission-end: 02/05/2016 12:00 AM
 why-use-prizes: ''
 submission-start: 01/14/2016 03:00 PM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$3,300'
@@ -52,7 +52,7 @@ solution-type: Creative (design & multimedia)
 partner-agencies-non-federal: ''
 original-post-id: '116911'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Creative (design & multimedia)
 participation-requirements: ''

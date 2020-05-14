@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 924
+challenge-id: 924
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -21,7 +21,7 @@ external-url: http://crowdsourcing.topcoder.com/Urban3D
 submission-end: 12/04/2017 08:00 PM
 why-use-prizes: ''
 submission-start: 10/09/2017 12:00 AM
-fiscal-year: FY 2018
+fiscal-year: FY18
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$39,500'
@@ -52,7 +52,7 @@ solution-type: Software and apps
 partner-agencies-non-federal: ''
 original-post-id: '164535'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Software and apps
 participation-requirements: ''

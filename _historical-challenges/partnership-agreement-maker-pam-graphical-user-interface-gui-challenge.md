@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 866
+challenge-id: 866
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -20,7 +20,7 @@ external-url: https://www.topcoder.com/challenge-details/30055736/?type=design
 submission-end: 01/31/2017 12:00 AM
 why-use-prizes: ''
 submission-start: 11/18/2016 12:00 AM
-fiscal-year: FY 2017
+fiscal-year: FY17
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$16,700'
@@ -51,7 +51,7 @@ solution-type: Software and apps
 partner-agencies-non-federal: ''
 original-post-id: '158946'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Scientific
 participation-requirements: ''

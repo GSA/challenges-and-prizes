@@ -44,11 +44,11 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 846
+challenge-id: 846
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: ''
+tagline: Choosing the right protective gear
 groupName: Department of Defense
 hideIdeaAuthor: false
 template: ideation
@@ -59,7 +59,7 @@ external-url: http://proofchallenge.com/
 submission-end: 10/29/2016 12:00 AM
 why-use-prizes: ''
 submission-start: '08/19/2016 12:00 AM'
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

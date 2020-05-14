@@ -18,7 +18,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 852
+challenge-id: 852
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -33,7 +33,7 @@ external-url: https://community.topcoder.com/longcontest/?module=ViewProblemStat
 submission-end: '09/19/2016 09:00 PM'
 why-use-prizes: ''
 submission-start: '09/05/2016 09:00 PM'
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$23,000'
@@ -64,7 +64,7 @@ solution-type: Software and apps
 partner-agencies-non-federal: Harvard University Crowd Innovation Lab
 original-post-id: '157419'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Software and apps
 participation-requirements: ''

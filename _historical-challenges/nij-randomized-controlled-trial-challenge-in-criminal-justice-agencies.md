@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 432
+challenge-id: 432
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -22,7 +22,7 @@ external-url: http://nij.gov/funding/pages/rct-challenge.aspx
 submission-end: 01/04/2016 12:00 PM
 why-use-prizes: ''
 submission-start: 07/08/2014 12:00 PM
-fiscal-year: FY 2014
+fiscal-year: FY14
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$300,000'
@@ -53,7 +53,7 @@ solution-type: Ideas
 partner-agencies-non-federal: ''
 original-post-id: '58642'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Scientific
 participation-requirements: ''

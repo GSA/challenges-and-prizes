@@ -5,8 +5,8 @@
 
 <div>
     <p class="text-bold">Have feedback or questions about this challenge?
-        {% if page.challenge-manager-email %}
-    <a class="usa-link--external" href="mailto:{{ page.challenge-manager-email }}">  Send the challenge manager an email</a></p>
+    {% if page.point-of-contact %}
+    <a class="usa-link--external" href="mailto:{{ page.point-of-contact }}">  Send the challenge manager an email</a></p>
     {% else %}
     <a class="usa-link--external" href="mailto:team@challenge.gov">  Send the challenge manager an email</a></p>
     {% endif %}

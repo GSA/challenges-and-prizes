@@ -17,7 +17,7 @@ type-of-challenge:
 submission-start: 03/22/2019
 submission-end: 07/16/2019 2:00 PM
 submission-link:  
-prizes: true
+prize: true
 ---
 
 

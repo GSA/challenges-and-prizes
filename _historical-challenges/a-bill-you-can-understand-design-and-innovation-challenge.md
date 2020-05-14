@@ -15,7 +15,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 829
+challenge-id: 829
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -31,7 +31,7 @@ external-url: 'http://www.abillyoucanunderstand.com'
 submission-end: '08/10/2016 11:59 PM'
 why-use-prizes: ''
 submission-start: 05/09/2016 09:00 AM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$10,000'
@@ -124,7 +124,7 @@ solution-type: Creative (design & multimedia)
 partner-agencies-non-federal: AARP, Mad*Pow
 original-post-id: '138941'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Creative (design & multimedia)
 participation-requirements: ''

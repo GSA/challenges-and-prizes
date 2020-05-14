@@ -8,7 +8,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 925
+challenge-id: 925
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -23,7 +23,7 @@ external-url: http://www.hiddensignalschallenge.com
 submission-end: 12/04/2017 04:59 PM
 why-use-prizes: ''
 submission-start: 10/17/2017 12:00 PM
-fiscal-year: FY 2018
+fiscal-year: FY18
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$100,000'

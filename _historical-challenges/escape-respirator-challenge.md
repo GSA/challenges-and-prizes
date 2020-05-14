@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 978
+challenge-id: 978
 moderatorAdminOnlyIdeasEnabled: true
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: false
@@ -20,7 +20,7 @@ external-url: http://www.respiratorchallenge.org
 submission-end: 04/11/2019 05:00 PM
 why-use-prizes: ''
 submission-start: 12/12/2018 10:00 AM
-fiscal-year: FY 2019
+fiscal-year: FY19
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

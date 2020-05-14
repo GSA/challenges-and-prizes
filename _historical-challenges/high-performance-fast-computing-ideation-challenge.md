@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 898
+challenge-id: 898
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -21,7 +21,7 @@ external-url: 'https://herox.com/HPFCC '
 submission-end: 06/17/2017 12:00 AM
 why-use-prizes: ''
 submission-start: 05/02/2017 12:00 AM
-fiscal-year: FY 2017
+fiscal-year: FY17
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$20,000'
@@ -52,7 +52,7 @@ solution-type: Ideas
 partner-agencies-non-federal: ''
 original-post-id: '161814'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Ideas
 participation-requirements: ''

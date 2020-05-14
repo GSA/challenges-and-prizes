@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 803
+challenge-id: 803
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -21,7 +21,7 @@ external-url: http://www.epa.gov/toxics-release-inventory-tri-program/2016-tri-u
 submission-end: 03/27/2016 11:59 PM
 why-use-prizes: ''
 submission-start: 02/11/2016 12:00 AM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''
@@ -52,7 +52,7 @@ solution-type: Ideas
 partner-agencies-non-federal: ''
 original-post-id: '127761'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Ideas
 participation-requirements: ''

@@ -5,7 +5,7 @@ votingAllowed: true
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 75
+challenge-id: 75
 moderatorAdminOnlyIdeasEnabled: true
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: false
@@ -20,7 +20,7 @@ external-url: https://9sig.co/NASA_RISC
 submission-end: 01/16/2019 05:00 PM
 why-use-prizes: ''
 submission-start: 10/10/2018 12:00 PM
-fiscal-year: FY 2019
+fiscal-year: FY19
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''
@@ -177,7 +177,7 @@ description: "<p class=\"p1\"><strong>An informational webinar for this challeng
   please visit:&nbsp;<a style=\"box-sizing: border-box; background-image: initial;
   background-position: initial; background-size: initial; background-repeat: initial;
   background-attachment: initial; background-origin: initial; background-clip: initial;
-  text-decoration-line: none; color: #428bca; font-family: 'Helvetica Neue', Helvetica,
+  font-family: 'Helvetica Neue', Helvetica,
   Arial, sans-serif;\" href=\"https://9sig.co/NASA_RISC\" target=\"_blank\" rel=\"noopener\">https://9sig.co/NASA_RISC</a></p>"
 campaignStatusName: Launched
 templateId: 0

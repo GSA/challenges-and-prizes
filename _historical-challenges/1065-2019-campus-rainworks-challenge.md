@@ -17,7 +17,7 @@ type-of-challenge: Creative (multimedia and design); Ideas; Technology demonstra
 submission-start: 09/01/2019 12:00 AM
 submission-end: 09/30/2019 11:59 PM
 submission-link: 
-prizes: true
+prize: true
 fiscal-year: FY19, FY20
 legal-authority: Necessary Expense Doctrine
 challenge-manager: Matt King

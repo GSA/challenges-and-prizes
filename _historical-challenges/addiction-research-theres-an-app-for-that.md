@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 603
+challenge-id: 603
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -21,7 +21,7 @@ external-url: http://nida.ideascale.com/
 submission-end: 04/29/2016 11:59 PM
 why-use-prizes: ''
 submission-start: 11/03/2015 10:00 AM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$100,000'
@@ -55,7 +55,7 @@ partner-agencies-non-federal: National Institute on Drug Abuse, Department of
   Scripps Translational Science Institute
 original-post-id: '91591'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Software and apps
 participation-requirements: ''

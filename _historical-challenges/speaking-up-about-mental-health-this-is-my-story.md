@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 997
+challenge-id: 997
 moderatorAdminOnlyIdeasEnabled: true
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: false
@@ -21,7 +21,7 @@ external-url: ''
 submission-end: 05/31/2019 11:59 PM
 why-use-prizes: ''
 submission-start: 04/29/2019 09:00 AM
-fiscal-year: FY 2019
+fiscal-year: FY19
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

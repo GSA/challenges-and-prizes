@@ -17,7 +17,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 816
+challenge-id: 816
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -33,7 +33,7 @@ external-url: http://open.gsa.gov/EarthDayHackathon/
 submission-end: 04/22/2016 04:30 PM
 why-use-prizes: ''
 submission-start: 04/22/2016 09:00 AM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$15,000'

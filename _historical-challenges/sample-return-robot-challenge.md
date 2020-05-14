@@ -6,7 +6,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 601
+challenge-id: 601
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -21,7 +21,7 @@ external-url: http://wp.wpi.edu/challenge/
 submission-end: 01/07/2016 12:00 AM
 why-use-prizes: ''
 submission-start: 10/26/2015 12:00 AM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$1,500,000'
@@ -52,7 +52,7 @@ solution-type: ''
 partner-agencies-non-federal: Worcester Polytechnic Institute
 original-post-id: '90931'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Scientific
 participation-requirements: ''

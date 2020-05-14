@@ -19,7 +19,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 901
+challenge-id: 901
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -34,7 +34,7 @@ external-url: https://www.innocentive.com/ar/challenge/9934001?cc=Gov4001
 submission-end: 07/18/2017 05:00 PM
 why-use-prizes: ''
 submission-start: 05/18/2017 12:00 AM
-fiscal-year: FY 2017
+fiscal-year: FY17
 public-voting-end-date: 07/22/2017 12:00 AM
 budget-and-resources: ''
 total-prize-offered-cash: '$27,000'

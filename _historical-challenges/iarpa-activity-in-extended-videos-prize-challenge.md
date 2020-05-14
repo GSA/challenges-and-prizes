@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 238
+challenge-id: 238
 moderatorAdminOnlyIdeasEnabled: true
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: false
@@ -21,7 +21,7 @@ external-url: https://actev.nist.gov/prizechallenge
 submission-end: 02/28/2019 11:59 PM
 why-use-prizes: ''
 submission-start: 11/01/2018 12:00 AM
-fiscal-year: FY 2019
+fiscal-year: FY19
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''
@@ -49,7 +49,7 @@ solution-type: Analytics, visualizations, algorithms
 partner-agencies-non-federal: ''
 original-post-id: ''
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 type-of-challenge: Analytics, visualizations, algorithms
 participation-requirements: ''
 number-of-phases: ''

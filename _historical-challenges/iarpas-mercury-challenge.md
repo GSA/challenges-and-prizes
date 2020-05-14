@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 47
+challenge-id: 47
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: false
@@ -21,7 +21,7 @@ external-url: https://iarpa.gov/challenges/mercury.html
 submission-end: 04/30/2019 12:00 AM
 why-use-prizes: ''
 submission-start: '08/01/2018 12:00 AM'
-fiscal-year: FY 2018
+fiscal-year: FY18
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$100,000'
@@ -52,7 +52,7 @@ solution-type: Software and apps
 partner-agencies-non-federal: ''
 original-post-id: '177989'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Software and apps
 participation-requirements: ''

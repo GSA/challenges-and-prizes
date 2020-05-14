@@ -4,7 +4,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 489
+challenge-id: 489
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -20,7 +20,7 @@ external-url: http://mtconnect-apps.devpost.com/
 submission-end: 07/15/2016 12:00 PM
 why-use-prizes: ''
 submission-start: 06/09/2015 12:30 PM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$22,500'
@@ -61,7 +61,7 @@ partner-agencies-non-federal: Office of the Secretary of Defense (OSD) Defense-w
   in partnership with SME and the National Tooling and Machining Association (NTMA)
 original-post-id: '78501'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Software and apps
 participation-requirements: ''

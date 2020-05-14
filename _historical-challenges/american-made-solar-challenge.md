@@ -5,7 +5,7 @@ votingAllowed: true
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 33
+challenge-id: 33
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: false
@@ -20,7 +20,7 @@ external-url: https://americanmadechallenges.org/solarprize.html
 submission-end: 10/05/2018 11:59 PM
 why-use-prizes: ''
 submission-start: 06/07/2018 12:00 AM
-fiscal-year: FY 2018
+fiscal-year: FY18
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$3,000,000'
@@ -51,7 +51,7 @@ solution-type: Ideas
 partner-agencies-non-federal: ''
 original-post-id: '176745'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Ideas
 participation-requirements: ''

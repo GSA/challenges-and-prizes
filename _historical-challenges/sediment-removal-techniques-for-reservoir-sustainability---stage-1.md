@@ -5,7 +5,7 @@ votingAllowed: true
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 76
+challenge-id: 76
 moderatorAdminOnlyIdeasEnabled: true
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: false
@@ -20,7 +20,7 @@ external-url: https://www.innocentive.com/ar/challenge/9933884
 submission-end: 01/04/2019 11:59 PM
 why-use-prizes: ''
 submission-start: 10/09/2018 12:00 AM
-fiscal-year: FY 2019
+fiscal-year: FY19
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

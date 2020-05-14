@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 919
+challenge-id: 919
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -21,7 +21,7 @@ external-url: https://herox.com/cubesat-challenge
 submission-end: 10/18/2017 05:00 PM
 why-use-prizes: ''
 submission-start: '08/15/2017 11:13 AM'
-fiscal-year: FY 2017
+fiscal-year: FY17
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''
@@ -57,7 +57,7 @@ rules: 'USSOCOM is pursuing a development effort to determine the operational
   or equivalent license required)</li>    <li>Antennas</li>    <li>Processor(s)
   (Microprocessors or FPGAs)</li>    <li>Flight Software (Satellite and payload
   control)</li>    <li>Attitude Determination and Control System (ADCS, Optional)</li>    <li>Propulsion
-  (Optional)</li>    <li>Ground Station (Separate)</li>  </ul>  <h2></h2>  <h2>Prizes</h2>  The
+  (Optional)</li>    <li>Ground Station (Separate)</li>  </ul>    <h2>Prizes</h2>  The
   CubeSat Challenge will award a grand total of up to $35,000 in cash prizes.
   Up to 7 - $5,000 prizes will be awarded in the following categories:    <strong>4</strong> -
   3U Winners    <strong>2</strong> - 6U Winners    <strong>1</strong> people’s
@@ -86,7 +86,7 @@ rules: 'USSOCOM is pursuing a development effort to determine the operational
   1.5U, leaving &lt;1.5U available for a payload.</li>  </ul>  </li>    <li>6U:
   10cm x 20cm x 30cm  <ul>    <li>Standard 6U host-side basic avionics takes up
   2U, leaving 4U available for a payload.</li>  </ul>  </li>  </ul>  </li>  </ul>  </li>    <li>Viable
-  for a prototype demonstration within 12-24 months</li>  </ul>  <h2></h2>  <h2>Judging
+  for a prototype demonstration within 12-24 months</li>  </ul>   <h2>Judging
   Scorecard</h2>  The judging panel will rank the eligible Solutions submitted
   using the following Judging Scorecard:  <table border="1" width="524" cellspacing="0"
   cellpadding="0">  <tbody>  <tr>  <td>  <p align="center"><strong>Metric</strong></p>  </td>  <td>  <p
@@ -99,7 +99,7 @@ rules: 'USSOCOM is pursuing a development effort to determine the operational
   bounds of science and engineering, and inspire a spirit of innovation?</td>  <td>  <p
   align="center">25%</p>  </td>  </tr>  <tr>  <td>Feasibility</td>  <td>Is the
   proposed solution viable for a prototype demonstration within 12-24 months?</td>  <td>  <p
-  align="center">25%</p>  </td>  </tr>  </tbody>  </table>  <h1></h1>  <h2>Rules</h2>  <u>Eligibility:</u>    The
+  align="center">25%</p>  </td>  </tr>  </tbody>  </table>  <h2>Rules</h2>  <u>Eligibility:</u>    The
   CubeSat Challenge is open to individuals, age 18 or older, private teams, public
   teams, and collegiate teams. Individual competitors and teams may originate
   from any country, as long as United States federal sanctions do not prohibit
@@ -156,7 +156,7 @@ solution-type: Technology demonstration and hardware
 partner-agencies-non-federal: ''
 original-post-id: '164174'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Scientific
 participation-requirements: ''

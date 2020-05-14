@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 68
+challenge-id: 68
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: false
@@ -21,7 +21,7 @@ external-url: https://mchbgrandchallenges.hrsa.gov/challenges/remote-pregnancy-m
 submission-end: 12/07/2018 08:00 PM
 why-use-prizes: ''
 submission-start: '09/27/2018 09:00 AM'
-fiscal-year: FY 2019, FY 2018
+fiscal-year: FY19, FY18
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''
@@ -50,7 +50,7 @@ solution-type: Software and apps
 partner-agencies-non-federal: ''
 original-post-id: ''
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Software and apps
 participation-requirements: ''

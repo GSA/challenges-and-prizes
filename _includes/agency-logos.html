@@ -1,6 +1,6 @@
 
 	{% if challenge.groupName contains "U.S. Geological Survey" or challenge.agency contains "U.S. Geological Survey" %}
-  		<img src="{{ site.baseurl }}/assets/images/agency/usgs.jpg" alt="USGS logo" height="120" title="USGS">
+  		<img src="{{ site.baseurl }}/assets/images/agency/USGS_logo.png" alt="USGS logo" width="140" title="USGS">
 	{% endif %}
 
 	{% if challenge.groupName contains "National Science Foundation" or challenge.agency contains "National Science Foundation" %}
@@ -8,11 +8,15 @@
 	{% endif %}
 
 	{% if challenge.groupName contains "Bureau of Land Management" or challenge.agency contains "Bureau of Land Management" %}
-  		<img src="{{ site.baseurl }}/assets/images/agency/blm.jpg" alt="BLM logo" height="120" title="BLM">
+  		<img src="{{ site.baseurl }}/assets/images/agency/US-DOI-BureauOfLandManagement-Logo.png" alt="BLM logo" height="120" title="BLM">
 	{% endif %}
 
 	{% if challenge.groupName contains "National Aeronautics and Space Administration" or challenge.agency contains "National Aeronautics and Space Administration" %}
   		<img src="{{ site.baseurl }}/assets/images/agency/717px-NASA_logo.png" alt="NASA logo" height="120" title="NASA">
+	{% endif %}
+
+	{% if challenge.groupName contains "Social Security Administration" or challenge.agency contains "Social Security Administration" %}
+		<img src="{{ site.baseurl }}/assets/images/agency/SSA_logo.png" alt="SSA logo" height="120" title="SSA">
 	{% endif %}
 
 	{% if challenge.groupName contains "Forest Service" or challenge.agency contains "Forest Service" %}
@@ -80,19 +84,9 @@
 	{% endif %}
 
 	{% if challenge.groupName contains "National Nuclear Security Administration" or challenge.agency contains "National Nuclear Security Administration" %}
-  		<img src="{{ site.baseurl }}/assets/images/agency/US-NationalNuclearSecurityAdmin-Logo.png" alt="DOE logo" width="120" title="DOE">
-	{% endif %}
-
-	{% if challenge.groupName == "Department of Energy - Energy Programs" or challenge.agency == "Department of Energy - Energy Programs" %}
-  		<img src="{{ site.baseurl }}/assets/images/agency/256px-Seal_of_the_United_States_Department_of_Energy.png" alt="DOE logo" height="120" title="DOE">
-	{% endif %}
-
-	{% if challenge.groupName == "Department of Energy - Office of Energy Efficiency & Renewable Energy" or challenge.agency == "Department of Energy - Office of Energy Efficiency & Renewable Energy" %}
-		<img src="{{ site.baseurl }}/assets/images/agency/256px-Seal_of_the_United_States_Department_of_Energy.png" alt="DOE logo" height="120" title="DOE">
-	{% endif %}
-
-	{% if challenge.groupName == "Department of Energy" or challenge.agency == "Department of Energy" %}
-		<img src="{{ site.baseurl }}/assets/images/agency/256px-Seal_of_the_United_States_Department_of_Energy.png" alt="DOE logo" height="120" title="DOE">
+			<img src="{{ site.baseurl }}/assets/images/agency/US-NationalNuclearSecurityAdmin-Logo.png" alt="DOE logo" width="120" title="DOE">
+		{% elsif challenge.groupName contains "Department of Energy" or challenge.agency contains "Department of Energy" %}
+			<img src="{{ site.baseurl }}/assets/images/agency/256px-Seal_of_the_United_States_Department_of_Energy.png" alt="DOE logo" height="120" title="DOE">
 	{% endif %}
 
 	{% if challenge.groupName contains "Department of State" or challenge.agency contains "Department of State" %}
@@ -144,6 +138,10 @@
 	{% endif %}
 
 	{% if challenge.groupName == "Department of Health and Human Services - Office of the Assistant Secretary for Preparedness and Response" or challenge.agency == "Department of Health and Human Services - Office of the Assistant Secretary for Preparedness and Response" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/hhs.png" alt="HHS logo" height="120" title="HHS">
+	{% endif %}
+
+	{% if challenge.groupName == "Department of Health and Human Services - Office of the National Coordination for Health Information Technology" or challenge.agency == "Department of Health and Human Services - Office of the National Coordination for Health Information Technology" %}
 	<img src="{{ site.baseurl }}/assets/images/agency/hhs.png" alt="HHS logo" height="120" title="HHS">
 	{% endif %}
 	
@@ -199,6 +197,10 @@
 	<img src="{{ site.baseurl }}/assets/images/agency/dept_of_justice.png" alt="Department of Justice - Office of Justice Programs logo" width="120" title="Department of Justice - Office of Justice Programs">
 	{% endif %}
 
+	{% if challenge.groupName == "Department of Justice" or challenge.agency == "Department of Justice" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/dept_of_justice.png" alt="Department of Justice - Office of Justice Programs logo" width="120" title="Department of Justice - Office of Justice Programs">
+	{% endif %}
+
 	{% if challenge.groupName contains "Federal Maritime Commission" or challenge.agency contains "Federal Maritime Commission" %}
 	<img src="{{ site.baseurl }}/assets/images/agency/fed_maritime_commission.png" alt="Federal Maritime Commission logo" width="120" title="Federal Maritime Commission logo">
 	{% endif %}
@@ -234,6 +236,28 @@
 	{% if challenge.groupName == "Office of Director of National Intelligence" or challenge.agency == "Office of Director of National Intelligence" %}
 	<img src="{{ site.baseurl }}/assets/images/agency/ODNI.png" alt="ODNI logo" width="120" title="ODNI logo">
 	{% endif %}
+
+	{% if challenge.groupName == "Consumer Product Safety Commission" or challenge.agency == "Consumer Product Safety Commission" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/cpsc.png" alt="CPSC logo" width="120" title="CPSC logo">
+	{% endif %}
+
+	{% if challenge.groupName contains "Office of Management and Budget" or challenge.agency contains "Office of Management and Budget" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/omb.png" alt="OMB logo" width="120" title="OMB logo">
+	{% endif %}
+
+	{% if challenge.groupName == "Department of Commerce" or challenge.agency == "Department of Commerce" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/doc_logo.png" alt="Commerce logo" width="120" title="Commerce logo">
+	{% endif %}
+
+	{% if challenge.groupName contains "White House" or challenge.agency contains "White House" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/white_house-logo.jpeg" alt="White House logo" width="170" title="White House logo">
+	{% endif %}
+
+	{% if challenge.groupName contains "United States Mint" or challenge.agency contains "United States Mint" %}
+	<img src="{{ site.baseurl }}/assets/images/agency/treasury-us-mint.png" alt="United States Mint logo" width="120" title="United States Mint logo">
+	{% endif %}
+
+
 
 
 

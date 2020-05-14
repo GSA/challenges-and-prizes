@@ -32,7 +32,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 950
+challenge-id: 950
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -48,7 +48,7 @@ external-url: http://www.faa.gov/about/office_org/headquarters_offices/ang/offic
 submission-end: 07/09/2018 11:59 PM
 why-use-prizes: ''
 submission-start: 04/20/2018 12:00 AM
-fiscal-year: FY 2018
+fiscal-year: FY18
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 810
+challenge-id: 810
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -20,7 +20,7 @@ external-url: https://grabcad.com/challenges/nasa-experiment-attachment-system-e
 submission-end: 04/10/2016 11:00 PM
 why-use-prizes: ''
 submission-start: 03/07/2016 12:00 AM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$3,000'
@@ -51,7 +51,7 @@ solution-type: Technology demonstration and hardware
 partner-agencies-non-federal: ''
 original-post-id: '131141'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Scientific
 participation-requirements: ''

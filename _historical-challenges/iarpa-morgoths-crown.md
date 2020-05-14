@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 911
+challenge-id: 911
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -22,7 +22,7 @@ external-url: https://www.iarpa.gov/challenges/morgothscrown.html
 submission-end: '09/20/2017 09:00 PM'
 why-use-prizes: ''
 submission-start: 07/27/2017 12:00 AM
-fiscal-year: FY 2017
+fiscal-year: FY17
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''
@@ -53,7 +53,7 @@ solution-type: Software and apps
 partner-agencies-non-federal: ''
 original-post-id: '163730'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Scientific
 participation-requirements: ''

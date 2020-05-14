@@ -5,7 +5,7 @@ votingAllowed: true
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 1024
+challenge-id: 1024
 moderatorAdminOnlyIdeasEnabled: true
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: false
@@ -22,7 +22,7 @@ external-url: https://www.topcoder.com/community/data-science/USSOCOM-HF-Geoloca
 submission-end: 05/27/2019 08:59 PM
 why-use-prizes: ''
 submission-start: 04/19/2019 02:00 PM
-fiscal-year: FY 2019, FY 2018
+fiscal-year: FY19, FY18
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''
@@ -51,7 +51,7 @@ solution-type: Analytics, visualizations, algorithms
 partner-agencies-non-federal: ''
 original-post-id: ''
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'No'
 type-of-challenge: Analytics, visualizations, algorithms
 participation-requirements: ''

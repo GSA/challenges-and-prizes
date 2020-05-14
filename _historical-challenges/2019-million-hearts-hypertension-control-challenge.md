@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 995
+challenge-id: 995
 moderatorAdminOnlyIdeasEnabled: true
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: false
@@ -22,7 +22,7 @@ external-url: https://mhhypertensioncntrlchallenge.com/
 submission-end: 04/01/2019 11:59 PM
 why-use-prizes: ''
 submission-start: 02/14/2019 12:00 AM
-fiscal-year: FY 2019
+fiscal-year: FY19
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

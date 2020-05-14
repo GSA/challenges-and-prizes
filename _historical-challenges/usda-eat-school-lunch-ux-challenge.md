@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 764
+challenge-id: 764
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -21,7 +21,7 @@ external-url: http://lunchux.devpost.com/
 submission-end: 03/01/2016 05:00 PM
 why-use-prizes: ''
 submission-start: 12/01/2015 05:00 PM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$50,000'
@@ -52,7 +52,7 @@ solution-type: Software and apps
 partner-agencies-non-federal: ''
 original-post-id: '98021'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Software and apps
 participation-requirements: ''

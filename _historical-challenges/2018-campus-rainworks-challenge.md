@@ -5,7 +5,7 @@ votingAllowed: true
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 26
+challenge-id: 26
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: false
@@ -20,7 +20,7 @@ external-url: https://www.epa.gov/campusrainworks
 submission-end: '09/30/2018 11:59 PM'
 why-use-prizes: ''
 submission-start: '09/01/2018 12:00 AM'
-fiscal-year: FY 2018
+fiscal-year: FY18
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''
@@ -45,7 +45,7 @@ cash-prizes-and-non-cash-prize-awards: ''
 solution-type: Software and apps
 partner-agencies-non-federal: ''
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 type-of-challenge: Software and apps
 participation-requirements: ''
 number-of-phases: ''

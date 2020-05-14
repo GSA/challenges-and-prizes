@@ -6,7 +6,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 863
+challenge-id: 863
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -22,7 +22,7 @@ external-url: http://www.edsimchallenge.com
 submission-end: 01/17/2017 04:59 PM
 why-use-prizes: ''
 submission-start: 11/02/2016 09:00 AM
-fiscal-year: FY 2017
+fiscal-year: FY17
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$680,000'
@@ -54,7 +54,7 @@ solution-type: Software and apps
 partner-agencies-non-federal: Microsoft, Samsung, Oculus, IBM
 original-post-id: '158525'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Software and apps
 participation-requirements: ''

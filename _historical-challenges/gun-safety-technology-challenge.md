@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 592
+challenge-id: 592
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -21,7 +21,7 @@ external-url: http://nij.gov/funding/Pages/fy16-gun-safety-challenge.aspx
 submission-end: 01/05/2016 11:59 PM
 why-use-prizes: ''
 submission-start: 10/07/2015 09:00 AM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$150,000'
@@ -52,7 +52,7 @@ solution-type: ''
 partner-agencies-non-federal: ''
 original-post-id: '84321'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Scientific
 participation-requirements: ''

@@ -12,7 +12,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 867
+challenge-id: 867
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -27,7 +27,7 @@ external-url: http://open.gsa.gov/grace-hopper-hackathon/
 submission-end: 12/09/2016 03:00 PM
 why-use-prizes: ''
 submission-start: 12/09/2016 08:00 AM
-fiscal-year: FY 2017
+fiscal-year: FY17
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$15,000'

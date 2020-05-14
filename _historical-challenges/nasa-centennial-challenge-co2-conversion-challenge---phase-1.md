@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 25
+challenge-id: 25
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: false
@@ -20,7 +20,7 @@ external-url: https://www.co2conversionchallenge.org/
 submission-end: 02/07/2019 06:00 PM
 why-use-prizes: ''
 submission-start: '08/30/2018 12:00 PM'
-fiscal-year: FY 2019, FY 2018
+fiscal-year: FY19, FY18
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''
@@ -45,7 +45,7 @@ cash-prizes-and-non-cash-prize-awards: ''
 solution-type: Software and apps
 partner-agencies-non-federal: ''
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 type-of-challenge: Software and apps
 participation-requirements: ''
 number-of-phases: ''

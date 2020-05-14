@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 477
+challenge-id: 477
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -23,7 +23,7 @@ external-url: https://airforceprize.com/
 submission-end: '09/01/2018 04:00 PM'
 why-use-prizes: ''
 submission-start: 05/27/2015 12:00 AM
-fiscal-year: FY 2015
+fiscal-year: FY15
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$2,000,000'
@@ -54,7 +54,7 @@ solution-type: Technology demonstration and hardware
 partner-agencies-non-federal: ''
 original-post-id: '75412'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Scientific
 participation-requirements: ''

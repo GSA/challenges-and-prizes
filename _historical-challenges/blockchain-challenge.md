@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 835
+challenge-id: 835
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -20,7 +20,7 @@ external-url: http://www.cccinnovationcenter.com/challenges/block-chain-challeng
 submission-end: '08/19/2016 04:00 PM'
 why-use-prizes: ''
 submission-start: 07/07/2016 08:00 AM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''
@@ -51,7 +51,7 @@ solution-type: Ideas
 partner-agencies-non-federal: ''
 original-post-id: '149421'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Ideas
 participation-requirements: ''

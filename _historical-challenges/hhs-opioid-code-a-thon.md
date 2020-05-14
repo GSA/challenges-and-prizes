@@ -10,7 +10,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 928
+challenge-id: 928
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -25,7 +25,7 @@ external-url: https://hhs.gov/challenges
 submission-end: 12/07/2017 04:00 PM
 why-use-prizes: ''
 submission-start: 12/06/2017 01:00 PM
-fiscal-year: FY 2018
+fiscal-year: FY18
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$30,000'

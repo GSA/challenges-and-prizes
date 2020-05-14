@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 854
+challenge-id: 854
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -22,7 +22,7 @@ external-url: https://www.iarpa.gov/challenges/3dchallenge.html
 submission-end: 10/04/2016 09:00 PM
 why-use-prizes: ''
 submission-start: '09/06/2016 09:00 PM'
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$86,000'
@@ -54,7 +54,7 @@ partner-agencies-non-federal: "Johns Hopkins University Applied Physics Laborato
   TopCoder, Booz Allen Hamilton"
 original-post-id: '157546'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Scientific
 participation-requirements: ''

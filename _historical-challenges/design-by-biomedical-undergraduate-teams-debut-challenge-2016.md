@@ -6,7 +6,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 604
+challenge-id: 604
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -23,7 +23,7 @@ external-url: http://venturewell.org/students/debut/
 submission-end: 05/30/2016 11:59 PM
 why-use-prizes: ''
 submission-start: 03/01/2016 12:00 AM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$65,000'
@@ -54,7 +54,7 @@ solution-type: Technology demonstration and hardware
 partner-agencies-non-federal: VentureWell
 original-post-id: '91851'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Technology demonstration and hardware
 participation-requirements: ''

@@ -27,7 +27,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 864
+challenge-id: 864
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -42,7 +42,7 @@ external-url: ''
 submission-end: 12/02/2016 03:00 PM
 why-use-prizes: ''
 submission-start: 11/07/2016 08:00 AM
-fiscal-year: FY 2017
+fiscal-year: FY17
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

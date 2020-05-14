@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 908
+challenge-id: 908
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -20,7 +20,7 @@ external-url: https://jump.ideascale.com/a/ideas/top/campaign-filter/byids/campa
 submission-end: '08/10/2017 11:59 PM'
 why-use-prizes: ''
 submission-start: 07/15/2017 12:00 AM
-fiscal-year: FY 2017
+fiscal-year: FY17
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$5,000'
@@ -51,7 +51,7 @@ solution-type: Ideas
 partner-agencies-non-federal: Oak Ridge National Laboratory, Trane
 original-post-id: '163503'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Ideas
 participation-requirements: ''

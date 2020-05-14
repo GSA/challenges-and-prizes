@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 865
+challenge-id: 865
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -20,7 +20,7 @@ external-url: http://tco16.topcoder.com/
 submission-end: 11/21/2016 11:59 PM
 why-use-prizes: ''
 submission-start: 11/18/2016 12:01 AM
-fiscal-year: FY 2017
+fiscal-year: FY17
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$10,000'
@@ -51,7 +51,7 @@ solution-type: Software and apps
 partner-agencies-non-federal: ''
 original-post-id: '158895'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Software and apps
 participation-requirements: ''

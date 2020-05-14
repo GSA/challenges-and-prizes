@@ -59,7 +59,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 584
+challenge-id: 584
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -75,7 +75,7 @@ external-url: ''
 submission-end: 02/02/2016 09:00 AM
 why-use-prizes: ''
 submission-start: 10/01/2015 12:00 AM
-fiscal-year: FY 2015
+fiscal-year: FY15
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$35,000'

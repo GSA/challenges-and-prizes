@@ -17,7 +17,7 @@ type-of-challenge:  Creative
 submission-start: 08/06/2019 12:00 PM
 submission-end: 09/06/2019 11:59 PM
 submission-link: 
-prizes: false
+prize: false
 legal-authority: America COMPETES Act
 fiscal-year: FY19
 challenge-manager: Jeffrey Doi

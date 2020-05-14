@@ -71,7 +71,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 888
+challenge-id: 888
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -88,7 +88,7 @@ external-url: http://www.mhhypertensionchallenge.com/home
 submission-end: 06/02/2017 11:59 PM
 why-use-prizes: ''
 submission-start: 04/11/2017 12:00 AM
-fiscal-year: FY 2017
+fiscal-year: FY17
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

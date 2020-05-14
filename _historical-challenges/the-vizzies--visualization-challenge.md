@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 845
+challenge-id: 845
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -21,7 +21,7 @@ external-url: http://www.nsf.gov/Vizzies
 submission-end: 04/15/2018 11:59 PM
 why-use-prizes: ''
 submission-start: 01/16/2018 12:00 AM
-fiscal-year: FY 2018
+fiscal-year: FY18
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$2,500'
@@ -68,7 +68,7 @@ solution-type: Creative (design & multimedia)
 partner-agencies-non-federal: Popular Science Magazine
 original-post-id: '154901'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Creative (design & multimedia)
 participation-requirements: ''

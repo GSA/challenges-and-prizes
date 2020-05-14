@@ -19,7 +19,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 853
+challenge-id: 853
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -34,7 +34,7 @@ external-url: https://www.mcc.gov/news-and-events/feature/open-data-challenge
 submission-end: 10/17/2016 05:00 PM
 why-use-prizes: ''
 submission-start: 02/02/2016 04:00 PM
-fiscal-year: FY 2016
+fiscal-year: FY16
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$1,000'
@@ -146,7 +146,7 @@ solution-type: Ideas
 partner-agencies-non-federal: ''
 original-post-id: '127801'
 total-number-of-winners-awarded: ''
-hosting: Externally (Challenge details will redirect to external url)
+hosting: Externally
 hide-challenge-funnel: 'Yes'
 type-of-challenge: Ideas
 participation-requirements: ''

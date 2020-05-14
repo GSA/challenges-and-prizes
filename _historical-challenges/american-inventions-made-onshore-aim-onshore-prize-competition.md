@@ -85,7 +85,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: false
 commentCount: 0
-id: 938
+challenge-id: 938
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -101,7 +101,7 @@ external-url: http://www.build4scale.org
 submission-end: 04/10/2018 11:59 PM
 why-use-prizes: ''
 submission-start: 02/06/2018 11:59 AM
-fiscal-year: FY 2018
+fiscal-year: FY18
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$400,000'
