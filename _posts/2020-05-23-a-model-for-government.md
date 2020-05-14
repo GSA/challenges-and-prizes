@@ -4,6 +4,8 @@ layout: post
 date: May 13, 2020
 author: Author
 excerpt: This is an excerpt
+image: 
+image_alt_text: 
 ---
  
 Dr. Jeffrey Shaman and his Columbia University team work mostly from home these days. 
