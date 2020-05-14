@@ -4,8 +4,8 @@ layout: post
 date: May 13, 2020
 author: Author
 excerpt: This is an excerpt
-image: 
-image_alt_text: 
+image: blog-post-a-model-for-gov-cover-image.jpg
+image_alt_text: Concept of computer model on coronavirus impact
 ---
  
 Dr. Jeffrey Shaman and his Columbia University team work mostly from home these days. 
