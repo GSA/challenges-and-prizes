@@ -20,7 +20,7 @@ submission-end: 10/19/2019
 submission-link: 
 prize: true
 legal-authority: America COMPETES
-fiscal-year: FY19-FY20
+fiscal-year: FY19, FY20
 challenge-manager: Sarah Hughes
 challenge-manager-email: sarah.hughes@nist.gov
 description: <p><img src="{{ site.baseurl }}/assets/images/challenge-content/timeline_SIMCard.jpg" alt="challenge timeline"/></p>

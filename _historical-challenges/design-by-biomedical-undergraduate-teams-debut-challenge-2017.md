@@ -21,7 +21,7 @@ external-url: https://venturewell.org/debut/
 submission-end: 05/31/2017 12:00 AM
 why-use-prizes: ''
 submission-start: 03/21/2017 12:00 AM
-fiscal-year: FY 2017
+fiscal-year: FY17
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$45,000'

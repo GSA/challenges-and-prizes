@@ -20,7 +20,7 @@ external-url: http://www.faa.gov/about/office_org/headquarters_offices/ang/offic
 submission-end: 06/30/2017 11:59 PM
 why-use-prizes: ''
 submission-start: 04/25/2017 12:00 AM
-fiscal-year: FY 2017
+fiscal-year: FY17
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

@@ -22,7 +22,7 @@ external-url: http://blog.epa.gov/epplocations/
 submission-end: 01/01/2014 04:00 AM
 why-use-prizes: ''
 submission-start: 04/22/2011 04:00 AM
-fiscal-year: FY 2011
+fiscal-year: FY11
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

@@ -21,7 +21,7 @@ external-url: http://www.nationalservice.gov/newsroom/press-releases/2011/nation
 submission-end: '09/14/2011 09:00 PM'
 why-use-prizes: ''
 submission-start: '09/11/2011 04:01 PM'
-fiscal-year: FY 2011
+fiscal-year: FY11
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$500,000'

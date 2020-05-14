@@ -22,7 +22,7 @@ external-url: http://www.changemakers.com/sustainableurbanhousing
 submission-end: 02/02/2011 11:00 PM
 why-use-prizes: ''
 submission-start: 11/05/2010 12:00 AM
-fiscal-year: FY 2011
+fiscal-year: FY11
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$31,000'

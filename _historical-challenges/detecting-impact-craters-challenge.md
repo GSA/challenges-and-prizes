@@ -22,7 +22,7 @@ external-url: http://community.topcoder.com/ntl/
 submission-end: 06/30/2011 03:00 AM
 why-use-prizes: ''
 submission-start: 06/15/2011 04:00 AM
-fiscal-year: FY 2011
+fiscal-year: FY11
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$10,000'

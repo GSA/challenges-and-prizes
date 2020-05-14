@@ -92,7 +92,7 @@ external-url: ''
 submission-end: 02/12/2017 11:59 PM
 why-use-prizes: ''
 submission-start: 12/29/2016 08:00 AM
-fiscal-year: FY 2017
+fiscal-year: FY17
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$1,200,000'

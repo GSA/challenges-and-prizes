@@ -22,7 +22,7 @@ external-url: http://www.epa.gov/greenchemistry/pubs/pgcc/howto.html
 submission-end: 01/01/2012 04:00 AM
 why-use-prizes: ''
 submission-start: 06/20/2011 04:00 AM
-fiscal-year: FY 2011
+fiscal-year: FY11
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

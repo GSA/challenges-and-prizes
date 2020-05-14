@@ -21,7 +21,7 @@ external-url: http://sghealthyapps.challengepost.com/submissions
 submission-end: 12/31/2011 05:00 AM
 why-use-prizes: ''
 submission-start: 12/06/2011 05:00 AM
-fiscal-year: FY 2012
+fiscal-year: FY12
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

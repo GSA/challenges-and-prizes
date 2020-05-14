@@ -21,7 +21,7 @@ external-url: http://www.energystar.gov/BattleOfTheBuildings
 submission-end: '08/31/2011 11:59 PM'
 why-use-prizes: ''
 submission-start: '09/01/2010 12:00 AM'
-fiscal-year: FY 2010
+fiscal-year: FY10
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

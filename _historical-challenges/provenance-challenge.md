@@ -21,7 +21,7 @@ external-url: https://www.cccinnovationcenter.com/challenges/provenance-challeng
 submission-end: 05/22/2017 11:59 PM
 why-use-prizes: ''
 submission-start: 04/06/2017 05:00 PM
-fiscal-year: FY 2017
+fiscal-year: FY17
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

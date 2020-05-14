@@ -22,7 +22,7 @@ external-url: http://appsforhealthykids.challengepost.com/submissions
 submission-end: '08/15/2010 07:00 AM'
 why-use-prizes: ''
 submission-start: 03/10/2010 10:00 AM
-fiscal-year: FY 2010
+fiscal-year: FY10
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$60,000'

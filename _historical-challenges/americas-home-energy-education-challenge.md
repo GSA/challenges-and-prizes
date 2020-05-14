@@ -22,7 +22,7 @@ external-url: http://www.homeenergychallenge.org
 submission-end: 12/31/2011 11:00 PM
 why-use-prizes: ''
 submission-start: 12/01/2011 12:00 AM
-fiscal-year: FY 2012
+fiscal-year: FY12
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$75,000'

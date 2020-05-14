@@ -21,7 +21,7 @@ external-url: https://spectrumcollaborationchallenge.com/
 submission-end: 04/30/2018 12:00 AM
 why-use-prizes: ''
 submission-start: 07/19/2016 12:00 AM
-fiscal-year: FY 2017
+fiscal-year: FY17
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$3,750,000'

@@ -21,7 +21,7 @@ external-url: https://www.cccinnovationcenter.com/challenges/proving-the-potenti
 submission-end: 04/21/2017 11:59 PM
 why-use-prizes: ''
 submission-start: 04/11/2017 12:00 AM
-fiscal-year: FY 2017
+fiscal-year: FY17
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$8,500'

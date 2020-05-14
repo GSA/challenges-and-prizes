@@ -21,7 +21,7 @@ external-url: http://www.aoa.gov/AoAroot/Press_Room/Observances/oam/archive/2011
 submission-end: 05/10/2011 03:59 AM
 why-use-prizes: ''
 submission-start: 03/28/2011 04:00 AM
-fiscal-year: FY 2011
+fiscal-year: FY11
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

@@ -21,7 +21,7 @@ external-url: https://herox.com/SpacePoop
 submission-end: 12/20/2016 12:00 AM
 why-use-prizes: ''
 submission-start: 10/11/2016 12:00 AM
-fiscal-year: FY 2017
+fiscal-year: FY17
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$30,000'

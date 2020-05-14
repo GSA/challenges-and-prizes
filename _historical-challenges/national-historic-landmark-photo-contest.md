@@ -21,7 +21,7 @@ external-url: http://www.nps.gov/history/nhl/2010photocontest/
 submission-end: '09/11/2010 03:59 AM'
 why-use-prizes: ''
 submission-start: '08/31/2010 04:00 AM'
-fiscal-year: FY 2010
+fiscal-year: FY10
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

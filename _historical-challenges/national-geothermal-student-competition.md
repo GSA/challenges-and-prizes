@@ -22,7 +22,7 @@ external-url: http://www.nrel.gov/business_opportunities/solicitations_rfps.html
 submission-end: 11/13/2010 04:59 AM
 why-use-prizes: ''
 submission-start: '09/21/2010 04:00 AM'
-fiscal-year: FY 2010
+fiscal-year: FY10
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$10,000'

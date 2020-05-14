@@ -21,7 +21,7 @@ external-url: http://www.solardecathlon.gov/
 submission-end: '09/24/2011 03:00 AM'
 why-use-prizes: ''
 submission-start: '09/23/2009 04:00 AM'
-fiscal-year: FY 2010
+fiscal-year: FY10
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

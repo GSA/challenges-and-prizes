@@ -22,7 +22,7 @@ external-url: http://www.changemakers.com/SME-Finance
 submission-end: '09/05/2010 11:59 PM'
 why-use-prizes: ''
 submission-start: 06/26/2010 12:00 AM
-fiscal-year: FY 2010
+fiscal-year: FY10
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

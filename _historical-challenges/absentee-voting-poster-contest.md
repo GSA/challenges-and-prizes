@@ -22,7 +22,7 @@ external-url: http://absenteeposter.challengepost.com/submissions
 submission-end: 04/11/2011 03:59 AM
 why-use-prizes: ''
 submission-start: 01/21/2011 05:00 AM
-fiscal-year: FY 2011
+fiscal-year: FY11
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$10,000'

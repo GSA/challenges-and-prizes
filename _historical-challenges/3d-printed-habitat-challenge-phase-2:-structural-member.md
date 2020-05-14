@@ -21,7 +21,7 @@ external-url: http://bradley.edu/challenge
 submission-end: 01/31/2017 12:00 AM
 why-use-prizes: ''
 submission-start: 10/07/2016 12:00 AM
-fiscal-year: FY 2017
+fiscal-year: FY17
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$1,100,000'

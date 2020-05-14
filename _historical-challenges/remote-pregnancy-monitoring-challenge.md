@@ -21,7 +21,7 @@ external-url: https://mchbgrandchallenges.hrsa.gov/challenges/remote-pregnancy-m
 submission-end: 12/07/2018 08:00 PM
 why-use-prizes: ''
 submission-start: '09/27/2018 09:00 AM'
-fiscal-year: FY19, FY 2018
+fiscal-year: FY19, FY18
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

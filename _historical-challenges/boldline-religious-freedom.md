@@ -47,7 +47,7 @@ external-url: ''
 submission-end: '08/23/2018 12:00 AM'
 why-use-prizes: ''
 submission-start: 07/24/2018 09:00 AM
-fiscal-year: FY 2018
+fiscal-year: FY18
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

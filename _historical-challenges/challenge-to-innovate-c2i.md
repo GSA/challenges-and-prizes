@@ -22,7 +22,7 @@ external-url: http://innovation.ed.gov/challenges/challengetoinnovate/show/
 submission-end: 01/15/2011 04:00 AM
 why-use-prizes: ''
 submission-start: '09/07/2010 04:00 AM'
-fiscal-year: FY 2010
+fiscal-year: FY10
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$67,500'

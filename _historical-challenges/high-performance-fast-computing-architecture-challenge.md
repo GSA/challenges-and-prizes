@@ -21,7 +21,7 @@ external-url: 'http://crowdsourcing.topcoder.com/nasa-hpc '
 submission-end: 06/17/2017 12:00 AM
 why-use-prizes: ''
 submission-start: 05/02/2017 12:00 AM
-fiscal-year: FY 2017
+fiscal-year: FY17
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$35,000'
