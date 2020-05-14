@@ -21,7 +21,7 @@ external-url: http://sosradon.org/
 submission-end: 11/01/2010 03:00 AM
 why-use-prizes: ''
 submission-start: 03/01/2010 05:00 AM
-fiscal-year: FY 2010
+fiscal-year: FY10
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

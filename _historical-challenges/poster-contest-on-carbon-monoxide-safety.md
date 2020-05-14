@@ -21,7 +21,7 @@ external-url: http://carbonmonoxide.challengepost.com/submissions
 submission-end: 01/01/2011 09:59 AM
 why-use-prizes: ''
 submission-start: '09/07/2010 08:00 AM'
-fiscal-year: FY 2010
+fiscal-year: FY10
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$2,750'

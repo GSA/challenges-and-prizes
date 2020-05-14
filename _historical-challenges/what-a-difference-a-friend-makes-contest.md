@@ -21,7 +21,7 @@ external-url: http://www.whatadifference.samhsa.gov/contest/
 submission-end: '08/31/2010 11:00 PM'
 why-use-prizes: ''
 submission-start: 07/21/2010 12:00 AM
-fiscal-year: FY 2010
+fiscal-year: FY10
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$4,000'

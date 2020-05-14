@@ -21,7 +21,7 @@ external-url: http://breakinggov.com/2011/12/23/sba-contest-yields-mobile-apps-t
 submission-end: 11/21/2011 04:00 AM
 why-use-prizes: ''
 submission-start: 11/05/2011 05:00 AM
-fiscal-year: FY 2012
+fiscal-year: FY12
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$20,000'

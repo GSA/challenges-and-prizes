@@ -21,7 +21,7 @@ external-url: http://science.education.nih.gov/nihlabchallenge.nsf
 submission-end: 12/15/2011 12:00 PM
 why-use-prizes: ''
 submission-start: 06/08/2011 12:00 AM
-fiscal-year: FY 2011
+fiscal-year: FY11
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

@@ -21,7 +21,7 @@ external-url: http://disasterprep.challengepost.com/submissions
 submission-end: 01/30/2011 04:59 AM
 why-use-prizes: ''
 submission-start: 10/28/2010 04:00 AM
-fiscal-year: FY 2011
+fiscal-year: FY11
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

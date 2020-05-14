@@ -20,7 +20,7 @@ external-url: http://www.socialsecurity.gov/open/contest/
 submission-end: '08/28/2010 03:00 AM'
 why-use-prizes: ''
 submission-start: 07/29/2010 04:00 AM
-fiscal-year: FY 2010
+fiscal-year: FY10
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

@@ -18,7 +18,7 @@ submission-start: 07/31/2019 12:00 AM
 submission-end: 11/05/2019 5:00 PM
 submission-link: https://www.solardecathlon.gov/2019/design/challenge.html
 prize: true
-fiscal-year: FY19-20
+fiscal-year: FY19, FY20
 legal-authority: Other
 challenge-manager: Rachel Romero
 challenge-manager-email: Rachel.Romero@nrel.gov

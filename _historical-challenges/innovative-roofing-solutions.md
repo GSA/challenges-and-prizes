@@ -21,7 +21,7 @@ external-url: https://jump.ideascale.com/a/ideas/top/campaign-filter/byids/campa
 submission-end: '08/27/2017 11:59 PM'
 why-use-prizes: ''
 submission-start: 05/11/2017 11:10 AM
-fiscal-year: FY 2017
+fiscal-year: FY17
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$10,000'

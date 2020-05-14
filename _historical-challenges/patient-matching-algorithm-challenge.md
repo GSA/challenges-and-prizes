@@ -20,7 +20,7 @@ external-url: https://www.patientmatchingchallenge.com/
 submission-end: '09/12/2017 02:00 PM'
 why-use-prizes: ''
 submission-start: 05/02/2017 12:00 AM
-fiscal-year: FY 2017
+fiscal-year: FY17
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$75,000'

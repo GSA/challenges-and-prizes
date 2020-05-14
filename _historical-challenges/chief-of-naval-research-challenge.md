@@ -22,7 +22,7 @@ external-url: http://go.usa.gov/c6y
 submission-end: 11/11/2010 04:00 AM
 why-use-prizes: ''
 submission-start: '08/31/2010 04:00 AM'
-fiscal-year: FY 2010
+fiscal-year: FY10
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$1,000,000'

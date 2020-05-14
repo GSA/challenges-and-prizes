@@ -21,7 +21,7 @@ external-url: https://herox.com/cubesat-challenge
 submission-end: 10/18/2017 05:00 PM
 why-use-prizes: ''
 submission-start: '08/15/2017 11:13 AM'
-fiscal-year: FY 2017
+fiscal-year: FY17
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

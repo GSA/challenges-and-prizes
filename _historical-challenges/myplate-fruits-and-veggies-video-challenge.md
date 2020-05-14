@@ -21,7 +21,7 @@ external-url: ''
 submission-end: 11/15/2011 05:00 PM
 why-use-prizes: ''
 submission-start: '09/26/2011 10:00 AM'
-fiscal-year: FY 2011
+fiscal-year: FY11
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$9,000'

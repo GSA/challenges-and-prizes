@@ -21,7 +21,7 @@ external-url: http://www.nhlbi.nih.gov/health/public/heart/obesity/wecan/videoco
 submission-end: 07/24/2010 03:00 AM
 why-use-prizes: ''
 submission-start: 06/03/2010 04:00 AM
-fiscal-year: FY 2010
+fiscal-year: FY10
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$1,500'

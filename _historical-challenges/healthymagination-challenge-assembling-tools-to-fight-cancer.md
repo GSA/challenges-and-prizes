@@ -21,7 +21,7 @@ external-url: http://www.healthymagination.com
 submission-end: 11/20/2011 05:00 AM
 why-use-prizes: ''
 submission-start: '09/15/2011 04:00 AM'
-fiscal-year: FY 2011
+fiscal-year: FY11
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$500,000'

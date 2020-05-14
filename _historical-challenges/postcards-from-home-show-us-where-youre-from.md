@@ -22,7 +22,7 @@ external-url: http://connect.state.gov/page/photo-contest
 submission-end: 12/18/2010 04:00 AM
 why-use-prizes: ''
 submission-start: 11/09/2010 05:00 AM
-fiscal-year: FY 2011
+fiscal-year: FY11
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$5,000'

@@ -23,7 +23,7 @@ external-url: http://www.hbcucfe.net/pdfs/HBCU%20Mental%20Health%20Promotion%20C
 submission-end: 01/15/2011 04:59 AM
 why-use-prizes: ''
 submission-start: 11/01/2010 04:00 AM
-fiscal-year: FY 2011
+fiscal-year: FY11
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$200'

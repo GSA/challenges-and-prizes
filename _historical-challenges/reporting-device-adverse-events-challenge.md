@@ -22,7 +22,7 @@ external-url: http://www.health2challenge.org/2011/09/11/reporting-device-advers
 submission-end: 02/04/2012 05:00 AM
 why-use-prizes: ''
 submission-start: '09/12/2011 04:00 AM'
-fiscal-year: FY 2011
+fiscal-year: FY11
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$40,000'

@@ -22,7 +22,7 @@ external-url: https://mchbgrandchallenges.hrsa.gov/challenges/care-coordination-
 submission-end: 11/09/2018 08:00 PM
 why-use-prizes: ''
 submission-start: '08/30/2018 08:00 AM'
-fiscal-year: FY19, FY 2018
+fiscal-year: FY19, FY18
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

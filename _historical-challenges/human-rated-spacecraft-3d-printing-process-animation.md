@@ -21,7 +21,7 @@ external-url: https://grabcad.com/challenges/nasa-challenge-human-rated-spacecra
 submission-end: '08/10/2018 12:00 AM'
 why-use-prizes: ''
 submission-start: 07/16/2018 12:00 AM
-fiscal-year: FY 2017
+fiscal-year: FY17
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$3,000'

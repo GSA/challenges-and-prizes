@@ -21,7 +21,7 @@ external-url: http://www.whitehouse.gov/commencement
 submission-end: 03/11/2011 11:00 PM
 why-use-prizes: ''
 submission-start: 02/01/2011 12:00 AM
-fiscal-year: FY 2011
+fiscal-year: FY11
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

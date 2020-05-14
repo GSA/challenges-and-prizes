@@ -21,7 +21,7 @@ external-url: http://www.whitehouse.gov/the-press-office/2011/11/02/white-house-
 submission-end: 12/10/2011 05:00 AM
 why-use-prizes: ''
 submission-start: 11/02/2011 04:00 AM
-fiscal-year: FY 2012
+fiscal-year: FY12
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

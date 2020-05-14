@@ -22,7 +22,7 @@ external-url: http://go.usa.gov/ceD
 submission-end: 02/08/2011 04:59 AM
 why-use-prizes: ''
 submission-start: '09/01/2010 04:00 AM'
-fiscal-year: FY 2010
+fiscal-year: FY10
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: ''

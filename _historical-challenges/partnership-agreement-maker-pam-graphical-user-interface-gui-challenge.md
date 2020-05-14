@@ -20,7 +20,7 @@ external-url: https://www.topcoder.com/challenge-details/30055736/?type=design
 submission-end: 01/31/2017 12:00 AM
 why-use-prizes: ''
 submission-start: 11/18/2016 12:00 AM
-fiscal-year: FY 2017
+fiscal-year: FY17
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$16,700'

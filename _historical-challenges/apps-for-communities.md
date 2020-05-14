@@ -21,7 +21,7 @@ external-url: http://appsforcommunities.challengepost.com/submissions
 submission-end: 10/04/2011 03:00 AM
 why-use-prizes: ''
 submission-start: 04/14/2011 04:00 AM
-fiscal-year: FY 2011
+fiscal-year: FY11
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$100,000'

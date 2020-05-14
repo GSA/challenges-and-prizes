@@ -22,7 +22,7 @@ external-url: http://www.edsimchallenge.com
 submission-end: 01/17/2017 04:59 PM
 why-use-prizes: ''
 submission-start: 11/02/2016 09:00 AM
-fiscal-year: FY 2017
+fiscal-year: FY17
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$680,000'

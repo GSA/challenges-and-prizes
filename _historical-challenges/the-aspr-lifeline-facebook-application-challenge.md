@@ -21,7 +21,7 @@ external-url: http://health2challenge.org/2011/07/12/the-aspr-lifeline-facebook-
 submission-end: 11/05/2011 03:00 AM
 why-use-prizes: ''
 submission-start: '08/22/2011 04:00 AM'
-fiscal-year: FY 2011
+fiscal-year: FY11
 public-voting-end-date: ''
 budget-and-resources: ''
 total-prize-offered-cash: '$16,000'
