@@ -44,7 +44,7 @@ Shaman’s participation provided funds to support students and personnel in his
 
 In fact, the CDC challenge opened the door for other competitions that followed, including the Defense Advanced Projects Research Agency (DARPA) <a href="https://www.challenge.gov/challenge/darpa-chikv-challenge/">CHIKV Challenge</a>, a $150,000 competition which sought models for the spread of the chikungunya virus.
 
-Prize-winning University of Arizona professors Joceline Lega and Heidi Brown won for developing a mathematical model that forecasts the chikungunya infection growth rate as it emerges in new countries.
+Prize-winning University of Arizona professors Joceline Lega and Heidi Brown won for developing a mathematical model that forecasts the chikungunya infection case counts as the disease emerged.
 
 The CHIKV competition operated on the premise that, if military and public health authorities could move beyond basic surveillance to accurately predict where and when a disease will appear, they could deploy supplies and launch educational campaigns well in advance. 
 
