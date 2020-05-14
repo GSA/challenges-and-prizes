@@ -1,5 +1,5 @@
 ---
-title: A ‘Model’ for Government: Federal agencies advance infectious disease modeling and forecasting with competitions
+title: A ‘Model’ for Government
 layout: post
 date: May 13, 2020
 author: Tammy White
