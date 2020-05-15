@@ -8,7 +8,7 @@ status: open
 sidenav: false
 card-image: /assets/netlify-uploads/beat-the-pandemic-2.png
 agency-logo: /assets/netlify-uploads/valogo.png
-tagline: "Build solutions to beat the pandemic: address the most pressing and
+tagline: "Build solutions to beat the pandemic: Address the most pressing and
   current issues in the ongoing COVID-19 crisis."
 agency: Department of Veterans Affairs
 partner-agencies-federal: VHA Innovation Ecosystem
