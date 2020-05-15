@@ -20,6 +20,11 @@ The challenge launched in 2013, and at the time, forecasting the spread of influ
 
 "We thought maybe a challenge was a way to move forward and at that time, challenges were new; CDC hadn’t done many," says Biggerstaff. "The competition seemed like a way to galvanize the research community."
 
+<figure style="float:left; margin:1em;" >
+  <img height="300px" src="{{ site.baseurl }}/assets/netlify-uploads/blog-post-a-model-for-gov-content-image-Jeffrey-Shaman.png" alt="Jeffrey Shaman, Columbia University"/>
+  <figcaption style="font-size: smaller;">Jeffrey Shaman, Columbia University</figcaption>
+</figure>
+
 CDC wanted models—developed with available digital data—to successfully predict the timing, peak and intensity of the 2013-2014 flu season. Eight teams completed the challenge, which required biweekly submissions of modeling data between Dec. 19, 2013 and March 27, 2014. In total, CDC reviewed and evaluated 13 forecast models, a higher number than it anticipated receiving through traditional means. 
 
 The competition allowed CDC to see who was working in the space and to evaluate then-state-of-the-art concepts, he says.
