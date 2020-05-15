@@ -1,9 +1,10 @@
 ---
-title: A ‘Model’ for Government
-layout: post
 date: May 13, 2020
-author: Author
+title: A ‘Model’ for Government
+tagline: Federal agencies advance infectious disease modeling and forecasting with competitions
 excerpt: This is an excerpt
+author: Author Here
+layout: post
 image: blog-post-a-model-for-gov-cover-image.jpg
 image_alt_text: Concept of computer model on coronavirus impact
 ---
@@ -11,14 +12,14 @@ image_alt_text: Concept of computer model on coronavirus impact
 Dr. Jeffrey Shaman and his Columbia University team work mostly from home these days. 
 Shaman has spent nearly two decades studying the effects of atmospheric conditions on mosquitos and the illnesses they carry, such as St. Louis encephalitis and West Nile Virus. 
 But today, the New York-based professor is tracking another virus.
-On several weekly calls facilitated by the Centers for Disease Control and Prevention (CDC), Shaman and other researchers are discussing inference, operations forecasts and projections for COVID-19, the disease at the center of a global pandemic that has resulted in more than 239,000 deaths worldwide.
+On several weekly calls facilitated by the Centers for Disease Control and Prevention (CDC), Shaman and other researchers are discussing inference, operations forecasts and projections for COVID-19, the disease at the center of a global pandemic that has resulted in more than <a href="https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200513-covid-19-sitrep-114.pdf?sfvrsn=17ebbbe_4" target="_blank" rel="noopener">239,000 deaths worldwide</a>.
 Shaman and his team know about infectious disease projections.
 
 In 2014, they claimed the $75,000 top prize in the CDC’s Predict the Influenza Season Challenge. The prize competition challenged participants to develop more advanced, real-time flu modeling to inform prevention strategies and control tactics.
 
 The challenge launched in 2013, and at the time, forecasting the spread of influenza had not been considered particularly feasible in any sort of operational way, explains Matthew Biggerstaff, a research epidemiologist in the CDC’s Epidemiology and Prevention Branch, Influenza Division.
 
-"We thought maybe a challenge was a way to move forward and at that time, challenges were new; CDC hadn’t done many," says Biggerstaff. "The competition seemed like a way to galvanize the research community."
+"We thought maybe a challenge was a way to move forward and at that time, challenges were new; CDC hadn’t done many," says Biggerstaff. "The competition seemed like a way to galvanize the research community."ß
 
 <figure style="float:left; margin:1em;" >
   <img height="300px" src="{{ site.baseurl }}/assets/netlify-uploads/blog-post-a-model-for-gov-content-image-Jeffrey-Shaman.png" alt="Jeffrey Shaman, Columbia University"/>
@@ -29,7 +30,7 @@ CDC wanted models—developed with available digital data—to successfully pred
 
 The competition allowed CDC to see who was working in the space and to evaluate then-state-of-the-art concepts, he says.
 
-Just three years prior, the H1N1 influenza virus surged into a global pandemic. Between April 2009 and 2010, the CDC estimates the respiratory condition claimed the lives of 12,469 Americans and between 151,700 and 575,400 people around the world before it was widely contained. 
+Just three years prior, the H1N1 influenza virus surged into a global pandemic. Between April 2009 and 2010, the <a href="https://www.cdc.gov/flu/pandemic-resources/2009-h1n1-pandemic.html" target="_blank" rel="noopener">CDC estimates</a> the respiratory condition claimed the lives of 12,469 Americans and between 151,700 and 575,400 people around the world before it was widely contained. 
 
 It identified a critical gap—the ability to rapidly and accurately forecast the spread of illnesses and pandemics.
 
