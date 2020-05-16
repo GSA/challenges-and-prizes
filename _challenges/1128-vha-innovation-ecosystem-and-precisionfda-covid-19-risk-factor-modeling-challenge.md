@@ -14,7 +14,7 @@ tagline: Develop artificial intelligence and machine learning models to predict
   COVID-19 patient health outcomes using synthetic veteran health records.
 agency: Department of Veterans Affairs - Veterans Health Administration
   Innovation Ecosystem
-partner-agencies-federal: Department of Health and Human Services - Food and Drug Administration
+partner-agencies-federal: VHA Innovation Ecosystem, U.S. Food and Drug Administration
 external-url: https://go.usa.gov/xverf
 type-of-challenge:
   - Scientific
