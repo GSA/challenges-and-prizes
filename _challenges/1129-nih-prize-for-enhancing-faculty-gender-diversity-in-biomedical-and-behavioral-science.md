@@ -123,6 +123,64 @@ rules: >-
   * Each entity agrees to follow all applicable federal, state, and local laws, regulations, and policies.
 
   * Each entity participating in this prize competition must comply with all terms and conditions of these rules, and participation in this prize competition constitutes each participant’s full and unconditional agreement to abide by these rules. Winning is contingent upon fulfilling all requirements herein.
+judging: >-
+  **Basis Upon Which a Winner Will Be Selected**
+
+
+  A panel of federal employees serving as judges will review the prize competition submissions based on the following criteria:
+
+
+  * Extent to which there is qualitative and quantitative, measurable data prior to, during, and/ or post intervention(s) that can be used to evaluate the success of the intervention(s) (20% of overall score)
+
+  * Extent to which there is demonstrated evidence of implementation of intervention(s) at the institution or department level (10% of overall score)
+
+  * Extent to which intervention(s) had impact on enhancing gender diversity of faculty after implementation (15% of overall score)
+
+  * Extent to which there is evidence of dissemination of knowledge for enhancing gender diversity and reducing potential sources of gender-based inequities within the institution (10% of overall score)
+
+  * Extent to which the intervention(s) has had an enhanced impact on the climate and inclusivity at the institution or departmental level (10% of overall score)
+
+  * Extent to which the intervention(s) led to increased, measurable markers of career advancement of diverse faculty compared to pre-intervention (10% of overall score)
+
+  * Extent to which each intervention(s) has been generalizable to external institutions and/or disseminated broadly. (10% of overall score)
+
+  * Extent to which effective efforts to enhance diversity at the applicant institution have become systemic and sustained. (15% of overall score)
+
+
+  **Low- or Limited-Resourced Institutions:** Recognizing that disparities exist amongst institutions, in order to ensure fairness of judging, judges will evaluate entries in two pools. Entries from research intensive institutions will be judged against each other. Separately, entries from “low- or limited-resourced institutions” (see definition above) will be judged against each other.
+how-to-enter: >-
+  **Registration Process for Participants**
+
+
+  Submission requirements and the online submission platform will be available closer to the Submission Start Date above**.**
+
+
+  **Submission Requirements**
+
+
+  All applications must be in English and be submitted by the deadline, using the online submission platform **(not yet available)**. Submissions should be no more than 10 pages (not including supporting data tables). Detailed instructions on submission requirements, format, and submission process are pending.
+
+
+  The submission should include the following:
+
+
+  1. Provide a detailed overview of past issue(s) that the institution encountered with gender diversity prior to initiation of the intervention(s).
+
+  2. Provide data on state of faculty gender diversity prior to the implementation of the listed intervention(s).This would include aggregate institutional data on biomedical and behavioral science department faculty; gender; race/ethnicity; faculty rank; non-tenure eligible, tenure eligible, tenured; job satisfaction; startup packages, and any other relevant data. This can also include demographic changes of students and postdoctoral fellows by department.
+
+  3. Describe the specific intervention(s) that the institution utilized to impact gender diversity. This should include a description of the environment in which the intervention was implemented, the resources and staff (including staff type) needed to implement. E.g. the student to faculty ratio, etc.
+
+  4. Describe the effect of the intervention(s). Provide data on post intervention outcomes. Include additional reports and data sources that reviewers can use to affirm impact of outcome(s) from intervention(s). This could include feedback from current and/or former faculty who have participated in, been impacted by, the intervention.
+
+  5. Describe how the intervention(s) had an impact on climate and/or culture in the institution and/or department.
+
+  6. Describe how the intervention(s) led to increased, measurable markers of career advancement for diverse faculty as compared to pre-intervention.
+
+  7. Report on efforts to disseminate the approach(es) and outcome(s) of the intervention(s) within and external to the institution (publications, workshops, meetings, trainings, etc.). If applicable/known, include information about uptake by other institution(s).
+
+  8. Provide information on ongoing and future efforts to enhance diversity at your institution, particularly with regard to biomedical, biobehavioral, and/or clinical areas.
+
+  9. For eligibility as a “low- or limited-resourced institutions,” a signed letter is required from the Provost or similar official with institution-wide responsibility verifying the eligibility of the applicant institution at the time of prize submission.
 ---
 ### Description
 
@@ -191,3 +249,42 @@ Each institution (also defined here as an “entity”) must designate a point o
 * By participating in this prize competition, each entity warrants that it is the sole author or owner of, or has the right to use, any copyrightable works included in the submission, that the works are wholly original with the entity (or is an improved version of an existing work that the entity has sufficient rights to use and improve), and that the submission does not infringe upon any copyright or any other rights of any third party of which the entity is aware. In addition, by participating in this prize competition, each entity grants to the NIH an irrevocable, paid-up, royalty-free, nonexclusive worldwide license to reproduce, publish, post, link to, share, and display publicly (e.g., on websites) the submission and its contents on the web or elsewhere. Each entity will retain all other intellectual property rights in their submissions, as applicable. To participate in the prize competition, each entity must warrant that there are no legal obstacles to providing the above-referenced nonexclusive license of entity's rights to the Federal Government. To receive an award, the entity will not be required to transfer their intellectual property rights to NIH, but the entity must grant to the federal government the nonexclusive license recited herein.
 * Each entity agrees to follow all applicable federal, state, and local laws, regulations, and policies.
 * Each entity participating in this prize competition must comply with all terms and conditions of these rules, and participation in this prize competition constitutes each participant’s full and unconditional agreement to abide by these rules. Winning is contingent upon fulfilling all requirements herein.
+
+### Judging Criteria
+
+**Basis Upon Which a Winner Will Be Selected**
+
+A panel of federal employees serving as judges will review the prize competition submissions based on the following criteria:
+
+* Extent to which there is qualitative and quantitative, measurable data prior to, during, and/ or post intervention(s) that can be used to evaluate the success of the intervention(s) (20% of overall score)
+* Extent to which there is demonstrated evidence of implementation of intervention(s) at the institution or department level (10% of overall score)
+* Extent to which intervention(s) had impact on enhancing gender diversity of faculty after implementation (15% of overall score)
+* Extent to which there is evidence of dissemination of knowledge for enhancing gender diversity and reducing potential sources of gender-based inequities within the institution (10% of overall score)
+* Extent to which the intervention(s) has had an enhanced impact on the climate and inclusivity at the institution or departmental level (10% of overall score)
+* Extent to which the intervention(s) led to increased, measurable markers of career advancement of diverse faculty compared to pre-intervention (10% of overall score)
+* Extent to which each intervention(s) has been generalizable to external institutions and/or disseminated broadly. (10% of overall score)
+* Extent to which effective efforts to enhance diversity at the applicant institution have become systemic and sustained. (15% of overall score)
+
+**Low- or Limited-Resourced Institutions:** Recognizing that disparities exist amongst institutions, in order to ensure fairness of judging, judges will evaluate entries in two pools. Entries from research intensive institutions will be judged against each other. Separately, entries from “low- or limited-resourced institutions” (see definition above) will be judged against each other.
+
+### How To Enter
+
+**Registration Process for Participants**
+
+Submission requirements and the online submission platform will be available closer to the Submission Start Date above**.**
+
+**Submission Requirements**
+
+All applications must be in English and be submitted by the deadline, using the online submission platform **(not yet available)**. Submissions should be no more than 10 pages (not including supporting data tables). Detailed instructions on submission requirements, format, and submission process are pending.
+
+The submission should include the following:
+
+1. Provide a detailed overview of past issue(s) that the institution encountered with gender diversity prior to initiation of the intervention(s).
+2. Provide data on state of faculty gender diversity prior to the implementation of the listed intervention(s).This would include aggregate institutional data on biomedical and behavioral science department faculty; gender; race/ethnicity; faculty rank; non-tenure eligible, tenure eligible, tenured; job satisfaction; startup packages, and any other relevant data. This can also include demographic changes of students and postdoctoral fellows by department.
+3. Describe the specific intervention(s) that the institution utilized to impact gender diversity. This should include a description of the environment in which the intervention was implemented, the resources and staff (including staff type) needed to implement. E.g. the student to faculty ratio, etc.
+4. Describe the effect of the intervention(s). Provide data on post intervention outcomes. Include additional reports and data sources that reviewers can use to affirm impact of outcome(s) from intervention(s). This could include feedback from current and/or former faculty who have participated in, been impacted by, the intervention.
+5. Describe how the intervention(s) had an impact on climate and/or culture in the institution and/or department.
+6. Describe how the intervention(s) led to increased, measurable markers of career advancement for diverse faculty as compared to pre-intervention.
+7. Report on efforts to disseminate the approach(es) and outcome(s) of the intervention(s) within and external to the institution (publications, workshops, meetings, trainings, etc.). If applicable/known, include information about uptake by other institution(s).
+8. Provide information on ongoing and future efforts to enhance diversity at your institution, particularly with regard to biomedical, biobehavioral, and/or clinical areas.
+9. For eligibility as a “low- or limited-resourced institutions,” a signed letter is required from the Provost or similar official with institution-wide responsibility verifying the eligibility of the applicant institution at the time of prize submission.
