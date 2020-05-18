@@ -8,8 +8,8 @@ permalink: /challenge/VHA-precisionFDA-COVID-19-risk-factor-modeling-challenge/
 challenge-id: "1128"
 status: open
 sidenav: false
-card-image: /assets/netlify-uploads/precisionfda.png
-agency-logo: /assets/netlify-uploads/va-long-logo.png
+card-image: /assets/netlify-uploads/vha-fda.png
+agency-logo: /assets/netlify-uploads/valogo.png
 tagline: Develop artificial intelligence and machine learning models to predict
   COVID-19 patient health outcomes using synthetic veteran health records.
 agency: Department of Veterans Affairs - Veterans Health Administration
