@@ -11,7 +11,9 @@ image_alt_text: Concept of computer model on coronavirus impact
  
 Dr. Jeffrey Shaman and his Columbia University team work mostly from home these days. 
 Shaman has spent nearly two decades studying the effects of atmospheric conditions on mosquitos and the illnesses they carry, such as St. Louis encephalitis and West Nile Virus. 
+
 But today, the New York-based professor is tracking another virus.
+
 On several weekly calls facilitated by the Centers for Disease Control and Prevention (CDC), Shaman and other researchers are discussing inference, operations forecasts and projections for COVID-19, the disease at the center of a global pandemic that has resulted in more than <a href="https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200513-covid-19-sitrep-114.pdf?sfvrsn=17ebbbe_4" target="_blank" rel="noopener">239,000 deaths worldwide</a>.
 Shaman and his team know about infectious disease projections.
 
@@ -53,9 +55,13 @@ The CHIKV competition operated on the premise that, if military and public healt
 Best-case scenario: They could get out in front of it and stop it in its tracks.
 
 A prize competition has a way of opening doors to new opportunities and joining people from different backgrounds to work towards a common goal. The DARPA competition sparked the winning partnership between Lega and Brown. They had worked together before, but the challenge opened a new opportunity and led to a string of new collaborations that didn’t exist before the competition.
+
 "As an epidemiologist working with a mathematician, this challenge has led me into a more quantitative direction," Brown says. "Working with Joceline has helped me to see my own research area from different perspectives."
+
 And that’s important, says Shaman, who encourages the interdisciplinary influx to unfold the science.
+
 "They’re going to have the facility and perspective that we’re going to need and want to capitalize on to help the field grow," Shaman says. 
+
 The number of rapidly spreading diseases over the past few decades show the need, including the Zaire ebolavirus, Middle East Respiratory Syndrome (MERS), H1N1, chikungunya, West Nile and Zika, to say nothing of the Spanish flu and polio that riveted the globe in the first first half of the 20th century. 
 
 "I’d definitely call this an emerging science, and I think there’s still a lot to do," Biggerstaff says. "Galvanizing this the first year through the [Predict the Flu Challenge] helped CDC lead this and put a stake in the ground that the agency thought this was an important thing to invest in and be a part of."
