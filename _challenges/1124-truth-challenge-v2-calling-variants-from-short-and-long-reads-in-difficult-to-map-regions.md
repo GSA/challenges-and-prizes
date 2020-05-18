@@ -19,7 +19,7 @@ external-url: https://go.usa.gov/xvQtW
 type-of-challenge:
   - Scientific
 submission-start: 2020/05/01 05:00 PM
-submission-end: 2020/05/31 11:59 PM
+submission-end: 2020/06/07 11:59 PM
 fiscal-year: FY20
 legal-authority: America COMPETES Act
 challenge-manager: Elaine Johanson
