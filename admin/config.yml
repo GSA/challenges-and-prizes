@@ -90,6 +90,25 @@ collections:
       - { label: 'Judging', name: 'judging', widget: 'markdown', required: false }
       - { label: 'How To Enter', name: 'how-to-enter', widget: 'markdown', required: false }
 
+  - name: 'blog posts'
+    label: 'Blog Posts'
+    label_singular: 'Blog Post'
+    folder: '_posts'
+    extension: md
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Date', name: 'date', widget: 'string', hint: 'ie. May 14, 2020' }
+      - { label: 'Layout', name: 'layout', widget: 'string', default: 'post' }
+      - { label: 'Post Title', name: 'title', widget: 'string' }
+      - { label: 'Tagline', name: 'tagline', widget: 'string',  }
+      - { label: 'Excerpt', name: 'excerpt', widget: 'string', required: false }
+      - { label: 'Author', name: 'author', widget: 'string' }
+      - { label: 'Image', name: 'image', widget: 'image', required: false }
+      - { label: 'Image Alt Text', name: 'image_alt_text', widget: 'string', required: false }
+      - { label: "Post Content", name: "body", widget: "markdown" }
+
 
 
       
