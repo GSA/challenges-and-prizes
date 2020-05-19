@@ -90,7 +90,7 @@ collections:
       - { label: 'Judging', name: 'judging', widget: 'markdown', required: false }
       - { label: 'How To Enter', name: 'how-to-enter', widget: 'markdown', required: false }
 
-  - name: 'blog posts'
+  - name: 'posts'
     label: 'Blog Posts'
     label_singular: 'Blog Post'
     folder: '_posts'
