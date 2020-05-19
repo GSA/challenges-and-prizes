@@ -4,7 +4,7 @@ challenge-title: Individuals Taking Energy Action in Manufacturing
 layout: front-matter-data-markdownify-content
 permalink: /challenge/individuals-taking-energy-action-in-manufacturing-iteam/
 challenge-id: "90"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/doe_logo_seal_color.jpg
 agency-logo: /assets/netlify-uploads/256px-Seal_of_the_United_States_Department_of_Energy.png
@@ -15,7 +15,7 @@ total-prize-offered-cash: $75,000
 type-of-challenge:
   - Ideas
 submission-start: 10/05/2018 12:00 AM
-submission-end: 2020/05/15 11:59 PM
+submission-end: 05/15/2020 11:59 PM
 fiscal-year: FY19, FY20
 legal-authority: America COMPETES Act
 challenge-manager: Tertia Speiser

@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/precision-FDA-9/
 challenge-id: 1095
-status: open
+status: closed
 sidenav: false
 card-image: /assets/images/cards/openFDA.png
 agency-logo: FDA_blue_logo.png
@@ -14,8 +14,8 @@ partners-non-federal:
 external-url: https://go.usa.gov/xd9nG
 total-prize-offered-cash:
 type-of-challenge: Analytics, visualization, and algorithms
-submission-start: 2020/01/17 02:20 PM
-submission-end: 2020/05/18 11:59 PM
+submission-start: 01/17/2020 02:20 PM
+submission-end: 05/18/2020 11:59 PM
 submission-link:
 prize: true
 fiscal-year: FY20
