@@ -1,13 +1,8 @@
 ---
 permalink: /about/
-layout: default
+layout: page
 title: About
 ---
-
-
-{::options parse_block_html="true" /}
-<div class="grid-container usa-prose">
-<div class="grid-row  padding-x-8 margin-bottom-4">
 
 # About Challenge.gov
 
@@ -36,5 +31,4 @@ Every prize competition is structured differently, and the details matter. Make 
 If you’re a member of the federal workforce and want to run a challenge, make sure to visit the [Challenge and Prize Toolkit]({{ site.baseurl }}/toolkit/){:target="_blank" rel="noopener"} for considerations in designing and executing a successful competition.
 
 And to post on Challenge.gov, drop us a line at [team@challenge.gov](mailto:team@challenge.gov) to get started.
-</div>
-</div>
+
