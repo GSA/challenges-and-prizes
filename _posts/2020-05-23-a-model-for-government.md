@@ -3,7 +3,7 @@ date: May 13, 2020
 title: A ‘Model’ for Government
 tagline: Federal agencies advance infectious disease modeling and forecasting with competitions
 excerpt: This is an excerpt
-author: Author Here
+author: Tammy White
 layout: post
 image: blog-post-a-model-for-gov-cover-image.jpg
 image_alt_text: Concept of computer model on coronavirus impact
@@ -17,11 +17,11 @@ But today, the New York-based professor is tracking another virus.
 On several weekly calls facilitated by the Centers for Disease Control and Prevention (CDC), Shaman and other researchers are discussing inference, operations forecasts and projections for COVID-19, the disease at the center of a global pandemic that has resulted in more than <a href="https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200513-covid-19-sitrep-114.pdf?sfvrsn=17ebbbe_4" target="_blank" rel="noopener">239,000 deaths worldwide</a>.
 Shaman and his team know about infectious disease projections.
 
-In 2014, they claimed the $75,000 top prize in the CDC’s Predict the Influenza Season Challenge. The prize competition challenged participants to develop more advanced, real-time flu modeling to inform prevention strategies and control tactics.
+In 2014, they claimed the $75,000 top prize in the <a href="https://www.challenge.gov/toolkit/case-studies/cdc-predict-the-flu/">CDC’s Predict the Influenza Season Challenge</a>. The prize competition challenged participants to develop more advanced, real-time flu modeling to inform prevention strategies and control tactics.
 
 The challenge launched in 2013, and at the time, forecasting the spread of influenza had not been considered particularly feasible in any sort of operational way, explains Matthew Biggerstaff, a research epidemiologist in the CDC’s Epidemiology and Prevention Branch, Influenza Division.
 
-"We thought maybe a challenge was a way to move forward and at that time, challenges were new; CDC hadn’t done many," says Biggerstaff. "The competition seemed like a way to galvanize the research community."ß
+"We thought maybe a challenge was a way to move forward and at that time, challenges were new; CDC hadn’t done many," says Biggerstaff. "The competition seemed like a way to galvanize the research community."
 
 <figure style="float:left; margin:1em;" >
   <img height="300px" src="{{ site.baseurl }}/assets/netlify-uploads/blog-post-a-model-for-gov-content-image-Jeffrey-Shaman.png" alt="Jeffrey Shaman, Columbia University"/>
@@ -46,7 +46,7 @@ Today, public health officials not only are familiar with the science, mathemati
 
 Shaman’s participation provided funds to support students and personnel in his laboratory, and helped his team gain visibility for follow-on research funding from agencies including the National Institutes of Health and the Department of Defense.
 
-In fact, the CDC challenge opened the door for other competitions that followed, including the Defense Advanced Projects Research Agency (DARPA) CHIKV Challenge, a $150,000 competition which sought models for the spread of the chikungunya virus.
+In fact, the CDC challenge opened the door for other competitions that followed, including the Defense Advanced Projects Research Agency (DARPA) <a href="https://www.challenge.gov/challenge/darpa-chikv-challenge/">CHIKV Challenge</a>, a $150,000 competition which sought models for the spread of the chikungunya virus.
 
 Prize-winning University of Arizona professors Joceline Lega and Heidi Brown won for developing a mathematical model that forecasts the chikungunya infection growth rate as it emerges in new countries.
 
