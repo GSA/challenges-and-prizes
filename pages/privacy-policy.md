@@ -1,12 +1,8 @@
 ---
 permalink: /privacy-policy/
-layout: default
+layout: page
 title: Privacy Policy
 ---
-
-{::options parse_block_html="true" /}
-<div class="grid-container usa-prose">
-<div class="grid-row  padding-x-8 margin-bottom-4">
 
 # Privacy
 
@@ -52,5 +48,3 @@ For more information on privacy and security:
 
 * See [GSA's Privacy and Security Policy](https://www.gsa.gov/reference/gsa-privacy-program){:target="_blank" rel="noopener"}. 
 * [Contact us](mailto:team@challenge.gov){:target="_blank" rel="noopener"} with questions.
-</div>
-</div>
