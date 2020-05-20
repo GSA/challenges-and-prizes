@@ -55,17 +55,17 @@ judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''
 rules: '<h3 class="h3-rule-heading">Rules for being eligible to participate in
-  the Competition:</h3>  <em><strong>-- NOTE: competition timeline was extended
+  the Competition:</h3> <p><em><strong>NOTE: competition timeline was extended
   until January 17, 2018. Top-ranked teams were invited to PerfLoc Demo Days at
-  NIST on April 26-27, 2018 where the winner was determined.) -- </strong></em>    Participation
+  NIST on April 26-27, 2018 where the winner was determined.</strong></em></p><p>Participation
   in the PerfLoc Prize Competition is open to ALL; however, not all participants
-  are eligible to win cash prizes as explained in the next section.    Each Competition
+  are eligible to win cash prizes as explained in the next section.</p><p>Each Competition
   Participant (individual, team, or legal entity) is required to register on the
   PerfLoc website and create ONE password-protected user account. There shall
   be one Official Representative for each Competition Participant. To create a
   user account, the Official Representative must provide a name, username, password,
   email address, and geographical location, and affirm that he/she has read and
-  consents to be governed by the Competition Rules. Multiple accounts per Participant
+  consents to be governed by the Competition Rules.</p><p>Multiple accounts per Participant
   are NOT allowed. At NIST''s discretion, any violation of this rule will be grounds
   for disqualification from the Competition. Multiple individuals and/or legal
   entities may collaborate as a team to submit a single entry, in which case the
@@ -74,14 +74,14 @@ rules: '<h3 class="h3-rule-heading">Rules for being eligible to participate in
   and local laws and regulations. Individuals entering on behalf of or representing
   a company, institution or other legal entity are responsible for confirming
   that their entry does not violate any policies of that company, institution
-  or legal entity.    During the competition testing period, Participants are
+  or legal entity.</p><p>During the competition testing period, Participants are
   allowed a total of <strong>150</strong> uses of the PerfLoc Performance Evaluation
   Portal and a maximum of three uses per day. At NIST''s discretion, any violation
   of this requirement will be grounds for disqualification from the Competition.
   Modifications and improvements to a Participant''s App during the competition
   testing period are to be expected, but the Participant should have one final
-  App ready at the end of the competition testing period.  <h3 class="h3-rule-heading">Rules
-  for being eligible to win a cash prize:</h3>  To be eligible for a cash prize:  <ul>    <li>A
+  App ready at the end of the competition testing period.</p>  <h3 class="h3-rule-heading">Rules
+  for being eligible to win a cash prize:</h3>  <p>To be eligible for a cash prize:  <ul>    <li>A
   Participant (whether an individual, team, or legal entity) must have registered
   to participate and complied with all of the requirements under section 3719
   of title 15, United States Code as contained herein.</li>    <li>At the time
@@ -102,7 +102,7 @@ rules: '<h3 class="h3-rule-heading">Rules for being eligible to participate in
   shall not be deemed ineligible because the Participant consulted with Federal
   employees or used Federal facilities in preparing its submission to the PerfLoc
   Prize Competition if the Federal employees and facilities are made available
-  to all Participants on an equitable basis.</li>  </ul>  In addition, interested
+  to all Participants on an equitable basis.</li>  </ul></p><p>  In addition, interested
   Participants who do not meet the eligibility requirements to win a prize (i.e.,
   individuals who are neither a US citizen nor a permanent resident of the United
   States or non-US-based entities) are encouraged to participate in the Competition.
@@ -110,20 +110,20 @@ rules: '<h3 class="h3-rule-heading">Rules for being eligible to participate in
   and use the PerfLoc Performance Evaluation Portal according to the PerfLoc Prize
   Competition Rules. The performance obtained by these Participants will be displayed
   on the PerfLoc website in the same manner as the performance obtained by Participants
-  who are eligible to win cash prizes.  <h3 class="h3-rule-heading">How to participate
-  in the Competition:</h3>  An interested party (individual, team, or legal entity)
+  who are eligible to win cash prizes.</p>  <h3 class="h3-rule-heading">How to participate
+  in the Competition:</h3>  <p>An interested party (individual, team, or legal entity)
   must initiate the process of participating in the Competition by registering
   at the PerfLoc website and creating a user account. The party is then allowed
   to download a number of smartphone data sets collected by NIST from the PerfLoc
   website. In the event NIST determines modifications to the data sets are needed,
-  all website registrants will be notified by email.    The party becomes a Participant
+  all website registrants will be notified by email.</p><p>The party becomes a Participant
   once he/she has built a smartphone indoor localization and tracking Android
   App (i.e., working software application that operates on a Wi-Fi and GPS enabled
   Android smartphone with possibly cellular service) AND has had the App evaluated
   at least once through the PerfLoc Performance Evaluation Portal. An entry consists
   of the file(s) uploaded to the PerfLoc Performance Evaluation Portal and, in
   the case of the Finalists, the App demonstrated at NIST (hereinafter referred
-  to as an "Entry").    <i>Types of PerfLoc Data</i>    The PerfLoc website contains
+  to as an "Entry").</p><p><i>Types of PerfLoc Data</i>    The PerfLoc website contains
   two types of data sets: training data and test data, collected by NIST researchers
   in four buildings using four different Android smartphones. Details for these
   two types of data sets are provided below:  <ol>    <li><i>Training data:</i>
@@ -144,30 +144,30 @@ rules: '<h3 class="h3-rule-heading">Rules for being eligible to participate in
   for download from the PerfLoc website. Participants are asked to upload location
   estimates generated by their App for ALL the designated time instances for each
   test data set. The Participants must provide such location estimates for ALL
-  test data sets.</li>  </ol>  <i>App Requirements</i>  <div class="figure-border">  <figure><img
+  test data sets.</li>  </ol> </p><p> <i>App Requirements</i>  <div class="figure-border">  <figure><img
   class="img-responsive" src="https://perfloc.nist.gov/images/Localization_Images/Horizontal_Error.jpg"
   alt="Horizontal error" width="520" height="323" /><figcaption><small>Horizontal
-  Error: One of the performance metric specified in ISO/IEC 18305</small></figcaption></figure>  </div>  &nbsp;    Participants
+  Error: One of the performance metric specified in ISO/IEC 18305</small></figcaption></figure>  </div></p><p>Participants
   should create an original indoor localization and tracking Android-based App.
   Note that Finalists invited to the PerfLoc App Demo Days will be required to
   run their Apps on a NIST-provided Google Pixel XL smartphone running on Android
   7.1.2 Nougat OS. The Apps must be able to compute location estimates in real-time
   based on the data collected by the smartphone in the course of the tests to
   be administered at that event. Each time requested to generate a location estimate,
-  the App should produce the estimate within five seconds.    <i>PerfLoc Performance
+  the App should produce the estimate within five seconds.</p><p><i>PerfLoc Performance
   Evaluation Portal Scoring</i>    Each App is evaluated over the web instantly
   when the Participant uploads on the PerfLoc Performance Evaluation Portal the
   location estimates generated by the App at the designated time instances. The
   Participant has to upload such location estimates for <strong>all test data
   sets, but not for training data sets</strong>. Each upload of location estimates
   for test data sets constitutes one use of the PerfLoc Performance Evaluation
-  Portal.    The PerfLoc Performance Evaluation Portal will instantly return five
+  Portal.</p><p>The PerfLoc Performance Evaluation Portal will instantly return five
   values of a single performance metric, namely spherical error 95% (SE95), whose
   definition is included in the Appendix to this document. One SE95 value is returned
   for each of the four buildings and an overall SE95 value is returned for all
   time instances and all test data sets. This is another way for the Participant
   to know how well his/her App is performing and what steps to take, if any, to
-  make it better.    The following formula will be used for assigning up to 80
+  make it better.</p><p>The following formula will be used for assigning up to 80
   points based on the overall SE95 performance (in meters):    <span class="mjx-chtml
   MJXc-display"><span id="MathJax-Element-1-Frame" class="mjx-chtml MathJax_CHTML"
   tabindex="0" data-mathml="&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;
@@ -235,15 +235,12 @@ rules: '<h3 class="h3-rule-heading">Rules for being eligible to participate in
   class="mjx-mtext"><span class="mjx-char MJXc-TeX-main-R">otherwise</span></span></span></span></span></span></span><span
   id="MJXc-Node-61" class="mjx-mo"></span></span></span></span><span class="MJX_Assistive_MathML
   MJX_Assistive_MathML_Block">score={80(e9−0.1×SE95−1)e9−1;if SE95≤900;otherwise</span></span></span>    This
-  function is plotted below and some of its sample values are given in the table
-  to the right.  <div class="row">  <div class="col-md-8" align="center"><img
-  class="img-responsive" src="https://perfloc.nist.gov/images/Score_SE95.svg"
-  width="437" height="328" /></div>  <div class="col-md-2" align="center">  <table>  <tbody>  <tr>  <th>SE95</th>  <th>Score</th>  </tr>  <tr>  <td>0</td>  <td>80</td>  </tr>  <tr>  <td>1</td>  <td>72.39</td>  </tr>  <tr>  <td>2</td>  <td>65.50</td>  </tr>  <tr>  <td>3</td>  <td>59.26</td>  </tr>  <tr>  <td>4</td>  <td>53.62</td>  </tr>  <tr>  <td>5</td>  <td>48.52</td>  </tr>  <tr>  <td>6</td>  <td>43.90</td>  </tr>  <tr>  <td>7</td>  <td>39.72</td>  </tr>  <tr>  <td>8</td>  <td>35.94</td>  </tr>  <tr>  <td>9</td>  <td>32.52</td>  </tr>  <tr>  <td>10</td>  <td>29.42</td>  </tr>  <tr>  <td>11</td>  <td>26.62</td>  </tr>  <tr>  <td>12</td>  <td>24.09</td>  </tr>  <tr>  <td>13</td>  <td>21.80</td>  </tr>  <tr>  <td>14</td>  <td>19.72</td>  </tr>  <tr>  <td>15</td>  <td>17.84</td>  </tr>  <tr>  <td>16</td>  <td>16.14</td>  </tr>  <tr>  <td>17</td>  <td>14.61</td>  </tr>  <tr>  <td>18</td>  <td>13.22</td>  </tr>  <tr>  <td>19</td>  <td>11.96</td>  </tr>  <tr>  <td>20</td>  <td>10.82</td>  </tr>  </tbody>  </table>  </div>  </div>  &nbsp;    All
+  function is plotted below and some of its sample values are given in the following table.  <div class="row"><div class="col-md-2" align="center">  <table>  <tbody>  <tr>  <th>SE95</th>  <th>Score</th>  </tr>  <tr>  <td>0</td>  <td>80</td>  </tr>  <tr>  <td>1</td>  <td>72.39</td>  </tr>  <tr>  <td>2</td>  <td>65.50</td>  </tr>  <tr>  <td>3</td>  <td>59.26</td>  </tr>  <tr>  <td>4</td>  <td>53.62</td>  </tr>  <tr>  <td>5</td>  <td>48.52</td>  </tr>  <tr>  <td>6</td>  <td>43.90</td>  </tr>  <tr>  <td>7</td>  <td>39.72</td>  </tr>  <tr>  <td>8</td>  <td>35.94</td>  </tr>  <tr>  <td>9</td>  <td>32.52</td>  </tr>  <tr>  <td>10</td>  <td>29.42</td>  </tr>  <tr>  <td>11</td>  <td>26.62</td>  </tr>  <tr>  <td>12</td>  <td>24.09</td>  </tr>  <tr>  <td>13</td>  <td>21.80</td>  </tr>  <tr>  <td>14</td>  <td>19.72</td>  </tr>  <tr>  <td>15</td>  <td>17.84</td>  </tr>  <tr>  <td>16</td>  <td>16.14</td>  </tr>  <tr>  <td>17</td>  <td>14.61</td>  </tr>  <tr>  <td>18</td>  <td>13.22</td>  </tr>  <tr>  <td>19</td>  <td>11.96</td>  </tr>  <tr>  <td>20</td>  <td>10.82</td>  </tr>  </tbody>  </table></p>  </div>  </div>  &nbsp;    <p>All
   Participant data uploads must be completed by 5:00 PM EDT (UTC-05:00) on August
   17, 2017. Uploads to the PerfLoc Performance Evaluation Portal before or after
   the competition testing period will not be evaluated or considered for award.
   Entries sent to NIST in any manner other than through the Event Website will
-  not be evaluated or considered for award.    The best performance of an App
+  not be evaluated or considered for award.</p><p>The best performance of an App
   (i.e., the best score of data generated by the App and uploaded to the portal)
   will be listed in the publically available rank-ordered table of performances,
   along with the Participant''s username, name, geographic location and the date
@@ -251,10 +248,10 @@ rules: '<h3 class="h3-rule-heading">Rules for being eligible to participate in
   modification results in a lower score than the highest score obtained by the
   Participant previously, this will count as one use of the PerfLoc Performance
   Evaluation Portal, but the lower score will not replace the highest one obtained
-  by the Participant previously.    At the end of the competition testing period,
+  by the Participant previously.</p><p>At the end of the competition testing period,
   in addition to SE95, many other performance metrics specified in the international
   standard ISO/IEC 18305 will be computed for the best version of the App developed
-  by each Participant and will be published on the PerfLoc Website.    <i>Judging</i>    The
+  by each Participant and will be published on the PerfLoc Website.</p><p><i>Judging</i>    The
   NIST Director will appoint a highly qualified judge. The judge will be a NIST
   employee with expertise in public safety and advanced communications. The Judge
   will determine winners according to the Judging Criteria described below. The
@@ -262,8 +259,8 @@ rules: '<h3 class="h3-rule-heading">Rules for being eligible to participate in
   director, or agent of, any entity that is a registered Participant in the Competition
   and may not have a familial or financial relationship with an individual who
   is a registered Participant. In the event of such a conflict, the Judge must
-  recuse himself or herself and a new Judge may be appointed.  <h3 class="h3-rule-heading">Basis
-  on which finalists and winners will be selected:</h3>  <b>Finalists:</b> The
+  recuse himself or herself and a new Judge may be appointed.</p>  <h3 class="h3-rule-heading">Basis
+  on which finalists and winners will be selected:</h3> <p><b>Finalists:</b> The
   top 3-5 Participants, as determined by their standing on the PerfLoc Performance
   Evaluation Portal at the end of the competition testing period, who are also
   eligible to receive a cash prize and have complied with the Rules of the Competition,
@@ -277,7 +274,7 @@ rules: '<h3 class="h3-rule-heading">Rules for being eligible to participate in
   at the PerfLoc App Demo Days at NIST. Therefore, there is an incentive for the
   Participants to develop not just an algorithm that yields the best overall SE95
   performance, but also an App that runs in real-time and, each time requested,
-  generates a location estimate as fast as possible (e.g.,in less than five seconds).    Upon
+  generates a location estimate as fast as possible (e.g.,in less than five seconds).</p><p>Upon
   receipt of an email from NIST informing you of your selection as a Finalist,
   you must respond within 48 hours to confirm your eligibility and willingness
   to attend the PerfLoc App Demo Days at NIST in person. If any of the selected
@@ -290,25 +287,25 @@ rules: '<h3 class="h3-rule-heading">Rules for being eligible to participate in
   in the case of a team or legal entity) will be invited to attend the PerfLoc
   App Demo Days on the NIST campus in Gaithersburg, MD. NIST will arrange and
   pay for the Official Representatives for the Finalists to travel to NIST to
-  take part in the PerfLoc App Demo Days.    At the PerfLoc App Demo Days Event,
+  take part in the PerfLoc App Demo Days.</p><p>At the PerfLoc App Demo Days Event,
   the finalists will install their Apps on a NIST-provided Google Pixel XL smartphone
   running on Android 7.1.2 Nougat OS and undergo testing in a NIST building. Each
   Finalist will also make a 10-minute presentation followed by audience question
   and answer. NIST reserves the right to run security scans on the installed App
   to ensure there is no risk to NIST IT systems during the Perfloc App Demo Days
   Event. At the event''s conclusion, NIST will remove the Participants'' app software
-  from the NIST smartphones.    <b>Winners:</b> The Winners of cash prizes will
+  from the NIST smartphones.</p><p><b>Winners:</b> The Winners of cash prizes will
   be determined by a Judge appointed by the NIST Director, using the Judging Criteria
-  outlined here.    <i>Judging Criteria:</i>  <ol>    <li>Overall Performance
+  outlined here.</p><p><i>Judging Criteria:</i>  <ol>    <li>Overall Performance
   on the PerfLoc Performance Evaluation Portal (up to 80 points)  <ol>    <li>Using
   the final ranking at the close of the competition testing period, a score of
   up to 80 points will be calculated using the Scoring Methodology described above.</li>  </ol>  </li>    <li>Performance
   during App Demo Days at NIST (20 points)  <ol>    <li>Localization accuracy
-  and latency of the App</li>  </ol>  </li>  </ol>  <strong>If a Finalist at the
+  and latency of the App</li>  </ol>  </li>  </ol></p><p>  <strong>If a Finalist at the
   PerfLoc App Demo Days does not have a functioning App, he/she will be disqualified
   from winning a prize.</strong> Specifically, an App is required to generate
   a location estimate, each time requested, in real-time (e.g., less than five
-  seconds).    NIST will announce the Finalists via the Event Website as well
+  seconds).</p><p>NIST will announce the Finalists via the Event Website as well
   as those Finalists that have been awarded a cash award (each, an "Award"). The
   anticipated number and amount of the Awards that will be awarded for this Competition
   is set forth in these rules; however, NIST is not obligated to make all or any
@@ -316,7 +313,7 @@ rules: '<h3 class="h3-rule-heading">Rules for being eligible to participate in
   Awards in the event an insufficient number of eligible Apps meet any one or
   more of the Judging Criteria for this Competition, based on NIST''s sole discretion.
   Using the Judging Criteria, a highly-qualified Judge (NIST employee appointed
-  by the NIST Director) will determine the winners of the Perfloc Prize Competition.    The
+  by the NIST Director) will determine the winners of the Perfloc Prize Competition.</p><p>The
   winner verification process for being eligible to receive an Award includes
   providing the full legal name, tax identification number or social security
   number, routing number and banking account to which the prize money can be deposited
@@ -328,11 +325,11 @@ rules: '<h3 class="h3-rule-heading">Rules for being eligible to participate in
   within a company or institution that has submitted an Entry through that representative.
   The list of Entries receiving Awards for the Competition, including the names
   of all members of a team, will be made public according to the timeline outlined
-  on the Event Website.    Winners are responsible for all taxes and reporting
+  on the Event Website.</p><p>Winners are responsible for all taxes and reporting
   related to any Award received as part of the Competition.    All costs incurred
-  in the preparation of Competition Entries are to be borne by Participants.  <h3
+  in the preparation of Competition Entries are to be borne by Participants.</p><h3
   class="h3-rule-heading">Demonstration of winning Apps at 2018 Microsoft Indoor
-  Localization Competition:</h3>  &nbsp;    Up to three Winners selected at the
+  Localization Competition:</h3></p><p>Up to three Winners selected at the
   PerfLoc App Demo Days at NIST may be invited by NIST to attend 2018 Microsoft
   Indoor Localization Competition, tentatively to be held at 2018 IEEE IPSN, Porto,
   Portugal, April 11-13, 2018. The Winners will be required to go through another
@@ -341,35 +338,35 @@ rules: '<h3 class="h3-rule-heading">Rules for being eligible to participate in
   conference participants, who do not have the opportunity to attend PerfLoc App
   Demo Days at NIST, to see how well the Winning Apps perform. The Winners may
   also make a 10-minute presentation on their Apps followed by audience question
-  and answer.    NIST will arrange and pay for the travel of the Official Representatives
+  and answer.</p><p>NIST will arrange and pay for the travel of the Official Representatives
   of the invited Winners to the conference to cover eligible travel costs such
-  as airfare, conference registration fee, and lodging.    The test and presentation
+  as airfare, conference registration fee, and lodging.</p><p>The test and presentation
   event is also an opportunity for Participants who are not eligible to win cash
   prizes to showcase their Apps. NIST may invite up to three such Apps to be showcased
   (demo and presentation)  in place of one or more Winning Entries (cash prize
   recipients), if their overall SE95 performance is better than one or more of
-  the Winning Entries.  <h3 class="h3-rule-heading">Point of Contact for the Competition:</h3>  Questions
+  the Winning Entries.</p><h3 class="h3-rule-heading">Point of Contact for the Competition:</h3>  Questions
   about the PerfLoc Prize Competition can be directed to Nader Moayeri, <a href="mailto:moayeri@nist.gov"
-  target="_top">moayeri@nist.gov</a>.  <h6>-- TERMS AND CONDITIONS --</h6>  <h3
-  class="h3-rule-heading">Intellectual property rights</h3>  Other than as set
+  target="_top">moayeri@nist.gov</a>.  <h5>-- TERMS AND CONDITIONS --</h5>  <h3
+  class="h3-rule-heading">Intellectual property rights</h3>  <p>Other than as set
   forth herein, NIST does not make any claim to ownership of your Entry or any
   of your intellectual property or third party intellectual property that it may
   contain. By participating in the PerfLoc Prize Competition, you are not granting
   any rights in any patents or pending patent applications related to your Entry;
   provided that by submitting an entry (i.e., participating in the Competition
   and uploading data to the PerfLoc Performance Evaluation Portal), you are granting
-  NIST certain limited rights as set forth herein.    By submitting an Entry,
+  NIST certain limited rights as set forth herein.</p><p>By submitting an Entry,
   you grant to NIST the right to review and score your Entry as described in the
   section "PerfLoc Performance Evaluation Portal Scoring", to describe your Entry
   in connection with any materials created in connection with the Competition
   including making public your username, name, highest score, and the date/time
   that score was obtained at the Event Website, and to have the Judge, Competition
-  administrators, and the designees of any of them, review your Entry.    By submitting
+  administrators, and the designees of any of them, review your Entry.</p><p>By submitting
   an Entry in the PerfLoc Prize Competition, you grant a non-exclusive, irrevocable,
   paid up right and license to NIST to use your name, likeness, biographical information,
   image, any other personal data submitted with your Entry and the contents in
   your Entry, in connection with the Perfloc Prize Competition for any purpose,
-  including promotion and advertisement of the competition and future challenges.    You
+  including promotion and advertisement of the competition and future challenges.</p><p>You
   agree that nothing in these Rules grants you a right or license to use any names
   or logos of NIST or the Department of Commerce, or any other intellectual property
   or proprietary rights of NIST or the Department of Commerce or their employees
@@ -378,7 +375,7 @@ rules: '<h3 class="h3-rule-heading">Rules for being eligible to participate in
   as a Participant on the Event Website and in materials from NIST announcing
   Winners, Finalists, or Participants in the Competition. Other than these uses
   or as otherwise set forth herein, you are not granting NIST any rights to your
-  trademarks.    Entries containing any matter which, in the sole discretion of
+  trademarks.</p><p>Entries containing any matter which, in the sole discretion of
   NIST, is indecent, defamatory, in obvious bad taste, which demonstrates a lack
   of respect for public morals or conduct, which promotes discrimination in any
   form, which shows unlawful acts being performed, which is slanderous or libelous,
@@ -387,11 +384,11 @@ rules: '<h3 class="h3-rule-heading">Rules for being eligible to participate in
   Entry shall be deemed disqualified and will not be evaluated or considered for
   award. NIST shall have the right to remove any content from the Event Website
   in its sole discretion at any time and for any reason, including, but not limited
-  to, any online comment or posting related to the Competition.    To advance
+  to, any online comment or posting related to the Competition.</p><p>To advance
   the goals of NIST''s public safety communications research and other relevant
   technical programs, NIST may negotiate a license for the use of intellectual
-  property developed by a registered participant in the PerfLoc Prize Competition.  <h3
-  class="h3-rule-heading">Confidential Information</h3>  By making a submission
+  property developed by a registered participant in the PerfLoc Prize Competition.</p>  <h3
+  class="h3-rule-heading">Confidential Information</h3><p>By making a submission
   to the PerfLoc Prize Competition, you agree that no part of your submission
   includes any confidential or proprietary information, ideas or products, including
   but not limited to information, ideas or products within the scope of the Trade
@@ -400,27 +397,27 @@ rules: '<h3 class="h3-rule-heading">Rules for being eligible to participate in
   confidential or fiduciary relationship or obligation of secrecy is established
   between NIST and you, your Entry team, the company or institution you represent
   when submitting an Entry, or any other person or entity associated with any
-  part of your Entry.  <h3 class="h3-rule-heading">Warranties</h3>  By participating
+  part of your Entry.</p><h3 class="h3-rule-heading">Warranties</h3>  <p>By participating
   in the PerfLoc Prize Competition, you represent and warrant that all information
   you submit is true and complete to the best of your knowledge, that you have
   the right and authority to submit the data generated by your App on your own
   behalf or on behalf of the persons and entities that you specify, and that your
   data uploaded to the PerfLoc Performance Evaluation Portal (both the information
-  submitted in the upload and the underlying technologies or concepts in the App):    (a)   is
+  submitted in the upload and the underlying technologies or concepts in the App):<br>(a)   is
   your own original work, or is submitted by permission with full and proper credit
-  given within your Entry;    (b)   does not contain confidential information
-  or trade secrets (yours or anyone else''s);    (c)   does not knowingly violate
+  given within your Entry;    <br>(b)   does not contain confidential information
+  or trade secrets (yours or anyone else''s);    <br>(c)   does not knowingly violate
   or infringe upon the patent rights, industrial design rights, copyrights, trademarks,
   rights in technical data, rights of privacy, publicity or other intellectual
-  property or other rights of any person or entity;    (d)   does not contain
+  property or other rights of any person or entity;    <br>(d)   does not contain
   malicious code, such as viruses, malware, timebombs, cancelbots, worms, Trojan
-  horses or other potentially harmful programs or other material or information;    (e)   does
+  horses or other potentially harmful programs or other material or information;    <br>(e)   does
   not and will not violate any applicable law, statute, ordinance, rule or regulation,
   including, without limitation, United States export laws and regulations, including,
   but not limited to, the International Traffic in Arms Regulations and the Department
-  of Commerce Export Regulations; and    (f)   does not trigger any reporting
-  or royalty or other obligation to any third party.  <h3 class="h3-rule-heading">Limitation
-  of Liability</h3>  By participating in the PerfLoc Prize Competition, you agree
+  of Commerce Export Regulations; and    <br>(f)   does not trigger any reporting
+  or royalty or other obligation to any third party.</p>  <h3 class="h3-rule-heading">Limitation
+  of Liability</h3>  <p>By participating in the PerfLoc Prize Competition, you agree
   to assume any and all risks and to release, indemnify and hold harmless NIST
   from and against any injuries, losses, damages, claims, actions and any liability
   of any kind (including attorneys'' fees) resulting from or arising out of your
@@ -431,7 +428,7 @@ rules: '<h3 class="h3-rule-heading">Rules for being eligible to participate in
   except in the case of willful misconduct, for any injury, death, damage, or
   loss of property, revenue, or profits, whether direct, indirect, or consequential,
   arising from your participation in the PerfLoc Prize Competition, whether the
-  injury, death, damage, or loss arises through negligence or otherwise.    NIST
+  injury, death, damage, or loss arises through negligence or otherwise.</p><p>NIST
   is not responsible for any miscommunications such as technical failures related
   to computer, telephone, cable, and unavailable network or server connections,
   related technical failures, or other failures related to hardware, software
@@ -444,43 +441,43 @@ rules: '<h3 class="h3-rule-heading">Rules for being eligible to participate in
   the terms set forth herein governing any phases taking place after the effective
   date of any such change. By entering, you agree to the terms set forth herein
   and to all decisions of NIST and/or all of their respective agents, which are
-  final and binding in all respects.    NIST is not responsible for: (1) Any incorrect
+  final and binding in all respects.</p><p>NIST is not responsible for: <br>(1) Any incorrect
   or inaccurate information, whether caused by a Participant, printing errors,
   or by any of the equipment or programming associated with or used in the PerfLoc
-  Prize Competition; (2) unauthorized human intervention in any part of the Entry
-  Process for the PerfLoc Prize Competition; (3) technical or human error that
+  Prize Competition; <br>(2) unauthorized human intervention in any part of the Entry
+  Process for the PerfLoc Prize Competition; <br>(3) technical or human error that
   may occur in the administration of the PerfLoc Prize Competition or the processing
-  of Entries; or (4) any injury or damage to persons or property that may be caused,
+  of Entries; or <br>(4) any injury or damage to persons or property that may be caused,
   directly or indirectly, in whole or in part, from a Participant''s participation
   in the PerfLoc Prize Competition or receipt or use or misuse of an Award. If
   for any reason an Entry is confirmed to have been deleted erroneously, lost,
   or otherwise destroyed or corrupted, the Participant''s sole remedy is to submit
-  another Entry in the PerfLoc Prize Competition.  <h3 class="h3-rule-heading">Termination
-  and Disqualification</h3>  NIST reserves the authority to cancel, suspend, and/or
+  another Entry in the PerfLoc Prize Competition.</p>  <h3 class="h3-rule-heading">Termination
+  and Disqualification</h3>  <p>NIST reserves the authority to cancel, suspend, and/or
   modify the PerfLoc Prize Competition, or any part of it, if any fraud, technical
   failures, or any other factor beyond NIST''s reasonable control impairs the
   integrity or proper functioning of the PerfLoc Prize Competition, as determined
-  by NIST in its sole discretion.    NIST reserves the right to disqualify any
+  by NIST in its sole discretion.</p><p>NIST reserves the right to disqualify any
   Participant or Participant team it believes to be tampering with the Entry process
   or the operation of the PerfLoc Prize Competition or to be acting in violation
-  of any applicable rule or condition.    Any attempt by any person to undermine
+  of any applicable rule or condition.</p><p>Any attempt by any person to undermine
   the legitimate operation of the PerfLoc Prize Competition may be a violation
   of criminal and civil law, and, should such an attempt be made, NIST reserves
   the authority to seek damages from any such person to the fullest extent permitted
-  by law.  <h3 class="h3-rule-heading">Verification of Potential Winner(s)</h3>  All
+  by law.</p>  <h3 class="h3-rule-heading">Verification of Potential Winner(s)</h3>  <p>All
   potential winners are subject to verification by NIST, whose decisions are final
-  and binding in all matters related to the PerfLoc Prize Competition.    Potential
+  and binding in all matters related to the PerfLoc Prize Competition.</p><p>Potential
   winner(s) must continue to comply with all terms and conditions of the PerfLoc
   Prize Competition Rules described herein, and winning is contingent upon fulfilling
   all requirements. In the event that a potential winner, or an announced winner,
   is found to be ineligible or is disqualified for any reason, NIST may make an
-  award, instead, to another Participant.  <h3 class="h3-rule-heading">Privacy
-  and Disclosure under FOIA</h3>  Except as provided herein, information submitted
+  award, instead, to another Participant.</p><h3 class="h3-rule-heading">Privacy
+  and Disclosure under FOIA</h3>  <p>Except as provided herein, information submitted
   throughout the PerfLoc Prize Competition will be used only to communicate with
   Participants regarding Entries and/or the PerfLoc Prize Competition. Participant
   Entries and submissions to this competition may be subject to disclosure under
-  the Freedom of Information Act ("FOIA").  <h6></h6>  <h3 class="h3-rule-heading">Authority</h3>  &nbsp;    15
-  U.S.C. 3719.  <h4>Appendix: SE95 Definition</h4>  Introduction    The performance
+  the Freedom of Information Act ("FOIA").</p> <h3 class="h3-rule-heading">Authority</h3><p>15
+  U.S.C. 3719.</p>  <h4>Appendix: SE95 Definition</h4>  <p>Introduction    The performance
   analysis boils down to comparing the location estimates generated by an App
   under test at a finite number <i>N</i> of test points with the corresponding
   ground truth coordinates of those points. For <i>i=1,2,...,N,</i> the following
@@ -919,13 +916,13 @@ winner-name-0: 'Tianxing Chu (Texas A&M University) and Professor Ruizhi Chen,
   and Ge Zhu (Wuhan University) '
 winner-solution-title-0: 'Indoor Localization App '
 winner-solution-link-1: ''
-winner-solution-description-1: N/A
-winner-name-1: 'No winner awarded '
+winner-solution-description-1: No winner awarded 
+winner-name-1: '2nd Place'
 winner-solution-title-1: N/A
-winner-solution-description-2: N/A
+winner-solution-description-2: No winner awarded 
 winner-solution-link-2: ''
 winner-solution-title-2: N/A
-winner-name-2: No winner awarded
+winner-name-2: '3rd Place'
 winner-solution-link-3: ''
 winner-solution-description-3: ''
 winner-solution-title-3: ''
@@ -956,9 +953,9 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: '<em><strong>-- NOTE: competition timeline was extended until January
+description: '<p><em><strong>NOTE: competition timeline was extended until January
   17, 2018. Top-ranked teams were invited to PerfLoc Demo Days at NIST on April 26-27,
-  2018 where the winner was determined.) -- </strong></em>    This competition is
+  2018 where the winner was determined.</strong></em></p><p>This competition is
   about developing the best possible indoor localization and tracking app for Android
   smartphones. Indoor localization is the capability to determine/estimate the location
   of an entity to be localized or tracked, such as a person, a robot, or some other
@@ -968,7 +965,7 @@ description: '<em><strong>-- NOTE: competition timeline was extended until Janua
   response and law enforcement. Other applications include fleet management, asset
   tracking in factories/warehouses/hospitals, tracking the elderly/children, personal
   navigation in museums and shopping malls, social networking, and the Internet of
-  Things (IoT).    PerfLoc Prize Competition participants are required to use the
+  Things (IoT).</p><p>PerfLoc Prize Competition participants are required to use the
   extensive Android smartphone data repository developed by NIST to develop their
   apps and have their apps’ performance evaluated through the PerfLoc Performance
   Evaluation Portal.  The Prize Purse for the PerfLoc Prize Competition is a total
@@ -977,13 +974,13 @@ description: '<em><strong>-- NOTE: competition timeline was extended until Janua
   at App Demo Days February 15-16, 2018. Up to three finalists will be selected as
   winners at the App Demo Days at NIST. Up to three winners will be provided invitational
   travel funds by NIST to showcase their apps at the 2018 IEEE IPSN Conference in
-  Porto, Portugal, April 11-1, 2018.    <em>To Enter:</em>  <ol>    <li>Visit the
+  Porto, Portugal, April 11-1, 2018. </p><p>   <em>To Enter:</em>  <ol>    <li>Visit the
   <a href="https://perfloc.nist.gov/">website</a> for the PerfLoc Prize Competition</li>    <li>Create
   an account at the PerfLoc website (see lower left bar)</li>    <li>Following the
   <a href="https://perfloc.nist.gov/perfloc-competition-rule.php">Rules</a> and other
   information on the PerfLoc website, develop and test your App at the PerfLoc Performance
   Evaluation Portal up to 150 times</li>  </ol>  <strong>Submissions are ONLY accepted
-  at the PerfLoc website. </strong>    &nbsp;'
+  at the PerfLoc website. </strong></p>'
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
