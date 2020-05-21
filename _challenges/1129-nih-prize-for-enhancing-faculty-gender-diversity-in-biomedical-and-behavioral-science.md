@@ -83,7 +83,7 @@ rules: >-
   Each institution (also defined here as an “entity”) must designate a point of contact who is responsible for all correspondence regarding this prize competition. A point of contact representing the entity should be employed by and/or acting at the behest of the entity, such as the President, Provost, Chancellor, or other senior-level administrator.
 
 
-  * To be eligible to win a prize under this competition, an entity—
+  To be eligible to win a prize under this competition, an entity—
 
   * * Shall have registered to participate in the prize competition under the rules promulgated by the NIH, as published in this announcement;
     * Shall have complied with all the requirements set forth in this announcement;
