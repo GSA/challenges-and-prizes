@@ -9,7 +9,7 @@ permalink: /feed-closed.json
     "feed_url": "{{ site.url }}/feed-closed.json",
     "expired": false,
     "_challenge": [
-{% for item in site.historical-challenges %}
+{% for item in site.all-challenges %}
 {% if item.layout == "front-matter-data" %}
 {
     "challenge-id": "{{ item.challenge-id}}",

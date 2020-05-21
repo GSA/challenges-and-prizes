@@ -100,25 +100,25 @@ collections:
   pages:
     output: true
     permalink: /:path/
-  challenges:
+  all-challenges:
     output: true
     permalink: /:path/
-  archived-challenges:
-    output: true
-    permalink: /:path/
-  historical-challenges:
-    output: true
-    source: challenges.json
-    id_key: name
-    layout: json-page
+  # archived-challenges:
+  #   output: true
+  #   permalink: /:path/
+  # all-challenges:
+  #   output: true
+  #   source: challenges.json
+  #   id_key: name
+  #   layout: json-page
 
 permalink: pretty
 
-page_gen:
-  - data: 'historical_challenges'
-    template: 'json-page'
-    name: 'name'
-    dir: 'historical-challenges' 
+# page_gen:
+#   - data: 'historical_challenges'
+#     template: 'json-page'
+#     name: 'name'
+#     dir: 'all-challenges' 
 
 markdown: kramdown
 plugins:

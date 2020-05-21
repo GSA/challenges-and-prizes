@@ -9,7 +9,7 @@ title: Archived Challenges - 2012
     <div class="grid-container">
             {% include archives-listing-banner.html %}
         <div class="grid-row usa-section">
-                {% assign sorted = site.historical-challenges | sort: 'submission-end' %}
+                {% assign sorted = site.all-challenges | sort: 'submission-end' %}
                 {% for challenge in sorted %}
                 {% if challenge.submission-end contains 2012 %}
         <div class="tablet:grid-col-6 cards">

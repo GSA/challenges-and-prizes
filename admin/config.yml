@@ -53,7 +53,7 @@ collections:
   - name: 'archived-challenges'
     label: 'Archived Challenges'
     label_singular: 'Archived Challenge'
-    folder: '_historical-challenges'
+    folder: '_all-challenges'
     identifier_field: 'challenge-title'
     slug: '{{challenge-id}}-{{challenge-title}}'
     create: true
