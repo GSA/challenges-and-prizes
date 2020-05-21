@@ -57,7 +57,7 @@ ideaSubmitFormInstruction: 'Entries should be submitted via the Challenge’s ho
 startDate: '2015-09-28T00:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 584
 moderatorAdminOnlyIdeasEnabled: false

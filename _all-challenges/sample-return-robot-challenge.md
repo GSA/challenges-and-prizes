@@ -4,7 +4,7 @@ ideaSubmitFormInstruction: <ul>   <li>Submit a team registration before January 
 startDate: '2018-11-26T06:50:45'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 601
 moderatorAdminOnlyIdeasEnabled: false

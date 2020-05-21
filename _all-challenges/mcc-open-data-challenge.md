@@ -17,7 +17,7 @@ ideaSubmitFormInstruction: <h3>What is the timeline?</h3>  Please return to this
 startDate: '2015-10-01T00:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 853
 moderatorAdminOnlyIdeasEnabled: false

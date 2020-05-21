@@ -4,7 +4,7 @@ ideaSubmitFormInstruction: Please visit the host InnoCentive site at this link t
 startDate: '2015-04-28T00:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 492
 moderatorAdminOnlyIdeasEnabled: false

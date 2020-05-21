@@ -16,7 +16,7 @@ ideaSubmitFormInstruction: <p><b>Requirements to Win a Prize</b></p>  <p>In orde
 startDate: '2015-06-05T17:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 852
 moderatorAdminOnlyIdeasEnabled: false

@@ -18,7 +18,7 @@ ideaSubmitFormInstruction: La compétition commence pars soumission des notes co
 startDate: '2015-06-01T00:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 823
 moderatorAdminOnlyIdeasEnabled: false

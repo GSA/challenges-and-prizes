@@ -17,7 +17,7 @@ ideaSubmitFormInstruction: 'The submitted proposal should include the following:
 startDate: '2017-03-07T00:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 901
 moderatorAdminOnlyIdeasEnabled: false

@@ -10,7 +10,7 @@ ideaSubmitFormInstruction: 'Email submissions to <a href="mailto:envisionano@nnc
 startDate: '2018-11-09T02:54:09'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 468
 moderatorAdminOnlyIdeasEnabled: false

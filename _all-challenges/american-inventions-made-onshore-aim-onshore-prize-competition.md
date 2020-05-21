@@ -83,7 +83,7 @@
 startDate: '2018-11-26T07:14:02'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 938
 moderatorAdminOnlyIdeasEnabled: false

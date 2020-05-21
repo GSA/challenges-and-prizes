@@ -3,7 +3,7 @@ ideaSubmitFormInstruction: Follow instructions at <a href="https://venturewell.
 startDate: '2016-10-11T00:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 881
 moderatorAdminOnlyIdeasEnabled: false

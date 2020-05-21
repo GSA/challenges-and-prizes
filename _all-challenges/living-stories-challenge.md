@@ -17,7 +17,7 @@ ideaSubmitFormInstruction: '<strong>How to Enter  </strong>    In order to enter
 startDate: '2018-11-26T07:05:15'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 832
 moderatorAdminOnlyIdeasEnabled: false

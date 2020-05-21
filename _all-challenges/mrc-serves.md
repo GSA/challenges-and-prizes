@@ -25,7 +25,7 @@ ideaSubmitFormInstruction: 'Create a short video from 60-90 seconds that shows e
 startDate: '2018-11-26T07:05:52'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 841
 moderatorAdminOnlyIdeasEnabled: false

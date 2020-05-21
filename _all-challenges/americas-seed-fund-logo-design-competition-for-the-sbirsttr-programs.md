@@ -6,7 +6,7 @@ ideaSubmitFormInstruction: Please review the rules as well terms and conditions 
 startDate: '2015-05-04T12:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 494
 moderatorAdminOnlyIdeasEnabled: false

@@ -12,7 +12,7 @@ ideaSubmitFormInstruction: '<u>Nomination Form</u>. Nominators may submit more t
 startDate: '2016-06-20T00:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 909
 moderatorAdminOnlyIdeasEnabled: false

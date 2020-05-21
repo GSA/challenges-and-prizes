@@ -31,7 +31,7 @@ ideaSubmitFormInstruction: 'The deadline for registration and electronic submiss
 startDate: '2018-11-26T07:04:37'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 822
 moderatorAdminOnlyIdeasEnabled: false

@@ -5,7 +5,7 @@ ideaSubmitFormInstruction: A full description of registration, rules, submission
 startDate: '2018-11-26T07:15:48'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 958
 moderatorAdminOnlyIdeasEnabled: false

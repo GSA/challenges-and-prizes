@@ -24,7 +24,7 @@ ideaSubmitFormInstruction: 'Draw a poster about the dangers of carbon monoxide (
 startDate: '2018-11-26T06:46:23'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 567
 moderatorAdminOnlyIdeasEnabled: false

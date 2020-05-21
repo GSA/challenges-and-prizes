@@ -3,7 +3,7 @@ ideaSubmitFormInstruction: ''
 startDate: '2018-12-06T12:57:43'
 votingAllowed: true
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 970
 moderatorAdminOnlyIdeasEnabled: true

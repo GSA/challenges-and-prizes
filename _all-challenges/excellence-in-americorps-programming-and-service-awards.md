@@ -6,7 +6,7 @@ ideaSubmitFormInstruction: Each nomination should specify from the eligibility l
 startDate: '2015-05-27T00:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 502
 moderatorAdminOnlyIdeasEnabled: false

@@ -7,7 +7,7 @@ ideaSubmitFormInstruction: Registration for this event will be accomplished onli
 startDate: '2018-11-09T03:04:55'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 484
 moderatorAdminOnlyIdeasEnabled: false

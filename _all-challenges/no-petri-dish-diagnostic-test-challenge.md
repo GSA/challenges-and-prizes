@@ -14,7 +14,7 @@ ideaSubmitFormInstruction: <p id="p-21" data-page="51340">In order to take part
 startDate: '2018-11-09T02:03:51'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 455
 moderatorAdminOnlyIdeasEnabled: false

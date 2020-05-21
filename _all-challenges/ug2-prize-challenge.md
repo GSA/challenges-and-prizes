@@ -25,7 +25,7 @@ ideaSubmitFormInstruction: 'A full description of rules, submissions, and evalua
 startDate: '2018-11-26T07:14:20'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 941
 moderatorAdminOnlyIdeasEnabled: false

@@ -3,7 +3,7 @@ ideaSubmitFormInstruction: 'See Guidlines at: http://hydrogenprize.org/ for more
 startDate: '2018-11-09T02:06:11'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 458
 moderatorAdminOnlyIdeasEnabled: false

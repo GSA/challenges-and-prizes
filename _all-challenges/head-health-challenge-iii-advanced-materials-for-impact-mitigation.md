@@ -8,7 +8,7 @@ ideaSubmitFormInstruction: 'To enter, you must complete two steps:    (1) Fill o
 startDate: '2018-11-09T02:53:26'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 467
 moderatorAdminOnlyIdeasEnabled: false

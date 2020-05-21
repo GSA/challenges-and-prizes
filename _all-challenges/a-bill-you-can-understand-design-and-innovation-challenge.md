@@ -13,7 +13,7 @@ ideaSubmitFormInstruction: <strong><u>Registration Process for Participants</u><
 startDate: '2018-11-26T07:05:03'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 829
 moderatorAdminOnlyIdeasEnabled: false

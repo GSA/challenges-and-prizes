@@ -3,7 +3,7 @@ ideaSubmitFormInstruction: ''
 startDate: '2011-09-15T00:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 214
 moderatorAdminOnlyIdeasEnabled: false

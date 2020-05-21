@@ -3,7 +3,7 @@ ideaSubmitFormInstruction: Please create an account at http://edu2030.agorize.c
 startDate: '2018-11-26T07:15:53'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 959
 moderatorAdminOnlyIdeasEnabled: false

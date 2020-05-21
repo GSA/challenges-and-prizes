@@ -17,7 +17,7 @@ ideaSubmitFormInstruction: 'By 1 p.m. local time (Washington, DC) on September 1
 startDate: '2018-11-26T07:05:43'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 839
 moderatorAdminOnlyIdeasEnabled: false

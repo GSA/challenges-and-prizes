@@ -16,7 +16,7 @@ ideaSubmitFormInstruction: '<h3><strong>Registration:</strong></h3>  To compete 
 startDate: '2016-05-25T00:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 842
 moderatorAdminOnlyIdeasEnabled: false

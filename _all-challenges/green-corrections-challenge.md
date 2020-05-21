@@ -2,7 +2,7 @@
 startDate: '2018-11-07T08:41:28'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 93
 moderatorAdminOnlyIdeasEnabled: false

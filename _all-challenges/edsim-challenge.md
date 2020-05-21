@@ -4,7 +4,7 @@ ideaSubmitFormInstruction: For a complete list of Challenge rules and to submit 
 startDate: '2018-11-26T07:07:39'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 863
 moderatorAdminOnlyIdeasEnabled: false

@@ -45,7 +45,7 @@ ideaSubmitFormInstruction: '<strong>1. To Participate</strong>    This Challenge
 startDate: '2015-03-02T00:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 473
 moderatorAdminOnlyIdeasEnabled: false

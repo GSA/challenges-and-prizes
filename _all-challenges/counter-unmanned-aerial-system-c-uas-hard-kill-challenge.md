@@ -25,7 +25,7 @@ ideaSubmitFormInstruction: '1. Interested parties should submit a white paper wh
 startDate: '2018-11-26T07:07:42'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 864
 moderatorAdminOnlyIdeasEnabled: false

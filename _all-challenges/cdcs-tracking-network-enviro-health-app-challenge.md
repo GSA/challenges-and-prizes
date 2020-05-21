@@ -5,7 +5,7 @@ ideaSubmitFormInstruction: 'Participants can register by visiting the Challenge 
 startDate: '2018-11-26T07:09:42'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 890
 moderatorAdminOnlyIdeasEnabled: false

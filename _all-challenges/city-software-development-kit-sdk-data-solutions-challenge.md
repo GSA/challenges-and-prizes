@@ -9,7 +9,7 @@ ideaSubmitFormInstruction: '<strong>Submit your solution in 3 easy steps:</stron
 startDate: '2015-05-08T00:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 496
 moderatorAdminOnlyIdeasEnabled: false

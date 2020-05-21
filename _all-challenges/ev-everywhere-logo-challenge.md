@@ -11,7 +11,7 @@ ideaSubmitFormInstruction: To create a submission, develop a compelling graphicÂ
 startDate: '2015-08-13T10:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 575
 moderatorAdminOnlyIdeasEnabled: false

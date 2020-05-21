@@ -19,7 +19,7 @@ ideaSubmitFormInstruction: '<strong>Participants will submit directly to InnoCen
 startDate: '2018-11-09T03:02:44'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 481
 moderatorAdminOnlyIdeasEnabled: false

@@ -16,7 +16,7 @@ ideaSubmitFormInstruction: 'Minimum information required for each submission:  <
 startDate: '2016-05-03T00:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 840
 moderatorAdminOnlyIdeasEnabled: false

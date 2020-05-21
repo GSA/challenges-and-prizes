@@ -4,7 +4,7 @@ ideaSubmitFormInstruction: Visit <a href="http://www.ctemakeoverchallenge.com" t
 startDate: '2016-03-09T00:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 811
 moderatorAdminOnlyIdeasEnabled: false

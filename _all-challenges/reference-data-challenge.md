@@ -10,7 +10,7 @@ ideaSubmitFormInstruction: <ol>   <li>To enter, create a user account at Challen
 startDate: '2015-07-21T09:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 569
 moderatorAdminOnlyIdeasEnabled: false

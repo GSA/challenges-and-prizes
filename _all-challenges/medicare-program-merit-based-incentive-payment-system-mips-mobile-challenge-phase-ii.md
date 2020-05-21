@@ -12,7 +12,7 @@ ideaSubmitFormInstruction: '<a href="https://s3.amazonaws.com/challenge-gov/wp-c
 startDate: '2018-11-26T07:05:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 828
 moderatorAdminOnlyIdeasEnabled: false

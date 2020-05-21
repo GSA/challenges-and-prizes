@@ -18,7 +18,7 @@ ideaSubmitFormInstruction: 'Entries must be submitted through the Office of Just
 startDate: '2018-11-26T07:06:27'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 849
 moderatorAdminOnlyIdeasEnabled: false

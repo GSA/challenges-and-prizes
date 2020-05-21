@@ -30,7 +30,7 @@ ideaSubmitFormInstruction: '<strong>SUBMISSION REQUIREMENTS:</strong>    Complet
 startDate: '2018-11-26T07:15:05'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 950
 moderatorAdminOnlyIdeasEnabled: false

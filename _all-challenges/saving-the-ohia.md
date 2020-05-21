@@ -4,7 +4,7 @@ ideaSubmitFormInstruction: Submissions for the Saving the Ohi'a Challenge have b
 startDate: '2018-09-12T15:02:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 24
 moderatorAdminOnlyIdeasEnabled: true

@@ -11,7 +11,7 @@ ideaSubmitFormInstruction: 'Fill out the submission form for personal contact in
 startDate: '2015-06-30T00:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 514
 moderatorAdminOnlyIdeasEnabled: false

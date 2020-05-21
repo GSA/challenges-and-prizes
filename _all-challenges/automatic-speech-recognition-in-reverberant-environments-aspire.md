@@ -4,7 +4,7 @@ ideaSubmitFormInstruction: All submissions must be entered through Innocentive, 
 startDate: '2014-11-17T00:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 787
 moderatorAdminOnlyIdeasEnabled: false

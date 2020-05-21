@@ -4,7 +4,7 @@ ideaSubmitFormInstruction: 'See "How to apply" and "Preparing your application: 
 startDate: '2015-10-09T00:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 604
 moderatorAdminOnlyIdeasEnabled: false

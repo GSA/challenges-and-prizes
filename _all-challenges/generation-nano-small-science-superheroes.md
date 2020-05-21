@@ -54,7 +54,7 @@ ideaSubmitFormInstruction: 'A complete entry consists of two components, a writt
 startDate: '2018-11-26T07:00:24'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 762
 moderatorAdminOnlyIdeasEnabled: false

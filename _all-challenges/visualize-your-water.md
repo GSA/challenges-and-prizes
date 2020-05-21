@@ -26,7 +26,7 @@ ideaSubmitFormInstruction: 'Create a challenge.gov account and upload your compl
 startDate: '2018-11-26T07:02:41'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 794
 moderatorAdminOnlyIdeasEnabled: false

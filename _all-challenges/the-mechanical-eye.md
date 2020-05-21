@@ -5,7 +5,7 @@ ideaSubmitFormInstruction: By submitting this solution, participant acknowledges
 startDate: '2018-09-23T13:56:44'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 67
 moderatorAdminOnlyIdeasEnabled: true

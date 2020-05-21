@@ -120,7 +120,7 @@ ideaSubmitFormInstruction: "<h3>This Challenge will be conducted in three phases
 startDate: '2015-05-20T14:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 499
 moderatorAdminOnlyIdeasEnabled: false

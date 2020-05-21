@@ -11,7 +11,7 @@ ideaSubmitFormInstruction: 'Enter the Contest Here: <a href="https://contest.sc
 startDate: '2017-10-05T12:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 964
 moderatorAdminOnlyIdeasEnabled: false

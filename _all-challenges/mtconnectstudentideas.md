@@ -2,7 +2,7 @@
 startDate: '2015-04-28T08:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 488
 moderatorAdminOnlyIdeasEnabled: false

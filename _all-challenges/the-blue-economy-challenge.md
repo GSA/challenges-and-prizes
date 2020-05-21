@@ -3,7 +3,7 @@ ideaSubmitFormInstruction: http://theblueeconomychallenge.com/apply/
 startDate: '2018-11-26T07:04:04'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 814
 moderatorAdminOnlyIdeasEnabled: false

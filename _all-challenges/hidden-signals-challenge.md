@@ -6,7 +6,7 @@ ideaSubmitFormInstruction: To be eligible to win a prize under this Competition,
 startDate: '2017-02-02T09:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 925
 moderatorAdminOnlyIdeasEnabled: false

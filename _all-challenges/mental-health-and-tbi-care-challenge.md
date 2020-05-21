@@ -3,7 +3,7 @@ ideaSubmitFormInstruction: Visit http://www.dcoe.ideascale.com    &nbsp;    &nbs
 startDate: '2015-05-04T00:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 495
 moderatorAdminOnlyIdeasEnabled: false

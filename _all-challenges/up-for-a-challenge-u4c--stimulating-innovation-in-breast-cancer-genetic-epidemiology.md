@@ -87,7 +87,7 @@ ideaSubmitFormInstruction: 'Registration Process for Participants    To register
 startDate: '2015-06-05T09:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 511
 moderatorAdminOnlyIdeasEnabled: false

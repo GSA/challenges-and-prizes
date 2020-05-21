@@ -75,7 +75,7 @@ ideaSubmitFormInstruction: 'Contestants will submit their application through ch
 startDate: '2018-11-26T07:08:23'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 874
 moderatorAdminOnlyIdeasEnabled: false

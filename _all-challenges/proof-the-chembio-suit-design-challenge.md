@@ -42,7 +42,7 @@ ideaSubmitFormInstruction: "<em>Submission Requirements:</em>  <ul>    <li>Submi
 startDate: '2018-11-26T07:06:16'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 846
 moderatorAdminOnlyIdeasEnabled: false

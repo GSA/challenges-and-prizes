@@ -20,7 +20,7 @@ ideaSubmitFormInstruction: The xTechSearch program is voluntary and open to all 
 startDate: '2018-11-26T07:16:06'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 961
 moderatorAdminOnlyIdeasEnabled: false

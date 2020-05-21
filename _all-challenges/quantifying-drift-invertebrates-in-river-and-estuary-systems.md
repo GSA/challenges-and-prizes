@@ -4,7 +4,7 @@ ideaSubmitFormInstruction: Go to <a href="http://www.innocentive.com/ar/challeng
 startDate: '2018-11-26T06:50:01'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 587
 moderatorAdminOnlyIdeasEnabled: false

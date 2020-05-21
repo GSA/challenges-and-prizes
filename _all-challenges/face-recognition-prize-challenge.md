@@ -25,7 +25,7 @@ ideaSubmitFormInstruction: '<strong>[STEP 1] Participants read the FRPC rules:</
 startDate: '2016-07-14T00:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 891
 moderatorAdminOnlyIdeasEnabled: false

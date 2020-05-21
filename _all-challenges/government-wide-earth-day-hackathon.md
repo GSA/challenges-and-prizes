@@ -15,7 +15,7 @@ ideaSubmitFormInstruction: 'Registration for this event can  be accomplished on
 startDate: '2015-11-16T08:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 816
 moderatorAdminOnlyIdeasEnabled: false

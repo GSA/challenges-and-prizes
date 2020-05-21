@@ -32,7 +32,7 @@ ideaSubmitFormInstruction: '<hr />  <p style="text-align: center;">The Challenge
 startDate: '2015-09-22T09:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 580
 moderatorAdminOnlyIdeasEnabled: false

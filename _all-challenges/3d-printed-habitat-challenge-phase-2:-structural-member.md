@@ -3,7 +3,7 @@ ideaSubmitFormInstruction: See registration details at <a href="http://bradley.
 startDate: '2016-10-07T00:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 861
 moderatorAdminOnlyIdeasEnabled: false

@@ -4,7 +4,7 @@ ideaSubmitFormInstruction: See <a href="https://cec.ideascale.com/a/pages/guidel
 startDate: '2018-11-26T07:14:35'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 944
 moderatorAdminOnlyIdeasEnabled: false

@@ -9,7 +9,7 @@ alt="Photo of a light bulb" width="468" height="310" />    &nbsp;'
 startDate: '2018-11-26T06:50:50'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 602
 moderatorAdminOnlyIdeasEnabled: false

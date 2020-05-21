@@ -4,7 +4,7 @@ ideaSubmitFormInstruction: Go to https://www.innocentive.com/ar/challenge/99336
 startDate: '2015-07-27T07:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 512
 moderatorAdminOnlyIdeasEnabled: false

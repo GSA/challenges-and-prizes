@@ -21,7 +21,7 @@ ideaSubmitFormInstruction: 'Before entering the contest, please review the rules
 startDate: '2015-05-29T08:54:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 503
 moderatorAdminOnlyIdeasEnabled: false

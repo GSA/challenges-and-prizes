@@ -2,7 +2,7 @@
 startDate: '2013-01-28T00:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 329
 moderatorAdminOnlyIdeasEnabled: false

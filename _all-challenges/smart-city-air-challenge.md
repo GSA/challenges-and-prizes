@@ -23,7 +23,7 @@ ideaSubmitFormInstruction: 'Using Challenge.gov, submit your strategy for deploy
 startDate: '2018-11-26T07:06:24'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 848
 moderatorAdminOnlyIdeasEnabled: false

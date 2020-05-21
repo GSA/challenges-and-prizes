@@ -24,7 +24,7 @@ ideaSubmitFormInstruction: "<strong>Proposals Submissions Must Include:</strong>
 startDate: '2018-11-26T07:13:04'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 929
 moderatorAdminOnlyIdeasEnabled: false

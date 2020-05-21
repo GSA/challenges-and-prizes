@@ -64,7 +64,7 @@ ideaSubmitFormInstruction: '<h4>Challenge Stages and Prizes</h4>  <h5>Stage 1: 
 startDate: '2018-11-26T07:08:40'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 877
 moderatorAdminOnlyIdeasEnabled: false

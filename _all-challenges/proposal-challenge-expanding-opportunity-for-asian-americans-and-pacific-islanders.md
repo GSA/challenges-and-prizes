@@ -31,7 +31,7 @@ ideaSubmitFormInstruction: 'Please adhere to the rules and use the linked <a tit
 startDate: '2018-11-07T08:41:14'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 92
 moderatorAdminOnlyIdeasEnabled: false

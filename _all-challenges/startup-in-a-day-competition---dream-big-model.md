@@ -5,7 +5,7 @@ ideaSubmitFormInstruction: See instructions on how to create a valid submission 
 startDate: '2018-11-09T04:04:30'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 508
 moderatorAdminOnlyIdeasEnabled: false

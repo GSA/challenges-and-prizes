@@ -26,7 +26,7 @@ ideaSubmitFormInstruction: <div class="field field-name-body field-type-text-wit
 startDate: '2015-02-04T14:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 476
 moderatorAdminOnlyIdeasEnabled: false

@@ -76,7 +76,7 @@ ideaSubmitFormInstruction: '<strong>Submission Process for Participants:</strong
 startDate: '2018-11-26T07:16:17'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 963
 moderatorAdminOnlyIdeasEnabled: false

@@ -21,7 +21,7 @@ ideaSubmitFormInstruction: "<strong>Data Submission and Registration</strong>   
 startDate: '2015-05-16T12:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 500
 moderatorAdminOnlyIdeasEnabled: false

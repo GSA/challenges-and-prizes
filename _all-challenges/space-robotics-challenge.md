@@ -3,7 +3,7 @@ ideaSubmitFormInstruction: http://www.spaceroboticschallenge.com
 startDate: '2018-11-26T07:06:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 843
 moderatorAdminOnlyIdeasEnabled: false

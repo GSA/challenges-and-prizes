@@ -28,7 +28,7 @@ ideaSubmitFormInstruction: '<strong>Process for Host Organizations to Submit The
 startDate: '2018-11-26T06:49:17'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 573
 moderatorAdminOnlyIdeasEnabled: false

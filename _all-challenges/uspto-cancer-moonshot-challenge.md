@@ -12,7 +12,7 @@ ideaSubmitFormInstruction: '<script id="mce_1" src="https://www.challenge.gov/wp
 startDate: '2016-08-09T00:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 847
 moderatorAdminOnlyIdeasEnabled: false

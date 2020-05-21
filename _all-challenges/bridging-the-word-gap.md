@@ -4,7 +4,7 @@ ideaSubmitFormInstruction: To create a submission, please visit www.wordgapchall
 startDate: '2014-09-30T00:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 591
 moderatorAdminOnlyIdeasEnabled: false

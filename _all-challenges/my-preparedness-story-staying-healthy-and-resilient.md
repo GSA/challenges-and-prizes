@@ -27,7 +27,7 @@ ideaSubmitFormInstruction: '<strong><em>How to Enter</em></strong>    Create a 
 startDate: '2016-01-04T00:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 742
 moderatorAdminOnlyIdeasEnabled: false

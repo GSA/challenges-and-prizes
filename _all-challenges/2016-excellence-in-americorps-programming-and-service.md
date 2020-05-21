@@ -8,7 +8,7 @@ ideaSubmitFormInstruction: Nominations should be submitted on the Submit Solutio
 startDate: '2016-04-04T12:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 820
 moderatorAdminOnlyIdeasEnabled: false

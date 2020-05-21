@@ -11,7 +11,7 @@ ideaSubmitFormInstruction: 'Overview of steps to enter this challenge:  <ol>    
 startDate: '2018-11-26T07:13:57'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 937
 moderatorAdminOnlyIdeasEnabled: false

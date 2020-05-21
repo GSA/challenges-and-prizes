@@ -10,7 +10,7 @@ ideaSubmitFormInstruction: 'Registration for this event will be accomplished onl
 startDate: '2016-08-20T06:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 867
 moderatorAdminOnlyIdeasEnabled: false

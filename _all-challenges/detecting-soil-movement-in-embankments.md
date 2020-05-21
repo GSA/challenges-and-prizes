@@ -5,7 +5,7 @@ ideaSubmitFormInstruction: <strong>All official entries must be submitted via th
 startDate: '2018-11-26T07:03:39'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 808
 moderatorAdminOnlyIdeasEnabled: false

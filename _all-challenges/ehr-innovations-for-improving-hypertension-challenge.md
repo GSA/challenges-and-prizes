@@ -90,7 +90,7 @@ ideaSubmitFormInstruction: '<b>PHASE 2</b>    Phase 2 submitters can include any
 startDate: '2014-07-07T00:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 94
 moderatorAdminOnlyIdeasEnabled: false

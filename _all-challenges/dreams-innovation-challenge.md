@@ -18,7 +18,7 @@ ideaSubmitFormInstruction: 'Interested organizations are requested to submit Exp
 startDate: '2018-11-26T07:03:25'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 805
 moderatorAdminOnlyIdeasEnabled: false

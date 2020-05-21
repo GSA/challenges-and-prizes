@@ -19,7 +19,7 @@ ideaSubmitFormInstruction: You will first have to create an account on Kaggle.co
 startDate: '2017-03-20T00:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 903
 moderatorAdminOnlyIdeasEnabled: false

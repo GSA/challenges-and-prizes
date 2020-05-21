@@ -6,7 +6,7 @@ ideaSubmitFormInstruction: Go to the "Submit Solutions" tab on the left side of 
 startDate: '2015-06-01T06:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 505
 moderatorAdminOnlyIdeasEnabled: false

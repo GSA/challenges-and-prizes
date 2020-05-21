@@ -28,7 +28,7 @@ ideaSubmitFormInstruction: '<strong>Registration</strong>    A full description 
 startDate: '2018-11-26T07:14:30'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 943
 moderatorAdminOnlyIdeasEnabled: false

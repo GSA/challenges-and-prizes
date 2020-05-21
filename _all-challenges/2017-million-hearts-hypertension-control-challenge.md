@@ -69,7 +69,7 @@ ideaSubmitFormInstruction: 'To enter the Challenge, participants must complete t
 startDate: '2018-11-26T07:09:33'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 888
 moderatorAdminOnlyIdeasEnabled: false

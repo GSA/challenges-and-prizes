@@ -7,7 +7,7 @@ ideaSubmitFormInstruction: <div class="container">  <div>  <div class="container
 startDate: '2018-11-26T07:15:42'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 957
 moderatorAdminOnlyIdeasEnabled: false

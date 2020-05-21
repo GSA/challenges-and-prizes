@@ -25,7 +25,7 @@ ideaSubmitFormInstruction: "<h4>3. HOW TO ENTER</h4>  To enter the Challenge:   
 startDate: '2015-08-01T00:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 782
 moderatorAdminOnlyIdeasEnabled: false

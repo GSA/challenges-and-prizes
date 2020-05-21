@@ -30,7 +30,7 @@ ideaSubmitFormInstruction: Proposals should outline a partnership idea that clea
 startDate: '2018-11-26T07:16:29'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 id: 965
 moderatorAdminOnlyIdeasEnabled: false
