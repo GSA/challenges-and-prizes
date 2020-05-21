@@ -1,12 +1,8 @@
 ---
 permalink: /contact/
-layout: default
+layout: page
 title: Contact
 ---
-
-{::options parse_block_html="true" /}
-<div class="grid-container usa-prose">
-<div class="grid-row  padding-x-8 margin-bottom-4">
 
 # Contact Us
 
@@ -14,6 +10,4 @@ The Challenge.gov platform is available at no cost to all federal agencies to he
 
 Contact the Challenge.gov team at [team@challenge.gov](mailto:team@challenge.gov) to learn how to get started. 
 
-You can also keep up with the community and Challenge.gov on social media: <a href="http://www.twitter.com/challengegov" target="_blank" rel="noopener">Twitter </a> | <a href="http://www.facebook.com/challengegov" target="_blank" rel="noopener">Facebook</a>
-</div>
-</div>
+You can also keep up with the community and Challenge.gov on social media: <a href="http://www.twitter.com/challengegov" target="_blank" rel="noopener">Twitter </a> & <a href="http://www.facebook.com/challengegov" target="_blank" rel="noopener">Facebook</a>
