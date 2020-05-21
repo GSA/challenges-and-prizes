@@ -81,18 +81,16 @@ rules: >-
 
 
   Each institution (also defined here as an “entity”) must designate a point of contact who is responsible for all correspondence regarding this prize competition. A point of contact representing the entity should be employed by and/or acting at the behest of the entity, such as the President, Provost, Chancellor, or other senior-level administrator.
-  
-  
-  * To be eligible to win a prize under this competition, an entity—
-  
-    * Shall have registered to participate in the prize competition under the rules promulgated by the NIH, as published in this announcement;
-    * Shall have complied with all the requirements set forth in this announcement;
-    * Shall be incorporated in and maintain a primary place of business in the United States;
-    * Shall not be a federal entity or federal employee acting within the scope of their employment;
-    * Shall not be a federal employee of the Department of Health and Human Services (or any component of HHS) acting in their personal capacity;
-    * Who is employed by a federal agency or entity other than HHS (or any component of HHS), should consult with an agency ethics official to determine whether the federal ethics rules will limit or prohibit the acceptance of a prize under this prize competition;
-    * Shall not be a judge of the prize competition, or any other party involved with the design, production, execution, or distribution of the prize competition or the immediate family of such a party (i.e., spouse, parent, step-parent, child, or step-child).
-  * To be defined as a “low- or limited-resourced institution” that engages in biomedical or behavioral research, the entity must meet the eligibility criteria of one of the two categories listed below–
+
+-   To be eligible to win a prize under this competition, an entity—
+    -   Shall have registered to participate in the prize competition under the rules promulgated by the NIH, as published in this announcement;
+    -   Shall have complied with all the requirements set forth in this announcement;
+    -   Shall be incorporated in and maintain a primary place of business in the United States;
+    -   Shall not be a federal entity or federal employee acting within the scope of their employment;
+    -   Shall not be a federal employee of the Department of Health and Human Services (or any component of HHS) acting in their personal capacity;
+    -   Who is employed by a federal agency or entity other than HHS (or any component of HHS), should consult with an agency ethics official to determine whether the federal ethics rules will limit or prohibit the acceptance of a prize under this prize competition;
+    -   Shall not be a judge of the prize competition, or any other party involved with the design, production, execution, or distribution of the prize competition or the immediate family of such a party (i.e., spouse, parent, step-parent, child, or step-child).
+-   To be defined as a “low- or limited-resourced institution” that engages in biomedical or behavioral research, the entity must meet the eligibility criteria of one of the two categories listed below–
 
   * **1) Undergraduate-Focused Institutions​**
 
