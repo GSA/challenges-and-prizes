@@ -1,58 +1,83 @@
 ---
 ideaSubmitFormInstruction: ''
-startDate: '2014-08-15T00:00:00'
+startDate: '2015-09-14T00:00:00'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
-challenge-id: 438
+challenge-id: 578
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: The National Institutes of Health is seeking novel robust methods for analysis
-  of individual cells that can detect and assess changes in cell behavior and function
-  over time.
-groupName: Department of Health and Human Services - National Institutes of Health
+tagline: Algorithm that can be translated into a software update for any commercial
+  Raman system in the field
+groupName: Department of Defense
 hideIdeaAuthor: false
 template: ideation
 campaignAttributes:
 attributes:
 total-prize-awarded-cash: ''
-external-url: https://www.innocentive.com/ar/challenge/9933618?cc=NIHdotgov
-submission-end: 12/15/2014 12:00 AM
+external-url: https://www.innocentive.com/ar/challengeSeeker/details/9933552
+submission-end: 11/15/2015 11:59 PM
 why-use-prizes: ''
-submission-start: '08/15/2014 12:00 AM'
-fiscal-year: FY14
+submission-start: '09/14/2015 12:00 AM'
+fiscal-year: FY15
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '$500,000'
+total-prize-offered-cash: '$25,000'
 campaign-owner: ''
 public-voting-start-date: ''
-legal-authority: America COMPETES
+legal-authority: Direct Prize Authority - DOD
 total-number-of-prizes-awarded: ''
 evaluation-of-submissions: ''
-agency-id: '102'
+agency-id: '92'
 solicitation-of-submissions: ''
 total-submission-received: ''
 total-number-of-participant: ''
 show-winners-instead-of-prizes: 'No'
 estimated-value-of-partner-contributions: ''
-non-monetary-incentives-awarded: Phase 1 may award up to 6 prizes from a total
-  prize award pool of $100,000 for the theoretical portion of the competition.
+non-monetary-incentives-awarded: ''
 partner-agencies-federal: ''
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''
-rules: ''
+rules: 'The submitted proposal should include the following:  <ol>   <li>A detailed
+  description of the proposed algorithm/system and how it was derived.</li>  </ol>  <ol
+  start="2">   <li>Rationale as to why the Solver believes that the proposed algorithm/system
+  will work. Goodness of fit alone is not guaranteed an award. The Solver needs
+  to explain their algorithm and the reasoning behind it based on sound principles.
+  The Solver should address each of the Solution Requirements described in the
+  Detailed Description.</li>  </ol>  <ol start="3">   <li>Demonstration – The
+  Solver should show the goodness of fit using the given data and demonstrate
+  the algorithm works.  The algorithm should correctly identify the spectra as
+  the mixture component rather than the pure components at least 95% of the time.</li>  </ol>  <ol
+  start="4">   <li>The Algorithm itself should be delivered in a file format readable
+  by the Seeker. This could be done by delivering the source code or an executable
+  file. If necessary, instructions should be provided on how to run the solution. 
+  Permitted programming languages are C, C++, C#, Java, MatLab, and Python.  The
+  Seeker is flexible in the regard, and other languages may be acceptable with
+  prior acceptance by the Seeker. If the Seeker cannot read the format, the submission
+  will not be evaluated or awarded.</li>  </ol>  The proposal <u>should not</u>
+  include any personal identifying information (name, username, company, address,
+  phone, email, personal website, resume, etc.)    This Challenge will be awarded
+  based on deliverables. For an algorithm that can meet the requirements the award
+  amount is <strong>$25,000</strong>.    The award is contingent upon theoretical
+  evaluation and experimental validation of the submitted Solution by the Seeker.
+  The algorithms will be tested on the Seeker’s data of known mixtures.    To
+  receive an award, the Solvers will have to transfer to the Seeker their <em>exclusive
+  Intellectual Property (IP) rights</em> to the solution. The Seeker is willing,
+  in return, to grant a license to the Solver so they can continue to use the
+  solution.  <em>However, the Seeker will be willing to consider a licensing agreement
+  for a partial award, if exclusive IP cannot be granted by the Solver. </em>'
 submission-start-date-1: ''
 hide-challenge-timeline: 'No'
 judging-start-date: ''
 winners-announced-date: ''
 cash-prizes-and-non-cash-prize-awards: ''
 campaign-owner-email: ''
-solution-type: Ideas
+solution-type: Software and apps
 partner-agencies-non-federal: ''
-original-post-id: '58872'
+original-post-id: '83541'
 total-number-of-winners-awarded: ''
 hosting: Externally (Challenge details will redirect to external url)
 hide-challenge-funnel: 'Yes'
@@ -122,8 +147,12 @@ judging-criteria-8: ''
 judging-criteria-description-9: ''
 judging-criteria-percentage-9: ''
 judging-criteria-9: ''
-prize-description-0: ''
-prize-cash-amount-0: '500000'
+prize-description-0: This Challenge will be awarded based on deliverables. For
+  an algorithm that can meet the requirements the award amount is $25,000.    The
+  award is contingent upon theoretical evaluation and experimental validation
+  of the submitted Solution by the Seeker. The algorithms will be tested on the
+  Seeker’s data of known mixtures.
+prize-cash-amount-0: '25000'
 prize-name-0: ''
 prize-description-1: ''
 prize-cash-amount-1: ''
@@ -221,12 +250,30 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: 'Your ideas will help NIH identify changes at the single-cell level and
-  further understand how diseases progress and how to design more precise treatments.
-  Spurring the development of innovative solutions and combining the immense brainpower
-  of scientists, engineers, and innovators will propel the next generation of single
-  cell analysis. This Challenge is structured in two linked phases: Phase 1 is Theoretical,
-  and Phase 2 is a Reduction to Practice of the Phase 1 Solution.'
+description: "<p><strong><u>Background</u></strong>    Raman spectroscopy is commonly
+  utilized in the field for the identification of bulk powders due to its reliability
+  and high specificity; however, this specificity poses a problem when the unknown
+  bulk powder is a mixture. Each mixture produces unique spectra at different concentrations
+  (non-linear) and current algorithms or systems are not proficient at identifying
+  mixtures based on the pure components recorded in its library. In the field of explosive
+  detection, this poses a problem when dealing with homemade explosives (HMEs) especially
+  oxidizer/fuel mixtures. Vendors have attempted to address this issue with their
+  Raman systems; however, they have not yet found a robust solution.</p><p><strong><u>The
+  Challenge</u></strong>    From this Challenge we ideally seek to receive an algorithm
+  that can be translated into a software update for any commercial Raman system in
+  the field. This solution will allow the system to better identify mixtures and preferably
+  be able to calculate the ratio of the components in a 2 component mixture.    Solvers
+  are challenged to come up with an algorithm that can identify the referenced 2 component
+  mixtures by utilizing the spectra for the individual pure components in the library
+  and not a library of mixture spectra. The algorithm should still identify pure components
+  correctly.  In addition, it would be nice to have their relative concentrations
+  from the Raman spectra, but it is not absolutely required as some assumptions about
+  ratios can be made.</p><p>Typically for oxidizer and fuel mixtures the Raman signal
+  is dominated by the oxidizer signal. The identification of a mixture with both fuel
+  and oxidizer requires identification of the fuel component.</p><p>Solvers are not obligated
+  to use this approach, but a potential solution could include saturating the oxidizer
+  signal and running an algorithm to identify the smaller return from the fuel component,
+  while ignoring the saturated peaks.</p>"
 campaignStatusName: Launched
 templateId: 0
 stageStatistics: []
@@ -238,13 +285,13 @@ hideCommentAuthor: false
 authorizedGroupIds: []
 userSubscriptionAllowed: false
 bannerImage: ''
-groupId: 165
+groupId: 27
 showTagline: true
-name: Follow that Cell
+name: An Algorithm to Identify Material Mixtures from Raman Spectra
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
-permalink: "/challenge/follow-that-cell/"
+permalink: "/challenge/an-algorithm-to-identify-material-mixtures-from-raman-spectra/"
 layout: json-page
 ---
