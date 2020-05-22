@@ -8,8 +8,9 @@ status: open
 sidenav: false
 card-image: /assets/netlify-uploads/civic-innovation-340x160.png
 agency-logo: /assets/netlify-uploads/nsf.png
-tagline: Implement innovative approaches to address mobility and resilience
-  priorities in their communities.
+tagline: A research and action competition in the smart and connected
+  communities domain supporting ready-to-implement, research-based pilot
+  projects addressing community-identified priorities
 agency: National Science Foundation
 partner-agencies-federal: U.S. Department of Energy, U.S. Department of Homeland Security
 external-url: https://nsfcivicinnovation.org/
