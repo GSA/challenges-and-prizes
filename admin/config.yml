@@ -9,10 +9,11 @@ publish_mode: editorial_workflow
 media_folder: '/assets/netlify-uploads'
 public_folder: '/assets/netlify-uploads'
 collections:
-  - name: 'challenges'
-    label: 'Challenges'
+  - name: 'open-challenges'
+    label: 'Open Challenges'
     label_singular: 'Challenge'
-    folder: '_challenges'
+    folder: '_all-challenges'
+    filter: {field: "status", value: "open"}
     identifier_field: 'challenge-title'
     slug: '{{challenge-id}}-{{challenge-title}}'
     create: true
@@ -54,6 +55,7 @@ collections:
     label: 'Archived Challenges'
     label_singular: 'Archived Challenge'
     folder: '_all-challenges'
+    filter: {field: "status", value: "closed"}
     identifier_field: 'challenge-title'
     slug: '{{challenge-id}}-{{challenge-title}}'
     create: true
