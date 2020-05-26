@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 286
 showTagline: true
-name: Distracted Driving Design Challenge
+challenge-title: Distracted Driving Design Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

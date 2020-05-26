@@ -154,7 +154,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 272
 showTagline: true
-name: Agriculture Field Delineation from Satellite Imagery
+challenge-title: Agriculture Field Delineation from Satellite Imagery
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: true

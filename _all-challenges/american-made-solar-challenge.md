@@ -233,7 +233,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: American-Made Solar Challenge
+challenge-title: American-Made Solar Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: true

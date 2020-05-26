@@ -432,7 +432,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – FL-26 – Rep. Curbelo
+challenge-title: Congressional App Challenge – FL-26 – Rep. Curbelo
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 21
 showTagline: true
-name: International Science & Engineering Visualization Challenge
+challenge-title: International Science & Engineering Visualization Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

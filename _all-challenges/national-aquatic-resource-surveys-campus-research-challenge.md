@@ -238,7 +238,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 18
 showTagline: true
-name: National Aquatic Resource Surveys Campus Research Challenge
+challenge-title: National Aquatic Resource Surveys Campus Research Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

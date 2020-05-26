@@ -268,7 +268,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 18
 showTagline: true
-name: 2018 CEC Youth Innovation Challenge
+challenge-title: 2018 CEC Youth Innovation Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

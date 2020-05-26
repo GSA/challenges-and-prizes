@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: Low-Cost BTU Sensor for Use in Building HVAC Control Systems
+challenge-title: Low-Cost BTU Sensor for Use in Building HVAC Control Systems
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

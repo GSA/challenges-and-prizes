@@ -428,7 +428,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: NASA Earth & Space Air Prize
+challenge-title: NASA Earth & Space Air Prize
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

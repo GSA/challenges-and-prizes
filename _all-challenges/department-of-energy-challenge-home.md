@@ -238,7 +238,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 16
 showTagline: true
-name: Department of Energy Challenge Home
+challenge-title: Department of Energy Challenge Home
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

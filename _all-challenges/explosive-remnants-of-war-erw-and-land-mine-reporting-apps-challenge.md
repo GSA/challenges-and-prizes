@@ -242,7 +242,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Explosive Remnants of War (ERW) and Land Mine Reporting Apps Challenge
+challenge-title: Explosive Remnants of War (ERW) and Land Mine Reporting Apps Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

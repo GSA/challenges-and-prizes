@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 290
 showTagline: true
-name: 'Document Your Environment: Student Multimedia Contest'
+challenge-title: 'Document Your Environment: Student Multimedia Contest'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

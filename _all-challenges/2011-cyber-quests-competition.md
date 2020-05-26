@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: 2011 Cyber Quests Competition
+challenge-title: 2011 Cyber Quests Competition
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

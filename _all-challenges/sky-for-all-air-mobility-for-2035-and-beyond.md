@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: 'Sky for All: Air Mobility for 2035 and Beyond'
+challenge-title: 'Sky for All: Air Mobility for 2035 and Beyond'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

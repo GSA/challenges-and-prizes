@@ -240,7 +240,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Improve NASAs Astronaut Email for ISS
+challenge-title: Improve NASAs Astronaut Email for ISS
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

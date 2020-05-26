@@ -430,7 +430,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – AZ-03 – Rep. Grijalva
+challenge-title: Congressional App Challenge – AZ-03 – Rep. Grijalva
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

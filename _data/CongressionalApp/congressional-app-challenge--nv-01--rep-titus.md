@@ -429,7 +429,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – NV-01 – Rep. Titus
+challenge-title: Congressional App Challenge – NV-01 – Rep. Titus
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 99
 showTagline: true
-name: 'United States Mint: Kids Baseball Coin Design Challenge'
+challenge-title: 'United States Mint: Kids Baseball Coin Design Challenge'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

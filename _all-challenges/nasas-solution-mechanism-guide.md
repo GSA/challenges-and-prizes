@@ -240,7 +240,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: NASAs Solution Mechanism Guide
+challenge-title: NASAs Solution Mechanism Guide
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

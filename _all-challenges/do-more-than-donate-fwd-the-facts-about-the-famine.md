@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 31
 showTagline: true
-name: Do More Than Donate. FWD the Facts About the Famine.
+challenge-title: Do More Than Donate. FWD the Facts About the Famine.
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

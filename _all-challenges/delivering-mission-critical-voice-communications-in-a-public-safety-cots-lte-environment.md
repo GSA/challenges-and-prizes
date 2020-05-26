@@ -239,7 +239,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 70
 showTagline: true
-name: Delivering Mission-Critical Voice Communications in a Public Safety COTS LTE
+challenge-title: Delivering Mission-Critical Voice Communications in a Public Safety COTS LTE
   Environment
 privateCampaign: true
 ideaCount: 0

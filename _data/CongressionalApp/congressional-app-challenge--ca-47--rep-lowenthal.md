@@ -432,7 +432,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – CA-47 – Rep. Lowenthal
+challenge-title: Congressional App Challenge – CA-47 – Rep. Lowenthal
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

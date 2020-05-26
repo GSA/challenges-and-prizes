@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 286
 showTagline: true
-name: FAA Design Competition for Universities
+challenge-title: FAA Design Competition for Universities
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

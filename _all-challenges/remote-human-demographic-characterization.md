@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Remote Human Demographic Characterization
+challenge-title: Remote Human Demographic Characterization
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

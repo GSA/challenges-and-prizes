@@ -390,7 +390,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 280
 showTagline: true
-name: Startup in a Day Competition - Dream Big Model
+challenge-title: Startup in a Day Competition - Dream Big Model
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

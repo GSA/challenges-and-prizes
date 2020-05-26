@@ -452,7 +452,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 114
 showTagline: true
-name: Memorials for the Future
+challenge-title: Memorials for the Future
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

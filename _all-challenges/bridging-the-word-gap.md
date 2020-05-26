@@ -336,7 +336,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 162
 showTagline: true
-name: Bridging the Word Gap
+challenge-title: Bridging the Word Gap
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

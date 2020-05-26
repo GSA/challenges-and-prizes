@@ -236,7 +236,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Medical Transportation Device for Combat Rescue
+challenge-title: Medical Transportation Device for Combat Rescue
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

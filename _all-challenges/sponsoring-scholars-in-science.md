@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Sponsoring Scholars in Science
+challenge-title: Sponsoring Scholars in Science
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

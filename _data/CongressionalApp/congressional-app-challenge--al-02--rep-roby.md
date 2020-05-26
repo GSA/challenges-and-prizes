@@ -435,7 +435,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – AL-02 – Rep. Roby
+challenge-title: Congressional App Challenge – AL-02 – Rep. Roby
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

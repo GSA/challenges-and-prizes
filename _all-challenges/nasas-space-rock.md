@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: NASA's Space Rock
+challenge-title: NASA's Space Rock
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

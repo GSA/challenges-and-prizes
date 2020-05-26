@@ -282,7 +282,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 285
 showTagline: true
-name: CTE Makeover Challenge
+challenge-title: CTE Makeover Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

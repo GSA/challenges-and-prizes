@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge - OR-02 - Rep. Walden
+challenge-title: Congressional App Challenge - OR-02 - Rep. Walden
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -238,7 +238,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 292
 showTagline: true
-name: Veterans Health Wireless Innovation Challenge
+challenge-title: Veterans Health Wireless Innovation Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

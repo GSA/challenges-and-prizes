@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 18
 showTagline: true
-name: State of the Environment "Locations" Photo Challenge
+challenge-title: State of the Environment "Locations" Photo Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -410,7 +410,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 101
 showTagline: true
-name: Tax Design Challenge
+challenge-title: Tax Design Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -241,7 +241,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Zero-GPS Precision Navigation
+challenge-title: Zero-GPS Precision Navigation
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

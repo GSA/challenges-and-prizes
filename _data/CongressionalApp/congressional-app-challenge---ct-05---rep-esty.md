@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge - CT-05 - Rep. Esty
+challenge-title: Congressional App Challenge - CT-05 - Rep. Esty
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

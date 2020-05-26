@@ -433,7 +433,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – NY-01 – Rep. Zeldin
+challenge-title: Congressional App Challenge – NY-01 – Rep. Zeldin
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

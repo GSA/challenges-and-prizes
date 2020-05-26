@@ -243,7 +243,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 282
 showTagline: true
-name: 'ULTRA-HIGH-SPEED APPS - USING CURRENT TECHNOLOGY TO IMPROVE CRIMINAL JUSTICE
+challenge-title: 'ULTRA-HIGH-SPEED APPS - USING CURRENT TECHNOLOGY TO IMPROVE CRIMINAL JUSTICE
 OPERATIONS'
 privateCampaign: true
 ideaCount: 0

@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 226
 showTagline: true
-name: Legislative XML Data Mapping
+challenge-title: Legislative XML Data Mapping
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

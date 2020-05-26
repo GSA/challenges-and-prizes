@@ -576,7 +576,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 164
 showTagline: true
-name: 2017 Million Hearts Hypertension Control Challenge
+challenge-title: 2017 Million Hearts Hypertension Control Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

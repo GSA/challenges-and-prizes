@@ -429,7 +429,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – MO-04 – Rep. Hartzler
+challenge-title: Congressional App Challenge – MO-04 – Rep. Hartzler
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

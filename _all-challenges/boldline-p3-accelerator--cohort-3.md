@@ -258,7 +258,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 290
 showTagline: true
-name: Boldline P3 Accelerator – Cohort 3
+challenge-title: Boldline P3 Accelerator – Cohort 3
 publicOwnerName: tj
 privateCampaign: true
 ideaCount: 8

@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 293
 showTagline: true
-name: '"How Has Social Security Made a Difference in Your Life" Video Contest'
+challenge-title: '"How Has Social Security Made a Difference in Your Life" Video Contest'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: Health Data Platform Metadata Challenge
+challenge-title: Health Data Platform Metadata Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

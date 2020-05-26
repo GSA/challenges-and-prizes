@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: SMART Apps for Health
+challenge-title: SMART Apps for Health
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

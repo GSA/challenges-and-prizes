@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 290
 showTagline: true
-name: Startup America Policy Challenge
+challenge-title: Startup America Policy Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

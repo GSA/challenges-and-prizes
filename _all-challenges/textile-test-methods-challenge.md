@@ -242,7 +242,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Textile Test Methods Challenge
+challenge-title: Textile Test Methods Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

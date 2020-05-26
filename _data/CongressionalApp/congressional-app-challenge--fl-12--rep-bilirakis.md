@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – FL-12 – Rep. Bilirakis
+challenge-title: Congressional App Challenge – FL-12 – Rep. Bilirakis
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

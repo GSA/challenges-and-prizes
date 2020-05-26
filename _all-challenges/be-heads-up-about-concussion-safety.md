@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 164
 showTagline: true
-name: Be Heads Up About Concussion Safety
+challenge-title: Be Heads Up About Concussion Safety
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

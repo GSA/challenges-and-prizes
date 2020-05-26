@@ -507,7 +507,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 164
 showTagline: true
-name: Healthcare-Associated Venous Thromboembolism (HA-VTE) Prevention Challenge
+challenge-title: Healthcare-Associated Venous Thromboembolism (HA-VTE) Prevention Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

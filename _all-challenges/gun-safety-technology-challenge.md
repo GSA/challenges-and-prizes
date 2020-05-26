@@ -258,7 +258,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 70
 showTagline: true
-name: Gun Safety Technology Challenge
+challenge-title: Gun Safety Technology Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -242,7 +242,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 400
 showTagline: true
-name: 2016 NSA Codebreaker Challenge
+challenge-title: 2016 NSA Codebreaker Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

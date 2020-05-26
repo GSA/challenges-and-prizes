@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 282
 showTagline: true
-name: 'National Institute of Justice Body Armor Challenge: How Long Does Body Armor
+challenge-title: 'National Institute of Justice Body Armor Challenge: How Long Does Body Armor
   Really Last?'
 privateCampaign: true
 ideaCount: 0

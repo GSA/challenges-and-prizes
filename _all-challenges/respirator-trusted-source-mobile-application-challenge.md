@@ -240,7 +240,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 164
 showTagline: true
-name: Respirator Trusted-Source Mobile Application Challenge
+challenge-title: Respirator Trusted-Source Mobile Application Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -645,7 +645,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 273
 showTagline: true
-name: USDA Innovation Challenge
+challenge-title: USDA Innovation Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

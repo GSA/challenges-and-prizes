@@ -317,7 +317,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 109
 showTagline: true
-name: Powering Electronic Instruments on a Rotating Shaft
+challenge-title: Powering Electronic Instruments on a Rotating Shaft
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: true

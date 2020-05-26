@@ -252,7 +252,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 291
 showTagline: true
-name: Innovation in Affordable Housing Student Competition
+challenge-title: Innovation in Affordable Housing Student Competition
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

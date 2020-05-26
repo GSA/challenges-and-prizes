@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 18
 showTagline: true
-name: Rachel Carson "Sense of Wonder" Contest 2011
+challenge-title: Rachel Carson "Sense of Wonder" Contest 2011
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

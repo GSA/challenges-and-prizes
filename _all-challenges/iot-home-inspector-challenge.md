@@ -242,7 +242,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 341
 showTagline: true
-name: IoT Home Inspector Challenge
+challenge-title: IoT Home Inspector Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

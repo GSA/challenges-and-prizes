@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – CA-25 – Rep. Knight
+challenge-title: Congressional App Challenge – CA-25 – Rep. Knight
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

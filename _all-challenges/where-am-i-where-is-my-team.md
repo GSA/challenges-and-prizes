@@ -344,7 +344,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 135
 showTagline: true
-name: '"Where Am I, Where Is My Team?"'
+challenge-title: '"Where Am I, Where Is My Team?"'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -432,7 +432,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – ID-01 – Rep. Labrador
+challenge-title: Congressional App Challenge – ID-01 – Rep. Labrador
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

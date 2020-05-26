@@ -385,7 +385,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 285
 showTagline: true
-name: 'Proposal Challenge: Expanding Opportunity for Asian Americans and Pacific Islanders'
+challenge-title: 'Proposal Challenge: Expanding Opportunity for Asian Americans and Pacific Islanders'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Sample Return Robot Challenge - 2013
+challenge-title: Sample Return Robot Challenge - 2013
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

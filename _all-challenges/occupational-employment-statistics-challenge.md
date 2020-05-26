@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 284
 showTagline: true
-name: Occupational Employment Statistics Challenge
+challenge-title: Occupational Employment Statistics Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

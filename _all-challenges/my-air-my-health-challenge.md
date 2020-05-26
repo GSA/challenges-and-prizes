@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 165
 showTagline: true
-name: My Air, My Health Challenge
+challenge-title: My Air, My Health Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 164
 showTagline: true
-name: 'Surgeon General''s Video Contest: Tobacco- I''m Not Buying It'
+challenge-title: 'Surgeon General''s Video Contest: Tobacco- I''m Not Buying It'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

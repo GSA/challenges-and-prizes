@@ -248,7 +248,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 21
 showTagline: true
-name: Visualization Challenge -- The Vizzies
+challenge-title: Visualization Challenge -- The Vizzies
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -370,7 +370,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 269
 showTagline: true
-name: Fusion of Face Recognition Algorithms
+challenge-title: Fusion of Face Recognition Algorithms
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

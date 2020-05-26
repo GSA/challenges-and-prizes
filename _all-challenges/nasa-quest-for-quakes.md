@@ -243,7 +243,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: NASA Quest for Quakes
+challenge-title: NASA Quest for Quakes
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

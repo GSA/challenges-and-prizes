@@ -234,7 +234,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: DARPA Launch Challenge
+challenge-title: DARPA Launch Challenge
 publicOwnerName: Eric Beidel
 privateCampaign: true
 ideaCount: 0

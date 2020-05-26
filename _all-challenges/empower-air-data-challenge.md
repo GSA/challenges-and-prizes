@@ -239,7 +239,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 18
 showTagline: true
-name: EmPOWER Air Data Challenge
+challenge-title: EmPOWER Air Data Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

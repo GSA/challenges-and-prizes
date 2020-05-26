@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 165
 showTagline: true
-name: 'DEBUT: DEsign by Biomedical Undergraduate Teams'
+challenge-title: 'DEBUT: DEsign by Biomedical Undergraduate Teams'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

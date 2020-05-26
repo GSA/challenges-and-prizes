@@ -429,7 +429,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge - MS-03 - Rep. Harper
+challenge-title: Congressional App Challenge - MS-03 - Rep. Harper
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

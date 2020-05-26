@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Fuel Scrubber
+challenge-title: Fuel Scrubber
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

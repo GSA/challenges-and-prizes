@@ -239,7 +239,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: National Geothermal Student Competition
+challenge-title: National Geothermal Student Competition
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

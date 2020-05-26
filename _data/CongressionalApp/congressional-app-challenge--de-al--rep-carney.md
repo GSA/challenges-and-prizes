@@ -433,7 +433,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – DE-AL – Rep. Carney
+challenge-title: Congressional App Challenge – DE-AL – Rep. Carney
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

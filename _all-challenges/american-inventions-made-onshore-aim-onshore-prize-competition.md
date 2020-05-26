@@ -775,7 +775,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: American Inventions Made Onshore (AIM Onshore) Prize Competition
+challenge-title: American Inventions Made Onshore (AIM Onshore) Prize Competition
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

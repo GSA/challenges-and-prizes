@@ -237,7 +237,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: "#BioenergizeME Virtual Science Fair"
+challenge-title: "#BioenergizeME Virtual Science Fair"
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

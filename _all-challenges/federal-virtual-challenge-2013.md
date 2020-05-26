@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Federal Virtual Challenge 2013
+challenge-title: Federal Virtual Challenge 2013
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

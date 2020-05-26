@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 273
 showTagline: true
-name: Recipes for Healthy Kids
+challenge-title: Recipes for Healthy Kids
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

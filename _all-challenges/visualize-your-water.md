@@ -428,7 +428,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 18
 showTagline: true
-name: Visualize Your Water
+challenge-title: Visualize Your Water
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

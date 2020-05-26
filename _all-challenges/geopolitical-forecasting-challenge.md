@@ -257,7 +257,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 269
 showTagline: true
-name: Geopolitical Forecasting Challenge
+challenge-title: Geopolitical Forecasting Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

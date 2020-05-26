@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – OH-13 – Rep. Ryan
+challenge-title: Congressional App Challenge – OH-13 – Rep. Ryan
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

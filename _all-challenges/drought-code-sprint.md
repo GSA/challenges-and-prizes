@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 273
 showTagline: true
-name: Drought Code Sprint
+challenge-title: Drought Code Sprint
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

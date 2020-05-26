@@ -333,7 +333,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 269
 showTagline: true
-name: Disguised Faces in the Wild Competition
+challenge-title: Disguised Faces in the Wild Competition
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

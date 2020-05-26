@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: Design a Mean Radiant Temperature Sensor for Integration with Building Robotics'
+challenge-title: Design a Mean Radiant Temperature Sensor for Integration with Building Robotics'
   Comfy Offering
 privateCampaign: true
 ideaCount: 0

@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 286
 showTagline: true
-name: Two-Second Turnoff Distracted Driving Video Challenge
+challenge-title: Two-Second Turnoff Distracted Driving Video Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

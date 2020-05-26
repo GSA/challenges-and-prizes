@@ -244,7 +244,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: 'Proving The Potential | A Health Data and Standards CODE-A-THON'
+challenge-title: 'Proving The Potential | A Health Data and Standards CODE-A-THON'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

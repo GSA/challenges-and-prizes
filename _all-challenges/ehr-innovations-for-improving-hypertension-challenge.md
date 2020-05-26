@@ -567,7 +567,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: EHR Innovations for Improving Hypertension Challenge
+challenge-title: EHR Innovations for Improving Hypertension Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

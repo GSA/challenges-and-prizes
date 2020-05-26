@@ -236,7 +236,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 204
 showTagline: true
-name: "$10,000 PatentLabeling2 Algorithm Challenge"
+challenge-title: "$10,000 PatentLabeling2 Algorithm Challenge"
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

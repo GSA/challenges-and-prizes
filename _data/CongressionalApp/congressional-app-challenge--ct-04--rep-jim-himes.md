@@ -430,7 +430,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – CT-04 – Rep. Jim Himes
+challenge-title: Congressional App Challenge – CT-04 – Rep. Jim Himes
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

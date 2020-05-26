@@ -237,7 +237,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 31
 showTagline: true
-name: Wildlife Crime Tech Challenge
+challenge-title: Wildlife Crime Tech Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -384,7 +384,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 18
 showTagline: true
-name: Visualizing Nutrients
+challenge-title: Visualizing Nutrients
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -342,7 +342,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 135
 showTagline: true
-name: Escape Respirator Challenge
+challenge-title: Escape Respirator Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

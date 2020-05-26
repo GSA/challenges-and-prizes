@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 18
 showTagline: true
-name: Real-Time Sensor to Monitor Sewer Overflows
+challenge-title: Real-Time Sensor to Monitor Sewer Overflows
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

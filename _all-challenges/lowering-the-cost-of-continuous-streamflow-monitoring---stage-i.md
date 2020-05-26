@@ -282,7 +282,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 109
 showTagline: true
-name: Lowering the Cost of Continuous Streamflow Monitoring - Stage I
+challenge-title: Lowering the Cost of Continuous Streamflow Monitoring - Stage I
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

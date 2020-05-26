@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 280
 showTagline: true
-name: 2015 Growth Accelerator Fund Competition
+challenge-title: 2015 Growth Accelerator Fund Competition
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

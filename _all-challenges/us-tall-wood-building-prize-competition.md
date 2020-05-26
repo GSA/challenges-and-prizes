@@ -261,7 +261,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 273
 showTagline: true
-name: U.S. Tall Wood Building Prize Competition
+challenge-title: U.S. Tall Wood Building Prize Competition
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

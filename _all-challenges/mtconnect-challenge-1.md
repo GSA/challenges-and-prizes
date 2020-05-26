@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: MTConnect Challenge 1
+challenge-title: MTConnect Challenge 1
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

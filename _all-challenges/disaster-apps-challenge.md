@@ -239,7 +239,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Disaster Apps Challenge
+challenge-title: Disaster Apps Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

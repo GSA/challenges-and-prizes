@@ -424,7 +424,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 21
 showTagline: true
-name: NSF We Are Mathematics Video Competition
+challenge-title: NSF We Are Mathematics Video Competition
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

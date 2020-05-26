@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 289
 showTagline: true
-name: Consumer Product Safety Apps Challenge
+challenge-title: Consumer Product Safety Apps Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

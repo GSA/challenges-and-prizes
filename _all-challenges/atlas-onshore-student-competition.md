@@ -164,7 +164,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: 'ATLAS - Onshore Student Competition'
+challenge-title: 'ATLAS - Onshore Student Competition'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

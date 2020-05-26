@@ -241,7 +241,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Synthetic Biology for Materials
+challenge-title: Synthetic Biology for Materials
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

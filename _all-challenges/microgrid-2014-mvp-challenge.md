@@ -238,7 +238,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: Microgrid 2014 MVP Challenge
+challenge-title: Microgrid 2014 MVP Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

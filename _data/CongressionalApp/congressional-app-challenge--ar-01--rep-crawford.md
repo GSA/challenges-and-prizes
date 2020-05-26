@@ -434,7 +434,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – AR-01 – Rep. Crawford
+challenge-title: Congressional App Challenge – AR-01 – Rep. Crawford
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

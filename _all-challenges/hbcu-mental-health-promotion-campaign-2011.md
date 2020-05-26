@@ -237,7 +237,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 166
 showTagline: true
-name: HBCU Mental Health Promotion Campaign 2011
+challenge-title: HBCU Mental Health Promotion Campaign 2011
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

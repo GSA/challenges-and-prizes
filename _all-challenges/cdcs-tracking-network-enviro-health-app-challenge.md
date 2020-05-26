@@ -249,7 +249,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 164
 showTagline: true
-name: CDC's Tracking Network Enviro Health App Challenge
+challenge-title: CDC's Tracking Network Enviro Health App Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

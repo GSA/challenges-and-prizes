@@ -702,7 +702,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 341
 showTagline: true
-name: DetectaRobo
+challenge-title: DetectaRobo
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

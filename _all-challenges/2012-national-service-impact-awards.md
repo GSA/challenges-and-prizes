@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 290
 showTagline: true
-name: 2012 National Service Impact Awards
+challenge-title: 2012 National Service Impact Awards
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -256,7 +256,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 18
 showTagline: true
-name: Transform Tox Testing Challenge Stage 1
+challenge-title: Transform Tox Testing Challenge Stage 1
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

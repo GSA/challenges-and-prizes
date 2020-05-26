@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Humanitarian Air Drop
+challenge-title: Humanitarian Air Drop
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

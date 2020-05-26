@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 273
 showTagline: true
-name: This is MY Agriculture Photo Contest
+challenge-title: This is MY Agriculture Photo Contest
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

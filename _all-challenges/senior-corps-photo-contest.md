@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 290
 showTagline: true
-name: Senior Corps Photo Contest
+challenge-title: Senior Corps Photo Contest
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

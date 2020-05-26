@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 111
 showTagline: true
-name: App-lifying USGS Earth Science Data
+challenge-title: App-lifying USGS Earth Science Data
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

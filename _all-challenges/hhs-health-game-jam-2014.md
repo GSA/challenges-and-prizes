@@ -240,7 +240,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 164
 showTagline: true
-name: HHS Health Game Jam 2014
+challenge-title: HHS Health Game Jam 2014
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

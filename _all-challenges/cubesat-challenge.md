@@ -381,7 +381,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: CubeSat Challenge
+challenge-title: CubeSat Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

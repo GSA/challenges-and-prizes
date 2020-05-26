@@ -329,7 +329,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 291
 showTagline: true
-name: HUD Innovation in Affordable Housing Student Design & Planning Competition 2019
+challenge-title: HUD Innovation in Affordable Housing Student Design & Planning Competition 2019
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: true

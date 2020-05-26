@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 165
 showTagline: true
-name: Challenge to Identify Audacious Goals in Vision Research and Blindness Rehabilitation
+challenge-title: Challenge to Identify Audacious Goals in Vision Research and Blindness Rehabilitation
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

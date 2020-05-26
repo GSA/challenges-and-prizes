@@ -242,7 +242,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Help NASA build the Solar System Internetwork!
+challenge-title: Help NASA build the Solar System Internetwork!
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

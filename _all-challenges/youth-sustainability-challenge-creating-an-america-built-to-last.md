@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 440
 showTagline: true
-name: 'Youth Sustainability Challenge: Creating An America Built to Last'
+challenge-title: 'Youth Sustainability Challenge: Creating An America Built to Last'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

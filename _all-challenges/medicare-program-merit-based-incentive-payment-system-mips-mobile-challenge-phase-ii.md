@@ -361,7 +361,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 168
 showTagline: true
-name: Medicare Program - Merit Based Incentive Payment System (MIPS) Mobile Challenge-PHASE
+challenge-title: Medicare Program - Merit Based Incentive Payment System (MIPS) Mobile Challenge-PHASE
   II
 privateCampaign: true
 ideaCount: 0

@@ -268,7 +268,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Spectrum Collaboration Challenge
+challenge-title: Spectrum Collaboration Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -358,7 +358,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 443
 showTagline: true
-name: Boldline Religious Freedom
+challenge-title: Boldline Religious Freedom
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

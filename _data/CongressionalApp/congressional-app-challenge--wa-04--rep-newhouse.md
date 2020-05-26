@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – WA-04 – Rep. Newhouse
+challenge-title: Congressional App Challenge – WA-04 – Rep. Newhouse
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

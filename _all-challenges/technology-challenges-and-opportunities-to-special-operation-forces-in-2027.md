@@ -280,7 +280,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Technology Challenges and Opportunities to Special Operation Forces in 2027
+challenge-title: Technology Challenges and Opportunities to Special Operation Forces in 2027
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Healthcare Fraud Prevention Partnership Data Exchange Network
+challenge-title: Healthcare Fraud Prevention Partnership Data Exchange Network
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – PA-13 – Rep. Boyle
+challenge-title: Congressional App Challenge – PA-13 – Rep. Boyle
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

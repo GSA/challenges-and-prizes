@@ -432,7 +432,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – GA-11 – Rep. Loudermilk
+challenge-title: Congressional App Challenge – GA-11 – Rep. Loudermilk
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

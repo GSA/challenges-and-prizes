@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – IL-11 – Rep. Foster
+challenge-title: Congressional App Challenge – IL-11 – Rep. Foster
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

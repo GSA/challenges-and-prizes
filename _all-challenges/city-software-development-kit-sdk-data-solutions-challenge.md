@@ -327,7 +327,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 198
 showTagline: true
-name: City Software Development Kit (SDK) Data Solutions Challenge
+challenge-title: City Software Development Kit (SDK) Data Solutions Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

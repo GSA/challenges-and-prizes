@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Big Data Challenge Series
+challenge-title: Big Data Challenge Series
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

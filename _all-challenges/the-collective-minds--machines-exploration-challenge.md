@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: The Collective Minds & Machines Exploration Challenge
+challenge-title: The Collective Minds & Machines Exploration Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 18
 showTagline: true
-name: 2012 Presidential Green Chemistry Challenge Awards
+challenge-title: 2012 Presidential Green Chemistry Challenge Awards
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

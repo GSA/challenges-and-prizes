@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: Blockchain Challenge
+challenge-title: Blockchain Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

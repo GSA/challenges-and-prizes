@@ -240,7 +240,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 164
 showTagline: true
-name: Predict the Influenza Season Challenge
+challenge-title: Predict the Influenza Season Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

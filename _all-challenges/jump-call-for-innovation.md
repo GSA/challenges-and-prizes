@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: JUMP Call for Innovation
+challenge-title: JUMP Call for Innovation
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Free Flyer Robotic Arm System Architecture Contest
+challenge-title: Free Flyer Robotic Arm System Architecture Contest
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

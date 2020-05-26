@@ -236,7 +236,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: Health Design Challenge
+challenge-title: Health Design Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

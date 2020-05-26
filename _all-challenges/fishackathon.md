@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 290
 showTagline: true
-name: Fishackathon
+challenge-title: Fishackathon
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

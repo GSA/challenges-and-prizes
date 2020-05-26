@@ -237,7 +237,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: DTIC Student Paper Competition
+challenge-title: DTIC Student Paper Competition
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

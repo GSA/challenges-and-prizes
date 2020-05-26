@@ -432,7 +432,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – IL-08 – Rep. Duckworth
+challenge-title: Congressional App Challenge – IL-08 – Rep. Duckworth
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

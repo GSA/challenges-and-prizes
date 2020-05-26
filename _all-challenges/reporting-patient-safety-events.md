@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: Reporting Patient Safety Events
+challenge-title: Reporting Patient Safety Events
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

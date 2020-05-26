@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: Apps for Vehicles
+challenge-title: Apps for Vehicles
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

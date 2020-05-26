@@ -210,7 +210,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 269
 showTagline: true
-name: CASE Challenge
+challenge-title: CASE Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -193,7 +193,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Recycling in Space Challenge
+challenge-title: Recycling in Space Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: true

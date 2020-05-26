@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – UT-03 – Rep. Chaffetz
+challenge-title: Congressional App Challenge – UT-03 – Rep. Chaffetz
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

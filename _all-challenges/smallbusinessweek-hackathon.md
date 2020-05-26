@@ -562,7 +562,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 280
 showTagline: true
-name: "#SmallBusinessWeek Hackathon"
+challenge-title: "#SmallBusinessWeek Hackathon"
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

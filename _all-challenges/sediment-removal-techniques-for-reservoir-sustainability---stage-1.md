@@ -298,7 +298,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 109
 showTagline: true
-name: Sediment Removal Techniques for Reservoir Sustainability - Stage 1
+challenge-title: Sediment Removal Techniques for Reservoir Sustainability - Stage 1
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: true

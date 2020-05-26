@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – MN-02 – Rep. Kline
+challenge-title: Congressional App Challenge – MN-02 – Rep. Kline
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -236,7 +236,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 21
 showTagline: true
-name: Beyond the Box Digitization Competition
+challenge-title: Beyond the Box Digitization Competition
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

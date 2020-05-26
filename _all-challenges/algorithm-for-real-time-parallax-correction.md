@@ -239,7 +239,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Algorithm for Real-Time Parallax Correction
+challenge-title: Algorithm for Real-Time Parallax Correction
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

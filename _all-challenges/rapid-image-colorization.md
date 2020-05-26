@@ -257,7 +257,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 272
 showTagline: true
-name: Rapid Image Colorization
+challenge-title: Rapid Image Colorization
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

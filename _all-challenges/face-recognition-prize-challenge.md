@@ -379,7 +379,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 269
 showTagline: true
-name: Face Recognition Prize Challenge
+challenge-title: Face Recognition Prize Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

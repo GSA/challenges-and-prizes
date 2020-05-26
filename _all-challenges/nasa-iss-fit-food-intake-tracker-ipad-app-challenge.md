@@ -236,7 +236,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: NASA ISS FIT (Food Intake Tracker) iPad App Challenge
+challenge-title: NASA ISS FIT (Food Intake Tracker) iPad App Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

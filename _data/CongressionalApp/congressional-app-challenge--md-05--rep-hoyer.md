@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – MD-05 – Rep. Hoyer
+challenge-title: Congressional App Challenge – MD-05 – Rep. Hoyer
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

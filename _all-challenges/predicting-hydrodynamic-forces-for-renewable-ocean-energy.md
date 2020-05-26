@@ -239,7 +239,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: Predicting Hydrodynamic Forces for Renewable Ocean Energy
+challenge-title: Predicting Hydrodynamic Forces for Renewable Ocean Energy
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: Innovative Roofing Solutions
+challenge-title: Innovative Roofing Solutions
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

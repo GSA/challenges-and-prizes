@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – AZ-09 – Rep. Sinema
+challenge-title: Congressional App Challenge – AZ-09 – Rep. Sinema
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

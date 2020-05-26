@@ -343,7 +343,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 269
 showTagline: true
-name: UG2 Prize Challenge
+challenge-title: UG2 Prize Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

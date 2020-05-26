@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 165
 showTagline: true
-name: 'NLM & You: The Video Contest'
+challenge-title: 'NLM & You: The Video Contest'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

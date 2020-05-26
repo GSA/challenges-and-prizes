@@ -994,7 +994,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 31
 showTagline: true
-name: 'Creating Hope in Conflict - A Humanitarian Grand Challenge'
+challenge-title: 'Creating Hope in Conflict - A Humanitarian Grand Challenge'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

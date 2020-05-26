@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: NASA Experiment Attachment System (EAS) Challenge
+challenge-title: NASA Experiment Attachment System (EAS) Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

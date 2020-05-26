@@ -246,7 +246,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 18
 showTagline: true
-name: 2016 TRI University Challenge
+challenge-title: 2016 TRI University Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

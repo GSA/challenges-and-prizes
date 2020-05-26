@@ -251,7 +251,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 310
 showTagline: true
-name: Federal Maritime Commission (FMC) Chairman's Earth Day Award
+challenge-title: Federal Maritime Commission (FMC) Chairman's Earth Day Award
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

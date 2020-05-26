@@ -236,7 +236,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 18
 showTagline: true
-name: National Radon Poster Contest
+challenge-title: National Radon Poster Contest
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

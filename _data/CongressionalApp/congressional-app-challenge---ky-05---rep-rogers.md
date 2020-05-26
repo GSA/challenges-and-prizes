@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge - KY-05 - Rep. Rogers
+challenge-title: Congressional App Challenge - KY-05 - Rep. Rogers
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

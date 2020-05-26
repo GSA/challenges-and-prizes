@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 114
 showTagline: true
-name: National Natural Landmarks Program Photo Contest
+challenge-title: National Natural Landmarks Program Photo Contest
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

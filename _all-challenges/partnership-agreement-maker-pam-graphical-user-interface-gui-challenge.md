@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Partnership Agreement Maker (PAM) Graphical User Interface (GUI) Challenge
+challenge-title: Partnership Agreement Maker (PAM) Graphical User Interface (GUI) Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

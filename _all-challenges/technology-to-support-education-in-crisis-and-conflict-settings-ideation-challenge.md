@@ -248,7 +248,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 31
 showTagline: true
-name: Technology to Support Education in Crisis and Conflict Settings Ideation Challenge
+challenge-title: Technology to Support Education in Crisis and Conflict Settings Ideation Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

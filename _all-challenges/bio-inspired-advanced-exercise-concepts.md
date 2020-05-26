@@ -236,7 +236,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Bio-Inspired Advanced Exercise Concepts
+challenge-title: Bio-Inspired Advanced Exercise Concepts
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

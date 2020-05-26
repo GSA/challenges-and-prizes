@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 134
 showTagline: true
-name: Preparing Our Communities Before a Disaster Strikes
+challenge-title: Preparing Our Communities Before a Disaster Strikes
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

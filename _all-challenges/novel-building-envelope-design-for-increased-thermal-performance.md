@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: Novel Building Envelope Design for Increased Thermal Performance
+challenge-title: Novel Building Envelope Design for Increased Thermal Performance
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 18
 showTagline: true
-name: TRI University Challenge
+challenge-title: TRI University Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

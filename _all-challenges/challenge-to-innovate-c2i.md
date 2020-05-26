@@ -238,7 +238,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 285
 showTagline: true
-name: Challenge to Innovate (C2i)
+challenge-title: Challenge to Innovate (C2i)
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Medicaid Provider Enrollment Screening Challenge Series
+challenge-title: Medicaid Provider Enrollment Screening Challenge Series
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

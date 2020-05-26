@@ -429,7 +429,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – NY-03 – Rep. Israel
+challenge-title: Congressional App Challenge – NY-03 – Rep. Israel
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

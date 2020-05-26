@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 99
 showTagline: true
-name: 'Baseball Coin Design Competition: Batter up!  Pitch your coin design today.'
+challenge-title: 'Baseball Coin Design Competition: Batter up!  Pitch your coin design today.'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

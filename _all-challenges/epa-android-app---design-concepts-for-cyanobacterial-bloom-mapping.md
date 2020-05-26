@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: EPA Android App - Design Concepts for Cyanobacterial Bloom Mapping
+challenge-title: EPA Android App - Design Concepts for Cyanobacterial Bloom Mapping
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – ME-02 – Rep. Poliquin
+challenge-title: Congressional App Challenge – ME-02 – Rep. Poliquin
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

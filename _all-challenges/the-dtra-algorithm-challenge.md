@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: The DTRA Algorithm Challenge
+challenge-title: The DTRA Algorithm Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

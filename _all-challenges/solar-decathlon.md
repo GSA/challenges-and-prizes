@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: Solar Decathlon
+challenge-title: Solar Decathlon
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: true

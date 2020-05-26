@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Vehicle Stopper
+challenge-title: Vehicle Stopper
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

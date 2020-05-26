@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 204
 showTagline: true
-name: "$50,000 USPTO Algorithm Challenge"
+challenge-title: "$50,000 USPTO Algorithm Challenge"
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

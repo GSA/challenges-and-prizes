@@ -236,7 +236,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Durable Dielectric Coatings on Polycarbonate
+challenge-title: Durable Dielectric Coatings on Polycarbonate
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

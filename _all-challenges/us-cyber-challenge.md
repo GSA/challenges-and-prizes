@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 135
 showTagline: true
-name: U.S Cyber Challenge
+challenge-title: U.S Cyber Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

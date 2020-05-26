@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – CA-51 – Rep. Vargas
+challenge-title: Congressional App Challenge – CA-51 – Rep. Vargas
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

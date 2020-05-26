@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Find Optimal Configurations for Galactic Cosmic Ray Protection
+challenge-title: Find Optimal Configurations for Galactic Cosmic Ray Protection
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

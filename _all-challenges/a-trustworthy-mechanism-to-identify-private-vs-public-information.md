@@ -236,7 +236,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: A Trustworthy Mechanism to Identify Private vs. Public Information
+challenge-title: A Trustworthy Mechanism to Identify Private vs. Public Information
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

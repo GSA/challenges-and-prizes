@@ -355,7 +355,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 31
 showTagline: true
-name: The Blue Economy Challenge
+challenge-title: The Blue Economy Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

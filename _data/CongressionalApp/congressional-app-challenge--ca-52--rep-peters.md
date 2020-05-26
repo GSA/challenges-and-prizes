@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – CA-52 – Rep. Peters
+challenge-title: Congressional App Challenge – CA-52 – Rep. Peters
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

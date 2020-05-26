@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 164
 showTagline: true
-name: One in a Million Hearts Challenge
+challenge-title: One in a Million Hearts Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

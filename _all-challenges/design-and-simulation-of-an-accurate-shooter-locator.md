@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Design and simulation of an accurate shooter-locator
+challenge-title: Design and simulation of an accurate shooter-locator
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

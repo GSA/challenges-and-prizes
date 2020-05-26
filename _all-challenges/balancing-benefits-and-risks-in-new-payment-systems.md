@@ -260,7 +260,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Balancing Benefits and Risks in New Payment Systems
+challenge-title: Balancing Benefits and Risks in New Payment Systems
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: The ASPR Lifeline Facebook Application Challenge
+challenge-title: The ASPR Lifeline Facebook Application Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -429,7 +429,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – NC-12 – Rep. Adams
+challenge-title: Congressional App Challenge – NC-12 – Rep. Adams
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

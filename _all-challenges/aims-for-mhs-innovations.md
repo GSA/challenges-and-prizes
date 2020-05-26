@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Aims for MHS Innovations
+challenge-title: Aims for MHS Innovations
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

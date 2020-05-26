@@ -432,7 +432,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – IL-14 – Rep. Hultgren
+challenge-title: Congressional App Challenge – IL-14 – Rep. Hultgren
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

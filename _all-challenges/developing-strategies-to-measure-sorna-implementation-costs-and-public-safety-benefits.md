@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 282
 showTagline: true
-name: Developing Strategies to Measure SORNA Implementation Costs and Public Safety
+challenge-title: Developing Strategies to Measure SORNA Implementation Costs and Public Safety
   Benefits
 privateCampaign: true
 ideaCount: 0

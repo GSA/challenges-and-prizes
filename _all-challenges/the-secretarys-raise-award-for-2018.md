@@ -386,7 +386,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 150
 showTagline: true
-name: The Secretary's RAISE Award for 2018
+challenge-title: The Secretary's RAISE Award for 2018
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

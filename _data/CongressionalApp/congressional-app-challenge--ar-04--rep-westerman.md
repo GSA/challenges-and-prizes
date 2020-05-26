@@ -432,7 +432,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – AR-04 – Rep. Westerman
+challenge-title: Congressional App Challenge – AR-04 – Rep. Westerman
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

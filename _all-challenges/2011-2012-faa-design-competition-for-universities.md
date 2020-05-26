@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 286
 showTagline: true
-name: 2011-2012 FAA Design Competition for Universities
+challenge-title: 2011-2012 FAA Design Competition for Universities
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

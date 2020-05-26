@@ -922,7 +922,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 166
 showTagline: true
-name: SAMHSA Opioid Recovery App Challenge
+challenge-title: SAMHSA Opioid Recovery App Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

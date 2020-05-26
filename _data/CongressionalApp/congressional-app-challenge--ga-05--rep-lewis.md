@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – GA-05 – Rep. Lewis
+challenge-title: Congressional App Challenge – GA-05 – Rep. Lewis
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -236,7 +236,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: The SunShot Catalyst Program
+challenge-title: The SunShot Catalyst Program
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

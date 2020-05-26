@@ -429,7 +429,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – NJ-03 – Rep. MacArthur
+challenge-title: Congressional App Challenge – NJ-03 – Rep. MacArthur
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

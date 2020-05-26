@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – TX-04 – Rep. Ratcliffe
+challenge-title: Congressional App Challenge – TX-04 – Rep. Ratcliffe
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

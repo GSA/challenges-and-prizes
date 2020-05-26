@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – SC-02 – Rep. Wilson
+challenge-title: Congressional App Challenge – SC-02 – Rep. Wilson
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

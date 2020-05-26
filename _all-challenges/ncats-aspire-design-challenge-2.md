@@ -453,7 +453,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 165
 showTagline: true
-name: NCATS ASPIRE Design Challenge 2
+challenge-title: NCATS ASPIRE Design Challenge 2
 privateCampaign: true
 ideaCount: 4
 memberIdeaAttachmentAllowed: true

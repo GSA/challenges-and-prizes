@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 280
 showTagline: true
-name: Apps for Entrepreneurs
+challenge-title: Apps for Entrepreneurs
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

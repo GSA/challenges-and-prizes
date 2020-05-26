@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: 'Go Viral to Improve Health: IOM-NAE Health Data Collegiate Challenge'
+challenge-title: 'Go Viral to Improve Health: IOM-NAE Health Data Collegiate Challenge'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

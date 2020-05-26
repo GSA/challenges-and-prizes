@@ -371,7 +371,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 18
 showTagline: true
-name: Nutrient Recycling Challenge
+challenge-title: Nutrient Recycling Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

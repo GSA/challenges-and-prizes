@@ -436,7 +436,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – OH-14 – Rep.  Joyce
+challenge-title: Congressional App Challenge – OH-14 – Rep.  Joyce
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

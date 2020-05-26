@@ -240,7 +240,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 269
 showTagline: true
-name: 'INSTINCT - The IARPA Trustworthiness Challenge'
+challenge-title: 'INSTINCT - The IARPA Trustworthiness Challenge'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

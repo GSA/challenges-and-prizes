@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Creating a Collaborative Nano-Bio Manufacturing Institute
+challenge-title: Creating a Collaborative Nano-Bio Manufacturing Institute
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

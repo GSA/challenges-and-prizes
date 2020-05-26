@@ -249,7 +249,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 31
 showTagline: true
-name: Tracking & Tracing Books Prize Competition
+challenge-title: Tracking & Tracing Books Prize Competition
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

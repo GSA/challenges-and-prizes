@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Balloonsat High Altitude Flight Student Competition
+challenge-title: Balloonsat High Altitude Flight Student Competition
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: High Performance Fast Computing Architecture Challenge
+challenge-title: High Performance Fast Computing Architecture Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

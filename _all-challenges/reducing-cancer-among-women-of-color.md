@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: Reducing Cancer Among Women of Color
+challenge-title: Reducing Cancer Among Women of Color
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -237,7 +237,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Ideas for Annual Computational Cognition Competition
+challenge-title: Ideas for Annual Computational Cognition Competition
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

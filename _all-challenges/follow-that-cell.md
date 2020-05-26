@@ -240,7 +240,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 165
 showTagline: true
-name: Follow that Cell
+challenge-title: Follow that Cell
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

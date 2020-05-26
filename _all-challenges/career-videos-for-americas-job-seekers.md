@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 284
 showTagline: true
-name: Career Videos for America's Job Seekers
+challenge-title: Career Videos for America's Job Seekers
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

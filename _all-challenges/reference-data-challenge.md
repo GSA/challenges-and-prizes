@@ -670,7 +670,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 207
 showTagline: true
-name: Reference Data Challenge
+challenge-title: Reference Data Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 280
 showTagline: true
-name: SBA Growth Accelerator Fund Application
+challenge-title: SBA Growth Accelerator Fund Application
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

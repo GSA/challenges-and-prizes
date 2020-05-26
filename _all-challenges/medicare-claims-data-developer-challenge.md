@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 168
 showTagline: true
-name: Medicare Claims Data Developer Challenge
+challenge-title: Medicare Claims Data Developer Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -240,7 +240,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 165
 showTagline: true
-name: Design by Undergraduate Biomedical Teams (DEBUT) 2014 Challenge
+challenge-title: Design by Undergraduate Biomedical Teams (DEBUT) 2014 Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

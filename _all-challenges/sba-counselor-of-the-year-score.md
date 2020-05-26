@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 280
 showTagline: true
-name: 'SBA Counselor of the Year: SCORE'
+challenge-title: 'SBA Counselor of the Year: SCORE'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

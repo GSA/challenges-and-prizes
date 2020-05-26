@@ -330,7 +330,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 150
 showTagline: true
-name: The Secretary’s RAISE Award for 2017
+challenge-title: The Secretary’s RAISE Award for 2017
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

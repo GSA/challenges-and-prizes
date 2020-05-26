@@ -851,7 +851,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Centennial Challenges Program Cube Quest Challenge
+challenge-title: Centennial Challenges Program Cube Quest Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: true

@@ -239,7 +239,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 165
 showTagline: true
-name: New Methods to Detect Bias in Peer Review
+challenge-title: New Methods to Detect Bias in Peer Review
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

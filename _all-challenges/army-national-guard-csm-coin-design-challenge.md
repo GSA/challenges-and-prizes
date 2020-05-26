@@ -265,7 +265,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Army National Guard CSM Coin Design Challenge
+challenge-title: Army National Guard CSM Coin Design Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

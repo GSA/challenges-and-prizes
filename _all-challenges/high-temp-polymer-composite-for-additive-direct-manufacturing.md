@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: High Temp Polymer Composite for Additive Direct Manufacturing
+challenge-title: High Temp Polymer Composite for Additive Direct Manufacturing
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

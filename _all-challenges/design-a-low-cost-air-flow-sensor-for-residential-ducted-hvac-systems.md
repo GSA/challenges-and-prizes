@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: Design a Low-Cost Air Flow Sensor for Residential Ducted HVAC Systems
+challenge-title: Design a Low-Cost Air Flow Sensor for Residential Ducted HVAC Systems
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

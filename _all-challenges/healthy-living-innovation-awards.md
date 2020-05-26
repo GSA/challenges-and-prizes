@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: Healthy Living Innovation Awards
+challenge-title: Healthy Living Innovation Awards
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

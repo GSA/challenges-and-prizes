@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 18
 showTagline: true
-name: It's My Environment Video Project
+challenge-title: It's My Environment Video Project
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

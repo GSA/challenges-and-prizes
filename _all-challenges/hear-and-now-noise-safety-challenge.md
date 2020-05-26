@@ -289,7 +289,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 284
 showTagline: true
-name: Hear and Now - Noise Safety Challenge
+challenge-title: Hear and Now - Noise Safety Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

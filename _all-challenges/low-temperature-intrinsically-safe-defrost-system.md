@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: Low-Temperature Intrinsically Safe Defrost System
+challenge-title: Low-Temperature Intrinsically Safe Defrost System
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

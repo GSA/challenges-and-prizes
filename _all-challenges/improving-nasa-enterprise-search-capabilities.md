@@ -240,7 +240,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Improving NASA Enterprise Search Capabilities
+challenge-title: Improving NASA Enterprise Search Capabilities
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -360,7 +360,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 404
 showTagline: true
-name: MCC Open Data Challenge
+challenge-title: MCC Open Data Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

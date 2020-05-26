@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 21
 showTagline: true
-name: Whats your energy innovation? - a video challenge for undergraduate college
+challenge-title: Whats your energy innovation? - a video challenge for undergraduate college
   students
 privateCampaign: true
 ideaCount: 0

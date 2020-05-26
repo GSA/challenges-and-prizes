@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: 'Using Public Data for Cancer Prevention and Control: From Innovation to Impact'
+challenge-title: 'Using Public Data for Cancer Prevention and Control: From Innovation to Impact'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

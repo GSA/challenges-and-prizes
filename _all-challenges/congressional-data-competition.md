@@ -502,7 +502,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 226
 showTagline: true
-name: Congressional Data Competition
+challenge-title: Congressional Data Competition
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -134,7 +134,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 21
 showTagline: true
-name: The NSF 2026 Idea Machine
+challenge-title: The NSF 2026 Idea Machine
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: true

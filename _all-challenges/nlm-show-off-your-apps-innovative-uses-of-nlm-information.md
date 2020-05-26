@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 165
 showTagline: true
-name: 'NLM Show Off Your Apps - Innovative Uses of NLM Information'
+challenge-title: 'NLM Show Off Your Apps - Innovative Uses of NLM Information'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

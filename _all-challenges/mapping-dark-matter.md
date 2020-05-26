@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Mapping Dark Matter
+challenge-title: Mapping Dark Matter
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

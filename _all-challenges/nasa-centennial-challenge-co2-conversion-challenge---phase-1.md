@@ -131,7 +131,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: NASA Centennial Challenge CO2 Conversion Challenge phase 1
+challenge-title: NASA Centennial Challenge CO2 Conversion Challenge phase 1
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

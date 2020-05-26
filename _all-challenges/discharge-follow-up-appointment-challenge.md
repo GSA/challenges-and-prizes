@@ -236,7 +236,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: Discharge Follow-Up Appointment Challenge
+challenge-title: Discharge Follow-Up Appointment Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

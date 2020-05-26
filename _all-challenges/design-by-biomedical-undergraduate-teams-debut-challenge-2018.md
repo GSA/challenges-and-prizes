@@ -325,7 +325,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 165
 showTagline: true
-name: Design by Biomedical Undergraduate Teams (DEBUT) Challenge 2018
+challenge-title: Design by Biomedical Undergraduate Teams (DEBUT) Challenge 2018
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

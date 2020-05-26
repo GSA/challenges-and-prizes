@@ -190,7 +190,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 162
 showTagline: true
-name: Remote Pregnancy Monitoring Challenge
+challenge-title: Remote Pregnancy Monitoring Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

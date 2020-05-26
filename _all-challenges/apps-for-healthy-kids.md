@@ -241,7 +241,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 273
 showTagline: true
-name: Apps for Healthy Kids
+challenge-title: Apps for Healthy Kids
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

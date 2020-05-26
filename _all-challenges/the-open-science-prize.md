@@ -251,7 +251,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 165
 showTagline: true
-name: The Open Science Prize
+challenge-title: The Open Science Prize
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

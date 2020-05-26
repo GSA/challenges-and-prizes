@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 105
 showTagline: true
-name: Military and Veterans Photo/Essay Contest
+challenge-title: Military and Veterans Photo/Essay Contest
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

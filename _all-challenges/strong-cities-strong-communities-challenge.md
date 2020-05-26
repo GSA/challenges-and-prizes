@@ -239,7 +239,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 275
 showTagline: true
-name: Strong Cities, Strong Communities Challenge
+challenge-title: Strong Cities, Strong Communities Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

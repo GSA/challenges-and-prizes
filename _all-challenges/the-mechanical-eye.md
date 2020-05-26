@@ -618,7 +618,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: The Mechanical Eye
+challenge-title: The Mechanical Eye
 privateCampaign: true
 ideaCount: 2
 memberIdeaAttachmentAllowed: false

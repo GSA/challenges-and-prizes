@@ -239,7 +239,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: 3D Printable Small Robot to Assist in Bomb Disposal
+challenge-title: 3D Printable Small Robot to Assist in Bomb Disposal
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

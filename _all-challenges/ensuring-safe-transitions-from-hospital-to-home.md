@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: Ensuring Safe Transitions from Hospital to Home
+challenge-title: Ensuring Safe Transitions from Hospital to Home
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

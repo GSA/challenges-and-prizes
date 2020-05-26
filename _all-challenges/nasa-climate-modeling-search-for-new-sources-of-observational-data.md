@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: NASA Climate Modeling - Search for New Sources of Observational Data
+challenge-title: NASA Climate Modeling - Search for New Sources of Observational Data
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

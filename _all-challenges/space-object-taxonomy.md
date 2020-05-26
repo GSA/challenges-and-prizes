@@ -250,7 +250,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Space Object Taxonomy
+challenge-title: Space Object Taxonomy
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

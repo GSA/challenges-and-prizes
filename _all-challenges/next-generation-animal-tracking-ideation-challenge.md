@@ -130,7 +130,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Next Generation Animal Tracking Ideation Challenge
+challenge-title: Next Generation Animal Tracking Ideation Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: true

@@ -251,7 +251,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 292
 showTagline: true
-name: Gun Safety Matters Challenge
+challenge-title: Gun Safety Matters Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

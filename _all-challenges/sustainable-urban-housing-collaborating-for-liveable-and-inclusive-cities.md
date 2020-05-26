@@ -237,7 +237,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 291
 showTagline: true
-name: 'Sustainable Urban Housing - Collaborating for Liveable and Inclusive Cities'
+challenge-title: 'Sustainable Urban Housing - Collaborating for Liveable and Inclusive Cities'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -432,7 +432,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – KS-04 – Rep. Pompeo
+challenge-title: Congressional App Challenge – KS-04 – Rep. Pompeo
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

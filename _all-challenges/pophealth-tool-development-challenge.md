@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: popHealth Tool Development Challenge
+challenge-title: popHealth Tool Development Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

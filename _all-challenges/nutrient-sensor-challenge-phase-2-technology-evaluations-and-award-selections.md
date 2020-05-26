@@ -243,7 +243,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 18
 showTagline: true
-name: 'Nutrient Sensor Challenge Phase 2 - Technology Evaluations and Award Selections'
+challenge-title: 'Nutrient Sensor Challenge Phase 2 - Technology Evaluations and Award Selections'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -297,7 +297,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Air Force Turbine Prize
+challenge-title: Air Force Turbine Prize
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

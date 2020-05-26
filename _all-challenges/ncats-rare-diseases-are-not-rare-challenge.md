@@ -349,7 +349,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 165
 showTagline: true
-name: NCATS Rare Diseases Are Not Rare! Challenge
+challenge-title: NCATS Rare Diseases Are Not Rare! Challenge
 privateCampaign: true
 ideaCount: 54
 memberIdeaAttachmentAllowed: true

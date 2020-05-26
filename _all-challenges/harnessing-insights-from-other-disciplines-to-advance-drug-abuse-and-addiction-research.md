@@ -246,7 +246,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 165
 showTagline: true
-name: Harnessing Insights from Other Disciplines to Advance Drug Abuse and Addiction
+challenge-title: Harnessing Insights from Other Disciplines to Advance Drug Abuse and Addiction
   Research
 privateCampaign: true
 ideaCount: 0

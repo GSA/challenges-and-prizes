@@ -434,7 +434,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – MA-09 – Rep. Keating
+challenge-title: Congressional App Challenge – MA-09 – Rep. Keating
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

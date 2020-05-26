@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 21
 showTagline: true
-name: BREAD Ideas Challenge
+challenge-title: BREAD Ideas Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

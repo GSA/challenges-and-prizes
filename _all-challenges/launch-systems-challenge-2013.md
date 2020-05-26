@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: LAUNCH Systems Challenge 2013
+challenge-title: LAUNCH Systems Challenge 2013
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

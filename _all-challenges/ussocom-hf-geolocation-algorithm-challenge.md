@@ -165,7 +165,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: USSOCOM HF Geolocation Algorithm Challenge
+challenge-title: USSOCOM HF Geolocation Algorithm Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: true

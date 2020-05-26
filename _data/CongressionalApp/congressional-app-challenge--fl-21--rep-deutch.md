@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – FL-21 – Rep. Deutch
+challenge-title: Congressional App Challenge – FL-21 – Rep. Deutch
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

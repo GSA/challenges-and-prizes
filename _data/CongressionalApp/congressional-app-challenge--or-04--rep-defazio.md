@@ -427,7 +427,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – OR-04 – Rep. DeFazio
+challenge-title: Congressional App Challenge – OR-04 – Rep. DeFazio
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

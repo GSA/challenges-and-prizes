@@ -236,7 +236,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: Aetna Foundation, HHS, & NHIT Collaborative Innovating for the Underserved Business
+challenge-title: Aetna Foundation, HHS, & NHIT Collaborative Innovating for the Underserved Business
   Plan Challenge
 privateCampaign: true
 ideaCount: 0

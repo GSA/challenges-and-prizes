@@ -162,7 +162,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: Electricity Industry Technology and Practices Innovation Challenge
+challenge-title: Electricity Industry Technology and Practices Innovation Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: true

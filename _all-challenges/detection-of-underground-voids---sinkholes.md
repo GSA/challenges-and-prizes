@@ -305,7 +305,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Detection of Underground Voids - Sinkholes
+challenge-title: Detection of Underground Voids - Sinkholes
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

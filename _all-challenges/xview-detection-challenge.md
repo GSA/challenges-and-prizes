@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: xView Detection Challenge
+challenge-title: xView Detection Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

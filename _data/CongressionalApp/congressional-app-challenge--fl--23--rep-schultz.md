@@ -433,7 +433,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – FL- 23 – Rep. Schultz
+challenge-title: Congressional App Challenge – FL- 23 – Rep. Schultz
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

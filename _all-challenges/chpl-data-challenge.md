@@ -234,7 +234,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: CHPL Data Challenge
+challenge-title: CHPL Data Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: true

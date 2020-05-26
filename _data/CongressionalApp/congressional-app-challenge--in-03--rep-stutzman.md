@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – IN-03 – Rep. Stutzman
+challenge-title: Congressional App Challenge – IN-03 – Rep. Stutzman
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -401,7 +401,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 21
 showTagline: true
-name: 'Generation Nano - Small Science, Superheroes'
+challenge-title: 'Generation Nano - Small Science, Superheroes'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

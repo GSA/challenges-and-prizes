@@ -236,7 +236,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 290
 showTagline: true
-name: Apps for Communities
+challenge-title: Apps for Communities
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -451,7 +451,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 280
 showTagline: true
-name: '2016 InnovateHER | Innovating for Women Business Challenge'
+challenge-title: '2016 InnovateHER | Innovating for Women Business Challenge'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

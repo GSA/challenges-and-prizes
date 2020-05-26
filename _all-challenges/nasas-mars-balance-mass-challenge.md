@@ -242,7 +242,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: NASA's Mars Balance Mass Challenge
+challenge-title: NASA's Mars Balance Mass Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

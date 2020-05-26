@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 283
 showTagline: true
-name: MyMoneyAppUp IdeaBank Challenge
+challenge-title: MyMoneyAppUp IdeaBank Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -478,7 +478,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 207
 showTagline: true
-name: 2019 NIST ARIAC Challenge
+challenge-title: 2019 NIST ARIAC Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

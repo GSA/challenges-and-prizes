@@ -249,7 +249,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Space Robotics Challenge
+challenge-title: Space Robotics Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

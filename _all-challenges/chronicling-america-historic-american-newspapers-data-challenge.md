@@ -454,7 +454,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 439
 showTagline: true
-name: 'Chronicling America - Historic American Newspapers Data Challenge'
+challenge-title: 'Chronicling America - Historic American Newspapers Data Challenge'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

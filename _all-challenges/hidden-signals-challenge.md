@@ -617,7 +617,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 135
 showTagline: true
-name: Hidden Signals Challenge
+challenge-title: Hidden Signals Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

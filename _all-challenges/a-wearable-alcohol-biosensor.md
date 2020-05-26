@@ -407,7 +407,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 165
 showTagline: true
-name: A Wearable Alcohol Biosensor
+challenge-title: A Wearable Alcohol Biosensor
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

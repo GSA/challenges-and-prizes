@@ -432,7 +432,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – NY-26 – Rep. Higgins
+challenge-title: Congressional App Challenge – NY-26 – Rep. Higgins
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

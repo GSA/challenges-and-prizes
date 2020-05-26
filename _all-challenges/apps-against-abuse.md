@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: Apps Against Abuse
+challenge-title: Apps Against Abuse
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

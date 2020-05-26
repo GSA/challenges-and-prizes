@@ -253,7 +253,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 292
 showTagline: true
-name: The VA PseudoVet Challenge
+challenge-title: The VA PseudoVet Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

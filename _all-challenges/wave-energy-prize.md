@@ -246,7 +246,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: Wave Energy Prize
+challenge-title: Wave Energy Prize
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

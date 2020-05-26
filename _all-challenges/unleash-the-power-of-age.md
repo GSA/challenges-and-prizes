@@ -231,7 +231,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 170
 showTagline: true
-name: Unleash The Power of Age
+challenge-title: Unleash The Power of Age
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

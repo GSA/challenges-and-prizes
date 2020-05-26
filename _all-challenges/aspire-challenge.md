@@ -650,7 +650,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 280
 showTagline: true
-name: Aspire Challenge
+challenge-title: Aspire Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

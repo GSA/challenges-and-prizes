@@ -319,7 +319,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 162
 showTagline: true
-name: Preventing Childhood Obesity
+challenge-title: Preventing Childhood Obesity
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -429,7 +429,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – NY-04 – Rep. Rice
+challenge-title: Congressional App Challenge – NY-04 – Rep. Rice
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

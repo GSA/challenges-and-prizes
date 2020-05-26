@@ -239,7 +239,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 18
 showTagline: true
-name: Climate Change In Focus
+challenge-title: Climate Change In Focus
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

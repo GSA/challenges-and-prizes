@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 292
 showTagline: true
-name: Blue Button for All Americans
+challenge-title: Blue Button for All Americans
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

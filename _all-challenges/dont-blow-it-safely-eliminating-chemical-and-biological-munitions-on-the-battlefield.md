@@ -474,7 +474,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Don't Blow It! Safely Eliminating Chemical and Biological Munitions on the Battlefield
+challenge-title: Don't Blow It! Safely Eliminating Chemical and Biological Munitions on the Battlefield
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: true

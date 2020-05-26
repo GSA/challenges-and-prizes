@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – PA-05 – Rep. Thompson
+challenge-title: Congressional App Challenge – PA-05 – Rep. Thompson
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

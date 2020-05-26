@@ -234,7 +234,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: Easy EHR Issue Reporting Challenge
+challenge-title: Easy EHR Issue Reporting Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: true

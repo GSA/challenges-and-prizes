@@ -571,7 +571,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 292
 showTagline: true
-name: VA Care Coordination for Improved Outcomes Challenge
+challenge-title: VA Care Coordination for Improved Outcomes Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

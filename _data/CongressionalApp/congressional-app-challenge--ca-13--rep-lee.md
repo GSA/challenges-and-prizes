@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – CA-13 – Rep. Lee
+challenge-title: Congressional App Challenge – CA-13 – Rep. Lee
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

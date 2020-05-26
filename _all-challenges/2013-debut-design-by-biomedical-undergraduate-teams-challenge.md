@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 165
 showTagline: true
-name: 2013 DEBUT (DEsign by Biomedical Undergraduate Teams) Challenge
+challenge-title: 2013 DEBUT (DEsign by Biomedical Undergraduate Teams) Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

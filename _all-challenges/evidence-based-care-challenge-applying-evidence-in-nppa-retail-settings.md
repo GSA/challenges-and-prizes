@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 167
 showTagline: true
-name: 'Evidence-Based Care Challenge: Applying Evidence in NP/PA Retail Settings'
+challenge-title: 'Evidence-Based Care Challenge: Applying Evidence in NP/PA Retail Settings'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

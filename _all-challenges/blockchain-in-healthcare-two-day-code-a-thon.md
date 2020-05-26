@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: Blockchain in Healthcare Two-Day Code-A-Thon
+challenge-title: Blockchain in Healthcare Two-Day Code-A-Thon
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

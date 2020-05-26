@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: DARPA's Shredder Challenge
+challenge-title: DARPA's Shredder Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

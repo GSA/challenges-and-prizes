@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 286
 showTagline: true
-name: Connected Vehicle Technology Challenge
+challenge-title: Connected Vehicle Technology Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

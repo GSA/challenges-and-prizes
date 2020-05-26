@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge - KS-02 - Rep. Jenkins
+challenge-title: Congressional App Challenge - KS-02 - Rep. Jenkins
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

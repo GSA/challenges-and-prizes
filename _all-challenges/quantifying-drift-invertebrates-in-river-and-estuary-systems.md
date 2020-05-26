@@ -257,7 +257,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 109
 showTagline: true
-name: Quantifying Drift Invertebrates in River and Estuary Systems
+challenge-title: Quantifying Drift Invertebrates in River and Estuary Systems
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

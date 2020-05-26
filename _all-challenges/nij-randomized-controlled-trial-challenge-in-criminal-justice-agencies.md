@@ -237,7 +237,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 282
 showTagline: true
-name: NIJ Randomized Controlled Trial Challenge in Criminal Justice Agencies
+challenge-title: NIJ Randomized Controlled Trial Challenge in Criminal Justice Agencies
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

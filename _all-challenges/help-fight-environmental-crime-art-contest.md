@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 18
 showTagline: true
-name: Help Fight Environmental Crime Art Contest
+challenge-title: Help Fight Environmental Crime Art Contest
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

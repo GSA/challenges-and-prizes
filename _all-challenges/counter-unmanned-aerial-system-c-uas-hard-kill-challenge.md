@@ -359,7 +359,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Counter-Unmanned Aerial System (C-UAS) Hard Kill Challenge
+challenge-title: Counter-Unmanned Aerial System (C-UAS) Hard Kill Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

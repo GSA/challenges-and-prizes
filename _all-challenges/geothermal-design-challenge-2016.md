@@ -282,7 +282,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: Geothermal Design Challenge 2016
+challenge-title: Geothermal Design Challenge 2016
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

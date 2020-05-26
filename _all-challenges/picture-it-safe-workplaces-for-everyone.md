@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 284
 showTagline: true
-name: Picture It! Safe Workplaces for Everyone
+challenge-title: Picture It! Safe Workplaces for Everyone
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

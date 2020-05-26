@@ -407,7 +407,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 270
 showTagline: true
-name: 'My Preparedness Story - Staying Healthy and Resilient'
+challenge-title: 'My Preparedness Story - Staying Healthy and Resilient'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -279,7 +279,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Project Mars Competition
+challenge-title: Project Mars Competition
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

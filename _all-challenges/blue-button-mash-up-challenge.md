@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: Blue Button Mash Up Challenge
+challenge-title: Blue Button Mash Up Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

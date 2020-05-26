@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Chief of Naval Research Challenge
+challenge-title: Chief of Naval Research Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
