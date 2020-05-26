@@ -92,6 +92,23 @@ collections:
       - { label: 'Judging', name: 'judging', widget: 'markdown', required: false }
       - { label: 'How To Enter', name: 'how-to-enter', widget: 'markdown', required: false }
 
+  - name: 'challenges'
+    label: 'Challenges'
+    label_singular: 'Challenge'
+    folder: '_all-challenges'
+    filter: {field: "status", value: "open"}
+    identifier_field: 'challenge-title'
+    slug: '{{challenge-id}}-{{challenge-title}}'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Workflow Card Label', name: 'title', widget: 'string', default: 'Card Title Here', required: false }
+      - { label: 'Challenge Title', name: 'challenge-title', widget: 'string' }
+      - { label: 'Layout', name: 'layout', widget: 'string' }
+      - { label: 'Permalink', name: 'permalink', widget: 'string', default: '/challenge/challenge-url-here/' }
+      - { label: 'Challenge-ID', name: 'challenge-id', widget: 'string' }
+
   - name: 'posts'
     label: 'Blog Posts'
     label_singular: 'Blog Post'
