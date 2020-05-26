@@ -57,7 +57,7 @@ ideaSubmitFormInstruction: '&nbsp;    <strong>Summary of How to Enter:</strong> 
 startDate: '2018-11-26T06:52:41'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 636
 moderatorAdminOnlyIdeasEnabled: false

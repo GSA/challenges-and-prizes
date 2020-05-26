@@ -1,7 +1,7 @@
 <section class="usa-section bg-base-lightest">
         <div class="grid-container">
             <div class="grid-row">
-                {% assign sorted = (site.challenges | sort: 'submission-end') %}
+                {% assign sorted = (site.all-challenges | sort: 'submission-end') %}
                 {% for challenge in sorted %}
                 {% if challenge.status == "open" %}
             <div class="tablet:grid-col-4 cards">

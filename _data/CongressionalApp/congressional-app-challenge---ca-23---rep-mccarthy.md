@@ -57,7 +57,7 @@ ideaSubmitFormInstruction: '<strong> </strong>    <strong>Summary of How to Ent
 startDate: '2018-11-26T06:56:46'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 705
 moderatorAdminOnlyIdeasEnabled: false
