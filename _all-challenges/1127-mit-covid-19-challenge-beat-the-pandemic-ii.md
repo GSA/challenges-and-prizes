@@ -5,7 +5,7 @@ layout: front-matter-data-markdownify-content
 permalink: /challenge/mit-covid-19-beat-the-pandemic-2/
 challenge-id: "1127"
 status: open
-sidenav: false
+sidenav: true
 card-image: /assets/netlify-uploads/beat-the-pandemic-2.png
 agency-logo: /assets/netlify-uploads/valogo.png
 tagline: "Build solutions to beat the pandemic: Address the most pressing and
