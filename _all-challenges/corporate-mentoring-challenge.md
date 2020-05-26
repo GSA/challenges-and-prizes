@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 290
 showTagline: true
-name: Corporate Mentoring Challenge
+challenge-title: Corporate Mentoring Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

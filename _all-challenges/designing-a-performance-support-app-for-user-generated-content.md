@@ -239,7 +239,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Designing a Performance Support App for User-Generated Content
+challenge-title: Designing a Performance Support App for User-Generated Content
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

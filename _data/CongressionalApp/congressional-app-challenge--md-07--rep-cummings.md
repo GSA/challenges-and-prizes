@@ -430,7 +430,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – MD-07 – Rep. Cummings
+challenge-title: Congressional App Challenge – MD-07 – Rep. Cummings
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

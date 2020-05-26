@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 280
 showTagline: true
-name: Tibbetts Awards 2013 - The Best in the SBIR Program
+challenge-title: Tibbetts Awards 2013 - The Best in the SBIR Program
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

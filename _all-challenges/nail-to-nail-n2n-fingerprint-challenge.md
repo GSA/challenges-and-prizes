@@ -442,7 +442,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 269
 showTagline: true
-name: Nail to Nail (N2N) Fingerprint Challenge
+challenge-title: Nail to Nail (N2N) Fingerprint Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

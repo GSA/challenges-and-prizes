@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge - AR-02 - Rep. Hill
+challenge-title: Congressional App Challenge - AR-02 - Rep. Hill
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -132,7 +132,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: NASA ISS RFID Localization Challenge
+challenge-title: NASA ISS RFID Localization Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: true

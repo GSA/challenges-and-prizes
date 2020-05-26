@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: Cancer Care Video Challenge
+challenge-title: Cancer Care Video Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

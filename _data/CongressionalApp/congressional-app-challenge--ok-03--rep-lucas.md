@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – OK-03 – Rep. Lucas
+challenge-title: Congressional App Challenge – OK-03 – Rep. Lucas
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

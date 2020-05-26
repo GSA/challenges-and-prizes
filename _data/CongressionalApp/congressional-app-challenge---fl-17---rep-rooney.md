@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge - FL-17 - Rep. Rooney
+challenge-title: Congressional App Challenge - FL-17 - Rep. Rooney
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -429,7 +429,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge - CA-28 - Rep. Schiff
+challenge-title: Congressional App Challenge - CA-28 - Rep. Schiff
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

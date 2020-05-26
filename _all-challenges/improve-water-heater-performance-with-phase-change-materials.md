@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: Improve Water Heater Performance with Phase Change Materials
+challenge-title: Improve Water Heater Performance with Phase Change Materials
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

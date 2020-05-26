@@ -239,7 +239,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 414
 showTagline: true
-name: Innovations in Measuring and Managing Addiction Treatment Quality
+challenge-title: Innovations in Measuring and Managing Addiction Treatment Quality
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

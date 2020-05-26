@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: Healthy People 2020 Leading Health Indicators App Challenge
+challenge-title: Healthy People 2020 Leading Health Indicators App Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 279
 showTagline: true
-name: "'Win a Usability Test' Video Contest"
+challenge-title: "'Win a Usability Test' Video Contest"
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

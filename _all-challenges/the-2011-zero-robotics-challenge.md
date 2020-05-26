@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: The 2011 Zero Robotics Challenge
+challenge-title: The 2011 Zero Robotics Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -432,7 +432,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – WA-05 – Rep. McMorris Rodgers
+challenge-title: Congressional App Challenge – WA-05 – Rep. McMorris Rodgers
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

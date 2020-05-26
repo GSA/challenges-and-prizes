@@ -290,7 +290,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 265
 showTagline: true
-name: EnvisioNano
+challenge-title: EnvisioNano
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

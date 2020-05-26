@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge - CO-04 - Rep. Buck
+challenge-title: Congressional App Challenge - CO-04 - Rep. Buck
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

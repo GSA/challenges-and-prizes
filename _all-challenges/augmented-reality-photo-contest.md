@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 290
 showTagline: true
-name: Augmented Reality Photo Contest
+challenge-title: Augmented Reality Photo Contest
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

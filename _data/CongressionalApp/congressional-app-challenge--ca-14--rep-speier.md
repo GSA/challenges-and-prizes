@@ -432,7 +432,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – CA-14 – Rep. Speier
+challenge-title: Congressional App Challenge – CA-14 – Rep. Speier
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

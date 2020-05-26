@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Special Operations Transport
+challenge-title: Special Operations Transport
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

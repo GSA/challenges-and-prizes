@@ -245,7 +245,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: '3D-Printed Habitat Challenge, Phase 2: Structural Member'
+challenge-title: '3D-Printed Habitat Challenge, Phase 2: Structural Member'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

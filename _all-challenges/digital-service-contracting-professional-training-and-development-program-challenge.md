@@ -729,7 +729,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 45
 showTagline: true
-name: Digital Service Contracting Professional Training and Development Program Challenge
+challenge-title: Digital Service Contracting Professional Training and Development Program Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

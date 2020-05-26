@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: Healthy New Year Video Challenge
+challenge-title: Healthy New Year Video Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

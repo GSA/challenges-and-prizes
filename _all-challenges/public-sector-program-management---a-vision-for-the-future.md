@@ -505,7 +505,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 279
 showTagline: true
-name: Public Sector Program Management - A Vision for the Future
+challenge-title: Public Sector Program Management - A Vision for the Future
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -432,7 +432,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – TX-21 – Rep. Smith
+challenge-title: Congressional App Challenge – TX-21 – Rep. Smith
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

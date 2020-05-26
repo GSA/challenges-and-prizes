@@ -253,7 +253,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 269
 showTagline: true
-name: IARPA MORGOTH'S CROWN
+challenge-title: IARPA MORGOTH'S CROWN
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

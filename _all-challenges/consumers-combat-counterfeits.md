@@ -301,7 +301,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 204
 showTagline: true
-name: Consumers Combat Counterfeits
+challenge-title: Consumers Combat Counterfeits
 publicOwnerName: Eric Beidel
 privateCampaign: true
 ideaCount: 64

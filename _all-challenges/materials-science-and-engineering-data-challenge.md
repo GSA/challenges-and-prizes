@@ -430,7 +430,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 268
 showTagline: true
-name: Materials Science and Engineering Data Challenge
+challenge-title: Materials Science and Engineering Data Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

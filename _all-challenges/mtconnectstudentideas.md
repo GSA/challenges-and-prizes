@@ -296,7 +296,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: MTConnectStudentIdeas
+challenge-title: MTConnectStudentIdeas
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

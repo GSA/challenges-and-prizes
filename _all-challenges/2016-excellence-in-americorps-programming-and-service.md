@@ -374,7 +374,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 444
 showTagline: true
-name: 2016 Excellence in AmeriCorps Programming and Service
+challenge-title: 2016 Excellence in AmeriCorps Programming and Service
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

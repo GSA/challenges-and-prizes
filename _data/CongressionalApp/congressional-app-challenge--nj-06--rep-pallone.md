@@ -430,7 +430,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – NJ-06 – Rep. Pallone
+challenge-title: Congressional App Challenge – NJ-06 – Rep. Pallone
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

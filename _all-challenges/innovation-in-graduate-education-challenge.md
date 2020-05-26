@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 21
 showTagline: true
-name: Innovation in Graduate Education Challenge
+challenge-title: Innovation in Graduate Education Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

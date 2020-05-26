@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: Apps4Tots Health Challenge
+challenge-title: Apps4Tots Health Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

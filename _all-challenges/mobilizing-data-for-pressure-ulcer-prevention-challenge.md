@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: Mobilizing Data for Pressure Ulcer Prevention Challenge
+challenge-title: Mobilizing Data for Pressure Ulcer Prevention Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -238,7 +238,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: Your Life Matters! Campaign Logo Design Competition
+challenge-title: Your Life Matters! Campaign Logo Design Competition
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

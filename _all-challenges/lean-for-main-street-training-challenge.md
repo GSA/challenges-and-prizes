@@ -696,7 +696,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 280
 showTagline: true
-name: Lean for Main Street Training Challenge
+challenge-title: Lean for Main Street Training Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

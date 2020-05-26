@@ -248,7 +248,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 397
 showTagline: true
-name: Pill Image Recognition Challenge
+challenge-title: Pill Image Recognition Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

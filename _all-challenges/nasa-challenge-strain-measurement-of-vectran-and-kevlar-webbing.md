@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: 'NASA Challenge: Strain Measurement of Vectran and Kevlar Webbing'
+challenge-title: 'NASA Challenge: Strain Measurement of Vectran and Kevlar Webbing'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

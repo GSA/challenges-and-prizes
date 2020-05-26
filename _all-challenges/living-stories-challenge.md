@@ -402,7 +402,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 272
 showTagline: true
-name: Living Stories Challenge
+challenge-title: Living Stories Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

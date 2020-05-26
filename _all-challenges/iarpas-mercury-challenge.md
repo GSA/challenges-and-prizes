@@ -238,7 +238,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 269
 showTagline: true
-name: IARPA's Mercury Challenge
+challenge-title: IARPA's Mercury Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 444
 showTagline: true
-name: AmeriCorps Photo Contest
+challenge-title: AmeriCorps Photo Contest
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

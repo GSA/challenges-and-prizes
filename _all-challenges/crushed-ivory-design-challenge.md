@@ -236,7 +236,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 113
 showTagline: true
-name: Crushed Ivory Design Challenge
+challenge-title: Crushed Ivory Design Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

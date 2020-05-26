@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 285
 showTagline: true
-name: Race to the Top High School Commencement Challenge
+challenge-title: Race to the Top High School Commencement Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

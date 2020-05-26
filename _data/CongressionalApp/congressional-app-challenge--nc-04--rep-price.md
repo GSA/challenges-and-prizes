@@ -429,7 +429,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – NC-04 – Rep. Price
+challenge-title: Congressional App Challenge – NC-04 – Rep. Price
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

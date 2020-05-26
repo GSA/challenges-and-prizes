@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: The Tech Challenge for Atrocity Prevention 2012
+challenge-title: The Tech Challenge for Atrocity Prevention 2012
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

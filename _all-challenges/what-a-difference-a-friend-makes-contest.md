@@ -239,7 +239,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 166
 showTagline: true
-name: What a Difference a Friend Makes Contest
+challenge-title: What a Difference a Friend Makes Contest
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -417,7 +417,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 444
 showTagline: true
-name: 2018 Excellence in AmeriCorps Awards
+challenge-title: 2018 Excellence in AmeriCorps Awards
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

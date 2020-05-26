@@ -432,7 +432,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – FL-22 – Rep. Frankel
+challenge-title: Congressional App Challenge – FL-22 – Rep. Frankel
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

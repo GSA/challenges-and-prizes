@@ -834,7 +834,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 341
 showTagline: true
-name: Zapping Rachel
+challenge-title: Zapping Rachel
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

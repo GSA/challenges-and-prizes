@@ -250,7 +250,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 286
 showTagline: true
-name: TRANSPORTATION TECHNOLOGY TOURNAMENT
+challenge-title: TRANSPORTATION TECHNOLOGY TOURNAMENT
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

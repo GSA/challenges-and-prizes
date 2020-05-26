@@ -333,7 +333,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Mental Health and TBI Care Challenge
+challenge-title: Mental Health and TBI Care Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

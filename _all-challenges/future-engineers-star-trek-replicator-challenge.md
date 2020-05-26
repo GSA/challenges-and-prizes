@@ -263,7 +263,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Future Engineers Star Trek Replicator Challenge
+challenge-title: Future Engineers Star Trek Replicator Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

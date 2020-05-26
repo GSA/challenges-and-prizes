@@ -153,7 +153,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 269
 showTagline: true
-name: IARPA Activity in Extended Videos Prize Challenge
+challenge-title: IARPA Activity in Extended Videos Prize Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Humans in Space Youth Art Competition
+challenge-title: Humans in Space Youth Art Competition
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -432,7 +432,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – ME-01 – Rep. Pingree
+challenge-title: Congressional App Challenge – ME-01 – Rep. Pingree
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

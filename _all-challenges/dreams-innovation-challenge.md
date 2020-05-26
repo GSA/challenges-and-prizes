@@ -283,7 +283,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 290
 showTagline: true
-name: DREAMS Innovation Challenge
+challenge-title: DREAMS Innovation Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: Behavioral Health Patient Empowerment Challenge
+challenge-title: Behavioral Health Patient Empowerment Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

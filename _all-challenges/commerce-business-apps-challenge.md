@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 275
 showTagline: true
-name: Commerce Business Apps Challenge
+challenge-title: Commerce Business Apps Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

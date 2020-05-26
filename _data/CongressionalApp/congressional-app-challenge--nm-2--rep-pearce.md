@@ -429,7 +429,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – NM-2 – Rep. Pearce
+challenge-title: Congressional App Challenge – NM-2 – Rep. Pearce
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

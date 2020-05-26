@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: CineSpace - NASA Imagery Your Vision 2017
+challenge-title: CineSpace - NASA Imagery Your Vision 2017
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

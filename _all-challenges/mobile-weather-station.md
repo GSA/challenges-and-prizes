@@ -365,7 +365,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Mobile Weather Station
+challenge-title: Mobile Weather Station
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

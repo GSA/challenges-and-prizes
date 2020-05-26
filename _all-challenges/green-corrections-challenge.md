@@ -406,7 +406,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 282
 showTagline: true
-name: Green Corrections Challenge
+challenge-title: Green Corrections Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

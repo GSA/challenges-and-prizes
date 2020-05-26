@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 226
 showTagline: true
-name: Markup of US Legislation in Akoma Ntoso
+challenge-title: Markup of US Legislation in Akoma Ntoso
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

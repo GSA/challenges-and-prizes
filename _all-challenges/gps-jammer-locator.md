@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: GPS Jammer Locator
+challenge-title: GPS Jammer Locator
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 164
 showTagline: true
-name: '"I VetoViolence Because...": Teen Dating Violence Public Service Announcement
+challenge-title: '"I VetoViolence Because...": Teen Dating Violence Public Service Announcement
   Contest'
 privateCampaign: true
 ideaCount: 0

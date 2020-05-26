@@ -429,7 +429,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – NC-02 – Rep. Walker
+challenge-title: Congressional App Challenge – NC-02 – Rep. Walker
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: SMART-Indivo Challenge
+challenge-title: SMART-Indivo Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

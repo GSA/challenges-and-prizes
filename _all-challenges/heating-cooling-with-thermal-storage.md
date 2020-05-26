@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: Heating & Cooling with Thermal Storage
+challenge-title: Heating & Cooling with Thermal Storage
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

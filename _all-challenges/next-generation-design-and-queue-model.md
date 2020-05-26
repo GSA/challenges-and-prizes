@@ -240,7 +240,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 128
 showTagline: true
-name: Next Generation Design and Queue Model
+challenge-title: Next Generation Design and Queue Model
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

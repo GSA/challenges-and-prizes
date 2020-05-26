@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – FL-7  – Rep. Mica
+challenge-title: Congressional App Challenge – FL-7  – Rep. Mica
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – PA-02 – Rep. Fattah
+challenge-title: Congressional App Challenge – PA-02 – Rep. Fattah
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

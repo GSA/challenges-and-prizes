@@ -513,7 +513,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 207
 showTagline: true
-name: '2018 RAMP: Reusable Abstractions of Manufacturing Processes'
+challenge-title: '2018 RAMP: Reusable Abstractions of Manufacturing Processes'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

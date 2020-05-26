@@ -239,7 +239,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: International Space Apps Challenge
+challenge-title: International Space Apps Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

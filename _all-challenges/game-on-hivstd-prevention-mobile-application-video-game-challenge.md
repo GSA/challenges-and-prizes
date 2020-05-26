@@ -237,7 +237,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 164
 showTagline: true
-name: Game On! HIV/STD Prevention Mobile Application Video Game Challenge
+challenge-title: Game On! HIV/STD Prevention Mobile Application Video Game Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: Calendar cover contest - womenshealth.gov
+challenge-title: Calendar cover contest - womenshealth.gov
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -436,7 +436,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – PA-11 – Rep. Barletta
+challenge-title: Congressional App Challenge – PA-11 – Rep. Barletta
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

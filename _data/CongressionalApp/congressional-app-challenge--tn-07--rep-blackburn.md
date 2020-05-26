@@ -430,7 +430,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – TN-07 – Rep. Blackburn
+challenge-title: Congressional App Challenge – TN-07 – Rep. Blackburn
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

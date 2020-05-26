@@ -238,7 +238,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: Apps for Energy 2012
+challenge-title: Apps for Energy 2012
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

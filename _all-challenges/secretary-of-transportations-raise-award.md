@@ -238,7 +238,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 286
 showTagline: true
-name: Secretary of Transportation's RAISE Award
+challenge-title: Secretary of Transportation's RAISE Award
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -250,7 +250,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 109
 showTagline: true
-name: Improving Fish Exclusion from Water Diversions and Intakes
+challenge-title: Improving Fish Exclusion from Water Diversions and Intakes
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: true

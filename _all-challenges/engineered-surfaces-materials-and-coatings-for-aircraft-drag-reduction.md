@@ -257,7 +257,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 268
 showTagline: true
-name: Engineered Surfaces, Materials and Coatings for Aircraft Drag Reduction
+challenge-title: Engineered Surfaces, Materials and Coatings for Aircraft Drag Reduction
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

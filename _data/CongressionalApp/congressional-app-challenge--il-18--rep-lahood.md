@@ -430,7 +430,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – IL-18 – Rep. LaHood
+challenge-title: Congressional App Challenge – IL-18 – Rep. LaHood
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

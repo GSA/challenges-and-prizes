@@ -241,7 +241,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 161
 showTagline: true
-name: 2014 FDA Food Safety Challenge
+challenge-title: 2014 FDA Food Safety Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

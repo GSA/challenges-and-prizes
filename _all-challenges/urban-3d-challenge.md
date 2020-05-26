@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Urban 3D Challenge
+challenge-title: Urban 3D Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

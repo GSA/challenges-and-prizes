@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Energetic Core-Shell Nanocluster Production
+challenge-title: Energetic Core-Shell Nanocluster Production
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

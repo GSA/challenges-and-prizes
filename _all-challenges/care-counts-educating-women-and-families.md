@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 162
 showTagline: true
-name: 'Care Counts: Educating Women and Families'
+challenge-title: 'Care Counts: Educating Women and Families'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

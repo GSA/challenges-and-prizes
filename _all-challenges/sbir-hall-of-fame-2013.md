@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 280
 showTagline: true
-name: SBIR Hall of Fame 2013
+challenge-title: SBIR Hall of Fame 2013
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

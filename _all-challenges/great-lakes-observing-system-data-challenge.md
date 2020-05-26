@@ -343,7 +343,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 203
 showTagline: true
-name: Great Lakes Observing System Data Challenge
+challenge-title: Great Lakes Observing System Data Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

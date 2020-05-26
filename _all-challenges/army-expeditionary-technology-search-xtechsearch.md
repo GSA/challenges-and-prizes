@@ -502,7 +502,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Army Expeditionary Technology Search (xTechSearch)
+challenge-title: Army Expeditionary Technology Search (xTechSearch)
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

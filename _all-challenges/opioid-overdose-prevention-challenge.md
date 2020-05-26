@@ -317,7 +317,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 166
 showTagline: true
-name: Opioid Overdose Prevention Challenge
+challenge-title: Opioid Overdose Prevention Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

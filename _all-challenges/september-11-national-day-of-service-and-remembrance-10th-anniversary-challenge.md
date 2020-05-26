@@ -236,7 +236,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 290
 showTagline: true
-name: September 11 National Day of Service and Remembrance 10th Anniversary Challenge
+challenge-title: September 11 National Day of Service and Remembrance 10th Anniversary Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

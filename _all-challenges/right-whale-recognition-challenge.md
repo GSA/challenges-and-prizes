@@ -253,7 +253,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 203
 showTagline: true
-name: Right Whale Recognition Challenge
+challenge-title: Right Whale Recognition Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

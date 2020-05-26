@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – AZ-07 – Rep. Gallego
+challenge-title: Congressional App Challenge – AZ-07 – Rep. Gallego
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -430,7 +430,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – NJ-01 – Rep. Norcross
+challenge-title: Congressional App Challenge – NJ-01 – Rep. Norcross
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

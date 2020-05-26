@@ -239,7 +239,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 165
 showTagline: true
-name: Strategies to Strengthen Fairness and Impartiality in Peer Review
+challenge-title: Strategies to Strengthen Fairness and Impartiality in Peer Review
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

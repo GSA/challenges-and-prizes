@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 18
 showTagline: true
-name: 2015 Campus Rainworks Challenge
+challenge-title: 2015 Campus Rainworks Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

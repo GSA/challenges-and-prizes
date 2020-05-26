@@ -435,7 +435,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – NJ-10 – Rep. Payne, Jr.
+challenge-title: Congressional App Challenge – NJ-10 – Rep. Payne, Jr.
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

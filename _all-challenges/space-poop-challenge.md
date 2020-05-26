@@ -237,7 +237,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Space Poop Challenge
+challenge-title: Space Poop Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

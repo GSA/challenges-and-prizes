@@ -238,7 +238,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: DTN Neighbor Discovery Protocol Challenge
+challenge-title: DTN Neighbor Discovery Protocol Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

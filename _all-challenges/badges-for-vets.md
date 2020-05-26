@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 292
 showTagline: true
-name: Badges for Vets
+challenge-title: Badges for Vets
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

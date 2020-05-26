@@ -263,7 +263,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 285
 showTagline: true
-name: Reach Higher Career App Challenge
+challenge-title: Reach Higher Career App Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

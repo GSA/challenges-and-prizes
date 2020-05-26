@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 286
 showTagline: true
-name: Data Visualization Student Challenge
+challenge-title: Data Visualization Student Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

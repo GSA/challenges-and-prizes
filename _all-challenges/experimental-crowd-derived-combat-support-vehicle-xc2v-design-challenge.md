@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Experimental Crowd-derived Combat-support Vehicle (XC2V) Design Challenge
+challenge-title: Experimental Crowd-derived Combat-support Vehicle (XC2V) Design Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

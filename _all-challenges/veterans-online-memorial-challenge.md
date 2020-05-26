@@ -308,7 +308,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 292
 showTagline: true
-name: Veterans Online Memorial Challenge
+challenge-title: Veterans Online Memorial Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – LA-02 – Rep. Richmond
+challenge-title: Congressional App Challenge – LA-02 – Rep. Richmond
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

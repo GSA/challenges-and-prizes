@@ -394,7 +394,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 204
 showTagline: true
-name: USPTO Cancer Moonshot Challenge
+challenge-title: USPTO Cancer Moonshot Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

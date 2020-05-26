@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – MA-04 – Rep. Kennedy
+challenge-title: Congressional App Challenge – MA-04 – Rep. Kennedy
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

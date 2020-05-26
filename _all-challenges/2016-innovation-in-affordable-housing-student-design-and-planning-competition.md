@@ -252,7 +252,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 291
 showTagline: true
-name: 2016 Innovation in Affordable Housing Student Design and Planning Competition
+challenge-title: 2016 Innovation in Affordable Housing Student Design and Planning Competition
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

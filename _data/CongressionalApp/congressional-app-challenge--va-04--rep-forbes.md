@@ -432,7 +432,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – VA-04 – Rep. Forbes
+challenge-title: Congressional App Challenge – VA-04 – Rep. Forbes
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

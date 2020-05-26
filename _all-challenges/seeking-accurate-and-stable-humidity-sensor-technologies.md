@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: Seeking Accurate and Stable Humidity Sensor Technologies
+challenge-title: Seeking Accurate and Stable Humidity Sensor Technologies
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

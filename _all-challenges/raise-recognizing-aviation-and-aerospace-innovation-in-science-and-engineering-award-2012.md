@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 286
 showTagline: true
-name: RAISE (Recognizing Aviation and Aerospace Innovation in Science and Engineering)
+challenge-title: RAISE (Recognizing Aviation and Aerospace Innovation in Science and Engineering)
   Award 2012
 privateCampaign: true
 ideaCount: 0

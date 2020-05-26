@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 439
 showTagline: true
-name: National Humanities Medal Design Competition
+challenge-title: National Humanities Medal Design Competition
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

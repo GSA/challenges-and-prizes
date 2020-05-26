@@ -13,7 +13,7 @@ permalink: /feed-closed-imported.json
 {% if item.layout != "front-matter-data" %}
         {
             "challenge-id": "{{ item.challenge-id}}",
-            "challenge-title": "{{ item.name }}",
+            "challenge-title": "{{ item.challenge-title }}",
             "permalink": "{{ site.url }}{{ item.permalink }}",
             "external-url": "{{ item.external-url }}",
             "tagline": "{{ item.tagline | strip | escape }}",

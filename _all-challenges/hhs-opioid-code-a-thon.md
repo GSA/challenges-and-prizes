@@ -290,7 +290,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: HHS Opioid Code-a-Thon
+challenge-title: HHS Opioid Code-a-Thon
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

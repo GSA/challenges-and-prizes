@@ -236,7 +236,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 283
 showTagline: true
-name: G-20 SME Finance Challenge
+challenge-title: G-20 SME Finance Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

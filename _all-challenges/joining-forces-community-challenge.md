@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 290
 showTagline: true
-name: Joining Forces Community Challenge
+challenge-title: Joining Forces Community Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

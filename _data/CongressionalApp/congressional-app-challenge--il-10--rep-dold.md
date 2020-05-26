@@ -432,7 +432,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – IL-10 – Rep. Dold
+challenge-title: Congressional App Challenge – IL-10 – Rep. Dold
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

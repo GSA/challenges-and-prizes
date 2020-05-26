@@ -376,7 +376,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 283
 showTagline: true
-name: 2016 CDFI Fund Prize Competition
+challenge-title: 2016 CDFI Fund Prize Competition
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

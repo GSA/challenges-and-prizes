@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 286
 showTagline: true
-name: US DOT Motorcoach Safety Data Student Challenge
+challenge-title: US DOT Motorcoach Safety Data Student Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

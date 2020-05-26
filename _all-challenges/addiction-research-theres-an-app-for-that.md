@@ -245,7 +245,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 414
 showTagline: true
-name: 'Addiction Research - There’s an App for that'
+challenge-title: 'Addiction Research - There’s an App for that'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

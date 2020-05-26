@@ -263,7 +263,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 285
 showTagline: true
-name: EdSim Challenge
+challenge-title: EdSim Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

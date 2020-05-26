@@ -367,7 +367,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 285
 showTagline: true
-name: Reimagining the Higher Ed Ecosystem
+challenge-title: Reimagining the Higher Ed Ecosystem
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

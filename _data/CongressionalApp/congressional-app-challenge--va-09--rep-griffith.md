@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – VA-09 – Rep. Griffith
+challenge-title: Congressional App Challenge – VA-09 – Rep. Griffith
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

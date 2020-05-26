@@ -240,7 +240,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 290
 showTagline: true
-name: Presenting Arts Data Artfully
+challenge-title: Presenting Arts Data Artfully
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

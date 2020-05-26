@@ -271,7 +271,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 379
 showTagline: true
-name: Fishing for Fishermen
+challenge-title: Fishing for Fishermen
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – CA-20 – Rep. Farr
+challenge-title: Congressional App Challenge – CA-20 – Rep. Farr
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

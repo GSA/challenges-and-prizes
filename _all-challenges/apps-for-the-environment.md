@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 18
 showTagline: true
-name: Apps for the Environment
+challenge-title: Apps for the Environment
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

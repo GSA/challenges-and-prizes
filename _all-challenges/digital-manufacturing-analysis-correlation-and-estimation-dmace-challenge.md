@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Digital Manufacturing Analysis, Correlation and Estimation (DMACE) Challenge
+challenge-title: Digital Manufacturing Analysis, Correlation and Estimation (DMACE) Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -273,7 +273,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 226
 showTagline: true
-name: Library of Congress Literacy Awards 2014
+challenge-title: Library of Congress Literacy Awards 2014
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

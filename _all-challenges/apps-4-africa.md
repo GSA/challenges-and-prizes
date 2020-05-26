@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 290
 showTagline: true
-name: Apps 4 Africa
+challenge-title: Apps 4 Africa
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

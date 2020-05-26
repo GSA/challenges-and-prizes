@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: 'Now Trending: #Health in My Community'
+challenge-title: 'Now Trending: #Health in My Community'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

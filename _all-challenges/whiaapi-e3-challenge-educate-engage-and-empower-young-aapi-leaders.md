@@ -444,7 +444,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 285
 showTagline: true
-name: 'WHIAAPI E3! Challenge - Educate, Engage, and Empower Young AAPI Leaders'
+challenge-title: 'WHIAAPI E3! Challenge - Educate, Engage, and Empower Young AAPI Leaders'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

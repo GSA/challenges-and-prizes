@@ -455,7 +455,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: 3D-Printed Habitat Challenge - Design Competition
+challenge-title: 3D-Printed Habitat Challenge - Design Competition
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

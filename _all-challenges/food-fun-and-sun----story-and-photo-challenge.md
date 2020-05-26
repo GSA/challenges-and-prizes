@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 273
 showTagline: true
-name: Food, Fun, and Sun -  Story and Photo Challenge!
+challenge-title: Food, Fun, and Sun -  Story and Photo Challenge!
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

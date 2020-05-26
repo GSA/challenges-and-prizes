@@ -198,7 +198,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: FAST Commissioning for Pumped-Storage Hydropower Prize
+challenge-title: FAST Commissioning for Pumped-Storage Hydropower Prize
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

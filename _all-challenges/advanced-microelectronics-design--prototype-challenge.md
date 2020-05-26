@@ -222,7 +222,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Advanced Microelectronics Design & Prototype Challenge
+challenge-title: Advanced Microelectronics Design & Prototype Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: true

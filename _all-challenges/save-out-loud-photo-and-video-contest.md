@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 283
 showTagline: true
-name: Save Out Loud Photo and Video Contest
+challenge-title: Save Out Loud Photo and Video Contest
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

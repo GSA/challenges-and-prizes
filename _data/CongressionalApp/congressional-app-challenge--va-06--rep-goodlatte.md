@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – VA-06 – Rep. Goodlatte
+challenge-title: Congressional App Challenge – VA-06 – Rep. Goodlatte
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

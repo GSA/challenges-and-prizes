@@ -236,7 +236,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: U.S. Department of Energy National Clean Energy Business Plan Competition
+challenge-title: U.S. Department of Energy National Clean Energy Business Plan Competition
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

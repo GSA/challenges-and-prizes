@@ -428,7 +428,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – TX-33 – Rep. Veasey
+challenge-title: Congressional App Challenge – TX-33 – Rep. Veasey
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

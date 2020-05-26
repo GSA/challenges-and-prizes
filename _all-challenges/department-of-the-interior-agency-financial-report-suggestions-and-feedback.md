@@ -238,7 +238,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 120
 showTagline: true
-name: Department of the Interior Agency Financial Report Suggestions and Feedback
+challenge-title: Department of the Interior Agency Financial Report Suggestions and Feedback
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

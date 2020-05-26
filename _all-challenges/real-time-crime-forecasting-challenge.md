@@ -275,7 +275,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 70
 showTagline: true
-name: Real-Time Crime Forecasting Challenge
+challenge-title: Real-Time Crime Forecasting Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

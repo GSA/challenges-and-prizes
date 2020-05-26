@@ -432,7 +432,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – MP-00 – Rep. Sablan
+challenge-title: Congressional App Challenge – MP-00 – Rep. Sablan
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

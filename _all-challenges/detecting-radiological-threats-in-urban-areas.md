@@ -181,7 +181,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 57
 showTagline: true
-name: Detecting Radiological Threats in Urban Areas
+challenge-title: Detecting Radiological Threats in Urban Areas
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

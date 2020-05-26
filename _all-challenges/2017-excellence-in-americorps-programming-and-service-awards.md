@@ -411,7 +411,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 444
 showTagline: true
-name: 2017 Excellence in AmeriCorps Programming and Service Awards
+challenge-title: 2017 Excellence in AmeriCorps Programming and Service Awards
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

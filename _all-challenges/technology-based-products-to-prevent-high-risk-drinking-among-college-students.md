@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 166
 showTagline: true
-name: Technology-based Products to Prevent High-Risk Drinking among College Students
+challenge-title: Technology-based Products to Prevent High-Risk Drinking among College Students
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

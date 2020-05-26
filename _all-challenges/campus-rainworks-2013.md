@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 18
 showTagline: true
-name: Campus RainWorks 2013
+challenge-title: Campus RainWorks 2013
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

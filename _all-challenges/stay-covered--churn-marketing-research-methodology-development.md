@@ -236,7 +236,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 166
 showTagline: true
-name: '"Stay Covered" & "Churn Marketing Research Methodology Development"'
+challenge-title: '"Stay Covered" & "Churn Marketing Research Methodology Development"'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

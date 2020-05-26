@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 21
 showTagline: true
-name: Mozilla Ignite
+challenge-title: Mozilla Ignite
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 341
 showTagline: true
-name: 'Robocalls- Humanity Strikes Back (Qualifying Phase)'
+challenge-title: 'Robocalls- Humanity Strikes Back (Qualifying Phase)'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

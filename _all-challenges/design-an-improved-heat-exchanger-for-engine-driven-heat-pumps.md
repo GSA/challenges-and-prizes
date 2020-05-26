@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: Design an Improved Heat Exchanger for Engine-Driven Heat Pumps
+challenge-title: Design an Improved Heat Exchanger for Engine-Driven Heat Pumps
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

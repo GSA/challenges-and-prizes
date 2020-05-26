@@ -994,7 +994,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 207
 showTagline: true
-name: PerfLoc Prize Competition
+challenge-title: PerfLoc Prize Competition
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Space Pioneering – Achieving Earth Independence
+challenge-title: Space Pioneering – Achieving Earth Independence
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

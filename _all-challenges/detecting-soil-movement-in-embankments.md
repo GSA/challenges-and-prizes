@@ -252,7 +252,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 109
 showTagline: true
-name: Detecting Soil Movement in Embankments
+challenge-title: Detecting Soil Movement in Embankments
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

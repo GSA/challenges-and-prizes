@@ -236,7 +236,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Medical Consumables Tracking
+challenge-title: Medical Consumables Tracking
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

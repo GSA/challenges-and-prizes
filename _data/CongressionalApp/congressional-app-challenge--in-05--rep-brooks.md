@@ -434,7 +434,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – IN-05 – Rep. Brooks
+challenge-title: Congressional App Challenge – IN-05 – Rep. Brooks
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -665,7 +665,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: H2 Refuel H-Prize Competition
+challenge-title: H2 Refuel H-Prize Competition
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

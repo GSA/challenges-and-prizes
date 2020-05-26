@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Absentee Voting Slogan Contest
+challenge-title: Absentee Voting Slogan Contest
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

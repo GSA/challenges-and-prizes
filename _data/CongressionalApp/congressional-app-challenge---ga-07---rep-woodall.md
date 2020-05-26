@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge - GA-07 - Rep. Woodall
+challenge-title: Congressional App Challenge - GA-07 - Rep. Woodall
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

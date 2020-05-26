@@ -287,7 +287,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: An Algorithm to Identify Material Mixtures from Raman Spectra
+challenge-title: An Algorithm to Identify Material Mixtures from Raman Spectra
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

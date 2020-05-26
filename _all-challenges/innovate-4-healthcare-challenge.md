@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: Innovate 4 Healthcare Challenge
+challenge-title: Innovate 4 Healthcare Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

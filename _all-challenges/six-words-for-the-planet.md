@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 18
 showTagline: true
-name: Six Words For The Planet
+challenge-title: Six Words For The Planet
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

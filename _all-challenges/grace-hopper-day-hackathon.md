@@ -516,7 +516,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 279
 showTagline: true
-name: Grace Hopper Day Hackathon
+challenge-title: Grace Hopper Day Hackathon
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

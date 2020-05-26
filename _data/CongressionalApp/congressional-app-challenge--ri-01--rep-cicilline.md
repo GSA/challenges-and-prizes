@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – RI-01 – Rep. Cicilline
+challenge-title: Congressional App Challenge – RI-01 – Rep. Cicilline
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

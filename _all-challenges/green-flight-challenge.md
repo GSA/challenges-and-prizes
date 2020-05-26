@@ -237,7 +237,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Green Flight Challenge
+challenge-title: Green Flight Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

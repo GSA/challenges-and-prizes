@@ -243,7 +243,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Find a Better Way to Protect Astronauts from Galactic Cosmic Rays
+challenge-title: Find a Better Way to Protect Astronauts from Galactic Cosmic Rays
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

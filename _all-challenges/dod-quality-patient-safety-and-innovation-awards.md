@@ -238,7 +238,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: DoD Quality, Patient Safety, and Innovation Awards
+challenge-title: DoD Quality, Patient Safety, and Innovation Awards
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

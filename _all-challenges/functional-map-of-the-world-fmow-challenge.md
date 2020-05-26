@@ -256,7 +256,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 269
 showTagline: true
-name: functional Map of the World (fMoW) Challenge
+challenge-title: functional Map of the World (fMoW) Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

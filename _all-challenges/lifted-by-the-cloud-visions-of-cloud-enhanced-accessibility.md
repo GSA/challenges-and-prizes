@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 292
 showTagline: true
-name: 'Lifted by the Cloud: Visions of Cloud-Enhanced Accessibility'
+challenge-title: 'Lifted by the Cloud: Visions of Cloud-Enhanced Accessibility'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

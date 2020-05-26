@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 273
 showTagline: true
-name: Ending Childhood Hunger Video Contest
+challenge-title: Ending Childhood Hunger Video Contest
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

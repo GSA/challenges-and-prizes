@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: International Youth Art Competition
+challenge-title: International Youth Art Competition
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

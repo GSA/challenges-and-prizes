@@ -268,7 +268,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 267
 showTagline: true
-name: The Esri Human Health and Climate Change App Challenge
+challenge-title: The Esri Human Health and Climate Change App Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -297,7 +297,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 109
 showTagline: true
-name: New Concepts for Remote Fish Detection
+challenge-title: New Concepts for Remote Fish Detection
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

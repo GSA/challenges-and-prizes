@@ -240,7 +240,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: NASAs Asteroid Tracker Challenge
+challenge-title: NASAs Asteroid Tracker Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

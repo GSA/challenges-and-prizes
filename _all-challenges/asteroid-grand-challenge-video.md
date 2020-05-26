@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Asteroid Grand Challenge Video
+challenge-title: Asteroid Grand Challenge Video
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

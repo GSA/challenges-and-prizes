@@ -679,7 +679,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 290
 showTagline: true
-name: Rethink Supply Chains
+challenge-title: Rethink Supply Chains
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

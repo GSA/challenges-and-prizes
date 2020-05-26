@@ -240,7 +240,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: USSOCOM - Reducing Digital Optics Latency
+challenge-title: USSOCOM - Reducing Digital Optics Latency
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

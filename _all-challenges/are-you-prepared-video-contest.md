@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 164
 showTagline: true
-name: Are You Prepared? Video Contest
+challenge-title: Are You Prepared? Video Contest
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

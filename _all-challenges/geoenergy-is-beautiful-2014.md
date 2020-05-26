@@ -239,7 +239,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: GeoEnergy Is Beautiful 2014
+challenge-title: GeoEnergy Is Beautiful 2014
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

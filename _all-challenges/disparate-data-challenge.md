@@ -484,7 +484,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 272
 showTagline: true
-name: Disparate Data Challenge
+challenge-title: Disparate Data Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

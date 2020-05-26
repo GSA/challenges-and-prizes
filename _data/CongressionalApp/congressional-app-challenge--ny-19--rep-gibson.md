@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – NY-19 – Rep. Gibson
+challenge-title: Congressional App Challenge – NY-19 – Rep. Gibson
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

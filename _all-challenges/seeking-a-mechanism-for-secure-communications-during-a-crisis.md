@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Seeking a Mechanism for Secure Communications During a Crisis
+challenge-title: Seeking a Mechanism for Secure Communications During a Crisis
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

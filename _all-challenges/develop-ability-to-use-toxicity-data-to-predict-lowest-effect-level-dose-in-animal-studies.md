@@ -242,7 +242,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 18
 showTagline: true
-name: Develop Ability to Use Toxicity Data to Predict Lowest Effect Level Dose in
+challenge-title: Develop Ability to Use Toxicity Data to Predict Lowest Effect Level Dose in
   Animal Studies
 privateCampaign: true
 ideaCount: 0

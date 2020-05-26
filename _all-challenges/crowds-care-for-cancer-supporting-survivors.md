@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: 'Crowds Care for Cancer: Supporting Survivors'
+challenge-title: 'Crowds Care for Cancer: Supporting Survivors'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

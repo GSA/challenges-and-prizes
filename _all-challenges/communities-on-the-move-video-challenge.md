@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 273
 showTagline: true
-name: Communities on the Move Video Challenge
+challenge-title: Communities on the Move Video Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

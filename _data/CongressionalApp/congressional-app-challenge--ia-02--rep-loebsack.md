@@ -432,7 +432,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – IA-02 – Rep. Loebsack
+challenge-title: Congressional App Challenge – IA-02 – Rep. Loebsack
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

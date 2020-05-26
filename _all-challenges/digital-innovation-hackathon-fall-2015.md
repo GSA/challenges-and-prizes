@@ -353,7 +353,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 279
 showTagline: true
-name: Digital Innovation Hackathon Fall 2015
+challenge-title: Digital Innovation Hackathon Fall 2015
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

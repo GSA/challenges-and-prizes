@@ -467,7 +467,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 135
 showTagline: true
-name: 'National Bio-Agro Defense Facility- Think and Do Challenge'
+challenge-title: 'National Bio-Agro Defense Facility- Think and Do Challenge'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

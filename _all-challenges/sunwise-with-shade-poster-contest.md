@@ -240,7 +240,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 18
 showTagline: true
-name: SunWise with SHADE Poster Contest
+challenge-title: SunWise with SHADE Poster Contest
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

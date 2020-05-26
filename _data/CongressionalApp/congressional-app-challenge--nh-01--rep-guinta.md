@@ -429,7 +429,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – NH-01 – Rep. Guinta
+challenge-title: Congressional App Challenge – NH-01 – Rep. Guinta
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

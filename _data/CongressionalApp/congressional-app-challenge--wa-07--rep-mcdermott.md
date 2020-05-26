@@ -432,7 +432,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – WA-07 – Rep. McDermott
+challenge-title: Congressional App Challenge – WA-07 – Rep. McDermott
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

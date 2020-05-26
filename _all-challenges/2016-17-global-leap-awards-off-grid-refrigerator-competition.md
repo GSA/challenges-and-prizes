@@ -871,7 +871,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 31
 showTagline: true
-name: 2016-17 Global LEAP Awards Off-Grid Refrigerator Competition
+challenge-title: 2016-17 Global LEAP Awards Off-Grid Refrigerator Competition
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

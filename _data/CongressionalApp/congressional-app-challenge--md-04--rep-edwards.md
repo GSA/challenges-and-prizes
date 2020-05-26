@@ -432,7 +432,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – MD-04 – Rep. Edwards
+challenge-title: Congressional App Challenge – MD-04 – Rep. Edwards
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

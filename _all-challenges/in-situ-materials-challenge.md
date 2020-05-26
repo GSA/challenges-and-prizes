@@ -245,7 +245,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: In-Situ Materials Challenge
+challenge-title: In-Situ Materials Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

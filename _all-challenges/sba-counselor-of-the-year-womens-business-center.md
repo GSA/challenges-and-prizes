@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 280
 showTagline: true
-name: 'SBA Counselor of the Year: Womens Business Center'
+challenge-title: 'SBA Counselor of the Year: Womens Business Center'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

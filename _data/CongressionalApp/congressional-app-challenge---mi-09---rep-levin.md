@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge - MI-09 - Rep. Levin
+challenge-title: Congressional App Challenge - MI-09 - Rep. Levin
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

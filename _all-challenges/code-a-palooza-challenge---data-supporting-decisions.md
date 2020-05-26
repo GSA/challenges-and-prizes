@@ -240,7 +240,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: Code-a-Palooza Challenge - Data Supporting Decisions
+challenge-title: Code-a-Palooza Challenge - Data Supporting Decisions
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

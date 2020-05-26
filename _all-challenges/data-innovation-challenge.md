@@ -238,7 +238,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 286
 showTagline: true
-name: Data Innovation Challenge
+challenge-title: Data Innovation Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

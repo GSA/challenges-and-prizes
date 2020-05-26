@@ -444,7 +444,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 135
 showTagline: true
-name: Opioid Detection Challenge
+challenge-title: Opioid Detection Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

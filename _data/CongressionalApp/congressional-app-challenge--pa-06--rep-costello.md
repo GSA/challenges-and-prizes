@@ -433,7 +433,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – PA-06 – Rep. Costello
+challenge-title: Congressional App Challenge – PA-06 – Rep. Costello
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

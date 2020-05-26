@@ -237,7 +237,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Robonaut Vision Tool Manipulation Challenge
+challenge-title: Robonaut Vision Tool Manipulation Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

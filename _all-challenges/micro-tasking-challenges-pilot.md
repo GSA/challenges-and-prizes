@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Micro-Tasking Challenges Pilot
+challenge-title: Micro-Tasking Challenges Pilot
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -294,7 +294,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Army Signal Classification Challenge
+challenge-title: Army Signal Classification Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

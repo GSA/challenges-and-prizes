@@ -484,7 +484,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 18
 showTagline: true
-name: 2017 Campus RainWorks Challenge
+challenge-title: 2017 Campus RainWorks Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

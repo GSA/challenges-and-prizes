@@ -237,7 +237,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 280
 showTagline: true
-name: 2016 SBA Growth Accelerator Fund Competition
+challenge-title: 2016 SBA Growth Accelerator Fund Competition
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

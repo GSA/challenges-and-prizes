@@ -279,7 +279,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 166
 showTagline: true
-name: Offender Reintegration Toolkit Challenge
+challenge-title: Offender Reintegration Toolkit Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

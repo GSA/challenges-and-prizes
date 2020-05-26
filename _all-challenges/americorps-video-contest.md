@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 444
 showTagline: true
-name: AmeriCorps Video Contest
+challenge-title: AmeriCorps Video Contest
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

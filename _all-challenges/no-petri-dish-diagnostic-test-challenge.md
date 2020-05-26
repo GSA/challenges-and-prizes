@@ -311,7 +311,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 164
 showTagline: true
-name: "“No-Petri-Dish” Diagnostic Test Challenge"
+challenge-title: "“No-Petri-Dish” Diagnostic Test Challenge"
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

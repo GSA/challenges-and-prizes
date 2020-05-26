@@ -242,7 +242,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Human Rated Spacecraft 3D Printing Process Animation
+challenge-title: Human Rated Spacecraft 3D Printing Process Animation
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

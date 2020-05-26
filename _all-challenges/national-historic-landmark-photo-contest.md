@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 114
 showTagline: true
-name: National Historic Landmark Photo Contest
+challenge-title: National Historic Landmark Photo Contest
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

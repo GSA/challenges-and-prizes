@@ -433,7 +433,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 135
 showTagline: true
-name: U.S. Coast Guard Ready for Rescue Challenge
+challenge-title: U.S. Coast Guard Ready for Rescue Challenge
 publicOwnerName: tj
 privateCampaign: true
 ideaCount: 0

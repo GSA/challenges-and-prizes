@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Detecting Impact Craters Challenge
+challenge-title: Detecting Impact Craters Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

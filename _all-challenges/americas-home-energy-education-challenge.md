@@ -236,7 +236,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: Americas Home Energy Education Challenge
+challenge-title: Americas Home Energy Education Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

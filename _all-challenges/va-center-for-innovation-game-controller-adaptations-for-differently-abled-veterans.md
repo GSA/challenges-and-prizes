@@ -245,7 +245,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: VA Center for Innovation Game Controller Adaptations for Differently-Abled Veterans
+challenge-title: VA Center for Innovation Game Controller Adaptations for Differently-Abled Veterans
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

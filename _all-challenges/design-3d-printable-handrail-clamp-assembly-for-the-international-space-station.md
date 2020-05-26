@@ -243,7 +243,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Design 3D Printable Handrail Clamp Assembly for the International Space Station
+challenge-title: Design 3D Printable Handrail Clamp Assembly for the International Space Station
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

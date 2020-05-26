@@ -432,7 +432,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – MI-14 – Rep. Lawrence
+challenge-title: Congressional App Challenge – MI-14 – Rep. Lawrence
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

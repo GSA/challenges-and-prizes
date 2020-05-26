@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 286
 showTagline: true
-name: Intelligent Transportation Systems Video Challenge
+challenge-title: Intelligent Transportation Systems Video Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

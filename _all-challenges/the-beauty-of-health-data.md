@@ -241,7 +241,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: The Beauty of Health Data
+challenge-title: The Beauty of Health Data
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

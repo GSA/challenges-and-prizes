@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 165
 showTagline: true
-name: The Neuro Startup Challenge
+challenge-title: The Neuro Startup Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -424,7 +424,7 @@ userSubscriptionAllowed: true
 bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.com/assets/images/ids-images/SpeakingUpChallengeBanner_948x186NEW.jpg
 groupId: 23
 showTagline: false
-name: 'Speaking Up About Mental Health! This Is My Story '
+challenge-title: 'Speaking Up About Mental Health! This Is My Story '
 privateCampaign: true
 ideaCount: 225
 memberIdeaAttachmentAllowed: true

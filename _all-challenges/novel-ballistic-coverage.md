@@ -243,7 +243,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Novel Ballistic Coverage
+challenge-title: Novel Ballistic Coverage
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

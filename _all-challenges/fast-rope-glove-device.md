@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Fast Rope Glove Device
+challenge-title: Fast Rope Glove Device
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: 'GREAT10 - The GRavitational lEnsing Accuracy Test'
+challenge-title: 'GREAT10 - The GRavitational lEnsing Accuracy Test'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

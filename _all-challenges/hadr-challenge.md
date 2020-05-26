@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: HADR-Challenge
+challenge-title: HADR-Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

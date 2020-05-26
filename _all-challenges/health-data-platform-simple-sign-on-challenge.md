@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: Health Data Platform Simple Sign-On Challenge
+challenge-title: Health Data Platform Simple Sign-On Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

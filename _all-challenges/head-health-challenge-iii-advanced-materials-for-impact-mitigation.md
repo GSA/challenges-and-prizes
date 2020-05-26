@@ -286,7 +286,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 207
 showTagline: true
-name: 'Head Health Challenge III: Advanced Materials for Impact Mitigation'
+challenge-title: 'Head Health Challenge III: Advanced Materials for Impact Mitigation'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -478,7 +478,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 289
 showTagline: true
-name: Carbon Monoxide Poster Contest
+challenge-title: Carbon Monoxide Poster Contest
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

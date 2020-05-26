@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 284
 showTagline: true
-name: DOL informACTION App Challenge
+challenge-title: DOL informACTION App Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -164,7 +164,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: " ATLAS - Offshore Wind Challenge"
+challenge-title: " ATLAS - Offshore Wind Challenge"
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

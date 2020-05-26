@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – CT-02 – Rep. Courtney
+challenge-title: Congressional App Challenge – CT-02 – Rep. Courtney
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

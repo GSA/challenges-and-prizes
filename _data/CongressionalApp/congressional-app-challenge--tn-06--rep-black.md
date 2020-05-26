@@ -430,7 +430,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – TN-06 – Rep. Black
+challenge-title: Congressional App Challenge – TN-06 – Rep. Black
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

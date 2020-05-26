@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – FL-27 – Rep. Ros-Lehtinen
+challenge-title: Congressional App Challenge – FL-27 – Rep. Ros-Lehtinen
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

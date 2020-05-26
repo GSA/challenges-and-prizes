@@ -427,7 +427,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge - MD-02 - Rep. Ruppersberger
+challenge-title: Congressional App Challenge - MD-02 - Rep. Ruppersberger
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -238,7 +238,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Climate Resilience Data Challenge
+challenge-title: Climate Resilience Data Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

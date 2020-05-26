@@ -239,7 +239,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: U.S. Department of Energy Challenge Home Student Design Competition
+challenge-title: U.S. Department of Energy Challenge Home Student Design Competition
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

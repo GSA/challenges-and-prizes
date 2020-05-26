@@ -241,7 +241,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 31
 showTagline: true
-name: 'The Desal Prize - The second "call" of the Securing Water for Food Grand Challenge'
+challenge-title: 'The Desal Prize - The second "call" of the Securing Water for Food Grand Challenge'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

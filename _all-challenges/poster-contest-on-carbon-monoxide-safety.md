@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 289
 showTagline: true
-name: Poster Contest on Carbon Monoxide Safety
+challenge-title: Poster Contest on Carbon Monoxide Safety
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

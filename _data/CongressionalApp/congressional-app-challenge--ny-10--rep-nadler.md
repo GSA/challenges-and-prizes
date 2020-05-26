@@ -429,7 +429,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – NY-10 – Rep. Nadler
+challenge-title: Congressional App Challenge – NY-10 – Rep. Nadler
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

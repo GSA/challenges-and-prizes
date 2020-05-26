@@ -287,7 +287,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 269
 showTagline: true
-name: Automatic Speech Recognition in Reverberant Environments (ASpIRE)
+challenge-title: Automatic Speech Recognition in Reverberant Environments (ASpIRE)
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – IL-13 – Rep. Davis
+challenge-title: Congressional App Challenge – IL-13 – Rep. Davis
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

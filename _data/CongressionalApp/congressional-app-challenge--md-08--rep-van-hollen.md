@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – MD-08 – Rep. Van Hollen
+challenge-title: Congressional App Challenge – MD-08 – Rep. Van Hollen
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 290
 showTagline: true
-name: Innovation in Arms Control Challenge
+challenge-title: Innovation in Arms Control Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: ISS Longeron Challenge
+challenge-title: ISS Longeron Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

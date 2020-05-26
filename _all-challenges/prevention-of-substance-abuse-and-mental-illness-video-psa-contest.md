@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 166
 showTagline: true
-name: Prevention of Substance Abuse and Mental Illness Video PSA Contest
+challenge-title: Prevention of Substance Abuse and Mental Illness Video PSA Contest
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

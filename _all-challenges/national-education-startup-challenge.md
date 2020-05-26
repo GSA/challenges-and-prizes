@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 285
 showTagline: true
-name: National Education Startup Challenge
+challenge-title: National Education Startup Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

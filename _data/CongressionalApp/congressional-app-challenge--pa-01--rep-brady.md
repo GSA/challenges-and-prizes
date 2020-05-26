@@ -426,7 +426,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – PA-01 – Rep. Brady
+challenge-title: Congressional App Challenge – PA-01 – Rep. Brady
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: NASA Tournament Lab Robonaut 2 "Sight" Challenge
+challenge-title: NASA Tournament Lab Robonaut 2 "Sight" Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

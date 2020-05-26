@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 165
 showTagline: true
-name: NIH Lessons About Bioscience (LAB) Challenge
+challenge-title: NIH Lessons About Bioscience (LAB) Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

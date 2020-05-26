@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge - CA-23 - Rep. McCarthy
+challenge-title: Congressional App Challenge - CA-23 - Rep. McCarthy
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

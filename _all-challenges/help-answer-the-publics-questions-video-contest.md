@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 279
 showTagline: true
-name: Help Answer the Public's Questions Video Contest
+challenge-title: Help Answer the Public's Questions Video Contest
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

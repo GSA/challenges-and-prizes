@@ -587,7 +587,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 203
 showTagline: true
-name: NOAA Fisheries Steller Sea Lion Population Count
+challenge-title: NOAA Fisheries Steller Sea Lion Population Count
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

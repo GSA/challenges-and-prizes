@@ -395,7 +395,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: ORNL Buildings Crowdsourcing Campaign
+challenge-title: ORNL Buildings Crowdsourcing Campaign
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

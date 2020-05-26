@@ -429,7 +429,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – NE-03 – Rep. Smith
+challenge-title: Congressional App Challenge – NE-03 – Rep. Smith
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

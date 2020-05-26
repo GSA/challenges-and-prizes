@@ -237,7 +237,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 18
 showTagline: true
-name: 2014 TRI University Challenge
+challenge-title: 2014 TRI University Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: EHR Accessibility Module Challenge
+challenge-title: EHR Accessibility Module Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

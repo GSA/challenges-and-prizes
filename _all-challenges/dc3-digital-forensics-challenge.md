@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: DC3 Digital Forensics Challenge
+challenge-title: DC3 Digital Forensics Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

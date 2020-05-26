@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Service Credit/Redeposit/Deposit System Challenge Series
+challenge-title: Service Credit/Redeposit/Deposit System Challenge Series
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

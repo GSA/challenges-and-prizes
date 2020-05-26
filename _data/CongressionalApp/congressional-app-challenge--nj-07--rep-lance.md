@@ -429,7 +429,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – NJ-07 – Rep. Lance
+challenge-title: Congressional App Challenge – NJ-07 – Rep. Lance
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 166
 showTagline: true
-name: 'Suicide Prevention: Continuity of Care and Follow-up App Challenge'
+challenge-title: 'Suicide Prevention: Continuity of Care and Follow-up App Challenge'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

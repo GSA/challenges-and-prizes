@@ -289,7 +289,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 195
 showTagline: true
-name: USDA E.A.T. School Lunch UX Challenge
+challenge-title: USDA E.A.T. School Lunch UX Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

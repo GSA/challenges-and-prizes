@@ -432,7 +432,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – RI-02 – Rep. Langevin
+challenge-title: Congressional App Challenge – RI-02 – Rep. Langevin
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

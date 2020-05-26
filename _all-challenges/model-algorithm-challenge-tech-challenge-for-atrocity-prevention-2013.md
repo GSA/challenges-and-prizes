@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 31
 showTagline: true
-name: 'MODEL Algorithm Challenge: Tech Challenge for Atrocity Prevention 2013'
+challenge-title: 'MODEL Algorithm Challenge: Tech Challenge for Atrocity Prevention 2013'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

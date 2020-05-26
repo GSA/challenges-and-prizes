@@ -238,7 +238,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 165
 showTagline: true
-name: 'NIGMS - Stories of Basic Science to Medical Advances Challenge'
+challenge-title: 'NIGMS - Stories of Basic Science to Medical Advances Challenge'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

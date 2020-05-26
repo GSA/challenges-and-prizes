@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 135
 showTagline: true
-name: Environmentally Friendly Replacement for Buoy Mooring Systems
+challenge-title: Environmentally Friendly Replacement for Buoy Mooring Systems
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

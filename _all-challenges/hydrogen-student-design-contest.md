@@ -239,7 +239,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: Hydrogen Student Design Contest
+challenge-title: Hydrogen Student Design Contest
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

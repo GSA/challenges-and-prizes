@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 284
 showTagline: true
-name: DOL Fair Labor Data Challenge
+challenge-title: DOL Fair Labor Data Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

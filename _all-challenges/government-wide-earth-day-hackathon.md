@@ -510,7 +510,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 279
 showTagline: true
-name: Government-wide Earth Day Hackathon
+challenge-title: Government-wide Earth Day Hackathon
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

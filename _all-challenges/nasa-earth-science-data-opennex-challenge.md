@@ -242,7 +242,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: NASA Earth Science Data OpenNEX Challenge
+challenge-title: NASA Earth Science Data OpenNEX Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

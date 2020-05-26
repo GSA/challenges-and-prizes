@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 164
 showTagline: true
-name: Seeing My World through a Safer Lens Video Contest
+challenge-title: Seeing My World through a Safer Lens Video Contest
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

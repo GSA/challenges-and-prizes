@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Power Beaming Challenge
+challenge-title: Power Beaming Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

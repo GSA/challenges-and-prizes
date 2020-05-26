@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – NC-02 – Rep. Ellmers
+challenge-title: Congressional App Challenge – NC-02 – Rep. Ellmers
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

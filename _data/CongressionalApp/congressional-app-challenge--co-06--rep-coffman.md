@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – CO-06 – Rep. Coffman
+challenge-title: Congressional App Challenge – CO-06 – Rep. Coffman
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

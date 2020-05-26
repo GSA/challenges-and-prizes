@@ -338,7 +338,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 290
 showTagline: true
-name: Boldline p3 Cohort 1
+challenge-title: Boldline p3 Cohort 1
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

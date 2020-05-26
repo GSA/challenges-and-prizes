@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 279
 showTagline: true
-name: Next Generation Design Competition
+challenge-title: Next Generation Design Competition
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

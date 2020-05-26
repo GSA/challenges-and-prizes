@@ -247,7 +247,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 269
 showTagline: true
-name: IARPA Multi-View Stereo 3D Mapping Challenge
+challenge-title: IARPA Multi-View Stereo 3D Mapping Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -237,7 +237,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: Making Health Data Work in Illinois
+challenge-title: Making Health Data Work in Illinois
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -200,7 +200,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 162
 showTagline: true
-name: Care Coordination for Children with Special Health Care Needs (CSHCN) Challenge
+challenge-title: Care Coordination for Children with Special Health Care Needs (CSHCN) Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: true

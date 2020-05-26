@@ -239,7 +239,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Pre-Event Insider Attack Recognition
+challenge-title: Pre-Event Insider Attack Recognition
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

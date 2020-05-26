@@ -262,7 +262,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: Secure API Server Showdown Challenge
+challenge-title: Secure API Server Showdown Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 290
 showTagline: true
-name: Service Impact Award
+challenge-title: Service Impact Award
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

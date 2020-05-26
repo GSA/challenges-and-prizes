@@ -216,7 +216,7 @@ userSubscriptionAllowed: true
 bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.com/assets/images/ids-images/ohia_1920x250-1.png
 groupId: 120
 showTagline: true
-name: Saving the 'Ōhiʻa
+challenge-title: Saving the 'Ōhiʻa
 publicOwnerName: Eric Beidel
 privateCampaign: true
 ideaCount: 59

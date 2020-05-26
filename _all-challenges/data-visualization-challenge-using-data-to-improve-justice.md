@@ -243,7 +243,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 282
 showTagline: true
-name: 'Data Visualization Challenge: Using Data to Improve Justice'
+challenge-title: 'Data Visualization Challenge: Using Data to Improve Justice'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -581,7 +581,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 165
 showTagline: true
-name: Up For A Challenge (U4C) – Stimulating Innovation in Breast Cancer Genetic Epidemiology
+challenge-title: Up For A Challenge (U4C) – Stimulating Innovation in Breast Cancer Genetic Epidemiology
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

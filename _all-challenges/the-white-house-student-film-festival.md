@@ -240,7 +240,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 290
 showTagline: true
-name: The White House Student Film Festival
+challenge-title: The White House Student Film Festival
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

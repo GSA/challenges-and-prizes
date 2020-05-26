@@ -243,7 +243,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Asteroid Data Hunter Challenge
+challenge-title: Asteroid Data Hunter Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

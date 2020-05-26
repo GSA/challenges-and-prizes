@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Strong Tether Challenge
+challenge-title: Strong Tether Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

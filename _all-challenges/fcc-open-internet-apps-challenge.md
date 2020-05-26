@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 290
 showTagline: true
-name: FCC Open Internet Apps Challenge
+challenge-title: FCC Open Internet Apps Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

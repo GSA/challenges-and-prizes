@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: SunShot Prize
+challenge-title: SunShot Prize
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

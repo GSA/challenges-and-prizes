@@ -444,7 +444,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 267
 showTagline: true
-name: The NIEHS Climate Change and Environmental Exposures Challenge
+challenge-title: The NIEHS Climate Change and Environmental Exposures Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

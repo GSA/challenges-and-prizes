@@ -323,7 +323,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: 'KidneyX: Redesign Dialysis Phase 1'
+challenge-title: 'KidneyX: Redesign Dialysis Phase 1'
 publicOwnerName: tj
 privateCampaign: true
 ideaCount: 9

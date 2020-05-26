@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 165
 showTagline: true
-name: MusiCares and GRAMMY Foundation - Teen Substance Abuse Awareness through Music
+challenge-title: MusiCares and GRAMMY Foundation - Teen Substance Abuse Awareness through Music
   Contest
 privateCampaign: true
 ideaCount: 0

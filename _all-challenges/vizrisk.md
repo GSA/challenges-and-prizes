@@ -323,7 +323,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 164
 showTagline: true
-name: VizRisk
+challenge-title: VizRisk
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

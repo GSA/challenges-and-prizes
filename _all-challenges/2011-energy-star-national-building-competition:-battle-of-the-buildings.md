@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 18
 showTagline: true
-name: '2011 ENERGY STAR National Building Competition: Battle of the Buildings'
+challenge-title: '2011 ENERGY STAR National Building Competition: Battle of the Buildings'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

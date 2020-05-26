@@ -236,7 +236,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 285
 showTagline: true
-name: Together for Tomorrow School Improvement Challenge
+challenge-title: Together for Tomorrow School Improvement Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

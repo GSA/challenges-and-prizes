@@ -430,7 +430,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – FL-04 – Crenshaw
+challenge-title: Congressional App Challenge – FL-04 – Crenshaw
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

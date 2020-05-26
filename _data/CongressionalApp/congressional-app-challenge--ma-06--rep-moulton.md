@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – MA-06 – Rep. Moulton
+challenge-title: Congressional App Challenge – MA-06 – Rep. Moulton
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

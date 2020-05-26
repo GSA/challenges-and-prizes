@@ -236,7 +236,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: 'Healthymagination Challenge - Assembling Tools to Fight Cancer'
+challenge-title: 'Healthymagination Challenge - Assembling Tools to Fight Cancer'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

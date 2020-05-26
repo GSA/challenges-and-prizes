@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 292
 showTagline: true
-name: VA Medical Appointment Scheduling Contest
+challenge-title: VA Medical Appointment Scheduling Contest
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

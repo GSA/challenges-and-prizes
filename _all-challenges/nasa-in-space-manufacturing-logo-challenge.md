@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: NASA In-Space Manufacturing Logo Challenge
+challenge-title: NASA In-Space Manufacturing Logo Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Support Plate Replacement in Humanitarian Air Drops
+challenge-title: Support Plate Replacement in Humanitarian Air Drops
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

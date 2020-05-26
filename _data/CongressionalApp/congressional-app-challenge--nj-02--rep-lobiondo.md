@@ -430,7 +430,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – NJ-02 – Rep. LoBiondo
+challenge-title: Congressional App Challenge – NJ-02 – Rep. LoBiondo
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

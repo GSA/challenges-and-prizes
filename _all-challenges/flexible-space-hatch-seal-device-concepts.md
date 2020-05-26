@@ -249,7 +249,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Flexible Space Hatch Seal Device Concepts
+challenge-title: Flexible Space Hatch Seal Device Concepts
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

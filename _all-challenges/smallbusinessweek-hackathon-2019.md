@@ -486,7 +486,7 @@ userSubscriptionAllowed: true
 bannerImage: ''
 groupId: 280
 showTagline: true
-name: "#SmallBusinessWeek Hackathon 2019"
+challenge-title: "#SmallBusinessWeek Hackathon 2019"
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: true

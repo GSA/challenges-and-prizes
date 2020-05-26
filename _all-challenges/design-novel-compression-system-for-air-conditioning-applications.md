@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: Design Novel Compression System for Air Conditioning Applications
+challenge-title: Design Novel Compression System for Air Conditioning Applications
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -452,7 +452,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: EV Everywhere Logo Challenge
+challenge-title: EV Everywhere Logo Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

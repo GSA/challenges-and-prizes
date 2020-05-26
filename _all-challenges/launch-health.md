@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 31
 showTagline: true
-name: 'LAUNCH: Health'
+challenge-title: 'LAUNCH: Health'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

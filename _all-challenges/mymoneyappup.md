@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 283
 showTagline: true
-name: MyMoneyAppUp
+challenge-title: MyMoneyAppUp
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – MN-08 – Rep. Nolan
+challenge-title: Congressional App Challenge – MN-08 – Rep. Nolan
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

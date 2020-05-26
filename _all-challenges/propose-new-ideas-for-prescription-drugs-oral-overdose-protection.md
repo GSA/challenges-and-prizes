@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 165
 showTagline: true
-name: Propose New Ideas for Prescription Drugs Oral Overdose Protection
+challenge-title: Propose New Ideas for Prescription Drugs Oral Overdose Protection
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

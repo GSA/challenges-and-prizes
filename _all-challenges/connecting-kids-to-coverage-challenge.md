@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 168
 showTagline: true
-name: Connecting Kids To Coverage Challenge
+challenge-title: Connecting Kids To Coverage Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

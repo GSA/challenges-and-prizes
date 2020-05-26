@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: The NDU Press Holiday Scavenger Hunt
+challenge-title: The NDU Press Holiday Scavenger Hunt
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

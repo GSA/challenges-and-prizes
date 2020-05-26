@@ -261,7 +261,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 21
 showTagline: true
-name: Hearables Challenge
+challenge-title: Hearables Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

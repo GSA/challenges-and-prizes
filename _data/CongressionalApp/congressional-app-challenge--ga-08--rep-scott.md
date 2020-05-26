@@ -432,7 +432,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – GA-08 – Rep. Scott
+challenge-title: Congressional App Challenge – GA-08 – Rep. Scott
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

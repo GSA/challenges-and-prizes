@@ -397,7 +397,7 @@ userSubscriptionAllowed: true
 bannerImage: https://ideascalegov.comhttps://challenge.ideascalegov.com/assets/images/ids-images/web-bg-1.png
 groupId: 27
 showTagline: true
-name: Army xTechSearch 3.0
+challenge-title: Army xTechSearch 3.0
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: true

@@ -577,7 +577,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 251
 showTagline: true
-name: TechMousso
+challenge-title: TechMousso
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

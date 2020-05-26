@@ -367,7 +367,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 414
 showTagline: true
-name: "$100,000 for Start a SUD Startup"
+challenge-title: "$100,000 for Start a SUD Startup"
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

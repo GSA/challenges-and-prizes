@@ -268,7 +268,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 109
 showTagline: true
-name: Pathogen Monitoring for Potable Water Reuse - Stage 1
+challenge-title: Pathogen Monitoring for Potable Water Reuse - Stage 1
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

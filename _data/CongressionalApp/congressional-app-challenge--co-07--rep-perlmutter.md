@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – CO-07 – Rep. Perlmutter
+challenge-title: Congressional App Challenge – CO-07 – Rep. Perlmutter
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

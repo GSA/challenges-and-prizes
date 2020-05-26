@@ -427,7 +427,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – CA-06 – Rep. Matsui
+challenge-title: Congressional App Challenge – CA-06 – Rep. Matsui
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

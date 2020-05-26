@@ -432,7 +432,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – MA-01 – Rep. Neal
+challenge-title: Congressional App Challenge – MA-01 – Rep. Neal
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

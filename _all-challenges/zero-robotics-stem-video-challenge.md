@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Zero Robotics STEM Video Challenge
+challenge-title: Zero Robotics STEM Video Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

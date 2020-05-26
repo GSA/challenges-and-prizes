@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – MN-06 – Rep. Emmer
+challenge-title: Congressional App Challenge – MN-06 – Rep. Emmer
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

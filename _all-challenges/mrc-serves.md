@@ -360,7 +360,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: MRC Serves!
+challenge-title: MRC Serves!
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

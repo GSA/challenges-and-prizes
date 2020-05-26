@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Sample Return Robot Challenge - 2012
+challenge-title: Sample Return Robot Challenge - 2012
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

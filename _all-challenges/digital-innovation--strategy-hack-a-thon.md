@@ -398,7 +398,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 279
 showTagline: true
-name: Digital Innovation & Strategy Hack-a-Thon
+challenge-title: Digital Innovation & Strategy Hack-a-Thon
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

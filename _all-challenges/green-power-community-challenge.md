@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 18
 showTagline: true
-name: Green Power Community Challenge
+challenge-title: Green Power Community Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

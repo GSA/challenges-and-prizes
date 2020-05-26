@@ -401,7 +401,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: 'PROOF: The ChemBio Suit Design Challenge'
+challenge-title: 'PROOF: The ChemBio Suit Design Challenge'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

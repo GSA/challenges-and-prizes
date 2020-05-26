@@ -428,7 +428,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – NV-03 – Rep. Heck
+challenge-title: Congressional App Challenge – NV-03 – Rep. Heck
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

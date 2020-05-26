@@ -237,7 +237,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: DTN Dashboard Challenge
+challenge-title: DTN Dashboard Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

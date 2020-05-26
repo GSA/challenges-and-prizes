@@ -241,7 +241,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 59
 showTagline: true
-name: Progressive Automotive X Prize
+challenge-title: Progressive Automotive X Prize
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

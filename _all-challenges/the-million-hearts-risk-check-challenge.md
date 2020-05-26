@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: The Million Hearts Risk Check Challenge
+challenge-title: The Million Hearts Risk Check Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

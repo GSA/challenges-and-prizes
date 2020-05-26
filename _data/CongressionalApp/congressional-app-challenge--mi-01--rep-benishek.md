@@ -432,7 +432,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – MI-01 – Rep. Benishek
+challenge-title: Congressional App Challenge – MI-01 – Rep. Benishek
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 204
 showTagline: true
-name: USPTO Patents For Humanity
+challenge-title: USPTO Patents For Humanity
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

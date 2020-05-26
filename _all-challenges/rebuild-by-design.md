@@ -238,7 +238,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 291
 showTagline: true
-name: Rebuild by Design
+challenge-title: Rebuild by Design
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

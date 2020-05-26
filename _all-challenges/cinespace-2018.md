@@ -240,7 +240,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: CineSpace 2018
+challenge-title: CineSpace 2018
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

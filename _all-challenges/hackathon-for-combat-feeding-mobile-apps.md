@@ -233,7 +233,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Hackathon for Combat Feeding Mobile Apps
+challenge-title: Hackathon for Combat Feeding Mobile Apps
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -438,7 +438,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 280
 showTagline: true
-name: America's Seed Fund Logo Design Competition for the SBIR/STTR Programs
+challenge-title: America's Seed Fund Logo Design Competition for the SBIR/STTR Programs
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

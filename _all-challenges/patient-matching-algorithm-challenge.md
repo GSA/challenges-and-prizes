@@ -269,7 +269,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 23
 showTagline: true
-name: Patient Matching Algorithm Challenge
+challenge-title: Patient Matching Algorithm Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

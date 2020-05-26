@@ -232,7 +232,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: MTConnect Challenge 2
+challenge-title: MTConnect Challenge 2
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

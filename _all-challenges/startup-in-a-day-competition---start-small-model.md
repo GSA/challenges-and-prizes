@@ -378,7 +378,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 280
 showTagline: true
-name: Startup in a Day Competition - Start Small Model
+challenge-title: Startup in a Day Competition - Start Small Model
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

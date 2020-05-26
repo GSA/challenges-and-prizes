@@ -342,7 +342,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 31
 showTagline: true
-name: Data-Driven Farming Prize
+challenge-title: Data-Driven Farming Prize
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – NY-11 – Rep. Donovan
+challenge-title: Congressional App Challenge – NY-11 – Rep. Donovan
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

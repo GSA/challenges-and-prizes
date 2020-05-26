@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 279
 showTagline: true
-name: Kids.gov How Do I Become President? Challenge
+challenge-title: Kids.gov How Do I Become President? Challenge
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

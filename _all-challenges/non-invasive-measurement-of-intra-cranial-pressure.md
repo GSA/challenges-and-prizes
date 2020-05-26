@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Non-invasive Measurement of Intra-cranial Pressure
+challenge-title: Non-invasive Measurement of Intra-cranial Pressure
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

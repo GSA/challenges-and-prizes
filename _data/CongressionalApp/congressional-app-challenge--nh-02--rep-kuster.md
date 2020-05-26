@@ -434,7 +434,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 219
 showTagline: true
-name: Congressional App Challenge – NH-02 – Rep. Kuster
+challenge-title: Congressional App Challenge – NH-02 – Rep. Kuster
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

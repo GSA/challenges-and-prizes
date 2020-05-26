@@ -235,7 +235,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 27
 showTagline: true
-name: Absentee Voting Poster Contest
+challenge-title: Absentee Voting Poster Contest
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

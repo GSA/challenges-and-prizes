@@ -234,7 +234,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 165
 showTagline: true
-name: 'Data Rx: Prescription Drug Abuse Infographic Challenge'
+challenge-title: 'Data Rx: Prescription Drug Abuse Infographic Challenge'
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

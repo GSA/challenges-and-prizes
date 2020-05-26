@@ -431,7 +431,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 404
 showTagline: true
-name: Congressional App Challenge – LA-06 – Rep. Graves
+challenge-title: Congressional App Challenge – LA-06 – Rep. Graves
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false

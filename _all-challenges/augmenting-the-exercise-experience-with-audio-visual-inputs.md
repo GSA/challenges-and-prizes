@@ -237,7 +237,7 @@ userSubscriptionAllowed: false
 bannerImage: ''
 groupId: 281
 showTagline: true
-name: Augmenting the Exercise Experience with Audio-Visual Inputs
+challenge-title: Augmenting the Exercise Experience with Audio-Visual Inputs
 privateCampaign: true
 ideaCount: 0
 memberIdeaAttachmentAllowed: false
