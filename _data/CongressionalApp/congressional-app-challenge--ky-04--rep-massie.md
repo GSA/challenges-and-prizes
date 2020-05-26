@@ -57,7 +57,7 @@ ideaSubmitFormInstruction: '<div class="challenge-enter-item">    <strong>Summar
 startDate: '2018-11-26T07:02:49'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 796
 moderatorAdminOnlyIdeasEnabled: false

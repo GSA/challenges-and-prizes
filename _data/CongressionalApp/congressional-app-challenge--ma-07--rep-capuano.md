@@ -57,7 +57,7 @@ ideaSubmitFormInstruction: '<div class="challenge-enter-item">  <div class="chal
 startDate: '2018-11-26T07:02:57'
 votingAllowed: false
 newCampaign: false
-archivedCampaign: false
+status: closed
 commentCount: 0
 challenge-id: 798
 moderatorAdminOnlyIdeasEnabled: false
