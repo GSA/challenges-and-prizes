@@ -39,10 +39,10 @@ description: >-
   This challenge is a single-phase competition with two categories: success stories and proposals. **Success stories** will highlight community achievements and **new program proposals** will demonstrate innovative planning for community action to improve postpartum mental health. Applicants may only submit a proposal in one category. 
 
 
-  Submissions are due in September. Participants need only to submit a 5- or 10-page description of an innovative idea that meets the [submission requirements](https://www.ahrq.gov/rural-post-partum-challenge/how-to-enter.html) and review criteria ([success story](https://www.ahrq.gov/rural-post-partum-challenge/category1.html) or [program proposal](https://www.ahrq.gov/rural-post-partum-challenge/category2.html)).
+  Submissions are due in September. Participants need only to submit a 5- or 10-page description of an innovative idea that meets the [submission requirements](https://www.ahrq.gov/rural-post-partum-challenge/how-to-enter.html){:target="_blank"} and review criteria ([success story](https://www.ahrq.gov/rural-post-partum-challenge/category1.html){:target="_blank"} or [program proposal](https://www.ahrq.gov/rural-post-partum-challenge/category2.html){:target="_blank"}).
 
 
-  For more information, visit the [challenge website](https://www.ahrq.gov/rural-post-partum-challenge/index.html).
+  For more information, visit the [challenge website](https://www.ahrq.gov/rural-post-partum-challenge/index.html){:target="_blank"}.
 
 
   #### Key Dates:
@@ -61,17 +61,17 @@ prizes: |-
   * Success Story Category: Five winners will receive $15,000 each. 
   * Program Proposal Category: Two winners will receive $50,000 each.
 rules: The rules can be found on the [challenge
-  portal](https://www.ahrq.gov/rural-post-partum-challenge/rules.html).
+  portal](https://www.ahrq.gov/rural-post-partum-challenge/rules.html){:target="_blank"}.
 judging: >-
   The Success Story Category will be based on this [judging
-  criteria](https://www.ahrq.gov/rural-post-partum-challenge/category1.html).  
+  criteria](https://www.ahrq.gov/rural-post-partum-challenge/category1.html){:target="_blank"}.  
 
 
-  The Program Proposal Category will be based on this [judging criteria](https://www.ahrq.gov/rural-post-partum-challenge/category2.html).
+  The Program Proposal Category will be based on this [judging criteria](https://www.ahrq.gov/rural-post-partum-challenge/category2.html){:target="_blank"}.
 how-to-enter: The submission criteria is detailed
   [here](https://www.ahrq.gov/rural-post-partum-challenge/how-to-enter.html).
   Competitors can enter the Challenge through the Bestincrowd portal
-  [here](https://bestincrowd.com/home/challenge-details/ahrq-cross-sectional-innovation-to-improve-rural-postpartum-mental-health-challenge).
+  [here](https://bestincrowd.com/home/challenge-details/ahrq-cross-sectional-innovation-to-improve-rural-postpartum-mental-health-challenge){:target="_blank"}.
 ---
 ### Description
 
@@ -81,9 +81,9 @@ The purposes of this challenge are to (1) amplify innovative programs that rural
 
 This challenge is a single-phase competition with two categories: success stories and proposals. **Success stories** will highlight community achievements and **new program proposals** will demonstrate innovative planning for community action to improve postpartum mental health. Applicants may only submit a proposal in one category 
 
-Submissions are due in September and you need only a 5 or 10 page description of your innovative idea that meets the [submission requirements](https://www.ahrq.gov/rural-post-partum-challenge/how-to-enter.html) and review criteria ([success story](https://www.ahrq.gov/rural-post-partum-challenge/category1.html) or [program proposal](https://www.ahrq.gov/rural-post-partum-challenge/category2.html)).
+Submissions are due in September and you need only a 5 or 10 page description of your innovative idea that meets the [submission requirements](https://www.ahrq.gov/rural-post-partum-challenge/how-to-enter.html){:target="_blank"} and review criteria ([success story](https://www.ahrq.gov/rural-post-partum-challenge/category1.html){:target="_blank"} or [program proposal](https://www.ahrq.gov/rural-post-partum-challenge/category2.html){:target="_blank"}).
 
-For more information, visit the [challenge website](https://www.ahrq.gov/rural-post-partum-challenge/index.html).
+For more information, visit the [challenge website](https://www.ahrq.gov/rural-post-partum-challenge/index.html){:target="_blank"}.
 
 #### Key Dates:
 
@@ -100,14 +100,14 @@ For more information, visit the [challenge website](https://www.ahrq.gov/rural-p
 
 ### Rules
 
-The rules can be found on the [challenge portal](https://www.ahrq.gov/rural-post-partum-challenge/rules.html).
+The rules can be found on the [challenge portal](https://www.ahrq.gov/rural-post-partum-challenge/rules.html){:target="_blank"}.
 
 ### Judging
 
-The Success Story Category will be based on this [judging criteria](https://www.ahrq.gov/rural-post-partum-challenge/category1.html).  
+The Success Story Category will be based on this [judging criteria](https://www.ahrq.gov/rural-post-partum-challenge/category1.html){:target="_blank"}.  
 
-The Program Proposal Category will be based on this [judging criteria](https://www.ahrq.gov/rural-post-partum-challenge/category2.html).
+The Program Proposal Category will be based on this [judging criteria](https://www.ahrq.gov/rural-post-partum-challenge/category2.html){:target="_blank"}.
 
 ### How to Enter
 
-The submission criteria is detailed [here](https://www.ahrq.gov/rural-post-partum-challenge/how-to-enter.html). Competitors can enter the Challenge through the Bestincrowd portal [here](https://bestincrowd.com/home/challenge-details/ahrq-cross-sectional-innovation-to-improve-rural-postpartum-mental-health-challenge).
+The submission criteria is detailed [here](https://www.ahrq.gov/rural-post-partum-challenge/how-to-enter.html){:target="_blank"}. Competitors can enter the Challenge through the Bestincrowd portal [here](https://bestincrowd.com/home/challenge-details/ahrq-cross-sectional-innovation-to-improve-rural-postpartum-mental-health-challenge){:target="_blank"}.
