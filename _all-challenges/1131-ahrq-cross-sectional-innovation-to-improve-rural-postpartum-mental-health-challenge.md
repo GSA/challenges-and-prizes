@@ -58,30 +58,22 @@ description: >-
 
   * Judging and Review Period: Fall 2020
 prizes: |-
-  ### Prizes
-
   * Success Story Category: Five winners will receive $15,000 each. 
   * Program Proposal Category: Two winners will receive $50,000 each.
-rules: >-
-  ### Rules
-
-
-  The rules can be found on the [challenge portal](https://www.ahrq.gov/rural-post-partum-challenge/rules.html).
+rules: The rules can be found on the [challenge
+  portal](https://www.ahrq.gov/rural-post-partum-challenge/rules.html).
 judging: >-
-  ### Judging
-
-
-  The Success Story Category will be based on this [judging criteria](https://www.ahrq.gov/rural-post-partum-challenge/category1.html).  
+  The Success Story Category will be based on this [judging
+  criteria](https://www.ahrq.gov/rural-post-partum-challenge/category1.html).  
 
 
   The Program Proposal Category will be based on this [judging criteria](https://www.ahrq.gov/rural-post-partum-challenge/category2.html).
-how-to-enter: >-
-  ### How to Enter
-
-
-  The submission criteria is detailed [here](https://www.ahrq.gov/rural-post-partum-challenge/how-to-enter.html). Competitors can enter the Challenge through the Bestincrowd portal [here](https://bestincrowd.com/home/challenge-details/ahrq-cross-sectional-innovation-to-improve-rural-postpartum-mental-health-challenge).
+how-to-enter: The submission criteria is detailed
+  [here](https://www.ahrq.gov/rural-post-partum-challenge/how-to-enter.html).
+  Competitors can enter the Challenge through the Bestincrowd portal
+  [here](https://bestincrowd.com/home/challenge-details/ahrq-cross-sectional-innovation-to-improve-rural-postpartum-mental-health-challenge).
 ---
-### Description 
+### Description
 
 One in seven mothers experiences a postpartum mental health condition. Rural women and families face barriers to accessing adequate care for postpartum mental health problems. Such barriers may include limited availability of mental health care providers, and difficulties arranging for child care, transportation, and payment.
 
@@ -93,10 +85,29 @@ Submissions are due in September and you need only a 5 or 10 page description of
 
 For more information, visit the [challenge website](https://www.ahrq.gov/rural-post-partum-challenge/index.html).
 
-#### Key Dates: 
+#### Key Dates:
 
 * Submission Open: May 19, 2020
 * Orientation Webinar: June 3, 2020 at 2 p.m. ET
 * Follow-up Webinars: June 30, 2020 at 2 p.m. ET; August 5, 2020 at 2 p.m. ET
 * Phase 1 Submission Close: September 15, 2020 at 5 p.m. ET
 * Judging and Review Period: Fall 2020
+
+### Prizes
+
+* Success Story Category: Five winners will receive $15,000 each. 
+* Program Proposal Category: Two winners will receive $50,000 each.
+
+### Rules
+
+The rules can be found on the [challenge portal](https://www.ahrq.gov/rural-post-partum-challenge/rules.html).
+
+### Judging
+
+The Success Story Category will be based on this [judging criteria](https://www.ahrq.gov/rural-post-partum-challenge/category1.html).  
+
+The Program Proposal Category will be based on this [judging criteria](https://www.ahrq.gov/rural-post-partum-challenge/category2.html).
+
+### How to Enter
+
+The submission criteria is detailed [here](https://www.ahrq.gov/rural-post-partum-challenge/how-to-enter.html). Competitors can enter the Challenge through the Bestincrowd portal [here](https://bestincrowd.com/home/challenge-details/ahrq-cross-sectional-innovation-to-improve-rural-postpartum-mental-health-challenge).
