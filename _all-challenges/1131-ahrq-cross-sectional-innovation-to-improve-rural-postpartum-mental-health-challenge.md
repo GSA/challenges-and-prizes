@@ -64,7 +64,7 @@ rules: The rules can be found on the [challenge
   portal](https://www.ahrq.gov/rural-post-partum-challenge/rules.html){:target="_blank"}.
 judging: >-
   The Success Story Category will be based on this [judging
-  criteria](https://www.ahrq.gov/rural-post-partum-challenge/category1.html){:target="_blank"}.  
+  criteria](https://www.ahrq.gov/rural-post-partum-challenge/category1.html{:target="_blank"}.  
 
 
   The Program Proposal Category will be based on this [judging criteria](https://www.ahrq.gov/rural-post-partum-challenge/category2.html){:target="_blank"}.
