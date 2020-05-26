@@ -8,7 +8,7 @@ permalink: /challenge/AHRQ-cross-sectional-innovation-rural-postpartum-mental-he
 challenge-id: "1131"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/ahrq-logo.png
+card-image: /assets/netlify-uploads/ahrq_hhs-brand_color-340x160-.jpg
 agency-logo: /assets/netlify-uploads/ahrq-logo.png
 tagline: "Do you have a success story or program proposal that can help rural
   communities improve care for postpartum mental health issues? "
@@ -22,8 +22,8 @@ submission-start: 2020/05/19 9:00 AM
 submission-end: 2020/09/15 5:00 PM
 fiscal-year: FY20
 legal-authority: America COMPETES Act
-challenge-manager: Amy Rabin
-challenge-manager-email: arabin@capconcorp.com
+challenge-manager: Priscilla Novak
+challenge-manager-email: priscilla.novak@ahrq.hhs.gov
 point-of-contact: ahrqchallenge@ahrq.hhs.gov
 description: >-
   One in seven mothers experiences a postpartum mental health condition. Rural
