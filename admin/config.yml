@@ -14,6 +14,7 @@ collections:
     label_singular: 'Challenge'
     folder: '_all-challenges'
     filter: {field: "status", value: "open"}
+    identifier_field: 'challenge-title'
     slug: '{{challenge-id}}-{{challenge-title}}'
     create: true
     editor:
