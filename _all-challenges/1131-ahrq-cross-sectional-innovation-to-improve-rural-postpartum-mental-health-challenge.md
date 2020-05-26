@@ -18,7 +18,7 @@ external-url: https://www.ahrq.gov/rural-post-partum-challenge/index.html
 total-prize-offered-cash: $175,000
 type-of-challenge:
   - Ideas
-submission-start: 2020/05/19
+submission-start: 2020/05/19 9:00 AM
 submission-end: 2020/09/15 5:00 PM
 fiscal-year: FY20
 legal-authority: America COMPETES Act
@@ -33,19 +33,19 @@ description: >-
   transportation, and payment.
 
 
-  The purposes of this challenge are to (1) amplify innovative programs that rural communities already are implementing to address challenges to postpartum mental health diagnosis and treatment and (2) elicit new solutions. AHRQ plans to share the winning solutions with rural communities, healthcare systems, healthcare professionals, local and state policy makers, federal partners, and the public. 
+  The purposes of this challenge are to (1) amplify innovative programs that rural communities already are implementing to address challenges to postpartum mental health diagnosis and treatment and (2) elicit new solutions. The Agency for Healthcare Research and Quality (AHRQ) plans to share the winning solutions with rural communities, healthcare systems, healthcare professionals, local and state policy makers, federal partners, and the public. 
 
 
-  This challenge is a single-phase competition with two categories: success stories and proposals. **Success stories** will highlight community achievements and **new program proposals** will demonstrate innovative planning for community action to improve postpartum mental health. Applicants may only submit a proposal in one category 
+  This challenge is a single-phase competition with two categories: success stories and proposals. **Success stories** will highlight community achievements and **new program proposals** will demonstrate innovative planning for community action to improve postpartum mental health. Applicants may only submit a proposal in one category. 
 
 
-  Submissions are due in September and you need only a 5 or 10 page description of your innovative idea that meets the [submission requirements](https://www.ahrq.gov/rural-post-partum-challenge/how-to-enter.html) and review criteria ([success story](https://www.ahrq.gov/rural-post-partum-challenge/category1.html) or [program proposal](https://www.ahrq.gov/rural-post-partum-challenge/category2.html)).
+  Submissions are due in September. Participants need only to submit a 5- or 10-page description of an innovative idea that meets the [submission requirements](https://www.ahrq.gov/rural-post-partum-challenge/how-to-enter.html) and review criteria ([success story](https://www.ahrq.gov/rural-post-partum-challenge/category1.html) or [program proposal](https://www.ahrq.gov/rural-post-partum-challenge/category2.html)).
 
 
   For more information, visit the [challenge website](https://www.ahrq.gov/rural-post-partum-challenge/index.html).
 
 
-  #### Key Dates: 
+  #### Key Dates:
 
 
   * Submission Open: May 19, 2020
