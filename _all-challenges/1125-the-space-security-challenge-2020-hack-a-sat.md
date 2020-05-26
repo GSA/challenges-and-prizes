@@ -4,7 +4,7 @@ challenge-title: "Space Security Challenge 2020: Hack-A-Sat"
 layout: front-matter-data-markdownify-content
 permalink: /challenge/hack-a-sat/
 challenge-id: "1125"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/has_logo_usgovchallenge.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
@@ -14,8 +14,8 @@ partner-agencies-federal: Defense Digital Service
 external-url: http://www.hackasat.com/
 type-of-challenge:
   - Scientific
-submission-start: 2020/04/22 08:00 PM
-submission-end: 2020/05/24 08:00 PM
+submission-start: 04/22/2020 08:00 PM
+submission-end: 05/24/2020 08:00 PM
 fiscal-year: FY20
 legal-authority: Agency specific prize authority
 challenge-manager: Amanda Ozanam
