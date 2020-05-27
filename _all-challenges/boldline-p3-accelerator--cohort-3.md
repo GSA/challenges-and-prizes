@@ -6,7 +6,7 @@ votingAllowed: false
 newCampaign: false
 archivedCampaign: true
 commentCount: 0
-id: 23
+challenge-id: 23
 moderatorAdminOnlyIdeasEnabled: true
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: false

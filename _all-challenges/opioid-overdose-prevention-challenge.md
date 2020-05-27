@@ -23,7 +23,7 @@ votingAllowed: false
 newCampaign: false
 status: closed
 commentCount: 0
-id: 503
+challenge-id: 503
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
