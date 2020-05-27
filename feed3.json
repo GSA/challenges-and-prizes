@@ -10,7 +10,7 @@ permalink: /feed-closed.json
     "expired": false,
     "_challenge": [
 {% for item in site.all-challenges %}
-{% if item.layout == "front-matter-data" %}
+{% if item.layout != "json-page" and item.status == "closed" %}
 {
     "challenge-id": "{{ item.challenge-id}}",
     "challenge-title": "{{ item.challenge-title }}",
