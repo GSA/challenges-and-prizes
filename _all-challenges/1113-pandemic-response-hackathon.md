@@ -20,7 +20,8 @@ submission-link: https://datavant.com/pandemic-response-hackathon/
 prize: true
 fiscal-year: FY20
 legal-authority: Public-private partnership
-challenge-manager: Stephen Konya, stephen.konya@hhs.gov
-challenge-manager-email: hackathon@datavant.com
+challenge-manager: Stephen Konya
+challenge-manager-email: stephen.konya@hhs.gov
+point-of-contact: hackathon@datavant.com
 ---
 
