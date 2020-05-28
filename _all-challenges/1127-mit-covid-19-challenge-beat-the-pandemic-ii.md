@@ -4,7 +4,7 @@ challenge-title: MIT COVID-19 Challenge Beat the Pandemic II
 layout: front-matter-data-markdownify-content
 permalink: /challenge/mit-covid-19-beat-the-pandemic-2/
 challenge-id: "1127"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/beat-the-pandemic-2.png
 agency-logo: /assets/netlify-uploads/valogo.png
@@ -25,8 +25,8 @@ type-of-challenge:
   - Technology demonstration and hardware
   - Analytics, visualizations, algorithms
   - Scientific
-submission-start: 2020/05/14 10:00 AM
-submission-end: 2020/05/26 11:59 PM
+submission-start: 05/14/2020 10:00 AM
+submission-end: 05/26/2020 11:59 PM
 fiscal-year: FY20
 legal-authority: Grants and cooperative agreements
 challenge-manager: Freddy Nguyen
