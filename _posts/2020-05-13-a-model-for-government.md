@@ -1,5 +1,5 @@
 ---
-date: May 13, 2020
+date: May 28, 2020
 title: Tracking a Virus
 tagline: Federal agencies advance infectious disease modeling and forecasting with competitions
 excerpt: This is an excerpt
