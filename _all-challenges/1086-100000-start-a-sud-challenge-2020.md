@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/2020-1000000-start-a-sud-startup-challenge/
 challenge-id: 1086
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/NIH.png
 agency-logo: NIH_Master_Logo_Vertical_2Color.jpg
@@ -14,8 +14,8 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $100,000
 type-of-challenge: Ideas
-submission-start: 2020/01/21 9 a.m.
-submission-end: 2020/05/26 5 p.m.
+submission-start: 01/21/2020 9 a.m.
+submission-end: 05/26/2020 5 p.m.
 submission-link:
 prize: true
 fiscal-year: FY20
