@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 status: closed
 commentCount: 0
-id: 346
+challenge-id: 346
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true

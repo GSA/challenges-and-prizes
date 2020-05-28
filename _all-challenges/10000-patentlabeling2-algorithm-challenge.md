@@ -5,7 +5,7 @@ votingAllowed: false
 newCampaign: false
 status: closed
 commentCount: 0
-id: 260
+challenge-id: 260
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
@@ -220,7 +220,7 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: 2nd in a series of phased competitions to develop new algorithms that
+description: 2nd in a seri es of phased competitions to develop new algorithms that
   can automatically identify and locate specific elements within millions of patent
   documents.
 campaignStatusName: Launched
