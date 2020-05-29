@@ -4,23 +4,23 @@ layout: default
   
 <div class="grid-container">
     <div class="grid-row grid-gap">
-<!--Start Sidenav-->   
-      {% include sidenav-front-matter-data.html %}
-<!--End Sidenav-->
+    <!--Start Sidenav-->   
+    {% include sidenav-front-matter-data.html %}
+    <!--End Sidenav-->
         <div class="desktop:grid-col-9 usa-prose usa-section challenge-main">
             {% if page.status == "closed" %}
             {% include alert-banner-closed-challenge.html %}
             {% endif %}  
             <h1 class="text-primary-dark">{{ page.challenge-title }}</h1>
             {% if page.tagline != "" %}
-            <p class="challenge-tagline">{{ page.tagline }}</p>
+            <h3 class="challenge-tagline">{{ page.tagline }}</h3>
             {% endif %}  
             <h4 class="text-base-dark  desktop-only-display">{{ page.agency }}</h4> 
             <!-- Start Accordion -->
             <div class="usa-accordion">
-                <h2 class="usa-accordion__heading">
+                <h4 class="usa-accordion__heading">
                   <button class="usa-accordion__button usa-accordion__button--primary-darkest text-uppercase text-ls-1" aria-expanded="true" aria-controls="a1">Challenge Details</button>
-                </h2>
+                </h4>
                 <div id="a1" class="usa-accordion__content bg-gray-5">
                     <div class="text-base-darker">
                             {% if page.total-prize-offered-cash %}
@@ -51,7 +51,6 @@ layout: default
                 </div>
             </div>
             <!-- End Accordion -->
-
             <div class="text-base-darker challenge-body-content challenge-section">
                     {% if page.external-url and page.external-url != '' %}
                     <h3>This challenge is externally hosted.</h3> <p>You can view the challenge details here: <a href="{{page.external-url}}" target="_blank" rel="noopener">{{page.external-url}}</a></p>
@@ -70,12 +69,12 @@ layout: default
                     <a class="usa-link--external" href="mailto:team@challenge.gov">  Send the challenge manager an email</a></p>
                     {% endif %}
                 </div>
+                <!-- Contact end -->
                 {% endif %}
                 {% endif %}
-            </div>
-      
         </div>
-        </div>
+    </div>
+</div>
  
 
    
