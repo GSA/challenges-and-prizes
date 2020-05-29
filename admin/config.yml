@@ -137,6 +137,7 @@ collections:
     label: 'Blog Posts'
     label_singular: 'Blog Post'
     folder: '_posts'
+    slug: '{{date}}-{{title}}'
     extension: md
     create: true
     editor:
