@@ -34,7 +34,7 @@ pagination:
           class="float-left maxw-mobile padding-right-3 padding-top-1" 
           alt="{{ post.image_alt_text }}">
           {% endif %} 
-          {{ post.content | truncatewords: 55 }} 
+          {{ post.excerpt }} 
           {% comment %} We default to using post.content, but
           you can also use post.excerpt. If you use excerpt then you have to
           make sure the content is on each post header {% endcomment %}
