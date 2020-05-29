@@ -6,7 +6,7 @@ permalink: /challenge/2021-solar-decathlon-design-challenge/
 challenge-id: "1132"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/solar-decathlon-341x160-new.png
+card-image: /assets/netlify-uploads/solar-decatlon-2021-final.jpg
 agency-logo: /assets/netlify-uploads/256px-Seal_of_the_United_States_Department_of_Energy.png
 tagline: Want to design buildings that help address the most pressing needs of
   our time? Love the thrill of competing with top students across the country
@@ -22,9 +22,9 @@ submission-start: 2020/06/15 12:00 AM
 submission-end: 2021/04/15 5:00 PM
 fiscal-year: FY20, FY21
 legal-authority: Agency specific prize authority
-challenge-manager: Taylor.Ryan@nrel.gov
-challenge-manager-email: Taylor.Ryan@nrel.gov
-point-of-contact: Taylor.Ryan@nrel.gov
+challenge-manager: Rachel Romero
+challenge-manager-email: Rachel.Romero@nrel.gov
+point-of-contact: SDdesign@nrel.gov
 description: >-
   The U.S. Department of Energy Solar Decathlon is a collegiate competition that
   challenges student teams to design and build highly efficient and innovative
