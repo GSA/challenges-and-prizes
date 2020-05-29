@@ -6,7 +6,7 @@ permalink: /challenge/2021-solar-decathlon-design-challenge/
 challenge-id: "1132"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/solar-decathlon-340x160.png
+card-image: /assets/netlify-uploads/solar-decathlon-341x160.png
 agency-logo: /assets/netlify-uploads/256px-Seal_of_the_United_States_Department_of_Energy.png
 tagline: Want to design buildings that help address the most pressing needs of
   our time? Love the thrill of competing with top students across the country
