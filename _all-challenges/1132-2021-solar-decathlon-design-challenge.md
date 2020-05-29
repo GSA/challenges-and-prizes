@@ -12,7 +12,7 @@ tagline: Want to design buildings that help address the most pressing needs of
   our time? Love the thrill of competing with top students across the country
   and around the world? If so, the U.S Department of Energy Solar Decathlon ® is
   for you!
-agency: Department of Energy
+agency: Department of Energy - Energy Programs
 partner-agencies-federal: National Renewable Energy Laboratory
 partners-non-federal: ""
 external-url: https://www.solardecathlon.gov/event/challenges-design.html
