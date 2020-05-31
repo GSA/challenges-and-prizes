@@ -14,8 +14,8 @@ partners-non-federal:
 external-url: https://www.nei.nih.gov/about/goals-and-accomplishments/nei-research-initiatives/3-d-retina-organoid-challenge-3-d-roc/2017-ideation-challenge
 total-prize-offered-cash: $100,000
 type-of-challenge: Ideas
-submission-start: 08/01/2017 12:00 PM
-submission-end: 06/01/2017 12:00 PM
+submission-start: 06/01/2017 12:00 PM
+submission-end: 08/01/2017 12:00 PM
 submission-link:
 prize: true
 fiscal-year: FY17
