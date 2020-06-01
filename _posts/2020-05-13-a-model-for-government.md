@@ -1,5 +1,5 @@
 ---
-date: May 28, 2020
+date: June 02, 2020
 title: Tracking a Virus
 tagline: Federal agencies advance infectious disease modeling and forecasting with competitions
 excerpt: A prize competition advanced how the Centers for Disease Control and Prevention forecasts the timing, peak and intensity of the influenza virus. Today, those prize winners and others are working with the agency on operations forecasts and projections for COVID-19, the disease at the center of a global pandemic.  
