@@ -5,7 +5,7 @@ permalink: /challenge/ahrq-step-up-app-challenge/
 challenge-id: 12
 status: closed
 sidenav: true
-card-image: /assets/images/cards/AHRQ-logo_NEW.jpg
+card-image: /assets/images/cards/ahrq-stepup-logo.jpg
 agency-logo: ahrq-logo.jpg
 tagline: Advancing Care Through Patient Self-Assessments
 agency: Agency for Healthcare Research and Quality
