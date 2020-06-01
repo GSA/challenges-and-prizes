@@ -8,8 +8,8 @@ permalink: /challenge/AHRQ-cross-sectional-innovation-rural-postpartum-mental-he
 challenge-id: "1131"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/ahrq_hhs-brand_color-340x160-.jpg
-agency-logo: /assets/netlify-uploads/ahrq-logo.png
+card-image: /assets/netlify-uploads/ahrq-logo.jpg
+agency-logo: /assets/netlify-uploads/ahrq-logo.jpg
 tagline: "Do you have a success story or program proposal that can help rural
   communities improve care for postpartum mental health issues? "
 agency: Department of Health and Human Services - Agency for Healthcare Research
