@@ -6,7 +6,7 @@ permalink: /challenge/solar-desalination-prize-contest-1/
 challenge-id: "1133"
 status: open
 sidenav: false
-card-image: /assets/netlify-uploads/256px-Seal_of_the_United_States_Department_of_Energy.png
+card-image: /assets/netlify-uploads/solar-desalination-contest-1.png
 agency-logo: /assets/netlify-uploads/256px-Seal_of_the_United_States_Department_of_Energy.png
 tagline: Accelerate the development of low-cost desalination systems that use
   solar-thermal power to produce clean drinking water from saltwater.
