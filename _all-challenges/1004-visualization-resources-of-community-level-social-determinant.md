@@ -4,8 +4,8 @@ permalink: /challenge/visualization-resources-of-community-level-social-determin
 challenge-id: 1004
 status: closed
 sidenav: true
-card-image: /assets/images/cards/ahrq-logo.png
-agency-logo: ahrq-logo.png
+card-image: /assets/images/cards/ahrq-logo.jpg
+agency-logo: ahrq-logo.jpg
 challenge-title: Visualization Resources of Community-Level Social Determinants of Health Challenge
 tagline: Can you develop a visualization tool to enhance the research and analysis of community-level health services?
 agency: Agency for Healthcare Research and Quality

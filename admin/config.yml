@@ -22,7 +22,7 @@ collections:
     fields:
       - { label: 'Workflow Card Label', name: 'title', widget: 'string', default: 'Card Title Here', required: false }
       - { label: 'Challenge Title', name: 'challenge-title', widget: 'string' }
-      - { label: 'Layout', name: 'layout', widget: 'string' }
+      - { label: 'Layout', name: 'layout', widget: 'string', default: front-matter-data-markdownify-content }
       - { label: 'Permalink', name: 'permalink', widget: 'string', default: '/challenge/challenge-url-here/' }
       - { label: 'Challenge-ID', name: 'challenge-id', widget: 'string' }
       - { label: 'Status', name: 'status', widget: 'select', options: ["open", "closed"] }
@@ -64,7 +64,7 @@ collections:
     fields:
       - { label: 'Workflow Card Label', name: 'title', widget: 'string', default: 'Card Title Here', required: false }
       - { label: 'Challenge Title', name: 'challenge-title', widget: 'string' }
-      - { label: 'Layout', name: 'layout', widget: 'string' }
+      - { label: 'Layout', name: 'layout', widget: 'string', default: front-matter-data-markdownify-content }
       - { label: 'Permalink', name: 'permalink', widget: 'string', default: '/challenge/challenge-url-here/' }
       - { label: 'Challenge-ID', name: 'challenge-id', widget: 'string' }
       - { label: 'Status', name: 'status', widget: 'select', options: ["open", "closed"] }
@@ -137,6 +137,7 @@ collections:
     label: 'Blog Posts'
     label_singular: 'Blog Post'
     folder: '_posts'
+    slug: '{{date}}-{{title}}'
     extension: md
     create: true
     editor:

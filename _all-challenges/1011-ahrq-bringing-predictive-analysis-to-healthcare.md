@@ -4,8 +4,8 @@ permalink: /challenge/ahrq-bringing-predictive-analysis-to-healthcare/
 challenge-id: 1011
 status: closed
 sidenav: true
-card-image: /assets/images/cards/ahrq-logo.png
-agency-logo: ahrq-logo.png
+card-image: /assets/images/cards/ahrq-logo.jpg
+agency-logo: ahrq-logo.jpg
 challenge-title: AHRQ Bringing Predictive Analysis to Healthcare
 tagline: Can you leverage predictive analytics to help forecast healthcare utilization data?
 agency: Department of Health and Human Services - Agency for Healthcare Research and Quality
