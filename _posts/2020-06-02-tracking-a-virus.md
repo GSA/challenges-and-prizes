@@ -7,6 +7,7 @@ excerpt: A prize competition advanced how the Centers for Disease Control and Pr
 author: Tammy White
 layout: post
 image: blog-post-a-model-for-gov-cover-image.jpg
+card-image: /assets/netlify-uploads/blog-post-a-model-for-gov-cover-image.jpg
 image_alt_text: Concept of computer model on coronavirus impact
 ---
  
