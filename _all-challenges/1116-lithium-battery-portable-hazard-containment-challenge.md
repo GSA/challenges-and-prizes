@@ -27,7 +27,7 @@ challenge-manager: Marissa Wagler
 challenge-manager-email: marissa.wagler@navy.mil
 point-of-contact: marissa.wagler@navy.mil
 description: >-
-  <p><strong>Fourteen (14) participants that have been selected for invitation to provide a virtual presentation of their submitted white paper concept to the Lithium Battery Man Portable Hazard Containment Prize Challenge judging panel.  Participant names are listed below in alphabetical order.</p>
+  <p><strong>Fourteen (14) participants that have been selected for invitation to provide a virtual presentation of their submitted white paper concept to the Lithium Battery Man Portable Hazard Containment Prize Challenge judging panel.  Participant names are listed below in alphabetical order.</strong></p>
   <ol>
   <li>ADA Technologies, Inc.</li>
   <li>Americase, LLC</li>
@@ -42,7 +42,7 @@ description: >-
   <li>StatDiagnostics</li>
   <li>Texas Research Institute - Austin</li>
   <li>ViPER (Purdue University)</li>
-  <li>Zarges Inc.</li></li>
+  <li>Zarges Inc.</li>
   </ol>
   
   Lithium batteries’ benefits of increased capabilities at a reduced weight
@@ -595,7 +595,7 @@ how-to-enter: >-
 ---
 ### Description
 
-<p><strong>Fourteen (14) participants that have been selected for invitation to provide a virtual presentation of their submitted white paper concept to the Lithium Battery Man Portable Hazard Containment Prize Challenge judging panel.  Participant names are listed below in alphabetical order.</p>
+<p><strong>Fourteen (14) participants that have been selected for invitation to provide a virtual presentation of their submitted white paper concept to the Lithium Battery Man Portable Hazard Containment Prize Challenge judging panel.  Participant names are listed below in alphabetical order.</strong></p>
 <ol>
   <li>ADA Technologies, Inc.</li>
   <li>Americase, LLC</li>
@@ -610,7 +610,7 @@ how-to-enter: >-
   <li>StatDiagnostics</li>
   <li>Texas Research Institute - Austin</li>
   <li>ViPER (Purdue University)</li>
-  <li>Zarges Inc.</li></li>
+  <li>Zarges Inc.</li>
  </ol>
 
 Lithium batteries’ benefits of increased capabilities at a reduced weight outweigh their inherent risks in many industrial, commercial and some military applications. However, these benefits do not outweigh the inherent risk of transporting the batteries. For example, most commercial passenger airlines do not allow lithium batteries to be packed inside checked luggage due to the inherent fire hazard in a cargo hold, which represents an unacceptable risk. Likewise, military (and other users) transportation of lithium batteries represents risks that are also sometimes unacceptable. A solution that develops a containment system to carry batteries that suitably mitigates the inherent hazards is desired to allow more applications, commercial and military, to benefit from the use of rechargeable (called “secondary”) and non-rechargeable (called “primary”) lithium batteries.
