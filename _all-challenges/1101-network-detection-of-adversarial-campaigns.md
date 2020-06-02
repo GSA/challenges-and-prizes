@@ -23,7 +23,7 @@ legal-authority: Agency specific prize authority
 challenge-manager: Michael Karlbom
 challenge-manager-email: karlbom@spawar.navy.mil
 point-of-contact: AIATAC.PRIZE.CHALLENGE@NAVY.MIL
-description: <p>See <strong><a href="{{ site.baseurl }}/assets/document-library/AI-ATAC-Prize-Challenge-FAQ-2-05AUG19.pdf" target="_blank" rel="noopener">FREQUENTLY ASKED QUESTIONS</a>.</strong></p><p>The Naval Information Warfare Systems Command (NAVWARSYSCOM) and
+description: <p>See <strong><a href="{{ site.baseurl }}/assets/document-library/AI-ATAC-2-FAQ-01JUN20.pdf" target="_blank" rel="noopener">FREQUENTLY ASKED QUESTIONS</a>.</strong></p><p>The Naval Information Warfare Systems Command (NAVWARSYSCOM) and
   the Program Executive Office for Command, Control, Communications, Computers,
   and Intelligence (PEO C4I) are conducting a second instance of the Artificial
   Intelligence Applications to Autonomous Cybersecurity (AI ATAC), pronounced
@@ -317,7 +317,7 @@ submission-link: null
 ### Description
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
-<p>See <strong><a href="{{ site.baseurl }}/assets/document-library/AI-ATAC-Prize-Challenge-FAQ-2-05AUG19.pdf" target="_blank" rel="noopener">FREQUENTLY ASKED QUESTIONS</a>.</strong></p>
+<p>See <strong><a href="{{ site.baseurl }}/assets/document-library/AI-ATAC-2-FAQ-01JUN20" target="_blank" rel="noopener">FREQUENTLY ASKED QUESTIONS</a>.</strong></p>
 <p>The Naval Information Warfare Systems Command (NAVWARSYSCOM) and the Program Executive Office for Command, Control, Communications, Computers, and Intelligence (PEO C4I) are conducting a second instance of the Artificial Intelligence Applications to Autonomous Cybersecurity (AI ATAC), pronounced &ldquo;AI attack&rdquo; Challenge (hereinafter referred to as &ldquo;the Challenge&rdquo;). The Navy&rsquo;s Cybersecurity Program Office (PMW 130) seeks to automate the Security Operations Center (SOC) using artificial intelligence and machine learning (AI/ML) to detect advanced persistent threat (APT) campaign activity. There is a tremendous amount of untapped cybersecurity information at the network level that can improve situational awareness, provide context for network events, and reveal the presence of adversaries. PMW 130 solicits white papers describing network-based security technologies and the corresponding tool for evaluation in the AI ATAC Prize Challenge competition.</p>
 
 <!-- Prizes start -->
