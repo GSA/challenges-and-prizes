@@ -208,7 +208,7 @@ how-to-enter: <p>To enter the CHARIoT Challenge, participants must complete thre
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>The CHARIoT Challenge is a dual track competition covering an Augmented Reality Contest and an Internet of Things-based Contest.</p>
 <p>Startups, developers, data gurus, engineers, and user experience experts are challenged to develop solutions that deliver first responders augmented reality interfaces leveraging data streams from buildings and city sensors. Solutions must be designed to assist first responders in four (4) emergency scenarios: wildfires, floods, active shooter situations, and tunnel collapses. These interfaces will improve decision-making and resource deployment capabilities for public safety personnel, ensuring America’s first responders have the tools to effectively save lives.</p>
@@ -316,7 +316,7 @@ how-to-enter: <p>To enter the CHARIoT Challenge, participants must complete thre
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Total Cash Prize Pool</strong></p>
 <p>PSCR and its challenge partners will award prizes valued up to $1,100,000.</p>
@@ -333,7 +333,7 @@ how-to-enter: <p>To enter the CHARIoT Challenge, participants must complete thre
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>General Submission Rules:</p>
 <ul>
@@ -367,7 +367,7 @@ how-to-enter: <p>To enter the CHARIoT Challenge, participants must complete thre
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><u>Emulate Smart City Data for Disaster Scenarios</u></p>
 <ul>
@@ -386,7 +386,7 @@ how-to-enter: <p>To enter the CHARIoT Challenge, participants must complete thre
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>To enter the CHARIoT Challenge, participants must complete three easy steps:</p>
 <ol>

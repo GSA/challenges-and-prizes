@@ -57,7 +57,7 @@ how-to-enter: <p>Competitors can enter the Challenge here:&nbsp; <a href="https:
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>AHRQ is seeking technological solutions that ease administrative and information management burdens, and support patient activation and engagement, especially among Americans that may have low health literacy or limited English language proficiency. These technical solutions should leverage evidence-based standards.</p>
 <p>Solutions in this Challenge will improve care communications during transitions, develop and use standardized processes for leveraging and transferring data from electronic health records.</p>
@@ -75,7 +75,7 @@ how-to-enter: <p>Competitors can enter the Challenge here:&nbsp; <a href="https:
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Phase 1 &ndash; Proposal of Innovative Models</strong></p>
 <ul>
@@ -93,18 +93,18 @@ how-to-enter: <p>Competitors can enter the Challenge here:&nbsp; <a href="https:
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>The rules can be found here: <a href="https://bestincrowd.com/home/challenge-details/digital-solutions-to-support-care-transitions" target="_blank" rel="noopener">https://bestincrowd.com/home/challenge-details/digital-solutions-to-support-care-transitions</a></p>
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Please review the official rules for the judging criteria here: <a href="https://bestincrowd.com/home/challenge-details/digital-solutions-to-support-care-transitions" target="_blank" rel="noopener">https://bestincrowd.com/home/challenge-details/digital-solutions-to-support-care-transitions</a></p>
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Competitors can enter the Challenge here: <a href="https://bestincrowd.com/home/challenge-details/digital-solutions-to-support-care-transitions" target="_blank" rel="noopener">https://bestincrowd.com/home/challenge-details/digital-solutions-to-support-care-transitions</a></p>

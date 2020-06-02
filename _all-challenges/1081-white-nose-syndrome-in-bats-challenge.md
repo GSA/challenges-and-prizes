@@ -64,7 +64,7 @@ how-to-enter: <p>For rules and more information on how to enter, visit:&nbsp; <a
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Hibernating bats in North America are in trouble. An invasive fungus, <em>Pseudogymnoascus destructans</em>, that causes a disease called white-nose syndrome is spreading across the continent and killing millions of bats. Bats eat insects and are integral to thriving ecosystems. With the loss of millions of bats because of this deadly fungus, many millions more forest and agriculture insect pests are left to feed on trees and crops, ultimately affecting the balance of nature and even human health.</p>
 <p>There is no known cure for white-nose syndrome, but scientists from all over the world are working together to study the disease, how it spreads and infects bats and what we can do to control it. Much of this work has been done under the umbrella of the United States’ National Response to White-nose Syndrome, a broad, multi-agency effort led by the U.S. Fish and Wildlife Service.</p>
@@ -78,7 +78,7 @@ how-to-enter: <p>For rules and more information on how to enter, visit:&nbsp; <a
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <h4>Total Cash Prize Pool</h4>
 <p>The U.S. Fish and Wildlife Service has a total cash prize pot available of $100,000.</p>
@@ -90,7 +90,7 @@ how-to-enter: <p>For rules and more information on how to enter, visit:&nbsp; <a
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>For rules and more information on how to enter, visit: <a href="https://www.whitenosesyndrome.org/static-page/white-nose-syndrome-challenge" target="_blank" rel="noopener">https://www.whitenosesyndrome.org/static-page/white-nose-syndrome-challenge</a>.</p>
 
@@ -98,7 +98,7 @@ how-to-enter: <p>For rules and more information on how to enter, visit:&nbsp; <a
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <h4>Judging Panel</h4>
 <p>The Judging Panel will be composed of federal and/or non-federal scientists and other technical and subject matter experts.</p>
@@ -116,6 +116,6 @@ how-to-enter: <p>For rules and more information on how to enter, visit:&nbsp; <a
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>For rules and more information on how to enter, visit: <a href="https://www.whitenosesyndrome.org/static-page/white-nose-syndrome-challenge" target="_blank" rel="noopener">https://www.whitenosesyndrome.org/static-page/white-nose-syndrome-challenge</a>.</p>

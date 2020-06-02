@@ -102,7 +102,7 @@ how-to-enter: <div><strong><span lang="FR">Submissions are due by 12 July 2019 a
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 <p><img src="{{ site.baseurl }}/assets/images/challenge-content/Knee-and-Elbow.jpg" width="919" height="481" alt="U.S. Marine putting on a knee pad"/></p>
 <p><strong>Problem Statement:</strong></p>
 <p>The Marine Corps seeks new and innovative ideas and solutions that improve the currently fielded knee and elbow pads&rsquo; comfort. &nbsp;The current knee and elbow pads secure to the leg or arm with elastic bands, negatively affecting comfort, maneuverability, and stability. &nbsp;Knee and elbow pad ideas and solutions that enhance the Marines&rsquo; comfort, maneuverability, and stability, and can either integrate into the trousers and blouse or are stand-alone items are sought.</p>
@@ -140,7 +140,7 @@ how-to-enter: <div><strong><span lang="FR">Submissions are due by 12 July 2019 a
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 <p><strong>Overall Prize</strong> shall be awarded to the top system of knee and elbow pads as determined by the panel based on the review of submissions against the Prize Challenge requirements above.</p>
 <p>First place (full prize) will receive $4,000.&nbsp; In order to receive the full prize, a candidate must submit both knee and elbow pads for consideration and both pads must be selected.&nbsp;</p>
 <p>Candidates that submit only one portion of the system, will receive only half of the prize award.&nbsp; (i.e., candidate &ldquo;A&rdquo; submits only knee pads and if chosen as the overall prize winner, candidate &ldquo;A&rdquo; will only receive $2,000 vice the full amount of $4,000).&nbsp;</p>
@@ -149,7 +149,7 @@ how-to-enter: <div><strong><span lang="FR">Submissions are due by 12 July 2019 a
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 <p><strong>Submission Requirements:</strong></p>
 <ul>
 <li>Interested parties shall submit a Solution Paper that demonstrates new or innovative materials and/or designs over current systems.&nbsp; Knee and elbow pads shall be submitted with a Solution Paper to be eligible for the Overall Prize.</li>
@@ -166,7 +166,7 @@ how-to-enter: <div><strong><span lang="FR">Submissions are due by 12 July 2019 a
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 <p><strong>Selection Panel</strong></p>
 <ul>
 <li>A panel consisting of Marines and infantry combat equipment subject matter experts will review submissions to determine a solution that best meets the intent of this Prize Challenge.</li>
@@ -174,7 +174,7 @@ how-to-enter: <div><strong><span lang="FR">Submissions are due by 12 July 2019 a
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 <div><strong><span lang="FR">Submissions are due by 12 July 2019 and shall be sent to:</span></strong></div>
 <div>&nbsp;</div>
 <div><strong><span lang="FR">EPIC</span></strong></div>

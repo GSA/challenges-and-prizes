@@ -47,7 +47,7 @@ description: >-
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 **IMPORTANT ANNOUNCEMENT -- THE CCIC 2020 IS CANCELLED.**
 

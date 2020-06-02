@@ -60,7 +60,7 @@ how-to-enter: <p>Those proposing solutions should submit their white papers by w
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Air Force Space Education is currently conducted via a multi-phase training program, consisting of lessons in spacelift considerations, orbital mechanics, operational implications of orbit type and satellite constellation design, and strategic impact in the application of multiple satellite systems and constellations in support of regional commanders.</p>
 <p>We are looking for your concept for a mobile-friendly application, and we are employing a competitive process which provides Air Force personnel a way to collaborate with the software development community to develop and refine prototype solutions for the space operational visualization tool. The ultimate goal of this process is to award contracts to develop and deploy a working prototype for the new mobile Spacecraft Engagement Simulation Experiment application for use by all Air Force Airmen.</p>
@@ -83,7 +83,7 @@ how-to-enter: <p>Those proposing solutions should submit their white papers by w
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <ul>
 <li>A chance to secure funding for prototype and experimentation</li>
@@ -95,7 +95,7 @@ how-to-enter: <p>Those proposing solutions should submit their white papers by w
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Additional information as well as the submission page is found at:</p>
 <p><a href="https://afwerx.spigit.com/spaceviz/Page/ChallengeOverview">https://afwerx.spigit.com/spaceviz/Page/ChallengeOverview</a></p>
@@ -103,7 +103,7 @@ how-to-enter: <p>Those proposing solutions should submit their white papers by w
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>During this phase, USAF experts will review solution proposals. The top solutions meeting the needs and requirements of the selection team will be invited to participate in a design and prototype phase beginning in early 2019.</p>
 <div>Selection Phase Start: 01/05/2019</div>
@@ -112,6 +112,6 @@ how-to-enter: <p>Those proposing solutions should submit their white papers by w
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Those proposing solutions should submit their white papers by way of our&nbsp;<a href="https://afwerx.spigit.com/spaceviz/Page/ChallengeOverview">challenge website</a>.</p>

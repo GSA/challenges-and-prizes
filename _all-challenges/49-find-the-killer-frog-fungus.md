@@ -54,7 +54,7 @@ how-to-enter: <p>For more information on how to enter, visit:&nbsp;<a href="http
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 <p><strong>The Problem</strong></p>
 <p>The global wildlife trade is actively spreading a deadly disease that could cause hundreds, if not thousands, of the world&rsquo;s 7,000 known species of amphibians to go extinct unless we take immediate action to combat its spread. This disease is caused by two species of pathogenic chytrid fungi, Batrachochytrium dendrobatidis (Bd) and Batrachochytrium salamandrivorans(Bsal), which were recently introduced to amphibian populations. These fungi thrive in wet cool environments, and amphibians in at least 60 countries have already been exposed.</p>
 <p>Every year, millions of amphibians are traded globally for use as pets, food, and research, without any required disease screening prior to transport. In each shipment, the number of amphibians can range from one to many thousands and must be quickly released to the importer. Bd and Bsal are invisible to the naked eye, and infections rarely cause visible symptoms prior to death. Therefore, genetic sampling and laboratory analysis are the most common detection method. Rapid, cost-effective chytrid detection methods are urgently needed to stop infected animals and contaminated shipping materials from entering the USA to reduce the threat of disease to native biodiversity.</p>
@@ -83,5 +83,5 @@ how-to-enter: <p>For more information on how to enter, visit:&nbsp;<a href="http
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 <p>For more information on how to enter, visit:&nbsp;<a href="https://conservationx.com/challenge/invasives/chytrid" target="_blank" rel="noopener">https://conservationx.com/challenge/invasives/chytrid</a></p>

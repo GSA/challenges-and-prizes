@@ -181,7 +181,7 @@ how-to-enter: <p><strong>Application Requirements:</strong></p>
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong><u>The Challenge: An Inclusive Talent Pipeline for American Businesses</u></strong></p>
 <p>The Administration for Community Living (ACL), U.S. Department of Health and Human Services (HHS) is announcing a competition for American businesses to expand human capital pipelines by drawing upon highly talented and diverse workforces, inclusive of people with disabilities.&nbsp;</p>
@@ -244,7 +244,7 @@ how-to-enter: <p><strong>Application Requirements:</strong></p>
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Total Cash Prize Pool</strong></p>
 <p>$380,000.00</p>
@@ -267,7 +267,7 @@ how-to-enter: <p><strong>Application Requirements:</strong></p>
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Eligibility Rules for Participating in the Competition</strong>: To be eligible to win a prize under this challenge, an individual or entity&mdash;</p>
 <p>(1) Shall have registered to participate in the competition under the rules promulgated by the <em>Administration for Community Living;</em></p>
@@ -286,7 +286,7 @@ how-to-enter: <p><strong>Application Requirements:</strong></p>
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Judging Panel</strong></p>
 <p>The Judging Panel will be composed of federal and/or other technical and subject matter experts.</p>
@@ -331,7 +331,7 @@ how-to-enter: <p><strong>Application Requirements:</strong></p>
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Application Requirements:</strong></p>
 <p><strong>Project Narrative</strong></p>

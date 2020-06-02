@@ -210,7 +210,7 @@ how-to-enter: <p>An interested Participant (individual, team, or legal entity) m
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>In June 2017, the National Institute of Standard and Technology (NIST) put on the first Agile Robotics for Industrial Applications Competition (ARIAC). The goal of the competition was to test the agility of industrial robot systems, with the goal of enabling industrial robots on the shop floors to be more productive, more autonomous, and to require less time from shop floor workers. For the second and third year of the competition, we introduced a cash prize to motivate and expand participation. This is the fourth year of the competition.</p>
 <p>In this context, agility is defined broadly to address:</p>
@@ -233,7 +233,7 @@ how-to-enter: <p>An interested Participant (individual, team, or legal entity) m
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <h4>Prizes</h4>
 <p>Up to three winners will be selected. The Prize Purse for the ARIAC Prize Competition is a total of $17,500. The number of winners will be fewer than three if there are fewer than three Participants that qualify for the competition. The Prize Purse may increase, but will not decrease. Any increases in the Prize Purse will be posted on the Event Website. NIST reserves the right to announce additional winners of non-cash prizes.</p>
@@ -249,7 +249,7 @@ how-to-enter: <p>An interested Participant (individual, team, or legal entity) m
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <h4>Rules</h4>
 <p>The Official Rules are posted at <a href="https://www.challenge.gov/challenge/ariac/" target="_blank" rel="noopener">https://www.challenge.gov/challenge/ariac/</a> and the Event Website, <a href="http://www.nist.gov/ariac" target="_blank" rel="noopener">http://www.nist.gov/ariac</a>.</p>
@@ -307,7 +307,7 @@ how-to-enter: <p>An interested Participant (individual, team, or legal entity) m
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <h4>Judging Panel</h4>
 <p>The NIST Director will appoint a panel of three qualified judges. The Judges will be robot agility and/or simulation experts from inside and/or outside of NIST. The Judges will determine winners according to the Judging Criteria described herein. The Judges may not have personal or financial interests in, or be an employee, officer, director, or agent of, any entity that is a registered Participant in the Competition and may not have a familial or financial relationship with an individual who is a registered Participant. In the event of such a conflict, a Judge must recuse himself or herself and a new Judge may be appointed.</p>
@@ -352,7 +352,7 @@ how-to-enter: <p>An interested Participant (individual, team, or legal entity) m
   
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>An interested Participant (individual, team, or legal entity) must initiate the process of participating in the Competition by registering at the ARIAC website. The party is then given access to view the documentation and download the tutorials (which provides instructions on how to run the simulations) from the ARIAC website. In the event NIST determines modifications to the documentation and tutorials are needed, all website registrants will be notified by email.</p>
 <p>Once registered, the Participants are eligible to participate in the qualifier. The qualifier will occur in the April 2020 timeframe (specific deadlines will be published at the official challenge website and all Participants notified by email). Participants must complete the qualifier to be eligible to compete in the final competition. A minimum score will be determined, based on the metrics described below, which Participants have to meet or exceed in the qualifier to be eligible for the final competition.</p>

@@ -38,7 +38,7 @@ how-to-enter: <p><strong>All questions, registrations, and official entries must
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>All questions, registrations, and official entries must be submitted via the <a href="https://www.innocentive.com/ar/challenge/9933879">InnoCentive</a> website open on the date of launch. &nbsp;See official rules, terms and conditions on InnoCentive website.</strong></p>
 <p>Steel structures corrode, or degrade, without a properly applied corrosion control method. This degradation is typically identified by localized or general thinning of material, which reduces the structure&rsquo;s ability to support load, carry water, etc. Failure of hydraulic steel structures can cause extensive downtime, loss of productivity, property damage, and even loss of life.</p>
@@ -51,19 +51,19 @@ how-to-enter: <p><strong>All questions, registrations, and official entries must
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>The Seeker has a total cash prize purse budget of $75,000 for Stage 1.&nbsp; The cash prize purse awards will be contingent upon critical analysis and evaluation by the Seeker (Reclamation) and the judging panel appointed by the Seeker.&nbsp; Up to six awards will be made for the best submissions that meet or exceed the Solution Requirements.&nbsp; The cash prize purse awards for each winning solution will not be less than $10,000 but may be as high as $25,000.&nbsp; No cash prizes are guaranteed unless submissions meet or exceed the criteria.&nbsp; Partial cash prizes may be considered for solutions that meet some, but not all, of the criteria.</p>
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>All questions, registrations, and official entries must be submitted via the <a href="https://www.innocentive.com/ar/challenge/9933879">InnoCentive</a> website open on the date of launch. &nbsp;See official rules, terms and conditions on InnoCentive website.</strong></p>
 <p><em>Questions about this Challenge?&nbsp; Please direct any requests for clarifications and additional information about this challenge to <a href="https://www.innocentive.com/ar/challenge/9933879">InnoCentive.com</a>. As the administrator for this challenge, InnoCentive will contact the Bureau of Reclamation, as needed, to answer your questions and will also&nbsp;make the responses available to all registered solvers if they provide relevant additional information.&nbsp;To submit your questions to InnoCentive, register for the competition at the <a href="https://www.innocentive.com/ar/challenge/9933879">InnoCentive</a> website. &nbsp;Registration is free and easy. Once you have registered, you will be able to see the full details of this challenge. After reviewing the full details, if you still have questions, InnoCentive provides each registered solver with the ability to submit their specific questions to the challenge administrator.</em></p>
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>All questions, registrations, and official entries must be submitted via the <a href="https://www.innocentive.com/ar/challenge/9933879">InnoCentive</a> website open on the date of launch. &nbsp;See official rules, terms and conditions on InnoCentive website.</strong></p>

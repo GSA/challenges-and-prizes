@@ -397,7 +397,7 @@ how-to-enter: <p>Visit the Challenge website <a href="http://www.firstresponderu
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <h3>Informational Materials</h3>
 <ul>
@@ -618,7 +618,7 @@ how-to-enter: <p>Visit the Challenge website <a href="http://www.firstresponderu
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <h3>Total Cash Prize Pool&nbsp;</h3>
 <p>Up to $552,000</p>
@@ -753,13 +753,13 @@ how-to-enter: <p>Visit the Challenge website <a href="http://www.firstresponderu
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 See the <a href="{{ site.baseurl }}/assets/document-library/Official Challenge Rules - PSCR First Responder UAS Endurance Challenge April2020.pdf">official rules document</a> for details on all aspects of the challenge.
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <h3>Judging Panel</h3>
 <p>The submissions will be judged by a qualified panel of expert(s) selected by the U.S. Department of Commerce, National Institute of Standards and Technology (NIST) at its sole discretion. The panel consists of U.S. Department of Commerce, NIST and non-Department of Commerce, NIST experts and will judge the submissions according to the judging criteria in order to select winners. The decisions of the judges for the contest will be announced in accordance with the dates noted in the "Summary of Important Dates.&rdquo;</p>
@@ -783,7 +783,7 @@ See the <a href="{{ site.baseurl }}/assets/document-library/Official Challenge R
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Visit the Challenge website <a href="http://www.firstresponderuaschallenge.org">www.firstresponderuaschallenge.org</a>, to review the challenge stages in the First Responder UAS Endurance Challenge.</p>
 <ul>

@@ -235,7 +235,7 @@ how-to-enter: <p>All submisions must be made on the&nbsp;<a href="https://www.to
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <h4>Overview</h4>
 <p><strong>THANK YOU to all the competitors in the&nbsp;NIST&nbsp;DIFFERENTIAL PRIVACY SYNTHETIC DATA CHALLENGE!</strong></p>
@@ -346,7 +346,7 @@ how-to-enter: <p>All submisions must be made on the&nbsp;<a href="https://www.to
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Overview</strong></p>
 <p>The total prize purse is up to $150,000. For details of prizes, see the "Prizes" section in the <strong>Overview</strong> tab.</p>
@@ -386,7 +386,7 @@ how-to-enter: <p>All submisions must be made on the&nbsp;<a href="https://www.to
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <h4>Match Contest Rules</h4>
 <h4><em>(The NIST Official Rules are explained below the Match Contest Rules.)</em></h4>
@@ -455,13 +455,13 @@ how-to-enter: <p>All submisions must be made on the&nbsp;<a href="https://www.to
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Judging and Scoring for Final Prizes</strong></p>
 <p>NIST staff or their delegates will review entries based on the Certification Process and Final Review Process. A submission that fails to meet the compliance criteria will be ineligible to win prizes in this contest. Submissions that pass the final compliance review will be scored based on accuracy during a sequestered evaluation: the submitter's code will be run against a blind (sequestered) dataset and similarity metrics will be computed between analytics results on the synthetic privatized set and the original dataset.</p>
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>All submisions must be made on the&nbsp;<a href="https://www.topcoder.com/community/data-science/Differential-Privacy-Synthetic-Data-Challenge">Topcoder website</a>. All contest details, including timeline and marathon match details can be found on the&nbsp;<a href="https://www.topcoder.com/community/data-science/Differential-Privacy-Synthetic-Data-Challenge">Topcoder website</a>.</p>

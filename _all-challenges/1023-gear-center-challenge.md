@@ -204,7 +204,7 @@ how-to-enter: <div class="howtoenter">
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <div class="description">
                           <p>The Federal government would benefit from better access to a well-integrated set of partners representing diverse industries and sectors to help resolve our toughest management problems. How can the government improve collaboration with leading private sector organizations, state and local governments, researchers, academic institutions, Federal government representatives, and the public? We cannot keep solving problems the same way and expect different results.</p>
@@ -228,7 +228,7 @@ how-to-enter: <div class="howtoenter">
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
  <div class="prize-item">
         <h4 class="text-primary">Prizes</h4>
@@ -240,7 +240,7 @@ how-to-enter: <div class="howtoenter">
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <div class="jumbotron description">
         <h4><strong>Eligibility to Participate</strong></h4>
@@ -286,7 +286,7 @@ how-to-enter: <div class="howtoenter">
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <div class="judging-criterias">
         <div class="prize-item">
@@ -315,7 +315,7 @@ how-to-enter: <div class="howtoenter">
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <div class="howtoenter">
         <h4><strong>Details on How to Submit Your Solutions Across Each Phase Are Provided Below:</strong></h4>

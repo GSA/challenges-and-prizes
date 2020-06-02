@@ -66,7 +66,7 @@ how-to-enter: <p>See challenge website:&nbsp; <a href="http://www.herox.com/Rust
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Water infrastructure in the United States is critical to the domestic economy, commerce, and resource management. There are thousands of existing hydraulic steel structures (HSS) that require regular maintenance and upkeep. Original methods to protect HSS are disfavored or no longer used due to environmental and safety concerns. Newer approaches to corrosion control suffer from higher costs, shorter service life, and reduced efficacy.</p>
 <p>In order to address rising maintenance costs and to advance the state of the art for corrosion control, the Bureau of Reclamation (Reclamation), in collaboration with the U.S. Army Corps of Engineers (USACE), is sponsoring this two phase Rust Busters Challenge. This Challenge seeks to identify and develop new methods for corrosion control. The Challenge sponsors are vitally interested in completely new approaches that are outside of conventional thought processes for corrosion control that can be applied to existing structures in situ. There is also interest in advancing existing technologies that can significantly improve service life, reduce costs (through innovative application methods or use of new materials), or improve performance range (through additional features such as health monitoring or self-healing).</p>
@@ -93,7 +93,7 @@ how-to-enter: <p>See challenge website:&nbsp; <a href="http://www.herox.com/Rust
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Total Prize Pool: $350,000</strong></p>
 <p><strong>Breakdown</strong></p>
@@ -111,19 +111,19 @@ how-to-enter: <p>See challenge website:&nbsp; <a href="http://www.herox.com/Rust
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>See challenge website: <a href="http://www.herox.com/RustBusters">www.herox.com/RustBusters</a></p>
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>See challenge website: <a href="http://www.herox.com/RustBusters">www.herox.com/RustBusters</a></p>
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>See challenge website: <a href="http://www.herox.com/RustBusters">www.herox.com/RustBusters</a></p>
 

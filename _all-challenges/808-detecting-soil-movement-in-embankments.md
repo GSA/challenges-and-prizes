@@ -39,7 +39,7 @@ how-to-enter: <p><strong>All official entries must be submitted via the Innocent
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>All official entries must be submitted via the Innocentive website at the following:</strong></p>
 <p><strong><a href="https://www.innocentive.com/ar/challenge/9933649" target="_blank" rel="noopener">https://www.<span class="il">innocentive</span>.com/<wbr />ar/challenge/9933649</a></strong></p>
@@ -52,20 +52,20 @@ how-to-enter: <p><strong>All official entries must be submitted via the Innocent
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>The awards will be paid to the best submission(s) as solely determined by the Seeker.&nbsp; The total payout will be $20,000, with at least one award being no smaller than $5,000 and no award being less than $2,500.</p>
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>All official entries must be submitted via the Innocentive website at the following:</strong></p>
 <p><strong><a href="https://www.innocentive.com/ar/challenge/9933649" target="_blank" rel="noopener">https://www.<span class="il">innocentive</span>.com/<wbr />ar/challenge/9933649</a></strong></p>
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>All official entries must be submitted via the Innocentive website at the following:</strong></p>
 <p><strong><a href="https://www.innocentive.com/ar/challenge/9933649" target="_blank" rel="noopener">https://www.<span class="il">innocentive</span>.com/<wbr />ar/challenge/9933649</a></strong></p>

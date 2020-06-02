@@ -113,7 +113,7 @@ how-to-enter: <p>All interested teams must register on the <a href="https://www.
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>The Challenge seeks to develop novel synthesis technologies that use carbon dioxide (CO2) as the sole carbon source to generate molecules that can be used to manufacture a variety of products, including substrates for use in microbial bioreactors. Because CO2 is readily abundant within the Martian atmosphere, such technologies will translate into in-situ manufacturing of products to enable humans to live and thrive on the planet, and also be implemented on Earth by using both waste and atmospheric CO2 as a resource.</p>
 <p>Competitors are required to build, demonstrate and produce a product from a system that manufactures simple sugars for microbial bioreactors from CO2 and hydrogen molecules, with the ultimate goal of producing glucose.</p>
@@ -127,7 +127,7 @@ how-to-enter: <p>All interested teams must register on the <a href="https://www.
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Total Cash Prize Pool</strong></p>
 <p>Seven Hundred Fifty Thousand Dollars ($750,000 USD)</p>
@@ -142,13 +142,13 @@ how-to-enter: <p>All interested teams must register on the <a href="https://www.
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Visit the <a href="https://www.co2conversionchallenge.org/" target="_blank" rel="noopener">official challenge site</a> to read the complete rules.</p>
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Judging Panel</strong></p>
 <p>A judging panel will be composed of a hybrid team, both internal and external to NASA</p>
@@ -218,6 +218,6 @@ how-to-enter: <p>All interested teams must register on the <a href="https://www.
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>All interested teams must register on the <a href="https://www.co2conversionchallenge.org/" target="_blank" rel="noopener">official challenge site</a> by the given deadline in order to participate in the Challenge.</p>

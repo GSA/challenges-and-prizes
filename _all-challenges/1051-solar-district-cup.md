@@ -50,7 +50,7 @@ how-to-enter: <div class="how-to-enter">
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <div class="description">
 <p>The U.S. Department of Energy Solar District Cup Collegiate Design Competition (Solar District Cup) challenges multidisciplinary student teams to present forward-thinking solutions and to design and model optimized distributed energy systems for a campus or urban district.</p>
@@ -60,7 +60,7 @@ Learn more at www.energy.gov/solardistrictcup and register to compete: <a href="
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <div class="prizes">
 <p>No cash prizes are provided; teams will be recognized for their competition success.</p>
@@ -68,7 +68,7 @@ Learn more at www.energy.gov/solardistrictcup and register to compete: <a href="
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <div class="rules">
 <p>Solar District Cup rules are available at <a href="http://www.energy.gov/solardistrictcup" target="_blank" rel="noopener">www.energy.gov/solardistrictcup</a> starting July 31, 2019. Teams must agree to the terms and conditions listed at <a href="http://www.herox.com/solardistrictcup" target="_blank" rel="noopener">www.herox.com/solardistrictcup</a> upon registration.</p> 
@@ -76,7 +76,7 @@ Learn more at www.energy.gov/solardistrictcup and register to compete: <a href="
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <div class="judging">
 <p>A qualified panel of judges, comprising subject-matter experts and partner district representatives, will be selected by the competition organizers.</p>
@@ -85,7 +85,7 @@ Learn more at www.energy.gov/solardistrictcup and register to compete: <a href="
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <div class="how-to-enter">
 <ol>
