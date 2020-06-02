@@ -23,7 +23,7 @@ legal-authority: Agency specific prize authority
 challenge-manager: Michael Karlbom
 challenge-manager-email: karlbom@spawar.navy.mil
 point-of-contact: AIATAC.PRIZE.CHALLENGE@NAVY.MIL
-description: <p>The Naval Information Warfare Systems Command (NAVWARSYSCOM) and
+description: <p>See <a href="{{ site.baseurl }}/assets/document-library/AI-ATAC-2-FAQ-01JUN20.pdf">FREQUENTLY ASKED QUESTIONS</a> for this challenge.</p><p>The Naval Information Warfare Systems Command (NAVWARSYSCOM) and
   the Program Executive Office for Command, Control, Communications, Computers,
   and Intelligence (PEO C4I) are conducting a second instance of the Artificial
   Intelligence Applications to Autonomous Cybersecurity (AI ATAC), pronounced
