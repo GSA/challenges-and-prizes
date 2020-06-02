@@ -98,7 +98,7 @@ how-to-enter: <p>Submissions should include:</p>
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>The Clean Air Markets Division (CAMD) is responsible for monitoring emissions from sources covered by air quality programs like the Acid Rain Program and Cross-State Air Pollution Rule. To support these programs, CAMD collects Power Sector Emissions Data, a robust dataset of emissions and operations information from over 4,000 electricity generating units (available online at <a href="https://ampd.epa.gov/ampd/">https://ampd.epa.gov/ampd/</a>), such as:</p>
 <ul>
@@ -118,7 +118,7 @@ how-to-enter: <p>Submissions should include:</p>
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>As a challenge winner, you will receive direct support from EPA CAMD staff experts to answer questions and assist you with CAMD tools and data analysis as you complete your project. In addition, you can expect to:</p>
 <ul>
@@ -132,7 +132,7 @@ how-to-enter: <p>Submissions should include:</p>
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Anyone who is affiliated with an accredited college or university, or a research organization (e.g., think tank) is encouraged to apply. Proposed projects may range from one semester to one academic year. Applicants may include:</p>
 <ul>
@@ -146,7 +146,7 @@ how-to-enter: <p>Submissions should include:</p>
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>EPA will evaluate the technical merit of each submission using the following factors:</p>
 <ul>
@@ -176,7 +176,7 @@ how-to-enter: <p>Submissions should include:</p>
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Submissions should include:</p>
 <ul>

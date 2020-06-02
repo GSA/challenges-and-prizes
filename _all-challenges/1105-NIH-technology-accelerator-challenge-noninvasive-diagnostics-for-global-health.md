@@ -99,7 +99,7 @@ how-to-enter: <p>Register and submit on the <a href="https://venturewell.org/nta
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>The <a href="https://www.nibib.nih.gov/" target="_blank" rel="noopener">National Institute of Biomedical Imaging and Bioengineering</a> (NIBIB) of the National Institutes of Health supports and encourages the development of new diagnostic technologies important for global health. Through this Challenge, NIBIB will offer $1,000,000 in prizes to reward and spur the development of platform concepts and prototypes of non-invasive, multiplexed diagnostic technologies for sickle cell disease, malaria, and anemia, diseases with high global and public health impact. The <a href="https://www.gatesfoundation.org/" target="_blank" rel="noopener">Bill & Melinda Gates Foundation</a> shares a commitment to global health and is cooperating with NIBIB to consider additional support for the Challenge winners and honorable mentions. The Gates Foundation, separately, will review the Challenge winners and honorable mentions selected by NIBIB for potential follow-on funding of up to $500,000 and in-kind support that can transform design concepts into products for global health on an accelerated timeframe.</p>
 <p>Five components of NIH have partnered with NIBIB to contribute to the $1,000,000 prize purse and will participate in selection of winners and honorable mentions: NIH Office of the Director; <a href="https://www.niaid.nih.gov/" target="_blank" rel="noopener">National Institute of Allergy and Infectious Disease</a>; <a href="https://www.nhlbi.nih.gov/" target="_blank" rel="noopener">National Heart, Lung and Blood Institute</a>; <a href="https://www.niddk.nih.gov/" target="_blank" rel="noopener">National Institute of Diabetes and Digestive and Kidney Diseases</a>; and the <a href="https://www.fic.nih.gov/Pages/Default.aspx" target="_blank" rel="noopener">Fogarty International Center</a>.</p>
@@ -113,14 +113,14 @@ how-to-enter: <p>Register and submit on the <a href="https://venturewell.org/nta
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>NIH will offer $1,000,000 in prizes, including up to $500,000 for a top finalist and smaller awards to approximately five semi-finalists. NIBIB may recognize additional participants with non-monetary honorable mentions.</p>
 <p>Following the NIH selection of winners, the Gates Foundation has indicated its intent to separately consider and assess the submissions of the prize winners and honorable mentions for potential additional support from Gates Foundation to develop the proposed technologies for global health applications. If selected by Gates Foundation after the Challenge, follow-on support from Gates Foundation may include grants of up to $500,000 and in-kind support in the form of consultations and partnerships for clinical data collection, software development, scale-up and manufacturing. The goals of this collaborative effort are to stimulate the design of new diagnostic technologies to transform public and global health and to accelerate the full development of products for use in low-resource settings. </p>
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>To be responsive to this Challenge, a submission should present two proposals:</p>
 <ol>
@@ -144,7 +144,7 @@ how-to-enter: <p>Register and submit on the <a href="https://venturewell.org/nta
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <h4>Basis Upon Which a Winner Will be Selected</h4>
 <p>Participants will present a design and initial feasibility data or references for a non-invasive diagnostic platform to address 2 diseases in the vasculature (at least one of sickle cell, malaria, or anemia). The technology design must describe both the biological principle of the test and measurement approach. Participants may share data collected on prototypes (if available) and up to five pieces of evidence or feasibility data that de-risk elements of the test and the device. To ensure alignment with global health use cases, participants must also submit a robust proposal addressing following questions:</p>
@@ -181,7 +181,7 @@ how-to-enter: <p>Register and submit on the <a href="https://venturewell.org/nta
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Register and submit on the <a href="https://venturewell.org/ntac/" target="_blank" rel="noopener">Challenge website</a>. Be sure to review the Challenge Guidelines.</p>
 <p>Although a notice of intent to submit an application is not required, is not binding, and does not enter into the review of a subsequent application, the information that it contains allows NIH staff to estimate the potential review workload and plan the review. By May 2, 2020, prospective applicants are asked to indicate on the <a href="https://venturewell.org/ntac/" target="_blank" rel="noopener">challenge website</a>Challenge website</a> in the Challenge Applicant Portal the participant or team's intent to submit an application. This is done by selecting "Intent to Submit an Application" after providing the following information in the Challenge Applicant Portal:</p>

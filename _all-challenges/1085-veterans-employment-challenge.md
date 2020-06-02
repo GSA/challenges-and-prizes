@@ -302,7 +302,7 @@ how-to-enter: <h4><strong>Phase I:&nbsp; </strong>Proposal</h4>
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>The goal of this challenge is to develop a job-matching tool that will be piloted in a <a href="https://www.dol.gov/agencies/vets/programs/tap" target="_blank" rel="noopener">Transition Assistance Program (TAP)</a> Employment Workshop at selected base locations. If the tool is effective, it could be added to the Employment Workshop curriculum for all transitioning service members.</p>
 <p>In 2018, the Department of Labor (DOL), the Department of Defense (DOD), and the Department of Veterans’ Affairs (VA) began a cross-agency effort to understand the transition of a Service member from active duty to civilian employment, from the perspective of the individual navigating this process—not the perspective of the Federal organizations that exist to support a plethora of programs. <a href="https://www.performance.gov/mapping-cx-journey/" target="_blank" rel="noopener">The agencies built a journeymap of this process and found a recurring theme: navigating the “sea of support” and resources relating to the job search can be a challenging task.</a></p>
@@ -344,7 +344,7 @@ how-to-enter: <h4><strong>Phase I:&nbsp; </strong>Proposal</h4>
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>The Department of Labor, with in-kind support through participation in testing and review from the Departments of Defense and Veterans Affairs, is offering a total prize pot of up to $1,000,000 awarded across four phases. The grand prize winner will be awarded up to $720,000.</p>
 <ul>
@@ -381,7 +381,7 @@ how-to-enter: <h4><strong>Phase I:&nbsp; </strong>Proposal</h4>
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <h4>Eligibility to Participate</h4>
 <p>To be eligible to participate:</p>
@@ -443,7 +443,7 @@ how-to-enter: <h4><strong>Phase I:&nbsp; </strong>Proposal</h4>
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <h4>Advancement to Phase II</h4>
 <p>Evaluation Criteria:</p>
@@ -496,7 +496,7 @@ how-to-enter: <h4><strong>Phase I:&nbsp; </strong>Proposal</h4>
  
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <h4><strong>Phase I: </strong>Proposal</h4>
 <p><strong>Open Date: </strong>December 11, 2019</p>

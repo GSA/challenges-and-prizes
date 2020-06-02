@@ -311,7 +311,7 @@ how-to-enter: >-
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
   The Public Safety Communications Research Division of the National Institute
   of Standards and Technology is conducting the Automated Streams Analysis for
@@ -496,7 +496,7 @@ how-to-enter: >-
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
   A total prize purse of up to **$150,000** will be awarded to the winners, as
   follows:
@@ -520,7 +520,7 @@ how-to-enter: >-
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
   View the [Official Rules
   document]({{ site.baseurl }}/assets/netlify-uploads/3.2-oio-rules-asaps-contest-1-final-.pdf)
@@ -532,7 +532,7 @@ how-to-enter: >-
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
   **Judging Panel**
 
@@ -596,7 +596,7 @@ how-to-enter: >-
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
   Visit *[www.herox.com/ASAPS1](http://www.herox.com/ASAPS1)*:.
 

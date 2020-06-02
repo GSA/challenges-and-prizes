@@ -182,7 +182,7 @@ how-to-enter:   <p>The xTechSearch program is voluntary and open to all entities
 <!-- Description start -->
 
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>The Assistant Secretary of the Army for Acquisition, Logistics and Technology (ASA(ALT)) is announcing the fifth iteration of the Army Expeditionary Technology Search &ndash; xTechSearch &ndash;&nbsp; prize competition. xTechSearch will highlight opportunities for small businesses to collaborate with the Army to tackle the most critical Army modernization challenges.</p>
 <p>The ASA(ALT) recognizes that the Army must enhance engagements with the small businesses, by: (1) understanding the spectrum of technologies being developed commercially that may benefit the Army; (2) integrating the sector of small business innovators into the Army&rsquo;s Science and Technology (S&amp;T) ecosystem; and (3) providing mentorship and expertise to accelerate, mature, and transition technologies of interest to the Army.</p>
@@ -193,7 +193,7 @@ how-to-enter:   <p>The xTechSearch program is voluntary and open to all entities
 <!-- Prizes start -->
 
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Prizes will be offered under 15 USC &sect;3719 (Prize competitions). The total prize pool is <strong>$2.04 million</strong>.</p>
 <table style="height:379px;" border="1" width="694">
@@ -273,7 +273,7 @@ how-to-enter:   <p>The xTechSearch program is voluntary and open to all entities
 <!-- Rules start -->
 
 ### Rules
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>The entities allowed to participate in this competition must be sole proprietors or small business concerns in accordance with Small Business Administration guidance under 13 Code of Federal Regulations &sect; 121.201, or any entity willing and able to be registered as a small business in the United States (U.S.) if selected to participate in this competition.</p>
 <p>Each eligible entity:</p>
@@ -301,7 +301,7 @@ how-to-enter:   <p>The xTechSearch program is voluntary and open to all entities
 <!-- Judging start -->
 
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Judging Panel</strong></p>
 <p>Each concept white paper will be reviewed by an Army panel from the Army S&amp;T ecosystem including Warfighter, acquisition, and research and development subject matter experts.</p>
@@ -320,7 +320,7 @@ how-to-enter:   <p>The xTechSearch program is voluntary and open to all entities
 <!--  How To Enter start -->
 
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>The xTechSearch program is voluntary and open to all entities that meet the eligibility requirements. &nbsp;There may be only one submission per eligible entity.&nbsp; The registration information and upload submission must be received by 11:59 PM PST on 31 March 2020.&nbsp; Submissions received after the deadline will not be considered.</p>
 <p>Register now: <a href="https://www.xtechsearch.army.mil/" target="_blank" rel="noopener">https://www.xtechsearch.army.mil/</a></p>

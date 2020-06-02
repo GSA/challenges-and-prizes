@@ -43,7 +43,7 @@ prizes: <p><strong>Finalist 1:</strong> $100,000
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 <p><strong>WELCOME TO THE TRANSFORM TOX TESTING CHALLENGE</strong></p>
 <p>For full challenge details, please download the <a href="{{ site.baseurl }}/assets/document-library/Transform-Tox-Testing-Challenge-Stage-2-Update1.pdf">Transform Tox Testing Challenge Brief</a> (pdf).</p>
 <p>NOTE: Stage 2 of the Challenge is only open to semi-finalists who have been awarded a Stage 1 prize.</p>
@@ -57,7 +57,7 @@ prizes: <p><strong>Finalist 1:</strong> $100,000
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 <strong>Finalist 1:</strong> $100,000
 
 <strong>Finalist 2:</strong> $100,000

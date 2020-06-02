@@ -191,7 +191,7 @@ how-to-enter: <p>Each team or individual wishing to participate in this challeng
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <h4>Key Dates:</h4>
 <ul>
@@ -220,13 +220,13 @@ how-to-enter: <p>Each team or individual wishing to participate in this challeng
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>This is a single-phase prize competition in which five (5) prizes will be awarded, totaling $100,000. One $20,000 prize will be awarded in each of the following five (5) categories: 1) 2020 Census: Reaching Hard-to-Count Communities, 2) Revolutionizing the Workforce, 3) Building Thriving Communities, 4) Creating Resilient People and Places, 5) Creating the Future of Health. Each of these categories is described in more detail in the above “Challenge Goals & Categories” section. </p>
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <h4>Eligibility</h4> 
 <p>This prize challenge is open to any team that has built a digital product in The Opportunity Project, including in 2019, whether through a facilitated sprint, or the <a href="https://opportunity.census.gov/toolkit.html" target="_blank" rel="noopener">digital toolkit</a>. Applicants must:</p> 
@@ -321,7 +321,7 @@ how-to-enter: <p>Each team or individual wishing to participate in this challeng
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <h4>Judging Panel</h4>
 <p>Submissions will be reviewed by experts in technology, open data, product development community engagement, user centered design, and the policy issues covered in the prize categories, from federal agencies as well as external organizations. </p> 
@@ -366,7 +366,7 @@ how-to-enter: <p>Each team or individual wishing to participate in this challeng
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Each team or individual wishing to participate in this challenge competition can apply by submitting an application package <strong>by email to <a href="mailto:TOPprize@census.gov" target="_blank" rel="noopener">TOPprize@census.gov</a></strong>, by 11:59 p.mn. ET on November 1, 2019. Application materials received after this time will not be evaluated. Submissions can be modified until 11:59 p.m. ET on November 1, 2019. Please note that the latest application package sent will be the only one evaluated. Any questions about this prize challenge can be directed to <a href="mailto:TOPprize@census.gov" target="_blank" rel="noopener">TOPprize@census.gov</a>.</p>
 <p><strong>Submission Email: </strong><a href="mailto:TOPprize@census.gov" target="_blank" rel="noopener">TOPprize@census.gov</a>.</p> 

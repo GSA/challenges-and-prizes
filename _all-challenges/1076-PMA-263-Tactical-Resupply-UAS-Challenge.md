@@ -60,7 +60,7 @@ how-to-enter: <p>Eligible and interested applicants should visit <a href="http:/
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p style="font-weight:400;"><strong>Winners Announced</strong></p>
 <p style="font-weight:400;">The Department of the Navy has announced the winners of the PMA-263 Tactical Resupply UAS Challenge as follows:</p>
@@ -81,7 +81,7 @@ how-to-enter: <p>Eligible and interested applicants should visit <a href="http:/
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Total Prize Pool</strong></p>
 <p>$225,000</p>
@@ -93,7 +93,7 @@ how-to-enter: <p>Eligible and interested applicants should visit <a href="http:/
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>The air vehicle must autonomously launch, navigate, and recover. The air vehicle must transit at an airspeed no less than 25 knots and an altitude no greater than 1000 feet above ground level (AGL). The air vehicle must be capable of launching and recovering without a catapult, arresting net or cable, or other mechanical launch or recovery equipment. Participants shall ensure that their air vehicle is equipped with a transponder with a minimum of a Mode-3/C capability.&nbsp; Additional points will be awarded to air vehicles that integrate autonomous airborne sense &amp; avoid, landing zone assessment, and ground obstacle avoidance capabilities.</p>
 <p>Participants will be required to provide the Government with lost-link/return-to-home procedures to support range safety requirements. Participants will also be required to provide the Government with technical information to support coordination for civil landing permits, frequency spectrum authorization, Commercial-of-the-Shelf (COTS) waiver approvals, and Government facility access. Participants will provide data that validates the maximum theoretical range of their air vehicle with a 45 pound payload.&nbsp;</p>
@@ -105,12 +105,12 @@ how-to-enter: <p>Eligible and interested applicants should visit <a href="http:/
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>The Fly-Off scoring rubric will be provided to competitors with their invitation to the Phase-2 Fly-Off challenge event.</p>
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Eligible and interested applicants should visit <a href="http://impax.tech/uls-prize-challenge" target="_blank" rel="noopener">impax.tech/uls-prize-challenge</a> to learn more about the conduct of the prize challenge, evaluation criteria, information that must be provided, and to apply for participation. Applications for participation will be accepted until 2359 EDT on 18 October 2019.&nbsp; Invitations to participate in the Phase-2 Fly-Off will be issued via e-mail no later than 2359 EDT on 25 October 2019.&nbsp; Responses to invitations will be due no later than 2359 EST on 8 November 2019.</p>

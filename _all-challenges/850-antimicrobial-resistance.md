@@ -68,7 +68,7 @@ prizes: <p><strong>Winners in Phases</strong></p>
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Antimicrobial Resistance Rapid, Point-of-Need Diagnostic Test&rsquo; Challenge &ndash; CCC Innovation Center</p>
 <h3 data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" data-ultimate-target="#Info-box-wrap-6752 .aio-icon-title">Notice</h3>
@@ -82,7 +82,7 @@ prizes: <p><strong>Winners in Phases</strong></p>
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Winners in Phases</strong></p>
 <p>$20,000,000.00</p>

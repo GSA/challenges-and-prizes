@@ -40,7 +40,7 @@ how-to-enter: <p><span lang="EN">Additional challenge information as well as the
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 <div class="description">
 <p><strong><span lang="EN-GB">Problem Statement</span></strong></p>
 <p><span lang="EN">Traditional approaches in health services research rely on rigorous methods, the availability of recent data, and peer review to assure the highest quality of analyses. However, some decision-makers must make policy decisions quickly with the current information available and cannot wait until new analyses are complete. Predictive analytics and related methods may offer a solution to balance the need for rapid information and academic rigor. While predictive analytics and related methods have been used successfully in many fields, their use to understand how healthcare is delivered is largely unexplored.</span></p>
@@ -50,7 +50,7 @@ how-to-enter: <p><span lang="EN">Additional challenge information as well as the
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 <div class="prize-item">
 <h4 class="text-primary">Breakdown</h4>
 <p class="prize"><strong>$225,000</strong></p>
@@ -62,17 +62,17 @@ how-to-enter: <p><span lang="EN">Additional challenge information as well as the
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 <p><span lang="EN">Additional Challenge information as well as the submission page is found at:&nbsp;<a href="https://www.ahrq.gov/predictive-analytics-challenge" target="_blank" rel="noopener">https://www.ahrq.gov/predictive-analytics-challenge</a></span></p>
 <p><span lang="EN">For questions about the challenge, please email </span><span lang="EN"><a href="mailto:ahrqchallenge@ahrq.hhs.gov" target="_blank" rel="noopener">ahrqchallenge@ahrq.hhs.gov</a></span><span lang="EN">.</span></p>
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
   <p><span lang="EN">Judging Criteria can be found at the <a href="https://www.ahrq.gov/predictive-analytics-challenge" target="_blank" rel="noopener">Challenge website</a>.</span></p>
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 <p><span lang="EN">Additional challenge information as well as the submission page is found at:&nbsp;<a href="https://www.ahrq.gov/predictive-analytics-challenge" target="_blank" rel="noopener">https://www.ahrq.gov/predictive-analytics-challenge</a></span></p>
 <p><span lang="EN">For questions about the challenge, please email </span><span lang="EN"><a href="mailto:ahrqchallenge@ahrq.hhs.gov" target="_blank" rel="noopener">ahrqchallenge@ahrq.hhs.gov</a></span><span lang="EN">.</span></p>

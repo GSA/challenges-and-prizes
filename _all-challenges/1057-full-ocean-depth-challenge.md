@@ -327,7 +327,7 @@ how-to-enter: <div class="how-to-enter">
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+
 
 <div class="description">
 <p>Full ocean depths (nominally 6000m) and long-term exposure to seawater create great challenges in the undersea environment. These challenges restrict the design and capability of weapons, electronics and vehicles both manned and unmanned.</p>
@@ -337,7 +337,7 @@ how-to-enter: <div class="how-to-enter">
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+
 
 <div class="prizes">
 <h3>Total Cash Prize Pool</h3>
@@ -351,7 +351,7 @@ how-to-enter: <div class="how-to-enter">
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+
 
 <div class="rules">
 <h3>Terms and Conditions</h3>
@@ -398,7 +398,7 @@ how-to-enter: <div class="how-to-enter">
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+
 
 <div class="judging">
   <h3>Judging Panel</h3>
@@ -638,7 +638,7 @@ how-to-enter: <div class="how-to-enter">
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+
 
 <div class="how-to-enter">
 <p>Entries must be submitted via email to Christopher Hebert <a href="mailto:christopher.r.hebert@navy.mil" target="_blank" rel="noopener">christopher.r.hebert@navy.mil</a> by 02:00 Eastern Time (ET) on 12 September 2019. Submissions received after the deadline will not be considered.</p>

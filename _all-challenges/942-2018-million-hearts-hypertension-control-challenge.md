@@ -108,7 +108,7 @@ how-to-enter: <p>To enter the Challenge, participants must complete the applicat
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>The Centers for Disease Control and Prevention (CDC), located within the Department of Health and Human Services (HHS), announces the launch of the Million Hearts&reg; Hypertension Control Challenge.</p>
 <p>Million Hearts&reg;&nbsp;is a national initiative to prevent one million heart attacks and strokes by 2022. Achieving this goal means 10 million more Americans must have their blood pressure under control. Million Hearts&reg; is working to control high blood pressure through clinical approaches, such as using health information technology to its fullest potential and integrating team-based approaches to health care, and community approaches, such as strengthening tobacco control and promoting physical activity.</p>
@@ -118,13 +118,13 @@ how-to-enter: <p>To enter the Challenge, participants must complete the applicat
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Up to 35 Champions will be recognized locally and nationally. No cash prize will be awarded. In addition to recognition on the Million Hearts&reg; and CDC websites, national press releases will be initiated to recognize and congratulate Champions. Documentation of clinical systems and strategies champions adopted that support hypertension control will be housed on this website and attributed to Champions.</p>
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>The Million Hearts&reg; Hypertension Control Challenge is open to public and private individual clinicians, practices, and health systems providing health care services to patients in a U.S. state or territory. To be eligible to be recognized as a Hypertension Control Champion, the applicant must:</p>
 <ol>
@@ -186,7 +186,7 @@ how-to-enter: <p>To enter the Challenge, participants must complete the applicat
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>To enter the Challenge, participants must complete the application form online. The application form is a combination of short answer responses, checkbox responses, and assurances. Application information includes:</p>
 <ol>

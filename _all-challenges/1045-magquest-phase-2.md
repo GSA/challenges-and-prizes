@@ -64,7 +64,7 @@ how-to-enter: <p>Receive timely updates on MagQuest by&nbsp;<a href="https://mag
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Visit the official MagQuest website at <a href="http://www.magquest.com/" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=http://www.magquest.com/&amp;source=gmail&amp;ust=1561058760020000&amp;usg=AFQjCNF_fdo9eSSihcUw0MoFc2xTJbG8ew">http://www.magquest.com/</a>. Receive timely updates by&nbsp;<a href="https://magquest.us2.list-manage.com/subscribe?u=441bc2dfe9a009f0cf6c7d02b&amp;id=13b0ece820" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://magquest.us2.list-manage.com/subscribe?u%3D441bc2dfe9a009f0cf6c7d02b%26id%3D13b0ece820&amp;source=gmail&amp;ust=1561058760020000&amp;usg=AFQjCNHtSiGohOO1ydru9TqOflNe88wiEA">signing up for the MagQuest newsletter</a>.</p>
 <p><strong>What is the World Magnetic Model?</strong></p>
@@ -94,7 +94,7 @@ how-to-enter: <p>Receive timely updates on MagQuest by&nbsp;<a href="https://mag
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Phases 1-2 Total Prize Pool: $1.2 million</strong></p>
 <p><strong>Phase 1: $200,000</strong></p>
@@ -105,14 +105,14 @@ how-to-enter: <p>Receive timely updates on MagQuest by&nbsp;<a href="https://mag
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>The rules for MagQuest Phase 2 can be found here:&nbsp;<a href="https://www.magquest.com/rules-terms-conditions/" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://www.magquest.com/rules-terms-conditions/&amp;source=gmail&amp;ust=1561058270045000&amp;usg=AFQjCNFXcHXF80ZPWjQtWl65OfJ8h8-f1A">https://www.magquest.com/<wbr />rules-terms-conditions/</a></p>
       
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Performance. </strong>The degree to which the integrated design (including sensor, platform, and data analysis) indicates an ability to achieve or exceed the necessary data requirements for production of the WMM (see target performance metrics in <a href="https://www.magquest.com/additional-resources/">Additional Resources</a>).</p>
 <p><strong>Technical Feasibility. </strong>The extent to which the design uses technically sound methods, the solver identifies potential risks, and proposes credible mitigation strategies.</p>
@@ -122,6 +122,6 @@ how-to-enter: <p>Receive timely updates on MagQuest by&nbsp;<a href="https://mag
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Receive timely updates on MagQuest by&nbsp;<a href="https://magquest.us2.list-manage.com/subscribe?u=441bc2dfe9a009f0cf6c7d02b&amp;id=13b0ece820">signing up for the newsletter</a>.<strong><br /> <br /> </strong>To register and participate in this competition, visit the official MagQuest website at <a href="http://www.magquest.com">www.MagQuest.com</a><u>.</u></p>

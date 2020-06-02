@@ -100,7 +100,7 @@ how-to-enter: <p><strong>Submission Requirements</strong></p>
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Congratulations to the winners, and thank you to all who participated!&nbsp;<a href="https://www.hhs.gov/about/news/2017/06/06/onc-announces-winners-privacy-policy-snapshot-challenge.html">Read the press release announcing the winners.</a></strong></p>
 <p><strong>SUMMARY:</strong>&nbsp;The Privacy Policy Snapshot Challenge is a call for designers, developers, and health data privacy experts to create an online Model Privacy Notice (MPN) generator. The MPN is a voluntary, openly available resource designed to help health technology developers who collect digital health data clearly convey information about their privacy and security policies to their users. Similar to a nutrition facts label, the MPN provides a snapshot of a product&rsquo;s existing privacy practices, encouraging transparency and helping consumers make informed choices when selecting products. The MPN does not mandate specific policies or substitute for more comprehensive or detailed privacy policies.&nbsp;</p>
@@ -119,7 +119,7 @@ how-to-enter: <p><strong>Submission Requirements</strong></p>
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>First Place - R. Jason Cronk and Professor Daniel J. Solove</strong></p>
 <p>$20,000.00</p>
@@ -133,7 +133,7 @@ how-to-enter: <p><strong>Submission Requirements</strong></p>
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Eligibility Rules for Participating in the Challenge: </strong> To be eligible to win a prize under this Challenge, an individual or entity:</p>
 <ol>
@@ -164,7 +164,7 @@ how-to-enter: <p><strong>Submission Requirements</strong></p>
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <div>
 <ul>
@@ -177,7 +177,7 @@ how-to-enter: <p><strong>Submission Requirements</strong></p>
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Submission Requirements</strong></p>
 <p>Submitters must submit the following through the challenge webpage:</p>

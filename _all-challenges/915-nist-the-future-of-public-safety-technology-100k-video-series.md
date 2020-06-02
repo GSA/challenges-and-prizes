@@ -180,7 +180,7 @@ how-to-enter: <h3>Registration</h3>
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong><u>Background</u></strong></p>
 <p>Every few months it feels like there&rsquo;s some new revolutionary thing that can be done with a smartphone, but smartphones are just one small part of the unprecedented advancements in our lives. &nbsp;Combine things such as augmented reality displays with the vast amounts of information we&rsquo;re collecting about our world, and you can help transform technology used by Public Safety and First Responders. &nbsp;This Prize Challenge will help the PSCR (Public Safety Communications Research) team champion its mission and inspire the American public to make the world a safer place.</p>
@@ -207,7 +207,7 @@ how-to-enter: <h3>Registration</h3>
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>PHASE 1: CONCEPT: $2,000.00</strong></p>
 <p>Congratulations to the 4 winners, each receiving $500 for their Concept creation. The winners are Nehemiah Mabry, Adam Sherrett, Hitmakers Media and Levinson Brothers. On to the Pitch Phase...</p>
@@ -220,7 +220,7 @@ how-to-enter: <h3>Registration</h3>
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Official Rules</strong> Following are the Official Rules and Terms of Participation for NIST&rsquo;s Public Safety Communications Research Division&rsquo;s (hereinafter <strong>&ldquo;Sponsor&rdquo;</strong>) The Future of Public Safety Technology $100K Video Series. This document on Challenge.gov serves as the official record for The Future of Public Safety Technology $100K Video Series Challenge. Official entry is through a third-party site, Tongal.com (hereinafter <strong>&ldquo;Tongal&rdquo;</strong> or <strong>&ldquo;Tongal.com&rdquo;</strong>), and Participants must register there to compete in the challenge and submit an entry. No entries will be accepted through Challenge.gov.</p>
 <ol>
@@ -307,7 +307,7 @@ how-to-enter: <h3>Registration</h3>
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <div>
 <p><strong>Originality&nbsp;- 25%</strong></p>
@@ -340,7 +340,7 @@ how-to-enter: <h3>Registration</h3>
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <h3>Registration</h3>
 <p>To register for the challenge competition:</p>

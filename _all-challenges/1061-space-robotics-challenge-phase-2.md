@@ -56,7 +56,7 @@ how-to-enter: <p>All interested teams must register on the <a href="http://www.s
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Phase 1 of the Space Robotics Challenge focused on increasing the autonomous dexterous capabilities of humanoid robots (NASA's R5 robot) in a virtual Martian environment. The final Phase 1 winners were announced in June 2017.</p>
 <p>Phase 2 of the Space Robotics Challenge is seeking to foster the creation or advancement of autonomous capabilities of lunar surface robots. Future ISRU missions may occur on surfaces such as Earth's moon, and will likely need to operate autonomously for long periods of time before, during, and after the presence of astronauts. Robots that can successfully perform ISRU tasks with little to no human intervention are valuable due to both the communication latencies and limited bandwidth between these destinations and Earth. Additionally, NASA has unique constraints for robotic systems in space compared to terrestrial applications, namely the radiation and thermal environments encountered, which affect the processing and sensing capabilities available for robotic systems. It is also recognized that many of the robotic capabilities needed for future exploration missions could have highly valuable functionality for terrestrial robotic applications, such as disaster relief, exploration of difficult and/or dangerous terrains, and industrial plant maintenance and servicing.</p>
@@ -64,7 +64,7 @@ how-to-enter: <p>All interested teams must register on the <a href="http://www.s
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Qualification Round:</strong> The Top 25 scoring competitors in the Qualification Round that meet or exceed a given threshold score, will be awarded prizes from a purse of $375,000 USD.</p>
 <p>Only the Top 25 scoring competitors will be invited to compete in the Competition Round.</p>
@@ -81,13 +81,13 @@ how-to-enter: <p>All interested teams must register on the <a href="http://www.s
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>For complete rules, visit&nbsp;<a href="http://www.spaceroboticschallenge.com">www.spaceroboticschallenge.com</a></p>
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Qualification Round</strong>: The Qualification Round is comprised of three tasks. Each task will come with its own simulation environment and will be awarded points as described in the Official Challenge Rules (<a href="http://www.spaceroboticschallenge.com">spaceroboticschallenge.com</a>)</p>
 <ul>
@@ -102,7 +102,7 @@ how-to-enter: <p>All interested teams must register on the <a href="http://www.s
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>All interested teams must register on the <a href="http://www.spaceroboticschallenge.com" target="_blank" rel="noopener">official challenge site</a> by the given deadline and meet the eligibility requirements as stated in the Official Rules in order to participate in the Challenge.</p>
 <p>For questions about this challenge, please contact: <a href="mailto:hq-stmd-centennialchallenges@mail.nasa.gov">hq-stmd-centennialchallenges@mail.nasa.gov</a></p>

@@ -326,7 +326,7 @@ how-to-enter: <p>Entries must be submitted via email to Christopher Hebert <a hr
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Developing a Self-Healing material system for composite structures and/or vehicles in order to mitigate and/or counteract the adverse effects of fatigue, cyclic, and low impact damage while potentially extending service life and reducing maintenance costs.</p>
 <p>The goal of this prize challenge is to seek solutions or technology to:</p>
@@ -334,7 +334,7 @@ how-to-enter: <p>Entries must be submitted via email to Christopher Hebert <a hr
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Total Cash Prize Pool</strong></p>
 <p>The total prize purse is up to $755,000. Naval Undersea Warfare Center, Division Newport (NUWCDIVNPT) and Office of Naval Research (ONR) may select up to three Phase III winners.</p>
@@ -346,7 +346,7 @@ how-to-enter: <p>Entries must be submitted via email to Christopher Hebert <a hr
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Terms and Conditions</strong></p>
 <p>These terms and conditions apply to all participants in the Challenge.</p>
@@ -391,7 +391,7 @@ how-to-enter: <p>Entries must be submitted via email to Christopher Hebert <a hr
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Judging Panel</strong></p>
 <p>The Technology Pitch and Technology Demonstration will be presented to NUWCDIVNPT and ONR experts.</p>
@@ -641,7 +641,7 @@ how-to-enter: <p>Entries must be submitted via email to Christopher Hebert <a hr
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Entries must be submitted via email to Christopher Hebert <a href="mailto:christopher.r.hebert@navy.mil">christopher.r.hebert@navy.mil</a> by 02:00 Eastern Time on 05 November 2019. Submissions received after the deadline will not be considered.</p>
 <p>Submissions including attachments shall use the following filename convention:</p>

@@ -69,7 +69,7 @@ how-to-enter: <p>Those proposing solutions should submit their white papers by w
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>We need your innovative solutions! The advent of realistic simulations via Virtual Reality technologies, presents excellent opportunities to conduct more effective education and training in a wide array of applications. We are looking for your concept for an educational environment created in a Virtual Reality workspace to provide Air Force students a basic understanding of the organization, component functions, and operations of an AOC. The immediate objective is to create a prototype virtual reality application which achieves the key training and educational outcomes, while demonstrating the art of the possible with respect to the efficacy of VR in training and education. Detailed graphic artistry is not required at this initial stage. The goal of this particular Design Challenge process is to award contract(s) to develop and deploy a working prototype of a VR AOC educational environment for use at the Air University, Maxwell AFB, AL, as well as across the Air Force.</p>
 <p><strong>Posting a Solution</strong></p>
@@ -99,7 +99,7 @@ how-to-enter: <p>Those proposing solutions should submit their white papers by w
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <ul>
 <li>A chance to secure funding for prototype and experimentation</li>
@@ -111,14 +111,14 @@ how-to-enter: <p>Those proposing solutions should submit their white papers by w
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Additional information as well as the submission page is found at:</p>
 <p><a href="https://mgmwerx.org/mgmwerx-challenge/virtual-aoc-challenge/" target="_blank" rel="noopener">https://mgmwerx.org/mgmwerx-challenge/virtual-aoc-challenge/</a></p>
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>During this phase, a team of USAF customers will review solution proposals.&nbsp; The top solution(s) meeting the specified requirements will be invited to participate in a design sprint phase beginning in late October 2019.</p>
 <ul>
@@ -129,6 +129,6 @@ how-to-enter: <p>Those proposing solutions should submit their white papers by w
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Those proposing solutions should submit their white papers by way of our <a href="https://mgmwerx.org/mgmwerx-challenge/virtual-aoc-challenge/" target="_blank" rel="noopener">challenge website</a>.</p>

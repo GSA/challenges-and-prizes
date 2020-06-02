@@ -241,7 +241,7 @@ how-to-enter: <div role="tabpanel" aria-labelledby="challenge-how-to-enter-tab" 
 
 <!-- Description -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <div class="description">
 
@@ -267,7 +267,7 @@ how-to-enter: <div role="tabpanel" aria-labelledby="challenge-how-to-enter-tab" 
 
 <!-- Prizes Start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Overview</strong></p>
 <p>The total prize purse is up to $425,000. For details of prizes, see the "Prizes" section in the&nbsp;<strong>Description</strong>&nbsp;tab.</p>
@@ -351,7 +351,7 @@ how-to-enter: <div role="tabpanel" aria-labelledby="challenge-how-to-enter-tab" 
 <!-- Rules Start -->
 
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 
 <p><strong><span lang="EN">Official Rules of Phase 1: Concept Paper Contest</span></strong></p>
@@ -515,7 +515,7 @@ how-to-enter: <div role="tabpanel" aria-labelledby="challenge-how-to-enter-tab" 
 
 <!-- start of Judging -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <div id="judging-criteria">
 
@@ -566,7 +566,7 @@ how-to-enter: <div role="tabpanel" aria-labelledby="challenge-how-to-enter-tab" 
 <!--  How To Enter -->
 
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <div role="tabpanel" aria-labelledby="challenge-how-to-enter-tab" tabindex="0" class="tab-pane" id="challenge-how-to-enter">
 <div class="jumbotron description">

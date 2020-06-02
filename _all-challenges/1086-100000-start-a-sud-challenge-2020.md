@@ -102,7 +102,7 @@ how-to-enter: <p>Eeach team is required to identify a team leader who registers 
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Update:</strong> NIDA understands that the emergency declaration related to novel coronavirus (COVID-19) will adversely affect many Challenge applicants' ability to submit applications in a timely manner.</p>
 <p>Therefore, Challenge applications will be accepted through May 26, 2020. New dates for the judging period and winners announcement are also reflected under "Dates" in this section.</p>
@@ -127,14 +127,14 @@ how-to-enter: <p>Eeach team is required to identify a team leader who registers 
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Amount of the Prize; Award Approving Official. </strong>The Challenge will offer up to ten awards of $10,000 each and provide technical expertise and mentoring from NIDA scientific research-based entrepreneurship experts for MVP development. The total prize award pool is up to $100,000. The names of the winners and the titles of their submissions will be posted on the NIDA web site. The award approving official for this Challenge is the Director of the National Institute on Drug Abuse.</p>
 <p><strong>Payment of the Prize. </strong>Prizes awarded under this Challenge will be paid by electronic funds transfer and may be subject to Federal income taxes. The NIH/NIDA will comply with the Internal Revenue Service withholding and reporting requirements, where applicable. In case of team submission, the prize will be paid to the team leader.</p>
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>The Challenge is open to any participant(s) 18 years of age or older. No prior startup experience is necessary. A participant may be (i) an entity or (ii) an individual or group of individuals (i.e., a team assembled with the purpose of participating in this Challenge).</p>
 <ol>
@@ -164,7 +164,7 @@ how-to-enter: <p>Eeach team is required to identify a team leader who registers 
   
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Basis upon Which the Winner Will Be Selected. </strong>The judging panel will make recommendations to the award approving official based upon the following 5 criteria. Each criterion will be scored with the maximum of 10 points. </p>
 <ol>
@@ -178,7 +178,7 @@ how-to-enter: <p>Eeach team is required to identify a team leader who registers 
   
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Eeach team is required to identify a team leader who registers and submits a solution on behalf of the team. All submission materials must be emailed to <a href="mailto:koustovae@nida.nih.gov" target="_blank" rel="noopener">koustovae@nida.nih.gov</a> by the specified submission deadline date and time.</p>
 <h4><strong>Submission Requirements</strong></h4>

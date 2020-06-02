@@ -89,7 +89,7 @@ how-to-enter: <p>For instructions on how to apply, visit:&nbsp; <a href="https:/
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Gender-based violence (GBV) is estimated to affect more than one in three women worldwide. This widespread problem takes a variety of forms, including sexual, psychological, community, economic, institutional, and intimate partner violence, and in turn affects nearly every aspect of a person's life, including health, education, and economic and political opportunities. At the same time, environmental degradation, loss of ecosystem benefits, and unsustainable resource use are creating complex crises worldwide. As billions of people rely on these natural resources and ecosystems to sustain themselves, the potential human impacts are dire, with disproportionate effects on women and girls.</p>
 <p>GBV and environmental issues are interlinked, and so their interactions are complex, diverse, and multi-layered. In some contexts, they form feedback loops where gender-based attacks, harassment, and discrimination worsens the loss of biodiversity and ecosystem resources, and this environmental deterioration triggers new, more damaging forms of violence. In other contexts, preventing and responding to GBV unlocks opportunities for enhanced environmental action, as well as for women's and community empowerment.</p>
@@ -108,7 +108,7 @@ how-to-enter: <p>For instructions on how to apply, visit:&nbsp; <a href="https:/
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Total Prize Pool</strong></p>
 <p>$1,200,000</p>
@@ -119,13 +119,13 @@ how-to-enter: <p>For instructions on how to apply, visit:&nbsp; <a href="https:/
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>The RISE Challenge rules are available in the Request for Applications: <a href="https://drive.google.com/file/d/16kKS2hqO_vooZSrucwDuobt_TBF4jABC/view">https://drive.google.com/file/d/16kKS2hqO_vooZSrucwDuobt_TBF4jABC/view</a>.</p>
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Judging Panel</strong></p>
 <p>Expert judges from among USAID's Missions and Bureaus and affiliated partners will review the remaining applications and assess them against the judging criteria.</p>
@@ -166,7 +166,7 @@ how-to-enter: <p>For instructions on how to apply, visit:&nbsp; <a href="https:/
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>For instructions on how to apply, visit: <a href="https://competitions4dev.org/risechallenge" target="_blank" rel="noopener">https://competitions4dev.org/risechallenge</a>.</p>
 

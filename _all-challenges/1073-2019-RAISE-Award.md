@@ -120,7 +120,7 @@ how-to-enter: <p><strong>Expression of Interest:&nbsp; Due by October 15</strong
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>The Secretary of Transportation is announcing the sixth annual competition to recognize students with the ability to demonstrate unique and innovative thinking in aerospace science and engineering.&nbsp; This competition includes a high school division and both a graduate and undergraduate university division.&nbsp; The Department of Transportation (DOT) intends to use this competition to incentivize students at high schools and universities to think creatively in developing innovative solutions to aviation and aerospace challenges, and to share their innovations with the broader community.&nbsp;</p>
 <p>The Secretary&rsquo;s RAISE Award competition will recognize innovative scientific and engineering achievements that will have a significant impact on the future of aerospace or aviation.&nbsp;&nbsp; On behalf of the Secretary, the Federal Aviation Administration (FAA) will accept student submissions and will invite subject-matter-experts to conduct an evaluation of all qualifying entries in December.&nbsp;</p>
@@ -128,13 +128,13 @@ how-to-enter: <p><strong>Expression of Interest:&nbsp; Due by October 15</strong
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>The selectee is expected to be announced in 2020.&nbsp;&nbsp; A trophy with the student&rsquo;s name and date of award will be displayed at the Department of Transportation and a display copy of the trophy will be sent to the student&rsquo;s school/college/university.&nbsp; Each student will receive a plaque.&nbsp; At the option of the FAA Administrator, the FAA will pay for invitational travel expenses to Washington, DC for up to four representatives of the winning team(s) to attend an awards ceremony and for students who may also be invited to present their project(s) to FAA and DOT officials.</p>
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Eligibility</strong>:</p>
 <p>To be eligible to participate in the Secretary&rsquo;s RAISE Award competition, students must be citizens of the United States or permanent residents.&nbsp; For the high school division, the students must have been enrolled in at least one semester (or quarterly equivalent) at a U.S. high school (or equivalent approved home school program) in 2019.&nbsp; For the university division, the student must have been enrolled in a U.S.-based college or university for at least one semester (or quarterly equivalent) during 2019.&nbsp; Students may participate and be recognized as individuals or in teams.&nbsp; Each member of a team must meet the eligibility criteria.&nbsp; An individual may join more than one team.&nbsp; There is no charge to enter the competition.</p>
@@ -142,7 +142,7 @@ how-to-enter: <p><strong>Expression of Interest:&nbsp; Due by October 15</strong
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Panel members will judge entries against other submissions from the same division or category based on the following selection criteria.</p>
 <p><strong>Technical Merit: </strong></p>
@@ -191,7 +191,7 @@ how-to-enter: <p><strong>Expression of Interest:&nbsp; Due by October 15</strong
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Expression of Interest:&nbsp; Due by October 15</strong></p>
 <p>While not required, students are strongly encouraged to send brief expressions of interest to the FAA prior to submitting entries.&nbsp; The expressions of interest should be received by noon eastern time on Tuesday, October 15. &nbsp;Send the following to <a href="mailto:Patricia.Watts@faa.gov">Patricia.Watts@faa.gov</a>:</p>
