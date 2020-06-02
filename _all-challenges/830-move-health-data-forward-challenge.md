@@ -229,7 +229,7 @@ how-to-enter: <p>Participants can register by visiting&nbsp;<a href="https://web
 ---
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><em><strong>***Thanks to all who entered the Move Health Data Forward Challenge! We&rsquo;ve completed our review for Phase 1, and our list of winners can be found here:&nbsp;<a href="http://www.hhs.gov/about/news/2016/11/02/hhs-announces-phase-1-winners-move-health-data-forward-challenge.html">http://www.hhs.gov/about/news/2016/11/02/hhs-announces-phase-1-winners-move-health-data-forward-challenge.html</a>.</strong></em></p>
 <p><em><strong>Join us for a live webinar showcasing the winning entries on 11/30 at 3pm ET / 12pm PT. Register here to join:&nbsp;<a href="https://west.exch027.serverdata.net/owa/redir.aspx?C=wqHJEHbtebVXHixuVO9NyKSlNGni7AF6YUPnEMYabWlE06WqPhnUCA..&amp;URL=https%3a%2f%2fattendee.gotowebinar.com%2fregister%2f350576362580662274" target="_blank" rel="noopener">https://attendee.gotowebinar.com/register/350576362580662274</a>.***</strong></em></p>
@@ -328,7 +328,7 @@ how-to-enter: <p>Participants can register by visiting&nbsp;<a href="https://web
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Total Phase 1 Prize Amount</strong></p>
 <p>$50,000.00</p>
@@ -342,7 +342,7 @@ how-to-enter: <p>Participants can register by visiting&nbsp;<a href="https://web
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>To be eligible to win a prize under this Challenge, an individual or entity:</p>
 <ol>
@@ -369,7 +369,7 @@ how-to-enter: <p>Participants can register by visiting&nbsp;<a href="https://web
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <div>
 <p><strong>Phase 1 - Participant Capabilities</strong></p>
@@ -451,7 +451,7 @@ how-to-enter: <p>Participants can register by visiting&nbsp;<a href="https://web
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Participants can register by visiting&nbsp;<a href="https://web.archive.org/web/20171204112114/https://www.challenge.gov/?post_type=challenge&amp;p=137291">https://www.challenge.gov/?post_type=challenge&amp;p=137291</a>&nbsp;and click &ldquo;Submit Solution&rdquo; anytime during the proposal submission period stated above. Instructions and Challenge information will be provided on the Challenge website.</p>
 <p>If potential participants are interested in finding team members for the Challenge, they may visit&nbsp;<a href="https://web.archive.org/web/20171204112114/https://www.challenge.gov/?post_type=challenge&amp;p=137291">https://www.challenge.gov/?post_type=challenge&amp;p=137291</a>&nbsp;to browse ONC events and register online anytime during the proposal submission period stated above.</p>

@@ -34,7 +34,7 @@ how-to-enter: <p><strong>All questions, registrations, and official entries are 
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>This launches Stage 1 of a planned two-stage competition, that culminates in a Grand Prize Challenge including lab or field prototype scale demonstrations. Reclamation&rsquo;s water conveyance system includes over 20,000 miles of buried pipelines made of various materials including metal, plastic, concrete, and composite.</p>
 <p>Municipal water utility collaborators also have extensive transmission and distribution pipeline networks. Pipeline components, such as joints, fittings, valves, and individual pipe sections, are subject to leakage due to damage, corrosion, and other types of degradation. Detecting water loss from pipelines will trigger appropriate maintenance, allowing conservation of scarce water resources and more reliable service to clients.</p>
@@ -44,18 +44,18 @@ how-to-enter: <p><strong>All questions, registrations, and official entries are 
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Stage 1 is a Theoretical Challenge that requires only a written proposal to be submitted. Reclamation has a total cash prize purse budget of $75,000 for Stage 1, as stated in the&nbsp;<a href="https://www.innocentive.com/ar/projectRoom/index?challenge=9933883" target="_blank" rel="noopener">Challenge-Specific Solver Agreement</a>.&nbsp; The minimum full award amount is $15,000. Reclamation can allocate higher individual award amounts up to the prize purse of $75,000, as it deems appropriate. The Challenge award will be contingent upon results of critical analysis and evaluation by Reclamation and the judging panel appointed by Reclamation.&nbsp; A total of up to five awards can be made for the highest ranked submissions meeting or exceeding the requirements (&ldquo;Solution Requirements&rdquo;) described in the Challenge details.&nbsp; However, the meeting of the Solution Requirements does not guarantee that the proposed solution will be awarded by Reclamation.&nbsp; Partial cash prizes may be considered for solutions that meet some, but not all, of the criteria.</p>
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>All questions, registrations, and official entries are found via the <a href="https://www.innocentive.com/ar/challenge/9933883">InnoCentive</a> website, which opens on the date of launch.</strong></p>
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>All questions, registrations, and official entries are found via the <a href="https://www.innocentive.com/ar/challenge/9933883">InnoCentive</a> website, which opens on the date of launch.</strong></p>

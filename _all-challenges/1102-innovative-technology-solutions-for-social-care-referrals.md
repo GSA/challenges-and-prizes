@@ -133,7 +133,7 @@ judging: <p><strong>Judging Panel</strong></p>
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>At an unprecedented pace, Federal and state leaders, community based organizations, and all avenues of the health care system are expending their time and resources to respond to the COVID-19 pandemic. We at ACL recognize the need and are expanding the timeline of this new funding opportunity. The Challenge Competition will now begin in July. As a result of this crises, there is a greater need for enhanced, standardized data tracking and referral processes and an even more need to connect people with the right community resources and supports. This will continue to be a priority as we think about the resources necessary to address the effects of COVID-19.</p>
 <p><strong>Today&rsquo;s Landscape of Health and Social Care Coordination for Older Adults and People with Disabilities:</strong></p>
@@ -187,13 +187,13 @@ judging: <p><strong>Judging Panel</strong></p>
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>The Challenge will compete in three phases with cash prizes awarded in each phase. The total prize award available is $500,000.</p> 
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>To be eligible to win a prize under this challenge, an individual or entity may participate as part of one or more teams. Team formation is strongly encouraged, and teams are not limited in the number of members. Each team must designate a captain who must be a U.S. citizen or permanent resident who is responsible for all correspondence regarding this Challenge. An individual or entity&mdash;</p>
 <ul>
@@ -220,7 +220,7 @@ judging: <p><strong>Judging Panel</strong></p>
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Judging Panel</strong></p>
 <p>The Judging Panel will be composed of federal and/or other technical and subject matter experts.</p>

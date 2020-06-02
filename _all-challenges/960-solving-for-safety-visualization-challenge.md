@@ -245,7 +245,7 @@ how-to-enter: <p>For more information, and to register your intent to compete as
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>VISUALIZING TRANSPORTATION SAFETY TO REDUCE SERIOUS CRASHES &amp; $350,000 TO MAKE IT A REALITY</strong></p>
 <p><strong>SUMMARY</strong></p>
@@ -309,7 +309,7 @@ how-to-enter: <p>For more information, and to register your intent to compete as
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Stage I, Ideation</strong></p>
 <p>In Stage I, all Solvers participating in the Challenge will develop ideas for an analytical visualization tool. Five Stage I semi-finalists will be invited to Stage II as semi-finalists to develop their ideations into proofs of concept and compete for a cash prize. If a selectee declines to participate in the next stage, an alternate may be selected.</p>
@@ -337,7 +337,7 @@ how-to-enter: <p>For more information, and to register your intent to compete as
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>SOLUTION SUBMISSION MATERIALS</strong></p>
 <p><strong>Stage I, Ideation</strong></p>
@@ -441,7 +441,7 @@ how-to-enter: <p>For more information, and to register your intent to compete as
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Stage I, Ideation</strong></p>
 <p>These criteria area weighted equally. The evaluation panels will consider each proposal&rsquo;s alignment with each of these criteria and make recommendations to the Under Secretary of Transportation for Policy. The Under Secretary selects as semi-finalists those proposals that best advance the purposes of this competition, as described in this notice.</p>
@@ -479,7 +479,7 @@ how-to-enter: <p>For more information, and to register your intent to compete as
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>For more information, and to register your intent to compete as a Solver or to commit your support of the Challenge as an Innovation Agent, visit&nbsp;<u><a href="http://www.transportation.gov/solve4safety">www.transportation.gov/solve4safety</a></u>. &nbsp;&nbsp;</p>
 <p><strong>Deadlines for Submitting Proposals&nbsp;</strong></p>

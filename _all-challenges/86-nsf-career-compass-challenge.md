@@ -193,7 +193,7 @@ how-to-enter: <p><strong>HOW CAN I ENTER?</strong></p>
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <div class="description">
   <h3>UPDATE (8/30): Congratulations to the Winners of Part 2!</h3>
@@ -241,7 +241,7 @@ how-to-enter: <p><strong>HOW CAN I ENTER?</strong></p>
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <h4>Part 1</h4>
 <p>Based on the quality of submissions received, five white papers were selected to win the award purse for Part 1. Each winner or winning team will receive a one-time prize of $5,000.00 to be issued in the form of an electronic direct deposit payment. For a participant&rsquo;s concept submission to be eligible to win Part 1 prize monies, the submitter must agree to have their winning concept materials posted on Challenge.gov and for the Part 2 solver community to be able to leverage the concept materials for prototype development.</p>
@@ -270,7 +270,7 @@ how-to-enter: <p><strong>HOW CAN I ENTER?</strong></p>
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>ENTRY GUIDELINES</strong></p>
 <ul>
@@ -299,7 +299,7 @@ how-to-enter: <p><strong>HOW CAN I ENTER?</strong></p>
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <h4>How will submitted prototypes in Part 2 of the challenge be judged?</h4>         
 <p>Judges will evaluate a collection of prototypes submitted. Based on the scoring, a single winning submission will be identified. A submission is considered a functional prototype at any stage of maturity (e.g. beta, v1.0, etc.)</p>
@@ -343,7 +343,7 @@ how-to-enter: <p><strong>HOW CAN I ENTER?</strong></p>
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>HOW CAN I ENTER?</strong></p>
 <ol>

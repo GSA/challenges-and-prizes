@@ -201,7 +201,7 @@ how-to-enter: <p>Registration for this event will be accomplished online at&nbsp
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 <p>The General Services Administration (GSA) is holding a coast-to-coast hackathon on Wednesday, June 19, 2019, aimed at bettering the customer experience of products in government.</p>
 <p>Throughout the federal government, as described in the <a href="https://www.performance.gov/PMA/PMA.html" target="_blank" rel="noopener">President&rsquo;s Management Agenda</a>, improving customer experience is a top priority. Customer experience can refer to the external customers and internal customers. This hackathon, we will be focusing on both. The participants will be including the newly-released <a href="https://digital.gov/2019/04/08/introducing-uswds-2/" target="_blank" rel="noopener">U.S. Web Design System 2.0</a> in their solutions.</p>
 <p>Throughout this all-day hackathon, taking place simultaneously at eight GSA locations nationwide, participants will evaluate real-world products and iterate on ideas for making the customer experience better in GSA applications.</p>
@@ -290,13 +290,13 @@ how-to-enter: <p>Registration for this event will be accomplished online at&nbsp
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 <p>GSA anticipates awarding four cash prizes, for a $20,000 total prize purse: four application-specific teams will be selected in the first round of judging to be eligible for a cash prize of $2,500 and move onto Round 2 judging. Of those, one solution will then be selected in Round 2 judging, and a $10,000 grand prize will be awarded that team, for a total of $12,500. Team application projects will be evaluated in accordance with the judging criteria outlined below. &nbsp;</p>
 <p>Funding for this Hackathon will come from GSA. &nbsp;Prizes will be distributed to the eligible winners via Electronic Funds Transfer (EFT), within 60 business days of the announcement of the winner(s). GSA will distribute the funds evenly to all team members listed in the original registrations who arrive at the Security Desk at their respective locations for the competition start time of 10:00am ET and stay for the full day (10:00a.m. - 4:00p.m. ET).</p>
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 <p><strong>Eligibility to Participate and Win a Cash Prize</strong></p>
 <ul>
 <li>A participant must have registered to participate and complied with all of the requirements under 15 U.S.C. 3719 and the competition rules.</li>
@@ -329,7 +329,7 @@ how-to-enter: <p>Registration for this event will be accomplished online at&nbsp
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 <div>10:00 am - 3:00 pm &mdash;&nbsp;Hacking</div>
 <div>3:00 - 4:00 pm &mdash;&nbsp;Round 1 judging, winners announced</div>
 <div>4:00 - 5:00 pm &mdash;&nbsp;Round 2 judging, winner announced</div>
@@ -392,7 +392,7 @@ how-to-enter: <p>Registration for this event will be accomplished online at&nbsp
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 <p>Registration for this event will be accomplished online at&nbsp;<a href="https://digital.gov/event/2019/06/19/gsa-customer-experience-cx-hackathon/" target="_blank" rel="noopener">https://digital.gov/event/2019/06/19/gsa-customer-experience-cx-hackathon/</a>, and remain open until Friday, June 14, 2019, 12 p.m. Eastern Time (ET). The event space is limited in each location and only one registration is allowed per person. Participants will receive a confirmation email after completing the online registration. Once registration is full for a particular site, GSA will no longer accept registrants at that location and registration for that location will close. There will be no waitlist for this Hackathon. No on-site registration will be allowed.</p>
 <p>All participants are required to check-in with Security upon arriving at the applicable GSA location. &nbsp;A U.S. Government-issued ID, such as a valid driver&rsquo;s license or passport, is required to gain access to GSA buildings.</p>
 <p>As a condition of participation in the Hackathon, all participants must agree to a photo release and an agreement to perform gratuitous (unpaid) services and to waive compensation for these services through eSign provided by GSA. GSA will provide a link for participants to sign the applicable documents on June 13, 2019 at 3pm ET. If a participant is unable to sign the eSign version of the documents, upon arrival at the event registration desk, all participants will sign a paper copy of the Photo Release and Agreement To Perform Gratuitous Services and Waive Compensation.</p>

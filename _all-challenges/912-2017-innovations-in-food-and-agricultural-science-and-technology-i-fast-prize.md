@@ -147,7 +147,7 @@ how-to-enter: <div class="howtoenter">
 
   <!-- Description start -->
   ### Description
-  {: .text-accent-warm-dark .font-heading-lg .challenge-section}
+  
 
   <div class="description">
     <p><strong>SUMMARY:</strong></p>
@@ -193,7 +193,7 @@ how-to-enter: <div class="howtoenter">
 
   <!-- Prizes start -->
   ### Prizes
-  {: .text-accent-warm-dark .font-heading-lg .challenge-section}
+  
 
   <div class="prize-item">
           <h4 class="text-primary">2017 Innovations in Food and Agricultural Science and Technology (I-FAST) Prize Competition</h4>
@@ -207,7 +207,7 @@ how-to-enter: <div class="howtoenter">
 
   <!-- Rules start -->
   ### Rules 
-  {: .text-accent-warm-dark .font-heading-lg .challenge-section}
+  
 
   <div class="rules">
   <p><strong>Eligibility Rules for Participating in the Competition: </strong></p>
@@ -241,7 +241,7 @@ how-to-enter: <div class="howtoenter">
 
   <!--  How To Enter start -->
   ### How To Enter
-  {: .text-accent-warm-dark .font-heading-lg .challenge-section}
+  
 
   <div class="howtoenter">
     <p>(Only Selected Pre-Applicants are Eligible)</p>

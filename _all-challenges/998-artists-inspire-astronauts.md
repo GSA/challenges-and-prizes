@@ -102,7 +102,7 @@ how-to-enter: <div class="how-to-enter">
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg}
+
 
 <h3>Winners Announced</h3>
 <p>NASA's Kennedy Space Center has announced the winners of the Artists Inspire Challenge as follows: </p>
@@ -128,7 +128,7 @@ how-to-enter: <div class="how-to-enter">
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg}
+
 
 <div class="prizes">
 <ul>
@@ -139,7 +139,7 @@ how-to-enter: <div class="how-to-enter">
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg}
+
 
 <div class="rules">
 <h4><strong>Submission Requirements</strong></h4>
@@ -176,7 +176,7 @@ how-to-enter: <div class="how-to-enter">
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg}
+
 
 <div class="judging">
 <ul><li>Judging is subjective by panel and based on quality, originality, creativity and representation of theme.</li>
@@ -187,7 +187,7 @@ how-to-enter: <div class="how-to-enter">
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg}
+
 
 <div class="how-to-enter">
 <ul>

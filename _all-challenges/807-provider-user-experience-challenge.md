@@ -139,7 +139,7 @@ how-to-enter: <p>Participants will submit:</p>
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Read the <a href="https://www.hhs.gov/about/news/2017/01/12/onc-announces-winners-consumer-and-provider-app-challenges-improve-health-information-access-and-use">press release</a> announcing the final, Phase&nbsp;2 winners! Congratulations to them all!</strong></p>
 <p>The Provider User-Experience (UX)&nbsp;Challenge incents&nbsp;the development of applications that use open, standardized APIs to enable innovative ways for providers to interact with patient health data. This challenge will focus on demonstrating how data made accessible to apps through APIs&nbsp;can positively impact providers&rsquo; experience with EHRs by making clinical workflows more intuitive, specific to clinical specialty, and actionable. The lack of interoperability between electronic health record (EHR) systems remains a significant barrier to the modernization of health IT.&nbsp;<a href="https://www.hl7.org/fhir/overview.html" target="_blank" rel="noopener">Fast Healthcare Interoperability Resources</a>&nbsp;(FHIR), developed by HL7, is a standard designed to increase the liquidity of granular patient data. The FHIR API allows data to move between vendor systems both within and across different providers, not to mention through third-party applications for direct use by both clinicians and consumers. Among several opportunities now enabled by this interoperability standard are the new channels being opened up for improving a provider&rsquo;s user experience when interacting with EHRs and the &ldquo;consumability&rdquo; of interrelated health data.&nbsp;</p>
@@ -182,7 +182,7 @@ how-to-enter: <p>Participants will submit:</p>
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Phase 2 First Prize - Herald Health</strong></p>
 <p>$50,000.00</p>
@@ -207,7 +207,7 @@ how-to-enter: <p>Participants will submit:</p>
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>The statutory authority for this challenge competition is Section 105 of the America COMPETES Reauthorization Act of 2010 (Public L. No 111-358).</p>
 <p><strong>Eligibility Rules for Participating in the Competition:</strong> To be eligible to win a prize under this challenge, an individual or entity:</p>
@@ -234,7 +234,7 @@ how-to-enter: <p>Participants will submit:</p>
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Phase 2 - Number, sources, and types of data aggregation using FHIR</strong></p>
 <p>Success in achieving the technical requirements for the challenge</p>
@@ -259,7 +259,7 @@ how-to-enter: <p>Participants will submit:</p>
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Participants will submit:</p>
 <ul>

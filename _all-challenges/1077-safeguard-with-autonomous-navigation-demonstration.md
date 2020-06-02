@@ -41,7 +41,7 @@ description: <p>The Safeguard with Autonomous Navigation Demonstration (SAND) Ch
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>The Safeguard with Autonomous Navigation Demonstration (SAND) Challenge will be an opportunity for small businesses to compete in an autonomous unmanned aerial vehicle competition. The challenge will address some of the safety critical risks associated with flying UAVs in the National Airspace system (NAS): 1) flight outside of approved airspace and 2) unsafe Proximity to people or property.</p>
 <p>Beyond visual line of sight operations (BVLOS) is the holy grail of UAV operations. The stretch goal of the SAND challenge is to demonstrate that UAVs integrated with NASA Langley’s patented geo-fencing technology, Safeguard, can operate safely beyond visual line of sight in the NAS. NASA Langley’s patented Safeguard technology is designed to assuredly address the aforementioned safety critical risks and will fly onboard the competitor’s vehicle while navigating the competition course. Safeguard is NASA’s patented aviation quality geo-fencing technology. Safeguard is a verified and validated independent system that uses real-time data about the position of a UAV to determine its proximity to a set of pre-defined and pre-loaded lateral boundaries and an altitude limit.</p> 

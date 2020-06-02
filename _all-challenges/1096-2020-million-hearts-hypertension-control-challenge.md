@@ -177,7 +177,7 @@ submission-link: null
 
 
 ### Description 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 ![2020 Million Hearts Hypertension Control Challenge logo]({{ site.baseurl }}/assets/images/challenge-content/2020-Million-Hearts.png)
 
@@ -186,14 +186,14 @@ The Million Hearts® Hypertension Control Challenge is a competition to identify
 The Challenge is open to public and private clinicians, medical practices, and health systems located in the United States. Strategies used by Champions that support hypertension control may be written into a success story and posted on the Million Hearts® website at <u>[https://millionhearts.hhs.gov/](https://millionhearts.hhs.gov/)</u>.
 
 ### Prizes 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 ### Champion Recognition
 
 Up to 35 Champions will be recognized. Champions of the Million Hearts Hypertension Control Challenge will receive recognition by the Centers for Disease Control by having the name of their practice listed on the Million Hearts® website. **No cash prize will be awarded**.
 
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 ### Eligibility
 
@@ -243,7 +243,7 @@ An individual or entity shall not be deemed ineligible because the individual or
     3.  Participants are required to obtain liability insurance or demonstrate financial responsibility in the amount of $0, for claims by a third party for death, bodily injury, or property damage, or loss resulting from an activity carried out in connection with participation in a challenge.  No cash prize will be awarded. Champions will receive national recognition.
 
 ### Judging Criteria 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 The application will be scored based on the hypertension control rate for your most recent 12-month reporting period. 
 
@@ -258,7 +258,7 @@ Applicants must provide documents showing the criteria used to include patients 
 Performance categories: HIGH (90% – 100% of the records are in compliance with the review criteria); MEDIUM (60% – 89% in compliance); or LOW (less than 60% in compliance).
 
 ### How To Enter 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 To enter the Challenge, participants must complete the [application form](https://htnchampions.millionhearts.hhs.gov/) on the Million Hearts® site. The application form is a combination of short answer responses, checkbox responses, and assurances.
 

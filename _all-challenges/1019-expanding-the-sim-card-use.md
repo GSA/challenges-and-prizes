@@ -139,7 +139,7 @@ how-to-enter: <p>Visit Challenge.gov, review the series of contests in the Expan
 
 <!-- Description -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><img src="{{ site.baseurl }}/assets/images/challenge-content/timeline_SIMCard.jpg" alt="challenge timeline"/></p>
 <p><span lang="EN">The National Institute of Standards and Technology (NIST) Public Safety Communications Research (PSCR) Division and its co-sponsors are requesting solvers&rsquo; assistance to explore the possibilities and show that the Universal Integrated Circuit Card (UICC), commonly known as the SIM card, can be used as a secure storage container for public safety application credentials.&nbsp; Solvers are encouraged to participate in the <a href="http://www.publicsafetysimcard.com/">Expanding the SIM Card Use for Public Safety Challenge</a> (the &ldquo;Challenge&rdquo;) for a total prize purse of up to $100,000.</span></p>
@@ -166,7 +166,7 @@ how-to-enter: <p>Visit Challenge.gov, review the series of contests in the Expan
 
 <!-- Prizes Start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Overview</strong></p>
 <p>The total prize purse is up to $100,000. For details of prizes, see the "Prizes" section in the&nbsp;<strong>Description</strong>&nbsp;tab.</p>
@@ -202,7 +202,7 @@ how-to-enter: <p>Visit Challenge.gov, review the series of contests in the Expan
 <!-- Rules Start -->
 
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 
 <p><span lang="EN"><strong>Official Rules of Phase 1: Concept Paper</strong> </span></p>
@@ -313,7 +313,7 @@ how-to-enter: <p>Visit Challenge.gov, review the series of contests in the Expan
 
 <!-- start of Judging -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <div id="judging-criteria">
 
@@ -344,7 +344,7 @@ how-to-enter: <p>Visit Challenge.gov, review the series of contests in the Expan
 <!--  How To Enter -->
 
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Visit Challenge.gov, review the series of contests in the Expanding the SIM Card Use for Public Safety Challenge.</p>
 <ul>

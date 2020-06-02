@@ -59,7 +59,7 @@ how-to-enter: <div class="description">
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <div class="description">
 <p><span lang="EN">The EW mission system payload prize challenge aims to identify EW mission system payloads that will 1) Maximize payload performance to meet or exceed MUX mission system desired payload performance levels, 2) Minimize mission payload Size, Weight, Power, and Cooling (SWaP-C) requirements, 3) Maximize mission system payload(s) modularity, 4) Minimize mission payload maintainability and sustainability requirements, 5) Maximize mission system payload reliability, 6) Maximize a mission system payload's ability to be reconfigured and/or upgraded to adapt to and address emergent threats to the Marine Air Ground Task Force (MAGTF) in highly contested environments, 7) Provide a mission systems model(s), and 8) Minimize implementation, and Operations and Support (O&amp;S) cost(s).</span></p>
@@ -70,7 +70,7 @@ how-to-enter: <div class="description">
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Overview</strong></p>
 <p>The total prize purse is $1,000,000.</p>
@@ -84,7 +84,7 @@ how-to-enter: <div class="description">
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <div class="description">
 <p><span lang="EN">Detailed submission requirements, including terms and conditions, are provided at </span><span lang="EN"><a href="http://www.navair.navy.mil/muxchallenge" target="_blank" rel="noopener">http://www.navair.navy.mil/muxchallenge</a></span></p>
@@ -92,7 +92,7 @@ how-to-enter: <div class="description">
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <div class="judging-criterias">
 <div class="prize-item">
@@ -102,7 +102,7 @@ how-to-enter: <div class="description">
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <div class="description">
 <p><span lang="EN">Please visit </span><span lang="EN"><a href="http://www.navair.navy.mil/muxchallenge" target="_blank" rel="noopener">http://www.navair.navy.mil/muxchallenge</a></span>&nbsp;to learn more about the prize challenge, submission requirements, evaluation criteria, MBSE model descriptions, and terms and conditions.</p>
