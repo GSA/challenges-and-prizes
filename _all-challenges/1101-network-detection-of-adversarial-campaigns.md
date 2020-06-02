@@ -315,7 +315,6 @@ submission-link: null
 <!-- Description start -->
 
 ### Description
-
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>See <strong><a href="{{ site.baseurl }}/assets/document-library/AI-ATAC-Prize-Challenge-FAQ-2-05AUG19.pdf" target="_blank" rel="noopener">FREQUENTLY ASKED QUESTIONS</a>.</strong></p>
@@ -324,7 +323,6 @@ submission-link: null
 <!-- Prizes start -->
 
 ### Prizes
-
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>NAVWARSYSCOM has established $500,000 as the total amount set aside for cash prizes under this Challenge, and in the case of a lone winner, the entire cash prize will be awarded to the winning entry. In the unlikely event of a tie, NAVWARSYSCOM will determine an equitable method of distributing the cash prizes. If a prize goes to a team of Participants, NAVWARSYSCOM will award the cash prize to the individual/team&rsquo;s point of contact registered on the Challenge website.&nbsp;</p>
@@ -338,7 +336,6 @@ submission-link: null
 <!-- Rules start -->
 
 ### Rules
-
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>Each Participant (individual, team, or commercial entity) shall submit one entry in response to this Challenge. Team entries or commercial entity entries must have an individual identified as the primary point of contact and prize recipient. By submitting an entry, a Participant confirms ownership of the intellectual property of the submission and authorizes his or her name to be released to the media if the Participant wins the prize.</p>
@@ -423,7 +420,6 @@ submission-link: null
 <!-- Judging start -->
 
 ### Judging Criteria
-
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>The Challenge evaluation will focus on AI/ML technologies that detect adversarial campaigns via network observable behaviors or by analysis of data collected across an enterprise.</p>
@@ -484,7 +480,6 @@ submission-link: null
 <!--  How To Enter start -->
 
 ### How To Enter
-
 {: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>See the Rules section for submission guidelines</p>
