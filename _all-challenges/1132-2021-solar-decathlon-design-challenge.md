@@ -15,7 +15,7 @@ tagline: Want to design buildings that help address the most pressing needs of
 agency: Department of Energy - Energy Programs
 partner-agencies-federal: National Renewable Energy Laboratory
 partners-non-federal: ""
-external-url: https://www.solardecathlon.gov/event/challenges-design.html
+external-url: 
 type-of-challenge:
   - Creative (multimedia & design)
 submission-start: 2020/06/15 12:00 AM
