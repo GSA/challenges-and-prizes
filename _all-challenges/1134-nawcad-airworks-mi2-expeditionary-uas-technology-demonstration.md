@@ -15,7 +15,8 @@ tagline: "Demonstrate a UAS that’s optimized for deployed operations in auster
 agency: Department of Defense
 partner-agencies-federal: "Naval Air Warfare Center Aircraft Division (NAWCAD) AIRWorks "
 partners-non-federal: "IMPAX- Naval Air Warfare Center Aircraft Division "
-external-url: http://impax.tech/mi2-tech-demo
+external-url: ""
+total-prize-offered-cash: $65,000
 type-of-challenge:
   - Technology demonstration and hardware
 submission-start: 2020/06/05 12:00 PM
