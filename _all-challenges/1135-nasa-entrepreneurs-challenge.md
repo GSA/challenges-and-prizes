@@ -6,7 +6,7 @@ permalink: /challenge/nasa-entrepreneur-challenge-2020/
 challenge-id: "1135"
 status: open
 sidenav: false
-card-image: /assets/netlify-uploads/entrepreneurs_challenge.png
+card-image: /assets/netlify-uploads/entrepreneurs_challenge_newcrop2.png
 agency-logo: /assets/netlify-uploads/717px-NASA_logo.png
 tagline: "To increase participation of entrepreneurial startup companies in its
   technology portfolio, NASA’s Science Mission Directorate is seeking companies
@@ -23,7 +23,7 @@ type-of-challenge:
 submission-start: 2020/05/29 8:00 AM
 submission-end: 2020/06/26 5:00 PM
 fiscal-year: FY20
-legal-authority: Other
+legal-authority: America COMPETES Act
 challenge-manager: Michael Seablom
 challenge-manager-email: michael.s.seablom@nasa.gov
 point-of-contact: michael.s.seablom@nasa.gov
