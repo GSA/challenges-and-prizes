@@ -8,7 +8,7 @@ status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/challenge-gov.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
-tagline: Naval Surface Warfare Center – Crane, Division (NSWC-CD) is seeking
+tagline: Naval Surface Warfare Center – Crane, Division (NSWC-CR) is seeking
   ideas and best practices for a technology development for a method that
   suitably mitigates inherent hazards with transporting small quantities
   (~1200Wh) of lithium batteries.
@@ -27,6 +27,24 @@ challenge-manager: Marissa Wagler
 challenge-manager-email: marissa.wagler@navy.mil
 point-of-contact: marissa.wagler@navy.mil
 description: >-
+  <p><strong>Fourteen (14) participants that have been selected for invitation to provide a virtual presentation of their submitted white paper concept to the Lithium Battery Man Portable Hazard Containment Prize Challenge judging panel.  Participant names are listed below in alphabetical order.</strong></p>
+  <ol>
+  <li>ADA Technologies, Inc.</li>
+  <li>Americase, LLC</li>
+  <li>Cornerstone Research Group, Inc.</li>
+  <li>Energy Storage Safety Products International, LLC</li>
+  <li>Fire Containment Concepts</li>
+  <li>KULR Technology Corp.</li>
+  <li>Mistral, Inc.</li>
+  <li>Proycon Alpha Squared, Inc.</li>
+  <li>Purdue University</li>
+  <li>Scimitar Technologies</li>
+  <li>StatDiagnostics</li>
+  <li>Texas Research Institute - Austin</li>
+  <li>ViPER (Purdue University)</li>
+  <li>Zarges Inc.</li>
+  </ol>
+  
   Lithium batteries’ benefits of increased capabilities at a reduced weight
   outweigh their inherent risks in many industrial, commercial and some military
   applications. However, these benefits do not outweigh the inherent risk of
@@ -198,7 +216,7 @@ description: >-
   For the purposes of this prize challenge, “Participant” refers to individuals and entities that apply to the prize challenge and “Winner” refers to individuals selected to receive a cash prize under this prize challenge.
 
 
-  ALL DECISIONS BY NSWC-CD ARE FINAL AND BINDING IN ALL MATTERS RELATED TO THE PRIZE CHALLENGE.
+  ALL DECISIONS BY NSWC-CR ARE FINAL AND BINDING IN ALL MATTERS RELATED TO THE PRIZE CHALLENGE.
 
 
   The Prize Challenge winner(s) will be notified via email by the challenge manager of their selection for each phase. An announcement of the winner(s) will be posted on both the Challenge.gov webpage and <https://beta.sam.gov>.
@@ -291,7 +309,7 @@ description: >-
   * *Answer: All batteries are required to be at 100% SOC.*
 
 
-  Question: Does the "references" section (i.e., the bibliography of references used to prepare the white paper) at the end of the white paper count toward the five-page limit? The NSWC-CD document provided in Challenge.gov does not talk about this although the document does state that the cover sheets at the beginning of the white paper concept will not be counted toward the five-page limit.
+  Question: Does the "references" section (i.e., the bibliography of references used to prepare the white paper) at the end of the white paper count toward the five-page limit? The NSWC-CR document provided in Challenge.gov does not talk about this although the document does state that the cover sheets at the beginning of the white paper concept will not be counted toward the five-page limit.
 
 
   * *Answer: The references page is not included the page count limitation.*
@@ -325,10 +343,10 @@ rules: >-
   Only U.S. citizens and entities incorporated in and maintaining a primary place of business in the United States are eligible to receive cash prizes in this Challenge.
 
 
-  Federal employees, including NSWC-CD employees, and NSWC-CD support contractors acting within the scope of their employment are not eligible to participate in the challenge. Likewise, members of their immediate family (spouses, children, step-children, siblings, step-siblings, parents, step-parents), and persons living in the same household, whether or not related, are not eligible to participate in any portion of this Challenge. Federal employees and contractors acting outside the scope of their employment should consult their ethics official and appropriate management before participating in the Challenge.
+  Federal employees, including NSWC-CR employees, and NSWC-CR support contractors acting within the scope of their employment are not eligible to participate in the challenge. Likewise, members of their immediate family (spouses, children, step-children, siblings, step-siblings, parents, step-parents), and persons living in the same household, whether or not related, are not eligible to participate in any portion of this Challenge. Federal employees and contractors acting outside the scope of their employment should consult their ethics official and appropriate management before participating in the Challenge.
 
 
-  Individuals and organizations that are funded by NSWC-CD, but not limited to, any Federally Funded Research and Development Centers and University Affiliated Research Centers (UARCs), or private-sector personnel whose scope of work includes NSWC-CD development or administrative support are not eligible to participate in the challenge.
+  Individuals and organizations that are funded by NSWC-CR, but not limited to, any Federally Funded Research and Development Centers and University Affiliated Research Centers (UARCs), or private-sector personnel whose scope of work includes NSWC-CR development or administrative support are not eligible to participate in the challenge.
 
 
   **Terms and Conditions**
@@ -352,10 +370,10 @@ rules: >-
   Malware. Each participant warrants that any submission is virus free and free of malware.
 
 
-  Data Rights and Marking. All data submitted under the Prize Challenge will be made available to NSWC-CD and parties authorized to act on behalf of the NSWC-CD. By accepting these Terms and Conditions, the Participant consents to the use of data submitted to NSWC-CD. Any materials submitted to NSWC-CD as part of a prize challenge submission become NSWC-CD records and will not be returned.
+  Data Rights and Marking. All data submitted under the Prize Challenge will be made available to NSWC-CR and parties authorized to act on behalf of the NSWC-CR. By accepting these Terms and Conditions, the Participant consents to the use of data submitted to NSWC-CR. Any materials submitted to NSWC-CR as part of a prize challenge submission become NSWC-CR records and will not be returned.
 
 
-  The use of protective markings such as “Do Not Publicly Release – Trade Secret” or “Do Not Publicly Release – Confidential Proprietary Business Information” in the Header or Footer of the Submission is strongly encouraged where appropriate. However, Participants should be aware that the use of protective markings is not dispositive as to whether information will be released publicly pursuant to a request for records under the Freedom of Information Act, (FOIA) 5 U.S.C. §552, et. seq., as amended by the OPEN Government Act of 2007, Pub. L. No. 110-175. Any information received from the Participant is considered to be a federal agency record, and as such, subject to public release under FOIA. Decisions to disclose or withhold information received from a Participant are based on the applicability of one or more of the nine FOIA exemptions, not on the existence or nonexistence of protective markings. Only the agency’s designated FOIA Officer may determine if information sought under a FOIA request will be withheld pursuant to one or more of the nine FOIA exemptions. All FOIA requests received by NSWC-CD are processed in accordance with 10 C.F.R. Part 1004. Participants will be notified of any FOIA requests for their submissions in accordance with 29 C.F.R. § 70.26. Participants may then have the opportunity to review materials and work with a NSWC-CD FOIA representative prior to the release of materials.
+  The use of protective markings such as “Do Not Publicly Release – Trade Secret” or “Do Not Publicly Release – Confidential Proprietary Business Information” in the Header or Footer of the Submission is strongly encouraged where appropriate. However, Participants should be aware that the use of protective markings is not dispositive as to whether information will be released publicly pursuant to a request for records under the Freedom of Information Act, (FOIA) 5 U.S.C. §552, et. seq., as amended by the OPEN Government Act of 2007, Pub. L. No. 110-175. Any information received from the Participant is considered to be a federal agency record, and as such, subject to public release under FOIA. Decisions to disclose or withhold information received from a Participant are based on the applicability of one or more of the nine FOIA exemptions, not on the existence or nonexistence of protective markings. Only the agency’s designated FOIA Officer may determine if information sought under a FOIA request will be withheld pursuant to one or more of the nine FOIA exemptions. All FOIA requests received by NSWC-CR are processed in accordance with 10 C.F.R. Part 1004. Participants will be notified of any FOIA requests for their submissions in accordance with 29 C.F.R. § 70.26. Participants may then have the opportunity to review materials and work with a NSWC-CR FOIA representative prior to the release of materials.
 
 
   By participating in this Challenge, each individual (whether participating singly or in a group) warrants and assures the Government that any data used for the purpose of submitting an entry for this Challenge, were obtained legally through authorized access to such data.
@@ -364,10 +382,10 @@ rules: >-
   Upon submission, the Participant hereby represents and warrants that:
 
 
-  1) it is the sole author and copyright owner of the submission; that the submission is an original work of the Participant and that the Participant has sufficient rights to use and to authorize others, including NSWC-CD, to use the submission, as specified throughout the Official Rules; that the submission does not infringe upon any copyright or upon any other third party rights of which the Participant is aware; and that there are no known or pending patents on or related to the technology proposed within the submissions or, if there are known or pending patents, that the patent holder grants to the Government a fully paid, nonexclusive, irrevocable, worldwide license to use, or have used on the Government’s behalf, reproduce, prepare derivative works, distribute copies to the public, and perform and display publicly copyrightable works of the patented material. Except as provided above, any submission shall be accompanied by a statement delineating which intellectual property rights and licenses will not be extended to the government for this challenge.
+  1) it is the sole author and copyright owner of the submission; that the submission is an original work of the Participant and that the Participant has sufficient rights to use and to authorize others, including NSWC-CR, to use the submission, as specified throughout the Official Rules; that the submission does not infringe upon any copyright or upon any other third party rights of which the Participant is aware; and that there are no known or pending patents on or related to the technology proposed within the submissions or, if there are known or pending patents, that the patent holder grants to the Government a fully paid, nonexclusive, irrevocable, worldwide license to use, or have used on the Government’s behalf, reproduce, prepare derivative works, distribute copies to the public, and perform and display publicly copyrightable works of the patented material. Except as provided above, any submission shall be accompanied by a statement delineating which intellectual property rights and licenses will not be extended to the government for this challenge.
 
 
-  2) the submission, and any use thereof by NSWC-CD is not defamatory or libelous in any manner; does not constitute or result in any misappropriation or other violation of the publicity rights or right of privacy of any person or entity, or infringe, misappropriate or otherwise violate any intellectual property rights, privacy rights or any other rights of any person or entity;
+  2) the submission, and any use thereof by NSWC-CR is not defamatory or libelous in any manner; does not constitute or result in any misappropriation or other violation of the publicity rights or right of privacy of any person or entity, or infringe, misappropriate or otherwise violate any intellectual property rights, privacy rights or any other rights of any person or entity;
 
 
   3) it is free to enter into this challenge without the consent of any third party and has the capability to fully perform its obligations as stipulated by the Prize rules;
@@ -376,19 +394,19 @@ rules: >-
   4) there is no suit, proceeding, or any other claim pending or threatened against the Participant, nor does any circumstance exist, to its knowledge, which may be the basis of any such suit, proceeding, or other claim, that could limit or impair the Participant’s performance of its obligations pursuant to the Prize rules or Terms and Conditions;
 
 
-  5) it will not infringe, violate, or interfere with the intellectual property, publicity, privacy, contract or other right of any third party in the course of performance of this agreement or cause NSWC-CD to do any of the same;
+  5) it will not infringe, violate, or interfere with the intellectual property, publicity, privacy, contract or other right of any third party in the course of performance of this agreement or cause NSWC-CR to do any of the same;
 
 
   By participating in this Challenge, each individual (whether participating singly or in a group) warrants and assures the Government that there are no known or pending patents on or related to the technology proposed within the submissions or, if there are known or pending patents, that the patent holder provides the Government a description of the patented material and its use in the proposed Challenge solution.
 
 
-  Relationship of the Parties. Nothing contained in these Terms and Conditions is intended to create or constitute a relationship between NSWC-CD with the Participants. Participation in the Prize Challenge does not imply any form of sanction, endorsement or support of the Participant by the NSWC-CD, nor does it grant either party any authority to act as agent, nor assume or create any obligation, on behalf of the other party. Participant may not use the NSWC-CD logo or official seal in their submission.
+  Relationship of the Parties. Nothing contained in these Terms and Conditions is intended to create or constitute a relationship between NSWC-CR with the Participants. Participation in the Prize Challenge does not imply any form of sanction, endorsement or support of the Participant by the NSWC-CR, nor does it grant either party any authority to act as agent, nor assume or create any obligation, on behalf of the other party. Participant may not use the NSWC-CR logo or official seal in their submission.
 
 
   Taxes. Tax treatment of prizes will be handled in accordance with U.S. Internal Revenue Service guidelines. The winners must provide a U.S. taxpayer identification number (e.g. a social security number) to receive the cash prize.
 
 
-  Payment. Winner(s) agree to accept payment via electronic funds transfer. Participants selected as monetary prize winners must submit all required taxpayer identification and bank account information required to complete an electronic payment of the monetary prize. Failure to provide the Government required documents for electronic payment within 30 days of notification by the Government will result in a disqualification of the winning entry. Each Winner, will be required to sign and return to NSWC-CD, within 30 days of the date the notice is sent, a completed Standard Form 3881 (Automated Clearing House – Miscellaneous Payment Enrollment) showing bank routing number for payment purpose and a completed IRS Form W-9 (<https://www.irs.gov/pub/irspdf/fw9.pdf>). At the sole discretion of NSWC-CD, a winning participant will be disqualified from the challenge and receive no prize funds if:
+  Payment. Winner(s) agree to accept payment via electronic funds transfer. Participants selected as monetary prize winners must submit all required taxpayer identification and bank account information required to complete an electronic payment of the monetary prize. Failure to provide the Government required documents for electronic payment within 30 days of notification by the Government will result in a disqualification of the winning entry. Each Winner, will be required to sign and return to NSWC-CR, within 30 days of the date the notice is sent, a completed Standard Form 3881 (Automated Clearing House – Miscellaneous Payment Enrollment) showing bank routing number for payment purpose and a completed IRS Form W-9 (<https://www.irs.gov/pub/irspdf/fw9.pdf>). At the sole discretion of NSWC-CR, a winning participant will be disqualified from the challenge and receive no prize funds if:
 
 
   i) the person/entity cannot be contacted
@@ -453,7 +471,7 @@ judging: >-
   **Judging Panel**
 
 
-  The Technology Presentation and Technology Demonstration Results will be presented to NSWC-CD.
+  The Technology Presentation and Technology Demonstration Results will be presented to NSWC-CR.
 
 
   **Judging Criteria**
@@ -573,9 +591,27 @@ how-to-enter: >-
   Contestants should expect that their questions and the Government’s responses will be made available to all those accessing the <https://beta.sam.gov>.
 
 
-  NSWC-CD reserves the right to cancel, suspend, and/or modify the challenge, or any part of it, if any fraud, technical failures, or any other factor beyond NSWC-CD’s reasonable control impairs the integrity or proper functioning of the challenge, as determined by NSWC-CD in its sole discretion. NSWC-CD is not responsible for, nor is it required to accept, incomplete, late, misdirected, damaged, unlawful, or illicit submissions.
+  NSWC-CR reserves the right to cancel, suspend, and/or modify the challenge, or any part of it, if any fraud, technical failures, or any other factor beyond NSWC-CR’s reasonable control impairs the integrity or proper functioning of the challenge, as determined by NSWC-CR in its sole discretion. NSWC-CD is not responsible for, nor is it required to accept, incomplete, late, misdirected, damaged, unlawful, or illicit submissions.
 ---
 ### Description
+
+<p><strong>Fourteen (14) participants that have been selected for invitation to provide a virtual presentation of their submitted white paper concept to the Lithium Battery Man Portable Hazard Containment Prize Challenge judging panel.  Participant names are listed below in alphabetical order.</strong></p>
+<ol>
+  <li>ADA Technologies, Inc.</li>
+  <li>Americase, LLC</li>
+  <li>Cornerstone Research Group, Inc.</li>
+  <li>Energy Storage Safety Products International, LLC</li>
+  <li>Fire Containment Concepts</li>
+  <li>KULR Technology Corp.</li>
+  <li>Mistral, Inc.</li>
+  <li>Proycon Alpha Squared, Inc.</li>
+  <li>Purdue University</li>
+  <li>Scimitar Technologies</li>
+  <li>StatDiagnostics</li>
+  <li>Texas Research Institute - Austin</li>
+  <li>ViPER (Purdue University)</li>
+  <li>Zarges Inc.</li>
+ </ol>
 
 Lithium batteries’ benefits of increased capabilities at a reduced weight outweigh their inherent risks in many industrial, commercial and some military applications. However, these benefits do not outweigh the inherent risk of transporting the batteries. For example, most commercial passenger airlines do not allow lithium batteries to be packed inside checked luggage due to the inherent fire hazard in a cargo hold, which represents an unacceptable risk. Likewise, military (and other users) transportation of lithium batteries represents risks that are also sometimes unacceptable. A solution that develops a containment system to carry batteries that suitably mitigates the inherent hazards is desired to allow more applications, commercial and military, to benefit from the use of rechargeable (called “secondary”) and non-rechargeable (called “primary”) lithium batteries.
 
@@ -675,7 +711,7 @@ Total estimated time from Challenge.gov posting to Phase IV is 217 Calendar Days
 
 For the purposes of this prize challenge, “Participant” refers to individuals and entities that apply to the prize challenge and “Winner” refers to individuals selected to receive a cash prize under this prize challenge.
 
-ALL DECISIONS BY NSWC-CD ARE FINAL AND BINDING IN ALL MATTERS RELATED TO THE PRIZE CHALLENGE.
+ALL DECISIONS BY NSWC-CR ARE FINAL AND BINDING IN ALL MATTERS RELATED TO THE PRIZE CHALLENGE.
 
 The Prize Challenge winner(s) will be notified via email by the challenge manager of their selection for each phase. An announcement of the winner(s) will be posted on both the Challenge.gov webpage and <https://beta.sam.gov>.
 
@@ -739,7 +775,7 @@ Question: For the Proof of Concept testing at what state of charge (SOC) is requ
 
 * *Answer: All batteries are required to be at 100% SOC.*
 
-Question: Does the "references" section (i.e., the bibliography of references used to prepare the white paper) at the end of the white paper count toward the five-page limit? The NSWC-CD document provided in Challenge.gov does not talk about this although the document does state that the cover sheets at the beginning of the white paper concept will not be counted toward the five-page limit.
+Question: Does the "references" section (i.e., the bibliography of references used to prepare the white paper) at the end of the white paper count toward the five-page limit? The NSWC-CR document provided in Challenge.gov does not talk about this although the document does state that the cover sheets at the beginning of the white paper concept will not be counted toward the five-page limit.
 
 * *Answer: The references page is not included the page count limitation.*
 
@@ -767,9 +803,9 @@ Eligibility Requirements. Eligibility is subject to verification by the Governme
 
 Only U.S. citizens and entities incorporated in and maintaining a primary place of business in the United States are eligible to receive cash prizes in this Challenge.
 
-Federal employees, including NSWC-CD employees, and NSWC-CD support contractors acting within the scope of their employment are not eligible to participate in the challenge. Likewise, members of their immediate family (spouses, children, step-children, siblings, step-siblings, parents, step-parents), and persons living in the same household, whether or not related, are not eligible to participate in any portion of this Challenge. Federal employees and contractors acting outside the scope of their employment should consult their ethics official and appropriate management before participating in the Challenge.
+Federal employees, including NSWC-CR employees, and NSWC-CR support contractors acting within the scope of their employment are not eligible to participate in the challenge. Likewise, members of their immediate family (spouses, children, step-children, siblings, step-siblings, parents, step-parents), and persons living in the same household, whether or not related, are not eligible to participate in any portion of this Challenge. Federal employees and contractors acting outside the scope of their employment should consult their ethics official and appropriate management before participating in the Challenge.
 
-Individuals and organizations that are funded by NSWC-CD, but not limited to, any Federally Funded Research and Development Centers and University Affiliated Research Centers (UARCs), or private-sector personnel whose scope of work includes NSWC-CD development or administrative support are not eligible to participate in the challenge.
+Individuals and organizations that are funded by NSWC-CR, but not limited to, any Federally Funded Research and Development Centers and University Affiliated Research Centers (UARCs), or private-sector personnel whose scope of work includes NSWC-CR development or administrative support are not eligible to participate in the challenge.
 
 **Terms and Conditions**
 
@@ -785,27 +821,27 @@ Follow-On Acquisition. At the Government’s discretion, the Government may choo
 
 Malware. Each participant warrants that any submission is virus free and free of malware.
 
-Data Rights and Marking. All data submitted under the Prize Challenge will be made available to NSWC-CD and parties authorized to act on behalf of the NSWC-CD. By accepting these Terms and Conditions, the Participant consents to the use of data submitted to NSWC-CD. Any materials submitted to NSWC-CD as part of a prize challenge submission become NSWC-CD records and will not be returned.
+Data Rights and Marking. All data submitted under the Prize Challenge will be made available to NSWC-CR and parties authorized to act on behalf of the NSWC-CR. By accepting these Terms and Conditions, the Participant consents to the use of data submitted to NSWC-CR. Any materials submitted to NSWC-CR as part of a prize challenge submission become NSWC-CR records and will not be returned.
 
-The use of protective markings such as “Do Not Publicly Release – Trade Secret” or “Do Not Publicly Release – Confidential Proprietary Business Information” in the Header or Footer of the Submission is strongly encouraged where appropriate. However, Participants should be aware that the use of protective markings is not dispositive as to whether information will be released publicly pursuant to a request for records under the Freedom of Information Act, (FOIA) 5 U.S.C. §552, et. seq., as amended by the OPEN Government Act of 2007, Pub. L. No. 110-175. Any information received from the Participant is considered to be a federal agency record, and as such, subject to public release under FOIA. Decisions to disclose or withhold information received from a Participant are based on the applicability of one or more of the nine FOIA exemptions, not on the existence or nonexistence of protective markings. Only the agency’s designated FOIA Officer may determine if information sought under a FOIA request will be withheld pursuant to one or more of the nine FOIA exemptions. All FOIA requests received by NSWC-CD are processed in accordance with 10 C.F.R. Part 1004. Participants will be notified of any FOIA requests for their submissions in accordance with 29 C.F.R. § 70.26. Participants may then have the opportunity to review materials and work with a NSWC-CD FOIA representative prior to the release of materials.
+The use of protective markings such as “Do Not Publicly Release – Trade Secret” or “Do Not Publicly Release – Confidential Proprietary Business Information” in the Header or Footer of the Submission is strongly encouraged where appropriate. However, Participants should be aware that the use of protective markings is not dispositive as to whether information will be released publicly pursuant to a request for records under the Freedom of Information Act, (FOIA) 5 U.S.C. §552, et. seq., as amended by the OPEN Government Act of 2007, Pub. L. No. 110-175. Any information received from the Participant is considered to be a federal agency record, and as such, subject to public release under FOIA. Decisions to disclose or withhold information received from a Participant are based on the applicability of one or more of the nine FOIA exemptions, not on the existence or nonexistence of protective markings. Only the agency’s designated FOIA Officer may determine if information sought under a FOIA request will be withheld pursuant to one or more of the nine FOIA exemptions. All FOIA requests received by NSWC-CR are processed in accordance with 10 C.F.R. Part 1004. Participants will be notified of any FOIA requests for their submissions in accordance with 29 C.F.R. § 70.26. Participants may then have the opportunity to review materials and work with a NSWC-CR FOIA representative prior to the release of materials.
 
 By participating in this Challenge, each individual (whether participating singly or in a group) warrants and assures the Government that any data used for the purpose of submitting an entry for this Challenge, were obtained legally through authorized access to such data.
 
 Upon submission, the Participant hereby represents and warrants that:
 
-1. it is the sole author and copyright owner of the submission; that the submission is an original work of the Participant and that the Participant has sufficient rights to use and to authorize others, including NSWC-CD, to use the submission, as specified throughout the Official Rules; that the submission does not infringe upon any copyright or upon any other third party rights of which the Participant is aware; and that there are no known or pending patents on or related to the technology proposed within the submissions or, if there are known or pending patents, that the patent holder grants to the Government a fully paid, nonexclusive, irrevocable, worldwide license to use, or have used on the Government’s behalf, reproduce, prepare derivative works, distribute copies to the public, and perform and display publicly copyrightable works of the patented material. Except as provided above, any submission shall be accompanied by a statement delineating which intellectual property rights and licenses will not be extended to the government for this challenge.
-2. the submission, and any use thereof by NSWC-CD is not defamatory or libelous in any manner; does not constitute or result in any misappropriation or other violation of the publicity rights or right of privacy of any person or entity, or infringe, misappropriate or otherwise violate any intellectual property rights, privacy rights or any other rights of any person or entity;
+1. it is the sole author and copyright owner of the submission; that the submission is an original work of the Participant and that the Participant has sufficient rights to use and to authorize others, including NSWC-CR, to use the submission, as specified throughout the Official Rules; that the submission does not infringe upon any copyright or upon any other third party rights of which the Participant is aware; and that there are no known or pending patents on or related to the technology proposed within the submissions or, if there are known or pending patents, that the patent holder grants to the Government a fully paid, nonexclusive, irrevocable, worldwide license to use, or have used on the Government’s behalf, reproduce, prepare derivative works, distribute copies to the public, and perform and display publicly copyrightable works of the patented material. Except as provided above, any submission shall be accompanied by a statement delineating which intellectual property rights and licenses will not be extended to the government for this challenge.
+2. the submission, and any use thereof by NSWC-CR is not defamatory or libelous in any manner; does not constitute or result in any misappropriation or other violation of the publicity rights or right of privacy of any person or entity, or infringe, misappropriate or otherwise violate any intellectual property rights, privacy rights or any other rights of any person or entity;
 3. it is free to enter into this challenge without the consent of any third party and has the capability to fully perform its obligations as stipulated by the Prize rules;
 4. there is no suit, proceeding, or any other claim pending or threatened against the Participant, nor does any circumstance exist, to its knowledge, which may be the basis of any such suit, proceeding, or other claim, that could limit or impair the Participant’s performance of its obligations pursuant to the Prize rules or Terms and Conditions;
-5. it will not infringe, violate, or interfere with the intellectual property, publicity, privacy, contract or other right of any third party in the course of performance of this agreement or cause NSWC-CD to do any of the same;
+5. it will not infringe, violate, or interfere with the intellectual property, publicity, privacy, contract or other right of any third party in the course of performance of this agreement or cause NSWC-CR to do any of the same;
 
 By participating in this Challenge, each individual (whether participating singly or in a group) warrants and assures the Government that there are no known or pending patents on or related to the technology proposed within the submissions or, if there are known or pending patents, that the patent holder provides the Government a description of the patented material and its use in the proposed Challenge solution.
 
-Relationship of the Parties. Nothing contained in these Terms and Conditions is intended to create or constitute a relationship between NSWC-CD with the Participants. Participation in the Prize Challenge does not imply any form of sanction, endorsement or support of the Participant by the NSWC-CD, nor does it grant either party any authority to act as agent, nor assume or create any obligation, on behalf of the other party. Participant may not use the NSWC-CD logo or official seal in their submission.
+Relationship of the Parties. Nothing contained in these Terms and Conditions is intended to create or constitute a relationship between NSWC-CR with the Participants. Participation in the Prize Challenge does not imply any form of sanction, endorsement or support of the Participant by the NSWC-CR, nor does it grant either party any authority to act as agent, nor assume or create any obligation, on behalf of the other party. Participant may not use the NSWC-CR logo or official seal in their submission.
 
 Taxes. Tax treatment of prizes will be handled in accordance with U.S. Internal Revenue Service guidelines. The winners must provide a U.S. taxpayer identification number (e.g. a social security number) to receive the cash prize.
 
-Payment. Winner(s) agree to accept payment via electronic funds transfer. Participants selected as monetary prize winners must submit all required taxpayer identification and bank account information required to complete an electronic payment of the monetary prize. Failure to provide the Government required documents for electronic payment within 30 days of notification by the Government will result in a disqualification of the winning entry. Each Winner, will be required to sign and return to NSWC-CD, within 30 days of the date the notice is sent, a completed Standard Form 3881 (Automated Clearing House – Miscellaneous Payment Enrollment) showing bank routing number for payment purpose and a completed IRS Form W-9 (<https://www.irs.gov/pub/irspdf/fw9.pdf>). At the sole discretion of NSWC-CD, a winning participant will be disqualified from the challenge and receive no prize funds if:
+Payment. Winner(s) agree to accept payment via electronic funds transfer. Participants selected as monetary prize winners must submit all required taxpayer identification and bank account information required to complete an electronic payment of the monetary prize. Failure to provide the Government required documents for electronic payment within 30 days of notification by the Government will result in a disqualification of the winning entry. Each Winner, will be required to sign and return to NSWC-CR, within 30 days of the date the notice is sent, a completed Standard Form 3881 (Automated Clearing House – Miscellaneous Payment Enrollment) showing bank routing number for payment purpose and a completed IRS Form W-9 (<https://www.irs.gov/pub/irspdf/fw9.pdf>). At the sole discretion of NSWC-CR, a winning participant will be disqualified from the challenge and receive no prize funds if:
 
 i) the person/entity cannot be contacted
 
@@ -851,7 +887,7 @@ Availability of Funds. The Government’s obligation for prizes under 10 U.S.C. 
 
 **Judging Panel**
 
-The Technology Presentation and Technology Demonstration Results will be presented to NSWC-CD.
+The Technology Presentation and Technology Demonstration Results will be presented to NSWC-CR.
 
 **Judging Criteria**
 
@@ -952,4 +988,4 @@ The Government will post all questions and responses on the Beta SAM website (<h
 
 Contestants should expect that their questions and the Government’s responses will be made available to all those accessing the <https://beta.sam.gov>.
 
-NSWC-CD reserves the right to cancel, suspend, and/or modify the challenge, or any part of it, if any fraud, technical failures, or any other factor beyond NSWC-CD’s reasonable control impairs the integrity or proper functioning of the challenge, as determined by NSWC-CD in its sole discretion. NSWC-CD is not responsible for, nor is it required to accept, incomplete, late, misdirected, damaged, unlawful, or illicit submissions.
+NSWC-CR reserves the right to cancel, suspend, and/or modify the challenge, or any part of it, if any fraud, technical failures, or any other factor beyond NSWC-CR’s reasonable control impairs the integrity or proper functioning of the challenge, as determined by NSWC-CR in its sole discretion. NSWC-CR is not responsible for, nor is it required to accept, incomplete, late, misdirected, damaged, unlawful, or illicit submissions.
