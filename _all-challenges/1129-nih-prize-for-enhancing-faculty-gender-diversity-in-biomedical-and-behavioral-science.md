@@ -22,7 +22,7 @@ fiscal-year: FY20
 legal-authority: America COMPETES Act
 challenge-manager: Teraya Donaldson
 challenge-manager-email: donaldson.teraya@nih.gov
-point-of-contact: ORWHPrize@nih.gov
+point-of-contact: ORWHPrize2020@od.nih.gov
 description: >-
   Though the proportions of women and men are similar at the graduate level for
   biomedical sciences and in medical schools, women are underrepresented at the
