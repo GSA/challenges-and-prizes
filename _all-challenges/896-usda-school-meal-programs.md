@@ -226,7 +226,7 @@ how-to-enter: <div class="challenge-enter">
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <div class="description">
 <!-- <p>[embed]https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/05/FNS-powtoon.mp4[/embed] -->   <p><em>It’s late September, 2017. School meal applications have slowed to a trickle and your office is switching gears to draw your verification sample. You have high hopes that the plan you spent so much time refining over the summer will increase your household response rate: a re-designed verification selection notice, text message reminders, and that brilliant idea that Wanda came up with! Surely one of those will make a difference...  You would feel just a little more confident if you knew that another school district had success with a similar strategy.</em></p>    
@@ -243,7 +243,7 @@ how-to-enter: <div class="challenge-enter">
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <div class="prize-item">
 <h4 class="text-primary">Potential Game Changer</h4>
@@ -307,7 +307,7 @@ how-to-enter: <div class="challenge-enter">
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <div class="description">
 <p><strong> Definitions</strong></p>  
@@ -391,7 +391,7 @@ how-to-enter: <div class="challenge-enter">
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <div class="judging-criterias">
 <div class="prize-item">
@@ -417,7 +417,7 @@ how-to-enter: <div class="challenge-enter">
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <div class="challenge-enter">
 <div class="challenge-enter-item"><p><span style="color: #cc0808;"><strong>How to Enter Your Solution</strong></span></p>

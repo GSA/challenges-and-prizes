@@ -256,7 +256,7 @@ how-to-enter: <p>Each team or individual wishing to participate in this challeng
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <h2><strong>Background &amp; Context</strong></h2>
 <p><strong>The 2020 Census</strong></p>
@@ -279,7 +279,7 @@ how-to-enter: <p>Each team or individual wishing to participate in this challeng
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Financial prizes totaling at least $50,000 will be awarded through this challenge.<strong>&nbsp;</strong></p>
 <p>Prizes will be allocated as follows:</p>
@@ -291,7 +291,7 @@ how-to-enter: <p>Each team or individual wishing to participate in this challeng
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Eligibility</strong></p>
 <p><u>Video eligibility:</u></p>
@@ -414,7 +414,7 @@ how-to-enter: <p>Each team or individual wishing to participate in this challeng
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong><u>Judging Process</u></strong></p>
 <p>All video entries will first be screened to ensure the applicants and videos meet the basic eligibility&nbsp; criteria and guidelines on format, length, and accuracy. Submissions passing this screening will then be reviewed by experts from the U.S. Census Bureau, government, the technology and creative media industries, and non-profits or advocacy organizations with relevant expertise. Each submission will be scored by multiple reviewers on the following five criteria, which are described in detail below:</p>
@@ -472,7 +472,7 @@ how-to-enter: <p>Each team or individual wishing to participate in this challeng
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Each team or individual wishing to participate in this challenge must submit an application package including the information described below by 11:59 p.m. ET on May 7, 2020.</p>
 <p><strong>How to submit your entry</strong><p>

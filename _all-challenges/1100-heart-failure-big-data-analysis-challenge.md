@@ -111,7 +111,7 @@ how-to-enter: <p><strong>Registration Process</strong></p>
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>The National Heart, Lung, and Blood Institute (NHLBI), part of the National Institutes of Health (NIH), is inviting novel Solutions for the NHLBI Big Data Analysis Challenge: Creating New Paradigms for Heart Failure Research. The goal of the challenge is to foster innovation in computational analysis and machine learning approaches utilizing large-scale NHLBI-funded datasets to identify new paradigms in heart failure research. The challenge aims to address the need for new open source disease models that can define sub-categorizations of adult heart failure to serve as a springboard for new research hypotheses and tool development in areas of heart failure research from basic to clinical settings.</p>
 <p>Adult heart failure is a chronic, progressive disorder in which the heart is unable to efficiently pump blood, and more than 6.5 million Americans suffer from this condition. It is currently often categorized by a single metric – left ventricular ejection fraction – but is known to be a multi-organ, systemic syndrome with many related but seemingly disparate phenotypes. Additionally, social, behavioral, environmental, and genetic determinants often captured in study data have a considerable influence on outcome but are not well-understood. The field of heart failure research currently lacks a systematic framework that incorporates these many factors in a comprehensive disease model. An adult heart failure sub-phenotyping scheme incorporating many disease-associated factors would provide a new paradigm that will benefit investigations into the mechanism of disease, diagnosis, and, ultimately, prevention and treatment.</p>
@@ -120,7 +120,7 @@ how-to-enter: <p><strong>Registration Process</strong></p>
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Prize Breakdown</strong></p>
 <p>Up to five (5) winners will be selected, with each winning up to $50,000.</p>
@@ -134,7 +134,7 @@ how-to-enter: <p><strong>Registration Process</strong></p>
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Eligibility Rules for Participating in the Challenge: </strong></p>
 <ol>
@@ -165,7 +165,7 @@ how-to-enter: <p><strong>Registration Process</strong></p>
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Basis Upon Which a Winner Will be Selected</strong></p>
 <p>Technical reviewers with expertise relevant to the Challenge will evaluate the Solutions based on their ability to achieve the criteria listed below. The Solutions and evaluation statements from the technical panel will then be reviewed by federal employees serving as judges, who will select up to five (5) Challenge winners, subject to a final decision by the Award Approving Official.</p>
@@ -200,7 +200,7 @@ how-to-enter: <p><strong>Registration Process</strong></p>
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Registration Process</strong></p>
 <p>Participants are invited to send an optional letter of intent to nhlbi_challenge@nhlbi.nih.gov briefly describing the anticipated approach for developing the Solution. Letters of intent should include a tentative title and a one-paragraph summary of the planned approaches. If a letter of intent is being submitted on behalf of a team or entity, it should identify the team leader. Limit 1 page.</p> 

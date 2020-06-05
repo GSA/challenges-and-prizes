@@ -66,7 +66,7 @@ how-to-enter: <p>Each team must designate a captain who is a U.S. citizen or per
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <h4>UPDATE: The deadline for this challenge has been extended to June 15, 2020. Please see the Key Dates below for updated timeframes for judging period.</h4>
 <p>The National Center for Advancing Translational Sciences (NCATS), part of the National Institutes of Health (NIH), is seeking innovative ways to communicate with others and educate people about rare diseases through social media or art. There are about 7,000 different rare diseases that affect an estimated 30 million people in the United States. Some difficulties with rare diseases are that they are hard to recognize, are often hidden conditions, and most do not currently have ongoing medical research. The goal of this Challenge, which is being led by NCATS&rsquo; Office of Rare Diseases Research (ORDR), is to bring attention to rare diseases so that they can gain more medical research interest, thereby improving the lives of people with rare diseases. Science, especially genetic medicine, has moved forward to the point now where treatments are possible&mdash;such as gene therapies, 3-D printing (devices, tissues, and organs), and new drugs. Everyone deserves a chance at an effective medical treatment&mdash;whether for a common disease or a rare one.</p>
@@ -82,7 +82,7 @@ how-to-enter: <p>Each team must designate a captain who is a U.S. citizen or per
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Total Cash Prize Pool</strong></p>
 <p>$5,000</p>
@@ -97,7 +97,7 @@ how-to-enter: <p>Each team must designate a captain who is a U.S. citizen or per
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>All details related to rules and eligibility are defined on NCATS&rsquo; RDANR! 2020 Challenge details page. Only complete applications will be reviewed.</p>
 <p>Each team or individual may submit only one entry.</p>
@@ -117,12 +117,12 @@ how-to-enter: <p>Each team must designate a captain who is a U.S. citizen or per
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Please review the official rules for the judging criteria: <a href="https://ncats.nih.gov/funding/challenges/rare-diseases-challenge-2020">https://ncats.nih.gov/funding/challenges/rare-diseases-challenge-2020</a>.</p>
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Each team must designate a captain who is a U.S. citizen or permanent resident and submits a solution on behalf of the team. The captain is responsible for all correspondence regarding this Challenge. Each submission for this Challenge requires a complete &ldquo;Submission Package.&rdquo; The Submission Package includes a Cover Letter, the Communication Vehicle and, when appropriate, participant consent forms. All submission materials must be emailed to <a href="mailto:RDChallenge@nih.gov">RDChallenge@nih.gov</a> by the specified submission deadline date and time.</p>

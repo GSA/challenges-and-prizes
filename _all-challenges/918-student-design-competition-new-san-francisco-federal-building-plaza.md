@@ -81,7 +81,7 @@ how-to-enter: <ol>
 ---
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 <p>[UPDATED 1/8/2018] We are pleased to announce the winning entries to the GSA Student Design Competition for the New San Francisco Federal Building Plaza. The competition challenged students to activate the existing plaza through program and design interventions. The jury evaluated 63 entries which met the submission guidelines and deadline requirements. Entries were evaluated against the judging criteria that were published in the competition announcement, which were Creativity, Context, Community, Feasibility, and Value. The more successful entries, including the winning entries, proposed a new program and offered creative new ways of using the plaza in order to activate the public space. While the competition awards three prizes, the jury felt that in light of the high number of excellent submissions, that they would like to recognize a fourth entry with a special honorable mention.</p>
 <p><strong><span>Honorable Mention &ndash; "San Francisco Federal Plaza Urban Garden," Nancy Spaulding</span></strong> The proposal involves an extensive landscape design renovation that features a substantial addition of trees and other plantings suited to the climate. The design features an educational "teaching garden," which might educate children from the childcare center within the building, as well as the general public. The featured planting would produce food for birds, insect pollinators, and humans. The improvements have the potential to attract visitors, including disadvantaged users, to the plaza. The proposal appeals to building occupants and addresses important community issues. Members of the jury imagine that the produce grown in the plaza could be served in the caf&eacute; in farm-to-table style. The proposal infuses the plaza with elements from the natural environment. The design addresses the needs of the site but does not inhibit future uses. The proposed forest engages visually with people in the upper floors of the federal building and adjacent buildings. The jury commends the urban garden proposal for its optimism.</p>
 <p><strong><span>Third Prize &ndash; "Allegro," by Dan Kaiser</span></strong> This entry proposes an intervention that blurs the distinction between art and landscape. The formally aggressive intervention is inspired by sound waves and the existing building's form, combined to create seating and play space that is intended to transform the space at night. The inclusion of relevant case studies was useful to understand the design intent and feasibility of this proposal. The design refines the caf&eacute; building to maintain the original urban design intent of having a strong, well-defined corner, while also addressing the proposed new plaza design. The jury commends the creativity and quality of this visually stimulating proposal, which creates the potential for success whether people occupy the space as intended by the proposal or not.</p>
@@ -90,7 +90,7 @@ how-to-enter: <ol>
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>First Prize</strong></p>
 <p>The First Prize winner will receive a prepaid American Express card with a $1000 credit.</p>
@@ -103,7 +103,7 @@ how-to-enter: <ol>
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 <p><strong>Eligibility.</strong> Only individual Submissions are allowed, no team Submissions. One Submission per Contestant is allowed. Contestant certifies through entering the Submission that they are currently full-time undergraduate or graduate student enrolled in an accredited architecture, landscape architecture, urban design, or related program. Contestant certifies through entering the Submission that they are a citizen or permanent resident of the United States of America.</p>
 <p><strong>Submission Rights.</strong> Each Contestant grants to GSA and others acting on behalf of GSA, a perpetual royalty-free non-exclusive worldwide license to use, copy for use, and display publicly all parts of the Submission. This license includes posting or linking to the Submission on the official GSA website and making it available for use by the public. This license further includes using the Submission or any portion thereof for the subsequent procurement of related architectural, planning, and/or design services. Contestants retain the right to simultaneously use their Submission for all other purposes, including but not limited to, inclusion of the Submission in sample work portfolios.</p>
 <p><strong>Publicity.</strong> &nbsp;Except where prohibited, participation in the Challenge constitutes Contestant&rsquo;s consent to GSA's and its agents' use of Contestant&rsquo;s name, likeness, photograph, voice, opinions, and/or hometown and state for promotional purposes in any media, worldwide, without further payment or consideration.</p>
@@ -111,7 +111,7 @@ how-to-enter: <ol>
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 <p><strong>Judges</strong></p>
 <p><div><i>Thom Mayne</i></div>
 <div>Design Director, Morphosis</div>
@@ -144,7 +144,7 @@ how-to-enter: <ol>
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 <ol>
 <li>Save Submissions in the latest version of Adobe Acrobat PDF.</li>
 <li>No paper or hardcopy Submissions will be accepted.</li>

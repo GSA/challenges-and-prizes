@@ -50,15 +50,27 @@ permalink: json-page
                 </div>
             </div>
             <!-- End Accordion -->
-            <div class="text-base-darker">
-                {% if page.external-url  %}
+            <div class="text-base-darker challenge-body-content challenge-section">
+                {% if page.external-url and page.external-url != '' %}
                 <h3>This challenge is externally hosted.</h3> <p>You can view the challenge details here: <a href="{{page.external-url}}" target="_blank" rel="noopener">{{page.external-url}}</a></p>
                 {% endif %}
-                {{ content }} 
+                {{ content | markdownify }} 
             </div>
-                {% if page.status == "open"  %}
-                {% include challenge-poc.html %}
+            {% if page.point-of-contact and page.point-of-contact != ''  %}
+            {% if page.status == "open"  %}
+            <!-- Contact start -->
+            <h3 id="contact" class="text-accent-warm-dark font-heading-lg challenge-section">Point of Contact</h3>
+            <div>
+                <p class="text-bold">Have feedback or questions about this challenge?
+                {% if page.point-of-contact %}
+                <a class="usa-link--external" href="mailto:{{ page.point-of-contact }}">  Send the challenge manager an email</a></p>
+                {% else %}
+                <a class="usa-link--external" href="mailto:team@challenge.gov">  Send the challenge manager an email</a></p>
                 {% endif %}
+            </div>
+            <!-- Contact end -->
+            {% endif %}
+            {% endif %}
         </div>
     </div>
 </div>

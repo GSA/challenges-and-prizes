@@ -33,7 +33,7 @@ rules: <p><strong>All official entries must be submitted via the InnoCentive web
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>All official entries must be submitted via the InnoCentive website open on the date of launch:&nbsp;<a href="https://www.innocentive.com/ar/challenge/9933763" target="_blank" rel="noopener">https://www.innocentive.com/ar/challenge/9933763</a></strong></p>
 <p>Is there a way to stop and prevent rodents from burrowing into earthen embankments of dams, canals, and levees?</p>
@@ -43,12 +43,12 @@ rules: <p><strong>All official entries must be submitted via the InnoCentive web
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 $20,000 in prizes available!
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>All official entries must be submitted via the InnoCentive website open on the date of launch:&nbsp;<a href="https://www.innocentive.com/ar/challenge/9933763" target="_blank" rel="noopener">https://www.innocentive.com/<wbr />ar/challenge/9933763</a></strong> &nbsp;</p>

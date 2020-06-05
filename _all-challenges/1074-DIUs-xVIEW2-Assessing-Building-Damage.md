@@ -77,7 +77,6 @@ how-to-enter: <p>View instructions on how to <a href="https://xview2.org/signup"
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>xVIEW2</strong></p>
 <p>When a disaster strikes, quick and accurate situational information is critical to an effective response. Before responders can act in the affected area, they need to know the location, cause and severity of damage. But disasters can strike anywhere, disrupting local communication and transportation infrastructure, making the process of assessing specific local damage difficult, dangerous, and slow.</p>
@@ -89,7 +88,6 @@ how-to-enter: <p>View instructions on how to <a href="https://xview2.org/signup"
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p><strong>Total Prize Pool</strong></p>
 <p>$150,000</p>
@@ -108,14 +106,12 @@ how-to-enter: <p>View instructions on how to <a href="https://xview2.org/signup"
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>View the official <a href="https://xview2.org/rules" target="_blank" rel="noopener">rules</a> for this challenge.</p>
 <p>View the <a href="https://xview2.org/terms" target="_blank" rel="noopener">terms</a> for this challenge.</p>
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>Buildings around the world are as diverse as the conditions they face. The xBD dataset includes pre- and post-disaster imagery for six different types of disaster and fifteen countries.</p>
 <p><strong>Goal:</strong></p>
@@ -146,6 +142,5 @@ how-to-enter: <p>View instructions on how to <a href="https://xview2.org/signup"
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>View instructions on how to <a href="https://xview2.org/signup" target="_blank" rel="noopener">sign up</a> for this challenge.</p>

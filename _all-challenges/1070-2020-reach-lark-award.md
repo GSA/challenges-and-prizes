@@ -108,7 +108,7 @@ how-to-enter: <p>To compete for this award, individuals and entities must submit
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Racial and ethnic disparities in health are widespread across the United States. The Racial and Ethnic Approaches to Community Health (REACH) program demonstrates success in addressing these disparities and promoting health equity by working with many and various communities and carrying out culturally tailored interventions. <a href="https://www.cdc.gov/nccdphp/dnpao/state-local-programs/reach/index.htm">Learn more about the REACH Program</a>.</p>
 <p>The REACH Lark Award honors extraordinary individuals, organizations, or community coalitions associated with the REACH program for advancing the science and practice of improving health equity to eliminate health disparities at the national, state, or local levels. As participants in the award process, applicants describe how they assisted with and successfully carried out culturally tailored interventions that led to reduced health disparities in chronic conditions including hypertension, heart disease, type 2 diabetes, or obesity and associated risk behaviors of physical inactivity, poor nutrition, or smoking.</p>
@@ -122,13 +122,13 @@ how-to-enter: <p>To compete for this award, individuals and entities must submit
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>A maximum of one applicant (individual or team) will receive a winner's plaque. The winner may be invited to meetings by CDC or nonfederal individuals or organizations from outside the agency. Attendance at such events is not required as a condition of accepting the prize. No cash prize will be awarded.</p>
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Eligibility</strong></p>
 <p>This award recognizes individuals that successfully implemented culturally tailored interventions that ultimately led to reduced health disparities in chronic conditions including hypertension, heart disease, type 2 diabetes, or obesity and associated risk behaviors of physical inactivity, poor nutrition, or smoking. The REACH Lark Award is open to the public. Individuals or teams applying for this award must:</p>
@@ -187,7 +187,7 @@ how-to-enter: <p>To compete for this award, individuals and entities must submit
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Judging Panel</strong></p>
 <p>CDC will select judges based on their knowledge of the REACH program, the science and practice of improving health equity, and the elimination of health disparities at the national, state, or local levels. Judges may include REACH program senior advisors, other CDC employees, or nonfederal individuals from outside the agency that are national experts</p>
@@ -207,7 +207,7 @@ how-to-enter: <p>To compete for this award, individuals and entities must submit
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>To compete for this award, individuals and entities must submit an <a href="{{ site.baseurl }}/assets/document-library/REACH-Lark-Award-Application_Final_revised.pdf" target="_blank" rel="noopener">application form</a>. Applying will require applicants to provide a written statement of 500 words or less that describes the nominee's innovative approach that led to reduced health disparities in chronic disease.</p>
 <p>If you have questions, send an email to the challenge manager using the information under <strong>Point of Contact</strong>. Use the words "REACH Lark Award" in the subject line.</p>

@@ -36,7 +36,7 @@ how-to-enter: <p><strong>All official entries must be submitted via the <a href=
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>All official entries must be submitted via the <a href="https://www.innocentive.com/ar/challenge/9933762?cc=BoR3762&amp;utm_source=Reclamation&amp;utm_campaign=9933762&amp;utm_medium=gen">InnoCentive website</a> open on the date of launch (13 Dec 2016).</strong></p>
 <p>Currently, significant and desirable water supplies are trapped in concentrate streams that are a byproduct of desalination technologies. The cost to manage or dispose of concentrate is rather large and very limiting to utilization of desalination in inland applications. This challenge is seeking innovative concepts to expand usable water supplies by maximizing fresh water production from inland desalination systems, and thereby reduce the volume of concentrate.</p>
@@ -46,25 +46,25 @@ how-to-enter: <p><strong>All official entries must be submitted via the <a href=
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>The Seeker has a total prize pool budget of $150,000 to pay the top six submission(s) that meet or exceed the criteria below an award of at least $25,000 each.&nbsp; No awards are guaranteed unless they meet or exceed the criteria, and more than one award is not guaranteed.&nbsp; Full or partial awards will be considered for solutions that meet all or some of the criteria, respectively. If only a single submission meets or exceeds the criteria, the prize award may be as high as $50,000.</p>
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>All official entries must be submitted via the <a href="https://www.innocentive.com/ar/challenge/9933762">InnoCentive website</a> open on the date of launch (13 Dec 2016). </strong></p>
 <p><em>Questions about this Challenge?&nbsp; Please direct any requests for clarifications and additional information about this challenge to InnoCentive.com. As the administrator for this challenge, InnoCentive will contact the Bureau of Reclamation, as needed, to answer your questions and will also&nbsp;make the responses available to all registered solvers if they provide relevant additional information.&nbsp;To submit your questions to InnoCentive, register for the competition at the InnoCentive website. &nbsp;Registration is free and easy. Once you have registered, you will be able to see the full details of this challenge. After reviewing the full details, if you still have questions, InnoCentive provides each registered solver with the ability to submit their specific questions to the challenge administrator.</em></p>
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>After the Challenge submission deadline, a Judging Panel will evaluate the submissions and make a decision with regards to the winning solution(s). The Judging Panel may be composed of Federal and/or Non Federal scientists, engineers, and other technical experts, including subject matter experts from the listed collaborators for this Challenge. All persons or entities that submit a proposal will be notified on the status of their submissions. Decisions by the Seeker cannot be contested.</p>
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>All official entries must be submitted via the <a href="https://www.innocentive.com/ar/challenge/9933762">InnoCentive website</a> open on the date of launch (13 Dec 2016). </strong></p>

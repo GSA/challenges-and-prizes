@@ -68,7 +68,7 @@ how-to-enter: For additional Challenge details, including specific requirements 
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <strong>Challenge Summary:</strong>
 
@@ -82,7 +82,7 @@ This challenge seeks a field-ready prototype system capable of measuring constit
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 The Challenge award is contingent upon qualitative evaluation and experimental validation of the submitted Solutions by the Seeker. The maximum award for meeting all the requirements is $60,000. If more than one meets all the requirements, the Seeker will decide on a winner that best fits their needs. In the event that no solution meets all the requirements, the Seeker may, at their discretion, give partial awards to those submissions deemed promising from a minimum of $10,000 up to $50,000.
 
@@ -90,7 +90,7 @@ In addition to the potential award, all Solvers providing prototypes will direct
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <strong>Solution Requirements:</strong> Specific requirements for the sensor systems, such as pollutant detection limits and precision and accuracy targets, are provided in the challenge description (see <a href="https://www.innocentive.com/ar/challenge/9933927">https://www.innocentive.com/ar/challenge/9933927</a>).
 
@@ -114,7 +114,7 @@ May 16th at 8:00 am Eastern (12:00 pm GMT):
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 For additional Challenge details, including specific requirements for the sensor systems, please register at <a href="https://www.innocentive.com/ar/challenge/9933927">https://www.innocentive.com/ar/challenge/9933927</a>. All official submissions must be received via this InnoCentive website.
 

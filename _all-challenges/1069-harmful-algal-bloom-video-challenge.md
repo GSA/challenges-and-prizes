@@ -103,7 +103,7 @@ how-to-enter: <p>Entrants must post their video submission to YouTube as an unli
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
  
 <p>A harmful algal bloom is an overgrowth of algae in a water body that can affect water quality and aquatic life. Some blooms can produce toxins that may also harm people, animals, and the local environment.</p>
 <p><strong>We need high school students' help!</strong> Create a video, no more than two minutes in length, that teaches people how to spot harmful algal blooms and how to be safe around them. Videos should promote public awareness of harmful algal blooms to people who use the waters, such as swimmers, boaters, fishers, or people who bring pets or livestock to the waters.</p>
@@ -120,7 +120,7 @@ how-to-enter: <p>Entrants must post their video submission to YouTube as an unli
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <ul>
     <li>Two grand prize awards of $4,000 to be split evenly among the participants. Grand prize awards will be given to the best video from each EPA Region.</li> 
@@ -130,7 +130,7 @@ how-to-enter: <p>Entrants must post their video submission to YouTube as an unli
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <h3>Rules</h3>
 <p><strong>Video Content:</strong> Videos must focus on informing the public about harmful algal blooms in water bodies (e.g. freshwater lakes and streams) and how to be safe around them.  In the 0-2 minute video, Challenge-solvers must highlight at least one or more groups that use the waters such as swimmers, boaters, fishers, or people who bring pets or livestock to the waters.</p>
@@ -180,7 +180,7 @@ how-to-enter: <p>Entrants must post their video submission to YouTube as an unli
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Judges will be a panel of state, tribal, and EPA subject matter experts. They will evaluate, score, and rank submissions based on scientific accuracy, creativity, and quality. EPA will make final determinations and award all prize winners.</p>  
 <p>The judging panel will use a 100-point scale to evaluate the videos. The scale will rank the extent to which the video:</p>
@@ -196,7 +196,7 @@ how-to-enter: <p>Entrants must post their video submission to YouTube as an unli
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Entrants must post their video submission to YouTube as an unlisted video and send the link to their video entry, along with the required paperwork to <a href="mailto:R7PublicAffairs@epa.gov" target="_blank" rel="noopener">R7PublicAffairs@epa.gov</a> by the deadline.</p> <p>Include in your subject line: "HAB Challenge Video Entry."</p> <p>To ensure your submission is not blocked by EPA servers, please keep emails under 9 megabytes.</p> 
 

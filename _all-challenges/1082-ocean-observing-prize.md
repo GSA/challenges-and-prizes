@@ -47,7 +47,7 @@ how-to-enter: <p>Competitors can enter on the HeroX platform:&nbsp; <a href="htt
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>The Ocean Observing Prize is a first of its kind innovation challenge jointly-led by the <a href="https://www.energy.gov/eere/water/water-power-technologies-office" target="_blank" rel="noopener">U.S. Department of Energy’s Water Power Technologies Office</a> and the <a href="https://ioos.noaa.gov/" target="_blank" rel="noopener">National Oceanographic and Atmospheric Administration’s Integrated Ocean Observing System</a> program. The Prize encourages innovation within five thematic areas believed to be most relevant to the needs of stakeholders in both marine energy and ocean observation through a series of competitions over several years. The novel solutions that emerge from these competitions will benefit numerous stakeholders in the ocean economy and contribute to a better understanding of the ocean environment. <a href="https://www.pnnl.gov/" target="_blank" rel="noopener">Pacific Northwest National Laboratory</a> and the <a href="https://www.nrel.gov/" target="_blank" rel="noopener">National Renewable Energy Laboratory</a> are supporting DOE and NOAA on the development and administration of this prize.</p>
 <h3>Key Dates:</h3> 
@@ -62,7 +62,7 @@ how-to-enter: <p>Competitors can enter on the HeroX platform:&nbsp; <a href="htt
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <ul>
 <li><strong>Explorer Prizes (DISCOVER Competition):</strong> The Explorer Prizes are awarded to the top-ranked submissions across all themes. Up to 10 Explorer Prizes will be awarded at up to $10,000 each. Some themes may have multiple winners, or none at all.</li>
@@ -72,18 +72,18 @@ how-to-enter: <p>Competitors can enter on the HeroX platform:&nbsp; <a href="htt
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>The rules for the Ocean Observing Prize can be found here: <a href="https://www.herox.com/oceanobserving" target="_blank" rel="noopener">https://www.herox.com/oceanobserving</a>.</p>
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Please review the official rules for the judging criteria here: <a href="https://www.herox.com/oceanobserving" target="_blank" rel="noopener">https://www.herox.com/oceanobserving</a>.</p>
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Competitors can enter on the HeroX platform: <a href="https://www.herox.com/oceanobserving" target="_blank" rel="noopener">https://www.herox.com/oceanobserving</a>.</p>

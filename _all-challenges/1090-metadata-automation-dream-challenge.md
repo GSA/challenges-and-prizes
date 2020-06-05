@@ -38,7 +38,7 @@ description: <p>This challenge is supported by funding through the <a href="htt
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>This challenge is supported by funding through the <a href="https://www.cancer.gov/research/key-initiatives/moonshot-cancer-initiative" target="_blank" rel="noopener">Cancer Moonshot℠</a>. Solutions are critical to enabling researchers to explore new ways of reducing the burden of metadata annotation and aid in advancing discoveries across differing collections, formats, and tools within National Cancer Institute (NCI) initiatives, such as the <a href="https://datascience.cancer.gov/data-commons" target="_blank" rel="noopener">NCI Cancer Research Data Commons</a>.</p>
 <p>Drs. James Eddy and Thomas Schaffter will lead a webinar and panel session about the <a href="https://www.synapse.org/#!Synapse:syn18065891/wiki/588180" target="_blank" rel="noopener">Metadata Automation DREAM Challenge</a> on January 30 at 12:00 p.m. ET. The webinar will provide an overview of the Challenge requirements and logistics. The panel session will include Challenge organizers:</p>

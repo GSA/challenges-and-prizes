@@ -315,7 +315,7 @@ submission-link: null
 <!-- Description start -->
 
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>See <strong><a href="{{ site.baseurl }}/assets/document-library/AI-ATAC-2-FAQ-01JUN20.pdf" target="_blank" rel="noopener">FREQUENTLY ASKED QUESTIONS</a>.</strong></p>
 <p>The Naval Information Warfare Systems Command (NAVWARSYSCOM) and the Program Executive Office for Command, Control, Communications, Computers, and Intelligence (PEO C4I) are conducting a second instance of the Artificial Intelligence Applications to Autonomous Cybersecurity (AI ATAC), pronounced &ldquo;AI attack&rdquo; Challenge (hereinafter referred to as &ldquo;the Challenge&rdquo;). The Navy&rsquo;s Cybersecurity Program Office (PMW 130) seeks to automate the Security Operations Center (SOC) using artificial intelligence and machine learning (AI/ML) to detect advanced persistent threat (APT) campaign activity. There is a tremendous amount of untapped cybersecurity information at the network level that can improve situational awareness, provide context for network events, and reveal the presence of adversaries. PMW 130 solicits white papers describing network-based security technologies and the corresponding tool for evaluation in the AI ATAC Prize Challenge competition.</p>
@@ -323,7 +323,7 @@ submission-link: null
 <!-- Prizes start -->
 
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>NAVWARSYSCOM has established $500,000 as the total amount set aside for cash prizes under this Challenge, and in the case of a lone winner, the entire cash prize will be awarded to the winning entry. In the unlikely event of a tie, NAVWARSYSCOM will determine an equitable method of distributing the cash prizes. If a prize goes to a team of Participants, NAVWARSYSCOM will award the cash prize to the individual/team&rsquo;s point of contact registered on the Challenge website.&nbsp;</p>
 <p>NAWARSYSCOM may award, pursuant to Title 10 U.S.C. &sect; 2371b, a follow-on production contract or transaction to one or more participants who successfully demonstrated an effective AI/ML approach under this Challenge. This Challenge, however, does not in any way obligate NAVWARSYSCOM to procure any of the items within the of this Challenge from the winners. Tax treatment of prizes will be handled in accordance with U.S. Internal Revenue Service guidelines. The winner must provide a U.S. TIN (e.g., a SSN, TIN, EIN) to receive the cash prize.</p>
@@ -336,7 +336,7 @@ submission-link: null
 <!-- Rules start -->
 
 ### Rules
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Each Participant (individual, team, or commercial entity) shall submit one entry in response to this Challenge. Team entries or commercial entity entries must have an individual identified as the primary point of contact and prize recipient. By submitting an entry, a Participant confirms ownership of the intellectual property of the submission and authorizes his or her name to be released to the media if the Participant wins the prize.</p>
 <p>The submission package must include the following three items:</p>
@@ -420,7 +420,7 @@ submission-link: null
 <!-- Judging start -->
 
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>The Challenge evaluation will focus on AI/ML technologies that detect adversarial campaigns via network observable behaviors or by analysis of data collected across an enterprise.</p>
 <p>The following describes the network being defended in this Challenge:</p>
@@ -480,6 +480,5 @@ submission-link: null
 <!--  How To Enter start -->
 
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
 
 <p>See the Rules section for submission guidelines</p>

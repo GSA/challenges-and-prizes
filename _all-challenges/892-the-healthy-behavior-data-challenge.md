@@ -191,7 +191,7 @@ how-to-enter: <p><strong>Dates:</strong> Submissions will be accepted starting A
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>The Centers for Disease Control and Prevention (CDC) located within the Department of Health and Human Services (HHS) announces the launch of the Healthy Behavior Data Challenge.</p>
 <p>The Healthy Behavior Data Challenge responds to the call for new ways to address the challenges and limitations of self-reported health surveillance information and tap into the potential of innovative data sources and alternative methodologies for public health surveillance.</p>
@@ -202,7 +202,7 @@ how-to-enter: <p><strong>Dates:</strong> Submissions will be accepted starting A
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Winner:</strong> Catherine Bass</p>
 <p><strong>Solution:</strong> Onlife Health - Closing the Loop</p>
@@ -210,7 +210,7 @@ how-to-enter: <p><strong>Dates:</strong> Submissions will be accepted starting A
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>How to Enter:</strong> Participants may enter by visiting www.healthdatachallenge.com and challenge.gov and following the instructions for submission. The U.S. and Canadian challenges are being run in parallel and US entrants should submit to this contest and non-US to the Canadian contest.</p>
 <p><strong>Eligibility Rules for Participating in the Competition</strong>: To be eligible to win a prize under this challenge, an individual or entity&mdash;</p>
@@ -246,7 +246,7 @@ how-to-enter: <p><strong>Dates:</strong> Submissions will be accepted starting A
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Phase I Scoring Criteria</strong></p>
 <p>All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and 5 being the highest score on each dimension. Scores are weighted by the proportion of each dimension and then aggregated to create a final score.</p>
@@ -296,7 +296,7 @@ how-to-enter: <p><strong>Dates:</strong> Submissions will be accepted starting A
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p><strong>Dates:</strong> Submissions will be accepted starting April 28, 2017. The submission period for Phase I will end on August 4, 2017. The Phase II (Prototype Implementation) submission period will begin October 2, 2017 and end&nbsp;January 15, 2018. The grand prize finalist is anticipated to be announced in&nbsp;March of 2018.</p>
 <p>Information on the Behavioral Risk Factor Surveillance System can be found at&nbsp;<a href="https://web.archive.org/web/20180911014012/https://www.cdc.gov/brfss">www.cdc.gov/brfss</a>.</p>

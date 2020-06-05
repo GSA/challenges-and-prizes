@@ -263,7 +263,7 @@ how-to-enter: <div>
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <div class="description">
 <p><img src="{{ site.baseurl }}/assets/images/challenge-content/image002.png" width="858" height="210" alt="challenge timeline"/></p>
@@ -283,7 +283,7 @@ how-to-enter: <div>
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <div class="prize-item">
 <h4 class="text-primary">Prizes Anticipated for the Regional Codeathon Events and Contests</h4>
@@ -321,7 +321,7 @@ how-to-enter: <div>
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <div class="description">
         <p>Below are the rules on eligibility and submissions, as well as additional terms and conditions. Please read&nbsp; the original <a href="{{ site.baseurl }}/assets/document-library/3.2_TechtoProtectChallenge_Program-Rules.FINAL.4.1.19.pdf" target="_blank" rel="noopener">Official Rules document</a> as well as the <a href="{{ site.baseurl }}/assets/document-library/TTP-Rules-Changes-FINAL.pdf" target="_blank" rel="noopener">rules modification</a> posted March 19, 2020 for detailed rules on all aspects of this challenge.</p>
@@ -391,7 +391,7 @@ how-to-enter: <div>
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <div class="judging-criterias"> 
         <div class="prize-item">
@@ -571,7 +571,7 @@ how-to-enter: <div>
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <div class="jumbotron description">
         <p><span lang="EN">The Tech to Protect Challenge depends on your participation. We recognize that barriers to entry can be discouraging, so we are committed to making participating the easiest part of the challenge, allowing all of your creative energy to be focused on developing your solution. Here is a step-by-step guide to participation.</span></p>

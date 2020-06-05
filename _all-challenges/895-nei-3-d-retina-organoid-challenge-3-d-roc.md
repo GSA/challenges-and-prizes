@@ -125,7 +125,7 @@ how-to-enter: <p>Please format proposal using the&nbsp;<a href="https://www.nei.
 
 <!-- Description start -->
 ### Description
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>The National Eye Institute (NEI), part of the National Institutes of Health, is seeking ideas for how to develop advances in vitro 3-D human retina organoid models. The goal of the challenge is to turn innovative ideas into concrete concepts for the development of a 3-D system that models the cellular organization and function of the human retina. Full description and details of this prize competition are defined on&nbsp;<a href="https://www.nei.nih.gov/about/goals-and-accomplishments/nei-research-initiatives/3-d-retina-organoid-challenge-3-d-roc/2017-ideation-challenge" target="_blank" rel="noopener noreferrer">NEI&rsquo;s challenge details</a>&nbsp;page. NEI is seeking innovative solutions to achieve significant advances over currently available protocols to grow retina organoids. As solvers address the evaluation criteria outlined below, they should state how and why they expect their proposed new methods or changes/additions to existing methods will improve aspects of retina organoids. Solutions must outline ideas to produce 3-D retina organoids that:</p>
 <ul>
@@ -137,7 +137,7 @@ how-to-enter: <p>Please format proposal using the&nbsp;<a href="https://www.nei.
 
 <!-- Prizes start -->
 ### Prizes
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <h2>Ideation winner and honorable mention</h2>
 <p>The National Eye Institute awarded $90,000 in prize money to a team led by Erin Lavik, Sc.D., at the University of Maryland, Baltimore County, for its concept to create a living model of the human retina. Lavik&rsquo;s team participated in the&nbsp;3-D Retina Organoid Challenge (3-D ROC) &ldquo;ideation&rdquo; phase, which asked participants for&nbsp;ideas&nbsp;to generate human retinas from stem cells.&nbsp;Concepts were evaluated based on their innovativeness and feasibility.&nbsp;A review panel assessed how each proposal addressed scientific challenges such as how to assemble distinct and anatomically correct layers of retinal tissue, assess retinal cell function, and use the prototypes to understand diseases or test therapies.&nbsp;</p>
@@ -199,13 +199,13 @@ how-to-enter: <p>Please format proposal using the&nbsp;<a href="https://www.nei.
 
 <!-- Rules start -->
 ### Rules 
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>View the official <a href="https://www.nei.nih.gov/about/goals-and-accomplishments/nei-research-initiatives/3-d-retina-organoid-challenge-3-d-roc/2017-ideation-challenge#section-id-3131" target="_blank" rel="noopener">rules for participating</a> in the challenge.</p>
 
 <!-- Judging start -->
 ### Judging Criteria
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>NEI is seeking innovative solutions to achieve significant advances over currently available protocols to grow retina organoids. As solvers address the evaluation criteria outlined below, they should state how and why they expect their proposed new methods or changes/additions to existing methods will improve aspects of retina organoids. Solutions must outline ideas to produce 3-D retina organoids&nbsp;that:</p>
 <ul>
@@ -241,6 +241,6 @@ how-to-enter: <p>Please format proposal using the&nbsp;<a href="https://www.nei.
 
 <!--  How To Enter start -->
 ### How To Enter
-{: .text-accent-warm-dark .font-heading-lg .challenge-section}
+
 
 <p>Please format proposal using the&nbsp;<a href="https://www.nei.nih.gov/sites/default/files/2019-07/Application_Template_revised063017_0.docx">Application Template</a>&nbsp;and submit to challenge.gov as a word document or PDF. Detailed instructions&nbsp;on the submission process can be found in the application template.&nbsp;</p>
