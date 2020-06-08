@@ -171,6 +171,16 @@ collections:
           - { label: 'Permalink', name: 'permalink', widget: 'string' }
           - { label: 'Page Title', name: 'title', widget: 'string'}
           - { label: 'Page Content', name: 'body', widget: 'markdown'}
+      - label: 'Privacy Policy Page'
+        name: 'privacy-policy'
+        file: '/pages/privacy-policy.md'
+        fields: 
+          - { label: 'Layout', name: 'layout', widget: 'string'}
+          - { label: 'Permalink', name: 'permalink', widget: 'string' }
+          - { label: 'Page Title', name: 'title', widget: 'string'}
+          - { label: 'Page Content', name: 'body', widget: 'markdown'}
+
+
      
       
 
