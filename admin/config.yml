@@ -13,7 +13,7 @@ collections:
     label: 'Open Challenges'
     label_singular: 'Challenge'
     folder: '_all-challenges'
-    filter: {field: status, value: "open"}
+    filter: {field: status, value: 'open'}
     identifier_field: 'challenge-title'
     slug: '{{challenge-id}}-{{challenge-title}}'
     create: true
@@ -25,7 +25,7 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'string', default: front-matter-data-markdownify-content }
       - { label: 'Permalink', name: 'permalink', widget: 'string', default: '/challenge/challenge-url-here/' }
       - { label: 'Challenge-ID', name: 'challenge-id', widget: 'string' }
-      - { label: 'Status', name: 'status', widget: 'select', options: ["open", "closed"] }
+      - { label: 'Status', name: 'status', widget: 'select', options: ['open', 'closed'] }
       - { label: 'Sidenav', name: 'sidenav', widget: 'boolean', default: true }
       - { label: 'Card Image', name: 'card-image', widget: 'image' }
       - { label: 'Agency Logo', name: 'agency-logo', widget: 'image' }
@@ -35,16 +35,16 @@ collections:
       - { label: 'Partner Agencies | Non-Federal', name: 'partners-non-federal', widget: 'string', required: false }
       - { label: 'external-url', name: 'external-url', widget: 'string', required: false }
       - { label: 'Total Prize Offered Cash', name: 'total-prize-offered-cash', widget: 'string', required: false }
-      - { label: 'Type of Challenge', name: 'type-of-challenge', widget: 'select', multiple: true, options: ["Software and apps", "Creative (multimedia & design)", "Ideas", "Technology demonstration and hardware", "Nominations", "Business plans", "Analytics, visualizations, algorithms", "Scientific"] }
+      - { label: 'Type of Challenge', name: 'type-of-challenge', widget: 'select', multiple: true, options: ['Software and apps', 'Creative (multimedia & design)', 'Ideas', 'Technology demonstration and hardware', 'Nominations', 'Business plans', 'Analytics, visualizations, algorithms', 'Scientific'] }
       - { label: 'Submission Start', name: 'submission-start', widget: 'string', hint: 'YYYY/MM/DD XX:XX AM/PM' }
       - { label: 'Submission End', name: 'submission-end', widget: 'string', hint: 'YYYY/MM/DD XX:XX AM/PM' }
       - { label: 'Fiscal Year', name: 'fiscal-year', widget: 'string', hint: 'FY20 or FY20, FY21' }
-      - { label: 'Legal Authority', name: 'legal-authority', widget: 'select', options: ["America COMPETES Act", "Agency specific prize authority", "Procurement Authority", "Other Transaction Authority", "Grants and cooperative agreements", "Other"] }
+      - { label: 'Legal Authority', name: 'legal-authority', widget: 'select', options: ['America COMPETES Act', 'Agency specific prize authority', 'Procurement Authority', 'Other Transaction Authority', 'Grants and cooperative agreements', 'Other'] }
       - { label: 'Challenge Manager', name: 'challenge-manager', widget: 'string' }
       - { label: 'Challenge Manager Email', name: 'challenge-manager-email', widget: 'string' }
       - { label: 'Challenge Point of Contact', name: 'point-of-contact', widget: 'string', required: false }
       - { label: 'Body Content Uploads', name: 'body-content-uploads', widget: 'file', required: false }
-      - { label: "Body Content (Will Display in Preview)", name: "body", widget: "markdown", required: false }
+      - { label: 'Body Content (Will Display in Preview)', name: 'body', widget: 'markdown', required: false }
       - { label: 'Description (Copy from Body)', name: 'description', widget: 'markdown', required: false }
       - { label: 'Prizes (Copy from Body)', name: 'prizes', widget: 'markdown', required: false }
       - { label: 'Rules (Copy from Body)', name: 'rules', widget: 'markdown', required: false }
@@ -55,7 +55,7 @@ collections:
     label: 'Archived Challenges'
     label_singular: 'Archived Challenge'
     folder: '_all-challenges'
-    filter: {field: "status", value: "closed"}
+    filter: {field: 'status', value: 'closed'}
     identifier_field: 'challenge-title'
     slug: '{{challenge-id}}-{{challenge-title}}'
     create: true
@@ -67,7 +67,7 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'string', default: front-matter-data-markdownify-content }
       - { label: 'Permalink', name: 'permalink', widget: 'string', default: '/challenge/challenge-url-here/' }
       - { label: 'Challenge-ID', name: 'challenge-id', widget: 'string' }
-      - { label: 'Status', name: 'status', widget: 'select', options: ["open", "closed"] }
+      - { label: 'Status', name: 'status', widget: 'select', options: ['open', 'closed'] }
       - { label: 'Sidenav', name: 'sidenav', widget: 'boolean', default: true }
       - { label: 'Card Image', name: 'card-image', widget: 'image' }
       - { label: 'Agency Logo', name: 'agency-logo', widget: 'image' }
@@ -77,11 +77,11 @@ collections:
       - { label: 'Partner Agencies | Non-Federal', name: 'partners-non-federal', widget: 'string', required: false }
       - { label: 'external-url', name: 'external-url', widget: 'string', required: false }
       - { label: 'Total Prize Offered Cash', name: 'total-prize-offered-cash', widget: 'string', required: false }
-      - { label: 'Type of Challenge', name: 'type-of-challenge', widget: 'select', multiple: true, options: ["Software and apps", "Creative (multimedia & design)", "Ideas", "Technology demonstration and hardware", "Nominations", "Business plans", "Analytics, visualizations, algorithms", "Scientific"] }
+      - { label: 'Type of Challenge', name: 'type-of-challenge', widget: 'select', multiple: true, options: ['Software and apps', 'Creative (multimedia & design)', 'Ideas', 'Technology demonstration and hardware', 'Nominations', 'Business plans', 'Analytics, visualizations, algorithms', 'Scientific'] }
       - { label: 'Submission Start', name: 'submission-start', widget: 'string', hint: 'YYYY/MM/DD XX:XX AM/PM' }
       - { label: 'Submission End', name: 'submission-end', widget: 'string', hint: 'YYYY/MM/DD XX:XX AM/PM' }
       - { label: 'Fiscal Year', name: 'fiscal-year', widget: 'string', hint: 'FY20 or FY20, FY21' }
-      - { label: 'Legal Authority', name: 'legal-authority', widget: 'select', options: ["America COMPETES Act", "Agency specific prize authority", "Procurement Authority", "Other Transaction Authority", "Grants and cooperative agreements", "Other"] }
+      - { label: 'Legal Authority', name: 'legal-authority', widget: 'select', options: ['America COMPETES Act', 'Agency specific prize authority', 'Procurement Authority', 'Other Transaction Authority', 'Grants and cooperative agreements', 'Other'] }
       - { label: 'Challenge Manager', name: 'challenge-manager', widget: 'string' }
       - { label: 'Challenge Manager Email', name: 'challenge-manager-email', widget: 'string' }
       - { label: 'Challenge Point of Contact', name: 'point-of-contact', widget: 'string', required: false }
@@ -107,7 +107,7 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'string', default: front-matter-data-markdownify-content }
       - { label: 'Permalink', name: 'permalink', widget: 'string', default: '/challenge/challenge-url-here/' }
       - { label: 'Challenge-ID', name: 'challenge-id', widget: 'string' }
-      - { label: 'Status', name: 'status', widget: 'select', options: ["open", "closed"] }
+      - { label: 'Status', name: 'status', widget: 'select', options: ['open', 'closed'] }
       - { label: 'Sidenav', name: 'sidenav', widget: 'boolean', default: true }
       - { label: 'Card Image', name: 'card-image', widget: 'image' }
       - { label: 'Agency Logo', name: 'agency-logo', widget: 'image' }
@@ -117,16 +117,16 @@ collections:
       - { label: 'Partner Agencies | Non-Federal', name: 'partners-non-federal', widget: 'string', required: false }
       - { label: 'external-url', name: 'external-url', widget: 'string', required: false }
       - { label: 'Total Prize Offered Cash', name: 'total-prize-offered-cash', widget: 'string', required: false }
-      - { label: 'Type of Challenge', name: 'type-of-challenge', widget: 'select', multiple: true, options: ["Software and apps", "Creative (multimedia & design)", "Ideas", "Technology demonstration and hardware", "Nominations", "Business plans", "Analytics, visualizations, algorithms", "Scientific"] }
+      - { label: 'Type of Challenge', name: 'type-of-challenge', widget: 'select', multiple: true, options: ['Software and apps', 'Creative (multimedia & design)', 'Ideas', 'Technology demonstration and hardware', 'Nominations', 'Business plans', 'Analytics, visualizations, algorithms', 'Scientific'] }
       - { label: 'Submission Start', name: 'submission-start', widget: 'string', hint: 'YYYY/MM/DD XX:XX AM/PM' }
       - { label: 'Submission End', name: 'submission-end', widget: 'string', hint: 'YYYY/MM/DD XX:XX AM/PM' }
       - { label: 'Fiscal Year', name: 'fiscal-year', widget: 'string', hint: 'FY20 or FY20, FY21' }
-      - { label: 'Legal Authority', name: 'legal-authority', widget: 'select', options: ["America COMPETES Act", "Agency specific prize authority", "Procurement Authority", "Other Transaction Authority", "Grants and cooperative agreements", "Other"] }
+      - { label: 'Legal Authority', name: 'legal-authority', widget: 'select', options: ['America COMPETES Act', 'Agency specific prize authority', 'Procurement Authority', 'Other Transaction Authority', 'Grants and cooperative agreements', 'Other'] }
       - { label: 'Challenge Manager', name: 'challenge-manager', widget: 'string' }
       - { label: 'Challenge Manager Email', name: 'challenge-manager-email', widget: 'string' }
       - { label: 'Challenge Point of Contact', name: 'point-of-contact', widget: 'string', required: false }
       - { label: 'Body Content Uploads', name: 'body-content-uploads', widget: 'file', required: false }
-      - { label: "Body Content (Will Display in Preview)", name: "body", widget: "markdown", required: false }
+      - { label: 'Body Content (Will Display in Preview)', name: 'body', widget: 'markdown', required: false }
       - { label: 'Description (Copy from Body)', name: 'description', widget: 'markdown', required: false }
       - { label: 'Prizes (Copy from Body)', name: 'prizes', widget: 'markdown', required: false }
       - { label: 'Rules (Copy from Body)', name: 'rules', widget: 'markdown', required: false }
@@ -151,7 +151,19 @@ collections:
       - { label: 'Author', name: 'author', widget: 'string' }
       - { label: 'Image', name: 'image', widget: 'image', required: false }
       - { label: 'Image Alt Text', name: 'image_alt_text', widget: 'string', required: false }
-      - { label: "Post Content", name: "body", widget: "markdown" }
+      - { label: 'Post Content', name: 'body', widget: 'markdown' }
+  - label: 'Pages'
+    name: 'pages'
+    files:
+      - label: 'About Page'
+        name: 'about'
+        file: '/pages/about.md'
+        preview: false
+        fields: 
+          - { label: 'Layout', name: 'layout', widget: 'string'}
+          - { label: 'Permalink', name: 'permalink', widget: 'string' }
+          - { label: 'Page Title', name: 'title', widget: 'string'}
+          - { label: 'Page Content', name: 'body', widget: 'markdown'}
 
 
 
