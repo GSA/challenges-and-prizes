@@ -158,15 +158,20 @@ collections:
       - label: 'About Page'
         name: 'about'
         file: '/pages/about.md'
-        preview: false
         fields: 
           - { label: 'Layout', name: 'layout', widget: 'string'}
           - { label: 'Permalink', name: 'permalink', widget: 'string' }
           - { label: 'Page Title', name: 'title', widget: 'string'}
           - { label: 'Page Content', name: 'body', widget: 'markdown'}
-
-
-
+      - label: 'Contact Page'
+        name: 'contact'
+        file: '/pages/contact.md'
+        fields: 
+          - { label: 'Layout', name: 'layout', widget: 'string'}
+          - { label: 'Permalink', name: 'permalink', widget: 'string' }
+          - { label: 'Page Title', name: 'title', widget: 'string'}
+          - { label: 'Page Content', name: 'body', widget: 'markdown'}
+     
       
 
 
