@@ -179,6 +179,14 @@ collections:
           - { label: 'Permalink', name: 'permalink', widget: 'string' }
           - { label: 'Page Title', name: 'title', widget: 'string'}
           - { label: 'Page Content', name: 'body', widget: 'markdown'}
+      - label: 'Terms of Service Page'
+        name: 'terms'
+        file: '/pages/terms-of-service.md'
+        fields: 
+          - { label: 'Layout', name: 'layout', widget: 'string'}
+          - { label: 'Permalink', name: 'permalink', widget: 'string' }
+          - { label: 'Page Title', name: 'title', widget: 'string'}
+          - { label: 'Page Content', name: 'body', widget: 'markdown'}
 
 
      
