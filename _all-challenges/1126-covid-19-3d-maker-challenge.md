@@ -4,20 +4,22 @@ challenge-title: COVID-19 3D Maker Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/covid-19-3d-maker-challenge/
 challenge-id: "1126"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/covidmaker.png
 agency-logo: /assets/netlify-uploads/valogo.png
-tagline: Teams of subject-matter experts will develop innovative solutions to challenges frontline essential workers encounter in their fight against COVID-19.
+tagline: Teams of subject-matter experts will develop innovative solutions to
+  challenges frontline essential workers encounter in their fight against
+  COVID-19.
 agency: Department of Veterans Affairs
 partner-agencies-federal: VHA Innovation Ecosystem
-partners-non-federal: Challenge America, America Makes, Carahsoft,
-  Salesforce, Balance Innovation and Design, Medallia, UHS, BioEnterprise,
-  Acumen Solutions, Fix8, AMVETS
+partners-non-federal: Challenge America, America Makes, Carahsoft, Salesforce,
+  Balance Innovation and Design, Medallia, UHS, BioEnterprise, Acumen Solutions,
+  Fix8, AMVETS
 type-of-challenge:
   - Technology demonstration and hardware
-submission-start: 2020/05/04 05:00 PM
-submission-end: 2020/06/07 05:00 PM
+submission-start: 05/04/2020 05:00 PM
+submission-end: 06/07/2020 05:00 PM
 fiscal-year: FY20
 legal-authority: Agency specific prize authority
 challenge-manager: Dallas Blaney
