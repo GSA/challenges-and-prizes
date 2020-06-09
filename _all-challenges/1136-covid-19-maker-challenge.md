@@ -24,8 +24,8 @@ submission-start: 2020/06/08 5:00 PM
 submission-end: 2020/07/10 5:00 PM
 fiscal-year: FY20
 legal-authority: Agency specific prize authority
-challenge-manager: Dallas Blaney
-challenge-manager-email: dallas@challengeamerica.com
+challenge-manager: Danielle Krakora
+challenge-manager-email: "danielle.krakora@va.gov "
 point-of-contact: maggie@challengeamerica.com
 description: Teams will design and develop innovative solutions to address
   challenges arising from the COVID-19 pandemic. Teams will collaborate
