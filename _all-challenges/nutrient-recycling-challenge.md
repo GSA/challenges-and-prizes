@@ -45,9 +45,7 @@ partner-agencies-federal: 'U.S. Department of Agriculture, U.S. Department of En
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''
-rules: This challenge is closed.  <img
-  class="aligncenter wp-image-96401 size-medium" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/10/Agriculture_032-300x200.jpg"
-  alt="Photo of plant sprouting from the ground." width="300" height="200" />
+rules: This challenge is closed. 
 submission-start-date-1: ''
 hide-challenge-timeline: 'No'
 judging-start-date: ''
