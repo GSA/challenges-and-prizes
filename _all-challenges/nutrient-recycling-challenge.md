@@ -2,9 +2,7 @@
 ideaSubmitFormInstruction: '<p style="line-height: 15.0pt; background: white; vertical-align:
 top; margin: 0in 0in 7.5pt 0in;"><strong><span style="font-size: 10.5pt; font-family:
 ''Helvetica'',sans-serif; color: #555555;">The submissions period for Phase I of
-the Nutrient Recycling Challenge closed on January 15, 2016. Phase II will begin
-in October 2016, and will be limited to the 34 innovator teams selected to proceed
-from Phase I. </span></strong></p>  <img class="aligncenter wp-image-96651" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/10/Sustainability_005-300x199.jpg"
+the Nutrient Recycling Challenge closed on January 15, 2016. Phase II began in October 2016, and was limited to the 34 innovator teams selected to proceed from Phase I. </span></strong></p>  <img class="aligncenter wp-image-96651" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/10/Sustainability_005-300x199.jpg"
 alt="Photo of a light bulb" width="468" height="310" />    &nbsp;'
 startDate: '2018-11-26T06:50:50'
 votingAllowed: false
@@ -263,7 +261,7 @@ description: '<p>The Nutrient Recycling Challenge was a prize competition that E
   benefits from manure by-products, but further innovation is needed to develop more
   effective and affordable technologies that can extract nutrients and create products
   that farmers can use, transport, or sell more easily to where nutrients are in demand. The
-  mission of the Nutrient Recycling Challenge is to help find technologies that are
+  mission of the Nutrient Recycling Challenge was to help find technologies that are
   a win-win for the environment, farmers, and the economy.</p>
   <p><strong><u>Phase II Program</u></strong></p>  <strong><em>Phase II </em></strong>(2016-2017) of the Nutrient
   Recycling Challenge was a non-competitive incubation program to support innovators
@@ -286,8 +284,8 @@ description: '<p>The Nutrient Recycling Challenge was a prize competition that E
   their awards at a ceremony at the White House Eisenhower Executive Office Building.
   The summit provided a forum for innovators to meet Partners, experts, and other
   innovators, as well as learn about resources to develop their ideas into real-life
-  technologies. EPA seeks to create a “brain trust” that can design nutrient recovery
-  technologies that can achieve what both farmers and the environment need. </p>
+  technologies. EPA sought to create a “brain trust” to design nutrient recovery
+  technologies to achieve what both farmers and the environment need. </p>
   <ul>    
   <li><a
   href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/10/Nutrient-Recycling-Challenge-DC-Summit_Final-Agenda.pdf"
