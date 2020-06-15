@@ -4,7 +4,7 @@ challenge-title: " Air Force Synthetic Biology Challenge"
 layout: front-matter-data-markdownify-content
 permalink: /challenge/air-force-synthetic-biology-challenge/
 challenge-id: "1120"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/syntheticbiology.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
@@ -14,8 +14,8 @@ agency: Department of Defense - U.S. Air Force
 total-prize-offered-cash: $1,000,000
 type-of-challenge:
   - Scientific
-submission-start: 2020/04/15 12:00 AM
-submission-end: 2020/06/15 11:59 PM
+submission-start: 04/15/2020 12:00 AM
+submission-end: 06/15/2020 11:59 PM
 fiscal-year: FY20
 legal-authority: Agency specific prize authority
 challenge-manager: Chris Levitt
