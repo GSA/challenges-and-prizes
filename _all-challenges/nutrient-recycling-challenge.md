@@ -2,9 +2,7 @@
 ideaSubmitFormInstruction: '<p style="line-height: 15.0pt; background: white; vertical-align:
 top; margin: 0in 0in 7.5pt 0in;"><strong><span style="font-size: 10.5pt; font-family:
 ''Helvetica'',sans-serif; color: #555555;">The submissions period for Phase I of
-the Nutrient Recycling Challenge closed on January 15, 2016. Phase II will begin
-in October 2016, and will be limited to the 34 innovator teams selected to proceed
-from Phase I. </span></strong></p>  <img class="aligncenter wp-image-96651" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/10/Sustainability_005-300x199.jpg"
+the Nutrient Recycling Challenge closed on January 15, 2016. Phase II began in October 2016, and was limited to the 34 innovator teams selected to proceed from Phase I. </span></strong></p>  <img class="aligncenter wp-image-96651" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/10/Sustainability_005-300x199.jpg"
 alt="Photo of a light bulb" width="468" height="310" />    &nbsp;'
 startDate: '2018-11-26T06:50:50'
 votingAllowed: false
@@ -15,7 +13,7 @@ challenge-id: 602
 moderatorAdminOnlyIdeasEnabled: false
 funnelId: 4
 ideaFromUnauthorizedMemberAllowed: true
-tagline: EPA and its partners are hosting a competition for technologies to recycle
+tagline: EPA and its partners hosted a competition for technologies to recycle
   nutrients from livestock manure.
 groupName: Environmental Protection Agency
 hideIdeaAuthor: false
@@ -47,11 +45,7 @@ partner-agencies-federal: 'U.S. Department of Agriculture, U.S. Department of En
 judging-end-date: ''
 solicitation-methods: ''
 advancing-the-agency-mission: ''
-rules: The submissions period for Phase I of the Nutrient Recycling Challenge
-  closed on January 15, 2016. Phase II will begin in October 2016, and will be
-  limited to the 34 innovator teams selected to proceed from Phase I.   <br>  &nbsp;    <img
-  class="aligncenter wp-image-96401 size-medium" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/10/Agriculture_032-300x200.jpg"
-  alt="Photo of plant sprouting from the ground." width="300" height="200" />
+rules: This challenge is closed. 
 submission-start-date-1: ''
 hide-challenge-timeline: 'No'
 judging-start-date: ''
@@ -251,12 +245,9 @@ winner-name-9: ''
 winner-solution-title-9: ''
 memberIdeaSubmissionAllowed: false
 showTitle: true
-description: '<p>The Nutrient Recycling Challenge was a prize competition that EPA launched in 2015 in collaboration with 20 organizations to spur development of affordable technologies that recover nitrogen and phosphorus from dairy and/or swine manure and create value-added products that producers can use or sell. In 2019, the EPA signed a <a href="https://www.epa.gov/npdes/animal-feeding-operations-afos#technology" target="blank" rel="noopener">Memorandum of Understanding (MOU)</a> with the Water Research Foundation (WRF) to build on the successes of Phases I and II by focusing on building capacity for technology evaluation programs and peer-to-peer information sharing about technology performance.</p>
-  <p><a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/10/NutrientRecyclingChallenge-Phase-II-Ancmnt_Factsheet_Nov2016_508.pdf"
-  target="_blank">Nutrient Recycling Challenge Phase II Announcement Factsheet (Nov.
-  2016</a>)</p>  <p><a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/10/Nutrient-Recycling-Challenge-Phase-II-Ancmnt_FAQ_10-04-2016.508-Final.pdf"
-  target="_blank">Nutrient Recycling Challenge Phase II FAQs (Oct 2016</a>)</p>  <a
-  href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/10/Nutrient-Recycling-Challenge-Partners-banner_revised-web_Nov2016_DOEadded.png"><img
+description: '<p>The Nutrient Recycling Challenge was a prize competition that EPA launched in 2015 in collaboration with 20 organizations to spur development of affordable technologies that recover nitrogen and phosphorus from dairy and/or swine manure and create value-added products that producers can use or sell. To build on the successes of the Nutrient Recycling Challenge, in 2019, the EPA signed a Memorandum of Understanding (MOU) with The Water Research Foundation (WRF) to accelerate progress on reducing excess nutrients in the nation’s waterways. For more information on the MOU, visit <a href="https://www.epa.gov/npdes/epa-memorandum-understanding-water-research-foundation-advancing-nutrient-management-efforts" target="_blank" rel="noopener">https://www.epa.gov/npdes/epa-memorandum-understanding-water-research-foundation-advancing-nutrient-management-efforts</a>.</p> 
+<p>For information on Animal Feeding Operations (AFOs), visit <a href="https://www.epa.gov/npdes/animal-feeding-operations-afos" target="_blank" rel="noopener">https://www.epa.gov/npdes/animal-feeding-operations-afos</a>, and for information on uses of animal manure, visit <a href="https://www.epa.gov/npdes/animal-feeding-operations-afos#manure" target="_blank" rel="noopener">https://www.epa.gov/npdes/animal-feeding-operations-afos#manure</a>.</p>
+<a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/10/Nutrient-Recycling-Challenge-Partners-banner_revised-web_Nov2016_DOEadded.png"><img
   class="wp-image-158995 size-medium aligncenter" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/10/Nutrient-Recycling-Challenge-Partners-banner_revised-web_Nov2016_DOEadded-300x100.png"
   alt="Nutrient Recycling Challenge Partners Banner" width="300" height="100" /></a>  <p
 ><span style="text-decoration: underline;"><strong>Overview</strong></span></p>  <p
@@ -267,35 +258,23 @@ description: '<p>The Nutrient Recycling Challenge was a prize competition that E
   addition, there is a tremendous opportunity to generate environmental and economic
   benefits from manure by-products, but further innovation is needed to develop more
   effective and affordable technologies that can extract nutrients and create products
-  that farmers can use, transport, or sell more easily to where nutrients are in demand.</p>  The
-  mission of the Nutrient Recycling Challenge is to help find technologies that are
-  a win-win for the environment, farmers, and the economy.    <strong>How will it
-  work?</strong>    There are four phases planned for this innovation challenge, in
-  which innovators will be invited to turn their concepts into designs, and eventually,
-  into working technologies to be piloted on livestock farms:    <strong><em>Phase
-  I: Concept Papers [closed] - </em></strong>November 16, 2015 – January 15, 2016    <strong><em>Phase
-  II: Technology Designs - </em></strong>October 2016 – March 2017    <strong><em>Phase
-  III: Prototypes/Proof of Concept </em></strong>    <strong><em>Phase IV: Finalists’
-  demonstration pilots on farms </em></strong>    &nbsp;  <p><strong><u>Phase
-  II Program</u></strong></p>  <strong><em>Phase II </em></strong>of the Nutrient
-  Recycling Challenge will be a non-competitive incubation program to support innovators
-  as they develop Technology Designs based on the Concept Papers submitted in <strong><em>Phase
-  I</em></strong>. <strong><em>Phase II </em></strong>will begin in October 2016 and
-  only be open to the 34 teams selected in <strong><em>Phase I</em></strong>. EPA
-  and its Partners will support the innovators with informational webinars and workshops,
+  that farmers can use, transport, or sell more easily to where nutrients are in demand. The
+  mission of the Nutrient Recycling Challenge was to help find technologies that are
+  a win-win for the environment, farmers, and the economy.</p>
+  <p><strong><u>Phase II Program</u></strong></p>  <strong><em>Phase II </em></strong>(2016-2017) of the Nutrient
+  Recycling Challenge was a non-competitive incubation program to support innovators
+  as they developed Technology Designs based on the Concept Papers submitted in <strong><em>Phase
+  I</em></strong>. EPA and its Partners supported the innovators with informational webinars and workshops,
   individualized feedback, and other resources to maximize their ability to develop
-  designs for effective and affordable technologies. Innovators will finalize their
-  designs and teams by March 2017 before proceeding to <strong><em>Phase III </em></strong>of
-  the challenge, which is expected to be a prize competition for building Prototypes.  <ul>    <li
-  style="text-align: left;"><a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/10/NutrientRecyclingChallenge-Phase-II-Ancmnt_Factsheet_Nov2016_508.pdf"
-  target="_blank">Nutrient Recycling Challenge Phase II Announcement Factsheet (Nov.
-  2016)</a></li>    <li style="text-align: left;">
-  
-  <p"><a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/10/Nutrient-Recycling-Challenge-Phase-II-Ancmnt_FAQ_10-04-2016.508-Final.pdf"
-  target="_blank">Nutrient Recycling Challenge Phase II FAQs (Oct 2016</a>)</p> </ul>  &nbsp;  <p
-><span style="text-decoration: underline;"><strong>Background:
-  Phase I</strong></span></p>  EPA received 75 concept papers from around the world
-  in Phase I, and selected 34 submissions to continue on to Phase II of the challenge.
+  designs for effective and affordable technologies.</p>
+  <ul>
+  <li style="text-align: left;"><a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/10/NutrientRecyclingChallenge-Phase-II-Ancmnt_Factsheet_Nov2016_508.pdf" target="_blank" rel="noopener">Nutrient Recycling Challenge Phase II Announcement Factsheet (Nov.
+  2016)</a></li>    
+  <li style="text-align: left;"><a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/10/Nutrient-Recycling-Challenge-Phase-II-Ancmnt_FAQ_10-04-2016.508-Final.pdf" target="_blank" rel="noopener">Nutrient Recycling Challenge Phase II FAQs (Oct 2016</a>)</li>
+</ul>
+<p><span style="text-decoration: underline;"><strong>Background:
+  Phase I</strong></span></p>  <p>EPA received 75 concept papers from around the world
+  in Phase I (2015), and selected 34 submissions to continue on to Phase II of the challenge.
   On March 30, 2016, EPA announced the winners and awarded a total of $30,000 in cash
   prizes to the top 10 submissions (four “Winners” and six “Honorable Mentions”).
   The 34 selected submissions were also invited to the Nutrient Recycling Challenge
@@ -303,13 +282,16 @@ description: '<p>The Nutrient Recycling Challenge was a prize competition that E
   their awards at a ceremony at the White House Eisenhower Executive Office Building.
   The summit provided a forum for innovators to meet Partners, experts, and other
   innovators, as well as learn about resources to develop their ideas into real-life
-  technologies. EPA seeks to create a “brain trust” that can design nutrient recovery
-  technologies that can achieve what both farmers and the environment need.  <ul>    <li><a
+  technologies. EPA sought to create a “brain trust” to design nutrient recovery
+  technologies to achieve what both farmers and the environment need. </p>
+  <ul>    
+  <li><a
   href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/10/Nutrient-Recycling-Challenge-DC-Summit_Final-Agenda.pdf"
   rel="">Nutrient Recycling Challenge DC Summit_Final Agenda</a></li>    <li><a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/10/Nutrient-Recycling-Challenge-Phase-I-Selections.pdf"
-  rel="">Nutrient Recycling Challenge Phase I Selections</a></li>    <li><a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/10/Nutrient-Recycling-Challenge_Phase-1_Planning-Cmte-Judges-1.pdf"
-  target="_blank">Nutrient Recycling Challenge Phase I Planning Committee and Judging
-  Panel</a></li>  </ul>  Documents from Phase I of the challenge:  <ul>    <li><a
+  rel="">Nutrient Recycling Challenge Phase I Selections</a></li>    <li><a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/10/Nutrient-Recycling-Challenge_Phase-1_Planning-Cmte-Judges-1.pdf" target="_blank" rel="noopener">Nutrient Recycling Challenge Phase I Planning Committee and Judging
+  Panel</a></li>  </ul> <p>Documents from Phase I of the challenge: </p>
+  <ul> 
+  <li><a
   href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/10/Nutrient-Recycling-Challenge-Competition-Information-Criteria-and-Guidelines.pdf">Nutrient
   Recycling Challenge Competition Information, Criteria, and Guidelines</a></li>    <li><a
   href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/10/Nutrient-Recycling-Challenge_Background_508_Final.pdf">Background
@@ -317,17 +299,14 @@ description: '<p>The Nutrient Recycling Challenge was a prize competition that E
   href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/10/Cows.jpg"><img
   class="size-medium wp-image-98281 aligncenter" src="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2015/10/Cows-300x201.jpg"
   alt="Cows" width="300" height="201" /></a>     <p style="text-align:
-  left;"><a href="https://archive.epa.gov/epa/newsreleases/epa-announces-nutrient-recycling-challenge-winners.html"
-  target="_blank">EPA Press Release winners &amp; DC Summit: 3/30/2016</a></p>  <p
-  style="text-align: left;"><a href="https://19january2017snapshot.epa.gov/newsreleases/epa-and-partners-launch-challenge-recycle-nutrients-livestock-waste_.html"
-  target="_blank">EPA Press Release Phase I launch: 11/11/2015</a></p>  <p style="text-align:
+  left;"><a href="https://archive.epa.gov/epa/newsreleases/epa-announces-nutrient-recycling-challenge-winners.html" target="_blank" rel="noopener">EPA Press Release winners &amp; DC Summit: 3/30/2016</a></p>  <p
+  style="text-align: left;"><a href="https://19january2017snapshot.epa.gov/newsreleases/epa-and-partners-launch-challenge-recycle-nutrients-livestock-waste_.html" target="_blank" rel="noopener">EPA Press Release Phase I launch: 11/11/2015</a></p>  <p style="text-align:
   left;"><em>Follow the Nutrient Recycling Challenge</em>:</p>  <p style="text-align:
-  left;"><strong>Facebook</strong>: <a href="https://www.facebook.com/EPAOfficeofWater/"
-  target="_blank">EPAwater is Worth It</a></p>  <p style="text-align: left;"><strong>Twitter</strong>:
+  left;"><strong>Facebook</strong>: <a href="https://www.facebook.com/EPAOfficeofWater/" target="_blank" rel="noopener">EPAwater is Worth It</a></p>  <p style="text-align: left;"><strong>Twitter</strong>:
   <a href="https://twitter.com/EPAwater?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
   target="_blank">@EPAwater</a></p>  <p style="text-align: left;"><em>Tweet about
   it</em>: <strong>#nutrientrecycling</strong></p>  <p style="text-align: left;"><strong>Challenge
-  website</strong>: <a href="http://www.nutrientrecyclingchallenge.org" target="_blank">www.nutrientrecyclingchallenge.org</a></p>  <p
+  website</strong>: <a href="https://www.challenge.gov/challenge/nutrient-recycling-challenge/" target="_blank">https://www.challenge.gov/challenge/nutrient-recycling-challenge/ </a></p>  <p
   style="text-align: left;"><span style="text-decoration: underline;"><strong>Contact</strong></span>:
   <a href="mailto:nutrientrecyclingchallenge@epa.gov" target="_blank">nutrientrecyclingchallenge@epa.gov</a></p>  <p
 ><strong><span style="text-decoration: underline;">Nutrient
