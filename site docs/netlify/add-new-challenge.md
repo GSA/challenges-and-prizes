@@ -1,8 +1,8 @@
 ### To Add a New Challenge using Netlify CMS
 
-1.  From the Challenges Collection click on New Challenge
+1.  From the *All Challenges* Collection click on *New Challenge*
 
-	a.  You can also click on Quick Add from the top right corner of the page
+	a.  You can also click on *Quick Add* from the top right corner of the page
 
 2.  Fill out the form fields  
 
@@ -18,9 +18,9 @@
 
 				-  Click *Check for Preview* in about 4 mins, if your preview is ready it will switch to *View Preview*
 
-	    -  Federalist will rebuild the preview Every Time you click Save
+	    -  Federalist will rebuild the preview every time you click *Save*
 
-            -  Try not to make a ton of edits/saves as Federalist rebuilds each time you click save. If the previous build did not finish then it adds it to the que and you will create a longer wait for yourself.
+            -  Try to include several edits in one *Save* as Federalist rebuilds each time you click *Save*. If the previous build did not finish then it adds it to the queue and you will create a longer wait for yourself.
 
 	2.  Create a new branch and pull request (PR) in GitHub
 
