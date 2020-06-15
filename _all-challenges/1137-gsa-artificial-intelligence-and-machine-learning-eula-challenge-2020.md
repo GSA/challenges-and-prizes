@@ -8,7 +8,8 @@ status: open
 sidenav: true
 card-image: /assets/netlify-uploads/challenge-gov.png
 agency-logo: /assets/netlify-uploads/1198px-US-GeneralServicesAdministration-Logo.png
-tagline: Tagline Pending
+tagline: Create an artificial intelligence or machine learning solution to aid
+  in the review of end-user license agreements.
 agency: General Services Administration
 total-prize-offered-cash: $20,000
 type-of-challenge:
