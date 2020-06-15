@@ -134,9 +134,9 @@ rules: >-
 
   * The official representative for each challenge entry shall upload in advance of the submission end date (08/20/2020 5:00 PM ET) the following items: 
 
-  * Solution Document
+  * Solution document
 
-  * Solution Demonstration
+  * Solution demonstration
 
   * A document or video that provides a high level view of the functionality and purpose of the solution, along with a demonstration of how it would be used by a business user.
 
@@ -229,11 +229,8 @@ judging: >-
 
 
   * The solution classifies clauses as acceptable or unacceptable using the validation data file and provides a probability of each classification. The solution will be validated based on a combination of:
-
-  * The self-reported metrics in the ‘Description of Methods’ document.
-
-  * GSA processing of the Validation File to calculate the Brier Score and F1 Score.
-
+      * The self-reported metrics in the ‘Description of Methods’ document.
+      * GSA processing of the Validation File to calculate the Brier Score and F1 Score.
   * The Description of Methods provides a comprehensive description and demonstration of the data, methods, and software used in the solution.
 
   * The Description of Methods clearly explains the reasons for predictions made using the validation data.
@@ -247,11 +244,8 @@ judging: >-
   * The solution successfully parses documents into individual clauses for evaluation.
 
   * For each individual clause, the solution reports:
-
-  * A classification of acceptable or unacceptable.
-
-  * A prediction probability for each clause.
-
+      * A classification of acceptable or unacceptable.
+      * A prediction probability for each clause.
   * The user interface of the solution is realistic and usable by a business user.
 
 
@@ -261,13 +255,9 @@ judging: >-
   * The solution provides an innovative approach to solve the issues presented.
 
   * The solution provides creative solutions to overcome limited training data available, such as:
-
-  * Transfer learning from additional GSA provided data.
-
-  * Incorporation of additional exhibits provided by GSA.
-
-  * Identifying and using additional public sources of data that are relevant to the solution.
-
+      * Transfer learning from additional GSA provided data.
+      * Incorporation of additional exhibits provided by GSA.
+      * Identifying and using additional public sources of data that are relevant to the solution.
 
   **Quality of Demonstration (20%)**
 
@@ -289,11 +279,8 @@ judging: >-
 
 
   * Up to 5% bonus points on the total score for exceptional functionality of greater difficulty, including: 
-
-  * Methods of retraining the model based on user review of solution output.
-
-  * Methods to explain the reason that individual clauses were classified as unacceptable.
-
+      * Methods of retraining the model based on user review of solution output.
+      * Methods to explain the reason that individual clauses were classified as unacceptable.
 
   **Total Possible Score = 105/100 (including bonus points)**
 how-to-enter: >-
@@ -327,11 +314,9 @@ how-to-enter: >-
 
   * Solvers must not use GSA, or other government logos or official seals in their submissions and must not otherwise give an appearance of federal government endorsement.
 
+  * Solution description Document ([template](<https://github.com/GSA/ai-ml-challenge-2020/blob/master/reference/AI_ML_Challenge_Solution Description_Document.docx>))
 
-  1. Solution Description Document ([template](<https://github.com/GSA/ai-ml-challenge-2020/blob/master/reference/AI_ML_Challenge_Solution Description_Document.docx>))
-
-  2. Solution Demonstration
-
+  * Solution demonstration
 
   * A document or video that provides a high level view of the functionality and purpose of the solution, along with a demonstration of how it would be used by a business user.
 
@@ -343,23 +328,18 @@ how-to-enter: >-
   Upload the following deliverables to GitHub following these instructions: <https://github.com/GSA/ai-ml-Challenge-2020/blob/master/README.md>. (Submissions will be publicly viewable.)
 
 
-  1. Validation Data File
+  **1. Validation Data File**
 
 
   * Output file in prescribed format.
 
   * Includes classification of clauses contained in Validation File, along with confidence scores.
+      * Clause ID
+      * Clause Text
+      * Prediction: 0 - acceptable, 1 - unacceptable
+      * Prediction Probability - percent 
 
-  * Clause ID
-
-  * Clause Text
-
-  * Prediction: 0 - acceptable, 1 - unacceptable
-
-  * Prediction Probability - percent 
-
-
-  2. Description of Methods Document
+  **2. Description of Methods Document**
 
 
   * A document in PDF, MS Word, or Jupyter notebook format.
@@ -371,13 +351,10 @@ how-to-enter: >-
   * Clearly explains the reasons for predictions made in the Validation Data File submission.
 
   * Contains self-reported metrics of the solution, by providing:
+      * Brier score
+      * F1 score (also known as F-Measure)
 
-  * Brier score
-
-  * F1 score (also known as F-Measure)
-
-
-  3. Source Code, Input Data, and Compiled Models
+  **3. Source Code, Input Data, and Compiled Models**
 
 
   * All source code used in creation of the solution.
@@ -520,8 +497,9 @@ Scoring rubric for judges: [AI/ML Challenge Scoring Rubric](<https://github.com/
 **Technical Evaluation (40%)**
 
 * The solution classifies clauses as acceptable or unacceptable using the validation data file and provides a probability of each classification. The solution will be validated based on a combination of:
-* The self-reported metrics in the ‘Description of Methods’ document.
-* GSA processing of the Validation File to calculate the Brier Score and F1 Score.
+
+  * The self-reported metrics in the ‘Description of Methods’ document.
+  * GSA processing of the Validation File to calculate the Brier Score and F1 Score.
 * The Description of Methods provides a comprehensive description and demonstration of the data, methods, and software used in the solution.
 * The Description of Methods clearly explains the reasons for predictions made using the validation data.
 
@@ -530,17 +508,19 @@ Scoring rubric for judges: [AI/ML Challenge Scoring Rubric](<https://github.com/
 * The solution allows the user to provide a EULA document in MS Word or PDF format.
 * The solution successfully parses documents into individual clauses for evaluation.
 * For each individual clause, the solution reports:
-* A classification of acceptable or unacceptable.
-* A prediction probability for each clause.
+
+  * A classification of acceptable or unacceptable.
+  * A prediction probability for each clause.
 * The user interface of the solution is realistic and usable by a business user.
 
 **Creativity and Innovation (10%)**
 
 * The solution provides an innovative approach to solve the issues presented.
 * The solution provides creative solutions to overcome limited training data available, such as:
-* Transfer learning from additional GSA provided data.
-* Incorporation of additional exhibits provided by GSA.
-* Identifying and using additional public sources of data that are relevant to the solution.
+
+  * Transfer learning from additional GSA provided data.
+  * Incorporation of additional exhibits provided by GSA.
+  * Identifying and using additional public sources of data that are relevant to the solution.
 
 **Quality of Demonstration (20%)**
 
@@ -554,8 +534,9 @@ Scoring rubric for judges: [AI/ML Challenge Scoring Rubric](<https://github.com/
 **Bonus: Advanced techniques (Optional 0-5% points)**
 
 * Up to 5% bonus points on the total score for exceptional functionality of greater difficulty, including: 
-* Methods of retraining the model based on user review of solution output.
-* Methods to explain the reason that individual clauses were classified as unacceptable.
+
+  * Methods of retraining the model based on user review of solution output.
+  * Methods to explain the reason that individual clauses were classified as unacceptable.
 
 **Total Possible Score = 105/100 (including bonus points)**
 
@@ -577,36 +558,37 @@ There shall be only one official representative for each challenge registration.
 * Email must come from the official representative for the team.
 * All submissions must be in English.
 * Solvers must not use GSA, or other government logos or official seals in their submissions and must not otherwise give an appearance of federal government endorsement.
+* Solution Description Document ([template](<https://github.com/GSA/ai-ml-challenge-2020/blob/master/reference/AI_ML_Challenge_Solution Description_Document.docx>))
+* Solution Demonstration
 
-1. Solution Description Document ([template](<https://github.com/GSA/ai-ml-challenge-2020/blob/master/reference/AI_ML_Challenge_Solution Description_Document.docx>))
-2. Solution Demonstration
-
-* A document or video that provides a high level view of the functionality and purpose of the solution, along with a demonstration of how it would be used by a business user.
-* Can include links to a working example of the solution if it is hosted on a publicly accessible location.
-* If a video is used, it must be in MP4 format.
+  * A document or video that provides a high level view of the functionality and purpose of the solution, along with a demonstration of how it would be used by a business user.
+  * Can include links to a working example of the solution if it is hosted on a publicly accessible location.
+  * If a video is used, it must be in MP4 format.
 
 Upload the following deliverables to GitHub following these instructions: <https://github.com/GSA/ai-ml-Challenge-2020/blob/master/README.md>. (Submissions will be publicly viewable.)
 
-1. Validation Data File
+**1. Validation Data File**
 
 * Output file in prescribed format.
 * Includes classification of clauses contained in Validation File, along with confidence scores.
-* Clause ID
-* Clause Text
-* Prediction: 0 - acceptable, 1 - unacceptable
-* Prediction Probability - percent 
 
-2. Description of Methods Document
+  * Clause ID
+  * Clause Text
+  * Prediction: 0 - acceptable, 1 - unacceptable
+  * Prediction Probability - percent 
+
+**2. Description of Methods Document**
 
 * A document in PDF, MS Word, or Jupyter notebook format.
 * Provides a comprehensive description of the data, methods and software used to complete the solution.
 * Provides a demonstration of the process used to complete the model used in the solution, including data inputs and visualizations.
 * Clearly explains the reasons for predictions made in the Validation Data File submission.
 * Contains self-reported metrics of the solution, by providing:
-* Brier score
-* F1 score (also known as F-Measure)
 
-3. Source Code, Input Data, and Compiled Models
+  * Brier score
+  * F1 score (also known as F-Measure)
+
+**3. Source Code, Input Data, and Compiled Models**
 
 * All source code used in creation of the solution.
 * All input data used in the creation of the solution.
