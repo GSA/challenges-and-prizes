@@ -3,7 +3,7 @@ challenge-title: ED.gov Redesign Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/ed-redesign-challenge/
 challenge-id: "1115"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/ed-redesign-challenge.jpg
 agency-logo: /assets/netlify-uploads/Department_of_Education.png
@@ -14,8 +14,8 @@ agency: Department of Education
 total-prize-offered-cash: $50,000
 type-of-challenge:
   - Creative (multimedia & design)
-submission-start: 2020/03/31 07:00 AM
-submission-end: 2020/06/15 05:00 PM
+submission-start: 03/31/2020 07:00 AM
+submission-end: 06/15/2020 05:00 PM
 fiscal-year: FY20
 legal-authority: Procurement Authority
 challenge-manager: Andrea Falken
