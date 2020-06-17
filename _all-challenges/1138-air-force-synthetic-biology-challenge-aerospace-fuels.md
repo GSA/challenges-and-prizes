@@ -52,12 +52,9 @@ rules: >-
 
 
   In the first phase of this contest, participants will submit white papers on viability of the approach to biosynthesize a high-energy endothermic fuel. In phase 2, these white papers will be down selected to the viable entries (potential awardees). These selectees will be given 2 weeks to enter into a subsequent agreement with a US company that can scale up their production concept and demonstrate the capability to manufacture testable amounts (if they cannot manufacture it themselves). These teams will be invited to present a 1-hour pitch of their concept and scale up strategy with their manufacturing partner (if needed) to the evaluation team.
-judging: >-
-  Submissions will be evaluated for the viability of the approach to improve
-  performance of aerospace fuels using synthetic biology and biotechnology.
-
-
-  Submissions will be evaluated on the concepts ability to meet the requirement delineated under “The Solution.” If the evaluation team does not deem any submission viable to get to testable materials, no prize will be awarded.
+judging: Submissions will be evaluated for the viability of the approach to
+  improve performance of aerospace fuels using synthetic biology and
+  biotechnology.
 how-to-enter: >-
   Submissions will be made on NSIN's Defense Innovation Network website:
   <https://innovatedefense.net/afrl-challenge-2>.
@@ -69,8 +66,7 @@ how-to-enter: >-
 
 This is the second of three challenges the Air Force Research Laboratory (AFRL) is sponsoring. It is focused on the use of biotechnology to improve the performance of aerospace fuels. Participants will submit white papers on viability of the approach to bio-synthesize two molecules A and B needed for aerospace thermosets. In Phase Two, submitted white papers will be down-selected from the viable entrees. 
 
-The potential awardees will be given two weeks to enter into a subsequent agreement with a company that can scale up their production concept and demonstrate the capability to manufacture testable amounts with
-a U.S. company (if they cannot manufacture themselves). Semi-finalist teams will be given a one-hour time slot to pitch their concept and scale up strategy, with their manufacturing partner (if needed), to the evaluation team.
+The potential awardees will be given two weeks to enter into a subsequent agreement with a company that can scale up their production concept and demonstrate the capability to manufacture testable amounts with a U.S. company (if they cannot manufacture themselves). Semi-finalist teams will be given a one-hour time slot to pitch their concept and scale up strategy, with their manufacturing partner (if needed), to the evaluation team.
 
 ### Prizes
 
@@ -88,8 +84,6 @@ In the first phase of this contest, participants will submit white papers on via
 ### Judging
 
 Submissions will be evaluated for the viability of the approach to improve performance of aerospace fuels using synthetic biology and biotechnology.
-
-Submissions will be evaluated on the concepts ability to meet the requirement delineated under “The Solution.” If the evaluation team does not deem any submission viable to get to testable materials, no prize will be awarded.
 
 ### How to Enter
 
