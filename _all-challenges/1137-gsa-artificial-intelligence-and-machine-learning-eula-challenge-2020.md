@@ -6,7 +6,7 @@ permalink: /challenge/GSA-artificial-intelligence-AI-machine-learning-ML-challen
 challenge-id: "1137"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/challenge-gov.png
+card-image: /assets/netlify-uploads/gsa-it-341x160.jpg
 agency-logo: /assets/netlify-uploads/1198px-US-GeneralServicesAdministration-Logo.png
 tagline: Create an artificial intelligence or machine learning solution to aid
   in the review of end-user license agreements.
@@ -22,11 +22,13 @@ challenge-manager: Cindy Smith
 challenge-manager-email: cindya.smith@gsa.gov
 point-of-contact: challenge2020@gsa.gov
 description: >-
-  The goal of this challenge is to develop an artificial intelligence (AI), or
-  machine learning (ML) solution that will review end-user license agreements
-  (EULA) for terms and conditions that are unacceptable to the government. On
-  average it takes all parties involved approximately 7-14 days to review an
-  EULA and ensure that all unacceptable terms and conditions are identified.
+  *"\[insert quote here]"*
+
+
+  *\-- Mr. Keith Nakasone, Deputy Assistant Commissioner for Acquisition, General Services Administration (GSA)*
+
+
+  The goal of this challenge is to develop an artificial intelligence (AI), or machine learning (ML) solution that will review end-user license agreements (EULA) for terms and conditions that are unacceptable to the government. On average it takes all parties involved approximately 7-14 days to review an EULA and ensure that all unacceptable terms and conditions are identified.
 
 
   A EULA details the rights and restrictions which apply to the use of software or services. It can also be known as a software license agreement or acceptable use policy. As part of the acquisition process of software or services, GSA reviews the associated EULAs. This review must be completed prior to awarding new contracts or modifying existing contracts. A GSA contracting officer (CO) reviews applicable EULAs for terms and conditions that are not in accordance with Federal law and regulations. The CO may also coordinate a legal review with the Office of General Counsel if they feel it is warranted. Should EULAs contain language that would conflict with Federal law and regulations, the CO must negotiate changes to the EULA to remove the problematic language.    
@@ -355,6 +357,10 @@ how-to-enter: >-
 
   Questions regarding the GSA Artificial Intelligence (AI) or Machine Learning (ML) EULA Challenge 2020 can be directed to [challenge2020@gsa.gov](mailto:challenge2020@gsa.gov). GSA will share questions and answers with all registered participants by email during the challenge.
 ---
+*"\[insert quote here]"*
+
+*\-- Mr. Keith Nakasone, Deputy Assistant Commissioner for Acquisition, General Services Administration (GSA)*
+
 ### Description
 
 The goal of this challenge is to develop an artificial intelligence (AI), or machine learning (ML) solution that will review end-user license agreements (EULA) for terms and conditions that are unacceptable to the government. On average it takes all parties involved approximately 7-14 days to review an EULA and ensure that all unacceptable terms and conditions are identified.
