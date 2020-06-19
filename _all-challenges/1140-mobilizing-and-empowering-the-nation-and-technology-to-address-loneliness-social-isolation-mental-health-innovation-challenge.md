@@ -8,7 +8,7 @@ permalink: /challenge/MENTAL-social-isolation-challenge/
 challenge-id: "1140"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/ACL_logo.jpg
+card-image: /assets/netlify-uploads/acl_logo_june2020.jpg
 agency-logo: /assets/netlify-uploads/hhs.png
 tagline: Develop a software platform that increases awareness of, access to and
   use of social engagement technologies and programming to help curtail the
@@ -63,7 +63,8 @@ description: >-
   The challenges brought forth by social isolation and loneliness has come to the fore during the Coronavirus 2019 (COVID-19) pandemic.  As the nation continues to adhere to public health recommendations of social distancing, an increasingly recognized secondary outcome is the risk social distancing can have on rates of loneliness and social isolation especially among our nation’s most vulnerable populations including older adults, persons with disabilities living alone, as well as those who live in care facilities and group homes and our nation’s Veterans population.
 
 
-  Purpose
+  #### Purpose
+
 
   While there are an array of technologies and social engagement programs in the marketplace, there are considerable gaps in both awareness of and access to these technologies and programming for those individuals most likely to be lonely and isolated. Consequently, there is an opportunity to increase access and awareness to technologies and social engagement programming.
 
@@ -246,7 +247,7 @@ judging: >-
     * Degree to which the proposed solution uses open Application Programming Interfaces (APIs) for related consumer facing apps and standards for social isolation consistent with the Interoperability Standards Advisory.
     * Degree to which the proposed solution is interoperable to enable consumers to push assessment data, screening information and  the provision of technology and enrollment in social engagement programming solutions to the provider(s) of choice’s electronic health record, family member and/or whoever is supporting the consumers’ care.
 
-  Phase 2:
+  **Phase 2:**
 
 
   * Impact -- 25%
@@ -275,7 +276,7 @@ how-to-enter: >-
   #### How to Apply for this Challenge:
 
 
-  ##### Phase I
+  **Phase I**
 
 
   Submissions for Phase 1 of this Challenge are due by September 8, 2020 at 11:59 pm EDT. The identified Official Representative (individual, team or legal entity) may apply for this Challenge by submitting an application by email to MENTALHealthChallenge@acl.hhs.gov. The application for Phase 1 of the Challenge shall meet the following requirements:
@@ -309,7 +310,7 @@ how-to-enter: >-
   A panel of judges will review and score submissions between September 8, 2020 through September 29, 2020.  Finalists to move to Phase 2 will be notified by September 30, 2020.
 
 
-  ##### Phase 2: Pilot and Test Social Engagement Clearinghouse Prototype 
+  **Phase 2: Pilot and Test Social Engagement Clearinghouse Prototype**
 
 
   * Participant teams will pilot the prototype in collaboration with at least one Aging and Disability Resource Center (ADRC) and convene in person to demonstrate the user experience with the tool and summarize results achieved during the pilot.
@@ -317,7 +318,7 @@ how-to-enter: >-
   * Winners will present their solution at CES in January 2021. 
 
 
-  Finalists will be asked to demonstrate the Social Engagement Clearinghouse with User Interface and submit the results of their pilot and testing of the Social Engagement Clearinghouse Prototype to MENTALHealthChallenge@acl.hhs.gov  by December 4, 2020 at 11:59 pm EST.  The submission will include:
+  Finalists will be asked to demonstrate the Social Engagement Clearinghouse with User Interface and submit the results of their pilot and testing of the Social Engagement Clearinghouse Prototype to [MENTALHealthChallenge@acl.hhs.gov](mailto:MENTALHealthChallenge@acl.hhs.gov) by December 4, 2020 at 11:59 pm EST. The submission will include:
 
 
   * A written description of how the Social Engagement Clearinghouse with user interface prototype was modified to address the suggestions from the Phase 1 judges. 
@@ -359,7 +360,8 @@ Recognizing the importance in fostering the development of innovative solutions 
 
 The challenges brought forth by social isolation and loneliness has come to the fore during the Coronavirus 2019 (COVID-19) pandemic.  As the nation continues to adhere to public health recommendations of social distancing, an increasingly recognized secondary outcome is the risk social distancing can have on rates of loneliness and social isolation especially among our nation’s most vulnerable populations including older adults, persons with disabilities living alone, as well as those who live in care facilities and group homes and our nation’s Veterans population.
 
-Purpose
+#### Purpose
+
 While there are an array of technologies and social engagement programs in the marketplace, there are considerable gaps in both awareness of and access to these technologies and programming for those individuals most likely to be lonely and isolated. Consequently, there is an opportunity to increase access and awareness to technologies and social engagement programming.
 
 ACL and OASH are pleased to announce the Mobilizing and Empowering the Nation and Technology to Address Loneliness & Social Isolation (MENTAL) Health Innovation Challenge to address this need. Supporting partners include the VA, FCC, and the CTA Foundation.
@@ -487,7 +489,7 @@ Applicants will be judged on the following criteria for each phase of the compet
   * Degree to which the proposed solution uses open Application Programming Interfaces (APIs) for related consumer facing apps and standards for social isolation consistent with the Interoperability Standards Advisory.
   * Degree to which the proposed solution is interoperable to enable consumers to push assessment data, screening information and  the provision of technology and enrollment in social engagement programming solutions to the provider(s) of choice’s electronic health record, family member and/or whoever is supporting the consumers’ care.
 
-Phase 2:
+**Phase 2:**
 
 * Impact -- 25%
 
@@ -513,7 +515,7 @@ Questions concerning this Challenge should be sent by email to MENTALHealthChall
 
 #### How to Apply for this Challenge:
 
-##### Phase I
+**Phase I**
 
 Submissions for Phase 1 of this Challenge are due by September 8, 2020 at 11:59 pm EDT. The identified Official Representative (individual, team or legal entity) may apply for this Challenge by submitting an application by email to MENTALHealthChallenge@acl.hhs.gov. The application for Phase 1 of the Challenge shall meet the following requirements:
 
@@ -540,12 +542,12 @@ Submissions for Phase 1 of this Challenge are due by September 8, 2020 at 11:59 
 
 A panel of judges will review and score submissions between September 8, 2020 through September 29, 2020.  Finalists to move to Phase 2 will be notified by September 30, 2020.
 
-##### Phase 2: Pilot and Test Social Engagement Clearinghouse Prototype 
+**Phase 2: Pilot and Test Social Engagement Clearinghouse Prototype**
 
 * Participant teams will pilot the prototype in collaboration with at least one Aging and Disability Resource Center (ADRC) and convene in person to demonstrate the user experience with the tool and summarize results achieved during the pilot.
 * Winners will present their solution at CES in January 2021. 
 
-Finalists will be asked to demonstrate the Social Engagement Clearinghouse with User Interface and submit the results of their pilot and testing of the Social Engagement Clearinghouse Prototype to MENTALHealthChallenge@acl.hhs.gov  by December 4, 2020 at 11:59 pm EST.  The submission will include:
+Finalists will be asked to demonstrate the Social Engagement Clearinghouse with User Interface and submit the results of their pilot and testing of the Social Engagement Clearinghouse Prototype to [MENTALHealthChallenge@acl.hhs.gov](mailto:MENTALHealthChallenge@acl.hhs.gov) by December 4, 2020 at 11:59 pm EST.  The submission will include:
 
 * A written description of how the Social Engagement Clearinghouse with user interface prototype was modified to address the suggestions from the Phase 1 judges. 
 * A live demonstration of the Social Engagement Clearinghouse with User Interface prototype. The Phase II awardees (up to 2 Solvers) will be invited to demonstrate their Social Engagement Clearinghouse with User Interface with actual users (older adults, people with disabilities, racial and minority populations and Veterans) in a virtual user testing session the week of December 7, 2020 (exact dates TBD). Solvers selected to participate in phase 2 must participate in the user testing in order to be evaluated.
