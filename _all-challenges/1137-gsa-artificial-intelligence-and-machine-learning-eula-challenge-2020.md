@@ -41,28 +41,24 @@ description: >-
   #### Data Provided:
 
 
-  All Solvers (individuals, teams, or legal entities) shall have access to the following data for use in creating their solutions. All the items below have been uploaded to GitHub and are available at:   https://github.com/GSA/ai-ml-Challenge-2020/blob/master/README.md
+  All Solvers (individuals, teams, or legal entities) shall have access to the following data for use in creating their solutions. All the items below will be available at: <https://github.com/GSA/ai-ml-Challenge-2020>
 
 
-  * EULA Training data
+  * Training data
 
-  * [Attachment B - Schedule 70 EULA Matrix](https://docs.google.com/document/d/1-n8LDe8uZSP6bD3bhLyc-WH5Bcd61J3d1ZseAAFJIFY/edit)
+  * Additional reference documents
 
-  * Sample EULAsValidation file
-
-  * Solicitation Review Tool (SRT) - Training data file
+  * Sample validation file
 
 
   #### Key Dates:
 
 
-  * Informational Webinar/Kick-off: 10 a.m. ET, July 6, 2020
+  * Registration begins: 10 a.m. ET, July 6, 2020
 
-  * Submissions Open: 10 a.m. ET, July 6, 2020
+  * Submit solutions before: 5 p.m. ET, August 20, 2020
 
-  * Submissions Close: 5 p.m. ET, August 20, 2020
-
-  * Semi-finalists announced on: 10 a.m. ET, September 4, 2020
+  * Semi-finalists announced: 10 a.m. ET, September 4, 2020
 
   * Winner announced: 10 a.m. ET, September 11, 2020
 prizes: >-
@@ -132,17 +128,7 @@ rules: >-
 
   * A solver shall not be deemed ineligible because the solver consulted with federal employees in preparing its submission for this GSA challenge if the federal employees are made available to all solvers on an equitable basis. Solvers may use any public-facing websites or publicly available federal government resources, as well as all resources provided to the challenge solvers on an equitable basis.
 
-  * The official representative for each challenge entry shall upload in advance of the submission end date (08/20/2020 5:00 PM ET) the following items: 
-
-  * Solution document
-
-  * Solution demonstration
-
-  * A document or video that provides a high level view of the functionality and purpose of the solution, along with a demonstration of how it would be used by a business user.
-
-  * Can include links to a working example of the solution if it is hosted on a publicly accessible location.
-
-  * Deliverables are to be uploaded to GitHub following these instructions: https://github.com/GSA/ai-ml-Challenge-2020/blob/master/README.md
+  * The official representative for each challenge entry shall follow the steps listed below under "Submission Guidelines" in advance of the submission end date (08/20/2020 5:00 PM ET).
 
 
   #### Terms and Conditions
@@ -381,19 +367,17 @@ This solution will decrease the time spent manually reviewing EULAs and free res
 
 #### Data Provided:
 
-All Solvers (individuals, teams, or legal entities) shall have access to the following data for use in creating their solutions. All the items below have been uploaded to GitHub and are available at:   https://github.com/GSA/ai-ml-Challenge-2020/blob/master/README.md
+All Solvers (individuals, teams, or legal entities) shall have access to the following data for use in creating their solutions. All the items below will be available at: <https://github.com/GSA/ai-ml-Challenge-2020>
 
-* EULA Training data
-* [Attachment B - Schedule 70 EULA Matrix](https://docs.google.com/document/d/1-n8LDe8uZSP6bD3bhLyc-WH5Bcd61J3d1ZseAAFJIFY/edit)
-* Sample EULAsValidation file
-* Solicitation Review Tool (SRT) - Training data file
+* Training data
+* Additional reference documents
+* Sample validation file
 
 #### Key Dates:
 
-* Informational Webinar/Kick-off: 10 a.m. ET, July 6, 2020
-* Submissions Open: 10 a.m. ET, July 6, 2020
-* Submissions Close: 5 p.m. ET, August 20, 2020
-* Semi-finalists announced on: 10 a.m. ET, September 4, 2020
+* Registration begins: 10 a.m. ET, July 6, 2020
+* Submit solutions before: 5 p.m. ET, August 20, 2020
+* Semi-finalists announced: 10 a.m. ET, September 4, 2020
 * Winner announced: 10 a.m. ET, September 11, 2020 
 
 ### Prizes
@@ -436,12 +420,7 @@ To be eligible for a cash prize:
 * In the case of a private entity that is participating as a solver or as part of a solver team, the business must be incorporated in and maintain a primary place of business in the United States or its territories.
 * Payments to the winning teams will be made via electronic funds transfer (EFT). All EFT forms must be completed and submitted to Cindy Smith ([cindya.smith@gsa.gov](mailto:cindya.smith@gsa.gov)) by September 18, 2020 for processing.  Failure to return the completed EFT form by the date stated above may be a basis for disqualification of a cash prize winning entry.
 * A solver shall not be deemed ineligible because the solver consulted with federal employees in preparing its submission for this GSA challenge if the federal employees are made available to all solvers on an equitable basis. Solvers may use any public-facing websites or publicly available federal government resources, as well as all resources provided to the challenge solvers on an equitable basis.
-* The official representative for each challenge entry shall upload in advance of the submission end date (08/20/2020 5:00 PM ET) the following items: 
-* Solution Document
-* Solution Demonstration
-* A document or video that provides a high level view of the functionality and purpose of the solution, along with a demonstration of how it would be used by a business user.
-* Can include links to a working example of the solution if it is hosted on a publicly accessible location.
-* Deliverables are to be uploaded to GitHub following these instructions: https://github.com/GSA/ai-ml-Challenge-2020/blob/master/README.md
+* The official representative for each challenge entry shall follow the steps listed below under "Submission Guidelines" in advance of the submission end date (08/20/2020 5:00 PM ET).
 
 #### Terms and Conditions
 
