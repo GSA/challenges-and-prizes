@@ -4,11 +4,11 @@ title: Mobilizing and Empowering the Nation and Technology to Address Loneliness
 challenge-title: Mobilizing and Empowering the Nation and Technology to Address
   Loneliness & social isolation (MENTAL) Health Innovation Challenge
 layout: front-matter-data-markdownify-content
-permalink: /challenge/MENTAL-social-isolation-challenge
+permalink: /challenge/MENTAL-social-isolation-challenge/
 challenge-id: "1140"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/hhs.png
+card-image: /assets/netlify-uploads/ACL_logo.jpg
 agency-logo: /assets/netlify-uploads/hhs.png
 tagline: Develop a software platform that increases awareness of, access to and
   use of social engagement technologies and programming to help curtail the
