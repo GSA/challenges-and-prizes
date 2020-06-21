@@ -1,5 +1,5 @@
 ---
-title: NASA’s Lunar Loo Challenge
+title: NASA Lunar Loo Challenge
 challenge-title: NASA’s Lunar Loo Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/nasa-lunar-loo-challenge/
