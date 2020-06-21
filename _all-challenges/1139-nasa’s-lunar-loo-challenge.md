@@ -12,6 +12,7 @@ tagline: Help NASA’s Human Landing System Program design a next generation spa
   toilet capable of working in both microgravity and lunar gravity.
 agency: National Aeronautics and Space Administration
 external-url: https://www.herox.com/LunarLoo
+total-prize-offered-cash: $35,000
 type-of-challenge:
   - Technology demonstration and hardware
 submission-start: 2020/06/25 12:00 AM
