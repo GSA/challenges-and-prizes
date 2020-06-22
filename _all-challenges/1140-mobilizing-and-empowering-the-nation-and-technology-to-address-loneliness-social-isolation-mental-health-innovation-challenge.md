@@ -69,7 +69,7 @@ description: >-
   While there are an array of technologies and social engagement programs in the marketplace, there are considerable gaps in both awareness of and access to these technologies and programming for those individuals most likely to be lonely and isolated. Consequently, there is an opportunity to increase access and awareness to technologies and social engagement programming.
 
 
-  ACL and OASH are pleased to announce the **M**obilizing and **E**mpowering the **N**ation and **T**echnology to **A**ddress **L**oneliness & social Isolation (MENTAL) Health Innovation Challenge to address this need. Supporting partners include the VA, FCC, and the CTA Foundation.
+  ACL and OASH are pleased to announce the **M**obilizing and **E**mpowering the **N**ation and **T**echnology to **A**ddress **L**oneliness & social isolation (MENTAL) Health Innovation Challenge to address this need. Supporting partners include the VA, FCC, and the CTA Foundation.
 
 
   With this health innovation challenge we hope to recognize innovative ideas and solutions that seek to develop a software platform that increases awareness of, access to and use of social engagement technologies and programming to help curtail the impact of loneliness and social isolation.
@@ -225,7 +225,7 @@ judging: >-
     * Degree to which the proposed solution creates a simplified consumer experience that matches individual needs with social engagement products, programs and training that are appropriate for their level of functioning, interests, English proficiency, preferred primary language, literacy level and preferences.  
   * Product Functionality and Usability -- 30%
 
-    * Degree to which the proposed solution is informed by user needs including Veterans enrolled in the Veteran Directed Care program.
+    * Degree to which the proposed solution is informed by user needs which may include Veterans enrolled in the Veteran Directed Care program.
     * Degree to which the proposed solution includes an accessible, computer assisted assessment and screening process that identifies individual needs, interests, English proficiency, preferred primary language, literacy level and preferences.
     * Degree to which the clearinghouse includes relevant technologies and social engagement products, programs and training.
     * Degree to which the proposed solution enables real-time query and response with an electronic clearinghouse.
@@ -364,7 +364,7 @@ The challenges brought forth by social isolation and loneliness has come to the 
 
 While there are an array of technologies and social engagement programs in the marketplace, there are considerable gaps in both awareness of and access to these technologies and programming for those individuals most likely to be lonely and isolated. Consequently, there is an opportunity to increase access and awareness to technologies and social engagement programming.
 
-ACL and OASH are pleased to announce the **M**obilizing and **E**mpowering the **N**ation and **T**echnology to **A**ddress **L**oneliness & social Isolation (MENTAL) Health Innovation Challenge to address this need. Supporting partners include the VA, FCC, and the CTA Foundation.
+ACL and OASH are pleased to announce the **M**obilizing and **E**mpowering the **N**ation and **T**echnology to **A**ddress **L**oneliness & social isolation (MENTAL) Health Innovation Challenge to address this need. Supporting partners include the VA, FCC, and the CTA Foundation.
 
 With this health innovation challenge we hope to recognize innovative ideas and solutions that seek to develop a software platform that increases awareness of, access to and use of social engagement technologies and programming to help curtail the impact of loneliness and social isolation.
 
@@ -467,7 +467,7 @@ Applicants will be judged on the following criteria for each phase of the compet
   * Degree to which the proposed solution creates a simplified consumer experience that matches individual needs with social engagement products, programs and training that are appropriate for their level of functioning, interests, English proficiency, preferred primary language, literacy level and preferences.  
 * Product Functionality and Usability -- 30%
 
-  * Degree to which the proposed solution is informed by user needs including Veterans enrolled in the Veteran Directed Care program.
+  * Degree to which the proposed solution is informed by user needs which may include Veterans enrolled in the Veteran Directed Care program.
   * Degree to which the proposed solution includes an accessible, computer assisted assessment and screening process that identifies individual needs, interests, English proficiency, preferred primary language, literacy level and preferences.
   * Degree to which the clearinghouse includes relevant technologies and social engagement products, programs and training.
   * Degree to which the proposed solution enables real-time query and response with an electronic clearinghouse.
