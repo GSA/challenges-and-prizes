@@ -4,7 +4,7 @@ title: Mobilizing and Empowering the Nation and Technology to Address Loneliness
 challenge-title: Mobilizing and Empowering the Nation and Technology to Address
   Loneliness & social isolation (MENTAL) Health Innovation Challenge
 layout: front-matter-data-markdownify-content
-permalink: /challenge/MENTAL-social-isolation-challenge/
+permalink: /challenge/MENTAL-health-social-isolation-challenge/
 challenge-id: "1140"
 status: open
 sidenav: true
@@ -81,7 +81,7 @@ description: >-
   The MENTAL Health Innovation Challenge asks care partners, local communities, businesses, non-profit organizations, institutions, healthcare providers, technologists, academics, among others in the global community for innovative solutions to combat loneliness and social isolation in vulnerable populations including Veterans, older adults, persons with disabilities living alone, racial and ethnic minority populations, as well as those who live in care facilities and group homes that may be isolated from visitors and family members during a quarantine. 
 
 
-  The goal of this challenge is to increase consumer awareness and use of technology tools that keep older adults, people with disabilities, racial and minority populations, and Veterans socially engaged and connected to families, friends, communities and activities of interest. The Challenge is seeking solutions that assess socially isolated individuals and match them with appropriate technology tools and social engagement programming that best meet their needs.  The winning solution will become part of a public-private campaign to reach up to 10 million socially isolated older adults, people with disabilities, racial and minority populations and Veterans.  Successful solutions will build from existing assessments, technology tools, and utilize state of the art matching algorithms to address the following topic area:
+  The goal of this challenge is to increase consumer awareness and use of technology tools that keep older adults, people with disabilities, racial and minority populations, and Veterans socially engaged and connected to families, friends, communities and activities of interest. The Challenge is seeking solutions that assess socially isolated individuals and match them with appropriate technology tools and social engagement programming that best meet their needs. The winning solution will become part of a public-private campaign to reach up to 10 million socially isolated older adults, people with disabilities, racial and minority populations and Veterans.  Successful solutions will build from existing assessments, technology tools, and utilize state of the art matching algorithms to address the following topic area:
 
 
   **Topic Area: Increase Awareness and Use of Technology and Social Engagement Programming Through an Accessible Social Engagement Clearinghouse**
@@ -279,7 +279,7 @@ how-to-enter: >-
   **Phase I**
 
 
-  Submissions for Phase 1 of this Challenge are due by September 8, 2020 at 11:59 pm EDT. The identified Official Representative (individual, team or legal entity) may apply for this Challenge by submitting an application by email to MENTALHealthChallenge@acl.hhs.gov. The application for Phase 1 of the Challenge shall meet the following requirements:
+  Submissions for Phase 1 of this Challenge are due by September 8, 2020 at 11:59 pm EDT. The identified Official Representative (individual, team or legal entity) may apply for this Challenge by submitting an application by email to [MENTALHealthChallenge@acl.hhs.gov](mailto:MENTALHealthChallenge@acl.hhs.gov). The application for Phase 1 of the Challenge shall meet the following requirements:
 
 
   * Entries must consist of PDF files with font size no smaller than 11-point Arial.
@@ -304,7 +304,7 @@ how-to-enter: >-
       * A one-page max written description of the proposed plan to pilot the prototype in Phase 2 should the submission be selected as a finalist to move to Phase 2.
       * A one-page max written description of the proposed approach to evaluate the prototype during the pilot phase.
 
-  **Description:** The plan and design a social engagement clearinghouse and user interface prototype phase invites all eligible entities to submit a concept white paper outlining their technology, the potential impact for older adults, people with disabilities, racial and minority populations and Veterans that may be socially isolated, the innovative idea / concept behind how their platform could work and leverage existing efforts, and how this is informed by user needs they have identified. Each concept, wireframe, and prototype will be reviewed by a panel of judges with knowledge and expertise in technology, user design and experience. Only the first three pages (inclusive of any visual representations or graphics) of the concept description document will be reviewed along with the wireframe sketch submission and its one page description, the working prototype, and the proposed plan to pilot the prototype in Phase 2. During the Phase I review process, the concept paper, wireframe sketch, and the proposed plan to pilot the prototype in Phase 2  will be redacted for both applicant and any specific organizational partner names referenced (versus broader categories of organizational partners) and reviewed by Federal evaluators screened to avoid conflicts of interest. Judges will review all submissions for Phase 1.  A subset of the highest scoring submissions will be asked to be available September 15 through September 22, 2020 to participate in a 45 minute session to present and demo their Social Engagement Clearinghouse with user interface to the judges.  ACL will provide additional criteria throughout the various phases to further define requirement expectations.
+  **Description:** The plan and design a social engagement clearinghouse and user interface prototype phase invites all eligible entities to submit a concept white paper outlining their technology, the potential impact for older adults, people with disabilities, racial and minority populations and Veterans that may be socially isolated, the innovative idea / concept behind how their platform could work and leverage existing efforts, and how this is informed by user needs they have identified. Each concept, wireframe, and prototype will be reviewed by a panel of judges with knowledge and expertise in technology, user design and experience. Only the first three pages (inclusive of any visual representations or graphics) of the concept description document will be reviewed along with the wireframe sketch submission and its one page description, the working prototype, and the proposed plan to pilot the prototype in Phase 2. During the Phase I review process, the concept paper, wireframe sketch, and the proposed plan to pilot the prototype in Phase 2  will be redacted for both applicant and any specific organizational partner names referenced (versus broader categories of organizational partners) and reviewed by Federal evaluators screened to avoid conflicts of interest. Judges will review all submissions for Phase 1. A subset of the highest scoring submissions will be asked to be available September 15 through September 22, 2020 to participate in a 45 minute session to present and demo their Social Engagement Clearinghouse with user interface to the judges. ACL will provide additional criteria throughout the various phases to further define requirement expectations.
 
 
   A panel of judges will review and score submissions between September 8, 2020 through September 29, 2020.  Finalists to move to Phase 2 will be notified by September 30, 2020.
@@ -372,7 +372,7 @@ With this health innovation challenge we hope to recognize innovative ideas and 
 
 The MENTAL Health Innovation Challenge asks care partners, local communities, businesses, non-profit organizations, institutions, healthcare providers, technologists, academics, among others in the global community for innovative solutions to combat loneliness and social isolation in vulnerable populations including Veterans, older adults, persons with disabilities living alone, racial and ethnic minority populations, as well as those who live in care facilities and group homes that may be isolated from visitors and family members during a quarantine. 
 
-The goal of this challenge is to increase consumer awareness and use of technology tools that keep older adults, people with disabilities, racial and minority populations, and Veterans socially engaged and connected to families, friends, communities and activities of interest. The Challenge is seeking solutions that assess socially isolated individuals and match them with appropriate technology tools and social engagement programming that best meet their needs.  The winning solution will become part of a public-private campaign to reach up to 10 million socially isolated older adults, people with disabilities, racial and minority populations and Veterans.  Successful solutions will build from existing assessments, technology tools, and utilize state of the art matching algorithms to address the following topic area:
+The goal of this challenge is to increase consumer awareness and use of technology tools that keep older adults, people with disabilities, racial and minority populations, and Veterans socially engaged and connected to families, friends, communities and activities of interest. The Challenge is seeking solutions that assess socially isolated individuals and match them with appropriate technology tools and social engagement programming that best meet their needs. The winning solution will become part of a public-private campaign to reach up to 10 million socially isolated older adults, people with disabilities, racial and minority populations and Veterans. Successful solutions will build from existing assessments, technology tools, and utilize state of the art matching algorithms to address the following topic area:
 
 **Topic Area: Increase Awareness and Use of Technology and Social Engagement Programming Through an Accessible Social Engagement Clearinghouse**
 
@@ -411,7 +411,7 @@ Phase 2: Pilot and Test Social Engagement Clearinghouse Prototype
 
 #### Prize Breakdown
 
-A prize purse of $750,000 is available for this prize challenge.  The Phase 1 Prize Challenge fund is $150,000.  For this challenge we will award up to $150,000 total prize funds for Phase I.  We expect to select up to 3 Finalists to progress on to Phase II.  Each Finalist will win $50,000 upon selection.  Please note -  In the event we choose fewer than 3 Finalists, the $150,000 will be split evenly among those teams selected (for example, if 2 teams are selected as Finalists each will receive $75,000). 
+A prize purse of $750,000 is available for this prize challenge. The Phase 1 Prize Challenge fund is $150,000. For this challenge we will award up to $150,000 total prize funds for Phase I. We expect to select up to 3 Finalists to progress on to Phase II. Each Finalist will win $50,000 upon selection. Please note -  In the event we choose fewer than 3 Finalists, the $150,000 will be split evenly among those teams selected (for example, if 2 teams are selected as Finalists each will receive $75,000). 
 
 The Phase 2 Prize Challenge award amount is $550,000. The winner will be awarded $450,000 and the runner-up will be awarded $100,000. Finalists and the winner are eligible for a bonus prize if they submit a written assessment detailing their continued work to implement, scale and sustain the solution. Total funds available for the bonus prize is $50,000. The bonus prize submissions will be due September 30, 2021 and details will be provided at a later date.  
 
@@ -463,7 +463,7 @@ Applicants will be judged on the following criteria for each phase of the compet
 
 * Innovation and Value to Stakeholders -- 20% 
 
-  * Degree to which the proposed solution bridges the gap in consumer awareness and available social engagement products and programs in the market and across organizations
+  * Degree to which the proposed solution bridges the gap in consumer awareness and available social engagement products and programs in the market and across organizations.
   * Degree to which the proposed solution creates a simplified consumer experience that matches individual needs with social engagement products, programs and training that are appropriate for their level of functioning, interests, English proficiency, preferred primary language, literacy level and preferences.  
 * Product Functionality and Usability -- 30%
 
@@ -477,7 +477,7 @@ Applicants will be judged on the following criteria for each phase of the compet
   * Degree to which the clearinghouse and user interface meets accessibility requirements.
 * Partnerships & Collaboration -- 25%
 
-  * Degree to which the applicant proposes a team of key stakeholders with relevant technical expertise as well as knowledge in technologies and programs that address social isolation 
+  * Degree to which the applicant proposes a team of key stakeholders with relevant technical expertise as well as knowledge in technologies and programs that address social isolation. 
   * Degree to which the applicant proposes a governance model that ensures appropriate oversight, transparency, and maintenance of the user interface and clearinghouse. 
   * Degree to which the proposed plan for testing the prototype includes a state No Wrong Door System and ADRCs. 
   * Degree to which partnership and collaboration occurred with the state’s No Wrong Door System.
@@ -485,7 +485,7 @@ Applicants will be judged on the following criteria for each phase of the compet
 
   * Degree to which the proposed solution design and/or architecture leverages existing technology and social engagement programming databases, including no tech, low tech and high tech solutions to increase social engagement.
   * Degree to which the proposed solution embeds technology training videos and streamlines enrollment in social engagement programming and acquisition of technology.
-  * Degree to which the proposed solution includes robust matching methodologies with plans to modify them based on experience overtime
+  * Degree to which the proposed solution includes robust matching methodologies with plans to modify them based on experience overtime.
   * Degree to which the proposed solution uses open Application Programming Interfaces (APIs) for related consumer facing apps and standards for social isolation consistent with the Interoperability Standards Advisory.
   * Degree to which the proposed solution is interoperable to enable consumers to push assessment data, screening information and  the provision of technology and enrollment in social engagement programming solutions to the provider(s) of choice’s electronic health record, family member and/or whoever is supporting the consumers’ care.
 
@@ -503,26 +503,26 @@ Applicants will be judged on the following criteria for each phase of the compet
 * Deployment Approach and Refinement -- 25%
 
   * Key evaluation factors shall include: the proposed plan to refine the prototype based on results from user testing and the plan for the clearinghouse to evolve over time informed by experience of users including a Veteran receiving service through the Veteran Directed Care program and the extent to which the prototype has short- and long-term feasibility and sustainability.
-  * Degree to which the state NWD Systems and ADRCs are utilized as part of the deployment strategy
+  * Degree to which the state NWD Systems and ADRCs are utilized as part of the deployment strategy.
 
 ### How to Enter
 
 #### Registration for this Challenge:
 
-Beginning June 23, 2020 at 7:15 AM EDT, the identified Official Representative (individual, team, or legal entity) may register for this Challenge by sending an email to MENTALHealthChallenge@acl.hhs.gov with the subject line stating ‘MENTAL Health Challenge Registration’.  In this email you must identify only one Official Representative for each Challenge registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the Solver (individual, team, or legal entity), that he or she has read and consents to be governed by the Challenge Rules. Registration for this Challenge is due by July 15, 2020 at 11:59 pm EDT.
+Beginning June 23, 2020 at 7:15 AM EDT, the identified Official Representative (individual, team, or legal entity) may register for this Challenge by sending an email to [MENTALHealthChallenge@acl.hhs.gov](mailto:MENTALHealthChallenge@acl.hhs.gov) with the subject line stating ‘MENTAL Health Challenge Registration’. In this email you must identify only one Official Representative for each Challenge registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the Solver (individual, team, or legal entity), that he or she has read and consents to be governed by the Challenge Rules. Registration for this Challenge is due by July 15, 2020 at 11:59 pm EDT.
 
-Questions concerning this Challenge should be sent by email to MENTALHealthChallenge@acl.hhs.gov.
+Questions concerning this Challenge should be sent by email to [MENTALHealthChallenge@acl.hhs.gov](mailto:MENTALHealthChallenge@acl.hhs.gov).
 
 #### How to Apply for this Challenge:
 
 **Phase I**
 
-Submissions for Phase 1 of this Challenge are due by September 8, 2020 at 11:59 pm EDT. The identified Official Representative (individual, team or legal entity) may apply for this Challenge by submitting an application by email to MENTALHealthChallenge@acl.hhs.gov. The application for Phase 1 of the Challenge shall meet the following requirements:
+Submissions for Phase 1 of this Challenge are due by September 8, 2020 at 11:59 pm EDT. The identified Official Representative (individual, team or legal entity) may apply for this Challenge by submitting an application by email to [MENTALHealthChallenge@acl.hhs.gov](mailto:MENTALHealthChallenge@acl.hhs.gov). The application for Phase 1 of the Challenge shall meet the following requirements:
 
 * Entries must consist of PDF files with font size no smaller than 11-point Arial.
 * All submissions must be in English.
 * Solvers must not use HHS, ACL, OASH, FCC, VA, or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement.
-* Submission details should be sent to MENTALHealthChallenge@acl.hhs.gov:
+* Submission details should be sent to [MENTALHealthChallenge@acl.hhs.gov](mailto:MENTALHealthChallenge@acl.hhs.gov):
 
   * Title the email subject line “MENTAL Health Challenge Phase I Proposal”.
   * Email sender (person and email address) must be Official Representative/person of contact for the team.
