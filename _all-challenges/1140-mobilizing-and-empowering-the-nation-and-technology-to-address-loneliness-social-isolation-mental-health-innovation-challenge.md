@@ -69,7 +69,7 @@ description: >-
   While there are an array of technologies and social engagement programs in the marketplace, there are considerable gaps in both awareness of and access to these technologies and programming for those individuals most likely to be lonely and isolated. Consequently, there is an opportunity to increase access and awareness to technologies and social engagement programming.
 
 
-  ACL and OASH are pleased to announce the Mobilizing and Empowering the Nation and Technology to Address Loneliness & Social Isolation (MENTAL) Health Innovation Challenge to address this need. Supporting partners include the VA, FCC, and the CTA Foundation.
+  ACL and OASH are pleased to announce the **M**obilizing and **E**mpowering the **N**ation and **T**echnology to **A**ddress **L**oneliness & social Isolation (MENTAL) Health Innovation Challenge to address this need. Supporting partners include the VA, FCC, and the CTA Foundation.
 
 
   With this health innovation challenge we hope to recognize innovative ideas and solutions that seek to develop a software platform that increases awareness of, access to and use of social engagement technologies and programming to help curtail the impact of loneliness and social isolation.
@@ -143,7 +143,7 @@ prizes: >-
   #### Prize Breakdown
 
 
-  A prize purse of $750,000 is available for this prize challenge.  The Phase 1 Prize Challenge fund is $150,000.  For this challenge we will award up to $150,000 total prize funds for Phase I.  We expect to select up to 3 Finalists to progress on to Phase II.  Each Finalist will win $50,000 upon selection.  Please note -  In the event we choose fewer than 3 Finalists, the $150,000 will be split evenly among those teams selected (for example, if 2 teams are selected as Finalists each will receive $75,000). 
+  A prize purse of $750,000 is available for this prize challenge. The Phase 1 Prize Challenge fund is $150,000.  For this challenge we will award up to $150,000 total prize funds for Phase I. We expect to select up to 3 Finalists to progress on to Phase II. Each Finalist will win $50,000 upon selection.  Please note -  In the event we choose fewer than 3 Finalists, the $150,000 will be split evenly among those teams selected (for example, if 2 teams are selected as Finalists each will receive $75,000). 
 
 
   The Phase 2 Prize Challenge award amount is $550,000. The winner will be awarded $450,000 and the runner-up will be awarded $100,000. Finalists and the winner are eligible for a bonus prize if they submit a written assessment detailing their continued work to implement, scale and sustain the solution. Total funds available for the bonus prize is $50,000. The bonus prize submissions will be due September 30, 2021 and details will be provided at a later date.  
@@ -152,7 +152,7 @@ prizes: >-
   #### Non-monetary Prizes
 
 
-  The top two contenders will present their solution at the Consumer Electronics Show (CES) 2021 in Las Vegas, NV (January 6-9, 2021).
+  The top two contenders will present their solution at the CES 2021 in Las Vegas, NV (January 6-9, 2021).
 rules: >-
   #### Eligibility:
 
@@ -267,7 +267,7 @@ how-to-enter: >-
   #### Registration for this Challenge:
 
 
-  Beginning June 23, 2020 at 7:15 AM EDT, the identified Official Representative (individual, team, or legal entity) may register for this Challenge by sending an email to MENTALHealthChallenge@acl.hhs.gov with the subject line stating ‘MENTAL Health Challenge Registration’.  In this email you must identify only one Official Representative for each Challenge registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the Solver (individual, team, or legal entity), that he or she has read and consents to be governed by the Challenge Rules. Registration for this Challenge is due by July 15, 2020 at 11:59 pm EDFT.
+  Beginning June 23, 2020 at 7:15 AM EDT, the identified Official Representative (individual, team, or legal entity) may register for this Challenge by sending an email to MENTALHealthChallenge@acl.hhs.gov with the subject line stating ‘MENTAL Health Challenge Registration’.  In this email you must identify only one Official Representative for each Challenge registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the Solver (individual, team, or legal entity), that he or she has read and consents to be governed by the Challenge Rules. Registration for this Challenge is due by July 15, 2020 at 11:59 pm EDT.
 
 
   Questions concerning this Challenge should be sent by email to [MENTALHealthChallenge@acl.hhs.gov](mailto:MENTALHealthChallenge@acl.hhs.gov).
@@ -338,7 +338,7 @@ how-to-enter: >-
   * ACL will provide additional criteria throughout the various phases to further define requirement expectations.
 
 
-  The winner will be notified December 15, 2020 and will be announced at the CES 2021 in Las Vegas, NV—January 6-9, 2021. The winner will be asked to present their solution at the CES 2021.
+  The top two contenders will be notified December 15, 2020. The winner and runner-up and will be asked to present their solution at the CES 2021. The winner will be announced at the CES 2021 in Las Vegas, NV—January 6-9, 2021.
 ---
 ### Description
 
@@ -364,7 +364,7 @@ The challenges brought forth by social isolation and loneliness has come to the 
 
 While there are an array of technologies and social engagement programs in the marketplace, there are considerable gaps in both awareness of and access to these technologies and programming for those individuals most likely to be lonely and isolated. Consequently, there is an opportunity to increase access and awareness to technologies and social engagement programming.
 
-ACL and OASH are pleased to announce the Mobilizing and Empowering the Nation and Technology to Address Loneliness & Social Isolation (MENTAL) Health Innovation Challenge to address this need. Supporting partners include the VA, FCC, and the CTA Foundation.
+ACL and OASH are pleased to announce the **M**obilizing and **E**mpowering the **N**ation and **T**echnology to **A**ddress **L**oneliness & social Isolation (MENTAL) Health Innovation Challenge to address this need. Supporting partners include the VA, FCC, and the CTA Foundation.
 
 With this health innovation challenge we hope to recognize innovative ideas and solutions that seek to develop a software platform that increases awareness of, access to and use of social engagement technologies and programming to help curtail the impact of loneliness and social isolation.
 
@@ -417,7 +417,7 @@ The Phase 2 Prize Challenge award amount is $550,000. The winner will be awarded
 
 #### Non-monetary Prizes
 
-The top two contenders will present their solution at the Consumer Electronics Show (CES) 2021 in Las Vegas, NV (January 6-9, 2021).
+The top two contenders will present their solution at the CES 2021 in Las Vegas, NV (January 6-9, 2021).
 
 ### Rules
 
@@ -509,7 +509,7 @@ Applicants will be judged on the following criteria for each phase of the compet
 
 #### Registration for this Challenge:
 
-Beginning June 23, 2020 at 7:15 AM EDT, the identified Official Representative (individual, team, or legal entity) may register for this Challenge by sending an email to MENTALHealthChallenge@acl.hhs.gov with the subject line stating ‘MENTAL Health Challenge Registration’.  In this email you must identify only one Official Representative for each Challenge registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the Solver (individual, team, or legal entity), that he or she has read and consents to be governed by the Challenge Rules. Registration for this Challenge is due by July 15, 2020 at 11:59 pm EDFT.
+Beginning June 23, 2020 at 7:15 AM EDT, the identified Official Representative (individual, team, or legal entity) may register for this Challenge by sending an email to MENTALHealthChallenge@acl.hhs.gov with the subject line stating ‘MENTAL Health Challenge Registration’.  In this email you must identify only one Official Representative for each Challenge registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the Solver (individual, team, or legal entity), that he or she has read and consents to be governed by the Challenge Rules. Registration for this Challenge is due by July 15, 2020 at 11:59 pm EDT.
 
 Questions concerning this Challenge should be sent by email to MENTALHealthChallenge@acl.hhs.gov.
 
@@ -558,4 +558,4 @@ Finalists will be asked to demonstrate the Social Engagement Clearinghouse with 
 * A proposal to scale the Social Engagement Clearinghouse and User Interface over the next 6 months with clear benchmarks.
 * ACL will provide additional criteria throughout the various phases to further define requirement expectations.
 
-The winner will be notified December 15, 2020 and will be announced at the CES 2021 in Las Vegas, NV—January 6-9, 2021. The winner will be asked to present their solution at the CES 2021.
+The top two contenders will be notified December 15, 2020. The winner and runner-up and will be asked to present their solution at the CES 2021. The winner will be announced at the CES 2021 in Las Vegas, NV—January 6-9, 2021.
