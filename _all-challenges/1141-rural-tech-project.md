@@ -103,7 +103,7 @@ judging: >-
   * Geographic location and local population density.
 
 
-  #### Winner Selection Criteria
+  #### Winner selection criteria
 
 
   Up to 100 points may be assigned during the judging of Phase 2 submissions based on the criteria described below. Judges may assign up to 20 points for each selection criterion during the judging of finalist submissions (for a total of up to 100 points) based on the following five selection criteria:
@@ -179,7 +179,7 @@ The Department will review the recommendations of the judges and may consider ad
 * Percentage of students eligible for free or reduced-price lunch subsidies under the Richard B. Russell National School Lunch Act (42 U.S.C. § 1759), as amended; and
 * Geographic location and local population density.
 
-#### Winner Selection Criteria
+#### Winner selection criteria
 
 Up to 100 points may be assigned during the judging of Phase 2 submissions based on the criteria described below. Judges may assign up to 20 points for each selection criterion during the judging of finalist submissions (for a total of up to 100 points) based on the following five selection criteria:
 
