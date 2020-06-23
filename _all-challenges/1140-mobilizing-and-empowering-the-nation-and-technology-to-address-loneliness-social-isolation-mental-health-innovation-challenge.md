@@ -8,7 +8,7 @@ permalink: /challenge/MENTAL-health-social-isolation-challenge/
 challenge-id: "1140"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/acl_logo_june2020.jpg
+card-image: /assets/netlify-uploads/mhc_solution.rev.jpg
 agency-logo: /assets/netlify-uploads/hhs.png
 tagline: Develop a software platform that increases awareness of, access to and
   use of social engagement technologies and programming to help curtail the
