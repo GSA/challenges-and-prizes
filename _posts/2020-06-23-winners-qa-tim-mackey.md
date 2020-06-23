@@ -6,10 +6,9 @@ tagline: Challenge.gov sits down with a previous winner of NIDA's “$100,000 fo
   Start a SUD Startup” Challenge to solicit advice for the competition's latest
   crop of winners
 excerpt: We caught up with a past winner of NIDA's “$100,000 for Start a SUD
-  Startup” Challenge to learn why they participated in a previous version of the
-  challenge, what they learned from the experience, what impact their
-  prize-winning solution is making today, and what advice they have for the
-  latest crop of winners.
+  Startup” Challenge to learn why they participated in the competition, what
+  they learned from the experience, what impact their prize-winning solution is
+  making today, and what advice they have for the latest crop of winners.
 author: Pierce McManus and Tim K. Mackey
 image: ""
 image_alt_text: ""
