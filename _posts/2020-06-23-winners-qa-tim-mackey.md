@@ -6,8 +6,8 @@ tagline: A past winner of NIDA's “$100,000 for Start a SUD Startup” Challeng
   shares his advice for the competition's latest crop of victors
 excerpt: We caught up with a past winner of NIDA's “$100,000 for Start a SUD
   Startup” Challenge to learn why they participated in the competition, what
-  they learned from the experience, what impact their prize-winning solution is
-  making today, and what advice they have for the latest crop of winners.
+  impact their prize-winning solution is making today, and what advice they have
+  for the latest crop of winners.
 author: Pierce McManus and Tim K. Mackey
 image: ""
 image_alt_text: ""
