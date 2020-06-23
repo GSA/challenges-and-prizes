@@ -22,7 +22,7 @@ In anticipation of the forthcoming announcement, we caught up with a past winner
 
 My name is Tim K. Mackey, and I am the co-founder and CEO of [S-3 Research LLC](https://www.s-3.io/). I’m essentially a researcher-turned-entrepreneur with the help of the U.S. government through the SUD Startup Challenge award and the [NIH SBIR program](https://sbir.nih.gov/). I am also a current associate professor at UC San Diego where I teach and research on global health, health technology, and public policy.
 
-**What is the name of your company, where is it located, and what does it “do”?**
+**Where is your company located and what does it “do”?**
 
 S-3 Research is located in San Diego as all our employees are either current or past students and faculty from UC San Diego. It stands for “Social, Surveillance, Security,” encompassing our primary technology that uses machine learning to detect illegal sales of opioids and other drugs online.
 
