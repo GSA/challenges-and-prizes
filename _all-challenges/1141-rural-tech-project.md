@@ -15,7 +15,7 @@ agency: Department of Education
 total-prize-offered-cash: $600,000
 type-of-challenge:
   - Ideas
-submission-start: 2020/06/25 9:00 AM
+submission-start: 2020/06/30 9:00 AM
 submission-end: 2020/10/08 5:59:59 PM
 fiscal-year: FY20, FY21, FY22, FY23
 legal-authority: Procurement Authority
@@ -36,7 +36,7 @@ description: >-
   The Challenge seeks solutions that use distance learning to provide rural communities access to competency-based education (CBE) programs in technology-related career pathways with a goal of increasing instructional capacity.
 
 
-  Rural communities often lack the instructional capacity to deliver high-quality career and technical education (CTE) in technology education pathways. Distance learning- enabled models can help address capacity constraints by facilitating education delivery with limited staff and minimal or no in-person interaction among instructors or peers, which provides for the potential to increase access to in-demand technology career pathways in rural communities. CBE models allow students to progress at their own pace through a sequence of personalized learning experiences, where students advance their education by demonstrating mastery of a subject or concept. Expanding these models to rural high school students, with a focus on technology pathways, would increase access to qualified educators and expand opportunities for students to earn industry certifications and credentials.  The progress of the finalists and the models and practices emerging from the Challenge will be shared on the Challenge website.
+  Rural communities often lack the instructional capacity to deliver high-quality career and technical education (CTE) in technology education pathways. Distance learning- enabled models can help address capacity constraints by facilitating education delivery with limited staff and minimal or no in-person interaction among instructors or peers, which provides for the potential to increase access to in-demand technology career pathways in rural communities. CBE models allow students to progress at their own pace through a sequence of personalized learning experiences, where students advance their education by demonstrating mastery of a subject or concept. Expanding these models to rural high school students, with a focus on technology pathways, would increase access to qualified educators and expand opportunities for students to earn industry certifications and credentials. The progress of the finalists and the models and practices emerging from the Challenge will be shared on the Challenge website.
 
 
   #### Phase Descriptions
@@ -45,7 +45,7 @@ description: >-
   The Challenge will be conducted in two phases: 
 
 
-  * **Phase 1: Open Submissions (June 25 - October 8, 2020)** 
+  * **Phase 1: Open Submissions (June 30 - October 8, 2020)** 
 
     * During Phase 1, high schools and local educational agencies (LEAs) enter the Challenge by completing the submission process outlined on the Challenge webpage. Schools should coordinate their entries with their LEAs to ensure the entries represent an aligned effort, if applicable. At least one online informational session will be held during Phase 1.
     * **Judging:** Entrants who fulfill the criteria described in the Eligibility section of this announcement and complete a submission that meets all entry requirements in the Submission Information section of this announcement will be eligible for judging. Independent judges will review eligible Phase 1 submissions using the Finalist Selection Criteria, which are included in the Award Selection Criteria section of this announcement and will recommend finalists to the Department. Up to five finalists will be selected from the group of eligible entrants and invited to participate in Phase 2.
@@ -133,7 +133,7 @@ Rural communities often lack the instructional capacity to deliver high-quality 
 
 The Challenge will be conducted in two phases: 
 
-* **Phase 1: Open Submissions (June 25 - October 8, 2020)** 
+* **Phase 1: Open Submissions (June 30 - October 8, 2020)** 
 
   * During Phase 1, high schools and local educational agencies (LEAs) enter the Challenge by completing the submission process outlined on the Challenge webpage. Schools should coordinate their entries with their LEAs to ensure the entries represent an aligned effort, if applicable. At least one online informational session will be held during Phase 1.
   * **Judging:** Entrants who fulfill the criteria described in the Eligibility section of this announcement and complete a submission that meets all entry requirements in the Submission Information section of this announcement will be eligible for judging. Independent judges will review eligible Phase 1 submissions using the Finalist Selection Criteria, which are included in the Award Selection Criteria section of this announcement and will recommend finalists to the Department. Up to five finalists will be selected from the group of eligible entrants and invited to participate in Phase 2.
