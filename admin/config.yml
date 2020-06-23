@@ -151,6 +151,7 @@ collections:
       - { label: 'Excerpt', name: 'excerpt', widget: 'string', required: false }
       - { label: 'Author', name: 'author', widget: 'string' }
       - { label: 'Image', name: 'image', widget: 'image', required: false }
+      - { label: 'Social Media Card Image', name: 'card-image', widget: 'image', required: false }
       - { label: 'Image Alt Text', name: 'image_alt_text', widget: 'string', required: false }
       - { label: 'Post Content', name: 'body', widget: 'markdown' }
   - label: 'Pages'
