@@ -5,15 +5,20 @@ title: A Winner's Q&A with Tim K. Mackey
 tagline: Challenge.gov sits down with a previous winner of NIDA's “$100,000 for
   Start a SUD Startup” Challenge to solicit advice for the competition's latest
   crop of winners
-excerpt: '"If you believe in what you are doing, you really have no choice but
-  to follow it."'
+excerpt: We caught up with a past winner of NIDA's “$100,000 for Start a SUD
+  Startup” Challenge to learn why they participated in a previous version of the
+  challenge, what they learned from the experience, what impact their
+  prize-winning solution is making today, and what advice they have for the
+  latest crop of winners.
 author: Pierce McManus and Tim K. Mackey
-image: /assets/netlify-uploads/tim-mackey.jpg
-image_alt_text: Tim K. Mackey, CEO and Co-Founder S-3 Research LLC
+image: ""
+image_alt_text: ""
 ---
 This week, the [National Institute on Drug Abuse](https://www.nih.gov/about-nih/what-we-do/nih-almanac/national-institute-drug-abuse-nida) (NIDA), one of the components of the National Institutes of Health (NIH), will announce the winners of its fifth [“$100,000 for Start a SUD Startup” Challenge](https://www.challenge.gov/challenge/2020-1000000-start-a-sud-startup-challenge/). The challenge goal is to support research ideas that would further an understanding of substance use disorders (SUD) and that are intended to lay the foundation for the development of successful new startups.
 
-In anticipation of the forthcoming announcement, we caught up with a past winner to learn more about why they participated in a previous version of the challenge, what they learned from the experience, what impact their prize-winning solution is making today, and what advice they have for the latest crop of winners.
+In anticipation of the forthcoming announcement, 
+
+![Tim K. Mackey, CEO and Co-Founder S-3 Research LLC](/assets/netlify-uploads/tim-mackey.jpg "Tim K. Mackey, CEO and Co-Founder S-3 Research LLC")
 
 ## INTRODUCTION
 
