@@ -3,7 +3,7 @@ date: June 23, 2020
 layout: post
 title: A Winner's Q&A with Tim K. Mackey
 tagline: A past winner of NIDA's “$100,000 for Start a SUD Startup” Challenge
-  shares his advice for the competition's latest crop of victors
+  shares some wisdom for the competition's latest crop
 excerpt: We caught up with a past winner of NIDA's “$100,000 for Start a SUD
   Startup” Challenge to learn why they participated in the competition, what
   impact their prize-winning solution is making today, and what advice they have
