@@ -2,9 +2,8 @@
 date: June 23, 2020
 layout: post
 title: A Winner's Q&A with Tim K. Mackey
-tagline: Challenge.gov sits down with a previous winner of NIDA's “$100,000 for
-  Start a SUD Startup” Challenge to solicit advice for the competition's latest
-  crop of winners
+tagline: A past winner of NIDA's “$100,000 for Start a SUD Startup” Challenge
+  shares his advice for the competition's latest crop of victors
 excerpt: We caught up with a past winner of NIDA's “$100,000 for Start a SUD
   Startup” Challenge to learn why they participated in the competition, what
   they learned from the experience, what impact their prize-winning solution is
@@ -15,14 +14,14 @@ image_alt_text: ""
 ---
 This week, the [National Institute on Drug Abuse](https://www.nih.gov/about-nih/what-we-do/nih-almanac/national-institute-drug-abuse-nida) (NIDA), one of the components of the National Institutes of Health (NIH), will announce the winners of its fifth [“$100,000 for Start a SUD Startup” Challenge](https://www.challenge.gov/challenge/2020-1000000-start-a-sud-startup-challenge/). The challenge goal is to support research ideas that would further an understanding of substance use disorders (SUD) and that are intended to lay the foundation for the development of successful new startups.
 
-In anticipation of the forthcoming announcement, 
+In anticipation of the forthcoming announcement, we caught up with a past winner to learn more about why they participated in a previous version of the challenge, what they learned from the experience, what impact their prize-winning solution is making today, and what advice they have for the latest crop of winners.
 
-![Tim K. Mackey, CEO and Co-Founder S-3 Research LLC](/assets/netlify-uploads/tim-mackey.jpg "Tim K. Mackey, CEO and Co-Founder S-3 Research LLC")
+### INTRODUCTION
 
 **Who are you?**
 
-My name is Tim K. Mackey, and I am the co-founder and CEO of [S-3 Research LLC](https://www.s-3.io/). I’m essentially a researcher-turned-entrepreneur with the help of the U.S. government through the SUD Startup Challenge award and the [NIH SBIR program](https://sbir.nih.gov/). I am also a current associate professor at UC San Diego where I teach and research on global health, health technology, and public policy.\
-\
+My name is Tim K. Mackey, and I am the co-founder and CEO of [S-3 Research LLC](https://www.s-3.io/). I’m essentially a researcher-turned-entrepreneur with the help of the U.S. government through the SUD Startup Challenge award and the [NIH SBIR program](https://sbir.nih.gov/). I am also a current associate professor at UC San Diego where I teach and research on global health, health technology, and public policy.
+
 **What is the name of your company, where is it located, and what does it “do”?**
 
 S-3 Research is located in San Diego as all our employees are either current or past students and faculty from UC San Diego. It stands for “Social, Surveillance, Security,” encompassing our primary technology that uses machine learning to detect illegal sales of opioids and other drugs online.
@@ -34,6 +33,8 @@ We were winners of the challenge in 2017.
 **In layman’s terms, what was your winning entry?**
 
 At the time, we were developing our preliminary approaches to detecting, classifying, and enabling reporting of illegal online sales of opioids on popular social media platforms.
+
+### BACKGROUND
 
 **What is your background?**
 
@@ -51,6 +52,8 @@ We heard about the challenge after participating in the [HHS 2017 Opioid Code-a-
 
 No, it was pretty abbreviated and even the video helped us focus our value proposition.
 
+### WINNER
+
 **What did you do with your prize money?**
 
 The prize money was the basis for forming S-3 and a subsequent SBIR fast track contract submission. If we hadn’t gotten the prize money, S-3 likely would have never been formed, and we would have stayed as academic researchers.
@@ -67,6 +70,8 @@ Dr. Koustova really encouraged us to put in the hard work of following a format 
 
 Our solution protects consumers, but we rarely get to see the fruits of our labor as we pass on our surveillance results to law enforcement and regulators to take action. That said, we are doing quite a bit of work now on [fake and counterfeit COVID-19 products](https://www.vox.com/recode/2020/4/17/21221692/digital-black-market-covid-19-coronavirus-instagram-twitter-ebay) being sold online. We know that our efforts will help address one part of this pandemic, and we hope our solution ensures that the public is not harmed or scammed at this critical time for all of us.
 
+### FUTURE
+
 **What has transpired for you and your company since winning the competition?**
 
 We’ve gone on an exciting journey from winning the challenge, starting up our company, submitting our fast track SBIR Phase I & II contract, getting it awarded, finishing up our Phase I and the [NIH I-Corps program](https://sbir.cancer.gov/programseducation/icorps), and now going through the transition to a possible Phase II. It has been a wild ride, including several published papers, visits to key stakeholders (including staffers on the Hill and the White House Drug Czar), some great media coverage, and lots of pitch sessions. Through it all, our interdisciplinary team of public health professionals, computer scientists, policy wonks, and researchers have explored many other issues involving illicit trade on the Internet (including wildlife trafficking, other fake goods, and as mentioned, fake COVID-19 treatments). The HHS Code-a-thon and competition was just the start, and we are certain the journey will continue to be both challenging and exciting.
@@ -79,6 +84,8 @@ Yes, as stated above, we were awarded a phase I SBIR contract and are now in the
 
 Even though I’ve been doing research in this area for over a decade, I’ve learned so much through translating this winning idea into an early-stage commercial project. The fact is that online sales of opioids and other illicit drugs are everywhere, and those suffering from substance use disorders are the real victims as this content that feeds their addiction is pervasive throughout the Internet. We’ve seen different strategies from illegal drug sellers, including targeting online users when they are going through difficult transitions of use or episodes of vulnerability. The challenge is that if we address opioid diversion by shutting down “doctor shopping” and street buys, if it is still available on the Internet and social media, then this tragedy of addiction will just continue to perpetuate.
 
+### ADVICE
+
 **What advice do you have for the latest class of SUD Startup Challenge winners?**
 
 Please, please, please take advantage of your mentors who can help you through the SBIR process. I’ve been a researcher for forever, and no one taught me how to write grants so precisely or coached me through how to champion my own ideas and innovation. The opportunity for this mentorship is priceless and will set you up for immediate and long-term success.
@@ -86,6 +93,8 @@ Please, please, please take advantage of your mentors who can help you through t
 **What advice do you have for the larger solver community?**
 
 Keep going with your ideas and innovation. Though we’ve had success with the challenge and our SBIR, that’s only come after numerous papers getting rejected, grants going unfunded, and investors saying that the problem we are addressing is not important or can’t make money. If you believe in what you are doing, you really have no choice but to follow it. However, belief is never enough, it’s the hard work, late nights, and dedication of your team, and of course a bit of luck and circumstance created by that hard work that will get you closer to where you are trying to go. And when you get there, you just have to keep pushing.
+
+### CLOSING
 
 **Is there anything else that you’d like to share that we haven’t asked you?**
 
