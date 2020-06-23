@@ -1,7 +1,7 @@
 ---
 date: June 23, 2020
 layout: post
-title: "A Winner's Q&A: Tim K. Mackey"
+title: A Winner's Q&A with Tim K. Mackey
 tagline: Challenge.gov sits down with a previous winner of NIDA's “$100,000 for
   Start a SUD Startup” Challenge to solicit advice for the competition's latest
   crop of winners
