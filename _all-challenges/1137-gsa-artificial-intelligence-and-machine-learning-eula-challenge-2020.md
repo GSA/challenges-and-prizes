@@ -24,7 +24,9 @@ challenge-manager: Cindy Smith
 challenge-manager-email: cindya.smith@gsa.gov
 point-of-contact: challenge2020@gsa.gov
 description: >-
-  *"\[insert quote here]"*
+  *"Emerging technologies such as artificial intelligence and machine learning
+  are paving the way to automate business processes ... Let us ride the digital
+  wave of transformation together."*
 
 
   *\-- Mr. Keith Nakasone, Deputy Assistant Commissioner for Acquisition, General Services Administration (GSA)*
@@ -359,7 +361,7 @@ how-to-enter: >-
 
   Questions regarding the GSA Artificial Intelligence (AI) or Machine Learning (ML) EULA Challenge 2020 can be directed to [challenge2020@gsa.gov](mailto:challenge2020@gsa.gov). GSA will share questions and answers with all registered participants by email during the challenge.
 ---
-*"\[insert quote here]"*
+*"Emerging technologies such as artificial intelligence and machine learning are paving the way to automate business processes ... Let us ride the digital wave of transformation together."*
 
 *\-- Mr. Keith Nakasone, Deputy Assistant Commissioner for Acquisition, General Services Administration (GSA)*
 
