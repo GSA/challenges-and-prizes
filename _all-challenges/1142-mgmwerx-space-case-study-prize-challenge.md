@@ -15,8 +15,8 @@ partner-agencies-federal: Air Force Air University
 partners-non-federal: MGMWERX
 type-of-challenge:
   - Ideas
-submission-start: 2020/06/22 9:00 AM
-submission-end: 2020/07/31 11:59 PM
+submission-start: 2020/06/22 12:00 PM
+submission-end: 2020/07/21 12:59 AM
 fiscal-year: FY20
 legal-authority: America COMPETES Act
 challenge-manager: Anna Ganey
@@ -41,7 +41,7 @@ description: >-
   #### Key Dates
 
 
-  * 6/22/2020: Submissions phase opens at XX, June 22
+  * 6/22/2020: Submissions phase opens at 11:00 AM CST, June 22
 
   * 7/20/2020: Submissions phase closes at 11:59 PM CST, July 20
 
@@ -81,7 +81,7 @@ Solutions can be submitted between the start and end dates published below. Late
 
 #### Key Dates
 
-* 6/22/2020: Submissions phase opens at XX, June 22
+* 6/22/2020: Submissions phase opens at 11:00 AM CST, June 22
 * 7/20/2020: Submissions phase closes at 11:59 PM CST, July 20
 * 7/20/2020 - 7/31/2020: USAF Review, Selection, and Invitation - During this phase, a team of Air Force customers will review and evaluate solution proposals. 
 
