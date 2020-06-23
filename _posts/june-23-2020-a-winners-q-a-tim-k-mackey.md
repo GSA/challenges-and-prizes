@@ -5,8 +5,8 @@ title: A Winner's Q&A with Tim K. Mackey
 tagline: Challenge.gov sits down with a previous winner of NIDA's “$100,000 for
   Start a SUD Startup” Challenge to solicit advice for the competition's latest
   crop of winners
-excerpt: If you believe in what you are doing, you really have no choice but to
-  follow it.
+excerpt: '"If you believe in what you are doing, you really have no choice but
+  to follow it."'
 author: Pierce McManus and Tim K. Mackey
 image: /assets/netlify-uploads/tim-mackey.jpg
 image_alt_text: Tim K. Mackey, CEO and Co-Founder S-3 Research LLC
