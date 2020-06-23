@@ -36,7 +36,7 @@ description: >-
   The Challenge seeks solutions that use distance learning to provide rural communities access to competency-based education (CBE) programs in technology-related career pathways with a goal of increasing instructional capacity.
 
 
-  Rural communities often lack the instructional capacity to deliver high-quality career and technical education (CTE) in technology education pathways. Distance learning- enabled models can help address capacity constraints by facilitating education delivery with limited staff and minimal or no in-person interaction among instructors or peers, which provides for the potential to increase access to in-demand technology career pathways in rural communities.  CBE models allow students to progress at their own pace through a sequence of personalized learning experiences, where students advance their education by demonstrating mastery of a subject or concept. Expanding these models to rural high school students, with a focus on technology pathways, would increase access to qualified educators and expand opportunities for students to earn industry certifications and credentials.  The progress of the finalists and the models and practices emerging from the Challenge will be shared on the Challenge website.
+  Rural communities often lack the instructional capacity to deliver high-quality career and technical education (CTE) in technology education pathways. Distance learning- enabled models can help address capacity constraints by facilitating education delivery with limited staff and minimal or no in-person interaction among instructors or peers, which provides for the potential to increase access to in-demand technology career pathways in rural communities. CBE models allow students to progress at their own pace through a sequence of personalized learning experiences, where students advance their education by demonstrating mastery of a subject or concept. Expanding these models to rural high school students, with a focus on technology pathways, would increase access to qualified educators and expand opportunities for students to earn industry certifications and credentials.  The progress of the finalists and the models and practices emerging from the Challenge will be shared on the Challenge website.
 
 
   #### Phase Descriptions
@@ -64,8 +64,9 @@ prizes: >-
 
   In addition to the cash prizes, each finalist will receive technical assistance, which may include mentorship, curated resources, introductions to employers, and/or program design support. Finalists will also be supported by a Community Engagement Manager selected by the finalist who will assist with on-the-ground setup, implementation, and evaluation of each program. Entrants have the opportunity to propose their own Community Engagement Manager during the entry submission process.
 rules: "The Official Rules, Terms, and Conditions for the Rural Tech Project can
-  be found here: [https://www.RuralTechProject.com/rules-terms-conditions/
-  ](https://www.RuralTechProject.com/rules-terms-conditions/)"
+  be found here:
+  [](https://www.RuralTechProject.com/rules-terms-conditions/)<https://www.rura\
+  ltechproject.com/rules-terms-and-conditions/>"
 judging: >-
   #### Finalist selection criteria
 
@@ -126,7 +127,7 @@ The U.S. Department of Education (Department) is announcing the Rural Tech Proje
 
 The Challenge seeks solutions that use distance learning to provide rural communities access to competency-based education (CBE) programs in technology-related career pathways with a goal of increasing instructional capacity.
 
-Rural communities often lack the instructional capacity to deliver high-quality career and technical education (CTE) in technology education pathways. Distance learning- enabled models can help address capacity constraints by facilitating education delivery with limited staff and minimal or no in-person interaction among instructors or peers, which provides for the potential to increase access to in-demand technology career pathways in rural communities.  CBE models allow students to progress at their own pace through a sequence of personalized learning experiences, where students advance their education by demonstrating mastery of a subject or concept. Expanding these models to rural high school students, with a focus on technology pathways, would increase access to qualified educators and expand opportunities for students to earn industry certifications and credentials.  The progress of the finalists and the models and practices emerging from the Challenge will be shared on the Challenge website.
+Rural communities often lack the instructional capacity to deliver high-quality career and technical education (CTE) in technology education pathways. Distance learning- enabled models can help address capacity constraints by facilitating education delivery with limited staff and minimal or no in-person interaction among instructors or peers, which provides for the potential to increase access to in-demand technology career pathways in rural communities. CBE models allow students to progress at their own pace through a sequence of personalized learning experiences, where students advance their education by demonstrating mastery of a subject or concept. Expanding these models to rural high school students, with a focus on technology pathways, would increase access to qualified educators and expand opportunities for students to earn industry certifications and credentials. The progress of the finalists and the models and practices emerging from the Challenge will be shared on the Challenge website.
 
 #### Phase Descriptions
 
@@ -153,7 +154,7 @@ In addition to the cash prizes, each finalist will receive technical assistance,
 
 ### Rules
 
-The Official Rules, Terms, and Conditions for the Rural Tech Project can be found here: [https://www.RuralTechProject.com/rules-terms-conditions/ ](https://www.RuralTechProject.com/rules-terms-conditions/)
+The Official Rules, Terms, and Conditions for the Rural Tech Project can be found here: [](https://www.RuralTechProject.com/rules-terms-conditions/)[https://www.ruraltechproject.​com/rules-terms-and-​conditions/](https://www.ruraltechproject.com/rules-terms-and-conditions/)
 
 ### Judging
 
