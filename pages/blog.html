@@ -30,7 +30,7 @@ pagination:
         </div>
         <div>
           {% if post.image %} 
-          <img src="{{ site.baseurl }}/assets/netlify-uploads/{{ post.image }}" 
+          <img src="{{ site.baseurl }}{{ post.image }}" 
           class="float-left maxw-mobile padding-right-3 padding-top-1" 
           alt="{{ post.image_alt_text }}">
           {% endif %} 
