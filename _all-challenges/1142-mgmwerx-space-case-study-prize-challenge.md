@@ -6,7 +6,7 @@ permalink: /challenge/mgmwerx-space-case-study-prize-challenge/
 challenge-id: "1142"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/dod_seal.jpg
+card-image: /assets/netlify-uploads/space-case-study_challengedotgov.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
 tagline: Are you an up-and-coming subject matter expert in the space domain? Air
   University invites graduate-level students to share their knowledge.
