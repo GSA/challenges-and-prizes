@@ -8,14 +8,14 @@ permalink: /challenge/GSA-artificial-intelligence-AI-machine-learning-ML-challen
 challenge-id: "1137"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/gsa-it-341x160.jpg
+card-image: /assets/netlify-uploads/gsa-ai-ml-eula-graphic.jpg
 agency-logo: /assets/netlify-uploads/1198px-US-GeneralServicesAdministration-Logo.png
 tagline: Create an artificial intelligence or machine learning solution to aid
   in the review of end-user license agreements.
 agency: General Services Administration
 total-prize-offered-cash: $20,000
 type-of-challenge:
-  - Ideas
+  - Software and apps
 submission-start: 2020/07/06 10:00 AM
 submission-end: 2020/08/20 5:00 PM
 fiscal-year: FY20
@@ -26,10 +26,11 @@ point-of-contact: challenge2020@gsa.gov
 description: >-
   *"Emerging technologies such as artificial intelligence and machine learning
   are paving the way to automate business processes ... Let us ride the digital
-  wave of transformation together."*
+  wave of transformation together." -- Keith Nakasone, Deputy Assistant
+  Commissioner for Acquisition, General Services Administration (GSA)*
 
 
-  *\-- Mr. Keith Nakasone, Deputy Assistant Commissioner for Acquisition, General Services Administration (GSA)*
+  *"AI & ML leveraged successfully are force multipliers; transitioning historically resource intensive activities into high-speed-low-drag transactions.  Huge thank you in advance for your participation and contributions!" -- Sean C. Zerges, Director, Office of the Chief Technology Officer, GSA*
 
 
   The goal of this challenge is to develop an artificial intelligence (AI), or machine learning (ML) solution that will review end-user license agreements (EULA) for terms and conditions that are unacceptable to the government. On average it takes all parties involved approximately 7-14 days to review an EULA and ensure that all unacceptable terms and conditions are identified.
@@ -361,9 +362,9 @@ how-to-enter: >-
 
   Questions regarding the GSA Artificial Intelligence (AI) or Machine Learning (ML) EULA Challenge 2020 can be directed to [challenge2020@gsa.gov](mailto:challenge2020@gsa.gov). GSA will share questions and answers with all registered participants by email during the challenge.
 ---
-*"Emerging technologies such as artificial intelligence and machine learning are paving the way to automate business processes ... Let us ride the digital wave of transformation together."*
+*"Emerging technologies such as artificial intelligence and machine learning are paving the way to automate business processes ... Let us ride the digital wave of transformation together." -- Keith Nakasone, Deputy Assistant Commissioner for Acquisition, General Services Administration (GSA)*
 
-*\-- Mr. Keith Nakasone, Deputy Assistant Commissioner for Acquisition, General Services Administration (GSA)*
+*"AI & ML leveraged successfully are force multipliers; transitioning historically resource intensive activities into high-speed-low-drag transactions.  Huge thank you in advance for your participation and contributions!" -- Sean C. Zerges, Director, Office of the Chief Technology Officer, GSA*
 
 ### Description
 
