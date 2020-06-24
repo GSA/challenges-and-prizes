@@ -8,7 +8,7 @@ permalink: /challenge/GSA-artificial-intelligence-AI-machine-learning-ML-challen
 challenge-id: "1137"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/gsa-ai-ml-eula-graphic.jpg
+card-image: /assets/netlify-uploads/gsa-ai-ml-eula-graphic2-copy.jpg
 agency-logo: /assets/netlify-uploads/1198px-US-GeneralServicesAdministration-Logo.png
 tagline: Create an artificial intelligence or machine learning solution to aid
   in the review of end-user license agreements.
