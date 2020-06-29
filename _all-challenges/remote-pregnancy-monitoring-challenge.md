@@ -94,11 +94,11 @@ prize-description-0: "<p>The Remote Pregnancy Monitoring Challenge will award
   care providers remotely monitor the health and wellbeing of pregnant women,
   as well as place health data into the hands of pregnant women themselves as
   a tool to monitor their own health and make informed decisions about care.</p>"
-prize-cash-amount-0: '375000'
+prize-cash-amount-0: '375,000'
 prize-name-0: Total Prizes
 prize-description-1: ''
-prize-cash-amount-1: 'Phase 2'
-prize-name-1: '145,000'
+prize-cash-amount-1: '145,000'
+prize-name-1: 'Phase 2'
 prize-cash-amount-10: ''
 prize-name-10: ''
 prize-description-10: ''
