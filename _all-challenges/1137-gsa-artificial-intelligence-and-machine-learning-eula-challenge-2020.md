@@ -39,7 +39,7 @@ description: >-
   A EULA details the rights and restrictions which apply to the use of software or services. It can also be known as a software license agreement or acceptable use policy. As part of the acquisition process of software or services, GSA reviews the associated EULAs. This review must be completed prior to awarding new contracts or modifying existing contracts. A GSA contracting officer (CO) reviews applicable EULAs for terms and conditions that are not in accordance with Federal law and regulations. The CO may also coordinate a legal review with the Office of General Counsel if they feel it is warranted. Should EULAs contain language that would conflict with Federal law and regulations, the CO must negotiate changes to the EULA to remove the problematic language.    
 
 
-  We are looking for a solution that will use AI and/or ML to improve this manual process. The solution will include a user interface that GSA will use to process the documents and identify unacceptable clauses/terms in the EULAs.
+  We are looking for a solution that will use AI and/or ML to improve this manual process. The solution will include a user interface that GSA will use to process the documents and identify unacceptable clauses/terms in the EULAs. **[Watch our AI / ML challenge video](https://youtu.be/uOBFIqoOJ8k) to learn more about the desired solution.**
 
 
   This solution will decrease the time spent manually reviewing EULAs and free resources to focus on other aspects of the acquisition process.  It will also improve the accuracy and consistency of the review process.
@@ -372,7 +372,7 @@ The goal of this challenge is to develop an artificial intelligence (AI), or mac
 
 A EULA details the rights and restrictions which apply to the use of software or services. It can also be known as a software license agreement or acceptable use policy. As part of the acquisition process of software or services, GSA reviews the associated EULAs. This review must be completed prior to awarding new contracts or modifying existing contracts. A GSA contracting officer (CO) reviews applicable EULAs for terms and conditions that are not in accordance with Federal law and regulations. The CO may also coordinate a legal review with the Office of General Counsel if they feel it is warranted. Should EULAs contain language that would conflict with Federal law and regulations, the CO must negotiate changes to the EULA to remove the problematic language.    
 
-We are looking for a solution that will use AI and/or ML to improve this manual process. The solution will include a user interface that GSA will use to process the documents and identify unacceptable clauses/terms in the EULAs.
+We are looking for a solution that will use AI and/or ML to improve this manual process. The solution will include a user interface that GSA will use to process the documents and identify unacceptable clauses/terms in the EULAs. **[Watch our AI / ML challenge video](https://youtu.be/uOBFIqoOJ8k) to learn more about the desired solution.**
 
 This solution will decrease the time spent manually reviewing EULAs and free resources to focus on other aspects of the acquisition process.  It will also improve the accuracy and consistency of the review process.
 
