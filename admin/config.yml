@@ -145,7 +145,7 @@ collections:
     fields:
       - { label: 'Date', name: 'date', widget: 'string', hint: 'ie. May 14, 2020' }
       - { label: 'Layout', name: 'layout', widget: 'string', default: 'post' }
-      - { label: 'Permalink', name: 'permalink', widget: 'string' }
+      - { label: 'Permalink', name: 'permalink', widget: 'string', default: '/blog/use-full-date-and-title-url-here/' }
       - { label: 'Post Title', name: 'title', widget: 'string' }
       - { label: 'Tagline', name: 'tagline', widget: 'string',  }
       - { label: 'Excerpt', name: 'excerpt', widget: 'string', required: false }
@@ -153,6 +153,7 @@ collections:
       - { label: 'Image', name: 'image', widget: 'image', required: false }
       - { label: 'Social Media Card Image', name: 'card-image', widget: 'image', required: false }
       - { label: 'Image Alt Text', name: 'image_alt_text', widget: 'string', required: false }
+      - { label: 'Post Body Content Uploads', name: 'post-body-content-uploads', widget: 'file', required: false }
       - { label: 'Post Content', name: 'body', widget: 'markdown' }
   - label: 'Pages'
     name: 'pages'
