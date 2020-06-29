@@ -89,7 +89,7 @@ prize-description-0: "<p>Phase 1: Design 7-10 winners Up to $10,000 will be awar
   or city to facilitate scaling the intervention in order to reach more families.
   This will show: Scalability of the intervention at low cost Feasibility of implementation
   Impact on the intended outcomes.</p>"
-prize-cash-amount-0: '375000'
+prize-cash-amount-0: '375,000'
 prize-name-0: Prizes
 prize-description-1: ''
 prize-cash-amount-1: '145,000'
