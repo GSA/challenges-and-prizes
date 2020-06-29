@@ -84,7 +84,7 @@ prize-description-0: "<p>Phase 1: Design 7-10 winners Up to $10,000 will be awar
   be demonstrated. Mentors will be available to provide feedback on testing methodologies
   and to provide more information about the evidence base. Phase 3: Scaling 1
   winner Up to $150,000 will be awarded. Submission Period: Spring 2019 &ndash;
-  Fall 2019 In the final phase, winners of Phase 2 will test their proposed interventions
+  November 27, 2020 In the final phase, winners of Phase 2 will test their proposed interventions
   on a larger scale. Applicants are encouraged to work closely with a community
   or city to facilitate scaling the intervention in order to reach more families.
   This will show: Scalability of the intervention at low cost Feasibility of implementation
