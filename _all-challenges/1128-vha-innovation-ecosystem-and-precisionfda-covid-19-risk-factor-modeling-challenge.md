@@ -18,7 +18,7 @@ external-url: https://go.usa.gov/xverf
 type-of-challenge:
   - Scientific
 submission-start: 2020/06/01 5:00 PM
-submission-end: 2020/06/30 11:59 PM
+submission-end: 2020/07/02 11:59 PM
 fiscal-year: FY20
 legal-authority: America COMPETES Act
 challenge-manager: Elaine Johanson
