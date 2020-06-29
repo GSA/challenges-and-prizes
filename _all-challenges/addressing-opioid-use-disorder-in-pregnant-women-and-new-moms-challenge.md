@@ -83,7 +83,7 @@ judging-criteria-7: ''
 judging-criteria-percentage-7: ''
 judging-criteria-description-7: ''
 prize-description-0: ''
-prize-cash-amount-0: '375000'
+prize-cash-amount-0: '375,000'
 prize-name-0: Total Prize Pool
 prize-description-1: ''
 prize-cash-amount-1: '145,000'
