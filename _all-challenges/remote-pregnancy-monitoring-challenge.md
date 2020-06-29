@@ -98,7 +98,7 @@ prize-cash-amount-0: '375000'
 prize-name-0: Total Prizes
 prize-description-1: ''
 prize-cash-amount-1: 'Phase 2'
-prize-name-1: '$145,000'
+prize-name-1: '145,000'
 prize-cash-amount-10: ''
 prize-name-10: ''
 prize-description-10: ''
