@@ -89,6 +89,12 @@ judging-criteria-description-6: ''
 judging-criteria-7: ''
 judging-criteria-percentage-7: ''
 judging-criteria-description-7: ''
+judging-criteria-description-8: ''
+judging-criteria-percentage-8: ''
+judging-criteria-8: ''
+judging-criteria-description-9: ''
+judging-criteria-percentage-9: ''
+judging-criteria-9: ''
 prize-description-0: "<p>The Remote Pregnancy Monitoring Challenge will award
   $375,000 in prizes to support the creation of tech innovations to help prenatal
   care providers remotely monitor the health and wellbeing of pregnant women,
