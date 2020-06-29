@@ -397,7 +397,7 @@ how-to-enter: <p>Visit the Challenge website <a href="http://www.firstresponderu
 
 <!-- Description start -->
 ### Description
-<p><strong>CONGRATULATIONS TO THE STAGE 1 WINNERS & FINALISTS! <a href="{{ site.baseurl }}/assets/images/document-library/PSCR-UAS-Challenge-Stage1-winners.pdf">See a list of winners.</a> </strong>Entries will be accepted in Stage 3 during the Walk-on Contest December 4 – 18. More details below.</p>
+<p><strong>CONGRATULATIONS TO THE STAGE 1 WINNERS & FINALISTS! <a href="{{ site.baseurl }}/assets/document-library/PSCR-UAS-Challenge-Stage1-winners.pdf">See a list of winners.</a> </strong>Entries will be accepted in Stage 3 during the Walk-on Contest December 4 – 18. More details below.</p>
 <h3>Informational Materials</h3>
 <ul>
 <li><a href="https://capconcorp.egnyte.com/dl/FqF0hCXwEV/" target="_blank" rel="noopener">April 2, 2020 Webinar</a></li>
