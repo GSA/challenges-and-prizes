@@ -4,9 +4,9 @@ challenge-title: NASA Entrepreneur’s Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/nasa-entrepreneur-challenge-2020/
 challenge-id: "1135"
-status: open
+status: closed
 sidenav: false
-card-image: /assets/netlify-uploads/entrepreneurs_challenge-padding.png 
+card-image: /assets/netlify-uploads/entrepreneurs_challenge-padding.png
 agency-logo: /assets/netlify-uploads/717px-NASA_logo.png
 tagline: "To increase participation of entrepreneurial startup companies in its
   technology portfolio, NASA’s Science Mission Directorate is seeking companies
@@ -20,8 +20,8 @@ total-prize-offered-cash: $1,000,000
 type-of-challenge:
   - Technology demonstration and hardware
   - Business plans
-submission-start: 2020/05/29 8:00 AM
-submission-end: 2020/06/26 5:00 PM
+submission-start: 05/29/2020 8:00 AM
+submission-end: 06/26/2020 5:00 PM
 fiscal-year: FY20
 legal-authority: Other
 challenge-manager: Michael Seablom
