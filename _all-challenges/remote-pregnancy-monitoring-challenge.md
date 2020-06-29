@@ -58,23 +58,23 @@ number-of-phases: ''
 how-to-enter: "<p>To submit a proposal, visit: https://mchbgrandchallenges.hrsa.gov/challenges/remote-pregnancy-monitoring</p>"
 partnerships: ''
 groupAttributes:
-judging-criteria-description-0: "<p>Is the proposed innovation able to be easily
+judging-criteria-description-0: "Is the proposed innovation able to be easily
   utilized by families of diverse economic, social, and cultural backgrounds?
-  Is it functional across disciplines/users?</p>"
+  Is it functional across disciplines/users?"
 judging-criteria-percentage-0: ''
 judging-criteria-0: Accessibility
-judging-criteria-description-1: "<p>How easily will the proposed innovation be
+judging-criteria-description-1: "How easily will the proposed innovation be
   evaluated in order to determine its efficacy (in both lab testing and in the
-  real world)? Is the proposed innovation measurable among various audiences?</p>"
+  real world)? Is the proposed innovation measurable among various audiences?"
 judging-criteria-percentage-1: ''
 judging-criteria-1: Measurability
-judging-criteria-description-2: "<p>Does the proposed intervention compel users
+judging-criteria-description-2: "Does the proposed intervention compel users
   to utilize the technology often and/or for long periods of time? Does it fit
-  into daily life? Is it fun to use?</p>"
+  into daily life? Is it fun to use?"
 judging-criteria-2: Sustainability
 judging-criteria-percentage-2: ''
-judging-criteria-description-3: "<p>Does the applicant present a theory or explanation
-  of how the proposed innovation would promote healthy behaviors?</p>"
+judging-criteria-description-3: "Does the applicant present a theory or explanation
+  of how the proposed innovation would promote healthy behaviors?"
 judging-criteria-3: Impact
 judging-criteria-percentage-3: ''
 judging-criteria-percentage-4: ''
