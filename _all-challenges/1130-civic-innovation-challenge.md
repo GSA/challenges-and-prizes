@@ -21,7 +21,7 @@ type-of-challenge:
   - Analytics, visualizations, algorithms
   - Scientific
 submission-start: 2020/04/07 9:00 AM
-submission-end: 2020/07/01 5:00 PM
+submission-end: 2020/08/03 5:00 PM
 fiscal-year: FY20, FY21, FY22
 legal-authority: Grants and cooperative agreements
 challenge-manager: Michal Ziv-El
@@ -46,7 +46,7 @@ rules: Teams must consist of both research partners and civic partners. For the
   tribal government officials; non-profit representatives; community organizers
   or advocates; community service providers; and/or others working to improve
   their communities. For a complete list of rules, please visit the NSF
-  solicitation at https://bit.ly/2V5arFg
+  solicitation at <https://bit.ly/2V5arFg>
 judging: >-
   **Judging Panel** 
 
@@ -60,7 +60,7 @@ judging: >-
   Panels will assess projects' intellectual merits, broader impacts, and capability to have an impact in a 12-month time horizon. Review panels will also look for proposals that have real impact on their communities, and proposers are encouraged to tell a story about who in their communities will benefit from the project.
 how-to-enter: "Submission URL: <https://www.fastlane.nsf.gov/>"
 ---
-### Description 
+### Description
 
 The Civic Innovation Challenge is a research and action competition that aims to fund ready-to-implement, research-based pilot projects that have the potential for scalable, sustainable, and transferable impact on community-identified priorities. Teams will participate in one of two tracks: Communities and Mobility or Resilience to Natural Disasters.
 
@@ -75,7 +75,7 @@ The Civic Innovation Challenge is a research and action competition that aims to
 
 ### Rules
 
-Teams must consist of both research partners and civic partners. For the purposes of this solicitation, civic partners may include local, state, or tribal government officials; non-profit representatives; community organizers or advocates; community service providers; and/or others working to improve their communities. For a complete list of rules, please visit the NSF solicitation at https://bit.ly/2V5arFg
+Teams must consist of both research partners and civic partners. For the purposes of this solicitation, civic partners may include local, state, or tribal government officials; non-profit representatives; community organizers or advocates; community service providers; and/or others working to improve their communities. For a complete list of rules, please visit the NSF solicitation at <https://bit.ly/2V5arFg>
 
 ### Judging
 
