@@ -4,7 +4,7 @@ challenge-title: Network Detection of Adversarial Campaigns using Artificial
 layout: front-matter-data
 permalink: /challenge/network-detection-of-adversarial-campaigns/
 challenge-id: 1101
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/AI-ATAC-AI-logo.png
 agency-logo: dod_seal.jpg
@@ -12,22 +12,26 @@ tagline: Adversarial campaign detection utilizing state-of-the-art AI/ML at the
   network layer
 agency: Department of Defense - Naval Information Warfare Systems Command
 partner-agencies-federal: Department of Energy, Oak Ridge National Lab, Cybersecurity Research Group
+partners-non-federal: null
 external-url: null
 total-prize-offered-cash: $500,000
 type-of-challenge: Software and apps; Technology demonstration and hardware;
   Analytics, visualizations, algorithms
-submission-start: 2020/03/02 05:00 PM
-submission-end: 2020/06/30 05:00 PM
+submission-start: 03/02/20202 05:00 PM
+submission-end: 06/30/2020 05:00 PM
 fiscal-year: FY20, FY21
 legal-authority: Agency specific prize authority
 challenge-manager: Michael Karlbom
 challenge-manager-email: karlbom@spawar.navy.mil
 point-of-contact: AIATAC.PRIZE.CHALLENGE@NAVY.MIL
-description: <p>See <strong><a href="{{ site.baseurl }}/assets/document-library/AI-ATAC-2-FAQ-23JUN20.pdf" target="_blank" rel="noopener">FREQUENTLY ASKED QUESTIONS</a>.</strong></p><p>The Naval Information Warfare Systems Command (NAVWARSYSCOM) and
-  the Program Executive Office for Command, Control, Communications, Computers,
-  and Intelligence (PEO C4I) are conducting a second instance of the Artificial
-  Intelligence Applications to Autonomous Cybersecurity (AI ATAC), pronounced
-  &ldquo;AI attack&rdquo; Challenge (hereinafter referred to as &ldquo;the
+description: <p>See <strong><a href="{{ site.baseurl
+  }}/assets/document-library/AI-ATAC-2-FAQ-23JUN20.pdf" target="_blank"
+  rel="noopener">FREQUENTLY ASKED QUESTIONS</a>.</strong></p><p>The Naval
+  Information Warfare Systems Command (NAVWARSYSCOM) and the Program Executive
+  Office for Command, Control, Communications, Computers, and Intelligence (PEO
+  C4I) are conducting a second instance of the Artificial Intelligence
+  Applications to Autonomous Cybersecurity (AI ATAC), pronounced &ldquo;AI
+  attack&rdquo; Challenge (hereinafter referred to as &ldquo;the
   Challenge&rdquo;). The Navy&rsquo;s Cybersecurity Program Office (PMW 130)
   seeks to automate the Security Operations Center (SOC) using artificial
   intelligence and machine learning (AI/ML) to detect advanced persistent threat
@@ -309,7 +313,6 @@ judging: <p>The Challenge evaluation will focus on AI/ML technologies that
   ACCORDANCE WITH THE SCORING ABOVE.</strong></p>
 how-to-enter: <p>See the Rules section for submission guidelines</p>
 prize: true
-partners-non-federal: null
 submission-link: null
 ---
 <!-- Description start -->
