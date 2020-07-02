@@ -89,33 +89,33 @@ Federal Agency Resources and Policies
 
 ### Other Blogs and Fact Sheets
 
-        #### Videos
-        
-        *   [Videos: Challenge.gov Webinars and Trainings on YouTube](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC)
-        *   [NIST Drone Challenge Overview Video](https://www.nist.gov/video/nist-drone-challenge) (June 2018)
-        
-        #### Articles and Fact Sheets
-        
-        *   [700 Strong: Challenge.gov Crosses New Milestone in Open Innovation](https://digital.gov/2016/06/15/700-strong-challenge-gov-crosses-new-milestone-in-open-innovation/) (June 2016)
-        *   [White House Fact Sheet: Administration Celebrates Five-Year Anniversary of Challenge.gov with Launch of More than 20 New Public- and Private-Sector Prizes](https://obamawhitehouse.archives.gov/the-press-office/2015/10/07/fact-sheet-administration-celebrates-five-year-anniversary-challengegov) (October 2015, White House.gov)
-        *   [Not Just a Website: Challenge.gov enables agencies to innovate with incentives](http://www.digitalgov.gov/2015/09/10/not-just-a-website-challenge-gov-enables-agencies-to-innovate-with-incentives/) (September 2015, GSA Blog)
-        
-        #### Blogs
-        
-        *   [NIST: Flying Drones Compete to Complete Unprecedented Feat Blog](https://www.nist.gov/blogs/taking-measure/flying-drones-compete-complete-unprecedented-feat) (August 2018)
-        *   [Incentive Prizes Deliver Important Results for the Nation, Offer More "Bang for the Buck]({{ site.baseurl }}/assets/document-library/Blog-Incentive-prizes-deliver-important-results-for-the-Nation-offer-more-bang-for-the-buck.pdf)" (January 2017, OSTP Blog)
-        *   [Public Sector Prizes and Challenges Grow in Use and Sophistication as Agencies Build Infrastructure](https://obamawhitehouse.archives.gov/blog/2016/08/10/public-sector-prizes-and-challenges-continue-grow-use-and-sophistication) (August 2016, OSTP Blog)
-        *   [Celebrating the Five-Year Anniversary of Challenge.gov with More Than 20 New Prizes](https://obamawhitehouse.archives.gov/blog/2015/10/06/celebrating-five-year-anniversary-challengegov-more-20-new-prizes) (October 2015, OSTP Blog)
-        *   [This October, the White House Celebrates Over $150 Million in Prize Competitions Since 2010](https://obamawhitehouse.archives.gov/blog/2015/09/21/october-white-house-celebrates-over-150-million-prize-competitions-2010) (September 2015, OSTP Blog)
-        *   [Accelerating the Use of Prizes to Address Tough Challenges](https://obamawhitehouse.archives.gov/blog/2015/07/17/accelerating-use-prizes-address-tough-challenges) (July 2015, OSTP Blog)
-        *   [Public Sector Prizes and Challenges Show Increased Sophistication, Ambition and Use: A Fiscal Year 2014 Progress Report](https://obamawhitehouse.archives.gov/blog/2015/05/08/public-sector-prizes-and-challenges-show-increased-sophistication-ambition-and-use-f) (May 2015, OSTP Blog)
-        *   [21st Century Public Servants: Using Prizes and Challenges to Spur Innovation](https://obamawhitehouse.archives.gov/blog/2015/04/17/21st-century-public-servants-using-prizes-and-challenges-spur-innovation) (April 2015, OSTP Blog)
-        *   [DIY Space Race: Unleashing Space Innovators through Prize Competitions](https://obamawhitehouse.archives.gov/blog/2015/01/29/diy-space-race-unleashing-space-innovators-through-prize-competitions) (January 2015, OSTP Blog)
-        *   [Identifying Steps Forward in Use of Prizes to Spur Innovation]({{ site.baseurl }}/assets/document-library/Blog-Identifying-Steps-Forward-Use-Prizes-Spur-Innovation.pdf) (April 10, 2012, OSTP Blog)
-        *   [Unleashing Innovation and Deepening Democracy Through Prizes](https://obamawhitehouse.archives.gov/blog/2012/06/12/unleashing-innovation-deepening-democracy-through-prizes) (June 12, 2012, White House Blog)
-        *   [Challenge.gov: Two Years and 200 Prizes Later](https://obamawhitehouse.archives.gov/blog/2012/09/05/challengegov-two-years-and-200-prizes-later) (September 5, 2012, OSTP Blog)
-        *   [Audacious Goals in Eye Research](https://obamawhitehouse.archives.gov/blog/2013/05/15/audacious-goals-eye-research) (May 2013, OSTP Blog)
-        *   [DOE Vehicle Data Challenge Fuels Innovation](https://obamawhitehouse.archives.gov/blog/2013/04/11/doe-vehicle-data-challenge-fuels-innovation) (April 2013, OSTP Blog)
-        *   [Help NASA Power the International Space Station](https://obamawhitehouse.archives.gov/blog/2013/01/25/help-nasa-power-international-space-station) (January 2013, OSTP Blog)
-        *   [New Center of Excellence Fuels Prize to Help Modernize Tools for Patent Examination](https://obamawhitehouse.archives.gov/blog/2011/12/16/new-center-excellence-fuels-prize-help-modernize-tools-patent-examination) (December 2011, OSTP Blog)
-        *   [Congress Grants Broad Prize Authority to All Federal Agencies](https://obamawhitehouse.archives.gov/blog/2010/12/21/congress-grants-broad-prize-authority-all-federal-agencies) (December 2010, OSTP Blog)
+#### Videos
+
+*   [Videos: Challenge.gov Webinars and Trainings on YouTube](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC)
+*   [NIST Drone Challenge Overview Video](https://www.nist.gov/video/nist-drone-challenge) (June 2018)
+
+#### Articles and Fact Sheets
+
+*   [700 Strong: Challenge.gov Crosses New Milestone in Open Innovation](https://digital.gov/2016/06/15/700-strong-challenge-gov-crosses-new-milestone-in-open-innovation/) (June 2016)
+*   [White House Fact Sheet: Administration Celebrates Five-Year Anniversary of Challenge.gov with Launch of More than 20 New Public- and Private-Sector Prizes](https://obamawhitehouse.archives.gov/the-press-office/2015/10/07/fact-sheet-administration-celebrates-five-year-anniversary-challengegov) (October 2015, White House.gov)
+*   [Not Just a Website: Challenge.gov enables agencies to innovate with incentives](http://www.digitalgov.gov/2015/09/10/not-just-a-website-challenge-gov-enables-agencies-to-innovate-with-incentives/) (September 2015, GSA Blog)
+
+#### Blogs
+
+*   [NIST: Flying Drones Compete to Complete Unprecedented Feat Blog](https://www.nist.gov/blogs/taking-measure/flying-drones-compete-complete-unprecedented-feat) (August 2018)
+*   [Incentive Prizes Deliver Important Results for the Nation, Offer More "Bang for the Buck]({{ site.baseurl }}/assets/document-library/Blog-Incentive-prizes-deliver-important-results-for-the-Nation-offer-more-bang-for-the-buck.pdf)" (January 2017, OSTP Blog)
+*   [Public Sector Prizes and Challenges Grow in Use and Sophistication as Agencies Build Infrastructure](https://obamawhitehouse.archives.gov/blog/2016/08/10/public-sector-prizes-and-challenges-continue-grow-use-and-sophistication) (August 2016, OSTP Blog)
+*   [Celebrating the Five-Year Anniversary of Challenge.gov with More Than 20 New Prizes](https://obamawhitehouse.archives.gov/blog/2015/10/06/celebrating-five-year-anniversary-challengegov-more-20-new-prizes) (October 2015, OSTP Blog)
+*   [This October, the White House Celebrates Over $150 Million in Prize Competitions Since 2010](https://obamawhitehouse.archives.gov/blog/2015/09/21/october-white-house-celebrates-over-150-million-prize-competitions-2010) (September 2015, OSTP Blog)
+*   [Accelerating the Use of Prizes to Address Tough Challenges](https://obamawhitehouse.archives.gov/blog/2015/07/17/accelerating-use-prizes-address-tough-challenges) (July 2015, OSTP Blog)
+*   [Public Sector Prizes and Challenges Show Increased Sophistication, Ambition and Use: A Fiscal Year 2014 Progress Report](https://obamawhitehouse.archives.gov/blog/2015/05/08/public-sector-prizes-and-challenges-show-increased-sophistication-ambition-and-use-f) (May 2015, OSTP Blog)
+*   [21st Century Public Servants: Using Prizes and Challenges to Spur Innovation](https://obamawhitehouse.archives.gov/blog/2015/04/17/21st-century-public-servants-using-prizes-and-challenges-spur-innovation) (April 2015, OSTP Blog)
+*   [DIY Space Race: Unleashing Space Innovators through Prize Competitions](https://obamawhitehouse.archives.gov/blog/2015/01/29/diy-space-race-unleashing-space-innovators-through-prize-competitions) (January 2015, OSTP Blog)
+*   [Identifying Steps Forward in Use of Prizes to Spur Innovation]({{ site.baseurl }}/assets/document-library/Blog-Identifying-Steps-Forward-Use-Prizes-Spur-Innovation.pdf) (April 10, 2012, OSTP Blog)
+*   [Unleashing Innovation and Deepening Democracy Through Prizes](https://obamawhitehouse.archives.gov/blog/2012/06/12/unleashing-innovation-deepening-democracy-through-prizes) (June 12, 2012, White House Blog)
+*   [Challenge.gov: Two Years and 200 Prizes Later](https://obamawhitehouse.archives.gov/blog/2012/09/05/challengegov-two-years-and-200-prizes-later) (September 5, 2012, OSTP Blog)
+*   [Audacious Goals in Eye Research](https://obamawhitehouse.archives.gov/blog/2013/05/15/audacious-goals-eye-research) (May 2013, OSTP Blog)
+*   [DOE Vehicle Data Challenge Fuels Innovation](https://obamawhitehouse.archives.gov/blog/2013/04/11/doe-vehicle-data-challenge-fuels-innovation) (April 2013, OSTP Blog)
+*   [Help NASA Power the International Space Station](https://obamawhitehouse.archives.gov/blog/2013/01/25/help-nasa-power-international-space-station) (January 2013, OSTP Blog)
+*   [New Center of Excellence Fuels Prize to Help Modernize Tools for Patent Examination](https://obamawhitehouse.archives.gov/blog/2011/12/16/new-center-excellence-fuels-prize-help-modernize-tools-patent-examination) (December 2011, OSTP Blog)
+*   [Congress Grants Broad Prize Authority to All Federal Agencies](https://obamawhitehouse.archives.gov/blog/2010/12/21/congress-grants-broad-prize-authority-all-federal-agencies) (December 2010, OSTP Blog)
