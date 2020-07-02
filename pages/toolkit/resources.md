@@ -89,7 +89,7 @@ Federal Agency Resources and Policies
 
 ### Other Blogs and Fact Sheets
 
-*   *   #### Videos
+        #### Videos
         
         *   [Videos: Challenge.gov Webinars and Trainings on YouTube](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC)
         *   [NIST Drone Challenge Overview Video](https://www.nist.gov/video/nist-drone-challenge) (June 2018)
