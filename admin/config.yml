@@ -192,7 +192,7 @@ collections:
     files:
       - label: 'Resources Page'
         name: 'resources'
-        file: 'pages/toolkit/resources.html'
+        file: 'pages/toolkit/resources.md'
         fields: 
           - { label: 'Layout', name: 'layout', widget: 'string'}
           - { label: 'Permalink', name: 'permalink', widget: 'string' }
