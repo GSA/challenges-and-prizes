@@ -75,7 +75,7 @@ Federal Agency Resources and Policies
 *   [Deloitte: Government Trends 2020](https://www2.deloitte.com/insights/us/en/industry/public-sector/government-trends.html) (June 2019)
 *   [Congressional Research Service: Federal Prize Competitions](https://fas.org/sgp/crs/misc/R45271.pdf) (July 2018)
 *   [National Academies, Returns to Federal Investments in the Innovation System: Proceedings of a Workshop in Brief](https://www.nap.edu/read/24905/chapter/1) (October 2017)
-*   Government Accountability Office (GAO): Executive Branch Developed Resources to Support Implementation, but Guidance Could Better Reflect Leading Practices (June 2017): [Highlights](http://www.gao.gov/assets/690/685162.pdf) | [Full Report](http://www.gao.gov/assets/690/685161.pdf)
+*   Government Accountability Office (GAO): Executive Branch Developed Resources to Support Implementation, but Guidance Could Better Reflect Leading Practices (June 2017): [Highlights](http://www.gao.gov/assets/690/685162.pdf) [Full Report](http://www.gao.gov/assets/690/685161.pdf)
 *   [Abt Associates, AgResults: A Framework for Evaluating Innovation Challenges](http://www.abtassociates.com/Reports/2017/AgResults-A-Framework-for-Evaluating-Innovation-Ch.aspx)  (January 2017)
 *   [GAO: Open Innovation: Practices to Engage Citizens and Effectively Implement Federal Initiatives](http://www.gao.gov/products/GAO-17-14) (October 2016)
 *   [MITRE: From Incentive Prizes to Procurement](https://www.mitre.org/publications/technical-papers/from-incentive-prize-and-challenge-competitions-to-procurement) (August 2016)
