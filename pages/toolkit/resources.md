@@ -1,5 +1,5 @@
 ---
-permalink: /toolkit/resourcesmd/
+permalink: /toolkit/resources/
 layout: toolkit-base
 title: Toolkit - Resources
 ---
