@@ -58,7 +58,7 @@ Federal Agency Resources and Policies
 
 *   [Fiscal Years 2017-18 Full Report](https://www.whitehouse.gov/wp-content/uploads/2019/06/Federal-Prize-and-Citizen-Science-Implementation-FY17-18-Report-June-2019.pdf) (June 2019)
 
-*   [All prizes and challenges - This CSV file compiles all prizes and challenges from Appendix A and Appendix B of the report, broken down by agency, legal authority, goals, budget, results and more (this is a raw data set).]({{ site.baseurl }}/assets/document-library/prize-competition-appendices-as-a-CSV.CSV)
+    *   [All prizes and challenges - This CSV file compiles all prizes and challenges from Appendix A and Appendix B of the report, broken down by agency, legal authority, goals, budget, results and more (this is a raw data set).]({{ site.baseurl }}/assets/document-library/prize-competition-appendices-as-a-CSV.CSV)
 
 *   [Fiscal Year 2016 Progress Report, including appendices]({{ site.baseurl }}/assets/document-library/FY2016-Implementation-Federal-Prize-Authority-Report-and-Appendices.pdf) (July 2017)
 *   [Fiscal Year 2015 Progress Report]({{ site.baseurl }}/assets/document-library/FY2015-Implementation-Federal-Prize-Authority-Report.pdf) (August 2016)
