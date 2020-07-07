@@ -27,36 +27,55 @@ challenge-manager: Marissa Wagler
 challenge-manager-email: marissa.wagler@navy.mil
 point-of-contact: marissa.wagler@navy.mil
 description: >-
-  <p><strong>Fourteen (14) participants that have been selected for invitation to provide a virtual presentation of their submitted white paper concept to the Lithium Battery Man Portable Hazard Containment Prize Challenge judging panel.  Participant names are listed below in alphabetical order.</strong></p>
-  <ol>
-  <li>ADA Technologies, Inc.</li>
-  <li>Americase, LLC</li>
-  <li>Cornerstone Research Group, Inc.</li>
-  <li>Energy Storage Safety Products International, LLC</li>
-  <li>Fire Containment Concepts</li>
-  <li>KULR Technology Corp.</li>
-  <li>Mistral, Inc.</li>
-  <li>Proycon Alpha Squared, Inc.</li>
-  <li>Purdue University</li>
-  <li>Scimitar Technologies</li>
-  <li>StatDiagnostics</li>
-  <li>Texas Research Institute - Austin</li>
-  <li>ViPER (Purdue University)</li>
-  <li>Zarges Inc.</li>
-  </ol>
-  
-  Lithium batteries’ benefits of increased capabilities at a reduced weight
-  outweigh their inherent risks in many industrial, commercial and some military
-  applications. However, these benefits do not outweigh the inherent risk of
-  transporting the batteries. For example, most commercial passenger airlines do
-  not allow lithium batteries to be packed inside checked luggage due to the
-  inherent fire hazard in a cargo hold, which represents an unacceptable risk.
-  Likewise, military (and other users) transportation of lithium batteries
-  represents risks that are also sometimes unacceptable. A solution that
-  develops a containment system to carry batteries that suitably mitigates the
-  inherent hazards is desired to allow more applications, commercial and
-  military, to benefit from the use of rechargeable (called “secondary”) and
-  non-rechargeable (called “primary”) lithium batteries.
+  **Five (5) participants have been selected to participate in Phase II of the
+  Lithium Battery Man Portable Hazard Containment Prize Challenge. Participant
+  names are listed below in alphabetical order:**
+
+
+  1. Americase, LLC
+
+  2. Fire Containment Concepts
+
+  3. Mistral, Inc.
+
+  4. Texas Research Institute – Austin
+
+  5. Zarges Inc.
+
+
+  Earlier, fourteen (14) participants were invited to provide a virtual presentation of their submitted white paper concept to the Lithium Battery Man Portable Hazard Containment Prize Challenge judging panel. Invited participant names are listed below in alphabetical order:
+
+
+  1. ADA Technologies, Inc.
+
+  2. Americase, LLC
+
+  3. Cornerstone Research Group, Inc.
+
+  4. Energy Storage Safety Products International, LLC
+
+  5. Fire Containment Concepts
+
+  6. KULR Technology Corp.
+
+  7. Mistral, Inc.
+
+  8. Proycon Alpha Squared, Inc.
+
+  9. Purdue University
+
+  10. Scimitar Technologies
+
+  11. StatDiagnostics
+
+  12. Texas Research Institute - Austin
+
+  13. ViPER (Purdue University)
+
+  14. Zarges Inc.
+
+
+  Lithium batteries’ benefits of increased capabilities at a reduced weight outweigh their inherent risks in many industrial, commercial and some military applications. However, these benefits do not outweigh the inherent risk of transporting the batteries. For example, most commercial passenger airlines do not allow lithium batteries to be packed inside checked luggage due to the inherent fire hazard in a cargo hold, which represents an unacceptable risk. Likewise, military (and other users) transportation of lithium batteries represents risks that are also sometimes unacceptable. A solution that develops a containment system to carry batteries that suitably mitigates the inherent hazards is desired to allow more applications, commercial and military, to benefit from the use of rechargeable (called “secondary”) and non-rechargeable (called “primary”) lithium batteries.
 
 
   The objective for this Lithium Battery Man Portable Containment Challenge is to demonstrate a method to transport military-qualified lithium primary and secondary batteries that mitigates hazards generated during a thermal runaway event. Since some lithium batteries are more reactive than other types, a proposed solution does not have to accommodate all types of current military lithium batteries, but a solution that does accommodate more lithium battery types is more valuable for the purposes of this challenge. Man portable can be defined as a single person carry up to 50 Lbs, which will include up to 12.5 Lbs of batteries. The challenge assumes no battery charging or discharging will occur during transportation of lithium batteries.
@@ -595,23 +614,30 @@ how-to-enter: >-
 ---
 ### Description
 
-<p><strong>Fourteen (14) participants that have been selected for invitation to provide a virtual presentation of their submitted white paper concept to the Lithium Battery Man Portable Hazard Containment Prize Challenge judging panel.  Participant names are listed below in alphabetical order.</strong></p>
-<ol>
-  <li>ADA Technologies, Inc.</li>
-  <li>Americase, LLC</li>
-  <li>Cornerstone Research Group, Inc.</li>
-  <li>Energy Storage Safety Products International, LLC</li>
-  <li>Fire Containment Concepts</li>
-  <li>KULR Technology Corp.</li>
-  <li>Mistral, Inc.</li>
-  <li>Proycon Alpha Squared, Inc.</li>
-  <li>Purdue University</li>
-  <li>Scimitar Technologies</li>
-  <li>StatDiagnostics</li>
-  <li>Texas Research Institute - Austin</li>
-  <li>ViPER (Purdue University)</li>
-  <li>Zarges Inc.</li>
- </ol>
+**Five (5) participants have been selected to participate in Phase II of the Lithium Battery Man Portable Hazard Containment Prize Challenge. Participant names are listed below in alphabetical order:**
+
+1. Americase, LLC
+2. Fire Containment Concepts
+3. Mistral, Inc.
+4. Texas Research Institute – Austin
+5. Zarges Inc.
+
+Earlier, fourteen (14) participants were invited to provide a virtual presentation of their submitted white paper concept to the Lithium Battery Man Portable Hazard Containment Prize Challenge judging panel. Invited participant names are listed below in alphabetical order:
+
+1. ADA Technologies, Inc.
+2. Americase, LLC
+3. Cornerstone Research Group, Inc.
+4. Energy Storage Safety Products International, LLC
+5. Fire Containment Concepts
+6. KULR Technology Corp.
+7. Mistral, Inc.
+8. Proycon Alpha Squared, Inc.
+9. Purdue University
+10. Scimitar Technologies
+11. StatDiagnostics
+12. Texas Research Institute - Austin
+13. ViPER (Purdue University)
+14. Zarges Inc.
 
 Lithium batteries’ benefits of increased capabilities at a reduced weight outweigh their inherent risks in many industrial, commercial and some military applications. However, these benefits do not outweigh the inherent risk of transporting the batteries. For example, most commercial passenger airlines do not allow lithium batteries to be packed inside checked luggage due to the inherent fire hazard in a cargo hold, which represents an unacceptable risk. Likewise, military (and other users) transportation of lithium batteries represents risks that are also sometimes unacceptable. A solution that develops a containment system to carry batteries that suitably mitigates the inherent hazards is desired to allow more applications, commercial and military, to benefit from the use of rechargeable (called “secondary”) and non-rechargeable (called “primary”) lithium batteries.
 
