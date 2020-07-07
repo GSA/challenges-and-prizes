@@ -18,7 +18,7 @@ total-prize-offered-cash: $7,000
 type-of-challenge:
   - Technology demonstration and hardware
 submission-start: 2020/07/06 9:00 AM
-submission-end: "8/17/2020 11:59 PM "
+submission-end: "2020/08/17 11:59 PM "
 fiscal-year: FY20
 legal-authority: Procurement Authority
 challenge-manager: Robert Howard
