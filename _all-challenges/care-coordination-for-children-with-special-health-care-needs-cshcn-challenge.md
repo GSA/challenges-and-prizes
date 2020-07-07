@@ -84,16 +84,16 @@ prize-description-0: "<p>Phase 1: Design 7-10 winners Up to $10,000 will be awar
   be demonstrated. Mentors will be available to provide feedback on testing methodologies
   and to provide more information about the evidence base. Phase 3: Scaling 1
   winner Up to $150,000 will be awarded. Submission Period: Spring 2019 &ndash;
-  Fall 2019 In the final phase, winners of Phase 2 will test their proposed interventions
+  November 27, 2020 In the final phase, winners of Phase 2 will test their proposed interventions
   on a larger scale. Applicants are encouraged to work closely with a community
   or city to facilitate scaling the intervention in order to reach more families.
   This will show: Scalability of the intervention at low cost Feasibility of implementation
   Impact on the intended outcomes.</p>"
-prize-cash-amount-0: '375000'
-prize-name-0: Prizes
+prize-cash-amount-0: '375,000'
+prize-name-0: Total Prizes
 prize-description-1: ''
-prize-cash-amount-1: ''
-prize-name-1: ''
+prize-cash-amount-1: '100,00'
+prize-name-1: 'Phase 1 (8/30/2018 – 10/30/2018)'
 prize-cash-amount-10: ''
 prize-name-10: ''
 prize-description-10: ''
@@ -122,11 +122,12 @@ prize-cash-amount-18: ''
 prize-name-18: ''
 prize-description-18: ''
 prize-description-2: ''
-prize-name-2: ''
-prize-cash-amount-2: ''
+prize-name-2: 'Phase 2 (1/28/2019 – 8/26/2019)'
+prize-cash-amount-2: '150,000'
 prize-description-3: ''
-prize-name-3: ''
-prize-cash-amount-3: ''
+prize-name-3: '
+Phase 3 (12/2/2019 – 11/27/2020)'
+prize-cash-amount-3: '125,000'
 prize-cash-amount-4: ''
 prize-name-4: ''
 prize-description-4: ''

@@ -12,7 +12,7 @@ agency: Department of Commerce - National Institute of Standards and Technology
 partner-agencies-federal: First Responder Network Authority
 partners-non-federal: Magic Leap; FirstNet, Built with AT&T; MSA Safety; Blueforce Development Corporation
 external-url:
-total-prize-offered-cash: $1.1 million
+total-prize-offered-cash: $1,100,000
 type-of-challenge: Technology demonstration and hardware; Analytics, visualizations, algorithms
 submission-start: 2020/03/11 01:00 PM
 submission-end: 2020/11/18 05:00 PM
@@ -141,8 +141,8 @@ prizes: <p><strong>Total Cash Prize Pool</strong></p>
     <p>Winning contestants will receive additional prizes and technical mentorship opportunities with key challenge partners from Magic Leap, First Responder Network Authority, FirstNet built with AT&amp;T, MSA Safety and Blueforce Development.</p>
     <p>To learn more about the prizes in each contest, please go to the AR or IoT prize page:</p>
     <ul>
-    <li><a href="https://www.chariotchallenge.com/ar-awards/">AR Prizes Information</a></li>
-    <li><a href="https://www.chariotchallenge.com/iot-awards/">IoT Prizes Information</a></li>
+    <li><a href="https://www.chariotchallenge.com/ar-awards/" target="_blank" rel="noopener">AR Prizes Information</a></li>
+    <li><a href="https://www.chariotchallenge.com/iot-awards/" target="_blank" rel="noopener">IoT Prizes Information</a></li>
     </ul>
 rules: <p>General Submission Rules:</p>
     <ul>
@@ -158,9 +158,9 @@ rules: <p>General Submission Rules:</p>
     <li>IF NIST, in its discretion, finds any submission to be unacceptable, then such submission shall be deemed disqualified</li>
     </ul>
     <p>Any applicable intellectual property rights to a submission will remain with the contestant. By participating in the prize challenge, the contestant is not granting any rights in any patents, pending patent applications, or copyrights related to the technology described in the entry.</p>
-    <p>Download the <a href="{{ site.baseurl }}/assets/document-library/CHARIoT Challenge_NISTPSCR_OfficialRules.pdf"> Official Rules</a>.</p>
+    <p>Download the <a href="{{ site.baseurl }}/assets/document-library/Revised_CHARIoT_Challenge_NISTPSCR_OfficialRules.pdf"> Official Rules</a>.</p>
     <p><strong>Terms and Conditions</strong></p>
-    <p>For a complete list of eligibility requirements and the terms and conditions, please see the <a href="{{ site.baseurl }}/assets/document-library/CHARIoT Challenge_NISTPSCR_OfficialRules.pdf"> Official Rules</a>.</p>
+    <p>For a complete list of eligibility requirements and the terms and conditions, please see the <a href="{{ site.baseurl }}/assets/document-library/Revised_CHARIoT_Challenge_NISTPSCR_OfficialRules.pdf"> Official Rules</a>.</p>
     <ul>
     <li><strong>The official representative</strong> (whether an individual, team, or legal entity) must be 18 or older and a U.S. citizen or permanent resident of the United States or its territories</li>
     <li>In the case of a <strong>private entity</strong>, the business shall be incorporated in and maintain a place of business in the United States or its territories</li>
@@ -175,27 +175,27 @@ rules: <p>General Submission Rules:</p>
     </ul>
 judging: <p><u>Emulate Smart City Data for Disaster Scenarios</u></p>
     <ul>
-    <li>Phase 1:&nbsp; The concept papers and videos will be judged based on approach, strength of concept, methodology for data acquisition, proposed hardware, transmission capabilities, and write up. More information on concept paper content requirements and evaluation criterions can be found <a href="https://www.chariotchallenge.com/iot-judging-criteria/">here</a><u>.</u></li>
-    <li>Phase 2:&nbsp; The Pass/Fail evaluation will be based on the contestants&rsquo; ability to demonstrate the transmission of data streams for at least 2 of the 4 emergency scenarios. More information on the phase 2 pass/fail evaluation criteria can be found <a href="https://www.chariotchallenge.com/iot-judging-criteria/">here</a><u>.</u></li>
-    <li>Phase 3:&nbsp; The contestants will be judged based on accuracy of data transmitted, implementation of network protocols, and implementation of data types. More information on Phase 3 judging criteria can be found <a href="https://www.chariotchallenge.com/iot-judging-criteria/">here</a><u>.</u></li>
-    <li>Phase 4:&nbsp; At the live competition, the IoT data contestants will receive scores based on the number of Augmented Reality developers that elect to use their data streams and their corresponding feedback, and their transmitters and data will be tested and evaluated by the subject matter experts and the Judging panel. More information on Phase 4 evaluation criteria can be found <a href="https://www.chariotchallenge.com/iot-judging-criteria/">here</a><u>.</u></li>
+    <li>Phase 1:&nbsp; The concept papers and videos will be judged based on approach, strength of concept, methodology for data acquisition, proposed hardware, transmission capabilities, and write up. More information on concept paper content requirements and evaluation criterions can be found <a href="https://www.chariotchallenge.com/iot-judging-criteria/" target="_blank" rel="noopener">here</a><u>.</u></li>
+    <li>Phase 2:&nbsp; The Pass/Fail evaluation will be based on the contestants&rsquo; ability to demonstrate the transmission of data streams for at least 2 of the 4 emergency scenarios. More information on the phase 2 pass/fail evaluation criteria can be found <a href="https://www.chariotchallenge.com/iot-judging-criteria/" target="_blank" rel="noopener">here</a><u>.</u></li>
+    <li>Phase 3:&nbsp; The contestants will be judged based on accuracy of data transmitted, implementation of network protocols, and implementation of data types. More information on Phase 3 judging criteria can be found <a href="https://www.chariotchallenge.com/iot-judging-criteria/" target="_blank" rel="noopener">here</a><u>.</u></li>
+    <li>Phase 4:&nbsp; At the live competition, the IoT data contestants will receive scores based on the number of Augmented Reality developers that elect to use their data streams and their corresponding feedback, and their transmitters and data will be tested and evaluated by the subject matter experts and the Judging panel. More information on Phase 4 evaluation criteria can be found <a href="https://www.chariotchallenge.com/iot-judging-criteria/" target="_blank" rel="noopener">here</a><u>.</u></li>
     </ul>
     <p><u>Building Augmented Reality Interfaces for First Responders</u></p>
     <ul>
-    <li>Phase 1:&nbsp; The concept papers and videos will be judged based on approach, strength of concept, augmented reality capabilities, collaboration with first responder, and write up. More information on concept paper content requirements and evaluation criterions can be found <a href="https://www.chariotchallenge.com/ar-judging-criteria-page/">here</a>.</li>
-    <li>Phase 2:&nbsp; Contestants will be required to demonstrate a developed or enhanced augmented reality prototype and the public safety use case. More information on the phase 2 evaluation criteria can be found <a href="https://www.chariotchallenge.com/ar-judging-criteria-page/">here</a>.</li>
-    <li>Phase 3:&nbsp; The contestants will be tested and evaluated based on augmented reality heads-up display and holograms. More information on Phase 3 judging criteria can be found <a href="https://www.chariotchallenge.com/ar-judging-criteria-page/">here</a>.</li>
-    <li>Phase 4:&nbsp; The Judging panel will utilize the contestants&rsquo; augmented reality interfaces to complete multiple first responder tasks across the four simulated emergency scenarios. Contestants&rsquo; interfaces will be tested and evaluated by the subject matter experts and the Judging panel. More information on Phase 4 evaluation criteria can be found <a href="https://www.chariotchallenge.com/ar-judging-criteria-page/">here</a>.</li>
+    <li>Phase 1:&nbsp; The concept papers and videos will be judged based on approach, strength of concept, augmented reality capabilities, collaboration with first responder, and write up. More information on concept paper content requirements and evaluation criterions can be found <a href="https://www.chariotchallenge.com/ar-judging-criteria-page/" target="_blank" rel="noopener">here</a>.</li>
+    <li>Phase 2:&nbsp; Contestants will be required to demonstrate a developed or enhanced augmented reality prototype and the public safety use case. More information on the phase 2 evaluation criteria can be found <a href="https://www.chariotchallenge.com/ar-judging-criteria-page/" target="_blank" rel="noopener">here</a>.</li>
+    <li>Phase 3:&nbsp; The contestants will be tested and evaluated based on augmented reality heads-up display and holograms. More information on Phase 3 judging criteria can be found <a href="https://www.chariotchallenge.com/ar-judging-criteria-page/" target="_blank" rel="noopener">here</a>.</li>
+    <li>Phase 4:&nbsp; The Judging panel will utilize the contestants&rsquo; augmented reality interfaces to complete multiple first responder tasks across the four simulated emergency scenarios. Contestants&rsquo; interfaces will be tested and evaluated by the subject matter experts and the Judging panel. More information on Phase 4 evaluation criteria can be found <a href="https://www.chariotchallenge.com/ar-judging-criteria-page/" target="_blank" rel="noopener">here</a>.</li>
     </ul>
 how-to-enter: <p>To enter the CHARIoT Challenge, participants must complete three easy steps:</p>
     <ol>
-    <li><strong>Get Smart &amp; Register Your Team:</strong> Read about the challenge phases, problem, emergency scenarios, submission requirements, and eligibility terms to participate in this prize challenge. Complete the registration form to set up your participant profile. Register your team <a href="https://www.chariotchallenge.com/register/">here</a>.</li>
+    <li><strong>Get Smart &amp; Register Your Team:</strong> Read about the challenge phases, problem, emergency scenarios, submission requirements, and eligibility terms to participate in this prize challenge. Complete the registration form to set up your participant profile. Register your team <a href="https://www.chariotchallenge.com/register/" target="_blank" rel="noopener">here</a>.</li>
     <li><strong>Develop your Concept:</strong> Depending on your area of expertise, learn about the Stage 1 submission requirements for the AR submission or IoT submission then build your idea!</li>
-    <li><strong>Submit your Entry:</strong> Log-in and complete your <a href="https://www.chariotchallenge.com/login/">submission</a> on the challenge platform.</li>
+    <li><strong>Submit your Entry:</strong> Log-in and complete your <a href="https://www.chariotchallenge.com/login/" target="_blank" rel="noopener">submission</a> on the challenge platform.</li>
     </ol>
     <p>The Phase 1 Concept for Emulate Smart City Data for Disaster Scenarios is <u>due on April 23, 2020</u>.</p>
     <p>The Phase 1 Concept for Build Augmented Reality Interfaces for First Responders is <u>due on May 6, 2020</u>.</p>
-    <p><strong>Submission URL:&nbsp; </strong><a href="http://www.chariotchallenge.com">www.chariotchallenge.com</a> to launch March 11, 2020.</p>
+    <p><strong>Submission URL:&nbsp; </strong><a href="http://www.chariotchallenge.com" target="_blank" rel="noopener">www.chariotchallenge.com</a> to launch March 11, 2020.</p>
 ---
 
 <p><strong>NOTE:</strong> There are different submission deadlines for each track in Phase 1.</p>
@@ -327,8 +327,8 @@ how-to-enter: <p>To enter the CHARIoT Challenge, participants must complete thre
 <p>Winning contestants will receive additional prizes and technical mentorship opportunities with key challenge partners from Magic Leap, First Responder Network Authority, FirstNet built with AT&amp;T, MSA Safety and Blueforce Development.</p>
 <p>To learn more about the prizes in each contest, please go to the AR or IoT prize page:</p>
 <ul>
-<li><a href="https://www.chariotchallenge.com/ar-awards/">AR Prizes Information</a></li>
-<li><a href="https://www.chariotchallenge.com/iot-awards/">IoT Prizes Information</a></li>
+<li><a href="https://www.chariotchallenge.com/ar-awards/" target="_blank" rel="noopener">AR Prizes Information</a></li>
+<li><a href="https://www.chariotchallenge.com/iot-awards/" target="_blank" rel="noopener">IoT Prizes Information</a></li>
 </ul>
 
 <!-- Rules start -->
@@ -349,9 +349,9 @@ how-to-enter: <p>To enter the CHARIoT Challenge, participants must complete thre
 <li>IF NIST, in its discretion, finds any submission to be unacceptable, then such submission shall be deemed disqualified</li>
 </ul>
 <p>Any applicable intellectual property rights to a submission will remain with the contestant. By participating in the prize challenge, the contestant is not granting any rights in any patents, pending patent applications, or copyrights related to the technology described in the entry.</p>
-<p>Download the <a href="{{ site.baseurl }}/assets/document-library/CHARIoT_Challenge_NISTPSCR_OfficialRules.pdf"> Official Rules</a>.</p>
+<p>Download the <a href="{{ site.baseurl }}/assets/document-library/Revised_CHARIoT_Challenge_NISTPSCR_OfficialRules.pdf" target="_blank" rel="noopener"> Official Rules</a>.</p>
 <p><strong>Terms and Conditions</strong></p>
-<p>For a complete list of eligibility requirements and the terms and conditions, please see the <a href="{{ site.baseurl }}/assets/document-library/CHARIoT_Challenge_NISTPSCR_OfficialRules.pdf"> Official Rules</a>.</p>
+<p>For a complete list of eligibility requirements and the terms and conditions, please see the <a href="{{ site.baseurl }}/assets/document-library/Revised_CHARIoT_Challenge_NISTPSCR_OfficialRules.pdf" target="_blank" rel="noopener"> Official Rules</a>.</p>
 <ul>
 <li><strong>The official representative</strong> (whether an individual, team, or legal entity) must be 18 or older and a U.S. citizen or permanent resident of the United States or its territories</li>
 <li>In the case of a <strong>private entity</strong>, the business shall be incorporated in and maintain a place of business in the United States or its territories</li>
@@ -371,17 +371,17 @@ how-to-enter: <p>To enter the CHARIoT Challenge, participants must complete thre
 
 <p><u>Emulate Smart City Data for Disaster Scenarios</u></p>
 <ul>
-<li>Phase 1: The concept papers and videos will be judged based on approach, strength of concept, methodology for data acquisition, proposed hardware, transmission capabilities, and write up. More information on concept paper content requirements and evaluation criterions can be found <a href="https://www.chariotchallenge.com/iot-judging-criteria/">here</a><u>.</u></li>
-<li>Phase 2: The Pass/Fail evaluation will be based on the contestants&rsquo; ability to demonstrate the transmission of data streams for at least 2 of the 4 emergency scenarios. More information on the phase 2 pass/fail evaluation criteria can be found <a href="https://www.chariotchallenge.com/iot-judging-criteria/">here</a><u>.</u></li>
-<li>Phase 3: The contestants will be judged based on accuracy of data transmitted, implementation of network protocols, and implementation of data types. More information on Phase 3 judging criteria can be found <a href="https://www.chariotchallenge.com/iot-judging-criteria/">here</a><u>.</u></li>
-<li>Phase 4: At the live competition, the IoT data contestants will receive scores based on the number of Augmented Reality developers that elect to use their data streams and their corresponding feedback, and their transmitters and data will be tested and evaluated by the subject matter experts and the Judging panel. More information on Phase 4 evaluation criteria can be found <a href="https://www.chariotchallenge.com/iot-judging-criteria/">here</a><u>.</u></li>
+<li>Phase 1: The concept papers and videos will be judged based on approach, strength of concept, methodology for data acquisition, proposed hardware, transmission capabilities, and write up. More information on concept paper content requirements and evaluation criterions can be found <a href="https://www.chariotchallenge.com/iot-judging-criteria/" target="_blank" rel="noopener">here</a><u>.</u></li>
+<li>Phase 2: The Pass/Fail evaluation will be based on the contestants&rsquo; ability to demonstrate the transmission of data streams for at least 2 of the 4 emergency scenarios. More information on the phase 2 pass/fail evaluation criteria can be found <a href="https://www.chariotchallenge.com/iot-judging-criteria/" target="_blank" rel="noopener">here</a><u>.</u></li>
+<li>Phase 3: The contestants will be judged based on accuracy of data transmitted, implementation of network protocols, and implementation of data types. More information on Phase 3 judging criteria can be found <a href="https://www.chariotchallenge.com/iot-judging-criteria/" target="_blank" rel="noopener">here</a><u>.</u></li>
+<li>Phase 4: At the live competition, the IoT data contestants will receive scores based on the number of Augmented Reality developers that elect to use their data streams and their corresponding feedback, and their transmitters and data will be tested and evaluated by the subject matter experts and the Judging panel. More information on Phase 4 evaluation criteria can be found <a href="https://www.chariotchallenge.com/iot-judging-criteria/" target="_blank" rel="noopener">here</a><u>.</u></li>
 </ul>
 <p><u>Building Augmented Reality Interfaces for First Responders</u></p>
 <ul>
-<li>Phase 1: The concept papers and videos will be judged based on approach, strength of concept, augmented reality capabilities, collaboration with first responder, and write up. More information on concept paper content requirements and evaluation criterions can be found <a href="https://www.chariotchallenge.com/ar-judging-criteria-page/">here</a>.</li>
-<li>Phase 2: Contestants will be required to demonstrate a developed or enhanced augmented reality prototype and the public safety use case. More information on the phase 2 evaluation criteria can be found <a href="https://www.chariotchallenge.com/ar-judging-criteria-page/">here</a>.</li>
-<li>Phase 3: The contestants will be tested and evaluated based on augmented reality heads-up display and holograms. More information on Phase 3 judging criteria can be found <a href="https://www.chariotchallenge.com/ar-judging-criteria-page/">here</a>.</li>
-<li>Phase 4: The Judging panel will utilize the contestants&rsquo; augmented reality interfaces to complete multiple first responder tasks across the four simulated emergency scenarios. Contestants&rsquo; interfaces will be tested and evaluated by the subject matter experts and the Judging panel. More information on Phase 4 evaluation criteria can be found <a href="https://www.chariotchallenge.com/ar-judging-criteria-page/">here</a>.</li>
+<li>Phase 1: The concept papers and videos will be judged based on approach, strength of concept, augmented reality capabilities, collaboration with first responder, and write up. More information on concept paper content requirements and evaluation criterions can be found <a href="https://www.chariotchallenge.com/ar-judging-criteria-page/" target="_blank" rel="noopener">here</a>.</li>
+<li>Phase 2: Contestants will be required to demonstrate a developed or enhanced augmented reality prototype and the public safety use case. More information on the phase 2 evaluation criteria can be found <a href="https://www.chariotchallenge.com/ar-judging-criteria-page/" target="_blank" rel="noopener">here</a>.</li>
+<li>Phase 3: The contestants will be tested and evaluated based on augmented reality heads-up display and holograms. More information on Phase 3 judging criteria can be found <a href="https://www.chariotchallenge.com/ar-judging-criteria-page/" target="_blank" rel="noopener">here</a>.</li>
+<li>Phase 4: The Judging panel will utilize the contestants&rsquo; augmented reality interfaces to complete multiple first responder tasks across the four simulated emergency scenarios. Contestants&rsquo; interfaces will be tested and evaluated by the subject matter experts and the Judging panel. More information on Phase 4 evaluation criteria can be found <a href="https://www.chariotchallenge.com/ar-judging-criteria-page/" target="_blank" rel="noopener">here</a>.</li>
 </ul>
 
 <!--  How To Enter start -->
@@ -390,10 +390,10 @@ how-to-enter: <p>To enter the CHARIoT Challenge, participants must complete thre
 
 <p>To enter the CHARIoT Challenge, participants must complete three easy steps:</p>
 <ol>
-<li><strong>Get Smart &amp; Register Your Team:</strong> Read about the challenge phases, problem, emergency scenarios, submission requirements, and eligibility terms to participate in this prize challenge. Complete the registration form to set up your participant profile. Register your team <a href="https://www.chariotchallenge.com/register/">here</a>.</li>
+<li><strong>Get Smart &amp; Register Your Team:</strong> Read about the challenge phases, problem, emergency scenarios, submission requirements, and eligibility terms to participate in this prize challenge. Complete the registration form to set up your participant profile. Register your team <a href="https://www.chariotchallenge.com/register/" target="_blank" rel="noopener">here</a>.</li>
 <li><strong>Develop your Concept:</strong> Depending on your area of expertise, learn about the Stage 1 submission requirements for the AR submission or IoT submission then build your idea!</li>
-<li><strong>Submit your Entry:</strong> Log-in and complete your <a href="https://www.chariotchallenge.com/login/">submission</a> on the challenge platform.</li>
+<li><strong>Submit your Entry:</strong> Log-in and complete your <a href="https://www.chariotchallenge.com/login/" target="_blank" rel="noopener">submission</a> on the challenge platform.</li>
 </ol>
 <p>The Phase 1 Concept for Emulate Smart City Data for Disaster Scenarios is <u>due on May 6, 2020</u>.</p>
 <p>The Phase 1 Concept for Build Augmented Reality Interfaces for First Responders is <u>due on May 6, 2020</u>.</p>
-<p><strong>Submission URL: </strong><a href="http://www.chariotchallenge.com">www.chariotchallenge.com</a> launched March 11, 2020.</p>
+<p><strong>Submission URL: </strong><a href="http://www.chariotchallenge.com" target="_blank" rel="noopener">www.chariotchallenge.com</a> launched March 11, 2020.</p>

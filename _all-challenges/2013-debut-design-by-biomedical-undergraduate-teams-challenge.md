@@ -24,7 +24,7 @@ submission-start: 01/28/2013 05:00 AM
 fiscal-year: FY13
 public-voting-end-date: ''
 budget-and-resources: ''
-total-prize-offered-cash: '$30000'
+total-prize-offered-cash: '$30,000'
 campaign-owner: ''
 public-voting-start-date: ''
 legal-authority: America COMPETES

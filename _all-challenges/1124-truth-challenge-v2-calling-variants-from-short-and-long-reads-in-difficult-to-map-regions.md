@@ -6,7 +6,7 @@ challenge-title: Truth Challenge V2 - Calling Variants from Short and Long Reads
 layout: front-matter-data-markdownify-content
 permalink: /challenge/truth-challenge-v2/
 challenge-id: "1124"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/precisionfda.png
 agency-logo: /assets/netlify-uploads/FDA_blue_logo.png
@@ -18,8 +18,8 @@ partner-agencies-federal: ""
 external-url: https://go.usa.gov/xvQtW
 type-of-challenge:
   - Scientific
-submission-start: 2020/05/01 05:00 PM
-submission-end: 2020/06/14 11:59 PM
+submission-start: 05/01/2020 05:00 PM
+submission-end: 06/14/2020 11:59 PM
 fiscal-year: FY20
 legal-authority: America COMPETES Act
 challenge-manager: Elaine Johanson

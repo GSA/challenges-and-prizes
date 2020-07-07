@@ -2,7 +2,7 @@
 layout: front-matter-data
 permalink: /challenge/NIH-technology-accelerator-challenge-noninvasive-diagnostics-for-global-health/
 challenge-id: 1105
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/NIH_TAC_Lockup-color-340x160.jpg
 agency-logo: NIH-Generic.png
@@ -14,8 +14,8 @@ partners-non-federal: The Bill and Melinda Gates Foundation
 external-url: https://venturewell.org/ntac/
 total-prize-offered-cash: $1,000,000
 type-of-challenge: Scientific
-submission-start: 2020/03/02 10 a.m.
-submission-end: 2020/06/16 5 p.m.
+submission-start: 03/02/2020 10 a.m.
+submission-end: 06/16/2020 5 p.m.
 submission-link: https://venturewell.org/ntac/
 prizes: true
 fiscal-year: FY20

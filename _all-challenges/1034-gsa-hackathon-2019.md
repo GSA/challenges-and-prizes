@@ -14,8 +14,10 @@ partners-non-federal:
 external-url:
 total-prize-offered-cash: $20,000
 type-of-challenge: Software and apps
-submission-start: 
+submission-start: 05/20/2019 08:00 AM
 submission-end: 06/19/2019 05:00 PM
+challenge-manager: Jasmine King
+challenge-manager-email: jasmine.king@gsa.gov
 submission-link: https://digital.gov/event/2019/06/19/gsa-customer-experience-cx-hackathon/
 prize: true
 description: <p>The General Services Administration (GSA) is holding a coast-to-coast hackathon on Wednesday, June 19, 2019, aimed at bettering the customer experience of products in government.</p>
