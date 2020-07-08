@@ -118,7 +118,7 @@ description: >-
 
   * Informational Webinar will be held on July 9, 2020.
 
-  * Registration email to register for the competition are due July 15, 2020
+  * Registration email to register for the competition are due ideally by July 15, 2020 and no later than September 8, 2020.
 
   * Submissions for Phase 1 are due September 8, 2020.
 
@@ -267,7 +267,7 @@ how-to-enter: >-
   #### Registration for this Challenge:
 
 
-  Beginning June 23, 2020 at 7:15 AM EDT, the identified Official Representative (individual, team, or legal entity) may register for this Challenge by sending an email to MENTALHealthChallenge@acl.hhs.gov with the subject line stating ‘MENTAL Health Challenge Registration’.  In this email you must identify only one Official Representative for each Challenge registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the Solver (individual, team, or legal entity), that he or she has read and consents to be governed by the Challenge Rules. Registration for this Challenge is due by July 15, 2020 at 11:59 pm EDT.
+  Beginning June 23, 2020 at 7:15 am EDT, the identified Official Representative (individual, team, or legal entity) may register for this Challenge by sending an email to MENTALHealthChallenge@acl.hhs.gov with the subject line stating ‘MENTAL Health Challenge Registration’.  In this email you must identify only one Official Representative for each Challenge registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the Solver (individual, team, or legal entity), that he or she has read and consents to be governed by the Challenge Rules. Registration for this Challenge is due by Sept. 8, 2020 at 11:59 pm EDT.
 
 
   Questions concerning this Challenge should be sent by email to [MENTALHealthChallenge@acl.hhs.gov](mailto:MENTALHealthChallenge@acl.hhs.gov).
@@ -394,7 +394,7 @@ Phase 1: Plan and Design a Social Engagement Clearinghouse and User Interface Pr
 
 * Open June 23, 2020 through September 8, 2020.
 * Informational Webinar will be held on July 9, 2020.
-* Registration email to register for the competition are due July 15, 2020
+* Registration email to register for the competition are due ideally by July 15, 2020 and no later than September 8, 2020.
 * Submissions for Phase 1 are due September 8, 2020.
 * Judging for Phase 1 will occur from September 8, 2020 through September 29, 2020. 
 * Finalists that move into Phase 2 will be awarded by September 30, 2020.  
@@ -509,7 +509,7 @@ Applicants will be judged on the following criteria for each phase of the compet
 
 #### Registration for this Challenge:
 
-Beginning June 23, 2020 at 7:15 AM EDT, the identified Official Representative (individual, team, or legal entity) may register for this Challenge by sending an email to [MENTALHealthChallenge@acl.hhs.gov](mailto:MENTALHealthChallenge@acl.hhs.gov) with the subject line stating ‘MENTAL Health Challenge Registration’. In this email you must identify only one Official Representative for each Challenge registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the Solver (individual, team, or legal entity), that he or she has read and consents to be governed by the Challenge Rules. Registration for this Challenge is due by July 15, 2020 at 11:59 pm EDT.
+Beginning June 23, 2020 at 7:15 am EDT, the identified Official Representative (individual, team, or legal entity) may register for this Challenge by sending an email to [MENTALHealthChallenge@acl.hhs.gov](mailto:MENTALHealthChallenge@acl.hhs.gov) with the subject line stating ‘MENTAL Health Challenge Registration’. In this email you must identify only one Official Representative for each Challenge registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the Solver (individual, team, or legal entity), that he or she has read and consents to be governed by the Challenge Rules. Registration for this Challenge is due by Sept. 8, 2020 at 11:59 pm EDT.
 
 Questions concerning this Challenge should be sent by email to [MENTALHealthChallenge@acl.hhs.gov](mailto:MENTALHealthChallenge@acl.hhs.gov).
 
@@ -540,7 +540,7 @@ Submissions for Phase 1 of this Challenge are due by September 8, 2020 at 11:59 
 
 **Description:** The plan and design a social engagement clearinghouse and user interface prototype phase invites all eligible entities to submit a concept white paper outlining their technology, the potential impact for older adults, people with disabilities, racial and minority populations and Veterans that may be socially isolated, the innovative idea / concept behind how their platform could work and leverage existing efforts, and how this is informed by user needs they have identified. Each concept, wireframe, and prototype will be reviewed by a panel of judges with knowledge and expertise in technology, user design and experience. Only the first three pages (inclusive of any visual representations or graphics) of the concept description document will be reviewed along with the wireframe sketch submission and its one page description, the working prototype, and the proposed plan to pilot the prototype in Phase 2. During the Phase I review process, the concept paper, wireframe sketch, and the proposed plan to pilot the prototype in Phase 2  will be redacted for both applicant and any specific organizational partner names referenced (versus broader categories of organizational partners) and reviewed by Federal evaluators screened to avoid conflicts of interest. Judges will review all submissions for Phase 1.  A subset of the highest scoring submissions will be asked to be available September 15 through September 22, 2020 to participate in a 45 minute session to present and demo their Social Engagement Clearinghouse with user interface to the judges.  ACL will provide additional criteria throughout the various phases to further define requirement expectations.
 
-A panel of judges will review and score submissions between September 8, 2020 through September 29, 2020.  Finalists to move to Phase 2 will be notified by September 30, 2020.
+A panel of judges will review and score submissions between September 8, 2020 through September 29, 2020. Finalists to move to Phase 2 will be notified by September 30, 2020.
 
 **Phase 2: Pilot and Test Social Engagement Clearinghouse Prototype**
 
