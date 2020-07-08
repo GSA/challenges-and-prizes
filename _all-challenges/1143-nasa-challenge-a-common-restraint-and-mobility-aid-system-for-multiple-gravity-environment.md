@@ -8,7 +8,7 @@ permalink: /challenge/nasa-common-restraint-and-mobility-aid-system-for-multiple
 challenge-id: "1143"
 status: open
 sidenav: false
-card-image: /assets/netlify-uploads/issfoothold2-3.png
+card-image: /assets/netlify-uploads/issfoothold2-4.png
 agency-logo: /assets/netlify-uploads/717px-NASA_logo.png
 tagline: NASA is seeking to challenge the GrabCAD Community to design a common
   restraint and mobility aid system that works in four gravity environments.
