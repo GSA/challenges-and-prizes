@@ -55,7 +55,7 @@ collections:
     label: 'Archived Challenges'
     label_singular: 'Archived Challenge'
     folder: '_all-challenges'
-    filter: {field: layout, value: 'front-matter-data-markdownify-content'}
+    filter: {field: layout, value: 'json-page'}
     identifier_field: 'challenge-title'
     slug: '{{challenge-id}}-{{challenge-title}}'
     create: true
