@@ -13,7 +13,7 @@ collections:
     label: 'Open Challenges'
     label_singular: 'Challenge'
     folder: '_all-challenges'
-    filter: {field: status, value: 'open'}
+    filter: { field: layout, value: 'front-matter-data-markdownify-content' }
     identifier_field: 'challenge-title'
     slug: '{{challenge-id}}-{{challenge-title}}'
     create: true
