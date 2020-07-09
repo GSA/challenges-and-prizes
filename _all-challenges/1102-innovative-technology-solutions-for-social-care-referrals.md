@@ -229,7 +229,7 @@ rules: <p>To be eligible to win a prize under this challenge, an individual or
   worthy.</p>
 judging: >-
   <p><strong>Judging Panel</strong></p> <p>The Judging Panel will be composed of
-  federal and/or other technical and subject matter experts.</p> \
+  federal and/or other technical and subject matter experts.</p> 
 
   <p><strong>Judging Criteria</strong></p>
 
@@ -247,7 +247,7 @@ judging: >-
 
   </ul>
 
-  <li>Partnerships & Collaboration
+  <li>Partnerships & Collaboration</li>
 
   <ul>
 
@@ -265,7 +265,7 @@ judging: >-
 
   <li>Inclusive of the Gravity Project identified terminology (LOINC, SNOMED-CT, and ICD-10) and technical standards (HL7 FHIR) to represent and exchange SDOH data</li>
 
-  <li>Developed and supported open Application Programming Interfaces (APIs) for existing community resource directories</li>\
+  <li>Developed and supported open Application Programming Interfaces (APIs) for existing community resource directories</li>
 
   </ul>
 
@@ -295,7 +295,9 @@ judging: >-
 
   </ul>
 
-  </ol>
+  </ol>\
+
+  </ul>
 how-to-enter: >-
   <p><strong>Phase 1 Submission Requirements</strong></p>
 
@@ -321,10 +323,10 @@ how-to-enter: >-
 
   <ol>
 
-  <li><strongCover Page: </strong>Include team lead contact information (full name, email, phone.)</li>
+  <li><strong>Cover Page: </strong>Include team lead contact information (full name, email, phone.)</li>
 
 
-  <li><strong>Abstract</strong>Brief abstract describing the proposed solution and how the idea and concept design supports the problem presented in this Challenge.</li>
+  <li><strong>Abstract: </strong>Brief abstract describing the proposed solution and how the idea and concept design supports the problem presented in this Challenge.</li>
 
 
   <li><strong>Project Narrative</strong></li>
@@ -350,6 +352,8 @@ how-to-enter: >-
   <li>Use Case(s) that describe an example of how the proposed solution will enable referral solutions that will be implemented at the community and/or state level.</li> 
 
   <li>Technical architecture and workflow diagram(s) that clearly articulate how the proposed solution addresses interoperability, closed-loop referral processes, the exchange of data, and access to resource directories.</li>
+
+  </ul>\
 
   </ol>
 
@@ -460,7 +464,7 @@ submission-link: null
 <li>Proposal bridges the gaps between community members and products, services, and information</li>
 <li>Forward-thinking solution that leverages upcoming and future technology trends including existing and developing content, e-referral, exchange and access standards</li>
 </ul>
-<li>Partnerships & Collaboration
+<li>Partnerships & Collaboration</li>
 <ul>
 <li>Strength of the team that is inclusive of key stakeholders. Key investors include health IT developers, health care providers, health plans, state and local agencies that lead the aging and disability networks, and others with relevant technical expertise in data standards, architecture, and/or data analysis</li>
 <li>Inclusion of co-leadership roles from state and/or community leaders and health care organizations</li>
@@ -469,7 +473,7 @@ submission-link: null
 <ul>
 <li>Solution identifies nationally recognized or emerging health IT standards for bi-directional e-referral messages and community resource directories for use cases as applicable. Proposed solutions shall consider the desirable future state of interoperability for the proposed use cases(s), but recognize the need to interoperate with legacy health IT systems and home and community-based IT systems.</li> 
 <li>Inclusive of the Gravity Project identified terminology (LOINC, SNOMED-CT, and ICD-10) and technical standards (HL7 FHIR) to represent and exchange SDOH data</li>
-<li>Developed and supported open Application Programming Interfaces (APIs) for existing community resource directories</li>\
+<li>Developed and supported open Application Programming Interfaces (APIs) for existing community resource directories</li>
 </ul>
 <li>Product Functionality and Usability</li>
 <ul>
@@ -496,34 +500,31 @@ submission-link: null
 <ul>
 <li>Entries must be in Adobe Acrobat® PDF format with font size no smaller than 11-point Arial and no more than 10 pages, not including the cover page, appendixes, or diagrams of the design.</li> 
 <li>All submissions must be in English using simple, straightforward and concise language.</li> 
-<li>Solvers must not use HHS, ACL, or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement.
-</li>
+<li>Solvers must not use HHS, ACL, or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement.</li>
 <li>ACL will collect submissions to this Challenge via email. The team lead for each participant team must email their submissions to ami.patel@acl.hhs.gov by Friday, December 14, 2020 by 11:59 PM EST.</li>
 <ul>  
-<li>Subject line of email submissions must be “Social Care Referrals Challenge Phase 1 Proposal” 
-</li>
+<li>Subject line of email submissions must be “Social Care Referrals Challenge Phase 1 Proposal”</li>
 <li>One single application package attachment in Adobe Acrobat® PDF format with the following content:</li>
 <ol>
-<li><strongCover Page: </strong>Include team lead contact information (full name, email, phone.)
+<li><strong>Cover Page: </strong>Include team lead contact information (full name, email, phone.)
 </li>
 
-<li><strong>Abstract</strong>Brief abstract describing the proposed solution and how the idea and concept design supports the problem presented in this Challenge.</li>
+<li><strong>Abstract: </strong>Brief abstract describing the proposed solution and how the idea and concept design supports the problem presented in this Challenge.</li>
 
 <li><strong>Project Narrative</strong></li>
 <ul>
-<li>A detailed overview of the design and concept of the proposed solution, how it addresses the problem(s) described in this Challenge, and how the potential solution brings value to the team of key stakeholders. 
-<li>Describe existing methods or technologies that were used, combined, or built upon to design the proposed technology solution. Include the new or creative aspects of technologies used and how the design and concept addresses each component of the judging criteria described in this Challenge.
+<li>A detailed overview of the design and concept of the proposed solution, how it addresses the problem(s) described in this Challenge, and how the potential solution brings value to the team of key stakeholders.</li> 
+<li>Describe existing methods or technologies that were used, combined, or built upon to design the proposed technology solution. Include the new or creative aspects of technologies used and how the design and concept addresses each component of the judging criteria described in this Challenge.</li>
 <li>Describe the potential and likelihood for a successful demonstration and implementation if the proposed solution is selected for proceeding phases of the Challenge.</li>
 </ul>
 
-<li><strong>Team Member Roles: 
-</strong>For each individual, include a brief biographical sketch of relevant experience and expertise and their present affiliation (institution/organization/company) and include their role and contribution to the team’s solution.
-</li>
+<li><strong>Team Member Roles: </strong>For each individual, include a brief biographical sketch of relevant experience and expertise and their present affiliation (institution/organization/company) and include their role and contribution to the team’s solution.</li>
 
 <li><strong>Appendixes</strong></li>
 <ul>
 <li>Use Case(s) that describe an example of how the proposed solution will enable referral solutions that will be implemented at the community and/or state level.</li> 
 <li>Technical architecture and workflow diagram(s) that clearly articulate how the proposed solution addresses interoperability, closed-loop referral processes, the exchange of data, and access to resource directories.</li>
+</ul>
 </ol>
 </ul>
 </ul>
