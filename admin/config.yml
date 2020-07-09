@@ -106,19 +106,14 @@ collections:
           - { label: 'Permalink', name: 'permalink', widget: 'string' }
           - { label: 'Page Title', name: 'title', widget: 'string'}
           - { label: 'Page Content', name: 'body', widget: 'markdown'}
-  - label: 'Toolkit Pages'
-    name: 'toolkit-pages'
-    files:
       - label: 'Resources Page'
         name: 'resources'
-        file: 'pages/toolkit/resources.html'
+        file: 'pages/toolkit/resources.md'
         fields: 
           - { label: 'Layout', name: 'layout', widget: 'string'}
           - { label: 'Permalink', name: 'permalink', widget: 'string' }
           - { label: 'Page Title', name: 'title', widget: 'string'}
           - { label: 'Page Content', name: 'body', widget: 'markdown'}
-
-
      
       
 
