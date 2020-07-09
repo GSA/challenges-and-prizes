@@ -154,7 +154,8 @@ collections:
       - { label: 'Image Alt Text', name: 'image_alt_text', widget: 'string', required: false }
       - { label: 'Post Body Content Uploads', name: 'post-body-content-uploads', widget: 'file', required: false }
       - { label: 'Post Content', name: 'body', widget: 'markdown' }
-  - label: 'Pages'
+
+  - label: 'Misc Pages'
     name: 'pages'
     files:
       - label: 'About Page'
@@ -189,8 +190,9 @@ collections:
           - { label: 'Permalink', name: 'permalink', widget: 'string' }
           - { label: 'Page Title', name: 'title', widget: 'string'}
           - { label: 'Page Content', name: 'body', widget: 'markdown'}
+
     - label: 'Toolkit Pages'
-      name: 'toolkit-pages'
+      name: 'toolkit'
       files:
         - label: 'Resources Page'
           name: 'resources'
