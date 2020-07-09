@@ -7,18 +7,18 @@ challenge-id: "1144"
 status: open
 sidenav: true
 card-image: /assets/netlify-uploads/guardians_340-image-w-logos.png
-agency-logo: /assets/netlify-uploads/US-DOI-BureauOfReclamation-Seal.png
+agency-logo: /assets/netlify-uploads/usbr.jpg
 tagline: Help sustain America’s reservoirs. We’re looking for ways to remove
   sedimentation that regularly accumulates in reservoirs.
 agency: Department of the Interior - Bureau of Reclamation
-partner-agencies-federal: NASA Tournament Lab, U.S Army Corps of Engineers
+partner-agencies-federal: NASA Tournament Lab, U.S. Army Corps of Engineers
 partners-non-federal: HeroX
 external-url: ""
 total-prize-offered-cash: $550,000
 type-of-challenge:
   - Technology demonstration and hardware
-submission-start: 2020/07/14 1:00 PM
-submission-end: 2020/10/21 6:00 PM
+submission-start: 2020/07/14 12:00 PM
+submission-end: 2020/10/21 5:00 PM
 fiscal-year: FY20, FY21, FY22
 legal-authority: Procurement Authority
 challenge-manager: Jennnifer Beardsley
