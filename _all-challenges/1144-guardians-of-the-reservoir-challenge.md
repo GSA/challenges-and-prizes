@@ -13,7 +13,7 @@ tagline: Help sustain America’s reservoirs. We’re looking for ways to remove
 agency: Department of the Interior - Bureau of Reclamation
 partner-agencies-federal: NASA Tournament Lab, U.S Army Corps of Engineers
 partners-non-federal: HeroX
-external-url: https://www.herox.com/GuardiansoftheReservoir
+external-url: ""
 total-prize-offered-cash: $550,000
 type-of-challenge:
   - Technology demonstration and hardware
