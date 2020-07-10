@@ -26,19 +26,19 @@ challenge-manager-email: jbeardsley@usbr.gov
 point-of-contact: gethelp@herox.com
 description: >-
   Reclamation, in collaboration with the U.S. Army Corps of Engineers (USACE),
-  is sponsoring this three-phase Guardians of the Reservoir Challenge.  The goal
-  of this challenge is to find an innovative solution to remove or control the
-  amount of sediment building up in the reservoirs, replacing available space
-  for water storage, that provide millions with irrigation, potable water,
-  electricity, flood control, and recreation. The build-up of sediment leaves
-  less room for water, and less water means that our reservoirs eventually may
-  not be able to meet the demand of the communities we serve. Such impacts have
-  been experienced at some Reclamation reservoirs and are anticipated to occur
-  more frequently in the future.  Reclamation’s primary interest is in
-  technology that will move sediment downstream at the average annual rate at
-  which it would otherwise accumulate but approaches that can help regain lost
-  reservoir capacity are of interest if they can do so in addition to meeting
-  environmental and other performance criteria.
+  is sponsoring this three-phase Guardians of the Reservoir Challenge. The goal
+  of this challenge is to find and demonstrate innovative solutions that remove
+  or transport the amount of sediment building up in the reservoirs, replacing
+  available space for water storage, that provide critical water supplies for
+  the country. The build-up of sediment leaves less room for water, and less
+  water means that our reservoirs eventually may not be able to meet the demand
+  of the communities we serve. Such impacts have been experienced at some
+  Reclamation reservoirs and are anticipated to occur more frequently in the
+  future.  Reclamation’s primary interest is in technology that will move
+  sediment downstream at the average annual rate at which it would otherwise
+  accumulate but approaches that can help regain lost reservoir capacity are of
+  interest if they can do so in addition to meeting environmental and other
+  performance criteria.
 
 
   Learn more about the competition here: <http://www.herox.com/GuardiansoftheReservoir>.
@@ -72,7 +72,7 @@ how-to-enter: All submissions must be made online through the HeroX Guardians of
 ---
 ### Description
 
-Reclamation, in collaboration with the U.S. Army Corps of Engineers (USACE), is sponsoring this three-phase Guardians of the Reservoir Challenge.  The goal of this challenge is to find an innovative solution to remove or control the amount of sediment building up in the reservoirs, replacing available space for water storage, that provide millions with irrigation, potable water, electricity, flood control, and recreation. The build-up of sediment leaves less room for water, and less water means that our reservoirs eventually may not be able to meet the demand of the communities we serve. Such impacts have been experienced at some Reclamation reservoirs and are anticipated to occur more frequently in the future.  Reclamation’s primary interest is in technology that will move sediment downstream at the average annual rate at which it would otherwise accumulate but approaches that can help regain lost reservoir capacity are of interest if they can do so in addition to meeting environmental and other performance criteria.
+Reclamation, in collaboration with the U.S. Army Corps of Engineers (USACE), is sponsoring this three-phase Guardians of the Reservoir Challenge.  The goal of this challenge is to find and demonstrate innovative solutions that remove or transport the amount of sediment building up in the reservoirs, replacing available space for water storage, that provide critical water supplies for the country. The build-up of sediment leaves less room for water, and less water means that our reservoirs eventually may not be able to meet the demand of the communities we serve. Such impacts have been experienced at some Reclamation reservoirs and are anticipated to occur more frequently in the future.  Reclamation’s primary interest is in technology that will move sediment downstream at the average annual rate at which it would otherwise accumulate but approaches that can help regain lost reservoir capacity are of interest if they can do so in addition to meeting environmental and other performance criteria.
 
 Learn more about the competition here: <http://www.herox.com/GuardiansoftheReservoir>.
 
