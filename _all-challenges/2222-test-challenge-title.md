@@ -28,9 +28,7 @@ rules: Rules for my challenge here
 ---
 ### Description
 
-![This is my dig-gov alt text]({{ site.baseurl }}/assets/netlify-uploads/digitalgov-logo-black.png)
-
-![This is my alt text]({{ site.baseurl}}/assets/netlify-uploads/digitalgov-logo-black.png)
+![This is my dig-gov alt text]({{ site.baseurl }}/assets/netlify-uploads/digitalgov-logo-black.png "This image has a title from the uploader")
 
 Content paragraph here
 
