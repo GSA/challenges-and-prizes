@@ -24,6 +24,7 @@ legal-authority: Agency specific prize authority
 challenge-manager: Meredith Perry
 challenge-manager-email: meperry@usaid.gov
 point-of-contact: forecastingprize@usaid.gov
+body-content-uploads: /assets/netlify-uploads/intelligent-forecasting-graphic-with-gill-sans-1-.png
 description: >-
   USAID works with local health care authorities and partners to support
   voluntary family planning and reproductive health programs in nearly 40
@@ -56,7 +57,7 @@ description: >-
   * February 2021:  Grant award winners announced
 
 
-  <p><img src="{{ site.baseurl }}/assets/images/challenge-content/Intelligent-Forecasting-Graphic-with-Gill-Sans-1-.png"></p>
+  ![challenge timeline as described above in the key dates]({{site.baseurl}}/assets/netlify-uploads/intelligent-forecasting-graphic-with-gill-sans-1-.png)
 prizes: >-
   Total Cash Prize Pool: Up to $225,000
 
@@ -232,7 +233,7 @@ First, we will award up to 25,000 USD in prizes to innovators who develop an int
 * December 2020:  Concept notes due
 * February 2021:  Grant award winners announced
 
-<p><img src="{{ site.baseurl }}/assets/images/challenge-content/Intelligent-Forecasting-Graphic-with-Gill-Sans-1-.png"></p>
+![challenge timeline as described above in the key dates]({{site.baseurl}}/assets/netlify-uploads/intelligent-forecasting-graphic-with-gill-sans-1-.png)
 
 ### Prizes
 
