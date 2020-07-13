@@ -21,11 +21,16 @@ legal-authority: Procurement Authority
 challenge-manager: Stephanie Green
 challenge-manager-email: steph.green@gsa.gov
 point-of-contact: example@example.com
+body-content-uploads: /assets/netlify-uploads/digitalgov-logo-black.png
 description: Content paragraph here
 prizes: Prizes list here
 rules: Rules for my challenge here
 ---
 ### Description
+
+![This is my dig-gov alt text]({{ site.baseurl }}/assets/netlify-uploads/digitalgov-logo-black.png)
+
+![This is my alt text]({{ site.baseurl}}/assets/netlify-uploads/digitalgov-logo-black.png)
 
 Content paragraph here
 
