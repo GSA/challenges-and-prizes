@@ -6,7 +6,7 @@ permalink: /challenge/intelligent-forecasting/
 challenge-id: "1145"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/USAID_logo.png
+card-image: /assets/netlify-uploads/intelligent-forecasting-cover.jpg
 agency-logo: /assets/netlify-uploads/USAID_logo.png
 tagline: With this competition, we seek to identify and test more accurate
   methods of predicting future contraceptive use at health service delivery
@@ -208,11 +208,12 @@ rules: >-
 
   USAID is not liable for any direct or indirect loss or liability, costs, claims, taxes, charges or expenses resulting from your participation in the competition or your reliance on statements made or advice given by USAID, its partners, or contractors.
 how-to-enter: To enter, visit the challenge website at
-  **[https://innovations.smapply.io/prog/intelligent_forecasting_a_competition_to_forecast_contraceptive_demand/](**<https://innovations.smapply.io/prog/intelligent_forecasting_a_competition_to_forecast_contraceptive_demand/>**)**
+  [https://innovations.smapply.io/prog/intelligent_forecasting_a_competition_to_forecast_contraceptive_demand/](https://innovations.smapply.io/prog/intelligent_forecasting_a_competition_to_forecast_contraceptive_demand/)
 ---
 ### Description
 
 USAID works with local health care authorities and partners to support voluntary family planning and reproductive health programs in nearly 40 countries across the globe, which includes ensuring that contraceptives are available and accessible to people who need them.
+
 With this competition, we seek to identify and test more accurate methods of predicting future contraceptive use at health service delivery sites.
 
 First, we will award up to 25,000 USD in prizes to innovators who develop an intelligent forecasting model—using the data we provide and methods such as artificial intelligence (AI)—to predict the consumption of contraceptives over three months. If implemented, the model should improve the availability of contraceptives and family planning supplies at health service delivery sites throughout a nationwide healthcare system. Second, we will award a Field Implementation Grant of approximately 100,000 to 200,000 USD to customize and test a high-performing intelligent forecasting model in Côte d’Ivoire.
@@ -330,4 +331,4 @@ USAID is not liable for any direct or indirect loss or liability, costs, claims,
 
 ### How to Enter
 
-To enter, visit the challenge website at **[https://innovations.smapply.io/prog/intelligent_forecasting_a_competition_to_forecast_contraceptive_demand/](**<https://innovations.smapply.io/prog/intelligent_forecasting_a_competition_to_forecast_contraceptive_demand/>**)**
+To enter, visit the challenge website at [https://innovations.smapply.io/prog/intelligent_forecasting_a_competition_to_forecast_contraceptive_demand/](https://innovations.smapply.io/prog/intelligent_forecasting_a_competition_to_forecast_contraceptive_demand)
