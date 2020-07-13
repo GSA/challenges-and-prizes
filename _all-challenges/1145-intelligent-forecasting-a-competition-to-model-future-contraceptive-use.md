@@ -54,6 +54,9 @@ description: >-
   * December 2020:  Concept notes due
 
   * February 2021:  Grant award winners announced
+
+
+  <p><img src="{{ site.baseurl }}/assets/images/challenge-content/Intelligent-Forecasting-Graphic-with-Gill-Sans-1-.png"></p>
 prizes: >-
   Total Cash Prize Pool: Up to $225,000
 
@@ -228,6 +231,8 @@ First, we will award up to 25,000 USD in prizes to innovators who develop an int
 * October-November 2020:  Co-creation
 * December 2020:  Concept notes due
 * February 2021:  Grant award winners announced
+
+<p><img src="{{ site.baseurl }}/assets/images/challenge-content/Intelligent-Forecasting-Graphic-with-Gill-Sans-1-.png"></p>
 
 ### Prizes
 
