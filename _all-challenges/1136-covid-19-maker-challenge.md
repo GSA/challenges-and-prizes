@@ -4,7 +4,7 @@ challenge-title: COVID-19 Maker Challenge, Nursing Homes Edition
 layout: front-matter-data-markdownify-content
 permalink: /challenge/covid-19-maker-challenge-nursing-homes/
 challenge-id: "1136"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/covidmaker.png
 agency-logo: /assets/netlify-uploads/va-long-logo.png
@@ -20,8 +20,8 @@ partners-non-federal: Challenge America, America Makes, Carahsoft, Salesforce,
 external-url: ""
 type-of-challenge:
   - Technology demonstration and hardware
-submission-start: 2020/06/08 5:00 PM
-submission-end: 2020/07/10 5:00 PM
+submission-start: 06/08/2020 5:00 PM
+submission-end: 07/10/2020 5:00 PM
 fiscal-year: FY20
 legal-authority: Agency specific prize authority
 challenge-manager: Danielle Krakora
