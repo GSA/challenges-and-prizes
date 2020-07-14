@@ -31,6 +31,7 @@ description: >-
   countries across the globe, which includes ensuring that contraceptives are
   available and accessible to people who need them.
 
+
   With this competition, we seek to identify and test more accurate methods of predicting future contraceptive use at health service delivery sites.
 
 
@@ -164,7 +165,8 @@ rules: >-
   If you are entering the competition as part of a group or team, the person completing the entry form is responsible for compliance with these terms and conditions for all team members.
 
 
-  **Use of Personal Information** 
+  #### Use of Personal Information
+
 
   USAID is committed to protect the privacy of parties that enter the competition and has established processes and policies to adequately safeguard any personal information you provide.
 
@@ -183,10 +185,12 @@ rules: >-
 
   To receive updates on other USAID opportunities, events, and activities, email forecastingprize@usaid.gov.
 
+
   USAID will share your information with third parties where USAID uses their platforms, such as the Global Innovation Exchange to simplify entering the competition, receive entries, process entries, and Constant Contact, to deliver e-newsletters.
 
 
-  When this competition process has ended, USAID will retain your information for six years beyond the termination of the funding agreement supporting this competition for the purpose of fulfilling any obligations under that agreement, for program evaluation and process management purposes, and to provide information on future opportunities for similar competitions in the future. To opt out, email forecastingprize@usaid.gov.
+  When this competition process has ended, USAID will retain your information for six years beyond the termination of the funding agreement supporting this competition for the purpose of fulfilling any obligations under that agreement, for program evaluation and process management purposes, and to provide information on future opportunities for similar competitions in the future. To opt out, email [forecastingprize@usaid.gov](mailto:forecastingprize@usaid.gov).
+
 
   USAID may keep your information for up to six years for USAID to conduct statistical analysis of the data, to review, develop and improve business activities, consistent with applicable law, rule, and regulation.
 
@@ -197,7 +201,8 @@ rules: >-
   By submitting an entry, you also consents to the collection, retention, usage, and distribution of personal information for the purposes (Sections 4 and 5).
 
 
-  **Publicity**
+  #### Publicity
+
 
   USAID will not publicly publish full details of your entry. However, by submitting an entry, you give us permission to use and publicly publish your name, a summary of your entry, and photographs and recordings of your participation in the competition, which may include events, in any media and online. If you have any concerns about the publication of information about your entry, please contact us before submitting an entry. Any public statements made in relation to the competition must acknowledge USAID and be approved by USAID in advance.
 
@@ -208,7 +213,8 @@ rules: >-
   While competitors and winners of the prize awards are under no obligation to engage in further correspondence with USAID after the award of funds, USAID hopes they will continue to respond to requests for updates on the approach’s evolution, success, or learning.
 
 
-  **Limitation of Liability** 
+  #### Limitation of Liability 
+
 
   USAID is not liable for any direct or indirect loss or liability, costs, claims, taxes, charges or expenses resulting from your participation in the competition or your reliance on statements made or advice given by USAID, its partners, or contractors.
 how-to-enter: To enter, visit the challenge website at
@@ -267,7 +273,8 @@ Total Cash Prize Pool: Up to $225,000
 
 The Intelligent Forecasting Competition is being implemented by the Catalyst Project. Please read the following terms and conditions carefully before submitting an entry. By submitting an entry, you accept these terms and conditions and agree to comply with them.
 
-**Participating in the Intelligent Forecasting Competition** \
+#### Participating in the Intelligent Forecasting Competition
+
 Entries received by the relevant deadline that are compliant with this call will be assessed against the entry criteria for the competition set out in this document. USAID is not responsible for lost, late, stolen, misdirected, illegible, erroneous, or incomplete entries or other documentation due to computer, network or telecommunications failure.
 
 Employees of USAID, USAID personnel service contractors, other individuals working on the Catalyst project, Catalyst consortia members, and their immediate families, are not eligible to enter.
@@ -304,7 +311,8 @@ You will act lawfully, ethically and in good faith, comply with the rules of the
 USAID reserves the right to remove entries from the competition that do not comply with these rules or if a competing party cheats or behaves in a way which is disruptive, inappropriate, or potentially dangerous.
 If you are entering the competition as part of a group or team, the person completing the entry form is responsible for compliance with these terms and conditions for all team members.
 
-**Use of Personal Information** 
+#### Use of Personal Information
+
 USAID is committed to protect the privacy of parties that enter the competition and has established processes and policies to adequately safeguard any personal information you provide.
 
 For all entries, USAID will ask for personal information such as your contact information, including name, email address, and phone number. The personal information collected will be used to process and evaluate your entry, to contact you about the competition, and to make awards.
@@ -318,21 +326,24 @@ USAID will share your information with the judges evaluating the entries.
 To receive updates on other USAID opportunities, events, and activities, email forecastingprize@usaid.gov.
 USAID will share your information with third parties where USAID uses their platforms, such as the Global Innovation Exchange to simplify entering the competition, receive entries, process entries, and Constant Contact, to deliver e-newsletters.
 
-When this competition process has ended, USAID will retain your information for six years beyond the termination of the funding agreement supporting this competition for the purpose of fulfilling any obligations under that agreement, for program evaluation and process management purposes, and to provide information on future opportunities for similar competitions in the future. To opt out, email forecastingprize@usaid.gov.
+When this competition process has ended, USAID will retain your information for six years beyond the termination of the funding agreement supporting this competition for the purpose of fulfilling any obligations under that agreement, for program evaluation and process management purposes, and to provide information on future opportunities for similar competitions in the future. To opt out, email [forecastingprize@usaid.gov](mailto:forecastingprize@usaid.gov).
+
 USAID may keep your information for up to six years for USAID to conduct statistical analysis of the data, to review, develop and improve business activities, consistent with applicable law, rule, and regulation.
 
 For questions about this privacy notice, please email [forecastingprize@usaid.gov](mailto:forecastingprize@usaid.gov).
 
 By submitting an entry, you also consents to the collection, retention, usage, and distribution of personal information for the purposes (Sections 4 and 5).
 
-**Publicity**
+#### Publicity
+
 USAID will not publicly publish full details of your entry. However, by submitting an entry, you give us permission to use and publicly publish your name, a summary of your entry, and photographs and recordings of your participation in the competition, which may include events, in any media and online. If you have any concerns about the publication of information about your entry, please contact us before submitting an entry. Any public statements made in relation to the competition must acknowledge USAID and be approved by USAID in advance.
 
 USAID intends to celebrate the shortlisted and winning approaches online, in public health forums, and as case studies about exemplary global health supply chain management.
 
 While competitors and winners of the prize awards are under no obligation to engage in further correspondence with USAID after the award of funds, USAID hopes they will continue to respond to requests for updates on the approach’s evolution, success, or learning.
 
-**Limitation of Liability** 
+#### Limitation of Liability
+
 USAID is not liable for any direct or indirect loss or liability, costs, claims, taxes, charges or expenses resulting from your participation in the competition or your reliance on statements made or advice given by USAID, its partners, or contractors.
 
 ### How to Enter
