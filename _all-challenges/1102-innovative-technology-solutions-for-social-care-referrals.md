@@ -301,7 +301,7 @@ judging: >-
 how-to-enter: >-
   <p><strong>Phase 1 Submission Requirements</strong></p>
 
-  <p>Applications for Phase 1 of this Challenge are due by Monday, December 14, 2020 by 11:59 PM EST. The identified Official Representative (individual, team or legal entity) may apply for this Challenge by submitting an application by email to <a href="mailto:ami.patel@acl.hhs.gov">ami.patel@acl.hhs.gov</a>. The application for Phase 1 of the Challenge shall meet the following requirements:
+  <p>Applications for Phase 1 of this Challenge are due by Monday, December 14, 2020 by 11:59 PM EST. The identified Official Representative (individual, team or legal entity) may apply for this Challenge by submitting an application by email to ami.patel@acl.hhs.gov. The application for Phase 1 of the Challenge shall meet the following requirements:
 
   </p>
 
@@ -313,7 +313,7 @@ how-to-enter: >-
 
   <li>Solvers must not use HHS, ACL, or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement.</li>
 
-  <li>ACL will collect submissions to this Challenge via email. The team lead for each participant team must email their submissions to <a href="mailto:ami.patel@acl.hhs.gov">ami.patel@acl.hhs.gov</a> by Monday, December 14, 2020 by 11:59 PM EST.</li>
+  <li>ACL will collect submissions to this Challenge via email. The team lead for each participant team must email their submissions to ami.patel@acl.hhs.gov by Monday, December 14, 2020 by 11:59 PM EST.</li>
 
   <ul>  
 
@@ -495,13 +495,13 @@ submission-link: null
 ### How to Enter
 
 <p><strong>Phase 1 Submission Requirements</strong></p>
-<p>Applications for Phase 1 of this Challenge are due by Monday, December 14, 2020 by 11:59 PM EST. The identified Official Representative (individual, team or legal entity) may apply for this Challenge by submitting an application by email to <a href="mailto:ami.patel@acl.hhs.gov">ami.patel@acl.hhs.gov</a>. The application for Phase 1 of the Challenge shall meet the following requirements:
+<p>Applications for Phase 1 of this Challenge are due by Monday, December 14, 2020 by 11:59 PM EST. The identified Official Representative (individual, team or legal entity) may apply for this Challenge by submitting an application by email to ami.patel@acl.hhs.gov. The application for Phase 1 of the Challenge shall meet the following requirements:
 </p>
 <ul>
 <li>Entries must be in Adobe Acrobat® PDF format with font size no smaller than 11-point Arial and no more than 10 pages, not including the cover page, appendixes, or diagrams of the design.</li> 
 <li>All submissions must be in English using simple, straightforward and concise language.</li> 
 <li>Solvers must not use HHS, ACL, or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement.</li>
-<li>ACL will collect submissions to this Challenge via email. The team lead for each participant team must email their submissions to <a href="mailto:ami.patel@acl.hhs.gov">ami.patel@acl.hhs.gov</a> by Monday, December 14, 2020 by 11:59 PM EST.</li>
+<li>ACL will collect submissions to this Challenge via email. The team lead for each participant team must email their submissions to ami.patel@acl.hhs.gov by Monday, December 14, 2020 by 11:59 PM EST.</li>
 <ul>  
 <li>Subject line of email submissions must be “Social Care Referrals Challenge Phase 1 Proposal”</li>
 <li>One single application package attachment in Adobe Acrobat® PDF format with the following content:</li>
