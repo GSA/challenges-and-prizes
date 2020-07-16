@@ -13,7 +13,7 @@ agency-logo: /assets/netlify-uploads/USAID_logo.png
 tagline: With this competition, we seek to identify and test more accurate
   methods of predicting future contraceptive use at health service delivery
   sites
-agency: USAID
+agency: U.S. Agency for International Development
 total-prize-offered-cash: $225,000
 type-of-challenge:
   - Technology demonstration and hardware
@@ -227,7 +227,7 @@ rules: >-
 
 
   USAID is not liable for any direct or indirect loss or liability, costs, claims, taxes, charges or expenses resulting from your participation in the competition or your reliance on statements made or advice given by USAID, its partners, or contractors.
-how-to-enter: >+
+how-to-enter: >
   
 
   To enter visit the challenge website at
@@ -253,7 +253,7 @@ October-November 2020:  Co-creation
 December 2020:  Concept notes due
 February 2021:  Grant award winners announced
 
-!\[Intelligent Forecasting Timeline]{{ site.baseurl }}(/assets/netlify-uploads/intelligent-forecasting-graphic-with-gill-sans-1-.png)
+!\[Intelligent Forecasting Timeline]{{site.baseurl}}(/assets/netlify-uploads/intelligent-forecasting-graphic-with-gill-sans-1-.png)
 
 ### Prizes
 
@@ -372,7 +372,3 @@ USAID is not liable for any direct or indirect loss or liability, costs, claims,
 To enter visit the challenge website at
 
 **<https://innovations.smapply.io/prog/intelligent_forecasting_a_competition_to_forecast_contraceptive_demand/>**
-
-### **Point of Contact**
-
-Have feedback or questions about this challenge?  Send the Challenge Manager an [email]([mailto](mailto:forecastingprize@usaid.gov))
