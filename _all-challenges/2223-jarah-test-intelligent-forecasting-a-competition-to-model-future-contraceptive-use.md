@@ -253,7 +253,7 @@ October-November 2020:  Co-creation
 December 2020:  Concept notes due
 February 2021:  Grant award winners announced
 
-!\[Intelligent Forecasting Timeline]{{site.baseurl}}(/assets/netlify-uploads/intelligent-forecasting-graphic-with-gill-sans-1-.png)
+![Intelligent Forecasting Timeline]{{site.baseurl}}(/assets/netlify-uploads/intelligent-forecasting-graphic-with-gill-sans-1-.png)
 
 ### Prizes
 
