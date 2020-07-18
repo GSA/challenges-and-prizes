@@ -126,7 +126,8 @@ how-to-enter: >-
   The items below comprise the submissions package for the EPIC Prize and must be submitted through the HeroX platform. Each element is described in more detail on the prize website: https://americanmadechallenges.org/epic/. 
 
 
-  ![EPIC Submission Table (described in text above)]({{ site.baseurl }}/assets/netlify-uploads/epic-submission-table.jpg)
+  ![EPIC Submission table (described in text above)]({{ site.baseurl }}/assets/netlify-uploads/epic-submission-table.jpg)
+
 
 
   Competitors may only provide one submission package for review. If a competitor submits multiple submission packages, DOE will only review the most recently submitted package that was received before the deadline.
@@ -206,8 +207,6 @@ In keeping with the goal of growing a community of innovators, competitors are e
 
 The items below comprise the submissions package for the EPIC Prize and must be submitted through the HeroX platform. Each element is described in more detail on the prize website: https://americanmadechallenges.org/epic/. 
 
-
-
-![EPIC Submission Table (described in text above)]({{ site.baseurl }}/assets/netlify-uploads/epic-submission-table.jpg)
+![EPIC Submission table (described in text above)]({{ site.baseurl }}/assets/netlify-uploads/epic-submission-table.jpg)
 
 Competitors may only provide one submission package for review. If a competitor submits multiple submission packages, DOE will only review the most recently submitted package that was received before the deadline.
