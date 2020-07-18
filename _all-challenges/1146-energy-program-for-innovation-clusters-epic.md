@@ -86,6 +86,13 @@ rules: >-
 
 
   Submissions will be reviewed for eligibility and completeness. Eligibility determinations as well as approval of any waiver requests will be at DOE’s sole discretion. The application may be deemed ineligible if a competitor does not meet the eligibility criteria or does not provide the items listed in “What to submit” section. Eligible submissions will be evaluated by expert reviewers, who may include officials from OTT or other federal agencies, and/or private sector experts.
+judging: >-
+  The table below explains the manner in which the final scores for each
+  submission will be calculated. Please go to
+  https://americanmadechallenges.org/epic/ for full detail on judging criteria.
+
+
+  ![EPIC Judging Criteria (described above)](blob:https://www.challenge.gov/f29abfe1-ff68-4d87-86a1-80ba1e0a4827)
 how-to-enter: >-
   The EPIC Challenge is accepting submissions at the following site:
 
@@ -181,6 +188,10 @@ Please go to the prize website for complete rules (guidelines): https://american
 Submissions will be reviewed for eligibility and completeness. Eligibility determinations as well as approval of any waiver requests will be at DOE’s sole discretion. The application may be deemed ineligible if a competitor does not meet the eligibility criteria or does not provide the items listed in “What to submit” section. Eligible submissions will be evaluated by expert reviewers, who may include officials from OTT or other federal agencies, and/or private sector experts.
 
 ### Judging Criteria
+
+The table below explains the manner in which the final scores for each submission will be calculated. Please go to https://americanmadechallenges.org/epic/ for full detail on judging criteria.
+
+![EPIC Judging Criteria (described above)]({{ site.baseurl }}/assets/netlify-uploads/epic-judging-criteria.jpg)
 
 ### How to Enter
 
