@@ -92,7 +92,7 @@ judging: >-
   https://americanmadechallenges.org/epic/ for full detail on judging criteria.
 
 
-  ![EPIC Judging Criteria (described above)](blob:https://www.challenge.gov/f29abfe1-ff68-4d87-86a1-80ba1e0a4827)
+  ![](/assets/netlify-uploads/epic-judging-criteria.jpg)
 how-to-enter: >-
   The EPIC Challenge is accepting submissions at the following site:
 
@@ -133,7 +133,7 @@ how-to-enter: >-
   The items below comprise the submissions package for the EPIC Prize and must be submitted through the HeroX platform. Each element is described in more detail on the prize website: https://americanmadechallenges.org/epic/. 
 
 
-  ![EPIC Submission table (described in text above)]({{ site.baseurl }}/assets/netlify-uploads/epic-submission-table.jpg)
+  ![EPIC Submission table (described in text above)]({{ site.baseurl }}/assets/netlify-uploads/epic-submission-table.jpg
 
 
 
