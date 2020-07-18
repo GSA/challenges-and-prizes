@@ -42,6 +42,14 @@ The prize seeks to address a capital gap in supporting these critical organizati
 
 ### Prizes
 
+#### Total Cash Prize Pool
+
+$1,000,000
+
+#### Prize Breakdown
+
+$50,000 for each winner
+
 ### Rules
 
 Please go to the prize website for complete rules (guidelines): https://americanmadechallenges.org/epic/
