@@ -1,5 +1,5 @@
 ---
-title: Card Title Here
+title: Energy Program for Innovation Clusters (EPIC)
 challenge-title: Energy Program for Innovation Clusters (EPIC)
 layout: front-matter-data-markdownify-content
 permalink: /challenge/EPIC/
