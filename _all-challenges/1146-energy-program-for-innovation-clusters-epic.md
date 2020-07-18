@@ -14,7 +14,7 @@ tagline: The DOE Office of Technology Transitions (OTT) is launching a
   entrepreneurs and innovators launching businesses focused on energy-related
   technologies.
 agency: Department of Energy - Office of Technology Transitions
-external-url: https://americanmadechallenges.org/epic/
+external-url: ""
 total-prize-offered-cash: $1,000,000
 type-of-challenge:
   - Ideas
