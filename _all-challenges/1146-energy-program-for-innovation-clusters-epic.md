@@ -92,8 +92,7 @@ how-to-enter: >-
   https://americanmadechallenges.org/epic/
 
 
-  #### Desired Incubator Characteristics 
-
+  #### Desired Incubator Characteristics
 
 
   Incubators competing for this prize should include most, if not all, of the following elements (not listed in order of importance):
@@ -121,10 +120,16 @@ how-to-enter: >-
   In keeping with the goal of growing a community of innovators, competitors are encouraged to form multidisciplinary teams while developing their concept. The submission platform provides a space where parties interested in collaboration can post information about themselves and learn about others who are also interested in competing in this contest.
 
 
-  #### What to Submit 
+  #### What to Submit
 
 
-  The items below comprise the submissions package for the EPIC Prize and must be submitted through the HeroX platform. Each element is described in more detail on the prize website: https://americanmadechallenges.org/epic/. Competitors may only provide one submission package for review. If a competitor submits multiple submission packages, DOE will only review the most recently submitted package that was received before the deadline.
+  The items below comprise the submissions package for the EPIC Prize and must be submitted through the HeroX platform. Each element is described in more detail on the prize website: https://americanmadechallenges.org/epic/. 
+
+
+  ![EPIC Submission Table (described in text above)]({{ site.baseurl }}/assets/netlify-uploads/epic-submission-table.jpg)
+
+
+  Competitors may only provide one submission package for review. If a competitor submits multiple submission packages, DOE will only review the most recently submitted package that was received before the deadline.
 ---
 ### Description
 
