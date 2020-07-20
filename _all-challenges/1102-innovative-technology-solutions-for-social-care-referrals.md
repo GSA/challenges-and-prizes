@@ -18,7 +18,7 @@ external-url: null
 total-prize-offered-cash: $500,000
 type-of-challenge: Software and apps
 submission-start: 2020/07/13 12:00 PM
-submission-end: 2020/12/07 05:00 PM
+submission-end: 2020/12/14 05:00 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Ami Patel
@@ -301,7 +301,7 @@ judging: >-
 how-to-enter: >-
   <p><strong>Phase 1 Submission Requirements</strong></p>
 
-  <p>Applications for Phase 1 of this Challenge are due by Friday, December 14, 2020 by 11:59 PM EST. The identified Official Representative (individual, team or legal entity) may apply for this Challenge by submitting an application by email to ami.patel@acl.hhs.gov. The application for Phase 1 of the Challenge shall meet the following requirements:
+  <p>Applications for Phase 1 of this Challenge are due by Monday, December 14, 2020 by 11:59 PM EST. The identified Official Representative (individual, team or legal entity) may apply for this Challenge by submitting an application by email to ami.patel@acl.hhs.gov. The application for Phase 1 of the Challenge shall meet the following requirements:
 
   </p>
 
@@ -313,7 +313,7 @@ how-to-enter: >-
 
   <li>Solvers must not use HHS, ACL, or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement.</li>
 
-  <li>ACL will collect submissions to this Challenge via email. The team lead for each participant team must email their submissions to ami.patel@acl.hhs.gov by Friday, December 14, 2020 by 11:59 PM EST.</li>
+  <li>ACL will collect submissions to this Challenge via email. The team lead for each participant team must email their submissions to ami.patel@acl.hhs.gov by Monday, December 14, 2020 by 11:59 PM EST.</li>
 
   <ul>  
 
@@ -412,10 +412,10 @@ submission-link: null
 </ul>
 <p>For more information, please visit: <a href="https://www.challenge.gov/toolkit/faq/">https://www.challenge.gov/toolkit/faq/</a></p>
 <hr />
-<p>\\\[1] Community Based Organizations may include Area Agencies on Aging, Aging and Disability Resources Centers, Centers for Independent Living or other aging and disability network agencies.</p>
-<p>\\\[2] Examples of statewide approaches include: 1) Oregon Health Leadership Council, HIT Commons, <a href="http://www.orhealthleadershipcouncil.org/hit-commons/">http://www.orhealthleadershipcouncil.org/hit-commons/</a>, 2) Pennsylvania Request for Information for Statewide Resource and Referral Tool, <a href="http://www.emarketplace.state.pa.us/Solicitations.aspx?SID=Resource%20and%20Referral%20Tool">http://www.emarketplace.state.pa.us/Solicitations.aspx?SID=Resource%20and%20Referral%20Tool</a></p>
-<p>\\\[3] &ldquo;Advancing Interoperable Social Determinants of Health Data,&rdquo; HealthITBuzz blog post, December 12, 2019, <a href="https://www.healthit.gov/buzz-blog/interoperability/advancing-interoperable-social-determinants-of-health-data">https://www.healthit.gov/buzz-blog/interoperability/advancing-interoperable-social-determinants-of-health-data</a></p>
-<p>\\\[4] HL7 International, &ldquo;The Gravity Project&rdquo;, <a href="https://www.hl7.org/gravity/">https://www.hl7.org/gravity/</a></p>
+<p>\\\\\[1] Community Based Organizations may include Area Agencies on Aging, Aging and Disability Resources Centers, Centers for Independent Living or other aging and disability network agencies.</p>
+<p>\\\\\[2] Examples of statewide approaches include: 1) Oregon Health Leadership Council, HIT Commons, <a href="http://www.orhealthleadershipcouncil.org/hit-commons/">http://www.orhealthleadershipcouncil.org/hit-commons/</a>, 2) Pennsylvania Request for Information for Statewide Resource and Referral Tool, <a href="http://www.emarketplace.state.pa.us/Solicitations.aspx?SID=Resource%20and%20Referral%20Tool">http://www.emarketplace.state.pa.us/Solicitations.aspx?SID=Resource%20and%20Referral%20Tool</a></p>
+<p>\\\\\[3] &ldquo;Advancing Interoperable Social Determinants of Health Data,&rdquo; HealthITBuzz blog post, December 12, 2019, <a href="https://www.healthit.gov/buzz-blog/interoperability/advancing-interoperable-social-determinants-of-health-data">https://www.healthit.gov/buzz-blog/interoperability/advancing-interoperable-social-determinants-of-health-data</a></p>
+<p>\\\\\[4] HL7 International, &ldquo;The Gravity Project&rdquo;, <a href="https://www.hl7.org/gravity/">https://www.hl7.org/gravity/</a></p>
 
 <!-- Prizes start -->
 
@@ -495,13 +495,13 @@ submission-link: null
 ### How to Enter
 
 <p><strong>Phase 1 Submission Requirements</strong></p>
-<p>Applications for Phase 1 of this Challenge are due by Friday, December 14, 2020 by 11:59 PM EST. The identified Official Representative (individual, team or legal entity) may apply for this Challenge by submitting an application by email to ami.patel@acl.hhs.gov. The application for Phase 1 of the Challenge shall meet the following requirements:
+<p>Applications for Phase 1 of this Challenge are due by Monday, December 14, 2020 by 11:59 PM EST. The identified Official Representative (individual, team or legal entity) may apply for this Challenge by submitting an application by email to ami.patel@acl.hhs.gov. The application for Phase 1 of the Challenge shall meet the following requirements:
 </p>
 <ul>
 <li>Entries must be in Adobe Acrobat® PDF format with font size no smaller than 11-point Arial and no more than 10 pages, not including the cover page, appendixes, or diagrams of the design.</li> 
 <li>All submissions must be in English using simple, straightforward and concise language.</li> 
 <li>Solvers must not use HHS, ACL, or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement.</li>
-<li>ACL will collect submissions to this Challenge via email. The team lead for each participant team must email their submissions to ami.patel@acl.hhs.gov by Friday, December 14, 2020 by 11:59 PM EST.</li>
+<li>ACL will collect submissions to this Challenge via email. The team lead for each participant team must email their submissions to ami.patel@acl.hhs.gov by Monday, December 14, 2020 by 11:59 PM EST.</li>
 <ul>  
 <li>Subject line of email submissions must be “Social Care Referrals Challenge Phase 1 Proposal”</li>
 <li>One single application package attachment in Adobe Acrobat® PDF format with the following content:</li>
