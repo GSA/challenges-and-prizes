@@ -25,7 +25,7 @@ fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Katherine Harsanyi
 challenge-manager-email: Katherine.harsanyi@hq.doe.gov
-point-of-contact: ""
+point-of-contact: EPICPrize@nrel.gov
 description: >-
   The U.S. Department of Energy (DOE) helps power and secure America's future
   and ensure the country’s role as a leader in science and technology. In 2015,
