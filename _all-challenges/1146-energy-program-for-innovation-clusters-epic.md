@@ -206,22 +206,6 @@ The table below explains the manner in which the final scores for each submissio
 The EPIC Challenge is accepting submissions at the following site:
 https://americanmadechallenges.org/epic/
 
-#### Desired Incubator Characteristics
-
-Incubators competing for this prize should include most, if not all, of the following elements (not listed in order of importance):
-
-* A selective process to choose participating startups.
-* Regular networking opportunities for startups.
-* Introductions to customers, partners, suppliers, advisory boards, and other players.
-* High-growth and tech-driven startup mentorship and commercialization assistance.
-* Resource sharing and arrangements for startups.
-* Virtual Tools/Telework capabilities.
-* Physical spaces to operate.
-* Opportunities to pitch ideas and startups to investors along with other capital formation avenues for startups. 
-* Angel money, seed capital, or structured loans for member startups.
-
-In keeping with the goal of growing a community of innovators, competitors are encouraged to form multidisciplinary teams while developing their concept. The submission platform provides a space where parties interested in collaboration can post information about themselves and learn about others who are also interested in competing in this contest.
-
 #### What to Submit
 
 The items below comprise the submissions package for the EPIC Prize and must be submitted through the HeroX platform. Each element is described in more detail on the prize website: https://americanmadechallenges.org/epic/. 
