@@ -4,7 +4,7 @@ challenge-title: Air Force Synthetic Biology Challenge, Aerospace Fuels
 layout: front-matter-data-markdownify-content
 permalink: /challenge/afrl-synthetic-biology-challenge-aerospace-fuels/
 challenge-id: "1138"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/afrl-synthetic-biology-posting2.jpg
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
@@ -16,8 +16,8 @@ external-url: https://innovatedefense.net/afrl-challenge-2
 total-prize-offered-cash: $1,000,000
 type-of-challenge:
   - Scientific
-submission-start: 2020/05/20 12:00 AM
-submission-end: 2020/07/20 11:59 PM
+submission-start: 05/20/2020 12:00 AM
+submission-end: 07/20/2020 11:59 PM
 fiscal-year: FY20
 legal-authority: Agency specific prize authority
 challenge-manager: Chris Levitt
