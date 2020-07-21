@@ -6,7 +6,7 @@ tagline: Federal agencies advance infectious disease modeling and forecasting wi
 excerpt: A prize competition advanced how the Centers for Disease Control and Prevention forecasts the timing, peak and intensity of the influenza virus. Today, those prize winners and others are working with the agency on operations forecasts and projections for COVID-19, the disease at the center of a global pandemic.  
 author: Tammy White
 layout: post
-image: blog-post-a-model-for-gov-cover-image.jpg
+image: /assets/netlify-uploads/blog-post-a-model-for-gov-cover-image.jpg
 card-image: /assets/netlify-uploads/blog-post-a-model-for-gov-cover-image.jpg
 image_alt_text: Concept of computer model on coronavirus impact
 ---

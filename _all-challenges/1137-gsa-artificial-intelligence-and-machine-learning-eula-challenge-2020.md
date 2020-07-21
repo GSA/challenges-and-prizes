@@ -327,10 +327,10 @@ how-to-enter: >-
   * Output file in prescribed format.
 
   * Includes classification of clauses contained in Validation File, along with confidence scores.
-      * Clause ID
-      * Clause Text
-      * Prediction: 0 - acceptable, 1 - unacceptable
-      * Prediction Probability - percent 
+
+    * Clause ID
+    * Prediction: 0 - acceptable, 1 - unacceptable
+    * Probability acceptable (percent) 
 
   **2. Description of Methods Document**
 
@@ -344,8 +344,9 @@ how-to-enter: >-
   * Clearly explains the reasons for predictions made in the Validation Data File submission.
 
   * Contains self-reported metrics of the solution, by providing:
-      * Brier score
-      * F1 score (also known as F-Measure)
+
+    * Brier score
+    * F1 score (also known as F-Measure)
 
   **3. Source Code, Input Data, and Compiled Models**
 
@@ -563,9 +564,8 @@ Upload the following deliverables to GitHub following these instructions: <https
 * Includes classification of clauses contained in Validation File, along with confidence scores.
 
   * Clause ID
-  * Clause Text
   * Prediction: 0 - acceptable, 1 - unacceptable
-  * Prediction Probability - percent 
+  * Probability acceptable (percent) 
 
 **2. Description of Methods Document**
 

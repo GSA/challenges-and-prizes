@@ -60,7 +60,7 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Date', name: 'date', widget: 'string', hint: 'ie. May 14, 2020' }
+      - { label: 'Date', name: 'date', widget: 'string', hint: 'YYYY/MM/DD' }
       - { label: 'Layout', name: 'layout', widget: 'string', default: 'post' }
       - { label: 'Permalink', name: 'permalink', widget: 'string', default: '/blog/use-full-date-and-title-url-here/' }
       - { label: 'Post Title', name: 'title', widget: 'string' }

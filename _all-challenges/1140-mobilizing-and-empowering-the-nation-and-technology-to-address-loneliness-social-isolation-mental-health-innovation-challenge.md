@@ -339,6 +339,20 @@ how-to-enter: >-
 
 
   The top two contenders will be notified December 15, 2020. The winner and runner-up and will be asked to present their solution at the CES 2021. The winner will be announced at the CES 2021 in Las Vegas, NV—January 6-9, 2021.
+
+
+  **Resources:**
+
+
+  1. [No Wrong Door System State/Territory Leads](https://acl.gov/sites/default/files/programs/2020-07/NWD_System_Contacts_7.13.20.pdf) (Updated July 13, 2020)
+
+  2. To find a Veteran-Directed Care (VDC) Provider, go to <https://nwd.acl.gov/find-vdc-program.html>
+
+  3. July 9, 2020: MENTAL Health Innovation Challenge Webinar Materials:
+     * [Recording](https://optum.webex.com/recordingservice/sites/optum/recording/956008c6bbc84f638a707f67f25a25bd)
+     * [PowerPoint Slides](<https://acl.gov/sites/default/files/programs/2020-07/Overview_MENTAL_Webinar_7.9.2020 slide deck.pdf>)
+     * [Transcript](<https://acl.gov/sites/default/files/programs/2020-07/MENTAL_Challenge_ 7 9 2020 Webinar Transcript.pdf>)
+  4. July 16, 2020: [Frequently Asked Questions Document](<https://acl.gov/sites/default/files/programs/2020-07/Frequent Asked Questions_7.16.2020_0.pdf>)
 ---
 ### Description
 
@@ -559,3 +573,13 @@ Finalists will be asked to demonstrate the Social Engagement Clearinghouse with 
 * ACL will provide additional criteria throughout the various phases to further define requirement expectations.
 
 The top two contenders will be notified December 15, 2020. The winner and runner-up and will be asked to present their solution at the CES 2021. The winner will be announced at the CES 2021 in Las Vegas, NV—January 6-9, 2021.
+
+**Resources:**
+
+1. [No Wrong Door System State/Territory Leads](https://acl.gov/sites/default/files/programs/2020-07/NWD_System_Contacts_7.13.20.pdf) (Updated July 13, 2020)
+2. To find a Veteran-Directed Care (VDC) Provider, go to <https://nwd.acl.gov/find-vdc-program.html>
+3. July 9, 2020: MENTAL Health Innovation Challenge Webinar Materials:
+   * [Recording](https://optum.webex.com/recordingservice/sites/optum/recording/956008c6bbc84f638a707f67f25a25bd)
+   * [PowerPoint Slides](<https://acl.gov/sites/default/files/programs/2020-07/Overview_MENTAL_Webinar_7.9.2020 slide deck.pdf>)
+   * [Transcript](<https://acl.gov/sites/default/files/programs/2020-07/MENTAL_Challenge_ 7 9 2020 Webinar Transcript.pdf>)
+4. July 16, 2020: [Frequently Asked Questions Document](<https://acl.gov/sites/default/files/programs/2020-07/Frequent Asked Questions_7.16.2020_0.pdf>)
