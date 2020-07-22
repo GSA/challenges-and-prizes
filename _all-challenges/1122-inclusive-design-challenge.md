@@ -22,6 +22,11 @@ challenge-manager: Rachael Sack
 challenge-manager-email: Rachael.Sack@dot.gov
 point-of-contact: inclusivedesign@dot.gov
 description: >-
+  **Updates have been made to the Rules section and are *italicized* in order to
+  easily locate. For more information about these changes please
+  contact [inclusivedesign@dot.gov](mailto:inclusivedesign@dot.gov).**
+
+
   #### Summary
 
 
@@ -180,9 +185,9 @@ prizes: >-
     * 2nd place receives $700,000
     * 3rd place receives $300,000
 rules: >-
-  
-
-  If any potential (semi)finalist is found to be ineligible, has not complied with these Challenge rules, or declines the cash prize for any reason prior to award, an alternate (semi-)finalist may be selected.
+  If any potential (semi)finalist is found to be ineligible, has not complied
+  with these Challenge rules, or declines the cash prize for any reason prior to
+  award, an alternate (semi-)finalist may be selected.
 
 
   #### Eligibility
@@ -219,7 +224,7 @@ rules: >-
   #### Liability and Insurance Requirements
 
 
-  By registering and entering a submission, each participant agrees to assume any and all risks and waive claims against the Federal Government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from their participation in this competition, whether the injury, death, damage, or loss arises through negligence or otherwise. By registering and entering a submission, each participant further represents and warrants that it possesses sufficient liability insurance or financial resources to cover claims by a third party for death, bodily injury, or property damage or loss resulting from any activity it carries out in connection with its participation in this competition, or claims by the Federal Government for damage or loss to government property resulting from such an activity. Competition winners shall be prepared to demonstrate proof of insurance or financial responsibility in the event DOT deems it necessary.
+  By registering and entering a submission, each participant agrees to assume any and all risks and waive claims against the Federal Government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from their participation in this competition, whether the injury, death, damage, or loss arises through negligence or otherwise. By registering and entering a submission, each participant further represents and warrants that it possesses sufficient liability insurance or financial resources, *to the extent permitted by applicable law*, to cover claims by a third party for death, bodily injury, or property damage or loss resulting from any activity it carries out in connection with its participation in this competition, or claims by the Federal Government for damage or loss to government property resulting from such an activity. Competition winners shall be prepared to demonstrate proof of insurance or financial responsibility in the event DOT deems it necessary.
 
 
   #### Payment of the Prize
@@ -249,6 +254,9 @@ rules: >-
   * The Submission does not and will not contain any harmful computer code (sometimes referred to as "malware," "viruses," or "worms"); and
 
   * The Submission, and contestants use of the Submission, does not and will not violate any applicable laws or regulations, including, without limitation, the Health Insurance Portability and Accountability Act (HIPAA), or applicable export control laws and regulations of the United States and other jurisdictions.
+
+
+  *If an Applicant is unable to make any of the warranties as stated above, Applicant must provide a clear written explanation of the reason(s) it cannot make any specific warranty. DOT will, in its sole discretion, determine whether such explanations are sufficient.*
 
 
   DOT reserves the right to disqualify any submission that it deems, in its discretion, to violate these Official Rules, Terms & Conditions.
@@ -362,6 +370,8 @@ how-to-enter: >-
 
   Note: Submission requirements for Stage II will be provided to the semifinalists upon advancing to the next stage and will also be posted on the DOT's Inclusive Design Challenge website.
 ---
+**Updates have been made to the Rules section and are *italicized* in order to easily locate. For more information about these changes please contact [inclusivedesign@dot.gov](mailto:inclusivedesign@dot.gov).**
+
 ### Description
 
 #### Summary
@@ -494,7 +504,7 @@ An individual or entity shall not be deemed ineligible because the individual or
 
 #### Liability and Insurance Requirements
 
-By registering and entering a submission, each participant agrees to assume any and all risks and waive claims against the Federal Government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from their participation in this competition, whether the injury, death, damage, or loss arises through negligence or otherwise. By registering and entering a submission, each participant further represents and warrants that it possesses sufficient liability insurance or financial resources to cover claims by a third party for death, bodily injury, or property damage or loss resulting from any activity it carries out in connection with its participation in this competition, or claims by the Federal Government for damage or loss to government property resulting from such an activity. Competition winners shall be prepared to demonstrate proof of insurance or financial responsibility in the event DOT deems it necessary.
+By registering and entering a submission, each participant agrees to assume any and all risks and waive claims against the Federal Government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from their participation in this competition, whether the injury, death, damage, or loss arises through negligence or otherwise. By registering and entering a submission, each participant further represents and warrants that it possesses sufficient liability insurance or financial resources, *to the extent permitted by applicable law*, to cover claims by a third party for death, bodily injury, or property damage or loss resulting from any activity it carries out in connection with its participation in this competition, or claims by the Federal Government for damage or loss to government property resulting from such an activity. Competition winners shall be prepared to demonstrate proof of insurance or financial responsibility in the event DOT deems it necessary.
 
 #### Payment of the Prize
 
@@ -513,6 +523,8 @@ By entering the Challenge, each applicant represents, warrants, and covenants as
 * The Submission does not and will not violate or infringe upon the intellectual property rights, privacy rights, publicity rights, or other legal rights of any third party;
 * The Submission does not and will not contain any harmful computer code (sometimes referred to as "malware," "viruses," or "worms"); and
 * The Submission, and contestants use of the Submission, does not and will not violate any applicable laws or regulations, including, without limitation, the Health Insurance Portability and Accountability Act (HIPAA), or applicable export control laws and regulations of the United States and other jurisdictions.
+
+*If an Applicant is unable to make any of the warranties as stated above, Applicant must provide a clear written explanation of the reason(s) it cannot make any specific warranty. DOT will, in its sole discretion, determine whether such explanations are sufficient.*
 
 DOT reserves the right to disqualify any submission that it deems, in its discretion, to violate these Official Rules, Terms & Conditions.
 
