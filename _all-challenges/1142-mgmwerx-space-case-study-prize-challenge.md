@@ -4,7 +4,7 @@ challenge-title: "MGMWERX Space Case Study Prize Challenge "
 layout: front-matter-data-markdownify-content
 permalink: /challenge/mgmwerx-space-case-study-prize-challenge/
 challenge-id: "1142"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/space-case-study_challengedotgov.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
@@ -15,8 +15,8 @@ partner-agencies-federal: Air Force Air University
 partners-non-federal: MGMWERX
 type-of-challenge:
   - Ideas
-submission-start: 2020/06/22 12:00 PM
-submission-end: 2020/07/21 12:59 AM
+submission-start: 06/22/2020 12:00 PM
+submission-end: 07/21/2020 12:59 AM
 fiscal-year: FY20
 legal-authority: America COMPETES Act
 challenge-manager: Anna Ganey
