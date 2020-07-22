@@ -1,7 +1,7 @@
 ---
-date: July 23, 2020
+date: 2020/07/22
 layout: post
-permalink: /blog/2020/07/23/covid-challenge-recap/
+permalink: /blog/2020/07/22/covid-challenge-recap/
 title: Federal Crowdsourcing Community Responds to the COVID-19 Emergency
 tagline: "Since the pandemic began, federal agencies and citizen-solvers have
   heeded the call to fight the spread of this deadly disease through rapidly
