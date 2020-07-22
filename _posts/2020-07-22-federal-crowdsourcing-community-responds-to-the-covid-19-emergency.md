@@ -11,6 +11,7 @@ excerpt: Federal agencies and citizen-solvers alike have heeded the call to
   rapidly scaled crowdsourcing and open innovation programs.
 author: Pierce McManus
 image: /assets/netlify-uploads/gettyimages-1220844647.jpg
+image_alt_text: Frontline medical workers
 ---
 On January 31, 2020, the Secretary of Health and Human Services (HHS) **[declared a public health emergency](https://www.hhs.gov/about/news/2020/01/31/secretary-azar-declares-public-health-emergency-us-2019-novel-coronavirus.html)** for the entire United States to aid the nation’s healthcare community in responding to the 2019 novel coronavirus (COVID-19).
 
