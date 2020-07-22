@@ -4,8 +4,7 @@ layout: post
 permalink: /blog/july-22-2020-Federal-Crowdsourcing-Community-Responds-to-the-COVID-19-Emergency/
 title: Federal Crowdsourcing Community Responds to the COVID-19 Emergency
 tagline: Federal agencies and citizen-solvers heed the call to fight the spread
-  of COVID-19 through a number of rapidly scaled crowdsourcing and open
-  innovation programs
+  of COVID-19 through rapidly scaled open innovation programs
 excerpt: Federal agencies and citizen-solvers alike have heeded the call to
   fight the spread of this deadly disease, support healthcare workers on the
   frontline, and treat those stricken with COVID-19, through a vast number of
