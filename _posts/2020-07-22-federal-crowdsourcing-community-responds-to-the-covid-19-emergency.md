@@ -8,7 +8,7 @@ tagline: Federal agencies and citizen-solvers heed the call to fight the spread
 excerpt: Federal agencies and citizen-solvers alike have heeded the call to
   fight the spread of this deadly disease, support healthcare workers on the
   frontline, and treat those stricken with COVID-19, through a vast number of
-  rapidly scaled crowdsourcing and open innovation programs.
+  rapidly scaled open innovation programs.
 author: Pierce McManus
 image: /assets/netlify-uploads/gettyimages-1220844647.jpg
 image_alt_text: Frontline medical workers
