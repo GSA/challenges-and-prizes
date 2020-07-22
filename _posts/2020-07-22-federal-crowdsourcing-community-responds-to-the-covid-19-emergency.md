@@ -51,4 +51,4 @@ The National Aeronautics and Space Administration (NASA) and a host of partners 
 
 ### Conclusion
 
-As recent events have shown, in times of great crisis, federal agencies can tap into the country’s vast network of innovators, makers, and citizen-solvers to meet—and overcome—some of the most complex and unanticipated challenges of the day. As ***the*** web platform connecting federal agencies with the public to crowdsource solutions to problems both big and small, **[Challenge.gov](https://www.challenge.gov/)** is proud to have played a critical role in fighting the spread of COVID-19.
+As recent events have shown, in times of great crisis, federal agencies can tap into the country’s vast network of innovators, makers, and citizen-solvers to meet—and overcome—some of the most complex and unanticipated challenges of the day. As ***the*** web platform connecting federal agencies with the public to crowdsource solutions to problems both big and small, **[Challenge.gov](https://www.challenge.gov/)** is proud to have played a role in fighting the spread of COVID-19, supporting healthcare workers on the frontline, and treating those stricken with this deadly disease.
