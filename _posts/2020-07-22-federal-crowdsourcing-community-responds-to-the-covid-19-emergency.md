@@ -6,6 +6,10 @@ title: Federal Crowdsourcing Community Responds to the COVID-19 Emergency
 tagline: "Since the pandemic began, federal agencies and citizen-solvers have
   heeded the call to fight the spread of this deadly disease through rapidly
   scaled crowdsourcing and open innovation programs. "
+excerpt: In times of great crisis, federal agencies can tap into the country’s
+  vast network of innovators, makers, and citizen-solvers to meet — and overcome
+  — some of the most complex and unanticipated challenges of the day through
+  rapidly scaled prize competitions.
 author: Pierce McManus
 image: /assets/netlify-uploads/gettyimages-1220844647.jpg
 ---
