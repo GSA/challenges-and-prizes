@@ -229,13 +229,13 @@ how-to-enter: "To enter for the Next Gen Fertilizer Innovations Challenge,
   please follow the link here to InnoCentive and follow the instructions:
   <https://innocentive.wazoku.com/#/challenge/4380f517f84f49b78ad3dab8b4657e6e>"
 ---
-#### Description
+### Description
 
 #### Background
 
 Nitrogen and phosphorus fertilizers facilitate the growth of crops, including corn, at yields that provide sustained global food production. However, fertilizers applied without consideration of the appropriate rate, timing, source, and method, can have harmful effects on the environment and human health. “Enhanced Efficiency Fertilizer” (EEF) is a term for new formulations that control fertilizer release or alter reactions that reduce nutrient losses to the environment. EEFs and other product technology innovations may be an important addition to a system of conservation practices that help reduce the impacts from row crop agriculture on the environment, while maintaining or increasing agricultural productivity and profitability.
 
-#### The Challenges 
+#### The Challenges
 
 To help mitigate these adverse effects, EPA is partnering with the U.S. Department of Agriculture (USDA) to launch the Joint EPA-USDA Partnership and Competition on Next Gen Fertilizers to Advance Agricultural Sustainability in the United States. Along with EPA and USDA, the competition is in collaboration with The Fertilizer Institute (TFI), the International Fertilizer Development Center (IFDC), The Nature Conservancy (TNC), and the National Corn Growers Association (NCGA).
 
@@ -245,10 +245,10 @@ The Next Gen Fertilizer Innovation Challenge: This Challenge aims to identify co
 
 #### Key Dates
 
-•	Informational Webinar*: \[ insert day and time]\
-•	Registration Deadline\*\*: 11:59 PM ET, October 2, 2020 
-•	Submission End: 11:59 PM ET October 30, 2020 
-•	Winners Announced: February 2021
+* Informational Webinar*: \[ insert day and time]
+* Registration Deadline\*\*: 11:59 PM ET, October 2, 2020 
+* Submission End: 11:59 PM ET October 30, 2020 
+* Winners Announced: February 2021
 
 \*Signing up for the informational webinar does NOT register you for the Challenge
 \** You must be registered via Innocentive by October 2, 2020 to participate in the Next Gen Innovation Challenge
