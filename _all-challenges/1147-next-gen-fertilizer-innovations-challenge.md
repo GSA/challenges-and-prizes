@@ -13,6 +13,9 @@ tagline: "This Challenge aims to identify concepts for novel technologies for
   while maintaining or increasing crop yields. "
 agency: Environmental Protection Agency
 partner-agencies-federal: U.S. Department of Agriculture
+partners-non-federal: The Fertilizer Institute, International Fertilizer
+  Development Center, The Nature Conservancy, The National Corn Growers
+  Association
 total-prize-offered-cash: $40,000
 type-of-challenge:
   - Ideas
