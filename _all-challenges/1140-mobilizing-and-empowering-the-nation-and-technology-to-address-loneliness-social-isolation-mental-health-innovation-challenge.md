@@ -32,8 +32,8 @@ challenge-manager: "Gilbert.Thompson@acl.hhs.gov "
 challenge-manager-email: "Gilbert.Thompson@acl.hhs.gov "
 point-of-contact: "MENTALHealthChallenge@acl.hhs.gov "
 description: >-
-  #### \*\*Important Update - An informational webinar has been added for July
-  30th - see registration link in "Key Dates" section below.
+  \*\*Important Update - An informational webinar has been added for July 30th -
+  see registration link in "Key Dates" section below.
 
 
   This year, we've been forced to rethink the myriad of different ways we connect, socialize and interact with each other. In the absence of face-to-face time, can technology and online tools help us make, maintain, and strengthen those connections so vital to everyday life? We believe they can. That’s why we need your help. 
