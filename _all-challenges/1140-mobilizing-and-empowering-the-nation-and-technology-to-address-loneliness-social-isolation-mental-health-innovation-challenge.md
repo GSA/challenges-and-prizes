@@ -32,11 +32,11 @@ challenge-manager: "Gilbert.Thompson@acl.hhs.gov "
 challenge-manager-email: "Gilbert.Thompson@acl.hhs.gov "
 point-of-contact: "MENTALHealthChallenge@acl.hhs.gov "
 description: >-
-  This year, we've been forced to rethink the myriad of different ways we
-  connect, socialize and interact with each other. In the absence of
-  face-to-face time, can technology and online tools help us make, maintain, and
-  strengthen those connections so vital to everyday life? We believe they can.
-  That’s why we need your help. 
+  #### \*\*Important Update - An informational webinar has been added for July
+  30th - see registration link in "Key Dates" section below.
+
+
+  This year, we've been forced to rethink the myriad of different ways we connect, socialize and interact with each other. In the absence of face-to-face time, can technology and online tools help us make, maintain, and strengthen those connections so vital to everyday life? We believe they can. That’s why we need your help. 
 
 
   Can you design an easy-to-use online directory of social engagement programs and technology tools and products that matches end-users who are socially isolated with customized suggestions, tailored to meet their specific needs, interests, and abilities, in one seamless end-to-end experience? Then we want to hear from you.
@@ -364,6 +364,8 @@ how-to-enter: >-
      3. [Register](https://optum.webex.com/mw3300/mywebex/default.do?nomenu=true&siteurl=optum&service=6&rnd=0.9602163394084726&main_url=https%3A%2F%2Foptum.webex.com%2Fec3300%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Ddetail%26%26%26EMK%3D4832534b000000046a71413297acdf8c76d6d60dd7a6b8acab6433e5c8f27ae5c4329d1dc6066e20%26siteurl%3Doptum%26confViewID%3D166297728773533102%26encryptTicket%3DSDJTSwAAAAQ2pi9QM5FlFR8qVYNNFvD0nscme66yEp4k_dOb8y3W7g2%26) for the webinar to be held on Tuesday, July 30th at 3:00pm ET.
      4. Eldercare Locator is a public service provided by the U.S. Administration for Community living, Administration on Aging that connects people to services for older adults. Eldercare Locator can be navigated independently online or individuals can speak with a person via 800-677-1116.  The Eldercare Locator has an open API that can be accessed at this link:  <https://eldercare.acl.gov/Public/Site_Utilities/API_Reg/API_Registration.aspx>.
 ---
+#### \*\*Important Update - An informational webinar has been added for July 30th - see registration link in "Key Dates" section below.
+
 ### Description
 
 This year, we've been forced to rethink the myriad of different ways we connect, socialize and interact with each other. In the absence of face-to-face time, can technology and online tools help us make, maintain, and strengthen those connections so vital to everyday life? We believe they can. That’s why we need your help. 
