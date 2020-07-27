@@ -38,7 +38,7 @@ rules: Participants are required to attend three main virtual events – the
   Kickoff, Make-a-thon Launch, and Closing Ceremony - and participate in as many
   team meetings as possible throughout the week.
 judging: >-
-  **Judging Panel:** \
+  **Judging Panel:** 
 
   The composition of the judging panel changes with each event, but generally consists of subject matter experts from the VA Innovators Network, healthcare industry, and rapid manufacturing sectors. 
 
@@ -76,7 +76,7 @@ Participants are required to attend three main virtual events – the Kickoff, M
 
 ### Judging
 
-**Judging Panel:** \
+**Judging Panel:** 
 The composition of the judging panel changes with each event, but generally consists of subject matter experts from the VA Innovators Network, healthcare industry, and rapid manufacturing sectors. 
 
 **Judging Criteria:**
