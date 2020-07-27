@@ -17,7 +17,7 @@ Last month, the [National Institute on Drug Abuse](https://www.nih.gov/about-nih
 
 In anticipation of the announcement, we caught up with a past winner to learn more about their motivation to participate in the annual competition, what they learned from the experience, what impact their prize-winning solution is making today, and what advice they have for the latest crop of winners.
 
-**\*\*NOTE:** The General Services Administration (GSA) is not affiliated in any way with this particular competition nor is this profile intended to be an endorsement of the winning company.\*\*
+***NOTE:** The General Services Administration (GSA) is not affiliated in any way with this particular competition nor is this profile intended to be an endorsement of the winning company.*
 
 ## INTRODUCTION
 
