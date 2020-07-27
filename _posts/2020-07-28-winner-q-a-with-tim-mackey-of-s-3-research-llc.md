@@ -21,6 +21,8 @@ In anticipation of the announcement, we caught up with a past winner to learn mo
 
 ## INTRODUCTION
 
+![Tim K. Mackey, CEO of S-3 Research](/assets/netlify-uploads/tim-mackey.jpg "Tim K. Mackey, CEO of S-3 Research")
+
 **Who are you?**
 
 My name is Tim K. Mackey, and I am the co-founder and CEO of [S-3 Research LLC](https://www.s-3.io/). I’m essentially a researcher-turned-entrepreneur with the help of the U.S. government through the SUD Startup Challenge award and the [NIH SBIR program](https://sbir.nih.gov/). I am also a current associate professor at UC San Diego where I teach and research on global health, health technology, and public policy.
