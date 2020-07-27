@@ -21,7 +21,7 @@ In anticipation of the announcement, we caught up with a past winner to learn mo
 
 ## INTRODUCTION
 
-![Tim K. Mackey, CEO of S-3 Research](/assets/netlify-uploads/tim-mackey.jpg "Tim K. Mackey, CEO of S-3 Research")
+![Tim K. Mackey, CEO of S-3 Research]({{ site.baseurl }}/assets/netlify-uploads/tim-mackey.jpg "Tim K. Mackey, CEO of S-3 Research")
 
 **Who are you?**
 
