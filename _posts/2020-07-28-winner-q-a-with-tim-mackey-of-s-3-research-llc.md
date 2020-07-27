@@ -1,7 +1,7 @@
 ---
-date: 2020/07/28
+date: 2020/07/27
 layout: post
-permalink: /blog/july-28-2020-Past-Winner-Question-and-Answer-with-Tim-Mackey-of-S-3-Research
+permalink: /blog/july-27-2020-Past-Winner-Question-and-Answer-with-Tim-Mackey-of-S-3-Research
 title: Past Winner Question and Answer with Tim Mackey of S-3 Research
 tagline: Challenge.gov Catches Up with a 2017 SUD Startup Challenge Winner
 excerpt: We catch up with a past winner of NIDA's SUD Startup Challenge to learn
