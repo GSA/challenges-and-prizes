@@ -24,16 +24,12 @@ legal-authority: Agency specific prize authority
 challenge-manager: Danielle Krakora
 challenge-manager-email: "danielle.krakora@va.gov "
 point-of-contact: maggie@challengeamerica.com
-description: >-
-  A general overview of your challenge, including any background on the problem
-  you want to solve. Your challenge page has a designated place for your
-  submission start and end dates, but if you have other dates you want
-  reflected, please include them in your description. Consider including a “Key
-  Dates” section with dates for informational webinars, judging period, winner
-  announcements, different phases, etc.
-
-
-  Teams will design and develop innovative solutions to address challenges arising from the COVID-19 pandemic. Teams will collaborate virtually using tools like Zoom and Quip over the course of one week to evaluate the challenge. During the two-day make-a-thon event, the teams will work to design and fabricate working prototypes of their solutions that are suitable for rapid manufacturing.
+description: Teams will design and develop innovative solutions to address
+  challenges arising from the COVID-19 pandemic. Teams will collaborate
+  virtually using tools like Zoom and Quip over the course of one week to
+  evaluate the challenge. During the two-day make-a-thon event, the teams will
+  work to design and fabricate working prototypes of their solutions that are
+  suitable for rapid manufacturing.
 prizes: The team with the best overall design will win the VHA iEx Design Award
   and will have the opportunity to present their design at the Fall 2020 VHA
   Innovation Experience (VHA iEx) in Washington, DC, an annual celebration of
@@ -67,8 +63,6 @@ how-to-enter: To learn more and to register, go to
   [www.covid19makerchallenge.com](http://www.covid19makerchallenge.com).
 ---
 ### Description
-
-A general overview of your challenge, including any background on the problem you want to solve. Your challenge page has a designated place for your submission start and end dates, but if you have other dates you want reflected, please include them in your description. Consider including a “Key Dates” section with dates for informational webinars, judging period, winner announcements, different phases, etc.
 
 Teams will design and develop innovative solutions to address challenges arising from the COVID-19 pandemic. Teams will collaborate virtually using tools like Zoom and Quip over the course of one week to evaluate the challenge. During the two-day make-a-thon event, the teams will work to design and fabricate working prototypes of their solutions that are suitable for rapid manufacturing.
 
