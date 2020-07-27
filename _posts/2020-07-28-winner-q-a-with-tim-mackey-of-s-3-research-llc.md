@@ -21,10 +21,7 @@ In anticipation of the announcement, we caught up with a past winner to learn mo
 
 ## INTRODUCTION
 
-<figure style="float:left; margin:1em;" >
-  <img height="300px" src="{{ site.baseurl }}/assets/netlify-uploads/tim-mackey.jpg" alt="Tim K. Mackey, CEO of S-3 Research"/>
-  <figcaption style="font-size: smaller;">Tim K. Mackey, CEO of S-3 Research</figcaption>
-</figure>)
+![Tim K. Mackey, CEO of S-3 Research](/assets/netlify-uploads/tim-mackey.jpg "Tim K. Mackey, CEO of S-3 Research")
 
 **Who are you?**
 
