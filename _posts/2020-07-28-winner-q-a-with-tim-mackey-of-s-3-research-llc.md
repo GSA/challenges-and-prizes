@@ -17,7 +17,7 @@ Last month, the [National Institute on Drug Abuse](https://www.nih.gov/about-nih
 
 In anticipation of the announcement, we caught up with a past winner to learn more about their motivation to participate in the annual competition, what they learned from the experience, what impact their prize-winning solution is making today, and what advice they have for the latest crop of winners.
 
-***NOTE:** The General Services Administration (GSA) is not affiliated in any way with this particular competition nor is this profile intended to be an endorsement of the winning company.*
+**\*NOTE:** The General Services Administration (GSA) is not affiliated in any way with this particular competition nor is this profile intended to be an endorsement of the winning company.*
 
 ## INTRODUCTION
 
@@ -100,5 +100,7 @@ Please, please, please take advantage of your mentors who can help you through t
 Keep going with your ideas and innovation. Though we’ve had success with the challenge and our SBIR, that’s only come after numerous papers getting rejected, grants going unfunded, and investors saying that the problem we are addressing is not important or can’t make money. If you believe in what you are doing, you really have no choice but to follow it. However, belief is never enough, it’s the hard work, late nights, and dedication of your team, and of course a bit of luck and circumstance created by that hard work that will get you closer to where you are trying to go. And when you get there, you just have to keep pushing.
 
 ## CLOSING
+
+**Is there anything else that you’d like to share that we haven’t asked you?**
 
 I just want to express my thanks to all the people at the NIH and specifically the NIDA SBIR program. They are the reason why our innovation is being translated into something that will directly impact people’s lives, and hopefully, help bring an end to this terrible opioid epidemic.
