@@ -17,7 +17,7 @@ partners-non-federal: America Makes, Carahsoft, Salesforce, Balance Innovation
   and InSilico Trials
 type-of-challenge:
   - Technology demonstration and hardware
-submission-start: "202/07/20 9:00 AM "
+submission-start: "2020/07/20 9:00 AM "
 submission-end: 2020/08/18 5:00 PM
 fiscal-year: FY20
 legal-authority: Agency specific prize authority
