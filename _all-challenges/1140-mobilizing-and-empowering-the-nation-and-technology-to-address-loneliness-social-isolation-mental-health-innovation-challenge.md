@@ -32,11 +32,11 @@ challenge-manager: "Gilbert.Thompson@acl.hhs.gov "
 challenge-manager-email: "Gilbert.Thompson@acl.hhs.gov "
 point-of-contact: "MENTALHealthChallenge@acl.hhs.gov "
 description: >-
-  This year, we've been forced to rethink the myriad of different ways we
-  connect, socialize and interact with each other. In the absence of
-  face-to-face time, can technology and online tools help us make, maintain, and
-  strengthen those connections so vital to everyday life? We believe they can.
-  That’s why we need your help. 
+  \*\*Important Update - An informational webinar has been added for July 30th -
+  see registration link in "Key Dates" section below.
+
+
+  This year, we've been forced to rethink the myriad of different ways we connect, socialize and interact with each other. In the absence of face-to-face time, can technology and online tools help us make, maintain, and strengthen those connections so vital to everyday life? We believe they can. That’s why we need your help. 
 
 
   Can you design an easy-to-use online directory of social engagement programs and technology tools and products that matches end-users who are socially isolated with customized suggestions, tailored to meet their specific needs, interests, and abilities, in one seamless end-to-end experience? Then we want to hear from you.
@@ -117,6 +117,8 @@ description: >-
   * Open June 23, 2020 through September 8, 2020.
 
   * Informational Webinar will be held on July 9, 2020.
+
+  * Additional Informational Webinar will be held on July 30, 2020; Register for the webinar [here](https://optum.webex.com/mw3300/mywebex/default.do?nomenu=true&siteurl=optum&service=6&rnd=0.2340960729154441&main_url=https%3A%2F%2Foptum.webex.com%2Fec3300%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Ddetail%26%26%26EMK%3D4832534b000000046a71413297acdf8c76d6d60dd7a6b8acab6433e5c8f27ae5c4329d1dc6066e20%26siteurl%3Doptum%26confViewID%3D166297728773533102%26encryptTicket%3DSDJTSwAAAAQ2pi9QM5FlFR8qVYNNFvD0nscme66yEp4k_dOb8y3W7g2%26).
 
   * Registration email to register for the competition are due ideally by July 15, 2020 and no later than September 8, 2020.
 
@@ -349,11 +351,22 @@ how-to-enter: >-
   2. To find a Veteran-Directed Care (VDC) Provider, go to <https://nwd.acl.gov/find-vdc-program.html>
 
   3. July 9, 2020: MENTAL Health Innovation Challenge Webinar Materials:
+
      * [Recording](https://optum.webex.com/recordingservice/sites/optum/recording/956008c6bbc84f638a707f67f25a25bd)
      * [PowerPoint Slides](<https://acl.gov/sites/default/files/programs/2020-07/Overview_MENTAL_Webinar_7.9.2020 slide deck.pdf>)
      * [Transcript](<https://acl.gov/sites/default/files/programs/2020-07/MENTAL_Challenge_ 7 9 2020 Webinar Transcript.pdf>)
   4. July 16, 2020: [Frequently Asked Questions Document](<https://acl.gov/sites/default/files/programs/2020-07/Frequent Asked Questions_7.16.2020_0.pdf>)
+
+  5. Educational Webinars on Using Technology to Address Social Isolation:
+
+     1. [June 26th webinar](https://acl.gov/MENTAL):  Addressing Social Isolation Through Technology Solutions
+     2. [July 9th webinar](https://acl.gov/MENTAL): Successfully Engaging Older Adults & Adults with Disabilities via Technology Strategies and Best Practices
+  6. [Register](https://optum.webex.com/mw3300/mywebex/default.do?nomenu=true&siteurl=optum&service=6&rnd=0.9602163394084726&main_url=https%3A%2F%2Foptum.webex.com%2Fec3300%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Ddetail%26%26%26EMK%3D4832534b000000046a71413297acdf8c76d6d60dd7a6b8acab6433e5c8f27ae5c4329d1dc6066e20%26siteurl%3Doptum%26confViewID%3D166297728773533102%26encryptTicket%3DSDJTSwAAAAQ2pi9QM5FlFR8qVYNNFvD0nscme66yEp4k_dOb8y3W7g2%26) for the webinar to be held on Tuesday, July 30th at 3:00pm ET.
+
+  7. Eldercare Locator is a public service provided by the U.S. Administration for Community living, Administration on Aging that connects people to services for older adults. Eldercare Locator can be navigated independently online or individuals can speak with a person via 800-677-1116.  The Eldercare Locator has an open API that can be accessed at this link:  <https://eldercare.acl.gov/Public/Site_Utilities/API_Reg/API_Registration.aspx>.
 ---
+#### \*\*Important Update - An informational webinar has been added for July 30th - see registration link in "Key Dates" section below.
+
 ### Description
 
 This year, we've been forced to rethink the myriad of different ways we connect, socialize and interact with each other. In the absence of face-to-face time, can technology and online tools help us make, maintain, and strengthen those connections so vital to everyday life? We believe they can. That’s why we need your help. 
@@ -408,6 +421,7 @@ Phase 1: Plan and Design a Social Engagement Clearinghouse and User Interface Pr
 
 * Open June 23, 2020 through September 8, 2020.
 * Informational Webinar will be held on July 9, 2020.
+* Additional Informational Webinar will be held on July 30, 2020; Register for the webinar [here](https://optum.webex.com/mw3300/mywebex/default.do?nomenu=true&siteurl=optum&service=6&rnd=0.2340960729154441&main_url=https%3A%2F%2Foptum.webex.com%2Fec3300%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Ddetail%26%26%26EMK%3D4832534b000000046a71413297acdf8c76d6d60dd7a6b8acab6433e5c8f27ae5c4329d1dc6066e20%26siteurl%3Doptum%26confViewID%3D166297728773533102%26encryptTicket%3DSDJTSwAAAAQ2pi9QM5FlFR8qVYNNFvD0nscme66yEp4k_dOb8y3W7g2%26).
 * Registration email to register for the competition are due ideally by July 15, 2020 and no later than September 8, 2020.
 * Submissions for Phase 1 are due September 8, 2020.
 * Judging for Phase 1 will occur from September 8, 2020 through September 29, 2020. 
@@ -579,7 +593,14 @@ The top two contenders will be notified December 15, 2020. The winner and runner
 1. [No Wrong Door System State/Territory Leads](https://acl.gov/sites/default/files/programs/2020-07/NWD_System_Contacts_7.13.20.pdf) (Updated July 13, 2020)
 2. To find a Veteran-Directed Care (VDC) Provider, go to <https://nwd.acl.gov/find-vdc-program.html>
 3. July 9, 2020: MENTAL Health Innovation Challenge Webinar Materials:
+
    * [Recording](https://optum.webex.com/recordingservice/sites/optum/recording/956008c6bbc84f638a707f67f25a25bd)
    * [PowerPoint Slides](<https://acl.gov/sites/default/files/programs/2020-07/Overview_MENTAL_Webinar_7.9.2020 slide deck.pdf>)
    * [Transcript](<https://acl.gov/sites/default/files/programs/2020-07/MENTAL_Challenge_ 7 9 2020 Webinar Transcript.pdf>)
 4. July 16, 2020: [Frequently Asked Questions Document](<https://acl.gov/sites/default/files/programs/2020-07/Frequent Asked Questions_7.16.2020_0.pdf>)
+5. Educational Webinars on Using Technology to Address Social Isolation:
+
+   1. [June 26th webinar](https://acl.gov/MENTAL):  Addressing Social Isolation Through Technology Solutions
+   2. [July 9th webinar](https://acl.gov/MENTAL): Successfully Engaging Older Adults & Adults with Disabilities via Technology Strategies and Best Practices
+6. [Register](https://optum.webex.com/mw3300/mywebex/default.do?nomenu=true&siteurl=optum&service=6&rnd=0.9602163394084726&main_url=https%3A%2F%2Foptum.webex.com%2Fec3300%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Ddetail%26%26%26EMK%3D4832534b000000046a71413297acdf8c76d6d60dd7a6b8acab6433e5c8f27ae5c4329d1dc6066e20%26siteurl%3Doptum%26confViewID%3D166297728773533102%26encryptTicket%3DSDJTSwAAAAQ2pi9QM5FlFR8qVYNNFvD0nscme66yEp4k_dOb8y3W7g2%26) for the webinar to be held on Tuesday, July 30th at 3:00pm ET.
+7. Eldercare Locator is a public service provided by the U.S. Administration for Community living, Administration on Aging that connects people to services for older adults. Eldercare Locator can be navigated independently online or individuals can speak with a person via 800-677-1116.  The Eldercare Locator has an open API that can be accessed at this link:  <https://eldercare.acl.gov/Public/Site_Utilities/API_Reg/API_Registration.aspx>.
