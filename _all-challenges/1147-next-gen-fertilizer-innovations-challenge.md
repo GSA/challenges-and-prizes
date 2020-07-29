@@ -32,10 +32,10 @@ description: >-
   #### Background
 
 
-  Nitrogen and phosphorus fertilizers facilitate the growth of crops, including corn, at yields that provide sustained global food production. However, fertilizers applied without consideration of the appropriate rate, timing, source, and method, can have harmful effects on the environment and human health. “Enhanced Efficiency Fertilizer” (EEF) is a term for new formulations that control fertilizer release or alter reactions that reduce nutrient losses to the environment. EEFs and other product technology innovations may be an important addition to a system of conservation practices that help reduce the impacts from row crop agriculture on the environment, while maintaining or increasing agricultural productivity and profitability.
+  Nitrogen and phosphorus fertilizers facilitate the growth of crops, including corn, at yields that provide sustained global food production. However, fertilizers applied without consideration of the appropriate rate, timing, source, and method, can have harmful effects on the environment and human health. “Enhanced Efficiency Fertilizer” (EEF) is a term for new formulations that control fertilizer release or alter reactions that reduce nutrient losses to the environment. EEFs and other next generation product technology innovations may be an important addition to a system of conservation practices that help reduce the impacts from row crop agriculture on the environment, while maintaining or increasing agricultural productivity and profitability.
 
 
-  #### The Challenges
+  #### Challenge Details
 
 
   To help mitigate these adverse effects, EPA is partnering with the U.S. Department of Agriculture (USDA) to launch the Joint EPA-USDA Partnership and Competition on Next Gen Fertilizers to Advance Agricultural Sustainability in the United States. Along with EPA and USDA, the competition is in collaboration with The Fertilizer Institute (TFI), the International Fertilizer Development Center (IFDC), The Nature Conservancy (TNC), and the National Corn Growers Association (NCGA).
@@ -44,24 +44,24 @@ description: >-
   This Partnership is being coordinated with input from stakeholders such as corn grower representatives, fertilizer companies, university researchers, and environmental and industry NGOs. This competition includes two challenges which aim to accelerate the development and use of existing and new product technologies that are affordable to reduce the environmental impacts of U.S. corn production. The results of the Partnership may ultimately be leveraged to improve production of other crops under a range of environmental conditions in the U.S. and abroad.
 
 
-  The Next Gen Fertilizer Innovation Challenge: This Challenge aims to identify concepts for novel technologies for fertilizers that can reduce the environmental effects from modern agriculture while maintaining or increasing crop yields. Submissions to the Next Gen Challenge are not near-market and may include technologies that are not traditional EEFs.
+  **The Next Gen Fertilizer Innovation Challenge:** This Challenge aims to identify concepts for novel technologies for fertilizers and other product technology innovations that can reduce the environmental effects from modern agriculture while maintaining or increasing crop yields. Submissions to the Next Gen Fertilizer Innovation Challenge may include technologies that are not currently on the market or technologies that are not traditional EEFs and not in commercial use as a fertilizer.
 
 
   #### Key Dates
 
 
-  * Informational Webinar*: \[ insert day and time]
+  * Challenge Launch: 2:00 PM ET August 4, 2020
 
-  * Registration Deadline\*\*: 11:59 PM ET, October 2, 2020 
+  * Informational Webinar: \[ insert day and time]
 
-  * Submission End: 11:59 PM ET October 30, 2020 
+  * [Registration Deadline](https://innocentive.wazoku.com/#/login?redirect_to=%2F%23%2Fhome-page)*: 11:59 PM ET, November 6, 2020 
+
+  * Submission End: 11:59 PM ET November 6, 2020 
 
   * Winners Announced: February 2021
 
 
-  *Signing up for the informational webinar does NOT register you for the Challenge
-
-  **You must be registered via Innocentive by October 2, 2020 to participate in the Next Gen Innovation Challenge.
+  \*Register via Innocentive 
 
 
   ### Prizes
@@ -255,7 +255,7 @@ This Partnership is being coordinated with input from stakeholders such as corn 
 * Submission End: 11:59 PM ET November 6, 2020 
 * Winners Announced: February 2021
 
-\*\*Register via Innocentive 
+\*Register via Innocentive 
 
 ### Prizes
 
