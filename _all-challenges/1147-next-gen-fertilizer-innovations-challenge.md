@@ -9,24 +9,25 @@ sidenav: true
 card-image: /assets/netlify-uploads/next-gen-fertilizer-challenges.png
 agency-logo: /assets/netlify-uploads/256px-Environmental_Protection_Agency_logo.png
 tagline: "This Challenge aims to identify concepts for novel technologies for
-  fertilizers that can reduce the environmental effects from modern agriculture
-  while maintaining or increasing crop yields. "
+  fertilizers and other product technology innovations that can reduce the
+  environmental effects from modern agriculture while maintaining or increasing
+  crop yields. "
 agency: Environmental Protection Agency
 partner-agencies-federal: U.S. Department of Agriculture
 partners-non-federal: The Fertilizer Institute, International Fertilizer
-  Development Center, The Nature Conservancy, The National Corn Growers
-  Association
+  Development Center, The National Corn Growers Association, The Nature
+  Conservancy
 total-prize-offered-cash: $40,000
 type-of-challenge:
   - Ideas
   - Scientific
 submission-start: 2020/08/04 2:00 PM
-submission-end: 2020/10/30 11:59 PM
+submission-end: 2020/11/06 11:59 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Christopher Clark
 challenge-manager-email: clark.christopher@epa.gov
-point-of-contact: Submission_NextGenFertilizerChallenges@epa.gov
+point-of-contact: "Question_NextGenFertilizerChallenges@epa.gov "
 description: >-
   #### Background
 
@@ -94,12 +95,36 @@ prizes: >-
 
   Finalists will be invited to present their technologies at a showcasing event (date and location to be determined). Promising submissions may also be advanced to greenhouse or field testing at the conclusion of the competition. Solvers should make it clear if they have the interest and ability for subsequent development phases and would be willing to consider future collaborations and/or subsequent competitions with support of government staff and facilities.
 rules: >-
-  Rules and additional challenge information as well as the submission page are
-  found at the InnoCentive challenge website:
-  <https://innocentive.wazoku.com/#/challenge/4380f517f84f49b78ad3dab8b4657e6e>
+  
+
+  1. **Eligibility:**
+
+     * Participants must register via [Innocentive](<1. * https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e>) no later than 11:59 PM ET October 2, 2020.
+     * Registered participants can submit solutions via [Innocentive](<1. * https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e>) no later than 11:59 PM ET on November 6,2020.  Late submissions will not be considered.
+     * Eligible: Individuals, or teams from private companies, academic institutions, non-governmental organizations, or independent research or technological institutes. The competition is open to both US citizens/organizations and foreign citizens/organizations with significant US partnerships.
+     * Not eligible:  U.S. or foreign government organizations.
+     * Eligible: Individuals or organizations that receive funding from U.S. or foreign government organizations are eligible to compete. However, funds from U.S. or foreign government organizations should not be used to directly fund the development of a solution requested under this Challenge.
+     * Not eligible: Individuals involved in development of award selection criteria are not eligible.
+     * Participants may submit multiple solutions. However, solutions that use the same or similar ingredient technology used at multiple concentrations or inclusion rates should be submitted together. If different ingredients are used to create multiple technologies, multiple solutions may be submitted.
+  2. **Required Information:**
+
+     * Technical point of contact for application (name, position, title, affiliation, contact phone number; contact e-mail address). This is the individual who will manage communications and coordination between the challenge sponsors (e.g., US EPA and partners) and the solver(s).
+     * Listing of team members (including affiliations) and partner organizations (as appropriate).
+     * Submissions should be in PDF format (10 pages or less excluding references, 8.5 x 11 inch pages, 12-point Times New Roman font or greater, single spaced, and one-inch margins). The submission should include the following headings and content:
+
+       1. Executive Summary: Description e of the proposed solution (500 words);
+       2. Detailed Description of the Proposed Solution: This should include background on the EEF or novel technology, including any physical, chemical, biological, ecological, or biogeochemical properties in the soil under various climatic and soil moisture conditions. This should also include a description of how the solution may decompose in the environment and into what chemicals. 
+       3. Environmental Performance: A quantitative summary (including any relevant graphs or tables) of any published or unpublished results of environmental performance, including comparisons of rates of loss relative to conventional fertilizer for N (e.g. leaching, runoff, ammonia volatilization, nitrous oxide emissions), and P (e.g. leaching, runoff) if relevant;
+       4. Agronomic Performance: A  summary (including any relevant graphs or tables) of any published or unpublished results of agronomic performance, including yields under various conditions, rates of growth, kernel production, and net cost (e.g. return on investment, ROI) relative to conventional fertilizer practices;
+       5. Compatibility: Describe how your technology is or may be integrated into existing farming machinery and practices (e.g. transport, storage, application) to the level of specificity possible given the degree of technological maturity. 
+       6. Confidential Business Information (CBI): Clear statements on any CBI to be withheld from the submission, or included in the submission but to be withheld from either the judging panel or the public;
+       7. Trajectory to market: Describe what resources, steps, methodology, and, timeframe would be needed to bring your idea to fruition (i.e., from concept to design to prototype to pilot-scale system to commercially viable technology).
+
+     Solvers are not required to give up any of their intellectual property (“IP”) rights to the Seekers to be eligible to receive an award.
+  3. Solvers must agree to the terms and conditions outlined below.  Submission of a solution for the Challenge indicates the agreement of the Solver, and all team members, with the terms and conditions.
 
 
-  **Terms and Conditions:**
+  #### Terms and Conditions
 
 
   * Solvers will not receive compensation for resources or time invested in addressing the challenge. Only the winners of the Next Generation Fertilizer Challenge will receive a cash award.
@@ -117,7 +142,10 @@ rules: >-
   * Solvers that do not submit their proposal by the submission deadline will be automatically removed from the competition and subject to the same terms as if they had forfeited in writing. The submission deadline may be extended at the discretion of the sponsors, but any extension will apply to all registered solvers.
 
 
-  **Non-Endorsement:** EPA and EPA officials do not endorse any product, service or enterprise that may appear in submitted videos. Furthermore, by recognizing winning videos, EPA is not endorsing products, services or enterprises that may appear in those videos.
+  **Non-Endorsement:** 
+
+
+  EPA and EPA officials do not endorse any product, service or enterprise that may appear in submitted videos. Furthermore, by recognizing winning videos, EPA is not endorsing products, services or enterprises that may appear in those videos.
 
 
   **Funding Restrictions:**
@@ -128,33 +156,38 @@ rules: >-
   * All prize awards are subject to EPA verification of the winners’ identity, eligibility and participation in the Challenge. Awards will be paid using electronic funds transfer and may be subject to federal income taxes. EPA will comply with the International Revenue Service (IRS) withholding and reporting requirements, where applicable.
 
 
-  **Plagiarism:** EPA has a no-tolerance policy for plagiarism. Any applicant whose winning work is determined to be plagiarized in whole or in part will forfeit any awards.
+  **Plagiarism:** 
 
 
-  **Assistance Waiver:** By entering this Challenge, participant agrees to assume any and all risks and waive claims against the federal government and its related entities (except in the case of willful misconduct), for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from their participation in the Challenge, whether the injury, death, damage, or loss arises through negligence or otherwise.
+  EPA has a no-tolerance policy for plagiarism. Any applicant whose winning work is determined to be plagiarized in whole or in part will forfeit any awards.
 
 
-  **Disclaimer:** EPA reserves the right to disqualify and or clarify any submittal.
+  **Assistance Waiver:** 
+
+
+  By entering this Challenge, participant agrees to assume any and all risks and waive claims against the federal government and its related entities (except in the case of willful misconduct), for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from their participation in the Challenge, whether the injury, death, damage, or loss arises through negligence or otherwise.
+
+
+  **Disclaimer:** 
+
+
+  EPA reserves the right to disqualify and or clarify any submittal.
 judging: >-
-  After the Challenge submission deadline, a Judging Panel will evaluate the
-  submissions and make a recommendation with regard to the winning solution(s).
-  The Judging Panel may be composed of federal and/or non-federal scientists,
-  engineers, and other technical experts, including subject matter experts from
-  the listed collaborators for this Challenge. All persons or entities that
-  submit a proposal will be notified as to the status of their submission and a
-  high level evaluation. Decisions by the Seekers cannot be contested.
+  
+
+  After the Challenge submission deadline, a Judging Panel will evaluate the submissions and make a recommendation with regard to the winning solution(s). The Judging Panel may be composed of federal and/or non-federal scientists, engineers, and other technical experts, including subject matter experts from the listed collaborators for this Challenge. All persons or entities that submit a proposal will be notified as to the status of their submission and a high level evaluation. Decisions by the Seekers cannot be contested.
 
 
   **Judging Criteria**
 
 
-  The Challenge seeks to identify enhanced efficiency fertilizers (EEFs) and other innovative amendment or product-based technologies aimed at enhancing nutrient use efficiency to reduce the environmental effects from row crop agriculture while maintaining or increasing farmer productivity and profitability. Potential solutions include but need not be constrained to traditional soil amendments like EEFs, and may include a range of other approaches.  
+  The Challenge seeks to identify next-gen technologies, such as enhanced efficiency fertilizers (EEFs) and other innovative amendment or product-based technologies aimed at enhancing nutrient use efficiency to reduce the environmental effects from row crop agriculture while maintaining or increasing farmer productivity and profitability. Potential solutions include but need not be constrained to traditional soil amendments like EEFs, and may include a range of other approaches.  
 
 
-  Any proposed solution must address the following **Technical Requirements** to be considered for a full award. Concepts that meet some but not all of the criteria will be eligible to compete for a partial award.
+  Any proposed solution must address the following **Technical Requirements** to be considered for a full award. Solutions that meet some but not all of the criteria may be eligible to compete for a partial award.
 
 
-  **Must have:**
+  **Solution Must Have:**
 
 
   1. Must improve environmental performance by reducing losses of N (and/or P) to the environment through any combination of reduced NH3 volatilization, N2O emission, N runoff or leaching, P runoff or P leaching, larger reductions will receive high ratings;
@@ -163,7 +196,7 @@ judging: >-
 
   3. Must be applicable for use on corn in the United States;
 
-  4. Must not be already on the market or near-market;
+  4. Must be an EEF or technology not currently on the market or near-market, or a technology concept that is not a traditional EEF and not in commercial use as a fertilizer;
 
   5. Must ultimately be compatible with current agricultural machinery and practices used for common large scale production such as planters, fertilizer applicators or tillage equipment.
 
@@ -195,66 +228,34 @@ judging: >-
 
   6. Has good environmental and agronomic performance under a range of environmental conditions;
 
-  7. Is potentially applicable to other crops and countries. 
-
-
-  **Project Deliverables:**
-
-
-  The submitted proposal must be 10 pages or less (excluding references), 8.5 x 11 inch page, 12 point Times New Roman font or greater, single spaced, and one-inch margins. The proposal should include the following headings and content:
-
-
-  1. Executive Summary: Overall description of the proposed solution (500 words);
-
-  2. Detailed Description of the Proposed Solution: This would include background on the approach (which need not be a traditional EEF), including any physical, chemical, biological, ecological, or biogeochemical properties in the soil under various climatic and soil moisture conditions. This should also include a description of how the solution may decompose in the environment and into what chemicals. 
-
-  3. Environmental performance: A quantitative summary (including any relevant graphs or tables) of any published or unpublished results of environmental performance, including comparisons of rates of loss relative to conventional fertilizer for N (e.g. leaching, runoff, ammonia volatilization, nitrous oxide emissions), and P (e.g. leaching, runoff) if relevant;
-
-  4. Agronomic performance: A quantitative summary (including any relevant graphs or tables) of any published or unpublished results of agronomic performance, including yields under various conditions, rates of growth, kernel production, and net cost (e.g. return on investment, ROI) relative to conventional fertilizer practices;
-
-  5. Compatibility. Describe how your technology may be integrated into existing farming machinery and practices (e.g. transport, storage, application) to the level of specificity possible given the degree of technological maturity. 
-
-  6. Confidential Business Information (CBI): Clear statements on any CBI to be withheld from the submission, or included in the submission but to be withheld from either the judging panel or the public;
-
-  7. Trajectory to market: Describe what resources, steps, methodology, and, timeframe would be needed to bring your idea to fruition (i.e., from concept to design to prototype to pilot-scale system to commercially viable technology).
-
-
-  The proposal should not include any personal identifying information (name, username, company, address, phone, email, personal website, resume, etc.)
-
-
-  Solvers are not required to give up any of their intellectual property (“IP”) rights to the Seekers to be eligible to receive an award. 
-
-
-  Submissions to this Challenge must be received by 11:59 PM (US Eastern Time) on Month Day, 2020. 
-
-  Late submissions will not be considered.
-how-to-enter: "To enter for the Next Gen Fertilizer Innovations Challenge,
-  please follow the link here to InnoCentive and follow the instructions:
+  7. Is potentially applicable to other crops and countries.
+how-to-enter: "To enter the Next Gen Fertilizer Innovations Challenge, please
+  follow the link here to InnoCentive and follow the instructions:
   <https://innocentive.wazoku.com/#/challenge/4380f517f84f49b78ad3dab8b4657e6e>"
 ---
 ### Description
 
 #### Background
 
-Nitrogen and phosphorus fertilizers facilitate the growth of crops, including corn, at yields that provide sustained global food production. However, fertilizers applied without consideration of the appropriate rate, timing, source, and method, can have harmful effects on the environment and human health. “Enhanced Efficiency Fertilizer” (EEF) is a term for new formulations that control fertilizer release or alter reactions that reduce nutrient losses to the environment. EEFs and other product technology innovations may be an important addition to a system of conservation practices that help reduce the impacts from row crop agriculture on the environment, while maintaining or increasing agricultural productivity and profitability.
+Nitrogen and phosphorus fertilizers facilitate the growth of crops, including corn, at yields that provide sustained global food production. However, fertilizers applied without consideration of the appropriate rate, timing, source, and method, can have harmful effects on the environment and human health. “Enhanced Efficiency Fertilizer” (EEF) is a term for new formulations that control fertilizer release or alter reactions that reduce nutrient losses to the environment. EEFs and other next generation product technology innovations may be an important addition to a system of conservation practices that help reduce the impacts from row crop agriculture on the environment, while maintaining or increasing agricultural productivity and profitability.
 
-#### The Challenges
+#### Challenge Details
 
 To help mitigate these adverse effects, EPA is partnering with the U.S. Department of Agriculture (USDA) to launch the Joint EPA-USDA Partnership and Competition on Next Gen Fertilizers to Advance Agricultural Sustainability in the United States. Along with EPA and USDA, the competition is in collaboration with The Fertilizer Institute (TFI), the International Fertilizer Development Center (IFDC), The Nature Conservancy (TNC), and the National Corn Growers Association (NCGA).
 
 This Partnership is being coordinated with input from stakeholders such as corn grower representatives, fertilizer companies, university researchers, and environmental and industry NGOs. This competition includes two challenges which aim to accelerate the development and use of existing and new product technologies that are affordable to reduce the environmental impacts of U.S. corn production. The results of the Partnership may ultimately be leveraged to improve production of other crops under a range of environmental conditions in the U.S. and abroad.
 
-The Next Gen Fertilizer Innovation Challenge: This Challenge aims to identify concepts for novel technologies for fertilizers that can reduce the environmental effects from modern agriculture while maintaining or increasing crop yields. Submissions to the Next Gen Challenge are not near-market and may include technologies that are not traditional EEFs.
+**The Next Gen Fertilizer Innovation Challenge:** This Challenge aims to identify concepts for novel technologies for fertilizers and other product technology innovations that can reduce the environmental effects from modern agriculture while maintaining or increasing crop yields. Submissions to the Next Gen Fertilizer Innovation Challenge may include technologies that are not currently on the market or technologies that are not traditional EEFs and not in commercial use as a fertilizer.
 
 #### Key Dates
 
-* Informational Webinar*: \[ insert day and time]
-* Registration Deadline\*\*: 11:59 PM ET, October 2, 2020 
-* Submission End: 11:59 PM ET October 30, 2020 
+* Challenge Launch: 2:00 PM ET August 4, 2020
+* Informational Webinar: \[ insert day and time]
+* [Registration Deadline](https://innocentive.wazoku.com/#/login?redirect_to=%2F%23%2Fhome-page)*: 11:59 PM ET, November 6, 2020 
+* Submission End: 11:59 PM ET November 6, 2020 
 * Winners Announced: February 2021
 
-*Signing up for the informational webinar does NOT register you for the Challenge
-**You must be registered via Innocentive by October 2, 2020 to participate in the Next Gen Innovation Challenge
+\*\*Register via Innocentive 
 
 ### Prizes
 
@@ -270,9 +271,33 @@ Finalists will be invited to present their technologies at a showcasing event (d
 
 ### Rules
 
-Rules and additional challenge information as well as the submission page are found at the InnoCentive challenge website: <https://innocentive.wazoku.com/#/challenge/4380f517f84f49b78ad3dab8b4657e6e>
+1. **Eligibility:**
 
-**Terms and Conditions:**
+   * Participants must register via [Innocentive](<1. * https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e>) no later than 11:59 PM ET October 2, 2020.
+   * Registered participants can submit solutions via [Innocentive](<1. * https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e>) no later than 11:59 PM ET on November 6,2020.  Late submissions will not be considered.
+   * Eligible: Individuals, or teams from private companies, academic institutions, non-governmental organizations, or independent research or technological institutes. The competition is open to both US citizens/organizations and foreign citizens/organizations with significant US partnerships.
+   * Not eligible:  U.S. or foreign government organizations.
+   * Eligible: Individuals or organizations that receive funding from U.S. or foreign government organizations are eligible to compete. However, funds from U.S. or foreign government organizations should not be used to directly fund the development of a solution requested under this Challenge.
+   * Not eligible: Individuals involved in development of award selection criteria are not eligible.
+   * Participants may submit multiple solutions. However, solutions that use the same or similar ingredient technology used at multiple concentrations or inclusion rates should be submitted together. If different ingredients are used to create multiple technologies, multiple solutions may be submitted.
+2. **Required Information:**
+
+   * Technical point of contact for application (name, position, title, affiliation, contact phone number; contact e-mail address). This is the individual who will manage communications and coordination between the challenge sponsors (e.g., US EPA and partners) and the solver(s).
+   * Listing of team members (including affiliations) and partner organizations (as appropriate).
+   * Submissions should be in PDF format (10 pages or less excluding references, 8.5 x 11 inch pages, 12-point Times New Roman font or greater, single spaced, and one-inch margins). The submission should include the following headings and content:
+
+     1. Executive Summary: Description e of the proposed solution (500 words);
+     2. Detailed Description of the Proposed Solution: This should include background on the EEF or novel technology, including any physical, chemical, biological, ecological, or biogeochemical properties in the soil under various climatic and soil moisture conditions. This should also include a description of how the solution may decompose in the environment and into what chemicals. 
+     3. Environmental Performance: A quantitative summary (including any relevant graphs or tables) of any published or unpublished results of environmental performance, including comparisons of rates of loss relative to conventional fertilizer for N (e.g. leaching, runoff, ammonia volatilization, nitrous oxide emissions), and P (e.g. leaching, runoff) if relevant;
+     4. Agronomic Performance: A  summary (including any relevant graphs or tables) of any published or unpublished results of agronomic performance, including yields under various conditions, rates of growth, kernel production, and net cost (e.g. return on investment, ROI) relative to conventional fertilizer practices;
+     5. Compatibility: Describe how your technology is or may be integrated into existing farming machinery and practices (e.g. transport, storage, application) to the level of specificity possible given the degree of technological maturity. 
+     6. Confidential Business Information (CBI): Clear statements on any CBI to be withheld from the submission, or included in the submission but to be withheld from either the judging panel or the public;
+     7. Trajectory to market: Describe what resources, steps, methodology, and, timeframe would be needed to bring your idea to fruition (i.e., from concept to design to prototype to pilot-scale system to commercially viable technology).
+
+   Solvers are not required to give up any of their intellectual property (“IP”) rights to the Seekers to be eligible to receive an award.
+3. Solvers must agree to the terms and conditions outlined below.  Submission of a solution for the Challenge indicates the agreement of the Solver, and all team members, with the terms and conditions.
+
+#### Terms and Conditions
 
 * Solvers will not receive compensation for resources or time invested in addressing the challenge. Only the winners of the Next Generation Fertilizer Challenge will receive a cash award.
 * Solvers retain their rights to all intellectual property (e.g., details and design of their technology) that may be disclosed to the sponsors over the course of the challenge. Technical details and designs will not be disclosed or published without permission from the technical point of contact named in the registration.
@@ -282,18 +307,26 @@ Rules and additional challenge information as well as the submission page are fo
 * Registration for the challenge does not confer any obligation to deliver results.
 * Solvers that do not submit their proposal by the submission deadline will be automatically removed from the competition and subject to the same terms as if they had forfeited in writing. The submission deadline may be extended at the discretion of the sponsors, but any extension will apply to all registered solvers.
 
-**Non-Endorsement:** EPA and EPA officials do not endorse any product, service or enterprise that may appear in submitted videos. Furthermore, by recognizing winning videos, EPA is not endorsing products, services or enterprises that may appear in those videos.
+**Non-Endorsement:** 
+
+EPA and EPA officials do not endorse any product, service or enterprise that may appear in submitted videos. Furthermore, by recognizing winning videos, EPA is not endorsing products, services or enterprises that may appear in those videos.
 
 **Funding Restrictions:**
 
 * Challenge-solvers cannot use funding from the federal government (either through grants or contracts) to compete in the Challenge.
 * All prize awards are subject to EPA verification of the winners’ identity, eligibility and participation in the Challenge. Awards will be paid using electronic funds transfer and may be subject to federal income taxes. EPA will comply with the International Revenue Service (IRS) withholding and reporting requirements, where applicable.
 
-**Plagiarism:** EPA has a no-tolerance policy for plagiarism. Any applicant whose winning work is determined to be plagiarized in whole or in part will forfeit any awards.
+**Plagiarism:** 
 
-**Assistance Waiver:** By entering this Challenge, participant agrees to assume any and all risks and waive claims against the federal government and its related entities (except in the case of willful misconduct), for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from their participation in the Challenge, whether the injury, death, damage, or loss arises through negligence or otherwise.
+EPA has a no-tolerance policy for plagiarism. Any applicant whose winning work is determined to be plagiarized in whole or in part will forfeit any awards.
 
-**Disclaimer:** EPA reserves the right to disqualify and or clarify any submittal.
+**Assistance Waiver:** 
+
+By entering this Challenge, participant agrees to assume any and all risks and waive claims against the federal government and its related entities (except in the case of willful misconduct), for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from their participation in the Challenge, whether the injury, death, damage, or loss arises through negligence or otherwise.
+
+**Disclaimer:** 
+
+EPA reserves the right to disqualify and or clarify any submittal.
 
 ### Judging
 
@@ -301,16 +334,16 @@ After the Challenge submission deadline, a Judging Panel will evaluate the submi
 
 **Judging Criteria**
 
-The Challenge seeks to identify enhanced efficiency fertilizers (EEFs) and other innovative amendment or product-based technologies aimed at enhancing nutrient use efficiency to reduce the environmental effects from row crop agriculture while maintaining or increasing farmer productivity and profitability. Potential solutions include but need not be constrained to traditional soil amendments like EEFs, and may include a range of other approaches.  
+The Challenge seeks to identify next-gen technologies, such as enhanced efficiency fertilizers (EEFs) and other innovative amendment or product-based technologies aimed at enhancing nutrient use efficiency to reduce the environmental effects from row crop agriculture while maintaining or increasing farmer productivity and profitability. Potential solutions include but need not be constrained to traditional soil amendments like EEFs, and may include a range of other approaches.  
 
-Any proposed solution must address the following **Technical Requirements** to be considered for a full award. Concepts that meet some but not all of the criteria will be eligible to compete for a partial award.
+Any proposed solution must address the following **Technical Requirements** to be considered for a full award. Solutions that meet some but not all of the criteria may be eligible to compete for a partial award.
 
-**Must have:**
+**Solution Must Have:**
 
 1. Must improve environmental performance by reducing losses of N (and/or P) to the environment through any combination of reduced NH3 volatilization, N2O emission, N runoff or leaching, P runoff or P leaching, larger reductions will receive high ratings;
 2. Must improve agronomic performance by not reducing yield or increasing net farm costs in terms of return on investment (ROI), larger improvements will receive higher ratings;
 3. Must be applicable for use on corn in the United States;
-4. Must not be already on the market or near-market;
+4. Must be an EEF or technology not currently on the market or near-market, or a technology concept that is not a traditional EEF and not in commercial use as a fertilizer;
 5. Must ultimately be compatible with current agricultural machinery and practices used for common large scale production such as planters, fertilizer applicators or tillage equipment.
 
 **Nice to have:**
@@ -330,25 +363,6 @@ Any proposed solution must address the following **Technical Requirements** to b
 6. Has good environmental and agronomic performance under a range of environmental conditions;
 7. Is potentially applicable to other crops and countries. 
 
-**Project Deliverables:**
-
-The submitted proposal must be 10 pages or less (excluding references), 8.5 x 11 inch page, 12 point Times New Roman font or greater, single spaced, and one-inch margins. The proposal should include the following headings and content:
-
-1. Executive Summary: Overall description of the proposed solution (500 words);
-2. Detailed Description of the Proposed Solution: This would include background on the approach (which need not be a traditional EEF), including any physical, chemical, biological, ecological, or biogeochemical properties in the soil under various climatic and soil moisture conditions. This should also include a description of how the solution may decompose in the environment and into what chemicals. 
-3. Environmental performance: A quantitative summary (including any relevant graphs or tables) of any published or unpublished results of environmental performance, including comparisons of rates of loss relative to conventional fertilizer for N (e.g. leaching, runoff, ammonia volatilization, nitrous oxide emissions), and P (e.g. leaching, runoff) if relevant;
-4. Agronomic performance: A quantitative summary (including any relevant graphs or tables) of any published or unpublished results of agronomic performance, including yields under various conditions, rates of growth, kernel production, and net cost (e.g. return on investment, ROI) relative to conventional fertilizer practices;
-5. Compatibility. Describe how your technology may be integrated into existing farming machinery and practices (e.g. transport, storage, application) to the level of specificity possible given the degree of technological maturity. 
-6. Confidential Business Information (CBI): Clear statements on any CBI to be withheld from the submission, or included in the submission but to be withheld from either the judging panel or the public;
-7. Trajectory to market: Describe what resources, steps, methodology, and, timeframe would be needed to bring your idea to fruition (i.e., from concept to design to prototype to pilot-scale system to commercially viable technology).
-
-The proposal should not include any personal identifying information (name, username, company, address, phone, email, personal website, resume, etc.)
-
-Solvers are not required to give up any of their intellectual property (“IP”) rights to the Seekers to be eligible to receive an award. 
-
-Submissions to this Challenge must be received by 11:59 PM (US Eastern Time) on Month Day, 2020. 
-Late submissions will not be considered.
-
 ### How to Enter
 
-To enter for the Next Gen Fertilizer Innovations Challenge, please follow the link here to InnoCentive and follow the instructions: <https://innocentive.wazoku.com/#/challenge/4380f517f84f49b78ad3dab8b4657e6e>
+To enter the Next Gen Fertilizer Innovations Challenge, please follow the link here to InnoCentive and follow the instructions: <https://innocentive.wazoku.com/#/challenge/4380f517f84f49b78ad3dab8b4657e6e>
