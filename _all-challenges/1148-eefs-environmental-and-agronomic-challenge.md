@@ -6,7 +6,7 @@ permalink: /challenge/eefs-environmental-agronomic-challenge/
 challenge-id: "1148"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/next-gen-fertilizer-challenges.png
+card-image: /assets/netlify-uploads/next-gen-fertilizer-challenges_341x160.png
 agency-logo: /assets/netlify-uploads/256px-Environmental_Protection_Agency_logo.png
 tagline: This Challenge aims to identify existing EEFs currently on or
   near-market that meet or exceed certain environmental and agro-economic
