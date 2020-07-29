@@ -63,7 +63,8 @@ description: >-
 
   \*Register via Innocentive
 prizes: >-
-  The Seekers may award a total prize award pool of $40,000.
+  https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e<https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e>The
+  Seekers may award a total prize award pool of $40,000.
 
 
   **Prize Breakdown**
@@ -77,12 +78,10 @@ prizes: >-
 
   Finalists will be invited to present their technologies at a showcasing event (date and location to be determined). Promising submissions may also be advanced to greenhouse or field testing at the conclusion of the competition. Solvers should make it clear if they have the interest and ability for subsequent development phases and would be willing to consider future collaborations and/or subsequent competitions with support of government staff and facilities.
 rules: >-
-  
-
   1. **Eligibility:**
 
-     * Participants must register via [Innocentive](<1. * https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e>) no later than 11:59 PM ET October 2, 2020.
-     * Registered participants can submit solutions via [Innocentive](<1. * https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e>) no later than 11:59 PM ET on November 6,2020.  Late submissions will not be considered.
+     * Participants must register via Innocentive no later than 11:59 PM ET October 2, 2020.
+     * Registered participants can submit solutions via [](<1. * https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e>)Innocentive no later than 11:59 PM ET on November 6,2020.  Late submissions will not be considered.
      * Eligible: Individuals, or teams from private companies, academic institutions, non-governmental organizations, or independent research or technological institutes. The competition is open to both US citizens/organizations and foreign citizens/organizations with significant US partnerships.
      * Not eligible:  U.S. or foreign government organizations.
      * Eligible: Individuals or organizations that receive funding from U.S. or foreign government organizations are eligible to compete. However, funds from U.S. or foreign government organizations should not be used to directly fund the development of a solution requested under this Challenge.
