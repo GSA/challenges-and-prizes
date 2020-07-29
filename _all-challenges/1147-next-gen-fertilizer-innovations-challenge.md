@@ -154,7 +154,8 @@ rules: >-
 
   EPA reserves the right to disqualify and or clarify any submittal.
 judging: >-
-  
+  **Judging Panel**
+
 
   After the Challenge submission deadline, a Judging Panel will evaluate the submissions and make a recommendation with regard to the winning solution(s). The Judging Panel may be composed of federal and/or non-federal scientists, engineers, and other technical experts, including subject matter experts from the listed collaborators for this Challenge. All persons or entities that submit a proposal will be notified as to the status of their submission and a high level evaluation. Decisions by the Seekers cannot be contested.
 
@@ -310,6 +311,8 @@ By entering this Challenge, participant agrees to assume any and all risks and w
 EPA reserves the right to disqualify and or clarify any submittal.
 
 ### Judging
+
+**Judging Panel**
 
 After the Challenge submission deadline, a Judging Panel will evaluate the submissions and make a recommendation with regard to the winning solution(s). The Judging Panel may be composed of federal and/or non-federal scientists, engineers, and other technical experts, including subject matter experts from the listed collaborators for this Challenge. All persons or entities that submit a proposal will be notified as to the status of their submission and a high level evaluation. Decisions by the Seekers cannot be contested.
 
