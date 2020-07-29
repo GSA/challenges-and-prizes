@@ -13,12 +13,15 @@ tagline: This Challenge aims to identify existing EEFs currently on or
   criteria.
 agency: Environmental Protection Agency
 partner-agencies-federal: U.S. Department of Agriculture
+partners-non-federal: The Fertilizer Institute, International Fertilizer
+  Development Center, The Nature Conservancy, The National Corn Growers
+  Association
 type-of-challenge:
   - Ideas
   - Scientific
 submission-start: 2020/08/04 2:00 PM
-submission-end: 2020/09/30 11:59 PM
-fiscal-year: FY20
+submission-end: 2020/10/09 11:59 PM
+fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Christopher Clark
 challenge-manager-email: clark.christopher@epa.gov
@@ -30,7 +33,7 @@ description: >-
   Nitrogen and phosphorus fertilizers facilitate the growth of crops, including corn, at yields that provide sustained global food production. However, fertilizers applied without consideration of the appropriate rate, timing, source, and method, can have harmful effects on the environment and human health. “Enhanced Efficiency Fertilizer” (EEF) is a term for new formulations that control fertilizer release or alter reactions that reduce nutrient losses to the environment. EEFs and other product technology innovations may be an important addition to a system of conservation practices that help reduce the impacts from row crop agriculture on the environment, while maintaining or increasing agricultural productivity and profitability.
 
 
-  #### The Challenges
+  #### Challenge Details
 
 
   To help mitigate these adverse effects, EPA is partnering with the U.S. Department of Agriculture (USDA) to launch the Joint EPA-USDA Partnership and Competition on Next Gen Fertilizers to Advance Agricultural Sustainability in the United States. Along with EPA and USDA, the competition is in collaboration with The Fertilizer Institute (TFI), the International Fertilizer Development Center (IFDC), The Nature Conservancy (TNC), and the National Corn Growers Association (NCGA).
@@ -39,64 +42,68 @@ description: >-
   This Partnership is being coordinated with input from stakeholders such as corn grower representatives, fertilizer companies, university researchers, and environmental and industry NGOs. This competition includes two challenges which aim to accelerate the development and use of existing and new product technologies that are affordable to reduce the environmental impacts of U.S. corn production. The results of the Partnership may ultimately be leveraged to improve production of other crops under a range of environmental conditions in the U.S. and abroad.
 
 
-  #### EEFs: Environmental and Agronomic Challenge
+  #### EEFs: Environmental and Agronomic Challenge: 
 
 
-  This Challenge aims to identify existing EEFs currently on or near-market that meet or exceed certain environmental and agro-economic criteria. The Challenge has 3 stages:
+  This Challenge aims to identify existing EEFs currently on or near-market that meet or exceed certain environmental and agro-economic criteria. The Challenge is planned to have 3 stages:
 
 
   Stage 1: Potential solvers will submit information describing the EEF and how it is anticipated to meet the requirements. Submissions will be reviewed by an expert judging panel. 
 
 
-  Stage 2: A subset of Stage 1 solvers will be invited to compete in greenhouse testing at the IFDC.   
+  Stage 2: A subset of Stage 1 solvers will be invited to submit materials in order to compete in greenhouse testing at the IFDC in Alabama.   
 
 
-  Stage 3:  Planning is underway for potential field trials following Stage 2 greenhouse testing.
+  Stage 3:  Potential for field trials following Stage 2 greenhouse testing, location to be determined.
 
 
-  #### Important Dates:
+  #### Key Dates:
 
+
+  * Challenge Launch: 2:00 PM ET August 4, 2020
 
   * Informational Webinar: \[insert day and time]
 
-  * Submission End: 11:59 PM ET September 30, 2020 
+  * Submission End: 11:59 PM ET October 9, 2020 
 
   * Winners Announced: December 2020
-prizes: "Winners of the EEFs: Environmental and Agronomic Challenge will receive
-  scientific evaluation and recognition from EPA, USDA, and other partners and
-  participants; advancement to a greenhouse trial (Stage 2); and, pending
-  greenhouse trial results and available funds, advancement to field trials
-  (Stage 3). No monetary prize awarded. Winners of Stage 1 will also be invited
-  to a showcasing event (date and location to be determined), where winners of
-  both Challenges will share ideas and spark innovation."
+prizes: "Participants of the EEFs: *Environmental and Agronomic Challenge* will
+  receive scientific evaluation from the panel of experts. Winners will also
+  receive recognition from EPA, USDA, and other partners and participants;
+  advancement to a greenhouse trial (Stage 2); and, pending greenhouse trial
+  results and available funds, advancement to field trials (Stage 3). No
+  monetary prize awarded. Winners of Stage 1 will also be invited to a
+  showcasing event (date and location to be determined)."
 rules: >-
-  1. Eligibility:
+  
 
-     * To be eligible to compete for the award, participants must submit a proposal to [Submission_NextGenFertilizerChallenges@epa.gov](mailto:Submission_NextGenFertilizerChallenges@epa.gov) no later than 11:59 PM ET on September 30, 2020.
+  1. **Eligibility:**
+
+     * To be eligible to compete for the award, participants must submit solution to [Submission_NextGenFertilizerChallenges@epa.gov](mailto:Submission_NextGenFertilizerChallenges@epa.gov) no later than 11:59 PM ET on October 9, 2020.  Late submissions will not be considered.
      * Eligible: Individuals, or teams from private companies, academic institutions, non-governmental organizations, or independent research or technological institutes. The competition is open to both US citizens/organizations and foreign citizens/organizations with significant US partnerships. 
      * Not eligible:  U.S. or foreign government organizations.
      * Eligible: Individuals or organizations that receive funding from U.S. or foreign government organizations are eligible to compete. However, funds from U.S. or foreign government organizations should not be used to directly fund the development of a solution requested under this Challenge.
      * Not eligible:  Individuals involved in development of award selection criteria are not eligible.
      * Participants may submit multiple proposals. However, proposals that use the same or similar ingredient technology used at multiple concentrations or inclusion rates should be submitted as one application. If different ingredients are used to create multiple technologies, multiple applications may be submitted.
-  2. Required Information:
+  2. **Required Information:**
 
-     * Technical point of contact for application (name, position, title, affiliation, contact phone number; contact e-mail address). This is the individual that will manage communications and coordination between the challenge sponsors (e.g., US EPA and partners) and the solver(s).
+     * Technical point of contact for application (name, position, title, affiliation, contact phone number, contact e-mail address). This is the individual who will manage communications and coordination between the challenge sponsors (e.g., US EPA and partners) and the solver(s).
      * Listing of team members (including affiliations) and partner organizations (as appropriate).
-     * A submitted proposal in BOTH Microsoft Word and PDF formats (10 pages or less excluding references, 8.5 x 11 inch pages, 12-point Times New Roman font or greater, single spaced, and one-inch margins). The proposal should include the following headings and content:
+     * Submission must be in PDF format (10 pages or less excluding references, 8.5 x 11 inch pages, 12-point Times New Roman font or greater, single spaced, and one-inch margins). The proposal should include the following headings and content:
 
-       * Executive Summary: Overall description of the proposed solution (500 words);
-       * Detailed Description of the Proposed Solution: This would include background on the EEF, including any physical, chemical, biological, ecological, or biogeochemical properties in the soil under various climatic and soil moisture conditions. This should also include a description of how the solution may decompose in the environment and into what chemicals.
-       * Environmental performance: A quantitative summary (including any relevant graphs or tables) of any published or unpublished results of environmental performance, including comparisons of rates of loss relative to conventional fertilizer for N (e.g. leaching, runoff, ammonia volatilization, nitrous oxide emissions), and P (e.g. leaching, runoff) if relevant;
-       * Agronomic performance: A quantitative summary (including any relevant graphs or tables) of any published or unpublished results of agronomic performance, including yields under various conditions, rates of growth, kernel production, and net cost (e.g. return on investment, ROI) relative to conventional fertilizer practices.
-       * Compatibility. Describe how your technology is or may be integrated into existing farming machinery and practices (e.g. transport, storage, application) to the level of specificity possible given the degree of technological maturity.
-       * Confidential Business Information (CBI): Clear statements on any CBI to be withheld from the submission, or included in the submission but to be withheld from either the judging panel or the public;
-  3. Solvers must agree to the terms and conditions outlined below. Submission of a proposal for the Challenge indicates the agreement of the Solver, and all team members, with the terms and conditions.
+       1. Executive Summary: Overall description of the proposed solution (500 words);
+       2. Detailed Description of the Proposed Solution: This would include background on the EEF, including any physical, chemical, biological, ecological, or biogeochemical properties in the soil under various climatic and soil moisture conditions. This should also include a description of how the solution may decompose in the environment and into what chemicals.
+       3. Environmental Performance: A quantitative summary (including any relevant graphs or tables) of any published or unpublished results of environmental performance, including comparisons of rates of loss relative to conventional fertilizer for N (e.g. leaching, runoff, ammonia volatilization, nitrous oxide emissions), and P (e.g. leaching, runoff) if relevant;
+       4. Agronomic Performance: A quantitative summary (including any relevant graphs or tables) of any published or unpublished results of agronomic performance, including yields under various conditions, rates of growth, kernel production, and net cost (e.g. return on investment, ROI) relative to conventional fertilizer practices.
+       5. Compatibility. Describe how your technology is or may be integrated into existing farming machinery and practices (e.g. transport, storage, application) to the level of specificity possible given the degree of technological maturity.
+       6. Confidential Business Information (CBI): Clear statements on any CBI to be withheld from the submission, or included in the submission but to be withheld from either the judging panel or the public;
+  3. **Solvers must agree to the terms and conditions outlined below.** Submission of a proposal for the Challenge indicates the agreement of the Solver, and all team members, with the terms and conditions.
 
 
   #### Terms and Conditions
 
 
-  * Solvers will not receive compensation for resources or time invested in addressing the challenge. Only the winners of the Next Generation Fertilizer Challenge will receive a cash award.
+  * Solvers will not receive compensation for resources or time invested in addressing this Challenge. Only the winners of the Next Generation Fertilizer Challenge will receive a cash award.
 
   * Solvers retain their rights to all intellectual property (e.g., details and design of their technology) that may be disclosed to the sponsors over the course of the challenge. Technical details and designs will not be disclosed or published without permission from the technical point of contact named in the registration.
 
@@ -130,16 +137,22 @@ rules: >-
 
   **Disclaimer:** EPA reserves the right to disqualify and or clarify any submittal.
 judging: >-
-  #### Judging and Award Selection
+  #### Judging Panel
 
 
-  A panel of subject matter experts selected by EPA and the Challenge partners and collaborators will judge submissions based on pre-defined scoring criteria. Judges will be selected based on several criteria, including their technical expertise (e.g. chemistry, agronomy, microbiology, biogeochemistry, ecology), geography (e.g. Midwest, South, etc.), associations with land grant universities, sectoral experience (e.g. farming, academia, government, industry), and diversity. All judges will be required to sign Conflict of Interest (COI) agreement to ensure unbiased reviews, and Non-Disclosure (ND) agreements to ensure confidentiality of any CBI.
+  A panel of subject matter experts selected by EPA and the Challenge partners and collaborators will judge submissions based on pre-defined scoring criteria. The panel will initially screen submissions for completeness and relevance. The selected eligible applications will then be  judged using the criteria specified below. Judges will be selected based on several criteria, including their technical expertise (e.g. chemistry, agronomy, microbiology, biogeochemistry, ecology), geography (e.g. Midwest, South, etc.), associations with land grant universities, sectoral experience (e.g. farming, academia, government, industry), and diversity. All judges will be required to sign Conflict of Interest (COI) agreement to ensure unbiased reviews, and Non-Disclosure (ND) agreements to ensure confidentiality of any CBI. All persons or entities that submit a solution will be notified as to the status of their submission and a high level evaluation. Decisions by the Seekers cannot be contested.
 
 
-  #### Scoring Overview
+  #### Judging Criteria
 
 
-  **Stage 1.** After the Challenge submission deadline, a Judging Panel will evaluate the submissions and make a recommendation with regard to the winning solution(s). The Judging Panel may be composed of federal and/or non-federal scientists, engineers, and other technical experts, including subject matter experts from the listed collaborators for this Challenge. All persons or entities that submit a proposal will be notified as to the status of their submission and a high-level evaluation. Decisions by the Challenge organizers cannot be contested. Stage 1 submissions will be evaluated based on four performance areas, which will be allotted points (up to a total of 100). Within performance areas, there are additional criteria that will be evaluated. For example, there are five environmental and three agronomic performance metrics:
+  For Stage 1, the Judging Panel will evaluate submissions based on four performance areas, which will be allotted points (up to a total of 100). Submissions invited to Stage 2 will submit a physical product for testing at the IFDC based on agreed-upon protocols (see “Helpful Resources”).
+
+
+  **Scoring Overview**
+
+
+  **Stage 1.** Within performance areas, there are additional criteria that will be evaluated. For example, there are five environmental and three agronomic criteria:
 
 
   * Environmental performance: 35 points
@@ -148,15 +161,17 @@ judging: >-
     * Reduction relative to conventional fertilizer of P leaching/runoff: 7 points 
     * Reduction relative to conventional fertilizer of NH3 volatilization: 7 points
     * Reduction relative to conventional fertilizer of N2O emissions: 7 points
-    * No toxic residue left on the field or in the runoff or leachate: 7 points
+    * No toxic residue left on the field or in the runoff or leachate: 7 points (Here, “residues” means byproducts after the decomposition of the technology in the environment. Toxicity can be described by a number of means, including existing studies, summaries from either the EPA Chemical Dashboard or the EPA Ecotox Knowledge base, or whether the constituent chemicals are already listed under the EPA’s Safer Chemical Ingredients List (e.g., there are 63 polymers listed as safer alternatives). Although this criteria does not pertain to inhibitor effects on target organisms (e.g., soil bacteria), which are toxic by design, it does pertain to any decomposition byproducts of inhibitors and other potential solutions, and effects that may occur for non-target organisms)
     * Agronomic performance: 35 points
-    * Yield relative to conventional fertilizer: 15 points
-    * Return on investment (ROI): 10 points
-    * Compatibility with existing supply chain machinery and practices: 10 points
-    * Breadth of potential: 20 points
-    * Addresses multiple loss pathways: 10 points
-    * Applicability to other crops and environmental conditions: 5 points
-    * Market penetration: 5 points
+
+      * Yield relative to conventional fertilizer: 15 points
+      * Return on investment (ROI): 10 points
+      * Compatibility with existing supply chain machinery and practices: 10 points
+    * Breadth of solution: 20 points
+
+      * Addresses multiple loss pathways: 10 points
+      * Applicability to other crops and environmental conditions: 5 points
+      * Market penetration: 5 points
     * Expert discretion points: 10 points
 
   The Judging Panel will assign points to metrics and criteria based on the rubric above and their combined expert judgement given the degree of information submitted in the proposals. This “scorecard” will be made available to the solver at the announcement of Stage 1 winners. 
@@ -186,7 +201,7 @@ judging: >-
   9. Is widely available and potentially applicable to other crops. 
 
 
-  **Stage 2.** Submissions invited to Stage 2 will submit a physical product for testing at the IFCD based on agreed-upon protocols (see “Helpful Resources” below). The IFDC trials are designed to evaluate a key subset of the criteria and metrics above. The greenhouse and laboratory trials will yield information on four environmental and three agronomic criteria. We will use a similar scoring rubric as with Stage 1, but with modifications since the IFDC trials will not test for certain criteria (e.g. toxicity of residue, compatibility with existing machinery). 
+  **Stage 2.** The planned IFDC trials are designed to evaluate a key subset of the criteria and metrics above. The greenhouse and laboratory trials will yield information on four environmental and three agronomic criteria. We will use a similar scoring rubric as with Stage 1, but with modifications since the IFDC trials will not test for certain criteria (e.g. toxicity of residue, compatibility with existing machinery). 
 
 
   * Environmental performance: 50 points
@@ -197,13 +212,14 @@ judging: >-
     * Reduction relative to conventional fertilizer of N2O emissions: 
   * Agronomic performance: 50 points 
 
-    * Yield relative to conventional fertilizer: 
-    * Nitrogen use efficiency: 
-    * Phosphorus use efficiency:
+    * Yield relative to conventional fertilizer
+    * Nitrogen use efficiency 
+    * Phosphorus use efficiency
 
   Additional details of the IFDC scoring and testing protocols will be made following announcement of the Stage 1 winners, and will depend on the number of EEFs and soil types to be tested.
-how-to-enter: "Submit to: [Submission_NextGenFertilizerChallenges@epa.gov
-  ](mailto:Submission_NextGenFertilizerChallenges@epa.gov)"
+how-to-enter: "Submit to:
+  [](mailto:Submission_NextGenFertilizerChallenges@epa.gov)Question_NextGenFert\
+  ilizerChallenges@epa.gov"
 ---
 ### Description
 
@@ -211,59 +227,60 @@ how-to-enter: "Submit to: [Submission_NextGenFertilizerChallenges@epa.gov
 
 Nitrogen and phosphorus fertilizers facilitate the growth of crops, including corn, at yields that provide sustained global food production. However, fertilizers applied without consideration of the appropriate rate, timing, source, and method, can have harmful effects on the environment and human health. “Enhanced Efficiency Fertilizer” (EEF) is a term for new formulations that control fertilizer release or alter reactions that reduce nutrient losses to the environment. EEFs and other product technology innovations may be an important addition to a system of conservation practices that help reduce the impacts from row crop agriculture on the environment, while maintaining or increasing agricultural productivity and profitability.
 
-#### The Challenges
+#### Challenge Details
 
 To help mitigate these adverse effects, EPA is partnering with the U.S. Department of Agriculture (USDA) to launch the Joint EPA-USDA Partnership and Competition on Next Gen Fertilizers to Advance Agricultural Sustainability in the United States. Along with EPA and USDA, the competition is in collaboration with The Fertilizer Institute (TFI), the International Fertilizer Development Center (IFDC), The Nature Conservancy (TNC), and the National Corn Growers Association (NCGA).
 
 This Partnership is being coordinated with input from stakeholders such as corn grower representatives, fertilizer companies, university researchers, and environmental and industry NGOs. This competition includes two challenges which aim to accelerate the development and use of existing and new product technologies that are affordable to reduce the environmental impacts of U.S. corn production. The results of the Partnership may ultimately be leveraged to improve production of other crops under a range of environmental conditions in the U.S. and abroad.
 
-#### EEFs: Environmental and Agronomic Challenge
+#### EEFs: Environmental and Agronomic Challenge:
 
-This Challenge aims to identify existing EEFs currently on or near-market that meet or exceed certain environmental and agro-economic criteria. The Challenge has 3 stages:
+This Challenge aims to identify existing EEFs currently on or near-market that meet or exceed certain environmental and agro-economic criteria. The Challenge is planned to have 3 stages:
 
 Stage 1: Potential solvers will submit information describing the EEF and how it is anticipated to meet the requirements. Submissions will be reviewed by an expert judging panel. 
 
-Stage 2: A subset of Stage 1 solvers will be invited to compete in greenhouse testing at the IFDC.   
+Stage 2: A subset of Stage 1 solvers will be invited to submit materials in order to compete in greenhouse testing at the IFDC in Alabama.   
 
-Stage 3:  Planning is underway for potential field trials following Stage 2 greenhouse testing.
+Stage 3:  Potential for field trials following Stage 2 greenhouse testing, location to be determined.
 
-#### Important Dates:
+#### Key Dates:
 
-* Informational Webinar: \[ insert day and time]
-* Submission End: 11:59 PM ET September 30, 2020 
+* Challenge Launch: 2:00 PM ET August 4, 2020
+* Informational Webinar: \[insert day and time]
+* Submission End: 11:59 PM ET October 9, 2020 
 * Winners Announced: December 2020
 
 ### Prizes
 
-Winners of the EEFs: Environmental and Agronomic Challenge will receive scientific evaluation and recognition from EPA, USDA, and other partners and participants; advancement to a greenhouse trial (Stage 2); and, pending greenhouse trial results and available funds, advancement to field trials (Stage 3). No monetary prize awarded. Winners of Stage 1 will also be invited to a showcasing event (date and location to be determined), where winners of both Challenges will share ideas and spark innovation.
+Participants of the EEFs: *Environmental and Agronomic Challenge* will receive scientific evaluation from the panel of experts. Winners will also receive recognition from EPA, USDA, and other partners and participants; advancement to a greenhouse trial (Stage 2); and, pending greenhouse trial results and available funds, advancement to field trials (Stage 3). No monetary prize awarded. Winners of Stage 1 will also be invited to a showcasing event (date and location to be determined).
 
 ### Rules
 
-1. Eligibility:
+1. **Eligibility:**
 
-   * To be eligible to compete for the award, participants must submit a proposal to [Submission_NextGenFertilizerChallenges@epa.gov](mailto:Submission_NextGenFertilizerChallenges@epa.gov) no later than 11:59 PM ET on September 30, 2020.
+   * To be eligible to compete for the award, participants must submit solution to [Submission_NextGenFertilizerChallenges@epa.gov](mailto:Submission_NextGenFertilizerChallenges@epa.gov) no later than 11:59 PM ET on October 9, 2020.  Late submissions will not be considered.
    * Eligible: Individuals, or teams from private companies, academic institutions, non-governmental organizations, or independent research or technological institutes. The competition is open to both US citizens/organizations and foreign citizens/organizations with significant US partnerships. 
    * Not eligible:  U.S. or foreign government organizations.
    * Eligible: Individuals or organizations that receive funding from U.S. or foreign government organizations are eligible to compete. However, funds from U.S. or foreign government organizations should not be used to directly fund the development of a solution requested under this Challenge.
    * Not eligible:  Individuals involved in development of award selection criteria are not eligible.
    * Participants may submit multiple proposals. However, proposals that use the same or similar ingredient technology used at multiple concentrations or inclusion rates should be submitted as one application. If different ingredients are used to create multiple technologies, multiple applications may be submitted.
-2. Required Information:
+2. **Required Information:**
 
-   * Technical point of contact for application (name, position, title, affiliation, contact phone number; contact e-mail address). This is the individual that will manage communications and coordination between the challenge sponsors (e.g., US EPA and partners) and the solver(s).
+   * Technical point of contact for application (name, position, title, affiliation, contact phone number, contact e-mail address). This is the individual who will manage communications and coordination between the challenge sponsors (e.g., US EPA and partners) and the solver(s).
    * Listing of team members (including affiliations) and partner organizations (as appropriate).
-   * A submitted proposal in BOTH Microsoft Word and PDF formats (10 pages or less excluding references, 8.5 x 11 inch pages, 12-point Times New Roman font or greater, single spaced, and one-inch margins). The proposal should include the following headings and content:
+   * Submission must be in PDF format (10 pages or less excluding references, 8.5 x 11 inch pages, 12-point Times New Roman font or greater, single spaced, and one-inch margins). The proposal should include the following headings and content:
 
-     * Executive Summary: Overall description of the proposed solution (500 words);
-     * Detailed Description of the Proposed Solution: This would include background on the EEF, including any physical, chemical, biological, ecological, or biogeochemical properties in the soil under various climatic and soil moisture conditions. This should also include a description of how the solution may decompose in the environment and into what chemicals.
-     * Environmental performance: A quantitative summary (including any relevant graphs or tables) of any published or unpublished results of environmental performance, including comparisons of rates of loss relative to conventional fertilizer for N (e.g. leaching, runoff, ammonia volatilization, nitrous oxide emissions), and P (e.g. leaching, runoff) if relevant;
-     * Agronomic performance: A quantitative summary (including any relevant graphs or tables) of any published or unpublished results of agronomic performance, including yields under various conditions, rates of growth, kernel production, and net cost (e.g. return on investment, ROI) relative to conventional fertilizer practices.
-     * Compatibility. Describe how your technology is or may be integrated into existing farming machinery and practices (e.g. transport, storage, application) to the level of specificity possible given the degree of technological maturity.
-     * Confidential Business Information (CBI): Clear statements on any CBI to be withheld from the submission, or included in the submission but to be withheld from either the judging panel or the public;
-3. Solvers must agree to the terms and conditions outlined below. Submission of a proposal for the Challenge indicates the agreement of the Solver, and all team members, with the terms and conditions.
+     1. Executive Summary: Overall description of the proposed solution (500 words);
+     2. Detailed Description of the Proposed Solution: This would include background on the EEF, including any physical, chemical, biological, ecological, or biogeochemical properties in the soil under various climatic and soil moisture conditions. This should also include a description of how the solution may decompose in the environment and into what chemicals.
+     3. Environmental Performance: A quantitative summary (including any relevant graphs or tables) of any published or unpublished results of environmental performance, including comparisons of rates of loss relative to conventional fertilizer for N (e.g. leaching, runoff, ammonia volatilization, nitrous oxide emissions), and P (e.g. leaching, runoff) if relevant;
+     4. Agronomic Performance: A quantitative summary (including any relevant graphs or tables) of any published or unpublished results of agronomic performance, including yields under various conditions, rates of growth, kernel production, and net cost (e.g. return on investment, ROI) relative to conventional fertilizer practices.
+     5. Compatibility. Describe how your technology is or may be integrated into existing farming machinery and practices (e.g. transport, storage, application) to the level of specificity possible given the degree of technological maturity.
+     6. Confidential Business Information (CBI): Clear statements on any CBI to be withheld from the submission, or included in the submission but to be withheld from either the judging panel or the public;
+3. **Solvers must agree to the terms and conditions outlined below.** Submission of a proposal for the Challenge indicates the agreement of the Solver, and all team members, with the terms and conditions.
 
 #### Terms and Conditions
 
-* Solvers will not receive compensation for resources or time invested in addressing the challenge. Only the winners of the Next Generation Fertilizer Challenge will receive a cash award.
+* Solvers will not receive compensation for resources or time invested in addressing this Challenge. Only the winners of the Next Generation Fertilizer Challenge will receive a cash award.
 * Solvers retain their rights to all intellectual property (e.g., details and design of their technology) that may be disclosed to the sponsors over the course of the challenge. Technical details and designs will not be disclosed or published without permission from the technical point of contact named in the registration.
 * Sponsors retain the right to disclose reference sample data, performance criteria, and other evaluation criteria summarized in the technology description template to provide a transparent reporting of how the winning solution was selected.
 * Sponsors retain the right to publish, present, and/or otherwise publicize results of the challenge competition that does not involve the disclosure of intellectual property of the Solver(s). Solvers will be afforded to review publications, presentation, or other publicity in order to protect against unwanted disclosure of intellectual property.
@@ -286,13 +303,17 @@ Winners of the EEFs: Environmental and Agronomic Challenge will receive scientif
 
 ### Judging
 
-#### Judging and Award Selection
+#### Judging Panel
 
-A panel of subject matter experts selected by EPA and the Challenge partners and collaborators will judge submissions based on pre-defined scoring criteria. Judges will be selected based on several criteria, including their technical expertise (e.g. chemistry, agronomy, microbiology, biogeochemistry, ecology), geography (e.g. Midwest, South, etc.), associations with land grant universities, sectoral experience (e.g. farming, academia, government, industry), and diversity. All judges will be required to sign Conflict of Interest (COI) agreement to ensure unbiased reviews, and Non-Disclosure (ND) agreements to ensure confidentiality of any CBI.
+A panel of subject matter experts selected by EPA and the Challenge partners and collaborators will judge submissions based on pre-defined scoring criteria. The panel will initially screen submissions for completeness and relevance. The selected eligible applications will then be  judged using the criteria specified below. Judges will be selected based on several criteria, including their technical expertise (e.g. chemistry, agronomy, microbiology, biogeochemistry, ecology), geography (e.g. Midwest, South, etc.), associations with land grant universities, sectoral experience (e.g. farming, academia, government, industry), and diversity. All judges will be required to sign Conflict of Interest (COI) agreement to ensure unbiased reviews, and Non-Disclosure (ND) agreements to ensure confidentiality of any CBI. All persons or entities that submit a solution will be notified as to the status of their submission and a high level evaluation. Decisions by the Seekers cannot be contested.
 
-#### Scoring Overview
+#### **Judging Criteria**
 
-**Stage 1.** After the Challenge submission deadline, a Judging Panel will evaluate the submissions and make a recommendation with regard to the winning solution(s). The Judging Panel may be composed of federal and/or non-federal scientists, engineers, and other technical experts, including subject matter experts from the listed collaborators for this Challenge. All persons or entities that submit a proposal will be notified as to the status of their submission and a high-level evaluation. Decisions by the Challenge organizers cannot be contested. Stage 1 submissions will be evaluated based on four performance areas, which will be allotted points (up to a total of 100). Within performance areas, there are additional criteria that will be evaluated. For example, there are five environmental and three agronomic performance metrics:
+For Stage 1, the Judging Panel will evaluate submissions based on four performance areas, which will be allotted points (up to a total of 100). Submissions invited to Stage 2 will submit a physical product for testing at the IFDC based on agreed-upon protocols (see “Helpful Resources”).
+
+**Scoring Overview**
+
+**Stage 1.** Within performance areas, there are additional criteria that will be evaluated. For example, there are five environmental and three agronomic criteria:
 
 * Environmental performance: 35 points
 
@@ -300,15 +321,17 @@ A panel of subject matter experts selected by EPA and the Challenge partners and
   * Reduction relative to conventional fertilizer of P leaching/runoff: 7 points 
   * Reduction relative to conventional fertilizer of NH3 volatilization: 7 points
   * Reduction relative to conventional fertilizer of N2O emissions: 7 points
-  * No toxic residue left on the field or in the runoff or leachate: 7 points
+  * No toxic residue left on the field or in the runoff or leachate: 7 points (Here, “residues” means byproducts after the decomposition of the technology in the environment. Toxicity can be described by a number of means, including existing studies, summaries from either the EPA Chemical Dashboard or the EPA Ecotox Knowledge base, or whether the constituent chemicals are already listed under the EPA’s Safer Chemical Ingredients List (e.g., there are 63 polymers listed as safer alternatives). Although this criteria does not pertain to inhibitor effects on target organisms (e.g., soil bacteria), which are toxic by design, it does pertain to any decomposition byproducts of inhibitors and other potential solutions, and effects that may occur for non-target organisms)
   * Agronomic performance: 35 points
-  * Yield relative to conventional fertilizer: 15 points
-  * Return on investment (ROI): 10 points
-  * Compatibility with existing supply chain machinery and practices: 10 points
-  * Breadth of potential: 20 points
-  * Addresses multiple loss pathways: 10 points
-  * Applicability to other crops and environmental conditions: 5 points
-  * Market penetration: 5 points
+
+    * Yield relative to conventional fertilizer: 15 points
+    * Return on investment (ROI): 10 points
+    * Compatibility with existing supply chain machinery and practices: 10 points
+  * Breadth of solution: 20 points
+
+    * Addresses multiple loss pathways: 10 points
+    * Applicability to other crops and environmental conditions: 5 points
+    * Market penetration: 5 points
   * Expert discretion points: 10 points
 
 The Judging Panel will assign points to metrics and criteria based on the rubric above and their combined expert judgement given the degree of information submitted in the proposals. This “scorecard” will be made available to the solver at the announcement of Stage 1 winners. 
@@ -326,7 +349,7 @@ As an example, the following are qualities of an ideal solution:
 8. Has good environmental and agronomic performance under a range of environmental conditions;
 9. Is widely available and potentially applicable to other crops. 
 
-**Stage 2.** Submissions invited to Stage 2 will submit a physical product for testing at the IFCD based on agreed-upon protocols (see “Helpful Resources” below). The IFDC trials are designed to evaluate a key subset of the criteria and metrics above. The greenhouse and laboratory trials will yield information on four environmental and three agronomic criteria. We will use a similar scoring rubric as with Stage 1, but with modifications since the IFDC trials will not test for certain criteria (e.g. toxicity of residue, compatibility with existing machinery). 
+**Stage 2.** The planned IFDC trials are designed to evaluate a key subset of the criteria and metrics above. The greenhouse and laboratory trials will yield information on four environmental and three agronomic criteria. We will use a similar scoring rubric as with Stage 1, but with modifications since the IFDC trials will not test for certain criteria (e.g. toxicity of residue, compatibility with existing machinery). 
 
 * Environmental performance: 50 points
 
@@ -336,12 +359,12 @@ As an example, the following are qualities of an ideal solution:
   * Reduction relative to conventional fertilizer of N2O emissions: 
 * Agronomic performance: 50 points 
 
-  * Yield relative to conventional fertilizer: 
-  * Nitrogen use efficiency: 
-  * Phosphorus use efficiency:
+  * Yield relative to conventional fertilizer
+  * Nitrogen use efficiency 
+  * Phosphorus use efficiency
 
 Additional details of the IFDC scoring and testing protocols will be made following announcement of the Stage 1 winners, and will depend on the number of EEFs and soil types to be tested.
 
 ### How to Enter
 
-Submit to: [Submission_NextGenFertilizerChallenges@epa.gov ](mailto:Submission_NextGenFertilizerChallenges@epa.gov)
+Submit to: [](mailto:Submission_NextGenFertilizerChallenges@epa.gov)Question_NextGenFertlizerChallenges@epa.gov
