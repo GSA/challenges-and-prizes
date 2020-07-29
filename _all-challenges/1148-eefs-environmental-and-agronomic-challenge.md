@@ -162,17 +162,18 @@ judging: >-
     * Reduction relative to conventional fertilizer of NH3 volatilization: 7 points
     * Reduction relative to conventional fertilizer of N2O emissions: 7 points
     * No toxic residue left on the field or in the runoff or leachate: 7 points (Here, “residues” means byproducts after the decomposition of the technology in the environment. Toxicity can be described by a number of means, including existing studies, summaries from either the EPA Chemical Dashboard or the EPA Ecotox Knowledge base, or whether the constituent chemicals are already listed under the EPA’s Safer Chemical Ingredients List (e.g., there are 63 polymers listed as safer alternatives). Although this criteria does not pertain to inhibitor effects on target organisms (e.g., soil bacteria), which are toxic by design, it does pertain to any decomposition byproducts of inhibitors and other potential solutions, and effects that may occur for non-target organisms)
-    * Agronomic performance: 35 points
+  * Agronomic performance: 35 points
 
-      * Yield relative to conventional fertilizer: 15 points
-      * Return on investment (ROI): 10 points
-      * Compatibility with existing supply chain machinery and practices: 10 points
-    * Breadth of solution: 20 points
+    * Yield relative to conventional fertilizer: 15 points
+    * Return on investment (ROI): 10 points
+    * Compatibility with existing supply chain machinery and practices: 10 points
+  * Breadth of solution: 20 points
 
-      * Addresses multiple loss pathways: 10 points
-      * Applicability to other crops and environmental conditions: 5 points
-      * Market penetration: 5 points
-    * Expert discretion points: 10 points
+    * Addresses multiple loss pathways: 10 points
+    * Applicability to other crops and environmental conditions: 5 points
+    * Market penetration: 5 points
+  * Expert discretion points: 10 points
+
 
   The Judging Panel will assign points to metrics and criteria based on the rubric above and their combined expert judgement given the degree of information submitted in the proposals. This “scorecard” will be made available to the solver at the announcement of Stage 1 winners. 
 
@@ -322,17 +323,17 @@ For Stage 1, the Judging Panel will evaluate submissions based on four performan
   * Reduction relative to conventional fertilizer of NH3 volatilization: 7 points
   * Reduction relative to conventional fertilizer of N2O emissions: 7 points
   * No toxic residue left on the field or in the runoff or leachate: 7 points (Here, “residues” means byproducts after the decomposition of the technology in the environment. Toxicity can be described by a number of means, including existing studies, summaries from either the EPA Chemical Dashboard or the EPA Ecotox Knowledge base, or whether the constituent chemicals are already listed under the EPA’s Safer Chemical Ingredients List (e.g., there are 63 polymers listed as safer alternatives). Although this criteria does not pertain to inhibitor effects on target organisms (e.g., soil bacteria), which are toxic by design, it does pertain to any decomposition byproducts of inhibitors and other potential solutions, and effects that may occur for non-target organisms)
-  * Agronomic performance: 35 points
+* Agronomic performance: 35 points
 
-    * Yield relative to conventional fertilizer: 15 points
-    * Return on investment (ROI): 10 points
-    * Compatibility with existing supply chain machinery and practices: 10 points
-  * Breadth of solution: 20 points
+  * Yield relative to conventional fertilizer: 15 points
+  * Return on investment (ROI): 10 points
+  * Compatibility with existing supply chain machinery and practices: 10 points
+* Breadth of solution: 20 points
 
-    * Addresses multiple loss pathways: 10 points
-    * Applicability to other crops and environmental conditions: 5 points
-    * Market penetration: 5 points
-  * Expert discretion points: 10 points
+  * Addresses multiple loss pathways: 10 points
+  * Applicability to other crops and environmental conditions: 5 points
+  * Market penetration: 5 points
+* Expert discretion points: 10 points
 
 The Judging Panel will assign points to metrics and criteria based on the rubric above and their combined expert judgement given the degree of information submitted in the proposals. This “scorecard” will be made available to the solver at the announcement of Stage 1 winners. 
 
