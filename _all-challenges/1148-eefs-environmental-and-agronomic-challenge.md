@@ -219,8 +219,8 @@ judging: >-
 
   Additional details of the IFDC scoring and testing protocols will be made following announcement of the Stage 1 winners, and will depend on the number of EEFs and soil types to be tested.
 how-to-enter: "Submit to:
-  [](mailto:Submission_NextGenFertilizerChallenges@epa.gov)Question_NextGenFert\
-  ilizerChallenges@epa.gov"
+  [Question_NextGenFertilizerChallenges@epa.gov](mailto:Submission_NextGenFerti\
+  lizerChallenges@epa.gov)"
 ---
 ### Description
 
@@ -368,4 +368,4 @@ Additional details of the IFDC scoring and testing protocols will be made follow
 
 ### How to Enter
 
-Submit to: [](mailto:Submission_NextGenFertilizerChallenges@epa.gov)Question_NextGenFertlizerChallenges@epa.gov
+Submit to: [Question_NextGenFertilizerChallenges@epa.gov](mailto:Submission_NextGenFertilizerChallenges@epa.gov)
