@@ -1,5 +1,6 @@
 ---
-title: Card Title Here
+title: "Automated Streams Analysis for Public Safety (ASAPS) Prize Challenge:
+  Contest 1"
 challenge-title: "Automated Streams Analysis for Public Safety (ASAPS) Prize
   Challenge: Contest 1"
 layout: front-matter-data-markdownify-content
