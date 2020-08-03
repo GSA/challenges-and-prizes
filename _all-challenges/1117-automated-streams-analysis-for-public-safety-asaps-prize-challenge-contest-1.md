@@ -361,10 +361,6 @@ how-to-enter: >-
 
 Please view the original [Official Rules document]({{site.baseurl}}/assets/netlify-uploads/3…aps-contest-1-final-.pdf) as well as the [rules modification]({{site.baseurl}}/assets/netlify-uploads/a…st-1.rules-amendment.pdf) posted July 30, 2020 for detailed rules on all aspects of this challenge.
 
-  View the \[Official Rules
-  document]({{ site.baseurl }}/assets/netlify-uploads/3.2-oio-rules-asaps-contest-1-final-.pdf)
-  for detailed rules on all aspects of this challenge. 
-
   Rules regarding submissions, as well as additional terms and conditions, begin
   on Page 6 of the document.
 
