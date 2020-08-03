@@ -119,10 +119,10 @@ prizes: >-
 
   Topic 4: Extraction-to-analysis systems approach across all data categories: **2 X $30,000**
 rules: >-
-  Please view the [Official Rules
-  document](%7B%7Bsite.baseurl%7D%7D/assets/netlify-uploads/3%E2%80%A6aps-contest-1-final-.pdf)
-  as well as the [rules
-  modification](%7B%7Bsite.baseurl%7D%7D/assets/netlify-uploads/a%E2%80%A6st-1.rules-amendment.pdf)
+  Please view the [Official Rules document
+  ]({{site.baseurl}}/assets/netlify-uploads/3…aps-contest-1-final-.pdf)as well
+  as the [Rules
+  Modification]({{site.baseurl}}/assets/netlify-uploads/a…st-1.rules-amendment.pdf)
   posted July 30, 2020 for detailed rules on all aspects of this challenge.
 
 
@@ -355,7 +355,7 @@ how-to-enter: >-
 
 ### Rules
 
-Please view the [Official Rules document]({{site.baseurl}}/assets/netlify-uploads/3…aps-contest-1-final-.pdf) as well as the [rules modification]({{site.baseurl}}/assets/netlify-uploads/a…st-1.rules-amendment.pdf) posted July 30, 2020 for detailed rules on all aspects of this challenge.
+ Please view the [Official Rules document]({{site.baseurl}}/assets/netlify-uploads/3…aps-contest-1-final-.pdf) as well as the [Rules Modification]({{site.baseurl}}/assets/netlify-uploads/a…st-1.rules-amendment.pdf) posted July 30, 2020 for  detailed rules on all aspects of this challenge.
 
   Rules regarding submissions, as well as additional terms and conditions, begin
   on Page 6 of the document.
