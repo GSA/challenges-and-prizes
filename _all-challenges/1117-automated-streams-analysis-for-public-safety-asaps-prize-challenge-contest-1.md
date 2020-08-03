@@ -119,7 +119,7 @@ prizes: >-
 
   Topic 4: Extraction-to-analysis systems approach across all data categories: **2 X $30,000**
 rules: >-2
-   Please view the Official Rules Document as well as the [Rules Modification]({{site.baseurl}}/assets/netlify-uploads/a…st-1.rules-amendment.pdf) posted July 30, 2020 for  detailed rules on all aspects of this challenge.
+   Please view the Official Rules Document as well as the Rules Modification posted July 30, 2020 for  detailed rules on all aspects of this challenge.
 
   Rules regarding submissions, as well as additional terms and conditions, begin on Page 6 of the document.
 judging: >-
@@ -350,7 +350,7 @@ how-to-enter: >-
 
 ### Rules
 
- Please view the Official Rules Document as well as the [Rules Modification]({{site.baseurl}}/assets/netlify-uploads/a…st-1.rules-amendment.pdf) posted July 30, 2020 for  detailed rules on all aspects of this challenge.
+ Please view the [Official Rules Document](<{{site.baseurl}}/assets/netlify-uploads/a…st-1.rules-amendment.pdf>) as well as the Rules Modification posted July 30, 2020 for  detailed rules on all aspects of this challenge.
 
   Rules regarding submissions, as well as additional terms and conditions, begin
   on Page 6 of the document.
