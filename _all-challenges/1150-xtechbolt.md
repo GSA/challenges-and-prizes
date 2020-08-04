@@ -46,6 +46,12 @@ The Army recognizes that it must enhance engagements with innovative problem sol
 
 The xTechBOLT competition will provide increasing non-dilutive prizes to select applicants to proceed in the competition.  All applications will be reviewed by Army subject matter experts and up to 10 applicants with the highest ranking concept white papers will receive a prize of $10,000 each and advance to give a pitch on their proposed concept to a live Army judging panel.  The live judging panel will select five (5) applicants to receive additional awards of $25,000 each and be invited to present a proof-of-concept of their technology solutions at the 2021 Interservice/Industry Training, Simulation and Education Conference (I/ITSEC) in Orlando, Florida.  Out of those five (5) finalists, a grand prize winner will be selected and awarded an additional $500,000 prize.  The remaining finalists will receive prizes as follows: Second place - $125,000.00, Third place – $75,000.00, Fourth place - $50,000.00, Fifth place - $25,000.00.  Details on the prize structure are listed below in this announcement.
 
+#### Key Dates
+
+Key Dates are provided in the table below.
+
+![Key Dates]({{site.baseurl}}/assets/netlify-uploads/xtechbolt_schedule.jpg "xTechBOLT Key Dates")
+
 ### Prizes
 
 #### Total Cash Prize Pool
