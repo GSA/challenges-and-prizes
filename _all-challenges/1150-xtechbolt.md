@@ -12,8 +12,7 @@ tagline: The US Army Medical Materiel Development Activity (USAMMDA) is
   announcing the xTech Brain Operant Learning Technology – xTechBOLT – prize
   competition to develop mechanisms to promote optimal retention and access to
   memories revolutionizing how we teach and train Soldiers.
-agency: US Department of Defense - US Army Medical Material Development Activity
-  (USAMMDA)
+agency: "Department of Defense - US Army "
 type-of-challenge:
   - Software and apps
   - Technology demonstration and hardware
