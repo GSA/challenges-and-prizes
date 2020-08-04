@@ -85,4 +85,4 @@ The xTechBOLT program is voluntary and open to all entities that meet the eligib
 
 The xTechBOLT program is voluntary and open to all entities that meet the eligibility requirements.  There may be only one submission per eligible entity.  The registration information and upload submission must be received by 11:59 PM PST on 15 September 2020.  Submissions received after the deadline will not be considered.
 
-Visit the contest page for registration details:
+Visit the contest page for registration details: <https://www.xtechsearch.army.mil/>
