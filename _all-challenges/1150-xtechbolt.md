@@ -13,6 +13,7 @@ tagline: The US Army Medical Materiel Development Activity (USAMMDA) is
   competition to develop mechanisms to promote optimal retention and access to
   memories revolutionizing how we teach and train Soldiers.
 agency: "Department of Defense - U.S. Army "
+total-prize-offered-cash: $1,000,000
 type-of-challenge:
   - Software and apps
   - Technology demonstration and hardware
@@ -26,3 +27,4 @@ challenge-manager: Moriah Bartlett
 challenge-manager-email: moriah.s.bartlett@civ@mail.mil
 point-of-contact: usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil
 ---
+### Description
