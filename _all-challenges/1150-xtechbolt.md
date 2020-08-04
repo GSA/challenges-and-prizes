@@ -135,7 +135,7 @@ judging: >-
   #### Judging Criteria
 
 
-  The concept White Papers will be evaluated using the detailed evaluation criteria found on the contest submission page.
+  The concept White Papers will be evaluated using the detailed evaluation criteria found on the [contest submission page](https://www.xtechsearch.army.mil/).
 how-to-enter: >-
   
 
