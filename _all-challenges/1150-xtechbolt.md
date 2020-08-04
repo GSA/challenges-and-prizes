@@ -19,8 +19,8 @@ type-of-challenge:
   - Technology demonstration and hardware
   - Analytics, visualizations, algorithms
   - Scientific
-submission-start: 2020/08/01 05:00 PM
-submission-end: "2020/09/15 11:59 PM "
+submission-start: 2020/08/01 02:00 PM
+submission-end: "2020/09/15 08:59 PM "
 fiscal-year: FY20, FY21, FY22
 legal-authority: Agency specific prize authority
 challenge-manager: Moriah Bartlett
@@ -137,7 +137,7 @@ judging: >-
 how-to-enter: >-
   
 
-  The xTechBOLT program is voluntary and open to all entities that meet the eligibility requirements.  There may be only one submission per eligible entity.  The registration information and upload submission must be received by 11:59 PM PST on 15 September 2020.  Submissions received after the deadline will not be considered.
+  The xTechBOLT program is voluntary and open to all entities that meet the eligibility requirements.  There may be only one submission per eligible entity.  The registration information and upload submission must be received by 11:59 PM PST (8:59 PM EST)on 15 September 2020.  Submissions received after the deadline will not be considered.
 
 
   **Visit the contest page for registration details: <https://www.xtechsearch.army.mil/>**
@@ -229,7 +229,7 @@ The concept White Papers will be evaluated using the detailed evaluation criteri
 
 ### How to Enter
 
-The xTechBOLT program is voluntary and open to all entities that meet the eligibility requirements.  There may be only one submission per eligible entity.  The registration information and upload submission must be received by 11:59 PM PST on 15 September 2020.  Submissions received after the deadline will not be considered.
+The xTechBOLT program is voluntary and open to all entities that meet the eligibility requirements.  There may be only one submission per eligible entity.  The registration information and upload submission must be received by 11:59 PM PST (8:59 PM EST) on 15 September 2020.  Submissions received after the deadline will not be considered.
 
 **Visit the contest page for registration details: <https://www.xtechsearch.army.mil/>**
 
