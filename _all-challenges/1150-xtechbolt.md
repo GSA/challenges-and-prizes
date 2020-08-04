@@ -38,12 +38,10 @@ description: >-
   could be developed to promote optimal retention and access to memories.
 
 
-  \
 
   The goals for this competition are to understand the effects of emotion and empathy on learning and memory and the functional roles played by various brain regions and their mutual interactions in relation to emotional and empathetic processing and effect on both implicit and explicit learning.  Understanding these effects will help build the United States Military of the future, by revolutionizing how we teach and train Warfighters, how we build better medical providers, and how we utilize novel brain operant learning technologies.
 
 
-  \
 
   The Army (and more broadly the U.S. Department of Defense) seek “path finding” teams and technologies through this competition. Therefore, xTechBOLT is not interested in low-risk, repackaged approaches of tried and true techniques. We aim to find early-stage innovations with the potential to dramatically improve military training outcomes with novel hardware- and/or software-based technologies.
 
@@ -142,9 +140,6 @@ how-to-enter: >-
   The xTechBOLT program is voluntary and open to all entities that meet the eligibility requirements.  There may be only one submission per eligible entity.  The registration information and upload submission must be received by 11:59 PM PST on 15 September 2020.  Submissions received after the deadline will not be considered.
 
 
-  The xTechBOLT program is voluntary and open to all entities that meet the eligibility requirements.  There may be only one submission per eligible entity.  The registration information and upload submission must be received by 11:59 PM PST on 15 September 2020.  Submissions received after the deadline will not be considered.
-
-
   **Visit the contest page for registration details: <https://www.xtechsearch.army.mil/>**
 
 
@@ -233,8 +228,6 @@ Each concept white paper will be reviewed by an xTechBOLT Panel including Warfig
 The concept White Papers will be evaluated using the detailed evaluation criteria found on the [contest submission page.](https://www.xtechsearch.army.mil/)
 
 ### How to Enter
-
-The xTechBOLT program is voluntary and open to all entities that meet the eligibility requirements.  There may be only one submission per eligible entity.  The registration information and upload submission must be received by 11:59 PM PST on 15 September 2020.  Submissions received after the deadline will not be considered.
 
 The xTechBOLT program is voluntary and open to all entities that meet the eligibility requirements.  There may be only one submission per eligible entity.  The registration information and upload submission must be received by 11:59 PM PST on 15 September 2020.  Submissions received after the deadline will not be considered.
 
