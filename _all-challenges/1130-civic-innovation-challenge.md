@@ -4,7 +4,7 @@ challenge-title: Civic Innovation Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/nsf-civic-innovation-challenge-2020/
 challenge-id: "1130"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/civic-innovation-340x160.png
 agency-logo: /assets/netlify-uploads/nsf.png
@@ -20,8 +20,8 @@ type-of-challenge:
   - Technology demonstration and hardware
   - Analytics, visualizations, algorithms
   - Scientific
-submission-start: 2020/04/07 9:00 AM
-submission-end: 2020/08/03 5:00 PM
+submission-start: 04/07/2020 9:00 AM
+submission-end: 08/03/2020 5:00 PM
 fiscal-year: FY20, FY21, FY22
 legal-authority: Grants and cooperative agreements
 challenge-manager: Michal Ziv-El
