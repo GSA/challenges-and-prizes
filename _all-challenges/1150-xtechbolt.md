@@ -63,8 +63,26 @@ Each eligible entity:
 * Sole proprietors may participate in xTechBOLT if the individual is a citizen or national of the U.S. or a lawful permanent resident of the U.S. and the business is registered in the U.S.; and
 * Foreign companies may participate in xTechBOLT by establishing a U.S. domestic business relationship (e.g., wholly owned U.S. subsidiary) or partner with an U.S. based company.
 
-### Terms and Conditions
+#### Terms and Conditions
+
+The efforts described in this Notice are being pursued under the authorities of 10 US Code (USC) 2374a (Prizes for Advanced Technology Achievements).  While the authority of this program is Title 10, US Code (USC) Section 2374a, a concept white paper submitted to the xTechBOLT program may generate interest by another Army organization for a funding opportunity outside of this program (e.g., submission of a proposal under a Broad Agency Announcement). The interested Army organization may contact the applicant to provide additional information.
+
+All xTechSearch submissions are treated as privileged information and contents are disclosed to Government employees or designated support contractors only for the purpose of evaluation and program support.
+
+#### Intellectual Property
+
+The Army is a strong proponent of deliberate intellectual property (IP) rights and management by the private sector and the Department of Defense. For the xTechBOLT program:
+
+* The Federal Government may not gain an interest in IP developed by an applicant without the written consent of said applicant;
+* Nothing in this xTechBOLT prize competition shall diminish the Government’s rights in patents, technical data, technical information, computer software, computer databases, and computer software documentation that the Government had prior to this xTechBOLT prize competition, or is entitled to, under any other Government Agreement or contract, or is otherwise entitled to under law; and
+* The Federal Government may negotiate a license for the use of IP developed by a registered applicant in the prize competition.
 
 ### Judging Criteria
 
 ### How to Enter
+
+The xTechBOLT program is voluntary and open to all entities that meet the eligibility requirements.  There may be only one submission per eligible entity.  The registration information and upload submission must be received by 11:59 PM PST on 15 September 2020.  Submissions received after the deadline will not be considered.
+
+The xTechBOLT program is voluntary and open to all entities that meet the eligibility requirements.  There may be only one submission per eligible entity.  The registration information and upload submission must be received by 11:59 PM PST on 15 September 2020.  Submissions received after the deadline will not be considered.
+
+Visit the contest page for registration details:
