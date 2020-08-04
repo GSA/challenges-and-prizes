@@ -48,6 +48,14 @@ The xTechBOLT competition will provide increasing non-dilutive prizes to select 
 
 ### Prizes
 
+#### Total Cash Prize Pool
+
+$1.0M
+
+#### Prize Breakdown - see the table below.
+
+![Prize Structure - Breakdown]({{site.baseurl}}/assets/netlify-uploads/xtechbolt_prizestructure.jpg "XtechBOLT Prize Breakdown")
+
 ### Rules
 
 Applicant technologies must:
@@ -79,10 +87,26 @@ The Army is a strong proponent of deliberate intellectual property (IP) rights a
 
 ### Judging Criteria
 
+#### Judging Panel
+
+Each concept white paper will be reviewed by an xTechBOLT Panel including Warfighter, acquisition, and research and development subject matter experts.
+
+#### Judging Criteria
+
+The concept White Papers will be evaluated using the detailed evaluation criteria found on the contest submission page.
+
 ### How to Enter
 
 The xTechBOLT program is voluntary and open to all entities that meet the eligibility requirements.  There may be only one submission per eligible entity.  The registration information and upload submission must be received by 11:59 PM PST on 15 September 2020.  Submissions received after the deadline will not be considered.
 
 The xTechBOLT program is voluntary and open to all entities that meet the eligibility requirements.  There may be only one submission per eligible entity.  The registration information and upload submission must be received by 11:59 PM PST on 15 September 2020.  Submissions received after the deadline will not be considered.
 
-Visit the contest page for registration details: <https://www.xtechsearch.army.mil/>
+**Visit the contest page for registration details: <https://www.xtechsearch.army.mil/>**
+
+All eligible entities shall submit a concept white paper and accompanying video up to 3 minutes in length outlining their use of one or more tool(s) (e.g., QEEG, fMRI, MEG, BIOMRK, NIRS, PET, MEA, and/or SPECT) to locate, track, and trace four types of learning traits including explicit and implicit knowledge from exposure to storage, and those neural pathways capturing emotions and empathy.  Applicants must indicate imperative brain areas and identify critical inflection points along neural pathways that are required for efficiency, informing future potential intervention targets.  Applicants shall develop a proof of concept mechanism (software or hardware, or both) that could be developed to promote optimal retention and access to memories. The White Paper must clearly communicate understanding of the topic, tools, and technologies related to the neurobiology of operant learning, considering and applying emotion and empathy factors, and describe fully a proposal to deliver a technical solution based on emerging science, novel discovery and modern detection methodologies. The proof of concept (POC) should be able to reproducibly reveal, predict, and replicate motor and cognitive skills’ pathways and movement sets, and significantly advance our understanding of the neurobiology of learning, memory, emotion, and empathetic brain-behavior, and possible brain-machine interconnectivity.  Additionally, the POC should align and support the future capability to advance targeted stimulation of the brain’s connective networks, influence synaptic gates to enhance training effectiveness and skill permanence, and entertain the ability to insert novel “unexperiences.”
+
+Please adhere to the following requirements:
+
+* All concept white papers must be submitted using the template found on the registration page, “xTechBOLT_WhitePaper_Template.doc”.  **Any white papers submitted in a format other than that provided by the template will not be reviewed.**
+* Provide an optional **Vimeo URL** on the contest registration page to a video supporting your application. Production value does not matter at all, and the can be used to briefly explain the concept, introduce your team, or to otherwise demonstrate the technology concept proposed.  **MAXIMUM of 3-minutes for the video's length**.
+* Please list your company name, and proposal title EXACTLY how you would like them to appear on any contest marketing materials, recommend clear and concise proposal titles to give readers and potential stakeholders understanding of how your technology would benefit the Army.
