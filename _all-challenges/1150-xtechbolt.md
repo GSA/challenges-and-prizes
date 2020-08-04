@@ -164,10 +164,8 @@ how-to-enter: >-
 
 The US Army Medical Materiel Development Activity (USAMMDA) is announcing the xTech Brain Operant Learning Technology – xTechBOLT – prize competition.  The prize competition is designed to incentivize industry to develop and demonstrate the use of one or more tool(s) (e.g., QEEG, fMRI, MEG, BIOMRK, NIRS, PET, MEA, SPECT, or other) to locate, track, and trace four types of learning traits, including explicit and implicit knowledge, from exposure to storage, and use those neural pathways to capture emotions and empathy and research a proof of concept mechanism (software or hardware, or both) that could be developed to promote optimal retention and access to memories.
 
-\
 The goals for this competition are to understand the effects of emotion and empathy on learning and memory and the functional roles played by various brain regions and their mutual interactions in relation to emotional and empathetic processing and effect on both implicit and explicit learning.  Understanding these effects will help build the United States Military of the future, by revolutionizing how we teach and train Warfighters, how we build better medical providers, and how we utilize novel brain operant learning technologies.
 
-\
 The Army (and more broadly the U.S. Department of Defense) seek “path finding” teams and technologies through this competition. Therefore, xTechBOLT is not interested in low-risk, repackaged approaches of tried and true techniques. We aim to find early-stage innovations with the potential to dramatically improve military training outcomes with novel hardware- and/or software-based technologies.
 
 xTechBOLT is seeking applicants to use one or more tool(s) (e.g., QEEG, fMRI, MEG, BIOMRK, NIRS, PET, MEA, SPECT, or other) to:
