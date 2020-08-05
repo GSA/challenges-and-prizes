@@ -16,7 +16,7 @@ tagline: NIH seeks to recognize academic institutions for institutional
 agency: Department of Health and Human Services - National Institutes of Health
 type-of-challenge:
   - Ideas
-submission-start: 2020/09/03 12:00 AM
+submission-start: 2020/09/10 12:00 AM
 submission-end: 2021/04/16 11:59 PM
 fiscal-year: FY20
 legal-authority: America COMPETES Act
