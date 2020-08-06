@@ -6,7 +6,7 @@ permalink: /challenge/xTechBOLT/
 challenge-id: "1150"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/webp.net-resizeimage-7-.png
+card-image: /assets/netlify-uploads/webp.net-resizeimage-8-.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
 tagline: The US Army Medical Materiel Development Activity (USAMMDA) is
   announcing the xTech Brain Operant Learning Technology – xTechBOLT – prize
