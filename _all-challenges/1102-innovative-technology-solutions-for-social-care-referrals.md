@@ -120,17 +120,17 @@ description: <p>At an unprecedented pace, Federal and state leaders, community
   methods and functional enhancements to technology platforms that connect
   health and social services.<li><li><strong>Registration and Phase 1
   Application due Monday, December 14, 2020. See below for more information.
-  </strong></li> </ul> </li> </ul> <p>Phase 2:&nbsp; Proof of Concept &amp;
-  Demonstration (January 2021 &ndash; June 2021)</p> <ul> <li>Participant teams
-  will convene in-person or virtually to demo proposed solutions.</li> </ul>
-  <p>Phase 3:&nbsp; Implementation &amp; Testing - (July &ndash; December
-  2021)</p> <ul> <li>Implementation and real-world testing of designed
-  approach.</li> </ul> <p><strong><u>What is a Challenge?</u></strong></p> <p>A
-  challenge (also referred to as "prize challenge,&rdquo; "competition," "prize
-  competition," "incentive prize" or any combination thereof) allows the public
-  to solve problems presented by federal agencies and receive awards for the
-  best solutions. This boils down to three steps:</p> <ol> <li>Agency announces
-  a problem to the public.</li> <li>Participants create and submit solutions to
+  </strong></li> </ul> <p>Phase 2:&nbsp; Proof of Concept &amp; Demonstration
+  (January 2021 &ndash; June 2021)</p> <ul> <li>Participant teams will convene
+  in-person or virtually to demo proposed solutions.</li> </ul> <p>Phase
+  3:&nbsp; Implementation &amp; Testing - (July &ndash; December 2021)</p> <ul>
+  <li>Implementation and real-world testing of designed approach.</li> </ul>
+  <p><strong><u>What is a Challenge?</u></strong></p> <p>A challenge (also
+  referred to as "prize challenge,&rdquo; "competition," "prize competition,"
+  "incentive prize" or any combination thereof) allows the public to solve
+  problems presented by federal agencies and receive awards for the best
+  solutions. This boils down to three steps:</p> <ol> <li>Agency announces a
+  problem to the public.</li> <li>Participants create and submit solutions to
   the problem.</li> <li>Agency evaluates solutions and awards prizes to the best
   ones.</li> </ol> <p>This process may sound similar to grants or contracts, but
   challenges differ in small and significant ways. In grants and contracts an
@@ -384,12 +384,11 @@ submission-link: null
 <li>Form multi-stakeholder team, submit letter of intent and develop idea and concept designs that include data visualization methods and functional enhancements to technology platforms that connect health and social services.<li>
 <li><strong>Registration and Phase 1 Application due Monday, December 14, 2020. See below for more information. </strong></li>
 </ul>
-</li>
-</ul>
 <p>Phase 2: Proof of Concept &amp; Demonstration (January 2021 &ndash; June 2021)</p>
 <ul>
 <li>Participant teams will convene in-person or virtually to demo proposed solutions.</li>
-</ul>
+
+<ul>
 <p>Phase 3: Implementation &amp; Testing - (July &ndash; December 2021)</p>
 <ul>
 <li>Implementation and real-world testing of designed approach.</li>
