@@ -383,8 +383,7 @@ submission-link: null
 <ul>
 <li>Form multi-stakeholder team, submit letter of intent and develop idea and concept designs that include data visualization methods and functional enhancements to technology platforms that connect health and social services.<li>
 <li><strong>Registration and Phase 1 Application due Monday, December 14, 2020. See below for more information. </strong></li>
-</ul>
-<p>Phase 2: Proof of Concept &amp; Demonstration (January 2021 &ndash; June 2021)</p>
+<p>Phase 2: Proof of Concept &amp; Demonstration (January 2021 &ndash; June 2021) </p>
 <ul>
 <li>Participant teams will convene in-person or virtually to demo proposed solutions.</li>
 
