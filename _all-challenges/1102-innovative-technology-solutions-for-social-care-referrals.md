@@ -118,22 +118,19 @@ description: <p>At an unprecedented pace, Federal and state leaders, community
   December 2020)</p> <ul> <li>Form multi-stakeholder team, submit letter of
   intent and develop idea and concept designs that include data visualization
   methods and functional enhancements to technology platforms that connect
-  health and social services. <ul> <li><strong><u>Intent to apply:</u></strong>
-  An individual, entity, or captain of a team, with support of all team members,
-  is to provide a brief letter of intent to submit an application for this
-  Challenge. Email letter of intent by August 14, 2020 to <a
-  href="mailto:ami.patel@acl.hhs.gov">ami.patel@acl.hhs.gov</a></li> </ul> </li>
-  </ul> <p>Phase 2:&nbsp; Proof of Concept &amp; Demonstration (January 2021
-  &ndash; June 2021)</p> <ul> <li>Participant teams will convene in-person or
-  virtually to demo proposed solutions.</li> </ul> <p>Phase 3:&nbsp;
-  Implementation &amp; Testing - (July &ndash; December 2021)</p> <ul>
-  <li>Implementation and real-world testing of designed approach.</li> </ul>
-  <p><strong><u>What is a Challenge?</u></strong></p> <p>A challenge (also
-  referred to as "prize challenge,&rdquo; "competition," "prize competition,"
-  "incentive prize" or any combination thereof) allows the public to solve
-  problems presented by federal agencies and receive awards for the best
-  solutions. This boils down to three steps:</p> <ol> <li>Agency announces a
-  problem to the public.</li> <li>Participants create and submit solutions to
+  health and social services.<li><li><strong>Registration and Phase 1
+  Application due Monday, December 14, 2020. See below for more information.
+  </strong></li> </ul> </li> </ul> <p>Phase 2:&nbsp; Proof of Concept &amp;
+  Demonstration (January 2021 &ndash; June 2021)</p> <ul> <li>Participant teams
+  will convene in-person or virtually to demo proposed solutions.</li> </ul>
+  <p>Phase 3:&nbsp; Implementation &amp; Testing - (July &ndash; December
+  2021)</p> <ul> <li>Implementation and real-world testing of designed
+  approach.</li> </ul> <p><strong><u>What is a Challenge?</u></strong></p> <p>A
+  challenge (also referred to as "prize challenge,&rdquo; "competition," "prize
+  competition," "incentive prize" or any combination thereof) allows the public
+  to solve problems presented by federal agencies and receive awards for the
+  best solutions. This boils down to three steps:</p> <ol> <li>Agency announces
+  a problem to the public.</li> <li>Participants create and submit solutions to
   the problem.</li> <li>Agency evaluates solutions and awards prizes to the best
   ones.</li> </ol> <p>This process may sound similar to grants or contracts, but
   challenges differ in small and significant ways. In grants and contracts an
@@ -157,19 +154,19 @@ description: <p>At an unprecedented pace, Federal and state leaders, community
   technologies your agency provides</li> <li>Develop public buy-in for agency
   initiatives</li> </ul> <p>For more information, please visit:&nbsp; <a
   href="https://www.challenge.gov/toolkit/faq/">https://www.challenge.gov/toolkit/faq/</a></p>
-  <hr /> <p>\[1] Community Based Organizations may include Area Agencies on
+  <hr /> <p>\\[1] Community Based Organizations may include Area Agencies on
   Aging, Aging and Disability Resources Centers, Centers for Independent Living
-  or other aging and disability network agencies.</p> <p>\[2] Examples of
+  or other aging and disability network agencies.</p> <p>\\[2] Examples of
   statewide approaches include:&nbsp; 1) Oregon Health Leadership Council, HIT
   Commons, <a
   href="http://www.orhealthleadershipcouncil.org/hit-commons/">http://www.orhealthleadershipcouncil.org/hit-commons/</a>,
   2) Pennsylvania Request for Information for Statewide Resource and Referral
   Tool, <a
   href="http://www.emarketplace.state.pa.us/Solicitations.aspx?SID=Resource%20and%20Referral%20Tool">http://www.emarketplace.state.pa.us/Solicitations.aspx?SID=Resource%20and%20Referral%20Tool</a></p>
-  <p>\[3] &ldquo;Advancing Interoperable Social Determinants of Health
+  <p>\\[3] &ldquo;Advancing Interoperable Social Determinants of Health
   Data,&rdquo; HealthITBuzz blog post, December 12, 2019, <a
   href="https://www.healthit.gov/buzz-blog/interoperability/advancing-interoperable-social-determinants-of-health-data">https://www.healthit.gov/buzz-blog/interoperability/advancing-interoperable-social-determinants-of-health-data</a></p>
-  <p>\[4] HL7 International, &ldquo;The Gravity Project&rdquo;, <a
+  <p>\\[4] HL7 International, &ldquo;The Gravity Project&rdquo;, <a
   href="https://www.hl7.org/gravity/">https://www.hl7.org/gravity/</a></p>
 prizes: <p>The Challenge will compete in three phases with cash prizes awarded
   in each phase. The total prize award available is $500,000.</p>
@@ -223,10 +220,15 @@ rules: <p>To be eligible to win a prize under this challenge, an individual or
   activity carried out in connection with participation in a challenge.</li>
   <li>Participants must also agree to indemnify the Federal Government against
   third party claims for damages arising from or related to Challenge
-  activities.</li> </ul> <p>The Administration for Community Living reserves the
-  right, in its sole discretion, to (a) cancel, suspend, or modify the
-  Challenge, and/or (b) not award any prizes if no entries are deemed
-  worthy.</p>
+  activities.</li> </ul><li>Contestants to this Challenge competition must agree
+  to be bound by the rules of the Challenge, agree that the decisions of the
+  judges for this Challenge are final and binding, and acknowledge that their
+  submission may be the subject of a Freedom of Information Act (FOIA) request
+  and that they are responsible for identifying and marking all business
+  confidential and proprietary information in their submission.</li> <p>The
+  Administration for Community Living reserves the right, in its sole
+  discretion, to (a) cancel, suspend, or modify the Challenge, and/or (b) not
+  award any prizes if no entries are deemed worthy.</p>
 judging: >-
   <p><strong>Judging Panel</strong></p> <p>The Judging Panel will be composed of
   federal and/or other technical and subject matter experts.</p> 
@@ -379,7 +381,7 @@ submission-link: null
 <p>The Challenge will compete in three phases with cash prizes awarded in each phase. The total prize award available is $500,000. &nbsp;</p>
 <p>Phase 1: Concept &amp; Design Submission (July &ndash; December 2020)</p>
 <ul>
-<li>Form multi-stakeholder team, submit letter of intent and develop idea and concept designs that include data visualization methods and functional enhancements to technology platforms that connect health and social services.<ul>
+<li>Form multi-stakeholder team, submit letter of intent and develop idea and concept designs that include data visualization methods and functional enhancements to technology platforms that connect health and social services.<li>
 <li><strong>Registration and Phase 1 Application due Monday, December 14, 2020. See below for more information. </strong></li>
 </ul>
 </li>
