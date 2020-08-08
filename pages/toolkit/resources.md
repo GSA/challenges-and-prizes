@@ -18,12 +18,12 @@ title: Toolkit - Resources
 
 ### Sample Agency Policies and Capacity-Building Resources
 
-#### Department of Health and Human Services (HHS)
+#### U.S. Department of Health and Human Services (HHS)
 
 * [Resources for Challenge Managers at HHS](http://www.hhs.gov/idealab/competes/)
 * [Office of the Secretary Delegation of Authority](https://www.gpo.gov/fdsys/pkg/FR-2011-05-04/pdf/2011-10847.pdf)
 
-#### Department of the Interior
+#### U.S. Department of the Interior (DOI)
 
 * [Prize Challenges Policies](https://www.doi.gov/prizes/policies)
 * [Bureau of Reclamation FY18 Prize Competitions Fact Sheet](https://www.usbr.gov/research/challenges/docs/FY18.pdf)
@@ -43,13 +43,17 @@ title: Toolkit - Resources
 * [Congressional Testimony on the American Innovation and Competitiveness Act, One Year Later](https://www.nist.gov/speech-testimony/one-year-later-american-innovation-and-competitiveness-act) (January 2018)
 * [Congressional Testimony on the Health Health III Challenge](https://www.nist.gov/speech-testimony/head-health-challenge-preventing-head-trauma-football-field-shop-floor-battlefield) (December 2017)
 
-#### U.S. Agency for International Development
+#### U.S. Agency for International Development (USAID)
 
 * [USAID Full Innovation Programming and Design Toolkit](https://www.globalinnovationexchange.org/resources/usaid-full-innovation-programming-and-design-toolkit)
 
-#### U.S. Department of Agriculture
+#### U.S. Department of Agriculture (USDA)
 
 * [Departmental Regulation on Prizes and Challenges](https://www.ocio.usda.gov/document/departmental-regulation-2405-001)
+
+#### U.S. Department of Energy (DOE)
+
+* [Prize Development and Execution Guidance - EERE G 121.001]({{site.baseurl}}/assets/document-library/EERE_G_121.001_EERE_Prize_Guidance_0 (1).pdf) (November 2019)
 
 ### Implementation of Federal Prize Authority
 
