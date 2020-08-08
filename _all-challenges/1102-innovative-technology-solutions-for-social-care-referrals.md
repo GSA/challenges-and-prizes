@@ -154,19 +154,19 @@ description: <p>At an unprecedented pace, Federal and state leaders, community
   technologies your agency provides</li> <li>Develop public buy-in for agency
   initiatives</li> </ul> <p>For more information, please visit:&nbsp; <a
   href="https://www.challenge.gov/toolkit/faq/">https://www.challenge.gov/toolkit/faq/</a></p>
-  <hr /> <p>\\[1] Community Based Organizations may include Area Agencies on
+  <hr /> <p>\[1] Community Based Organizations may include Area Agencies on
   Aging, Aging and Disability Resources Centers, Centers for Independent Living
-  or other aging and disability network agencies.</p> <p>\\[2] Examples of
+  or other aging and disability network agencies.</p> <p>\[2] Examples of
   statewide approaches include:&nbsp; 1) Oregon Health Leadership Council, HIT
   Commons, <a
   href="http://www.orhealthleadershipcouncil.org/hit-commons/">http://www.orhealthleadershipcouncil.org/hit-commons/</a>,
   2) Pennsylvania Request for Information for Statewide Resource and Referral
   Tool, <a
   href="http://www.emarketplace.state.pa.us/Solicitations.aspx?SID=Resource%20and%20Referral%20Tool">http://www.emarketplace.state.pa.us/Solicitations.aspx?SID=Resource%20and%20Referral%20Tool</a></p>
-  <p>\\[3] &ldquo;Advancing Interoperable Social Determinants of Health
+  <p>\[3] &ldquo;Advancing Interoperable Social Determinants of Health
   Data,&rdquo; HealthITBuzz blog post, December 12, 2019, <a
   href="https://www.healthit.gov/buzz-blog/interoperability/advancing-interoperable-social-determinants-of-health-data">https://www.healthit.gov/buzz-blog/interoperability/advancing-interoperable-social-determinants-of-health-data</a></p>
-  <p>\\[4] HL7 International, &ldquo;The Gravity Project&rdquo;, <a
+  <p>\[4] HL7 International, &ldquo;The Gravity Project&rdquo;, <a
   href="https://www.hl7.org/gravity/">https://www.hl7.org/gravity/</a></p>
 prizes: <p>The Challenge will compete in three phases with cash prizes awarded
   in each phase. The total prize award available is $500,000.</p>
