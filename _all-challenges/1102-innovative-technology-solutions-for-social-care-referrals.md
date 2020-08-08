@@ -381,7 +381,7 @@ submission-link: null
 <ul>
 <li>Form multi-stakeholder team, submit letter of intent and develop idea and concept designs that include data visualization methods and functional enhancements to technology platforms that connect health and social services.
 <ul>
-<li><strong><u>Intent to apply:</u></strong> An individual, entity, or captain of a team, with support of all team members, is to provide a brief letter of intent to submit an application for this Challenge. Email letter of intent by August 14, 2020 to <a href="mailto:ami.patel@acl.hhs.gov">ami.patel@acl.hhs.gov</a></li>
+<li><strong>Registration and Phase 1 Application due Monday, December 14, 2020. See below for more information. </strong></li>
 </ul>
 </li>
 </ul>
@@ -412,10 +412,10 @@ submission-link: null
 </ul>
 <p>For more information, please visit: <a href="https://www.challenge.gov/toolkit/faq/">https://www.challenge.gov/toolkit/faq/</a></p>
 <hr />
-<p>\\\\\[1] Community Based Organizations may include Area Agencies on Aging, Aging and Disability Resources Centers, Centers for Independent Living or other aging and disability network agencies.</p>
-<p>\\\\\[2] Examples of statewide approaches include: 1) Oregon Health Leadership Council, HIT Commons, <a href="http://www.orhealthleadershipcouncil.org/hit-commons/">http://www.orhealthleadershipcouncil.org/hit-commons/</a>, 2) Pennsylvania Request for Information for Statewide Resource and Referral Tool, <a href="http://www.emarketplace.state.pa.us/Solicitations.aspx?SID=Resource%20and%20Referral%20Tool">http://www.emarketplace.state.pa.us/Solicitations.aspx?SID=Resource%20and%20Referral%20Tool</a></p>
-<p>\\\\\[3] &ldquo;Advancing Interoperable Social Determinants of Health Data,&rdquo; HealthITBuzz blog post, December 12, 2019, <a href="https://www.healthit.gov/buzz-blog/interoperability/advancing-interoperable-social-determinants-of-health-data">https://www.healthit.gov/buzz-blog/interoperability/advancing-interoperable-social-determinants-of-health-data</a></p>
-<p>\\\\\[4] HL7 International, &ldquo;The Gravity Project&rdquo;, <a href="https://www.hl7.org/gravity/">https://www.hl7.org/gravity/</a></p>
+<p>\\\\\\[1] Community Based Organizations may include Area Agencies on Aging, Aging and Disability Resources Centers, Centers for Independent Living or other aging and disability network agencies.</p>
+<p>\\\\\\[2] Examples of statewide approaches include: 1) Oregon Health Leadership Council, HIT Commons, <a href="http://www.orhealthleadershipcouncil.org/hit-commons/">http://www.orhealthleadershipcouncil.org/hit-commons/</a>, 2) Pennsylvania Request for Information for Statewide Resource and Referral Tool, <a href="http://www.emarketplace.state.pa.us/Solicitations.aspx?SID=Resource%20and%20Referral%20Tool">http://www.emarketplace.state.pa.us/Solicitations.aspx?SID=Resource%20and%20Referral%20Tool</a></p>
+<p>\\\\\\[3] &ldquo;Advancing Interoperable Social Determinants of Health Data,&rdquo; HealthITBuzz blog post, December 12, 2019, <a href="https://www.healthit.gov/buzz-blog/interoperability/advancing-interoperable-social-determinants-of-health-data">https://www.healthit.gov/buzz-blog/interoperability/advancing-interoperable-social-determinants-of-health-data</a></p>
+<p>\\\\\\[4] HL7 International, &ldquo;The Gravity Project&rdquo;, <a href="https://www.hl7.org/gravity/">https://www.hl7.org/gravity/</a></p>
 
 <!-- Prizes start -->
 
