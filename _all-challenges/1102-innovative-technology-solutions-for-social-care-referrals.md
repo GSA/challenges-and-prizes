@@ -115,14 +115,14 @@ description: <p>At an unprecedented pace, Federal and state leaders, community
   data analysis.</p> <p>The Challenge will compete in three phases with cash
   prizes awarded in each phase. The total prize award available is $500,000.
   &nbsp;</p> <p>Phase 1:&nbsp; Concept &amp; Design Submission (July &ndash;
-  December 2020)</p> <ul> <li>Form multi-stakeholder team, submit letter of
+  December 2020)</p> <ul> </li>Form multi-stakeholder team, submit letter of
   intent and develop idea and concept designs that include data visualization
   methods and functional enhancements to technology platforms that connect
-  health and social services. <ul> <li><strong><u>Registration and Phase 1 Application due Monday, December 14, 2020. See below for more information.</u></strong></li> </ul> <p>Phase 2:&nbsp; Proof of Concept &amp; Demonstration (January 2021
+  health and social services.</li> <li><strong>Registration and Phase 1 Application due Monday, December 14, 2020. See below for more information.</strong></li> <p>Phase 2:&nbsp; Proof of Concept &amp; Demonstration (January 2021
   &ndash; June 2021)</p> <ul> <li>Participant teams will convene in-person or
-  virtually to demo proposed solutions.</li> </ul> <p>Phase 3:&nbsp;
+  virtually to demo proposed solutions.</li> <p>Phase 3:&nbsp;
   Implementation &amp; Testing - (July &ndash; December 2021)</p> <ul>
-  <li>Implementation and real-world testing of designed approach.</li> </ul>
+  <li>Implementation and real-world testing of designed approach.</li> 
   <p><strong><u>What is a Challenge?</u></strong></p> <p>A challenge (also
   referred to as "prize challenge,&rdquo; "competition," "prize competition,"
   "incentive prize" or any combination thereof) allows the public to solve
