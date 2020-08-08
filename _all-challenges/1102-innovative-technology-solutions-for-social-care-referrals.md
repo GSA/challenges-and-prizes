@@ -118,12 +118,7 @@ description: <p>At an unprecedented pace, Federal and state leaders, community
   December 2020)</p> <ul> <li>Form multi-stakeholder team, submit letter of
   intent and develop idea and concept designs that include data visualization
   methods and functional enhancements to technology platforms that connect
-  health and social services. <ul> <li><strong><u>Intent to apply:</u></strong>
-  An individual, entity, or captain of a team, with support of all team members,
-  is to provide a brief letter of intent to submit an application for this
-  Challenge. Email letter of intent by August 14, 2020 to <a
-  href="mailto:ami.patel@acl.hhs.gov">ami.patel@acl.hhs.gov</a></li> </ul> </li>
-  </ul> <p>Phase 2:&nbsp; Proof of Concept &amp; Demonstration (January 2021
+  health and social services. <ul> <li><strong><u>Registration and Phase 1 Application due Monday, December 14, 2020. See below for more information.</u></strong></li> </ul> <p>Phase 2:&nbsp; Proof of Concept &amp; Demonstration (January 2021
   &ndash; June 2021)</p> <ul> <li>Participant teams will convene in-person or
   virtually to demo proposed solutions.</li> </ul> <p>Phase 3:&nbsp;
   Implementation &amp; Testing - (July &ndash; December 2021)</p> <ul>
@@ -157,19 +152,19 @@ description: <p>At an unprecedented pace, Federal and state leaders, community
   technologies your agency provides</li> <li>Develop public buy-in for agency
   initiatives</li> </ul> <p>For more information, please visit:&nbsp; <a
   href="https://www.challenge.gov/toolkit/faq/">https://www.challenge.gov/toolkit/faq/</a></p>
-  <hr /> <p>\[1] Community Based Organizations may include Area Agencies on
+  <hr /> <p>[1] Community Based Organizations may include Area Agencies on
   Aging, Aging and Disability Resources Centers, Centers for Independent Living
-  or other aging and disability network agencies.</p> <p>\[2] Examples of
+  or other aging and disability network agencies.</p> <p>[2] Examples of
   statewide approaches include:&nbsp; 1) Oregon Health Leadership Council, HIT
   Commons, <a
   href="http://www.orhealthleadershipcouncil.org/hit-commons/">http://www.orhealthleadershipcouncil.org/hit-commons/</a>,
   2) Pennsylvania Request for Information for Statewide Resource and Referral
   Tool, <a
   href="http://www.emarketplace.state.pa.us/Solicitations.aspx?SID=Resource%20and%20Referral%20Tool">http://www.emarketplace.state.pa.us/Solicitations.aspx?SID=Resource%20and%20Referral%20Tool</a></p>
-  <p>\[3] &ldquo;Advancing Interoperable Social Determinants of Health
+  <p>[3] &ldquo;Advancing Interoperable Social Determinants of Health
   Data,&rdquo; HealthITBuzz blog post, December 12, 2019, <a
   href="https://www.healthit.gov/buzz-blog/interoperability/advancing-interoperable-social-determinants-of-health-data">https://www.healthit.gov/buzz-blog/interoperability/advancing-interoperable-social-determinants-of-health-data</a></p>
-  <p>\[4] HL7 International, &ldquo;The Gravity Project&rdquo;, <a
+  <p>[4] HL7 International, &ldquo;The Gravity Project&rdquo;, <a
   href="https://www.hl7.org/gravity/">https://www.hl7.org/gravity/</a></p>
 prizes: <p>The Challenge will compete in three phases with cash prizes awarded
   in each phase. The total prize award available is $500,000.</p>
@@ -223,7 +218,7 @@ rules: <p>To be eligible to win a prize under this challenge, an individual or
   activity carried out in connection with participation in a challenge.</li>
   <li>Participants must also agree to indemnify the Federal Government against
   third party claims for damages arising from or related to Challenge
-  activities.</li> </ul> <p>The Administration for Community Living reserves the
+  activities.</li> <li>Contestants to this Challenge competition must agree to be bound by the rules of the Challenge, agree that the decision of the judges for this Challenge are final and binding, and acknowledge that their submission may be the subject of a Freedom of Information Act (FOIA) request and that they are responsible for identifying and marking all businiess confidential and proprietary information in their submission.<li> </ul> <p>The Administration for Community Living reserves the
   right, in its sole discretion, to (a) cancel, suspend, or modify the
   Challenge, and/or (b) not award any prizes if no entries are deemed
   worthy.</p>
@@ -381,9 +376,7 @@ submission-link: null
 <ul>
 <li>Form multi-stakeholder team, submit letter of intent and develop idea and concept designs that include data visualization methods and functional enhancements to technology platforms that connect health and social services.
 <ul>
-<li><strong><u>Intent to apply:</u></strong> An individual, entity, or captain of a team, with support of all team members, is to provide a brief letter of intent to submit an application for this Challenge. Email letter of intent by August 14, 2020 to <a href="mailto:ami.patel@acl.hhs.gov">ami.patel@acl.hhs.gov</a></li>
-</ul>
-</li>
+<li><strong>Registration and Phase 1 Application due Monday, December 14, 2020. See below for more information.</strong></li>
 </ul>
 <p>Phase 2: Proof of Concept &amp; Demonstration (January 2021 &ndash; June 2021)</p>
 <ul>
@@ -412,10 +405,10 @@ submission-link: null
 </ul>
 <p>For more information, please visit: <a href="https://www.challenge.gov/toolkit/faq/">https://www.challenge.gov/toolkit/faq/</a></p>
 <hr />
-<p>\\\\\[1] Community Based Organizations may include Area Agencies on Aging, Aging and Disability Resources Centers, Centers for Independent Living or other aging and disability network agencies.</p>
-<p>\\\\\[2] Examples of statewide approaches include: 1) Oregon Health Leadership Council, HIT Commons, <a href="http://www.orhealthleadershipcouncil.org/hit-commons/">http://www.orhealthleadershipcouncil.org/hit-commons/</a>, 2) Pennsylvania Request for Information for Statewide Resource and Referral Tool, <a href="http://www.emarketplace.state.pa.us/Solicitations.aspx?SID=Resource%20and%20Referral%20Tool">http://www.emarketplace.state.pa.us/Solicitations.aspx?SID=Resource%20and%20Referral%20Tool</a></p>
-<p>\\\\\[3] &ldquo;Advancing Interoperable Social Determinants of Health Data,&rdquo; HealthITBuzz blog post, December 12, 2019, <a href="https://www.healthit.gov/buzz-blog/interoperability/advancing-interoperable-social-determinants-of-health-data">https://www.healthit.gov/buzz-blog/interoperability/advancing-interoperable-social-determinants-of-health-data</a></p>
-<p>\\\\\[4] HL7 International, &ldquo;The Gravity Project&rdquo;, <a href="https://www.hl7.org/gravity/">https://www.hl7.org/gravity/</a></p>
+<p>[1] Community Based Organizations may include Area Agencies on Aging, Aging and Disability Resources Centers, Centers for Independent Living or other aging and disability network agencies.</p>
+<p>[2] Examples of statewide approaches include: 1) Oregon Health Leadership Council, HIT Commons, <a href="http://www.orhealthleadershipcouncil.org/hit-commons/">http://www.orhealthleadershipcouncil.org/hit-commons/</a>, 2) Pennsylvania Request for Information for Statewide Resource and Referral Tool, <a href="http://www.emarketplace.state.pa.us/Solicitations.aspx?SID=Resource%20and%20Referral%20Tool">http://www.emarketplace.state.pa.us/Solicitations.aspx?SID=Resource%20and%20Referral%20Tool</a></p>
+<p>[3] &ldquo;Advancing Interoperable Social Determinants of Health Data,&rdquo; HealthITBuzz blog post, December 12, 2019, <a href="https://www.healthit.gov/buzz-blog/interoperability/advancing-interoperable-social-determinants-of-health-data">https://www.healthit.gov/buzz-blog/interoperability/advancing-interoperable-social-determinants-of-health-data</a></p>
+<p>[4] HL7 International, &ldquo;The Gravity Project&rdquo;, <a href="https://www.hl7.org/gravity/">https://www.hl7.org/gravity/</a></p>
 
 <!-- Prizes start -->
 
@@ -447,6 +440,7 @@ submission-link: null
 <li>Participants must also agree to assume any and all risks and waive claims against the Federal Government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from my participation in this prize contest, whether the injury, death, damage, or loss arises through negligence or otherwise.</li>
 <li>Participants are required to obtain liability insurance or demonstrate financial responsibility in the amount of $0 for claims by a third party for death, bodily injury, or property damage, or loss resulting from an activity carried out in connection with participation in a challenge.</li>
 <li>Participants must also agree to indemnify the Federal Government against third party claims for damages arising from or related to Challenge activities.</li>
+<li>Contestants to this Challenge competition must agree to be bound by the rules of the Challenge, agree that the decision of the judges for this Challenge are final and binding, and acknowledge that their submission may be the subject of a Freedom of Information Act (FOIA) request and that they are responsible for identifying and marking all businiess confidential and proprietary information in their submission.<li>
 </ul>
 <p>The Administration for Community Living reserves the right, in its sole discretion, to (a) cancel, suspend, or modify the Challenge, and/or (b) not award any prizes if no entries are deemed worthy.</p>
 
