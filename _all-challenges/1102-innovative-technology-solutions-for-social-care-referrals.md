@@ -383,10 +383,13 @@ submission-link: null
 <ul>
 <li>Form multi-stakeholder team, submit letter of intent and develop idea and concept designs that include data visualization methods and functional enhancements to technology platforms that connect health and social services.
 <li><strong>Registration and Phase 1 Application due Monday, December 14, 2020. See below for more information.</strong>
+<ul>
 <p>Phase 2: Proof of Concept &amp; Demonstration (January 2021 &ndash; June 2021) </p>
 <li>Participant teams will convene in-person or virtually to demo proposed solutions.</li>
+<ul>
 <p>Phase 3: Implementation &amp; Testing - (July &ndash; December 2021)</p>
-<li>Implementation and real-world testing of designed approach.</li>
+<li>Implementation and real-world testing of designed approach.
+<ul>
 <p><strong><u>What is a Challenge?</u></strong></p>
 <p>A challenge (also referred to as "prize challenge,&rdquo; "competition," "prize competition," "incentive prize" or any combination thereof) allows the public to solve problems presented by federal agencies and receive awards for the best solutions. This boils down to three steps:</p>
 <ol>
