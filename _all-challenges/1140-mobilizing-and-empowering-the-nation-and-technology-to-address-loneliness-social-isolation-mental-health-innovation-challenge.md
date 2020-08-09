@@ -625,7 +625,7 @@ The top two contenders will be notified December 15, 2020. The winner and runner
    * [Webinar Transcript](<https://acl.gov/sites/default/files/programs/2020-07/MENTAL_Challenge_ 7 9 2020 Webinar Transcript.pdf>)
 4. July 30, 2020 Mental Health Innovation Challenge Webinar Materials:
 
-   * Webinar Recording
+   * [Webinar Recording](https://optum.webex.com/mw3300/mywebex/nbrDownload.do?siteurl=optum)
    * [Webinar Transcript](https://acl.gov/sites/default/files/programs/2020-08/MENTAL_Health_Webinar_2_Transcript.pdf)
    * [Webinar Slides](https://acl.gov/sites/default/files/programs/2020-08/Overview_MENTAL_Webinar_7.30.2020_FINAL.pdf)
 5. July 16, 2020: [Frequently Asked Questions Document](<https://acl.gov/sites/default/files/programs/2020-07/Frequent Asked Questions_7.16.2020_0.pdf>)
