@@ -32,9 +32,11 @@ challenge-manager: "Gilbert.Thompson@acl.hhs.gov "
 challenge-manager-email: "Gilbert.Thompson@acl.hhs.gov "
 point-of-contact: "MENTALHealthChallenge@acl.hhs.gov "
 description: >-
-  
-
-  This year, we've been forced to rethink the myriad of different ways we connect, socialize and interact with each other. In the absence of face-to-face time, can technology and online tools help us make, maintain, and strengthen those connections so vital to everyday life? We believe they can. That’s why we need your help. 
+  This year, we've been forced to rethink the myriad of different ways we
+  connect, socialize and interact with each other. In the absence of
+  face-to-face time, can technology and online tools help us make, maintain, and
+  strengthen those connections so vital to everyday life? We believe they can.
+  That’s why we need your help. 
 
 
   Can you design an easy-to-use online directory of social engagement programs and technology tools and products that matches end-users who are socially isolated with customized suggestions, tailored to meet their specific needs, interests, and abilities, in one seamless end-to-end experience? Then we want to hear from you.
@@ -114,9 +116,11 @@ description: >-
 
   * Open June 23, 2020 through September 8, 2020.
 
-  * Informational Webinar will be held on July 9, 2020.
+  * Informational Webinar was held on July 9, 2020.
 
-  * Additional Informational Webinar will be held on July 30, 2020; Register for the webinar [here](https://optum.webex.com/mw3300/mywebex/default.do?nomenu=true&siteurl=optum&service=6&rnd=0.2340960729154441&main_url=https%3A%2F%2Foptum.webex.com%2Fec3300%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Ddetail%26%26%26EMK%3D4832534b000000046a71413297acdf8c76d6d60dd7a6b8acab6433e5c8f27ae5c4329d1dc6066e20%26siteurl%3Doptum%26confViewID%3D166297728773533102%26encryptTicket%3DSDJTSwAAAAQ2pi9QM5FlFR8qVYNNFvD0nscme66yEp4k_dOb8y3W7g2%26).
+  * Additional Informational Webinar was held on July 30, 2020.
+
+  * Additional Informational Webinar will be held on August 12, 2020; [Register for the webinar.](https://optum.webex.com/dispatcher/dispatcher/jsp/pagenotfound.jsp)
 
   * Registration email to register for the competition are due ideally by July 15, 2020 and no later than September 8, 2020.
 
@@ -183,6 +187,16 @@ rules: >-
   * Entrants must also agree to indemnify the Federal government against third-party claims for damages arising from or related to competition activities.
 
   * The Federal government will not select as a winner an individual or entity that is on the Excluded Parties List.
+
+
+  #### Technical Rules:
+
+
+  * Platform: Solution shall be a web based application, and public internet accessible using a common web browser.
+
+  * Accessibility: Solution shall comply with Section 508 standards, and conform to either WCAG 2.0 Level A, AA, or AAA.
+
+  * Security: Solution shall follow OWASP Top Ten Proactive Controls 2018. While all ten controls are important and complementary to web applications security, particular attention should be given to C3, C7, and C8.
 
 
   #### Terms and Conditions
@@ -298,9 +312,11 @@ how-to-enter: >-
 
         * Solver Official Representative (person of contact) contact information (full name, email, phone)
         * Name of organization(s) and all team member(s) submitting entry
-      * A three-page MAX concept paper describing the design and functionality of the Social Engagement Clearinghouse and User Interface Prototype document as PDF
+      * A three-page MAX concept paper describing the technical design and functionality of the Social Engagement Clearinghouse and User Interface Prototype document as PDF
       * Wireframe sketch of the Social Engagement Clearinghouse and User Interface Prototype: The wireframe sketch should be included as either an attachment or included as a link in the body of the email Submission to a clickable website. A one-page document description of the wireframe sketch should be included with the Submission with sufficient information to understand the prototype.
       * A URL link and any information needed to access the working prototype of the Social Engagement Clearinghouse and User Interface Prototype.
+      * A self-audit of the Social Engagement Clearinghouse Interactive Prototype that includes which WCAG 2.0 criteria are met and why they were chosen.
+      * A plan for maximum conformance with WCAG 2.0 Level AAA.
       * A one-page max written description of the proposed plan to pilot the prototype in Phase 2 should the submission be selected as a finalist to move to Phase 2.
       * A one-page max written description of the proposed approach to evaluate the prototype during the pilot phase.
 
@@ -350,18 +366,23 @@ how-to-enter: >-
 
   3. July 9, 2020: MENTAL Health Innovation Challenge Webinar Materials:
 
-     * [Recording](https://optum.webex.com/recordingservice/sites/optum/recording/956008c6bbc84f638a707f67f25a25bd)
-     * [PowerPoint Slides](<https://acl.gov/sites/default/files/programs/2020-07/Overview_MENTAL_Webinar_7.9.2020 slide deck.pdf>)
-     * [Transcript](<https://acl.gov/sites/default/files/programs/2020-07/MENTAL_Challenge_ 7 9 2020 Webinar Transcript.pdf>)
-  4. July 16, 2020: [Frequently Asked Questions Document](<https://acl.gov/sites/default/files/programs/2020-07/Frequent Asked Questions_7.16.2020_0.pdf>)
+     * [Webinar Recording](https://optum.webex.com/recordingservice/sites/optum/recording/956008c6bbc84f638a707f67f25a25bd)
+     * [Webinar Slides](<https://acl.gov/sites/default/files/programs/2020-07/Overview_MENTAL_Webinar_7.9.2020 slide deck.pdf>)
+     * [Webinar Transcript](<https://acl.gov/sites/default/files/programs/2020-07/MENTAL_Challenge_ 7 9 2020 Webinar Transcript.pdf>)
+  4. July 30, 2020 MENTAL Health Innovation Challenge Webinar Materials
 
-  5. July 31, 2020: [Frequently Asked Questions Document Update](https://acl.gov/sites/default/files/programs/2020-07/Frequent%20Asked%20Questions_7.31.2020_V2%20%28003%29.pdf)
+     * [Webinar Recording](https://optum.webex.com/mw3300/mywebex/nbrDownload.do?siteurl=optum)
+     * [Webinar Transcript](https://acl.gov/sites/default/files/programs/2020-08/MENTAL_Health_Webinar_2_Transcript.pdf)
+     * [](https://acl.gov/sites/default/files/programs/2020-08/Overview_MENTAL_Webinar_7.30.2020_FINAL.pdf)[Webinar Slides](https://acl.gov/sites/default/files/programs/2020-08/Overview_MENTAL_Webinar_7.30.2020_FINAL.pdf)
+  5. July 16, 2020: [Frequently Asked Questions Document](<https://acl.gov/sites/default/files/programs/2020-07/Frequent Asked Questions_7.16.2020_0.pdf>)
 
-  6. Educational Webinars on Using Technology to Address Social Isolation:
+  6. July 31, 2020: [Frequently Asked Questions Document Update](https://acl.gov/sites/default/files/programs/2020-07/Frequent%20Asked%20Questions_7.31.2020_V2%20%28003%29.pdf)
+
+  7. Educational Webinars on Using Technology to Address Social Isolation:
 
      1. [June 26th webinar](https://acl.gov/MENTAL):  Addressing Social Isolation Through Technology Solutions
      2. [July 9th webinar](https://acl.gov/MENTAL): Successfully Engaging Older Adults & Adults with Disabilities via Technology Strategies and Best Practices
-  7. Eldercare Locator is a public service provided by the U.S. Administration for Community living, Administration on Aging that connects people to services for older adults. Eldercare Locator can be navigated independently online or individuals can speak with a person via 800-677-1116.  The Eldercare Locator has an open API that can be accessed at this link:  <https://eldercare.acl.gov/Public/Site_Utilities/API_Reg/API_Registration.aspx>.
+  8. Eldercare Locator is a public service provided by the U.S. Administration for Community living, Administration on Aging that connects people to services for older adults. Eldercare Locator can be navigated independently online or individuals can speak with a person via 800-677-1116.  The Eldercare Locator has an open API that can be accessed at this link:  <https://eldercare.acl.gov/Public/Site_Utilities/API_Reg/API_Registration.aspx>.
 ---
 ### Description
 
@@ -416,8 +437,9 @@ The challenge will compete in two phases with cash prizes awarded in each phase.
 Phase 1: Plan and Design a Social Engagement Clearinghouse and User Interface Prototype 
 
 * Open June 23, 2020 through September 8, 2020.
-* Informational Webinar will be held on July 9, 2020.
-* Additional Informational Webinar will be held on July 30, 2020; Register for the webinar [here](https://optum.webex.com/mw3300/mywebex/default.do?nomenu=true&siteurl=optum&service=6&rnd=0.2340960729154441&main_url=https%3A%2F%2Foptum.webex.com%2Fec3300%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Ddetail%26%26%26EMK%3D4832534b000000046a71413297acdf8c76d6d60dd7a6b8acab6433e5c8f27ae5c4329d1dc6066e20%26siteurl%3Doptum%26confViewID%3D166297728773533102%26encryptTicket%3DSDJTSwAAAAQ2pi9QM5FlFR8qVYNNFvD0nscme66yEp4k_dOb8y3W7g2%26).
+* Informational Webinar was held on July 9, 2020.
+* Additional Informational Webinar was held on July 30, 2020.
+* Additional Informational Webinar will be held on August 12, 2020; [Register for the webinar](https://optum.webex.com/dispatcher/dispatcher/jsp/pagenotfound.jsp)
 * Registration email to register for the competition are due ideally by July 15, 2020 and no later than September 8, 2020.
 * Submissions for Phase 1 are due September 8, 2020.
 * Judging for Phase 1 will occur from September 8, 2020 through September 29, 2020. 
@@ -462,6 +484,12 @@ Additionally:
 * The top 2 contenders of Phase 2 must agree to use a portion of their prize award to travel to the CES 2021 in Las Vegas, NV.
 * Entrants must also agree to indemnify the Federal government against third-party claims for damages arising from or related to competition activities.
 * The Federal government will not select as a winner an individual or entity that is on the Excluded Parties List.
+
+#### Technical Rules:
+
+* Platform: Solution shall be a web based application, and public internet accessible using a common web browser.
+* Accessibility: Solution shall comply with Section 508 standards, and conform to either WCAG 2.0 Level A, AA, or AAA.
+* Security: Solution shall follow OWASP Top Ten Proactive Controls 2018. While all ten controls are important and complementary to web applications security, particular attention should be given to C3, C7, and C8.
 
 #### Terms and Conditions
 
@@ -556,9 +584,11 @@ Submissions for Phase 1 of this Challenge are due by September 8, 2020 at 11:59 
 
       * Solver Official Representative (person of contact) contact information (full name, email, phone)
       * Name of organization(s) and all team member(s) submitting entry
-    * A three-page MAX concept paper describing the design and functionality of the Social Engagement Clearinghouse and User Interface Prototype document as PDF
+    * A three-page MAX concept paper describing the technical design and functionality of the Social Engagement Clearinghouse and User Interface Prototype document as PDF
     * Wireframe sketch of the Social Engagement Clearinghouse and User Interface Prototype: The wireframe sketch should be included as either an attachment or included as a link in the body of the email Submission to a clickable website. A one-page document description of the wireframe sketch should be included with the Submission with sufficient information to understand the prototype.
     * A URL link and any information needed to access the working prototype of the Social Engagement Clearinghouse and User Interface Prototype.
+    * A self-audit of the Social Engagement Clearinghouse Interactive Prototype that includes which WCAG 2.0 criteria are met and why those were chosen.
+    * A plan for maximum conformance with WCAG 2.0 Level AAA.
     * A one-page max written description of the proposed plan to pilot the prototype in Phase 2 should the submission be selected as a finalist to move to Phase 2.
     * A one-page max written description of the proposed approach to evaluate the prototype during the pilot phase.
 
@@ -590,13 +620,18 @@ The top two contenders will be notified December 15, 2020. The winner and runner
 2. To find a Veteran-Directed Care (VDC) Provider, go to <https://nwd.acl.gov/find-vdc-program.html>
 3. July 9, 2020: MENTAL Health Innovation Challenge Webinar Materials:
 
-   * [Recording](https://optum.webex.com/recordingservice/sites/optum/recording/956008c6bbc84f638a707f67f25a25bd)
-   * [PowerPoint Slides](<https://acl.gov/sites/default/files/programs/2020-07/Overview_MENTAL_Webinar_7.9.2020 slide deck.pdf>)
-   * [Transcript](<https://acl.gov/sites/default/files/programs/2020-07/MENTAL_Challenge_ 7 9 2020 Webinar Transcript.pdf>)
-4. July 16, 2020: [Frequently Asked Questions Document](<https://acl.gov/sites/default/files/programs/2020-07/Frequent Asked Questions_7.16.2020_0.pdf>)
-5. July 31, 2020: [Frequently Asked Questions Document Update](https://acl.gov/sites/default/files/programs/2020-07/Frequent%20Asked%20Questions_7.31.2020_V2%20%28003%29.pdf)
-6. Educational Webinars on Using Technology to Address Social Isolation:
+   * [Webinar Recording](https://optum.webex.com/recordingservice/sites/optum/recording/956008c6bbc84f638a707f67f25a25bd)
+   * [Webinar Slides](<https://acl.gov/sites/default/files/programs/2020-07/Overview_MENTAL_Webinar_7.9.2020 slide deck.pdf>)
+   * [Webinar Transcript](<https://acl.gov/sites/default/files/programs/2020-07/MENTAL_Challenge_ 7 9 2020 Webinar Transcript.pdf>)
+4. July 30, 2020 Mental Health Innovation Challenge Webinar Materials:
+
+   * Webinar Recording
+   * [Webinar Transcript](https://acl.gov/sites/default/files/programs/2020-08/MENTAL_Health_Webinar_2_Transcript.pdf)
+   * [Webinar Slides](https://acl.gov/sites/default/files/programs/2020-08/Overview_MENTAL_Webinar_7.30.2020_FINAL.pdf)
+5. July 16, 2020: [Frequently Asked Questions Document](<https://acl.gov/sites/default/files/programs/2020-07/Frequent Asked Questions_7.16.2020_0.pdf>)
+6. July 31, 2020: [Frequently Asked Questions Document Update](https://acl.gov/sites/default/files/programs/2020-07/Frequent%20Asked%20Questions_7.31.2020_V2%20%28003%29.pdf)
+7. Educational Webinars on Using Technology to Address Social Isolation:
 
    1. [June 26th webinar](https://acl.gov/MENTAL):  Addressing Social Isolation Through Technology Solutions
    2. [July 9th webinar](https://acl.gov/MENTAL): Successfully Engaging Older Adults & Adults with Disabilities via Technology Strategies and Best Practices
-7. Eldercare Locator is a public service provided by the U.S. Administration for Community living, Administration on Aging that connects people to services for older adults. Eldercare Locator can be navigated independently online or individuals can speak with a person via 800-677-1116.  The Eldercare Locator has an open API that can be accessed at this link:  <https://eldercare.acl.gov/Public/Site_Utilities/API_Reg/API_Registration.aspx>.
+8. Eldercare Locator is a public service provided by the U.S. Administration for Community living, Administration on Aging that connects people to services for older adults. Eldercare Locator can be navigated independently online or individuals can speak with a person via 800-677-1116.  The Eldercare Locator has an open API that can be accessed at this link:  <https://eldercare.acl.gov/Public/Site_Utilities/API_Reg/API_Registration.aspx>.
