@@ -19,8 +19,8 @@ type-of-challenge:
   - Ideas
   - Analytics, visualizations, algorithms
   - Scientific
-submission-start: 2020/04/13 09:00 PM
-submission-end: 2020/08/07 05:00 PM
+submission-start: 04/13/2020 09:00 PM
+submission-end: 08/07/2020 05:00 PM
 fiscal-year: FY20, FY21, FY22
 legal-authority: America COMPETES Act
 challenge-manager: Craig Connelly
