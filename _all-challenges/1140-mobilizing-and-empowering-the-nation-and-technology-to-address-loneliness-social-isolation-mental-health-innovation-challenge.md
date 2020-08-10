@@ -120,9 +120,9 @@ description: >-
 
   * Additional Informational Webinar was held on July 30, 2020.
 
-  * Additional Informational Webinar will be held on August 12, 2020; [Register for the webinar.](https://optum.webex.com/dispatcher/dispatcher/jsp/pagenotfound.jsp)
+  * Additional Informational Webinar will be held on August 12, 2020; [Register for the webinar.]( Additional Informational Webinar will be held on August 12, 2020; [Register for the webinar](https://optum.webex.com/mw3300/mywebex/default.do?nomenu=true&siteurl=optum&service=6&rnd=0.9570428522948246&main_url=https%3A%2F%2Foptum.webex.com%2Fec3300%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Ddetail%26%26%26EMK%3D4832534b00000004d1e1b3af53a2d35d8b8a260b93a70758a27137344045b562a28ce2fbdf67c102%26siteurl%3Doptum%26confViewID%3D168839673466072393%26encryptTicket%3DSDJTSwAAAAQRx2UBK04zku5DqX_Pc4gGXNde1si5fUNg3idRJq-NkA2%26))
 
-  * Registration email to register for the competition are due ideally by July 15, 2020 and no later than September 8, 2020.
+  * Registration email to register for the competition is due ideally by July 15, 2020 and no later than September 8, 2020.
 
   * Submissions for Phase 1 are due September 8, 2020.
 
@@ -439,8 +439,8 @@ Phase 1: Plan and Design a Social Engagement Clearinghouse and User Interface Pr
 * Open June 23, 2020 through September 8, 2020.
 * Informational Webinar was held on July 9, 2020.
 * Additional Informational Webinar was held on July 30, 2020.
-* Additional Informational Webinar will be held on August 12, 2020; [Register for the webinar](https://optum.webex.com/dispatcher/dispatcher/jsp/pagenotfound.jsp)
-* Registration email to register for the competition are due ideally by July 15, 2020 and no later than September 8, 2020.
+* Additional Informational Webinar will be held on August 12, 2020; [Register for the webinar](https://optum.webex.com/mw3300/mywebex/default.do?nomenu=true&siteurl=optum&service=6&rnd=0.9570428522948246&main_url=https%3A%2F%2Foptum.webex.com%2Fec3300%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Ddetail%26%26%26EMK%3D4832534b00000004d1e1b3af53a2d35d8b8a260b93a70758a27137344045b562a28ce2fbdf67c102%26siteurl%3Doptum%26confViewID%3D168839673466072393%26encryptTicket%3DSDJTSwAAAAQRx2UBK04zku5DqX_Pc4gGXNde1si5fUNg3idRJq-NkA2%26)
+* Registration email to register for the competition is due ideally by July 15, 2020 and no later than September 8, 2020.
 * Submissions for Phase 1 are due September 8, 2020.
 * Judging for Phase 1 will occur from September 8, 2020 through September 29, 2020. 
 * Finalists that move into Phase 2 will be awarded by September 30, 2020.  
