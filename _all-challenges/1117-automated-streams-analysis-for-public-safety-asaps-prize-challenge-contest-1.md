@@ -6,7 +6,7 @@ challenge-title: "Automated Streams Analysis for Public Safety (ASAPS) Prize
 layout: front-matter-data-markdownify-content
 permalink: /challenge/ASAPSContest1/
 challenge-id: "1117"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/asaps-card.jpg
 agency-logo: /assets/netlify-uploads/NIST_logo.png
