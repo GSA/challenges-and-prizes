@@ -349,10 +349,9 @@ The Judging Panel will be composed of federal and/or other technical and subject
    * Inclusion of co-leadership roles from state and/or community leaders and health care organizations
 3. Scalability and Feasibility of Implementation
 
-* Solution identifies nationally recognized or emerging health IT standards for bi-directional e-referral messages and community resource directories for use cases as applicable. Proposed solutions shall consider the desirable future state of interoperability for the proposed use cases(s), but recognize the need to interoperate with legacy health IT systems and home and community-based IT systems.
-* Inclusive of the Gravity Project identified terminology (LOINC, SNOMED-CT, and ICD-10) and technical standards (HL7 FHIR) to represent and exchange SDOH data
-* Developed and supported open Application Programming Interfaces (APIs) for existing community resource directories
-
+   * Solution identifies nationally recognized or emerging health IT standards for bi-directional e-referral messages and community resource directories for use cases as applicable. Proposed solutions shall consider the desirable future state of interoperability for the proposed use cases(s), but recognize the need to interoperate with legacy health IT systems and home and community-based IT systems.
+   * Inclusive of the Gravity Project identified terminology (LOINC, SNOMED-CT, and ICD-10) and technical standards (HL7 FHIR) to represent and exchange SDOH data
+   * Developed and supported open Application Programming Interfaces (APIs) for existing community resource directories
 4. Product Functionality and Usability
 
    * Proposal has broad applicability (i.e., across conditions, populations, health IT environments/technologies/platforms)
@@ -361,9 +360,9 @@ The Judging Panel will be composed of federal and/or other technical and subject
    * Analytics and dashboards visuals to track service delivery, and outcomes.
 5. Identification and Mitigation of Business and Technical Risk
 
-* Identifies potential business and technical risks associated with closed-loop referral processes
-* Inclusive of appropriate management and technical controls to ensure that the storage, exchange, and use of data satisfies applicable legal and regulatory standards
-* Valid operational security and privacy measures are addressed
+   * Identifies potential business and technical risks associated with closed-loop referral processes
+   * Inclusive of appropriate management and technical controls to ensure that the storage, exchange, and use of data satisfies applicable legal and regulatory standards
+   * Valid operational security and privacy measures are addressed
 
 ### How To Enter
 
