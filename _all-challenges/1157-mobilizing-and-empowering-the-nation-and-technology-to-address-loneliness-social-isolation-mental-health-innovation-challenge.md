@@ -149,7 +149,46 @@ prizes: >-
 
 
   The Phase 2 Prize Challenge award amount is $550,000. The winner will be awarded $450,000 and the runner-up will be awarded $100,000. Finalists and the winner are eligible for a bonus prize if they submit a written assessment detailing their continued work to implement, scale and sustain the solution. Total funds available for the bonus prize is $50,000. The bonus prize submissions will be due September 30, 2021 and details will be provided at a later date.
-rules: ""
+rules: >-
+  #### Eligibility:
+
+
+  To be eligible to win a prize under this challenge, an individual or entity may participate as part of one or more teams. Team formation is strongly encouraged, and teams are not limited in the number of members. Each team must designate a captain who must be a U.S. citizen or permanent resident who is responsible for all correspondence regarding this Challenge. An individual or entity:
+
+
+  * Shall have registered to participate in the competition under the rules promulgated by the Administration for Community Living;
+
+  * Shall have complied with all the requirements under this section;
+
+  * In the case of a private entity, shall be incorporated in and maintain a primary place of business in the United States, and in the case of an individual, whether participating singly or in a group, shall be a citizen or permanent resident of the United States;
+
+  * May not be a Federal entity or Federal employee acting within the scope of their employment (all non-HHS, non-FCC or non-VA federal employees must consult with their agency Ethics Official to determine whether the federal ethics rules will limit or prohibit the acceptance of a COMPETES Act prize);
+
+  * Shall not be an HHS, FCC, or VA employee;
+
+  * Federal grantees may not use Federal funds to develop submissions unless consistent with the purpose of their grant award; and
+
+  * Federal contractors may not use Federal funds from a contract to develop COMPETES Act challenge submissions or to fund efforts in support of a COMPETES Act challenge submission.
+
+
+  **Additionally:**
+
+
+  * The top 2 contenders of Phase 2 must agree to use a portion of their prize award to travel to the CES 2021 in Las Vegas, NV.
+
+  * Entrants must also agree to indemnify the Federal government against third-party claims for damages arising from or related to competition activities.
+
+  * The Federal government will not select as a winner an individual or entity that is on the Excluded Parties List.
+
+
+  #### Technical Rules:
+
+
+  * Platform: Solution shall be a web based application, and public internet accessible using a common web browser.
+
+  * Accessibility: Solution shall comply with Section 508 standards, and conform to either WCAG 2.0 Level A, AA, or AAA.
+
+  * Security: Solution shall follow OWASP Top Ten Proactive Controls 2018. While all ten controls are important and complementary to web applications security, particular attention should be given to C3, C7, and C8.
 judging: >-
   The Judging Panel will be composed of federal and/or other technical and
   subject matter experts.
