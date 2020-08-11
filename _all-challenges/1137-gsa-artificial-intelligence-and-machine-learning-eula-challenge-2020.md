@@ -326,7 +326,7 @@ how-to-enter: >-
 
   * Output file in prescribed format.
 
-  * Includes classification of clauses contained in Validation File, along with confidence scores.
+  * Includes classification of clauses contained in Validation File, with the following information:
 
     * Clause ID
     * Prediction: 0 - acceptable, 1 - unacceptable
@@ -561,7 +561,7 @@ Upload the following deliverables to GitHub following these instructions: <https
 **1. Validation Data File**
 
 * Output file in prescribed format.
-* Includes classification of clauses contained in Validation File, along with confidence scores.
+* Includes classification of clauses contained in Validation File, with the following information:
 
   * Clause ID
   * Prediction: 0 - acceptable, 1 - unacceptable
