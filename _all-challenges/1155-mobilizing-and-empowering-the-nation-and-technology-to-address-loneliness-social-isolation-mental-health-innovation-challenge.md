@@ -28,7 +28,7 @@ legal-authority: America COMPETES Act
 challenge-manager: Gilbert.Thompson@acl.hhs.gov
 challenge-manager-email: MENTALHealthChallenge@acl.hhs.gov
 ---
-
+#### Please review for important updates to the prize challenge rules, terms and conditions and submission requirements.  These updates will be reviewed at the MENTAL Health Innovation Challenge webinar on August 12, 2020.  A link to register for the webinar is included below.
 
 ### Description
 
