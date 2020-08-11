@@ -150,6 +150,64 @@ prizes: >-
 
   The Phase 2 Prize Challenge award amount is $550,000. The winner will be awarded $450,000 and the runner-up will be awarded $100,000. Finalists and the winner are eligible for a bonus prize if they submit a written assessment detailing their continued work to implement, scale and sustain the solution. Total funds available for the bonus prize is $50,000. The bonus prize submissions will be due September 30, 2021 and details will be provided at a later date.
 rules: ""
+judging: >-
+  The Judging Panel will be composed of federal and/or other technical and
+  subject matter experts.
+
+
+  #### Judging Criteria:
+
+
+  Applicants will be judged on the following criteria for each phase of the competition. Additional detail and updates to the judging criteria and submission guidelines will be posted prior to the submission start date.
+
+
+  **Phase 1:** Solutions will be evaluated for usability, user-centeredness, and technical approach that meets the goal of successfully getting individuals to solutions that meet their needs. For Phase 1 submissions, the approach should be feasible and have a high likelihood to succeed.  
+
+
+  * Innovation and Value to Stakeholders -- 20% 
+
+    * Degree to which the proposed solution bridges the gap in consumer awareness and available social engagement products and programs in the market and across organizations.
+    * Degree to which the proposed solution creates a simplified consumer experience that matches individual needs with social engagement products, programs and training that are appropriate for their level of functioning, interests, English proficiency, preferred primary language, literacy level and preferences.  
+  * Product Functionality and Usability -- 30%
+
+    * Degree to which the proposed solution is informed by user needs which may include Veterans enrolled in the Veteran Directed Care program.
+    * Degree to which the proposed solution includes an accessible, computer assisted assessment and screening process that identifies individual needs, interests, English proficiency, preferred primary language, literacy level and preferences.
+    * Degree to which the clearinghouse includes relevant technologies and social engagement products, programs and training.
+    * Degree to which the proposed solution enables real-time query and response with an electronic clearinghouse.
+    * Degree to which the proposed solution includes a process to add new technologies and social engagement programming and maintain up to date information on existing listings.
+    * Degree to which the proposed solution includes the availability of training videos for consumers to learn how to use the technology and/or ability to request a demonstration of technology options.
+    * Degree to which the proposed solution includes an ability to acquire technology and/or enroll in social engagement programming.
+    * Degree to which the clearinghouse and user interface meets accessibility requirements.
+  * Partnerships & Collaboration -- 25%
+
+    * Degree to which the applicant proposes a team of key stakeholders with relevant technical expertise as well as knowledge in technologies and programs that address social isolation. 
+    * Degree to which the applicant proposes a governance model that ensures appropriate oversight, transparency, and maintenance of the user interface and clearinghouse. 
+    * Degree to which the proposed plan for testing the prototype includes a state No Wrong Door System and ADRCs. 
+    * Degree to which partnership and collaboration occurred with the state’s No Wrong Door System.
+  * Technical Feasibility -- 25%
+
+    * Degree to which the proposed solution design and/or architecture leverages existing technology and social engagement programming databases, including no tech, low tech and high tech solutions to increase social engagement.
+    * Degree to which the proposed solution embeds technology training videos and streamlines enrollment in social engagement programming and acquisition of technology.
+    * Degree to which the proposed solution includes robust matching methodologies with plans to modify them based on experience overtime.
+    * Degree to which the proposed solution uses open Application Programming Interfaces (APIs) for related consumer facing apps and standards for social isolation consistent with the Interoperability Standards Advisory.
+    * Degree to which the proposed solution is interoperable to enable consumers to push assessment data, screening information and  the provision of technology and enrollment in social engagement programming solutions to the provider(s) of choice’s electronic health record, family member and/or whoever is supporting the consumers’ care.
+
+  **Phase 2:**
+
+
+  * Impact -- 25%
+
+    * Key evaluation factors shall include: superior matching capability which improves upon prior efforts, ease of use, and security and verification capabilities which improve upon prior efforts.
+  * Technical Feasibility / Viability -- 20%
+
+    * Integration of other efforts, data, and platforms. Key evaluation factors shall include the extent to which the prototype has short- and long-term feasibility and sustainability, security and verification, matching accuracy, interfaces with social engagement programming and technology data sources.
+  * Design Quality, Usability and Functionality -- 30%
+
+    * Completeness, clarity of workflows, and quality; results of user testing. Key evaluation factors shall include the ability of the solution to match end users to social engagement programming and technologies that meet their needs and interests.  The usability of the proposed solution by end users. The ability of the proposed solution to enable the end user to enroll in social engagement programming and/or acquire technologies to address social isolation. The ability of the user to push data to family members and providers of choice.  The ability of the prototype to capture and display user reviews of social engagement programming, technologies and apps.
+  * Deployment Approach and Refinement -- 25%
+
+    * Key evaluation factors shall include: the proposed plan to refine the prototype based on results from user testing and the plan for the clearinghouse to evolve over time informed by experience of users including a Veteran receiving service through the Veteran Directed Care program and the extent to which the prototype has short- and long-term feasibility and sustainability.
+    * Degree to which the state NWD Systems and ADRCs are utilized as part of the deployment strategy.
 ---
 ### Description
 
