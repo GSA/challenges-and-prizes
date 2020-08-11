@@ -71,7 +71,7 @@ description: >-
   While there are an array of technologies and social engagement programs in the marketplace, there are considerable gaps in both awareness of and access to these technologies and programming for those individuals most likely to be lonely and isolated. Consequently, there is an opportunity to increase access and awareness to technologies and social engagement programming.
 
 
-  ACL and OASH are pleased to announce the **M**obilizing and **E**mpowering the **N**ation and **T**echnology to **A**ddress **L**oneliness & social isolation (MENTAL) Health Innovation Challenge to address this need. Supporting partners include the VA, FCC, and the CTA Foundation.
+  ACL and OASH are pleased to announce the **M**obilizing and **E**mpowering the **N**ation and **T**echnology to **A**ddress **L**oneliness & social isolation (MENTAL)  Health Innovation Challenge to address this need. Supporting partners include the VA, FCC, and the CTA Foundation.
 
 
   With this health innovation challenge we hope to recognize innovative ideas and solutions that seek to develop a software platform that increases awareness of, access to and use of social engagement technologies and programming to help curtail the impact of loneliness and social isolation.
