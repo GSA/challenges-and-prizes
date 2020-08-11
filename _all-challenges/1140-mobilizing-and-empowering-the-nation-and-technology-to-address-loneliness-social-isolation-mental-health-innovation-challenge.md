@@ -159,78 +159,7 @@ prizes: >-
 
 
   The top two contenders will present their solution at the CES 2021 in Las Vegas, NV (January 6-9, 2021).
-rules: >-
-  #### Eligibility:
-
-
-  To be eligible to win a prize under this challenge, an individual or entity may participate as part of one or more teams. Team formation is strongly encouraged, and teams are not limited in the number of members. Each team must designate a captain who must be a U.S. citizen or permanent resident who is responsible for all correspondence regarding this Challenge. An individual or entity:
-
-
-  * Shall have registered to participate in the competition under the rules promulgated by the Administration for Community Living;
-
-  * Shall have complied with all the requirements under this section;
-
-  * In the case of a private entity, shall be incorporated in and maintain a primary place of business in the United States, and in the case of an individual, whether participating singly or in a group, shall be a citizen or permanent resident of the United States;
-
-  * May not be a Federal entity or Federal employee acting within the scope of their employment (all non-HHS, non-FCC or non-VA federal employees must consult with their agency Ethics Official to determine whether the federal ethics rules will limit or prohibit the acceptance of a COMPETES Act prize);
-
-  * Shall not be an HHS, FCC, or VA employee;
-
-  * Federal grantees may not use Federal funds to develop submissions unless consistent with the purpose of their grant award; and
-
-  * Federal contractors may not use Federal funds from a contract to develop COMPETES Act challenge submissions or to fund efforts in support of a COMPETES Act challenge submission.
-
-
-  Additionally:
-
-
-  * The top 2 contenders of Phase 2 must agree to use a portion of their prize award to travel to the CES 2021 in Las Vegas, NV.
-
-  * Entrants must also agree to indemnify the Federal government against third-party claims for damages arising from or related to competition activities.
-
-  * The Federal government will not select as a winner an individual or entity that is on the Excluded Parties List.
-
-
-  #### Technical Rules:
-
-
-  * Platform: Solution shall be a web based application, and public internet accessible using a common web browser.
-
-  * Accessibility: Solution shall comply with Section 508 standards, and conform to either WCAG 2.0 Level A, AA, or AAA.
-
-  * Security: Solution shall follow OWASP Top Ten Proactive Controls 2018. While all ten controls are important and complementary to web applications security, particular attention should be given to C3, C7, and C8.
-
-
-  #### Terms and Conditions
-
-
-  * An individual or entity shall not be deemed ineligible because the individual or entity used Federal facilities or consulted with Federal employees during a competition if the facilities and employees are made available to all individuals and entities participating in the competition on an equitable basis.
-
-  * Federal grantees may not use Federal funds to develop their Challenge Submissions unless use of such funds is consistent with the purpose of their grant award and specifically requested to do so due to the Challenge design, and as announced on challenge.gov.
-
-  * Federal contractors may not use Federal funds from a contract to develop their Submissions or to fund efforts in support of their Submission.
-
-  * Multiple entries are permitted. Each solution must be sufficiently novel and unique and not be a minor modification of a prior submission.
-
-  * A demonstration of the developed technical solution must be included in your phase 2 submission, as per phase two conditions, either via web link, or as a downloadable app from a website. If a login is required, demo accounts with password should be provided which will enable evaluators to access all parts of the product. If there are different interfaces, separate logins should be provided.
-
-  * Participants must also agree to assume any and all risks and waive claims against the Federal Government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from my participation in this prize contest, whether the injury, death, damage, or loss arises through negligence or otherwise.
-
-  * Participants are required to obtain liability insurance or demonstrate financial responsibility in the amount of $0 for claims by a third party for death, bodily injury, or property damage, or loss resulting from an activity carried out in connection with participation in a challenge.
-
-  * Participants must also agree to indemnify the Federal Government against third party claims for damages arising from or related to Challenge activities.
-
-  * The Administration for Community Living and the Office of the Assistant Secretary for Health reserves the right, in their sole discretion, to (a) cancel, suspend, or modify the Challenge, and/or (b) not award any prizes if no entries are deemed worthy.
-
-  * Intellectual Property of Submissions :
-
-    * Participants can utilize intellectual property developed prior to this Challenge as a part of their submission. Neither the U.S. Administration for Community Living (ACL) nor the U.S. Health and Human Services Office of the Assistant Secretary for Health (OASH) nor anyone acting on their behalf will obtain any rights in intellectual property developed prior to or during the conduct of this Challenge without the prior written consent of the Participant. By participating in the Challenge, the Participant is not granting rights in any patents, pending patent applications, or copyrights related to the technology described in their submission. However, by submitting their entry, the Participant is granting the U.S Administration for Community Living and the U.S. Department of Health and Human Services Office of the Assistant Secretary for Health and any parties acting on their behalf certain limited rights as set forth herein. By virtue of their submission to this Challenge, Participants grant to the ACL and OASH, and any parties acting on their behalf the right to: 
-
-      * review the submission per the Phase 1 Judging Criteria; and
-      * describe the submission in any materials created in connection with this Challenge; and
-      * screen and evaluate the submission per the Phase 2 Judging Criteria, if Participant is selected for Phase 2; and
-      * screen and evaluate the submission per the Bonus Phase Judging Criteria, if Participant is eligible for the Bonus Phase.
-  * Participant further grants the ACL, the OASH, and anyone acting on their behalf the right to publicize Participant’s name and, as applicable, the name of Participant’s team members and/or the name of any Entity that assisted in preparing Participant’s submission. Such authority includes posting or linking to the Participant’s submission on U.S. Administration for Community Living websites, including the Challenge website, OASH websites, U.S. Department of Veterans Affairs websites, Federal Communications Commission websites, Participant’s websites, Implementing Partner website and inclusion of the Participant’s submission in any other media, worldwide. More specifically, such authority includes the right to copy, distribute, publicly display and publicly perform all parts of Participant’s submission.
+rules: ""
 judging: >-
   The Judging Panel will be composed of federal and/or other technical and
   subject matter experts.
@@ -404,9 +333,11 @@ how-to-enter: >-
      2. [July 9th webinar](https://acl.gov/MENTAL): Successfully Engaging Older Adults & Adults with Disabilities via Technology Strategies and Best Practices
   8. Eldercare Locator is a public service provided by the U.S. Administration for Community living, Administration on Aging that connects people to services for older adults. Eldercare Locator can be navigated independently online or individuals can speak with a person via 800-677-1116.  The Eldercare Locator has an open API that can be accessed at this link:  <https://eldercare.acl.gov/Public/Site_Utilities/API_Reg/API_Registration.aspx>.
 ---
-#### Please review for important updates to the prize challenge rules, terms and conditions and submission requirements.  These updates will be reviewed at the MENTAL Health Innovation Challenge webinar on August 12, 2020.  A link to register for the webinar is included below.
+
 
 ### Description
+
+#### Please review for important updates to the prize challenge rules, terms and conditions and submission requirements.  These updates will be reviewed at the MENTAL Health Innovation Challenge webinar on August 12, 2020.  A link to register for the webinar is included below.
 
 This year, we've been forced to rethink the myriad of different ways we connect, socialize and interact with each other. In the absence of face-to-face time, can technology and online tools help us make, maintain,  and strengthen those connections so vital to everyday life? We believe they can. That’s why we need your help. 
 
