@@ -459,7 +459,7 @@ To be eligible to win a prize under this challenge, an individual or entity may 
 
   * Participants can utilize intellectual property developed prior to this Challenge as a part of their submission. Neither the U.S. Administration for Community Living (ACL) nor the U.S. Health and Human Services Office of the Assistant Secretary for Health (OASH) nor anyone acting on their behalf will obtain any rights in intellectual property developed prior to or during the conduct of this Challenge without the prior written consent of the Participant. By participating in the Challenge, the Participant is not granting rights in any patents, pending patent applications, or copyrights related to the technology described in their submission. However, by submitting their entry, the Participant is granting the U.S Administration for Community Living and the U.S. Department of Health and Human Services Office of the Assistant Secretary for Health and any parties acting on their behalf certain limited rights as set forth herein. By virtue of their submission to this Challenge, Participants grant to the ACL and OASH, and any parties acting on their behalf the right to: 
 
-    * review the submission per the Phase 1 Judging Criteria;
+    * review the submission per the Phase 1 Judging Criteria; and
     * describe the submission in any materials created in connection with this Challenge; and
     * screen and evaluate the submission per the Phase 2 Judging Criteria, if Participant is selected for Phase 2; and
     * screen and evaluate the submission per the Bonus Phase Judging Criteria, if Participant is eligible for the Bonus Phase.
