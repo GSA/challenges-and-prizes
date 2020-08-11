@@ -72,7 +72,7 @@ description: >-
   While there are an array of technologies and social engagement programs in the marketplace, there are considerable gaps in both awareness of and access to these technologies and programming for those individuals most likely to be lonely and isolated. Consequently, there is an opportunity to increase access and awareness to technologies and social engagement programming.
 
 
-  ACL and OASH are pleased to announce the **M**obilizing and **E**mpowering the **N**ation and **T**echnology to **A**ddress **L**oneliness & social isolation (MENTAL) Health Innovation Challenge to address this need. Supporting partners include the VA, FCC, and the CTA Foundation.
+  ACL and OASH are pleased to announce the **M**obilizing and **E**mpowering the **N**ation and **T**echnology to **A**ddress **L**oneliness & social isolation (MENTAL)  Health Innovation Challenge to address this need. Supporting partners include the VA, FCC, and the CTA Foundation.
 
 
   With this health innovation challenge we hope to recognize innovative ideas and solutions that seek to develop a software platform that increases awareness of, access to and use of social engagement technologies and programming to help curtail the impact of loneliness and social isolation.
@@ -602,3 +602,4 @@ The top two contenders will be notified December 15, 2020. The winner and runner
    2. [July 9th webinar](https://acl.gov/MENTAL): Successfully Engaging Older Adults & Adults with Disabilities via Technology Strategies and Best Practices
 8. Eldercare Locator is a public service provided by the U.S. Administration for Community living, Administration on Aging that connects people to services for older adults. Eldercare Locator can be navigated independently online or individuals can speak with a person via 800-677-1116.  The Eldercare Locator has an open API that can be accessed at this link:  <https://eldercare.acl.gov/Public/Site_Utilities/API_Reg/API_Registration.aspx>.
 9. [Addressing Social Isolation for Older Adults During the Covid-19 Crisis]({{site.baseurl}}/assets/netlify-uploads/social-isolation-resource_08042020.pdf) is a publication of ADvancing States. This resource was updated 8/04/2020 and includes information on how states have responded to address social isolation in older adults and includes a list of activities and ideas to address social isolation.
+
