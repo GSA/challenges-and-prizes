@@ -501,7 +501,7 @@ To be eligible to win a prize under this challenge, an individual or entity may 
 * Federal grantees may not use Federal funds to develop submissions unless consistent with the purpose of their grant award; and
 * Federal contractors may not use Federal funds from a contract to develop COMPETES Act challenge submissions or to fund efforts in support of a COMPETES Act challenge submission.
 
-Additionally:
+**Additionally:**
 
 * The top 2 contenders of Phase 2 must agree to use a portion of their prize award to travel to the CES 2021 in Las Vegas, NV.
 * Entrants must also agree to indemnify the Federal government against third-party claims for damages arising from or related to competition activities.
