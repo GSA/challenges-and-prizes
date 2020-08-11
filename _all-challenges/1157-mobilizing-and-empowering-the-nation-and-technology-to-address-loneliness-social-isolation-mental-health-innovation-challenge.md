@@ -141,6 +141,14 @@ description: >-
   * The top two contenders of Phase 2 will be notified by December 15, 2020.
 
   * The top two contenders will be asked to present their solution at CES 2021.  The winner will be announced at CES 2021 January 6-9, 2021 in Las Vegas, NV.
+prizes: >-
+  #### Prize Breakdown
+
+
+  A prize purse of $750,000 is available for this prize challenge. The Phase 1 Prize Challenge fund is $150,000. For this challenge we will award up to $150,000 total prize funds for Phase I. We expect to select up to 3 Finalists to progress on to Phase II. Each Finalist will win $50,000 upon selection. Please note -  In the event we choose fewer than 3 Finalists, the $150,000 will be split evenly among those teams selected (for example, if 2 teams are selected as Finalists each will receive $75,000). 
+
+
+  The Phase 2 Prize Challenge award amount is $550,000. The winner will be awarded $450,000 and the runner-up will be awarded $100,000. Finalists and the winner are eligible for a bonus prize if they submit a written assessment detailing their continued work to implement, scale and sustain the solution. Total funds available for the bonus prize is $50,000. The bonus prize submissions will be due September 30, 2021 and details will be provided at a later date.
 ---
 ### Description
 
