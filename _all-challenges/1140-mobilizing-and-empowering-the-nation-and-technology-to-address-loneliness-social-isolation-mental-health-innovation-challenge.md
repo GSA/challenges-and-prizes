@@ -31,6 +31,7 @@ legal-authority: America COMPETES Act
 challenge-manager: "Gilbert.Thompson@acl.hhs.gov "
 challenge-manager-email: "Gilbert.Thompson@acl.hhs.gov "
 point-of-contact: "MENTALHealthChallenge@acl.hhs.gov "
+body-content-uploads: /assets/netlify-uploads/social-isolation-resource_08042020.pdf
 description: >-
   #### Please review for important updates to the prize challenge rules, terms
   and conditions and submission requirements.  These updates will be reviewed at
@@ -333,7 +334,7 @@ how-to-enter: >-
      2. [July 9th webinar](https://acl.gov/MENTAL): Successfully Engaging Older Adults & Adults with Disabilities via Technology Strategies and Best Practices
   8. Eldercare Locator is a public service provided by the U.S. Administration for Community living, Administration on Aging that connects people to services for older adults. Eldercare Locator can be navigated independently online or individuals can speak with a person via 800-677-1116.  The Eldercare Locator has an open API that can be accessed at this link:  <https://eldercare.acl.gov/Public/Site_Utilities/API_Reg/API_Registration.aspx>.
 
-  9. [Addressing Social Isolation for Older Adults During the Covid-19 Crisis](http://www.advancingstates.org/sites/nasuad/files/Social%20Isolation%20Resource_08042020.pdf) is a publication of ADvancing States. This resource was updated 8/04/2020 and includes information on how states have responded to address social isolation in older adults and includes a list of activities and ideas to address social isolation.
+  9. [Addressing Social Isolation for Older Adults During the Covid-19 Crisis]({{site.baseurl}}/assets/netlify-uploads/social-isolation-resource_08042020.pdf) is a publication of ADvancing States. This resource was updated 8/04/2020 and includes information on how states have responded to address social isolation in older adults and includes a list of activities and ideas to address social isolation.
 ---
 ### Description
 
@@ -600,4 +601,4 @@ The top two contenders will be notified December 15, 2020. The winner and runner
    1. [June 26th webinar](https://acl.gov/MENTAL):  Addressing Social Isolation Through Technology Solutions
    2. [July 9th webinar](https://acl.gov/MENTAL): Successfully Engaging Older Adults & Adults with Disabilities via Technology Strategies and Best Practices
 8. Eldercare Locator is a public service provided by the U.S. Administration for Community living, Administration on Aging that connects people to services for older adults. Eldercare Locator can be navigated independently online or individuals can speak with a person via 800-677-1116.  The Eldercare Locator has an open API that can be accessed at this link:  <https://eldercare.acl.gov/Public/Site_Utilities/API_Reg/API_Registration.aspx>.
-9. [Addressing Social Isolation for Older Adults During the Covid-19 Crisis](http://www.advancingstates.org/sites/nasuad/files/Social%20Isolation%20Resource_08042020.pdf) is a publication of ADvancing States. This resource was updated 8/04/2020 and includes information on how states have responded to address social isolation in older adults and includes a list of activities and ideas to address social isolation.
+9. [Addressing Social Isolation for Older Adults During the Covid-19 Crisis]({{site.baseurl}}/assets/netlify-uploads/social-isolation-resource_08042020.pdf) is a publication of ADvancing States. This resource was updated 8/04/2020 and includes information on how states have responded to address social isolation in older adults and includes a list of activities and ideas to address social isolation.
