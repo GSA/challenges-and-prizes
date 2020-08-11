@@ -408,7 +408,7 @@ how-to-enter: >-
 
 ### Description
 
-This year, we've been forced to rethink the myriad of different ways we connect, socialize and interact with each other. In the absence of face-to-face time, can technology and online tools help us make, maintain, and strengthen those connections so vital to everyday life? We believe they can. That’s why we need your help. 
+This year, we've been forced to rethink the myriad of different ways we connect, socialize and interact with each other. In the absence of face-to-face time, can technology and online tools help us make, maintain,  and strengthen those connections so vital to everyday life? We believe they can. That’s why we need your help. 
 
 Can you design an easy-to-use online directory of social engagement programs and technology tools and products that matches end-users who are socially isolated with customized suggestions, tailored to meet their specific needs, interests, and abilities, in one seamless end-to-end experience? Then we want to hear from you.
 
