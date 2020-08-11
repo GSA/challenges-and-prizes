@@ -404,8 +404,6 @@ how-to-enter: >-
      2. [July 9th webinar](https://acl.gov/MENTAL): Successfully Engaging Older Adults & Adults with Disabilities via Technology Strategies and Best Practices
   8. Eldercare Locator is a public service provided by the U.S. Administration for Community living, Administration on Aging that connects people to services for older adults. Eldercare Locator can be navigated independently online or individuals can speak with a person via 800-677-1116.  The Eldercare Locator has an open API that can be accessed at this link:  <https://eldercare.acl.gov/Public/Site_Utilities/API_Reg/API_Registration.aspx>.
 ---
-
-
 ### Description
 
 #### Please review for important updates to the prize challenge rules, terms and conditions and submission requirements.  These updates will be reviewed at the MENTAL Health Innovation Challenge webinar on August 12, 2020.  A link to register for the webinar is included below.
