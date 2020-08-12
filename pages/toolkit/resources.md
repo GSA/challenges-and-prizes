@@ -10,11 +10,11 @@ title: Toolkit - Resources
 * [White House: The Trump Administration Supports Fostering Innovation by Leveraging Prizes and Challenges](https://www.whitehouse.gov/articles/trump-administration-supports-fostering-innovation-leveraging-prizes-challenges/) (March 2018)
 * [American Innovation and Competitiveness Act (January 2017)](https://www.congress.gov/bill/114th-congress/senate-bill/3084/text)
 * [OMB Fact Sheet and FAQ on Prize Authority in the America COMPETES Reauthorization Act](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/assets/egov_docs/prize_authority_in_the_america_competes_reauthorization_act.pdf)
-* \[OMB Memo: Guidance on the Use of Challenges and Prizes to Promote Open Government]({{ site.baseurl }}/assets/document-library/Memoranda-Guidance-Use-Challenges-Prizes-Promote-Open-Government-M10-11.pdf) (March 2010)
-* \[OMB Frequently Asked Questions on the Paperwork Reduction Act & Prizes and Challenges]({{ site.baseurl }}/assets/document-library/OMB-FAQs-PRA-Prizes-Challenges.pdf)
+* [OMB Memo: Guidance on the Use of Challenges and Prizes to Promote Open Government]({{ site.baseurl }}/assets/document-library/Memoranda-Guidance-Use-Challenges-Prizes-Promote-Open-Government-M10-11.pdf) (March 2010)
+* [OMB Frequently Asked Questions on the Paperwork Reduction Act & Prizes and Challenges]({{ site.baseurl }}/assets/document-library/OIRA Challenge and Prizes FAQS.pdf)
 * [General Guide to the Paperwork Reduction Act](https://pra.digital.gov/)
-* \[Open Government Directive]({{ site.baseurl }}/assets/document-library/Open-Government-Directive-M10-06.pdf) (December 8, 2009)
-* \[2009 Strategy for American Innovation]({{ site.baseurl }}/assets/document-library/Strategy-American-Innovation-2009.pdf) (September 2009)
+* [Open Government Directive]({{ site.baseurl }}/assets/document-library/Open-Government-Directive-M10-06.pdf) (December 8, 2009)
+* [2009 Strategy for American Innovation]({{ site.baseurl }}/assets/document-library/Strategy-American-Innovation-2009.pdf) (September 2009)
 
 ### Sample Agency Policies and Capacity-Building Resources
 
@@ -53,7 +53,7 @@ title: Toolkit - Resources
 
 #### U.S. Department of Energy (DOE)
 
-* [Prize Development and Execution Guidance - EERE G 121.001]({{site.baseurl}}/assets/document-library/EERE_G_121.001_EERE_Prize_Guidance_0 (1).pdf) (November 2019)
+* \[Prize Development and Execution Guidance - EERE G 121.001]({{site.baseurl}}/assets/document-library/EERE_G_121.001_EERE_Prize_Guidance_0 (1).pdf) (November 2019)
 
 ### Implementation of Federal Prize Authority
 
