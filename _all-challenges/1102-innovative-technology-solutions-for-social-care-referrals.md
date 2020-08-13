@@ -2,7 +2,7 @@
 title: Innovative Technology Solutions for Social Care Referrals
 challenge-title: Innovative Technology Solutions for Social Care Referrals
 layout: front-matter-data-markdownify-content
-permalink: /challenge/Innovative-Technology-Solutions-for-Social-Care-Referrals/
+permalink: /challenge/innovative-technology-solutions-for-social-care-referrals/
 challenge-id: "1102"
 status: open
 sidenav: true
