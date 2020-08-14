@@ -24,9 +24,9 @@ challenge-manager: Albert Palacios
 challenge-manager-email: Albert.Palacios@ed.gov
 point-of-contact: hello@ctemissioncubesat.com
 description: >-
-  Visit the official CTE Mission: CubeSat website at www.CTEMissionCubeSat.com.
-  Receive timely updates on CTE Mission: CubeSat by signing up for the
-  newsletter. 
+  Visit the official CTE Mission: CubeSat website at
+  <https://www.CTEMissionCubeSat.com>. Receive timely updates on CTE Mission:
+  CubeSat by signing up for the newsletter. 
 
 
   #### About the Challenge
@@ -59,7 +59,7 @@ description: >-
 
     Potential entrants will receive support through curated and customized online resources as they develop their Mission Proposals and consider various flight methods to launch their CubeSat Prototypes (e.g., balloons, drones, or other locally available launch vehicles). At least one online information session will be held during this phase.  Potential entrants may enter the Challenge by submitting a Mission Proposal that will include descriptions of objectives, materials needed, plans for prototyping, proposed flight method, and team details.
 
-    Entrants who fulfill the criteria described in the Eligibility section (https://www.ctemissioncubesat.com/eligibility/) and complete a submission that meets the requirements of a Mission Proposal will be eligible to proceed into the judging process, and if selected, participate in Phase 2 as a finalist. 
+    Entrants who fulfill the criteria described in the Eligibility section (<https://www.ctemissioncubesat.com/eligibility/>) and complete a submission that meets the requirements of a Mission Proposal will be eligible to proceed into the judging process, and if selected, participate in Phase 2 as a finalist. 
 
     **Judging:** Independent judges will review Mission Proposals using the *Finalist Selection Criteria*, which are included in the *Award Selection Criteria* section of this notice and make recommendations to the Department as to which entrants should be selected as finalists. Up to five finalists will be selected from the group of eligible entrants based on submitted Mission Proposals and invited to participate in Phase 2.
   * **Phase 2 Mission Build and Launch (January – May 2021):**
@@ -83,7 +83,7 @@ prizes: >-
   	•	Five Arduino kits
   	•	Five Blue Origin Space Mail kits
 rules: "The Official Rules, Terms, and Conditions for CTE Mission: CubeSat can
-  be found here: https://www.ctemissioncubesat.com/rules-terms-conditions/"
+  be found here: <https://www.ctemissioncubesat.com/rules-terms-conditions>"
 judging: >-
   
 
@@ -143,7 +143,7 @@ how-to-enter: To enter this challenge go to https://www.CTEMissionCubeSat.com
 ---
 ### Description
 
-Visit the official CTE Mission: CubeSat website at www.CTEMissionCubeSat.com. Receive timely updates on CTE Mission: CubeSat by signing up for the newsletter. 
+Visit the official CTE Mission: CubeSat website at <https://www.CTEMissionCubeSat.com>. Receive timely updates on CTE Mission: CubeSat by signing up for the newsletter. 
 
 #### About the Challenge
 
@@ -191,7 +191,7 @@ The following non-monetary prize pool will be distributed to finalists:
 
 ### Rules
 
-The Official Rules, Terms, and Conditions for CTE Mission: CubeSat can be found here: https://www.ctemissioncubesat.com/rules-terms-conditions/
+The Official Rules, Terms, and Conditions for CTE Mission: CubeSat can be found here: <https://www.ctemissioncubesat.com/rules-terms-conditions/>
 
 ### Judging Criteria
 
@@ -229,4 +229,4 @@ Judges may assign up to 20 points for each selection criterion during the judgin
 
 ### How to Enter
 
-To enter this challenge go to https://www.CTEMissionCubeSat.com
+To enter this challenge go to <https://www.CTEMissionCubeSat.com>
