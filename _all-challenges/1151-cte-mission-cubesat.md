@@ -2,7 +2,7 @@
 title: "CTE Mission: CubeSat"
 challenge-title: "CTE Mission: CubeSat"
 layout: front-matter-data-markdownify-content
-permalink: /challenge/challenge-url-here/
+permalink: /challenge/cte-mission-cubesat/
 challenge-id: "1151"
 status: open
 sidenav: true
