@@ -5,7 +5,7 @@ layout: front-matter-data-markdownify-content
 permalink: /challenge/cte-mission-cubesat/
 challenge-id: "1151"
 status: open
-sidenav: false
+sidenav: true
 card-image: /assets/netlify-uploads/cubesat_challengedotgov_main.png
 agency-logo: /assets/netlify-uploads/Department_of_Education.png
 tagline: "Bring space missions to students: The U.S. Department of Education
