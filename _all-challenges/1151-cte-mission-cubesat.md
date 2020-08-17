@@ -16,8 +16,8 @@ partners-non-federal: "Sponsors include: Arduino, Blue Origin, Chevron,
 total-prize-offered-cash: $25,000
 type-of-challenge:
   - Ideas
-submission-start: 08/18/2020 09:00 AM
-submission-end: 10/16/2020 05:59 PM
+submission-start: 2020/08/18 09:00 AM
+submission-end: 2020/10/16 05:59 PM
 fiscal-year: FY20, FY21
 legal-authority: Procurement Authority
 challenge-manager: Albert Palacios
