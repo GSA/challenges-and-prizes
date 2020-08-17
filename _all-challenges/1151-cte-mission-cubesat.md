@@ -24,10 +24,7 @@ challenge-manager: Albert Palacios
 challenge-manager-email: Albert.Palacios@ed.gov
 point-of-contact: hello@ctemissioncubesat.com
 description: >-
-  ### Description
-
-
-
+  
   Visit the official CTE Mission: CubeSat website at <https://www.CTEMissionCubeSat.com>. Receive timely updates on CTE Mission: CubeSat by signing up for the newsletter. 
 
 
