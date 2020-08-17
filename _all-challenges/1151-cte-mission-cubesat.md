@@ -92,7 +92,6 @@ judging: >-
   #### **Finalist Selection Criteria**
 
 
-
   Up to 105 points may be assigned during the judging of Mission Proposals in Phase 1 based on the finalist selection criteria.
 
 
@@ -110,7 +109,7 @@ judging: >-
   * **Team composition.** The extent to which the proposed team demonstrates involvement from a broad cross-section of students, including, but not limited to, students in various grade levels and students with disabilities.
 
 
-  Judges may assign up to five bonus points during the judging of Mission Proposals in Phase 1 (in addition to a total score of up to 100 points under paragraph (a) of this section, for a total score of up to 105 points) based on the following selection criteria:
+  Judges may assign up to five bonus points during the judging of Mission Proposals in Phase 1 (in addition to a total score of up to 100 points outlined in the *Phase 1 Finalist Selection and Criteria* section of the [Rules, Terms, and Conditions](https://www.ctemissioncubesat.com/rules-terms-conditions/), for a total score of up to 105 points) based on the following selection criteria:
 
 
   * **Addressing need.** The extent to which the student population served by the eligible entrant is low-income, as defined by the percentage of students enrolled in free and reduced price lunch programs under the Richard B. Russell National School Lunch Act (42 U.S.C. 1759), as amended through P.L. 116–6.
@@ -127,7 +126,6 @@ judging: >-
 
 
   #### **Winner Selection Criteria**
-
 
 
   Up to 100 points may be assigned during the judging of Flight Reports in Phase 2 based on the winner selection criteria.
@@ -215,7 +213,7 @@ Judges may assign up to 20 points for each selection criterion during the judgin
 * **Mission feasibility.** The extent to which the Mission Proposal outlines a preliminary project plan that is clear and considers implementation challenges schools may face, such as cost and potential technological constraints.
 * **Team composition.** The extent to which the proposed team demonstrates involvement from a broad cross-section of students, including, but not limited to, students in various grade levels and students with disabilities.
 
-Judges may assign up to five bonus points during the judging of Mission Proposals in Phase 1 (in addition to a total score of up to 100 points under paragraph (a) of this section, for a total score of up to 105 points) based on the following selection criteria:
+Judges may assign up to five bonus points during the judging of Mission Proposals in Phase 1 (in addition to a total score of up to 100 points outlined in the *Phase 1 Finalist Selection and Criteria* section of the [Rules, Terms, and Conditions](https://www.ctemissioncubesat.com/rules-terms-conditions/), for a total score of up to 105 points) based on the following selection criteria:
 
 * **Addressing need.** The extent to which the student population served by the eligible entrant is low-income, as defined by the percentage of students enrolled in free and reduced price lunch programs under the Richard B. Russell National School Lunch Act (42 U.S.C. 1759), as amended through P.L. 116–6.
 
