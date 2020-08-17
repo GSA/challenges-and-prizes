@@ -5,7 +5,7 @@ layout: front-matter-data-markdownify-content
 permalink: /challenge/cte-mission-cubesat/
 challenge-id: "1151"
 status: open
-sidenav: true
+sidenav: false
 card-image: /assets/netlify-uploads/cubesat_challengedotgov_main.png
 agency-logo: /assets/netlify-uploads/Department_of_Education.png
 tagline: "Bring space missions to students: The U.S. Department of Education
@@ -24,9 +24,11 @@ challenge-manager: Albert Palacios
 challenge-manager-email: Albert.Palacios@ed.gov
 point-of-contact: hello@ctemissioncubesat.com
 description: >-
-  Visit the official CTE Mission: CubeSat website at
-  <https://www.CTEMissionCubeSat.com>. Receive timely updates on CTE Mission:
-  CubeSat by signing up for the newsletter. 
+  ### Description
+
+
+
+  Visit the official CTE Mission: CubeSat website at <https://www.CTEMissionCubeSat.com>. Receive timely updates on CTE Mission: CubeSat by signing up for the newsletter. 
 
 
   #### About the Challenge
