@@ -11,8 +11,8 @@ agency-logo: /assets/netlify-uploads/Department_of_Education.png
 tagline: "Bring space missions to students: The U.S. Department of Education
   invites high schools to design and build CubeSat prototypes."
 agency: U.S. Department of Education
-partners-non-federal: Arduino, Blue Origin, Chevron, EnduroSat, LEGO Education,
-  Magnitude.io, MIT Media Lab, XinaBox
+partners-non-federal: "Sponsors include: Arduino, Blue Origin, Chevron,
+  EnduroSat, LEGO Education, Magnitude.io, MIT Media Lab, XinaBox"
 total-prize-offered-cash: $25,000
 type-of-challenge:
   - Ideas
@@ -59,14 +59,14 @@ description: >-
 
     Potential entrants will receive support through curated and customized online resources as they develop their Mission Proposals and consider various flight methods to launch their CubeSat Prototypes (e.g., balloons, drones, or other locally available launch vehicles). At least one online information session will be held during this phase.  Potential entrants may enter the Challenge by submitting a Mission Proposal that will include descriptions of objectives, materials needed, plans for prototyping, proposed flight method, and team details.
 
-    Entrants who fulfill the criteria described in the Eligibility section (<https://www.ctemissioncubesat.com/eligibility/>) and complete a submission that meets the requirements of a Mission Proposal will be eligible to proceed into the judging process, and if selected, participate in Phase 2 as a finalist. 
+    Entrants who fulfill the criteria described in the [Eligibility section](< https://www.ctemissioncubesat.com/eligibility/>) and complete a submission that meets the requirements of a Mission Proposal will be eligible to proceed into the judging process, and if selected, participate in Phase 2 as a finalist. 
 
-    **Judging:** Independent judges will review Mission Proposals using the *Finalist Selection Criteria*, which are included in the *Award Selection Criteria* section of this notice and make recommendations to the Department as to which entrants should be selected as finalists. Up to five finalists will be selected from the group of eligible entrants based on submitted Mission Proposals and invited to participate in Phase 2.
+    **Judging:** Independent judges will review Mission Proposals using the *Finalist Selection Criteria*, which are included in the *Judging Criteria* section of this notice and make recommendations to the Department as to which entrants should be selected as finalists. Up to five finalists will be selected from the group of eligible entrants based on submitted Mission Proposals and invited to participate in Phase 2.
   * **Phase 2 Mission Build and Launch (January – May 2021):**
 
     During Phase 2, finalists will implement their Mission Proposal by building a CubeSat Prototype and planning flight events where they will each launch their prototype using their proposed flight method. Finalists will receive mentorship and additional virtual resources to support them throughout the self-paced mission build process. Flight events must be conducted by the date and time determined by the Department which will be published on the Challenge webpage. Following the flight event, finalists will submit a Flight Report that includes a detailed description of the flight experience, results, lessons learned, flight data, visual documentation (e.g., photographs and/or videos), a detailed flight event planning checklist, a description of the functional CubeSat Prototype, a description of other devices and equipment required for their selected flight method, and a project budget. 
 
-    **Judging:** Independent judges may review Flight Reports using the *Winner Selection Criteria*, which are included in the *Award Selection Criteria* section of this notice and make recommendations to the Department as to which finalists should be selected as winners based on submitted Flight Reports.
+    **Judging:** Independent judges may review Flight Reports using the *Winner Selection Criteria*, which are included in the *Judging Criteria* section of this notice and make recommendations to the Department as to which finalists should be selected as winners based on submitted Flight Reports.
 prizes: >-
   The Challenge offers a $25,000 cash prize pool.
 
@@ -85,9 +85,9 @@ prizes: >-
 rules: "The Official Rules, Terms, and Conditions for CTE Mission: CubeSat can
   be found here: <https://www.ctemissioncubesat.com/rules-terms-conditions>"
 judging: >-
-  
+  #### **Finalist Selection Criteria**
 
-  **Finalist Selection Criteria**
+
 
   Up to 105 points may be assigned during the judging of Mission Proposals in Phase 1 based on the finalist selection criteria.
 
@@ -122,7 +122,9 @@ judging: >-
   * School size (number of students).
 
 
-  **Winner Selection Criteria**
+  #### **Winner Selection Criteria**
+
+
 
   Up to 100 points may be assigned during the judging of Flight Reports in Phase 2 based on the winner selection criteria.
 
@@ -166,14 +168,14 @@ The Challenge will be conducted in two phases:
 
   Potential entrants will receive support through curated and customized online resources as they develop their Mission Proposals and consider various flight methods to launch their CubeSat Prototypes (e.g., balloons, drones, or other locally available launch vehicles). At least one online information session will be held during this phase.  Potential entrants may enter the Challenge by submitting a Mission Proposal that will include descriptions of objectives, materials needed, plans for prototyping, proposed flight method, and team details.
 
-  Entrants who fulfill the criteria described in the Eligibility section (https://www.ctemissioncubesat.com/eligibility/) and complete a submission that meets the requirements of a Mission Proposal will be eligible to proceed into the judging process, and if selected, participate in Phase 2 as a finalist. 
+  Entrants who fulfill the criteria described in the [Eligibility section](< https://www.ctemissioncubesat.com/eligibility/>) and complete a submission that meets the requirements of a Mission Proposal will be eligible to proceed into the judging process, and if selected, participate in Phase 2 as a finalist. 
 
-  **Judging:** Independent judges will review Mission Proposals using the *Finalist Selection Criteria*, which are included in the *Award Selection Criteria* section of this notice and make recommendations to the Department as to which entrants should be selected as finalists. Up to five finalists will be selected from the group of eligible entrants based on submitted Mission Proposals and invited to participate in Phase 2.
+  **Judging:** Independent judges will review Mission Proposals using the *Finalist Selection Criteria*, which are included in the *Judging Criteria* section of this notice and make recommendations to the Department as to which entrants should be selected as finalists. Up to five finalists will be selected from the group of eligible entrants based on submitted Mission Proposals and invited to participate in Phase 2.
 * **Phase 2 Mission Build and Launch (January – May 2021):**
 
   During Phase 2, finalists will implement their Mission Proposal by building a CubeSat Prototype and planning flight events where they will each launch their prototype using their proposed flight method. Finalists will receive mentorship and additional virtual resources to support them throughout the self-paced mission build process. Flight events must be conducted by the date and time determined by the Department which will be published on the Challenge webpage. Following the flight event, finalists will submit a Flight Report that includes a detailed description of the flight experience, results, lessons learned, flight data, visual documentation (e.g., photographs and/or videos), a detailed flight event planning checklist, a description of the functional CubeSat Prototype, a description of other devices and equipment required for their selected flight method, and a project budget. 
 
-  **Judging:** Independent judges may review Flight Reports using the *Winner Selection Criteria*, which are included in the *Award Selection Criteria* section of this notice and make recommendations to the Department as to which finalists should be selected as winners based on submitted Flight Reports.
+  **Judging:** Independent judges may review Flight Reports using the *Winner Selection Criteria*, which are included in the *Judging Criteria* section of this notice and make recommendations to the Department as to which finalists should be selected as winners based on submitted Flight Reports.
 
 ### Prizes
 
@@ -195,7 +197,9 @@ The Official Rules, Terms, and Conditions for CTE Mission: CubeSat can be found 
 
 ### Judging Criteria
 
-**Finalist Selection Criteria**
+#### **Finalist Selection Criteria**
+
+
 Up to 105 points may be assigned during the judging of Mission Proposals in Phase 1 based on the finalist selection criteria.
 
 Judges may assign up to 20 points for each selection criterion during the judging of Mission Proposals in Phase 1 (for a total of up to 100 points) based on the following five selection criteria:
@@ -216,7 +220,9 @@ The Department will review the recommendations of the judges and may consider ad
 * Percentage of students enrolled in free and reduced price lunch programs under the Richard B. Russell National School Lunch Act (42 U.S.C. 1759), as amended through P.L. 116–6; and
 * School size (number of students).
 
-**Winner Selection Criteria**
+#### **Winner Selection Criteria**
+
+
 Up to 100 points may be assigned during the judging of Flight Reports in Phase 2 based on the winner selection criteria.
 
 Judges may assign up to 20 points for each selection criterion during the judging of finalist Flight Reports (for a total of up to 100 points) based on the following five selection criteria:
