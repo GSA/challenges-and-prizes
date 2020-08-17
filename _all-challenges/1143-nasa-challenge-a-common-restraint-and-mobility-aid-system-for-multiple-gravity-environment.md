@@ -6,7 +6,7 @@ challenge-title: "NASA Challenge: A Common Restraint and Mobility Aid System for
 layout: front-matter-data-markdownify-content
 permalink: /challenge/nasa-common-restraint-and-mobility-aid-system-for-multiple-gravity-environment/
 challenge-id: "1143"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/issfoothold2-4.png
 agency-logo: /assets/netlify-uploads/717px-NASA_logo.png
@@ -17,8 +17,8 @@ external-url: https://grabcad.com/challenges/nasa-challenge-a-common-restraint-a
 total-prize-offered-cash: $7,000
 type-of-challenge:
   - Technology demonstration and hardware
-submission-start: 2020/07/06 9:00 AM
-submission-end: "2020/08/17 11:59 PM "
+submission-start: 07/06/2020 9:00 AM
+submission-end: "08/17/2020 11:59 PM "
 fiscal-year: FY20
 legal-authority: Procurement Authority
 challenge-manager: Robert Howard
