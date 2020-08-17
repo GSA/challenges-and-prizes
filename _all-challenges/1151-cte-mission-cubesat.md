@@ -78,10 +78,15 @@ prizes: >-
 
 
   The following non-monetary prize pool will be distributed to finalists: 
-  	•	10 LEGO® MINDSTORMS® Education EV3 Core Sets 
-  	•	10 XinaBox kits
-  	•	Five Arduino kits
-  	•	Five Blue Origin Space Mail kits
+
+
+  * 10 LEGO® MINDSTORMS® Education EV3 Core Sets 
+
+  * 10 XinaBox kits
+
+  * Five Arduino kits
+
+  * Five Blue Origin Space Mail kits
 rules: "The Official Rules, Terms, and Conditions for CTE Mission: CubeSat can
   be found here: <https://www.ctemissioncubesat.com/rules-terms-conditions>"
 judging: >-
@@ -159,7 +164,6 @@ A CubeSat Prototype can be flown and tested using various flight methods that ef
 
 By participating in the Challenge, students and educators will gain an understanding of the phases involved in designing, building, and launching a satellite. The Challenge focuses on select elements of the CubeSat development process to enable students to experience as much of the design, build, and flight stages on a timeline significantly shorter than NASA estimates to be typically 18-24 months to build a CubeSat and a few months to a few years to launch a CubeSat into orbit.
 
-
 Using CubeSat Prototypes, rather than space-ready CubeSats, enables schools to participate in the Challenge and conduct a test flight without the need for design and testing approvals that CubeSats entering orbit require. 
 
 #### Phase Descriptions
@@ -188,10 +192,11 @@ The Challenge offers a $25,000 cash prize pool.
 The $25,000 cash prize pool will be distributed evenly among up to five finalists. Any potential prizes awarded under this Challenge will be paid by electronic funds transfer. Award recipients will be responsible for any applicable local, state, and federal taxes and reporting that may be required under applicable tax laws.
 
 The following non-monetary prize pool will be distributed to finalists: 
-	•	10 LEGO® MINDSTORMS® Education EV3 Core Sets 
-	•	10 XinaBox kits
-	•	Five Arduino kits
-	•	Five Blue Origin Space Mail kits
+
+* 10 LEGO® MINDSTORMS® Education EV3 Core Sets 
+* 10 XinaBox kits
+* Five Arduino kits
+* Five Blue Origin Space Mail kits
 
 ### Rules
 
@@ -200,7 +205,6 @@ The Official Rules, Terms, and Conditions for CTE Mission: CubeSat can be found 
 ### Judging Criteria
 
 #### **Finalist Selection Criteria**
-
 
 Up to 105 points may be assigned during the judging of Mission Proposals in Phase 1 based on the finalist selection criteria.
 
@@ -223,7 +227,6 @@ The Department will review the recommendations of the judges and may consider ad
 * School size (number of students).
 
 #### **Winner Selection Criteria**
-
 
 Up to 100 points may be assigned during the judging of Flight Reports in Phase 2 based on the winner selection criteria.
 
