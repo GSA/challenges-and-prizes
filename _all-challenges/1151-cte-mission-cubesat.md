@@ -158,6 +158,8 @@ A CubeSat Prototype can be flown and tested using various flight methods that ef
 #### Why Participate
 
 By participating in the Challenge, students and educators will gain an understanding of the phases involved in designing, building, and launching a satellite. The Challenge focuses on select elements of the CubeSat development process to enable students to experience as much of the design, build, and flight stages on a timeline significantly shorter than NASA estimates to be typically 18-24 months to build a CubeSat and a few months to a few years to launch a CubeSat into orbit.
+
+
 Using CubeSat Prototypes, rather than space-ready CubeSats, enables schools to participate in the Challenge and conduct a test flight without the need for design and testing approvals that CubeSats entering orbit require. 
 
 #### Phase Descriptions
