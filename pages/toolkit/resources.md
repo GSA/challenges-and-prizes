@@ -16,9 +16,10 @@ title: Toolkit - Resources
 * \[Open Government Directive]({{ site.baseurl }}/assets/document-library/Open-Government-Directive-M10-06.pdf) (December 8, 2009)
 * \[2009 Strategy for American Innovation]({{ site.baseurl }}/assets/document-library/Strategy-American-Innovation-2009.pdf) (September 2009)
 
-#### White House, Office of Science Technology and Policy, Covid-19 related Communications for Prize Community
+#### White House, Office of Science Technology and Policy, COVID-19 related Communications for Prize Community
 
-* [Memorandum:Empowering Innovators to Develop Solutions to Covid-19 Through Prizes and Challenges]({{site.baseurl}}/assets/document-library/08.12.20 OSTP MEMO - Prizes and Challenges (2).pdf)
+* \[Memorandum:Empowering Innovators to Develop Solutions to COVID-19 Through Prizes and Challenges]({{site.baseurl}}/assets/document-library/08.12.20 OSTP MEMO - Prizes and Challenges (2).pdf)
+* White House COVID-19 Prizes and Challenges Fact Sheet
 
 ### Sample Agency Policies and Capacity-Building Resources
 
