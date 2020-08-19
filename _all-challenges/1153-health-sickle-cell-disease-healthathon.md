@@ -5,7 +5,7 @@ layout: front-matter-data-markdownify-content
 permalink: /challenge/health+-sickle-cell-disease-healthathon/
 challenge-id: "1153"
 status: open
-sidenav: true
+sidenav: false
 card-image: /assets/netlify-uploads/healthplus_lockup_scd_hhs_cto_light_341px.png
 agency-logo: /assets/netlify-uploads/hhs.png
 tagline: Improve the quality of life for people living with sickle cell disease
