@@ -4,7 +4,7 @@ challenge-title: "COVID-19 Maker Challenge III: In-home Caregivers"
 layout: front-matter-data-markdownify-content
 permalink: /challenge/covid-19-maker-challenge-in-home-caregivers/
 challenge-id: "1149"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/covidmaker.png
 agency-logo: /assets/netlify-uploads/va-long-logo.png
