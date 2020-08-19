@@ -19,6 +19,7 @@ title: Toolkit - Resources
 #### White House: Prizes and Challenge Initiatives Addressing COVID-19
 
 * [Memorandum: Empowering Innovators to Develop Solutions to COVID-19 Through Prizes and Challenges]({{site.baseurl}}/assets/document-library/08.12.20 OSTP MEMO - Prizes and Challenges (2).pdf)
+* [Fact Sheet: Empowering Innovation to Address COVID-19]({{site.baseurl}}/assets/document-library/WHOSTP COVID Innovation Fact Sheet (1).pdf)
 
 ### Sample Agency Policies and Capacity-Building Resources
 
