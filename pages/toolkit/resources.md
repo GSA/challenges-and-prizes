@@ -18,7 +18,7 @@ title: Toolkit - Resources
 
 #### White House, Office of Science Technology and Policy, Covid-19 related Communications for Prize Community
 
-* [Memorandum: Empowering Innovators to Develop Solutions to Covid-19 Through Prizes and Challenges]({{site.baseurl}}/assets/document-library/08.12.20 OSTP MEMO - Prizes and Challenges (2).pdf)
+* [Memorandum:Empowering Innovators to Develop Solutions to Covid-19 Through Prizes and Challenges]({{site.baseurl}}/assets/document-library/08.12.20 OSTP MEMO - Prizes and Challenges (2).pdf)
 
 ### Sample Agency Policies and Capacity-Building Resources
 
