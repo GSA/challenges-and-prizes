@@ -5,7 +5,7 @@ title: Toolkit - Resources
 ---
 # Federal Agency Resources and Policies
 
-### White House, Office of Management and Budget (OMB), and Government-Wide Guidance
+### White House, Office of Management and Budget (OMB), and Government-Wide Guidance 
 
 * [White House: The Trump Administration Supports Fostering Innovation by Leveraging Prizes and Challenges](https://www.whitehouse.gov/articles/trump-administration-supports-fostering-innovation-leveraging-prizes-challenges/) (March 2018)
 * [American Innovation and Competitiveness Act (January 2017)](https://www.congress.gov/bill/114th-congress/senate-bill/3084/text)
