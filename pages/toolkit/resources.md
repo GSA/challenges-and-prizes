@@ -5,16 +5,20 @@ title: Toolkit - Resources
 ---
 # Federal Agency Resources and Policies
 
-### White House, Office of Management and Budget (OMB), and Government-Wide Guidance 
+### White House, Office of Management and Budget (OMB), and Government-Wide Guidance
 
 * [White House: The Trump Administration Supports Fostering Innovation by Leveraging Prizes and Challenges](https://www.whitehouse.gov/articles/trump-administration-supports-fostering-innovation-leveraging-prizes-challenges/) (March 2018)
 * [American Innovation and Competitiveness Act (January 2017)](https://www.congress.gov/bill/114th-congress/senate-bill/3084/text)
 * [OMB Fact Sheet and FAQ on Prize Authority in the America COMPETES Reauthorization Act](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/assets/egov_docs/prize_authority_in_the_america_competes_reauthorization_act.pdf)
-* [OMB Memo: Guidance on the Use of Challenges and Prizes to Promote Open Government]({{ site.baseurl }}/assets/document-library/Memoranda-Guidance-Use-Challenges-Prizes-Promote-Open-Government-M10-11.pdf) (March 2010)
-* [OMB Frequently Asked Questions on the Paperwork Reduction Act & Prizes and Challenges]({{ site.baseurl }}/assets/document-library/OIRA Challenge and Prizes FAQS.pdf)
+* \[OMB Memo: Guidance on the Use of Challenges and Prizes to Promote Open Government]({{ site.baseurl }}/assets/document-library/Memoranda-Guidance-Use-Challenges-Prizes-Promote-Open-Government-M10-11.pdf) (March 2010)
+* \[OMB Frequently Asked Questions on the Paperwork Reduction Act & Prizes and Challenges]({{ site.baseurl }}/assets/document-library/OIRA Challenge and Prizes FAQS.pdf)
 * [General Guide to the Paperwork Reduction Act](<assets/document-library/08.12.20 OSTP MEMO - Prizes and Challenges (2).pdf>)
-* [Open Government Directive]({{ site.baseurl }}/assets/document-library/Open-Government-Directive-M10-06.pdf) (December 8, 2009)
-* [2009 Strategy for American Innovation]({{ site.baseurl }}/assets/document-library/Strategy-American-Innovation-2009.pdf) (September 2009)
+* \[Open Government Directive]({{ site.baseurl }}/assets/document-library/Open-Government-Directive-M10-06.pdf) (December 8, 2009)
+* \[2009 Strategy for American Innovation]({{ site.baseurl }}/assets/document-library/Strategy-American-Innovation-2009.pdf) (September 2009)
+
+#### White House: Prizes and Challenge Initiatives Addressing COVID-19
+
+* [Memorandum: Empowering Innovators to Develop Solutions to COVID-19 Through Prizes and Challenges]({{site.baseurl}}/assets/document-library/08.12.20 OSTP MEMO - Prizes and Challenges (2).pdf)
 
 ### Sample Agency Policies and Capacity-Building Resources
 
@@ -53,22 +57,22 @@ title: Toolkit - Resources
 
 #### U.S. Department of Energy (DOE)
 
-* [Prize Development and Execution Guidance - EERE G 121.001]({{site.baseurl}}/assets/document-library/EERE_G_121.001_EERE_Prize_Guidance_0 (1).pdf) (November 2019)
+* \[Prize Development and Execution Guidance - EERE G 121.001]({{site.baseurl}}/assets/document-library/EERE_G_121.001_EERE_Prize_Guidance_0 (1).pdf) (November 2019)
 
 ### Implementation of Federal Prize Authority
 
 * [Fiscal Years 2017-18 Full Report](https://www.whitehouse.gov/wp-content/uploads/2019/06/Federal-Prize-and-Citizen-Science-Implementation-FY17-18-Report-June-2019.pdf) (June 2019)
 
-  * [All prizes and challenges - This CSV file compiles all prizes and challenges from Appendix A and Appendix B of the report, broken down by agency, legal authority, goals, budget, results and more (this is a raw data set).]({{ site.baseurl }}/assets/document-library/prize-competition-appendices-as-a-CSV.CSV)
-* [Fiscal Year 2016 Progress Report, including appendices]({{ site.baseurl }}/assets/document-library/FY2016-Implementation-Federal-Prize-Authority-Report-and-Appendices.pdf) (July 2017)
-* [Fiscal Year 2015 Progress Report]({{ site.baseurl }}/assets/document-library/FY2015-Implementation-Federal-Prize-Authority-Report.pdf) (August 2016)
+  * \[All prizes and challenges - This CSV file compiles all prizes and challenges from Appendix A and Appendix B of the report, broken down by agency, legal authority, goals, budget, results and more (this is a raw data set).]({{ site.baseurl }}/assets/document-library/prize-competition-appendices-as-a-CSV.CSV)
+* \[Fiscal Year 2016 Progress Report, including appendices]({{ site.baseurl }}/assets/document-library/FY2016-Implementation-Federal-Prize-Authority-Report-and-Appendices.pdf) (July 2017)
+* \[Fiscal Year 2015 Progress Report]({{ site.baseurl }}/assets/document-library/FY2015-Implementation-Federal-Prize-Authority-Report.pdf) (August 2016)
 
-  * [Appendix One: Agency Prizes and Challenges Conducted Under the America COMPETES Reauthorization Act of 2010]({{ site.baseurl }}/assets/document-library/FY_2015_COMPETES_Prize_Report_Appendix_1.pdf)
-  * [Appendix Two: A Selection of Agency Prizes and Challenges Conducted Under Authorities Other Than the America COMPETES Reauthorization Act of 2010]({{ site.baseurl }}/assets/document-library/FY_2015_COMPETES_Prize_Report_Appendix_2.pdf)
-* [Fiscal Year 2014 Process Report]({{ site.baseurl }}/assets/document-library/FY2014-Implementation-Federal-Prize-Authority-Report.pdf) (May 2015)
-* [Fiscal Year 2013 Progress Report]({{ site.baseurl }}/assets/document-library/FY2013-Implementation-Federal-Prize-Authority-Report.pdf) (May 2014)
-* [Fiscal Year 2012 Progress Report]({{ site.baseurl }}/assets/document-library/FY2012-Implementation-Federal-Prize-Authority-Report.pdf) (December 2013)
-* [Initial Report from OSTP to Congress on Prizes and America COMPETES in FY2011]({{ site.baseurl }}/assets/document-library/FY2011-Implementation-Federal-Prize-Authority-Report.pdf) (March 2012)
+  * \[Appendix One: Agency Prizes and Challenges Conducted Under the America COMPETES Reauthorization Act of 2010]({{ site.baseurl }}/assets/document-library/FY_2015_COMPETES_Prize_Report_Appendix_1.pdf)
+  * \[Appendix Two: A Selection of Agency Prizes and Challenges Conducted Under Authorities Other Than the America COMPETES Reauthorization Act of 2010]({{ site.baseurl }}/assets/document-library/FY_2015_COMPETES_Prize_Report_Appendix_2.pdf)
+* \[Fiscal Year 2014 Process Report]({{ site.baseurl }}/assets/document-library/FY2014-Implementation-Federal-Prize-Authority-Report.pdf) (May 2015)
+* \[Fiscal Year 2013 Progress Report]({{ site.baseurl }}/assets/document-library/FY2013-Implementation-Federal-Prize-Authority-Report.pdf) (May 2014)
+* \[Fiscal Year 2012 Progress Report]({{ site.baseurl }}/assets/document-library/FY2012-Implementation-Federal-Prize-Authority-Report.pdf) (December 2013)
+* \[Initial Report from OSTP to Congress on Prizes and America COMPETES in FY2011]({{ site.baseurl }}/assets/document-library/FY2011-Implementation-Federal-Prize-Authority-Report.pdf) (March 2012)
 
 ### Reports and Publications on Public-Sector Prizes
 
@@ -105,7 +109,7 @@ title: Toolkit - Resources
 #### Blogs
 
 * [NIST: Flying Drones Compete to Complete Unprecedented Feat Blog](https://www.nist.gov/blogs/taking-measure/flying-drones-compete-complete-unprecedented-feat) (August 2018)
-* [Incentive Prizes Deliver Important Results for the Nation, Offer More "Bang for the Buck]({{ site.baseurl }}/assets/document-library/Blog-Incentive-prizes-deliver-important-results-for-the-Nation-offer-more-bang-for-the-buck.pdf)" (January 2017, OSTP Blog)
+* \[Incentive Prizes Deliver Important Results for the Nation, Offer More "Bang for the Buck]({{ site.baseurl }}/assets/document-library/Blog-Incentive-prizes-deliver-important-results-for-the-Nation-offer-more-bang-for-the-buck.pdf)" (January 2017, OSTP Blog)
 * [Public Sector Prizes and Challenges Grow in Use and Sophistication as Agencies Build Infrastructure](https://obamawhitehouse.archives.gov/blog/2016/08/10/public-sector-prizes-and-challenges-continue-grow-use-and-sophistication) (August 2016, OSTP Blog)
 * [Celebrating the Five-Year Anniversary of Challenge.gov with More Than 20 New Prizes](https://obamawhitehouse.archives.gov/blog/2015/10/06/celebrating-five-year-anniversary-challengegov-more-20-new-prizes) (October 2015, OSTP Blog)
 * [This October, the White House Celebrates Over $150 Million in Prize Competitions Since 2010](https://obamawhitehouse.archives.gov/blog/2015/09/21/october-white-house-celebrates-over-150-million-prize-competitions-2010) (September 2015, OSTP Blog)
@@ -113,7 +117,7 @@ title: Toolkit - Resources
 * [Public Sector Prizes and Challenges Show Increased Sophistication, Ambition and Use: A Fiscal Year 2014 Progress Report](https://obamawhitehouse.archives.gov/blog/2015/05/08/public-sector-prizes-and-challenges-show-increased-sophistication-ambition-and-use-f) (May 2015, OSTP Blog)
 * [21st Century Public Servants: Using Prizes and Challenges to Spur Innovation](https://obamawhitehouse.archives.gov/blog/2015/04/17/21st-century-public-servants-using-prizes-and-challenges-spur-innovation) (April 2015, OSTP Blog)
 * [DIY Space Race: Unleashing Space Innovators through Prize Competitions](https://obamawhitehouse.archives.gov/blog/2015/01/29/diy-space-race-unleashing-space-innovators-through-prize-competitions) (January 2015, OSTP Blog)
-* [Identifying Steps Forward in Use of Prizes to Spur Innovation]({{ site.baseurl }}/assets/document-library/Blog-Identifying-Steps-Forward-Use-Prizes-Spur-Innovation.pdf) (April 10, 2012, OSTP Blog)
+* \[Identifying Steps Forward in Use of Prizes to Spur Innovation]({{ site.baseurl }}/assets/document-library/Blog-Identifying-Steps-Forward-Use-Prizes-Spur-Innovation.pdf) (April 10, 2012, OSTP Blog)
 * [Unleashing Innovation and Deepening Democracy Through Prizes](https://obamawhitehouse.archives.gov/blog/2012/06/12/unleashing-innovation-deepening-democracy-through-prizes) (June 12, 2012, White House Blog)
 * [Challenge.gov: Two Years and 200 Prizes Later](https://obamawhitehouse.archives.gov/blog/2012/09/05/challengegov-two-years-and-200-prizes-later) (September 5, 2012, OSTP Blog)
 * [Audacious Goals in Eye Research](https://obamawhitehouse.archives.gov/blog/2013/05/15/audacious-goals-eye-research) (May 2013, OSTP Blog)
