@@ -8,8 +8,8 @@ status: open
 sidenav: false
 card-image: /assets/netlify-uploads/challenge_card_08202020.png
 agency-logo: /assets/netlify-uploads/hhs.png
-tagline: Inviting technologists, designers, and others to co-develop solutions
-  to improve the quality of life for people living with sickle cell disease
+tagline: Inviting problem solvers to co-develop solutions to improve the quality
+  of life for people living with sickle cell disease
 agency: Department of Health and Human Services - Office of the Chief Technology
   Officer
 external-url: https://data4scd.crowdicity.com/
