@@ -11,7 +11,8 @@ agency-logo: /assets/netlify-uploads/hhs.png
 tagline: Improve the quality of life for people living with sickle cell disease
   by co-developing a solution with design, technology, and collaboration between
   patients, providers, policy experts, technologists, and designers.
-agency: U.S. Department of Health and Human Services
+agency: Department of Health and Human Services - Office of the Chief Technology
+  Officer
 external-url: https://data4scd.crowdicity.com/
 type-of-challenge:
   - Software and apps
