@@ -6,11 +6,10 @@ permalink: /challenge/health+-sickle-cell-disease-healthathon/
 challenge-id: "1153"
 status: open
 sidenav: false
-card-image: /assets/netlify-uploads/healthplus_lockup_scd_hhs_cto_light_341px.png
+card-image: /assets/netlify-uploads/challenge_card_08202020.png
 agency-logo: /assets/netlify-uploads/hhs.png
-tagline: Improve the quality of life for people living with sickle cell disease
-  by co-developing a solution with design, technology, and collaboration between
-  patients, providers, policy experts, technologists, and designers.
+tagline: Inviting technologists, designers, and others to co-develop solutions
+  to improve the quality of life for people living with sickle cell disease
 agency: Department of Health and Human Services - Office of the Chief Technology
   Officer
 external-url: https://data4scd.crowdicity.com/
