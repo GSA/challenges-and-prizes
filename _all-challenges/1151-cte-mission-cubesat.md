@@ -12,7 +12,8 @@ tagline: "Bring space missions to students: The U.S. Department of Education
   invites high schools to design and build CubeSat prototypes."
 agency: U.S. Department of Education
 partners-non-federal: "Sponsors include: Arduino, Blue Origin, Chevron,
-  EnduroSat, LEGO Education, Magnitude.io, MIT Media Lab, XinaBox"
+  EnduroSat, LEGO Education, Magnitude.io, MIT Media Lab Space Exploration
+  Initiative, XinaBox"
 total-prize-offered-cash: $25,000
 type-of-challenge:
   - Ideas
@@ -85,7 +86,7 @@ prizes: >-
 
   * Five Arduino kits
 
-  * Five Blue Origin Space Mail kits
+  * Five Club for the Future Space Mail kits
 rules: "The Official Rules, Terms, and Conditions for CTE Mission: CubeSat can
   be found here: <https://www.ctemissioncubesat.com/rules-terms-conditions>"
 judging: >-
@@ -193,7 +194,7 @@ The following non-monetary prize pool will be distributed to finalists:
 * 10 LEGO® MINDSTORMS® Education EV3 Core Sets 
 * 10 XinaBox kits
 * Five Arduino kits
-* Five Blue Origin Space Mail kits
+* Five Club for the Future Space Mail kits
 
 ### Rules
 
