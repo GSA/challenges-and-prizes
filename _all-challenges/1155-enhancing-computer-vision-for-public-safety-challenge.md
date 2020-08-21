@@ -100,6 +100,11 @@ description: >-
 
 
   **Phase 2, Dataset Submission**: Open for submissions on November 3, 2020, with datasets due May 4, 2021; Winners will be notified by May 19, 2021.
+
+
+
+
+  ![Challenge Timeline]({{site.baseurl}}/assets/netlify-uploads/timeline-graphic_computervisionchallenge_08212020.png "Challenge Timeline")
 prizes: >-
   #### Total Cash Prize Pool
 
@@ -289,6 +294,8 @@ During Phase 2 of the challenge, invited contestants will implement their propos
 **Phase 1, Concept Paper**: Open for submissions beginning September 8, 2020, with concept papers due October 20, 2020; Winners will be notified by October 30, 2020.
 
 **Phase 2, Dataset Submission**: Open for submissions on November 3, 2020, with datasets due May 4, 2021; Winners will be notified by May 19, 2021.
+
+![Challenge Timeline]({{site.baseurl}}/assets/netlify-uploads/timeline-graphic_computervisionchallenge_08212020.png "Challenge Timeline")
 
 ### Prizes
 
