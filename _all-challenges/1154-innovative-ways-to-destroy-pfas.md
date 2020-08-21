@@ -6,7 +6,7 @@ permalink: /challenge/Innovative-Ways-To-Destroy-PFAS/
 challenge-id: "1154"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/destroypfas.jpg
+card-image: /assets/netlify-uploads/final_pfas-challenge-icon_341x160px.png
 agency-logo: /assets/netlify-uploads/256px-Environmental_Protection_Agency_logo.png
 tagline: EPA & partners seek non-incineration technologies & approaches that
   destroy PFAS in aqueous film forming foam (AFFF) without generating hazardous
