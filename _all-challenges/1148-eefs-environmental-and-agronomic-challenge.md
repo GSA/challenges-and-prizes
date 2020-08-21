@@ -6,12 +6,12 @@ permalink: /challenge/eefs-environmental-agronomic-challenge/
 challenge-id: "1148"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/next-gen-fertilizer-challenges_341x160.png
-agency-logo: /assets/netlify-uploads/256px-Environmental_Protection_Agency_logo.png
+card-image: /assets/netlify-uploads/next-gen-fertilizer-challenges_341x160-1-.png
+agency-logo: /assets/netlify-uploads/epa_usda_logos_v2.jpg
 tagline: This Challenge aims to identify existing EEFs currently on or
   near-market that meet or exceed certain environmental and agro-economic
   criteria.
-agency: Environmental Protection Agency
+agency: U.S. Environmental Protection Agency
 partner-agencies-federal: U.S. Department of Agriculture
 partners-non-federal: The Fertilizer Institute, International Fertilizer
   Development Center, The Nature Conservancy, The National Corn Growers
