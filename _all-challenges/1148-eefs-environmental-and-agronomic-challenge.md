@@ -251,7 +251,7 @@ This Partnership is being coordinated with input from stakeholders such as corn 
 
      Stage 1: Potential solvers will submit information describing the EEF and how it is anticipated to meet the      requirements. Submissions will be reviewed by an expert judging panel. 
 
-     Stage 2: A subset of Stage 1 solvers will be invited to submit physical products in order to compete in      planned greenhouse testing.   
+     Stage 2: A subset of Stage 1 solvers will be invited to submit physical products in order to compete in       planned greenhouse testing.   
 
      Stage 3: Potential for field trials following Stage 2 greenhouse testing, locations to be determined.
 
