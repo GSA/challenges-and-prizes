@@ -106,6 +106,11 @@ description: >-
 
   ![Challenge Timeline]({{site.baseurl}}/assets/netlify-uploads/timeline-graphic_computervisionchallenge_08212020.png "Challenge Timeline")
 prizes: >-
+  ![Prizes
+  graphic](blob:https://www.challenge.gov/efb044d0-e0eb-4c5c-9a87-a986cd7c8b5f
+  "Prize detail")
+
+
   #### Total Cash Prize Pool
 
 
@@ -298,6 +303,8 @@ During Phase 2 of the challenge, invited contestants will implement their propos
 ![Challenge Timeline]({{site.baseurl}}/assets/netlify-uploads/timeline-graphic_computervisionchallenge_08212020.png "Challenge Timeline")
 
 ### Prizes
+
+![Prizes graphic]({{site.baseurl}}/assets/netlify-uploads/prizeslogo_computervisionchallenge_07282020.png "Prize detail")
 
 #### Total Cash Prize Pool
 
