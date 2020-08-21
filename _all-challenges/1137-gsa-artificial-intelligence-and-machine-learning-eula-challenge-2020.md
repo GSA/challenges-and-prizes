@@ -6,7 +6,7 @@ challenge-title: GSA Artificial Intelligence and Machine Learning End-User
 layout: front-matter-data-markdownify-content
 permalink: /challenge/GSA-artificial-intelligence-AI-machine-learning-ML-challenge/
 challenge-id: "1137"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/gsa-ai-ml-eula-graphic-2.jpg
 agency-logo: /assets/netlify-uploads/1198px-US-GeneralServicesAdministration-Logo.png
@@ -16,8 +16,8 @@ agency: General Services Administration
 total-prize-offered-cash: $20,000
 type-of-challenge:
   - Software and apps
-submission-start: 2020/07/06 10:00 AM
-submission-end: 2020/08/20 5:00 PM
+submission-start: 07/06/2020 10:00 AM
+submission-end: 08/20/2020 5:00 PM
 fiscal-year: FY20
 legal-authority: America COMPETES Act
 challenge-manager: Cindy Smith
