@@ -8,8 +8,8 @@ status: open
 sidenav: true
 card-image: /assets/netlify-uploads/final_pfas-challenge-icon_341x160px.png
 agency-logo: /assets/netlify-uploads/256px-Environmental_Protection_Agency_logo.png
-tagline: EPA & partners seek non-incineration technologies & approaches that
-  destroy PFAS in aqueous film forming foam (AFFF) without generating hazardous
+tagline: EPA & partners seek non-thermal technologies & approaches that destroy
+  PFAS in aqueous film forming foam (AFFF) without generating hazardous
   byproducts.
 agency: U.S. Environmental Protection Agency
 partner-agencies-federal: U.S. Department of Defense, Strategic Environmental
@@ -37,16 +37,15 @@ description: >-
   (ERIS); Michigan Department of Environment, Great Lakes and Energy; and the
   Colorado Department of Public Health and Environment, to launch a technical
   challenge regarding the destruction of per- and polyfluoroalkyl substances
-  (PFAS). The challenge asks Solvers to submit detailed plans for a
-  non-incineration way of destroying PFAS in concentrated aqueous film forming
-  foam (AFFF), while creating the least amount of potentially harmful
-  byproducts.
+  (PFAS). The challenge asks Solvers to submit detailed plans for a non-thermal
+  way of destroying PFAS in concentrated aqueous film forming foam (AFFF), while
+  creating the least amount of potentially harmful byproducts.
 
 
   PFAS are a group of synthetic chemicals that have been widely used for more than 60 years to make plastics, firefighting foams, and lubricants, and to help make products stain-resistant, waterproof, and nonstick. Addressing and managing PFAS in the environment is one of the most pressing issues facing EPA and its partners. This issue is particularly challenging because PFAS chemicals have a very strong carbon-fluorine chemical bond that leads to persistence in the environment and makes their complete destruction extremely difficult. Given the ubiquitous nature of PFAS and increasing public concerns, EPA and its partners are looking for greater certainty when making decisions about disposal and treatment of PFAS containing materials and PFAS contaminated media/waste.
 
 
-  PFAS compounds are found at different concentrations in various waste streams including aqueous film forming foam (AFFF), biosolids, ground water, sludge and soil. Of those, unspent AFFF is among the most highly concentrated waste streams and the focus of this challenge. Currently, EPA is investigating all methods of destroying PFAS, including incineration, and a number of developing technologies. The goal of this challenge is to discover new non-incineration technologies and approaches that remove at least 99 percent of PFAS in unspent AFFF while preventing the creation of harmful byproducts.
+  Although PFAS compounds can be found at different concentrations in various waste streams including aqueous film forming foam (AFFF), biosolids, ground water, sludge and soil, the challenge is focused on unused AFFF. Currently, EPA is investigating all methods of destroying PFAS. Incineration has been used to treat PFAS-contaminated media, and EPA scientists are collaborating with the private sector to evaluate the effectiveness of thermal treatment technologies to completely destroy PFAS. The goal of this challenge is to discover new non-thermal technologies and approaches that remove at least 99 percent of PFAS in unused AFFF while preventing the creation of harmful byproducts.
 prizes: >-
   #### Total Cash Prize Pool
 
@@ -161,11 +160,11 @@ how-to-enter: >-
 ---
 ### Description
 
-EPA is partnering with the U.S. Department of Defense’s Strategic Environmental Research and Development Program (SERDP) and Environmental Security Technology Certification Program (ESTCP); the Environmental Council of States (ECOS) and the Environmental Research Institute of the States (ERIS); Michigan Department of Environment, Great Lakes and Energy; and the Colorado Department of Public Health and Environment, to launch a technical challenge regarding the destruction of per- and polyfluoroalkyl substances (PFAS). The challenge asks Solvers to submit detailed plans for a non-incineration way of destroying PFAS in concentrated aqueous film forming foam (AFFF), while creating the least amount of potentially harmful byproducts.
+EPA is partnering with the U.S. Department of Defense’s Strategic Environmental Research and Development Program (SERDP) and Environmental Security Technology Certification Program (ESTCP); the Environmental Council of States (ECOS) and the Environmental Research Institute of the States (ERIS); Michigan Department of Environment, Great Lakes and Energy; and the Colorado Department of Public Health and Environment, to launch a technical challenge regarding the destruction of per- and polyfluoroalkyl substances (PFAS). The challenge asks Solvers to submit detailed plans for a non-thermal way of destroying PFAS in concentrated aqueous film forming foam (AFFF), while creating the least amount of potentially harmful byproducts.
 
 PFAS are a group of synthetic chemicals that have been widely used for more than 60 years to make plastics, firefighting foams, and lubricants, and to help make products stain-resistant, waterproof, and nonstick. Addressing and managing PFAS in the environment is one of the most pressing issues facing EPA and its partners. This issue is particularly challenging because PFAS chemicals have a very strong carbon-fluorine chemical bond that leads to persistence in the environment and makes their complete destruction extremely difficult. Given the ubiquitous nature of PFAS and increasing public concerns, EPA and its partners are looking for greater certainty when making decisions about disposal and treatment of PFAS containing materials and PFAS contaminated media/waste.
 
-PFAS compounds are found at different concentrations in various waste streams including aqueous film forming foam (AFFF), biosolids, ground water, sludge and soil. Of those, unspent AFFF is among the most highly concentrated waste streams and the focus of this challenge. Currently, EPA is investigating all methods of destroying PFAS, including incineration, and a number of developing technologies. The goal of this challenge is to discover new non-incineration technologies and approaches that remove at least 99 percent of PFAS in unspent AFFF while preventing the creation of harmful byproducts. 
+Although PFAS compounds can be found at different concentrations in various waste streams including aqueous film forming foam (AFFF), biosolids, ground water, sludge and soil, the challenge is focused on unused AFFF. Currently, EPA is investigating all methods of destroying PFAS. Incineration has been used to treat PFAS-contaminated media, and EPA scientists are collaborating with the private sector to evaluate the effectiveness of thermal treatment technologies to completely destroy PFAS. The goal of this challenge is to discover new non-thermal technologies and approaches that remove at least 99 percent of PFAS in unused AFFF while preventing the creation of harmful byproducts.
 
 ### Prizes
 
@@ -193,15 +192,12 @@ Winning Solver(s) may be invited to reduce their solution to practice. Solvers s
 **Non-Endorsement:**  
 EPA does not endorse any collaborator or solver, nor any product, service or enterprise that may appear in submissions. Furthermore, by recognizing winning submissions, EPA is not endorsing products, services or enterprises that may appear in those submissions.
 
-
 **Funding Restrictions:** 
 
 * Winning Solvers must certify they do not have identical or essentially equivalent work currently funded by a Federal agency.
 * Federal employees acting within the scope of their employment should consult his or her ethics official before participating in the Challenge.
 * All prize awards are subject to EPA verification of the winners' identity, eligibility, and participation in the Challenge. Solvers must not be suspended, debarred, or otherwise excluded from doing business with the Federal Government. An individual or entity that is determined to be on the GSA Excluded Parties List (<https://www.sam.gov>) is ineligible to participate. Individuals entering on behalf of or representing a company, institution, or other legal entity are responsible for confirming that their entry does not violate any policies of that company, institution, or legal entity. 
 * As a condition of participation, all Solvers must agree to indemnify the Federal Government against third-party claims for damages arising from or related to competition activities. Entrants are not required to obtain liability insurance or demonstrate financial responsibility in order to participate in the competition. By entering the contest, Solvers agree to hold EPA harmless from all legal and administrative claims to include associated expenses that may arise from any claims related to their entry or its use.
-
-
 
 ### Judging Criteria
 
