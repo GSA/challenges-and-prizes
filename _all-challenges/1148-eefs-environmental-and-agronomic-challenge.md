@@ -70,6 +70,9 @@ description: >-
   * Submission End: 11:59 PM ET October 30, 2020 
 
   * Winners announced: Winter 2020/2021 (date and time to be determined)
+
+
+  Visit EPA's webpage for FAQs for the Next Gen Fertlizer Challenges: <https://epa.gov/innovation/next-gen-fertilizer-challenges>
 prizes: >-
   #### Total Cash Prize Pool
 
