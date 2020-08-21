@@ -6,8 +6,8 @@ permalink: /challenge/next-gen-fertilizer-innovations-challenge/
 challenge-id: "1147"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/next-gen-fertilizer-challenges_341x160.png
-agency-logo: /assets/netlify-uploads/256px-Environmental_Protection_Agency_logo.png
+card-image: /assets/netlify-uploads/next-gen-fertilizer-challenges_341x160-1-.png
+agency-logo: /assets/netlify-uploads/epa_usda_logos_v2.jpg
 tagline: "This Challenge aims to identify concepts for novel technologies for
   fertilizers and other product technology innovations that can reduce the
   environmental effects from modern agriculture while maintaining or increasing
