@@ -93,6 +93,9 @@ description: >-
   During Phase 2 of the challenge, invited contestants will implement their proposals and submit datasets according to the Requirements below. Datasets will consist of images or videos that contain different scenes or different impairments to quality. The datasets will also include a computer vision failure rate for each image or video, and a general description of how the failure rates were derived. During evaluation, the Judging panel will score each submission based on the evaluation criteria.
 
 
+  ![Challenge Timeline](blob:https://www.challenge.gov/85a9bbf0-8e95-4bf8-8e44-747d5f035d45 "Challenge Timeline")
+
+
   **Summary of Important Dates**
 
 
@@ -100,11 +103,6 @@ description: >-
 
 
   **Phase 2, Dataset Submission**: Open for submissions on November 3, 2020, with datasets due May 4, 2021; Winners will be notified by May 19, 2021.
-
-
-
-
-  ![Challenge Timeline]({{site.baseurl}}/assets/netlify-uploads/timeline-graphic_computervisionchallenge_08212020.png "Challenge Timeline")
 prizes: >-
   ![Prizes
   graphic](blob:https://www.challenge.gov/efb044d0-e0eb-4c5c-9a87-a986cd7c8b5f
@@ -294,13 +292,13 @@ The Concept Paper phase invites all eligible contestants to submit a concept pap
 
 During Phase 2 of the challenge, invited contestants will implement their proposals and submit datasets according to the Requirements below. Datasets will consist of images or videos that contain different scenes or different impairments to quality. The datasets will also include a computer vision failure rate for each image or video, and a general description of how the failure rates were derived. During evaluation, the Judging panel will score each submission based on the evaluation criteria.
 
+![Challenge Timeline]({{site.baseurl}}/assets/netlify-uploads/timeline-graphic_computervisionchallenge_08212020.png "Challenge Timeline")
+
 **Summary of Important Dates**
 
 **Phase 1, Concept Paper**: Open for submissions beginning September 8, 2020, with concept papers due October 20, 2020; Winners will be notified by October 30, 2020.
 
 **Phase 2, Dataset Submission**: Open for submissions on November 3, 2020, with datasets due May 4, 2021; Winners will be notified by May 19, 2021.
-
-![Challenge Timeline]({{site.baseurl}}/assets/netlify-uploads/timeline-graphic_computervisionchallenge_08212020.png "Challenge Timeline")
 
 ### Prizes
 
