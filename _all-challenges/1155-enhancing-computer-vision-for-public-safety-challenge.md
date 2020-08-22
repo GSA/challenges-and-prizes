@@ -6,7 +6,7 @@ permalink: /challenge/enhancing-computer-vision-for-public-safety-challenge/
 challenge-id: "1155"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/challenge_logo_4c_horiz.png
+card-image: /assets/netlify-uploads/logo-blurry-circuit-341x76.png
 agency-logo: /assets/netlify-uploads/NIST_logo.png
 tagline: Create a new line of research in computer vision to develop life-saving
   tools for public safety.
@@ -304,7 +304,7 @@ During Phase 2 of the challenge, invited contestants will implement their propos
 
 ### Prizes
 
-![Prizes graphic]({{site.baseurl}}/assets/netlify-uploads/prizeslogo_computervisionchallenge_07282020.png "Prize detail")
+![Prizes graphic](/assets/netlify-uploads/prizeslogo_computervisionchallenge_300x300.png "Prize detail")
 
 #### Total Cash Prize Pool
 
