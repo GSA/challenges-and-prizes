@@ -129,8 +129,6 @@ prizes: >-
 
   See [Official Rules]({{site.baseurl}}/assets/netlify-uploads/computer-vision-challenge-rules_final-8.21.2020.pdf) for Phase 2 judging criteria.
 rules: >-
-  
-
   General Submission Rules:
 
 
@@ -138,7 +136,7 @@ rules: >-
 
   * Individuals or members of a team may only be selected to participate on one contestant group and cannot participate on multiple teams nor contestant categories
 
-  * Deadline – The submissions must be available for evaluation by the end date noted in the “important Dates” section of these rules
+  * Deadline – The submissions must be received by NIST by 5:00 PM Mountain Time on the due date noted in the "Summary of Important Dates" section of these rules.
 
   * No NIST logo – submission(s) and participant(s) must not use NIST’s logo or official seal and must not claim NIST endorsement
 
@@ -324,7 +322,7 @@ General Submission Rules:
 
 * Contest submissions can be from an individual or a team(s)
 * Individuals or members of a team may only be selected to participate on one contestant group and cannot participate on multiple teams nor contestant categories
-* Deadline – The submissions must be available for evaluation by the end date noted in the “important Dates” section of these rules
+* Deadline – The submissions must be received by NIST by 5:00 PM Mountain Time on the due date noted in the "Summary of Important Dates" section of these rules.
 * No NIST logo – submission(s) and participant(s) must not use NIST’s logo or official seal and must not claim NIST endorsement
 * Each submission must be original, the work of the contestant, and must not infringe, misappropriate or otherwise violate any intellectual property rights, privacy rights, or any other rights of any person or entity
 * It is an express condition of submission and eligibility that each contestant warrants and represents that the contestant’s submission is solely owned by the contestant, that the submission is wholly original with the contestant, and that no other party has any ownership rights or ownership interest in the submission. The participant must disclose if they are subject to any obligation to assign intellectual property rights to parties other than the contest participant, it the participant is licensing or, through any other legal instrument, utilizing intellectual property of another party
