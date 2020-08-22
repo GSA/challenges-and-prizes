@@ -105,7 +105,7 @@ description: >-
   **Phase 2, Dataset Submission**: Open for submissions on November 3, 2020, with datasets due May 4, 2021; Winners will be notified by May 19, 2021.
 prizes: >-
   ![Prizes
-  graphic](blob:https://www.challenge.gov/efb044d0-e0eb-4c5c-9a87-a986cd7c8b5f
+  graphic]({{site.baseurl}}/assets/netlify-uploads/prizeslogo_computervisionchallenge_300x300.png
   "Prize detail")
 
 
@@ -302,7 +302,7 @@ During Phase 2 of the challenge, invited contestants will implement their propos
 
 ### Prizes
 
-![Prizes graphic](/assets/netlify-uploads/prizeslogo_computervisionchallenge_300x300.png "Prize detail")
+![Prizes graphic]({{site.baseurl}}/assets/netlify-uploads/prizeslogo_computervisionchallenge_300x300.png "Prize detail")
 
 #### Total Cash Prize Pool
 
