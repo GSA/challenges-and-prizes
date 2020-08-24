@@ -47,7 +47,7 @@ description: >-
   **Next Gen Fertilizer Innovation Challenge:** This Challenge aims to identify concepts for novel technologies for fertilizers and other product technology innovations that can reduce the environmental effects from modern agriculture while maintaining or increasing crop yields. Submissions to the Next Gen Fertilizer Innovation Challenge may include technologies that are not currently on the market or technology concepts that are not traditional EEFs and not in commercial use as a fertilizer.
 
 
-  For the challenge dealing with existing product technologies, go to the EEFs: Environmental and Agronomic Challenge.
+  For the challenge dealing with existing product technologies, go to the EEFs: [Environmental and Agronomic Challenge.](<https://challenge.gov/challenge/eefs-environmental-agronomic-challenge/>)
 
 
   #### Key Dates
@@ -58,9 +58,9 @@ description: >-
 
   * Challenge Launch: 9:00 AM ET August 26, 2020
 
-  * Informational Webinar: 10:00 AM ET September 24, 2020  
+  * [Informational Webinar](<https://www.next_gen_fertlizer_challenges.eventbrite.com/>): 10:00 AM ET September 24, 2020:
 
-  * Registration Deadline and Submission End*: 11:59 PM ET, November 30, 2020 
+  * [Registration* Deadline and Submission End](https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e): 11:59 PM ET, November 30, 2020 
 
   * Winners announced: Winter 2020/2021 (date and time to be determined)	
 
@@ -68,7 +68,7 @@ description: >-
   \*Register via InnoCentive
 
 
-  Visit EPA's webpage for FAQs for the Next Gen Fertilizer Challenges: <https://www.epa.gov/innovation/next-gen-fertilizer-challenges>
+  For more information on the two Next Gen Fertilizer Challenges visit <https://www.epa.gov/innovation/next-gen-fertilizer-challenges>.
 prizes: >-
   #### Total Cash Prize Pool
 
@@ -87,8 +87,6 @@ prizes: >-
 
   Finalists will be invited to present their technologies at a showcasing event (date and location to be determined). Promising submissions may also be advanced to greenhouse or field testing at the conclusion of the competition.
 rules: >-
-  
-
   #### Terms
 
 
@@ -97,6 +95,9 @@ rules: >-
   *Solvers:* Individuals or teams participating in the challenge by submitting a solution
 
   *Solution:* A Solver’s submission in response to a challenge
+
+
+  #### Rules
 
 
   1. **Eligibility**:
@@ -130,17 +131,17 @@ rules: >-
 
   * Solvers will not receive compensation for resources or time invested in addressing the challenge. Only the winners of the Next Generation Fertilizer Challenge will receive a cash award.
 
-  * Solvers retain their rights to all intellectual property (e.g., details and design of their technology) that may be disclosed to the sponsors over the course of the challenge. Technical details and designs will not be disclosed or published without permission from the technical point of contact named in the registration.
+  * Solvers retain their rights to all intellectual property (e.g., details and design of their technology) that may be disclosed to the Seekers over the course of the challenge. Technical details and designs will not be disclosed or published without permission from the technical point of contact named in the registration.
 
-  * Sponsors retain the right to disclose performance criteria, and other evaluation criteria summarized in the technology description to provide a transparent reporting of how the winning solution was selected.
+  * Seekers retain the right to disclose performance criteria, and other evaluation criteria summarized in the technology description to provide a transparent reporting of how the winning solution was selected.
 
-  * Sponsors retain the right to publish, present, and/or otherwise publicize results of the challenge competition that does not involve the disclosure of intellectual property of the Solver(s). Solvers will be afforded to review publications, presentation, or other publicity in order to protect against unwanted disclosure of intellectual property.
+  * Seekers retain the right to publish, present, and/or otherwise publicize results of the challenge competition that does not involve the disclosure of intellectual property of the Solver(s). Solvers will be afforded to review publications, presentation, or other publicity in order to protect against unwanted disclosure of intellectual property.
 
-  * Solvers reserve the right to remove themselves from the competition at any time, up to final submission of solution for evaluation, by notifying the sponsor in writing. The technical point of contact must make the request in writing on behalf of his/her team.
+  * Solvers reserve the right to remove themselves from the competition at any time, up to final submission of solution for evaluation, by notifying the Seeker in writing. The technical point of contact must make the request in writing on behalf of his/her team.
 
   * Registration for the challenge does not confer any obligation to deliver results.
 
-  * Solvers that do not submit their solution by the submission deadline will be removed from the competition and subject to the same terms as if they had forfeited in writing. The submission deadline may be extended at the discretion of the sponsors, but any extension will apply to all registered Solvers.
+  * Solvers that do not submit their solution by the submission deadline will be removed from the competition and subject to the same terms as if they had forfeited in writing. The submission deadline may be extended at the discretion of the Seekers, but any extension will apply to all registered Solvers.
 
 
   **Non-Endorsement:**
@@ -287,20 +288,20 @@ This Partnership is being coordinated with input from stakeholders such as corn 
 
 **Next Gen Fertilizer Innovation Challenge:** This Challenge aims to identify concepts for novel technologies for fertilizers and other product technology innovations that can reduce the environmental effects from modern agriculture while maintaining or increasing crop yields. Submissions to the Next Gen Fertilizer Innovation Challenge may include technologies that are not currently on the market or technology concepts that are not traditional EEFs and not in commercial use as a fertilizer.
 
-For the challenge dealing with existing product technologies, go to the EEFs: Environmental and Agronomic Challenge.
+For the challenge dealing with existing product technologies, go to the EEFs: [Environmental and Agronomic Challenge.](https://challenge.gov/challenge/eefs-environmental-agronomic-challenge/)
 
 #### Key Dates
 
 NextGen Fertilizer Challenge Dates: 
 
 * Challenge Launch: 9:00 AM ET August 26, 2020
-* Informational Webinar: 10:00 AM ET September 24, 2020  
-* Registration Deadline and Submission End*: 11:59 PM ET, November 30, 2020 
+* [Informational Webinar](<https://www.next_gen_fertlizer_challenges.eventbrite.com/>) 10:00 AM ET September 24, 2020
+* [Registration* Deadline and Submission End](https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e): 11:59 PM ET, November 30, 2020 
 * Winners announced: Winter 2020/2021 (date and time to be determined)	
 
 \*Register via InnoCentive
 
-Visit EPA's webpage for FAQs for the Next Gen Fertilizer Challenges: <https://www.epa.gov/innovation/next-gen-fertilizer-challenges>
+For more information on the two Next Gen Fertilizer Challenges visit <https://www.epa.gov/innovation/next-gen-fertilizer-challenges>.
 
 ### Prizes
 
@@ -324,6 +325,8 @@ Finalists will be invited to present their technologies at a showcasing event (d
 *Solvers:* Individuals or teams participating in the challenge by submitting a solution
 *Solution:* A Solver’s submission in response to a challenge
 
+#### Rules
+
 1. **Eligibility**:
 
    * Solvers must register and submit solutions via InnoCentive <https://innocentive.wazoku.com/#/challenge/4380f517f84f49b78ad3dab8b4657e6e> no later than 11:59 PM ET November 30, 2020. Late submissions will not be considered.
@@ -342,7 +345,7 @@ Finalists will be invited to present their technologies at a showcasing event (d
      2. Detailed Description of the Proposed Solution: This should include background on the EEF or novel technology, including any physical, chemical, biological, ecological, or biogeochemical properties in the soil under various climatic and soil moisture conditions. This should also include a description of how the solution may decompose in the environment and into what chemicals.
      3. Environmental Performance: A quantitative summary (including any relevant graphs or tables) of any published or unpublished results of environmental performance, including comparisons of rates of loss relative to conventional fertilizer for N (e.g. leaching, runoff, ammonia volatilization, nitrous oxide emissions), and P (e.g. leaching, runoff) if relevant;
      4. Agronomic Performance: A quantitative summary (including any relevant graphs or tables) of any published or unpublished results of agronomic performance, including yields under various conditions, rates of growth, kernel production, and net cost (e.g. return on investment, ROI) relative to conventional fertilizer practices;
-     5. Compatibility: Describe how your technology is or may be integrated into existing farming machinery and practices (e.g. transport, storage, application) to the level of specificity possible given the degree of technological maturity. 
+     5. Compatibility: Describe how your technology is or may be integrated into existing farming machinery and practices (e.g. transport, storage, application) to the level of specificity possible given the degree of technological maturity;
      6. Confidential Business Information (CBI): Clear statements on any CBI to be withheld from the submission, or included in the submission but to be withheld from either the judging panel or the public;
      7. Trajectory to Market: Describe what resources, steps, methodology, and, timeframe would be needed to bring your idea to fruition (i.e., from concept to design to prototype to pilot-scale system to commercially viable technology).
 
@@ -352,12 +355,12 @@ Finalists will be invited to present their technologies at a showcasing event (d
 #### **Terms and Conditions**
 
 * Solvers will not receive compensation for resources or time invested in addressing the challenge. Only the winners of the Next Generation Fertilizer Challenge will receive a cash award.
-* Solvers retain their rights to all intellectual property (e.g., details and design of their technology) that may be disclosed to the sponsors over the course of the challenge. Technical details and designs will not be disclosed or published without permission from the technical point of contact named in the registration.
-* Sponsors retain the right to disclose performance criteria, and other evaluation criteria summarized in the technology description to provide a transparent reporting of how the winning solution was selected.
-* Sponsors retain the right to publish, present, and/or otherwise publicize results of the challenge competition that does not involve the disclosure of intellectual property of the Solver(s). Solvers will be afforded to review publications, presentation, or other publicity in order to protect against unwanted disclosure of intellectual property.
-* Solvers reserve the right to remove themselves from the competition at any time, up to final submission of solution for evaluation, by notifying the sponsor in writing. The technical point of contact must make the request in writing on behalf of his/her team.
+* Solvers retain their rights to all intellectual property (e.g., details and design of their technology) that may be disclosed to the Seekers over the course of the challenge. Technical details and designs will not be disclosed or published without permission from the technical point of contact named in the registration.
+* Seekers retain the right to disclose performance criteria, and other evaluation criteria summarized in the technology description to provide a transparent reporting of how the winning solution was selected.
+* Seekers retain the right to publish, present, and/or otherwise publicize results of the challenge competition that does not involve the disclosure of intellectual property of the Solver(s). Solvers will be afforded to review publications, presentation, or other publicity in order to protect against unwanted disclosure of intellectual property.
+* Solvers reserve the right to remove themselves from the competition at any time, up to final submission of solution for evaluation, by notifying the Seeker in writing. The technical point of contact must make the request in writing on behalf of his/her team.
 * Registration for the challenge does not confer any obligation to deliver results.
-* Solvers that do not submit their solution by the submission deadline will be removed from the competition and subject to the same terms as if they had forfeited in writing. The submission deadline may be extended at the discretion of the sponsors, but any extension will apply to all registered Solvers.
+* Solvers that do not submit their solution by the submission deadline will be removed from the competition and subject to the same terms as if they had forfeited in writing. The submission deadline may be extended at the discretion of the Seekers, but any extension will apply to all registered Solvers.
 
 **Non-Endorsement:**
 
