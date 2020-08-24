@@ -52,7 +52,7 @@ description: >-
   * Stage 3: Potential for field trials following Stage 2 greenhouse testing, locations to be determined.
 
 
-  For the challenge dealing with concepts for novel technologies for fertilizers and other product technology innovations, go to the Next Gen Fertilizer Innovation Challenge.
+  For the challenge dealing with concepts for novel technologies for fertilizers and other product technology innovations, go to the [Next Gen Fertilizer Innovation Challenge](<https://www.challenge.gov/challenge/next-gen-fertilizer-innovations-challenge/>).
 
 
   #### Key Dates:
@@ -63,7 +63,7 @@ description: >-
 
   * Challenge Launch: 9:00 AM ET August 26, 2020
 
-  * Informational Webinar:  10:00 AM ET September 24, 2020  
+  * Informational Webinar (register [here](https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e)):  10:00 AM ET September 24, 2020  
 
   * Submission End: 11:59 PM ET October 30, 2020 
 
@@ -83,7 +83,20 @@ prizes: >-
 
   Solvers of the EEFs: *Environmental and Agronomic Challenge* will receive scientific evaluation from the panel of experts. Winners will also receive recognition from EPA, USDA, and other collaborators and Solvers; advancement to a greenhouse trial (Stage 2); and, pending greenhouse trial results and available funds, advancement to field trials (Stage 3). Winners of Stage 1 will also be invited to a showcasing event (date and location to be determined).
 rules: >-
-  
+  #### Terms
+
+
+  *Seekers:* EPA, USDA, and collaborators
+
+
+  *Solvers:* Individuals or teams participating in the challenge by submitting a solution
+
+
+  *Solutions:* A Solver's submission in response to a challenge
+
+
+  #### Rules
+
 
   1. **Eligibility:**
 
@@ -113,11 +126,11 @@ rules: >-
 
   * Solvers will not receive compensation for resources or time invested in addressing this Challenge. 
 
-  * Solvers retain their rights to all intellectual property (e.g., details and design of their technology) that may be disclosed to the sponsors over the course of the challenge. Technical details and designs will not be disclosed or published without permission from the technical point of contact named in the registration.
+  * Solvers retain their rights to all intellectual property (e.g., details and design of their technology) that may be disclosed to the Seekers over the course of the challenge. Technical details and designs will not be disclosed or published without permission from the technical point of contact named in the registration.
 
-  * Sponsors retain the right to disclose performance criteria, and other evaluation criteria summarized in the technology description to provide a transparent reporting of how the winning solution was selected.
+  * Seekers retain the right to disclose performance criteria, and other evaluation criteria summarized in the technology description to provide a transparent reporting of how the winning solution was selected.
 
-  * Sponsors retain the right to publish, present, and/or otherwise publicize results of the challenge competition that does not involve the disclosure of intellectual property of the Solver(s). Solvers will be afforded to review publications, presentation, or other publicity in order to protect against unwanted disclosure of intellectual property.
+  * Seekers retain the right to publish, present, and/or otherwise publicize results of the challenge competition that does not involve the disclosure of intellectual property of the Solver(s). Solvers will be afforded to review publications, presentation, or other publicity in order to protect against unwanted disclosure of intellectual property.
 
 
   **Non-Endorsement:** EPA and USDA do not endorse any collaborator or Solver, nor any product, service or enterprise that may appear in submissions. Furthermore, by recognizing winning submissions, EPA and USDA are not endorsing products, services or enterprises that may appear in those submissions.
@@ -251,14 +264,14 @@ This Partnership is being coordinated with input from stakeholders such as corn 
 * Stage 2: A subset of Stage 1 solvers will be invited to submit physical products in order to compete in planned greenhouse testing.   
 * Stage 3: Potential for field trials following Stage 2 greenhouse testing, locations to be determined.
 
-For the challenge dealing with concepts for novel technologies for fertilizers and other product technology innovations, go to the Next Gen Fertilizer Innovation Challenge.
+For the challenge dealing with concepts for novel technologies for fertilizers and other product technology innovations, go to the [Next Gen Fertilizer Innovation Challenge](<https://www.challenge.gov/challenge/next-gen-fertilizer-innovations-challenge/>).
 
 #### Key Dates:
 
 EEF Environmental and Agronomic Challenge Dates: 
 
 * Challenge Launch: 9:00 AM ET August 26, 2020
-* Informational Webinar:  10:00 AM ET September 24, 2020  
+* Informational Webinar (register [here](https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e)):  10:00 AM ET September 24, 2020  
 * Submission End: 11:59 PM ET October 30, 2020 
 * Winners announced: Winter 2020/2021 (date and time to be determined)
 
@@ -275,6 +288,16 @@ There is no monetary prize for this challenge.
 Solvers of the EEFs: *Environmental and Agronomic Challenge* will receive scientific evaluation from the panel of experts. Winners will also receive recognition from EPA, USDA, and other collaborators and Solvers; advancement to a greenhouse trial (Stage 2); and, pending greenhouse trial results and available funds, advancement to field trials (Stage 3). Winners of Stage 1 will also be invited to a showcasing event (date and location to be determined).
 
 ### Rules
+
+#### Terms
+
+*Seekers:* EPA, USDA, and collaborators
+
+*Solvers:* Individuals or teams participating in the challenge by submitting a solution
+
+*Solutions:* A Solver's submission in response to a challenge
+
+#### Rules
 
 1. **Eligibility:**
 
@@ -301,9 +324,9 @@ Solvers of the EEFs: *Environmental and Agronomic Challenge* will receive scient
 #### Terms and Conditions
 
 * Solvers will not receive compensation for resources or time invested in addressing this Challenge. 
-* Solvers retain their rights to all intellectual property (e.g., details and design of their technology) that may be disclosed to the sponsors over the course of the challenge. Technical details and designs will not be disclosed or published without permission from the technical point of contact named in the registration.
-* Sponsors retain the right to disclose performance criteria, and other evaluation criteria summarized in the technology description to provide a transparent reporting of how the winning solution was selected.
-* Sponsors retain the right to publish, present, and/or otherwise publicize results of the challenge competition that does not involve the disclosure of intellectual property of the Solver(s). Solvers will be afforded to review publications, presentation, or other publicity in order to protect against unwanted disclosure of intellectual property.
+* Solvers retain their rights to all intellectual property (e.g., details and design of their technology) that may be disclosed to the Seekers over the course of the challenge. Technical details and designs will not be disclosed or published without permission from the technical point of contact named in the registration.
+* Seekers retain the right to disclose performance criteria, and other evaluation criteria summarized in the technology description to provide a transparent reporting of how the winning solution was selected.
+* Seekers retain the right to publish, present, and/or otherwise publicize results of the challenge competition that does not involve the disclosure of intellectual property of the Solver(s). Solvers will be afforded to review publications, presentation, or other publicity in order to protect against unwanted disclosure of intellectual property.
 
 **Non-Endorsement:** EPA and USDA do not endorse any collaborator or Solver, nor any product, service or enterprise that may appear in submissions. Furthermore, by recognizing winning submissions, EPA and USDA are not endorsing products, services or enterprises that may appear in those submissions.
 
