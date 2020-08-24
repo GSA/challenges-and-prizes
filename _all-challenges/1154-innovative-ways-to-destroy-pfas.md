@@ -113,7 +113,7 @@ judging: >-
 
   1. Must be applicable for use on unspent aqueous film forming foam (AFFF) from unused AFFF concentrates containing 3 percent and/or 6 percent PFAS;
 
-  2. Must destroy at least 99 percent of the PFAS in unused AFFF concentrates, included PFAS byproducts that may form by volatilization, particulates, and leaching from effluents;
+  2. Must destroy at least 99 percent of the PFAS in unused AFFF concentrates, including PFAS byproducts that may form by volatilization, particulates, and leaching from effluents;
 
   3. Must demonstrate scalability and cost effectiveness for a defined quantity over thermal methods used to treat AFFF.
 
@@ -212,7 +212,7 @@ Submissions will be judged by how they address the criteria listed below.
 #### This challenge is intended to encourage the development of new approaches, technologies, or technology combinations that meet the following objectives:
 
 1. Must be applicable for use on unspent aqueous film forming foam (AFFF) from unused AFFF concentrates containing 3 percent and/or 6 percent PFAS;
-2. Must destroy at least 99 percent of the PFAS in unused AFFF concentrates, included PFAS byproducts that may form by volatilization, particulates, and leaching from effluents;
+2. Must destroy at least 99 percent of the PFAS in unused AFFF concentrates, including PFAS byproducts that may form by volatilization, particulates, and leaching from effluents;
 3. Must demonstrate scalability and cost effectiveness for a defined quantity over thermal methods used to treat AFFF.
 
 Solvers are not required to give up any of their intellectual property rights to EPA and its partners to be eligible to receive an award.
