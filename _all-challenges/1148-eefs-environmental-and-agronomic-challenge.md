@@ -63,7 +63,7 @@ description: >-
 
   * Challenge Launch: 9:00 AM ET August 26, 2020
 
-  * Informational Webinar (register [here](https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e)):  10:00 AM ET September 24, 2020  
+  * Informational Webinar (register [here](https://next_gen_fertilizer_challenges.eventbrite.com)):  10:00 AM ET September 24, 2020  
 
   * Submission End: 11:59 PM ET October 30, 2020 
 
@@ -264,14 +264,14 @@ This Partnership is being coordinated with input from stakeholders such as corn 
 * Stage 2: A subset of Stage 1 solvers will be invited to submit physical products in order to compete in planned greenhouse testing.   
 * Stage 3: Potential for field trials following Stage 2 greenhouse testing, locations to be determined.
 
-For the challenge dealing with concepts for novel technologies for fertilizers and other product technology innovations, go to the [Next Gen Fertilizer Innovation Challenge](<https://www.challenge.gov/challenge/next-gen-fertilizer-innovations-challenge/>).
+For the challenge dealing with concepts for novel technologies for fertilizers and other product technology innovations, go to the [Next Gen Fertilizer Innovation Challenge](https://www.challenge.gov/challenge/next-gen-fertilizer-innovations-challenge/).
 
 #### Key Dates:
 
 EEF Environmental and Agronomic Challenge Dates: 
 
 * Challenge Launch: 9:00 AM ET August 26, 2020
-* Informational Webinar (register [here](https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e)):  10:00 AM ET September 24, 2020  
+* Informational Webinar (register [here](https://next_gen_fertilizer_challenges.eventbrite.com)):  10:00 AM ET September 24, 2020  
 * Submission End: 11:59 PM ET October 30, 2020 
 * Winners announced: Winter 2020/2021 (date and time to be determined)
 
