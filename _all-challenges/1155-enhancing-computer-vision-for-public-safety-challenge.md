@@ -6,7 +6,7 @@ permalink: /challenge/enhancing-computer-vision-for-public-safety-challenge/
 challenge-id: "1155"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/logo-blurry-circuit-341x76.png
+card-image: /assets/netlify-uploads/challenge-logo-v2_computervision.340x161.png
 agency-logo: /assets/netlify-uploads/NIST_logo.png
 tagline: Create a new line of research in computer vision to develop life-saving
   tools for public safety.
