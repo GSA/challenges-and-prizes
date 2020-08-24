@@ -6,7 +6,7 @@ challenge-title: GSA Artificial Intelligence and Machine Learning End-User
 layout: front-matter-data-markdownify-content
 permalink: /challenge/GSA-artificial-intelligence-AI-machine-learning-ML-challenge/
 challenge-id: "1137"
-status: closed
+status: open
 sidenav: true
 card-image: /assets/netlify-uploads/gsa-ai-ml-eula-graphic-2.jpg
 agency-logo: /assets/netlify-uploads/1198px-US-GeneralServicesAdministration-Logo.png
