@@ -90,11 +90,11 @@ rules: >-
   #### Terms
 
 
-  *Seekers:* EPA, USDA and collaborators
+  Seekers: EPA, USDA and collaborators
 
-  *Solvers:* Individuals or teams participating in the challenge by submitting a solution
+  Solvers: Individuals or teams participating in the challenge by submitting a solution
 
-  *Solution:* A Solver’s submission in response to a challenge
+  Solution: A Solver’s submission in response to a challenge
 
 
   #### Rules
@@ -321,9 +321,9 @@ Finalists will be invited to present their technologies at a showcasing event (d
 
 #### Terms
 
-*Seekers:* EPA, USDA and collaborators
-*Solvers:* Individuals or teams participating in the challenge by submitting a solution
-*Solution:* A Solver’s submission in response to a challenge
+Seekers: EPA, USDA and collaborators
+Solvers: Individuals or teams participating in the challenge by submitting a solution
+Solution: A Solver’s submission in response to a challenge
 
 #### Rules
 
