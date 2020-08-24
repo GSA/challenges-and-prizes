@@ -17,7 +17,7 @@ partner-agencies-federal: U.S. Department of Defense, Strategic Environmental
   Certification Program
 partners-non-federal: Environmental Council of States, Environmental Research
   Institute of the States, Michigan Department of Environment, Great Lakes &
-  Energy
+  Energy, Colorado Department of Public Health & Environment
 total-prize-offered-cash: $50,000
 type-of-challenge:
   - Ideas
@@ -160,7 +160,7 @@ how-to-enter: >-
 ---
 ### Description
 
-EPA is partnering with the U.S. Department of Defense’s Strategic Environmental Research and Development Program (SERDP) and Environmental Security Technology Certification Program (ESTCP); the Environmental Council of States (ECOS) and the Environmental Research Institute of the States (ERIS) and Michigan Department of Environment, Great Lakes and Energy to launch a technical challenge regarding the destruction of per- and polyfluoroalkyl substances (PFAS). The challenge asks Solvers to submit detailed plans for a non-thermal way of destroying PFAS in concentrated aqueous film forming foam (AFFF), while creating the least amount of potentially harmful byproducts.
+EPA is partnering with the U.S. Department of Defense’s Strategic Environmental Research and Development Program (SERDP) and Environmental Security Technology Certification Program (ESTCP); the Environmental Council of States (ECOS) and the Environmental Research Institute of the States (ERIS); and Michigan Department of Environment, Great Lakes and Energy; and the Colorado Department of Public Health and Environment, to launch a technical challenge regarding the destruction of per- and polyfluoroalkyl substances (PFAS). The challenge asks Solvers to submit detailed plans for a non-thermal way of destroying PFAS in concentrated aqueous film forming foam (AFFF), while creating the least amount of potentially harmful byproducts.
 
 PFAS are a group of synthetic chemicals that have been widely used for more than 60 years to make plastics, firefighting foams, and lubricants, and to help make products stain-resistant, waterproof, and nonstick. Addressing and managing PFAS in the environment is one of the most pressing issues facing EPA and its partners. This issue is particularly challenging because PFAS chemicals have a very strong carbon-fluorine chemical bond that leads to persistence in the environment and makes their complete destruction extremely difficult. Given the ubiquitous nature of PFAS and increasing public concerns, EPA and its partners are looking for greater certainty when making decisions about disposal and treatment of PFAS containing materials and PFAS contaminated media/waste.
 
