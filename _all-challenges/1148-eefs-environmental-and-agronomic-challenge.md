@@ -52,7 +52,7 @@ description: >-
   * Stage 3: Potential for field trials following Stage 2 greenhouse testing, locations to be determined.
 
 
-  For the challenge dealing with concepts for novel technologies for fertilizers and other product technology innovations, go to the [Next Gen Fertilizer Innovation Challenge](<https://www.challenge.gov/challenge/next-gen-fertilizer-innovations-challenge/>).
+  For the challenge dealing with concepts for novel technologies for fertilizers and other product technology innovations, go to the [Next Gen Fertilizer Innovation Challenge](https://www.challenge.gov/challenge/next-gen-fertilizer-innovations-challenge/).
 
 
   #### Key Dates:
@@ -63,14 +63,14 @@ description: >-
 
   * Challenge Launch: 9:00 AM ET August 26, 2020
 
-  * Informational Webinar (register [here](https://next_gen_fertilizer_challenges.eventbrite.com)):  10:00 AM ET September 24, 2020  
+  * [Informational Webinar](https://next_gen_fertilizer_challenges.eventbrite.com/):  10:00 AM ET September 24, 2020  
 
   * Submission End: 11:59 PM ET October 30, 2020 
 
   * Winners announced: Winter 2020/2021 (date and time to be determined)
 
 
-  For more information on the two Next Gen Fertilizer Challenges visit <https://epa.gov/innovation/next-gen-fertilizer-challenges>.
+  For more information please visit EPA's page for the [Next Gen Fertilizer Challenges](https://next_gen_fertilizer_challenges.eventbrite.com/).
 prizes: >-
   #### Total Cash Prize Pool
 
@@ -271,11 +271,11 @@ For the challenge dealing with concepts for novel technologies for fertilizers a
 EEF Environmental and Agronomic Challenge Dates: 
 
 * Challenge Launch: 9:00 AM ET August 26, 2020
-* Informational Webinar (register [here](https://next_gen_fertilizer_challenges.eventbrite.com)):  10:00 AM ET September 24, 2020  
+* [Informational Webinar](https://next_gen_fertilizer_challenges.eventbrite.com/):  10:00 AM ET September 24, 2020  
 * Submission End: 11:59 PM ET October 30, 2020 
 * Winners announced: Winter 2020/2021 (date and time to be determined)
 
-For more information on the two Next Gen Fertilizer Challenges visit <https://epa.gov/innovation/next-gen-fertilizer-challenges>.
+For more information please visit EPA's page for the [Next Gen Fertilizer Challenges](https://next_gen_fertilizer_challenges.eventbrite.com/). 
 
 ### Prizes
 
