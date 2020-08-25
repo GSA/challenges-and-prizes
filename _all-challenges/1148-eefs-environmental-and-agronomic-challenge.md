@@ -1,5 +1,5 @@
 ---
-title: EEFs Environmental and Agronomic Challenge
+title: "EEFs: Environmental and Agronomic Challenge"
 challenge-title: "EEFs: Environmental and Agronomic Challenge"
 layout: front-matter-data-markdownify-content
 permalink: /challenge/eefs-environmental-agronomic-challenge/
