@@ -18,7 +18,7 @@ total-prize-offered-cash: $500,000
 type-of-challenge:
   - Analytics, visualizations, algorithms
 submission-start: 2020/08/28 09:00 PM
-submission-end: 2020/09/30 09:00 PM
+submission-end: 2021/09/30 09:00 PM
 fiscal-year: FY20, FY21
 legal-authority: Procurement Authority
 challenge-manager: Jennifer Beardsley
