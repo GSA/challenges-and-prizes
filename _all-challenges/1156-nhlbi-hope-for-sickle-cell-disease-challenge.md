@@ -16,7 +16,7 @@ type-of-challenge:
   - Creative (multimedia & design)
   - Ideas
 submission-start: 2020/08/27 7:00 AM
-submission-end: 2020/03/26 11:59 PM
+submission-end: 2021/03/26 11:59 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Laura Hsu, PrPH
