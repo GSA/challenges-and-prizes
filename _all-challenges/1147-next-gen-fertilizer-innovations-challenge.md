@@ -295,7 +295,7 @@ For the challenge dealing with existing product technologies, go to the EEFs: [E
 NextGen Fertilizer Challenge Dates: 
 
 * Challenge Launch: 9:00 AM ET August 26, 2020
-* [Informational Webinar](<https://www.next_gen_fertlizer_challenges.eventbrite.com/>) 10:00 AM ET September 24, 2020
+* [Informational Webinar](https://www.next_gen_fertlizer_challenges.eventbrite.com/) 10:00 AM ET September 24, 2020
 * [Registration* Deadline and Submission End](https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e): 11:59 PM ET, November 30, 2020 
 * Winners announced: Winter 2020/2021 (date and time to be determined)	
 
