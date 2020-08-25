@@ -272,7 +272,7 @@ A specific single mutation in the gene for hemoglobin, when inherited from both 
 
 A lack of awareness about SCD and its associated complications among the public and affected communities (7,8) can contribute to stigmas associated with SCD, a lack of understanding of how the disease affects individuals and families, and to less than optimal care experienced by many patients (9). 
 
-Please note that numbers in parentheses in the paragraphs above denote citations that can be found in the [bibliography document]({{site.baseurl}}/assets/netlify-uploads/bibliography-nhlbi-sickle-cell-challenge.pdf).
+*Please note that numbers in parentheses in the paragraphs above denote citations that can be found in the [bibliography document]({{site.baseurl}}/assets/netlify-uploads/bibliography-nhlbi-sickle-cell-challenge.pdf).*
 
 The [SCD Implementation Consortium](https://scdic.rti.org/) (funded by the NHLBI) is testing new approaches to enhance care for SCD and improve health outcomes in eight geographically diverse areas, particularly for young adults. The [Cure Sickle Cell Initiative](https://www.nhlbi.nih.gov/science/cure-sickle-cell-initiative) is an NHLBI-led collaborative research effort accelerating the development of genetic therapies for SCD. And the NHLBI’s intramural researchers have developed gene therapy advances using a vector system to deliver a normal hemoglobin gene to blood-forming stem cells more efficiently. 
 
