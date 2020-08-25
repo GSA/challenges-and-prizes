@@ -122,7 +122,7 @@ rules: >-
        4. Agronomic Performance: A quantitative summary (including any relevant graphs or tables) of any published or unpublished results of agronomic performance, including yields under various conditions, rates of growth, kernel production, and net cost (e.g. return on investment, ROI) relative to conventional fertilizer practices;
        5. Compatibility: Describe how your technology is or may be integrated into existing farming machinery and practices (e.g. transport, storage, application) to the level of specificity possible given the degree of technological maturity. 
        6. Confidential Business Information (CBI): Clear statements on any CBI to be withheld from the submission, or included in the submission but to be withheld from either the judging panel or the public;
-       7. Trajectory to Market: Describe what resources, steps, methodology, and, timeframe would be needed to bring your idea to fruition (i.e., from concept to design to prototype to pilot-scale system to commercially viable technology).
+       7. Trajectory to Market: Describe what resources, steps, methodology, and, timeframe would be needed to bring your idea to fruition (i.e., from concept to design to prototype to pilot-scale system to commercially viable technology). 
 
           Solvers are not required to give up any of their intellectual property (“IP”) rights to the Seekers to be eligible to receive an award. 
   3. **Solvers must agree to the terms and conditions** outlined below. Submission of a solution for the Challenge indicates the agreement of the Solver, and all team members, with the terms and conditions.
