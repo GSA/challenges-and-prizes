@@ -68,7 +68,7 @@ description: >-
   \*Register via InnoCentive
 
 
-  For more information please visit EPA's page for the [Next Gen Fertilizer Challenges](https://next_gen_fertilizer_challenges.eventbrite.com/).
+  For more information please visit EPA's page for the [Next Gen Fertilizer Challenges](https://www.epa.gov/innovation/next-gen-fertilizer-challenges).
 prizes: >-
   #### Total Cash Prize Pool
 
@@ -302,7 +302,7 @@ NextGen Fertilizer Challenge Dates:
 
 \*Register via InnoCentive
 
-For more information please visit EPA's page for the [Next Gen Fertilizer Challenges](https://next_gen_fertilizer_challenges.eventbrite.com/).
+For more information please visit EPA's page for the [Next Gen Fertilizer Challenges](https://www.epa.gov/innovation/next-gen-fertilizer-challenges).
 
 ### Prizes
 
