@@ -92,7 +92,9 @@ rules: >-
 
   Seekers: EPA, USDA and collaborators
 
+
   Solvers: Individuals or teams participating in the challenge by submitting a solution
+
 
   Solution: A Solver’s submission in response to a challenge
 
