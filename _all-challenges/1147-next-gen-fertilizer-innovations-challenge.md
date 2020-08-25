@@ -1,8 +1,8 @@
 ---
-title: Next Gen Fertilizer Innovations Challenge
-challenge-title: Next Gen Fertilizer Innovations Challenge
+title: Next Gen Fertilizer Innovation Challenge
+challenge-title: Next Gen Fertilizer Innovation Challenge
 layout: front-matter-data-markdownify-content
-permalink: /challenge/next-gen-fertilizer-innovations-challenge/
+permalink: /challenge/next-gen-fertilizer-innovation-challenge/
 challenge-id: "1147"
 status: open
 sidenav: true
@@ -47,7 +47,7 @@ description: >-
   **Next Gen Fertilizer Innovation Challenge:** This Challenge aims to identify concepts for novel technologies for fertilizers and other product technology innovations that can reduce the environmental effects from modern agriculture while maintaining or increasing crop yields. Submissions to the Next Gen Fertilizer Innovation Challenge may include technologies that are not currently on the market or technology concepts that are not traditional EEFs and not in commercial use as a fertilizer.
 
 
-  For the challenge dealing with existing product technologies, go to the EEFs: [Environmental and Agronomic Challenge.](<https://challenge.gov/challenge/eefs-environmental-agronomic-challenge/>)
+  For the challenge dealing with existing product technologies, go to the EEFs: [Environmental and Agronomic Challenge.](https://challenge.gov/challenge/eefs-environmental-agronomic-challenge/)
 
 
   #### Key Dates
@@ -58,11 +58,11 @@ description: >-
 
   * Challenge Launch: 9:00 AM ET August 26, 2020
 
-  * [Informational Webinar](<https://www.next_gen_fertlizer_challenges.eventbrite.com/>): 10:00 AM ET September 24, 2020:
+  * [Informational Webinar](https://next_gen_fertilizer_challenges.eventbrite.com/): 10:00 AM ET September 24, 2020
 
   * [Registration* Deadline and Submission End](https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e): 11:59 PM ET, November 30, 2020 
 
-  * Winners announced: Winter 2020/2021 (date and time to be determined)	
+  * Winners announced: Winter 2020/2021 (date and time to be determined)
 
 
   \*Register via InnoCentive
@@ -270,11 +270,10 @@ judging: >-
   6. Has good environmental and agronomic performance under a range of environmental conditions;
 
   7. Is potentially applicable to other crops and countries.
-how-to-enter: "To register and submit a solution to the Next Gen Fertilizer
-  Innovations Challenge, please follow the link here to InnoCentive and follow
-  the instructions:
-  <https://www.innocentive.wazoku.com/#/challenge/4380f517f84f49b78ad3dab8b4657\
-  e6e>"
+how-to-enter: To register and submit a solution to the Next Gen Fertilizer
+  Innovation Challenge, please visit the Challenge on the [InnoCentive
+  page](https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e).
+  [](https://www.innocentive.wazoku.com/#/challenge/4380f517f84f49b78ad3dab8b4657e6e)
 ---
 ### Description
 
@@ -297,7 +296,7 @@ For the challenge dealing with existing product technologies, go to the EEFs: [E
 NextGen Fertilizer Challenge Dates: 
 
 * Challenge Launch: 9:00 AM ET August 26, 2020
-* [Informational Webinar](https://www.next_gen_fertlizer_challenges.eventbrite.com/) 10:00 AM ET September 24, 2020
+* [Informational Webinar](https://next_gen_fertilizer_challenges.eventbrite.com/): 10:00 AM ET September 24, 2020
 * [Registration* Deadline and Submission End](https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e): 11:59 PM ET, November 30, 2020 
 * Winners announced: Winter 2020/2021 (date and time to be determined)	
 
@@ -454,4 +453,4 @@ The example rubric above is for a solution that addresses N and P. For solutions
 
 ### How to Enter
 
-To register and submit a solution to the Next Gen Fertilizer Innovations Challenge, please follow the link here to InnoCentive and follow the instructions: <https://www.innocentive.wazoku.com/#/challenge/4380f517f84f49b78ad3dab8b4657e6e>
+To register and submit a solution to the Next Gen Fertilizer Innovation Challenge, please visit the Challenge on the [InnoCentive page](https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e). [](https://www.innocentive.wazoku.com/#/challenge/4380f517f84f49b78ad3dab8b4657e6e)
