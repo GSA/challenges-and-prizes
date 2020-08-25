@@ -65,9 +65,9 @@ description: >-
 
   * Submit solutions before: 5 p.m. ET, August 20, 2020
 
-  * Semi-finalists announced: 10 a.m. ET, September 4, 2020
+  * Semi-finalists announced: 10 a.m. ET, September 11, 2020
 
-  * Winner announced: 10 a.m. ET, September 11, 2020
+  * Winner announced: 10 a.m. ET, September 18, 2020
 prizes: >-
   GSA anticipates awarding cash prizes, for a $20,000.00 total prize purse.
   After all submissions have been received, our judges will review all
@@ -389,8 +389,8 @@ All Solvers (individuals, teams, or legal entities) shall have access to the fol
 
 * Registration begins: 10 a.m. ET, July 6, 2020
 * Submit solutions before: 5 p.m. ET, August 20, 2020
-* Semi-finalists announced: 10 a.m. ET, September 4, 2020
-* Winner announced: 10 a.m. ET, September 11, 2020 
+* Semi-finalists announced: 10 a.m. ET, September 11, 2020
+* Winner announced: 10 a.m. ET, September 18, 2020 
 
 ### Prizes
 
