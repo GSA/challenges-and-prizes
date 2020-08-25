@@ -7,7 +7,7 @@ challenge-id: "1156"
 status: open
 sidenav: true
 card-image: /assets/netlify-uploads/nih_nhlbi_340x160.jpg
-agency-logo: /assets/netlify-uploads/nih_nhlbi_340x160.jpg
+agency-logo: /assets/netlify-uploads/NIH_Master_Logo_Vertical_2Color.jpg
 tagline: Foster awareness of Sickle Cell Disease
 agency: Department of Health and Human Services - National Institute of Health
 total-prize-offered-cash: $50,000
