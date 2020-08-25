@@ -47,7 +47,7 @@ description: >-
   **Next Gen Fertilizer Innovation Challenge:** This Challenge aims to identify concepts for novel technologies for fertilizers and other product technology innovations that can reduce the environmental effects from modern agriculture while maintaining or increasing crop yields. Submissions to the Next Gen Fertilizer Innovation Challenge may include technologies that are not currently on the market or technology concepts that are not traditional EEFs and not in commercial use as a fertilizer.
 
 
-  For the challenge dealing with existing product technologies, go to the EEFs: [Environmental and Agronomic Challenge.](https://challenge.gov/challenge/eefs-environmental-agronomic-challenge/)
+  For the challenge dealing with existing product technologies, go to the [EEFs: Environmental and Agronomic Challenge](https://challenge.gov/challenge/eefs-environmental-agronomic-challenge/).
 
 
   #### Key Dates
@@ -68,7 +68,7 @@ description: >-
   \*Register via InnoCentive
 
 
-  For more information on the two Next Gen Fertilizer Challenges visit <https://www.epa.gov/innovation/next-gen-fertilizer-challenges>.
+  For more information please visit EPA's page for the [Next Gen Fertilizer Challenges](https://next_gen_fertilizer_challenges.eventbrite.com/).
 prizes: >-
   #### Total Cash Prize Pool
 
@@ -104,7 +104,7 @@ rules: >-
 
   1. **Eligibility**:
 
-     * Solvers must register and submit solutions via InnoCentive <https://innocentive.wazoku.com/#/challenge/4380f517f84f49b78ad3dab8b4657e6e> no later than 11:59 PM ET November 30, 2020. Late submissions will not be considered.
+     * Solvers must register and submit solutions via [InnoCentive](https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e) no later than 11:59 PM ET November 30, 2020. Late submissions will not be considered. [](https://www.innocentive.wazoku.com/#/challenge/4380f517f84f49b78ad3dab8b4657e6e)
      * Eligible: Submissions can be entertained from all Solvers regardless of whether they are U.S. citizens/entities. Meritorious submissions from non-U.S. citizens and entities as well as U.S. citizens that may not be prize eligible (see Challenge Specific Agreement) if any, will be recognized in publications issued by the Seekers announcing the results of the competition, such as press releases.  Non-U.S. citizens/permanent residents or non-U.S. entities can also be included on U.S. teams. However, under the authority of the America COMPETES Reauthorization Act of 2010  (15 U.S.C. § 3719), as amended, the Seekers cannot award cash prizes to individuals that are not U.S. citizens, not permanent residents of the U.S. or entities not incorporated in and maintaining a primary place of business in the U.S. 
      * Not eligible: U.S. or foreign government organizations, or federal employees acting within the scope of their employment.
      * Eligible: Individuals or organizations that receive funding from U.S. or foreign government organizations are eligible to compete. However, funds from U.S. or foreign government organizations should not be used to directly fund the development of a solution requested under this Challenge.
@@ -289,7 +289,7 @@ This Partnership is being coordinated with input from stakeholders such as corn 
 
 **Next Gen Fertilizer Innovation Challenge:** This Challenge aims to identify concepts for novel technologies for fertilizers and other product technology innovations that can reduce the environmental effects from modern agriculture while maintaining or increasing crop yields. Submissions to the Next Gen Fertilizer Innovation Challenge may include technologies that are not currently on the market or technology concepts that are not traditional EEFs and not in commercial use as a fertilizer.
 
-For the challenge dealing with existing product technologies, go to the EEFs: [Environmental and Agronomic Challenge.](https://challenge.gov/challenge/eefs-environmental-agronomic-challenge/)
+For the challenge dealing with existing product technologies, go to the [EEFs: Environmental and Agronomic Challenge](https://challenge.gov/challenge/eefs-environmental-agronomic-challenge/).
 
 #### Key Dates
 
@@ -302,7 +302,7 @@ NextGen Fertilizer Challenge Dates:
 
 \*Register via InnoCentive
 
-For more information on the two Next Gen Fertilizer Challenges visit <https://www.epa.gov/innovation/next-gen-fertilizer-challenges>.
+For more information please visit EPA's page for the [Next Gen Fertilizer Challenges](https://next_gen_fertilizer_challenges.eventbrite.com/).
 
 ### Prizes
 
@@ -332,7 +332,7 @@ Solution: A Solver’s submission in response to a challenge
 
 1. **Eligibility**:
 
-   * Solvers must register and submit solutions via InnoCentive <https://innocentive.wazoku.com/#/challenge/4380f517f84f49b78ad3dab8b4657e6e> no later than 11:59 PM ET November 30, 2020. Late submissions will not be considered.
+   * Solvers must register and submit solutions via [InnoCentive](https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e) no later than 11:59 PM ET November 30, 2020. Late submissions will not be considered. [](https://www.innocentive.wazoku.com/#/challenge/4380f517f84f49b78ad3dab8b4657e6e)
    * Eligible: Submissions can be entertained from all Solvers regardless of whether they are U.S. citizens/entities. Meritorious submissions from non-U.S. citizens and entities as well as U.S. citizens that may not be prize eligible (see Challenge Specific Agreement) if any, will be recognized in publications issued by the Seekers announcing the results of the competition, such as press releases.  Non-U.S. citizens/permanent residents or non-U.S. entities can also be included on U.S. teams. However, under the authority of the America COMPETES Reauthorization Act of 2010  (15 U.S.C. § 3719), as amended, the Seekers cannot award cash prizes to individuals that are not U.S. citizens, not permanent residents of the U.S. or entities not incorporated in and maintaining a primary place of business in the U.S. 
    * Not eligible: U.S. or foreign government organizations, or federal employees acting within the scope of their employment.
    * Eligible: Individuals or organizations that receive funding from U.S. or foreign government organizations are eligible to compete. However, funds from U.S. or foreign government organizations should not be used to directly fund the development of a solution requested under this Challenge.
