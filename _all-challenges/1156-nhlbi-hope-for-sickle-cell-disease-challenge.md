@@ -9,8 +9,7 @@ sidenav: true
 card-image: /assets/netlify-uploads/nih_nhlbi_340x160.jpg
 agency-logo: /assets/netlify-uploads/nih_nhlbi_340x160.jpg
 tagline: Foster awareness of Sickle Cell Disease
-agency: U.S. Department of Health and Human Services - National Heart, Lung, and
-  Blood Institute
+agency: Department of Health and Human Services - National Institute of Health
 total-prize-offered-cash: $50,000
 type-of-challenge:
   - Software and apps
