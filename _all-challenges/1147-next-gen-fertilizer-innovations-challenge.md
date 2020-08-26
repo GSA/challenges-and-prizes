@@ -47,7 +47,7 @@ description: >-
   **Next Gen Fertilizer Innovation Challenge:** This Challenge aims to identify concepts for novel technologies for fertilizers and other product technology innovations that can reduce the environmental effects from modern agriculture while maintaining or increasing crop yields. Submissions to the Next Gen Fertilizer Innovation Challenge may include technologies that are not currently on the market or technology concepts that are not traditional EEFs and not in commercial use as a fertilizer.
 
 
-  For the challenge dealing with existing product technologies, go to the [EEFs: Environmental and Agronomic Challenge](https://www.challenge.gov/challenge/eefs-environmental-agronomic-challenge/).
+  For the challenge dealing with existing product technologies, go to the [](https://www.challenge.gov/challenge/eefs-environmental-agronomic-challenge/)[EEFs: Environmental and Agronomic Challenge](<For the challenge dealing with existing product technologies, go to the [EEFs: Environmental and Agronomic Challenge](https://www.challenge.gov/challenge/eefs-environmental-agronomic-challenge/).>).
 
 
   #### Key Dates
@@ -289,7 +289,7 @@ This Partnership is being coordinated with input from stakeholders such as corn 
 
 **Next Gen Fertilizer Innovation Challenge:** This Challenge aims to identify concepts for novel technologies for fertilizers and other product technology innovations that can reduce the environmental effects from modern agriculture while maintaining or increasing crop yields. Submissions to the Next Gen Fertilizer Innovation Challenge may include technologies that are not currently on the market or technology concepts that are not traditional EEFs and not in commercial use as a fertilizer.
 
-For the challenge dealing with existing product technologies, go to the [EEFs: Environmental and Agronomic Challenge](https://www.challenge.gov/challenge/eefs-environmental-agronomic-challenge/).
+For the challenge dealing with existing product technologies, go to the [](https://www.challenge.gov/challenge/eefs-environmental-agronomic-challenge/)[EEFs: Environmental and Agronomic Challenge](<For the challenge dealing with existing product technologies, go to the [EEFs: Environmental and Agronomic Challenge](https://www.challenge.gov/challenge/eefs-environmental-agronomic-challenge/).>).
 
 #### Key Dates
 
@@ -453,4 +453,4 @@ The example rubric above is for a solution that addresses N and P. For solutions
 
 ### How to Enter
 
-To register and submit a solution to the Next Gen Fertilizer Innovation Challenge, please visit the Challenge on the [InnoCentive page](https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e). 
+To register and submit a solution to the Next Gen Fertilizer Innovation Challenge, please visit the Challenge on the [InnoCentive page](https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e).
