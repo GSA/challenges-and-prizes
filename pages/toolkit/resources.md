@@ -5,7 +5,7 @@ title: Toolkit - Resources
 ---
 # Federal Agency Resources and Policies
 
-### White House, Office of Management and Budget (OMB), and Government-Wide Guidance 
+### White House, Office of Management and Budget (OMB), and Government-Wide Guidance
 
 * [White House: The Trump Administration Supports Fostering Innovation by Leveraging Prizes and Challenges](https://www.whitehouse.gov/articles/trump-administration-supports-fostering-innovation-leveraging-prizes-challenges/) (March 2018)
 * [American Innovation and Competitiveness Act (January 2017)](https://www.congress.gov/bill/114th-congress/senate-bill/3084/text)
@@ -15,6 +15,11 @@ title: Toolkit - Resources
 * [General Guide to the Paperwork Reduction Act](<assets/document-library/08.12.20 OSTP MEMO - Prizes and Challenges (2).pdf>)
 * [Open Government Directive]({{ site.baseurl }}/assets/document-library/Open-Government-Directive-M10-06.pdf) (December 8, 2009)
 * [2009 Strategy for American Innovation]({{ site.baseurl }}/assets/document-library/Strategy-American-Innovation-2009.pdf) (September 2009)
+
+#### White House: Prizes and Challenge Initiatives Addressing COVID-19
+
+* [Memorandum: Empowering Innovators to Develop Solutions to COVID-19 Through Prizes and Challenges]({{site.baseurl}}/assets/document-library/08.12.20 OSTP MEMO - Prizes and Challenges (2).pdf)
+* [Fact Sheet: Empowering Innovation to Address COVID-19]({{site.baseurl}}/assets/document-library/WHOSTP COVID Innovation Fact Sheet (1).pdf)
 
 ### Sample Agency Policies and Capacity-Building Resources
 
@@ -73,9 +78,9 @@ title: Toolkit - Resources
 ### Reports and Publications on Public-Sector Prizes
 
 * [National Academies: The Role of Inducement Prizes: Proceedings of a Workshop - in Brief](https://www.nap.edu/read/25892/chapter/1) (August 2020)
+* [Congressional Research Service: Federal Prize Competitions](https://fas.org/sgp/crs/misc/R45271.pdf) (April 2020)
 * [National Academies: Project Information: The Role of Inducement Prizes](https://www8.nationalacademies.org/pa/projectview.aspx?key=51203) (June 2019)
-* [Deloitte: Government Trends 2020](https://www2.deloitte.com/insights/us/en/industry/public-sector/government-trends.html) (June 2019)
-* [Congressional Research Service: Federal Prize Competitions](https://fas.org/sgp/crs/misc/R45271.pdf) (July 2018)
+* [Deloitte: Government Trends 2020](https://www2.deloitte.com/insights/us/en/industry/public-sector/government-trends.html) 
 * [National Academies, Returns to Federal Investments in the Innovation System: Proceedings of a Workshop in Brief](https://www.nap.edu/read/24905/chapter/1) (October 2017)
 * Government Accountability Office (GAO): Executive Branch Developed Resources to Support Implementation, but Guidance Could Better Reflect Leading Practices (June 2017): [Highlights](http://www.gao.gov/assets/690/685162.pdf) [Full Report](http://www.gao.gov/assets/690/685161.pdf)
 * [Abt Associates, AgResults: A Framework for Evaluating Innovation Challenges](http://www.abtassociates.com/Reports/2017/AgResults-A-Framework-for-Evaluating-Innovation-Ch.aspx)  (January 2017)
