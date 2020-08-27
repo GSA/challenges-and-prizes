@@ -47,7 +47,7 @@ description: >-
   **Next Gen Fertilizer Innovation Challenge:** This Challenge aims to identify concepts for novel technologies for fertilizers and other product technology innovations that can reduce the environmental effects from modern agriculture while maintaining or increasing crop yields. Submissions to the Next Gen Fertilizer Innovation Challenge may include technologies that are not currently on the market or technology concepts that are not traditional EEFs and not in commercial use as a fertilizer.
 
 
-  For the challenge dealing with existing product technologies, go to the EEFs: Environmental and Agronomic Challenge: <https://www.challenge.gov/challenge/eefs-environmental-agronomic-challenge/>
+  For the challenge dealing with existing product technologies, go to the [EEFs: Environmental and Agronomic Challenge](https://www.challenge.gov/challenge/eefs-environmental-agronomic-challenge/).
 
 
   #### Key Dates
@@ -289,7 +289,7 @@ This Partnership is being coordinated with input from stakeholders such as corn 
 
 **Next Gen Fertilizer Innovation Challenge:** This Challenge aims to identify concepts for novel technologies for fertilizers and other product technology innovations that can reduce the environmental effects from modern agriculture while maintaining or increasing crop yields. Submissions to the Next Gen Fertilizer Innovation Challenge may include technologies that are not currently on the market or technology concepts that are not traditional EEFs and not in commercial use as a fertilizer.
 
-For the challenge dealing with existing product technologies, go to the EEFs: Environmental and Agronomic Challenge: <https://www.challenge.gov/challenge/eefs-environmental-agronomic-challenge/>
+For the challenge dealing with existing product technologies, go to the [EEFs: Environmental and Agronomic Challenge](https://www.challenge.gov/challenge/eefs-environmental-agronomic-challenge/).
 
 #### Key Dates
 
