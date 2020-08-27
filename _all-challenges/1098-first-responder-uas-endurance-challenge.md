@@ -364,7 +364,7 @@ prizes: <h3>Total Cash Prize Pool&nbsp;</h3>
     <li>Informal mentoring for contestants selected from Stage 1:&nbsp; Concept Paper Contest</li>
     <li>Opportunities for contestants to showcase prototype UAS to representatives of the first responder community in Stage 4:&nbsp; Live Test &amp; Evaluation</li>
     </ul>
-rules: See the <a href="{{ site.baseurl }}/assets/document-library/Official Challenge Rules - PSCR First Responder UAS Endurance Challenge April2020.pdf">official rules document</a> for details on all aspects of the challenge.
+rules: See the <a href="{{ site.baseurl }}/assets/document-library/Updated Official Challenge Rules -PSCR First Responder UAS Endurance Challenge August2020.pdf">official rules document</a> for details on all aspects of the challenge.
 judging: <h3>Judging Panel</h3>
     <p>The submissions will be judged by a qualified panel of expert(s) selected by the U.S. Department of Commerce, National Institute of Standards and Technology (NIST) at its sole discretion. The panel consists of U.S. Department of Commerce, NIST and non-Department of Commerce, NIST experts and will judge the submissions according to the judging criteria in order to select winners. The decisions of the judges for the contest will be announced in accordance with the dates noted in the "Summary of Important Dates.&rdquo;</p>
     <h3>Judging Criteria</h3>
@@ -383,7 +383,7 @@ judging: <h3>Judging Panel</h3>
     <li><strong><em>Plan</em></strong>&nbsp;&ndash; Contestant(s) plan to manage the limited schedule, resources, project risks and other challenges, and produce high quality project outcomes, in pursuit of the challenge goals.</li>
     </ul>
     <p>Concept Papers will be evaluated based on Criteria 1 and 2 above. Each Concept Paper will be reviewed by at least two expert reviewers and be assigned a score on a scale of 1 to 10 for each criterion based on the merit and potential of success of the proposal. Reviewers scores will be averaged for each Concept Paper. The specific scores will not be released publicly or provided to the Contestant.</p>
-    <p><strong>*SEE <a href="{{ site.baseurl }}/assets/document-library/Official Challenge Rules - PSCR First Responder UAS Endurance Challenge April2020.pdf">Official Rules</a> for judging criteria associated with all other Stages of the contest.</strong></p>
+    <p><strong>*SEE <a href="{{ site.baseurl }}/assets/document-library/Updated Official Challenge Rules -PSCR First Responder UAS Endurance Challenge August2020.pdf">Official Rules</a> for judging criteria associated with all other Stages of the contest.</strong></p>
 how-to-enter: <p>Visit the Challenge website <a href="http://www.firstresponderuaschallenge.org">www.firstresponderuaschallenge.org</a>, to review the challenge stages in the First Responder UAS Endurance Challenge.</p>
     <ul>
     <li>Visit <a href="http://www.challenge.gov/challenge/first-responder-uas-endurance-challenge/">challenge.gov/challenge/first-responder-uas-endurance-challenge/</a> to view the Official Rules and series of contests in the First Responder UAS Endurance Challenge.</li>
@@ -754,7 +754,7 @@ how-to-enter: <p>Visit the Challenge website <a href="http://www.firstresponderu
 ### Rules 
 
 
-See the <a href="{{ site.baseurl }}/assets/document-library/Official Challenge Rules - PSCR First Responder UAS Endurance Challenge April2020.pdf">official rules document</a> for details on all aspects of the challenge.
+See the <a href="{{ site.baseurl }}/assets/document-library/Updated Official Challenge Rules -PSCR First Responder UAS Endurance Challenge August2020.pdf">official rules document</a> for details on all aspects of the challenge.
 
 <!-- Judging start -->
 ### Judging Criteria
@@ -778,7 +778,7 @@ See the <a href="{{ site.baseurl }}/assets/document-library/Official Challenge R
 <li><strong><em>Plan</em></strong>&nbsp;&ndash; Contestant(s) plan to manage the limited schedule, resources, project risks and other challenges, and produce high quality project outcomes, in pursuit of the challenge goals.</li>
 </ul>
 <p>Concept Papers will be evaluated based on Criteria 1 and 2 above. Each Concept Paper will be reviewed by at least two expert reviewers and be assigned a score on a scale of 1 to 10 for each criterion based on the merit and potential of success of the proposal. Reviewers scores will be averaged for each Concept Paper. The specific scores will not be released publicly or provided to the Contestant.</p>
-<p><strong>*SEE <a href="{{ site.baseurl }}/assets/document-library/Official Challenge Rules - PSCR First Responder UAS Endurance Challenge April2020.pdf">Official Rules</a> for judging criteria associated with all other Stages of the contest.</strong></p>
+<p><strong>*SEE <a href="{{ site.baseurl }}/assets/document-library/Updated Official Challenge Rules -PSCR First Responder UAS Endurance Challenge August2020.pdf">Official Rules</a> for judging criteria associated with all other Stages of the contest.</strong></p>
 
 <!--  How To Enter start -->
 ### How To Enter
