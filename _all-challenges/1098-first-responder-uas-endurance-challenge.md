@@ -397,7 +397,7 @@ how-to-enter: <p>Visit the Challenge website <a href="http://www.firstresponderu
 
 <!-- Description start -->
 ### Description
-<p><strong>CONGRATULATIONS TO STAGE 1 & 2 WINNERS! <a href="https://www.firstresponderuaschallenge.org/finalists.php">See the list of winners.</a> </strong>Entries will be accepted in Stage 3 during the Walk-on Contest December 4 – 18. For any questions related to this Challenge contact href="mailto:psprizes@nist.gov". More details below.</p>
+<p><strong>CONGRATULATIONS TO STAGE 1 & 2 WINNERS! <a href="https://www.firstresponderuaschallenge.org/finalists.php">See the list of winners.</a> </strong>Entries will be accepted in Stage 3 during the Walk-on Contest December 4 – 18. For any questions related to this Challenge contact <a href="mailto:psprizes@nist.gov".</a>. More details below.</p>
 <h3>Informational Materials</h3>
 <ul>
 <li><a href="https://capconcorp.egnyte.com/dl/FqF0hCXwEV/" target="_blank" rel="noopener">April 2, 2020 Webinar</a></li>
