@@ -23,7 +23,7 @@ legal-authority: America COMPETES Act
 challenge-manager: Terese Manley
 challenge-manager-email: terese.manley@nist.gov
 point-of-contact: jshapiro@capconcorp.com
-description: <p><strong>Stage 3 - Walk-on Contest entries will be accepted from December 4-18, 2020.</strong> Visit the Challenge website <a href="https://www.firstresponderuaschallenge.org">Challenge website</a> for details on how to submit. </p>
+description: <p><strong>Stage 3 - Walk-on Contest entries will be accepted from December 4-18, 2020.</strong> Visit the <a href="https://www.firstresponderuaschallenge.org">Challenge website</a> for details on how to submit. </p>
 <p><strong>CONGRATULATIONS TO STAGE 1 & 2 WINNERS!</strong><a href="https://www.firstresponderuaschallenge.org/finalists.php"> See the list of winners.</a>  For any questions related to this Challenge email us at <a href="mailto:psprizes@nist.gov">psprizes@nist.gov.</a> More details below.</p>
 <h3>Informational Materials</h3>
 <ul>
@@ -409,7 +409,7 @@ how-to-enter: <p>Visit the Challenge website <a href="http://www.firstresponderu
 
 <!-- Description start -->
 ### Description
-<p><strong>Stage 3 - Walk-on Contest entries will be accepted from December 4-18, 2020.</strong> Visit the Challenge website <a href="https://www.firstresponderuaschallenge.org">Challenge website</a> for details on how to submit. </p>
+<p><strong>Stage 3 - Walk-on Contest entries will be accepted from December 4-18, 2020.</strong> Visit the <a href="https://www.firstresponderuaschallenge.org">Challenge website</a> for details on how to submit. </p>
 <p><strong>CONGRATULATIONS TO STAGE 1 & 2 WINNERS!</strong><a href="https://www.firstresponderuaschallenge.org/finalists.php"> See the list of winners.</a>  For any questions related to this Challenge email us at <a href="mailto:psprizes@nist.gov">psprizes@nist.gov.</a> More details below.</p>
 <h3>Informational Materials</h3>
 <ul>
