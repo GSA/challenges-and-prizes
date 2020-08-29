@@ -156,7 +156,38 @@ prizes: >-
 
 
   The top two contenders will present their solution at the CES 2021 in Las Vegas, NV (January 6-9, 2021).
-rules: ""
+rules: >-
+  
+
+  #### Eligibility:
+
+
+  To be eligible to win a prize under this challenge, an individual or entity may participate as part of one or more teams. Team formation is strongly encouraged, and teams are not limited in the number of members. Each team must designate a captain who must be a U.S. citizen or permanent resident who is responsible for all correspondence regarding this Challenge. An individual or entity:
+
+
+  * Shall have registered to participate in the competition under the rules promulgated by the Administration for Community Living;
+
+  * Shall have complied with all the requirements under this section;
+
+  * In the case of a private entity, shall be incorporated in and maintain a primary place of business in the United States, and in the case of an individual, whether participating singly or in a group, shall be a citizen or permanent resident of the United States;
+
+  * May not be a Federal entity or Federal employee acting within the scope of their employment (all non-HHS, non-FCC or non-VA federal employees must consult with their agency Ethics Official to determine whether the federal ethics rules will limit or prohibit the acceptance of a COMPETES Act prize);
+
+  * Shall not be an HHS, FCC, or VA employee;
+
+  * Federal grantees may not use Federal funds to develop submissions unless consistent with the purpose of their grant award; and
+
+  * Federal contractors may not use Federal funds from a contract to develop COMPETES Act challenge submissions or to fund efforts in support of a COMPETES Act challenge submission.
+
+
+  **Additionally:**
+
+
+  * The top 2 contenders of Phase 2 must agree to use a portion of their prize award to travel to the CES 2021 in Las Vegas, NV.
+
+  * Entrants must also agree to indemnify the Federal government against third-party claims for damages arising from or related to competition activities.
+
+  * The Federal government will not select as a winner an individual or entity that is on the Excluded Parties List.
 judging: >-
   The Judging Panel will be composed of federal and/or other technical and
   subject matter experts.
@@ -338,7 +369,7 @@ how-to-enter: >-
 ---
 ### Description
 
-#### Please review for important updates to the Phase 1 submission date, possible dates to demonstrate solution, and announcement date for Phase 1 winners.  Additional resources are also posted with this update. 
+#### Please review for important updates to the Phase 1 submission date, possible dates to demonstrate solution, and announcement date for Phase 1 winners.  Additional resources are also posted with this update.
 
 This year, we've been forced to rethink the myriad of different ways we connect, socialize and interact with each other. In the absence of face-to-face time, can technology and online tools help us make, maintain,  and strengthen those connections so vital to everyday life? We believe they can. That’s why we need your help. 
 
