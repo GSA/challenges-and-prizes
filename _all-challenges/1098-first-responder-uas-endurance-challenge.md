@@ -767,10 +767,7 @@ See the <a href="{{ site.baseurl }}/assets/document-library/Updated Official Cha
 <p>The submissions will be judged by a qualified panel of expert(s) selected by the U.S. Department of Commerce, National Institute of Standards and Technology (NIST) at its sole discretion. The panel consists of U.S. Department of Commerce, NIST and non-Department of Commerce, NIST experts and will judge the submissions according to the judging criteria in order to select winners. The decisions of the judges for the contest will be announced in accordance with the dates noted in the "Summary of Important Dates.&rdquo;</p>
 <h3>Judging Criteria</h3>
 <p><strong>Stage 1 Criteria</strong></p>
-<p>See the <a href="{{ site.baseurl }}/assets/document-library/Updated 
-    
-    
-  Challenge Rules -PSCR First Responder UAS Endurance Challenge August2020.pdf">official rules document</a> for details on all aspects of the challenge.  NIST makes an independent assessment of each Concept Paper based on the evaluation criteria. NIST will not review or consider ineligible Concept Paper submissions. During the review, each subject matter expert reviewer will review the entire concept papers to which they are assigned. The review is not done in sections with different reviewers responsible for different assigned sections. Therefore, it is not necessary to repeat information in every part of the Concept Paper. Do not include sensitive materials in the Concept Paper, for example personally identifiable information such as social security numbers or business sensitive information such as tax ID numbers, etc.</p>
+<p>See the <a href="{{ site.baseurl }}/assets/document-library/Updated Challenge Rules -PSCR First Responder UAS Endurance Challenge August2020.pdf">official rules document</a> for details on all aspects of the challenge.  NIST makes an independent assessment of each Concept Paper based on the evaluation criteria. NIST will not review or consider ineligible Concept Paper submissions. During the review, each subject matter expert reviewer will review the entire concept papers to which they are assigned. The review is not done in sections with different reviewers responsible for different assigned sections. Therefore, it is not necessary to repeat information in every part of the Concept Paper. Do not include sensitive materials in the Concept Paper, for example personally identifiable information such as social security numbers or business sensitive information such as tax ID numbers, etc.</p>
 <p style="padding-left: 30px;"><strong>Criterion 1: Strategic Alignment &amp; Technical Outcome (50%)</strong></p>
 <p style="padding-left: 30px;">This criterion involves consideration of the following factors:</p>
 <ul>
@@ -784,7 +781,7 @@ See the <a href="{{ site.baseurl }}/assets/document-library/Updated Official Cha
 <li><strong><em>Plan</em></strong>&nbsp;&ndash; Contestant(s) plan to manage the limited schedule, resources, project risks and other challenges, and produce high quality project outcomes, in pursuit of the challenge goals.</li>
 </ul>
 <p>Concept Papers will be evaluated based on Criteria 1 and 2 above. Each Concept Paper will be reviewed by at least two expert reviewers and be assigned a score on a scale of 1 to 10 for each criterion based on the merit and potential of success of the proposal. Reviewers scores will be averaged for each Concept Paper. The specific scores will not be released publicly or provided to the Contestant.</p>
-<p><strong>*SEE <a href="{{ site.baseurl }}/assets/document-library/Official Challenge Rules - PSCR First Responder UAS Endurance Challenge April2020.pdf">Official Rules</a> for judging criteria associated with all other Stages of the contest.</strong></p>
+<p><strong>*SEE <a href="{{ site.baseurl }}/assets/document-library/Updated Challenge Rules -PSCR First Responder UAS Endurance Challenge August2020.pdf">Official Rules</a> for judging criteria associated with all other Stages of the contest.</strong></p>
 
 <!--  How To Enter start -->
 ### How To Enter
