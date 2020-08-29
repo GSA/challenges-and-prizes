@@ -6,7 +6,7 @@ permalink: /challenge/streamflow-forecast-rodeo/
 challenge-id: "1157"
 status: open
 sidenav: false
-card-image: /assets/netlify-uploads/big-thompson-r-estes-park-co_usbr-logo-.jpg
+card-image: /assets/netlify-uploads/b245-800-42-big-thompson-r-estes-park-co_thumbnail.jpg
 agency-logo: /assets/netlify-uploads/usbr.jpg
 tagline: Improving short-term streamflow forecast skill.
 agency: Department of the Interior - Bureau of Reclamation
