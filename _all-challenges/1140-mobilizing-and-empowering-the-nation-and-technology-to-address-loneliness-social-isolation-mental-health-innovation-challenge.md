@@ -231,6 +231,7 @@ rules: >-
       * describe the submission in any materials created in connection with this Challenge; and
       * screen and evaluate the submission per the Phase 2 Judging Criteria, if Participant is selected for Phase 2; and
       * screen and evaluate the submission per the Bonus Phase Judging Criteria, if Participant is eligible for the Bonus Phase.
+    * Participant further grants the ACL, the OASH, and anyone acting on their behalf the right to publicize Participant’s name and, as applicable, the name of Participant’s team members and/or the name of any Entity that assisted in preparing Participant’s submission. Such authority includes posting or linking to the Participant’s submission on U.S. Administration for Community Living websites, including the Challenge website, OASH websites, U.S. Department of Veterans Affairs websites, Federal Communications Commission websites, Participant’s websites, Implementing Partner website and inclusion of the Participant’s submission in any other media, worldwide. More specifically, such authority includes the right to copy, distribute, publicly display and publicly perform all parts of Participant’s submission.
 judging: >-
   The Judging Panel will be composed of federal and/or other technical and
   subject matter experts.
