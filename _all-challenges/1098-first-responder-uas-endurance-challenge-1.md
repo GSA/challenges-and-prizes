@@ -6,8 +6,8 @@ permalink: /challenge/first-responder-uas-endurance-challenge/
 challenge-id: "1098"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/NIST_logo.png
-agency-logo: /assets/netlify-uploads/NIST_logo.png
+card-image: /assets/netlify-uploads/nist_logo.png
+agency-logo: /assets/netlify-uploads/nist_logo.png
 tagline: Increase UAS flight time and capabilities in support of first responders
 agency: Department of Commerce - National Institute of Standards and Technology
 partner-agencies-federal: First Responder Network Authority (FirstNet the Authority)
