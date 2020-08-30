@@ -170,6 +170,8 @@ Up to $552,000
 
 NIST Public Safety Communications Research program is hosting a 4-stage challenge, with development funds, travel, and prize awards listed in the following table:
 
+![Prize Breakdown]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-c.png "Prize Breakdown")
+
 NOTE: This table only describes prize awards; additional contestants may be invited to participate in challenge stages but not receive prize awards. All Stage 4 Contestants are eligible to compete for all Stage 4 prizes.
 
 #### Non-monetary Prizes
