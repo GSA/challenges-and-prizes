@@ -24,9 +24,10 @@ challenge-manager-email: terese.manley@nist.gov
 point-of-contact: jshapiro@capconcorp.com
 body-content-uploads: /assets/netlify-uploads/updated-official-rules-pscr-first-responder-uas-endurance-challenge-august2020.pdf
 description: >-
-  
-
-  **Stage 3 - Walk-on Contest entries will be accepted from December 4-18, 2020.** Visit the [Challenge website](https://www.firstresponderuaschallenge.org/) for details on how to submit.
+  **Stage 3 - Walk-on Contest entries will be accepted from December 4-18,
+  2020.** Visit the [Challenge
+  website](https://www.firstresponderuaschallenge.org/) for details on how to
+  submit.
 
 
   **CONGRATULATIONS TO STAGE 1 & 2 WINNERS!** See the [list of winners](https://www.firstresponderuaschallenge.org/finalists.php). For any questions related to this Challenge email us at [psprizes@nist.gov](mailto:psprizes@nist.gov). More details below.
@@ -55,7 +56,7 @@ description: >-
   #### Table A - Summary of Important Dates
 
 
-  ![Summary of Important Dates](blob:https://www.challenge.gov/4ced33a1-4754-483d-b4e0-4b1e29f3c94f "Table A - Summary of Important Dates")
+  ![Summary of Important Dates]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-a-2-.jpg "Table A - Summary of Important Dates")
 
 
   NOTE: NIST reserves the right to revise the dates at any time.
@@ -106,7 +107,7 @@ description: >-
   #### UAS Challenge Stages
 
 
-  ![Challenge Stages](blob:https://www.challenge.gov/b0acd1fb-d5b0-46eb-ab5d-7f0e8155b4e2 "UAS Challenge Stages")
+  ![Challenge Stages]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-b.jpg "UAS Challenge Stages")
 
 
   ### Prizes
@@ -124,7 +125,7 @@ description: >-
   NIST Public Safety Communications Research program is hosting a 4-stage challenge, with development funds, travel, and prize awards listed in the following table:
 
 
-  ![Prize Breakdown](blob:https://www.challenge.gov/253c8715-5f51-4a83-8d8a-e9c4809891a0 "Prize Breakdown")
+  ![Prize Breakdown]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-c.jpg "Prize Breakdown")
 
 
   NOTE: This table only describes prize awards; additional contestants may be invited to participate in challenge stages but not receive prize awards. All Stage 4 Contestants are eligible to compete for all Stage 4 prizes.
@@ -204,8 +205,6 @@ description: >-
 
   * Additional information on how to complete a Contestant entry is available at <https://www.firstresponderuaschallenge.org/>.
 prizes: >-
-  
-
   #### Total Cash Prize Pool
 
 
@@ -216,6 +215,9 @@ prizes: >-
 
 
   NIST Public Safety Communications Research program is hosting a 4-stage challenge, with development funds, travel, and prize awards listed in the following table:
+
+
+  ![Prize Breakdown]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-c.jpg "Prize Breakdown")
 
 
   NOTE: This table only describes prize awards; additional contestants may be invited to participate in challenge stages but not receive prize awards. All Stage 4 Contestants are eligible to compete for all Stage 4 prizes.
@@ -306,7 +308,7 @@ The National Institute of Standards and Technology (NIST) Public Safety Communic
 
 #### Table A - Summary of Important Dates
 
-![Summary of Important Dates]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-a.png "Table A - Summary of Important Dates")
+![Summary of Important Dates]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-a-2-.jpg "Table A - Summary of Important Dates")
 
 NOTE: NIST reserves the right to revise the dates at any time.
 
@@ -337,8 +339,7 @@ Participants will be asked to:
 * Participate in a 5-day Live Competition demonstrating full capabilities and features of the UAS prototype
 
 #### UAS Challenge Stages
-
-![Challenge Stages]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-b-1-.png "UAS Challenge Stages")
+![Challenge Stages]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-b.jpg "UAS Challenge Stages")
 
 ### Prizes
 
@@ -350,7 +351,7 @@ Up to $552,000
 
 NIST Public Safety Communications Research program is hosting a 4-stage challenge, with development funds, travel, and prize awards listed in the following table:
 
-![Prize Breakdown]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-c.png "Prize Breakdown")
+![Prize Breakdown]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-c.jpg "Prize Breakdown")
 
 NOTE: This table only describes prize awards; additional contestants may be invited to participate in challenge stages but not receive prize awards. All Stage 4 Contestants are eligible to compete for all Stage 4 prizes.
 
