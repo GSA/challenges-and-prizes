@@ -156,10 +156,9 @@ Participants will be asked to:
 * Produce a Test flight video demonstrating the UAS prototype capabilities and safety compliance
 * Participate in a 5-day Live Competition demonstrating full capabilities and features of the UAS prototype
 
-UAS Challenge Stages
+#### UAS Challenge Stages
 
 ![Challenge Stages]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-b-1-.png "UAS Challenge Stages")
-
 
 ### Prizes
 
