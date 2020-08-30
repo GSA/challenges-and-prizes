@@ -124,6 +124,10 @@ The National Institute of Standards and Technology (NIST) Public Safety Communic
 
 **You can make a difference!** Continue reading to learn about challenge stages and details. To enter Stage 1, submit your [entry](https://www.firstresponderuaschallenge.org/) by April 30, 2020.  For entry as a Walk-on for Stage 3, submit your [entry](https://www.firstresponderuaschallenge.org/) by December 18, 2020. Entries can be submitted through the Contestant Portal on the Challenge website at <https://www.firstresponderuaschallenge.org/>.
 
+#### Table A - Summary of Important Dates
+
+![Summary of Important Dates]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-a.png "Table A - Summary of Important Dates")
+
 NOTE: NIST reserves the right to revise the dates at any time.
 
 #### Background
