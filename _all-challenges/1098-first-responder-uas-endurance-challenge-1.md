@@ -55,7 +55,7 @@ description: >-
   #### Table A - Summary of Important Dates
 
 
-  ![Summary of Important Dates](blob:https://www.challenge.gov/4ced33a1-4754-483d-b4e0-4b1e29f3c94f "Table A - Summary of Important Dates")
+  ![Summary of Important Dates]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-a-2-.jpg "Table A - Summary of Important Dates")
 
 
   NOTE: NIST reserves the right to revise the dates at any time.
@@ -306,7 +306,7 @@ The National Institute of Standards and Technology (NIST) Public Safety Communic
 
 #### Table A - Summary of Important Dates
 
-![Summary of Important Dates]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-a.png "Table A - Summary of Important Dates")
+![Summary of Important Dates]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-a-2-.jpg "Table A - Summary of Important Dates")
 
 NOTE: NIST reserves the right to revise the dates at any time.
 
