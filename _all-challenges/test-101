@@ -23,7 +23,8 @@ legal-authority: America COMPETES Act
 challenge-manager: Terese Manley
 challenge-manager-email: terese.manley@nist.gov
 point-of-contact: jshapiro@capconcorp.com
-description: <p><strong>CONGRATULATIONS TO THE STAGE 1 WINNERS & FINALISTS! <a href="{{ site.baseurl }}/assets/images/document-library/PSCR-UAS-Challenge-Stage1-winners.pdf">See a list of winners.</a> </strong>Entries will be accepted in Stage 3 during the Walk-on Contest December 4 – 18. More details below.</p><p>Join us for this exciting drone (aka unmanned aircraft system or UAS) prize competition using your ingenuity and hardware build expertise to create a concept for a drone prototype. The result of the First Responder UAS Endurance Challenge will support the public safety community and its stakeholders.</p>
+description: <p><strong>Stage 3 - Walk-on Contest entries will be accepted from December 4-18, 2020.</strong> Visit the <a href="https://www.firstresponderuaschallenge.org">Challenge website</a> for details on how to submit. </p>
+<p><strong>CONGRATULATIONS TO STAGE 1 & 2 WINNERS!</strong><a href="https://www.firstresponderuaschallenge.org/finalists.php"> See the list of winners.</a>  For any questions related to this Challenge email us at <a href="mailto:psprizes@nist.gov">psprizes@nist.gov.</a> More details below.</p><p>Join us for this exciting drone (aka unmanned aircraft system or UAS) prize competition using your ingenuity and hardware build expertise to create a concept for a drone prototype. The result of the First Responder UAS Endurance Challenge will support the public safety community and its stakeholders.</p>
     <p>Vertical take-off and landing (VTOL) UAS provide many different mission capabilities, but their flight time is limited. The payload capacity, energy source and flight time are linked through design trade-offs that can be optimized for efficiency and flexibility. This challenge is designed to keep a UAS and its payload airborne for the longest time possible to support first responders on the ground while they conduct their mission. The advancement of UAS research achieved through this challenge will help support the development and operation of UAS that are intended to host critical tools for public safety missions, such as wireless communications systems.</p>
     <p>The National Institute of Standards and Technology (NIST) Public Safety Communications Research (PSCR) Division is hosting a 4-stage challenge, with prize awards <strong>up to $552,000</strong> for the top designs. There are no fees or qualifications needed to enter the first stage. The most outstanding Stage 1 conceptual designs will be eligible to participate in the remaining stages of the competition (see Official Rules).</p>
     <p><strong>You can make a difference!</strong> Continue reading to learn about challenge stages and details. To enter for Stage 1, submit your <u><a href="https://www.firstresponderuaschallenge.org">entry</a></u> by April 30, 2020. For entry as a Walk-on for Stage 3, submit your <u><a href="https://www.firstresponderuaschallenge.org">entry</a></u> by December 18, 2020. Entries can be submitted through the Contestant Portal on the challenge website at <a href="https://www.firstresponderuaschallenge.org/">https://www.firstresponderuaschallenge.org/</a></p>
@@ -72,7 +73,7 @@ description: <p><strong>CONGRATULATIONS TO THE STAGE 1 WINNERS & FINALISTS! <a h
     </tr>
     <tr style="height:45px;">
     <td style="width:187.2px; height:45px;">
-    <p>October 1 to 6, 2020</p>
+    <p>Revised dates: October 19-23, 2020</p>
     </td>
     <td style="width:507.2px; height:45px;">
     <p>Critical Design Review conducted with eligible Stage 2 contestants</p>
@@ -397,7 +398,8 @@ how-to-enter: <p>Visit the Challenge website <a href="http://www.firstresponderu
 
 <!-- Description start -->
 ### Description
-<p><strong>CONGRATULATIONS TO THE STAGE 1 WINNERS & FINALISTS! <a href="{{ site.baseurl }}/assets/document-library/PSCR-UAS-Challenge-Stage1-winners.pdf">See a list of winners.</a> </strong>Entries will be accepted in Stage 3 during the Walk-on Contest December 4 – 18. More details below.</p>
+<p><strong>Stage 3 - Walk-on Contest entries will be accepted from December 4-18, 2020.</strong> Visit the <a href="https://www.firstresponderuaschallenge.org">Challenge website</a> for details on how to submit. </p>
+<p><strong>CONGRATULATIONS TO STAGE 1 & 2 WINNERS!</strong><a href="https://www.firstresponderuaschallenge.org/finalists.php"> See the list of winners.</a>  For any questions related to this Challenge email us at <a href="mailto:psprizes@nist.gov">psprizes@nist.gov.</a> More details below.</p>
 <h3>Informational Materials</h3>
 <ul>
 <li><a href="https://capconcorp.egnyte.com/dl/FqF0hCXwEV/" target="_blank" rel="noopener">April 2, 2020 Webinar</a></li>
@@ -452,7 +454,7 @@ how-to-enter: <p>Visit the Challenge website <a href="http://www.firstresponderu
 </tr>
 <tr style="height:45px;">
 <td style="width:187.2px; height:45px;">
-<p>October 1 to 6, 2020</p>
+<p>Revised dates: October 19-23, 2020</p>
 </td>
 <td style="width:507.2px; height:45px;">
 <p>Critical Design Review conducted with eligible Stage 2 contestants</p>
