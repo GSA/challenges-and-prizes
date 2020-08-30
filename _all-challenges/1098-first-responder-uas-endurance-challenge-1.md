@@ -4,7 +4,7 @@ challenge-title: First Responder UAS Endurance Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/first-responder-uas-endurance-challenge/
 challenge-id: "1098"
-status: closed
+status: open
 sidenav: true
 card-image: /assets/netlify-uploads/NIST_logo.png
 agency-logo: /assets/netlify-uploads/NIST_logo.png
