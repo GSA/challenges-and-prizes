@@ -15,7 +15,7 @@ type-of-challenge:
   - Software and apps
   - Creative (multimedia & design)
   - Ideas
-submission-start: 2020/08/27 7:00 AM
+submission-start: 2020/09/01 7:00 AM
 submission-end: 2021/03/26 11:59 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
