@@ -30,7 +30,7 @@ url: "https://www.challenge.gov" # the base hostname & protocol for your site, e
 twitter: challengegov
 
 # Configuration for Google Analytics, add your UA code here:
-google_analytics_ua: UA-????????-??
+google_analytics_ua: UA-127724030-1
 
 # Configuration for DAP, add your agency ID here:
 dap_agency: GSA
@@ -41,6 +41,8 @@ primary_navigation:
     url: /
   - name: About
     url: /about/
+  - name: Blog
+    url: /blog/
   - name: Agency Toolkit
     children:
       - name: Overview
@@ -65,6 +67,16 @@ primary_navigation:
         url: /archive/2016/
       - name: 2015
         url: /archive/2015/
+      - name: 2014
+        url: /archive/2014/
+      - name: 2013
+        url: /archive/2013/
+      - name: 2012
+        url: /archive/2012/
+      - name: 2011
+        url: /archive/2011/
+      - name: 2010
+        url: /archive/2010/
 
 
 secondary_navigation:
@@ -90,25 +102,25 @@ collections:
   pages:
     output: true
     permalink: /:path/
-  challenges:
+  all-challenges:
     output: true
     permalink: /:path/
-  archived-challenges:
-    output: true
-    permalink: /:path/
-  historical-challenges:
-    output: true
-    source: challenges.json
-    id_key: name
-    layout: json-page
+  # archived-challenges:
+  #   output: true
+  #   permalink: /:path/
+  # all-challenges:
+  #   output: true
+  #   source: challenges.json
+  #   id_key: name
+  #   layout: json-page
 
 permalink: pretty
 
-page_gen:
-  - data: 'historical_challenges'
-    template: 'json-page'
-    name: 'name'
-    dir: 'historical-challenges' 
+# page_gen:
+#   - data: 'historical_challenges'
+#     template: 'json-page'
+#     name: 'name'
+#     dir: 'all-challenges' 
 
 markdown: kramdown
 plugins:

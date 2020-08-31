@@ -7,11 +7,11 @@ title: Archived Challenges - 2017
 
 <section class="bg-base-lightest">
     <div class="grid-container">
-            {% include highlights.html %}
+            {% include archives-listing-banner.html %}
         <div class="grid-row usa-section">
-                {% assign sorted = site.historical-challenges | sort: 'submission-end' %}
+                {% assign sorted = site.all-challenges | sort: 'submission-end' %}
                 {% for challenge in sorted %}
-                {% if challenge.submission-end contains 2017 %}
+                {% if challenge.status == 'closed' and challenge.submission-end contains 2017 %}
         <div class="tablet:grid-col-6 cards">
                 <div class="card position-relative" style="min-height: 200px;">
                     <div class="padding-x-1">

@@ -1,12 +1,8 @@
 ---
 permalink: /terms/
-layout: default
+layout: page
 title: Terms
 ---
-
-{::options parse_block_html="true" /}
-<div class="grid-container usa-prose">
-<div class="grid-row  padding-x-8 margin-bottom-4">
 
 # Terms of Use
 
@@ -55,5 +51,3 @@ Images on the site contain "alt tags", which aid users who listen to the content
 Users can get information regarding the accessibility of Adobe Portable Document Format (PDF) files from the [Access Adobe website](https://www.adobe.com/accessibility.html){:target="_blank" rel="noopener"}.
 
 The Challenge.gov website is being updated frequently to make it as accessible as possible. If you use assistive technology (such as a screen reader, eye tracking device, or voice recognition software) and have difficulty accessing information on Challenge.gov, please contact us and provide the URL (web address) of the material you tried to access, the problem you experienced, and your contact information. A Challenge.gov team member will contact you and attempt to provide the information you are seeking.
-</div>
-</div>

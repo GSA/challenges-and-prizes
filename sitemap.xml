@@ -30,7 +30,7 @@ layout: null
     {% endif %}
   </url>
   {% endfor %}
-  {% for historical-challenge in site.historical-challenges %}
+  {% for historical-challenge in site.all-challenges %}
   <url>
     <loc>{{ historical-challenge.url | replace:'/index.html','/' | prepend: site_url }}</loc>
     {% if historical-challenge.last_modified_at %}

@@ -9,11 +9,11 @@ permalink: /feed-closed-imported.json
     "feed_url": "{{ site.url }}/feed-closed-imported.json",
     "expired": false,
     "_challenge": [
-{% for item in site.historical-challenges %}
-{% if item.layout != "front-matter-data" %}
+{% for item in site.all-challenges %}
+{% if item.layout == "json-page" %}
         {
             "challenge-id": "{{ item.challenge-id}}",
-            "challenge-title": "{{ item.name }}",
+            "challenge-title": "{{ item.challenge-title }}",
             "permalink": "{{ site.url }}{{ item.permalink }}",
             "external-url": "{{ item.external-url }}",
             "tagline": "{{ item.tagline | strip | escape }}",
