@@ -219,7 +219,7 @@ rules: >-
 
   * The Administration for Community Living and the Office of the Assistant Secretary for Health reserves the right, in their sole discretion, to (a) cancel, suspend, or modify the Challenge, and/or (b) not award any prizes if no entries are deemed worthy.
 
-  * Intellectual Property of Submissions :
+  * Intellectual Property of Submissions:
 
     * Participants can utilize intellectual property developed prior to this Challenge as a part of their submission. Neither the U.S. Administration for Community Living (ACL) nor the U.S. Health and Human Services Office of the Assistant Secretary for Health (OASH) nor anyone acting on their behalf will obtain any rights in intellectual property developed prior to or during the conduct of this Challenge without the prior written consent of the Participant. By participating in the Challenge, the Participant is not granting rights in any patents, pending patent applications, or copyrights related to the technology described in their submission. However, by submitting their entry, the Participant is granting the U.S Administration for Community Living and the U.S. Department of Health and Human Services Office of the Assistant Secretary for Health and any parties acting on their behalf certain limited rights as set forth herein. By virtue of their submission to this Challenge, Participants grant to the ACL and OASH, and any parties acting on their behalf the right to: 
 
@@ -524,7 +524,7 @@ To be eligible to win a prize under this challenge, an individual or entity may 
 * Participants are required to obtain liability insurance or demonstrate financial responsibility in the amount of $0 for claims by a third party for death, bodily injury, or property damage, or loss resulting from an activity carried out in connection with participation in a challenge.
 * Participants must also agree to indemnify the Federal Government against third party claims for damages arising from or related to Challenge activities.
 * The Administration for Community Living and the Office of the Assistant Secretary for Health reserves the right, in their sole discretion, to (a) cancel, suspend, or modify the Challenge, and/or (b) not award any prizes if no entries are deemed worthy.
-* Intellectual Property of Submissions :
+* Intellectual Property of Submissions:
 
   * Participants can utilize intellectual property developed prior to this Challenge as a part of their submission. Neither the U.S. Administration for Community Living (ACL) nor the U.S. Health and Human Services Office of the Assistant Secretary for Health (OASH) nor anyone acting on their behalf will obtain any rights in intellectual property developed prior to or during the conduct of this Challenge without the prior written consent of the Participant. By participating in the Challenge, the Participant is not granting rights in any patents, pending patent applications, or copyrights related to the technology described in their submission. However, by submitting their entry, the Participant is granting the U.S Administration for Community Living and the U.S. Department of Health and Human Services Office of the Assistant Secretary for Health and any parties acting on their behalf certain limited rights as set forth herein. By virtue of their submission to this Challenge, Participants grant to the ACL and OASH, and any parties acting on their behalf the right to: 
 

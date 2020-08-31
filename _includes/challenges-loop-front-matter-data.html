@@ -1,8 +1,8 @@
-{% if site.branch === "master" %}
+{% if site.branch == "master" %}
     <div id="challenge-gov-react-app" data-api-url="https://challenge.portal.gov"></div>
-{% elsif site.branch === "staging" %}
+{% elsif site.branch == "staging" %}
     <div id="challenge-gov-react-app" data-api-url="https://challenge-portal-staging.app.cloud.gov/"></div>
-{% elsif site.branch === "" %}
+{% elsif site.branch == "" %}
     <div id="challenge-gov-react-app" data-api-url="http://localhost:4001"></div>
 {% else %}
     <div id="challenge-gov-react-app" data-api-url="https://challenge-portal-dev.app.cloud.gov/"></div>

@@ -51,15 +51,15 @@
 <!-- Digital Analytics Program roll-up, see https://analytics.usa.gov for data -->
 <script id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency={{site.dap_agency}}"></script>
 
-{% if site.branch === "master" %}
+{% if site.branch == "master" %}
   <link rel="stylesheet" href="https://challenge.portal.gov/css/public.css" crossorigin="anonymous">
   <script type="text/javascript" src="https://challenge.portal.gov/js/public.js"></script>
   <script type="text/javascript" src="https://challenge.portal.gov/js/client.js"></script>
-{% elsif site.branch === "staging" %}
+{% elsif site.branch == "staging" %}
   <link rel="stylesheet" href="https://challenge-portal-staging.app.cloud.gov/css/public.css" crossorigin="anonymous">
   <script type="text/javascript" src="https://challenge-portal-staging.app.cloud.gov/js/public.js"></script>
   <script type="text/javascript" src="https://challenge-portal-staging.app.cloud.gov/js/client.js"></script>
-{% elsif site.branch === "" %}
+{% elsif site.branch == "" %}
   <link rel="stylesheet" href="http://localhost:4001/css/public.css" crossorigin="anonymous">
   <script type="text/javascript" src="http://localhost:4001/js/public.js"></script>
   <script type="text/javascript" src="http://localhost:4001/js/client.js"></script>
