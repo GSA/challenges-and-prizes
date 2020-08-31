@@ -230,8 +230,8 @@ prizes: >-
 
   * Opportunities for contestants to showcase prototype UAS to representatives of the first responder community in Stage 4: Live Test & Evaluation
 rules: See the [official rules document
-  ]({{site.baseurl}}/assets/netlify-uploads/updated-official-rules-pscr-first-responder-uas-endurance-challenge-august2020.pdf)for
-  details on all aspects of the challenge.
+  ]({{site.baseurl}}/assets/netlify-uploads/updated-official-rules-pscr-first-responder-uas-endurance-challenge-august2020.pdf)
+  for details on all aspects of the challenge.
 judging: >-
   #### Judging Panel
 
@@ -362,7 +362,7 @@ NOTE: This table only describes prize awards; additional contestants may be invi
 
 ### Rules
 
-See the [official rules document]({{site.baseurl}}/assets/netlify-uploads/updated-official-rules-pscr-first-responder-uas-endurance-challenge-august2020.pdf)for details on all aspects of the challenge.
+See the [official rules document]({{site.baseurl}}/assets/netlify-uploads/updated-official-rules-pscr-first-responder-uas-endurance-challenge-august2020.pdf) for details on all aspects of the challenge.
 
 ### Judging Criteria
 
