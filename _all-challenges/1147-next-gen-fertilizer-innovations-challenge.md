@@ -60,7 +60,7 @@ description: >-
 
   * [Informational Webinar](https://next_gen_fertilizer_challenges.eventbrite.com/): 10:00 AM ET September 24, 2020
 
-  * [Registration* Deadline and Submission End](https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e): 11:59 PM ET, November 30, 2020 
+  * [Registration* Deadline and Submission End](https://innocentive.wazoku.com/#/challenge/4380f517f84f49b78ad3dab8b4657e6e?searchIndex=2): 11:59 PM ET, November 30, 2020 
 
   * Winners announced: Winter 2020/2021 (date and time to be determined)
 
@@ -104,7 +104,7 @@ rules: >-
 
   1. **Eligibility**:
 
-     * Solvers must register and submit solutions via [InnoCentive](https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e) no later than 11:59 PM ET November 30, 2020. Late submissions will not be considered. 
+     * Solvers must register and submit solutions via [InnoCentive](https://innocentive.wazoku.com/#/challenge/4380f517f84f49b78ad3dab8b4657e6e?searchIndex=2) no later than 11:59 PM ET November 30, 2020. Late submissions will not be considered. 
      * Eligible: Submissions can be entertained from all Solvers regardless of whether they are U.S. citizens/entities. Meritorious submissions from non-U.S. citizens and entities as well as U.S. citizens that may not be prize eligible (see Challenge Specific Agreement) if any, will be recognized in publications issued by the Seekers announcing the results of the competition, such as press releases.  Non-U.S. citizens/permanent residents or non-U.S. entities can also be included on U.S. teams. However, under the authority of the America COMPETES Reauthorization Act of 2010  (15 U.S.C. § 3719), as amended, the Seekers cannot award cash prizes to individuals that are not U.S. citizens, not permanent residents of the U.S. or entities not incorporated in and maintaining a primary place of business in the U.S. 
      * Not eligible: U.S. or foreign government organizations, or federal employees acting within the scope of their employment.
      * Eligible: Individuals or organizations that receive funding from U.S. or foreign government organizations are eligible to compete. However, funds from U.S. or foreign government organizations should not be used to directly fund the development of a solution requested under this Challenge.
@@ -270,8 +270,7 @@ judging: >-
   7. Is potentially applicable to other crops and countries.
 how-to-enter: To register and submit a solution to the Next Gen Fertilizer
   Innovation Challenge, please visit the Challenge on the [InnoCentive
-  page](https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e).
-  [](https://www.innocentive.wazoku.com/#/challenge/4380f517f84f49b78ad3dab8b4657e6e)
+  page](https://innocentive.wazoku.com/#/challenge/4380f517f84f49b78ad3dab8b4657e6e?searchIndex=2)
 ---
 ### Description
 
@@ -295,7 +294,7 @@ NextGen Fertilizer Challenge Dates:
 
 * Challenge Launch: 9:00 AM ET August 26, 2020
 * [Informational Webinar](https://next_gen_fertilizer_challenges.eventbrite.com/): 10:00 AM ET September 24, 2020
-* [Registration* Deadline and Submission End](https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e): 11:59 PM ET, November 30, 2020 
+* [Registration* Deadline and Submission End](https://innocentive.wazoku.com/#/challenge/4380f517f84f49b78ad3dab8b4657e6e?searchIndex=2): 11:59 PM ET, November 30, 2020 
 * Winners announced: Winter 2020/2021 (date and time to be determined)	
 
 \*Register via InnoCentive
@@ -330,7 +329,7 @@ Solution: A Solver’s submission in response to a challenge
 
 1. **Eligibility**:
 
-   * Solvers must register and submit solutions via [InnoCentive](https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e) no later than 11:59 PM ET November 30, 2020. Late submissions will not be considered. 
+   * Solvers must register and submit solutions via [InnoCentive](https://innocentive.wazoku.com/#/challenge/4380f517f84f49b78ad3dab8b4657e6e?searchIndex=2) no later than 11:59 PM ET November 30, 2020. Late submissions will not be considered. 
    * Eligible: Submissions can be entertained from all Solvers regardless of whether they are U.S. citizens/entities. Meritorious submissions from non-U.S. citizens and entities as well as U.S. citizens that may not be prize eligible (see Challenge Specific Agreement) if any, will be recognized in publications issued by the Seekers announcing the results of the competition, such as press releases.  Non-U.S. citizens/permanent residents or non-U.S. entities can also be included on U.S. teams. However, under the authority of the America COMPETES Reauthorization Act of 2010  (15 U.S.C. § 3719), as amended, the Seekers cannot award cash prizes to individuals that are not U.S. citizens, not permanent residents of the U.S. or entities not incorporated in and maintaining a primary place of business in the U.S. 
    * Not eligible: U.S. or foreign government organizations, or federal employees acting within the scope of their employment.
    * Eligible: Individuals or organizations that receive funding from U.S. or foreign government organizations are eligible to compete. However, funds from U.S. or foreign government organizations should not be used to directly fund the development of a solution requested under this Challenge.
@@ -451,4 +450,4 @@ The example rubric above is for a solution that addresses N and P. For solutions
 
 ### How to Enter
 
-To register and submit a solution to the Next Gen Fertilizer Innovation Challenge, please visit the Challenge on the [InnoCentive page](https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e).
+To register and submit a solution to the Next Gen Fertilizer Innovation Challenge, please visit the Challenge on the [InnoCentive page](https://innocentive.wazoku.com/#/challenge/4380f517f84f49b78ad3dab8b4657e6e?searchIndex=2).
