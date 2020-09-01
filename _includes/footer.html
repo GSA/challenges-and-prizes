@@ -66,6 +66,14 @@
   <script type="text/javascript" src="https://challenge-portal-dev.app.cloud.gov/js/client.js"></script>
 {% endif %}
 
+<script>
+  // Explore challenges button scroll to active challenges section of react app
+  document.getElementById("js-explore-challenges").addEventListener("click", function(e) {
+    var scrollTarget = document.getElementById(e.target.getAttribute("data-anchor"))
+    scrollTarget.scrollIntoView()
+  })
+</script>
+
 <!-- Google Analytics -->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
