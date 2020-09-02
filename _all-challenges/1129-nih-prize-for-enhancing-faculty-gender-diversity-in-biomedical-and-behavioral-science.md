@@ -40,7 +40,7 @@ description: >-
   In addition to public recognition for their efforts in enhancing gender diversity, this NIH prize competition will also award a prize of $50,000 to each institution (up to ten institutions) with the best overall systemic approaches. The total prize purse for this competition is $500,000. Additional submissions may be recognized as honorable mentions with non-monetary awards. Winning participants and honorable mentions may be invited to present their approaches at an NIH Office of Research for Women’s Health hosted scientific symposium.
 
 
-  To register for this prize competition and for full submission details, see the HeroX website:  <www.herox.com/NIHGenderDiversityPrize>
+  To register for this prize competition and for full submission details, see the HeroX website:  <https://www.herox.com/NIHGenderDiversityPrize>
 prizes: >-
   #### Total Prize Pool
 
@@ -149,7 +149,7 @@ judging: >-
   5. **(10%) Lessons Learned**:  The submission identifies lessons learned during implementation and clearly explains what challenges were faced and how they were addressed. Honest comments about roadblocks encountered are valuable.
 how-to-enter: |-
   All submissions must be made online through the website:
-  **Submission URL**: <www.herox.com/NIHGenderDiversityPrize/>
+  **Submission URL**: <https://www.herox.com/NIHGenderDiversityPrize/>
 ---
 ### Description
 
@@ -163,7 +163,7 @@ Critical to this prize competition is the identification of best practices, the 
 
 In addition to public recognition for their efforts in enhancing gender diversity, this NIH prize competition will also award a prize of $50,000 to each institution (up to ten institutions) with the best overall systemic approaches. The total prize purse for this competition is $500,000. Additional submissions may be recognized as honorable mentions with non-monetary awards. Winning participants and honorable mentions may be invited to present their approaches at an NIH Office of Research for Women’s Health hosted scientific symposium.
 
-To register for this prize competition and for full submission details, see the HeroX website:  <www.herox.com/NIHGenderDiversityPrize>
+To register for this prize competition and for full submission details, see the HeroX website:  <https://www.herox.com/NIHGenderDiversityPrize>
 
 ### Prizes
 
@@ -191,7 +191,6 @@ Prizes awarded under this prize competition will be paid by electronic funds tra
 ### Rules
 
 #### Eligibility Rules for Participating in the Prize Competition:
-
 
 The prize competition is limited to U.S.-based, accredited public or private non-profit academic institutions that grant baccalaureate or advanced degrees in biomedical, behavioral, or health sciences, as listed in the U.S. Department of Education database of accredited institutions and programs. This includes Hispanic-serving Institutions, Historically Black Colleges and Universities (HBCUs), Tribally Controlled Colleges and Universities (TCCUs), Alaska Native and Native Hawaiian Serving Institutions, and Asian American Native American Pacific Islander Serving Institutions (AANAPISIs). It also includes both biomedical and behavioral research-intensive institutions and low- or limited-resourced institutions (see definition of “low- or limited-resourced institutions” below, the R15 **definition link**, and the **determination page**).
 
@@ -251,4 +250,4 @@ A panel of federal employees serving as judges will review the prize competition
 ### How To Enter
 
 All submissions must be made online through the website:
-**Submission URL**: <www.herox.com/NIHGenderDiversityPrize/>
+**Submission URL**: <https://www.herox.com/NIHGenderDiversityPrize/>
