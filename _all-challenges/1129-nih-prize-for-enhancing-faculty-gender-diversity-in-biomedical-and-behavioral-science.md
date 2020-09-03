@@ -20,7 +20,7 @@ fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Taylor Gilliland
 challenge-manager-email: c.gilliland@nih.gov
-point-of-contact: Send an email to <gethelp@herox.com>
+point-of-contact: gethelp@herox.com
 description: >-
   Women continue to be underrepresented at nearly every institution of higher
   education in the United States in the fields of biomedical, behavioral
@@ -105,6 +105,7 @@ rules: >-
        * At the time of the prize competition submission, the entity must not have received support from the NIH totaling more than $6 million per year (in both direct and F&A/indirect costs) in 4 of the last 7 fiscal years.
 
 
+
   * Only one submission per institution is permitted.
 
   * Federal grantees may not use federal funds from a grant award to develop their prize competition submissions or to fund efforts in support of their prize competition submissions.
@@ -149,8 +150,10 @@ judging: >-
   4. **(10%) Scalability**: The potential for approaches to be broadly implemented in other departments within the same institution, or be scaled up. The ease with which a process could be generalizable and adapted for different situations.
 
   5. **(10%) Lessons Learned**:  The submission identifies lessons learned during implementation and clearly explains what challenges were faced and how they were addressed. Honest comments about roadblocks encountered are valuable.
-how-to-enter: "All submissions must be made online through the submission
-  website. **Submission URL**: <https://www.herox.com/NIHGenderDiversityPrize/>"
+how-to-enter: |-
+  All submissions must be made online through the submission website. 
+
+  **Submission URL**: <https://www.herox.com/NIHGenderDiversityPrize/>
 ---
 ### Description
 
@@ -217,6 +220,9 @@ Each institution (also defined here as an “entity”) must designate a point o
 
      * The entity must be an accredited public or non-profit private school that grants baccalaureate or advanced degrees in health professions or advanced degrees in biomedical and behavioral sciences.
      * At the time of the prize competition submission, the entity must not have received support from the NIH totaling more than $6 million per year (in both direct and F&A/indirect costs) in 4 of the last 7 fiscal years.
+
+
+
 * Only one submission per institution is permitted.
 * Federal grantees may not use federal funds from a grant award to develop their prize competition submissions or to fund efforts in support of their prize competition submissions.
 * Federal contractors may not use federal funds from a contract to develop their prize competition submissions or to fund efforts in support of their prize competition submissions.
@@ -251,4 +257,6 @@ A panel of federal employees serving as judges will review the prize competition
 
 ### How To Enter
 
-All submissions must be made online through the submission website. **Submission URL**: <https://www.herox.com/NIHGenderDiversityPrize/>
+All submissions must be made online through the submission website. 
+
+**Submission URL**: <https://www.herox.com/NIHGenderDiversityPrize/>
