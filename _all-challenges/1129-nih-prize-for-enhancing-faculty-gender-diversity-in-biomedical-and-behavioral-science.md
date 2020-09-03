@@ -6,7 +6,7 @@ permalink: /challenge/nih-prize-for-enhancing-faculty-gender-diversity/
 challenge-id: "1129"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/orwh_logo_vertical-1-.png
+card-image: /assets/netlify-uploads/orwh_logo_vertical-224x160.png
 agency-logo: /assets/netlify-uploads/NIH_Master_Logo_Vertical_2Color.jpg
 tagline: NIH Prize for Enhancing Faculty Gender Diversity in Biomedical and
   Behavioral Science
@@ -20,7 +20,7 @@ fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Taylor Gilliland
 challenge-manager-email: c.gilliland@nih.gov
-point-of-contact: gethelp@herox.com
+point-of-contact: Send an email to <gethelp@herox.com>
 description: >-
   Women continue to be underrepresented at nearly every institution of higher
   education in the United States in the fields of biomedical, behavioral
@@ -53,6 +53,8 @@ prizes: >-
 
   Up to ten (10) winners will be selected, with each winning up to $50,000. 
 
+
+
   Although gender inequality in science, medicine, and engineering faculty occurs across the United States, patterns of challenges emerge between institutions. Recognizing that disparities exist amongst institutions, judges will evaluate entries in two pools to allow for fair competition. Five of the ten prizes will be awarded to low or limited-resource institutions.  Submissions from low or limited-resource institutions will be judged against one another to select those five winners.
 
 
@@ -73,12 +75,10 @@ prizes: >-
 
   Prizes awarded under this prize competition will be paid by electronic funds transfer to an eligible institution (as further defined in the Eligibility Rules for Participating in the Prize Competition section) and may be subject to Federal income taxes. Awardees will need to provide an institutional bank account and routing information in order to receive the award funds; prize funds will not be paid to individuals. HHS/NIH will comply with the Internal Revenue Service withholding and reporting requirements, where applicable. The NIH reserves the right, in its sole discretion, to (a) cancel, suspend, and/or modify this prize competition, or any part of it, for any reason, and/or (b) not award any prizes if no submissions are deemed worthy.
 rules: >-
-  
-
   #### Eligibility Rules for Participating in the Prize Competition:
 
 
-  The prize competition is limited to U.S.-based, accredited public or private non-profit academic institutions that grant baccalaureate or advanced degrees in biomedical, behavioral, or health sciences, as listed in the U.S. Department of Education database of accredited institutions and programs. This includes Hispanic-serving Institutions, Historically Black Colleges and Universities (HBCUs), Tribally Controlled Colleges and Universities (TCCUs), Alaska Native and Native Hawaiian Serving Institutions, and Asian American Native American Pacific Islander Serving Institutions (AANAPISIs). It also includes both biomedical and behavioral research-intensive institutions and low- or limited-resourced institutions (see definition of “low- or limited-resourced institutions” below, the R15 **definition link**, and the **determination page**).
+  The prize competition is limited to U.S.-based, accredited public or private non-profit academic institutions that grant baccalaureate or advanced degrees in biomedical, behavioral, or health sciences, as listed in the U.S. Department of Education database of accredited institutions and programs. This includes Hispanic-serving Institutions, Historically Black Colleges and Universities (HBCUs), Tribally Controlled Colleges and Universities (TCCUs), Alaska Native and Native Hawaiian Serving Institutions, and Asian American Native American Pacific Islander Serving Institutions (AANAPISIs). It also includes both biomedical and behavioral research-intensive institutions and low- or limited-resourced institutions (see definition of “low- or limited-resourced institutions” below, the [R15 definition link](https://grants.nih.gov/grants/funding/r15.htm), and the [determination page](https://grants.nih.gov/grants/funding/Determing-Organization-Funding-Levels-R15-Eligibility.pdf)).
 
 
   Each institution (also defined here as an “entity”) must designate a point of contact who is responsible for all correspondence regarding this prize competition. A point of contact representing the entity should be employed by and/or acting at the behest of the entity, such as the President, Provost, Chancellor, or other senior-level administrator.
@@ -103,6 +103,8 @@ rules: >-
 
        * The entity must be an accredited public or non-profit private school that grants baccalaureate or advanced degrees in health professions or advanced degrees in biomedical and behavioral sciences.
        * At the time of the prize competition submission, the entity must not have received support from the NIH totaling more than $6 million per year (in both direct and F&A/indirect costs) in 4 of the last 7 fiscal years.
+
+
   * Only one submission per institution is permitted.
 
   * Federal grantees may not use federal funds from a grant award to develop their prize competition submissions or to fund efforts in support of their prize competition submissions.
@@ -131,7 +133,7 @@ judging: >-
   A panel of federal employees serving as judges will review the prize competition submissions based on the following criteria: 
 
 
-  1. **(40%) Impact**:\
+  1. **(40%) Impact**:
      A single approach or combination of approaches will be evaluated based on the magnitude and extent of impact seen on improving gender diversity at an institution and/or department. Consideration of faculty of intersecting identities, such as women of color, is encouraged in describing the impact to gender diversity. Impact can include qualitative elements like improvement of climate and inclusiveness of the environment.  Impact can also include quantitative improvements such as increased rates of female faculty recruitment, retention, and equitable pay across genders. 
   2. **(25%) Metrics**: 
 
@@ -147,9 +149,8 @@ judging: >-
   4. **(10%) Scalability**: The potential for approaches to be broadly implemented in other departments within the same institution, or be scaled up. The ease with which a process could be generalizable and adapted for different situations.
 
   5. **(10%) Lessons Learned**:  The submission identifies lessons learned during implementation and clearly explains what challenges were faced and how they were addressed. Honest comments about roadblocks encountered are valuable.
-how-to-enter: |-
-  All submissions must be made online through the website:
-  **Submission URL**: <https://www.herox.com/NIHGenderDiversityPrize/>
+how-to-enter: "All submissions must be made online through the submission
+  website. **Submission URL**: <https://www.herox.com/NIHGenderDiversityPrize/>"
 ---
 ### Description
 
@@ -174,6 +175,7 @@ $500,000
 #### Prize Breakdown
 
 Up to ten (10) winners will be selected, with each winning up to $50,000. 
+
 Although gender inequality in science, medicine, and engineering faculty occurs across the United States, patterns of challenges emerge between institutions. Recognizing that disparities exist amongst institutions, judges will evaluate entries in two pools to allow for fair competition. Five of the ten prizes will be awarded to low or limited-resource institutions.  Submissions from low or limited-resource institutions will be judged against one another to select those five winners.
 
 #### Non-monetary Prizes
@@ -192,7 +194,7 @@ Prizes awarded under this prize competition will be paid by electronic funds tra
 
 #### Eligibility Rules for Participating in the Prize Competition:
 
-The prize competition is limited to U.S.-based, accredited public or private non-profit academic institutions that grant baccalaureate or advanced degrees in biomedical, behavioral, or health sciences, as listed in the U.S. Department of Education database of accredited institutions and programs. This includes Hispanic-serving Institutions, Historically Black Colleges and Universities (HBCUs), Tribally Controlled Colleges and Universities (TCCUs), Alaska Native and Native Hawaiian Serving Institutions, and Asian American Native American Pacific Islander Serving Institutions (AANAPISIs). It also includes both biomedical and behavioral research-intensive institutions and low- or limited-resourced institutions (see definition of “low- or limited-resourced institutions” below, the R15 **definition link**, and the **determination page**).
+The prize competition is limited to U.S.-based, accredited public or private non-profit academic institutions that grant baccalaureate or advanced degrees in biomedical, behavioral, or health sciences, as listed in the U.S. Department of Education database of accredited institutions and programs. This includes Hispanic-serving Institutions, Historically Black Colleges and Universities (HBCUs), Tribally Controlled Colleges and Universities (TCCUs), Alaska Native and Native Hawaiian Serving Institutions, and Asian American Native American Pacific Islander Serving Institutions (AANAPISIs). It also includes both biomedical and behavioral research-intensive institutions and low- or limited-resourced institutions (see definition of “low- or limited-resourced institutions” below, the [R15 definition link](https://grants.nih.gov/grants/funding/r15.htm), and the [determination page](https://grants.nih.gov/grants/funding/Determing-Organization-Funding-Levels-R15-Eligibility.pdf)).
 
 Each institution (also defined here as an “entity”) must designate a point of contact who is responsible for all correspondence regarding this prize competition. A point of contact representing the entity should be employed by and/or acting at the behest of the entity, such as the President, Provost, Chancellor, or other senior-level administrator.
 
@@ -232,7 +234,7 @@ Each institution (also defined here as an “entity”) must designate a point o
 
 A panel of federal employees serving as judges will review the prize competition submissions based on the following criteria: 
 
-1. **(40%) Impact**:\
+1. **(40%) Impact**:
    A single approach or combination of approaches will be evaluated based on the magnitude and extent of impact seen on improving gender diversity at an institution and/or department. Consideration of faculty of intersecting identities, such as women of color, is encouraged in describing the impact to gender diversity. Impact can include qualitative elements like improvement of climate and inclusiveness of the environment.  Impact can also include quantitative improvements such as increased rates of female faculty recruitment, retention, and equitable pay across genders. 
 2. **(25%) Metrics**: 
 
@@ -249,5 +251,4 @@ A panel of federal employees serving as judges will review the prize competition
 
 ### How To Enter
 
-All submissions must be made online through the website:
-**Submission URL**: <https://www.herox.com/NIHGenderDiversityPrize/>
+All submissions must be made online through the submission website. **Submission URL**: <https://www.herox.com/NIHGenderDiversityPrize/>
