@@ -6,7 +6,7 @@ permalink: /challenge/nih-prize-for-enhancing-faculty-gender-diversity/
 challenge-id: "1129"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/orwh_logo_vertical-224x160.png
+card-image: /assets/netlify-uploads/webp.net-resizeimage-10-.png
 agency-logo: /assets/netlify-uploads/NIH_Master_Logo_Vertical_2Color.jpg
 tagline: NIH Prize for Enhancing Faculty Gender Diversity in Biomedical and
   Behavioral Science
