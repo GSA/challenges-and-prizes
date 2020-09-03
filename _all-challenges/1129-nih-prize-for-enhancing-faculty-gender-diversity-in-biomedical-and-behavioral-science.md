@@ -101,10 +101,9 @@ rules: >-
        * At the time of prize competition submission, all the non-health professional components of the entity together have not received support from the NIH totaling more than $6 million per year (in both direct and F&A/indirect costs) in 4 of the last 7 fiscal years.
     2. Health Professional Schools and Graduate Schools
 
-       ```
         * The entity must be an accredited public or non-profit private school that grants baccalaureate or advanced degrees in health professions or advanced degrees in biomedical and behavioral sciences.
-        * At the time of the prize competition submission, the entity must not have received support from the NIH totaling more than $6 million per year (in both direct and F&A/indirect costs) in 4 of the last 7 fiscal years.
-       ```
+        * At the time of the prize competition submission, the entity must not have received support from the NIH totaling more than $6 million per year (in both direct and F&A/indirect costs) in 4 of the last 7 fiscal years.\
+
   * Only one submission per institution is permitted.
 
   * Federal grantees may not use federal funds from a grant award to develop their prize competition submissions or to fund efforts in support of their prize competition submissions.
@@ -217,9 +216,9 @@ Each institution (also defined here as an “entity”) must designate a point o
      * At the time of prize competition submission, all the non-health professional components of the entity together have not received support from the NIH totaling more than $6 million per year (in both direct and F&A/indirect costs) in 4 of the last 7 fiscal years.
   2. Health Professional Schools and Graduate Schools
 
-     * The entity must be an accredited public or non-profit private school that grants baccalaureate or advanced degrees in health professions or advanced degrees in biomedical and behavioral sciences.
-     * At the time of the prize competition submission, the entity must not have received support from the NIH totaling more than $6 million per year (in both direct and F&A/indirect costs) in 4 of the last 7 fiscal years. 
-<p>&nbsp;</p>         
+      * The entity must be an accredited public or non-profit private school that grants baccalaureate or advanced degrees in health professions or advanced degrees in biomedical and behavioral sciences.
+      * At the time of the prize competition submission, the entity must not have received support from the NIH totaling more than $6 million per year (in both direct and F&A/indirect costs) in 4 of the last 7 fiscal years.\ 
+
 * Only one submission per institution is permitted.
 * Federal grantees may not use federal funds from a grant award to develop their prize competition submissions or to fund efforts in support of their prize competition submissions.
 * Federal contractors may not use federal funds from a contract to develop their prize competition submissions or to fund efforts in support of their prize competition submissions.
