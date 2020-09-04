@@ -20,7 +20,7 @@ fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Taylor Gilliland
 challenge-manager-email: c.gilliland@nih.gov
-point-of-contact: gethelp@herox.com
+point-of-contact: ORWHPrize2020@od.nih.gov
 description: >-
   Women continue to be underrepresented at nearly every institution of higher
   education in the United States in the fields of biomedical, behavioral
