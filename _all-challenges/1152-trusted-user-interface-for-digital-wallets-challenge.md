@@ -22,6 +22,7 @@ fiscal-year: FY20
 legal-authority: America COMPETES Act
 challenge-manager: Melissa Oh
 challenge-manager-email: Kathleen.Kenyon@hq.dhs.gov
+point-of-contact: prizeauthority@hq.dhs.gov
 description: >-
   DHS S&T is calling upon innovators to design a better UI for digital wallets
   that store credentials. DHS’s prize competition is for better Trusted UI for
