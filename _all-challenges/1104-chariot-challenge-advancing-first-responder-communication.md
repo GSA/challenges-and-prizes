@@ -2,7 +2,7 @@
 title: Test
 challenge-title: Test
 layout: front-matter-data-markdownify-content
-permalink: /challenge/chariot/
+permalink: /challenge/test/
 challenge-id: "2000"
 status: open
 sidenav: true
