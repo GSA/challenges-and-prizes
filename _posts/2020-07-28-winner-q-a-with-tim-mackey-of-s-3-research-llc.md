@@ -1,5 +1,5 @@
 ---
-date: 2020/09/10
+date: 2020/09/08
 layout: post
 permalink: /blog/july-27-2020-Past-Winner-Question-and-Answer-with-Tim-Mackey-of-S-3-Research/
 title: "Past Challenge Winner Q&A: Tim Mackey of S-3 Research"
