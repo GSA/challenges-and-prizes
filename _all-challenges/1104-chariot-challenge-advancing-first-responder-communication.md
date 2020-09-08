@@ -1,9 +1,9 @@
 ---
-title: Test
-challenge-title: Test
+title: CHARIoT Challenge - Advancing First Responder Communications
+challenge-title: CHARIoT Challenge - Advancing First Responder Communications
 layout: front-matter-data-markdownify-content
 permalink: /challenge/test/
-challenge-id: "2000"
+challenge-id: "1104"
 status: open
 sidenav: true
 card-image: /assets/netlify-uploads/chariot_challengegov.jpg
