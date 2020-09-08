@@ -27,7 +27,7 @@ legal-authority: America COMPETES Act
 challenge-manager: Sarah Hughes
 challenge-manager-email: sarah.hughes@nist.gov
 point-of-contact: psprizes@nist.gov
-body-content-uploads: /assets/netlify-uploads/chariot-challenge_nistpscr_officialrules_revised.pdf
+body-content-uploads: /assets/netlify-uploads/chariot-table.png
 description: >-
   The CHARIoT Challenge is a dual track competition covering an Augmented
   Reality Contest and an Internet of Things-based Contest.
@@ -42,7 +42,7 @@ description: >-
   Both contests consist of four (4) phases:
 
 
-  ![Phase Descriptions](blob:https://www.challenge.gov/9d0578cf-7540-4dec-b0ee-479a87f660b1 "Phase Descriptions")
+  ![Phase Descriptions]({{site.baseurl}}/assets/netlify-uploads/chariot-table.png "Phase Descriptions")
 prizes: >-
   #### Total Cash Prize Pool
 
@@ -185,7 +185,7 @@ AR contestants are challenged to concept and design augmented reality interfaces
 
 Both contests consist of four (4) phases:
 
-![Phase Descriptions]({{site.baseurl}}/assets/netlify-uploads/chariot-table.jpg "Phase Descriptions")
+![Phase Descriptions]({{site.baseurl}}/assets/netlify-uploads/chariot-table.png "Phase Descriptions")
 
 ### Prizes
 
