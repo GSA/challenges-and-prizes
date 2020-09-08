@@ -4,7 +4,7 @@ challenge-title: "Intelligent Forecasting: A Competition to Model Future Contrac
 layout: front-matter-data-markdownify-content
 permalink: /challenge/intelligent-forecasting/
 challenge-id: "1145"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/intelligent-forecasting-cover.jpg
 agency-logo: /assets/netlify-uploads/USAID_logo.png
@@ -17,8 +17,8 @@ type-of-challenge:
   - Analytics, visualizations, algorithms
   - Business plans
   - Technology demonstration and hardware
-submission-start: 2020/07/14 11:00 AM
-submission-end: 2020/09/08 11:00 AM
+submission-start: 07/14/2020 11:00 AM
+submission-end: 09/08/2020 11:00 AM
 fiscal-year: FY19, FY20
 legal-authority: Agency specific prize authority
 challenge-manager: Meredith Perry
