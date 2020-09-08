@@ -11,7 +11,7 @@ excerpt: We catch up with a past winner of NIDA's SUD Startup Challenge to learn
 author: Pierce McManus with Tim K. Mackey
 image: /assets/netlify-uploads/1.png
 image_alt_text: winner Q&A header image
-post-body-content-uploads: /assets/netlify-uploads/untitled-presentation-2-.jpg
+post-body-content-uploads: /assets/netlify-uploads/webp.net-resizeimage-1-.jpg
 ---
 Recently, the [National Institute on Drug Abuse (NIDA)](https://www.nih.gov/about-nih/what-we-do/nih-almanac/national-institute-drug-abuse-nida), one of the components of the National Institutes of Health (NIH), announced the winners of its fifth [“$100,000 for Start a SUD Startup” Challenge](https://www.challenge.gov/challenge/2020-1000000-start-a-sud-startup-challenge/), which was hosted on GSA’s Challenge.gov platform. The SUD Startup Challenge goal is to support research ideas that would further an understanding of substance use disorders (SUD) and that are intended to lay the foundation for the development of successful new startups.
 
@@ -49,11 +49,11 @@ My background is primarily academic, though I also worked over a decade in the p
 
 The scourge of the opioid epidemic and its toll on society is real and acute. I’ve been studying illegal sales of drugs online my whole career, and when the opioid epidemic hit, we saw a flood of diversion go online. I was inspired first as a Master’s student at UC San Diego when I went to a graduate seminar where a woman named Francis Haight talked about the tragedy of losing her teenage son, Ryan Haight, when he purchased Vicodin online and overdosed. Subsequently, [Federal legislation was passed in his name](https://www.congress.gov/110/plaws/publ425/PLAW-110publ425.pdf) to make it illegal to sell controlled substances online. From that point on, I decided that fighting illegal online sales of drugs would be one of my core goals as a researcher.
 
-<figure style="float:left; margin:1em;" > <img height="300px" src="{{ site.baseurl }}/assets/netlify-uploads/untitled-presentation-2-.jpg" alt="Tim K. Mackey, CEO of S-3 Research"/> <figcaption style="font-size: smaller;">HHS Opioid Code-a-thon Team whose participation led to Challenge award application</figcaption> </figure>
-
 **How did you hear about NIDA’s SUD Startup Challenge and why did you decide to apply?**
 
 We heard about the challenge after participating in the [HHS 2017 Opioid Code-a-Thon](https://www.hhs.gov/challenges/index.html) after being invited to form a team by a colleague formally at the U.S. Centers for Disease Control and Prevention. We were chosen as a finalist but didn’t win one of the three prizes, however, this gave us the opportunity to learn about the Challenge award and we applied.
+
+<figure style="float:left; margin:1em;" > <img height="300px" src="{{ site.baseurl }}/assets/netlify-uploads/webp.net-resizeimage-1-.jpg" alt="Tim K. Mackey, CEO of S-3 Research"/> <figcaption style="font-size: smaller;">HHS Opioid Code-a-thon Team whose participation led to Challenge award application</figcaption> </figure>
 
 **Was there anything about the application process that you’d change?**
 
