@@ -50,9 +50,7 @@ prizes: >-
   PSCR and its challenge partners will award prizes valued up to $1,100,000.
 
 
-  #### 
-
-  Prize Breakdown
+  #### Prize Breakdown
 
 
   Up to $888,000 in prizes are dedicated to the Build Augmented Reality Interfaces for First Responders Contest.
@@ -61,9 +59,7 @@ prizes: >-
   Up to $212,000 in prizes are dedicated to the Emulate Smart City Data for Disaster Scenario Contest.
 
 
-  #### 
-
-  Non-monetary Prizes
+  #### Non-monetary Prizes
 
 
   Winning contestants will receive additional prizes and technical mentorship opportunities with key challenge partners from Magic Leap, First Responder Network Authority, FirstNet built with AT&T, MSA Safety and Blueforce Development.
@@ -193,13 +189,13 @@ Both contests consist of four (4) phases:
 
 PSCR and its challenge partners will award prizes valued up to $1,100,000.
 
-Prize Breakdown
+#### Prize Breakdown
 
 Up to $888,000 in prizes are dedicated to the Build Augmented Reality Interfaces for First Responders Contest.
 
 Up to $212,000 in prizes are dedicated to the Emulate Smart City Data for Disaster Scenario Contest.
 
-Non-monetary Prizes
+#### Non-monetary Prizes
 
 Winning contestants will receive additional prizes and technical mentorship opportunities with key challenge partners from Magic Leap, First Responder Network Authority, FirstNet built with AT&T, MSA Safety and Blueforce Development.
 To learn more about the prizes in each contest, please go to the AR or IoT prize page:
