@@ -25,7 +25,7 @@ fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Christopher Clark
 challenge-manager-email: clark.christopher@epa.gov
-point-of-contact: Submission_NextGenFertilizerChallenges@epa.gov
+point-of-contact: Question_NextGenFertilizerChallenges@epa.gov
 description: >-
   #### Background
 
@@ -243,8 +243,8 @@ judging: >-
 
   Draft protocols for the planned IFDC greenhouse tests are available by request. Additional details of the IFDC scoring and testing protocols will be made following announcement of the Stage 1 winners, and will depend on the number of EEFs and soil types to be tested.
 how-to-enter: "Submit to:
-  [Question_NextGenFertilizerChallenges@epa.gov](mailto:Submission_NextGenFerti\
-  lizerChallenges@epa.gov)"
+  [Submission_NextGenFertilizerChallenges@epa.gov](mailto:Submission_NextGenFer\
+  tilizerChallenges@epa.gov)"
 ---
 ### Description
 
@@ -411,4 +411,4 @@ Draft protocols for the planned IFDC greenhouse tests are available by request. 
 
 ### How to Enter
 
-Submit to: [Question_NextGenFertilizerChallenges@epa.gov](mailto:Submission_NextGenFertilizerChallenges@epa.gov)
+Submit to: [Submission_NextGenFertilizerChallenges@epa.gov](mailto:Submission_NextGenFertilizerChallenges@epa.gov)
