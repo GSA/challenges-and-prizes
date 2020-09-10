@@ -1,5 +1,5 @@
 ---
-title: Card Title Here
+title: 2020 Campus RainWorks Challenge
 challenge-title: 2020 Campus RainWorks Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/2020-campus-rainworks-challenge/
