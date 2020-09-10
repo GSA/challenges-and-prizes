@@ -36,7 +36,7 @@ description: >-
   Teams will design and develop innovative solutions to address challenges arising from the COVID-19 pandemic. Teams will collaborate virtually using tools like Zoom and Quip over the course of one week to evaluate the challenge. During the two-day make-a-thon event, the teams will work to design and fabricate working prototypes of their solutions that are suitable for rapid manufacturing.
 
 
-  More information about the COVID-19 Maker Challenge V: Disaster Relief Challenge can be found [here](https://makerchallenge.crowdicity.com/category/46152).
+  More information about the COVID-19 Maker Challenge V: Disaster Relief Challenge can be found [here](https://makerchallenge.crowdicity.com/).
 prizes: The team with the best overall design will win the VHA iEx Design Award
   and will have the opportunity to present their design at the Fall 2020 VHA
   Innovation Experience (VHA iEx) in Washington, DC, an annual celebration of
@@ -68,8 +68,7 @@ judging: >-
 
   The VHA iEx Design Award is determined based on the evaluation of each design in these  four categories: Business Value, User Experience/Design, Feasibility, and Level of Innovation.
 how-to-enter: "**Submission URL**: To learn more and to register, please visit
-  the [Disaster Relief Challenge
-  site](https://makerchallenge.crowdicity.com/category/46152)."
+  the [Disaster Relief Challenge site](https://www.tfaforms.com/4845858)."
 ---
 ### Description
 
@@ -77,7 +76,7 @@ how-to-enter: "**Submission URL**: To learn more and to register, please visit
 
 Teams will design and develop innovative solutions to address challenges arising from the COVID-19 pandemic. Teams will collaborate virtually using tools like Zoom and Quip over the course of one week to evaluate the challenge. During the two-day make-a-thon event, the teams will work to design and fabricate working prototypes of their solutions that are suitable for rapid manufacturing.
 
-More information about the COVID-19 Maker Challenge V: Disaster Relief Challenge can be found [here](https://makerchallenge.crowdicity.com/category/46152).
+More information about the COVID-19 Maker Challenge V: Disaster Relief Challenge can be found [here](https://makerchallenge.crowdicity.com/).
 
 ### Prizes
 
@@ -106,4 +105,4 @@ The VHA iEx Design Award is determined based on the evaluation of each design in
 
 ### How to Enter
 
-**Submission URL**: To learn more and to register, please visit the [Disaster Relief Challenge site](https://makerchallenge.crowdicity.com/category/46152).
+**Submission URL**: To learn more and to register, please visit the [Disaster Relief Challenge site](https://www.tfaforms.com/4845858).
