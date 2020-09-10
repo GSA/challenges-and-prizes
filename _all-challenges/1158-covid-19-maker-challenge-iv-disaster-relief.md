@@ -26,7 +26,7 @@ fiscal-year: FY20
 legal-authority: America COMPETES Act
 challenge-manager: Dallas Blaney
 challenge-manager-email: Dallas@challengeamerica.com
-point-of-contact: Maggie Tolan
+point-of-contact: maggie@challengeamerica.com
 description: >-
   ![COVID-19 Maker Challenge
   Image]({{site.baseurl}}/assets/netlify-uploads/copy-of-challenge.gov-image.png
