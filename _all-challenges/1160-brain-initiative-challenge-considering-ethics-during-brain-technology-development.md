@@ -66,6 +66,7 @@ description: >-
     * What are the conflicts of interest that should be considered if commercializing brain technologies, particularly for alternate uses? 
 
 
+
   Submissions to this challenge are essays and/or videos, submitted via the BRAIN Initiative Challenge campaign of [https://ninds.ideascalegov.com](https://ninds.ideascalegov.com/), that include creative ideas to start a conversation about a neuroethical topic using:
 
 
@@ -226,9 +227,6 @@ judging: >-
 
 
   #### Judging Criteria
-
-
-  Provide a heading, description and weight (if applicable) for each criteria submissions will be evaluated by. You can provide a general summary of how submissions will be evaluated if you don’t have individual weighted criteria. will be evaluated by. You can provide a general summary of how submissions will be evaluated if you don’t have individual weighted criteria.
 
 
   **Basis Upon Which a Winner will be Selected**
@@ -444,8 +442,6 @@ Submissions will be evaluated in a tier process:
 4. The judges will submit their selection of winners to the award approving official for a final decision on prize payments.
 
 #### Judging Criteria
-
-Provide a heading, description and weight (if applicable) for each criteria submissions will be evaluated by. You can provide a general summary of how submissions will be evaluated if you don’t have individual weighted criteria. will be evaluated by. You can provide a general summary of how submissions will be evaluated if you don’t have individual weighted criteria.
 
 **Basis Upon Which a Winner will be Selected**
 The submissions will be evaluated and given a score based on the following:
