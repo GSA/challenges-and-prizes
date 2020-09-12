@@ -98,7 +98,7 @@ description: >-
 prizes: '![Prize
   Breakdown]({{site.baseurl}}/assets/netlify-uploads/nist-differential-privacy-temporal-map-challenge-table-4.png
   "Prize Breakdown")'
-rules: Official Rules will be posted by Oct. 1, 2020.
+rules: The Official Challenge Rules will be made available by Oct. 1, 2020.
 judging: >-
   A. Metric Contest. The Judges will evaluate submitted papers describing
   proposed metrics based on a balance of clarity, utility, and robustness.
@@ -179,7 +179,7 @@ NIST PSCR seeks to incentivize participants to develop their algorithms into too
 
 ### Rules
 
-Official Rules will be posted by Oct. 1, 2020.
+The Official Challenge Rules will be made available by Oct. 1, 2020.
 
 ### Judging Criteria
 
