@@ -4,7 +4,7 @@ challenge-title: Energy Program for Innovation Clusters (EPIC)
 layout: front-matter-data-markdownify-content
 permalink: /challenge/EPIC/
 challenge-id: "1146"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/epic-logo-wide-01.png
 agency-logo: /assets/netlify-uploads/256px-Seal_of_the_United_States_Department_of_Energy.png
@@ -19,8 +19,8 @@ total-prize-offered-cash: $1,000,000
 type-of-challenge:
   - Ideas
   - Business plans
-submission-start: 2020/07/20 12:00 PM
-submission-end: 2020/09/10 05:00 PM
+submission-start: 07/20/2020 12:00 PM
+submission-end: 09/10/2020 05:00 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Katherine Harsanyi
