@@ -17,7 +17,7 @@ type-of-challenge:
   - Ideas
   - Technology demonstration and hardware
 submission-start: 2020/12/02 09:00 AM
-submission-end: 2020/03/15 5:00 PM
+submission-end: 2021/03/15 5:00 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Jessie Buerlein
