@@ -96,7 +96,7 @@ description: >-
 
   ![Timeline for Open Source and Development Contest]({{site.baseurl}}/assets/netlify-uploads/nist-differential-privacy-temporal-map-challenge-table-3.png "Timeline for Open Source and Development Contest")
 prizes: '![Prize
-  Breakdown](blob:https://www.challenge.gov/004b4cf6-993b-4fc9-bbfe-82469e61f183
+  Breakdown]({{site.baseurl}}/assets/netlify-uploads/nist-differential-privacy-temporal-map-challenge-table-4.png
   "Prize Breakdown")'
 rules: Official Rules will be posted by Oct. 1, 2020.
 judging: >-
