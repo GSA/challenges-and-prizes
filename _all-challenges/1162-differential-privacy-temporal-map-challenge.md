@@ -172,6 +172,8 @@ NIST PSCR seeks to incentivize participants to develop their algorithms into too
 
 ### Prizes
 
+![Prize Breakdown](/assets/netlify-uploads/nist-differential-privacy-temporal-map-challenge-table-4.png "Prize Breakdown")
+
 ### Rules
 
 Official Rules will be posted by Oct. 1, 2020.
