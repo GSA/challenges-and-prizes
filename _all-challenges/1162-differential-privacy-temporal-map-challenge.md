@@ -95,6 +95,7 @@ description: >-
 
 
   ![Timeline for Open Source and Development Contest]({{site.baseurl}}/assets/netlify-uploads/nist-differential-privacy-temporal-map-challenge-table-3.png "Timeline for Open Source and Development Contest")
+rules: Official Rules will be posted by Oct. 1, 2020.
 judging: >-
   A. Metric Contest. The Judges will evaluate submitted papers describing
   proposed metrics based on a balance of clarity, utility, and robustness.
@@ -114,6 +115,12 @@ judging: >-
   * Development Plan Prizes are made based on the quality of the Development Plan submitted for the participants’ highest scoring algorithm.
 
   * Development Execution Prizes are based on how well teams execute their improvements, as described in their Development Plan.
+how-to-enter: >-
+  Visit the DrivenData website [www.drivendata.org](www.drivendata.org) to view
+  details about the challenge and contest series.
+
+
+  Submission URL: [www.drivendata.org](www.drivendata.org)
 ---
 ### Description
 
@@ -167,6 +174,8 @@ NIST PSCR seeks to incentivize participants to develop their algorithms into too
 
 ### Rules
 
+Official Rules will be posted by Oct. 1, 2020.
+
 ### Judging Criteria
 
 A. Metric Contest. The Judges will evaluate submitted papers describing proposed metrics based on a balance of clarity, utility, and robustness.
@@ -182,3 +191,7 @@ C. Open Source and Development Contest. Only solutions that are validated by the
 * Development Execution Prizes are based on how well teams execute their improvements, as described in their Development Plan. 
 
 ### How to Enter
+
+Visit the DrivenData website [www.drivendata.org](www.drivendata.org) to view details about the challenge and contest series.
+
+Submission URL: [www.drivendata.org](www.drivendata.org)
