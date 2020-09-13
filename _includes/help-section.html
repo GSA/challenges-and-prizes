@@ -22,7 +22,14 @@
           <img src="{{ site.baseurl }}/assets/images/icons/mail_icon.svg"/>
         </div>
         <p>Sign up to receive information about prize competitions.</p>
-        <a class="usa-button usa-button--big" href="{{ site.baseurl }}/about">Subscribe</a>
+        <a class="usa-button usa-button--big" href="https://stage-public.govdelivery.com/accounts/USGSATTS/signup/12360">Subscribe</a>
+        {% if site.branch == "master" %}
+          <a class="usa-button usa-button--big" href="https://stage-public.govdelivery.com/accounts/USGSATTS/signup/12360">Subscribe</a>
+        {% elsif site.branch == "staging" %}
+          <a class="usa-button usa-button--big" href="https://stage-public.govdelivery.com/accounts/USGSATTS/signup/12360">Subscribe</a>
+        {% elsif site.branch == "" %}
+          <a class="usa-button usa-button--big" href="https://stage-public.govdelivery.com/accounts/USGSATTS/signup/12360">Subscribe</a>
+        {% endif %}
       </div>
 
       <div class="tablet:grid-col display-flex flex-column flex-align-center help-section__create-account">
