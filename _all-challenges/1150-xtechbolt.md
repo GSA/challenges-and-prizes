@@ -134,8 +134,7 @@ judging: >-
   The concept White Papers will be evaluated using the detailed evaluation criteria found on the [contest submission page](https://www.xtechsearch.army.mil/).
 how-to-enter: >-
   
-
-  The xTechBOLT program is voluntary and open to all entities that meet the eligibility requirements.  There may be only one submission per eligible entity.  The registration information and upload submission must be received by 11:59 PM PST (8:59 PM EST)on 15 September 2020.  Submissions received after the deadline will not be considered.
+  The xTechBOLT program is voluntary and open to all entities that meet the eligibility requirements.  There may be only one submission per eligible entity.  The registration information and upload submission must be received by 8:59 PM PST (11:59 PM EST) on 16 October 2020.  Submissions received after the deadline will not be considered.
 
 
   **Visit the contest page for registration details: <https://www.xtechsearch.army.mil/>**
@@ -227,7 +226,7 @@ The concept White Papers will be evaluated using the detailed evaluation criteri
 
 ### How to Enter
 
-The xTechBOLT program is voluntary and open to all entities that meet the eligibility requirements.  There may be only one submission per eligible entity.  The registration information and upload submission must be received by 11:59 PM PST (8:59 PM EST) on 15 September 2020.  Submissions received after the deadline will not be considered.
+The xTechBOLT program is voluntary and open to all entities that meet the eligibility requirements.  There may be only one submission per eligible entity.  The registration information and upload submission must be received by 8:59 PM PST (11:59 PM EST) on 16 October 2020.  Submissions received after the deadline will not be considered.
 
 **Visit the contest page for registration details: <https://www.xtechsearch.army.mil/>**
 
