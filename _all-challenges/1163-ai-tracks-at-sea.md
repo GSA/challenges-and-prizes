@@ -161,6 +161,26 @@ rules: >-
 
 
   This Challenge is subject to all applicable federal laws and regulations. ALL CLAIMS ARISING OUT OF OR RELATING TO THESE TERMS WILL BE GOVERNED BY THE FEDERAL LAWS AND REGULATIONS OF THE UNITED STATES OF AMERICA.
+how-to-enter: >-
+  Submitters shall submit an email to both POCs below with the below information
+  to register.
+
+
+  * University name
+
+  * Department or lab name
+
+  * Team name
+
+  * University endorsement
+
+  * Team participants
+
+
+  They will receive notification of their successful registration and will receive their test dataset (video and ground truth) by 10/01/2020.
+
+
+  **Submission Email(s):** [michael.tall@spawar.navy.mil](mailto:michael.tall@spawar.navy.mil), [adjones3@spawar.navy.mil](adjones3@spawar.navy.mil)
 ---
 ### Description
 
@@ -247,7 +267,18 @@ The Participant agrees to follow and comply with all applicable federal, state a
 
 This Challenge is subject to all applicable federal laws and regulations. ALL CLAIMS ARISING OUT OF OR RELATING TO THESE TERMS WILL BE GOVERNED BY THE FEDERAL LAWS AND REGULATIONS OF THE UNITED STATES OF AMERICA.
 
-
 ### Judging Criteria
 
 ### How to Enter
+
+Submitters shall submit an email to both POCs below with the below information to register.
+
+* University name
+* Department or lab name
+* Team name
+* University endorsement
+* Team participants
+
+They will receive notification of their successful registration and will receive their test dataset (video and ground truth) by 10/01/2020.
+
+Submission Email(s): [michael.tall@spawar.navy.mil](mailto:michael.tall@spawar.navy.mil), [adjones3@spawar.navy.mil](adjones3@spawar.navy.mil)
