@@ -41,6 +41,32 @@ description: The Naval Information Warfare Center Pacific (NIWC PAC) and the
   will plot the tracks of shipping traffic exclusively using the passive sensing
   capability of onboard cameras.  This technology would also be applicable for
   the Navy to document vessels performing unsafe navigation on the high seas.
+prizes: >-
+  #### Total Cash Prize Pool
+
+
+  $200,000
+
+
+  #### Prize Breakdown
+
+
+  The Challenge winners will be notified via email. NIWC PAC will announce the winners on the Challenge.gov website and via appropriate channels.
+
+
+  NIWC PAC has established $200,000 as the total amount set aside for cash prizes under this Challenge. Prizes will be awarded for the 1st, 2nd, 3rd, 4th, 5th, 6th, and 7th places in the amounts of $55,000, $45,000, $35,000, $30,000, $20,000, $10,000, and $5000 respectively.  Prizes will be disbursed to the respective teams’ department, college, laboratory, or other eligible university component as specified by the consensus of the team.
+
+
+  In the event of a tie, NIWC PAC will determine an equitable method of distributing the cash prizes. This method will based on anything extra included in the output of the tool (e.g. graphical representation or video of output, classification of vessel being tracked, characterization of the vessel’s behavior, insights into how the algorithm is making decisions, track prediction, etc)
+
+
+  Tax treatment of prizes will be handled in accordance with U.S. Internal Revenue Service guidelines. The winner must provide a U.S. TIN (e.g., a TIN or EIN) to receive the cash prize.
+
+
+  #### Non-monetary Prizes
+
+
+  Honorable Mention(s)
 rules: >-
   Each Team shall submit one entry in response to this Challenge. Team entries
   must have an individual identified as the primary point of contact and prize
@@ -161,6 +187,36 @@ rules: >-
 
 
   This Challenge is subject to all applicable federal laws and regulations. ALL CLAIMS ARISING OUT OF OR RELATING TO THESE TERMS WILL BE GOVERNED BY THE FEDERAL LAWS AND REGULATIONS OF THE UNITED STATES OF AMERICA.
+judging: >-
+  #### Judging Panel
+
+
+  Each team will initially be provided with a dataset consisting of recorded camera imagery of vessel traffic along with the recorded GPS track of a vessel of interest that is seen in the imagery.  Submitted solutions will be evaluated against additional camera data correlated to recorded vessel tracks that are not included in the competition testing set in order to verify generalization of the solutions.  The same vessel and the same instrumentation will be used in both the competition data set and the judging data set.
+
+
+  Submitted software entries will be executed on a Nvidia Jetson TX2 running the Ubuntu 18.04 operating system and preconfigured with Robot Operating System (ROS) software.  This system will have no access to the internet and will be set up solely for this challenge.
+
+
+  Specific questions about software availability, version, or compatibility concerns should be directed to the challenge managers during the course of the challenge and should be fully resolved before final submission of an entry.
+
+
+  #### Judging Criteria
+
+
+  Track Accuracy
+
+
+  * This will calculate the Root Mean Square Error (RMSE) between the ground truth tracks and the submitter’s
+
+  * It will have a weight of 70% towards the final score
+
+
+  Overall Processing Time
+
+
+  * This is the time from when your software starts until your software ends and a list of waypoints is generated
+
+  * It will have a weight of 30% towards the final score
 how-to-enter: >-
   Submitters shall submit an email to both POCs below with the below information
   to register.
@@ -187,6 +243,24 @@ how-to-enter: >-
 The Naval Information Warfare Center Pacific (NIWC PAC) and the Office of Naval Research Science, Technology, Education, and Math (ONR STEM) are conducting the Artificial Intelligence Tracks at Sea challenge.  The goal of this challenge is to engage with the workforce of tomorrow on challenging and relevant Naval problems.  The need here is to augment unmanned surface vehicles’ (USVs’) maritime contact tracking capability.  Current traffic avoidance software relies on AIS and radar for tracking other craft and avoiding collisions.  However, in a contested environment, emitting radar energy presents a vulnerability to detection by adversaries.  Deactivating RF transmitting sources mitigates the threat of detection, but without additional sensing and sensor fusion, it would also degrade the USV’s ability to monitor shipping traffic in its vicinity.  The technology developed for this prize challenge will solve this problem by developing a computer vision system that will plot the tracks of shipping traffic exclusively using the passive sensing capability of onboard cameras.  This technology would also be applicable for the Navy to document vessels performing unsafe navigation on the high seas.
 
 ### Prizes
+
+#### Total Cash Prize Pool
+
+$200,000
+
+#### Prize Breakdown
+
+The Challenge winners will be notified via email. NIWC PAC will announce the winners on the Challenge.gov website and via appropriate channels.
+
+NIWC PAC has established $200,000 as the total amount set aside for cash prizes under this Challenge. Prizes will be awarded for the 1st, 2nd, 3rd, 4th, 5th, 6th, and 7th places in the amounts of $55,000, $45,000, $35,000, $30,000, $20,000, $10,000, and $5000 respectively.  Prizes will be disbursed to the respective teams’ department, college, laboratory, or other eligible university component as specified by the consensus of the team.
+
+In the event of a tie, NIWC PAC will determine an equitable method of distributing the cash prizes. This method will based on anything extra included in the output of the tool (e.g. graphical representation or video of output, classification of vessel being tracked, characterization of the vessel’s behavior, insights into how the algorithm is making decisions, track prediction, etc)
+
+Tax treatment of prizes will be handled in accordance with U.S. Internal Revenue Service guidelines. The winner must provide a U.S. TIN (e.g., a TIN or EIN) to receive the cash prize.
+
+#### Non-monetary Prizes
+
+Honorable Mention(s)
 
 ### Rules
 
@@ -268,6 +342,26 @@ The Participant agrees to follow and comply with all applicable federal, state a
 This Challenge is subject to all applicable federal laws and regulations. ALL CLAIMS ARISING OUT OF OR RELATING TO THESE TERMS WILL BE GOVERNED BY THE FEDERAL LAWS AND REGULATIONS OF THE UNITED STATES OF AMERICA.
 
 ### Judging Criteria
+
+#### Judging Panel
+
+Each team will initially be provided with a dataset consisting of recorded camera imagery of vessel traffic along with the recorded GPS track of a vessel of interest that is seen in the imagery.  Submitted solutions will be evaluated against additional camera data correlated to recorded vessel tracks that are not included in the competition testing set in order to verify generalization of the solutions.  The same vessel and the same instrumentation will be used in both the competition data set and the judging data set.
+
+Submitted software entries will be executed on a Nvidia Jetson TX2 running the Ubuntu 18.04 operating system and preconfigured with Robot Operating System (ROS) software.  This system will have no access to the internet and will be set up solely for this challenge.
+
+Specific questions about software availability, version, or compatibility concerns should be directed to the challenge managers during the course of the challenge and should be fully resolved before final submission of an entry.
+
+#### Judging Criteria
+
+Track Accuracy
+
+* This will calculate the Root Mean Square Error (RMSE) between the ground truth tracks and the submitter’s
+* It will have a weight of 70% towards the final score
+
+Overall Processing Time
+
+* This is the time from when your software starts until your software ends and a list of waypoints is generated
+* It will have a weight of 30% towards the final score
 
 ### How to Enter
 
