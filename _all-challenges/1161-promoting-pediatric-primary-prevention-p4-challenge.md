@@ -6,7 +6,7 @@ permalink: /challenge/promoting-pediatric-primary-prevention/
 challenge-id: "1161"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/hrsa-agency-logo_final-1-.jpg
+card-image: /assets/netlify-uploads/webp.net-resizeimage-2-.jpg
 agency-logo: /assets/netlify-uploads/hhs.png
 tagline: Innovations in Pediatric Primary Care to Improve Child Health
 agency: Department of Health and Human Services - Health Resources and Services
