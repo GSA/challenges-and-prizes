@@ -1,0 +1,253 @@
+---
+title: AI Tracks at Sea
+challenge-title: AI Tracks at Sea
+layout: front-matter-data-markdownify-content
+permalink: /challenge/AI-tracks-at-sea/
+challenge-id: "1163"
+status: open
+sidenav: true
+card-image: /assets/netlify-uploads/dod_seal.jpg
+agency-logo: /assets/netlify-uploads/dod_seal.jpg
+tagline: This challenge solicits software solutions to automatically generate
+  georeferenced tracks of maritime vessel traffic based on data recorded from a
+  single electro-optical camera imaging the traffic from a moving platform
+agency: Department of Defense - Naval Information Warfare Center Pacific (NIWC PAC)
+partner-agencies-federal: Office of Naval Research, Naval STEM Coordination Office (NSCO)
+total-prize-offered-cash: $200,000
+type-of-challenge:
+  - Software and apps
+  - Technology demonstration and hardware
+  - Analytics, visualizations, algorithms
+submission-start: 2020/10/01 03:00 AM
+submission-end: "2020/12/02 03:00 AM "
+fiscal-year: FY20,FY21
+legal-authority: Agency specific prize authority
+challenge-manager: Mike Tall, Anthony Jones
+challenge-manager-email: michael.tall@spawar.navy.mil, adjones3@spawar.navy.mil
+point-of-contact: michael.tall@spawar.navy.mil
+description: The Naval Information Warfare Center Pacific (NIWC PAC) and the
+  Office of Naval Research Science, Technology, Education, and Math (ONR STEM)
+  are conducting the Artificial Intelligence Tracks at Sea challenge.  The goal
+  of this challenge is to engage with the workforce of tomorrow on challenging
+  and relevant Naval problems.  The need here is to augment unmanned surface
+  vehicles’ (USVs’) maritime contact tracking capability.  Current traffic
+  avoidance software relies on AIS and radar for tracking other craft and
+  avoiding collisions.  However, in a contested environment, emitting radar
+  energy presents a vulnerability to detection by adversaries.  Deactivating RF
+  transmitting sources mitigates the threat of detection, but without additional
+  sensing and sensor fusion, it would also degrade the USV’s ability to monitor
+  shipping traffic in its vicinity.  The technology developed for this prize
+  challenge will solve this problem by developing a computer vision system that
+  will plot the tracks of shipping traffic exclusively using the passive sensing
+  capability of onboard cameras.  This technology would also be applicable for
+  the Navy to document vessels performing unsafe navigation on the high seas.
+rules: >-
+  Each Team shall submit one entry in response to this Challenge. Team entries
+  must have an individual identified as the primary point of contact and prize
+  recipient. By submitting an entry, a Participant authorizes their
+  institution’s name to be released to the media.
+
+
+  The submission package must include:
+
+
+  * white paper
+
+  * corresponding tool
+
+
+  **White Paper Submission Guidelines**:
+
+
+  White papers should provide an overview of the proposed technology and technical approach (e.g. architecture, deployment overview, algorithm description, model description, performance requirements, endpoint footprint, existing results, etc.), the benefits and novelty of the approach within the context of existing academic and commercially available technologies, and the dependencies necessary to operate the proposed technology.  White papers must be no more than five pages in length.  All white papers must be submitted along with the Participants tool per the instructions outlined in the tool submission guidelines below.  
+
+
+  **Tool Submission Guidelines**:
+
+
+  Submissions shall use docker and shall provide a container that the Challenge Manager can run along with a copy of their source code.  A good introductory example can be see [here](https://docker-curriculum.com/) (https://docker-curriculum.com/).
+
+
+  Submitters tool shall provide a command line executable container that will take four arguments:
+
+
+  * Video file name (MP4 format)
+
+  * Number of points to be generated
+
+  * Latitude of source in decimal degrees (i.e. where the camera is mounted)
+
+  * Longitude of the source in decimal degrees (i.e. where the camera is mounted)
+
+
+  Note: Submitters shall take great care with the ease for the Challenge Manager to run their Containers.
+
+
+  Minimum output should be a Comma Separated Value (CSV) file that consists of:
+
+
+  * A timestamp in seconds that starts at zero
+
+  * Latitude and Longitude of the vessel(s) being tracked
+
+
+  #### Terms and Conditions
+
+
+  **These terms and conditions apply to all participants in the Challenge**
+
+
+  **Agreement to Terms**
+
+
+  The Participant agrees to comply with and be bound by the AI Tracks at Sea Challenge Background and Rules (“the Rules”) as well as the Terms and Conditions contained herein.  The Participant also agrees that the decisions of the Government, in connection with all matters relating to this Challenge are binding and final.
+
+
+  #### Eligibility
+
+
+  This challenge is open to only students at accredited higher education institutions.  The funds used for this challenge are provided by ONR STEM programs that normally would have supported summer internships, however due to COVID-19, the internships were curtailed this summer.  This challenge promotes additional Navy engagement with academia.
+
+
+  All Teams must have a Taxpayer Identification Number (TIN) or Employer Identification Number (EIN) in order to receive a prize. Eligibility is subject to verification before any prize is awarded.
+
+
+  Federal Government employees who are also active students are not eligible to participate in this challenge.
+
+
+  Violation of the rules contained herein or intentional or consistent activity that undermines the spirit of the Challenge may result in disqualification. The Challenge is void wherever restricted or prohibited by law.
+
+
+  **Data Rights**
+
+
+  NIWC PAC does not require that Participants relinquish or otherwise grant license rights to intellectual property developed or delivered under the Challenge. NIWC PAC requires sufficient data rights/intellectual property rights to use, release, display, and disclose the white paper and/or tool, but only to the evaluation team members, and only for purposes of evaluating the Participant submission. The evaluation team does not plan to retain entries after the Challenge is completed but does plan to retain data and aggregate performance statistics, resulting from the evaluation of those entries. By accepting these Terms and Conditions, the Participant consents to the use of data submitted to the evaluation team for these purposes.
+
+
+  NIWC PAC may contact Participants, at no additional cost to the Government, to discuss the means and methods used in solving the Challenge, even if Participants did not win the Challenge.  Such contact does not imply any sort of contractual commitment with the Participant.
+
+
+  Because of the number of anticipated Challenge entries, NIWC PAC cannot and will not make determinations on whether or not third-party materials in the Challenge submissions have protectable intellectual property interests. By participating in this Challenge, each Participant (whether participating individually, as a team, or as a commercial entity) warrants and assures the Government that any data used for the purpose of submitting an entry for this Challenge, were obtained legally and through authorized access to such data. By entering the Challenge and submitting the Challenge materials, the Participant agrees to indemnify and hold the Government harmless against any claim, loss or risk of loss for patent or copyright infringement with respect to such third party interests.
+
+
+  This Challenge does not replace or supersede any other written contracts and/or written challenges that the Participant has or will have with the Government, which may require delivery of any materials the Participant is submitting herein for this Challenge effort. 
+
+
+  This Challenge constitutes the entire understanding of the parties with respect to the Challenge.  NIWC PAC may update the terms of the Challenge from time to time without notice.  Participants are strongly encouraged to check the website frequently.  
+
+
+  If any provision of this Challenge is held to be invalid or unenforceable under applicable federal law, it will not affect the validity or enforceability of the remainder of the Terms and Conditions of this Challenge.
+
+
+  **Results of Challenge**
+
+
+  Winners will be announced on the challenge.gov website and email.
+
+
+  **Release of Claims**
+
+
+  The Participant agrees to release and forever discharge any and all manner of claims, equitable adjustments, actions, suits, debts, appeals, and all other obligations of any kind, whether past or present, known or unknown, that have or may arise from, are related to or are in connection with, directly or indirectly, this Challenge or the Participant’s submission.
+
+
+  **Compliance with Laws**
+
+
+  The Participant agrees to follow and comply with all applicable federal, state and local laws, regulations and policies.
+
+
+  **Governing Law**
+
+
+  This Challenge is subject to all applicable federal laws and regulations. ALL CLAIMS ARISING OUT OF OR RELATING TO THESE TERMS WILL BE GOVERNED BY THE FEDERAL LAWS AND REGULATIONS OF THE UNITED STATES OF AMERICA.
+---
+### Description
+
+The Naval Information Warfare Center Pacific (NIWC PAC) and the Office of Naval Research Science, Technology, Education, and Math (ONR STEM) are conducting the Artificial Intelligence Tracks at Sea challenge.  The goal of this challenge is to engage with the workforce of tomorrow on challenging and relevant Naval problems.  The need here is to augment unmanned surface vehicles’ (USVs’) maritime contact tracking capability.  Current traffic avoidance software relies on AIS and radar for tracking other craft and avoiding collisions.  However, in a contested environment, emitting radar energy presents a vulnerability to detection by adversaries.  Deactivating RF transmitting sources mitigates the threat of detection, but without additional sensing and sensor fusion, it would also degrade the USV’s ability to monitor shipping traffic in its vicinity.  The technology developed for this prize challenge will solve this problem by developing a computer vision system that will plot the tracks of shipping traffic exclusively using the passive sensing capability of onboard cameras.  This technology would also be applicable for the Navy to document vessels performing unsafe navigation on the high seas.
+
+### Prizes
+
+### Rules
+
+Each Team shall submit one entry in response to this Challenge. Team entries must have an individual identified as the primary point of contact and prize recipient. By submitting an entry, a Participant authorizes their institution’s name to be released to the media.
+
+The submission package must include:
+
+* white paper
+* corresponding tool
+
+**White Paper Submission Guidelines**:
+
+White papers should provide an overview of the proposed technology and technical approach (e.g. architecture, deployment overview, algorithm description, model description, performance requirements, endpoint footprint, existing results, etc.), the benefits and novelty of the approach within the context of existing academic and commercially available technologies, and the dependencies necessary to operate the proposed technology.  White papers must be no more than five pages in length.  All white papers must be submitted along with the Participants tool per the instructions outlined in the tool submission guidelines below.  
+
+**Tool Submission Guidelines**:
+
+Submissions shall use docker and shall provide a container that the Challenge Manager can run along with a copy of their source code.  A good introductory example can be see [here](https://docker-curriculum.com/) (https://docker-curriculum.com/).
+
+Submitters tool shall provide a command line executable container that will take four arguments:
+
+* Video file name (MP4 format)
+* Number of points to be generated
+* Latitude of source in decimal degrees (i.e. where the camera is mounted)
+* Longitude of the source in decimal degrees (i.e. where the camera is mounted)
+
+Note: Submitters shall take great care with the ease for the Challenge Manager to run their Containers.
+
+Minimum output should be a Comma Separated Value (CSV) file that consists of:
+
+* A timestamp in seconds that starts at zero
+* Latitude and Longitude of the vessel(s) being tracked
+
+#### Terms and Conditions
+
+**These terms and conditions apply to all participants in the Challenge**
+
+**Agreement to Terms**
+
+The Participant agrees to comply with and be bound by the AI Tracks at Sea Challenge Background and Rules (“the Rules”) as well as the Terms and Conditions contained herein.  The Participant also agrees that the decisions of the Government, in connection with all matters relating to this Challenge are binding and final.
+
+#### Eligibility
+
+This challenge is open to only students at accredited higher education institutions.  The funds used for this challenge are provided by ONR STEM programs that normally would have supported summer internships, however due to COVID-19, the internships were curtailed this summer.  This challenge promotes additional Navy engagement with academia.
+
+All Teams must have a Taxpayer Identification Number (TIN) or Employer Identification Number (EIN) in order to receive a prize. Eligibility is subject to verification before any prize is awarded.
+
+Federal Government employees who are also active students are not eligible to participate in this challenge.
+
+Violation of the rules contained herein or intentional or consistent activity that undermines the spirit of the Challenge may result in disqualification. The Challenge is void wherever restricted or prohibited by law.
+
+**Data Rights**
+
+NIWC PAC does not require that Participants relinquish or otherwise grant license rights to intellectual property developed or delivered under the Challenge. NIWC PAC requires sufficient data rights/intellectual property rights to use, release, display, and disclose the white paper and/or tool, but only to the evaluation team members, and only for purposes of evaluating the Participant submission. The evaluation team does not plan to retain entries after the Challenge is completed but does plan to retain data and aggregate performance statistics, resulting from the evaluation of those entries. By accepting these Terms and Conditions, the Participant consents to the use of data submitted to the evaluation team for these purposes.
+
+NIWC PAC may contact Participants, at no additional cost to the Government, to discuss the means and methods used in solving the Challenge, even if Participants did not win the Challenge.  Such contact does not imply any sort of contractual commitment with the Participant.
+
+Because of the number of anticipated Challenge entries, NIWC PAC cannot and will not make determinations on whether or not third-party materials in the Challenge submissions have protectable intellectual property interests. By participating in this Challenge, each Participant (whether participating individually, as a team, or as a commercial entity) warrants and assures the Government that any data used for the purpose of submitting an entry for this Challenge, were obtained legally and through authorized access to such data. By entering the Challenge and submitting the Challenge materials, the Participant agrees to indemnify and hold the Government harmless against any claim, loss or risk of loss for patent or copyright infringement with respect to such third party interests.
+
+This Challenge does not replace or supersede any other written contracts and/or written challenges that the Participant has or will have with the Government, which may require delivery of any materials the Participant is submitting herein for this Challenge effort. 
+
+This Challenge constitutes the entire understanding of the parties with respect to the Challenge.  NIWC PAC may update the terms of the Challenge from time to time without notice.  Participants are strongly encouraged to check the website frequently.  
+
+If any provision of this Challenge is held to be invalid or unenforceable under applicable federal law, it will not affect the validity or enforceability of the remainder of the Terms and Conditions of this Challenge.
+
+**Results of Challenge**
+
+Winners will be announced on the challenge.gov website and email.
+
+**Release of Claims**
+
+The Participant agrees to release and forever discharge any and all manner of claims, equitable adjustments, actions, suits, debts, appeals, and all other obligations of any kind, whether past or present, known or unknown, that have or may arise from, are related to or are in connection with, directly or indirectly, this Challenge or the Participant’s submission.
+
+**Compliance with Laws**
+
+The Participant agrees to follow and comply with all applicable federal, state and local laws, regulations and policies.
+
+**Governing Law**
+
+This Challenge is subject to all applicable federal laws and regulations. ALL CLAIMS ARISING OUT OF OR RELATING TO THESE TERMS WILL BE GOVERNED BY THE FEDERAL LAWS AND REGULATIONS OF THE UNITED STATES OF AMERICA.
+
+
+### Judging Criteria
+
+### How to Enter
