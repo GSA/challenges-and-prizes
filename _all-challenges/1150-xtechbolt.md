@@ -62,7 +62,7 @@ description: >-
   Key Dates are provided in the table below.
 
 
-  ![Key Dates]({{site.baseurl}}/assets/netlify-uploads/xtechbolt-key-dates.png "xTechBOLT Key Dates")
+  ![Key Dates]({{site.baseurl}}/assets/netlify-uploads/xtechbolt-key-dates-1-.png "xTechBOLT Key Dates")
 prizes: >-
   #### Total Cash Prize Pool
 
@@ -173,7 +173,7 @@ The xTechBOLT competition will provide increasing non-dilutive prizes to select 
 
 Key Dates are provided in the table below.
 
-![Key Dates]({{site.baseurl}}/assets/netlify-uploads/xtechbolt-key-dates.png "xTechBOLT Key Dates")
+![Key Dates]({{site.baseurl}}/assets/netlify-uploads/xtechbolt-key-dates-1-.png "xTechBOLT Key Dates")
 
 ### Prizes
 
