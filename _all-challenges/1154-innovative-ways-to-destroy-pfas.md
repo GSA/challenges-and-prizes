@@ -157,7 +157,7 @@ how-to-enter: >-
 ---
 ### Description
 
-\* **Important Update:** EPA will be hosting an informational webinar about the Innovative Ways to Destroy PFAS Challenge on Sept. 16 at 2 PM (ET). For more information about the webinar and to register to attend, visit [www.epa.gov/innovation/informational-webinar-innovative-ways-destroy-pfas-challenge](www.epa.gov/innovation/informational-webinar-innovative-ways-destroy-pfas-challenge).
+\* **Important Update:** EPA will be hosting an informational webinar about the Innovative Ways to Destroy PFAS Challenge on Sept. 16 at 2 PM (ET). For more information about the webinar and to register to attend, visit [](www.epa.gov/innovation/informational-webinar-innovative-ways-destroy-pfas-challenge)[https://www.epa.gov/innovation/informational-webinar-innovative-ways-destroy-pfas-challenge](ttps://www.epa.gov/innovation/informational-webinar-innovative-ways-destroy-pfas-challenge).
 
 EPA is partnering with the U.S. Department of Defense’s Strategic Environmental Research and Development Program (SERDP) and Environmental Security Technology Certification Program (ESTCP); the Environmental Council of States (ECOS) and the Environmental Research Institute of the States (ERIS); and Michigan Department of Environment, Great Lakes and Energy; and the Colorado Department of Public Health and Environment, to launch a technical challenge regarding the destruction of per- and polyfluoroalkyl substances (PFAS). The challenge asks Solvers to submit detailed plans for a non-thermal way of destroying PFAS in concentrated aqueous film forming foam (AFFF), while creating the least amount of potentially harmful byproducts.
 
