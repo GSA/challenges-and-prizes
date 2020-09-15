@@ -39,6 +39,7 @@ description: >-
 
   **Background**
 
+
   Large data sets containing personally identifiable information (PII) are exceptionally valuable resources for research and policy analysis in a host of fields such as emergency planning and epidemiology. This project seeks to engage the public in developing algorithms to de-identify data sets containing PII such that the data sets remain valuable tools yet cannot compromise the privacy of individuals whose information is contained within the data set. 
 
 
@@ -52,6 +53,7 @@ description: >-
 
 
   **Project Objectives**
+
 
   The purpose of this Challenge is to advance differential privacy technologies by building and measuring accuracy of algorithms that de-identify data sets containing time and spatial information with provable formal privacy. Public safety agencies collect extensive data containing time, geographic, and potentially personally identifiable information. These data can be an invaluable tool for policy makers, researchers, and the public in general. However, the tools do not yet exist to de-identify these data sets and preserve their utility while guaranteeing the records cannot be used to re-link to individuals. Thus, PSCR is inviting the public to explore new computational methods to de-identify these data sets and assess the quality of the output data. Some of the key features and capabilities for de-identification algorithms sought in this challenge include:
 
@@ -136,6 +138,7 @@ The Differential Privacy Temporal Map Challenge is a series of contests, with pr
 You can make a difference!  Continue reading to learn about the challenge contests and other details.  
 
 **Background**
+
 Large data sets containing personally identifiable information (PII) are exceptionally valuable resources for research and policy analysis in a host of fields such as emergency planning and epidemiology. This project seeks to engage the public in developing algorithms to de-identify data sets containing PII such that the data sets remain valuable tools yet cannot compromise the privacy of individuals whose information is contained within the data set. 
 
 Previous NIST PSCR differential privacy projects ([NIST Differential Privacy Synthetic Data Challenge](https://www.nist.gov/ctl/pscr/open-innovation-prize-challenges/past-prize-challenges/2018-differential-privacy-synthetic) and [The Unlinkable Data Challenge: Advancing Methods in Differential Privacy](https://www.nist.gov/ctl/pscr/open-innovation-prize-challenges/past-prize-challenges/2018-unlinkable-data-challenge)) demonstrated that crowdsourced challenges can make meaningful advancements in this difficult and complex field. Those previous contests raised awareness of the problem, brought in innovators from outside the privacy community, and demonstrated the value of head-to-head competitions for driving progress in data privacy.  This Differential Privacy Temporal Map Challenge hopes to build on these results by extending the reach and utility of differential privacy algorithms to new data types.
@@ -145,6 +148,7 @@ Temporal map data is of particular interest to the public safety community. Yet 
 Differential privacy is a standard that protects privacy no matter what third-party data is available.  It does so by strictly limiting what is possible to learn about any individual in the data set.
 
 **Project Objectives**
+
 The purpose of this Challenge is to advance differential privacy technologies by building and measuring accuracy of algorithms that de-identify data sets containing time and spatial information with provable formal privacy. Public safety agencies collect extensive data containing time, geographic, and potentially personally identifiable information. These data can be an invaluable tool for policy makers, researchers, and the public in general. However, the tools do not yet exist to de-identify these data sets and preserve their utility while guaranteeing the records cannot be used to re-link to individuals. Thus, PSCR is inviting the public to explore new computational methods to de-identify these data sets and assess the quality of the output data. Some of the key features and capabilities for de-identification algorithms sought in this challenge include:
 
 * Output data that satisfies formal differential privacy.
