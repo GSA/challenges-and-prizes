@@ -6,7 +6,7 @@ challenge-title: Mobilizing and Empowering the Nation and Technology to Address
 layout: front-matter-data-markdownify-content
 permalink: /challenge/MENTAL-health-social-isolation-challenge/
 challenge-id: "1140"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/mhc_challengegov_2.jpg
 agency-logo: /assets/netlify-uploads/hhs.png
@@ -24,8 +24,8 @@ type-of-challenge:
   - Software and apps
   - Analytics, visualizations, algorithms
   - Ideas
-submission-start: 2020/06/23 7:15 AM
-submission-end: 2020/09/14 11:59 PM
+submission-start: 06/23/2020 7:15 AM
+submission-end: 09/14/2020 11:59 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: "Gilbert.Thompson@acl.hhs.gov "
