@@ -6,7 +6,7 @@ permalink: /challenge/differential-privacy-temporal-map-challenge/
 challenge-id: "1162"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/nist_logo.png
+card-image: /assets/netlify-uploads/map-challenge-poster-dark-341x160.png
 agency-logo: /assets/netlify-uploads/nist_logo.png
 tagline: Help public safety agencies de-identify data and protect safety
 agency: Department of Commerce - National Institute of Standards and Technology,
