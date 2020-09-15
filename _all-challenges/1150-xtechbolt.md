@@ -6,7 +6,7 @@ permalink: /challenge/xTechBOLT/
 challenge-id: "1150"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/xtechbolt-logo-3x-1-.png
+card-image: /assets/netlify-uploads/webp.net-resizeimage-11-.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
 tagline: The US Army Medical Research and Development Command (MRDC) is
   announcing the xTech Brain Operant Learning Technology – xTechBOLT – prize
