@@ -121,11 +121,14 @@ judging: >-
 
   * Development Execution Prizes are based on how well teams execute their improvements, as described in their Development Plan.
 how-to-enter: >-
-  Visit the DrivenData website [www.drivendata.org](www.drivendata.org) to view
-  details about the challenge and contest series.
+  For the Algorithm Contest, visit the Challenge on the DrivenData
+  [website](https://deid.drivendata.org/) [](www.drivendata.org)to view details.
 
 
-  Submission URL: [www.drivendata.org](www.drivendata.org)
+  For the Metric Paper Contest, visit the Challenge on the HeroX [website](https://www.herox.com/crowdsourcing-projects) to view details.
+
+
+  For the Open Source and Development Contests, see the Official Rules for details on entering.
 ---
 ### Description
 
@@ -201,6 +204,8 @@ C. Open Source and Development Contest. Only solutions that are validated by the
 
 ### How to Enter
 
-Visit the DrivenData website [www.drivendata.org](www.drivendata.org) to view details about the challenge and contest series.
+For the Algorithm Contest, visit the Challenge on the DrivenData [website](https://deid.drivendata.org/) [](www.drivendata.org)to view details.
 
-Submission URL: [www.drivendata.org](www.drivendata.org)
+For the Metric Paper Contest, visit the Challenge on the HeroX [website](https://www.herox.com/crowdsourcing-projects) to view details.
+
+For the Open Source and Development Contests, see the Official Rules for details on entering.
