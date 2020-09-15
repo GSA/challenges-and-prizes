@@ -6,7 +6,7 @@ permalink: /challenge/xTechBOLT/
 challenge-id: "1150"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/webp.net-resizeimage-9-.png
+card-image: /assets/netlify-uploads/xtechbolt-logo-3x-1-.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
 tagline: The US Army Medical Research and Development Command (MRDC) is
   announcing the xTech Brain Operant Learning Technology – xTechBOLT – prize
@@ -20,7 +20,7 @@ type-of-challenge:
   - Analytics, visualizations, algorithms
   - Scientific
 submission-start: 2020/08/01 02:00 PM
-submission-end: "2020/10/16 11:59 PM "
+submission-end: 2020/10/17 02:59 AM
 fiscal-year: FY20, FY21, FY22
 legal-authority: Agency specific prize authority
 challenge-manager: Moriah Bartlett
@@ -28,8 +28,8 @@ challenge-manager-email: moriah.s.bartlett@civ@mail.mil
 point-of-contact: usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil
 description: >-
   **\*Important Update to Key Dates**: Please note that the Concept White Paper
-  submission deadline has been extended to 16 October, 2020, 11:59 PM ET and the
-  Invitations for the Semifinal Technology Pitch will be sent on November 9,
+  submission deadline has been extended to 16 October 2020, 11:59 PM PT and the
+  Invitations for the Semifinal Technology Pitch will be sent on 9 November,
   2020.  These changes are reflected in the Key Dates table below.
 
 
@@ -152,7 +152,7 @@ how-to-enter: >-
 ---
 ### Description
 
-**\*Important Update to Key Dates**: Please note that the Concept White Paper submission deadline has been extended to 16 October, 2020, 11:59 PM ET and the Invitations for the Semifinal Technology Pitch will be sent on November 9, 2020.  These changes are reflected in the Key Dates table below.
+**\*Important Update to Key Dates**: Please note that the Concept White Paper submission deadline has been extended to 16 October 2020, 11:59 PM PT and the Invitations for the Semifinal Technology Pitch will be sent on 9 November, 2020.  These changes are reflected in the Key Dates table below.
 
 The US Army Medical Research and Development Command (MRDC) is announcing the xTech Brain Operant Learning Technology – xTechBOLT – prize competition.  The prize competition is designed to incentivize industry to develop and demonstrate the use of one or more tool(s) (e.g., QEEG, fMRI, MEG, BIOMRK, NIRS, PET, MEA, SPECT, or other) to locate, track, and trace four types of learning traits, including explicit and implicit knowledge, from exposure to storage, and use those neural pathways to capture emotions and empathy and research a proof of concept mechanism (software or hardware, or both) that could be developed to promote optimal retention and access to memories.
 
