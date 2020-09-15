@@ -13,7 +13,7 @@ tagline: This challenge solicits software solutions to automatically generate
   single electro-optical camera imaging the traffic from a moving platform
 agency: "Department of Defense - Department of the Navy, Naval Information
   Warfare Center Pacific "
-partner-agencies-federal: Office of Naval Research, Naval STEM Coordination Office (NSCO)
+partner-agencies-federal: Naval STEM Coordination Office, managed by the Office of Naval Research
 total-prize-offered-cash: $200,000
 type-of-challenge:
   - Software and apps
@@ -27,14 +27,15 @@ challenge-manager: Mike Tall, Anthony Jones
 challenge-manager-email: michael.tall@spawar.navy.mil, adjones3@spawar.navy.mil
 point-of-contact: michael.tall@spawar.navy.mil
 description: The Naval Information Warfare Center Pacific (NIWC PAC) and the
-  Office of Naval Research Science, Technology, Education, and Math (ONR STEM)
-  are conducting the Artificial Intelligence Tracks at Sea challenge.  The goal
-  of this challenge is to engage with the workforce of tomorrow on challenging
-  and relevant Naval problems.  The need here is to augment unmanned surface
-  vehicles’ (USVs’) maritime contact tracking capability.  Current traffic
-  avoidance software relies on AIS and radar for tracking other craft and
-  avoiding collisions.  However, in a contested environment, emitting radar
-  energy presents a vulnerability to detection by adversaries.  Deactivating RF
+  Naval Science, Technology, Engineering, and Mathematics (STEM) Coordination
+  Office, managed by the Office of Naval Research are conducting the Artificial
+  Intelligence Tracks at Sea challenge.  The goal of this challenge is to engage
+  with the workforce of tomorrow on challenging and relevant Naval
+  problems.  The need here is to augment unmanned surface vehicles’ (USVs’)
+  maritime contact tracking capability.  Current traffic avoidance software
+  relies on AIS and radar for tracking other craft and avoiding
+  collisions.  However, in a contested environment, emitting radar energy
+  presents a vulnerability to detection by adversaries.  Deactivating RF
   transmitting sources mitigates the threat of detection, but without additional
   sensing and sensor fusion, it would also degrade the USV’s ability to monitor
   shipping traffic in its vicinity.  The technology developed for this prize
@@ -92,7 +93,7 @@ rules: >-
   **Tool Submission Guidelines**:
 
 
-  Submissions shall use docker and shall provide a container that the Challenge Manager can run along with a copy of their source code.  A good introductory example can be see [here](https://docker-curriculum.com/) (https://docker-curriculum.com/).
+  Submissions shall use docker and shall provide a container that the Challenge Manager can run along with a copy of their source code.  A good introductory example can be seen [here](https://docker-curriculum.com/) (https://docker-curriculum.com/).
 
 
   Submitters tool shall provide a command line executable container that will take four arguments:
@@ -133,7 +134,7 @@ rules: >-
   #### Eligibility
 
 
-  This challenge is open to only students at accredited higher education institutions.  The funds used for this challenge are provided by ONR STEM programs that normally would have supported summer internships, however due to COVID-19, the internships were curtailed this summer.  This challenge promotes additional Navy engagement with academia.
+  This challenge is open to only students at accredited higher education institutions. The funds used for this challenge are provided by the Naval STEM Coordination Office, managed by the Office of Naval Research that would have normally would have supported summer internships, however due to COVID-19, the internships were curtailed this summer.  This challenge promotes additional Navy engagement with academia.
 
 
   All Teams must have a Taxpayer Identification Number (TIN) or Employer Identification Number (EIN) in order to receive a prize. Eligibility is subject to verification before any prize is awarded.
@@ -241,7 +242,7 @@ how-to-enter: >-
 ---
 ### Description
 
-The Naval Information Warfare Center Pacific (NIWC PAC) and the Office of Naval Research Science, Technology, Education, and Math (ONR STEM) are conducting the Artificial Intelligence Tracks at Sea challenge.  The goal of this challenge is to engage with the workforce of tomorrow on challenging and relevant Naval problems.  The need here is to augment unmanned surface vehicles’ (USVs’) maritime contact tracking capability.  Current traffic avoidance software relies on AIS and radar for tracking other craft and avoiding collisions.  However, in a contested environment, emitting radar energy presents a vulnerability to detection by adversaries.  Deactivating RF transmitting sources mitigates the threat of detection, but without additional sensing and sensor fusion, it would also degrade the USV’s ability to monitor shipping traffic in its vicinity.  The technology developed for this prize challenge will solve this problem by developing a computer vision system that will plot the tracks of shipping traffic exclusively using the passive sensing capability of onboard cameras.  This technology would also be applicable for the Navy to document vessels performing unsafe navigation on the high seas.
+The Naval Information Warfare Center Pacific (NIWC PAC) and the Naval Science, Technology, Engineering, and Mathematics (STEM) Coordination Office, managed by the Office of Naval Research are conducting the Artificial Intelligence Tracks at Sea challenge.  The goal of this challenge is to engage with the workforce of tomorrow on challenging and relevant Naval problems.  The need here is to augment unmanned surface vehicles’ (USVs’) maritime contact tracking capability.  Current traffic avoidance software relies on AIS and radar for tracking other craft and avoiding collisions.  However, in a contested environment, emitting radar energy presents a vulnerability to detection by adversaries.  Deactivating RF transmitting sources mitigates the threat of detection, but without additional sensing and sensor fusion, it would also degrade the USV’s ability to monitor shipping traffic in its vicinity.  The technology developed for this prize challenge will solve this problem by developing a computer vision system that will plot the tracks of shipping traffic exclusively using the passive sensing capability of onboard cameras.  This technology would also be applicable for the Navy to document vessels performing unsafe navigation on the high seas.
 
 ### Prizes
 
@@ -278,7 +279,7 @@ White papers should provide an overview of the proposed technology and technical
 
 **Tool Submission Guidelines**:
 
-Submissions shall use docker and shall provide a container that the Challenge Manager can run along with a copy of their source code.  A good introductory example can be see [here](https://docker-curriculum.com/) (https://docker-curriculum.com/).
+Submissions shall use docker and shall provide a container that the Challenge Manager can run along with a copy of their source code.  A good introductory example can be seen [here](https://docker-curriculum.com/) (https://docker-curriculum.com/).
 
 Submitters tool shall provide a command line executable container that will take four arguments:
 
@@ -304,7 +305,7 @@ The Participant agrees to comply with and be bound by the AI Tracks at Sea Chall
 
 #### Eligibility
 
-This challenge is open to only students at accredited higher education institutions.  The funds used for this challenge are provided by ONR STEM programs that normally would have supported summer internships, however due to COVID-19, the internships were curtailed this summer.  This challenge promotes additional Navy engagement with academia.
+This challenge is open to only students at accredited higher education institutions. The funds used for this challenge are provided by the Naval STEM Coordination Office, managed by the Office of Naval Research that would have normally would have supported summer internships, however due to COVID-19, the internships were curtailed this summer.  This challenge promotes additional Navy engagement with academia.
 
 All Teams must have a Taxpayer Identification Number (TIN) or Employer Identification Number (EIN) in order to receive a prize. Eligibility is subject to verification before any prize is awarded.
 
