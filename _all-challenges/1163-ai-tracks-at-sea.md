@@ -11,8 +11,8 @@ agency-logo: /assets/netlify-uploads/don-seal_v2.png
 tagline: This challenge solicits software solutions to automatically generate
   georeferenced tracks of maritime vessel traffic based on data recorded from a
   single electro-optical camera imaging the traffic from a moving platform
-agency: Department of Defense - Department of the Navy, Naval Information
-  Warfare Center Pacific (NIWC PAC)
+agency: "Department of Defense - Department of the Navy, Naval Information
+  Warfare Center Pacific "
 partner-agencies-federal: Office of Naval Research, Naval STEM Coordination Office (NSCO)
 total-prize-offered-cash: $200,000
 type-of-challenge:
