@@ -8,7 +8,7 @@ status: open
 sidenav: true
 card-image: /assets/netlify-uploads/deid2-pscr-logo-341x160.png
 agency-logo: /assets/netlify-uploads/nist_logo.png
-tagline: Help public safety agencies de-identify data and protect safety
+tagline: Help public safety agencies share data while protecting privacy.
 agency: Department of Commerce - National Institute of Standards and Technology,
   Public Safety Communications Research (PSCR) Division
 partners-non-federal: DrivenData, HeroX, Knexus Research
@@ -84,7 +84,7 @@ description: >-
   **Timeline for Metric Paper Contest**
 
 
-  ![Timeline for Metric Paper Contest]({{site.baseurl}}/assets/netlify-uploads/nist-differential-privacy-temporal-map-challenge-table-1.png "Timeline for Metric Paper Contest")
+  ![Timeline for Metric Paper Contest]({site.baseurl}}/assets/netlify-uploads/nist-differential-privacy-temporal-map-challenge-table-1-1-.png "Timeline for Metric Paper Contest")
 
 
   **Timeline for Algorithm Contest**
@@ -170,7 +170,7 @@ NIST PSCR seeks to incentivize participants to develop their algorithms into too
 
 **Timeline for Metric Paper Contest**
 
-![Timeline for Metric Paper Contest]({{site.baseurl}}/assets/netlify-uploads/nist-differential-privacy-temporal-map-challenge-table-1.png "Timeline for Metric Paper Contest")
+![Timeline for Metric Paper Contest]({site.baseurl}}/assets/netlify-uploads/nist-differential-privacy-temporal-map-challenge-table-1-1-.png "Timeline for Metric Paper Contest")
 
 **Timeline for Algorithm Contest**
 
