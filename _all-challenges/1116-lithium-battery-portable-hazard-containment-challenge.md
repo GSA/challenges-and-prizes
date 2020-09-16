@@ -27,9 +27,19 @@ challenge-manager: Marissa Wagler
 challenge-manager-email: marissa.wagler@navy.mil
 point-of-contact: marissa.wagler@navy.mil
 description: >-
-  **Five (5) participants have been selected to participate in Phase II of the
-  Lithium Battery Man Portable Hazard Containment Prize Challenge. Participant
-  names are listed below in alphabetical order:**
+  **Three (3) participants have been selected for invitation to participate in
+  Phase III of the Lithium Battery Man Portable Hazard Containment Prize
+  Challenge. Participant names are listed below in alphabetical order:**
+
+
+  1. Fire Containment Concepts
+
+  2. Mistral, Inc.
+
+  3. Zarges, Inc.
+
+
+  Five (5) participants were selected to participate in Phase II of the Lithium Battery Man Portable Hazard Containment Prize Challenge. Participant names are listed below in alphabetical order:
 
 
   1. Americase, LLC
@@ -41,6 +51,8 @@ description: >-
   4. Texas Research Institute – Austin
 
   5. Zarges Inc.
+
+
 
 
   Earlier, fourteen (14) participants were invited to provide a virtual presentation of their submitted white paper concept to the Lithium Battery Man Portable Hazard Containment Prize Challenge judging panel. Invited participant names are listed below in alphabetical order:
@@ -614,7 +626,13 @@ how-to-enter: >-
 ---
 ### Description
 
-**Five (5) participants have been selected to participate in Phase II of the Lithium Battery Man Portable Hazard Containment Prize Challenge. Participant names are listed below in alphabetical order:**
+**Three (3) participants have been selected for invitation to participate in Phase III of the Lithium Battery Man Portable Hazard Containment Prize Challenge. Participant names are listed below in alphabetical order:**
+
+1. Fire Containment Concepts
+2. Mistral, Inc.
+3. Zarges, Inc.
+
+Five (5) participants were selected to participate in Phase II of the Lithium Battery Man Portable Hazard Containment Prize Challenge. Participant names are listed below in alphabetical order:
 
 1. Americase, LLC
 2. Fire Containment Concepts
