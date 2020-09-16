@@ -4,7 +4,7 @@ challenge-title: Lithium Battery Man Portable Hazard Containment Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/lithium-battery-man-portable-containment/
 challenge-id: "1116"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/challenge-gov.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
