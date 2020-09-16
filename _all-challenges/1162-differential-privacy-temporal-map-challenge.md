@@ -125,7 +125,7 @@ how-to-enter: >-
   [website](https://deid.drivendata.org/) [](www.drivendata.org)to view details.
 
 
-  For the Metric Paper Contest, visit the Challenge on the HeroX [website](https://www.herox.com/crowdsourcing-projects) to view details.
+  For the Metric Paper Contest, visit the Challenge on the HeroX [website](https://www.herox.com/bettermeterstick) to view details.
 
 
   For the Open Source and Development Contests, see the Official Rules for details on entering.
@@ -206,6 +206,6 @@ C. Open Source and Development Contest. Only solutions that are validated by the
 
 For the Algorithm Contest, visit the Challenge on the DrivenData [website](https://deid.drivendata.org/) [](www.drivendata.org)to view details.
 
-For the Metric Paper Contest, visit the Challenge on the HeroX [website](https://www.herox.com/crowdsourcing-projects) to view details.
+For the Metric Paper Contest, visit the Challenge on the HeroX [website](https://www.herox.com/bettermeterstick) to view details.
 
 For the Open Source and Development Contests, see the Official Rules for details on entering.
