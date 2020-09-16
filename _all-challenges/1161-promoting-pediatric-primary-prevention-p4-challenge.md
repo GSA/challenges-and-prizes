@@ -7,7 +7,7 @@ challenge-id: "1161"
 status: open
 sidenav: true
 card-image: /assets/netlify-uploads/webp.net-resizeimage-2-.jpg
-agency-logo: /assets/netlify-uploads/hhs.png
+agency-logo: /assets/netlify-uploads/webp.net-resizeimage-2-.jpg
 tagline: Innovations in Pediatric Primary Care to Improve Child Health
 agency: Department of Health and Human Services - Health Resources and Services
   Administration, Maternal and Child Health Bureau
