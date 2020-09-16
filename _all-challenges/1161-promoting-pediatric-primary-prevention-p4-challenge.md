@@ -145,7 +145,7 @@ judging: >-
   * plans for sustainability; and 
 
   * potential for adoption/adaption for other settings.
-how-to-enter: "Submission URL:"
+how-to-enter: Please check back here for submission information.
 ---
 ### Description
 
@@ -163,9 +163,7 @@ Applicants will propose and implement innovative approaches to increase well-chi
 
 A prize purse of $1,000,000 is available for this prize challenge. The Phase 1 prize purse is $500,000. We expect to select up to 50 Phase 1 winners to progress on to Phase II. Each Phase 1 winner will win $10,000 upon selection. Please note - in the event we choose fewer than 50 Phase 1 winners, the $500,000 will be split evenly among those teams selected.
 
-
 The Phase 2 prize purse is $500,000. We expect to award up to 20 Phase 2 winners who will each be awarded up to $25,000. Please note - in the event we choose fewer than 20 Phase 2 winners, the $500,000 will be split evenly among those teams selected.
-
 
 #### Non-monetary Prizes: 
 
@@ -173,7 +171,7 @@ Winning approaches will be promoted widely by MCHB and key partners.
 
 ### Rules
 
-#### Eligibility: 
+#### Eligibility:
 
 To be eligible to win a prize under this Challenge, an individual or entity:
 
@@ -225,4 +223,4 @@ Performance measures may include:
 
 ### How to Enter
 
-Submission URL:
+Please check back here for submission information.
