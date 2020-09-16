@@ -19,7 +19,7 @@ total-prize-offered-cash: $40,000
 type-of-challenge:
   - Ideas
 submission-start: 2020/09/16 08:00 AM
-submission-end: 2020/11/12 5:00 PM
+submission-end: 2020/11/12 7:59 PM
 fiscal-year: FY20, FY21
 legal-authority: Procurement Authority
 challenge-manager: Chad Hammons
