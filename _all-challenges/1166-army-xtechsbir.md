@@ -29,17 +29,17 @@ point-of-contact: usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil
 description: >-
   The U.S. Army would like to invite interested companies to participate in the
   xTech Small Business Innovation Research (SBIR) Direct to Phase II (D2PhII)
-  Technology Briefs, being tentatively held 9-13 November 2020. The xTech | SBIR
+  Technology Briefs, being tentatively held 9-13 November 2020. The xTech SBIR
   D2PhII Technology event will provide a forum for small businesses to
   collaborate with the Army, earn prize money, and engage with other
-  non-traditional Army partners. Winners of the xTech | SBIR D2PhII Technology
+  non-traditional Army partners. Winners of the xTech SBIR D2PhII Technology
   event will be invited to submit a D2PhII SBIR proposal to prototype their
   proposed technology innovations. Prize money will be awarded to selected
   projects through the Army xTech program and D2PhII SBIR awards will be
   available through the Army SBIR program.
 
 
-  The purpose of the xTech | SBIR D2PhII pilot is to accelerate technology prototypes for crucial Army capability gaps into military platform. Submissions will be open to technology solutions that may considerably improve Army platforms, Army weapons systems, or Army support systems in one of the six (6) topic areas listed below.
+  The purpose of the xTech SBIR D2PhII pilot is to accelerate technology prototypes for crucial Army capability gaps into military platform. Submissions will be open to technology solutions that may considerably improve Army platforms, Army weapons systems, or Army support systems in one of the six (6) topic areas listed below.
 
 
   The prize challenge will be used to identify small business concerns that meet the criteria for award of a D2PhII contract under 15 U.S.C. §638. Winners of the prize competition will be the only firms eligible to submit a D2PhII SBIR proposal under the topics listed in this announcement. A separate SBIR D2PhII announcement will be issued concurrent with this prize competition announcement.
@@ -161,7 +161,7 @@ judging: >-
   #### Judging Criteria
 
 
-  The Government anticipates quad chart submissions will be evaluated and ranked using the following scoring criteria (further details on each scoring dimension can be found on the xTech|SBIR D2PhII registration page):
+  The Government anticipates quad chart submissions will be evaluated and ranked using the following scoring criteria (further details on each scoring dimension can be found on the xTech SBIR D2PhII registration page):
 
 
   * Technical Feasibility– 50%
@@ -214,7 +214,7 @@ how-to-enter: >-
 
 The U.S. Army would like to invite interested companies to participate in the xTech Small Business Innovation Research (SBIR) Direct to Phase II (D2PhII) Technology Briefs, being tentatively held 9-13 November 2020. The xTech SBIR D2PhII Technology event will provide a forum for small businesses to collaborate with the Army, earn prize money, and engage with other non-traditional Army partners. Winners of the xTech SBIR D2PhII Technology event will be invited to submit a D2PhII SBIR proposal to prototype their proposed technology innovations.  Prize money will be awarded to selected projects through the Army xTech program and D2PhII SBIR awards will be available through the Army SBIR program.  
 
-The purpose of the xTech | SBIR D2PhII pilot is to accelerate technology prototypes for crucial Army capability gaps into military platform. Submissions will be open to technology solutions that may considerably improve Army platforms, Army weapons systems, or Army support systems in one of the six (6) topic areas listed below.
+The purpose of the xTech SBIR D2PhII pilot is to accelerate technology prototypes for crucial Army capability gaps into military platform. Submissions will be open to technology solutions that may considerably improve Army platforms, Army weapons systems, or Army support systems in one of the six (6) topic areas listed below.
 
 The prize challenge will be used to identify small business concerns that meet the criteria for award of a D2PhII contract under 15 U.S.C. §638. Winners of the prize competition will be the only firms eligible to submit a D2PhII SBIR proposal under the topics listed in this announcement. A separate SBIR D2PhII announcement will be issued concurrent with this prize competition announcement. 
 
@@ -302,7 +302,7 @@ The quad chart and optional video submissions will be evaluated by a team of Arm
 
 #### Judging Criteria
 
-The Government anticipates quad chart submissions will be evaluated and ranked using the following scoring criteria (further details on each scoring dimension can be found on the xTech|SBIR D2PhII registration page):
+The Government anticipates quad chart submissions will be evaluated and ranked using the following scoring criteria (further details on each scoring dimension can be found on the xTech SBIR D2PhII registration page):
 
 * Technical Feasibility– 50%
 * Commercialization Potential – 20%
