@@ -86,16 +86,6 @@ prizes: >-
   * 2nd place team: $2,500.00
 
   * 3rd place team: $2,500.00
-
-
-  We have completed our first round of judging and are excited to announce the three semi-finalists for our AI/ML Challenge 2020.  They are:
-
-
-  * Team #7 - bryantFour
-
-  * Team #9 - Dev Technology
-
-  * Team #21 - Gaussian Solutions
 rules: >-
   #### Eligibility to Participate:
 
@@ -413,12 +403,6 @@ Prizes will be distributed to the eligible winners via electronic funds transfer
 * 1st place team: $15,000.00
 * 2nd place team: $2,500.00
 * 3rd place team: $2,500.00 
-
-We have completed our first round of judging and are excited to announce the three semi-finalists for our AI/ML Challenge 2020.  They are:
-
-* Team #7 - bryantFour
-* Team #9 - Dev Technology
-* Team #21 - Gaussian Solutions
 
 ### Rules
 
