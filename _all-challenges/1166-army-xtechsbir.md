@@ -48,7 +48,7 @@ description: >-
   The proposed schedule for this challenge is:
 
 
-  ![Challenge Schedule](blob:https://www.challenge.gov/ef1c050e-b428-421d-96ef-83f03e0b61a3 "Challenge Schedule")
+  ![Challenge Schedule]({{site.baseurl}}/assets/netlify-uploads/xtech-sbir.png "Challenge Schedule")
 
 
   Submissions that do not address the problem statements below will not be considered for this effort. The efforts described in this Notice are being pursued under the authorities of 10 USC 2374a, 10 USC 2371b, and 15 USC 638. All participants must qualify as a US-based small business concern as defined by 13 C.F.R §§ 701-705 and certify to this upon technology proposal submission. Participants must meet eligibility requirements for Small Business Ownership and Control (see 13 CFR § 121.702). Submissions that do not address the problem statements below or submitted from non U.S.-based companies or organizations will not be considered for the prize competition.
@@ -91,7 +91,7 @@ description: >-
 
 
   Problem Statement F: Demonstrate the ability to employ technologies and associated algorithms and techniques via new or existing sensors and telematics to create advanced prognostics and diagnostics methodologies for future and current Army vehicles. The focus of this topic is to anticipate component failures and reduce the amount of unplanned maintenance resulting is increased readiness of the fleet.
-prizes: >-
+prizes: >
   #### Total Cash Prize Pool
 
 
@@ -104,7 +104,7 @@ prizes: >-
   #### Prize Breakdown
 
 
-  ![Prize Breakdown](blob:https://www.challenge.gov/3ff2cae8-0684-46e9-bafd-dfb47b2da390 "Prize Breakdown")
+  ![Prize Breakdown]({{site.baseurl}}/assets/netlify-uploads/xtech-sbir-table2.png "Prize Breakdown")
 rules: >-
   The prize challenge will be used to identify small business concerns that meet
   the criteria for award of a D2PhII contract under 15 U.S.C. §638. Winners of
