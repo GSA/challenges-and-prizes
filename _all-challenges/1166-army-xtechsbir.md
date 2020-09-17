@@ -212,9 +212,9 @@ how-to-enter: >-
 ---
 ### Description
 
-The U.S. Army would like to invite interested companies to participate in the xTech Small Business Innovation Research (SBIR) Direct to Phase II (D2PhII) Technology Briefs, being tentatively held 9-13 November 2020.  The xTech | SBIR D2PhII Technology event will provide a forum for small businesses to collaborate with the Army, earn prize money, and engage with other non-traditional Army partners.  Winners of the xTech | SBIR D2PhII Technology event will be invited to submit a D2PhII SBIR proposal to prototype their proposed technology innovations.  Prize money will be awarded to selected projects through the Army xTech program and D2PhII SBIR awards will be available through the Army SBIR program.  
+The U.S. Army would like to invite interested companies to participate in the xTech Small Business Innovation Research (SBIR) Direct to Phase II (D2PhII) Technology Briefs, being tentatively held 9-13 November 2020. The xTech SBIR D2PhII Technology event will provide a forum for small businesses to collaborate with the Army, earn prize money, and engage with other non-traditional Army partners. Winners of the xTech SBIR D2PhII Technology event will be invited to submit a D2PhII SBIR proposal to prototype their proposed technology innovations.  Prize money will be awarded to selected projects through the Army xTech program and D2PhII SBIR awards will be available through the Army SBIR program.  
 
-The purpose of the xTech | SBIR D2PhII pilot is to accelerate technology prototypes for crucial Army capability gaps into military platform. Submissions will be open to technology solutions that may considerably improve Army platforms, Army weapons systems, or Army support systems in one of the six (6) topic areas listed below. 
+The purpose of the xTech | SBIR D2PhII pilot is to accelerate technology prototypes for crucial Army capability gaps into military platform. Submissions will be open to technology solutions that may considerably improve Army platforms, Army weapons systems, or Army support systems in one of the six (6) topic areas listed below.
 
 The prize challenge will be used to identify small business concerns that meet the criteria for award of a D2PhII contract under 15 U.S.C. §638. Winners of the prize competition will be the only firms eligible to submit a D2PhII SBIR proposal under the topics listed in this announcement. A separate SBIR D2PhII announcement will be issued concurrent with this prize competition announcement. 
 
@@ -317,7 +317,7 @@ The process of this competition will consist of the following three (3) Stages:
 * Stage B –Presentations at xTech|SBIR D2PhII Technology Event
 * Stage C – Request for SBIR D2PhII Proposals from the Stage B winners
 
-In Stage A, the Government will release a prize competition announcement, evaluate all submissions and select up to 12 projects per topic area to receive a prize award of $2,000 each. The companies that are selected for the prize award will be invited to attend and participate in the xTech | SBIR D2PhII Technology Day. 
+In Stage A, the Government will release a prize competition announcement, evaluate all submissions and select up to 12 projects per topic area to receive a prize award of $2,000 each. The companies that are selected for the prize award will be invited to attend and participate in the xTech SBIR D2PhII Technology Day. 
 
 All interested companies shall submit a quad chart and optional 3 minute video outlining their technology feasibility and Army impact, commercialization potential, and team abilities.  The quad chart and optional video submissions will be evaluated by a team of Army subject matter experts, including technical, acquisition and user experts.  The review will evaluate the extent, insofar as possible, that the scientific and technical merit and feasibility of ideas presented appear to provide utility in meeting the identified topic challenge and to the extent practical identify commercial potential. 
 
@@ -327,7 +327,7 @@ Quad chart submissions must adhere to the following requirements:
 * Submissions that do not address one (1) of the problem statements will not be considered for this notice.
 * All quad chart submissions must be received by 11:59 PM PST on 9 October 2020. Submissions received after the deadline will not be considered. 
 
-Up to 12 projects per technical topic with the highest ranking quad chart submissions will receive a prize of $2,000 and those companies will be invited to attend the xTech|SBIR D2PhII Technology Day, being tentatively held 9-13 November 2020.
+Up to 12 projects per technical topic with the highest ranking quad chart submissions will receive a prize of $2,000 and those companies will be invited to attend the xTech SBIR D2PhII Technology Day, being tentatively held 9-13 November 2020.
 
 In Stage B, the up to twelve (12) companies per topic area will present their technology solution live to a panel of Army subject matter experts (SME), which will include a questions and answers session.
 
