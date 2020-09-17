@@ -91,6 +91,20 @@ description: >-
 
 
   Problem Statement F: Demonstrate the ability to employ technologies and associated algorithms and techniques via new or existing sensors and telematics to create advanced prognostics and diagnostics methodologies for future and current Army vehicles. The focus of this topic is to anticipate component failures and reduce the amount of unplanned maintenance resulting is increased readiness of the fleet.
+prizes: >-
+  #### Total Cash Prize Pool
+
+
+  $864,000
+
+
+  Prizes will be offered under 10 USC 2374A (prize competitions). The total prize award pool is $864,000. The Direct to Phase II SBIR awards will be offered under 15 USC 638 and can be up to $1,670,000 per award.
+
+
+  #### Prize Breakdown
+
+
+  ![Prize Breakdown](blob:https://www.challenge.gov/3ff2cae8-0684-46e9-bafd-dfb47b2da390 "Prize Breakdown")
 rules: >-
   The prize challenge will be used to identify small business concerns that meet
   the criteria for award of a D2PhII contract under 15 U.S.C. §638. Winners of
@@ -237,6 +251,16 @@ Problem Statement E: Army manned and unmanned vehicles must be able to perform t
 Problem Statement F: Demonstrate the ability to employ technologies and associated algorithms and techniques via new or existing sensors and telematics to create advanced prognostics and diagnostics methodologies for future and current Army vehicles. The focus of this topic is to anticipate component failures and reduce the amount of unplanned maintenance resulting is increased readiness of the fleet.
 
 ### Prizes
+
+#### Total Cash Prize Pool
+
+$864,000
+
+Prizes will be offered under 10 USC 2374A (prize competitions). The total prize award pool is $864,000. The Direct to Phase II SBIR awards will be offered under 15 USC 638 and can be up to $1,670,000 per award.
+
+#### Prize Breakdown
+
+![Prize Breakdown]({{site.baseurl}}/assets/netlify-uploads/xtech-sbir-table2.png "Prize Breakdown")
 
 ### Rules
 
