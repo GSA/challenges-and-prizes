@@ -20,7 +20,7 @@ type-of-challenge:
   - Analytics, visualizations, algorithms
   - Scientific
 submission-start: 2020/09/16 5:00 PM
-submission-end: 2020/10/09 11:59 PM
+submission-end: 2020/10/10 02:59 AM
 fiscal-year: FY20, FY21
 legal-authority: Agency specific prize authority
 challenge-manager: Zeke Topolosky
@@ -178,7 +178,7 @@ how-to-enter: >-
 
   * Stage A – Request for Quad Chart
 
-  * Stage B –Presentations at xTech|SBIR D2PhII Technology Event
+  * Stage B –Presentations at xTech SBIR D2PhII Technology Event
 
   * Stage C – Request for SBIR D2PhII Proposals from the Stage B winners
 
@@ -314,7 +314,7 @@ The Government anticipates quad chart submissions will be evaluated and ranked u
 The process of this competition will consist of the following three (3) Stages:
 
 * Stage A – Request for Quad Chart
-* Stage B –Presentations at xTech|SBIR D2PhII Technology Event
+* Stage B –Presentations at xTech SBIR D2PhII Technology Event
 * Stage C – Request for SBIR D2PhII Proposals from the Stage B winners
 
 In Stage A, the Government will release a prize competition announcement, evaluate all submissions and select up to 12 projects per topic area to receive a prize award of $2,000 each. The companies that are selected for the prize award will be invited to attend and participate in the xTech SBIR D2PhII Technology Day. 
