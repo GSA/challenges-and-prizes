@@ -6,7 +6,7 @@ permalink: /challenge/army-xtech-sbir/
 challenge-id: "1166"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/xtechsbir-3x.png
+card-image: /assets/netlify-uploads/xtechsbir-logo_challengegov.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
 tagline: Winners of the Army xTech | SBIR Technology event will be invited to
   submit a Direct to Phase II Small Business Innovative Research (SBIR) proposal
