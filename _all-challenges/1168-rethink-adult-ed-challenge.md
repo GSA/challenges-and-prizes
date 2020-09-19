@@ -156,11 +156,11 @@ Up to a maximum of 25 points may be assigned during the judging of Stage 1 submi
 
 Up to a maximum of 25 points may be assigned during the judging of Stage 2 submissions. Independent panelists and/or judges with expertise relevant to the selection criteria may assign 1-5 points for each selection criterion described below.
 
-1. Local or national need: Extent to which the entrant demonstrates local or national industry demand for more skilled workers in the relevant field. 
-2. Industry connection: Extent to which the entrant has established partnership commitments to facilitate placements in apprenticeships or other industry roles with opportunities for progression. 
-3. Skill advancement: Extent to which the program will deliver adult education and literacy activities that will equip participants with the necessary academic, occupational, and workplace skills and credentials needed to enter apprenticeships or other industry roles with opportunities for progression. 
-4. Learner focused: Extent to which the program reflects the interests and needs of the target adult learners, such as through tailored outreach strategies and support services.
-5. Team: Extent to which the entrant demonstrates the necessary skills, resources, and commitment to establish and deliver a high-quality pre-apprenticeship program beyond the challenge.
+1. **Local or national need**: Extent to which the entrant demonstrates local or national industry demand for more skilled workers in the relevant field. 
+2. **Industry connection**: Extent to which the entrant has established partnership commitments to facilitate placements in apprenticeships or other industry roles with opportunities for progression. 
+3. **Skill advancement**: Extent to which the program will deliver adult education and literacy activities that will equip participants with the necessary academic, occupational, and workplace skills and credentials needed to enter apprenticeships or other industry roles with opportunities for progression. 
+4. **Learner focused**: Extent to which the program reflects the interests and needs of the target adult learners, such as through tailored outreach strategies and support services.
+5. **Team**: Extent to which the entrant demonstrates the necessary skills, resources, and commitment to establish and deliver a high-quality pre-apprenticeship program beyond the challenge.
 
 ### How to Enter
 
