@@ -6,7 +6,7 @@ permalink: /challenge/2021-faa-challenge-smart-airport-student-competition/
 challenge-id: "1169"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/faa-challenge-logo-for-challengegov.png
+card-image: /assets/netlify-uploads/webp.net-resizeimage-12-.png
 agency-logo: /assets/netlify-uploads/FAA_seal.png
 tagline: The FAA challenges undergraduate and graduate students to develop
   innovative ways to use smart technology in and around airports to enhance the
