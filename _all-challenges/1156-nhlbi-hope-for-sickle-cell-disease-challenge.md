@@ -230,20 +230,16 @@ how-to-enter: >-
   * Name, school affiliation, and position of the team mentor(s)
 
 
-  *Emails registering teams must be submitted to [SCDChallenge@nhlbi.nih.gov](mailto:SCDChallenge@nhlbi.nih.gov) by 11:59 PM EST, February 29, 2021.*
-
+  *Emails registering teams must be submitted to [SCDChallenge@nhlbi.nih.gov](mailto:SCDChallenge@nhlbi.nih.gov) by 11:59 PM EST, February 26, 2021.*
 
 
   #### Tool Submission Requirements
 
 
-
   Each Tool submitted for this Challenge requires a complete “Tool Submission Package.” The Team Captain identified through the Registration Process should submit the Tool Submission Package on behalf of the team and will serve as a point of contact. Only complete and correctly formatted Tool Submission Packages will be reviewed. Detailed instructions on the content of the Tool Submission Package are listed below. 
 
 
-
   ***Submit the Tool Submission Package to SCDChallenge@nhlbi.nih.gov by 11:59 PM EST, March 26, 2021.*** The Team Captain will receive notification by email that the Team’s Tool submission Package has been received.
-
 
 
   Each Student Team will submit a creative and innovative Tool using any combination of media that is designed to increase public awareness of SCD. Examples of include, but are not limited to, a video (documentaries, testimonials, etc.), a software application, a game (board, computer, interactive, etc.), a website, a book (children’s books, k-12 learning tools, etc.), a marketing campaign, a social media campaign, music or a song, a grassroots campaign, or an exhibit. All original materials must be written or composed in English. A complete Tool Submission Package is defined as including the following:
@@ -263,10 +259,9 @@ how-to-enter: >-
 
   * A set of ten slides (approximately 15-minute presentation) in PDF format that describes the Tool. The slides must address the judging criteria and describe the key features of the Tool as they relate to the goals of the Challenge.
 
-
     The Tool must not use HHS, NIH, or NHLBI logos or official seals. The Tool must not claim endorsement by HHS, NIH, or NHLBI. Each Student Team is required to make the Tool compliant with Section 508 accessibility and usability requirements at their own expense. 
 
-  **Submission Email:** <SCDChallenge@nhlbi.nih.gov>
+  **Submission Email:** [SCDChallenge@nhlbi.nih.gov](mailto:SCDChallenge@nhlbi.nih.gov)
 ---
 ### Description
 
@@ -412,7 +407,7 @@ Teams must register to participate in the NHLBI Hope for Sickle Cell Disease Cha
 * Name and school affiliation of every team member 
 * Name, school affiliation, and position of the team mentor(s)
 
-*Emails registering teams must be submitted to [SCDChallenge@nhlbi.nih.gov](mailto:SCDChallenge@nhlbi.nih.gov) by 11:59 PM EST, February 29, 2021.*
+*Emails registering teams must be submitted to [SCDChallenge@nhlbi.nih.gov](mailto:SCDChallenge@nhlbi.nih.gov) by 11:59 PM EST, February 26, 2021.*
 
 #### Tool Submission Requirements
 
