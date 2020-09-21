@@ -4,7 +4,7 @@ challenge-title: Health+ Sickle Cell Disease Healthathon
 layout: front-matter-data-markdownify-content
 permalink: /challenge/health+-sickle-cell-disease-healthathon/
 challenge-id: "1153"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/challenge_card_08202020.png
 agency-logo: /assets/netlify-uploads/hhs.png
@@ -22,8 +22,8 @@ type-of-challenge:
   - Analytics, visualizations, algorithms
   - Scientific
   - Nominations
-submission-start: 2020/09/07 06:00 AM
-submission-end: 2020/09/18 11:59 PM
+submission-start: 09/07/2020 06:00 AM
+submission-end: 09/18/2020 11:59 PM
 fiscal-year: FY20
 legal-authority: Other
 challenge-manager: Alex Wilson
