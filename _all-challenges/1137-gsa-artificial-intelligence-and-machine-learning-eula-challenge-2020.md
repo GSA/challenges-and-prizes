@@ -88,14 +88,14 @@ prizes: >-
   * 3rd place team: $2,500.00
 
 
-  We have completed our first round of judging and are excited to announce the three semi-finalists for our AI/ML Challenge 2020.  They are:
+  We are proud to announce the final winners of our AI/ML Challenge 2020.  They are:
 
 
-  * Team #7 - bryantFour
+  * 1st Place: Dev Technology
 
-  * Team #9 - Dev Technology
+  * 2nd Place: Gaussian Solutions
 
-  * Team #21 - Gaussian Solutions
+  * 3rd Place: Team SoKat
 rules: >-
   #### Eligibility to Participate:
 
@@ -414,11 +414,11 @@ Prizes will be distributed to the eligible winners via electronic funds transfer
 * 2nd place team: $2,500.00
 * 3rd place team: $2,500.00 
 
-We have completed our first round of judging and are excited to announce the three semi-finalists for our AI/ML Challenge 2020.  They are:
+We are proud to announce the final winners of our AI/ML Challenge 2020.  They are:
 
-* Team #7 - bryantFour
-* Team #9 - Dev Technology
-* Team #21 - Gaussian Solutions
+* 1st Place: Dev Technology
+* 2nd Place: Gaussian Solutions
+* 3rd Place: Team SoKat
 
 ### Rules
 
