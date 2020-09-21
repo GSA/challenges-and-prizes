@@ -22,7 +22,7 @@ challenge-manager: Carolyn Lampila
 challenge-manager-email: Carolyn.Lampila@ed.gov
 point-of-contact: hello@rethinkadulted.com
 description: >-
-  The Rethink Adult Ed Challenge (Challenge) is a $750,000 competition to
+  The Rethink Adult Ed Challenge (the Challenge) is a $750,000 competition to
   advance pre-apprenticeships. The Department invites eligible providers to
   design pre-apprenticeship programs that better prepare learners for
   apprenticeships and to succeed in their chosen professions.
@@ -37,7 +37,7 @@ description: >-
   The Challenge aims to spur the creation of new pre-apprenticeship programs and increase the capacity of adult education providers to deliver high-quality programs. The Challenge will be conducted in two stages:
 
 
-  * Stage 1 Open submissions (September 2020 - November 25, 2020)
+  * Stage 1 Open submissions (September 24, 2020 - November 25, 2020)
 
     During Stage 1, eligible providers will enter the Challenge by completing a Stage 1 submission (a Preliminary Design) on the Challenge website. Up to 100 entrants will be selected as finalists to progress to Stage 2. 
   * Stage 2 Virtual accelerator (February 2021 - July 2021)
@@ -64,8 +64,8 @@ prizes: >-
   Up to 100 finalists will be invited to participate in the Stage 2 virtual accelerator, where they will have access to a range of digital resources, such as case studies, activities, and webinars with subject matter experts.
 rules: "The Official Rules, Terms, and Conditions for the Rethink Adult Ed
   Challenge are available here:
-  [www.rethinkadulted.com/rules-terms-and-conditions](www.rethinkadulted.com/ru\
-  les-terms-and-conditions)."
+  [www.rethinkadulted.com/rules-terms-and-conditions](https://www.rethinkadulte\
+  d.com/rules-terms-and-conditions/)."
 judging: >-
   
 
@@ -105,7 +105,7 @@ how-to-enter: "Submission URL: <https://www.rethinkadulted.com/>"
 ---
 ### Description
 
-The Rethink Adult Ed Challenge (Challenge) is a $750,000 competition to advance pre-apprenticeships. The Department invites eligible providers to design pre-apprenticeship programs that better prepare learners for apprenticeships and to succeed in their chosen professions.
+The Rethink Adult Ed Challenge (the Challenge) is a $750,000 competition to advance pre-apprenticeships. The Department invites eligible providers to design pre-apprenticeship programs that better prepare learners for apprenticeships and to succeed in their chosen professions.
 
 Apprenticeships serve as an important pathway to well-paying careers across a range of industries, such as manufacturing, construction, technology, and healthcare. However, many adults miss out on these opportunities because they are not aware of apprenticeship programs or do not have the necessary skills to prepare for or gain entry to them. 
 
@@ -113,7 +113,7 @@ Pre-apprenticeships bridge this gap by equipping people with the skills and know
 
 The Challenge aims to spur the creation of new pre-apprenticeship programs and increase the capacity of adult education providers to deliver high-quality programs. The Challenge will be conducted in two stages:
 
-* Stage 1 Open submissions (September 2020 - November 25, 2020)
+* Stage 1 Open submissions (September 24, 2020 - November 25, 2020)
 
   During Stage 1, eligible providers will enter the Challenge by completing a Stage 1 submission (a Preliminary Design) on the Challenge website. Up to 100 entrants will be selected as finalists to progress to Stage 2. 
 * Stage 2 Virtual accelerator (February 2021 - July 2021)
@@ -138,7 +138,7 @@ Up to 100 finalists will be invited to participate in the Stage 2 virtual accele
 
 ### Rules
 
-The Official Rules, Terms, and Conditions for the Rethink Adult Ed Challenge are available here: [www.rethinkadulted.com/rules-terms-and-conditions](www.rethinkadulted.com/rules-terms-and-conditions).
+The Official Rules, Terms, and Conditions for the Rethink Adult Ed Challenge are available here: [www.rethinkadulted.com/rules-terms-and-conditions](https://www.rethinkadulted.com/rules-terms-and-conditions/).
 
 ### Judging Criteria
 
