@@ -21,7 +21,7 @@ type-of-challenge:
   - Business plans
   - Analytics, visualizations, algorithms
 submission-start: 2020/09/30 12:00 AM
-submission-end: 2020/02/04 11:59 PM
+submission-end: 2021/02/04 11:59 PM
 fiscal-year: FY21
 legal-authority: Other
 challenge-manager: Shannon Verstynen
