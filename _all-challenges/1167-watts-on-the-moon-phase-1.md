@@ -6,7 +6,7 @@ permalink: /challenge/watts-on-the-moon-phase-1/
 challenge-id: "1167"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/watts_wtext_341x259-1-.png
+card-image: /assets/netlify-uploads/watts_wtext_211x160.png
 agency-logo: /assets/netlify-uploads/717px-NASA_logo.png
 tagline: "  "
 agency: National Aeronautics and Space Administration (NASA)
@@ -16,13 +16,13 @@ total-prize-offered-cash: $5,000,000
 type-of-challenge:
   - Ideas
   - Scientific
-submission-start: 2020/09/25
+submission-start: 2020/09/25 09:00 AM
 submission-end: 2021/03/25 5:00 PM
 fiscal-year: FY20, FY21, FY22, FY23
 legal-authority: Agency specific prize authority
 challenge-manager: Denise Morris
 challenge-manager-email: denise.morris@nasa.gov
-point-of-contact: https://www.herox.com/wattsonthemoon
+point-of-contact: gethelp@herox.com
 description: >-
   As NASA works to extend human exploration of the solar system, unprecedented
   capacity for electrical and thermal energy distribution, management, and
