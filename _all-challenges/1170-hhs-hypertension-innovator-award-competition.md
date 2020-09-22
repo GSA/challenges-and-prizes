@@ -170,7 +170,14 @@ rules: >-
 
   * Record Retention and FOIA: All materials submitted to HHS as part of a submission become HHS records and cannot be returned. Any confidential commercial information contained in a submission should be designated in accordance with 45 C.F.R. § 5.41. Participants will be notified of Freedom of Information Act requests for their submissions in accordance with 45 C.F.R. § 5.42.
 judging: >-
-  
+  #### Judging Panel
+
+
+  A panel of judges will evaluate the submissions on the criteria identified below. Judges will be fair and impartial, may not have a personal or financial interest in, or be an employee, officer, director, or agent of, any entity that is a registered participant in the competition, and may not have a familial or financial relationship with an individual who is a registered contestant. The panel will make winner selections based upon the criteria outlined below and in compliance with the [HHS Competition Judging Guidelines](https://www.hhs.gov/sites/default/files/HHS-COMPETITION-JUDGING-GUIDELINES.pdf).  Entries not in compliance with the submission requirements outlined above and below will be ineligible for further review and prize award.  
+
+
+  #### Judging Criteria
+
 
   **Phase 1 Scoring Criteria: Identification of successful programs**
 
@@ -366,7 +373,7 @@ Prizes awarded under this competition will be paid by electronic funds transfer 
 
 #### Judging Panel
 
-A panel of judges will evaluate the submissions on the criteria identified below. Judges will be fair and impartial, may not have a personal or financial interest in, or be an employee, officer, director, or agent of, any entity that is a registered participant in the competition, and may not have a familial or financial relationship with an individual who is a registered contestant. The panel will make winner selections based upon the criteria outlined below and in compliance with the [HHS Competition Judging Guidelines](https://www.hhs.gov/cto/index.html).  Entries not in compliance with the submission requirements outlined above and below will be ineligible for further review and prize award.  
+A panel of judges will evaluate the submissions on the criteria identified below. Judges will be fair and impartial, may not have a personal or financial interest in, or be an employee, officer, director, or agent of, any entity that is a registered participant in the competition, and may not have a familial or financial relationship with an individual who is a registered contestant. The panel will make winner selections based upon the criteria outlined below and in compliance with the [HHS Competition Judging Guidelines](https://www.hhs.gov/sites/default/files/HHS-COMPETITION-JUDGING-GUIDELINES.pdf).  Entries not in compliance with the submission requirements outlined above and below will be ineligible for further review and prize award.  
 
 #### Judging Criteria
 
