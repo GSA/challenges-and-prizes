@@ -90,8 +90,6 @@ description: >-
 
   * Finalists will be awarded by November 21, 2022.
 rules: >-
-  
-
   #### Eligibility 
 
 
@@ -148,7 +146,7 @@ rules: >-
 
   * Each participant retains full ownership and title in and to their submission. Participants expressly reserve all intellectual property rights not expressly granted under this publication notice.
 
-  * By participating in the competition, each participant hereby irrevocably grants to HHS a limited, non-exclusive, royalty-free, worldwide license and right to reproduce, publically perform, publically display, and use the submission for internal HHS business and, to the extent necessary, to administer the competition and to publically perform and publically display the submission without limitation, including for advertising and promotional purposes relating to the competition.
+  * By participating in the competition, each participant hereby irrevocably grants to HHS a limited, non-exclusive, royalty-free, worldwide license and right to reproduce, publicly perform, publicly display, and use the submission for internal HHS business and, to the extent necessary, to administer the competition and to publicly perform and publicly display the submission without limitation, including for advertising and promotional purposes relating to the competition.
 
   * Record Retention and FOIA: All materials submitted to HHS as part of a submission become HHS records and cannot be returned. Any confidential commercial information contained in a submission should be designated in accordance with 45 C.F.R. § 5.41. Participants will be notified of Freedom of Information Act requests for their submissions in accordance with 45 C.F.R. § 5.42.
 ---
