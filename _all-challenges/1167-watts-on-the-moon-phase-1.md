@@ -6,7 +6,7 @@ permalink: /challenge/watts-on-the-moon-phase-1/
 challenge-id: "1167"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/watts_wtext_211x160.png
+card-image: /assets/netlify-uploads/webp.net-resizeimage-13-.png
 agency-logo: /assets/netlify-uploads/717px-NASA_logo.png
 tagline: "  "
 agency: National Aeronautics and Space Administration (NASA)
