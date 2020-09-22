@@ -89,6 +89,26 @@ description: >-
   * Judging for Phase 2 will occur from October 31, 2022 through November 20, 2022.
 
   * Finalists will be awarded by November 21, 2022.
+prizes: >-
+  #### Total Prize Awards Available 
+
+
+  $3,325,000 in FY20 funds.
+
+
+  #### Prize Breakdown
+
+
+  * Phase 1 FY20 (Identification of successful programs): Up to 20 submissions may be selected to each receive a prize of up to $50,000. 
+
+  * Phase 2 FY21 (Awarding plans for sustainability and replication and/or expansion): The participants selected to receive a prize for Phase 1 may compete for consideration to receive a prize in Phase 2.  Up to 15 submissions may be selected to each receive a prize of up to $75,000.
+
+  * Phase 3 FY22 (Awarding programs that have successfully replicated and/or expanded): The participants selected to receive a prize in Phase 2 may compete for consideration to receive a prize in Phase 3.  Up to 12 submissions may be selected to each receive a prize of up to $100,000. 
+
+  * All winners will be notified via email.
+
+
+  Awardees will be expected to present their program for Office on Women’s Health staff and members of the public at the end of each award phase.  This presentation may be virtual or in-person and prize funds are expected to be used to facilitate this presentation.
 rules: >-
   #### Eligibility 
 
@@ -149,6 +169,103 @@ rules: >-
   * By participating in the competition, each participant hereby irrevocably grants to HHS a limited, non-exclusive, royalty-free, worldwide license and right to reproduce, publicly perform, publicly display, and use the submission for internal HHS business and, to the extent necessary, to administer the competition and to publicly perform and publicly display the submission without limitation, including for advertising and promotional purposes relating to the competition.
 
   * Record Retention and FOIA: All materials submitted to HHS as part of a submission become HHS records and cannot be returned. Any confidential commercial information contained in a submission should be designated in accordance with 45 C.F.R. § 5.41. Participants will be notified of Freedom of Information Act requests for their submissions in accordance with 45 C.F.R. § 5.42.
+judging: >-
+  
+
+  **Phase 1 Scoring Criteria: Identification of successful programs**
+
+
+  All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and 5 being the highest score on each dimension.  Scores are weighted by the proportion of each dimension and then aggregated to create a final score.  Judging criteria for Phase 1 include **(Total Points 100%)**:
+
+
+  * Previously demonstrated effectiveness (statistical significance) in:  controlling hypertension in women who are pregnant and/or postpartum AND/OR  increasing continued monitoring of hypertension in women who are pregnant and/or postpartum : **(40%)**
+
+  * Ability of the program to address racial/ethnic disparities and/or urban/rural disparities: **(20%)**
+
+  * Use of evidence-based approaches to target gaps in diagnosis, prevention, and treatment of women with hypertension who are pregnant and/or postpartum: **(20%)**
+
+  * How the program is innovative at targeting gaps in diagnosis, prevention, and treatment of women with hypertension who are pregnant and/or postpartum: **(20%)**
+
+
+  **Phase 2 Scoring Criteria: Awarding plans for sustainability and replication and/or expansion**
+
+
+  All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and 5 being the highest score on each dimension.  Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase 2 include **(Total Points 100%)**:
+
+
+  * Demonstrates effectiveness (statistical significance) in: **controlling hypertension** in women who are pregnant and/or postpartum AND/OR **increasing continued monitoring of hypertension** in women who are pregnant and/or postpartum: **(30%)**
+
+  * Demonstrates effectiveness (statistical significance) in addressing racial/ethnic disparities and/or urban/rural disparities in women who are pregnant and/or postpartum: **(30%)**
+
+  * Description of the plan for sustainability by demonstrating that the program has long-term viability: **(20%)**
+
+  * Description of the plan for replication and/or expansion: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program: **(20%)**
+
+
+  **Phase 3 Scoring Criteria: Awarding the programs that have successfully replicated and/or expanded**
+
+
+  All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and 5 being the highest score on each dimension.  Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase 3 include **(Total Points 100%)**:
+
+
+  * Demonstrates effectiveness (statistical significance) in: controlling hypertension in women who are pregnant and/or postpartum AND/OR increasing continued monitoring of hypertension in women who are pregnant and/or postpartum: **(25%)**
+
+  * Demonstrates effectiveness (statistical significance) in addressing racial/ethnic disparities and/or urban/rural disparities in women who are pregnant and/or postpartum: **(25%)**
+
+  * Demonstrates that the program successfully replicated and/or expanded: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program: **(50%)**
+how-to-enter: >-
+  
+
+  Participants will submit their innovations at: 
+
+
+  **Submission URL:**
+
+
+  **Phase 1: Identification of successful programs** 
+
+
+  Phase 1 of the competition aims to identify effective programs that range in their design and range geographically. The goal of Phase 1 will be the identification of an effective program that can successfully target gaps in diagnosis, prevention, and treatment of hypertension in women who are pregnant and/or postpartum.  The submissions should aim to demonstrate that the program was developed from evidence-based techniques for providing hypertension care.  The Phase 1 submission shall include a comprehensive description of the program in 5 pages or less, including:
+
+
+  1. A one-paragraph executive summary that clearly states how the program has previously demonstrated effectiveness (statistical significance) in: controlling hypertension in women who are pregnant and/or postpartum AND/OR increasing continued monitoring of hypertension in women who are pregnant and/or postpartum; 
+
+  2. A description of how the program addresses racial/ethnic disparities and/or urban/rural disparities;
+
+  3. A description of how the program uses evidence-based approaches to target gaps in diagnosis, prevention, and treatment of women with hypertension who are pregnant and/or postpartum; and
+
+  4. A description of how the program is innovative at targeting gaps in diagnosis, prevention, and treatment of women with hypertension who are pregnant and/or postpartum.
+
+
+  **Phase 2: Awarding plans for sustainability and replication and/or expansion** 
+
+
+  Phase 2 of the competition builds upon the work of Phase 1.  Phase 2 is focused on demonstrating the program can be applied to more women who are pregnant and/or postpartum, resulting in positive outcomes. The Phase 2 submission shall include a comprehensive description, in 5 pages or less, of:
+
+
+  1. A description of the demonstrated effectiveness (statistical significance) in: controlling hypertension in women who are pregnant and/or postpartum AND/OR increasing continued monitoring of hypertension in women who are pregnant and/or postpartum; 
+
+  2. A description of the demonstrated effectiveness (statistical significance) in addressing racial/ethnic disparities and/or urban/rural disparities in women who are pregnant and/or postpartum; 
+
+  3. A description of the plan for sustainability (long-term viability); and 
+
+  4. A description of the plan for replication and/or expansion: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program.
+
+
+  **Phase 3: Awarding programs that have successfully replicated and/or expanded** 
+
+
+  Phase 3 builds upon the work of Phase 2.  Part of the scoring criteria for Phase 3 evaluates whether the program was successfully replicated and/or expanded.  Participants are expected to successfully replicate and/or expand the program: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program. 
+
+
+  The Phase 3 submission shall include a comprehensive description of how the program was replicated and/or expanded in 5 pages or less, including:
+
+
+  1. A description of the demonstrated effectiveness (statistical significance) in: **controlling hypertension** in women who are pregnant and/or postpartum AND/OR  **increasing continued monitoring of hypertension** in women who are pregnant and/or postpartum;
+
+  2. A description of the demonstrated effectiveness (statistical significance) in addressing racial/ethnic disparities and/or urban/rural disparities in women who are pregnant and/or postpartum; 
+
+  3. Demonstrates that the program was successfully replicated and/or expanded: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program.
 ---
 ### Description
 
@@ -195,6 +312,19 @@ The competition has three phases. All eligible submissions will be evaluated, an
 
 ### Prizes
 
+#### Total Prize Awards Available
+
+$3,325,000 in FY20 funds.
+
+#### Prize Breakdown
+
+* Phase 1 FY20 (Identification of successful programs): Up to 20 submissions may be selected to each receive a prize of up to $50,000. 
+* Phase 2 FY21 (Awarding plans for sustainability and replication and/or expansion): The participants selected to receive a prize for Phase 1 may compete for consideration to receive a prize in Phase 2.  Up to 15 submissions may be selected to each receive a prize of up to $75,000.
+* Phase 3 FY22 (Awarding programs that have successfully replicated and/or expanded): The participants selected to receive a prize in Phase 2 may compete for consideration to receive a prize in Phase 3.  Up to 12 submissions may be selected to each receive a prize of up to $100,000. 
+* All winners will be notified via email.
+
+Awardees will be expected to present their program for Office on Women’s Health staff and members of the public at the end of each award phase.  This presentation may be virtual or in-person and prize funds are expected to be used to facilitate this presentation.  
+
 ### Rules
 
 #### Eligibility 
@@ -234,4 +364,69 @@ Prizes awarded under this competition will be paid by electronic funds transfer 
 
 ### Judging Criteria
 
+#### Judging Panel
+
+A panel of judges will evaluate the submissions on the criteria identified below. Judges will be fair and impartial, may not have a personal or financial interest in, or be an employee, officer, director, or agent of, any entity that is a registered participant in the competition, and may not have a familial or financial relationship with an individual who is a registered contestant. The panel will make winner selections based upon the criteria outlined below and in compliance with the [HHS Competition Judging Guidelines](https://www.hhs.gov/cto/index.html).  Entries not in compliance with the submission requirements outlined above and below will be ineligible for further review and prize award.  
+
+#### Judging Criteria
+
+**Phase 1 Scoring Criteria: Identification of successful programs**
+
+All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and 5 being the highest score on each dimension.  Scores are weighted by the proportion of each dimension and then aggregated to create a final score.  Judging criteria for Phase 1 include **(Total Points 100%)**:
+
+* Previously demonstrated effectiveness (statistical significance) in:  controlling hypertension in women who are pregnant and/or postpartum AND/OR  increasing continued monitoring of hypertension in women who are pregnant and/or postpartum : **(40%)**
+* Ability of the program to address racial/ethnic disparities and/or urban/rural disparities: **(20%)**
+* Use of evidence-based approaches to target gaps in diagnosis, prevention, and treatment of women with hypertension who are pregnant and/or postpartum: **(20%)**
+* How the program is innovative at targeting gaps in diagnosis, prevention, and treatment of women with hypertension who are pregnant and/or postpartum: **(20%)**
+
+**Phase 2 Scoring Criteria: Awarding plans for sustainability and replication and/or expansion**
+
+All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and 5 being the highest score on each dimension.  Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase 2 include **(Total Points 100%)**:
+
+* Demonstrates effectiveness (statistical significance) in: **controlling hypertension** in women who are pregnant and/or postpartum AND/OR **increasing continued monitoring of hypertension** in women who are pregnant and/or postpartum: **(30%)**
+* Demonstrates effectiveness (statistical significance) in addressing racial/ethnic disparities and/or urban/rural disparities in women who are pregnant and/or postpartum: **(30%)**
+* Description of the plan for sustainability by demonstrating that the program has long-term viability: **(20%)**
+* Description of the plan for replication and/or expansion: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program: **(20%)**
+
+**Phase 3 Scoring Criteria: Awarding the programs that have successfully replicated and/or expanded**
+
+All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and 5 being the highest score on each dimension.  Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase 3 include **(Total Points 100%)**:
+
+* Demonstrates effectiveness (statistical significance) in: controlling hypertension in women who are pregnant and/or postpartum AND/OR increasing continued monitoring of hypertension in women who are pregnant and/or postpartum: **(25%)**
+* Demonstrates effectiveness (statistical significance) in addressing racial/ethnic disparities and/or urban/rural disparities in women who are pregnant and/or postpartum: **(25%)**
+* Demonstrates that the program successfully replicated and/or expanded: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program: **(50%)**
+
+
 ### How to Enter
+
+Participants will submit their innovations at: 
+
+**Submission URL:**
+
+**Phase 1: Identification of successful programs** 
+
+Phase 1 of the competition aims to identify effective programs that range in their design and range geographically. The goal of Phase 1 will be the identification of an effective program that can successfully target gaps in diagnosis, prevention, and treatment of hypertension in women who are pregnant and/or postpartum.  The submissions should aim to demonstrate that the program was developed from evidence-based techniques for providing hypertension care.  The Phase 1 submission shall include a comprehensive description of the program in 5 pages or less, including:
+
+1. A one-paragraph executive summary that clearly states how the program has previously demonstrated effectiveness (statistical significance) in: controlling hypertension in women who are pregnant and/or postpartum AND/OR increasing continued monitoring of hypertension in women who are pregnant and/or postpartum; 
+2. A description of how the program addresses racial/ethnic disparities and/or urban/rural disparities;
+3. A description of how the program uses evidence-based approaches to target gaps in diagnosis, prevention, and treatment of women with hypertension who are pregnant and/or postpartum; and
+4. A description of how the program is innovative at targeting gaps in diagnosis, prevention, and treatment of women with hypertension who are pregnant and/or postpartum.
+
+**Phase 2: Awarding plans for sustainability and replication and/or expansion** 
+
+Phase 2 of the competition builds upon the work of Phase 1.  Phase 2 is focused on demonstrating the program can be applied to more women who are pregnant and/or postpartum, resulting in positive outcomes. The Phase 2 submission shall include a comprehensive description, in 5 pages or less, of:
+
+1. A description of the demonstrated effectiveness (statistical significance) in: controlling hypertension in women who are pregnant and/or postpartum AND/OR increasing continued monitoring of hypertension in women who are pregnant and/or postpartum; 
+2. A description of the demonstrated effectiveness (statistical significance) in addressing racial/ethnic disparities and/or urban/rural disparities in women who are pregnant and/or postpartum; 
+3. A description of the plan for sustainability (long-term viability); and 
+4. A description of the plan for replication and/or expansion: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program.
+
+**Phase 3: Awarding programs that have successfully replicated and/or expanded** 
+
+Phase 3 builds upon the work of Phase 2.  Part of the scoring criteria for Phase 3 evaluates whether the program was successfully replicated and/or expanded.  Participants are expected to successfully replicate and/or expand the program: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program. 
+
+The Phase 3 submission shall include a comprehensive description of how the program was replicated and/or expanded in 5 pages or less, including:
+
+1. A description of the demonstrated effectiveness (statistical significance) in: **controlling hypertension** in women who are pregnant and/or postpartum AND/OR  **increasing continued monitoring of hypertension** in women who are pregnant and/or postpartum;
+2. A description of the demonstrated effectiveness (statistical significance) in addressing racial/ethnic disparities and/or urban/rural disparities in women who are pregnant and/or postpartum; 
+3. Demonstrates that the program was successfully replicated and/or expanded: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program.
