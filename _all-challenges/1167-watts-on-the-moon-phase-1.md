@@ -81,18 +81,10 @@ judging: >-
 
 
   Teams must score at least 50 points in order to be eligible for a prize purse.
-how-to-enter: >-
-  All interested teams must register on the official challenge website
-  ([https://www.herox.com/WattsOnTheMoon](<Provide any specific instructions or
-  entry guidelines your solvers need to know, including any registration
-  requirements.    
-
-  Submission URL: If your challenge is accepting submissions through a website, provide the URL for that site here.
-
-  Submission Email: If your challenge is accepting submissions through email, provide that email address here.
-
-
-  All interested teams must register on the official challenge (https://www.herox.com/WattsOnTheMoon) by the given deadline and meet the eligibility requirements as stated in the Official Rules in order to participate in the Challenge.>)) by the given deadline and meet the eligibility requirements as stated in the Official Rules in order to participate in the Challenge.
+how-to-enter: All interested teams must register on the official challenge
+  (<https://www.herox.com/WattsOnTheMoon>) by the given deadline and meet the
+  eligibility requirements as stated in the Official Rules in order to
+  participate in the Challenge.
 ---
 ### Description
 
@@ -104,7 +96,7 @@ In this Challenge, Teams will propose solutions for energy distribution, managem
 
 ### Prizes
 
-#### Total Cash Prize Pool 
+#### Total Cash Prize Pool
 
 Challenge total: Five million dollars ($5,000,000 USD) 
 Phase 1 Total: Five hundred thousand dollars ($500,000 USD)
@@ -139,8 +131,4 @@ Teams must score at least 50 points in order to be eligible for a prize purse.
 
 ### How to Enter
 
-All interested teams must register on the official challenge website ([https://www.herox.com/WattsOnTheMoon](<Provide any specific instructions or entry guidelines your solvers need to know, including any registration requirements.    
-Submission URL: If your challenge is accepting submissions through a website, provide the URL for that site here.
-Submission Email: If your challenge is accepting submissions through email, provide that email address here.
-
-All interested teams must register on the official challenge (https://www.herox.com/WattsOnTheMoon) by the given deadline and meet the eligibility requirements as stated in the Official Rules in order to participate in the Challenge.>)) by the given deadline and meet the eligibility requirements as stated in the Official Rules in order to participate in the Challenge.
+All interested teams must register on the official challenge (<https://www.herox.com/WattsOnTheMoon>) by the given deadline and meet the eligibility requirements as stated in the Official Rules in order to participate in the Challenge.
