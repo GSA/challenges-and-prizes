@@ -23,6 +23,7 @@ legal-authority: America COMPETES Act
 challenge-manager: Gary Howarth
 challenge-manager-email: gary.howarth@nist.gov
 point-of-contact: gary.howarth@nist.gov
+body-content-uploads: /assets/netlify-uploads/nist_pscr_deid2_official_rules_20200923.pdf
 description: >-
   **Challenge Launch planned for October 1, 2020!  Check back soon for Official
   Rules.**
@@ -100,7 +101,8 @@ description: >-
 prizes: '![Prize
   Breakdown]({{site.baseurl}}/assets/netlify-uploads/nist-differential-privacy-temporal-map-challenge-table-4.png
   "Prize Breakdown")'
-rules: The Official Challenge Rules will be made available by Oct. 1, 2020.
+rules: Please review the [Official Challenge Rules
+  document]({{site.baseurl}}/assets/netlify-uploads/nist_pscr_deid2_official_rules_20200923.pdf).
 judging: >-
   A. Metric Contest. The Judges will evaluate submitted papers describing
   proposed metrics based on a balance of clarity, utility, and robustness.
@@ -186,7 +188,7 @@ NIST PSCR seeks to incentivize participants to develop their algorithms into too
 
 ### Rules
 
-The Official Challenge Rules will be made available by Oct. 1, 2020.
+Please review the [Official Challenge Rules document]({{site.baseurl}}/assets/netlify-uploads/nist_pscr_deid2_official_rules_20200923.pdf).
 
 ### Judging Criteria
 
