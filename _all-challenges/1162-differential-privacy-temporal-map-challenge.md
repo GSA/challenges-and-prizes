@@ -85,7 +85,10 @@ description: >-
   **Timeline for Metric Paper Contest**
 
 
-  ![Timeline for Metric Paper Contest]({{site.baseurl}}/assets/netlify-uploads/nist-differential-privacy-temporal-map-challenge-table-1-1-.png "Timeline for Metric Paper Contest")
+  **Timeline for Metric Paper Contest**
+
+
+  ![Timeline for Metric Paper Contest]({{site.baseurl}}/assets/netlify-uploads/nist-differential-privacy-temporal-map-challenge-table-1.jpg "Timeline for Metric Paper Contest")
 
 
   **Timeline for Algorithm Contest**
@@ -172,7 +175,7 @@ NIST PSCR seeks to incentivize participants to develop their algorithms into too
 
 **Timeline for Metric Paper Contest**
 
-![Timeline for Metric Paper Contest]({{site.baseurl}}/assets/netlify-uploads/nist-differential-privacy-temporal-map-challenge-table-1-1-.png "Timeline for Metric Paper Contest")
+![Timeline for Metric Paper Contest]({{site.baseurl}}/assets/netlify-uploads/nist-differential-privacy-temporal-map-challenge-table-1.jpg "Timeline for Metric Paper Contest")
 
 **Timeline for Algorithm Contest**
 
