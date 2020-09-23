@@ -25,8 +25,7 @@ challenge-manager-email: gary.howarth@nist.gov
 point-of-contact: gary.howarth@nist.gov
 body-content-uploads: /assets/netlify-uploads/nist_pscr_deid2_official_rules_20200923.pdf
 description: >-
-  **Challenge Launch planned for October 1, 2020!  Check back soon for Official
-  Rules.**
+  **Challenge Launch planned for October 1, 2020!**  
 
 
   The Public Safety Communications Research Division (PSCR) of the National Institute of Standards and Technology (NIST) invites members of the public to join the Differential Privacy Temporal Map Challenge. This challenge seeks new tools with which to push the boundaries of current technologies for de-identifying data sets relevant to public safety.
@@ -137,7 +136,7 @@ how-to-enter: >-
 ---
 ### Description
 
-**Challenge Launch planned for October 1, 2020!  Check back soon for Official Rules.**
+**Challenge Launch planned for October 1, 2020!**  
 
 The Public Safety Communications Research Division (PSCR) of the National Institute of Standards and Technology (NIST) invites members of the public to join the Differential Privacy Temporal Map Challenge. This challenge seeks new tools with which to push the boundaries of current technologies for de-identifying data sets relevant to public safety.
 
