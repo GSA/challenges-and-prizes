@@ -7,7 +7,7 @@ challenge-id: "1169"
 status: open
 sidenav: true
 card-image: /assets/netlify-uploads/webp.net-resizeimage-12-.png
-agency-logo: /assets/netlify-uploads/FAA_seal.png
+agency-logo: /assets/netlify-uploads/DOT_logo.jpg
 tagline: The FAA challenges undergraduate and graduate students to develop
   innovative ways to use smart technology in and around airports to enhance the
   overall travel experience.
