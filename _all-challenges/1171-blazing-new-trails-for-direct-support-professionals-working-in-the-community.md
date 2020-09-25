@@ -6,7 +6,7 @@ permalink: /challenge/blazing-new-trails-for-direct-support-professionals-workin
 challenge-id: "1171"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/high-resolution-acl-logo.jpg
+card-image: /assets/netlify-uploads/acl_logo_june2020.jpg
 agency-logo: /assets/netlify-uploads/hhs.png
 tagline: Innovations to Transform the Direct Support Professionals Workforce
 agency: U.S. Department of Health and Humans Services - Administration for
