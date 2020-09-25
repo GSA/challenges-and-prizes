@@ -9,8 +9,7 @@ sidenav: true
 card-image: /assets/netlify-uploads/acl_logo_june2020.jpg
 agency-logo: /assets/netlify-uploads/hhs.png
 tagline: Innovations to Transform the Direct Support Professionals Workforce
-agency: U.S. Department of Health and Humans Services - Administration for
-  Community Living
+agency: Department of Health and Humans Services - Administration for Community Living
 total-prize-offered-cash: $310,000
 type-of-challenge:
   - Ideas
