@@ -242,8 +242,6 @@ judging: >-
 
   * Demonstrates that the program successfully replicated and/or expanded: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program: **(50%)**
 how-to-enter: >-
-  
-
   #### Registration for this Challenge:
 
 
