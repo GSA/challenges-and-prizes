@@ -148,6 +148,99 @@ rules: >-
   * By participating in the competition, each participant hereby grants an irrevocable and royalty-free license to HHS to store, access, modify, reproduce, and distribute submissions in perpetuity.
 
   * Record Retention and FOIA: All materials submitted to HHS as part of a submission become HHS records and cannot be returned. Any confidential commercial information contained in a submission should be designated in accordance with 45 C.F.R. § 5.41. Participants will be notified of Freedom of Information Act requests for their submissions in accordance with 45 C.F.R. § 5.42.
+judging: >-
+  
+
+  A panel of judges will evaluate the submissions on the criteria identified below. Judges will be fair and impartial, may not have a personal or financial interest in, or be an employee, officer, director, or agent of, any entity that is a registered participant in the competition, and may not have a familial or financial relationship with an individual who is a registered contestant. The panel will make winner selections based upon the criteria outlined below and in compliance with the [HHS Competition Judging Guidelines](https://www.hhs.gov/sites/default/files/HHS-COMPETITION-JUDGING-GUIDELINES.pdf).  Entries not in compliance with the submission requirements outlined below will be ineligible for further review and prize award.  
+
+
+  **Phase 1: Identification of successful programs** 
+
+
+  Phase 1 of the competition aims to identify effective programs that range in their design and range geographically. The goal of Phase 1 will be the identification of effective programs that can successfully increase the initiation of breastfeeding and/or increase rates of continuation of breastfeeding among mothers in the United States.  The submissions should aim to demonstrate that the program applies evidence-based interventions to target gaps in breastfeeding education, instruction, and/or support. The Phase 1 submission will include a comprehensive description of the program in 5 pages or less, including:
+
+
+  1. A one-paragraph executive summary that clearly states how the program has previously demonstrated effectiveness (statistical significance) in increasing rates of initiation of breastfeeding and/or increasing rates of continuation of breastfeeding among mothers in the United States;
+
+  2. A description of the ability of the program to address racial/ethnic disparities among breastfeeding mothers in the United States;
+
+  3. A description of how the program applies evidence-based interventions to target gaps in breastfeeding education, instruction, and/or support for breastfeeding mothers in the United States; and
+
+  4. A description of how the program is innovative at targeting gaps in breastfeeding education, instruction, and/or support for breastfeeding mothers in the United States
+
+
+  **Phase 1 Scoring Criteria (Identification of successful programs)**
+
+
+  All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and 5 being the highest score on each dimension. Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase 1 include (Total Points 100%):
+
+
+  * Previously demonstrated effectiveness (statistical significance) in: increasing rates of initiation of breastfeeding and/or increasing rates of continuation of breastfeeding among mothers in the United States: **(20%)**
+
+  * Ability of the program to address racial/ethnic disparities among breastfeeding mothers in the Unites States: **(40%)**
+
+  * Application of evidence-based interventions to target gaps in breastfeeding education, instruction, and/or support for breastfeeding mothers in the United States: **(20%)**
+
+  * A description of how the program is innovative at targeting gaps in breastfeeding education, instruction, and/or support for breastfeeding mothers in the United States: **(20%)**
+
+
+  **Phase 2: Awarding plans for sustainability and replication and/or expansion** 
+
+
+  Phase 2 of the competition builds upon the work of Phase 1. Phase 2 is focused on demonstrating the program can be implemented in additional settings, resulting in positive outcomes. The Phase 2 submission will include a comprehensive description of the program in 5 pages or less, of:
+
+
+  1. A description of the demonstrated effectiveness (statistical significance) in: increasing rates of initiation of breastfeeding and/or increasing rates of continuation of breastfeeding among mothers in the United States.
+
+  2. A description of the demonstrated effectiveness (statistical significance) in addressing racial/ethnic disparities among breastfeeding mothers in the United States
+
+  3. A description of the plan for sustainability (long-term viability); and 
+
+  4. A description of the plan for replication and/or expansion: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program.
+
+
+  **Phase 2 Scoring Criteria (Awarding plans for sustainability and replication and/or expansion)**
+
+
+  All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and 5 being the highest score on each dimension. Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase 2 include (Total Points 100%):
+
+
+  * Demonstrates effectiveness (statistical significance) in: increasing rates of initiation of breastfeeding and/or increasing rates of continuation of breastfeeding among mothers in the United States: **(30%)**
+
+  * Demonstrates effectiveness (statistical significance) in addressing racial/ethnic disparities among breastfeeding mothers in the United States: **(30%)**
+
+  * Description of the plan for sustainability by demonstrating that the program has long-term viability: **(20%)**
+
+  * Description of the plan for replication and/or expansion: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program: **(20%)**
+
+
+  **Phase 3 (Awarding programs that have successfully replicated and/or expanded)** 
+
+
+  Phase 3 builds upon the work of Phase 2. Part of the scoring criteria for Phase 3 evaluates whether the program was successfully replicated and/or expanded.  Participants are expected to successfully replicate and/or expand the program: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program. 
+
+
+  The Phase 3 submission shall include a comprehensive description of how the program was replicated and/or expanded in 5 pages or less, including:
+
+
+  1. A description of the demonstrated effectiveness (statistical significance) in:  increasing rates of initiation of breastfeeding and/or increasing rates of continuation of breastfeeding among mothers in the United States;
+
+  2. A description of the demonstrated effectiveness (statistical significance) in addressing racial/ethnic disparities among breastfeeding mothers in the United States; and
+
+  3. Demonstrates that the program was successfully replicated and/or expanded: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program.
+
+
+  **Phase 3 Scoring Criteria (Awarding programs that have been successfully replicated in another setting)**
+
+
+  All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and 5 being the highest score on each dimension. Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase 3 include (Total Points 100%):
+
+
+  * Demonstrates effectiveness (statistical significance) in: increasing rates of initiation of breastfeeding and/or increasing rates of continuation of breastfeeding among mothers in the United States: **(25%)**
+
+  * Demonstrates effectiveness (statistical significance) in addressing racial/ethnic disparities among breastfeeding mothers in the United States: **(25%)**
+
+  * Demonstrates that the program successfully replicated and/or expanded: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program: **(50%)**
 ---
 ### Description
 
