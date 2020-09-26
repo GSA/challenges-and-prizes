@@ -6,7 +6,7 @@ permalink: /challenge/hhs-hypertension-innovator-award-competition/
 challenge-id: "1170"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/hhs.png
+card-image: /assets/netlify-uploads/nwbpaw-just-heart.jpg
 agency-logo: /assets/netlify-uploads/hhs.png
 tagline: Innovative methods of blood pressure monitoring and follow-up in women
   during pregnancy and/or postpartum
@@ -228,19 +228,38 @@ judging: >-
 how-to-enter: >-
   
 
-  Participants will submit their innovations at: 
+  #### Registration for this Challenge:
 
 
-  **Submission URL:**
+  Beginning September 30, 2020 at 7:15 am EST, the identified Official Representative (individual, team, or legal entity) may register for this competition by sending an email to [HypertensionChallenge@hhs.gov](HypertensionChallenge@hhs.gov) with the subject line stating ‘Hypertension Competition Registration’. In this email you must identify only one Official Representative for each competition registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the participant (individual, team, or legal entity), that he or she has read and consents to be governed by the competition rules. Registration for this competition is due by October 29, 2020 at 11:59 pm EST.
 
 
-  **Phase 1: Identification of successful programs** 
+  Questions concerning this competition should be sent by email to: 
+
+  [HypertensionChallenge@hhs.gov](HypertensionChallenge@hhs.gov).
 
 
-  Phase 1 of the competition aims to identify effective programs that range in their design and range geographically. The goal of Phase 1 will be the identification of an effective program that can successfully target gaps in diagnosis, prevention, and treatment of hypertension in women who are pregnant and/or postpartum.  The submissions should aim to demonstrate that the program was developed from evidence-based techniques for providing hypertension care.  The Phase 1 submission shall include a comprehensive description of the program in 5 pages or less, including:
+  **Phase 1: Identification of successful programs**
 
 
-  1. A one-paragraph executive summary that clearly states how the program has previously demonstrated effectiveness (statistical significance) in: controlling hypertension in women who are pregnant and/or postpartum AND/OR increasing continued monitoring of hypertension in women who are pregnant and/or postpartum; 
+  Submissions for Phase 1 of this competition are due by October 30, 2020 at 11:59 pm EST. The identified Official Representative (individual, team or legal entity) may apply for this competition by submitting an application by email to [HypertensionChallenge@hhs.gov](HypertensionChallenge@hhs.gov). The application for Phase 1 of the competition shall meet the following requirements:
+
+
+  * Entries must consist of PDF files with font size no smaller than 11-point Arial.
+
+  * All submissions must be in English.
+
+  * Participants must not use HHS or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement.
+
+  * Submission details should be sent to [HypertensionChallenge@hhs.gov](HypertensionChallenge@hhs.gov):
+
+    * Title the email subject line “Hypertension Competition Phase 1 Proposal”.
+    * Email sender (person and email address) must be Official Representative/person of contact for the team.
+
+  Phase 1 of the competition aims to identify effective programs that range in their design and range geographically. The goal of Phase 1 will be the identification of an effective program that can successfully target gaps in diagnosis, prevention, and treatment of hypertension in women who are pregnant and/or postpartum. The submissions should aim to demonstrate that the program was developed from evidence-based techniques for providing hypertension care. The Phase 1 submission shall include a comprehensive description of the program in 5 pages or less, including:
+
+
+  1. A one-paragraph executive summary that clearly states how the program has previously demonstrated effectiveness (statistical significance) in: controlling hypertension in women who are pregnant and/or postpartum AND/OR increasing continued monitoring of hypertension in women who are pregnant and/or postpartum;
 
   2. A description of how the program addresses racial/ethnic disparities and/or urban/rural disparities;
 
@@ -249,33 +268,61 @@ how-to-enter: >-
   4. A description of how the program is innovative at targeting gaps in diagnosis, prevention, and treatment of women with hypertension who are pregnant and/or postpartum.
 
 
-  **Phase 2: Awarding plans for sustainability and replication and/or expansion** 
+  **Phase 2: Awarding plans for sustainability and replication and/or expansion**
 
 
-  Phase 2 of the competition builds upon the work of Phase 1.  Phase 2 is focused on demonstrating the program can be applied to more women who are pregnant and/or postpartum, resulting in positive outcomes. The Phase 2 submission shall include a comprehensive description, in 5 pages or less, of:
+  Submissions for Phase 2 of this competition are due by October 30, 2021 at 11:59 pm EST. Only participants who received an award for their Phase 1 submission are eligible to apply for Phase 2. The identified Official Representative (individual, team or legal entity) may apply for this phase by submitting an application by email to [HypertensionChallenge@hhs.gov](HypertensionChallenge@hhs.gov). The application for Phase 2 of the competition shall meet the following requirements:
 
 
-  1. A description of the demonstrated effectiveness (statistical significance) in: controlling hypertension in women who are pregnant and/or postpartum AND/OR increasing continued monitoring of hypertension in women who are pregnant and/or postpartum; 
+  * Entries must consist of PDF files with font size no smaller than 11-point Arial.
 
-  2. A description of the demonstrated effectiveness (statistical significance) in addressing racial/ethnic disparities and/or urban/rural disparities in women who are pregnant and/or postpartum; 
+  * All submissions must be in English.
 
-  3. A description of the plan for sustainability (long-term viability); and 
+  * Solvers must not use HHS or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement.
+
+  * Submission details should be sent to [HypertensionChallenge@hhs.gov](HypertensionChallenge@hhs.gov):
+
+    * Title the email subject line “Hypertension Competition Phase 2 Proposal”.
+    * Email sender (person and email address) must be Official Representative/person of contact for the team.
+
+  Phase 2 of the competition builds upon the work of Phase 1. Phase 2 is focused on demonstrating the program can be applied to more women who are pregnant and/or postpartum, resulting in positive outcomes. The Phase 2 submission shall include a comprehensive description, in 5 pages or less, of:
+
+
+  1. A description of the demonstrated effectiveness (statistical significance) in: controlling hypertension in women who are pregnant and/or postpartum AND/OR increasing continued monitoring of hypertension in women who are pregnant and/or postpartum;
+
+  2. A description of the demonstrated effectiveness (statistical significance) in addressing racial/ethnic disparities and/or urban/rural disparities in women who are pregnant and/or postpartum;
+
+  3. A description of the plan for sustainability (long-term viability); and
 
   4. A description of the plan for replication and/or expansion: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program.
 
 
-  **Phase 3: Awarding programs that have successfully replicated and/or expanded** 
+  **Phase 3: Awarding programs that have successfully replicated and/or expanded**
 
 
-  Phase 3 builds upon the work of Phase 2.  Part of the scoring criteria for Phase 3 evaluates whether the program was successfully replicated and/or expanded.  Participants are expected to successfully replicate and/or expand the program: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program. 
+  Submissions for Phase 3 of this competition are due by October 30, 2022 at 11:59 pm EST.  Only participants who received an award for their Phase 2 submission are eligible to apply for Phase 3. The identified Official Representative (individual, team or legal entity) may apply for this phase by submitting an application by email to [HypertensionChallenge@hhs.gov](HypertensionChallenge@hhs.gov). The application for Phase 3 of the competition shall meet the following requirements:
+
+
+  * Entries must consist of PDF files with font size no smaller than 11-point Arial.
+
+  * All submissions must be in English.
+
+  * Solvers must not use HHS or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement.
+
+  * Submission details should be sent to [HypertensionChallenge@hhs.gov](HypertensionChallenge@hhs.gov):
+
+    * Title the email subject line “Hypertension Competition Phase 3 Proposal”.
+    * Email sender (person and email address) must be Official Representative/person of contact for the team.
+
+  Phase 3 builds upon the work of Phase 2. Part of the scoring criteria for Phase 3 evaluates whether the program was successfully replicated and/or expanded. Participants are expected to successfully replicate and/or expand the program: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program.
 
 
   The Phase 3 submission shall include a comprehensive description of how the program was replicated and/or expanded in 5 pages or less, including:
 
 
-  1. A description of the demonstrated effectiveness (statistical significance) in: **controlling hypertension** in women who are pregnant and/or postpartum AND/OR  **increasing continued monitoring of hypertension** in women who are pregnant and/or postpartum;
+  1. A description of the demonstrated effectiveness (statistical significance) in: **controlling hypertension** in women who are pregnant and/or postpartum AND/OR **increasing continued monitoring of hypertension** in women who are pregnant and/or postpartum;
 
-  2. A description of the demonstrated effectiveness (statistical significance) in addressing racial/ethnic disparities and/or urban/rural disparities in women who are pregnant and/or postpartum; 
+  2. A description of the demonstrated effectiveness (statistical significance) in addressing racial/ethnic disparities and/or urban/rural disparities in women who are pregnant and/or postpartum;
 
   3. Demonstrates that the program was successfully replicated and/or expanded: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program.
 ---
@@ -411,34 +458,67 @@ All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and
 
 ### How to Enter
 
-Participants will submit their innovations at: 
+#### Registration for this Challenge:
 
-**Submission URL:**
+Beginning September 30, 2020 at 7:15 am EST, the identified Official Representative (individual, team, or legal entity) may register for this competition by sending an email to [HypertensionChallenge@hhs.gov](HypertensionChallenge@hhs.gov) with the subject line stating ‘Hypertension Competition Registration’. In this email you must identify only one Official Representative for each competition registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the participant (individual, team, or legal entity), that he or she has read and consents to be governed by the competition rules. Registration for this competition is due by October 29, 2020 at 11:59 pm EST.
 
-**Phase 1: Identification of successful programs** 
+Questions concerning this competition should be sent by email to: 
+[HypertensionChallenge@hhs.gov](HypertensionChallenge@hhs.gov).
 
-Phase 1 of the competition aims to identify effective programs that range in their design and range geographically. The goal of Phase 1 will be the identification of an effective program that can successfully target gaps in diagnosis, prevention, and treatment of hypertension in women who are pregnant and/or postpartum.  The submissions should aim to demonstrate that the program was developed from evidence-based techniques for providing hypertension care.  The Phase 1 submission shall include a comprehensive description of the program in 5 pages or less, including:
+**Phase 1: Identification of successful programs**
 
-1. A one-paragraph executive summary that clearly states how the program has previously demonstrated effectiveness (statistical significance) in: controlling hypertension in women who are pregnant and/or postpartum AND/OR increasing continued monitoring of hypertension in women who are pregnant and/or postpartum; 
+Submissions for Phase 1 of this competition are due by October 30, 2020 at 11:59 pm EST. The identified Official Representative (individual, team or legal entity) may apply for this competition by submitting an application by email to [HypertensionChallenge@hhs.gov](HypertensionChallenge@hhs.gov). The application for Phase 1 of the competition shall meet the following requirements:
+
+* Entries must consist of PDF files with font size no smaller than 11-point Arial.
+* All submissions must be in English.
+* Participants must not use HHS or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement.
+* Submission details should be sent to [HypertensionChallenge@hhs.gov](HypertensionChallenge@hhs.gov):
+
+  * Title the email subject line “Hypertension Competition Phase 1 Proposal”.
+  * Email sender (person and email address) must be Official Representative/person of contact for the team.
+
+Phase 1 of the competition aims to identify effective programs that range in their design and range geographically. The goal of Phase 1 will be the identification of an effective program that can successfully target gaps in diagnosis, prevention, and treatment of hypertension in women who are pregnant and/or postpartum. The submissions should aim to demonstrate that the program was developed from evidence-based techniques for providing hypertension care. The Phase 1 submission shall include a comprehensive description of the program in 5 pages or less, including:
+
+1. A one-paragraph executive summary that clearly states how the program has previously demonstrated effectiveness (statistical significance) in: controlling hypertension in women who are pregnant and/or postpartum AND/OR increasing continued monitoring of hypertension in women who are pregnant and/or postpartum;
 2. A description of how the program addresses racial/ethnic disparities and/or urban/rural disparities;
 3. A description of how the program uses evidence-based approaches to target gaps in diagnosis, prevention, and treatment of women with hypertension who are pregnant and/or postpartum; and
 4. A description of how the program is innovative at targeting gaps in diagnosis, prevention, and treatment of women with hypertension who are pregnant and/or postpartum.
 
-**Phase 2: Awarding plans for sustainability and replication and/or expansion** 
+**Phase 2: Awarding plans for sustainability and replication and/or expansion**
 
-Phase 2 of the competition builds upon the work of Phase 1.  Phase 2 is focused on demonstrating the program can be applied to more women who are pregnant and/or postpartum, resulting in positive outcomes. The Phase 2 submission shall include a comprehensive description, in 5 pages or less, of:
+Submissions for Phase 2 of this competition are due by October 30, 2021 at 11:59 pm EST. Only participants who received an award for their Phase 1 submission are eligible to apply for Phase 2. The identified Official Representative (individual, team or legal entity) may apply for this phase by submitting an application by email to [HypertensionChallenge@hhs.gov](HypertensionChallenge@hhs.gov). The application for Phase 2 of the competition shall meet the following requirements:
 
-1. A description of the demonstrated effectiveness (statistical significance) in: controlling hypertension in women who are pregnant and/or postpartum AND/OR increasing continued monitoring of hypertension in women who are pregnant and/or postpartum; 
-2. A description of the demonstrated effectiveness (statistical significance) in addressing racial/ethnic disparities and/or urban/rural disparities in women who are pregnant and/or postpartum; 
-3. A description of the plan for sustainability (long-term viability); and 
+* Entries must consist of PDF files with font size no smaller than 11-point Arial.
+* All submissions must be in English.
+* Solvers must not use HHS or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement.
+* Submission details should be sent to [HypertensionChallenge@hhs.gov](HypertensionChallenge@hhs.gov):
+
+  * Title the email subject line “Hypertension Competition Phase 2 Proposal”.
+  * Email sender (person and email address) must be Official Representative/person of contact for the team.
+
+Phase 2 of the competition builds upon the work of Phase 1. Phase 2 is focused on demonstrating the program can be applied to more women who are pregnant and/or postpartum, resulting in positive outcomes. The Phase 2 submission shall include a comprehensive description, in 5 pages or less, of:
+
+1. A description of the demonstrated effectiveness (statistical significance) in: controlling hypertension in women who are pregnant and/or postpartum AND/OR increasing continued monitoring of hypertension in women who are pregnant and/or postpartum;
+2. A description of the demonstrated effectiveness (statistical significance) in addressing racial/ethnic disparities and/or urban/rural disparities in women who are pregnant and/or postpartum;
+3. A description of the plan for sustainability (long-term viability); and
 4. A description of the plan for replication and/or expansion: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program.
 
-**Phase 3: Awarding programs that have successfully replicated and/or expanded** 
+**Phase 3: Awarding programs that have successfully replicated and/or expanded**
 
-Phase 3 builds upon the work of Phase 2.  Part of the scoring criteria for Phase 3 evaluates whether the program was successfully replicated and/or expanded.  Participants are expected to successfully replicate and/or expand the program: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program. 
+Submissions for Phase 3 of this competition are due by October 30, 2022 at 11:59 pm EST.  Only participants who received an award for their Phase 2 submission are eligible to apply for Phase 3. The identified Official Representative (individual, team or legal entity) may apply for this phase by submitting an application by email to [HypertensionChallenge@hhs.gov](HypertensionChallenge@hhs.gov). The application for Phase 3 of the competition shall meet the following requirements:
+
+* Entries must consist of PDF files with font size no smaller than 11-point Arial.
+* All submissions must be in English.
+* Solvers must not use HHS or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement.
+* Submission details should be sent to [HypertensionChallenge@hhs.gov](HypertensionChallenge@hhs.gov):
+
+  * Title the email subject line “Hypertension Competition Phase 3 Proposal”.
+  * Email sender (person and email address) must be Official Representative/person of contact for the team.
+
+Phase 3 builds upon the work of Phase 2. Part of the scoring criteria for Phase 3 evaluates whether the program was successfully replicated and/or expanded. Participants are expected to successfully replicate and/or expand the program: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program.
 
 The Phase 3 submission shall include a comprehensive description of how the program was replicated and/or expanded in 5 pages or less, including:
 
-1. A description of the demonstrated effectiveness (statistical significance) in: **controlling hypertension** in women who are pregnant and/or postpartum AND/OR  **increasing continued monitoring of hypertension** in women who are pregnant and/or postpartum;
-2. A description of the demonstrated effectiveness (statistical significance) in addressing racial/ethnic disparities and/or urban/rural disparities in women who are pregnant and/or postpartum; 
+1. A description of the demonstrated effectiveness (statistical significance) in: **controlling hypertension** in women who are pregnant and/or postpartum AND/OR **increasing continued monitoring of hypertension** in women who are pregnant and/or postpartum;
+2. A description of the demonstrated effectiveness (statistical significance) in addressing racial/ethnic disparities and/or urban/rural disparities in women who are pregnant and/or postpartum;
 3. Demonstrates that the program was successfully replicated and/or expanded: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program.
