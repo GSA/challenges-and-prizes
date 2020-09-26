@@ -276,19 +276,12 @@ The Phase 3 submission shall include a comprehensive description of how the prog
 2. A description of the demonstrated effectiveness (statistical significance) in addressing racial/ethnic disparities among breastfeeding mothers in the United States; and
 3. Demonstrates that the program was successfully replicated and/or expanded: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program.
 
-Phase 3 Scoring Criteria (Awarding programs that have been successfully replicated in another setting)
-All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and 5 being the highest score on each dimension. Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase 3 include:
+**Phase 3 Scoring Criteria (Awarding programs that have been successfully replicated in another setting)**
 
-Phase 3 Scoring Criteria (Awarding programs that have been successfully replicated)
-%
-Demonstrates effectiveness (statistical significance) in:                      increasing rates of initiation of breastfeeding and/or increasing rates of continuation of breastfeeding among mothers in the United States.
+All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and 5 being the highest score on each dimension. Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase 3 include (Total Points 100%):
 
-25
-Demonstrates effectiveness (statistical significance) in addressing racial/ethnic disparities among breastfeeding mothers in the United States
-25
-Demonstrates that the program successfully replicated and/or expanded: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program
-50
-Total Points
-100
+* Demonstrates effectiveness (statistical significance) in: increasing rates of initiation of breastfeeding and/or increasing rates of continuation of breastfeeding among mothers in the United States: **(25%)**
+* Demonstrates effectiveness (statistical significance) in addressing racial/ethnic disparities among breastfeeding mothers in the United States: **(25%)**
+* Demonstrates that the program successfully replicated and/or expanded: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program: **(50%)**
 
 ### How to Enter
