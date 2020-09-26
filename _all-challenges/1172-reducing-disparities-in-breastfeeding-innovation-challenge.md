@@ -428,13 +428,17 @@ Phase 2 of the competition builds upon the work of Phase 1. Phase 2 is focused o
 **Phase 3: Awarding programs that have successfully replicated and/or expanded**
 
 Submissions for Phase 3 of this competition are due by October 30, 2022 at 11:59 pm EST.  Only participants who received an award for their Phase 2 submission are eligible to apply for Phase 3. The identified Official Representative (individual, team or legal entity) may apply for this phase by submitting an application by email to [BreastfeedingChallenge@hhs.gov](mailto:BreastfeedingChallenge@hhs.gov). The application for Phase 3 of the competition shall meet the following requirements:
-	•	Entries must consist of PDF files with font size no smaller than 11-point Arial.
-	•	All submissions must be in English.
-	•	Solvers must not use HHS or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement.
-	•	Submission details should be sent to BreastfeedingChallenge@hhs.gov:
-	•	Title the email subject line “Breastfeeding Competition Phase 3 Proposal.”
-	•	Email sender (person and email address) must be Official Representative/person of contact for the team.
+
+1. Entries must consist of PDF files with font size no smaller than 11-point Arial.
+2. All submissions must be in English.
+3. Solvers must not use HHS or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement.
+4. Submission details should be sent to <BreastfeedingChallenge@hhs.gov>:
+
+   * Title the email subject line “Breastfeeding Competition Phase 3 Proposal.”
+   * Email sender (person and email address) must be Official Representative/person of contact for the team.
+
 Phase 3 builds upon the work of Phase 2. Part of the scoring criteria for Phase 3 evaluates whether the program was successfully replicated and/or expanded. Participants are expected to successfully replicate and/or expand the program: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program. 
+
 The Phase 3 submission shall include a comprehensive description of how the program was replicated and/or expanded in 5 pages or less, including:
 
 1. A description of the demonstrated effectiveness (statistical significance) in: increasing rates of initiation of breastfeeding and/or increasing rates of continuation of breastfeeding among mothers in the United States;
