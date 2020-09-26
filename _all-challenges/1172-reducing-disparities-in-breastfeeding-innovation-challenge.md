@@ -15,6 +15,7 @@ tagline: The U.S. Department of Health and Human Services’ (HHS), Office of th
   States.
 agency: Department of Health and Human Services - Office of the Assistant
   Secretary for Health (OASH), Office of Women's Health (OWH)
+total-prize-offered-cash: $800,000
 type-of-challenge:
   - Software and apps
   - Creative (multimedia & design)
@@ -29,6 +30,124 @@ legal-authority: America COMPETES Act
 challenge-manager: Jared Tolbert
 challenge-manager-email: jared.tolbert@hhs.gov
 point-of-contact: BreastfeedingChallenge@hhs.gov
+description: >-
+  The Office of the Assistant Secretary for Health (OASH), Office on Women’s
+  Health (OWH) is seeking innovative ways to increase breastfeeding initiation
+  and/or continuation rates and decrease disparities among breastfeeding mothers
+  in the United States through the HHS Reducing Disparities in Breastfeeding
+  Innovation Challenge.
+
+
+  #### Background/Issue
+
+
+  The HHS Office on Women’s Health (OWH) is charged with providing expert advice and consultation to the Secretary on scientific, legal, ethical, and policy issues, and serving as a coordination point throughout HHS on issues affecting the health of women and girls. OWH establishes short and long-term goals within the Department for research, disease prevention and health promotion, service delivery, and education for public health and health care professionals surrounding women and girls’ health. OWH identifies needs and monitors activities within the Department that contribute to women and girls’ health and through leadership of the Coordinating Committee on Women’s Health. Additionally, OWH is responsible for facilitating the exchange of information through the National Women’s Health Information Center and promoting women and girls’ health programs and policies, all aimed at improving the health of women and girls.
+
+
+  Breastfeeding is good for mothers and babies. Breast milk provides the necessary nutrition for infants, changing over time to meet infants’ changing nutritional needs. Breastfeeding can reduce the risk of short- and long-term illnesses and diseases in both mother and baby. The [American Academy of Pediatrics recommends](https://pediatrics.aappublications.org/content/129/3/e827) “exclusive breastfeeding for the first six months with continued breastfeeding with complementary foods for one year or longer as mutually desired by mother and infant.” Research also suggests that [breastfeeding may reduce a mother's risk](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2752994) of hyperlipidemia, hypertension, diabetes, and cardiovascular disease.  Furthermore, studies suggest that interventions focusing on the prevention of diabetes and hypertension through education about breastfeeding benefits may have a positive impact on mothers’ cardiovascular outcomes.  Despite the many benefits of breastfeeding, racial and ethnic disparities exist among women initiating and continuing breastfeeding.
+
+
+  African American mothers have persistently had the lowest rate of breastfeeding initiation and duration.  The [2011 Surgeon General’s Call to Action to Support Breastfeeding](https://www.ncbi.nlm.nih.gov/books/NBK52682/pdf/Bookshelf_NBK52682.pdf) noted that breastfeeding rates for black infants are lower than for white infants at all measurement periods after controlling for family income and education level. 
+
+
+  #### Purpose
+
+
+  OWH is creating a national competition to identify effective, pre-existing programs that increase breastfeeding initiation and continuation rates and decrease disparities among breastfeeding mothers in the United States. The goal of this innovative competition is to demonstrate sustainability and the ability to replicate and/or expand a program that has proven outcomes to improve breastfeeding rates and reduce disparities.
+
+
+  #### Subject and Scope of Prize Competition
+
+
+  The program must demonstrate evidence-based interventions to target gaps in breastfeeding education, instruction, and/or support for breastfeeding mothers in the United States.  The program will be shared with the general public.
+
+
+  The competition has three phases. All eligible submissions will be evaluated, and separate prizes may be awarded for each of the three phases.
+prizes: >-
+  #### Prize Breakdown
+
+
+  **Phase 1 FY20** (Identification of successful programs): Up to 15 submissions may be selected to each receive a prize of up to $15,000. 
+
+
+  **Phase 2 FY21** (Awarding plans for sustainability and replication and/or expansion): The participants selected to receive a prize for Phase 1 may compete for consideration to receive a prize in Phase 2.  Up to 10 submissions may be selected to each receive a prize of up to $30,000.
+
+
+  **Phase 3 FY22** (Awarding programs that have successfully replicated and/or expanded): The participants selected to receive a prize in Phase 2 may compete for consideration to receive a prize in Phase 3.  Up to 5 submissions may be selected to each receive a prize of up to $55,000. 
+
+
+  * All winners will be notified via email.
+
+  * Total Awards: $800,000 in FY20 funds.
+
+
+  Awardees will be expected to present their program for Office on Women’s Health staff and members of the public at the end of each award phase.  This presentation may be virtual or in-person and prize funds are expected to be used to facilitate this presentation.
+rules: >-
+  
+
+  #### Eligibility
+
+
+  To be eligible to win a prize under this competition, an individual, group, or entity—
+
+
+  1. Shall have registered to participate in the competition under the rules promulgated by HHS;
+
+  2. Shall have complied with all the requirements under this section;
+
+  3. In the case of a private entity, shall be incorporated in and maintain a primary place of business in the United States, and in the case of an individual, whether participating singly or in a group, shall be a citizen or permanent resident of the United States; 
+
+  4. May not be a Federal entity or Federal employee acting within the scope of their employment (all non-HHS Federal employees must consult with their agency Ethics Official to determine whether the Federal ethics rules will limit or prohibit the acceptance of a COMPETES Act prize);
+
+  5. Shall not be a Federal employee working on their applications or submissions during assigned duty hours;
+
+  6. May not be an HHS employee; 
+
+  7. May not be any other individual or entity associated with the development, evaluation, or administration of the competition or members of such persons’ immediate families (i.e., spouses, children, siblings, parents), and persons living in the same household as such persons, whether or not related;
+
+  8. A Federal grantee may not use Federal funds to develop submissions unless consistent with the purpose of their grant award;
+
+  9. A Federal contractor may not use Federal funds from a contract to develop COMPETES Act challenge applications or to fund efforts in support of a COMPETES Act challenge submission;
+
+  10. Shall not be deemed ineligible because the individual or entity used federal facilities or consulted with federal employees during a competition if the facilities and employees are made equitably available to all individuals and entities participating in the competition;
+
+  11. Must provide a statement agreeing to indemnify the federal government against third party claims for damages arising from or related to competition activities;
+
+  12. Must provide a statement agreeing to assume all risks and waive claims against the Federal Government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from participation in this prize contest, whether the injury, death, damage, or loss arises through negligence or otherwise.
+
+  13. Agree to obtain liability insurance, or demonstrate financial responsibility, in the amount of $500,000, for claims by (a) a third party for death, bodily injury, property damage, or loss resulting from an activity carried out in connection with participation in a Challenge, with the Federal Government named as an additional insured under the registered participant’s insurance policy, and (b) the Federal Government for damage or loss to Government property resulting from such activity.
+
+  14. Shall not be currently on the Excluded Parties List (<https://oig.hhs.gov/exclusions/index.asp>).
+
+
+  **Additionally**
+
+
+  Participants shall not use the OWH or HHS logos or official seals in their submissions and must not claim endorsement.
+
+
+  Participants agree that HHS may disqualify the submission if, in HHS’ judgment, the program is inconsistent with HHS’ public health mission, may be ineffective or harmful, or any other reason deemed necessary.
+
+
+  HHS reserves the right to cancel, suspend, and/or modify the competition or any part of it, for any reason, at HHS’ sole discretion.
+
+
+  #### Payment of the Prize: 
+
+
+  Prizes awarded under this competition will be paid by electronic funds transfer and may be subject to Federal income taxes. HHS will comply with the Internal Revenue Service withholding and reporting requirements, where applicable.
+
+
+  #### Intellectual Property (IP):
+
+
+  * Each participant retains full ownership and title in and to their submission. Participants expressly reserve all intellectual property rights not expressly granted under this publication notice.
+
+  * By participating in the competition, each participant (whether participating singly or in a group) warrants that he or she is the sole author or owner of, or has the right to use, any copyrightable works that the submission comprises, that the works are wholly original with the participant (or is an improved version of an existing work that the participant has sufficient rights to use and improve), and that the submission does not infringe any copyright or any other rights of any third party of which participant is aware. In addition, each participant (whether participating singly or in a group) and each entity grants to HHS an irrevocable, paid-up, royalty-free non exclusive worldwide license to reproduce, publish, post link to, share, and display publicly (e.g., on websites) the abstracts on the web or elsewhere. Each participant will retain all other intellectual property rights in their submissions, as applicable. To participate in the competition, each participant must warrant that there are no legal obstacles to providing the above-referenced non exclusive licenses of participant rights to the federal government. To receive an award, winners must grant to the federal government the nonexclusive, non transferable, irrevocable, paid up license to practice, or have practiced for or on its behalf the solution throughout the world for federal purposes. Winners must also grant to the federal government and others acting on its behalf, a fully paid, nonexclusive, irrevocable, worldwide license in any copyrightable works that the submission comprises, including the right to reproduce, prepare derivative works, distribute copies to the public, and perform publicly and display publicly said copyrightable works. Each participant also warrants that the work is free of security threats and/or malware. 
+
+  * By participating in the competition, each participant hereby grants an irrevocable and royalty-free license to HHS to store, access, modify, reproduce, and distribute submissions in perpetuity.
+
+  * Record Retention and FOIA: All materials submitted to HHS as part of a submission become HHS records and cannot be returned. Any confidential commercial information contained in a submission should be designated in accordance with 45 C.F.R. § 5.41. Participants will be notified of Freedom of Information Act requests for their submissions in accordance with 45 C.F.R. § 5.42.
 ---
 ### Description
 
@@ -38,9 +157,9 @@ The Office of the Assistant Secretary for Health (OASH), Office on Women’s Hea
 
 The HHS Office on Women’s Health (OWH) is charged with providing expert advice and consultation to the Secretary on scientific, legal, ethical, and policy issues, and serving as a coordination point throughout HHS on issues affecting the health of women and girls. OWH establishes short and long-term goals within the Department for research, disease prevention and health promotion, service delivery, and education for public health and health care professionals surrounding women and girls’ health. OWH identifies needs and monitors activities within the Department that contribute to women and girls’ health and through leadership of the Coordinating Committee on Women’s Health. Additionally, OWH is responsible for facilitating the exchange of information through the National Women’s Health Information Center and promoting women and girls’ health programs and policies, all aimed at improving the health of women and girls.
 
-Breastfeeding is good for mothers and babies. Breast milk provides the necessary nutrition for infants, changing over time to meet infants’ changing nutritional needs. Breastfeeding can reduce the risk of short- and long-term illnesses and diseases in both mother and baby. The American Academy of Pediatrics recommends “exclusive breastfeeding for the first six months with continued breastfeeding with complementary foods for one year or longer as mutually desired by mother and infant.” Research also suggests that breastfeeding may reduce a mother's risk of hyperlipidemia, hypertension, diabetes, and cardiovascular disease.  Furthermore, studies suggest that interventions focusing on the prevention of diabetes and hypertension through education about breastfeeding benefits may have a positive impact on mothers’ cardiovascular outcomes.  Despite the many benefits of breastfeeding, racial and ethnic disparities exist among women initiating and continuing breastfeeding.
+Breastfeeding is good for mothers and babies. Breast milk provides the necessary nutrition for infants, changing over time to meet infants’ changing nutritional needs. Breastfeeding can reduce the risk of short- and long-term illnesses and diseases in both mother and baby. The [American Academy of Pediatrics recommends](https://pediatrics.aappublications.org/content/129/3/e827) “exclusive breastfeeding for the first six months with continued breastfeeding with complementary foods for one year or longer as mutually desired by mother and infant.” Research also suggests that [breastfeeding may reduce a mother's risk](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2752994) of hyperlipidemia, hypertension, diabetes, and cardiovascular disease.  Furthermore, studies suggest that interventions focusing on the prevention of diabetes and hypertension through education about breastfeeding benefits may have a positive impact on mothers’ cardiovascular outcomes.  Despite the many benefits of breastfeeding, racial and ethnic disparities exist among women initiating and continuing breastfeeding.
 
-African American mothers have persistently had the lowest rate of breastfeeding initiation and duration.  The 2011 Surgeon General’s Call to Action to Support Breastfeeding noted that breastfeeding rates for black infants are lower than for white infants at all measurement periods after controlling for family income and education level. 
+African American mothers have persistently had the lowest rate of breastfeeding initiation and duration.  The [2011 Surgeon General’s Call to Action to Support Breastfeeding](https://www.ncbi.nlm.nih.gov/books/NBK52682/pdf/Bookshelf_NBK52682.pdf) noted that breastfeeding rates for black infants are lower than for white infants at all measurement periods after controlling for family income and education level. 
 
 #### Purpose
 
@@ -54,8 +173,135 @@ The competition has three phases. All eligible submissions will be evaluated, an
 
 ### Prizes
 
+#### Prize Breakdown
+
+**Phase 1 FY20** (Identification of successful programs): Up to 15 submissions may be selected to each receive a prize of up to $15,000. 
+
+**Phase 2 FY21** (Awarding plans for sustainability and replication and/or expansion): The participants selected to receive a prize for Phase 1 may compete for consideration to receive a prize in Phase 2.  Up to 10 submissions may be selected to each receive a prize of up to $30,000.
+
+**Phase 3 FY22** (Awarding programs that have successfully replicated and/or expanded): The participants selected to receive a prize in Phase 2 may compete for consideration to receive a prize in Phase 3.  Up to 5 submissions may be selected to each receive a prize of up to $55,000. 
+
+* All winners will be notified via email.
+* Total Awards: $800,000 in FY20 funds.
+
+Awardees will be expected to present their program for Office on Women’s Health staff and members of the public at the end of each award phase.  This presentation may be virtual or in-person and prize funds are expected to be used to facilitate this presentation. 
+
 ### Rules
 
+#### Eligibility
+
+To be eligible to win a prize under this competition, an individual, group, or entity—
+
+1. Shall have registered to participate in the competition under the rules promulgated by HHS;
+2. Shall have complied with all the requirements under this section;
+3. In the case of a private entity, shall be incorporated in and maintain a primary place of business in the United States, and in the case of an individual, whether participating singly or in a group, shall be a citizen or permanent resident of the United States; 
+4. May not be a Federal entity or Federal employee acting within the scope of their employment (all non-HHS Federal employees must consult with their agency Ethics Official to determine whether the Federal ethics rules will limit or prohibit the acceptance of a COMPETES Act prize);
+5. Shall not be a Federal employee working on their applications or submissions during assigned duty hours;
+6. May not be an HHS employee; 
+7. May not be any other individual or entity associated with the development, evaluation, or administration of the competition or members of such persons’ immediate families (i.e., spouses, children, siblings, parents), and persons living in the same household as such persons, whether or not related;
+8. A Federal grantee may not use Federal funds to develop submissions unless consistent with the purpose of their grant award;
+9. A Federal contractor may not use Federal funds from a contract to develop COMPETES Act challenge applications or to fund efforts in support of a COMPETES Act challenge submission;
+10. Shall not be deemed ineligible because the individual or entity used federal facilities or consulted with federal employees during a competition if the facilities and employees are made equitably available to all individuals and entities participating in the competition;
+11. Must provide a statement agreeing to indemnify the federal government against third party claims for damages arising from or related to competition activities;
+12. Must provide a statement agreeing to assume all risks and waive claims against the Federal Government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from participation in this prize contest, whether the injury, death, damage, or loss arises through negligence or otherwise.
+13. Agree to obtain liability insurance, or demonstrate financial responsibility, in the amount of $500,000, for claims by (a) a third party for death, bodily injury, property damage, or loss resulting from an activity carried out in connection with participation in a Challenge, with the Federal Government named as an additional insured under the registered participant’s insurance policy, and (b) the Federal Government for damage or loss to Government property resulting from such activity.
+14. Shall not be currently on the Excluded Parties List (<https://oig.hhs.gov/exclusions/index.asp>).
+
+**Additionally**
+
+Participants shall not use the OWH or HHS logos or official seals in their submissions and must not claim endorsement.
+
+Participants agree that HHS may disqualify the submission if, in HHS’ judgment, the program is inconsistent with HHS’ public health mission, may be ineffective or harmful, or any other reason deemed necessary.
+
+HHS reserves the right to cancel, suspend, and/or modify the competition or any part of it, for any reason, at HHS’ sole discretion.
+
+#### Payment of the Prize:
+
+Prizes awarded under this competition will be paid by electronic funds transfer and may be subject to Federal income taxes. HHS will comply with the Internal Revenue Service withholding and reporting requirements, where applicable.
+
+#### Intellectual Property (IP):
+
+* Each participant retains full ownership and title in and to their submission. Participants expressly reserve all intellectual property rights not expressly granted under this publication notice.
+* By participating in the competition, each participant (whether participating singly or in a group) warrants that he or she is the sole author or owner of, or has the right to use, any copyrightable works that the submission comprises, that the works are wholly original with the participant (or is an improved version of an existing work that the participant has sufficient rights to use and improve), and that the submission does not infringe any copyright or any other rights of any third party of which participant is aware. In addition, each participant (whether participating singly or in a group) and each entity grants to HHS an irrevocable, paid-up, royalty-free non exclusive worldwide license to reproduce, publish, post link to, share, and display publicly (e.g., on websites) the abstracts on the web or elsewhere. Each participant will retain all other intellectual property rights in their submissions, as applicable. To participate in the competition, each participant must warrant that there are no legal obstacles to providing the above-referenced non exclusive licenses of participant rights to the federal government. To receive an award, winners must grant to the federal government the nonexclusive, non transferable, irrevocable, paid up license to practice, or have practiced for or on its behalf the solution throughout the world for federal purposes. Winners must also grant to the federal government and others acting on its behalf, a fully paid, nonexclusive, irrevocable, worldwide license in any copyrightable works that the submission comprises, including the right to reproduce, prepare derivative works, distribute copies to the public, and perform publicly and display publicly said copyrightable works. Each participant also warrants that the work is free of security threats and/or malware. 
+* By participating in the competition, each participant hereby grants an irrevocable and royalty-free license to HHS to store, access, modify, reproduce, and distribute submissions in perpetuity.
+* Record Retention and FOIA: All materials submitted to HHS as part of a submission become HHS records and cannot be returned. Any confidential commercial information contained in a submission should be designated in accordance with 45 C.F.R. § 5.41. Participants will be notified of Freedom of Information Act requests for their submissions in accordance with 45 C.F.R. § 5.42.
+
 ### Judging Criteria
+
+Judging Criteria
+A panel of judges will evaluate the submissions on the criteria identified below. Judges will be fair and impartial, may not have a personal or financial interest in, or be an employee, officer, director, or agent of, any entity that is a registered participant in the competition, and may not have a familial or financial relationship with an individual who is a registered contestant. The panel will make winner selections based upon the criteria outlined below and in compliance with the [HHS Competition Judging Guidelines](https://www.hhs.gov/sites/default/files/HHS-COMPETITION-JUDGING-GUIDELINES.pdf).  Entries not in compliance with the submission requirements outlined below will be ineligible for further review and prize award.  
+
+**Phase 1: Identification of successful programs** 
+
+Phase 1 of the competition aims to identify effective programs that range in their design and range geographically. The goal of Phase 1 will be the identification of effective programs that can successfully increase the initiation of breastfeeding and/or increase rates of continuation of breastfeeding among mothers in the United States.  The submissions should aim to demonstrate that the program applies evidence-based interventions to target gaps in breastfeeding education, instruction, and/or support. The Phase 1 submission will include a comprehensive description of the program in 5 pages or less, including:
+
+1. A one-paragraph executive summary that clearly states how the program has previously demonstrated effectiveness (statistical significance) in increasing rates of initiation of breastfeeding and/or increasing rates of continuation of breastfeeding among mothers in the United States;
+2. A description of the ability of the program to address racial/ethnic disparities among breastfeeding mothers in the United States;
+3. A description of how the program applies evidence-based interventions to target gaps in breastfeeding education, instruction, and/or support for breastfeeding mothers in the United States; and
+4. A description of how the program is innovative at targeting gaps in breastfeeding education, instruction, and/or support for breastfeeding mothers in the United States
+
+Phase 1 Scoring Criteria (Identification of successful programs)
+All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and 5 being the highest score on each dimension. Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase 1 include:
+
+Phase 1 Scoring Criteria (Identification of successful programs)
+%
+Previously demonstrated effectiveness (statistical significance) in:                      increasing rates of initiation of breastfeeding and/or increasing rates of continuation of breastfeeding among mothers in the United States.
+
+20
+Ability of the program to address racial/ethnic disparities
+among breastfeeding mothers in the Unites States 
+40
+Application of evidence-based interventions to target gaps in breastfeeding education, instruction, and/or support for breastfeeding mothers in the United States
+20
+A description of how the program is innovative at targeting gaps in breastfeeding education, instruction, and/or support for breastfeeding mothers in the United States
+20
+Total Points
+100
+
+Phase 2: Awarding plans for sustainability and replication and/or expansion 
+Phase 2 of the competition builds upon the work of Phase 1. Phase 2 is focused on demonstrating the program can be implemented in additional settings, resulting in positive outcomes. The Phase 2 submission will include a comprehensive description of the program in 5 pages or less, of:
+	•	A description of the demonstrated effectiveness (statistical significance) in: increasing rates of initiation of breastfeeding and/or increasing rates of continuation of breastfeeding among mothers in the United States.
+	•	A description of the demonstrated effectiveness (statistical significance) in addressing racial/ethnic disparities among breastfeeding mothers in the United States
+	•	A description of the plan for sustainability (long-term viability); and 
+	•	A description of the plan for replication and/or expansion: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program.
+Phase 2 Scoring Criteria (Awarding plans for sustainability and replication and/or expansion)
+All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and 5 being the highest score on each dimension. Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase 2 include:
+
+Phase 2 Scoring Criteria (Awarding plans for sustainability and replication and/or expansion)
+%
+Demonstrates effectiveness (statistical significance) in:                      increasing rates of initiation of breastfeeding and/or increasing rates of continuation of breastfeeding among mothers in the United States.
+
+30
+Demonstrates effectiveness (statistical significance) in addressing racial/ethnic disparities among breastfeeding mothers in the United States
+30
+Description of the plan for sustainability by demonstrating that the program has long-term viability
+20
+Description of the plan for replication and/or expansion: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program.\
+20
+Total Points
+100
+
+Phase 3 (Awarding programs that have successfully replicated and/or expanded) 
+Phase 3 builds upon the work of Phase 2. Part of the scoring criteria for Phase 3 evaluates whether the program was successfully replicated and/or expanded.  Participants are expected to successfully replicate and/or expand the program: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program. 
+The Phase 3 submission shall include a comprehensive description of how the program was replicated and/or expanded in 5 pages or less, including:
+
+```
+
+```
+
+Phase 3 Scoring Criteria (Awarding programs that have been successfully replicated in another setting)
+All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and 5 being the highest score on each dimension. Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase 3 include:
+
+Phase 3 Scoring Criteria (Awarding programs that have been successfully replicated)
+%
+Demonstrates effectiveness (statistical significance) in:                      increasing rates of initiation of breastfeeding and/or increasing rates of continuation of breastfeeding among mothers in the United States.
+
+25
+Demonstrates effectiveness (statistical significance) in addressing racial/ethnic disparities among breastfeeding mothers in the United States
+25
+Demonstrates that the program successfully replicated and/or expanded: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program
+50
+Total Points
+100
 
 ### How to Enter
