@@ -6,7 +6,7 @@ permalink: /challenge/hhs-hypertension-innovator-award-competition/
 challenge-id: "1170"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/nwbpaw-just-heart.jpg
+card-image: /assets/netlify-uploads/webp.net-resizeimage-3-.jpg
 agency-logo: /assets/netlify-uploads/hhs.png
 tagline: Innovative methods of blood pressure monitoring and follow-up in women
   during pregnancy and/or postpartum
