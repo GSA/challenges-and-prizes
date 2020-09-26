@@ -110,7 +110,7 @@ prizes: >-
 
   Awardees will be expected to present their program for Office on Women’s Health staff and members of the public at the end of each award phase.  This presentation may be virtual or in-person and prize funds are expected to be used to facilitate this presentation.
 rules: >-
-  #### Eligibility 
+  #### Eligibility
 
 
   To be eligible to win a prize under this competition, an individual, group, or entity—
@@ -142,7 +142,7 @@ rules: >-
 
   13. Agree to obtain liability insurance, or demonstrate financial responsibility, in the amount of $500,000, for claims by (a) a third party for death, bodily injury, property damage, or loss resulting from an activity carried out in connection with participation in a Challenge, with the Federal Government named as an additional insured under the registered participant’s insurance policy, and (b) the Federal Government for damage or loss to Government property resulting from such activity.
 
-  14. Shall not be currently on the Excluded Parties List (https://oig.hhs.gov/exclusions/index.asp).
+  14. Shall not be currently on the Excluded Parties List ([https://oig.hhs.gov/exclusions/index.asp](<1. https://oig.hhs.gov/exclusions/index.asp>)).
 
 
   **Additional Information**
@@ -161,12 +161,14 @@ rules: >-
   Prizes awarded under this competition will be paid by electronic funds transfer and may be subject to Federal income taxes. HHS will comply with the Internal Revenue Service withholding and reporting requirements, where applicable.
 
 
-  #### Intellectual Property (IP)
+  #### Intellectual Property (IP):
 
 
   * Each participant retains full ownership and title in and to their submission. Participants expressly reserve all intellectual property rights not expressly granted under this publication notice.
 
-  * By participating in the competition, each participant hereby irrevocably grants to HHS a limited, non-exclusive, royalty-free, worldwide license and right to reproduce, publicly perform, publicly display, and use the submission for internal HHS business and, to the extent necessary, to administer the competition and to publicly perform and publicly display the submission without limitation, including for advertising and promotional purposes relating to the competition.
+  * By participating in the competition, each participant (whether participating singly or in a group) warrants that he or she is the sole author or owner of, or has the right to use, any copyrightable works that the submission comprises, that the works are wholly original with the participant (or is an improved version of an existing work that the participant has sufficient rights to use and improve), and that the submission does not infringe any copyright or any other rights of any third party of which participant is aware. In addition, each participant (whether participating singly or in a group) and each entity grants to HHS an irrevocable, paid-up, royalty-free non exclusive worldwide license to reproduce, publish, post link to, share, and display publicly (e.g., on websites) the abstracts on the web or elsewhere. Each participant will retain all other intellectual property rights in their submissions, as applicable. To participate in the competition, each participant must warrant that there are no legal obstacles to providing the above-referenced non exclusive licenses of participant rights to the federal government. To receive an award, winners must grant to the federal government the nonexclusive, non transferable, irrevocable, paid up license to practice, or have practiced for or on its behalf the solution throughout the world for federal purposes. Winners must also grant to the federal government and others acting on its behalf, a fully paid, nonexclusive, irrevocable, worldwide license in any copyrightable works that the submission comprises, including the right to reproduce, prepare derivative works, distribute copies to the public, and perform publicly and display publicly said copyrightable works. Each participant also warrants that the work is free of security threats and/or malware. 
+
+  * By participating in the competition, each participant hereby grants an irrevocable and royalty-free license to HHS to store, access, modify, reproduce, and distribute submissions in perpetuity.
 
   * Record Retention and FOIA: All materials submitted to HHS as part of a submission become HHS records and cannot be returned. Any confidential commercial information contained in a submission should be designated in accordance with 45 C.F.R. § 5.41. Participants will be notified of Freedom of Information Act requests for their submissions in accordance with 45 C.F.R. § 5.42.
 judging: >-
@@ -334,7 +336,7 @@ Awardees will be expected to present their program for Office on Women’s Healt
 
 ### Rules
 
-#### Eligibility 
+#### Eligibility
 
 To be eligible to win a prize under this competition, an individual, group, or entity—
 
@@ -351,7 +353,7 @@ To be eligible to win a prize under this competition, an individual, group, or e
 11. Must provide a statement agreeing to indemnify the federal government against third party claims for damages arising from or related to competition activities;
 12. Must provide a statement agreeing to assume all risks and waive claims against the Federal Government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from participation in this prize contest, whether the injury, death, damage, or loss arises through negligence or otherwise.
 13. Agree to obtain liability insurance, or demonstrate financial responsibility, in the amount of $500,000, for claims by (a) a third party for death, bodily injury, property damage, or loss resulting from an activity carried out in connection with participation in a Challenge, with the Federal Government named as an additional insured under the registered participant’s insurance policy, and (b) the Federal Government for damage or loss to Government property resulting from such activity.
-14. Shall not be currently on the Excluded Parties List (https://oig.hhs.gov/exclusions/index.asp).
+14. Shall not be currently on the Excluded Parties List ([https://oig.hhs.gov/exclusions/index.asp](<1. https://oig.hhs.gov/exclusions/index.asp>)).
 
 **Additional Information**
 
@@ -363,10 +365,11 @@ To be eligible to win a prize under this competition, an individual, group, or e
 
 Prizes awarded under this competition will be paid by electronic funds transfer and may be subject to Federal income taxes. HHS will comply with the Internal Revenue Service withholding and reporting requirements, where applicable.
 
-#### Intellectual Property (IP)
+#### Intellectual Property (IP):
 
 * Each participant retains full ownership and title in and to their submission. Participants expressly reserve all intellectual property rights not expressly granted under this publication notice.
-* By participating in the competition, each participant hereby irrevocably grants to HHS a limited, non-exclusive, royalty-free, worldwide license and right to reproduce, publically perform, publically display, and use the submission for internal HHS business and, to the extent necessary, to administer the competition and to publically perform and publically display the submission without limitation, including for advertising and promotional purposes relating to the competition.
+* By participating in the competition, each participant (whether participating singly or in a group) warrants that he or she is the sole author or owner of, or has the right to use, any copyrightable works that the submission comprises, that the works are wholly original with the participant (or is an improved version of an existing work that the participant has sufficient rights to use and improve), and that the submission does not infringe any copyright or any other rights of any third party of which participant is aware. In addition, each participant (whether participating singly or in a group) and each entity grants to HHS an irrevocable, paid-up, royalty-free non exclusive worldwide license to reproduce, publish, post link to, share, and display publicly (e.g., on websites) the abstracts on the web or elsewhere. Each participant will retain all other intellectual property rights in their submissions, as applicable. To participate in the competition, each participant must warrant that there are no legal obstacles to providing the above-referenced non exclusive licenses of participant rights to the federal government. To receive an award, winners must grant to the federal government the nonexclusive, non transferable, irrevocable, paid up license to practice, or have practiced for or on its behalf the solution throughout the world for federal purposes. Winners must also grant to the federal government and others acting on its behalf, a fully paid, nonexclusive, irrevocable, worldwide license in any copyrightable works that the submission comprises, including the right to reproduce, prepare derivative works, distribute copies to the public, and perform publicly and display publicly said copyrightable works. Each participant also warrants that the work is free of security threats and/or malware. 
+* By participating in the competition, each participant hereby grants an irrevocable and royalty-free license to HHS to store, access, modify, reproduce, and distribute submissions in perpetuity.
 * Record Retention and FOIA: All materials submitted to HHS as part of a submission become HHS records and cannot be returned. Any confidential commercial information contained in a submission should be designated in accordance with 45 C.F.R. § 5.41. Participants will be notified of Freedom of Information Act requests for their submissions in accordance with 45 C.F.R. § 5.42.
 
 ### Judging Criteria
@@ -402,7 +405,6 @@ All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and
 * Demonstrates effectiveness (statistical significance) in: controlling hypertension in women who are pregnant and/or postpartum AND/OR increasing continued monitoring of hypertension in women who are pregnant and/or postpartum: **(25%)**
 * Demonstrates effectiveness (statistical significance) in addressing racial/ethnic disparities and/or urban/rural disparities in women who are pregnant and/or postpartum: **(25%)**
 * Demonstrates that the program successfully replicated and/or expanded: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program: **(50%)**
-
 
 ### How to Enter
 
