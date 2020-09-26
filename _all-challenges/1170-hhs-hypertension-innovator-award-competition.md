@@ -23,9 +23,12 @@ challenge-manager: Courtney Gustin
 challenge-manager-email: Courtney.gustin@hhs.gov
 point-of-contact: HypertensionChallenge@hhs.gov
 description: >-
-  
-
-  The Office of the Assistant Secretary for Health (OASH), Office on Women’s Health (OWH) is seeking innovative ways to ensure women with hypertension during pregnancy and/or postpartum receive appropriate monitoring and follow-up through the HHS Hypertension Innovator Award Competition:  Innovative Methods of Blood Pressure Monitoring and Follow-up in Women during Pregnancy and/or Postpartum.
+  The Office of the Assistant Secretary for Health (OASH), Office on Women’s
+  Health (OWH) is seeking innovative ways to ensure women with hypertension
+  during pregnancy and/or postpartum receive appropriate monitoring and
+  follow-up through the HHS Hypertension Innovator Award
+  Competition:  Innovative Methods of Blood Pressure Monitoring and Follow-up in
+  Women during Pregnancy and/or Postpartum.
 
 
   #### Background/Issue
@@ -84,9 +87,9 @@ description: >-
 
   * Competition occurs September 29, 2022 through October 30, 2022.
 
-  * Phase 2 submissions are due by October 30, 2022, 11:59 pm EST.
+  * Phase 3 submissions are due by October 30, 2022, 11:59 pm EST.
 
-  * Judging for Phase 2 will occur from October 31, 2022 through November 20, 2022.
+  * Judging for Phase 3 will occur from October 31, 2022 through November 20, 2022.
 
   * Finalists will be awarded by November 21, 2022.
 prizes: >-
@@ -315,8 +318,8 @@ The competition has three phases. All eligible submissions will be evaluated, an
 **Phase 3:** Awarding the programs that have successfully replicated and/or expanded 
 
 * Competition occurs September 29, 2022 through October 30, 2022.
-* Phase 2 submissions are due by October 30, 2022, 11:59 pm EST.
-* Judging for Phase 2 will occur from October 31, 2022 through November 20, 2022.
+* Phase 3 submissions are due by October 30, 2022, 11:59 pm EST.
+* Judging for Phase 3 will occur from October 31, 2022 through November 20, 2022.
 * Finalists will be awarded by November 21, 2022.
 
 ### Prizes
