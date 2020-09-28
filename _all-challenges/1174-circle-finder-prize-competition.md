@@ -18,7 +18,7 @@ total-prize-offered-cash: $50,000
 type-of-challenge:
   - Analytics, visualizations, algorithms
 submission-start: 2020/09/25 5:00 PM
-submission-end: 2020/11/03 11:59 PM
+submission-end: 2020/11/03 5:00 PM
 fiscal-year: FY20
 legal-authority: Agency specific prize authority
 challenge-manager: Jack Brandy
