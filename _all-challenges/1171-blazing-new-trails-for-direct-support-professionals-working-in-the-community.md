@@ -69,6 +69,19 @@ description: >-
   * Include a business commitment to implement the model for Phase 2 (small scale testing) of the challenge.
 
   * Lead to improved stability of the HCBS system and outcomes for individuals with ID/DD.
+
+
+  To better balance the supply of qualified DSPs with the demand, innovations are needed that will stabilize the DSP workforce and overall quality of HCBS. This prize competition will support the rapid innovation and adoption of (business) models that that will better meet market demand, including any factors unique to specific markets, such as geographic location (e.g., be urban, suburban or rural). To bring supply and demand closer together, ACL seeks new approaches that will disrupt current business models which has been driving much of the industry.
+
+
+  The challenge will be completed in three phases: 
+
+
+  * **Phase 1**, beginning in Fall of 2020, ACL will seek proposals from competitors who aim to create innovative models that will improve the stability of the DSP workforce supporting individuals with ID/DD living in the community.
+
+  * **Phase 2**, beginning in Spring of 2021, participants will be asked to conduct small scale feasibility testing on the selected models. Teams will convene in Washington, D.C. or remotely to propose their ideas to a panel of judges who will help select winners. Judges will have expertise in the DSP labor market, economics, and lived experience with ID/DD.
+
+  * **Phase 3**, beginning in Summer 2021, will examine the long-term sustainability of the models and the Grand Prize winner will be announced in October of 2021.
 prizes: >-
   #### Prize Breakdown
 
@@ -147,6 +160,14 @@ ACL is looking for innovative models that:
 * Include individuals from the ID/DD community throughout the development and testing of models.
 * Include a business commitment to implement the model for Phase 2 (small scale testing) of the challenge.
 * Lead to improved stability of the HCBS system and outcomes for individuals with ID/DD.
+
+To better balance the supply of qualified DSPs with the demand, innovations are needed that will stabilize the DSP workforce and overall quality of HCBS. This prize competition will support the rapid innovation and adoption of (business) models that that will better meet market demand, including any factors unique to specific markets, such as geographic location (e.g., be urban, suburban or rural). To bring supply and demand closer together, ACL seeks new approaches that will disrupt current business models which has been driving much of the industry.
+
+The challenge will be completed in three phases: 
+
+* **Phase 1**, beginning in Fall of 2020, ACL will seek proposals from competitors who aim to create innovative models that will improve the stability of the DSP workforce supporting individuals with ID/DD living in the community.
+* **Phase 2**, beginning in Spring of 2021, participants will be asked to conduct small scale feasibility testing on the selected models. Teams will convene in Washington, D.C. or remotely to propose their ideas to a panel of judges who will help select winners. Judges will have expertise in the DSP labor market, economics, and lived experience with ID/DD.
+* **Phase 3**, beginning in Summer 2021, will examine the long-term sustainability of the models and the Grand Prize winner will be announced in October of 2021.
 
 ### Prizes
 
