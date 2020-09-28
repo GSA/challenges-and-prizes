@@ -12,7 +12,7 @@ tagline: NGA is seeking novel approaches to segmentation of satellite imagery to
   detect, delineate, and describe circular-shaped features. These features come
   in a variety of sizes (from 3m to 300m) and compositions (from vegetation to
   steel).
-agency: National Geospatial Intelligence Agency (NGA)
+agency: National Geospatial-Intelligence Agency (NGA)
 external-url: http://circlefinderchallenge.com
 total-prize-offered-cash: $50,000
 type-of-challenge:
