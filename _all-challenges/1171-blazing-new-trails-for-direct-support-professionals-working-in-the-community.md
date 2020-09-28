@@ -95,24 +95,23 @@ prizes: >-
 
   * **Phase 3** – Promise of Model Sustainability: Total Cash Prize of $120,000 - HHS will make one (1) award.
 rules: >-
-  To better balance the supply of qualified DSPs with the demand, innovations
-  are needed that will stabilize the DSP workforce and overall quality of HCBS.
-  This prize competition will support the rapid innovation and adoption of
-  (business) models that that will better meet market demand, including any
-  factors unique to specific markets, such as geographic location (e.g., be
-  urban, suburban or rural). To bring supply and demand closer together, ACL
-  seeks new approaches that will disrupt current business models which has been
-  driving much of the industry. 
+  To be eligible to win a prize under this challenge, an individual or entity
+  may participate as part of one or more teams. An individual or entity:
 
 
-  The challenge will take part in phases, with cash prizes awarded in each phase:
+  * Shall have registered to participate in the competition under the rules promulgated by the Administration for Community Living;
 
+  * Shall have complied with all the requirements under this section;
 
-  * Phase 1, beginning in Fall of 2020, ACL will seek proposals from competitors who aim to create innovative models that will improve the stability of the DSP workforce supporting individuals with ID/DD living in the community.
+  * In the case of a private entity, shall be incorporated in and maintain a primary place of business in the United States, and in the case of an individual, whether participating singly or in a group, shall be a citizen or permanent resident of the United States;
 
-  * Phase 2, beginning in Spring of 2021, participants will be asked to conduct small scale feasibility testing on the selected models.  Teams will convene in Washington, D.C. or remotely to propose their ideas to a panel of judges who will help select winners.  Judges will have expertise in the DSP labor market, economics, and lived experience with ID/DD.
+  * May not be a Federal entity or Federal employee acting within the scope of their employment (all non-HHS federal employees must consult with their agency Ethics Official to determine whether the federal ethics rules will limit or prohibit the acceptance of a COMPETES Act prize);
 
-  * Phase 3, beginning in Summer 2021, will examine the long-term sustainability of the models and the Grand Prize winner will be announced in October of 2021.
+  * Shall not be an HHS employee;
+
+  * Federal grantees may not use Federal funds to develop submissions unless consistent with the purpose of their grant award; and
+
+  * Federal contractors may not use Federal funds from a contract to develop COMPETES Act challenge applications or to fund efforts in support of a COMPETES Act challenge submission.
 
 
   #### Terms and Conditions
@@ -180,6 +179,16 @@ The total prize purse of $310,000 will be executed in three phases. Each phase w
 * **Phase 3** – Promise of Model Sustainability: Total Cash Prize of $120,000 - HHS will make one (1) award.
 
 ### Rules
+
+To be eligible to win a prize under this challenge, an individual or entity may participate as part of one or more teams. An individual or entity:
+
+* Shall have registered to participate in the competition under the rules promulgated by the Administration for Community Living;
+* Shall have complied with all the requirements under this section;
+* In the case of a private entity, shall be incorporated in and maintain a primary place of business in the United States, and in the case of an individual, whether participating singly or in a group, shall be a citizen or permanent resident of the United States;
+* May not be a Federal entity or Federal employee acting within the scope of their employment (all non-HHS federal employees must consult with their agency Ethics Official to determine whether the federal ethics rules will limit or prohibit the acceptance of a COMPETES Act prize);
+* Shall not be an HHS employee;
+* Federal grantees may not use Federal funds to develop submissions unless consistent with the purpose of their grant award; and
+* Federal contractors may not use Federal funds from a contract to develop COMPETES Act challenge applications or to fund efforts in support of a COMPETES Act challenge submission.
 
 #### Terms and Conditions
 
