@@ -6,7 +6,7 @@ permalink: /challenge/ASPIRE-2020/
 challenge-id: "1173"
 status: open
 sidenav: false
-card-image: /assets/netlify-uploads/aspire_341x160.jpg
+card-image: /assets/netlify-uploads/ncats-logo.jpg
 agency-logo: /assets/netlify-uploads/hhs.png
 tagline: Development of a Comprehensive Integrated Platform for Translational
   Innovation in Pain, Opioid Use Disorder and Overdose
