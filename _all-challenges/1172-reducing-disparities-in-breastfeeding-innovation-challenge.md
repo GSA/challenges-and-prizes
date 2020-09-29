@@ -6,7 +6,7 @@ permalink: /challenge/reducing-disparities-breastfeeding-innovation-challenge/
 challenge-id: "1172"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/hhs.png
+card-image: /assets/netlify-uploads/breastfeeding-icon-final-342px-x-160px.png
 agency-logo: /assets/netlify-uploads/hhs.png
 tagline: The U.S. Department of Health and Human Services’ (HHS), Office of the
   Assistant Secretary for Health (OASH), Office on Women’s Health (OWH) is
