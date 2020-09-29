@@ -6,7 +6,7 @@ permalink: /challenge/smart-visualization-platform-prize-challenge/
 challenge-id: "1175"
 status: open
 sidenav: false
-card-image: /assets/netlify-uploads/webp.net-resizeimage-16-.png
+card-image: /assets/netlify-uploads/smart-logo_official_rgb.jpg
 agency-logo: /assets/netlify-uploads/webp.net-resizeimage-16-.png
 tagline: Bring the Earth to Life with a New Intuitive Visualization Tool for
   Subsurface Environments!
