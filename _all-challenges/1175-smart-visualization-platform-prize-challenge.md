@@ -6,8 +6,8 @@ permalink: /challenge/smart-visualization-platform-prize-challenge/
 challenge-id: "1175"
 status: open
 sidenav: false
-card-image: /assets/netlify-uploads/256px-Seal_of_the_United_States_Department_of_Energy.png
-agency-logo: /assets/netlify-uploads/256px-Seal_of_the_United_States_Department_of_Energy.png
+card-image: /assets/netlify-uploads/webp.net-resizeimage-16-.png
+agency-logo: /assets/netlify-uploads/webp.net-resizeimage-16-.png
 tagline: Bring the Earth to Life with a New Intuitive Visualization Tool for
   Subsurface Environments!
 agency: U.S. Department of Energy
