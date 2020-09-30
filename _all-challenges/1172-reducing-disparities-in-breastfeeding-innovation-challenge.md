@@ -127,8 +127,6 @@ prizes: >-
 
   Awardees will be expected to present their program for Office on Women’s Health staff and members of the public at the end of each award phase.  This presentation may be virtual or in-person and prize funds are expected to be used to facilitate this presentation.
 rules: >-
-  
-
   #### Eligibility
 
 
@@ -164,7 +162,7 @@ rules: >-
   14. Shall not be currently on the Excluded Parties List (<https://oig.hhs.gov/exclusions/index.asp>).
 
 
-  **Additionally**
+  **Additional Information**
 
 
   Participants shall not use the OWH or HHS logos or official seals in their submissions and must not claim endorsement.
@@ -176,7 +174,7 @@ rules: >-
   HHS reserves the right to cancel, suspend, and/or modify the competition or any part of it, for any reason, at HHS’ sole discretion.
 
 
-  #### Payment of the Prize: 
+  #### Payment of the Prize:
 
 
   Prizes awarded under this competition will be paid by electronic funds transfer and may be subject to Federal income taxes. HHS will comply with the Internal Revenue Service withholding and reporting requirements, where applicable.
@@ -476,7 +474,7 @@ To be eligible to win a prize under this competition, an individual, group, or e
 13. Agree to obtain liability insurance, or demonstrate financial responsibility, in the amount of $500,000, for claims by (a) a third party for death, bodily injury, property damage, or loss resulting from an activity carried out in connection with participation in a Challenge, with the Federal Government named as an additional insured under the registered participant’s insurance policy, and (b) the Federal Government for damage or loss to Government property resulting from such activity.
 14. Shall not be currently on the Excluded Parties List (<https://oig.hhs.gov/exclusions/index.asp>).
 
-**Additionally**
+**Additional Information**
 
 Participants shall not use the OWH or HHS logos or official seals in their submissions and must not claim endorsement.
 
