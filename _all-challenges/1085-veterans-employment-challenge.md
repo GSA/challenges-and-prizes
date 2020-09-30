@@ -3,8 +3,8 @@ challenge-title: Veterans' Employment Challenge
 layout: front-matter-data
 permalink: /challenge/vets-match/
 challenge-id: 1085
-status: open
-sidenav: true
+status: closed
+sidenav: false
 card-image: /assets/images/cards/Vets-Employment-Challenge-logoV5-bold-340x160.jpg
 agency-logo: DOL-MasterLogo_Color300.png
 tagline: Build a better application to match the skills of those who have served
