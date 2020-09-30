@@ -235,11 +235,11 @@ how-to-enter: >-
     * Describe how the proposed solution brings value to the team of stakeholders. (See description of judging criteria #1.)
     * Describe the existing and/or new methods of technologies that were used, combined, or built upon to design the proposed solution, including how the proposed functionalities meet the criteria listed in judging criteria #3 and #4.
     * Describe the potential and likelihood for a successful demonstration and implementation if the proposed solution is selected for proceeding phases of the Challenge. Include how the success of the proposed solution will address the business and technical risks described in judging criteria #5 and how the team defines and measures a successful solution.
+    * Provide a timeline for getting to a complete solution, citing milestones and goals.  Consider including key points towards a successful solution, such as partnerships, technical tasks, and roll out.
   * Team Member Roles: For each individual, include a brief biographical sketch of relevant experience and expertise and their present affiliation (institution/organization/company) and include their role and contribution to the team’s solution. (See description of judging criteria # 2.)
 
   * Appendixes:
 
-    * A timeline for getting to a complete solution, citing milestones and goals.  Consider including key points towards a successful solution, such as partnerships, technical tasks, and roll out.
     * Use Case(s) that describe an example of how the proposed solution will enable referral solutions that will be implemented at the community and/or state level.
     * Technical approach and/or specifications, which may include both high and low level technical details, such as architecture, workflows, schemas, data exchange standards, and API endpoints, for the following:
 
@@ -397,10 +397,10 @@ The official Phase 1 application form is available online and can be accessed by
   * Describe how the proposed solution brings value to the team of stakeholders. (See description of judging criteria #1.)
   * Describe the existing and/or new methods of technologies that were used, combined, or built upon to design the proposed solution, including how the proposed functionalities meet the criteria listed in judging criteria #3 and #4.
   * Describe the potential and likelihood for a successful demonstration and implementation if the proposed solution is selected for proceeding phases of the Challenge. Include how the success of the proposed solution will address the business and technical risks described in judging criteria #5 and how the team defines and measures a successful solution.
+  * Provide a timeline for getting to a complete solution, citing milestones and goals.  Consider including key points towards a successful solution, such as partnerships, technical tasks, and roll out.
 * Team Member Roles: For each individual, include a brief biographical sketch of relevant experience and expertise and their present affiliation (institution/organization/company) and include their role and contribution to the team’s solution. (See description of judging criteria # 2.)
 * Appendixes:
 
-  * A timeline for getting to a complete solution, citing milestones and goals.  Consider including key points towards a successful solution, such as partnerships, technical tasks, and roll out.
   * Use Case(s) that describe an example of how the proposed solution will enable referral solutions that will be implemented at the community and/or state level.
   * Technical approach and/or specifications, which may include both high and low level technical details, such as architecture, workflows, schemas, data exchange standards, and API endpoints, for the following:
 
