@@ -218,9 +218,9 @@ judging: >-
 
   * Demonstrates effectiveness (statistical significance) in addressing racial/ethnic disparities and/or urban/rural disparities in women who are pregnant and/or postpartum: **(30%)**
 
-  * Description of the plan for sustainability by demonstrating that the program has long-term viability: **(20%)**
+  * Demonstrates that the program has long-term viability: **(20%)**
 
-  * Description of the plan for replication and/or expansion: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program: **(20%)**
+  * The likely effectiveness of the plan for replication and/or expansion: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program: **(20%)**
 
 
   **Phase 3 Scoring Criteria: Awarding the programs that have successfully replicated and/or expanded**
@@ -238,7 +238,7 @@ how-to-enter: >-
   #### Registration for this Challenge:
 
 
-  Beginning September 30, 2020 at 7:15 am EST, the identified Official Representative (individual, team, or legal entity) may register for this competition by sending an email to HypertensionChallenge@hhs.gov with the subject line stating ‘Hypertension Competition Registration’. In this email you must identify only one Official Representative for each competition registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the participant (individual, team, or legal entity), that he or she has read and consents to be governed by the competition rules. Registration for this competition is due by October 29, 2020 at 11:59 pm EST.
+  Beginning September 30, 2020 at 5:00 pm EST, the identified Official Representative (individual, team, or legal entity) may register for this competition by sending an email to HypertensionChallenge@hhs.gov with the subject line stating ‘Hypertension Competition Registration’. In this email you must identify only one Official Representative for each competition registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the participant (individual, team, or legal entity), that he or she has read and consents to be governed by the competition rules. Registration for this competition is due by October 29, 2020 at 11:59 pm EST.
 
 
   Questions concerning this competition should be sent by email to: [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov).
@@ -452,8 +452,8 @@ All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and
 
 * Demonstrates effectiveness (statistical significance) in: **controlling hypertension** in women who are pregnant and/or postpartum AND/OR **increasing continued monitoring of hypertension** in women who are pregnant and/or postpartum: **(30%)**
 * Demonstrates effectiveness (statistical significance) in addressing racial/ethnic disparities and/or urban/rural disparities in women who are pregnant and/or postpartum: **(30%)**
-* Description of the plan for sustainability by demonstrating that the program has long-term viability: **(20%)**
-* Description of the plan for replication and/or expansion: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program: **(20%)**
+* Demonstrates that the program has long-term viability: **(20%)**
+* The likely effectiveness of the plan for replication and/or expansion: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program: **(20%)**
 
 **Phase 3 Scoring Criteria: Awarding the programs that have successfully replicated and/or expanded**
 
@@ -467,7 +467,7 @@ All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and
 
 #### Registration for this Challenge:
 
-Beginning September 30, 2020 at 7:15 am EST, the identified Official Representative (individual, team, or legal entity) may register for this competition by sending an email to HypertensionChallenge@hhs.gov with the subject line stating ‘Hypertension Competition Registration’. In this email you must identify only one Official Representative for each competition registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the participant (individual, team, or legal entity), that he or she has read and consents to be governed by the competition rules. Registration for this competition is due by October 29, 2020 at 11:59 pm EST.
+Beginning September 30, 2020 at 5:00 pm EST, the identified Official Representative (individual, team, or legal entity) may register for this competition by sending an email to HypertensionChallenge@hhs.gov with the subject line stating ‘Hypertension Competition Registration’. In this email you must identify only one Official Representative for each competition registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the participant (individual, team, or legal entity), that he or she has read and consents to be governed by the competition rules. Registration for this competition is due by October 29, 2020 at 11:59 pm EST.
 
 Questions concerning this competition should be sent by email to: 
 [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov).
