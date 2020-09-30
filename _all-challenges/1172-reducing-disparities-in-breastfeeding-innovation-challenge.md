@@ -104,6 +104,12 @@ description: >-
 
   * Finalists will be awarded by November 21, 2022.
 prizes: >-
+  #### Total Prize Awards Available
+
+
+  Total Awards: $800,000 in FY20 funds.
+
+
   #### Prize Breakdown
 
 
@@ -434,6 +440,10 @@ The competition has three phases. All eligible submissions will be evaluated, an
 * Finalists will be awarded by November 21, 2022.
 
 ### Prizes
+
+#### Total Prize Awards Available
+
+Total Awards: $800,000 in FY20 funds.
 
 #### Prize Breakdown
 
