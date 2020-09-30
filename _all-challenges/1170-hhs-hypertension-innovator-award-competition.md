@@ -70,7 +70,7 @@ description: >-
   **Phase 1:** Identification of successful programs
 
 
-  * Open September 29, 2020 through October 30, 2020.
+  * Open September 30, 2020 through October 30, 2020.
 
   * Phase 1 submissions are due by October 30, 2020, 11:59 pm EST.
 
@@ -357,7 +357,7 @@ The competition has three phases. All eligible submissions will be evaluated, an
 
 **Phase 1:** Identification of successful programs
 
-* Open September 29, 2020 through October 30, 2020.
+* Open September 30, 2020 through October 30, 2020.
 * Phase 1 submissions are due by October 30, 2020, 11:59 pm EST.
 * Judging for Phase 1 will occur from October 31, 2020 through November 20, 2020.
 * Finalists that move into Phase 2 will be awarded by November 21, 2020.
