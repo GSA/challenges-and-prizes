@@ -64,6 +64,45 @@ description: >-
 
 
   The competition has three phases. All eligible submissions will be evaluated, and separate prizes may be awarded for each of the three phases.
+
+
+  #### Key Dates
+
+
+  **Phase 1: Identification of successful programs**
+
+
+  * Open September 30, 2020 through October 30, 2020.
+
+  * Phase 1 submissions are due by October 30, 2020, 11:59 pm EST.
+
+  * Judging for Phase 1 will occur from October 31, 2020 through November 20, 2020.
+
+  * Finalists that move into Phase 2 will be awarded by November 21, 2020.
+
+
+  **Phase 2: Awarding plans for sustainability and replication and/or expansion**
+
+
+  * Competition occurs September 29, 2021 through October 30, 2021.
+
+  * Phase 2 submissions are due by October 30, 2021, 11:59 pm EST.
+
+  * Judging for Phase 2 will occur from October 31, 2021 through November 20, 2021.
+
+  * Finalists that move into Phase 3 will be awarded by November 21, 2021.
+
+
+  **Phase 3: Awarding the programs that have successfully replicated and/or expanded** 
+
+
+  * Competition occurs September 29, 2022 through October 30, 2022.
+
+  * Phase 3 submissions are due by October 30, 2022, 11:59 pm EST.
+
+  * Judging for Phase 3 will occur from October 31, 2022 through November 20, 2022.
+
+  * Finalists will be awarded by November 21, 2022.
 prizes: >-
   #### Prize Breakdown
 
@@ -371,6 +410,29 @@ The program must demonstrate evidence-based interventions to target gaps in brea
 
 The competition has three phases. All eligible submissions will be evaluated, and separate prizes may be awarded for each of the three phases.
 
+#### Key Dates
+
+**Phase 1: Identification of successful programs**
+
+* Open September 30, 2020 through October 30, 2020.
+* Phase 1 submissions are due by October 30, 2020, 11:59 pm EST.
+* Judging for Phase 1 will occur from October 31, 2020 through November 20, 2020.
+* Finalists that move into Phase 2 will be awarded by November 21, 2020.
+
+**Phase 2: Awarding plans for sustainability and replication and/or expansion**
+
+* Competition occurs September 29, 2021 through October 30, 2021.
+* Phase 2 submissions are due by October 30, 2021, 11:59 pm EST.
+* Judging for Phase 2 will occur from October 31, 2021 through November 20, 2021.
+* Finalists that move into Phase 3 will be awarded by November 21, 2021.
+
+**Phase 3: Awarding the programs that have successfully replicated and/or expanded** 
+
+* Competition occurs September 29, 2022 through October 30, 2022.
+* Phase 3 submissions are due by October 30, 2022, 11:59 pm EST.
+* Judging for Phase 3 will occur from October 31, 2022 through November 20, 2022.
+* Finalists will be awarded by November 21, 2022.
+
 ### Prizes
 
 #### Prize Breakdown
@@ -539,7 +601,7 @@ Submissions for Phase 3 of this competition are due by October 30, 2022 at 11:59
 1. Entries must consist of PDF files with font size no smaller than 11-point Arial.
 2. All submissions must be in English.
 3. Solvers must not use HHS or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement.
-4. Submission details should be sent to <BreastfeedingChallenge@hhs.gov>:
+4. Submission details should be sent to [BreastfeedingChallenge@hhs.gov](mailto:BreastfeedingChallenge@hhs.gov):
 
    * Title the email subject line “Breastfeeding Competition Phase 3 Proposal.”
    * Email sender (person and email address) must be Official Representative/person of contact for the team.
