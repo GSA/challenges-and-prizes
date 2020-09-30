@@ -17,12 +17,13 @@ agency: Department of Health and Human Services - Office of the Assistant
   Secretary for Health (OASH), Office of Women's Health (OWH)
 total-prize-offered-cash: $800,000
 type-of-challenge:
-  - Software and apps
+  - Analytics, visualizations, algorithms
+  - Business plans
   - Creative (multimedia & design)
   - Ideas
-  - Technology demonstration and hardware
-  - Analytics, visualizations, algorithms
   - Scientific
+  - Software and apps
+  - Technology demonstration and hardware
 submission-start: 2020/09/30 07:15 AM
 submission-end: 2020/10/30 11:59 PM
 fiscal-year: FY20, FY21
