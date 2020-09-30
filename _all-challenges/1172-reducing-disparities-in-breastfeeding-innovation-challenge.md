@@ -122,9 +122,7 @@ prizes: >-
   **Phase 3 FY22** (Awarding programs that have successfully replicated and/or expanded): The participants selected to receive a prize in Phase 2 may compete for consideration to receive a prize in Phase 3.  Up to 5 submissions may be selected to each receive a prize of up to $55,000. 
 
 
-  * All winners will be notified via email.
-
-  * Total Awards: $800,000 in FY20 funds.
+  All winners will be notified via email.
 
 
   Awardees will be expected to present their program for Office on Women’s Health staff and members of the public at the end of each award phase.  This presentation may be virtual or in-person and prize funds are expected to be used to facilitate this presentation.
@@ -453,8 +451,7 @@ Total Awards: $800,000 in FY20 funds.
 
 **Phase 3 FY22** (Awarding programs that have successfully replicated and/or expanded): The participants selected to receive a prize in Phase 2 may compete for consideration to receive a prize in Phase 3.  Up to 5 submissions may be selected to each receive a prize of up to $55,000. 
 
-* All winners will be notified via email.
-* Total Awards: $800,000 in FY20 funds.
+All winners will be notified via email.
 
 Awardees will be expected to present their program for Office on Women’s Health staff and members of the public at the end of each award phase.  This presentation may be virtual or in-person and prize funds are expected to be used to facilitate this presentation. 
 
