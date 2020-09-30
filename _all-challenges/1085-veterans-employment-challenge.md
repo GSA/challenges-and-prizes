@@ -3,7 +3,7 @@ challenge-title: Veterans' Employment Challenge
 layout: front-matter-data
 permalink: /challenge/vets-match/
 challenge-id: 1085
-status: closed
+status: open
 sidenav: true
 card-image: /assets/images/cards/Vets-Employment-Challenge-logoV5-bold-340x160.jpg
 agency-logo: DOL-MasterLogo_Color300.png
@@ -150,7 +150,7 @@ prizes: >-
   <ul><li>Eightfold.ai</li></ul>
 
 
-  <h4>Phase V&ndash; Implementation Pilot: Finalist must receive an overall rating score of 80% or greater (cash prize of $300,000):</h4>
+  <h4>Phase V&ndash; Implementation Pilot: Finalist must receive an overall approval rating score of 80% or greater (cash prize of $300,000):</h4>
 
 
   <ul><li>Eightfold.ai</li></ul>
@@ -611,7 +611,7 @@ submission-link: null
 <li>Eightfold.ai</li>
 </ul>
 
-<h4>Phase V&ndash; Implementation Pilot: Finalist must receive an overall rating score of 80% or greater (cash prize of $300,000):</h4>
+<h4>Phase V&ndash; Implementation Pilot: Finalist must receive an overall approval rating score of 80% or greater (cash prize of $300,000):</h4>
 
 <ul>
 <li>Eightfold.ai</li>
