@@ -40,6 +40,9 @@ description: >-
   #### Background/Issue
 
 
+  The HHS Office on Women’s Health (OWH) is charged with providing expert advice and consultation to the Secretary on scientific, legal, ethical, and policy issues, and serving as a coordination point throughout HHS on issues affecting the health of women and girls. OWH establishes short and long-term goals within the Department for research, disease prevention and health promotion, service delivery, and education for public health and health care professionals surrounding women and girls’ health. OWH identifies needs and monitors activities within the Department that contribute to women and girls’ health and through leadership of the Coordinating Committee on Women’s Health. Additionally, OWH is responsible for facilitating the exchange of information through the National Women’s Health Information Center and promoting women and girls’ health programs and policies, all aimed at improving the health of women and girls.
+
+
   According to the Centers for Disease Control and Prevention (CDC), heart disease is the [leading cause of death for women](https://www.cdc.gov/nchs/data/nvsr/nvsr60/nvsr60_03.pdf) in the United States. Hypertension [affects one in every twelve to seventeen pregnancies](https://www.cdc.gov/bloodpressure/pregnancy.htm) in the United States. Women with hypertension are at risk for developing preeclampsia, stroke, and other serious complications in pregnancy and/or postpartum. Factors which increase the risk of hypertension during pregnancy include obesity and maternal age. Factors which limit women’s ability to manage their blood pressure include cost, transportation, schedules, locality (living in rural or underserved areas), and lack of education about the importance of good blood pressure control. 
 
 
@@ -334,6 +337,8 @@ The Office of the Assistant Secretary for Health (OASH), Office on Women’s Hea
 
 #### Background/Issue
 
+The HHS Office on Women’s Health (OWH) is charged with providing expert advice and consultation to the Secretary on scientific, legal, ethical, and policy issues, and serving as a coordination point throughout HHS on issues affecting the health of women and girls. OWH establishes short and long-term goals within the Department for research, disease prevention and health promotion, service delivery, and education for public health and health care professionals surrounding women and girls’ health. OWH identifies needs and monitors activities within the Department that contribute to women and girls’ health and through leadership of the Coordinating Committee on Women’s Health. Additionally, OWH is responsible for facilitating the exchange of information through the National Women’s Health Information Center and promoting women and girls’ health programs and policies, all aimed at improving the health of women and girls.
+
 According to the Centers for Disease Control and Prevention (CDC), heart disease is the [leading cause of death for women](https://www.cdc.gov/nchs/data/nvsr/nvsr60/nvsr60_03.pdf) in the United States. Hypertension [affects one in every twelve to seventeen pregnancies](https://www.cdc.gov/bloodpressure/pregnancy.htm) in the United States. Women with hypertension are at risk for developing preeclampsia, stroke, and other serious complications in pregnancy and/or postpartum. Factors which increase the risk of hypertension during pregnancy include obesity and maternal age. Factors which limit women’s ability to manage their blood pressure include cost, transportation, schedules, locality (living in rural or underserved areas), and lack of education about the importance of good blood pressure control. 
 
 Innovative programs can overcome these challenges to increase the number of Americans with good blood pressure control and improve the nation’s health. Some progress has been made with home blood pressure monitoring, text-based communications with health care teams, revised prenatal and postpartum visit schedules, new models of patient education and empowerment, and partnerships with different members of the health care team and community.
@@ -465,16 +470,16 @@ All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and
 Beginning September 30, 2020 at 7:15 am EST, the identified Official Representative (individual, team, or legal entity) may register for this competition by sending an email to HypertensionChallenge@hhs.gov with the subject line stating ‘Hypertension Competition Registration’. In this email you must identify only one Official Representative for each competition registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the participant (individual, team, or legal entity), that he or she has read and consents to be governed by the competition rules. Registration for this competition is due by October 29, 2020 at 11:59 pm EST.
 
 Questions concerning this competition should be sent by email to: 
-<HypertensionChallenge@hhs.gov>.
+[HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov).
 
 **Phase 1: Identification of successful programs**
 
-Submissions for Phase 1 of this competition are due by October 30, 2020 at 11:59 pm EST. The identified Official Representative (individual, team or legal entity) may apply for this competition by submitting an application by email to <HypertensionChallenge@hhs.gov>. The application for Phase 1 of the competition shall meet the following requirements:
+Submissions for Phase 1 of this competition are due by October 30, 2020 at 11:59 pm EST. The identified Official Representative (individual, team or legal entity) may apply for this competition by submitting an application by email to [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov). The application for Phase 1 of the competition shall meet the following requirements:
 
 * Entries must consist of PDF files with font size no smaller than 11-point Arial.
 * All submissions must be in English.
 * Participants must not use HHS or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement.
-* Submission details should be sent to <HypertensionChallenge@hhs.gov>:
+* Submission details should be sent to [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov):
 
   * Title the email subject line “Hypertension Competition Phase 1 Proposal”.
   * Email sender (person and email address) must be Official Representative/person of contact for the team.
@@ -488,12 +493,12 @@ Phase 1 of the competition aims to identify effective programs that range in the
 
 **Phase 2: Awarding plans for sustainability and replication and/or expansion**
 
-Submissions for Phase 2 of this competition are due by October 30, 2021 at 11:59 pm EST. Only participants who received an award for their Phase 1 submission are eligible to apply for Phase 2. The identified Official Representative (individual, team or legal entity) may apply for this phase by submitting an application by email to <HypertensionChallenge@hhs.gov>. The application for Phase 2 of the competition shall meet the following requirements:
+Submissions for Phase 2 of this competition are due by October 30, 2021 at 11:59 pm EST. Only participants who received an award for their Phase 1 submission are eligible to apply for Phase 2. The identified Official Representative (individual, team or legal entity) may apply for this phase by submitting an application by email to [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov). The application for Phase 2 of the competition shall meet the following requirements:
 
 * Entries must consist of PDF files with font size no smaller than 11-point Arial.
 * All submissions must be in English.
 * Solvers must not use HHS or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement.
-* Submission details should be sent to <HypertensionChallenge@hhs.gov>:
+* Submission details should be sent to [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov):
 
   * Title the email subject line “Hypertension Competition Phase 2 Proposal”.
   * Email sender (person and email address) must be Official Representative/person of contact for the team.
@@ -507,12 +512,12 @@ Phase 2 of the competition builds upon the work of Phase 1. Phase 2 is focused o
 
 **Phase 3: Awarding programs that have successfully replicated and/or expanded**
 
-Submissions for Phase 3 of this competition are due by October 30, 2022 at 11:59 pm EST.  Only participants who received an award for their Phase 2 submission are eligible to apply for Phase 3. The identified Official Representative (individual, team or legal entity) may apply for this phase by submitting an application by email to <HypertensionChallenge@hhs.gov>. The application for Phase 3 of the competition shall meet the following requirements:
+Submissions for Phase 3 of this competition are due by October 30, 2022 at 11:59 pm EST.  Only participants who received an award for their Phase 2 submission are eligible to apply for Phase 3. The identified Official Representative (individual, team or legal entity) may apply for this phase by submitting an application by email to [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov). The application for Phase 3 of the competition shall meet the following requirements:
 
 * Entries must consist of PDF files with font size no smaller than 11-point Arial.
 * All submissions must be in English.
 * Solvers must not use HHS or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement.
-* Submission details should be sent to <HypertensionChallenge@hhs.gov>:
+* Submission details should be sent to [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov):
 
   * Title the email subject line “Hypertension Competition Phase 3 Proposal”.
   * Email sender (person and email address) must be Official Representative/person of contact for the team.
