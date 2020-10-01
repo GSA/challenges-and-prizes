@@ -4,7 +4,7 @@ challenge-title: Rodeo II - Sub-Seasonal Climate Forecasting
 layout: front-matter-data-markdownify-content
 permalink: /challenge/rodeo-ii-sub-seasonal-climate-forecasting/
 challenge-id: "1047"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/sub-seasonal.png
 agency-logo: /assets/netlify-uploads/usbr.jpg
@@ -12,8 +12,8 @@ tagline: Closing the Gap on Sub-Seasonal Climate Forecasting.
 agency: NOAA - National Integrated Drought Information System
 type-of-challenge:
   - Analytics, visualizations, algorithms
-submission-start: 2019/06/27 11:00 AM
-submission-end: 2020/10/01 12:00 AM
+submission-start: 06/27/2019 11:00 AM
+submission-end: 10/01/2020 12:00 AM
 fiscal-year: FY19, FY20
 legal-authority: Procurement Authority
 challenge-manager: Jen Beardsley
