@@ -13,6 +13,7 @@ tagline: Help the CDC's National Center for Injury Prevention and Control create
   violence data.
 agency: Department of Health and Human Services - Centers for Disease Control
   and Prevention
+external-url: https://www.topcoder.com/challenges/d9184f8e-e3a6-45e2-b2bd-9c6029bebf73
 total-prize-offered-cash: $3,900
 type-of-challenge:
   - Ideas
