@@ -32,11 +32,11 @@ challenge-manager: Jared Tolbert
 challenge-manager-email: jared.tolbert@hhs.gov
 point-of-contact: BreastfeedingChallenge@hhs.gov
 description: >-
-  The Office of the Assistant Secretary for Health (OASH), Office on Women’s
-  Health (OWH) is seeking innovative ways to increase breastfeeding initiation
-  and/or continuation rates and decrease disparities among breastfeeding mothers
-  in the United States through the HHS Reducing Disparities in Breastfeeding
-  Innovation Challenge.
+  **\*\*Important Update: The submission deadline has been extended to
+  11/16/2020.**
+
+
+  The Office of the Assistant Secretary for Health (OASH), Office on Women’s Health (OWH) is seeking innovative ways to increase breastfeeding initiation and/or continuation rates and decrease disparities among breastfeeding mothers in the United States through the HHS Reducing Disparities in Breastfeeding Innovation Challenge.
 
 
   #### Background/Issue
@@ -339,6 +339,8 @@ how-to-enter: >-
   3. Demonstrates that the program was successfully replicated and/or expanded: (1) in another geographic area or a wider geographic area; (2) in another clinical setting; and/or (3) by increasing the size and/or reach of the program.
 ---
 ### Description
+
+**\*\*Important Update: The submission deadline has been extended to 11/16/2020.**
 
 The Office of the Assistant Secretary for Health (OASH), Office on Women’s Health (OWH) is seeking innovative ways to increase breastfeeding initiation and/or continuation rates and decrease disparities among breastfeeding mothers in the United States through the HHS Reducing Disparities in Breastfeeding Innovation Challenge.
 
