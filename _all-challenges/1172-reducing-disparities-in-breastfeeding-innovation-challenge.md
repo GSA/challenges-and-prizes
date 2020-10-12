@@ -480,7 +480,7 @@ All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and
 
 #### Registration for this Challenge:
 
-Beginning September 30, 2020 at 7:15 am EST, the identified Official Representative (individual, team, or legal entity) may register for this competition by sending an email to BreastfeedingChallenge@hhs.gov with the subject line stating ‘Breastfeeding Competition Registration’. In this email you must identify only one Official Representative for each competition registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the participant (individual, team, or legal entity), that he or she has read and consents to be governed by the competition rules. Registration for this competition is due by October 29, 2020 at 11:59 pm EST.
+Beginning September 30, 2020 at 7:15 am EST, the identified Official Representative (individual, team, or legal entity) may register for this competition by sending an email to BreastfeedingChallenge@hhs.gov with the subject line stating ‘Breastfeeding Competition Registration’. In this email you must identify only one Official Representative for each competition registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the participant (individual, team, or legal entity), that he or she has read and consents to be governed by the competition rules. Registration for this competition is due by November 16, 2020 at 11:59 pm EST.
 
 Questions concerning this competition should be sent by email to 
 
@@ -488,7 +488,7 @@ Questions concerning this competition should be sent by email to
 
 **Phase 1: Identification of successful programs**
 
-Submissions for Phase 1 of this competition are due by October 30, 2020 at 11:59 pm EST. The identified Official Representative (individual, team or legal entity) may apply for this competition by submitting an application by email to [BreastfeedingChallenge@hhs.gov](mailto:BreastfeedingChallenge@hhs.gov). The application for Phase 1 of the competition shall meet the following requirements:
+Submissions for Phase 1 of this competition are due by November 16, 2020 at 11:59 pm EST. The identified Official Representative (individual, team or legal entity) may apply for this competition by submitting an application by email to [BreastfeedingChallenge@hhs.gov](mailto:BreastfeedingChallenge@hhs.gov). The application for Phase 1 of the competition shall meet the following requirements:
 
 1. Entries must consist of PDF files with font size no smaller than 11-point Arial.
 2. All submissions must be in English.
