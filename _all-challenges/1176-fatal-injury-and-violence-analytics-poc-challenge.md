@@ -4,7 +4,7 @@ challenge-title: Fatal Injury and Violence Analytics PoC Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/fatal-injury-and-violence-analytics-poc-challenge/
 challenge-id: "1176"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/lockup-logo.png
 agency-logo: /assets/netlify-uploads/hhs.png
@@ -17,8 +17,8 @@ external-url: https://www.topcoder.com/challenges/d9184f8e-e3a6-45e2-b2bd-9c6029
 total-prize-offered-cash: $3,900
 type-of-challenge:
   - Ideas
-submission-start: 2020/10/01 09:00 AM
-submission-end: 2020/10/12 09:00 AM
+submission-start: 10/01/2020 09:00 AM
+submission-end: 10/12/2020 09:00 AM
 fiscal-year: FY21
 legal-authority: Procurement Authority
 challenge-manager: Royal Law
