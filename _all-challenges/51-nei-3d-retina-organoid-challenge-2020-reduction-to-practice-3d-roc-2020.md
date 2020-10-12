@@ -1,30 +1,29 @@
 ---
 challenge-title: NEI 3-D Retina Organoid Challenge 2020 Reduction to Practice (3-D ROC 2020)
 layout: front-matter-data-markdownify-content
-permalink: >-
-  /challenge/nei-3d-retina-organoid-challenge-2020-reduction-to-practice-3d-roc-2020/
+permalink: /challenge/nei-3d-retina-organoid-challenge-2020-reduction-to-practice-3d-roc-2020/
 challenge-id: 51
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/3-D-ROC-NEI-logo4.jpg
 agency-logo: /assets/netlify-uploads/NIH_Master_Logo_Vertical_2Color.jpg
 tagline: Build your vision of the future.
 agency: Department of Health and Human Services - National Institutes of Health
 partner-agencies-federal: null
+partners-non-federal: null
 external-url: null
-total-prize-offered-cash: '$1,000,000'
+total-prize-offered-cash: $1,000,000
 type-of-challenge: Scientific
-submission-start: '2018/09/04 02:00 PM'
-submission-end: '2020/10/02 02:00 PM'
+submission-start: 09/04/2018 02:00 PM
+submission-end: 10/02/2020 02:00 PM
 fiscal-year: FY19, FY20
 legal-authority: America COMPETES Act
 challenge-manager: Stephen Becker
 challenge-manager-email: steven.becker@nih.gov
 point-of-contact: steven.becker@nih.gov
-description: >-
-  <div class="description"> <p>The National Eye Institute (NEI), part of the
-  National Institutes of Health, is seeking in vitro, stem-cell derived 3-D
-  human retina organoids. The goal of the challenge is to generate concrete
+description: <div class="description"> <p>The National Eye Institute (NEI), part
+  of the National Institutes of Health, is seeking in vitro, stem-cell derived
+  3-D human retina organoids. The goal of the challenge is to generate concrete
   prototypes of 3-D systems that model the cellular organization and function of
   the human retina.</p> <p><strong>Solvers will have 2 opportunities to submit
   solutions and win prizes. </strong></p> <ul> <li>Phase 1
@@ -70,17 +69,15 @@ description: >-
   yield, and maturity/differentiation of all cell types in appropriate numbers
   and ratio.</li> <li>Potential impact on understanding the biology of the
   retina.</li> </ul> </div>
-prizes: >-
-  <div class="prize-item"> <h4 class="text-primary">NEI 3-D ROC 2020 - winners
-  phase 1</h4> <p class="prize"><strong>$600,000</strong></p> <div
+prizes: <div class="prize-item"> <h4 class="text-primary">NEI 3-D ROC 2020 -
+  winners phase 1</h4> <p class="prize"><strong>$600,000</strong></p> <div
   class="description"><p>Up to 6 winners will be awarded up to $100,000 each at
   Phase 1.</p> </div> </div> <div class="prize-item"> <h4
   class="text-primary">NEI 3-D ROC 2020 - winners phase 2</h4> <p
   class="prize"><strong>$400,000</strong></p> <div class="description"><p>Phase
   2 will have up to 3 winners and the prize purse will total $400,000 plus any
   Phase 1 prize money that was not awarded for Phase 1.</p> </div> </div>
-rules: >-
-  <div class="rules"> <p>All details related to rules and eligibility are
+rules: <div class="rules"> <p>All details related to rules and eligibility are
   defined on <a href="
   https://www.nei.nih.gov/about/goals-and-accomplishments/nei-research-initiatives/3-d-retina-organoid-challenge-3-d-roc/3-d-roc-2020-reduction-practice-challenge">NEI&rsquo;s
   challenge details</a> page. Only complete applications will be reviewed.</p>
@@ -96,8 +93,7 @@ rules: >-
   permanent resident</li> <li>Agree to the eligibility rules and requirements
   listed on NEI&rsquo;s challenge details page</li> <li>Register and submit
   solutions on Challenge.gov</li> </ul> </div>
-judging: >-
-  <div class="judging-criterias"> <div class="prize-item"> <h4>Evaluation
+judging: <div class="judging-criterias"> <div class="prize-item"> <h4>Evaluation
   Criterion 1. Impact and Innovation (20 points) - <strong
   class="text-primary">20%</strong> </h4> <p>Solutions will be evaluated for
   creativity and originality of designs. An innovative approach may be novel,
@@ -155,45 +151,44 @@ judging: >-
   batch) included?  To what extent is documentation of standardization or
   commercialization highlighted (i.e. cGMP protocols or patent applications)?
   Are the methods (part of the Appendix) sufficiently detailed such that the
-  efforts could be reproduced (e.g., Standard operating protocols)? 
-  Robustness:&nbsp;How do the data support advances in organoid development to
-  decrease differentiation time, improve yield, or increase production?  Have
-  retina organoids been characterized to show they are free of microbial
-  contamination and chromosomal defects (i.e. karyotyping, STR analysis, FISH
-  analysis)?  Are formal documented agreements with industry, or transferability
-  to industry partners (MOUs, licensing, CRADA, in-kind or discounted
-  validation) presented? </div> <div class="prize-item"> <h4>Evaluation
-  Criterion 4. Endpoint Assay Specific Goals (30 points for EITHER category) -
-  <strong class="text-primary">30%</strong> </h4> BIOLOGY/DISEASE MODELING
-  (note:&nbsp;NEI is agnostic to which disease is chosen, as long as technology
-  is developed to robustly recapitulate the disease):&nbsp;Does the organoid
-  prototype demonstrate improvement in faithful biological complexity (e.g.
-  macula, multiple cell subtypes present in physiologically similar ratios,
-  etc.)?  Does the model recapitulate some aspect of disease phenotype in one or
-  more assays?  Viability and scalability:&nbsp;If grown at one organoid/well,
-  are 90% of organoids in a plate viable, as shown by random sampling in five
-  wells across a dish? For how long are morphological and functional features
-  maintained? Are methods that increase the production (e.g., many dozens) of
-  organoids and/or allow the distribution of well-characterized organoids
-  presented to enable multiple organoids to be compared in the same experiment? 
-  Is therapeutic intervention to treat the disease modelled with 3-D retina
-  organoids (e.g. via gene editing, small molecules, cell replacement, etc.)
-  demonstrated? HIGH CONTENT SCREENING:&nbsp;Are retina organoid prototypes
-  amenable to high content screening, which may include high content imaging,
-  drug validation/toxicology, or functional genomic screening (e.g. does not
-  include materials known to show strong compound adsorption)? Does the model
-  recapitulate known retina toxicities based on morphological and functional
-  readouts? Scalability and portability:&nbsp;Are organoids grown at medium
-  throughput (e.g., in a 96-well plate) robust? When grown at one organoid/well,
-  are 90% of wells in a plate viable, as shown by random sampling in five wells
-  across a dish? For how long are morphological and functional features
-  maintained? Are methods to mass-produce (e.g., 100s) organoids such that
-  multiple plates can be compared in the same experiment included? </div> </div>
-how-to-enter: >-
-  <div class="howtoenter"> <p>Submissions for this challenge are being accepted
-  via email at <a href="mailto:NEI3dROC@mail.nih.gov" target="_blank"
-  rel="noopener">NEI3dROC@mail.nih.gov</a>.</p> </div>
-partners-non-federal: null
+  efforts could be reproduced (e.g., Standard operating
+  protocols)?  Robustness:&nbsp;How do the data support advances in organoid
+  development to decrease differentiation time, improve yield, or increase
+  production?  Have retina organoids been characterized to show they are free of
+  microbial contamination and chromosomal defects (i.e. karyotyping, STR
+  analysis, FISH analysis)?  Are formal documented agreements with industry, or
+  transferability to industry partners (MOUs, licensing, CRADA, in-kind or
+  discounted validation) presented? </div> <div class="prize-item">
+  <h4>Evaluation Criterion 4. Endpoint Assay Specific Goals (30 points for
+  EITHER category) - <strong class="text-primary">30%</strong> </h4>
+  BIOLOGY/DISEASE MODELING (note:&nbsp;NEI is agnostic to which disease is
+  chosen, as long as technology is developed to robustly recapitulate the
+  disease):&nbsp;Does the organoid prototype demonstrate improvement in faithful
+  biological complexity (e.g. macula, multiple cell subtypes present in
+  physiologically similar ratios, etc.)?  Does the model recapitulate some
+  aspect of disease phenotype in one or more assays?  Viability and
+  scalability:&nbsp;If grown at one organoid/well, are 90% of organoids in a
+  plate viable, as shown by random sampling in five wells across a dish? For how
+  long are morphological and functional features maintained? Are methods that
+  increase the production (e.g., many dozens) of organoids and/or allow the
+  distribution of well-characterized organoids presented to enable multiple
+  organoids to be compared in the same experiment?  Is therapeutic intervention
+  to treat the disease modelled with 3-D retina organoids (e.g. via gene
+  editing, small molecules, cell replacement, etc.) demonstrated? HIGH CONTENT
+  SCREENING:&nbsp;Are retina organoid prototypes amenable to high content
+  screening, which may include high content imaging, drug validation/toxicology,
+  or functional genomic screening (e.g. does not include materials known to show
+  strong compound adsorption)? Does the model recapitulate known retina
+  toxicities based on morphological and functional readouts? Scalability and
+  portability:&nbsp;Are organoids grown at medium throughput (e.g., in a 96-well
+  plate) robust? When grown at one organoid/well, are 90% of wells in a plate
+  viable, as shown by random sampling in five wells across a dish? For how long
+  are morphological and functional features maintained? Are methods to
+  mass-produce (e.g., 100s) organoids such that multiple plates can be compared
+  in the same experiment included? </div> </div>
+how-to-enter: <div class="howtoenter"> <p>Submissions for this challenge are
+  being accepted via email at <a href="mailto:NEI3dROC@mail.nih.gov"
+  target="_blank" rel="noopener">NEI3dROC@mail.nih.gov</a>.</p> </div>
 submission-link: null
 ---
 <!-- Description start -->
