@@ -4,7 +4,7 @@ challenge-title: Rural Tech Project
 layout: front-matter-data-markdownify-content
 permalink: /challenge/rural-tech-project/
 challenge-id: "1141"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/rural-tech-challenge-dot-gov.png
 agency-logo: /assets/netlify-uploads/Department_of_Education.png
@@ -15,8 +15,8 @@ agency: Department of Education
 total-prize-offered-cash: $600,000
 type-of-challenge:
   - Ideas
-submission-start: 2020/06/30 9:00 AM
-submission-end: 2020/10/08 5:59:59 PM
+submission-start: 06/30/2020 9:00 AM
+submission-end: 10/08/2020 5:59:59 PM
 fiscal-year: FY20, FY21, FY22, FY23
 legal-authority: Procurement Authority
 challenge-manager: Albert Palacios
