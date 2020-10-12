@@ -30,7 +30,8 @@ challenge-manager-email: Courtney.gustin@hhs.gov
 point-of-contact: HypertensionChallenge@hhs.gov
 description: >-
   **\*\*Important Update: The submission deadline has been extended to
-  11/16/2020.**
+  11/16/2020, along with other important changes to Key Dates.  Please see
+  changes below in the Key Dates section.**
 
 
   The Office of the Assistant Secretary for Health (OASH), Office on Women’s Health (OWH) is seeking innovative ways to ensure women with hypertension during pregnancy and/or postpartum receive appropriate monitoring and follow-up through the HHS Hypertension Innovator Award Competition:  Innovative Methods of Blood Pressure Monitoring and Follow-up in Women during Pregnancy and/or Postpartum.
@@ -332,7 +333,7 @@ how-to-enter: >-
 ---
 ### Description
 
-**\*\*Important Update: The submission deadline has been extended to 11/16/2020.**
+**\*\*Important Update: The submission deadline has been extended to 11/16/2020, along with other important changes to Key Dates.  Please see changes below in the Key Dates section.**
 
 The Office of the Assistant Secretary for Health (OASH), Office on Women’s Health (OWH) is seeking innovative ways to ensure women with hypertension during pregnancy and/or postpartum receive appropriate monitoring and follow-up through the HHS Hypertension Innovator Award Competition:  Innovative Methods of Blood Pressure Monitoring and Follow-up in Women during Pregnancy and/or Postpartum.
 
