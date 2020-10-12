@@ -238,7 +238,7 @@ how-to-enter: >-
   #### Registration for this Challenge:
 
 
-  Beginning September 30, 2020 at 5:00 pm EST, the identified Official Representative (individual, team, or legal entity) may register for this competition by sending an email to HypertensionChallenge@hhs.gov with the subject line stating ‘Hypertension Competition Registration’. In this email you must identify only one Official Representative for each competition registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the participant (individual, team, or legal entity), that he or she has read and consents to be governed by the competition rules. Registration for this competition is due by October 29, 2020 at 11:59 pm EST.
+  Beginning September 30, 2020 at 5:00 pm EST, the identified Official Representative (individual, team, or legal entity) may register for this competition by sending an email to HypertensionChallenge@hhs.gov with the subject line stating ‘Hypertension Competition Registration’. In this email you must identify only one Official Representative for each competition registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the participant (individual, team, or legal entity), that he or she has read and consents to be governed by the competition rules. Registration for this competition is due by November 16, 2020 at 11:59 pm EST.
 
 
   Questions concerning this competition should be sent by email to: [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov).
@@ -247,7 +247,7 @@ how-to-enter: >-
   **Phase 1: Identification of successful programs**
 
 
-  Submissions for Phase 1 of this competition are due by October 30, 2020 at 11:59 pm EST. The identified Official Representative (individual, team or legal entity) may apply for this competition by submitting an application by email to [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov). The application for Phase 1 of the competition shall meet the following requirements:
+  Submissions for Phase 1 of this competition are due by November 16, 2020 at 11:59 pm EST. The identified Official Representative (individual, team or legal entity) may apply for this competition by submitting an application by email to [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov). The application for Phase 1 of the competition shall meet the following requirements:
 
 
   * Entries must consist of PDF files with font size no smaller than 11-point Arial.
@@ -469,14 +469,14 @@ All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and
 
 #### Registration for this Challenge:
 
-Beginning September 30, 2020 at 5:00 pm EST, the identified Official Representative (individual, team, or legal entity) may register for this competition by sending an email to HypertensionChallenge@hhs.gov with the subject line stating ‘Hypertension Competition Registration’. In this email you must identify only one Official Representative for each competition registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the participant (individual, team, or legal entity), that he or she has read and consents to be governed by the competition rules. Registration for this competition is due by October 29, 2020 at 11:59 pm EST.
+Beginning September 30, 2020 at 5:00 pm EST, the identified Official Representative (individual, team, or legal entity) may register for this competition by sending an email to HypertensionChallenge@hhs.gov with the subject line stating ‘Hypertension Competition Registration’. In this email you must identify only one Official Representative for each competition registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the participant (individual, team, or legal entity), that he or she has read and consents to be governed by the competition rules. Registration for this competition is due by November 16, 2020 at 11:59 pm EST.
 
 Questions concerning this competition should be sent by email to: 
 [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov).
 
 **Phase 1: Identification of successful programs**
 
-Submissions for Phase 1 of this competition are due by October 30, 2020 at 11:59 pm EST. The identified Official Representative (individual, team or legal entity) may apply for this competition by submitting an application by email to [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov). The application for Phase 1 of the competition shall meet the following requirements:
+Submissions for Phase 1 of this competition are due by November 16, 2020 at 11:59 pm EST. The identified Official Representative (individual, team or legal entity) may apply for this competition by submitting an application by email to [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov). The application for Phase 1 of the competition shall meet the following requirements:
 
 * Entries must consist of PDF files with font size no smaller than 11-point Arial.
 * All submissions must be in English.
