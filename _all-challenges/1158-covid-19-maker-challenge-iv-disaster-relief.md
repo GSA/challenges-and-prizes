@@ -4,7 +4,7 @@ challenge-title: "COVID-19 Maker Challenge V: Disaster Relief"
 layout: front-matter-data-markdownify-content
 permalink: /challenge/covid-19-maker-challenge-disaster-relief/
 challenge-id: "1158"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/covid-19-maker-logo-341x160-.png
 agency-logo: /assets/netlify-uploads/valogo.png
@@ -20,8 +20,8 @@ partners-non-federal: Challenge America, America Makes, Carahsoft, Salesforce,
 external-url: ""
 type-of-challenge:
   - Technology demonstration and hardware
-submission-start: 2020/09/10 5:00 PM
-submission-end: 2020/10/07 7:00 PM
+submission-start: 09/10/2020 5:00 PM
+submission-end: 10/07/2020 7:00 PM
 fiscal-year: FY20
 legal-authority: America COMPETES Act
 challenge-manager: Dallas Blaney
