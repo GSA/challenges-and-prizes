@@ -70,13 +70,13 @@ description: >-
   **Phase 1:** Identification of successful programs
 
 
-  * Open September 30, 2020 through October 30, 2020.
+  * Open September 30, 2020 through November 16, 2020.
 
-  * Phase 1 submissions are due by October 30, 2020, 11:59 pm EST.
+  * Phase 1 submissions are due by November 16, 2020, 11:59 pm EST.
 
-  * Judging for Phase 1 will occur from October 31, 2020 through November 20, 2020.
+  * Judging for Phase 1 will occur from November 17, 2020 through December 1, 2020.
 
-  * Finalists that move into Phase 2 will be awarded by November 21, 2020.
+  * Finalists that move into Phase 2 will be awarded by December 2, 2020.
 
 
   **Phase 2:** Awarding plans for sustainability and replication and/or expansion
@@ -359,10 +359,10 @@ The competition has three phases. All eligible submissions will be evaluated, an
 
 **Phase 1:** Identification of successful programs
 
-* Open September 30, 2020 through October 30, 2020.
-* Phase 1 submissions are due by October 30, 2020, 11:59 pm EST.
-* Judging for Phase 1 will occur from October 31, 2020 through November 20, 2020.
-* Finalists that move into Phase 2 will be awarded by November 21, 2020.
+* Open September 30, 2020 through November 16, 2020.
+* Phase 1 submissions are due by November 16, 2020, 11:59 pm EST.
+* Judging for Phase 1 will occur from November 17, 2020 through December 1, 2020.
+* Finalists that move into Phase 2 will be awarded by December 2, 2020.
 
 **Phase 2:** Awarding plans for sustainability and replication and/or expansion
 
