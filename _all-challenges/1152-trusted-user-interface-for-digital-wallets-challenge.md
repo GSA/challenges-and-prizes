@@ -6,7 +6,7 @@ challenge-title: U.S. Department of Homeland Security’s Trusted User Interface
 layout: front-matter-data-markdownify-content
 permalink: /challenge/trusted-user-interface-for-digital-wallets-challenge/
 challenge-id: "1152"
-status: closed
+status: open
 sidenav: true
 card-image: /assets/netlify-uploads/digital-wallets-challenge.jpg
 agency-logo: /assets/netlify-uploads/256px-Seal_of_the_United_States_Department_of_Homeland_Security.png
@@ -16,8 +16,8 @@ agency: U.S. Department of Homeland Security - Science and Technology
 total-prize-offered-cash: $25,000
 type-of-challenge:
   - Software and apps
-submission-start: 09/08/2020 7:59 PM
-submission-end: 10/15/2020 7:59 PM
+submission-start: 2020/09/08 7:59 PM
+submission-end: 2020/10/15 7:59 PM
 fiscal-year: FY20
 legal-authority: America COMPETES Act
 challenge-manager: Melissa Oh
