@@ -4,7 +4,7 @@ challenge-title: xTechBOLT
 layout: front-matter-data-markdownify-content
 permalink: /challenge/xTechBOLT/
 challenge-id: "1150"
-status: closed
+status: open
 sidenav: true
 card-image: /assets/netlify-uploads/webp.net-resizeimage-11-.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
@@ -19,8 +19,8 @@ type-of-challenge:
   - Technology demonstration and hardware
   - Analytics, visualizations, algorithms
   - Scientific
-submission-start: 08/01/2020 02:00 PM
-submission-end: 10/17/2020 02:59 AM
+submission-start: 2020/08/01 02:00 PM
+submission-end: 2020/10/17 02:59 AM
 fiscal-year: FY20, FY21, FY22
 legal-authority: Agency specific prize authority
 challenge-manager: Moriah Bartlett
