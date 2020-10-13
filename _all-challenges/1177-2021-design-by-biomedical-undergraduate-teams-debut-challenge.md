@@ -6,7 +6,7 @@ permalink: /challenge/design-biomedical-undergraduate-teams-debut-challenge/
 challenge-id: "1177"
 status: open
 sidenav: false
-card-image: /assets/netlify-uploads/debut-logo.png
+card-image: /assets/netlify-uploads/vertical-debut-logo-v3.png
 agency-logo: /assets/netlify-uploads/nih_nibib_vertical_logo_2color.jpg
 tagline: NIBIB is challenging undergraduate student teams to develop technology
   solutions to unmet healthcare needs
