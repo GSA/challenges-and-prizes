@@ -20,7 +20,7 @@ type-of-challenge:
   - Technology demonstration and hardware
   - Business plans
   - Analytics, visualizations, algorithms
-submission-start: 2020/09/30 12:00 AM
+submission-start: 2020/10/15 12:00 PM
 submission-end: 2021/02/04 11:59 PM
 fiscal-year: FY21
 legal-authority: Other
@@ -79,7 +79,7 @@ description: >-
   #### Key Dates:
 
 
-  *Submissions:* The FAA Challenge competition will accept submissions between \[DATE OF POSTING] and 11:59 PM ET February 4, 2021.
+  *Submissions:* The FAA Challenge competition will accept submissions between 12:00 PM ET October 15, 2020 and 11:59 PM ET February 4, 2021.
 
 
   *Expression of Interest:* Teams are encouraged to submit an Expression of Interest to compete in this FAA Challenge by 11:59 PM ET November 12, 2020.
@@ -193,7 +193,7 @@ Please carefully review the FAA Challenge website <http://faachallenge.nianet.or
 
 #### Key Dates:
 
-*Submissions:* The FAA Challenge competition will accept submissions between \[DATE OF POSTING] and 11:59 PM ET February 4, 2021.
+*Submissions:* The FAA Challenge competition will accept submissions between 12:00 PM ET October 15, 2020 and 11:59 PM ET February 4, 2021.
 
 *Expression of Interest:* Teams are encouraged to submit an Expression of Interest to compete in this FAA Challenge by 11:59 PM ET November 12, 2020.
 
@@ -205,7 +205,7 @@ Please carefully review the [official competition website](http://faachallenge.
 
 ### Prizes
 
-#### Total Cash Prize Pool: 
+#### Total Cash Prize Pool:
 
 $25,000
 
