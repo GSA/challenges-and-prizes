@@ -22,19 +22,19 @@ type-of-challenge:
   - Software and apps
   - Technology demonstration and hardware
 submission-start: 2020/09/30 5:00 PM
-submission-end: 2020/10/30 11:59 PM
+submission-end: 2020/11/16 11:59 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Courtney Gustin
 challenge-manager-email: Courtney.gustin@hhs.gov
 point-of-contact: HypertensionChallenge@hhs.gov
 description: >-
-  The Office of the Assistant Secretary for Health (OASH), Office on Women’s
-  Health (OWH) is seeking innovative ways to ensure women with hypertension
-  during pregnancy and/or postpartum receive appropriate monitoring and
-  follow-up through the HHS Hypertension Innovator Award
-  Competition:  Innovative Methods of Blood Pressure Monitoring and Follow-up in
-  Women during Pregnancy and/or Postpartum.
+  **\*\*Important Update: The submission deadline has been extended to
+  11/16/2020, along with other important changes to Key Dates.  Please see
+  changes below in the Key Dates section.**
+
+
+  The Office of the Assistant Secretary for Health (OASH), Office on Women’s Health (OWH) is seeking innovative ways to ensure women with hypertension during pregnancy and/or postpartum receive appropriate monitoring and follow-up through the HHS Hypertension Innovator Award Competition:  Innovative Methods of Blood Pressure Monitoring and Follow-up in Women during Pregnancy and/or Postpartum.
 
 
   #### Background/Issue
@@ -70,13 +70,13 @@ description: >-
   **Phase 1:** Identification of successful programs
 
 
-  * Open September 30, 2020 through October 30, 2020.
+  * Open September 30, 2020 through November 16, 2020.
 
-  * Phase 1 submissions are due by October 30, 2020, 11:59 pm EST.
+  * Phase 1 submissions are due by November 16, 2020, 11:59 pm EST.
 
-  * Judging for Phase 1 will occur from October 31, 2020 through November 20, 2020.
+  * Judging for Phase 1 will occur from November 17, 2020 through December 1, 2020.
 
-  * Finalists that move into Phase 2 will be awarded by November 21, 2020.
+  * Finalists that move into Phase 2 will be awarded by December 2, 2020.
 
 
   **Phase 2:** Awarding plans for sustainability and replication and/or expansion
@@ -238,7 +238,7 @@ how-to-enter: >-
   #### Registration for this Challenge:
 
 
-  Beginning September 30, 2020 at 5:00 pm EST, the identified Official Representative (individual, team, or legal entity) may register for this competition by sending an email to HypertensionChallenge@hhs.gov with the subject line stating ‘Hypertension Competition Registration’. In this email you must identify only one Official Representative for each competition registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the participant (individual, team, or legal entity), that he or she has read and consents to be governed by the competition rules. Registration for this competition is due by October 29, 2020 at 11:59 pm EST.
+  Beginning September 30, 2020 at 5:00 pm EST, the identified Official Representative (individual, team, or legal entity) may register for this competition by sending an email to HypertensionChallenge@hhs.gov with the subject line stating ‘Hypertension Competition Registration’. In this email you must identify only one Official Representative for each competition registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the participant (individual, team, or legal entity), that he or she has read and consents to be governed by the competition rules. Registration for this competition is due by November 16, 2020 at 11:59 pm EST.
 
 
   Questions concerning this competition should be sent by email to: [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov).
@@ -247,7 +247,7 @@ how-to-enter: >-
   **Phase 1: Identification of successful programs**
 
 
-  Submissions for Phase 1 of this competition are due by October 30, 2020 at 11:59 pm EST. The identified Official Representative (individual, team or legal entity) may apply for this competition by submitting an application by email to [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov). The application for Phase 1 of the competition shall meet the following requirements:
+  Submissions for Phase 1 of this competition are due by November 16, 2020 at 11:59 pm EST. The identified Official Representative (individual, team or legal entity) may apply for this competition by submitting an application by email to [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov). The application for Phase 1 of the competition shall meet the following requirements:
 
 
   * Entries must consist of PDF files with font size no smaller than 11-point Arial.
@@ -333,6 +333,8 @@ how-to-enter: >-
 ---
 ### Description
 
+**\*\*Important Update: The submission deadline has been extended to 11/16/2020, along with other important changes to Key Dates.  Please see changes below in the Key Dates section.**
+
 The Office of the Assistant Secretary for Health (OASH), Office on Women’s Health (OWH) is seeking innovative ways to ensure women with hypertension during pregnancy and/or postpartum receive appropriate monitoring and follow-up through the HHS Hypertension Innovator Award Competition:  Innovative Methods of Blood Pressure Monitoring and Follow-up in Women during Pregnancy and/or Postpartum.
 
 #### Background/Issue
@@ -357,10 +359,10 @@ The competition has three phases. All eligible submissions will be evaluated, an
 
 **Phase 1:** Identification of successful programs
 
-* Open September 30, 2020 through October 30, 2020.
-* Phase 1 submissions are due by October 30, 2020, 11:59 pm EST.
-* Judging for Phase 1 will occur from October 31, 2020 through November 20, 2020.
-* Finalists that move into Phase 2 will be awarded by November 21, 2020.
+* Open September 30, 2020 through November 16, 2020.
+* Phase 1 submissions are due by November 16, 2020, 11:59 pm EST.
+* Judging for Phase 1 will occur from November 17, 2020 through December 1, 2020.
+* Finalists that move into Phase 2 will be awarded by December 2, 2020.
 
 **Phase 2:** Awarding plans for sustainability and replication and/or expansion
 
@@ -467,14 +469,14 @@ All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and
 
 #### Registration for this Challenge:
 
-Beginning September 30, 2020 at 5:00 pm EST, the identified Official Representative (individual, team, or legal entity) may register for this competition by sending an email to HypertensionChallenge@hhs.gov with the subject line stating ‘Hypertension Competition Registration’. In this email you must identify only one Official Representative for each competition registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the participant (individual, team, or legal entity), that he or she has read and consents to be governed by the competition rules. Registration for this competition is due by October 29, 2020 at 11:59 pm EST.
+Beginning September 30, 2020 at 5:00 pm EST, the identified Official Representative (individual, team, or legal entity) may register for this competition by sending an email to HypertensionChallenge@hhs.gov with the subject line stating ‘Hypertension Competition Registration’. In this email you must identify only one Official Representative for each competition registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the participant (individual, team, or legal entity), that he or she has read and consents to be governed by the competition rules. Registration for this competition is due by November 16, 2020 at 11:59 pm EST.
 
 Questions concerning this competition should be sent by email to: 
 [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov).
 
 **Phase 1: Identification of successful programs**
 
-Submissions for Phase 1 of this competition are due by October 30, 2020 at 11:59 pm EST. The identified Official Representative (individual, team or legal entity) may apply for this competition by submitting an application by email to [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov). The application for Phase 1 of the competition shall meet the following requirements:
+Submissions for Phase 1 of this competition are due by November 16, 2020 at 11:59 pm EST. The identified Official Representative (individual, team or legal entity) may apply for this competition by submitting an application by email to [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov). The application for Phase 1 of the competition shall meet the following requirements:
 
 * Entries must consist of PDF files with font size no smaller than 11-point Arial.
 * All submissions must be in English.

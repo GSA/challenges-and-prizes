@@ -278,7 +278,7 @@ rules: >-
   3. screen and evaluate the submission per the Stage II Judging Criteria, if Participant is selected for Stage II.
 
 
-  Participant further grants the DOT, and anyone acting on its behalf the right to publicize Participant's name and, as applicable, the name of Participant's team members and/or the name of any Entity that assisted in preparing Participant's submission. Such authority includes posting or linking to the Participant's submission on U.S. Department of Transportation websites, including the Challenge website, Participant's websites, and inclusion of the Participant's submission in any other media, worldwide. More specifically, such authority includes the right to copy, distribute, publicly display and publicly perform all parts of Participant's submission.
+  Participant further grants the DOT, and anyone acting on its behalf the right to publicize Participant's name and, as applicable, the name of Participant's team members and/or the name of any Entity that assisted in preparing Participant's submission. Such authority includes posting or linking to the Participant's submission on U.S. Department of Transportation websites, including the Challenge website, Participant's websites, and inclusion of the Participant's submission in any other media, worldwide. More specifically, such authority includes the right to copy, distribute, publicly display and publicly perform all parts of Participant's submission *that would not otherwise be exempt from disclosure under FOIA*.
 
 
   #### Notes on Terminology
@@ -538,7 +538,7 @@ By virtue of their submission to this Challenge, Participants grant to the DOT, 
 2. describe the submission in any materials created in connection with this Challenge; and
 3. screen and evaluate the submission per the Stage II Judging Criteria, if Participant is selected for Stage II.
 
-Participant further grants the DOT, and anyone acting on its behalf the right to publicize Participant's name and, as applicable, the name of Participant's team members and/or the name of any Entity that assisted in preparing Participant's submission. Such authority includes posting or linking to the Participant's submission on U.S. Department of Transportation websites, including the Challenge website, Participant's websites, and inclusion of the Participant's submission in any other media, worldwide. More specifically, such authority includes the right to copy, distribute, publicly display and publicly perform all parts of Participant's submission.
+Participant further grants the DOT, and anyone acting on its behalf the right to publicize Participant's name and, as applicable, the name of Participant's team members and/or the name of any Entity that assisted in preparing Participant's submission. Such authority includes posting or linking to the Participant's submission on U.S. Department of Transportation websites, including the Challenge website, Participant's websites, and inclusion of the Participant's submission in any other media, worldwide. More specifically, such authority includes the right to copy, distribute, publicly display and publicly perform all parts of Participant's submission *that would not otherwise be exempt from disclosure under FOIA*.
 
 #### Notes on Terminology
 

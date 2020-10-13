@@ -4,7 +4,7 @@ challenge-title: Army xTechSBIR
 layout: front-matter-data-markdownify-content
 permalink: /challenge/army-xtech-sbir/
 challenge-id: "1166"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/xtechsbir-logo_challengegov.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
@@ -19,8 +19,8 @@ type-of-challenge:
   - Technology demonstration and hardware
   - Analytics, visualizations, algorithms
   - Scientific
-submission-start: 2020/09/16 5:00 PM
-submission-end: 2020/10/10 02:59 AM
+submission-start: 09/16/2020 5:00 PM
+submission-end: 10/10/2020 02:59 AM
 fiscal-year: FY20, FY21
 legal-authority: Agency specific prize authority
 challenge-manager: Zeke Topolosky

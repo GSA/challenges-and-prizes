@@ -70,7 +70,7 @@ description: >-
   * Winners announced: Winter 2020/2021 (date and time to be determined)
 
 
-  For more information please visit EPA's page for the [Next Gen Fertilizer Challenges](https://www.epa.gov/innovation/next-gen-fertilizer-challenges).
+  For more information please visit EPA's page for the [Next Gen Fertilizer Challenges](https://www.epa.gov/innovation/next-gen-fertilizer-challenges), including [Frequently Asked Questions](https://www.epa.gov/innovation/next-gen-fertilizer-challenges#FAQs).
 prizes: >-
   #### Total Cash Prize Pool
 
@@ -275,7 +275,7 @@ EEF Environmental and Agronomic Challenge Dates:
 * Submission End: 11:59 PM ET October 30, 2020 
 * Winners announced: Winter 2020/2021 (date and time to be determined)
 
-For more information please visit EPA's page for the [Next Gen Fertilizer Challenges](https://www.epa.gov/innovation/next-gen-fertilizer-challenges). 
+For more information please visit EPA's page for the [Next Gen Fertilizer Challenges](https://www.epa.gov/innovation/next-gen-fertilizer-challenges), including [Frequently Asked Questions](https://www.epa.gov/innovation/next-gen-fertilizer-challenges#FAQs).
 
 ### Prizes
 
