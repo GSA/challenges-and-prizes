@@ -6,7 +6,7 @@ permalink: /challenge/fleet-vi-capture-challenge/
 challenge-id: "1179"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/sealnavy.png
+card-image: /assets/netlify-uploads/logo.jpg
 agency-logo: /assets/netlify-uploads/sealnavy.png
 tagline: Fleet VI is a no-fail mission designed to document with video, for the
   purpose of being released to the media, unsafe and unprofessional interactions
