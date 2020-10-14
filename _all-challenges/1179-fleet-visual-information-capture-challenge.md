@@ -506,6 +506,8 @@ During the presentation phase, responses from competitors will be graded by the 
 
 **Presentation Area Floor Plan**
 
+![Presentation Area Floor Plan]({{site.baseurl}}/assets/netlify-uploads/presentation_area_floor_plan.jpg "Presentation Area Floor Plan")
+
 **Transition Phase**
 In the transition phase competitors will be guided to the demonstration phase site location. All equipment needed to set up two-Sensor Hardware Solution system will need to be carried to the demonstration location. This transition phase is limited to 30-minutes.
 
