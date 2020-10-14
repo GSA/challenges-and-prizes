@@ -59,27 +59,27 @@ description: >-
   #### Key Dates
 
 
-  Challenge Registration and Submissions Opens:  				 **October 13, 2020**
+  * Challenge Registration and Submissions Opens:  **October 13, 2020**
 
-  Challenge Registration Deadline:  					                 **December 8, 2020**
+  * Challenge Registration Deadline: **December 8, 2020**
 
-  Full proposal/Quad-chart & Opt. Video Presentation Deadline:      **December 11, 2020**
+  * Full proposal/Quad-chart & Opt. Video Presentation Deadline: **December 11, 2020**
 
-  Review/Down-Selection Reveal:						                 **December 22, 2020**
+  * Review/Down-Selection Reveal: **December 22, 2020**
 
-  Virtual Q/A Session for competitors: 	 	 	 	 		         **January 12, 2021**
+  * Virtual Q/A Session for competitors: **January 12, 2021**
 
-  Competition Track #1 (Presentation/Demonstration):			 **March 8, 2021**
+  * Competition Track #1 (Presentation/Demonstration): **March 8, 2021**
 
-  Competition Track #2 (Presentation/Demonstration):			 **March 9, 2021**
+  * Competition Track #2 (Presentation/Demonstration): **March 9, 2021**
 
-  Final Judging (Start/Competition):	 	 	 			         **March 10-11, 2021** 
+  * Final Judging (Start/Competition): **March 10-11, 2021** 
 
-  Announcement of Winners: 	 	 	 	 		                 **March 15, 2021** 		\
+  * Announcement of Winners: **March 15, 2021** 		
 
-  Prize award Competition:	 	 	 	 		                         **March 31, 2021**
+  * Prize award Competition: **March 31, 2021**
 
-  Posted Winner on Challenge Submission Platforms:			 **March 31, 2021**
+  * Posted Winner on Challenge Submission Platforms: **March 31, 2021**
 
 
   #### Definitions
@@ -196,17 +196,17 @@ Even the best trained Fleet VI teams and the most well thought-out standard oper
 
 #### Key Dates
 
-Challenge Registration and Submissions Opens:  				 **October 13, 2020**
-Challenge Registration Deadline:  					                 **December 8, 2020**
-Full proposal/Quad-chart & Opt. Video Presentation Deadline:      **December 11, 2020**
-Review/Down-Selection Reveal:						                 **December 22, 2020**
-Virtual Q/A Session for competitors: 	 	 	 	 		         **January 12, 2021**
-Competition Track #1 (Presentation/Demonstration):			 **March 8, 2021**
-Competition Track #2 (Presentation/Demonstration):			 **March 9, 2021**
-Final Judging (Start/Competition):	 	 	 			         **March 10-11, 2021** 
-Announcement of Winners: 	 	 	 	 		                 **March 15, 2021** 		\
-Prize award Competition:	 	 	 	 		                         **March 31, 2021**
-Posted Winner on Challenge Submission Platforms:			 **March 31, 2021**
+* Challenge Registration and Submissions Opens:  **October 13, 2020**
+* Challenge Registration Deadline: **December 8, 2020**
+* Full proposal/Quad-chart & Opt. Video Presentation Deadline: **December 11, 2020**
+* Review/Down-Selection Reveal: **December 22, 2020**
+* Virtual Q/A Session for competitors: **January 12, 2021**
+* Competition Track #1 (Presentation/Demonstration): **March 8, 2021**
+* Competition Track #2 (Presentation/Demonstration): **March 9, 2021**
+* Final Judging (Start/Competition): **March 10-11, 2021** 
+* Announcement of Winners: **March 15, 2021** 		
+* Prize award Competition: **March 31, 2021**
+* Posted Winner on Challenge Submission Platforms: **March 31, 2021**
 
 #### Definitions
 
