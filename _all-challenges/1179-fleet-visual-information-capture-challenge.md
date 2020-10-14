@@ -447,6 +447,8 @@ For both Track #1 (day one March 8, 2021) and Track #2 (day two March 9, 2021) t
 
 **NIWC-PAC Bayside Pass Office**
 
+![NIWCPAC Bayside Pass Office]({{site.baseurl}}/assets/netlify-uploads/niwcpac_bayside_pass_office.jpg "NIWCPAC Bayside Pass Office")
+
 **Base Access Phase**
 
 The base access phase has a 30-minute window. The location of the Competition will be Naval Information Warfare Center Pacific, Point Loma/Bayside. This location requires two forms of identification (Common Access Card and NIWC-PAC badge). Each competitor will receive a base access data request in January 2021. An EC member will submit temporary badge requests for each responding attendee. The SA will manage the base access for competitors. An EC member will meet each competitor at their designated arrival times by the front door of the NIWC-PAC Bayside Pass Office (Strothe Rd, San Diego CA 92106). This location is identified by the YELLOW star and Black rectangle in the image above. It is at that time and location where the competitor will receive their badges and will have access to drive onto to NIWC-PAC Bayside. An EC member will guide the competitor to their assigned parking location near the Competition area. 
