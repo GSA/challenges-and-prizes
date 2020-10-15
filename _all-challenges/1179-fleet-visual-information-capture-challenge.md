@@ -26,10 +26,7 @@ legal-authority: Agency specific prize authority
 challenge-manager: Arthur Rubio B.S.E.E, M.S.E
 challenge-manager-email: rubio@spawar.navy.mil
 point-of-contact: rubio@spawar.navy.mil
-description: >-
-  ### Description
-
-
+description: >
   **PROBLEM STATEMENT**
 
   Navy sailors conducting operational tasking for capturing Fleet Visual Information (Fleet VI) need a standalone solution that can quickly and effectively capture broadcast-quality interactions between US Naval vessels and adversarial units violating internationally recognized seafaring protocols to chronologically report these incidents to Combatant Commanders, the Secretary of Defense, and the American public.
@@ -53,7 +50,7 @@ description: >-
   Even the best trained Fleet VI teams and the most well thought-out standard operating procedures can fall short of effectively and efficiently capturing Fleet VI events. Fleet VI teams need innovative solutions that reliably capture broadcast-quality footage for Combatant Commanders, the Secretary of Defense, and the American public. An ideal solution, as defined by the Navy, would be one that maintains continuous high-definition, wide-angle field-of-view, and point-of-view footage around US Navy vessels in various environmental conditions. Therefore, the Fleet VI Challenge is looking for Submitters as identified in the eligibility, that have Hardware Solutions that are either currently available or will soon (less than 2-years) be available to the private sector and require little to no modification for the Navy’s relevant environment. A Hardware Solution as defined by the Navy as suitable for Fleet VI is as follows: A reliable, scalable, and user-friendly architecture that has multiple Sensors that interface together at a central video management system. This interface may be wireless, hardwired, or a combination of the two; however, it MUST maintain reliable connectivity to a central video management system for maintaining a constant state of continuous recording of VI events. Sensors, as defined by the Navy, must capture, and record high definition quality video and photos of sea interactions between vessels while maintaining a wide field-of-view and a reference point-of-view given various environmental conditions. These clear high definition videos and photos must be managed by a central video management system that may or may not have software/firmware embedded; however, this management system must be reliable, scalable, ruggedized, user-friendly, and capable of organizing captured footage. It must also contain storage capacity either internally or externally that allows sailors the capability to access stored footage at a future date. 
 
 
-  (Please add: Submitter Hardware Interface with EC image here)
+  ![Submitter Hardware Interface]({{site.baseurl}}/assets/netlify-uploads/submitter_hardware_interface.jpg "Submitter Hardware Interface")
 
 
   #### Key Dates
