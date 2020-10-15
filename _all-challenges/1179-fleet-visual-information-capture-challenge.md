@@ -304,6 +304,8 @@ The figure below identifies the column titled “Resolution Footage”, which is
 
 ![Attribute Weight Equation]({{site.baseurl}}/assets/netlify-uploads/attribute_weight_equation-1-.jpg "Attribute Weight Equation")
 
+![Attribute Relative Weight]({{site.baseurl}}/assets/netlify-uploads/attribute_relative_weight.jpg "Attribute Relative Weight")
+
 **Attribute Relative Weight**
 
 A level-one QFD is not enough to carefully select a winner to the Challenge. This is because a QFD is intended to identify what technical attributes can be reduced or eliminated in a design phase of a new system while still maintaining the voice of the customer. This Challenge does not intend to seek out a submitter to develop from scratch a Hardware Solution. It intends to seek a submitter who already has a Hardware Solution that best aligns with Fleet VI requirements that may or may not require slight modifications for the Navy’s environment. Therefore, a minimum baseline on each measurable Attribute identified will be added to the QFD. Each ECE will grade each submitter’s Hardware Solution attributes on how it measures up to the minimum baseline. The grading values are does not meet baseline (3pts), meets baseline = (5 pts), slightly exceeds baseline (7 pts), and exceeds the baseline (9 pts).  These grading values will each be multiplied by their respective Attribute Relative Weight percentages. The sum-product of all the individual scores will render an overall final percentage score. See example and image below.
