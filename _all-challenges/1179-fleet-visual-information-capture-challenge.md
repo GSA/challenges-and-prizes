@@ -288,7 +288,7 @@ This Challenge will use a normalized weighted metric approach. All Hardware Solu
 
 The figure below identifies the customer requirements (highlighted in blue) and how important the customer views that specific requirement. The Customer Importance (highlighted yellow) is on a scale measured from zero to five. A Customer Importance of zero would indicate that the requirement is not important at all, while a Customer Importance of five would indicate that the requirement is of the highest importance. Given this information, EC members can calculate the Requirements Relative Weight of each requirement (highlighted white) using the equation below. The relative weight of each requirement will be used to calculate the Attribute Relative Weight.
 
-![Attribute Weight Equation]({{site.baseurl}}/assets/netlify-uploads/attribute_weight_equation.jpg "Attribute Weight Equation")
+![Requirement Relative Weight Equation]({{site.baseurl}}/assets/netlify-uploads/requirement_weight_equation.jpg "Requirement Relative Weight Equation")
 
 **Requirement, Requirement Relative Weight, and Customer Importance Image**
 
