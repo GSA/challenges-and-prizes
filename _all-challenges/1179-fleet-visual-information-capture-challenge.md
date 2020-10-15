@@ -172,6 +172,80 @@ rules: >-
 
 
   Government personnel involved in the prize *Challenge* shall not engage in conduct that favors one competitor over another. In addition, any means of dissemination that reveals a technical solution, including unique technology, innovative and unique uses of commercial items, or any information that could compromise a competitor’s intellectual property to another competitor is prohibited.
+judging: >
+  **Evaluation Committee Evaluators Responsibilities (ECE):** ECE are members
+  who will evaluate submitters and serve as judges for the Challenge and are
+  voting members of the EC. They are responsible for determining how well
+  proposals and demonstrations satisfy the evaluation criteria. ECE will be made
+  up of senior level personnel and operators who have operations experience on
+  Fleet VI. 
+
+
+  **EC Selection Consultants (SC) Responsibilities:** The SC will provide consultation on the execution of the prize Challenge. They have vast experience in OPTASK VI requirements for the Department of the Navy. They are also the immediate stakeholders who have provided extensive support and guidance on how the prize Challenge shall be executed. It must be noted that members of the SC are non-voting members; however, their input will be considered in the final selection of the prize Challenge winners. 
+
+
+  #### Judging Criteria
+
+
+  This Challenge will use a normalized weighted metric approach. All Hardware Solution requirements were identified by Fleet VI SME. Each requirement is correlated to multiple measurable technical attributes that have been identified by EC members. Customer Requirements, Requirements Relative Weight, Technical Attributes, Customer Importance value, and Attribute Relative Weight, together form a correlation matrix. This type of correlation matrix is referred to as a level-one Quality Function Deployment (QFD). A QFD identifies the voice of the customer. EC members will use a level-one QFD to understand numerically the Technical Attribute Relative Weight. 
+
+
+  The figure below identifies the customer requirements (highlighted in blue) and how important the customer views that specific requirement. The Customer Importance (highlighted yellow) is on a scale measured from zero to five. A Customer Importance of zero would indicate that the requirement is not important at all, while a Customer Importance of five would indicate that the requirement is of the highest importance. Given this information, EC members can calculate the Requirements Relative Weight of each requirement (highlighted white) using the equation below. The relative weight of each requirement will be used to calculate the Attribute Relative Weight.
+
+
+  ![Requirement Relative Weight Equation]({{site.baseurl}}/assets/netlify-uploads/requirement_weight_equation.jpg "Requirement Relative Weight Equation")
+
+
+  **Requirement, Requirement Relative Weight, and Customer Importance Image**
+
+
+  ![Requirement, Requirement Relative Weight, and Customer Importance Image]({{site.baseurl}}/assets/netlify-uploads/requirements.jpg "Requirement, Requirement Relative Weight, and Customer Importance Image")
+
+
+  The Customer Requirements, identified in the figure above, alone are ambiguous; therefore, Technical Attributes that make the Customer Requirements possible must be identified. For example, if my Customer Requirement is “Capable of HD Data Capture”, then one attribute could be the “Resolution of Footage”. The understanding of the correlation between a Customer Requirement and a measurable Attribute is critical for a level-one QFD. After all possible Technical Attributes are listed, a Relationship Value is given for each Attribute that correlates to the Customer Requirements. A Relationship Value of 1, 3, or 9 will be given. A Relationship Value of one would indicate a weak correlation, while a value of nine would indicate the strongest correlation. Symbols were used for wide view of correlations.
+
+
+  **Relationship Values**
+
+
+  ![Relationship Values]({{site.baseurl}}/assets/netlify-uploads/relationship_values.png "Relationship Values")
+
+
+  The figure below identifies the column titled “Resolution Footage”, which is one of 60 Attributes (refer to stages # 2, # 3, # 5 for list of Attributes) that will be used for grading during the Challenge. The Importance Rating Sum (highlighted yellow) is the sum-product of the correlated Attributes column and the Requirements Relative Weight row. EC members can calculate the Attribute Relative Weight of each requirement (highlighted in blue) using the equation below. These 60 relative weighted percentages will be used in the final scoring for each submitter. The sum-product of all the individual scores will result in an overall final percentage. 
+
+
+  ![Attribute Weight Equation]({{site.baseurl}}/assets/netlify-uploads/attribute_weight_equation-1-.jpg "Attribute Weight Equation")
+
+
+  **Attribute Relative Weight**
+
+
+  ![Attribute Relative Weight]({{site.baseurl}}/assets/netlify-uploads/attribute_relative_weight.jpg "Attribute Relative Weight")
+
+
+  A level-one QFD is not enough to carefully select a winner to the Challenge. This is because a QFD is intended to identify what technical attributes can be reduced or eliminated in a design phase of a new system while still maintaining the voice of the customer. This Challenge does not intend to seek out a submitter to develop from scratch a Hardware Solution. It intends to seek a submitter who already has a Hardware Solution that best aligns with Fleet VI requirements that may or may not require slight modifications for the Navy’s environment. Therefore, a minimum baseline on each measurable Attribute identified will be added to the QFD. Each ECE will grade each submitter’s Hardware Solution attributes on how it measures up to the minimum baseline. The grading values are does not meet baseline (3pts), meets baseline = (5 pts), slightly exceeds baseline (7 pts), and exceeds the baseline (9 pts).  These grading values will each be multiplied by their respective Attribute Relative Weight percentages. The sum-product of all the individual scores will render an overall final percentage score. See example and image below.
+
+
+  **Example: (refer to image below)**
+
+  Resolution Footage Baseline = 1080P
+
+  Resolution Footage Baseline points (Meets Baseline) = 5
+
+  Resolution Footage Attribute Relative Weight = 3.54% (Highlighted blue)
+
+
+  * Each competitor will be given a score of either 3, 5, 7, or 9 based on the performance of the resolution attribute
+
+  * Arbitrary numbers have been entered in the Resolution Footage column for each competitor for this example.
+
+  * If this Attribute was the sole measure of the Challenge winner, then competitor #6 would be the winner at 3.808% (highlighted green)
+
+
+  **Resolution Footage Example**
+
+
+  ![Resolution Footage Example]({{site.baseurl}}/assets/netlify-uploads/resolution_footage_example.jpg "Resolution Footage Example")
 ---
 ### Description
 
