@@ -292,6 +292,8 @@ The figure below identifies the customer requirements (highlighted in blue) and 
 
 **Requirement, Requirement Relative Weight, and Customer Importance Image**
 
+![Requirement, Requirement Relative Weight, and Customer Importance Image]({{site.baseurl}}/assets/netlify-uploads/requirements.jpg "Requirement, Requirement Relative Weight, and Customer Importance Image")
+
 The Customer Requirements, identified in the figure above, alone are ambiguous; therefore, Technical Attributes that make the Customer Requirements possible must be identified. For example, if my Customer Requirement is “Capable of HD Data Capture”, then one attribute could be the “Resolution of Footage”. The understanding of the correlation between a Customer Requirement and a measurable Attribute is critical for a level-one QFD. After all possible Technical Attributes are listed, a Relationship Value is given for each Attribute that correlates to the Customer Requirements. A Relationship Value of 1, 3, or 9 will be given. A Relationship Value of one would indicate a weak correlation, while a value of nine would indicate the strongest correlation. Symbols were used for wide view of correlations.
 
 **Relationship Values**
