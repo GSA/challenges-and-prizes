@@ -1029,5 +1029,6 @@ Once the system recovers the competitors will be required pan both their sensor 
 In the departure phase competitors will be asked to leave the Competition site once they have completed their phases. If the competitors were given a visitor’s base access badge, they will surrender the badges to a designated SA. The SA will escort the competitors off the base. If some competitors were escorted onto the base with a RED BADGE, they will be escorted off the base by a SA member.
 
 **Submission Email:** 
-ammar.d.ameen@spawar.navy.mil
-mark.a.thomsen@spawar.navy.mil
+
+* ammar.d.ameen@spawar.navy.mil
+* mark.a.thomsen@spawar.navy.mil
