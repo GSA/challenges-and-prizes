@@ -527,6 +527,8 @@ During setup it is encouraged that competitors engage with the evaluators. This 
 
 **Phase #2 Ship Route**
 
+![Phase 2 Ship Route]({{site.baseurl}}/assets/netlify-uploads/phase2_ship_route.jpg "Phase 2 Ship Route")
+
 **Phase #3 Aggressive Maneuver VI Event:** This phase will simulate a VI event where an adversary vessel is conducting an aggressive maneuver. The marked vessel now maneuvers from waypoint D3 to D4 at an increased speed. The EC member will inform the competitor to take a still image and a 60-second clip when the vessel reaches the D4 waypoint. The video clip and photo must be saved and identified as WAYPOINT_D4_VIDEO and WAYPOINT_D4_PHOTO. This location will be 1000-yards from the platform marker. The marked vessel will now maneuver from waypoint D4 to D5 in a steady speed. The TC member will inform the competitor to take a still image and a 60-second clip when the vessel reaches the D5 waypoint. The video clip and photo must be saved and identified as WAYPOINT_D_VIDEO and WAYPOINT_D5_PHOTO.This location will be 500-yards from the platform marker. The markers are needed to grade the image clarity at various distances, speeds, and maneuvers. Again, all still images and video clips must contain the floating platform marker and the vessel markers. These are the four requirements in this phase. The continuous recording will also be reviewed during the judging phase. If still images and 60-second clips are not possible while the competitors Hardware Solution is continuously recording; the competitors may quickly review their footage and create these files prior to the next phase. See image below for route.
 
 **Phase #3 Ship Route**
