@@ -248,7 +248,6 @@ judging: >
 
   ![Resolution Footage Example]({{site.baseurl}}/assets/netlify-uploads/resolution_footage_example.jpg "Resolution Footage Example")
 how-to-enter: >-
-  
   **Stage #1: Registration**
 
 
@@ -631,9 +630,10 @@ how-to-enter: >-
 
   **Submission Email:** 
 
-  ammar.d.ameen@spawar.navy.mil
 
-  mark.a.thomsen@spawar.navy.mil
+  * ammar.d.ameen@spawar.navy.mil
+
+  * mark.a.thomsen@spawar.navy.mil
 ---
 ### Description
 
