@@ -548,6 +548,8 @@ Once the system recovers the competitors will be required pan both their sensor 
 
 **Demonstration Area Floor Plan**
 
+![Demonstration Area Floor Plan]({{site.baseurl}}/assets/netlify-uploads/demonstration_area_floor_plan.png "Demonstration Area Floor Plan")
+
 **Data Collection Point:** Highlighted in orange is the data collection area. This area will be the dedicated location were all data is collected from the Sensors. This area will be fully equipped with tables, chairs, monitors, dedicated competitor NAS, RJ45 connectors with cables, power strips, power cords, and a laptop machine. The competitor will set their system up and allow for their system to accept an external storage NAS system provide by EC. In addition, this is the location where ECE will be monitoring the Sensors footage and asking various questions about the Hardware Solution. It will also be the central point where the EC member will manage the ship route script and advise the competitor when the demonstration is transitioning between phases.
 
 **Demonstration Area:** Highlighted in purple is the demonstration area. This area will be equipped with a multi-tripod set up that will allow competitors to install their Sensors. This mounting system will be mounted on a floating platform. This location is located approximately 350-feet from the presentation location. The purpose of mounting the competitor’s equipment on a floating platform is to mimic the motion of a ship. The floating platform will be equipped with POE category 6 cable, 120V power cord, 120V power strips, and tripods.
