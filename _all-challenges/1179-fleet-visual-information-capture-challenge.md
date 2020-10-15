@@ -533,6 +533,8 @@ During setup it is encouraged that competitors engage with the evaluators. This 
 
 **Phase #3 Ship Route**
 
+![Phase 3 Ship Route]({{site.baseurl}}/assets/netlify-uploads/phase3_ship_route.jpg "Phase 3 Ship Route")
+
 **Phase #4 Post File Recovery and Showcase:** 
 Prior to the start of this phase all files must be transferred from the competitor’s internal storage device to the EC designated NAS. The competitors must transfer the files in the smallest file size possible. This will test the competitor’s systems ability to compress high resolution data files. 
 
