@@ -298,6 +298,8 @@ The Customer Requirements, identified in the figure above, alone are ambiguous; 
 
 **Relationship Values**
 
+![Relationship Values]({{site.baseurl}}/assets/netlify-uploads/relationship_values.png "Relationship Values")
+
 The figure below identifies the column titled “Resolution Footage”, which is one of 60 Attributes (refer to stages # 2, # 3, # 5 for list of Attributes) that will be used for grading during the Challenge. The Importance Rating Sum (highlighted yellow) is the sum-product of the correlated Attributes column and the Requirements Relative Weight row. EC members can calculate the Attribute Relative Weight of each requirement (highlighted in blue) using the equation below. These 60 relative weighted percentages will be used in the final scoring for each submitter. The sum-product of all the individual scores will result in an overall final percentage. 
 
 **Attribute Relative Weight**
