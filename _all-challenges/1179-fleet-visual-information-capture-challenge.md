@@ -26,7 +26,7 @@ legal-authority: Agency specific prize authority
 challenge-manager: Arthur Rubio B.S.E.E, M.S.E
 challenge-manager-email: rubio@spawar.navy.mil
 point-of-contact: rubio@spawar.navy.mil
-description: >
+description: >-
   **PROBLEM STATEMENT**
 
   Navy sailors conducting operational tasking for capturing Fleet Visual Information (Fleet VI) need a standalone solution that can quickly and effectively capture broadcast-quality interactions between US Naval vessels and adversarial units violating internationally recognized seafaring protocols to chronologically report these incidents to Combatant Commanders, the Secretary of Defense, and the American public.
@@ -82,20 +82,21 @@ description: >
   #### Definitions
 
 
-  *Challenge:*		      Fleet VI Capture Competition Challenge pertaining to stages 1-6
+  * *Challenge:* Fleet VI Capture Competition Challenge pertaining to stages 1-6
 
-  *Competition:*		      Pertaining to only stages 4-6 of the Fleet VI Capture Competition Challenge
+  * *Competition:* Pertaining to only stages 4-6 of the Fleet VI Capture Competition Challenge
 
-  SA:			              Selection Advisors
+  * SA: Selection Advisors
 
-  SC:			              Selection Consultants
+  * SC: Selection Consultants
 
-  SME:			      Subject Matter Expert
+  * SME: Subject Matter Expert
 
-  SP:			              Selection Plan
+  * SP: Selection Plan
 
-  *Hardware Solution:*     A reliable, scalable, and user-friendly architecture that has multiple Sensors that interface together at a central video management system. This interface may be wireless, hardwired, or a combination of the two; however, it MUST maintain reliable connectivity to a central video management system for maintaining a constant state of continuous recording of VI events. Sensors, as defined by the Navy, must capture, and record high definition quality video and photos of sea interactions between vessels while maintaining a wide field-of-view and a reference point-of-view given various environmental conditions. These clear high definition videos and photos must be managed by a central video management system that may or may not have software/firmware embedded; however, this management system must be reliable, scalable, ruggedized, user-friendly, and capable of organizing captured footage. It must also contain storage capacity either internally or externally that allows sailors the capability to access stored footage at a future date.
-  	
+  * *Hardware Solution:*A reliable, scalable, and user-friendly architecture that has multiple Sensors that interface together at a central video management system. This interface may be wireless, hardwired, or a combination of the two; however, it MUST maintain reliable connectivity to a central video management system for maintaining a constant state of continuous recording of VI events. Sensors, as defined by the Navy, must capture, and record high definition quality video and photos of sea interactions between vessels while maintaining a wide field-of-view and a reference point-of-view given various environmental conditions. These clear high definition videos and photos must be managed by a central video management system that may or may not have software/firmware embedded; however, this management system must be reliable, scalable, ruggedized, user-friendly, and capable of organizing captured footage. It must also contain storage capacity either internally or externally that allows sailors the capability to access stored footage at a future date.
+
+
   Please note that the Challenge is a tiered approach, so not all registered submitters will make it to the Competition stages. Please see “How to Enter” for details.
 prizes: >-
   #### Total Cash Prize Pool
