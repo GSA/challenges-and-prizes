@@ -15,7 +15,7 @@ agency: National Geospatial-Intelligence Agency (NGA)
 external-url: https://soundscapeschallenge.com/
 type-of-challenge:
   - Analytics, visualizations, algorithms
-submission-start: 2020/10/20
+submission-start: "2020/10/20 5:00 PM "
 submission-end: 2020/11/27
 fiscal-year: FY21
 legal-authority: Agency specific prize authority
