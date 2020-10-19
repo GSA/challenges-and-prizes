@@ -11,7 +11,7 @@ agency-logo: /assets/netlify-uploads/504px-Seal_of_the_United_States_Department_
 tagline: Discovering solutions to improve public safety and reduce drownings in
   canals throughout the U.S.
 agency: Department of the Interior - Bureau of Reclamation
-external-url: http://www.canalsafetychallenge.org
+external-url: https://www.canalsafetychallenge.org
 type-of-challenge:
   - Ideas
 submission-start: "2020/10/22 11:00 AM "
