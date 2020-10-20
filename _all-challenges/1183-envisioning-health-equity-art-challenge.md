@@ -15,8 +15,8 @@ agency: National Institutes of Health - National Institute on Minority Health
 external-url: https://nimhd.nih.gov/programs/edu-training/art-challenge/
 type-of-challenge:
   - Creative (multimedia & design)
-submission-start: 2020/10/22 5:00 PM
-submission-end: 2021/2/5 11:59 PM
+submission-start: 2020/10/22 05:00 PM
+submission-end: 2021/02/05 11:59 PM
 fiscal-year: FY21
 legal-authority: America COMPETES Act
 challenge-manager: Dr. Gina Roussos
