@@ -72,6 +72,8 @@ description: >-
 
   * Open September 30, 2020 through November 16, 2020.
 
+  * Webinar: October 20, 2020, 3:00-4:00 pm EST: Join [here](https://hhs.webex.com/webappng/sites/hhs/meeting/download/22a677a66439487b97ab79cc41fd31dc?siteurl=hhs&MTID=m25ea2ba80921142e8839554ef2e04ba1)
+
   * Phase 1 submissions are due by November 16, 2020, 11:59 pm EST.
 
   * Judging for Phase 1 will occur from November 17, 2020 through December 1, 2020.
@@ -360,6 +362,7 @@ The competition has three phases. All eligible submissions will be evaluated, an
 **Phase 1:** Identification of successful programs
 
 * Open September 30, 2020 through November 16, 2020.
+* Webinar: October 20, 2020, 3:00-4:00 pm EST: Join [here](https://hhs.webex.com/webappng/sites/hhs/meeting/download/22a677a66439487b97ab79cc41fd31dc?siteurl=hhs&MTID=m25ea2ba80921142e8839554ef2e04ba1)
 * Phase 1 submissions are due by November 16, 2020, 11:59 pm EST.
 * Judging for Phase 1 will occur from November 17, 2020 through December 1, 2020.
 * Finalists that move into Phase 2 will be awarded by December 2, 2020.
