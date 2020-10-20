@@ -4,7 +4,7 @@ challenge-title: Lab-to-Market Inclusive Innovation Ecosystem Prize Competition
 layout: front-matter-data-markdownify-content
 permalink: /challenge/l2m-prize-competition/
 challenge-id: "1165"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/l2mecosystemprize-banner_341x160.png
 agency-logo: /assets/netlify-uploads/SBA_logo.jpg
@@ -23,8 +23,8 @@ total-prize-offered-cash: $325,000
 type-of-challenge:
   - Ideas
   - Nominations
-submission-start: 2020/09/30 12:00 PM
-submission-end: 2020/10/14 6:00 PM
+submission-start: 09/30/2020 12:00 PM
+submission-end: 10/14/2020 6:00 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Brittany Sickler
