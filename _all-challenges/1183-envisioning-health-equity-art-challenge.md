@@ -8,8 +8,8 @@ status: open
 sidenav: false
 card-image: /assets/netlify-uploads/art_chall-graphic-with-wide-deminsions.png
 agency-logo: /assets/netlify-uploads/NIH_Master_Logo_Vertical_2Color.jpg
-tagline: A competition for teens and adults to share original artwork that
-  reflects an America where health disparities are a thing of the past
+tagline: A competition to share original artwork that reflects an America where
+  health disparities is a thing of the past
 agency: National Institutes of Health - National Institute on Minority Health
   and Health Disparities
 external-url: https://nimhd.nih.gov/programs/edu-training/art-challenge/
