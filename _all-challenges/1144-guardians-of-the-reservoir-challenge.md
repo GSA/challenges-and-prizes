@@ -4,7 +4,7 @@ challenge-title: Guardians of the Reservoir Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/guardians-of-the-reservoir-challenge/
 challenge-id: "1144"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/guardians_340-image-w-logos.png
 agency-logo: /assets/netlify-uploads/usbr.jpg
@@ -17,8 +17,8 @@ external-url: ""
 total-prize-offered-cash: $550,000
 type-of-challenge:
   - Technology demonstration and hardware
-submission-start: 2020/07/14 12:00 PM
-submission-end: 2020/10/20 5:00 PM
+submission-start: 07/14/2020 12:00 PM
+submission-end: 10/20/2020 5:00 PM
 fiscal-year: FY20, FY21, FY22
 legal-authority: Procurement Authority
 challenge-manager: Jennnifer Beardsley
