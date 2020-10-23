@@ -239,7 +239,7 @@ how-to-enter: >-
   Each Tool submitted for this Challenge requires a complete “Tool Submission Package.” The Team Captain identified through the Registration Process should submit the Tool Submission Package on behalf of the team and will serve as a point of contact. Only complete and correctly formatted Tool Submission Packages will be reviewed. Detailed instructions on the content of the Tool Submission Package are listed below. 
 
 
-  ***Submit the Tool Submission Package to [SCDChallenge@nhlbi.nih.gov ](SCDChallenge@nhlbi.nih.gov)by 11:59 PM EST, March 26, 2021.*** The Team Captain will receive notification by email that the Team’s Tool submission Package has been received.
+  ***Submit the Tool Submission Package to [SCDChallenge@nhlbi.nih.gov](mailto:SCDChallenge@nhlbi.nih.gov) by 11:59 PM EST, March 26, 2021.*** The Team Captain will receive notification by email that the Team’s Tool submission Package has been received.
 
 
   Each Student Team will submit a creative and innovative Tool using any combination of media that is designed to increase public awareness of SCD. Examples of include, but are not limited to, a video (documentaries, testimonials, etc.), a software application, a game (board, computer, interactive, etc.), a website, a book (children’s books, k-12 learning tools, etc.), a marketing campaign, a social media campaign, music or a song, a grassroots campaign, or an exhibit. All original materials must be written or composed in English. A complete Tool Submission Package is defined as including the following:
@@ -407,13 +407,13 @@ Teams must register to participate in the [NHLBI Hope for Sickle Cell Disease Ch
 * Name and school affiliation of every team member 
 * Name, school affiliation, and position of the team mentor(s)
 
-*Emails registering teams must be submitted to [SCDChallenge@nhlbi.nih.gov](SCDChallenge@nhlbi.nih.gov) by 11:59 PM EST, February 26, 2021.*
+*Emails registering teams must be submitted to [SCDChallenge@nhlbi.nih.gov](mailto:SCDChallenge@nhlbi.nih.gov) by 11:59 PM EST, February 26, 2021.*
 
 #### Tool Submission Requirements
 
 Each Tool submitted for this Challenge requires a complete “Tool Submission Package.” The Team Captain identified through the Registration Process should submit the Tool Submission Package on behalf of the team and will serve as a point of contact. Only complete and correctly formatted Tool Submission Packages will be reviewed. Detailed instructions on the content of the Tool Submission Package are listed below. 
 
-***Submit the Tool Submission Package to [SCDChallenge@nhlbi.nih.gov](SCDChallenge@nhlbi.nih.gov) by 11:59 PM EST, March 26, 2021.*** The Team Captain will receive notification by email that the Team’s Tool submission Package has been received.
+***Submit the Tool Submission Package to [SCDChallenge@nhlbi.nih.gov](mailto:SCDChallenge@nhlbi.nih.gov) by 11:59 PM EST, March 26, 2021.*** The Team Captain will receive notification by email that the Team’s Tool submission Package has been received.
 
 Each Student Team will submit a creative and innovative Tool using any combination of media that is designed to increase public awareness of SCD. Examples of include, but are not limited to, a video (documentaries, testimonials, etc.), a software application, a game (board, computer, interactive, etc.), a website, a book (children’s books, k-12 learning tools, etc.), a marketing campaign, a social media campaign, music or a song, a grassroots campaign, or an exhibit. All original materials must be written or composed in English. A complete Tool Submission Package is defined as including the following:
 
