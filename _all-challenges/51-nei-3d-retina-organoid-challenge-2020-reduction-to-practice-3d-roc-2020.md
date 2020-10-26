@@ -3,7 +3,7 @@ challenge-title: NEI 3-D Retina Organoid Challenge 2020 Reduction to Practice (3
 layout: front-matter-data-markdownify-content
 permalink: /challenge/nei-3d-retina-organoid-challenge-2020-reduction-to-practice-3d-roc-2020/
 challenge-id: 51
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/3-D-ROC-NEI-logo4.jpg
 agency-logo: /assets/netlify-uploads/NIH_Master_Logo_Vertical_2Color.jpg
@@ -14,8 +14,8 @@ partners-non-federal: null
 external-url: null
 total-prize-offered-cash: $1,000,000
 type-of-challenge: Scientific
-submission-start: 2018/09/04 02:00 PM
-submission-end: 2020/10/01 02:00 PM
+submission-start: 09/04/2018 02:00 PM
+submission-end: 10/01/2020 02:00 PM
 fiscal-year: FY19, FY20
 legal-authority: America COMPETES Act
 challenge-manager: Stephen Becker
