@@ -19,7 +19,7 @@ total-prize-offered-cash: $3,500
 type-of-challenge:
   - Ideas
 submission-start: 2020/10/01 08:00 AM
-submission-end: 2020/10/31 11:59 PM
+submission-end: 2020/11/04 11:59 PM
 fiscal-year: FY20,FY21
 legal-authority: America COMPETES Act
 challenge-manager: Samantha White
@@ -66,7 +66,6 @@ description: >-
     * What are the conflicts of interest that should be considered if commercializing brain technologies, particularly for alternate uses? 
 
 
-
   Submissions to this challenge are essays and/or videos, submitted via the BRAIN Initiative Challenge campaign of [https://ninds.ideascalegov.com](https://ninds.ideascalegov.com/), that include creative ideas to start a conversation about a neuroethical topic using:
 
 
@@ -100,7 +99,7 @@ description: >-
 
   * Challenge Launch: Sept 15, 2020
 
-  * Submission Start/End: Oct 1, 2020-Oct 31, 2020
+  * Submission Start/End: Oct 1, 2020-Nov 4, 2020
 
   * Judging Start/End: Nov 2020-Feb 2021
 
@@ -353,7 +352,7 @@ The National Institutes of Health is the largest funder of biomedical research i
 **Dates** 
 
 * Challenge Launch: Sept 15, 2020
-* Submission Start/End: Oct 1, 2020-Oct 31, 2020
+* Submission Start/End: Oct 1, 2020-Nov 4, 2020
 * Judging Start/End: Nov 2020-Feb 2021
 * Winner Announced: March 2021
 
