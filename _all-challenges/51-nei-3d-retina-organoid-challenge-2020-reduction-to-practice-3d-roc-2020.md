@@ -3,7 +3,7 @@ challenge-title: NEI 3-D Retina Organoid Challenge 2020 Reduction to Practice (3
 layout: front-matter-data-markdownify-content
 permalink: /challenge/nei-3d-retina-organoid-challenge-2020-reduction-to-practice-3d-roc-2020/
 challenge-id: 51
-status: closed
+status: open
 sidenav: true
 card-image: /assets/images/cards/3-D-ROC-NEI-logo4.jpg
 agency-logo: /assets/netlify-uploads/NIH_Master_Logo_Vertical_2Color.jpg
