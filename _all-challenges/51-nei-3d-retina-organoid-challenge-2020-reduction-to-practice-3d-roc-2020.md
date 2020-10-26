@@ -14,8 +14,8 @@ partners-non-federal: null
 external-url: null
 total-prize-offered-cash: $1,000,000
 type-of-challenge: Scientific
-submission-start: 09/04/2018 02:00 PM
-submission-end: 10/01/2020 02:00 PM
+submission-start: 2018/09/04 02:00 PM
+submission-end: 2020/10/01 02:00 PM
 fiscal-year: FY19, FY20
 legal-authority: America COMPETES Act
 challenge-manager: Stephen Becker
