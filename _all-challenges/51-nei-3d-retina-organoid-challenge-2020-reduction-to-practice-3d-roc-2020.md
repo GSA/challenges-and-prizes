@@ -15,7 +15,7 @@ external-url: null
 total-prize-offered-cash: $1,000,000
 type-of-challenge: Scientific
 submission-start: 09/04/2018 02:00 PM
-submission-end: 10/02/2020 02:00 PM
+submission-end: 10/01/2020 02:00 PM
 fiscal-year: FY19, FY20
 legal-authority: America COMPETES Act
 challenge-manager: Stephen Becker
@@ -28,7 +28,7 @@ description: <div class="description"> <p>The National Eye Institute (NEI), part
   the human retina.</p> <p><strong>Solvers will have 2 opportunities to submit
   solutions and win prizes. </strong></p> <ul> <li>Phase 1
   deadline:<strong>&nbsp;October 1, 2018 at 2:00 pm ET</strong></li> <li>Phase 2
-  deadline:<strong>October 2, 2020 at 2:00 pm ET</strong></li> </ul>
+  deadline:<strong>October 1, 2020 at 2:00 pm ET</strong></li> </ul>
   <p>Evaluation criteria are the same for both phases; at each deadline, teams
   can submit a solution that includes data supporting the scientific evaluation
   criteria they have accomplished to date. Full description, rules, and details
@@ -42,7 +42,7 @@ description: <div class="description"> <p>The National Eye Institute (NEI), part
   cell types (rod and cone photoreceptors, horizontal, bipolar, amacrine, and
   ganglion cells and Muller glia) with appropriate lamination and synaptic
   organization, and represents their biological functions and interplay.
-  Components (neurons, retinal pigment epithelium [RPE], glia) may be produced
+  Components (neurons, retinal pigment epithelium \[RPE], glia) may be produced
   separately or dissociated and recombined (1) if protocol is driven by a
   valuable biological question and (2) if in the process of re-assembly,
   specific functions/roles of cell types are delineated. Three-dimensional
@@ -88,7 +88,7 @@ rules: <div class="rules"> <p>All details related to rules and eligibility are
   must be a U.S. citizen or permanent resident</li> <li>Must use NEI's <a
   href="https://www.nei.nih.gov/about/goals-and-accomplishments/nei-research-initiatives/3-d-retina-organoid-challenge-3-d-roc/3-d-roc-2020-reduction-practice-challenge#section-id-2115">application
   template</a> to format submissions</li> <li>Must submit solutions by 2:00 PM
-  Eastern time on October 2, 2020</li> </ul> <p><strong>To win
+  Eastern time on October 1, 2020</li> </ul> <p><strong>To win
   prizes:&nbsp;</strong></p> <ul type="disc"> <li>Must be a US citizen or
   permanent resident</li> <li>Agree to the eligibility rules and requirements
   listed on NEI&rsquo;s challenge details page</li> <li>Register and submit
@@ -192,20 +192,20 @@ how-to-enter: <div class="howtoenter"> <p>Submissions for this challenge are
 submission-link: null
 ---
 <!-- Description start -->
-### Description
 
+### Description
 
 <div class="description">
 <p>The National Eye Institute (NEI), part of the National Institutes of Health, is seeking in vitro, stem-cell derived 3-D human retina organoids. The goal of the challenge is to generate concrete prototypes of 3-D systems that model the cellular organization and function of the human retina.</p> 
 <p><strong>Solvers will have 2 opportunities to submit solutions and win prizes. </strong></p> 
 <ul> 
 <li>Phase 1 deadline:<strong>&nbsp;October 1, 2018 at 2:00 pm ET</strong></li> 
-<li>Phase 2 deadline: <strong>October 2, 2020 at 2:00 pm ET</strong></li> 
+<li>Phase 2 deadline: <strong>October 1, 2020 at 2:00 pm ET</strong></li> 
 </ul> 
 <p>Evaluation criteria are the same for both phases; at each deadline, teams can submit a solution that includes data supporting the scientific evaluation criteria they have accomplished to date. Full description, rules, and details of this prize competition are defined on <strong><a href="https://www.nei.nih.gov/about/goals-and-accomplishments/nei-research-initiatives/3-d-retina-organoid-challenge-3-d-roc/3-d-roc-2020-reduction-practice-challenge">NEI&rsquo;s challenge details</a></strong> page.</p> 
 <p>NEI is seeking innovative solutions that achieve significant advances over currently available retina organoids. Solutions must show publication-quality data demonstrating:</p> 
 <ul> 
-<li>A 3-D human retina organoid system that mimics the physiological and morphological features of the in vivo biology, consists of the major retina cell types (rod and cone photoreceptors, horizontal, bipolar, amacrine, and ganglion cells and Muller glia) with appropriate lamination and synaptic organization, and represents their biological functions and interplay. Components (neurons, retinal pigment epithelium [RPE], glia) may be produced separately or dissociated and recombined (1) if protocol is driven by a valuable biological question and (2) if in the process of re-assembly, specific functions/roles of cell types are delineated. Three-dimensional assembly may be achieved using various approaches, for example through self-organization that recapitulates natural development (&ldquo;true organoid&rdquo;) or through bioengineering with scaffolds, bioprinting, and/or microfluidic apparatuses.</li> 
+<li>A 3-D human retina organoid system that mimics the physiological and morphological features of the in vivo biology, consists of the major retina cell types (rod and cone photoreceptors, horizontal, bipolar, amacrine, and ganglion cells and Muller glia) with appropriate lamination and synaptic organization, and represents their biological functions and interplay. Components (neurons, retinal pigment epithelium \[RPE], glia) may be produced separately or dissociated and recombined (1) if protocol is driven by a valuable biological question and (2) if in the process of re-assembly, specific functions/roles of cell types are delineated. Three-dimensional assembly may be achieved using various approaches, for example through self-organization that recapitulates natural development (&ldquo;true organoid&rdquo;) or through bioengineering with scaffolds, bioprinting, and/or microfluidic apparatuses.</li> 
 <li>Retina organoids that are generated entirely from human cells (e.g. derived from iPSCs, hESCs, multipotent cells, or adult cells subjected to a combination of transdifferentiation/reprogramming methods).</li> 
 <li>Modeling and treating retinal disease, or testing and developing drug (i.e., high content screening) therapies.</li> 
 <li>Find detailed evaluation criteria <a href="https://www.nei.nih.gov/about/goals-and-accomplishments/nei-research-initiatives/3-d-retina-organoid-challenge-3-d-roc/3-d-roc-2020-reduction-practice-challenge">here</a>&nbsp;under "Evaluation and Winner Selection"</li> 
@@ -218,10 +218,9 @@ submission-link: null
 </ul>
 </div>
 
-
 <!-- Prizes start -->
-### Prizes
 
+### Prizes
 
 <div class="prize-item">
 <h4 class="text-primary">NEI 3-D ROC 2020 - winners phase 1</h4>
@@ -237,8 +236,8 @@ submission-link: null
 </div>
 
 <!-- Rules start -->
-### Rules 
 
+### Rules
 
 <div class="rules">
 <p>All details related to rules and eligibility are defined on <a href=" https://www.nei.nih.gov/about/goals-and-accomplishments/nei-research-initiatives/3-d-retina-organoid-challenge-3-d-roc/3-d-roc-2020-reduction-practice-challenge">NEI&rsquo;s challenge details</a> page. Only complete applications will be reviewed.</p>
@@ -249,7 +248,7 @@ submission-link: null
 <li>May participate individually or as part of one or more teams</li>
 <li>Each team&rsquo;s designated captain must be a U.S. citizen or permanent resident</li>
 <li>Must use NEI's <a href="https://www.nei.nih.gov/about/goals-and-accomplishments/nei-research-initiatives/3-d-retina-organoid-challenge-3-d-roc/3-d-roc-2020-reduction-practice-challenge#section-id-2115">application template</a> to format submissions</li>
-<li>Must submit solutions by 2:00 PM Eastern time on October 2, 2020</li>
+<li>Must submit solutions by 2:00 PM Eastern time on October 1, 2020</li>
 </ul>
 <p><strong>To win prizes: </strong></p>
 <ul type="disc">
@@ -259,10 +258,9 @@ submission-link: null
 </ul>
 </div>
 
-
 <!-- Judging start -->
-### Judging Criteria
 
+### Judging Criteria
 
 <div class="judging-criterias">
 <div class="prize-item">
@@ -298,8 +296,8 @@ BIOLOGY/DISEASE MODELING (note: NEI is agnostic to which disease is chosen, as l
 </div>  
 
 <!--  How To Enter start -->
-### How To Enter
 
+### How To Enter
 
 <div class="howtoenter">
 <p>Submissions for this challenge are being accepted via email at <a href="mailto:NEI3dROC@mail.nih.gov" target="_blank" rel="noopener">NEI3dROC@mail.nih.gov</a>.</p>
