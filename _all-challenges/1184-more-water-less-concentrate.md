@@ -15,8 +15,8 @@ external-url: http://www.morewaterlessconcentrate.org/
 type-of-challenge:
   - Ideas
   - Technology demonstration and hardware
-submission-start: 2020/10/28 9:00 AM
-submission-end: 2021/03/03 11:59 PM
+submission-start: 2020/10/28 11:00 AM
+submission-end: 2021/03/03 7:00 PM
 fiscal-year: FY20, FY21, FY22
 legal-authority: Procurement Authority
 challenge-manager: Jennifer Beardsley
