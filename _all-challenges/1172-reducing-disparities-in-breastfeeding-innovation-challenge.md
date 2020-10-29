@@ -75,7 +75,13 @@ description: >-
 
   * Open September 30, 2020 through November 16, 2020.
 
-  * Webinar: October 21, 2020, 3:00-4:00 pm EST.  Join [here](https://hhs.webex.com/webappng/sites/hhs/meeting/download/2698dc71bfc542f9b7f17065f0a0f12b?siteurl=hhs&MTID=me79378201fd0aea99da1f300931e47fe).
+  * Webinar: Wednesday, October 21, 2020, 3:00-4:00 pm EST.  Join [here](https://hhs.webex.com/webappng/sites/hhs/meeting/download/2698dc71bfc542f9b7f17065f0a0f12b?siteurl=hhs&MTID=me79378201fd0aea99da1f300931e47fe).
+
+  * Webinar: Friday, October 30, 2020, 2:00-3:00 pm EST.  Join [here](https://hhs.webex.com/hhs/j.php?MTID=m4cbd3cf1082be85fa392fd79c30037c7).
+
+  * Webinar: Friday, November 6, 2020, 3:00-4:00 pm EST.  Join [here](https://hhs.webex.com/hhs/j.php?MTID=ma1048cff458b77685bff37ef6b7db916).
+
+  * Phase 1 submissions are due by November 16, 2020, 11:59 pm EST.
 
   * Phase 1 submissions are due by November 16, 2020, 11:59 pm EST.
 
@@ -370,7 +376,9 @@ The competition has three phases. All eligible submissions will be evaluated, an
 **Phase 1: Identification of successful programs**
 
 * Open September 30, 2020 through November 16, 2020.
-* Webinar: October 21, 2020, 3:00-4:00 pm EST.  Join [here](https://hhs.webex.com/webappng/sites/hhs/meeting/download/2698dc71bfc542f9b7f17065f0a0f12b?siteurl=hhs&MTID=me79378201fd0aea99da1f300931e47fe).
+* Webinar: Wednesday, October 21, 2020, 3:00-4:00 pm EST.  Join [here](https://hhs.webex.com/webappng/sites/hhs/meeting/download/2698dc71bfc542f9b7f17065f0a0f12b?siteurl=hhs&MTID=me79378201fd0aea99da1f300931e47fe).
+* Webinar: Friday, October 30, 2020, 2:00-3:00 pm EST.  Join [here](https://hhs.webex.com/hhs/j.php?MTID=m4cbd3cf1082be85fa392fd79c30037c7).
+* Webinar: Friday, November 6, 2020, 3:00-4:00 pm EST.  Join [here](https://hhs.webex.com/hhs/j.php?MTID=ma1048cff458b77685bff37ef6b7db916).
 * Phase 1 submissions are due by November 16, 2020, 11:59 pm EST.
 * Judging for Phase 1 will occur from November 17, 2020 through December 1, 2020.
 * Finalists that move into Phase 2 will be awarded by December 2, 2020.
