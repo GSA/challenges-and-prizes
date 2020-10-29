@@ -11,7 +11,7 @@ agency-logo: /assets/netlify-uploads/717px-NASA_logo.png
 tagline: Landing on the Moon with all that we need is just the beginning. Now we
   have to unload it.
 agency: NASA
-external-url: www.herox.com/LunarDelivery
+external-url: https://www.herox.com/LunarDelivery
 type-of-challenge:
   - Ideas
 submission-start: 2020/10/29 8:00 AM
