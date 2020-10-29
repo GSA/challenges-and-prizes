@@ -74,9 +74,7 @@ description: >-
 
   * Webinar: Tuesday, October 20, 2020, 3:00-4:00 pm EST: Join [here](https://hhs.webex.com/webappng/sites/hhs/meeting/download/22a677a66439487b97ab79cc41fd31dc?siteurl=hhs&MTID=m25ea2ba80921142e8839554ef2e04ba1)
 
-  * Webinar: Friday 30, 2020, 3:00-4:00 pm EST: Join [here]
-
-  (https://hhs.webex.com/hhs/j.php?MTID=mdcbbe1de5a9dab33e9828d1551b846e4)
+  * Webinar: Friday 30, 2020, 3:00-4:00 pm EST: Join [here](https://hhs.webex.com/hhs/j.php?MTID=mdcbbe1de5a9dab33e9828d1551b846e4)
 
   * Webinar: Friday, November 6, 2020, 3:00-4:00 pm EST: Join [here](https://hhs.webex.com/hhs/j.php?MTID=m01fa90a958b91e9c021a8688ee9fd9e2)
 
@@ -369,8 +367,7 @@ The competition has three phases. All eligible submissions will be evaluated, an
 
 * Open September 30, 2020 through November 16, 2020.
 * Webinar: Tuesday, October 20, 2020, 3:00-4:00 pm EST: Join [here](https://hhs.webex.com/webappng/sites/hhs/meeting/download/22a677a66439487b97ab79cc41fd31dc?siteurl=hhs&MTID=m25ea2ba80921142e8839554ef2e04ba1)
-* Webinar: Friday 30, 2020, 3:00-4:00 pm EST: Join [here]
-(https://hhs.webex.com/hhs/j.php?MTID=mdcbbe1de5a9dab33e9828d1551b846e4)
+* Webinar: Friday 30, 2020, 3:00-4:00 pm EST: Join [here](https://hhs.webex.com/hhs/j.php?MTID=mdcbbe1de5a9dab33e9828d1551b846e4)
 * Webinar: Friday, November 6, 2020, 3:00-4:00 pm EST: Join [here](https://hhs.webex.com/hhs/j.php?MTID=m01fa90a958b91e9c021a8688ee9fd9e2)
 * Phase 1 submissions are due by November 16, 2020, 11:59 pm EST.
 * Judging for Phase 1 will occur from November 17, 2020 through December 1, 2020.
