@@ -234,14 +234,12 @@ Ideas submitted to this challenge that have previously been published or that ha
 Judges will evaluate and score eligible submissions using four judging criteria:
 
 1. Practicality in terms of being able to implement the proposed solutions (15 points) 
-
    1. Participants should consider the ability of federal agencies and fund recipients to implement the incentives.
    2. Participants should consider realistic cost vs. benefit of proposed incentives. 
    3. Participants should consider the applicable laws and regulations.
 2. Likelihood of increasing compliance with meeting Bayh-Dole reporting requirements (15 points): Participants should explicitly address how the incentive(s) will greatly increase compliance. 
 3. Relevance of success metrics in terms of how the increase in compliance would be measured by the proposed solution, including cost-benefit (15 points). 
 4. Creativity of the proposed solution (5 points) 
-
    1. Participants may consider the creation of videos, posters, design concepts, and other creative products. Submissions should be professional, high-quality products.
    2. All submissions’ written reports should consider the novelty of the ideas proposed in their submissions.
 
