@@ -11,7 +11,7 @@ agency-logo: /assets/netlify-uploads/NIST_logo.png
 tagline: Do YOU have the best idea to help organizations receiving federal R&D
   grants and contracts comply with Bayh-Dole reporting requirements?
 agency: National Institute of Standards and Technology
-external-url: https://www.nist.gov/tpo/peer
+external-url: ""
 total-prize-offered-cash: $10,000
 type-of-challenge:
   - Creative (multimedia & design)
