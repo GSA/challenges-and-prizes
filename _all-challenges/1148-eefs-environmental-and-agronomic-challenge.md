@@ -4,7 +4,7 @@ challenge-title: "EEFs: Environmental and Agronomic Challenge"
 layout: front-matter-data-markdownify-content
 permalink: /challenge/eefs-environmental-agronomic-challenge/
 challenge-id: "1148"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/next-gen-fertilizer-challenges_341x160-1-.png
 agency-logo: /assets/netlify-uploads/epa_usda_logos_v2.jpg
@@ -19,8 +19,8 @@ partners-non-federal: The Fertilizer Institute, International Fertilizer
 type-of-challenge:
   - Ideas
   - Scientific
-submission-start: 2020/08/26 09:00 AM
-submission-end: 2020/10/30 11:59 PM
+submission-start: 08/26/2020 09:00 AM
+submission-end: 10/30/2020 11:59 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Christopher Clark
