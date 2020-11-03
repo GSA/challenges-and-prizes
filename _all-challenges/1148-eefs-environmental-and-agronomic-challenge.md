@@ -65,7 +65,7 @@ description: >-
 
   * [Informational Webinar](https://next_gen_fertilizer_challenges.eventbrite.com/):  10:00 AM ET September 24, 2020  
 
-  * Submission End: 11:59 PM ET October 30, 2020 
+  * Submission End: 11:59 PM ET October 30, 2020 (**Submission deadline passed - no more submissions being accepted**) 
 
   * Winners announced: Winter 2020/2021 (date and time to be determined)
 
@@ -272,7 +272,7 @@ EEF Environmental and Agronomic Challenge Dates:
 
 * Challenge Launch: 9:00 AM ET August 26, 2020
 * [Informational Webinar](https://next_gen_fertilizer_challenges.eventbrite.com/):  10:00 AM ET September 24, 2020  
-* Submission End: 11:59 PM ET October 30, 2020 
+* Submission End: 11:59 PM ET October 30, 2020 (**Submission deadline passed - no more submissions being accepted**)
 * Winners announced: Winter 2020/2021 (date and time to be determined)
 
 For more information please visit EPA's page for the [Next Gen Fertilizer Challenges](https://www.epa.gov/innovation/next-gen-fertilizer-challenges), including [Frequently Asked Questions](https://www.epa.gov/innovation/next-gen-fertilizer-challenges#FAQs).
