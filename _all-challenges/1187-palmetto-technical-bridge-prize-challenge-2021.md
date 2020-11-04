@@ -8,11 +8,8 @@ status: open
 sidenav: true
 card-image: /assets/netlify-uploads/palmetto-tech-bridge-logo_100-px.jpg
 agency-logo: /assets/netlify-uploads/niwc-lant-logo-1-black-letters_300dpi.png
-tagline: Naval Information Warfare Atlantic Palmetto Tech Bridge challenge
-  seeking innovative technology concepts for Robotic Process Automation (RPA),
-  as well as, Precision Navigation and Timing (PNT) for oral
-  presentation/demonstration at the Charleston Defense Contractor Association
-  Summit on the 3rd of March 2021 in Charleston, SC.
+tagline: Seeking innovative technology concepts for Robotic Process Automation
+  (RPA), as well as, Precision Navigation and Timing (PNT).
 agency: Naval Information Warfare Center (NIWC), Atlantic
 type-of-challenge:
   - Software and apps
