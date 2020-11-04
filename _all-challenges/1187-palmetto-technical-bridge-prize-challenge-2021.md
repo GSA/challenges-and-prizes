@@ -448,7 +448,7 @@ If any provision of this Challenge is held to be invalid or unenforceable under 
 * Except where prohibited, participation in the challenge constitutes the consent of each winner to the government’s and its agents’ use of each winner’s name, likeness, photograph, voice, opinions, public summary, and/or hometown and state information for promotional purposes through any form of media, worldwide, without further permission, payment, or consideration.
 * Finally, the government will continue to communicate the resulting winner’s solution only if it continues to deliver mutual benefit to the government in achieving its mission to provide relevant services. In order to measure this and continue to improve programs and services, the Solver or Solver team must share platform use data with the government.
 
-### Judging
+### Judging Criteria
 
 **Judging Panel**
 
