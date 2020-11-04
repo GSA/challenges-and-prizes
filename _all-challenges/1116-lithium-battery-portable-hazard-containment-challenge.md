@@ -53,8 +53,6 @@ description: >-
   5. Zarges Inc.
 
 
-
-
   Earlier, fourteen (14) participants were invited to provide a virtual presentation of their submitted white paper concept to the Lithium Battery Man Portable Hazard Containment Prize Challenge judging panel. Invited participant names are listed below in alphabetical order:
 
 
@@ -228,7 +226,7 @@ description: >-
   Phase III Technology Development Prototype
 
 
-  * Technology Development Prototype submission – 56 Calendar Days
+  * Technology Development Prototype submission – 84 Calendar Days (Extended by 28 Calendar Days on November 2, 2020)
 
   * Evaluation by Judges – 7 Calendar Days
 
@@ -743,7 +741,7 @@ Phase II Detailed Design and Proof-of-Concept (POC)
 
 Phase III Technology Development Prototype
 
-* Technology Development Prototype submission – 56 Calendar Days
+* Technology Development Prototype submission – 84 Calendar Days (Extended by 28 Calendar Days on November 2, 2020)
 * Evaluation by Judges – 7 Calendar Days
 * Prize pool of $450,000 disbursed to winner(s) – 14 Calendar Days
 
