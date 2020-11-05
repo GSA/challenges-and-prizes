@@ -628,7 +628,7 @@ how-to-enter: >-
 
 1. Fire Containment Concepts
 2. Mistral, Inc.
-3. Zarges, Inc.
+3. Zarges, Inc. 
 
 Five (5) participants were selected to participate in Phase II of the Lithium Battery Man Portable Hazard Containment Prize Challenge. Participant names are listed below in alphabetical order:
 
