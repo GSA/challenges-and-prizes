@@ -279,7 +279,7 @@ how-to-enter: >-
   **Stage 1 Concept Submission**: 
 
 
-  Submissions to Stage 1 of the challenge will be accepted from 06 November 2020 at 10:00 a.m. ET through 06 December 2020 at 11:00 p.m. ET. Entries received before and after the time slot will not be accepted.  The identified official representative (individual, team, or legal entity) may register for this challenge by sending an e-mail to [ptbsubmissions.fct@navy.mil](mailto:ptbsubmissions.fct@navy.mil) with the subject line stating “Palmetto Tech Bridge Prize Challenge 21: <INSERT TOPIC NAME>”.  Please provide a separate e-mail if submitting against more than one topic.
+  Submissions to Stage 1 of the challenge will be accepted from 06 November 2020 at 10:00 a.m. ET through 06 December 2020 at 11:00 p.m. ET. Entries received before and after the time slot will not be accepted.  The identified official representative (individual, team, or legal entity) may register for this challenge by sending an e-mail to [ptbsubmissions.fct@navy.mil](mailto:ptbsubmissions.fct@navy.mil) with the subject line stating “Palmetto Tech Bridge Prize Challenge 21: \[INSERT TOPIC NAME]”.  Please provide a separate e-mail if submitting against more than one topic.
 
   There shall be only one official participant representative for each topic submission. The official participant representative must provide a name and e-mail address and, by sending in the registration, and affirms on behalf of the solver (individual, team, or legal entity), that he or she has read and consents to be governed by the challenge rules.
 
@@ -299,7 +299,7 @@ how-to-enter: >-
   Prior to the closing date, e-mail the white paper to [ptbsubmissions.fct@navy.mil](mailto:ptbsubmissions.fct@navy.mil)
 
 
-  * The e-mail subject line must state “Palmetto Tech Bridge Prize Challenge 21: <INSERT TOPIC NAME>.”
+  * The e-mail subject line must state “Palmetto Tech Bridge Prize Challenge 21: \[INSERT TOPIC NAME].”
 
   * E-mail must come from the official representative for the team.
 
@@ -320,7 +320,7 @@ how-to-enter: >-
   Questions regarding the Palmetto Tech Bridge Prize Challenge 2021 can be directed to [ptbsubmissions.fct@navy.mil.](mailto:ptbsubmissions.fct@navy.mil)
 
 
-  **Submission Email:** [ptbsubmissions.fct@navy.mil](mailto:ptbsubmissions.fct@navy.mil.) with the subject line stating “Palmetto Tech Bridge Prize Challenge 21: <INSERT TOPIC NAME>”.
+  **Submission Email:** [ptbsubmissions.fct@navy.mil](mailto:ptbsubmissions.fct@navy.mil.) with the subject line stating “Palmetto Tech Bridge Prize Challenge 21: \[INSERT TOPIC NAME]”.
 ---
 ### Description
 
@@ -496,7 +496,7 @@ Each submission will be judged based on the following criteria with each judge p
 
 **Stage 1 Concept Submission**: 
 
-Submissions to Stage 1 of the challenge will be accepted from 06 November 2020 at 10:00 a.m. ET through 06 December 2020 at 11:00 p.m. ET. Entries received before and after the time slot will not be accepted.  The identified official representative (individual, team, or legal entity) may register for this challenge by sending an e-mail to [ptbsubmissions.fct@navy.mil](mailto:ptbsubmissions.fct@navy.mil) with the subject line stating “Palmetto Tech Bridge Prize Challenge 21: <INSERT TOPIC NAME>”.  Please provide a separate e-mail if submitting against more than one topic.
+Submissions to Stage 1 of the challenge will be accepted from 06 November 2020 at 10:00 a.m. ET through 06 December 2020 at 11:00 p.m. ET. Entries received before and after the time slot will not be accepted.  The identified official representative (individual, team, or legal entity) may register for this challenge by sending an e-mail to [ptbsubmissions.fct@navy.mil](mailto:ptbsubmissions.fct@navy.mil) with the subject line stating “Palmetto Tech Bridge Prize Challenge 21: \[INSERT TOPIC NAME]”.  Please provide a separate e-mail if submitting against more than one topic.
 There shall be only one official participant representative for each topic submission. The official participant representative must provide a name and e-mail address and, by sending in the registration, and affirms on behalf of the solver (individual, team, or legal entity), that he or she has read and consents to be governed by the challenge rules.
 
 **Stage 2 Invitation to Oral Presentations:** 
@@ -509,7 +509,7 @@ Any participant receiving an invitation to provide an oral presentation on the 3
 
 Prior to the closing date, e-mail the white paper to [ptbsubmissions.fct@navy.mil](mailto:ptbsubmissions.fct@navy.mil)
 
-* The e-mail subject line must state “Palmetto Tech Bridge Prize Challenge 21: <INSERT TOPIC NAME>.”
+* The e-mail subject line must state “Palmetto Tech Bridge Prize Challenge 21: \[INSERT TOPIC NAME].”
 * E-mail must come from the official representative for the team.
 * All submissions must be in English.
 * Participants must not use government logos or official seals in their submissions and must not otherwise give an appearance of federal government endorsement.
@@ -522,4 +522,4 @@ Any company receiving an invitation to provide an oral presentation on the 3rd o
 
 Questions regarding the Palmetto Tech Bridge Prize Challenge 2021 can be directed to [ptbsubmissions.fct@navy.mil.](mailto:ptbsubmissions.fct@navy.mil)
 
-**Submission Email:** [ptbsubmissions.fct@navy.mil](mailto:ptbsubmissions.fct@navy.mil.) with the subject line stating “Palmetto Tech Bridge Prize Challenge 21: <INSERT TOPIC NAME>”.
+**Submission Email:** [ptbsubmissions.fct@navy.mil](mailto:ptbsubmissions.fct@navy.mil.) with the subject line stating “Palmetto Tech Bridge Prize Challenge 21: \[INSERT TOPIC NAME]”.
