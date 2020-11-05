@@ -83,7 +83,7 @@ prizes: >-
   **Total Cash Prize Pool:** $20,000
 
 
-  NIWC Atlantic anticipates that two (2) prizes across two (2) challenge topics will be provided at one per topic each with a value of $10,000 payable to the Participant (Company, Academic Institution, or Team Lead for submission). Participants that are selected to participate in Stage II, will be invited to present an oral presentation at the Charleston Defense Contractors Association (CDCA) Summit in front of a Government judging panel.  The cost of participating in Stage II (e.g., travel, hotel, etc.) will not be reimbursed by the Government and is the sole responsibility of the Participant.    Additionally, selected participants will be provided two complimentary Summit Exhibit Hall Passes to the 2021 CDCA Defense Summit and receive a one (1) year membership to the Information Warfare Research Project (IWRP) Consortium.  Participants are encouraged to visit the CDCA website (<https://www.charlestondca.org/14th-annual-cdca-defense-summit>) for more Summit details and additional information on obtaining full Summit access.
+  NIWC Atlantic anticipates that two (2) prizes across two (2) challenge topics will be provided at one per topic each with a value of $10,000 payable to the Participant (Company, Academic Institution, or Team Lead for submission). Participants that are selected to participate in Stage 1, will be invited to present an oral presentation at the Charleston Defense Contractors Association (CDCA) Summit in front of a Government judging panel.  The cost of participating in Stage 2 (e.g., travel, hotel, etc.) will not be reimbursed by the Government and is the sole responsibility of the Participant.    Additionally, selected participants will be provided two complimentary Summit Exhibit Hall Passes to the 2021 CDCA Defense Summit and receive a one (1) year membership to the Information Warfare Research Project (IWRP) Consortium.  Participants are encouraged to visit the CDCA website (<https://www.charlestondca.org/14th-annual-cdca-defense-summit>) for more Summit details and additional information on obtaining full Summit access.
 rules: >-
   For the purposes of this Prize Challenge, a Participant is considered a
   Company, an Academic Institution, or a Team.  Each Participant is only
@@ -92,7 +92,7 @@ rules: >-
   Participant authorizes their entity’s name to be released to the media.
 
 
-  **Phase 1 Submission Requirements:**
+  **Stage 1 Submission Requirements:**
 
 
   Submissions should be in the form of a White Paper.  White papers should provide an overview of the proposed technology and technical approach (e.g., architecture, deployment overview, algorithm description, model description, performance requirements, endpoint footprint, existing results, etc.), the benefits and novelty of the approach within the context of existing academic and commercially available technologies, and the dependencies necessary to operate the proposed technology.  White papers must be submitted in Microsoft (MS) Word or Adobe Acrobat Portable Document Files (PDF), no more than 4 pages in length (inclusive of diagrams), on 8.5” x 11”, 1” Margins and no less than 10 point Arial or Times New Roman font.  Please note that if the submission is not consistent with these guidelines and deemed to be difficult to read, the submission will be disqualified with no additional consideration. In addition, only a single submission may be allowed per topic per participant.
@@ -112,7 +112,7 @@ rules: >-
 
   * There shall be one (1) official participant representative for each challenge registration. The official representative must provide a name and e-mail address and, by sending the registration, affirms on behalf of the solver (individual, team, or legal entity), that he or she has read and consents to be governed by the challenge rules.
 
-  * There shall be no more than two (2) participants per team if selected to present a Stage II Oral presentation.
+  * There shall be no more than two (2) participants per team if selected to present a Stage 2 Oral presentation.
 
   * At the time of registration, all Participants including the official representative (whether an individual, team, or legal entity) must be age 18 or older.
 
@@ -279,7 +279,7 @@ how-to-enter: >-
   **Stage 1 Concept Submission**: 
 
 
-  Submissions to Phase 1 of the challenge will be accepted from 06 November 2020 at 10:00 a.m. ET through 06 December 2020 at 11:00 p.m. ET. Entries received before and after the time slot will not be accepted.  The identified official representative (individual, team, or legal entity) may register for this challenge by sending an e-mail to [ptbsubmissions.fct@navy.mil](mailto:ptbsubmissions.fct@navy.mil) with the subject line stating “Palmetto Tech Bridge Prize Challenge 21: <INSERT TOPIC NAME>”.  Please provide a separate e-mail if submitting against more than one topic.
+  Submissions to Stage 1 of the challenge will be accepted from 06 November 2020 at 10:00 a.m. ET through 06 December 2020 at 11:00 p.m. ET. Entries received before and after the time slot will not be accepted.  The identified official representative (individual, team, or legal entity) may register for this challenge by sending an e-mail to [ptbsubmissions.fct@navy.mil](mailto:ptbsubmissions.fct@navy.mil) with the subject line stating “Palmetto Tech Bridge Prize Challenge 21: <INSERT TOPIC NAME>”.  Please provide a separate e-mail if submitting against more than one topic.
 
   There shall be only one official participant representative for each topic submission. The official participant representative must provide a name and e-mail address and, by sending in the registration, and affirms on behalf of the solver (individual, team, or legal entity), that he or she has read and consents to be governed by the challenge rules.
 
@@ -366,13 +366,13 @@ Prizes will be distributed to the eligible winners via electronic funds transfer
 
 **Total Cash Prize Pool:** $20,000
 
-NIWC Atlantic anticipates that two (2) prizes across two (2) challenge topics will be provided at one per topic each with a value of $10,000 payable to the Participant (Company, Academic Institution, or Team Lead for submission). Participants that are selected to participate in Stage II, will be invited to present an oral presentation at the Charleston Defense Contractors Association (CDCA) Summit in front of a Government judging panel.  The cost of participating in Stage II (e.g., travel, hotel, etc.) will not be reimbursed by the Government and is the sole responsibility of the Participant.    Additionally, selected participants will be provided two complimentary Summit Exhibit Hall Passes to the 2021 CDCA Defense Summit and receive a one (1) year membership to the Information Warfare Research Project (IWRP) Consortium.  Participants are encouraged to visit the CDCA website ([](https://www.charlestondca.org/14th-annual-cdca-defense-summit)<https://www.charlestondca.org/cdca-summit-14>) for more Summit details and additional information on obtaining full Summit access.  
+NIWC Atlantic anticipates that two (2) prizes across two (2) challenge topics will be provided at one per topic each with a value of $10,000 payable to the Participant (Company, Academic Institution, or Team Lead for submission). Participants that are selected to participate in Stage 2, will be invited to present an oral presentation at the Charleston Defense Contractors Association (CDCA) Summit in front of a Government judging panel.  The cost of participating in Stage 2 (e.g., travel, hotel, etc.) will not be reimbursed by the Government and is the sole responsibility of the Participant.    Additionally, selected participants will be provided two complimentary Summit Exhibit Hall Passes to the 2021 CDCA Defense Summit and receive a one (1) year membership to the Information Warfare Research Project (IWRP) Consortium.  Participants are encouraged to visit the CDCA website ([](https://www.charlestondca.org/14th-annual-cdca-defense-summit)<https://www.charlestondca.org/cdca-summit-14>) for more Summit details and additional information on obtaining full Summit access.  
 
 ### Rules
 
 For the purposes of this Prize Challenge, a Participant is considered a Company, an Academic Institution, or a Team.  Each Participant is only permitted one entry per topic. Team entries must have a lead identified as the primary point of contact and prize recipient. By submitting an entry, a Participant authorizes their entity’s name to be released to the media.
 
-**Phase 1 Submission Requirements:**
+**Stage 1 Submission Requirements:**
 
 Submissions should be in the form of a White Paper.  White papers should provide an overview of the proposed technology and technical approach (e.g., architecture, deployment overview, algorithm description, model description, performance requirements, endpoint footprint, existing results, etc.), the benefits and novelty of the approach within the context of existing academic and commercially available technologies, and the dependencies necessary to operate the proposed technology.  White papers must be submitted in Microsoft (MS) Word or Adobe Acrobat Portable Document Files (PDF), no more than 4 pages in length (inclusive of diagrams), on 8.5” x 11”, 1” Margins and no less than 10 point Arial or Times New Roman font.  Please note that if the submission is not consistent with these guidelines and deemed to be difficult to read, the submission will be disqualified with no additional consideration. In addition, only a single submission may be allowed per topic per participant.
 
@@ -385,7 +385,7 @@ Participants invited to present oral presentations at the CDCA Summit will be re
 **Eligibility to Participate:**
 
 * There shall be one (1) official participant representative for each challenge registration. The official representative must provide a name and e-mail address and, by sending the registration, affirms on behalf of the solver (individual, team, or legal entity), that he or she has read and consents to be governed by the challenge rules.
-* There shall be no more than two (2) participants per team if selected to present a Stage II Oral presentation.
+* There shall be no more than two (2) participants per team if selected to present a Stage 2 Oral presentation.
 * At the time of registration, all Participants including the official representative (whether an individual, team, or legal entity) must be age 18 or older.
 * As determined by NIWC Atlantic, any violation of these rules will be grounds for disqualification from the challenge.
 * Multiple individuals and/or legal entities may collaborate as a Participant to submit a single entry, in which case the designated Official Representative will be responsible for meeting all entry and judging panel requirements.
@@ -496,7 +496,7 @@ Each submission will be judged based on the following criteria with each judge p
 
 **Stage 1 Concept Submission**: 
 
-Submissions to Phase 1 of the challenge will be accepted from 06 November 2020 at 10:00 a.m. ET through 06 December 2020 at 11:00 p.m. ET. Entries received before and after the time slot will not be accepted.  The identified official representative (individual, team, or legal entity) may register for this challenge by sending an e-mail to [ptbsubmissions.fct@navy.mil](mailto:ptbsubmissions.fct@navy.mil) with the subject line stating “Palmetto Tech Bridge Prize Challenge 21: <INSERT TOPIC NAME>”.  Please provide a separate e-mail if submitting against more than one topic.
+Submissions to Stage 1 of the challenge will be accepted from 06 November 2020 at 10:00 a.m. ET through 06 December 2020 at 11:00 p.m. ET. Entries received before and after the time slot will not be accepted.  The identified official representative (individual, team, or legal entity) may register for this challenge by sending an e-mail to [ptbsubmissions.fct@navy.mil](mailto:ptbsubmissions.fct@navy.mil) with the subject line stating “Palmetto Tech Bridge Prize Challenge 21: <INSERT TOPIC NAME>”.  Please provide a separate e-mail if submitting against more than one topic.
 There shall be only one official participant representative for each topic submission. The official participant representative must provide a name and e-mail address and, by sending in the registration, and affirms on behalf of the solver (individual, team, or legal entity), that he or she has read and consents to be governed by the challenge rules.
 
 **Stage 2 Invitation to Oral Presentations:** 
