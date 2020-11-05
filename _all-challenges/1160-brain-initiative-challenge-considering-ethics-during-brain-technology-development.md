@@ -6,7 +6,7 @@ challenge-title: "BRAIN Initiative Challenge: Considering Ethics During Brain
 layout: front-matter-data-markdownify-content
 permalink: /challenge/brain-initiative-challenge/
 challenge-id: "1160"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/nih-brain-initiative_for-challenge.gov.png
 agency-logo: /assets/netlify-uploads/NIH_Master_Logo_Vertical_2Color.jpg
@@ -18,8 +18,8 @@ agency: Department of Health and Human Services - National Institutes of Health
 total-prize-offered-cash: $3,500
 type-of-challenge:
   - Ideas
-submission-start: 2020/10/01 08:00 AM
-submission-end: 2020/11/04 11:59 PM
+submission-start: 10/01/2020 08:00 AM
+submission-end: 11/04/2020 11:59 PM
 fiscal-year: FY20,FY21
 legal-authority: America COMPETES Act
 challenge-manager: Samantha White
@@ -64,6 +64,7 @@ description: >-
     * Should technologies be used for purposes outside of the original research and/or treatment of health conditions? Where should the limitations be drawn?
     * Should brain technologies be marketed and commercialized like other products? Who should decide what can or cannot be marketed, and by whom? 
     * What are the conflicts of interest that should be considered if commercializing brain technologies, particularly for alternate uses? 
+
 
 
   Submissions to this challenge are essays and/or videos, submitted via the BRAIN Initiative Challenge campaign of [https://ninds.ideascalegov.com](https://ninds.ideascalegov.com/), that include creative ideas to start a conversation about a neuroethical topic using:
