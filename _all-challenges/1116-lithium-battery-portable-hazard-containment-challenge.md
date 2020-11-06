@@ -4,7 +4,7 @@ challenge-title: Lithium Battery Man Portable Hazard Containment Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/lithium-battery-man-portable-containment/
 challenge-id: "1116"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/challenge-gov.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
@@ -19,8 +19,8 @@ type-of-challenge:
   - Ideas
   - Technology demonstration and hardware
   - Scientific
-submission-start: 2020/04/02 02:00 PM
-submission-end: 2020/05/07 02:00 PM
+submission-start: 04/02/2020 02:00 PM
+submission-end: 05/07/2020 02:00 PM
 fiscal-year: FY20, FY21
 legal-authority: Agency specific prize authority
 challenge-manager: Marissa Wagler
