@@ -917,7 +917,7 @@ Competitors will be grouped in a competition track. For example, Day one will be
 **Arrival/Base Access Phase**
 For both Track #1 (day one March 8, 2021) and Track #2 (day two March 9, 2021) there are only three arrival times (0730, 0930, 1130). Each competitor will be informed and reminded prior to the Competition start date of their arrival times. It is highly imperative that competitors arrive at their designated date and time. EC members will wait up to 30 minutes on the assigned date and time for a late competitor. The late time will be taken from the competitor’s presentation phase if the competitor is late. Competitors who fail to arrive within 30 minutes of their designated date and time will be disqualified from the Competition stage and the Challenge. 
 
-**NIWC-PAC Bayside Pass Office**
+**NIWC Pacific Bayside Pass Office**
 
 ![NIWC Pacific Bayside Pass Office]({{site.baseurl}}/assets/netlify-uploads/niwcpac_bayside_pass_office.jpg "NIWC Pacific Bayside Pass Office")
 
