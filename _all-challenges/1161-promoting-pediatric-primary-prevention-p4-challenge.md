@@ -16,7 +16,7 @@ type-of-challenge:
   - Software and apps
   - Ideas
   - Technology demonstration and hardware
-submission-start: 2020/12/02 09:00 AM
+submission-start: 2020/12/08 09:00 AM
 submission-end: 2021/03/15 5:00 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
@@ -63,15 +63,11 @@ prizes: >-
 
   Winning approaches will be promoted widely by MCHB and key partners.
 rules: >-
-  
-
-  #### Eligibility: 
+  #### Eligibility:
 
 
   To be eligible to win a prize under this Challenge, an individual or entity:
 
-
-  * Must be based in or targeting a community with infant mortality rates that are high or increasing above the national average.  [Infant mortality is a well-accepted general marker of community health](https://www.law.cornell.edu/uscode/text/42/254c-8); projects in this challenge will focus on high-risk communities.
 
   * Must be submitting on behalf of or in partnership with a primary care provider (partnerships with community partners are encouraged)
 
@@ -175,7 +171,6 @@ Winning approaches will be promoted widely by MCHB and key partners.
 
 To be eligible to win a prize under this Challenge, an individual or entity:
 
-* Must be based in or targeting a community with infant mortality rates that are high or increasing above the national average.  [Infant mortality is a well-accepted general marker of community health](https://www.law.cornell.edu/uscode/text/42/254c-8); projects in this challenge will focus on high-risk communities.
 * Must be submitting on behalf of or in partnership with a primary care provider (partnerships with community partners are encouraged)
 
 Additionally, applicants: 

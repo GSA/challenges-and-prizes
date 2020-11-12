@@ -102,7 +102,7 @@ prizes: >-
   #### Total Cash Prize Pool
 
 
-  NIWC-PAC has set the total prize to $350,000 for the Fleet VI Capture Challenge 
+  Naval Information Warfare Center (NIWC) Pacific has set the total prize to $350,000 for the Fleet VI Capture Challenge 
 
 
   #### Prize Breakdown
@@ -111,10 +111,10 @@ prizes: >-
   The Fleet VI Capture Challenge will have two winners that will be notified via email and/or by phone. A cash prize of $250,000 will be awarded to the first-place winning entry. A cash prize of $100,000 will be awarded to the second-place winning entry. The judging criteria will contain guidance in the event of an initial tie. A re-evaluation of the baseline performance metrics with the respective judges will determine the winner of a tie.
 
 
-  If a prize goes to a team of Submitters, NIWC-PAC will award the cash prize to the individuals/team’s point of contact who is registered in the Challenge.gov website, for further distribution to the team, as the team members see fit. 
+  If a prize goes to a team of Submitters, NIWC Pacific will award the cash prize to the individuals/team’s point of contact who is registered in the Challenge.gov website, for further distribution to the team, as the team members see fit. 
 
 
-  This Challenge does not in any way obligate NIWC-PAC or the Department of the Navy to procure any of the items within the scope of this Challenge from any submitters, including the winners. Dependent upon the outcome of the Challenge and the actions of the Federal partners, owners of the Hardware Solutions may or may not asked to further collaborate on a fully integrated solution in the future.
+  This Challenge does not in any way obligate NIWC Pacific or the Department of the Navy to procure any of the items within the scope of this Challenge from any submitters, including the winners. Dependent upon the outcome of the Challenge and the actions of the Federal partners, owners of the Hardware Solutions may or may not asked to further collaborate on a fully integrated solution in the future.
 
 
   Tax treatment of prizes will be handled in accordance with U.S. Internal Revenue Service guidelines. The winner must provide a U.S. Taxpayer Identification Numbers (TIN) (e.g. Social Security Number (SSN), Taxpayer Identification Number (TIN), and or Employer Identification Number (EIN)) to receive the cash prize.
@@ -125,7 +125,7 @@ rules: >-
 
    The Fleet VI Challenge is looking for Submitters as identified above, that have *Hardware Solutions* that are either currently commercially available or will soon (less than 2-years) be available to the private sector and require little to no modification for the Navy’s relevant environment. A *Hardware Solution* as defined by the Navy as suitable for Fleet VI is as follows: A reliable, scalable, and user-friendly architecture that has multiple Sensors that interface together at a central video management system. This interface may be wireless, hardwired, or a combination of the two; however, it MUST maintain reliable connectivity to a central video management system for maintaining a constant state of continuous recording of VI events. Sensors, as defined by the Navy, must capture, and record high definition quality video and photos of sea interactions between vessels while maintaining a wide field-of-view and a reference point-of-view given various environmental conditions. These clear high definition videos and photos must be managed by a central video management system that may or may not have software/firmware embedded; however, this management system must be reliable, scalable, ruggedized, user-friendly, and capable of organizing captured footage. It must also contain storage capacity either internally or externally that allows sailors the capability to access stored footage at a future date.
 
-  Eligibility is subject to verification before any prize is awarded. Federal Government employees, NIWC-PAC and BMNT are not eligible to submit to this *Challenge*. 
+  Eligibility is subject to verification before any prize is awarded. Federal Government employees, NIWC Pacific and BMNT are not eligible to submit to this *Challenge*. 
 
 
   Violation of the rules contained herein or intentional or consistent activity that undermines the spirit of the *Challenge* may result in disqualification. The *Challenge* is void wherever restricted or prohibited by law.
@@ -133,13 +133,13 @@ rules: >-
 
   **Intellectual Property Rights:** 
 
-  Because of the number of anticipated *Challenge* entries, NIWC-PAC cannot and will not make determinations on whether third-party materials in *Challenge* submissions have protectable intellectual property interests. By submitting to this *Challenge*, each Submitter (whether submitting individually, as a team, or as a commercial entity) warrants and assures the Government that any data, hardware, and electrical/data interfaces are used for the sole purpose of submitting an entry for this *Challenge*, were obtained legally, and through authorized access. By entering the *Challenge* and submitting the *Challenge* materials, the Submitter agrees to indemnify and hold the Government harmless against any claim, loss, or risk of loss for patent or copyright infringement with respect to such third-party interests.
+  Because of the number of anticipated *Challenge* entries, NIWC Pacific cannot and will not make determinations on whether third-party materials in *Challenge* submissions have protectable intellectual property interests. By submitting to this *Challenge*, each Submitter (whether submitting individually, as a team, or as a commercial entity) warrants and assures the Government that any data, hardware, and electrical/data interfaces are used for the sole purpose of submitting an entry for this *Challenge*, were obtained legally, and through authorized access. By entering the *Challenge* and submitting the *Challenge* materials, the Submitter agrees to indemnify and hold the Government harmless against any claim, loss, or risk of loss for patent or copyright infringement with respect to such third-party interests.
 
 
   This *Challenge* does not replace or supersede any other written contracts and/or written challenges that the Submitter has or will have with the Government, which may require delivery of any materials the Submitter is submitting herein for this Challenge effort. This *Challenge* constitutes the entire understanding of the parties with respect to the *Challenge*. 
 
 
-  NIWC-PAC may update the terms of the *Challenge* from time to time without notice. Submitters are strongly encouraged to check the website frequently. Each stage of the *Challenge* contains the details submission requirements and deliverable. If during any stage a submitter fails to submit the required submissions and/or is absent or late 30-minutes for the start of their presentation and/or demonstration, then that submitter shall be disqualified from the competition.
+  NIWC Pacific may update the terms of the *Challenge* from time to time without notice. Submitters are strongly encouraged to check the website frequently. Each stage of the *Challenge* contains the details submission requirements and deliverable. If during any stage a submitter fails to submit the required submissions and/or is absent or late 30-minutes for the start of their presentation and/or demonstration, then that submitter shall be disqualified from the competition.
 
 
   If any provision of this *Challenge* is held to be invalid or unenforceable under applicable federal law, it will not affect the validity or enforceability of the remainder of the Terms and Conditions of this *Challenge*.
@@ -148,7 +148,7 @@ rules: >-
   **Results of the *Challenge*:**
 
 
-  Winners will be announced on the Challenge.gov website and or by email or both. This *Challenge* does not in any way obligate NIWC-PAC or the Department of the Navy to procure any of the items within the scope of this *Challenge* from any submitters, including the winners. Dependent upon the outcome of the *Challenge* and the actions of the Federal partners, owners of the presented Hardware Solutions may or may not asked to further collaborate on a follow-on procurement. NIWC PAC may award, pursuant to 10 U.S.C. 2371(b), a follow-on production contract or transaction to one or more submitters who successfully demonstrated and effective Hardware Solution under this *Challenge*.
+  Winners will be announced on the Challenge.gov website and or by email or both. This *Challenge* does not in any way obligate NIWC Pacific or the Department of the Navy to procure any of the items within the scope of this *Challenge* from any submitters, including the winners. Dependent upon the outcome of the *Challenge* and the actions of the Federal partners, owners of the presented Hardware Solutions may or may not asked to further collaborate on a follow-on procurement. NIWC PAC may award, pursuant to 10 U.S.C. 2371(b), a follow-on production contract or transaction to one or more submitters who successfully demonstrated and effective Hardware Solution under this *Challenge*.
 
 
   **Release of Claims:**
@@ -422,7 +422,7 @@ how-to-enter: >-
   **Stage #5: Competition** 
 
 
-  This stage will take place at Naval Base Point Loma at the NIWC-PAC Bayside location. The Competition days are currently scheduled for March 8th and 9th, 2021. EC members will send a data request to all competitors in January 2021 for base access. During this stage, the competitors will present and demonstrate their Hardware Solution. Competitor will be given specific arrival, base access, transition, presentation, demonstration, and departure times. 
+  This stage will take place at Naval Base Point Loma at the NIWC Pacific Bayside location. The Competition days are currently scheduled for March 8th and 9th, 2021. EC members will send a data request to all competitors in January 2021 for base access. During this stage, the competitors will present and demonstrate their Hardware Solution. Competitor will be given specific arrival, base access, transition, presentation, demonstration, and departure times. 
 
 
   Competitors will be grouped in a competition track. For example, Day one will be titled Track #1 and day two will be titled Track #2. During the first day of the Competition, EC members will be able to evaluate three competitors (competitors #1, #2, #3). On the second day EC will process the last three competitors (competitor #4, #5, #6). The image below represents a single day example of the throughput of the Competition. Please read each bolded section for details of each transitional phase. If for some reason any competitor fails to show within 30-minutes of their designated date and or time, that competitor will be disqualified from the Competition stage and the Challenge.
@@ -439,16 +439,16 @@ how-to-enter: >-
   For both Track #1 (day one March 8, 2021) and Track #2 (day two March 9, 2021) there are only three arrival times (0730, 0930, 1130). Each competitor will be informed and reminded prior to the Competition start date of their arrival times. It is highly imperative that competitors arrive at their designated date and time. EC members will wait up to 30 minutes on the assigned date and time for a late competitor. The late time will be taken from the competitor’s presentation phase if the competitor is late. Competitors who fail to arrive within 30 minutes of their designated date and time will be disqualified from the Competition stage and the Challenge. 
 
 
-  **NIWC-PAC Bayside Pass Office**
+  **NIWC Pacific Bayside Pass Office**
 
 
-  ![NIWCPAC Bayside Pass Office]({{site.baseurl}}/assets/netlify-uploads/niwcpac_bayside_pass_office.jpg "NIWCPAC Bayside Pass Office")
+  ![NIWC Pacific Bayside Pass Office]({{site.baseurl}}/assets/netlify-uploads/niwcpac_bayside_pass_office.jpg "NIWC Pacific Bayside Pass Office")
 
 
   **Base Access Phase**
 
 
-  The base access phase has a 30-minute window. The location of the Competition will be Naval Information Warfare Center Pacific, Point Loma/Bayside. This location requires two forms of identification (Common Access Card and NIWC-PAC badge). Each competitor will receive a base access data request in January 2021. An EC member will submit temporary badge requests for each responding attendee. The SA will manage the base access for competitors. An EC member will meet each competitor at their designated arrival times by the front door of the NIWC-PAC Bayside Pass Office (Strothe Rd, San Diego CA 92106). This location is identified by the YELLOW star and Black rectangle in the image above. It is at that time and location where the competitor will receive their badges and will have access to drive onto to NIWC-PAC Bayside. An EC member will guide the competitor to their assigned parking location near the Competition area. 
+  The base access phase has a 30-minute window. The location of the Competition will be NIWC Pacific, Point Loma/Bayside. This location requires two forms of identification (Common Access Card and NIWC Pacific badge). Each competitor will receive a base access data request in January 2021. An EC member will submit temporary badge requests for each responding attendee. The SA will manage the base access for competitors. An EC member will meet each competitor at their designated arrival times by the front door of the NIWC Pacific Bayside Pass Office (Strothe Rd, San Diego CA 92106). This location is identified by the YELLOW star and Black rectangle in the image above. It is at that time and location where the competitor will receive their badges and will have access to drive onto to NIWC Pacific Bayside. An EC member will guide the competitor to their assigned parking location near the Competition area. 
 
 
   **Presentation Phase**
@@ -559,6 +559,7 @@ how-to-enter: >-
   **Demonstration Phase**
 
   The demonstration phase is the competitor’s opportunity to showcase how their Hardware Solution functions. At the demonstration location, competitors will be asked to set up their Hardware Solution. There Hardware Solution must have a two-Sensors integrated system for the demonstration. A designated EC member will help with their setup. A networked attached storage device will be provided at the presentation phase and must be able to integrate as an external storage device to the competitors Hardware Solution to collect the demonstration data. The EC member will be responsible for clearly identifying the competitors dedicated NAS and ensuring the proper connection between the competitors Hardware Solution. The competitors will be asked to sign the NAS with a marker. The NAS device will be used later for scoring of the captured footage/photos.
+
 
   A floating platform will be located at the demonstration site. Here the competitor will install their two-Sensor Hardware Solution. On the floating platform there will be a center mark that indicates where the center of the Sensor lens must be placed. Once the Sensors are mounted, they must not be moved or touched. In addition, there will be a distinctive marker in front of the platform. This marker indicates a point-of-view reference and will be identified as “platform marker”. Competitors will need to maintain continuous recording regardless of what is required at each phase and all markers both on the vessel and on the platform need to be on all video clips and photos. The EC member will script all phases. They will direct the vessel when to depart and when the competitor will need to start recording. The vessel used in the Competition will be modified to have three distinctive markers. The markers will be used to grade the image clarity and stability at varying speeds, maneuvers, and distances.
 
@@ -675,7 +676,7 @@ Even the best trained Fleet VI teams and the most well thought-out standard oper
 * SC: Selection Consultants
 * SME: Subject Matter Expert
 * SP: Selection Plan
-* *Hardware Solution:*A reliable, scalable, and user-friendly architecture that has multiple Sensors that interface together at a central video management system. This interface may be wireless, hardwired, or a combination of the two; however, it MUST maintain reliable connectivity to a central video management system for maintaining a constant state of continuous recording of VI events. Sensors, as defined by the Navy, must capture, and record high definition quality video and photos of sea interactions between vessels while maintaining a wide field-of-view and a reference point-of-view given various environmental conditions. These clear high definition videos and photos must be managed by a central video management system that may or may not have software/firmware embedded; however, this management system must be reliable, scalable, ruggedized, user-friendly, and capable of organizing captured footage. It must also contain storage capacity either internally or externally that allows sailors the capability to access stored footage at a future date.
+* *Hardware Solution:* A reliable, scalable, and user-friendly architecture that has multiple Sensors that interface together at a central video management system. This interface may be wireless, hardwired, or a combination of the two; however, it MUST maintain reliable connectivity to a central video management system for maintaining a constant state of continuous recording of VI events. Sensors, as defined by the Navy, must capture, and record high definition quality video and photos of sea interactions between vessels while maintaining a wide field-of-view and a reference point-of-view given various environmental conditions. These clear high definition videos and photos must be managed by a central video management system that may or may not have software/firmware embedded; however, this management system must be reliable, scalable, ruggedized, user-friendly, and capable of organizing captured footage. It must also contain storage capacity either internally or externally that allows sailors the capability to access stored footage at a future date.
 
 Please note that the Challenge is a tiered approach, so not all registered submitters will make it to the Competition stages. Please see “How to Enter” for details.
 
@@ -683,15 +684,15 @@ Please note that the Challenge is a tiered approach, so not all registered submi
 
 #### Total Cash Prize Pool
 
-NIWC-PAC has set the total prize to $350,000 for the Fleet VI Capture Challenge 
+Naval Information Warfare Center (NIWC) Pacific has set the total prize to $350,000 for the Fleet VI Capture Challenge 
 
 #### Prize Breakdown
 
 The Fleet VI Capture Challenge will have two winners that will be notified via email and/or by phone. A cash prize of $250,000 will be awarded to the first-place winning entry. A cash prize of $100,000 will be awarded to the second-place winning entry. The judging criteria will contain guidance in the event of an initial tie. A re-evaluation of the baseline performance metrics with the respective judges will determine the winner of a tie.
 
-If a prize goes to a team of Submitters, NIWC-PAC will award the cash prize to the individuals/team’s point of contact who is registered in the Challenge.gov website, for further distribution to the team, as the team members see fit. 
+If a prize goes to a team of Submitters, NIWC Pacific will award the cash prize to the individuals/team’s point of contact who is registered in the Challenge.gov website, for further distribution to the team, as the team members see fit. 
 
-This Challenge does not in any way obligate NIWC-PAC or the Department of the Navy to procure any of the items within the scope of this Challenge from any submitters, including the winners. Dependent upon the outcome of the Challenge and the actions of the Federal partners, owners of the Hardware Solutions may or may not asked to further collaborate on a fully integrated solution in the future.
+This Challenge does not in any way obligate NIWC Pacific or the Department of the Navy to procure any of the items within the scope of this Challenge from any submitters, including the winners. Dependent upon the outcome of the Challenge and the actions of the Federal partners, owners of the Hardware Solutions may or may not asked to further collaborate on a fully integrated solution in the future.
 
 Tax treatment of prizes will be handled in accordance with U.S. Internal Revenue Service guidelines. The winner must provide a U.S. Taxpayer Identification Numbers (TIN) (e.g. Social Security Number (SSN), Taxpayer Identification Number (TIN), and or Employer Identification Number (EIN)) to receive the cash prize.
 
@@ -702,22 +703,22 @@ The *Challenge* is open to individual Submitters, teams of Submitters, universit
 
  The Fleet VI Challenge is looking for Submitters as identified above, that have *Hardware Solutions* that are either currently commercially available or will soon (less than 2-years) be available to the private sector and require little to no modification for the Navy’s relevant environment. A *Hardware Solution* as defined by the Navy as suitable for Fleet VI is as follows: A reliable, scalable, and user-friendly architecture that has multiple Sensors that interface together at a central video management system. This interface may be wireless, hardwired, or a combination of the two; however, it MUST maintain reliable connectivity to a central video management system for maintaining a constant state of continuous recording of VI events. Sensors, as defined by the Navy, must capture, and record high definition quality video and photos of sea interactions between vessels while maintaining a wide field-of-view and a reference point-of-view given various environmental conditions. These clear high definition videos and photos must be managed by a central video management system that may or may not have software/firmware embedded; however, this management system must be reliable, scalable, ruggedized, user-friendly, and capable of organizing captured footage. It must also contain storage capacity either internally or externally that allows sailors the capability to access stored footage at a future date.
 
-Eligibility is subject to verification before any prize is awarded. Federal Government employees, NIWC-PAC and BMNT are not eligible to submit to this *Challenge*. 
+Eligibility is subject to verification before any prize is awarded. Federal Government employees, NIWC Pacific and BMNT are not eligible to submit to this *Challenge*. 
 
 Violation of the rules contained herein or intentional or consistent activity that undermines the spirit of the *Challenge* may result in disqualification. The *Challenge* is void wherever restricted or prohibited by law.
 
 **Intellectual Property Rights:** 
-Because of the number of anticipated *Challenge* entries, NIWC-PAC cannot and will not make determinations on whether third-party materials in *Challenge* submissions have protectable intellectual property interests. By submitting to this *Challenge*, each Submitter (whether submitting individually, as a team, or as a commercial entity) warrants and assures the Government that any data, hardware, and electrical/data interfaces are used for the sole purpose of submitting an entry for this *Challenge*, were obtained legally, and through authorized access. By entering the *Challenge* and submitting the *Challenge* materials, the Submitter agrees to indemnify and hold the Government harmless against any claim, loss, or risk of loss for patent or copyright infringement with respect to such third-party interests.
+Because of the number of anticipated *Challenge* entries, NIWC Pacific cannot and will not make determinations on whether third-party materials in *Challenge* submissions have protectable intellectual property interests. By submitting to this *Challenge*, each Submitter (whether submitting individually, as a team, or as a commercial entity) warrants and assures the Government that any data, hardware, and electrical/data interfaces are used for the sole purpose of submitting an entry for this *Challenge*, were obtained legally, and through authorized access. By entering the *Challenge* and submitting the *Challenge* materials, the Submitter agrees to indemnify and hold the Government harmless against any claim, loss, or risk of loss for patent or copyright infringement with respect to such third-party interests.
 
 This *Challenge* does not replace or supersede any other written contracts and/or written challenges that the Submitter has or will have with the Government, which may require delivery of any materials the Submitter is submitting herein for this Challenge effort. This *Challenge* constitutes the entire understanding of the parties with respect to the *Challenge*. 
 
-NIWC-PAC may update the terms of the *Challenge* from time to time without notice. Submitters are strongly encouraged to check the website frequently. Each stage of the *Challenge* contains the details submission requirements and deliverable. If during any stage a submitter fails to submit the required submissions and/or is absent or late 30-minutes for the start of their presentation and/or demonstration, then that submitter shall be disqualified from the competition.
+NIWC Pacific may update the terms of the *Challenge* from time to time without notice. Submitters are strongly encouraged to check the website frequently. Each stage of the *Challenge* contains the details submission requirements and deliverable. If during any stage a submitter fails to submit the required submissions and/or is absent or late 30-minutes for the start of their presentation and/or demonstration, then that submitter shall be disqualified from the competition.
 
 If any provision of this *Challenge* is held to be invalid or unenforceable under applicable federal law, it will not affect the validity or enforceability of the remainder of the Terms and Conditions of this *Challenge*.
 
 **Results of the *Challenge*:**
 
-Winners will be announced on the Challenge.gov website and or by email or both. This *Challenge* does not in any way obligate NIWC-PAC or the Department of the Navy to procure any of the items within the scope of this *Challenge* from any submitters, including the winners. Dependent upon the outcome of the *Challenge* and the actions of the Federal partners, owners of the presented Hardware Solutions may or may not asked to further collaborate on a follow-on procurement. NIWC PAC may award, pursuant to 10 U.S.C. 2371(b), a follow-on production contract or transaction to one or more submitters who successfully demonstrated and effective Hardware Solution under this *Challenge*.
+Winners will be announced on the Challenge.gov website and or by email or both. This *Challenge* does not in any way obligate NIWC Pacific or the Department of the Navy to procure any of the items within the scope of this *Challenge* from any submitters, including the winners. Dependent upon the outcome of the *Challenge* and the actions of the Federal partners, owners of the presented Hardware Solutions may or may not asked to further collaborate on a follow-on procurement. NIWC Pacific may award, pursuant to 10 U.S.C. 2371(b), a follow-on production contract or transaction to one or more submitters who successfully demonstrated and effective Hardware Solution under this *Challenge*.
 
 **Release of Claims:**
 
@@ -905,7 +906,7 @@ The virtual question and answer (Q&A) session is designed to provide information
 
 **Stage #5: Competition** 
 
-This stage will take place at Naval Base Point Loma at the NIWC-PAC Bayside location. The Competition days are currently scheduled for March 8th and 9th, 2021. EC members will send a data request to all competitors in January 2021 for base access. During this stage, the competitors will present and demonstrate their Hardware Solution. Competitor will be given specific arrival, base access, transition, presentation, demonstration, and departure times. 
+This stage will take place at Naval Base Point Loma at the NIWC Pacific Bayside location. The Competition days are currently scheduled for March 8th and 9th, 2021. EC members will send a data request to all competitors in January 2021 for base access. During this stage, the competitors will present and demonstrate their Hardware Solution. Competitor will be given specific arrival, base access, transition, presentation, demonstration, and departure times. 
 
 Competitors will be grouped in a competition track. For example, Day one will be titled Track #1 and day two will be titled Track #2. During the first day of the Competition, EC members will be able to evaluate three competitors (competitors #1, #2, #3). On the second day EC will process the last three competitors (competitor #4, #5, #6). The image below represents a single day example of the throughput of the Competition. Please read each bolded section for details of each transitional phase. If for some reason any competitor fails to show within 30-minutes of their designated date and or time, that competitor will be disqualified from the Competition stage and the Challenge.
 
@@ -916,13 +917,13 @@ Competitors will be grouped in a competition track. For example, Day one will be
 **Arrival/Base Access Phase**
 For both Track #1 (day one March 8, 2021) and Track #2 (day two March 9, 2021) there are only three arrival times (0730, 0930, 1130). Each competitor will be informed and reminded prior to the Competition start date of their arrival times. It is highly imperative that competitors arrive at their designated date and time. EC members will wait up to 30 minutes on the assigned date and time for a late competitor. The late time will be taken from the competitor’s presentation phase if the competitor is late. Competitors who fail to arrive within 30 minutes of their designated date and time will be disqualified from the Competition stage and the Challenge. 
 
-**NIWC-PAC Bayside Pass Office**
+**NIWC Pacific Bayside Pass Office**
 
-![NIWCPAC Bayside Pass Office]({{site.baseurl}}/assets/netlify-uploads/niwcpac_bayside_pass_office.jpg "NIWCPAC Bayside Pass Office")
+![NIWC Pacific Bayside Pass Office]({{site.baseurl}}/assets/netlify-uploads/niwcpac_bayside_pass_office.jpg "NIWC Pacific Bayside Pass Office")
 
 **Base Access Phase**
 
-The base access phase has a 30-minute window. The location of the Competition will be Naval Information Warfare Center Pacific, Point Loma/Bayside. This location requires two forms of identification (Common Access Card and NIWC-PAC badge). Each competitor will receive a base access data request in January 2021. An EC member will submit temporary badge requests for each responding attendee. The SA will manage the base access for competitors. An EC member will meet each competitor at their designated arrival times by the front door of the NIWC-PAC Bayside Pass Office (Strothe Rd, San Diego CA 92106). This location is identified by the YELLOW star and Black rectangle in the image above. It is at that time and location where the competitor will receive their badges and will have access to drive onto to NIWC-PAC Bayside. An EC member will guide the competitor to their assigned parking location near the Competition area. 
+The base access phase has a 30-minute window. The location of the Competition will be NIWC Pacific, Point Loma/Bayside. This location requires two forms of identification (Common Access Card and NIWC Pacific badge). Each competitor will receive a base access data request in January 2021. An EC member will submit temporary badge requests for each responding attendee. The SA will manage the base access for competitors. An EC member will meet each competitor at their designated arrival times by the front door of the NIWC Pacific Bayside Pass Office (Strothe Rd, San Diego CA 92106). This location is identified by the YELLOW star and Black rectangle in the image above. It is at that time and location where the competitor will receive their badges and will have access to drive onto to NIWC Pacific Bayside. An EC member will guide the competitor to their assigned parking location near the Competition area. 
 
 **Presentation Phase**
 
@@ -984,6 +985,7 @@ In the transition phase competitors will be guided to the demonstration phase si
 
 **Demonstration Phase**
 The demonstration phase is the competitor’s opportunity to showcase how their Hardware Solution functions. At the demonstration location, competitors will be asked to set up their Hardware Solution. There Hardware Solution must have a two-Sensors integrated system for the demonstration. A designated EC member will help with their setup. A networked attached storage device will be provided at the presentation phase and must be able to integrate as an external storage device to the competitors Hardware Solution to collect the demonstration data. The EC member will be responsible for clearly identifying the competitors dedicated NAS and ensuring the proper connection between the competitors Hardware Solution. The competitors will be asked to sign the NAS with a marker. The NAS device will be used later for scoring of the captured footage/photos.
+
 A floating platform will be located at the demonstration site. Here the competitor will install their two-Sensor Hardware Solution. On the floating platform there will be a center mark that indicates where the center of the Sensor lens must be placed. Once the Sensors are mounted, they must not be moved or touched. In addition, there will be a distinctive marker in front of the platform. This marker indicates a point-of-view reference and will be identified as “platform marker”. Competitors will need to maintain continuous recording regardless of what is required at each phase and all markers both on the vessel and on the platform need to be on all video clips and photos. The EC member will script all phases. They will direct the vessel when to depart and when the competitor will need to start recording. The vessel used in the Competition will be modified to have three distinctive markers. The markers will be used to grade the image clarity and stability at varying speeds, maneuvers, and distances.
 
 During setup it is encouraged that competitors engage with the evaluators. This gives the evaluators an installation perspective and an overall understanding of how the system works. The demonstration phase will be broken into three different routes that make up a triangular path and one post file recover phase.
