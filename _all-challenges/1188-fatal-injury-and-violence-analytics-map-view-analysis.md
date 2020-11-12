@@ -7,11 +7,12 @@ challenge-id: "1188"
 status: open
 sidenav: false
 card-image: /assets/netlify-uploads/lockup-logo.png
-agency-logo: /assets/netlify-uploads/256px-US_CDC_logo.png
+agency-logo: /assets/netlify-uploads/hhs.png
 tagline: Help the CDC’s National Center for Injury Prevention and Control create
   a prototype solution for detecting and exploring trends in fatal injury and
   violence data.
-agency: CDC
+agency: Department of Health and Human Services - Centers for Disease Control
+  and Prevention
 external-url: https://www.topcoder.com/challenges/ebb64afc-884c-4cbf-80e7-34211e2a0343
 total-prize-offered-cash: $3,900
 type-of-challenge:
