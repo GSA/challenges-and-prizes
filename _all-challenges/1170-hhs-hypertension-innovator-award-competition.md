@@ -29,9 +29,9 @@ challenge-manager: Courtney Gustin
 challenge-manager-email: Courtney.gustin@hhs.gov
 point-of-contact: HypertensionChallenge@hhs.gov
 description: >-
-  **\*\*Important Update: The submission deadline has been extended to
-  11/16/2020, along with other important changes to Key Dates.  Please see
-  changes below in the Key Dates section.**
+  **\*\*Important Update: The submission deadline has been extended to 1/6/2021,
+  along with other important changes to the scoring criteria.  Please see
+  changes below in the Key Dates and Judging Criteria sections.**
 
 
   The Office of the Assistant Secretary for Health (OASH), Office on Women’s Health (OWH) is seeking innovative ways to ensure women with hypertension during pregnancy and/or postpartum receive appropriate monitoring and follow-up through the HHS Hypertension Innovator Award Competition:  Innovative Methods of Blood Pressure Monitoring and Follow-up in Women during Pregnancy and/or Postpartum.
@@ -52,7 +52,7 @@ description: >-
   #### Purpose
 
 
-  OWH is creating a national competition to identify effective, pre-existing programs that care for women with hypertension who are pregnant and/or postpartum. The goal of this innovative competition is to demonstrate sustainability and the ability to replicate and/or expand a program that provides effective monitoring and follow-up of hypertension for women who are pregnant and/or postpartum.
+  OWH is creating a national competition to identify effective, pre-existing programs that care for people with hypertension where the programs could be or are already applied to women with hypertension who are pregnant and/or postpartum. The goal of this innovative competition is to demonstrate sustainability and the ability to replicate and/or expand a program that provides effective monitoring and follow-up of hypertension for women who are pregnant and/or postpartum.
 
 
   #### Subject and Scope of Prize Competition
@@ -70,7 +70,7 @@ description: >-
   **Phase 1:** Identification of successful programs
 
 
-  * Open September 30, 2020 through November 16, 2020.
+  * Open September 30, 2020 through January 6, 2021.
 
   * Webinar: Tuesday, October 20, 2020, 3:00-4:00 pm EST: View recording [here](https://hhs.webex.com/recordingservice/sites/hhs/recording/playback/d9877da6ce0546e78af530a9053ed80d); Password: HypertensionWebinar1
 
@@ -78,37 +78,37 @@ description: >-
 
   * Webinar: Friday, November 6, 2020, 3:00-4:00 pm EST: Join [here](https://hhs.webex.com/hhs/j.php?MTID=m01fa90a958b91e9c021a8688ee9fd9e2)
 
-  * Phase 1 submissions are due by November 16, 2020, 11:59 pm EST.
+  * Phase 1 submissions are due by January 6, 2021, 11:59 pm EST.
 
-  * Judging for Phase 1 will occur from November 17, 2020 through December 1, 2020.
+  * Judging for Phase 1 will occur from January 7, 2021 through January 14, 2021.
 
-  * Finalists that move into Phase 2 will be awarded by December 2, 2020.
+  * Finalists that move into Phase 2 will be announced no later than January 15, 2021.
 
 
   **Phase 2:** Awarding plans for sustainability and replication and/or expansion
 
 
-  * Competition occurs September 29, 2021 through October 30, 2021.
+  * Competition occurs September 29, 2021 through January 5, 2022.
 
-  * Phase 2 submissions are due by October 30, 2021, 11:59 pm EST.
+  * Phase 2 submissions are due by January 5, 2022, 11:59 pm EST.
 
-  * Judging for Phase 2 will occur from October 31, 2021 through November 20, 2021.
+  * Judging for Phase 2 will occur from January 6, 2022 through January 13, 2022.
 
-  * Finalists that move into Phase 3 will be awarded by November 21, 2021.
+  * Finalists that move into Phase 3 will be awarded by will be announced no later than January 14, 2022.
 
 
   **Phase 3:** Awarding the programs that have successfully replicated and/or expanded 
 
 
-  * Competition occurs September 29, 2022 through October 30, 2022.
+  * Competition occurs September 29, 2022 through January 4, 2023.
 
-  * Phase 3 submissions are due by October 30, 2022, 11:59 pm EST.
+  * Phase 3 submissions are due by January 4, 2023, 11:59 pm EST.
 
-  * Judging for Phase 3 will occur from October 31, 2022 through November 20, 2022.
+  * Judging for Phase 3 will occur from January 5, 2023 through January 12, 2023.
 
-  * Finalists will be awarded by November 21, 2022.
+  * Finalists will be announced no later than January 13, 2023.
 prizes: >-
-  #### Total Prize Awards Available 
+  #### Total Prize Awards Available
 
 
   $3,325,000 in FY20 funds.
@@ -160,7 +160,7 @@ rules: >-
 
   13. Agree to obtain liability insurance, or demonstrate financial responsibility, in the amount of $500,000, for claims by (a) a third party for death, bodily injury, property damage, or loss resulting from an activity carried out in connection with participation in a Challenge, with the Federal Government named as an additional insured under the registered participant’s insurance policy, and (b) the Federal Government for damage or loss to Government property resulting from such activity.
 
-  14. Shall not be currently on the Excluded Parties List ([https://oig.hhs.gov/exclusions/index.asp](<1. https://oig.hhs.gov/exclusions/index.asp>)).
+  14. Shall not be currently on the Excluded Parties List (<https://oig.hhs.gov/exclusions/index.asp>).
 
 
   **Additional Information**
@@ -190,22 +190,13 @@ rules: >-
 
   * Record Retention and FOIA: All materials submitted to HHS as part of a submission become HHS records and cannot be returned. Any confidential commercial information contained in a submission should be designated in accordance with 45 C.F.R. § 5.41. Participants will be notified of Freedom of Information Act requests for their submissions in accordance with 45 C.F.R. § 5.42.
 judging: >-
-  #### Judging Panel
-
-
-  A panel of judges will evaluate the submissions on the criteria identified below. Judges will be fair and impartial, may not have a personal or financial interest in, or be an employee, officer, director, or agent of, any entity that is a registered participant in the competition, and may not have a familial or financial relationship with an individual who is a registered contestant. The panel will make winner selections based upon the criteria outlined below and in compliance with the [HHS Competition Judging Guidelines](https://www.hhs.gov/sites/default/files/HHS-COMPETITION-JUDGING-GUIDELINES.pdf).  Entries not in compliance with the submission requirements outlined above and below will be ineligible for further review and prize award.  
-
-
-  #### Judging Criteria
-
-
   **Phase 1 Scoring Criteria: Identification of successful programs**
 
 
-  All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and 5 being the highest score on each dimension.  Scores are weighted by the proportion of each dimension and then aggregated to create a final score.  Judging criteria for Phase 1 include **(Total Points 100%)**:
+  All Criteria are scaled 1-10, with 1 being the lowest score on each dimension and 10 being the highest score on each dimension.  Scores are weighted by the proportion of each dimension and then aggregated to create a final score.  Judging criteria for Phase 1 include **(Total Points 100%)**:
 
 
-  * Previously demonstrated effectiveness (statistical significance) in:  controlling hypertension in women who are pregnant and/or postpartum AND/OR  increasing continued monitoring of hypertension in women who are pregnant and/or postpartum : **(40%)**
+  * Previously demonstrated effectiveness (statistical significance) of the program in: controlling hypertension AND/OR increasing continued monitoring of hypertension in any population, where that program could be or is already applied to women who are pregnant and/or postpartum: **(40%)**
 
   * Ability of the program to address racial/ethnic disparities and/or urban/rural disparities: **(20%)**
 
@@ -217,7 +208,7 @@ judging: >-
   **Phase 2 Scoring Criteria: Awarding plans for sustainability and replication and/or expansion**
 
 
-  All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and 5 being the highest score on each dimension.  Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase 2 include **(Total Points 100%)**:
+  All Criteria are scaled 1-10, with 1 being the lowest score on each dimension and 10 being the highest score on each dimension.  Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase 2 include **(Total Points 100%)**:
 
 
   * Demonstrates effectiveness (statistical significance) in: **controlling hypertension** in women who are pregnant and/or postpartum AND/OR **increasing continued monitoring of hypertension** in women who are pregnant and/or postpartum: **(30%)**
@@ -232,7 +223,7 @@ judging: >-
   **Phase 3 Scoring Criteria: Awarding the programs that have successfully replicated and/or expanded**
 
 
-  All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and 5 being the highest score on each dimension.  Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase 3 include **(Total Points 100%)**:
+  All Criteria are scaled 1-10, with 1 being the lowest score on each dimension and 10 being the highest score on each dimension.  Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase 3 include **(Total Points 100%)**:
 
 
   * Demonstrates effectiveness (statistical significance) in: controlling hypertension in women who are pregnant and/or postpartum AND/OR increasing continued monitoring of hypertension in women who are pregnant and/or postpartum: **(25%)**
@@ -244,16 +235,18 @@ how-to-enter: >-
   #### Registration for this Challenge:
 
 
-  Beginning September 30, 2020 at 5:00 pm EST, the identified Official Representative (individual, team, or legal entity) may register for this competition by sending an email to HypertensionChallenge@hhs.gov with the subject line stating ‘Hypertension Competition Registration’. In this email you must identify only one Official Representative for each competition registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the participant (individual, team, or legal entity), that he or she has read and consents to be governed by the competition rules. Registration for this competition is due by November 16, 2020 at 11:59 pm EST.
+  Beginning September 30, 2020 at 5:00 pm EST, the identified Official Representative (individual, team, or legal entity) may register for this competition by sending an email to HypertensionChallenge@hhs.gov with the subject line stating ‘Hypertension Competition Registration’. In this email you must identify only one Official Representative for each competition registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the participant (individual, team, or legal entity), that he or she has read and consents to be governed by the competition rules. Registration for this competition is due by January 6, 2021 at 11:59 pm EST.
 
 
-  Questions concerning this competition should be sent by email to: [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov).
+  Questions concerning this competition should be sent by email to: 
+
+  [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov).
 
 
   **Phase 1: Identification of successful programs**
 
 
-  Submissions for Phase 1 of this competition are due by November 16, 2020 at 11:59 pm EST. The identified Official Representative (individual, team or legal entity) may apply for this competition by submitting an application by email to [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov). The application for Phase 1 of the competition shall meet the following requirements:
+  Submissions for Phase 1 of this competition are due by January 6, 2021 at 11:59 pm EST. The identified Official Representative (individual, team or legal entity) may apply for this competition by submitting an application by email to [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov). The application for Phase 1 of the competition shall meet the following requirements:
 
 
   * Entries must consist of PDF files with font size no smaller than 11-point Arial.
@@ -270,7 +263,7 @@ how-to-enter: >-
   Phase 1 of the competition aims to identify effective programs that range in their design and range geographically. The goal of Phase 1 will be the identification of an effective program that can successfully target gaps in diagnosis, prevention, and treatment of hypertension in women who are pregnant and/or postpartum. The submissions should aim to demonstrate that the program was developed from evidence-based techniques for providing hypertension care. The Phase 1 submission shall include a comprehensive description of the program in 5 pages or less, including:
 
 
-  1. A one-paragraph executive summary that clearly states how the program has previously demonstrated effectiveness (statistical significance) in: controlling hypertension in women who are pregnant and/or postpartum AND/OR increasing continued monitoring of hypertension in women who are pregnant and/or postpartum;
+  1. A one-paragraph executive summary that clearly states how the program has previously demonstrated effectiveness (statistical significance) in: controlling hypertension AND/OR increasing continued monitoring of hypertension in any population, where that program could be or is already applied to women who are pregnant and/or postpartum;
 
   2. A description of how the program addresses racial/ethnic disparities and/or urban/rural disparities;
 
@@ -282,7 +275,7 @@ how-to-enter: >-
   **Phase 2: Awarding plans for sustainability and replication and/or expansion**
 
 
-  Submissions for Phase 2 of this competition are due by October 30, 2021 at 11:59 pm EST. Only participants who received an award for their Phase 1 submission are eligible to apply for Phase 2. The identified Official Representative (individual, team or legal entity) may apply for this phase by submitting an application by email to [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov). The application for Phase 2 of the competition shall meet the following requirements:
+  Submissions for Phase 2 of this competition are due by January 5, 2022 at 11:59 pm EST. Only participants who received an award for their Phase 1 submission are eligible to apply for Phase 2. The identified Official Representative (individual, team or legal entity) may apply for this phase by submitting an application by email to [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov). The application for Phase 2 of the competition shall meet the following requirements:
 
 
   * Entries must consist of PDF files with font size no smaller than 11-point Arial.
@@ -311,7 +304,7 @@ how-to-enter: >-
   **Phase 3: Awarding programs that have successfully replicated and/or expanded**
 
 
-  Submissions for Phase 3 of this competition are due by October 30, 2022 at 11:59 pm EST. Only participants who received an award for their Phase 2 submission are eligible to apply for Phase 3. The identified Official Representative (individual, team or legal entity) may apply for this phase by submitting an application by email to [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov). The application for Phase 3 of the competition shall meet the following requirements:
+  Submissions for Phase 3 of this competition are due by January 4, 2023 at 11:59 pm EST.  Only participants who received an award for their Phase 2 submission are eligible to apply for Phase 3. The identified Official Representative (individual, team or legal entity) may apply for this phase by submitting an application by email to [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov). The application for Phase 3 of the competition shall meet the following requirements:
 
 
   * Entries must consist of PDF files with font size no smaller than 11-point Arial.
@@ -497,14 +490,14 @@ Submissions for Phase 1 of this competition are due by January 6, 2021 at 11:59 
 
 Phase 1 of the competition aims to identify effective programs that range in their design and range geographically. The goal of Phase 1 will be the identification of an effective program that can successfully target gaps in diagnosis, prevention, and treatment of hypertension in women who are pregnant and/or postpartum. The submissions should aim to demonstrate that the program was developed from evidence-based techniques for providing hypertension care. The Phase 1 submission shall include a comprehensive description of the program in 5 pages or less, including:
 
-1. A one-paragraph executive summary that clearly states how the program has previously demonstrated effectiveness (statistical significance) in: controlling hypertension in women who are pregnant and/or postpartum AND/OR increasing continued monitoring of hypertension in women who are pregnant and/or postpartum;
+1. A one-paragraph executive summary that clearly states how the program has previously demonstrated effectiveness (statistical significance) in: controlling hypertension AND/OR increasing continued monitoring of hypertension in any population, where that program could be or is already applied to women who are pregnant and/or postpartum;
 2. A description of how the program addresses racial/ethnic disparities and/or urban/rural disparities;
 3. A description of how the program uses evidence-based approaches to target gaps in diagnosis, prevention, and treatment of women with hypertension who are pregnant and/or postpartum; and
 4. A description of how the program is innovative at targeting gaps in diagnosis, prevention, and treatment of women with hypertension who are pregnant and/or postpartum.
 
 **Phase 2: Awarding plans for sustainability and replication and/or expansion**
 
-Submissions for Phase 2 of this competition are due by October 30, 2021 at 11:59 pm EST. Only participants who received an award for their Phase 1 submission are eligible to apply for Phase 2. The identified Official Representative (individual, team or legal entity) may apply for this phase by submitting an application by email to [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov). The application for Phase 2 of the competition shall meet the following requirements:
+Submissions for Phase 2 of this competition are due by January 5, 2022 at 11:59 pm EST. Only participants who received an award for their Phase 1 submission are eligible to apply for Phase 2. The identified Official Representative (individual, team or legal entity) may apply for this phase by submitting an application by email to [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov). The application for Phase 2 of the competition shall meet the following requirements:
 
 * Entries must consist of PDF files with font size no smaller than 11-point Arial.
 * All submissions must be in English.
@@ -523,7 +516,7 @@ Phase 2 of the competition builds upon the work of Phase 1. Phase 2 is focused o
 
 **Phase 3: Awarding programs that have successfully replicated and/or expanded**
 
-Submissions for Phase 3 of this competition are due by October 30, 2022 at 11:59 pm EST.  Only participants who received an award for their Phase 2 submission are eligible to apply for Phase 3. The identified Official Representative (individual, team or legal entity) may apply for this phase by submitting an application by email to [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov). The application for Phase 3 of the competition shall meet the following requirements:
+Submissions for Phase 3 of this competition are due by January 4, 2023 at 11:59 pm EST.  Only participants who received an award for their Phase 2 submission are eligible to apply for Phase 3. The identified Official Representative (individual, team or legal entity) may apply for this phase by submitting an application by email to [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov). The application for Phase 3 of the competition shall meet the following requirements:
 
 * Entries must consist of PDF files with font size no smaller than 11-point Arial.
 * All submissions must be in English.
