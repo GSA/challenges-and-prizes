@@ -483,7 +483,7 @@ Submissions for Phase 1 of this competition are due by January 6, 2021 at 11:59 
 * Entries must consist of PDF files with font size no smaller than 11-point Arial.
 * All submissions must be in English.
 * Participants must not use HHS or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement.
-* Submission details should be sent to [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov):
+* Submission details should be sent to [HypertensionChallenge@hhs.gov](mailto:HypertensionChallenge@hhs.gov):  
 
   * Title the email subject line “Hypertension Competition Phase 1 Proposal”.
   * Email sender (person and email address) must be Official Representative/person of contact for the team.
