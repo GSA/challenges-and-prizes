@@ -1,8 +1,8 @@
 ---
-title: Blazing New Trails for Direct Support Professionals Working in the Community
-challenge-title: Blazing New Trails for Direct Support Professionals Working in the Community
+title: Blazing New Trails for Community Based Direct Support Professionals
+challenge-title: Blazing New Trails for Community Based Direct Support Professionals
 layout: front-matter-data-markdownify-content
-permalink: /challenge/blazing-new-trails-for-direct-support-professionals-working-in-the-community/
+permalink: /challenge/blazing-new-trails-for-community-based-direct-support-professionals/
 challenge-id: "1171"
 status: open
 sidenav: true
@@ -14,8 +14,8 @@ total-prize-offered-cash: $310,000
 type-of-challenge:
   - Ideas
 submission-start: 2020/11/20 5:00 PM
-submission-end: 2021/02/12 5:00 PM
-fiscal-year: FY20, FY21, FY@@
+submission-end: 2021/02/12 11:59 PM
+fiscal-year: FY21, FY22
 legal-authority: America COMPETES Act
 challenge-manager: Melvenia Wright
 challenge-manager-email: Melvenia.wright@acl.hhs.gov
