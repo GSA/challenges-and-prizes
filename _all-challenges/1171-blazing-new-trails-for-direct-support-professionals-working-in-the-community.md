@@ -233,47 +233,54 @@ The proposed solution should address the following expectations:
 
 ### How to Enter
 
-Submissions to the Blazing New Trails for Community Based Direct Support Professionals prize competition can be completed via email. Participating entries must be submitted to DSPprizechallenge@acl.hhs.gov no later than Friday, February 21, 2021 by 11:59 pm Eastern Standard Time. All submissions MUST be delivered in a 508 compliant pdf format. 
+Submissions to the Blazing New Trails for Community Based Direct Support Professionals prize competition can be completed via email. Participating entries must be submitted to [DSPprizechallenge@acl.hhs.gov](mailto:DSPprizechallenge@acl.hhs.gov) no later than Friday, February 21, 2021 by 11:59 pm Eastern Standard Time. All submissions MUST be delivered in a 508 compliant pdf format. 
 
 ACL seeks solutions that will create innovative models that improve the stability of the DSP workforce supporting individuals with ID/DD living in the community. Please keep in mind ~ a prize competition is NOT a federal grant or contract. You are not required to submit of a budget for the competition. 
 
 Submissions are required to include the following components:
-󠇩 Cover Page 
-󠇩 Project Design
 
-Cover Page
+* 󠇩Cover Page
+* Project Design
+
+**Cover Page**
 Submit a cover page for the Blazing New Trails for Community Based Direct Support Professionals Prize Challenge. 
 
 The cover page should be single spaced with standard 12-point font not to exceed one (1) page. The following information should be included: 
 
-	Full Name of Individual or Organization 
-	Mailing Address including city, state, zip code 
-	Primary Contact Name\
-	Primary Contact Telephone Number including area code
-	Primary Contact E-mail Address 
-	Alternate Contact Name
-	Alternate Contact E-mail Address
-	Alternate Contact Telephone Number including area code\
-	Proposed Solution Title
-	Abstract (no more than 500 words)
+* Full Name of Individual or Organization 
+* Mailing Address including city, state, zip code
+* Primary Contact Name
+* Primary Contact Telephone Number including area code
+* Primary Contact E-mail Address 
+* Alternate Contact Name
+* Alternate Contact E-mail Address
+* Alternate Contact Telephone Number including area code
+* Proposed Solution Title
+* Abstract (no more than 500 words)
 
-Proposed Solution
+**Proposed Solution**
 Submit a proposed solution for the Blazing New Trails for Community Based Direct Support Professionals Prize Challenge. 
 
 The proposed solution should be single spaced with standard 12-point font not to exceed fifteen (15) pages not including appendices, letters of commitment, Memorandums of Understanding, or figures. Any additional pages that exceed the fifteen page limit will not be reviewed. Pages for the proposed solution should be consecutively numbered with 1 inch margins. The following information should be included: 
 
-	Proposed Solution Title 
-	Proposed Solution Goal 
-o	Briefly describe your solution focused model and the intended goals.\
-	Proposed Solution Objectives 
-o	Briefly describe the specific strategies, approaches or research chosen to achieve the proposed solution goal. 
-	Proposed Solution Activities 
-o	Briefly list the major activities to support the proposed solution objectives (e.g. hold training workshops, create a network, write papers or a book, etc.)
-	Expected Partnerships 
-o	List expected partnerships, if any, to assist with the proposed solution 
-	Expected Products for the Proposed Solution
-o	List expected tangible results (e.g. published papers, database, trained people, software, etc.)
-	Expected Outcomes for the Proposed Solution 
-o	Briefly describe results and impact of the proposed solution (e.g., new knowledge, new or strengthened institutions, improved policy making, enhanced public understanding, etc.)
+* Proposed Solution Title 
+* Proposed Solution Goal 
 
-The cover page and proposed solution should be submitted in Adobe Acrobat® PDF format that is accessible and Section 508 compliant. Instructions on submitting accessible deliverables are provided via https://www.section508.gov/create. Alternative formats will not be accepted.
+  * Briefly describe your solution focused model and the intended goals.
+* Proposed Solution Objectives 
+
+  * Briefly describe the specific strategies, approaches or research chosen to achieve the proposed solution goal.
+* Proposed Solution Activities 
+
+  * Briefly list the major activities to support the proposed solution objectives (e.g. hold training workshops, create a network, write papers or a book, etc.)
+* Expected Partnerships 
+
+  * List expected partnerships, if any, to assist with the proposed solution 
+* Expected Products for the Proposed Solution
+
+  * List expected tangible results (e.g. published papers, database, trained people, software, etc.)
+* Expected Outcomes for the Proposed Solution 
+
+  * Briefly describe results and impact of the proposed solution (e.g., new knowledge, new or strengthened institutions, improved policy making, enhanced public understanding, etc.)
+
+The cover page and proposed solution should be submitted in Adobe Acrobat® PDF format that is accessible and Section 508 compliant. Instructions on submitting accessible deliverables are provided via <https://www.section508.gov/create>. Alternative formats will not be accepted.
