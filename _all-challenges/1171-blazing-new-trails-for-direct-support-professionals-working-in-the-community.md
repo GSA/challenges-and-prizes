@@ -307,7 +307,7 @@ Participants are required to obtain liability insurance or demonstrate financial
 
 Participants must also agree to indemnify the Federal Government against third party claims for damages arising from or related to Challenge activities.
 
-The Administration for Community Living reserves the right to cancel, suspend, and/or modify the Challenge, or any part of it, for any reason, at the Administration for Community Living’s sole discretion.
+The Administration for Community Living reserves the right to cancel, suspend, and/or modify the Challenge, or any part of it, for any reason, at the Administration for Community Living’s sole discretion.  
 
 ### Judging Criteria
 
