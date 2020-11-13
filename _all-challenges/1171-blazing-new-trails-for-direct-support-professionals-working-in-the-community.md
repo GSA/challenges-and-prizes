@@ -135,7 +135,7 @@ how-to-enter: More details will be provided in November 2020.
 ---
 ### Description
 
-The Administration for Community Living (ACL), U.S. Department of Health and Human Services (HHS) is announcing a competition to strengthen the Direct Support Professional (DSP) workforce and overall stability of home and community based services (HCBS) for individuals with intellectual and developmental disabilities (ID/DD).  To achieve this, the *Blazing New Trails for Direct Support Professionals Working in the Community* challenge seeks to engage the marketplace to innovate, pilot, and expand innovations that will transform the DSP workforce.
+The Administration for Community Living (ACL), U.S. Department of Health and Human Services (HHS) is announcing a competition to strengthen the Direct Support Professional (DSP) workforce and overall stability of home and community based services (HCBS) for individuals with intellectual and developmental disabilities (ID/DD).  To achieve this, the *Blazing New Trails for Community Based Direct Support Professionals* challenge seeks to engage the marketplace to innovate, pilot, and expand innovations that will transform the DSP workforce.
 
 When Americans with disabilities live independently, fully included in communities across our Nation – with the right supports in place – they are happier and healthier. Often, DSPs have a critical role to sustaining the independence of individuals with ID/DD. DSPs support individuals in making informed decisions, understanding risk, exercising their rights and choosing personal care support which facilitate the ability of individuals with ID/DD to pursue their individualized pathways to fully participate in the life of communities where we live.
 
@@ -152,37 +152,37 @@ There are multiple drivers behind a perpetual and growing demand that outpaces s
 
 ACL is looking for innovative models that: 
 
-* Create a better balance of the supply of qualified DSPs and demand.
+* Create a better balance of the supply and demand of qualified DSPs.
 * Achieve better rates of retention through incentives, advancement, career paths, etc.
 * Factor in and address any real and measurable barriers such as geographic (e.g., rural vs urban, etc.), transportation, and training.
 * Redefine career development requirements and pathways using non-traditional methods.
 * Include individuals from the ID/DD community throughout the development and testing of models.
-* Include a business commitment to implement the model for Phase 2 (small scale testing) of the challenge.
+* Include a business commitment to implement the model for Round 2 (small scale testing) of the challenge.
 * Lead to improved stability of the HCBS system and outcomes for individuals with ID/DD.
 
 To better balance the supply of qualified DSPs with the demand, innovations are needed that will stabilize the DSP workforce and overall quality of HCBS. This prize competition will support the rapid innovation and adoption of (business) models that that will better meet market demand, including any factors unique to specific markets, such as geographic location (e.g., be urban, suburban or rural). To bring supply and demand closer together, ACL seeks new approaches that will disrupt current business models which has been driving much of the industry.
 
-The challenge will be completed in three phases: 
+The challenge will be completed in three rounds: 
 
-* **Phase 1**, beginning in Fall of 2020, ACL will seek proposals from competitors who aim to create innovative models that will improve the stability of the DSP workforce supporting individuals with ID/DD living in the community.
-* **Phase 2**, beginning in Spring of 2021, participants will be asked to conduct small scale feasibility testing on the selected models. Teams will convene in Washington, D.C. or remotely to propose their ideas to a panel of judges who will help select winners. Judges will have expertise in the DSP labor market, economics, and lived experience with ID/DD.
-* **Phase 3**, beginning in Summer 2021, will examine the long-term sustainability of the models and the Grand Prize winner will be announced in October of 2021.
+* **Round 1**, beginning in Fall of 2020, ACL will seek proposals from competitors who aim to create innovative models that will improve the stability of the DSP workforce supporting individuals with ID/DD living in the community.
+* **Round 2**, beginning in Spring of 2021, participants will be asked to conduct small scale feasibility testing on the selected models. Teams will convene in Washington, D.C. or remotely to propose their ideas to a panel of judges who will help select winners. Judges will have expertise in the DSP labor market, economics, and lived experience with ID/DD.
+* **Round 3**, beginning in Summer 2021, will examine the long-term sustainability of the models and the Grand Prize winner will be announced in October of 2021.
 
 ### Prizes
 
 #### Prize Breakdown
 
-The total prize purse of $310,000 will be executed in three phases. Each phase will offer cash prizes to awardees. Funds will be awarded as follows:
+The total prize purse of $310,000 will be executed in three rounds. Each round will offer cash prizes to awardees. Funds will be awarded as follows:
 
-* **Phase 1** – Proposal of Innovative Models: Total Cash Prize of $100,000 - HHS will make up to five (5) awards.
-* **Phase 2** – Small Scale Testing of Models: Total Cash Prize of $90,000 - HHS will make up to three (3) awards.
-* **Phase 3** – Promise of Model Sustainability: Total Cash Prize of $120,000 - HHS will make one (1) award.
+* **Round 1** – Proposal of Innovative Models: HHS will make up to five (5) awards for a total of $100,000.
+* **Round 2** – Small Scale Testing of Models: HHS will make up to three (3) awards for a total of $90,000.
+* **Round 3** – Promise of Model Sustainability: HHS will make one (1) award of $120,000
 
 ### Rules
 
 To be eligible to win a prize under this challenge, an individual or entity may participate as part of one or more teams. An individual or entity:
 
-* Shall have registered to participate in the competition under the rules promulgated by the Administration for Community Living;
+* Shall have submitted an innovation to participate in the competition under the rules promulgated by the Administration for Community Living;
 * Shall have complied with all the requirements under this section;
 * In the case of a private entity, shall be incorporated in and maintain a primary place of business in the United States, and in the case of an individual, whether participating singly or in a group, shall be a citizen or permanent resident of the United States;
 * May not be a Federal entity or Federal employee acting within the scope of their employment (all non-HHS federal employees must consult with their agency Ethics Official to determine whether the federal ethics rules will limit or prohibit the acceptance of a COMPETES Act prize);
@@ -204,8 +204,76 @@ The Administration for Community Living reserves the right to cancel, suspend, a
 
 ### Judging Criteria
 
-More details will be provided in November 2020.
+A judging panel will evaluate all submissions. The judging panel will comprise of federal staff and other technical/subject matter experts.
+
+The proposed solution should address the following expectations: 
+
+* Innovation (30 percent) 
+
+  * Does the proposed solution utilize innovative approaches, services or interventions to create a change?
+  * Can the proposed solution be used in diverse settings? 
+  * Does the proposed solution have the potential to revolutionize DSP business models? 
+* Relevance (25 percent)
+
+  * Does the proposed solution address a relevant area related to the DSP crisis?
+  * Does the proposed solution address sustainability? 
+  * Were a broad range of stakeholders included in the development of the proposed solution? (I.e. DSPs, state agencies, businesses, people who use DSPs, underserved populations, etc.)
+  * Were people who use DSPs a guiding force in the development of the solution?
+* Impact (20 percent)
+
+  * Does the proposed solution have clear deliverable(s) with a possible timeline?
+  * Does the proposed solution include long term outcome measures? 
+* Feasibility (10 percent)
+
+  * Is the proposed solution reasonable, resourceful, and feasible? 
+  * Does the proposed solution improve the existing initiatives, strategies, and networks as it relates to the DSP crisis? 
+* Partnerships/Collaborations (15 percent)
+
+  * Does the solution include relevant partnerships and/or collaborations to address the DSP crisis? (i.e. MOUs, Letters of Commitment, etc.)
 
 ### How to Enter
 
-More details will be provided in November 2020.
+Submissions to the Blazing New Trails for Community Based Direct Support Professionals prize competition can be completed via email. Participating entries must be submitted to DSPprizechallenge@acl.hhs.gov no later than Friday, February 21, 2021 by 11:59 pm Eastern Standard Time. All submissions MUST be delivered in a 508 compliant pdf format. 
+
+ACL seeks solutions that will create innovative models that improve the stability of the DSP workforce supporting individuals with ID/DD living in the community. Please keep in mind ~ a prize competition is NOT a federal grant or contract. You are not required to submit of a budget for the competition. 
+
+Submissions are required to include the following components:
+󠇩 Cover Page 
+󠇩 Project Design
+
+Cover Page
+Submit a cover page for the Blazing New Trails for Community Based Direct Support Professionals Prize Challenge. 
+
+The cover page should be single spaced with standard 12-point font not to exceed one (1) page. The following information should be included: 
+
+	Full Name of Individual or Organization 
+	Mailing Address including city, state, zip code 
+	Primary Contact Name\
+	Primary Contact Telephone Number including area code
+	Primary Contact E-mail Address 
+	Alternate Contact Name
+	Alternate Contact E-mail Address
+	Alternate Contact Telephone Number including area code\
+	Proposed Solution Title
+	Abstract (no more than 500 words)
+
+Proposed Solution
+Submit a proposed solution for the Blazing New Trails for Community Based Direct Support Professionals Prize Challenge. 
+
+The proposed solution should be single spaced with standard 12-point font not to exceed fifteen (15) pages not including appendices, letters of commitment, Memorandums of Understanding, or figures. Any additional pages that exceed the fifteen page limit will not be reviewed. Pages for the proposed solution should be consecutively numbered with 1 inch margins. The following information should be included: 
+
+	Proposed Solution Title 
+	Proposed Solution Goal 
+o	Briefly describe your solution focused model and the intended goals.\
+	Proposed Solution Objectives 
+o	Briefly describe the specific strategies, approaches or research chosen to achieve the proposed solution goal. 
+	Proposed Solution Activities 
+o	Briefly list the major activities to support the proposed solution objectives (e.g. hold training workshops, create a network, write papers or a book, etc.)
+	Expected Partnerships 
+o	List expected partnerships, if any, to assist with the proposed solution 
+	Expected Products for the Proposed Solution
+o	List expected tangible results (e.g. published papers, database, trained people, software, etc.)
+	Expected Outcomes for the Proposed Solution 
+o	Briefly describe results and impact of the proposed solution (e.g., new knowledge, new or strengthened institutions, improved policy making, enhanced public understanding, etc.)
+
+The cover page and proposed solution should be submitted in Adobe Acrobat® PDF format that is accessible and Section 508 compliant. Instructions on submitting accessible deliverables are provided via https://www.section508.gov/create. Alternative formats will not be accepted.
