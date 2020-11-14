@@ -25,7 +25,7 @@ type-of-challenge:
   - Software and apps
   - Technology demonstration and hardware
 submission-start: 2020/09/30 5:00 PM
-submission-end: 2020/11/16 11:59 PM
+submission-end: 2020/12/09 11:59 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Jared Tolbert
@@ -33,8 +33,8 @@ challenge-manager-email: jared.tolbert@hhs.gov
 point-of-contact: BreastfeedingChallenge@hhs.gov
 description: >-
   **\*\*Important Update: The submission deadline has been extended to
-  11/16/2020, along with other important changes to Key Dates.  Please see
-  changes below in the Key Dates section.**
+  12/9/2020, along with other important changes to the scoring criteria.  Please
+  see changes below in the Key Dates and Judging Criteria sections.**
 
 
   The Office of the Assistant Secretary for Health (OASH), Office on Women’s Health (OWH) is seeking innovative ways to increase breastfeeding initiation and/or continuation rates and decrease disparities among breastfeeding mothers in the United States through the HHS Reducing Disparities in Breastfeeding Innovation Challenge.
@@ -73,43 +73,43 @@ description: >-
   **Phase 1: Identification of successful programs**
 
 
-  * Open September 30, 2020 through November 16, 2020.
+  * Open September 30, 2020 through December 9, 2020.
 
   * Webinar: Wednesday, October 21, 2020, 3:00-4:00 pm EST.  View recording [here](https://hhs.webex.com/recordingservice/sites/hhs/recording/playback/c230cb0c01c54838b5322de28c256de3); Password: BreastfeedingWebinar1
 
+  * Webinar: Friday, October 30, 2020, 2:00-3:00 pm EST.  Join [here](https://hhs.webex.com/hhs/j.php?MTID=m4cbd3cf1082be85fa392fd79c30037c7).
+
   * Webinar: Friday, November 6, 2020, 2:00-3:00 pm EST.  Join [here](https://hhs.webex.com/hhs/j.php?MTID=ma1048cff458b77685bff37ef6b7db916).
 
-  * Phase 1 submissions are due by November 16, 2020, 11:59 pm EST.
+  * Phase 1 submissions are due by December 9, 2020, 11:59 pm EST.
 
-  * Phase 1 submissions are due by November 16, 2020, 11:59 pm EST.
+  * Judging for Phase 1 will occur from December 10, 2020 through December 17, 2020.
 
-  * Judging for Phase 1 will occur from November 17, 2020 through December 1, 2020.
-
-  * Finalists that move into Phase 2 will be awarded by December 2, 2020.
+  * Finalists that move into Phase 2 will be announced no later than December 18, 2020.
 
 
   **Phase 2: Awarding plans for sustainability and replication and/or expansion**
 
 
-  * Competition occurs September 29, 2021 through October 30, 2021.
+  * Competition occurs September 29, 2021 through December 8, 2021.
 
-  * Phase 2 submissions are due by October 30, 2021, 11:59 pm EST.
+  * Phase 2 submissions are due by December 8, 2021, 11:59 pm EST.
 
-  * Judging for Phase 2 will occur from October 31, 2021 through November 20, 2021.
+  * Judging for Phase 2 will occur from December 9, 2021 through December 16, 2021.
 
-  * Finalists that move into Phase 3 will be awarded by November 21, 2021.
+  * Finalists that move into Phase 3 will be announced no later than December 17, 2021.
 
 
   **Phase 3: Awarding the programs that have successfully replicated and/or expanded** 
 
 
-  * Competition occurs September 29, 2022 through October 30, 2022.
+  * Competition occurs September 29, 2022 through December 7, 2022.
 
-  * Phase 3 submissions are due by October 30, 2022, 11:59 pm EST.
+  * Phase 3 submissions are due by December 7, 2022, 11:59 pm EST.
 
-  * Judging for Phase 3 will occur from October 31, 2022 through November 20, 2022.
+  * Judging for Phase 3 will occur from December 8, 2022 through December 15, 2022.
 
-  * Finalists will be awarded by November 21, 2022.
+  * Finalists will be awarded by December 16, 2022.
 prizes: >-
   #### Total Prize Awards Available
 
@@ -207,7 +207,7 @@ judging: >-
   **Phase 1 Scoring Criteria (Identification of successful programs)**
 
 
-  All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and 5 being the highest score on each dimension. Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase 1 include (Total Points 100%):
+  All Criteria are scaled 1-10, with 1 being the lowest score on each dimension and 10 being the highest score on each dimension. Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase 1 include (Total Points 100%):
 
 
   * Previously demonstrated effectiveness (statistical significance) in: increasing rates of initiation of breastfeeding and/or increasing rates of continuation of breastfeeding among mothers in the United States: **(20%)**
@@ -222,7 +222,7 @@ judging: >-
   **Phase 2 Scoring Criteria (Awarding plans for sustainability and replication and/or expansion)**
 
 
-  All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and 5 being the highest score on each dimension. Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase 2 include (Total Points 100%):
+  All Criteria are scaled 1-10, with 1 being the lowest score on each dimension and 10 being the highest score on each dimension. Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase 2 include (Total Points 100%):
 
 
   * Demonstrates effectiveness (statistical significance) in: increasing rates of initiation of breastfeeding and/or increasing rates of continuation of breastfeeding among mothers in the United States: **(30%)**
@@ -237,7 +237,7 @@ judging: >-
   **Phase 3 Scoring Criteria (Awarding programs that have been successfully replicated in another setting)**
 
 
-  All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and 5 being the highest score on each dimension. Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase 3 include (Total Points 100%):
+  All Criteria are scaled 1-10, with 1 being the lowest score on each dimension and 10 being the highest score on each dimension. Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase 3 include (Total Points 100%):
 
 
   * Demonstrates effectiveness (statistical significance) in: increasing rates of initiation of breastfeeding and/or increasing rates of continuation of breastfeeding among mothers in the United States: **(25%)**
@@ -249,7 +249,7 @@ how-to-enter: >-
   #### Registration for this Challenge:
 
 
-  Beginning September 30, 2020 at 7:15 am EST, the identified Official Representative (individual, team, or legal entity) may register for this competition by sending an email to BreastfeedingChallenge@hhs.gov with the subject line stating ‘Breastfeeding Competition Registration’. In this email you must identify only one Official Representative for each competition registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the participant (individual, team, or legal entity), that he or she has read and consents to be governed by the competition rules. Registration for this competition is due by November 16, 2020 at 11:59 pm EST.
+  Beginning September 30, 2020 at 7:15 am EST, the identified Official Representative (individual, team, or legal entity) may register for this competition by sending an email to BreastfeedingChallenge@hhs.gov with the subject line stating ‘Breastfeeding Competition Registration’. In this email you must identify only one Official Representative for each competition registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the participant (individual, team, or legal entity), that he or she has read and consents to be governed by the competition rules. Registration for this competition is due by December 9, 2020 at 11:59 pm EST.
 
 
   Questions concerning this competition should be sent by email to 
@@ -261,7 +261,7 @@ how-to-enter: >-
   **Phase 1: Identification of successful programs**
 
 
-  Submissions for Phase 1 of this competition are due by November 16, 2020 at 11:59 pm EST. The identified Official Representative (individual, team or legal entity) may apply for this competition by submitting an application by email to [BreastfeedingChallenge@hhs.gov](mailto:BreastfeedingChallenge@hhs.gov). The application for Phase 1 of the competition shall meet the following requirements:
+  Submissions for Phase 1 of this competition are due by December 9, 2020 at 11:59 pm EST. The identified Official Representative (individual, team or legal entity) may apply for this competition by submitting an application by email to [BreastfeedingChallenge@hhs.gov](mailto:BreastfeedingChallenge@hhs.gov). The application for Phase 1 of the competition shall meet the following requirements:
 
 
   1. Entries must consist of PDF files with font size no smaller than 11-point Arial.
@@ -290,7 +290,7 @@ how-to-enter: >-
   **Phase 2: Awarding plans for sustainability and replication and/or expansion**
 
 
-  Submissions for Phase 2 of this competition are due by October 30, 2021 at 11:59 pm EST. Only participants who received an award for their Phase 1 submission are eligible to apply for Phase 2. The identified Official Representative (individual, team or legal entity) may apply for this phase by submitting an application by email to [BreastfeedingChallenge@hhs.gov](mailto:BreastfeedingChallenge@hhs.gov). The application for Phase 2 of the competition shall meet the following requirements:
+  Submissions for Phase 2 of this competition are due by December 8, 2021 at 11:59 pm EST. Only participants who received an award for their Phase 1 submission are eligible to apply for Phase 2. The identified Official Representative (individual, team or legal entity) may apply for this phase by submitting an application by email to [BreastfeedingChallenge@hhs.gov](mailto:BreastfeedingChallenge@hhs.gov). The application for Phase 2 of the competition shall meet the following requirements:
 
 
   1. Entries must consist of PDF files with font size no smaller than 11-point Arial.
@@ -319,7 +319,7 @@ how-to-enter: >-
   **Phase 3: Awarding programs that have successfully replicated and/or expanded**
 
 
-  Submissions for Phase 3 of this competition are due by October 30, 2022 at 11:59 pm EST.  Only participants who received an award for their Phase 2 submission are eligible to apply for Phase 3. The identified Official Representative (individual, team or legal entity) may apply for this phase by submitting an application by email to [BreastfeedingChallenge@hhs.gov](mailto:BreastfeedingChallenge@hhs.gov). The application for Phase 3 of the competition shall meet the following requirements:
+  Submissions for Phase 3 of this competition are due by December 7, 2022 at 11:59 pm EST.  Only participants who received an award for their Phase 2 submission are eligible to apply for Phase 3. The identified Official Representative (individual, team or legal entity) may apply for this phase by submitting an application by email to [BreastfeedingChallenge@hhs.gov](mailto:BreastfeedingChallenge@hhs.gov). The application for Phase 3 of the competition shall meet the following requirements:
 
 
   1. Entries must consist of PDF files with font size no smaller than 11-point Arial.
@@ -347,7 +347,7 @@ how-to-enter: >-
 ---
 ### Description
 
-**\*\*Important Update: The submission deadline has been extended to 11/16/2020, along with other important changes to Key Dates.  Please see changes below in the Key Dates section.**
+**\*\*Important Update: The submission deadline has been extended to 12/9/2020, along with other important changes to the scoring criteria.  Please see changes below in the Key Dates and Judging Criteria sections.**
 
 The Office of the Assistant Secretary for Health (OASH), Office on Women’s Health (OWH) is seeking innovative ways to increase breastfeeding initiation and/or continuation rates and decrease disparities among breastfeeding mothers in the United States through the HHS Reducing Disparities in Breastfeeding Innovation Challenge.
 
@@ -373,27 +373,27 @@ The competition has three phases. All eligible submissions will be evaluated, an
 
 **Phase 1: Identification of successful programs**
 
-* Open September 30, 2020 through November 16, 2020.
+* Open September 30, 2020 through December 9, 2020.
 * Webinar: Wednesday, October 21, 2020, 3:00-4:00 pm EST.  View recording [here](https://hhs.webex.com/recordingservice/sites/hhs/recording/playback/c230cb0c01c54838b5322de28c256de3); Password: BreastfeedingWebinar1
 * Webinar: Friday, October 30, 2020, 2:00-3:00 pm EST.  Join [here](https://hhs.webex.com/hhs/j.php?MTID=m4cbd3cf1082be85fa392fd79c30037c7).
 * Webinar: Friday, November 6, 2020, 2:00-3:00 pm EST.  Join [here](https://hhs.webex.com/hhs/j.php?MTID=ma1048cff458b77685bff37ef6b7db916).
-* Phase 1 submissions are due by November 16, 2020, 11:59 pm EST.
-* Judging for Phase 1 will occur from November 17, 2020 through December 1, 2020.
-* Finalists that move into Phase 2 will be awarded by December 2, 2020.
+* Phase 1 submissions are due by December 9, 2020, 11:59 pm EST.
+* Judging for Phase 1 will occur from December 10, 2020 through December 17, 2020.
+* Finalists that move into Phase 2 will be announced no later than December 18, 2020.
 
 **Phase 2: Awarding plans for sustainability and replication and/or expansion**
 
-* Competition occurs September 29, 2021 through October 30, 2021.
-* Phase 2 submissions are due by October 30, 2021, 11:59 pm EST.
-* Judging for Phase 2 will occur from October 31, 2021 through November 20, 2021.
-* Finalists that move into Phase 3 will be awarded by November 21, 2021.
+* Competition occurs September 29, 2021 through December 8, 2021.
+* Phase 2 submissions are due by December 8, 2021, 11:59 pm EST.
+* Judging for Phase 2 will occur from December 9, 2021 through December 16, 2021.
+* Finalists that move into Phase 3 will be announced no later than December 17, 2021.
 
 **Phase 3: Awarding the programs that have successfully replicated and/or expanded** 
 
-* Competition occurs September 29, 2022 through October 30, 2022.
-* Phase 3 submissions are due by October 30, 2022, 11:59 pm EST.
-* Judging for Phase 3 will occur from October 31, 2022 through November 20, 2022.
-* Finalists will be awarded by November 21, 2022.
+* Competition occurs September 29, 2022 through December 7, 2022.
+* Phase 3 submissions are due by December 7, 2022, 11:59 pm EST.
+* Judging for Phase 3 will occur from December 8, 2022 through December 15, 2022.
+* Finalists will be awarded by December 16, 2022.
 
 ### Prizes
 
@@ -461,7 +461,7 @@ A panel of judges will evaluate the submissions on the criteria identified below
 
 **Phase 1 Scoring Criteria (Identification of successful programs)**
 
-All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and 5 being the highest score on each dimension. Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase 1 include (Total Points 100%):
+All Criteria are scaled 1-10, with 1 being the lowest score on each dimension and 10 being the highest score on each dimension. Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase 1 include (Total Points 100%):
 
 * Previously demonstrated effectiveness (statistical significance) in: increasing rates of initiation of breastfeeding and/or increasing rates of continuation of breastfeeding among mothers in the United States: **(20%)**
 * Ability of the program to address racial/ethnic disparities among breastfeeding mothers in the Unites States: **(40%)**
@@ -470,7 +470,7 @@ All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and
 
 **Phase 2 Scoring Criteria (Awarding plans for sustainability and replication and/or expansion)**
 
-All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and 5 being the highest score on each dimension. Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase 2 include (Total Points 100%):
+All Criteria are scaled 1-10, with 1 being the lowest score on each dimension and 10 being the highest score on each dimension. Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase 2 include (Total Points 100%):
 
 * Demonstrates effectiveness (statistical significance) in: increasing rates of initiation of breastfeeding and/or increasing rates of continuation of breastfeeding among mothers in the United States: **(30%)**
 * Demonstrates effectiveness (statistical significance) in addressing racial/ethnic disparities among breastfeeding mothers in the United States: **(30%)**
@@ -479,7 +479,7 @@ All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and
 
 **Phase 3 Scoring Criteria (Awarding programs that have been successfully replicated in another setting)**
 
-All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and 5 being the highest score on each dimension. Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase 3 include (Total Points 100%):
+All Criteria are scaled 1-10, with 1 being the lowest score on each dimension and 10 being the highest score on each dimension. Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase 3 include (Total Points 100%):
 
 * Demonstrates effectiveness (statistical significance) in: increasing rates of initiation of breastfeeding and/or increasing rates of continuation of breastfeeding among mothers in the United States: **(25%)**
 * Demonstrates effectiveness (statistical significance) in addressing racial/ethnic disparities among breastfeeding mothers in the United States: **(25%)**
@@ -489,7 +489,7 @@ All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and
 
 #### Registration for this Challenge:
 
-Beginning September 30, 2020 at 7:15 am EST, the identified Official Representative (individual, team, or legal entity) may register for this competition by sending an email to BreastfeedingChallenge@hhs.gov with the subject line stating ‘Breastfeeding Competition Registration’. In this email you must identify only one Official Representative for each competition registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the participant (individual, team, or legal entity), that he or she has read and consents to be governed by the competition rules. Registration for this competition is due by November 16, 2020 at 11:59 pm EST.
+Beginning September 30, 2020 at 7:15 am EST, the identified Official Representative (individual, team, or legal entity) may register for this competition by sending an email to BreastfeedingChallenge@hhs.gov with the subject line stating ‘Breastfeeding Competition Registration’. In this email you must identify only one Official Representative for each competition registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the participant (individual, team, or legal entity), that he or she has read and consents to be governed by the competition rules. Registration for this competition is due by December 9, 2020 at 11:59 pm EST.
 
 Questions concerning this competition should be sent by email to 
 
@@ -497,7 +497,7 @@ Questions concerning this competition should be sent by email to
 
 **Phase 1: Identification of successful programs**
 
-Submissions for Phase 1 of this competition are due by November 16, 2020 at 11:59 pm EST. The identified Official Representative (individual, team or legal entity) may apply for this competition by submitting an application by email to [BreastfeedingChallenge@hhs.gov](mailto:BreastfeedingChallenge@hhs.gov). The application for Phase 1 of the competition shall meet the following requirements:
+Submissions for Phase 1 of this competition are due by December 9, 2020 at 11:59 pm EST. The identified Official Representative (individual, team or legal entity) may apply for this competition by submitting an application by email to [BreastfeedingChallenge@hhs.gov](mailto:BreastfeedingChallenge@hhs.gov). The application for Phase 1 of the competition shall meet the following requirements:
 
 1. Entries must consist of PDF files with font size no smaller than 11-point Arial.
 2. All submissions must be in English.
@@ -516,7 +516,7 @@ Phase 1 of the competition aims to identify effective programs that range in the
 
 **Phase 2: Awarding plans for sustainability and replication and/or expansion**
 
-Submissions for Phase 2 of this competition are due by October 30, 2021 at 11:59 pm EST. Only participants who received an award for their Phase 1 submission are eligible to apply for Phase 2. The identified Official Representative (individual, team or legal entity) may apply for this phase by submitting an application by email to [BreastfeedingChallenge@hhs.gov](mailto:BreastfeedingChallenge@hhs.gov). The application for Phase 2 of the competition shall meet the following requirements:
+Submissions for Phase 2 of this competition are due by December 8, 2021 at 11:59 pm EST. Only participants who received an award for their Phase 1 submission are eligible to apply for Phase 2. The identified Official Representative (individual, team or legal entity) may apply for this phase by submitting an application by email to [BreastfeedingChallenge@hhs.gov](mailto:BreastfeedingChallenge@hhs.gov). The application for Phase 2 of the competition shall meet the following requirements:
 
 1. Entries must consist of PDF files with font size no smaller than 11-point Arial.
 2. All submissions must be in English.
@@ -535,7 +535,7 @@ Phase 2 of the competition builds upon the work of Phase 1. Phase 2 is focused o
 
 **Phase 3: Awarding programs that have successfully replicated and/or expanded**
 
-Submissions for Phase 3 of this competition are due by October 30, 2022 at 11:59 pm EST.  Only participants who received an award for their Phase 2 submission are eligible to apply for Phase 3. The identified Official Representative (individual, team or legal entity) may apply for this phase by submitting an application by email to [BreastfeedingChallenge@hhs.gov](mailto:BreastfeedingChallenge@hhs.gov). The application for Phase 3 of the competition shall meet the following requirements:
+Submissions for Phase 3 of this competition are due by December 7, 2022 at 11:59 pm EST.  Only participants who received an award for their Phase 2 submission are eligible to apply for Phase 3. The identified Official Representative (individual, team or legal entity) may apply for this phase by submitting an application by email to [BreastfeedingChallenge@hhs.gov](mailto:BreastfeedingChallenge@hhs.gov). The application for Phase 3 of the competition shall meet the following requirements:
 
 1. Entries must consist of PDF files with font size no smaller than 11-point Arial.
 2. All submissions must be in English.
