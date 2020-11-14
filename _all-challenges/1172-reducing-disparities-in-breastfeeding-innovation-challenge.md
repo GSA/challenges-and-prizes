@@ -95,7 +95,7 @@ description: >-
 
   * Phase 2 submissions are due by December 8, 2021, 11:59 pm EST.
 
-  * Judging for Phase 2 will occur from December 9, 2021 through December 16 2021.
+  * Judging for Phase 2 will occur from December 9, 2021 through December 16, 2021.
 
   * Finalists that move into Phase 3 will be announced no later than December 17, 2021.
 
@@ -385,7 +385,7 @@ The competition has three phases. All eligible submissions will be evaluated, an
 
 * Competition occurs September 29, 2021 through December 8, 2021.
 * Phase 2 submissions are due by December 8, 2021, 11:59 pm EST.
-* Judging for Phase 2 will occur from December 9, 2021 through December 16 2021.
+* Judging for Phase 2 will occur from December 9, 2021 through December 16, 2021.
 * Finalists that move into Phase 3 will be announced no later than December 17, 2021.
 
 **Phase 3: Awarding the programs that have successfully replicated and/or expanded** 
