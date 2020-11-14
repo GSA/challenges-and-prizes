@@ -200,9 +200,9 @@ judging: >-
 
   * Ability of the program to address racial/ethnic disparities and/or urban/rural disparities: **(20%)**
 
-  * Use of evidence-based approaches to target gaps in diagnosis, prevention, and treatment of women with hypertension who are pregnant and/or postpartum: **(20%)**
+  * Use of evidence-based approaches to target gaps in diagnosis, prevention, and treatment of hypertension: **(20%)**
 
-  * How the program is innovative at targeting gaps in diagnosis, prevention, and treatment of women with hypertension who are pregnant and/or postpartum: **(20%)**
+  * How the program is innovative at targeting gaps in diagnosis, prevention, and treatment of hypertension: **(20%)**
 
 
   **Phase 2 Scoring Criteria: Awarding plans for sustainability and replication and/or expansion**
@@ -260,16 +260,16 @@ how-to-enter: >-
     * Title the email subject line “Hypertension Competition Phase 1 Proposal”.
     * Email sender (person and email address) must be Official Representative/person of contact for the team.
 
-  Phase 1 of the competition aims to identify effective programs that range in their design and range geographically. The goal of Phase 1 will be the identification of an effective program that can successfully target gaps in diagnosis, prevention, and treatment of hypertension in women who are pregnant and/or postpartum. The submissions should aim to demonstrate that the program was developed from evidence-based techniques for providing hypertension care. The Phase 1 submission shall include a comprehensive description of the program in 5 pages or less, including:
+  Phase 1 of the competition aims to identify effective programs that range in their design and range geographically. The goal of Phase 1 will be the identification of an effective program that can successfully target gaps in diagnosis, prevention, and treatment of hypertension. The submissions should aim to demonstrate that the program was developed from evidence-based techniques for providing hypertension care. The Phase 1 submission shall include a comprehensive description of the program in 5 pages or less, including:
 
 
   1. A one-paragraph executive summary that clearly states how the program has previously demonstrated effectiveness (statistical significance) in: controlling hypertension AND/OR increasing continued monitoring of hypertension in any population, where that program could be or is already applied to women who are pregnant and/or postpartum;
 
   2. A description of how the program addresses racial/ethnic disparities and/or urban/rural disparities;
 
-  3. A description of how the program uses evidence-based approaches to target gaps in diagnosis, prevention, and treatment of women with hypertension who are pregnant and/or postpartum; and
+  3. A description of how the program uses evidence-based approaches to target gaps in diagnosis, prevention, and treatment of hypertension; and
 
-  4. A description of how the program is innovative at targeting gaps in diagnosis, prevention, and treatment of women with hypertension who are pregnant and/or postpartum.
+  4. A description of how the program is innovative at targeting gaps in diagnosis, prevention, and treatment of hypertension.
 
 
   **Phase 2: Awarding plans for sustainability and replication and/or expansion**
@@ -447,8 +447,8 @@ All Criteria are scaled 1-10, with 1 being the lowest score on each dimension an
 
 * Previously demonstrated effectiveness (statistical significance) of the program in: controlling hypertension AND/OR increasing continued monitoring of hypertension in any population, where that program could be or is already applied to women who are pregnant and/or postpartum: **(40%)**
 * Ability of the program to address racial/ethnic disparities and/or urban/rural disparities: **(20%)**
-* Use of evidence-based approaches to target gaps in diagnosis, prevention, and treatment of women with hypertension who are pregnant and/or postpartum: **(20%)**
-* How the program is innovative at targeting gaps in diagnosis, prevention, and treatment of women with hypertension who are pregnant and/or postpartum: **(20%)**
+* Use of evidence-based approaches to target gaps in diagnosis, prevention, and treatment of hypertension: **(20%)**
+* How the program is innovative at targeting gaps in diagnosis, prevention, and treatment of hypertension: **(20%)**
 
 **Phase 2 Scoring Criteria: Awarding plans for sustainability and replication and/or expansion**
 
@@ -488,12 +488,12 @@ Submissions for Phase 1 of this competition are due by January 6, 2021 at 11:59 
   * Title the email subject line “Hypertension Competition Phase 1 Proposal”.
   * Email sender (person and email address) must be Official Representative/person of contact for the team.
 
-Phase 1 of the competition aims to identify effective programs that range in their design and range geographically. The goal of Phase 1 will be the identification of an effective program that can successfully target gaps in diagnosis, prevention, and treatment of hypertension in women who are pregnant and/or postpartum. The submissions should aim to demonstrate that the program was developed from evidence-based techniques for providing hypertension care. The Phase 1 submission shall include a comprehensive description of the program in 5 pages or less, including:
+Phase 1 of the competition aims to identify effective programs that range in their design and range geographically. The goal of Phase 1 will be the identification of an effective program that can successfully target gaps in diagnosis, prevention, and treatment of hypertension. The submissions should aim to demonstrate that the program was developed from evidence-based techniques for providing hypertension care. The Phase 1 submission shall include a comprehensive description of the program in 5 pages or less, including:
 
 1. A one-paragraph executive summary that clearly states how the program has previously demonstrated effectiveness (statistical significance) in: controlling hypertension AND/OR increasing continued monitoring of hypertension in any population, where that program could be or is already applied to women who are pregnant and/or postpartum;
 2. A description of how the program addresses racial/ethnic disparities and/or urban/rural disparities;
-3. A description of how the program uses evidence-based approaches to target gaps in diagnosis, prevention, and treatment of women with hypertension who are pregnant and/or postpartum; and
-4. A description of how the program is innovative at targeting gaps in diagnosis, prevention, and treatment of women with hypertension who are pregnant and/or postpartum.
+3. A description of how the program uses evidence-based approaches to target gaps in diagnosis, prevention, and treatment of hypertension; and
+4. A description of how the program is innovative at targeting gaps in diagnosis, prevention, and treatment of hypertension.
 
 **Phase 2: Awarding plans for sustainability and replication and/or expansion**
 
