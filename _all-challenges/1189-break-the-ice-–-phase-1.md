@@ -89,7 +89,7 @@ In situ resource utilization (ISRU)—the development of lunar materials for lif
 
 One of the most important of these resources is water. Water supports all life on Earth, and will be critical to supporting human exploration beyond Earth. On the Moon, water is trapped in icy regolith at the lunar poles, including inside permanently shadowed regions (PSRs). 
 
-Phase 1 of the Break the Ice Lunar Challenge is focused on incentivizing new ideas and approaches to a system architecture for excavation and movement of icy regolith and water on the lunar surface.
+Phase 1 of the Break the Ice Lunar Challenge is focused on incentivizing new ideas and approaches to a system architecture for excavation and movement of icy regolith and water on the lunar surface.  
 
 ### Prizes
 
