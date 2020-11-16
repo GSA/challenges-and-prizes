@@ -1,6 +1,6 @@
 ---
 title: Break the Ice Phase 1
-challenge-title: Break the Ice – Phase 1
+challenge-title: Break the Ice Phase 1
 layout: front-matter-data-markdownify-content
 permalink: /challenge/break-the-ice-phase1/
 challenge-id: "1189"
