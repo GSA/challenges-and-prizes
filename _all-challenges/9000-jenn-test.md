@@ -1,6 +1,6 @@
 ---
-title: Jenn Test
-challenge-title: Jenn Test
+title: Jenn-Test
+challenge-title: Jenn-Test
 layout: front-matter-data-markdownify-content
 permalink: /challenge/jenn-test/
 challenge-id: "9000"
