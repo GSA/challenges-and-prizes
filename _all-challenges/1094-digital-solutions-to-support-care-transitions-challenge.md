@@ -4,7 +4,7 @@ challenge-title: Digital Solutions to Support Care Transitions Challenge
 layout: front-matter-data
 permalink: /challenge/digital-solutions-to-support-care-transitions-challenge/
 challenge-id: 1094
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/ahrq-logo.jpg
 agency-logo: ahrq-logo.jpg
@@ -18,8 +18,8 @@ partners-non-federal: null
 external-url: null
 total-prize-offered-cash: $175,000
 type-of-challenge: Software and apps
-submission-start: 2020/02/10 05:00 PM
-submission-end: 2020/11/20 05:00 PM
+submission-start: 02/10/2020 05:00 PM
+submission-end: 10/06/2020 05:00 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Susan Kerin
@@ -46,7 +46,7 @@ description: <p>AHRQ is seeking technological solutions that ease administrative
   Close:&nbsp; April 6, 2020</li> <li>Judging and Review Period:&nbsp;
   Anticipated April 6, 2020 &ndash; May 2020</li> <li>Phase 2 Submission
   Open:&nbsp; Anticipated May 2020</li> <li>Phase 2 Submission Close:&nbsp;
-  Anticipated November 20, 2020</li> </ul>
+  October 6, 2020</li> </ul>
 prizes: <p><strong>Phase 1 &ndash; Proposal of Innovative Models</strong></p>
   <ul> <li>Total Cash Prize:&nbsp; $100,000</li> <li>$20,000 per semi-finalist
   will be awarded; up to 5 awards</li> <li>Semi-finalists will use a portion of
@@ -85,7 +85,7 @@ submission-link: null
 <li>Phase 1 Submission Close: April 6, 2020</li>
 <li>Judging and Review Period: Anticipated April 6, 2020 &ndash; May 2020</li>
 <li>Phase 2 Submission Open: Anticipated May 2020</li>
-<li>Phase 2 Submission Close: Anticipated November 20, 2020</li>
+<li>Phase 2 Submission Close: October 6, 2020</li>
 </ul>
 
 <!-- Prizes start -->
