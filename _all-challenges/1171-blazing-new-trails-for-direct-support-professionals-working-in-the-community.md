@@ -14,7 +14,7 @@ total-prize-offered-cash: $310,000
 type-of-challenge:
   - Ideas
 submission-start: 2020/11/20 5:00 PM
-submission-end: 2021/02/12 11:59 PM
+submission-end: 2021/02/21 11:59 PM
 fiscal-year: FY21, FY22
 legal-authority: America COMPETES Act
 challenge-manager: Melvenia Wright
@@ -99,7 +99,7 @@ rules: >-
   may participate as part of one or more teams. An individual or entity:
 
 
-  * Shall have submitted an innovation to participate in the competition under the rules promulgated by the Administration for Community Living;
+  * Shall have submitted a proposed innovation to participate in the competition under the rules promulgated by the Administration for Community Living;
 
   * Shall have complied with all the requirements under this section;
 
@@ -169,7 +169,7 @@ how-to-enter: >-
   submissions MUST be delivered in a 508 compliant pdf format. 
 
 
-  ACL seeks solutions that will create innovative models that improve the stability of the DSP workforce supporting individuals with ID/DD living in the community. Please keep in mind ~ a prize competition is NOT a federal grant or contract. You are not required to submit of a budget for the competition. 
+  ACL seeks solutions that will create innovative models that improve the stability of the DSP workforce supporting individuals with ID/DD living in the community. Please keep in mind ~ a prize competition is NOT a federal grant or contract. You are not required to submit a budget for the competition. 
 
 
   Submissions are required to include the following components:
@@ -289,7 +289,7 @@ The total prize purse of $310,000 will be executed in three rounds. Each round w
 
 To be eligible to win a prize under this challenge, an individual or entity may participate as part of one or more teams. An individual or entity:
 
-* Shall have submitted an innovation to participate in the competition under the rules promulgated by the Administration for Community Living;
+* Shall have submitted a proposed innovation to participate in the competition under the rules promulgated by the Administration for Community Living;
 * Shall have complied with all the requirements under this section;
 * In the case of a private entity, shall be incorporated in and maintain a primary place of business in the United States, and in the case of an individual, whether participating singly or in a group, shall be a citizen or permanent resident of the United States;
 * May not be a Federal entity or Federal employee acting within the scope of their employment (all non-HHS federal employees must consult with their agency Ethics Official to determine whether the federal ethics rules will limit or prohibit the acceptance of a COMPETES Act prize);
@@ -342,7 +342,7 @@ The proposed solution should address the following expectations:
 
 Submissions to the Blazing New Trails for Community Based Direct Support Professionals prize competition can be completed via email. Participating entries must be submitted to [DSPprizechallenge@acl.hhs.gov](mailto:DSPprizechallenge@acl.hhs.gov) no later than Friday, February 21, 2021 by 11:59 pm Eastern Standard Time. All submissions MUST be delivered in a 508 compliant pdf format. 
 
-ACL seeks solutions that will create innovative models that improve the stability of the DSP workforce supporting individuals with ID/DD living in the community. Please keep in mind ~ a prize competition is NOT a federal grant or contract. You are not required to submit of a budget for the competition. 
+ACL seeks solutions that will create innovative models that improve the stability of the DSP workforce supporting individuals with ID/DD living in the community. Please keep in mind ~ a prize competition is NOT a federal grant or contract. You are not required to submit a budget for the competition. 
 
 Submissions are required to include the following components:
 
