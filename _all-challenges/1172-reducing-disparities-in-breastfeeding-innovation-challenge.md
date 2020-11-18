@@ -340,7 +340,10 @@ how-to-enter: >-
 ---
 ### Description
 
-**\*\*Important Update: The submission deadline has been extended to 12/9/2020, along with other important changes to the scoring criteria.  Please see changes below in the Key Dates and Judging Criteria sections.**
+**\*\*Important Updates:** 
+
+* **The submission deadline has been extended to 12/9/2020, along with other important changes to the scoring criteria.  Please see changes below in the Key Dates and Judging Criteria sections.**
+* **There will be a webinar on Monday, November 23 at 2:00 pm EST to review the updated eligibility criteria and key submission dates. Click here to [join](https://hhs.webex.com/hhs/j.php?MTID=ma767d7249b4de76d79977b706c880a53).**
 
 The Office of the Assistant Secretary for Health (OASH), Office on Women’s Health (OWH) is seeking innovative ways to increase breastfeeding initiation and/or continuation rates and decrease disparities among breastfeeding mothers in the United States through the HHS Reducing Disparities in Breastfeeding Innovation Challenge.
 
@@ -378,6 +381,7 @@ The competition has three phases. All eligible submissions will be evaluated, an
 
   * View recording [here](https://hhs.webex.com/recordingservice/sites/hhs/recording/playback/9e12d82641a14122a0156c95050ae4da); Password: BreastfeedingWebinar3
   * View PowerPoint Slides (pdf) [here](https://files.womenshealth.gov/files/breastfeeding-innovation-challenge-phase-1-webinar-fink_508.pdf)
+* **Webinar: Monday, November 23, 2020, 2:00-3:00 pm EST; Join [here](https://hhs.webex.com/webappng/sites/hhs/meeting/download/22b4f18949df4f81a9f073ff40b15d5c?siteurl=hhs&MTID=ma767d7249b4de76d79977b706c880a53)**
 * Phase 1 submissions are due by December 9, 2020, 11:59 pm EST.
 * Judging for Phase 1 will occur from December 10, 2020 through December 17, 2020.
 * Finalists that move into Phase 2 will be announced no later than December 18, 2020.
