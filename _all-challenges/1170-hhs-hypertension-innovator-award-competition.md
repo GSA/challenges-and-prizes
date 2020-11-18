@@ -70,7 +70,7 @@ description: >-
   **Phase 1:** Identification of successful programs
 
 
-  * Open September 30, 2020 through January 6, 2021.  
+  * Open September 30, 2020 through January 6, 2021.
 
   * Webinar: Tuesday, October 20, 2020, 3:00-4:00 pm EST
 
@@ -81,13 +81,37 @@ description: >-
     * View PowerPoint Slides (pdf) [here](https://files.womenshealth.gov/files/oash-owh-htn-challenge_508.pdf)
   * Webinar: Friday, November 6, 2020, 3:00-4:00 pm EST
 
-    * View recording [here](https://hhs.webex.com/recordingservice/sites/hhs/recording/playback/fe5a45bfee4e4c42a4f815437568e338); Password: HypertensionWebinar1
+    * View recording [here](https://hhs.webex.com/recordingservice/sites/hhs/recording/playback/fe5a45bfee4e4c42a4f815437568e338); Password: HypertensionWebinar3
     * View PowerPoint Slides (pdf) [here](https://files.womenshealth.gov/files/oash-owh-htn-challenge_508.pdf)
   * Phase 1 submissions are due by January 6, 2021, 11:59 pm EST.
 
   * Judging for Phase 1 will occur from January 7, 2021 through January 14, 2021.
 
   * Finalists that move into Phase 2 will be announced no later than January 15, 2021.
+
+
+  **Phase 2:** Awarding plans for sustainability and replication and/or expansion
+
+
+  * Competition occurs September 29, 2021 through January 5, 2022.
+
+  * Phase 2 submissions are due by January 5, 2022, 11:59 pm EST.
+
+  * Judging for Phase 2 will occur from January 6, 2022 through January 13, 2022.
+
+  * Finalists that move into Phase 3 will be awarded by will be announced no later than January 14, 2022.
+
+
+  **Phase 3:** Awarding the programs that have successfully replicated and/or expanded 
+
+
+  * Competition occurs September 29, 2022 through January 4, 2023.
+
+  * Phase 3 submissions are due by January 4, 2023, 11:59 pm EST.
+
+  * Judging for Phase 3 will occur from January 5, 2023 through January 12, 2023.
+
+  * Finalists will be announced no later than January 13, 2023.
 prizes: >-
   #### Total Prize Awards Available
 
@@ -349,7 +373,7 @@ The competition has three phases. All eligible submissions will be evaluated, an
   * View PowerPoint Slides (pdf) [here](https://files.womenshealth.gov/files/oash-owh-htn-challenge_508.pdf)
 * Webinar: Friday, November 6, 2020, 3:00-4:00 pm EST
 
-  * View recording [here](https://hhs.webex.com/recordingservice/sites/hhs/recording/playback/fe5a45bfee4e4c42a4f815437568e338); Password: HypertensionWebinar1
+  * View recording [here](https://hhs.webex.com/recordingservice/sites/hhs/recording/playback/fe5a45bfee4e4c42a4f815437568e338); Password: HypertensionWebinar3
   * View PowerPoint Slides (pdf) [here](https://files.womenshealth.gov/files/oash-owh-htn-challenge_508.pdf)
 * Phase 1 submissions are due by January 6, 2021, 11:59 pm EST.
 * Judging for Phase 1 will occur from January 7, 2021 through January 14, 2021.
