@@ -70,7 +70,7 @@ description: >-
   **Phase 1:** Identification of successful programs
 
 
-  * Open September 30, 2020 through January 6, 2021.
+  * Open September 30, 2020 through January 6, 2021.  
 
   * Webinar: Tuesday, October 20, 2020, 3:00-4:00 pm EST
 
