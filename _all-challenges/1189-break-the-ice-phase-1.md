@@ -15,7 +15,7 @@ agency: NASA
 partner-agencies-federal: NASA Centennial Challenges, NASA Marshall Space Flight
   Center, NASA Kennedy Space Center, NASA Langley Research Center
 partners-non-federal: Ensemble
-total-prize-offered-cash: $5,000,000
+total-prize-offered-cash: $500,000
 type-of-challenge:
   - Ideas
   - Scientific
@@ -40,8 +40,6 @@ description: >-
 
   Phase 1 of the Break the Ice Lunar Challenge is focused on incentivizing new ideas and approaches to a system architecture for excavation and movement of icy regolith and water on the lunar surface.
 prizes: >-
-  Challenge total: Up to Five million dollars ($5,000,000 USD) 
-
   Phase 1 Total: Five hundred thousand dollars ($500,000 USD)
 
 
@@ -91,7 +89,6 @@ Phase 1 of the Break the Ice Lunar Challenge is focused on incentivizing new ide
 
 ### Prizes
 
-Challenge total: Up to Five million dollars ($5,000,000 USD) 
 Phase 1 Total: Five hundred thousand dollars ($500,000 USD)
 
 **Prize Breakdown**
