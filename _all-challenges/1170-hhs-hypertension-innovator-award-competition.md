@@ -345,7 +345,7 @@ how-to-enter: >-
 **\*\*Important Updates:** 
 
 * **The submission deadline has been extended to 1/6/2021, along with other important changes to the scoring criteria.  Please see changes below in the Key Dates and Judging Criteria sections.**
-* **There will be a webinar on Monday, November 23 to review the updated eligibility criteria and key submission dates. Click [here](https://hhs.webex.com/hhs/j.php?MTID=m4f4fdffde5c7a0fba0964d9a2bc62daf) to join.**
+* **There will be a webinar on Monday, November 23 at 1:00 pm EST to review the updated eligibility criteria and key submission dates. Click [here](https://hhs.webex.com/hhs/j.php?MTID=m4f4fdffde5c7a0fba0964d9a2bc62daf) to join.**
 
 The Office of the Assistant Secretary for Health (OASH), Office on Women’s Health (OWH) is seeking innovative ways to ensure women with hypertension during pregnancy and/or postpartum receive appropriate monitoring and follow-up through the HHS Hypertension Innovator Award Competition:  Innovative Methods of Blood Pressure Monitoring and Follow-up in Women during Pregnancy and/or Postpartum.
 
