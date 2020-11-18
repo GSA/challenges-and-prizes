@@ -78,6 +78,8 @@ description: >-
 
   * Webinar: Friday, November 6, 2020, 3:00-4:00 pm EST: Join [here](https://hhs.webex.com/hhs/j.php?MTID=m01fa90a958b91e9c021a8688ee9fd9e2)
 
+  * Webinar: Monday, November 23, 2020, 1:00-2:00 pm EST: Join [here](https://hhs.webex.com/hhs/j.php?MTID=m4f4fdffde5c7a0fba0964d9a2bc62daf)
+
   * Phase 1 submissions are due by January 6, 2021, 11:59 pm EST.
 
   * Judging for Phase 1 will occur from January 7, 2021 through January 14, 2021.
