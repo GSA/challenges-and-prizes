@@ -4,7 +4,7 @@ challenge-title: CHARIoT Challenge - Advancing First Responder Communications
 layout: front-matter-data-markdownify-content
 permalink: /challenge/chariot/
 challenge-id: "1104"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/chariot_challengegov.jpg
 agency-logo: /assets/netlify-uploads/NIST_logo.png
@@ -20,8 +20,8 @@ total-prize-offered-cash: $1,100,000
 type-of-challenge:
   - Technology demonstration and hardware
   - Analytics, visualizations, algorithms
-submission-start: 2020/03/11 01:00 PM
-submission-end: 2020/11/18 05:00 PM
+submission-start: 03/11/2020 01:00 PM
+submission-end: 11/18/2020 05:00 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Sarah Hughes
