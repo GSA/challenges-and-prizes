@@ -53,10 +53,10 @@ description: >-
   * The failure to create an occupation of direct support with sufficient pay, benefits, training, career trajectories and status to recruit and retain a stable, skilled workforce. 
 
 
-  ACL is looking for innovative models that: 
+  ACL is looking for innovative ideas that:
 
 
-  * Create a better balance of the supply and demand of qualified DSPs.
+  * Create a better balance of the supply and demand of qualified DSP's
 
   * Achieve better rates of retention through incentives, advancement, career paths, etc.
 
@@ -69,6 +69,8 @@ description: >-
   * Include a business commitment to implement the model for Round 2 (small scale testing) of the challenge.
 
   * Lead to improved stability of the HCBS system and outcomes for individuals with ID/DD.
+
+  * Provide a more innovative business model than the current standard.
 
 
   To better balance the supply of qualified DSPs with the demand, innovations are needed that will stabilize the DSP workforce and overall quality of HCBS. This prize competition will support the rapid innovation and adoption of (business) models that that will better meet market demand, including any factors unique to specific markets, such as geographic location (e.g., be urban, suburban or rural). To bring supply and demand closer together, ACL seeks new approaches that will disrupt current business models which has been driving much of the industry.
@@ -141,25 +143,32 @@ judging: >-
   * Innovation (30 percent) 
 
     * Does the proposed solution utilize innovative approaches, services or interventions to create a change?
-    * Can the proposed solution be used in diverse settings? 
     * Does the proposed solution have the potential to revolutionize DSP business models? 
   * Relevance (25 percent)
 
     * Does the proposed solution address a relevant area related to the DSP crisis?
     * Does the proposed solution address sustainability? 
-    * Were a broad range of stakeholders included in the development of the proposed solution? (I.e. DSPs, state agencies, businesses, people who use DSPs, underserved populations, etc.)
+    * Were a broad range of stakeholders included in the development of the proposed solution? (i.e. DSPs, state agencies, businesses, people who use DSPs, underserved populations, etc.)
     * Were people who use DSPs a guiding force in the development of the solution?
   * Impact (20 percent)
 
-    * Does the proposed solution have clear deliverable(s) with a possible timeline?
-    * Does the proposed solution include long term outcome measures? 
+    * Can the proposed solution be used in diverse settings? 
+    * Does the proposed solution demonstrate a potential to impact any of the following:
+
+      * Achieving a better balance of the supply and demand of qualified DSPs.
+      * Achieving better rates of retention through incentives, advancement, career paths, etc.
+      * Addressing any real and measurable barriers such as geographic (e.g., rural vs urban, etc.), transportation, and training.
+      * Redefining career development requirements and pathways using non-traditional methods.
+      * Improving the stability of the HCBS system and outcomes for individuals with ID/DD.
   * Feasibility (10 percent)
 
-    * Is the proposed solution reasonable, resourceful, and feasible? 
-    * Does the proposed solution improve the existing initiatives, strategies, and networks as it relates to the DSP crisis? 
+    * Is the proposed solution reasonable and feasible to implement?
+    * Does the proposed solution make appropriate use of resources?
+    * Does the proposed solution have the potential to function within existing HSBS systems? 
+    * Does the proposed solution address the potential for sustainability?
   * Partnerships/Collaborations (15 percent)
 
-    * Does the solution include relevant partnerships and/or collaborations to address the DSP crisis? (i.e. MOUs, Letters of Commitment, etc.)
+    * Does the solution include relevant partnerships and/or collaborations to address the DSP crisis including outreach to develop a business commitment in Round 2? (i.e. Memorandums Of Understanding, Letters of Commitment, etc.)
 how-to-enter: >-
   Submissions to the Blazing New Trails for Community Based Direct Support
   Professionals prize competition can be completed via email. Participating
@@ -257,15 +266,16 @@ There are multiple drivers behind a perpetual and growing demand that outpaces s
 * Changes in the overall U.S. labor force and economy and,
 * The failure to create an occupation of direct support with sufficient pay, benefits, training, career trajectories and status to recruit and retain a stable, skilled workforce. 
 
-ACL is looking for innovative models that: 
+ACL is looking for innovative ideas that:
 
-* Create a better balance of the supply and demand of qualified DSPs.
+* Create a better balance of the supply and demand of qualified DSP's
 * Achieve better rates of retention through incentives, advancement, career paths, etc.
 * Factor in and address any real and measurable barriers such as geographic (e.g., rural vs urban, etc.), transportation, and training.
 * Redefine career development requirements and pathways using non-traditional methods.
 * Include individuals from the ID/DD community throughout the development and testing of models.
 * Include a business commitment to implement the model for Round 2 (small scale testing) of the challenge.
 * Lead to improved stability of the HCBS system and outcomes for individuals with ID/DD.
+* Provide a more innovative business model than the current standard.
 
 To better balance the supply of qualified DSPs with the demand, innovations are needed that will stabilize the DSP workforce and overall quality of HCBS. This prize competition will support the rapid innovation and adoption of (business) models that that will better meet market demand, including any factors unique to specific markets, such as geographic location (e.g., be urban, suburban or rural). To bring supply and demand closer together, ACL seeks new approaches that will disrupt current business models which has been driving much of the industry.
 
@@ -318,25 +328,32 @@ The proposed solution should address the following expectations:
 * Innovation (30 percent) 
 
   * Does the proposed solution utilize innovative approaches, services or interventions to create a change?
-  * Can the proposed solution be used in diverse settings? 
   * Does the proposed solution have the potential to revolutionize DSP business models? 
 * Relevance (25 percent)
 
   * Does the proposed solution address a relevant area related to the DSP crisis?
   * Does the proposed solution address sustainability? 
-  * Were a broad range of stakeholders included in the development of the proposed solution? (I.e. DSPs, state agencies, businesses, people who use DSPs, underserved populations, etc.)
+  * Were a broad range of stakeholders included in the development of the proposed solution? (i.e. DSPs, state agencies, businesses, people who use DSPs, underserved populations, etc.)
   * Were people who use DSPs a guiding force in the development of the solution?
 * Impact (20 percent)
 
-  * Does the proposed solution have clear deliverable(s) with a possible timeline?
-  * Does the proposed solution include long term outcome measures? 
+  * Can the proposed solution be used in diverse settings? 
+  * Does the proposed solution demonstrate a potential to impact any of the following:
+
+    * Achieving a better balance of the supply and demand of qualified DSPs.
+    * Achieving better rates of retention through incentives, advancement, career paths, etc.
+    * Addressing any real and measurable barriers such as geographic (e.g., rural vs urban, etc.), transportation, and training.
+    * Redefining career development requirements and pathways using non-traditional methods.
+    * Improving the stability of the HCBS system and outcomes for individuals with ID/DD.
 * Feasibility (10 percent)
 
-  * Is the proposed solution reasonable, resourceful, and feasible? 
-  * Does the proposed solution improve the existing initiatives, strategies, and networks as it relates to the DSP crisis? 
+  * Is the proposed solution reasonable and feasible to implement?
+  * Does the proposed solution make appropriate use of resources?
+  * Does the proposed solution have the potential to function within existing HSBS systems? 
+  * Does the proposed solution address the potential for sustainability?
 * Partnerships/Collaborations (15 percent)
 
-  * Does the solution include relevant partnerships and/or collaborations to address the DSP crisis? (i.e. MOUs, Letters of Commitment, etc.)
+  * Does the solution include relevant partnerships and/or collaborations to address the DSP crisis including outreach to develop a business commitment in Round 2? (i.e. Memorandums Of Understanding, Letters of Commitment, etc.)
 
 ### How to Enter
 
