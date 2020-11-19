@@ -250,7 +250,7 @@ how-to-enter: >-
 
   The cover page and proposed solution should be submitted in Adobe Acrobat® PDF format that is accessible and Section 508 compliant. Instructions on submitting accessible deliverables are provided via <https://www.section508.gov/create>. Alternative formats will not be accepted.
 ---
-### Description
+### Description  
 
 The Administration for Community Living (ACL), U.S. Department of Health and Human Services (HHS) is announcing a competition to strengthen the Direct Support Professional (DSP) workforce and overall stability of home and community based services (HCBS) for individuals with intellectual and developmental disabilities (ID/DD).  To achieve this, the *Blazing New Trails for Community Based Direct Support Professionals* challenge seeks to engage the marketplace to innovate, pilot, and expand innovations that will transform the DSP workforce.
 
