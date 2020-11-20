@@ -19,7 +19,7 @@ fiscal-year: FY21, FY22
 legal-authority: America COMPETES Act
 challenge-manager: Melvenia Wright
 challenge-manager-email: Melvenia.wright@acl.hhs.gov
-point-of-contact: melvenia.wright@acl.hhs.gov
+point-of-contact: DSPprizechallenge@acl.hhs.gov
 description: >-
   The Administration for Community Living (ACL), U.S. Department of Health and
   Human Services (HHS) is announcing a competition to strengthen the Direct
