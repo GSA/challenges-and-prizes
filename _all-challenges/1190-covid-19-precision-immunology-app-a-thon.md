@@ -6,7 +6,7 @@ permalink: /challenge/covid19-precision-immunology-app-a-thon/
 challenge-id: "1190"
 status: open
 sidenav: false
-card-image: /assets/netlify-uploads/covid-19-precision-immunology-graphic_v02_sized.jpg
+card-image: /assets/netlify-uploads/covid-19-precision-immunology-graphic_v02_resize.jpg
 agency-logo: /assets/netlify-uploads/FDA_blue_logo.png
 tagline: Enhance informatics analysis tools and develop innovative applications
   and pipelines that will illuminate the relationship between personalized
