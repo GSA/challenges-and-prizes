@@ -14,7 +14,7 @@ total-prize-offered-cash: $310,000
 type-of-challenge:
   - Ideas
 submission-start: 2020/11/20 5:00 PM
-submission-end: 2021/02/21 11:59 PM
+submission-end: 2021/02/22 11:59 PM
 fiscal-year: FY21, FY22
 legal-authority: America COMPETES Act
 challenge-manager: Melvenia Wright
@@ -136,8 +136,10 @@ rules: >-
 
   The Administration for Community Living reserves the right to cancel, suspend, and/or modify the Challenge, or any part of it, for any reason, at the Administration for Community Living’s sole discretion.
 judging: >-
-  A judging panel will evaluate all submissions. The judging panel will comprise
-  of federal staff and other technical/subject matter experts.
+  ### Judging Criteria
+
+
+  A judging panel will evaluate all submissions. The judging panel will comprise of federal staff and other technical/subject matter experts.
 
 
   The proposed solution should address the following expectations: 
@@ -169,19 +171,19 @@ judging: >-
     * Does the proposed solution make appropriate use of resources?
     * Does the proposed solution have the potential to function within existing HSBS systems? 
     * Does the proposed solution address the potential for sustainability?
+    * Does the proposed solution address the potential for scalability?
   * Partnerships/Collaborations (15 percent)
 
     * Does the solution include relevant partnerships and/or collaborations to address the DSP crisis including outreach to develop a business commitment in Round 2? (i.e. Memorandums of Understanding, Letters of Commitment, etc.)
 how-to-enter: >-
   Submissions to the Blazing New Trails for Community Based Direct Support
-  Professionals prize competition can be completed via email. Participating
-  entries must be submitted to
-  [DSPprizechallenge@acl.hhs.gov](mailto:DSPprizechallenge@acl.hhs.gov) no later
-  than Friday, February 21, 2021 by 11:59 pm Eastern Standard Time. All
-  submissions MUST be delivered in a 508 compliant pdf format. 
+  Professionals prize competition can be completed via email. 
 
 
-  An e-mail of intent to participate should be submitted no later than December 31,2020 to [DSPprizechallenge@acl.hhs.gov](mailto:DSPprizechallenge@acl.hhs.gov). The email should provide direct contact information so that any upcoming information sessions, webinars or additional supports can be shared in a timely manner.
+  An e-mail of intent to participate should be submitted no later than December 11, 2020 to [DSPprizechallenge@acl.hhs.gov](emailto:DSPprizechallenge@acl.hhs.gov). The email should provide direct contact information so that any upcoming information sessions, webinars or additional supports can be shared in a timely manner.
+
+
+  Participating entries in final format must be submitted to [DSPprizechallenge@acl.hhs.gov](mailto:DSPprizechallenge@acl.hhs.gov) no later than Monday, February 22, 2021 by 11:59 pm Eastern Standard Time. All final submissions MUST be delivered in a 508 compliant pdf format. 
 
 
   ACL seeks solutions that will create innovative models that improve the stability of the DSP workforce supporting individuals with ID/DD living in the community. Please keep in mind ~ a prize competition is NOT a federal grant or contract. You are not required to submit a budget for the competition. 
@@ -255,7 +257,7 @@ how-to-enter: >-
 
   The cover page and proposed solution should be submitted in Adobe Acrobat® PDF format that is accessible and Section 508 compliant. Instructions on submitting accessible deliverables are provided via <https://www.section508.gov/create>. Alternative formats will not be accepted.
 ---
-### Description 
+### Description
 
 The Administration for Community Living (ACL), U.S. Department of Health and Human Services (HHS) is announcing a competition to strengthen the Direct Support Professional (DSP) workforce and overall stability of home and community based services (HCBS) for individuals with intellectual and developmental disabilities (ID/DD).  To achieve this, the *Blazing New Trails for Community Based Direct Support Professionals* challenge seeks to engage the marketplace to innovate, pilot, and expand innovations that will transform the DSP workforce.
 
@@ -359,15 +361,18 @@ The proposed solution should address the following expectations:
   * Does the proposed solution make appropriate use of resources?
   * Does the proposed solution have the potential to function within existing HSBS systems? 
   * Does the proposed solution address the potential for sustainability?
+  * Does the proposed solution address the potential for scalability?
 * Partnerships/Collaborations (15 percent)
 
   * Does the solution include relevant partnerships and/or collaborations to address the DSP crisis including outreach to develop a business commitment in Round 2? (i.e. Memorandums of Understanding, Letters of Commitment, etc.)
 
 ### How to Enter
 
-Submissions to the Blazing New Trails for Community Based Direct Support Professionals prize competition can be completed via email. Participating entries must be submitted to [DSPprizechallenge@acl.hhs.gov](mailto:DSPprizechallenge@acl.hhs.gov) no later than Friday, February 21, 2021 by 11:59 pm Eastern Standard Time. All submissions MUST be delivered in a 508 compliant pdf format. 
+Submissions to the Blazing New Trails for Community Based Direct Support Professionals prize competition can be completed via email. 
 
-An e-mail of intent to participate should be submitted no later than December 31,2020 to [DSPprizechallenge@acl.hhs.gov](mailto:DSPprizechallenge@acl.hhs.gov). The email should provide direct contact information so that any upcoming information sessions, webinars or additional supports can be shared in a timely manner.
+An e-mail of intent to participate should be submitted no later than December 11, 2020 to [DSPprizechallenge@acl.hhs.gov](emailto:DSPprizechallenge@acl.hhs.gov). The email should provide direct contact information so that any upcoming information sessions, webinars or additional supports can be shared in a timely manner.
+
+Participating entries in final format must be submitted to [DSPprizechallenge@acl.hhs.gov](mailto:DSPprizechallenge@acl.hhs.gov) no later than Monday, February 22, 2021 by 11:59 pm Eastern Standard Time. All final submissions MUST be delivered in a 508 compliant pdf format. 
 
 ACL seeks solutions that will create innovative models that improve the stability of the DSP workforce supporting individuals with ID/DD living in the community. Please keep in mind ~ a prize competition is NOT a federal grant or contract. You are not required to submit a budget for the competition. 
 
