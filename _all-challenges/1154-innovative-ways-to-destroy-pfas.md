@@ -4,7 +4,7 @@ challenge-title: Innovative Ways to Destroy PFAS
 layout: front-matter-data-markdownify-content
 permalink: /challenge/Innovative-Ways-To-Destroy-PFAS/
 challenge-id: "1154"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/final_pfas-challenge-icon_341x160px.png
 agency-logo: /assets/netlify-uploads/256px-Environmental_Protection_Agency_logo.png
@@ -22,8 +22,8 @@ total-prize-offered-cash: $50,000
 type-of-challenge:
   - Ideas
   - Scientific
-submission-start: 2020/08/25 07:00 AM
-submission-end: 2020/11/23 11:59 PM
+submission-start: 08/25/2020 07:00 AM
+submission-end: 11/23/2020 11:59 PM
 fiscal-year: FY20, FY21
 legal-authority: Other
 challenge-manager: Mark Higuchi
