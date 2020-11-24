@@ -105,6 +105,35 @@ rules: >-
   Monetary prizes and recognition will be distributed based on the evaluated final demonstration at demo day, divided based on the number of overall participants. Teams that accept and complete the entire tech sprint are eligible for these awards.
 
 
+  **Eligibility**
+
+
+  To be eligible to win a prize under this competition, an individual, group, or entity:
+
+
+  1. Shall have registered to participate in the competition under the rules promulgated by VA;
+
+  2. Shall have complied with all the requirements under this section;
+
+  3. In the case of a private entity, shall be incorporated in and maintain a primary place of business in the United States, and in the case of an individual, whether participating singly or in a group, shall be a citizen or permanent resident of the United States;
+
+  4. May not be a Federal entity or Federal employee acting within the scope of their employment (all non-VA Federal employees must consult with their agency Ethics Official to determine whether the Federal ethics rules will limit or prohibit the acceptance of a COMPETES Act prize);
+
+  5. Shall not be a Federal employee working on their applications or submissions during assigned duty hours;
+
+  6. May not be an VA employee;
+
+  7. May not be any other individual or entity associated with the development, evaluation, or administration of the competition or members of such persons’ immediate families (i.e., spouses, children, siblings, parents), and persons living in the same household as such persons, whether or not related;
+
+  8. A Federal grantee may not use Federal funds to develop submissions unless consistent with the purpose of their grant award;
+
+  9. A Federal contractor may not use Federal funds from a contract to develop COMPETES Act challenge applications or to fund efforts in support of a COMPETES Act challenge submission;
+
+  10. Shall not be deemed ineligible because the individual or entity used federal facilities or consulted with federal employees during a competition if the facilities and employees are made equitably available to all individuals and entities participating in the competition;
+
+  11. Shall not be currently on the Excluded Parties List ([https://oig.hhs.gov/exclusions/index.asp](<1. https://oig.hhs.gov/exclusions/index.asp>)).
+
+
   **Terms and Conditions**
 
 
@@ -182,6 +211,22 @@ The National AI Institute (NAII) will contact accepted teams between Dec 16 and 
 Each team will be evaluated by a combination of in-house VA subject matter experts for their particular application and members of the NAII over the course of the sprint by their ability to identify and address a need in serving Veterans. 
 
 Monetary prizes and recognition will be distributed based on the evaluated final demonstration at demo day, divided based on the number of overall participants. Teams that accept and complete the entire tech sprint are eligible for these awards.
+
+**Eligibility**
+
+To be eligible to win a prize under this competition, an individual, group, or entity:
+
+1. Shall have registered to participate in the competition under the rules promulgated by VA;
+2. Shall have complied with all the requirements under this section;
+3. In the case of a private entity, shall be incorporated in and maintain a primary place of business in the United States, and in the case of an individual, whether participating singly or in a group, shall be a citizen or permanent resident of the United States;
+4. May not be a Federal entity or Federal employee acting within the scope of their employment (all non-VA Federal employees must consult with their agency Ethics Official to determine whether the Federal ethics rules will limit or prohibit the acceptance of a COMPETES Act prize);
+5. Shall not be a Federal employee working on their applications or submissions during assigned duty hours;
+6. May not be an VA employee;
+7. May not be any other individual or entity associated with the development, evaluation, or administration of the competition or members of such persons’ immediate families (i.e., spouses, children, siblings, parents), and persons living in the same household as such persons, whether or not related;
+8. A Federal grantee may not use Federal funds to develop submissions unless consistent with the purpose of their grant award;
+9. A Federal contractor may not use Federal funds from a contract to develop COMPETES Act challenge applications or to fund efforts in support of a COMPETES Act challenge submission;
+10. Shall not be deemed ineligible because the individual or entity used federal facilities or consulted with federal employees during a competition if the facilities and employees are made equitably available to all individuals and entities participating in the competition;
+11. Shall not be currently on the Excluded Parties List ([https://oig.hhs.gov/exclusions/index.asp](<1. https://oig.hhs.gov/exclusions/index.asp>)).
 
 **Terms and Conditions**
 
