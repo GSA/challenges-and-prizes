@@ -89,7 +89,7 @@ prizes: >-
 
   * Follow-on agreement for limited use of one or more completed prototypes in the VA environment for test purposes for a minimum of up to one year; as authorized by applicable law and VA or VA component policy.
 
-  * Follow-on production purchase agreement in accordance with FAR Part 6.302-1, FAR 6.204, Section 538 of Division F of the Consolidated Appropriations Act, 2018 (Public Law 115-141); or as otherwise authorized by applicable law and DHS or DHS component policy.
+  * Follow-on production purchase agreement in accordance with FAR Part 6.302-1, FAR 6.204, Section 538 of Division F of the Consolidated Appropriations Act, 2018 (Public Law 115-141); or as otherwise authorized by applicable law and VA or VA component policy.
 rules: >-
   To qualify for the tech sprint, fill out an application on our
   [website](https://www.research.va.gov/naii/tech-sprints.cfm) and submit by the
