@@ -4,7 +4,7 @@ challenge-title: Partners Engaged in Extramural Reporting (PEER)
 layout: front-matter-data-markdownify-content
 permalink: /challenge/partners-engaged-in-extramural-reporting/
 challenge-id: "1186"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/peer-logo-1-.jpg
 agency-logo: /assets/netlify-uploads/NIST_logo.png
@@ -16,8 +16,8 @@ total-prize-offered-cash: $10,000
 type-of-challenge:
   - Creative (multimedia & design)
   - Analytics, visualizations, algorithms
-submission-start: 2020/10/28 9:00 AM
-submission-end: 2020/11/20 5:00 PM
+submission-start: 10/28/2020 9:00 AM
+submission-end: 11/20/2020 5:00 PM
 fiscal-year: FY21
 legal-authority: America COMPETES Act
 challenge-manager: Charles Na
