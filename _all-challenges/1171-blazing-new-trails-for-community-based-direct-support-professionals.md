@@ -192,7 +192,7 @@ how-to-enter: >-
   Submissions are required to include the following components:
 
 
-  * 󠇩Cover Page
+  * Cover Page
 
   * Project Design
 
@@ -378,7 +378,7 @@ ACL seeks solutions that will create innovative models that improve the stabilit
 
 Submissions are required to include the following components:
 
-* 󠇩Cover Page
+* Cover Page
 * Project Design
 
 **Cover Page**
