@@ -169,7 +169,7 @@ judging: >-
 
     * Is the proposed solution reasonable and feasible to implement?
     * Does the proposed solution make appropriate use of resources?
-    * Does the proposed solution have the potential to function within existing HSBS systems? 
+    * Does the proposed solution have the potential to function within existing HCBS systems? 
     * Does the proposed solution address the potential for sustainability?
     * Does the proposed solution address the potential for scalability?
   * Partnerships/Collaborations (15 percent)
@@ -359,7 +359,7 @@ The proposed solution should address the following expectations:
 
   * Is the proposed solution reasonable and feasible to implement?
   * Does the proposed solution make appropriate use of resources?
-  * Does the proposed solution have the potential to function within existing HSBS systems? 
+  * Does the proposed solution have the potential to function within existing HCBS systems? 
   * Does the proposed solution address the potential for sustainability?
   * Does the proposed solution address the potential for scalability?
 * Partnerships/Collaborations (15 percent)
