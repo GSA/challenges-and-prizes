@@ -9,7 +9,7 @@ sidenav: true
 card-image: /assets/netlify-uploads/palmetto-tech-bridge_resize.png
 agency-logo: /assets/netlify-uploads/niwc-lant-logo-1-black-letters_300dpi.png
 tagline: Seeking innovative technology concepts for Robotic Process Automation
-  (RPA), as well as, Position Navigation and Timing (PNT).
+  (RPA), as well as, Position, Navigation, and Timing (PNT).
 agency: Naval Information Warfare Center (NIWC), Atlantic
 total-prize-offered-cash: $20,000
 type-of-challenge:
@@ -24,9 +24,10 @@ challenge-manager: Don Sallee
 challenge-manager-email: donald.sallee@navy.mil
 point-of-contact: ptbsubmissions.fct@navy.mil
 description: >-
-  
-
-  The NIWC Atlantic Palmetto Tech Prize Challenge is seeking submissions for the following two topics. This prize challenge is under 10 USC § 2374a and is considered an independent effort.  However, the results of this prize challenge may result in an additional follow-on acquisition opportunity.
+  The NIWC Atlantic Palmetto Tech Prize Challenge is seeking submissions for the
+  following two topics. This prize challenge is under 10 USC § 2374a and is
+  considered an independent effort.  However, the results of this prize
+  challenge may result in an additional follow-on acquisition opportunity.
 
 
   **Topic 1: Robotic Process Automation (RPA)**
@@ -40,9 +41,9 @@ description: >-
   NIWC Atlantic is seeking RPA expertise to understand Enterprise RPA solutions that provide unattended bots that can be scheduled or triggered based on input received.  An unattended, Enterprise RPA solution will allow NIWC Atlantic to achieve the true value RPA provides, enabling us to focus our human capital towards more analytical, innovative, and meaningful work.  The unattended RPA solution would require DoD PKI credentials to operate within our environments and will need to be able to operate on the Navy Marine Corp Intranet (NMCI) network where all of our work is executed.  The NMCI network is a DoD approved network with stringent security requirements and software application approvals that will need to be factored into potential solutions.
 
 
-  **Topic 2: Position Navigation and Timing (PNT)**
+  **Topic 2: Position, Navigation, and Timing (PNT)**
 
-  The Marine Corps seeks an alternative strategy to provide Position Navigation and Timing (PNT) inputs in environments where input may not be available or not as reliable from the Global Positioning Satellite (GPS) constellation. Any viable alternative must operate under conditions where radio frequency PNT signals are temporarily or permanently denied, degraded, or unreliable. Ability to overcome additional constraints of the operating environment (such as environments indoors, underground, or where radio frequency signals cannot be received) is also of value. Ideal solutions should be able to support diverse use cases in support of small, mobile systems, including dismounted Marines using an alternative PNT data input to locate and track oneself, and others (by feeding such input into a network). Use cases include individuals/units navigating within a building or across large geographic areas, and using alternative PNT data input to locate and track individuals, small unmanned surface, subsurface, or air vehicles.
+  The Marine Corps seeks an alternative strategy to provide Position, Navigation, and Timing (PNT) inputs in environments where input may not be available or not as reliable from the Global Positioning Satellite (GPS) constellation. Any viable alternative must operate under conditions where radio frequency PNT signals are temporarily or permanently denied, degraded, or unreliable. Ability to overcome additional constraints of the operating environment (such as environments indoors, underground, or where radio frequency signals cannot be received) is also of value. Ideal solutions should be able to support diverse use cases in support of small, mobile systems, including dismounted Marines using an alternative PNT data input to locate and track oneself, and others (by feeding such input into a network). Use cases include individuals/units navigating within a building or across large geographic areas, and using alternative PNT data input to locate and track individuals, small unmanned surface, subsurface, or air vehicles.
 
 
   **The Challenge will go through a two-stage judging process.** 
@@ -332,8 +333,8 @@ In Fiscal Year 2020 (FY20), NIWC Atlantic began developing attended bots for a f
 
 NIWC Atlantic is seeking RPA expertise to understand Enterprise RPA solutions that provide unattended bots that can be scheduled or triggered based on input received.  An unattended, Enterprise RPA solution will allow NIWC Atlantic to achieve the true value RPA provides, enabling us to focus our human capital towards more analytical, innovative, and meaningful work.  The unattended RPA solution would require DoD PKI credentials to operate within our environments and will need to be able to operate on the Navy Marine Corp Intranet (NMCI) network where all of our work is executed.  The NMCI network is a DoD approved network with stringent security requirements and software application approvals that will need to be factored into potential solutions.
 
-**Topic 2: Position Navigation and Timing (PNT)**
-The Marine Corps seeks an alternative strategy to provide Position Navigation and Timing (PNT) inputs in environments where input may not be available or not as reliable from the Global Positioning Satellite (GPS) constellation. Any viable alternative must operate under conditions where radio frequency PNT signals are temporarily or permanently denied, degraded, or unreliable. Ability to overcome additional constraints of the operating environment (such as environments indoors, underground, or where radio frequency signals cannot be received) is also of value. Ideal solutions should be able to support diverse use cases in support of small, mobile systems, including dismounted Marines using an alternative PNT data input to locate and track oneself, and others (by feeding such input into a network). Use cases include individuals/units navigating within a building or across large geographic areas, and using alternative PNT data input to locate and track individuals, small unmanned surface, subsurface, or air vehicles.
+**Topic 2: Position, Navigation, and Timing (PNT)**
+The Marine Corps seeks an alternative strategy to provide Position, Navigation, and Timing (PNT) inputs in environments where input may not be available or not as reliable from the Global Positioning Satellite (GPS) constellation. Any viable alternative must operate under conditions where radio frequency PNT signals are temporarily or permanently denied, degraded, or unreliable. Ability to overcome additional constraints of the operating environment (such as environments indoors, underground, or where radio frequency signals cannot be received) is also of value. Ideal solutions should be able to support diverse use cases in support of small, mobile systems, including dismounted Marines using an alternative PNT data input to locate and track oneself, and others (by feeding such input into a network). Use cases include individuals/units navigating within a building or across large geographic areas, and using alternative PNT data input to locate and track individuals, small unmanned surface, subsurface, or air vehicles.
 
 **The Challenge will go through a two-stage judging process.** 
 
