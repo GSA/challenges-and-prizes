@@ -4,7 +4,7 @@ challenge-title: Rethink Adult Ed Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/rethink-adult-ed-challenge/
 challenge-id: "1168"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/challenge.gov_rethink-adult-ed-challenge_logo-1-.png
 agency-logo: /assets/netlify-uploads/Department_of_Education.png
@@ -14,8 +14,8 @@ agency: "U.S. Department of Education "
 total-prize-offered-cash: $750,000
 type-of-challenge:
   - Ideas
-submission-start: 2020/09/24 09:00 AM
-submission-end: 2020/11/25 11:59 PM
+submission-start: 09/24/2020 09:00 AM
+submission-end: 11/25/2020 11:59 PM
 fiscal-year: FY20, FY21
 legal-authority: Other
 challenge-manager: Carolyn Lampila
