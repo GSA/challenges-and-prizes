@@ -4,7 +4,7 @@ challenge-title: Next Gen Fertilizer Innovation Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/next-gen-fertilizer-innovations-challenge/
 challenge-id: "1147"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/next-gen-fertilizer-challenges_341x160-1-.png
 agency-logo: /assets/netlify-uploads/epa_usda_logos_v2.jpg
@@ -21,8 +21,8 @@ total-prize-offered-cash: $65,000
 type-of-challenge:
   - Ideas
   - Scientific
-submission-start: 2020/08/26 9:00 AM
-submission-end: 2020/11/30 11:59 PM
+submission-start: 08/26/2020 9:00 AM
+submission-end: 11/30/2020 11:59 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Christopher Clark
