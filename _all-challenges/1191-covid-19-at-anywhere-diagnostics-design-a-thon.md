@@ -4,7 +4,7 @@ challenge-title: COVID-19 At-Anywhere Diagnostics Design-a-thon
 layout: front-matter-data-markdownify-content
 permalink: /challenge/covid19_at_anywhere_diagnostics_designathon/
 challenge-id: "1191"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/covid-19-design-a-thon-logo.png
 agency-logo: /assets/netlify-uploads/hhs.png
@@ -19,8 +19,8 @@ type-of-challenge:
   - Technology demonstration and hardware
   - Analytics, visualizations, algorithms
   - Scientific
-submission-start: 2020/11/16 8:30 AM
-submission-end: 2020/11/29 11:59 PM
+submission-start: 11/16/2020 8:30 AM
+submission-end: 11/29/2020 11:59 PM
 fiscal-year: FY21
 legal-authority: Other
 challenge-manager: Kristen Honey
