@@ -115,7 +115,7 @@ rules: >-
   4. A setup guide (document). See Submission Requirements below for the specifics of each submission component.
 
 
-  Phase 1 will be used to identify the most promising candidate technologies that will be selected for and advanced to Phase 2 evaluation. These selections will be based on the technology’s White-paper document plus the Overview and Demonstration videos. SOAR tool submitters must be available during Phase 1 for any questions by the U.S. Navy and Oak Ridge National Laboratory (ORNL) teams.
+  Phase 1 will be used to identify the most promising candidate technologies that will be selected for and advanced to Phase 2 evaluation. These selections will be based on the technology’s Whitepaper document plus the Overview and Demonstration videos. SOAR tool submitters must be available during Phase 1 for any questions by the U.S. Navy and Oak Ridge National Laboratory (ORNL) teams.
 
 
   PMW 130 will notify all Contestants that advance to Phase 2 using the contact information provided in the submission. The Government, may, but is not necessarily required to, notify Contestants that do not advance.  
@@ -160,7 +160,8 @@ rules: >-
 
   This Challenge is subject to all applicable federal laws and regulations. ALL CLAIMS ARISING OUT OF OR RELATING TO THESE TERMS WILL BE GOVERNED BY THE FEDERAL LAWS AND REGULATIONS OF THE UNITED STATES OF AMERICA.
 
-  Data Rights
+
+  #### Data Rights
 
 
   NAVWARSYSCOM does not require that Participants relinquish or otherwise grant license rights to intellectual property developed or delivered under the Challenge. NAVWARSYSCOM requires sufficient data rights and intellectual property rights to use, release, display, and disclose the white paper and tool, but only to the evaluation team members, and only for purposes of evaluating the Participant submission. The evaluation team does not plan to retain entries after the Challenge is completed, but does plan to retain data and aggregate performance statistics resulting from the evaluation of those entries. By accepting these Terms and Conditions, the Participant consents to the use of data submitted to the evaluation team for these purposes.
@@ -191,6 +192,55 @@ rules: >-
 
 
   The Participant agrees to release and forever discharge any and all manner of claims, equitable adjustments, actions, suits, debts, appeals, and all other obligations of any kind, whether past or present, known or unknown, that have or may arise from, are related to or are in connection with, directly or indirectly, this Challenge or the Participant’s submission.
+judging: >-
+  #### Judging Panel
+
+
+  Both Phase 1 and Phase 2 of this Challenge will be reviewed by members of the ORNL Cybersecurity Research Group and/or U.S. Navy subject matter experts.
+
+
+  #### Judging Criteria
+
+
+  Submissions will be judged based on how they address the SOAR capability criteria below: 
+
+
+  1. Ability to ingest custom logging / alerts
+
+  2. Playbook / Workflow Use: 
+
+     * Usefulness of existing playbooks
+     * Ability of junior operators to effectively use workflows/playbooks
+     * Efficiency gains by using workflows/playbooks
+  3. Playbook / Workflow customization: 
+
+     * Easy and flexible creation of custom workflows/playbooks
+     * Shareability of workflows/playbooks
+  4. Task Automation: 
+
+     * Quickly resolving and documenting false positive alerts
+     * Ability to automate common tasks such as responding to phishing attacks and failed user logins
+     * Effectiveness of automation
+     * Efficiency gains from automation 
+  5. Documentation Automation: 
+
+     * Ability to prepopulate alert and logging data into tickets
+     * Ability to collect all needed data for elevating events to incidents and handing incident to higher tier / higher experience SOC personnel 
+  6. Ability to rank / score alerts so that analysts can easily prioritize alerts from most to least significant
+
+  7. Collaboration facilitation: 
+
+     * Shareability of in-progress and completed investigations 
+     * Real time collaboration 
+     * Asynchronous collaboration (hand offs) 
+     * Ability to provide metrics on how much time / money the SOAR tool is saving the organization
+  8. Unique features: Unique features of the SOAR tool may be considered on the basis of facilitating functionality or adding value to the SOC.
+
+
+  To select which tools will advance from Phase 1 to Phase 2, ORNL will conduct a comparative analysis of the submitted white-papers to determine how well they meet the above specified criteria. Navy SOC analysts will review the provided demonstration videos and provide feedback to ORNL on which tools they are most interested in seeing tested based on the SOAR capability criteria listed above.
+
+
+  In Phase 2, ORNL will conduct an analysis of each tool’s ability to rank alerts, ingest data (both non-standard formats and widely supported formats), facilitate playbook creation and execution, automate ticket population and common tasks, and facilitate communication between potentially geographically separated SOCs. The winner(s) will be the submission whose cumulative score across all of these areas is highest.
 ---
 ### Description
 
