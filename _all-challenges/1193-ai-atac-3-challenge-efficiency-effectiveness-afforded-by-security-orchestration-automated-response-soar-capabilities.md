@@ -26,6 +26,7 @@ legal-authority: Agency specific prize authority
 challenge-manager: John Armantrout
 challenge-manager-email: John.Armantrout@navy.mil
 point-of-contact: AIATAC.PRIZE.CHALLENGE@NAVY.MIL
+body-content-uploads: /assets/netlify-uploads/ai-atac3-whitepaper-template.docx
 description: >-
   #### General Overview
 
@@ -586,7 +587,7 @@ The submission items for both Phase 1 and Phase 2 must meet the following eligib
 
 1. **White-paper Document Submissions Requirements**
 
-   White-papers must use the submission template, located at Challenge.gov. It provides the framework for an overview of the proposed technology as well as the following elements:
+   White-papers must use the [submission template]({{site.baseurl}}/https://www.challenge.gov/assets/netlify-uploads/ai-atac3-whitepaper-template.docx), located at Challenge.gov. It provides the framework for an overview of the proposed technology as well as the following elements:
 
    * Technical approach (e.g. architecture, deployment overview, algorithm description, model description, performance requirements, endpoint footprint, existing results) including descriptions of the AI/ML components; and 
    * Benefits and novelty of the approach within the context of existing academic and commercially available technologies.
