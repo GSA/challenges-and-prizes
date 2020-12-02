@@ -8,7 +8,7 @@ permalink: /challenge/AI-ATAC-3-challenge/
 challenge-id: "1193"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/130_aiatac_final_20jun19_1200x1200.png
+card-image: /assets/netlify-uploads/webp.net-resizeimage-18-.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
 tagline: Artificial Intelligence SOAR Tools for Security Operations Center (SOC)
   Automation
@@ -20,7 +20,7 @@ type-of-challenge:
   - Technology demonstration and hardware
   - Analytics, visualizations, algorithms
 submission-start: 2020/12/10 08:00 AM
-submission-end: 2020/02/12 5:00 PM
+submission-end: 2021/02/12 5:00 PM
 fiscal-year: FY21
 legal-authority: Agency specific prize authority
 challenge-manager: John Armantrout
