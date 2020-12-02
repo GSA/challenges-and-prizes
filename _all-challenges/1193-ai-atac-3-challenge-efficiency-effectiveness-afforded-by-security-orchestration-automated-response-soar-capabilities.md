@@ -8,7 +8,7 @@ permalink: /challenge/AI-ATAC-3-challenge/
 challenge-id: "1193"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/dod_seal.jpg
+card-image: /assets/netlify-uploads/130_aiatac_final_20jun19_1200x1200.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
 tagline: Artificial Intelligence SOAR Tools for Security Operations Center (SOC)
   Automation
