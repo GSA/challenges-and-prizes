@@ -20,7 +20,7 @@ total-prize-offered-cash: $350,000
 type-of-challenge:
   - Technology demonstration and hardware
 submission-start: 2020/10/13 07:00 AM
-submission-end: 2020/12/11 11:59 PM
+submission-end: 2021/01/11 11:59 PM
 fiscal-year: FY21
 legal-authority: Agency specific prize authority
 challenge-manager: Arthur Rubio B.S.E.E, M.S.E
@@ -58,13 +58,13 @@ description: >-
 
   * Challenge Registration and Submissions Opens:  **October 13, 2020**
 
-  * Challenge Registration Deadline: **December 8, 2020**
+  * Challenge Registration Deadline: **January 11, 2021**
 
-  * Full proposal/Quad-chart & Opt. Video Presentation Deadline: **December 11, 2020**
+  * Full proposal/Quad-chart & Opt. Video Presentation Deadline: **January 11, 2021**
 
-  * Review/Down-Selection Reveal: **December 22, 2020**
+  * Review/Down-Selection Reveal: **January 18, 2021**
 
-  * Virtual Q/A Session for competitors: **January 12, 2021**
+  * Virtual Q/A Session for competitors: **January 27, 2021**
 
   * Competition Track #1 (Presentation/Demonstration): **March 8, 2021**
 
@@ -657,10 +657,10 @@ Even the best trained Fleet VI teams and the most well thought-out standard oper
 #### Key Dates
 
 * Challenge Registration and Submissions Opens:  **October 13, 2020**
-* Challenge Registration Deadline: **December 8, 2020**
-* Full proposal/Quad-chart & Opt. Video Presentation Deadline: **December 11, 2020**
-* Review/Down-Selection Reveal: **December 22, 2020**
-* Virtual Q/A Session for competitors: **January 12, 2021**
+* Challenge Registration Deadline: **January 11, 2021**
+* Full proposal/Quad-chart & Opt. Video Presentation Deadline: **January 11, 2021**
+* Review/Down-Selection Reveal: **January 18, 2021**
+* Virtual Q/A Session for competitors: **January 27, 2021**
 * Competition Track #1 (Presentation/Demonstration): **March 8, 2021**
 * Competition Track #2 (Presentation/Demonstration): **March 9, 2021**
 * Final Judging (Start/Competition): **March 10-11, 2021** 
