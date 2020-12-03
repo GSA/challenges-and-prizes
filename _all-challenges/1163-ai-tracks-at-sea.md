@@ -4,7 +4,7 @@ challenge-title: AI Tracks at Sea
 layout: front-matter-data-markdownify-content
 permalink: /challenge/AI-tracks-at-sea/
 challenge-id: "1163"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/ai_tracks_at_sea_challange_logo_v4.png
 agency-logo: /assets/netlify-uploads/don-seal_v2.png
@@ -19,8 +19,8 @@ type-of-challenge:
   - Software and apps
   - Technology demonstration and hardware
   - Analytics, visualizations, algorithms
-submission-start: 2020/10/01 03:00 AM
-submission-end: "2020/12/02 03:00 AM "
+submission-start: 10/01/2020 03:00 AM
+submission-end: "12/02/2020 03:00 AM "
 fiscal-year: FY20,FY21
 legal-authority: Agency specific prize authority
 challenge-manager: Mike Tall, Anthony Jones

@@ -17,7 +17,7 @@ total-prize-offered-cash: $500,000
 type-of-challenge:
   - Software and apps
 submission-start: 2020/07/13 12:00 PM
-submission-end: 2020/12/14 05:00 PM
+submission-end: 2021/01/06 05:00 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Ami Patel
@@ -70,7 +70,7 @@ description: >-
 
   * Form multi-stakeholder team and develop idea and concept designs that include functional enhancements, open standards, and technical specifications for enhancing health and social care integration.
 
-  * **Registration and Phase 1 Application submissions due Monday, December 14, 2020. See below for more information.**
+  * **Registration and Phase 1 Application submissions due Wednesday, January 6, 2021. See below for more information.**
 
 
   Phase 2: Proof of Concept & Demonstration (January 2021 - June 2021)
@@ -212,7 +212,7 @@ how-to-enter: >-
   **Phase 1 Submission Requirements**
 
 
-  Applications for Phase 1 of this Challenge are due by **Monday, December 14, 2020 by 05:00 PM EST**. The identified Official Representative (individual, team or legal entity) may apply for this Challenge by registering and submitting an application to <https://socialcare.innovationchallenge.com/>. The application for Phase 1 of the Challenge shall meet the following requirements:
+  Applications for Phase 1 of this Challenge are due by **Wednesday, January 6, 2021 by 05:00 PM EST**. The identified Official Representative (individual, team or legal entity) may apply for this Challenge by registering and submitting an application to <https://socialcare.innovationchallenge.com/>. The application for Phase 1 of the Challenge shall meet the following requirements:
 
 
   * All submissions must be in English using simple, straightforward and concise language.
@@ -276,7 +276,7 @@ The Challenge will compete in three phases with cash prizes awarded in each phas
 Phase 1: Concept & Design Submission (July - December 2020)
 
 * Form multi-stakeholder team and develop idea and concept designs that include functional enhancements, open standards, and technical specifications for enhancing health and social care integration.
-* **Registration and Phase 1 Application submissions due Monday, December 14, 2020. See below for more information.**
+* **Registration and Phase 1 Application submissions due Wednesday, January 6, 2021. See below for more information.**
 
 Phase 2: Proof of Concept & Demonstration (January 2021 - June 2021)
 
@@ -381,7 +381,7 @@ The Judging Panel will be composed of federal and/or other technical and subject
 
 **Phase 1 Submission Requirements**
 
-Applications for Phase 1 of this Challenge are due by **Monday, December 14, 2020 by 05:00 PM EST**. The identified Official Representative (individual, team or legal entity) may apply for this Challenge by registering and submitting an application to <https://socialcare.innovationchallenge.com/>. The application for Phase 1 of the Challenge shall meet the following requirements:
+Applications for Phase 1 of this Challenge are due by **Wednesday, January 6, 2021 by 05:00 PM EST**. The identified Official Representative (individual, team or legal entity) may apply for this Challenge by registering and submitting an application to <https://socialcare.innovationchallenge.com/>. The application for Phase 1 of the Challenge shall meet the following requirements:
 
 * All submissions must be in English using simple, straightforward and concise language.
 * Solvers must not use HHS, ACL, or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement
