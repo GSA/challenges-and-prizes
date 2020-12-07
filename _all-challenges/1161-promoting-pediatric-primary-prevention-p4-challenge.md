@@ -16,7 +16,7 @@ type-of-challenge:
   - Software and apps
   - Ideas
   - Technology demonstration and hardware
-submission-start: 2020/12/08 09:00 AM
+submission-start: 2021/01/18 09:00 AM
 submission-end: 2021/03/15 5:00 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
