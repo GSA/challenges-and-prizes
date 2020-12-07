@@ -78,19 +78,23 @@ prizes: >-
   Participant Cash Prizes in each of the ten discrete contests, at each of the
   ten regional events:</em> $1,000 x 100 = $100,000</p> <p><strong><em>Total
   Regional Cash Prizes:</em> $350,000</strong></p> </div> </div>
-  <div><strong>Participant Prizes Announced</strong></div> <div> <ul>
-  <li>&nbsp;<a
-  href="https://www.techtoprotectchallenge.org/november-tech-to-protect-challenge-winners-announced-30-teams-recognized-at-nationwide-regional-codeathons-held-nov/"
-  target="_blank" rel="noopener"
-  data-saferedirecturl="https://www.google.com/url?q=https://www.techtoprotectchallenge.org/november-tech-to-protect-challenge-winners-announced-30-teams-recognized-at-nationwide-regional-codeathons-held-nov/&amp;source=gmail&amp;ust=1574165702057000&amp;usg=AFQjCNFhqaiWC-sKHyQmQnPxMTCbeHFU_g">NIST
-  PSCR Awards $180,000 at Tech to Protect Challenge November Codeathons</a></li>
-  <li><a
-  href="https://www.techtoprotectchallenge.org/september-tech-to-protect-challenge-winners-announced/"
-  target="_blank" rel="noopener"
-  data-saferedirecturl="https://www.google.com/url?q=https://www.techtoprotectchallenge.org/september-tech-to-protect-challenge-winners-announced/&amp;source=gmail&amp;ust=1574165702057000&amp;usg=AFQjCNHIW36QOy1X74vuGIux7hYueVNK2w">September
-  Tech to Protect Challenge Winners Announced</a></li> </ul> </div>
+  <div><strong>Participant Prizes Announced</strong></div> 
 
-  <div> <h4 class="text-primary">Prizes Anticipated for the Online & National Awards Event Contests</h4> <p><strong>Finalist solutions will be given an adjectival rating corresponding to a cash prize</strong></p> <p><em>Excellent:</em>&nbsp;&nbsp; $40,000 x 4&nbsp;&nbsp; = $160,000</p> <p><em>Superior:&nbsp;</em>&nbsp;&nbsp; $20,000 x 5&nbsp;&nbsp; = $100,000</p> <p><em>Very Good:</em>&nbsp;$15,000 x 6&nbsp;&nbsp; = $75,000</p> <p><em>Good:</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $10,000 x 10 = $100,000</p> <p><em>Unacceptable:</em> no cash prize</p> <p><em>Seed and Progress Contest Awards:</em>&nbsp;$100,000 x 12 = $1,200,000</p> <p><em><strong>Total National Cash &amp; Non-Cash Prizes:&nbsp;$1,635,000</strong></em></p> </div>
+
+  * [13 Teams Recognized at Nationwide Regional Codeathons held Sept. 27 - 29, 2019 ](https://www.nist.gov/ctl/pscr/tech-protect-challenge-september-winners)
+
+  * [30 Teams Named Winners at Regional Events Held Nov. 1-3, 2019](https://www.nist.gov/ctl/tech-protect-challenge-november-winners) 
+
+  * [25 Teams Invited to National Award Event Held May 1, 2020](<* https://www.nist.gov/system/files/documents/2020/03/31/TTP_NAE_Finalists_20200324.pdf>) 
+
+  * [PSCR Awards More Than $800K to Tech to Protect Contestants](https://www.nist.gov/news-events/news/2020/05/pscr-awards-more-800k-tech-protect-contestants) 
+
+  * [Nearly $500K Awarded to Tech to Protect Finalists](https://www.nist.gov/news-events/news/2020/12/nearly-500k-awarded-tech-protect-finalists) 
+
+  * [Learn More about each of the Tech to Protect Contestants and their work](https://www.nist.gov/ctl/pscr/open-innovation-prize-challenges/current-and-upcoming-prize-challenges/2019-tech-protect)  
+
+
+  <div> <h4 class="text-primary">Prizes Anticipated for the Online & National Awards Event Contests</h4> <p><strong>Finalist solutions will be given an adjectival rating corresponding to a cash prize</strong></p> <p><em>Excellent:</em>&nbsp;&nbsp; $40,000 x 4&nbsp;&nbsp; = $160,000</p> <p><em>Superior:&nbsp;</em>&nbsp;&nbsp; $20,000 x 5&nbsp;&nbsp; = $100,000</p> <p><em>Very Good</em>&nbsp;$15,000 x 6&nbsp;&nbsp; = $75,000</p> <p><em>Good:</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $10,000 x 10 = $100,000</p> <p><em>Unacceptable:</em> no cash prize</p> <p><em>Seed and Progress Contest Awards:</em>&nbsp;$100,000 x 12 = $1,200,000</p> <p><em><strong>Total National Cash &amp; Non-Cash Prizes:&nbsp;$1,635,000</strong></em></p> </div>
 rules: <div class="description"> <p>Below are the rules on eligibility and
   submissions, as well as additional terms and conditions. Please read&nbsp; the
   original <a href="{{ site.baseurl
@@ -527,12 +531,6 @@ submission-link: null
           </div>
           </div>
 <div><strong>Participant Prizes Announced</strong></div>
-<div>
-<ul>
-<li>&nbsp;<a href="https://www.techtoprotectchallenge.org/november-tech-to-protect-challenge-winners-announced-30-teams-recognized-at-nationwide-regional-codeathons-held-nov/" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://www.techtoprotectchallenge.org/november-tech-to-protect-challenge-winners-announced-30-teams-recognized-at-nationwide-regional-codeathons-held-nov/&amp;source=gmail&amp;ust=1574165702057000&amp;usg=AFQjCNFhqaiWC-sKHyQmQnPxMTCbeHFU_g">NIST PSCR Awards $180,000 at Tech to Protect Challenge November Codeathons</a></li>
-<li><a href="https://www.techtoprotectchallenge.org/september-tech-to-protect-challenge-winners-announced/" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://www.techtoprotectchallenge.org/september-tech-to-protect-challenge-winners-announced/&amp;source=gmail&amp;ust=1574165702057000&amp;usg=AFQjCNHIW36QOy1X74vuGIux7hYueVNK2w">September Tech to Protect Challenge Winners Announced</a></li>
-</ul>
-</div>   
 
 * [13 Teams Recognized at Nationwide Regional Codeathons held Sept. 27 - 29, 2019 ](https://www.nist.gov/ctl/pscr/tech-protect-challenge-september-winners)
 * [30 Teams Named Winners at Regional Events Held Nov. 1-3, 2019](https://www.nist.gov/ctl/tech-protect-challenge-november-winners) 
@@ -541,7 +539,7 @@ submission-link: null
 * [Nearly $500K Awarded to Tech to Protect Finalists](https://www.nist.gov/news-events/news/2020/12/nearly-500k-awarded-tech-protect-finalists) 
 * [Learn More about each of the Tech to Protect Contestants and their work](https://www.nist.gov/ctl/pscr/open-innovation-prize-challenges/current-and-upcoming-prize-challenges/2019-tech-protect)  
 
-<!-- Rules start -->
+  <!-- Rules start -->
 
 ### Rules
 
