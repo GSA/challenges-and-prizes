@@ -3,7 +3,7 @@ challenge-title: Tech to Protect Challenge
 layout: front-matter-data
 permalink: /challenge/tech-to-protect-challenge/
 challenge-id: 1018
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/TechtoProtect-NEW-logo.jpg
 agency-logo: NIST_logo.png
@@ -14,8 +14,8 @@ partners-non-federal: null
 external-url: null
 total-prize-offered-cash: $2,200,000
 type-of-challenge: software and apps
-submission-start: 2019/06/01 12:00 PM
-submission-end: 2019/11/16 03:00 AM
+submission-start: 06/01/2019 12:00 PM
+submission-end: 11/16/2019 03:00 AM
 fiscal-year: FY19, FY20
 legal-authority: America COMPETES Act
 challenge-manager: Craig Connelly
