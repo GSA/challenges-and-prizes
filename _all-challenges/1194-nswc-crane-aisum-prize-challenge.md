@@ -515,7 +515,7 @@ Reference herein to any specific commercial products, process, or service by tra
 
 **Availability of Funds.** The Government’s obligation for prizes under 10USC2374a is subject to availability of appropriated funds from which payment for prize purposes can be made. No legal liability on the part of the Government for any payment of prizes may arise unless appropriated funds are available to the United States Navy for such purposes.
 
-### Judging
+### Judging Criteria
 
 **Judging Panel**
 
