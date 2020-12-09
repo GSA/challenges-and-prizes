@@ -27,10 +27,11 @@ challenge-manager-email: marissa.wagler@navy.mil
 point-of-contact: marissa.wagler@navy.mil
 description: >-
   Artificial Intelligence for Small Unit Maneuver (AISUM) combines Naval
-  Expeditionary Warfare and SOF tactical maneuver elements with Robotic
-  Autonomous Systems (RAS) to create a low risk human machine maneuver element
-  that gains, maintains and extends access in complex, contested and congested
-  areas, providing a decisive advantage and precision application of effects.
+  Expeditionary Warfare and Special Operations Forces (SOF) tactical maneuver
+  elements with Robotic Autonomous Systems (RAS) to create a low risk human
+  machine maneuver element that gains, maintains and extends access in complex,
+  contested and congested areas, providing a decisive advantage and precision
+  application of effects.
 
 
   Over the past 20 years the SOF community perfected the combination of its tactical maneuver elements and small arms precision fire with overhead unmanned and remotely piloted airborne Intelligence, Surveillance, and Reconnaissance (ISR) in its aerial delivered strike to precisely find, fix and finish networked threats. However, these non-state actors mostly operated in a two-dimensional battlespace that was mainly rural and urban sprawl, with little to no access to Electronic Warfare (EW) tools. 
@@ -125,7 +126,7 @@ description: >-
 
     * Opens Dec. 10, 2020
     * Closes Jan. 29, 2021
-    * NSWC Crane Project Talks: Dec. 17, 2020 (**A virtual panel will be available to answer questions related to the challenge.gov posting and the Prize Challenge-time TBD**)
+    * NSWC Crane Project Talks: Dec. 17, 2020 (**A virtual panel will be available to answer questions related to the challenge.gov posting and the Prize Challenge from 1300-1500 ET**)
   * Evaluation period 10-14 calendar days 
 
   * Virtual presentation 14 calendar days
@@ -144,7 +145,7 @@ description: >-
   ***Phase III***
 
 
-  * Live event at MUTC 4-5 calendar days 
+  * Live event at Muscatatuck Urban Training Center (MUTC) 4-5 calendar days 
 
   * Complete internal documentation/obtain approval after final evaluation: 7-10 days
 prizes: >-
@@ -158,11 +159,11 @@ prizes: >-
   **Prize Breakdown**
 
 
-  Phase I – No prize purse
+  * Phase I – No prize purse
 
-  Phase II – Prize purse up to $250,000 will be disbursed among the winners
+  * Phase II – Prize purse up to $250,000 will be disbursed among the winners
 
-  Phase III – No prize purse (subject to availability of funds; the Government expects the prize purse to increase to $500,000 for Phase III)
+  * Phase III – No prize purse (subject to availability of funds; the Government expects the prize purse to increase to $500,000 for Phase III)
 rules: >-
   **Eligibility Requirements** 
 
@@ -304,12 +305,12 @@ judging: >-
   If multiple technologies of similar type or category are submitted, the review panel may choose the most advantageous solution(s) within each type or category to continue competing in the prize challenge. The Government selection will be based on a comparative evaluation of participants proposed solution. The Prize Selection Decision will be a subjective evaluation of all entries for each phase at completion of this challenge.
 how-to-enter: >-
   Entries for Phase I must be **submitted via email to Marissa Wagler at
-  [marissa.wagler@navy.mil](mailto:marissa.wagler@navy.mil)** by 29 January 2021
-  at 02:00 PM ET. Submissions received after the deadline may not be
+  [marissa.wagler@navy.mil](mailto:marissa.wagler@navy.mil)** on 29 January 2021
+  no later than 02:00 PM ET. Submissions received after the deadline may not be
   considered. 
 
 
-  Submissions shall reference both the challenge name and participant challenge.gov username in the subject line in the following format: **NSWC_Crane_AISUM_Prize_Challenge_Participant_Name Phase I Submission**
+  Submissions shall reference both the challenge name and participant name in the subject line in the following format: **NSWC_Crane_AISUM_Prize_Challenge_Participant_Name Phase I Submission**
 
 
   *Initial Submission of White Paper Concept*
@@ -347,7 +348,7 @@ how-to-enter: >-
 ---
 ### Description
 
-Artificial Intelligence for Small Unit Maneuver (AISUM) combines Naval Expeditionary Warfare and SOF tactical maneuver elements with Robotic Autonomous Systems (RAS) to create a low risk human machine maneuver element that gains, maintains and extends access in complex, contested and congested areas, providing a decisive advantage and precision application of effects.
+Artificial Intelligence for Small Unit Maneuver (AISUM) combines Naval Expeditionary Warfare and Special Operations Forces (SOF) tactical maneuver elements with Robotic Autonomous Systems (RAS) to create a low risk human machine maneuver element that gains, maintains and extends access in complex, contested and congested areas, providing a decisive advantage and precision application of effects.
 
 Over the past 20 years the SOF community perfected the combination of its tactical maneuver elements and small arms precision fire with overhead unmanned and remotely piloted airborne Intelligence, Surveillance, and Reconnaissance (ISR) in its aerial delivered strike to precisely find, fix and finish networked threats. However, these non-state actors mostly operated in a two-dimensional battlespace that was mainly rural and urban sprawl, with little to no access to Electronic Warfare (EW) tools. 
 
@@ -409,7 +410,7 @@ The government estimates the following timeline for the completion of the prize 
 
   * Opens Dec. 10, 2020
   * Closes Jan. 29, 2021
-  * NSWC Crane Project Talks: Dec. 17, 2020 (**A virtual panel will be available to answer questions related to the challenge.gov posting and the Prize Challenge-time TBD**)
+  * NSWC Crane Project Talks: Dec. 17, 2020 (**A virtual panel will be available to answer questions related to the challenge.gov posting and the Prize Challenge from 1300-1500 ET**)
 * Evaluation period 10-14 calendar days 
 * Virtual presentation 14 calendar days
 * Complete internal documentation/obtain approval after final evaluation: 7-10 days
@@ -421,7 +422,7 @@ The government estimates the following timeline for the completion of the prize 
 
 ***Phase III***
 
-* Live event at MUTC 4-5 calendar days 
+* Live event at Muscatatuck Urban Training Center (MUTC) 4-5 calendar days 
 * Complete internal documentation/obtain approval after final evaluation: 7-10 days
 
 ### Prizes
@@ -430,9 +431,9 @@ The total prize purse is currently $250,000, which is expected to be paid out in
 
 **Prize Breakdown**
 
-Phase I – No prize purse
-Phase II – Prize purse up to $250,000 will be disbursed among the winners
-Phase III – No prize purse (subject to availability of funds; the Government expects the prize purse to increase to $500,000 for Phase III)
+* Phase I – No prize purse
+* Phase II – Prize purse up to $250,000 will be disbursed among the winners
+* Phase III – No prize purse (subject to availability of funds; the Government expects the prize purse to increase to $500,000 for Phase III)
 
 ### Rules
 
@@ -531,9 +532,9 @@ If multiple technologies of similar type or category are submitted, the review p
 
 ### How to Enter
 
-Entries for Phase I must be **submitted via email to Marissa Wagler at [marissa.wagler@navy.mil](mailto:marissa.wagler@navy.mil)** by 29 January 2021 at 02:00 PM ET. Submissions received after the deadline may not be considered. 
+Entries for Phase I must be **submitted via email to Marissa Wagler at [marissa.wagler@navy.mil](mailto:marissa.wagler@navy.mil)** on 29 January 2021 no later than 02:00 PM ET. Submissions received after the deadline may not be considered. 
 
-Submissions shall reference both the challenge name and participant challenge.gov username in the subject line in the following format: **NSWC_Crane_AISUM_Prize_Challenge_Participant_Name Phase I Submission**
+Submissions shall reference both the challenge name and participant name in the subject line in the following format: **NSWC_Crane_AISUM_Prize_Challenge_Participant_Name Phase I Submission**
 
 *Initial Submission of White Paper Concept*
 
