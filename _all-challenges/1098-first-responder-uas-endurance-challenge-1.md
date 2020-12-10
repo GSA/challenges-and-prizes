@@ -56,7 +56,7 @@ description: >-
   #### Table A - Summary of Important Dates
 
 
-  [Summary of Important Dates]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-a-revised.jpg "Table A - Summary of Important Dates")
+  ![Summary of Important Dates]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-a-revised.jpg "Table A - Summary of Important Dates")
 
 
   NOTE: NIST reserves the right to revise the dates at any time.
