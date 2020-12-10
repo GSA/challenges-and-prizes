@@ -29,12 +29,12 @@ challenge-manager: Courtney Gustin
 challenge-manager-email: Courtney.gustin@hhs.gov
 point-of-contact: HypertensionChallenge@hhs.gov
 description: >-
-  
-
-  ### Description
+  **\*\*Important Updates:** 
 
 
-  **\*\*Important Update: The submission deadline has been extended to 1/6/2021, along with other important changes to the scoring criteria.  Please see changes below in the Key Dates and Judging Criteria sections.**
+  * **The submission deadline has been extended to 1/6/2021, along with other important changes to the scoring criteria.  Please see changes below in the Key Dates and Judging Criteria sections.**
+
+  * **There will be a webinar on Wednesday, December 16 at 2:00 pm EST to review the updated eligibility criteria and key submission dates. Click [here](https://hhs.webex.com/hhs/j.php?MTID=m477f7cdec5edbf530757d84167d1c0f0) to join.**
 
 
   The Office of the Assistant Secretary for Health (OASH), Office on Women’s Health (OWH) is seeking innovative ways to ensure women with hypertension during pregnancy and/or postpartum receive appropriate monitoring and follow-up through the HHS Hypertension Innovator Award Competition:  Innovative Methods of Blood Pressure Monitoring and Follow-up in Women during Pregnancy and/or Postpartum.
@@ -86,8 +86,12 @@ description: >-
 
     * View recording [here](https://hhs.webex.com/recordingservice/sites/hhs/recording/playback/fe5a45bfee4e4c42a4f815437568e338); Password: HypertensionWebinar3
     * View PowerPoint Slides (pdf) [here](https://files.womenshealth.gov/files/oash-owh-htn-challenge_508.pdf)
-  * Webinar: Monday, November 23, 2020, 1:00-2:00 pm EST; Join [here](https://hhs.webex.com/hhs/j.php?MTID=m4f4fdffde5c7a0fba0964d9a2bc62daf)
+  * Webinar: Monday, November 23, 2020, 1:00-2:00 pm EST
 
+  * **Webinar: Wednesday, December 16, 2020, 2:00-3:00 pm EST; Join[ here](https://hhs.webex.com/hhs/j.php?MTID=m477f7cdec5edbf530757d84167d1c0f0)**
+
+    * Meeting number (access code): 199 719 9629
+    * Meeting password: GraADfqM259 
   * Phase 1 submissions are due by January 6, 2021, 11:59 pm EST.
 
   * Judging for Phase 1 will occur from January 7, 2021 through January 14, 2021.
@@ -345,7 +349,7 @@ how-to-enter: >-
 **\*\*Important Updates:** 
 
 * **The submission deadline has been extended to 1/6/2021, along with other important changes to the scoring criteria.  Please see changes below in the Key Dates and Judging Criteria sections.**
-* **There will be a webinar on Monday, November 23 at 1:00 pm EST to review the updated eligibility criteria and key submission dates. Click [here](https://hhs.webex.com/hhs/j.php?MTID=m4f4fdffde5c7a0fba0964d9a2bc62daf) to join.**
+* **There will be a webinar on Wednesday, December 16 at 2:00 pm EST to review the updated eligibility criteria and key submission dates. Click [here](https://hhs.webex.com/hhs/j.php?MTID=m477f7cdec5edbf530757d84167d1c0f0) to join.**
 
 The Office of the Assistant Secretary for Health (OASH), Office on Women’s Health (OWH) is seeking innovative ways to ensure women with hypertension during pregnancy and/or postpartum receive appropriate monitoring and follow-up through the HHS Hypertension Innovator Award Competition:  Innovative Methods of Blood Pressure Monitoring and Follow-up in Women during Pregnancy and/or Postpartum.
 
@@ -383,7 +387,11 @@ The competition has three phases. All eligible submissions will be evaluated, an
 
   * View recording [here](https://hhs.webex.com/recordingservice/sites/hhs/recording/playback/fe5a45bfee4e4c42a4f815437568e338); Password: HypertensionWebinar3
   * View PowerPoint Slides (pdf) [here](https://files.womenshealth.gov/files/oash-owh-htn-challenge_508.pdf)
-* **Webinar: Monday, November 23, 2020, 1:00-2:00 pm EST; Join [here](https://hhs.webex.com/hhs/j.php?MTID=m4f4fdffde5c7a0fba0964d9a2bc62daf)**
+* Webinar: Monday, November 23, 2020, 1:00-2:00 pm EST
+* **Webinar: Wednesday, December 16, 2020, 2:00-3:00 pm EST; Join[ here](https://hhs.webex.com/hhs/j.php?MTID=m477f7cdec5edbf530757d84167d1c0f0)**
+
+  * Meeting number (access code): 199 719 9629
+  * Meeting password: GraADfqM259 
 * Phase 1 submissions are due by January 6, 2021, 11:59 pm EST.
 * Judging for Phase 1 will occur from January 7, 2021 through January 14, 2021.
 * Finalists that move into Phase 2 will be announced no later than January 15, 2021.
