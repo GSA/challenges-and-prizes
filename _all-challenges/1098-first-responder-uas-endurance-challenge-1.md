@@ -15,8 +15,8 @@ partners-non-federal: FIRSTNET Built with AT&T
 total-prize-offered-cash: $552,000
 type-of-challenge:
   - Technology demonstration and hardware
-submission-start: 04/01/2020 09:00 AM
-submission-end: 04/30/2020 09:00 PM
+submission-start: 2020/04/01 09:00 AM
+submission-end: 2020/12/28 09:00 PM
 fiscal-year: FY20,FY21
 legal-authority: America COMPETES Act
 challenge-manager: Terese Manley
@@ -24,8 +24,8 @@ challenge-manager-email: terese.manley@nist.gov
 point-of-contact: jshapiro@capconcorp.com
 body-content-uploads: /assets/netlify-uploads/updated-official-rules-pscr-first-responder-uas-endurance-challenge-august2020.pdf
 description: >-
-  **Stage 3 - Walk-on Contest entries will be accepted from December 4-18,
-  2020.** Visit the [Challenge
+  **The deadline for Stage 3 - Walk-on Contest entries has been extended to
+  December 28, 2020.**  Visit the [Challenge
   website](https://www.firstresponderuaschallenge.org/) for details on how to
   submit.
 
@@ -50,13 +50,13 @@ description: >-
   The National Institute of Standards and Technology (NIST) Public Safety Communications Research (PSCR) Division is hosting a 4-stage challenge, with prize awards **up to $552,000** for the top designs. There are no fees or qualifications needed to enter the first stage. The most outstanding Stage 1 conceptual designs will be eligible to participate in the remaining stages of the competition ([see Official Rules]({{site.baseurl}}/assets/netlify-uploads/updated-official-rules-pscr-first-responder-uas-endurance-challenge-august2020.pdf)).
 
 
-  **You can make a difference!** Continue reading to learn about challenge stages and details. To enter Stage 1, submit your [entry](https://www.firstresponderuaschallenge.org/) by April 30, 2020. For entry as a Walk-on for Stage 3, submit your [entry](https://www.firstresponderuaschallenge.org/) by December 18, 2020. Entries can be submitted through the Contestant Portal on the Challenge website at <https://www.firstresponderuaschallenge.org/>.
+  **You can make a difference!** Continue reading to learn about challenge stages and details. To enter Stage 1, submit your [entry](https://www.firstresponderuaschallenge.org/) by April 30, 2020. For entry as a Walk-on for Stage 3, submit your [entry](https://www.firstresponderuaschallenge.org/) by December 28, 2020. Entries can be submitted through the Contestant Portal on the Challenge website at <https://www.firstresponderuaschallenge.org/>.
 
 
   #### Table A - Summary of Important Dates
 
 
-  ![Summary of Important Dates]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-a-2-.jpg "Table A - Summary of Important Dates")
+  ![Summary of Important Dates]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-a-revised.jpg "Table A - Summary of Important Dates")
 
 
   NOTE: NIST reserves the right to revise the dates at any time.
@@ -289,7 +289,7 @@ how-to-enter: >-
 ---
 ### Description
 
-**Stage 3 - Walk-on Contest entries will be accepted from December 4-18, 2020.**  Visit the [Challenge website](https://www.firstresponderuaschallenge.org/) for details on how to submit.
+**The deadline for Stage 3 - Walk-on Contest entries has been extended to December 28, 2020.**  Visit the [Challenge website](https://www.firstresponderuaschallenge.org/) for details on how to submit.
 
 **CONGRATULATIONS TO STAGE 1 & 2 WINNERS!** See the [list of winners](https://www.firstresponderuaschallenge.org/finalists.php).  For any questions related to this Challenge email us at [psprizes@nist.gov](mailto:psprizes@nist.gov).  More details below.
 
@@ -304,11 +304,11 @@ Vertical take-off and landing (VTOL) UAS provide many different mission capabili
 
 The National Institute of Standards and Technology (NIST) Public Safety Communications Research (PSCR) Division is hosting a 4-stage challenge, with prize awards **up to $552,000** for the top designs. There are no fees or qualifications needed to enter the first stage. The most outstanding Stage 1 conceptual designs will be eligible to participate in the remaining stages of the competition [see Official Rules]({{site.baseurl}}/assets/netlify-uploads/updated-official-rules-pscr-first-responder-uas-endurance-challenge-august2020.pdf).
 
-**You can make a difference!** Continue reading to learn about challenge stages and details. To enter Stage 1, submit your [entry](https://www.firstresponderuaschallenge.org/) by April 30, 2020.  For entry as a Walk-on for Stage 3, submit your [entry](https://www.firstresponderuaschallenge.org/) by December 18, 2020. Entries can be submitted through the Contestant Portal on the Challenge website at <https://www.firstresponderuaschallenge.org/>.
+**You can make a difference!** Continue reading to learn about challenge stages and details. To enter Stage 1, submit your [entry](https://www.firstresponderuaschallenge.org/) by April 30, 2020.  For entry as a Walk-on for Stage 3, submit your [entry](https://www.firstresponderuaschallenge.org/) by December 28, 2020. Entries can be submitted through the Contestant Portal on the Challenge website at <https://www.firstresponderuaschallenge.org/>.
 
 #### Table A - Summary of Important Dates
 
-![Summary of Important Dates]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-a-2-.jpg "Table A - Summary of Important Dates")
+![Summary of Important Dates]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-a-revised.jpg "Table A - Summary of Important Dates")
 
 NOTE: NIST reserves the right to revise the dates at any time.
 
@@ -339,6 +339,7 @@ Participants will be asked to:
 * Participate in a 5-day Live Competition demonstrating full capabilities and features of the UAS prototype
 
 #### UAS Challenge Stages
+
 ![Challenge Stages]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-b.jpg "UAS Challenge Stages")
 
 ### Prizes
@@ -357,7 +358,7 @@ NOTE: This table only describes prize awards; additional contestants may be invi
 
 #### Non-monetary Prizes
 
-* Informal mentoring for contestants selected from Stage 1:&nbsp; Concept Paper Contest
+* Informal mentoring for contestants selected from Stage 1: Concept Paper Contest
 * Opportunities for contestants to showcase prototype UAS to representatives of the first responder community in Stage 4: Live Test & Evaluation
 
 ### Rules
@@ -374,7 +375,7 @@ The submissions will be judged by a qualified panel of expert(s) selected by the
 
 **Stage 1 Criteria**
 
-See the [official rules document](<[official rules document]{{site.baseurl}}/assets/netlify-uploads/updated-official-rules-pscr-first-responder-uas-endurance-challenge-august2020.pdf)> for details on all aspects of the challenge. NIST makes an independent assessment of each Concept Paper based on the evaluation criteria. NIST will not review or consider ineligible Concept Paper submissions. During the review, each subject matter expert reviewer will review the entire concept papers to which they are assigned. The review is not done in sections with different reviewers responsible for different assigned sections. Therefore, it is not necessary to repeat information in every part of the Concept Paper. Do not include sensitive materials in the Concept Paper, for example personally identifiable information such as social security numbers or business sensitive information such as tax ID numbers, etc.
+See the [official rules document]({{site.baseurl}}/assets/netlify-uploads/updated-official-rules-pscr-first-responder-uas-endurance-challenge-august2020.pdf) for details on all aspects of the challenge. NIST makes an independent assessment of each Concept Paper based on the evaluation criteria. NIST will not review or consider ineligible Concept Paper submissions. During the review, each subject matter expert reviewer will review the entire concept papers to which they are assigned. The review is not done in sections with different reviewers responsible for different assigned sections. Therefore, it is not necessary to repeat information in every part of the Concept Paper. Do not include sensitive materials in the Concept Paper, for example personally identifiable information such as social security numbers or business sensitive information such as tax ID numbers, etc.
 
 **Criterion 1: Strategic Alignment & Technical Outcome (50%)**
 
