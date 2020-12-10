@@ -377,19 +377,15 @@ The competition has three phases. All eligible submissions will be evaluated, an
 
 * Open September 30, 2020 through January 6, 2021.
 * Webinar: Tuesday, October 20, 2020, 3:00-4:00 pm EST
-
   * View recording [here](https://hhs.webex.com/recordingservice/sites/hhs/recording/playback/d9877da6ce0546e78af530a9053ed80d); Password: HypertensionWebinar1
   * View PowerPoint Slides (pdf) [here](https://files.womenshealth.gov/files/oash-owh-htn-challenge_508.pdf)
 * Webinar: Friday, October 30, 2020, 3:00-4:00 pm EST
-
   * View PowerPoint Slides (pdf) [here](https://files.womenshealth.gov/files/oash-owh-htn-challenge_508.pdf)
 * Webinar: Friday, November 6, 2020, 3:00-4:00 pm EST
-
   * View recording [here](https://hhs.webex.com/recordingservice/sites/hhs/recording/playback/fe5a45bfee4e4c42a4f815437568e338); Password: HypertensionWebinar3
   * View PowerPoint Slides (pdf) [here](https://files.womenshealth.gov/files/oash-owh-htn-challenge_508.pdf)
 * Webinar: Monday, November 23, 2020, 1:00-2:00 pm EST
 * **Webinar: Wednesday, December 16, 2020, 2:00-3:00 pm EST; Join[ here](https://hhs.webex.com/hhs/j.php?MTID=m477f7cdec5edbf530757d84167d1c0f0)**
-
   * Meeting number (access code): 199 719 9629
   * Meeting password: GraADfqM259 
 * Phase 1 submissions are due by January 6, 2021, 11:59 pm EST.
