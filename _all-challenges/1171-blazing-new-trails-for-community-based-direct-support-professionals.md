@@ -180,7 +180,7 @@ how-to-enter: >-
   Professionals prize competition can be completed via email. 
 
 
-  An e-mail of intent to participate should be submitted no later than December 11, 2020 to [DSPprizechallenge@acl.hhs.gov](emailto:DSPprizechallenge@acl.hhs.gov). The email should provide direct contact information so that any upcoming information sessions, webinars or additional supports can be shared in a timely manner.
+  An e-mail of intent to participate should be submitted no later than December 31, 2020 to [DSPprizechallenge@acl.hhs.gov](emailto:DSPprizechallenge@acl.hhs.gov). The email should provide direct contact information so that any upcoming information sessions, webinars or additional supports can be shared in a timely manner.
 
 
   Participating entries in final format must be submitted to [DSPprizechallenge@acl.hhs.gov](mailto:DSPprizechallenge@acl.hhs.gov) no later than Monday, February 22, 2021 by 11:59 pm Eastern Standard Time. All final submissions MUST be delivered in a 508 compliant pdf format. 
@@ -370,7 +370,7 @@ The proposed solution should address the following expectations:
 
 Submissions to the Blazing New Trails for Community Based Direct Support Professionals prize competition can be completed via email. 
 
-An e-mail of intent to participate should be submitted no later than December 11, 2020 to [DSPprizechallenge@acl.hhs.gov](emailto:DSPprizechallenge@acl.hhs.gov). The email should provide direct contact information so that any upcoming information sessions, webinars or additional supports can be shared in a timely manner.
+An e-mail of intent to participate should be submitted no later than December 31, 2020 to [DSPprizechallenge@acl.hhs.gov](emailto:DSPprizechallenge@acl.hhs.gov). The email should provide direct contact information so that any upcoming information sessions, webinars or additional supports can be shared in a timely manner.
 
 Participating entries in final format must be submitted to [DSPprizechallenge@acl.hhs.gov](mailto:DSPprizechallenge@acl.hhs.gov) no later than Monday, February 22, 2021 by 11:59 pm Eastern Standard Time. All final submissions MUST be delivered in a 508 compliant pdf format. 
 
