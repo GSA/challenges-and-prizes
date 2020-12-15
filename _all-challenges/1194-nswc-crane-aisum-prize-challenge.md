@@ -126,7 +126,7 @@ description: >-
 
     * Opens Dec. 10, 2020
     * Closes Jan. 29, 2021
-    * NSWC Crane Project Talks: Dec. 17, 2020 (**A virtual panel will be available to answer questions related to the challenge.gov posting and the Prize Challenge from 1300-1500 ET**)
+    * NSWC Crane Project Talks: Dec. 17, 2020 from 1300-1500 ET (Registration Link: <http://events.constantcontact.com/register/event?llr=g8ffpo6ab&oeidk=a07ehew9ru5394bae8c>)
   * Evaluation period 10-14 calendar days 
 
   * Virtual presentation 14 calendar days
@@ -410,7 +410,7 @@ The government estimates the following timeline for the completion of the prize 
 
   * Opens Dec. 10, 2020
   * Closes Jan. 29, 2021
-  * NSWC Crane Project Talks: Dec. 17, 2020 (**A virtual panel will be available to answer questions related to the challenge.gov posting and the Prize Challenge from 1300-1500 ET**)
+  * NSWC Crane Project Talks: Dec. 17, 2020 from 1300-1500 ET (Registration Link: <http://events.constantcontact.com/register/event?llr=g8ffpo6ab&oeidk=a07ehew9ru5394bae8c>)
 * Evaluation period 10-14 calendar days  
 * Virtual presentation 14 calendar days
 * Complete internal documentation/obtain approval after final evaluation: 7-10 days
