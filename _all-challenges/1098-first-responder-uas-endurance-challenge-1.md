@@ -363,7 +363,7 @@ NOTE: This table only describes prize awards; additional contestants may be invi
 
 ### Rules
 
-See the [official rules document]({{site.baseurl}}/assets/netlify-uploads/updated-official-rules-pscr-first-responder-uas-endurance-challenge-august2020.pdf) for details on all aspects of the challenge.
+See the [Official Rules]({{site.baseurl}}/assets/netlify-uploads/uas-revised-rules-doc-12.15.pdf) for details on all aspects of the challenge.
 
 ### Judging Criteria
 
