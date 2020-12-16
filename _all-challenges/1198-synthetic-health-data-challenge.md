@@ -6,7 +6,7 @@ permalink: challenge/synthetic-health-data-challenge/
 challenge-id: "1198"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/challenge-gov-2.png
+card-image: /assets/netlify-uploads/1.png
 agency-logo: /assets/netlify-uploads/hhs.png
 tagline: ONC challenges innovators, researchers, and technology developers to
   create and test innovative and novel solutions that will further cultivate the
