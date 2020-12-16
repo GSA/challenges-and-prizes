@@ -21,7 +21,7 @@ legal-authority: Agency specific prize authority
 challenge-manager: LTC Shannon Johnson
 challenge-manager-email: Shannon.i.johnson2.mil@mail.mil
 point-of-contact: Brandon.r.mace.mil@mail.mil
-body-content-uploads: /assets/netlify-uploads/warrior-tracks-rules-9.4.20_final.pdf
+body-content-uploads: /assets/netlify-uploads/warrior_tracks_rules_090420_final.pdf
 description: >-
   The U.S. Army, SoundCloud, and Timbaland have partnered to launch a unique
   music contest: Warrior Tracks. Contestants are encouraged to “create the sound
@@ -50,7 +50,7 @@ rules: >-
   OF SOUNDCLOUD AND THE JUDGES, WHICH SHALL BE FINAL IN ALL RESPECTS.**
 
 
-  **[Click here for full rules, terms & conditions](<{{ site.baseurl }}/assets/netlify-uploads/w…s-rules-9.4.20_final.pdf>).**
+  **[Click here for full rules, terms & conditions]({{site.baseurl}}/assets/netlify-uploads/warrior_tracks_rules_090420_final.pdf).**
 
 
   **Eligibility Requirements**
@@ -105,7 +105,7 @@ Winner receives 1 year of SoundCloud premium, one-on-one studio session with Tim
 
 **NO PURCHASE IS NECESSARY TO ENTER OR WIN.** **VOID WHERE PROHIBITED. BY ENTERING, ENTRANT AGREES TO BE BOUND BY THESE OFFICIAL RULES AND THE DECISIONS OF SOUNDCLOUD AND THE JUDGES, WHICH SHALL BE FINAL IN ALL RESPECTS.**
 
-**[Click here for full rules, terms & conditions](<{{ site.baseurl }}/assets/netlify-uploads/w…s-rules-9.4.20_final.pdf>).**
+**[Click here for full rules, terms & conditions]({{site.baseurl}}/assets/netlify-uploads/warrior_tracks_rules_090420_final.pdf).**
 
 **Eligibility Requirements**
 
