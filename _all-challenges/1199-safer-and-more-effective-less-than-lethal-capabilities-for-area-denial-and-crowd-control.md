@@ -10,7 +10,7 @@ status: open
 sidenav: false
 card-image: /assets/netlify-uploads/innocentivechallenge4x3.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
-tagline: Tagline	Seeking innovative concepts and technologies for de-escalating
+tagline: Seeking innovative concepts and technologies for de-escalating
   situations while mitigating injury and unintended effects
 agency: Department of Defense - Combating Terrorism Technical Support Office (CTTSO)
 external-url: https://innocentive.wazoku.com/#/challenge/585f30bf61e047609c80a12dda8aa9ed?searchIndex=2
