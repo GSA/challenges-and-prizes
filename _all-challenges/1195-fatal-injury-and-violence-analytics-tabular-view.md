@@ -8,9 +8,8 @@ status: open
 sidenav: false
 card-image: /assets/netlify-uploads/lockup-logo.png
 agency-logo: /assets/netlify-uploads/hhs.png
-tagline: Help the CDC’s National Center for Injury Prevention and Control create
-  a prototype solution for detecting and exploring trends in fatal injury and
-  violence data.
+tagline: Help the CDC’s National Center for Injury Prevention & Control create a
+  solution for detecting trends in fatal injury and violence data
 agency: Department of Health & Human Services - Centers for Disease Control &
   Prevention
 external-url: https://www.topcoder.com/challenges/a39c95d8-bba2-4b53-a312-c8914e4cc04c
