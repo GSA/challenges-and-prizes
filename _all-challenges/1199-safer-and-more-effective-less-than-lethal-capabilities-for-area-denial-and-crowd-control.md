@@ -24,6 +24,6 @@ submission-end: 2021/02/01 11:59 PM
 fiscal-year: FY21
 legal-authority: Agency specific prize authority
 challenge-manager: Shana Yakobi
-challenge-manager-email: Shana.yakobi.ctr@cttso.gov
+challenge-manager-email: "Shana.yakobi.ctr@cttso.gov "
 point-of-contact: Shana.yakobi.ctr@cttso.gov
 ---
