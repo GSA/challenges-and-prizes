@@ -13,7 +13,7 @@ agency-logo: /assets/netlify-uploads/dod_seal.jpg
 tagline: Seeking innovative concepts and technologies for de-escalating
   situations while mitigating injury and unintended effects
 agency: Department of Defense - Combating Terrorism Technical Support Office (CTTSO)
-external-url: https://innocentive.wazoku.com/#/challenge/585f30bf61e047609c80a12dda8aa9ed?searchIndex=2
+external-url: https://innocentive.wazoku.com/#/challenge/e9a85315008a4d9c97768a3ae3531070
 total-prize-offered-cash: $135,000
 type-of-challenge:
   - Ideas
