@@ -16,7 +16,7 @@ type-of-challenge:
   - Software and apps
   - Ideas
   - Technology demonstration and hardware
-submission-start: 2021/01/18 09:00 AM
+submission-start: 2021/01/19 09:00 AM
 submission-end: 2021/03/15 5:00 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
@@ -131,7 +131,8 @@ judging: >-
   * plans for sustainability; and 
 
   * potential for adoption/adaption for other settings.
-how-to-enter: Please check back here for submission information.
+how-to-enter: Please check the [P4 challenge
+  website](https://mchb.hrsa.gov/P4Challenge) for information on submission
 ---
 ### Description
 
@@ -210,4 +211,4 @@ Performance measures may include:
 
 ### How to Enter
 
-Please check back here for submission information.
+Please check the [P4 challenge website](https://mchb.hrsa.gov/P4Challenge) for information on submission
