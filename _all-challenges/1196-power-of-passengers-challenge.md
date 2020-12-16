@@ -7,7 +7,7 @@ challenge-id: "1196"
 status: open
 sidenav: true
 card-image: /assets/netlify-uploads/nasa_powerofpassengers_r3b-1-1024x512.gif
-agency-logo: /assets/netlify-uploads/256px-Seal_of_the_United_States_Department_of_Homeland_Security.png
+agency-logo: /assets/netlify-uploads/320px-Transportation_Security_Administration_logo.png
 tagline: Building a better, more secure and safer travel experience.
 agency: Department of Homeland Security - Transportation Security Administration
 partner-agencies-federal: NASA, Department of Homeland Security Science & Technology Directorate
