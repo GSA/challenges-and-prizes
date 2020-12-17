@@ -4,7 +4,7 @@ challenge-title: AI Tech Sprint for Veterans not served by VA
 layout: front-matter-data-markdownify-content
 permalink: /challenge/ai-tech-sprint-for-veterans-not-served-by-va/
 challenge-id: "1192"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/va-naii-logo.jpg
 agency-logo: /assets/netlify-uploads/valogo.png
@@ -19,8 +19,8 @@ type-of-challenge:
   - Technology demonstration and hardware
   - Analytics, visualizations, algorithms
   - Scientific
-submission-start: 2020/11/26 8:00 AM
-submission-end: 2020/12/16 11:59 PM
+submission-start: 11/26/2020 8:00 AM
+submission-end: 12/16/2020 11:59 PM
 fiscal-year: FY21
 legal-authority: America COMPETES Act
 challenge-manager: Rafael Fricks

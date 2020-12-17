@@ -22,7 +22,7 @@ legal-authority: America COMPETES Act
 challenge-manager: Terese Manley
 challenge-manager-email: terese.manley@nist.gov
 point-of-contact: jshapiro@capconcorp.com
-body-content-uploads: /assets/netlify-uploads/updated-official-rules-pscr-first-responder-uas-endurance-challenge-august2020.pdf
+body-content-uploads: /assets/netlify-uploads/uas-revised-rules-doc-12.15.pdf
 description: >-
   **The deadline for Stage 3 - Walk-on Contest entries has been extended to
   December 28, 2020.**  Visit the [Challenge
@@ -47,7 +47,7 @@ description: >-
   Vertical take-off and landing (VTOL) UAS provide many different mission capabilities, but their flight time is limited. The payload capacity, energy source and flight time are linked through design trade-offs that can be optimized for efficiency and flexibility. This challenge is designed to keep a UAS and its payload airborne for the longest time possible to support first responders on the ground while they conduct their mission. The advancement of UAS research achieved through this challenge will help support the development and operation of UAS that are intended to host critical tools for public safety missions, such as wireless communications systems.
 
 
-  The National Institute of Standards and Technology (NIST) Public Safety Communications Research (PSCR) Division is hosting a 4-stage challenge, with prize awards **up to $552,000** for the top designs. There are no fees or qualifications needed to enter the first stage. The most outstanding Stage 1 conceptual designs will be eligible to participate in the remaining stages of the competition ([see Official Rules]({{site.baseurl}}/assets/netlify-uploads/updated-official-rules-pscr-first-responder-uas-endurance-challenge-august2020.pdf)).
+  The National Institute of Standards and Technology (NIST) Public Safety Communications Research (PSCR) Division is hosting a 4-stage challenge, with prize awards **up to $552,000** for the top designs. There are no fees or qualifications needed to enter the first stage. The most outstanding Stage 1 conceptual designs will be eligible to participate in the remaining stages of the competition ([see Official Rules]({{site.baseurl}}/assets/netlify-uploads/uas-revised-rules-doc-12.15.pdf)).
 
 
   **You can make a difference!** Continue reading to learn about challenge stages and details. To enter Stage 1, submit your [entry](https://www.firstresponderuaschallenge.org/) by April 30, 2020. For entry as a Walk-on for Stage 3, submit your [entry](https://www.firstresponderuaschallenge.org/) by December 28, 2020. Entries can be submitted through the Contestant Portal on the Challenge website at <https://www.firstresponderuaschallenge.org/>.
@@ -56,7 +56,7 @@ description: >-
   #### Table A - Summary of Important Dates
 
 
-  ![Summary of Important Dates]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-a-revised.jpg "Table A - Summary of Important Dates")
+  ![Summary of Important Dates]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-a-revised.png "Table A - Summary of Important Dates")
 
 
   NOTE: NIST reserves the right to revise the dates at any time.
@@ -142,7 +142,7 @@ description: >-
   ### Rules
 
 
-  See the [official rules document]({{site.baseurl}}/assets/netlify-uploads/updated-official-rules-pscr-first-responder-uas-endurance-challenge-august2020.pdf) for details on all aspects of the challenge.
+  See [Official Rules]({{site.baseurl}}/assets/netlify-uploads/uas-revised-rules-doc-12.15.pdf) for details on all aspects of the challenge.
 
 
   ### Judging Criteria
@@ -160,7 +160,7 @@ description: >-
   **Stage 1 Criteria**
 
 
-  See the [official rules document]({{site.baseurl}}/assets/netlify-uploads/updated-official-rules-pscr-first-responder-uas-endurance-challenge-august2020.pdf)) for details on all aspects of the challenge. NIST makes an independent assessment of each Concept Paper based on the evaluation criteria. NIST will not review or consider ineligible Concept Paper submissions. During the review, each subject matter expert reviewer will review the entire concept papers to which they are assigned. The review is not done in sections with different reviewers responsible for different assigned sections. Therefore, it is not necessary to repeat information in every part of the Concept Paper. Do not include sensitive materials in the Concept Paper, for example personally identifiable information such as social security numbers or business sensitive information such as tax ID numbers, etc.
+  See the [Official Rules Document]({{site.baseurl}}/assets/netlify-uploads/uas-revised-rules-doc-12.15.pdf). for details on all aspects of the challenge. NIST makes an independent assessment of each Concept Paper based on the evaluation criteria. NIST will not review or consider ineligible Concept Paper submissions. During the review, each subject matter expert reviewer will review the entire concept papers to which they are assigned. The review is not done in sections with different reviewers responsible for different assigned sections. Therefore, it is not necessary to repeat information in every part of the Concept Paper. Do not include sensitive materials in the Concept Paper, for example personally identifiable information such as social security numbers or business sensitive information such as tax ID numbers, etc.
 
 
   **Criterion 1: Strategic Alignment & Technical Outcome (50%)**
@@ -188,7 +188,7 @@ description: >-
   Concept Papers will be evaluated based on Criteria 1 and 2 above. Each Concept Paper will be reviewed by at least two expert reviewers and be assigned a score on a scale of 1 to 10 for each criterion based on the merit and potential of success of the proposal. Reviewers scores will be averaged for each Concept Paper. The specific scores will not be released publicly or provided to the Contestant.
 
 
-  **See [Official Rules]({{site.baseurl}}/assets/netlify-uploads/updated-official-rules-pscr-first-responder-uas-endurance-challenge-august2020.pdf) for judging criteria associated with all other Stages of the contest.**
+  **See [Official Rules]({{site.baseurl}}/assets/netlify-uploads/uas-revised-rules-doc-12.15.pdf) for judging criteria associated with all other Stages of the contest.**
 
 
   #### How to Enter
@@ -229,8 +229,8 @@ prizes: >-
   * Informal mentoring for contestants selected from Stage 1:&nbsp; Concept Paper Contest
 
   * Opportunities for contestants to showcase prototype UAS to representatives of the first responder community in Stage 4: Live Test & Evaluation
-rules: See the [official rules document
-  ]({{site.baseurl}}/assets/netlify-uploads/updated-official-rules-pscr-first-responder-uas-endurance-challenge-august2020.pdf)
+rules: See the [Official
+  Rules]({{site.baseurl}}/assets/netlify-uploads/uas-revised-rules-doc-12.15.pdf)
   for details on all aspects of the challenge.
 judging: >-
   #### Judging Panel
@@ -245,7 +245,7 @@ judging: >-
   **Stage 1 Criteria**
 
 
-  See the [official rules document](<[official rules document ]({{site.baseurl}}/assets/netlify-uploads/updated-official-rules-pscr-first-responder-uas-endurance-challenge-august2020.pdf)>) for details on all aspects of the challenge. NIST makes an independent assessment of each Concept Paper based on the evaluation criteria. NIST will not review or consider ineligible Concept Paper submissions. During the review, each subject matter expert reviewer will review the entire concept papers to which they are assigned. The review is not done in sections with different reviewers responsible for different assigned sections. Therefore, it is not necessary to repeat information in every part of the Concept Paper. Do not include sensitive materials in the Concept Paper, for example personally identifiable information such as social security numbers or business sensitive information such as tax ID numbers, etc.
+  See the [Official Rules]({{site.baseurl}}/assets/netlify-uploads/uas-revised-rules-doc-12.15.pdf) for details on all aspects of the challenge. NIST makes an independent assessment of each Concept Paper based on the evaluation criteria. NIST will not review or consider ineligible Concept Paper submissions. During the review, each subject matter expert reviewer will review the entire concept papers to which they are assigned. The review is not done in sections with different reviewers responsible for different assigned sections. Therefore, it is not necessary to repeat information in every part of the Concept Paper. Do not include sensitive materials in the Concept Paper, for example personally identifiable information such as social security numbers or business sensitive information such as tax ID numbers, etc.
 
 
   **Criterion 1: Strategic Alignment & Technical Outcome (50%)**
@@ -273,7 +273,7 @@ judging: >-
   Concept Papers will be evaluated based on Criteria 1 and 2 above. Each Concept Paper will be reviewed by at least two expert reviewers and be assigned a score on a scale of 1 to 10 for each criterion based on the merit and potential of success of the proposal. Reviewers scores will be averaged for each Concept Paper. The specific scores will not be released publicly or provided to the Contestant.
 
 
-  **See [Official Rules]({{site.baseurl}}/assets/netlify-uploads/updated-official-rules-pscr-first-responder-uas-endurance-challenge-august2020.pdf) for judging criteria associated with all other Stages of the contest.**
+  **See [Official Rules]({{site.baseurl}}/assets/netlify-uploads/uas-revised-rules-doc-12.15.pdf) for judging criteria associated with all other Stages of the contest.**
 how-to-enter: >-
   Visit the Challenge website <https://www.firstresponderuaschallenge.org/>, to
   review the challenge stages in the First Responder UAS Endurance Challenge.
@@ -302,13 +302,13 @@ Join us for this exciting drone (aka unmanned aircraft system or UAS) prize comp
 
 Vertical take-off and landing (VTOL) UAS provide many different mission capabilities, but their flight time is limited. The payload capacity, energy source and flight time are linked through design trade-offs that can be optimized for efficiency and flexibility. This challenge is designed to keep a UAS and its payload airborne for the longest time possible to support first responders on the ground while they conduct their mission. The advancement of UAS research achieved through this challenge will help support the development and operation of UAS that are intended to host critical tools for public safety missions, such as wireless communications systems.
 
-The National Institute of Standards and Technology (NIST) Public Safety Communications Research (PSCR) Division is hosting a 4-stage challenge, with prize awards **up to $552,000** for the top designs. There are no fees or qualifications needed to enter the first stage. The most outstanding Stage 1 conceptual designs will be eligible to participate in the remaining stages of the competition [see Official Rules]({{site.baseurl}}/assets/netlify-uploads/updated-official-rules-pscr-first-responder-uas-endurance-challenge-august2020.pdf).
+The National Institute of Standards and Technology (NIST) Public Safety Communications Research (PSCR) Division is hosting a 4-stage challenge, with prize awards **up to $552,000** for the top designs. There are no fees or qualifications needed to enter the first stage. The most outstanding Stage 1 conceptual designs will be eligible to participate in the remaining stages of the competition [see Official Rules]({{site.baseurl}}/assets/netlify-uploads/uas-revised-rules-doc-12.15.pdf).
 
 **You can make a difference!** Continue reading to learn about challenge stages and details. To enter Stage 1, submit your [entry](https://www.firstresponderuaschallenge.org/) by April 30, 2020.  For entry as a Walk-on for Stage 3, submit your [entry](https://www.firstresponderuaschallenge.org/) by December 28, 2020. Entries can be submitted through the Contestant Portal on the Challenge website at <https://www.firstresponderuaschallenge.org/>.
 
 #### Table A - Summary of Important Dates
 
-![Summary of Important Dates]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-a-revised.jpg "Table A - Summary of Important Dates")
+![Summary of Important Dates]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-a-revised.png "Table A - Summary of Important Dates")
 
 NOTE: NIST reserves the right to revise the dates at any time.
 
@@ -363,7 +363,7 @@ NOTE: This table only describes prize awards; additional contestants may be invi
 
 ### Rules
 
-See the [official rules document]({{site.baseurl}}/assets/netlify-uploads/updated-official-rules-pscr-first-responder-uas-endurance-challenge-august2020.pdf) for details on all aspects of the challenge.
+See the [Official Rules]({{site.baseurl}}/assets/netlify-uploads/uas-revised-rules-doc-12.15.pdf) for details on all aspects of the challenge.
 
 ### Judging Criteria
 
@@ -375,7 +375,7 @@ The submissions will be judged by a qualified panel of expert(s) selected by the
 
 **Stage 1 Criteria**
 
-See the [official rules document]({{site.baseurl}}/assets/netlify-uploads/updated-official-rules-pscr-first-responder-uas-endurance-challenge-august2020.pdf) for details on all aspects of the challenge. NIST makes an independent assessment of each Concept Paper based on the evaluation criteria. NIST will not review or consider ineligible Concept Paper submissions. During the review, each subject matter expert reviewer will review the entire concept papers to which they are assigned. The review is not done in sections with different reviewers responsible for different assigned sections. Therefore, it is not necessary to repeat information in every part of the Concept Paper. Do not include sensitive materials in the Concept Paper, for example personally identifiable information such as social security numbers or business sensitive information such as tax ID numbers, etc.
+See the [Official Rules]({{site.baseurl}}/assets/netlify-uploads/uas-revised-rules-doc-12.15.pdf)for details on all aspects of the challenge. NIST makes an independent assessment of each Concept Paper based on the evaluation criteria. NIST will not review or consider ineligible Concept Paper submissions. During the review, each subject matter expert reviewer will review the entire concept papers to which they are assigned. The review is not done in sections with different reviewers responsible for different assigned sections. Therefore, it is not necessary to repeat information in every part of the Concept Paper. Do not include sensitive materials in the Concept Paper, for example personally identifiable information such as social security numbers or business sensitive information such as tax ID numbers, etc.
 
 **Criterion 1: Strategic Alignment & Technical Outcome (50%)**
 
@@ -393,7 +393,7 @@ This criterion involves consideration of the following factors:
 
 Concept Papers will be evaluated based on Criteria 1 and 2 above. Each Concept Paper will be reviewed by at least two expert reviewers and be assigned a score on a scale of 1 to 10 for each criterion based on the merit and potential of success of the proposal. Reviewers scores will be averaged for each Concept Paper. The specific scores will not be released publicly or provided to the Contestant.
 
-**See [Official Rules]({{site.baseurl}}/assets/netlify-uploads/updated-official-rules-pscr-first-responder-uas-endurance-challenge-august2020.pdf) for judging criteria associated with all other Stages of the contest.**
+**See [Official Rules]({{site.baseurl}}/assets/netlify-uploads/uas-revised-rules-doc-12.15.pdf) for judging criteria associated with all other Stages of the contest.**
 
 #### How to Enter
 
