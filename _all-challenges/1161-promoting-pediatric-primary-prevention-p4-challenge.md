@@ -16,7 +16,7 @@ type-of-challenge:
   - Software and apps
   - Ideas
   - Technology demonstration and hardware
-submission-start: 2021/01/18 09:00 AM
+submission-start: 2021/01/19 09:00 AM
 submission-end: 2021/03/15 5:00 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
@@ -24,21 +24,11 @@ challenge-manager: Jessie Buerlein
 challenge-manager-email: jbuerlein@hrsa.gov
 point-of-contact: jbuerlein@hrsa.gov
 description: >-
-  Recent [CDC data](https://www.cdc.gov/mmwr/volumes/69/wr/mm6919e2.htm) show
-  that fewer vaccines have been given during the pandemic, and that to avoid
-  outbreaks of vaccine-preventable diseases and keep children protected,
-  vaccinations and well-child visits are essential. As noted by CDC, observed
-  [declines in vaccination
-  coverage](https://www.cdc.gov/mmwr/volumes/69/wr/mm6920e1.htm?s_cid=mm6920e1_x)
-  might leave young children and communities vulnerable to vaccine-preventable
-  diseases such as measles. Additionally, well-child visits are also noted to
-  [have
-  declined](https://services.aap.org/en/pages/2019-novel-coronavirus-covid-19-infections/clinical-guidance/guidance-on-providing-pediatric-well-care-during-covid-19/)
-  since the COVID-19 emergency pandemic. These visits are an important venue for
-  counseling as well as administration of vaccines. At these visits, parents can
-  raise concerns about physical problems, as well as about a child’s behavior
-  and mental health. Providers can screen for developmental delays and offer
-  personalized guidance on healthy nutrition, exercise and safety.
+  **For full challenge details and submission requirements, please visit the
+  agency website at <https://mchb.hrsa.gov/P4Challenge>.**
+
+
+  Recent [CDC data](https://www.cdc.gov/mmwr/volumes/69/wr/mm6919e2.htm) show that fewer vaccines have been given during the pandemic, and that to avoid outbreaks of vaccine-preventable diseases and keep children protected, vaccinations and well-child visits are essential. As noted by CDC, observed [declines in vaccination coverage](https://www.cdc.gov/mmwr/volumes/69/wr/mm6920e1.htm?s_cid=mm6920e1_x) might leave young children and communities vulnerable to vaccine-preventable diseases such as measles. Additionally, well-child visits are also noted to [have declined](https://services.aap.org/en/pages/2019-novel-coronavirus-covid-19-infections/clinical-guidance/guidance-on-providing-pediatric-well-care-during-covid-19/) since the COVID-19 emergency pandemic. These visits are an important venue for counseling as well as administration of vaccines. At these visits, parents can raise concerns about physical problems, as well as about a child’s behavior and mental health. Providers can screen for developmental delays and offer personalized guidance on healthy nutrition, exercise and safety.
 
 
   It’s important to get the message out to parents and caregivers that children should maintain well-child visits, as well as continue to get timely vaccinations in their medical home, and ensure that children who may not be up-to-date with vaccines quickly catch up with ACIP-recommended vaccinations.
@@ -141,9 +131,12 @@ judging: >-
   * plans for sustainability; and 
 
   * potential for adoption/adaption for other settings.
-how-to-enter: Please check back here for submission information.
+how-to-enter: Please check the [P4 challenge
+  website](https://mchb.hrsa.gov/P4Challenge) for information on submission
 ---
 ### Description
+
+**For full challenge details and submission requirements, please visit the agency website at <https://mchb.hrsa.gov/P4Challenge>.**
 
 Recent [CDC data](https://www.cdc.gov/mmwr/volumes/69/wr/mm6919e2.htm) show that fewer vaccines have been given during the pandemic, and that to avoid outbreaks of vaccine-preventable diseases and keep children protected, vaccinations and well-child visits are essential. As noted by CDC, observed [declines in vaccination coverage](https://www.cdc.gov/mmwr/volumes/69/wr/mm6920e1.htm?s_cid=mm6920e1_x) might leave young children and communities vulnerable to vaccine-preventable diseases such as measles. Additionally, well-child visits are also noted to [have declined](https://services.aap.org/en/pages/2019-novel-coronavirus-covid-19-infections/clinical-guidance/guidance-on-providing-pediatric-well-care-during-covid-19/) since the COVID-19 emergency pandemic. These visits are an important venue for counseling as well as administration of vaccines. At these visits, parents can raise concerns about physical problems, as well as about a child’s behavior and mental health. Providers can screen for developmental delays and offer personalized guidance on healthy nutrition, exercise and safety.
 
@@ -218,4 +211,4 @@ Performance measures may include:
 
 ### How to Enter
 
-Please check back here for submission information.
+Please check the [P4 challenge website](https://mchb.hrsa.gov/P4Challenge) for information on submission
