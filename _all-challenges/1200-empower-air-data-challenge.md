@@ -1,8 +1,8 @@
 ---
-title: EmPOWER Air Data Challenge 2021
-challenge-title: EmPOWER Air Data Challenge 2021
+title: "EmPOWER Air Data Challenge "
+challenge-title: "EmPOWER Air Data Challenge "
 layout: front-matter-data-markdownify-content
-permalink: /challenge/empower-air-data-challenge-2021
+permalink: /challenge/empower-air-data-challenge-2021/
 challenge-id: "1200"
 status: open
 sidenav: true
