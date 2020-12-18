@@ -5,6 +5,45 @@ title: Case Study - GEAR Center Challenge
 ---
 
 
+<!--// OPEN .container //-->
+<div class="grid-container padding-bottom-5">
+<!--// OPEN #page-wrap //-->
+<div id="page-wrap">
+<div class="inner-page-wrap has-no-sidebar portfolio-type-standard row clearfix">
+<!-- OPEN article -->
+<article
+class="portfolio-article col-sm-12 clearfix post-9475 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio-category-ideas portfolio-category-software portfolio-category-2-1 portfolio-category-4-3"
+id="9475" itemscope="" itemtype="http://schema.org/CreativeWork">
+<div class="portfolio-item-content">
+<figure class="media-wrap col-sm-12">
+</figure>
+<section class="article-body-wrap col-sm-9">
+<section class="portfolio-detail-description">
+<div class="body-text clearfix" itemprop="description">
+
+
+<!--Feature Image-->
+<div style= "text-align: left;" id="attachment_9500" class="wp-caption">
+    <a href="{{ site.baseurl }}/assets/images/toolkit/case-studies/Artists_Inspire_Astronauts.jpg">
+    <img src="{{ site.baseurl }}/assets/images/toolkit/case-studies/Artists_Inspire_Astronauts.jpg" alt="NASA artwork">
+    </a>
+    <p class="wp-caption-text">The winning pieces from left to right: Anticipation by Bryan Larson; Ad Astra Ascendo by Michael Hallberg; Supergrediatur by Cayla Massarelli; A Dream is Never Too Far to Reach by Juan Diego Medellin; and Emanation by Adrianna Allen. (Image courtesy of NASA)</p>
+</div>
+<div style="line-height: 2.75rem">
+<h1 style="text-align:left;">Artists Inspire Astronauts Challenge | NASA</h1>
+</div>
+<p style="font-size: x-large; float: left;">In 2019, NASA's Artists Inspire Astronauts Challenge sought original and inspiring artwork to be displayed in Astronaut Crew Quarters, one of the last places astronauts spend time before heading to the launch pad.</p>
+<br>
+<h2>Background</h2>
+<!--Body Content Start-->
+
+---
+permalink: /toolkit/case-studies/gear-center-challenge/
+layout: toolkit
+title: Case Study - GEAR Center Challenge
+---
+
+
 
 <!--// OPEN .container //-->
 <div class="grid-container padding-bottom-5">
