@@ -16,7 +16,7 @@ agency: Department of Health & Human Services - Office of National Coordinator
 total-prize-offered-cash: $100,000
 type-of-challenge:
   - Software and apps
-submission-start: 2021/09/01 09:00 AM
+submission-start: 2021/01/19 09:00 AM
 submission-end: 2021/07/13 05:00 PM
 fiscal-year: FY21
 legal-authority: Procurement Authority
