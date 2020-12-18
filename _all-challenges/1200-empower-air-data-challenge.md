@@ -6,7 +6,7 @@ permalink: /challenge/empower-air-data-challenge-2021
 challenge-id: "1200"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/epa_logo_blue1-341x105-.jpg
+card-image: /assets/netlify-uploads/webp.net-resizeimage-7-.jpg
 agency-logo: /assets/netlify-uploads/256px-Environmental_Protection_Agency_logo.png
 tagline: Developing Innovative Analyses Using Emissions and Environmental
   Monitoring Data
