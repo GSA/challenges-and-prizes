@@ -4,7 +4,7 @@ challenge-title: Warrior Tracks
 layout: front-matter-data-markdownify-content
 permalink: /challenge/warrior-tracks/
 challenge-id: "1197"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/dod_seal.jpg
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
