@@ -32,9 +32,10 @@ challenge-manager: Jared Tolbert
 challenge-manager-email: jared.tolbert@hhs.gov
 point-of-contact: BreastfeedingChallenge@hhs.gov
 description: >-
-  **\*\*Important Update: The submission deadline has been extended to
-  12/9/2020, along with other important changes to the scoring criteria.  Please
-  see changes below in the Key Dates and Judging Criteria sections.**
+  **\*\**Important Update:** 
+
+
+  **\*\*\* Due to the overwhelming interest and submissions for the “Reducing Disparities in Breastfeeding Innovation Challenge,” we are delaying the announcement of Phase 1 winners until later in December 2020. \*\*\***
 
 
   The Office of the Assistant Secretary for Health (OASH), Office on Women’s Health (OWH) is seeking innovative ways to increase breastfeeding initiation and/or continuation rates and decrease disparities among breastfeeding mothers in the United States through the HHS Reducing Disparities in Breastfeeding Innovation Challenge.
@@ -73,7 +74,7 @@ description: >-
   **Phase 1: Identification of successful programs**
 
 
-  * Open September 30, 2020 through December 9, 2020.
+  * Submission period begins: September 30, 2020
 
   * Webinar: Wednesday, October 21, 2020, 3:00-4:00 pm EST.  
 
@@ -86,23 +87,31 @@ description: >-
 
     * View recording [here](https://hhs.webex.com/recordingservice/sites/hhs/recording/playback/9e12d82641a14122a0156c95050ae4da); Password: BreastfeedingWebinar3
     * View PowerPoint Slides (pdf) [here](https://files.womenshealth.gov/files/breastfeeding-innovation-challenge-phase-1-webinar-fink_508.pdf)
-  * Phase 1 submissions are due by December 9, 2020, 11:59 pm EST.
+  * Webinar: Monday, November 23, 2020, 2:00-3:00 pm EST; Join [here](https://hhs.webex.com/webappng/sites/hhs/meeting/download/22b4f18949df4f81a9f073ff40b15d5c?siteurl=hhs&MTID=ma767d7249b4de76d79977b706c880a53)
 
-  * Judging for Phase 1 will occur from December 10, 2020 through December 17, 2020.
+  * Submission period ends: December 9, 2020, 11:59 pm EST.
 
-  * Finalists that move into Phase 2 will be announced no later than December 18, 2020.
+  * Winners announced: December 2020.
 
 
   **Phase 2: Awarding plans for sustainability and replication and/or expansion**
 
 
-  * Competition occurs September 29, 2021 through December 8, 2021.
+  * Submission period begins September 29, 2021.
 
-  * Phase 2 submissions are due by December 8, 2021, 11:59 pm EST.
+  * Submission period ends:  December 8, 2021, 11:59 pm EST.
 
-  * Judging for Phase 2 will occur from December 9, 2021 through December 16, 2021.
+  * Winners announced: December 2021.
 
-  * Finalists that move into Phase 3 will be announced no later than December 17, 2021.
+
+  **Phase 3: Awarding the programs that have successfully replicated and/or expanded** 
+
+
+  * Submission period begins September 29, 2022. 
+
+  * Submission period ends: December 7, 2022, 11:59 pm EST.
+
+  * Winners announced December 2022.
 prizes: >-
   #### Total Prize Awards Available
 
@@ -340,10 +349,9 @@ how-to-enter: >-
 ---
 ### Description
 
-**\*\*Important Updates:** 
+**\*\**Important Update:** 
 
-* **The submission deadline has been extended to 12/9/2020, along with other important changes to the scoring criteria.  Please see changes below in the Key Dates and Judging Criteria sections.**
-* **There will be a webinar on Monday, November 23 at 2:00 pm EST to review the updated eligibility criteria and key submission dates. Click here to [join](https://hhs.webex.com/hhs/j.php?MTID=ma767d7249b4de76d79977b706c880a53).**
+**\*\*\* Due to the overwhelming interest and submissions for the “Reducing Disparities in Breastfeeding Innovation Challenge,” we are delaying the announcement of Phase 1 winners until later in December 2020. \*\*\***
 
 The Office of the Assistant Secretary for Health (OASH), Office on Women’s Health (OWH) is seeking innovative ways to increase breastfeeding initiation and/or continuation rates and decrease disparities among breastfeeding mothers in the United States through the HHS Reducing Disparities in Breastfeeding Innovation Challenge.
 
@@ -369,7 +377,7 @@ The competition has three phases. All eligible submissions will be evaluated, an
 
 **Phase 1: Identification of successful programs**
 
-* Open September 30, 2020 through December 9, 2020.
+* Submission period begins: September 30, 2020
 * Webinar: Wednesday, October 21, 2020, 3:00-4:00 pm EST.  
 
   * View recording [here](https://hhs.webex.com/recordingservice/sites/hhs/recording/playback/c230cb0c01c54838b5322de28c256de3); Password: BreastfeedingWebinar1
@@ -381,24 +389,21 @@ The competition has three phases. All eligible submissions will be evaluated, an
 
   * View recording [here](https://hhs.webex.com/recordingservice/sites/hhs/recording/playback/9e12d82641a14122a0156c95050ae4da); Password: BreastfeedingWebinar3
   * View PowerPoint Slides (pdf) [here](https://files.womenshealth.gov/files/breastfeeding-innovation-challenge-phase-1-webinar-fink_508.pdf)
-* **Webinar: Monday, November 23, 2020, 2:00-3:00 pm EST; Join [here](https://hhs.webex.com/webappng/sites/hhs/meeting/download/22b4f18949df4f81a9f073ff40b15d5c?siteurl=hhs&MTID=ma767d7249b4de76d79977b706c880a53)**
-* Phase 1 submissions are due by December 9, 2020, 11:59 pm EST.
-* Judging for Phase 1 will occur from December 10, 2020 through December 17, 2020.
-* Finalists that move into Phase 2 will be announced no later than December 18, 2020.
+* Webinar: Monday, November 23, 2020, 2:00-3:00 pm EST; Join [here](https://hhs.webex.com/webappng/sites/hhs/meeting/download/22b4f18949df4f81a9f073ff40b15d5c?siteurl=hhs&MTID=ma767d7249b4de76d79977b706c880a53)
+* Submission period ends: December 9, 2020, 11:59 pm EST.
+* Winners announced: December 2020.
 
 **Phase 2: Awarding plans for sustainability and replication and/or expansion**
 
-* Competition occurs September 29, 2021 through December 8, 2021.
-* Phase 2 submissions are due by December 8, 2021, 11:59 pm EST.
-* Judging for Phase 2 will occur from December 9, 2021 through December 16, 2021.
-* Finalists that move into Phase 3 will be announced no later than December 17, 2021.
+* Submission period begins September 29, 2021.
+* Submission period ends:  December 8, 2021, 11:59 pm EST.
+* Winners announced: December 2021.
 
 **Phase 3: Awarding the programs that have successfully replicated and/or expanded** 
 
-* Competition occurs September 29, 2022 through December 7, 2022.
-* Phase 3 submissions are due by December 7, 2022, 11:59 pm EST.
-* Judging for Phase 3 will occur from December 8, 2022 through December 15, 2022.
-* Finalists will be awarded by December 16, 2022.
+* Submission period begins September 29, 2022. 
+* Submission period ends: December 7, 2022, 11:59 pm EST.
+* Winners announced December 2022.
 
 ### Prizes
 
