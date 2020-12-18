@@ -14,8 +14,8 @@ agency: Department of Defense - Department of Army, HQ, M&RA, Army Enterprise
 partners-non-federal: DDB Worldwide, SoundCloud Inc.
 type-of-challenge:
   - Creative (multimedia & design)
-submission-start: 2020/09/10 12:00 AM
-submission-end: 2020/09/23 11:59 AM
+submission-start: 09/10/2020 12:00 AM
+submission-end: 09/23/2020 11:59 AM
 fiscal-year: FY20
 legal-authority: Agency specific prize authority
 challenge-manager: LTC Shannon Johnson
