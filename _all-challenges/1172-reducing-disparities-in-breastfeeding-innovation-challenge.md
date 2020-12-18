@@ -32,9 +32,10 @@ challenge-manager: Jared Tolbert
 challenge-manager-email: jared.tolbert@hhs.gov
 point-of-contact: BreastfeedingChallenge@hhs.gov
 description: >-
-  **\*\*Important Update: The submission deadline has been extended to
-  12/9/2020, along with other important changes to the scoring criteria.  Please
-  see changes below in the Key Dates and Judging Criteria sections.**
+  **\*\**Important Update:** 
+
+
+  **\*\*\* Due to the overwhelming interest and submissions for the “Reducing Disparities in Breastfeeding Innovation Challenge,” we are delaying the announcement of Phase 1 winners until later in December 2020. \*\*\***
 
 
   The Office of the Assistant Secretary for Health (OASH), Office on Women’s Health (OWH) is seeking innovative ways to increase breastfeeding initiation and/or continuation rates and decrease disparities among breastfeeding mothers in the United States through the HHS Reducing Disparities in Breastfeeding Innovation Challenge.
@@ -340,10 +341,9 @@ how-to-enter: >-
 ---
 ### Description
 
-**\*\*Important Updates:** 
+**\*\**Important Update:** 
 
-* **The submission deadline has been extended to 12/9/2020, along with other important changes to the scoring criteria.  Please see changes below in the Key Dates and Judging Criteria sections.**
-* **There will be a webinar on Monday, November 23 at 2:00 pm EST to review the updated eligibility criteria and key submission dates. Click here to [join](https://hhs.webex.com/hhs/j.php?MTID=ma767d7249b4de76d79977b706c880a53).**
+**\*\*\* Due to the overwhelming interest and submissions for the “Reducing Disparities in Breastfeeding Innovation Challenge,” we are delaying the announcement of Phase 1 winners until later in December 2020. \*\*\***
 
 The Office of the Assistant Secretary for Health (OASH), Office on Women’s Health (OWH) is seeking innovative ways to increase breastfeeding initiation and/or continuation rates and decrease disparities among breastfeeding mothers in the United States through the HHS Reducing Disparities in Breastfeeding Innovation Challenge.
 
