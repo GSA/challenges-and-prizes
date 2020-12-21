@@ -29,9 +29,9 @@ id="9475" itemscope="" itemtype="http://schema.org/CreativeWork">
     </a>
     <p class="wp-caption-text">The President's Management Agenda Logo</p>
 </div>
-<div style="line-height: 2.75rem">
+<div style="line-height: 2.50rem">
 <h1 style="text-align:left;">GEAR Center Challenge</h1>
-<p style="font-size: x-large; float: left;">Scale new solutions to boldly tackle government's most complex management challenges.    
+<p style="font-size: x-large; left;">Scale new solutions to boldly tackle government's most complex management challenges.    
 </p>
 <br>
     
