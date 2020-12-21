@@ -31,10 +31,11 @@ id="9475" itemscope="" itemtype="http://schema.org/CreativeWork">
 </div>
 <div style="line-height: 2.75rem">
 <h1 style="text-align:left;">GEAR Center Challenge</h1>
-<p><strong>Scale new solutions to boldly tackle government's most complex management challenges.</strong>
-
-<!--Body Content Start-->
-<h2>Background</h2>   
+</div>
+<p style="font-size: x-large; float: left;">Scale new solutions to boldly tackle government's most complex management challenges.</p>
+<br>
+<h2>Background</h2>
+<!--Body Content Start--> 
 <p>The federal government is exploring how to better connect to the public, academia, and private industry to solve federal management challenges. One potential path in that pursuit is through a Government Effectiveness Advanced Research (GEAR) Center that uses applied research to improve mission delivery, citizen services, and stewardship of public resources,  as proposed in <a href="https://www.performance.gov/GovReform/Reform-and-Reorg-Plan-Final.pdf"> <span style="font-weight: 400;">Delivering Government Solutions for the 21st Century: Reform Plan and Reorganization Recommendations.</span></a><span style="font-weight: 400;">
 <p>Over the summer of 2019, the General Services Administration (GSA) and the Office of Management and Budget (OMB) ran a <a href="https://www.challenge.gov/challenge/gear-center-challenge/"> <span style="font-weight: 400;">GEAR Center prize competition</span></a><span style="font-weight: 400;"> on Challenge.gov. The competition challenged problem solvers from the public, academia, and industry to build cross-sector, multidisciplinary teams to demonstrate the potential of the GEAR Center. Teams described how they would tackle challenges facing the government as outlined in the </span><a href="https://www.performance.gov/PMA/Presidents_Management_Agenda.pdf"> <span style="font-weight: 400;">President's Management Agenda (PMA).</span></a><span style="font-weight: 400;">
 
