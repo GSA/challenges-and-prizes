@@ -31,10 +31,10 @@ id="9475" itemscope="" itemtype="http://schema.org/CreativeWork">
 </div>
 <div style="line-height: 2.75rem">
 <h1 style="text-align:left;">GEAR Center Challenge</h1>
-<p style="font-size: x-large; float: left;">Scale new solutions to boldly tackle government's most complex management challenges.</p>
-<h2>Background</h2>
+<p>style="font-size: x-large; float: left;">Scale new solutions to boldly tackle government's most complex management challenges.</p>
+
 <!--Body Content Start-->
-    
+<h2>Background</h2>   
 <p>The federal government is exploring how to better connect to the public, academia, and private industry to solve federal management challenges. One potential path in that pursuit is through a Government Effectiveness Advanced Research (GEAR) Center that uses applied research to improve mission delivery, citizen services, and stewardship of public resources,  as proposed in </span><a href="https://www.performance.gov/GovReform/Reform-and-Reorg-Plan-Final.pdf"> <span style="font-weight: 400;">Delivering Government Solutions for the 21st Century: Reform Plan and Reorganization Recommendations.</span></a><span style="font-weight: 400;">
 <p>Over the summer of 2019, the General Services Administration (GSA) and the Office of Management and Budget (OMB) ran a <a href="https://www.challenge.gov/challenge/gear-center-challenge/"> <span style="font-weight: 400;">GEAR Center prize competition</span></a><span style="font-weight: 400;"> on Challenge.gov. The competition challenged problem solvers from the public, academia, and industry to build cross-sector, multidisciplinary teams to demonstrate the potential of the GEAR Center. Teams described how they would tackle challenges facing the government as outlined in the </span><a href="https://www.performance.gov/PMA/Presidents_Management_Agenda.pdf"> <span style="font-weight: 400;">President's Management Agenda (PMA).</span></a><span style="font-weight: 400;">
 
@@ -86,7 +86,7 @@ The challenge's goal was to test the GEAR Center model before investing further.
 <li><span style="font-weight: 400;"> &nbsp;&nbsp;</span> <span style="font-weight: 400;">resource requirements</span></li>
 </ul>
 <p>The GEAR center challenge team hosted a webinar where PMA experts gave context on each of the PMA areas and helped answer questions. The team posted questions and answers from the webinar on the GEAR Center page on Performance.gov.</p>
-<p> A panel of three judges used Phase 1 (P1) criteria (as stated in the <a href="https://www.challenge.gov/challenge/gear-center-challenge/">challenge page</a><span style="font-weight: 400;"> to evaluate 49 proposals and select 20 semifinalists to advance to the next phase.</span></p>
+<p> A panel of three judges used Phase 1 (P1) criteria (as stated in the <a href="https://www.challenge.gov/challenge/gear-center-challenge/">challenge page</a><span style="font-weight: 400;">) to evaluate 49 proposals and select 20 semifinalists to advance to the next phase.</span></p>
 <p><i>Phase 2: Project and GEAR Center Plan</i></p>
 In the second phase, the top 20 P1 solver teams were invited to submit a 10-page project plan and describe their ability to execute on it, as well as how this project would support a longer-term GEAR Center vision. They were asked to address the project plan and how easility they could do it, as well as GEAR Center model operation, impact, and sustainability.
 <p><span style="font-weight: 400;">The Gear Center challenge team hosted a second webinar to provide semifinalists more information on expectations for their submissions and to help answer questions. A panel of three judges (different from P1) used Phase 2 (P2) criteria to evaluate 20 proposals and select 10 finalists to advance to the final round.</span></p>
@@ -127,7 +127,6 @@ In the third phase, finalists presented their project proposals to a panel of fe
     
 
 <!-- CLOSE article -->
-</article>
 
 
 
