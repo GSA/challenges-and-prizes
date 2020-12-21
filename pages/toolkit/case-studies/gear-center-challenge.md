@@ -129,13 +129,13 @@ In the third phase, finalists presented their project proposals to a panel of fe
 <!-- CLOSE article -->
 </article>
 
-</div>
+
 
 
 <!--// WordPress Hook //-->
 
 <!--// CLOSE #page-wrap //-->
-</div>
+
 
 <!--// CLOSE #main-container //-->
-</div>
+
