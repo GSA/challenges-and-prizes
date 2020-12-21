@@ -124,7 +124,7 @@ In the third phase, finalists presented their project proposals to a panel of fe
 
 <h2>Challenge Website</h2>
 <a href="https://www.challenge.gov/challenge/gear-center-challenge/"> <span style="font-weight: 400;">https://www.challenge.gov/challenge/gear-center-challenge/</span></a><span style="font-weight: 400;">
-<p><span style="font-weight: 400;">https://www.challenge.gov/challenge/gear-center-challenge/
+
     
 
 <!-- CLOSE article -->
