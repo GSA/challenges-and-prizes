@@ -34,6 +34,8 @@ id="9475" itemscope="" itemtype="http://schema.org/CreativeWork">
 <p style="font-size: x-large; float: left;">Scale new solutions to boldly tackle government's most complex management challenges.    
 </p>
 <br>
+    
+    
 <h2>Background</h2>
 <!--Body Content Start--> 
 The federal government is exploring how to better connect to the public, academia, and private industry to solve federal management challenges. One potential path in that pursuit is through a Government Effectiveness Advanced Research (GEAR) Center that uses applied research to improve mission delivery, citizen services, and stewardship of public resources,  as proposed in <a href="https://www.performance.gov/GovReform/Reform-and-Reorg-Plan-Final.pdf"> <span style="font-weight: 400;">Delivering Government Solutions for the 21st Century: Reform Plan and Reorganization Recommendations.</span></a><span style="font-weight: 400;">
