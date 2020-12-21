@@ -78,7 +78,7 @@ id="9475" itemscope="" itemtype="http://schema.org/CreativeWork">
 <h3>Running a Transparent and Effective Evaluation Process</h3>
 <p><span style="font-weight: 400;">The challenge was designed to run through three evaluation phases. This encouraged multiple types of solvers to participate givent the low barrier to entry in their initial submission.</span></p>
 <p>As solver teams progressed through the evaluation process, they provided more detail on their project ideas. While multiple phases required more coordination and judging, they allowed for diverse judging panels who offered multiple perspectives in their evaluations. They also enabled solver teams to address challenge requirements in more manageable segments.</p>
-<p><i>Phase 1: Project Proposal<i></p>
+<p><i>Phase 1: Project Proposal</i></p>
 <p><span style="font-weight: 400;">In the first phase, solvers submitted a two-page project proposal to scale or grow an existing initiative to deliver a relevant solution to a PMA-related challenge in one year. Solvers were asked to address the following:</span></p>
 <ul>
 <li><span style="font-weight: 400;"> &nbsp;&nbsp;</span> <span style="font-weight: 400;">project scope,</span></li>
@@ -88,10 +88,10 @@ id="9475" itemscope="" itemtype="http://schema.org/CreativeWork">
 </ul></p>
 <p>The GEAR center challenge team hosted a webinar where PMA experts gave context on each of the PMA areas and helped answer questions. The team posted questions and answers from the webinar on the GEAR Center page on Performance.gov.</p>
 <p> A panel of three judges used Phase 1 (P1) criteria (as stated in the <a href="https://www.challenge.gov/challenge/gear-center-challenge/">challenge page)</a></span><span style="font-weight: 400;">to evaluate 49 proposals and select 20 semifinalists to advance to the next phase.</span></p>
-<p><i>Phase 2: Project and GEAR Center Plan<i></p>
+<p><i>Phase 2: Project and GEAR Center Plan</i></p>
 p><span style="font-weight: 400;">In the second phase, the top 20 P1 solver teams were invited to submit a 10-page project plan and describe their ability to execute on it, as well as how this project would support a longer-term GEAR Center vision. They were asked to address the project plan and how easility they could do it, as well as GEAR Center model operation, impact, and sustainability.</span></p>
 p><span style="font-weight: 400;">The Gear Center challenge team hosted a second webinar to provide semifinalists more information on expectations for their submissions and to help answer questions. A panel of three judges (different from P1) used Phase 2 (P2) criteria to evaluate 20 proposals and select 10 finalists to advance to the final round.</span></p>
-<p><i>Phase 3: Finalist Presentation<i></p>
+<p><i>Phase 3: Finalist Presentation</i></p>
 p><span style="font-weight: 400;">In the third phase, finalists presented their project proposals to a panel of federal executives, who were different from the judges from the first two phases.</span></p>
 p><span style="font-weight: 400;">Teams presented their project proposals and engaged in an hour-long question-and-answer session with the judges. These sessions allowed judges to understand the innovation and the project feasibility, as well as whether the teams could deliver.  The judges used Phase 3 criteria to evaluate presentations and select three grand-prize winning teams and five honorable-mention teams. The grand-prize winners each received $300,000, while no cash awards were given for honorable mention.</span></p>
 
