@@ -4,7 +4,7 @@ challenge-title: Palmetto Tech Bridge Prize Challenge 2021
 layout: front-matter-data-markdownify-content
 permalink: /challenge/palmetto-tech-bridge-prize-challenge-2021/
 challenge-id: "1187"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/palmetto-tech-bridge_resize.png
 agency-logo: /assets/netlify-uploads/niwc-lant-logo-1-black-letters_300dpi.png
@@ -16,8 +16,8 @@ type-of-challenge:
   - Software and apps
   - Ideas
   - Analytics, visualizations, algorithms
-submission-start: 2020/11/06 10:00 AM
-submission-end: 2020/12/20 11:00 PM
+submission-start: 11/06/2020 10:00 AM
+submission-end: 12/20/2020 11:00 PM
 fiscal-year: FY21
 legal-authority: Agency specific prize authority
 challenge-manager: Don Sallee
