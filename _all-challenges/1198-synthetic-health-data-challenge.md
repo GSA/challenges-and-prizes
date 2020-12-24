@@ -8,9 +8,9 @@ status: open
 sidenav: true
 card-image: /assets/netlify-uploads/1.png
 agency-logo: /assets/netlify-uploads/hhs.png
-tagline: ONC challenges innovators, researchers, and technology developers to
-  create and test innovative and novel solutions that will further cultivate the
-  capabilities of SyntheaTM and the synthetic data it generates.
+tagline: Create and test novel solutions to further cultivate Synthea
+  capabilities and the synthetic data it generates for healthcare and research
+  purposes
 agency: Department of Health & Human Services - Office of National Coordinator
   for Health Information Technology
 total-prize-offered-cash: $100,000
