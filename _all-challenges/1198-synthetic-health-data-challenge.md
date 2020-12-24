@@ -337,7 +337,7 @@ Participants will propose a solution in one of two (2) Challenge categories.
 
 **Resources** 
 
-1. [Frequently Asked Questions Document](<{{ site baseurl }}/assets/netlify-uploads/synthetic-health-data-challenge_technical-guidance-and-tips.pdf>) 
+1. [Frequently Asked Questions Document](<{{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge_technical-guidance-and-tips.pdf>) 
 2. Technical Guidance and Tips \[insert hyperlink to download the Technical Guidance PDF file]
 3. Example Modules, Module Companion Guides 
 
