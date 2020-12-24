@@ -345,6 +345,7 @@ Participants will propose a solution in one of two (2) Challenge categories.
    * Prescribing Opioids for Chronic Pain and Treatment of Opioid Use Disorder Module and Companion Guide
    * Sepsis Module and Companion Guide
    * Spina Bifida Module and Companion Guide
+
 4. [Synthetic Health Data Challenge Registration Form]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-registration-form.pdf)
 
 ### Prizes
