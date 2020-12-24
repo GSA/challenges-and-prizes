@@ -6,7 +6,7 @@ permalink: /challenge/synthetic-health-data-challenge/
 challenge-id: "1198"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/1.png
+card-image: /assets/netlify-uploads/hhs-logo-resize-for-tile.png
 agency-logo: /assets/netlify-uploads/hhs.png
 tagline: Create and test novel solutions to further cultivate Synthea
   capabilities and the synthetic data it generates for healthcare and research
