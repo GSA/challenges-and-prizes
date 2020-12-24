@@ -23,6 +23,7 @@ legal-authority: Procurement Authority
 challenge-manager: Stephanie Garcia, ONC
 challenge-manager-email: Stephanie.Garcia@hhs.gov
 point-of-contact: SyntheticDataChallenge@govhealth.com
+body-content-uploads: /assets/netlify-uploads/synthetic-health-data-challenge_technical-guidance-and-tips.pdf
 description: >-
   **\*\*\* Welcome to the Synthetic Health Data Challenge Webpage! Watch this
   space for important updates. \****
@@ -336,16 +337,15 @@ Participants will propose a solution in one of two (2) Challenge categories.
 
 **Resources** 
 
-Frequently Asked Questions Document \[insert a hyperlink to download the FAQ PDF file]
-
-1. Technical Guidance and Tips \[insert hyperlink to download the Technical Guidance PDF file]
-2. Example Modules, Module Companion Guides 
+1. [Frequently Asked Questions Document](https://www.challenge.gov/assets/netlify-uploads/synthetic-health-data-challenge_technical-guidance-and-tips.pdf) 
+2. Technical Guidance and Tips \[insert hyperlink to download the Technical Guidance PDF file]
+3. Example Modules, Module Companion Guides 
 
    * Cerebral Palsy Module and Companion Guide
    * Prescribing Opioids for Chronic Pain and Treatment of Opioid Use Disorder Module and Companion Guide
    * Sepsis Module and Companion Guide
    * Spina Bifida Module and Companion Guide
-3. Synthetic Health Data Challenge Registration Form \[insert a hyperlink to download the Registration Form PDF file]
+4. Synthetic Health Data Challenge Registration Form \[insert a hyperlink to download the Registration Form PDF file]
 
 ### Prizes
 
