@@ -337,16 +337,15 @@ Participants will propose a solution in one of two (2) Challenge categories.
 
 **Resources** 
 
-1. [Frequently Asked Questions Document](<{{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-faqs.pdf>) 
-2. [Technical Guidance and Tips](<{{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge_technical-guidance-and-tips.pdf>) 
+1. [Frequently Asked Questions Document]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-faqs.pdf) 
+2. [Technical Guidance and Tips]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge_technical-guidance-and-tips.pdf) 
 3. Example Modules, Module Companion Guides 
 
    * Cerebral Palsy Module and Companion Guide
    * Prescribing Opioids for Chronic Pain and Treatment of Opioid Use Disorder Module and Companion Guide
    * Sepsis Module and Companion Guide
    * Spina Bifida Module and Companion Guide
-
-4. [Synthetic Health Data Challenge Registration Form](<{{site.baseurl}}//assets/netlify-uploads/synthetic-health-data-challenge-registration-form.pdf>)
+4. [Synthetic Health Data Challenge Registration Form]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-registration-form.pdf)
 
 ### Prizes
 
@@ -438,7 +437,7 @@ Basis Upon Which Phase I Proposals will be Evaluated
 
 **Registration**
 
-Each Phase I Proposal must be accompanied by a completed [Synthetic Health Data Challenge Registration Form](<{{site.baseurl}}//assets/netlify-uploads/synthetic-health-data-challenge-registration-form.pdf>). The form can be mailed with the Phase I Proposal as a separate attachment. If participants submit as a team or as an entity, they must identify a team leader who will serve as a point of contact and submit the Phase I Proposal on behalf of the team.
+Each Phase I Proposal must be accompanied by a completed [Synthetic Health Data Challenge Registration Form]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-registration-form.pdf). The form can be mailed with the Phase I Proposal as a separate attachment. If participants submit as a team or as an entity, they must identify a team leader who will serve as a point of contact and submit the Phase I Proposal on behalf of the team.
 
 Phase I Submission Requirements Only complete and correctly formatted Phase I Proposals will be reviewed. Each Phase I Proposal must include: 
 
