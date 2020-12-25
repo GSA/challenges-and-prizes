@@ -325,15 +325,14 @@ Participants will propose a solution in one of two (2) Challenge categories.
 
 **Resources** 
 
-1. [Frequently Asked Questions Document]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-faqs.pdf) 
-2. [Technical Guidance and Tips]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge_technical-guidance-and-tips.pdf) 
-3. Example Modules, Module Companion Guides 
-
-   * Cerebral Palsy Module and Companion Guide
-   * Prescribing Opioids for Chronic Pain and Treatment of Opioid Use Disorder Module and Companion Guide
-   * Sepsis Module and Companion Guide
-   * Spina Bifida Module and Companion Guide
-4. [Synthetic Health Data Challenge Registration Form]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-registration-form.pdf)
+* [Frequently Asked Questions Document]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-faqs.pdf) 
+* [Technical Guidance and Tips]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge_technical-guidance-and-tips.pdf) 
+* Example Modules, Module Companion Guides 
+  * Cerebral Palsy Module and Companion Guide
+  * Prescribing Opioids for Chronic Pain and Treatment of Opioid Use Disorder Module and Companion Guide
+  * Sepsis Module and Companion Guide
+  * Spina Bifida Module and Companion Guide
+* [Synthetic Health Data Challenge Registration Form]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-registration-form.pdf)
 
 **Key Dates**
 
