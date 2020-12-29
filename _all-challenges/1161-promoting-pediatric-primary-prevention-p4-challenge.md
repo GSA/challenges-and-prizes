@@ -49,7 +49,7 @@ description: >-
   In Phase 1 of the P4 Challenge, up to 50 applicants will receive $10,000 to deploy the proposed approach in Phase 2.
 
 
-  **Why Innovation for P4 Challenge Matters:**
+  **Goal of the P4 Challenge:**
 
 
   The CDC reports that [declines in vaccination coverage](https://www.cdc.gov/mmwr/volumes/69/wr/mm6920e1.htm?s_cid=mm6920e1_x) might leave young children and communities vulnerable to vaccine-preventable diseases such as measles. Well-child visits also [declined](https://services.aap.org/en/pages/2019-novel-coronavirus-covid-19-infections/clinical-guidance/guidance-on-providing-pediatric-well-care-during-covid-19/) since the COVID-19 pandemic. These visits are an important venue for counseling, as well as vaccine administration and documentation.
@@ -69,6 +69,8 @@ description: >-
 
   **Key Dates**
 
+
+  * ***JANUARY 15, 2021 12:00 PM EST***: P4 Challenge Informational Webinar. [Click here](https://capconcorp.zoom.us/j/83746297697?pwd=aE9lT1lpRnVablRuN1czL1BidW1uQT09) to register.
 
   * ***JANUARY 19, 2021:*** Submissions open: visit [agency website](https://mchb.hrsa.gov/P4Challenge) for more information on submission requirements, and submit your application to [MCHBP4Challenge@hrsa.gov](mailto:MCHBP4Challenge@hrsa.gov)
 
@@ -264,7 +266,7 @@ Innovative approaches in Phase 1 should aim to increase a key pediatric health p
 
 In Phase 1 of the P4 Challenge, up to 50 applicants will receive $10,000 to deploy the proposed approach in Phase 2.
 
-**Why Innovation for P4 Challenge Matters:**
+**Goal of the P4 Challenge:**
 
 The CDC reports that [declines in vaccination coverage](https://www.cdc.gov/mmwr/volumes/69/wr/mm6920e1.htm?s_cid=mm6920e1_x) might leave young children and communities vulnerable to vaccine-preventable diseases such as measles. Well-child visits also [declined](https://services.aap.org/en/pages/2019-novel-coronavirus-covid-19-infections/clinical-guidance/guidance-on-providing-pediatric-well-care-during-covid-19/) since the COVID-19 pandemic. These visits are an important venue for counseling, as well as vaccine administration and documentation.
 
@@ -278,6 +280,7 @@ The Maternal and Child Health Bureau (MCHB) envisions partnerships from various 
 
 **Key Dates**
 
+* ***JANUARY 15, 2021 12:00 PM EST***: P4 Challenge Informational Webinar. [Click here](https://capconcorp.zoom.us/j/83746297697?pwd=aE9lT1lpRnVablRuN1czL1BidW1uQT09) to register.
 * ***JANUARY 19, 2021:*** Submissions open: visit [agency website](https://mchb.hrsa.gov/P4Challenge) for more information on submission requirements, and submit your application to [MCHBP4Challenge@hrsa.gov](mailto:MCHBP4Challenge@hrsa.gov)
 * ***MARCH 15, 2021:*** Phase 1 Submissions due
 * ***APRIL 2021:*** Phase 1 Winners announced, prize money distributed, and Phase 2 begins
