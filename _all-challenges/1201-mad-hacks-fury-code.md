@@ -24,7 +24,7 @@ type-of-challenge:
   - Analytics, visualizations, algorithms
   - Scientific
 submission-start: "2021/02/05 12:00 AM "
-submission-end: 2021/02/19 11:59 PM
+submission-end: 2021/02/20 3:00 AM
 fiscal-year: FY21
 legal-authority: Other
 challenge-manager: Kedar Pavgi
