@@ -154,6 +154,12 @@ rules: >-
   * **General Conditions:** HRSA reserves the right to cancel, suspend, and/or modify the Contest, or any part of it, for any reason, at HRSA’s sole discretion.
 
   * **Ownership:** Each entrant retains full ownership in and title to their submission. As an entrant, you reserve all intellectual property rights not expressly granted under the Challenge agreements. However, by participating in the Challenges, you, as an entrant, irrevocably grant HRSA a limited, non-exclusive, royalty-free, worldwide license and right to reproduce, publicly perform, publicly display and use the submission for internal HHS business, and to the extent necessary to administer the Challenge, and to publicly perform and publicly display the submission, including, without limitation, for advertising and promotional purposes relating to the Challenge.
+
+
+  #### Liability and Insurance Requirements:
+
+
+  By registering and entering a submission, each participant agrees to assume any and all risks and waive claims against the Federal Government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue or profits, whether direct, indirect, or consequential, arising from their participation in this competition, whether the injury, death, damage, or loss arises through negligence or otherwise. By registering and entering a submission, each participant further represents and warrants that it possesses sufficient liability insurance or financial resources, to *the extent permitted by applicable law*, to cover claims by a third party for death, bodily injury, or property damage or loss resulting from any activity it carries out in connection with its participation in this competition, or claims by the Federal Government for damage or loss to government property resulting from such an activity. Competition winners shall be prepared to demonstrate proof of insurance or financial responsibility in the event HRSA deems it necessary.
 judging: >-
   **Judging Panel**
 
@@ -336,6 +342,10 @@ Additionally, applicants:
 * **No HHS or HRSA logo:** The intervention must not use HHS or HRSA logos or official seals in the submission and must not claim endorsement.
 * **General Conditions:** HRSA reserves the right to cancel, suspend, and/or modify the Contest, or any part of it, for any reason, at HRSA’s sole discretion.
 * **Ownership:** Each entrant retains full ownership in and title to their submission. As an entrant, you reserve all intellectual property rights not expressly granted under the Challenge agreements. However, by participating in the Challenges, you, as an entrant, irrevocably grant HRSA a limited, non-exclusive, royalty-free, worldwide license and right to reproduce, publicly perform, publicly display and use the submission for internal HHS business, and to the extent necessary to administer the Challenge, and to publicly perform and publicly display the submission, including, without limitation, for advertising and promotional purposes relating to the Challenge.
+
+#### Liability and Insurance Requirements:
+
+By registering and entering a submission, each participant agrees to assume any and all risks and waive claims against the Federal Government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue or profits, whether direct, indirect, or consequential, arising from their participation in this competition, whether the injury, death, damage, or loss arises through negligence or otherwise. By registering and entering a submission, each participant further represents and warrants that it possesses sufficient liability insurance or financial resources, to *the extent permitted by applicable law*, to cover claims by a third party for death, bodily injury, or property damage or loss resulting from any activity it carries out in connection with its participation in this competition, or claims by the Federal Government for damage or loss to government property resulting from such an activity. Competition winners shall be prepared to demonstrate proof of insurance or financial responsibility in the event HRSA deems it necessary.
 
 ### Judging Criteria
 
