@@ -35,7 +35,7 @@ description: >-
   **\*\**Important Update:** 
 
 
-  **\*\*\* Due to the overwhelming interest and submissions for the “Reducing Disparities in Breastfeeding Innovation Challenge,” we are delaying the announcement of Phase 1 winners until later in December 2020. \*\*\***
+  **\*\*\* Due to the overwhelming interest and submissions for the “Reducing Disparities in Breastfeeding Innovation Challenge,” we are delaying the announcement of Phase 1 winners until January 2020. \*\*\***
 
 
   The Office of the Assistant Secretary for Health (OASH), Office on Women’s Health (OWH) is seeking innovative ways to increase breastfeeding initiation and/or continuation rates and decrease disparities among breastfeeding mothers in the United States through the HHS Reducing Disparities in Breastfeeding Innovation Challenge.
@@ -91,7 +91,7 @@ description: >-
 
   * Submission period ends: December 9, 2020, 11:59 pm EST.
 
-  * Winners announced: December 2020.
+  * Winners announced: January 2020.
 
 
   **Phase 2: Awarding plans for sustainability and replication and/or expansion**
@@ -351,7 +351,7 @@ how-to-enter: >-
 
 **\*\**Important Update:** 
 
-**\*\*\* Due to the overwhelming interest and submissions for the “Reducing Disparities in Breastfeeding Innovation Challenge,” we are delaying the announcement of Phase 1 winners until later in December 2020. \*\*\***
+**\*\*\* Due to the overwhelming interest and submissions for the “Reducing Disparities in Breastfeeding Innovation Challenge,” we are delaying the announcement of Phase 1 winners until January 2020. \*\*\***
 
 The Office of the Assistant Secretary for Health (OASH), Office on Women’s Health (OWH) is seeking innovative ways to increase breastfeeding initiation and/or continuation rates and decrease disparities among breastfeeding mothers in the United States through the HHS Reducing Disparities in Breastfeeding Innovation Challenge.
 
@@ -391,7 +391,7 @@ The competition has three phases. All eligible submissions will be evaluated, an
   * View PowerPoint Slides (pdf) [here](https://files.womenshealth.gov/files/breastfeeding-innovation-challenge-phase-1-webinar-fink_508.pdf)
 * Webinar: Monday, November 23, 2020, 2:00-3:00 pm EST; Join [here](https://hhs.webex.com/webappng/sites/hhs/meeting/download/22b4f18949df4f81a9f073ff40b15d5c?siteurl=hhs&MTID=ma767d7249b4de76d79977b706c880a53)
 * Submission period ends: December 9, 2020, 11:59 pm EST.
-* Winners announced: December 2020.
+* Winners announced: January 2020.
 
 **Phase 2: Awarding plans for sustainability and replication and/or expansion**
 
