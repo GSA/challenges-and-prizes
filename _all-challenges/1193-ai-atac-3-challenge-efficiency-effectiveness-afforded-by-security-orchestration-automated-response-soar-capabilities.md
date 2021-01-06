@@ -137,7 +137,7 @@ rules: >-
   Expertise of SOC analysts is particularly important and relevant to Phase 2, and access to SOC expertise is limited; consequently, Phase 2 will be evaluated on a smaller subset of Phase 1 Participants. Additional tests of each SOAR tool, to measure further quantitative and qualitative metrics, will be performed by ORNL research staff.
 
 
-  All questions regarding the Challenge should be sent via email to [AIATAC.PRIZE.CHALLENGE@NAVY.MIL](mailto:AIATAC.PRIZE.CHALLENGE@NAVY.MIL) no later than 9 January 2021, 1700 EST. Questions submitted after this deadline may not be addressed.
+  All questions regarding the Challenge should be sent via email to [AIATAC.PRIZE.CHALLENGE@NAVY.MIL](mailto:AIATAC.PRIZE.CHALLENGE@NAVY.MIL) no later than 22 January 2021, 1700 EST. Questions submitted after this deadline may not be addressed.
 
 
   #### Eligibility Requirements
@@ -481,7 +481,7 @@ Once technologies are appropriately configured, Phase 2 evaluation will commence
 
 Expertise of SOC analysts is particularly important and relevant to Phase 2, and access to SOC expertise is limited; consequently, Phase 2 will be evaluated on a smaller subset of Phase 1 Participants. Additional tests of each SOAR tool, to measure further quantitative and qualitative metrics, will be performed by ORNL research staff.
 
-All questions regarding the Challenge should be sent via email to [AIATAC.PRIZE.CHALLENGE@NAVY.MIL](mailto:AIATAC.PRIZE.CHALLENGE@NAVY.MIL) no later than 9 January 2021, 1700 EST. Questions submitted after this deadline may not be addressed.
+All questions regarding the Challenge should be sent via email to [AIATAC.PRIZE.CHALLENGE@NAVY.MIL](mailto:AIATAC.PRIZE.CHALLENGE@NAVY.MIL) no later than 22 January 2021, 1700 EST. Questions submitted after this deadline may not be addressed.
 
 #### Eligibility Requirements
 
