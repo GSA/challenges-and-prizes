@@ -4,7 +4,7 @@ challenge-title: Innovative Technology Solutions for Social Care Referrals
 layout: front-matter-data-markdownify-content
 permalink: /challenge/innovative-technology-solutions-for-social-care-referrals/
 challenge-id: "1102"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/acl_logo_june2020.jpg
 agency-logo: /assets/netlify-uploads/hhs.png
@@ -16,8 +16,8 @@ agency: Department of Health and Human Services
 total-prize-offered-cash: $500,000
 type-of-challenge:
   - Software and apps
-submission-start: 2020/07/13 12:00 PM
-submission-end: 2021/01/06 05:00 PM
+submission-start: 07/13/2020 12:00 PM
+submission-end: 01/06/2021 05:00 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Ami Patel
