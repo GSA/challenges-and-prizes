@@ -185,10 +185,11 @@ prizes: >-
     * Carnegie Mellon University - Human-Computer Interaction Institute
     * Clemson University
     * Foresight Augmented Reality LLC
-    * May Mobility
+    * May Mobility & University of Michigan Transportation Research Institute (UMTRI)
     * Purdue University
     * University of Kansas
-    * University of 
+    * University of Maine
+    * Waymo
   * Stage II Prototype/Demonstration: Total prize funds awarded = $2,000,000
 
     * Winner (1st place) will receive $1,000,000
@@ -468,7 +469,7 @@ Prizes will be structured as follows:
   * Carnegie Mellon University - Human-Computer Interaction Institute
   * Clemson University
   * Foresight Augmented Reality LLC
-  * May Mobility
+  * May Mobility & University of Michigan Transportation Research Institute (UMTRI)
   * Purdue University
   * University of Kansas
   * University of Maine
