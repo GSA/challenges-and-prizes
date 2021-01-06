@@ -27,16 +27,15 @@ challenge-manager: Marissa Wagler
 challenge-manager-email: marissa.wagler@navy.mil
 point-of-contact: marissa.wagler@navy.mil
 description: >-
-  **Three (3) participants have been selected for invitation to participate in
-  Phase III of the Lithium Battery Man Portable Hazard Containment Prize
-  Challenge. Participant names are listed below in alphabetical order:**
+  The three (3) winners of the Lithium Battery Man Portable Containment Phase
+  III Challenge are:
 
 
-  1. Fire Containment Concepts
+  * 1st Place: Mistral, Inc.
 
-  2. Mistral, Inc.
+  * 2nd Place: Zarges, Inc.
 
-  3. Zarges, Inc.
+  * 3rd Place: Fire Containment Concepts
 
 
   Five (5) participants were selected to participate in Phase II of the Lithium Battery Man Portable Hazard Containment Prize Challenge. Participant names are listed below in alphabetical order:
@@ -624,11 +623,11 @@ how-to-enter: >-
 ---
 ### Description
 
-**Three (3) participants have been selected for invitation to participate in Phase III of the Lithium Battery Man Portable Hazard Containment Prize Challenge. Participant names are listed below in alphabetical order:**
+The three (3) winners of the Lithium Battery Man Portable Containment Phase III Challenge are:
 
-1. Fire Containment Concepts
-2. Mistral, Inc.
-3. Zarges, Inc. 
+* 1st Place: Mistral, Inc.
+* 2nd Place: Zarges, Inc.
+* 3rd Place: Fire Containment Concepts
 
 Five (5) participants were selected to participate in Phase II of the Lithium Battery Man Portable Hazard Containment Prize Challenge. Participant names are listed below in alphabetical order:
 
