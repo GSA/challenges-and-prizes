@@ -432,7 +432,7 @@ This Challenge will measure the performance of these tools to determine how well
 #### Key Dates
 
 * 10 December 2020: Kick-off of AI ATAC 3 on Challenge.gov
-* 8 January 2021: Deadline for potential Participants to send an email to indicate intent to participate (details below)
+* 22 January 2021: Deadline for potential Participants to send an email to indicate intent to participate (details below)
 * 12 February 2021:	All submissions due
 * TBD: Candidates selected for Phase 2 will be notified by email
 
