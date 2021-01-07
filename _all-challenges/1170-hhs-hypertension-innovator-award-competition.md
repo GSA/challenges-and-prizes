@@ -4,7 +4,7 @@ challenge-title: HHS Hypertension Innovator Award Competition
 layout: front-matter-data-markdownify-content
 permalink: /challenge/hhs-hypertension-innovator-award-competition/
 challenge-id: "1170"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/webp.net-resizeimage-3-.jpg
 agency-logo: /assets/netlify-uploads/hhs.png
@@ -21,8 +21,8 @@ type-of-challenge:
   - Scientific
   - Software and apps
   - Technology demonstration and hardware
-submission-start: 2020/09/30 5:00 PM
-submission-end: 2021/01/06 11:59 PM
+submission-start: 09/30/2020 5:00 PM
+submission-end: 01/06/2021 11:59 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Courtney Gustin

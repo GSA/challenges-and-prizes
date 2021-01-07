@@ -63,9 +63,9 @@ description: >-
 
   * 10 December 2020: Kick-off of AI ATAC 3 on Challenge.gov
 
-  * 8 January 2021: Deadline for potential Participants to send an email to indicate intent to participate (details below)
+  * 22 January 2021: Deadline for potential Participants to send an email to indicate intent to participate (details below)
 
-  * 12 February 2021:	All submissions due
+  * 12 February 2021: All submissions due
 
   * TBD: Candidates selected for Phase 2 will be notified by email
 prizes: >-
@@ -98,6 +98,7 @@ rules: >-
 
 
   While reading this section, it may be helpful to refer to the “How to Enter” section, which itemizes the detailed requirements of a submission package. The "How to Enter" section provides instructions for submitting the package.
+
 
   This Challenge will be conducted in two successive phases. 
 
@@ -136,10 +137,10 @@ rules: >-
   Expertise of SOC analysts is particularly important and relevant to Phase 2, and access to SOC expertise is limited; consequently, Phase 2 will be evaluated on a smaller subset of Phase 1 Participants. Additional tests of each SOAR tool, to measure further quantitative and qualitative metrics, will be performed by ORNL research staff.
 
 
-  All questions regarding the Challenge should be sent via email to [AIATAC.PRIZE.CHALLENGE@NAVY.MIL](mailto:AIATAC.PRIZE.CHALLENGE@NAVY.MIL) no later than 9 January 2021, 1700 EST. Questions submitted after this deadline may not be addressed.
+  All questions regarding the Challenge should be sent via email to [AIATAC.PRIZE.CHALLENGE@NAVY.MIL](mailto:AIATAC.PRIZE.CHALLENGE@NAVY.MIL) no later than 22 January 2021, 1700 EST. Questions submitted after this deadline may not be addressed.
 
 
-  #### Eligibility Requirements 
+  #### Eligibility Requirements
 
 
   The Challenge is open to individual Participants, teams of Participants, and commercial entities. As part of its submission, Participants must either own the intellectual property (IP) in the solution or provide documentation that indicates all IP stakeholders in its submission. The documentation should describe the type of IP and the entity that holds title to the IP. In either case, only one entry for each commercial technology is allowed. Commercial entities must be incorporated in and maintain a primary place of business in the United States (U.S.). Individual Participants and all members of teams of Participants must all be U.S. citizens or U.S. Permanent Residents and be 18 years or older as of 15 December 2020. All Participants (commercial entities or individuals) must have a Social Security Number (SSN), Taxpayer Identification Number (TIN), or Employer Identification Number (EIN) in order to receive a prize. Eligibility is subject to verification before any prize is awarded.
@@ -147,7 +148,7 @@ rules: >-
   Federal Government employees, PMW 130 support contractors and their employees, and Oak Ridge National Laboratory (ORNL) support contractors and their employees are not eligible to participate in this Challenge. Violation of the rules contained herein or intentional or consistent activity that undermines the spirit of the Challenge may result in disqualification. The Challenge is void wherever restricted or prohibited by law.
 
 
-  #### Terms & Conditions 
+  #### Terms & Conditions
 
 
   These terms and conditions apply to all Participants in the Challenge.
@@ -246,7 +247,7 @@ how-to-enter: >-
   #### Entry Instructions
 
 
-  All participants must email [AIATAC.PRIZE.CHALLENGE@NAVY.MIL](mailto:AIATAC.PRIZE.CHALLENGE@NAVY.MIL) to indicate your intent to participate prior to **8 January 2020 @ 1700 EST**.
+  All participants must email [AIATAC.PRIZE.CHALLENGE@NAVY.MIL](mailto:AIATAC.PRIZE.CHALLENGE@NAVY.MIL) to indicate your intent to participate prior to **22 January 2020 @ 1700 EST**.
 
 
   Only unclassified information may be part of the submission package. The Phase 1 submission package must include these four items:
@@ -432,7 +433,7 @@ This Challenge will measure the performance of these tools to determine how well
 #### Key Dates
 
 * 10 December 2020: Kick-off of AI ATAC 3 on Challenge.gov
-* 8 January 2021: Deadline for potential Participants to send an email to indicate intent to participate (details below)
+* 22 January 2021: Deadline for potential Participants to send an email to indicate intent to participate (details below)
 * 12 February 2021:	All submissions due
 * TBD: Candidates selected for Phase 2 will be notified by email
 
@@ -480,7 +481,7 @@ Once technologies are appropriately configured, Phase 2 evaluation will commence
 
 Expertise of SOC analysts is particularly important and relevant to Phase 2, and access to SOC expertise is limited; consequently, Phase 2 will be evaluated on a smaller subset of Phase 1 Participants. Additional tests of each SOAR tool, to measure further quantitative and qualitative metrics, will be performed by ORNL research staff.
 
-All questions regarding the Challenge should be sent via email to [AIATAC.PRIZE.CHALLENGE@NAVY.MIL](mailto:AIATAC.PRIZE.CHALLENGE@NAVY.MIL) no later than 9 January 2021, 1700 EST. Questions submitted after this deadline may not be addressed.
+All questions regarding the Challenge should be sent via email to [AIATAC.PRIZE.CHALLENGE@NAVY.MIL](mailto:AIATAC.PRIZE.CHALLENGE@NAVY.MIL) no later than 22 January 2021, 1700 EST. Questions submitted after this deadline may not be addressed.
 
 #### Eligibility Requirements
 
@@ -566,7 +567,7 @@ In Phase 2, ORNL will conduct an analysis of each tool’s ability to rank alert
 
 #### Entry Instructions
 
-All participants must email [AIATAC.PRIZE.CHALLENGE@NAVY.MIL](mailto:AIATAC.PRIZE.CHALLENGE@NAVY.MIL) to indicate your intent to participate prior to **8 January 2020 @ 1700 EST**.
+All participants must email [AIATAC.PRIZE.CHALLENGE@NAVY.MIL](mailto:AIATAC.PRIZE.CHALLENGE@NAVY.MIL) to indicate your intent to participate prior to **22 January 2021 @ 1700 EST**.
 
 Only unclassified information may be part of the submission package. The Phase 1 submission package must include these four items:
 
