@@ -10,8 +10,7 @@ card-image: /assets/netlify-uploads/dsf-full-color_resize.png
 agency-logo: /assets/netlify-uploads/717px-NASA_logo.png
 tagline: Help Feed the Next Generation of Space Explorers!
 agency: NASA
-partner-agencies-federal: Office of Naval Research Science and Technology (ONR),
-  NavalX Midwest Tech Bridge
+partner-agencies-federal: ""
 partners-non-federal: Canadian Space Agency (CSA), Methuselah Foundation
 total-prize-offered-cash: $500,000
 type-of-challenge:
@@ -56,17 +55,17 @@ description: >-
   **Key Dates**
 
 
-  January 12, 2021	Phase 1 Opens for Registration & Submission
+  * January 12, 2021 - Phase 1 Opens for Registration & Submission
 
-  May 28, 2021 		Phase 1 Registration Closes for U.S. & Other International Teams
+  * May 28, 2021 - Phase 1 Registration Closes for U.S. & Other International Teams
 
-  July 30, 2021		Phase 1 Registration Closes for Canadian Teams
+  * July 30, 2021 - Phase 1 Registration Closes for Canadian Teams
 
-  July 30, 2021		Phase 1 Submissions Due for all Teams
+  * July 30, 2021 - Phase 1 Submissions Due for all Teams
 
-  September 2021	Phase 1 Winner(s) Announced
+  * September 2021 - Phase 1 Winner(s) Announced
 prizes: >-
-  **Total Cash Prize Pool**
+  <https://www.deepspacefoodchallenge.org>**Total Cash Prize Pool**
 
 
   Phase 1 of the Deep Space Food Challenge is a prize competition with a total prize purse made up of $500,000 USD, (five hundred thousand United States dollars) and $300,000 CAD (three hundred thousand Canadian dollars) to be awarded to competitor teams for the design of novel food production technologies for long duration space exploration missions.
@@ -113,7 +112,7 @@ judging: >-
   **Judging Criteria**
 
 
-  The Judging Panels will evaluate designs according to the criteria defined on page 14 of the Official Rules Document ([www.deepspacefoodchallenge.org](www.deepspacefoodchallenge.org)).
+  The Judging Panels will evaluate designs according to the criteria defined on page 14 of the Official Rules Document ([www.deepspacefoodchallenge.org](https://www.deepspacefoodchallenge.org)).
 
 
   The criteria categories include:
@@ -136,11 +135,11 @@ how-to-enter: "All interested Teams will register for the Challenge by the
   deadline and meet the eligibility requirements in order to participate in the
   Challenge and win a prize.  For all Teams, the registration links will be
   provided through the official Challenge websites:
-  ([www.deepspacefoodchallenge.org](www.deepspacefoodchallenge.org)).  Registra\
-  tion and eligibility requirements may vary between the NASA and CSA.  All
-  Teams should refer to the Challenge website
-  ([www.deepspacefoodchallenge.org](www.deepspacefoodchallenge.org)) for a full
-  description of the registration process and eligibility requirements."
+  ([www.deepspacefoodchallenge.org](https://www.deepspacefoodchallenge.org)).  \
+  Registration and eligibility requirements may vary between the NASA and
+  CSA.  All Teams should refer to the Challenge website
+  ([www.deepspacefoodchallenge.org](https://www.deepspacefoodchallenge.org)) for
+  a full description of the registration process and eligibility requirements."
 ---
 ### Description
 
@@ -161,11 +160,11 @@ Additionally, food insecurity is a significant, chronic problem on Earth in both
 
 **Key Dates**
 
-January 12, 2021	Phase 1 Opens for Registration & Submission
-May 28, 2021 		Phase 1 Registration Closes for U.S. & Other International Teams
-July 30, 2021		Phase 1 Registration Closes for Canadian Teams
-July 30, 2021		Phase 1 Submissions Due for all Teams
-September 2021	Phase 1 Winner(s) Announced
+* January 12, 2021 - Phase 1 Opens for Registration & Submission
+* May 28, 2021 - Phase 1 Registration Closes for U.S. & Other International Teams
+* July 30, 2021 - Phase 1 Registration Closes for Canadian Teams
+* July 30, 2021 - Phase 1 Submissions Due for all Teams
+* September 2021 - Phase 1 Winner(s) Announced
 
 ### Prizes
 
@@ -191,7 +190,7 @@ The 10 top scoring Teams will be recognized as Challenge winners. Teams must mee
 
 ### **Rules**
 
-For challenge rules and eligible requirements visit: [www.deepspacefoodchallenge.org](www.deepspacefoodchallenge.org)
+For challenge rules and eligible requirements visit: [www.deepspacefoodchallenge.org](https://www.deepspacefoodchallenge.org)
 
 **NOTE:** Eligibility requirements may vary between the NASA and CSA
 
@@ -205,7 +204,7 @@ Following the Phase 1 submission deadline, the Judging Panels will review the su
 
 **Judging Criteria**
 
-The Judging Panels will evaluate designs according to the criteria defined on page 14 of the Official Rules Document ([www.deepspacefoodchallenge.org](www.deepspacefoodchallenge.org)).
+The Judging Panels will evaluate designs according to the criteria defined on page 14 of the Official Rules Document ([www.deepspacefoodchallenge.org)](https://www.deepspacefoodchallenge.org).
 
 The criteria categories include:
 
@@ -225,4 +224,4 @@ The criteria categories include:
 
 ### How to Enter
 
-All interested Teams will register for the Challenge by the deadline and meet the eligibility requirements in order to participate in the Challenge and win a prize.  For all Teams, the registration links will be provided through the official Challenge websites: ([www.deepspacefoodchallenge.org](www.deepspacefoodchallenge.org)).  Registration and eligibility requirements may vary between the NASA and CSA.  All Teams should refer to the Challenge website ([www.deepspacefoodchallenge.org](www.deepspacefoodchallenge.org)) for a full description of the registration process and eligibility requirements.
+All interested Teams will register for the Challenge by the deadline and meet the eligibility requirements in order to participate in the Challenge and win a prize.  For all Teams, the registration links will be provided through the official Challenge websites: ([www.deepspacefoodchallenge.org](https://www.deepspacefoodchallenge.org)).  Registration and eligibility requirements may vary between the NASA and CSA.  All Teams should refer to the Challenge website ([www.deepspacefoodchallenge.org](https://www.deepspacefoodchallenge.org)) for a full description of the registration process and eligibility requirements.
