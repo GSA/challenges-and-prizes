@@ -325,7 +325,7 @@ judging: >-
   #### Stage II Judging Criteria
 
 
-  DOT shared final Stage II Instructions with Semifinalists at the time of their selection.  The [Stage II Instructions](<{{ site.baseurl }}/assets/netlify-uploads/u.s.-dot-inclusive-design-challenge-stage-ii-instructions.pdf>) include details on Stage II submission materials, judging criteria, and timeline.
+  DOT shared final Stage II Instructions with Semifinalists at the time of their selection.  The [Stage II Instructions](<{{ site.baseurl }}/assets/netlify-uploads/us-dot-inclusive-design-challenge-stage-ii-instructions.pdf>) include details on Stage II submission materials, judging criteria, and timeline.
 how-to-enter: >-
   Submissions should follow the instructions below and should be submitted
   to  [hostedsites.volpe.dot.gov/inclusivedesign](https://hostedsites.volpe.dot.gov/inclusivedesign/). 
@@ -571,7 +571,7 @@ The judging panel will consider each submission's alignment with each of these c
 
 #### Stage II Judging Criteria
 
-DOT shared final Stage II Instructions with Semifinalists at the time of their selection.  The [Stage II Instructions](<{{ site.baseurl }}/assets/netlify-uploads/u.s.-dot-inclusive-design-challenge-stage-ii-instructions.pdf>) include details on Stage II submission materials, judging criteria, and timeline.
+DOT shared final Stage II Instructions with Semifinalists at the time of their selection.  The [Stage II Instructions](<{{ site.baseurl }}/assets/netlify-uploads/us-dot-inclusive-design-challenge-stage-ii-instructions.pdf>) include details on Stage II submission materials, judging criteria, and timeline.
 
 ### How To Enter
 
