@@ -21,7 +21,7 @@ legal-authority: America COMPETES Act
 challenge-manager: Rachael Sack
 challenge-manager-email: Rachael.Sack@dot.gov
 point-of-contact: inclusivedesign@dot.gov
-body-content-uploads: /assets/netlify-uploads/u.s.-dot-inclusive-design-challenge-stage-ii-instructions.pdf
+body-content-uploads: /assets/netlify-uploads/us-dot-inclusive-design-challenge-stage-ii-instructions.pdf
 description: >-
   **Updates have been made to the Stage II Judging Criteria section. For more
   information about Stage II please visit
@@ -571,7 +571,7 @@ The judging panel will consider each submission's alignment with each of these c
 
 #### Stage II Judging Criteria
 
-DOT shared final Stage II Instructions with Semifinalists at the time of their selection.  The [Stage II Instructions](<{{ site.baseurl }}/assets/netlify-uploads/us-dot-inclusive-design-challenge-stage-ii-instructions.pdf>) include details on Stage II submission materials, judging criteria, and timeline.
+DOT shared final Stage II Instructions with Semifinalists at the time of their selection.  The [Stage II Instructions](<{{ site.baseurl }}/assets/netlify-uploads/us-dot-inclusive-design-challenge-stage-ii-instructions.pdf>) include details on Stage II submission materials, judging criteria, and timeline.
 
 ### How To Enter
 
