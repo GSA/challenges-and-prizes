@@ -4,7 +4,7 @@ challenge-title: Inclusive Design Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/inclusive-design-challenge/
 challenge-id: "1122"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/dot-idc.jpg
 agency-logo: /assets/netlify-uploads/DOT_logo.jpg
@@ -14,8 +14,8 @@ agency: Department of Transportation
 total-prize-offered-cash: $5,000,000
 type-of-challenge:
   - Technology demonstration and hardware
-submission-start: 202004/21 08:00 AM
-submission-end: 2020/10/30 05:00 PM
+submission-start: 04/21/2020 08:00 AM
+submission-end: 10/30/2020 05:00 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Rachael Sack
