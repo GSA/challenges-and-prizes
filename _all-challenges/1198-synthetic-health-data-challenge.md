@@ -318,7 +318,7 @@ how-to-enter: >-
 
 **\*\* Welcome to the Synthetic Health Data Challenge Webpage! Watch this space for important updates. \*\***
 
-**\*\* Join us for the Phase I Informational Webinar on February 2, 2021 at 12:00 PM ET. The Webinar is open to anyone interested in learning about or participating in the Challenge. To register, visit:** <https://govhealth.zoom.us/webinar/register/WN_VGdgwkL0R427qZBkykdh0w>**. The Webinar will also be recorded and made available on this site. Watch for a future announcement. \*\***
+**\*\* Join us for the Phase I Informational Webinar on February 2, 2021 at 12:00 PM ET. The Webinar is open to anyone interested in learning about or participating in the Challenge. To register, click [here.](<https://govhealth.zoom.us/webinar/register/WN_VGdgwkL0R427qZBkykdh0w)** [](https://govhealth.zoom.us/webinar/register/WN_VGdgwkL0R427qZBkykdh0w)**The Webinar will also be recorded and made available on this site. Watch for a future announcement. \*\***
 
 The Office of the National Coordinator for Health Information Technology (ONC), a division of the Department of Health and Human Services, has led and collaborated on many projects supporting the adoption and implementation of a patient-centered outcomes research (PCOR) data infrastructure. Projects funded by the Patient-Centered Outcomes Research Trust Fund, administered by the Assistant Secretary for Planning and Evaluation (ASPE), support the development of data capacity and infrastructure that can engage patients in health care decision-making and incorporate their responses into research. The Synthetic Health Data Challenge (Challenge) is an important component of the [Synthetic Health Data Generation to Accelerate PCOR Project](https://www.healthit.gov/topic/research-evaluation/synthetic-health-data-generation-accelerate-patient-centered-outcomes), through which ONC seeks to accelerate PCOR by furthering the development of Synthea™, a synthetic health data engine. The Challenge invites providers, researchers, and technology developers to develop innovative tools and resources that support validation and novel uses of synthetic data for PCOR researchers and/or health IT developers.
 
@@ -351,14 +351,12 @@ Participants will propose a solution in one of two (2) Challenge categories.
 * [Frequently Asked Questions Document]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-faqs.pdf) 
 * [Technical Guidance and Tips]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge_technical-guidance-and-tips.pdf) 
 * Example Modules, Module Companion Guides 
-
   * [Cerebral Palsy Module](https://synthetichealth.github.io/module-builder/#cerebral_palsy) and Companion Guide
   * [Prescribing Opioids for Chronic Pain and Treatment of Opioid Use Disorder Module](https://synthetichealth.github.io/module-builder/#prescribing_opioids_for_chronic_pain_and_treatment_of_oud) and Companion Guide
   * [Sepsis Module](https://synthetichealth.github.io/module-builder/#sepsis) and Companion Guide
   * [Spina Bifida](https://synthetichealth.github.io/module-builder/#spina_bifida) Module and Companion Guide
 * [Synthetic Health Data Challenge Registration Form]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-registration-form.pdf)
 * Phase I Informational Webinar (Feb 2, 2021 12:00 PM ET)
-
   * [Registration](https://govhealth.zoom.us/webinar/register/WN_VGdgwkL0R427qZBkykdh0w)
   * Webinar Materials (forthcoming)
 
