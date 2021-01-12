@@ -25,14 +25,14 @@ challenge-manager-email: Stephanie.Garcia@hhs.gov
 point-of-contact: SyntheticDataChallenge@govhealth.com
 body-content-uploads: /assets/netlify-uploads/synthetic-health-data-challenge-registration-form.pdf
 description: >-
-  **\*\*\* Welcome to the Synthetic Health Data Challenge Webpage! Watch this
-  space for important updates. \****
+  **\*\* Welcome to the Synthetic Health Data Challenge Webpage! Watch this
+  space for important updates. \*\***
 
 
-  **\*\* Join us for the Phase I Informational Webinar on February 2, 2021 at 12:00 PM ET. The Webinar is open to anyone interested in learning about or participating in the Challenge. To register, visit \[insert URL to webinar registration]. The Webinar will also be recorded and made available on this site. Watch for a future announcement. \*\***
+  **\*\* Join us for the Phase I Informational Webinar on February 2, 2021 at 12:00 PM ET. The Webinar is open to anyone interested in learning about or participating in the Challenge. To register, visit:** <https://govhealth.zoom.us/webinar/register/WN_VGdgwkL0R427qZBkykdh0w>**. The Webinar will also be recorded and made available on this site. Watch for a future announcement. \*\***
 
 
-  The Office of the National Coordinator for Health Information Technology (ONC), a division of the Department of Health and Human Services, has led and collaborated on many projects supporting the adoption and implementation of a patient-centered outcomes research (PCOR) data infrastructure. Projects funded by the Patient-Centered Outcomes Research Trust Fund, administered by the Assistant Secretary for Planning and Evaluation (ASPE), support the development of data capacity and infrastructure that can engage patients in health care decision-making and incorporate their responses into research. The Synthetic Health Data Challenge (Challenge) is an important component of the [Synthetic Health Data Generation to Accelerate PCOR Project](https://www.healthit.gov/topic/research-evaluation/synthetic-health-data-generation-accelerate-patient-centered-outcomes), through which ONC seeks to accelerate PCOR by furthering the development of SyntheaTM, a synthetic health data engine. The Challenge invites providers, researchers, and technology developers to develop innovative tools and resources that support validation and novel uses of synthetic data for PCOR researchers and/or health IT developers.
+  The Office of the National Coordinator for Health Information Technology (ONC), a division of the Department of Health and Human Services, has led and collaborated on many projects supporting the adoption and implementation of a patient-centered outcomes research (PCOR) data infrastructure. Projects funded by the Patient-Centered Outcomes Research Trust Fund, administered by the Assistant Secretary for Planning and Evaluation (ASPE), support the development of data capacity and infrastructure that can engage patients in health care decision-making and incorporate their responses into research. The Synthetic Health Data Challenge (Challenge) is an important component of the [Synthetic Health Data Generation to Accelerate PCOR Project](https://www.healthit.gov/topic/research-evaluation/synthetic-health-data-generation-accelerate-patient-centered-outcomes), through which ONC seeks to accelerate PCOR by furthering the development of Synthea™, a synthetic health data engine. The Challenge invites providers, researchers, and technology developers to develop innovative tools and resources that support validation and novel uses of synthetic data for PCOR researchers and/or health IT developers.
 
 
   **Background**
@@ -71,6 +71,26 @@ description: >-
 
   * **Category II – Novel Uses of Synthea Generated Synthetic Data:** Solutions in this category include, but are not limited to, novel uses of Synthea generated data for research and technology development.
 
+
+  **Resources** 
+
+
+  * [Frequently Asked Questions Document]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-faqs.pdf) 
+
+  * [Technical Guidance and Tips]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge_technical-guidance-and-tips.pdf) 
+
+  * Example Modules, Module Companion Guides 
+
+    * [Cerebral Palsy Module](https://synthetichealth.github.io/module-builder/#cerebral_palsy) and Companion Guide
+    * [Prescribing Opioids for Chronic Pain and Treatment of Opioid Use Disorder Module](https://synthetichealth.github.io/module-builder/#prescribing_opioids_for_chronic_pain_and_treatment_of_oud) and Companion Guide
+    * [Sepsis Module](https://synthetichealth.github.io/module-builder/#sepsis) and Companion Guide
+    * [Spina Bifida](https://synthetichealth.github.io/module-builder/#spina_bifida) Module and Companion Guide
+  * [Synthetic Health Data Challenge Registration Form]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-registration-form.pdf)
+
+  * Phase I Informational Webinar (Feb 2, 2021 12:00 PM ET)
+
+    * [Registration](https://govhealth.zoom.us/webinar/register/WN_VGdgwkL0R427qZBkykdh0w)
+    * Webinar Materials (forthcoming)
 
   **Key Dates**
 
@@ -228,10 +248,13 @@ how-to-enter: >-
   **Registration**
 
 
-  Each Phase I Proposal must be accompanied by a completed Synthetic Health Data Challenge Registration Form \[insert hyperlink to download the Registration Form PDF file] The form can be mailed with the Phase I Proposal as a separate attachment. If participants submit as a team or as an entity, they must identify a team leader who will serve as a point of contact and submit the Phase I Proposal on behalf of the team.
+  Each Phase I Proposal must be accompanied by a completed [Synthetic Health Data Challenge Registration Form]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-registration-form.pdf). The form can be submitted with the Phase I Proposal as a separate attachment. If participants submit as a team or as an entity, they must identify a team leader who will serve as a point of contact and submit the Phase I Proposal on behalf of the team.
 
 
-  Phase I Submission Requirements Only complete and correctly formatted Phase I Proposals will be reviewed. Each Phase I Proposal must include: 
+  **Phase I Submission Requirements** 
+
+
+  Only complete and correctly formatted Phase I Proposals will be reviewed. Each Phase I Proposal must include: 
 
 
   * a registration form; and
@@ -244,10 +267,10 @@ how-to-enter: >-
   Detailed instructions on the content of the Phase I Proposal are listed below.
 
 
-  Phase I Proposal Packages must be submitted as a single PDF file to [SyntheticDataChallenge@govhealth.com](mailto:SyntheticDataChallenge@govhealth.com) by 5:00 PM ET on March 2, 2021. Late submissions will not be accepted.
+  Phase I Proposal Packages must be submitted as a single PDF file to [SyntheticDataChallenge@govhealth.com](mailto:SyntheticDataChallenge@govhealth.com) by 05:00 PM ET on March 2, 2021. Late submissions will not be accepted.
 
 
-  * The Phase I Proposal must consist of a single PDF file with at least 1-inch margins. Font size must be no smaller than 11-point font. All Proposals must be written in English and not exceed six (6) pages.
+  * The Phase I Proposal must consist of a single PDF file with at least 1-inch margins. Font size must be no smaller than 11-point font. All Proposals must be written in English and not exceed six (6) pages, single spaced.
 
   * The Phase I Proposal must contain a Cover Page that includes the solution name, organization and contact information of the submitter(s), title, Challenge category that your solution will address, and an abstract that describes the solution. Explain how researchers and/or technology developers can benefit from your solution and why the approach is innovative. Limit one (1) page.
 
@@ -269,7 +292,7 @@ how-to-enter: >-
 
   Participants selected to proceed to Phase II will design and test the solution defined in the approved Phase I Proposal. Each submission requires a complete “Phase II Solution Package.” If participants submit as a team or as an entity, they should identify a team leader who will serve as a point of contact and submit the Solution Package on behalf of the team. Only complete and correctly formatted Solutions Packages will be reviewed. Detailed instructions on the content of the Solution Package are listed below. Participants must submit non-proprietary source code as part of their Phase II submission and contribute the source code to the open-source community.
 
-  Phase II Solution Packages must be submitted to [SyntheticDataChallenge@govhealth.com](mailto:SyntheticDataChallenge@govhealth.com) by 5:00 PM ET on July 13, 2021. Late submissions will not be accepted.
+  Phase II Solution Packages must be submitted to [SyntheticDataChallenge@govhealth.com](mailto:SyntheticDataChallenge@govhealth.com) by 05:00 PM ET on July 13, 2021. Late submissions will not be accepted.
 
 
   The Phase II Solution Package must contain:
@@ -277,7 +300,7 @@ how-to-enter: >-
 
   * A cover page that includes the title of the final solution, organization and contact information of the submitter(s), and the Challenge category that your solution will address. Limit one (1) page.
 
-  * A final paper describing the solution. The paper must be a single PDF file with at least 1-inch margins. Font size must be no smaller than 11-point font. The paper must be written in English and not exceed six (6) pages. The paper must contain a title, abstract, a clear description of the solution, a summary of methods, evidence of validation, and how the solution meets the Challenge requirements. Include figures/illustrations where appropriate; figures/illustrations will count toward the six (6) page limit. Provide references as appropriate; references do not count toward the page limit.
+  * A final paper describing the solution. The paper must be a single PDF file with at least 1-inch margins. Font size must be no smaller than 11-point font. The paper must be written in English and not exceed six (6) pages, single spaced. The paper must contain a title, abstract, a clear description of the solution, a summary of methods, evidence of validation, and how the solution meets the Challenge requirements. Include figures/illustrations where appropriate; figures/illustrations will count toward the six (6) page limit. Provide references as appropriate; references do not count toward the page limit.
 
   * A five (5) minute video that demonstrates the solution and evidence of validation, uploaded to YouTube. URL to the video should be included in the final paper.
 
@@ -295,7 +318,7 @@ how-to-enter: >-
 
 **\*\* Welcome to the Synthetic Health Data Challenge Webpage! Watch this space for important updates. \*\***
 
-**\*\* Join us for the Phase I Informational Webinar on February 2, 2021 at 12:00 PM ET. The Webinar is open to anyone interested in learning about or participating in the Challenge. To register, visit \[insert URL to webinar registration]. The Webinar will also be recorded and made available on this site. Watch for a future announcement. \*\***
+**\*\* Join us for the Phase I Informational Webinar on February 2, 2021 at 12:00 PM ET. The Webinar is open to anyone interested in learning about or participating in the Challenge. To register, visit:** <https://govhealth.zoom.us/webinar/register/WN_VGdgwkL0R427qZBkykdh0w>**. The Webinar will also be recorded and made available on this site. Watch for a future announcement. \*\***
 
 The Office of the National Coordinator for Health Information Technology (ONC), a division of the Department of Health and Human Services, has led and collaborated on many projects supporting the adoption and implementation of a patient-centered outcomes research (PCOR) data infrastructure. Projects funded by the Patient-Centered Outcomes Research Trust Fund, administered by the Assistant Secretary for Planning and Evaluation (ASPE), support the development of data capacity and infrastructure that can engage patients in health care decision-making and incorporate their responses into research. The Synthetic Health Data Challenge (Challenge) is an important component of the [Synthetic Health Data Generation to Accelerate PCOR Project](https://www.healthit.gov/topic/research-evaluation/synthetic-health-data-generation-accelerate-patient-centered-outcomes), through which ONC seeks to accelerate PCOR by furthering the development of Synthea™, a synthetic health data engine. The Challenge invites providers, researchers, and technology developers to develop innovative tools and resources that support validation and novel uses of synthetic data for PCOR researchers and/or health IT developers.
 
@@ -328,11 +351,16 @@ Participants will propose a solution in one of two (2) Challenge categories.
 * [Frequently Asked Questions Document]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-faqs.pdf) 
 * [Technical Guidance and Tips]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge_technical-guidance-and-tips.pdf) 
 * Example Modules, Module Companion Guides 
-  * Cerebral Palsy Module and Companion Guide
-  * Prescribing Opioids for Chronic Pain and Treatment of Opioid Use Disorder Module and Companion Guide
-  * Sepsis Module and Companion Guide
-  * Spina Bifida Module and Companion Guide
+
+  * [Cerebral Palsy Module](https://synthetichealth.github.io/module-builder/#cerebral_palsy) and Companion Guide
+  * [Prescribing Opioids for Chronic Pain and Treatment of Opioid Use Disorder Module](https://synthetichealth.github.io/module-builder/#prescribing_opioids_for_chronic_pain_and_treatment_of_oud) and Companion Guide
+  * [Sepsis Module](https://synthetichealth.github.io/module-builder/#sepsis) and Companion Guide
+  * [Spina Bifida](https://synthetichealth.github.io/module-builder/#spina_bifida) Module and Companion Guide
 * [Synthetic Health Data Challenge Registration Form]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-registration-form.pdf)
+* Phase I Informational Webinar (Feb 2, 2021 12:00 PM ET)
+
+  * [Registration](https://govhealth.zoom.us/webinar/register/WN_VGdgwkL0R427qZBkykdh0w)
+  * Webinar Materials (forthcoming)
 
 **Key Dates**
 
@@ -433,7 +461,7 @@ Basis Upon Which Phase I Proposals will be Evaluated
 
 **Registration**
 
-Each Phase I Proposal must be accompanied by a completed [Synthetic Health Data Challenge Registration Form]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-registration-form.pdf). The form can be mailed with the Phase I Proposal as a separate attachment. If participants submit as a team or as an entity, they must identify a team leader who will serve as a point of contact and submit the Phase I Proposal on behalf of the team.
+Each Phase I Proposal must be accompanied by a completed [Synthetic Health Data Challenge Registration Form]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-registration-form.pdf). The form can be submitted with the Phase I Proposal as a separate attachment. If participants submit as a team or as an entity, they must identify a team leader who will serve as a point of contact and submit the Phase I Proposal on behalf of the team.
 
 **Phase I Submission Requirements** 
 
