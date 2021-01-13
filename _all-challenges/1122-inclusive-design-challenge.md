@@ -23,9 +23,10 @@ challenge-manager-email: Rachael.Sack@dot.gov
 point-of-contact: inclusivedesign@dot.gov
 body-content-uploads: /assets/netlify-uploads/us-dot-inclusive-design-challenge-stage-ii-instructions.pdf
 description: >-
-  **Updates have been made to the Stage II Judging Criteria section. For more
-  information about Stage II please visit
-  <https://www.transportation.gov/accessibility/inclusivedesign>.**
+  **Updates have been made to the Stage II Judging Criteria section below.** 
+
+
+  **For more information about the Challenge and related activities please visit <https://www.transportation.gov/accessibility/inclusivedesign>.**
 
 
   #### Summary
@@ -361,7 +362,9 @@ how-to-enter: >-
 
   Note: Submission requirements for Stage II will be provided to the semifinalists upon advancing to the next stage and will also be posted on the DOT's Inclusive Design Challenge website.
 ---
-**Updates have been made to the Stage II Judging Criteria section. For more information about Stage II please visit <https://www.transportation.gov/accessibility/inclusivedesign>.**
+**Updates have been made to the Stage II Judging Criteria section below.** 
+
+**For more information about the Challenge and related activities please visit <https://www.transportation.gov/accessibility/inclusivedesign>.**
 
 ### Description
 
