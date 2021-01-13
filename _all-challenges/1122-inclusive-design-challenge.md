@@ -4,7 +4,7 @@ challenge-title: Inclusive Design Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/inclusive-design-challenge/
 challenge-id: "1122"
-status: closed
+status: open
 sidenav: true
 card-image: /assets/netlify-uploads/dot-idc.jpg
 agency-logo: /assets/netlify-uploads/DOT_logo.jpg
@@ -14,8 +14,8 @@ agency: Department of Transportation
 total-prize-offered-cash: $5,000,000
 type-of-challenge:
   - Technology demonstration and hardware
-submission-start: 04/21/2020 08:00 AM
-submission-end: 10/30/2020 05:00 PM
+submission-start: 2020/04/21 08:00 AM
+submission-end: 2020/10/30 05:00 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Rachael Sack
@@ -23,9 +23,10 @@ challenge-manager-email: Rachael.Sack@dot.gov
 point-of-contact: inclusivedesign@dot.gov
 body-content-uploads: /assets/netlify-uploads/us-dot-inclusive-design-challenge-stage-ii-instructions.pdf
 description: >-
-  **Updates have been made to the Stage II Judging Criteria section. For more
-  information about Stage II please visit
-  <https://www.transportation.gov/accessibility/inclusivedesign>.**
+  **Updates have been made to the Stage II Judging Criteria section below.** 
+
+
+  **For more information about the Challenge and related activities please visit <https://www.transportation.gov/accessibility/inclusivedesign>.**
 
 
   #### Summary
@@ -361,7 +362,9 @@ how-to-enter: >-
 
   Note: Submission requirements for Stage II will be provided to the semifinalists upon advancing to the next stage and will also be posted on the DOT's Inclusive Design Challenge website.
 ---
-**Updates have been made to the Stage II Judging Criteria section. For more information about Stage II please visit <https://www.transportation.gov/accessibility/inclusivedesign>.**
+**Updates have been made to the Stage II Judging Criteria section below.** 
+
+**For more information about the Challenge and related activities please visit <https://www.transportation.gov/accessibility/inclusivedesign>.**
 
 ### Description
 
