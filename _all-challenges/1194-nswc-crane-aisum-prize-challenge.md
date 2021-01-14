@@ -413,11 +413,9 @@ The government estimates the following timeline for the completion of the prize 
 ***Phase I***
 
 * Technical White Paper Submission open 50 calendar days
-
   * Opens Dec. 10, 2020
   * Closes Jan. 29, 2021
   * NSWC Crane Project Talks: Dec. 17, 2020 (A virtual panel was available to answer questions related to the challenge.gov posting and the Prize Challenge from 1300-1500 ET)
-
     * NSWC Crane Project Talks Presentation can be found [here](https://434cll131hi945boxu2a7cmf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/AISUM-Project-Talks-Presentation-FINAL.pdf)
     * The recording of this event can be found [here](https://www.youtube.com/watch?v=s-5tnYk74o4)
 * Evaluation period 10-14 calendar days  
