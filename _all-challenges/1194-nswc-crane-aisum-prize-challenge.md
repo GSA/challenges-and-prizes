@@ -126,8 +126,11 @@ description: >-
 
     * Opens Dec. 10, 2020
     * Closes Jan. 29, 2021
-    * NSWC Crane Project Talks: Dec. 17, 2020 from 1300-1500 ET (Registration Link: <http://events.constantcontact.com/register/event?llr=g8ffpo6ab&oeidk=a07ehew9ru5394bae8c>)
-  * Evaluation period 10-14 calendar days 
+    * NSWC Crane Project Talks: Dec. 17, 2020 (A virtual panel was available to answer questions related to the challenge.gov posting and the Prize Challenge from 1300-1500 ET)
+
+      * NSWC Crane Project Talks Presentation can be found [here](https://434cll131hi945boxu2a7cmf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/AISUM-Project-Talks-Presentation-FINAL.pdf)
+      * The recording of this event can be found [here](https://www.youtube.com/watch?v=s-5tnYk74o4)
+  * Evaluation period 10-14 calendar days  
 
   * Virtual presentation 14 calendar days
 
@@ -148,6 +151,12 @@ description: >-
   * Live event at Muscatatuck Urban Training Center (MUTC) 4-5 calendar days 
 
   * Complete internal documentation/obtain approval after final evaluation: 7-10 days
+
+
+  **Questions & Answers**
+
+
+  Official responses to questions that have been received will be uploaded to beta.SAM.gov via Special Notice N0016420SNB14. View this beta.SAM posting [here](https://beta.sam.gov/opp/779a1cb55ace43ccb18f7bb11d0c8a7b/view?keywords=n0016421SNB14&sort=-relevance&index=opp&is_active=true&page=1).
 prizes: >-
   The total prize purse is currently $250,000, which is expected to be paid out
   in Phase II. The Government reserves the right, in its sole discretion and
