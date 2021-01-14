@@ -123,11 +123,9 @@ description: >-
 
 
   * Technical White Paper Submission open 50 calendar days
-
     * Opens Dec. 10, 2020
     * Closes Jan. 29, 2021
     * NSWC Crane Project Talks: Dec. 17, 2020 (A virtual panel was available to answer questions related to the challenge.gov posting and the Prize Challenge from 1300-1500 ET)
-
       * NSWC Crane Project Talks Presentation can be found [here](https://434cll131hi945boxu2a7cmf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/AISUM-Project-Talks-Presentation-FINAL.pdf)
       * The recording of this event can be found [here](https://www.youtube.com/watch?v=s-5tnYk74o4)
   * Evaluation period 10-14 calendar days  
@@ -339,7 +337,6 @@ how-to-enter: >-
   * A glossary shall be included of all abbreviations and acronyms used with an explanation for each that will NOT be included in the page count.
 
   * A cover sheet should be include with the following information:
-
     * Challenge Title
     * Name(s) of company(ies) and POC individual(s) 
     * Address(es)
@@ -347,7 +344,7 @@ how-to-enter: >-
     * Point of Contact Telephone and Email address
     * State if the participant a U.S. Company (an entity incorporated in and maintaining a primary place of business in the United States) or a U.S. citizen?
     * If applicable, provide verification that the individual currently maintains a DoD security clearance or the company has a Facilities Clearance (per DoD 5220.22-M, 28 Feb 2006)
-    * A description of the participant’s previous experience and expertise AISUM with lithium batteries
+    * A description of the participant’s previous experience and expertise with AISUM
     * A description of the participant’s experience in collaborating with other companies to design, manufacture, and field relevant products.
 
   The cover sheet will NOT be included in the page count for each volume.
@@ -416,9 +413,11 @@ The government estimates the following timeline for the completion of the prize 
 ***Phase I***
 
 * Technical White Paper Submission open 50 calendar days
+
   * Opens Dec. 10, 2020
   * Closes Jan. 29, 2021
   * NSWC Crane Project Talks: Dec. 17, 2020 (A virtual panel was available to answer questions related to the challenge.gov posting and the Prize Challenge from 1300-1500 ET)
+
     * NSWC Crane Project Talks Presentation can be found [here](https://434cll131hi945boxu2a7cmf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/AISUM-Project-Talks-Presentation-FINAL.pdf)
     * The recording of this event can be found [here](https://www.youtube.com/watch?v=s-5tnYk74o4)
 * Evaluation period 10-14 calendar days  
@@ -560,7 +559,6 @@ Initial submission of the White Paper Concept shall not exceed five pages and re
 * Electronic files shall be formatted for Microsoft Windows Office 2010: text shall be prepared using Microsoft Word compatible formats; spreadsheets, worksheets, or workbooks shall be prepared using Microsoft Excel 2010 compatible formats, and presentations prepared using PowerPoint compatible formats. All schedules shall be prepared in Microsoft Project 2010 compatible applications.
 * A glossary shall be included of all abbreviations and acronyms used with an explanation for each that will NOT be included in the page count.
 * A cover sheet should be include with the following information:
-
   * Challenge Title
   * Name(s) of company(ies) and POC individual(s) 
   * Address(es)
@@ -568,7 +566,7 @@ Initial submission of the White Paper Concept shall not exceed five pages and re
   * Point of Contact Telephone and Email address
   * State if the participant a U.S. Company (an entity incorporated in and maintaining a primary place of business in the United States) or a U.S. citizen?
   * If applicable, provide verification that the individual currently maintains a DoD security clearance or the company has a Facilities Clearance (per DoD 5220.22-M, 28 Feb 2006)
-  * A description of the participant’s previous experience and expertise AISUM with lithium batteries
+  * A description of the participant’s previous experience and expertise with AISUM
   * A description of the participant’s experience in collaborating with other companies to design, manufacture, and field relevant products.
 
 The cover sheet will NOT be included in the page count for each volume.
