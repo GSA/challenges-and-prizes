@@ -15,8 +15,8 @@ partners-non-federal: FIRSTNET Built with AT&T
 total-prize-offered-cash: $552,000
 type-of-challenge:
   - Technology demonstration and hardware
-submission-start: 2020/04/01 09:00 AM
-submission-end: 2020/12/28 09:00 PM
+submission-start: 04/01/2020 09:00 AM
+submission-end: 12/28/2020 09:00 PM
 fiscal-year: FY20,FY21
 legal-authority: America COMPETES Act
 challenge-manager: Terese Manley
