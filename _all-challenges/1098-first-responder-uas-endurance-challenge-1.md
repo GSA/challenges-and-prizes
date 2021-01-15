@@ -33,9 +33,9 @@ description: >-
   #### Informational Materials
 
 
-  * [April 2, 2020 Webinar](https://capconcorp.egnyte.com/dl/FqF0hCXwEV/)
+  * #### [April 2, 2020 Webinar](https://capconcorp.egnyte.com/dl/FqF0hCXwEV/)
 
-  * [Frequently Asked Questions](https://www.firstresponderuaschallenge.org/faqs.php)
+  * #### [Frequently Asked Questions](https://www.firstresponderuaschallenge.org/faqs.php)
 
 
   Join us for this exciting drone (aka unmanned aircraft system or UAS) prize competition using your ingenuity and hardware build expertise to create a concept for a drone prototype. The result of the First Responder UAS Endurance Challenge will support the public safety community and its stakeholders.
@@ -53,7 +53,7 @@ description: >-
   #### Table A - Summary of Important Dates
 
 
-  ![Summary of Important Dates](/assets/netlify-uploads/uas-challenge-table-a_15jan2021.png "Table A - Summary of Important Dates")
+  ![Summary of Important Dates]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-a_15jan2021.png "Table A - Summary of Important Dates")
 
 
   NOTE: NIST reserves the right to revise the dates at any time.
@@ -105,6 +105,35 @@ description: >-
 
 
   ![Challenge Stages]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-b.jpg "UAS Challenge Stages")
+
+
+  ### Prizes
+
+
+  #### Total Cash Prize Pool
+
+
+  Up to $552,000
+
+
+  #### Prize Breakdown
+
+
+  NIST Public Safety Communications Research program is hosting a 4-stage challenge, with development funds, travel, and prize awards listed in the following table:
+
+
+  ![Prize Breakdown]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-c_15jan2021.png "Prize Breakdown")
+
+
+  NOTE: This table only describes prize awards; additional contestants may be invited to participate in challenge stages but not receive prize awards. All Stage 4 Contestants are eligible to compete for all Stage 4 prizes.
+
+
+  #### Non-monetary Prizes
+
+
+  * Informal mentoring for contestants selected from Stage 1: Concept Paper Contest
+
+  * Opportunities for contestants to showcase prototype UAS to representatives of the first responder community in Stage 4: Live Test & Evaluation
 prizes: >-
   #### Total Cash Prize Pool
 
@@ -118,35 +147,18 @@ prizes: >-
   NIST Public Safety Communications Research program is hosting a 4-stage challenge, with development funds, travel, and prize awards listed in the following table:
 
 
-  ![Prize Breakdown](/assets/netlify-uploads/uas-challenge-table-c_15jan2021.png "Prize Breakdown")
+  ![Prize Breakdown]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-c_15jan2021.png "Prize Breakdown")
 
 
   NOTE: This table only describes prize awards; additional contestants may be invited to participate in challenge stages but not receive prize awards. All Stage 4 Contestants are eligible to compete for all Stage 4 prizes.
-
-
-  #### Non-monetary Prizes
-
-
-  * Informal mentoring for contestants selected from Stage 1: Concept Paper Contest
-
-  * Opportunities for contestants to showcase prototype UAS to representatives of the first responder community in Stage 4: Live Test & Evaluation
 rules: See the [Official
   Rules]({{site.baseurl}}/assets/netlify-uploads/updated-official-challenge-rules-pscr-first-responder-uas-endurance-challenge-january2021.pdf)
   for details on all aspects of the challenge.
 judging: >-
-  #### Judging Panel
-
-
-  The submissions will be judged by a qualified panel of expert(s) selected by the U.S. Department of Commerce, National Institute of Standards and Technology (NIST) at its sole discretion. The panel consists of U.S. Department of Commerce, NIST and non-Department of Commerce, NIST experts and will judge the submissions according to the judging criteria in order to select winners. The decisions of the judges for the contest will be announced in accordance with the dates noted in the "Summary of Important Dates."
-
-
-  #### Judging Criteria
-
-
   **Stage 1 Criteria**
 
 
-  See the [Official Rules]({{site.baseurl}}/assets/updated-official-challenge-rules-pscr-first-responder-uas-endurance-challenge-january2021.pdf) for details on all aspects of the challenge. NIST makes an independent assessment of each Concept Paper based on the evaluation criteria. NIST will not review or consider ineligible Concept Paper submissions. During the review, each subject matter expert reviewer will review the entire concept papers to which they are assigned. The review is not done in sections with different reviewers responsible for different assigned sections. Therefore, it is not necessary to repeat information in every part of the Concept Paper. Do not include sensitive materials in the Concept Paper, for example personally identifiable information such as social security numbers or business sensitive information such as tax ID numbers, etc.
+  See the [Official Rules]({{site.baseurl}}/assets/netlify-uploads/updated-official-challenge-rules-pscr-first-responder-uas-endurance-challenge-january2021.pdf) for details on all aspects of the challenge. NIST makes an independent assessment of each Concept Paper based on the evaluation criteria. NIST will not review or consider ineligible Concept Paper submissions. During the review, each subject matter expert reviewer will review the entire concept papers to which they are assigned. The review is not done in sections with different reviewers responsible for different assigned sections. Therefore, it is not necessary to repeat information in every part of the Concept Paper. Do not include sensitive materials in the Concept Paper, for example personally identifiable information such as social security numbers or business sensitive information such as tax ID numbers, etc.
 
 
   **Criterion 1: Strategic Alignment & Technical Outcome (50%)**
@@ -207,7 +219,7 @@ The National Institute of Standards and Technology (NIST) Public Safety Communic
 
 #### Table A - Summary of Important Dates
 
-![Summary of Important Dates](/assets/netlify-uploads/uas-challenge-table-a_15jan2021.png "Table A - Summary of Important Dates")
+![Summary of Important Dates]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-a_15jan2021.png "Table A - Summary of Important Dates")
 
 NOTE: NIST reserves the right to revise the dates at any time.
 
@@ -251,7 +263,7 @@ Up to $552,000
 
 NIST Public Safety Communications Research program is hosting a 4-stage challenge, with development funds, travel, and prize awards listed in the following table:
 
-![Prize Breakdown](/assets/netlify-uploads/uas-challenge-table-c_15jan2021.png "Prize Breakdown")
+![Prize Breakdown]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-c_15jan2021.png "Prize Breakdown")
 
 NOTE: This table only describes prize awards; additional contestants may be invited to participate in challenge stages but not receive prize awards. All Stage 4 Contestants are eligible to compete for all Stage 4 prizes.
 
@@ -274,7 +286,7 @@ The submissions will be judged by a qualified panel of expert(s) selected by the
 
 **Stage 1 Criteria**
 
-See the [Official Rules]({{site.baseurl}}/assets/updated-official-challenge-rules-pscr-first-responder-uas-endurance-challenge-january2021.pdf) for details on all aspects of the challenge. NIST makes an independent assessment of each Concept Paper based on the evaluation criteria. NIST will not review or consider ineligible Concept Paper submissions. During the review, each subject matter expert reviewer will review the entire concept papers to which they are assigned. The review is not done in sections with different reviewers responsible for different assigned sections. Therefore, it is not necessary to repeat information in every part of the Concept Paper. Do not include sensitive materials in the Concept Paper, for example personally identifiable information such as social security numbers or business sensitive information such as tax ID numbers, etc.
+See the [Official Rules]({{site.baseurl}}/assets/netlify-uploads/updated-official-challenge-rules-pscr-first-responder-uas-endurance-challenge-january2021.pdf) for details on all aspects of the challenge. NIST makes an independent assessment of each Concept Paper based on the evaluation criteria. NIST will not review or consider ineligible Concept Paper submissions. During the review, each subject matter expert reviewer will review the entire concept papers to which they are assigned. The review is not done in sections with different reviewers responsible for different assigned sections. Therefore, it is not necessary to repeat information in every part of the Concept Paper. Do not include sensitive materials in the Concept Paper, for example personally identifiable information such as social security numbers or business sensitive information such as tax ID numbers, etc.
 
 **Criterion 1: Strategic Alignment & Technical Outcome (50%)**
 
