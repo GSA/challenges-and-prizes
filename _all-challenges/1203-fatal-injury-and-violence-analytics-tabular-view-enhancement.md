@@ -4,7 +4,7 @@ challenge-title: Fatal Injury and Violence Analytics - Tabular View Enhancement
 layout: front-matter-data-markdownify-content
 permalink: /challenge/fatal-injury-and-violence-analytics-tabular-view-enhancement/
 challenge-id: "1203"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/lockup-logo.png
 agency-logo: /assets/netlify-uploads/lockup-logo.png
@@ -16,8 +16,8 @@ external-url: "https://www.topcoder.com/challenges/160c1a09-4569-4752-9e3e-706bc
 total-prize-offered-cash: $1500
 type-of-challenge:
   - Analytics, visualizations, algorithms
-submission-start: 2021/01/13 9:00 AM
-submission-end: 2021/01/20 9:00 AM
+submission-start: 01/13/2021 9:00 AM
+submission-end: 01/20/2021 9:00 AM
 fiscal-year: FY21
 legal-authority: Procurement Authority
 challenge-manager: Royal Law
