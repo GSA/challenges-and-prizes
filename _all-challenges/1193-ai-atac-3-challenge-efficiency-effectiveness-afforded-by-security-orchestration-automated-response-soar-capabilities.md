@@ -255,7 +255,7 @@ how-to-enter: >-
   #### Entry Instructions
 
 
-  All participants must email [AIATAC.PRIZE.CHALLENGE@NAVY.MIL](mailto:AIATAC.PRIZE.CHALLENGE@NAVY.MIL) to indicate your intent to participate prior to **22 January 2020 @ 1700 EST**.
+  All participants must email [AIATAC.PRIZE.CHALLENGE@NAVY.MIL](mailto:AIATAC.PRIZE.CHALLENGE@NAVY.MIL) to indicate your intent to participate prior to **22 January 2021 @ 1700 EST**.
 
 
   Only unclassified information may be part of the submission package. The Phase 1 submission package must include these four items:
@@ -292,16 +292,12 @@ how-to-enter: >-
      * Technical approach (e.g. architecture, deployment overview, algorithm description, model description, performance requirements, endpoint footprint, existing results) including descriptions of the AI/ML components; and 
      * Benefits and novelty of the approach within the context of existing academic and commercially available technologies.
 
-  Sections 1-5 of the white-paper must be collectively no more than six (6) pages in length.
+     Sections 1-5 of the white-paper must be collectively no more than six (6) pages in length.
 
+     The white-paper template concludes with a checklist to ensure the submission meets the criteria as detailed in the Challenge Purpose section. Those technologies that do not meet the Scope section criteria may be disqualified or deemed ineligible.  Similarly, for those Participants that do not use the submission template, the Government will not consider the submission.
 
-  The white-paper template concludes with a checklist to ensure the submission meets the criteria as detailed in the Challenge Purpose section. Those technologies that do not meet the Scope section criteria may be disqualified or deemed ineligible.  Similarly, for those Participants that do not use the submission template, the Government will not consider the submission.
-
-
-  Contestants should mark all materials that it considers to be proprietary with a marking of its choosing.  The Government will respect and comply with such markings, if present.  However, any such marking should not prevent the evaluation team from evaluating the Participant submission (Please see the Data Rights section below).  If any videos are submitted which merit a protective marking, the Participant should note which portions of the video(s) are protectable as part of its submission.  ***Do not submit*** any Classified information.
-
-
-  2. **Demonstration Videos Requirements** 
+     Contestants should mark all materials that it considers to be proprietary with a marking of its choosing.  The Government will respect and comply with such markings, if present.  However, any such marking should not prevent the evaluation team from evaluating the Participant submission (Please see the Data Rights section below).  If any videos are submitted which merit a protective marking, the Participant should note which portions of the video(s) are protectable as part of its submission.  ***Do not submit*** any Classified information.
+  2. **Demonstration and Overview Videos Requirements** 
 
      For Phase 1, each Participant must provide two separate videos – an overview video and a demonstration video, each less than 10 minutes long. The videos can be screen recordings of actual tool usage, an explanatory description with narration, filmed demonstrations, or any other means of showing the solution. Details of required video contents are provided below.
 
@@ -609,13 +605,12 @@ The submission items for both Phase 1 and Phase 2 must meet the following eligib
    * Technical approach (e.g. architecture, deployment overview, algorithm description, model description, performance requirements, endpoint footprint, existing results) including descriptions of the AI/ML components; and 
    * Benefits and novelty of the approach within the context of existing academic and commercially available technologies.
 
-Sections 1-5 of the white-paper must be collectively no more than six (6) pages in length.
+   Sections 1-5 of the white-paper must be collectively no more than six (6) pages in length.
 
-The white-paper template concludes with a checklist to ensure the submission meets the criteria as detailed in the Challenge Purpose section. Those technologies that do not meet the Scope section criteria may be disqualified or deemed ineligible.  Similarly, for those Participants that do not use the submission template, the Government will not consider the submission.
+   The white-paper template concludes with a checklist to ensure the submission meets the criteria as detailed in the Challenge Purpose section. Those technologies that do not meet the Scope section criteria may be disqualified or deemed ineligible.  Similarly, for those Participants that do not use the submission template, the Government will not consider the submission.
 
-Contestants should mark all materials that it considers to be proprietary with a marking of its choosing.  The Government will respect and comply with such markings, if present.  However, any such marking should not prevent the evaluation team from evaluating the Participant submission (Please see the Data Rights section below).  If any videos are submitted which merit a protective marking, the Participant should note which portions of the video(s) are protectable as part of its submission.  ***Do not submit*** any Classified information.
-
-2. **Demonstration Videos Requirements** 
+   Contestants should mark all materials that it considers to be proprietary with a marking of its choosing.  The Government will respect and comply with such markings, if present.  However, any such marking should not prevent the evaluation team from evaluating the Participant submission (Please see the Data Rights section below).  If any videos are submitted which merit a protective marking, the Participant should note which portions of the video(s) are protectable as part of its submission.  ***Do not submit*** any Classified information.
+2. **Demonstration and Overview Videos Requirements** 
 
    For Phase 1, each Participant must provide two separate videos – an overview video and a demonstration video, each less than 10 minutes long. The videos can be screen recordings of actual tool usage, an explanatory description with narration, filmed demonstrations, or any other means of showing the solution. Details of required video contents are provided below.
 
@@ -626,7 +621,9 @@ Contestants should mark all materials that it considers to be proprietary with a
    * How SOC operators can collaborate with each other on an investigation with the tool, 
    * How tickets are automatically populated with the tool, and
    * Orchestration of multiple, related incidents or issues.
-     b. The Overview video must **be at most 10 minutes** and should provide an overview of functions and features of the Participant’s technical solution. The Participant may choose any aspects of their tool to showcase, but areas of interest to the U.S. Navy include:
+
+   b. The Overview video must **be at most 10 minutes** and should provide an overview of functions and features of the Participant’s technical solution. The Participant may choose any aspects of their tool to showcase, but areas of interest to the U.S. Navy include:
+
    * The Threat Intelligence Platform – how the tool knows of likely threat locations and types; who provides the threat data and how;
    * Worthwhile Automated - automatic identification and resolution of simple but voluminous alerts and warnings (accurate methods to reduce repetitive actions by an analyst);
    * Incorporated AI/ML - AI/ML tools, components, or processes that can identify unusual threats or conditions, and alert the operators accordingly;
