@@ -353,14 +353,12 @@ Participants will propose a solution in one of two (2) Challenge categories.
 * [Frequently Asked Questions Document]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-faqs.pdf) 
 * [Technical Guidance and Tips]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge_technical-guidance-and-tips.pdf) 
 * Example Modules, Module Companion Guides 
-
   * [Cerebral Palsy Module](https://synthetichealth.github.io/module-builder/#cerebral_palsy) and [Companion Guide](http://hdx.mitre.org/downloads/module_guides/Module_Companion_Guide_Cerebral_Palsy_508.pdf)
   * [Prescribing Opioids for Chronic Pain and Treatment of Opioid Use Disorder Module](https://synthetichealth.github.io/module-builder/#prescribing_opioids_for_chronic_pain_and_treatment_of_oud) and [Companion Guide](http://hdx.mitre.org/downloads/module_guides/Module_Companion_Guide_Opioids_508.pdf)
   * [Sepsis Module](https://synthetichealth.github.io/module-builder/#sepsis) and [Companion Guide](http://hdx.mitre.org/downloads/module_guides/Module_Companion_Guide_Sepsis_508.pdf)
   * [Spina Bifida](https://synthetichealth.github.io/module-builder/#spina_bifida) Module and [Companion Guide](http://hdx.mitre.org/downloads/module_guides/Module_Companion_Guide_Spina_Bifida_508.pdf)
 * [Synthetic Health Data Challenge Registration Form]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-registration-form.pdf)
 * Phase I Informational Webinar (Feb 2, 2021 12:00 PM ET)
-
   * [Registration](https://govhealth.zoom.us/webinar/register/WN_VGdgwkL0R427qZBkykdh0w)
   * Webinar Materials (forthcoming)
 
