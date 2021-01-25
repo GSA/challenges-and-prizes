@@ -123,9 +123,11 @@ description: >-
 
 
   * Technical White Paper Submission open 50 calendar days
+
     * Opens Dec. 10, 2020
     * Closes Jan. 29, 2021
     * NSWC Crane Project Talks: Dec. 17, 2020 (A virtual panel was available to answer questions related to the challenge.gov posting and the Prize Challenge from 1300-1500 ET)
+
       * NSWC Crane Project Talks Presentation can be found [here](https://434cll131hi945boxu2a7cmf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/AISUM-Project-Talks-Presentation-FINAL.pdf)
       * The recording of this event can be found [here](https://www.youtube.com/watch?v=s-5tnYk74o4)
   * Evaluation period 10-14 calendar days  
@@ -337,6 +339,7 @@ how-to-enter: >-
   * A glossary shall be included of all abbreviations and acronyms used with an explanation for each that will NOT be included in the page count.
 
   * A cover sheet should be include with the following information:
+
     * Challenge Title
     * Name(s) of company(ies) and POC individual(s) 
     * Address(es)
@@ -351,6 +354,9 @@ how-to-enter: >-
 
 
   Participants are required to complete a Statement of Acknowledgement from providing confirmation of compliance to all eligibility requirements listed herein with submission of the White Paper Concept.
+
+
+  The Statement of Acknowledgement was uploaded to special notice N0016421SNB14 via Amendment 0003 on [https://beta.sam.gov](https://beta.sam.gov/). A direct link to this posting can be found [here](https://beta.sam.gov/opp/eee3ff94590e4bdf963823bff8752f91/view).
 ---
 ### Description
 
@@ -570,3 +576,5 @@ Initial submission of the White Paper Concept shall not exceed five pages and re
 The cover sheet will NOT be included in the page count for each volume.
 
 Participants are required to complete a Statement of Acknowledgement from providing confirmation of compliance to all eligibility requirements listed herein with submission of the White Paper Concept.
+
+The Statement of Acknowledgement was uploaded to special notice N0016421SNB14 via Amendment 0003 on [https://beta.sam.gov](https://beta.sam.gov/). A direct link to this posting can be found [here](https://beta.sam.gov/opp/eee3ff94590e4bdf963823bff8752f91/view).
