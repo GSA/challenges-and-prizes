@@ -180,7 +180,7 @@ judging: >-
   Technical reviewers with expertise relevant to the Challenge will evaluate the Solutions based on their ability to achieve the criteria listed below. The Solutions and evaluation statements from the technical reviewers will then be reviewed by federal employees serving as judges, who will select up to six (6) Challenge winners as well as any honorable mentions, subject to a final decision by the Award Approving Official.
 
 
-  The Award Approving Official will be Dr. Donald Rucker, the National Coordinator for Health Information Technology.
+  The Award Approving Official will be Dr. Micky Tripathi, the National Coordinator for Health Information Technology.
 
 
   Provide a heading, description and weight (if applicable) for each criteria submissions will be evaluated by. You can provide a general summary of how submissions will be evaluated if you don’t have individual weighted criteria.
@@ -353,12 +353,14 @@ Participants will propose a solution in one of two (2) Challenge categories.
 * [Frequently Asked Questions Document]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-faqs.pdf) 
 * [Technical Guidance and Tips]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge_technical-guidance-and-tips.pdf) 
 * Example Modules, Module Companion Guides 
+
   * [Cerebral Palsy Module](https://synthetichealth.github.io/module-builder/#cerebral_palsy) and [Companion Guide](http://hdx.mitre.org/downloads/module_guides/Module_Companion_Guide_Cerebral_Palsy_508.pdf)
   * [Prescribing Opioids for Chronic Pain and Treatment of Opioid Use Disorder Module](https://synthetichealth.github.io/module-builder/#prescribing_opioids_for_chronic_pain_and_treatment_of_oud) and [Companion Guide](http://hdx.mitre.org/downloads/module_guides/Module_Companion_Guide_Opioids_508.pdf)
   * [Sepsis Module](https://synthetichealth.github.io/module-builder/#sepsis) and [Companion Guide](http://hdx.mitre.org/downloads/module_guides/Module_Companion_Guide_Sepsis_508.pdf)
   * [Spina Bifida](https://synthetichealth.github.io/module-builder/#spina_bifida) Module and [Companion Guide](http://hdx.mitre.org/downloads/module_guides/Module_Companion_Guide_Spina_Bifida_508.pdf)
 * [Synthetic Health Data Challenge Registration Form]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-registration-form.pdf)
 * Phase I Informational Webinar (Feb 2, 2021 12:00 PM ET)
+
   * [Registration](https://govhealth.zoom.us/webinar/register/WN_VGdgwkL0R427qZBkykdh0w)
   * Webinar Materials (forthcoming)
 
@@ -418,7 +420,7 @@ Each winning entry and Honorable Mention will be invited to present during the W
 
 Technical reviewers with expertise relevant to the Challenge will evaluate the Solutions based on their ability to achieve the criteria listed below. The Solutions and evaluation statements from the technical reviewers will then be reviewed by federal employees serving as judges, who will select up to six (6) Challenge winners as well as any honorable mentions, subject to a final decision by the Award Approving Official.
 
-The Award Approving Official will be Dr. Donald Rucker, the National Coordinator for Health Information Technology.
+The Award Approving Official will be Dr. Micky Tripathi, the National Coordinator for Health Information Technology.
 
 **Judging Criteria**
 
