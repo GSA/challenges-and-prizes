@@ -615,6 +615,7 @@ The submission items for both Phase 1 and Phase 2 must meet the following eligib
    * How SOC operators can collaborate with each other on an investigation with the tool, 
    * How tickets are automatically populated with the tool, and
    * Orchestration of multiple, related incidents or issues.
+
    b. The Overview video must **be at most 10 minutes** and should provide an overview of functions and features of the Participant’s technical solution. The Participant may choose any aspects of their tool to showcase, but areas of interest to the U.S. Navy include:
    * The Threat Intelligence Platform – how the tool knows of likely threat locations and types; who provides the threat data and how;
    * Worthwhile Automated - automatic identification and resolution of simple but voluminous alerts and warnings (accurate methods to reduce repetitive actions by an analyst);
