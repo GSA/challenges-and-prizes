@@ -4,7 +4,7 @@ challenge-title: SMART Visualization Platform Prize Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/smart-visualization-platform-prize-challenge/
 challenge-id: "1175"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/smart-logo_official_rgb.jpg
 agency-logo: /assets/netlify-uploads/webp.net-resizeimage-16-.png
@@ -15,7 +15,7 @@ external-url: https://netl.doe.gov/challenges/SMARTVisualizationPlatform
 type-of-challenge:
   - Software and apps
 submission-start: 09/29/2020 07:00 AM
-submission-end: 2021/01/22 8:00 PM
+submission-end: 01/22/2021 8:00 PM
 fiscal-year: FY21, FY22
 legal-authority: America COMPETES Act
 challenge-manager: Mary (Kylee) Underwood
