@@ -180,7 +180,7 @@ judging: >-
   Technical reviewers with expertise relevant to the Challenge will evaluate the Solutions based on their ability to achieve the criteria listed below. The Solutions and evaluation statements from the technical reviewers will then be reviewed by federal employees serving as judges, who will select up to six (6) Challenge winners as well as any honorable mentions, subject to a final decision by the Award Approving Official.
 
 
-  The Award Approving Official will be Dr. Donald Rucker, the National Coordinator for Health Information Technology.
+  The Award Approving Official will be Dr. Micky Tripathi, the National Coordinator for Health Information Technology.
 
 
   Provide a heading, description and weight (if applicable) for each criteria submissions will be evaluated by. You can provide a general summary of how submissions will be evaluated if you don’t have individual weighted criteria.
@@ -418,7 +418,7 @@ Each winning entry and Honorable Mention will be invited to present during the W
 
 Technical reviewers with expertise relevant to the Challenge will evaluate the Solutions based on their ability to achieve the criteria listed below. The Solutions and evaluation statements from the technical reviewers will then be reviewed by federal employees serving as judges, who will select up to six (6) Challenge winners as well as any honorable mentions, subject to a final decision by the Award Approving Official.
 
-The Award Approving Official will be Dr. Donald Rucker, the National Coordinator for Health Information Technology.
+The Award Approving Official will be Dr. Micky Tripathi, the National Coordinator for Health Information Technology.
 
 **Judging Criteria**
 
