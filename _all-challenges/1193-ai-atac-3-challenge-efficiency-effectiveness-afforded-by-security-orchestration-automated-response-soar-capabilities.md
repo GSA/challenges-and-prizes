@@ -26,14 +26,14 @@ legal-authority: Agency specific prize authority
 challenge-manager: John Armantrout
 challenge-manager-email: John.Armantrout@navy.mil
 point-of-contact: AIATAC.PRIZE.CHALLENGE@NAVY.MIL
-body-content-uploads: /assets/netlify-uploads/2021-01-14-aiatac3-faqs.pdf
+body-content-uploads: /assets/netlify-uploads/ai-atac3-questions-and-answers-21-jan-2021.docx
 description: >-
   **Important Updates:**
 
 
-  * **Questions and clarifications regarding the challenge are located [here]({{site.baseurl}}/assets/netlify-uploads/2021-01-14-aiatac3-faqs.pdf).** 
+  * **Questions and clarifications regarding the challenge are located [here](%7B%7Bsite.baseurl%7D%7D/assets/netlify-uploads/ai-atac3-questions-and-answers-21-jan-2021.docx).**
 
-  * **Entry Instructions updated on January 21 to provide additional clarity regarding *Cloud and On-Premises (On-prem) Requirements*** 
+  * **Entry Instructions updated on January 21 to provide additional clarity regarding *Cloud and On-Premises (On-prem) Requirements***
 
 
   #### General Overview
@@ -419,7 +419,7 @@ how-to-enter: >-
 ---
 **Important Updates:**
 
-* **Questions and clarifications regarding the challenge are located [here]({{site.baseurl}}/assets/netlify-uploads/2021-01-14-aiatac3-faqs.pdf).** 
+* **Questions and clarifications regarding the challenge are located [here]({{site.baseurl}}/assets/netlify-uploads/ai-atac3-questions-and-answers-21-jan-2021.docx).** 
 * **Entry Instructions updated on January 21 to provide additional clarity regarding *Cloud and On-Premises (On-prem) Requirements*** 
 
 ### Description
@@ -544,27 +544,22 @@ Submissions will be judged based on how they address the SOAR capability criteri
 
 1. Ability to ingest custom logging / alerts
 2. Playbook / Workflow Use: 
-
    * Usefulness of existing playbooks
    * Ability of junior operators to effectively use workflows/playbooks
    * Efficiency gains by using workflows/playbooks
 3. Playbook / Workflow customization: 
-
    * Easy and flexible creation of custom workflows/playbooks
    * Shareability of workflows/playbooks
 4. Task Automation: 
-
    * Quickly resolving and documenting false positive alerts
    * Ability to automate common tasks such as responding to phishing attacks and failed user logins
    * Effectiveness of automation
    * Efficiency gains from automation 
 5. Documentation Automation: 
-
    * Ability to prepopulate alert and logging data into tickets
    * Ability to collect all needed data for elevating events to incidents and handing incident to higher tier / higher experience SOC personnel 
 6. Ability to rank / score alerts so that analysts can easily prioritize alerts from most to least significant
 7. Collaboration facilitation: 
-
    * Shareability of in-progress and completed investigations 
    * Real time collaboration 
    * Asynchronous collaboration (hand offs) 
@@ -601,7 +596,6 @@ The submission items for both Phase 1 and Phase 2 must meet the following eligib
 1. **White-paper Document Submissions Requirements**
 
    White-papers must use the [submission template]({{site.baseurl}}/assets/netlify-uploads/ai-atac3-whitepaper-template.docx), located at Challenge.gov. It provides the framework for an overview of the proposed technology as well as the following elements:
-
    * Technical approach (e.g. architecture, deployment overview, algorithm description, model description, performance requirements, endpoint footprint, existing results) including descriptions of the AI/ML components; and 
    * Benefits and novelty of the approach within the context of existing academic and commercially available technologies.
 
@@ -610,12 +604,12 @@ The submission items for both Phase 1 and Phase 2 must meet the following eligib
    The white-paper template concludes with a checklist to ensure the submission meets the criteria as detailed in the Challenge Purpose section. Those technologies that do not meet the Scope section criteria may be disqualified or deemed ineligible.  Similarly, for those Participants that do not use the submission template, the Government will not consider the submission.
 
    Contestants should mark all materials that it considers to be proprietary with a marking of its choosing.  The Government will respect and comply with such markings, if present.  However, any such marking should not prevent the evaluation team from evaluating the Participant submission (Please see the Data Rights section below).  If any videos are submitted which merit a protective marking, the Participant should note which portions of the video(s) are protectable as part of its submission.  ***Do not submit*** any Classified information.
+
 2. **Demonstration and Overview Videos Requirements** 
 
    For Phase 1, each Participant must provide two separate videos – an overview video and a demonstration video, each less than 10 minutes long. The videos can be screen recordings of actual tool usage, an explanatory description with narration, filmed demonstrations, or any other means of showing the solution. Details of required video contents are provided below.
 
    a. The Demonstration video must **be at most 10 minutes**, and should provide an introduction to the SOAR technology’s platform, including at a minimum, examples of a user: 
-
    * Viewing events in the SOAR UI,
    * Using a playbook/workflow to handle an incident,
    * How SOC operators can collaborate with each other on an investigation with the tool, 
@@ -623,7 +617,6 @@ The submission items for both Phase 1 and Phase 2 must meet the following eligib
    * Orchestration of multiple, related incidents or issues.
 
    b. The Overview video must **be at most 10 minutes** and should provide an overview of functions and features of the Participant’s technical solution. The Participant may choose any aspects of their tool to showcase, but areas of interest to the U.S. Navy include:
-
    * The Threat Intelligence Platform – how the tool knows of likely threat locations and types; who provides the threat data and how;
    * Worthwhile Automated - automatic identification and resolution of simple but voluminous alerts and warnings (accurate methods to reduce repetitive actions by an analyst);
    * Incorporated AI/ML - AI/ML tools, components, or processes that can identify unusual threats or conditions, and alert the operators accordingly;
@@ -634,17 +627,15 @@ The submission items for both Phase 1 and Phase 2 must meet the following eligib
    The videos should demonstrate the SOAR tool’s capability and highlight the value and ease-of-use of the SOAR tool. Any other desired functionality is welcome within the at-most-10-minute videos. Extra videos or any content after 10 minutes in a video will not be reviewed. 
 
    **Video format**: Videos must be provided in MP4 file format or provided via a link to be viewed online. If the videos are encrypted or protected, please provide a password.
+
 3. **Technology Software and/or VM Submission Requirements** 
 
    The software components for SOAR technology must meet the following criteria: 
-
    * **Software Format**: It can be in one of the following formats: 
-
      * Software that can be run on modern Windows or Linux OSes (e.g., the U.S. Navy is moving towards all Windows 10 and uses Red Hat Enterprise 7.x in some environments)
      * Exported virtual machine (VM) images in .ovf or .ova format that are compatible with VMWare ESXi 6.7 (i.e., they MUST readily import into VMWare, no conversion should be done)
      * Docker container packages (i.e., using the Docker tar command)
    * **Hardware Format:** 
-
      * Technologies selected for Phase 2 can provide their technologies pre-installed on hardware server systems or provide co-processing systems for their technology.
    * **Cloud and On-Premises (On-prem) Requirements**:  For testing, submitted technologies will be installed on the Cybersecurity Operations Research Range (CORR) evaluation environment at Oak Ridge National Laboratory (ORNL). Due to the potential variety of solution types, the Challenge will accept solutions that require access to external resources as well as solutions that are hosted on-prem. Submitted technologies will be allowed to use the Cloud, via the Internet, to run their software during this challenge.  We expect this to facilitate checking of license keys, checking threat databases, running portions of the code remotely on vendor systems, and so on.  However, NAVWAR and ORNL may be running portions of the challenge in a D-DIL (denied, degraded, intermittent, or limited) environment, to determine the impact of D-DIL on the effectiveness of the tool and the operators running it.
 
@@ -661,7 +652,6 @@ The submission items for both Phase 1 and Phase 2 must meet the following eligib
    * **Instances required**: Submissions must provide SOAR software for multiple instances to be configured on CORR, specifically, allowing up to 7 SOC operators per network on up to 3 small networks (each network can be assumed to include fewer than 5,000 IPs, with total bandwidth under 10Gb/s). These instances of the submitted SOAR technology must be able to integrate with each other both within and across networks (e.g., leveraging a virtual cloud or dedicated cross-network connection) to facilitate collaboration of SOC operators within and across networks using this SOAR tool. Any needed corresponding tools (e.g., SIEM of Zeek) must be included in the software / VM / hardware submission package and be as configured as possible. Any remaining configuration needed that may be specific to the test network MUST be provided along with the User Tutorial document if the SOAR tool is advanced to Phase 2.
    * **Licenses required**: Software licenses for these instances must be valid through December 31, 2021 and must function properly without connectivity to the internet. 
    * **Integration Requirements:** Submission must ingest a wide variety of alerts and logs, including but not limited to: 
-
      * Host logs including Windows System Logs, Linux syslogs
      * Host-based defensive software logs including 
      * Host firewall logs 
@@ -669,7 +659,6 @@ The submission items for both Phase 1 and Phase 2 must meet the following eligib
      * Endpoint detection and response logs 
      * Endpoint policy compliance software logs
    * Network-level defensive software logs including
-
      * Network-level firewall logs
      * Intrusion detection and prevention system output
      * Network-level malware detector alerts
@@ -678,7 +667,6 @@ The submission items for both Phase 1 and Phase 2 must meet the following eligib
      * Zeek logs
    * Vulnerability scanning tool outputs
    * Logs produced by network services, including 
-
      * Active Directory
      * LDAP 
      * Kerberos 
@@ -687,18 +675,19 @@ The submission items for both Phase 1 and Phase 2 must meet the following eligib
      * DHCP 
      * Threat intelligence platform information, both internally and externally
      * Ticketing or other documentation system(s)
+
 4. **Setup Guide Document Requirements**
 
    The setup guide should be a concise, easy-to-follow set of instructions for installing the submission’s VM/Software/Hardware, configuring integrations with subsidiary SOC tools, and integrating multiple instances of this SOAR tool. A technical Point of Contact (POC) for assisting with proper setup and configuration should be included in the white-paper, along with the POC’s phone number and email.
 
    * **Setup time requirements**: All required components should be submitted as configured and integrated as much as possible. Submissions must provide sufficiently mature software, documentation (setup guide), and support to the ORNL test team to ensure that the submitted SOAR instances **can be configured for use on the up-to-three small networks with at most 16 labor hours of support.** Submissions requiring more than 16 labor hours for setup and configuration are subject to disqualification. It is critical that the technical POC be available during business hours during the challenge to avoid disqualification.
    * **Setup Support:** The Submission team should be prepared to provide configuration support to the ORNL test team remotely (e.g. via phone or video conference) to facilitate proper setup and configuration. Setup configuration and support (virtual) meetings will be scheduled in advance of a needed meeting to accommodate the Challenge schedule.
+
 5. **User Tutorial Video**
 
    The User Tutorial Video is **not** required with Phase 1 submission. This will only be required of those Participant technologies selected for Phase 2. Further instructions and deadlines will be communicated to these Participants. 
 
    Submissions selected for Phase 2 testing must provide a training or tutorial video that teaches a new user (SOC operator) how to use the (already set up and configured) SOAR tool. The tutorial should take the user **under 2 hours** to complete and should assume that the tutorial user has a bachelor degree education level and 0-5 years of experience in cybersecurity or related field, and no experience in the specific SOAR tool. The tutorial video may further assume the user is using an instance of the submitted SOAR tool. The User Tutorial will be provided directly to both ORNL and U.S. Navy operators. In particular, the following is to be included: 
-
    * Instructions for basic use of the user interface, including how to query or otherwise visualize ingested logging and alerting data and threat intelligence information. 
    * Instructions for how to follow a pre-set workflow or playbook for triage and/or incident response.
    * Instructions for how to create a new workflow or playbook.

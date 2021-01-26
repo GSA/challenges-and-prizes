@@ -13,7 +13,7 @@ tagline: NASA needs a Ground Control Station software for small unmanned
   also providing the functionality necessary for researching advanced
   human-automation teaming concepts.
 agency: NASA
-external-url: https://www.topcoder.com/
+external-url: https://www.nasa.gov/unmanned-aircraft-ground-control-challenge-series
 type-of-challenge:
   - Software and apps
 submission-start: 2020/10/02 08:00 AM
