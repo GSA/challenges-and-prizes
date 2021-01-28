@@ -102,11 +102,8 @@ prizes: "#### Total Cash Prize Pool
 
   \r
 
-  \ \r
 
-  \r
-
-  ** Winners (Full working solutions) **\r
+  #### Winners (Full working solutions)\r
 
   \r
 
@@ -138,7 +135,7 @@ prizes: "#### Total Cash Prize Pool
 
   \r
 
-  ** Runners Up (Partial working solutions) **\r
+  #### Runners Up (Partial working solutions)\r
 
   \r
 
@@ -356,7 +353,7 @@ Teams participating in the Artificial Intelligence (AI) Tracks at Sea Challenge 
 
  
 
-** Winners (Full working solutions) **
+#### Winners (Full working solutions)
 
  
 
@@ -371,8 +368,7 @@ Teams participating in the Artificial Intelligence (AI) Tracks at Sea Challenge 
 5th = Team ArgoTracks @ University of West Florida
 
  
-
-** Runners Up (Partial working solutions) **
+#### Runners Up (Partial working solutions)
 
  
 
