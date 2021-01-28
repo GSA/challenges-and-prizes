@@ -26,14 +26,14 @@ legal-authority: Agency specific prize authority
 challenge-manager: John Armantrout
 challenge-manager-email: John.Armantrout@navy.mil
 point-of-contact: AIATAC.PRIZE.CHALLENGE@NAVY.MIL
-body-content-uploads: /assets/netlify-uploads/ai-atac3-questions-and-answers-21-jan-2021.docx
+body-content-uploads: /assets/netlify-uploads/ai-atac3-questions-and-answers-27-jan-2021.docx
 description: >-
   **Important Updates:**
 
 
-  * **Questions and clarifications regarding the challenge are located [here](%7B%7Bsite.baseurl%7D%7D/assets/netlify-uploads/ai-atac3-questions-and-answers-21-jan-2021.docx).**
+  * **Questions and clarifications regarding the challenge are located [here]({{site.baseurl}}/assets/netlify-uploads/ai-atac3-questions-and-answers-27-jan-2021.docx).** 
 
-  * **Entry Instructions updated on January 21 to provide additional clarity regarding *Cloud and On-Premises (On-prem) Requirements***
+  * **Entry Instructions updated on January 21 to provide additional clarity regarding *Cloud and On-Premises (On-prem) Requirements*** 
 
 
   #### General Overview
@@ -419,7 +419,7 @@ how-to-enter: >-
 ---
 **Important Updates:**
 
-* **Questions and clarifications regarding the challenge are located [here]({{site.baseurl}}/assets/netlify-uploads/ai-atac3-questions-and-answers-21-jan-2021.docx).** 
+* **Questions and clarifications regarding the challenge are located [here]({{site.baseurl}}/assets/netlify-uploads/ai-atac3-questions-and-answers-27-jan-2021.docx).** 
 * **Entry Instructions updated on January 21 to provide additional clarity regarding *Cloud and On-Premises (On-prem) Requirements*** 
 
 ### Description
