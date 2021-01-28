@@ -4,7 +4,7 @@ challenge-title: AI Tracks at Sea
 layout: front-matter-data-markdownify-content
 permalink: /challenge/AI-tracks-at-sea/
 challenge-id: "1163"
-status: closed
+status: open
 sidenav: true
 card-image: /assets/netlify-uploads/ai_tracks_at_sea_challange_logo_v4.png
 agency-logo: /assets/netlify-uploads/don-seal_v2.png
@@ -19,8 +19,8 @@ type-of-challenge:
   - Software and apps
   - Technology demonstration and hardware
   - Analytics, visualizations, algorithms
-submission-start: 10/01/2020 03:00 AM
-submission-end: "12/02/2020 03:00 AM "
+submission-start: 2020/10/01 03:00 AM
+submission-end: "2020/12/02 03:00 AM "
 fiscal-year: FY20,FY21
 legal-authority: Agency specific prize authority
 challenge-manager: Mike Tall, Anthony Jones
@@ -43,8 +43,7 @@ description: The Naval Information Warfare Center Pacific (NIWC PAC) and the
   will plot the tracks of shipping traffic exclusively using the passive sensing
   capability of onboard cameras.  This technology would also be applicable for
   the Navy to document vessels performing unsafe navigation on the high seas.
-prizes: >-
-  #### Total Cash Prize Pool
+prizes: "#### Total Cash Prize Pool
 
 
   $200,000
@@ -53,22 +52,109 @@ prizes: >-
   #### Prize Breakdown
 
 
-  The Challenge winners will be notified via email. NIWC PAC will announce the winners on the Challenge.gov website and via appropriate channels.
+  The Challenge winners will be notified via email. NIWC PAC will announce the
+  winners on the Challenge.gov website and via appropriate channels.
 
 
-  NIWC PAC has established $200,000 as the total amount set aside for cash prizes under this Challenge. Prizes will be awarded for the 1st, 2nd, 3rd, 4th, 5th, 6th, and 7th places in the amounts of $55,000, $45,000, $35,000, $30,000, $20,000, $10,000, and $5000 respectively.  Prizes will be disbursed to the respective teams’ department, college, laboratory, or other eligible university component as specified by the consensus of the team.
+  NIWC PAC has established $200,000 as the total amount set aside for cash
+  prizes under this Challenge. Prizes will be awarded for the 1st, 2nd, 3rd,
+  4th, 5th, 6th, and 7th places in the amounts of $55,000, $45,000, $35,000,
+  $30,000, $20,000, $10,000, and $5000 respectively.  Prizes will be disbursed
+  to the respective teams’ department, college, laboratory, or other eligible
+  university component as specified by the consensus of the team.
 
 
-  In the event of a tie, NIWC PAC will determine an equitable method of distributing the cash prizes. This method will based on anything extra included in the output of the tool (e.g. graphical representation or video of output, classification of vessel being tracked, characterization of the vessel’s behavior, insights into how the algorithm is making decisions, track prediction, etc)
+  In the event of a tie, NIWC PAC will determine an equitable method of
+  distributing the cash prizes. This method will based on anything extra
+  included in the output of the tool (e.g. graphical representation or video of
+  output, classification of vessel being tracked, characterization of the
+  vessel’s behavior, insights into how the algorithm is making decisions, track
+  prediction, etc)
 
 
-  Tax treatment of prizes will be handled in accordance with U.S. Internal Revenue Service guidelines. The winner must provide a U.S. TIN (e.g., a TIN or EIN) to receive the cash prize.
+  Tax treatment of prizes will be handled in accordance with U.S. Internal
+  Revenue Service guidelines. The winner must provide a U.S. TIN (e.g., a TIN or
+  EIN) to receive the cash prize.
 
 
   #### Non-monetary Prizes
 
 
   Honorable Mention(s)
+
+
+  #### Challenge Winners
+
+
+  Teams participating in the Artificial Intelligence (AI) Tracks at Sea
+  Challenge spanned collegiate institutions from California to New Hampshire.
+  Students from both Public and Private colleges/universities competed in the
+  prize challenge, and represent various types of research institutions, Ivy
+  League Schools, Historically Black Colleges and Universities (HBCU) and
+  Hispanic Serving Institutes (HSI). 26% of the challenge teams were comprised
+  of Science, Technology, Engineering and Math (STEM) students from HBCU’s and
+  16% of the teams attend HSI’s. Florida, North Carolina, and Texas had the
+  largest population of collegiate teams.  Additionally, with 94% of the
+  competitors attending colleges and universities outside of California this
+  challenge served as an avenue to make broader impacts in STEM and a means by
+  which students could further develop their STEM skills while working
+  collaboratively to solve a real-world Naval problem.\r
+
+  \r
+
+  \ \r
+
+  \r
+
+  ** Winners (Full working solutions) **\r
+
+  \r
+
+  \ \r
+
+  \r
+
+  1st = Team Credit @ Prairie View A&M University\r
+
+  \r
+
+  2nd = Team ASG Auto @ FAMU-FSU College of Engineering\r
+
+  \r
+
+  3rd = Team AiDA @ University of West Florida\r
+
+  \r
+
+  4th = Team TrojanOne @ Virginia State University\r
+
+  \r
+
+  5th = Team ArgoTracks @ University of West Florida\r
+
+  \r
+
+  \ \r
+
+  \r
+
+  ** Runners Up (Partial working solutions) **\r
+
+  \r
+
+  \ \r
+
+  \r
+
+  1st Runner Up = Team The Huskies @ Michigan Technological University\r
+
+  \r
+
+  2nd Runner Up = Team 510 Captains @ Christopher Newport University\r
+
+  \r
+
+  3rd Runner Up = Team AIMS Lab Team @ Purdue University"
 rules: >-
   Each Team shall submit one entry in response to this Challenge. Team entries
   must have an individual identified as the primary point of contact and prize
@@ -263,6 +349,38 @@ Tax treatment of prizes will be handled in accordance with U.S. Internal Revenue
 #### Non-monetary Prizes
 
 Honorable Mention(s)
+
+#### Challenge Winners
+
+Teams participating in the Artificial Intelligence (AI) Tracks at Sea Challenge spanned collegiate institutions from California to New Hampshire. Students from both Public and Private colleges/universities competed in the prize challenge, and represent various types of research institutions, Ivy League Schools, Historically Black Colleges and Universities (HBCU) and Hispanic Serving Institutes (HSI). 26% of the challenge teams were comprised of Science, Technology, Engineering and Math (STEM) students from HBCU’s and 16% of the teams attend HSI’s. Florida, North Carolina, and Texas had the largest population of collegiate teams.  Additionally, with 94% of the competitors attending colleges and universities outside of California this challenge served as an avenue to make broader impacts in STEM and a means by which students could further develop their STEM skills while working collaboratively to solve a real-world Naval problem.
+
+ 
+
+** Winners (Full working solutions) **
+
+ 
+
+1st = Team Credit @ Prairie View A&M University
+
+2nd = Team ASG Auto @ FAMU-FSU College of Engineering
+
+3rd = Team AiDA @ University of West Florida
+
+4th = Team TrojanOne @ Virginia State University
+
+5th = Team ArgoTracks @ University of West Florida
+
+ 
+
+** Runners Up (Partial working solutions) **
+
+ 
+
+1st Runner Up = Team The Huskies @ Michigan Technological University
+
+2nd Runner Up = Team 510 Captains @ Christopher Newport University
+
+3rd Runner Up = Team AIMS Lab Team @ Purdue University
 
 ### Rules
 
