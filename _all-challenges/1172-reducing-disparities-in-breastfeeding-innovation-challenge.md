@@ -4,7 +4,7 @@ challenge-title: Reducing Disparities in Breastfeeding Innovation Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/reducing-disparities-breastfeeding-innovation-challenge/
 challenge-id: "1172"
-status: closed
+status: open
 sidenav: true
 card-image: /assets/netlify-uploads/breastfeeding-icon-final-342px-x-160px.png
 agency-logo: /assets/netlify-uploads/hhs.png
@@ -24,8 +24,8 @@ type-of-challenge:
   - Scientific
   - Software and apps
   - Technology demonstration and hardware
-submission-start: 09/30/2020 5:00 PM
-submission-end: 12/09/2020 11:59 PM
+submission-start: 2020/09/30 5:00 PM
+submission-end: 2020/12/09 11:59 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Jared Tolbert
