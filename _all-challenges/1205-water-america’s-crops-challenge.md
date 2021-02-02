@@ -4,7 +4,7 @@ challenge-title: Water America’s Crops Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/water-americas-crops/
 challenge-id: "1205"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/20210115_herox_wateramericascrops-challenge_3-logo_challengegov-sized.jpg
 agency-logo: /assets/netlify-uploads/US-DOI-BureauOfReclamation-Seal.png
@@ -26,4 +26,3 @@ challenge-manager: Jennifer Beardsley
 challenge-manager-email: jbeardsley@usbr.gov
 point-of-contact: jbeardsley@usbr.gov
 ---
-Body content
