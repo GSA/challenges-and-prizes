@@ -251,7 +251,7 @@ how-to-enter: >-
 
 The $200,000 prize was distributed among five winning teams, which submitted full working solutions, and three runners-up, which submitted partial working solutions. The monetary prize will be awarded to the school the corresponding team attends:
 
-![Challenge Winners]({ site.baseurl }}/assets/netlify-uploads/210204-ai-tracks-at-sea-winners-table-in-image.jpg)
+![Challenge Winners]({ site.baseurl }}/assets/netlify-uploads/210204-ai-tracks-at-sea-winners-table-in-image.jpg "Challenge Winners")
 
 Teams participating in the AI Tracks at Sea Challenge spanned collegiate institutions from east to west U.S. coasts, from both public and private colleges and universities. Collectively, the student submissions for the challenge represent various types of STEM research institutions, Ivy League Schools, Historically Black Colleges and Universities (HBCU) and Hispanic Serving Institutes (HSI). Of the challenge teams, 26% were comprised of students from HBCUs and 16% of the teams attend HSIs.
 
