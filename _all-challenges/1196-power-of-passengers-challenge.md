@@ -4,7 +4,7 @@ challenge-title: Power of Passengers Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/power-of-passengers-challenge/
 challenge-id: "1196"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/nasa_powerofpassengers_r3b-1-1024x512.gif
 agency-logo: /assets/netlify-uploads/320px-Transportation_Security_Administration_logo.png
@@ -14,8 +14,8 @@ partner-agencies-federal: NASA, Department of Homeland Security Science & Techno
 total-prize-offered-cash: $215,000
 type-of-challenge:
   - Ideas
-submission-start: 2020/12/08 7:00 AM
-submission-end: 2021/01/28 8:00 PM
+submission-start: 12/08/2020 7:00 AM
+submission-end: 01/28/2021 8:00 PM
 fiscal-year: FY21
 legal-authority: Procurement Authority
 challenge-manager: Andrew Haskins
