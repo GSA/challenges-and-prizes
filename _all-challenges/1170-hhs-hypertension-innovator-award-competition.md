@@ -29,7 +29,13 @@ challenge-manager: Courtney Gustin
 challenge-manager-email: Courtney.gustin@hhs.gov
 point-of-contact: HypertensionChallenge@hhs.gov
 description: >-
+  ### Description
+
+
   **\*\*Important Updates:** 
+
+
+  * **Due to the overwhelming interest and submissions for the “HHS Hypertension Innovator Award Competition,” we are delaying the announcement of Phase 1 winners until February 2021.**
 
 
   * **The submission deadline has been extended to 1/6/2021, along with other important changes to the scoring criteria.  Please see changes below in the Key Dates and Judging Criteria sections.**
@@ -76,51 +82,43 @@ description: >-
   * Open September 30, 2020 through January 6, 2021.
 
   * Webinar: Tuesday, October 20, 2020, 3:00-4:00 pm EST
-
     * View recording [here](https://hhs.webex.com/recordingservice/sites/hhs/recording/playback/d9877da6ce0546e78af530a9053ed80d); Password: HypertensionWebinar1
     * View PowerPoint Slides (pdf) [here](https://files.womenshealth.gov/files/oash-owh-htn-challenge_508.pdf)
   * Webinar: Friday, October 30, 2020, 3:00-4:00 pm EST
-
     * View PowerPoint Slides (pdf) [here](https://files.womenshealth.gov/files/oash-owh-htn-challenge_508.pdf)
   * Webinar: Friday, November 6, 2020, 3:00-4:00 pm EST
-
     * View recording [here](https://hhs.webex.com/recordingservice/sites/hhs/recording/playback/fe5a45bfee4e4c42a4f815437568e338); Password: HypertensionWebinar3
     * View PowerPoint Slides (pdf) [here](https://files.womenshealth.gov/files/oash-owh-htn-challenge_508.pdf)
   * Webinar: Monday, November 23, 2020, 1:00-2:00 pm EST
 
   * **Webinar: Wednesday, December 16, 2020, 2:00-3:00 pm EST; Join[ here](https://hhs.webex.com/hhs/j.php?MTID=m477f7cdec5edbf530757d84167d1c0f0)**
-
     * Meeting number (access code): 199 719 9629
     * Meeting password: GraADfqM259 
   * Phase 1 submissions are due by January 6, 2021, 11:59 pm EST.
 
   * Judging for Phase 1 will occur from January 7, 2021 through January 14, 2021.
 
-  * Finalists that move into Phase 2 will be announced no later than January 15, 2021.
+  * Winners announced: February 2021.
 
 
   **Phase 2:** Awarding plans for sustainability and replication and/or expansion
 
 
-  * Competition occurs September 29, 2021 through January 5, 2022.
+  * Submission period begins: September 29, 2021.
 
-  * Phase 2 submissions are due by January 5, 2022, 11:59 pm EST.
+  * Submission period ends: January 5, 2022, 11:59 pm EST.
 
-  * Judging for Phase 2 will occur from January 6, 2022 through January 13, 2022.
-
-  * Finalists that move into Phase 3 will be awarded by will be announced no later than January 14, 2022.
+  * Winners announced: February 2022.
 
 
   **Phase 3:** Awarding the programs that have successfully replicated and/or expanded 
 
 
-  * Competition occurs September 29, 2022 through January 4, 2023.
+  * Submission period begins: September 29, 2022.
 
-  * Phase 3 submissions are due by January 4, 2023, 11:59 pm EST.
+  * Submission period ends: January 5, 2023, 11:59 pm EST.
 
-  * Judging for Phase 3 will occur from January 5, 2023 through January 12, 2023.
-
-  * Finalists will be announced no later than January 13, 2023.
+  * Winners announced: February 2023.
 prizes: >-
   #### Total Prize Awards Available
 
@@ -348,6 +346,8 @@ how-to-enter: >-
 
 **\*\*Important Updates:** 
 
+* **Due to the overwhelming interest and submissions for the “HHS Hypertension Innovator Award Competition,” we are delaying the announcement of Phase 1 winners until February 2021.**
+
 * **The submission deadline has been extended to 1/6/2021, along with other important changes to the scoring criteria.  Please see changes below in the Key Dates and Judging Criteria sections.**
 * **There will be a webinar on Wednesday, December 16 at 2:00 pm EST to review the updated eligibility criteria and key submission dates. Click [here](https://hhs.webex.com/hhs/j.php?MTID=m477f7cdec5edbf530757d84167d1c0f0) to join.**
 
@@ -390,21 +390,19 @@ The competition has three phases. All eligible submissions will be evaluated, an
   * Meeting password: GraADfqM259 
 * Phase 1 submissions are due by January 6, 2021, 11:59 pm EST.
 * Judging for Phase 1 will occur from January 7, 2021 through January 14, 2021.
-* Finalists that move into Phase 2 will be announced no later than January 15, 2021.
+* Winners announced: February 2021.
 
 **Phase 2:** Awarding plans for sustainability and replication and/or expansion
 
-* Competition occurs September 29, 2021 through January 5, 2022.
-* Phase 2 submissions are due by January 5, 2022, 11:59 pm EST.
-* Judging for Phase 2 will occur from January 6, 2022 through January 13, 2022.
-* Finalists that move into Phase 3 will be awarded by will be announced no later than January 14, 2022.
+* Submission period begins: September 29, 2021.
+* Submission period ends: January 5, 2022, 11:59 pm EST.
+* Winners announced: February 2022.
 
 **Phase 3:** Awarding the programs that have successfully replicated and/or expanded 
 
-* Competition occurs September 29, 2022 through January 4, 2023.
-* Phase 3 submissions are due by January 4, 2023, 11:59 pm EST.
-* Judging for Phase 3 will occur from January 5, 2023 through January 12, 2023.
-* Finalists will be announced no later than January 13, 2023.
+* Submission period begins: September 29, 2022.
+* Submission period ends: January 5, 2023, 11:59 pm EST.
+* Winners announced: February 2023.
 
 ### Prizes
 
