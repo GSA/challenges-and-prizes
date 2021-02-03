@@ -8,8 +8,8 @@ status: open
 sidenav: false
 card-image: /assets/netlify-uploads/20210115_herox_wateramericascrops-challenge_3-logo_challengegov-sized.jpg
 agency-logo: /assets/netlify-uploads/US-DOI-BureauOfReclamation-Seal.png
-tagline: Improving the reliability of water delivery for America’s crops by
-  reducing water seepage across Reclamation’s canal infrastructure
+tagline: Help us improve the reliability of water delivery for America’s crops
+  by advancing methods to reduce water seepage in canals
 agency: Department of the Interior - Bureau of Reclamation
 partner-agencies-federal: NASA Tournament Labs
 partners-non-federal: HeroX
