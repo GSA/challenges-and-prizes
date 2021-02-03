@@ -6,7 +6,7 @@ challenge-title: Safer and More Effective Less than Lethal Capabilities for Area
 layout: front-matter-data-markdownify-content
 permalink: /challenge/safer-and-more-effective-less-than-lethal-capabilities-for-area-denial-and-crowd-control/
 challenge-id: "1199"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/innocentivechallenge4x3.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
@@ -19,8 +19,8 @@ type-of-challenge:
   - Ideas
   - Technology demonstration and hardware
   - Scientific
-submission-start: 2020/12/01 12:00 AM
-submission-end: 2021/02/01 11:59 PM
+submission-start: 12/01/2020 12:00 AM
+submission-end: 02/01/2021 11:59 PM
 fiscal-year: FY21
 legal-authority: Agency specific prize authority
 challenge-manager: Shana Yakobi
