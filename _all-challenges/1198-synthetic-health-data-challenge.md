@@ -23,16 +23,24 @@ legal-authority: Procurement Authority
 challenge-manager: Stephanie Garcia, ONC
 challenge-manager-email: Stephanie.Garcia@hhs.gov
 point-of-contact: SyntheticDataChallenge@govhealth.com
-body-content-uploads: /assets/netlify-uploads/20210202_challenge-phase-i-informational-webinar-materials.pdf
+body-content-uploads: /assets/netlify-uploads/module_companion_guide_sepsis_508.pdf
 description: >-
-  **\*\* Welcome to the Synthetic Health Data Challenge Webpage! Watch this
-  space for important updates. \*\***
-
-
-  **\*\* Join us for the Phase I Informational Webinar on February 2, 2021 at 12:00 PM ET. The Webinar is open to anyone interested in learning about or participating in the Challenge. Last-minute attendees are welcome! To register, click [here](https://govhealth.zoom.us/webinar/register/WN_VGdgwkL0R427qZBkykdh0w). To download the Webinar materials, click [here]({{ site.baseurl }}/assets/netlify-uploads/20210202_challenge-phase-i-informational-webinar-materials.pdf). The Webinar will also be recorded and made available on this site. Watch for a future announcement.\*\***
-
-
-  The Office of the National Coordinator for Health Information Technology (ONC), a division of the Department of Health and Human Services, has led and collaborated on many projects supporting the adoption and implementation of a patient-centered outcomes research (PCOR) data infrastructure. Projects funded by the Patient-Centered Outcomes Research Trust Fund, administered by the Assistant Secretary for Planning and Evaluation (ASPE), support the development of data capacity and infrastructure that can engage patients in health care decision-making and incorporate their responses into research. The Synthetic Health Data Challenge (Challenge) is an important component of the [Synthetic Health Data Generation to Accelerate PCOR Project](https://www.healthit.gov/topic/research-evaluation/synthetic-health-data-generation-accelerate-patient-centered-outcomes), through which ONC seeks to accelerate PCOR by furthering the development of Synthea™, a synthetic health data engine. The Challenge invites providers, researchers, and technology developers to develop innovative tools and resources that support validation and novel uses of synthetic data for PCOR researchers and/or health IT developers.
+  The Office of the National Coordinator for Health Information Technology
+  (ONC), a division of the Department of Health and Human Services, has led and
+  collaborated on many projects supporting the adoption and implementation of a
+  patient-centered outcomes research (PCOR) data infrastructure. Projects funded
+  by the Patient-Centered Outcomes Research Trust Fund, administered by the
+  Assistant Secretary for Planning and Evaluation (ASPE), support the
+  development of data capacity and infrastructure that can engage patients in
+  health care decision-making and incorporate their responses into research. The
+  Synthetic Health Data Challenge (Challenge) is an important component of the
+  [Synthetic Health Data Generation to Accelerate PCOR
+  Project](https://www.healthit.gov/topic/research-evaluation/synthetic-health-data-generation-accelerate-patient-centered-outcomes),
+  through which ONC seeks to accelerate PCOR by furthering the development of
+  Synthea™, a synthetic health data engine. The Challenge invites providers,
+  researchers, and technology developers to develop innovative tools and
+  resources that support validation and novel uses of synthetic data for PCOR
+  researchers and/or health IT developers.
 
 
   **Background**
@@ -80,10 +88,10 @@ description: >-
   * [Technical Guidance and Tips]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge_technical-guidance-and-tips.pdf) 
 
   * Example Modules, Module Companion Guides 
-    * [Cerebral Palsy Module](https://synthetichealth.github.io/module-builder/#cerebral_palsy) and [Companion Guide](http://hdx.mitre.org/downloads/module_guides/Module_Companion_Guide_Cerebral_Palsy_508.pdf)
-    * [Prescribing Opioids for Chronic Pain and Treatment of Opioid Use Disorder Module](https://synthetichealth.github.io/module-builder/#prescribing_opioids_for_chronic_pain_and_treatment_of_oud) and [Companion Guide](http://hdx.mitre.org/downloads/module_guides/Module_Companion_Guide_Opioids_508.pdf)
-    * [Sepsis Module](https://synthetichealth.github.io/module-builder/#sepsis) and [Companion Guide](http://hdx.mitre.org/downloads/module_guides/Module_Companion_Guide_Sepsis_508.pdf)
-    * [Spina Bifida](https://synthetichealth.github.io/module-builder/#spina_bifida) Module and [Companion Guide](http://hdx.mitre.org/downloads/module_guides/Module_Companion_Guide_Spina_Bifida_508.pdf)
+    * [Cerebral Palsy Module](https://synthetichealth.github.io/module-builder/#cerebral_palsy) and [Companion Guide]({{site.baseurl}}/assets/netlify-uploads/module_companion_guide_cerebral_palsy_508.pdf)
+    * [Prescribing Opioids for Chronic Pain and Treatment of Opioid Use Disorder Module](https://synthetichealth.github.io/module-builder/#prescribing_opioids_for_chronic_pain_and_treatment_of_oud) and [Companion Guide]({{site.baseurl}}/assets/netlify-uploads/module_companion_guide_opioids_508.pdf)
+    * [Sepsis Module](https://synthetichealth.github.io/module-builder/#sepsis) and [Companion Guide]({{site.baseurl}}/assets/netlify-uploads/module_companion_guide_sepsis_508.pdf)
+    * [Spina Bifida](https://synthetichealth.github.io/module-builder/#spina_bifida) Module and [Companion Guide]({{site.baseurl}}/assets/netlify-uploads/module_companion_guide_spina_bifida_508.pdf)
   * [Synthetic Health Data Challenge Registration Form]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-registration-form.pdf)
 
   * Phase I Informational Webinar (Feb 2, 2021 12:00 PM ET)
@@ -316,11 +324,9 @@ how-to-enter: >-
 
   Prizes awarded under this competition will be paid by electronic funds and may be subject to Federal income taxes. Awardees will need to provide an institutional bank account and routing information to receive the award funds. Payments will comply with the Internal Revenue Service withholding and reporting requirements, where applicable. ONC reserves the right, at its sole discretion, to (a) cancel, suspend, or modify this prize competition, or any part of it, for any reason, and/or (b) not award any prizes if no submissions are deemed worthy.
 ---
-### Description
-
 **\*\* Welcome to the Synthetic Health Data Challenge Webpage! Watch this space for important updates. \*\***
 
-**\*\* Join us for the Phase I Informational Webinar on February 2, 2021 at 12:00 PM ET. The Webinar is open to anyone interested in learning about or participating in the Challenge. Last-minute attendees are welcome! To register, click [here](https://govhealth.zoom.us/webinar/register/WN_VGdgwkL0R427qZBkykdh0w). To download the Webinar materials, click [here]({{ site.baseurl }}/assets/netlify-uploads/20210202_challenge-phase-i-informational-webinar-materials.pdf). The Webinar will also be recorded and made available on this site. Watch for a future announcement.\*\***
+### Description
 
 The Office of the National Coordinator for Health Information Technology (ONC), a division of the Department of Health and Human Services, has led and collaborated on many projects supporting the adoption and implementation of a patient-centered outcomes research (PCOR) data infrastructure. Projects funded by the Patient-Centered Outcomes Research Trust Fund, administered by the Assistant Secretary for Planning and Evaluation (ASPE), support the development of data capacity and infrastructure that can engage patients in health care decision-making and incorporate their responses into research. The Synthetic Health Data Challenge (Challenge) is an important component of the [Synthetic Health Data Generation to Accelerate PCOR Project](https://www.healthit.gov/topic/research-evaluation/synthetic-health-data-generation-accelerate-patient-centered-outcomes), through which ONC seeks to accelerate PCOR by furthering the development of Synthea™, a synthetic health data engine. The Challenge invites providers, researchers, and technology developers to develop innovative tools and resources that support validation and novel uses of synthetic data for PCOR researchers and/or health IT developers.
 
@@ -353,10 +359,10 @@ Participants will propose a solution in one of two (2) Challenge categories.
 * [Frequently Asked Questions Document]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-faqs.pdf) 
 * [Technical Guidance and Tips]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge_technical-guidance-and-tips.pdf) 
 * Example Modules, Module Companion Guides 
-  * [Cerebral Palsy Module](https://synthetichealth.github.io/module-builder/#cerebral_palsy) and [Companion Guide](http://hdx.mitre.org/downloads/module_guides/Module_Companion_Guide_Cerebral_Palsy_508.pdf)
-  * [Prescribing Opioids for Chronic Pain and Treatment of Opioid Use Disorder Module](https://synthetichealth.github.io/module-builder/#prescribing_opioids_for_chronic_pain_and_treatment_of_oud) and [Companion Guide](http://hdx.mitre.org/downloads/module_guides/Module_Companion_Guide_Opioids_508.pdf)
-  * [Sepsis Module](https://synthetichealth.github.io/module-builder/#sepsis) and [Companion Guide](http://hdx.mitre.org/downloads/module_guides/Module_Companion_Guide_Sepsis_508.pdf)
-  * [Spina Bifida](https://synthetichealth.github.io/module-builder/#spina_bifida) Module and [Companion Guide](http://hdx.mitre.org/downloads/module_guides/Module_Companion_Guide_Spina_Bifida_508.pdf)
+  * [Cerebral Palsy Module](https://synthetichealth.github.io/module-builder/#cerebral_palsy) and [Companion Guide]({{site.baseurl}}/assets/netlify-uploads/module_companion_guide_cerebral_palsy_508.pdf)
+  * [Prescribing Opioids for Chronic Pain and Treatment of Opioid Use Disorder Module](https://synthetichealth.github.io/module-builder/#prescribing_opioids_for_chronic_pain_and_treatment_of_oud) and [Companion Guide]({{site.baseurl}}/assets/netlify-uploads/module_companion_guide_opioids_508.pdf)
+  * [Sepsis Module](https://synthetichealth.github.io/module-builder/#sepsis) and [Companion Guide]({{site.baseurl}}/assets/netlify-uploads/module_companion_guide_sepsis_508.pdf)
+  * [Spina Bifida](https://synthetichealth.github.io/module-builder/#spina_bifida) Module and [Companion Guide]({{site.baseurl}}/assets/netlify-uploads/module_companion_guide_spina_bifida_508.pdf)
 * [Synthetic Health Data Challenge Registration Form]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-registration-form.pdf)
 * Phase I Informational Webinar (Feb 2, 2021 12:00 PM ET)
   * [Registration](https://govhealth.zoom.us/webinar/register/WN_VGdgwkL0R427qZBkykdh0w)
