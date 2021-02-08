@@ -83,7 +83,7 @@ description: >
   **Resources** 
 
 
-  * [Frequently Asked Questions Document]({{sitebase.url}}/assets/netlify-uploads/synthetic-health-data-challenge-faqs_rev20210209.pdf) (updated 02/09/2021)
+  * [Frequently Asked Questions Document]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-faqs_rev20210209.pdf) (updated 02/09/2021)
 
   * [Technical Guidance and Tips]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge_technical-guidance-and-tips.pdf) 
 
@@ -92,7 +92,7 @@ description: >
     * [Prescribing Opioids for Chronic Pain and Treatment of Opioid Use Disorder Module](https://synthetichealth.github.io/module-builder/#prescribing_opioids_for_chronic_pain_and_treatment_of_oud) and [Companion Guide]({{site.baseurl}}/assets/netlify-uploads/module_companion_guide_opioids_508.pdf)
     * [Sepsis Module](https://synthetichealth.github.io/module-builder/#sepsis) and [Companion Guide]({{site.baseurl}}/assets/netlify-uploads/module_companion_guide_sepsis_508.pdf)
     * [Spina Bifida](https://synthetichealth.github.io/module-builder/#spina_bifida) Module and [Companion Guide]({{site.baseurl}}/assets/netlify-uploads/module_companion_guide_spina_bifida_508.pdf)
-  * [Synthetic Health Data Challenge Registration Form]({{sitebase.url}}/assets/netlify-uploads/synthetic-health-data-challenge-registration-form-1-.pdf)
+  * [Synthetic Health Data Challenge Registration Form]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-registration-form-1-.pdf)
 
   * Phase I Informational Webinar (Feb 2, 2021 12:00 PM ET)
     * [Registration](https://govhealth.zoom.us/webinar/register/WN_VGdgwkL0R427qZBkykdh0w)
@@ -258,7 +258,7 @@ how-to-enter: >-
   **Registration**
 
 
-  Each Phase I Proposal must be accompanied by a completed [Synthetic Health Data Challenge Registration Form]({{sitebase.url}}/assets/netlify-uploads/synthetic-health-data-challenge-registration-form-1-.pdf). The form can be submitted with the Phase I Proposal as a separate attachment. If participants submit as a team or as an entity, they must identify a team leader who will serve as a point of contact and submit the Phase I Proposal on behalf of the team.
+  Each Phase I Proposal must be accompanied by a completed [Synthetic Health Data Challenge Registration Form]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-registration-form-1-.pdf). The form can be submitted with the Phase I Proposal as a separate attachment. If participants submit as a team or as an entity, they must identify a team leader who will serve as a point of contact and submit the Phase I Proposal on behalf of the team.
 
 
   **Phase I Submission Requirements** 
@@ -359,14 +359,14 @@ Participants will propose a solution in one of two (2) Challenge categories.
 
 **Resources** 
 
-* [Frequently Asked Questions Document]({{sitebase.url}}/assets/netlify-uploads/synthetic-health-data-challenge-faqs_rev20210209.pdf) (updated 02/09/2021)
+* [Frequently Asked Questions Document]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-faqs_rev20210209.pdf) (updated 02/09/2021)
 * [Technical Guidance and Tips]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge_technical-guidance-and-tips.pdf) 
 * Example Modules, Module Companion Guides 
   * [Cerebral Palsy Module](https://synthetichealth.github.io/module-builder/#cerebral_palsy) and [Companion Guide]({{site.baseurl}}/assets/netlify-uploads/module_companion_guide_cerebral_palsy_508.pdf)
   * [Prescribing Opioids for Chronic Pain and Treatment of Opioid Use Disorder Module](https://synthetichealth.github.io/module-builder/#prescribing_opioids_for_chronic_pain_and_treatment_of_oud) and [Companion Guide]({{site.baseurl}}/assets/netlify-uploads/module_companion_guide_opioids_508.pdf)
   * [Sepsis Module](https://synthetichealth.github.io/module-builder/#sepsis) and [Companion Guide]({{site.baseurl}}/assets/netlify-uploads/module_companion_guide_sepsis_508.pdf)
   * [Spina Bifida](https://synthetichealth.github.io/module-builder/#spina_bifida) Module and [Companion Guide]({{site.baseurl}}/assets/netlify-uploads/module_companion_guide_spina_bifida_508.pdf)
-* [Synthetic Health Data Challenge Registration Form]({{sitebase.url}}/assets/netlify-uploads/synthetic-health-data-challenge-registration-form-1-.pdf)
+* [Synthetic Health Data Challenge Registration Form]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-registration-form-1-.pdf)
 * Phase I Informational Webinar (Feb 2, 2021 12:00 PM ET)
   * [Registration](https://govhealth.zoom.us/webinar/register/WN_VGdgwkL0R427qZBkykdh0w)
   * [Webinar Materials]({{ site.baseurl }}/assets/netlify-uploads/20210202_challenge-phase-i-informational-webinar-materials.pdf>)
@@ -475,7 +475,7 @@ Basis Upon Which Phase I Proposals will be Evaluated
 
 **Registration**
 
-Each Phase I Proposal must be accompanied by a completed [Synthetic Health Data Challenge Registration Form]({{sitebase.url}}/assets/netlify-uploads/synthetic-health-data-challenge-registration-form-1-.pdf). The form can be submitted with the Phase I Proposal as a separate attachment. If participants submit as a team or as an entity, they must identify a team leader who will serve as a point of contact and submit the Phase I Proposal on behalf of the team.
+Each Phase I Proposal must be accompanied by a completed [Synthetic Health Data Challenge Registration Form]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-registration-form-1-.pdf). The form can be submitted with the Phase I Proposal as a separate attachment. If participants submit as a team or as an entity, they must identify a team leader who will serve as a point of contact and submit the Phase I Proposal on behalf of the team.
 
 **Phase I Submission Requirements** 
 
