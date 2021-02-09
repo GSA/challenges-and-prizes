@@ -4,7 +4,7 @@ challenge-title: "2021 FAA Challenge: Smart Airport Student Competition"
 layout: front-matter-data-markdownify-content
 permalink: /challenge/2021-faa-challenge-smart-airport-student-competition/
 challenge-id: "1169"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/webp.net-resizeimage-12-.png
 agency-logo: /assets/netlify-uploads/DOT_logo.jpg
@@ -20,8 +20,8 @@ type-of-challenge:
   - Technology demonstration and hardware
   - Business plans
   - Analytics, visualizations, algorithms
-submission-start: 2020/10/15 12:00 PM
-submission-end: 2021/02/04 11:59 PM
+submission-start: 10/15/2020 12:00 PM
+submission-end: 02/04/2021 11:59 PM
 fiscal-year: FY21
 legal-authority: Other
 challenge-manager: Shannon Verstynen
