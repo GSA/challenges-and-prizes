@@ -18,7 +18,7 @@ partner-agencies-federal: "CDC - National Center for Environmental Health;
 partners-non-federal: Hoopa Valley Tribe (CA); California Air Resources Board;
   Oregon Health Authority; Lane Regional Air Protection Agency (OR); Missoula
   City/County Health Department (MT); Puget Sound Clean Air Agency (WA)
-external-url: https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Finnocentive.wazoku.com%2F%23%2Fchallenge%2F6798f18f0fc24bdfb2ada12e7cec946c&data=04%7C01%7CSnyder.Emily%40epa.gov%7Cc7170a81701f47d0b60608d8cd29ce6d%7C88b378b367484867acf976aacbeca6a7%7C0%7C0%7C637484926738581419%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=iYtOdCFaIYNa9uUhxzjKFpUth2Q88tuWZjs%2B7y3y3MI%3D&reserved=0
+external-url: https://innocentive.wazoku.com/#/challenge/6798f18f0fc24bdfb2ada12e7cec946c
 type-of-challenge:
   - Ideas
 submission-start: 2021/02/16 06:00 AM
