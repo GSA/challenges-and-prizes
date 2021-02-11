@@ -26,12 +26,12 @@ legal-authority: Agency specific prize authority
 challenge-manager: John Armantrout
 challenge-manager-email: John.Armantrout@navy.mil
 point-of-contact: AIATAC.PRIZE.CHALLENGE@NAVY.MIL
-body-content-uploads: /assets/netlify-uploads/ai-atac3-questions-and-answers-27-jan-2021.docx
+body-content-uploads: /assets/netlify-uploads/ai-atac3-questions-and-answers-09-feb-2021.docx
 description: >-
   **Important Updates:**
 
 
-  * **Questions and clarifications regarding the challenge are located [here]({{site.baseurl}}/assets/netlify-uploads/ai-atac3-questions-and-answers-27-jan-2021.docx).** 
+  * **Questions and clarifications regarding the challenge are located [here]({{site.baseurl}}/assets/netlify-uploads/ai-atac3-questions-and-answers-09-feb-2021.docx).** 
 
   * **Entry Instructions updated on January 21 to provide additional clarity regarding *Cloud and On-Premises (On-prem) Requirements*** 
 
@@ -419,7 +419,7 @@ how-to-enter: >-
 ---
 **Important Updates:**
 
-* **Questions and clarifications regarding the challenge are located [here]({{site.baseurl}}/assets/netlify-uploads/ai-atac3-questions-and-answers-27-jan-2021.docx).** 
+* **Questions and clarifications regarding the challenge are located [here]({{site.baseurl}}/assets/netlify-uploads/ai-atac3-questions-and-answers-09-feb-2021.docx).** 
 * **Entry Instructions updated on January 21 to provide additional clarity regarding *Cloud and On-Premises (On-prem) Requirements*** 
 
 ### Description
@@ -446,7 +446,7 @@ This Challenge will measure the performance of these tools to determine how well
 
 * 10 December 2020: Kick-off of AI ATAC 3 on Challenge.gov
 * 22 January 2021: Deadline for potential Participants to send an email to indicate intent to participate (details below)
-* 12 February 2021:	All submissions due
+* 12 February 2021: All submissions due
 * TBD: Candidates selected for Phase 2 will be notified by email
 
 ### Prizes
