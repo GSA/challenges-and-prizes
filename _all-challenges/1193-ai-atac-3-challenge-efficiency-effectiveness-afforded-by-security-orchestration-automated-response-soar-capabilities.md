@@ -6,7 +6,7 @@ challenge-title: "AI ATAC 3 Challenge: Efficiency & Effectiveness Afforded by
 layout: front-matter-data-markdownify-content
 permalink: /challenge/AI-ATAC-3-challenge/
 challenge-id: "1193"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/webp.net-resizeimage-19-.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
@@ -19,8 +19,8 @@ type-of-challenge:
   - Software and apps
   - Technology demonstration and hardware
   - Analytics, visualizations, algorithms
-submission-start: 2020/12/10 08:00 AM
-submission-end: 2021/02/12 5:00 PM
+submission-start: 12/10/2020 08:00 AM
+submission-end: 02/12/2021 5:00 PM
 fiscal-year: FY21
 legal-authority: Agency specific prize authority
 challenge-manager: John Armantrout
