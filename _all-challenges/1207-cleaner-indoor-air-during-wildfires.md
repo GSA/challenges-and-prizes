@@ -22,7 +22,7 @@ external-url: https://innocentive.wazoku.com/#/challenge/6798f18f0fc24bdfb2ada12
 type-of-challenge:
   - Ideas
 submission-start: 2021/02/16 06:00 AM
-submission-end: 2021/05/17 11:19 PM
+submission-end: 2021/05/17 11:59 PM
 fiscal-year: FY21
 legal-authority: Other
 challenge-manager: Gail Robarge
