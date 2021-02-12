@@ -12,7 +12,7 @@ tagline: Increase UAS flight time and capabilities in support of first responder
 agency: Department of Commerce - National Institute of Standards and Technology
 partner-agencies-federal: First Responder Network Authority (FirstNet the Authority)
 partners-non-federal: FIRSTNET Built with AT&T
-total-prize-offered-cash: $552,000
+total-prize-offered-cash: $588,000
 type-of-challenge:
   - Technology demonstration and hardware
 submission-start: 04/01/2020 09:00 AM
@@ -213,7 +213,7 @@ Join us for this exciting drone (aka unmanned aircraft system or UAS) prize comp
 
 Vertical take-off and landing (VTOL) UAS provide many different mission capabilities, but their flight time is limited. The payload capacity, energy source and flight time are linked through design trade-offs that can be optimized for efficiency and flexibility. This challenge is designed to keep a UAS and its payload airborne for the longest time possible to support first responders on the ground while they conduct their mission. The advancement of UAS research achieved through this challenge will help support the development and operation of UAS that are intended to host critical tools for public safety missions, such as wireless communications systems.
 
-The National Institute of Standards and Technology (NIST) Public Safety Communications Research (PSCR) Division is hosting a 4-stage challenge, with prize awards **up to $552,000** for the top designs. There are no fees or qualifications needed to enter the first stage. The most outstanding Stage 1 conceptual designs will be eligible to participate in the remaining stages of the competition [see Official Rules]({{site.baseurl}}/assets/netlify-uploads/updated-official-challenge-rules-pscr-first-responder-uas-endurance-challenge-january2021.pdf).
+The National Institute of Standards and Technology (NIST) Public Safety Communications Research (PSCR) Division is hosting a 4-stage challenge, with prize awards **up to $588,000** for the top designs. There are no fees or qualifications needed to enter the first stage. The most outstanding Stage 1 conceptual designs will be eligible to participate in the remaining stages of the competition [see Official Rules]({{site.baseurl}}/assets/netlify-uploads/updated-official-challenge-rules-pscr-first-responder-uas-endurance-challenge-january2021.pdf).
 
 **You can make a difference!** Continue reading to learn about challenge stages and details. To enter Stage 1, submit your [entry](https://www.firstresponderuaschallenge.org/) by April 30, 2020.  For entry as a Walk-on for Stage 3, submit your [entry](https://www.firstresponderuaschallenge.org/) by December 28, 2020. Entries can be submitted through the Contestant Portal on the Challenge website at <https://www.firstresponderuaschallenge.org/>.
 
