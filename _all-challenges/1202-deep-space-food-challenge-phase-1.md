@@ -18,7 +18,7 @@ type-of-challenge:
   - Ideas
   - Scientific
 submission-start: 2021/01/12 11:00 AM
-submission-end: 2021/07/31 6:00 PM
+submission-end: 2021/07/30 6:00 PM
 fiscal-year: FY21
 legal-authority: Agency specific prize authority
 challenge-manager: Angela Herblet
