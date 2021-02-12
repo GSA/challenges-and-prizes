@@ -25,9 +25,9 @@ point-of-contact: jshapiro@capconcorp.com
 body-content-uploads: /assets/netlify-uploads/3.2-challenge-rules-uas2-final-february2021_approved.docx
 description: >-
   **CONGRATULATIONS TO STAGE 1 & 2 WINNERS!** See the [list of
-  winners](https://www.firstresponderuaschallenge.org/finalists.php).  For any
+  winners](https://www.firstresponderuaschallenge.org/finalists.php). For any
   questions related to this Challenge email us at
-  [psprizes@nist.gov](mailto:psprizes@nist.gov).  More details below.
+  [psprizes@nist.gov](mailto:psprizes@nist.gov). More details below.
 
 
   #### Informational Materials
@@ -44,16 +44,16 @@ description: >-
   Vertical take-off and landing (VTOL) UAS provide many different mission capabilities, but their flight time is limited. The payload capacity, energy source and flight time are linked through design trade-offs that can be optimized for efficiency and flexibility. This challenge is designed to keep a UAS and its payload airborne for the longest time possible to support first responders on the ground while they conduct their mission. The advancement of UAS research achieved through this challenge will help support the development and operation of UAS that are intended to host critical tools for public safety missions, such as wireless communications systems.
 
 
-  The National Institute of Standards and Technology (NIST) Public Safety Communications Research (PSCR) Division is hosting a 4-stage challenge, with prize awards **up to $552,000** for the top designs. There are no fees or qualifications needed to enter the first stage. The most outstanding Stage 1 conceptual designs will be eligible to participate in the remaining stages of the competition [see Official Rules]({{site.baseurl}}/assets/netlify-uploads/updated-official-challenge-rules-pscr-first-responder-uas-endurance-challenge-january2021.pdf).
+  The National Institute of Standards and Technology (NIST) Public Safety Communications Research (PSCR) Division is hosting a 4-stage challenge, with prize awards **up to $588,000** for the top designs. There are no fees or qualifications needed to enter the first stage. The most outstanding Stage 1 conceptual designs will be eligible to participate in the remaining stages of the competition [see Official Rules](%7B%7Bsite.baseurl%7D%7D/assets/netlify-uploads/3.2-challenge-rules-uas2-final-february2021_approved.docx).
 
 
-  **You can make a difference!** Continue reading to learn about challenge stages and details. To enter Stage 1, submit your [entry](https://www.firstresponderuaschallenge.org/) by April 30, 2020.  For entry as a Walk-on for Stage 3, submit your [entry](https://www.firstresponderuaschallenge.org/) by December 28, 2020. Entries can be submitted through the Contestant Portal on the Challenge website at <https://www.firstresponderuaschallenge.org/>.
+  **You can make a difference!** Continue reading to learn about challenge stages and details. To enter Stage 1, submit your [entry](https://www.firstresponderuaschallenge.org/) by April 30, 2020. For entry as a Walk-on for Stage 3, submit your [entry](https://www.firstresponderuaschallenge.org/) by December 28, 2020. Entries can be submitted through the Contestant Portal on the Challenge website at <https://www.firstresponderuaschallenge.org/>.
 
 
   #### Table A - Summary of Important Dates
 
 
-  ![Summary of Important Dates]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-a_15jan2021.png "Table A - Summary of Important Dates")
+  ![Summary of Important Dates](blob:https://www.challenge.gov/71ca30ee-d54a-4edd-a5c9-2734769ba360 "Table A - Summary of Important Dates")
 
 
   NOTE: NIST reserves the right to revise the dates at any time.
@@ -98,22 +98,18 @@ description: >-
 
   * Produce a Test flight video demonstrating the UAS prototype capabilities and safety compliance
 
-  * Participate in a 5-day Live Competition demonstrating full capabilities and features of the UAS prototype
+  * Participate in a Virtual Competition, conducting flights at Contestant’s designated flight location and submitting videos of flights and static tests
 
 
   #### UAS Challenge Stages
 
 
-  ![Challenge Stages]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-b.jpg "UAS Challenge Stages")
-
-
-  ### Prizes
-
-
+  ![Challenge Stages](blob:https://www.challenge.gov/000834eb-628d-4001-98c7-aed9e090fdd5 "UAS Challenge Stages")
+prizes: >-
   #### Total Cash Prize Pool
 
 
-  Up to $552,000
+  Up to $588,000
 
 
   #### Prize Breakdown
@@ -122,7 +118,7 @@ description: >-
   NIST Public Safety Communications Research program is hosting a 4-stage challenge, with development funds, travel, and prize awards listed in the following table:
 
 
-  ![Prize Breakdown]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-c_15jan2021.png "Prize Breakdown")
+  ![Prize Breakdown]({{site.baseurl}}/assets/netlify-uploads/uas-table-c_12feb2021.png "Prize Breakdown")
 
 
   NOTE: This table only describes prize awards; additional contestants may be invited to participate in challenge stages but not receive prize awards. All Stage 4 Contestants are eligible to compete for all Stage 4 prizes.
@@ -133,32 +129,24 @@ description: >-
 
   * Informal mentoring for contestants selected from Stage 1: Concept Paper Contest
 
-  * Opportunities for contestants to showcase prototype UAS to representatives of the first responder community in Stage 4: Live Test & Evaluation
-prizes: >-
-  #### Total Cash Prize Pool
-
-
-  Up to $552,000
-
-
-  #### Prize Breakdown
-
-
-  NIST Public Safety Communications Research program is hosting a 4-stage challenge, with development funds, travel, and prize awards listed in the following table:
-
-
-  ![Prize Breakdown]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-c_15jan2021.png "Prize Breakdown")
-
-
-  NOTE: This table only describes prize awards; additional contestants may be invited to participate in challenge stages but not receive prize awards. All Stage 4 Contestants are eligible to compete for all Stage 4 prizes.
+  * Opportunities for contestants to showcase prototype UAS to representatives of the first responder community at the 2022 PSCR Conference
 rules: See the [Official
-  Rules]({{site.baseurl}}/assets/netlify-uploads/updated-official-challenge-rules-pscr-first-responder-uas-endurance-challenge-january2021.pdf)
+  Rules]({{site.baseurl}}/assets/netlify-uploads/3.2-challenge-rules-uas2-final-february2021_approved.docx)
   for details on all aspects of the challenge.
 judging: >-
+  #### Judging Panel
+
+
+  The submissions will be judged by a qualified panel of expert(s) selected by the U.S. Department of Commerce, National Institute of Standards and Technology (NIST) at its sole discretion. The panel consists of U.S. Department of Commerce, NIST and non-Department of Commerce, NIST experts and will judge the submissions according to the judging criteria in order to select winners. The decisions of the judges for the contest will be announced in accordance with the dates noted in the "Summary of Important Dates."
+
+
+  #### Judging Criteria
+
+
   **Stage 1 Criteria**
 
 
-  See the [Official Rules]({{site.baseurl}}/assets/netlify-uploads/updated-official-challenge-rules-pscr-first-responder-uas-endurance-challenge-january2021.pdf) for details on all aspects of the challenge. NIST makes an independent assessment of each Concept Paper based on the evaluation criteria. NIST will not review or consider ineligible Concept Paper submissions. During the review, each subject matter expert reviewer will review the entire concept papers to which they are assigned. The review is not done in sections with different reviewers responsible for different assigned sections. Therefore, it is not necessary to repeat information in every part of the Concept Paper. Do not include sensitive materials in the Concept Paper, for example personally identifiable information such as social security numbers or business sensitive information such as tax ID numbers, etc.
+  See the [Official Rules]({{site.baseurl}}/assets/netlify-uploads/3.2-challenge-rules-uas2-final-february2021_approved.docx) for details on all aspects of the challenge. NIST makes an independent assessment of each Concept Paper based on the evaluation criteria. NIST will not review or consider ineligible Concept Paper submissions. During the review, each subject matter expert reviewer will review the entire concept papers to which they are assigned. The review is not done in sections with different reviewers responsible for different assigned sections. Therefore, it is not necessary to repeat information in every part of the Concept Paper. Do not include sensitive materials in the Concept Paper, for example personally identifiable information such as social security numbers or business sensitive information such as tax ID numbers, etc.
 
 
   **Criterion 1: Strategic Alignment & Technical Outcome (50%)**
@@ -186,7 +174,7 @@ judging: >-
   Concept Papers will be evaluated based on Criteria 1 and 2 above. Each Concept Paper will be reviewed by at least two expert reviewers and be assigned a score on a scale of 1 to 10 for each criterion based on the merit and potential of success of the proposal. Reviewers scores will be averaged for each Concept Paper. The specific scores will not be released publicly or provided to the Contestant.
 
 
-  **See [Official Rules]({{site.baseurl}}/assets/netlify-uploads/updated-official-challenge-rules-pscr-first-responder-uas-endurance-challenge-january2021.pdf) for judging criteria associated with all other Stages of the contest.**
+  **See [Official Rules]({{site.baseurl}}/assets/netlify-uploads/3.2-challenge-rules-uas2-final-february2021_approved.docx) for judging criteria associated with all other Stages of the contest.**
 how-to-enter: >-
   Visit the Challenge website <https://www.firstresponderuaschallenge.org/>, to
   review the challenge stages in the First Responder UAS Endurance Challenge.
@@ -219,7 +207,7 @@ The National Institute of Standards and Technology (NIST) Public Safety Communic
 
 #### Table A - Summary of Important Dates
 
-![Summary of Important Dates]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-a_15jan2021.png "Table A - Summary of Important Dates")
+![Summary of Important Dates]({{site.baseurl}}/assets/netlify-uploads/uas-table-a_12feb2021.png "Table A - Summary of Important Dates")
 
 NOTE: NIST reserves the right to revise the dates at any time.
 
@@ -251,7 +239,7 @@ Participants will be asked to:
 
 #### UAS Challenge Stages
 
-![Challenge Stages]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-b.jpg "UAS Challenge Stages")
+![Challenge Stages]({{site.baseurl}}/assets/netlify-uploads/uas-table-b_12feb2021.png "UAS Challenge Stages")
 
 ### Prizes
 
@@ -263,7 +251,7 @@ Up to $588,000
 
 NIST Public Safety Communications Research program is hosting a 4-stage challenge, with development funds, travel, and prize awards listed in the following table:
 
-![Prize Breakdown]({{site.baseurl}}/assets/netlify-uploads/uas-challenge-table-c_15jan2021.png "Prize Breakdown")
+![Prize Breakdown]({{site.baseurl}}/assets/netlify-uploads/uas-table-c_12feb2021.png "Prize Breakdown")
 
 NOTE: This table only describes prize awards; additional contestants may be invited to participate in challenge stages but not receive prize awards. All Stage 4 Contestants are eligible to compete for all Stage 4 prizes.
 
