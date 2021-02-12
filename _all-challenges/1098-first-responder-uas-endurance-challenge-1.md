@@ -4,7 +4,7 @@ challenge-title: First Responder UAS Endurance Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/first-responder-uas-endurance-challenge/
 challenge-id: "1098"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/nist_logo.png
 agency-logo: /assets/netlify-uploads/nist_logo.png
@@ -15,8 +15,8 @@ partners-non-federal: FIRSTNET Built with AT&T
 total-prize-offered-cash: $588,000
 type-of-challenge:
   - Technology demonstration and hardware
-submission-start: 2020/04/01 09:00 AM
-submission-end: 2020/12/28 09:00 PM
+submission-start: 04/01/2020 09:00 AM
+submission-end: 12/28/2020 09:00 PM
 fiscal-year: FY20,FY21
 legal-authority: America COMPETES Act
 challenge-manager: Terese Manley
