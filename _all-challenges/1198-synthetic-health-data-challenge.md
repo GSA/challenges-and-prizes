@@ -368,7 +368,7 @@ Participants will propose a solution in one of two (2) Challenge categories.
   * [Spina Bifida](https://synthetichealth.github.io/module-builder/#spina_bifida) Module and [Companion Guide]({{site.baseurl}}/assets/netlify-uploads/module_companion_guide_spina_bifida_508.pdf)
 * [Synthetic Health Data Challenge Registration Form]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-registration-form-1-.pdf)
 * Phase I Informational Webinar (Feb 2, 2021 12:00 PM ET)
-  * \[Webinar Materials]({{ site.baseurl }}/assets/netlify-uploads/20210202_challenge-phase-i-informational-webinar-materials.pdf)
+  * [Webinar Materials]({{ site.baseurl }}/assets/netlify-uploads/20210202_challenge-phase-i-informational-webinar-materials.pdf)
   * [Webinar Recording](https://govhealth.zoom.us/rec/play/yVJ8I3UU0rSd9C1JDS4C9sARQtVeO5WMadSB67rEky34U0KM-p73cGPZFFImDWIeXAlfqg72AFCeAKhd.9QViQqRv3Amo3j83?startTime=1612284361000)
 
 **Key Dates**
