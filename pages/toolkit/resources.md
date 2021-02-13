@@ -7,7 +7,6 @@ title: Toolkit - Resources
 
 ### White House, Office of Management and Budget (OMB), and Government-Wide Guidance
 
-* [White House: The Trump Administration Supports Fostering Innovation by Leveraging Prizes and Challenges](https://www.whitehouse.gov/articles/trump-administration-supports-fostering-innovation-leveraging-prizes-challenges/) (March 2018)
 * [American Innovation and Competitiveness Act (January 2017)](https://www.congress.gov/bill/114th-congress/senate-bill/3084/text)
 * [OMB Fact Sheet and FAQ on Prize Authority in the America COMPETES Reauthorization Act](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/assets/egov_docs/prize_authority_in_the_america_competes_reauthorization_act.pdf)
 * [OMB Memo: Guidance on the Use of Challenges and Prizes to Promote Open Government]({{ site.baseurl }}/assets/document-library/Memoranda-Guidance-Use-Challenges-Prizes-Promote-Open-Government-M10-11.pdf) (March 2010)
@@ -63,7 +62,7 @@ title: Toolkit - Resources
 
 ### Implementation of Federal Prize Authority
 
-* [Fiscal Years 2017-18 Full Report](https://www.whitehouse.gov/wp-content/uploads/2019/06/Federal-Prize-and-Citizen-Science-Implementation-FY17-18-Report-June-2019.pdf) (June 2019)
+* Fiscal Years 2017-18 Full Report(June 2019)
 
   * [All prizes and challenges - This CSV file compiles all prizes and challenges from Appendix A and Appendix B of the report, broken down by agency, legal authority, goals, budget, results and more (this is a raw data set).]({{ site.baseurl }}/assets/document-library/prize-competition-appendices-as-a-CSV.CSV)
 * [Fiscal Year 2016 Progress Report, including appendices]({{ site.baseurl }}/assets/document-library/FY2016-Implementation-Federal-Prize-Authority-Report-and-Appendices.pdf) (July 2017)
