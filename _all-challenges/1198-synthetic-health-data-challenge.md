@@ -325,6 +325,7 @@ how-to-enter: >-
 ---
 **\*\* Welcome to the Synthetic Health Data Challenge Webpage! Watch this space for important updates. \*\***
 
+* **REMINDER: Phase I Proposals are due on Tuesday, March 2, 2021 at 5 p.m. ET. Late submissions will not be accepted. Selected Phase I proposals will proceed to Phase II, where participants will develop their prototypes/solutions and compete for awards.**
 * **NOW AVAILABLE: The recording from the February 2, 2021 Phase I Informational Webinar is now available [here](https://govhealth.zoom.us/rec/share/GnEyeYv9ePrcerNp8Ag38crkoGAbxUFNVZf-JqG9KZdIgZ_cYKOzi4yjmBFdg7p-.7mYSscr_j5T4sqfP?startTime=1612284361000) and in the Resources section below. The webinar provides important information about participating in Phase I of this Challenge.** 
 * **UPDATED FAQs: The FAQs have been updated to include questions from the Phase I Informational Webinar. Visit the Resources section below.** 
 
