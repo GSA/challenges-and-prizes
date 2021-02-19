@@ -83,7 +83,7 @@ description: >
   **Resources** 
 
 
-  * [Frequently Asked Questions Document]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-faqs_rev20210209.pdf) (updated 02/09/2021)
+  * [Frequently Asked Questions Document]({{site.baseurl}}/assets/netlify-uploads/20210223_synthetic-health-data-challenge-faqs.pdf) (updated 02/23/2021)
 
   * [Technical Guidance and Tips]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge_technical-guidance-and-tips.pdf) 
 
@@ -326,7 +326,7 @@ how-to-enter: >-
 **\*\* Welcome to the Synthetic Health Data Challenge Webpage! Watch this space for important updates. \*\***
 
 * **REMINDER: Phase I Proposal Packages are due on Tuesday, March 2, 2021 at 5 PM ET. Selected Phase I proposals will proceed to Phase II - Prototype/Solution Development.**
-* **TIPS FOR PHASE I PARTICIPANTS: Review the instructions for submitting Phase I Proposal Packages under the *How to Enter* section below. Complete the Registration Form and follow all Phase I Submission Requirements carefully.**  
+* **TIPS FOR PHASE I PARTICIPANTS: Review the instructions for submitting Phase I Proposal Packages under the *[How to Enter]({{site.baseurl}}/challenge/synthetic-health-data-challenge/#how-to-enter)* section below. Complete the Registration Form and follow all Phase I Submission Requirements carefully.**  
 * **UPDATED FAQs: FAQs were updated on 2/23/21. Visit the Resources section below.** 
 
 ### Description
@@ -368,7 +368,7 @@ Participants will propose a solution in one of two (2) Challenge categories.
   * [Spina Bifida](https://synthetichealth.github.io/module-builder/#spina_bifida) Module and [Companion Guide]({{site.baseurl}}/assets/netlify-uploads/module_companion_guide_spina_bifida_508.pdf)
 * [Synthetic Health Data Challenge Registration Form]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-registration-form-1-.pdf)
 * Phase I Informational Webinar (Feb 2, 2021 12:00 PM ET)
-  * \[Webinar Materials]({{ site.baseurl }}/assets/netlify-uploads/20210202_challenge-phase-i-informational-webinar-materials.pdf)
+  * [Webinar Materials]({{ site.baseurl }}/assets/netlify-uploads/20210202_challenge-phase-i-informational-webinar-materials.pdf)
   * [Webinar Recording](https://govhealth.zoom.us/rec/play/yVJ8I3UU0rSd9C1JDS4C9sARQtVeO5WMadSB67rEky34U0KM-p73cGPZFFImDWIeXAlfqg72AFCeAKhd.9QViQqRv3Amo3j83?startTime=1612284361000)
 
 **Key Dates**
