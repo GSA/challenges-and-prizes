@@ -6,7 +6,7 @@ permalink: /challenge/2021-hud-secretary-awards-for-public-philanthropic-partner
 challenge-id: "1211"
 status: open
 sidenav: false
-card-image: /assets/netlify-uploads/1.png
+card-image: /assets/netlify-uploads/hud_challenge-tile.png
 agency-logo: /assets/netlify-uploads/hud.png
 tagline: Recognizing excellence in partnerships that have transformed
   relationships between sectors and led to measurable benefits in housing &
