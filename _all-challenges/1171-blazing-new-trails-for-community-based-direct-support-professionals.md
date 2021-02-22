@@ -4,7 +4,7 @@ challenge-title: Blazing New Trails for Community Based Direct Support Professio
 layout: front-matter-data-markdownify-content
 permalink: /challenge/blazing-new-trails-for-community-based-direct-support-professionals/
 challenge-id: "1171"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/acl_logo_june2020.jpg
 agency-logo: /assets/netlify-uploads/hhs.png
@@ -13,8 +13,8 @@ agency: Department of Health and Humans Services - Administration for Community 
 total-prize-offered-cash: $310,000
 type-of-challenge:
   - Ideas
-submission-start: 2020/11/20 5:00 PM
-submission-end: 2021/02/22 11:59 PM
+submission-start: 11/20/2020 5:00 PM
+submission-end: 02/22/2021 11:59 PM
 fiscal-year: FY21, FY22
 legal-authority: America COMPETES Act
 challenge-manager: Melvenia Wright
