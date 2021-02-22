@@ -1,6 +1,6 @@
 ---
 title: 2021 HUD Secretary Awards for Public Philanthropic Partnerships
-challenge-title: 2021 HUD Secretary Awards for Public Philanthropic Partnerships
+challenge-title: 2021 HUD Secretary's Awards for Public-Philanthropic Partnerships
 layout: front-matter-data-markdownify-content
 permalink: /challenge/2021-hud-secretary-awards-for-public-philanthropic-partnerships/
 challenge-id: "1211"
@@ -8,9 +8,9 @@ status: open
 sidenav: false
 card-image: /assets/netlify-uploads/1.png
 agency-logo: /assets/netlify-uploads/hud.png
-tagline: Recognizing excellence in partnerships that have both transformed the
-  relationships between the sectors and led to measurable benefits in housing
-  and community development
+tagline: Recognizing excellence in partnerships that have transformed
+  relationships between sectors and led to measurable benefits in housing &
+  community development
 agency: U.S. Department of Housing and Urban Development
 partners-non-federal: The Council on Foundations
 external-url: https://www.huduser.gov/portal/about/Pub_Phil_2021_Intro.html
