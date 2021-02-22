@@ -4,7 +4,7 @@ challenge-title: "Mad Hacks: Fury Code"
 layout: front-matter-data-markdownify-content
 permalink: /challenge/mad-hacks-fury-code/
 challenge-id: "1201"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/mad_hacks-hero-challengegov.png
 agency-logo: /assets/netlify-uploads/challenge-gov.png
@@ -23,8 +23,8 @@ type-of-challenge:
   - Technology demonstration and hardware
   - Analytics, visualizations, algorithms
   - Scientific
-submission-start: "2021/02/05 12:00 AM "
-submission-end: 2021/02/20 3:00 AM
+submission-start: "02/05/2021 12:00 AM "
+submission-end: 02/20/2021 3:00 AM
 fiscal-year: FY21
 legal-authority: Other
 challenge-manager: Kedar Pavgi
