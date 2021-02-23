@@ -4,7 +4,7 @@ challenge-title: "EmPOWER Air Data Challenge "
 layout: front-matter-data-markdownify-content
 permalink: /challenge/empower-air-data-challenge-2021/
 challenge-id: "1200"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/webp.net-resizeimage-7-.jpg
 agency-logo: /assets/netlify-uploads/256px-Environmental_Protection_Agency_logo.png
@@ -13,8 +13,8 @@ tagline: Developing Innovative Analyses Using Emissions and Environmental
 agency: U.S. Environmental Protection Agency
 type-of-challenge:
   - Analytics, visualizations, algorithms
-submission-start: 2020/12/03 09:00 AM
-submission-end: 2021/02/22 11:59 PM
+submission-start: 12/03/2020 09:00 AM
+submission-end: 02/22/2021 11:59 PM
 fiscal-year: FY21
 legal-authority: Other
 challenge-manager: Justine Huetteman
