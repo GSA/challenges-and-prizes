@@ -29,18 +29,10 @@ challenge-manager: Courtney Gustin
 challenge-manager-email: Courtney.gustin@hhs.gov
 point-of-contact: HypertensionChallenge@hhs.gov
 description: >-
-  ### Description
+  **\*\*Important Update:** 
 
 
-  **\*\*Important Updates:** 
-
-
-  * **Due to the overwhelming interest and submissions for the “HHS Hypertension Innovator Award Competition,” we are delaying the announcement of Phase 1 winners until February 2021.**
-
-
-  * **The submission deadline has been extended to 1/6/2021, along with other important changes to the scoring criteria.  Please see changes below in the Key Dates and Judging Criteria sections.**
-
-  * **There will be a webinar on Wednesday, December 16 at 2:00 pm EST to review the updated eligibility criteria and key submission dates. Click [here](https://hhs.webex.com/hhs/j.php?MTID=m477f7cdec5edbf530757d84167d1c0f0) to join.**
+  * **Due to the overwhelming interest and submissions for the “HHS Hypertension Innovator Award Competition,” we are delaying the announcement of Phase 1 winners until March 2021.**
 
 
   The Office of the Assistant Secretary for Health (OASH), Office on Women’s Health (OWH) is seeking innovative ways to ensure women with hypertension during pregnancy and/or postpartum receive appropriate monitoring and follow-up through the HHS Hypertension Innovator Award Competition:  Innovative Methods of Blood Pressure Monitoring and Follow-up in Women during Pregnancy and/or Postpartum.
@@ -82,16 +74,20 @@ description: >-
   * Open September 30, 2020 through January 6, 2021.
 
   * Webinar: Tuesday, October 20, 2020, 3:00-4:00 pm EST
+
     * View recording [here](https://hhs.webex.com/recordingservice/sites/hhs/recording/playback/d9877da6ce0546e78af530a9053ed80d); Password: HypertensionWebinar1
     * View PowerPoint Slides (pdf) [here](https://files.womenshealth.gov/files/oash-owh-htn-challenge_508.pdf)
   * Webinar: Friday, October 30, 2020, 3:00-4:00 pm EST
+
     * View PowerPoint Slides (pdf) [here](https://files.womenshealth.gov/files/oash-owh-htn-challenge_508.pdf)
   * Webinar: Friday, November 6, 2020, 3:00-4:00 pm EST
+
     * View recording [here](https://hhs.webex.com/recordingservice/sites/hhs/recording/playback/fe5a45bfee4e4c42a4f815437568e338); Password: HypertensionWebinar3
     * View PowerPoint Slides (pdf) [here](https://files.womenshealth.gov/files/oash-owh-htn-challenge_508.pdf)
   * Webinar: Monday, November 23, 2020, 1:00-2:00 pm EST
 
   * **Webinar: Wednesday, December 16, 2020, 2:00-3:00 pm EST; Join[ here](https://hhs.webex.com/hhs/j.php?MTID=m477f7cdec5edbf530757d84167d1c0f0)**
+
     * Meeting number (access code): 199 719 9629
     * Meeting password: GraADfqM259 
   * Phase 1 submissions are due by January 6, 2021, 11:59 pm EST.
@@ -344,12 +340,9 @@ how-to-enter: >-
 ---
 ### Description
 
-**\*\*Important Updates:** 
+**\*\*Important Update:** 
 
-* **Due to the overwhelming interest and submissions for the “HHS Hypertension Innovator Award Competition,” we are delaying the announcement of Phase 1 winners until February 2021.**
-
-* **The submission deadline has been extended to 1/6/2021, along with other important changes to the scoring criteria.  Please see changes below in the Key Dates and Judging Criteria sections.**
-* **There will be a webinar on Wednesday, December 16 at 2:00 pm EST to review the updated eligibility criteria and key submission dates. Click [here](https://hhs.webex.com/hhs/j.php?MTID=m477f7cdec5edbf530757d84167d1c0f0) to join.**
+* **Due to the overwhelming interest and submissions for the “HHS Hypertension Innovator Award Competition,” we are delaying the announcement of Phase 1 winners until March 2021.**
 
 The Office of the Assistant Secretary for Health (OASH), Office on Women’s Health (OWH) is seeking innovative ways to ensure women with hypertension during pregnancy and/or postpartum receive appropriate monitoring and follow-up through the HHS Hypertension Innovator Award Competition:  Innovative Methods of Blood Pressure Monitoring and Follow-up in Women during Pregnancy and/or Postpartum.
 
@@ -377,15 +370,19 @@ The competition has three phases. All eligible submissions will be evaluated, an
 
 * Open September 30, 2020 through January 6, 2021.
 * Webinar: Tuesday, October 20, 2020, 3:00-4:00 pm EST
+
   * View recording [here](https://hhs.webex.com/recordingservice/sites/hhs/recording/playback/d9877da6ce0546e78af530a9053ed80d); Password: HypertensionWebinar1
   * View PowerPoint Slides (pdf) [here](https://files.womenshealth.gov/files/oash-owh-htn-challenge_508.pdf)
 * Webinar: Friday, October 30, 2020, 3:00-4:00 pm EST
+
   * View PowerPoint Slides (pdf) [here](https://files.womenshealth.gov/files/oash-owh-htn-challenge_508.pdf)
 * Webinar: Friday, November 6, 2020, 3:00-4:00 pm EST
+
   * View recording [here](https://hhs.webex.com/recordingservice/sites/hhs/recording/playback/fe5a45bfee4e4c42a4f815437568e338); Password: HypertensionWebinar3
   * View PowerPoint Slides (pdf) [here](https://files.womenshealth.gov/files/oash-owh-htn-challenge_508.pdf)
 * Webinar: Monday, November 23, 2020, 1:00-2:00 pm EST
 * **Webinar: Wednesday, December 16, 2020, 2:00-3:00 pm EST; Join[ here](https://hhs.webex.com/hhs/j.php?MTID=m477f7cdec5edbf530757d84167d1c0f0)**
+
   * Meeting number (access code): 199 719 9629
   * Meeting password: GraADfqM259 
 * Phase 1 submissions are due by January 6, 2021, 11:59 pm EST.
