@@ -94,7 +94,7 @@ description: >-
 
   * Judging for Phase 1 will occur from January 7, 2021 through January 14, 2021.
 
-  * Winners announced: February 2021.
+  * Winners announced: March 2021.
 
 
   **Phase 2:** Awarding plans for sustainability and replication and/or expansion
@@ -387,7 +387,7 @@ The competition has three phases. All eligible submissions will be evaluated, an
   * Meeting password: GraADfqM259 
 * Phase 1 submissions are due by January 6, 2021, 11:59 pm EST.
 * Judging for Phase 1 will occur from January 7, 2021 through January 14, 2021.
-* Winners announced: February 2021.
+* Winners announced: March 2021.
 
 **Phase 2:** Awarding plans for sustainability and replication and/or expansion
 
