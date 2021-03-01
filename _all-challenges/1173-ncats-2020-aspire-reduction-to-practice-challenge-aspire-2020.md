@@ -4,7 +4,7 @@ challenge-title: NCATS 2020 ASPIRE Reduction-to-Practice Challenge (ASPIRE 2020)
 layout: front-matter-data-markdownify-content
 permalink: /challenge/ASPIRE-2020/
 challenge-id: "1173"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/webp.net-resizeimage-4-.jpg
 agency-logo: /assets/netlify-uploads/hhs.png
@@ -15,8 +15,8 @@ external-url: https://ncats.nih.gov/aspire/2020Challenge
 total-prize-offered-cash: $2,875,000
 type-of-challenge:
   - Scientific
-submission-start: 2020/11/30 5:00 PM
-submission-end: 2021/02/28 5:00 PM
+submission-start: 11/30/2020 5:00 PM
+submission-end: 02/28/2021 5:00 PM
 fiscal-year: FY21
 legal-authority: America COMPETES Act
 challenge-manager: Crina Frincu
