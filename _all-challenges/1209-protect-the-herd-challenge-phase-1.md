@@ -1,12 +1,12 @@
 ---
-title: Protect the Herd Challenge Phase 1
-challenge-title: Protect the Herd Challenge Phase 1
+title: Detect to Protect Challenge Phase 1
+challenge-title: Detect to Protect Challenge Phase 1
 layout: front-matter-data-markdownify-content
-permalink: /challenge/protect-the-herd-challenge-phase1/
+permalink: /challenge/detect-to-protect-challenge-phase1/
 challenge-id: "1210"
 status: open
 sidenav: false
-card-image: /assets/netlify-uploads/ars-cwd-challenge-logo_square_resized.png
+card-image: /assets/netlify-uploads/ars-cwd-challenge_logo_horizontal-full-color-tagline.png
 agency-logo: /assets/netlify-uploads/USDA_logo.png
 tagline: A Live Animal Test for Chronic Wasting Disease
 agency: US Department of Agriculture (USDA), Agricultural Research Service
