@@ -4,7 +4,7 @@ challenge-title: Unmanned Aircraft Systems Ground Control Station Software Chall
 layout: front-matter-data-markdownify-content
 permalink: /challenge/unmanned-aircraft-systems-ground-control-station-software-challenge-series/
 challenge-id: "1178"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/unamnned.jpg
 agency-logo: /assets/netlify-uploads/717px-NASA_logo.png
@@ -16,8 +16,8 @@ agency: NASA
 external-url: https://www.nasa.gov/unmanned-aircraft-ground-control-challenge-series
 type-of-challenge:
   - Software and apps
-submission-start: 2020/10/02 08:00 AM
-submission-end: 2021/03/01 08:00 AM
+submission-start: 10/02/2020 08:00 AM
+submission-end: 03/01/2021 08:00 AM
 fiscal-year: FY21
 legal-authority: Procurement Authority
 challenge-manager: Mike Politowicz
