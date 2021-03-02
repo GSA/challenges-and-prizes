@@ -12,7 +12,7 @@ tagline: Seeking portable tools to non-destructively evaluate the condition of
   existing fiber reinforced polymer (FRP) composite structures
 agency: Department of the Interior - Bureau of Reclamation
 partner-agencies-federal: U.S. Army Corps of Engineers, NASA Tournament Labs
-partners-non-federal: Jesse Garant Metrology, Clemson Composites Center, HeroX
+partners-non-federal: Jesse Garant Metrology, Clemson Composites Center, Thompson Pipe Group, HeroX
 external-url: https://www.herox.com/ImperfectionDetection
 total-prize-offered-cash: $380,000
 type-of-challenge:
