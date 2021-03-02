@@ -10,7 +10,7 @@ card-image: /assets/netlify-uploads/imperfect-detect-341x160.jpg
 agency-logo: /assets/netlify-uploads/US-DOI-BureauOfReclamation-Seal.png
 tagline: Seeking portable tools to non-destructively evaluate the condition of
   existing fiber reinforced polymer (FRP) composite structures
-agency: Bureau of Reclamation
+agency: Department of the Interior - Bureau of Reclamation
 partner-agencies-federal: U.S. Army Corps of Engineers, NASA Tournament Labs
 partners-non-federal: Jesse Garant Metrology, Clemson Composites Center, HeroX
 external-url: https://www.herox.com/ImperfectionDetection
