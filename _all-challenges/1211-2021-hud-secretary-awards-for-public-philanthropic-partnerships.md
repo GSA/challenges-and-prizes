@@ -4,7 +4,7 @@ challenge-title: 2021 HUD Secretary's Awards for Public-Philanthropic Partnershi
 layout: front-matter-data-markdownify-content
 permalink: /challenge/2021-hud-secretary-awards-for-public-philanthropic-partnerships/
 challenge-id: "1211"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/hud_challenge-tile.png
 agency-logo: /assets/netlify-uploads/hud.png
@@ -16,8 +16,8 @@ partners-non-federal: The Council on Foundations
 external-url: https://www.huduser.gov/portal/about/Pub_Phil_2021_Intro.html
 type-of-challenge:
   - Nominations
-submission-start: 2021/01/11 7:00 AM
-submission-end: 2021/03/01 11:59 PM
+submission-start: 01/11/2021 7:00 AM
+submission-end: 03/01/2021 11:59 PM
 fiscal-year: FY21
 legal-authority: Agency specific prize authority
 challenge-manager: B. Aaron Weaver
