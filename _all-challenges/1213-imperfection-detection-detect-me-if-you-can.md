@@ -7,7 +7,7 @@ challenge-id: "1213"
 status: open
 sidenav: true
 card-image: /assets/netlify-uploads/imperfect-detect-341x160.jpg
-agency-logo: /assets/netlify-uploads/US-DOI-BureauOfReclamation-Seal.png
+agency-logo: /assets/netlify-uploads/bureau-of-reclamation.png
 tagline: Seeking portable tools to non-destructively evaluate the condition of
   existing fiber reinforced polymer (FRP) composite structures
 agency: Department of the Interior - Bureau of Reclamation
