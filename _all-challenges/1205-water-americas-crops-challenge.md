@@ -7,7 +7,7 @@ challenge-id: "1205"
 status: open
 sidenav: false
 card-image: /assets/netlify-uploads/20210115_herox_wateramericascrops-challenge_3-logo_challengegov-sized.jpg
-agency-logo: /assets/netlify-uploads/US-DOI-BureauOfReclamation-Seal.png
+agency-logo: /assets/netlify-uploads/bureau-of-reclamation.png
 tagline: Help us improve the reliability of water delivery for America’s crops
   by advancing methods to reduce water seepage in canals
 agency: Department of the Interior - Bureau of Reclamation
