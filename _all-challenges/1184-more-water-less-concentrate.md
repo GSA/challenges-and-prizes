@@ -4,7 +4,7 @@ challenge-title: More Water Less Concentrate
 layout: front-matter-data-markdownify-content
 permalink: /challenge/more-water-less-concentrate/
 challenge-id: "1184"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/logo_morewater_341x160.png
 agency-logo: /assets/netlify-uploads/US-DOI-BureauOfReclamation-Seal.png
@@ -15,8 +15,8 @@ external-url: http://www.morewaterlessconcentrate.org/
 type-of-challenge:
   - Ideas
   - Technology demonstration and hardware
-submission-start: 2020/10/28 11:00 AM
-submission-end: 2021/03/03 7:00 PM
+submission-start: 10/28/2020 11:00 AM
+submission-end: 03/03/2021 7:00 PM
 fiscal-year: FY20, FY21, FY22
 legal-authority: Procurement Authority
 challenge-manager: Jennifer Beardsley
