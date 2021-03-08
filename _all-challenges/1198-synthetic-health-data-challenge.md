@@ -325,9 +325,7 @@ how-to-enter: >-
 ---
 **\*\* Welcome to the Synthetic Health Data Challenge Webpage! Watch this space for important updates. \*\***
 
-* **REMINDER: Phase I Proposal Packages are due on Tuesday, March 2, 2021 at 5 PM ET. Selected Phase I proposals will proceed to Phase II - Prototype/Solution Development.**
-* **TIPS FOR PHASE I PARTICIPANTS: Review the instructions for submitting Phase I Proposal Packages under the *[How to Enter]({{site.baseurl}}/challenge/synthetic-health-data-challenge/#how-to-enter)* section below. Complete the Registration Form and follow all Phase I Submission Requirements carefully.**  
-* **UPDATED FAQs: FAQs were updated on 2/23/21. Visit the Resources section below.** 
+* **UPCOMING: Phase I Finalists will be announced on March 23, 2021. They will be moving on to Phase II -- Prototype/Solution Development to compete for $100,000 in total prizes and the opportunity to present their findings during the Winning Solutions Webinar in October 2021.**
 
 ### Description
 
