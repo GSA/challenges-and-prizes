@@ -4,7 +4,7 @@ challenge-title: Promoting Pediatric Primary Prevention (P4 Challenge)
 layout: front-matter-data-markdownify-content
 permalink: /challenge/promoting-pediatric-primary-prevention/
 challenge-id: "1161"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/webp.net-resizeimage-2-.jpg
 agency-logo: /assets/netlify-uploads/webp.net-resizeimage-2-.jpg
@@ -16,8 +16,8 @@ type-of-challenge:
   - Software and apps
   - Ideas
   - Technology demonstration and hardware
-submission-start: 2021/01/19 09:00 AM
-submission-end: 2021/03/15 5:00 PM
+submission-start: 01/19/2021 09:00 AM
+submission-end: 03/15/2021 5:00 PM
 fiscal-year: FY21
 legal-authority: America COMPETES Act
 challenge-manager: Jessie Buerlein
