@@ -4,7 +4,7 @@ challenge-title: NSWC Crane AISUM Prize Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/nswc-crane-aisum-prize-challenge/
 challenge-id: "1194"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/navalx-midwest-logo-resize.png
 agency-logo: /assets/netlify-uploads/sealnavy.png
@@ -18,8 +18,8 @@ type-of-challenge:
   - Ideas
   - Technology demonstration and hardware
   - Scientific
-submission-start: 2020/12/10 2:00 PM
-submission-end: 2021/01/29 2:00 PM
+submission-start: 12/10/2020 2:00 PM
+submission-end: 01/29/2021 2:00 PM
 fiscal-year: FY21
 legal-authority: Other
 challenge-manager: Marissa Wagler / Derek Perry (Mar 11 - 31, 2021)
