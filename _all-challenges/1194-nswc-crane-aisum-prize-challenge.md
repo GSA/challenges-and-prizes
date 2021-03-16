@@ -22,16 +22,81 @@ submission-start: 12/10/2020 2:00 PM
 submission-end: 01/29/2021 2:00 PM
 fiscal-year: FY21
 legal-authority: Other
-challenge-manager: Marissa Wagler
-challenge-manager-email: marissa.wagler@navy.mil
-point-of-contact: marissa.wagler@navy.mil
+challenge-manager: Marissa Wagler / Derek Perry (Mar 11 - 31, 2021)
+challenge-manager-email: marissa.wagler@navy.mil; derrek.s.perry@navy.mil
+point-of-contact: derek.s.perry@navy.mil
 description: >-
-  Artificial Intelligence for Small Unit Maneuver (AISUM) combines Naval
-  Expeditionary Warfare and Special Operations Forces (SOF) tactical maneuver
-  elements with Robotic Autonomous Systems (RAS) to create a low risk human
-  machine maneuver element that gains, maintains and extends access in complex,
-  contested and congested areas, providing a decisive advantage and precision
-  application of effects.
+  Ten (10) participants were selected to participate in Phase II – Virtual
+  Vignettes for the Artificial Intelligence for Small Unit Maneuver (AISUM)
+  Prize Challenge. Participant names are listed below in alphabetical order:
+
+
+  1. ASEC, Inc.
+
+  2. Codex Laboratories LLC
+
+  3. Draper
+
+  4. EpiSys Science, Inc.
+
+  5. Exyn Technologies
+
+  6. Heron Systems Inc.
+
+  7. Indiana University-Bloomington
+
+  8. Raytheon BBN Technologies
+
+  9. Shield AI, Inc.
+
+  10. TurbineOne, LLC
+
+
+  Earlier, twenty (20) participants were invited to present their Phase I White Paper concepts to the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge judging panel. Invited participant names are listed below in alphabetical order:
+
+
+  1. AMTech One
+
+  2. ASEC, Inc.
+
+  3. Blue Wave AI Labs, LLC
+
+  4. Codex Laboratories LLC
+
+  5. Draper
+
+  6. EpiSys Science, Inc.
+
+  7. Exyn Technologies
+
+  8. Heron Systems Inc.
+
+  9. Indiana University-Bloomington
+
+  10. InfoDao LLC
+
+  11. IUPUI
+
+  12. Physical Optics Corporation/Mercury
+
+  13. Raytheon BBN Technologies
+
+  14. RIT/NUAIR, Inc.
+
+  15. Shield AI, Inc.
+
+  16. Skyline Nav AI Inc.
+
+  17. Sonalysts, Inc.
+
+  18. SSCI, Inc.
+
+  19. Trueface
+
+  20. TurbineOne, LLC
+
+
+  Artificial Intelligence for Small Unit Maneuver (AISUM) combines Naval Expeditionary Warfare and Special Operations Forces (SOF) tactical maneuver elements with Robotic Autonomous Systems (RAS) to create a low risk human machine maneuver element that gains, maintains and extends access in complex, contested and congested areas, providing a decisive advantage and precision application of effects.
 
 
   Over the past 20 years the SOF community perfected the combination of its tactical maneuver elements and small arms precision fire with overhead unmanned and remotely piloted airborne Intelligence, Surveillance, and Reconnaissance (ISR) in its aerial delivered strike to precisely find, fix and finish networked threats. However, these non-state actors mostly operated in a two-dimensional battlespace that was mainly rural and urban sprawl, with little to no access to Electronic Warfare (EW) tools. 
@@ -360,6 +425,42 @@ how-to-enter: >-
 ---
 ### Description
 
+Ten (10) participants were selected to participate in Phase II – Virtual Vignettes for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. Participant names are listed below in alphabetical order:
+
+1. ASEC, Inc.
+2. Codex Laboratories LLC
+3. Draper
+4. EpiSys Science, Inc.
+5. Exyn Technologies
+6. Heron Systems Inc.
+7. Indiana University-Bloomington
+8. Raytheon BBN Technologies
+9. Shield AI, Inc.
+10. TurbineOne, LLC
+
+Earlier, twenty (20) participants were invited to present their Phase I White Paper concepts to the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge judging panel. Invited participant names are listed below in alphabetical order:
+
+1. AMTech One
+2. ASEC, Inc.
+3. Blue Wave AI Labs, LLC
+4. Codex Laboratories LLC
+5. Draper
+6. EpiSys Science, Inc.
+7. Exyn Technologies
+8. Heron Systems Inc.
+9. Indiana University-Bloomington
+10. InfoDao LLC
+11. IUPUI
+12. Physical Optics Corporation/Mercury
+13. Raytheon BBN Technologies
+14. RIT/NUAIR, Inc.
+15. Shield AI, Inc.
+16. Skyline Nav AI Inc.
+17. Sonalysts, Inc.
+18. SSCI, Inc.
+19. Trueface
+20. TurbineOne, LLC
+
 Artificial Intelligence for Small Unit Maneuver (AISUM) combines Naval Expeditionary Warfare and Special Operations Forces (SOF) tactical maneuver elements with Robotic Autonomous Systems (RAS) to create a low risk human machine maneuver element that gains, maintains and extends access in complex, contested and congested areas, providing a decisive advantage and precision application of effects.
 
 Over the past 20 years the SOF community perfected the combination of its tactical maneuver elements and small arms precision fire with overhead unmanned and remotely piloted airborne Intelligence, Surveillance, and Reconnaissance (ISR) in its aerial delivered strike to precisely find, fix and finish networked threats. However, these non-state actors mostly operated in a two-dimensional battlespace that was mainly rural and urban sprawl, with little to no access to Electronic Warfare (EW) tools. 
@@ -419,9 +520,11 @@ The government estimates the following timeline for the completion of the prize 
 ***Phase I***
 
 * Technical White Paper Submission open 50 calendar days
+
   * Opens Dec. 10, 2020
   * Closes Jan. 29, 2021
   * NSWC Crane Project Talks: Dec. 17, 2020 (A virtual panel was available to answer questions related to the challenge.gov posting and the Prize Challenge from 1300-1500 ET)
+
     * NSWC Crane Project Talks Presentation can be found [here](https://434cll131hi945boxu2a7cmf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/AISUM-Project-Talks-Presentation-FINAL.pdf)
     * The recording of this event can be found [here](https://www.youtube.com/watch?v=s-5tnYk74o4)
 * Evaluation period 10-14 calendar days  
@@ -563,6 +666,7 @@ Initial submission of the White Paper Concept shall not exceed five pages and re
 * Electronic files shall be formatted for Microsoft Windows Office 2010: text shall be prepared using Microsoft Word compatible formats; spreadsheets, worksheets, or workbooks shall be prepared using Microsoft Excel 2010 compatible formats, and presentations prepared using PowerPoint compatible formats. All schedules shall be prepared in Microsoft Project 2010 compatible applications.
 * A glossary shall be included of all abbreviations and acronyms used with an explanation for each that will NOT be included in the page count.
 * A cover sheet should be include with the following information:
+
   * Challenge Title
   * Name(s) of company(ies) and POC individual(s) 
   * Address(es)
