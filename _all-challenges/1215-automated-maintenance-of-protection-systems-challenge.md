@@ -8,8 +8,8 @@ status: open
 sidenav: false
 card-image: /assets/netlify-uploads/amps_challenge_image_341x160.jpg
 agency-logo: /assets/netlify-uploads/usbr.jpg
-tagline: Seeking innovative solutions for reducing indoor air pollution due to
-  wildfire smoke and high pollution events
+tagline: Make power systems more reliable by automating maintenance testing of
+  protective relays and associated potential and current transformers.
 agency: Department of the Interior - Bureau of Reclamation
 partner-agencies-federal: Western Area Power Administration; Bonneville Power
   Administration; Oak Ridge National Laboratory; U.S. Army Corps of Engineers;
