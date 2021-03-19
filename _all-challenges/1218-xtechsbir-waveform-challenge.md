@@ -8,8 +8,8 @@ status: open
 sidenav: true
 card-image: /assets/netlify-uploads/xtechwaveform_challenge.gov-logo.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
-tagline: Small business prize challenge to help the Army develop an architecture
-  for software defined radios to decouple hardware & software-based waveforms.
+tagline: Small business challenge to help the Army develop a software defined
+  radio architecture to decouple hardware & software-based waveforms
 agency: Department of Defense - U.S. Army
 total-prize-offered-cash: $350,000
 type-of-challenge:
