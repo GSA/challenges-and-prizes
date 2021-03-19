@@ -191,7 +191,7 @@ judging: >-
   **Judging Panel**
 
 
-  Technical reviewers with expertise relevant to the Challenge will evaluate the solutions based on their ability to achieve the criteria listed below. The solutions and evaluation statements from the technical reviewers will then be reviewed by federal employees serving as judges, who will select up to 10 Challenge winners for Phase 1, as well as any honorable mentions subject to the final decision by the Award Approving Official.
+  Technical reviewers with expertise relevant to the Challenge will evaluate the solutions based on their ability to achieve the criteria listed below. Technical reviewers will be comprised of experts sourced from the Federal government, academia, industry, and other sectors as deemed relevant. The solutions and evaluation statements from the technical reviewers will then be reviewed by federal employees serving as judges, who will select up to 10 Challenge winners for Phase 1, as well as any honorable mentions subject to the final decision by the Award Approving Official.
 
 
   The Award Approving Official will be the BARDA Director.
