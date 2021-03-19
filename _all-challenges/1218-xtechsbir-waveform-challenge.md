@@ -251,7 +251,7 @@ how-to-enter: >-
 
 **Background**
 
-The U.S. Army Program Executive Office Command Control Communications-Tactical (PEO C3T) would like to invite interested entities to participate in the xTech Small Business Innovation Research (SBIR) Waveform Challenge. Entities are invited to submit a Part 1: Concept White Paper by 08:00 AM EST April 13, 2021. The xTech-SBIR Waveform Challenge incentivizes small businesses to propose innovative, viable technology concepts to the Army to develop an open hardware architecture for software defined radios (SDRs) that can facilitate the decoupling of hardware and software-based waveforms. Each participant with a selected Concept White Paper will receive a $10,000 prize and be invited to participate in Part 2: Technology Pitches where participants will have an opportunity to present their technology concept to an Army panel. Winners of the Part 2: Technology Pitches will each receive a $50,000 prize and will be invited to participate in Part 3, to submit either a Phase I SBIR or a Direct to Phase II (D2PhII) SBIR proposal to prototype their proposed technology innovations. Prize money will be awarded to selected participants through the Army xTech program and SBIR contract awards will be awarded through the Army SBIR program. 
+The U.S. Army Program Executive Office Command Control Communications-Tactical (PEO C3T) would like to invite interested entities to participate in the xTech Small Business Innovation Research (SBIR) Waveform Challenge. Entities are invited to submit a Part 1: Concept White Paper by 08:00 AM EST April 13, 2021. The xTechSBIR Waveform Challenge incentivizes small businesses to propose innovative, viable technology concepts to the Army to develop an open hardware architecture for software defined radios (SDRs) that can facilitate the decoupling of hardware and software-based waveforms. Each participant with a selected Concept White Paper will receive a $10,000 prize and be invited to participate in Part 2: Technology Pitches where participants will have an opportunity to present their technology concept to an Army panel. Winners of the Part 2: Technology Pitches will each receive a $50,000 prize and will be invited to participate in Part 3, to submit either a Phase I SBIR or a Direct to Phase II (D2PhII) SBIR proposal to prototype their proposed technology innovations. Prize money will be awarded to selected participants through the Army xTech program and SBIR contract awards will be awarded through the Army SBIR program. 
 
 The prize competition, consisting of Part 1: Concept White Paper and Part 2: Technology Pitch, will be used to identify small business concerns that meet the criteria for award of a Phase I or D2PhII SBIR contract under 15 U.S.C. §638. Winners selected from Part 2: Technology Pitches will be the only firms eligible to participate in Part 3 and submit a Phase I or D2PhII SBIR proposal under this announcement. A separate SBIR announcement will be issued concurrent with this prize competition announcement and can be found here: 
 
@@ -261,7 +261,7 @@ The efforts described in this Notice are being pursued under the authorities of 
 
 **Purpose and Problem Statement**
 
-The xTech-SBIR Waveform Challenge aims to accelerate integration of technology prototypes for crucial Army capability gaps into military platforms. Submissions will be open to technology solutions that can considerably improve Army terrestrial tactical radio communications by addressing the problem statement below.
+The xTechSBIR Waveform Challenge aims to accelerate integration of technology prototypes for crucial Army capability gaps into military platforms. Submissions will be open to technology solutions that can considerably improve Army terrestrial tactical radio communications by addressing the problem statement below.
 
 TOPIC: Waveform Challenge for Tactical Radios
 
@@ -310,13 +310,13 @@ Prizes will be offered under Title 10 USC 2374a (prize competition). The total p
 
 The process of this competition will consist of the following three (3) Parts: 
 
-* Part 1 – Request for xTech-SBIR Concept White Papers 
-* Part 2 – Presentations at xTech-SBIR Waveform Challenge Technology Pitches 
+* Part 1 – Request for xTechSBIR Concept White Papers 
+* Part 2 – Presentations at xTechSBIR Waveform Challenge Technology Pitches 
 * Part 3 – Request for SBIR Phase I or D2PhII Proposals 
 
 The registration information and uploaded submission materials must be received by 08:00 AM EST on 13 APRIL 2021. Submissions received after the deadline will not be considered. 
 
-Register now by selecting the xTech-SBIR Waveform Challenge tile at:
+Register now by selecting the xTechSBIR Waveform Challenge tile at:
 
 [https://www.xtechsearch.army.mil/ ](https://www.xtechsearch.army.mil/)
 
@@ -343,7 +343,7 @@ Participants shall be required to obtain liability insurance or demonstrate fina
 
 The Army is a strong proponent of deliberate intellectual property (IP) rights and management by the private sector and the Department of Defense.
 
-For the xTech-SBIR Waveform Challenge:
+For the xTechSBIR Waveform Challenge:
 
 * The Federal Government may not gain an interest in IP developed by a participant without the written consent of the participant;
 * Nothing in this competition shall diminish the Government’s rights in patents, technical data, technical information, computer software, computer databases, and computer software documentation that the Government had prior to this effort, or is entitled to, under any other Government Agreement or contract, or is otherwise entitled to under law; and
@@ -364,7 +364,7 @@ All concept white papers must adhere to the following requirements:
 * All concept white papers must be submitted using the template found on the registration page, “xTechSBIR_Waveform_WhitePaper_Template.doc” and adhere to the instructions provided on the template cover page. Any proposals submitted in a format other than that provided by the template will not be reviewed.
 * Please list your company name, and proposal title EXACTLY how you would like them to appear on any contest marketing materials, recommend clear and concise proposal titles to give readers and potential stakeholders understanding of how your technology would benefit the Army. 
 
-The concept white paper submissions will be evaluated and ranked using the following scoring criteria (further details on each scoring dimension can be found on the xTech-SBIR Waveform Challenge registration page):
+The concept white paper submissions will be evaluated and ranked using the following scoring criteria (further details on each scoring dimension can be found on the xTechSBIR Waveform Challenge registration page):
 
 * Technical Feasibility – 50%
 * Commercialization Potential – 30%
@@ -372,7 +372,7 @@ The concept white paper submissions will be evaluated and ranked using the follo
 
 Upon conclusion of the white paper evaluation period, the Government will select up to ten (10) participants to receive a prize award of $10,000 each and an invitation to Part 2: Technology Pitches, tentatively scheduled for 24-28 May 2021.
 
-**Part 2: Technology Pitches – Presentations during the xTech-SBIR Waveform Challenge Technology Event**
+**Part 2: Technology Pitches – Presentations during the xTechSBIR Waveform Challenge Technology Event**
 
 In Part 2, the selected winners from Part 1 will present their technology solution live to a panel of Army SMEs, which will include a question-and-answer session.
 
@@ -384,7 +384,7 @@ The technology pitches will be evaluated and ranked using the following scoring 
 * Commercialization Potential – 30%
 * Team Abilities – 20% 
 
-Upon conclusion of the technology pitches, the Government will select up to five (5) winners with the highest ranking proposals, and will make the additional determination for each selected winner if their proposal justifies a Direct to Phase II SBIR award or a Phase I SBIR award. Determination of Phase I or Direct to Phase II awards will not impact the overall evaluation score of each proposal. Each winner will receive a prize of $50,000 and will be invited to submit an Army SBIR Phase I or Direct to Phase II proposal to the xTech-SBIR Waveform solicitation, which will be announced separately.
+Upon conclusion of the technology pitches, the Government will select up to five (5) winners with the highest ranking proposals, and will make the additional determination for each selected winner if their proposal justifies a Direct to Phase II SBIR award or a Phase I SBIR award. Determination of Phase I or Direct to Phase II awards will not impact the overall evaluation score of each proposal. Each winner will receive a prize of $50,000 and will be invited to submit an Army SBIR Phase I or Direct to Phase II proposal to the xTechSBIR Waveform solicitation, which will be announced separately.
 
 **Part 3: Request for SBIR Phase I or D2PhII Proposals**
 
@@ -396,6 +396,6 @@ A separate SBIR announcement will be issued concurrent with this prize competiti
 
 The registration information and uploaded submission materials must be received by 08:00 AM EST on 13 APRIL 2021. Submissions received after the deadline will not be considered.
 
-Register now by selecting the xTech-SBIR Waveform Challenge tile at:
+Register now by selecting the xTechSBIR Waveform Challenge tile at:
 
 <https://www.xtechsearch.army.mil/>
