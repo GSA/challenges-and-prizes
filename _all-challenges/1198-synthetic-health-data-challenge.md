@@ -325,7 +325,18 @@ how-to-enter: >-
 ---
 **\*\* Welcome to the Synthetic Health Data Challenge Webpage! Watch this space for important updates. \*\***
 
-* **UPCOMING: Phase I Finalists will be announced on March 23, 2021. They will be moving on to Phase II -- Prototype/Solution Development to compete for $100,000 in total prizes and the opportunity to present their findings during the Winning Solutions Webinar in October 2021.**
+* **Phase I Proposals for Innovative Models now launch into Phase II – Prototype/Solution Development. Participants will be competing for $100,000 in total awards.** 
+* **ONC is pleased to announce the Phase I finalists and their Proposals for Innovative Models. Wish them luck!**
+
+  * **Battellion:** A Generic Quality Construct Module for Integrated Testing of eCQM using Synthea
+  * **CodeRx:** Medication Diversification Tool
+  * **Generalistas:** Virtual Generalist
+  * **LMI:** On Improving Realism of Disease Modules in Synthea: Social Determinant-Based Enhancements to Conditional Transition Logic
+  * **Menrva.AI:** Incorporating SDOH Data to Predict Diabetes Progression in Patients with Laboratory-Defined Prediabetes
+  * **Particle Health:** The Necessity of Realistic Synthetic Health Data Development Environments
+  * **Team TeMa #1:** Empirical Inference of Underlying Condition Probabilities Using Synthea-Generated Synthetic Health Data
+  * **Team TeMa #2:** Modification and Use of Synthea to Account for Patient Vaccination Choice
+  * **UI Health:** Spatiotemporal Big Data Analysis of Opioid Epidemic in Illinois
 
 ### Description
 
