@@ -20,5 +20,5 @@ fiscal-year: FY21
 legal-authority: Procurement Authority
 challenge-manager: James Green
 challenge-manager-email: James.green@nasa.gov
-point-of-contact: James.green@nasa.gov
+point-of-contact: hq-coeci-nois@mail.nasa.gov
 ---
