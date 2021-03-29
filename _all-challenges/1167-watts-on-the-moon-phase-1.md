@@ -4,7 +4,7 @@ challenge-title: Watts on the Moon - Phase 1
 layout: front-matter-data-markdownify-content
 permalink: /challenge/watts-on-the-moon-phase-1/
 challenge-id: "1167"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/webp.net-resizeimage-13-.png
 agency-logo: /assets/netlify-uploads/717px-NASA_logo.png
@@ -16,8 +16,8 @@ total-prize-offered-cash: $5,000,000
 type-of-challenge:
   - Ideas
   - Scientific
-submission-start: 2020/09/25 09:00 AM
-submission-end: 2021/03/25 5:00 PM
+submission-start: 09/25/2020 09:00 AM
+submission-end: 03/25/2021 5:00 PM
 fiscal-year: FY20, FY21, FY22, FY23
 legal-authority: Agency specific prize authority
 challenge-manager: Denise Morris
