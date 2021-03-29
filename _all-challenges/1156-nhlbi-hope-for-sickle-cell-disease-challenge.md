@@ -4,7 +4,7 @@ challenge-title: NHLBI Hope for Sickle Cell Disease Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/NHLBI-hope-for-sickle-cell-disease-challenge/
 challenge-id: "1156"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/nih_nhlbi_340x160.jpg
 agency-logo: /assets/netlify-uploads/NIH_Master_Logo_Vertical_2Color.jpg
@@ -15,8 +15,8 @@ type-of-challenge:
   - Software and apps
   - Creative (multimedia & design)
   - Ideas
-submission-start: 2020/09/01 7:00 AM
-submission-end: 2021/03/26 11:59 PM
+submission-start: 09/01/2020 7:00 AM
+submission-end: 03/26/2021 11:59 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Laura Hsu, PrPH
