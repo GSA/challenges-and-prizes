@@ -35,7 +35,7 @@ If you have general questions regarding Challenge.Gov, contact us at [team@chall
 
 If you’re a federal employee interested in prize competitions, visit the [Challenge and Prize Toolkit](https://www.challenge.gov/toolkit/) for considerations and best practices in designing and executing a successful competition.
 
-We also encourage you to join the [Challenge & Prize Community of Practice](https://digital.gov/communities/challenges-prizes/)(CoP). Joining the CoP will enable you to stay up-to-date on resources to help with your work, and make it easy for you to connect with other prize practitioners across the federal government.
+We also encourage you to join the [Challenge & Prize Community of Practice](https://digital.gov/communities/challenges-prizes/) (CoP). Joining the CoP will enable you to stay up-to-date on resources to help with your work, and make it easy for you to connect with other prize practitioners across the federal government.
 
 Instructions for listing your prize competition on Challenge.Gov can be found [here](https://www.challenge.gov/assets/document-library/ChallengeGov_Posting_Request_Form_Dec2020.docx).
 
