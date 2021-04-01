@@ -4,7 +4,7 @@ challenge-title: NSWC Crane AISUM Prize Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/nswc-crane-aisum-prize-challenge/
 challenge-id: "1194"
-status: closed
+status: open
 sidenav: true
 card-image: /assets/netlify-uploads/navalx-midwest-logo-resize.png
 agency-logo: /assets/netlify-uploads/sealnavy.png
@@ -18,17 +18,28 @@ type-of-challenge:
   - Ideas
   - Technology demonstration and hardware
   - Scientific
-submission-start: 12/10/2020 2:00 PM
-submission-end: 01/29/2021 2:00 PM
+submission-start: 2020/12/10 2:00 PM
+submission-end: 2021/01/29 2:00 PM
 fiscal-year: FY21
 legal-authority: Other
-challenge-manager: Marissa Wagler / Derek Perry (Mar 11 - 31, 2021)
-challenge-manager-email: marissa.wagler@navy.mil; derrek.s.perry@navy.mil
+challenge-manager: Derek Perry
+challenge-manager-email: derrek.s.perry@navy.mil
 point-of-contact: derek.s.perry@navy.mil
 description: >-
-  Ten (10) participants were selected to participate in Phase II – Virtual
-  Vignettes for the Artificial Intelligence for Small Unit Maneuver (AISUM)
-  Prize Challenge. Participant names are listed below in alphabetical order:
+  Two (2) participants have decided to withdraw from Phase II of the Artificial
+  Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant
+  names are listed below in alphabetical order:
+
+
+  1. Exyn Technologies
+
+  2. Shield AI, Inc.
+
+
+  The government is continuing into Phase II with the remaining eight (8) selected participants from Phase I.
+
+
+  Ten (10) participants were selected to participate in Phase II – Virtual Vignettes for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. Participant names are listed below in alphabetical order:
 
 
   1. ASEC, Inc.
@@ -424,6 +435,13 @@ how-to-enter: >-
   The Statement of Acknowledgement was uploaded to special notice N0016421SNB14 via Amendment 0003 on [https://beta.sam.gov](https://beta.sam.gov/). A direct link to this posting can be found [here](https://beta.sam.gov/opp/eee3ff94590e4bdf963823bff8752f91/view).
 ---
 ### Description
+
+Two (2) participants have decided to withdraw from Phase II of the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant names are listed below in alphabetical order:
+
+1. Exyn Technologies
+2. Shield AI, Inc.
+
+The government is continuing into Phase II with the remaining eight (8) selected participants from Phase I.
 
 Ten (10) participants were selected to participate in Phase II – Virtual Vignettes for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. Participant names are listed below in alphabetical order:
 
