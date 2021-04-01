@@ -11,7 +11,7 @@ Challenge.Gov, managed by the General Services Administration, is a leading prog
 
 Through this Challenge.Gov website, federal agencies can engage public solvers in challenges and prize competitions (together referred to as “prize competitions”) to identify innovative solutions to critical issues.
 
-This site also provides a [comprehensive toolkit](<(https://www.challenge.gov/toolkit/){target="_blank"}>) for federal employees interested in or currently running prize competitions. Developed with insights from experts across government, this toolkit contains a robust repository of resources, best practices, and case studies. 
+This site also provides a [comprehensive toolkit](https://www.challenge.gov/toolkit/) for federal employees interested in or currently running prize competitions. Developed with insights from experts across government, this toolkit contains a robust repository of resources, best practices, and case studies. 
 
 **About Prize Competitions**
 
