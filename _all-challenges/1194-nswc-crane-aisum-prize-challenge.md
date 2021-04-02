@@ -23,7 +23,7 @@ submission-end: 01/29/2021 2:00 PM
 fiscal-year: FY21
 legal-authority: Other
 challenge-manager: Derek Perry
-challenge-manager-email: derrek.s.perry@navy.mil
+challenge-manager-email: derek.s.perry@navy.mil
 point-of-contact: derek.s.perry@navy.mil
 description: >-
   Two (2) participants have decided to withdraw from Phase II of the Artificial
