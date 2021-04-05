@@ -4,7 +4,7 @@ challenge-title: ENACT Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/ENACT/
 challenge-id: "1204"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/faa-hp-architecture-challenge_enact-final-logo_full-color.png
 agency-logo: /assets/netlify-uploads/FAA_seal.png
@@ -16,8 +16,8 @@ total-prize-offered-cash: $35,000
 type-of-challenge:
   - Technology demonstration and hardware
   - Ideas
-submission-start: 2021/02/03 12:00 PM
-submission-end: 2021/04/02 11:59 PM
+submission-start: 02/03/2021 12:00 PM
+submission-end: 04/02/2021 11:59 PM
 fiscal-year: FY21
 legal-authority: Procurement Authority
 challenge-manager: Matthew Sanders
