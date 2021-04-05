@@ -68,7 +68,7 @@ description: >-
   **Challenge Structure and Timeline:** The challenge will run for a minimum of 6 months and will be divided into two phases, followed by a possible third phase. All respondents are eligible for Phase 1. Participation in Phase 2 is not dependent upon participation in Phase 1; however, winners from Phase 1 will be eligible to receive additional points for consideration in the final judging process for Phase 2.
 
 
-  **Phase 1: Design** – Respondents will be asked to submit their concepts for a redesigned mask according to the stipulations in this announcement. Up to 40 regional winners (within up to 4 regions) will be selected to move on to the DRIVe Accelerator Network Product Pitch Competition, where they will present their design to a panel of federal and non-federal experts. Of those finalists, up to 10 will be selected to receive the final prize of up to $10,000 each to create a prototype of their concept. Prototypes and physical products will not be tested in Phase 1, but may be eligible for consideration in future phases.
+  **Phase 1: Design** – Respondents will be asked to submit their concepts for a redesigned mask according to the stipulations in this announcement. Up to 40 regional winners (within up to 4 regions) will be selected to move on to the DRIVe Accelerator Network Product Pitch Competition, where they will present their design to a panel of federal and non-federal experts.  Of those finalists, up to 10 will be selected to receive the final prize of up to $10,000 each to create a prototype of their concept. Prototypes and physical products will not be tested in Phase 1, but may be eligible for consideration in future phases.
 
 
   * **Innovation Tracks:**
@@ -101,7 +101,7 @@ description: >-
   **Exclusion Criteria:** The following concepts will NOT be accepted for consideration for either design track:
 
 
-  * Prophylactic chemical treatment such as creams, sprays, coatings, drugs, etc. to provide biocidal enhancement. These devices will be excluded because of their potential for skin, eye, and inhalation irritation of the wearer.
+  * Prophylactic chemical treatments that are applied directly to the skin, nose, or throat, such as creams, sprays, coatings, drugs, etc. to provide biocidal enhancement will be excluded due to their potential for skin, eye, and inhalation irritation of the user. Mask designs that incorporate antibacterial or antiviral finishes as a permanent component of their designs may be considered, but should include a description of their safety and toxicology profiles. 
 
   * Contact tracing apps and other behavioral change protocols or technology. 
 
@@ -111,7 +111,7 @@ description: >-
 
   * Products already carrying international respirator certifications (e.g., KN95, P2, P3, etc.) or modifications to these products.
 
-  * A self-contained breathing apparatus or a supplied-air design that would connect to a stationary air source.
+  * A self-contained breathing apparatus or a supplied-air design that would connect to a stationary air source. Self-contained breathing apparatus (SCBA) means that the unit carries its own source of breathing air or oxygen, such as from a tank or generated chemically. A supplied-air respirator connects the wearer’s mask to a stationary tank of breathing air via a hose.
 prizes: >-
   **Total Cash Prize Pool**
 
@@ -137,7 +137,8 @@ prizes: >-
   Participants may be eligible for mentorship opportunities from interested parties. Additional information will be provided through an update to this announcement.
 rules: >-
   Submissions should follow the instructions below and should be submitted to
-  <https://app.reviewr.com/BARDA/site/BARDAChallenge>.
+  <https://app.reviewr.com/BARDA/site/BARDAChallenge>. Participants are limited
+  to one submission per person and additional submissions may not be reviewed.
 
 
   Eligibility Rules for Participating in the Competition: To be eligible to win a prize under this Challenge, an individual or entity—
@@ -203,13 +204,13 @@ judging: >-
   Proposals will be graded on the following metrics, in no particular order of importance, by a panel of federal judges, which may also include initial rounds of review by a panel of subject matter experts:
 
 
-  * **Technological Feasibility**. Submission demonstrates a reasonable rationale for the design of the mask, proposes an intuitive design that can be used without fitting or prior training, and contains components that are easily accessible for production.
+  * **Technological Feasibility (35 points)**. Submission demonstrates a reasonable rationale for the design of the mask, proposes an intuitive design that can be used without fitting or prior training, and contains components that are easily accessible for production.
 
-  * **Innovation.** Submission advances the state of the art in filtration efficacy, comfort, and utility of masks used by the general public. Additional considerations include the scientific evidence and rationale behind the proposed filtration or particle reduction/removal mechanism, clear demonstration of comfort, and the ability to tailor the fit of the mask to different face shapes (i.e., women, children, those with facial hair or glasses, etc.).
+  * **Innovation (25 points).** Submission advances the state of the art in filtration efficacy, comfort, and utility of masks used by the general public. Additional considerations include the scientific evidence and rationale behind the proposed filtration or particle reduction/removal mechanism, clear demonstration of comfort, and the ability to tailor the fit of the mask to different face shapes (i.e., women, children, those with facial hair or glasses, etc.).
 
-  * **Barriers.** Submission addresses barriers and limitations of currently available masks; proposed innovations are based on scientific and technical merit.
+  * **Barriers (25 points).** Submission addresses barriers and limitations of currently available masks; proposed innovations are based on scientific and technical merit.
 
-  * **Overall.** Submission is realistic, well-rounded, and presents a compelling solution that should be considered further.
+  * **Overall (15 points).** Submission is realistic, well-rounded, and presents a compelling solution that should be considered further.
 how-to-enter: >-
   Entries for Phase 1 must be submitted via
   <https://app.reviewr.com/BARDA/site/BARDAChallenge>  by April 21, 2021, no
@@ -221,9 +222,9 @@ how-to-enter: >-
   Submissions are required to use the provided template and be no more than 7 pages maximum, including a cover page, proposed design description, and schematics/figures. A complete submission packet shall include the following components:
 
 
-  * Cover Page (1 page)
+  * Cover Page 
 
-  * Proposed Design (up to 3 pages)
+  * Proposed Design
 
   * Schematic (up to 3 pages)
 
@@ -251,31 +252,31 @@ how-to-enter: >-
 
   * Proposed Solution Title
 
-  * Proposed Solution Goal
+  * Proposed Solution Goal (150 words)
 
     * Briefly describe your solution by focusing on the barriers, problems, and intended goals.
-  * Proposed Innovation Track
+  * Proposed Innovation Track (100 words)
 
     * Please describe why your design fits in the designated innovation track.
-  * Proposed Filtration and/or Particle Reduction/Removal Mechanism
+  * Proposed Filtration and/or Particle Reduction/Removal Mechanism (300 words)
 
     * Briefly describe the evidence base that supports your proposed filtration or particle reduction/removal mechanism. Cite any additional papers that support your argument. 
-  * Proposed Innovation
+  * Proposed Innovation (200 words)
 
     * Briefly describe how your design advances the state of the art for current mask design.
-  * Proposed Fit and Comfort Considerations
+  * Proposed Fit and Comfort Considerations (200 words)
 
     * Briefly describe how your mask will address barriers associated with fit and comfort with extended use. In addition, please describe the primary population that this mask will fit (i.e., may include but not limited to men, women, children, individuals with glasses, facial hair, disabilities, sensory issues, etc.).
-  * Estimated Cost Per Unit
+  * Estimated Cost Per Unit (200 words) 
 
     * Describe the estimated cost per unit of mask or product for your design in U.S. dollars, including descriptions of the cost per part.
-  * Sustainability Considerations
+  * Sustainability Considerations (125 words)
 
     * Please describe if your design can be decontaminated, re-worn, washed, or is comprised of sustainable materials. Please also describe the expected number of wears that your design can undergo before disposal, if any. 
-  * Final Thoughts
+  * Final Thoughts (100 words)
 
     * Please describe any other comments or thoughts that were not captured in the earlier sections.
-  * Proposed Solution Design
+  * Proposed Solution Design (125 words)
 
     * Please describe your mask design, including any new innovative approaches or designs. Figures or pictures of your proposed design are required to completely describe your solution.
 ---
@@ -326,12 +327,12 @@ The Mask Innovation Challenge seeks to develop innovative and effective designs 
 
 **Exclusion Criteria:** The following concepts will NOT be accepted for consideration for either design track:
 
-* Prophylactic chemical treatment such as creams, sprays, coatings, drugs, etc. to provide biocidal enhancement. These devices will be excluded because of their potential for skin, eye, and inhalation irritation of the wearer.
+* Prophylactic chemical treatments that are applied directly to the skin, nose, or throat, such as creams, sprays, coatings, drugs, etc. to provide biocidal enhancement will be excluded due to their potential for skin, eye, and inhalation irritation of the user. Mask designs that incorporate antibacterial or antiviral finishes as a permanent component of their designs may be considered, but should include a description of their safety and toxicology profiles. 
 * Contact tracing apps and other behavioral change protocols or technology. 
 * NIOSH-approved respirators or designs modifying NIOSH-approved respirators.
 * FDA-cleared masks or modifications to FDA-cleared masks.
 * Products already carrying international respirator certifications (e.g., KN95, P2, P3, etc.) or modifications to these products.
-* A self-contained breathing apparatus or a supplied-air design that would connect to a stationary air source.
+* A self-contained breathing apparatus or a supplied-air design that would connect to a stationary air source. Self-contained breathing apparatus (SCBA) means that the unit carries its own source of breathing air or oxygen, such as from a tank or generated chemically. A supplied-air respirator connects the wearer’s mask to a stationary tank of breathing air via a hose.
 
 ### **Prizes**
 
@@ -353,7 +354,7 @@ Participants may be eligible for mentorship opportunities from interested partie
 
 ### **Rules**
 
-Submissions should follow the instructions below and should be submitted to <https://app.reviewr.com/BARDA/site/BARDAChallenge>.
+Submissions should follow the instructions below and should be submitted to <https://app.reviewr.com/BARDA/site/BARDAChallenge>. Participants are limited to one submission per person and additional submissions may not be reviewed.
 
 Eligibility Rules for Participating in the Competition: To be eligible to win a prize under this Challenge, an individual or entity—
 
@@ -396,10 +397,10 @@ The Award Approving Official will be the BARDA Director.
 
 Proposals will be graded on the following metrics, in no particular order of importance, by a panel of federal judges, which may also include initial rounds of review by a panel of subject matter experts:
 
-* **Technological Feasibility**. Submission demonstrates a reasonable rationale for the design of the mask, proposes an intuitive design that can be used without fitting or prior training, and contains components that are easily accessible for production.
-* **Innovation.** Submission advances the state of the art in filtration efficacy, comfort, and utility of masks used by the general public. Additional considerations include the scientific evidence and rationale behind the proposed filtration or particle reduction/removal mechanism, clear demonstration of comfort, and the ability to tailor the fit of the mask to different face shapes (i.e., women, children, those with facial hair or glasses, etc.).
-* **Barriers.** Submission addresses barriers and limitations of currently available masks; proposed innovations are based on scientific and technical merit.
-* **Overall.** Submission is realistic, well-rounded, and presents a compelling solution that should be considered further.
+* **Technological Feasibility (35 points)**. Submission demonstrates a reasonable rationale for the design of the mask, proposes an intuitive design that can be used without fitting or prior training, and contains components that are easily accessible for production.
+* **Innovation (25 points).** Submission advances the state of the art in filtration efficacy, comfort, and utility of masks used by the general public. Additional considerations include the scientific evidence and rationale behind the proposed filtration or particle reduction/removal mechanism, clear demonstration of comfort, and the ability to tailor the fit of the mask to different face shapes (i.e., women, children, those with facial hair or glasses, etc.).
+* **Barriers (25 points).** Submission addresses barriers and limitations of currently available masks; proposed innovations are based on scientific and technical merit.
+* **Overall (15 points).** Submission is realistic, well-rounded, and presents a compelling solution that should be considered further.
 
 ### **How to Enter**
 
@@ -407,8 +408,8 @@ Entries for Phase 1 must be submitted via <https://app.reviewr.com/BARDA/site/BA
 
 Submissions are required to use the provided template and be no more than 7 pages maximum, including a cover page, proposed design description, and schematics/figures. A complete submission packet shall include the following components:
 
-* Cover Page (1 page)
-* Proposed Design (up to 3 pages)
+* Cover Page 
+* Proposed Design
 * Schematic (up to 3 pages)
 
 **Cover Page** – Submit a cover page for the Mask Innovation Challenge that includes the following information:
@@ -424,30 +425,30 @@ Submissions are required to use the provided template and be no more than 7 page
 **Proposed Solution** – The proposed solution should be single-spaced with 12-point font not to exceed 3 pages plus up to an additional 3 pages for a schematic of the design, including figures, graphs, and embedded videos or links to videos. Any additional pages that exceed these maximums may not be reviewed. Pages for the proposed solution should be consecutively numbered with 1-inch margins. The following information should be included:
 
 * Proposed Solution Title
-* Proposed Solution Goal
+* Proposed Solution Goal (150 words)
 
   * Briefly describe your solution by focusing on the barriers, problems, and intended goals.
-* Proposed Innovation Track
+* Proposed Innovation Track (100 words)
 
   * Please describe why your design fits in the designated innovation track.
-* Proposed Filtration and/or Particle Reduction/Removal Mechanism
+* Proposed Filtration and/or Particle Reduction/Removal Mechanism (300 words)
 
   * Briefly describe the evidence base that supports your proposed filtration or particle reduction/removal mechanism. Cite any additional papers that support your argument. 
-* Proposed Innovation
+* Proposed Innovation (200 words)
 
   * Briefly describe how your design advances the state of the art for current mask design.
-* Proposed Fit and Comfort Considerations
+* Proposed Fit and Comfort Considerations (200 words)
 
   * Briefly describe how your mask will address barriers associated with fit and comfort with extended use. In addition, please describe the primary population that this mask will fit (i.e., may include but not limited to men, women, children, individuals with glasses, facial hair, disabilities, sensory issues, etc.).
-* Estimated Cost Per Unit
+* Estimated Cost Per Unit (200 words) 
 
   * Describe the estimated cost per unit of mask or product for your design in U.S. dollars, including descriptions of the cost per part.
-* Sustainability Considerations
+* Sustainability Considerations (125 words)
 
   * Please describe if your design can be decontaminated, re-worn, washed, or is comprised of sustainable materials. Please also describe the expected number of wears that your design can undergo before disposal, if any. 
-* Final Thoughts
+* Final Thoughts (100 words)
 
   * Please describe any other comments or thoughts that were not captured in the earlier sections.
-* Proposed Solution Design
+* Proposed Solution Design (125 words)
 
   * Please describe your mask design, including any new innovative approaches or designs. Figures or pictures of your proposed design are required to completely describe your solution.
