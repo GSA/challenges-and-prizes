@@ -1,5 +1,5 @@
 ---
-title: I Strengthen My Nation
+title: "I Strengthen My Nation: Artistic Expressions"
 challenge-title: "I Strengthen My Nation: Artistic Expressions of Resilience to
   Stand Against Substance Misuse"
 layout: front-matter-data-markdownify-content
