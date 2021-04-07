@@ -7,7 +7,7 @@ permalink: /challenge/i-strengthen-my-nation/
 challenge-id: "1222"
 status: open
 sidenav: false
-card-image: /assets/netlify-uploads/nih_strengthen-my-nation_chall.jpg
+card-image: /assets/netlify-uploads/nih_tile-image_341x160.png
 agency-logo: /assets/netlify-uploads/NIH_Master_Logo_Vertical_2Color.jpg
 tagline: "NIDA challenges creative youth to make art that inspires others by
   demonstrating indigenous resilience to substance misuse. "
