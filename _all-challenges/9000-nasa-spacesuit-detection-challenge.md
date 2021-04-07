@@ -16,7 +16,7 @@ total-prize-offered-cash: $33,000
 type-of-challenge:
   - Analytics, visualizations, algorithms
 submission-start: 2021/03/31 8:00 AM
-submission-end: 2021/04/28 8:00 AM
+submission-end: 2021/04/30 8:59 AM
 fiscal-year: FY21
 legal-authority: Procurement Authority
 challenge-manager: Linh Vu
