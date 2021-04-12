@@ -4,7 +4,7 @@ challenge-title: Beat the Blaze
 layout: front-matter-data-markdownify-content
 permalink: /challenge/beat-the-blaze/
 challenge-id: "1214"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/challenge.gov.png
 agency-logo: /assets/netlify-uploads/challenge-gov.png
@@ -23,8 +23,8 @@ type-of-challenge:
   - Business plans
   - Analytics, visualizations, algorithms
   - Scientific
-submission-start: 2021/03/29 12:00 AM
-submission-end: 2021/04/09 8:00 PM
+submission-start: 03/29/2021 12:00 AM
+submission-end: 04/09/2021 8:00 PM
 fiscal-year: FY21
 legal-authority: Procurement Authority
 challenge-manager: Kedar Pavgi
