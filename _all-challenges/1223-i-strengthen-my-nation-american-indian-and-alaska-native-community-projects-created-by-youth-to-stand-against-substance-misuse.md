@@ -7,7 +7,7 @@ permalink: /challenge/i-strengthen-my-nation-community-projects/
 challenge-id: "1223"
 status: open
 sidenav: false
-card-image: /assets/netlify-uploads/nih_tile-image_341x160.png
+card-image: /assets/netlify-uploads/community-projects-created-by-youth_crop_resize.jpg
 agency-logo: /assets/netlify-uploads/NIH_Master_Logo_Vertical_2Color.jpg
 tagline: "NIDA challenges creative youth to develop ideas for community projects
   that could decrease substance use and promote resilience. "
