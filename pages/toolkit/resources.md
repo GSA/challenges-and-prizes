@@ -36,7 +36,7 @@ title: Toolkit - Resources
 #### National Aeronautics and Space Administration (NASA)
 
 * [Policy Directive on Challenges, Prize Competitions, and Crowdsourcing Activities](http://nodis3.gsfc.nasa.gov/displayDir.cfm?t=NPD&c=1090&s=1)
-* [Open Innovation at NASA, November 2020] ({{site.baseurl}}/assets/document-library/2020 Open Innovation at NASA.pdf)
+* [Open Innovation at NASA, November 2020] ({{site.baseurl}}/assets/document-library/2020%20Open%20Innovation%20at%20NASA.pdf)
 * [Challenge Formulation Worksheet](https://www.nasa.gov/sites/default/files/atoms/files/challengeproject_formulation_worksheet.pdf)
 * [Center of Excellence for Collaborative Innovation (CoECI)](https://www.nasa.gov/offices/COECI/index.html)
 * [CoECI / NASA Tournament Lab](https://www.nasa.gov/coeci/ntl)
