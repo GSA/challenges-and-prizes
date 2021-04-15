@@ -4,7 +4,7 @@ challenge-title: xTechSBIR Waveform Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/xtechsbir-waveform-challenge/
 challenge-id: "1218"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/xtechwaveform_challenge.gov-logo.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
@@ -19,8 +19,8 @@ type-of-challenge:
   - Business plans
   - Analytics, visualizations, algorithms
   - Scientific
-submission-start: "2021/03/15 "
-submission-end: 2021/04/13 8:00 AM
+submission-start: "03/15/2021 "
+submission-end: 04/13/2021 8:00 AM
 fiscal-year: FY21
 legal-authority: Agency specific prize authority
 challenge-manager: "Zeke Topolosky; Secondary: Nickie Forrester"
