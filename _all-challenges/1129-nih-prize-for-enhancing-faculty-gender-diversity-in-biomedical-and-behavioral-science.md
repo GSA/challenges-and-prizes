@@ -4,7 +4,7 @@ challenge-title: NIH Prize for Enhancing Faculty Gender Diversity
 layout: front-matter-data-markdownify-content
 permalink: /challenge/nih-prize-for-enhancing-faculty-gender-diversity/
 challenge-id: "1129"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/webp.net-resizeimage-10-.png
 agency-logo: /assets/netlify-uploads/NIH_Master_Logo_Vertical_2Color.jpg
@@ -14,8 +14,8 @@ agency: Department of Health and Human Services - National Institutes of Health
 total-prize-offered-cash: $500,000
 type-of-challenge:
   - Ideas
-submission-start: 2020/09/10 09:00AM
-submission-end: 2021/04/16 5:00 PM
+submission-start: 09/10/2020 09:00AM
+submission-end: 04/16/2021 5:00 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Taylor Gilliland
