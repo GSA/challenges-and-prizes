@@ -1,8 +1,8 @@
 ---
-title: Harmful Algal Bloom Video Challenge
+title: "Harmful Algal Bloom Video Challenge "
 challenge-title: Harmful Algal Bloom Video Challenge
 layout: front-matter-data-markdownify-content
-permalink: /challenge/harmful-algal-bloom-video-challenge-urba-waters-edition/
+permalink: /challenge/harmful-algal-bloom-video-challenge-urban-waters-edition/
 challenge-id: "1225"
 status: open
 sidenav: false
