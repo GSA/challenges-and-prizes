@@ -1,5 +1,6 @@
 ---
-title: Harmful Algal Bloom Video Challenge Urban Waters Edition
+title: See a Bloom, Give it Room Urban Waters Edition – Harmful Algal Bloom
+  Video Challenge
 challenge-title: See a Bloom, Give it Room Urban Waters Edition – Harmful Algal
   Bloom Video Challenge
 layout: front-matter-data-markdownify-content
