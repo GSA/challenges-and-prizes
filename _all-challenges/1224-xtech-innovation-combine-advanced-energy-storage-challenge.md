@@ -247,7 +247,7 @@ Problem Statement: The Army is seeking printable and conformal batteries that ca
 
 **Key Dates**
 
-![Key Dates]({{ site.baseurl }}//assets/netlify-uploads/xtech-innovation-combine_key-dates.png)
+![Key Dates]({{site.baseurl}}/assets/netlify-uploads/xtech-innovation-combine_key-dates.png)
 
 ### Prizes
 
@@ -256,7 +256,7 @@ Total OTA Award Pool: $1M
 
 **Prize Breakdown**
 
-![Prize Breakdown]({{ site.baseurl }}//assets/netlify-uploads/xtech-innovation-combine_prizes.png)
+![Prize Breakdown]({{site.baseurl}}/assets/netlify-uploads/xtech-innovation-combine_prizes.png)
 
 **Non-monetary Prizes**
 
