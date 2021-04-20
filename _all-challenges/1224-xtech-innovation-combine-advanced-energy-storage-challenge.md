@@ -66,8 +66,6 @@ Total OTA Award Pool: $1M
 
 **Prize Breakdown**
 
-
-
 **Non-monetary Prizes**
 
 Up to six (6) participants with a selected concept white paper will be invited to participate in the xTech Innovation Combine Accelerator. The xTech Innovation Combine Accelerator is a virtual technology accelerator program that will offer personal mentoring from the xTech Accelerator program, a U.S. technology accelerator, to learn how to leverage the DoD defense market for future partnership opportunities. All participants will receive intensive mentorship and access to networking events to help grow their entities for DoD and commercial users. 
@@ -131,7 +129,7 @@ The concept white paper and accompanying single-slide summary chart will be eval
 
 All concept white papers shall adhere to the following requirements:
 
-* All concept white papers shall be submitted using the template found on the registration page, *“InnovationCombine_Advanced Energy Storage_WhitePaper_Template.doc”*. ** Any proposals submitted in a format other than that provided by the template will not be reviewed.** 
+* All concept white papers shall be submitted using the template found on the registration page, *“InnovationCombine_Advanced Energy Storage_WhitePaper_Template.doc”*.  **Any proposals submitted in a format other than that provided by the template will not be reviewed.** 
 * All single-slide summary charts shall be submitted using the template found on the registration page, *“InnovationCombine_Advanced Energy Storage_SummaryChart_Template.ppt”*.  **Any single-slide summary charts submitted in a format other than that provided by the template will not be reviewed.** 
 * Please list your company name, and proposal title **EXACTLY** how you would like them to appear on any contest marketing materials. Use clear and concise proposal titles to give readers and potential stakeholders an understanding of how your technology would benefit the Army.
 
@@ -148,5 +146,10 @@ Up to six (6) concept white papers with the highest scoring evaluations will rec
 ### **How to Enter**
 
 All eligible entities are invited to submit a Part 1: Concept White Paper by 05:00 PM PST on 14 May 2021 addressing one (1) or both of the two (2) advanced energy storage problem statements detailed above (Section IV). Eligible entities may submit one (1) or more submissions per problem statement. The registration information and uploaded submission materials must be received by 05:00 PM PST on 14 May 2021. Submissions received after the deadline will not be considered.
-•	Up to six (6) participants with a selected concept white paper will receive a $5,000 prize, be invited to participate in Part 2: Technology Pitches, and invited to participate in the xTech Innovation Combine Accelerator-Part 1. 
-•	All eligible entities who submitted a concept white paper will be invited to virtually attend a 2-day Optional Workshop on how to transition technology to the Army, tentatively scheduled in late May 2021 or early June 2021.
+
+* Up to six (6) participants with a selected concept white paper will receive a $5,000 prize, be invited to participate in Part 2: Technology Pitches, and invited to participate in the xTech Innovation Combine Accelerator-Part 1. 
+* All eligible entities who submitted a concept white paper will be invited to virtually attend a 2-day Optional Workshop on how to transition technology to the Army, tentatively scheduled in late May 2021 or early June 2021.
+
+To submit your entry go to: 
+
+[https://www.arl.army.mil/xtechsearch/competitions/xtechInnovationCombine](https://www.arl.army.mil/xtechsearch/competitions/xtechInnovationCombine.html)
