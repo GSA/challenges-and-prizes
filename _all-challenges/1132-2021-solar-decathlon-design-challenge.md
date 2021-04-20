@@ -4,7 +4,7 @@ challenge-title: 2021 Solar Decathlon Design Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/2021-solar-decathlon-design-challenge/
 challenge-id: "1132"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/solar-decatlon-2021-final.jpg
 agency-logo: /assets/netlify-uploads/256px-Seal_of_the_United_States_Department_of_Energy.png
@@ -15,11 +15,11 @@ tagline: Want to design buildings that help address the most pressing needs of
 agency: Department of Energy - Energy Programs
 partner-agencies-federal: National Renewable Energy Laboratory
 partners-non-federal: ""
-external-url: 
+external-url: null
 type-of-challenge:
   - Creative (multimedia & design)
-submission-start: 2020/06/15 12:00 AM
-submission-end: 2021/04/15 5:00 PM
+submission-start: 06/15/2020 12:00 AM
+submission-end: 04/15/2021 5:00 PM
 fiscal-year: FY20, FY21
 legal-authority: Agency specific prize authority
 challenge-manager: Rachel Romero
