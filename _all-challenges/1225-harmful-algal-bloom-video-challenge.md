@@ -1,6 +1,7 @@
 ---
-title: "Harmful Algal Bloom Video Challenge "
-challenge-title: Harmful Algal Bloom Video Challenge
+title: Harmful Algal Bloom Video Challenge Urban Waters Edition
+challenge-title: See a Bloom, Give it Room Urban Waters Edition – Harmful Algal
+  Bloom Video Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/harmful-algal-bloom-video-challenge-urban-waters-edition/
 challenge-id: "1225"
