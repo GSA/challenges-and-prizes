@@ -4,7 +4,7 @@ challenge-title: Enhancing Computer Vision for Public Safety Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/enhancing-computer-vision-for-public-safety-challenge/
 challenge-id: "1155"
-status: closed
+status: open
 sidenav: true
 card-image: /assets/netlify-uploads/challenge-logo-v2_computervision.340x161.png
 agency-logo: /assets/netlify-uploads/NIST_logo.png
@@ -16,8 +16,8 @@ total-prize-offered-cash: Up to $240,000
 type-of-challenge:
   - Analytics, visualizations, algorithms
   - Scientific
-submission-start: 09/08/2020 11:00 AM
-submission-end: 10/20/2020 7:00 PM
+submission-start: 2020/09/08 11:00 AM
+submission-end: 2020/10/20 7:00 PM
 fiscal-year: FY20,FY21
 legal-authority: America COMPETES Act
 challenge-manager: Jeremy Glenn
@@ -25,6 +25,13 @@ challenge-manager-email: Jeremy.glenn@nist.gov
 point-of-contact: psprizes@nist.gov
 body-content-uploads: /assets/netlify-uploads/official-rules_computer-vision-challenge_08252020.pdf
 description: >-
+  **CONGRATUATIONS TO PHASE 1 WINNERS:** Team LIVE, Team IUPUI, Team iAI-NJIT,
+  CalAster, Trueface, and Burak Ozer. These teams are competing in the final
+  phase in May 2021; check the [challenge
+  website](https://pscompvischallenge.com/) for the latest information. For
+  questions related to this challenge, email us at
+  [psprizes@nist.gov](psprizes@nist.gov).
+
   #### Overview
 
 
@@ -246,6 +253,8 @@ how-to-enter: >-
   **Submission Email:** [psprizes@nist.gov](mailto:psprizes@nist.gov)
 ---
 ### Description
+
+**CONGRATUATIONS TO PHASE 1 WINNERS:** Team LIVE, Team IUPUI, Team iAI-NJIT, CalAster, Trueface, and Burak Ozer. These teams are competing in the final phase in May 2021; check the [challenge website](https://pscompvischallenge.com/) for the latest information. For questions related to this challenge, email us at [psprizes@nist.gov](psprizes@nist.gov).
 
 #### Overview
 
