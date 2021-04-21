@@ -4,7 +4,7 @@ challenge-title: Community College Innovation Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/community-college-innovation-challenge-2021/
 challenge-id: "1208"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/247742_ccic_21_challenge_1320x720.jpg
 agency-logo: /assets/netlify-uploads/nsf.png
@@ -16,8 +16,8 @@ partners-non-federal: American Association of Community Colleges
 type-of-challenge:
   - Ideas
   - Scientific
-submission-start: 2021/02/18 9:00 AM
-submission-end: 2021/04/20 11:59 PM
+submission-start: 02/18/2021 9:00 AM
+submission-end: 04/20/2021 11:59 PM
 fiscal-year: FY21
 legal-authority: Grants and cooperative agreements
 challenge-manager: Celeste Carter; Ellen Hause
