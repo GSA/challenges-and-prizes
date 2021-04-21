@@ -8,10 +8,11 @@ status: open
 sidenav: true
 card-image: /assets/netlify-uploads/xtechinnovcom-challenge.gov-logo.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
-tagline: "The xTech Innovation Combine Advanced Energy Storage aims to
-  accelerate integration of technology prototypes crucial for Army capability
-  gaps into military platforms. "
+tagline: "The xTech Innovation Combine aims to accelerate integration of
+  technology prototypes crucial for Army capability gaps into military
+  platforms. "
 agency: Department of Defense - U.S. Army
+partner-agencies-federal: Army Futures Command (AFC)
 total-prize-offered-cash: $120,000
 type-of-challenge:
   - Software and apps
@@ -21,7 +22,7 @@ type-of-challenge:
   - Business plans
   - Analytics, visualizations, algorithms
   - Scientific
-submission-start: 2021/04/19 12:01 AM
+submission-start: 2021/04/21 12:01 AM
 submission-end: 2021/05/14 8:00 PM
 fiscal-year: FY21
 legal-authority: Agency specific prize authority
@@ -40,7 +41,7 @@ description: >-
   The U.S. Army Futures Command (AFC) has partnered with the Assistant Secretary of the Army (Acquisition, Logistics, and Technology) (ASA(ALT)) to deliver this competition. The Army recognizes that it must enhance engagements with eligible U.S.-based companies and organizations by (1) understanding the spectrum of ‘world-class’ technologies being developed commercially that may benefit the Department of Defense (DoD), (2) integrating the sector of commercial innovators into the DoD Science and Technology (S&T) ecosystem, and (3) providing mentorship and expertise to accelerate, mature, and transition technologies of interest to the DoD.
 
 
-  The Innovation Combine is an opportunity for eligible entities (i.e., companies and organizations) to pitch novel advanced energy storage technology solutions directly to the U.S. Army. In addition to non-dilutive cash prizes, entities will have the opportunity to engage with U.S. Army and other partners through information sharing and networking opportunities. The Innovation Combine will provide operational and technical feedback from Army subject matter experts on proposed ideas submitted to this competition and offer the finalists cash prizes and opportunities to participate in the xTech Accelerator to receive education, mentorship, and networking opportunities to help grow their businesses for military and commercial users.
+  The Innovation Combine is an opportunity for eligible entities (i.e., companies and organizations) to pitch novel advanced energy storage technology solutions directly to the U.S. Army. In addition to non-dilutive cash prizes, entities will have the opportunity to engage with U.S. Army and other partners through information sharing and networking opportunities. The Innovation Combine will provide operational and technical feedback from United States Government (USG) subject matter experts on proposed ideas submitted to this competition and offer the finalists cash prizes and opportunities to participate in the xTech Accelerator to receive education, mentorship, and networking opportunities to help grow their businesses for military and commercial users.
 
 
   **Purpose**
@@ -73,7 +74,7 @@ description: >-
   **Key Dates**
 
 
-  ![Key Dates]({{site.baseurl}}//assetts/netlify-uploads/xtech-innovation-combine_key-dates.png)
+  ![Key Dates](/assets/netlify-uploads/xtech-innovation-combine_key-dates.png)
 prizes: >-
   Total Prize Pool: $120K
 
@@ -169,6 +170,15 @@ rules: >-
 
   The USG will not reimburse participants for any costs associated with preparing or submitting responses to any portion of Innovation Combine (Part 1, Part 2, or Part 3). Participation in the Innovation Combine is voluntary. This announcement/competition and/or the information presented herein will not obligate the USG in any manner. The posted information is provided for planning purposes only and does not constitute a Request for Proposal.
 judging: >-
+  **Judging Panel**
+
+
+  The concept white paper and accompanying single-slide summary chart will be evaluated by a team of United States Government (USG) subject matter experts (SMEs), including technical, acquisition, and user experts. 
+
+
+  **Judging Criteria**
+
+
   **Part 1: Request for Concept White Papers**
 
 
@@ -225,7 +235,7 @@ Innovation Combine Advanced Energy Storage Challenge (also referred to as the In
 
 The U.S. Army Futures Command (AFC) has partnered with the Assistant Secretary of the Army (Acquisition, Logistics, and Technology) (ASA(ALT)) to deliver this competition. The Army recognizes that it must enhance engagements with eligible U.S.-based companies and organizations by (1) understanding the spectrum of ‘world-class’ technologies being developed commercially that may benefit the Department of Defense (DoD), (2) integrating the sector of commercial innovators into the DoD Science and Technology (S&T) ecosystem, and (3) providing mentorship and expertise to accelerate, mature, and transition technologies of interest to the DoD.
 
-The Innovation Combine is an opportunity for eligible entities (i.e., companies and organizations) to pitch novel advanced energy storage technology solutions directly to the U.S. Army. In addition to non-dilutive cash prizes, entities will have the opportunity to engage with U.S. Army and other partners through information sharing and networking opportunities. The Innovation Combine will provide operational and technical feedback from Army subject matter experts on proposed ideas submitted to this competition and offer the finalists cash prizes and opportunities to participate in the xTech Accelerator to receive education, mentorship, and networking opportunities to help grow their businesses for military and commercial users.
+The Innovation Combine is an opportunity for eligible entities (i.e., companies and organizations) to pitch novel advanced energy storage technology solutions directly to the U.S. Army. In addition to non-dilutive cash prizes, entities will have the opportunity to engage with U.S. Army and other partners through information sharing and networking opportunities. The Innovation Combine will provide operational and technical feedback from United States Government (USG) subject matter experts on proposed ideas submitted to this competition and offer the finalists cash prizes and opportunities to participate in the xTech Accelerator to receive education, mentorship, and networking opportunities to help grow their businesses for military and commercial users.
 
 **Purpose**
 
@@ -314,7 +324,7 @@ The USG will not reimburse participants for any costs associated with preparing 
 
 **Judging Panel**
 
-The concept white paper and accompanying single-slide summary chart will be evaluated by a team of Army subject matter experts (SMEs), including technical, acquisition, and user experts. 
+The concept white paper and accompanying single-slide summary chart will be evaluated by a team of USG subject matter experts (SMEs), including technical, acquisition, and user experts. 
 
 **Judging Criteria**
 
