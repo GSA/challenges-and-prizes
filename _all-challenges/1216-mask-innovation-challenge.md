@@ -4,7 +4,7 @@ challenge-title: Mask Innovation Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/mask-innovation-challenge/
 challenge-id: "1216"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/barda_niosh.png
 agency-logo: /assets/netlify-uploads/hhs.png
@@ -18,8 +18,8 @@ type-of-challenge:
   - Creative (multimedia & design)
   - Technology demonstration and hardware
   - Scientific
-submission-start: 2021/03/31 12:00 PM
-submission-end: 2021/04/21 5:00 PM
+submission-start: 03/31/2021 12:00 PM
+submission-end: 04/21/2021 5:00 PM
 fiscal-year: FY21
 legal-authority: America COMPETES Act
 challenge-manager: Kumiko Lippold
@@ -137,7 +137,8 @@ prizes: >-
   Participants may be eligible for mentorship opportunities from interested parties. Additional information will be provided through an update to this announcement.
 rules: >-
   Submissions should follow the instructions below and should be submitted to
-  <https://app.reviewr.com/BARDA/site/BARDAChallenge>. Participants are limited to one submission per person and additional submissions may not be reviewed.
+  <https://app.reviewr.com/BARDA/site/BARDAChallenge>. Participants are limited
+  to one submission per person and additional submissions may not be reviewed.
 
 
   Eligibility Rules for Participating in the Competition: To be eligible to win a prize under this Challenge, an individual or entity—
