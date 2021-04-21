@@ -22,7 +22,7 @@ type-of-challenge:
   - Creative (multimedia & design)
   - Scientific
 submission-start: 2021/04/22 01:00 PM
-submission-end: 2021/08/02 01:00 AM
+submission-end: 2021/08/01 11:59 PM
 fiscal-year: FY21
 legal-authority: Other
 challenge-manager: Steve Schaff
