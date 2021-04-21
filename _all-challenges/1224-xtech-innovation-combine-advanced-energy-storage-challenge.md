@@ -355,4 +355,4 @@ All eligible entities are invited to submit a Part 1: Concept White Paper by 05:
 
 To submit your entry go to: 
 
-[https://www.arl.army.mil/xtechsearch/competitions/xtechInnovationCombine](https://www.arl.army.mil/xtechsearch/competitions/xtechInnovationCombine.html)
+<https://www.arl.army.mil/xtechsearch/>
