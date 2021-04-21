@@ -6,8 +6,8 @@ permalink: /challenge/mapping-patient-journeys-in-drug-addiction-treatment/
 challenge-id: "1226"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/hhs-logo-resize-for-tile.png
-agency-logo: /assets/netlify-uploads/hhs.png
+card-image: /assets/netlify-uploads/nih_tile-image_341x160.png
+agency-logo: /assets/netlify-uploads/NIH_Master_Logo_Vertical_2Color.jpg
 tagline: Mapping the obstacles patients face in getting treatment for drug addiction
 agency: Department of Health and Human Services, National Institutes of Health,
   National Institute on Drug Abuse
