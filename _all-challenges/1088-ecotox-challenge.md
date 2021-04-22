@@ -202,7 +202,7 @@ submission-link: http://www.epa.gov/innovation/EcoTox-Target-Challenge
       <li>Registration Closes: 11:59 p.m. ET, March 16, 2020</li>
    <li>Kick-off Webinar for Registered Solvers: 12:00 p.m. ET, March 19, 2020</li>
    <li>Submission Start: 12:00 p.m. ET, March 19, 2020</li>
-  <li>Submission End: 11:59 p.m. ET December 3, 2021</li>
+  <li>Submission End: 11:59 p.m. ET, December 3, 2021</li>
   </ul>
 
 <!-- Prizes start -->
