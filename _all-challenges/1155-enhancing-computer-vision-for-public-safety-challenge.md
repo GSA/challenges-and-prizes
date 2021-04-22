@@ -25,6 +25,13 @@ challenge-manager-email: Jeremy.glenn@nist.gov
 point-of-contact: psprizes@nist.gov
 body-content-uploads: /assets/netlify-uploads/official-rules_computer-vision-challenge_08252020.pdf
 description: >-
+  **CONGRATUATIONS TO PHASE 1 WINNERS:** Team LIVE, Team IUPUI, Team iAI-NJIT,
+  CalAster, Trueface, and Burak Ozer. These teams are competing in the final
+  phase in May 2021; check the [challenge
+  website](https://pscompvischallenge.com/) for the latest information. For
+  questions related to this challenge, email us at
+  [psprizes@nist.gov](psprizes@nist.gov).
+
   #### Overview
 
 
@@ -246,6 +253,8 @@ how-to-enter: >-
   **Submission Email:** [psprizes@nist.gov](mailto:psprizes@nist.gov)
 ---
 ### Description
+
+**CONGRATUATIONS TO PHASE 1 WINNERS:** Team LIVE, Team IUPUI, Team iAI-NJIT, CalAster, Trueface, and Burak Ozer. These teams are competing in the final phase in May 2021; check the [challenge website](https://pscompvischallenge.com/) for the latest information. For questions related to this challenge, email us at [psprizes@nist.gov](psprizes@nist.gov).
 
 #### Overview
 
