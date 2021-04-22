@@ -1,7 +1,7 @@
 ---
 title: " Agile Robotics for Industrial Automation Prize Competition"
 challenge-title: " Agile Robotics for Industrial Automation Prize Competition (ARIAC)"
-layout: front-matter-data-markdownify-content
+layout: front-matter-data
 permalink: /challenge/ariac-2021/
 challenge-id: "1228"
 status: open
@@ -488,9 +488,11 @@ how-to-enter: <p>An interested Participant (individual, team, or legal entity)
 prize: true
 submission-link: null
 ---
+<!-- Description start -->
+
 ### Description
 
-<p>In June 2017, the National Institute of Standard and Technology (NIST) put on the first Agile Robotics for Industrial Applications Competition (ARIAC). The goal of the competition was to test the agility of industrial robot systems, with the goal of enabling industrial robots on the shop floors to be more productive, more autonomous, and to require less time from shop floor workers. For the second and third year of the competition, we introduced a cash prize to motivate and expand participation. This is the fourth year of the competition.</p>
+<p>In June 2017, the National Institute of Standard and Technology (NIST) put on the first Agile Robotics for Industrial Applications Competition (ARIAC). The goal of the competition was to test the agility of industrial robot systems, with the goal of enabling industrial robots on the shop floors to be more productive, more autonomous, and to require less time from shop floor workers. For the second and third year of the competition, we introduced a cash prize to motivate and expand participation. This is the fifth year of the competition.</p>
 <p>In this context, agility is defined broadly to address:</p>
 <ul>
 <li>Failure identification and recovery, where robots can detect failures in a manufacturing process and automatically recover from those failures</li>
@@ -498,15 +500,15 @@ submission-link: null
 <li>Fixtureless environment, where robots can sense the environment and perform tasks on parts that are not in predefined locations</li>
 </ul>
 <p>The competition Participants are required to develop a robot control system (software) to control a robot in a simulated environment. Gazebo (gazebosim.com), which is an open source robotics simulation environment, will be used as the testing platform and the Robot Operating Systems (ROS), which is an open source set of software libraries and tools, will be used to define the interfaces to the simulation system.</p>
-<p>Software interfaces will be made publicly available that will allow the Participants to control the robot.  The qualifier will begin in the April 2020 timeframe with the final competition occurring in mid-May 2020. The competition will be performed virtually, so physical attendance is not required to compete. NIST is intends to propose a workshop to a major robotics conference to allow the winning Participants to present their approaches; details, when available, will be posted to the official challenge website.</p>
+<p>Software interfaces will be made publicly available that will allow the Participants to control the robot.  The qualifier will begin in the April 2021 timeframe with the final competition occurring in mid-May 2021. The competition will be performed virtually, so physical attendance is not required to compete. NIST is intends to propose a workshop to a major robotics conference to allow the winning Participants to present their approaches; details, when available, will be posted to the official challenge website.</p>
 <h4>Dates of the Competition:</h4>
 <ul>
-  <li>Accepting Qualifier Submissions Through: April 3, 2020</li>
-  <li>Qualifier Begin: April 6, 2020</li>
-  <li>Qualifier End: April 10, 2020</li>
-  <li>Competition Testing Period Begins: May 11, 2020</li>
-  <li>Competition Testing Period Ends: 5:00 PM, EDT (UTC-05:00), May 15, 2020</li>
-  <li>Announcement of Cash Prize Winners: late May 2020</li>
+  <li>Accepting Qualifier Submissions Through: April 23, 2021</li>
+  <li>Qualifier Begin: April 26, 2021</li>
+  <li>Qualifier End: April 30, 2021</li>
+  <li>Competition Testing Period Begins: May 24, 2021</li>
+  <li>Competition Testing Period Ends: 5:00 PM, EDT (UTC-05:00), May 28, 2021</li>
+  <li>Announcement of Cash Prize Winners: early June 2021</li>
 </ul>
 
 <!-- Prizes start -->
@@ -530,7 +532,7 @@ submission-link: null
 ### Rules
 
 <h4>Rules</h4>
-<p>The Official Rules are posted at <a href="https://www.challenge.gov/challenge/ariac/" target="_blank" rel="noopener">https://www.challenge.gov/challenge/ariac/</a> and the Event Website, <a href="http://www.nist.gov/ariac" target="_blank" rel="noopener">http://www.nist.gov/ariac</a>.</p>
+<p>The Official Rules are posted at <a href="https://www.challenge.gov/challenge/ariac-2021/" target="_blank" rel="noopener">https://www.challenge.gov/challenge/ariac-2021/</a> and the Event Website, <a href="http://www.nist.gov/ariac" target="_blank" rel="noopener">http://www.nist.gov/ariac</a>.</p>
 <h4>Eligibility to Participate in the Competition:</h4>
 <p>Participation in the ARIAC Prize Competition is open to ALL; however, not all participants are eligible to win cash prizes as explained in the next section.</p>
 <p>Each Competition Participant (individual, team, or legal entity) is required to register on the ARIAC website. There shall be one Official Representative for each Competition Participant. The Official Representative must provide a name, username (which may serve as a team or affiliation name), email address, and affirm that he/she has read and consents to be governed by the Competition Rules. Multiple registrations per Participant are NOT allowed. At NIST's discretion, any violation of this rule will be grounds for disqualification from the Competition. Multiple individuals and/or legal entities may collaborate as a team to submit a single entry (Participant’s code submission to a qualifier or final), in which case the designated Official Representative will be responsible for meeting all entry and evaluation requirements. Participation is subject to all U.S. federal, state and local laws and regulations. Participants must not be suspended, debarred, or otherwise excluded from doing business with the Federal Government. Individuals entering on behalf of or representing a company, institution or other legal entity are responsible for confirming that their entry does not violate any policies of that company, institution or legal entity. Any other individuals or legal entities involved with the design, production, execution, distribution or evaluation of ARIAC are not eligible to participate.</p>
