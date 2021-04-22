@@ -14,14 +14,15 @@ partner-agencies-federal: null
 partners-non-federal: null
 external-url: null
 total-prize-offered-cash: $17,500
-type-of-challenge: Software and apps
-submission-start: 01/27/2020
-submission-end: 05/10/2020
-fiscal-year: FY20
+type-of-challenge:
+  - Scientific
+submission-start: 2021/04/01 12:00 AM
+submission-end: 2021/04/23 11:50 PM
+fiscal-year: FY21
 legal-authority: America COMPETES Act
 challenge-manager: Craig Schlenoff
 challenge-manager-email: craig.schlenoff@nist.gov
-point-of-contact: ariac@nist.gov
+point-of-contact: craig.schlenoff@nist.gov
 description: <p>In June 2017, the National Institute of Standard and Technology
   (NIST) put on the first Agile Robotics for Industrial Applications Competition
   (ARIAC). The goal of the competition was to test the agility of industrial
@@ -487,12 +488,7 @@ how-to-enter: <p>An interested Participant (individual, team, or legal entity)
 prize: true
 submission-link: null
 ---
-
-
-
-<!-- Description start -->
 ### Description
-
 
 <p>In June 2017, the National Institute of Standard and Technology (NIST) put on the first Agile Robotics for Industrial Applications Competition (ARIAC). The goal of the competition was to test the agility of industrial robot systems, with the goal of enabling industrial robots on the shop floors to be more productive, more autonomous, and to require less time from shop floor workers. For the second and third year of the competition, we introduced a cash prize to motivate and expand participation. This is the fourth year of the competition.</p>
 <p>In this context, agility is defined broadly to address:</p>
@@ -514,8 +510,8 @@ submission-link: null
 </ul>
 
 <!-- Prizes start -->
-### Prizes
 
+### Prizes
 
 <h4>Prizes</h4>
 <p>Up to three winners will be selected. The Prize Purse for the ARIAC Prize Competition is a total of $17,500. The number of winners will be fewer than three if there are fewer than three Participants that qualify for the competition. The Prize Purse may increase, but will not decrease. Any increases in the Prize Purse will be posted on the Event Website. NIST reserves the right to announce additional winners of non-cash prizes.</p>
@@ -530,8 +526,8 @@ submission-link: null
 <p>NIST may arrange and pay for the travel for one team-selected representative from a Participant’s team. NIST may cover eligible travel costs such as airfare, conference registration fee, and lodging subject to the availability of funds and invitations to pay for such travel costs may be offered to the winning teams first.</p>
 
 <!-- Rules start -->
-### Rules 
 
+### Rules
 
 <h4>Rules</h4>
 <p>The Official Rules are posted at <a href="https://www.challenge.gov/challenge/ariac/" target="_blank" rel="noopener">https://www.challenge.gov/challenge/ariac/</a> and the Event Website, <a href="http://www.nist.gov/ariac" target="_blank" rel="noopener">http://www.nist.gov/ariac</a>.</p>
@@ -588,8 +584,8 @@ submission-link: null
 <p>15 U.S.C. 3719, as amended.</p>
 
 <!-- Judging start -->
-### Judging Criteria
 
+### Judging Criteria
 
 <h4>Judging Panel</h4>
 <p>The NIST Director will appoint a panel of three qualified judges. The Judges will be robot agility and/or simulation experts from inside and/or outside of NIST. The Judges will determine winners according to the Judging Criteria described herein. The Judges may not have personal or financial interests in, or be an employee, officer, director, or agent of, any entity that is a registered Participant in the Competition and may not have a familial or financial relationship with an individual who is a registered Participant. In the event of such a conflict, a Judge must recuse himself or herself and a new Judge may be appointed.</p>
@@ -634,7 +630,6 @@ submission-link: null
   
 <!--  How To Enter start -->
 ### How To Enter
-
 
 <p>An interested Participant (individual, team, or legal entity) must initiate the process of participating in the Competition by registering at the ARIAC website. The party is then given access to view the documentation and download the tutorials (which provides instructions on how to run the simulations) from the ARIAC website. In the event NIST determines modifications to the documentation and tutorials are needed, all website registrants will be notified by email.</p>
 <p>Once registered, the Participants are eligible to participate in the qualifier. The qualifier will occur in the April 2020 timeframe (specific deadlines will be published at the official challenge website and all Participants notified by email). Participants must complete the qualifier to be eligible to compete in the final competition. A minimum score will be determined, based on the metrics described below, which Participants have to meet or exceed in the qualifier to be eligible for the final competition.</p>
