@@ -16,7 +16,7 @@ type-of-challenge:
   - Ideas
   - Technology demonstration and hardware
 submission-start: 2021/02/22 12:00 PM
-submission-end: 2021/04/23 11:50 PM
+submission-end: 2021/05/07 11:50 PM
 fiscal-year: FY21
 legal-authority: Procurement Authority
 challenge-manager: Cyril Gay
