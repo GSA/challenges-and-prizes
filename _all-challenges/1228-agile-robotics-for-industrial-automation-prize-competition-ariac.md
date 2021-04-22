@@ -515,18 +515,13 @@ submission-link: null
 
 ### Prizes
 
-<h4>Prizes</h4>
-<p>Up to three winners will be selected. The Prize Purse for the ARIAC Prize Competition is a total of $17,500. The number of winners will be fewer than three if there are fewer than three Participants that qualify for the competition. The Prize Purse may increase, but will not decrease. Any increases in the Prize Purse will be posted on the Event Website. NIST reserves the right to announce additional winners of non-cash prizes.</p>
 <h4>Prize Amounts:</h4>
 <ul>
   <li>1st place - $10,000</li>
   <li>2nd place - $5,000</li>
   <li>3rd place - $2,500</li>
 </ul>
-<h4>Presentation of Participant Approaches at a Robotics Conference Workshop</h4>
-<p>Participants in the ARIAC Competition may be invited by NIST to attend a workshop dedicated to the ARIAC Competition at a future robotics conference to make a 25-minute presentation on their approach in the ARIAC Competition followed by audience question and answer.</p>
-<p>NIST may arrange and pay for the travel for one team-selected representative from a Participant’s team. NIST may cover eligible travel costs such as airfare, conference registration fee, and lodging subject to the availability of funds and invitations to pay for such travel costs may be offered to the winning teams first.</p>
-
+<p>Up to three winners will be selected. The Prize Purse for the ARIAC Prize Competition is a total of $17,500. The number of winners will be fewer than three if there are fewer than three Participants that qualify for the competition. The Prize Purse may increase, but will not decrease. Any increases in the Prize Purse will be posted on the Event Website. NIST reserves the right to announce additional winners of non-cash prizes.</p>
 <!-- Rules start -->
 
 ### Rules
@@ -546,7 +541,8 @@ submission-link: null
   <li>Participants may not be a Federal entity or Federal employee acting within the scope of their employment. NIST employees are not eligible to participate. Non-NIST Federal employees acting in their personal capacities should consult with their respective agency ethics officials to determine whether their participation in this Competition is permissible.</li>
   <li>A Participant shall not be deemed ineligible because the Participant consulted with Federal employees or used Federal facilities in preparing its submission to the ARIAC Prize Competition if the Federal employees and facilities are made available to all Participants on an equitable basis.</li>
   </ul>
-<p>In addition, interested Participants who do not meet the eligibility requirements to win a prize (i.e., individuals who are neither a US citizen nor a permanent resident of the United States or non-US-based entities) are encouraged to participate in the Competition. They are invited to register on the ARIAC website and download the training material. The performance obtained by these Participants will be displayed on the ARIAC website in the same manner as the performance obtained by Participants who are eligible to win cash prizes.</p>
+<p>In addition, interested Participants who do not meet the eligibility requirements to win a prize (i.e., individuals who are neither a US citizen nor a permanent resident of the United States or non-US-based entities) are encouraged to participate in the Competition. They are invited to register on the ARIAC website and download the training material. The performance obtained by these Participants will be displayed on the ARIAC website in the same manner as the performance obtained by Participants who are eligible to win cash prizes. Participants found to be ineligible for cash prizes may still be publicly recognized. In the event that the prize award normally allotted to the place or rank of an ineligible participant occurs, the cash prize will be awarded to the next eligible participant in the series or ranking. Individuals on the denied persons list or from entities or countries sanctioned by the United States Government are not eligible to participate.</p>
+
 <hr>
 <h4>Terms and Conditions</h4>
 <p><strong>Intellectual Property Rights</strong></p>
@@ -634,7 +630,7 @@ submission-link: null
 ### How To Enter
 
 <p>An interested Participant (individual, team, or legal entity) must initiate the process of participating in the Competition by registering at the ARIAC website. The party is then given access to view the documentation and download the tutorials (which provides instructions on how to run the simulations) from the ARIAC website. In the event NIST determines modifications to the documentation and tutorials are needed, all website registrants will be notified by email.</p>
-<p>Once registered, the Participants are eligible to participate in the qualifier. The qualifier will occur in the April 2020 timeframe (specific deadlines will be published at the official challenge website and all Participants notified by email). Participants must complete the qualifier to be eligible to compete in the final competition. A minimum score will be determined, based on the metrics described below, which Participants have to meet or exceed in the qualifier to be eligible for the final competition.</p>
+<p>Once registered, the Participants are eligible to participate in the qualifier. The qualifier will occur in the April 2021 timeframe (specific deadlines will be published at the official challenge website and all Participants notified by email). Participants must complete the qualifier to be eligible to compete in the final competition. A minimum score will be determined, based on the metrics described below, which Participants have to meet or exceed in the qualifier to be eligible for the final competition.</p>
 <p>Participants will run the qualifier from their own location. They will have two weeks from the date that the qualifier is released on the website (available to be downloaded) to submit their software control system that addresses the challenges in the qualifier. Registered participants will be emailed when the qualifier is released. They should run the qualifier at their own location and submit the resulting output files generated by their control system (listed below). Their output files should be uploaded to an account (nfiles.nist.gov) that NIST will set up specifically for each Participant.</p>
 <p>Specific files that need to be submitted include:</p>
 <ul>
@@ -655,10 +651,19 @@ submission-link: null
 <ul>
   <li><strong>Scenario 1: Baseline Kit Building: </strong>The first scenario is intended as a baseline set of tasks for the other test methods to be compared against. The task for this scenario is to pick specific parts and place them on a tray. The robot arms will receive an “Order” that details the list of parts and their target locations. Orders are covered in more detail in the Orders section.</li>
   <li><strong>Scenario 2: Dropped Part: </strong>The task for Scenario 2 is identical to Scenario 1, however one or more parts will drop from the robots’ gripper. The robots will need to recover after dropping a part and complete the given Order. Recovery could entail picking up the dropped part or fetching a new part.</li>
-  <li>Scenario 3: In-Process Kit Change: </strong>While the robots are in the middle of assembling a kit, a new high priority order will be received that needs to be completed as fast as possible. The robots will need to decide how best to complete this new order, and then complete the previous order.</li>
+  <li><strong>Scenario 3: In-Process Kit Change: </strong>While the robots are in the middle of assembling a kit, a new high priority order will be received that needs to be completed as fast as possible. The robots will need to decide how best to complete this new order, and then complete the previous order.</li>
   </ul>
 <h3>Fifteen Trials</h3>  
 <p>The competition will consist of 15 trials: 5 trials of each of the 3 scenarios. Each trial will receive a score based on completion and efficiency metrics outlined in the Scoring section.</p>
+<h4>Environment</h4>
+<ul>
+<li>The Simulation environment is a representation of an industrial kitting work cell and assembly workstations. One robot arm on a linear rail, one robot on a gantry system, a conveyer belt, parts bins, trays, and assembly stations.</li>
+<li>The conveyor belt is a <strong>1 m wide</strong> plane that transports objects across the work environment at a fixed speed of roughly <strong>0.2 m/s</strong>. Parts continuously appear on the belt for the duration of the trial. When parts reach the end of the conveyor belt they are automatically removed. Teams can control the conveyor belt during development, but not during the final competition.</li>
+<li>There are eight part bins that may be used for building kits. Parts in these bins will not be replaced once used.
+There are two robot arms; one mounted on a single base on a linear actuator that runs parallel to the conveyor belt, the other mounted hanging from a two-dimensional gantry that operates both parallel and perpendicular to the conveyor belt. The Linear actuator measures 4 m.</li>
+<li>Four Automated Guided Vehicles (AGV) are located along the Linear actuator. Kits are built on top of these AGVs. A team will programmatically signal the AGVs when the kits are ready to be taken away. The signaled AGV will depart for the indicated Assembly Station.</li>
+<li>The trays used for assembling kits are flat trays measuring <strong>0.5 x 0.7 m.</strong></li>
+</ul>
 <h4>Robot Arm</h4>
 <ul>
   <li>The two robot arms used in each trial will be Universal Robots UR10.</li>
@@ -683,7 +688,7 @@ submission-link: null
 <p>Above each AGV is a quality control sensor that detects faulty parts. If faulty parts are detected while teams are filling trays, those parts should be removed from the tray and replaced with another part of the same type. Faulty parts are considered unwanted parts: they will not count for any points when the kit is submitted, and they will cost teams the all-parts bonus if left in trays.</p>
 <h4>Competition process</h4>
 <p>Each trial will consist of the following steps:</p>
-<ul>
+<ol>
   <li>The robots programmatically signal that they are able to begin accepting orders.</li>
 <li>The first Order (Order 1) is sent to the robots.</li>
 <li>A fixed amount of time is allowed to complete the order.</li>
@@ -691,4 +696,4 @@ submission-link: null
 <li>In the case of the In-Process Kit Change testing method, a new Order (Order 2) will be issued that is of higher priority than the previously issued Order 1. When Order 2 is complete, building of Order 1 is to resume.</li>
 <li>The robots signal programmatically when a kit is complete and ready for quality control.</li>
 <li>The robot system will be notified that the trial is over. The trial is over when time runs out or all Orders have been fulfilled.</li>
-  </ul>
+  </ol>
