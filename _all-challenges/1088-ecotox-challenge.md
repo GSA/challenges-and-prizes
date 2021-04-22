@@ -191,12 +191,9 @@ how-to-enter: <p>To be eligible to compete for the award, prospective solvers
 prize: true
 submission-link: http://www.epa.gov/innovation/EcoTox-Target-Challenge
 ---
-
-
-
 <!-- Description start -->
-### Description
 
+### Description
 
 <p>This challenge calls for respondents to develop high quality, low cost, technologies/platforms for evaluating global gene expression in samples from four common aquatic toxicity test organisms: Pimephales promelas (a fish), Daphnia magna (a crustacean), Chironomous dilutus (an insect; formerly Chironomous tentans), and Raphidocelis subcapitata (a green algae). These represent species and associated trophic levels most frequently tested when evaluating the ecological hazards of chemicals. While there are many extant, viable, technologies for measuring global gene expression, the significant technological leap and challenge to the solver community is to provide these capabilities at a cost and scale of commercial throughput that can accommodate the analysis of thousands or tens of thousands of samples per year. A target price point is $50 per sample or less.</p>
  <p><strong>Key Dates:</strong></p>
@@ -205,18 +202,18 @@ submission-link: http://www.epa.gov/innovation/EcoTox-Target-Challenge
       <li>Registration Closes: 11:59 p.m. ET, March 16, 2020</li>
    <li>Kick-off Webinar for Registered Solvers: 12:00 p.m. ET, March 19, 2020</li>
    <li>Submission Start: 12:00 p.m. ET, March 19, 2020</li>
-  <li>Submission End: 11:59 p.m. ET June 15, 2021</li>
+  <li>Submission End: 11:59 p.m. ET December 3, 2021</li>
   </ul>
 
 <!-- Prizes start -->
-### Prizes
 
+### Prizes
 
 <p>The prize for the challenge winner will be $300,000 US dollars. One prize will be awarded.</p>
 
 <!-- Rules start -->
-### Rules 
 
+### Rules
 
 <p>To be eligible to compete for the award, prospective solvers must register by no later than March 16, 2020 at: <a href="https://www.epa.gov/innovation/ecotox-target-challenge" target="_blank" rel="noopener">https://www.epa.gov/innovation/ecotox-target-challenge</a>.</p>
 <h4>Eligibility:</h4>
@@ -240,8 +237,8 @@ submission-link: http://www.epa.gov/innovation/EcoTox-Target-Challenge
   </ul>
 
 <!-- Judging start -->
-### Judging Criteria
 
+### Judging Criteria
 
 <h4>Judging Panel</h4>
 <p>The judging panel will consist of six subject matter experts selected by the Challenge Sponsors.</p>
@@ -428,8 +425,8 @@ submission-link: http://www.epa.gov/innovation/EcoTox-Target-Challenge
 <p>*Eligible submissions will include platforms, data and associated required information for all four species.</p>
 
 <!--  How To Enter start -->
-### How To Enter
 
+### How To Enter
 
 <p>To be eligible to compete for the award, prospective solvers must register at <a href="https://www.epa.gov/innovation/forms/ecotox-target-challenge-registration" target="_blank" rel="noopener">https://www.epa.gov/innovation/forms/ecotox-target-challenge-registration</a> by no later than March 16, 2020.</p>
 <p>Submission: Instructions on submission of entries will be provided to registered participants during the Kick-off Webinar on March 19, 2020.</p>
