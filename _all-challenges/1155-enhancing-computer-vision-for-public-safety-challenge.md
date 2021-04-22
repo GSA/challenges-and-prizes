@@ -4,7 +4,7 @@ challenge-title: Enhancing Computer Vision for Public Safety Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/enhancing-computer-vision-for-public-safety-challenge/
 challenge-id: "1155"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/challenge-logo-v2_computervision.340x161.png
 agency-logo: /assets/netlify-uploads/NIST_logo.png
@@ -16,8 +16,8 @@ total-prize-offered-cash: Up to $240,000
 type-of-challenge:
   - Analytics, visualizations, algorithms
   - Scientific
-submission-start: 2020/09/08 11:00 AM
-submission-end: 2020/10/20 7:00 PM
+submission-start: 09/08/2020 11:00 AM
+submission-end: 10/20/2020 7:00 PM
 fiscal-year: FY20,FY21
 legal-authority: America COMPETES Act
 challenge-manager: Jeremy Glenn
