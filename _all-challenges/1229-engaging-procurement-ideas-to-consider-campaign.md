@@ -1,6 +1,6 @@
 ---
-title: Engaging Procurement Ideas to Consider Campaign
-challenge-title: Engaging Procurement Ideas to Consider Campaign
+title: Engaging Procurement Ideas to Consider (EPIC) Campaign
+challenge-title: Engaging Procurement Ideas to Consider (EPIC) Campaign
 layout: front-matter-data-markdownify-content
 permalink: /challenge/epic-campaign/
 challenge-id: "1229"
