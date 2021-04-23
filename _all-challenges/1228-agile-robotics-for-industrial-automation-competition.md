@@ -187,6 +187,7 @@ rules: >-
 
   **Sensors**
 
+
   A Participant can place sensors around the environment. Each sensor has a cost that factors into the final score.
 
 
@@ -588,6 +589,7 @@ The Robot arms' positions are controlled through the linear actuator or gantry o
 The end of the arms are equipped with a vacuum gripper. The vacuum gripper is controlled in a binary manner and reports whether or not it is successfully gripping an object.
 
 **Sensors**
+
 A Participant can place sensors around the environment. Each sensor has a cost that factors into the final score.
 
 A sample of available sensors may include:
