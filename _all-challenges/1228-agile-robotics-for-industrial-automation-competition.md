@@ -2,7 +2,7 @@
 title: Agile Robotics for Industrial Automation Competition
 challenge-title: Agile Robotics for Industrial Automation Competition (ARIAC)
 layout: front-matter-data-markdownify-content
-permalink: /challenge/airac-2021/
+permalink: /challenge/ariac-2021/
 challenge-id: "1228"
 status: open
 sidenav: true
