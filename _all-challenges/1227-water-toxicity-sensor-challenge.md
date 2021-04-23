@@ -135,7 +135,7 @@ This Challenge is requesting new design solutions for biologically based sensors
 
 **Key Dates**
 
-* June 8, 2021, 2 pm ET: Informational Webinar on the Water Sensor Toxicity Challenge
+* June 8, 2021, 2 pm ET: Informational Webinar on the Water Sensor Toxicity Challenge. [Click here to register](https://water-toxicity-sensor-challenge.eventbrite.com).
 * July 26, 2021, 11:59 pm ET: Submission period ends
 
 ### Prizes
@@ -179,7 +179,7 @@ After the Challenge submission deadline, submissions will be judged by a panel c
 
 **Judging Criteria**
 
-* The system must measure the activation of one or more toxic pathways that are linked to adverse health outcomes caused by environmental pollutants in water, such as hepatic toxicants, endocrine disrupting compounds, pesticides, heavy metals, and/or other contaminants of health concern.
+* The system must measure the activation of one or more toxicity pathways that are linked to adverse health outcomes caused by environmental pollutants in water, such as hepatic toxicants, endocrine disrupting compounds, pesticides, heavy metals, and/or other contaminants of health concern.
 * If multiple toxicity pathways are targeted, the system should provide information as to which pathway is activated to produce a signal.
 * The system should function in a range of chemical concentrations of relevance to human health. It should also define, if available, lower and upper limits of response and quantification for positive controls for each pathway (i.e., the linear dynamic range (LDR)).
 * The system should be functional under conditions normally associated with various water types (e.g., varying levels of microorganisms, pH, alkalinity, hardness, humic and fulvic acids, dissolved solids, turbidity, etc.), and account for associated matrix effects on sensor response. That is, the design should be compatible with operation and deployment of the sensor in field operations as opposed to a clinical setting.
