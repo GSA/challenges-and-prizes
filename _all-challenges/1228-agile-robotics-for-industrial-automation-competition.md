@@ -9,7 +9,7 @@ sidenav: true
 card-image: /assets/netlify-uploads/ariac-image.png
 agency-logo: /assets/netlify-uploads/NIST_logo.png
 tagline: Build your own robot control software and win up to $10,000!
-agency: National Institute of Standards and Technology (NIST)
+agency: "National Institute of Standards and Technology (NIST) "
 total-prize-offered-cash: $17,500
 type-of-challenge:
   - Software and apps
