@@ -149,7 +149,8 @@ rules: >-
 
   Submissions may be disqualified for plagiarism, falsification of any information submitted, use of copyrighted material without permission, and use of profanity, violent images, or nudity. NIDA is not responsible for lost, late, incomplete, invalid, unintelligible, or misdirected entries, which will be disqualified. As this Challenge is consistent with and advances the mission of NIDA, in that it seeks to identify intervention strategies to combat drug addiction, submissions mapping patients’ experiences with alcohol use disorder will not be accepted.
 judging: >-
-  **Basis Upon Which a Winner Will be Selected.** 
+  <https://www.drugabuse.gov/sites/default/files/patient-journey-mapping-challenge-entry-form.docx>**Basis
+  Upon Which a Winner Will be Selected.** 
 
 
   The judging panel, comprised of Department of Health and Human Services (HHS) scientists, will assess each submission’s creativity in depicting the patient journey map, generalizability of the journey to other patients struggling with a similar SUD, and clarity of the journey phases. The judges will consider the 4 following criteria and make recommendations to the award approving official based upon their assessments of the criteria. Each criterion will be scored with a maximum of 10 points.
@@ -177,7 +178,7 @@ how-to-enter: >-
   Each submission for this Challenge requires a complete Submission Package. The Submission Package includes a Patient Journey Map depicting the steps a patient must take from the beginning of the drug addiction treatment journey to recovery and a written narrative describing the process the individual or team used to create the map (see requirements below). Both the map and the narrative will be evaluated.
 
 
-  * **Entry Form.** Please complete and submit the [entry form](<1. https://www.drugabuse.gov/sites/default/files/patient-journey-mapping-challenge-entry-form.docx>). 
+  * **Entry Form.** Please complete and submit the [entry form](https://www.drugabuse.gov/sites/default/files/patient-journey-mapping-challenge-entry-form.docx). 
 
   * **Patient Journey Map.** The map must be a PDF or other image file and must be of high enough resolution to be legible/readable. All submissions must be in English. The participants must not use HHS’s logo or official seal or the logo of NIH or NIDA in the submissions and must not claim federal government endorsement. In the map:
 
@@ -302,7 +303,7 @@ Participants may be an individual, a team of individuals, or an entity. Each tea
 
 Each submission for this Challenge requires a complete Submission Package. The Submission Package includes a Patient Journey Map depicting the steps a patient must take from the beginning of the drug addiction treatment journey to recovery and a written narrative describing the process the individual or team used to create the map (see requirements below). Both the map and the narrative will be evaluated.
 
-* **Entry Form.** Please complete and submit the [entry form](<1. https://www.drugabuse.gov/sites/default/files/patient-journey-mapping-challenge-entry-form.docx>). 
+* **Entry Form.** Please complete and submit the [entry form](https://www.drugabuse.gov/sites/default/files/patient-journey-mapping-challenge-entry-form.docx). 
 * **Patient Journey Map.** The map must be a PDF or other image file and must be of high enough resolution to be legible/readable. All submissions must be in English. The participants must not use HHS’s logo or official seal or the logo of NIH or NIDA in the submissions and must not claim federal government endorsement. In the map:
 
   * Clearly depict each step taken by a patient to get treatment for their substance use disorder. 
