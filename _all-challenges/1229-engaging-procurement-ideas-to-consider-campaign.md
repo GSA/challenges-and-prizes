@@ -8,8 +8,8 @@ status: open
 sidenav: true
 card-image: /assets/netlify-uploads/omb-seal_tile_image.png
 agency-logo: /assets/netlify-uploads/omb-seal.png
-tagline: Help shape plans that support government-wide acquisition priorities
-  and initiatives
+tagline: Help shape plans that support the President’s Management Agenda (PMA)
+  and other key government-wide acquisition priorities and initiatives
 agency: Office of Management and Budget (OMB), Office of Federal Procurement
   Policy (OFPP)
 type-of-challenge:
