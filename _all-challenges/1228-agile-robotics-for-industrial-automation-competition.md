@@ -4,7 +4,7 @@ challenge-title: Agile Robotics for Industrial Automation Competition (ARIAC)
 layout: front-matter-data-markdownify-content
 permalink: /challenge/ariac-2021/
 challenge-id: "1228"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/ariac-image.png
 agency-logo: /assets/netlify-uploads/NIST_logo.png
@@ -14,8 +14,8 @@ total-prize-offered-cash: $17,500
 type-of-challenge:
   - Software and apps
   - Scientific
-submission-start: "2021/04/01 "
-submission-end: 2021/04/23 11:59 PM
+submission-start: "04/01/2021 "
+submission-end: 04/23/2021 11:59 PM
 fiscal-year: FY21
 legal-authority: America COMPETES Act
 challenge-manager: Craig Schlenoff
