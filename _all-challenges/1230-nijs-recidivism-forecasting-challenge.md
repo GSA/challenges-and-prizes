@@ -8,9 +8,8 @@ status: open
 sidenav: false
 card-image: /assets/netlify-uploads/recidivismchallenge4_1200x627.jpg
 agency-logo: /assets/netlify-uploads/dept_of_justice.png
-tagline: Inviting our nation’s brightest minds to develop algorithms that
-  advance crime forecasting to better inform reintegration and community
-  supervision programs
+tagline: "Challenging our nation’s brightest data minds to support successful
+  reentry.   "
 agency: Department of Justice - National Institute of Justice
 external-url: https://nij.ojp.gov/funding/recidivism-forecasting-challenge
 total-prize-offered-cash: $723,000
