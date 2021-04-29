@@ -12,7 +12,7 @@ tagline: Seeking small businesses to deliver an innovative approach and
   prototype to compete for an award to accelerate military technology
 agency: Department of Defense - U.S. Army
 partner-agencies-federal: The U.S. Army Rapid Capabilities and Critical Technologies Office (RCCTO)
-total-prize-offered-cash: "$5,000 for each Phase 2 participant"
+total-prize-offered-cash: "$5,000 for each Phase 2 participant "
 type-of-challenge:
   - Software and apps
   - Ideas
