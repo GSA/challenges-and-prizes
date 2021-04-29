@@ -8,9 +8,8 @@ status: open
 sidenav: true
 card-image: /assets/netlify-uploads/challenge.gov_xtechrcctoastra.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
-tagline: xTechRCCTO AstRA aims for small business to deliver an innovative
-  approach and prototype to compete for an award to accelerate military
-  technology
+tagline: Seeking small businesses to deliver an innovative approach and
+  prototype to compete for an award to accelerate military technology
 agency: Department of Defense - U.S. Army
 partner-agencies-federal: The U.S. Army Rapid Capabilities and Critical Technologies Office (RCCTO)
 total-prize-offered-cash: ""
