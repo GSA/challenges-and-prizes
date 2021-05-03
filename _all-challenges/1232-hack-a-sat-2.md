@@ -11,7 +11,7 @@ agency-logo: /assets/netlify-uploads/dod_seal.jpg
 tagline: The Good, The Bad, and the Cyber-Secure
 agency: Department of Defense - US Air Force  & US Space Force
 partners-non-federal: Competition Sensitive
-external-url: www.hackasat.com
+external-url: https://www.hackasat.com/
 total-prize-offered-cash: $200,000
 type-of-challenge:
   - Scientific
