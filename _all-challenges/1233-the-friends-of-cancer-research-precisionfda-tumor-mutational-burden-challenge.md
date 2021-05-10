@@ -2,7 +2,7 @@
 title: Card Title Here
 challenge-title: The Friends of Cancer Research & precisionFDA Tumor Mutational Burden Challenge
 layout: front-matter-data-markdownify-content
-permalink: /challenge/mutational-burden-challenge/
+permalink: /challenge/tumor-mutational-burden-challenge/
 challenge-id: "1233"
 status: open
 sidenav: true
