@@ -6,7 +6,7 @@ permalink: /challenge/rapid-design-tool-for-advanced-manufacturing/
 challenge-id: "1234"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/palmetto-tech-bridge_resize.png
+card-image: /assets/netlify-uploads/logo-1-.jpg
 agency-logo: /assets/netlify-uploads/sealnavy.png
 tagline: This challenge seeks a paracentric design tool in the form of an
   executable file that will automatically generate the necessary CAD files to
