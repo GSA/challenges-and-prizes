@@ -22,7 +22,7 @@ type-of-challenge:
   - Creative (multimedia & design)
   - Ideas
   - Analytics, visualizations, algorithms
-submission-start: 2021/05/13
+submission-start: 2021/05/13 06:00 AM
 submission-end: 2021/07/12 11:59 PM
 fiscal-year: FY21
 legal-authority: America COMPETES Act
