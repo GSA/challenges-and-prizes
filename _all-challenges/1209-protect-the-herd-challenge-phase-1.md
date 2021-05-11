@@ -4,7 +4,7 @@ challenge-title: Detect to Protect Challenge Phase 1
 layout: front-matter-data-markdownify-content
 permalink: /challenge/protect-the-herd-challenge-phase1/
 challenge-id: "1210"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/ars-cwd-challenge_logo_horizontal-full-color-tagline.png
 agency-logo: /assets/netlify-uploads/USDA_logo.png
@@ -15,8 +15,8 @@ total-prize-offered-cash: $170,000
 type-of-challenge:
   - Ideas
   - Technology demonstration and hardware
-submission-start: 2021/02/22 12:00 PM
-submission-end: 2021/05/07 11:50 PM
+submission-start: 02/22/2021 12:00 PM
+submission-end: 05/07/2021 11:50 PM
 fiscal-year: FY21
 legal-authority: Procurement Authority
 challenge-manager: Cyril Gay
