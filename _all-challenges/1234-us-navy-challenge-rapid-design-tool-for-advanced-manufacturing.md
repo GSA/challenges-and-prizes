@@ -8,7 +8,7 @@ status: open
 sidenav: false
 card-image: /assets/netlify-uploads/logo_resized.jpg
 agency-logo: /assets/netlify-uploads/sealnavy.png
-tagline: This challenge seeks a paracentric design tool in the form of an
+tagline: This challenge seeks a parametric design tool in the form of an
   executable file that will automatically generate the necessary CAD files to
   allow on-demand manufacturing of specific handwheels on board a Naval ship.
 agency: Department of Defense, Naval Undersea Warfare Center, Division Newport
