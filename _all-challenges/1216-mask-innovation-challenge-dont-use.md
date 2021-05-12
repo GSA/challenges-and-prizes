@@ -4,7 +4,7 @@ challenge-title: Mask Innovation Challenge - don't use
 layout: front-matter-data-markdownify-content
 permalink: /challenge/mask-innovation-challenge/
 challenge-id: "1216"
-status: closed
+status: open
 sidenav: true
 card-image: /assets/netlify-uploads/barda_niosh.png
 agency-logo: /assets/netlify-uploads/hhs.png
