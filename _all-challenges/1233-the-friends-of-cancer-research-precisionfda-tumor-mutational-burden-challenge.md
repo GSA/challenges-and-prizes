@@ -5,7 +5,7 @@ layout: front-matter-data-markdownify-content
 permalink: /challenge/tumor-mutational-burden-challenge/
 challenge-id: "1233"
 status: open
-sidenav: true
+sidenav: false
 card-image: /assets/netlify-uploads/tmb-challenge-graphic_challenge.gov_sized.png
 agency-logo: /assets/netlify-uploads/FDA_blue_logo.png
 tagline: This challenge will encourage the development, improvement, and
