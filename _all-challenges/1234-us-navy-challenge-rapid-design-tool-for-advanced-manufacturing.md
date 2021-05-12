@@ -6,7 +6,7 @@ permalink: /challenge/rapid-design-tool-for-advanced-manufacturing/
 challenge-id: "1234"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/logo-1-.jpg
+card-image: /assets/netlify-uploads/logo_resized.jpg
 agency-logo: /assets/netlify-uploads/sealnavy.png
 tagline: This challenge seeks a paracentric design tool in the form of an
   executable file that will automatically generate the necessary CAD files to
@@ -23,7 +23,7 @@ type-of-challenge:
   - Ideas
   - Analytics, visualizations, algorithms
 submission-start: 2021/05/13 06:00 AM
-submission-end: 2021/07/12 11:59 PM
+submission-end: 2021/07/13 11:59 PM
 fiscal-year: FY21
 legal-authority: America COMPETES Act
 challenge-manager: Jeffrey Champlin
