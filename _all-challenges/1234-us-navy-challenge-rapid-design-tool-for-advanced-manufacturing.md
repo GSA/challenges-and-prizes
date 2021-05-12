@@ -5,7 +5,7 @@ layout: front-matter-data-markdownify-content
 permalink: /challenge/rapid-design-tool-for-advanced-manufacturing/
 challenge-id: "1234"
 status: open
-sidenav: true
+sidenav: false
 card-image: /assets/netlify-uploads/logo_resized.jpg
 agency-logo: /assets/netlify-uploads/sealnavy.png
 tagline: This challenge seeks a paracentric design tool in the form of an
