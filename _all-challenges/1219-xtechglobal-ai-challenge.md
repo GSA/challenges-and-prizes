@@ -4,7 +4,7 @@ challenge-title: xTechGlobal AI Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/xtechglobal-ai-challenge/
 challenge-id: "1219"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/xtechglobal-ai_challenge.gov-logo.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
@@ -26,8 +26,8 @@ type-of-challenge:
   - Technology demonstration and hardware
   - Business plans
   - Analytics, visualizations, algorithms
-submission-start: 2021/03/25 8:00 AM
-submission-end: 2021/05/12 9:00 AM
+submission-start: 03/25/2021 8:00 AM
+submission-end: 05/12/2021 9:00 AM
 fiscal-year: FY21
 legal-authority: Agency specific prize authority
 challenge-manager: "Challenge Manager: Zeke Topolosky; Secondary Internal
