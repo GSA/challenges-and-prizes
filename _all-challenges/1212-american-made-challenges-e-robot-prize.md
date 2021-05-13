@@ -4,7 +4,7 @@ challenge-title: American-Made Challenges E-ROBOT Prize
 layout: front-matter-data-markdownify-content
 permalink: /challenge/american-made-challenges-e-robot-prize/
 challenge-id: "1212"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/erobot.png
 agency-logo: /assets/netlify-uploads/256px-Seal_of_the_United_States_Department_of_Energy.png
@@ -16,8 +16,8 @@ total-prize-offered-cash: $4,000,000
 type-of-challenge:
   - Technology demonstration and hardware
   - Scientific
-submission-start: 2020/11/16 9:00 AM
-submission-end: 2021/05/12 5:00 PM
+submission-start: 11/16/2020 9:00 AM
+submission-end: 05/12/2021 5:00 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Lindsey McGuirk
