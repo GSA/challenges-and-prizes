@@ -120,14 +120,14 @@ judging: >-
   * The submission content sufficiently confirms the competitor’s intent to bring a DLE-related advancement to the demonstration stage by the conclusion of the program.
 how-to-enter: >-
   Just click the “Solve this Challenge” button on
-  https://www.herox.com/GeothermalLithiumExtraction  and follow the instructions
-  to complete your registration.
+  <https://www.herox.com/GeothermalLithiumExtraction> and follow the
+  instructions to complete your registration.
 
 
   #### Submission URL
 
 
-  https://www.herox.com/GeothermalLithiumExtraction/register
+  <https://www.herox.com/GeothermalLithiumExtraction/register>
 ---
 ### Description
 
@@ -203,8 +203,8 @@ The U.S. Department of Energy Geothermal Technologies Office invites anyone affi
 
 ### How to Enter
 
-Just click the “Solve this Challenge” button on https://www.herox.com/GeothermalLithiumExtraction  and follow the instructions to complete your registration.
+Just click the “Solve this Challenge” button on <https://www.herox.com/GeothermalLithiumExtraction> and follow the instructions to complete your registration.
 
 #### Submission URL
 
-https://www.herox.com/GeothermalLithiumExtraction/register
+<https://www.herox.com/GeothermalLithiumExtraction/register>
