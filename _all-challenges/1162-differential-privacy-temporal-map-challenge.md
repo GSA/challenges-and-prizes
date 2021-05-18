@@ -4,7 +4,7 @@ challenge-title: Differential Privacy Temporal Map Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/differential-privacy-temporal-map-challenge/
 challenge-id: "1162"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/deid2-pscr-logo-341x160.png
 agency-logo: /assets/netlify-uploads/nist_logo.png
@@ -16,8 +16,8 @@ total-prize-offered-cash: Up to $276,000
 type-of-challenge:
   - Ideas
   - Analytics, visualizations, algorithms
-submission-start: 2020/10/01 08:00 AM
-submission-end: 2021/05/17 7:59 PM
+submission-start: 10/01/2020 08:00 AM
+submission-end: 05/17/2021 7:59 PM
 fiscal-year: FY20,FY21
 legal-authority: America COMPETES Act
 challenge-manager: Gary Howarth
