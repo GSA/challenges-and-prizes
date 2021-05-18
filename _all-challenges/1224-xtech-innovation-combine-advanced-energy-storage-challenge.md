@@ -4,7 +4,7 @@ challenge-title: xTech Innovation Combine Advanced Energy Storage Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/xtech-innovation-combine-challenge/
 challenge-id: "1224"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/xtechinnovcom-challenge.gov-logo.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
@@ -22,8 +22,8 @@ type-of-challenge:
   - Business plans
   - Analytics, visualizations, algorithms
   - Scientific
-submission-start: 2021/04/21 12:01 AM
-submission-end: 2021/05/14 8:00 PM
+submission-start: 04/21/2021 12:01 AM
+submission-end: 05/14/2021 8:00 PM
 fiscal-year: FY21
 legal-authority: Agency specific prize authority
 challenge-manager: "Zeke Topolosky (Secondary Contact: Nicole Forrester)"
