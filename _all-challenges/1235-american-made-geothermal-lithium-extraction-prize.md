@@ -8,24 +8,30 @@ status: open
 sidenav: true
 card-image: /assets/netlify-uploads/geolithium_withtext.jpg
 agency-logo: /assets/netlify-uploads/256px-Seal_of_the_United_States_Department_of_Energy.png
-tagline: "   "
-agency: Department of Energy
+tagline: Seeking solutions that de-risk and increase market viability for direct
+  lithium extraction (DLE) from domestic geothermal brines.
+agency: U.S. Department of Energy
 partner-agencies-federal: National Renewable Energy Laboratory
 total-prize-offered-cash: $4,000,000
 type-of-challenge:
+  - Ideas
+  - Technology demonstration and hardware
+  - Business plans
   - Scientific
 submission-start: 2021/03/31 5:00 PM
 submission-end: 2021/07/02 5:00 PM
 fiscal-year: FY21, FY22, FY23
 legal-authority: America COMPETES Act
-challenge-manager: Lindsey McGuirk
-challenge-manager-email: LMcGuirk@nrel.gov
+challenge-manager: Caity Smith
+challenge-manager-email: Caity.Smith@nrel.gov
 point-of-contact: LMcGuirk@nrel.gov
-body-content-uploads: ""
+body-content-uploads: /assets/netlify-uploads/nrel-prize-breakdown-table-1-.jpg
 description: >-
-  
-
-  The American-Made Geothermal Lithium Extraction Prize is designed to increase market viability for direct lithium extraction (DLE) from geothermal brines with innovations that lower costs and lessen environmental impact. Competitors in the prize will participate in three escalating challenges for an opportunity to win a portion of the $4 million cash prize pool.
+  The American-Made Geothermal Lithium Extraction Prize is designed to increase
+  market viability for direct lithium extraction (DLE) from geothermal brines
+  with innovations that lower costs and lessen environmental impact. Competitors
+  in the prize will participate in three escalating challenges for an
+  opportunity to win a portion of the $4 million cash prize pool.
 
 
   #### Key Dates
@@ -40,7 +46,7 @@ description: >-
   * **Phase 2: Design & Invent**
 
     * Phase 2 submission opens: Expected August 2021
-    * Phase 2 virtual innovation pitches with IAP: Expected November 2021
+    * Phase 2 virtual innovation pitches with Industry Advisory Panel (IAP): Expected November 2021
     * Phase 2 submission deadline: Expected November 2021
     * Phase 2 finalists announced, and Phase 3 begins: Expected January 2022
   * **Phase 3: Fabricate & Test**
@@ -60,7 +66,9 @@ prizes: >-
 
   The Geothermal Lithium Extraction Prize consists of three progressive phases that challenge competitors to move their innovation from concept to prototype.
 
-  ![Prize breakdown](blob:https://www.challenge.gov/afe4a2cd-b487-4676-b8d3-2bfa7d41bf19 "Prize Breakdown")
+
+  ![Prize Breakdown]({{site.baseurl}}/assets/netlify-uploads/nrel-prize-breakdown-table-2-.jpg "Prize Breakdown")
+
 
   **Phase 1:** Idea & Concept Phase: Over three months, competitors demonstrate that they have identified and developed an impactful idea or solution that addresses one or more of the following technical challenges:
 
@@ -144,7 +152,7 @@ The American-Made Geothermal Lithium Extraction Prize is designed to increase ma
 * **Phase 2: Design & Invent**
 
   * Phase 2 submission opens: Expected August 2021
-  * Phase 2 virtual innovation pitches with IAP: Expected November 2021
+  * Phase 2 virtual innovation pitches with Industry Advisory Panel (IAP): Expected November 2021
   * Phase 2 submission deadline: Expected November 2021
   * Phase 2 finalists announced, and Phase 3 begins: Expected January 2022
 * **Phase 3: Fabricate & Test**
@@ -162,7 +170,9 @@ $4 million cash prize pool
 #### Prize Breakdown
 
 The Geothermal Lithium Extraction Prize consists of three progressive phases that challenge competitors to move their innovation from concept to prototype.
-![Prize breakdown]({{site.baseurl}}/assets/netlify-uploads/nrel-prize-breakdown-table.jpg "Prize Breakdown")
+
+![Prize Breakdown]({{site.baseurl}}/assets/netlify-uploads/nrel-prize-breakdown-table-2-.jpg "Prize Breakdown")
+
 **Phase 1:** Idea & Concept Phase: Over three months, competitors demonstrate that they have identified and developed an impactful idea or solution that addresses one or more of the following technical challenges:
 
 * Developing electrochemical/electrolysis processes for the direct conversion of a lithium-bearing geothermal brine to a lithium hydroxide product without the intermediate creation of lithium carbonate.
