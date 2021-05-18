@@ -87,7 +87,7 @@ prizes: >-
   Competitors will propose a path to design, prototype, and test for proof of concept.
 
 
-  * Phase 1 participants are evaluated by a panel of experts from industry, national labs, and DOE. Up to 15 participants will be selected as winning this phase, called “semifinalists.” They may receive between $40,000 to $600,000 in cash and are then eligible to compete in Phase 2.
+  * Phase 1 participants are evaluated by a panel of experts from industry, national labs, and the U.S. Department of Energy (DOE). Up to 15 participants will be selected as winning this phase, called “semifinalists.” They may receive between $40,000 to $600,000 in cash and are then eligible to compete in Phase 2.
 
 
   **Phase 2:** Design & Invent: Over three months, competitors work in concert with IAP members to substantially advance their proposed tool, component, chemical process, or other advancement concept by demonstrating their design’s promise in meeting quantitative engineering and operational requirements outlined by the team. Additionally, it is expected that competitors develop a plan to test their innovation using a real geothermal brine during Phase 3.
@@ -100,7 +100,7 @@ prizes: >-
   * Phase 2 competitors are also required to present to DOE and IAP members during an innovation pitch meeting.
 
 
-  **Phase 3:** Fabricate & Test: Over 12 months, competitors fabricate and test their proposed design to demonstrate its ability to improve DLE from geothermal brines. Phase 3 competitors are evaluated by a panel of experts using—in part—engineering and technical performance criteria previously submitted by each team. Phase 3 has up to three winners with a first, second, and third place prize.
+  **Phase 3:** Fabricate & Test: Over 12 months, competitors fabricate and test their proposed design to demonstrate its ability to improve DLE from geothermal brines. Phase 3 competitors are evaluated by a panel of experts using—in part—engineering and technical performance criteria previously submitted by each team. Phase 3 has up to three winners with a first-, second-, and third-place prize.
 rules: >-
   The Official Rules can be found
   [here](https://americanmadechallenges.org/geothermallithiumextraction/docs/Geothermal_Lithium_Extraction_Official_Prize_Rules.pdf).
@@ -183,7 +183,7 @@ The Geothermal Lithium Extraction Prize consists of three progressive phases tha
 
 Competitors will propose a path to design, prototype, and test for proof of concept.
 
-* Phase 1 participants are evaluated by a panel of experts from industry, national labs, and DOE. Up to 15 participants will be selected as winning this phase, called “semifinalists.” They may receive between $40,000 to $600,000 in cash and are then eligible to compete in Phase 2.
+* Phase 1 participants are evaluated by a panel of experts from industry, national labs, and the U.S. Department of Energy (DOE). Up to 15 participants will be selected as winning this phase, called “semifinalists.” They may receive between $40,000 to $600,000 in cash and are then eligible to compete in Phase 2.
 
 **Phase 2:** Design & Invent: Over three months, competitors work in concert with IAP members to substantially advance their proposed tool, component, chemical process, or other advancement concept by demonstrating their design’s promise in meeting quantitative engineering and operational requirements outlined by the team. Additionally, it is expected that competitors develop a plan to test their innovation using a real geothermal brine during Phase 3.
 
@@ -191,7 +191,7 @@ Competitors will propose a path to design, prototype, and test for proof of conc
 * Phase 2 competitors are evaluated by a panel of experts from industry, national labs, and DOE. Up to five competitors are selected as winning competitors at this phase, called “finalists.” They receive between $280,000 to $1.4 million in cash and are then eligible to compete in Phase 3.
 * Phase 2 competitors are also required to present to DOE and IAP members during an innovation pitch meeting.
 
-**Phase 3:** Fabricate & Test: Over 12 months, competitors fabricate and test their proposed design to demonstrate its ability to improve DLE from geothermal brines. Phase 3 competitors are evaluated by a panel of experts using—in part—engineering and technical performance criteria previously submitted by each team. Phase 3 has up to three winners with a first, second, and third place prize.
+**Phase 3:** Fabricate & Test: Over 12 months, competitors fabricate and test their proposed design to demonstrate its ability to improve DLE from geothermal brines. Phase 3 competitors are evaluated by a panel of experts using—in part—engineering and technical performance criteria previously submitted by each team. Phase 3 has up to three winners with a first-, second-, and third-place prize.
 
 ### Rules
 
