@@ -93,6 +93,41 @@ prizes: >-
 
 
   **Phase 3:** Fabricate & Test: Over 12 months, competitors fabricate and test their proposed design to demonstrate its ability to improve DLE from geothermal brines. Phase 3 competitors are evaluated by a panel of experts using—in part—engineering and technical performance criteria previously submitted by each team. Phase 3 has up to three winners with a first, second, and third place prize.
+rules: >-
+  The Official Rules can be found
+  [here](https://americanmadechallenges.org/geothermallithiumextraction/docs/Geothermal_Lithium_Extraction_Official_Prize_Rules.pdf).
+
+
+  #### Eligibility
+
+
+  The U.S. Department of Energy Geothermal Technologies Office invites anyone affiliated with a U.S. academic institution, individually or as a team, to compete to transform a conceptual solution into prototype reality.
+judging: >-
+  
+
+  * The proposed innovation is responsive to the needs of the geothermal DLE industry.
+
+  * All activities that are described in and support the submission package are performed in the United States.
+
+  * The proposed solution represents an innovation that moves the American lithium and geothermal industries beyond their respective current states.
+
+  * The proposed solution is not dependent on new, pending, or proposed federal, state, or local government legislation, resolutions, appropriations, measures, or policies.
+
+  * The proposed solution does not involve the lobbying of any federal, state, tribal, or local government office.
+
+  * The proposed solution is based on fundamental technical principles and is realistic in scope and budget for the incentives provided in this program.
+
+  * The submission content sufficiently confirms the competitor’s intent to bring a DLE-related advancement to the demonstration stage by the conclusion of the program.
+how-to-enter: >-
+  Just click the “Solve this Challenge” button on
+  https://www.herox.com/GeothermalLithiumExtraction  and follow the instructions
+  to complete your registration.
+
+
+  #### Submission URL
+
+
+  https://www.herox.com/GeothermalLithiumExtraction/register
 ---
 ### Description
 
