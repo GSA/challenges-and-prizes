@@ -22,6 +22,77 @@ challenge-manager: Lindsey McGuirk
 challenge-manager-email: LMcGuirk@nrel.gov
 point-of-contact: LMcGuirk@nrel.gov
 body-content-uploads: ""
+description: >-
+  
+
+  The American-Made Geothermal Lithium Extraction Prize is designed to increase market viability for direct lithium extraction (DLE) from geothermal brines with innovations that lower costs and lessen environmental impact. Competitors in the prize will participate in three escalating challenges for an opportunity to win a portion of the $4 million cash prize pool.
+
+
+  #### Key Dates
+
+
+  * **Phase 1: Idea & Concept**
+
+    * Phase 1 submission opens: March 31, 2021
+    * Phase 1 informational webinar: April 12, 2021
+    * Phase 1 submission deadline: July 2, 2021 5 p.m. ET
+    * Phase 1 semifinalists announced, and Phase 2 begins: Expected  August 31, 2021
+  * **Phase 2: Design & Invent**
+
+    * Phase 2 submission opens: Expected August 2021
+    * Phase 2 virtual innovation pitches with IAP: Expected November 2021
+    * Phase 2 submission deadline: Expected November 2021
+    * Phase 2 finalists announced, and Phase 3 begins: Expected January 2022
+  * **Phase 3: Fabricate & Test**
+
+    * Phase 3 submission opens: Expected January 2022
+    * Phase 3 submission deadline: Expected January 2023
+    * Phase 3 winners announced: Expected February 2023
+prizes: >-
+  #### Total Cash Prize Pool
+
+
+  $4 million cash prize pool
+
+
+  #### Prize Breakdown
+
+
+  The Geothermal Lithium Extraction Prize consists of three progressive phases that challenge competitors to move their innovation from concept to prototype.
+
+  ![Prize breakdown](blob:https://www.challenge.gov/afe4a2cd-b487-4676-b8d3-2bfa7d41bf19 "Prize Breakdown")
+
+  **Phase 1:** Idea & Concept Phase: Over three months, competitors demonstrate that they have identified and developed an impactful idea or solution that addresses one or more of the following technical challenges:
+
+
+  * Developing electrochemical/electrolysis processes for the direct conversion of a lithium-bearing geothermal brine to a lithium hydroxide product without the intermediate creation of lithium carbonate.
+
+  * Developing new absorbents, precipitants, catalysts, or new processing conditions that can efficiently and selectively extract lithium directly from geothermal brines.
+
+  * Advancements that improve the yield and achievable product purity.
+
+  * Advancements that reduce energy and water consumption rates.
+
+  * Advancements that minimize and/or monetize waste products.
+
+
+  Competitors will propose a path to design, prototype, and test for proof of concept.
+
+
+  * Phase 1 participants are evaluated by a panel of experts from industry, national labs, and DOE. Up to 15 participants will be selected as winning this phase, called “semifinalists.” They may receive between $40,000 to $600,000 in cash and are then eligible to compete in Phase 2.
+
+
+  **Phase 2:** Design & Invent: Over three months, competitors work in concert with IAP members to substantially advance their proposed tool, component, chemical process, or other advancement concept by demonstrating their design’s promise in meeting quantitative engineering and operational requirements outlined by the team. Additionally, it is expected that competitors develop a plan to test their innovation using a real geothermal brine during Phase 3.
+
+
+  * Phase 2 competitors have the opportunity to collaborate with members of the IAP to receive concept design feedback in one-on-one sessions prior to the Phase 2 submission date.
+
+  * Phase 2 competitors are evaluated by a panel of experts from industry, national labs, and DOE. Up to five competitors are selected as winning competitors at this phase, called “finalists.” They receive between $280,000 to $1.4 million in cash and are then eligible to compete in Phase 3.
+
+  * Phase 2 competitors are also required to present to DOE and IAP members during an innovation pitch meeting.
+
+
+  **Phase 3:** Fabricate & Test: Over 12 months, competitors fabricate and test their proposed design to demonstrate its ability to improve DLE from geothermal brines. Phase 3 competitors are evaluated by a panel of experts using—in part—engineering and technical performance criteria previously submitted by each team. Phase 3 has up to three winners with a first, second, and third place prize.
 ---
 ### Description
 
@@ -29,19 +100,19 @@ The American-Made Geothermal Lithium Extraction Prize is designed to increase ma
 
 #### Key Dates
 
-* Phase 1: Idea & Concept
+* **Phase 1: Idea & Concept**
 
   * Phase 1 submission opens: March 31, 2021
   * Phase 1 informational webinar: April 12, 2021
   * Phase 1 submission deadline: July 2, 2021 5 p.m. ET
   * Phase 1 semifinalists announced, and Phase 2 begins: Expected  August 31, 2021
-* Phase 2: Design & Invent
+* **Phase 2: Design & Invent**
 
   * Phase 2 submission opens: Expected August 2021
   * Phase 2 virtual innovation pitches with IAP: Expected November 2021
   * Phase 2 submission deadline: Expected November 2021
   * Phase 2 finalists announced, and Phase 3 begins: Expected January 2022
-* Phase 3: Fabricate & Test
+* **Phase 3: Fabricate & Test**
 
   * Phase 3 submission opens: Expected January 2022
   * Phase 3 submission deadline: Expected January 2023
@@ -56,9 +127,7 @@ $4 million cash prize pool
 #### Prize Breakdown
 
 The Geothermal Lithium Extraction Prize consists of three progressive phases that challenge competitors to move their innovation from concept to prototype.
-
 ![Prize breakdown]({{site.baseurl}}/assets/netlify-uploads/nrel-prize-breakdown-table.jpg "Prize Breakdown")
-
 **Phase 1:** Idea & Concept Phase: Over three months, competitors demonstrate that they have identified and developed an impactful idea or solution that addresses one or more of the following technical challenges:
 
 * Developing electrochemical/electrolysis processes for the direct conversion of a lithium-bearing geothermal brine to a lithium hydroxide product without the intermediate creation of lithium carbonate.
