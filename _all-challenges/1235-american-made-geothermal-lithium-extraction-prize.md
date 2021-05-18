@@ -25,7 +25,7 @@ legal-authority: America COMPETES Act
 challenge-manager: Caity Smith
 challenge-manager-email: Caity.Smith@nrel.gov
 point-of-contact: LMcGuirk@nrel.gov
-body-content-uploads: /assets/netlify-uploads/nrel-prize-breakdown-table-1-.jpg
+body-content-uploads: /assets/netlify-uploads/nrel-prize-breakdown-table-3-.jpg
 description: >-
   The American-Made Geothermal Lithium Extraction Prize is designed to increase
   market viability for direct lithium extraction (DLE) from geothermal brines
@@ -66,9 +66,7 @@ prizes: >-
 
   The Geothermal Lithium Extraction Prize consists of three progressive phases that challenge competitors to move their innovation from concept to prototype.
 
-
-  ![Prize Breakdown]({{site.baseurl}}/assets/netlify-uploads/nrel-prize-breakdown-table-2-.jpg "Prize Breakdown")
-
+  ![Prize Breakdown]({{site.baseurl}}/assets/netlify-uploads/nrel-prize-breakdown-table-3-.jpg "Prize Breakdown")
 
   **Phase 1:** Idea & Concept Phase: Over three months, competitors demonstrate that they have identified and developed an impactful idea or solution that addresses one or more of the following technical challenges:
 
@@ -170,9 +168,7 @@ $4 million cash prize pool
 #### Prize Breakdown
 
 The Geothermal Lithium Extraction Prize consists of three progressive phases that challenge competitors to move their innovation from concept to prototype.
-
-![Prize Breakdown]({{site.baseurl}}/assets/netlify-uploads/nrel-prize-breakdown-table-2-.jpg "Prize Breakdown")
-
+![Prize Breakdown]({{site.baseurl}}/assets/netlify-uploads/nrel-prize-breakdown-table-3-.jpg "Prize Breakdown")
 **Phase 1:** Idea & Concept Phase: Over three months, competitors demonstrate that they have identified and developed an impactful idea or solution that addresses one or more of the following technical challenges:
 
 * Developing electrochemical/electrolysis processes for the direct conversion of a lithium-bearing geothermal brine to a lithium hydroxide product without the intermediate creation of lithium carbonate.
