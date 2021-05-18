@@ -9,7 +9,7 @@ sidenav: true
 card-image: /assets/netlify-uploads/geolithium_withtext.jpg
 agency-logo: /assets/netlify-uploads/256px-Seal_of_the_United_States_Department_of_Energy.png
 tagline: "   "
-agency: Department of Energyu
+agency: Department of Energy
 partner-agencies-federal: National Renewable Energy Laboratory
 total-prize-offered-cash: $4,000,000
 type-of-challenge:
