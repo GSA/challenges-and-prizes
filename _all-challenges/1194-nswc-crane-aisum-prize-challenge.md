@@ -13,7 +13,7 @@ tagline: Seeking AI algorithms to combine with Robotic Autonomous Systems for
 agency: Naval Surface Warfare Center – Crane, Division (NSWC-CR)
 partner-agencies-federal: Office of Naval Research Science and Technology (ONR),
   NavalX Midwest Tech Bridge
-total-prize-offered-cash: $250,000
+total-prize-offered-cash: $750,000
 type-of-challenge:
   - Ideas
   - Technology demonstration and hardware
@@ -238,8 +238,10 @@ prizes: >-
 
     * Scenario 1:
 
-      ![Prize Breakdown Phase II Scenario 1]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-1-table.jpg "Prize Breakdown Phase II Scenario 1")
+      ![Prize Breakdown Phase II Scenario 1]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-1-table-1-.jpg "Prize Breakdown Phase II Scenario 1")
     * Scenario 2:
+
+    ![Prize Breakdown Phase II Scenario 2]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-2-table-1-.jpg "Prize Breakdown Phase II Scenario 2")
 
     The minimum threshold requirements will be set before the beginning of the virtual runs.
   * Phase III – A prize purse up to $500,000 will be disbursed with disparity to the participants who score above the minimum threshold requirements in the live event in which their proposed solutions will integrate on the provided drones for time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion at the Muscatatuck Urban Training Center (MUTC).
@@ -607,7 +609,7 @@ The total prize purse is increased to $750,000. The Government reserves the righ
 
   * Scenario 1:
 
-    ![Prize Breakdown Phase II Scenario 1]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-1-table.jpg "Prize Breakdown Phase II Scenario 1")
+    ![Prize Breakdown Phase II Scenario 1]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-1-table-1-.jpg "Prize Breakdown Phase II Scenario 1")
   * Scenario 2:
 
   ![Prize Breakdown Phase II Scenario 2]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-2-table-1-.jpg "Prize Breakdown Phase II Scenario 2")
