@@ -709,6 +709,7 @@ The Phase I Judging Criteria will evaluate the technical approach as it demonstr
 If multiple technologies of similar type or category are submitted, the review panel may choose the most advantageous solution(s) within each type or category to continue competing in the prize challenge. The Government selection will be based on a comparative evaluation of participants proposed solution. The Prize Selection Decision will be a subjective evaluation of all entries for each phase at completion of this challenge.
 
 The Phase II Judging Criteria will evaluate:
+
 Scenario 1
 
 * Maneuver: Time to Complete 
