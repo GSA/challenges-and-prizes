@@ -373,10 +373,54 @@ judging: >-
   The Phase I Judging Criteria will evaluate the technical approach as it demonstrates appropriate, realistic, innovative, and cost-effective solution to resolve the problem statement.
 
 
-  The Phase II and Phase III Judging Criteria will evaluate time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion. 
-
-
   If multiple technologies of similar type or category are submitted, the review panel may choose the most advantageous solution(s) within each type or category to continue competing in the prize challenge. The Government selection will be based on a comparative evaluation of participants proposed solution. The Prize Selection Decision will be a subjective evaluation of all entries for each phase at completion of this challenge.
+
+
+  The Phase II Judging Criteria will evaluate:
+
+  Scenario 1
+
+
+  * Maneuver: Time to Complete 
+
+    * Time starts on drone entry, ends when drone lands or is otherwise collected after passing through the back door.
+  * Recon: Object Detection
+
+    * Drone will tally and report the number of defined objects of interest which were observed. 
+  * Collisions will be tracked in the simulation environment; they will be used as a score tiebreaker
+
+
+  Scenario 2
+
+
+  * Maneuver: Complete mapping and exit building
+
+    * Run ends when drone lands or is otherwise collected after passing through the back door. 
+  * Mapping: Produce map of internal space
+
+    * Produce a 3D model of the internal environment. Assessment of the quality/legibility of the map as a floorplan.
+  * Recon: Detect the humans
+
+    * Drone reports total number of humans within the search area.
+  * Recon: Place objects on map
+
+    * A score will be recorded if the objects which were detected (objects and humans) are located correctly and labeled on the provided map (within the correct quadrant of the correct room).
+  * Mapping: Area Coverage
+
+    * Number of rooms identifiable on produced map.
+  * Recon: Detect the defined objects
+
+    * The drone will report the number of objects it detected.
+  * Recon: Detect the humans; Identify combatant/non-combatant
+
+    * Drone identifies humans as either combatant or civilian. Combatants will be holding a broom, versus Civilians, which will not.
+  * *Collisions will be tracked in the simulation environment; they will be used as a score tiebreaker*
+
+
+  The subcategories within each scenario above are listed in priority order. However, some subcategories have the same weightings for score. Also, the difference in weighting between some sets of subcategories may not be linear (e.g. Priority 1 may be weighted 37% and Priority 2 may be weighted 27% while Priority 3 may be weighted 11% and Priority 4 may be weighted 9%).
+
+
+  The Phase III Judging Criteria will evaluate, time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion, in the live environment at MUTC. Further details will be coming at a later date. The Government selection will be based on a comparative evaluation of participants proposed solution. The Prize Selection Decision will be a subjective evaluation of all entries for each phase at completion of this challenge.
 how-to-enter: >-
   Entries for Phase I must be **submitted via email to Marissa Wagler at
   [marissa.wagler@navy.mil](mailto:marissa.wagler@navy.mil)** on 29 January 2021
@@ -646,9 +690,47 @@ The Technology Presentation and Technology Demonstration Results will be present
 
 The Phase I Judging Criteria will evaluate the technical approach as it demonstrates appropriate, realistic, innovative, and cost-effective solution to resolve the problem statement.
 
-The Phase II and Phase III Judging Criteria will evaluate time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion. 
-
 If multiple technologies of similar type or category are submitted, the review panel may choose the most advantageous solution(s) within each type or category to continue competing in the prize challenge. The Government selection will be based on a comparative evaluation of participants proposed solution. The Prize Selection Decision will be a subjective evaluation of all entries for each phase at completion of this challenge.
+
+The Phase II Judging Criteria will evaluate:
+Scenario 1
+
+* Maneuver: Time to Complete 
+
+  * Time starts on drone entry, ends when drone lands or is otherwise collected after passing through the back door.
+* Recon: Object Detection
+
+  * Drone will tally and report the number of defined objects of interest which were observed. 
+* Collisions will be tracked in the simulation environment; they will be used as a score tiebreaker
+
+Scenario 2
+
+* Maneuver: Complete mapping and exit building
+
+  * Run ends when drone lands or is otherwise collected after passing through the back door. 
+* Mapping: Produce map of internal space
+
+  * Produce a 3D model of the internal environment. Assessment of the quality/legibility of the map as a floorplan.
+* Recon: Detect the humans
+
+  * Drone reports total number of humans within the search area.
+* Recon: Place objects on map
+
+  * A score will be recorded if the objects which were detected (objects and humans) are located correctly and labeled on the provided map (within the correct quadrant of the correct room).
+* Mapping: Area Coverage
+
+  * Number of rooms identifiable on produced map.
+* Recon: Detect the defined objects
+
+  * The drone will report the number of objects it detected.
+* Recon: Detect the humans; Identify combatant/non-combatant
+
+  * Drone identifies humans as either combatant or civilian. Combatants will be holding a broom, versus Civilians, which will not.
+* *Collisions will be tracked in the simulation environment; they will be used as a score tiebreaker*
+
+The subcategories within each scenario above are listed in priority order. However, some subcategories have the same weightings for score. Also, the difference in weighting between some sets of subcategories may not be linear (e.g. Priority 1 may be weighted 37% and Priority 2 may be weighted 27% while Priority 3 may be weighted 11% and Priority 4 may be weighted 9%).
+
+The Phase III Judging Criteria will evaluate, time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion, in the live environment at MUTC. Further details will be coming at a later date. The Government selection will be based on a comparative evaluation of participants proposed solution. The Prize Selection Decision will be a subjective evaluation of all entries for each phase at completion of this challenge.
 
 ### How to Enter
 
