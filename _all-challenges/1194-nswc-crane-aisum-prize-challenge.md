@@ -26,20 +26,13 @@ challenge-manager: Derek Perry
 challenge-manager-email: derek.s.perry@navy.mil
 point-of-contact: derek.s.perry@navy.mil
 description: >-
-  Two (2) participants have decided to withdraw from Phase II of the Artificial
-  Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant
-  names are listed below in alphabetical order:
+  See the Prizes Section (Total Cash Prize Pool and Prize Breakdown) below for
+  the total prize purse increase and further detailed prize breakdown
+  information. See the Judging Section (Judging Criteria) below for further
+  detailed judging criteria for Phase II.
 
 
-  1. Exyn Technologies
-
-  2. Shield AI, Inc.
-
-
-  The government is continuing into Phase II with the remaining eight (8) selected participants from Phase I.
-
-
-  Ten (10) participants were selected to participate in Phase II – Virtual Vignettes for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. Participant names are listed below in alphabetical order:
+  The following eight (8) participants were selected to participate in Phase II – Virtual Vignettes for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant names are listed below in alphabetical order:
 
 
   1. ASEC, Inc.
@@ -50,17 +43,13 @@ description: >-
 
   4. EpiSys Science, Inc.
 
-  5. Exyn Technologies
+  5. Heron Systems Inc.
 
-  6. Heron Systems Inc.
+  6. Indiana University-Bloomington
 
-  7. Indiana University-Bloomington
+  7. Raytheon BBN Technologies
 
-  8. Raytheon BBN Technologies
-
-  9. Shield AI, Inc.
-
-  10. TurbineOne, LLC
+  8. TurbineOne, LLC
 
 
   Earlier, twenty (20) participants were invited to present their Phase I White Paper concepts to the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge judging panel. Invited participant names are listed below in alphabetical order:
@@ -436,25 +425,18 @@ how-to-enter: >-
 ---
 ### Description
 
-Two (2) participants have decided to withdraw from Phase II of the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant names are listed below in alphabetical order:
+See the Prizes Section (Total Cash Prize Pool and Prize Breakdown) below for the total prize purse increase and further detailed prize breakdown information. See the Judging Section (Judging Criteria) below for further detailed judging criteria for Phase II.
 
-1. Exyn Technologies
-2. Shield AI, Inc.
-
-The government is continuing into Phase II with the remaining eight (8) selected participants from Phase I.
-
-Ten (10) participants were selected to participate in Phase II – Virtual Vignettes for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. Participant names are listed below in alphabetical order:
+The following eight (8) participants were selected to participate in Phase II – Virtual Vignettes for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant names are listed below in alphabetical order:
 
 1. ASEC, Inc.
 2. Codex Laboratories LLC
 3. Draper
 4. EpiSys Science, Inc.
-5. Exyn Technologies
-6. Heron Systems Inc.
-7. Indiana University-Bloomington
-8. Raytheon BBN Technologies
-9. Shield AI, Inc.
-10. TurbineOne, LLC
+5. Heron Systems Inc.
+6. Indiana University-Bloomington
+7. Raytheon BBN Technologies
+8. TurbineOne, LLC
 
 Earlier, twenty (20) participants were invited to present their Phase I White Paper concepts to the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge judging panel. Invited participant names are listed below in alphabetical order:
 
