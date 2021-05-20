@@ -223,21 +223,26 @@ description: >-
 
   Official responses to questions that have been received will be uploaded to beta.SAM.gov via Special Notice N0016420SNB14. View this beta.SAM posting [here](https://beta.sam.gov/opp/779a1cb55ace43ccb18f7bb11d0c8a7b/view?keywords=n0016421SNB14&sort=-relevance&index=opp&is_active=true&page=1).
 prizes: >-
-  The total prize purse is currently $250,000, which is expected to be paid out
-  in Phase II. The Government reserves the right, in its sole discretion and
-  subject to the availability of funds, to increase the prize purse up to
-  $1,000,000 during the execution of the challenge to be paid out in later
-  phases.
+  ##### Total Cash Prize Pool
 
 
-  **Prize Breakdown**
+  The total prize purse is increased to $750,000. The Government reserves the right, in its sole discretion and subject to the availability of funds, to increase the prize purse up to $1,000,000 during the execution of the challenge to be paid out in later phases.
+
+
+  ##### **Prize Breakdown**
 
 
   * Phase I – No prize purse
 
-  * Phase II – Prize purse up to $250,000 will be disbursed among the winners
+  * Phase II – A prize purse up to $250,000 will be disbursed to the participants who score above the minimum threshold requirements in the virtual scenarios. Payments will be made with disparity based on the participants’ placings.
 
-  * Phase III – No prize purse (subject to availability of funds; the Government expects the prize purse to increase to $500,000 for Phase III)
+    * Scenario 1:
+
+      ![Prize Breakdown Phase II Scenario 1]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-1-table.jpg "Prize Breakdown Phase II Scenario 1")
+    * Scenario 2:
+
+    The minimum threshold requirements will be set before the beginning of the virtual runs.
+  * Phase III – A prize purse up to $500,000 will be disbursed with disparity to the participants who score above the minimum threshold requirements in the live event in which their proposed solutions will integrate on the provided drones for time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion at the Muscatatuck Urban Training Center (MUTC).
 rules: >-
   **Eligibility Requirements** 
 
@@ -604,6 +609,8 @@ The total prize purse is increased to $750,000. The Government reserves the righ
 
     ![Prize Breakdown Phase II Scenario 1]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-1-table.jpg "Prize Breakdown Phase II Scenario 1")
   * Scenario 2:
+
+  ![Prize Breakdown Phase II Scenario 2](/assets/netlify-uploads/asium-crane-scenario-2-table-1-.jpg "Prize Breakdown Phase II Scenario 2")
 
   The minimum threshold requirements will be set before the beginning of the virtual runs.
 * Phase III – A prize purse up to $500,000 will be disbursed with disparity to the participants who score above the minimum threshold requirements in the live event in which their proposed solutions will integrate on the provided drones for time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion at the Muscatatuck Urban Training Center (MUTC).
