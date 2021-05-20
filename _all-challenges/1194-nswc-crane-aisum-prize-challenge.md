@@ -591,13 +591,23 @@ Official responses to questions that have been received will be uploaded to beta
 
 ### Prizes
 
-The total prize purse is currently $250,000, which is expected to be paid out in Phase II. The Government reserves the right, in its sole discretion and subject to the availability of funds, to increase the prize purse up to $1,000,000 during the execution of the challenge to be paid out in later phases.
+##### Total Cash Prize Pool
 
-**Prize Breakdown**
+The total prize purse is increased to $750,000. The Government reserves the right, in its sole discretion and subject to the availability of funds, to increase the prize purse up to $1,000,000 during the execution of the challenge to be paid out in later phases.
+
+##### **Prize Breakdown**
 
 * Phase I – No prize purse
-* Phase II – Prize purse up to $250,000 will be disbursed among the winners
-* Phase III – No prize purse (subject to availability of funds; the Government expects the prize purse to increase to $500,000 for Phase III)
+* Phase II – A prize purse up to $250,000 will be disbursed to the participants who score above the minimum threshold requirements in the virtual scenarios. Payments will be made with disparity based on the participants’ placings.
+
+  * Scenario 1:
+
+    ![Prize Breakdown Phase II Scenario 2]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-1-table.jpg "Prize Breakdown Phase II Scenario 2")
+  * Scenario 2:
+
+  ![Prize Breakdown Phase II Scenario 2]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-2-table.jpg "Prize Breakdown Phase II Scenario 2")
+
+Phase III – No prize purse (subject to availability of funds; the Government expects the prize purse to increase to $500,000 for Phase III)
 
 ### Rules
 
