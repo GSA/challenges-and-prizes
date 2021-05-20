@@ -602,10 +602,10 @@ The total prize purse is increased to $750,000. The Government reserves the righ
 
   * Scenario 1:
 
-    ![Prize Breakdown Phase II Scenario 2]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-1-table.jpg "Prize Breakdown Phase II Scenario 2")
+    ![Prize Breakdown Phase II Scenario 1]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-1-table.jpg "Prize Breakdown Phase II Scenario 1")
   * Scenario 2:
 
-  ![Prize Breakdown Phase II Scenario 2]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-2-table.jpg "Prize Breakdown Phase II Scenario 2")
+  ![Prize Breakdown Phase II Scenario 2]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-2-table-1-.jpg "Prize Breakdown Phase II Scenario 2")
 
 Phase III – No prize purse (subject to availability of funds; the Government expects the prize purse to increase to $500,000 for Phase III)
 
