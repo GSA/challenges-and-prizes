@@ -4,7 +4,7 @@ challenge-title: NSWC Crane AISUM Prize Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/nswc-crane-aisum-prize-challenge/
 challenge-id: "1194"
-status: closed
+status: open
 sidenav: true
 card-image: /assets/netlify-uploads/navalx-midwest-logo-resize.png
 agency-logo: /assets/netlify-uploads/sealnavy.png
@@ -13,7 +13,7 @@ tagline: Seeking AI algorithms to combine with Robotic Autonomous Systems for
 agency: Naval Surface Warfare Center – Crane, Division (NSWC-CR)
 partner-agencies-federal: Office of Naval Research Science and Technology (ONR),
   NavalX Midwest Tech Bridge
-total-prize-offered-cash: $250,000
+total-prize-offered-cash: $750,000
 type-of-challenge:
   - Ideas
   - Technology demonstration and hardware
@@ -26,20 +26,13 @@ challenge-manager: Derek Perry
 challenge-manager-email: derek.s.perry@navy.mil
 point-of-contact: derek.s.perry@navy.mil
 description: >-
-  Two (2) participants have decided to withdraw from Phase II of the Artificial
-  Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant
-  names are listed below in alphabetical order:
+  See the Prizes Section (Total Cash Prize Pool and Prize Breakdown) below for
+  the total prize purse increase and further detailed prize breakdown
+  information. See the Judging Section (Judging Criteria) below for further
+  detailed judging criteria for Phase II.
 
 
-  1. Exyn Technologies
-
-  2. Shield AI, Inc.
-
-
-  The government is continuing into Phase II with the remaining eight (8) selected participants from Phase I.
-
-
-  Ten (10) participants were selected to participate in Phase II – Virtual Vignettes for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. Participant names are listed below in alphabetical order:
+  The following eight (8) participants were selected to participate in Phase II – Virtual Vignettes for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant names are listed below in alphabetical order:
 
 
   1. ASEC, Inc.
@@ -50,17 +43,13 @@ description: >-
 
   4. EpiSys Science, Inc.
 
-  5. Exyn Technologies
+  5. Heron Systems Inc.
 
-  6. Heron Systems Inc.
+  6. Indiana University-Bloomington
 
-  7. Indiana University-Bloomington
+  7. Raytheon BBN Technologies
 
-  8. Raytheon BBN Technologies
-
-  9. Shield AI, Inc.
-
-  10. TurbineOne, LLC
+  8. TurbineOne, LLC
 
 
   Earlier, twenty (20) participants were invited to present their Phase I White Paper concepts to the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge judging panel. Invited participant names are listed below in alphabetical order:
@@ -234,21 +223,28 @@ description: >-
 
   Official responses to questions that have been received will be uploaded to beta.SAM.gov via Special Notice N0016420SNB14. View this beta.SAM posting [here](https://beta.sam.gov/opp/779a1cb55ace43ccb18f7bb11d0c8a7b/view?keywords=n0016421SNB14&sort=-relevance&index=opp&is_active=true&page=1).
 prizes: >-
-  The total prize purse is currently $250,000, which is expected to be paid out
-  in Phase II. The Government reserves the right, in its sole discretion and
-  subject to the availability of funds, to increase the prize purse up to
-  $1,000,000 during the execution of the challenge to be paid out in later
-  phases.
+  ##### Total Cash Prize Pool
 
 
-  **Prize Breakdown**
+  The total prize purse is increased to $750,000. The Government reserves the right, in its sole discretion and subject to the availability of funds, to increase the prize purse up to $1,000,000 during the execution of the challenge to be paid out in later phases.
+
+
+  ##### **Prize Breakdown**
 
 
   * Phase I – No prize purse
 
-  * Phase II – Prize purse up to $250,000 will be disbursed among the winners
+  * Phase II – A prize purse up to $250,000 will be disbursed to the participants who score above the minimum threshold requirements in the virtual scenarios. Payments will be made with disparity based on the participants’ placings.
 
-  * Phase III – No prize purse (subject to availability of funds; the Government expects the prize purse to increase to $500,000 for Phase III)
+    * Scenario 1:
+
+      ![Prize Breakdown Phase II Scenario 1]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-1-table-1-.jpg "Prize Breakdown Phase II Scenario 1")
+    * Scenario 2:
+
+    ![Prize Breakdown Phase II Scenario 2]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-2-table-1-.jpg "Prize Breakdown Phase II Scenario 2")
+
+    The minimum threshold requirements will be set before the beginning of the virtual runs.
+  * Phase III – A prize purse up to $500,000 will be disbursed with disparity to the participants who score above the minimum threshold requirements in the live event in which their proposed solutions will integrate on the provided drones for time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion at the Muscatatuck Urban Training Center (MUTC).
 rules: >-
   **Eligibility Requirements** 
 
@@ -384,10 +380,54 @@ judging: >-
   The Phase I Judging Criteria will evaluate the technical approach as it demonstrates appropriate, realistic, innovative, and cost-effective solution to resolve the problem statement.
 
 
-  The Phase II and Phase III Judging Criteria will evaluate time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion. 
-
-
   If multiple technologies of similar type or category are submitted, the review panel may choose the most advantageous solution(s) within each type or category to continue competing in the prize challenge. The Government selection will be based on a comparative evaluation of participants proposed solution. The Prize Selection Decision will be a subjective evaluation of all entries for each phase at completion of this challenge.
+
+
+  The Phase II Judging Criteria will evaluate:
+
+  Scenario 1
+
+
+  * Maneuver: Time to Complete 
+
+    * Time starts on drone entry, ends when drone lands or is otherwise collected after passing through the back door.
+  * Recon: Object Detection
+
+    * Drone will tally and report the number of defined objects of interest which were observed. 
+  * Collisions will be tracked in the simulation environment; they will be used as a score tiebreaker
+
+
+  Scenario 2
+
+
+  * Maneuver: Complete mapping and exit building
+
+    * Run ends when drone lands or is otherwise collected after passing through the back door. 
+  * Mapping: Produce map of internal space
+
+    * Produce a 3D model of the internal environment. Assessment of the quality/legibility of the map as a floorplan.
+  * Recon: Detect the humans
+
+    * Drone reports total number of humans within the search area.
+  * Recon: Place objects on map
+
+    * A score will be recorded if the objects which were detected (objects and humans) are located correctly and labeled on the provided map (within the correct quadrant of the correct room).
+  * Mapping: Area Coverage
+
+    * Number of rooms identifiable on produced map.
+  * Recon: Detect the defined objects
+
+    * The drone will report the number of objects it detected.
+  * Recon: Detect the humans; Identify combatant/non-combatant
+
+    * Drone identifies humans as either combatant or civilian. Combatants will be holding a broom, versus Civilians, which will not.
+  * *Collisions will be tracked in the simulation environment; they will be used as a score tiebreaker*
+
+
+  The subcategories within each scenario above are listed in priority order. However, some subcategories have the same weightings for score. Also, the difference in weighting between some sets of subcategories may not be linear (e.g. Priority 1 may be weighted 37% and Priority 2 may be weighted 27% while Priority 3 may be weighted 11% and Priority 4 may be weighted 9%).
+
+
+  The Phase III Judging Criteria will evaluate, time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion, in the live environment at MUTC. Further details will be coming at a later date. The Government selection will be based on a comparative evaluation of participants proposed solution. The Prize Selection Decision will be a subjective evaluation of all entries for each phase at completion of this challenge.
 how-to-enter: >-
   Entries for Phase I must be **submitted via email to Marissa Wagler at
   [marissa.wagler@navy.mil](mailto:marissa.wagler@navy.mil)** on 29 January 2021
@@ -436,25 +476,18 @@ how-to-enter: >-
 ---
 ### Description
 
-Two (2) participants have decided to withdraw from Phase II of the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant names are listed below in alphabetical order:
+See the Prizes Section (Total Cash Prize Pool and Prize Breakdown) below for the total prize purse increase and further detailed prize breakdown information. See the Judging Section (Judging Criteria) below for further detailed judging criteria for Phase II.
 
-1. Exyn Technologies
-2. Shield AI, Inc.
-
-The government is continuing into Phase II with the remaining eight (8) selected participants from Phase I.
-
-Ten (10) participants were selected to participate in Phase II – Virtual Vignettes for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. Participant names are listed below in alphabetical order:
+The following eight (8) participants were selected to participate in Phase II – Virtual Vignettes for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant names are listed below in alphabetical order:
 
 1. ASEC, Inc.
 2. Codex Laboratories LLC
 3. Draper
 4. EpiSys Science, Inc.
-5. Exyn Technologies
-6. Heron Systems Inc.
-7. Indiana University-Bloomington
-8. Raytheon BBN Technologies
-9. Shield AI, Inc.
-10. TurbineOne, LLC
+5. Heron Systems Inc.
+6. Indiana University-Bloomington
+7. Raytheon BBN Technologies
+8. TurbineOne, LLC
 
 Earlier, twenty (20) participants were invited to present their Phase I White Paper concepts to the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge judging panel. Invited participant names are listed below in alphabetical order:
 
@@ -565,13 +598,24 @@ Official responses to questions that have been received will be uploaded to beta
 
 ### Prizes
 
-The total prize purse is currently $250,000, which is expected to be paid out in Phase II. The Government reserves the right, in its sole discretion and subject to the availability of funds, to increase the prize purse up to $1,000,000 during the execution of the challenge to be paid out in later phases.
+##### Total Cash Prize Pool
 
-**Prize Breakdown**
+The total prize purse is increased to $750,000. The Government reserves the right, in its sole discretion and subject to the availability of funds, to increase the prize purse up to $1,000,000 during the execution of the challenge to be paid out in later phases.
+
+##### **Prize Breakdown**
 
 * Phase I – No prize purse
-* Phase II – Prize purse up to $250,000 will be disbursed among the winners
-* Phase III – No prize purse (subject to availability of funds; the Government expects the prize purse to increase to $500,000 for Phase III)
+* Phase II – A prize purse up to $250,000 will be disbursed to the participants who score above the minimum threshold requirements in the virtual scenarios. Payments will be made with disparity based on the participants’ placings.
+
+  * Scenario 1:
+
+    ![Prize Breakdown Phase II Scenario 1]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-1-table-1-.jpg "Prize Breakdown Phase II Scenario 1")
+  * Scenario 2:
+
+  ![Prize Breakdown Phase II Scenario 2]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-2-table-1-.jpg "Prize Breakdown Phase II Scenario 2")
+
+  The minimum threshold requirements will be set before the beginning of the virtual runs.
+* Phase III – A prize purse up to $500,000 will be disbursed with disparity to the participants who score above the minimum threshold requirements in the live event in which their proposed solutions will integrate on the provided drones for time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion at the Muscatatuck Urban Training Center (MUTC).
 
 ### Rules
 
@@ -664,9 +708,48 @@ The Technology Presentation and Technology Demonstration Results will be present
 
 The Phase I Judging Criteria will evaluate the technical approach as it demonstrates appropriate, realistic, innovative, and cost-effective solution to resolve the problem statement.
 
-The Phase II and Phase III Judging Criteria will evaluate time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion. 
-
 If multiple technologies of similar type or category are submitted, the review panel may choose the most advantageous solution(s) within each type or category to continue competing in the prize challenge. The Government selection will be based on a comparative evaluation of participants proposed solution. The Prize Selection Decision will be a subjective evaluation of all entries for each phase at completion of this challenge.
+
+The Phase II Judging Criteria will evaluate:
+
+Scenario 1
+
+* Maneuver: Time to Complete 
+
+  * Time starts on drone entry, ends when drone lands or is otherwise collected after passing through the back door.
+* Recon: Object Detection
+
+  * Drone will tally and report the number of defined objects of interest which were observed. 
+* Collisions will be tracked in the simulation environment; they will be used as a score tiebreaker
+
+Scenario 2
+
+* Maneuver: Complete mapping and exit building
+
+  * Run ends when drone lands or is otherwise collected after passing through the back door. 
+* Mapping: Produce map of internal space
+
+  * Produce a 3D model of the internal environment. Assessment of the quality/legibility of the map as a floorplan.
+* Recon: Detect the humans
+
+  * Drone reports total number of humans within the search area.
+* Recon: Place objects on map
+
+  * A score will be recorded if the objects which were detected (objects and humans) are located correctly and labeled on the provided map (within the correct quadrant of the correct room).
+* Mapping: Area Coverage
+
+  * Number of rooms identifiable on produced map.
+* Recon: Detect the defined objects
+
+  * The drone will report the number of objects it detected.
+* Recon: Detect the humans; Identify combatant/non-combatant
+
+  * Drone identifies humans as either combatant or civilian. Combatants will be holding a broom, versus Civilians, which will not.
+* *Collisions will be tracked in the simulation environment; they will be used as a score tiebreaker*
+
+The subcategories within each scenario above are listed in priority order. However, some subcategories have the same weightings for score. Also, the difference in weighting between some sets of subcategories may not be linear (e.g. Priority 1 may be weighted 37% and Priority 2 may be weighted 27% while Priority 3 may be weighted 11% and Priority 4 may be weighted 9%).
+
+The Phase III Judging Criteria will evaluate, time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion, in the live environment at MUTC. Further details will be coming at a later date. The Government selection will be based on a comparative evaluation of participants proposed solution. The Prize Selection Decision will be a subjective evaluation of all entries for each phase at completion of this challenge.
 
 ### How to Enter
 
