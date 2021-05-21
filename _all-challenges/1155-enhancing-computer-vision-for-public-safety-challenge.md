@@ -4,7 +4,7 @@ challenge-title: Enhancing Computer Vision for Public Safety Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/enhancing-computer-vision-for-public-safety-challenge/
 challenge-id: "1155"
-status: closed
+status: open
 sidenav: true
 card-image: /assets/netlify-uploads/challenge-logo-v2_computervision.340x161.png
 agency-logo: /assets/netlify-uploads/NIST_logo.png
