@@ -267,7 +267,7 @@ how-to-enter: >-
 **CONGRATULATIONS TO PHASE 2 WINNERS:** 
 
 * **Team iAI Tech-NJIT** (Innovative AI Technologies, LLC and New Jersey Institute of Technology): Phase 2 award ($6,000), CDVL Distribution Prize ($12,000), and Best in Show: Best Dataset Prize ($5,000)
-* **Team CalAster**: Phase 2 award ($6,000), CDVL Distribution Prize ($12,000), and Best in Show: Best Dataset Prize ($5,000)
+* **Team CalAster**: Phase 2 award ($6,000), CDVL Distribution Prize ($12,000), and Best in Show: Best in Show: Best Assessment Data Prize ($5,000)
 * **Team LIVE** (University of Texas): Phase 2 award ($6,000), CDVL Distribution Prize ($12,000)
 * **Team IUPUI** (University of Indiana Purdue University Indianapolis): Phase 2 award ($6,000), CDVL Distribution Prize ($12,000)
 * **Dr. Burak Ozer**: Phase 2 award ($6,000)
