@@ -25,12 +25,22 @@ challenge-manager-email: Jeremy.glenn@nist.gov
 point-of-contact: psprizes@nist.gov
 body-content-uploads: /assets/netlify-uploads/official-rules_computer-vision-challenge_08252020.pdf
 description: >-
-  **CONGRATUATIONS TO PHASE 1 WINNERS:** Team LIVE, Team IUPUI, Team iAI-NJIT,
-  CalAster, Trueface, and Burak Ozer. These teams are competing in the final
-  phase in May 2021; check the [challenge
-  website](https://pscompvischallenge.com/) for the latest information. For
-  questions related to this challenge, email us at
-  [psprizes@nist.gov](psprizes@nist.gov).
+  **CONGRATULATIONS TO PHASE 2 WINNERS:** 
+
+
+  * **Team iAI Tech-NJIT** (Innovative AI Technologies, LLC and New Jersey Institute of Technology): Phase 2 award ($6,000), CDVL Distribution Prize ($12,000), and Best in Show: Best Dataset Prize ($5,000)
+
+  * **Team CalAster**: Phase 2 award ($6,000), CDVL Distribution Prize ($12,000), and Best in Show: Best Dataset Prize ($5,000)
+
+  * **Team LIVE** (University of Texas): Phase 2 award ($6,000), CDVL Distribution Prize ($12,000)
+
+  * **Team IUPUI** (University of Indiana Purdue University Indianapolis): Phase 2 award ($6,000), CDVL Distribution Prize ($12,000)
+
+  * **Dr. Burak Ozer**: Phase 2 award ($6,000)
+
+
+  Check out the [challenge website](https://pscompvischallenge.com/) for the latest information or for questions related to this challenge, email us at [psprizes@nist.gov](psprizes@nist.gov).
+
 
   #### Overview
 
@@ -254,7 +264,15 @@ how-to-enter: >-
 ---
 ### Description
 
-**CONGRATUATIONS TO PHASE 1 WINNERS:** Team LIVE, Team IUPUI, Team iAI-NJIT, CalAster, Trueface, and Burak Ozer. These teams are competing in the final phase in May 2021; check the [challenge website](https://pscompvischallenge.com/) for the latest information. For questions related to this challenge, email us at [psprizes@nist.gov](psprizes@nist.gov).
+**CONGRATULATIONS TO PHASE 2 WINNERS:** 
+
+* **Team iAI Tech-NJIT** (Innovative AI Technologies, LLC and New Jersey Institute of Technology): Phase 2 award ($6,000), CDVL Distribution Prize ($12,000), and Best in Show: Best Dataset Prize ($5,000)
+* **Team CalAster**: Phase 2 award ($6,000), CDVL Distribution Prize ($12,000), and Best in Show: Best Dataset Prize ($5,000)
+* **Team LIVE** (University of Texas): Phase 2 award ($6,000), CDVL Distribution Prize ($12,000)
+* **Team IUPUI** (University of Indiana Purdue University Indianapolis): Phase 2 award ($6,000), CDVL Distribution Prize ($12,000)
+* **Dr. Burak Ozer**: Phase 2 award ($6,000)
+
+Check out the [challenge website](https://pscompvischallenge.com/) for the latest information or for questions related to this challenge, email us at [psprizes@nist.gov](psprizes@nist.gov).
 
 #### Overview
 
