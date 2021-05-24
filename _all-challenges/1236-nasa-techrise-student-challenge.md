@@ -56,3 +56,14 @@ $1,500 to 57 teams
 #### Non-monetary Prizes
 
 Flight Opportunity
+
+### Rules
+
+This is a challenge for SCHOOLS in the United States. United States public, private, and charter schools incorporated in and maintaining a primary place of business in the United States that serve students in the range of 6th to 12th grades are eligible to assemble a Team (or multiple Teams) and enter. Eligible schools include schools in the fifty United States, District of Columbia, U.S. Territories or Possessions, and schools operated by the U.S. for the children of American personnel overseas (excluding Department of Defense Dependents Schools and other schools considered a Federal entity) (eligible "Entrant"). Minimum 4 students per Team. No Maximum amount of students per Team. Proposals must be submitted by a Team Lead that is a teacher or employee of the school. Homeschools are not eligible to participate unless they are affiliated with a public, private or charter school that complies with the insurance requirements in the RULES.
+
+GRADES 6-12 
+SCHOOL CLASSES
+ GRADES 6-12 
+SCHOOL CLUBS
+ GRADES 6-12 
+SCHOOL TEAMS
