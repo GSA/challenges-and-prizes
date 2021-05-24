@@ -47,11 +47,11 @@ description: >-
   #### Key Dates
 
 
-  Challenge Launch: May 25, 2021
+  * Challenge Launch: May 25, 2021
 
-  Entries Open: August 18, 2021
+  * Entries Open: August 18, 2021
 
-  Entries Close: November 3, 2021
+  * Entries Close: November 3, 2021
 prizes: |-
   #### Total Cash Prize Pool
 
@@ -72,12 +72,16 @@ rules: United States public, private, and charter schools incorporated in and
   schools operated by the U.S. for the children of American personnel overseas
   (excluding Department of Defense Dependents Schools and other schools
   considered a Federal entity) (eligible "Entrant").
-judging: |-
-  25 Points: Originality of the light Experiment
-  25 Points: Quality of the Build Plan and Compliance with the Design Guidelines
-  25 Points: Impact on Education and/or Society
-  25 Points: Timeline Feasibility
-  5 Points: 5 Bonus Point Awarded if School is Title 1 Eligible
+judging: >-
+  * 25 Points: Originality of the light Experiment
+
+  * 25 Points: Quality of the Build Plan and Compliance with the Design Guidelines
+
+  * 25 Points: Impact on Education and/or Society
+
+  * 25 Points: Timeline Feasibility
+
+  * 5 Points: 5 Bonus Point Awarded if School is Title 1 Eligible
 how-to-enter: >-
   **STUDENTS**
 
