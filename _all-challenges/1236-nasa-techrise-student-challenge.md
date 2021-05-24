@@ -110,9 +110,9 @@ To enter this Fall, students will develop experiment ideas in teams and generate
 
 #### Key Dates
 
-Challenge Launch: May 25, 2021
-Entries Open: August 18, 2021
-Entries Close: November 3, 2021
+* Challenge Launch: May 25, 2021
+* Entries Open: August 18, 2021
+* Entries Close: November 3, 2021
 
 ### Prizes
 
@@ -134,11 +134,11 @@ United States public, private, and charter schools incorporated in and maintaini
 
 ### Judging Criteria
 
-25 Points: Originality of the light Experiment
-25 Points: Quality of the Build Plan and Compliance with the Design Guidelines
-25 Points: Impact on Education and/or Society
-25 Points: Timeline Feasibility
-5 Points: 5 Bonus Point Awarded if School is Title 1 Eligible
+* 25 Points: Originality of the light Experiment
+* 25 Points: Quality of the Build Plan and Compliance with the Design Guidelines
+* 25 Points: Impact on Education and/or Society
+* 25 Points: Timeline Feasibility
+* 5 Points: 5 Bonus Point Awarded if School is Title 1 Eligible
 
 ### How to Enter
 
