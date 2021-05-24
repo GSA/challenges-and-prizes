@@ -15,8 +15,8 @@ type-of-challenge:
   - Software and apps
   - Technology demonstration and hardware
   - Scientific
-submission-start: 2020/08/18
-submission-end: 2021/11/03
+submission-start: 2020/08/18 08:00 AM
+submission-end: 2021/11/03 5:00 PM
 fiscal-year: FY21
 legal-authority: America COMPETES Act
 challenge-manager: Danielle McCulloch
