@@ -10,7 +10,7 @@ card-image: /assets/netlify-uploads/challenge_gov_341x160.png
 agency-logo: /assets/netlify-uploads/717px-NASA_logo.png
 tagline: Design an experiment to test on a suborbital rocket or high-altitude balloon.
 agency: National Aeronautics and Space Administration (NASA)
-total-prize-offered-cash: 85,500
+total-prize-offered-cash: $85,500
 type-of-challenge:
   - Software and apps
   - Technology demonstration and hardware
