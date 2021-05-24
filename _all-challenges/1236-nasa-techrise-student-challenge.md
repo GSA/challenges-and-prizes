@@ -59,4 +59,24 @@ Flight Opportunity
 
 ### Rules
 
-United States public, private, and charter schools incorporated in and maintaining a primary place of business in the United States that serve students in the range of 6th to 12th grades are eligible to assemble a Team (or multiple Teams) and enter. Eligible schools include schools in the fifty United States, District of Columbia, U.S. Territories or Possessions, and schools operated by the U.S. for the children of American personnel overseas (excluding Department of Defense Dependents Schools and other schools considered a Federal entity) (eligible "Entrant").
+United States public, private, and charter schools incorporated in and maintaining a primary place of business in the United States that serve students in the range of 6th to 12th grades are eligible to assemble a Team (or multiple Teams) and enter. Eligible schools include schools in the fifty United States, District of Columbia, U.S. Territories or Possessions, and schools operated by the U.S. for the children of American personnel overseas (excluding Department of Defense Dependents Schools and other schools considered a Federal entity) (eligible "Entrant"). 
+
+### Judging Criteria
+
+25 Points: Originality of the light Experiment
+25 Points: Quality of the Build Plan and Compliance with the Design Guidelines
+25 Points: Impact on Education and/or Society
+25 Points: Timeline Feasibility
+5 Points: 5 Bonus Point Awarded if School is Title 1 Eligible
+
+### How to Enter
+
+**STUDENTS**
+Develop an experiment idea with your school team and fill out the questions on the proposal template. (Template released in August) Give your completed proposal to your teacher. 
+
+**TEACHERS/EDUCATORS**
+Coordinate with your students to submit their team proposal. Teachers can submit an unlimited amount of proposals, but please make sure each proposal is unique. 
+
+#### Submission URL
+
+Please send  your submissions to the following URL: <https://www.futureengineers.org/nasatechrise>
