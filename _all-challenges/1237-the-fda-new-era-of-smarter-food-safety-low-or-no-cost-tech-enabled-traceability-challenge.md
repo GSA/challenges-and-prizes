@@ -7,12 +7,9 @@ permalink: /challenge/low-or-no-cost-tech-enabled-traceability-challenge/
 challenge-id: "1237"
 status: open
 sidenav: false
-card-image: /assets/netlify-uploads/challenge.gov-ftc-challenge-logo_new-sized.png
+card-image: /assets/netlify-uploads/updated-ft-logo_341x160.png
 agency-logo: /assets/netlify-uploads/Food_and_Drug_Administration_logo.png
-tagline: On June 1st, the Office of Food Policy and Response and precisionFDA
-  will launch The FDA New Era of Smarter Food Safety Low- or No-Cost
-  Tech-Enabled Traceability Challenge, encouraging the development of solutions
-  that utilize affordable economic models.
+tagline: Your traceability solution could help bend the curve of foodborne illness.
 agency: Food and Drug Administration (FDA)
 external-url: https://go.usa.gov/xHSnC
 type-of-challenge:
