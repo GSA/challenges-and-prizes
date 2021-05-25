@@ -10,7 +10,7 @@ card-image: /assets/netlify-uploads/gafclogos_vertical.png
 agency-logo: /assets/netlify-uploads/SBA_logo.jpg
 tagline: Supporting Inclusive Innovation Ecosystem Builders
 agency: U.S. Small Business Administration
-external-url: www.sbir.gov/accelerators
+external-url: https://www.sbir.gov/accelerators
 total-prize-offered-cash: $5,250,000
 type-of-challenge:
   - Ideas
