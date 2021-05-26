@@ -6,7 +6,7 @@ permalink: /challenge/2021-gafc-and-sbir-catalyst-prize-competition/
 challenge-id: "1238"
 status: open
 sidenav: false
-card-image: /assets/netlify-uploads/gafclogos_vertical.png
+card-image: /assets/netlify-uploads/growth-accelerator-fund-competition-sbir-catalyst.png
 agency-logo: /assets/netlify-uploads/SBA_logo.jpg
 tagline: Supporting Inclusive Innovation Ecosystem Builders
 agency: U.S. Small Business Administration
