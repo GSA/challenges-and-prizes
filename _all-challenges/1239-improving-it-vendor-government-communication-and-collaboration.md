@@ -48,7 +48,7 @@ description: >-
   #### Key Dates
 
 
-  Thjs EPIC challenge will remain open until June 30, 2021.
+  This EPIC challenge will remain open until June 30, 2021.
 prizes: >-
   Monetary prize awards are not being offered as part of this Challenge.
 
@@ -140,7 +140,7 @@ The Office of Federal Procurement Policy (OFPP) in the Executive Office of the P
 
 #### Key Dates
 
-Thjs EPIC challenge will remain open until June 30, 2021.
+This EPIC challenge will remain open until June 30, 2021.
 
 ### Prizes
 
@@ -207,6 +207,6 @@ The Office of Management and Budget (OMB) will use the websites, mobile apps, ap
 
   The RFI will be open for responses for two weeks beginning May 12, 2021. At the close of the two-week RFI period, all submissions received via eBuy will be posted to this EPIC campaign on IdeaScale platform. As a result, all vendor submissions or ideas will be included in the vote, rank, and selection process facilitated in IdeaScale and ultimately reviewed by OMB and the ITVMO as a part of this challenge that concludes on June 30, 2021.
 
-  #### Submission URL 
+  #### Submission URL
 
   Please use the following URL to submit your responses: <https://ofpp.ideascalegov.com/>
