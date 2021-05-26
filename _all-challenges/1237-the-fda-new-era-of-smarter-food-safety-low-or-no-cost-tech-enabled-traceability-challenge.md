@@ -17,7 +17,7 @@ type-of-challenge:
   - Technology demonstration and hardware
   - Analytics, visualizations, algorithms
 submission-start: 2021/06/01 5:00 PM
-submission-end: 2021/07/30 11:59 PM
+submission-end: 2021/07/30 5:00 PM
 fiscal-year: FY21
 legal-authority: America COMPETES Act
 challenge-manager: Elaine Johanson
