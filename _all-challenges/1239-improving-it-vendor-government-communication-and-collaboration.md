@@ -6,7 +6,7 @@ permalink: /challenge/improving-it-vendor-and-government-communication-and-colla
 challenge-id: "1239"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/us-officeofmanagementandbudget-seal.jpg
+card-image: /assets/netlify-uploads/us-officeofmanagementandbudget-seal.png
 agency-logo: /assets/netlify-uploads/us-officeofmanagementandbudget-seal.jpg
 tagline: Help shape plans that support government-wide acquisition priorities
   and initiatives
