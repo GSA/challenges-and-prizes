@@ -20,6 +20,46 @@ fiscal-year: FY21
 legal-authority: Other
 challenge-manager: Curtina Smith
 challenge-manager-email: Curtina.o.smith@omb.eop.gov
+description: >-
+  The Office of Federal Procurement Policy (OFPP) in the Executive Office of the
+  President (EOP) is seeking EPIC - engaging procurement ideas to consider - as
+  they work with the new Administration on the President's Management Agenda
+  (PMA) and other key government-wide acquisition priorities and initiatives
+  focused on improving IT vendor and government communication and collaboration.
+
+
+  **Challenge Statement**:  The Federal government spends over $90 billion annually on information technology (IT). Currently, Federal agencies are conducting IT acquisitions independently and there is not a platform to share best practices, lessons learned, and expertise across the entire federal government. Furthermore, agencies pay varying amounts for the same IT products and services, conduct redundant acquisition activities, and enter agreements with different terms and conditions. In order to fully realize the benefits of coordinated buying approaches like category management, federal agencies need a shared voice to engage with the vendor community and effectively promote two-way communication and ongoing collaboration with IT vendors and suppliers, to include large and small businesses, throughout the acquisition lifecycle.
+
+
+  **Challenge Questions**: Of particular interest are epic ideas that address the following challenge questions:
+
+
+  * What mechanisms (i.e., tools, practices) can be used or created to engage industry in open, ongoing, and transparent dialogue about procurement issues and challenges? 
+
+  * How can the federal government effectively co-create requirements with industry? 
+
+  * How can we strengthen vendor and supplier relationships? 
+
+  * How can we improve communication with industry? 
+
+  * How can we promote a diverse federal IT marketplace?
+
+
+  #### Key Dates
+
+
+  Thjs EPIC challenge will remain open until June 30, 2021.
+prizes: >-
+  Monetary prize awards are not being offered as part of this Challenge.
+
+
+  #### Non-monetary Prizes
+
+
+  EPIC Opportunity: Selected ideas will be referred to the OMB created Information Technology Vendor Management Office (ITVMO) for potential incorporation into plans supporting Administration priorities and governmentwide vendor management initiatives. The ITVMO serves as a trusted independent advisor and advocate to help agencies buy common IT goods and services in compliance with procurement laws.
+
+
+  *Note: The ITVMO was created by OMB, in partnership with the General Services Administration (GSA), the National Aeronautics and Space Administration, the National Institutes of Health, and the Department of Defense to provide government-wide vendor relationship management services and to advance the Administration's priorities.*
 ---
 ### Description
 
@@ -41,7 +81,7 @@ Thjs EPIC challenge will remain open until June 30, 2021.
 
 ### Prizes
 
-No monetary prize awards are being offered as part of this Challenge.
+Monetary prize awards are not being offered as part of this Challenge.
 
 #### Non-monetary Prizes
 
