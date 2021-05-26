@@ -14,7 +14,7 @@ external-url: https://www.sbir.gov/accelerators
 total-prize-offered-cash: $5,250,000
 type-of-challenge:
   - Ideas
-submission-start: 2021/05/25 4:00 PM
+submission-start: 2021/05/26 4:00 PM
 submission-end: 2021/07/02 4:00 PM
 fiscal-year: FY21
 legal-authority: America COMPETES Act
