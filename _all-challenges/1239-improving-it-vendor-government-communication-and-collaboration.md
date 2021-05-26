@@ -83,3 +83,25 @@ The Office of Management and Budget (OMB) will use the websites, mobile apps, ap
   #### Judging Panel
 
   Ideas submitted will be reviewed, voted on, and refined (as appropriate) by the community.
+
+  #### Judging Criteria
+
+  Ideas will be refined by the authors and reviewed by OFPP and/or other experts for potential referral to the ITVMO for further consideration to incorporate into plans supporting government-wide priorities and government-wide acquisition initiatives.
+
+  ### How to Enter
+
+  #### How to Participate
+
+  * You must create an IdeaScale account and register to participate in the challenge here: <https://ofpp.ideascalegov.com/a/sso/login>
+  * As a registered participant (each, a “User”), you will then be able to participate in this epic campaign by submitting new ideas, commenting on ideas, and voting on ideas. 
+  * Once logged into <https://ofpp.ideascalegov.com/>, select the “Improving IT Vendor & Government Communication and Collaboration” EPIC Campaign link under “Active Campaigns” to view full details about the campaign.
+  * To submit a new idea, click the “Submit New Idea” button. After giving your idea a short title, you will be asked to tell us about your idea, why it’s important and what will accomplish.  
+  * You may also participate by commenting on existing ideas and voting for your favorite ideas. 
+
+  The most popular ideas will be voted on through the the IdeaScale platform, refined, and reviewed by OFPP and others with expertise for potential incorporation into plans supporting government-wide acquisition priorities and initiatives.
+
+  **Note**:  To complement this epic challenge, on May 12, 2021, the ITVMO released a Request for Information (RFI) entitled Improving IT Vendor & Government Communication and Collaboration that seeks ideas to promote two-way communication and ongoing collaboration with IT vendors and suppliers. The RFI and this epic challenge are part of the same opportunity. Interested parties may respond via eBuy to the RFI or through the IdeaScale platform. Parties do not need to submit ideas in both locations.
+  The RFI will be open for responses for two weeks beginning May 12, 2021. At the close of the two-week RFI period, all submissions received via eBuy will be posted to this EPIC campaign on IdeaScale platform. As a result, all vendor submissions or ideas will be included in the vote, rank, and selection process facilitated in IdeaScale and ultimately reviewed by OMB and the ITVMO as a part of this challenge that concludes on June 30, 2021.
+
+  5.B – Submission URL or Email
+  https://ofpp.ideascalegov.com/
