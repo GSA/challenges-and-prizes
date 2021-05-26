@@ -70,11 +70,11 @@ The Office of Management and Budget (OMB) will use the websites, mobile apps, ap
   * Users agree to hold OMB harmless from all legal and administrative claims to include associated expenses that may arise from any claims related to their Submission or its use.
   * OMB will not be responsible for any claims or complaints from third parties about any disputes of ownership regarding the ideas, technology, white papers, prototypes, or images in Submissions.
 
-  #### Eligibility Requirements 
+  #### Eligibility Requirements
 
   This challenge is open to Feds and non-Feds.
 
-  #### Terms & Conditions 
+  #### Terms & Conditions
 
   These [IdeaScale End User Terms and Conditions](https://support.ideascale.com/en/articles/682760-end-user-terms-and-conditions) (“Terms”) apply to your access to and use of the websites, mobile apps, applications, and other products and services (collectively, the “Services”) provided by IdeaScale, a California corporation, and any of its related, affiliated or subsidiary companies (collectively, “IdeaScale”). By accessing or using the Services, you indicate that you have read, understand and agree with the Terms and all IdeaScale rules and policies, including IdeaScale’s [Privacy Policy](https://support.ideascale.com/en/articles/682918-ideascale-privacy-policy). THESE TERMS CONTAIN DISCLAIMERS, PROVISIONS THAT LIMIT IDEASCALE’S LIABILITY TO YOU, AND PROVISONS THAT REQUIRE DISPUTES TO BE RESOLVED ON AN INDIVIDUAL BASIS. If you do not agree with these Terms, do not access or use the Services.
 
@@ -100,8 +100,10 @@ The Office of Management and Budget (OMB) will use the websites, mobile apps, ap
 
   The most popular ideas will be voted on through the the IdeaScale platform, refined, and reviewed by OFPP and others with expertise for potential incorporation into plans supporting government-wide acquisition priorities and initiatives.
 
-  **Note**:  To complement this epic challenge, on May 12, 2021, the ITVMO released a Request for Information (RFI) entitled Improving IT Vendor & Government Communication and Collaboration that seeks ideas to promote two-way communication and ongoing collaboration with IT vendors and suppliers. The RFI and this epic challenge are part of the same opportunity. Interested parties may respond via eBuy to the RFI or through the IdeaScale platform. Parties do not need to submit ideas in both locations.
+  **Note**:  To complement this epic challenge, on May 12, 2021, the ITVMO released a [Request for Information (RFI) entitled Improving IT Vendor & Government Communication and Collaboration](https://feedback.gsa.gov/jfe/form/SV_6WOMqkWX9ZRyxWm) that seeks ideas to promote two-way communication and ongoing collaboration with IT vendors and suppliers. The RFI and this epic challenge are part of the same opportunity. Interested parties may respond via eBuy to the RFI or through the IdeaScale platform. Parties do not need to submit ideas in both locations.
+
   The RFI will be open for responses for two weeks beginning May 12, 2021. At the close of the two-week RFI period, all submissions received via eBuy will be posted to this EPIC campaign on IdeaScale platform. As a result, all vendor submissions or ideas will be included in the vote, rank, and selection process facilitated in IdeaScale and ultimately reviewed by OMB and the ITVMO as a part of this challenge that concludes on June 30, 2021.
 
-  5.B – Submission URL or Email
-  https://ofpp.ideascalegov.com/
+  Submission URL 
+
+  Please use the following URL to submit your responses: <https://ofpp.ideascalegov.com/>
