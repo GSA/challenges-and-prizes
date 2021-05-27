@@ -14,7 +14,7 @@ agency: Office of Management and Budget (OMB), Office of Federal Procurement
   Policy (OFPP)
 type-of-challenge:
   - Ideas
-submission-start: 2021/06/02 10:00 AM
+submission-start: 2021/06/01 10:00 AM
 submission-end: 2021/06/30 11:59 PM
 fiscal-year: FY21
 legal-authority: Other
