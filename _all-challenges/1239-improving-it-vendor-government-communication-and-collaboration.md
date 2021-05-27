@@ -158,9 +158,9 @@ EPIC Opportunity: Selected ideas will be referred to the OMB created Informatio
 
 The Office of Management and Budget (OMB) will use the websites, mobile apps, applications, and other products and services (collectively, the “Services”) provided by IdeaScale, a California corporation, and any of its related, affiliated or subsidiary companies (collectively, “IdeaScale”) to host the OFPP Innovates IdeaScale community (collectively, the “Community”). OMB, or its designated partners, will issue challenges, questions, requests for feedback, calls for ideas (collectively, “Campaigns”) to the Community to promote communication, outreach, and dialogue on federal acquisition matters.
 
-* **Registration**. In order to participate in the Community, you must register for the Services or have been invited to the Services by IdeaScale or an IdeaScale Customer. As part of the registration process, we collect only the information needed to set up a Community account. This information includes your name, email address, and a password. We collect no other Personal Information about you other than that which you choose to provide as part of the registration process. 
-* OMB reserves the right for any reason to modify or close Campaigns at any time. 
-* Unless otherwise noted, Campaigns are issued to collect insight and is not a competition where prizes will be awarded. 
+* **Registration**. In order to participate in the Community you must register for the Services or have been invited to the Services by IdeaScale or an IdeaScale Customer. As part of the registration process, we collect only the information needed to set up a Community account. This information includes your name, email address, and a password. We collect no other Personal Information about you other than that which you choose to provide as part of the registration process.
+* OMB reserves the right for any reason to modify or close Campaigns at any time.
+* Unless otherwise noted, Campaigns are issued to collect insight and is not a competition where prizes will be awarded.
 * **User submissions**. Users may participate Campaigns by voting for an idea, posting ideas, comments, suggestions, graphics, photographs, video, or any other information, content, or materials (collectively "Submissions") to the Community. All users participating in Campaigns agree to the following:
 
   * Submissions are entirely voluntary, non-confidential, gratuitous, and non-committal.
