@@ -139,3 +139,9 @@ The Office of Management and Budget (OMB) will use the websites, mobile apps, ap
   #### Terms & Conditions 
 
   These [IdeaScale End User Terms and Conditions](https://support.ideascale.com/en/articles/682760-end-user-terms-and-conditions) (“Terms”) apply to your access to and use of the websites, mobile apps, applications, and other products and services (collectively, the “Services”) provided by IdeaScale, a California corporation, and any of its related, affiliated or subsidiary companies (collectively, “IdeaScale”). By accessing or using the Services, you indicate that you have read, understand and agree with the Terms and all IdeaScale rules and policies, including IdeaScale’s [Privacy Policy](https://support.ideascale.com/en/articles/682918-ideascale-privacy-policy). THESE TERMS CONTAIN DISCLAIMERS, PROVISIONS THAT LIMIT IDEASCALE’S LIABILITY TO YOU, AND PROVISIONS THAT REQUIRE DISPUTES TO BE RESOLVED ON AN INDIVIDUAL BASIS. If you do not agree with these Terms, do not access or use the Services.
+
+  ### Judging
+
+  #### Judging Panel
+
+  Ideas submitted will be voted on by the online crowdsourcing community hosted on the IdeaScale platform.
