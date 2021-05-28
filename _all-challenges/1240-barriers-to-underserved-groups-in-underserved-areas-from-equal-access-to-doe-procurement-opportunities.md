@@ -140,8 +140,17 @@ The Office of Management and Budget (OMB) will use the websites, mobile apps, ap
 
   These [IdeaScale End User Terms and Conditions](https://support.ideascale.com/en/articles/682760-end-user-terms-and-conditions) (“Terms”) apply to your access to and use of the websites, mobile apps, applications, and other products and services (collectively, the “Services”) provided by IdeaScale, a California corporation, and any of its related, affiliated or subsidiary companies (collectively, “IdeaScale”). By accessing or using the Services, you indicate that you have read, understand and agree with the Terms and all IdeaScale rules and policies, including IdeaScale’s [Privacy Policy](https://support.ideascale.com/en/articles/682918-ideascale-privacy-policy). THESE TERMS CONTAIN DISCLAIMERS, PROVISIONS THAT LIMIT IDEASCALE’S LIABILITY TO YOU, AND PROVISIONS THAT REQUIRE DISPUTES TO BE RESOLVED ON AN INDIVIDUAL BASIS. If you do not agree with these Terms, do not access or use the Services.
 
-  ### Judging
+### Judging
 
-  #### Judging Panel
+#### Judging Panel
 
-  Ideas submitted will be voted on by the online crowdsourcing community hosted on the IdeaScale platform.
+Ideas submitted will be voted on by the online crowdsourcing community hosted on the IdeaScale platform.
+
+### How to Enter
+
+**How to Participate**:
+
+* You must create an account and register to participate in the challenge here: <https://ofpp.ideascalegov.com/>
+* As a registered participant (each, a “User”), you will then be able to participate in the EPIC Campaign by submitting new ideas, commenting on ideas, and voting on ideas. 
+* Once logged into <https://ofpp.ideascalegov.com/>, select the Barriers to Underserved Groups In Underserved Areas from Equal Access to DOE Procurement Opportunities link under “Active Campaigns” to review full details about the challenge.
+* To submit a new idea, click the “Submit Idea” button. After giving your idea a short title, you will be asked to tell us about your idea or barrier and how it contributes to disparity or inequity in the federal marketplace.
