@@ -57,7 +57,7 @@ description: >-
 
   * January 12, 2021 - Phase 1 Opens for Registration & Submission
 
-  * May 28, 2021 - Phase 1 Registration Closes for U.S. & Other International Teams
+  * June 25, 2021 - Phase 1 Registration Closes for U.S. & Other International Teams
 
   * July 30, 2021 - Phase 1 Registration Closes for Canadian Teams
 
@@ -65,7 +65,7 @@ description: >-
 
   * September 2021 - Phase 1 Winner(s) Announced
 prizes: >-
-  <https://www.deepspacefoodchallenge.org>**Total Cash Prize Pool**
+  **Total Cash Prize Pool**
 
 
   Phase 1 of the Deep Space Food Challenge is a prize competition with a total prize purse made up of $500,000 USD, (five hundred thousand United States dollars) and $300,000 CAD (three hundred thousand Canadian dollars) to be awarded to competitor teams for the design of novel food production technologies for long duration space exploration missions.
@@ -141,6 +141,8 @@ how-to-enter: "All interested Teams will register for the Challenge by the
   ([www.deepspacefoodchallenge.org](https://www.deepspacefoodchallenge.org)) for
   a full description of the registration process and eligibility requirements."
 ---
+**\*\* NOTE: The registration deadline for U.S. and other international teams has been extended to June 25, 2021 \*\***
+
 ### Description
 
 The Deep Space Food Challenge seeks to create novel food production technologies or systems that require minimal inputs and maximize safe, nutritious, and palatable food outputs for long-duration space missions, and which has a potential to benefit people on Earth.
@@ -161,7 +163,7 @@ Additionally, food insecurity is a significant, chronic problem on Earth in both
 **Key Dates**
 
 * January 12, 2021 - Phase 1 Opens for Registration & Submission
-* May 28, 2021 - Phase 1 Registration Closes for U.S. & Other International Teams
+* June 25, 2021 - Phase 1 Registration Closes for U.S. & Other International Teams
 * July 30, 2021 - Phase 1 Registration Closes for Canadian Teams
 * July 30, 2021 - Phase 1 Submissions Due for all Teams
 * September 2021 - Phase 1 Winner(s) Announced
