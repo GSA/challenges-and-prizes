@@ -9,9 +9,8 @@ status: open
 sidenav: true
 card-image: /assets/netlify-uploads/webp.net-resizeimage-23-.png
 agency-logo: /assets/netlify-uploads/webp.net-resizeimage-23-.png
-tagline: Help shape plans that support government-wide acquisition priorities
-  and initiatives with an emphasis on science and research procurements and
-  Department of Energy (DOE) procurement opportunities.
+tagline: With an emphasis on science and research procurements and Department of
+  Energy (DOE) procurement opportunities.
 agency: Office of Management and Budget (OMB), Office of Federal Procurement
   Policy (OFPP)
 partner-agencies-federal: U.S. Department of Energy
