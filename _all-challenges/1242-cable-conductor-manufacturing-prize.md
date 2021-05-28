@@ -8,10 +8,8 @@ status: open
 sidenav: true
 card-image: /assets/netlify-uploads/amc-advmfg-cableprizeheroxgraphic-withtext-fy21-jfrenzl.jpg
 agency-logo: /assets/netlify-uploads/256px-Seal_of_the_United_States_Department_of_Energy.png
-tagline: Help electrify innovation; join the CABLE Prize challenge today! The
-  three-stage, three-year contest offers up to $4.5-million in cash prizes, and
-  encourages researchers and inventors to develop and manufacture breakthrough
-  conductivity-enhanced materials.
+tagline: "Help electrify innovation! The three-stage CABLE Conductor
+  Manufacturing Prize offers up to $4.5-million in cash prizes. Learn more!   "
 agency: U.S. Department of Energy
 total-prize-offered-cash: $4,500,000
 type-of-challenge:
