@@ -132,13 +132,13 @@ The Office of Management and Budget (OMB) will use the websites, mobile apps, ap
   * Users agree to hold OMB harmless from all legal and administrative claims to include associated expenses that may arise from any claims related to their Submission or its use.
   * OMB will not be responsible for any claims or complaints from third parties about any disputes of ownership regarding the ideas, technology, white papers, prototypes, or images in Submissions.
 
-  #### Eligibility Requirements
+#### Eligibility Requirements
 
-  This challenge is open to all.
+This challenge is open to all.
 
-  #### Terms & Conditions
+#### Terms & Conditions
 
-  These [IdeaScale End User Terms and Conditions](https://support.ideascale.com/en/articles/682760-end-user-terms-and-conditions) (“Terms”) apply to your access to and use of the websites, mobile apps, applications, and other products and services (collectively, the “Services”) provided by IdeaScale, a California corporation, and any of its related, affiliated or subsidiary companies (collectively, “IdeaScale”). By accessing or using the Services, you indicate that you have read, understand and agree with the Terms and all IdeaScale rules and policies, including IdeaScale’s [Privacy Policy](https://support.ideascale.com/en/articles/682918-ideascale-privacy-policy). THESE TERMS CONTAIN DISCLAIMERS, PROVISIONS THAT LIMIT IDEASCALE’S LIABILITY TO YOU, AND PROVISIONS THAT REQUIRE DISPUTES TO BE RESOLVED ON AN INDIVIDUAL BASIS. If you do not agree with these Terms, do not access or use the Services.
+These [IdeaScale End User Terms and Conditions](https://support.ideascale.com/en/articles/682760-end-user-terms-and-conditions) (“Terms”) apply to your access to and use of the websites, mobile apps, applications, and other products and services (collectively, the “Services”) provided by IdeaScale, a California corporation, and any of its related, affiliated or subsidiary companies (collectively, “IdeaScale”). By accessing or using the Services, you indicate that you have read, understand and agree with the Terms and all IdeaScale rules and policies, including IdeaScale’s [Privacy Policy](https://support.ideascale.com/en/articles/682918-ideascale-privacy-policy). THESE TERMS CONTAIN DISCLAIMERS, PROVISIONS THAT LIMIT IDEASCALE’S LIABILITY TO YOU, AND PROVISIONS THAT REQUIRE DISPUTES TO BE RESOLVED ON AN INDIVIDUAL BASIS. If you do not agree with these Terms, do not access or use the Services.
 
 ### Judging
 
