@@ -10,7 +10,8 @@ sidenav: true
 card-image: /assets/netlify-uploads/webp.net-resizeimage-23-.png
 agency-logo: /assets/netlify-uploads/webp.net-resizeimage-23-.png
 tagline: Help shape plans that support government-wide acquisition priorities
-  and initiatives
+  and initiatives with an emphasis on science and research procurements and
+  Department of Energy (DOE) procurement opportunities.
 agency: Office of Management and Budget (OMB), Office of Federal Procurement
   Policy (OFPP)
 partner-agencies-federal: U.S. Department of Energy
@@ -122,7 +123,7 @@ how-to-enter: >-
 
   * As a registered participant (each, a “User”), you will then be able to participate in the EPIC Campaign by submitting new ideas, commenting on ideas, and voting on ideas. 
 
-  * Once logged into <https://ofpp.ideascalegov.com/>, select the Barriers to Underserved Groups In Underserved Areas from Equal Access to DOE Procurement Opportunities link under “Active Campaigns” to review full details about the challenge.
+  * Once logged into <https://ofpp.ideascalegov.com/>, select the Barriers Among Underserved Groups In Underserved Areas from Equal Access to Federal Procurement Opportunities link under “Active Campaigns” to review full details about the challenge.
 
   * To submit a new idea, click the “Submit Idea” button. After giving your idea a short title, you will be asked to tell us about your idea or barrier and how it contributes to disparity or inequity in the federal marketplace.
 
@@ -208,7 +209,7 @@ Ideas submitted will be voted on by the online crowdsourcing community hosted on
 
 * You must create an account and register to participate in the challenge here: <https://ofpp.ideascalegov.com/>
 * As a registered participant (each, a “User”), you will then be able to participate in the EPIC Campaign by submitting new ideas, commenting on ideas, and voting on ideas. 
-* Once logged into <https://ofpp.ideascalegov.com/>, select the Barriers to Underserved Groups In Underserved Areas from Equal Access to DOE Procurement Opportunities link under “Active Campaigns” to review full details about the challenge.
+* Once logged into <https://ofpp.ideascalegov.com/>, select the Barriers Among Underserved Groups In Underserved Areas from Equal Access to Federal Procurement Opportunities link under “Active Campaigns” to review full details about the challenge.
 * To submit a new idea, click the “Submit Idea” button. After giving your idea a short title, you will be asked to tell us about your idea or barrier and how it contributes to disparity or inequity in the federal marketplace.
 
 #### Submission URL
