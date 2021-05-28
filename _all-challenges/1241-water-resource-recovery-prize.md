@@ -4,7 +4,7 @@ challenge-title: Water Resource Recovery Prize
 layout: front-matter-data-markdownify-content
 permalink: /challenge/water-resource-recovery-prize/
 challenge-id: "1241"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/114562_4a00_adv_manuf_water_resource_prize_fy20_ringer_web.jpg
 agency-logo: /assets/netlify-uploads/256px-Seal_of_the_United_States_Department_of_Energy.png
