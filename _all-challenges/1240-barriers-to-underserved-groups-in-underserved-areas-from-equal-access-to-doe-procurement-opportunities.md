@@ -64,6 +64,17 @@ description: >-
 
 
   The crowdsourcing campaign will remain open from June 1 to June 15, 2021.
+prizes: >-
+  Monetary prize awards are not being offered as part of this Challenge.
+
+
+  #### Non-monetary Prizes
+
+
+  By participating in this challenge, you will contribute to the list of barriers that will be used by DOE and OFPP to inform future plans to dismantle obstacles embedded in the federal acquisition system in order to promote equity in the federal marketplace. 
+
+
+  You will also have a share in supporting the Department of Energy and OFPP's work related to the Executive Order 13985 Advancing Racial Equity and Support for Underserved Communities Through the Federal Government.
 ---
 ### Description
 
@@ -91,4 +102,12 @@ In order to remedy inequities in access and opportunity for historically underse
 
 The crowdsourcing campaign will remain open from June 1 to June 15, 2021.
 
-Prizes
+### Prizes
+
+Monetary prize awards are not being offered as part of this Challenge.
+
+#### Non-monetary Prizes
+
+By participating in this challenge, you will contribute to the list of barriers that will be used by DOE and OFPP to inform future plans to dismantle obstacles embedded in the federal acquisition system in order to promote equity in the federal marketplace. 
+
+You will also have a share in supporting the Department of Energy and OFPP's work related to the Executive Order 13985 Advancing Racial Equity and Support for Underserved Communities Through the Federal Government.
