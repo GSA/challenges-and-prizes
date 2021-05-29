@@ -17,8 +17,8 @@ agency: U.S. Department of Energy
 total-prize-offered-cash: Up to $1,000,000
 type-of-challenge:
   - Technology demonstration and hardware
-submission-start: 2020/01/29 11:00AM
-submission-end: 2020/05/28/2020 5:00 PM
+submission-start: 01/29/2020 11:00AM
+submission-end: 05/28/2020 5:00 PM
 fiscal-year: FY20
 legal-authority: Agency specific prize authority
 challenge-manager: Libby Arnold
