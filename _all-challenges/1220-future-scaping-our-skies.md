@@ -4,7 +4,7 @@ challenge-title: Future-Scaping Our Skies
 layout: front-matter-data-markdownify-content
 permalink: /challenge/future-scaping-our-skies/
 challenge-id: "1220"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/futurescaping.jpg
 agency-logo: /assets/netlify-uploads/717px-NASA_logo.png
@@ -15,8 +15,8 @@ external-url: https://www.herox.com/FutureScaping
 total-prize-offered-cash: $21,000
 type-of-challenge:
   - Ideas
-submission-start: 2021/04/02 9:00 AM
-submission-end: 2021/05/31 8:00 PM
+submission-start: 04/02/2021 9:00 AM
+submission-end: 05/31/2021 8:00 PM
 fiscal-year: FY21
 legal-authority: Procurement Authority
 challenge-manager: "Vikram Shyam (Submitted by: Sarah Schlieder)"
