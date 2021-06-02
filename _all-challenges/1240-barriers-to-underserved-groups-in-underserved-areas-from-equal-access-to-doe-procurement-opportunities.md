@@ -118,7 +118,7 @@ how-to-enter: >-
   **How to Participate**:
 
 
-  * You must create an account and register to participate in the challenge here: <https://ofpp.ideascalegov.com/>
+  * You must create an account and register to participate in the challenge here: <https://ofpp.ideascalegov.com/a/sso/login>
 
   * As a registered participant (each, a “User”), you will then be able to participate in the EPIC Campaign by submitting new ideas, commenting on ideas, and voting on ideas. 
 
@@ -206,7 +206,7 @@ Ideas submitted will be voted on by the online crowdsourcing community hosted on
 
 **How to Participate**:
 
-* You must create an account and register to participate in the challenge here: <https://ofpp.ideascalegov.com/>
+* You must create an account and register to participate in the challenge here: <https://ofpp.ideascalegov.com/a/sso/login>
 * As a registered participant (each, a “User”), you will then be able to participate in the EPIC Campaign by submitting new ideas, commenting on ideas, and voting on ideas. 
 * Once logged into <https://ofpp.ideascalegov.com/>, select the Barriers Among Underserved Groups In Underserved Areas from Equal Access to Federal Procurement Opportunities link under “Active Campaigns” to review full details about the challenge.
 * To submit a new idea, click the “Submit Idea” button. After giving your idea a short title, you will be asked to tell us about your idea or barrier and how it contributes to disparity or inequity in the federal marketplace.
