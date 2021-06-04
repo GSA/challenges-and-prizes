@@ -250,6 +250,111 @@ rules: >-
 
 
   If any provision of this challenge is held to be invalid or unenforceable under applicable federal law, it will not affect the validity or enforceability of the remainder of the terms and conditions of this challenge.
+judging: >-
+  **Assessment Criteria and Simulation Environment**
+
+
+  We seek innovative technologies to optimize networks operating in dynamic, low-capacity environments. This challenge focuses on low overhead routing protocols. Participants should generalize their approaches since all technologies will be tested and evaluated beyond the SBE, in higher fidelity and operationally relevant environments. At a minimum, the routing protocol should support User Datagram Protocol (UDP) unicast flows and Transmission Control Protocol (TCP) flows. Support for UDP multicast is desired, but not necessary for this challenge. In the following sections we describe the assessment criteria and the provided SBE. 
+
+
+  **Assessment Criteria – NetANTX Challenge Invitations** 
+
+
+  Conforming white paper and quad chart submissions will be evaluated by a panel of qualified networking experts using the following criteria which is in descending order of importance:
+
+
+  * Operational impact of the technology/engineering innovation in the intended mission scenarios and operational environment
+
+  * Estimated technical performance (weighted network goodput; network overhead; end-to-end network latency) of the technology/engineering innovation
+
+  * Integration complexity of the technology/engineering innovation
+
+  * Technical maturity of the technology/engineering innovation
+
+
+  When conducting the assessment, the Government reserves the right to take other significant factors as required into consideration, such as:
+
+
+  * Limitations to use due to Intellectual Property ownership
+
+  * Ease of fielding the technology in existing legacy Naval platforms (e.g. solution that requires many large software dependencies or are require significant compute/memory resources, or that run on very specific hardware architectures would be viewed less favorably).
+
+  * Required out-of-band information needed for the networking technology to operate
+
+
+  Based on this initial assessment of the white papers and quad charts, participants will be invited to participate in the Challenge. Selected participants will be notified via email communication and will receive invitations to the Challenge question and answer (Q&A) Sessions and iRIL Integration Workshops. 
+
+
+  **Assessment Criteria – Prize Challenge**
+
+
+  Challenge participants will be evaluated throughout iRIL Integration Workshops and Challenge demonstrations by a panel of qualified networking experts and using the following criteria which is in descending order of importance:
+
+
+  * Operational impact of the technology/engineering innovation in the intended mission scenarios and operational environment
+
+  * Technical performance – Network Overhead
+
+  * Technical performance – Total network goodput
+
+  * Technical performance – Average End-to-end latency and network convergence time after topology changes
+
+  * Integration complexity of the technology/engineering innovation
+
+  * Technical maturity of the technology/engineering innovation
+
+
+  Goodput is defined as the fraction of available capacity that is used to deliver application traffic, and implicitly factors in the overhead consumed by the routing protocol.
+
+
+  End-to-end latency is defined as the average transit time of packets for the duration of a flow over the network. 
+
+
+  Network convergence time is defined as the time taken to successfully route a packet after a network topology change.
+
+
+  **iRIL Simulation Environment**
+
+
+  Participants will be provided a virtual machine (VM) which contains the SBE. The iRIL uses a group of Linux containers connected to a network simulator, hosted on a virtual machine (VM). The test scenario will be scripted in the simulator, which will determine connectivity, link latency and link loss rates at any given time. Participants do not need a detailed understanding of the network simulator beyond how to start, stop and reset the scenario. The simulator will provide real-time feedback about the network connectivity and performance metrics. This feedback is for ease of observability and should not be used by the routing technology.
+
+
+  Submitted technologies must be compatible with Linux Centos7 which will host the network simulator. Technologies will be run within Centos7 containers in the VM. The operating systems will have the following additional user software installed as a baseline:
+
+
+  * Free Range Routing (FRR) 
+
+
+  The routing agents must be Linux VM compatible (e.g., a GUI, console, or powershell using standard Linux installation procedures). Documentation inclusive of installation procedures should also be provided when submitting the tool, in accordance with the tool submission guidelines provided above. Participants may install additional software within the containers, as long as it is included in the submission package.
+
+
+  Additionally, the scenario will contain a set of application traffic flows that will start and stop automatically as the scenario progresses.
+
+
+  The iRIL platform used at NetANTX includes monitoring, visualizations and metrics tracking, and participants do not need to dedicate resources to provide this functionality.
+
+
+  Technologies that require specific hardware, proprietary components, or on-premises management appliances or consoles will not be considered.
+
+
+  **Prize Award Details**
+
+
+  Winners will be announced at the conclusion of the Challenge event. NAVWAR will also announce the winners on the Challenge.gov website, the NAVWAR LinkedIN page, media outlets, and social media channels.
+
+
+  NAVWAR has established $100,000 as the total amount set aside for cash prizes under this Challenge. A $75,000 first place cash prize will be awarded to the winning entry. $25,000 second and third place cash prizes will also be awarded. In the unlikely event of a tie, NAVWAR will determine an equitable method of distributing the cash prizes. 
+
+
+  There is potential for follow-on funded opportunities depending on applicability and ease of transition of the technology. If a prize goes to a team of participants, NAVWAR will award the cash prize to the individual/team’s point of contact registered via the challenge website, for further distribution to the team, as the team members see fit.
+how-to-enter: >-
+  #### Entry Instructions
+
+
+  See Rules.
+
+
+  Submission URL or Email: Please submit entries to the following email address: [NetANTX@niwc.navy.mil](mailto:NetANTX@niwc.navy.mil)
 ---
 ### Description
 
@@ -404,3 +509,75 @@ Because of the number of anticipated challenge entries, NAVWAR cannot and will n
 NAVWAR may update the terms of the challenge from time to time without notice. Participants are strongly encouraged to check the website frequently.
 
 If any provision of this challenge is held to be invalid or unenforceable under applicable federal law, it will not affect the validity or enforceability of the remainder of the terms and conditions of this challenge.
+
+### Judging Criteria
+
+**Assessment Criteria and Simulation Environment**
+
+We seek innovative technologies to optimize networks operating in dynamic, low-capacity environments. This challenge focuses on low overhead routing protocols. Participants should generalize their approaches since all technologies will be tested and evaluated beyond the SBE, in higher fidelity and operationally relevant environments. At a minimum, the routing protocol should support User Datagram Protocol (UDP) unicast flows and Transmission Control Protocol (TCP) flows. Support for UDP multicast is desired, but not necessary for this challenge. In the following sections we describe the assessment criteria and the provided SBE. 
+
+**Assessment Criteria – NetANTX Challenge Invitations** 
+
+Conforming white paper and quad chart submissions will be evaluated by a panel of qualified networking experts using the following criteria which is in descending order of importance:
+
+* Operational impact of the technology/engineering innovation in the intended mission scenarios and operational environment
+* Estimated technical performance (weighted network goodput; network overhead; end-to-end network latency) of the technology/engineering innovation
+* Integration complexity of the technology/engineering innovation
+* Technical maturity of the technology/engineering innovation
+
+When conducting the assessment, the Government reserves the right to take other significant factors as required into consideration, such as:
+
+* Limitations to use due to Intellectual Property ownership
+* Ease of fielding the technology in existing legacy Naval platforms (e.g. solution that requires many large software dependencies or are require significant compute/memory resources, or that run on very specific hardware architectures would be viewed less favorably).
+* Required out-of-band information needed for the networking technology to operate
+
+Based on this initial assessment of the white papers and quad charts, participants will be invited to participate in the Challenge. Selected participants will be notified via email communication and will receive invitations to the Challenge question and answer (Q&A) Sessions and iRIL Integration Workshops. 
+
+**Assessment Criteria – Prize Challenge**
+
+Challenge participants will be evaluated throughout iRIL Integration Workshops and Challenge demonstrations by a panel of qualified networking experts and using the following criteria which is in descending order of importance:
+
+* Operational impact of the technology/engineering innovation in the intended mission scenarios and operational environment
+* Technical performance – Network Overhead
+* Technical performance – Total network goodput
+* Technical performance – Average End-to-end latency and network convergence time after topology changes
+* Integration complexity of the technology/engineering innovation
+* Technical maturity of the technology/engineering innovation
+
+Goodput is defined as the fraction of available capacity that is used to deliver application traffic, and implicitly factors in the overhead consumed by the routing protocol.
+
+End-to-end latency is defined as the average transit time of packets for the duration of a flow over the network. 
+
+Network convergence time is defined as the time taken to successfully route a packet after a network topology change.
+
+**iRIL Simulation Environment**
+
+Participants will be provided a virtual machine (VM) which contains the SBE. The iRIL uses a group of Linux containers connected to a network simulator, hosted on a virtual machine (VM). The test scenario will be scripted in the simulator, which will determine connectivity, link latency and link loss rates at any given time. Participants do not need a detailed understanding of the network simulator beyond how to start, stop and reset the scenario. The simulator will provide real-time feedback about the network connectivity and performance metrics. This feedback is for ease of observability and should not be used by the routing technology.
+
+Submitted technologies must be compatible with Linux Centos7 which will host the network simulator. Technologies will be run within Centos7 containers in the VM. The operating systems will have the following additional user software installed as a baseline:
+
+* Free Range Routing (FRR) 
+
+The routing agents must be Linux VM compatible (e.g., a GUI, console, or powershell using standard Linux installation procedures). Documentation inclusive of installation procedures should also be provided when submitting the tool, in accordance with the tool submission guidelines provided above. Participants may install additional software within the containers, as long as it is included in the submission package.
+
+Additionally, the scenario will contain a set of application traffic flows that will start and stop automatically as the scenario progresses.
+
+The iRIL platform used at NetANTX includes monitoring, visualizations and metrics tracking, and participants do not need to dedicate resources to provide this functionality.
+
+Technologies that require specific hardware, proprietary components, or on-premises management appliances or consoles will not be considered.
+
+**Prize Award Details**
+
+Winners will be announced at the conclusion of the Challenge event. NAVWAR will also announce the winners on the Challenge.gov website, the NAVWAR LinkedIN page, media outlets, and social media channels.
+
+NAVWAR has established $100,000 as the total amount set aside for cash prizes under this Challenge. A $75,000 first place cash prize will be awarded to the winning entry. $25,000 second and third place cash prizes will also be awarded. In the unlikely event of a tie, NAVWAR will determine an equitable method of distributing the cash prizes. 
+
+There is potential for follow-on funded opportunities depending on applicability and ease of transition of the technology. If a prize goes to a team of participants, NAVWAR will award the cash prize to the individual/team’s point of contact registered via the challenge website, for further distribution to the team, as the team members see fit.
+
+### How to Enter
+
+#### Entry Instructions
+
+See Rules.
+
+Submission URL or Email: Please submit entries to the following email address: <NetANTX@niwc.navy.mil>
