@@ -75,6 +75,181 @@ description: >-
   * Prize Challenge Board Deliberations					November 5, 2021
 
   * Announce Prize Challenge Winners 					November 10, 2021
+prizes: |-
+  #### Total Cash Prize Pool
+
+  $100,000
+
+  #### Prize Breakdown
+
+  * $75,000 First Prize
+  * $25,000 Second Prize
+rules: >-
+  **General**
+
+
+  Each participant (individual participant, team of participants, commercial, Government, or academic entity) may submit one entry in response to this challenge. Team entries or commercial entity entries must have an individual identified as the primary point of contact and prize recipient. By submitting an entry, a participant authorizes his or her name and organization to be released to the media if the participant wins the prize.
+
+
+  The entry submission package must include:
+
+
+  * white paper that clearly describes the networking technology to be considered
+
+  * quad chart where all content such as text, pictures, diagrams, etc. are provided pre-approved for public release 
+
+
+  In order for an entry to be considered, a white paper must be submitted no later than July 27, 2021, in accordance with the below submission guidelines.
+
+
+  Each entry will be initially assessed utilizing the criteria set forth under the section, **Assessment Criteria – NetANTX Challenge Invitations.** Following initial assessment, Participants may be invited to advance to the second assessment in the Challenge.
+
+
+  If invited to advance, participants will be required to submit the networking technology described in the initial white paper and quad chart no later than October 22, 2021. The networking technology will be assessed per **Assessment Criteria – Prize Challenge** during presentation and demonstration November 4, 2021.
+
+
+  In the event the submission package does not include the sufficient level of detail to assess technical approach, or other, the Government team may request clarification throughout the evaluation.
+
+
+  Instructions for classified submissions may be requested via [NetAntx@niwc.navy.mil](mailto:NetAntx@niwc.navy.mil). 
+
+
+  **White Paper Submission Guidelines:**
+
+
+  White papers should provide an overview of the proposed networking technology, technical approach (e.g. architecture, deployment overview, algorithm descriptions, model descriptions, performance requirements, endpoint footprint, existing results, etc.), the benefits and novelty of the approach within the context of existing academic and commercially available technologies, and the dependencies necessary (e.g. data, platform, network connectivity, etc.) to operate the proposed technology. White papers must be no more than six pages in length and in conformance with the white paper submission instructions provided in Appendix A. All white papers must be submitted via email to: [NetANTX@niwc.navy.mil](mailto:NetANTX@niwc.navy.mil) by 1200 PST July 27, 2021. 
+
+
+  Where appropriate, use protective markings such as “Do Not Publicly Release – Trade Secret” or “Do Not Publicly Release – Confidential Proprietary Business Information” in the header or footer of the white paper.
+
+
+  **Quad Chart Submission Guidelines**:
+
+
+  Quad charts shall be submitted in accordance with the quad chart template provided as Appendix B with all content (text, graphics, pictures, etc.) pre-approved for public release. The Challenge team may use portions of the submitted content for event planning, reports, and for external communication materials. 
+
+  Networking Technology Submission Guidelines:
+
+  Upon selection, invited participants will be provided a simulation-based environment (SBE) to integrate their proposed network technology.
+
+
+  **Networking Technology submissions will include**:
+
+
+  * The virtual machine (VM) image with the provided SBE
+
+    * The networking technology should be installed, along with all dependencies, in designated Linux containers
+    * The VM image should be in Open Virtualization Appliance (OVA) format.
+  * Documentation describing how to run the technology within the SBE VM.
+
+    * Ease of use, through scripts or user interface, is highly encouraged.
+
+  Q&A sessions and an iRIL integration workshop will be held throughout the Challenge where additional details will be provided that describe the SBE, network architecture, relevant scenarios, and operationally relevant conditions. This announcement will be updated with specifics, but questions regarding the challenge must be submitted via email [NetANTX@niwc.navy.mil](mailto:NetANTX@niwc.navy.mil) no later than 5 days prior to the virtual event. 
+
+
+  Selected participants will be invited to participate in an iRiL Integration Workshop where additional details will be provided to describe the network architecture, relevant scenarios, and operationally-relevant conditions will be made available to participants
+
+
+  Instructions on how to submit networking technology submissions will be provided upon selection. 
+
+
+  Questions submitted after the deadline may not be addressed.
+
+
+  #### Eligibility
+
+
+  The Challenge is open to individual participants, teams of participants, and commercial, Government, and academic entities. Entities must be incorporated in and maintain a primary place of business in the U.S. Individual participants and all members of teams of participants must all be U.S. citizens or U.S. Permanent Residents and be 18 years or older as of July 27,2003. All participants (entities or individuals) must have a Social Security Number (SSN), Taxpayer Identification Number (TIN), or Employer Identification Number (EIN) in order to receive a prize. Eligibility is subject to verification before any prize is awarded.
+
+
+  Submissions from Federal Government employees or NAVWAR support contractors will be evaluated but are not eligible to receive the cash award associated with the Challenge.
+
+
+  Violation of the rules contained herein or intentional or consistent activity that undermines the spirit of the challenge may result in disqualification. The challenge is void wherever restricted or prohibited by law.
+
+
+  #### Terms & Conditions 
+
+
+  These terms and conditions apply to all participants in the Challenge.
+
+
+  **Agreement to Terms**:
+
+
+  The participant agrees to comply with and be bound by the Challenge Rules (“the Rules”) as well as the Terms and Conditions contained herein. The participant also agrees that the decisions of the Government, in connection with all matters relating to the Challenge are binding and final.
+
+
+  **Data Rights**:
+
+
+  NAVWAR does not require that participants relinquish or otherwise grant license rights to intellectual property developed or delivered under the challenge.
+
+
+  NAVWAR does require sufficient data rights/intellectual property rights to use, release, display, and disclose the white paper, quad chart, supporting materials, and the model, but only to the assessment team members, and only for purposes of evaluating the participant submissions. The assessment team does not plan to retain entries after the challenge is completed. It does plan to retain data, aggregate performance statistics, and integration and compatibility factors resulting from the assessment of those entries for further analysis. By accepting these terms and conditions, the participant consents to the use of data submitted to the assessment team for these purposes.
+
+
+  NAVWAR may contact participants, at no additional cost to the Government, to discuss the means and methods used in solving the Challenge. Such contact does not imply any sort of contractual commitment with the participant.
+
+
+  **Agreements**:
+
+
+  NAVWAR may award, pursuant to Title 10 U.S.C. § 2371b, a follow-on prototype contract or transaction to one or more participants who successfully demonstrate an operationally relevant networking technology during the Challenge. If the selected technologies are not yet mature enough for prototype awards, other agreements such as Cooperative Research and Development Agreement (CRADA) may be utilized. This Challenge, however, does not in any way obligate NAVWAR to procure any of the items within the scope of this challenge from the winners. Tax treatment of prizes will be handled in accordance with U.S. Internal Revenue Service guidelines. The winner must provide a U.S. TIN (e.g., SSN or EIN) to receive the cash prize. 
+
+
+  This challenge does not replace or supersede any other written contracts and/or written challenges that the participant has or will have with the Government, which may require delivery of any materials the participant is submitting herein for this challenge effort.
+
+
+  **Publication**:
+
+
+  Participants agree to confer, consult, and acquire the consent of the Government prior to the publication or presentation of any Challenge materials, materials associated with the Challenge, or data derived from the Challenge, to assure that no PROPRIETARY INFORMATION or RESTRICTED ACCESS INFORMATION is released, patent rights are protected, ensure accuracy, and that no claims are made on behalf of the Government. Publication and/or presentation may be delayed for a reasonable time to afford needed protection.
+
+
+  **Costs**:
+
+
+  The Government is not responsible for any costs incurred by challenge participants, to include the development of white papers, quad charts, presentation materials, the model, travel, technology, demonstrations, iRIL integration, and any other associated costs. All costs incurred throughout the execution of the Challenge are the responsibility of the participants. 
+
+
+  **Results of the Challenge**:
+
+
+  Winners will be announced at the conclusion of the Challenge event. NAVWAR will also announce the winners on the Challenge.gov website, the NAVWAR LinkedIN page, media outlets, and social media channels.
+
+
+  **Release of Claims**:
+
+
+  The participant agrees to release and forever discharge any and all manner of claims, equitable adjustments, actions, suits, debts, appeals, and all other obligations of any kind, whether past or present, known or unknown, that have or may arise from, are related to or are in connection with, directly or indirectly, this challenge or the participant’s submission.
+
+
+  **Compliance with Laws**:
+
+
+  The participant agrees to follow and comply with all applicable federal, state and local laws, regulations and policies.
+
+
+  **Governing Law**:
+
+
+  This challenge is subject to all applicable federal laws and regulations. ALL CLAIMS ARISING OUT OF OR RELATING TO THESE TERMS WILL BE GOVERNED BY THE FEDERAL LAWS AND REGULATIONS OF THE UNITED STATES OF AMERICA.
+
+
+  **Other**:
+
+
+  For events throughout the execution of the Challenge, the Government will provide qualified experts to evaluate the submissions, access to virtual collaboration and simulation environments, access to approved laboratories, overall event planning, and coordination of information assurance services. Two assessments will be conducted throughout the Challenge. White paper submissions will be assessed, prior to invitation to participate in the Challenge which will require participants to develop and integrate their network technologies into the iRIL environment.
+
+
+  Because of the number of anticipated challenge entries, NAVWAR cannot and will not make determinations on whether or not third-party materials in the challenge submissions have protectable intellectual property interests. By participating in this challenge, each participant (whether participating individually, as a team, or as a commercial entity) warrants and assures the Government that any data used for the purpose of submitting an entry for this challenge, were obtained legally and through authorized access to such data. By entering the challenge and submitting the challenge materials, the participant agrees to indemnify and hold the Government harmless against any claim, loss or risk of loss for patent or copyright infringement with respect to such third-party interests.
+
+
+  NAVWAR may update the terms of the challenge from time to time without notice. Participants are strongly encouraged to check the website frequently.
+
+
+  If any provision of this challenge is held to be invalid or unenforceable under applicable federal law, it will not affect the validity or enforceability of the remainder of the terms and conditions of this challenge.
 ---
 ### Description
 
@@ -103,3 +278,129 @@ Each of the above conditions poses a significant challenge to network operation.
 * Networks ANTX (Presentation/Demonstration) 			November 4, 2021
 * Prize Challenge Board Deliberations					November 5, 2021
 * Announce Prize Challenge Winners 					November 10, 2021
+
+### Prizes
+
+#### Total Cash Prize Pool
+
+$100,000
+
+#### Prize Breakdown
+
+* $75,000 First Prize
+* $25,000 Second Prize
+
+### Rules
+
+**General**
+
+Each participant (individual participant, team of participants, commercial, Government, or academic entity) may submit one entry in response to this challenge. Team entries or commercial entity entries must have an individual identified as the primary point of contact and prize recipient. By submitting an entry, a participant authorizes his or her name and organization to be released to the media if the participant wins the prize.
+
+The entry submission package must include:
+
+* white paper that clearly describes the networking technology to be considered
+* quad chart where all content such as text, pictures, diagrams, etc. are provided pre-approved for public release 
+
+In order for an entry to be considered, a white paper must be submitted no later than July 27, 2021, in accordance with the below submission guidelines.
+
+Each entry will be initially assessed utilizing the criteria set forth under the section, **Assessment Criteria – NetANTX Challenge Invitations.** Following initial assessment, Participants may be invited to advance to the second assessment in the Challenge.
+
+If invited to advance, participants will be required to submit the networking technology described in the initial white paper and quad chart no later than October 22, 2021. The networking technology will be assessed per **Assessment Criteria – Prize Challenge** during presentation and demonstration November 4, 2021.
+
+In the event the submission package does not include the sufficient level of detail to assess technical approach, or other, the Government team may request clarification throughout the evaluation.
+
+Instructions for classified submissions may be requested via [NetAntx@niwc.navy.mil](mailto:NetAntx@niwc.navy.mil). 
+
+**White Paper Submission Guidelines:**
+
+White papers should provide an overview of the proposed networking technology, technical approach (e.g. architecture, deployment overview, algorithm descriptions, model descriptions, performance requirements, endpoint footprint, existing results, etc.), the benefits and novelty of the approach within the context of existing academic and commercially available technologies, and the dependencies necessary (e.g. data, platform, network connectivity, etc.) to operate the proposed technology. White papers must be no more than six pages in length and in conformance with the white paper submission instructions provided in Appendix A. All white papers must be submitted via email to: [NetANTX@niwc.navy.mil](mailto:NetANTX@niwc.navy.mil) by 1200 PST July 27, 2021. 
+
+Where appropriate, use protective markings such as “Do Not Publicly Release – Trade Secret” or “Do Not Publicly Release – Confidential Proprietary Business Information” in the header or footer of the white paper.
+
+**Quad Chart Submission Guidelines**:
+
+Quad charts shall be submitted in accordance with the quad chart template provided as Appendix B with all content (text, graphics, pictures, etc.) pre-approved for public release. The Challenge team may use portions of the submitted content for event planning, reports, and for external communication materials. 
+Networking Technology Submission Guidelines:
+Upon selection, invited participants will be provided a simulation-based environment (SBE) to integrate their proposed network technology.
+
+**Networking Technology submissions will include**:
+
+* The virtual machine (VM) image with the provided SBE
+
+  * The networking technology should be installed, along with all dependencies, in designated Linux containers
+  * The VM image should be in Open Virtualization Appliance (OVA) format.
+* Documentation describing how to run the technology within the SBE VM.
+
+  * Ease of use, through scripts or user interface, is highly encouraged.
+
+Q&A sessions and an iRIL integration workshop will be held throughout the Challenge where additional details will be provided that describe the SBE, network architecture, relevant scenarios, and operationally relevant conditions. This announcement will be updated with specifics, but questions regarding the challenge must be submitted via email [NetANTX@niwc.navy.mil](mailto:NetANTX@niwc.navy.mil) no later than 5 days prior to the virtual event. 
+
+Selected participants will be invited to participate in an iRiL Integration Workshop where additional details will be provided to describe the network architecture, relevant scenarios, and operationally-relevant conditions will be made available to participants
+
+Instructions on how to submit networking technology submissions will be provided upon selection. 
+
+Questions submitted after the deadline may not be addressed.
+
+#### Eligibility
+
+The Challenge is open to individual participants, teams of participants, and commercial, Government, and academic entities. Entities must be incorporated in and maintain a primary place of business in the U.S. Individual participants and all members of teams of participants must all be U.S. citizens or U.S. Permanent Residents and be 18 years or older as of July 27,2003. All participants (entities or individuals) must have a Social Security Number (SSN), Taxpayer Identification Number (TIN), or Employer Identification Number (EIN) in order to receive a prize. Eligibility is subject to verification before any prize is awarded.
+
+Submissions from Federal Government employees or NAVWAR support contractors will be evaluated but are not eligible to receive the cash award associated with the Challenge.
+
+Violation of the rules contained herein or intentional or consistent activity that undermines the spirit of the challenge may result in disqualification. The challenge is void wherever restricted or prohibited by law.
+
+#### Terms & Conditions 
+
+These terms and conditions apply to all participants in the Challenge.
+
+**Agreement to Terms**:
+
+The participant agrees to comply with and be bound by the Challenge Rules (“the Rules”) as well as the Terms and Conditions contained herein. The participant also agrees that the decisions of the Government, in connection with all matters relating to the Challenge are binding and final.
+
+**Data Rights**:
+
+NAVWAR does not require that participants relinquish or otherwise grant license rights to intellectual property developed or delivered under the challenge.
+
+NAVWAR does require sufficient data rights/intellectual property rights to use, release, display, and disclose the white paper, quad chart, supporting materials, and the model, but only to the assessment team members, and only for purposes of evaluating the participant submissions. The assessment team does not plan to retain entries after the challenge is completed. It does plan to retain data, aggregate performance statistics, and integration and compatibility factors resulting from the assessment of those entries for further analysis. By accepting these terms and conditions, the participant consents to the use of data submitted to the assessment team for these purposes.
+
+NAVWAR may contact participants, at no additional cost to the Government, to discuss the means and methods used in solving the Challenge. Such contact does not imply any sort of contractual commitment with the participant.
+
+**Agreements**:
+
+NAVWAR may award, pursuant to Title 10 U.S.C. § 2371b, a follow-on prototype contract or transaction to one or more participants who successfully demonstrate an operationally relevant networking technology during the Challenge. If the selected technologies are not yet mature enough for prototype awards, other agreements such as Cooperative Research and Development Agreement (CRADA) may be utilized. This Challenge, however, does not in any way obligate NAVWAR to procure any of the items within the scope of this challenge from the winners. Tax treatment of prizes will be handled in accordance with U.S. Internal Revenue Service guidelines. The winner must provide a U.S. TIN (e.g., SSN or EIN) to receive the cash prize. 
+
+This challenge does not replace or supersede any other written contracts and/or written challenges that the participant has or will have with the Government, which may require delivery of any materials the participant is submitting herein for this challenge effort.
+
+**Publication**:
+
+Participants agree to confer, consult, and acquire the consent of the Government prior to the publication or presentation of any Challenge materials, materials associated with the Challenge, or data derived from the Challenge, to assure that no PROPRIETARY INFORMATION or RESTRICTED ACCESS INFORMATION is released, patent rights are protected, ensure accuracy, and that no claims are made on behalf of the Government. Publication and/or presentation may be delayed for a reasonable time to afford needed protection.
+
+**Costs**:
+
+The Government is not responsible for any costs incurred by challenge participants, to include the development of white papers, quad charts, presentation materials, the model, travel, technology, demonstrations, iRIL integration, and any other associated costs. All costs incurred throughout the execution of the Challenge are the responsibility of the participants. 
+
+**Results of the Challenge**:
+
+Winners will be announced at the conclusion of the Challenge event. NAVWAR will also announce the winners on the Challenge.gov website, the NAVWAR LinkedIN page, media outlets, and social media channels.
+
+**Release of Claims**:
+
+The participant agrees to release and forever discharge any and all manner of claims, equitable adjustments, actions, suits, debts, appeals, and all other obligations of any kind, whether past or present, known or unknown, that have or may arise from, are related to or are in connection with, directly or indirectly, this challenge or the participant’s submission.
+
+**Compliance with Laws**:
+
+The participant agrees to follow and comply with all applicable federal, state and local laws, regulations and policies.
+
+**Governing Law**:
+
+This challenge is subject to all applicable federal laws and regulations. ALL CLAIMS ARISING OUT OF OR RELATING TO THESE TERMS WILL BE GOVERNED BY THE FEDERAL LAWS AND REGULATIONS OF THE UNITED STATES OF AMERICA.
+
+**Other**:
+
+For events throughout the execution of the Challenge, the Government will provide qualified experts to evaluate the submissions, access to virtual collaboration and simulation environments, access to approved laboratories, overall event planning, and coordination of information assurance services. Two assessments will be conducted throughout the Challenge. White paper submissions will be assessed, prior to invitation to participate in the Challenge which will require participants to develop and integrate their network technologies into the iRIL environment.
+
+Because of the number of anticipated challenge entries, NAVWAR cannot and will not make determinations on whether or not third-party materials in the challenge submissions have protectable intellectual property interests. By participating in this challenge, each participant (whether participating individually, as a team, or as a commercial entity) warrants and assures the Government that any data used for the purpose of submitting an entry for this challenge, were obtained legally and through authorized access to such data. By entering the challenge and submitting the challenge materials, the participant agrees to indemnify and hold the Government harmless against any claim, loss or risk of loss for patent or copyright infringement with respect to such third-party interests.
+
+NAVWAR may update the terms of the challenge from time to time without notice. Participants are strongly encouraged to check the website frequently.
+
+If any provision of this challenge is held to be invalid or unenforceable under applicable federal law, it will not affect the validity or enforceability of the remainder of the terms and conditions of this challenge.
