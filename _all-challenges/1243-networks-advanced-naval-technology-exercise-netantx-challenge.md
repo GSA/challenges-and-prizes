@@ -54,27 +54,29 @@ description: >-
   #### Key Dates
 
 
-  * Challenge Registration and Submissions Opens 			June 2021
+  * Challenge Registration and Submissions Opens: ** June 2021**
 
-  * Virtual Q&A Session with prospective participants			June 30, 2021
+  * Challenge Registration and Submissions:  **Opens June 2021**
 
-  * White Paper/Quad Chart Deadline				 	        July 27, 2021
+  * Virtual Q&A Session with prospective participants: **June 30, 2021**
 
-  * Review/ Down-selection Boards						August 10 - August 12, 2021
+  * White Paper/Quad Chart Deadline: **July 27, 2021**
 
-  * Announce invited NetANTX Challenge participants		August 24, 2021
+  * Review/ Down-selection Boards: **August 10 - August 12, 2021**
 
-  * Virtual Q/A Session for participants					         August 31st, 2021
+  * Announce invited NetANTX Challenge participants:  **August 24, 2021**
 
-  * iRIL Integration Workshop						         September 14, 2021
+  * Virtual Q/A Session for participants:  **August 31st, 2021**
 
-  * Networking Technology Submission					October 22, 2021
+  * iRIL Integration Workshop:  **September 14, 2021**
 
-  * Networks ANTX (Presentation/Demonstration) 			November 4, 2021
+  * Networking Technology Submission:  **October 22, 2021**
 
-  * Prize Challenge Board Deliberations					November 5, 2021
+  * Networks ANTX (Presentation/Demonstration):  **November 4, 2021**
 
-  * Announce Prize Challenge Winners 					November 10, 2021
+  * Prize Challenge Board Deliberations:  **November 5, 2021**
+
+  * Announce Prize Challenge Winners:  **November 10, 2021**
 prizes: |-
   #### Total Cash Prize Pool
 
@@ -372,17 +374,18 @@ Each of the above conditions poses a significant challenge to network operation.
 
 #### Key Dates
 
-* Challenge Registration and Submissions Opens 			June 2021
-* Virtual Q&A Session with prospective participants			June 30, 2021
-* White Paper/Quad Chart Deadline				 	        July 27, 2021
-* Review/ Down-selection Boards						August 10 - August 12, 2021
-* Announce invited NetANTX Challenge participants		August 24, 2021
-* Virtual Q/A Session for participants					         August 31st, 2021
-* iRIL Integration Workshop						         September 14, 2021
-* Networking Technology Submission					October 22, 2021
-* Networks ANTX (Presentation/Demonstration) 			November 4, 2021
-* Prize Challenge Board Deliberations					November 5, 2021
-* Announce Prize Challenge Winners 					November 10, 2021
+* Challenge Registration and Submissions Opens: ** June 2021**
+* Challenge Registration and Submissions:  **Opens June 2021**
+* Virtual Q&A Session with prospective participants: **June 30, 2021**
+* White Paper/Quad Chart Deadline: **July 27, 2021**
+* Review/ Down-selection Boards: **August 10 - August 12, 2021**
+* Announce invited NetANTX Challenge participants:  **August 24, 2021**
+* Virtual Q/A Session for participants:  **August 31st, 2021**
+* iRIL Integration Workshop:  **September 14, 2021**
+* Networking Technology Submission:  **October 22, 2021**
+* Networks ANTX (Presentation/Demonstration):  **November 4, 2021**
+* Prize Challenge Board Deliberations:  **November 5, 2021**
+* Announce Prize Challenge Winners:  **November 10, 2021**
 
 ### Prizes
 
@@ -454,7 +457,7 @@ Submissions from Federal Government employees or NAVWAR support contractors will
 
 Violation of the rules contained herein or intentional or consistent activity that undermines the spirit of the challenge may result in disqualification. The challenge is void wherever restricted or prohibited by law.
 
-#### Terms & Conditions 
+#### Terms & Conditions
 
 These terms and conditions apply to all participants in the Challenge.
 
@@ -580,4 +583,4 @@ There is potential for follow-on funded opportunities depending on applicability
 
 See Rules.
 
-Submission URL or Email: Please submit entries to the following email address: <NetANTX@niwc.navy.mil>
+Submission URL or Email: Please submit entries to the following email address: [NetANTX@niwc.navy.mil](mailto:NetANTX@niwc.navy.mil)
