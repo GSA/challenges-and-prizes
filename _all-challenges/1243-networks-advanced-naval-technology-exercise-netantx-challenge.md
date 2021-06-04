@@ -54,9 +54,7 @@ description: >-
   #### Key Dates
 
 
-  * Challenge Registration and Submissions Opens: ** June 2021**
-
-  * Challenge Registration and Submissions:  **Opens June 2021**
+  * Challenge Registration and Submissions Opens:  **June 2021**
 
   * Virtual Q&A Session with prospective participants: **June 30, 2021**
 
@@ -374,8 +372,7 @@ Each of the above conditions poses a significant challenge to network operation.
 
 #### Key Dates
 
-* Challenge Registration and Submissions Opens: ** June 2021**
-* Challenge Registration and Submissions:  **Opens June 2021**
+* Challenge Registration and Submissions Opens**:  June 2021**
 * Virtual Q&A Session with prospective participants: **June 30, 2021**
 * White Paper/Quad Chart Deadline: **July 27, 2021**
 * Review/ Down-selection Boards: **August 10 - August 12, 2021**
