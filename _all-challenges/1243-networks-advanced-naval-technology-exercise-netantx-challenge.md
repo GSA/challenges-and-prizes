@@ -8,11 +8,8 @@ status: open
 sidenav: true
 card-image: /assets/netlify-uploads/webp.net-resizeimage-9-.jpg
 agency-logo: /assets/netlify-uploads/sealnavy.png
-tagline: Project Overmatch is the Department of the Navy (DON) priority
-  initiative to modernize Naval warfighting networks, seamlessly connecting the
-  future fleet of manned and unmanned platforms, enabling a Navy and Marine
-  Corps that swarms the seas, delivering synchronized lethal and non-lethal
-  effects from near-and-far, every axis, and every domain.
+tagline: Project Overmatch is the Department of Navy (DON) priority initiative
+  to modernize Naval warfighting networks.
 agency: Department of Defense, Department of the Navy, Naval Information Warfare
   Systems Command (NAVWAR)
 partner-agencies-federal: Naval Information Warfare Centers Pacific and Atlantic
