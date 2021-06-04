@@ -4,7 +4,7 @@ challenge-title: 2021 Design by Biomedical Undergraduate Teams (DEBUT) Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/design-biomedical-undergraduate-teams-debut-challenge/
 challenge-id: "1177"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/webp.net-resizeimage-17-.png
 agency-logo: /assets/netlify-uploads/nih_nibib_vertical_logo_2color.jpg
@@ -18,8 +18,8 @@ type-of-challenge:
   - Scientific
   - Software and apps
   - Analytics, visualizations, algorithms
-submission-start: 2021/01/04
-submission-end: 2021/06/01 11:59 PM
+submission-start: 01/04/2021
+submission-end: 06/01/2021 11:59 PM
 fiscal-year: FY21
 legal-authority: America COMPETES Act
 challenge-manager: Zeynep Erim, Ph.D.
