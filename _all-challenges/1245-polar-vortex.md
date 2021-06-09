@@ -8,9 +8,8 @@ status: open
 sidenav: false
 card-image: /assets/netlify-uploads/polarvortex_revised.jpg
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
-tagline: Develop concepts, technologies or systems to help collect, analyze,
-  process, and visualize geospatial data in the austere and mobile environments
-  of the Arctic
+tagline: Develop solutions to help collect, analyze, process, and visualize
+  geospatial data in the Arctic.
 agency: U.S. Department of Defense, National Security Innovation Network
 partner-agencies-federal: National Geospatial Intelligence Agency
 partners-non-federal: Washington University in St. Louis, U.C. Berkeley,
