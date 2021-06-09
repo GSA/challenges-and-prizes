@@ -41,11 +41,11 @@ description: >-
   #### Key Dates
 
 
-  Challenge Launch: June 10, 2021
+  * Challenge Launch: June 10, 2021
 
-  Entries Open: July 29, 2021
+  * Entries Open: July 29, 2021
 
-  Entries Close: August 11, 2021
+  * Entries Close: August 11, 2021
 prizes: |-
   #### Total Cash Prize Pool
 
@@ -105,9 +105,9 @@ The NASA TechLeap Prize is funded by NASA’s [Flight Opportunities](https://
 
 #### Key Dates
 
-Challenge Launch: June 10, 2021
-Entries Open: July 29, 2021
-Entries Close: August 11, 2021
+* Challenge Launch: June 10, 2021
+* Entries Open: July 29, 2021
+* Entries Close: August 11, 2021
 
 ### Prizes
 
