@@ -6,7 +6,7 @@ permalink: /challenge/nasa-tech-leap-autonomous-observation-1/
 challenge-id: "1244"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/techleaporiginal-1-.png
+card-image: /assets/netlify-uploads/webp.net-resizeimage-24-.png
 agency-logo: /assets/netlify-uploads/717px-NASA_logo.png
 tagline: Help NASA discover integrated, compact precision pointing systems that
   could be used to autonomously detect, track, and collect data on transient
