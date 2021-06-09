@@ -57,10 +57,14 @@ Flight Opportunity
 
 NASA welcomes applications from individuals, teams, and organization or entities that have are cognized legal existence and structure under applicable U.S. law and that are in good standing in the jurisdiction under which they are organized with the following restrictions:
 
-Individuals must be U.S. citizens or permanent residents of the United States and be 18 years of age or older.
-Organizations must be an entity incorporated in and maintaining a primary place of business in the United States.
-Teams must be comprised of otherwise eligible individuals or organizations and led by a U.S Citizen or permanent resident of the United States who is 18 years of age or older.
+* Individuals must be U.S. citizens or permanent residents of the United States and be 18 years of age or older.
+* Organizations must be an entity incorporated in and maintaining a primary place of business in the United States.
+* Teams must be comprised of otherwise eligible individuals or organizations and led by a U.S Citizen or permanent resident of the United States who is 18 years of age or older.
+
 U.S. government employees may participate so long as they are not acting within the scope of their position, rely on no facilities, access, personnel, knowledge, or other resources that are available to them as a result of their employment except for those resources made available to all other participants on an equal basis.
+
 U.S. government employees participating as individuals, or who submit applications on behalf of an otherwise eligible organization, will be responsible for ensuring that their participation in the Competition is permitted by the rules and regulations relevant to their position and that they have obtained any authorization that may be required by virtue of their government position. Failure to do so may result in the disqualification of them individually or of the entity which they represent or in which they are involved.
+
 Foreign citizens may only participate as (i) employees of an otherwise eligible US entity who reside in the US, (ii) full-time students at an otherwise eligible US university or college who reside in the US, or (iii) owners of less than 50% of the interests in an otherwise eligible US entity who reside in the US.
+
 Registered competitors shall be responsible for the actions of and compliance with the rules by their employees, subcontractors, officers, owners, and other affiliated persons.
