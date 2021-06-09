@@ -68,3 +68,15 @@ U.S. government employees participating as individuals, or who submit applicatio
 Foreign citizens may only participate as (i) employees of an otherwise eligible US entity who reside in the US, (ii) full-time students at an otherwise eligible US university or college who reside in the US, or (iii) owners of less than 50% of the interests in an otherwise eligible US entity who reside in the US.
 
 Registered competitors shall be responsible for the actions of and compliance with the rules by their employees, subcontractors, officers, owners, and other affiliated persons.
+
+### Judging
+
+#### Judging Criteria
+
+There will be three types of evaluation. During the Evaluation Panel judging, each valid application will receive scores and comments from a highly qualified panel of expert judges who will use a scoring rubric to evaluate their assigned applications. All scores are normalized to ensure fairness for everyone. The Selection Committee judges will review the top-scoring submissions and select up to four Winners based on the resulting rank order from the Evaluation Panel, the scoring rubric, and the diversity of solutions. During Payload Build Round 1 and Payload Build Round 2, Winners will have the opportunity to compete for additional awards of $200,000 and $100,000 each. Field Judges will conduct on-site visits in January and June 2022 to score the progress each Winner has made. NASA intends to award a suborbital flight test to each of the Winners of Payload Build Round 2. These flight tests will be conducted on an appropriate vehicle provided by one of the vendors contracted to provide flight services for NASA government-sponsored research.
+
+### How to Enter
+
+You must first register no later than Wednesday, July 28, 2021, at 5:00 PM Pacific. Once you are registered, applications are due no later than Wednesday, August 11, 2021, at 5:00 PM Pacific.
+
+Submission URL: <https://www.AutonomousObservation1.NASATechLeap.org>
