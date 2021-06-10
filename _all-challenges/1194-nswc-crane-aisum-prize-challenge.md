@@ -205,9 +205,15 @@ description: >-
   ***Phase II*** 
 
 
-  * Virtual Vignettes over the course of 90 calendar days
+  * Virtual Invitational Test Day on Tuesday, June 15th
 
-  * Complete internal documentation/obtain approval after final evaluation: 7-10 days
+  * Official Virtual Run for Record on Tuesday, July 13th 
+
+  * Begin internal review of results on Monday, July 19th
+
+  * Complete internal documentation/obtain approval after final evaluation: 7-12 days
+
+  * Phase II set to end by July 31st with winners and advancing participants announced
 
 
   ***Phase III***
@@ -584,8 +590,11 @@ The government estimates the following timeline for the completion of the prize 
 
 ***Phase II*** 
 
-* Virtual Vignettes over the course of 90 calendar days
-* Complete internal documentation/obtain approval after final evaluation: 7-10 days
+* Virtual Invitational Test Day on Tuesday, June 15th
+* Official Virtual Run for Record on Tuesday, July 13th 
+* Begin internal review of results on Monday, July 19th
+* Complete internal documentation/obtain approval after final evaluation: 7-12 days
+* Phase II set to end by July 31st with winners and advancing participants announced
 
 ***Phase III***
 
