@@ -1,6 +1,7 @@
 ---
 title: Card Title Here
-challenge-title: Networks Advanced Naval Technology Exercise (NetANTX) Challenge
+challenge-title: AI and Networks Advanced Naval Technology Exercise (AINet ANTX)
+  - Networks Prize Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/networks-advanced-naval-technology-exercise-netantx-challenge/
 challenge-id: "1243"
@@ -27,6 +28,7 @@ legal-authority: Other
 challenge-manager: Carly Jackson
 challenge-manager-email: carly.jackson@navy.mil
 point-of-contact: tricia.nguyen@navy.mil
+body-content-uploads: /assets/netlify-uploads/ainetantx-quad-template.pptx
 description: >-
   #### General Overview
 
@@ -45,7 +47,7 @@ description: >-
   * network demand exceeds available network resources
 
 
-  Each of the above conditions poses a significant challenge to network operation. Yet, the Navy must operate under the combined effects of all the above conditions. This challenge seeks innovative technologies that will maximize the utility of this very limited network, specifically by enabling efficient, low-overhead routing of application packets.
+  Each of the above conditions poses a significant challenge to network operation. Yet, the Navy must operate under the combined effects of all the above conditions. The Networks Prize Challenge, hereinafter referred to as the “Challenge”, seeks innovative technologies that will maximize the utility of this very limited network, specifically by enabling efficient, low-overhead routing of application packets.
 
 
   #### Key Dates
@@ -59,7 +61,7 @@ description: >-
 
   * Review/ Down-selection Boards: **August 10 - August 12, 2021**
 
-  * Announce invited NetANTX Challenge participants:  **August 24, 2021**
+  * Announce invited AINet ANTX Challenge participants:  **August 24, 2021**
 
   * Virtual Q/A Session for participants:  **August 31st, 2021**
 
@@ -67,7 +69,7 @@ description: >-
 
   * Networking Technology Submission:  **October 22, 2021**
 
-  * Networks ANTX (Presentation/Demonstration):  **November 4, 2021**
+  * NetAI ANTX (Presentation/Demonstration):  **November 4, 2021**
 
   * Prize Challenge Board Deliberations:  **November 5, 2021**
 
@@ -99,10 +101,10 @@ rules: >-
   In order for an entry to be considered, a white paper must be submitted no later than July 27, 2021, in accordance with the below submission guidelines.
 
 
-  Each entry will be initially assessed utilizing the criteria set forth under the section, **Assessment Criteria – NetANTX Challenge Invitations.** Following initial assessment, Participants may be invited to advance to the second assessment in the Challenge.
+  Each entry will be initially assessed utilizing the criteria set forth under the section, **Assessment Criteria – Networks Prize Challenge Invitations.** Following initial assessment, Participants may be invited to advance to the second assessment in the Challenge.
 
 
-  If invited to advance, participants will be required to submit the networking technology described in the initial white paper and quad chart no later than October 22, 2021. The networking technology will be assessed per **Assessment Criteria – Prize Challenge** during presentation and demonstration November 4, 2021.
+  If invited to advance, participants will be required to submit the networking technology described in the initial white paper and quad chart no later than October 22, 2021. The networking technology will be assessed per **Assessment Criteria – Networks Prize Challenge** during presentation and demonstration November 4, 2021.
 
 
   In the event the submission package does not include the sufficient level of detail to assess technical approach, or other, the Government team may request clarification throughout the evaluation.
@@ -114,7 +116,7 @@ rules: >-
   **White Paper Submission Guidelines:**
 
 
-  White papers should provide an overview of the proposed networking technology, technical approach (e.g. architecture, deployment overview, algorithm descriptions, model descriptions, performance requirements, endpoint footprint, existing results, etc.), the benefits and novelty of the approach within the context of existing academic and commercially available technologies, and the dependencies necessary (e.g. data, platform, network connectivity, etc.) to operate the proposed technology. White papers must be no more than six pages in length and in conformance with the white paper submission instructions provided in Appendix A. All white papers must be submitted via email to: [NetANTX@niwc.navy.mil](mailto:NetANTX@niwc.navy.mil) by 1200 PST July 27, 2021. 
+  White papers should provide an overview of the proposed networking technology, technical approach (e.g. architecture, deployment overview, algorithm descriptions, model descriptions, performance requirements, endpoint footprint, existing results, etc.), the benefits and novelty of the approach within the context of existing academic and commercially available technologies, and the dependencies necessary (e.g. data, platform, network connectivity, etc.) to operate the proposed technology. White papers must be no more than six pages in length. All white papers must be submitted via email to: [NetANTX@niwc.navy.mil](mailto:NetANTX@niwc.navy.mil) by 1200 PST July 27, 2021. 
 
 
   Where appropriate, use protective markings such as “Do Not Publicly Release – Trade Secret” or “Do Not Publicly Release – Confidential Proprietary Business Information” in the header or footer of the white paper.
@@ -123,11 +125,7 @@ rules: >-
   **Quad Chart Submission Guidelines**:
 
 
-  Quad charts shall be submitted in accordance with the quad chart template provided as Appendix B with all content (text, graphics, pictures, etc.) pre-approved for public release. The Challenge team may use portions of the submitted content for event planning, reports, and for external communication materials. 
-
-  Networking Technology Submission Guidelines:
-
-  Upon selection, invited participants will be provided a simulation-based environment (SBE) to integrate their proposed network technology.
+  Quad charts shall be submitted in accordance with the provided quad chart template with all content (text, graphics, pictures, etc.) pre-approved for public release. The single slide quad-chart must be submitted in Microsoft PowerPoint version 16.0 or greater, which is Microsoft Office 2016, Microsoft Office 2019, and Microsoft Office 365. The file extension can be in either in .PPT or .PPTX. Quad charts must be attached to the same email when white papers are submitted by 1200 PST July 27, 2021. The quad chart shall include a “Distribution A: Approved for Public release” marking in the footer. The submitted file should have the name format “ORGANIZATIONNAME_QUADCHART(.PPT or .PPTX)”. The quad-chart should be a concise summary of the full proposal that can be displayed in a single slide. The Challenge team may use portions of the submitted content for event planning, reports, and for external communication materials. Please use the [Quad chart template]({{site.baseurl}}/assets/netlify-uploads/ainetantx-quad-template.pptx).
 
 
   **Networking Technology submissions will include**:
@@ -156,7 +154,7 @@ rules: >-
   #### Eligibility
 
 
-  The Challenge is open to individual participants, teams of participants, and commercial, Government, and academic entities. Entities must be incorporated in and maintain a primary place of business in the U.S. Individual participants and all members of teams of participants must all be U.S. citizens or U.S. Permanent Residents and be 18 years or older as of July 27,2003. All participants (entities or individuals) must have a Social Security Number (SSN), Taxpayer Identification Number (TIN), or Employer Identification Number (EIN) in order to receive a prize. Eligibility is subject to verification before any prize is awarded.
+  The Challenge is open to individual participants, teams of participants, and commercial, Government, and academic entities. Entities must be incorporated in and maintain a primary place of business in the U.S. Individual participants and all members of teams of participants must all be U.S. citizens or U.S. Permanent Residents and be 18 years or older as of July 27, 2021. All participants (entities or individuals) must have a Social Security Number (SSN), Taxpayer Identification Number (TIN), or Employer Identification Number (EIN) in order to receive a prize. Eligibility is subject to verification before any prize is awarded.
 
 
   Submissions from Federal Government employees or NAVWAR support contractors will be evaluated but are not eligible to receive the cash award associated with the Challenge.
@@ -165,7 +163,7 @@ rules: >-
   Violation of the rules contained herein or intentional or consistent activity that undermines the spirit of the challenge may result in disqualification. The challenge is void wherever restricted or prohibited by law.
 
 
-  #### Terms & Conditions 
+  #### Terms & Conditions
 
 
   These terms and conditions apply to all participants in the Challenge.
@@ -254,7 +252,7 @@ judging: >-
   We seek innovative technologies to optimize networks operating in dynamic, low-capacity environments. This challenge focuses on low overhead routing protocols. Participants should generalize their approaches since all technologies will be tested and evaluated beyond the SBE, in higher fidelity and operationally relevant environments. At a minimum, the routing protocol should support User Datagram Protocol (UDP) unicast flows and Transmission Control Protocol (TCP) flows. Support for UDP multicast is desired, but not necessary for this challenge. In the following sections we describe the assessment criteria and the provided SBE. 
 
 
-  **Assessment Criteria – NetANTX Challenge Invitations** 
+  **Assessment Criteria – Networks Prize Challenge Invitations** 
 
 
   Conforming white paper and quad chart submissions will be evaluated by a panel of qualified networking experts using the following criteria which is in descending order of importance:
@@ -282,7 +280,7 @@ judging: >-
   Based on this initial assessment of the white papers and quad charts, participants will be invited to participate in the Challenge. Selected participants will be notified via email communication and will receive invitations to the Challenge question and answer (Q&A) Sessions and iRIL Integration Workshops. 
 
 
-  **Assessment Criteria – Prize Challenge**
+  **Assessment Criteria – Networks Prize Challenge**
 
 
   Challenge participants will be evaluated throughout iRIL Integration Workshops and Challenge demonstrations by a panel of qualified networking experts and using the following criteria which is in descending order of importance:
@@ -328,7 +326,7 @@ judging: >-
   Additionally, the scenario will contain a set of application traffic flows that will start and stop automatically as the scenario progresses.
 
 
-  The iRIL platform used at NetANTX includes monitoring, visualizations and metrics tracking, and participants do not need to dedicate resources to provide this functionality.
+  The iRIL platform used at AINet ANTX includes monitoring, visualizations and metrics tracking, and participants do not need to dedicate resources to provide this functionality.
 
 
   Technologies that require specific hardware, proprietary components, or on-premises management appliances or consoles will not be considered.
@@ -340,10 +338,13 @@ judging: >-
   Winners will be announced at the conclusion of the Challenge event. NAVWAR will also announce the winners on the Challenge.gov website, the NAVWAR LinkedIN page, media outlets, and social media channels.
 
 
-  NAVWAR has established $100,000 as the total amount set aside for cash prizes under this Challenge. A $75,000 first place cash prize will be awarded to the winning entry. $25,000 second and third place cash prizes will also be awarded. In the unlikely event of a tie, NAVWAR will determine an equitable method of distributing the cash prizes. 
+  NAVWAR has established $100,000 as the total amount set aside for cash prizes under this Challenge. A $75,000 first place cash prize will be awarded to the winning entry. A $25,000 second place cash prize will also be awarded. In the unlikely event of a tie, NAVWAR will determine an equitable method of distributing the cash prizes. In the event that an entity ineligible of receiving the cash award wins first and/or second place, NAVWAR will determine the equitable method of distributing the cash prizes.
 
 
-  There is potential for follow-on funded opportunities depending on applicability and ease of transition of the technology. If a prize goes to a team of participants, NAVWAR will award the cash prize to the individual/team’s point of contact registered via the challenge website, for further distribution to the team, as the team members see fit.
+  If a prize goes to a team of participants, NAVWAR will award the cash prize to the individual/team’s point of contact registered via the challenge website, for further distribution to the team, as the team members see fit.
+
+
+  NAVWAR is executing two simultaneous but independent prize challenges the AINet ANTX. This prize challenge announcement, and the details within, refer specifically to the Networks Prize Challenge. A companion prize challenge, titled the Artificial Intelligence (AI) Prize Challenge, has been announced separately on Challenge.gov.
 how-to-enter: >-
   #### Entry Instructions
 
@@ -365,7 +366,7 @@ Consider a scenario where the Naval Force is operating in a highly contested env
 * dynamic and unpredictable connectivity based on locations and radio frequency (RF) channel effects
 * network demand exceeds available network resources
 
-Each of the above conditions poses a significant challenge to network operation. Yet, the Navy must operate under the combined effects of all the above conditions. This challenge seeks innovative technologies that will maximize the utility of this very limited network, specifically by enabling efficient, low-overhead routing of application packets.
+Each of the above conditions poses a significant challenge to network operation. Yet, the Navy must operate under the combined effects of all the above conditions. The Networks Prize Challenge, hereinafter referred to as the “Challenge”, seeks innovative technologies that will maximize the utility of this very limited network, specifically by enabling efficient, low-overhead routing of application packets.
 
 #### Key Dates
 
@@ -373,11 +374,11 @@ Each of the above conditions poses a significant challenge to network operation.
 * Virtual Q&A Session with prospective participants: **June 30, 2021**
 * White Paper/Quad Chart Deadline: **July 27, 2021**
 * Review/ Down-selection Boards: **August 10 - August 12, 2021**
-* Announce invited NetANTX Challenge participants:  **August 24, 2021**
+* Announce invited AINet ANTX Challenge participants:  **August 24, 2021**
 * Virtual Q/A Session for participants:  **August 31st, 2021**
 * iRIL Integration Workshop:  **September 14, 2021**
 * Networking Technology Submission:  **October 22, 2021**
-* Networks ANTX (Presentation/Demonstration):  **November 4, 2021**
+* NetAI ANTX (Presentation/Demonstration):  **November 4, 2021**
 * Prize Challenge Board Deliberations:  **November 5, 2021**
 * Announce Prize Challenge Winners:  **November 10, 2021**
 
@@ -405,9 +406,9 @@ The entry submission package must include:
 
 In order for an entry to be considered, a white paper must be submitted no later than July 27, 2021, in accordance with the below submission guidelines.
 
-Each entry will be initially assessed utilizing the criteria set forth under the section, **Assessment Criteria – NetANTX Challenge Invitations.** Following initial assessment, Participants may be invited to advance to the second assessment in the Challenge.
+Each entry will be initially assessed utilizing the criteria set forth under the section, **Assessment Criteria – Networks Prize Challenge Invitations.** Following initial assessment, Participants may be invited to advance to the second assessment in the Challenge.
 
-If invited to advance, participants will be required to submit the networking technology described in the initial white paper and quad chart no later than October 22, 2021. The networking technology will be assessed per **Assessment Criteria – Prize Challenge** during presentation and demonstration November 4, 2021.
+If invited to advance, participants will be required to submit the networking technology described in the initial white paper and quad chart no later than October 22, 2021. The networking technology will be assessed per **Assessment Criteria – Networks Prize Challenge** during presentation and demonstration November 4, 2021.
 
 In the event the submission package does not include the sufficient level of detail to assess technical approach, or other, the Government team may request clarification throughout the evaluation.
 
@@ -415,15 +416,13 @@ Instructions for classified submissions may be requested via [NetAntx@niwc.navy.
 
 **White Paper Submission Guidelines:**
 
-White papers should provide an overview of the proposed networking technology, technical approach (e.g. architecture, deployment overview, algorithm descriptions, model descriptions, performance requirements, endpoint footprint, existing results, etc.), the benefits and novelty of the approach within the context of existing academic and commercially available technologies, and the dependencies necessary (e.g. data, platform, network connectivity, etc.) to operate the proposed technology. White papers must be no more than six pages in length and in conformance with the white paper submission instructions provided in Appendix A. All white papers must be submitted via email to: [NetANTX@niwc.navy.mil](mailto:NetANTX@niwc.navy.mil) by 1200 PST July 27, 2021. 
+White papers should provide an overview of the proposed networking technology, technical approach (e.g. architecture, deployment overview, algorithm descriptions, model descriptions, performance requirements, endpoint footprint, existing results, etc.), the benefits and novelty of the approach within the context of existing academic and commercially available technologies, and the dependencies necessary (e.g. data, platform, network connectivity, etc.) to operate the proposed technology. White papers must be no more than six pages in length. All white papers must be submitted via email to: [NetANTX@niwc.navy.mil](mailto:NetANTX@niwc.navy.mil) by 1200 PST July 27, 2021. 
 
 Where appropriate, use protective markings such as “Do Not Publicly Release – Trade Secret” or “Do Not Publicly Release – Confidential Proprietary Business Information” in the header or footer of the white paper.
 
 **Quad Chart Submission Guidelines**:
 
-Quad charts shall be submitted in accordance with the quad chart template provided as Appendix B with all content (text, graphics, pictures, etc.) pre-approved for public release. The Challenge team may use portions of the submitted content for event planning, reports, and for external communication materials. 
-Networking Technology Submission Guidelines:
-Upon selection, invited participants will be provided a simulation-based environment (SBE) to integrate their proposed network technology.
+Quad charts shall be submitted in accordance with the provided quad chart template with all content (text, graphics, pictures, etc.) pre-approved for public release. The single slide quad-chart must be submitted in Microsoft PowerPoint version 16.0 or greater, which is Microsoft Office 2016, Microsoft Office 2019, and Microsoft Office 365. The file extension can be in either in .PPT or .PPTX. Quad charts must be attached to the same email when white papers are submitted by 1200 PST July 27, 2021. The quad chart shall include a “Distribution A: Approved for Public release” marking in the footer. The submitted file should have the name format “ORGANIZATIONNAME_QUADCHART(.PPT or .PPTX)”. The quad-chart should be a concise summary of the full proposal that can be displayed in a single slide. The Challenge team may use portions of the submitted content for event planning, reports, and for external communication materials. Please use the [Quad chart template]({{site.baseurl}}/assets/netlify-uploads/ainetantx-quad-template.pptx).
 
 **Networking Technology submissions will include**:
 
@@ -445,7 +444,7 @@ Questions submitted after the deadline may not be addressed.
 
 #### Eligibility
 
-The Challenge is open to individual participants, teams of participants, and commercial, Government, and academic entities. Entities must be incorporated in and maintain a primary place of business in the U.S. Individual participants and all members of teams of participants must all be U.S. citizens or U.S. Permanent Residents and be 18 years or older as of July 27,2003. All participants (entities or individuals) must have a Social Security Number (SSN), Taxpayer Identification Number (TIN), or Employer Identification Number (EIN) in order to receive a prize. Eligibility is subject to verification before any prize is awarded.
+The Challenge is open to individual participants, teams of participants, and commercial, Government, and academic entities. Entities must be incorporated in and maintain a primary place of business in the U.S. Individual participants and all members of teams of participants must all be U.S. citizens or U.S. Permanent Residents and be 18 years or older as of July 27, 2021. All participants (entities or individuals) must have a Social Security Number (SSN), Taxpayer Identification Number (TIN), or Employer Identification Number (EIN) in order to receive a prize. Eligibility is subject to verification before any prize is awarded.
 
 Submissions from Federal Government employees or NAVWAR support contractors will be evaluated but are not eligible to receive the cash award associated with the Challenge.
 
@@ -513,7 +512,7 @@ If any provision of this challenge is held to be invalid or unenforceable under 
 
 We seek innovative technologies to optimize networks operating in dynamic, low-capacity environments. This challenge focuses on low overhead routing protocols. Participants should generalize their approaches since all technologies will be tested and evaluated beyond the SBE, in higher fidelity and operationally relevant environments. At a minimum, the routing protocol should support User Datagram Protocol (UDP) unicast flows and Transmission Control Protocol (TCP) flows. Support for UDP multicast is desired, but not necessary for this challenge. In the following sections we describe the assessment criteria and the provided SBE. 
 
-**Assessment Criteria – NetANTX Challenge Invitations** 
+**Assessment Criteria – Networks Prize Challenge Invitations** 
 
 Conforming white paper and quad chart submissions will be evaluated by a panel of qualified networking experts using the following criteria which is in descending order of importance:
 
@@ -530,7 +529,7 @@ When conducting the assessment, the Government reserves the right to take other 
 
 Based on this initial assessment of the white papers and quad charts, participants will be invited to participate in the Challenge. Selected participants will be notified via email communication and will receive invitations to the Challenge question and answer (Q&A) Sessions and iRIL Integration Workshops. 
 
-**Assessment Criteria – Prize Challenge**
+**Assessment Criteria – Networks Prize Challenge**
 
 Challenge participants will be evaluated throughout iRIL Integration Workshops and Challenge demonstrations by a panel of qualified networking experts and using the following criteria which is in descending order of importance:
 
@@ -559,7 +558,7 @@ The routing agents must be Linux VM compatible (e.g., a GUI, console, or powersh
 
 Additionally, the scenario will contain a set of application traffic flows that will start and stop automatically as the scenario progresses.
 
-The iRIL platform used at NetANTX includes monitoring, visualizations and metrics tracking, and participants do not need to dedicate resources to provide this functionality.
+The iRIL platform used at AINet ANTX includes monitoring, visualizations and metrics tracking, and participants do not need to dedicate resources to provide this functionality.
 
 Technologies that require specific hardware, proprietary components, or on-premises management appliances or consoles will not be considered.
 
@@ -567,9 +566,11 @@ Technologies that require specific hardware, proprietary components, or on-premi
 
 Winners will be announced at the conclusion of the Challenge event. NAVWAR will also announce the winners on the Challenge.gov website, the NAVWAR LinkedIN page, media outlets, and social media channels.
 
-NAVWAR has established $100,000 as the total amount set aside for cash prizes under this Challenge. A $75,000 first place cash prize will be awarded to the winning entry. $25,000 second and third place cash prizes will also be awarded. In the unlikely event of a tie, NAVWAR will determine an equitable method of distributing the cash prizes. 
+NAVWAR has established $100,000 as the total amount set aside for cash prizes under this Challenge. A $75,000 first place cash prize will be awarded to the winning entry. A $25,000 second place cash prize will also be awarded. In the unlikely event of a tie, NAVWAR will determine an equitable method of distributing the cash prizes. In the event that an entity ineligible of receiving the cash award wins first and/or second place, NAVWAR will determine the equitable method of distributing the cash prizes.
 
-There is potential for follow-on funded opportunities depending on applicability and ease of transition of the technology. If a prize goes to a team of participants, NAVWAR will award the cash prize to the individual/team’s point of contact registered via the challenge website, for further distribution to the team, as the team members see fit.
+If a prize goes to a team of participants, NAVWAR will award the cash prize to the individual/team’s point of contact registered via the challenge website, for further distribution to the team, as the team members see fit.
+
+NAVWAR is executing two simultaneous but independent prize challenges the AINet ANTX. This prize challenge announcement, and the details within, refer specifically to the Networks Prize Challenge. A companion prize challenge, titled the Artificial Intelligence (AI) Prize Challenge, has been announced separately on Challenge.gov.
 
 ### How to Enter
 
