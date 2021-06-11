@@ -154,7 +154,7 @@ rules: >-
   #### Eligibility
 
 
-  The Challenge is open to individual participants, teams of participants, and commercial, Government, and academic entities. Entities must be incorporated in and maintain a primary place of business in the U.S. Individual participants and all members of teams of participants must all be U.S. citizens or U.S. Permanent Residents and be 18 years or older as of July 27,2003. All participants (entities or individuals) must have a Social Security Number (SSN), Taxpayer Identification Number (TIN), or Employer Identification Number (EIN) in order to receive a prize. Eligibility is subject to verification before any prize is awarded.
+  The Challenge is open to individual participants, teams of participants, and commercial, Government, and academic entities. Entities must be incorporated in and maintain a primary place of business in the U.S. Individual participants and all members of teams of participants must all be U.S. citizens or U.S. Permanent Residents and be 18 years or older as of July 27, 2021. All participants (entities or individuals) must have a Social Security Number (SSN), Taxpayer Identification Number (TIN), or Employer Identification Number (EIN) in order to receive a prize. Eligibility is subject to verification before any prize is awarded.
 
 
   Submissions from Federal Government employees or NAVWAR support contractors will be evaluated but are not eligible to receive the cash award associated with the Challenge.
@@ -252,7 +252,7 @@ judging: >-
   We seek innovative technologies to optimize networks operating in dynamic, low-capacity environments. This challenge focuses on low overhead routing protocols. Participants should generalize their approaches since all technologies will be tested and evaluated beyond the SBE, in higher fidelity and operationally relevant environments. At a minimum, the routing protocol should support User Datagram Protocol (UDP) unicast flows and Transmission Control Protocol (TCP) flows. Support for UDP multicast is desired, but not necessary for this challenge. In the following sections we describe the assessment criteria and the provided SBE. 
 
 
-  **Assessment Criteria – NetANTX Challenge Invitations** 
+  **Assessment Criteria – Networks Prize Challenge Invitations** 
 
 
   Conforming white paper and quad chart submissions will be evaluated by a panel of qualified networking experts using the following criteria which is in descending order of importance:
@@ -441,7 +441,7 @@ Questions submitted after the deadline may not be addressed.
 
 #### Eligibility
 
-The Challenge is open to individual participants, teams of participants, and commercial, Government, and academic entities. Entities must be incorporated in and maintain a primary place of business in the U.S. Individual participants and all members of teams of participants must all be U.S. citizens or U.S. Permanent Residents and be 18 years or older as of July 27,2003. All participants (entities or individuals) must have a Social Security Number (SSN), Taxpayer Identification Number (TIN), or Employer Identification Number (EIN) in order to receive a prize. Eligibility is subject to verification before any prize is awarded.
+The Challenge is open to individual participants, teams of participants, and commercial, Government, and academic entities. Entities must be incorporated in and maintain a primary place of business in the U.S. Individual participants and all members of teams of participants must all be U.S. citizens or U.S. Permanent Residents and be 18 years or older as of July 27, 2021. All participants (entities or individuals) must have a Social Security Number (SSN), Taxpayer Identification Number (TIN), or Employer Identification Number (EIN) in order to receive a prize. Eligibility is subject to verification before any prize is awarded.
 
 Submissions from Federal Government employees or NAVWAR support contractors will be evaluated but are not eligible to receive the cash award associated with the Challenge.
 
@@ -509,7 +509,7 @@ If any provision of this challenge is held to be invalid or unenforceable under 
 
 We seek innovative technologies to optimize networks operating in dynamic, low-capacity environments. This challenge focuses on low overhead routing protocols. Participants should generalize their approaches since all technologies will be tested and evaluated beyond the SBE, in higher fidelity and operationally relevant environments. At a minimum, the routing protocol should support User Datagram Protocol (UDP) unicast flows and Transmission Control Protocol (TCP) flows. Support for UDP multicast is desired, but not necessary for this challenge. In the following sections we describe the assessment criteria and the provided SBE. 
 
-**Assessment Criteria – NetANTX Challenge Invitations** 
+**Assessment Criteria – Networks Prize Challenge Invitations** 
 
 Conforming white paper and quad chart submissions will be evaluated by a panel of qualified networking experts using the following criteria which is in descending order of importance:
 
