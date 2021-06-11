@@ -7,7 +7,7 @@ permalink: /challenge/networks-advanced-naval-technology-exercise-ainetantx-arti
 challenge-id: "1246"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/webp.net-resizeimage-9-.jpg
+card-image: /assets/netlify-uploads/webp.net-resizeimage-10-.jpg
 agency-logo: /assets/netlify-uploads/sealnavy.png
 tagline: Project Overmatch is the Department of Navy (DON) priority initiative
   to modernize Naval warfighting networks.
@@ -160,7 +160,7 @@ rules: >-
   Submissions from Federal Government employees or NAVWAR support contractors will be evaluated but are not eligible to receive the cash award associated with the Challenge.
 
 
-  Violation of the rules contained herein or intentional or consistent activity that undermines the spirit of the challenge may result in disqualification. The challenge is void wherever restricted or prohibited by law.\
+  Violation of the rules contained herein or intentional or consistent activity that undermines the spirit of the challenge may result in disqualification. The challenge is void wherever restricted or prohibited by law.
 
 
   These terms and conditions apply to all participants in the Challenge.
@@ -481,7 +481,7 @@ The Challenge is open to individual participants, teams of participants, and com
 
 Submissions from Federal Government employees or NAVWAR support contractors will be evaluated but are not eligible to receive the cash award associated with the Challenge.
 
-Violation of the rules contained herein or intentional or consistent activity that undermines the spirit of the challenge may result in disqualification. The challenge is void wherever restricted or prohibited by law.\
+Violation of the rules contained herein or intentional or consistent activity that undermines the spirit of the challenge may result in disqualification. The challenge is void wherever restricted or prohibited by law.
 
 These terms and conditions apply to all participants in the Challenge.
 
