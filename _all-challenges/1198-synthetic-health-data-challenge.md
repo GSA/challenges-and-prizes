@@ -40,6 +40,9 @@ description: >-
     * **Team TeMa #1:** Empirical Inference of Underlying Condition Probabilities Using Synthea-Generated Synthetic Health Data
     * **Team TeMa #2:** Modification and Use of Synthea to Account for Patient Vaccination Choice
     * **UI Health:** Spatiotemporal Big Data Analysis of Opioid Epidemic in Illinois
+
+
+
   * **UPDATED FAQs (4/20/21): The FAQs have been updated to include questions from the Phase II Informational Webinar. Visit the Resources section below.**
 
 
@@ -341,6 +344,9 @@ how-to-enter: >-
   * **Team TeMa #1:** Empirical Inference of Underlying Condition Probabilities Using Synthea-Generated Synthetic Health Data
   * **Team TeMa #2:** Modification and Use of Synthea to Account for Patient Vaccination Choice
   * **UI Health:** Spatiotemporal Big Data Analysis of Opioid Epidemic in Illinois
+
+
+
 * **UPDATED FAQs (4/20/21): The FAQs have been updated to include questions from the Phase II Informational Webinar. Visit the Resources section below.**
 
 ### Description
