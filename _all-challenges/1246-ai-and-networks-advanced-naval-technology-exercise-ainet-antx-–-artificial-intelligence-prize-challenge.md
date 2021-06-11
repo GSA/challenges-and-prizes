@@ -390,6 +390,12 @@ judging: >-
 
 
   NAVWAR is executing two simultaneous but independent prize challenges the AINet ANTX. This prize challenge announcement, and the details within, refer specifically to the AI Prize Challenge. A companion prize challenge, titled the Networks Prize Challenge, has been announced separately on Challenge.gov.
+how-to-enter: |-
+  #### Entry Instructions
+
+  See: Rules.
+
+  **Submission URL or Email**: <NetANTX@niwc.navy.mil>
 ---
 ### Description
 
@@ -627,3 +633,11 @@ NAVWAR has established $100,000 as the total amount set aside for cash prizes un
 If a prize goes to a team of participants, NAVWAR will award the cash prize to the individual/team’s point of contact registered via the challenge website, for further distribution to the team, as the team members see fit.
 
 NAVWAR is executing two simultaneous but independent prize challenges the AINet ANTX. This prize challenge announcement, and the details within, refer specifically to the AI Prize Challenge. A companion prize challenge, titled the Networks Prize Challenge, has been announced separately on Challenge.gov.
+
+### How to Enter
+
+#### Entry Instructions
+
+See: Rules.
+
+**Submission URL or Email**: <NetANTX@niwc.navy.mil>
