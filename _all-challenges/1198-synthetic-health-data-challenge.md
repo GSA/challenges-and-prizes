@@ -29,9 +29,7 @@ description: >-
   space for important updates. \*\***
 
 
-  * **REMINDER: The deadline for submitting Phase II prototypes/solutions is Tuesday, July 13, 2021, at 5:00 p.m. ET. Participants are competing for $100,000 in total awards.**
-
-  * **Here are the Phase II competitors and their Proposals for Innovative Models:**
+  * **REMINDER: The deadline for submitting Phase II prototypes/solutions is Tuesday, July 13, 2021, at 5:00 p.m. ET. Participants are competing for $100,000 in total awards. Here are the Phase II competitors and their Proposals for Innovative Models:**
 
     * **Battellion:** A Generic Quality Construct Module for Integrated Testing of eCQM using Synthea
     * **CodeRx:** Medication Diversification Tool
@@ -332,8 +330,7 @@ how-to-enter: >-
 ---
 **\*\* Welcome to the Synthetic Health Data Challenge Webpage! Watch this space for important updates. \*\***
 
-* **REMINDER: The deadline for submitting Phase II prototypes/solutions is Tuesday, July 13, 2021, at 5:00 p.m. ET. Participants are competing for $100,000 in total awards.**
-* **Here are the Phase II competitors and their Proposals for Innovative Models:**
+* **REMINDER: The deadline for submitting Phase II prototypes/solutions is Tuesday, July 13, 2021, at 5:00 p.m. ET. Participants are competing for $100,000 in total awards. Here are the Phase II competitors and their Proposals for Innovative Models:**
 
   * **Battellion:** A Generic Quality Construct Module for Integrated Testing of eCQM using Synthea
   * **CodeRx:** Medication Diversification Tool
