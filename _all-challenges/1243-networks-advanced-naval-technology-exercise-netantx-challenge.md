@@ -280,7 +280,7 @@ judging: >-
   Based on this initial assessment of the white papers and quad charts, participants will be invited to participate in the Challenge. Selected participants will be notified via email communication and will receive invitations to the Challenge question and answer (Q&A) Sessions and iRIL Integration Workshops. 
 
 
-  **Assessment Criteria – Prize Challenge**
+  **Assessment Criteria – Networks Prize Challenge**
 
 
   Challenge participants will be evaluated throughout iRIL Integration Workshops and Challenge demonstrations by a panel of qualified networking experts and using the following criteria which is in descending order of importance:
@@ -326,7 +326,7 @@ judging: >-
   Additionally, the scenario will contain a set of application traffic flows that will start and stop automatically as the scenario progresses.
 
 
-  The iRIL platform used at NetANTX includes monitoring, visualizations and metrics tracking, and participants do not need to dedicate resources to provide this functionality.
+  The iRIL platform used at AINet ANTX includes monitoring, visualizations and metrics tracking, and participants do not need to dedicate resources to provide this functionality.
 
 
   Technologies that require specific hardware, proprietary components, or on-premises management appliances or consoles will not be considered.
@@ -338,10 +338,13 @@ judging: >-
   Winners will be announced at the conclusion of the Challenge event. NAVWAR will also announce the winners on the Challenge.gov website, the NAVWAR LinkedIN page, media outlets, and social media channels.
 
 
-  NAVWAR has established $100,000 as the total amount set aside for cash prizes under this Challenge. A $75,000 first place cash prize will be awarded to the winning entry. $25,000 second and third place cash prizes will also be awarded. In the unlikely event of a tie, NAVWAR will determine an equitable method of distributing the cash prizes. 
+  NAVWAR has established $100,000 as the total amount set aside for cash prizes under this Challenge. A $75,000 first place cash prize will be awarded to the winning entry. A $25,000 second place cash prize will also be awarded. In the unlikely event of a tie, NAVWAR will determine an equitable method of distributing the cash prizes. In the event that an entity ineligible of receiving the cash award wins first and/or second place, NAVWAR will determine the equitable method of distributing the cash prizes.
 
 
-  There is potential for follow-on funded opportunities depending on applicability and ease of transition of the technology. If a prize goes to a team of participants, NAVWAR will award the cash prize to the individual/team’s point of contact registered via the challenge website, for further distribution to the team, as the team members see fit.
+  If a prize goes to a team of participants, NAVWAR will award the cash prize to the individual/team’s point of contact registered via the challenge website, for further distribution to the team, as the team members see fit.
+
+
+  NAVWAR is executing two simultaneous but independent prize challenges the AINet ANTX. This prize challenge announcement, and the details within, refer specifically to the Networks Prize Challenge. A companion prize challenge, titled the Artificial Intelligence (AI) Prize Challenge, has been announced separately on Challenge.gov.
 how-to-enter: >-
   #### Entry Instructions
 
@@ -526,7 +529,7 @@ When conducting the assessment, the Government reserves the right to take other 
 
 Based on this initial assessment of the white papers and quad charts, participants will be invited to participate in the Challenge. Selected participants will be notified via email communication and will receive invitations to the Challenge question and answer (Q&A) Sessions and iRIL Integration Workshops. 
 
-**Assessment Criteria – Prize Challenge**
+**Assessment Criteria – Networks Prize Challenge**
 
 Challenge participants will be evaluated throughout iRIL Integration Workshops and Challenge demonstrations by a panel of qualified networking experts and using the following criteria which is in descending order of importance:
 
@@ -555,7 +558,7 @@ The routing agents must be Linux VM compatible (e.g., a GUI, console, or powersh
 
 Additionally, the scenario will contain a set of application traffic flows that will start and stop automatically as the scenario progresses.
 
-The iRIL platform used at NetANTX includes monitoring, visualizations and metrics tracking, and participants do not need to dedicate resources to provide this functionality.
+The iRIL platform used at AINet ANTX includes monitoring, visualizations and metrics tracking, and participants do not need to dedicate resources to provide this functionality.
 
 Technologies that require specific hardware, proprietary components, or on-premises management appliances or consoles will not be considered.
 
@@ -563,9 +566,11 @@ Technologies that require specific hardware, proprietary components, or on-premi
 
 Winners will be announced at the conclusion of the Challenge event. NAVWAR will also announce the winners on the Challenge.gov website, the NAVWAR LinkedIN page, media outlets, and social media channels.
 
-NAVWAR has established $100,000 as the total amount set aside for cash prizes under this Challenge. A $75,000 first place cash prize will be awarded to the winning entry. $25,000 second and third place cash prizes will also be awarded. In the unlikely event of a tie, NAVWAR will determine an equitable method of distributing the cash prizes. 
+NAVWAR has established $100,000 as the total amount set aside for cash prizes under this Challenge. A $75,000 first place cash prize will be awarded to the winning entry. A $25,000 second place cash prize will also be awarded. In the unlikely event of a tie, NAVWAR will determine an equitable method of distributing the cash prizes. In the event that an entity ineligible of receiving the cash award wins first and/or second place, NAVWAR will determine the equitable method of distributing the cash prizes.
 
-There is potential for follow-on funded opportunities depending on applicability and ease of transition of the technology. If a prize goes to a team of participants, NAVWAR will award the cash prize to the individual/team’s point of contact registered via the challenge website, for further distribution to the team, as the team members see fit.
+If a prize goes to a team of participants, NAVWAR will award the cash prize to the individual/team’s point of contact registered via the challenge website, for further distribution to the team, as the team members see fit.
+
+NAVWAR is executing two simultaneous but independent prize challenges the AINet ANTX. This prize challenge announcement, and the details within, refer specifically to the Networks Prize Challenge. A companion prize challenge, titled the Artificial Intelligence (AI) Prize Challenge, has been announced separately on Challenge.gov.
 
 ### How to Enter
 
