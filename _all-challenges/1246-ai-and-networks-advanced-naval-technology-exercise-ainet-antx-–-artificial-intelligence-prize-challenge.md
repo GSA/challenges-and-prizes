@@ -309,7 +309,7 @@ judging: >-
   * Technical maturity of the technology/engineering innovation
 
 
-  F1 Score is defined as 2**((precision**recall)/(precision+recall)).
+  F1 Score is defined as 2x((precision x recall)/(precision+recall)).
 
 
   Precision is defined as is the number of true positives (TP) divided by the number of TPs and false positives (FP).
