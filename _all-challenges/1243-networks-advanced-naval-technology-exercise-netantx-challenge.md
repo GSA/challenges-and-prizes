@@ -1,6 +1,6 @@
 ---
 title: Card Title Here
-challenge-title: AI and Networks Advanced Naval Technology Exercise (AINetANTX)
+challenge-title: AI and Networks Advanced Naval Technology Exercise (AINet ANTX)
   - Networks Prize Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/networks-advanced-naval-technology-exercise-netantx-challenge/
