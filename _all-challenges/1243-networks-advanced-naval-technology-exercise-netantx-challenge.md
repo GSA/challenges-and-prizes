@@ -100,10 +100,10 @@ rules: >-
   In order for an entry to be considered, a white paper must be submitted no later than July 27, 2021, in accordance with the below submission guidelines.
 
 
-  Each entry will be initially assessed utilizing the criteria set forth under the section, **Assessment Criteria – NetANTX Challenge Invitations.** Following initial assessment, Participants may be invited to advance to the second assessment in the Challenge.
+  Each entry will be initially assessed utilizing the criteria set forth under the section, **Assessment Criteria – Networks Prize Challenge Invitations.** Following initial assessment, Participants may be invited to advance to the second assessment in the Challenge.
 
 
-  If invited to advance, participants will be required to submit the networking technology described in the initial white paper and quad chart no later than October 22, 2021. The networking technology will be assessed per **Assessment Criteria – Prize Challenge** during presentation and demonstration November 4, 2021.
+  If invited to advance, participants will be required to submit the networking technology described in the initial white paper and quad chart no later than October 22, 2021. The networking technology will be assessed per **Assessment Criteria – Networks Prize Challenge** during presentation and demonstration November 4, 2021.
 
 
   In the event the submission package does not include the sufficient level of detail to assess technical approach, or other, the Government team may request clarification throughout the evaluation.
@@ -166,7 +166,7 @@ rules: >-
   Violation of the rules contained herein or intentional or consistent activity that undermines the spirit of the challenge may result in disqualification. The challenge is void wherever restricted or prohibited by law.
 
 
-  #### Terms & Conditions 
+  #### Terms & Conditions
 
 
   These terms and conditions apply to all participants in the Challenge.
@@ -406,9 +406,9 @@ The entry submission package must include:
 
 In order for an entry to be considered, a white paper must be submitted no later than July 27, 2021, in accordance with the below submission guidelines.
 
-Each entry will be initially assessed utilizing the criteria set forth under the section, **Assessment Criteria – NetANTX Challenge Invitations.** Following initial assessment, Participants may be invited to advance to the second assessment in the Challenge.
+Each entry will be initially assessed utilizing the criteria set forth under the section, **Assessment Criteria – Networks Prize Challenge Invitations.** Following initial assessment, Participants may be invited to advance to the second assessment in the Challenge.
 
-If invited to advance, participants will be required to submit the networking technology described in the initial white paper and quad chart no later than October 22, 2021. The networking technology will be assessed per **Assessment Criteria – Prize Challenge** during presentation and demonstration November 4, 2021.
+If invited to advance, participants will be required to submit the networking technology described in the initial white paper and quad chart no later than October 22, 2021. The networking technology will be assessed per **Assessment Criteria – Networks Prize Challenge** during presentation and demonstration November 4, 2021.
 
 In the event the submission package does not include the sufficient level of detail to assess technical approach, or other, the Government team may request clarification throughout the evaluation.
 
