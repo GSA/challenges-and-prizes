@@ -1,6 +1,7 @@
 ---
 title: Card Title Here
-challenge-title: Networks Advanced Naval Technology Exercise (NetANTX) Challenge
+challenge-title: AI and Networks Advanced Naval Technology Exercise (AINetANTX)
+  - Networks Prize Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/networks-advanced-naval-technology-exercise-netantx-challenge/
 challenge-id: "1243"
@@ -45,7 +46,7 @@ description: >-
   * network demand exceeds available network resources
 
 
-  Each of the above conditions poses a significant challenge to network operation. Yet, the Navy must operate under the combined effects of all the above conditions. This challenge seeks innovative technologies that will maximize the utility of this very limited network, specifically by enabling efficient, low-overhead routing of application packets.
+  Each of the above conditions poses a significant challenge to network operation. Yet, the Navy must operate under the combined effects of all the above conditions. The Networks Prize Challenge, hereinafter referred to as the “Challenge”, seeks innovative technologies that will maximize the utility of this very limited network, specifically by enabling efficient, low-overhead routing of application packets.
 
 
   #### Key Dates
@@ -59,7 +60,7 @@ description: >-
 
   * Review/ Down-selection Boards: **August 10 - August 12, 2021**
 
-  * Announce invited NetANTX Challenge participants:  **August 24, 2021**
+  * Announce invited AINet ANTX Challenge participants:  **August 24, 2021**
 
   * Virtual Q/A Session for participants:  **August 31st, 2021**
 
@@ -67,7 +68,7 @@ description: >-
 
   * Networking Technology Submission:  **October 22, 2021**
 
-  * Networks ANTX (Presentation/Demonstration):  **November 4, 2021**
+  * NetAI ANTX (Presentation/Demonstration):  **November 4, 2021**
 
   * Prize Challenge Board Deliberations:  **November 5, 2021**
 
@@ -365,7 +366,7 @@ Consider a scenario where the Naval Force is operating in a highly contested env
 * dynamic and unpredictable connectivity based on locations and radio frequency (RF) channel effects
 * network demand exceeds available network resources
 
-Each of the above conditions poses a significant challenge to network operation. Yet, the Navy must operate under the combined effects of all the above conditions. This challenge seeks innovative technologies that will maximize the utility of this very limited network, specifically by enabling efficient, low-overhead routing of application packets.
+Each of the above conditions poses a significant challenge to network operation. Yet, the Navy must operate under the combined effects of all the above conditions. The Networks Prize Challenge, hereinafter referred to as the “Challenge”, seeks innovative technologies that will maximize the utility of this very limited network, specifically by enabling efficient, low-overhead routing of application packets.
 
 #### Key Dates
 
@@ -373,11 +374,11 @@ Each of the above conditions poses a significant challenge to network operation.
 * Virtual Q&A Session with prospective participants: **June 30, 2021**
 * White Paper/Quad Chart Deadline: **July 27, 2021**
 * Review/ Down-selection Boards: **August 10 - August 12, 2021**
-* Announce invited NetANTX Challenge participants:  **August 24, 2021**
+* Announce invited AINet ANTX Challenge participants:  **August 24, 2021**
 * Virtual Q/A Session for participants:  **August 31st, 2021**
 * iRIL Integration Workshop:  **September 14, 2021**
 * Networking Technology Submission:  **October 22, 2021**
-* Networks ANTX (Presentation/Demonstration):  **November 4, 2021**
+* NetAI ANTX (Presentation/Demonstration):  **November 4, 2021**
 * Prize Challenge Board Deliberations:  **November 5, 2021**
 * Announce Prize Challenge Winners:  **November 10, 2021**
 
