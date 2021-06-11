@@ -242,6 +242,154 @@ rules: >-
 
 
   If any provision of this challenge is held to be invalid or unenforceable under applicable federal law, it will not affect the validity or enforceability of the remainder of the terms and conditions of this challenge.
+judging: >-
+  #### Judging Panel
+
+
+  See: Judging Criteria.
+
+
+  #### Judging Criteria
+
+
+  **Assessment Criteria and Simulation Environment**
+
+
+  We seek innovative AI-enabled technologies to optimize Warfighter decision-support at machine speed in relevant, maritime environments. The following sections describe the assessment criteria and the iRIL environment.
+
+
+  **Assessment Criteria – NetANTX Challenge Invitations**
+
+
+  Conforming white paper and quad chart submissions will be evaluated by a panel of qualified experts using the following criteria which is in descending order of importance:
+
+
+  * Operational impact of the technology/engineering innovation in the intended mission scenarios and operational environment
+
+  * Estimated technical performance (accuracy, precision, recall, F1 score, AUC ROC, etc.) of the technology/engineering innovation against a hold-out dataset
+
+  * Integration complexity of the technology/engineering innovation
+
+  * Technical maturity of the technology/engineering innovation
+
+
+  When conducting the assessment, the Government reserves the right to take other significant factors as required into consideration, such as:
+
+
+  * Limitations to use due to Intellectual Property ownership
+
+  * Ease of fielding the technology in existing legacy Naval platforms (e.g. solution that requires many large software dependencies or require significant compute/memory resources, or that run on very specific hardware architectures would be viewed less favorably).
+
+  * Required out-of-band information needed for the AI technology to operate
+
+
+  Based on this initial assessment of the white papers and quad charts, participants will be invited to participate in the challenge. Selected participants will be notified via email communication and will receive invitations to the challenge question and answer (Q&A) Sessions and iRIL Integration Workshops.
+
+
+  **Assessment Criteria – AI Prize Challenge**
+
+
+  Challenge participants will be evaluated throughout iRIL Integration Workshops and Challenge demonstrations by a panel of qualified AI experts and using the following criteria which is in descending order of importance:
+
+
+  * Operational impact of the technology/engineering innovation in the intended mission scenarios and operational environment
+
+  * Technical performance - F1 Score
+
+  * Technical performance - Precision
+
+  * Technical performance - Recall
+
+  * Technical performance - Accuracy
+
+  * Technical performance - AUC ROC
+
+  * Integration complexity of the technology/engineering innovation
+
+  * Technical maturity of the technology/engineering innovation
+
+
+  F1 Score is defined as 2**((precision**recall)/(precision+recall)).
+
+
+  Precision is defined as is the number of true positives (TP) divided by the number of TPs and false positives (FP).
+
+
+  Recall is defined as the number of TPs divided by the number of TPs and the number of FNs.
+
+
+  Accuracy is defined as the number of correct predictions made divided by the total number of predictions made, multiplied by 100 to turn it into a percentage.
+
+
+  AUC ROC is defined as "Area under the Receiver Operating Characteristic Curve." AUC measures the entire two-dimensional area underneath the entire ROC curve from (0,0) to (1,1). The ROC curve is defined as a graph showing the performance of a classification model at all classification thresholds. This curve plots two parameters: True Positive Rate (TPR) = Recall = TP/(TP+FN) and False Positive Rate (FPR) = FP/(FP+TN).
+
+
+  **AI iRIL, Datasets, and Filesets**
+
+
+  AI iRIL
+
+
+  Participants will be provided with VDI access to the OSA environment, which is generically referred to as an iRIL. OSA provides the processes, infrastructure, and tools underpinning these subsystems for application providers. The OSA is comprised of the following components:
+
+
+  * Naval Research & Development Establishment (NR&DE) Secure Cloud provides Naval R&D labs and its developers with Infrastructure as a Service, Platform as a Service, security services, and development tools via a CCSP.
+
+  * Overmatch Software Armory (OSA) Tools and Services is a DON Environment to support accelerated application development while making optimal use of infrastructure.
+
+  * Collaborative Staging Environment (CSE) is a DON environment to support accelerated application integration and testing. The CSE provides a cloud-based production-representative test environment for applications to conduct Integration Testing.
+
+  * Agile Core Services (ACS) Provide an application infrastructure platform with a diverse set of services to enable easy and rapid delivery of mission applications (provide an environment with common tools to help Applications deploy faster)"
+
+  * Application Arsenal is an enterprise software distribution, installation, and update service that enables delivery of approved software from Ashore to the Tactical Edge.
+
+
+  OSA includes monitoring, visualizations and metrics tracking. Participants do not need to plan to dedicate resources to provide this functionality.
+
+
+  Technologies that require specific hardware, proprietary components, or on-premises management appliances or consoles will not be considered.
+
+
+  **Dataset**
+
+
+  A dataset allows for distributed filtering of data. Though the implementation differs, a data set can be thought of as a table in a database with rows and columns. Query responses are returned in a standard JavaScript Object Notation (JSON) representation of the data. Dataset schemas are also available for search and retrieval to describe the format of the data. Sample datasets and descriptions are provided below:
+
+
+  * airtracks: a dataset containing aircraft flight location and status over time
+
+  * seatracks: a dataset containing ship voyage location and status over time
+
+  * textual: a dataset containing raw textual information parsed from powerpoint files
+
+
+  **Fileset**
+
+
+  A fileset is a collection of files. Filesets are intended for scenarios where the data cannot be easily organized into rows and columns, for example a PowerPoint document, pdf, or a binary file. The raw data files can then be downloaded via the RESTful API. Some of the file sets are available as file sets until they can be processed further. An example of this is a pdf that will go through optical character recognition and made available as a searchable data set in the future.
+
+
+  Sample filesets and descriptions are provided below:
+
+
+  * usv: a fileset containing raw and processed Unmanned Surface Vehicle (USV)mission data
+
+  * uuv-data: a fileset containing raw and post-processed unmanned underwater vehicle (UUV) mission data
+
+
+  **Prize Award Details**
+
+
+  Winners will be announced at the conclusion of the AINet ANTX event. NAVWAR will also announce the winners on the Challenge.gov website, the NAVWAR LinkedIN page, media outlets, and social media channels.
+
+
+  NAVWAR has established $100,000 as the total amount set aside for cash prizes under this Challenge. A $75,000 first place cash prize will be awarded to the winning entry. $25,000 second place cash prizes will also be awarded. In the unlikely event of a tie, NAVWAR will determine an equitable method of distributing the cash prizes. In the event that an entity ineligible of receiving the cash award wins first and/or second place, NAVWAR will determine the equitable method of distributing the cash prizes.
+
+
+  If a prize goes to a team of participants, NAVWAR will award the cash prize to the individual/team’s point of contact registered via the challenge website, for further distribution to the team, as the team members see fit.
+
+
+  NAVWAR is executing two simultaneous but independent prize challenges the AINet ANTX. This prize challenge announcement, and the details within, refer specifically to the AI Prize Challenge. A companion prize challenge, titled the Networks Prize Challenge, has been announced separately on Challenge.gov.
 ---
 ### Description
 
@@ -393,58 +541,89 @@ See: Judging Criteria.
 
 #### Judging Criteria
 
-Assessment Criteria and Simulation Environment
+**Assessment Criteria and Simulation Environment**
 
 We seek innovative AI-enabled technologies to optimize Warfighter decision-support at machine speed in relevant, maritime environments.  The following sections describe the assessment criteria and the iRIL environment. 
-Assessment Criteria – NetANTX Challenge Invitations 
+
+**Assessment Criteria – NetANTX Challenge Invitations** 
+
 Conforming white paper and quad chart submissions will be evaluated by a panel of qualified experts using the following criteria which is in descending order of importance:
-	•	Operational impact of the technology/engineering innovation in the intended mission scenarios and operational environment
-	•	Estimated technical performance (accuracy, precision, recall, F1 score, AUC ROC, etc.) of the technology/engineering innovation against a hold-out dataset
-	•	Integration complexity of the technology/engineering innovation
-	•	Technical maturity of the technology/engineering innovation
+
+* Operational impact of the technology/engineering innovation in the intended mission scenarios and operational environment
+* Estimated technical performance (accuracy, precision, recall, F1 score, AUC ROC, etc.) of the technology/engineering innovation against a hold-out dataset
+* Integration complexity of the technology/engineering innovation
+* Technical maturity of the technology/engineering innovation
+
 When conducting the assessment, the Government reserves the right to take other significant factors as required into consideration, such as:
-	•	Limitations to use due to Intellectual Property ownership
-	•	Ease of fielding the technology in existing legacy Naval platforms (e.g. solution that requires many large software dependencies or require significant compute/memory resources, or that run on very specific hardware architectures would be viewed less favorably).
-	•	Required out-of-band information needed for the AI technology to operate
+
+* Limitations to use due to Intellectual Property ownership
+* Ease of fielding the technology in existing legacy Naval platforms (e.g. solution that requires many large software dependencies or require significant compute/memory resources, or that run on very specific hardware architectures would be viewed less favorably).
+* Required out-of-band information needed for the AI technology to operate
+
 Based on this initial assessment of the white papers and quad charts, participants will be invited to participate in the challenge. Selected participants will be notified via email communication and will receive invitations to the challenge question and answer (Q&A) Sessions and iRIL Integration Workshops.
 
-Assessment Criteria – AI Prize Challenge
+**Assessment Criteria – AI Prize Challenge**
+
 Challenge participants will be evaluated throughout iRIL Integration Workshops and Challenge demonstrations by a panel of qualified AI experts and using the following criteria which is in descending order of importance:
-	•	Operational impact of the technology/engineering innovation in the intended mission scenarios and operational environment
-	•	Technical performance - F1 Score
-	•	Technical performance - Precision
-	•	Technical performance - Recall
-	•	Technical performance - Accuracy
-	•	Technical performance - AUC ROC
-	•	Integration complexity of the technology/engineering innovation
-	•	Technical maturity of the technology/engineering innovation
-F1 Score is defined as 2*((precision*recall)/(precision+recall)).
+
+* Operational impact of the technology/engineering innovation in the intended mission scenarios and operational environment
+* Technical performance - F1 Score
+* Technical performance - Precision
+* Technical performance - Recall
+* Technical performance - Accuracy
+* Technical performance - AUC ROC
+* Integration complexity of the technology/engineering innovation
+* Technical maturity of the technology/engineering innovation
+
+F1 Score is defined as 2**((precision**recall)/(precision+recall)).
+
 Precision is defined as is the number of true positives (TP) divided by the number of TPs and false positives (FP).
+
 Recall is defined as the number of TPs divided by the number of TPs and the number of FNs. 
+
 Accuracy is defined as the number of correct predictions made divided by the total number of predictions made, multiplied by 100 to turn it into a percentage.
+
 AUC ROC is defined as "Area under the Receiver Operating Characteristic Curve."  AUC measures the entire two-dimensional area underneath the entire ROC curve from (0,0) to (1,1).   The ROC curve is defined as a graph showing the performance of a classification model at all classification thresholds. This curve plots two parameters:  True Positive Rate (TPR) = Recall = TP/(TP+FN) and False Positive Rate (FPR) = FP/(FP+TN).
-AI iRIL, Datasets, and Filesets 
+
+**AI iRIL, Datasets, and Filesets** 
+
 AI iRIL 
+
 Participants will be provided with VDI access to the OSA environment, which is generically referred to as an iRIL. OSA provides the processes, infrastructure, and tools underpinning these subsystems for application providers.  The OSA is comprised of the following components:
-	•	Naval Research & Development Establishment (NR&DE) Secure Cloud provides Naval R&D labs and its developers with Infrastructure as a Service, Platform as a Service, security services, and development tools via a CCSP.\
-	•	Overmatch Software Armory (OSA) Tools and Services is a DON Environment to support accelerated application development while making optimal use of infrastructure.
-	•	Collaborative Staging Environment (CSE) is a DON environment to support accelerated application integration and testing.  The CSE provides a cloud-based production-representative test environment for applications to conduct Integration Testing. 
-	•	Agile Core Services (ACS) Provide an application infrastructure platform with a diverse set of services to enable easy and rapid delivery of mission applications (provide an environment with common tools to help Applications deploy faster)" 
-	•	Application Arsenal is an enterprise software distribution, installation, and update service that enables delivery of approved software from Ashore to the Tactical Edge.
+
+* Naval Research & Development Establishment (NR&DE) Secure Cloud provides Naval R&D labs and its developers with Infrastructure as a Service, Platform as a Service, security services, and development tools via a CCSP.
+* Overmatch Software Armory (OSA) Tools and Services is a DON Environment to support accelerated application development while making optimal use of infrastructure.
+* Collaborative Staging Environment (CSE) is a DON environment to support accelerated application integration and testing.  The CSE provides a cloud-based production-representative test environment for applications to conduct Integration Testing. 
+* Agile Core Services (ACS) Provide an application infrastructure platform with a diverse set of services to enable easy and rapid delivery of mission applications (provide an environment with common tools to help Applications deploy faster)" 
+* Application Arsenal is an enterprise software distribution, installation, and update service that enables delivery of approved software from Ashore to the Tactical Edge.
+
 OSA includes monitoring, visualizations and metrics tracking. Participants do not need to plan to dedicate resources to provide this functionality.
+
 Technologies that require specific hardware, proprietary components, or on-premises management appliances or consoles will not be considered.
-Dataset
+
+**Dataset**
+
 A dataset allows for distributed filtering of data. Though the implementation differs, a data set can be thought of as a table in a database with rows and columns. Query responses are returned in a standard JavaScript Object Notation (JSON) representation of the data.  Dataset schemas are also available for search and retrieval to describe the format of the data. Sample datasets and descriptions are provided below:
-	•	airtracks: a dataset containing aircraft flight location and status over time
-	•	seatracks: a dataset containing ship voyage location and status over time
-	•	textual: a dataset containing raw textual information parsed from powerpoint files
-Fileset
-A fileset is a collection of files.  Filesets are intended for scenarios where the data cannot be easily organized into rows and columns, for example a PowerPoint document, pdf, or a binary file. The raw data files can then be downloaded via the RESTful API. Some of the file sets are available as file sets until they can be processed further. An example of this is a pdf that will go through optical character recognition and made available as a searchable data set in the future.\
+
+* airtracks: a dataset containing aircraft flight location and status over time
+* seatracks: a dataset containing ship voyage location and status over time
+* textual: a dataset containing raw textual information parsed from powerpoint files
+
+**Fileset**
+
+A fileset is a collection of files.  Filesets are intended for scenarios where the data cannot be easily organized into rows and columns, for example a PowerPoint document, pdf, or a binary file. The raw data files can then be downloaded via the RESTful API. Some of the file sets are available as file sets until they can be processed further. An example of this is a pdf that will go through optical character recognition and made available as a searchable data set in the future.
+
 Sample filesets and descriptions are provided below:
-	•	usv: a fileset containing raw and processed Unmanned Surface Vehicle (USV)mission data 
-	•	uuv-data: a fileset containing raw and post-processed unmanned underwater vehicle (UUV) mission data
-Prize Award Details
+
+* usv: a fileset containing raw and processed Unmanned Surface Vehicle (USV)mission data 
+* uuv-data: a fileset containing raw and post-processed unmanned underwater vehicle (UUV) mission data
+
+**Prize Award Details**
+
 Winners will be announced at the conclusion of the AINet ANTX event. NAVWAR will also announce the winners on the Challenge.gov website, the NAVWAR LinkedIN page, media outlets, and social media channels.
+
 NAVWAR has established $100,000 as the total amount set aside for cash prizes under this Challenge. A $75,000 first place cash prize will be awarded to the winning entry. $25,000 second place cash prizes will also be awarded. In the unlikely event of a tie, NAVWAR will determine an equitable method of distributing the cash prizes. In the event that an entity ineligible of receiving the cash award wins first and/or second place, NAVWAR will determine the equitable method of distributing the cash prizes.
+
 If a prize goes to a team of participants, NAVWAR will award the cash prize to the individual/team’s point of contact registered via the challenge website, for further distribution to the team, as the team members see fit.
-NAVWAR is executing two simultaneous but independent prize challenges the AINet ANTX. This prize challenge announcement, and the details within, refer specifically to the AI Prize Challenge. A companion prize challenge, titled the Networks Prize Challenge, has been announced separately on challenge.gov.
+
+NAVWAR is executing two simultaneous but independent prize challenges the AINet ANTX. This prize challenge announcement, and the details within, refer specifically to the AI Prize Challenge. A companion prize challenge, titled the Networks Prize Challenge, has been announced separately on Challenge.gov.
