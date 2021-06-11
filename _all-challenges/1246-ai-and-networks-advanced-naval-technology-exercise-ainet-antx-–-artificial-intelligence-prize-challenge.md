@@ -7,7 +7,7 @@ permalink: /challenge/networks-advanced-naval-technology-exercise-ainetantx-arti
 challenge-id: "1246"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/webp.net-resizeimage-9-.jpg
+card-image: /assets/netlify-uploads/webp.net-resizeimage-10-.jpg
 agency-logo: /assets/netlify-uploads/sealnavy.png
 tagline: Project Overmatch is the Department of Navy (DON) priority initiative
   to modernize Naval warfighting networks.
