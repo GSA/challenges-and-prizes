@@ -124,11 +124,7 @@ rules: >-
   **Quad Chart Submission Guidelines**:
 
 
-  Quad charts shall be submitted in accordance with the quad chart template provided as Appendix B with all content (text, graphics, pictures, etc.) pre-approved for public release. The Challenge team may use portions of the submitted content for event planning, reports, and for external communication materials. 
-
-  Networking Technology Submission Guidelines:
-
-  Upon selection, invited participants will be provided a simulation-based environment (SBE) to integrate their proposed network technology.
+  Quad charts shall be submitted in accordance with the provided quad chart template with all content (text, graphics, pictures, etc.) pre-approved for public release. The single slide quad-chart must be submitted in Microsoft PowerPoint version 16.0 or greater, which is Microsoft Office 2016, Microsoft Office 2019, and Microsoft Office 365. The file extension can be in either in .PPT or .PPTX. Quad charts must be attached to the same email when white papers are submitted by 1200 PST July 27, 2021. The quad chart shall include a “Distribution A: Approved for Public release” marking in the footer. The submitted file should have the name format “ORGANIZATIONNAME_QUADCHART(.PPT or .PPTX)”. The quad-chart should be a concise summary of the full proposal that can be displayed in a single slide. The Challenge team may use portions of the submitted content for event planning, reports, and for external communication materials.
 
 
   **Networking Technology submissions will include**:
@@ -422,9 +418,7 @@ Where appropriate, use protective markings such as “Do Not Publicly Release �
 
 **Quad Chart Submission Guidelines**:
 
-Quad charts shall be submitted in accordance with the quad chart template provided as Appendix B with all content (text, graphics, pictures, etc.) pre-approved for public release. The Challenge team may use portions of the submitted content for event planning, reports, and for external communication materials. 
-Networking Technology Submission Guidelines:
-Upon selection, invited participants will be provided a simulation-based environment (SBE) to integrate their proposed network technology.
+Quad charts shall be submitted in accordance with the provided quad chart template with all content (text, graphics, pictures, etc.) pre-approved for public release. The single slide quad-chart must be submitted in Microsoft PowerPoint version 16.0 or greater, which is Microsoft Office 2016, Microsoft Office 2019, and Microsoft Office 365. The file extension can be in either in .PPT or .PPTX. Quad charts must be attached to the same email when white papers are submitted by 1200 PST July 27, 2021. The quad chart shall include a “Distribution A: Approved for Public release” marking in the footer. The submitted file should have the name format “ORGANIZATIONNAME_QUADCHART(.PPT or .PPTX)”. The quad-chart should be a concise summary of the full proposal that can be displayed in a single slide. The Challenge team may use portions of the submitted content for event planning, reports, and for external communication materials.
 
 **Networking Technology submissions will include**:
 
