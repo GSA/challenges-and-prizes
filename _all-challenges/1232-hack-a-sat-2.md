@@ -16,7 +16,7 @@ total-prize-offered-cash: $200,000
 type-of-challenge:
   - Scientific
 submission-start: 2021/05/04 10:00 AM
-submission-end: 2021/09/19 6:00 PM
+submission-end: 2021/06/27 6:00 PM
 fiscal-year: FY21
 legal-authority: Other
 challenge-manager: Steve Colenzo
