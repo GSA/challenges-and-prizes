@@ -5,7 +5,7 @@ challenge-title: Barriers Among Underserved Groups In Underserved Areas from
 layout: front-matter-data-markdownify-content
 permalink: /challenge/barriers-among-underserved-groups-in-underserved-areas-from-equal-access-to-federal-procurement-oopportunities/
 challenge-id: "1240"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/webp.net-resizeimage-23-.png
 agency-logo: /assets/netlify-uploads/webp.net-resizeimage-23-.png
@@ -16,8 +16,8 @@ agency: Office of Management and Budget (OMB), Office of Federal Procurement
 partner-agencies-federal: U.S. Department of Energy
 type-of-challenge:
   - Ideas
-submission-start: 2021/06/01 10:00 AM
-submission-end: 2021/06/15 11:59 PM
+submission-start: 06/01/2021 10:00 AM
+submission-end: 06/15/2021 11:59 PM
 fiscal-year: FY21
 legal-authority: Other
 challenge-manager: Curtina Smith
