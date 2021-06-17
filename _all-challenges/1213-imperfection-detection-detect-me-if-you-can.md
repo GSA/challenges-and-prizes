@@ -20,7 +20,7 @@ type-of-challenge:
   - Analytics, visualizations, algorithms
   - Scientific
 submission-start: 2021/03/04 7:00 AM
-submission-end: 2021/06/24 5:00 PM
+submission-end: 2021/07/20 5:00 PM
 fiscal-year: FY21, FY22, FY23
 legal-authority: Procurement Authority
 challenge-manager: Jennifer Beardsley
