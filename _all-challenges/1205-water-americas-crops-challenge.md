@@ -19,7 +19,7 @@ type-of-challenge:
   - Ideas
   - Technology demonstration and hardware
 submission-start: 2021/02/04 7:00 AM
-submission-end: 2021/06/24 5:00 PM
+submission-end: 2021/07/15 5:00 PM
 fiscal-year: FY21, FY22, FY23
 legal-authority: Procurement Authority
 challenge-manager: Jennifer Beardsley
