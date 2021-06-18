@@ -243,9 +243,9 @@ LymeX has three key focus areas:
 
 **Learn more about LymeX** 
 
-* [https://www.hhs.gov/about/news/2020/10/10/hhs-steven-alexandra-cohen-foundation-announce-25-million-lymex-innovation-accelerator.html ](<* https://www.hhs.gov/about/news/2020/10/10/hhs-steven-alexandra-cohen-foundation-announce-25-million-lymex-innovation-accelerator.html>)
-* [https://www.hhs.gov/cto/initiatives/innovation-and-partnerships/lyme-innovation/lymex/index.html](<* https://www.hhs.gov/cto/initiatives/innovation-and-partnerships/lyme-innovation/lymex/index.html>)
-* [https://lymex.crowdicity.com/](<* https://www.hhs.gov/cto/initiatives/innovation-and-partnerships/lyme-innovation/lymex/index.html>)
+* [https://www.hhs.gov/about/news/2020/10/10/hhs-steven-alexandra-cohen-foundation-announce-25-million-lymex-innovation-accelerator.html ](https://www.hhs.gov/about/news/2020/10/10/hhs-steven-alexandra-cohen-foundation-announce-25-million-lymex-innovation-accelerator.html)
+* <https://www.hhs.gov/cto/initiatives/innovation-and-partnerships/lyme-innovation/lymex/index.html>
+* [https://lymex.crowdicity.com/](https://www.hhs.gov/cto/initiatives/innovation-and-partnerships/lyme-innovation/lymex/index.html)
 
 **About Lyme and Other Tickborne Diseases in the United States** 
 
@@ -271,7 +271,7 @@ In 2021, the Centers for Disease Control and Prevention (CDC) used insurance rec
 **Key Dates**
 
 **Submission Period Begins:** June 17, 2021 12:00am ET
-**Submission Deadline:** July 20, 2021, 11:59 PM ET
+**Submission Deadline:** July 20, 2021, 11:59 PM ET 
 **Final Winners Announced:**  August 2021 
 
 ### **Prizes**
@@ -283,7 +283,6 @@ Teams and individuals selected as winners with submissions meeting the baseline 
 ### Rules
 
 * Submissions can involve any of the following mediums:
-
   * Social media content
   * Educational or training video
   * Graphic
@@ -291,7 +290,6 @@ Teams and individuals selected as winners with submissions meeting the baseline 
 * All submissions must use facts from federal Lyme and Tickborne disease websites.
 * Submissions must meet a minimum baseline of 50 points out of a 100-point scale (see Judging Criteria below) to qualify for prizes.
 * The submission must not:
-
   * Contain privileged or confidential information, any material non-public information about any company, or any other information that entrant does not wish to make available for public viewing;
   * Contain material that violates or infringes another’s rights, including but not limited to privacy, publicity or intellectual property rights, or constitute copyright infringement;
   * Disparage the organizers or any other person or party affiliated with the Healthathon;
@@ -305,9 +303,9 @@ Teams and individuals selected as winners with submissions meeting the baseline 
   * Contain any virus, worm, Trojan horse, Easter egg, time bomb, spyware or other computer code, file or program that is harmful or invasive or that may or is intended to damage or hijack the operation of, or to monitor the use of, any website, hardware, software or network.
 * Submissions that do not follow the rules will be disqualified.
 * Submissions will be judged in accordance with 15 U.S.C. § 3719 and this notice. No cash prize will be awarded. The selected submissions may receive a commemorative challenge coin or medal, a certificate of appreciation signed by an HHS official, and/or highlight on our hhs.gov website, and/or a highlight on the @Lyme_X social media page.
-* **Eligibility Requirements** 
-  To be eligible to win a prize under this Challenge, a Participant (whether an individual, group of individuals, or entity) — 
 
+**Eligibility Requirements** 
+* To be eligible to win a prize under this Challenge, a Participant (whether an individual, group of individuals, or entity) — 
   * Shall have registered to participate in the Challenge under the rules promulgated by HHS as published in this announcement; 
   * Shall have complied with all the requirements set forth in this announcement; 
   * May not be a Federal entity or Federal employee acting within the scope of their employment;
@@ -346,38 +344,32 @@ The Award Approving Official will be Dr. Kristen Honey, Chief Data Scientist, Se
 Submissions will be judged by the following criteria on a 100-point scale:
 
 * Alignment with Challenge Objectives (Up to 20 points)
-
   * Up to 20 points may be awarded for this category. Aspects of ‘Alignment with Challenge Objectives’ that we may consider are:
-
     * The extent to which the submission may serve as educational material for raising awareness about Lyme disease.
     * The extent to which the submission provides guidance on how to prevent tick bites. 
     * The extent to which the submission calls attention to the signs, symptoms, or risks of Lyme disease.
+
 * Use of federal Lyme and Tickborne disease websites (Up to 30 points)
-
   * Up to 30 points may be awarded for this category. Aspects of ‘federal Lyme and Tickborne disease websites’ that we may consider are:
-
     * Does the submission use fact-based resources from federal Lyme and Tickborne disease websites as part of the submission? (Yes or No)
     * Does the submission reference the source of information contained in the submission? (Yes or No)
     * Are the facts and information in the submission limited to what can be found publicly on federal Lyme and Tickborne disease websites? (Yes or No)
     * The extent to which federal Lyme and Tickborne disease websites used from federal sources raise awareness about the risks of Lyme disease and prevention methods for tick bites. 
+
 * Design (Up to 30 points)
-
   * Up to 30 points may be awarded for this category. Aspects of ‘Design’ that we may consider are:
-
     * The extent to which the submission has a clear, unified concept that is interesting and or thought-provoking.
     * The extent to which the submission shows a quality composition, production, creativity, and aesthetics.
     * The extent to which the submission is appealing with a solid plan for the organization of information.
+
 * Impact and Innovation (Up to 10 points)
-
   * Up to 10 points may be awarded for this category. Aspects of ‘Impact and Innovation’ that we may consider are:
-
     * The extent to which the submission is novel, groundbreaking, and/or a creative application of an existing approach.
     * The extent to which the submission may impact research surrounding education and prevention for Lyme disease.
     * The extent to which the submission provides new insights on the use of information on federal Lyme and Tickborne disease websites.
+
 * Uniqueness (Up to 10 points)
-
   * Up to 10 points may be awarded for this category. Aspects of ‘Uniqueness’ that we may consider are:
-
     * The extent to which the submission sets itself apart from previous or current educational materials intended to bring greater awareness of Lyme Disease, highlight the risks, and identify ways to prevent tick bites effectively.
     * The extent to which the submission sets itself apart from other submissions.
     * The extent to which the submission extends a novel idea, question, concept, or product to synthesize existing information.
