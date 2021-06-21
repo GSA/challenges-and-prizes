@@ -6,7 +6,7 @@ permalink: /challenge/air-you-wear-challenge/
 challenge-id: "1249"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/nih_nhlbi_stacked_sig_logo_cmyk.jpg
+card-image: /assets/netlify-uploads/nih-nhlbi-logo_resized-for-tile.jpg
 agency-logo: /assets/netlify-uploads/nih_nhlbi_stacked_sig_logo_cmyk.jpg
 tagline: Help outpatients on supplemental oxygen lead fuller lives and win money
   to develop your solution to improve their oxygen delivery options
@@ -351,9 +351,9 @@ The criteria that will be used to score submissions and assist with the selectio
 
 #### Phase 1 Judging Criteria
 
-* **Proposal Quality (5 pts)**
+* Proposal Quality (5 pts)
   * Is the submission complete and responsive? Is the writing clear, concise, and compelling? Are the ideas and information presented thoughtfully and in an easy-to-follow manner?
-* **Idea (total 55 points)**
+* Idea (total 55 points)
   * Feasibility (20 pts)
     * Is the idea practical? How easy would it be to implement? What barriers, if any, might there be to widespread adoption among patients, prescribers, and suppliers?
   * Impact (20 pts)
@@ -426,6 +426,7 @@ Participants cannot use the logo or official seal of the Department of Health an
     * What are the major milestones and what will be the biggest hurdle in successfully developing and demonstrating your technology.  How are you planning to address this hurdle?
     * The resources and expertise that you will need to successfully develop your proposed approach.  If there are resources and/or expertise needed that are currently not available to your team, how do you plan to address these gaps?
 * Supplemental Information (Upload files)
+
   * Please upload any supporting files, such as design files, team bios or CV’s, etc.
 
 ***Phase 2 Submission Form***
