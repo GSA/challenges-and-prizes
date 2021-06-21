@@ -320,6 +320,7 @@ Phase 1 finalists will have equal access to subject matter experts during the Ph
 **Eligibility Rules for Participating in the Challenge** 
 
 * To be eligible to win a prize under this Challenge, a Participant (whether an individual, team of individuals, or entity)
+
   * Shall have registered to participate in the Challenge under the rules promulgated by the National Heart, Lung, and Blood Institute (NHLBI) as published in this announcement; 
   * Shall have complied with all the requirements set forth in this announcement;
   * In the case of a private entity, shall be incorporated in the United States and also maintain a primary place of business in the United States. In the case of an individual, whether participating singly or in a group, shall be a citizen or permanent resident of the United States. However, non-U.S. citizens and non-permanent residents can participate as members of a team that otherwise satisfies the eligibility criteria. Non-U.S. citizens and non-permanent residents are not eligible to win monetary prizes (in whole or in part). Their participation as part of a winning team, if applicable, may be recognized when the results are announced.
@@ -352,76 +353,99 @@ The criteria that will be used to score submissions and assist with the selectio
 #### Phase 1 Judging Criteria
 
 * Proposal Quality (5 pts)
+
   * Is the submission complete and responsive? Is the writing clear, concise, and compelling? Are the ideas and information presented thoughtfully and in an easy-to-follow manner?
 * Idea (total 55 points)
+
   * Feasibility (20 pts)
+
     * Is the idea practical? How easy would it be to implement? What barriers, if any, might there be to widespread adoption among patients, prescribers, and suppliers?
   * Impact (20 pts)
+
     * How impactful is this idea? Does it have potential for use in other applications?
   * Innovation (15 pts)
+
     * How creative is the overall idea? Does it attempt to solve the problem with a different approach or using different tools?
 * Project Plan (25 pts)
+
   * Is the submitted project plan realistic, clear, and well-thought out? Does it identify the major hurdles that must be overcome for successful prototype development? Does the project plan clearly outline the activities and milestones that must occur in order to successfully demonstrate the prototype at the end of 30 weeks?
 * Team (15 pts)
+
   * Does the team have the necessary skills and expertise required to execute the project plan? Does the team have adequate access to resources and other experts, as needed?
 
 #### Phase 2 Judging Criteria
 
 * Oxygen Delivery Capability (50 pts)
+
   * Does the approach deliver supplemental oxygen as intended? How well does the prototype or demonstration address the key issues of weight, portability, duration, and flow rate?  
 * User Adoption (15 pts)
+
   * Why will this technology enjoy widespread adoption of this approach? Form factor, etc.
 * Commercial Potential (15 pts)
+
   * What is the commercial potential for this approach? Are there any issues that would affect its widespread adoption? Does this technology have potential for use in other applications?
 * Next Steps (10 pts)
+
   * What are the next steps for further development of this technology? What are the likely major hurdles and how would they be addressed?
 * Creativity (10 pts) 
+
   * Does the solution deliver supplemental oxygen in a new and different manner from existing approaches? Does the form factor or the solution overall present an elegant, new option to users? Did the team overcome any development hurdles in a creative, novel manner?
 
 ### How to Enter
 
 **Registration Process**
 
-Visit the official challenge page at [www.herox.com/AirYouWear](www.herox.com/AirYouWear). At the HeroX official challenge page, competitors may create a HeroX account and then click “Solve This Challenge” to complete their challenge registration. Once registered, competitors will use the HeroX platform and the Challenge Submission Form to complete and submit their proposed solution.
+Visit the official challenge page at [www.herox.com/AirYouWear](http://www.herox.com/airyouwear). At the HeroX official challenge page, competitors may create a HeroX account and then click “Solve This Challenge” to complete their challenge registration. Once registered, competitors will use the HeroX platform and the Challenge Submission Form to complete and submit their proposed solution.
 
-Registrations must be submitted on the challenge page, [www.herox.com/AirYouWear](www.herox.com/AirYouWear), by 5:00pm EST on September 14, 2021.
+Registrations must be submitted on the challenge page, [www.herox.com/AirYouWear](http://www.herox.com/AirYouWear), by 5:00pm EST on September 14, 2021.
 
 **Submission Requirements**
 
-Each submission for this challenge must be complete in order to be considered. If participants submit as a team or as an entity, they should identify a team leader who will serve as a point of contact and submit on behalf of the team. Only complete and correctly formatted submissions will be reviewed. Detailed instructions on the submission are listed below and also available on the challenge website at [www.herox.com/AirYouWear](www.herox.com/AirYouWear). 
+Each submission for this challenge must be complete in order to be considered. If participants submit as a team or as an entity, they should identify a team leader who will serve as a point of contact and submit on behalf of the team. Only complete and correctly formatted submissions will be reviewed. Detailed instructions on the submission are listed below and also available on the challenge website at [www.herox.com/AirYouWear](http://www.herox.com/AirYouWear). 
 
 Participants cannot use the logo or official seal of the Department of Health and Human Services (HHS); the National Institutes of Health (NIH); or the National Heart, Lung, and Blood Institute (NHLBI). Participants cannot claim federal government endorsement of their submissions.
 
-***All submissions must be submitted on the challenge page, [www.herox.com/AirYouWear](www.herox.com/AirYouWear). Submissions for Phase 1 are due by 5:00pm EST on September 14, 2021. Submissions for Phase 2 are due by 5:00pm EST on June 29, 2022.***
+***All submissions must be submitted on the challenge page, [www.herox.com/AirYouWear](http://www.herox.com/AirYouWear). Submissions for Phase 1 are due by 5:00pm EST on September 14, 2021. Submissions for Phase 2 are due by 5:00pm EST on June 29, 2022.***
 
 **Submission Details**
 
 ***Phase 1 Submission Form***
 
 * Team (formatted text, 3000 characters max)
+
   * For each team member: please list their names, their roles/expertise, and their email addresses. Please note who is the team leader/primary point of contact. 
 * Eligibility (Y/N)
+
   * Please confirm that you meet the eligibility requirements for this challenge.
 * Overview (formatted text, 1500 characters max)
+
   * Please provide an overview of your proposed approach:
+
     * What is your idea and why will it work?
     * How will it improve the patient’s experience?
     * How does your idea differ from current solutions to supplemental oxygen for outpatients?
 * Feasibility (formatted text, 6000 characters max)
+
   * Please discuss the feasibility of your idea:
+
     * What is the supporting evidence or scientific rationale for it?
     * What do you estimate is the technical maturity of your approach? (is it something completely new, something based on pre-existing technology, or something else)
     * How practical is your idea and how easy will it be for patients to use?
     * Is this something that will cost about the same as existing solutions?
     * What are potential barriers to its widespread adoption?
 * Impact (formatted text, 6000 characters max)
+
   * Please discuss the potential impact of your proposed approach:
+
     * How will it address one or more of the major patient concerns regarding supplemental oxygen? (lightweight/portable, lasts longer, and delivers the needed flow rate)
     * Is there potential for this approach to be used in other related or adjacent applications?
 * Innovation (formatted text, 3000 characters max)
+
   * How is your proposed approach different from existing solutions? Does the proposed approach use a novel technology, an existing technology in a novel way, or something else?  
 * Project Plan (formatted text, 4500 characters max)
+
   * Please provide a complete project plan, timeline, and supporting budget. If you are a Phase 1 winner, you will be expected to execute against your project plan. Be sure to address:
+
     * How you will be able to make a demonstrable prototype within the 30 week development period
     * What are the major milestones and what will be the biggest hurdle in successfully developing and demonstrating your technology.  How are you planning to address this hurdle?
     * The resources and expertise that you will need to successfully develop your proposed approach.  If there are resources and/or expertise needed that are currently not available to your team, how do you plan to address these gaps?
@@ -432,30 +456,42 @@ Participants cannot use the logo or official seal of the Department of Health an
 ***Phase 2 Submission Form***
 
 * Overview (formatted text, 2000 characters max)
+
   * Please provide an overview of Phase 2 development work:
+
     * What are the key findings/results?
     * How did your results meet your expectations?
     * What are your next steps?
 * Performance (formatted text, 9000 characters max)
+
   * Please discuss in detail how your technology works. Also, please share how your approach performed in terms of:
+
     * Oxygen delivery
     * Weight and portability
     * Duration of use
     * Flexibility for different patient needs
 * Usability (formatted text, 6000 characters max)
+
   * Please discuss the advantages your technology offers to patients. Are there potential barriers to widespread adoption by patients?
 * Commercial Potential (formatted text, 3000 characters max)
+
   * Discuss your technology’s potential for commercial success. What do you foresee as possible hurdles to commercial development? Are there other applications where this technology might be used?
 * Next Steps (formatted text, 3000 characters max)
+
   * What are the next steps for further development of your technology? What additional resources will you need to support those next steps? 
 * Creativity (formatted text, 2000 characters max)
+
   * Looking at your developed solution and the development process to arrive at this point, please discuss how your solution and process demonstrate creativity by addressing at least the following points:
+
     * How is your technology different from existing supplemental oxygen options?
     * Why will users view this as an attractive and new option?
     * If you ran into any unexpected development problems, do you believe you overcame them in unusual or innovative ways?
 * Video 1 (link)
+
   * Please provide the link to a video that shows your technology in action. Be sure to show both set-up and operation steps.  
 * Video 2 (link, optional) 
+
   * This second video is optional. Please provide a link to a 30-90 second video that is suitable for general public viewing. NIH NHLBI is interested in having this content to be able to create montages or other assets that help build awareness of this issue and of other relevant activities in the space.
 * Supplemental Information (upload files)
+
   * Please upload any supporting files, such as design files, data sets, etc.
