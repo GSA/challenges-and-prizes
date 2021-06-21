@@ -28,7 +28,7 @@ legal-authority: Other
 challenge-manager: Carly Jackson; LT Tricia Nguyen
 challenge-manager-email: carly.jackson@navy.mil; tricia.nguyen@navy.mil
 point-of-contact: netantx@niwc.navy.mil
-body-content-uploads: /assets/netlify-uploads/ainetantx-quad-template.pptx
+body-content-uploads: /assets/netlify-uploads/distro_a-netantx-challenge_white-paper-template.pdf
 description: >-
   #### General Overview
 
@@ -354,6 +354,8 @@ how-to-enter: >-
 
   Submission URL or Email: Please submit entries to the following email address: [NetANTX@niwc.navy.mil](mailto:NetANTX@niwc.navy.mil)
 ---
+**\*\* Q&A (Last Updated: June 21, 2021):** [Click here for Q&A]({{site.baseurl}}/assets/netlify-uploads/ainetantx-networks-prize-challenge-qa-18june21.pdf) \*\*
+
 ### Description
 
 Project Overmatch has established methods, tools, and integrated rapid innovation laboratory (iRIL) environments for the continuous exploration of emerging technologies that will advance the reach, capacity, and resiliency of maritime tactical network of networks. The NetANTX Challenge, hereinafter referred to as the “Challenge”, is focused on quickly identifying operationally relevant innovations and emerging networking technologies, which are critical to retaining and progressing Naval overmatch in the maritime domain. Selected participants will be invited to demonstrate candidate technologies in an integrated rapid innovation laboratory (iRIL), which is a simulation-based environment (SBE) that will employ tactically-relevant scenarios in operationally-relevant conditions. The iRIL and assessment criteria will focus on technologies that contribute specifically to the Open Systems Interconnection model (OSI model) network layer or layer 3. The OSI model defines the functionality of the network layer as structuring and managing multi-node network, including addressing, routing, and traffic engineering (https://www.itu.int/rec/T-REC-X.220-198811-S/en). Solutions are expected to run on a Linux (Centos7) platform, with potentially multiple Ethernet interfaces. Solutions are expected to control how application packets are forwarded, queued or dropped on a per-packet or per-flow basis. Technologies that operate above layer 3 (e.g. Application layer routing protcols), but manipulate the routing tables or capture and redirect traffic to interfaces are within scope. Solutions that leverage Software Defined Networking (SDN) technologies or Mobile Ad-hoc Networking (MANET) solutions are both encouraged.
@@ -420,7 +422,7 @@ Instructions for classified submissions may be requested via [NetAntx@niwc.navy.
 
 **White Paper Submission Guidelines:**
 
-White papers should provide an overview of the proposed networking technology, technical approach (e.g. architecture, deployment overview, algorithm descriptions, model descriptions, performance requirements, endpoint footprint, existing results, etc.), the benefits and novelty of the approach within the context of existing academic and commercially available technologies, and the dependencies necessary (e.g. data, platform, network connectivity, etc.) to operate the proposed technology. White papers must be no more than six pages in length and in conformance with the white paper submission instructions provided in Appendix A.  All white papers must be submitted via email to: [NetANTX@niwc.navy.mil](mailto:NetANTX@niwc.navy.mil) by 1200 PST July 27, 2021. 
+White papers should provide an overview of the proposed networking technology, technical approach (e.g. architecture, deployment overview, algorithm descriptions, model descriptions, performance requirements, endpoint footprint, existing results, etc.), the benefits and novelty of the approach within the context of existing academic and commercially available technologies, and the dependencies necessary (e.g. data, platform, network connectivity, etc.) to operate the proposed technology. White papers must be no more than six pages in length and in conformance with the white paper submission instructions provided in [Appendix A]({{site.baseurl}}/assets/netlify-uploads/distro_a-netantx-challenge_white-paper-template.pdf).  All white papers must be submitted via email to: [NetANTX@niwc.navy.mil](mailto:NetANTX@niwc.navy.mil) by 1200 PST July 27, 2021. 
 
 Where appropriate, use protective markings such as “Do Not Publicly Release – Trade Secret” or “Do Not Publicly Release – Confidential Proprietary Business Information” in the header or footer of the white paper.
 
@@ -587,3 +589,7 @@ NAVWAR is executing two simultaneous but independent prize challenges the AINet 
 See Rules.
 
 Submission URL or Email: Please submit entries to the following email address: [NetANTX@niwc.navy.mil](mailto:NetANTX@niwc.navy.mil)
+
+[Appendix A: White Paper Submission Guidelines]({{site.baseurl}}/assets/netlify-uploads/distro_a-netantx-challenge_white-paper-template.pdf)
+
+[Appendix B: Quad Chart Template]({{site.baseurl}}/assets/netlify-uploads/ainetantx-quad-template.pptx)
