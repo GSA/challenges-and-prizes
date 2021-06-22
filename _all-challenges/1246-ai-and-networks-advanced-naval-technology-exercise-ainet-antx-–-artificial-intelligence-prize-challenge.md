@@ -1,5 +1,5 @@
 ---
-title: " Artificial Intelligence Prize Challenge"
+title: ""
 challenge-title: AI and Networks Advanced Naval Technology Exercise (AINet ANTX)
   - Artificial Intelligence Prize Challenge
 layout: front-matter-data-markdownify-content
