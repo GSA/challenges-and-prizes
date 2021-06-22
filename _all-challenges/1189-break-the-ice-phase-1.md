@@ -4,7 +4,7 @@ challenge-title: Break the Ice Phase 1
 layout: front-matter-data-markdownify-content
 permalink: /challenge/break-the-ice-phase1/
 challenge-id: "1189"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/breaktheicelogo-blackbg-2x.png
 agency-logo: /assets/netlify-uploads/717px-NASA_logo.png
@@ -19,8 +19,8 @@ total-prize-offered-cash: $500,000
 type-of-challenge:
   - Ideas
   - Scientific
-submission-start: 2020/11/18 11:00 AM
-submission-end: 2021/06/18 11:59 PM
+submission-start: 11/18/2020 11:00 AM
+submission-end: 06/18/2021 11:59 PM
 fiscal-year: FY20, FY21, FY22, FY23
 legal-authority: Other
 challenge-manager: "Naveen Vetcha "
