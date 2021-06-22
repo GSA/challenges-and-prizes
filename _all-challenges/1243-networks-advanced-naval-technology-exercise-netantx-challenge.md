@@ -380,7 +380,7 @@ Each of the above conditions poses a significant challenge to network operation.
 #### Key Dates
 
 * Challenge Registration and Submissions Opens**:  June 2021**
-* [Virtual Q&A Session with prospective participants](<* ({{site.baseurl}}/assets/netlify-uploads/distro_a-ainetantx-30jun21-virtual-live-qa-announcement-and-registration-information.pdf>): **June 30, 2021**
+* [Virtual Q&A Session with prospective participants]({{site.baseurl}}/assets/netlify-uploads/distro_a-ainetantx-30jun21-virtual-live-qa-announcement-and-registration-information.pdf): **June 30, 2021**
 * White Paper/Quad Chart Deadline: **July 27, 2021**
 * Review/ Down-selection Boards: **August 10 - August 12, 2021**
 * Announce invited AINet ANTX Challenge participants:  **August 24, 2021**
