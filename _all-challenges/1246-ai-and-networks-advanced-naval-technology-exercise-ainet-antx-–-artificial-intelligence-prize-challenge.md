@@ -397,6 +397,10 @@ how-to-enter: |-
 
   **Submission URL or Email**: <NetANTX@niwc.navy.mil>
 ---
+#### IMPORTANT UPDATES:
+
+* NAVWAR will be hosting a virtual Q&A Session on June 30, 2021. [Click here for more information and to register.]({{site.baseurl}}/assets/netlify-uploads/distro_a-ainetantx-30jun21-virtual-live-qa-announcement-and-registration-information.pdf)
+
 ### Description
 
 Consider a scenario where developers, data scientists, machine learning (ML) engineers, etc., have access to training-quality datasets via the Overmatch Software Armory’s (OSA) secure, shore-based, Virtual Desktop Infrastructure (VDI) enabled environment. Pipelined training-quality datasets are stored in Apache Parquet format and readily available for query, discovery, and retrieval from RESTful Services via Swagger UI, Command Line Interface (CLI), and/or the Java software development kit (SDK). The OSA environment also provides access to pertinent artificial intelligence (AI) tooling, e.g. Anaconda, Amazon Web Services (AWS) SageMaker, etc., which is used to perform data engineering, build/train ML models, and/or develop AI-enabled capabilities (e.g. Natural Language Processing / Natural Language Understanding (NLP/NLU), reasoning, planning, etc.). 
@@ -408,7 +412,7 @@ Datasets will be made available to participants in two forms: datasets and files
 #### Key Dates
 
 * Challenge Registration and Submissions Opens: **June 2021**
-* Virtual Q&A Session with prospective participants:  **June 30, 2021**	
+* [Virtual Q&A Session with prospective participants]({{site.baseurl}}/assets/netlify-uploads/distro_a-ainetantx-30jun21-virtual-live-qa-announcement-and-registration-information.pdf):  **June 30, 2021**	
 * White Paper/Quad Chart Deadline:  **July 27, 2021**
 * Review/ Down-selection Boards:  **August 10 - August 12, 2021**
 * Announce invited AINet ANTX Challenge participants:  **August 24, 2021**
@@ -640,4 +644,4 @@ NAVWAR is executing two simultaneous but independent prize challenges the AINet 
 
 See: Rules.
 
-**Submission URL or Email**: <NetANTX@niwc.navy.mil>
+**Submission URL or Email**: [NetANTX@niwc.navy.mil](mailto:NetANTX@niwc.navy.mil)
