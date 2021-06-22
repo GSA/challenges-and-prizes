@@ -1,7 +1,7 @@
 ---
 title: Card Title Here
 challenge-title: AI and Networks Advanced Naval Technology Exercise (AINet ANTX)
-  – Artificial Intelligence Prize Challenge
+  - Artificial Intelligence Prize Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/networks-advanced-naval-technology-exercise-ainetantx-artificial-intelligence-prize-challenge/
 challenge-id: "1246"
@@ -28,7 +28,7 @@ legal-authority: Other
 challenge-manager: Carly Jackson
 challenge-manager-email: carly.jackson@navy.mil
 point-of-contact: charles.yetman@navy.mil
-body-content-uploads: /assets/netlify-uploads/ainetantx-quad-template.pptx
+body-content-uploads: /assets/netlify-uploads/distro_a-ainetantx-30jun21-virtual-live-qa-announcement-and-registration-information.pdf
 description: >-
   Consider a scenario where developers, data scientists, machine learning (ML)
   engineers, etc., have access to training-quality datasets via the Overmatch
@@ -397,6 +397,10 @@ how-to-enter: |-
 
   **Submission URL or Email**: <NetANTX@niwc.navy.mil>
 ---
+#### IMPORTANT UPDATES:
+
+* NAVWAR will be hosting a virtual Q&A Session on June 30, 2021. [Click here for more information and to register]({{site.baseurl}}/assets/netlify-uploads/distro_a-ainetantx-30jun21-virtual-live-qa-announcement-and-registration-information.pdf).
+
 ### Description
 
 Consider a scenario where developers, data scientists, machine learning (ML) engineers, etc., have access to training-quality datasets via the Overmatch Software Armory’s (OSA) secure, shore-based, Virtual Desktop Infrastructure (VDI) enabled environment. Pipelined training-quality datasets are stored in Apache Parquet format and readily available for query, discovery, and retrieval from RESTful Services via Swagger UI, Command Line Interface (CLI), and/or the Java software development kit (SDK). The OSA environment also provides access to pertinent artificial intelligence (AI) tooling, e.g. Anaconda, Amazon Web Services (AWS) SageMaker, etc., which is used to perform data engineering, build/train ML models, and/or develop AI-enabled capabilities (e.g. Natural Language Processing / Natural Language Understanding (NLP/NLU), reasoning, planning, etc.). 
@@ -408,7 +412,7 @@ Datasets will be made available to participants in two forms: datasets and files
 #### Key Dates
 
 * Challenge Registration and Submissions Opens: **June 2021**
-* Virtual Q&A Session with prospective participants:  **June 30, 2021**	
+* [Virtual Q&A Session with prospective participants]({{site.baseurl}}/assets/netlify-uploads/distro_a-ainetantx-30jun21-virtual-live-qa-announcement-and-registration-information.pdf):  **June 30, 2021**	
 * White Paper/Quad Chart Deadline:  **July 27, 2021**
 * Review/ Down-selection Boards:  **August 10 - August 12, 2021**
 * Announce invited AINet ANTX Challenge participants:  **August 24, 2021**
@@ -471,7 +475,7 @@ Technology submissions will include:
 * Documentation describing how to run the technology within the OSA
 * Ease of use, through scripts or user interface, is highly encouraged.
 
-Q&A sessions and an iRIL integration workshop will be held throughout the Challenge where additional details will be provided that describe the OSA environment and architecture, available datasets, relevant scenarios, and operationally relevant conditions. This announcement will be updated with specifics, but questions regarding the challenge must be submitted via email to NetANTX@niwc.navy.mil no later than 5 days prior to the virtual event. 
+Q&A sessions and an iRIL integration workshop will be held throughout the Challenge where additional details will be provided that describe the OSA environment and architecture, available datasets, relevant scenarios, and operationally relevant conditions. This announcement will be updated with specifics, but questions regarding the challenge must be submitted via email to [NetANTX@niwc.navy.mil](mailto:NetANTX@niwc.navy.mil) no later than 5 days prior to the virtual event. 
 
 Questions submitted after the deadline may not be addressed.
 
@@ -640,4 +644,4 @@ NAVWAR is executing two simultaneous but independent prize challenges the AINet 
 
 See: Rules.
 
-**Submission URL or Email**: <NetANTX@niwc.navy.mil>
+**Submission URL or Email**: [NetANTX@niwc.navy.mil](mailto:NetANTX@niwc.navy.mil)
