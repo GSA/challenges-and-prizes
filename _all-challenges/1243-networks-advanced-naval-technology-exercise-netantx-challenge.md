@@ -28,7 +28,7 @@ legal-authority: Other
 challenge-manager: Carly Jackson; LT Tricia Nguyen
 challenge-manager-email: carly.jackson@navy.mil; tricia.nguyen@navy.mil
 point-of-contact: netantx@niwc.navy.mil
-body-content-uploads: /assets/netlify-uploads/distro_a-ainetantx-30jun21-virtual-live-qa-announcement-and-registration-information.pdf
+body-content-uploads: /assets/netlify-uploads/ainetantx-networks-prize-challenge-qa-21june21.pdf
 description: >-
   #### General Overview
 
