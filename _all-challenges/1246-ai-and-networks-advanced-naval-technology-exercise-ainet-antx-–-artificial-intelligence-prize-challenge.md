@@ -28,7 +28,7 @@ legal-authority: Other
 challenge-manager: Carly Jackson
 challenge-manager-email: carly.jackson@navy.mil
 point-of-contact: charles.yetman@navy.mil
-body-content-uploads: /assets/netlify-uploads/ainetantx-quad-template.pptx
+body-content-uploads: /assets/netlify-uploads/distro_a-ainetantx-30jun21-virtual-live-qa-announcement-and-registration-information.pdf
 description: >-
   Consider a scenario where developers, data scientists, machine learning (ML)
   engineers, etc., have access to training-quality datasets via the Overmatch
@@ -399,7 +399,7 @@ how-to-enter: |-
 ---
 #### IMPORTANT UPDATES:
 
-* NAVWAR will be hosting a virtual Q&A Session on June 30, 2021. [Click here for more information and to register.]({{site.baseurl}}/assets/netlify-uploads/distro_a-ainetantx-30jun21-virtual-live-qa-announcement-and-registration-information.pdf)
+* NAVWAR will be hosting a virtual Q&A Session on June 30, 2021. [Click here for more information and to register]({{site.baseurl}}/assets/netlify-uploads/distro_a-ainetantx-30jun21-virtual-live-qa-announcement-and-registration-information.pdf).
 
 ### Description
 
