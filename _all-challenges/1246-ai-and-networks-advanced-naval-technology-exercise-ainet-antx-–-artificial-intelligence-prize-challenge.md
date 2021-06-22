@@ -475,7 +475,7 @@ Technology submissions will include:
 * Documentation describing how to run the technology within the OSA
 * Ease of use, through scripts or user interface, is highly encouraged.
 
-Q&A sessions and an iRIL integration workshop will be held throughout the Challenge where additional details will be provided that describe the OSA environment and architecture, available datasets, relevant scenarios, and operationally relevant conditions. This announcement will be updated with specifics, but questions regarding the challenge must be submitted via email to NetANTX@niwc.navy.mil no later than 5 days prior to the virtual event. 
+Q&A sessions and an iRIL integration workshop will be held throughout the Challenge where additional details will be provided that describe the OSA environment and architecture, available datasets, relevant scenarios, and operationally relevant conditions. This announcement will be updated with specifics, but questions regarding the challenge must be submitted via email to [NetANTX@niwc.navy.mil](mailto:NetANTX@niwc.navy.mil) no later than 5 days prior to the virtual event. 
 
 Questions submitted after the deadline may not be addressed.
 
