@@ -32,24 +32,22 @@ description: >-
   detailed judging criteria for Phase II.
 
 
-  The following eight (8) participants were selected to participate in Phase II – Virtual Vignettes for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant names are listed below in alphabetical order:
+  The following seven (7) participants were selected to participate in Phase II – Virtual Vignettes for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant names are listed below in alphabetical order:
 
 
-  1. ASEC, Inc.
+  1. Codex Laboratories LLC
 
-  2. Codex Laboratories LLC
+  2. Draper
 
-  3. Draper
+  3. EpiSys Science, Inc.
 
-  4. EpiSys Science, Inc.
+  4. Heron Systems Inc.
 
-  5. Heron Systems Inc.
+  5. Indiana University-Bloomington
 
-  6. Indiana University-Bloomington
+  6. Raytheon BBN Technologies
 
-  7. Raytheon BBN Technologies
-
-  8. TurbineOne, LLC
+  7. TurbineOne, LLC
 
 
   Earlier, twenty (20) participants were invited to present their Phase I White Paper concepts to the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge judging panel. Invited participant names are listed below in alphabetical order:
@@ -244,11 +242,14 @@ prizes: >-
 
     * Scenario 1:
 
-      ![Prize Breakdown Phase II Scenario 1]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-1-table-1-.jpg "Prize Breakdown Phase II Scenario 1")
+      ![Prize Breakdown Phase II Scenario 1]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-1-table_22jun2021.png "Prize Breakdown Phase II Scenario 1")
     * Scenario 2:
 
-    ![Prize Breakdown Phase II Scenario 2]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-2-table-1-.jpg "Prize Breakdown Phase II Scenario 2")
+    ![Prize Breakdown Phase II Scenario 2]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-2-table_22jun2021.png "Prize Breakdown Phase II Scenario 2")
 
+    The minimum threshold requirements will be set before the beginning of the virtual runs.
+
+  * Phase III – A prize purse up to $500,000 will be disbursed with disparity to the participants who score above the minimum threshold requirements in the live event in which their proposed solutions will integrate on the provided drones for time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion at the Muscatatuck Urban Training Center (MUTC).
     The minimum threshold requirements will be set before the beginning of the virtual runs.
   * Phase III – A prize purse up to $500,000 will be disbursed with disparity to the participants who score above the minimum threshold requirements in the live event in which their proposed solutions will integrate on the provided drones for time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion at the Muscatatuck Urban Training Center (MUTC).
 rules: >-
@@ -617,10 +618,10 @@ The total prize purse is increased to $750,000. The Government reserves the righ
 
   * Scenario 1:
 
-    ![Prize Breakdown Phase II Scenario 1]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-1-table-1-.jpg "Prize Breakdown Phase II Scenario 1")
+    ![Prize Breakdown Phase II Scenario 1]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-1-table_22jun2021.png "Prize Breakdown Phase II Scenario 1")
   * Scenario 2:
 
-  ![Prize Breakdown Phase II Scenario 2]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-2-table-1-.jpg "Prize Breakdown Phase II Scenario 2")
+  ![Prize Breakdown Phase II Scenario 2]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-2-table_22jun2021.png "Prize Breakdown Phase II Scenario 2")
 
   The minimum threshold requirements will be set before the beginning of the virtual runs.
 * Phase III – A prize purse up to $500,000 will be disbursed with disparity to the participants who score above the minimum threshold requirements in the live event in which their proposed solutions will integrate on the provided drones for time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion at the Muscatatuck Urban Training Center (MUTC).
@@ -723,35 +724,25 @@ The Phase II Judging Criteria will evaluate:
 Scenario 1
 
 * Maneuver: Time to Complete 
-
   * Time starts on drone entry, ends when drone lands or is otherwise collected after passing through the back door.
 * Recon: Object Detection
-
   * Drone will tally and report the number of defined objects of interest which were observed. 
 * Collisions will be tracked in the simulation environment; they will be used as a score tiebreaker
 
 Scenario 2
-
 * Maneuver: Complete mapping and exit building
-
   * Run ends when drone lands or is otherwise collected after passing through the back door. 
 * Mapping: Produce map of internal space
-
   * Produce a 3D model of the internal environment. Assessment of the quality/legibility of the map as a floorplan.
 * Recon: Detect the humans
-
   * Drone reports total number of humans within the search area.
 * Recon: Place objects on map
-
   * A score will be recorded if the objects which were detected (objects and humans) are located correctly and labeled on the provided map (within the correct quadrant of the correct room).
 * Mapping: Area Coverage
-
   * Number of rooms identifiable on produced map.
 * Recon: Detect the defined objects
-
   * The drone will report the number of objects it detected.
 * Recon: Detect the humans; Identify combatant/non-combatant
-
   * Drone identifies humans as either combatant or civilian. Combatants will be holding a broom, versus Civilians, which will not.
 * *Collisions will be tracked in the simulation environment; they will be used as a score tiebreaker*
 
@@ -775,7 +766,6 @@ Initial submission of the White Paper Concept shall not exceed five pages and re
 * Electronic files shall be formatted for Microsoft Windows Office 2010: text shall be prepared using Microsoft Word compatible formats; spreadsheets, worksheets, or workbooks shall be prepared using Microsoft Excel 2010 compatible formats, and presentations prepared using PowerPoint compatible formats. All schedules shall be prepared in Microsoft Project 2010 compatible applications.
 * A glossary shall be included of all abbreviations and acronyms used with an explanation for each that will NOT be included in the page count.
 * A cover sheet should be include with the following information:
-
   * Challenge Title
   * Name(s) of company(ies) and POC individual(s) 
   * Address(es)
