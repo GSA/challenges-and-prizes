@@ -1,7 +1,7 @@
 ---
 title: Card Title Here
-challenge-title: AI and Networks Advanced Naval Technology Exercise (AINet ANTX)
-  – Artificial Intelligence Prize Challenge
+challenge-title: AI and Networks Advanced Naval Technology Exercise AINet ANTX
+  Artificial Intelligence Prize Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/networks-advanced-naval-technology-exercise-ainetantx-artificial-intelligence-prize-challenge/
 challenge-id: "1246"
