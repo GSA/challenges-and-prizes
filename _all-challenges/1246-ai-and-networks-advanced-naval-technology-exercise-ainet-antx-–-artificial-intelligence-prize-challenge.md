@@ -425,7 +425,7 @@ Datasets will be made available to participants in two forms: datasets and files
 
 ### **Prizes**
 
-#### Total Cash Prize Pool
+#### Total Cash Prize Pool 
 
 $100,000
 
