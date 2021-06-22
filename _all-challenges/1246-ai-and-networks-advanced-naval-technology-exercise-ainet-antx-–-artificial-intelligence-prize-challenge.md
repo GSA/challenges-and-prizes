@@ -21,7 +21,7 @@ type-of-challenge:
   - Ideas
   - Analytics, visualizations, algorithms
   - Scientific
-submission-start: "2021/06/11 "
+submission-start: 2021/06/11 00:00 AM
 submission-end: 2021/07/27 03:00 PM
 fiscal-year: FY22
 legal-authority: Other
