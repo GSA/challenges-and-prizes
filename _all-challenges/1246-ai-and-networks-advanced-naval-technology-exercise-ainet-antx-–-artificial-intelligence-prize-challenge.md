@@ -399,7 +399,7 @@ how-to-enter: |-
 ---
 #### IMPORTANT UPDATES:
 
-* NAVWAR will be hosting a virtual Q&A Session on June 30, 2021. [Click here for more information and to register]({{site.baseurl}}/assets/netlify-uploads/distro_a-ainetantx-30jun21-virtual-live-qa-announcement-and-registration-information.pdf). 
+* NAVWAR will be hosting a virtual Q&A Session on June 30, 2021. [Click here for more information and to register]({{site.baseurl}}/assets/netlify-uploads/distro_a-ainetantx-30jun21-virtual-live-qa-announcement-and-registration-information.pdf).
 
 ### Description
 
