@@ -22,13 +22,13 @@ type-of-challenge:
   - Analytics, visualizations, algorithms
   - Scientific
 submission-start: 2021/06/02 00:00 AM
-submission-end: 2021/07/27 15:00 PM
+submission-end: 2021/07/27 03:00 PM
 fiscal-year: FY21
 legal-authority: Other
 challenge-manager: Carly Jackson; LT Tricia Nguyen
 challenge-manager-email: carly.jackson@navy.mil; tricia.nguyen@navy.mil
 point-of-contact: netantx@niwc.navy.mil
-body-content-uploads: /assets/netlify-uploads/distro_a-netantx-challenge_white-paper-template.pdf
+body-content-uploads: /assets/netlify-uploads/distro_a-ainetantx-30jun21-virtual-live-qa-announcement-and-registration-information.pdf
 description: >-
   #### General Overview
 
@@ -354,7 +354,10 @@ how-to-enter: >-
 
   Submission URL or Email: Please submit entries to the following email address: [NetANTX@niwc.navy.mil](mailto:NetANTX@niwc.navy.mil)
 ---
-**\*\* Q&A (Last Updated: June 21, 2021):** [Click here for Q&A]({{site.baseurl}}/assets/netlify-uploads/ainetantx-networks-prize-challenge-qa-18june21.pdf) \*\*
+#### IMPORTANT UPDATES:
+
+* Q&A (Last Updated: June 21, 2021): [Click here for Q&A]({{site.baseurl}}/assets/netlify-uploads/ainetantx-networks-prize-challenge-qa-21june21.pdf)
+* NAVWAR will be hosting a virtual Q&A Session on June 30, 2021. [Click here for more information and to register.](<* ({{site.baseurl}}/assets/netlify-uploads/distro_a-ainetantx-30jun21-virtual-live-qa-announcement-and-registration-information.pdf>)
 
 ### Description
 
@@ -377,7 +380,7 @@ Each of the above conditions poses a significant challenge to network operation.
 #### Key Dates
 
 * Challenge Registration and Submissions Opens**:  June 2021**
-* Virtual Q&A Session with prospective participants: **June 30, 2021**
+* [Virtual Q&A Session with prospective participants](<* ({{site.baseurl}}/assets/netlify-uploads/distro_a-ainetantx-30jun21-virtual-live-qa-announcement-and-registration-information.pdf>): **June 30, 2021**
 * White Paper/Quad Chart Deadline: **July 27, 2021**
 * Review/ Down-selection Boards: **August 10 - August 12, 2021**
 * Announce invited AINet ANTX Challenge participants:  **August 24, 2021**
@@ -422,13 +425,13 @@ Instructions for classified submissions may be requested via [NetAntx@niwc.navy.
 
 **White Paper Submission Guidelines:**
 
-White papers should provide an overview of the proposed networking technology, technical approach (e.g. architecture, deployment overview, algorithm descriptions, model descriptions, performance requirements, endpoint footprint, existing results, etc.), the benefits and novelty of the approach within the context of existing academic and commercially available technologies, and the dependencies necessary (e.g. data, platform, network connectivity, etc.) to operate the proposed technology. White papers must be no more than six pages in length and in conformance with the white paper submission instructions provided in [Appendix A]({{site.baseurl}}/assets/netlify-uploads/distro_a-netantx-challenge_white-paper-template.pdf).  All white papers must be submitted via email to: [NetANTX@niwc.navy.mil](mailto:NetANTX@niwc.navy.mil) by 1200 PST July 27, 2021. 
+White papers should provide an overview of the proposed networking technology, technical approach (e.g. architecture, deployment overview, algorithm descriptions, model descriptions, performance requirements, endpoint footprint, existing results, etc.), the benefits and novelty of the approach within the context of existing academic and commercially available technologies, and the dependencies necessary (e.g. data, platform, network connectivity, etc.) to operate the proposed technology. White papers must be no more than six pages in length and in conformance with the white paper submission instructions provided in [Appendix A]({{site.baseurl}}/assets/netlify-uploads/distro_a-netantx-challenge_white-paper-template.pdf).  All white papers must be submitted via email to: [NetANTX@niwc.navy.mil](mailto:NetANTX@niwc.navy.mil) by 1500 EST/1200 PST July 27, 2021. 
 
 Where appropriate, use protective markings such as “Do Not Publicly Release – Trade Secret” or “Do Not Publicly Release – Confidential Proprietary Business Information” in the header or footer of the white paper.
 
 **Quad Chart Submission Guidelines**:
 
-Quad charts shall be submitted in accordance with the quad chart template provided as [Appendix B]({{site.baseurl}}/assets/netlify-uploads/ainetantx-quad-template.pptx) with all content (text, graphics, pictures, etc.) pre-approved for public release. The Challenge team may use portions of the submitted content for event planning, reports, and for external communication materials. 
+Quad charts shall be submitted in accordance with the quad chart template provided as [Appendix B]({{site.baseurl}}/assets/netlify-uploads/ainetantx-quad-template.pptx) with all content (text, graphics, pictures, etc.) pre-approved for public release. The single slide quad-chart must be submitted in Microsoft PowerPoint version 16.0 or greater, which is Microsoft Office 2016, Microsoft Office 2019, and Microsoft Office 365. The file extension can be in either in .PPT or .PPTX. Quad charts must be attached to the same email when white papers are submitted by 1500 EST/1200 PST July 27, 2021. The quad chart shall include a “Distribution A: Approved for Public release” marking in the footer. The submitted file should have the name format “ORGANIZATIONNAME_QUADCHART(.PPT or .PPTX)”. The quad-chart should be a concise summary of the full proposal that can be displayed in a single slide. The Challenge team may use portions of the submitted content for event planning, reports, and for external communication materials.
 
 **Networking Technology submissions will include**:
 
