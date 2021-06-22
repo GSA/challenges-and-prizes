@@ -577,11 +577,9 @@ The government estimates the following timeline for the completion of the prize 
 ***Phase I***
 
 * Technical White Paper Submission open 50 calendar days
-
   * Opens Dec. 10, 2020
   * Closes Jan. 29, 2021
   * NSWC Crane Project Talks: Dec. 17, 2020 (A virtual panel was available to answer questions related to the challenge.gov posting and the Prize Challenge from 1300-1500 ET)
-
     * NSWC Crane Project Talks Presentation can be found [here](https://434cll131hi945boxu2a7cmf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/AISUM-Project-Talks-Presentation-FINAL.pdf)
     * The recording of this event can be found [here](https://www.youtube.com/watch?v=s-5tnYk74o4)
 * Evaluation period 10-14 calendar days  
@@ -618,7 +616,8 @@ The total prize purse is increased to $750,000. The Government reserves the righ
 
   * Scenario 1:
 
-    ![Prize Breakdown Phase II Scenario 1]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-1-table_22jun2021.png "Prize Breakdown Phase II Scenario 1")
+  ![Prize Breakdown Phase II Scenario 1]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-1-table_22jun2021.png "Prize Breakdown Phase II Scenario 1")
+
   * Scenario 2:
 
   ![Prize Breakdown Phase II Scenario 2]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-2-table_22jun2021.png "Prize Breakdown Phase II Scenario 2")
@@ -724,25 +723,35 @@ The Phase II Judging Criteria will evaluate:
 Scenario 1
 
 * Maneuver: Time to Complete 
+
   * Time starts on drone entry, ends when drone lands or is otherwise collected after passing through the back door.
 * Recon: Object Detection
+
   * Drone will tally and report the number of defined objects of interest which were observed. 
 * Collisions will be tracked in the simulation environment; they will be used as a score tiebreaker
 
 Scenario 2
+
 * Maneuver: Complete mapping and exit building
+
   * Run ends when drone lands or is otherwise collected after passing through the back door. 
 * Mapping: Produce map of internal space
+
   * Produce a 3D model of the internal environment. Assessment of the quality/legibility of the map as a floorplan.
 * Recon: Detect the humans
+
   * Drone reports total number of humans within the search area.
 * Recon: Place objects on map
+
   * A score will be recorded if the objects which were detected (objects and humans) are located correctly and labeled on the provided map (within the correct quadrant of the correct room).
 * Mapping: Area Coverage
+
   * Number of rooms identifiable on produced map.
 * Recon: Detect the defined objects
+
   * The drone will report the number of objects it detected.
 * Recon: Detect the humans; Identify combatant/non-combatant
+
   * Drone identifies humans as either combatant or civilian. Combatants will be holding a broom, versus Civilians, which will not.
 * *Collisions will be tracked in the simulation environment; they will be used as a score tiebreaker*
 
@@ -766,6 +775,7 @@ Initial submission of the White Paper Concept shall not exceed five pages and re
 * Electronic files shall be formatted for Microsoft Windows Office 2010: text shall be prepared using Microsoft Word compatible formats; spreadsheets, worksheets, or workbooks shall be prepared using Microsoft Excel 2010 compatible formats, and presentations prepared using PowerPoint compatible formats. All schedules shall be prepared in Microsoft Project 2010 compatible applications.
 * A glossary shall be included of all abbreviations and acronyms used with an explanation for each that will NOT be included in the page count.
 * A cover sheet should be include with the following information:
+
   * Challenge Title
   * Name(s) of company(ies) and POC individual(s) 
   * Address(es)
