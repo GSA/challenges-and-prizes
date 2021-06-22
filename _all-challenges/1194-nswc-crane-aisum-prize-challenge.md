@@ -4,7 +4,7 @@ challenge-title: NSWC Crane AISUM Prize Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/nswc-crane-aisum-prize-challenge/
 challenge-id: "1194"
-status: closed
+status: open
 sidenav: true
 card-image: /assets/netlify-uploads/navalx-midwest-logo-resize.png
 agency-logo: /assets/netlify-uploads/sealnavy.png
@@ -18,8 +18,8 @@ type-of-challenge:
   - Ideas
   - Technology demonstration and hardware
   - Scientific
-submission-start: 12/10/2020 2:00 PM
-submission-end: 01/29/2021 2:00 PM
+submission-start: 2020/12/10 2:00 PM
+submission-end: 2021/01/29 2:00 PM
 fiscal-year: FY21
 legal-authority: Other
 challenge-manager: Derek Perry
@@ -484,16 +484,15 @@ how-to-enter: >-
 
 See the Prizes Section (Total Cash Prize Pool and Prize Breakdown) below for the total prize purse increase and further detailed prize breakdown information. See the Judging Section (Judging Criteria) below for further detailed judging criteria for Phase II.
 
-The following eight (8) participants were selected to participate in Phase II – Virtual Vignettes for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant names are listed below in alphabetical order:
+The following seven (7) participants were selected to participate in Phase II – Virtual Vignettes for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant names are listed below in alphabetical order:
 
-1. ASEC, Inc.
-2. Codex Laboratories LLC
-3. Draper
-4. EpiSys Science, Inc.
-5. Heron Systems Inc.
-6. Indiana University-Bloomington
-7. Raytheon BBN Technologies
-8. TurbineOne, LLC
+1. Codex Laboratories LLC
+2. Draper
+3. EpiSys Science, Inc.
+4. Heron Systems Inc.
+5. Indiana University-Bloomington
+6. Raytheon BBN Technologies
+7. TurbineOne, LLC
 
 Earlier, twenty (20) participants were invited to present their Phase I White Paper concepts to the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge judging panel. Invited participant names are listed below in alphabetical order:
 
