@@ -4,7 +4,7 @@ challenge-title: COVID-19 3D Maker Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/covid-19-3d-maker-challenge/
 challenge-id: "1126"
-status: closed
+status: open
 sidenav: true
 card-image: /assets/netlify-uploads/covidmaker.png
 agency-logo: /assets/netlify-uploads/valogo.png
