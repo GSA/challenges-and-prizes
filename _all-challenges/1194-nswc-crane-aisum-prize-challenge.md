@@ -32,24 +32,22 @@ description: >-
   detailed judging criteria for Phase II.
 
 
-  The following eight (8) participants were selected to participate in Phase II – Virtual Vignettes for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant names are listed below in alphabetical order:
+  The following seven (7) participants were selected to participate in Phase II – Virtual Vignettes for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant names are listed below in alphabetical order:
 
 
-  1. ASEC, Inc.
+  1. Codex Laboratories LLC
 
-  2. Codex Laboratories LLC
+  2. Draper
 
-  3. Draper
+  3. EpiSys Science, Inc.
 
-  4. EpiSys Science, Inc.
+  4. Heron Systems Inc.
 
-  5. Heron Systems Inc.
+  5. Indiana University-Bloomington
 
-  6. Indiana University-Bloomington
+  6. Raytheon BBN Technologies
 
-  7. Raytheon BBN Technologies
-
-  8. TurbineOne, LLC
+  7. TurbineOne, LLC
 
 
   Earlier, twenty (20) participants were invited to present their Phase I White Paper concepts to the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge judging panel. Invited participant names are listed below in alphabetical order:
@@ -244,11 +242,14 @@ prizes: >-
 
     * Scenario 1:
 
-      ![Prize Breakdown Phase II Scenario 1]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-1-table-1-.jpg "Prize Breakdown Phase II Scenario 1")
+      ![Prize Breakdown Phase II Scenario 1]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-1-table_22jun2021.png "Prize Breakdown Phase II Scenario 1")
     * Scenario 2:
 
-    ![Prize Breakdown Phase II Scenario 2]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-2-table-1-.jpg "Prize Breakdown Phase II Scenario 2")
+    ![Prize Breakdown Phase II Scenario 2]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-2-table_22jun2021.png "Prize Breakdown Phase II Scenario 2")
 
+    The minimum threshold requirements will be set before the beginning of the virtual runs.
+
+  * Phase III – A prize purse up to $500,000 will be disbursed with disparity to the participants who score above the minimum threshold requirements in the live event in which their proposed solutions will integrate on the provided drones for time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion at the Muscatatuck Urban Training Center (MUTC).
     The minimum threshold requirements will be set before the beginning of the virtual runs.
   * Phase III – A prize purse up to $500,000 will be disbursed with disparity to the participants who score above the minimum threshold requirements in the live event in which their proposed solutions will integrate on the provided drones for time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion at the Muscatatuck Urban Training Center (MUTC).
 rules: >-
@@ -484,16 +485,15 @@ how-to-enter: >-
 
 See the Prizes Section (Total Cash Prize Pool and Prize Breakdown) below for the total prize purse increase and further detailed prize breakdown information. See the Judging Section (Judging Criteria) below for further detailed judging criteria for Phase II.
 
-The following eight (8) participants were selected to participate in Phase II – Virtual Vignettes for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant names are listed below in alphabetical order:
+The following seven (7) participants were selected to participate in Phase II – Virtual Vignettes for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant names are listed below in alphabetical order:
 
-1. ASEC, Inc.
-2. Codex Laboratories LLC
-3. Draper
-4. EpiSys Science, Inc.
-5. Heron Systems Inc.
-6. Indiana University-Bloomington
-7. Raytheon BBN Technologies
-8. TurbineOne, LLC
+1. Codex Laboratories LLC
+2. Draper
+3. EpiSys Science, Inc.
+4. Heron Systems Inc.
+5. Indiana University-Bloomington
+6. Raytheon BBN Technologies
+7. TurbineOne, LLC
 
 Earlier, twenty (20) participants were invited to present their Phase I White Paper concepts to the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge judging panel. Invited participant names are listed below in alphabetical order:
 
@@ -577,11 +577,9 @@ The government estimates the following timeline for the completion of the prize 
 ***Phase I***
 
 * Technical White Paper Submission open 50 calendar days
-
   * Opens Dec. 10, 2020
   * Closes Jan. 29, 2021
   * NSWC Crane Project Talks: Dec. 17, 2020 (A virtual panel was available to answer questions related to the challenge.gov posting and the Prize Challenge from 1300-1500 ET)
-
     * NSWC Crane Project Talks Presentation can be found [here](https://434cll131hi945boxu2a7cmf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/AISUM-Project-Talks-Presentation-FINAL.pdf)
     * The recording of this event can be found [here](https://www.youtube.com/watch?v=s-5tnYk74o4)
 * Evaluation period 10-14 calendar days  
@@ -618,10 +616,11 @@ The total prize purse is increased to $750,000. The Government reserves the righ
 
   * Scenario 1:
 
-    ![Prize Breakdown Phase II Scenario 1]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-1-table-1-.jpg "Prize Breakdown Phase II Scenario 1")
+  ![Prize Breakdown Phase II Scenario 1]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-1-table_22jun2021.png "Prize Breakdown Phase II Scenario 1")
+
   * Scenario 2:
 
-  ![Prize Breakdown Phase II Scenario 2]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-2-table-1-.jpg "Prize Breakdown Phase II Scenario 2")
+  ![Prize Breakdown Phase II Scenario 2]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-2-table_22jun2021.png "Prize Breakdown Phase II Scenario 2")
 
   The minimum threshold requirements will be set before the beginning of the virtual runs.
 * Phase III – A prize purse up to $500,000 will be disbursed with disparity to the participants who score above the minimum threshold requirements in the live event in which their proposed solutions will integrate on the provided drones for time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion at the Muscatatuck Urban Training Center (MUTC).
