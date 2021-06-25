@@ -32,7 +32,7 @@ description: >-
   **\*\*Important Update:** 
 
 
-  * **Due to the overwhelming interest and submissions for the “HHS Hypertension Innovator Award Competition,” we are delaying the announcement of Phase 1 winners until March 2021.**
+  * **Due to the overwhelming interest and submissions for the “HHS Hypertension Innovator Award Competition,” we are delaying the announcement of Phase 1 winners until July 2021.**
 
 
   The Office of the Assistant Secretary for Health (OASH), Office on Women’s Health (OWH) is seeking innovative ways to ensure women with hypertension during pregnancy and/or postpartum receive appropriate monitoring and follow-up through the HHS Hypertension Innovator Award Competition:  Innovative Methods of Blood Pressure Monitoring and Follow-up in Women during Pregnancy and/or Postpartum.
@@ -94,7 +94,7 @@ description: >-
 
   * Judging for Phase 1 will occur from January 7, 2021 through January 14, 2021.
 
-  * Winners announced: March 2021.
+  * Winners announced: July 2021.
 
 
   **Phase 2:** Awarding plans for sustainability and replication and/or expansion
@@ -342,7 +342,7 @@ how-to-enter: >-
 
 **\*\*Important Update:** 
 
-* **Due to the overwhelming interest and submissions for the “HHS Hypertension Innovator Award Competition,” we are delaying the announcement of Phase 1 winners until March 2021.**
+* **Due to the overwhelming interest and submissions for the “HHS Hypertension Innovator Award Competition,” we are delaying the announcement of Phase 1 winners until July 2021.**
 
 The Office of the Assistant Secretary for Health (OASH), Office on Women’s Health (OWH) is seeking innovative ways to ensure women with hypertension during pregnancy and/or postpartum receive appropriate monitoring and follow-up through the HHS Hypertension Innovator Award Competition:  Innovative Methods of Blood Pressure Monitoring and Follow-up in Women during Pregnancy and/or Postpartum.
 
@@ -387,7 +387,7 @@ The competition has three phases. All eligible submissions will be evaluated, an
   * Meeting password: GraADfqM259 
 * Phase 1 submissions are due by January 6, 2021, 11:59 pm EST.
 * Judging for Phase 1 will occur from January 7, 2021 through January 14, 2021.
-* Winners announced: March 2021.
+* Winners announced: July 2021.
 
 **Phase 2:** Awarding plans for sustainability and replication and/or expansion
 
