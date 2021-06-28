@@ -20,7 +20,7 @@ total-prize-offered-cash: $85,000
 type-of-challenge:
   - Ideas
 submission-start: 2021/04/08 12:00 AM
-submission-end: 2021/07/07 11:59 PM
+submission-end: 2021/12/10 11:59 PM
 fiscal-year: FY21, FY22
 legal-authority: America COMPETES Act
 challenge-manager: "Sara Lioi "
