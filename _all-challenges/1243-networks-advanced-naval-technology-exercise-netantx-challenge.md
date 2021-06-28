@@ -33,7 +33,7 @@ description: >-
   #### IMPORTANT UPDATES:
 
 
-  * Q&A (Last Updated: June 25, 2021): [Click here for Q&A]({{site.baseurl}/assets/netlify-uploads/ainetantx-networks-prize-challenge-qa-25june21.pdf)
+  * Q&A (Last Updated: June 25, 2021): [Click here for Q&A]({{site.baseurl}}/assets/netlify-uploads/ainetantx-networks-prize-challenge-qa-25june21.pdf)
 
   * NAVWAR will be hosting a virtual Q&A Session on June 30, 2021. [Click here for more information and to register.]({{site.baseurl}}/assets/netlify-uploads/distro_a-ainetantx-30jun21-virtual-live-qa-announcement-and-registration-information.pdf)
 
@@ -383,7 +383,7 @@ how-to-enter: >-
 ---
 #### IMPORTANT UPDATES:
 
-* Q&A (Last Updated: June 25, 2021): [Click here for Q&A]({{site.baseurl}/assets/netlify-uploads/ainetantx-networks-prize-challenge-qa-25june21.pdf)
+* Q&A (Last Updated: June 25, 2021): [Click here for Q&A]({{site.baseurl}}/assets/netlify-uploads/ainetantx-networks-prize-challenge-qa-25june21.pdf)
 * NAVWAR will be hosting a virtual Q&A Session on June 30, 2021. [Click here for more information and to register.]({{site.baseurl}}/assets/netlify-uploads/distro_a-ainetantx-30jun21-virtual-live-qa-announcement-and-registration-information.pdf)
 
 ### Description
@@ -467,11 +467,9 @@ Upon selection, invited participants will be provided a simulation-based environ
 Networking Technology submissions will include:
 
 * The virtual machine (VM) image with the provided SBE
-
   * The networking technology should be installed, along with all dependencies, in designated Linux containers
   * The VM image should be in Open Virtualization Appliance (OVA) format.
 * Documentation describing how to run the technology within the SBE VM.
-
   * Ease of use, through scripts or user interface, is highly encouraged.
 
 Q&A sessions and an iRIL integration workshop will be held throughout the Challenge where additional details will be provided that describe the SBE, network architecture, relevant scenarios, and operationally relevant conditions. This announcement will be updated with specifics, but questions regarding the challenge must be submitted via email [NetANTX@niwc.navy.mil](mailto:NetANTX@niwc.navy.mil) no later than 5 days prior to the virtual event. 
