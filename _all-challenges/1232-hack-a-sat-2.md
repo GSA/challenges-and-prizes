@@ -4,7 +4,7 @@ challenge-title: Hack-A-Sat 2
 layout: front-matter-data-markdownify-content
 permalink: /challenge/hack-a-sat2/
 challenge-id: "1232"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/af-has2-challenge.gov-tag-tag-03-2021-04-29.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
@@ -15,8 +15,8 @@ external-url: https://www.hackasat.com/
 total-prize-offered-cash: $200,000
 type-of-challenge:
   - Scientific
-submission-start: 2021/05/04 10:00 AM
-submission-end: 2021/06/27 6:00 PM
+submission-start: 05/04/2021 10:00 AM
+submission-end: 06/27/2021 6:00 PM
 fiscal-year: FY21
 legal-authority: Other
 challenge-manager: Steve Colenzo
