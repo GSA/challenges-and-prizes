@@ -1,6 +1,6 @@
 ---
-title: NICHDs Decoding Maternal Morbidity Data Challenge
-challenge-title: NICHDs Decoding Maternal Morbidity Data Challenge
+title: NICHD's Decoding Maternal Morbidity Data Challenge
+challenge-title: NICHD's Decoding Maternal Morbidity Data Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/decoding-maternal-morbidity-data-challenge/
 challenge-id: "1251"
@@ -226,7 +226,6 @@ NIH reserves the right, in its sole discretion, to (a) cancel, suspend, or modif
 ### Rules
 
 * To be eligible to win a prize under this Challenge, a Participant (whether an individual, group of individuals, or entity): 
-
   * Shall have registered to participate in the Challenge under the rules promulgated by the National Institutes of Health (NIH) as published in this announcement; 
   * Shall have complied with all the requirements set forth in this announcement; 
   * In the case of a private entity, shall be incorporated in and maintain a primary place of business in the United States, and in the case of an individual, whether participating singly or in a group, shall be a citizen or permanent resident of the United States. However, non-U.S. citizens and non-permanent residents can participate as a member of a team that otherwise satisfies the eligibility criteria. Non-U.S. citizens and non-permanent residents are not eligible to win a monetary prize (in whole or in part). Their participation as part of a winning team, if applicable, may be recognized when the results are announced
