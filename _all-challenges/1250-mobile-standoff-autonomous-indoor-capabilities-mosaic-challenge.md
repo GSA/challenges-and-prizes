@@ -1,6 +1,6 @@
 ---
 title: MoSAIC Challenge
-challenge-title: Mobile Standoff Autonomous Indoor Capabilities MoSAIC Challenge
+challenge-title: Mobile Standoff Autonomous Indoor Capabilities (MoSAIC) Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/mosaic-challenge/
 challenge-id: "1250"
