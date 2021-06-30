@@ -247,7 +247,7 @@ rules: >-
   Applicants must:
 
 
-  * Demonstrate eligibility through participating in a 2020-2021 The Opportunity Project or [TOPx sprint](https://opportunity.census.gov/product-development/toolkit/), or by utilizing the [TOP Product Development Toolkit](https://go.usa.gov/x7fWf). 
+  * Demonstrate eligibility through participating in a 2020-2021 The Opportunity Project or TOPx sprint, or by utilizing the [TOP Product Development Toolkit](https://go.usa.gov/x7fWf). 
 
   * Submit a working digital product (i.e. a product that can be accessed online via a web URL or downloaded via web URL). 
 
@@ -528,7 +528,7 @@ This prize challenge is open to anyone who built/builds a digital product using 
 
 Applicants must:
 
-* Demonstrate eligibility through participating in a 2020-2021 The Opportunity Project or [TOPx sprint](https://opportunity.census.gov/product-development/toolkit/), or by utilizing the [TOP Product Development Toolkit](https://go.usa.gov/x7fWf). 
+* Demonstrate eligibility through participating in a 2020-2021 The Opportunity Project or TOPx sprint, or by utilizing the [TOP Product Development Toolkit](https://go.usa.gov/x7fWf). 
 * Submit a working digital product (i.e. a product that can be accessed online via a web URL or downloaded via web URL). 
 * Provide documentation of federal open data used, end user engagement throughout the product development process, and plans for implementation, sustainability, and impact. 
 
