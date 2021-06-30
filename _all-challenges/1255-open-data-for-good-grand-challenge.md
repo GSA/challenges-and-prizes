@@ -6,7 +6,7 @@ permalink: /challenge/open-data-for-good-grand-challenge/
 challenge-id: "1255"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/2021-grand-challenge-top.png
+card-image: /assets/netlify-uploads/2021-grand-challenge-top_resized-for-tile.png
 agency-logo: /assets/netlify-uploads/US-Census-Bureau-logo.png
 tagline: "Unleashing the value of open data through digital tools for the public "
 agency: U.S. Census Bureau
@@ -378,7 +378,7 @@ how-to-enter: >-
 ---
 ### Description
 
-#### Key Dates 
+#### Key Dates
 
 * July 1:  Rules posted
 * July 14:  Launch information session – [RSVP Here](https://odfggcinfowebinar.splashthat.com/)
@@ -400,7 +400,7 @@ Since launching in 2016, more than 20 federal agencies and over 1,500 individual
 
 TOP supports the Census Bureau’s mission and the OPEN Government Data Act mandate to identify and disseminate public data assets as well as utilize these public data assets to grow the economy, promote transparency, and make government data more useful and accessible to the public.  Both open data and The Opportunity Project as a mechanism to unleash its potential, are key components of the Federal Data Strategy and Department of Commerce Strategic Plan, which focus on utilizing data as an asset to grow the economy, increase the effectiveness of the Federal Government, promote transparency, and make government data more useful to the public, businesses, and researchers.  
 
-#### The Problem 
+#### The Problem
 
 One of the greatest challenges associated with public interest technology (or civic technology) development is product sustainability and adoption.  Open data is used to create many products for the public good, but the teams who built these products often face challenges in deploying and maintaining them.  To advance some of the most promising technology solutions built with open data, the Census Bureau and its collaborators are launching the Open Data for Good Grand Challenge.  This Challenge aims to 1) help technologists and their collaborators better deploy their data-driven technology solutions, ensure they reach end users, and drive impact of the critical problems they aim to solve, and 2) to reward exemplary uses of federal open data. 
 This challenge is open to: 
@@ -436,7 +436,7 @@ A total of $50,000 will be awarded by the Census Bureau to exceptional digital p
 
 * One (1) Grand prize: **$25,000**
 * One (1) Runner up prize: **$15,000**
-* One (1) Student prize (**student teams are also eligible for grand prize and runner up; student prize only open to those who can demonstrate student status):* **$10,000**
+* One (1) Student prize (**student teams are also eligible for grand prize and runner up; student prize only open to those who can demonstrate student status):*** $10,000\*\*
 * Additional monetary and in-kind (non-monetary) prizes are expected to be announced for projects focusing on reducing marine/ocean plastic pollution and creating markets for recycled materials.
 
 ***Society, Economy, and the Built Environment***
@@ -459,7 +459,7 @@ The U.S. Census Bureau and any future partnering agencies may award different pr
 
 ### Rules
 
-### Submission requirements 
+#### Submission requirements
 
 **What to submit**
 
@@ -513,7 +513,6 @@ Additional submission guidelines and requirements:
 * **Any material that does not follow the submission guidelines provided may not be considered.**
 * Each product should be submitted in at least one (1) and no more than two (2) categories.
 * Applicants must submit a working, interactive digital tool that uses open government data to address one or more of the challenges in the categories described above.
-
   * “Working product” indicates that the intended features of the product have been created and are currently functional and usable to the public or intended user(s). For example, a clickable prototype that illustrates future functionality, but does not yet provide it to the user, cannot be considered. 
   * The product must include interactive functionality for the end user to access and/or analyze the open data (for example, a static slide presentation that illustrates an analysis but is not interactive would not be eligible). 
   * The product must be capable of being successfully installed and running consistently on the platform for which it is intended, and must function as depicted or expressed in the text description.
@@ -567,7 +566,7 @@ Restrictions
 
 ### Judging Criteria
 
-#### Judging Panel 
+#### Judging Panel
 
 Submissions will be reviewed by experts in technology, open data, product development community engagement, user centered design, and the policy issues covered in the prize categories, from federal agencies as well as non-governmental organizations.
 
