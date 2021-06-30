@@ -74,3 +74,16 @@ UAS entered for the FastFind Challenge will be subject to the requirements outli
  ***INSERT TABLE HERE***
 
 PSCR is aware that various organizations may be developing drones with these or similar capabilities; however, these drones typically cost more than what a local public safety department might be able to afford. Additionally, they may not be practical due to the difficulty of transporting large equipment and/or the need for specialized training to operate it, both of which can be difficult for city/state agencies with limited staff and resources. Therefore, PSCR is hosting this 3-stage challenge to design, develop, and demonstrate drones with extended flight time and other capabilities that support first responders to help advance the research and push the boundaries of UAS technology for public safety.
+
+#### **Deliverables Due**
+
+Participants will be asked to:
+
+* Submit a concept paper using an online form, outlining the UAS knowledge, skills, capabilities and design approach for this challenge.
+* Create or purchase hardware necessary to build a prototype and implement the design approach outlined within the concept paper.
+* Produce a Test flight video demonstrating the UAS prototype capabilities and safety compliance.
+* Participate in a Live Competition, conducting flights in Starkville MS June 20 – 22, 2022.
+
+#### UAS Challenge Stages
+
+![Table providing overview of challenge stages]({{site.baseurl}}/assets/netlify-uploads/3.1-challenge-stages.jpg "Challenge Stages")
