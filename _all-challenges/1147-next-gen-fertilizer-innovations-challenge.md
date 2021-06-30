@@ -4,7 +4,7 @@ challenge-title: Next Gen Fertilizer Innovation Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/next-gen-fertilizer-innovations-challenge/
 challenge-id: "1147"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/next-gen-fertilizer-challenges_341x160-1-.png
 agency-logo: /assets/netlify-uploads/epa_usda_logos_v2.jpg
@@ -21,8 +21,8 @@ total-prize-offered-cash: $65,000
 type-of-challenge:
   - Ideas
   - Scientific
-submission-start: 2020/08/26 9:00 AM
-submission-end: 2020/11/30 11:59 PM
+submission-start: 08/26/2020 9:00 AM
+submission-end: 11/30/2020 11:59 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Christopher Clark
@@ -60,7 +60,7 @@ description: >-
 
   * [Informational Webinar](https://next_gen_fertilizer_challenges.eventbrite.com/): 10:00 AM ET September 24, 2020
 
-  * [Registration* Deadline and Submission End](https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e): 11:59 PM ET, November 30, 2020 
+  * [Registration* Deadline and Submission End](https://innocentive.wazoku.com/#/challenge/4380f517f84f49b78ad3dab8b4657e6e?searchIndex=2): 11:59 PM ET, November 30, 2020 
 
   * Winners announced: Winter 2020/2021 (date and time to be determined)
 
@@ -90,13 +90,13 @@ rules: >-
   #### Terms
 
 
-  Seekers: EPA, USDA and collaborators
+  *Seekers*: EPA, USDA and collaborators
 
 
-  Solvers: Individuals or teams participating in the challenge by submitting a solution
+  *Solvers*: Individuals or teams participating in the challenge by submitting a solution
 
 
-  Solution: A Solver’s submission in response to a challenge
+  *Solution*: A Solver’s submission in response to a challenge
 
 
   #### Rules
@@ -104,7 +104,7 @@ rules: >-
 
   1. **Eligibility**:
 
-     * Solvers must register and submit solutions via [InnoCentive](https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e) no later than 11:59 PM ET November 30, 2020. Late submissions will not be considered. 
+     * Solvers must register and submit solutions via [InnoCentive](https://innocentive.wazoku.com/#/challenge/4380f517f84f49b78ad3dab8b4657e6e?searchIndex=2) no later than 11:59 PM ET November 30, 2020. Late submissions will not be considered. 
      * Eligible: Submissions can be entertained from all Solvers regardless of whether they are U.S. citizens/entities. Meritorious submissions from non-U.S. citizens and entities as well as U.S. citizens that may not be prize eligible (see Challenge Specific Agreement) if any, will be recognized in publications issued by the Seekers announcing the results of the competition, such as press releases.  Non-U.S. citizens/permanent residents or non-U.S. entities can also be included on U.S. teams. However, under the authority of the America COMPETES Reauthorization Act of 2010  (15 U.S.C. § 3719), as amended, the Seekers cannot award cash prizes to individuals that are not U.S. citizens, not permanent residents of the U.S. or entities not incorporated in and maintaining a primary place of business in the U.S. 
      * Not eligible: U.S. or foreign government organizations, or federal employees acting within the scope of their employment.
      * Eligible: Individuals or organizations that receive funding from U.S. or foreign government organizations are eligible to compete. However, funds from U.S. or foreign government organizations should not be used to directly fund the development of a solution requested under this Challenge.
@@ -117,11 +117,11 @@ rules: >-
      * Submissions should be in PDF format (10 pages or less excluding references, 8.5 x 11 inch pages, 12-point Times New Roman font or greater, single spaced, and one-inch margins). The submission should include the following headings and content:
 
        1. Executive Summary: Overall description of the proposed solution (500 words);
-       2. Detailed Description of the Proposed Solution: This should include background on the EEF or novel technology, including any physical, chemical, biological, ecological, or biogeochemical properties in the soil under various climatic and soil moisture conditions. This should also include a description of how the solution may decompose in the environment and into what chemicals.
+       2. Detailed Description of the Proposed Solution: This should include background on the EEF or novel technology, including any physical, chemical, biological, ecological, or biogeochemical properties in the soil under various climatic and soil moisture conditions. This should also include the names and unique CAS numbers (if available) for any active and inactive ingredients and a description of how these may decompose in the environment and into what chemicals.
        3. Environmental Performance: A quantitative summary (including any relevant graphs or tables) of any published or unpublished results of environmental performance, including comparisons of rates of loss relative to conventional fertilizer for N (e.g. leaching, runoff, ammonia volatilization, nitrous oxide emissions), and P (e.g. leaching, runoff) if relevant;
        4. Agronomic Performance: A quantitative summary (including any relevant graphs or tables) of any published or unpublished results of agronomic performance, including yields under various conditions, rates of growth, kernel production, and net cost (e.g. return on investment, ROI) relative to conventional fertilizer practices;
        5. Compatibility: Describe how your technology is or may be integrated into existing farming machinery and practices (e.g. transport, storage, application) to the level of specificity possible given the degree of technological maturity. 
-       6. Confidential Business Information (CBI): Clear statements on any CBI to be withheld from the submission, or included in the submission but to be withheld from either the judging panel or the public;
+       6. Confidential Business Information (CBI): Clear statements on any CBI to be withheld from the submission, or included in the submission but to be withheld from either the judging panel or the public; and
        7. Trajectory to Market: Describe what resources, steps, methodology, and, timeframe would be needed to bring your idea to fruition (i.e., from concept to design to prototype to pilot-scale system to commercially viable technology). 
 
           Solvers are not required to give up any of their intellectual property (“IP”) rights to the Seekers to be eligible to receive an award. 
@@ -179,8 +179,6 @@ rules: >-
 
   EPA and USDA reserve the right to disqualify and or clarify any submittal.
 judging: >-
-  
-
   #### Judging Panel
 
 
@@ -234,7 +232,7 @@ judging: >-
     * Reduction relative to conventional fertilizer of P leaching/runoff: 7 points 
     * Reduction relative to conventional fertilizer of NH3 volatilization: 7 points
     * Reduction relative to conventional fertilizer of N2O emissions: 7 points
-    * No toxic residue left on the field or in the runoff or leachate: 7 points (For the purposes of this Challenge, “toxic residues” refers to prevalent and biologically active degradates formed from decomposition (via either biotic and abiotic processes) of the product in the environment. Toxicity and prevalence can be described by a number of means, including existing eco-toxicology and environmental fate studies, summaries from either the EPA CompTox Chemicals Dashboard or the EPA Ecotox Knowledge base, or whether the constituent chemicals are already listed under the EPA’s Safer Chemical Ingredients List (e.g., there are 63 polymers listed as safer alternatives). Although this criteria does not pertain to inhibitor effects on target organisms (e.g., soil bacteria), which are toxic by design, it does pertain to any decomposition byproducts of inhibitors and other potential solutions, and effects that may occur for non-target organisms)
+    * No toxic residue left on the field or in the runoff or leachate: 7 points (For the purposes of this Challenge, “toxic residues” refers to prevalent and biologically active degradates formed from decomposition (via either biotic and abiotic processes) of the product in the environment. Please include the names and unique CAS numbers (if available) for any active and inactive ingredients of the solution and its degradants. Toxicity and prevalence can be described by a number of means, including existing eco-toxicology and environmental fate studies, summaries from either the [EPA CompTox Chemicals Dashboard](https://comptox.epa.gov/dashboard) or the [EPA ECOTOX Knowledgebase](https://cfpub.epa.gov/ecotox/), or whether the constituent chemicals are already listed under the [EPA Safer Chemical Ingredients List](https://www.epa.gov/saferchoice/safer-ingredients). Although this criteria does not pertain to inhibitor effects on target organisms (e.g., soil bacteria), which are toxic by design, it does pertain to any decomposition byproducts of inhibitors and other potential solutions, and effects that may occur for non-target organisms)
   * Agronomic performance: 35 points 
 
     * Yield relative to conventional fertilizer: 15 points
@@ -272,8 +270,7 @@ judging: >-
   7. Is potentially applicable to other crops and countries.
 how-to-enter: To register and submit a solution to the Next Gen Fertilizer
   Innovation Challenge, please visit the Challenge on the [InnoCentive
-  page](https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e).
-  [](https://www.innocentive.wazoku.com/#/challenge/4380f517f84f49b78ad3dab8b4657e6e)
+  page](https://innocentive.wazoku.com/#/challenge/4380f517f84f49b78ad3dab8b4657e6e?searchIndex=2)
 ---
 ### Description
 
@@ -297,7 +294,7 @@ NextGen Fertilizer Challenge Dates:
 
 * Challenge Launch: 9:00 AM ET August 26, 2020
 * [Informational Webinar](https://next_gen_fertilizer_challenges.eventbrite.com/): 10:00 AM ET September 24, 2020
-* [Registration* Deadline and Submission End](https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e): 11:59 PM ET, November 30, 2020 
+* [Registration* Deadline and Submission End](https://innocentive.wazoku.com/#/challenge/4380f517f84f49b78ad3dab8b4657e6e?searchIndex=2): 11:59 PM ET, November 30, 2020 
 * Winners announced: Winter 2020/2021 (date and time to be determined)	
 
 \*Register via InnoCentive
@@ -322,17 +319,17 @@ Finalists will be invited to present their technologies at a showcasing event (d
 
 #### Terms
 
-Seekers: EPA, USDA and collaborators
+*Seekers*: EPA, USDA and collaborators
 
-Solvers: Individuals or teams participating in the challenge by submitting a solution
+*Solvers*: Individuals or teams participating in the challenge by submitting a solution
 
-Solution: A Solver’s submission in response to a challenge
+*Solution*: A Solver’s submission in response to a challenge
 
 #### Rules
 
 1. **Eligibility**:
 
-   * Solvers must register and submit solutions via [InnoCentive](https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e) no later than 11:59 PM ET November 30, 2020. Late submissions will not be considered. 
+   * Solvers must register and submit solutions via [InnoCentive](https://innocentive.wazoku.com/#/challenge/4380f517f84f49b78ad3dab8b4657e6e?searchIndex=2) no later than 11:59 PM ET November 30, 2020. Late submissions will not be considered. 
    * Eligible: Submissions can be entertained from all Solvers regardless of whether they are U.S. citizens/entities. Meritorious submissions from non-U.S. citizens and entities as well as U.S. citizens that may not be prize eligible (see Challenge Specific Agreement) if any, will be recognized in publications issued by the Seekers announcing the results of the competition, such as press releases.  Non-U.S. citizens/permanent residents or non-U.S. entities can also be included on U.S. teams. However, under the authority of the America COMPETES Reauthorization Act of 2010  (15 U.S.C. § 3719), as amended, the Seekers cannot award cash prizes to individuals that are not U.S. citizens, not permanent residents of the U.S. or entities not incorporated in and maintaining a primary place of business in the U.S. 
    * Not eligible: U.S. or foreign government organizations, or federal employees acting within the scope of their employment.
    * Eligible: Individuals or organizations that receive funding from U.S. or foreign government organizations are eligible to compete. However, funds from U.S. or foreign government organizations should not be used to directly fund the development of a solution requested under this Challenge.
@@ -345,11 +342,11 @@ Solution: A Solver’s submission in response to a challenge
    * Submissions should be in PDF format (10 pages or less excluding references, 8.5 x 11 inch pages, 12-point Times New Roman font or greater, single spaced, and one-inch margins). The submission should include the following headings and content:
 
      1. Executive Summary: Overall description of the proposed solution (500 words);
-     2. Detailed Description of the Proposed Solution: This should include background on the EEF or novel technology, including any physical, chemical, biological, ecological, or biogeochemical properties in the soil under various climatic and soil moisture conditions. This should also include a description of how the solution may decompose in the environment and into what chemicals.
+     2. Detailed Description of the Proposed Solution: This should include background on the EEF or novel technology, including any physical, chemical, biological, ecological, or biogeochemical properties in the soil under various climatic and soil moisture conditions. This should also include the names and unique CAS numbers (if available) for any active and inactive ingredients and a description of how these may decompose in the environment and into what chemicals.
      3. Environmental Performance: A quantitative summary (including any relevant graphs or tables) of any published or unpublished results of environmental performance, including comparisons of rates of loss relative to conventional fertilizer for N (e.g. leaching, runoff, ammonia volatilization, nitrous oxide emissions), and P (e.g. leaching, runoff) if relevant;
      4. Agronomic Performance: A quantitative summary (including any relevant graphs or tables) of any published or unpublished results of agronomic performance, including yields under various conditions, rates of growth, kernel production, and net cost (e.g. return on investment, ROI) relative to conventional fertilizer practices;
      5. Compatibility: Describe how your technology is or may be integrated into existing farming machinery and practices (e.g. transport, storage, application) to the level of specificity possible given the degree of technological maturity;
-     6. Confidential Business Information (CBI): Clear statements on any CBI to be withheld from the submission, or included in the submission but to be withheld from either the judging panel or the public;
+     6. Confidential Business Information (CBI): Clear statements on any CBI to be withheld from the submission, or included in the submission but to be withheld from either the judging panel or the public; and
      7. Trajectory to Market: Describe what resources, steps, methodology, and, timeframe would be needed to bring your idea to fruition (i.e., from concept to design to prototype to pilot-scale system to commercially viable technology).
 
         Solvers are not required to give up any of their intellectual property (“IP”) rights to the Seekers to be eligible to receive an award. 
@@ -424,7 +421,7 @@ Within performance areas, there are additional criteria that will be evaluated. 
   * Reduction relative to conventional fertilizer of P leaching/runoff: 7 points 
   * Reduction relative to conventional fertilizer of NH3 volatilization: 7 points
   * Reduction relative to conventional fertilizer of N2O emissions: 7 points
-  * No toxic residue left on the field or in the runoff or leachate: 7 points (For the purposes of this Challenge, “toxic residues” refers to prevalent and biologically active degradates formed from decomposition (via either biotic and abiotic processes) of the product in the environment. Toxicity and prevalence can be described by a number of means, including existing eco-toxicology and environmental fate studies, summaries from either the EPA CompTox Chemicals Dashboard or the EPA Ecotox Knowledge base, or whether the constituent chemicals are already listed under the EPA’s Safer Chemical Ingredients List (e.g., there are 63 polymers listed as safer alternatives). Although this criteria does not pertain to inhibitor effects on target organisms (e.g., soil bacteria), which are toxic by design, it does pertain to any decomposition byproducts of inhibitors and other potential solutions, and effects that may occur for non-target organisms)
+  * No toxic residue left on the field or in the runoff or leachate: 7 points (For the purposes of this Challenge, “toxic residues” refers to prevalent and biologically active degradates formed from decomposition (via either biotic and abiotic processes) of the product in the environment. Please include the names and unique CAS numbers (if available) for any active and inactive ingredients of the solution and its degradants. Toxicity and prevalence can be described by a number of means, including existing eco-toxicology and environmental fate studies, summaries from either the [EPA CompTox Chemicals Dashboard](https://comptox.epa.gov/dashboard) or the [EPA ECOTOX Knowledgebase](https://cfpub.epa.gov/ecotox/), or whether the constituent chemicals are already listed under the [EPA Safer Chemical Ingredients List](https://www.epa.gov/saferchoice/safer-ingredients). Although this criteria does not pertain to inhibitor effects on target organisms (e.g., soil bacteria), which are toxic by design, it does pertain to any decomposition byproducts of inhibitors and other potential solutions, and effects that may occur for non-target organisms)
 * Agronomic performance: 35 points 
 
   * Yield relative to conventional fertilizer: 15 points
@@ -453,4 +450,4 @@ The example rubric above is for a solution that addresses N and P. For solutions
 
 ### How to Enter
 
-To register and submit a solution to the Next Gen Fertilizer Innovation Challenge, please visit the Challenge on the [InnoCentive page](https://innocentive.wazoku.com/#/login/664024d8ba3842f6b6b521828febcd44?redirect_to=%23%2Fchallenge%2F4380f517f84f49b78ad3dab8b4657e6e).
+To register and submit a solution to the Next Gen Fertilizer Innovation Challenge, please visit the Challenge on the [InnoCentive page](https://innocentive.wazoku.com/#/challenge/4380f517f84f49b78ad3dab8b4657e6e?searchIndex=2).

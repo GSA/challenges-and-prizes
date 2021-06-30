@@ -25,12 +25,28 @@ legal-authority: Agency specific prize authority
 challenge-manager: Dallas Blaney
 challenge-manager-email: dallas@challengeamerica.com
 point-of-contact: maggie@challengeamerica.com
-description: Teams will design and develop innovative solutions to address
-  challenges arising from the COVID-19 pandemic. Teams will collaborate
-  virtually using tools like Zoom and Quip over the course of one week to
-  evaluate the challenge. During the two-day make-a-thon event, the teams will
-  work to design and fabricate working prototypes of their solutions that are
-  suitable for rapid manufacturing.
+description: >-
+  #### Challenge Winners
+
+
+  The five Maker Challenges focused on addressing the immediate needs of different subsets of the essential workforce - first responders, custodial services, nursing home staff, caregivers, and disaster relief workers. Teams of subject matter experts worked directly with these end users to create innovative products designed to help them cope with the challenges of the pandemic. The iEX 2020 COVID-19 Maker Challenge winners included:
+
+
+  * Open Source N95 Respirator & "Virtual Fit" AR Mobile App
+
+  * Tessellation Sanitation Station
+
+  * Volynt
+
+  * Rural In-home Telehealth
+
+  * Pandemi Vent 800
+
+
+  #### Challenge Overview
+
+
+  Teams will design and develop innovative solutions to address challenges arising from the COVID-19 pandemic. Teams will collaborate virtually using tools like Zoom and Quip over the course of one week to evaluate the challenge. During the two-day make-a-thon event, the teams will work to design and fabricate working prototypes of their solutions that are suitable for rapid manufacturing.
 prizes: The team with the best overall design - VHA iEx Design Award - will have
   the opportunity to present their design at the Fall 2020 VHA Innovation
   Experience (VHA iEx) in Washington, DC, an annual celebration of innovative
@@ -65,6 +81,18 @@ how-to-enter: To learn more and to register, go to
   [www.covid19makerchallenge.com](https://www.covid19makerchallenge.com/).
 ---
 ### Description
+
+#### Challenge Winners
+
+The five Maker Challenges focused on addressing the immediate needs of different subsets of the essential workforce - first responders, custodial services, nursing home staff, caregivers, and disaster relief workers. Teams of subject matter experts worked directly with these end users to create innovative products designed to help them cope with the challenges of the pandemic. The iEX 2020 COVID-19 Maker Challenge winners included:
+
+* Open Source N95 Respirator & "Virtual Fit" AR Mobile App
+* Tessellation Sanitation Station
+* Volynt
+* Rural In-home Telehealth
+* Pandemi Vent 800
+
+#### Challenge Overview
 
 Teams will design and develop innovative solutions to address challenges arising from the COVID-19 pandemic. Teams will collaborate virtually using tools like Zoom and Quip over the course of one week to evaluate the challenge. During the two-day make-a-thon event, the teams will work to design and fabricate working prototypes of their solutions that are suitable for rapid manufacturing.
 

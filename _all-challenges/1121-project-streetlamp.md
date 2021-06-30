@@ -4,7 +4,7 @@ challenge-title: "Project Streetlamp "
 layout: front-matter-data-markdownify-content
 permalink: /challenge/project-streetlamp/
 challenge-id: "1121"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/labcftc_competition_web.jpg
 agency-logo: /assets/netlify-uploads/cftc.jpg
@@ -13,8 +13,8 @@ tagline: Deploy AI/other technologies to help CFTC identify unregistered foreign
 agency: Commodity Futures Trading Commission
 type-of-challenge:
   - Software and apps
-submission-start: 2020/04/21 07:00 AM
-submission-end: 2020/09/04 05:00 PM
+submission-start: 04/21/2020 07:00 AM
+submission-end: 09/04/2020 05:00 PM
 fiscal-year: FY20
 legal-authority: America COMPETES Act
 challenge-manager: Brian Trackman

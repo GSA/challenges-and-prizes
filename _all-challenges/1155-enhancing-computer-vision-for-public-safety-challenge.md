@@ -4,7 +4,7 @@ challenge-title: Enhancing Computer Vision for Public Safety Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/enhancing-computer-vision-for-public-safety-challenge/
 challenge-id: "1155"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/challenge-logo-v2_computervision.340x161.png
 agency-logo: /assets/netlify-uploads/NIST_logo.png
@@ -16,15 +16,32 @@ total-prize-offered-cash: Up to $240,000
 type-of-challenge:
   - Analytics, visualizations, algorithms
   - Scientific
-submission-start: 2020/09/08 11:00 AM
-submission-end: 2020/10/20 7:00 PM
+submission-start: 09/08/2020 11:00 AM
+submission-end: 10/20/2020 7:00 PM
 fiscal-year: FY20,FY21
 legal-authority: America COMPETES Act
 challenge-manager: Jeremy Glenn
 challenge-manager-email: Jeremy.glenn@nist.gov
 point-of-contact: psprizes@nist.gov
-body-content-uploads: /assets/netlify-uploads/computer-vision-challenge-rules_final-8.21.2020.pdf
+body-content-uploads: /assets/netlify-uploads/official-rules_computer-vision-challenge_08252020.pdf
 description: >-
+  **CONGRATULATIONS TO PHASE 2 WINNERS:** 
+
+
+  * **Team iAI Tech-NJIT** (Innovative AI Technologies, LLC and New Jersey Institute of Technology): Phase 2 award ($6,000), CDVL Distribution Prize ($12,000), and Best in Show: Best Dataset Prize ($5,000)
+
+  * **Team CalAster** (CalAster, Inc.): Phase 2 award ($6,000), CDVL Distribution Prize ($12,000), and Best in Show: Best Dataset Prize ($5,000)
+
+  * **Team LIVE** (University of Texas): Phase 2 award ($6,000), CDVL Distribution Prize ($12,000)
+
+  * **Team IUPUI** (Indiana University-Purdue University Indianapolis): Phase 2 award ($6,000), CDVL Distribution Prize ($12,000)
+
+  * **Dr. Burak Ozer**: Phase 2 award ($6,000)
+
+
+  Check out the [challenge website](https://pscompvischallenge.com/) for the latest information or for questions related to this challenge, email us at [psprizes@nist.gov](psprizes@nist.gov).
+
+
   #### Overview
 
 
@@ -127,7 +144,7 @@ prizes: >-
   **\* CDVL Distribution Prize:** Each Phase 2 submission may qualify for an additional prize by granting NIST permission to redistribute the submission package (i.e., images or videos, spreadsheet, and document) on the Consumer Digital Video Library (CDVL, www.cdvl.org) for research and development (R&D) purposes. The submission must pass Phase 2 Criterion # 1 to be eligible. Granting NIST permission to redistribute the submission package on the CDVL includes agreeing to the CDVL licensing terms, which are available at https://cdvl.org/license/.
 
 
-  See [Official Rules]({{site.baseurl}}/assets/netlify-uploads/computer-vision-challenge-rules_final-8.21.2020.pdf) for Phase 2 judging criteria.
+  See [Official Rules]({{site.baseurl}}/assets/netlify-uploads/official-rules_computer-vision-challenge_08252020.pdf) for Phase 2 judging criteria.
 rules: >-
   General Submission Rules:
 
@@ -156,13 +173,13 @@ rules: >-
   Any applicable intellectual property rights to a submission will remain with the contestant. By participating in the prize challenge, the contestant is not granting any rights in any patents, pending patent applications, or copyrights related to the technology described in the entry.
 
 
-  Download the [Official Rules]({{site.baseurl}}/assets/netlify-uploads/computer-vision-challenge-rules_final-8.21.2020.pdf). 
+  Download the [Official Rules]({{site.baseurl}}/assets/netlify-uploads/official-rules_computer-vision-challenge_08252020.pdf). For a plain text version of the Official Rules, email [psprizes@nist.gov](mailto:psprizes@nist.gov).
 
 
   #### **Terms and Conditions**
 
 
-  For a complete list of eligibility requirements and the terms and conditions, please see the [Official Rules]({{site.baseurl}}/assets/netlify-uploads/computer-vision-challenge-rules_final-8.21.2020.pdf).
+  For a complete list of eligibility requirements and the terms and conditions, please see the [Official Rules]({{site.baseurl}}/assets/netlify-uploads/official-rules_computer-vision-challenge_08252020.pdf).
 
 
   * **The official representative** (whether an individual, team, or legal entity) must be 18 or older and a U.S. citizen or permanent resident of the United States or its territories
@@ -232,19 +249,30 @@ judging: >-
   * Suitable strategy for obtaining image or videos release, when required by privacy concerns
 
 
-  \*See [Official Rules]({{site.baseurl}}/assets/netlify-uploads/computer-vision-challenge-rules_final-8.21.2020.pdf) for judging criteria associated with Phase 2 of the contest.
+  \*See [Official Rules]({{site.baseurl}}/assets/netlify-uploads/official-rules_computer-vision-challenge_08252020.pdf) for judging criteria associated with Phase 2 of the contest.
 how-to-enter: >-
-  Submit a concept paper by email to <psprizes@nist.gov> by **5:00 p.m. Mountain
-  Daylight Time** on October 20, 2020. The concept paper must be a PDF file with
-  a **maximum of 9 pages** and a file size of **less than 25MB**.
+  Submit a concept paper by email to
+  [psprizes@nist.gov](mailto:psprizes@nist.gov) by **5:00 p.m. Mountain Daylight
+  Time** on October 20, 2020. The concept paper must be a PDF file with a
+  **maximum of 9 pages** and a file size of **less than 25MB**.
 
 
-  \*Note: Contestants may submit a concept paper for the Specific Camera Impairment category or the Single Computer Vision Application category, but not both. Review the two PSCR-provided dataset categories included in the [Official Rules]({{site.baseurl}}/assets/netlify-uploads/computer-vision-challenge-rules_final-8.21.2020.pdf).
+  \*Note: Contestants may submit a concept paper for the Specific Camera Impairment category or the Single Computer Vision Application category, but not both. Review the two PSCR-provided dataset categories included in the [Official Rules]({{site.baseurl}}/assets/netlify-uploads/official-rules_computer-vision-challenge_08252020.pdf).
 
 
-  **Submission Email:** psprizes@nist.gov
+  **Submission Email:** [psprizes@nist.gov](mailto:psprizes@nist.gov)
 ---
 ### Description
+
+**CONGRATULATIONS TO PHASE 2 WINNERS:** 
+
+* **Team iAI Tech-NJIT** (Innovative AI Technologies, LLC and New Jersey Institute of Technology): Phase 2 award ($6,000), CDVL Distribution Prize ($12,000), and Best in Show: Best Dataset Prize ($5,000)
+* **Team CalAster** (CalAster, Inc.): Phase 2 award ($6,000), CDVL Distribution Prize ($12,000), and Best in Show: Best in Show: Best Assessment Data Prize ($5,000)
+* **Team LIVE** (University of Texas): Phase 2 award ($6,000), CDVL Distribution Prize ($12,000)
+* **Team IUPUI** (Indiana University-Purdue University Indianapolis): Phase 2 award ($6,000), CDVL Distribution Prize ($12,000)
+* **Dr. Burak Ozer**: Phase 2 award ($6,000)
+
+Check out the [challenge website](https://pscompvischallenge.com/) for the latest information or for questions related to this challenge, email us at [psprizes@nist.gov](psprizes@nist.gov).
 
 #### Overview
 
@@ -314,7 +342,7 @@ Phase 2 Dataset Submission: Up to 10 contestants will be awarded: a) $6,000 per 
 
 **\* CDVL Distribution Prize:** Each Phase 2 submission may qualify for an additional prize by granting NIST permission to redistribute the submission package (i.e., images or videos, spreadsheet, and document) on the Consumer Digital Video Library (CDVL, www.cdvl.org) for research and development (R&D) purposes. The submission must pass Phase 2 Criterion # 1 to be eligible. Granting NIST permission to redistribute the submission package on the CDVL includes agreeing to the CDVL licensing terms, which are available at https://cdvl.org/license/.
 
-See [Official Rules]({{site.baseurl}}/assets/netlify-uploads/computer-vision-challenge-rules_final-8.21.2020.pdf) for Phase 2 judging criteria.
+See [Official Rules]({{site.baseurl}}/assets/netlify-uploads/official-rules_computer-vision-challenge_08252020.pdf) for Phase 2 judging criteria.
 
 ### Rules
 
@@ -333,11 +361,11 @@ General Submission Rules:
 
 Any applicable intellectual property rights to a submission will remain with the contestant. By participating in the prize challenge, the contestant is not granting any rights in any patents, pending patent applications, or copyrights related to the technology described in the entry.
 
-Download the [Official Rules]({{site.baseurl}}/assets/netlify-uploads/computer-vision-challenge-rules_final-8.21.2020.pdf). 
+Download the [Official Rules]({{site.baseurl}}/assets/netlify-uploads/official-rules_computer-vision-challenge_08252020.pdf). For a plain text version of the official rules, email [psprizes@nist.gov](mailto:psprizes@nist.gov).
 
 #### **Terms and Conditions**
 
-For a complete list of eligibility requirements and the terms and conditions, please see the [Official Rules]({{site.baseurl}}/assets/netlify-uploads/computer-vision-challenge-rules_final-8.21.2020.pdf).
+For a complete list of eligibility requirements and the terms and conditions, please see the [Official Rules]({{site.baseurl}}/assets/netlify-uploads/official-rules_computer-vision-challenge_08252020.pdf).
 
 * **The official representative** (whether an individual, team, or legal entity) must be 18 or older and a U.S. citizen or permanent resident of the United States or its territories
 * In the case of a **private entity**, the business shall be incorporated in and maintain a place of business in the United States or its territories
@@ -380,12 +408,12 @@ The extent to which the image dataset design meets the objectives listed in the 
 * Plausible approach for creating a wide range of image or video quality
 * Suitable strategy for obtaining image or videos release, when required by privacy concerns
 
-\*See [Official Rules]({{site.baseurl}}/assets/netlify-uploads/computer-vision-challenge-rules_final-8.21.2020.pdf) for judging criteria associated with Phase 2 of the contest.
+\*See [Official Rules]({{site.baseurl}}/assets/netlify-uploads/official-rules_computer-vision-challenge_08252020.pdf) for judging criteria associated with Phase 2 of the contest.
 
 ### How to Enter
 
 Submit a concept paper by email to [psprizes@nist.gov](mailto:psprizes@nist.gov) by **5:00 p.m. Mountain Daylight Time** on October 20, 2020. The concept paper must be a PDF file with a **maximum of 9 pages** and a file size of **less than 25MB**.
 
-\*Note: Contestants may submit a concept paper for the Specific Camera Impairment category or the Single Computer Vision Application category, but not both. Review the two PSCR-provided dataset categories included in the [Official Rules]({{site.baseurl}}/assets/netlify-uploads/computer-vision-challenge-rules_final-8.21.2020.pdf).
+\*Note: Contestants may submit a concept paper for the Specific Camera Impairment category or the Single Computer Vision Application category, but not both. Review the two PSCR-provided dataset categories included in the [Official Rules]({{site.baseurl}}/assets/netlify-uploads/official-rules_computer-vision-challenge_08252020.pdf).
 
-**Submission Email:** psprizes@nist.gov
+**Submission Email:** [psprizes@nist.gov](mailto:psprizes@nist.gov)

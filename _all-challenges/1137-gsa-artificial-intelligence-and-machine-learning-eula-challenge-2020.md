@@ -86,6 +86,16 @@ prizes: >-
   * 2nd place team: $2,500.00
 
   * 3rd place team: $2,500.00
+
+
+  We are proud to announce the final winners of our AI/ML Challenge 2020.  They are:
+
+
+  * 1st Place: Dev Technology
+
+  * 2nd Place: Gaussian Solutions
+
+  * 3rd Place: Team SoKat
 rules: >-
   #### Eligibility to Participate:
 
@@ -403,6 +413,12 @@ Prizes will be distributed to the eligible winners via electronic funds transfer
 * 1st place team: $15,000.00
 * 2nd place team: $2,500.00
 * 3rd place team: $2,500.00 
+
+We are proud to announce the final winners of our AI/ML Challenge 2020.  They are:
+
+* 1st Place: Dev Technology
+* 2nd Place: Gaussian Solutions
+* 3rd Place: Team SoKat
 
 ### Rules
 

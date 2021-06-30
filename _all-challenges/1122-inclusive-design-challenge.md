@@ -4,7 +4,7 @@ challenge-title: Inclusive Design Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/inclusive-design-challenge/
 challenge-id: "1122"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/dot-idc.jpg
 agency-logo: /assets/netlify-uploads/DOT_logo.jpg
@@ -14,17 +14,19 @@ agency: Department of Transportation
 total-prize-offered-cash: $5,000,000
 type-of-challenge:
   - Technology demonstration and hardware
-submission-start: 2020/04/21 08:00 AM
-submission-end: 2020/10/30 05:00 PM
+submission-start: 04/21/2020 08:00 AM
+submission-end: 10/30/2020 05:00 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Rachael Sack
 challenge-manager-email: Rachael.Sack@dot.gov
 point-of-contact: inclusivedesign@dot.gov
+body-content-uploads: /assets/netlify-uploads/us-dot-inclusive-design-challenge-stage-ii-instructions.pdf
 description: >-
-  **Updates have been made to the Rules section and are *italicized* in order to
-  easily locate. For more information about these changes please
-  contact [inclusivedesign@dot.gov](mailto:inclusivedesign@dot.gov).**
+  **Updates have been made to the Stage II Judging Criteria section below.** 
+
+
+  **For more information about the Challenge and related activities please visit <https://www.transportation.gov/accessibility/inclusivedesign>.**
 
 
   #### Summary
@@ -175,10 +177,20 @@ prizes: >-
   Prizes will be structured as follows:
 
 
-  * Stage I Proof-of-Concept: Total prize funds awarded = Up to $3,000,000
+  * Stage I Proof-of-Concept: Total prize funds awarded = $3,000,000 ($300,000 for each Semifinalist)
 
-    * Up to 10 Semifinalists will be selected
-    * Each will receive $300,000 upon selection as a Semifinalist
+    The Inclusive Design Challenge Semifinalists, announced on January 6, 2021, are:
+
+    * AbleLink Smart Living Technologies
+    * Boston University
+    * Carnegie Mellon University - Human-Computer Interaction Institute
+    * Clemson University
+    * Foresight Augmented Reality LLC
+    * May Mobility & University of Michigan Transportation Research Institute (UMTRI)
+    * Purdue University
+    * University of Kansas
+    * University of Maine
+    * Waymo
   * Stage II Prototype/Demonstration: Total prize funds awarded = $2,000,000
 
     * Winner (1st place) will receive $1,000,000
@@ -278,7 +290,7 @@ rules: >-
   3. screen and evaluate the submission per the Stage II Judging Criteria, if Participant is selected for Stage II.
 
 
-  Participant further grants the DOT, and anyone acting on its behalf the right to publicize Participant's name and, as applicable, the name of Participant's team members and/or the name of any Entity that assisted in preparing Participant's submission. Such authority includes posting or linking to the Participant's submission on U.S. Department of Transportation websites, including the Challenge website, Participant's websites, and inclusion of the Participant's submission in any other media, worldwide. More specifically, such authority includes the right to copy, distribute, publicly display and publicly perform all parts of Participant's submission.
+  Participant further grants the DOT, and anyone acting on its behalf the right to publicize Participant's name and, as applicable, the name of Participant's team members and/or the name of any Entity that assisted in preparing Participant's submission. Such authority includes posting or linking to the Participant's submission on U.S. Department of Transportation websites, including the Challenge website, Participant's websites, and inclusion of the Participant's submission in any other media, worldwide. More specifically, such authority includes the right to copy, distribute, publicly display and publicly perform all parts of Participant's submission *that would not otherwise be exempt from disclosure under FOIA*.
 
 
   #### Notes on Terminology
@@ -288,8 +300,6 @@ rules: >-
 
   2. In the Consolidated Appropriations Act of 2018 (Public Law 115-14]), Congress reallocated $100 million for ". . . a highly automated vehicle (HAV) research and development program," a portion of which is being used to fund this Challenge. The accompanying Explanatory Statement further clarified: "Of the total amount provided, not less than $38,000,000 shall be used for direct research, including administrative expenses, on HAV and \[Advanced Driver Assistance System] technologies by the National Highway Traffic Safety Administration, the Federal Highway Administration, the Federal Motor Carrier Safety Administration, and the Federal Transit Administration, of which no more than $5,000,000 shall be for ADAS research. For the purposes of the agreement, HAV refers to technologies capable of the Society of Automotive Engineers (SAE) DOT Level 3, Level 4, or Level 5 automation, whereas ADAS refers to technologies capable of Level 1 or Level 2" (Division L, Title 1). DOT previously used the term HAV to refer to vehicles with Level 3-5 driving automation, but subsequently adopted the terminology in SAE J3016 Taxonomy and Definitions for Terms Related to On-Road Motor Vehicle Automated Driving Systems.
 judging: >-
-  
-
   #### Stage I Judging Criteria
 
 
@@ -313,28 +323,10 @@ judging: >-
      * **Inclusivity**. Submission demonstrates inclusivity in vehicle design and engineering, laying a foundation for future automated vehicles that can be used by people with physical, sensory, and cognitive disabilities.
      * **Potential Benefit**. Submission describes potential benefit to one or more target user(s) or demonstrates the potential for users, should the solution be developed.
 
-  #### Draft Stage II Judging Criteria
+  #### Stage II Judging Criteria
 
 
-  DOT anticipates that criteria from Stage I will carry over to the judging of Stage II submissions, with a focus on prototype development and maturity. In addition to the Stage I criteria, DOT anticipates applying the following draft criteria to Stage II submissions (to be finalized and issued to Stage II participants upon the completion of Stage I based on insights and feedback gained during Stage I):
-
-
-  1. TECHNICAL MERIT:
-
-     * **Technical Approach**. Submission demonstrates significant development and improvement of the initial proof-of-concept through additional specifics and refinement of concept. Demonstrates a high-level of technical merit for the proposed approach.
-     * **Team**. Submission outlines the involvement of disability experts in the creation and testing of the solution, including responses to comments and how feedback has been incorporated into the design structure.
-     * **Design and Desirability**. Submission demonstrates how the proposed solution meets the needs of users. Shows how it could integrate into production now or in the future.
-     * **Functions as Intended**. Submission demonstrates that the prototype being presented performs its intended function and demonstrates the proposed solution(s) described in the participant's Stage I submission. Submission demonstrates the results of any testing performed through the design, development, and validation process.
-  2. PRODUCTION FEASIBILITY:
-
-     * **Path to Production**. Submission demonstrates a reasonable path for implementation and production, including expected obstacles to overcome. Submission aligns with statements made in Stage I about proposed feasibility and cost to implement (including discussion of potential production volumes).
-     * **Testing and Deployment Approach**. Submission provides a description for how the solution would be tested in a real-world setting and deployed. Demonstrates feasibility of implementation and scalability.
-     * **Technology Readiness Level (TRL) Self-Assessment**. Submission describes the maturity of the prototype by completing the TRL questionnaire (to be provided) and self-reporting a score.
-  3. IMPACT/BENEFIT:
-
-     * **Intuitive**. Submission demonstrates a solution that is easy and intuitive for a prospective user and can be operated independently by a user with one or more of the disability types described in the Challenge statement.
-     * **Inclusive**. Submission demonstrates inclusivity in vehicle design and engineering, laying a foundation for future automated vehicles that can be used by people with physical, sensory, and cognitive disabilities.
-     * **Beneficial**. Submission describes potential benefit to one or more target user(s) or demonstrates the potential for users, should the solution be developed.
+  DOT shared final Stage II Instructions with Semifinalists at the time of their selection.  The [Stage II Instructions](<{{ site.baseurl }}/assets/netlify-uploads/us-dot-inclusive-design-challenge-stage-ii-instructions.pdf>) include details on Stage II submission materials, judging criteria, and timeline.
 how-to-enter: >-
   Submissions should follow the instructions below and should be submitted
   to  [hostedsites.volpe.dot.gov/inclusivedesign](https://hostedsites.volpe.dot.gov/inclusivedesign/). 
@@ -370,7 +362,9 @@ how-to-enter: >-
 
   Note: Submission requirements for Stage II will be provided to the semifinalists upon advancing to the next stage and will also be posted on the DOT's Inclusive Design Challenge website.
 ---
-**Updates have been made to the Rules section and are *italicized* in order to easily locate. For more information about these changes please contact [inclusivedesign@dot.gov](mailto:inclusivedesign@dot.gov).**
+**Updates have been made to the Stage II Judging Criteria section below.** 
+
+**For more information about the Challenge and related activities please visit <https://www.transportation.gov/accessibility/inclusivedesign>.**
 
 ### Description
 
@@ -469,10 +463,20 @@ In Stage I, DOT will select up to ten semifinalists to advance to Stage II; each
 
 Prizes will be structured as follows:
 
-* Stage I Proof-of-Concept: Total prize funds awarded = Up to $3,000,000
+* Stage I Proof-of-Concept: Total prize funds awarded = $3,000,000 ($300,000 for each Semifinalist)
 
-  * Up to 10 Semifinalists will be selected
-  * Each will receive $300,000 upon selection as a Semifinalist
+  The Inclusive Design Challenge Semifinalists, announced on January 6, 2021, are:
+
+  * AbleLink Smart Living Technologies
+  * Boston University
+  * Carnegie Mellon University - Human-Computer Interaction Institute
+  * Clemson University
+  * Foresight Augmented Reality LLC
+  * May Mobility & University of Michigan Transportation Research Institute (UMTRI)
+  * Purdue University
+  * University of Kansas
+  * University of Maine
+  * Waymo
 * Stage II Prototype/Demonstration: Total prize funds awarded = $2,000,000
 
   * Winner (1st place) will receive $1,000,000
@@ -538,7 +542,7 @@ By virtue of their submission to this Challenge, Participants grant to the DOT, 
 2. describe the submission in any materials created in connection with this Challenge; and
 3. screen and evaluate the submission per the Stage II Judging Criteria, if Participant is selected for Stage II.
 
-Participant further grants the DOT, and anyone acting on its behalf the right to publicize Participant's name and, as applicable, the name of Participant's team members and/or the name of any Entity that assisted in preparing Participant's submission. Such authority includes posting or linking to the Participant's submission on U.S. Department of Transportation websites, including the Challenge website, Participant's websites, and inclusion of the Participant's submission in any other media, worldwide. More specifically, such authority includes the right to copy, distribute, publicly display and publicly perform all parts of Participant's submission.
+Participant further grants the DOT, and anyone acting on its behalf the right to publicize Participant's name and, as applicable, the name of Participant's team members and/or the name of any Entity that assisted in preparing Participant's submission. Such authority includes posting or linking to the Participant's submission on U.S. Department of Transportation websites, including the Challenge website, Participant's websites, and inclusion of the Participant's submission in any other media, worldwide. More specifically, such authority includes the right to copy, distribute, publicly display and publicly perform all parts of Participant's submission *that would not otherwise be exempt from disclosure under FOIA*.
 
 #### Notes on Terminology
 
@@ -568,26 +572,9 @@ The judging panel will consider each submission's alignment with each of these c
    * **Inclusivity**. Submission demonstrates inclusivity in vehicle design and engineering, laying a foundation for future automated vehicles that can be used by people with physical, sensory, and cognitive disabilities.
    * **Potential Benefit**. Submission describes potential benefit to one or more target user(s) or demonstrates the potential for users, should the solution be developed.
 
-#### Draft Stage II Judging Criteria
+#### Stage II Judging Criteria
 
-DOT anticipates that criteria from Stage I will carry over to the judging of Stage II submissions, with a focus on prototype development and maturity. In addition to the Stage I criteria, DOT anticipates applying the following draft criteria to Stage II submissions (to be finalized and issued to Stage II participants upon the completion of Stage I based on insights and feedback gained during Stage I):
-
-1. TECHNICAL MERIT:
-
-   * **Technical Approach**. Submission demonstrates significant development and improvement of the initial proof-of-concept through additional specifics and refinement of concept. Demonstrates a high-level of technical merit for the proposed approach.
-   * **Team**. Submission outlines the involvement of disability experts in the creation and testing of the solution, including responses to comments and how feedback has been incorporated into the design structure.
-   * **Design and Desirability**. Submission demonstrates how the proposed solution meets the needs of users. Shows how it could integrate into production now or in the future.
-   * **Functions as Intended**. Submission demonstrates that the prototype being presented performs its intended function and demonstrates the proposed solution(s) described in the participant's Stage I submission. Submission demonstrates the results of any testing performed through the design, development, and validation process.
-2. PRODUCTION FEASIBILITY:
-
-   * **Path to Production**. Submission demonstrates a reasonable path for implementation and production, including expected obstacles to overcome. Submission aligns with statements made in Stage I about proposed feasibility and cost to implement (including discussion of potential production volumes).
-   * **Testing and Deployment Approach**. Submission provides a description for how the solution would be tested in a real-world setting and deployed. Demonstrates feasibility of implementation and scalability.
-   * **Technology Readiness Level (TRL) Self-Assessment**. Submission describes the maturity of the prototype by completing the TRL questionnaire (to be provided) and self-reporting a score.
-3. IMPACT/BENEFIT:
-
-   * **Intuitive**. Submission demonstrates a solution that is easy and intuitive for a prospective user and can be operated independently by a user with one or more of the disability types described in the Challenge statement.
-   * **Inclusive**. Submission demonstrates inclusivity in vehicle design and engineering, laying a foundation for future automated vehicles that can be used by people with physical, sensory, and cognitive disabilities.
-   * **Beneficial**. Submission describes potential benefit to one or more target user(s) or demonstrates the potential for users, should the solution be developed.
+DOT shared final Stage II Instructions with Semifinalists at the time of their selection.  The [Stage II Instructions](<{{ site.baseurl }}/assets/netlify-uploads/us-dot-inclusive-design-challenge-stage-ii-instructions.pdf>) include details on Stage II submission materials, judging criteria, and timeline.
 
 ### How To Enter
 
