@@ -86,4 +86,4 @@ Participants will be asked to:
 
 #### UAS Challenge Stages
 
-![Table providing overview of challenge stages](/assets/netlify-uploads/3.1-challenge-stages.jpg "Challenge Stages")
+![Table providing overview of challenge stages]({{site.baseurl}}/assets/netlify-uploads/3.1-challenge-stages.jpg "Challenge Stages")
