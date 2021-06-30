@@ -6,7 +6,7 @@ challenge-title: Mobilizing and Empowering the Nation and Technology to Address
 layout: front-matter-data-markdownify-content
 permalink: /challenge/MENTAL-health-social-isolation-challenge/
 challenge-id: "1140"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/mhc_challengegov_2.jpg
 agency-logo: /assets/netlify-uploads/hhs.png
@@ -24,8 +24,8 @@ type-of-challenge:
   - Software and apps
   - Analytics, visualizations, algorithms
   - Ideas
-submission-start: 2020/06/23 7:15 AM
-submission-end: 2020/09/08 11:59 PM
+submission-start: 06/23/2020 7:15 AM
+submission-end: 09/14/2020 11:59 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: "Gilbert.Thompson@acl.hhs.gov "
@@ -33,10 +33,9 @@ challenge-manager-email: "Gilbert.Thompson@acl.hhs.gov "
 point-of-contact: "MENTALHealthChallenge@acl.hhs.gov "
 body-content-uploads: /assets/netlify-uploads/social-isolation-resource_08042020.pdf
 description: >-
-  #### Please review for important updates to the prize challenge rules, terms
-  and conditions and submission requirements.  These updates will be reviewed at
-  the MENTAL Health Innovation Challenge webinar on August 12, 2020.  A link to
-  register for the webinar is included below.
+  #### Please review for important updates to the Phase 1 submission date,
+  possible dates to demonstrate solution, and announcement date for Phase 1
+  winners.  Additional resources are also posted with this update. 
 
 
   This year, we've been forced to rethink the myriad of different ways we connect, socialize and interact with each other. In the absence of face-to-face time, can technology and online tools help us make, maintain, and strengthen those connections so vital to everyday life? We believe they can. That’s why we need your help. 
@@ -114,30 +113,27 @@ description: >-
   #### Key Dates
 
 
-  Phase 1: Plan and Design a Social Engagement Clearinghouse Interactive Prototype 
-
-
-  * Open June 23, 2020 through September 8, 2020.
+  * Open June 23, 2020 through September 14, 2020.
 
   * Informational Webinar was held on July 9, 2020.
 
   * Additional Informational Webinar was held on July 30, 2020.
 
-  * Additional Informational Webinar will be held on August 12, 2020; [Register for the webinar](https://optum.webex.com/mw3300/mywebex/default.do?nomenu=true&siteurl=optum&service=6&rnd=0.9570428522948246&main_url=https%3A%2F%2Foptum.webex.com%2Fec3300%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Ddetail%26%26%26EMK%3D4832534b00000004d1e1b3af53a2d35d8b8a260b93a70758a27137344045b562a28ce2fbdf67c102%26siteurl%3Doptum%26confViewID%3D168839673466072393%26encryptTicket%3DSDJTSwAAAAQRx2UBK04zku5DqX_Pc4gGXNde1si5fUNg3idRJq-NkA2%26)
+  * Additional Informational Webinar was held on August 12, 2020.
 
-  * Registration email to register for the competition is due ideally by July 15, 2020 and no later than September 8, 2020.
+  * Registration email to register for the competition is due ideally by July 15, 2020 and no later than September 14, 2020.
 
-  * Submissions for Phase 1 are due September 8, 2020.
+  * Submissions for Phase 1 are due September 14, 2020.
 
-  * Judging for Phase 1 will occur from September 8, 2020 through September 29, 2020. 
+  * Judging for Phase 1 will occur from September 14, 2020 through October 5, 2020. 
 
-  * Finalists that move into Phase 2 will be awarded by September 30, 2020.  
+  * Finalists that move into Phase 2 will be awarded by October 6, 2020.  
 
 
   Phase 2: Pilot and Test Social Engagement Clearinghouse Alpha
 
 
-  * Competition occurs October 1, 2020 through December 4, 2020.
+  * Competition occurs October 6, 2020 through December 4, 2020.
 
   * Phase 2 submissions are due by December 4, 2020, 11:59 pm EST.
 
@@ -160,7 +156,82 @@ prizes: >-
 
 
   The top two contenders will present their solution at the CES 2021 in Las Vegas, NV (January 6-9, 2021).
-rules: ""
+rules: >-
+  
+
+  #### Eligibility:
+
+
+  To be eligible to win a prize under this challenge, an individual or entity may participate as part of one or more teams. Team formation is strongly encouraged, and teams are not limited in the number of members. Each team must designate a captain who must be a U.S. citizen or permanent resident who is responsible for all correspondence regarding this Challenge. An individual or entity:
+
+
+  * Shall have registered to participate in the competition under the rules promulgated by the Administration for Community Living;
+
+  * Shall have complied with all the requirements under this section;
+
+  * In the case of a private entity, shall be incorporated in and maintain a primary place of business in the United States, and in the case of an individual, whether participating singly or in a group, shall be a citizen or permanent resident of the United States;
+
+  * May not be a Federal entity or Federal employee acting within the scope of their employment (all non-HHS, non-FCC or non-VA federal employees must consult with their agency Ethics Official to determine whether the federal ethics rules will limit or prohibit the acceptance of a COMPETES Act prize);
+
+  * Shall not be an HHS, FCC, or VA employee;
+
+  * Federal grantees may not use Federal funds to develop submissions unless consistent with the purpose of their grant award; and
+
+  * Federal contractors may not use Federal funds from a contract to develop COMPETES Act challenge submissions or to fund efforts in support of a COMPETES Act challenge submission.
+
+
+  **Additionally:**
+
+
+  * The top 2 contenders of Phase 2 must agree to use a portion of their prize award to travel to the CES 2021 in Las Vegas, NV.
+
+  * Entrants must also agree to indemnify the Federal government against third-party claims for damages arising from or related to competition activities.
+
+  * The Federal government will not select as a winner an individual or entity that is on the Excluded Parties List.
+
+
+
+
+  #### Technical Rules:
+
+
+  * Platform: Solution shall be a web based application, and public internet accessible using a common web browser.
+
+  * Accessibility: Solution shall comply with Section 508 standards, and conform to either WCAG 2.0 Level A, AA, or AAA.
+
+  * Security: Solution shall follow OWASP Top Ten Proactive Controls 2018. While all ten controls are important and complementary to web applications security, particular attention should be given to C3, C7, and C8.
+
+
+  #### Terms and Conditions
+
+
+  * An individual or entity shall not be deemed ineligible because the individual or entity used Federal facilities or consulted with Federal employees during a competition if the facilities and employees are made available to all individuals and entities participating in the competition on an equitable basis.
+
+  * Federal grantees may not use Federal funds to develop their Challenge Submissions unless use of such funds is consistent with the purpose of their grant award and specifically requested to do so due to the Challenge design, and as announced on challenge.gov.
+
+  * Federal contractors may not use Federal funds from a contract to develop their Submissions or to fund efforts in support of their Submission.
+
+  * Multiple entries are permitted. Each solution must be sufficiently novel and unique and not be a minor modification of a prior submission.
+
+  * A demonstration of the developed technical solution must be included in your phase 2 submission, as per phase two conditions, either via web link, or as a downloadable app from a website. If a login is required, demo accounts with password should be provided which will enable evaluators to access all parts of the product. If there are different interfaces, separate logins should be provided.
+
+  * Participants must also agree to assume any and all risks and waive claims against the Federal Government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from my participation in this prize contest, whether the injury, death, damage, or loss arises through negligence or otherwise.
+
+  * Participants are required to obtain liability insurance or demonstrate financial responsibility in the amount of $0 for claims by a third party for death, bodily injury, or property damage, or loss resulting from an activity carried out in connection with participation in a challenge.
+
+  * Participants must also agree to indemnify the Federal Government against third party claims for damages arising from or related to Challenge activities.
+
+  * The Administration for Community Living and the Office of the Assistant Secretary for Health reserves the right, in their sole discretion, to (a) cancel, suspend, or modify the Challenge, and/or (b) not award any prizes if no entries are deemed worthy.
+
+  * Intellectual Property of Submissions:
+
+    * Participants can utilize intellectual property developed prior to this Challenge as a part of their submission. Neither the U.S. Administration for Community Living (ACL) nor the U.S. Health and Human Services Office of the Assistant Secretary for Health (OASH) nor anyone acting on their behalf will obtain any rights in intellectual property developed prior to or during the conduct of this Challenge without the prior written consent of the Participant. By participating in the Challenge, the Participant is not granting rights in any patents, pending patent applications, or copyrights related to the technology described in their submission. However, by submitting their entry, the Participant is granting the U.S Administration for Community Living and the U.S. Department of Health and Human Services Office of the Assistant Secretary for Health and any parties acting on their behalf certain limited rights as set forth herein. By virtue of their submission to this Challenge, Participants grant to the ACL and OASH, and any parties acting on their behalf the right to: 
+
+      * review the submission per the Phase 1 Judging Criteria; and
+      * describe the submission in any materials created in connection with this Challenge; and
+      * screen and evaluate the submission per the Phase 2 Judging Criteria, if Participant is selected for Phase 2; and
+      * screen and evaluate the submission per the Bonus Phase Judging Criteria, if Participant is eligible for the Bonus Phase.
+    * Participant further grants the ACL, the OASH, and anyone acting on their behalf the right to publicize Participant’s name and, as applicable, the name of Participant’s team members and/or the name of any Entity that assisted in preparing Participant’s submission. Such authority includes posting or linking to the Participant’s submission on U.S. Administration for Community Living websites, including the Challenge website, OASH websites, U.S. Department of Veterans Affairs websites, Federal Communications Commission websites, Participant’s websites, Implementing Partner website and inclusion of the Participant’s submission in any other media, worldwide. More specifically, such authority includes the right to copy, distribute, publicly display and publicly perform all parts of Participant’s submission.
 judging: >-
   The Judging Panel will be composed of federal and/or other technical and
   subject matter experts.
@@ -223,7 +294,7 @@ how-to-enter: >-
   #### Registration for this Challenge:
 
 
-  Beginning June 23, 2020 at 7:15 am EDT, the identified Official Representative (individual, team, or legal entity) may register for this Challenge by sending an email to MENTALHealthChallenge@acl.hhs.gov with the subject line stating ‘MENTAL Health Challenge Registration’.  In this email you must identify only one Official Representative for each Challenge registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the Solver (individual, team, or legal entity), that he or she has read and consents to be governed by the Challenge Rules. Registration for this Challenge is due by Sept. 8, 2020 at 11:59 pm EDT.
+  Beginning June 23, 2020 at 7:15 am EDT, the identified Official Representative (individual, team, or legal entity) may register for this Challenge by sending an email to MENTALHealthChallenge@acl.hhs.gov with the subject line stating ‘MENTAL Health Challenge Registration’.  In this email you must identify only one Official Representative for each Challenge registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the Solver (individual, team, or legal entity), that he or she has read and consents to be governed by the Challenge Rules. Registration for this Challenge is due by Sept. 14, 2020 at 11:59 pm EDT.
 
 
   Questions concerning this Challenge should be sent by email to [MENTALHealthChallenge@acl.hhs.gov](mailto:MENTALHealthChallenge@acl.hhs.gov).
@@ -235,7 +306,7 @@ how-to-enter: >-
   **Phase I**
 
 
-  Submissions for Phase 1 of this Challenge are due by September 8, 2020 at 11:59 pm EDT. The identified Official Representative (individual, team or legal entity) may apply for this Challenge by submitting an application by email to [MENTALHealthChallenge@acl.hhs.gov](mailto:MENTALHealthChallenge@acl.hhs.gov). The application for Phase 1 of the Challenge shall meet the following requirements:
+  Submissions for Phase 1 of this Challenge are due by September 14, 2020 at 11:59 pm EDT. The identified Official Representative (individual, team or legal entity) may apply for this Challenge by submitting an application by email to [MENTALHealthChallenge@acl.hhs.gov](mailto:MENTALHealthChallenge@acl.hhs.gov). The application for Phase 1 of the Challenge shall meet the following requirements:
 
 
   * Entries must consist of PDF files with font size no smaller than 11-point Arial.
@@ -262,10 +333,10 @@ how-to-enter: >-
       * A one-page max written description of the proposed plan to pilot the prototype in Phase 2 should the submission be selected as a finalist to move to Phase 2.
       * A one-page max written description of the proposed approach to evaluate the prototype during the pilot phase.
 
-  **Description:** The Plan and Design a Social Engagement Clearinghouse Interactive Prototype phase invites all eligible entities to submit a concept white paper outlining their technology, the potential impact for older adults, people with disabilities, racial and minority populations and Veterans that may be socially isolated, the innovative idea / concept behind how their platform could work and leverage existing efforts, and how this is informed by user needs they have identified. Each concept, wireframe, and prototype will be reviewed by a panel of judges with knowledge and expertise in technology, user design and experience. Only the first three pages (inclusive of any visual representations or graphics) of the concept description document will be reviewed along with the interactive prototype submission and its one page description, and the proposed plan to pilot the prototype in Phase 2. During the Phase I review process, the concept paper, interactive prototype and the proposed plan to pilot the prototype in Phase 2 will be redacted for both applicant and any specific organizational partner names referenced (versus broader categories of organizational partners) and reviewed by Federal evaluators screened to avoid conflicts of interest. Judges will review all submissions for Phase 1. A subset of the highest scoring submissions will be asked to be available September 15 through September 22, 2020 to participate in a 45 minute session to present and demo their Social Engagement Clearinghouse Interactive Prototype to the judges. ACL will provide additional criteria throughout the various phases to further define requirement expectations.
+  **Description:** The Plan and Design a Social Engagement Clearinghouse Interactive Prototype phase invites all eligible entities to submit a concept white paper outlining their technology, the potential impact for older adults, people with disabilities, racial and minority populations and Veterans that may be socially isolated, the innovative idea / concept behind how their platform could work and leverage existing efforts, and how this is informed by user needs they have identified. Each concept, wireframe, and prototype will be reviewed by a panel of judges with knowledge and expertise in technology, user design and experience. Only the first three pages (inclusive of any visual representations or graphics) of the concept description document will be reviewed along with the interactive prototype submission and its one page description, and the proposed plan to pilot the prototype in Phase 2. During the Phase I review process, the concept paper, interactive prototype and the proposed plan to pilot the prototype in Phase 2 will be redacted for both applicant and any specific organizational partner names referenced (versus broader categories of organizational partners) and reviewed by Federal evaluators screened to avoid conflicts of interest. Judges will review all submissions for Phase 1. A subset of the highest scoring submissions will be asked to be available September 22 through September 29, 2020 to participate in a 45 minute session to present and demo their Social Engagement Clearinghouse Interactive Prototype to the judges. ACL will provide additional criteria throughout the various phases to further define requirement expectations.
 
 
-  A panel of judges will review and score submissions between September 8, 2020 through September 29, 2020.  Finalists to move to Phase 2 will be notified by September 30, 2020.
+  A panel of judges will review and score submissions between September 14, 2020 through October 5, 2020. Finalists to move to Phase 2 will be notified by October 6, 2020.
 
 
   **Phase 2: Pilot and Test Social Engagement Clearinghouse Alpha**
@@ -324,21 +395,25 @@ how-to-enter: >-
      * [Webinar Recording](https://optum.webex.com/mw3300/mywebex/nbrDownload.do?siteurl=optum)
      * [Webinar Transcript](https://acl.gov/sites/default/files/programs/2020-08/MENTAL_Health_Webinar_2_Transcript.pdf)
      * [](https://acl.gov/sites/default/files/programs/2020-08/Overview_MENTAL_Webinar_7.30.2020_FINAL.pdf)[Webinar Slides](https://acl.gov/sites/default/files/programs/2020-08/Overview_MENTAL_Webinar_7.30.2020_FINAL.pdf)
-  5. July 16, 2020: [Frequently Asked Questions Document](<https://acl.gov/sites/default/files/programs/2020-07/Frequent Asked Questions_7.16.2020_0.pdf>)
+  5. August 12, 2020 MENTAL Health Innovation Challenge Webinar Materials:
 
-  6. July 31, 2020: [Frequently Asked Questions Document Update](https://acl.gov/sites/default/files/programs/2020-07/Frequent%20Asked%20Questions_7.31.2020_V2%20%28003%29.pdf)
+     * [Webinar Recording](https://optum.webex.com/recordingservice/sites/optum/recording/dda5a54168564f6dbd0841c187cbea04)
+     * [Webinar Slides](https://acl.gov/sites/default/files/programs/2020-08/Overview%20MENTAL%20Webinar%208.12.2020_FINAL.v3.pdf)
+  6. July 16, 2020: [Frequently Asked Questions Document](<https://acl.gov/sites/default/files/programs/2020-07/Frequent Asked Questions_7.16.2020_0.pdf>)
 
-  7. Educational Webinars on Using Technology to Address Social Isolation:
+  7. July 31, 2020: [Frequently Asked Questions Document Update](https://acl.gov/sites/default/files/programs/2020-07/Frequent%20Asked%20Questions_7.31.2020_V2%20%28003%29.pdf)
+
+  8. Educational Webinars on Using Technology to Address Social Isolation:
 
      1. [June 26th webinar](https://acl.gov/MENTAL):  Addressing Social Isolation Through Technology Solutions
      2. [July 9th webinar](https://acl.gov/MENTAL): Successfully Engaging Older Adults & Adults with Disabilities via Technology Strategies and Best Practices
-  8. Eldercare Locator is a public service provided by the U.S. Administration for Community living, Administration on Aging that connects people to services for older adults. Eldercare Locator can be navigated independently online or individuals can speak with a person via 800-677-1116.  The Eldercare Locator has an open API that can be accessed at this link:  <https://eldercare.acl.gov/Public/Site_Utilities/API_Reg/API_Registration.aspx>.
+  9. Eldercare Locator is a public service provided by the U.S. Administration for Community living, Administration on Aging that connects people to services for older adults. Eldercare Locator can be navigated independently online or individuals can speak with a person via 800-677-1116.  The Eldercare Locator has an open API that can be accessed at this link:  <https://eldercare.acl.gov/Public/Site_Utilities/API_Reg/API_Registration.aspx>.
 
-  9. [Addressing Social Isolation for Older Adults During the Covid-19 Crisis]({{site.baseurl}}/assets/netlify-uploads/social-isolation-resource_08042020.pdf) is a publication of ADvancing States. This resource was updated 8/04/2020 and includes information on how states have responded to address social isolation in older adults and includes a list of activities and ideas to address social isolation.
+  10. [Addressing Social Isolation for Older Adults During the Covid-19 Crisis]({{site.baseurl}}/assets/netlify-uploads/social-isolation-resource_08042020.pdf) is a publication of ADvancing States. This resource was updated 8/04/2020 and includes information on how states have responded to address social isolation in older adults and includes a list of activities and ideas to address social isolation.
 ---
 ### Description
 
-#### Please review for important updates to the prize challenge rules, terms and conditions and submission requirements.  These updates will be reviewed at the MENTAL Health Innovation Challenge webinar on August 12, 2020.  A link to register for the webinar is included below.
+#### Please review for important updates to the Phase 1 submission date, possible dates to demonstrate solution, and announcement date for Phase 1 winners.  Additional resources are also posted with this update.
 
 This year, we've been forced to rethink the myriad of different ways we connect, socialize and interact with each other. In the absence of face-to-face time, can technology and online tools help us make, maintain,  and strengthen those connections so vital to everyday life? We believe they can. That’s why we need your help. 
 
@@ -390,18 +465,18 @@ The challenge will compete in two phases with cash prizes awarded in each phase.
 
 Phase 1: Plan and Design a Social Engagement Clearinghouse Interactive Prototype 
 
-* Open June 23, 2020 through September 8, 2020.
+* Open June 23, 2020 through September 14, 2020.
 * Informational Webinar was held on July 9, 2020.
 * Additional Informational Webinar was held on July 30, 2020.
-* Additional Informational Webinar will be held on August 12, 2020; [Register for the webinar](https://optum.webex.com/mw3300/mywebex/default.do?nomenu=true&siteurl=optum&service=6&rnd=0.9570428522948246&main_url=https%3A%2F%2Foptum.webex.com%2Fec3300%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Ddetail%26%26%26EMK%3D4832534b00000004d1e1b3af53a2d35d8b8a260b93a70758a27137344045b562a28ce2fbdf67c102%26siteurl%3Doptum%26confViewID%3D168839673466072393%26encryptTicket%3DSDJTSwAAAAQRx2UBK04zku5DqX_Pc4gGXNde1si5fUNg3idRJq-NkA2%26)
-* Registration email to register for the competition is due ideally by July 15, 2020 and no later than September 8, 2020.
-* Submissions for Phase 1 are due September 8, 2020.
-* Judging for Phase 1 will occur from September 8, 2020 through September 29, 2020. 
-* Finalists that move into Phase 2 will be awarded by September 30, 2020.  
+* Additional Informational Webinar was held on August 12, 2020.
+* Registration email to register for the competition is due ideally by July 15, 2020 and no later than September 14, 2020.
+* Submissions for Phase 1 are due September 14, 2020.
+* Judging for Phase 1 will occur from September 14, 2020 through October 5, 2020. 
+* Finalists that move into Phase 2 will be awarded by October 6, 2020.  
 
 Phase 2: Pilot and Test Social Engagement Clearinghouse Alpha
 
-* Competition occurs October 1, 2020 through December 4, 2020.
+* Competition occurs October 6, 2020 through December 4, 2020.
 * Phase 2 submissions are due by December 4, 2020, 11:59 pm EST.
 * Judging occurs December 4, 2020 through December 14, 2020.
 * The top two contenders of Phase 2 will be notified by December 15, 2020.
@@ -524,7 +599,7 @@ Applicants will be judged on the following criteria for each phase of the compet
 
 #### Registration for this Challenge:
 
-Beginning June 23, 2020 at 7:15 am EDT, the identified Official Representative (individual, team, or legal entity) may register for this Challenge by sending an email to [MENTALHealthChallenge@acl.hhs.gov](mailto:MENTALHealthChallenge@acl.hhs.gov) with the subject line stating ‘MENTAL Health Challenge Registration’. In this email you must identify only one Official Representative for each Challenge registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the Solver (individual, team, or legal entity), that he or she has read and consents to be governed by the Challenge Rules. Registration for this Challenge is due by Sept. 8, 2020 at 11:59 pm EDT.
+Beginning June 23, 2020 at 7:15 am EDT, the identified Official Representative (individual, team, or legal entity) may register for this Challenge by sending an email to [MENTALHealthChallenge@acl.hhs.gov](mailto:MENTALHealthChallenge@acl.hhs.gov) with the subject line stating ‘MENTAL Health Challenge Registration’. In this email you must identify only one Official Representative for each Challenge registration. The Official Representative must provide a name and email address and, by sending in the registration, affirms on behalf of the Solver (individual, team, or legal entity), that he or she has read and consents to be governed by the Challenge Rules. Registration for this Challenge is due by Sept. 14, 2020 at 11:59 pm EDT.
 
 Questions concerning this Challenge should be sent by email to [MENTALHealthChallenge@acl.hhs.gov](mailto:MENTALHealthChallenge@acl.hhs.gov).
 
@@ -532,7 +607,7 @@ Questions concerning this Challenge should be sent by email to [MENTALHealthChal
 
 **Phase I**
 
-Submissions for Phase 1 of this Challenge are due by September 8, 2020 at 11:59 pm EDT. The identified Official Representative (individual, team or legal entity) may apply for this Challenge by submitting an application by email to [MENTALHealthChallenge@acl.hhs.gov](mailto:MENTALHealthChallenge@acl.hhs.gov). The application for Phase 1 of the Challenge shall meet the following requirements:
+Submissions for Phase 1 of this Challenge are due by September 14, 2020 at 11:59 pm EDT. The identified Official Representative (individual, team or legal entity) may apply for this Challenge by submitting an application by email to [MENTALHealthChallenge@acl.hhs.gov](mailto:MENTALHealthChallenge@acl.hhs.gov). The application for Phase 1 of the Challenge shall meet the following requirements:
 
 * Entries must consist of PDF files with font size no smaller than 11-point Arial.
 * All submissions must be in English.
@@ -555,9 +630,9 @@ Submissions for Phase 1 of this Challenge are due by September 8, 2020 at 11:59 
     * A one-page max written description of the proposed plan to pilot the prototype in Phase 2 should the submission be selected as a finalist to move to Phase 2.
     * A one-page max written description of the proposed approach to evaluate the prototype during the pilot phase.
 
-**Description:** The Plan and Design a Social Engagement Clearinghouse Interactive Prototype phase invites all eligible entities to submit a concept white paper outlining their technology, the potential impact for older adults, people with disabilities, racial and minority populations and Veterans that may be socially isolated, the innovative idea / concept behind how their platform could work and leverage existing efforts, and how this is informed by user needs they have identified. Each concept, wireframe, and prototype will be reviewed by a panel of judges with knowledge and expertise in technology, user design and experience. Only the first three pages (inclusive of any visual representations or graphics) of the concept description document will be reviewed along with the interactive prototype submission and its one page description, and the proposed plan to pilot the prototype in Phase 2. During the Phase I review process, the concept paper, interactive prototype and the proposed plan to pilot the prototype in Phase 2 will be redacted for both applicant and any specific organizational partner names referenced (versus broader categories of organizational partners) and reviewed by Federal evaluators screened to avoid conflicts of interest. Judges will review all submissions for Phase 1. A subset of the highest scoring submissions will be asked to be available September 15 through September 22, 2020 to participate in a 45 minute session to present and demo their Social Engagement Clearinghouse Interactive Prototype to the judges. ACL will provide additional criteria throughout the various phases to further define requirement expectations.
+**Description:** The Plan and Design a Social Engagement Clearinghouse Interactive Prototype phase invites all eligible entities to submit a concept white paper outlining their technology, the potential impact for older adults, people with disabilities, racial and minority populations and Veterans that may be socially isolated, the innovative idea / concept behind how their platform could work and leverage existing efforts, and how this is informed by user needs they have identified. Each concept, wireframe, and prototype will be reviewed by a panel of judges with knowledge and expertise in technology, user design and experience. Only the first three pages (inclusive of any visual representations or graphics) of the concept description document will be reviewed along with the interactive prototype submission and its one page description, and the proposed plan to pilot the prototype in Phase 2. During the Phase I review process, the concept paper, interactive prototype and the proposed plan to pilot the prototype in Phase 2 will be redacted for both applicant and any specific organizational partner names referenced (versus broader categories of organizational partners) and reviewed by Federal evaluators screened to avoid conflicts of interest. Judges will review all submissions for Phase 1. A subset of the highest scoring submissions will be asked to be available September 22 through September 29, 2020 to participate in a 45 minute session to present and demo their Social Engagement Clearinghouse Interactive Prototype to the judges. ACL will provide additional criteria throughout the various phases to further define requirement expectations.
 
-A panel of judges will review and score submissions between September 8, 2020 through September 29, 2020. Finalists to move to Phase 2 will be notified by September 30, 2020.
+A panel of judges will review and score submissions between September 14, 2020 through October 5, 2020. Finalists to move to Phase 2 will be notified by October 6, 2020.
 
 **Phase 2: Pilot and Test Social Engagement Clearinghouse Alpha**
 
@@ -589,17 +664,20 @@ The top two contenders will be notified December 15, 2020. The winner and runner
    * [Webinar Recording](https://optum.webex.com/recordingservice/sites/optum/recording/956008c6bbc84f638a707f67f25a25bd)
    * [Webinar Slides](<https://acl.gov/sites/default/files/programs/2020-07/Overview_MENTAL_Webinar_7.9.2020 slide deck.pdf>)
    * [Webinar Transcript](<https://acl.gov/sites/default/files/programs/2020-07/MENTAL_Challenge_ 7 9 2020 Webinar Transcript.pdf>)
-4. July 30, 2020 Mental Health Innovation Challenge Webinar Materials:
+4. July 30, 2020 MENTAL Health Innovation Challenge Webinar Materials:
 
    * [Webinar Recording](https://optum.webex.com/recordingservice/sites/optum/recording/232804c9c83443ca9ea21cce8d89a1c8)
    * [Webinar Transcript](https://acl.gov/sites/default/files/programs/2020-08/MENTAL_Health_Webinar_2_Transcript.pdf)
    * [Webinar Slides](https://acl.gov/sites/default/files/programs/2020-08/Overview_MENTAL_Webinar_7.30.2020_FINAL.pdf)
-5. July 16, 2020: [Frequently Asked Questions Document](<https://acl.gov/sites/default/files/programs/2020-07/Frequent Asked Questions_7.16.2020_0.pdf>)
-6. July 31, 2020: [Frequently Asked Questions Document Update](https://acl.gov/sites/default/files/programs/2020-07/Frequent%20Asked%20Questions_7.31.2020_V2%20%28003%29.pdf)
-7. Educational Webinars on Using Technology to Address Social Isolation:
+5. August 12, 2020 MENTAL Health Innovation Challenge Webinar Materials:
+
+   * [Webinar Recording](https://optum.webex.com/recordingservice/sites/optum/recording/dda5a54168564f6dbd0841c187cbea04)
+   * [Webinar Slides](https://acl.gov/sites/default/files/programs/2020-08/Overview%20MENTAL%20Webinar%208.12.2020_FINAL.v3.pdf)
+6. July 16, 2020: [Frequently Asked Questions Document](<https://acl.gov/sites/default/files/programs/2020-07/Frequent Asked Questions_7.16.2020_0.pdf>)
+7. July 31, 2020: [Frequently Asked Questions Document Update](https://acl.gov/sites/default/files/programs/2020-07/Frequent%20Asked%20Questions_7.31.2020_V2%20%28003%29.pdf)
+8. Educational Webinars on Using Technology to Address Social Isolation:
 
    1. [June 26th webinar](https://acl.gov/MENTAL):  Addressing Social Isolation Through Technology Solutions
    2. [July 9th webinar](https://acl.gov/MENTAL): Successfully Engaging Older Adults & Adults with Disabilities via Technology Strategies and Best Practices
-8. Eldercare Locator is a public service provided by the U.S. Administration for Community living, Administration on Aging that connects people to services for older adults. Eldercare Locator can be navigated independently online or individuals can speak with a person via 800-677-1116.  The Eldercare Locator has an open API that can be accessed at this link:  <https://eldercare.acl.gov/Public/Site_Utilities/API_Reg/API_Registration.aspx>.
-9. [Addressing Social Isolation for Older Adults During the Covid-19 Crisis]({{site.baseurl}}/assets/netlify-uploads/social-isolation-resource_08042020.pdf) is a publication of ADvancing States. This resource was updated 8/04/2020 and includes information on how states have responded to address social isolation in older adults and includes a list of activities and ideas to address social isolation.
-
+9. Eldercare Locator is a public service provided by the U.S. Administration for Community living, Administration on Aging that connects people to services for older adults. Eldercare Locator can be navigated independently online or individuals can speak with a person via 800-677-1116.  The Eldercare Locator has an open API that can be accessed at this link:  <https://eldercare.acl.gov/Public/Site_Utilities/API_Reg/API_Registration.aspx>.
+10. [Addressing Social Isolation for Older Adults During the Covid-19 Crisis]({{site.baseurl}}/assets/netlify-uploads/social-isolation-resource_08042020.pdf) is a publication of ADvancing States. This resource was updated 8/04/2020 and includes information on how states have responded to address social isolation in older adults and includes a list of activities and ideas to address social isolation.

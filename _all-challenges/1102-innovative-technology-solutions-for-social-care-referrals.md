@@ -4,7 +4,7 @@ challenge-title: Innovative Technology Solutions for Social Care Referrals
 layout: front-matter-data-markdownify-content
 permalink: /challenge/innovative-technology-solutions-for-social-care-referrals/
 challenge-id: "1102"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/acl_logo_june2020.jpg
 agency-logo: /assets/netlify-uploads/hhs.png
@@ -16,13 +16,13 @@ agency: Department of Health and Human Services
 total-prize-offered-cash: $500,000
 type-of-challenge:
   - Software and apps
-submission-start: 2020/07/13 12:00 PM
-submission-end: 2020/12/14 05:00 PM
+submission-start: 07/13/2020 12:00 PM
+submission-end: 01/06/2021 05:00 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Ami Patel
 challenge-manager-email: ami.patel@acl.hhs.gov
-point-of-contact: ami.patel@acl.hhs.gov
+point-of-contact: SocialCareChallenge@acl.hhs.gov
 description: >-
   ### Description
 
@@ -68,9 +68,9 @@ description: >-
   Phase 1: Concept & Design Submission (July - December 2020)
 
 
-  * Form multi-stakeholder team, submit letter of intent and develop idea and concept designs that include data visualization methods and functional enhancements to technology platforms that connect health and social services.
+  * Form multi-stakeholder team and develop idea and concept designs that include functional enhancements, open standards, and technical specifications for enhancing health and social care integration.
 
-  * **Registration and Phase 1 Application due Monday, December 14, 2020. See below for more information.**
+  * **Registration and Phase 1 Application submissions due Wednesday, January 6, 2021. See below for more information.**
 
 
   Phase 2: Proof of Concept & Demonstration (January 2021 - June 2021)
@@ -169,8 +169,6 @@ rules: >-
 
   The Administration for Community Living reserves the right, in its sole discretion, to (a) cancel, suspend, or modify the Challenge, and/or (b) not award any prizes if no entries are deemed worthy.
 judging: >-
-  
-
   #### Judging Panel
 
 
@@ -184,59 +182,69 @@ judging: >-
 
      * Clearly and concisely identifies the problem and its significance to the stakeholder team
      * Proposal bridges the gaps between community members and products, services, and information
-     * Forward-thinking solution that leverages upcoming and future technology trends including existing and developing content, e-referral, exchange and access standards
+     * Forward-thinking solution that leverages upcoming and future technology trends including existing and developing content
   2. Partnerships & Collaboration
 
      * Strength of the team that is inclusive of key stakeholders. Key investors include health IT developers, health care providers, health plans, state and local agencies that lead the aging and disability networks, and others with relevant technical expertise in data standards, architecture, and/or data analysis
      * Inclusion of co-leadership roles from state and/or community leaders and health care organizations
-  3.  Scalability and Feasibility of Implementation
+     * Commitment to implement proposed open standards through collaborative governance amongst key stakeholders
+  3. Scalability and Feasibility of Implementation
 
-     * Solution identifies nationally recognized or emerging health IT standards for bi-directional e-referral messages and community resource directories for use cases as applicable. Proposed solutions shall consider the desirable future state of interoperability for the proposed use cases(s), but recognize the need to interoperate with legacy health IT systems and home and community-based IT systems.
+     * Proposal has robust design and plan for open Application Programming Interface (API) standards for existing community resource directories
+
+       * Clear technical design of an open API standard for community resource directories using the [Human Services Data Specifications (HSDS)](http://docs.openreferral.org/en/latest/hsds/)
+       * The proposed open API standards for community resource directories can be easily adopted and implemented by existing and new directory platforms
+       * States and CBOs can easily integrate with the proposed open API standards for community resource directories
      * Inclusive of the Gravity Project identified terminology (LOINC, SNOMED-CT, and ICD-10) and technical standards (HL7 FHIR) to represent and exchange SDOH data
-     * Developed and supported open Application Programming Interfaces (APIs) for existing community resource directories
   4. Product Functionality and Usability
 
      * Proposal has broad applicability (i.e., across conditions, populations, health IT environments/technologies/platforms)
      * Inclusive of planning assessments
+     * Look up and retrieval of community resources through a standardized community resource directory
      * Closed-loop referral management
-     * Analytics and dashboards visuals to track service delivery, and outcomes.
-  5.  Identification and Mitigation of Business and Technical Risk
+     * Analytics and dashboards visuals to track service delivery, and outcomes
+  5. Identification and Mitigation of Business and Technical Risk
 
      * Identifies potential business and technical risks associated with closed-loop referral processes
      * Inclusive of appropriate management and technical controls to ensure that the storage, exchange, and use of data satisfies applicable legal and regulatory standards
      * Valid operational security and privacy measures are addressed
 how-to-enter: >-
-  
-
-  #### Phase 1 Submission Requirements
+  **Phase 1 Submission Requirements**
 
 
-  Applications for Phase 1 of this Challenge are due by Monday, December 14, 2020 by 11:59 PM EST. The identified Official Representative (individual, team or legal entity) may apply for this Challenge by submitting an application by email to ami.patel@acl.hhs.gov. The application for Phase 1 of the Challenge shall meet the following requirements:
+  Applications for Phase 1 of this Challenge are due by **Wednesday, January 6, 2021 by 05:00 PM EST**. The identified Official Representative (individual, team or legal entity) may apply for this Challenge by registering and submitting an application to <https://socialcare.innovationchallenge.com/>. The application for Phase 1 of the Challenge shall meet the following requirements:
 
-
-  * Entries must be in Adobe Acrobat® PDF format with font size no smaller than 11-point Arial and no more than 10 pages, not including the cover page, appendixes, or diagrams of the design.
 
   * All submissions must be in English using simple, straightforward and concise language.
 
   * Solvers must not use HHS, ACL, or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement
 
-  * ACL will collect submissions to this Challenge via email. The team lead for each participant team must email their submissions to ami.patel@acl.hhs.gov by Monday, December 14, 2020 by 11:59 PM EST.
 
-    * Subject line of email submissions must be “Social Care Referrals Challenge Phase 1 Proposal”
-    * One single application package attachment in Adobe Acrobat® PDF format with the following content:
+  The official Phase 1 application form is available online and can be accessed by registering at <https://socialcare.innovationchallenge.com/>.  Solvers will be asked to submit the following information in the official online application:
 
-      1. **Cover Page:** Include team lead contact information (full name, email, phone.)
-      2. **Abstract:** Brief abstract describing the proposed solution and how the idea and concept design supports the problem presented in this Challenge.
-      3. **Project Narrative**
 
-         * A detailed overview of the design and concept of the proposed solution, how it addresses the problem(s) described in this Challenge, and how the potential solution brings value to the team of key stakeholders.
-         * Describe existing methods or technologies that were used, combined, or built upon to design the proposed technology solution. Include the new or creative aspects of technologies used and how the design and concept addresses each component of the judging criteria described in this Challenge.
-         * Describe the potential and likelihood for a successful demonstration and implementation if the proposed solution is selected for proceeding phases of the Challenge.
-      4. **Team Member Roles**: For each individual, include a brief biographical sketch of relevant experience and expertise and their present affiliation (institution/organization/company) and include their role and contribution to the team’s solution.
-      5. **Appendixes**
+  * Team Information: Team name, primary contact information, and information on team collaboration.
 
-         * Use Case(s) that describe an example of how the proposed solution will enable referral solutions that will be implemented at the community and/or state level.
-         * Technical architecture and workflow diagram(s) that clearly articulate how the proposed solution addresses interoperability, closed-loop referral processes, the exchange of data, and access to resource directories
+  * Abstract: Brief abstract describing the proposed solution and how the idea and concept design supports the problem presented in this Challenge.
+
+  * Project Scope: Description of the geographic region the proposed solution will cover.
+
+  * Project Narrative:
+
+    * Provide an overview of the design and concept of the proposed solution and how it addresses the problem(s) described in this Challenge. 
+    * Describe how the proposed solution brings value to the team of stakeholders. (See description of judging criteria #1.)
+    * Describe the existing and/or new methods of technologies that were used, combined, or built upon to design the proposed solution, including how the proposed functionalities meet the criteria listed in judging criteria #3 and #4.
+    * Describe the potential and likelihood for a successful demonstration and implementation if the proposed solution is selected for proceeding phases of the Challenge. Include how the success of the proposed solution will address the business and technical risks described in judging criteria #5 and how the team defines and measures a successful solution.
+    * Provide a timeline for getting to a complete solution, citing milestones and goals.  Consider including key points towards a successful solution, such as partnerships, technical tasks, and roll out.
+  * Team Member Roles: For each individual, include a brief biographical sketch of relevant experience and expertise and their present affiliation (institution/organization/company) and include their role and contribution to the team’s solution. (See description of judging criteria # 2.)
+
+  * Appendixes:
+
+    * Use Case(s) that describe an example of how the proposed solution will enable referral solutions that will be implemented at the community and/or state level.
+    * Technical approach and/or specifications, which may include both high and low level technical details, such as architecture, workflows, schemas, data exchange standards, and API endpoints, for the following:
+
+      1. Technical approach and/or specifications for establishing open community resource directories using the [Human Services Data Specifications (HSDS)](http://docs.openreferral.org/en/latest/hsds/).
+      2. Technical approach and/or specifications for the team’s approach for incorporating and standardizing SDOH data content using the [Gravity Project’s](https://www.hl7.org/gravity/) identified terminology.
 ---
 ### Description
 
@@ -267,8 +275,8 @@ The Challenge will compete in three phases with cash prizes awarded in each phas
 
 Phase 1: Concept & Design Submission (July - December 2020)
 
-* Form multi-stakeholder team, submit letter of intent and develop idea and concept designs that include data visualization methods and functional enhancements to technology platforms that connect health and social services.
-* **Registration and Phase 1 Application due Monday, December 14, 2020. See below for more information.**
+* Form multi-stakeholder team and develop idea and concept designs that include functional enhancements, open standards, and technical specifications for enhancing health and social care integration.
+* **Registration and Phase 1 Application submissions due Wednesday, January 6, 2021. See below for more information.**
 
 Phase 2: Proof of Concept & Demonstration (January 2021 - June 2021)
 
@@ -342,22 +350,27 @@ The Judging Panel will be composed of federal and/or other technical and subject
 
    * Clearly and concisely identifies the problem and its significance to the stakeholder team
    * Proposal bridges the gaps between community members and products, services, and information
-   * Forward-thinking solution that leverages upcoming and future technology trends including existing and developing content, e-referral, exchange and access standards
+   * Forward-thinking solution that leverages upcoming and future technology trends including existing and developing content
 2. Partnerships & Collaboration
 
    * Strength of the team that is inclusive of key stakeholders. Key investors include health IT developers, health care providers, health plans, state and local agencies that lead the aging and disability networks, and others with relevant technical expertise in data standards, architecture, and/or data analysis
    * Inclusion of co-leadership roles from state and/or community leaders and health care organizations
+   * Commitment to implement proposed open standards through collaborative governance amongst key stakeholders
 3. Scalability and Feasibility of Implementation
 
-   * Solution identifies nationally recognized or emerging health IT standards for bi-directional e-referral messages and community resource directories for use cases as applicable. Proposed solutions shall consider the desirable future state of interoperability for the proposed use cases(s), but recognize the need to interoperate with legacy health IT systems and home and community-based IT systems.
+   * Proposal has robust design and plan for open Application Programming Interface (API) standards for existing community resource directories
+
+     * Clear technical design of an open API standard for community resource directories using the [Human Services Data Specifications (HSDS)](http://docs.openreferral.org/en/latest/hsds/)
+     * The proposed open API standards for community resource directories can be easily adopted and implemented by existing and new directory platforms
+     * States and CBOs can easily integrate with the proposed open API standards for community resource directories
    * Inclusive of the Gravity Project identified terminology (LOINC, SNOMED-CT, and ICD-10) and technical standards (HL7 FHIR) to represent and exchange SDOH data
-   * Developed and supported open Application Programming Interfaces (APIs) for existing community resource directories
 4. Product Functionality and Usability
 
    * Proposal has broad applicability (i.e., across conditions, populations, health IT environments/technologies/platforms)
    * Inclusive of planning assessments
+   * Look up and retrieval of community resources through a standardized community resource directory
    * Closed-loop referral management
-   * Analytics and dashboards visuals to track service delivery, and outcomes.
+   * Analytics and dashboards visuals to track service delivery, and outcomes
 5. Identification and Mitigation of Business and Technical Risk
 
    * Identifies potential business and technical risks associated with closed-loop referral processes
@@ -366,27 +379,30 @@ The Judging Panel will be composed of federal and/or other technical and subject
 
 ### How To Enter
 
-#### Phase 1 Submission Requirements
+**Phase 1 Submission Requirements**
 
-Applications for Phase 1 of this Challenge are due by Monday, December 14, 2020 by 11:59 PM EST. The identified Official Representative (individual, team or legal entity) may apply for this Challenge by submitting an application by email to ami.patel@acl.hhs.gov. The application for Phase 1 of the Challenge shall meet the following requirements:
+Applications for Phase 1 of this Challenge are due by **Wednesday, January 6, 2021 by 05:00 PM EST**. The identified Official Representative (individual, team or legal entity) may apply for this Challenge by registering and submitting an application to <https://socialcare.innovationchallenge.com/>. The application for Phase 1 of the Challenge shall meet the following requirements:
 
-* Entries must be in Adobe Acrobat® PDF format with font size no smaller than 11-point Arial and no more than 10 pages, not including the cover page, appendixes, or diagrams of the design.
 * All submissions must be in English using simple, straightforward and concise language.
 * Solvers must not use HHS, ACL, or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement
-* ACL will collect submissions to this Challenge via email. The team lead for each participant team must email their submissions to ami.patel@acl.hhs.gov by Monday, December 14, 2020 by 11:59 PM EST.
 
-  * Subject line of email submissions must be “Social Care Referrals Challenge Phase 1 Proposal”
-  * One single application package attachment in Adobe Acrobat® PDF format with the following content:
+The official Phase 1 application form is available online and can be accessed by registering at <https://socialcare.innovationchallenge.com/>.  Solvers will be asked to submit the following information in the official online application:
 
-    1. **Cover Page:** Include team lead contact information (full name, email, phone.)
-    2. **Abstract:** Brief abstract describing the proposed solution and how the idea and concept design supports the problem presented in this Challenge.
-    3. **Project Narrative**
+* Team Information: Team name, primary contact information, and information on team collaboration.
+* Abstract: Brief abstract describing the proposed solution and how the idea and concept design supports the problem presented in this Challenge.
+* Project Scope: Description of the geographic region the proposed solution will cover.
+* Project Narrative:
 
-       * A detailed overview of the design and concept of the proposed solution, how it addresses the problem(s) described in this Challenge, and how the potential solution brings value to the team of key stakeholders.
-       * Describe existing methods or technologies that were used, combined, or built upon to design the proposed technology solution. Include the new or creative aspects of technologies used and how the design and concept addresses each component of the judging criteria described in this Challenge.
-       * Describe the potential and likelihood for a successful demonstration and implementation if the proposed solution is selected for proceeding phases of the Challenge.
-    4. **Team Member Roles**: For each individual, include a brief biographical sketch of relevant experience and expertise and their present affiliation (institution/organization/company) and include their role and contribution to the team’s solution.
-    5. **Appendixes**
+  * Provide an overview of the design and concept of the proposed solution and how it addresses the problem(s) described in this Challenge. 
+  * Describe how the proposed solution brings value to the team of stakeholders. (See description of judging criteria #1.)
+  * Describe the existing and/or new methods of technologies that were used, combined, or built upon to design the proposed solution, including how the proposed functionalities meet the criteria listed in judging criteria #3 and #4.
+  * Describe the potential and likelihood for a successful demonstration and implementation if the proposed solution is selected for proceeding phases of the Challenge. Include how the success of the proposed solution will address the business and technical risks described in judging criteria #5 and how the team defines and measures a successful solution.
+  * Provide a timeline for getting to a complete solution, citing milestones and goals.  Consider including key points towards a successful solution, such as partnerships, technical tasks, and roll out.
+* Team Member Roles: For each individual, include a brief biographical sketch of relevant experience and expertise and their present affiliation (institution/organization/company) and include their role and contribution to the team’s solution. (See description of judging criteria # 2.)
+* Appendixes:
 
-       * Use Case(s) that describe an example of how the proposed solution will enable referral solutions that will be implemented at the community and/or state level.
-       * Technical architecture and workflow diagram(s) that clearly articulate how the proposed solution addresses interoperability, closed-loop referral processes, the exchange of data, and access to resource directories
+  * Use Case(s) that describe an example of how the proposed solution will enable referral solutions that will be implemented at the community and/or state level.
+  * Technical approach and/or specifications, which may include both high and low level technical details, such as architecture, workflows, schemas, data exchange standards, and API endpoints, for the following:
+
+    1. Technical approach and/or specifications for establishing open community resource directories using the [Human Services Data Specifications (HSDS)](http://docs.openreferral.org/en/latest/hsds/).
+    2. Technical approach and/or specifications for the team’s approach for incorporating and standardizing SDOH data content using the [Gravity Project’s](https://www.hl7.org/gravity/) identified terminology.

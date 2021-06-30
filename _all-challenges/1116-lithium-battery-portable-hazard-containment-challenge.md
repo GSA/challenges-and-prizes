@@ -27,9 +27,18 @@ challenge-manager: Marissa Wagler
 challenge-manager-email: marissa.wagler@navy.mil
 point-of-contact: marissa.wagler@navy.mil
 description: >-
-  **Five (5) participants have been selected to participate in Phase II of the
-  Lithium Battery Man Portable Hazard Containment Prize Challenge. Participant
-  names are listed below in alphabetical order:**
+  The three (3) winners of the Lithium Battery Man Portable Containment Phase
+  III Challenge are:
+
+
+  * 1st Place: Mistral, Inc.
+
+  * 2nd Place: Zarges, Inc.
+
+  * 3rd Place: Fire Containment Concepts
+
+
+  Five (5) participants were selected to participate in Phase II of the Lithium Battery Man Portable Hazard Containment Prize Challenge. Participant names are listed below in alphabetical order:
 
 
   1. Americase, LLC
@@ -216,7 +225,7 @@ description: >-
   Phase III Technology Development Prototype
 
 
-  * Technology Development Prototype submission – 56 Calendar Days
+  * Technology Development Prototype submission – 84 Calendar Days (Extended by 28 Calendar Days on November 2, 2020)
 
   * Evaluation by Judges – 7 Calendar Days
 
@@ -614,7 +623,13 @@ how-to-enter: >-
 ---
 ### Description
 
-**Five (5) participants have been selected to participate in Phase II of the Lithium Battery Man Portable Hazard Containment Prize Challenge. Participant names are listed below in alphabetical order:**
+The three (3) winners of the Lithium Battery Man Portable Containment Phase III Challenge are:
+
+* 1st Place: Mistral, Inc.
+* 2nd Place: Zarges, Inc.
+* 3rd Place: Fire Containment Concepts
+
+Five (5) participants were selected to participate in Phase II of the Lithium Battery Man Portable Hazard Containment Prize Challenge. Participant names are listed below in alphabetical order:
 
 1. Americase, LLC
 2. Fire Containment Concepts
@@ -725,7 +740,7 @@ Phase II Detailed Design and Proof-of-Concept (POC)
 
 Phase III Technology Development Prototype
 
-* Technology Development Prototype submission – 56 Calendar Days
+* Technology Development Prototype submission – 84 Calendar Days (Extended by 28 Calendar Days on November 2, 2020)
 * Evaluation by Judges – 7 Calendar Days
 * Prize pool of $450,000 disbursed to winner(s) – 14 Calendar Days
 

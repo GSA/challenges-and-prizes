@@ -7,7 +7,6 @@ title: Toolkit - Resources
 
 ### White House, Office of Management and Budget (OMB), and Government-Wide Guidance
 
-* [White House: The Trump Administration Supports Fostering Innovation by Leveraging Prizes and Challenges](https://www.whitehouse.gov/articles/trump-administration-supports-fostering-innovation-leveraging-prizes-challenges/) (March 2018)
 * [American Innovation and Competitiveness Act (January 2017)](https://www.congress.gov/bill/114th-congress/senate-bill/3084/text)
 * [OMB Fact Sheet and FAQ on Prize Authority in the America COMPETES Reauthorization Act](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/assets/egov_docs/prize_authority_in_the_america_competes_reauthorization_act.pdf)
 * [OMB Memo: Guidance on the Use of Challenges and Prizes to Promote Open Government]({{ site.baseurl }}/assets/document-library/Memoranda-Guidance-Use-Challenges-Prizes-Promote-Open-Government-M10-11.pdf) (March 2010)
@@ -37,6 +36,7 @@ title: Toolkit - Resources
 #### National Aeronautics and Space Administration (NASA)
 
 * [Policy Directive on Challenges, Prize Competitions, and Crowdsourcing Activities](http://nodis3.gsfc.nasa.gov/displayDir.cfm?t=NPD&c=1090&s=1)
+* [Open Innovation at NASA, November 2020]({{site.baseurl}}/assets/document-library/2020 Open Innovation at NASA.pdf)
 * [Challenge Formulation Worksheet](https://www.nasa.gov/sites/default/files/atoms/files/challengeproject_formulation_worksheet.pdf)
 * [Center of Excellence for Collaborative Innovation (CoECI)](https://www.nasa.gov/offices/COECI/index.html)
 * [CoECI / NASA Tournament Lab](https://www.nasa.gov/coeci/ntl)
@@ -62,12 +62,10 @@ title: Toolkit - Resources
 
 ### Implementation of Federal Prize Authority
 
-* [Fiscal Years 2017-18 Full Report](https://www.whitehouse.gov/wp-content/uploads/2019/06/Federal-Prize-and-Citizen-Science-Implementation-FY17-18-Report-June-2019.pdf) (June 2019)
-
+* Fiscal Years 2017-18 Full Report(June 2019)
   * [All prizes and challenges - This CSV file compiles all prizes and challenges from Appendix A and Appendix B of the report, broken down by agency, legal authority, goals, budget, results and more (this is a raw data set).]({{ site.baseurl }}/assets/document-library/prize-competition-appendices-as-a-CSV.CSV)
 * [Fiscal Year 2016 Progress Report, including appendices]({{ site.baseurl }}/assets/document-library/FY2016-Implementation-Federal-Prize-Authority-Report-and-Appendices.pdf) (July 2017)
 * [Fiscal Year 2015 Progress Report]({{ site.baseurl }}/assets/document-library/FY2015-Implementation-Federal-Prize-Authority-Report.pdf) (August 2016)
-
   * [Appendix One: Agency Prizes and Challenges Conducted Under the America COMPETES Reauthorization Act of 2010]({{ site.baseurl }}/assets/document-library/FY_2015_COMPETES_Prize_Report_Appendix_1.pdf)
   * [Appendix Two: A Selection of Agency Prizes and Challenges Conducted Under Authorities Other Than the America COMPETES Reauthorization Act of 2010]({{ site.baseurl }}/assets/document-library/FY_2015_COMPETES_Prize_Report_Appendix_2.pdf)
 * [Fiscal Year 2014 Process Report]({{ site.baseurl }}/assets/document-library/FY2014-Implementation-Federal-Prize-Authority-Report.pdf) (May 2015)
@@ -91,7 +89,7 @@ title: Toolkit - Resources
 * [U.S. Chamber of Commerce Foundation: The Power of Prizes: Incentivizing Radical Innovation](http://emerging.uschamber.com/library/2014/02/power-prizes-incentivizing-radical-innovation) (February 2014)
 * [Harvard Berkman Center for Internet & Society: Public-Private Partnerships for Organizing and Executing Prize-Based Competitions](http://cyber.law.harvard.edu/publications/2012/public_private_partnerships_for_organizing_and_executing_prize-based_competitions) (June 2012)
 * [Congressional Research Service: Federally Funded Innovation Inducement Prize](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/DARPA/15-F-0059_CRS_FOR_CONGRESS.FEDERALLY_FUNDED_INNOV_INDUCMNT_PRZS.pdf) (June 2009)
-* [McKinsey & Company: And the Winner Is… Capturing the Promise of Philanthropic Prizes](http://www.mckinseyonsociety.com/downloads/reports/Social-Innovation/And_the_winner_is.pdf) (June 2009)
+* [McKinsey & Company: And the Winner Is… Capturing the Promise of Philanthropic Prizes](https://www.mckinsey.com/industries/public-and-social-sector/our-insights/and-the-winner-is-philanthropists-and-governments-make-prizes-count) (June 2009)
 * [National Academies: Concerning Federally Sponsored Inducement Prizes in Engineering and Science](https://www.nap.edu/catalog/9724/concerning-federally-sponsored-inducement-prizes-in-engineering-and-science) (1999)
 
 ### Other Blogs and Fact Sheets

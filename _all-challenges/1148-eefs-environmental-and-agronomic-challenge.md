@@ -4,7 +4,7 @@ challenge-title: "EEFs: Environmental and Agronomic Challenge"
 layout: front-matter-data-markdownify-content
 permalink: /challenge/eefs-environmental-agronomic-challenge/
 challenge-id: "1148"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/next-gen-fertilizer-challenges_341x160-1-.png
 agency-logo: /assets/netlify-uploads/epa_usda_logos_v2.jpg
@@ -19,13 +19,13 @@ partners-non-federal: The Fertilizer Institute, International Fertilizer
 type-of-challenge:
   - Ideas
   - Scientific
-submission-start: 2020/08/26 09:00 AM
-submission-end: 2020/10/30 11:59 PM
+submission-start: 08/26/2020 09:00 AM
+submission-end: 10/30/2020 11:59 PM
 fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Christopher Clark
 challenge-manager-email: clark.christopher@epa.gov
-point-of-contact: Submission_NextGenFertilizerChallenges@epa.gov
+point-of-contact: Question_NextGenFertilizerChallenges@epa.gov
 description: >-
   #### Background
 
@@ -65,12 +65,12 @@ description: >-
 
   * [Informational Webinar](https://next_gen_fertilizer_challenges.eventbrite.com/):  10:00 AM ET September 24, 2020  
 
-  * Submission End: 11:59 PM ET October 30, 2020 
+  * Submission End: 11:59 PM ET October 30, 2020 (**Submission deadline passed - no more submissions being accepted**) 
 
   * Winners announced: Winter 2020/2021 (date and time to be determined)
 
 
-  For more information please visit EPA's page for the [Next Gen Fertilizer Challenges](https://www.epa.gov/innovation/next-gen-fertilizer-challenges).
+  For more information please visit EPA's page for the [Next Gen Fertilizer Challenges](https://www.epa.gov/innovation/next-gen-fertilizer-challenges), including [Frequently Asked Questions](https://www.epa.gov/innovation/next-gen-fertilizer-challenges#FAQs).
 prizes: >-
   #### Total Cash Prize Pool
 
@@ -113,10 +113,10 @@ rules: >-
      * Submission must be in PDF format (10 pages or less excluding references, 8.5 x 11 inch pages, 12-point Times New Roman font or greater, single spaced, and one-inch margins). The solution should include the following headings and content:
 
        1. Executive Summary: Overall description of the proposed solution (500 words);
-       2. Detailed Description of the Proposed Solution: This should include background on the EEF, including any physical, chemical, biological, ecological, or biogeochemical properties in the soil under various climatic and soil moisture conditions. This should also include a description of how the solution may decompose in the environment and into what chemicals;
+       2. Detailed Description of the Proposed Solution: This should include background on the EEF, including any physical, chemical, biological, ecological, or biogeochemical properties in the soil under various climatic and soil moisture conditions. This should also include the names and unique CAS numbers (if available) for any active and inactive ingredients and a description of how these may decompose in the environment and into what chemicals;
        3. Environmental Performance: A quantitative summary (including any relevant graphs or tables) of any published or unpublished results of environmental performance, including comparisons of rates of loss relative to conventional fertilizer for N (e.g. leaching, runoff, ammonia volatilization, nitrous oxide emissions), and P (e.g. leaching, runoff) if relevant;
        4. Agronomic Performance: A quantitative summary (including any relevant graphs or tables) of any published or unpublished results of agronomic performance, including yields under various conditions, rates of growth, kernel production, and net cost (e.g. return on investment, ROI) relative to conventional fertilizer practices;
-       5. Compatibility: Describe how your technology is or may be integrated into existing farming machinery and practices (e.g. transport, storage, application) to the level of specificity possible given the degree of technological maturity;
+       5. Compatibility: Describe how your technology is or may be integrated into existing farming machinery and practices (e.g. transport, storage, application) to the level of specificity possible given the degree of technological maturity; and
        6. Confidential Business Information (CBI): Clear statements on any CBI to be withheld from the submission, or included in the submission but to be withheld from either the judging panel or the public.
   3. **Solvers must agree to the terms and conditions** outlined below**.** Submission of a solution for the Challenge indicates the agreement of the Solver, and all team members, with the terms and conditions.
 
@@ -169,7 +169,7 @@ judging: >-
   #### Judging Criteria
 
 
-  For Stage 1, the Judging Panel will evaluate submissions based on four performance areas, which will be allotted points (up to a total of 100). Submissions invited to Stage 2 will submit a physical product for testing at the IFDC based on agreed-upon protocols (see “Helpful Resources”).
+  For Stage 1, the Judging Panel will evaluate submissions based on four performance areas, which will be allotted points (up to a total of 100). Submissions invited to Stage 2 will submit a physical product for testing at the IFDC based on agreed-upon protocols.
 
 
   **Scoring Overview**
@@ -184,7 +184,7 @@ judging: >-
     * Reduction relative to conventional fertilizer of P leaching/runoff: 7 points 
     * Reduction relative to conventional fertilizer of NH3 volatilization: 7 points
     * Reduction relative to conventional fertilizer of N2O emissions: 7 points
-    * No toxic residue left on the field or in the runoff or leachate: 7 points (For the purposes of this Challenge, “toxic residues” refers to prevalent and biologically active degradates formed from decomposition (via either biotic and abiotic processes) of the product in the environment. Toxicity and prevalence can be described by a number of means, including existing eco-toxicology and environmental fate studies, summaries from either the EPA CompTox Chemicals Dashboard or the EPA Ecotox Knowledge base, or whether the constituent chemicals are already listed under the EPA’s Safer Chemical Ingredients List (e.g., there are 63 polymers listed as safer alternatives). Although this criteria does not pertain to inhibitor effects on target organisms (e.g., soil bacteria), which are toxic by design, it does pertain to any decomposition byproducts of inhibitors and other potential solutions, and effects that may occur for non-target organisms)
+    * No toxic residue left on the field or in the runoff or leachate: 7 points (For the purposes of this Challenge, “toxic residues” refers to prevalent and biologically active degradates formed from decomposition (via either biotic and abiotic processes) of the product in the environment. Please include the names and unique CAS numbers (if available) for any active and inactive ingredients of the solution and its degradants. Toxicity and prevalence can be described by a number of means, including existing eco-toxicology and environmental fate studies, summaries from either the [EPA CompTox Chemicals Dashboard](https://comptox.epa.gov/dashboard) or the [EPA ECOTOX Knowledgebase](https://cfpub.epa.gov/ecotox/), or whether the constituent chemicals are already listed under the [EPA Safer Chemical Ingredients List](https://www.epa.gov/saferchoice/safer-ingredients). Although this criteria does not pertain to inhibitor effects on target organisms (e.g., soil bacteria), which are toxic by design, it does pertain to any decomposition byproducts of inhibitors and other potential solutions, and effects that may occur for non-target organisms)
   * Agronomic performance: 35 points 
 
     * Yield relative to conventional fertilizer: 15 points
@@ -243,8 +243,8 @@ judging: >-
 
   Draft protocols for the planned IFDC greenhouse tests are available by request. Additional details of the IFDC scoring and testing protocols will be made following announcement of the Stage 1 winners, and will depend on the number of EEFs and soil types to be tested.
 how-to-enter: "Submit to:
-  [Question_NextGenFertilizerChallenges@epa.gov](mailto:Submission_NextGenFerti\
-  lizerChallenges@epa.gov)"
+  [Submission_NextGenFertilizerChallenges@epa.gov](mailto:Submission_NextGenFer\
+  tilizerChallenges@epa.gov)"
 ---
 ### Description
 
@@ -272,10 +272,10 @@ EEF Environmental and Agronomic Challenge Dates:
 
 * Challenge Launch: 9:00 AM ET August 26, 2020
 * [Informational Webinar](https://next_gen_fertilizer_challenges.eventbrite.com/):  10:00 AM ET September 24, 2020  
-* Submission End: 11:59 PM ET October 30, 2020 
+* Submission End: 11:59 PM ET October 30, 2020 (**Submission deadline passed - no more submissions being accepted**)
 * Winners announced: Winter 2020/2021 (date and time to be determined)
 
-For more information please visit EPA's page for the [Next Gen Fertilizer Challenges](https://www.epa.gov/innovation/next-gen-fertilizer-challenges). 
+For more information please visit EPA's page for the [Next Gen Fertilizer Challenges](https://www.epa.gov/innovation/next-gen-fertilizer-challenges), including [Frequently Asked Questions](https://www.epa.gov/innovation/next-gen-fertilizer-challenges#FAQs).
 
 ### Prizes
 
@@ -314,10 +314,10 @@ Solvers of the EEFs: *Environmental and Agronomic Challenge* will receive scient
    * Submission must be in PDF format (10 pages or less excluding references, 8.5 x 11 inch pages, 12-point Times New Roman font or greater, single spaced, and one-inch margins). The solution should include the following headings and content:
 
      1. Executive Summary: Overall description of the proposed solution (500 words);
-     2. Detailed Description of the Proposed Solution: This should include background on the EEF, including any physical, chemical, biological, ecological, or biogeochemical properties in the soil under various climatic and soil moisture conditions. This should also include a description of how the solution may decompose in the environment and into what chemicals;
+     2. Detailed Description of the Proposed Solution: This should include background on the EEF, including any physical, chemical, biological, ecological, or biogeochemical properties in the soil under various climatic and soil moisture conditions. This should also include the names and unique CAS numbers (if available) for any active and inactive ingredients and a description of how these may decompose in the environment and into what chemicals;
      3. Environmental Performance: A quantitative summary (including any relevant graphs or tables) of any published or unpublished results of environmental performance, including comparisons of rates of loss relative to conventional fertilizer for N (e.g. leaching, runoff, ammonia volatilization, nitrous oxide emissions), and P (e.g. leaching, runoff) if relevant;
      4. Agronomic Performance: A quantitative summary (including any relevant graphs or tables) of any published or unpublished results of agronomic performance, including yields under various conditions, rates of growth, kernel production, and net cost (e.g. return on investment, ROI) relative to conventional fertilizer practices;
-     5. Compatibility: Describe how your technology is or may be integrated into existing farming machinery and practices (e.g. transport, storage, application) to the level of specificity possible given the degree of technological maturity;
+     5. Compatibility: Describe how your technology is or may be integrated into existing farming machinery and practices (e.g. transport, storage, application) to the level of specificity possible given the degree of technological maturity; and
      6. Confidential Business Information (CBI): Clear statements on any CBI to be withheld from the submission, or included in the submission but to be withheld from either the judging panel or the public.
 3. **Solvers must agree to the terms and conditions** outlined below**.** Submission of a solution for the Challenge indicates the agreement of the Solver, and all team members, with the terms and conditions.
 
@@ -352,7 +352,7 @@ A panel of subject matter experts selected by EPA, USDA and the Challenge collab
 
 #### Judging Criteria
 
-For Stage 1, the Judging Panel will evaluate submissions based on four performance areas, which will be allotted points (up to a total of 100). Submissions invited to Stage 2 will submit a physical product for testing at the IFDC based on agreed-upon protocols (see “Helpful Resources”).
+For Stage 1, the Judging Panel will evaluate submissions based on four performance areas, which will be allotted points (up to a total of 100). Submissions invited to Stage 2 will submit a physical product for testing at the IFDC based on agreed-upon protocols.
 
 **Scoring Overview**
 
@@ -364,7 +364,7 @@ For Stage 1, the Judging Panel will evaluate submissions based on four performan
   * Reduction relative to conventional fertilizer of P leaching/runoff: 7 points 
   * Reduction relative to conventional fertilizer of NH3 volatilization: 7 points
   * Reduction relative to conventional fertilizer of N2O emissions: 7 points
-  * No toxic residue left on the field or in the runoff or leachate: 7 points (For the purposes of this Challenge, “toxic residues” refers to prevalent and biologically active degradates formed from decomposition (via either biotic and abiotic processes) of the product in the environment. Toxicity and prevalence can be described by a number of means, including existing eco-toxicology and environmental fate studies, summaries from either the EPA CompTox Chemicals Dashboard or the EPA Ecotox Knowledge base, or whether the constituent chemicals are already listed under the EPA’s Safer Chemical Ingredients List (e.g., there are 63 polymers listed as safer alternatives). Although this criteria does not pertain to inhibitor effects on target organisms (e.g., soil bacteria), which are toxic by design, it does pertain to any decomposition byproducts of inhibitors and other potential solutions, and effects that may occur for non-target organisms)
+  * No toxic residue left on the field or in the runoff or leachate: 7 points (For the purposes of this Challenge, “toxic residues” refers to prevalent and biologically active degradates formed from decomposition (via either biotic and abiotic processes) of the product in the environment. Please include the names and unique CAS numbers (if available) for any active and inactive ingredients of the solution and its degradants. Toxicity and prevalence can be described by a number of means, including existing eco-toxicology and environmental fate studies, summaries from either the [EPA CompTox Chemicals Dashboard](https://comptox.epa.gov/dashboard) or the [EPA ECOTOX Knowledgebase](https://cfpub.epa.gov/ecotox/), or whether the constituent chemicals are already listed under the [EPA Safer Chemical Ingredients List](https://www.epa.gov/saferchoice/safer-ingredients). Although this criteria does not pertain to inhibitor effects on target organisms (e.g., soil bacteria), which are toxic by design, it does pertain to any decomposition byproducts of inhibitors and other potential solutions, and effects that may occur for non-target organisms)
 * Agronomic performance: 35 points 
 
   * Yield relative to conventional fertilizer: 15 points
@@ -411,4 +411,4 @@ Draft protocols for the planned IFDC greenhouse tests are available by request. 
 
 ### How to Enter
 
-Submit to: [Question_NextGenFertilizerChallenges@epa.gov](mailto:Submission_NextGenFertilizerChallenges@epa.gov)
+Submit to: [Submission_NextGenFertilizerChallenges@epa.gov](mailto:Submission_NextGenFertilizerChallenges@epa.gov)

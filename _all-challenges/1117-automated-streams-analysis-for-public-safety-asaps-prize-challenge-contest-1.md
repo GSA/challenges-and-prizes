@@ -25,7 +25,7 @@ fiscal-year: FY20, FY21, FY22
 legal-authority: America COMPETES Act
 challenge-manager: Craig Connelly
 challenge-manager-email: craig.connelly@nist.gov
-body-content-uploads: /assets/netlify-uploads/asaps-challenge-contest-1.rules-amendment.pdf
+body-content-uploads: /assets/netlify-uploads/3.2-asaps-challenge-contest-1.-rules-amendment.9.21.20.pdf
 description: >-
   The Public Safety Communications Research Division of the National Institute
   of Standards and Technology is conducting the Automated Streams Analysis for
@@ -122,9 +122,13 @@ prizes: >-
 rules: >-
   Please view the original [Official Rules
   document]({{site.baseurl}}/assets/netlify-uploads/3.2-oio-rules-asaps-contest-1-final-.pdf)
-  as well as the [rules
-  modification]({{site.baseurl}}/assets/netlify-uploads/asaps-challenge-contest-1.rules-amendment.pdf)
-  posted July 30, 2020 for detailed rules on all aspects of this challenge.
+  as well as the
+  []({{site.baseurl}}/assets/netlify-uploads/asaps-challenge-contest-1.rules-amendment.pdf)rules
+  modification(s) posted [July 30,
+  2020](({{site.baseurl}}/assets/netlify-uploads/asaps-challenge-contest-1.rules-amendment.pdf))
+  and [September 21,
+  2020]({{site.baseurl}}/assets/netlify-uploads/3.2-asaps-challenge-contest-1.-rules-amendment.9.21.20.pdf)
+  for detailed rules on all aspects of this challenge.
 
 
   Rules regarding submissions, as well as additional terms and conditions, begin on Page 6 of the document.
@@ -356,10 +360,9 @@ how-to-enter: >-
 
 ### Rules
 
-Please view the original [Official Rules document]({{site.baseurl}}/assets/netlify-uploads/3.2-oio-rules-asaps-contest-1-final-.pdf) as well as the [rules modification]({{site.baseurl}}/assets/netlify-uploads/asaps-challenge-contest-1.rules-amendment.pdf) posted July 30, 2020 for detailed rules on all aspects of this challenge.
+Please view the original [Official Rules document]({{site.baseurl}}/assets/netlify-uploads/3.2-oio-rules-asaps-contest-1-final-.pdf) as well as the rules modification(s) posted [July 30, 2020]({{site.baseurl}}/assets/netlify-uploads/asaps-challenge-contest-1.rules-amendment.pdf) and [September 21, 2020]({{site.baseurl}}/assets/netlify-uploads/3.2-asaps-challenge-contest-1.-rules-amendment.9.21.20.pdf) for detailed rules on all aspects of this challenge.
 
- Rules regarding submissions, as well as additional terms and conditions, begin
- on Page 6 of the document.
+Rules regarding submissions, as well as additional terms and conditions, begin on Page 6 of the document.
 
 <!-- Judging start -->
 

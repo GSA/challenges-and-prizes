@@ -4,7 +4,7 @@ challenge-title: Innovative Ways to Destroy PFAS
 layout: front-matter-data-markdownify-content
 permalink: /challenge/Innovative-Ways-To-Destroy-PFAS/
 challenge-id: "1154"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/final_pfas-challenge-icon_341x160px.png
 agency-logo: /assets/netlify-uploads/256px-Environmental_Protection_Agency_logo.png
@@ -22,24 +22,21 @@ total-prize-offered-cash: $50,000
 type-of-challenge:
   - Ideas
   - Scientific
-submission-start: 2020/08/25 07:00 AM
-submission-end: 2020/11/23 11:59 PM
+submission-start: 08/25/2020 07:00 AM
+submission-end: 11/23/2020 11:59 PM
 fiscal-year: FY20, FY21
 legal-authority: Other
 challenge-manager: Mark Higuchi
 challenge-manager-email: Higuchi.mark@epa.gov
 point-of-contact: Higuchi.mark@epa.gov
 description: >-
-  EPA is partnering with the U.S. Department of Defense’s Strategic
-  Environmental Research and Development Program (SERDP) and Environmental
-  Security Technology Certification Program (ESTCP); the Environmental Council
-  of States (ECOS) and the Environmental Research Institute of the States
-  (ERIS); Michigan Department of Environment, Great Lakes and Energy; and the
-  Colorado Department of Public Health and Environment, to launch a technical
-  challenge regarding the destruction of per- and polyfluoroalkyl substances
-  (PFAS). The challenge asks Solvers to submit detailed plans for a non-thermal
-  way of destroying PFAS in concentrated aqueous film forming foam (AFFF), while
-  creating the least amount of potentially harmful byproducts.
+  * **Important Update:** EPA will be hosting an informational webinar about the
+  Innovative Ways to Destroy PFAS Challenge on Sept. 16 at 2 PM (ET). For more
+  information about the webinar and to register to attend, visit
+  [](www.epa.gov/innovation/informational-webinar-innovative-ways-destroy-pfas-challenge)[https://www.epa.gov/innovation/informational-webinar-innovative-ways-destroy-pfas-challenge](https://www.epa.gov/innovation/informational-webinar-innovative-ways-destroy-pfas-challenge).
+
+
+  EPA is partnering with the U.S. Department of Defense’s Strategic Environmental Research and Development Program (SERDP) and Environmental Security Technology Certification Program (ESTCP); the Environmental Council of States (ECOS) and the Environmental Research Institute of the States (ERIS); Michigan Department of Environment, Great Lakes and Energy; and the Colorado Department of Public Health and Environment, to launch a technical challenge regarding the destruction of per- and polyfluoroalkyl substances (PFAS). The challenge asks Solvers to submit detailed plans for a non-thermal way of destroying PFAS in concentrated aqueous film forming foam (AFFF), while creating the least amount of potentially harmful byproducts.
 
 
   PFAS are a group of synthetic chemicals that have been widely used for more than 60 years to make plastics, firefighting foams, and lubricants, and to help make products stain-resistant, waterproof, and nonstick. Addressing and managing PFAS in the environment is one of the most pressing issues facing EPA and its partners. This issue is particularly challenging because PFAS chemicals have a very strong carbon-fluorine chemical bond that leads to persistence in the environment and makes their complete destruction extremely difficult. Given the ubiquitous nature of PFAS and increasing public concerns, EPA and its partners are looking for greater certainty when making decisions about disposal and treatment of PFAS containing materials and PFAS contaminated media/waste.
@@ -159,6 +156,8 @@ how-to-enter: >-
   <https://innocentive.wazoku.com/#/challenge/675bf47600ba483baf6c25ca96ce634d>
 ---
 ### Description
+
+* **Important Update:** EPA will be hosting an informational webinar about the Innovative Ways to Destroy PFAS Challenge on Sept. 16 at 2 PM (ET). For more information about the webinar and to register to attend, visit [](www.epa.gov/innovation/informational-webinar-innovative-ways-destroy-pfas-challenge)[https://www.epa.gov/innovation/informational-webinar-innovative-ways-destroy-pfas-challenge](https://www.epa.gov/innovation/informational-webinar-innovative-ways-destroy-pfas-challenge).
 
 EPA is partnering with the U.S. Department of Defense’s Strategic Environmental Research and Development Program (SERDP) and Environmental Security Technology Certification Program (ESTCP); the Environmental Council of States (ECOS) and the Environmental Research Institute of the States (ERIS); and Michigan Department of Environment, Great Lakes and Energy; and the Colorado Department of Public Health and Environment, to launch a technical challenge regarding the destruction of per- and polyfluoroalkyl substances (PFAS). The challenge asks Solvers to submit detailed plans for a non-thermal way of destroying PFAS in concentrated aqueous film forming foam (AFFF), while creating the least amount of potentially harmful byproducts.
 

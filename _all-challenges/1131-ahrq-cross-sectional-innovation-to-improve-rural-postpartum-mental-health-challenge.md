@@ -6,7 +6,7 @@ challenge-title: AHRQ Cross-Sectional Innovation to Improve Rural Postpartum
 layout: front-matter-data-markdownify-content
 permalink: /challenge/AHRQ-cross-sectional-innovation-rural-postpartum-mental-health-challenge/
 challenge-id: "1131"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/ahrq-logo.jpg
 agency-logo: /assets/netlify-uploads/ahrq-logo.jpg
@@ -18,8 +18,8 @@ external-url: https://www.ahrq.gov/rural-post-partum-challenge/index.html
 total-prize-offered-cash: $175,000
 type-of-challenge:
   - Ideas
-submission-start: 2020/05/19 9:00 AM
-submission-end: 2020/09/15 5:00 PM
+submission-start: 05/19/2020 9:00 AM
+submission-end: 09/15/2020 5:00 PM
 fiscal-year: FY20
 legal-authority: America COMPETES Act
 challenge-manager: Priscilla Novak
