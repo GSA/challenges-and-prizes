@@ -36,16 +36,16 @@ The National Institute of Standards and Technology (NIST) Public Safety Communic
 
 #### **Summary of Important Dates**
 
-* August 2, 2021: FastFind Challenge is open for proposal submissions through challenge website; begin Stage 1
-* September 30, 2021: FastFind Challenge is closed for proposal submissions
-* October 29, 2021: Stage 1 Winners Announced; begin Stage 2
-* January 10, 2022: Stage 2 Check-in Review conducted with eligible Stage 2 Contestants
-* January 28, 2022: Stage 2 Check-in Review Winners Announced
-* April 8, 2022: Walk-on submissions open
-* May 6, 2022: Stage 2 Video Evaluation submissions due; walk-on submissions due
-* May 13, 2022: Stage 2 and Walk-on Winners Announced; begin Phase 3
-* June 20-22, 2022: Live Test & Evaluation (dates may change based on weather delays)
-* June 30, 2022 Stage 3 Final Winners Announced
+* August 2, 2021:   FastFind Challenge is open for proposal submissions through challenge website; begin Stage 1
+* September 30, 2021:   FastFind Challenge is closed for proposal submissions
+* October 29, 2021:   Stage 1 Winners Announced; begin Stage 2
+* January 10, 2022:   Stage 2 Check-in Review conducted with eligible Stage 2 Contestants
+* January 28, 2022:   Stage 2 Check-in Review Winners Announced
+* April 8, 2022:   Walk-on submissions open
+* May 6, 2022:   Stage 2 Video Evaluation submissions due; walk-on submissions due
+* May 13, 2022:   Stage 2 and Walk-on Winners Announced; begin Phase 3
+* June 20-22, 2022:   Live Test & Evaluation (dates may change based on weather delays)
+* June 30, 2022   Stage 3 Final Winners Announced
 
 NOTE: NIST reserves the right to revise the dates at any time.
 
@@ -71,7 +71,7 @@ There are several UAS design features that need to be considered in support of p
 
 UAS entered for the FastFind Challenge will be subject to the requirements outlined in the table below.  
 
- ***INSERT TABLE HERE***
+ ***INSERT TABLE OR LINK TO PDF OR WEBSITE WITH INFO HERE***
 
 PSCR is aware that various organizations may be developing drones with these or similar capabilities; however, these drones typically cost more than what a local public safety department might be able to afford. Additionally, they may not be practical due to the difficulty of transporting large equipment and/or the need for specialized training to operate it, both of which can be difficult for city/state agencies with limited staff and resources. Therefore, PSCR is hosting this 3-stage challenge to design, develop, and demonstrate drones with extended flight time and other capabilities that support first responders to help advance the research and push the boundaries of UAS technology for public safety.
 
