@@ -30,7 +30,7 @@ Join us for this exciting drone (aka unmanned aircraft system or UAS) prize comp
 
 UAS provide many different mission capabilities for first responders however they are not without their limitations.  This challenge is looking at enabling law enforcement as well as other emergency services to search a heavily forested area for missing persons using a UAS. The goal of this challenge is for Contestants to design, build, and fly a complete UAS solution that helps a SAR team locate multiple missing persons in a thick forested area by improving image detection and enhancing navigation techniques to ‘close the distance’ more quickly.
 
-The National Institute of Standards and Technology (NIST) Public Safety Communications Research (PSCR) Division is hosting this 3-stage challenge, with prize awards **up to $260,000** for the top designs. There are no fees or qualifications needed to enter the first stage. The most outstanding Stage 1 conceptual designs will be eligible to participate in the remaining stages of the competition [see Official Rules](www.challenge.gov).
+The National Institute of Standards and Technology (NIST) Public Safety Communications Research (PSCR) Division is hosting this 3-stage challenge, with prize awards **up to $260,000** for the top designs. There are no fees or qualifications needed to enter the first stage. The most outstanding Stage 1 conceptual designs will be eligible to participate in the remaining stages of the competition [see Official Rules](https://uastriplechallenge.com).
 
 **You can make a difference!** Continue reading to learn about challenge stages and details. To enter Stage 1, submit your [entry](https://uastriplechallenge.com) by September 30, 2021. For entry as a Walk-on for Stage 2, submit your [entry](https://uastriplechallenge.com) by May 6, 2022. Entries can be submitted through the Contestant Portal on the Challenge website at <https://uastriplechallenge.com>.
 
@@ -71,7 +71,7 @@ There are several UAS design features that need to be considered in support of p
 
 UAS entered for the FastFind Challenge will be subject to the requirements outlined in the table below.  
 
- ***INSERT TABLE OR LINK TO PDF OR WEBSITE WITH INFO HERE***
+\    ***INSERT TABLE OR LINK TO PDF / WEBSITE WITH INFO HERE***
 
 PSCR is aware that various organizations may be developing drones with these or similar capabilities; however, these drones typically cost more than what a local public safety department might be able to afford. Additionally, they may not be practical due to the difficulty of transporting large equipment and/or the need for specialized training to operate it, both of which can be difficult for city/state agencies with limited staff and resources. Therefore, PSCR is hosting this 3-stage challenge to design, develop, and demonstrate drones with extended flight time and other capabilities that support first responders to help advance the research and push the boundaries of UAS technology for public safety.
 
@@ -87,3 +87,35 @@ Participants will be asked to:
 #### UAS Challenge Stages
 
 ![Table providing overview of challenge stages]({{site.baseurl}}/assets/netlify-uploads/3.1-challenge-stages.jpg "Challenge Stages")
+
+### Prizes
+
+#### Total Cash Prize Pool
+
+Up to $260,000
+
+#### Prize Breakdown
+
+NIST Public Safety Communications Research program is hosting a 3-stage challenge, with development funds, travel, and prize awards as listed below:
+
+* **Stage 1** (up to 15): $7,000 each, up to $105,000 total
+* **Stage 2** 
+
+  * **Check-in Review** (up to 10): $3,000 each, up to $30,000 total
+  * **Video Evaluation** (up to 10): $5,000 each, up to $50,000 total in travel prize awards for Contestants invited to compete in Stage 3
+* **Stage 3** (up to 4)**:** 
+
+  * **Best Performance:** up to $70,000
+
+    * 1st Place: $40,000
+    * 2nd Place: $20,000
+    * 3rd Place: $10,000
+  * **First Responders Choice award:** up to $5,000
+
+NOTE: This only describes prize awards; additional contestants may win an invitation to participate in challenge stages but not be eligible to receive prize awards. All Stage 3 Contestants are eligible to compete for all Stage 3 prizes.
+
+### Rules
+
+See the ***Official Rules*** for details on all aspects of the challenge. 
+
+### Judging Criteria
