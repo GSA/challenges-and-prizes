@@ -4,7 +4,7 @@ challenge-title: NIJ's Recidivism Forecasting Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/recidivism-forecasting-challenge/
 challenge-id: "1230"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/recidivismchallenge4_1200x627.jpg
 agency-logo: /assets/netlify-uploads/dept_of_justice.png
@@ -16,9 +16,9 @@ total-prize-offered-cash: $723,000
 type-of-challenge:
   - Analytics, visualizations, algorithms
   - Scientific
-submission-start: 2021/04/30
-submission-end: 2021/06/30 11:59 PM
-fiscal-year: FY20
+submission-start: 04/30/2021
+submission-end: 06/30/2021 11:59 PM
+fiscal-year: FY21
 legal-authority: Other
 challenge-manager: Joel Hunt
 challenge-manager-email: Joel.Hunt@ojp.usdoj.gov
