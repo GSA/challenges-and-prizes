@@ -208,7 +208,7 @@ judging: >-
   See the ***[Official Rules]({{site.baseurl}}/assets/netlify-uploads/3.2-uas3.3-challenge-rules-20210701.pdf)*** for details on all aspects of the challenge. NIST will review each Contestant entry in the Concept Paper Contest. A submission that fails to meet the compliance criteria will be disqualified and will be ineligible to compete in this stage. Submissions that pass the initial compliance review will be evaluated and scored by a panel of judges. NIST makes an independent assessment of each concept paper based on the scoring criteria outlined below. Do not include sensitive materials in the concept paper, for example personally identifiable information such as social security numbers or business sensitive information, tax id numbers, etc.
 
 
-  ![Stage 1 judging criteria. If you are having trouble reading this table, please see the Official Rules document linked in the Rules section of this listing for details.](/assets/netlify-uploads/3.3-stage-1-criteria.jpg "Stage 1 judging criteria")
+  ![Stage 1 judging criteria. If you are having trouble reading this table, please see the Official Rules document linked in the Rules section of this listing for details.]({{site.baseurl}}/assets/netlify-uploads/3.3-stage-1-criteria.jpg "Stage 1 judging criteria")
 
 
   Concept Papers will be evaluated based on the Scoring Criteria above. The specific scores will not be released publicly or provided to the Contestant. Up to 10 Contestants will be awarded prize awards of $3,000 each and receive an invitation to Stage 2: Design/Build and Video Evaluation.
@@ -342,7 +342,7 @@ The submissions will be judged by a qualified panel of expert(s) selected by the
 
 See the ***[Official Rules]({{site.baseurl}}/assets/netlify-uploads/3.2-uas3.3-challenge-rules-20210701.pdf)*** for details on all aspects of the challenge. NIST will review each Contestant entry in the Concept Paper Contest. A submission that fails to meet the compliance criteria will be disqualified and will be ineligible to compete in this stage. Submissions that pass the initial compliance review will be evaluated and scored by a panel of judges. NIST makes an independent assessment of each concept paper based on the scoring criteria outlined below. Do not include sensitive materials in the concept paper, for example personally identifiable information such as social security numbers or business sensitive information, tax id numbers, etc.
 
-![Stage 1 judging criteria. If you are having trouble reading this table, please see the Official Rules document linked in the Rules section of this listing for details.](/assets/netlify-uploads/3.3-stage-1-criteria.jpg "Stage 1 judging criteria")
+![Stage 1 judging criteria. If you are having trouble reading this table, please see the Official Rules document linked in the Rules section of this listing for details.]({{site.baseurl}}/assets/netlify-uploads/3.3-stage-1-criteria.jpg "Stage 1 judging criteria")
 
 Concept Papers will be evaluated based on the Scoring Criteria above. The specific scores will not be released publicly or provided to the Contestant. Up to 10 Contestants will be awarded prize awards of $3,000 each and receive an invitation to Stage 2: Design/Build and Video Evaluation.
 
