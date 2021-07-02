@@ -45,17 +45,15 @@ description: >-
     * Phase 1 semifinalists announced, and Phase 2 begins: Expected  November 31, 2021
   * **Phase 2: Design & Invent**
 
-    * Phase 2 submission opens: November August 2021
-    * Phase 2 virtual innovation pitches with Industry Advisory Panel (IAP): Expected January 2021
-    * Phase 2 submission deadline: Expected February 2021
+    * Phase 2 submission opens: November 2021
+    * Phase 2 virtual innovation pitches with Industry Advisory Panel (IAP): Expected January 2022
+    * Phase 2 submission deadline: Expected February 2022
     * Phase 2 finalists announced, and Phase 3 begins: Expected March 2022
   * **Phase 3: Fabricate & Test**
 
     * Phase 3 submission opens: Expected March 2022
     * Phase 3 submission deadline: Expected March 2023
     * Phase 3 winners announced: Expected March 2023
-
-  3
 prizes: >-
   #### Total Cash Prize Pool
 
@@ -157,9 +155,9 @@ The American-Made Geothermal Lithium Extraction Prize is designed to increase ma
   * Phase 1 semifinalists announced, and Phase 2 begins: Expected  November 31, 2021
 * **Phase 2: Design & Invent**
 
-  * Phase 2 submission opens: November August 2021
-  * Phase 2 virtual innovation pitches with Industry Advisory Panel (IAP): Expected January 2021
-  * Phase 2 submission deadline: Expected February 2021
+  * Phase 2 submission opens: November 2021
+  * Phase 2 virtual innovation pitches with Industry Advisory Panel (IAP): Expected January 2022
+  * Phase 2 submission deadline: Expected February 2022
   * Phase 2 finalists announced, and Phase 3 begins: Expected March 2022
 * **Phase 3: Fabricate & Test**
 
