@@ -126,7 +126,7 @@ description: >-
   #### USA Challenge Stages
 
 
-  ![Table providing overview of challenge stages. If you are having trouble reading this table, please see the Official Rules document linked in the Rules section of this listing for details.](/assets/netlify-uploads/3.2-challenge-stages.jpg "Challenge Stages")
+  ![Table providing overview of challenge stages. If you are having trouble reading this table, please see the Official Rules document linked in the Rules section of this listing for details.]({{site.baseurl}}/assets/netlify-uploads/3.2-challenge-stages.jpg "Challenge Stages")
 prizes: >-
   #### **Total Cash Prize Pool**
 
@@ -175,7 +175,7 @@ judging: >-
   See the ***[Official Rules]({{site.baseurl}}/assets/netlify-uploads/3.2-uas3.2-challenge-rules-20210701.pdf)*** for details on all aspects of the challenge. NIST makes an independent assessment of each Concept Paper based on the evaluation criteria. NIST will review each Contestant entry in the Solution Description. A submission that fails to meet the compliance criteria will be disqualified and will be ineligible to compete in this stage. Submissions that pass the initial compliance review will be evaluated and scored by a panel of judges. NIST makes an independent assessment of each concept paper based on the scoring criteria outlined below. Do not include sensitive materials in the concept paper, for example personally identifiable information such as social security numbers or business sensitive information, tax id numbers, etc.
 
 
-  ![Stage 1 judging criteria. If you are having trouble reading this table, please see the Official Rules document linked in the Rules section of this listing for details.](/assets/netlify-uploads/3.2-stage-1-criteria.jpg "Stage 1 Judging Criteria")
+  ![Stage 1 judging criteria. If you are having trouble reading this table, please see the Official Rules document linked in the Rules section of this listing for details.]({{site.baseurl}}/assets/netlify-uploads/3.2-stage-1-criteria.jpg "Stage 1 Judging Criteria")
 
 
   Concept Papers will be evaluated based on the Scoring Criteria above. The specific scores will not be released publicly or provided to the Contestant.  Up to 15 Contestants will be awarded prize awards of $7,000 each and receive an invitation to Stage 2: Video Test & Safety Evaluation.  Winners shall provide proof of UAS insurance or demonstrate financial responsibility prior to receiving the Stage 1 prize award.
