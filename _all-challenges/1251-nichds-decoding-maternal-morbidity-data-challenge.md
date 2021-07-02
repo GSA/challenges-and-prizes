@@ -181,13 +181,13 @@ how-to-enter: >-
   ### Supplementary Information
 
 
-  * [Nulliparous Pregnancy Outcomes Study: Monitoring Mothers-to-be (nuMoM2b) Data Codebook ](https://drive.google.com/file/d/1K8-vgzuu6YmYsVkpG6rirEZGzwu_0S5O/view?usp=sharing)
+  * [Nulliparous Pregnancy Outcomes Study: Monitoring Mothers-to-be (nuMoM2b) Data Codebook](https://drive.google.com/file/d/1K8-vgzuu6YmYsVkpG6rirEZGzwu_0S5O/view?usp=sharing){target="_blank"}
 
-  * [Research papers using nuMoM2b data (PubMed)](https://pubmed.ncbi.nlm.nih.gov/?term=%28HD063036+OR+HD063072+OR+HD063047+OR+HD063037+OR+HD063041+OR+HD063020+OR+HD063046+OR+HD063048+OR+HD063053%29)
+  * [Research papers using nuMoM2b data (PubMed)](https://pubmed.ncbi.nlm.nih.gov/?term=%28HD063036+OR+HD063072+OR+HD063047+OR+HD063037+OR+HD063041+OR+HD063020+OR+HD063046+OR+HD063048+OR+HD063053%29){target="_blank"}
 
-  * [NICHD Data and Specimen Hub (DASH)](https://dash.nichd.nih.gov/)
+  * [NICHD Data and Specimen Hub (DASH)](https://dash.nichd.nih.gov/){target="_blank"}
 
-  * [Centers for Disease Control and Prevention: Severe Maternal Morbidity Information](https://www.cdc.gov/reproductivehealth/maternalinfanthealth/severematernalmorbidity.html)
+  * [Centers for Disease Control and Prevention: Severe Maternal Morbidity Information](https://www.cdc.gov/reproductivehealth/maternalinfanthealth/severematernalmorbidity.html){target="_blank"}
 ---
 ### Description
 
@@ -309,7 +309,7 @@ Submissions must be in English, and machine readable (not handwritten).
 
 ### Supplementary Information
 
-* [Nulliparous Pregnancy Outcomes Study: Monitoring Mothers-to-be (nuMoM2b) Data Codebook ](https://drive.google.com/file/d/1K8-vgzuu6YmYsVkpG6rirEZGzwu_0S5O/view?usp=sharing)
-* [Research papers using nuMoM2b data (PubMed)](https://pubmed.ncbi.nlm.nih.gov/?term=%28HD063036+OR+HD063072+OR+HD063047+OR+HD063037+OR+HD063041+OR+HD063020+OR+HD063046+OR+HD063048+OR+HD063053%29)
-* [NICHD Data and Specimen Hub (DASH)](https://dash.nichd.nih.gov/)
-* [Centers for Disease Control and Prevention: Severe Maternal Morbidity Information](https://www.cdc.gov/reproductivehealth/maternalinfanthealth/severematernalmorbidity.html)
+* [Nulliparous Pregnancy Outcomes Study: Monitoring Mothers-to-be (nuMoM2b) Data Codebook](https://drive.google.com/file/d/1K8-vgzuu6YmYsVkpG6rirEZGzwu_0S5O/view?usp=sharing){target="_blank"}
+* [Research papers using nuMoM2b data (PubMed)](https://pubmed.ncbi.nlm.nih.gov/?term=%28HD063036+OR+HD063072+OR+HD063047+OR+HD063037+OR+HD063041+OR+HD063020+OR+HD063046+OR+HD063048+OR+HD063053%29){target="_blank"}
+* [NICHD Data and Specimen Hub (DASH)](https://dash.nichd.nih.gov/){target="_blank"}
+* [Centers for Disease Control and Prevention: Severe Maternal Morbidity Information](https://www.cdc.gov/reproductivehealth/maternalinfanthealth/severematernalmorbidity.html){target="_blank"}
