@@ -82,3 +82,17 @@ Participants will be asked to:
 * Create or purchase hardware necessary to build a prototype and implement the design approach outlined within the concept paper.
 * Produce a Test flight video demonstrating the UAS prototype capabilities and safety compliance.
 * Participate in a Live Competition, conducting flights in Starkville MS June 22 – 24, 2022.
+
+#### USA Challenge Stages
+
+![Challenge stages - 3 stages.  If you are having issues reading this table, please refer to the Official Rules document.](/assets/netlify-uploads/3.2-challenge-stages.jpg "Challenge Stages")
+
+### Prizes
+
+#### **Total Cash Prize Pool**
+
+Up to $260,000
+
+#### Prize Breakdown
+
+NIST Public Safety Communications Research program is hosting a 3-stage challenge, with development funds, travel, and prize awards as listed below:
