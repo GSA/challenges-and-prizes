@@ -6,7 +6,7 @@ permalink: /challenge/first-responder-uas-triple-challenge-fastfind/
 challenge-id: "1254"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/fast-find-logo_blue.png
+card-image: /assets/netlify-uploads/fast-find-logo_blue_resized.png
 agency-logo: /assets/netlify-uploads/nist_logo.png
 tagline: Enhancing first responder search & rescue operations in search of
   missing persons in a heavily forested area using a UAS
