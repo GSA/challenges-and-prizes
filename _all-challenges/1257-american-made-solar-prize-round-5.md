@@ -8,10 +8,8 @@ status: open
 sidenav: false
 card-image: /assets/netlify-uploads/r5_general_hero-image.png
 agency-logo: /assets/netlify-uploads/256px-Seal_of_the_United_States_Department_of_Energy.png
-tagline: The American-Made Solar Prize is a prize competition designed to
-  energize U.S. solar innovation through a series of contests and the
-  development of a diverse and powerful support network that leverages national
-  laboratories, energy incubators, and other resources across the country.
+tagline: Energize U.S. solar innovation through a series of contests, earning
+  part of $4.6 million in prizes for your novel technology
 agency: U.S. Department of Energy
 partner-agencies-federal: National Renewable Energy Laboratory
 external-url: "https://americanmadechallenges.org/solarprize/round5/index.html "
