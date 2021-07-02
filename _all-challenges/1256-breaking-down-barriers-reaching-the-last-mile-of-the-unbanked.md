@@ -8,7 +8,7 @@ status: open
 sidenav: false
 card-image: /assets/netlify-uploads/tech-sprint-twitter-template-2-.png
 agency-logo: /assets/netlify-uploads/FDIC.png
-tagline: Which data, tools, and other resources could help community banks meet
+tagline: Which data, tools and other resources could help community banks meet
   the needs of the unbanked in a cost-effective manner?
 agency: Federal Deposit Insurance Corporation (FDIC)
 external-url: https://www.fdic.gov/fditech/techsprints.html
