@@ -4,7 +4,7 @@ challenge-title: American-Made Geothermal Lithium Extraction Prize
 layout: front-matter-data-markdownify-content
 permalink: /challenge/american-made-geothermal-lithium-extraction-prize/
 challenge-id: "1235"
-status: closed
+status: open
 sidenav: true
 card-image: /assets/netlify-uploads/geolithium_withtext.jpg
 agency-logo: /assets/netlify-uploads/256px-Seal_of_the_United_States_Department_of_Energy.png
@@ -18,8 +18,8 @@ type-of-challenge:
   - Technology demonstration and hardware
   - Business plans
   - Scientific
-submission-start: 03/31/2021 5:00 PM
-submission-end: 07/02/2021 5:00 PM
+submission-start: 2021/03/31 5:00 PM
+submission-end: 2021/09/02 5:00 PM
 fiscal-year: FY21, FY22, FY23
 legal-authority: America COMPETES Act
 challenge-manager: Caity Smith
@@ -41,19 +41,21 @@ description: >-
 
     * Phase 1 submission opens: March 31, 2021
     * Phase 1 informational webinar: April 12, 2021
-    * Phase 1 submission deadline: July 2, 2021 5 p.m. ET
-    * Phase 1 semifinalists announced, and Phase 2 begins: Expected  August 31, 2021
+    * Phase 1 submission deadline: September 2, 2021 5 p.m. ET
+    * Phase 1 semifinalists announced, and Phase 2 begins: Expected  November 31, 2021
   * **Phase 2: Design & Invent**
 
-    * Phase 2 submission opens: Expected August 2021
-    * Phase 2 virtual innovation pitches with Industry Advisory Panel (IAP): Expected November 2021
-    * Phase 2 submission deadline: Expected November 2021
-    * Phase 2 finalists announced, and Phase 3 begins: Expected January 2022
+    * Phase 2 submission opens: November August 2021
+    * Phase 2 virtual innovation pitches with Industry Advisory Panel (IAP): Expected January 2021
+    * Phase 2 submission deadline: Expected February 2021
+    * Phase 2 finalists announced, and Phase 3 begins: Expected March 2022
   * **Phase 3: Fabricate & Test**
 
-    * Phase 3 submission opens: Expected January 2022
-    * Phase 3 submission deadline: Expected January 2023
-    * Phase 3 winners announced: Expected February 2023
+    * Phase 3 submission opens: Expected March 2022
+    * Phase 3 submission deadline: Expected March 2023
+    * Phase 3 winners announced: Expected March 2023
+
+  3
 prizes: >-
   #### Total Cash Prize Pool
 
@@ -66,7 +68,13 @@ prizes: >-
 
   The Geothermal Lithium Extraction Prize consists of three progressive phases that challenge competitors to move their innovation from concept to prototype.
 
-  ![Prize Breakdown]({{site.baseurl}}/assets/netlify-uploads/nrel-prize-breakdown-table-3-.jpg "Prize Breakdown")
+
+  * **Phase 1: Idea & Concept** (Up to 15): $600,000 total prize pool distributed equally among semifinalists. Competitors will receive a minimum of $40,000 and maximum of $600,000.
+
+  * **Phase 2: Design & Invent** (Up to 5): $1.4 million total prize pool distributed equally among finalists. Competitors will receive a minimum of $280,000 and maximum of $1.4 million.
+
+  * **Phase 3: Fabricate & Test** (Up to 3): $2 million in total prize pool distributed for the first-, second-, and third-place winners.
+
 
   **Phase 1:** Idea & Concept Phase: Over three months, competitors demonstrate that they have identified and developed an impactful idea or solution that addresses one or more of the following technical challenges:
 
@@ -107,7 +115,7 @@ rules: >-
   #### Eligibility
 
 
-  The U.S. Department of Energy Geothermal Technologies Office invites anyone affiliated with a U.S. academic institution, individually or as a team, to compete to transform a conceptual solution into prototype reality.
+  The U.S. Department of Energy Geothermal Technologies Office invites anyone currently affiliated with a U.S. academic institution, individually or as a team, to compete to transform a conceptual solution into prototype reality. Domestic small businesses and university incubators are also eligible to compete, when partnered with an individual or group currently affiliated with an accredited U.S. institution of higher education. See Prize Rules for more information on eligibility.
 judging: >-
   
 
@@ -145,19 +153,19 @@ The American-Made Geothermal Lithium Extraction Prize is designed to increase ma
 
   * Phase 1 submission opens: March 31, 2021
   * Phase 1 informational webinar: April 12, 2021
-  * Phase 1 submission deadline: July 2, 2021 5 p.m. ET
-  * Phase 1 semifinalists announced, and Phase 2 begins: Expected  August 31, 2021
+  * Phase 1 submission deadline: September 2, 2021 5 p.m. ET
+  * Phase 1 semifinalists announced, and Phase 2 begins: Expected  November 31, 2021
 * **Phase 2: Design & Invent**
 
-  * Phase 2 submission opens: Expected August 2021
-  * Phase 2 virtual innovation pitches with Industry Advisory Panel (IAP): Expected November 2021
-  * Phase 2 submission deadline: Expected November 2021
-  * Phase 2 finalists announced, and Phase 3 begins: Expected January 2022
+  * Phase 2 submission opens: November August 2021
+  * Phase 2 virtual innovation pitches with Industry Advisory Panel (IAP): Expected January 2021
+  * Phase 2 submission deadline: Expected February 2021
+  * Phase 2 finalists announced, and Phase 3 begins: Expected March 2022
 * **Phase 3: Fabricate & Test**
 
-  * Phase 3 submission opens: Expected January 2022
-  * Phase 3 submission deadline: Expected January 2023
-  * Phase 3 winners announced: Expected February 2023
+  * Phase 3 submission opens: Expected March 2022
+  * Phase 3 submission deadline: Expected March 2023
+  * Phase 3 winners announced: Expected March 2023
 
 ### Prizes
 
@@ -168,7 +176,11 @@ $4 million cash prize pool
 #### Prize Breakdown
 
 The Geothermal Lithium Extraction Prize consists of three progressive phases that challenge competitors to move their innovation from concept to prototype.
-![Prize Breakdown]({{site.baseurl}}/assets/netlify-uploads/nrel-prize-breakdown-table-3-.jpg "Prize Breakdown")
+
+* **Phase 1: Idea & Concept** (Up to 15): $600,000 total prize pool distributed equally among semifinalists. Competitors will receive a minimum of $40,000 and maximum of $600,000.
+* **Phase 2: Design & Invent** (Up to 5): $1.4 million total prize pool distributed equally among finalists. Competitors will receive a minimum of $280,000 and maximum of $1.4 million.
+* **Phase 3: Fabricate & Test** (Up to 3): $2 million in total prize pool distributed for the first-, second-, and third-place winners.
+
 **Phase 1:** Idea & Concept Phase: Over three months, competitors demonstrate that they have identified and developed an impactful idea or solution that addresses one or more of the following technical challenges:
 
 * Developing electrochemical/electrolysis processes for the direct conversion of a lithium-bearing geothermal brine to a lithium hydroxide product without the intermediate creation of lithium carbonate.
@@ -195,7 +207,7 @@ The Official Rules can be found [here](https://americanmadechallenges.org/geothe
 
 #### Eligibility
 
-The U.S. Department of Energy Geothermal Technologies Office invites anyone affiliated with a U.S. academic institution, individually or as a team, to compete to transform a conceptual solution into prototype reality.
+The U.S. Department of Energy Geothermal Technologies Office invites anyone currently affiliated with a U.S. academic institution, individually or as a team, to compete to transform a conceptual solution into prototype reality. Domestic small businesses and university incubators are also eligible to compete, when partnered with an individual or group currently affiliated with an accredited U.S. institution of higher education. See Prize Rules for more information on eligibility.
 
 ### Judging Criteria
 
