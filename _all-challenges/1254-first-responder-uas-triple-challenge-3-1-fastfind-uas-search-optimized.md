@@ -6,7 +6,7 @@ permalink: /challenge/first-responder-uas-triple-challenge-fastfind/
 challenge-id: "1254"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/nist_logo.png
+card-image: /assets/netlify-uploads/fast-find-logo_blue.png
 agency-logo: /assets/netlify-uploads/nist_logo.png
 tagline: Enhancing first responder search & rescue operations in search of
   missing persons in a heavily forested area using a UAS
@@ -23,6 +23,7 @@ legal-authority: America COMPETES Act
 challenge-manager: Terese Manley
 challenge-manager-email: terese.manley@nist.gov
 point-of-contact: uaschallenge@k-state.edu
+body-content-uploads: /assets/netlify-uploads/3.2-uas3.1-challenge-rules-20210701.pdf
 description: >-
   Join us for this exciting drone (aka unmanned aircraft system or UAS) prize
   competition using your ingenuity and hardware build expertise to create a
@@ -34,7 +35,7 @@ description: >-
   UAS provide many different mission capabilities for first responders however they are not without their limitations.  This challenge is looking at enabling law enforcement as well as other emergency services to search a heavily forested area for missing persons using a UAS. The goal of this challenge is for Contestants to design, build, and fly a complete UAS solution that helps a SAR team locate multiple missing persons in a thick forested area by improving image detection and enhancing navigation techniques to ‘close the distance’ more quickly.
 
 
-  The National Institute of Standards and Technology (NIST) Public Safety Communications Research (PSCR) Division is hosting this 3-stage challenge, with prize awards **up to $260,000** for the top designs. There are no fees or qualifications needed to enter the first stage. The most outstanding Stage 1 conceptual designs will be eligible to participate in the remaining stages of the competition [see Official Rules](https://uastriplechallenge.com).
+  The National Institute of Standards and Technology (NIST) Public Safety Communications Research (PSCR) Division is hosting this 3-stage challenge, with prize awards **up to $260,000** for the top designs. There are no fees or qualifications needed to enter the first stage. The most outstanding Stage 1 conceptual designs will be eligible to participate in the remaining stages of the competition [see Official Rules]({{site.baseurl}}/assets/netlify-uploads/3.2-uas3.1-challenge-rules-20210701.pdf).
 
 
   **You can make a difference!** Continue reading to learn about challenge stages and details. To enter Stage 1, submit your [entry](https://uastriplechallenge.com) by September 30, 2021. For entry as a Walk-on for Stage 2, submit your [entry](https://uastriplechallenge.com) by May 6, 2022. Entries can be submitted through the Contestant Portal on the Challenge website at <https://uastriplechallenge.com>.
@@ -100,10 +101,7 @@ description: >-
   #### UAS Design Specification
 
 
-  UAS entered for the FastFind Challenge will be subject to the requirements outlined in the table below.  
-
-
-  \    ***INSERT TABLE OR LINK TO PDF / WEBSITE WITH INFO HERE***
+  UAS entered for the FastFind Challenge will be subject to the requirements outlined in the design specifications.  [Click here for details]({{site.baseurl}}/assets/netlify-uploads/challenge-3.1-uas-design-specs.pdf).
 
 
   PSCR is aware that various organizations may be developing drones with these or similar capabilities; however, these drones typically cost more than what a local public safety department might be able to afford. Additionally, they may not be practical due to the difficulty of transporting large equipment and/or the need for specialized training to operate it, both of which can be difficult for city/state agencies with limited staff and resources. Therefore, PSCR is hosting this 3-stage challenge to design, develop, and demonstrate drones with extended flight time and other capabilities that support first responders to help advance the research and push the boundaries of UAS technology for public safety.
@@ -127,7 +125,7 @@ description: >-
   #### UAS Challenge Stages
 
 
-  ![Table providing overview of challenge stages]({{site.baseurl}}/assets/netlify-uploads/3.1-challenge-stages.jpg "Challenge Stages")
+  ![Table providing overview of challenge stages. If you are having trouble reading this table, please see the Official Rules document linked in the Rules section of this listing for details.]({{site.baseurl}}/assets/netlify-uploads/3.1-challenge-stages.jpg "Challenge Stages")
 prizes: >-
   #### Total Cash Prize Pool
 
@@ -157,21 +155,31 @@ prizes: >-
     * **First Responders Choice award:** up to $5,000
 
   NOTE: This only describes prize awards; additional contestants may win an invitation to participate in challenge stages but not be eligible to receive prize awards. All Stage 3 Contestants are eligible to compete for all Stage 3 prizes.
-rules: See the ***Official Rules*** for details on all aspects of the challenge.
+rules: See the ***[Official
+  Rules]({{site.baseurl}}/assets/netlify-uploads/3.2-uas3.1-challenge-rules-20210701.pdf)***
+  for details on all aspects of the challenge.
 judging: >-
-  ### Stage 1 Criteria
+  See the ***[Official
+  Rules]({{site.baseurl}}/assets/netlify-uploads/3.2-uas3.1-challenge-rules-20210701.pdf)***
+  for details on all aspects of the challenge. NIST makes an independent
+  assessment of each Concept Paper based on the evaluation criteria. NIST will
+  review each Contestant entry in the Solution Description. A submission that
+  fails to meet the compliance criteria will be disqualified and will be
+  ineligible to compete in this stage. Submissions that pass the initial
+  compliance review will be evaluated and scored by a panel of judges. NIST
+  makes an independent assessment of each concept paper based on the scoring
+  criteria outlined below. Do not include sensitive materials in the concept
+  paper, for example personally identifiable information such as social security
+  numbers or business sensitive information, tax id numbers, etc.
 
 
-  See the ***Official Rules*** for details on all aspects of the challenge. NIST makes an independent assessment of each Concept Paper based on the evaluation criteria. NIST will review each Contestant entry in the Solution Description. A submission that fails to meet the compliance criteria will be disqualified and will be ineligible to compete in this stage. Submissions that pass the initial compliance review will be evaluated and scored by a panel of judges. NIST makes an independent assessment of each concept paper based on the scoring criteria outlined below. Do not include sensitive materials in the concept paper, for example personally identifiable information such as social security numbers or business sensitive information, tax id numbers, etc.
-
-
-  ![Stage 1 judging criteria - completeness (50%), understandability (20%), feasibility (20%), spelling/grammar (10%)]({{site.baseurl}}/assets/netlify-uploads/3.1-stage-1-criteria.jpg "Stage 1 Criteria")
+  ![Stage 1 judging criteria - completeness (50%), understandability (20%), feasibility (20%), spelling/grammar (10%). If you are having trouble reading this table, please see the Official Rules document linked in the Rules section of this listing for details.]({{site.baseurl}}/assets/netlify-uploads/3.1-stage-1-criteria.jpg "Stage 1 Criteria")
 
 
   Concept Papers will be evaluated based on the Scoring Criteria above. The specific scores will not be released publicly or provided to the Contestant.  Up to 15 Contestants will be awarded prize awards of $7,000 each and receive an invitation to Stage 2: Video Test & Safety Evaluation.  Winners shall provide proof of UAS insurance or demonstrate financial responsibility prior to receiving the Stage 1 prize award.
 
 
-  See ***Official Rules*** for judging criteria associated with all other Stages of the contest.
+  See [***Official Rules*** ]({{site.baseurl}}/assets/netlify-uploads/3.2-uas3.1-challenge-rules-20210701.pdf)for judging criteria associated with all other Stages of the contest.
 how-to-enter: >-
   * Visit the Challenge website <https://uastriplechallenge.com>, to view the
   challenge stages in the FastFind Challenge.
@@ -188,7 +196,7 @@ Join us for this exciting drone (aka unmanned aircraft system or UAS) prize comp
 
 UAS provide many different mission capabilities for first responders however they are not without their limitations.  This challenge is looking at enabling law enforcement as well as other emergency services to search a heavily forested area for missing persons using a UAS. The goal of this challenge is for Contestants to design, build, and fly a complete UAS solution that helps a SAR team locate multiple missing persons in a thick forested area by improving image detection and enhancing navigation techniques to ‘close the distance’ more quickly.
 
-The National Institute of Standards and Technology (NIST) Public Safety Communications Research (PSCR) Division is hosting this 3-stage challenge, with prize awards **up to $260,000** for the top designs. There are no fees or qualifications needed to enter the first stage. The most outstanding Stage 1 conceptual designs will be eligible to participate in the remaining stages of the competition [see Official Rules](https://uastriplechallenge.com).
+The National Institute of Standards and Technology (NIST) Public Safety Communications Research (PSCR) Division is hosting this 3-stage challenge, with prize awards **up to $260,000** for the top designs. There are no fees or qualifications needed to enter the first stage. The most outstanding Stage 1 conceptual designs will be eligible to participate in the remaining stages of the competition [see Official Rules]({{site.baseurl}}/assets/netlify-uploads/3.2-uas3.1-challenge-rules-20210701.pdf).
 
 **You can make a difference!** Continue reading to learn about challenge stages and details. To enter Stage 1, submit your [entry](https://uastriplechallenge.com) by September 30, 2021. For entry as a Walk-on for Stage 2, submit your [entry](https://uastriplechallenge.com) by May 6, 2022. Entries can be submitted through the Contestant Portal on the Challenge website at <https://uastriplechallenge.com>.
 
@@ -227,9 +235,7 @@ There are several UAS design features that need to be considered in support of p
 
 #### UAS Design Specification
 
-UAS entered for the FastFind Challenge will be subject to the requirements outlined in the table below.  
-
-\    ***INSERT TABLE OR LINK TO PDF / WEBSITE WITH INFO HERE***
+UAS entered for the FastFind Challenge will be subject to the requirements outlined in the design specifications.  [Click here for details]({{site.baseurl}}/assets/netlify-uploads/challenge-3.1-uas-design-specs.pdf).
 
 PSCR is aware that various organizations may be developing drones with these or similar capabilities; however, these drones typically cost more than what a local public safety department might be able to afford. Additionally, they may not be practical due to the difficulty of transporting large equipment and/or the need for specialized training to operate it, both of which can be difficult for city/state agencies with limited staff and resources. Therefore, PSCR is hosting this 3-stage challenge to design, develop, and demonstrate drones with extended flight time and other capabilities that support first responders to help advance the research and push the boundaries of UAS technology for public safety.
 
@@ -244,7 +250,7 @@ Participants will be asked to:
 
 #### UAS Challenge Stages
 
-![Table providing overview of challenge stages]({{site.baseurl}}/assets/netlify-uploads/3.1-challenge-stages.jpg "Challenge Stages")
+![Table providing overview of challenge stages. If you are having trouble reading this table, please see the Official Rules document linked in the Rules section of this listing for details.]({{site.baseurl}}/assets/netlify-uploads/3.1-challenge-stages.jpg "Challenge Stages")
 
 ### Prizes
 
@@ -274,19 +280,19 @@ NOTE: This only describes prize awards; additional contestants may win an invita
 
 ### Rules
 
-See the ***Official Rules*** for details on all aspects of the challenge. 
+See the ***[Official Rules]({{site.baseurl}}/assets/netlify-uploads/3.2-uas3.1-challenge-rules-20210701.pdf)*** for details on all aspects of the challenge. 
 
 ### Judging Criteria
 
 ### Stage 1 Criteria
 
-See the ***Official Rules*** for details on all aspects of the challenge. NIST makes an independent assessment of each Concept Paper based on the evaluation criteria. NIST will review each Contestant entry in the Solution Description. A submission that fails to meet the compliance criteria will be disqualified and will be ineligible to compete in this stage. Submissions that pass the initial compliance review will be evaluated and scored by a panel of judges. NIST makes an independent assessment of each concept paper based on the scoring criteria outlined below. Do not include sensitive materials in the concept paper, for example personally identifiable information such as social security numbers or business sensitive information, tax id numbers, etc.
+See the ***[Official Rules]({{site.baseurl}}/assets/netlify-uploads/3.2-uas3.1-challenge-rules-20210701.pdf)*** for details on all aspects of the challenge. NIST makes an independent assessment of each Concept Paper based on the evaluation criteria. NIST will review each Contestant entry in the Solution Description. A submission that fails to meet the compliance criteria will be disqualified and will be ineligible to compete in this stage. Submissions that pass the initial compliance review will be evaluated and scored by a panel of judges. NIST makes an independent assessment of each concept paper based on the scoring criteria outlined below. Do not include sensitive materials in the concept paper, for example personally identifiable information such as social security numbers or business sensitive information, tax id numbers, etc.
 
-![Stage 1 judging criteria - completeness (50%), understandability (20%), feasibility (20%), spelling/grammar (10%)]({{site.baseurl}}/assets/netlify-uploads/3.1-stage-1-criteria.jpg "Stage 1 Criteria")
+![Stage 1 judging criteria - completeness (50%), understandability (20%), feasibility (20%), spelling/grammar (10%). If you are having trouble reading this table, please see the Official Rules document linked in the Rules section of this listing for details.]({{site.baseurl}}/assets/netlify-uploads/3.1-stage-1-criteria.jpg "Stage 1 Criteria")
 
 Concept Papers will be evaluated based on the Scoring Criteria above. The specific scores will not be released publicly or provided to the Contestant.  Up to 15 Contestants will be awarded prize awards of $7,000 each and receive an invitation to Stage 2: Video Test & Safety Evaluation.  Winners shall provide proof of UAS insurance or demonstrate financial responsibility prior to receiving the Stage 1 prize award.
 
-See ***Official Rules*** for judging criteria associated with all other Stages of the contest.
+See [***Official Rules*** ]({{site.baseurl}}/assets/netlify-uploads/3.2-uas3.1-challenge-rules-20210701.pdf)for judging criteria associated with all other Stages of the contest.
 
 ### How to Enter
 
