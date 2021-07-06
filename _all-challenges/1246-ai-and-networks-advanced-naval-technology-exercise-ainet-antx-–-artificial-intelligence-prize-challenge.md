@@ -7,7 +7,7 @@ permalink: /challenge/networks-advanced-naval-technology-exercise-ainetantx-arti
 challenge-id: "1246"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/webp.net-resizeimage-10-.jpg
+card-image: /assets/netlify-uploads/ainetantx-logo_resized.png
 agency-logo: /assets/netlify-uploads/sealnavy.png
 tagline: Project Overmatch is the Department of Navy (DON) priority initiative
   to modernize Naval warfighting networks.
@@ -28,7 +28,7 @@ legal-authority: Other
 challenge-manager: Carly Jackson
 challenge-manager-email: carly.jackson@navy.mil
 point-of-contact: charles.yetman@navy.mil
-body-content-uploads: /assets/netlify-uploads/distro_a-ainetantx-30jun21-virtual-live-qa-announcement-and-registration-information.pdf
+body-content-uploads: /assets/netlify-uploads/ainetantx-networks-prize-challenge-qa-2jul21.pdf
 description: >-
   Consider a scenario where developers, data scientists, machine learning (ML)
   engineers, etc., have access to training-quality datasets via the Overmatch
@@ -399,7 +399,7 @@ how-to-enter: |-
 ---
 #### IMPORTANT UPDATES:
 
-* NAVWAR will be hosting a virtual Q&A Session on June 30, 2021. [Click here for more information and to register]({{site.baseurl}}/assets/netlify-uploads/distro_a-ainetantx-30jun21-virtual-live-qa-announcement-and-registration-information.pdf).
+* Q&A (Last Updated: July 2, 2021): [Click here for Q&A]({{site.baseurl}}/assets/netlify-uploads/ainetantx-networks-prize-challenge-qa-2jul21.pdf)
 
 ### Description
 
@@ -502,7 +502,7 @@ NAVWAR may contact participants, at no additional cost to the Government, to dis
 
 **Agreements:**
 
-NAVWAR may award, pursuant to Title 10 U.S.C. § 2371b, a follow-on prototype contract or transaction to one or more participants who successfully demonstrate an operationally relevant technology during the Challenge. If the selected technologies are not yet mature enough for prototype awards, other agreements such as Cooperative Research and Development Agreement (CRADA) may be utilized. This Challenge, however, does not in any way obligate NAVWAR to procure any of the items within the scope of this challenge from the winners. Tax treatment of prizes will be handled in accordance with U.S. Internal Revenue Service guidelines. The winner must provide a U.S. TIN (e.g., SSN or EIN) to receive the cash prize.
+NAVWAR may award, pursuant to Title 10 U.S.C. § 2371b, a follow-on prototype agreement or transaction, or Limited Procurement for Experimentation Title 10 U.S.C. § 2373 to one or more participants who successfully demonstrate an operationally relevant technology during the Challenge. If the selected technologies are not yet mature enough for prototype awards, other agreements such as Cooperative Research and Development Agreement (CRADA) may be utilized. This Challenge, however, does not in any way obligate NAVWAR to procure any of the items within the scope of this challenge from the winners. Tax treatment of prizes will be handled in accordance with U.S. Internal Revenue Service guidelines. The winner must provide a U.S. TIN (e.g., SSN or EIN) to receive the cash prize.
 
 In order to gain access to the Overmatch Software Armory (OSA) and pertinent data sets, participants must have access to a DoD Public Key Infrastructure (PKI) / Common Access Card (CAC).
 
