@@ -3,7 +3,7 @@ challenge-title: White-Nose Syndrome - Fight the Fungus, Save Our Bats
 layout: front-matter-data
 permalink: /challenge/white-nose-syndrome-in-bats/
 challenge-id: 1081
-status: open
+status: closed
 sidenav: true
 card-image: /assets/images/cards/WNS-logo-square-340.png
 agency-logo: US-FWS-logo.png
