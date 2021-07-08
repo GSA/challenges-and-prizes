@@ -1,0 +1,17 @@
+.usa-header {
+  display: flex;
+  align-items: center;
+
+  .grid-row {
+    width: 100%;
+  }
+
+  .usa-logo {
+    margin: 0;
+  }
+
+  &__actions {
+    display: flex;
+    align-items: center;
+  }
+}

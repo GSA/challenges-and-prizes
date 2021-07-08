@@ -1,51 +1,9 @@
-<section class="usa-section bg-base-lightest">
-        <div class="grid-container">
-            <div class="grid-row">
-                {% assign sorted = (site.all-challenges | sort: 'submission-end') %}
-                {% for challenge in sorted %}
-                {% if challenge.status == "open" %}
-            <div class="tablet:grid-col-4 cards">
-                    <div class="card">
-                            {% if challenge.external-url and challenge.external-url != '' %}
-                                <a href="{{ challenge.external-url }}" target="_blank" rel="noopener">
-                                        <span class="sr-only">{{challenge.challenge-title}} external challenge site (opens in new window)</span>
-                            {% else %}
-                                <a href="{{ site.baseurl }}{{ challenge.url }}">
-                                        <span class="sr-only">{{ challenge.challenge-title }} details</span>
-                            {% endif %}
-                        <div class="card__image" style="background-image: url('{{ site.baseurl }}{{ challenge.card-image }}')"></div>
-                        </a>
-                        <div class="padding-x-1">
-                            <span class="text-gray-50 padding-top-1">{{ challenge.agency }}</span>
-                            <h3 class="text-primary-dark text-bold text-uppercase margin-y-1 text-ls-1">{{ challenge.challenge-title }}</h3>
-                            <span class="text-base-darker text-thin">{{ challenge.tagline | truncatewords: 20 }}</span>
-                        </div>
-
-                        <div class="card__body padding-x-1">
-                                {% if challenge.status == "open" %}
-                                <p><span class="text-bold">Open Until:</span> {{ challenge.submission-end | date: "%m/%d/%Y %I:%M %p" }} ET</p>
-                                {% elsif challenge.status == "closed" %}
-                                <p><span class="text-bold">Closed On:</span> {{ challenge.submission-end | date: "%m/%d/%Y %I:%M %p" }} ET</p>
-                                {% endif %}
-                        </div>
-                        <div class="card__action card__action-block"> 
-                                {% if challenge.external-url and challenge.external-url != '' %}
-                                    <a href="{{ challenge.external-url }}" class="usa-button radius-0" target="_blank" rel="noopener">
-                                        <span class="sr-only">{{challenge.challenge-title}}</span>
-                                        View External Challenge Details
-                                        <span class="sr-only">(opens in new window)</span>
-                                    </a>
-                                {% else %}
-                                    <a href="{{ site.baseurl }}{{ challenge.permalink }}" class="usa-button radius-0">
-                                        <span class="sr-only">{{ challenge.challenge-title }}</span>
-                                        View Details
-                                    </a>
-                                {% endif %}
-                        </div> 
-                    </div>
-            </div>
-            {% endif %}
-                {% endfor %}
-            </div>
-        </div>
-</section>
+{% if site.branch == "master" %}
+    <div id="challenge-gov-react-app" data-api-url="https://challenge.portal.gov"></div>
+{% elsif site.branch == "staging" %}
+    <div id="challenge-gov-react-app" data-api-url="https://challenge-portal-staging.app.cloud.gov"></div>
+{% elsif site.branch == "" %}
+    <div id="challenge-gov-react-app" data-api-url="http://localhost:4000"></div>
+{% else %}
+    <div id="challenge-gov-react-app" data-api-url="https://challenge-portal-dev.app.cloud.gov"></div>
+{% endif %}
