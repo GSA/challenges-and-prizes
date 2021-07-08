@@ -7,7 +7,7 @@ permalink: /challenge/networks-advanced-naval-technology-exercise-netantx-challe
 challenge-id: "1243"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/webp.net-resizeimage-10-.jpg
+card-image: /assets/netlify-uploads/6-july-approved-antx-logo_resized.png
 agency-logo: /assets/netlify-uploads/sealnavy.png
 tagline: Project Overmatch is the Department of Navy (DON) priority initiative
   to modernize Naval warfighting networks.
@@ -28,7 +28,7 @@ legal-authority: Other
 challenge-manager: Carly Jackson; LT Tricia Nguyen
 challenge-manager-email: carly.jackson@navy.mil; tricia.nguyen@navy.mil
 point-of-contact: netantx@niwc.navy.mil
-body-content-uploads: /assets/netlify-uploads/ainetantx-networks-prize-challenge-qa-25june21.pdf
+body-content-uploads: /assets/netlify-uploads/ainetantx-networks-prize-challenge-qa-2jul21.pdf
 description: >-
   #### IMPORTANT UPDATES:
 
@@ -383,8 +383,7 @@ how-to-enter: >-
 ---
 #### IMPORTANT UPDATES:
 
-* Q&A (Last Updated: June 25, 2021): [Click here for Q&A]({{site.baseurl}}/assets/netlify-uploads/ainetantx-networks-prize-challenge-qa-25june21.pdf)
-* NAVWAR will be hosting a virtual Q&A Session on June 30, 2021. [Click here for more information and to register.]({{site.baseurl}}/assets/netlify-uploads/distro_a-ainetantx-30jun21-virtual-live-qa-announcement-and-registration-information.pdf)
+* Q&A (Last Updated: July 2, 2021): [Click here for Q&A]({{site.baseurl}}/assets/netlify-uploads/ainetantx-networks-prize-challenge-qa-2jul21.pdf)
 
 ### Description
 
