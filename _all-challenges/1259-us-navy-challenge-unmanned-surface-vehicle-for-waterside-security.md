@@ -8,10 +8,7 @@ status: open
 sidenav: false
 card-image: /assets/netlify-uploads/usv-harbor-defense_resized.jpg
 agency-logo: /assets/netlify-uploads/sealnavy.png
-tagline: "This Challenge seeks a novel design for an Unmanned Surface Vehicle
-  (USV) that can be shipped in a standard 20 foot shipping container, rapidly
-  produced or assembled on site within 2 hours, and capable of towing a variety
-  of functional payloads.  "
+tagline: Design for an expeditionary USV that is modular and attritable
 agency: Department of Defense, Naval Undersea Warfare Center, Division Newport
   (NUWCDIVNPT)
 partner-agencies-federal: Naval Sea Systems Command Technology Office
