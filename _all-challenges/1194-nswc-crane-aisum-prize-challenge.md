@@ -4,7 +4,7 @@ challenge-title: NSWC Crane AISUM Prize Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/nswc-crane-aisum-prize-challenge/
 challenge-id: "1194"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/navalx-midwest-logo-resize.png
 agency-logo: /assets/netlify-uploads/sealnavy.png
