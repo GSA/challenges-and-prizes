@@ -1,6 +1,6 @@
 ---
-title: "US Navy Challenge Unmanned Surface Vehicle for Waterside Security "
-challenge-title: "US Navy Challenge Unmanned Surface Vehicle for Waterside Security "
+title: "US Navy Challenge: Unmanned Surface Vehicle (USV) for Waterside Security "
+challenge-title: "US Navy Challenge: Unmanned Surface Vehicle (USV) for Waterside Security "
 layout: front-matter-data-markdownify-content
 permalink: /challenge/unmanned-surface-vehicle-for-waterside-security/
 challenge-id: "1259"
