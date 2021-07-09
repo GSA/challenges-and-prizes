@@ -17,7 +17,7 @@ agency: Department of Defense, Naval Undersea Warfare Center, Division Newport
 partner-agencies-federal: Naval Sea Systems Command Technology Office
 partners-non-federal: Northeast and 401 Tech Bridge coordinated at the Naval
   Undersea Warfare Center, Division Newport
-external-url: https://innocentive.wazoku.com/challenge/54b482dbfeb14a07bfd120ce1b8d34a8&c=E
+external-url: https://innocentive.wazoku.com/#/challenge/54b482dbfeb14a07bfd120ce1b8d34a8
 total-prize-offered-cash: $50,000
 type-of-challenge:
   - Software and apps
