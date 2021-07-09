@@ -190,7 +190,7 @@ how-to-enter: >-
 
   * Questions about the Challenge should be directed to [uaschallenge@k-state.edu](mailto:uaschallenge@k-state.edu).
 ---
-### Description
+### Description   
 
 Join us for this exciting drone (aka unmanned aircraft system or UAS) prize competition using your ingenuity and hardware build expertise to create a concept for a drone prototype. The result of the First Responder UAS Triple Challenge 3.1 “FastFind” will support the public safety community and its stakeholders.
 
