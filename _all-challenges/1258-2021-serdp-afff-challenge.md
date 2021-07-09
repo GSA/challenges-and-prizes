@@ -17,7 +17,7 @@ type-of-challenge:
   - Technology demonstration and hardware
   - Scientific
 submission-start: 2021/07/13 12:00 PM
-submission-end: 2021/09/30 2:00 PM
+submission-end: 2021/09/29 2:00 PM
 fiscal-year: FY21
 legal-authority: Agency specific prize authority
 challenge-manager: Robin A. Nissan, PhD
