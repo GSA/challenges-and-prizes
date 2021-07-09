@@ -92,13 +92,7 @@ how-to-enter: >-
   6. Photo(s) of the foam product.
 
 
-  ![2 firefighters putting out a large fire in an airplane engine]({{site.baseurl}}/assets/netlify-uploads/210330-f-kq555-1194c.jpg "Image 1")   
-
-
-  ![2 firefighters putting out a large fire at night]({{site.baseurl}}/assets/netlify-uploads/200928-f-nx530-1013y.jpg "Image 2")   
-
-
-  ![3 firefighters putting out a fire near a plane]({{site.baseurl}}/assets/netlify-uploads/190816-f-zb472-1134y.jpg "Image 3")
+  ![Images of firefighters putting out fires]({{site.baseurl}}/assets/netlify-uploads/afff-challenge-images.jpg "firefighters putting out fires")
 ---
 ### Description
 
@@ -146,8 +140,4 @@ Submit your entry via email to [AFFFChallenge@noblis.org](mailto:AFFFChallenge@n
 5. Photo(s) of the solution after mixing with water (prior to generating foam).
 6. Photo(s) of the foam product.
 
-![2 firefighters putting out a large fire in an airplane engine]({{site.baseurl}}/assets/netlify-uploads/210330-f-kq555-1194c.jpg "Image 1")   
-
-![2 firefighters putting out a large fire at night]({{site.baseurl}}/assets/netlify-uploads/200928-f-nx530-1013y.jpg "Image 2")   
-
-![3 firefighters putting out a fire near a plane]({{site.baseurl}}/assets/netlify-uploads/190816-f-zb472-1134y.jpg "Image 3")
+![Images of firefighters putting out fires]({{site.baseurl}}/assets/netlify-uploads/afff-challenge-images.jpg "firefighters putting out fires")
