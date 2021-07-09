@@ -23,7 +23,7 @@ type-of-challenge:
   - Ideas
   - Analytics, visualizations, algorithms
 submission-start: 2021/05/13 06:00 AM
-submission-end: 2021/07/13 11:59 PM
+submission-end: 2021/07/27 11:59 PM
 fiscal-year: FY21
 legal-authority: America COMPETES Act
 challenge-manager: Jeffrey Champlin
