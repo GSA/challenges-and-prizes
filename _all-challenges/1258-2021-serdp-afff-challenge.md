@@ -45,7 +45,7 @@ description: >
 
   * Submission period ends: September 30 2021 at 2:00 pm ET
 prizes: >-
-  Multipole cash prizes up to $10,000 may be awarded
+  Multiple cash prizes up to $10,000 may be awarded
 
 
   Research and development funds may be awarded beyond the cash prize to successful submitters.
