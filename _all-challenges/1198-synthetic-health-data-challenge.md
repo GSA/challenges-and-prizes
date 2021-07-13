@@ -4,7 +4,7 @@ challenge-title: Synthetic Health Data Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/synthetic-health-data-challenge/
 challenge-id: "1198"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/hhs-logo-resize-for-tile.png
 agency-logo: /assets/netlify-uploads/hhs.png
@@ -16,8 +16,8 @@ agency: Department of Health & Human Services - Office of National Coordinator
 total-prize-offered-cash: $100,000
 type-of-challenge:
   - Software and apps
-submission-start: 2021/01/19 09:00 AM
-submission-end: 2021/07/13 05:00 PM
+submission-start: 01/19/2021 09:00 AM
+submission-end: 07/13/2021 05:00 PM
 fiscal-year: FY21
 legal-authority: Procurement Authority
 challenge-manager: Stephanie Garcia, ONC
