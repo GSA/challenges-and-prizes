@@ -28,20 +28,18 @@ legal-authority: Other
 challenge-manager: Carly Jackson
 challenge-manager-email: carly.jackson@navy.mil
 point-of-contact: charles.yetman@navy.mil
-body-content-uploads: /assets/netlify-uploads/ainetantx-networks-prize-challenge-qa-2jul21.pdf
+body-content-uploads: /assets/netlify-uploads/ainetantx-ai-prize-challenge-qa-16july21.pdf
 description: >-
-  Consider a scenario where developers, data scientists, machine learning (ML)
-  engineers, etc., have access to training-quality datasets via the Overmatch
-  Software Armory’s (OSA) secure, shore-based, Virtual Desktop Infrastructure
-  (VDI) enabled environment. Pipelined training-quality datasets are stored in
-  Apache Parquet format and readily available for query, discovery, and
-  retrieval from RESTful Services via Swagger UI, Command Line Interface (CLI),
-  and/or the Java software development kit (SDK). The OSA environment also
-  provides access to pertinent artificial intelligence (AI) tooling, e.g.
-  Anaconda, Amazon Web Services (AWS) SageMaker, etc., which is used to perform
-  data engineering, build/train ML models, and/or develop AI-enabled
-  capabilities (e.g. Natural Language Processing / Natural Language
-  Understanding (NLP/NLU), reasoning, planning, etc.).
+  #### IMPORTANT UPDATES:
+
+
+  * Q&A (Last Updated: July 16, 2021): [Click here for Q&A]({{site.baseurl}}/assets/netlify-uploads/ainetantx-ai-prize-challenge-qa-16july21.pdf)
+
+
+  #### Description
+
+
+  Consider a scenario where developers, data scientists, machine learning (ML) engineers, etc., have access to training-quality datasets via the Overmatch Software Armory’s (OSA) secure, shore-based, Virtual Desktop Infrastructure (VDI) enabled environment. Pipelined training-quality datasets are stored in Apache Parquet format and readily available for query, discovery, and retrieval from RESTful Services via Swagger UI, Command Line Interface (CLI), and/or the Java software development kit (SDK). The OSA environment also provides access to pertinent artificial intelligence (AI) tooling, e.g. Anaconda, Amazon Web Services (AWS) SageMaker, etc., which is used to perform data engineering, build/train ML models, and/or develop AI-enabled capabilities (e.g. Natural Language Processing / Natural Language Understanding (NLP/NLU), reasoning, planning, etc.).
 
 
   The AI Prize Challenge, hereinafter referred to as the “Challenge”, is focused on quickly identifying operationally relevant innovations and emerging AI-enabled technologies. Selected participants will be invited to demonstrate candidate technologies in the Overmatch Software Armory (OSA), which will provide participants VDI access to a secure, government-owned Commercial Cloud Service Provider (CCSP). AI technologies are expected to be containerized and deployed to the Red Hat OpenShift Container Platform (OSCP) version 4.6.
@@ -399,7 +397,7 @@ how-to-enter: |-
 ---
 #### IMPORTANT UPDATES:
 
-* Q&A (Last Updated: July 2, 2021): [Click here for Q&A]({{site.baseurl}}/assets/netlify-uploads/ainetantx-networks-prize-challenge-qa-2jul21.pdf)
+* Q&A (Last Updated: July 16, 2021): [Click here for Q&A]({{site.baseurl}}/assets/netlify-uploads/ainetantx-ai-prize-challenge-qa-16july21.pdf)
 
 ### Description
 
