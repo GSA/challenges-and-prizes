@@ -22,7 +22,7 @@ type-of-challenge:
   - Analytics, visualizations, algorithms
   - Scientific
 submission-start: "2021/06/11 "
-submission-end: 2021/07/27 03:00 PM
+submission-end: 2021/08/13 03:00 PM
 fiscal-year: FY22
 legal-authority: Other
 challenge-manager: Carly Jackson
