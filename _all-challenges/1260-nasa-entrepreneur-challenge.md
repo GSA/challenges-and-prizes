@@ -6,7 +6,7 @@ permalink: challenge/nasa-entrepreneur-challenge-2021/
 challenge-id: "1260"
 status: open
 sidenav: false
-card-image: /assets/netlify-uploads/717px-NASA_logo.png
+card-image: /assets/netlify-uploads/nasa-logo_resized-for-tile-image.png
 agency-logo: /assets/netlify-uploads/717px-NASA_logo.png
 tagline: "To increase participation of entrepreneurial startup companies in its
   technology portfolio, NASA’s Science Mission Directorate is seeking companies
