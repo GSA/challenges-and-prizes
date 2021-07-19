@@ -4,7 +4,7 @@ challenge-title: Water America's Crops Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/water-americas-crops/
 challenge-id: "1205"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/20210115_herox_wateramericascrops-challenge_3-logo_challengegov-sized.jpg
 agency-logo: /assets/netlify-uploads/bureau-of-reclamation.png
@@ -18,8 +18,8 @@ total-prize-offered-cash: $360,000
 type-of-challenge:
   - Ideas
   - Technology demonstration and hardware
-submission-start: 2021/02/04 7:00 AM
-submission-end: 2021/07/15 5:00 PM
+submission-start: 02/04/2021 7:00 AM
+submission-end: 07/15/2021 5:00 PM
 fiscal-year: FY21, FY22, FY23
 legal-authority: Procurement Authority
 challenge-manager: Jennifer Beardsley
