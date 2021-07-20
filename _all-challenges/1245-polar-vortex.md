@@ -4,7 +4,7 @@ challenge-title: Polar Vortex
 layout: front-matter-data-markdownify-content
 permalink: /challenge/polar-vortex/
 challenge-id: "1245"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/polarvortex_revised.jpg
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
@@ -23,8 +23,8 @@ type-of-challenge:
   - Ideas
   - Technology demonstration and hardware
   - Analytics, visualizations, algorithms
-submission-start: "2021/06/09 "
-submission-end: 2021/07/19 11:59 PM
+submission-start: "06/09/2021 "
+submission-end: 07/19/2021 11:59 PM
 fiscal-year: FY21
 legal-authority: Other
 challenge-manager: Kedar Pavgi
