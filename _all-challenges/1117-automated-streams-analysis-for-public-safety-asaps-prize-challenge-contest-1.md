@@ -181,6 +181,18 @@ how-to-enter: >-
 ---
 ### Description
 
+**Update on Future ASAPS Funding Opportunities**
+
+The National Institute of Standards and Technology (NIST) Public Safety Communications Research (PSCR) Division conducted Contest 1 of the Automated Streams Analysis for Public Safety (ASAPS) Prize Challenge in 2020 and awarded $180,000 to six teams for their innovative approaches to four topic areas. NIST originally planned for three follow-on prize competitions; however, in place of follow-on contests, NIST will release the ASAPS Development Data for open research and may open new funding opportunities in FY22. The robust dataset includes eight continuous hours of over 40 multimodal data streams annotated for 62 emergency events and their corresponding evidence. To learn more about PSCR’s Public Safety Analytics research portfolio, please visit their webpage.
+
+**Winners of ASAPS Contest 1 – Concept Paper**
+
+NIST awarded the following six teams $30,000 each for their novel approaches to extracting information from multimodal data streams. Two teams tied as winners for Topic 2; thus, NIST awarded six awards – one more than initially planned.
+
+![List of ASAPS Contest 1 - Concept Paper winners]({{site.baseurl}}/assets/netlify-uploads/asaps-winners.png "Winners of ASAPS Contest 1 – Concept Paper")
+
+**Overview**
+
 The Public Safety Communications Research Division of the National Institute of Standards and Technology is conducting the Automated Streams Analysis for Public Safety (ASAPS) Prize Challenge, authorized under Section 105 of the America COMPETES Reauthorization Act of 2010 (Pub. L. No 111-358), as codified in 15 U.S.C. § 3719.
 
 This challenge anticipates awarding prizes to challenge contestants who submit innovative approaches that address information extraction across ASAPS multimodal data streams and perform fusion in real time across extracted data to generate actionable data reports about simulated and staged emergency events. One of the most important objectives of this program is to demonstrate how data can be used to enable decision support tools and capabilities for public safety. This challenge is a nationwide innovation contest taking place throughout 2020, 2021, and 2022. The challenge is anticipated to be administered in four discrete contests. In the context of multiple contests, these are the official rules for Contest 1 only.
