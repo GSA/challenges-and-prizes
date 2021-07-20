@@ -216,67 +216,36 @@ Public safety organizations are inundated with live streaming data from a variet
 In this first contest, NIST PSCR is inviting a novel multidisciplinary community to share its vision for how to analyze numerous live data streams, understand the data, and transform it into information to support public safety decisions. We are looking for ideas that address the following analytic tasks as well as an overall extraction to analysis systems platform approach to the contest elements. The core analytic tasks for this contest can be
 broadly described as:
 
-1. **Information extraction across data streams and data sources:** Structured
-   information is continuously extracted from each of the data streams that are
-   necessary to support downstream analysis and detection of emergency events.
-2. **Information fusion across extracted data and generation of live/dynamic
-   information representation:** Joint inferencing is performed across all of the
-   information in the extracted streams to create an event-level analysis of an
-   emergency and store that information in a dynamically evolving structured data
-   representation that can be utilized at any time during the life of an
-   emergency.
-3. **Automated emergency event analysis:**Highly actionable analytic reports
-   about emergency events are generated from the extracted/fused structured
-   information (as described in the above topics) into a form that can be readily
-   rendered into actionable user-readable reports in real-time and in both
-   ongoing and summary forms.
+1. **Information extraction across data streams and data sources:** Structured information is continuously extracted from each of the data streams that are necessary to support downstream analysis and detection of emergency events.
+2. **Information fusion across extracted data and generation of live/dynamic information representation:** Joint inferencing is performed across all of the information in the extracted streams to create an event-level analysis of an emergency and store that information in a dynamically evolving structured data
+   representation that can be utilized at any time during the life of an emergency.
+3. **Automated emergency event analysis:** Highly actionable analytic reports about emergency events are generated from the extracted/fused structured information (as described in the above topics) into a form that can be readily rendered into actionable user-readable reports in real-time and in both ongoing and summary forms.
 
-  Success in this ideation contest is dependent upon a clear vision of the
-  components, platform, and novel approaches that fulfill the functions of
-  real-time information extraction, live dynamic information fusion and
-  representation, and evolving emergency event analysis.
+Success in this ideation contest is dependent upon a clear vision of the   components, platform, and novel approaches that fulfill the functions of real-time information extraction, live dynamic information fusion and
+representation, and evolving emergency event analysis.
 
-  Figure 1. A rendering of the flow of streaming data through a conceptual ASAPS
-  system. **Contest 1 focuses ONLY on the extraction and core analysis
-  components of the system**. Later contests will expand the focus to include
-  the end user interfaces to the analytic information.
+Figure 1. A rendering of the flow of streaming data through a conceptual ASAPS system. **Contest 1 focuses ONLY on the extraction and core analysis components of the system**. Later contests will expand the focus to include the end user interfaces to the analytic information.
 
-  !\[ASAPS system rendering]({{ site.baseurl }}/assets/netlify-uploads/asaps-rendering.jpg "Rendering
-  of the flow of streaming data through a conceptual ASAPS system")
+!\[ASAPS system rendering]({{ site.baseurl }}/assets/netlify-uploads/asaps-rendering.jpg "Rendering of the flow of streaming data through a conceptual ASAPS system")
 
-  This figure is a simplified depiction of the flow of information through an
-  analytic process and not prescriptive of the approaches that might be
-  developed to address the challenge.
+This figure is a simplified depiction of the flow of information through an analytic process and not prescriptive of the approaches that might be developed to address the challenge.
 
-  To provide some additional clarity on the context and make-up of the data,
-  <a href="{{ site.baseurl }}/assets/netlify-uploads/asaps-tables-data-events.pdf">see tables for examples of public safety data types and emergency events</a>.
+To provide some additional clarity on the context and make-up of the data, <a href="{{ site.baseurl }}/assets/netlify-uploads/asaps-tables-data-events.pdf">see tables for examples of public safety data types and emergency events</a>.
 
-  Additional information on the Challenge can be found on
-  *[www.herox.com/ASAPS1](http://www.herox.com/ASAPS1)*. Questions on the
-  Challenge can be directed to the challenge forum:
-  *[www.herox.com/ASAPS1/forum](http://www.herox.com/ASAPS1/forum)*.
-
-<!-- Prizes start -->
+Additional information on the Challenge can be found on *[www.herox.com/ASAPS1](http://www.herox.com/ASAPS1)*. Questions on the
+  Challenge can be directed to the challenge forum: *[www.herox.com/ASAPS1/forum](http://www.herox.com/ASAPS1/forum)*.
 
 ### Prizes
 
-  A total prize purse of up to **$150,000** will be awarded to the winners, as
-  follows:
+A total prize purse of up to $150,000 will be awarded to the winners, as follows:
 
-  Topic 1: Information extraction across ASAPS streams and data sources across 1
-  or more data categories: **$30,000**
+Topic 1: Information extraction across ASAPS streams and data sources across 1 or more data categories: **$30,000**  
 
-  Topic 2: Information fusion across extracted data and generation of
-  live/dynamic information representation, across 3 or more data categories:
-  **$30,000**
+Topic 2: Information fusion across extracted data and generation of live/dynamic information representation, across 3 or more data categories: **$30,000**
 
-  Topic 3: Automated emergency event analysis across 3 or more data stream
-  categories, and preferably across all data categories: **$30,000**
+Topic 3: Automated emergency event analysis across 3 or more data stream categories, and preferably across all data categories: **$30,000**
 
-  Topic 4: Extraction-to-analysis systems approach across all data categories:
-  **2 X $30,000**
-
-<!-- Rules start -->
+Topic 4: Extraction-to-analysis systems approach across all data categories: **2 X $30,000**
 
 ### Rules
 
@@ -284,24 +253,15 @@ Please view the original [Official Rules document]({{site.baseurl}}/assets/netli
 
 Rules regarding submissions, as well as additional terms and conditions, begin on Page 6 of the document.
 
-<!-- Judging start -->
-
 ### Judging Criteria
 
-  **Judging Panel**
+**Judging Panel**  
 
-  Submissions will initially be screened for completeness and compliance with
-  the objectives and Official Rules of this challenge. A submission that fails
-  to meet the compliance requirements listed below will be disqualified and will
-  be ineligible to compete in this challenge. Submissions that pass the initial
-  compliance review will be evaluated by a panel of subject matter experts and
-  scored by a panel of judges. An evaluation of a submission by the Judging
-  panel does not constitute NIST's final determination of the contestant or
-  submission eligibility.
+Submissions will initially be screened for completeness and compliance with the objectives and Official Rules of this challenge. A submission that fails to meet the compliance requirements listed below will be disqualified and will be ineligible to compete in this challenge. Submissions that pass the initial compliance review will be evaluated by a panel of subject matter experts and scored by a panel of judges. An evaluation of a submission by the Judging panel does not constitute NIST's final determination of the contestant or submission eligibility.
 
-  **Judging Criteria**
+**Judging Criteria**
 
-  To pass initial screening, submissions must:
+To pass initial screening, submissions must:
 
 * Discuss the current technology landscape
 * Identify the technology gaps
@@ -310,34 +270,20 @@ Rules regarding submissions, as well as additional terms and conditions, begin o
   it aligns with the proposed approach
 * Be written in English
 
-  Submissions will be evaluated based on the \[criteria in this table](<{{
-  site.baseurl }}/assets/netlify-uploads/asaps-judging-criteria.pdf>). Scores
-  will not be provided to the contestants. In the case of a tie, the Judging
-  panel will decide on the winners.
+Submissions will be evaluated based on the \[criteria in this table](<{{ site.baseurl }}/assets/netlify-uploads/asaps-judging-criteria.pdf>). Scores will not be provided to the contestants. In the case of a tie, the Judging
+panel will decide on the winners.
 
-  In addition to the criteria listed in the table, submissions will also be
-  evaluated to ensure they meet the requirements for the number of data
-  categories (see Table 1 for data stream categories) required for each topic
-  area. The requirements are as follows:
-* **Topic 1: Information Extraction across ASAPS streams and data sources**
-  Submitted ideas must address information extraction across one or more data
-  stream categories.
-* **Topic 2: Information fusion across extracted data and generation of
-  live/dynamic information representation** Submitted ideas must address
-  information fusion and information representation from 3 or more data stream
-  categories.
-* **Topic 3: Automated emergency event analysis** Submitted ideas must address
-  emergency event analysis across 3 or more data stream categories. Preference
-  will be given to ideas that span all data stream categories.
-* **Topic 4: Extraction-to-analysis systems approach** Submitted ideas must
-  address an extraction-to-analysis systems approach that uses all data stream
-  categories.
+In addition to the criteria listed in the table, submissions will also be evaluated to ensure they meet the requirements for the number of data categories (see Table 1 for data stream categories) required for each topic
+area. The requirements are as follows:
 
-<!--  How To Enter start -->
+* **Topic 1: Information Extraction across ASAPS streams and data sources** Submitted ideas must address information extraction across one or more data stream categories.
+* **Topic 2: Information fusion across extracted data and generation of live/dynamic information representation** Submitted ideas must address information fusion and information representation from 3 or more data stream categories.
+* **Topic 3: Automated emergency event analysis** Submitted ideas must address emergency event analysis across 3 or more data stream categories. Preference will be given to ideas that span all data stream categories.
+* **Topic 4: Extraction-to-analysis systems approach** Submitted ideas must address an extraction-to-analysis systems approach that uses all data stream categories.
 
 ### How To Enter
 
-  Visit *[www.herox.com/ASAPS1](http://www.herox.com/ASAPS1)*:.
+Visit *[www.herox.com/ASAPS1](http://www.herox.com/ASAPS1)*:.
 
 * Register as a contestant on HeroX.com and complete your submission using the
   online portal by the Submission Deadline.
