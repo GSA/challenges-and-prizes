@@ -25,7 +25,7 @@ fiscal-year: FY20, FY21
 legal-authority: America COMPETES Act
 challenge-manager: Craig Connelly
 challenge-manager-email: craig.connelly@nist.gov
-body-content-uploads: /assets/netlify-uploads/3.2-asaps-challenge-contest-1.-rules-amendment.9.21.20.pdf
+body-content-uploads: /assets/netlify-uploads/asaps-judging-criteria.pdf
 description: >-
   The Public Safety Communications Research Division of the National Institute
   of Standards and Technology is conducting the Automated Streams Analysis for
@@ -226,14 +226,13 @@ representation, and evolving emergency event analysis.
 
 Figure 1. A rendering of the flow of streaming data through a conceptual ASAPS system. **Contest 1 focuses ONLY on the extraction and core analysis components of the system**. Later contests will expand the focus to include the end user interfaces to the analytic information.
 
-!\[ASAPS system rendering]({{ site.baseurl }}/assets/netlify-uploads/asaps-rendering.jpg "Rendering of the flow of streaming data through a conceptual ASAPS system")
+![ASAPS system rendering]({{site.baseurl}}/assets/netlify-uploads/asaps-rendering.jpg "Rendering of the flow of streaming data through a conceptual ASAPS system")
 
 This figure is a simplified depiction of the flow of information through an analytic process and not prescriptive of the approaches that might be developed to address the challenge.
 
-To provide some additional clarity on the context and make-up of the data, <a href="{{ site.baseurl }}/assets/netlify-uploads/asaps-tables-data-events.pdf">see tables for examples of public safety data types and emergency events</a>.
+To provide some additional clarity on the context and make-up of the data, <a href="{{site.baseurl}}/assets/netlify-uploads/asaps-tables-data-events.pdf">see tables for examples of public safety data types and emergency events</a>.
 
-Additional information on the Challenge can be found on *[www.herox.com/ASAPS1](http://www.herox.com/ASAPS1)*. Questions on the
-  Challenge can be directed to the challenge forum: *[www.herox.com/ASAPS1/forum](http://www.herox.com/ASAPS1/forum)*.
+Additional information on the Challenge can be found on *[www.herox.com/ASAPS1](http://www.herox.com/ASAPS1)*. Questions on the Challenge can be directed to the challenge forum: *[www.herox.com/ASAPS1/forum](http://www.herox.com/ASAPS1/forum)*.
 
 ### Prizes
 
@@ -266,12 +265,10 @@ To pass initial screening, submissions must:
 * Discuss the current technology landscape
 * Identify the technology gaps
 * Describe the proposed approach to bridging the identified gaps
-* Present the expertise and experience represented by the team and discuss how
-  it aligns with the proposed approach
+* Present the expertise and experience represented by the team and discuss how it aligns with the proposed approach
 * Be written in English
 
-Submissions will be evaluated based on the \[criteria in this table](<{{ site.baseurl }}/assets/netlify-uploads/asaps-judging-criteria.pdf>). Scores will not be provided to the contestants. In the case of a tie, the Judging
-panel will decide on the winners.
+Submissions will be evaluated based on the [criteria in this table]({{site.baseurl}}/assets/netlify-uploads/asaps-judging-criteria.pdf). Scores will not be provided to the contestants. In the case of a tie, the Judging panel will decide on the winners.
 
 In addition to the criteria listed in the table, submissions will also be evaluated to ensure they meet the requirements for the number of data categories (see Table 1 for data stream categories) required for each topic
 area. The requirements are as follows:
@@ -283,10 +280,8 @@ area. The requirements are as follows:
 
 ### How To Enter
 
-Visit *[www.herox.com/ASAPS1](http://www.herox.com/ASAPS1)*:.
+Visit *[www.herox.com/ASAPS1](http://www.herox.com/ASAPS1)*:
 
-* Register as a contestant on HeroX.com and complete your submission using the
-  online portal by the Submission Deadline.
+* Register as a contestant on HeroX.com and complete your submission using the online portal by the Submission Deadline.
 * Each individual, team, or organization is allowed only one entry.
-* There are four topics addressed in this contest and you may respond to one
-  or more of these topics within your submission form.
+* There are four topics addressed in this contest and you may respond to one or more of these topics within your submission form.
