@@ -4,7 +4,7 @@ challenge-title: LymeX Education and Awareness Healthathon
 layout: front-matter-data-markdownify-content
 permalink: /challenge/lymex-education-and-awareness-healthathon/
 challenge-id: "1247"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/lymex-education-and-awareness-healthathon-image.png
 agency-logo: /assets/netlify-uploads/hhs.png
@@ -16,8 +16,8 @@ partner-agencies-federal: OASH InnovationX; HHS Office of the Chief Data Officer
 partners-non-federal: Steven & Alexandra Cohen Foundation
 type-of-challenge:
   - Creative (multimedia & design)
-submission-start: 2021/06/17 12:00 AM
-submission-end: 2021/07/20 11:59 PM
+submission-start: 06/17/2021 12:00 AM
+submission-end: 07/20/2021 11:59 PM
 fiscal-year: FY21
 legal-authority: Other
 challenge-manager: Kristen Honey
