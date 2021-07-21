@@ -36,7 +36,7 @@ description: >-
   **Winners of ASAPS Contest 1 – Concept Paper**
 
 
-  NIST awarded the following six teams $30,000 each for their novel approaches to extracting information from multimodal data streams. Two teams tied as winners for Topic 2; thus, NIST awarded six awards – one more than initially planned.
+  NIST awarded the following six teams $30,000 each for their novel approaches to extracting information from multimodal data streams. Two teams tied as winners for Topic 2; thus, NIST awarded six awards – one more than initially planned. You may learn more about the winning solutions at [PSCR’s ASAPS Contest1](https://www.nist.gov/ctl/pscr/open-innovation-prize-challenges/past-prize-challenges/2020-automated-stream-analysis) webpage.
 
 
   ![List of ASAPS Contest 1 - Concept Paper winners]({{site.baseurl}}/assets/netlify-uploads/asaps-winners.png "Winners of ASAPS Contest 1 – Concept Paper")
@@ -211,7 +211,7 @@ The National Institute of Standards and Technology (NIST) Public Safety Communic
 
 **Winners of ASAPS Contest 1 – Concept Paper**
 
-NIST awarded the following six teams $30,000 each for their novel approaches to extracting information from multimodal data streams. Two teams tied as winners for Topic 2; thus, NIST awarded six awards – one more than initially planned.
+NIST awarded the following six teams $30,000 each for their novel approaches to extracting information from multimodal data streams. Two teams tied as winners for Topic 2; thus, NIST awarded six awards – one more than initially planned. You may learn more about the winning solutions at [PSCR’s ASAPS Contest1](https://www.nist.gov/ctl/pscr/open-innovation-prize-challenges/past-prize-challenges/2020-automated-stream-analysis) webpage.
 
 ![List of ASAPS Contest 1 - Concept Paper winners]({{site.baseurl}}/assets/netlify-uploads/asaps-winners.png "Winners of ASAPS Contest 1 – Concept Paper")
 
