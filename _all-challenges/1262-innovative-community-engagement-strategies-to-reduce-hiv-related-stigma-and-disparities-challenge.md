@@ -772,7 +772,7 @@ Questions concerning this competition should be sent by email to [HIVChallenge@h
 
 **Phase 1: Design of Concept**
 
-Submissions for Phase 1 of this competition are due by September 23, 2021 at 11:59 pm EDT. The identified Official Representative (individual, team or legal entity) may apply for this competition by submitting the proposed concept by email to [HIVChallenge@hhs.gov](mailto:HIVChallenge@hhs.gov). The submission for Phase 1 of the competition shall meet the following requirements:
+Submissions for Phase 1 of this competition are **due by September 23, 2021 at 11:59 pm EDT**. The identified Official Representative (individual, team or legal entity) may apply for this competition by submitting the proposed concept by email to [HIVChallenge@hhs.gov](mailto:HIVChallenge@hhs.gov). The submission for Phase 1 of the competition shall meet the following requirements:
 
 * Written entries must consist of PDF files with font size no smaller than 11-point Arial
 * Video entries shall be uploaded to YouTube as an unlisted video file and the link should be sent in the email.
@@ -799,7 +799,7 @@ The submission shall include:
 
 **Phase 2: Development of Approach**
 
-Submissions for Phase 2 of this competition are due by March 3, 2022 at 11:59 pm EST. Only participants who received an award for their Phase 1 submission are eligible to apply for Phase 2. The identified Official Representative (individual, team or legal entity) may apply for this phase by submitting the proposed approach by email to [HIVChallenge@hhs.gov](mailto:HIVChallenge@hhs.gov). The submission for Phase 2 of the competition shall meet the following requirements:
+Submissions for Phase 2 of this competition are **due by March 3, 2022 at 11:59 pm EST**. Only participants who received an award for their Phase 1 submission are eligible to apply for Phase 2. The identified Official Representative (individual, team or legal entity) may apply for this phase by submitting the proposed approach by email to [HIVChallenge@hhs.gov](mailto:HIVChallenge@hhs.gov). The submission for Phase 2 of the competition shall meet the following requirements:
 
 * Written entries must consist of PDF files with font size no smaller than 11-point Arial.
 * Video entries shall be uploaded to YouTube as an unlisted video file and the link should be sent in the email.
@@ -830,7 +830,7 @@ The submission shall include:
 
 **Phase 3: Refinement of Approach and Small-Scale Testing** 
 
-Submissions for Phase 3 of this competition are due by July 14, 2022 at 11:59 pm EDT. Only participants who received an award for their Phase 2 submission are eligible to apply for Phase 3. The identified Official Representative (individual, team or legal entity) may apply for this phase by submitting the refined approach by email to [HIVChallenge@hhs.gov](mailto:HIVChallenge@hhs.gov). The submission for Phase 3 of the competition shall meet the following requirements:
+Submissions for Phase 3 of this competition are **due by July 14, 2022 at 11:59 pm EDT**. Only participants who received an award for their Phase 2 submission are eligible to apply for Phase 3. The identified Official Representative (individual, team or legal entity) may apply for this phase by submitting the refined approach by email to [HIVChallenge@hhs.gov](mailto:HIVChallenge@hhs.gov). The submission for Phase 3 of the competition shall meet the following requirements:
 
 * Written entries must consist of PDF files with font size no smaller than 11-point Arial.
 * Video entries shall be uploaded to YouTube as an unlisted video file and the link should be sent in the email. 
