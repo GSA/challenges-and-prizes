@@ -11,9 +11,9 @@ card-image: /assets/netlify-uploads/hiv-challenge_infocards_website-preview.png
 agency-logo: /assets/netlify-uploads/hhs.png
 tagline: Engaging Communities to Reduce HIV-Related Stigma and Increase
   Prevention and Treatment Among Racial and Ethnic Minority People
-agency: Department of Health & Human Services - Office of Minority Health and
-  Office of Infectious Disease and HIV/AIDS Policy
-partner-agencies-federal: Office of the Assistant Secretary for Health (OASH)
+agency: "Department of Health & Human Services - Office of Minority Health "
+partner-agencies-federal: Office of the Assistant Secretary for Health (OASH),
+  and Office of Infectious Disease and HIV/AIDS Policy (OIDP)
 total-prize-offered-cash: $760,000
 type-of-challenge:
   - Ideas
