@@ -11,9 +11,9 @@ card-image: /assets/netlify-uploads/hiv-challenge_infocards_website-preview-esp.
 agency-logo: /assets/netlify-uploads/hhs.png
 tagline: Involucrando a las comunidades para reducir el estigma relacionado con
   el VIH, y aumentar la prevención y el tratamiento
-agency: Department of Health & Human Services - Office of Minority Health
-partner-agencies-federal: Office of the Assistant Secretary for Health (OASH),
-  Office of Infectious Disease and HIV/AIDS Policy (OIDP)
+agency: Department of Health & Human Services - Office of Minority Health and
+  Office of Infectious Disease and HIV/AIDS Policy
+partner-agencies-federal: Office of the Assistant Secretary for Health (OASH)
 external-url: https://www.minorityhealth.hhs.gov/espanol/InstruccionesRetodelVIH
 total-prize-offered-cash: $760,000
 type-of-challenge:
