@@ -4,7 +4,7 @@ challenge-title: "Breaking Down Barriers: Reaching the Last Mile of the Unbanked
 layout: front-matter-data-markdownify-content
 permalink: /challenge/breaking-down-barriers/
 challenge-id: "1256"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/tech-sprint-twitter-template-2-.png
 agency-logo: /assets/netlify-uploads/FDIC.png
@@ -17,8 +17,8 @@ type-of-challenge:
   - Ideas
   - Technology demonstration and hardware
   - Analytics, visualizations, algorithms
-submission-start: 2021/07/06 10:00 AM
-submission-end: 2021/07/20 5:00 PM
+submission-start: 07/06/2021 10:00 AM
+submission-end: 07/20/2021 5:00 PM
 fiscal-year: FY21
 legal-authority: America COMPETES Act
 challenge-manager: Justin Cole
