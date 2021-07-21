@@ -10,8 +10,7 @@ sidenav: false
 card-image: /assets/netlify-uploads/hiv-challenge_infocards_website-preview-esp.png
 agency-logo: /assets/netlify-uploads/hhs.png
 tagline: Involucrando a las comunidades para reducir el estigma relacionado con
-  el VIH, y aumentar la prevención y el tratamiento entre las minorías raciales
-  y étnicas
+  el VIH, y aumentar la prevención y el tratamiento
 agency: Department of Health & Human Services - Office of Minority Health
 partner-agencies-federal: Office of the Assistant Secretary for Health (OASH),
   Office of Infectious Disease and HIV/AIDS Policy (OIDP)
