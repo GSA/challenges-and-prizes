@@ -9,8 +9,7 @@ sidenav: false
 card-image: /assets/netlify-uploads/torch.png
 agency-logo: /assets/netlify-uploads/717px-NASA_logo.png
 tagline: Help NASA design a mobile lunar heliostat that can be used to support
-  operations at the Artemis Base Camp by redirecting solar energy where it is
-  most needed
+  operations at the Artemis Base Camp
 agency: National Aeronautics and Space Administration (NASA)
 external-url: https://grabcad.com/challenges/nasa-challenge-lunar-torch
 total-prize-offered-cash: $7,000
