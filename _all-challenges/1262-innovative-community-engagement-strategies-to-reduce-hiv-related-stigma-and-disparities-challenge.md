@@ -331,7 +331,7 @@ Submissions for Phase 3 of this competition are due by July 14, 2022 at 11:59 pm
 
 Phase 3 builds upon the work of Phase 2. Part of the scoring criteria for Phase 3 evaluates whether the approach was successfully tested at a small scale/community level to demonstrate acceptability, usefulness and feasibility. Participants will have equal access to SMEs for group and individual coaching throughout the phase. Each participant will have one consultation session with an SME. The seven semi-finalists will come together as a small community of practice in Phase 3.  Using digital tools (e.g., video conferencing, digital whiteboards), HHS will facilitate knowledge sharing among the group.  Over a two-session series, HHS will provide training to increase skills in how to assess and document successes and lessons learned while implementing and testing the approach. Participants are expected to successfully implement, test and disseminate the approach: (1) within the target population in their community; (2) in another sub-group in their community; (3) by increasing the size and/or reach of the approach. The winners are expected to present their project findings and participate in post-award activities within six months after the end of the competition. 
 
-The Phase 3 submission shall include a comprehensive written description (5 pages or less) and a video    (30 minutes or less) of the approach testing process and results. The video will be a supplement to the written submission. 
+The Phase 3 submission shall include a comprehensive written description (5 pages or less) and a video (30 minutes or less) of the approach testing process and results. The video will be a supplement to the written submission. 
 
 The submission shall include:
 
@@ -343,3 +343,19 @@ The submission shall include:
 6. A description of the small-scale testing process and findings, and how well it demonstrated that the innovation has the potential to be accessible to the population of focus, including considerations of social, cultural, and environmental factors that influence access to HIV treatment and care.  A description of testing results related to the approach usability, acceptability and feasibility among the population and community of focus.
 7. A description of how the approach could be supported or implemented within their communities at a larger scale, and the resources required for next steps beyond the Challenge.  
 8. A description of the method that will be used to disseminate the project’s findings, including the approach, in a timely manner and in easily understandable formats to the population served, the general public, and other parties who might be interested in using the results of the project.
+
+### Footnotes
+
+<sup>1</sup>[https://www.atsdr.cdc.gov/communityengagement/pdf/PCE_Report_508_FINAL.pdf ](https://www.atsdr.cdc.gov/communityengagement/pdf/PCE_Report_508_FINAL.pdf)
+<sup>2</sup>[https://hab.hrsa.gov/sites/default/files/hab/Publications/careactionnewsletter/community-engage.pdf ](https://hab.hrsa.gov/sites/default/files/hab/Publications/careactionnewsletter/community-engage.pdf)
+<sup>3</sup>[https://www.hiv.gov/hiv-basics/hiv-prevention/potential-future-options/long-acting-prep ](https://www.hiv.gov/hiv-basics/hiv-prevention/potential-future-options/long-acting-prep)
+<sup>4</sup>[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5703840/ ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5703840/)
+<sup>5</sup><https://www.hiv.gov/federal-response/ending-the-hiv-epidemic/overview#:~:text=Further%2C%20recent%20analysis%20from%20CDC,were%20not%20receiving%20HIV%20care>
+<sup>6</sup><https://www.pewresearch.org/social-trends/fact-sheet/facts-about-the-us-black-population/#:~:text=In%202019%2C%20there%20were%2046.8%20million%20people%20who,with%20varied%20racial%20and%20ethnic%20identities%20and%20experiences>
+<sup>7</sup>[https://www.cdc.gov/hiv/pdf/library/reports/surveillance/cdc-hiv-surveillance-supplemental-report-vol-26-1.pdf ](https://www.cdc.gov/hiv/pdf/library/reports/surveillance/cdc-hiv-surveillance-supplemental-report-vol-26-1.pdf)
+<sup>8</sup>ibid
+<sup>9</sup>[https://www.ihs.gov/hivaids/stats/ ](https://www.ihs.gov/hivaids/stats/)<sup>10</sup>[https://www.cdc.gov/hiv/pdf/library/reports/surveillance/cdc-hiv-surveillance-supplemental-report-vol-26-1.pdf ](https://www.cdc.gov/hiv/pdf/library/reports/surveillance/cdc-hiv-surveillance-supplemental-report-vol-26-1.pdf)
+<sup>11</sup>[https://www.hiv.gov/hiv-basics/overview/data-and-trends/statistics ](https://www.hiv.gov/hiv-basics/overview/data-and-trends/statistics)
+<sup>12</sup>[https://www.cdc.gov/mmwr/volumes/68/wr/mm6837a2.htm ](https://www.cdc.gov/mmwr/volumes/68/wr/mm6837a2.htm)<sup>13</sup>[https://www.cdc.gov/hiv/basics/hiv-stigma/index.html ](https://www.cdc.gov/hiv/basics/hiv-stigma/index.html)
+<sup>14</sup>[https://www.cdc.gov/hiv/basics/hiv-stigma/index.html#:~:text=HIV%20stigma%20is%20negative%20attitudes,of%20people%20can%20get%20HIV ](https://www.cdc.gov/hiv/basics/hiv-stigma/index.html#:~:text=HIV%20stigma%20is%20negative%20attitudes,of%20people%20can%20get%20HIV)
+<sup>15</sup><https://www.cdc.gov/hiv/risk/art/index.html>
