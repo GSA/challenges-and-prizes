@@ -17,6 +17,9 @@ partner-agencies-federal: Office of the Assistant Secretary for Health (OASH)
 total-prize-offered-cash: $760,000
 type-of-challenge:
   - Ideas
+  - Software and apps
+  - Creative (multimedia & design)
+  - Technology demonstration and hardware
 submission-start: 2021/07/26 8:00 AM
 submission-end: 2021/09/23 11:59 PM
 fiscal-year: FY21
