@@ -13,7 +13,7 @@ tagline: Involucrando a las comunidades para reducir el estigma relacionado con
   el VIH, y aumentar la prevención y el tratamiento
 agency: "Department of Health & Human Services - Office of Minority Health "
 partner-agencies-federal: Office of the Assistant Secretary for Health (OASH),
-  and Office of Infectious Disease and HIV/AIDS Policy (OIDP)
+  Office of Infectious Disease and HIV/AIDS Policy (OIDP)
 external-url: https://www.minorityhealth.hhs.gov/espanol/InstruccionesRetodelVIH
 total-prize-offered-cash: $760,000
 type-of-challenge:
