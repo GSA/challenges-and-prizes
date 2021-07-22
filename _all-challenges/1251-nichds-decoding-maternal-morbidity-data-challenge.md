@@ -82,9 +82,10 @@ prizes: >-
 
 
   NIH reserves the right, in its sole discretion, to (a) cancel, suspend, or modify the Challenge, or any part of it, for any reason, and/or (b) not award any prizes if no submissions are deemed worthy.
-rules: >
+rules: >-
   * To be eligible to win a prize under this Challenge, a Participant (whether
   an individual, group of individuals, or entity): 
+
     * Shall have registered to participate in the Challenge under the rules promulgated by the National Institutes of Health (NIH) as published in this announcement; 
     * Shall have complied with all the requirements set forth in this announcement; 
     * In the case of a private entity, shall be incorporated in and maintain a primary place of business in the United States, and in the case of an individual, whether participating singly or in a group, shall be a citizen or permanent resident of the United States. However, non-U.S. citizens and non-permanent residents can participate as a member of a team that otherwise satisfies the eligibility criteria. Non-U.S. citizens and non-permanent residents are not eligible to win a monetary prize (in whole or in part). Their participation as part of a winning team, if applicable, may be recognized when the results are announced
@@ -93,41 +94,29 @@ rules: >
     * Who is employed by a federal agency or entity other than HHS (or any component of HHS), should consult with an agency ethics official to determine whether the federal ethics rules will limit or prohibit the acceptance of a prize under this Challenge;
     * Shall not be a judge of the Challenge, or any other party involved with the design, production, execution, or distribution of the Challenge or the immediate family of such a party (i.e., spouse, parent, step-parent, child, or step-child). 
     * Shall be 18 years of age or older at the time of submission. 
-
   * Federal grantees may not use Federal funds from a grant award to develop their Challenge submissions or to fund efforts in support of their Challenge submissions unless use of such funds is consistent with the purpose of their grant award. If a grantee using federal funds wins the competition, the award must be treated as program income for purposes of the original grant in accordance with applicable Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards (2 CFR § 200).
-
 
   * Federal contractors may not use federal funds from a contract to develop their Challenge submissions or to fund efforts in support of their Challenge submissions. 
 
-
   * By participating in this Challenge, each Participant (whether an individual, group of individuals, or entity) agrees to assume any and all risks and waive claims against the federal government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from participation in this Challenge, whether the injury, death, damage, or loss arises through negligence or otherwise. 
-
 
   * Based on the subject matter of the Challenge, the type of work that it will possibly require, as well as an analysis of the likelihood of any claims for death, bodily injury, property damage, or loss potentially resulting from Challenge participation, no Participant (whether an individual, group of individuals, or entity) participating in the Challenge is required to obtain liability insurance or demonstrate financial responsibility in order to participate in this Challenge.
 
-
   * By participating in this Challenge, each Participant (whether an individual, group of individuals, or entity) agrees to indemnify the federal government against third party claims for damages arising from or related to Challenge activities. 
-
 
   * A Participant (whether an individual, group of individuals, or entity) shall not be deemed ineligible because the Participant used federal facilities or consulted with federal employees during the Challenge if the facilities and employees are made available to all Participants participating in the Challenge on an equitable basis.
 
-
   * By participating in this Challenge, each Participant (whether an individual, group of individuals, or entity) warrants that they are sole author or owner of, or has the right to use, any copyrightable works that the submission comprises, that the works are wholly original with the Participant (or is an improved version of an existing work that the Participant has sufficient rights to use and improve), and that the submission does not infringe any copyright or any other rights of any third party of which the Participant is aware. Each participant must clearly delineate any Intellectual Property (IP) and/or confidential commercial information contained in an entry that the participant wishes to protect as proprietary data. All materials submitted to NIH as part of an entry become NIH agency records. Any confidential commercial or financial information contained in an entry must be clearly designated at the time of entry. If the entry includes any third-party works (such as third-party content or open source code), the participant must be able to provide, upon request, documentation of all appropriate licenses and releases for use of such third-party works. If the participant cannot provide documentation of all required licenses and releases, NIH reserves the right, at its sole discretion, to disqualify the entry. Each participant also warrants that the work is free of security threats and/or malware.
-
 
   * Each Participant (whether an individual, group of individuals, or entity) selected to win a prize under this Challenge, must grant to the NIH an irrevocable, paid-up, royalty-free nonexclusive worldwide license to reproduce, publish, post, link to, share, and display publicly the submission on the web or elsewhere, and a nonexclusive, nontransferable, irrevocable, paid-up license to practice, or have practiced for or on its behalf, the solution throughout the world. Each Participant will retain all other intellectual property rights in their submissions, as applicable. To participate in the Challenge, each Participant must warrant that there are no legal obstacles to providing the above-referenced nonexclusive licenses of the Participant’s rights to the federal government. To receive an award, Participants selected to win a prize under this Challenge will not be required to transfer their intellectual property rights to NIH, but winners must grant to the federal government the nonexclusive licenses recited herein.
 
-
   * Each Participant (whether an individual, group of individuals, or entity) agrees to follow all applicable federal, state, and local laws, regulations, and policies.
-
 
   * Each Participant (whether an individual, group of individuals, or entity) participating in this Challenge must comply with all terms and conditions of these rules, and participation in this Challenge constitutes each such Participant’s full and unconditional agreement to abide by these rules. Winning is contingent upon fulfilling all requirements herein.
 
-
   * As a condition for winning a cash prize in this Challenge, each Participant (whether an individual, group of individuals, or entity) that has been selected as a winner must complete and submit all requested winner verification and payment documents to NICHD within 14 business days of formal notification. Failure to return all required verification documents by the date specified in the notification may be a basis for disqualification of a cash prize winning submission.
 
-
-  * Each Participant (whether an individual, group of individuals, or entity) must agree to and abide by the DASH Data Use Agreement when registering on DASH to access the nuMoM2b dataset.
+  * Each Participant (whether an individual, group of individuals, or entity) must register on the NICHD Data and Specimens Hub (DASH) and agree to/abide by the DASH Data Use Agreement (DUA) to access the nuMoM2b dataset. The DUA requires that Participants have an affiliation with an existing institution/organization/company, and that the Participant and the Authorized Organizational Representative (AOR) for their affiliated institution/organization/company sign the agreement.
 judging: >-
   A panel of federal employees serving as judges will review the prize
   competition submissions based on the following criteria:
@@ -240,6 +229,7 @@ NIH reserves the right, in its sole discretion, to (a) cancel, suspend, or modif
 ### Rules
 
 * To be eligible to win a prize under this Challenge, a Participant (whether an individual, group of individuals, or entity): 
+
   * Shall have registered to participate in the Challenge under the rules promulgated by the National Institutes of Health (NIH) as published in this announcement; 
   * Shall have complied with all the requirements set forth in this announcement; 
   * In the case of a private entity, shall be incorporated in and maintain a primary place of business in the United States, and in the case of an individual, whether participating singly or in a group, shall be a citizen or permanent resident of the United States. However, non-U.S. citizens and non-permanent residents can participate as a member of a team that otherwise satisfies the eligibility criteria. Non-U.S. citizens and non-permanent residents are not eligible to win a monetary prize (in whole or in part). Their participation as part of a winning team, if applicable, may be recognized when the results are announced
@@ -248,30 +238,18 @@ NIH reserves the right, in its sole discretion, to (a) cancel, suspend, or modif
   * Who is employed by a federal agency or entity other than HHS (or any component of HHS), should consult with an agency ethics official to determine whether the federal ethics rules will limit or prohibit the acceptance of a prize under this Challenge;
   * Shall not be a judge of the Challenge, or any other party involved with the design, production, execution, or distribution of the Challenge or the immediate family of such a party (i.e., spouse, parent, step-parent, child, or step-child). 
   * Shall be 18 years of age or older at the time of submission. 
-
 * Federal grantees may not use Federal funds from a grant award to develop their Challenge submissions or to fund efforts in support of their Challenge submissions unless use of such funds is consistent with the purpose of their grant award. If a grantee using federal funds wins the competition, the award must be treated as program income for purposes of the original grant in accordance with applicable Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards (2 CFR § 200).
-
 * Federal contractors may not use federal funds from a contract to develop their Challenge submissions or to fund efforts in support of their Challenge submissions. 
-
 * By participating in this Challenge, each Participant (whether an individual, group of individuals, or entity) agrees to assume any and all risks and waive claims against the federal government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from participation in this Challenge, whether the injury, death, damage, or loss arises through negligence or otherwise. 
-
 * Based on the subject matter of the Challenge, the type of work that it will possibly require, as well as an analysis of the likelihood of any claims for death, bodily injury, property damage, or loss potentially resulting from Challenge participation, no Participant (whether an individual, group of individuals, or entity) participating in the Challenge is required to obtain liability insurance or demonstrate financial responsibility in order to participate in this Challenge.
-
 * By participating in this Challenge, each Participant (whether an individual, group of individuals, or entity) agrees to indemnify the federal government against third party claims for damages arising from or related to Challenge activities. 
-
 * A Participant (whether an individual, group of individuals, or entity) shall not be deemed ineligible because the Participant used federal facilities or consulted with federal employees during the Challenge if the facilities and employees are made available to all Participants participating in the Challenge on an equitable basis.
-
 * By participating in this Challenge, each Participant (whether an individual, group of individuals, or entity) warrants that they are sole author or owner of, or has the right to use, any copyrightable works that the submission comprises, that the works are wholly original with the Participant (or is an improved version of an existing work that the Participant has sufficient rights to use and improve), and that the submission does not infringe any copyright or any other rights of any third party of which the Participant is aware. Each participant must clearly delineate any Intellectual Property (IP) and/or confidential commercial information contained in an entry that the participant wishes to protect as proprietary data. All materials submitted to NIH as part of an entry become NIH agency records. Any confidential commercial or financial information contained in an entry must be clearly designated at the time of entry. If the entry includes any third-party works (such as third-party content or open source code), the participant must be able to provide, upon request, documentation of all appropriate licenses and releases for use of such third-party works. If the participant cannot provide documentation of all required licenses and releases, NIH reserves the right, at its sole discretion, to disqualify the entry. Each participant also warrants that the work is free of security threats and/or malware.
-
 * Each Participant (whether an individual, group of individuals, or entity) selected to win a prize under this Challenge, must grant to the NIH an irrevocable, paid-up, royalty-free nonexclusive worldwide license to reproduce, publish, post, link to, share, and display publicly the submission on the web or elsewhere, and a nonexclusive, nontransferable, irrevocable, paid-up license to practice, or have practiced for or on its behalf, the solution throughout the world. Each Participant will retain all other intellectual property rights in their submissions, as applicable. To participate in the Challenge, each Participant must warrant that there are no legal obstacles to providing the above-referenced nonexclusive licenses of the Participant’s rights to the federal government. To receive an award, Participants selected to win a prize under this Challenge will not be required to transfer their intellectual property rights to NIH, but winners must grant to the federal government the nonexclusive licenses recited herein.
-
 * Each Participant (whether an individual, group of individuals, or entity) agrees to follow all applicable federal, state, and local laws, regulations, and policies.
-
 * Each Participant (whether an individual, group of individuals, or entity) participating in this Challenge must comply with all terms and conditions of these rules, and participation in this Challenge constitutes each such Participant’s full and unconditional agreement to abide by these rules. Winning is contingent upon fulfilling all requirements herein.
-
 * As a condition for winning a cash prize in this Challenge, each Participant (whether an individual, group of individuals, or entity) that has been selected as a winner must complete and submit all requested winner verification and payment documents to NICHD within 14 business days of formal notification. Failure to return all required verification documents by the date specified in the notification may be a basis for disqualification of a cash prize winning submission.
-
-* Each Participant (whether an individual, group of individuals, or entity) must agree to and abide by the DASH Data Use Agreement when registering on DASH to access the nuMoM2b dataset.
+* Each Participant (whether an individual, group of individuals, or entity) must register on the NICHD Data and Specimens Hub (DASH) and agree to/abide by the DASH Data Use Agreement (DUA) to access the nuMoM2b dataset. The DUA requires that Participants have an affiliation with an existing institution/organization/company, and that the Participant and the Authorized Organizational Representative (AOR) for their affiliated institution/organization/company sign the agreement. 
 
 ### Judging Criteria
 
