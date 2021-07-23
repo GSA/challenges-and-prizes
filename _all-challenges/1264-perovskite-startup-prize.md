@@ -21,7 +21,7 @@ type-of-challenge:
   - Scientific
 submission-start: 2021/03/25 1:00 PM
 submission-end: 2022/03/31 05:00 PM
-fiscal-year: FY21, FY22
+fiscal-year: FY21
 legal-authority: Other
 challenge-manager: Rebecca Bennett
 challenge-manager-email: rbennett@nrel.gov
@@ -45,24 +45,20 @@ description: >-
   **Key Dates**
 
 
-  Below is a table with tentative submission deadlines each quarter *(All Dates subject to change).* 
+  Below is a timeline of tentative submission deadlines for each quarter *(All dates subject to change).* 
 
 
-  | **Date**                   | **Deadline**                                                     | **Requirements**                                    |
+  * **March 25, 2021, 1:00 PM ET:** Open for Countdown Submission
 
-  | -------------------------- | ---------------------------------------------------------------- | --------------------------------------------------- |
+  * **June 30, 2021, 5:00 PM ET:** Countdown Submission Deadline #1
 
-  | March 2021                 | Announcement                                                     | Open for Countdown submissions                      |
-
-  | June 30, 2021, 5:00 PM ET  | Countdown Submission Deadline #1                                 |                                                     |
-
-  | Sept. 30, 2021, 5:00 PM ET | Countdown Submission Deadline #2, Liftoff Submission Deadline #1 | Liftoff– Must have won Countdown #1                 |
-
-  | Jan. 4, 2022, 5:00 PM ET   | Countdown Submission Deadline #3, Liftoff Submission Deadline #2 | Liftoff – Must have won Countdown #1 or #2          |
-
-  | March 31, 2022, 5:00 PM ET | Countdown Submission Deadline #4, Liftoff Submission Deadline #3 | Liftoff – Must have won Countdown #1, #2, or #3     |
-
-  | June 30, 2022, 5:00 PM ET  | Liftoff Submission Deadline #4                                   | Liftoff – Must have won Countdown #1, #2, #3, or #4 |
+  * **September 30, 2021, 5:00 PM ET:** 
+    * Countdown Submission Deadline #2 
+    * Liftoff Submission Deadline #1 (Liftoff– Must have won Countdown #2)
+  * **Jan. 4, 2022, 5:00 PM ET:**
+    * Countdown Submission Deadline #3 
+    * Liftoff Submission Deadline #2 (Liftoff – Must have won Countdown #1 or #2)
+  * **March 31, 2022, 5:00 PM ET:**  Liftoff Submission Deadline #4 (Liftoff – Must have won Countdown #1, #2, #3, or #4)
 prizes: >-
   **Total Cash Prize Pool**
 
@@ -91,7 +87,6 @@ rules: >-
 
 
   * Competitors must be a for-profit business entity, such as a corporation or other organization that is formed in and maintains a primary place of business in the United States with majority domestic ownership and control. Only for-profit companies incorporated within six (6) months prior to the announcement of this competition or any time after the announcement of this competition are eligible to compete. Individuals or groups of individuals are not eligible to compete. A for-profit business entity is eligible to compete only if the registered competitor is an employee or owner of that business. 
-
     * To verify the competitor’s company eligibility, proof of incorporation must be provided in the submission, which includes at a minimum the company name, in which state the company is incorporated, and the incorporation date. DOE and NREL will not provide a preliminary review. Examples of documents expected to contain this information include, the articles of incorporation for a company or a screenshot of the Secretary of State’s website from the appropriate state where the company is listed. 
   * Competitors may submit a maximum of two (2) submissions per quarterly application period. If more than two submissions are received from a single competitor or team for a quarterly application period, only the two most recent submissions will be considered.
 
@@ -106,7 +101,6 @@ rules: >-
   * If a competitor completes a submission package to the Liftoff Contest and is not selected, they are eligible to submit one more time to a future Liftoff round. Competitors who are not selected two times are no longer eligible to compete to win the Liftoff Contest. 
 
   * Winners of the Countdown Contest are eligible to compete in the Liftoff Contest for only 12 months after winning Countdown. A three-month extension to 15 months will be allowed if all three of the following conditions are true:
-
     * The competitor has already applied to compete in the Liftoff Contest once 
     * The competitor competed in but did not win the Liftoff Contest 
     * The competitor is attempting to submit a second application to compete in the Liftoff Contest. 
@@ -151,27 +145,15 @@ The Perovskite Startup Prize consists of two consecutive contests that accelerat
 
 Below is a timeline of tentative submission deadlines for each quarter *(All dates subject to change).* 
 
-**March 25, 2021, 1:00 PM ET:** 
-
-* Open for Countdown Submission
-
-**June 30, 2021, 5:00 PM ET:** 
-
-* Countdown Submission Deadline #1
-
-**September 30, 2021, 5:00 PM ET:** 
-
-* Countdown Submission Deadline #2 
-* Liftoff Submission Deadline #1 (Liftoff– Must have won Countdown #2)
-
-**Jan. 4, 2022, 5:00 PM ET:**
-
-* Countdown Submission Deadline #3 
-* Liftoff Submission Deadline #2 (Liftoff – Must have won Countdown #1 or #2)
-
-**March 31, 2022, 5:00 PM ET:**  
-
-* Liftoff Submission Deadline #4 (Liftoff – Must have won Countdown #1, #2, #3, or #4)
+* **March 25, 2021, 1:00 PM ET:** Open for Countdown Submission
+* **June 30, 2021, 5:00 PM ET:** Countdown Submission Deadline #1
+* **September 30, 2021, 5:00 PM ET:** 
+  * Countdown Submission Deadline #2 
+  * Liftoff Submission Deadline #1 (Liftoff– Must have won Countdown #2)
+* **Jan. 4, 2022, 5:00 PM ET:**
+  * Countdown Submission Deadline #3 
+  * Liftoff Submission Deadline #2 (Liftoff – Must have won Countdown #1 or #2)
+* **March 31, 2022, 5:00 PM ET:**  Liftoff Submission Deadline #4 (Liftoff – Must have won Countdown #1, #2, #3, or #4)
 
 ### **Prizes**
 
@@ -195,7 +177,6 @@ The Official Rules can be found [here](https://americanmadechallenges.org/perovs
 **COUNTDOWN CONTEST** 
 
 * Competitors must be a for-profit business entity, such as a corporation or other organization that is formed in and maintains a primary place of business in the United States with majority domestic ownership and control. Only for-profit companies incorporated within six (6) months prior to the announcement of this competition or any time after the announcement of this competition are eligible to compete. Individuals or groups of individuals are not eligible to compete. A for-profit business entity is eligible to compete only if the registered competitor is an employee or owner of that business. 
-
   * To verify the competitor’s company eligibility, proof of incorporation must be provided in the submission, which includes at a minimum the company name, in which state the company is incorporated, and the incorporation date. DOE and NREL will not provide a preliminary review. Examples of documents expected to contain this information include, the articles of incorporation for a company or a screenshot of the Secretary of State’s website from the appropriate state where the company is listed. 
 * Competitors may submit a maximum of two (2) submissions per quarterly application period. If more than two submissions are received from a single competitor or team for a quarterly application period, only the two most recent submissions will be considered.
 * Competitors not selected as winners of a particular Countdown Contest review cycle are eligible to submit updated submission packages in subsequent open-application periods for the Countdown Contest. 
@@ -205,7 +186,6 @@ The Official Rules can be found [here](https://americanmadechallenges.org/perovs
 * Only business entities that won the Countdown Contest may apply to compete in the Liftoff Contest. The size and makeup of the team can change from Countdown. 
 * If a competitor completes a submission package to the Liftoff Contest and is not selected, they are eligible to submit one more time to a future Liftoff round. Competitors who are not selected two times are no longer eligible to compete to win the Liftoff Contest. 
 * Winners of the Countdown Contest are eligible to compete in the Liftoff Contest for only 12 months after winning Countdown. A three-month extension to 15 months will be allowed if all three of the following conditions are true:
-
   * The competitor has already applied to compete in the Liftoff Contest once 
   * The competitor competed in but did not win the Liftoff Contest 
   * The competitor is attempting to submit a second application to compete in the Liftoff Contest. 
