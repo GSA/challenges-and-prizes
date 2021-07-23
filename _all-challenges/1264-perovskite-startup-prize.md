@@ -12,6 +12,8 @@ tagline: The American-Made Perovskite Startup Prize is designed to accelerate
   the growth of the domestic perovskite industry.
 agency: Department of Energy-National Renewable Energy Laboratory (NREL)
 partner-agencies-federal: Solar Energy Technologies Office (SETO)
+external-url: https://www.herox.com/perovskiteprize
+total-prize-offered-cash: $3,000,000.00
 type-of-challenge:
   - Ideas
   - Technology demonstration and hardware
@@ -67,7 +69,7 @@ The Official Rules can be found [here](https://americanmadechallenges.org/perovs
 * Competitors must be a for-profit business entity, such as a corporation or other organization that is formed in and maintains a primary place of business in the United States with majority domestic ownership and control. Only for-profit companies incorporated within six (6) months prior to the announcement of this competition or any time after the announcement of this competition are eligible to compete. Individuals or groups of individuals are not eligible to compete. A for-profit business entity is eligible to compete only if the registered competitor is an employee or owner of that business. 
 
   * To verify the competitor’s company eligibility, proof of incorporation must be provided in the submission, which includes at a minimum the company name, in which state the company is incorporated, and the incorporation date. DOE and NREL will not provide a preliminary review. Examples of documents expected to contain this information include, the articles of incorporation for a company or a screenshot of the Secretary of State’s website from the appropriate state where the company is listed. 
-* Competitors may submit a maximum of two (2) submissions per quarterly application period. If more than two submissions are received from a single competitor or team for a quarterly application period, only the two most recent submissions will be considerered.
+* Competitors may submit a maximum of two (2) submissions per quarterly application period. If more than two submissions are received from a single competitor or team for a quarterly application period, only the two most recent submissions will be considered.
 * Competitors not selected as winners of a particular Countdown Contest review cycle are eligible to submit updated submission packages in subsequent open-application periods for the Countdown Contest. 
 
 **LIFTOFF CONTEST** 
