@@ -2,7 +2,7 @@
 title: Perovskite Startup Prize
 challenge-title: Perovskite Startup Prize
 layout: front-matter-data-markdownify-content
-permalink: /challenge/perovskite-startup-prize
+permalink: /challenge/perovskite-startup-prize/
 challenge-id: "1264"
 status: open
 sidenav: true
@@ -12,7 +12,7 @@ tagline: The American-Made Perovskite Startup Prize is designed to accelerate
   the growth of the domestic perovskite industry.
 agency: Department of Energy-National Renewable Energy Laboratory (NREL)
 partner-agencies-federal: Solar Energy Technologies Office (SETO)
-external-url: https://www.herox.com/perovskiteprize
+external-url: ""
 total-prize-offered-cash: $3,000,000.00
 type-of-challenge:
   - Ideas
