@@ -19,7 +19,7 @@ type-of-challenge:
   - Technology demonstration and hardware
   - Business plans
   - Scientific
-submission-start: 2021/03/25 1:00 PM
+submission-start: "2021/03/25 1:00 PM "
 submission-end: 2022/03/31 05:00 PM
 fiscal-year: FY21
 legal-authority: Other
