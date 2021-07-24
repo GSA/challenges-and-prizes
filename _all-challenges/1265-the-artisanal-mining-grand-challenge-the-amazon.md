@@ -338,3 +338,39 @@ If CXL desires to depict any Applicant Intellectual Property not covered by the 
 CXL will use reasonable efforts to promote the Challenge. CXL also anticipates that Applicant may enter agreements with media partners that are interested in promoting Applicant’s participation in the Challenge (“Applicant Media Partners”). Applicant shall provide notice to CXL no later than thirty (30) calendar days prior to the execution of any agreement with an Applicant Media Partner, by submitting the following information to CXL: (i) name of Applicant Media Partner; (ii) a brief description of the media, marketing, or promotional rights granted to the Applicant Media Partner; and (iii) a written summary of the business points of any agreement with the Applicant Media Partner. CXL shall review such agreement terms within ten (10) business days. If such contracts or relationships involve any contractual or implicit commitment to exclusivity, then CXL may impose limitations on or reject the proposed Applicant Media Partner Agreement as CXL determines to be in the best interests of the Challenge. CXL may also reject the proposed Applicant Media Partner Agreement, if such agreement , in CXL’s sole opinion: (i) would cause Applicant to breach any term of this Agreement; (ii) would require unsuitable advertising including, but not limited to, any advertising that depicts, describes, implies, or promotes obscene or sexually explicit matters, libelous or illegal matters, violence, racial, sexual or other types of legally prohibited discrimination, a particular political view, or may infringe on or otherwise violate any rights of CXL or any third party; (iii) conflicts with the exclusivity of or jeopardizes any sponsorship associated with the Challenge; or (iv) undermines the Challenge, its underlying goals, or the mission of CXL. Team is encouraged to work with CXL well prior to finalizing any agreements with an Applicant Media Partner to streamline the approval process. If Applicant has signed agreements with Applicant Media Partners or other similar relationships prior to the execution of this Agreement, Applicant shall provide to CXL a detailed written summary of the business points of such agreements and shall amend or terminate such agreements upon request by CXL in accordance with this Exhibit.
 
 ### Judging Criteria
+
+**Value Proposition & Design**
+
+* **Design of the Innovation (10 points):** The applicant demonstrates a thorough understanding of the problem, the environment and context in which it occurs, and the user of the innovation.
+* **Value Proposition (10 points):** The applicant’s innovation would alleviate a major pain point or provide a major benefit that the user would value and be willing to purchase, use, and replace their existing technology or approach with.  
+* **Innovative or Novel Approach (10 points):** The applicant’s innovation is transformative, novel, and creative. It is fundamentally different from those currently being deployed and would produce a marked positive impact.
+
+**Sustainability & Scalability**
+
+* **Adoption and Scalability (10 points):** Evidence that the innovation would be widely adopted and/or purchased and has taken into consideration user behavior and context, and could be manufactured, and distributed at scale across a geographic region where ASGM occurs.
+* **Business and Financially Sustainable (10 points):** The applicant demonstrates an understanding of how they will finance their innovation over time, if and how it will generate revenue, and what risks need to be mitigated in order for it to be viable.
+
+**Impact**
+
+* **Impact: Environments Security & Biodiversity (10 points):** 
+
+  * The applicant’s innovation will have tangible, net-positive impacts on biodiversity conservation, water resources (including quality, quantity, and hydrology). 
+  * Applicants must also acknowledge and propose mitigation efforts for any significant inadvertent effects that the innovation may have on biodiversity conservation, water resources, or environmental security.
+* **Impact: Human Security (10 points):** 
+
+  * The applicant’s innovation will have tangible, net-positive impacts on human health and/or human security. 
+  * Applicants must also acknowledge and propose mitigation efforts for any significant inadvertent effects that the innovation may have on human health and human security.
+* **Gender Equality and Social Inclusion (10 points):** The applicant’s innovation promotes the sustainable livelihoods of vulnerable populations, such as indigenous people or rural women, and/or the applicant meaningfully incorporates the participation of an indigenous organization. 
+
+**Feasibility**
+
+* **Feasibility & Risk (10 points):** The applicant’s innovation is technically feasible and would not create any inadvertent effects on environmental security, biodiversity, or human security.
+* **Team (10 points):** The applicant team is composed of motivated individuals and partners with the expertise to successfully move the innovation forward. 
+
+**Total Possible Points: 100**
+
+### How to Enter
+
+[Apply](https://www.artisanalminingchallenge.com/apply) by registering with the challenge and then completing the online application form.
+
+Official Challenge Website: <https://www.artisanalminingchallenge.com>
