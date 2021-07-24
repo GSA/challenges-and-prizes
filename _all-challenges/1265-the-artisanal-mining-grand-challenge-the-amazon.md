@@ -2,7 +2,7 @@
 title: The Artisanal Mining Grand Challenge The Amazon
 challenge-title: The Artisanal Mining Grand Challenge The Amazon
 layout: front-matter-data-markdownify-content
-permalink: /challenge/artisanal-mining-grand-challenge-the-amazon
+permalink: /challenge/artisanal-mining-grand-challenge-the-amazon/
 challenge-id: "1265"
 status: open
 sidenav: true
