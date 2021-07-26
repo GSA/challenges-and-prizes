@@ -6,9 +6,10 @@ permalink: /challenge/artisanal-mining-grand-challenge-the-amazon/
 challenge-id: "1265"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/asm-gold-logo-copy.png
+card-image: /assets/netlify-uploads/artisanal-mining-grand-challenge-v2.jpg
 agency-logo: /assets/netlify-uploads/USAID_logo.png
-tagline: Accelerating Solutions for People and the Planet.
+tagline: Develop and implement solutions that address the environmental and
+  social costs of artisanal and small-scale gold mining (ASGM) in the Amazon.
 agency: U.S. Agency for International Development
 partners-non-federal: The Gordon & Betty Moore Foundation, Microsoft, ESRI
 total-prize-offered-cash: $800,000, plus $350,000 in in-kind technical assistance
