@@ -24,10 +24,40 @@ challenge-manager-email: terese.manley@nist.gov
 point-of-contact: jshapiro@capconcorp.com
 body-content-uploads: /assets/netlify-uploads/updated-official-challenge-rules-pscr-first-responder-uas-endurance-challenge-february2021.docx
 description: >-
-  **CONGRATULATIONS TO STAGE 1 & 2 WINNERS!** See the [list of
-  winners](https://www.firstresponderuaschallenge.org/finalists.php). For any
-  questions related to this Challenge email us at
-  [psprizes@nist.gov](mailto:psprizes@nist.gov). More details below.
+  **CONGRATULATIONS TO OUR FINAL WINNERS!** For any questions related to this
+  Challenge email us at [psprizes@nist.gov](mailto:psprizes@nist.gov).  
+
+
+  **Overall Standing:**
+
+
+  * 1st = $100,000: Team AAC (Advanced Aircraft Company)
+
+  * 2nd = $40,000: Team IE (Intelligent Energy)
+
+  * 3rd  =$20,000: Team ARCC (Autonomous Robotics Competition Club)    
+
+
+  **Best-in-Class = $5,000 each**
+
+
+  * Endurance / Team AAC (Advanced Aircraft Company)
+
+  * Innovation / Team AAC (Advanced Aircraft Company
+
+  * Cost Effectiveness / Team Endure Air
+
+  * Weight / Team Endure Air
+
+  * Autonomy / Team ARCC (Autonomous Robotics Competition Club)
+
+  * Ease of Use / Team Endure Air
+
+  * First Responder’s Choice / Team ARCC (Autonomous Robotics Competition Club)
+
+  * First Responder’s Choice / Team AAC (Advanced Aircraft Company)
+
+
 
 
   #### Informational Materials
@@ -36,6 +66,9 @@ description: >-
   * #### [April 2, 2020 Webinar](https://capconcorp.egnyte.com/dl/FqF0hCXwEV/)
 
   * #### [Frequently Asked Questions](https://www.firstresponderuaschallenge.org/faqs.php)
+
+
+  #### Challenge Details
 
 
   Join us for this exciting drone (aka unmanned aircraft system or UAS) prize competition using your ingenuity and hardware build expertise to create a concept for a drone prototype. The result of the First Responder UAS Endurance Challenge will support the public safety community and its stakeholders.
@@ -190,12 +223,33 @@ how-to-enter: >-
 ---
 ### Description
 
-**CONGRATULATIONS TO STAGE 1 & 2 WINNERS!** See the [list of winners](https://www.firstresponderuaschallenge.org/finalists.php).  For any questions related to this Challenge email us at [psprizes@nist.gov](mailto:psprizes@nist.gov).  More details below.
+**CONGRATULATIONS TO OUR FINAL WINNERS!** For any questions related to this Challenge email us at [psprizes@nist.gov](mailto:psprizes@nist.gov).  
+
+**Overall Standing:**
+
+* 1st = $100,000: Team AAC (Advanced Aircraft Company)
+* 2nd = $40,000: Team IE (Intelligent Energy)
+* 3rd  =$20,000: Team ARCC (Autonomous Robotics Competition Club)    
+
+**Best-in-Class = $5,000 each**
+
+* Endurance / Team AAC (Advanced Aircraft Company)
+* Innovation / Team AAC (Advanced Aircraft Company
+* Cost Effectiveness / Team Endure Air
+* Weight / Team Endure Air
+* Autonomy / Team ARCC (Autonomous Robotics Competition Club)
+* Ease of Use / Team Endure Air
+* First Responder’s Choice / Team ARCC (Autonomous Robotics Competition Club)
+* First Responder’s Choice / Team AAC (Advanced Aircraft Company)
+
+
 
 #### Informational Materials
 
 * #### [April 2, 2020 Webinar](https://capconcorp.egnyte.com/dl/FqF0hCXwEV/)
 * #### [Frequently Asked Questions](https://www.firstresponderuaschallenge.org/faqs.php)
+
+#### Challenge Details
 
 Join us for this exciting drone (aka unmanned aircraft system or UAS) prize competition using your ingenuity and hardware build expertise to create a concept for a drone prototype. The result of the First Responder UAS Endurance Challenge will support the public safety community and its stakeholders.
 
