@@ -4,7 +4,7 @@ challenge-title: Water Toxicity Sensor Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/water-toxicity-sensor-challenge/
 challenge-id: "1227"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/water-tox-challenge-logo.png
 agency-logo: /assets/netlify-uploads/epa_logo_blue1-341x105-.jpg
@@ -14,8 +14,8 @@ partner-agencies-federal: NOAA, USGS, US Army
 total-prize-offered-cash: $45,000
 type-of-challenge:
   - Ideas
-submission-start: 2021/04/27 7:00 AM
-submission-end: 2021/07/26 11:59 PM
+submission-start: 04/27/2021 7:00 AM
+submission-end: 07/26/2021 11:59 PM
 fiscal-year: FY21, FY22
 legal-authority: America COMPETES Act
 challenge-manager: Eunice Varughese & Ann Grimm
