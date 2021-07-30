@@ -28,14 +28,14 @@ legal-authority: Other
 challenge-manager: Carly Jackson
 challenge-manager-email: carly.jackson@navy.mil
 point-of-contact: charles.yetman@navy.mil
-body-content-uploads: /assets/netlify-uploads/ainetantx-ai-prize-challenge-operational-context-and-data-description-27july21.pdf
+body-content-uploads: /assets/netlify-uploads/ainetantx-ai-prize-challenge-operational-context-and-data-description-30july21.pdf
 description: >-
   #### IMPORTANT UPDATES:
 
 
   * Q&A (Last Updated: July 16, 2021): [Click here for Q&A]({{site.baseurl}}/assets/netlify-uploads/ainetantx-ai-prize-challenge-qa-16july21.pdf)
 
-  * [AI Prize Challenge Operational Context and Data Description]({{site.baseurl}}/assets/netlify-uploads/ainetantx-ai-prize-challenge-operational-context-and-data-description-27july21.pdf) (Added: July 27, 2021)		
+  * [AI Prize Challenge Operational Context and Data Description]({{site.baseurl}}/assets/netlify-uploads/ainetantx-ai-prize-challenge-operational-context-and-data-description-30july21.pdf) (Added: July 30, 2021)		
 
 
   #### Description
@@ -381,7 +381,7 @@ how-to-enter: |-
 #### IMPORTANT UPDATES:
 
 * Q&A (Last Updated: July 16, 2021): [Click here for Q&A]({{site.baseurl}}/assets/netlify-uploads/ainetantx-ai-prize-challenge-qa-16july21.pdf)
-* [AI Prize Challenge Operational Context and Data Description]({{site.baseurl}}/assets/netlify-uploads/ainetantx-ai-prize-challenge-operational-context-and-data-description-27july21.pdf) (Added: July 27, 2021)																								
+* [AI Prize Challenge Operational Context and Data Description]({{site.baseurl}}/assets/netlify-uploads/ainetantx-ai-prize-challenge-operational-context-and-data-description-30july21.pdf) (Added: July 30, 2021)																								
 
 ### Description
 
