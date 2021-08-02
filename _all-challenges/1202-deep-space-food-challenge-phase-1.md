@@ -4,7 +4,7 @@ challenge-title: Deep Space Food Challenge Phase 1
 layout: front-matter-data-markdownify-content
 permalink: /challenge/deep-space-food-challenge-phase1/
 challenge-id: "1202"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/dsf-full-color_resize.png
 agency-logo: /assets/netlify-uploads/717px-NASA_logo.png
@@ -17,8 +17,8 @@ type-of-challenge:
   - Creative (multimedia & design)
   - Ideas
   - Scientific
-submission-start: 2021/01/12 11:00 AM
-submission-end: 2021/07/30 6:00 PM
+submission-start: 01/12/2021 11:00 AM
+submission-end: 07/30/2021 6:00 PM
 fiscal-year: FY21
 legal-authority: Agency specific prize authority
 challenge-manager: Angela Herblet
