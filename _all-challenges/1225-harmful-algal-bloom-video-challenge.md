@@ -6,7 +6,7 @@ challenge-title: See a Bloom, Give it Room Urban Waters Edition – Harmful Alga
 layout: front-matter-data-markdownify-content
 permalink: /challenge/harmful-algal-bloom-video-challenge-urban-waters-edition/
 challenge-id: "1225"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/hab-video-challenge-social-media-banner.png
 agency-logo: /assets/netlify-uploads/256px-Environmental_Protection_Agency_logo.png
@@ -21,8 +21,8 @@ total-prize-offered-cash: $11,000
 type-of-challenge:
   - Creative (multimedia & design)
   - Scientific
-submission-start: 2021/04/22 01:00 PM
-submission-end: 2021/08/01 11:59 PM
+submission-start: 04/22/2021 01:00 PM
+submission-end: 08/01/2021 11:59 PM
 fiscal-year: FY21
 legal-authority: Other
 challenge-manager: Steve Schaff
