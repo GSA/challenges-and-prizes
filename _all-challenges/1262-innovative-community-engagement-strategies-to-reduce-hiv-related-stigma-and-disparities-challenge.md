@@ -582,7 +582,7 @@ The competition has three phases. All eligible submissions will be evaluated, an
 
 **Phase 1: Design of Concept**
 * Submission period begins: Monday, July 26, 2021 
-* Webinar: Thursday, August 19, 2021, 3:00 – 4:00 pm EDT. [Click here to register].(https://hhs.webex.com/hhs/j.php?RGID=r0b8e11035fd1c7d0a166c6082e98fc06).
+* Webinar: Thursday, August 19, 2021, 3:00 – 4:00 pm EDT. [Click here to register](https://hhs.webex.com/hhs/j.php?RGID=r0b8e11035fd1c7d0a166c6082e98fc06).
 * Submission period ends: Thursday, September 23, 2021 11:59 PM EDT
 * Winners announced: October 2021
 
