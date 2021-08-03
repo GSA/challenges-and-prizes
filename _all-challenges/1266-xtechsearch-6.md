@@ -320,6 +320,7 @@ how-to-enter: >-
 
   **Submission URL:** [https://www.arl.army.mil/xtechsearch/competitions/xtechsearch6.html ](https://www.arl.army.mil/xtechsearch/competitions/xtechsearch6.html)
 
+
   **Email:** [usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil](mailto:usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil)
 ---
 ### Description
