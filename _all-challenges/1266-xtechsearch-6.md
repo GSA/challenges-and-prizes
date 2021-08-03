@@ -383,6 +383,7 @@ The 20 xTechSearch 6 Finalists will be invited to participate in the optional xT
 The xTechSearch competition is voluntary and open to all entities that meet the eligibility requirements. There may be only one submission per eligible entity. The registration information and upload submission must be received by 5:00 PM ET on September 2, 2021. Submissions received after the deadline will not be considered.
 
 **Eligibility Requirements**
+
 The entities allowed to participate in this competition must be sole proprietors or small business concerns in accordance with Small Business Administration guidance under 13 Code of Federal Regulations § 121.201, or any entity willing and able to be registered as a small business in the United States (U.S.) if selected to participate in this competition.
 
 Each eligible entity: 
@@ -399,6 +400,7 @@ Technologies that fall exclusively within the portfolio of the U.S. Army Medical
 **Terms & Conditions**
 
 **Disclaimers**
+
 Registered participants shall be required to assume any and all risks and waive claims against the Federal Government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from their participation in this prize competition, whether the injury, death, damage, or loss arises through negligence or otherwise.
 
 Participants shall be required to obtain liability insurance or demonstrate financial responsibility, in amounts determined by the Army, for claims by— 
@@ -407,6 +409,7 @@ Participants shall be required to obtain liability insurance or demonstrate fina
 * Federal Government for damage or loss to Government property resulting from such an activity. 
 
 **Intellectual property**
+
 The Army is a strong proponent of deliberate intellectual property (IP) rights and management by the private sector and the DoD. 
 
 For the xTechSearch competition: 
@@ -461,6 +464,7 @@ xTechSearch is seeking novel, disruptive concepts and technology solutions with 
 **xTechSearch Application Process**
 
 ***Part 1:  Concept White Paper***
+
 All eligible entities are invited to submit a 2-page concept white paper outlining their technology, the potential impact on the Army, technology and concept viability, and descriptions of the dual-use technology applications for both the commercial and defense space.  Each concept white paper will be reviewed by an Army panel from the Army S&T ecosystem including Warfighter, acquisition, and research and development subject matter experts. Up to 50 applicants with the highest-ranking white papers will receive a prize of $5K and advance to Part 2: Technology Pitches.
 
 Concept white papers will be evaluated and ranked using the following Scoring Criteria (further details on each scoring dimension can be found on the xTechSearch registration page):
@@ -473,12 +477,14 @@ Concept white papers will be evaluated and ranked using the following Scoring Cr
 * Proposal Quality – 10%
 
 **Concept White Paper Submission Format**
+
 The xTechSearch Part 1 submission is a 2-page concept white paper.  Please adhere to the following requirements:
 
 * All concept white papers must be submitted using the template found on the Valid Eval registration page, *“xTechSearch_6_WhitePaper_Template.doc”.* **Any proposals submitted in a format other than that provided by the template will not be reviewed, please read all instructions on the first page of the template document carefully.** To submit your concept white paper visit the xTech website at [www.xtechsearch.army.mil]([www.xtechsearch.army.mil) and select the xTechSearch 6 tile to apply now. 
 * Please list your company name, and proposal title **EXACTLY** how you would like them to appear on any contest marketing materials, recommend clear and concise proposal titles to give readers and potential stakeholders understanding of how your technology would benefit the Army.
 
 ***Part 2:  Technology Pitches***
+
 Selected participants from Part 1 will be invited to conduct an in-person or virtual pitch to a panel of Army and DoD subject matter experts at locations across the United States. Participants will pitch their technology concept and team ability to a representative Army panel from the Army S&T ecosystem.  Each participant will have 15 minutes to pitch, followed by 10 minutes for questions and answers with the Army and DoD panel. Up to 20 participants with the highest-ranking pitch will receive a prize of $15K and a written invitation to attend the xTechSearch 6 Finals. 
 
 Technology Pitches will be evaluated and ranked using the following Scoring Criteria (further details on each scoring dimension and dimension weighting will be provided to all selected Part 2 participants):
@@ -492,15 +498,18 @@ Technology Pitches will be evaluated and ranked using the following Scoring Crit
 * Presentation Quality
 
 ***Part 3: Finals***
+
 Up to 20 Finalists will be invited to conduct Proof-of-Concept Demonstrations and present their transition plans to a panel of Army and DoD subject matter experts tentatively planned to be held at the 2022 AUSA Global Force Symposium and Exhibition in March 2022 in Huntsville, AL.  In addition, these Finalists will be provided Army-sponsored exhibit space at the AUSA Innovators’ Corner to engage with DoD customers, Army leadership, industry partners, and academia in attendance.
 
 Detailed instructions and evaluation criteria will be provided to the Finalists. Up to ten (10) small businesses based on their scores and feedback from the judging panel will receive a prize of $25K and a written invitation to submit a Phase I SBIR award of up to $250K.
 
 ***Part 4: Request for SBIR Phase I***
+
 A separate SBIR announcement will be issued with detailed instructions on how to submit the SBIR proposal materials. The ten (10) Finalists from Part 3 will be the only firms eligible to participate in Part 4 to submit a Phase I proposal under this announcement. Finalists invited to submit SBIR proposals will be notified and will receive detailed instructions upon selection. The SBIR proposal instructions and full Broad Agency Announcement can be found here: <https://beta.sam.gov/opp/23a3541bee074eea8deef2abcdf1bbef/view>
 
 **xTechSearch 6 Accelerator**
+
 The xTech Accelerator operated by FedTech is a 5-month, cohort-based program that the 20 xTechSearch Finalists can opt into. Each cohort is tailored to the group of Finalists around five (5) core pillars which include educational programming, diverse mentorship, venture building consulting, community building and strategic exposure. Additional details on the accelerator will be provided to the Finalists. 
 
 **Submission URL:** [https://www.arl.army.mil/xtechsearch/competitions/xtechsearch6.html ](https://www.arl.army.mil/xtechsearch/competitions/xtechsearch6.html)
-**Email:** <usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil>
+**Email:** [usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil](mailto:usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil)
