@@ -318,7 +318,7 @@ how-to-enter: >-
   The xTech Accelerator operated by FedTech is a 5-month, cohort-based program that the 20 xTechSearch Finalists can opt into. Each cohort is tailored to the group of Finalists around five (5) core pillars which include educational programming, diverse mentorship, venture building consulting, community building and strategic exposure. Additional details on the accelerator will be provided to the Finalists. 
 
 
-  **Submission URL:** [https://www.arl.army.mil/xtechsearch/competitions/xtechsearch6.html ](https://www.arl.army.mil/xtechsearch/competitions/xtechsearch6.html)
+  **Submission URL:** [https://www.arl.army.mil/xtechsearch/competitions/xtechsearch6.html ](https://www.arl.army.mil/xtechsearch/competitions/xtechsearch6.html)  
 
 
   **Email:** [usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil](mailto:usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil)
