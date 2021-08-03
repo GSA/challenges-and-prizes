@@ -272,7 +272,7 @@ how-to-enter: >-
   The xTechSearch Part 1 submission is a 2-page concept white paper.  Please adhere to the following requirements:
 
 
-  * All concept white papers must be submitted using the template found on the Valid Eval registration page, *“xTechSearch_6_WhitePaper_Template.doc”.* **Any proposals submitted in a format other than that provided by the template will not be reviewed, please read all instructions on the first page of the template document carefully.** To submit your concept white paper visit the xTech website at [www.xtechsearch.army.mil]([www.xtechsearch.army.mil) and select the xTechSearch 6 tile to apply now. 
+  * All concept white papers must be submitted using the template found on the Valid Eval registration page, *“xTechSearch_6_WhitePaper_Template.doc”.* **Any proposals submitted in a format other than that provided by the template will not be reviewed, please read all instructions on the first page of the template document carefully.** To submit your concept white paper visit the xTech website at [www.xtechsearch.army.mil](https://www.arl.army.mil/xtechsearch/) and select the xTechSearch 6 tile to apply now. 
 
   * Please list your company name, and proposal title **EXACTLY** how you would like them to appear on any contest marketing materials, recommend clear and concise proposal titles to give readers and potential stakeholders understanding of how your technology would benefit the Army.
 
@@ -481,7 +481,7 @@ Concept white papers will be evaluated and ranked using the following Scoring Cr
 
 The xTechSearch Part 1 submission is a 2-page concept white paper.  Please adhere to the following requirements:
 
-* All concept white papers must be submitted using the template found on the Valid Eval registration page, *“xTechSearch_6_WhitePaper_Template.doc”.* **Any proposals submitted in a format other than that provided by the template will not be reviewed, please read all instructions on the first page of the template document carefully.** To submit your concept white paper visit the xTech website at [www.xtechsearch.army.mil](www.xtechsearch.army.mil) and select the xTechSearch 6 tile to apply now. 
+* All concept white papers must be submitted using the template found on the Valid Eval registration page, *“xTechSearch_6_WhitePaper_Template.doc”.* **Any proposals submitted in a format other than that provided by the template will not be reviewed, please read all instructions on the first page of the template document carefully.** To submit your concept white paper visit the xTech website at [www.xtechsearch.army.mil](https://www.arl.army.mil/xtechsearch/) and select the xTechSearch 6 tile to apply now. 
 * Please list your company name, and proposal title **EXACTLY** how you would like them to appear on any contest marketing materials, recommend clear and concise proposal titles to give readers and potential stakeholders understanding of how your technology would benefit the Army.
 
 ***Part 2:  Technology Pitches***
