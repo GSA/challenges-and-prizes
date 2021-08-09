@@ -2,7 +2,7 @@
 date: 2021/07/30
 layout: post
 permalink: /blog/why-should-government-leaders-invest-in-open-innovation
-title: "Why should government leaders invest in open innovation? "
+title: "Why should government leaders invest in open innovation?"
 tagline: A podcast interview with Jarah Meador
 author: Quinn Slayton
 image: /assets/netlify-uploads/oi-podcast-sized.png
