@@ -4,7 +4,7 @@ challenge-title: NASA Entrepreneur's Challenge
 layout: front-matter-data-markdownify-content
 permalink: challenge/nasa-entrepreneur-challenge-2021/
 challenge-id: "1260"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/nasa-logo_resized-for-tile-image.png
 agency-logo: /assets/netlify-uploads/717px-NASA_logo.png
@@ -20,8 +20,8 @@ type-of-challenge:
   - Technology demonstration and hardware
   - Business plans
   - Analytics, visualizations, algorithms
-submission-start: 2021/07/12 08:00 AM
-submission-end: 2021/08/06 05:00 PM
+submission-start: 07/12/2021 08:00 AM
+submission-end: 08/06/2021 05:00 PM
 fiscal-year: FY21
 legal-authority: Agency specific prize authority
 challenge-manager: Nicole Rayl
