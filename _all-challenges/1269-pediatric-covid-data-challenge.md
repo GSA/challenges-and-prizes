@@ -6,7 +6,7 @@ permalink: /challenge/pediatric-covid19-data-challenge/
 challenge-id: "1269"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/pediatric-covid-19-severity-data-challenge_small.png
+card-image: /assets/netlify-uploads/pediatric-covid.png
 agency-logo: /assets/netlify-uploads/hhs-logo-resize-for-tile.png
 tagline: Help develop computational modules to predict children at risk for
   severe COVID-19 complications
