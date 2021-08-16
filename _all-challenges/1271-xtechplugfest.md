@@ -35,7 +35,7 @@ point-of-contact: "usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil  "
 ---
 # Description
 
-The Program Executive Office for Intelligence Electronic Warfare & Sensors (PEO IEW&S), Project Manager Positioning Navigation & Timing (PM PNT), the U.S. Army Combat Capabilities Development Command (DEVCOM) and the C5ISR (Command, Control, Computers, Communications, Cyber, Intelligence, Surveillance and Reconnaissance) Center, are pleased to announce the xTechPlugfest Competition also known as the PNT CMOSS Plugfest. The Army will host the PNT CMOSS Plugfest at the Open Innovation Lab (OIL) from **8 – 19 November 2021.** The OIL is a truly open collaborative space where industry, academia, and government can join forces to create the cutting edge of PNT technology (https://apntoil.army.mil/).
+The Program Executive Office for Intelligence Electronic Warfare & Sensors (PEO IEW&S), Project Manager Positioning Navigation & Timing (PM PNT), the U.S. Army Combat Capabilities Development Command (DEVCOM) and the C5ISR (Command, Control, Computers, Communications, Cyber, Intelligence, Surveillance and Reconnaissance) Center, are pleased to announce the xTechPlugfest Competition also known as the PNT CMOSS Plugfest. The Army will host the PNT CMOSS Plugfest at the Open Innovation Lab (OIL) from **8 – 19 November 2021.** The OIL is a truly open collaborative space where industry, academia, and government can join forces to create the cutting edge of PNT technology (<https://apntoil.army.mil/>).
 
 PEO IEW&S, PM PNT and DEVCOM C5ISR have partnered with the Assistant Secretary of the Army (Acquisition, Logistics, and Technology) (ASA(ALT)) to deliver this competition. The Army recognizes that it must continue enhancing engagements with eligible businesses by (1) understanding the spectrum of ‘world-class’ technologies being developed commercially that may benefit the Department of Defense (DoD) and (2) integrating the sector of commercial innovators into the DoD Science and Technology (S&T) ecosystem. PNT CMOSS Plugfest will allow for cooperation between eligible businesses and Army PNT stakeholders, provide for prize money, and enable government stakeholders to provide feedback to these businesses to help accelerate the transition of technology into the Army.
 
@@ -92,7 +92,7 @@ Total OTA Award Pool: TBD
 
 The PNT CMOSS Plugfest is voluntary and open to all eligible entities. Each eligible entity:
 
-* May not be a U.S. Federal government entity or employ a U.S. Federal employee acting within the scope of their employment.\
+* May not be a U.S. Federal government entity or employ a U.S. Federal employee acting within the scope of their employment.
 * Required to register in System for Award Management (SAM) and have or obtain an active CAGE code, DUNS number, and not be on the exclusions lists (debarred or suspended).  Instructions on how to obtain a CAGE code can be found on the competition registration page.
 
 **Terms & Conditions**
@@ -135,13 +135,11 @@ All PNT CARD applications must meet the following threshold requirements:
 Each PNT CARDS application meeting the threshold requirements will be evaluated based on their ability to meet the following characteristics: 
 
 * VICTORY Messaging and other compliance standards
-
   * Timing cards should use the Control Plane for the VICTORY Data Bus (VDB).
   * PNT systems should implement services to distribute PNT data for other client systems’ consumption: 
-
     * Position Service (POS) <VT50100-V1.9> 
     * Time Synchronization Service <VT50000-V1.9> 
-    * Orientation Service <VT50200-V1.9>\
+    * Orientation Service <VT50200-V1.9>
     * Direction of Travel Service <VT50300-V1.9> 
     * Assured PNT <VT61600-V1.9>
     * Global Positioning Service (GPS) Receiver < VT61000-V1.8-V1.9> or < VT61000-V1.4-V1.7>
@@ -171,6 +169,7 @@ All CHASIS applications must meet the following threshold requirements:
    b. SLT3-SWH-6F1U7U-14.4.14
 
 Each CHASIS application meeting the threshold requirements will be evaluated based on their ability to meet the following factors: 
+
 * Physical dimensions of the chassis
 * Estimated weight of chassis
 * Ruggedization of current chassis
@@ -190,8 +189,8 @@ The up-to five (5) winners selected from Part 2 will be the only entities eligib
 
 All eligible entities interested in applying to the PNT CMOSS Plugfest must first register for an account through the OIL website at <https://apntoil.army.mil/>. Registration can also be accessed through the xTech website at <https://www.xtechsearch.army.mil/>. 
 
-
 To register for an account on the OIL website, follow these steps:
+
 1. Go to the OIL Portal. (Through the OIL or xTechSearch websites) 
 2. Sign up for an account. 
 3. Log into the OIL Portal 
@@ -199,11 +198,10 @@ To register for an account on the OIL website, follow these steps:
 5. Select Registration for “PNT CMOSS Plugfest” 
 6. Complete the form in its entirety, check acknowledge box and select “Submit”
 
-
 The request for registration window will be open from **16 – 27 August 2021**. Confirmation of registration or feedback will be coordinated individually after the registration window has closed.
 
 **Submission URL or Email**
 
-
 <https://www.arl.army.mil/xtechsearch/competitions/xtechplugfest.html>
-Email: <usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil>
+
+Email: [usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil](mailto:usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil)
