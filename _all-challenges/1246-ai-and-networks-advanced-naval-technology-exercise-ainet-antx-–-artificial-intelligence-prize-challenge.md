@@ -5,7 +5,7 @@ challenge-title: AI and Networks Advanced Naval Technology Exercise (AINet ANTX)
 layout: front-matter-data-markdownify-content
 permalink: /challenge/networks-advanced-naval-technology-exercise-ainetantx-artificial-intelligence-prize-challenge/
 challenge-id: "1246"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/6-july-approved-antx-logo_resized.png
 agency-logo: /assets/netlify-uploads/sealnavy.png
@@ -21,8 +21,8 @@ type-of-challenge:
   - Ideas
   - Analytics, visualizations, algorithms
   - Scientific
-submission-start: "2021/06/11 "
-submission-end: 2021/08/13 03:00 PM
+submission-start: "06/11/2021 "
+submission-end: 08/13/2021 03:00 PM
 fiscal-year: FY22
 legal-authority: Other
 challenge-manager: Carly Jackson
