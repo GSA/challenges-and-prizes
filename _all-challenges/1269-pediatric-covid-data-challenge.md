@@ -209,17 +209,18 @@ BARDA is part of the office of the Assistant Secretary for Preparedness and Resp
 
 **Timeline**
 
-* **Aug. 10** - Onboarding phase
-* **Sep. 1** - Round 1
+* **Aug. 17** - Challenge opens for N3C registration
+* **Sep. 8** - Round 1 Begins
 * **Sep. 23** - End of Round 1
-* **Sep. 28** - Round 2
-* **Oct. 22** - End of Round 2
-* **Oct. 29** - Winners Announced
-* **Nov. 5** - Begin Collaboration Phase
+* **Oct. 5** - Round 2
+* **Oct. 29** - End of Round 2
+* **Nov. 4** - Winners Announced
+* **Nov. 10** - Collaboration Phase Begins
 
 # Prizes
 
 **Total Cash Prize Pool**
+
 * $200,000 split among up to three winners
 * Prize distribution will occur at the sole discretion of BARDA. 
 
