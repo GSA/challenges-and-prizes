@@ -13,7 +13,7 @@ tagline: xTechHBCU aims to engage with eligible institutions as defined below,
   Army challenges, earn prize money, network with Army program managers and
   provide potential funding opportunities to tackle Army challenges.
 agency: Department of Defense - U.S. Army
-total-prize-offered-cash: $975,000
+total-prize-offered-cash: $525,000
 type-of-challenge:
   - Software and apps
   - Ideas
