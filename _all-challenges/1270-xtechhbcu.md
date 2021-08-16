@@ -13,7 +13,7 @@ tagline: xTechHBCU aims to engage with eligible institutions as defined below,
   Army challenges, earn prize money, network with Army program managers and
   provide potential funding opportunities to tackle Army challenges.
 agency: Department of Defense - U.S. Army
-total-prize-offered-cash: $525,000
+total-prize-offered-cash: $975,000
 type-of-challenge:
   - Software and apps
   - Ideas
@@ -28,8 +28,6 @@ challenge-manager: Zeke Topolosky (for internal use only), Alex Mann
 challenge-manager-email: zeke.j.topolosky.civ@mail.mil, mann_alexandria@bah.com
 point-of-contact: "usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil  "
 description: >-
-  
-
   # Description
 
 
@@ -107,7 +105,8 @@ description: >-
 
   The Human Dimension Program supports multidisciplinary basic research in areas that include neural and cognitive sciences, behavioral and social sciences and human factors and neural engineering with an emphasis on modeling, predicting and enhancing human perceptual, cognitive, affective, physical, and social performance in individuals, groups and societies. An overarching goal of the program is to provide foundational knowledge of neural, biophysiological and cognitive-based mechanisms underlying individual, group and societal cognition and performance across multiple time scales. In the long term, research in this area may enable new training tools to predict and optimize cognitive/physical performance and team intelligence, interfaces enabling humans to more efficiently control machines and psychophysiologically-based predictive models of complex individual – societal dynamics. Basic research opportunities are sought in two primary research thrusts within this program: (i) Cognitive-Physical Interactions and (ii) Cognitive-Social Interactions.
 
-  Cognitive-Physical Interactions. The Cognitive-Physical Interactions thrust seeks to support high-risk seed projects that use multimodal approaches to uncover dynamic and multiscale interactions of neural-cognitive and physiological systems. The goal of this thrust area is to advance the experimental and analytical tools available to develop comprehensive understanding of the impact of group and individual state-trait variability on human performance, human-systems interfaces and team intelligence. Research topics are supported in diverse areas that can include the neurobiological mechanisms of expert skill learning, closed-loop brain-computer interfaces and novel mind-body interfaces such as the microbiome-gut-brain axis.
+
+  **Cognitive-Physical Interactions.** The Cognitive-Physical Interactions thrust seeks to support high-risk seed projects that use multimodal approaches to uncover dynamic and multiscale interactions of neural-cognitive and physiological systems. The goal of this thrust area is to advance the experimental and analytical tools available to develop comprehensive understanding of the impact of group and individual state-trait variability on human performance, human-systems interfaces and team intelligence. Research topics are supported in diverse areas that can include the neurobiological mechanisms of expert skill learning, closed-loop brain-computer interfaces and novel mind-body interfaces such as the microbiome-gut-brain axis.
 
 
   **Cognitive-Social Interactions.** The Cognitive-Social Interactions thrust seeks to develop new theories to understand the dynamic interrelationships between individual/group cognition, decision-making and the role that these influences play on interactions with large and small social systems. Multidisciplinary seed projects are supported that seek to advance the necessary analytical and experimental tools required to describe the underlying mechanistic interactions as they co-evolve in time and space. Research topics are supported in diverse areas that may include modeling the impact of mindfulness on state transitions of human cognitive, physical and social systems and describing the longitudinal neural, cognitive and social mechanisms mediating development of leadership, expertise and intelligent teams.
@@ -403,7 +402,8 @@ The Neurophysiology of Cognition program supports non-medically oriented basic r
 *Topic 4 (Life Sciences): Human Dimension*
 
 The Human Dimension Program supports multidisciplinary basic research in areas that include neural and cognitive sciences, behavioral and social sciences and human factors and neural engineering with an emphasis on modeling, predicting and enhancing human perceptual, cognitive, affective, physical, and social performance in individuals, groups and societies. An overarching goal of the program is to provide foundational knowledge of neural, biophysiological and cognitive-based mechanisms underlying individual, group and societal cognition and performance across multiple time scales. In the long term, research in this area may enable new training tools to predict and optimize cognitive/physical performance and team intelligence, interfaces enabling humans to more efficiently control machines and psychophysiologically-based predictive models of complex individual – societal dynamics. Basic research opportunities are sought in two primary research thrusts within this program: (i) Cognitive-Physical Interactions and (ii) Cognitive-Social Interactions.
-Cognitive-Physical Interactions. The Cognitive-Physical Interactions thrust seeks to support high-risk seed projects that use multimodal approaches to uncover dynamic and multiscale interactions of neural-cognitive and physiological systems. The goal of this thrust area is to advance the experimental and analytical tools available to develop comprehensive understanding of the impact of group and individual state-trait variability on human performance, human-systems interfaces and team intelligence. Research topics are supported in diverse areas that can include the neurobiological mechanisms of expert skill learning, closed-loop brain-computer interfaces and novel mind-body interfaces such as the microbiome-gut-brain axis.
+
+**Cognitive-Physical Interactions.** The Cognitive-Physical Interactions thrust seeks to support high-risk seed projects that use multimodal approaches to uncover dynamic and multiscale interactions of neural-cognitive and physiological systems. The goal of this thrust area is to advance the experimental and analytical tools available to develop comprehensive understanding of the impact of group and individual state-trait variability on human performance, human-systems interfaces and team intelligence. Research topics are supported in diverse areas that can include the neurobiological mechanisms of expert skill learning, closed-loop brain-computer interfaces and novel mind-body interfaces such as the microbiome-gut-brain axis.
 
 **Cognitive-Social Interactions.** The Cognitive-Social Interactions thrust seeks to develop new theories to understand the dynamic interrelationships between individual/group cognition, decision-making and the role that these influences play on interactions with large and small social systems. Multidisciplinary seed projects are supported that seek to advance the necessary analytical and experimental tools required to describe the underlying mechanistic interactions as they co-evolve in time and space. Research topics are supported in diverse areas that may include modeling the impact of mindfulness on state transitions of human cognitive, physical and social systems and describing the longitudinal neural, cognitive and social mechanisms mediating development of leadership, expertise and intelligent teams.
 
@@ -558,4 +558,4 @@ To receive prize money, entities are required to register in System for Award Ma
 
 <https://www.arl.army.mil/xtechsearch/competitions/xtechhbcu.html>
 
-Email: <usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil>
+Email: [usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil](mailto:usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@mail.mil)
