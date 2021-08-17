@@ -504,7 +504,7 @@ Each submission will be judged based on the following criteria with each judge p
 
 ### How to Enter
 
-**Stage 1 Open Date:** Submissions to Phase 1 of the NIWC Atlantic Prize challenge will be accepted from 19 August 2021 at 10:00 a.m. ET through 19 September 2021 at 11:00 p.m. ET. Entries received before and after the time slot will not be accepted.  The identified official representative (individual, team, or legal entity) may enter this challenge by sending an e-mail to [ptbsubmissions.fct@navy.mil ](mailto:ptbsubmissions.fct@navy.mil)with the subject line stating “NIWC Atlantic Prize Challenge 21 <INSERT TOPIC NAME>”.  Please provide a separate e-mail if submitting against more than one topic.
+**Stage 1 Open Date:** Submissions to Phase 1 of the NIWC Atlantic Prize challenge will be accepted from 19 August 2021 at 10:00 a.m. ET through 19 September 2021 at 11:00 p.m. ET. Entries received before and after the time slot will not be accepted.  The identified official representative (individual, team, or legal entity) may enter this challenge by sending an e-mail to [ptbsubmissions.fct@navy.mil ](mailto:ptbsubmissions.fct@navy.mil)with the subject line stating “NIWC Atlantic Prize Challenge 21: \[INSERT TOPIC NAME]”.  Please provide a separate e-mail if submitting against more than one topic.
 
 There shall be only one official participant representative for each topic submission. The official participant representative must provide a name and e-mail address and, by sending in the registration, and affirms on behalf of the solver (individual, team, or legal entity), that he or she has read and consents to be governed by the challenge rules.
 
