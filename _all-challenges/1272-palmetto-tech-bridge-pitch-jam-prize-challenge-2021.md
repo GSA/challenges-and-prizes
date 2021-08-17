@@ -318,7 +318,7 @@ how-to-enter: >-
   Prior to the closing date, e-mail the white paper to [ptbsubmissions.fct@navy.mil](mailto:ptbsubmissions.fct@navy.mil)
 
 
-  * The e-mail subject line must state “Palmetto Tech Bridge Prize Challenge 21: {INSERT TOPIC NAME}.”
+  * The e-mail subject line must state “Palmetto Tech Bridge Prize Challenge 21: \[INSERT TOPIC NAME].”
 
   * E-mail must come from the official representative for the team.
 
@@ -329,7 +329,7 @@ how-to-enter: >-
 
   **Stage 2 Oral Presentations:**
 
-  Any company receiving an invitation to provide an oral presentation at the CDCA Summit from 7-9 December 2021 will be required to submit slides and any read ahead information by 23 November 2021.  Any physical equipment needed for the private demonstration to the Government will need to be self-sufficient and able to be set up and break down within 15 minutes. For the Pitch Jam On-Site presentation, PowerPoint slide decks should have the file name: “Pitch Jam 2021: {COMPANY NAME}”. Any materials provided by participants not invited to present oral presentations will be discarded without review.
+  Any company receiving an invitation to provide an oral presentation at the CDCA Summit from 7-9 December 2021 will be required to submit slides and any read ahead information by 23 November 2021.  Any physical equipment needed for the private demonstration to the Government will need to be self-sufficient and able to be set up and break down within 15 minutes. For the Pitch Jam On-Site presentation, PowerPoint slide decks should have the file name: “Pitch Jam 2021: \[COMPANY NAME]”. Any materials provided by participants not invited to present oral presentations will be discarded without review.
 ---
 ### Description
 
@@ -514,10 +514,11 @@ There shall be only one official participant representative for each topic submi
 
 **Stage 1 Submission:** 
 Prior to the closing date, e-mail the white paper to [ptbsubmissions.fct@navy.mil](mailto:ptbsubmissions.fct@navy.mil)
-* The e-mail subject line must state “Palmetto Tech Bridge Prize Challenge 21: {INSERT TOPIC NAME}.”
+
+* The e-mail subject line must state “Palmetto Tech Bridge Prize Challenge 21: \[INSERT TOPIC NAME].”
 * E-mail must come from the official representative for the team.
 * All submissions must be in English.
 * Participants must not use government logos or official seals in their submissions and must not otherwise give an appearance of federal government endorsement.
 
 **Stage 2 Oral Presentations:**
-Any company receiving an invitation to provide an oral presentation at the CDCA Summit from 7-9 December 2021 will be required to submit slides and any read ahead information by 23 November 2021.  Any physical equipment needed for the private demonstration to the Government will need to be self-sufficient and able to be set up and break down within 15 minutes. For the Pitch Jam On-Site presentation, PowerPoint slide decks should have the file name: “Pitch Jam 2021: {COMPANY NAME}”. Any materials provided by participants not invited to present oral presentations will be discarded without review.
+Any company receiving an invitation to provide an oral presentation at the CDCA Summit from 7-9 December 2021 will be required to submit slides and any read ahead information by 23 November 2021.  Any physical equipment needed for the private demonstration to the Government will need to be self-sufficient and able to be set up and break down within 15 minutes. For the Pitch Jam On-Site presentation, PowerPoint slide decks should have the file name: “Pitch Jam 2021: \[COMPANY NAME]”. Any materials provided by participants not invited to present oral presentations will be discarded without review.
