@@ -26,7 +26,7 @@ type-of-challenge:
   - Technology demonstration and hardware
   - Business plans
 submission-start: 2021/06/15 12:00 AM
-submission-end: 2022/04/19 07:00 PM
+submission-end: 2022/04/19 05:00 PM
 fiscal-year: FY21, FY22
 legal-authority: Other
 challenge-manager: Rachel Romero
@@ -145,7 +145,7 @@ The U.S. Department of Energy Solar Decathlon® is a collegiate competition that
 
 Collegiate teams that compete in the annual Design Challenge create residential or commercial building designs that will be evaluated on how well they meet the nation’s rapidly evolving demand for innovative, cost-effective, quick-to-build, high-quality, resilient, grid-interconnected, efficient buildings that respond to targeted community needs. The program is excited to offer six different divisions: New Housing, Retrofit Housing, Attached Housing, Multifamily Building, Office Building, and Education Building. Teams can start planning now for the Solar Decathlon 2022 Design Challenge.
 
-The 2022 Design Challenge adds a new building Division—Retrofit Housing—and has combined other Divisions to better focus on improving the current building stock. In the Retrofit Housing Division, teams modify an existing dwelling that consists of one or two units. Through renovation, the building will reach zero energy construction through upgrades to systems, such as plumbing, electrical, mechanical, and envelope. Partnerships with building owners are also encouraged to develop zero energy designs for real building projects across the country and around the world.
+The [2022 Design Challenge](https://www.solardecathlon.gov/event/challenges-design.html) adds a new building Division—Retrofit Housing—and has combined other Divisions to better focus on improving the current building stock. In the Retrofit Housing Division, teams modify an existing dwelling that consists of one or two units. Through renovation, the building will reach zero energy construction through upgrades to systems, such as plumbing, electrical, mechanical, and envelope. Partnerships with building owners are also encouraged to develop zero energy designs for real building projects across the country and around the world.
 
 Details about the Design Challenge are available on the [Solar Decathlon website](https://www.solardecathlon.gov/2022/assets/pdfs/design-challenge-rules.pdf).
 
