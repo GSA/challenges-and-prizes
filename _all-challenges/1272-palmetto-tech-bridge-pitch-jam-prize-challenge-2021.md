@@ -63,7 +63,7 @@ description: >-
 
   1. If the Prize Challenge winners have previously done business with the US Government and have a CAGE (Commercial and Government Entity) code, the winner will be able to provide that information to the contest organizers.  The contest organizers will use it to complete the SF 1034, public voucher other than personnel.   The winner will then submit the completed voucher to vendor pay.  Vendor pay would then certify the payment.
 
-  2. If the winners do not already have a CAGE code, they need go to the System for Award Management (SAM) URL https://www.sam.gov/SAM/ to create an account and register their business.  Once they have the CAGE code, they would give the CAGE code to the contest organizers, who would use it to complete the SF 1034.
+  2. If the winners do not already have a CAGE code, they need go to the System for Award Management (SAM) URL [https://www.sam.gov/SAM/](https://www.sam.gov/SAM/) to create an account and register their business.  Once they have the CAGE code, they would give the CAGE code to the contest organizers, who would use it to complete the SF 1034.
 
 
   **Key Dates**
@@ -87,7 +87,7 @@ prizes: >-
   **Total Prizes:** $15,000 in cash and concessions valued at $30,000
 
 
-  NIWC Atlantic anticipates that two (2) prizes across two (2) challenge topics will be provided at one per topic each with a value of $7,500 payable to the Participant (Company, Academic Institution, or Team Lead for submission). Participants that are selected to participate in Stage II, will be invited to present an oral presentation at the Charleston Defense Contractors Association (CDCA) Summit in front of a Government judging panel. The cost of participating in Stage II (e.g., travel, hotel, etc.) will not be reimbursed by the Government and is the sole responsibility of the Participant. Additionally, selected participants will be provided two (2) complimentary Summit Exhibit Hall Passes to the 2021 CDCA Defense Summit provided by the CDCA with a value of $500 per company.  In addition, companies selected to present at the CDCA summit will receive from Advanced Technology International (ATI) a credit for membership in up to five (5) 10 USC § 2371b consortia’s managed by Advanced Technology International (ATI) with a value of approximately $2,500 per company.  Participants are encouraged to visit the CDCA website (https://www.charlestondca.org/14th-annual-cdca-defense-summit) for more Summit details and additional information on obtaining full Summit access. 
+  NIWC Atlantic anticipates that two (2) prizes across two (2) challenge topics will be provided at one per topic each with a value of $7,500 payable to the Participant (Company, Academic Institution, or Team Lead for submission). Participants that are selected to participate in Stage II, will be invited to present an oral presentation at the Charleston Defense Contractors Association (CDCA) Summit in front of a Government judging panel. The cost of participating in Stage II (e.g., travel, hotel, etc.) will not be reimbursed by the Government and is the sole responsibility of the Participant. Additionally, selected participants will be provided two (2) complimentary Summit Exhibit Hall Passes to the 2021 CDCA Defense Summit provided by the CDCA with a value of $500 per company.  In addition, companies selected to present at the CDCA summit will receive from Advanced Technology International (ATI) a credit for membership in up to five (5) 10 USC § 2371b consortia’s managed by Advanced Technology International (ATI) with a value of approximately $2,500 per company.  Participants are encouraged to visit the [CDCA website](https://www.charlestondca.org/14th-annual-cdca-defense-summit) for more Summit details and additional information on obtaining full Summit access. 
 
 
   For additional information on the CDCA Summit please visit: [CDCA Defense Summit — CDCA (charlestondca.org)](https://www.charlestondca.org/cdca-summit-14)
@@ -300,7 +300,7 @@ how-to-enter: >-
   (individual, team, or legal entity) may enter this challenge by sending an
   e-mail to [ptbsubmissions.fct@navy.mil
   ](mailto:ptbsubmissions.fct@navy.mil)with the subject line stating “NIWC
-  Atlantic Prize Challenge 21 <INSERT TOPIC NAME>”.  Please provide a separate
+  Atlantic Prize Challenge 21: INSERT TOPIC NAME”.  Please provide a separate
   e-mail if submitting against more than one topic.
 
 
@@ -318,7 +318,7 @@ how-to-enter: >-
   Prior to the closing date, e-mail the white paper to [ptbsubmissions.fct@navy.mil](mailto:ptbsubmissions.fct@navy.mil)
 
 
-  * The e-mail subject line must state “Palmetto Tech Bridge Prize Challenge 21: \[INSERT TOPIC NAME].”
+  * The e-mail subject line must state “Palmetto Tech Bridge Prize Challenge 21: INSERT TOPIC NAME.”
 
   * E-mail must come from the official representative for the team.
 
@@ -329,7 +329,7 @@ how-to-enter: >-
 
   **Stage 2 Oral Presentations:**
 
-  Any company receiving an invitation to provide an oral presentation at the CDCA Summit from 7-9 December 2021 will be required to submit slides and any read ahead information by 23 November 2021.  Any physical equipment needed for the private demonstration to the Government will need to be self-sufficient and able to be set up and break down within 15 minutes. For the Pitch Jam On-Site presentation, PowerPoint slide decks should have the file name: “Pitch Jam 2021: \[COMPANY NAME]”. Any materials provided by participants not invited to present oral presentations will be discarded without review.
+  Any company receiving an invitation to provide an oral presentation at the CDCA Summit from 7-9 December 2021 will be required to submit slides and any read ahead information by 23 November 2021.  Any physical equipment needed for the private demonstration to the Government will need to be self-sufficient and able to be set up and break down within 15 minutes. For the Pitch Jam On-Site presentation, PowerPoint slide decks should have the file name: “Pitch Jam 2021: INSERT COMPANY NAME”. Any materials provided by participants not invited to present oral presentations will be discarded without review.
 ---
 ### Description
 
@@ -355,7 +355,7 @@ Alternative strategy to provide Position Navigation and Timing (PNT) inputs in e
 Prizes will be distributed to the eligible winners via electronic funds transfer (EFT), within 90 business days of the announcement of the winner(s).  NIWC Atlantic will distribute the funds evenly to all team members. Eligibility to receive an award is based upon the participant’s adherence to all rules for this Challenge. Funding for this Challenge will come from both overhead and direct funding.
 
 1. If the Prize Challenge winners have previously done business with the US Government and have a CAGE (Commercial and Government Entity) code, the winner will be able to provide that information to the contest organizers.  The contest organizers will use it to complete the SF 1034, public voucher other than personnel.   The winner will then submit the completed voucher to vendor pay.  Vendor pay would then certify the payment.
-2. If the winners do not already have a CAGE code, they need go to the System for Award Management (SAM) URL https://www.sam.gov/SAM/ to create an account and register their business.  Once they have the CAGE code, they would give the CAGE code to the contest organizers, who would use it to complete the SF 1034.
+2. If the winners do not already have a CAGE code, they need go to the System for Award Management (SAM) URL [https://www.sam.gov/SAM/ ](https://www.sam.gov/SAM/)to create an account and register their business.  Once they have the CAGE code, they would give the CAGE code to the contest organizers, who would use it to complete the SF 1034.
 
 **Key Dates**
 
@@ -370,7 +370,7 @@ Prizes will be distributed to the eligible winners via electronic funds transfer
 
 **Total Prizes:** $15,000 in cash and concessions valued at $30,000
 
-NIWC Atlantic anticipates that two (2) prizes across two (2) challenge topics will be provided at one per topic each with a value of $7,500 payable to the Participant (Company, Academic Institution, or Team Lead for submission). Participants that are selected to participate in Stage II, will be invited to present an oral presentation at the Charleston Defense Contractors Association (CDCA) Summit in front of a Government judging panel. The cost of participating in Stage II (e.g., travel, hotel, etc.) will not be reimbursed by the Government and is the sole responsibility of the Participant. Additionally, selected participants will be provided two (2) complimentary Summit Exhibit Hall Passes to the 2021 CDCA Defense Summit provided by the CDCA with a value of $500 per company.  In addition, companies selected to present at the CDCA summit will receive from Advanced Technology International (ATI) a credit for membership in up to five (5) 10 USC § 2371b consortia’s managed by Advanced Technology International (ATI) with a value of approximately $2,500 per company.  Participants are encouraged to visit the CDCA website (https://www.charlestondca.org/14th-annual-cdca-defense-summit) for more Summit details and additional information on obtaining full Summit access. 
+NIWC Atlantic anticipates that two (2) prizes across two (2) challenge topics will be provided at one per topic each with a value of $7,500 payable to the Participant (Company, Academic Institution, or Team Lead for submission). Participants that are selected to participate in Stage II, will be invited to present an oral presentation at the Charleston Defense Contractors Association (CDCA) Summit in front of a Government judging panel. The cost of participating in Stage II (e.g., travel, hotel, etc.) will not be reimbursed by the Government and is the sole responsibility of the Participant. Additionally, selected participants will be provided two (2) complimentary Summit Exhibit Hall Passes to the 2021 CDCA Defense Summit provided by the CDCA with a value of $500 per company.  In addition, companies selected to present at the CDCA summit will receive from Advanced Technology International (ATI) a credit for membership in up to five (5) 10 USC § 2371b consortia’s managed by Advanced Technology International (ATI) with a value of approximately $2,500 per company.  Participants are encouraged to visit the [CDCA website](https://www.charlestondca.org/14th-annual-cdca-defense-summit) for more Summit details and additional information on obtaining full Summit access. 
 
 For additional information on the CDCA Summit please visit: [CDCA Defense Summit — CDCA (charlestondca.org)](https://www.charlestondca.org/cdca-summit-14)
 
@@ -504,7 +504,7 @@ Each submission will be judged based on the following criteria with each judge p
 
 ### How to Enter
 
-**Stage 1 Open Date:** Submissions to Phase 1 of the NIWC Atlantic Prize challenge will be accepted from 19 August 2021 at 10:00 a.m. ET through 19 September 2021 at 11:00 p.m. ET. Entries received before and after the time slot will not be accepted.  The identified official representative (individual, team, or legal entity) may enter this challenge by sending an e-mail to [ptbsubmissions.fct@navy.mil ](mailto:ptbsubmissions.fct@navy.mil)with the subject line stating “NIWC Atlantic Prize Challenge 21: \[INSERT TOPIC NAME]”.  Please provide a separate e-mail if submitting against more than one topic.
+**Stage 1 Open Date:** Submissions to Phase 1 of the NIWC Atlantic Prize challenge will be accepted from 19 August 2021 at 10:00 a.m. ET through 19 September 2021 at 11:00 p.m. ET. Entries received before and after the time slot will not be accepted.  The identified official representative (individual, team, or legal entity) may enter this challenge by sending an e-mail to [ptbsubmissions.fct@navy.mil ](mailto:ptbsubmissions.fct@navy.mil)with the subject line stating “NIWC Atlantic Prize Challenge 21: INSERT TOPIC NAME”.  Please provide a separate e-mail if submitting against more than one topic.
 
 There shall be only one official participant representative for each topic submission. The official participant representative must provide a name and e-mail address and, by sending in the registration, and affirms on behalf of the solver (individual, team, or legal entity), that he or she has read and consents to be governed by the challenge rules.
 
@@ -515,10 +515,10 @@ There shall be only one official participant representative for each topic submi
 **Stage 1 Submission:** 
 Prior to the closing date, e-mail the white paper to [ptbsubmissions.fct@navy.mil](mailto:ptbsubmissions.fct@navy.mil)
 
-* The e-mail subject line must state “Palmetto Tech Bridge Prize Challenge 21: \[INSERT TOPIC NAME].”
+* The e-mail subject line must state “Palmetto Tech Bridge Prize Challenge 21: INSERT TOPIC NAME.”
 * E-mail must come from the official representative for the team.
 * All submissions must be in English.
 * Participants must not use government logos or official seals in their submissions and must not otherwise give an appearance of federal government endorsement.
 
 **Stage 2 Oral Presentations:**
-Any company receiving an invitation to provide an oral presentation at the CDCA Summit from 7-9 December 2021 will be required to submit slides and any read ahead information by 23 November 2021.  Any physical equipment needed for the private demonstration to the Government will need to be self-sufficient and able to be set up and break down within 15 minutes. For the Pitch Jam On-Site presentation, PowerPoint slide decks should have the file name: “Pitch Jam 2021: \[COMPANY NAME]”. Any materials provided by participants not invited to present oral presentations will be discarded without review.
+Any company receiving an invitation to provide an oral presentation at the CDCA Summit from 7-9 December 2021 will be required to submit slides and any read ahead information by 23 November 2021.  Any physical equipment needed for the private demonstration to the Government will need to be self-sufficient and able to be set up and break down within 15 minutes. For the Pitch Jam On-Site presentation, PowerPoint slide decks should have the file name: “Pitch Jam 2021: INSERT COMPANY NAME”. Any materials provided by participants not invited to present oral presentations will be discarded without review.
