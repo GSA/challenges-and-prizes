@@ -10,7 +10,7 @@ card-image: /assets/netlify-uploads/palmetto-tech-bridge_resize.png
 agency-logo: /assets/netlify-uploads/niwc-lant-logo-1-black-letters_300dpi.png
 tagline: Seeking innovative technology concepts for Multilevel Security (MLS)
   and Assured Position Navigation and Timing (PNT)
-agency: Naval Information Warfare Center (NIWC), Atlantic
+agency: "Naval Information Warfare Center (NIWC), Atlantic  "
 total-prize-offered-cash: $15,000
 type-of-challenge:
   - Software and apps
