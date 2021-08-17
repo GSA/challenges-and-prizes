@@ -71,3 +71,121 @@ For additional information on the CDCA Summit please visit: [CDCA Defense Summit
 For additional information on ATI Managed Consortia’s, please visit: [Advanced Technology International (ATI) - ATI: Advanced Technology International](https://www.ati.org/)
 
 ### Rules
+
+For the purposes of this Prize Challenge, a Participant is considered a Company, an Academic Institution, or a Team.  Each Participant is only permitted one entry per topic. Team entries must have a lead identified as the primary point of contact and prize recipient. By submitting an entry, a Participant authorizes their entity’s name to be released to the media.
+
+**Stage 1 Submission Requirements:**
+Submissions should be in the form of a White Paper. White papers should provide an overview of the proposed technology and technical approach (e.g., architecture, deployment overview, algorithm description, model description, performance requirements, endpoint footprint, existing results, etc.), the benefits and novelty of the approach within the context of existing academic and commercially available technologies, and the dependencies necessary to operate the proposed technology.  White papers must be submitted in Microsoft (MS) Word or Adobe Acrobat Portable Document Files (PDF), three (3) to five (5) pages in length (inclusive of diagrams), on 8.5” x 11”, 1” Margins and no less than 10 point Arial or Times New Roman font.  Please note that if the submission is not consistent with these guidelines and deemed to be difficult to read, the submission will be disqualified with no additional consideration. In addition, only a single submission may be allowed per topic per participant.
+
+**Stage 2 Submission Requirements:**
+Participants invited to present oral presentations at the CDCA Summit will be required to RVSP within seven (7) business days of the Government invitation. Submission requirements for each of the two presentations are as follows:
+
+* ***Presentation 1: Pitch Jam On Stage at CDCA Summit*** – The participant should plan on no more than a 10-minute presentation. There will not be a question and answer session for this presentation. The audience will be made up of both CDCA Conference attendees and Government representatives. Presentations are limited to PowerPoint slides only. No videos, audio files, live demonstrations, or physical products will be permitted. A CDCA Summit representative will reach out to the Participant prior to the presentation to coordinate facility access and logistics for the event. Electronic briefing products should be provided in advance of the CDCA Summit (19 November 2021). The participant may only present the slide deck submitted in advance of the CDCA Summit.
+* ***Presentation 2: Private Orals with the Government*** - The participant should plan on no more than a 30-minute presentation with an additional allocated 15 minute question and answer period by the government judging panel. Only the participants and Government representatives will be present for this presentation. Oral presentations can include a technology demonstration, technology briefing material, and marketing materials or a combination of the aforementioned artifacts.  Facility space is limited and the Participant will need to plan for no more than 15 minutes for set up and 15 minutes for take down and be self-sufficient.  A Prize Challenge representative will reach out to the Participant at the time of Oral Presentation Demonstration to coordinate facility access. The participant will be given no more than 30 minutes to present.  Electronic briefing products should be provided in advance of the CDCA Summit (19 November 2021). The participant may present any materials relevant to the oral presentation and topic.
+
+*Note:  All technology assertions in support of this Prize Challenge must be compliant with Section 889 of the National Defense Authorization Act for Fiscal Year 2019.  The following statement must be present within the white paper: “I, submitter of this White Paper, asserts that they are compliant with Section 889.”*
+
+**Eligibility to Participate:**
+
+* There shall be one (1) official participant representative for each challenge registration. The official representative must provide a name and e-mail address and, by sending the registration, affirms on behalf of the solver (individual, team, or legal entity), that he or she has read and consents to be governed by the challenge rules.
+* There shall be no more than two (2) participants per team if selected to present a Stage II Oral presentation.
+* At the time of registration, all Participants including the official representative (whether an individual, team, or legal entity) must be age 18 or older.
+* As determined by NIWC Atlantic, any violation of these rules will be grounds for disqualification from the challenge.
+* Multiple individuals and/or legal entities may collaborate as a Participant to submit a single entry, in which case the designated Official Representative will be responsible for meeting all entry and judging panel requirements.
+* Participation is subject to all U.S. federal, state, local, and country of residence laws and regulations.
+* Participants must not be suspended, debarred, or otherwise excluded from doing business with the federal government. An individual or entity that is determined to be on the GSA Excluded Parties List System (www.sam.gov) is ineligible to participate. Individuals entering on behalf of or representing a company, institution or other legal entity are also responsible for confirming that their entry does not violate any policies of that company, institution or legal entity.
+* As a condition of participation, all Participants must agree to indemnify the federal government against third-party claims for damages arising from or related to challenge activities. Entrants are not required to obtain liability insurance or demonstrate financial responsibility in order to participate in the challenge. By entering the challenge, Participants agree to hold NIWC Atlantic harmless from all legal and administrative claims to include associated expenses that may arise from any claims related to their challenge solution or its use.
+* Federal grantees may not use federal funds to develop challenge solutions unless consistent with the purpose of their grant award.
+* Federal contractors may not use federal funds from a contract to develop challenge solutions or to fund efforts in support of a challenge entry.
+* Participants may not be a federal entity or federal employee acting within the scope of their employment.
+* Federal government employees are not eligible to participate as a Participant, a participant’s personnel or a participant’s team member personnel in this challenge.
+
+**Eligibility to Win a Cash Prize:**
+
+To be eligible for a cash prize:
+
+* At the time of submission of the white papers in Stage 1, including the official representative (individual, team, or legal entity) must be age 18 or older.
+* An individual, whether participating singly or in a group, shall be a citizen or permanent resident of the United States.
+* In the case of a private entity that is participating as a solver or as part of a solver team, the business must be incorporated in and maintain a primary place of business in the United States or its territories.
+* Payments to the winning teams will be made via electronic funds transfer (EFT). 
+* A Participant shall not be deemed ineligible because the solver consulted with federal employees in preparing its submission for this NIWC Atlantic if the federal employees are made available to all Participants on an equitable basis. Participants may use any public-facing websites or publicly available federal government resources, as well as all resources provided to the challenge Participants on an equitable basis.
+* The official representative for each challenge entry shall follow the steps listed below under “Submission Guidelines” in advance of the submission end date (December 6th, 2020 11:00 PM ET).  
+
+**Data Provided:**
+
+NIWC Atlantic requires Government Purpose Rights (GPR) on submitted artifacts.  The judging panel team does plan to retain entries after the Challenge is completed in order to help shape future technology decisions.  By accepting these Terms and Conditions, the Participant consents to the use of data submitted for use within Government Purposes only.
+
+Because of the number of anticipated Challenge entries, NIWC Atlantic cannot and will not make determinations on whether or not third-party technologies in the Challenge submissions have protectable intellectual property (IP) interests. By participating in this Challenge, each Participant (whether participating individually, as a team, or as a commercial entity) warrants and assures the Government that any data used for the purpose of submitting an entry for this Challenge, were obtained legally and through authorized access to such data. By entering the Challenge and submitting the Challenge materials, the Participant agrees to indemnify and hold the Government harmless against any claim, loss or risk of loss for patent or copyright infringement with respect to such third-party interests.
+
+Any applicable ownership of IP in the submission will remain with the solver. By participating in the challenge the solver is not transferring any exclusive IP rights in applicable patents, pending patent applications, or copyrights in connection with the submission. However, by entering the submission, the solver agrees to grant the federal government certain license rights, as set forth in this section.
+
+Namely, the solver grants the government the right to review the submission, to publicly describe the submission in any materials created in connection with this challenge, to screen and evaluate the submission, and to have the judges, the Challenge administrators, and the designees of any of them review the submission. The government is also granted the right to publicize Solver names and, as applicable, the names of solver team members and/or organizations that participated in the submission following the conclusion of the challenge.
+
+This Challenge does not replace or supersede any other written contracts and/or written challenges that the Participant has or will have with the Government, which may require delivery of any materials the Participant is submitting herein for this Challenge effort.
+
+This Challenge constitutes the entire understanding of the parties with respect to the Challenge. NIWC Atlantic may update the terms of the Challenge from time to time without notice. Participants are strongly encouraged to check the website frequently.
+
+If any provision of this Challenge is held to be invalid or unenforceable under applicable federal law, it will not affect the validity or enforceability of the remainder of the Terms and Conditions of this Challenge.
+
+**Terms and Conditions**
+
+* This challenge shall be performed in accordance with the 10 U.S.C. § 2374a, as amended.
+* All challenges are subject to all applicable federal laws and regulations. Participation constitutes full and unconditional agreement to these official rules and administrative decisions, which are final and binding in all matters related to the challenge.
+* Eligibility for a cash prize is contingent upon fulfilling all requirements set forth herein. This notice is not an obligation of funds; the final award of prizes is contingent upon the availability of appropriations and receiving suitable entries.
+* This NIWC Atlantic challenge is voluntary and open to all entities that meet the eligibility requirements. There may be only one submission (“Submission”) per eligible entity per topic. Submissions must be received before the deadline indicated (September 15, 2021, 11:00 PM ET), if any submissions are received after the deadline they will not be considered.
+* A Challenge entry constitutes an agreement to adhere to the challenge rules, terms and conditions set forth by the challenge sponsor, NIWC Atlantic.
+* Participants must meet the eligibility requirements described in the Eligibility section, to participate and/or win a cash prize.
+* Any Participant or entry found in violation of any rule will be disqualified at NIWC Atlantic’s sole discretion.
+* Each individual or Participant team certifies, through entry to the contest, that the entry is his/her own original, creative work and does not violate or infringe upon the creative work of others, as protected under applicable intellectual property (IP) law.
+* Each Participant certifies, through entry to the challenge, that any submission by the official representative does not contain any harmful computer code (sometimes referred to as “malware,” “viruses,” or “worms”).
+* By entering the challenge, the Participants agree to hold NIWC Atlantic harmless from all legal and administrative claims to include associated expenses that may arise from any claims related to their entry or its use.
+* All judging panel decisions are final and may not be appealed.
+* All cash prizes awarded by NIWC Atlantic to Participants are subject to tax liabilities, and no withholding will be assessed by NIWC Atlantic on behalf of the solver claiming a cash prize.
+* NIWC Atlantic reserves the right for any reason, including but not limited to an insufficient number of qualified entries, to modify or cancel the challenge at any time during the duration of the challenge.
+* All Participants agree that they, their heirs and estates agree to assume any and all risks and waive claims against the federal government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from their participation in a prize challenge, whether the injury, death, damage, or loss arises through negligence or otherwise.
+* By participating in the challenge, each solver agrees to comply with and abide by all NIWC Atlantic challenge rules, terms, and conditions, and the decisions of Atlantic and/or the individual judges, which shall be final and binding in all respects.
+
+**Ownership**
+
+* The winners of a cash prize for the Challenge (collectively, “Winners”) may be featured on Federal websites, in newsletters, social media, and in other print and electronic outreach, as well as Charleston Defense Contractors Association media releases.
+* Except where prohibited, participation in the challenge constitutes the consent of each winner to the government’s and its agents’ use of each winner’s name, likeness, photograph, voice, opinions, public summary, and/or hometown and state information for promotional purposes through any form of media, worldwide, without further permission, payment, or consideration.
+* Finally, the government will continue to communicate the resulting winner’s solution only if it continues to deliver mutual benefit to the government in achieving its mission to provide relevant services. In order to measure this and continue to improve programs and services, the Solver or Solver team must share platform use data with the government.
+
+### Judging Criteria
+
+**Judging Panel**
+
+Submissions that comply with the challenge requirements will be reviewed by a panel of judges consisting of Government Representatives. Entries will be scored by a panel of judges with a resident knowledge of the Technology Challenge topic.  One Judging Panel will be assigned per Challenge Topic and will judge only the topic in which they are assigned.
+
+**Judging Criteria**
+
+Each submission will be judged based on the following criteria with each judge panel independently scoring the solution on a scale of 1-5 and then calculated into a weighted percentage as detailed below. A score of “1” indicates that the submission received the lowest consideration based on the scoring criteria below whereas a score of “5” would indicate that the submission is considered the highest of interest to the Government. The winner will be determined by averaging all judges’ scores and calculating the highest scoring solution.
+
+**Stage 1 Judging Considerations:**
+
+***Technical Approach (1/3rd of scoring)***
+* The solution provides a novel approach to the Challenge topic in accordance with one or both of the following:
+  * The technology approach provides a new approach using existing commercial application not commonly found within the Department of the Navy
+  * The technology approach provides a new concept not widely used within a commercial application.
+* The description of the technology approach provides a comprehensive description with supportive data, methods, and supportive technologies used towards a solution.
+* The description of the technical approach is written in a manner that is legible and easy to read. 
+
+***Applicability for use within the Department of Navy Construct (1/3rd of scoring)***
+* How can the technology be applied in a Naval Environment.  Examples include but are not limited to and nor specifically graded against:
+  * Naval Enterprise
+  * Surface Ship/Shore/Sub Surface applicability
+  * Marine Air Ground Task Force (MAGTF)
+  * Command and Control
+  * Battle Space Awareness
+  * Cyber Warfare
+* The technology solution is realistic for use in a Naval Environment.
+
+***Creativity and Innovation (1/3rd of scoring)***
+* Provides an innovative approach to solve the challenge presented.
+* Provides creative resolutions in overcoming other barriers or impediments from being applied within a Naval environment.
+
+**Stage 2 Judging Considerations:**
+
+***Quality of Oral Presentation*** 
+* For the Government Audience oral presentation, the presentation/demonstration of the solution clearly provides a high-level view of its functionality, purpose and usage as applied to the prize challenge topic.
+* For the Innovation Pitch Jam On-Site presentation, the presentation of the solution clearly provides an innovative solution that will best resonate with attendees of the Defense Summit. At the completion of all presentations on a specific topic, Defense Summit audience members will vote on the presentation they felt was the strongest. The presentation with the most votes in each topic area will be awarded the People’s Choice Award.  
