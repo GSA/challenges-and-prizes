@@ -1,6 +1,6 @@
 ---
 title: 2021 Start a SUD Startup Challenge
-challenge-title: 2021 "$1000,000 for Start a SUD Startup" Challenge
+challenge-title: 2021 "$100,000 for Start a SUD Startup" Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/2021-start-a-sud-startup-challenge/
 challenge-id: "1274"
