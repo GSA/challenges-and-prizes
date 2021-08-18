@@ -174,7 +174,8 @@ how-to-enter: >-
     * **Team Technical Competence and Research Experience.** Convince the Challenge judges of your technical competence. Be brief, persuasive, and only present the relevant information. Do not use the NIH Bibliographic Sketch format. (0.5 page)
     * **Prototype Description and Step-by-Step Use of Final Product, as Envisioned.** Describe, in as many details as possible, what the prototype of your envisioned product would look like. Then, walk the Challenge judges through the typical use of the product, using simple terms and instructions. (1.5 pages)
     * **Need Validation.** Explain the methods you will use (how, when, where, whom) to determine whether the product is needed by the target customer and whether that end user/customer would be willing to pay for the product. (1 page)
-  * Video. A brief 5-minute video must be posted to YouTube and the link to the video provided. In contrast to the proposal, the video is intended to introduce the team, not the research idea. The team and its people are the most important evaluation criteria for entrepreneurial success. 
+
+  * **Video.** A brief 5-minute video must be posted to YouTube and the link to the video provided. In contrast to the proposal, the video is intended to introduce the team, not the research idea. The team and its people are the most important evaluation criteria for entrepreneurial success. 
 
     ***In the YouTube video:*** 
 
@@ -285,7 +286,8 @@ Each submission for this Challenge requires a complete Submission Package. The S
   * **Team Technical Competence and Research Experience.** Convince the Challenge judges of your technical competence. Be brief, persuasive, and only present the relevant information. Do not use the NIH Bibliographic Sketch format. (0.5 page)
   * **Prototype Description and Step-by-Step Use of Final Product, as Envisioned.** Describe, in as many details as possible, what the prototype of your envisioned product would look like. Then, walk the Challenge judges through the typical use of the product, using simple terms and instructions. (1.5 pages)
   * **Need Validation.** Explain the methods you will use (how, when, where, whom) to determine whether the product is needed by the target customer and whether that end user/customer would be willing to pay for the product. (1 page)
-* Video. A brief 5-minute video must be posted to YouTube and the link to the video provided. In contrast to the proposal, the video is intended to introduce the team, not the research idea. The team and its people are the most important evaluation criteria for entrepreneurial success. 
+
+* **Video.** A brief 5-minute video must be posted to YouTube and the link to the video provided. In contrast to the proposal, the video is intended to introduce the team, not the research idea. The team and its people are the most important evaluation criteria for entrepreneurial success. 
 
   ***In the YouTube video:*** 
   * In one minute or less, tell NIDA who on your team is the lead “hacker,” also known as technical lead, with the skills to develop your product and to focus on the available technology options and requirements.
