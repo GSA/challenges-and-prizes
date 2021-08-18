@@ -443,7 +443,6 @@ A total of $50,000 will be awarded by the Census Bureau to exceptional digital p
 * One (1) Runner up prize: **$15,000**
 * One (1) Student prize (*\* student teams are also eligible for grand prize and runner up; student prize only open to those who can demonstrate student status*)**:** **$10,000**
 * Subcategory: 
-
   * One (1) to Five (5) prizes totaling **$50,000:** The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on reducing marine/ocean plastic pollution and/or creating markets for recycled materials.
   * One (1) Prize of **$10,000**: The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on helping the public understand the impact of transportation emissions on air quality. 
 * Additional in-kind (non-monetary) prizes may be announced.
@@ -595,19 +594,16 @@ Each submission will be scored by multiple reviewers on the following five (5) c
   * Has the product been tested and iterated upon based on feedback from end users?
   * Do the partner organizations/collaborating end user represent diverse perspectives within the overall user audience? Does the product account for diverse needs across the user community and offer a solution that is inclusive of many end users within the target audience?
 * **Use of Federal Open Data (25%):** This score focuses on the extent to which the product uses federal open data creatively and effectively. This includes questions such as: 
-
   * Does the product meaningfully use federal open data sets from the Census Bureau and other federal agencies to solve a problem or deliver value for the end user?
   * Does it creatively align federal data alongside state, local, or other types of data? 
   * Does the product present or analyze the data in a new creative way?
 * **Implementation + Sustainability (20%):** This score focuses on the team’s stated or demonstrated plans for deploying the tool to end users or an existing user base. This includes questions such as: 
-
   * Does this team have established partnership(s) or relationship(s) with the end user community? 
   * Does the product have a thorough and realistic implementation plan that includes deploying the product to end users?
   * Does the team describe a sound strategy for the ongoing maintenance of this product?
   * Has the product team deployed the tool to end users, whether directly or via a partner, or have they described a compelling and specific plan to do so? 
   * Is this product well designed to scale and grow with increasing users? 
 * **Impact (20%):** This score focuses on the team’s documented or planned impact on the target issue and end user community. This includes questions such as: 
-
   * Does this team have an established partnership with user advocates/community groups? 
   * How compelling and realistic is this product’s ability to achieve important outcomes for end users? 
   * Does the product directly and effectively address the problem statement and community it was built for? 
@@ -621,7 +617,6 @@ Each submission will be scored by multiple reviewers on the following five (5) c
 Teams or individuals interested in participating in this challenge can apply by submitting an application package following these two (2) steps, **between 9am ET on September 13, 2021 and 11:59pm ET on October 24, 2021**:
 
 1. Email your entire prize submission package (Team Information, Product Information, Product Description, Letter(s) of Support, and Optional Multimedia) to [TOPprize@census.gov](mailto:TOPprize@census.gov) after the submission window opens and by the submission deadline.  Include the Subject Line: “Prize Submission: \[Team Name, Product Name]”.
-
    * Teams are strongly encouraged to [use the template available at this link](https://docs.google.com/document/d/1zjfOmO9eEzGIO2DssPYeZ7twRReBUDp7b5tAARKz9Ow/edit) for parts 1-3.  
    * Collaborator letter(s) can be included in the same PDF or attached separately. 
    * Optional videos can be linked in the same PDF or attached separately.   
