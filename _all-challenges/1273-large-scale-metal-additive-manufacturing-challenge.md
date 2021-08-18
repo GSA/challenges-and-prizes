@@ -8,7 +8,8 @@ status: open
 sidenav: false
 card-image: /assets/netlify-uploads/mamchallenge_341x160px-1-.jpg
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
-tagline: Join the challenge . . .place holder text
+tagline: The goal of this challenge is to adapt and demonstrate a large-scale
+  MAM technology for relevant materials and geometries.
 agency: Air Force Research Laboratory
 partner-agencies-federal: ""
 partners-non-federal: National Security Innovation Network, Wright Brothers
