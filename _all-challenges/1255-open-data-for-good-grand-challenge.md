@@ -476,13 +476,11 @@ Applications for this prize challenge have four (4) required components and one 
 Teams are strongly encouraged to [use the template at this link](https://docs.google.com/document/d/1zjfOmO9eEzGIO2DssPYeZ7twRReBUDp7b5tAARKz9Ow/edit) for parts 1-3.  If you are unable to access the link, please email [TOPprize@census.gov](mailto:TOPprize@census.gov).
 
 **PART 1:  Team information**
-
 * **Lead organization:**  Name one company, organization or individual as the lead organization who will receive the prize funds if awarded. 
 * **Contributors:** List the organizations and individuals that contributed to the tech team that built this product. For each individual, please provide name, organization (if applicable), and role in developing the product.
 * **Eligibility:** Please identify your eligibility for this prize, as 1) a 2020 or 2021 TOP Sprint or TOPx sprint participant (list year and problem statement) or 2) an independent team using TOP methodology.  For either type of eligibility, please indicate either facilitated sprint or digital toolkit, and year of participation.
 * **In-kind (non-monetary) prize consideration:** Would you like to be considered for in-kind prizes? (yes/no) 
 * **Optional:** *Certain prizes are offered only to students, non-profit organizations, and start-up companies. If you would like to be considered for any of these categories, please provide the following documentation.* 
-
   * To be considered for student prizes, please include the name of your academic institution and graduation year.
   * To be considered for in-kind prizes intended for start-up companies or small business, please identify which individual/organization in your team represents a start-up company or small business, and please briefly describe why you consider your team to be in this category.
   * If you would like to be considered for in-kind prizes intended for 501(c)(3) non-profit organizations, please provide any of the following as evidence of nonprofit status: (a) a reference to the applicant organization’s listing in the Internal Revenue Service’s (IRS) most recent list of tax-exempt organizations described in section 501(c)(3) of the IRS Code; OR (b) a copy of a currently valid IRS tax exemption certificate; OR (c) a certified copy of the organization’s certificate of incorporation or similar document that clearly establishes nonprofit status. 
@@ -521,7 +519,6 @@ Additional submission guidelines and requirements:
 * **Any material that does not follow the submission guidelines provided may not be considered.**
 * Each product should be submitted in at least one (1) and no more than two (2) categories.
 * Applicants must submit a working, interactive digital tool that uses open government data to address one or more of the challenges in the categories described above.
-
   * “Working product” indicates that the intended features of the product have been created and are currently functional and usable to the public or intended user(s). For example, a clickable prototype that illustrates future functionality, but does not yet provide it to the user, cannot be considered. 
   * The product must include interactive functionality for the end user to access and/or analyze the open data (for example, a static slide presentation that illustrates an analysis but is not interactive would not be eligible). 
   * The product must be capable of being successfully installed and running consistently on the platform for which it is intended, and must function as depicted or expressed in the text description.
@@ -584,25 +581,27 @@ Submissions will be reviewed by experts in technology, open data, product develo
 Each submission will be scored by multiple reviewers on the following five (5) criteria:
 
 * **Technical Quality (20%):** This score focuses on the overall user experience and user interface (UX/UI) design of the product, designing and implementation of product functionality, visual design if applicable, and generally how well the product achieves its stated functionality.  This includes questions such as: 
-
   * Does the product have well-functioning features?
   * Is it user friendly? Does it provide a positive user experience?
   * If the product is intended as a front-end interface, does it follow visual and user experience design best practices?
-* **Cross-Sector Collaboration and Diversity (15%):** This score focuses on the team’s build process, and the extent to which “user advocates” and diverse end user perspectives were included in developing the product. This includes questions such as: 
 
+* **Cross-Sector Collaboration and Diversity (15%):** This score focuses on the team’s build process, and the extent to which “user advocates” and diverse end user perspectives were included in developing the product. This includes questions such as: 
   * Was user research conducted to identify specific community or end user needs, and does the product’s functionality reflect those needs? 
   * Has the product been tested and iterated upon based on feedback from end users?
   * Do the partner organizations/collaborating end user represent diverse perspectives within the overall user audience? Does the product account for diverse needs across the user community and offer a solution that is inclusive of many end users within the target audience?
+
 * **Use of Federal Open Data (25%):** This score focuses on the extent to which the product uses federal open data creatively and effectively. This includes questions such as: 
   * Does the product meaningfully use federal open data sets from the Census Bureau and other federal agencies to solve a problem or deliver value for the end user?
   * Does it creatively align federal data alongside state, local, or other types of data? 
   * Does the product present or analyze the data in a new creative way?
+
 * **Implementation + Sustainability (20%):** This score focuses on the team’s stated or demonstrated plans for deploying the tool to end users or an existing user base. This includes questions such as: 
   * Does this team have established partnership(s) or relationship(s) with the end user community? 
   * Does the product have a thorough and realistic implementation plan that includes deploying the product to end users?
   * Does the team describe a sound strategy for the ongoing maintenance of this product?
   * Has the product team deployed the tool to end users, whether directly or via a partner, or have they described a compelling and specific plan to do so? 
   * Is this product well designed to scale and grow with increasing users? 
+
 * **Impact (20%):** This score focuses on the team’s documented or planned impact on the target issue and end user community. This includes questions such as: 
   * Does this team have an established partnership with user advocates/community groups? 
   * How compelling and realistic is this product’s ability to achieve important outcomes for end users? 
