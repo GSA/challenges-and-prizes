@@ -9,9 +9,10 @@ sidenav: false
 card-image: /assets/netlify-uploads/mamchallenge_341x160px-1-.jpg
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
 tagline: Join the challenge . . .place holder text
-agency: Department of Defense, National Security Innovation Network
-partner-agencies-federal: Air Force Research Laboratory
-partners-non-federal: Wright Brothers Institute, Doolittle Institute
+agency: Air Force Research Laboratory
+partner-agencies-federal: ""
+partners-non-federal: National Security Innovation Network, Wright Brothers
+  Institute, Doolittle Institute
 external-url: https://unum.nsin.us/afrl-challenge-4
 total-prize-offered-cash: $1,000,000
 type-of-challenge:
