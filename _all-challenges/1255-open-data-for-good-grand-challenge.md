@@ -10,20 +10,21 @@ card-image: /assets/netlify-uploads/2021-grand-challenge-top_resized-for-tile.pn
 agency-logo: /assets/netlify-uploads/US-Census-Bureau-logo.png
 tagline: "Unleashing the value of open data through digital tools for the public "
 agency: U.S. Census Bureau
-total-prize-offered-cash: $100,000
+partner-agencies-federal: U.S. Environmental Protection Agency (EPA)
+total-prize-offered-cash: $160,000
 type-of-challenge:
   - Software and apps
   - Creative (multimedia & design)
   - Analytics, visualizations, algorithms
 submission-start: 2021/09/13 09:00 AM
-submission-end: 2021/10/18 11:59 PM
+submission-end: 2021/10/24 11:59 PM
 fiscal-year: FY21, FY22
 legal-authority: America COMPETES Act
 challenge-manager: Drew Zachary; Dominica Zhu
 challenge-manager-email: "Drew.a.zachary@census.gov; Dominica.zhu@census.gov "
 point-of-contact: "TOPprize@census.gov "
 description: >-
-  #### Key Dates 
+  #### Key Dates
 
 
   * July 1:  Rules posted
@@ -32,7 +33,7 @@ description: >-
 
   * September 13: Submission window opens
 
-  * October 18:  Submissions due 
+  * October 24:  Submissions due 
 
   * December:  Prize winners announced
 
@@ -58,7 +59,7 @@ description: >-
   TOP supports the Census Bureau’s mission and the OPEN Government Data Act mandate to identify and disseminate public data assets as well as utilize these public data assets to grow the economy, promote transparency, and make government data more useful and accessible to the public.  Both open data and The Opportunity Project as a mechanism to unleash its potential, are key components of the Federal Data Strategy and Department of Commerce Strategic Plan, which focus on utilizing data as an asset to grow the economy, increase the effectiveness of the Federal Government, promote transparency, and make government data more useful to the public, businesses, and researchers.  
 
 
-  #### The Problem 
+  #### The Problem
 
 
   One of the greatest challenges associated with public interest technology (or civic technology) development is product sustainability and adoption.  Open data is used to create many products for the public good, but the teams who built these products often face challenges in deploying and maintaining them.  To advance some of the most promising technology solutions built with open data, the Census Bureau and its collaborators are launching the Open Data for Good Grand Challenge.  This Challenge aims to 1) help technologists and their collaborators better deploy their data-driven technology solutions, ensure they reach end users, and drive impact of the critical problems they aim to solve, and 2) to reward exemplary uses of federal open data. 
@@ -66,9 +67,9 @@ description: >-
   This challenge is open to: 
 
 
-  1. Anyone who participated or participates in The Opportunity Project sprints or TOPx sprints in 2020 or 2021 (between the dates of 1/1/2020 and 10/18/2021). 
+  1. Anyone who participated or participates in The Opportunity Project sprints or TOPx sprints in 2020 or 2021 (between the dates of 1/1/2020 and 10/24/2021). 
 
-  2. Anyone in the general public who follows The Opportunity Project methodology via TOP’s public [product development toolkit](https://opportunity.census.gov/product-development/toolkit/) to create a user-centered digital tool using federal open data in 2020 or 2021 (between the dates of 1/1/2020 and 10/18/2021). 
+  2. Anyone in the general public who follows The Opportunity Project methodology via TOP’s public [product development toolkit](https://opportunity.census.gov/product-development/toolkit/) to create a user-centered digital tool using federal open data in 2020 or 2021 (between the dates of 1/1/2020 and 10/24/2021). 
 
 
   **Please refer to the eligibility section below for full details.**
@@ -95,7 +96,7 @@ prizes: >-
   #### Total Cash Prize Pool
 
 
-  This is a single-phase competition in which a total of $100,000 will be awarded by the Census Bureau.  We expect additional monetary and in-kind (non-monetary) prizes to be added by agencies such as the U.S. Department of Health and Human Services (HHS), the U.S. Environmental Protection Agency (EPA), and other entities; so, please refer to this posting regularly for updates.  This section describes the prizes available in each category, as well as additional prize opportunities for which any applicant can be considered.  
+  This is a single-phase competition in which a total of $160,000 will be awarded by the Census Bureau and the Environmental Protection Agency (EPA).  We expect additional monetary and in-kind (non-monetary) prizes to be added by agencies such as the U.S. Department of Health and Human Services (HHS), the National Oceanic and Atmospheric Administration (NOAA), and other entities; so, please refer to this posting regularly for updates.  This section describes the prizes available in each category, as well as additional prize opportunities for which any applicant can be considered.  
 
 
   #### Prize Breakdown
@@ -111,9 +112,13 @@ prizes: >-
 
   * One (1) Runner up prize: **$15,000**
 
-  * One (1) Student prize (**student teams are also eligible for grand prize and runner up; student prize only open to those who can demonstrate student status):* **$10,000**
+  * One (1) Student prize (*\* student teams are also eligible for grand prize and runner up; student prize only open to those who can demonstrate student status*)**:** **$10,000**
 
-  * Additional monetary and in-kind (non-monetary) prizes are expected to be announced for projects focusing on reducing marine/ocean plastic pollution and creating markets for recycled materials.
+  * Subcategory: 
+
+    * One (1) to Five (5) prizes totaling **$50,000:** The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on reducing marine/ocean plastic pollution and/or creating markets for recycled materials.
+    * One (1) Prize of **$10,000**: The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on helping the public understand the impact of transportation emissions on air quality. 
+  * Additional in-kind (non-monetary) prizes may be announced.
 
 
   ***Society, Economy, and the Built Environment***
@@ -143,7 +148,7 @@ prizes: >-
 
   The U.S. Census Bureau and any future partnering agencies may award different prize amounts at their discretion.  The winners of any monetary or in-kind awards that may be provided by partner agencies and organizations will be selected based on the judging process outlined for the competition with input from both the Census Bureau and partners. Additional prizes may be added to this competition before the submission window closes, so please refer to this page regularly for updates.
 rules: >-
-  ### Submission requirements 
+  #### Submission requirements
 
 
   **What to submit**
@@ -236,7 +241,7 @@ rules: >-
   #### Eligibility
 
 
-  This prize challenge is open to anyone who built/builds a digital product using federal open data or data standards through The Opportunity Project methodology in 2020 or 2021 (between the dates of 1/1/2020 and 10/18/2021).  Eligible participants include:
+  This prize challenge is open to anyone who built/builds a digital product using federal open data or data standards through The Opportunity Project methodology in 2020 or 2021 (between the dates of 1/1/2020 and 10/24/2021).  Eligible participants include:
 
 
   * Anyone who built or builds a product in The Opportunity Project sprints or TOPx sprints in this timeframe. 
@@ -259,7 +264,7 @@ rules: >-
 
   1. In the case of a private entity, shall be incorporated in and **maintain a primary place of business in the United States**, and in the case of an individual, whether participating singly or in a group, shall be a **citizen or permanent resident of the United States**.
 
-  2. Must have created a functioning digital product in a facilitated sprint of The Opportunity Project, participated in a TOPx sprint, utilized the TOP [Product Development Toolkit](https://go.usa.gov/x7fWf), or otherwise leveraged The Opportunity Project methodology in 2020-2021 by the submission deadline (between 1/1/2020 - 10/18/2021). High fidelity wireframes such as InvisionApps and other clickable prototypes are not eligible; the product must have a functioning URL or be available for digital download with fully usable interactive features. 
+  2. Must have created a functioning digital product in a facilitated sprint of The Opportunity Project, participated in a TOPx sprint, utilized the TOP [Product Development Toolkit](https://go.usa.gov/x7fWf), or otherwise leveraged The Opportunity Project methodology in 2020-2021 by the submission deadline (between 1/1/2020 - 10/24/2021). High fidelity wireframes such as InvisionApps and other clickable prototypes are not eligible; the product must have a functioning URL or be available for digital download with fully usable interactive features. 
 
   3. Must have created a functioning digital product that uses federal open data. Products that do not use federal open data, data schema, or data standards in any capacity are not eligible for this competition. 
 
@@ -269,7 +274,7 @@ rules: >-
 
   6. May not be a Federal entity or Federal employee acting within the scope of their federal employment. 
 
-  7. May not be an employee of the U.S. Census Bureau.
+  7. May not be an employee of the U.S. Census Bureau. or the U.S. Environmental Protection Agency.
 
   8. Must not be currently under contract with the U.S. Census Bureau or other federal agency to perform work related to the product submitted for this competition.
 
@@ -308,9 +313,9 @@ rules: >-
 
   2. Submissions must be free of malware. Participants agree that the Census Bureau may conduct testing on the application(s) to determine whether malware or other security threats may be present. The Census Bureau may disqualify the application(s) if, in the Census Bureau’s judgment, the application may damage government or others' equipment, operating environment or security posture. 
 
-  3. The submitting team must not use government logos or official seals and must not claim endorsement by the U.S. Census Bureau or Department of Commerce.
+  3. The submitting team must not use government logos or official seals and must not claim endorsement by the U.S. Census Bureau, Department of Commerce, or U.S. Environmental Protection Agency.
 judging: >-
-  #### Judging Panel 
+  #### Judging Panel
 
 
   Submissions will be reviewed by experts in technology, open data, product development community engagement, user centered design, and the policy issues covered in the prize categories, from federal agencies as well as non-governmental organizations.
@@ -356,7 +361,7 @@ judging: >-
 how-to-enter: >-
   Teams or individuals interested in participating in this challenge can apply
   by submitting an application package following these two (2) steps, **between
-  9am ET on September 13, 2021 and 11:59pm ET on October 18, 2021**:
+  9am ET on September 13, 2021 and 11:59pm ET on October 24, 2021**:
 
 
   1. Email your entire prize submission package (Team Information, Product Information, Product Description, Letter(s) of Support, and Optional Multimedia) to [TOPprize@census.gov](mailto:TOPprize@census.gov) after the submission window opens and by the submission deadline.  Include the Subject Line: “Prize Submission: \[Team Name, Product Name]”.
@@ -371,7 +376,7 @@ how-to-enter: >-
   **Your application will not be considered complete until BOTH steps are completed.** 
 
 
-  Submissions can be modified until the submission deadline. Please note that the latest application package sent will be the only one evaluated. **Applications and related documents received after October 18, 2021 at 11:59 pm ET, will not be evaluated or considered.** 
+  Submissions can be modified until the submission deadline. Please note that the latest application package sent will be the only one evaluated. **Applications and related documents received after October 24, 2021 at 11:59 pm ET, will not be evaluated or considered.** 
 
 
   Questions about this prize challenge can be directed to [TOPprize@census.gov](mailto:TOPprize@census.gov).
@@ -383,7 +388,7 @@ how-to-enter: >-
 * July 1:  Rules posted
 * July 14:  Launch information session – [RSVP Here](https://odfggcinfowebinar.splashthat.com/)
 * September 13: Submission window opens
-* October 18:  Submissions due 
+* October 24:  Submissions due 
 * December:  Prize winners announced
 
 #### Background
@@ -405,8 +410,8 @@ TOP supports the Census Bureau’s mission and the OPEN Government Data Act mand
 One of the greatest challenges associated with public interest technology (or civic technology) development is product sustainability and adoption.  Open data is used to create many products for the public good, but the teams who built these products often face challenges in deploying and maintaining them.  To advance some of the most promising technology solutions built with open data, the Census Bureau and its collaborators are launching the Open Data for Good Grand Challenge.  This Challenge aims to 1) help technologists and their collaborators better deploy their data-driven technology solutions, ensure they reach end users, and drive impact of the critical problems they aim to solve, and 2) to reward exemplary uses of federal open data. 
 This challenge is open to: 
 
-1. Anyone who participated or participates in The Opportunity Project sprints or TOPx sprints in 2020 or 2021 (between the dates of 1/1/2020 and 10/18/2021). 
-2. Anyone in the general public who follows The Opportunity Project methodology via TOP’s public [product development toolkit](https://opportunity.census.gov/product-development/toolkit/) to create a user-centered digital tool using federal open data in 2020 or 2021 (between the dates of 1/1/2020 and 10/18/2021). 
+1. Anyone who participated or participates in The Opportunity Project sprints or TOPx sprints in 2020 or 2021 (between the dates of 1/1/2020 and 10/24/2021). 
+2. Anyone in the general public who follows The Opportunity Project methodology via TOP’s public [product development toolkit](https://opportunity.census.gov/product-development/toolkit/) to create a user-centered digital tool using federal open data in 2020 or 2021 (between the dates of 1/1/2020 and 10/24/2021). 
 
 **Please refer to the eligibility section below for full details.**
 
@@ -426,7 +431,7 @@ Please refer to the prizes section below for full details on prize opportunities
 
 #### Total Cash Prize Pool
 
-This is a single-phase competition in which a total of $100,000 will be awarded by the Census Bureau.  We expect additional monetary and in-kind (non-monetary) prizes to be added by agencies such as the U.S. Department of Health and Human Services (HHS), the U.S. Environmental Protection Agency (EPA), and other entities; so, please refer to this posting regularly for updates.  This section describes the prizes available in each category, as well as additional prize opportunities for which any applicant can be considered.  
+This is a single-phase competition in which a total of $160,000 will be awarded by the Census Bureau and the Environmental Protection Agency (EPA).  We expect additional monetary and in-kind (non-monetary) prizes to be added by agencies such as the U.S. Department of Health and Human Services (HHS), the National Oceanic and Atmospheric Administration (NOAA), and other entities; so, please refer to this posting regularly for updates.  This section describes the prizes available in each category, as well as additional prize opportunities for which any applicant can be considered.  
 
 #### Prize Breakdown
 
@@ -436,8 +441,11 @@ A total of $50,000 will be awarded by the Census Bureau to exceptional digital p
 
 * One (1) Grand prize: **$25,000**
 * One (1) Runner up prize: **$15,000**
-* One (1) Student prize (**student teams are also eligible for grand prize and runner up; student prize only open to those who can demonstrate student status):*** $10,000\*\*
-* Additional monetary and in-kind (non-monetary) prizes are expected to be announced for projects focusing on reducing marine/ocean plastic pollution and creating markets for recycled materials.
+* One (1) Student prize (*\* student teams are also eligible for grand prize and runner up; student prize only open to those who can demonstrate student status*)**:** **$10,000**
+* Subcategory: 
+  * One (1) to Five (5) prizes totaling **$50,000:** The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on reducing marine/ocean plastic pollution and/or creating markets for recycled materials.
+  * One (1) Prize of **$10,000**: The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on helping the public understand the impact of transportation emissions on air quality. 
+* Additional in-kind (non-monetary) prizes may be announced.
 
 ***Society, Economy, and the Built Environment***
 
@@ -468,13 +476,11 @@ Applications for this prize challenge have four (4) required components and one 
 Teams are strongly encouraged to [use the template at this link](https://docs.google.com/document/d/1zjfOmO9eEzGIO2DssPYeZ7twRReBUDp7b5tAARKz9Ow/edit) for parts 1-3.  If you are unable to access the link, please email [TOPprize@census.gov](mailto:TOPprize@census.gov).
 
 **PART 1:  Team information**
-
 * **Lead organization:**  Name one company, organization or individual as the lead organization who will receive the prize funds if awarded. 
 * **Contributors:** List the organizations and individuals that contributed to the tech team that built this product. For each individual, please provide name, organization (if applicable), and role in developing the product.
 * **Eligibility:** Please identify your eligibility for this prize, as 1) a 2020 or 2021 TOP Sprint or TOPx sprint participant (list year and problem statement) or 2) an independent team using TOP methodology.  For either type of eligibility, please indicate either facilitated sprint or digital toolkit, and year of participation.
 * **In-kind (non-monetary) prize consideration:** Would you like to be considered for in-kind prizes? (yes/no) 
 * **Optional:** *Certain prizes are offered only to students, non-profit organizations, and start-up companies. If you would like to be considered for any of these categories, please provide the following documentation.* 
-
   * To be considered for student prizes, please include the name of your academic institution and graduation year.
   * To be considered for in-kind prizes intended for start-up companies or small business, please identify which individual/organization in your team represents a start-up company or small business, and please briefly describe why you consider your team to be in this category.
   * If you would like to be considered for in-kind prizes intended for 501(c)(3) non-profit organizations, please provide any of the following as evidence of nonprofit status: (a) a reference to the applicant organization’s listing in the Internal Revenue Service’s (IRS) most recent list of tax-exempt organizations described in section 501(c)(3) of the IRS Code; OR (b) a copy of a currently valid IRS tax exemption certificate; OR (c) a certified copy of the organization’s certificate of incorporation or similar document that clearly establishes nonprofit status. 
@@ -521,7 +527,7 @@ Additional submission guidelines and requirements:
 
 #### Eligibility
 
-This prize challenge is open to anyone who built/builds a digital product using federal open data or data standards through The Opportunity Project methodology in 2020 or 2021 (between the dates of 1/1/2020 and 10/18/2021).  Eligible participants include:
+This prize challenge is open to anyone who built/builds a digital product using federal open data or data standards through The Opportunity Project methodology in 2020 or 2021 (between the dates of 1/1/2020 and 10/24/2021).  Eligible participants include:
 
 * Anyone who built or builds a product in The Opportunity Project sprints or TOPx sprints in this timeframe. 
 * Anyone in the general public who follows The Opportunity Project methodology via [our product development toolkit](https://opportunity.census.gov/product-development/toolkit/) to create a digital tool using federal open data in this timeframe. 
@@ -535,12 +541,12 @@ Applicants must:
 Additionally, to be eligible to apply for and win a prize award in this Challenge, an individual or entity:
 
 1. In the case of a private entity, shall be incorporated in and **maintain a primary place of business in the United States**, and in the case of an individual, whether participating singly or in a group, shall be a **citizen or permanent resident of the United States**.
-2. Must have created a functioning digital product in a facilitated sprint of The Opportunity Project, participated in a TOPx sprint, utilized the TOP [Product Development Toolkit](https://go.usa.gov/x7fWf), or otherwise leveraged The Opportunity Project methodology in 2020-2021 by the submission deadline (between 1/1/2020 - 10/18/2021). High fidelity wireframes such as InvisionApps and other clickable prototypes are not eligible; the product must have a functioning URL or be available for digital download with fully usable interactive features. 
+2. Must have created a functioning digital product in a facilitated sprint of The Opportunity Project, participated in a TOPx sprint, utilized the TOP [Product Development Toolkit](https://go.usa.gov/x7fWf), or otherwise leveraged The Opportunity Project methodology in 2020-2021 by the submission deadline (between 1/1/2020 - 10/24/2021). High fidelity wireframes such as InvisionApps and other clickable prototypes are not eligible; the product must have a functioning URL or be available for digital download with fully usable interactive features. 
 3. Must have created a functioning digital product that uses federal open data. Products that do not use federal open data, data schema, or data standards in any capacity are not eligible for this competition. 
 4. Digital products that cannot demonstrate that they were created through The Opportunity Project sprints or following the [Toolkit](https://go.usa.gov/x7fWf) are not eligible.
 5. Must have complied with all the stated requirements of The Opportunity Project Prize Challenge. 
 6. May not be a Federal entity or Federal employee acting within the scope of their federal employment. 
-7. May not be an employee of the U.S. Census Bureau.
+7. May not be an employee of the U.S. Census Bureau. or the U.S. Environmental Protection Agency.
 8. Must not be currently under contract with the U.S. Census Bureau or other federal agency to perform work related to the product submitted for this competition.
 9. Federal grantees may not use Federal funds to develop COMPETES Act Challenge applications unless consistent with the purpose of their grant award.
 10. Federal contractors may not use Federal funds from a contract to develop COMPETES Act Challenge applications or to fund efforts in support of a COMPETES Act Challenge Submission.
@@ -562,7 +568,7 @@ Restrictions
 
 1. An application may be disqualified if it fails to function as expressed in the description provided by the participant, if it provides inaccurate or incomplete information, or if any components of the application are missing.
 2. Submissions must be free of malware. Participants agree that the Census Bureau may conduct testing on the application(s) to determine whether malware or other security threats may be present. The Census Bureau may disqualify the application(s) if, in the Census Bureau’s judgment, the application may damage government or others' equipment, operating environment or security posture. 
-3. The submitting team must not use government logos or official seals and must not claim endorsement by the U.S. Census Bureau or Department of Commerce.
+3. The submitting team must not use government logos or official seals and must not claim endorsement by the U.S. Census Bureau, Department of Commerce, or U.S. Environmental Protection Agency.
 
 ### Judging Criteria
 
@@ -575,29 +581,28 @@ Submissions will be reviewed by experts in technology, open data, product develo
 Each submission will be scored by multiple reviewers on the following five (5) criteria:
 
 * **Technical Quality (20%):** This score focuses on the overall user experience and user interface (UX/UI) design of the product, designing and implementation of product functionality, visual design if applicable, and generally how well the product achieves its stated functionality.  This includes questions such as: 
-
   * Does the product have well-functioning features?
   * Is it user friendly? Does it provide a positive user experience?
   * If the product is intended as a front-end interface, does it follow visual and user experience design best practices?
-* **Cross-Sector Collaboration and Diversity (15%):** This score focuses on the team’s build process, and the extent to which “user advocates” and diverse end user perspectives were included in developing the product. This includes questions such as: 
 
+* **Cross-Sector Collaboration and Diversity (15%):** This score focuses on the team’s build process, and the extent to which “user advocates” and diverse end user perspectives were included in developing the product. This includes questions such as: 
   * Was user research conducted to identify specific community or end user needs, and does the product’s functionality reflect those needs? 
   * Has the product been tested and iterated upon based on feedback from end users?
   * Do the partner organizations/collaborating end user represent diverse perspectives within the overall user audience? Does the product account for diverse needs across the user community and offer a solution that is inclusive of many end users within the target audience?
-* **Use of Federal Open Data (25%):** This score focuses on the extent to which the product uses federal open data creatively and effectively. This includes questions such as: 
 
+* **Use of Federal Open Data (25%):** This score focuses on the extent to which the product uses federal open data creatively and effectively. This includes questions such as: 
   * Does the product meaningfully use federal open data sets from the Census Bureau and other federal agencies to solve a problem or deliver value for the end user?
   * Does it creatively align federal data alongside state, local, or other types of data? 
   * Does the product present or analyze the data in a new creative way?
-* **Implementation + Sustainability (20%):** This score focuses on the team’s stated or demonstrated plans for deploying the tool to end users or an existing user base. This includes questions such as: 
 
+* **Implementation + Sustainability (20%):** This score focuses on the team’s stated or demonstrated plans for deploying the tool to end users or an existing user base. This includes questions such as: 
   * Does this team have established partnership(s) or relationship(s) with the end user community? 
   * Does the product have a thorough and realistic implementation plan that includes deploying the product to end users?
   * Does the team describe a sound strategy for the ongoing maintenance of this product?
   * Has the product team deployed the tool to end users, whether directly or via a partner, or have they described a compelling and specific plan to do so? 
   * Is this product well designed to scale and grow with increasing users? 
-* **Impact (20%):** This score focuses on the team’s documented or planned impact on the target issue and end user community. This includes questions such as: 
 
+* **Impact (20%):** This score focuses on the team’s documented or planned impact on the target issue and end user community. This includes questions such as: 
   * Does this team have an established partnership with user advocates/community groups? 
   * How compelling and realistic is this product’s ability to achieve important outcomes for end users? 
   * Does the product directly and effectively address the problem statement and community it was built for? 
@@ -608,21 +613,17 @@ Each submission will be scored by multiple reviewers on the following five (5) c
 
 ### How to Enter
 
-Teams or individuals interested in participating in this challenge can apply by submitting an application package following these two (2) steps, **between 9am ET on September 13, 2021 and 11:59pm ET on October 18, 2021**:
+Teams or individuals interested in participating in this challenge can apply by submitting an application package following these two (2) steps, **between 9am ET on September 13, 2021 and 11:59pm ET on October 24, 2021**:
 
 1. Email your entire prize submission package (Team Information, Product Information, Product Description, Letter(s) of Support, and Optional Multimedia) to [TOPprize@census.gov](mailto:TOPprize@census.gov) after the submission window opens and by the submission deadline.  Include the Subject Line: “Prize Submission: \[Team Name, Product Name]”.
-
    * Teams are strongly encouraged to [use the template available at this link](https://docs.google.com/document/d/1zjfOmO9eEzGIO2DssPYeZ7twRReBUDp7b5tAARKz9Ow/edit) for parts 1-3.  
    * Collaborator letter(s) can be included in the same PDF or attached separately. 
    * Optional videos can be linked in the same PDF or attached separately.   
    * *If you are seeking consideration as a student or 501(c)(3), please also include relevant documentation in your email.* 
-
-<!---->
-
 2. Select information about your product and team must **ALSO** be submitted via the **Challenge Submission Form**, which will be posted before the submission window opens. 
 
 **Your application will not be considered complete until BOTH steps are completed.** 
 
-Submissions can be modified until the submission deadline. Please note that the latest application package sent will be the only one evaluated. **Applications and related documents received after October 18, 2021 at 11:59 pm ET, will not be evaluated or considered.** 
+Submissions can be modified until the submission deadline. Please note that the latest application package sent will be the only one evaluated. **Applications and related documents received after October 24, 2021 at 11:59 pm ET, will not be evaluated or considered.** 
 
 Questions about this prize challenge can be directed to [TOPprize@census.gov](mailto:TOPprize@census.gov).
