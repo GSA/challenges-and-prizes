@@ -253,7 +253,6 @@ judging: >-
 
 
   * The solution provides a novel approach to the Challenge topic in accordance with one or both of the following:
-
     * The technology approach provides a new approach using existing commercial application not commonly found within the Department of the Navy
     * The technology approach provides a new concept not widely used within a commercial application.
   * The description of the technology approach provides a comprehensive description with supportive data, methods, and supportive technologies used towards a solution.
@@ -265,7 +264,6 @@ judging: >-
 
 
   * How can the technology be applied in a Naval Environment.  Examples include but are not limited to and nor specifically graded against:
-
     * Naval Enterprise
     * Surface Ship/Shore/Sub Surface applicability
     * Marine Air Ground Task Force (MAGTF)
@@ -300,7 +298,7 @@ how-to-enter: >-
   (individual, team, or legal entity) may enter this challenge by sending an
   e-mail to [ptbsubmissions.fct@navy.mil
   ](mailto:ptbsubmissions.fct@navy.mil)with the subject line stating “NIWC
-  Atlantic Prize Challenge 21: INSERT TOPIC NAME”.  Please provide a separate
+  Atlantic Prize Challenge 21: \[INSERT TOPIC NAME]”.  Please provide a separate
   e-mail if submitting against more than one topic.
 
 
@@ -318,7 +316,7 @@ how-to-enter: >-
   Prior to the closing date, e-mail the white paper to [ptbsubmissions.fct@navy.mil](mailto:ptbsubmissions.fct@navy.mil)
 
 
-  * The e-mail subject line must state “Palmetto Tech Bridge Prize Challenge 21: INSERT TOPIC NAME.”
+  * The e-mail subject line must state “Palmetto Tech Bridge Prize Challenge 21: \[INSERT TOPIC NAME]”.
 
   * E-mail must come from the official representative for the team.
 
@@ -329,7 +327,7 @@ how-to-enter: >-
 
   **Stage 2 Oral Presentations:**
 
-  Any company receiving an invitation to provide an oral presentation at the CDCA Summit from 7-9 December 2021 will be required to submit slides and any read ahead information by 23 November 2021.  Any physical equipment needed for the private demonstration to the Government will need to be self-sufficient and able to be set up and break down within 15 minutes. For the Pitch Jam On-Site presentation, PowerPoint slide decks should have the file name: “Pitch Jam 2021: INSERT COMPANY NAME”. Any materials provided by participants not invited to present oral presentations will be discarded without review.
+  Any company receiving an invitation to provide an oral presentation at the CDCA Summit from 7-9 December 2021 will be required to submit slides and any read ahead information by 23 November 2021.  Any physical equipment needed for the private demonstration to the Government will need to be self-sufficient and able to be set up and break down within 15 minutes. For the Pitch Jam On-Site presentation, PowerPoint slide decks should have the file name: “Pitch Jam 2021: \[INSERT COMPANY NAME]”. Any materials provided by participants not invited to present oral presentations will be discarded without review.
 ---
 ### Description
 
@@ -472,7 +470,6 @@ Each submission will be judged based on the following criteria with each judge p
 ***Technical Approach (1/3rd of scoring)***
 
 * The solution provides a novel approach to the Challenge topic in accordance with one or both of the following:
-
   * The technology approach provides a new approach using existing commercial application not commonly found within the Department of the Navy
   * The technology approach provides a new concept not widely used within a commercial application.
 * The description of the technology approach provides a comprehensive description with supportive data, methods, and supportive technologies used towards a solution.
@@ -481,7 +478,6 @@ Each submission will be judged based on the following criteria with each judge p
 ***Applicability for use within the Department of Navy Construct (1/3rd of scoring)***
 
 * How can the technology be applied in a Naval Environment.  Examples include but are not limited to and nor specifically graded against:
-
   * Naval Enterprise
   * Surface Ship/Shore/Sub Surface applicability
   * Marine Air Ground Task Force (MAGTF)
@@ -504,7 +500,7 @@ Each submission will be judged based on the following criteria with each judge p
 
 ### How to Enter
 
-**Stage 1 Open Date:** Submissions to Phase 1 of the NIWC Atlantic Prize challenge will be accepted from 19 August 2021 at 10:00 a.m. ET through 19 September 2021 at 11:00 p.m. ET. Entries received before and after the time slot will not be accepted.  The identified official representative (individual, team, or legal entity) may enter this challenge by sending an e-mail to [ptbsubmissions.fct@navy.mil ](mailto:ptbsubmissions.fct@navy.mil)with the subject line stating “NIWC Atlantic Prize Challenge 21: INSERT TOPIC NAME”.  Please provide a separate e-mail if submitting against more than one topic.
+**Stage 1 Open Date:** Submissions to Phase 1 of the NIWC Atlantic Prize challenge will be accepted from 19 August 2021 at 10:00 a.m. ET through 19 September 2021 at 11:00 p.m. ET. Entries received before and after the time slot will not be accepted.  The identified official representative (individual, team, or legal entity) may enter this challenge by sending an e-mail to [ptbsubmissions.fct@navy.mil ](mailto:ptbsubmissions.fct@navy.mil)with the subject line stating “NIWC Atlantic Prize Challenge 21:[INSERT TOPIC NAME”].  Please provide a separate e-mail if submitting against more than one topic.
 
 There shall be only one official participant representative for each topic submission. The official participant representative must provide a name and e-mail address and, by sending in the registration, and affirms on behalf of the solver (individual, team, or legal entity), that he or she has read and consents to be governed by the challenge rules.
 
@@ -515,10 +511,10 @@ There shall be only one official participant representative for each topic submi
 **Stage 1 Submission:** 
 Prior to the closing date, e-mail the white paper to [ptbsubmissions.fct@navy.mil](mailto:ptbsubmissions.fct@navy.mil)
 
-* The e-mail subject line must state “Palmetto Tech Bridge Prize Challenge 21: INSERT TOPIC NAME.”
+* The e-mail subject line must state “Palmetto Tech Bridge Prize Challenge 21: [INSERT TOPIC NAME]”.
 * E-mail must come from the official representative for the team.
 * All submissions must be in English.
 * Participants must not use government logos or official seals in their submissions and must not otherwise give an appearance of federal government endorsement.
 
 **Stage 2 Oral Presentations:**
-Any company receiving an invitation to provide an oral presentation at the CDCA Summit from 7-9 December 2021 will be required to submit slides and any read ahead information by 23 November 2021.  Any physical equipment needed for the private demonstration to the Government will need to be self-sufficient and able to be set up and break down within 15 minutes. For the Pitch Jam On-Site presentation, PowerPoint slide decks should have the file name: “Pitch Jam 2021: INSERT COMPANY NAME”. Any materials provided by participants not invited to present oral presentations will be discarded without review.
+Any company receiving an invitation to provide an oral presentation at the CDCA Summit from 7-9 December 2021 will be required to submit slides and any read ahead information by 23 November 2021.  Any physical equipment needed for the private demonstration to the Government will need to be self-sufficient and able to be set up and break down within 15 minutes. For the Pitch Jam On-Site presentation, PowerPoint slide decks should have the file name: “Pitch Jam 2021: [INSERT COMPANY NAME”]. Any materials provided by participants not invited to present oral presentations will be discarded without review.
