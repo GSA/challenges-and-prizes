@@ -8,8 +8,9 @@ status: open
 sidenav: false
 card-image: /assets/netlify-uploads/mamchallenge_341x160px-1-.jpg
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
-tagline: The goal of this challenge is to adapt and demonstrate a large-scale
-  MAM technology for relevant materials and geometries.
+tagline: The intent of this competition is to mature large-format MAM technology
+  in order to produce solutions and parts that are of interest to the Department
+  of Defense
 agency: Air Force Research Laboratory
 partner-agencies-federal: ""
 partners-non-federal: National Security Innovation Network, Wright Brothers
