@@ -8,9 +8,8 @@ status: open
 sidenav: false
 card-image: /assets/netlify-uploads/mamchallenge_341x160px-1-.jpg
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
-tagline: The intent of this competition is to mature large-format MAM technology
-  in order to produce solutions and parts that are of interest to the Department
-  of Defense
+tagline: Develop and mature large-format metal AM technologies for DoD parts and
+  solutions
 agency: Air Force Research Laboratory
 partner-agencies-federal: ""
 partners-non-federal: National Security Innovation Network, Wright Brothers
