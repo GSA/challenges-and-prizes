@@ -116,6 +116,7 @@ rules: >-
 judging: >-
   **Judging Panel**
 
+
   The submissions will be reviewed by federal employees serving as judges, who will select the winners, subject to a final decision by the Award Approving Official.
 
 
@@ -344,6 +345,7 @@ Phase 1 finalists will have equal access to subject matter experts during the Ph
 ### Judging Criteria
 
 **Judging Panel**
+
 The submissions will be reviewed by federal employees serving as judges, who will select the winners, subject to a final decision by the Award Approving Official.
 
 **Basis Upon Which Submissions Will Be Evaluated**
