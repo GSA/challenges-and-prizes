@@ -27,6 +27,7 @@ legal-authority: America COMPETES Act
 challenge-manager: Joya Chowdury
 challenge-manager-email: Joya.chowdhury@hhs.gov
 point-of-contact: "HIVChallenge@hhs.gov "
+body-content-uploads: /assets/netlify-uploads/hiv-challenge_webinar_8.18.21.pdf
 description: >-
   Through the Innovative Community Engagement Strategies  to Reduce HIV-related
   Stigma and Disparities Challenge, the U.S. Department of Health and Human
@@ -100,11 +101,12 @@ description: >-
 
   **Phase 1: Design of Concept**
 
-
   * Submission period begins: Monday, July 26, 2021 
 
-  * Webinar: Thursday, August 19, 2021, 3:00 – 4:00 pm EDT. [Click here to register](https://hhs.webex.com/hhs/j.php?RGID=r0b8e11035fd1c7d0a166c6082e98fc06).
-
+  * Webinar: Thursday, August 19, 2021, 3:00 – 4:00 pm EDT. 
+     * [View webinar slides (PDF) - click here]({{site.baseurl}}/assets/netlify-uploads/hiv-challenge_webinar_8.18.21.pdf).
+     * Webinar recording - coming soon
+     * Frequently Asked Questions (FAQs) - coming soon
   * Submission period ends: Thursday, September 23, 2021 11:59 PM EDT
 
   * Winners announced: October 2021
@@ -582,7 +584,10 @@ The competition has three phases. All eligible submissions will be evaluated, an
 
 **Phase 1: Design of Concept**
 * Submission period begins: Monday, July 26, 2021 
-* Webinar: Thursday, August 19, 2021, 3:00 – 4:00 pm EDT. [Click here to register](https://hhs.webex.com/hhs/j.php?RGID=r0b8e11035fd1c7d0a166c6082e98fc06).
+* Webinar: Thursday, August 19, 2021, 3:00 – 4:00 pm EDT. 
+   * [View webinar slides (PDF) - click here]({{site.baseurl}}/assets/netlify-uploads/hiv-challenge_webinar_8.18.21.pdf).
+   * Webinar recording - coming soon
+   * Frequently Asked Questions (FAQs) - coming soon
 * Submission period ends: Thursday, September 23, 2021 11:59 PM EDT
 * Winners announced: October 2021
 
