@@ -52,15 +52,15 @@ description: >-
 
   * Phase 1 judging: September - November 2021 
 
-  * Phase 1 winner(s) announced: November 2021
+  * Phase 1 winner(s) announced: December 2021
 
-  * Phase 2 development period: November 30, 2021 - June 29, 2022
+  * Phase 2 development period: November 30, 2021 - July 14, 2022
 
-  * Phase 2 submissions due: June 29, 2022
+  * Phase 2 submissions due: July 14, 2022
 
-  * Phase 2 judging: June - August 2022 
+  * Phase 2 judging: July - September 2022 
 
-  * Phase 2 winner(s) announced: August 2022
+  * Phase 2 winner(s) announced: September 2022
 prizes: >-
   ***Total Cash Prize Pool***
 
@@ -186,7 +186,7 @@ how-to-enter: >-
   Participants cannot use the logo or official seal of the Department of Health and Human Services (HHS); the National Institutes of Health (NIH); or the National Heart, Lung, and Blood Institute (NHLBI). Participants cannot claim federal government endorsement of their submissions.
 
 
-  ***All submissions must be submitted on the challenge page, [www.herox.com/AirYouWear](www.herox.com/AirYouWear). Submissions for Phase 1 are due by 5:00pm EST on September 30, 2021. Submissions for Phase 2 are due by 5:00pm EST on June 29, 2022.***
+  ***All submissions must be submitted on the challenge page, [www.herox.com/AirYouWear](www.herox.com/AirYouWear). Submissions for Phase 1 are due by 5:00pm EST on September 30, 2021. Submissions for Phase 2 are due by 5:00pm EST on July 14, 2022.***
 
 
   **Submission Details**
@@ -295,11 +295,11 @@ The goal of this challenge is to broadly stimulate research and development of p
 * Phase 1 competition period: June 22, 2021 - September 30, 2021
 * Phase 1 submissions due: September 30, 2021 
 * Phase 1 judging: September - November 2021 
-* Phase 1 winner(s) announced: November 2021
-* Phase 2 development period: November 30, 2021 - June 29, 2022
-* Phase 2 submissions due: June 29, 2022
-* Phase 2 judging: June - August 2022 
-* Phase 2 winner(s) announced: August 2022
+* Phase 1 winner(s) announced: December 2021
+* Phase 2 development period: November 30, 2021 - July 14, 2022
+* Phase 2 submissions due: July 14, 2022
+* Phase 2 judging: July - September 2022 
+* Phase 2 winner(s) announced: September 2022
 
 ### Prizes
 
@@ -405,7 +405,7 @@ Each submission for this challenge must be complete in order to be considered. I
 
 Participants cannot use the logo or official seal of the Department of Health and Human Services (HHS); the National Institutes of Health (NIH); or the National Heart, Lung, and Blood Institute (NHLBI). Participants cannot claim federal government endorsement of their submissions.
 
-***All submissions must be submitted on the challenge page, [www.herox.com/AirYouWear](http://www.herox.com/AirYouWear). Submissions for Phase 1 are due by 5:00pm EST on September 30, 2021. Submissions for Phase 2 are due by 5:00pm EST on June 29, 2022.***
+***All submissions must be submitted on the challenge page, [www.herox.com/AirYouWear](http://www.herox.com/AirYouWear). Submissions for Phase 1 are due by 5:00pm EST on September 30, 2021. Submissions for Phase 2 are due by 5:00pm EST on July 14, 2022.***
 
 **Submission Details**
 
