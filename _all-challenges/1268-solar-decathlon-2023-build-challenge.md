@@ -161,7 +161,7 @@ Each home will be evaluated based on 10 Contests, some juried and some measured 
 **Key Dates**
 
 * **July 2021** – Build Challenge Competition Team Application opens; Rules released
-* **September 26, 2021** – Ready, Set, Solar Decathlon Event (Virtual)
+* **September 16, 2021** – Ready, Set, Solar Decathlon Event (Virtual)
 * **October 26, 2021** – Build Challenge Team Application due; All teams with a complete Team Application are accepted to participate
 * **Fall 2021 to Spring 2022** – Webinars and Building Science Education offered
 * **April 2022** – Build Challenge teams present their designs to a panel of industry experts to determine who will receive prize funding and an approval-to-proceed to the construction phase
