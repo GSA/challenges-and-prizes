@@ -696,7 +696,7 @@ how-to-enter: >-
 #### ** IMPORTANT UPDATES - Last updated: 8/25/2021:**
 * The August 19th webinar materials are now available:
    * [View webinar slides (PDF) - click here]({{site.baseurl}}/assets/netlify-uploads/hiv-challenge_webinar_8.18.21.pdf)
-   * [View FAQ (pdf) – click here] ({{site.baseurl}}/assets/netlify-uploads/hiv-challenge-faq.pdf)
+   * [View FAQ (PDF) – click here]({{site.baseurl}}/assets/netlify-uploads/hiv-challenge-faq.pdf)
    * Webinar Recording coming soon
 
 #### **Challenge Overview**
@@ -743,7 +743,7 @@ The competition has three phases. All eligible submissions will be evaluated, an
 * Submission period begins: Monday, July 26, 2021 
 * Webinar: Thursday, August 19, 2021, 3:00 – 4:00 pm EDT. 
    * [View webinar slides (PDF) - click here]({{site.baseurl}}/assets/netlify-uploads/hiv-challenge_webinar_8.18.21.pdf)
-   * [View FAQ (pdf) – click here] ({{site.baseurl}}/assets/netlify-uploads/hiv-challenge-faq.pdf)
+   * [View FAQ (PDF) – click here]({{site.baseurl}}/assets/netlify-uploads/hiv-challenge-faq.pdf)
    * Webinar Recording coming soon
 * Submission period ends: Thursday, September 23, 2021 11:59 PM EDT
 * Winners announced: October 2021
