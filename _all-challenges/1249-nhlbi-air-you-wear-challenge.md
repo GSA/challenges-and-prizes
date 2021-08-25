@@ -297,7 +297,7 @@ The goal of this challenge is to broadly stimulate research and development of p
 * Phase 1 submissions due: September 30, 2021 
 * Phase 1 judging: September - November 2021 
 * Phase 1 winner(s) announced: December 2021
-* Phase 2 development period: November 30, 2021 - July 14, 2022
+* Phase 2 development period: December 2021 - July 14, 2022
 * Phase 2 submissions due: July 14, 2022
 * Phase 2 judging: July - September 2022 
 * Phase 2 winner(s) announced: September 2022
