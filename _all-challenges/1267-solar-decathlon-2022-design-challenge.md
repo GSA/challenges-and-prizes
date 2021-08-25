@@ -152,7 +152,7 @@ Details about the Design Challenge are available on the [Solar Decathlon website
 **Key Dates**
 
 * **July 2021** – Design Challenge Competition Team Application opens; Rules released 
-* **September 26, 2021** – Ready, Set, Solar Decathlon Event
+* **September 16, 2021** – Ready, Set, Solar Decathlon Event
 * **October 26, 2021** – Design Challenge Team Application due
 * **September 2021 to March 2022** – Webinars and Building Science Education offered
 * **February 2022** – All teams complete Project Proposal and finalize Division selection
