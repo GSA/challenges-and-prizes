@@ -28,9 +28,9 @@ challenge-manager: Joya Chowdury
 challenge-manager-email: Joya.chowdhury@hhs.gov
 point-of-contact: "HIVChallenge@hhs.gov "
 body-content-uploads: /assets/netlify-uploads/hiv-challenge-faq.pdf
-description: "#### ** IMPORTANT UPDATES:**\r
+description: "#### ** IMPORTANT UPDATES - Last updated: 8/25/2021:**\r
 
-  * The August 19th webinar materials are posted, you can access the:\r
+  * The August 19th webinar materials are now available:\r
 
   \   * [View webinar slides (PDF) - click
   here]({{site.baseurl}}/assets/netlify-uploads/hiv-challenge_webinar_8.18.21.p\
@@ -693,8 +693,8 @@ how-to-enter: >-
 ---
 ### Description
 
-#### ** IMPORTANT UPDATES:**
-* The August 19th webinar materials are posted, you can access the:
+#### ** IMPORTANT UPDATES - Last updated: 8/25/2021:**
+* The August 19th webinar materials are now available:
    * [View webinar slides (PDF) - click here]({{site.baseurl}}/assets/netlify-uploads/hiv-challenge_webinar_8.18.21.pdf)
    * [View FAQ (pdf) – click here] ({{site.baseurl}}/assets/netlify-uploads/hiv-challenge-faq.pdf)
    * Webinar Recording coming soon
