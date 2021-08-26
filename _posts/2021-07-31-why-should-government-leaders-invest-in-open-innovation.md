@@ -9,13 +9,14 @@ author: Quinn Slayton
 image: /assets/netlify-uploads/oi-podcast-sized.png
 image_alt_text: A microphone, laptop, and headphones with the title line "Why Should Government Leaders Invest in Open Innovation?"
 ---
+
 Dr. Jarah Meador, Director of Open Innovation Programs, Challenge.Gov, and CitizenScience.Gov with the General Services Administration (GSA) appeared recently on the Uprisor Podcast. Uprisor focuses on the people driving open innovation, future of work practices, and crowdsourcing.
 
 In this episode, Jarah shares how the U.S. government engages citizens to source innovative ideas, and discusses why government leaders should invest in innovation culture within their own organization in addition to seeking solutions from the outside.
 
 According to Jarah, “We are seeing an increase in appetite for open innovation across federal agencies… Some of the greatest minds and subject matter experts exist in government. We’ve seen more agencies building a culture of innovation, so these minds can develop the runway and move forward.”
 
-## A few notable examples include:
+#### A few notable examples include:
 <p><ul>
 <li><span style="font-weight: 400;"> &nbsp;&nbsp;</span> <span style="font-weight: 400;">The Department of Veterans Affairs’ (VA) **[Innovators Network](https://www.va.gov/INNOVATIONECOSYSTEM/views/who-we-are/innovation-network.html)** which brings together over 30 VA medical centers to support a cohort of Innovation Specialists to network, share knowledge, and identify areas of collaboration.</span></li>
 <li><span style="font-weight: 400;"> &nbsp;&nbsp;</span> <span style="font-weight: 400;">GSA’s **[10x program](https://10x.gsa.gov/)**, an innovation sourcing program to crowdsource ideas from federal government employees and develop products to improve the public’s experience with the federal government.</span></li>
