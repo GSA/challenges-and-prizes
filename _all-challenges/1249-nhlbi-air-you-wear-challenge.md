@@ -18,7 +18,7 @@ type-of-challenge:
   - Technology demonstration and hardware
   - Scientific
 submission-start: 2021/06/24 7:00 AM
-submission-end: 2021/09/14 5:00 PM
+submission-end: 2021/09/30 5:00 PM
 fiscal-year: FY21, FY22
 legal-authority: America COMPETES Act
 challenge-manager: Laura Hsu, DrPH, MPH
@@ -46,21 +46,21 @@ description: >-
 
   * Challenge launch: June 22, 2021
 
-  * Phase 1 competition period: June 22, 2021 - September 14, 2021
+  * Phase 1 competition period: June 22, 2021 - September 30, 2021
 
-  * Phase 1 submissions due: September 14, 2021 
+  * Phase 1 submissions due: September 30, 2021 
 
   * Phase 1 judging: September - November 2021 
 
-  * Phase 1 winner(s) announced: November 2021
+  * Phase 1 winner(s) announced: December 2021
 
-  * Phase 2 development period: November 30, 2021 - June 29, 2022
+  * Phase 2 development period: November 30, 2021 - July 14, 2022
 
-  * Phase 2 submissions due: June 29, 2022
+  * Phase 2 submissions due: July 14, 2022
 
-  * Phase 2 judging: June - August 2022 
+  * Phase 2 judging: July - September 2022 
 
-  * Phase 2 winner(s) announced: August 2022
+  * Phase 2 winner(s) announced: September 2022
 prizes: >-
   ***Total Cash Prize Pool***
 
@@ -115,6 +115,7 @@ rules: >-
   * Each Participant (whether an individual, team of individuals, or entity) in this Challenge must comply with all terms and conditions of these rules, and participation in this Challenge constitutes each Participant’s full and unconditional agreement to abide by these rules. Winning is contingent upon fulfilling all requirements herein.
 judging: >-
   **Judging Panel**
+
 
   The submissions will be reviewed by federal employees serving as judges, who will select the winners, subject to a final decision by the Award Approving Official.
 
@@ -174,7 +175,7 @@ how-to-enter: >-
   Visit the official challenge page at [www.herox.com/AirYouWear](www.herox.com/AirYouWear). At the HeroX official challenge page, competitors may create a HeroX account and then click “Solve This Challenge” to complete their challenge registration. Once registered, competitors will use the HeroX platform and the Challenge Submission Form to complete and submit their proposed solution.
 
 
-  Registrations must be submitted on the challenge page, [www.herox.com/AirYouWear](www.herox.com/AirYouWear), by 5:00pm EST on September 14, 2021.
+  Registrations must be submitted on the challenge page, [www.herox.com/AirYouWear](www.herox.com/AirYouWear), by 5:00pm EST on September 30, 2021.
 
 
   **Submission Requirements**
@@ -186,7 +187,7 @@ how-to-enter: >-
   Participants cannot use the logo or official seal of the Department of Health and Human Services (HHS); the National Institutes of Health (NIH); or the National Heart, Lung, and Blood Institute (NHLBI). Participants cannot claim federal government endorsement of their submissions.
 
 
-  ***All submissions must be submitted on the challenge page, [www.herox.com/AirYouWear](www.herox.com/AirYouWear). Submissions for Phase 1 are due by 5:00pm EST on September 14, 2021. Submissions for Phase 2 are due by 5:00pm EST on June 29, 2022.***
+  ***All submissions must be submitted on the challenge page, [www.herox.com/AirYouWear](www.herox.com/AirYouWear). Submissions for Phase 1 are due by 5:00pm EST on September 30, 2021. Submissions for Phase 2 are due by 5:00pm EST on July 14, 2022.***
 
 
   **Submission Details**
@@ -292,14 +293,14 @@ The goal of this challenge is to broadly stimulate research and development of p
 **Key Dates**
 
 * Challenge launch: June 22, 2021
-* Phase 1 competition period: June 22, 2021 - September 14, 2021
-* Phase 1 submissions due: September 14, 2021 
+* Phase 1 competition period: June 22, 2021 - September 30, 2021
+* Phase 1 submissions due: September 30, 2021 
 * Phase 1 judging: September - November 2021 
-* Phase 1 winner(s) announced: November 2021
-* Phase 2 development period: November 30, 2021 - June 29, 2022
-* Phase 2 submissions due: June 29, 2022
-* Phase 2 judging: June - August 2022 
-* Phase 2 winner(s) announced: August 2022
+* Phase 1 winner(s) announced: December 2021
+* Phase 2 development period: December 2021 - July 14, 2022
+* Phase 2 submissions due: July 14, 2022
+* Phase 2 judging: July - September 2022 
+* Phase 2 winner(s) announced: September 2022
 
 ### Prizes
 
@@ -344,6 +345,7 @@ Phase 1 finalists will have equal access to subject matter experts during the Ph
 ### Judging Criteria
 
 **Judging Panel**
+
 The submissions will be reviewed by federal employees serving as judges, who will select the winners, subject to a final decision by the Award Approving Official.
 
 **Basis Upon Which Submissions Will Be Evaluated**
@@ -397,7 +399,7 @@ The criteria that will be used to score submissions and assist with the selectio
 
 Visit the official challenge page at [www.herox.com/AirYouWear](http://www.herox.com/airyouwear). At the HeroX official challenge page, competitors may create a HeroX account and then click “Solve This Challenge” to complete their challenge registration. Once registered, competitors will use the HeroX platform and the Challenge Submission Form to complete and submit their proposed solution.
 
-Registrations must be submitted on the challenge page, [www.herox.com/AirYouWear](http://www.herox.com/AirYouWear), by 5:00pm EST on September 14, 2021.
+Registrations must be submitted on the challenge page, [www.herox.com/AirYouWear](http://www.herox.com/AirYouWear), by 5:00pm EST on September 30, 2021.
 
 **Submission Requirements**
 
@@ -405,7 +407,7 @@ Each submission for this challenge must be complete in order to be considered. I
 
 Participants cannot use the logo or official seal of the Department of Health and Human Services (HHS); the National Institutes of Health (NIH); or the National Heart, Lung, and Blood Institute (NHLBI). Participants cannot claim federal government endorsement of their submissions.
 
-***All submissions must be submitted on the challenge page, [www.herox.com/AirYouWear](http://www.herox.com/AirYouWear). Submissions for Phase 1 are due by 5:00pm EST on September 14, 2021. Submissions for Phase 2 are due by 5:00pm EST on June 29, 2022.***
+***All submissions must be submitted on the challenge page, [www.herox.com/AirYouWear](http://www.herox.com/AirYouWear). Submissions for Phase 1 are due by 5:00pm EST on September 30, 2021. Submissions for Phase 2 are due by 5:00pm EST on July 14, 2022.***
 
 **Submission Details**
 
