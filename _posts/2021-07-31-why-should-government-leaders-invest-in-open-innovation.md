@@ -18,13 +18,13 @@ According to Jarah, “We are seeing an increase in appetite for open innovation
 
 #### A few notable examples include:
 <p><ul>
-<li><span style="font-weight: 400;"> &nbsp;&nbsp;</span> <span style="font-weight: 400;">The Department of Veterans Affairs’ (VA) [Innovators Network](https://www.va.gov/INNOVATIONECOSYSTEM/views/who-we-are/innovation-network.html) which brings together over 30 VA medical centers to support a cohort of Innovation Specialists to network, share knowledge, and identify areas of collaboration.</span></li>
-<li><span style="font-weight: 400;"> &nbsp;&nbsp;</span> <span style="font-weight: 400;">GSA’s [10x program](https://10x.gsa.gov/), an innovation sourcing program to crowdsource ideas from federal government employees and develop products to improve the public’s experience with the federal government.</span></li>
+<li><span style="font-weight: 400;"> &nbsp;&nbsp;</span> <span style="font-weight: 400;">The Department of Veterans Affairs’ (VA) <a href="https://www.va.gov/INNOVATIONECOSYSTEM/views/who-we-are/innovation-network.html" target="blank" rel="noopener">Innovators Network</a> which brings together over 30 VA medical centers to support a cohort of Innovation Specialists to network, share knowledge, and identify areas of collaboration.</span></li>
+<li><span style="font-weight: 400;"> &nbsp;&nbsp;</span> <span style="font-weight: 400;">GSA’s **[10x program](https://10x.gsa.gov/)**, an innovation sourcing program to crowdsource ideas from federal government employees and develop products to improve the public’s experience with the federal government.</span></li>
 <li><span style="font-weight: 400;"> &nbsp;&nbsp;</span> <span style="font-weight: 400;">GSA’s Challenge.Gov program which provides cross-agency support to build the federal government’s capacity for using prize competitions to crowdsource innovative ways to solve problems, advance research, and improve government services.</span></li>
 </ul></p>
 
 “Open innovation in government is a continuously growing field. We are going to see more exciting things happen down the road,” said Jarah.
 
-To learn more, listen to the full episode [here](https://www.uprisor.com/podcasts/ep030).
+To learn more, listen to the full episode [here](https://www.uprisor.com/podcasts/ep030). 
 
 If you’re a federal employee with a great idea or public solver who wants to share your expertise, the Challenge.Gov team is here to support you. Contact team@Challenge.Gov, sign up for our **[newsletter](https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?qsp=USGSATTS_6)**, or follow us on social media: Twitter **[@ChallengeGov](https://twitter.com/challengegov)**, Facebook **[@ChallengeGov](https://www.facebook.com/ChallengeGov/)**.
