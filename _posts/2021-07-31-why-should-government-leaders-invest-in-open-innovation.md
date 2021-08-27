@@ -6,7 +6,7 @@ title: Why Should Government Leaders Invest in Open Innovation?
 tagline: A podcast interview with Jarah Meador
 excerpt: Government leaders are seeing the benefits of building a culture of innovation within their agencies.
 author: Quinn Slayton
-image: /assets/netlify-uploads/oi-podcast-sized.png
+image: /assets/images/oi-podcast-sized (1).png
 image_alt_text: A microphone, laptop, and headphones with the title line "Why Should Government Leaders Invest in Open Innovation?"
 ---
 
