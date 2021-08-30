@@ -382,6 +382,10 @@ how-to-enter: >-
 
   Questions about this prize challenge can be directed to [TOPprize@census.gov](mailto:TOPprize@census.gov).
 ---
+![]()
+
+![]()
+
 ### Description
 
 #### Key Dates
@@ -445,10 +449,12 @@ A total of $50,000 will be awarded by the Census Bureau to exceptional digital p
 * One (1) Student prize (*\* student teams are also eligible for grand prize and runner up; student prize only open to those who can demonstrate student status*)**:** **$10,000**
 * Subcategory: 
 
-  * One (1) to Five (5) prizes totaling **$50,000:** The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on reducing marine/ocean plastic pollution and/or creating markets for recycled materials.
-  * One (1) Prize of **$10,000**: The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on helping the public understand the impact of transportation emissions on air quality. 
+<img style="float:left" src="{{site.baseurl}}/assets/netlify-uploads/256px-Environmental_Protection_Agency_logo.png"/> One (1) to Five (5) prizes totaling **$50,000:** The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on reducing marine/ocean plastic pollution and/or creating markets for recycled materials.
 
-<img style="float:left" src="{{site.baseurl}}/assets/netlify-uploads/noaa_logo.png"/>**Climate Smart Community Challenge:**  NOAA will award one (1) or more prizes totaling **$50,000** to projects that focus on tackling the climate-crisis through climate smart communities. Prizes will be awarded to exceptional tools that improve climate resilience planning in communities around the nation by enabling local decision making and facilitating federal support of local-level priorities.
+One (1) Prize of **$10,000**: The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on helping the public understand the impact of transportation emissions on air quality. 
+
+<img style="float:left" src="{{site.baseurl}}/assets/netlify-uploads/noaa_logo_for-census-challenge.png"/>**Climate Smart Community Challenge:**  NOAA will award one (1) or more prizes totaling **$50,000** to projects that focus on tackling the climate-crisis through climate smart communities. Prizes will be awarded to exceptional tools that improve climate resilience planning in communities around the nation by enabling local decision making and facilitating federal support of local-level priorities.
+
 * Additional in-kind (non-monetary) prizes may be announced.
 
 ***Society, Economy, and the Built Environment***
