@@ -27,7 +27,7 @@ type-of-challenge:
   - Technology demonstration and hardware
   - Business plans
 submission-start: 2021/06/15 12:00 AM
-submission-end: 2023/04/19 05:00 PM
+submission-end: 2021/10/26 11:59 PM
 fiscal-year: FY21, FY22, FY23
 legal-authority: Other
 challenge-manager: Michael Young
