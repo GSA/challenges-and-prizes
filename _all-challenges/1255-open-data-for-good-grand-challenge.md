@@ -10,8 +10,9 @@ card-image: /assets/netlify-uploads/2021-grand-challenge-top_resized-for-tile.pn
 agency-logo: /assets/netlify-uploads/US-Census-Bureau-logo.png
 tagline: "Unleashing the value of open data through digital tools for the public "
 agency: U.S. Census Bureau
-partner-agencies-federal: U.S. Environmental Protection Agency (EPA)
-total-prize-offered-cash: $160,000
+partner-agencies-federal: U.S. Environmental Protection Agency (EPA); National
+  Oceanic and Atmospheric Administration (NOAA)
+total-prize-offered-cash: $210,000
 type-of-challenge:
   - Software and apps
   - Creative (multimedia & design)
@@ -96,7 +97,7 @@ prizes: >-
   #### Total Cash Prize Pool
 
 
-  This is a single-phase competition in which a total of $160,000 will be awarded by the Census Bureau and the Environmental Protection Agency (EPA).  We expect additional monetary and in-kind (non-monetary) prizes to be added by agencies such as the U.S. Department of Health and Human Services (HHS), the National Oceanic and Atmospheric Administration (NOAA), and other entities; so, please refer to this posting regularly for updates.  This section describes the prizes available in each category, as well as additional prize opportunities for which any applicant can be considered.  
+  This is a single-phase competition in which a total of $210,000 will be awarded by the Census Bureau and the Environmental Protection Agency (EPA) and the National Oceanic and Atmospheric Administration (NOAA).  We expect additional monetary and in-kind (non-monetary) prizes to be added by agencies such as the U.S. Department of Health and Human Services (HHS) and other entities; so, please refer to this posting regularly for updates.  This section describes the prizes available in each category, as well as additional prize opportunities for which any applicant can be considered.  
 
 
   #### Prize Breakdown
@@ -115,9 +116,9 @@ prizes: >-
   * One (1) Student prize (*\* student teams are also eligible for grand prize and runner up; student prize only open to those who can demonstrate student status*)**:** **$10,000**
 
   * Subcategory: 
-
     * One (1) to Five (5) prizes totaling **$50,000:** The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on reducing marine/ocean plastic pollution and/or creating markets for recycled materials.
     * One (1) Prize of **$10,000**: The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on helping the public understand the impact of transportation emissions on air quality. 
+    * **Climate Smart Community Challenge:**  NOAA will award one (1) or more prizes totaling **$50,000** to projects that focus on tackling the climate-crisis through climate smart communities. Prizes will be awarded to exceptional tools that improve climate resilience planning in communities around the nation by enabling local decision making and facilitating federal support of local-level priorities.
   * Additional in-kind (non-monetary) prizes may be announced.
 
 
@@ -274,7 +275,7 @@ rules: >-
 
   6. May not be a Federal entity or Federal employee acting within the scope of their federal employment. 
 
-  7. May not be an employee of the U.S. Census Bureau. or the U.S. Environmental Protection Agency.
+  7. May not be an employee of the U.S. Census Bureau, NOAA, or the U.S. Environmental Protection Agency.
 
   8. Must not be currently under contract with the U.S. Census Bureau or other federal agency to perform work related to the product submitted for this competition.
 
@@ -431,7 +432,7 @@ Please refer to the prizes section below for full details on prize opportunities
 
 #### Total Cash Prize Pool
 
-This is a single-phase competition in which a total of $160,000 will be awarded by the Census Bureau and the Environmental Protection Agency (EPA).  We expect additional monetary and in-kind (non-monetary) prizes to be added by agencies such as the U.S. Department of Health and Human Services (HHS), the National Oceanic and Atmospheric Administration (NOAA), and other entities; so, please refer to this posting regularly for updates.  This section describes the prizes available in each category, as well as additional prize opportunities for which any applicant can be considered.  
+This is a single-phase competition in which a total of $210,000 will be awarded by the Census Bureau and the Environmental Protection Agency (EPA) and the National Oceanic and Atmospheric Administration (NOAA).  We expect additional monetary and in-kind (non-monetary) prizes to be added by agencies such as the U.S. Department of Health and Human Services (HHS) and other entities; so, please refer to this posting regularly for updates.  This section describes the prizes available in each category, as well as additional prize opportunities for which any applicant can be considered.  
 
 #### Prize Breakdown
 
@@ -445,6 +446,7 @@ A total of $50,000 will be awarded by the Census Bureau to exceptional digital p
 * Subcategory: 
   * One (1) to Five (5) prizes totaling **$50,000:** The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on reducing marine/ocean plastic pollution and/or creating markets for recycled materials.
   * One (1) Prize of **$10,000**: The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on helping the public understand the impact of transportation emissions on air quality. 
+  * **Climate Smart Community Challenge:**  NOAA will award one (1) or more prizes totaling **$50,000** to projects that focus on tackling the climate-crisis through climate smart communities. Prizes will be awarded to exceptional tools that improve climate resilience planning in communities around the nation by enabling local decision making and facilitating federal support of local-level priorities.
 * Additional in-kind (non-monetary) prizes may be announced.
 
 ***Society, Economy, and the Built Environment***
@@ -546,7 +548,7 @@ Additionally, to be eligible to apply for and win a prize award in this Challeng
 4. Digital products that cannot demonstrate that they were created through The Opportunity Project sprints or following the [Toolkit](https://go.usa.gov/x7fWf) are not eligible.
 5. Must have complied with all the stated requirements of The Opportunity Project Prize Challenge. 
 6. May not be a Federal entity or Federal employee acting within the scope of their federal employment. 
-7. May not be an employee of the U.S. Census Bureau. or the U.S. Environmental Protection Agency.
+7. May not be an employee of the U.S. Census Bureau, NOAA, or the U.S. Environmental Protection Agency.
 8. Must not be currently under contract with the U.S. Census Bureau or other federal agency to perform work related to the product submitted for this competition.
 9. Federal grantees may not use Federal funds to develop COMPETES Act Challenge applications unless consistent with the purpose of their grant award.
 10. Federal contractors may not use Federal funds from a contract to develop COMPETES Act Challenge applications or to fund efforts in support of a COMPETES Act Challenge Submission.
