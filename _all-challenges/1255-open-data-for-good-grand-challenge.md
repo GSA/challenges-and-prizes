@@ -24,6 +24,7 @@ legal-authority: America COMPETES Act
 challenge-manager: Drew Zachary; Dominica Zhu
 challenge-manager-email: "Drew.a.zachary@census.gov; Dominica.zhu@census.gov "
 point-of-contact: "TOPprize@census.gov "
+body-content-uploads: /assets/netlify-uploads/epa-seal_for-census-challenge.png
 description: >-
   #### Key Dates
 
@@ -382,10 +383,6 @@ how-to-enter: >-
 
   Questions about this prize challenge can be directed to [TOPprize@census.gov](mailto:TOPprize@census.gov).
 ---
-![]()
-
-![]()
-
 ### Description
 
 #### Key Dates
@@ -449,7 +446,7 @@ A total of $50,000 will be awarded by the Census Bureau to exceptional digital p
 * One (1) Student prize (*\* student teams are also eligible for grand prize and runner up; student prize only open to those who can demonstrate student status*)**:** **$10,000**
 * Subcategory: 
 
-<img style="float:left" src="{{site.baseurl}}/assets/netlify-uploads/256px-Environmental_Protection_Agency_logo.png"/> One (1) to Five (5) prizes totaling **$50,000:** The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on reducing marine/ocean plastic pollution and/or creating markets for recycled materials.
+<img style="float:left" src="{{site.baseurl}}/assets/netlify-uploads/epa-seal_for-census-challenge.png"/> One (1) to Five (5) prizes totaling **$50,000:** The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on reducing marine/ocean plastic pollution and/or creating markets for recycled materials.
 
 One (1) Prize of **$10,000**: The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on helping the public understand the impact of transportation emissions on air quality. 
 
