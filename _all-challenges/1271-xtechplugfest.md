@@ -4,7 +4,7 @@ challenge-title: xTechPlugfest
 layout: front-matter-data-markdownify-content
 permalink: /challenge/xTechPlugfest/
 challenge-id: "1271"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/xtechplugfest_challenge.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
@@ -25,8 +25,8 @@ type-of-challenge:
   - Technology demonstration and hardware
   - Analytics, visualizations, algorithms
   - Scientific
-submission-start: 2021/08/12 12:00 AM
-submission-end: 2021/08/27/2021 05:00 PM
+submission-start: 08/12/2021 12:00 AM
+submission-end: 08/27/2021 05:00 PM
 fiscal-year: FY21
 legal-authority: Agency specific prize authority
 challenge-manager: Zeke Topolosky (for internal use only), Alex Mann
