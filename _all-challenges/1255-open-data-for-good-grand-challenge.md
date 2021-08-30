@@ -10,8 +10,8 @@ card-image: /assets/netlify-uploads/2021-grand-challenge-top_resized-for-tile.pn
 agency-logo: /assets/netlify-uploads/US-Census-Bureau-logo.png
 tagline: "Unleashing the value of open data through digital tools for the public "
 agency: U.S. Census Bureau
-partner-agencies-federal: U.S. Environmental Protection Agency (EPA); National
-  Oceanic and Atmospheric Administration (NOAA)
+partner-agencies-federal: U.S. Census Bureau; U.S. Environmental Protection
+  Agency (EPA); National Oceanic and Atmospheric Administration (NOAA)
 total-prize-offered-cash: $210,000
 type-of-challenge:
   - Software and apps
@@ -98,7 +98,7 @@ prizes: >-
   #### Total Cash Prize Pool
 
 
-  This is a single-phase competition in which a total of $210,000 will be awarded by the Census Bureau and the Environmental Protection Agency (EPA) and the National Oceanic and Atmospheric Administration (NOAA).  We expect additional monetary and in-kind (non-monetary) prizes to be added by agencies such as the U.S. Department of Health and Human Services (HHS) and other entities; so, please refer to this posting regularly for updates.  This section describes the prizes available in each category, as well as additional prize opportunities for which any applicant can be considered.  
+  This is a single-phase competition in which a total of $210,000 will be awarded by the Census Bureau, the Environmental Protection Agency (EPA) and the National Oceanic and Atmospheric Administration (NOAA).  We expect additional monetary and in-kind (non-monetary) prizes to be added by agencies such as the U.S. Department of Health and Human Services (HHS) and other entities; so, please refer to this posting regularly for updates.  This section describes the prizes available in each category, as well as additional prize opportunities for which any applicant can be considered.  
 
 
   #### Prize Breakdown
@@ -116,7 +116,7 @@ prizes: >-
 
   * One (1) Student prize (*\* student teams are also eligible for grand prize and runner up; student prize only open to those who can demonstrate student status*)**:** **$10,000**
 
-  * Subcategory: 
+  * Subcategories: 
 
     * <img style="padding: 10px; float: right;" src="{{site.baseurl}}/assets/netlify-uploads/epa-seal_for-census-challenge.png"/> One (1) to Five (5) prizes totaling **$50,000:** The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on reducing marine/ocean plastic pollution and/or creating markets for recycled materials.
 
@@ -433,7 +433,7 @@ Please refer to the prizes section below for full details on prize opportunities
 
 #### Total Cash Prize Pool
 
-This is a single-phase competition in which a total of $210,000 will be awarded by the Census Bureau and the Environmental Protection Agency (EPA) and the National Oceanic and Atmospheric Administration (NOAA).  We expect additional monetary and in-kind (non-monetary) prizes to be added by agencies such as the U.S. Department of Health and Human Services (HHS) and other entities; so, please refer to this posting regularly for updates.  This section describes the prizes available in each category, as well as additional prize opportunities for which any applicant can be considered.  
+This is a single-phase competition in which a total of $210,000 will be awarded by the Census Bureau, the Environmental Protection Agency (EPA) and the National Oceanic and Atmospheric Administration (NOAA).  We expect additional monetary and in-kind (non-monetary) prizes to be added by agencies such as the U.S. Department of Health and Human Services (HHS) and other entities; so, please refer to this posting regularly for updates.  This section describes the prizes available in each category, as well as additional prize opportunities for which any applicant can be considered.  
 
 #### Prize Breakdown
 
@@ -444,7 +444,7 @@ A total of $50,000 will be awarded by the Census Bureau to exceptional digital p
 * One (1) Grand prize: **$25,000**
 * One (1) Runner up prize: **$15,000**
 * One (1) Student prize (*\* student teams are also eligible for grand prize and runner up; student prize only open to those who can demonstrate student status*)**:** **$10,000**
-* Subcategory: 
+* Subcategories: 
 
   * <img style="padding: 10px; float: right;" src="{{site.baseurl}}/assets/netlify-uploads/epa-seal_for-census-challenge.png"/> One (1) to Five (5) prizes totaling **$50,000:** The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on reducing marine/ocean plastic pollution and/or creating markets for recycled materials.
 
