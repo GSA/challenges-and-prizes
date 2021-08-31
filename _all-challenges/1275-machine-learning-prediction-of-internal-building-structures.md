@@ -8,8 +8,8 @@ status: open
 sidenav: false
 card-image: /assets/netlify-uploads/machinelearningchallenge_341x160.jpg
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
-tagline: The goal of this challenge is to predict the internal configuration of
-  structures by using external satellite photographs.
+tagline: The goal of this challenge is to predict the internal structural
+  configuration of structures using external satellite photographs.
 agency: Air Force Research Laboratory
 partners-non-federal: National Security Innovation Network, Wright Brothers
   Institute, Doolittle Institute, IN3
