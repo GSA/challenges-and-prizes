@@ -10,8 +10,9 @@ card-image: /assets/netlify-uploads/2021-grand-challenge-top_resized-for-tile.pn
 agency-logo: /assets/netlify-uploads/US-Census-Bureau-logo.png
 tagline: "Unleashing the value of open data through digital tools for the public "
 agency: U.S. Census Bureau
-partner-agencies-federal: U.S. Environmental Protection Agency (EPA)
-total-prize-offered-cash: $160,000
+partner-agencies-federal: U.S. Census Bureau; U.S. Environmental Protection
+  Agency (EPA); National Oceanic and Atmospheric Administration (NOAA)
+total-prize-offered-cash: $210,000
 type-of-challenge:
   - Software and apps
   - Creative (multimedia & design)
@@ -23,6 +24,7 @@ legal-authority: America COMPETES Act
 challenge-manager: Drew Zachary; Dominica Zhu
 challenge-manager-email: "Drew.a.zachary@census.gov; Dominica.zhu@census.gov "
 point-of-contact: "TOPprize@census.gov "
+body-content-uploads: /assets/netlify-uploads/epa-seal_for-census-challenge.png
 description: >-
   #### Key Dates
 
@@ -96,7 +98,7 @@ prizes: >-
   #### Total Cash Prize Pool
 
 
-  This is a single-phase competition in which a total of $160,000 will be awarded by the Census Bureau and the Environmental Protection Agency (EPA).  We expect additional monetary and in-kind (non-monetary) prizes to be added by agencies such as the U.S. Department of Health and Human Services (HHS), the National Oceanic and Atmospheric Administration (NOAA), and other entities; so, please refer to this posting regularly for updates.  This section describes the prizes available in each category, as well as additional prize opportunities for which any applicant can be considered.  
+  This is a single-phase competition in which a total of $210,000 will be awarded by the Census Bureau, the Environmental Protection Agency (EPA) and the National Oceanic and Atmospheric Administration (NOAA).  We expect additional monetary and in-kind (non-monetary) prizes to be added by agencies such as the U.S. Department of Health and Human Services (HHS) and other entities; so, please refer to this posting regularly for updates.  This section describes the prizes available in each category, as well as additional prize opportunities for which any applicant can be considered.  
 
 
   #### Prize Breakdown
@@ -114,10 +116,14 @@ prizes: >-
 
   * One (1) Student prize (*\* student teams are also eligible for grand prize and runner up; student prize only open to those who can demonstrate student status*)**:** **$10,000**
 
-  * Subcategory: 
+  * Subcategories: 
 
-    * One (1) to Five (5) prizes totaling **$50,000:** The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on reducing marine/ocean plastic pollution and/or creating markets for recycled materials.
+    * <img style="padding: 10px; float: right;" src="{{site.baseurl}}/assets/netlify-uploads/epa-seal_for-census-challenge.png"/> One (1) to Five (5) prizes totaling **$50,000:** The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on reducing marine/ocean plastic pollution and/or creating markets for recycled materials.
+
     * One (1) Prize of **$10,000**: The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on helping the public understand the impact of transportation emissions on air quality. 
+
+    * <img style="padding: 10px; float: right;" src="{{site.baseurl}}/assets/netlify-uploads/noaa_logo_for-census-challenge.png"/>**Climate Smart Community Challenge:**  NOAA will award one (1) or more prizes totaling **$50,000** to projects that focus on tackling the climate-crisis through climate smart communities. Prizes will be awarded to exceptional tools that improve climate resilience planning in communities around the nation by enabling local decision making and facilitating federal support of local-level priorities.
+
   * Additional in-kind (non-monetary) prizes may be announced.
 
 
@@ -172,7 +178,6 @@ rules: >-
   * **In-kind (non-monetary) prize consideration:** Would you like to be considered for in-kind prizes? (yes/no) 
 
   * **Optional:** *Certain prizes are offered only to students, non-profit organizations, and start-up companies. If you would like to be considered for any of these categories, please provide the following documentation.* 
-
     * To be considered for student prizes, please include the name of your academic institution and graduation year.
     * To be considered for in-kind prizes intended for start-up companies or small business, please identify which individual/organization in your team represents a start-up company or small business, and please briefly describe why you consider your team to be in this category.
     * If you would like to be considered for in-kind prizes intended for 501(c)(3) non-profit organizations, please provide any of the following as evidence of nonprofit status: (a) a reference to the applicant organization’s listing in the Internal Revenue Service’s (IRS) most recent list of tax-exempt organizations described in section 501(c)(3) of the IRS Code; OR (b) a copy of a currently valid IRS tax exemption certificate; OR (c) a certified copy of the organization’s certificate of incorporation or similar document that clearly establishes nonprofit status. 
@@ -230,7 +235,6 @@ rules: >-
   * Each product should be submitted in at least one (1) and no more than two (2) categories.
 
   * Applicants must submit a working, interactive digital tool that uses open government data to address one or more of the challenges in the categories described above.
-
     * “Working product” indicates that the intended features of the product have been created and are currently functional and usable to the public or intended user(s). For example, a clickable prototype that illustrates future functionality, but does not yet provide it to the user, cannot be considered. 
     * The product must include interactive functionality for the end user to access and/or analyze the open data (for example, a static slide presentation that illustrates an analysis but is not interactive would not be eligible). 
     * The product must be capable of being successfully installed and running consistently on the platform for which it is intended, and must function as depicted or expressed in the text description.
@@ -274,7 +278,7 @@ rules: >-
 
   6. May not be a Federal entity or Federal employee acting within the scope of their federal employment. 
 
-  7. May not be an employee of the U.S. Census Bureau. or the U.S. Environmental Protection Agency.
+  7. May not be an employee of the U.S. Census Bureau, NOAA, or the U.S. Environmental Protection Agency.
 
   8. Must not be currently under contract with the U.S. Census Bureau or other federal agency to perform work related to the product submitted for this competition.
 
@@ -328,29 +332,28 @@ judging: >-
 
 
   * **Technical Quality (20%):** This score focuses on the overall user experience and user interface (UX/UI) design of the product, designing and implementation of product functionality, visual design if applicable, and generally how well the product achieves its stated functionality.  This includes questions such as: 
-
     * Does the product have well-functioning features?
     * Is it user friendly? Does it provide a positive user experience?
     * If the product is intended as a front-end interface, does it follow visual and user experience design best practices?
-  * **Cross-Sector Collaboration and Diversity (15%):** This score focuses on the team’s build process, and the extent to which “user advocates” and diverse end user perspectives were included in developing the product. This includes questions such as: 
 
+  * **Cross-Sector Collaboration and Diversity (15%):** This score focuses on the team’s build process, and the extent to which “user advocates” and diverse end user perspectives were included in developing the product. This includes questions such as: 
     * Was user research conducted to identify specific community or end user needs, and does the product’s functionality reflect those needs? 
     * Has the product been tested and iterated upon based on feedback from end users?
     * Do the partner organizations/collaborating end user represent diverse perspectives within the overall user audience? Does the product account for diverse needs across the user community and offer a solution that is inclusive of many end users within the target audience?
-  * **Use of Federal Open Data (25%):** This score focuses on the extent to which the product uses federal open data creatively and effectively. This includes questions such as: 
 
+  * **Use of Federal Open Data (25%):** This score focuses on the extent to which the product uses federal open data creatively and effectively. This includes questions such as: 
     * Does the product meaningfully use federal open data sets from the Census Bureau and other federal agencies to solve a problem or deliver value for the end user?
     * Does it creatively align federal data alongside state, local, or other types of data? 
     * Does the product present or analyze the data in a new creative way?
-  * **Implementation + Sustainability (20%):** This score focuses on the team’s stated or demonstrated plans for deploying the tool to end users or an existing user base. This includes questions such as: 
 
+  * **Implementation + Sustainability (20%):** This score focuses on the team’s stated or demonstrated plans for deploying the tool to end users or an existing user base. This includes questions such as: 
     * Does this team have established partnership(s) or relationship(s) with the end user community? 
     * Does the product have a thorough and realistic implementation plan that includes deploying the product to end users?
     * Does the team describe a sound strategy for the ongoing maintenance of this product?
     * Has the product team deployed the tool to end users, whether directly or via a partner, or have they described a compelling and specific plan to do so? 
     * Is this product well designed to scale and grow with increasing users? 
-  * **Impact (20%):** This score focuses on the team’s documented or planned impact on the target issue and end user community. This includes questions such as: 
 
+  * **Impact (20%):** This score focuses on the team’s documented or planned impact on the target issue and end user community. This includes questions such as: 
     * Does this team have an established partnership with user advocates/community groups? 
     * How compelling and realistic is this product’s ability to achieve important outcomes for end users? 
     * Does the product directly and effectively address the problem statement and community it was built for? 
@@ -365,7 +368,6 @@ how-to-enter: >-
 
 
   1. Email your entire prize submission package (Team Information, Product Information, Product Description, Letter(s) of Support, and Optional Multimedia) to [TOPprize@census.gov](mailto:TOPprize@census.gov) after the submission window opens and by the submission deadline.  Include the Subject Line: “Prize Submission: \[Team Name, Product Name]”.
-
      * Teams are strongly encouraged to [use the template available at this link](https://docs.google.com/document/d/1zjfOmO9eEzGIO2DssPYeZ7twRReBUDp7b5tAARKz9Ow/edit) for parts 1-3.  
      * Collaborator letter(s) can be included in the same PDF or attached separately. 
      * Optional videos can be linked in the same PDF or attached separately.   
@@ -431,7 +433,7 @@ Please refer to the prizes section below for full details on prize opportunities
 
 #### Total Cash Prize Pool
 
-This is a single-phase competition in which a total of $160,000 will be awarded by the Census Bureau and the Environmental Protection Agency (EPA).  We expect additional monetary and in-kind (non-monetary) prizes to be added by agencies such as the U.S. Department of Health and Human Services (HHS), the National Oceanic and Atmospheric Administration (NOAA), and other entities; so, please refer to this posting regularly for updates.  This section describes the prizes available in each category, as well as additional prize opportunities for which any applicant can be considered.  
+This is a single-phase competition in which a total of $210,000 will be awarded by the Census Bureau, the Environmental Protection Agency (EPA) and the National Oceanic and Atmospheric Administration (NOAA).  We expect additional monetary and in-kind (non-monetary) prizes to be added by agencies such as the U.S. Department of Health and Human Services (HHS) and other entities; so, please refer to this posting regularly for updates.  This section describes the prizes available in each category, as well as additional prize opportunities for which any applicant can be considered.  
 
 #### Prize Breakdown
 
@@ -442,9 +444,14 @@ A total of $50,000 will be awarded by the Census Bureau to exceptional digital p
 * One (1) Grand prize: **$25,000**
 * One (1) Runner up prize: **$15,000**
 * One (1) Student prize (*\* student teams are also eligible for grand prize and runner up; student prize only open to those who can demonstrate student status*)**:** **$10,000**
-* Subcategory: 
-  * One (1) to Five (5) prizes totaling **$50,000:** The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on reducing marine/ocean plastic pollution and/or creating markets for recycled materials.
+* Subcategories: 
+
+  * <img style="padding: 10px; float: right;" src="{{site.baseurl}}/assets/netlify-uploads/epa-seal_for-census-challenge.png"/> One (1) to Five (5) prizes totaling **$50,000:** The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on reducing marine/ocean plastic pollution and/or creating markets for recycled materials.
+
   * One (1) Prize of **$10,000**: The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on helping the public understand the impact of transportation emissions on air quality. 
+
+  * <img style="padding: 10px; float: right;" src="{{site.baseurl}}/assets/netlify-uploads/noaa_logo_for-census-challenge.png"/>**Climate Smart Community Challenge:**  NOAA will award one (1) or more prizes totaling **$50,000** to projects that focus on tackling the climate-crisis through climate smart communities. Prizes will be awarded to exceptional tools that improve climate resilience planning in communities around the nation by enabling local decision making and facilitating federal support of local-level priorities.
+
 * Additional in-kind (non-monetary) prizes may be announced.
 
 ***Society, Economy, and the Built Environment***
@@ -476,6 +483,7 @@ Applications for this prize challenge have four (4) required components and one 
 Teams are strongly encouraged to [use the template at this link](https://docs.google.com/document/d/1zjfOmO9eEzGIO2DssPYeZ7twRReBUDp7b5tAARKz9Ow/edit) for parts 1-3.  If you are unable to access the link, please email [TOPprize@census.gov](mailto:TOPprize@census.gov).
 
 **PART 1:  Team information**
+
 * **Lead organization:**  Name one company, organization or individual as the lead organization who will receive the prize funds if awarded. 
 * **Contributors:** List the organizations and individuals that contributed to the tech team that built this product. For each individual, please provide name, organization (if applicable), and role in developing the product.
 * **Eligibility:** Please identify your eligibility for this prize, as 1) a 2020 or 2021 TOP Sprint or TOPx sprint participant (list year and problem statement) or 2) an independent team using TOP methodology.  For either type of eligibility, please indicate either facilitated sprint or digital toolkit, and year of participation.
@@ -546,7 +554,7 @@ Additionally, to be eligible to apply for and win a prize award in this Challeng
 4. Digital products that cannot demonstrate that they were created through The Opportunity Project sprints or following the [Toolkit](https://go.usa.gov/x7fWf) are not eligible.
 5. Must have complied with all the stated requirements of The Opportunity Project Prize Challenge. 
 6. May not be a Federal entity or Federal employee acting within the scope of their federal employment. 
-7. May not be an employee of the U.S. Census Bureau. or the U.S. Environmental Protection Agency.
+7. May not be an employee of the U.S. Census Bureau, NOAA, or the U.S. Environmental Protection Agency.
 8. Must not be currently under contract with the U.S. Census Bureau or other federal agency to perform work related to the product submitted for this competition.
 9. Federal grantees may not use Federal funds to develop COMPETES Act Challenge applications unless consistent with the purpose of their grant award.
 10. Federal contractors may not use Federal funds from a contract to develop COMPETES Act Challenge applications or to fund efforts in support of a COMPETES Act Challenge Submission.
