@@ -23,7 +23,7 @@ type-of-challenge:
 submission-start: 2021/09/01 12:00 PM
 submission-end: 2021/10/15 11:59 PM
 fiscal-year: FY21, FY22
-legal-authority: Agency specific prize authority
+legal-authority: Other Transaction Authority
 challenge-manager: Derek Leiter
 challenge-manager-email: dleiter@nsin.us
 point-of-contact: dleiter@nsin.us
