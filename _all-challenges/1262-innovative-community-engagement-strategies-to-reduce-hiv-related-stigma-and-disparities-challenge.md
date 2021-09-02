@@ -27,7 +27,7 @@ legal-authority: America COMPETES Act
 challenge-manager: Joya Chowdury
 challenge-manager-email: Joya.chowdhury@hhs.gov
 point-of-contact: "HIVChallenge@hhs.gov "
-body-content-uploads: /assets/netlify-uploads/hiv-challenge-faq.pdf
+body-content-uploads: /assets/netlify-uploads/hiv-challenge-faq_updated-9.2.21.pdf
 description: >-
   ### Description
 
@@ -38,9 +38,11 @@ description: >-
   * The August 19th webinar materials are posted:
 
     * [View webinar slides (PDF) - click here]({{site.baseurl}}/assets/netlify-uploads/hiv-challenge_webinar_8.18.21.pdf)
-    * [View FAQ (PDF) – click here]({{site.baseurl}}/assets/netlify-uploads/hiv-challenge-faq.pdf)
+    * [View FAQ (PDF) – click here]({{site.baseurl}}/assets/netlify-uploads/h…e-faq_updated-9.2.21.pdf)
     * [Webinar Recording- click here](https://youtu.be/3_Gudbxfx2g)
-  * Clarification on submission – both a written proposal AND supplemental video submission are required.
+  * Clarification on submission – both a written proposal AND supplemental video submission are required.   
+
+
 
 
   #### **Challenge Overview**
@@ -113,7 +115,7 @@ description: >-
   * Webinar: Thursday, August 19, 2021, 3:00 – 4:00 pm EDT. 
 
     * [View webinar slides (PDF) - click here]({{site.baseurl}}/assets/netlify-uploads/hiv-challenge_webinar_8.18.21.pdf)
-    * [View FAQ (PDF) – click here]({{site.baseurl}}/assets/netlify-uploads/hiv-challenge-faq.pdf)
+    * [View FAQ (PDF) – click here]({{site.baseurl}}/assets/netlify-uploads/h…e-faq_updated-9.2.21.pdf)
     * [Webinar Recording- click here](https://youtu.be/3_Gudbxfx2g)
   * Submission period ends: Thursday, September 23, 2021 11:59 PM EDT
 
@@ -553,13 +555,14 @@ how-to-enter: >-
 ---
 ### Description
 
-####  **IMPORTANT UPDATES - Last updated: 9/1/2021:**
+#### **IMPORTANT UPDATES - Last updated: 9/1/2021:**
 
 * The August 19th webinar materials are posted:
 
   * [View webinar slides (PDF) - click here]({{site.baseurl}}/assets/netlify-uploads/hiv-challenge_webinar_8.18.21.pdf)
-  * [View FAQ (PDF) – click here]({{site.baseurl}}/assets/netlify-uploads/hiv-challenge-faq.pdf)
+  * [View FAQ (PDF) – click here]({{site.baseurl}}/assets/netlify-uploads/h…e-faq_updated-9.2.21.pdf)
   * [Webinar Recording- click here](https://youtu.be/3_Gudbxfx2g)
+
 * Clarification on submission – both a written proposal AND supplemental video submission are required.   
 
 #### **Challenge Overview**
@@ -608,8 +611,9 @@ The competition has three phases. All eligible submissions will be evaluated, an
 * Webinar: Thursday, August 19, 2021, 3:00 – 4:00 pm EDT. 
 
   * [View webinar slides (PDF) - click here]({{site.baseurl}}/assets/netlify-uploads/hiv-challenge_webinar_8.18.21.pdf)
-  * [View FAQ (PDF) – click here]({{site.baseurl}}/assets/netlify-uploads/hiv-challenge-faq.pdf)
+   * [View FAQ (PDF) – click here]({{site.baseurl}}/assets/netlify-uploads/h…e-faq_updated-9.2.21.pdf)
   * [Webinar Recording- click here](https://youtu.be/3_Gudbxfx2g)
+
 * Submission period ends: Thursday, September 23, 2021 11:59 PM EDT
 * Winners announced: October 2021
 
