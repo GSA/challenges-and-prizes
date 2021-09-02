@@ -38,7 +38,7 @@ description: >-
   * The August 19th webinar materials are posted:
 
     * [View webinar slides (PDF) - click here]({{site.baseurl}}/assets/netlify-uploads/hiv-challenge_webinar_8.18.21.pdf)
-    * [View FAQ (PDF) – click here]({{site.baseurl}}/assets/netlify-uploads/h…e-faq_updated-9.2.21.pdf)
+    * [View FAQ (PDF) – click here]({{site.baseurl}}/assets/netlify-uploads/hiv-challenge-faq_updated-9.2.21.pdf)
     * [Webinar Recording- click here](https://youtu.be/3_Gudbxfx2g)
   * Clarification on submission – both a written proposal AND supplemental video submission are required.   
 
@@ -560,7 +560,7 @@ how-to-enter: >-
 * The August 19th webinar materials are posted:
 
   * [View webinar slides (PDF) - click here]({{site.baseurl}}/assets/netlify-uploads/hiv-challenge_webinar_8.18.21.pdf)
-  * [View FAQ (PDF) – click here]({{site.baseurl}}/assets/netlify-uploads/h…e-faq_updated-9.2.21.pdf)
+  * [View FAQ (PDF) – click here]({{site.baseurl}}/assets/netlify-uploads/hiv-challenge-faq_updated-9.2.21.pdf)
   * [Webinar Recording- click here](https://youtu.be/3_Gudbxfx2g)
 
 * Clarification on submission – both a written proposal AND supplemental video submission are required.   
@@ -650,7 +650,6 @@ The winners are expected to present their project findings and participate in po
 #### Eligibility Criteria
 
 * To be eligible to win a prize under this Challenge, a Participant (whether an individual, group of individuals, or entity):
-
   * Shall have registered to participate in the Challenge under the rules promulgated by HHS as published in this announcement; 
   * Shall have complied with all the requirements set forth in this announcement; 
   * In the case of a private entity, shall be incorporated in and maintain a primary place of business in the United States, and in the case of an individual, whether participating singly or in a group, shall be a citizen or permanent resident of the United States; however, non-U.S. citizens and non-permanent residents can participate as a member of a team that otherwise satisfies the eligibility criteria. Non-U.S. citizens and non-permanent residents are not eligible to win a monetary prize (in whole or in part). Their participation as part of a winning team, if applicable, may be recognized when the results are announced;
@@ -695,27 +694,26 @@ The Award Approving Official will be the Deputy Assistant Secretary for Minority
 Up to 100 points may be awarded for Phase 1.  Specifically, up to 30 points may be awarded for “impact,” up to 30 points may be awarded for “innovation,” up to 20 points may be awarded for “accessibility,” and up to 20 points may be awarded for “sustainability.”
 
 * **Impact  - Up to 30 points may be awarded for “impact.”  Aspects of “impact” that we may consider are:**
-
   * How well does the applicant describe the intended population of focus and community of focus? How well does the proposed solution fit local needs, resources, and values of the target population? To what extent is the proposed solution culturally and linguistically appropriate? 
   * How well does the project incorporate community engagement and mobilization strategies into the solution (i.e. involvement of priority population in the co-design and implementation of the strategy)? Does the process and structure of the concept allow for all stakeholders to be heard and equally valued?
   * How well does the project outline clear goals, objectives and expected outcomes?
   * How well does the project measure stigma reduction, PrEP and ART utilization?
   * How potentially effective is the solution (approach) to reducing stigma related to PrEP and ART among racial and ethnic minority individuals who are PWH or at increased risk for HIV infection?
-* **Innovation - Up to 30 points may be awarded for “innovation.”  Aspects of “innovation” that we may consider are:**
 
+* **Innovation - Up to 30 points may be awarded for “innovation.”  Aspects of “innovation” that we may consider are:**
   * How innovative is the proposed solution in reducing stigma through community engagement/mobilization in the community of focus? Among specific racial and ethnic minority groups? Among individuals who are PWH or at increased risk for HIV infection?
   * How innovative is the project in engaging the community/ stakeholders/ partners in the conceptualization of the solution? Were they involved in establishing the project goals and objectives
   * How well does the applicant ensure community members are involved throughout the project?
   * How innovative is the proposed solution in its ability to be tailored to culturally and linguistically diverse audiences, including users with low health literacy or limited English language proficiency?
   * To what extent is the proposed solution informed by evidence, but adding to (rather than duplicating) the existing body of knowledge on effective models and practices for community engagement/mobilization to reduce stigma? 
   * If technology is a part of the solution, how innovative is the use of technology to maximize reach and accessibility for the project?
-* **Accessibility (to be made available to, reachable) - Up to 20 points may be awarded for “accessibility.”  Aspects of “accessibility” that we may consider are:** 
 
+* **Accessibility (to be made available to, reachable) - Up to 20 points may be awarded for “accessibility.”  Aspects of “accessibility” that we may consider are:** 
   * How accessible is the proposed solution across social, cultural, and environmental factors that influence HIV treatment and care?
   * How accessible is the proposed solution to the population of focus (e.g., community members, targeted racial and ethnic groups, racial and ethnic minority individuals who are PWH or at increased risk for HIV infection)?
   * Will the program reach the intended audience inclusive of the diversity within the population?
-* **Sustainability - Up to 20 points may be awarded for “sustainability.”  Aspects of “sustainability” that we may consider are:**
 
+* **Sustainability - Up to 20 points may be awarded for “sustainability.”  Aspects of “sustainability” that we may consider are:**
   * How well does this proposed innovation have the ability to continue beyond the end of the competition
   * How achievable are the project’s goals and objectives based on the outlined concept?
   * Can the proposed solution be scaled-up and adapted in other communities, if proven effective?
@@ -727,7 +725,6 @@ Up to 100 points may be awarded for Phase 2.  Specifically, up to 30 points may 
 *\*Please note criteria in italics are the same as phase 1 to ensure they will continue to be addressed in phase 2.*
 
 * **Impact - Up to 30 points may be awarded for “impact.”  Aspects of “impact” that we may consider are:**
-
   * *How potentially effective is the solution to reducing stigma related to PrEP and ART among racial and ethnic minority individuals who are PWH or who experience at increased risk for HIV infection?* How well does the project outline clear strategic, measurable, ambitious, realistic, time-bound, inclusive and equitable (SMARTIE) goals, objectives and expected outcomes?
   * *How well does the project incorporate community engagement and mobilization strategies into the solution (i.e. involvement of priority population in the co-design and implementation of the strategy)? How well does the project integrate the targeted population into solution?*
   * How well does the project address changes that need to occur in the environment to ensure success of project activities? 
@@ -737,18 +734,18 @@ Up to 100 points may be awarded for Phase 2.  Specifically, up to 30 points may 
   * How well does the project incorporate evaluation plan for the small-scale testing of the approach in the proposal?
   * How well does the project describe the dissemination of the findings?
   * Is the proposed solution achievable given available resources?
-* **Innovation - Up to 30 points may be awarded for “innovation.”  Aspects of “innovation” that we may consider are:**
 
+* **Innovation - Up to 30 points may be awarded for “innovation.”  Aspects of “innovation” that we may consider are:**
   * How compelling is the case for innovation in this idea? How likely is the proposed solution to succeed when other ideas to address similar problems have not?
   * *How innovative is the proposed solution in reducing stigma through community engagement/mobilization in the community of focus? Among specific racial and ethnic minority groups? Among individuals who are PWH or at increased risk for HIV infection? How innovative is the project in engaging the community/stakeholders/partners in the development of the solution?*
   * *How innovative is the proposed solution and its ability to be tailored to culturally and linguistically diverse audiences, including users with low health literacy or limited English language proficiency?*
   * *If technology is a part of the solution, how innovative is the use of technology to maximize reach and accessibility for the project?*	
-* **Accessibility (to be made available to, reachable) - Up to 20 points may be awarded for “accessibility.”  Aspects of “accessibility” that we may consider are:**
 
+* **Accessibility (to be made available to, reachable) - Up to 20 points may be awarded for “accessibility.”  Aspects of “accessibility” that we may consider are:**
   * *How accessible is the solution across social, cultural, and environmental factors that influence HIV treatment and care?*
   * *How accessible is the solution to the population of focus (e.g., community members, specific racial and ethnic groups, racial and ethnic minority individuals who are PWH or at increased risk for HIV infection)*
-* **Sustainability  - Up to 20 points may be awarded for “sustainability.”  Aspects of “sustainability” that we may consider are:**
 
+* **Sustainability  - Up to 20 points may be awarded for “sustainability.”  Aspects of “sustainability” that we may consider are:**
   * How well does the solution fit into daily life for PWH or individuals at increased risk for HIV? 
   * How achievable are the project’s SMARTIE goals and objectives based on the outlined concept?
   * *Are the proposed project and solution feasible with the time and money available?*
@@ -760,7 +757,6 @@ Up to 100 points may be awarded for Phase 2.  Specifically, up to 30 points may 
 Up to 100 points may be awarded for Phase 3.  Specifically, up to 30 points may be awarded for “impact,” up to 30 points may be awarded for “innovation,” up to 20 points may be awarded for “accessibility,” and up to 20 points may be awarded for “sustainability.”
 
 **Impact - Up to 30 points may be awarded for “impact.”  Aspects of “impact” that we may consider are:**
-
 * Overall, how promising is the solution in terms of its ability to reach the population of focus?
 * How did the solution positively impact outcomes for the population of focus? How well the expected outcomes were met (or were they exceeded)? Did the project achieve goals set in Phase 1 and 2?
 * Based on the small-scale testing, to what degree did the solution achieve the results?
@@ -771,16 +767,13 @@ Up to 100 points may be awarded for Phase 3.  Specifically, up to 30 points may 
 * How well has the team described next steps beyond the Challenge?
 
 **Innovation - Up to 30 points may be awarded for “innovation.”  Aspects of “innovation” that we may consider are:**
-
 * How has the work demonstrated the participant’s ability to succeed at creating a viable, scalable innovation, where others have not?
 * How innovative is the project in engaging the community/stakeholders/partners in the implementation and testing of the solution?
 
 **Accessibility (to be made available to, reachable) - Up to 20 points may be awarded for “accessibility.”  Aspects of “accessibility” that we may consider are:**
-
 * Did the refinement of the proposal and small-scale testing demonstrate that the solution has the potential to be accessible to the population of focus, including considerations of social, cultural, and environmental factors that influence access to HIV treatment and care?
 
 **Sustainability - Up to 20 points may be awarded for “sustainability.”  Aspects of “sustainability” that we may consider are:**
-
 * Was the solution compelling and useful enough to the population of focus to encourage them to use it? 
 * Based on the testing, has the participant demonstrated the viability of the solution for addressing the problem? 
 * How likely is the project to continue after the competition ends? How well does the project and/or solution demonstrate strong potential for scalability and sustainability, including potential for replication in other communities?
@@ -794,7 +787,6 @@ Up to 100 points may be awarded for Phase 3.  Specifically, up to 30 points may 
 
 * In this email, you must identify only one Official Representative for each competition registration. The registration email must be sent by the Official Representative
 * Include a subject line stating “HIV Competition Registration.”  The Official Representative must provide the following information in the body of the email:
-
   * Official Representative first and last name, 
   * Official Representative phone number, 
   * Official Representative email address,
@@ -812,7 +804,6 @@ Submissions for Phase 1 of this competition are **due by September 23, 2021 at 1
 * All submissions must be in English.
 * Participants must not use HHS or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement
 * Submission details should be sent to [HIVChallenge@hhs.gov](mailto:HIVChallenge@hhs.gov):
-
   * Title the email subject line “HIV Competition Phase 1 Proposal.”
   * Email sender (person and email address) must be Official Representative/person of contact for the team.
 
@@ -839,7 +830,6 @@ Submissions for Phase 2 of this competition are **due by March 3, 2022 at 11:59 
 * All submissions must be in English.
 * Participants must not use HHS or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement.
 * Submission details should be sent to [HIVChallenge@hhs.gov](mailto:HIVChallenge@hhs.gov):
-
   * Title the email subject line “HIV Competition Phase 2 Proposal.”
   * Email sender (person and email address) must be Official Representative/person of contact for the team.
 
@@ -870,7 +860,6 @@ Submissions for Phase 3 of this competition are **due by July 14, 2022 at 11:59 
 * All submissions must be in English.
 * Participants must not use HHS or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement.
 * Submission details should be sent to [HIVChallenge@hhs.gov](mailto:HIVChallenge@hhs.gov):
-
   * Title the email subject line “HIV Competition Phase 3 Proposal.”
   * Email sender (person and email address) must be Official Representative/person of contact for the team.
 
