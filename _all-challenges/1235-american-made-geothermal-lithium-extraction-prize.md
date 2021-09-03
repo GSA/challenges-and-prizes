@@ -4,7 +4,7 @@ challenge-title: American-Made Geothermal Lithium Extraction Prize
 layout: front-matter-data-markdownify-content
 permalink: /challenge/american-made-geothermal-lithium-extraction-prize/
 challenge-id: "1235"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/geolithium_withtext.jpg
 agency-logo: /assets/netlify-uploads/256px-Seal_of_the_United_States_Department_of_Energy.png
@@ -19,7 +19,7 @@ type-of-challenge:
   - Business plans
   - Scientific
 submission-start: 2021/03/31 5:00 PM
-submission-end: 2021/09/02 5:00 PM
+submission-end: 09/02/2021 5:00 PM
 fiscal-year: FY21, FY22, FY23
 legal-authority: America COMPETES Act
 challenge-manager: Caity Smith

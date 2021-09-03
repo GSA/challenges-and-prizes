@@ -4,7 +4,7 @@ challenge-title: xTechSearch 6
 layout: front-matter-data-markdownify-content
 permalink: /challenge/xtechsearch-6/
 challenge-id: "1266"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/xtechsearch6.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
@@ -22,7 +22,7 @@ type-of-challenge:
   - Analytics, visualizations, algorithms
   - Scientific
 submission-start: 2021/07/30 12:00 AM
-submission-end: 2021/09/02 05:00 PM
+submission-end: 09/02/2021 05:00 PM
 fiscal-year: FY21
 legal-authority: Agency specific prize authority
 challenge-manager: Zeke Topolosky, Alex Mann
