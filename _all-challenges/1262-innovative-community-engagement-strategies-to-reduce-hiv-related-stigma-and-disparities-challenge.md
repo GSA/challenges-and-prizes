@@ -115,7 +115,7 @@ description: >-
   * Webinar: Thursday, August 19, 2021, 3:00 – 4:00 pm EDT. 
 
     * [View webinar slides (PDF) - click here]({{site.baseurl}}/assets/netlify-uploads/hiv-challenge_webinar_8.18.21.pdf)
-    * [View FAQ (PDF) – click here]({{site.baseurl}}/assets/netlify-uploads/h…e-faq_updated-9.2.21.pdf)
+    * [View FAQ (PDF) – click here]({{site.baseurl}}/assets/netlify-uploads/hiv-challenge-faq_updated-9.2.21.pdf)
     * [Webinar Recording- click here](https://youtu.be/3_Gudbxfx2g)
   * Submission period ends: Thursday, September 23, 2021 11:59 PM EDT
 
@@ -611,7 +611,7 @@ The competition has three phases. All eligible submissions will be evaluated, an
 * Webinar: Thursday, August 19, 2021, 3:00 – 4:00 pm EDT. 
 
   * [View webinar slides (PDF) - click here]({{site.baseurl}}/assets/netlify-uploads/hiv-challenge_webinar_8.18.21.pdf)
-   * [View FAQ (PDF) – click here]({{site.baseurl}}/assets/netlify-uploads/h…e-faq_updated-9.2.21.pdf)
+   * [View FAQ (PDF) – click here]({{site.baseurl}}/assets/netlify-uploads/hiv-challenge-faq_updated-9.2.21.pdf)
   * [Webinar Recording- click here](https://youtu.be/3_Gudbxfx2g)
 
 * Submission period ends: Thursday, September 23, 2021 11:59 PM EDT
