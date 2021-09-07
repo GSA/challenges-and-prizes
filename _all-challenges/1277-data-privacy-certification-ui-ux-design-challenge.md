@@ -8,7 +8,9 @@ status: open
 sidenav: false
 card-image: /assets/netlify-uploads/ad_1200x675px.png
 agency-logo: /assets/netlify-uploads/ita-emblem-horizontal-static-card_3.png
-tagline: Help us find where the Eagle has landed, Again!!
+tagline: "Employ your UI and UX design skills to help make it easier for
+  organizations around the world to be recognized for complying with
+  international data privacy standards. "
 agency: International Trade Administration (ITA)
 partner-agencies-federal: U.S. Department of State, NASA
 external-url: https://www.freelancer.com/contest/1989803
