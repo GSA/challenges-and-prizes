@@ -5,7 +5,7 @@ layout: front-matter-data-markdownify-content
 permalink: /challenge/data-privacy-certification-ui-ux-design-challenge/
 challenge-id: "1277"
 status: open
-sidenav: true
+sidenav: false
 card-image: /assets/netlify-uploads/ad_1200x675px.png
 agency-logo: /assets/netlify-uploads/ita-emblem-horizontal-static-card_3.png
 tagline: Help us find where the Eagle has landed, Again!!
