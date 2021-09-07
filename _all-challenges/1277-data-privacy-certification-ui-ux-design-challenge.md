@@ -23,8 +23,3 @@ challenge-manager: Jeffrey Odum, Shannon Coe
 challenge-manager-email: jeffrey.odum@trade.gov, shannon.coe@trade.gov
 point-of-contact: jeffrey.odum@trade.gov, shannon.coe@trade.gov
 ---
-# This challenge is externally hosted: 
-
-You can view the challenge details here: 
-
-[https://www.freelancer.com/contest/1989803](<Challenge Redirect URL	https://www.freelancer.com/contest/1989803>)
