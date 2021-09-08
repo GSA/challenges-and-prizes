@@ -15,7 +15,7 @@ agency: Bureau of Reclamation
 partner-agencies-federal: Federal Highway Administration Office of Innovation
   Implementation – Resource Center, NASA Tournament Lab
 partners-non-federal: Freelancer.com
-external-url: https://www.freelancer.com/reclamation
+external-url: https://www.freelancer.com/reclamation/divide-and-conquer
 total-prize-offered-cash: $300,000
 type-of-challenge:
   - Software and apps
