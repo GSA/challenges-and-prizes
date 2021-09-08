@@ -1,5 +1,5 @@
 ---
-title: Card Title Here
+title: Data Privacy Certification - UI/UX Design Challenge
 challenge-title: Data Privacy Certification - UI/UX Design Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/data-privacy-certification-ui-ux-design-challenge/
