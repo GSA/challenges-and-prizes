@@ -1,6 +1,6 @@
 ---
 title: Divide and Conquer Modeling Large-Scale Hydraulics Faster Challenge
-challenge-title: Divide and Conquer Modeling Large Scale Hydraulics Faster Challenge
+challenge-title: "Divide and Conquer: Modeling Large-Scale Hydraulics Faster Challenge"
 layout: front-matter-data-markdownify-content
 permalink: /challenge/divide-and-conquer-modeling-large-scale-hydraulics-faster-challenge/
 challenge-id: "1278"
