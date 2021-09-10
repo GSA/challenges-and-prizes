@@ -125,11 +125,11 @@ description: >-
 
   * **1 October 2021** - Application Part 1: Research Concept Submission period closed
 
-  * **NLT 4 October 2021** - Part 1: Research Concept Submission winners notified 
+  * **15 October 2021** - Part 1: Research Concept Submission winners notified 
 
-  * **29 October 2021** - Part 2: Draft Proposal Submitted
+  * **15 November 2021** - Part 2: Draft Proposal Submitted
 
-  * **NLT 3 December 2021** - Part 2 Winners notified 
+  * **6 December 2021** - Part 2 Winners notified 
 
   * **NLT 14 January 2022** - Final Proposal Submitted
 
@@ -415,9 +415,9 @@ A host of advanced electronic materials have emerged in the last twenty years an
 
 * **10 August 2021** - Application Part 1: Research Concept Submission period open
 * **1 October 2021** - Application Part 1: Research Concept Submission period closed
-* **NLT 4 October 2021** - Part 1: Research Concept Submission winners notified 
-* **29 October 2021** - Part 2: Draft Proposal Submitted
-* **NLT 3 December 2021** - Part 2 Winners notified 
+* **15 October 2021** - Part 1: Research Concept Submission winners notified 
+* **15 November 2021** - Part 2: Draft Proposal Submitted
+* **6 December 2021** - Part 2 Winners notified 
 * **NLT 14 January 2022** - Final Proposal Submitted
 * **NLT 21 January 2022** - Part 3: Finals – Participants conduct a final pitch to a panel of Army experts
 * **21 January 2022** - Winners Announced 
