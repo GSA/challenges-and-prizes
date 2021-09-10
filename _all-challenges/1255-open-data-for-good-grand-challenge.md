@@ -116,13 +116,14 @@ prizes: >-
 
   * One (1) Student prize (*\* student teams are also eligible for grand prize and runner up; student prize only open to those who can demonstrate student status*)**:** **$10,000**
 
+
   * Subcategories: 
 
-    * <img style="padding: 10px; float: right;" src="{{site.baseurl}}/assets/netlify-uploads/epa-seal_for-census-challenge.png"/> One (1) to Five (5) prizes totaling **$50,000:** The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on reducing marine/ocean plastic pollution and/or creating markets for recycled materials.
+    * <img style="padding: 10px; float: right;" src="{{site.baseurl}}/assets/netlify-uploads/noaa_logo_for-census-challenge.png"/>**Climate Smart Community Challenge:**  NOAA will award one (1) or more prizes totaling $50,000 to projects that focus on tackling the climate crisis through “climate smart” communities. Prizes will be awarded to exceptional tools that help improve climate resilience planning in communities around the nation by supporting data-driven local decision making.
 
-    * One (1) Prize of **$10,000**: The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on helping the public understand the impact of transportation emissions on air quality. 
+    * <img style="padding: 10px; float: right;" src="{{site.baseurl}}/assets/netlify-uploads/epa-seal_for-census-challenge.png"/>**Enhancing Recycling and Reducing Ocean Plastics Challenge:** One (1) to Five (5) prizes totaling $50,000:  The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on reducing marine/ocean plastic pollution and/or creating markets for recycled materials. 
 
-    * <img style="padding: 10px; float: right;" src="{{site.baseurl}}/assets/netlify-uploads/noaa_logo_for-census-challenge.png"/>**Climate Smart Community Challenge:**  NOAA will award one (1) or more prizes totaling **$50,000** to projects that focus on tackling the climate-crisis through climate smart communities. Prizes will be awarded to exceptional tools that improve climate resilience planning in communities around the nation by enabling local decision making and facilitating federal support of local-level priorities.
+    * **Reducing Transportation Emissions Challenge:**  One (1) Prize of $10,000: The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on helping the public understand the impact of transportation emissions on air quality. 
 
   * Additional in-kind (non-monetary) prizes may be announced.
 
@@ -368,11 +369,12 @@ how-to-enter: >-
 
 
   1. Email your entire prize submission package (Team Information, Product Information, Product Description, Letter(s) of Support, and Optional Multimedia) to [TOPprize@census.gov](mailto:TOPprize@census.gov) after the submission window opens and by the submission deadline.  Include the Subject Line: “Prize Submission: \[Team Name, Product Name]”.
+
      * Teams are strongly encouraged to [use the template available at this link](https://docs.google.com/document/d/1zjfOmO9eEzGIO2DssPYeZ7twRReBUDp7b5tAARKz9Ow/edit) for parts 1-3.  
      * Collaborator letter(s) can be included in the same PDF or attached separately. 
      * Optional videos can be linked in the same PDF or attached separately.   
      * *If you are seeking consideration as a student or 501(c)(3), please also include relevant documentation in your email.* 
-  2. Select information about your product and team must **ALSO** be submitted via the **Challenge Submission Form**, which will be posted before the submission window opens. 
+  2. Select information about your product and team must **ALSO** be submitted via the **[Challenge Submission Form](https://airtable.com/shrX4sRAS2fgQPL72)**. 
 
 
   **Your application will not be considered complete until BOTH steps are completed.** 
@@ -446,11 +448,11 @@ A total of $50,000 will be awarded by the Census Bureau to exceptional digital p
 * One (1) Student prize (*\* student teams are also eligible for grand prize and runner up; student prize only open to those who can demonstrate student status*)**:** **$10,000**
 * Subcategories: 
 
-  * <img style="padding: 10px; float: right;" src="{{site.baseurl}}/assets/netlify-uploads/epa-seal_for-census-challenge.png"/> One (1) to Five (5) prizes totaling **$50,000:** The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on reducing marine/ocean plastic pollution and/or creating markets for recycled materials.
+  * <img style="padding: 10px; float: right;" src="{{site.baseurl}}/assets/netlify-uploads/noaa_logo_for-census-challenge.png"/>**Climate Smart Community Challenge:**  NOAA will award one (1) or more prizes totaling $50,000 to projects that focus on tackling the climate crisis through “climate smart” communities. Prizes will be awarded to exceptional tools that help improve climate resilience planning in communities around the nation by supporting data-driven local decision making.
 
-  * One (1) Prize of **$10,000**: The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on helping the public understand the impact of transportation emissions on air quality. 
+  * <img style="padding: 10px; float: right;" src="{{site.baseurl}}/assets/netlify-uploads/epa-seal_for-census-challenge.png"/>**Enhancing Recycling and Reducing Ocean Plastics Challenge:** One (1) to Five (5) prizes totaling $50,000:  The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on reducing marine/ocean plastic pollution and/or creating markets for recycled materials. 
 
-  * <img style="padding: 10px; float: right;" src="{{site.baseurl}}/assets/netlify-uploads/noaa_logo_for-census-challenge.png"/>**Climate Smart Community Challenge:**  NOAA will award one (1) or more prizes totaling **$50,000** to projects that focus on tackling the climate-crisis through climate smart communities. Prizes will be awarded to exceptional tools that improve climate resilience planning in communities around the nation by enabling local decision making and facilitating federal support of local-level priorities.
+  * **Reducing Transportation Emissions Challenge:**  One (1) Prize of $10,000: The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on helping the public understand the impact of transportation emissions on air quality. 
 
 * Additional in-kind (non-monetary) prizes may be announced.
 
@@ -628,7 +630,7 @@ Teams or individuals interested in participating in this challenge can apply by 
    * Collaborator letter(s) can be included in the same PDF or attached separately. 
    * Optional videos can be linked in the same PDF or attached separately.   
    * *If you are seeking consideration as a student or 501(c)(3), please also include relevant documentation in your email.* 
-2. Select information about your product and team must **ALSO** be submitted via the **Challenge Submission Form**, which will be posted before the submission window opens. 
+2. Select information about your product and team must **ALSO** be submitted via the [**Challenge Submission Form**](https://airtable.com/shrX4sRAS2fgQPL72). 
 
 **Your application will not be considered complete until BOTH steps are completed.** 
 
