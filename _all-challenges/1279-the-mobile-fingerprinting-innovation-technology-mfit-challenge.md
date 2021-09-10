@@ -6,8 +6,8 @@ permalink: /challenge/mfit-challenge/
 challenge-id: "1279"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/pscr.png
-agency-logo: /assets/netlify-uploads/NIST_logo.png
+card-image: /assets/netlify-uploads/mfit-challenge-logos_341x160-09.png
+agency-logo: /assets/netlify-uploads/nist_logo.png
 tagline: Advancing Mobile Fingerprint Capture Technology for Law Enforcement
 agency: National Institute of Standards and Technology (NIST) - Public Safety
   Communications Research (PSCR) Division
