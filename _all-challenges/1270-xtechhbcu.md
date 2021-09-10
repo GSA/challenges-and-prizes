@@ -123,7 +123,7 @@ description: >-
 
   * **10 August 2021** - Application Part 1: Research Concept Submission period open
 
-  * **9 September 2021** - Application Part 1: Research Concept Submission period closed
+  * **1 October 2021** - Application Part 1: Research Concept Submission period closed
 
   * **NLT 4 October 2021** - Part 1: Research Concept Submission winners notified 
 
@@ -179,7 +179,7 @@ rules: >-
   # Rules
 
 
-  The xTechHBCU competition is voluntary and open to all U.S.-based institutions that meet the eligibility requirements.  Multiple submissions, i.e., more than one (1), addressing different problem statements/topics will be accepted from eligible entities. The registration information and upload submission must be received by **5:00 PM ET on September 9, 2021.**  Submissions received after the deadline will not be considered.
+  The xTechHBCU competition is voluntary and open to all U.S.-based institutions that meet the eligibility requirements.  Multiple submissions, i.e., more than one (1), addressing different problem statements/topics will be accepted from eligible entities. The registration information and upload submission must be received by **5:00 PM ET on October 1, 2021.**  Submissions received after the deadline will not be considered.
 
 
   To receive prize money, entities are required to register in System for Award Management (SAM) and have or obtain an active CAGE code, DUNS number, and not be on the exclusions lists (debarred or suspended). Instructions on how to obtain a CAGE code can be found on the xTechHBCU registration page.
@@ -337,7 +337,7 @@ how-to-enter: >-
   **Entry Instructions**
 
 
-  The xTechHBCU competition is voluntary and open to all U.S.-based institutions that meet the eligibility requirements. Multiple submissions, i.e., more than one (1), addressing different problem statements/topics will be accepted from eligible entities. The registration information and upload submission must be received by 5:00 PM ET on September 9, 2021. Submissions received after the deadline will not be considered.
+  The xTechHBCU competition is voluntary and open to all U.S.-based institutions that meet the eligibility requirements. Multiple submissions, i.e., more than one (1), addressing different problem statements/topics will be accepted from eligible entities. The registration information and upload submission must be received by 5:00 PM ET on October 1, 2021. Submissions received after the deadline will not be considered.
 
 
   To receive prize money, entities are required to register in System for Award Management (SAM) and have or obtain an active CAGE code, DUNS number, and not be on the exclusions lists (debarred or suspended). Instructions on how to obtain a CAGE code can be found on the xTechHBCU registration page.
@@ -414,7 +414,7 @@ A host of advanced electronic materials have emerged in the last twenty years an
 **Key Dates**
 
 * **10 August 2021** - Application Part 1: Research Concept Submission period open
-* **9 September 2021** - Application Part 1: Research Concept Submission period closed
+* **1 October 2021** - Application Part 1: Research Concept Submission period closed
 * **NLT 4 October 2021** - Part 1: Research Concept Submission winners notified 
 * **29 October 2021** - Part 2: Draft Proposal Submitted
 * **NLT 3 December 2021** - Part 2 Winners notified 
@@ -449,7 +449,7 @@ The xTechHBCU competition will provide an optional xTechHBCU Accelerator as a pa
 
 # Rules
 
-The xTechHBCU competition is voluntary and open to all U.S.-based institutions that meet the eligibility requirements.  Multiple submissions, i.e., more than one (1), addressing different problem statements/topics will be accepted from eligible entities. The registration information and upload submission must be received by **5:00 PM ET on September 9, 2021.**  Submissions received after the deadline will not be considered.
+The xTechHBCU competition is voluntary and open to all U.S.-based institutions that meet the eligibility requirements.  Multiple submissions, i.e., more than one (1), addressing different problem statements/topics will be accepted from eligible entities. The registration information and upload submission must be received by **5:00 PM ET on October 1, 2021.**  Submissions received after the deadline will not be considered.
 
 To receive prize money, entities are required to register in System for Award Management (SAM) and have or obtain an active CAGE code, DUNS number, and not be on the exclusions lists (debarred or suspended). Instructions on how to obtain a CAGE code can be found on the xTechHBCU registration page.
 
@@ -550,7 +550,7 @@ Only the participants that are selected from Part 3 will be eligible to submit t
 
 **Entry Instructions**
 
-The xTechHBCU competition is voluntary and open to all U.S.-based institutions that meet the eligibility requirements. Multiple submissions, i.e., more than one (1), addressing different problem statements/topics will be accepted from eligible entities. The registration information and upload submission must be received by 5:00 PM ET on September 9, 2021. Submissions received after the deadline will not be considered.
+The xTechHBCU competition is voluntary and open to all U.S.-based institutions that meet the eligibility requirements. Multiple submissions, i.e., more than one (1), addressing different problem statements/topics will be accepted from eligible entities. The registration information and upload submission must be received by 5:00 PM ET on October 1, 2021. Submissions received after the deadline will not be considered.
 
 To receive prize money, entities are required to register in System for Award Management (SAM) and have or obtain an active CAGE code, DUNS number, and not be on the exclusions lists (debarred or suspended). Instructions on how to obtain a CAGE code can be found on the xTechHBCU registration page.
 
