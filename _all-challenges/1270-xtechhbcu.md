@@ -21,7 +21,7 @@ type-of-challenge:
   - Analytics, visualizations, algorithms
   - Scientific
 submission-start: 2021/08/10 12:00 AM
-submission-end: 2021/09/09 05:00 PM
+submission-end: 2021/10/01 05:00 PM
 fiscal-year: FY21
 legal-authority: Agency specific prize authority
 challenge-manager: Zeke Topolosky (for internal use only), Alex Mann
