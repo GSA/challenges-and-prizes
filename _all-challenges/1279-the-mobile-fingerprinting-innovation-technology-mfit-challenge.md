@@ -194,7 +194,6 @@ This challenge seeks innovative new or improved mobile applications that access 
 * November 17, 2021: Phase 2 Kickoff Webinar
 * March 14, 2022: Walk-on contestants and Phase 1 Winners send their letters of intent to enter Phase 2 of the challenge
 * April 4, 2022: 
-
   * Contestants ship prototypes for receipt at NIST PSCR by this date. 
   * Contestants upload digital materials to the designated cloud storage environment by this date at 11:59 PM (EDT). 
   * Contestants who choose to compete for an Open Source Award upload the URL of the repository containing their open-sourced code and/or device specifications and license by this date at 11:59 PM (EDT).
