@@ -4,7 +4,7 @@ challenge-title: "US Navy Challenge: Unmanned Surface Vehicle (USV) for Watersid
 layout: front-matter-data-markdownify-content
 permalink: /challenge/unmanned-surface-vehicle-for-waterside-security/
 challenge-id: "1259"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/usv-harbor-defense_resized.jpg
 agency-logo: /assets/netlify-uploads/sealnavy.png
@@ -22,8 +22,8 @@ type-of-challenge:
   - Ideas
   - Analytics, visualizations, algorithms
   - Technology demonstration and hardware
-submission-start: 2021/07/13 06:00 AM
-submission-end: 2021/09/13 11:59 PM
+submission-start: 07/13/2021 06:00 AM
+submission-end: 09/13/2021 11:59 PM
 fiscal-year: FY21
 legal-authority: America COMPETES Act
 challenge-manager: Jeff Champlin
