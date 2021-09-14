@@ -1,6 +1,6 @@
 ---
 title: The Mobile Fingerprinting Innovation Technology (mFIT) Challenge
-challenge-title: The Mobile Fingerprinting Innovation Technology mFIT Challenge
+challenge-title: The Mobile Fingerprinting Innovation Technology (mFIT) Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/mfit-challenge/
 challenge-id: "1279"
@@ -17,7 +17,7 @@ total-prize-offered-cash: $430,000
 type-of-challenge:
   - Software and apps
   - Technology demonstration and hardware
-submission-start: 2021/09/14 8:00 AM
+submission-start: 2021/09/16 8:00 AM
 submission-end: 2021/10/18 5:00 PM
 fiscal-year: FY21, FY22
 legal-authority: America COMPETES Act
