@@ -25,7 +25,7 @@ legal-authority: Other
 challenge-manager: Reece Freeman
 challenge-manager-email: reece.a.freeman2.civ@us.navy.mil
 point-of-contact: reece.a.freeman2.civ@us.navy.mil
-body-content-uploads: /assets/netlify-uploads/asium-crane-phase-3-table-15sep2021.png
+body-content-uploads: ""
 description: >-
   ### Description
 
@@ -760,7 +760,7 @@ The total prize purse is increased to $750,000. The Government reserves the righ
   The minimum threshold requirements will be set before the beginning of the virtual runs.
 * Phase III – A prize purse up to $500,000 will be disbursed with disparity to the participants who score above the minimum threshold requirements in the live event in which their proposed solutions will integrate on the provided drones for time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion at the Muscatatuck Urban Training Center (MUTC).
 
-  ![Phase 3 table](/assets/netlify-uploads/asium-crane-phase-3-table-15sep2021.png "Phase 3")
+  ![Phase 3 table](/assets/netlify-uploads/asium-crane-phase-3-table-15sep2021-1-.png "Phase 3")
 * There will be no minimum threshold requirements set for the Phase III live runs.
 
 ### Rules
