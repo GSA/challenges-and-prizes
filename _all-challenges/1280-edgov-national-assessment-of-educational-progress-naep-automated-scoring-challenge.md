@@ -4,7 +4,7 @@ title: ED.gov National Assessment of Educational Progress (NAEP) Automated
 challenge-title: EDgov National Assessment of Educational Progress NAEP
   Automated Scoring Challenge
 layout: front-matter-data-markdownify-content
-permalink: /challenge/challenge-url-here/
+permalink: /challenge/naep-automated-scoring-challenge/
 challenge-id: "1280"
 status: open
 sidenav: false
