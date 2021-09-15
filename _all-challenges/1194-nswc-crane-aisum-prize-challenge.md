@@ -22,14 +22,29 @@ submission-start: 12/10/2020 2:00 PM
 submission-end: 01/29/2021 2:00 PM
 fiscal-year: FY21
 legal-authority: Other
-challenge-manager: Derek Perry
-challenge-manager-email: derek.s.perry@navy.mil
-point-of-contact: derek.s.perry@navy.mil
-description: >
-  See the Prizes Section (Total Cash Prize Pool and Prize Breakdown) below for
-  the total prize purse increase and further detailed prize breakdown
-  information. See the Judging Section (Judging Criteria) below for further
-  detailed judging criteria for Phase II.
+challenge-manager: Reece Freeman
+challenge-manager-email: reece.a.freeman2.civ@us.navy.mil
+point-of-contact: reece.a.freeman2.civ@us.navy.mil
+body-content-uploads: /assets/netlify-uploads/asium-crane-phase-3-table-15sep2021-1-.png
+description: >-
+  ### Description
+
+
+  See the Prizes Section (Total Cash Prize Pool and Prize Breakdown) below for the total prize purse increase and further detailed prize breakdown information. See the Judging Section (Judging Criteria) below for further detailed judging criteria for Phase II II and Phase III.
+
+
+  The following five (5) participants were selected to participate in Phase III – Live Event at Muscatatuck for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant names are listed in the order of highest to lowest scoring at the conclusion of Phase II:
+
+
+  1. EpiSys Science, Inc.
+
+  2. Heron Systems Inc.
+
+  3. Draper
+
+  4. Raytheon BBN Technologies
+
+  5. TurbineOne, LLC
 
 
   The following seven (7) participants were selected to participate in Phase II – Virtual Vignettes for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant names are listed below in alphabetical order:
@@ -193,9 +208,26 @@ description: >
   Up to 10 winners will be selected to participate in Phase III. 
 
 
-  Phase III participants will utilize their developed algorithms with the provided drone and compete in real life scenarios. 
+  Phase III participants will utilize their developed algorithms with the provided drone and compete in real life scenarios. Phase III participants will utilize their developed algorithms with the provided drone and compete in a real life scenarios within a hospital building at Muscatatuck Urban Training Center (MUTC).
 
 
+  Instructions for Phase III live event include:
+
+
+  * The specific entry location will be determined onsite, and may differ from the available virtual representations.
+
+  * The UAS will be launched from the defined entryway.
+
+  * The UAS is limited to an accessible area within the first floor of the building, which may be less than the available virtual representation.
+
+  * The UAS will enter the building autonomously and assist operators by collecting the following information:
+
+    * Search and build a 2D floorplan of the accessible interior space.
+    * Detect and count the number of humans within the accessible space.
+    * Classify the humans within the accessible space as threats (holding brooms), or as civilians (empty hands).
+    * Detect and count the number of Objects of Interest which may represent a threat to the team.  The exact definition of the Object of Interest will be provided just prior to mission execution.
+    * Place the detected humans (threat/no-threat) and Objects of Interest in the correct locations on the 2D floorplan.
+    * Produce the 2D floorplan and object detection data in a usable format within 10 minutes of the UAS exiting the building.
   * GFP will consist of stretch X drone, onboard processing, frontal camera, and optical avoidance sensors 
 
   * Operation in a Non-GPS environment and an autonomous flight mode
@@ -214,9 +246,11 @@ description: >
 
 
   * Technical White Paper Submission open 50 calendar days
+
     * Opens Dec. 10, 2020
     * Closes Jan. 29, 2021
     * NSWC Crane Project Talks: Dec. 17, 2020 (A virtual panel was available to answer questions related to the challenge.gov posting and the Prize Challenge from 1300-1500 ET)
+
       * NSWC Crane Project Talks Presentation can be found [here](https://434cll131hi945boxu2a7cmf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/AISUM-Project-Talks-Presentation-FINAL.pdf)
       * The recording of this event can be found [here](https://www.youtube.com/watch?v=s-5tnYk74o4)
   * Evaluation period 10-14 calendar days  
@@ -245,16 +279,21 @@ description: >
   ***Phase III***
 
 
-  * Live event at Muscatatuck Urban Training Center (MUTC) 4-5 calendar days 
+  * Live event at Muscatatuck Urban Training Center (MUTC) on Monday, October 18th – Friday, October 22nd
 
-  * Complete internal documentation/obtain approval after final evaluation: 7-10 days
+  * Complete internal documentation/obtain approval after final evaluation
+
+  * Phase III set to end by November 5th with winners announced
 
 
   **Questions & Answers**
 
 
-  Official responses to questions that have been received will be uploaded to beta.SAM.gov via Special Notice N0016420SNB14. View this beta.SAM posting [here](https://beta.sam.gov/opp/779a1cb55ace43ccb18f7bb11d0c8a7b/view?keywords=n0016421SNB14&sort=-relevance&index=opp&is_active=true&page=1). 
+  Official responses to questions that have been received will be uploaded to beta.SAM.gov via Special Notice N0016420SNB14. View this beta.SAM posting [here](https://beta.sam.gov/opp/779a1cb55ace43ccb18f7bb11d0c8a7b/view?keywords=n0016421SNB14&sort=-relevance&index=opp&is_active=true&page=1).
 prizes: >-
+  ### Prizes
+
+
   ##### Total Cash Prize Pool
 
 
@@ -270,16 +309,17 @@ prizes: >-
 
     * Scenario 1:
 
-      ![Prize Breakdown Phase II Scenario 1]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-1-table_22jun2021.png "Prize Breakdown Phase II Scenario 1")
+    ![Prize Breakdown Phase II Scenario 1]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-1-table_22jun2021.png "Prize Breakdown Phase II Scenario 1")
+
     * Scenario 2:
 
     ![Prize Breakdown Phase II Scenario 2]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-2-table_22jun2021.png "Prize Breakdown Phase II Scenario 2")
 
     The minimum threshold requirements will be set before the beginning of the virtual runs.
+  * Phase III – A prize purse up to $500,000 will be disbursed with disparity to the participants who score above the minimum threshold requirements in the live event in which their proposed solutions will integrate on the provided drones for time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion at the Muscatatuck Urban Training Center (MUTC).
 
-  * Phase III – A prize purse up to $500,000 will be disbursed with disparity to the participants who score above the minimum threshold requirements in the live event in which their proposed solutions will integrate on the provided drones for time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion at the Muscatatuck Urban Training Center (MUTC).
-    The minimum threshold requirements will be set before the beginning of the virtual runs.
-  * Phase III – A prize purse up to $500,000 will be disbursed with disparity to the participants who score above the minimum threshold requirements in the live event in which their proposed solutions will integrate on the provided drones for time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion at the Muscatatuck Urban Training Center (MUTC).
+     ![Phase 3 table]({{site.baseurl}}/assets/netlify-uploads/asium-crane-phase-3-table-15sep2021-1-.png "Phase 3")
+  * There will be no minimum threshold requirements set for the Phase III live runs.
 rules: >-
   **Eligibility Requirements** 
 
@@ -402,7 +442,7 @@ rules: >-
 
 
   **Availability of Funds.** The Government’s obligation for prizes under 10USC2374a is subject to availability of appropriated funds from which payment for prize purposes can be made. No legal liability on the part of the Government for any payment of prizes may arise unless appropriated funds are available to the United States Navy for such purposes.
-judging: >
+judging: >-
   **Judging Panel**
 
 
@@ -425,8 +465,10 @@ judging: >
 
 
   * Maneuver: Time to Complete 
+
     * Time starts on drone entry, ends when drone lands or is otherwise collected after passing through the back door.
   * Recon: Object Detection
+
     * Drone will tally and report the number of defined objects of interest which were observed. 
   * Collisions will be tracked in the simulation environment; they will be used as a score tiebreaker
 
@@ -435,18 +477,25 @@ judging: >
 
 
   * Maneuver: Complete mapping and exit building
+
     * Run ends when drone lands or is otherwise collected after passing through the back door. 
   * Mapping: Produce map of internal space
+
     * Produce a 3D model of the internal environment. Assessment of the quality/legibility of the map as a floorplan.
   * Recon: Detect the humans
+
     * Drone reports total number of humans within the search area.
   * Recon: Place objects on map
+
     * A score will be recorded if the objects which were detected (objects and humans) are located correctly and labeled on the provided map (within the correct quadrant of the correct room).
   * Mapping: Area Coverage
+
     * Number of rooms identifiable on produced map.
   * Recon: Detect the defined objects
+
     * The drone will report the number of objects it detected.
   * Recon: Detect the humans; Identify combatant/non-combatant
+
     * Drone identifies humans as either combatant or civilian. Combatants will be holding a broom, versus Civilians, which will not.
   * *Collisions will be tracked in the simulation environment; they will be used as a score tiebreaker*
 
@@ -457,7 +506,7 @@ judging: >
   If multiple technologies of similar type or category are submitted, the review panel may choose the most advantageous solution(s) within each type or category to continue competing in the prize challenge. The Government selections will be based on a comparative evaluation of participants’ proposed solutions. The Prize Selection Decision will be a subjective evaluation of all entries for each phase of this challenge.
 
 
-  The Phase III Judging Criteria will evaluate, time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion, in the live environment at MUTC. Further details will be coming at a later date. The Government selection will be based on a comparative evaluation of participants proposed solution. The Prize Selection Decision will be a subjective evaluation of all entries for each phase at completion of this challenge.
+  The Phase III Judging Criteria will evaluate, time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion, in the live environment at MUTC. The Government selection will be based on a comparative evaluation of participants proposed solution. The Prize Selection Decision will be a subjective evaluation of all entries for each phase at completion of this challenge.
 how-to-enter: >-
   **Phase I** 
 
@@ -528,7 +577,15 @@ how-to-enter: >-
 ---
 ### Description
 
-See the Prizes Section (Total Cash Prize Pool and Prize Breakdown) below for the total prize purse increase and further detailed prize breakdown information. See the Judging Section (Judging Criteria) below for further detailed judging criteria for Phase II.
+See the Prizes Section (Total Cash Prize Pool and Prize Breakdown) below for the total prize purse increase and further detailed prize breakdown information. See the Judging Section (Judging Criteria) below for further detailed judging criteria for Phase II II and Phase III.
+
+The following five (5) participants were selected to participate in Phase III – Live Event at Muscatatuck for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant names are listed in the order of highest to lowest scoring at the conclusion of Phase II:
+
+1. EpiSys Science, Inc.
+2. Heron Systems Inc.
+3. Draper
+4. Raytheon BBN Technologies
+5. TurbineOne, LLC
 
 The following seven (7) participants were selected to participate in Phase II – Virtual Vignettes for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant names are listed below in alphabetical order:
 
@@ -624,8 +681,21 @@ GFP Includes:
 
 Up to 10 winners will be selected to participate in Phase III. 
 
-Phase III participants will utilize their developed algorithms with the provided drone and compete in real life scenarios. 
+Phase III participants will utilize their developed algorithms with the provided drone and compete in real life scenarios. Phase III participants will utilize their developed algorithms with the provided drone and compete in a real life scenarios within a hospital building at Muscatatuck Urban Training Center (MUTC).
 
+Instructions for Phase III live event include:
+
+* The specific entry location will be determined onsite, and may differ from the available virtual representations.
+* The UAS will be launched from the defined entryway.
+* The UAS is limited to an accessible area within the first floor of the building, which may be less than the available virtual representation.
+* The UAS will enter the building autonomously and assist operators by collecting the following information:
+
+  * Search and build a 2D floorplan of the accessible interior space.
+  * Detect and count the number of humans within the accessible space.
+  * Classify the humans within the accessible space as threats (holding brooms), or as civilians (empty hands).
+  * Detect and count the number of Objects of Interest which may represent a threat to the team.  The exact definition of the Object of Interest will be provided just prior to mission execution.
+  * Place the detected humans (threat/no-threat) and Objects of Interest in the correct locations on the 2D floorplan.
+  * Produce the 2D floorplan and object detection data in a usable format within 10 minutes of the UAS exiting the building.
 * GFP will consist of stretch X drone, onboard processing, frontal camera, and optical avoidance sensors 
 * Operation in a Non-GPS environment and an autonomous flight mode
 
@@ -638,9 +708,11 @@ The government estimates the following timeline for the completion of the prize 
 ***Phase I***
 
 * Technical White Paper Submission open 50 calendar days
+
   * Opens Dec. 10, 2020
   * Closes Jan. 29, 2021
   * NSWC Crane Project Talks: Dec. 17, 2020 (A virtual panel was available to answer questions related to the challenge.gov posting and the Prize Challenge from 1300-1500 ET)
+
     * NSWC Crane Project Talks Presentation can be found [here](https://434cll131hi945boxu2a7cmf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/AISUM-Project-Talks-Presentation-FINAL.pdf)
     * The recording of this event can be found [here](https://www.youtube.com/watch?v=s-5tnYk74o4)
 * Evaluation period 10-14 calendar days  
@@ -658,8 +730,9 @@ The government estimates the following timeline for the completion of the prize 
 
 ***Phase III***
 
-* Live event at Muscatatuck Urban Training Center (MUTC) 4-5 calendar days 
-* Complete internal documentation/obtain approval after final evaluation: 7-10 days
+* Live event at Muscatatuck Urban Training Center (MUTC) on Monday, October 18th – Friday, October 22nd
+* Complete internal documentation/obtain approval after final evaluation
+* Phase III set to end by November 5th with winners announced
 
 **Questions & Answers**
 
@@ -686,6 +759,9 @@ The total prize purse is increased to $750,000. The Government reserves the righ
 
   The minimum threshold requirements will be set before the beginning of the virtual runs.
 * Phase III – A prize purse up to $500,000 will be disbursed with disparity to the participants who score above the minimum threshold requirements in the live event in which their proposed solutions will integrate on the provided drones for time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion at the Muscatatuck Urban Training Center (MUTC).
+
+  ![Phase 3 table]({{site.baseurl}}/assets/netlify-uploads/asium-crane-phase-3-table-15sep2021-1-.png "Phase 3")
+* There will be no minimum threshold requirements set for the Phase III live runs.
 
 ### Rules
 
@@ -785,26 +861,35 @@ The Phase II Judging Criteria will evaluate:
 Scenario 1
 
 * Maneuver: Time to Complete 
+
   * Time starts on drone entry, ends when drone lands or is otherwise collected after passing through the back door.
 * Recon: Object Detection
+
   * Drone will tally and report the number of defined objects of interest which were observed. 
 * Collisions will be tracked in the simulation environment; they will be used as a score tiebreaker
 
 Scenario 2
 
 * Maneuver: Complete mapping and exit building
+
   * Run ends when drone lands or is otherwise collected after passing through the back door. 
 * Mapping: Produce map of internal space
+
   * Produce a 3D model of the internal environment. Assessment of the quality/legibility of the map as a floorplan.
 * Recon: Detect the humans
+
   * Drone reports total number of humans within the search area.
 * Recon: Place objects on map
+
   * A score will be recorded if the objects which were detected (objects and humans) are located correctly and labeled on the provided map (within the correct quadrant of the correct room).
 * Mapping: Area Coverage
+
   * Number of rooms identifiable on produced map.
 * Recon: Detect the defined objects
+
   * The drone will report the number of objects it detected.
 * Recon: Detect the humans; Identify combatant/non-combatant
+
   * Drone identifies humans as either combatant or civilian. Combatants will be holding a broom, versus Civilians, which will not.
 * *Collisions will be tracked in the simulation environment; they will be used as a score tiebreaker*
 
@@ -812,7 +897,7 @@ The subcategories within each scenario above are listed in priority order. Howev
 
 If multiple technologies of similar type or category are submitted, the review panel may choose the most advantageous solution(s) within each type or category to continue competing in the prize challenge. The Government selections will be based on a comparative evaluation of participants’ proposed solutions. The Prize Selection Decision will be a subjective evaluation of all entries for each phase of this challenge.
 
-The Phase III Judging Criteria will evaluate, time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion, in the live environment at MUTC. Further details will be coming at a later date. The Government selection will be based on a comparative evaluation of participants proposed solution. The Prize Selection Decision will be a subjective evaluation of all entries for each phase at completion of this challenge.
+The Phase III Judging Criteria will evaluate, time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion, in the live environment at MUTC. The Government selection will be based on a comparative evaluation of participants proposed solution. The Prize Selection Decision will be a subjective evaluation of all entries for each phase at completion of this challenge.
 
 ### How to Enter
 
@@ -832,6 +917,7 @@ Initial submission of the White Paper Concept shall not exceed five pages and re
 * Electronic files shall be formatted for Microsoft Windows Office 2010: text shall be prepared using Microsoft Word compatible formats; spreadsheets, worksheets, or workbooks shall be prepared using Microsoft Excel 2010 compatible formats, and presentations prepared using PowerPoint compatible formats. All schedules shall be prepared in Microsoft Project 2010 compatible applications.
 * A glossary shall be included of all abbreviations and acronyms used with an explanation for each that will NOT be included in the page count.
 * A cover sheet should be include with the following information:
+
   * Challenge Title
   * Name(s) of company(ies) and POC individual(s) 
   * Address(es)
