@@ -24,11 +24,47 @@ legal-authority: America COMPETES Act
 challenge-manager: Gary Howarth
 challenge-manager-email: gary.howarth@nist.gov
 point-of-contact: mFITprize@sensisagency.com
+body-content-uploads: /assets/netlify-uploads/mfit-challenge_official-rules.pdf
 description: >-
   # Description
 
 
-  The Public Safety Communications Research (PSCR) Division of the National Institute of Standards and Technology (NIST) is hosting the Mobile Fingerprinting Innovation Technology Challenge (mFIT Challenge) to advance mobile fingerprint capture technologies by building and demonstrating prototype applications and/or mobile device accessories for fingerprint capture by law enforcement officers in the field. In this two-phase challenge, NIST will award cash prizes of up to $430,000 to the winning contestants. The First Responders Network Authority and AT&T Corporation (FirstNet Built with AT&T) are partnering with PSCR on this challenge.
+  Join the mFIT Challenge to advance mobile fingerprint capture technology, help first responders, and earn prize awards!  Contestants will build and demonstrate prototype applications and/or mobile device accessories for more efficient and cost-effective fingerprint capture by field-based law enforcement officers. 
+
+
+  Hosted by the Public Safety Communications Research (PSCR) Division of the National Institute of Standards and Technology (NIST), this two-phase challenge, has a prize purse up to $430,000. The First Responders Network Authority and AT&T Corporation (FirstNet Built with AT&T) are partnering with PSCR on this challenge.
+
+
+  **Make a difference for public safety first responders!** Continue reading to learn about this two-phase challenge. Join PSCR on September 22 for the Phase 1 Kickoff Webinar. Compete in Phase 1 by submitting your entry by 5:00 PM (ET) on October 18, 2021. 
+
+
+  **Summary of Important Dates**
+
+
+  * September 16, 2021: mFIT Challenge is open for Concept Paper submissions; begin Phase 1 of 2
+
+  * September 22, 2021, 12:00 PM (ET): Phase 1 Kickoff Webinar ([register here](https://attendee.gotowebinar.com/register/1904323770577032720))
+
+  * October 18, 2021: mFIT Challenge Phase 1 is closed for submissions
+
+  * November 10, 2021: Phase 1 winners announced; begin Phase 2
+
+  * November 17, 2021: Phase 2 Kickoff Webinar ([register here](https://attendee.gotowebinar.com/register/7979842395620955152))
+
+  * March 14, 2022: Walk-on contestants and Phase 1 Winners send their letters of intent to enter Phase 2 of the challenge
+
+  * April 4, 2022: 
+
+    * Contestants ship prototypes for receipt at NIST PSCR by this date. 
+    * Contestants upload digital materials to the designated cloud storage environment by this date at 11:59 PM (EDT). 
+    * Contestants who choose to compete for an Open Source Award upload the URL of the repository containing their open-sourced code and/or device specifications and license by this date at 11:59 PM (EDT).
+  * May 4, 2022: Phase 2 Winners announced
+
+
+  NOTE: NIST reserves the right to revise the dates at any time.
+
+
+  **Background**
 
 
   Identity verification is essential for firearm licensing, criminal background checks, employment eligibility, and protecting vulnerable populations. In addition, law enforcement personnel often encounter individuals in situations when the confirmation of the persons’ identity or a background check is necessary. If the individual does not have proper identification or is possibly using a false identity, officers can capture fingerprint images and compare the images to national, state, or local identity databases to help determine the individual’s identity. This information can help the officer make a better decision on whether to release the individual or hold them for further processing.
@@ -43,31 +79,7 @@ description: >-
   **Challenge Goals and Objectives**
 
 
-  This challenge seeks innovative new or improved mobile applications that access the available sensors on mobile devices to capture high-quality digital fingerprint images, thereby improving the performance and efficiency of identification in the field. Contestants are asked to submit a mobile application that captures quality digital images of two fingers (index and middle) on the left and right hands. The ultimate objective of the challenge is to advance technology while preserving the form factor of the mobile device. Law enforcement officers explicitly do not want to carry additional equipment; however, a contestant’s prototype may modify the form factor with justification.
-
-
-  **Key Dates**
-
-
-  * September 22, 2021, 12:00 PM (ET): Phase 1 Informational Webinar (registration link available on www.mfitprize.com) 
-
-  * October 18, 2021: mFIT Challenge Phase 1 is closed for submissions
-
-  * November 10, 2021: Phase 1 winners announces; begin Phase 2
-
-  * November 17, 2021: Phase 2 Kickoff Webinar
-
-  * March 14, 2022: Walk-on contestants and Phase 1 Winners send their letters of intent to enter Phase 2 of the challenge
-
-  * April 4, 2022: 
-
-    * Contestants ship prototypes for receipt at NIST PSCR by this date. 
-    * Contestants upload digital materials to the designated cloud storage environment by this date at 11:59 PM (EDT). 
-    * Contestants who choose to compete for an Open Source Award upload the URL of the repository containing their open-sourced code and/or device specifications and license by this date at 11:59 PM (EDT).
-  * May 4, 2022: Phase 2 Winners announced
-
-
-  NOTE: NIST reserves the right to revise the dates at any time.
+  This challenge seeks innovative new or improved mobile applications that access the available sensors on mobile devices to capture high-quality digital fingerprint images, thereby improving the performance and efficiency of identification in the field. Contestants are asked to submit a mobile application that captures quality digital images of at least two fingers (including index and middle) on the left and right hands. Contestants are encouraged to bridge technology gaps identified in the Official Rules and to innovate in any area that would improve the accuracy and quality of results. The ultimate objective of this challenge is to advance technology while preserving the form factor of the mobile device. Law enforcement officers explicitly do not want to carry additional equipment; however, a contestant’s prototype may modify the form factor with justification.
 prizes: >-
   # Prizes
 
@@ -102,7 +114,7 @@ rules: >-
   # Rules
 
 
-  See the **Official Rules** (LINK TO ATTACHMENT) for details on all aspects of the challenge.
+  See the **[Official Rules]({{site.baseurl}}/assets/netlify-uploads/mfit-challenge_official-rules.pdf)** for details on all aspects of the challenge.
 judging: >-
   # Judging Criteria
 
@@ -160,7 +172,7 @@ how-to-enter: >-
   **Entry Instructions**
 
 
-  Review the **Official Rules** and submit a concept paper through the challenge website. The concept paper must be a PDF file with a **maximum of 13 pages and a file size of less than 25MB.**
+  Review the **[Official Rules]({{site.baseurl}}/assets/netlify-uploads/mfit-challenge_official-rules.pdf)** and submit a concept paper through the challenge website. The concept paper must be a PDF file with a **maximum of 13 pages and a file size of less than 25MB.**
 
 
   * Register for the challenge by completing the online registration form at www.mfitprize.com 
@@ -170,7 +182,7 @@ how-to-enter: >-
   * Submit an entry on the contest website by October 18, 2021, 5:00 PM (ET)
 
 
-  To enter Phase 2 as a Walk-on Contestant, follow the instructions in the **Official Rules.**
+  To enter Phase 2 as a Walk-on Contestant, follow the instructions in the **[Official Rules.]({{site.baseurl}}/assets/netlify-uploads/mfit-challenge_official-rules.pdf)**
 ---
 # Description
 
@@ -234,7 +246,7 @@ NIST Public Safety Communications Research Division is hosting a 2-phase challen
 
 # Rules
 
-See the **Official Rules** (LINK TO ATTACHMENT) for details on all aspects of the challenge.
+See the [**Official Rules**]({{site.baseurl}}/assets/netlify-uploads/mfit-challenge_official-rules.pdf) for details on all aspects of the challenge.
 
 # Judging Criteria
 
@@ -246,7 +258,7 @@ Judges will evaluate the concept papers using the criteria shown below. The spec
 
 This criterion will be evaluated on the following factor:
 
-* Completeness according to the ‘How to Enter’ section in the **Official Rules**
+* Completeness according to the ‘How to Enter’ section in the [**Official Rules**]({{site.baseurl}}/assets/netlify-uploads/mfit-challenge_official-rules.pdf)
 
 If a submission passes Criterion 0, it will be evaluated on the following criteria.
 
@@ -275,10 +287,10 @@ See the **Official Rules** for the judging criteria for Phase 2 of the contest.
 
 **Entry Instructions**
 
-Review the **Official Rules** and submit a concept paper through the challenge website. The concept paper must be a PDF file with a **maximum of 13 pages and a file size of less than 25MB.**
+Review the [**Official Rules**]({{site.baseurl}}/assets/netlify-uploads/mfit-challenge_official-rules.pdf) and submit a concept paper through the challenge website. The concept paper must be a PDF file with a **maximum of 13 pages and a file size of less than 25MB.**
 
 * Register for the challenge by completing the online registration form at www.mfitprize.com 
 * Review the NIST-PSCR provided resources on the “Resources” tab on the challenge website
 * Submit an entry on the contest website by October 18, 2021, 5:00 PM (ET)
 
-To enter Phase 2 as a Walk-on Contestant, follow the instructions in the **Official Rules.**
+To enter Phase 2 as a Walk-on Contestant, follow the instructions in the [**Official Rules.**]({{site.baseurl}}/assets/netlify-uploads/mfit-challenge_official-rules.pdf)
