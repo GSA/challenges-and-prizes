@@ -12,7 +12,7 @@ card-image: /assets/netlify-uploads/ies-logo.png
 agency-logo: /assets/netlify-uploads/Department_of_Education.png
 tagline: Accurately & Transparently Predicting Grades of Test Items
 agency: Department of Education, Institute of Education Sciences (IES)
-external-url: https://github.com/NAEP-AS-Challenge/info
+external-url: ""
 total-prize-offered-cash: $30,000
 type-of-challenge:
   - Analytics, visualizations, algorithms
