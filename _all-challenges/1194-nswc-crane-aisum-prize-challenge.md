@@ -25,7 +25,7 @@ legal-authority: Other
 challenge-manager: Reece Freeman
 challenge-manager-email: reece.a.freeman2.civ@us.navy.mil
 point-of-contact: reece.a.freeman2.civ@us.navy.mil
-body-content-uploads: ""
+body-content-uploads: /assets/netlify-uploads/asium-crane-phase-3-table-15sep2021-1-.png
 description: >-
   ### Description
 
