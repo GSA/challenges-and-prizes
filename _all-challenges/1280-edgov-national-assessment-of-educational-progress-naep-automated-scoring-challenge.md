@@ -1,14 +1,14 @@
 ---
 title: ED.gov National Assessment of Educational Progress (NAEP) Automated
   Scoring Challenge
-challenge-title: EDgov National Assessment of Educational Progress NAEP
+challenge-title: ED.gov National Assessment of Educational Progress (NAEP)
   Automated Scoring Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/naep-automated-scoring-challenge/
 challenge-id: "1280"
 status: open
 sidenav: false
-card-image: /assets/netlify-uploads/screen-shot-2021-09-14-at-5.01.49-pm.png
+card-image: /assets/netlify-uploads/ies-logo.png
 agency-logo: /assets/netlify-uploads/Department_of_Education.png
 tagline: Accurately & Transparently Predicting Grades of Test Items
 agency: Department of Education, Institute of Education Sciences (IES)
