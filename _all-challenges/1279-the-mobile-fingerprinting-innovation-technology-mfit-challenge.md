@@ -178,7 +178,7 @@ Join the mFIT Challenge to advance mobile fingerprint capture technology, help f
 
 Hosted by the Public Safety Communications Research (PSCR) Division of the National Institute of Standards and Technology (NIST), this two-phase challenge, has a prize purse up to $430,000. The First Responders Network Authority and AT&T Corporation (FirstNet Built with AT&T) are partnering with PSCR on this challenge.
 
-**Make a difference for public safety first responders!** Continue reading to learn about this two-phase challenge. Join PSCR on September 22 for the Phase 1 Kickoff Webinar. Compete in Phase 1 by submitting your entry by 5:00 PM (ET) on  October 18, 2021. 
+**Make a difference for public safety first responders!** Continue reading to learn about this two-phase challenge. Join PSCR on September 22 for the Phase 1 Kickoff Webinar. Compete in Phase 1 by submitting your entry by 5:00 PM (ET) on October 18, 2021. 
 
 **Summary of Important Dates**
 
@@ -189,6 +189,7 @@ Hosted by the Public Safety Communications Research (PSCR) Division of the Natio
 * November 17, 2021: Phase 2 Kickoff Webinar ([register here](https://attendee.gotowebinar.com/register/7979842395620955152))
 * March 14, 2022: Walk-on contestants and Phase 1 Winners send their letters of intent to enter Phase 2 of the challenge
 * April 4, 2022: 
+
   * Contestants ship prototypes for receipt at NIST PSCR by this date. 
   * Contestants upload digital materials to the designated cloud storage environment by this date at 11:59 PM (EDT). 
   * Contestants who choose to compete for an Open Source Award upload the URL of the repository containing their open-sourced code and/or device specifications and license by this date at 11:59 PM (EDT).
