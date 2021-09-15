@@ -53,8 +53,7 @@ description: >-
 
   * March 14, 2022: Walk-on contestants and Phase 1 Winners send their letters of intent to enter Phase 2 of the challenge
 
-  * April 4, 2022: 
-
+  * April 4, 2022:
     * Contestants ship prototypes for receipt at NIST PSCR by this date. 
     * Contestants upload digital materials to the designated cloud storage environment by this date at 11:59 PM (EDT). 
     * Contestants who choose to compete for an Open Source Award upload the URL of the repository containing their open-sourced code and/or device specifications and license by this date at 11:59 PM (EDT).
@@ -200,8 +199,7 @@ Hosted by the Public Safety Communications Research (PSCR) Division of the Natio
 * November 10, 2021: Phase 1 winners announced; begin Phase 2
 * November 17, 2021: Phase 2 Kickoff Webinar ([register here](https://attendee.gotowebinar.com/register/7979842395620955152))
 * March 14, 2022: Walk-on contestants and Phase 1 Winners send their letters of intent to enter Phase 2 of the challenge
-* April 4, 2022: 
-
+* April 4, 2022:
   * Contestants ship prototypes for receipt at NIST PSCR by this date. 
   * Contestants upload digital materials to the designated cloud storage environment by this date at 11:59 PM (EDT). 
   * Contestants who choose to compete for an Open Source Award upload the URL of the repository containing their open-sourced code and/or device specifications and license by this date at 11:59 PM (EDT).
@@ -246,7 +244,7 @@ NIST Public Safety Communications Research Division is hosting a 2-phase challen
 
 # Rules
 
-See the [**Official Rules**]({{site.baseurl}}/assets/netlify-uploads/mfit-challenge_official-rules.pdf) for details on all aspects of the challenge.
+See the **[Official Rules]({{site.baseurl}}/assets/netlify-uploads/mfit-challenge_official-rules.pdf)** for details on all aspects of the challenge.
 
 # Judging Criteria
 
@@ -258,7 +256,7 @@ Judges will evaluate the concept papers using the criteria shown below. The spec
 
 This criterion will be evaluated on the following factor:
 
-* Completeness according to the ‘How to Enter’ section in the [**Official Rules**]({{site.baseurl}}/assets/netlify-uploads/mfit-challenge_official-rules.pdf)
+* Completeness according to the ‘How to Enter’ section in the **[Official Rules]({{site.baseurl}}/assets/netlify-uploads/mfit-challenge_official-rules.pdf)**
 
 If a submission passes Criterion 0, it will be evaluated on the following criteria.
 
@@ -287,10 +285,10 @@ See the **Official Rules** for the judging criteria for Phase 2 of the contest.
 
 **Entry Instructions**
 
-Review the [**Official Rules**]({{site.baseurl}}/assets/netlify-uploads/mfit-challenge_official-rules.pdf) and submit a concept paper through the challenge website. The concept paper must be a PDF file with a **maximum of 13 pages and a file size of less than 25MB.**
+Review the **[Official Rules]({{site.baseurl}}/assets/netlify-uploads/mfit-challenge_official-rules.pdf)** and submit a concept paper through the challenge website. The concept paper must be a PDF file with a **maximum of 13 pages and a file size of less than 25MB.**
 
 * Register for the challenge by completing the online registration form at www.mfitprize.com 
 * Review the NIST-PSCR provided resources on the “Resources” tab on the challenge website
 * Submit an entry on the contest website by October 18, 2021, 5:00 PM (ET)
 
-To enter Phase 2 as a Walk-on Contestant, follow the instructions in the [**Official Rules.**]({{site.baseurl}}/assets/netlify-uploads/mfit-challenge_official-rules.pdf)
+To enter Phase 2 as a Walk-on Contestant, follow the instructions in the **[Official Rules.]({{site.baseurl}}/assets/netlify-uploads/mfit-challenge_official-rules.pdf)**
