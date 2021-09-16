@@ -8,7 +8,7 @@ permalink: /challenge/naep-automated-scoring-challenge/
 challenge-id: "1280"
 status: open
 sidenav: false
-card-image: /assets/netlify-uploads/ies-logo.png
+card-image: /assets/netlify-uploads/ies-logo-new.png
 agency-logo: /assets/netlify-uploads/Department_of_Education.png
 tagline: Accurately & Transparently Predicting Grades of Test Items
 agency: Department of Education, Institute of Education Sciences (IES)
