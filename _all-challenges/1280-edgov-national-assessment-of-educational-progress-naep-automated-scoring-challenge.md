@@ -31,6 +31,7 @@ We are seeking submissions of automated scoring models to score constructed resp
 **CHALLENGE DETAILS**
 
 TOTAL CASH PRIZES OFFERED: $30,000 (maximum of $20,000 for first-place entries)
+
 TYPE OF CHALLENGE: Automated Scoring of Open Ended Reading Test Items
 
 **Additional Challenge Information**
