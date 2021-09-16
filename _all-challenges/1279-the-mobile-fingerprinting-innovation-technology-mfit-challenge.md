@@ -175,7 +175,7 @@ how-to-enter: >-
   Review the **[Official Rules]({{site.baseurl}}/assets/netlify-uploads/mfit-challenge_official-rules.pdf)** and submit a concept paper through the challenge website. The concept paper must be a PDF file with a **maximum of 13 pages and a file size of less than 25MB.**
 
 
-  * Register for the challenge by completing the online registration form at [www.mfitprize.com](www.mfitprize.com) 
+  * Register for the challenge by completing the online registration form at <https://www.mfitprize.com> [](www.mfitprize.com)
 
   * Review the NIST-PSCR provided resources on the “Resources” tab on the challenge website
 
@@ -289,7 +289,7 @@ See the **Official Rules** for the judging criteria for Phase 2 of the contest.
 
 Review the **[Official Rules]({{site.baseurl}}/assets/netlify-uploads/mfit-challenge_official-rules.pdf)** and submit a concept paper through the challenge website. The concept paper must be a PDF file with a **maximum of 13 pages and a file size of less than 25MB.**
 
-* Register for the challenge by completing the online registration form at [www.mfitprize.com](www.mfitprize.com) 
+* Register for the challenge by completing the online registration form at [](www.mfitprize.com)<https://www.mfitprize.com> 
 * Review the NIST-PSCR provided resources on the “Resources” tab on the challenge website
 * Submit an entry on the [challenge website](https://www.mfitprize.com) by October 18, 2021, 5:00 PM (ET)
 
