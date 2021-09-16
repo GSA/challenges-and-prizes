@@ -10,7 +10,7 @@ status: open
 sidenav: false
 card-image: /assets/netlify-uploads/ies-logo-new.png
 agency-logo: /assets/netlify-uploads/Department_of_Education.png
-tagline: Accurately & Transparently Predicting Grades of Test Items
+tagline: Accurately & Transparently Predicting Scores of Test Items
 agency: Department of Education, Institute of Education Sciences (IES)
 external-url: ""
 total-prize-offered-cash: $30,000
