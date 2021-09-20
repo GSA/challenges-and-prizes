@@ -23,7 +23,7 @@ legal-authority: Procurement Authority
 challenge-manager: Stephanie Garcia, ONC
 challenge-manager-email: Stephanie.Garcia@hhs.gov
 point-of-contact: SyntheticDataChallenge@govhealth.com
-body-content-uploads: /assets/netlify-uploads/synthetic-health-data-challenge-faqs.pdf
+body-content-uploads: /assets/netlify-uploads/uihealth_synthetic-data-solution.pdf
 description: >
   **\*\* Welcome to the Synthetic Health Data Challenge Webpage! \*\***
 
@@ -320,10 +320,21 @@ how-to-enter: >-
 ---
 ### Description
 
-**\*\* Welcome to the Synthetic Health Data Challenge Webpage! \*\***
+***Congratulations to the Synthetic Health Data Challenge Winners!***
 
-* **UPDATE:** All Phase II Solution Packages have been submitted for judging, and the Synthetic Health Data Challenge is now closed. 
-* **UPCOMING:** Watch this space for the September 21, 2021 announcement of the Synthetic Health Data Challenge Winning Solutions. Up to $100,000 in total prizes will be awarded.
+ONC is pleased to announce the Synthetic Health Data Challenge Winning Solutions! Register now  for the October 19, 2021 Winning Solutions Webinar featuring the Challenge Winners and their innovative solutions. 
+
+**1st Place Winner – $40,000 Award**
+* Team CodeRX: [Medication Diversification Tool]({{site.baseurl}}/assets/netlify-uploads/coderx_synthetic-data-solution.pdf)
+
+**2nd Place Winners – $15,000 Award**
+* The Generalistas: [Virtual Generalist – Modeling Co-morbidities in SyntheaTM]({{site.baseurl}}/assets/netlify-uploads/generalistas_synthetic-data-solution.pdf)
+* Team LMI: [On Improving Realism of Disease Modules in SyntheaTM: Social Determinant-Based Enhancements to Conditional Transition Logic]({{site.baseurl}}/assets/netlify-uploads/lmi_synthetic-data-solution.pdf)
+
+**3rd Place Winners – $10,000 Award**
+* Particle Health: [The Necessity of Realistic Synthetic Health Data Development Environments]({{site.baseurl}}/assets/netlify-uploads/particlehealth_synthetic-data-solution.pdf)
+* Team TeMa: [Empirical Inference of Underlying Condition Probabilities Using SyntheaTM-Generated Synthetic Health Data]({{site.baseurl}}/assets/netlify-uploads/tema_synthetic-data-solution.pdf)
+* UI Health: [Spatiotemporal Big Data Analysis of Opioid Epidemic in Illinois]({{site.baseurl}}/assets/netlify-uploads/uihealth_synthetic-data-solution.pdf)
 
 **Challenge Overview**
 
@@ -358,12 +369,14 @@ Participants will propose a solution in one of two (2) Challenge categories.
 * [Frequently Asked Questions Document]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-faqs.pdf) (updated 04/20/2021)
 * [Technical Guidance and Tips]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge_technical-guidance-and-tips.pdf) 
 * Example Modules, Module Companion Guides 
+
   * [Cerebral Palsy Module](https://synthetichealth.github.io/module-builder/#cerebral_palsy) and [Companion Guide]({{site.baseurl}}/assets/netlify-uploads/module_companion_guide_cerebral_palsy_508.pdf)
   * [Prescribing Opioids for Chronic Pain and Treatment of Opioid Use Disorder Module](https://synthetichealth.github.io/module-builder/#prescribing_opioids_for_chronic_pain_and_treatment_of_oud) and [Companion Guide]({{site.baseurl}}/assets/netlify-uploads/module_companion_guide_opioids_508.pdf)
   * [Sepsis Module](https://synthetichealth.github.io/module-builder/#sepsis) and [Companion Guide]({{site.baseurl}}/assets/netlify-uploads/module_companion_guide_sepsis_508.pdf)
   * [Spina Bifida](https://synthetichealth.github.io/module-builder/#spina_bifida) Module and [Companion Guide]({{site.baseurl}}/assets/netlify-uploads/module_companion_guide_spina_bifida_508.pdf)
 * [Synthetic Health Data Challenge Registration Form]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-registration-form-1-.pdf)
 * Phase I Informational Webinar (Feb 2, 2021 12:00 PM ET)
+
   * [Webinar Materials]({{site.baseurl}}/assets/netlify-uploads/20210202_challenge-phase-i-informational-webinar-materials.pdf)
 
 **Key Dates**
