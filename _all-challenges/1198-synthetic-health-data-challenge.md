@@ -31,7 +31,7 @@ description: >-
   ***Congratulations to the Synthetic Health Data Challenge Winners!***
 
 
-  ONC is pleased to announce the Synthetic Health Data Challenge Winning Solutions! Register now  for the October 19, 2021 Winning Solutions Webinar featuring the Challenge Winners and their innovative solutions. 
+  ONC is pleased to announce the Synthetic Health Data Challenge Winning Solutions! [Register now](https://govhealth.zoom.us/webinar/register/WN_N4scGKbBTdid4_V0y5zxIQ)  for the October 19, 2021 Winning Solutions Webinar featuring the Challenge Winners and their innovative solutions. 
 
 
   **1st Place Winner – $40,000 Award**
@@ -349,16 +349,19 @@ how-to-enter: >-
 
 ***Congratulations to the Synthetic Health Data Challenge Winners!***
 
-ONC is pleased to announce the Synthetic Health Data Challenge Winning Solutions! Register now  for the October 19, 2021 Winning Solutions Webinar featuring the Challenge Winners and their innovative solutions. 
+ONC is pleased to announce the Synthetic Health Data Challenge Winning Solutions! [Register now](https://govhealth.zoom.us/webinar/register/WN_N4scGKbBTdid4_V0y5zxIQ)  for the October 19, 2021 Winning Solutions Webinar featuring the Challenge Winners and their innovative solutions. 
 
 **1st Place Winner – $40,000 Award**
+
 * Team CodeRX: [Medication Diversification Tool]({{site.baseurl}}/assets/netlify-uploads/coderx_synthetic-data-solution.pdf)
 
 **2nd Place Winners – $15,000 Award**
+
 * The Generalistas: [Virtual Generalist – Modeling Co-morbidities in SyntheaTM]({{site.baseurl}}/assets/netlify-uploads/generalistas_synthetic-data-solution.pdf)
 * Team LMI: [On Improving Realism of Disease Modules in SyntheaTM: Social Determinant-Based Enhancements to Conditional Transition Logic]({{site.baseurl}}/assets/netlify-uploads/lmi_synthetic-data-solution.pdf)
 
 **3rd Place Winners – $10,000 Award**
+
 * Particle Health: [The Necessity of Realistic Synthetic Health Data Development Environments]({{site.baseurl}}/assets/netlify-uploads/particlehealth_synthetic-data-solution.pdf)
 * Team TeMa: [Empirical Inference of Underlying Condition Probabilities Using SyntheaTM-Generated Synthetic Health Data]({{site.baseurl}}/assets/netlify-uploads/tema_synthetic-data-solution.pdf)
 * UI Health: [Spatiotemporal Big Data Analysis of Opioid Epidemic in Illinois]({{site.baseurl}}/assets/netlify-uploads/uihealth_synthetic-data-solution.pdf)
