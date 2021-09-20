@@ -4,7 +4,7 @@ challenge-title: Palmetto Tech Bridge Pitch Jam Prize Challenge 2021
 layout: front-matter-data-markdownify-content
 permalink: /challenge/palmetto-tech-bridge-pitch-jam-prize-challenge-2021/
 challenge-id: "1272"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/palmetto-tech-bridge_resize.png
 agency-logo: /assets/netlify-uploads/niwc-lant-logo-1-black-letters_300dpi.png
@@ -17,8 +17,8 @@ type-of-challenge:
   - Ideas
   - Technology demonstration and hardware
   - Scientific
-submission-start: 2021/08/19 10:00 AM
-submission-end: 2021/09/19 11:00 PM
+submission-start: 08/19/2021 10:00 AM
+submission-end: 09/19/2021 11:00 PM
 fiscal-year: FY21
 legal-authority: America COMPETES Act
 challenge-manager: Don Sallee
