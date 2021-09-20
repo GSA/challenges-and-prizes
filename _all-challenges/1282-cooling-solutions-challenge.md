@@ -298,7 +298,6 @@ This Challenge is in two stages.
 * Stage 1 - Up to fifteen (15) Finalists will receive $5,000 each and proceed to the Stage 2 of the Challenge.  Finalists are selected based on fulfilling submission guidelines and Stage 1 judging criteria. 
 * Stage 2 - Prize Winners are selected based on fulfilling submission requirements, Stage 2 judging criteria, and use case applicability. 
 * Stage 2 Prize Winners: 
-
   * One (1) Grand Prize Winner: $50,000
   * One (1) Runner-up Winner: $20,000
   * Up to Four (4) Category Winners: $10,000
@@ -335,7 +334,6 @@ To be eligible to win a cash prize award under this Challenge, an individual or 
 9. As a condition of participation, all Contestants must agree to indemnify the federal government against third-party claims for damages arising from or related to challenge activities.  Contestants are not required to obtain liability insurance or demonstrate financial responsibility in order to participate in the Challenge.  By entering the Challenge, Contestants agree to hold DHS harmless from all legal and administrative claims to include associated expenses that may arise from any claims related to their Challenge solutions or its use.
 10. Contestants must own or have access to a computer, an internet connection, and any other electronic devices, documentation, software, or other items that contestants may deem necessary to create and enter a submission.  The government will not reimburse Contestant’s time and expense to enter the Challenge.
 11. The following Contestants (including any individuals participating as part of a team or entity) are not eligible regardless of whether they meet the criteria set forth above:
-
     * Any Federal entity or Federal employee acting within the scope of his or her employment or otherwise be prohibited by Federal law (employees should consult their agency ethics officials).  Note: Federal ethical conduct rules may restrict or prohibit federal employees from engaging in certain outside activities; any federal employee not excluded under the prior paragraph seeking to participate in this Challenge outside the scope of employment should consult his/her agency’s ethics official prior to developing am submission or submission.
     * Any Contestant that used DHS federal facilities or relied upon significant consultation with DHS federal employees to develop a submission, unless the facilities and employees were made available to all Contestants or participants in this Challenge on an equal basis.
     * Any Contestant that used federal funds to develop a submission, unless such use is consistent with the grant award, or other applicable federal funds awarding document.  If a grantee using federal funds enters and wins this Challenge, the cash prize award must be treated as program income for purposes of the original grant in accordance with applicable Office of Management and Budget Circulars.  Federal contractors may not use federal funds from a contract to develop a submission for this Challenge.
