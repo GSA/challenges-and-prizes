@@ -6,7 +6,7 @@ permalink: /challenge/cooling-solutions-challenge/
 challenge-id: "1282"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/256px-Seal_of_the_United_States_Department_of_Homeland_Security.png
+card-image: /assets/netlify-uploads/oip_cooling-prize-graphics_chosen-version_challenge.gov-site_v2.jpg
 agency-logo: /assets/netlify-uploads/256px-Seal_of_the_United_States_Department_of_Homeland_Security.png
 tagline: Countering extreme heat with cool technology
 agency: Department of Homeland Security (DHS)
