@@ -59,7 +59,7 @@ description: >-
   Extreme heat events and their effects significantly impact the United States. Extreme heat events are one of the leading causes of [weather-related deaths](https://www.cdc.gov/nceh/features/trackingheat/index.html) in the United States, and a reason for many emergency departments visits and hospital stays.  For example, record-breaking heat indexes in the Pacific Northwest in June 2021 caused more than [2,500 people to seek emergency department treatment for heat-related illness](https://www.cdc.gov/mmwr/volumes/70/wr/mm7029e1.htm?s_cid=mm7029e1_w).  In addition to causing extreme heat events, rising global temperatures produce extreme weather conducive to wildfires, flooding, and hurricanes, and that extreme weather can have large cascading effects of extended power outages coupled with high temperatures. This is causing large populations in communities across the country to be more vulnerable to heat-related illness. In the wake of the extended power outages caused by Hurricane Ida, for example, [Louisiana has recorded several heat-related deaths](https://weather.com/news/news/2021-09-09-heat-hurricane-ida-new-orleans-louisiana-power-outages).
 
 
-  There are some [simple safety measures](https://www.cdc.gov/nceh/features/trackingheat/index.html) that people can take to protect themselves from heat-related illnesses or death, including avoiding unnecessary sun exposure, avoiding unnecessary hard work or activities outdoors, drinking water often, wearing light and loose-fitting clothing, and staying in an air-conditioned area during the hottest hours of the day.  However, many Americans who experience extreme heat events lack access to conventional air conditioning.  Solutions are needed to protect them, and to do so in an energy-efficient, user-friendly, and cost-effective way.
+  There are some simple [safety measures](https://www.cdc.gov/nceh/features/trackingheat/index.html) that people can take to protect themselves from heat-related illnesses or death, including avoiding unnecessary sun exposure, avoiding unnecessary hard work or activities outdoors, drinking water often, wearing light and loose-fitting clothing, and staying in an air-conditioned area during the hottest hours of the day.  However, many Americans who experience extreme heat events lack access to conventional air conditioning.  Solutions are needed to protect them, and to do so in an energy-efficient, user-friendly, and cost-effective way.
 prizes: >-
   Total cash prize pool: $195,000
 
@@ -67,17 +67,18 @@ prizes: >-
   This Challenge is in two stages.  
 
 
-  * Stage 1 - Up to fifteen (15) Finalists will receive $5,000 each and proceed to the Stage 2 of the Challenge.  Finalists are selected based on fulfilling submission guidelines and Stage 1 judging criteria.
+  * Stage 1 - Up to fifteen (15) Finalists will receive $5,000 each and proceed to the Stage 2 of the Challenge.  Finalists are selected based on fulfilling submission instructions and Stage 1 judging criteria.
 
-  * Stage 2 - Prize Winners are selected based on fulfilling submission requirements, Stage 2 judging criteria, and use case applicability.
+  * Stage 2 - Prize Winners are selected based on fulfilling submission requirements, Stage 2 judging criteria, and Use Case applicability.
 
   * Stage 2 Prize Winners:
+
     * One (1) Grand Prize Winner: $50,000
     * One (1) Runner-up Winner: $20,000
     * Up to Four (4) Use Case Winners: $10,000
     * Up to Two (2) Honorable Mentions: $5,000
 
-  **Payment of Prizes:** Prizes awarded under this Challenge will be paid by DHS and must be received by each submission entrant via electronic funds transfer.  All Federal, State, and local taxes are the sole responsibility of the Finalists and Prize Winners.  DHS will comply with the Internal Revenue Service withholding and reporting requirements, where applicable.
+  **Payment of Prizes:** Prizes awarded under this Challenge will be paid by DHS and cash prizes must be received via electronic funds transfer.  All Federal, State, and local taxes are the sole responsibility of the Finalists and Prize Winners.  DHS will comply with the Internal Revenue Service withholding and reporting requirements, where applicable.
 
 
   Additionally, Prize Winners also may be considered for future opportunities including: 
@@ -111,19 +112,19 @@ rules: >-
 
   1. Shall have applied to participate in this Challenge under the rules promulgated by DHS in accordance with the description provided and comply with all of the requirements in this announcement.
 
-  2. Pursuant to the America COMPETES Act of 2010, cash awards for this Challenge may only be given to an individual that is a U.S. citizen or legal permanent resident of the United States, or an entity that is incorporated in and whose primary place of business is in the United States, subject to verification by DHS before prizes are awarded.  An individual or entity must enter the Challenge directly by following the instructions in “How to Enter a Submission” and send the submission to [prizeauthority@hq.dhs.gov](mailto:prizeauthority@hq.dhs.gov) in this announcement in order to be eligible to win a cash prize award.
+  2. Pursuant to the America COMPETES Act, cash prize awards for this Challenge may only be given to an individual that is a U.S. citizen or legal permanent resident of the United States, or an entity that is incorporated in and whose primary place of business is in the United States, subject to verification by DHS before prizes are awarded.  An individual or entity must enter the Challenge directly by following the instructions in “How to Enter a Submission” and send the submission to [prizeauthority@hq.dhs.gov](mailto:prizeauthority@hq.dhs.gov) in this announcement in order to be eligible to win a cash prize award.
 
-  3. Entities selected as a Finalists and Prize Winners must register or be previously registered in the System for Awards Management in order to receive a cash prize award.  Registration in the[ System for Awards Management](https://www.sam.gov/SAM/) is not a prerequisite for submitting a submission to this Challenge.  Failure to register in the System for Awards Management within thirty (30) days of notification by DHS will result in a disqualification of the winning submission.  A Contestant (individual or entity) that is determined to be on the [GSA Excluded Parties List](https://sam.gov/content/exclusions) is ineligible to receive a cash prize award and will not be selected as a cash prize Finalist or Prize Winner.
+  3. Entities selected as a Finalists and Prize Winners must register or be previously registered in the [System for Awards Management](https://www.sam.gov/SAM/) in order to receive a cash prize award.  Registration in the [System for Awards Management](https://www.sam.gov/SAM/) is not a prerequisite for submitting a submission to this Challenge.  Failure to register in the System for Awards Management within thirty (30) days of notification by DHS will result in a disqualification of the winning submission.  A Contestant (individual or entity) that is determined to be on the [GSA Excluded Parties List](https://sam.gov/content/exclusions) is ineligible to receive a cash prize award and will not be selected as a cash prize Finalist or Prize Winner.
 
   4. Contestants (individuals and entities), otherwise eligible to win a prize, may form and submit a team submission; however, each eligible individual or entity must first register as an individual (Contestant) for the Challenge before they form a team.  Failure to follow this procedure as outlined on the [Challenge website](https://www.dhs.gov/science-and-technology/prize-competitions) will disqualify the Challenge submission.  Team winnings, as determined by DHS, will be distributed to the team submission.
 
-  5. Contestants to this Challenge must agree to be bound by the rules of the Challenge, agree that the decision of the judges for this Challenge are final and binding, and acknowledge that their submission may be the subject of a Freedom of Information Act (FOIA) request and that they are responsible for identifying and marking all business confidential and proprietary information in their submission.
+  5. Contestants to this Challenge must agree to be bound by the rules of the Challenge, agree that the decision of the judges for this Challenge are final and binding, and acknowledge that their submission may be the subject of a [Freedom of Information Act (FOIA)](https://www.foia.gov/) request and that they are responsible for identifying and marking all business confidential and proprietary information in their submission.
 
-  6. Individuals and individual team members selected as a Challenge cash prize Finalists or Prize Winners must submit all required taxpayer identification and bank account information required to complete an electronic payment of the cash prize.  Failure to provide DHS required documents for electronic payment within thirty (30) days of notification by DHS will result in a disqualification of any winning submission.
+  6. Individuals and individual team members selected as a Challenge cash prize Finalists or Prize Winners must submit all required taxpayer identification and bank account information required to complete an electronic payment of a cash prize award.  Failure to provide DHS required documents for electronic payment within thirty (30) days of notification by DHS will result in a disqualification of any winning submission.
 
-  7. Contestants in this Challenge agree, as a condition for winning a cash prize, must agree to complete and submit all required Finalists and Prize Winners verification documents to DHS within thirty (30) days of notification.
+  7. Contestants in this Challenge must agree, as a condition for winning a cash prize, must agree to complete and submit all required Finalists and Prize Winners verification documents to DHS within thirty (30) days of notification.
 
-  8. Contestants to this Challenge must agree and consent, as a condition for receiving a cash prize, to the use of their name, entity, city and State, likeness or image, comments, and a short synopsis of their Final or Prize-Winning solution as a part of DHS’s promotion of this Challenge.
+  8. Contestants to this Challenge must agree and consent, as a condition for receiving a cash prize award, to the use of their name, entity, city and State, likeness or image, comments, and a short synopsis of their Final or Prize-Winning solution as a part of DHS’s promotion of this Challenge.
 
   9. As a condition of participation, all Contestants must agree to indemnify the federal government against third-party claims for damages arising from or related to challenge activities.  Contestants are not required to obtain liability insurance or demonstrate financial responsibility in order to participate in the Challenge.  By entering the Challenge, Contestants agree to hold DHS harmless from all legal and administrative claims to include associated expenses that may arise from any claims related to their Challenge solutions or its use.
 
@@ -131,7 +132,7 @@ rules: >-
 
   11. The following Contestants (including any individuals participating as part of a team or entity) are not eligible regardless of whether they meet the criteria set forth above:
 
-      * Any Federal entity or Federal employee acting within the scope of his or her employment or otherwise be prohibited by Federal law (employees should consult their agency ethics officials).  Note: Federal ethical conduct rules may restrict or prohibit federal employees from engaging in certain outside activities; any federal employee not excluded under the prior paragraph seeking to participate in this Challenge outside the scope of employment should consult his/her agency’s ethics official prior to developing an submission or submission.
+      * Any Federal entity or Federal employee acting within the scope of his or her employment or otherwise be prohibited by Federal law (employees should consult their agency ethics officials).  Note: Federal ethical conduct rules may restrict or prohibit federal employees from engaging in certain outside activities; any federal employee not excluded under the prior paragraph seeking to participate in this Challenge outside the scope of employment should consult his/her agency’s ethics official prior to developing a submission.
       * Any Contestant that used DHS federal facilities or relied upon significant consultation with DHS federal employees to develop a submission, unless the facilities and employees were made available to all Contestants or participants in this Challenge on an equal basis.
       * Any Contestant that used federal funds to develop a submission, unless such use is consistent with the grant award, or other applicable federal funds awarding document.  If a grantee using federal funds enters and wins this Challenge, the cash prize award must be treated as program income for purposes of the original grant in accordance with applicable Office of Management and Budget Circulars.  Federal contractors may not use federal funds from a contract to develop a submission for this Challenge.
   12. Per 15 U.S.C. 3719(h), a Contestant shall not be deemed ineligible under these eligibility rules because the individual or entity used federal facilities or consulted with Federal employees during a Challenge if the facilities and employees are made available to all individuals and entities participating in the Challenge on an equitable basis.
@@ -170,7 +171,7 @@ judging: >-
   Submissions should explain how well the proposed solution(s) address the cooling problem and use cases based on the criteria below for both Stage 1 and Stage 2. Overall, the judging will consider how user-friendly (easy-to-install or retro-fit and easy-to-use) and cost effective the solution is, and how well it meets the judging criteria. 
 
 
-  Stage 1 Finalists will be based on how well the proposed solution(s) addresses the cooling problem and use cases including:
+  Stage 1 Finalists will be based on how well the proposed solution(s) addresses the cooling problem and Use Cases including:
 
 
   * How well does the submission address the problem and criteria?  This can include evaluation and demonstration of the solution and applicability to use case(s).
@@ -239,8 +240,8 @@ how-to-enter: >-
   To be eligible to win a prize award under this Challenge, Contestants must
   enter a submission for the Challenge.  The submissions must be emailed to DHS
   Prize Competitions team at
-  [prizeauthority@hq.dhs.gov](mailto:prizeauthority@hq.dhs.gov) and must include
-  a:
+  [prizeauthority@hq.dhs.gov](mailto:prizeauthority@hq.dhs.gov) by submission
+  end date (Date: 12/07/2021 08:00 PM ET) and must comply with the below:
 
 
   * Subject line stating “DHS Cooling Solution Challenge Submission”
