@@ -4,7 +4,7 @@ challenge-title: "Imperfection Detection: Detect Me If You Can"
 layout: front-matter-data-markdownify-content
 permalink: /challenge/imperfection-detection/
 challenge-id: "1213"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/imperfect-detect-341x160.jpg
 agency-logo: /assets/netlify-uploads/bureau-of-reclamation.png
@@ -19,8 +19,8 @@ type-of-challenge:
   - Technology demonstration and hardware
   - Analytics, visualizations, algorithms
   - Scientific
-submission-start: 2021/03/04 7:00 AM
-submission-end: 2021/07/20 5:00 PM
+submission-start: 03/04/2021 7:00 AM
+submission-end: 07/20/2021 5:00 PM
 fiscal-year: FY21, FY22, FY23
 legal-authority: Procurement Authority
 challenge-manager: Jennifer Beardsley

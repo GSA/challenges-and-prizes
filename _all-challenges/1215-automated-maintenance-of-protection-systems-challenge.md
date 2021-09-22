@@ -4,7 +4,7 @@ challenge-title: Automated Maintenance of Protection Systems Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/automated-maintenance-of-protection-systems-challenge/
 challenge-id: "1215"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/amps_challenge_image_341x160.jpg
 agency-logo: /assets/netlify-uploads/usbr.jpg
@@ -20,8 +20,8 @@ total-prize-offered-cash: $250,000
 type-of-challenge:
   - Technology demonstration and hardware
   - Analytics, visualizations, algorithms
-submission-start: 2021/03/17 1:00 PM
-submission-end: 2021/09/03 11:59 PM
+submission-start: 03/17/2021 1:00 PM
+submission-end: 09/03/2021 11:59 PM
 fiscal-year: FY21, FY22
 legal-authority: Procurement Authority
 challenge-manager: Jennifer Beardsley

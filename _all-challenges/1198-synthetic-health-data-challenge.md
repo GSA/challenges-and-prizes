@@ -4,7 +4,7 @@ challenge-title: Synthetic Health Data Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/synthetic-health-data-challenge/
 challenge-id: "1198"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/hhs-logo-resize-for-tile.png
 agency-logo: /assets/netlify-uploads/hhs.png
@@ -16,34 +16,49 @@ agency: Department of Health & Human Services - Office of National Coordinator
 total-prize-offered-cash: $100,000
 type-of-challenge:
   - Software and apps
-submission-start: 2021/01/19 09:00 AM
-submission-end: 2021/07/13 05:00 PM
+submission-start: 01/19/2021 09:00 AM
+submission-end: 07/13/2021 05:00 PM
 fiscal-year: FY21
 legal-authority: Procurement Authority
 challenge-manager: Stephanie Garcia, ONC
 challenge-manager-email: Stephanie.Garcia@hhs.gov
 point-of-contact: SyntheticDataChallenge@govhealth.com
-body-content-uploads: /assets/netlify-uploads/20210420_synthetic-health-data-challenge-faqs.pdf
+body-content-uploads: /assets/netlify-uploads/uihealth_synthetic-data-solution.pdf
 description: >-
-  **\*\* Welcome to the Synthetic Health Data Challenge Webpage! Watch this
-  space for important updates. \*\***
+  ### Description
 
 
-  * **REMINDER: The deadline for submitting Phase II prototypes/solutions is Tuesday, July 13, 2021, at 5:00 p.m. ET. Participants are competing for $100,000 in total awards. Here are the Phase II competitors and their Proposals for Innovative Models:**
-
-    * **Battellion:** A Generic Quality Construct Module for Integrated Testing of eCQM using Synthea
-    * **CodeRx:** Medication Diversification Tool
-    * **Generalistas:** Virtual Generalist
-    * **LMI:** On Improving Realism of Disease Modules in Synthea: Social Determinant-Based Enhancements to Conditional Transition Logic
-    * **Menrva.AI:** Incorporating SDOH Data to Predict Diabetes Progression in Patients with Laboratory-Defined Prediabetes
-    * **Particle Health:** The Necessity of Realistic Synthetic Health Data Development Environments
-    * **Team TeMa #1:** Empirical Inference of Underlying Condition Probabilities Using Synthea-Generated Synthetic Health Data
-    * **Team TeMa #2:** Modification and Use of Synthea to Account for Patient Vaccination Choice
-    * **UI Health:** Spatiotemporal Big Data Analysis of Opioid Epidemic in Illinois
+  ***Congratulations to the Synthetic Health Data Challenge Winners!***
 
 
+  ONC is pleased to announce the Synthetic Health Data Challenge Winning Solutions! [Register now](https://govhealth.zoom.us/webinar/register/WN_N4scGKbBTdid4_V0y5zxIQ)  for the October 19, 2021 Winning Solutions Webinar featuring the Challenge Winners and their innovative solutions. 
 
-  * **UPDATED FAQs (4/20/21): The FAQs have been updated to include questions from the Phase II Informational Webinar. Visit the Resources section below.**
+
+  **1st Place Winner – $40,000 Award**
+
+
+  * Team CodeRX: [Medication Diversification Tool]({{site.baseurl}}/assets/netlify-uploads/coderx_synthetic-data-solution.pdf)
+
+
+  **2nd Place Winners – $15,000 Award**
+
+
+  * The Generalistas: [Virtual Generalist – Modeling Co-morbidities in SyntheaTM]({{site.baseurl}}/assets/netlify-uploads/generalistas_synthetic-data-solution.pdf)
+
+  * Team LMI: [On Improving Realism of Disease Modules in SyntheaTM: Social Determinant-Based Enhancements to Conditional Transition Logic]({{site.baseurl}}/assets/netlify-uploads/lmi_synthetic-data-solution.pdf)
+
+
+  **3rd Place Winners – $10,000 Award**
+
+
+  * Particle Health: [The Necessity of Realistic Synthetic Health Data Development Environments]({{site.baseurl}}/assets/netlify-uploads/particlehealth_synthetic-data-solution.pdf)
+
+  * Team TeMa: [Empirical Inference of Underlying Condition Probabilities Using SyntheaTM-Generated Synthetic Health Data]({{site.baseurl}}/assets/netlify-uploads/tema_synthetic-data-solution.pdf)
+
+  * UI Health: [Spatiotemporal Big Data Analysis of Opioid Epidemic in Illinois]({{site.baseurl}}/assets/netlify-uploads/uihealth_synthetic-data-solution.pdf)
+
+
+  **Challenge Overview**
 
 
   The Office of the National Coordinator for Health Information Technology (ONC), a division of the Department of Health and Human Services, has led and collaborated on many projects supporting the adoption and implementation of a patient-centered outcomes research (PCOR) data infrastructure. Projects funded by the Patient-Centered Outcomes Research Trust Fund, administered by the Assistant Secretary for Planning and Evaluation (ASPE), support the development of data capacity and infrastructure that can engage patients in health care decision-making and incorporate their responses into research. The Synthetic Health Data Challenge (Challenge) is an important component of the [Synthetic Health Data Generation to Accelerate PCOR Project](https://www.healthit.gov/topic/research-evaluation/synthetic-health-data-generation-accelerate-patient-centered-outcomes), through which ONC seeks to accelerate PCOR by furthering the development of Synthea™, a synthetic health data engine. The Challenge invites providers, researchers, and technology developers to develop innovative tools and resources that support validation and novel uses of synthetic data for PCOR researchers and/or health IT developers.
@@ -89,7 +104,7 @@ description: >-
   **Resources** 
 
 
-  * [Frequently Asked Questions Document]({{site.baseurl}}/assets/netlify-uploads/20210420_synthetic-health-data-challenge-faqs.pdf) (updated 04/20/2021)
+  * [Frequently Asked Questions Document]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-faqs.pdf) (updated 04/20/2021)
 
   * [Technical Guidance and Tips]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge_technical-guidance-and-tips.pdf) 
 
@@ -104,7 +119,6 @@ description: >-
   * Phase I Informational Webinar (Feb 2, 2021 12:00 PM ET)
 
     * [Webinar Materials]({{site.baseurl}}/assets/netlify-uploads/20210202_challenge-phase-i-informational-webinar-materials.pdf)
-    * [Webinar Recording](https://govhealth.zoom.us/rec/play/yVJ8I3UU0rSd9C1JDS4C9sARQtVeO5WMadSB67rEky34U0KM-p73cGPZFFImDWIeXAlfqg72AFCeAKhd.9QViQqRv3Amo3j83?startTime=1612284361000)
 
   **Key Dates**
 
@@ -133,7 +147,7 @@ prizes: >-
   **Prize Breakdown**
 
 
-  Up to six (6) winners will be selected for prizes ranging from $10,000 – $50,000. 
+  Winners will be selected for prizes ranging from $10,000 – $50,000. 
 
 
   * First place winner(s) will receive $25,000 – $50,000
@@ -189,7 +203,7 @@ judging: >-
 
   Provide any information you want your solvers to know about who will be evaluating their submissions.
 
-  Technical reviewers with expertise relevant to the Challenge will evaluate the Solutions based on their ability to achieve the criteria listed below. The Solutions and evaluation statements from the technical reviewers will then be reviewed by federal employees serving as judges, who will select up to six (6) Challenge winners as well as any honorable mentions, subject to a final decision by the Award Approving Official.
+  Technical reviewers with expertise relevant to the Challenge will evaluate the Solutions based on their ability to achieve the criteria listed below. The Solutions and evaluation statements from the technical reviewers will then be reviewed by federal employees serving as judges, who will select the Challenge winners as well as any honorable mentions, subject to a final decision by the Award Approving Official.
 
 
   The Award Approving Official will be Dr. Micky Tripathi, the National Coordinator for Health Information Technology.
@@ -331,25 +345,28 @@ how-to-enter: >-
 
   Prizes awarded under this competition will be paid by electronic funds and may be subject to Federal income taxes. Awardees will need to provide an institutional bank account and routing information to receive the award funds. Payments will comply with the Internal Revenue Service withholding and reporting requirements, where applicable. ONC reserves the right, at its sole discretion, to (a) cancel, suspend, or modify this prize competition, or any part of it, for any reason, and/or (b) not award any prizes if no submissions are deemed worthy.
 ---
-**\*\* Welcome to the Synthetic Health Data Challenge Webpage! Watch this space for important updates. \*\***
-
-* **REMINDER: The deadline for submitting Phase II prototypes/solutions is Tuesday, July 13, 2021, at 5:00 p.m. ET. Participants are competing for $100,000 in total awards. Here are the Phase II competitors and their Proposals for Innovative Models:**
-
-  * **Battellion:** A Generic Quality Construct Module for Integrated Testing of eCQM using Synthea
-  * **CodeRx:** Medication Diversification Tool
-  * **Generalistas:** Virtual Generalist
-  * **LMI:** On Improving Realism of Disease Modules in Synthea: Social Determinant-Based Enhancements to Conditional Transition Logic
-  * **Menrva.AI:** Incorporating SDOH Data to Predict Diabetes Progression in Patients with Laboratory-Defined Prediabetes
-  * **Particle Health:** The Necessity of Realistic Synthetic Health Data Development Environments
-  * **Team TeMa #1:** Empirical Inference of Underlying Condition Probabilities Using Synthea-Generated Synthetic Health Data
-  * **Team TeMa #2:** Modification and Use of Synthea to Account for Patient Vaccination Choice
-  * **UI Health:** Spatiotemporal Big Data Analysis of Opioid Epidemic in Illinois
-
-
-
-* **UPDATED FAQs (4/20/21): The FAQs have been updated to include questions from the Phase II Informational Webinar. Visit the Resources section below.**
-
 ### Description
+
+***Congratulations to the Synthetic Health Data Challenge Winners!***
+
+ONC is pleased to announce the Synthetic Health Data Challenge Winning Solutions! [Register now](https://govhealth.zoom.us/webinar/register/WN_N4scGKbBTdid4_V0y5zxIQ)  for the October 19, 2021 Winning Solutions Webinar featuring the Challenge Winners and their innovative solutions. 
+
+**1st Place Winner – $40,000 Award**
+
+* Team CodeRX: [Medication Diversification Tool]({{site.baseurl}}/assets/netlify-uploads/coderx_synthetic-data-solution.pdf)
+
+**2nd Place Winners – $15,000 Award**
+
+* The Generalistas: [Virtual Generalist – Modeling Co-morbidities in SyntheaTM]({{site.baseurl}}/assets/netlify-uploads/generalistas_synthetic-data-solution.pdf)
+* Team LMI: [On Improving Realism of Disease Modules in SyntheaTM: Social Determinant-Based Enhancements to Conditional Transition Logic]({{site.baseurl}}/assets/netlify-uploads/lmi_synthetic-data-solution.pdf)
+
+**3rd Place Winners – $10,000 Award**
+
+* Particle Health: [The Necessity of Realistic Synthetic Health Data Development Environments]({{site.baseurl}}/assets/netlify-uploads/particlehealth_synthetic-data-solution.pdf)
+* Team TeMa: [Empirical Inference of Underlying Condition Probabilities Using SyntheaTM-Generated Synthetic Health Data]({{site.baseurl}}/assets/netlify-uploads/tema_synthetic-data-solution.pdf)
+* UI Health: [Spatiotemporal Big Data Analysis of Opioid Epidemic in Illinois]({{site.baseurl}}/assets/netlify-uploads/uihealth_synthetic-data-solution.pdf)
+
+**Challenge Overview**
 
 The Office of the National Coordinator for Health Information Technology (ONC), a division of the Department of Health and Human Services, has led and collaborated on many projects supporting the adoption and implementation of a patient-centered outcomes research (PCOR) data infrastructure. Projects funded by the Patient-Centered Outcomes Research Trust Fund, administered by the Assistant Secretary for Planning and Evaluation (ASPE), support the development of data capacity and infrastructure that can engage patients in health care decision-making and incorporate their responses into research. The Synthetic Health Data Challenge (Challenge) is an important component of the [Synthetic Health Data Generation to Accelerate PCOR Project](https://www.healthit.gov/topic/research-evaluation/synthetic-health-data-generation-accelerate-patient-centered-outcomes), through which ONC seeks to accelerate PCOR by furthering the development of Synthea™, a synthetic health data engine. The Challenge invites providers, researchers, and technology developers to develop innovative tools and resources that support validation and novel uses of synthetic data for PCOR researchers and/or health IT developers.
 
@@ -379,7 +396,7 @@ Participants will propose a solution in one of two (2) Challenge categories.
 
 **Resources** 
 
-* [Frequently Asked Questions Document]({{site.baseurl}}/assets/netlify-uploads/20210420_synthetic-health-data-challenge-faqs.pdf) (updated 04/20/2021)
+* [Frequently Asked Questions Document]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge-faqs.pdf) (updated 04/20/2021)
 * [Technical Guidance and Tips]({{site.baseurl}}/assets/netlify-uploads/synthetic-health-data-challenge_technical-guidance-and-tips.pdf) 
 * Example Modules, Module Companion Guides 
 
@@ -391,7 +408,6 @@ Participants will propose a solution in one of two (2) Challenge categories.
 * Phase I Informational Webinar (Feb 2, 2021 12:00 PM ET)
 
   * [Webinar Materials]({{site.baseurl}}/assets/netlify-uploads/20210202_challenge-phase-i-informational-webinar-materials.pdf)
-  * [Webinar Recording](https://govhealth.zoom.us/rec/play/yVJ8I3UU0rSd9C1JDS4C9sARQtVeO5WMadSB67rEky34U0KM-p73cGPZFFImDWIeXAlfqg72AFCeAKhd.9QViQqRv3Amo3j83?startTime=1612284361000)
 
 **Key Dates**
 
@@ -411,7 +427,7 @@ Participants will propose a solution in one of two (2) Challenge categories.
 
 **Prize Breakdown**
 
-Up to six (6) winners will be selected for prizes ranging from $10,000 – $50,000. 
+Winners will be selected for prizes ranging from $10,000 – $50,000. 
 
 * First place winner(s) will receive $25,000 – $50,000
 * Second place winner(s) will receive $15,000 – $30,000
@@ -447,7 +463,7 @@ Each winning entry and Honorable Mention will be invited to present during the W
 
 **Judging Panel**
 
-Technical reviewers with expertise relevant to the Challenge will evaluate the Solutions based on their ability to achieve the criteria listed below. The Solutions and evaluation statements from the technical reviewers will then be reviewed by federal employees serving as judges, who will select up to six (6) Challenge winners as well as any honorable mentions, subject to a final decision by the Award Approving Official.
+Technical reviewers with expertise relevant to the Challenge will evaluate the Solutions based on their ability to achieve the criteria listed below. The Solutions and evaluation statements from the technical reviewers will then be reviewed by federal employees serving as judges, who will select the Challenge winners as well as any honorable mentions, subject to a final decision by the Award Approving Official.
 
 The Award Approving Official will be Dr. Micky Tripathi, the National Coordinator for Health Information Technology.
 

@@ -237,6 +237,16 @@ h3 a {
 	line-height: 2;
 }
 
+.usa-accordion__button {
+	&:after {
+		display: none;
+	}
+}
+
+.usa-accordion__button:after {
+	display: none !important;
+}
+
 // Toolkit - Resource page links
 
 .ss-link {

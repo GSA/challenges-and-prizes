@@ -5,7 +5,7 @@ challenge-title: AI and Networks Advanced Naval Technology Exercise (AINet ANTX)
 layout: front-matter-data-markdownify-content
 permalink: /challenge/networks-advanced-naval-technology-exercise-ainetantx-artificial-intelligence-prize-challenge/
 challenge-id: "1246"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/6-july-approved-antx-logo_resized.png
 agency-logo: /assets/netlify-uploads/sealnavy.png
@@ -21,27 +21,27 @@ type-of-challenge:
   - Ideas
   - Analytics, visualizations, algorithms
   - Scientific
-submission-start: "2021/06/11 "
-submission-end: 2021/07/27 03:00 PM
+submission-start: "06/11/2021 "
+submission-end: 08/13/2021 03:00 PM
 fiscal-year: FY22
 legal-authority: Other
 challenge-manager: Carly Jackson
 challenge-manager-email: carly.jackson@navy.mil
 point-of-contact: charles.yetman@navy.mil
-body-content-uploads: /assets/netlify-uploads/ainetantx-networks-prize-challenge-qa-2jul21.pdf
+body-content-uploads: /assets/netlify-uploads/ainetantx-ai-prize-challenge-operational-context-and-data-description-30july21.pdf
 description: >-
-  Consider a scenario where developers, data scientists, machine learning (ML)
-  engineers, etc., have access to training-quality datasets via the Overmatch
-  Software Armory’s (OSA) secure, shore-based, Virtual Desktop Infrastructure
-  (VDI) enabled environment. Pipelined training-quality datasets are stored in
-  Apache Parquet format and readily available for query, discovery, and
-  retrieval from RESTful Services via Swagger UI, Command Line Interface (CLI),
-  and/or the Java software development kit (SDK). The OSA environment also
-  provides access to pertinent artificial intelligence (AI) tooling, e.g.
-  Anaconda, Amazon Web Services (AWS) SageMaker, etc., which is used to perform
-  data engineering, build/train ML models, and/or develop AI-enabled
-  capabilities (e.g. Natural Language Processing / Natural Language
-  Understanding (NLP/NLU), reasoning, planning, etc.).
+  #### IMPORTANT UPDATES:
+
+
+  * Q&A (Last Updated: July 16, 2021): [Click here for Q&A]({{site.baseurl}}/assets/netlify-uploads/ainetantx-ai-prize-challenge-qa-16july21.pdf)
+
+  * [AI Prize Challenge Operational Context and Data Description]({{site.baseurl}}/assets/netlify-uploads/ainetantx-ai-prize-challenge-operational-context-and-data-description-30july21.pdf) (Added: July 30, 2021)		
+
+
+  #### Description
+
+
+  Consider a scenario where developers, data scientists, machine learning (ML) engineers, etc., have access to training-quality datasets via the Overmatch Software Armory’s (OSA) secure, shore-based, Virtual Desktop Infrastructure (VDI) enabled environment. Pipelined training-quality datasets are stored in Apache Parquet format and readily available for query, discovery, and retrieval from RESTful Services via Swagger UI, Command Line Interface (CLI), and/or the Java software development kit (SDK). The OSA environment also provides access to pertinent artificial intelligence (AI) tooling, e.g. Anaconda, Amazon Web Services (AWS) SageMaker, etc., which is used to perform data engineering, build/train ML models, and/or develop AI-enabled capabilities (e.g. Natural Language Processing / Natural Language Understanding (NLP/NLU), reasoning, planning, etc.).
 
 
   The AI Prize Challenge, hereinafter referred to as the “Challenge”, is focused on quickly identifying operationally relevant innovations and emerging AI-enabled technologies. Selected participants will be invited to demonstrate candidate technologies in the Overmatch Software Armory (OSA), which will provide participants VDI access to a secure, government-owned Commercial Cloud Service Provider (CCSP). AI technologies are expected to be containerized and deployed to the Red Hat OpenShift Container Platform (OSCP) version 4.6.
@@ -55,25 +55,25 @@ description: >-
 
   * Challenge Registration and Submissions Opens: **June 2021**
 
-  * Virtual Q&A Session with prospective participants: **June 30, 2021**
+  * [Virtual Q&A Session with prospective participants]({{site.baseurl}}/assets/netlify-uploads/distro_a-ainetantx-30jun21-virtual-live-qa-announcement-and-registration-information.pdf):  **June 30, 2021**	
 
-  * White Paper/Quad Chart Deadline: **July 27, 2021**
+  * White Paper/Quad Chart Deadline:  **August 13, 2021**
 
-  * Review/ Down-selection Boards: **August 10 - August 12, 2021**
+  * Review/ Down-selection Boards:  **August 20 - August 23, 2021**
 
-  * Announce invited AINet ANTX Challenge participants: **August 24, 2021**
+  * Announce invited AINet ANTX Challenge participants:  **August 24, 2021**
 
-  * Virtual Q/A Session for participants: **August 31st, 2021**
+  * Virtual Q/A Session for participants:  **August 31st, 2021**
 
-  * iRIL Integration Workshop: **September 14, 2021**
+  * iRIL Integration Workshop:  **September 14, 2021**
 
-  * Networking Technology Submission: **October 22, 2021**
+  * Networking Technology Submission:  **October 22, 2021**
 
-  * AINet ANTX (Presentation/Demonstration): **November 4, 2021**
+  * AINet ANTX (Presentation/Demonstration):  **November 4, 2021**
 
-  * Prize Challenge Board Deliberations: **November 5, 2021**
+  * Prize Challenge Board Deliberations:  **November 5, 2021**
 
-  * Announce Prize Challenge Winners: **November 10, 2021**
+  * Announce Prize Challenge Winners:  **November 10, 2021**
 prizes: |-
   #### Total Cash Prize Pool
 
@@ -98,7 +98,7 @@ rules: >-
   * quad chart where all content such as text, pictures, diagrams, etc. are provided pre-approved for public release
 
 
-  In order for an entry to be considered, a white paper and quad chart must be submitted no later than July 27, 2021, in accordance with the submission guidelines.
+  In order for an entry to be considered, a white paper and quad chart must be submitted no later than August 13, 2021, in accordance with the submission guidelines.
 
 
   Each entry will be initially assessed utilizing the criteria set forth under the section, **Assessment Criteria - AI Prize Challenge Invitations**. Following initial assessment, Participants may be invited to advance to the second assessment in the Challenge.
@@ -116,13 +116,13 @@ rules: >-
   **White Paper Submission Guidelines:**
 
 
-  White papers should provide an overview of the proposed technology, technical approach (e.g. architecture, deployment overview, algorithm descriptions, model descriptions, performance requirements, endpoint footprint, existing results, etc.), the benefits and novelty of the approach within the context of existing academic and commercially available technologies, and the dependencies necessary (e.g. data, platform, network connectivity, etc.) to operate the proposed technology. White papers must be no more than six pages in length. All white papers must be submitted via email to: [NetANTX@niwc.navy.mil](mailto:NetANTX@niwc.navy.mil) by 1200 PST July 27, 2021. Where appropriate, use protective markings such as “Do Not Publicly Release – Trade Secret” or “Do Not Publicly Release – Confidential Proprietary Business Information” in the header or footer of the white paper.
+  White papers should provide an overview of the proposed technology, technical approach (e.g. architecture, deployment overview, algorithm descriptions, model descriptions, performance requirements, endpoint footprint, existing results, etc.), the benefits and novelty of the approach within the context of existing academic and commercially available technologies, and the dependencies necessary (e.g. data, platform, network connectivity, etc.) to operate the proposed technology. White papers must be no more than six pages in length. All white papers must be submitted via email to: [NetANTX@niwc.navy.mil](mailto:NetANTX@niwc.navy.mil) by 1200 PST August 13, 2021. Where appropriate, use protective markings such as “Do Not Publicly Release – Trade Secret” or “Do Not Publicly Release – Confidential Proprietary Business Information” in the header or footer of the white paper.
 
 
   **Quad Chart Submission Guidelines:**
 
 
-  Quad charts shall be submitted in accordance with the provided quad chart template with all content (text, graphics, pictures, etc.) pre-approved for public release. The single slide quad-chart must be submitted in Microsoft PowerPoint version 16.0 or greater, which is Microsoft Office 2016, Microsoft Office 2019, and Microsoft Office 365. The file extension can be in either in .PPT or .PPTX. Quad charts must be attached to the same email when white papers are submitted by 1200 PST July 27, 2021. The quad chart shall include a “Distribution A: Approved for Public release” marking in the footer. The submitted file should have the name format “ORGANIZATIONNAME_QUADCHART(.PPT or .PPTX)”. The quad-chart should be a concise summary of the full proposal that can be displayed in a single slide. The Challenge team may use portions of the submitted content for event planning, reports, and for external communication materials. Please use the [Quad Chart template](%7B%7Bsite.baseurl%7D%7D/assets/netlify-uploads/ainetantx-quad-template.pptx).
+  Quad charts shall be submitted in accordance with the provided quad chart template with all content (text, graphics, pictures, etc.) pre-approved for public release. The single slide quad-chart must be submitted in Microsoft PowerPoint version 16.0 or greater, which is Microsoft Office 2016, Microsoft Office 2019, and Microsoft Office 365. The file extension can be in either in .PPT or .PPTX. Quad charts must be attached to the same email when white papers are submitted by 1200 PST August 13, 2021. The quad chart shall include a “Distribution A: Approved for Public release” marking in the footer. The submitted file should have the name format “ORGANIZATIONNAME_QUADCHART(.PPT or .PPTX)”. The quad-chart should be a concise summary of the full proposal that can be displayed in a single slide. The Challenge team may use portions of the submitted content for event planning, reports, and for external communication materials. Please use the [Quad Chart template](%7B%7Bsite.baseurl%7D%7D/assets/netlify-uploads/ainetantx-quad-template.pptx).
 
 
   **Technology Submission Guidelines:**
@@ -154,7 +154,7 @@ rules: >-
   #### Eligibility:
 
 
-  The Challenge is open to individual participants, teams of participants, and commercial, Government, and academic entities. Entities must be incorporated in and maintain a primary place of business in the U.S. Individual participants and all members of teams of participants must all be U.S. citizens or U.S. Permanent Residents and be 18 years or older as of July 27, 2021. All participants (entities or individuals) must have a Social Security Number (SSN), Taxpayer Identification Number (TIN), or Employer Identification Number (EIN) in order to receive a prize. Eligibility is subject to verification before any prize is awarded.
+  The Challenge is open to individual participants, teams of participants, and commercial, Government, and academic entities. Entities must be incorporated in and maintain a primary place of business in the U.S. Individual participants and all members of teams of participants must all be U.S. citizens or U.S. Permanent Residents and be 18 years or older as of August 13, 2021. All participants (entities or individuals) must have a Social Security Number (SSN), Taxpayer Identification Number (TIN), or Employer Identification Number (EIN) in order to receive a prize. Eligibility is subject to verification before any prize is awarded.
 
 
   Submissions from Federal Government employees or NAVWAR support contractors will be evaluated but are not eligible to receive the cash award associated with the Challenge.
@@ -289,24 +289,32 @@ judging: >-
   **Assessment Criteria – AI Prize Challenge**
 
 
-  Challenge participants will be evaluated throughout iRIL Integration Workshops and Challenge demonstrations by a panel of qualified AI experts and using the following criteria which is in descending order of importance:
+  Challenge submissions will be evaluated by a panel of qualified AI experts using the following criteria, in descending order of importance:
 
 
   * Operational impact of the technology/engineering innovation in the intended mission scenarios and operational environment
 
-  * Technical performance - F1 Score
-
-  * Technical performance - Precision
-
-  * Technical performance - Recall
-
-  * Technical performance - Accuracy
-
-  * Technical performance - AUC ROC
+  * Technical performance (see below)
 
   * Integration complexity of the technology/engineering innovation
 
   * Technical maturity of the technology/engineering innovation
+
+
+  Technical performance will be judged with metrics appropriate for the submission. Metrics may include: 
+
+
+  * F1 Score
+
+  * Precision
+
+  * Recall
+
+  * Accuracy
+
+  * AUC ROC
+
+  * Other: teams are encouraged to propose other performance metrics relevant to their submission. Include details of scoring methodology and advantages of the metric for Government review. 
 
 
   F1 Score is defined as 2x((precision x recall)/(precision+recall)).
@@ -315,13 +323,16 @@ judging: >-
   Precision is defined as is the number of true positives (TP) divided by the number of TPs and false positives (FP).
 
 
-  Recall is defined as the number of TPs divided by the number of TPs and the number of FNs.
+  Recall is defined as the number of TPs divided by the number of TPs and the number of false negatives (FNs).
 
 
   Accuracy is defined as the number of correct predictions made divided by the total number of predictions made, multiplied by 100 to turn it into a percentage.
 
 
-  AUC ROC is defined as "Area under the Receiver Operating Characteristic Curve." AUC measures the entire two-dimensional area underneath the entire ROC curve from (0,0) to (1,1). The ROC curve is defined as a graph showing the performance of a classification model at all classification thresholds. This curve plots two parameters: True Positive Rate (TPR) = Recall = TP/(TP+FN) and False Positive Rate (FPR) = FP/(FP+TN).
+  AUC ROC is defined as “Area under the Receiver Operating Characteristic Curve.” AUC measures the entire two-dimensional area underneath the entire ROC curve from (0,0) to (1,1). The ROC curve is defined as a graph showing the performance of a classification model at all classification thresholds. This curve plots two parameters: True Positive Rate (TPR) = Recall = TP/(TP+FN) and False Positive Rate (FPR) = FP/(FP+TN).
+
+
+  Teams are encouraged to include useful data or performance visualizations.
 
 
   **AI iRIL, Datasets, and Filesets**
@@ -339,42 +350,12 @@ judging: >-
 
   * Collaborative Staging Environment (CSE) is a DON environment to support accelerated application integration and testing. The CSE provides a cloud-based production-representative test environment for applications to conduct Integration Testing.
 
-  * Agile Core Services (ACS) Provide an application infrastructure platform with a diverse set of services to enable easy and rapid delivery of mission applications (provide an environment with common tools to help Applications deploy faster)"
+  * Agile Core Services (ACS) Provide an application infrastructure platform with a diverse set of services to enable easy and rapid delivery of mission applications (provide an environment with common tools to help Applications deploy faster)
 
   * Application Arsenal is an enterprise software distribution, installation, and update service that enables delivery of approved software from Ashore to the Tactical Edge.
 
 
-  OSA includes monitoring, visualizations and metrics tracking. Participants do not need to plan to dedicate resources to provide this functionality.
-
-
   Technologies that require specific hardware, proprietary components, or on-premises management appliances or consoles will not be considered.
-
-
-  **Dataset**
-
-
-  A dataset allows for distributed filtering of data. Though the implementation differs, a data set can be thought of as a table in a database with rows and columns. Query responses are returned in a standard JavaScript Object Notation (JSON) representation of the data. Dataset schemas are also available for search and retrieval to describe the format of the data. Sample datasets and descriptions are provided below:
-
-
-  * airtracks: a dataset containing aircraft flight location and status over time
-
-  * seatracks: a dataset containing ship voyage location and status over time
-
-  * textual: a dataset containing raw textual information parsed from powerpoint files
-
-
-  **Fileset**
-
-
-  A fileset is a collection of files. Filesets are intended for scenarios where the data cannot be easily organized into rows and columns, for example a PowerPoint document, pdf, or a binary file. The raw data files can then be downloaded via the RESTful API. Some of the file sets are available as file sets until they can be processed further. An example of this is a pdf that will go through optical character recognition and made available as a searchable data set in the future.
-
-
-  Sample filesets and descriptions are provided below:
-
-
-  * usv: a fileset containing raw and processed Unmanned Surface Vehicle (USV)mission data
-
-  * uuv-data: a fileset containing raw and post-processed unmanned underwater vehicle (UUV) mission data
 
 
   **Prize Award Details**
@@ -399,7 +380,8 @@ how-to-enter: |-
 ---
 #### IMPORTANT UPDATES:
 
-* Q&A (Last Updated: July 2, 2021): [Click here for Q&A]({{site.baseurl}}/assets/netlify-uploads/ainetantx-networks-prize-challenge-qa-2jul21.pdf)
+* Q&A (Last Updated: July 16, 2021): [Click here for Q&A]({{site.baseurl}}/assets/netlify-uploads/ainetantx-ai-prize-challenge-qa-16july21.pdf)
+* [AI Prize Challenge Operational Context and Data Description]({{site.baseurl}}/assets/netlify-uploads/ainetantx-ai-prize-challenge-operational-context-and-data-description-30july21.pdf) (Added: July 30, 2021)																								
 
 ### Description
 
@@ -413,8 +395,8 @@ Datasets will be made available to participants in two forms: datasets and files
 
 * Challenge Registration and Submissions Opens: **June 2021**
 * [Virtual Q&A Session with prospective participants]({{site.baseurl}}/assets/netlify-uploads/distro_a-ainetantx-30jun21-virtual-live-qa-announcement-and-registration-information.pdf):  **June 30, 2021**	
-* White Paper/Quad Chart Deadline:  **July 27, 2021**
-* Review/ Down-selection Boards:  **August 10 - August 12, 2021**
+* White Paper/Quad Chart Deadline:  **August 13, 2021**
+* Review/ Down-selection Boards:  **August 20 - August 23, 2021**
 * Announce invited AINet ANTX Challenge participants:  **August 24, 2021**
 * Virtual Q/A Session for participants:  **August 31st, 2021**
 * iRIL Integration Workshop:  **September 14, 2021**
@@ -445,7 +427,7 @@ The entry submission package must include:
 * white paper that clearly describes the technology to be considered
 * quad chart where all content such as text, pictures, diagrams, etc. are provided pre-approved for public release
 
-In order for an entry to be considered, a white paper and quad chart must be submitted no later than July 27, 2021, in accordance with the submission guidelines.
+In order for an entry to be considered, a white paper and quad chart must be submitted no later than August 13, in accordance with the submission guidelines.
 
 Each entry will be initially assessed utilizing the criteria set forth under the section, **Assessment Criteria - AI Prize Challenge Invitations**. Following initial assessment, Participants may be invited to advance to the second assessment in the Challenge.
 
@@ -457,11 +439,11 @@ Instructions for classified submissions may be requested via [NetAntx@niwc.navy.
 
 **White Paper Submission Guidelines:**
 
-White papers should provide an overview of the proposed technology, technical approach (e.g. architecture, deployment overview, algorithm descriptions, model descriptions, performance requirements, endpoint footprint, existing results, etc.), the benefits and novelty of the approach within the context of existing academic and commercially available technologies, and the dependencies necessary (e.g. data, platform, network connectivity, etc.) to operate the proposed technology. White papers must be no more than six pages in length. All white papers must be submitted via email to: [NetANTX@niwc.navy.mil](mailto:NetANTX@niwc.navy.mil) by 1200 PST July 27, 2021. Where appropriate, use protective markings such as “Do Not Publicly Release – Trade Secret” or “Do Not Publicly Release – Confidential Proprietary Business Information” in the header or footer of the white paper.
+White papers should provide an overview of the proposed technology, technical approach (e.g. architecture, deployment overview, algorithm descriptions, model descriptions, performance requirements, endpoint footprint, existing results, etc.), the benefits and novelty of the approach within the context of existing academic and commercially available technologies, and the dependencies necessary (e.g. data, platform, network connectivity, etc.) to operate the proposed technology. White papers must be no more than six pages in length. All white papers must be submitted via email to: [NetANTX@niwc.navy.mil](mailto:NetANTX@niwc.navy.mil) by 1200 PST August 13, 2021. Where appropriate, use protective markings such as “Do Not Publicly Release – Trade Secret” or “Do Not Publicly Release – Confidential Proprietary Business Information” in the header or footer of the white paper.
 
 **Quad Chart Submission Guidelines:**
 
-Quad charts shall be submitted in accordance with the provided quad chart template with all content (text, graphics, pictures, etc.) pre-approved for public release. The single slide quad-chart must be submitted in Microsoft PowerPoint version 16.0 or greater, which is Microsoft Office 2016, Microsoft Office 2019, and Microsoft Office 365. The file extension can be in either in .PPT or .PPTX. Quad charts must be attached to the same email when white papers are submitted by 1200 PST July 27, 2021. The quad chart shall include a “Distribution A: Approved for Public release” marking in the footer. The submitted file should have the name format “ORGANIZATIONNAME_QUADCHART(.PPT or .PPTX)”. The quad-chart should be a concise summary of the full proposal that can be displayed in a single slide. The Challenge team may use portions of the submitted content for event planning, reports, and for external communication materials. Please use the [Quad Chart template]({{site.baseurl}}/assets/netlify-uploads/ainetantx-quad-template.pptx).
+Quad charts shall be submitted in accordance with the provided quad chart template with all content (text, graphics, pictures, etc.) pre-approved for public release. The single slide quad-chart must be submitted in Microsoft PowerPoint version 16.0 or greater, which is Microsoft Office 2016, Microsoft Office 2019, and Microsoft Office 365. The file extension can be in either in .PPT or .PPTX. Quad charts must be attached to the same email when white papers are submitted by 1200 PST August 13, 2021. The quad chart shall include a “Distribution A: Approved for Public release” marking in the footer. The submitted file should have the name format “ORGANIZATIONNAME_QUADCHART(.PPT or .PPTX)”. The quad-chart should be a concise summary of the full proposal that can be displayed in a single slide. The Challenge team may use portions of the submitted content for event planning, reports, and for external communication materials. Please use the [Quad Chart template]({{site.baseurl}}/assets/netlify-uploads/ainetantx-quad-template.pptx).
 
 **Technology Submission Guidelines:**
 
@@ -481,7 +463,7 @@ Questions submitted after the deadline may not be addressed.
 
 #### Eligibility:
 
-The Challenge is open to individual participants, teams of participants, and commercial, Government, and academic entities. Entities must be incorporated in and maintain a primary place of business in the U.S. Individual participants and all members of teams of participants must all be U.S. citizens or U.S. Permanent Residents and be 18 years or older as of July 27, 2021. All participants (entities or individuals) must have a Social Security Number (SSN), Taxpayer Identification Number (TIN), or Employer Identification Number (EIN) in order to receive a prize. Eligibility is subject to verification before any prize is awarded.
+The Challenge is open to individual participants, teams of participants, and commercial, Government, and academic entities. Entities must be incorporated in and maintain a primary place of business in the U.S. Individual participants and all members of teams of participants must all be U.S. citizens or U.S. Permanent Residents and be 18 years or older as of August 13, 2021. All participants (entities or individuals) must have a Social Security Number (SSN), Taxpayer Identification Number (TIN), or Employer Identification Number (EIN) in order to receive a prize. Eligibility is subject to verification before any prize is awarded.
 
 Submissions from Federal Government employees or NAVWAR support contractors will be evaluated but are not eligible to receive the cash award associated with the Challenge.
 
@@ -574,59 +556,47 @@ Based on this initial assessment of the white papers and quad charts, participan
 
 **Assessment Criteria – AI Prize Challenge**
 
-Challenge participants will be evaluated throughout iRIL Integration Workshops and Challenge demonstrations by a panel of qualified AI experts and using the following criteria which is in descending order of importance:
+Challenge submissions will be evaluated by a panel of qualified AI experts using the following criteria, in descending order of importance:
 
 * Operational impact of the technology/engineering innovation in the intended mission scenarios and operational environment
-* Technical performance - F1 Score
-* Technical performance - Precision
-* Technical performance - Recall
-* Technical performance - Accuracy
-* Technical performance - AUC ROC
+* Technical performance (see below)
 * Integration complexity of the technology/engineering innovation
 * Technical maturity of the technology/engineering innovation
+
+Technical performance will be judged with metrics appropriate for the submission. Metrics may include: 
+
+* F1 Score
+* Precision
+* Recall
+* Accuracy
+* AUC ROC
+* Other: teams are encouraged to propose other performance metrics relevant to their submission. Include details of scoring methodology and advantages of the metric for Government review. 
 
 F1 Score is defined as 2x((precision x recall)/(precision+recall)).
 
 Precision is defined as is the number of true positives (TP) divided by the number of TPs and false positives (FP).
 
-Recall is defined as the number of TPs divided by the number of TPs and the number of FNs. 
+Recall is defined as the number of TPs divided by the number of TPs and the number of false negatives (FNs).
 
 Accuracy is defined as the number of correct predictions made divided by the total number of predictions made, multiplied by 100 to turn it into a percentage.
 
-AUC ROC is defined as "Area under the Receiver Operating Characteristic Curve."  AUC measures the entire two-dimensional area underneath the entire ROC curve from (0,0) to (1,1).   The ROC curve is defined as a graph showing the performance of a classification model at all classification thresholds. This curve plots two parameters:  True Positive Rate (TPR) = Recall = TP/(TP+FN) and False Positive Rate (FPR) = FP/(FP+TN).
+AUC ROC is defined as “Area under the Receiver Operating Characteristic Curve.” AUC measures the entire two-dimensional area underneath the entire ROC curve from (0,0) to (1,1). The ROC curve is defined as a graph showing the performance of a classification model at all classification thresholds. This curve plots two parameters: True Positive Rate (TPR) = Recall = TP/(TP+FN) and False Positive Rate (FPR) = FP/(FP+TN).
 
-**AI iRIL, Datasets, and Filesets** 
+Teams are encouraged to include useful data or performance visualizations.
 
-AI iRIL 
+**AI iRIL, Datasets, and Filesets**
 
-Participants will be provided with VDI access to the OSA environment, which is generically referred to as an iRIL. OSA provides the processes, infrastructure, and tools underpinning these subsystems for application providers.  The OSA is comprised of the following components:
+AI iRIL
+
+Participants will be provided with VDI access to the OSA environment, which is generically referred to as an iRIL. OSA provides the processes, infrastructure, and tools underpinning these subsystems for application providers. The OSA is comprised of the following components:
 
 * Naval Research & Development Establishment (NR&DE) Secure Cloud provides Naval R&D labs and its developers with Infrastructure as a Service, Platform as a Service, security services, and development tools via a CCSP.
 * Overmatch Software Armory (OSA) Tools and Services is a DON Environment to support accelerated application development while making optimal use of infrastructure.
-* Collaborative Staging Environment (CSE) is a DON environment to support accelerated application integration and testing.  The CSE provides a cloud-based production-representative test environment for applications to conduct Integration Testing. 
-* Agile Core Services (ACS) Provide an application infrastructure platform with a diverse set of services to enable easy and rapid delivery of mission applications (provide an environment with common tools to help Applications deploy faster)" 
+* Collaborative Staging Environment (CSE) is a DON environment to support accelerated application integration and testing. The CSE provides a cloud-based production-representative test environment for applications to conduct Integration Testing.
+* Agile Core Services (ACS) Provide an application infrastructure platform with a diverse set of services to enable easy and rapid delivery of mission applications (provide an environment with common tools to help Applications deploy faster)
 * Application Arsenal is an enterprise software distribution, installation, and update service that enables delivery of approved software from Ashore to the Tactical Edge.
 
-OSA includes monitoring, visualizations and metrics tracking. Participants do not need to plan to dedicate resources to provide this functionality.
-
 Technologies that require specific hardware, proprietary components, or on-premises management appliances or consoles will not be considered.
-
-**Dataset**
-
-A dataset allows for distributed filtering of data. Though the implementation differs, a data set can be thought of as a table in a database with rows and columns. Query responses are returned in a standard JavaScript Object Notation (JSON) representation of the data.  Dataset schemas are also available for search and retrieval to describe the format of the data. Sample datasets and descriptions are provided below:
-
-* airtracks: a dataset containing aircraft flight location and status over time
-* seatracks: a dataset containing ship voyage location and status over time
-* textual: a dataset containing raw textual information parsed from powerpoint files
-
-**Fileset**
-
-A fileset is a collection of files.  Filesets are intended for scenarios where the data cannot be easily organized into rows and columns, for example a PowerPoint document, pdf, or a binary file. The raw data files can then be downloaded via the RESTful API. Some of the file sets are available as file sets until they can be processed further. An example of this is a pdf that will go through optical character recognition and made available as a searchable data set in the future.
-
-Sample filesets and descriptions are provided below:
-
-* usv: a fileset containing raw and processed Unmanned Surface Vehicle (USV)mission data 
-* uuv-data: a fileset containing raw and post-processed unmanned underwater vehicle (UUV) mission data
 
 **Prize Award Details**
 

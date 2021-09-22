@@ -4,7 +4,7 @@ challenge-title: Cable Conductor Manufacturing Prize
 layout: front-matter-data-markdownify-content
 permalink: /challenge/cable-conductor-manufacturing-prize/
 challenge-id: "1242"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/amc-advmfg-cableprizeheroxgraphic-withtext-fy21-jfrenzl.jpg
 agency-logo: /assets/netlify-uploads/256px-Seal_of_the_United_States_Department_of_Energy.png
@@ -14,8 +14,8 @@ agency: U.S. Department of Energy
 total-prize-offered-cash: $4,500,000
 type-of-challenge:
   - Technology demonstration and hardware
-submission-start: 2021/03/2021 9:00 AM
-submission-end: 2021/08/03 5:00 PM
+submission-start: 03/17/2021 9:00 AM
+submission-end: 08/03/2021 5:00 PM
 fiscal-year: FY21
 legal-authority: Agency specific prize authority
 challenge-manager: Libby Arnold

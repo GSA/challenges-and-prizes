@@ -4,7 +4,7 @@ challenge-title: "US Navy Challenge: Rapid Design Tool for Advanced Manufacturin
 layout: front-matter-data-markdownify-content
 permalink: /challenge/rapid-design-tool-for-advanced-manufacturing/
 challenge-id: "1234"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/logo_resized.jpg
 agency-logo: /assets/netlify-uploads/sealnavy.png
@@ -22,8 +22,8 @@ type-of-challenge:
   - Creative (multimedia & design)
   - Ideas
   - Analytics, visualizations, algorithms
-submission-start: 2021/05/13 06:00 AM
-submission-end: 2021/07/13 11:59 PM
+submission-start: 05/13/2021 06:00 AM
+submission-end: 07/27/2021 11:59 PM
 fiscal-year: FY21
 legal-authority: America COMPETES Act
 challenge-manager: Jeffrey Champlin
