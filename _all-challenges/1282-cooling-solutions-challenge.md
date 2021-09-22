@@ -68,12 +68,11 @@ prizes: >-
   This Challenge is in two stages.  
 
 
-  * Stage 1 - Up to fifteen (15) Finalists will receive $5,000 each and proceed to the Stage 2 of the Challenge.  Finalists are selected based on fulfilling submission guidelines and Stage 1 judging criteria. 
+  * Stage 1 - Up to fifteen (15) Finalists will receive $5,000 each and proceed to the Stage 2 of the Challenge.  Finalists are selected based on fulfilling submission guidelines and Stage 1 judging criteria.
 
-  * Stage 2 - Prize Winners are selected based on fulfilling submission requirements, Stage 2 judging criteria, and use case applicability. 
+  * Stage 2 - Prize Winners are selected based on fulfilling submission requirements, Stage 2 judging criteria, and use case applicability.
 
-  * Stage 2 Prize Winners: 
-
+  * Stage 2 Prize Winners:
     * One (1) Grand Prize Winner: $50,000
     * One (1) Runner-up Winner: $20,000
     * Up to Four (4) Use Case Winners: $10,000
@@ -295,9 +294,9 @@ Total cash prize pool: $195,000
 
 This Challenge is in two stages.  
 
-* Stage 1 - Up to fifteen (15) Finalists will receive $5,000 each and proceed to the Stage 2 of the Challenge.  Finalists are selected based on fulfilling submission guidelines and Stage 1 judging criteria. 
-* Stage 2 - Prize Winners are selected based on fulfilling submission requirements, Stage 2 judging criteria, and use case applicability. 
-* Stage 2 Prize Winners: 
+* Stage 1 - Up to fifteen (15) Finalists will receive $5,000 each and proceed to the Stage 2 of the Challenge.  Finalists are selected based on fulfilling submission guidelines and Stage 1 judging criteria.
+* Stage 2 - Prize Winners are selected based on fulfilling submission requirements, Stage 2 judging criteria, and use case applicability.
+* Stage 2 Prize Winners:
 
   * One (1) Grand Prize Winner: $50,000
   * One (1) Runner-up Winner: $20,000
@@ -314,7 +313,7 @@ Additionally, Prize Winners also may be considered for future opportunities incl
 * Assistance with advancement/finalization of proposed solution
 * Invitations to DHS conferences and/or lectures and opportunities to speak with broader security audiences
 
-# RULES, TERMS, AND CONDITIONS
+# Rules
 
 **Eligibility Requirements:** This Challenge is open to all individuals (non-felons) over the age of 18, U.S. Citizens or legal permanent residents at the time of submission, and to all legal U.S. entities whose primary place of business is in the U.S. eligibility is subject to verification by DHS before cash prizes are awarded.
 
@@ -404,7 +403,7 @@ Stage 2 will be judged on the following criteria:
 
 A judging panel will consist of DHS, and other Federal partner representatives.  The judging panel could include State and local, and non-governmental emergency response partners related to preparedness or response mission areas. 
 
-# HOW TO ENTER
+# How to Enter
 
 To be eligible to win a prize award under this Challenge, Contestants must enter a submission for the Challenge.  The submissions must be emailed to DHS Prize Competitions team at [prizeauthority@hq.dhs.gov](mailto:prizeauthority@hq.dhs.gov) and must include a:
 
