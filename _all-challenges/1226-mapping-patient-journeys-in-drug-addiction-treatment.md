@@ -4,7 +4,7 @@ challenge-title: Mapping Patient Journeys in Drug Addiction Treatment
 layout: front-matter-data-markdownify-content
 permalink: /challenge/mapping-patient-journeys-in-drug-addiction-treatment/
 challenge-id: "1226"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/nih_tile-image_341x160.png
 agency-logo: /assets/netlify-uploads/NIH_Master_Logo_Vertical_2Color.jpg
@@ -17,8 +17,8 @@ type-of-challenge:
   - Creative (multimedia & design)
   - Analytics, visualizations, algorithms
   - Ideas
-submission-start: 2021/04/22 12:00 AM
-submission-end: 2021/09/22 11:59 PM
+submission-start: 04/22/2021 12:00 AM
+submission-end: 09/22/2021 11:59 PM
 fiscal-year: FY21, FY22
 legal-authority: America COMPETES Act
 challenge-manager: Sara Lioi
