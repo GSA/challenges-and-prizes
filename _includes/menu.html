@@ -2,21 +2,31 @@
 To modify the menu system, you are welcome to edit this HTML directly or you can look inside _config.yml 
 where we provide an easy way to manage your navigation system
 {% endcomment %}
-<header class="usa-header grid-container padding-y-2" role="banner">
-  <div class="grid-row">
-    <div class="usa-navbar tablet:grid-col-fill">
+<header class="usa-header usa-header--basic" role="banner">
+  <div class="usa-nav-container">
+    <div class="usa-navbar">
       <div class="usa-logo" id="basic-logo">
         <a href="{{ site.url }}" title="Home" aria-label="Home">
           <img src='{{ site.baseurl }}/assets/images/agency/challenge-logo.png' alt="Challenge Gov Logo" title="Challenge Gov" class="height-5 header__challenge-logo">
         </a>
       </div>
+      <button class="usa-menu-btn">Menu</button>
     </div>
-    <nav class="usa-header__actions tablet:grid-col-auto clearfix">
-      <a class="tablet:margin-right-2" href="{{ site.baseurl }}/#/" title="Active challenges" aria-label="Active challenges">Active challenges</a>
-      <a class="tablet:margin-right-2" href="{{ site.baseurl }}/#/challenges/archived" title="Archived challenges" aria-label="Archived challenges">Archived challenges</a>
-      <a class="tablet:margin-right-2" href="{{ site.baseurl }}/contact" title="Contact us" aria-label="Contact us">Contact us</a>
+    <nav class="usa-nav usa-header__actions">
+      <button class="usa-nav__close">X</button>
+      <ul class="usa-nav__primary usa-accordion">
+        <li class="usa-nav__primary-item">
+          <a class="usa-nav__link" href="{{ site.baseurl }}/#/" title="Active challenges" aria-label="Active challenges">Active challenges</a>
+        </li>
+        <li class="usa-nav__primary-item">
+          <a class="usa-nav__link" href="{{ site.baseurl }}/#/challenges/archived" title="Archived challenges" aria-label="Archived challenges">Archived challenges</a>
+        </li>
+        <li class="usa-nav__primary-item">
+          <a class="usa-nav__link" href="{{ site.baseurl }}/contact" title="Contact us" aria-label="Contact us">Contact us</a>
+        </li>
+      </ul>
       {% include searchgov/form.html affiliate=site.searchgov_affiliate %}
-      <a class="float-right usa-button usa-button--outline tablet:margin-left-2 tablet:float-right" href="https://challenge-portal-staging.app.cloud.gov/sign-in/new">My account</a>
+      <a class="float-right usa-button usa-button--outline tablet:margin-left-2 tablet:float-right font-sans-xs" href="https://challenge-portal-staging.app.cloud.gov/sign-in/new">My account</a>
     </nav>
   </div>
 </header>

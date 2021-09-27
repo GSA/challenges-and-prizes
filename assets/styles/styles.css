@@ -54042,6 +54042,14 @@ h3 a {
     min-height: -webkit-fill-available; }
   .desktop-only-display {
     display: none; } }
+  @media (min-width: 64em) {
+  .usa-header--basic {
+    padding: 1rem 0 1rem 0; }
+    .usa-header--basic .usa-nav-container {
+      padding: 0;
+      align-items: center; }
+  .usa-nav a {
+    width: 8rem; } }
   @media print {
     .usa-radio__input:checked + .usa-radio__label::before {
       box-shadow: inset 0 0 0 2px white, inset 0 0 0 1rem #005ea2, 0 0 0 2px #005ea2; }
@@ -54253,5 +54261,13 @@ h3 a {
   @media (max-width: 1023px) {
   .archive-listing-card-logo {
     display: none; } }
+  @media (max-width: 64em) {
+  .usa-header--basic {
+    padding: 0 0 0 1rem; }
+    .usa-header--basic .usa-nav-container {
+      width: 100%;
+      align-items: center; }
+  .usa-nav a {
+    margin: 1rem 0 0 0; } }
 
 /*# sourceMappingURL=styles.css.map */

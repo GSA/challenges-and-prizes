@@ -13,6 +13,7 @@
     "clean": "rm -rf assets/uswds; rm -rf _sass/uswds; rm -rf _site",
     "federalist": "npm run build:uswds; npm run build:js",
     "start": "bundle exec jekyll serve",
+    "dev": "bundle exec jekyll serve --incremental --port 4001",
     "test": "snyk test && bundle exec htmlproofer _site && npm test-pa11y",
     "test-pa11y": "./node_modules/.bin/pa11y-ci --config .pa11yci --sitemap https://www.challenge.gov/sitemap.xml --sitemap-find https://www.challenge.gov --sitemap-replace localhost:4000"
   },
