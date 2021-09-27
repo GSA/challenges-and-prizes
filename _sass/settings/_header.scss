@@ -21,13 +21,18 @@
     padding: 1rem 0 1rem 0;
 
     .usa-nav-container {
+      min-width: 64em;
       padding: 0;
       align-items: center;
+    }
+
+    .usa-navbar {
+      width: auto;
     }
   }
 
   .usa-nav {
-    a {
+    a.usa-button {
       width: 8rem;
     }
   }

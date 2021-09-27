@@ -26333,7 +26333,7 @@ h3 a {
   display: flex;
   align-items: center;
   min-height: 20rem;
-  background: linear-gradient(131.95deg, #FA9441 0%, #FFBE2E 170.81%);
+  background: #19304C;
   clip-path: ellipse(100% 55% at 48% 44%); }
   .usa-hero__inner {
     background-image: url(images/layout/gsa-phyllotaxis.svg);
@@ -26344,67 +26344,27 @@ h3 a {
     height: 100%;
     width: 100%;
     padding-top: 3rem;
-    padding-bottom: 6rem; }
+    padding-bottom: 4rem; }
   .usa-hero__description {
-    font-size: 2rem; }
+    color: #FFFFFF;
+    font-size: 1rem;
+    font-weight: lighter; }
     .usa-hero__description p {
       padding: 0; }
     .usa-hero__description button {
-      background-color: #005EA2;
+      background-color: #EC9852;
       font-weight: normal;
       font-size: 1.5rem;
-      color: #ffffff; }
+      color: #19304C; }
       .usa-hero__description button:hover {
-        background: #1a4480;
+        background-color: #EC9852;
         box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.3), 0 2px 10px 0 rgba(0, 0, 0, 0.2);
         transform: translateY(-1%);
         transition: 0.15s; }
       .usa-hero__description button:active {
-        background: #162e51;
+        background-color: #EC9852;
         box-shadow: none;
         transform: none; }
-
-.banner-steps {
-  margin: 0 3rem;
-  padding: 3rem 2rem;
-  background: #ffffff;
-  border-radius: 5px; }
-  .banner-steps__header {
-    font-size: 1.5rem;
-    text-align: center; }
-  .banner-steps hr {
-    margin-bottom: 3rem;
-    border-color: #fcfcfc; }
-  .banner-steps__numbers {
-    display: none;
-    align-items: center; }
-  .banner-steps__number {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 80px;
-    width: 80px;
-    margin: auto;
-    border-radius: 50%;
-    color: #005EA2;
-    border: 3px solid #005EA2;
-    font-size: 2rem; }
-  .banner-steps__arrow {
-    width: 36px;
-    height: 28px;
-    background-image: url(images/layout/right_arrow.svg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center; }
-  .banner-steps__descriptions {
-    margin-top: 1rem;
-    font-size: 1rem; }
-    .banner-steps__descriptions :first-child {
-      padding-left: 0; }
-    .banner-steps__descriptions :last-child {
-      padding-right: 0; }
-  .banner-steps__description {
-    text-align: center; }
 
 #challenge-gov-react-app .App {
   max-width: 72rem; }
@@ -54046,10 +54006,15 @@ h3 a {
   .usa-header--basic {
     padding: 1rem 0 1rem 0; }
     .usa-header--basic .usa-nav-container {
+      min-width: 64em;
       padding: 0;
       align-items: center; }
-  .usa-nav a {
-    width: 8rem; } }
+    .usa-header--basic .usa-navbar {
+      width: auto; }
+  .usa-nav a.usa-button {
+    width: 8rem; }
+  .usa-hero__inner {
+    min-width: 64em; } }
   @media print {
     .usa-radio__input:checked + .usa-radio__label::before {
       box-shadow: inset 0 0 0 2px white, inset 0 0 0 1rem #005ea2, 0 0 0 2px #005ea2; }
@@ -54268,6 +54233,20 @@ h3 a {
       width: 100%;
       align-items: center; }
   .usa-nav a {
-    margin: 1rem 0 0 0; } }
+    margin: 1rem 0 0 0; }
+  .usa-hero {
+    background-image: none;
+    padding-top: 0;
+    padding-bottom: 0;
+    display: flex;
+    align-items: center;
+    min-height: 20rem;
+    background: #19304C;
+    clip-path: ellipse(100% 55% at 48% 44%); }
+    .usa-hero__inner {
+      background-image: url(images/layout/gsa-phyllotaxis-orange-corner.svg);
+      background-repeat: no-repeat;
+      background-size: auto auto;
+      background-position: top right; } }
 
 /*# sourceMappingURL=styles.css.map */
