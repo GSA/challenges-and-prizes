@@ -26335,11 +26335,6 @@ h3 a {
   min-height: 20rem;
   background: #19304C;
   clip-path: ellipse(100% 55% at 48% 44%); }
-  .usa-hero__inner {
-    background-image: url(images/layout/gsa-phyllotaxis.svg);
-    background-repeat: no-repeat;
-    background-size: auto 115%;
-    background-position: 95% 10%; }
   .usa-hero .grid-container {
     height: 100%;
     width: 100%;
@@ -54031,7 +54026,20 @@ h3 a {
   .usa-nav a.usa-button {
     width: 8rem; }
   .usa-hero__inner {
-    min-width: 64em; } }
+    position: relative;
+    overflow: hidden;
+    min-width: 64em; }
+    .usa-hero__inner:before {
+      content: "";
+      position: absolute;
+      top: -40%;
+      right: 0;
+      height: 150%;
+      width: 100%;
+      background-image: url(images/layout/gsa-phyllotaxis-orange.svg);
+      background-repeat: no-repeat;
+      background-size: 50%;
+      background-position: 100% 0%; } }
   @media print {
     .usa-radio__input:checked + .usa-radio__label::before {
       box-shadow: inset 0 0 0 2px white, inset 0 0 0 1rem #005ea2, 0 0 0 2px #005ea2; }

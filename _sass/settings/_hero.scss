@@ -8,13 +8,6 @@
   background: #19304C;
   clip-path: ellipse(100% 55% at 48% 44%);
 
-  &__inner {
-    background-image: url(images/layout/gsa-phyllotaxis.svg);
-    background-repeat: no-repeat;
-    background-size: auto 115%;
-    background-position: 95% 10%;
-  }
-
   .grid-container {
     height: 100%;
     width: 100%;
@@ -55,7 +48,22 @@
 @media (min-width: 64em) {
   .usa-hero {
     &__inner {
+      position: relative;
+      overflow: hidden;
       min-width: 64em;
+
+      &:before {
+        content: "";
+        position: absolute;
+        top: -40%;
+        right: 0;
+        height: 150%;
+        width: 100%;
+        background-image: url(images/layout/gsa-phyllotaxis-orange.svg);
+        background-repeat: no-repeat;
+        background-size: 50%;
+        background-position: 100% 0%;
+      } 
     }
   }
 }
