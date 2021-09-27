@@ -7,38 +7,44 @@
     </div>
 
     <div class="grid-row help-section__content">
-      <div class="tablet:grid-col display-flex flex-column flex-align-center help-section__agency-toolkit">
+      <div class="tablet:grid-col display-flex flex-align-center help-section__block help-section__agency-toolkit">
         <span class="margin-bottom-5">&nbsp;</span>
         <div class="help-section__icon-container">
           <img src="{{ site.baseurl }}/assets/images/icons/tool_icon.svg"/>
         </div>
-        <p>Our innovator toolkit is full of helpful information.</p>
-        <a class="usa-button usa-button--big" href="{{ site.baseurl }}/toolkit">View innovator toolkit</a>
+        <div class="help-section__button-container">
+          <p>Our innovator toolkit is full of helpful information.</p>
+          <a class="usa-button usa-button--big" href="{{ site.baseurl }}/toolkit">View innovator toolkit</a>
+        </div>
       </div>
 
-      <div class="tablet:grid-col display-flex flex-column flex-align-center help-section__newsletter">
+      <div class="tablet:grid-col display-flex flex-align-center help-section__block help-section__newsletter">
         <span class="margin-bottom-5 text-bold">Subscribe to our newsletter</span>
         <div class="help-section__icon-container">
           <img src="{{ site.baseurl }}/assets/images/icons/mail_icon.svg"/>
         </div>
-        <p>Sign up to receive information about prize competitions.</p>
-        <a class="usa-button usa-button--big" href="https://stage-public.govdelivery.com/accounts/USGSATTS/signup/12360">Subscribe</a>
-        {% if site.branch == "master" %}
+        <div class="help-section__button-container">
+          <p>Sign up to receive information about prize competitions.</p>
           <a class="usa-button usa-button--big" href="https://stage-public.govdelivery.com/accounts/USGSATTS/signup/12360">Subscribe</a>
-        {% elsif site.branch == "staging" %}
-          <a class="usa-button usa-button--big" href="https://stage-public.govdelivery.com/accounts/USGSATTS/signup/12360">Subscribe</a>
-        {% elsif site.branch == "" %}
-          <a class="usa-button usa-button--big" href="https://stage-public.govdelivery.com/accounts/USGSATTS/signup/12360">Subscribe</a>
-        {% endif %}
+          {% if site.branch == "master" %}
+            <a class="usa-button usa-button--big" href="https://stage-public.govdelivery.com/accounts/USGSATTS/signup/12360">Subscribe</a>
+          {% elsif site.branch == "staging" %}
+            <a class="usa-button usa-button--big" href="https://stage-public.govdelivery.com/accounts/USGSATTS/signup/12360">Subscribe</a>
+          {% elsif site.branch == "" %}
+            <a class="usa-button usa-button--big" href="https://stage-public.govdelivery.com/accounts/USGSATTS/signup/12360">Subscribe</a>
+          {% endif %}
+        </div>
       </div>
 
-      <div class="tablet:grid-col display-flex flex-column flex-align-center help-section__create-account">
+      <div class="tablet:grid-col display-flex flex-align-center help-section__block help-section__create-account">
         <span class="margin-bottom-5">&nbsp;</span>
         <div class="help-section__icon-container">
           <img src="{{ site.baseurl }}/assets/images/icons/account_icon.svg"/>
         </div>
-        <p>Ready to engage with a prize competition or challenge?<br/>Create an account to get started</p>
-        <a class="usa-button usa-button--big" href="https://challenge-portal-staging.app.cloud.gov/sign-in/new">Create account</a>
+        <div class="help-section__button-container">
+          <p>Ready to engage with a prize competition or challenge?<br/>Create an account to get started</p>
+          <a class="usa-button usa-button--big" href="https://challenge-portal-staging.app.cloud.gov/sign-in/new">Create account</a>
+        </div>
       </div>
     </div>
   </div>

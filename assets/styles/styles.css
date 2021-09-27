@@ -26394,6 +26394,9 @@ h3 a {
   padding: 2rem;
   text-align: center; }
 
+.help-section__block {
+  flex-direction: column; }
+
 .help-section__icon-container {
   display: flex;
   justify-items: center;
@@ -26402,6 +26405,12 @@ h3 a {
   .help-section__icon-container img {
     color: #2C608A;
     font-size: 6rem; }
+
+.help-section__button-container {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center; }
 
 .help-section__newsletter span {
   font-weight: bold; }
@@ -54249,6 +54258,43 @@ h3 a {
       background-repeat: no-repeat;
       background-size: auto auto;
       background-position: top right; }
+  .section-divider {
+    height: 4rem !important; }
+  .help-section {
+    margin-bottom: 0; }
+    .help-section .grid-container {
+      display: flex;
+      flex-direction: column;
+      justify-content: center; }
+    .help-section__header {
+      font-size: 2rem;
+      font-weight: bold;
+      color: #19304C; }
+    .help-section__content p {
+      height: unset;
+      padding: 0;
+      text-align: left; }
+    .help-section__block {
+      flex-direction: row;
+      padding-bottom: 1em; }
+      .help-section__block span {
+        display: none; }
+    .help-section__icon-container {
+      flex: 1;
+      align-items: flex-start;
+      justify-content: center;
+      padding-right: 1em; }
+    .help-section__button-container {
+      align-items: flex-start;
+      flex: 3; }
+    .help-section .usa-button {
+      width: unset;
+      font-size: 1rem;
+      background-color: #EC9852;
+      color: #19304C;
+      font-weight: bold; }
+    .help-section__newsletter span {
+      display: none; }
   .usa-footer:before {
     clip-path: ellipse(120% 55% at 50% -35%); } }
 
