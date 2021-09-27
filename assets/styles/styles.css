@@ -26407,9 +26407,17 @@ h3 a {
   font-weight: bold; }
 
 .usa-footer {
-  background-image: url(images/layout/curved_blue_footer.svg);
-  background-repeat: no-repeat;
-  background-size: cover; }
+  position: relative;
+  background: #19304C; }
+  .usa-footer:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    min-height: 20rem;
+    background: #FAFAFA;
+    clip-path: ellipse(100% 55% at 50% -35%); }
   .usa-footer a {
     color: #ffffff;
     margin-bottom: 1rem; }
@@ -54235,18 +54243,13 @@ h3 a {
   .usa-nav a {
     margin: 1rem 0 0 0; }
   .usa-hero {
-    background-image: none;
-    padding-top: 0;
-    padding-bottom: 0;
-    display: flex;
-    align-items: center;
-    min-height: 20rem;
-    background: #19304C;
-    clip-path: ellipse(100% 55% at 48% 44%); }
+    clip-path: ellipse(120% 55% at 48% 44%); }
     .usa-hero__inner {
       background-image: url(images/layout/gsa-phyllotaxis-orange-corner.svg);
       background-repeat: no-repeat;
       background-size: auto auto;
-      background-position: top right; } }
+      background-position: top right; }
+  .usa-footer:before {
+    clip-path: ellipse(120% 55% at 50% -35%); } }
 
 /*# sourceMappingURL=styles.css.map */

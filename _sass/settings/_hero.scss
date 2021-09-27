@@ -62,14 +62,7 @@
 
 @media (max-width: 64em) {
   .usa-hero {
-    background-image: none;
-    padding-top: 0;
-    padding-bottom: 0;
-    display: flex;
-    align-items: center;
-    min-height: 20rem;
-    background: #19304C;
-    clip-path: ellipse(100% 55% at 48% 44%);
+    clip-path: ellipse(120% 55% at 48% 44%);
 
     &__inner {
       background-image: url(images/layout/gsa-phyllotaxis-orange-corner.svg);
