@@ -4,7 +4,7 @@ challenge-title: Mobile Standoff Autonomous Indoor Capabilities (MoSAIC) Challen
 layout: front-matter-data-markdownify-content
 permalink: /challenge/mosaic-challenge/
 challenge-id: "1250"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/341x160-01-1-.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
@@ -18,8 +18,8 @@ type-of-challenge:
   - Technology demonstration and hardware
   - Analytics, visualizations, algorithms
   - Scientific
-submission-start: 2021/06/24 12:00 AM ET
-submission-end: 2021/09/23 04:59 PM ET
+submission-start: 06/24/2021 12:00 AM ET
+submission-end: 09/23/2021 04:59 PM ET
 fiscal-year: FY21
 legal-authority: Agency specific prize authority
 challenge-manager: Shana Yakobi

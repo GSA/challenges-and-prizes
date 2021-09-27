@@ -5,7 +5,7 @@ challenge-title: Estrategias innovadoras de participación comunitaria para
 layout: front-matter-data-markdownify-content
 permalink: /challenge/espanol-reduce-HIV-related-stigma
 challenge-id: "1263"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/hiv-challenge_infocards_website-preview-esp.png
 agency-logo: /assets/netlify-uploads/hhs.png
@@ -21,8 +21,8 @@ type-of-challenge:
   - Creative (multimedia & design)
   - Ideas
   - Technology demonstration and hardware
-submission-start: 2021/07/26 8:00 AM
-submission-end: 2021/09/23 11:59 PM
+submission-start: 07/26/2021 8:00 AM
+submission-end: 09/23/2021 11:59 PM
 fiscal-year: FY21
 legal-authority: America COMPETES Act
 challenge-manager: Joya Chowdhury
