@@ -6,7 +6,7 @@ permalink: /challenge/va-suicide-prevention-grand-challenge/
 challenge-id: "1284"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/veteranscrisislinelogo.png
+card-image: /assets/netlify-uploads/va-resized.png
 agency-logo: /assets/netlify-uploads/valogo.jpg
 tagline: To reduce Veteran suicide by 10%
 agency: U.S. Department of Veterans Affairs (VA)
@@ -35,7 +35,7 @@ description: >-
   identifying innovation solutions as well as being direct service providers,
   the VA Suicide Prevention Grand Challenge (VA SPGC) serves as a pipeline to
   rapidly source suicide prevention innovations from non-VA entities ([Report
-  links substance use and suicide among Veterans, offers support | Vantage
+  links substance use and suicide among Veterans, offers support - Vantage
   Point](https://blogs.va.gov/VAntage/94100/report-links-substance-use-suicide-veterans-offers-support/)).
 
 
@@ -49,7 +49,7 @@ description: >-
 
   * **Improved Access to Veterans Crisis Line (VCL) Services**— As VCL faces the opportunities that [988 adoption](https://docs.fcc.gov/public/attachments/DOC-365165A1.pdf) will bring to our mission of providing world class crisis care to Veterans, we are looking for innovative solutions that can improve efficiency and quality during expected increase in volume. Innovators are sought who can leverage artificial intelligence, machine learning and natural language processing to better understand patterns, unknown signals, and unexpected relationships. This objective will also incorporate process flow innovations that use technology and non-technology solutions for crisis line staffing and operational improvements.
 
-  * **Firearm suicide prevention and lethal means safety**— In 2019 the majority of firearm deaths in the United States ([Firearm Violence Prevention |Violence Prevention|Injury Center|CDC](https://www.cdc.gov/violenceprevention/firearms/fastfact.html) ) were suicides and among Veterans, nearly 70% of suicide deaths in 2019 were by firearm ([2021 National Veteran Suicide Prevention Annual Report (va.gov)](https://www.mentalhealth.va.gov/docs/data-sheets/2021/2021-National-Veteran-Suicide-Prevention-Annual-Report-FINAL-9-8-21.pdf)). We will seek innovative solutions to prevent firearm suicide. 
+  * **Firearm suicide prevention and lethal means safety**— In 2019 the majority of firearm deaths in the United States ([Firearm Violence Prevention |Violence Prevention - Injury Center - CDC](https://www.cdc.gov/violenceprevention/firearms/fastfact.html) ) were suicides and among Veterans, nearly 70% of suicide deaths in 2019 were by firearm ([2021 National Veteran Suicide Prevention Annual Report (va.gov)](https://www.mentalhealth.va.gov/docs/data-sheets/2021/2021-National-Veteran-Suicide-Prevention-Annual-Report-FINAL-9-8-21.pdf)). We will seek innovative solutions to prevent firearm suicide. 
 
 
   **Solution Framework**
