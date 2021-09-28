@@ -1,6 +1,6 @@
 ---
 title: 2022 FAA Challenge Smart Connected Aviation Student Competition
-challenge-title: 2022 FAA Challenge Smart Connected Aviation Student Competition
+challenge-title: "2022 FAA Challenge: Smart Connected Aviation Student Competition"
 layout: front-matter-data-markdownify-content
 permalink: /challenge/2022-faa-challenge-smart-connection-aviation-student-competition/
 challenge-id: "1283"
@@ -23,7 +23,7 @@ type-of-challenge:
   - Business plans
   - Analytics, visualizations, algorithms
 submission-start: 2021/09/30 12:00 AM
-submission-end: 2022/01/30 11:59 PM
+submission-end: 2022/01/20 11:59 PM
 fiscal-year: FY22
 legal-authority: Procurement Authority
 challenge-manager: Shannon Verstynen
@@ -174,6 +174,8 @@ how-to-enter: >-
   7. A synopsis of the concept, limited to 500 words, providing a high-level overview of the proposed project and impact of the related research
 
 
+
+
   **STEP II: Project Plan Proposals: Due on or before 11:59 PM ET on January 20, 2022**
 
 
@@ -181,10 +183,11 @@ how-to-enter: >-
 
 
   1. Cover Page
-     a.  Title of Work
-     b.  United States based lead university name (and any industry or academic partners)
-     c.  Primary Faculty Advisor name (from lead university) and any additional faculty or industry advisors
-     d.  List of Team Members with Academic Level (graduate or undergraduate)
+
+     * Title of Work
+     * United States based lead university name (and any industry or academic partners)
+     * Primary Faculty Advisor name (from lead university) and any additional faculty or industry advisors
+     * List of Team Members with Academic Level (graduate or undergraduate)
   2. Table of Contents with the following sections tabulated
 
   3. Summary Statement – Not to exceed one (1) page
@@ -193,19 +196,21 @@ how-to-enter: >-
 
   5. Project Description – The project should consider the cutting-edge needs of the future info-centric NAS (including connected aircraft) that will benefit NAS users focusing on one (1) of the following four (4) categories: Commercial Air Transportation, General Aviation, Emerging Operations, and Traveling Public. The project should demonstrate a clear understanding of the issues surrounding the challenge as well as the current conditions and state-of-the-art approaches to seeking solutions.
 
-     a. Section I, include the following (Not to exceed five (5) pages)
-       i.  Concept
-       ii.  Problem Solving Approach
-       iii.  Risk Assessment
-       iv.  Impact Statement
+     * Section I, include the following (Not to exceed five (5) pages) 
 
-     b. Section II, include the following
-       i.  Demonstration Materials – Not to exceed 15 pages
-       ii.  Appendices – Not to exceed five (5) pages
-       iii.  Optional – Video/images/animations
+       * Concept
+       * Problem Solving Approach
+       * Risk Assessment
+       * Impact Statement
+     * Section II, include the following
+
+       * Demonstration Materials – Not to exceed 15 pages
+       * Appendices – Not to exceed five (5) pages
+       * Optional – Video/images/animations
   6. Letter(s)
-     a.  University Support Letter
-     b.  Additional Supporting Letters
+
+     * University Support Letter
+     * Additional Supporting Letters
 
   Submissions must be transmitted electronically by 11:59 PM ET January 20, 2022 via the submission form found on the FAA Challenge website <https://faachallenge.nianet.org/>. Late submissions will result in disqualification. Any other form of submission may be rejected.
 
@@ -323,28 +328,26 @@ Academic institutions are strongly encouraged to submit an Expression of Interes
 Submission packages must consist of the following elements submitted in the following order:
 
 1. Cover Page
-   a.  Title of Work
-   b.  United States based lead university name (and any industry or academic partners)
-   c.  Primary Faculty Advisor name (from lead university) and any additional faculty or industry advisors
-   d.  List of Team Members with Academic Level (graduate or undergraduate)
+    * Title of Work
+    * United States based lead university name (and any industry or academic partners)
+    * Primary Faculty Advisor name (from lead university) and any additional faculty or industry advisors
+    * List of Team Members with Academic Level (graduate or undergraduate)
 2. Table of Contents with the following sections tabulated
 3. Summary Statement – Not to exceed one (1) page
 4. Problem Statement and Background – Not to exceed two (2) pages
 5. Project Description – The project should consider the cutting-edge needs of the future info-centric NAS (including connected aircraft) that will benefit NAS users focusing on one (1) of the following four (4) categories: Commercial Air Transportation, General Aviation, Emerging Operations, and Traveling Public. The project should demonstrate a clear understanding of the issues surrounding the challenge as well as the current conditions and state-of-the-art approaches to seeking solutions.
-
-   a. Section I, include the following (Not to exceed five (5) pages)
-     i.  Concept
-     ii.  Problem Solving Approach
-     iii.  Risk Assessment
-     iv.  Impact Statement
-
-   b. Section II, include the following
-     i.  Demonstration Materials – Not to exceed 15 pages
-     ii.  Appendices – Not to exceed five (5) pages
-     iii.  Optional – Video/images/animations
+    * Section I, include the following (Not to exceed five (5) pages) 
+        * Concept
+        * Problem Solving Approach
+        * Risk Assessment
+        * Impact Statement
+    * Section II, include the following
+        * Demonstration Materials – Not to exceed 15 pages
+        * Appendices – Not to exceed five (5) pages
+        * Optional – Video/images/animations
 6. Letter(s)
-   a.  University Support Letter
-   b.  Additional Supporting Letters
+   * University Support Letter
+   * Additional Supporting Letters
 
 Submissions must be transmitted electronically by 11:59 PM ET January 20, 2022 via the submission form found on the FAA Challenge website <https://faachallenge.nianet.org/>. Late submissions will result in disqualification. Any other form of submission may be rejected.
 
