@@ -28,15 +28,9 @@ challenge-manager: "Aimee Johnson "
 challenge-manager-email: Aimee.Johnson@va.gov
 point-of-contact: Kit.Teague@va.gov
 description: >-
-  **We are seeking bold innovations to save lives and reduce Veteran suicide by
-  at least 10%.** Recognizing that there are other entities, including but not
-  limited to academia, industry, nonprofits, other government agencies,
-  community partners, and Veteran-service organizations, engaged in both
-  identifying innovation solutions as well as being direct service providers,
-  the VA Suicide Prevention Grand Challenge (VA SPGC) serves as a pipeline to
-  rapidly source suicide prevention innovations from non-VA entities ([Report
-  links substance use and suicide among Veterans, offers support - Vantage
-  Point](https://blogs.va.gov/VAntage/94100/report-links-substance-use-suicide-veterans-offers-support/)).
+  
+
+  **We are seeking bold innovations to save lives and reduce Veteran suicide by at least 10%.** Recognizing that there are other entities, including but not limited to academia, industry, nonprofits, other government agencies, community partners, and Veteran-service organizations, engaged in both identifying innovation solutions as well as being direct service providers, the VA Suicide Prevention Grand Challenge (VA SPGC) serves as a pipeline to rapidly source suicide prevention innovations from non-VA entities ([Report links substance use and suicide among Veterans, offers support, Vantage Point](https://blogs.va.gov/VAntage/94100/report-links-substance-use-suicide-veterans-offers-support/).)
 
 
   **Challenge Objective**
@@ -49,7 +43,7 @@ description: >-
 
   * **Improved Access to Veterans Crisis Line (VCL) Services**— As VCL faces the opportunities that [988 adoption](https://docs.fcc.gov/public/attachments/DOC-365165A1.pdf) will bring to our mission of providing world class crisis care to Veterans, we are looking for innovative solutions that can improve efficiency and quality during expected increase in volume. Innovators are sought who can leverage artificial intelligence, machine learning and natural language processing to better understand patterns, unknown signals, and unexpected relationships. This objective will also incorporate process flow innovations that use technology and non-technology solutions for crisis line staffing and operational improvements.
 
-  * **Firearm suicide prevention and lethal means safety**— In 2019 the majority of firearm deaths in the United States ([Firearm Violence Prevention |Violence Prevention - Injury Center - CDC](https://www.cdc.gov/violenceprevention/firearms/fastfact.html) ) were suicides and among Veterans, nearly 70% of suicide deaths in 2019 were by firearm ([2021 National Veteran Suicide Prevention Annual Report (va.gov)](https://www.mentalhealth.va.gov/docs/data-sheets/2021/2021-National-Veteran-Suicide-Prevention-Annual-Report-FINAL-9-8-21.pdf)). We will seek innovative solutions to prevent firearm suicide. 
+  * **Firearm suicide prevention and lethal means safety**— In 2019 the majority of firearm deaths in the United States ([Firearm Violence Prevention, Violence Prevention Injury Center, CDC](https://www.cdc.gov/violenceprevention/firearms/fastfact.html)) were suicides and among Veterans, nearly 70% of suicide deaths in 2019 were by firearm ([2021 National Veteran Suicide Prevention Annual Report (va.gov)](https://www.mentalhealth.va.gov/docs/data-sheets/2021/2021-National-Veteran-Suicide-Prevention-Annual-Report-FINAL-9-8-21.pdf)). We will seek innovative solutions to prevent firearm suicide. 
 
 
   **Solution Framework**
@@ -345,7 +339,7 @@ how-to-enter: >-
 ---
 # Description
 
-**We are seeking bold innovations to save lives and reduce Veteran suicide by at least 10%.** Recognizing that there are other entities, including but not limited to academia, industry, nonprofits, other government agencies, community partners, and Veteran-service organizations, engaged in both identifying innovation solutions as well as being direct service providers, the VA Suicide Prevention Grand Challenge (VA SPGC) serves as a pipeline to rapidly source suicide prevention innovations from non-VA entities ([Report links substance use and suicide among Veterans, offers support | Vantage Point](https://blogs.va.gov/VAntage/94100/report-links-substance-use-suicide-veterans-offers-support/)).
+**We are seeking bold innovations to save lives and reduce Veteran suicide by at least 10%.** Recognizing that there are other entities, including but not limited to academia, industry, nonprofits, other government agencies, community partners, and Veteran-service organizations, engaged in both identifying innovation solutions as well as being direct service providers, the VA Suicide Prevention Grand Challenge (VA SPGC) serves as a pipeline to rapidly source suicide prevention innovations from non-VA entities ([Report links substance use and suicide among Veterans, offers support, Vantage Point](https://blogs.va.gov/VAntage/94100/report-links-substance-use-suicide-veterans-offers-support/).)
 
 **Challenge Objective**
 
@@ -353,7 +347,7 @@ The following are potential areas, among several, that VA SPGC may explore:
 
 * **Digital Life Data & Early Warning Systems**—Innovators are sought who can develop scalable and interoperable suicide risk prevention analytics that are ethical and clinically valid in an effort to enhance real-time prevention and responsive interventions that are local and accessible for Veterans in VHA care as well as Veterans outside of VHA care and in crisis.
 * **Improved Access to Veterans Crisis Line (VCL) Services**— As VCL faces the opportunities that [988 adoption](https://docs.fcc.gov/public/attachments/DOC-365165A1.pdf) will bring to our mission of providing world class crisis care to Veterans, we are looking for innovative solutions that can improve efficiency and quality during expected increase in volume. Innovators are sought who can leverage artificial intelligence, machine learning and natural language processing to better understand patterns, unknown signals, and unexpected relationships. This objective will also incorporate process flow innovations that use technology and non-technology solutions for crisis line staffing and operational improvements.
-* **Firearm suicide prevention and lethal means safety**— In 2019 the majority of firearm deaths in the United States ([Firearm Violence Prevention |Violence Prevention|Injury Center|CDC](https://www.cdc.gov/violenceprevention/firearms/fastfact.html) ) were suicides and among Veterans, nearly 70% of suicide deaths in 2019 were by firearm ([2021 National Veteran Suicide Prevention Annual Report (va.gov)](https://www.mentalhealth.va.gov/docs/data-sheets/2021/2021-National-Veteran-Suicide-Prevention-Annual-Report-FINAL-9-8-21.pdf)). We will seek innovative solutions to prevent firearm suicide. 
+* **Firearm suicide prevention and lethal means safety**— In 2019 the majority of firearm deaths in the United States ([Firearm Violence Prevention, Violence Prevention Injury Center, CDC](https://www.cdc.gov/violenceprevention/firearms/fastfact.html)) were suicides and among Veterans, nearly 70% of suicide deaths in 2019 were by firearm ([2021 National Veteran Suicide Prevention Annual Report (va.gov)](https://www.mentalhealth.va.gov/docs/data-sheets/2021/2021-National-Veteran-Suicide-Prevention-Annual-Report-FINAL-9-8-21.pdf)). We will seek innovative solutions to prevent firearm suicide. 
 
 **Solution Framework**
 
