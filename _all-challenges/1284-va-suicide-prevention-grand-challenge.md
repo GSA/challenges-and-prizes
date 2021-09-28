@@ -7,7 +7,7 @@ challenge-id: "1284"
 status: open
 sidenav: true
 card-image: /assets/netlify-uploads/va-resized.png
-agency-logo: /assets/netlify-uploads/valogo.jpg
+agency-logo: /assets/netlify-uploads/valogo.png
 tagline: To reduce Veteran suicide by 10%
 agency: U.S. Department of Veterans Affairs (VA)
 partner-agencies-federal: General Services Administration (GSA)
