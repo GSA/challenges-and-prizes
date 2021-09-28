@@ -6,7 +6,7 @@ permalink: /challenge/2022-faa-challenge-smart-connection-aviation-student-compe
 challenge-id: "1283"
 status: open
 sidenav: true
-card-image: /assets/netlify-uploads/faa_picture_logo_faaseal.png
+card-image: /assets/netlify-uploads/faa-resized-logo.png
 agency-logo: /assets/netlify-uploads/faa_picture_logo_faaseal.png
 tagline: This year’s FAA Challenge focuses on Smart Connected Aviation,
   providing undergraduate and graduate students the opportunity to design,
@@ -15,7 +15,7 @@ tagline: This year’s FAA Challenge focuses on Smart Connected Aviation,
   ecosystem.
 agency: Federal Aviation Administration (FAA)
 partners-non-federal: National Institute of Aerospace
-total-prize-offered-cash: $25,000
+total-prize-offered-cash: $55,000
 type-of-challenge:
   - Software and apps
   - Ideas
