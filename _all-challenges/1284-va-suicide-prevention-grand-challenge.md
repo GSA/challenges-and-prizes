@@ -63,10 +63,10 @@ Launch January 31, 2022 and additional key dates are forthcoming.
 The SPGC will award at least $15 million dollars in prize funds.
 
 Judging
-Details regarding the judging panel, processes, and criteria will be posted and updated at a later date on Challenge.gov and at https://spgchallenge.com .
+Details regarding the judging panel, processes, and criteria will be posted and updated at a later date on Challenge.gov and at <https://spgchallenge.com> .
 
 Rules
-Details regarding the rules, eligibility for participation, and terms and conditions will be posted and updated at a later date on Challenge.gov and at https://spgchallenge.com.
+Details regarding the rules, eligibility for participation, and terms and conditions will be posted and updated at a later date on Challenge.gov and at <https://spgchallenge.com>.
 
 **Prize Breakdown**
 
