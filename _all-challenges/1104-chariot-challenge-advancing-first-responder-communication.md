@@ -193,7 +193,7 @@ Best in Class Winners
 
 Best in Class Winners
 
-![Build Augmented Reality Interfaces for First Responders Best in Class]({{site.baseurl}}/assets/netlify-uploads/chariot-best-in-claass-table-2.jpg "Build Augmented Reality Interfaces for First Responders Best in Class")
+![Build Augmented Reality Interfaces for First Responders Best in Class]({{site.baseurl}}/assets/netlify-uploads/chariot-best-in-claass-table-2-edit.jpg "Build Augmented Reality Interfaces for First Responders Best in Class")
 
 The CHARIoT Challenge is a dual track competition covering an Augmented Reality Contest and an Internet of Things-based Contest.
 
