@@ -20,7 +20,7 @@ type-of-challenge:
   - Business plans
   - Analytics, visualizations, algorithms
   - Scientific
-submission-start: "2022/01/03 8:00 AM "
+submission-start: "2022/01/31 8:00 AM "
 submission-end: 2022/03/31 5:00 PM
 fiscal-year: FY21, FY22
 legal-authority: America COMPETES Act
@@ -28,9 +28,15 @@ challenge-manager: "Aimee Johnson "
 challenge-manager-email: Aimee.Johnson@va.gov
 point-of-contact: Kit.Teague@va.gov
 description: >-
-  
-
-  **We are seeking bold innovations to save lives and reduce Veteran suicide by at least 10%.** Recognizing that there are other entities, including but not limited to academia, industry, nonprofits, other government agencies, community partners, and Veteran-service organizations, engaged in both identifying innovation solutions as well as being direct service providers, the VA Suicide Prevention Grand Challenge (VA SPGC) serves as a pipeline to rapidly source suicide prevention innovations from non-VA entities ([Report links substance use and suicide among Veterans, offers support, Vantage Point](https://blogs.va.gov/VAntage/94100/report-links-substance-use-suicide-veterans-offers-support/).)
+  **We are seeking bold innovations to save lives and reduce Veteran suicide by
+  at least 10%.** Recognizing that there are other entities, including but not
+  limited to academia, industry, nonprofits, other government agencies,
+  community partners, and Veteran-service organizations, engaged in both
+  identifying innovation solutions as well as being direct service providers,
+  the VA Suicide Prevention Grand Challenge (VA SPGC) serves as a pipeline to
+  rapidly source suicide prevention innovations from non-VA entities ([Report
+  links substance use and suicide among Veterans, offers support, Vantage
+  Point](https://blogs.va.gov/VAntage/94100/report-links-substance-use-suicide-veterans-offers-support/).)
 
 
   **Challenge Objective**
@@ -56,7 +62,7 @@ description: >-
 
   * **Prevention/Intervention Implementation Timing**—The prevention/intervention innovation can provide solutions addressing immediate impact (Now); near-term impact (Next) or long-term impact (Later) efforts.
 
-  * **Health Equity**—Innovations should account for specific subpopulations such as women Veterans, new Veterans (those who are planning to transition or have transitioned in the last 1-3 years), Veterans ages 55 and over, Veterans ages 18-34, and American Indian, Alaska Native, Black, African American Veterans, Asian American, Latin or Hispanic Veterans and LGBTQ Veterans.
+  * **Health Equity**—Innovations should account for specific subpopulations such as women Veterans, new Veterans (those who are planning to transition or have transitioned in the last 1-3 years), Veterans ages 55 and over, Veterans ages 18-34, and American Indian, Alaska Native, Black, African American Veterans, Asian American, Latin or Hispanic Veterans and LGBTQ+ Veterans.
 
 
   **Background:**
@@ -335,7 +341,10 @@ how-to-enter: >-
   **Submission URL or Email**
 
 
-  Susan Kerin at [susank@capconcorp.com](mailto:susank@capconcorp.com) and website information is forthcoming.
+  Submission URL: [SPG Challenge](https://spgchallenge.com/) 
+
+
+  Point of Contact for inquiries: Ms. Barbara Singer at Capital Consulting Group: [bsinger@capconcorp.com](mailto:bsinger@capconcorp.com).
 ---
 # Description
 
@@ -355,7 +364,7 @@ Following are additional parameters for consideration in developing innovations:
 
 * **Target Community**—Innovations shall meet the needs of service members transitioning out of the military, Veterans enrolled in VA healthcare or receiving VA benefits and Veterans not enrolled in VA healthcare or benefits.
 * **Prevention/Intervention Implementation Timing**—The prevention/intervention innovation can provide solutions addressing immediate impact (Now); near-term impact (Next) or long-term impact (Later) efforts.
-* **Health Equity**—Innovations should account for specific subpopulations such as women Veterans, new Veterans (those who are planning to transition or have transitioned in the last 1-3 years), Veterans ages 55 and over, Veterans ages 18-34, and American Indian, Alaska Native, Black, African American Veterans, Asian American, Latin or Hispanic Veterans and LGBTQ Veterans.
+* **Health Equity**—Innovations should account for specific subpopulations such as women Veterans, new Veterans (those who are planning to transition or have transitioned in the last 1-3 years), Veterans ages 55 and over, Veterans ages 18-34, and American Indian, Alaska Native, Black, African American Veterans, Asian American, Latin or Hispanic Veterans and LGBTQ+ Veterans.
 
 **Background:**
 
@@ -541,6 +550,8 @@ VA will not make contestants’ evaluation results from the judging panel availa
 
 Registration and entry details of the SPGC will be posted and updated at a later date on Challenge.gov and at <https://spgchallenge.com>.
 
-**Submission URL or Email**
+**Submission URL & Email**
 
-Susan Kerin at [susank@capconcorp.com](mailto:susank@capconcorp.com) and website information is forthcoming.
+Submission URL: [SPG Challenge](https://spgchallenge.com/) 
+
+Point of Contact for inquiries: Ms. Barbara Singer at Capital Consulting Group: [bsinger@capconcorp.com](mailto:bsinger@capconcorp.com).
