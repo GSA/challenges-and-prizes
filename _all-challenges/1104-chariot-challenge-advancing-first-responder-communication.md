@@ -175,8 +175,9 @@ how-to-enter: >-
 
 **CONGRATULATIONS TO OUR FINAL WINNERS!** For more information, visit the Challenge website on [PSCR.gov](https://www.nist.gov/ctl/pscr), and for any questions related to this Challenge, email us at [psprizes@nist.gov](mailto:psprizes@nist.gov).
 
-**Emulate Smart City Data for Disaster Scenarios Contest
-Final Winners of Phase 4 Announced!**
+**Emulate Smart City Data for Disaster Scenarios Contest**
+
+**Final Winners of Phase 4 Announced!**
 
 ![Emulate Smart City Data for Disaster Final Winners]({{site.baseurl}}/assets/netlify-uploads/final-4-winners-table-1.jpg "Emulate Smart City Data for Disaster Final Winners")
 
@@ -184,8 +185,9 @@ Best in Class Winners
 
 ![Emulate Smart City Data for Disaster Best in Class Winners]({{site.baseurl}}/assets/netlify-uploads/chariot-best-in-class-table-1.jpg "Emulate Smart City Data for Disaster Best in Class Winners")
 
-**Build Augmented Reality Interfaces for First Responders Contest
-Final Winners of Phase 4 Announced!**
+**Build Augmented Reality Interfaces for First Responders Contest**
+
+**Final Winners of Phase 4 Announced!**
 
 ![Build Augmented Reality Interfaces for First Responders Final Winners]({{site.baseurl}}/assets/netlify-uploads/augmented-reality-table-2.jpg "Build Augmented Reality Interfaces for First Responders Final Winners")
 
