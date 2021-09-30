@@ -4,7 +4,7 @@ challenge-title: CHARIoT Challenge - Advancing First Responder Communications
 layout: front-matter-data-markdownify-content
 permalink: /challenge/chariot/
 challenge-id: "1104"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/chariot_challengegov.jpg
 agency-logo: /assets/netlify-uploads/NIST_logo.png
