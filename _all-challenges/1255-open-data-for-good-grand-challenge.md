@@ -10,9 +10,11 @@ card-image: /assets/netlify-uploads/2021-grand-challenge-top_resized-for-tile.pn
 agency-logo: /assets/netlify-uploads/US-Census-Bureau-logo.png
 tagline: "Unleashing the value of open data through digital tools for the public "
 agency: U.S. Census Bureau
-partner-agencies-federal: U.S. Census Bureau; U.S. Environmental Protection
-  Agency (EPA); National Oceanic and Atmospheric Administration (NOAA)
-total-prize-offered-cash: $210,000
+partner-agencies-federal: U.S. Census Bureau; U.S. Department of Health and
+  Human Services (HHS); U.S. Environmental Protection Agency (EPA); National
+  Oceanic and Atmospheric Administration (NOAA)
+partners-non-federal: CivStart; Orange Sparkle Bal
+total-prize-offered-cash: $310,000
 type-of-challenge:
   - Software and apps
   - Creative (multimedia & design)
@@ -28,10 +30,6 @@ body-content-uploads: /assets/netlify-uploads/epa-seal_for-census-challenge.png
 description: >-
   #### Key Dates
 
-
-  * July 1:  Rules posted
-
-  * July 14:  Launch information session – [RSVP Here](https://odfggcinfowebinar.splashthat.com/)
 
   * September 13: Submission window opens
 
@@ -98,7 +96,7 @@ prizes: >-
   #### Total Cash Prize Pool
 
 
-  This is a single-phase competition in which a total of $210,000 will be awarded by the Census Bureau, the Environmental Protection Agency (EPA) and the National Oceanic and Atmospheric Administration (NOAA).  We expect additional monetary and in-kind (non-monetary) prizes to be added by agencies such as the U.S. Department of Health and Human Services (HHS) and other entities; so, please refer to this posting regularly for updates.  This section describes the prizes available in each category, as well as additional prize opportunities for which any applicant can be considered.  
+  This is a single-phase competition in which a total of $310,000 will be awarded by the Census Bureau, the Environmental Protection Agency (EPA) the National Oceanic and Atmospheric Administration (NOAA), and the U.S. Department of Health and Human Services (HHS).  Additionally,  in-kind (non-monetary) prizes will be provided by CivStart, Orange Sparkle Ball, and other entities; please refer to this posting regularly for updates on additional prizes.  This section describes the prizes available in each category, as well as additional prize opportunities for which any applicant can be considered.
 
 
   #### Prize Breakdown
@@ -116,15 +114,11 @@ prizes: >-
 
   * One (1) Student prize (*\* student teams are also eligible for grand prize and runner up; student prize only open to those who can demonstrate student status*)**:** **$10,000**
 
-
   * Subcategories: 
 
     * <img style="padding: 10px; float: right;" src="{{site.baseurl}}/assets/netlify-uploads/noaa_logo_for-census-challenge.png"/>**Climate Smart Community Challenge:**  NOAA will award one (1) or more prizes totaling $50,000 to projects that focus on tackling the climate crisis through “climate smart” communities. Prizes will be awarded to exceptional tools that help improve climate resilience planning in communities around the nation by supporting data-driven local decision making.
-
     * <img style="padding: 10px; float: right;" src="{{site.baseurl}}/assets/netlify-uploads/epa-seal_for-census-challenge.png"/>**Enhancing Recycling and Reducing Ocean Plastics Challenge:** One (1) to Five (5) prizes totaling $50,000:  The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on reducing marine/ocean plastic pollution and/or creating markets for recycled materials. 
-
     * **Reducing Transportation Emissions Challenge:**  One (1) Prize of $10,000: The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on helping the public understand the impact of transportation emissions on air quality. 
-
   * Additional in-kind (non-monetary) prizes may be announced.
 
 
@@ -144,13 +138,18 @@ prizes: >-
   ***Health & COVID-19*** 
 
 
-  * One or more prizes will be awarded to exceptional digital products that focus on challenges like helping state and local public health authorities track and understand disease transmission, helping stakeholders make key operational decisions, and helping consumers and businesses manage testing data. Specific prizes are to be announced and we expect these to include monetary prizes sponsored by the U.S. Department of Health and Human Services. 
+  * A total of $100,000 will be awarded by the U.S. Department of Health and Human Services to at least one and up to five exceptional digital products that focus on challenges like helping state and local public health authorities track and understand disease transmission, helping stakeholders make key operational decisions, and helping consumers and businesses manage testing data. S
 
 
   ***Potential additional prizes (may be combined with monetary prizes)***
 
 
-  We expect to partner with organizations that will offer in kind prizes.  Applicants in any category are eligible to be considered for non-monetary/in-kind prizes.  You must opt into in-kind prize consideration when you enter.  Please be advised that opting-in to consideration for in-kind prizes may require additional information about your organization.  Once confirmed, in-kind prize opportunities will be announced in the coming weeks; please check regularly for updates. 
+  Several partner organizations that offer in kind prizes, as described below.  Applicants in any category are eligible to be considered for non-monetary/in-kind prizes.  You must opt into in-kind prize consideration when you enter.  Please be advised that opting-in to consideration for in-kind prizes may require additional information about your organization.  Please check regularly for updates regarding additional in-kind prizes. 
+
+
+  * **Start-up Acceleration Consulting Sessions from Orange Sparkle Ball:** Up to two teams will be selected to win four (4) 1-hour startup acceleration consulting sessions, to focus on storytelling around their technology to aid adoption, pitching for investment or customer acquisition, designing and implementing pilots to test their product or developing launch strategies. Specialized OSB staff will be identified to provide these sessions based on the winning teams. 
+
+  * **Select accelerator program services from CivStart** (for start-up company/small business): One team will be selected to receive the following over a 12-month period:  Four (4) hours of consultation with CivStart staff on go-to-market strategies, introduction to select corporate partners and their offered benefits, access to the CivStart Community Slack community to interact with other govtech startups and community stakeholders, inclusion in several relevant curriculum webinars, invitation to select external events such as the annual Demo Day, and listing as a partner on CivStart’s website. 
 
 
   The U.S. Census Bureau and any future partnering agencies may award different prize amounts at their discretion.  The winners of any monetary or in-kind awards that may be provided by partner agencies and organizations will be selected based on the judging process outlined for the competition with input from both the Census Bureau and partners. Additional prizes may be added to this competition before the submission window closes, so please refer to this page regularly for updates.
@@ -279,7 +278,7 @@ rules: >-
 
   6. May not be a Federal entity or Federal employee acting within the scope of their federal employment. 
 
-  7. May not be an employee of the U.S. Census Bureau, NOAA, or the U.S. Environmental Protection Agency.
+  7. May not be an employee of the U.S. Census Bureau, NOAA, or the U.S. Environmental Protection Agency, or HHS.
 
   8. Must not be currently under contract with the U.S. Census Bureau or other federal agency to perform work related to the product submitted for this competition.
 
@@ -318,7 +317,7 @@ rules: >-
 
   2. Submissions must be free of malware. Participants agree that the Census Bureau may conduct testing on the application(s) to determine whether malware or other security threats may be present. The Census Bureau may disqualify the application(s) if, in the Census Bureau’s judgment, the application may damage government or others' equipment, operating environment or security posture. 
 
-  3. The submitting team must not use government logos or official seals and must not claim endorsement by the U.S. Census Bureau, Department of Commerce, or U.S. Environmental Protection Agency.
+  3. The submitting team must not use government logos or official seals and must not claim endorsement by the U.S. Census Bureau, Department of Commerce, EPA, NOAA, or HHS. 
 judging: >-
   #### Judging Panel
 
@@ -389,8 +388,6 @@ how-to-enter: >-
 
 #### Key Dates
 
-* July 1:  Rules posted
-* July 14:  Launch information session – [RSVP Here](https://odfggcinfowebinar.splashthat.com/)
 * September 13: Submission window opens
 * October 24:  Submissions due 
 * December:  Prize winners announced
@@ -435,7 +432,7 @@ Please refer to the prizes section below for full details on prize opportunities
 
 #### Total Cash Prize Pool
 
-This is a single-phase competition in which a total of $210,000 will be awarded by the Census Bureau, the Environmental Protection Agency (EPA) and the National Oceanic and Atmospheric Administration (NOAA).  We expect additional monetary and in-kind (non-monetary) prizes to be added by agencies such as the U.S. Department of Health and Human Services (HHS) and other entities; so, please refer to this posting regularly for updates.  This section describes the prizes available in each category, as well as additional prize opportunities for which any applicant can be considered.  
+This is a single-phase competition in which a total of $310,000 will be awarded by the Census Bureau, the Environmental Protection Agency (EPA) the National Oceanic and Atmospheric Administration (NOAA), and the U.S. Department of Health and Human Services (HHS).  Additionally,  in-kind (non-monetary) prizes will be provided by CivStart, Orange Sparkle Ball, and other entities; please refer to this posting regularly for updates on additional prizes.  This section describes the prizes available in each category, as well as additional prize opportunities for which any applicant can be considered.  
 
 #### Prize Breakdown
 
@@ -449,11 +446,8 @@ A total of $50,000 will be awarded by the Census Bureau to exceptional digital p
 * Subcategories: 
 
   * <img style="padding: 10px; float: right;" src="{{site.baseurl}}/assets/netlify-uploads/noaa_logo_for-census-challenge.png"/>**Climate Smart Community Challenge:**  NOAA will award one (1) or more prizes totaling $50,000 to projects that focus on tackling the climate crisis through “climate smart” communities. Prizes will be awarded to exceptional tools that help improve climate resilience planning in communities around the nation by supporting data-driven local decision making.
-
   * <img style="padding: 10px; float: right;" src="{{site.baseurl}}/assets/netlify-uploads/epa-seal_for-census-challenge.png"/>**Enhancing Recycling and Reducing Ocean Plastics Challenge:** One (1) to Five (5) prizes totaling $50,000:  The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on reducing marine/ocean plastic pollution and/or creating markets for recycled materials. 
-
   * **Reducing Transportation Emissions Challenge:**  One (1) Prize of $10,000: The U.S. Environmental Protection Agency (EPA) will award prizes to projects within this category that focus on helping the public understand the impact of transportation emissions on air quality. 
-
 * Additional in-kind (non-monetary) prizes may be announced.
 
 ***Society, Economy, and the Built Environment***
@@ -466,11 +460,14 @@ A total of $50,0000 will be awarded by the U.S. Census Bureau to exceptional dig
 
 ***Health & COVID-19*** 
 
-* One or more prizes will be awarded to exceptional digital products that focus on challenges like helping state and local public health authorities track and understand disease transmission, helping stakeholders make key operational decisions, and helping consumers and businesses manage testing data. Specific prizes are to be announced and we expect these to include monetary prizes sponsored by the U.S. Department of Health and Human Services. 
+* A total of $100,000 will be awarded by the U.S. Department of Health and Human Services to at least one and up to five exceptional digital products that focus on challenges like helping state and local public health authorities track and understand disease transmission, helping stakeholders make key operational decisions, and helping consumers and businesses manage testing data. 
 
 ***Potential additional prizes (may be combined with monetary prizes)***
 
-We expect to partner with organizations that will offer in kind prizes.  Applicants in any category are eligible to be considered for non-monetary/in-kind prizes.  You must opt into in-kind prize consideration when you enter.  Please be advised that opting-in to consideration for in-kind prizes may require additional information about your organization.  Once confirmed, in-kind prize opportunities will be announced in the coming weeks; please check regularly for updates. 
+Several partner organizations that offer in kind prizes, as described below.  Applicants in any category are eligible to be considered for non-monetary/in-kind prizes.  You must opt into in-kind prize consideration when you enter.  Please be advised that opting-in to consideration for in-kind prizes may require additional information about your organization.  Please check regularly for updates regarding additional in-kind prizes. 
+
+* **Start-up Acceleration Consulting Sessions from Orange Sparkle Ball:** Up to two teams will be selected to win four (4) 1-hour startup acceleration consulting sessions, to focus on storytelling around their technology to aid adoption, pitching for investment or customer acquisition, designing and implementing pilots to test their product or developing launch strategies. Specialized OSB staff will be identified to provide these sessions based on the winning teams. 
+* **Select accelerator program services from CivStart** (for start-up company/small business): One team will be selected to receive the following over a 12-month period:  Four (4) hours of consultation with CivStart staff on go-to-market strategies, introduction to select corporate partners and their offered benefits, access to the CivStart Community Slack community to interact with other govtech startups and community stakeholders, inclusion in several relevant curriculum webinars, invitation to select external events such as the annual Demo Day, and listing as a partner on CivStart’s website. 
 
 The U.S. Census Bureau and any future partnering agencies may award different prize amounts at their discretion.  The winners of any monetary or in-kind awards that may be provided by partner agencies and organizations will be selected based on the judging process outlined for the competition with input from both the Census Bureau and partners. Additional prizes may be added to this competition before the submission window closes, so please refer to this page regularly for updates.
 
@@ -491,6 +488,7 @@ Teams are strongly encouraged to [use the template at this link](https://docs.go
 * **Eligibility:** Please identify your eligibility for this prize, as 1) a 2020 or 2021 TOP Sprint or TOPx sprint participant (list year and problem statement) or 2) an independent team using TOP methodology.  For either type of eligibility, please indicate either facilitated sprint or digital toolkit, and year of participation.
 * **In-kind (non-monetary) prize consideration:** Would you like to be considered for in-kind prizes? (yes/no) 
 * **Optional:** *Certain prizes are offered only to students, non-profit organizations, and start-up companies. If you would like to be considered for any of these categories, please provide the following documentation.* 
+
   * To be considered for student prizes, please include the name of your academic institution and graduation year.
   * To be considered for in-kind prizes intended for start-up companies or small business, please identify which individual/organization in your team represents a start-up company or small business, and please briefly describe why you consider your team to be in this category.
   * If you would like to be considered for in-kind prizes intended for 501(c)(3) non-profit organizations, please provide any of the following as evidence of nonprofit status: (a) a reference to the applicant organization’s listing in the Internal Revenue Service’s (IRS) most recent list of tax-exempt organizations described in section 501(c)(3) of the IRS Code; OR (b) a copy of a currently valid IRS tax exemption certificate; OR (c) a certified copy of the organization’s certificate of incorporation or similar document that clearly establishes nonprofit status. 
@@ -529,6 +527,7 @@ Additional submission guidelines and requirements:
 * **Any material that does not follow the submission guidelines provided may not be considered.**
 * Each product should be submitted in at least one (1) and no more than two (2) categories.
 * Applicants must submit a working, interactive digital tool that uses open government data to address one or more of the challenges in the categories described above.
+
   * “Working product” indicates that the intended features of the product have been created and are currently functional and usable to the public or intended user(s). For example, a clickable prototype that illustrates future functionality, but does not yet provide it to the user, cannot be considered. 
   * The product must include interactive functionality for the end user to access and/or analyze the open data (for example, a static slide presentation that illustrates an analysis but is not interactive would not be eligible). 
   * The product must be capable of being successfully installed and running consistently on the platform for which it is intended, and must function as depicted or expressed in the text description.
@@ -556,7 +555,7 @@ Additionally, to be eligible to apply for and win a prize award in this Challeng
 4. Digital products that cannot demonstrate that they were created through The Opportunity Project sprints or following the [Toolkit](https://go.usa.gov/x7fWf) are not eligible.
 5. Must have complied with all the stated requirements of The Opportunity Project Prize Challenge. 
 6. May not be a Federal entity or Federal employee acting within the scope of their federal employment. 
-7. May not be an employee of the U.S. Census Bureau, NOAA, or the U.S. Environmental Protection Agency.
+7. May not be an employee of the U.S. Census Bureau, NOAA, the U.S. Environmental Protection Agency, or HHS.
 8. Must not be currently under contract with the U.S. Census Bureau or other federal agency to perform work related to the product submitted for this competition.
 9. Federal grantees may not use Federal funds to develop COMPETES Act Challenge applications unless consistent with the purpose of their grant award.
 10. Federal contractors may not use Federal funds from a contract to develop COMPETES Act Challenge applications or to fund efforts in support of a COMPETES Act Challenge Submission.
@@ -578,7 +577,7 @@ Restrictions
 
 1. An application may be disqualified if it fails to function as expressed in the description provided by the participant, if it provides inaccurate or incomplete information, or if any components of the application are missing.
 2. Submissions must be free of malware. Participants agree that the Census Bureau may conduct testing on the application(s) to determine whether malware or other security threats may be present. The Census Bureau may disqualify the application(s) if, in the Census Bureau’s judgment, the application may damage government or others' equipment, operating environment or security posture. 
-3. The submitting team must not use government logos or official seals and must not claim endorsement by the U.S. Census Bureau, Department of Commerce, or U.S. Environmental Protection Agency.
+3. The submitting team must not use government logos or official seals and must not claim endorsement by the U.S. Census Bureau, Department of Commerce, EPA, NOAA, or HHS. 
 
 ### Judging Criteria
 
@@ -591,28 +590,29 @@ Submissions will be reviewed by experts in technology, open data, product develo
 Each submission will be scored by multiple reviewers on the following five (5) criteria:
 
 * **Technical Quality (20%):** This score focuses on the overall user experience and user interface (UX/UI) design of the product, designing and implementation of product functionality, visual design if applicable, and generally how well the product achieves its stated functionality.  This includes questions such as: 
+
   * Does the product have well-functioning features?
   * Is it user friendly? Does it provide a positive user experience?
   * If the product is intended as a front-end interface, does it follow visual and user experience design best practices?
-
 * **Cross-Sector Collaboration and Diversity (15%):** This score focuses on the team’s build process, and the extent to which “user advocates” and diverse end user perspectives were included in developing the product. This includes questions such as: 
+
   * Was user research conducted to identify specific community or end user needs, and does the product’s functionality reflect those needs? 
   * Has the product been tested and iterated upon based on feedback from end users?
   * Do the partner organizations/collaborating end user represent diverse perspectives within the overall user audience? Does the product account for diverse needs across the user community and offer a solution that is inclusive of many end users within the target audience?
-
 * **Use of Federal Open Data (25%):** This score focuses on the extent to which the product uses federal open data creatively and effectively. This includes questions such as: 
+
   * Does the product meaningfully use federal open data sets from the Census Bureau and other federal agencies to solve a problem or deliver value for the end user?
   * Does it creatively align federal data alongside state, local, or other types of data? 
   * Does the product present or analyze the data in a new creative way?
-
 * **Implementation + Sustainability (20%):** This score focuses on the team’s stated or demonstrated plans for deploying the tool to end users or an existing user base. This includes questions such as: 
+
   * Does this team have established partnership(s) or relationship(s) with the end user community? 
   * Does the product have a thorough and realistic implementation plan that includes deploying the product to end users?
   * Does the team describe a sound strategy for the ongoing maintenance of this product?
   * Has the product team deployed the tool to end users, whether directly or via a partner, or have they described a compelling and specific plan to do so? 
   * Is this product well designed to scale and grow with increasing users? 
-
 * **Impact (20%):** This score focuses on the team’s documented or planned impact on the target issue and end user community. This includes questions such as: 
+
   * Does this team have an established partnership with user advocates/community groups? 
   * How compelling and realistic is this product’s ability to achieve important outcomes for end users? 
   * Does the product directly and effectively address the problem statement and community it was built for? 
@@ -626,11 +626,12 @@ Each submission will be scored by multiple reviewers on the following five (5) c
 Teams or individuals interested in participating in this challenge can apply by submitting an application package following these two (2) steps, **between 9am ET on September 13, 2021 and 11:59pm ET on October 24, 2021**:
 
 1. Email your entire prize submission package (Team Information, Product Information, Product Description, Letter(s) of Support, and Optional Multimedia) to [TOPprize@census.gov](mailto:TOPprize@census.gov) after the submission window opens and by the submission deadline.  Include the Subject Line: “Prize Submission: \[Team Name, Product Name]”.
+
    * Teams are strongly encouraged to [use the template available at this link](https://docs.google.com/document/d/1zjfOmO9eEzGIO2DssPYeZ7twRReBUDp7b5tAARKz9Ow/edit) for parts 1-3.  
    * Collaborator letter(s) can be included in the same PDF or attached separately. 
    * Optional videos can be linked in the same PDF or attached separately.   
    * *If you are seeking consideration as a student or 501(c)(3), please also include relevant documentation in your email.* 
-2. Select information about your product and team must **ALSO** be submitted via the [**Challenge Submission Form**](https://airtable.com/shrX4sRAS2fgQPL72). 
+2. Select information about your product and team must **ALSO** be submitted via the **[Challenge Submission Form](https://airtable.com/shrX4sRAS2fgQPL72)**. 
 
 **Your application will not be considered complete until BOTH steps are completed.** 
 
