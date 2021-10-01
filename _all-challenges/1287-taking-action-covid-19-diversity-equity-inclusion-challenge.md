@@ -11,7 +11,7 @@ agency-logo: /assets/netlify-uploads/nsf.png
 tagline: Identifying systemic strategies to address long-term impacts of the
   pandemic on DEI  in STEM education programs and careers.
 agency: National Science Foundation (NSF)
-external-url: www.nsf.gov/takingaction
+external-url: https://www.nsf.gov/ehr/Covid19Challenge/Home.jsp
 total-prize-offered-cash: $200,000
 type-of-challenge:
   - Ideas
