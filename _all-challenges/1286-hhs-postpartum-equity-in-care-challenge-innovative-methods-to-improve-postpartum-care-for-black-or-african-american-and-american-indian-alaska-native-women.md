@@ -185,15 +185,13 @@ rules: >-
 
   Prizes awarded under this competition will be paid by electronic funds transfer and may be subject to Federal income taxes. HHS will comply with the Internal Revenue Service withholding and reporting requirements, where applicable.
 judging: >-
-  
-
   **Judging Panel**
 
 
   A panel of judges will evaluate the submissions on the criteria identified below. Judges will be fair and impartial, may not have a personal or financial interest in, or be an employee, officer, director, or agent of, any entity that is a registered participant in the competition, and may not have a familial or financial relationship with an individual who is a registered contestant. The panel will make winner selections based upon the criteria outlined below and in compliance with the HHS Competition Judging Guidelines. Entries not in compliance with the submission requirements outlined above and below will be ineligible for further review and prize award.
 
 
-  The judging panel will not select more than five winners in any state.\
+  The judging panel will not select more than five winners in any state.
 
 
   The Award Approving Official will be the Deputy Assistant Secretary for Women’s Health.
@@ -396,7 +394,7 @@ Prizes awarded under this competition will be paid by electronic funds transfer 
 
 A panel of judges will evaluate the submissions on the criteria identified below. Judges will be fair and impartial, may not have a personal or financial interest in, or be an employee, officer, director, or agent of, any entity that is a registered participant in the competition, and may not have a familial or financial relationship with an individual who is a registered contestant. The panel will make winner selections based upon the criteria outlined below and in compliance with the HHS Competition Judging Guidelines. Entries not in compliance with the submission requirements outlined above and below will be ineligible for further review and prize award.
 
-The judging panel will not select more than five winners in any state.\
+The judging panel will not select more than five winners in any state.
 
 The Award Approving Official will be the Deputy Assistant Secretary for Women’s Health.
 
