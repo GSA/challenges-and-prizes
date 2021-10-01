@@ -4,7 +4,7 @@ challenge-title: Synthetic Health Data Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/synthetic-health-data-challenge/
 challenge-id: "1198"
-status: closed
+status: open
 sidenav: true
 card-image: /assets/netlify-uploads/hhs-logo-resize-for-tile.png
 agency-logo: /assets/netlify-uploads/hhs.png
@@ -23,7 +23,7 @@ legal-authority: Procurement Authority
 challenge-manager: Stephanie Garcia, ONC
 challenge-manager-email: Stephanie.Garcia@hhs.gov
 point-of-contact: SyntheticDataChallenge@govhealth.com
-body-content-uploads: /assets/netlify-uploads/uihealth_synthetic-data-solution.pdf
+body-content-uploads: /assets/netlify-uploads/20211019_synthetic-health-data-winning-solutions-webinar-agenda_508.pdf
 description: >-
   ### Description
 
@@ -349,7 +349,7 @@ how-to-enter: >-
 
 ***Congratulations to the Synthetic Health Data Challenge Winners!***
 
-ONC is pleased to announce the Synthetic Health Data Challenge Winning Solutions! [Register now](https://govhealth.zoom.us/webinar/register/WN_N4scGKbBTdid4_V0y5zxIQ)  for the October 19, 2021 Winning Solutions Webinar featuring the Challenge Winners and their innovative solutions. 
+ONC is pleased to announce the Synthetic Health Data Challenge Winning Solutions! [Register now](https://govhealth.zoom.us/webinar/register/WN_N4scGKbBTdid4_V0y5zxIQ)  for the October 19, 2021 Winning Solutions Webinar featuring the Challenge Winners and their innovative solutions [(download agenda)]({{site.baseurl}}https://www.challenge.gov/assets/netlify-uploads/20211019_synthetic-health-data-winning-solutions-webinar-agenda_508.pdf). 
 
 **1st Place Winner – $40,000 Award**
 
