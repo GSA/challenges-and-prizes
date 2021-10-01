@@ -140,7 +140,7 @@ prizes: >-
   ***Health & COVID-19*** 
 
 
-  * A total of $100,000 will be awarded by the U.S. Department of Health and Human Services to at least one and up to five exceptional digital products that focus on challenges like helping state and local public health authorities track and understand disease transmission, helping stakeholders make key operational decisions, and helping consumers and businesses manage testing data. S
+  * A total of $100,000 will be awarded by the U.S. Department of Health and Human Services, across 5 prizes of $20,000 each, to exceptional digital products that focus on challenges like helping state and local public health authorities track and understand disease transmission, helping stakeholders make key operational decisions, and helping consumers and businesses manage testing data. S
 
 
   ***Potential additional prizes (may be combined with monetary prizes)***
@@ -465,7 +465,7 @@ A total of $50,0000 will be awarded by the U.S. Census Bureau to exceptional dig
 
 ***Health & COVID-19*** 
 
-* A total of $100,000 will be awarded by the U.S. Department of Health and Human Services to at least one and up to five exceptional digital products that focus on challenges like helping state and local public health authorities track and understand disease transmission, helping stakeholders make key operational decisions, and helping consumers and businesses manage testing data. 
+* A total of $100,000 will be awarded by the U.S. Department of Health and Human Services, across 5 prizes of $20,000 each, to exceptional digital products that focus on challenges like helping state and local public health authorities track and understand disease transmission, helping stakeholders make key operational decisions, and helping consumers and businesses manage testing data. 
 
 ***Potential additional prizes (may be combined with monetary prizes)***
 
