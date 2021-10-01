@@ -2,9 +2,9 @@
 title: "HHS Postpartum Equity in Care Challenge: Innovative Methods to Improve
   Postpartum Care for Black or African American and American Indian/Alaska
   Native Women"
-challenge-title: HHS Postpartum Equity in Care Challenge Innovative Methods to
-  Improve Postpartum Care for Black or African American and American Indian
-  Alaska Native Women
+challenge-title: "HHS Postpartum Equity in Care Challenge: Innovative Methods to
+  Improve Postpartum Care for Black or African American and American
+  Indian/Alaska Native Women"
 layout: front-matter-data-markdownify-content
 permalink: /challenge/hhs-postpartum-equity-in-care-challenge/
 challenge-id: "1286"
