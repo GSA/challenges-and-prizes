@@ -13,7 +13,7 @@ agency: U.S. Census Bureau
 partner-agencies-federal: U.S. Census Bureau; U.S. Department of Health and
   Human Services (HHS); U.S. Environmental Protection Agency (EPA); National
   Oceanic and Atmospheric Administration (NOAA)
-partners-non-federal: CivStart; Orange Sparkle Bal
+partners-non-federal: CivStart; Orange Sparkle Ball
 total-prize-offered-cash: $310,000
 type-of-challenge:
   - Software and apps
@@ -32,6 +32,8 @@ description: >-
 
 
   * September 13: Submission window opens
+
+  * October 6: Informational webinar session [RSVP here](https://odfggcfinalinfowebinar.splashthat.com/)
 
   * October 24:  Submissions due 
 
@@ -149,7 +151,7 @@ prizes: >-
 
   * **Start-up Acceleration Consulting Sessions from Orange Sparkle Ball:** Up to two teams will be selected to win four (4) 1-hour startup acceleration consulting sessions, to focus on storytelling around their technology to aid adoption, pitching for investment or customer acquisition, designing and implementing pilots to test their product or developing launch strategies. Specialized OSB staff will be identified to provide these sessions based on the winning teams. 
 
-  * **Select accelerator program services from CivStart** (for start-up company/small business): One team will be selected to receive the following over a 12-month period:  Four (4) hours of consultation with CivStart staff on go-to-market strategies, introduction to select corporate partners and their offered benefits, access to the CivStart Community Slack community to interact with other govtech startups and community stakeholders, inclusion in several relevant curriculum webinars, invitation to select external events such as the annual Demo Day, and listing as a partner on CivStart’s website. 
+  * **Select accelerator program services from CivStart** (for start-up company/small business): One team will be selected to receive the following over a 12-month period: four (4) hours of consultation with CivStart staff on go-to-market strategies, introduction to select corporate partners and their offered benefits, access to the CivStart Community Slack community to interact with other govtech startups and community stakeholders, inclusion in several relevant curriculum webinars, invitation to select external events such as the annual Demo Day, and listing as a partner on CivStart’s website. 
 
 
   The U.S. Census Bureau and any future partnering agencies may award different prize amounts at their discretion.  The winners of any monetary or in-kind awards that may be provided by partner agencies and organizations will be selected based on the judging process outlined for the competition with input from both the Census Bureau and partners. Additional prizes may be added to this competition before the submission window closes, so please refer to this page regularly for updates.
@@ -178,6 +180,7 @@ rules: >-
   * **In-kind (non-monetary) prize consideration:** Would you like to be considered for in-kind prizes? (yes/no) 
 
   * **Optional:** *Certain prizes are offered only to students, non-profit organizations, and start-up companies. If you would like to be considered for any of these categories, please provide the following documentation.* 
+
     * To be considered for student prizes, please include the name of your academic institution and graduation year.
     * To be considered for in-kind prizes intended for start-up companies or small business, please identify which individual/organization in your team represents a start-up company or small business, and please briefly describe why you consider your team to be in this category.
     * If you would like to be considered for in-kind prizes intended for 501(c)(3) non-profit organizations, please provide any of the following as evidence of nonprofit status: (a) a reference to the applicant organization’s listing in the Internal Revenue Service’s (IRS) most recent list of tax-exempt organizations described in section 501(c)(3) of the IRS Code; OR (b) a copy of a currently valid IRS tax exemption certificate; OR (c) a certified copy of the organization’s certificate of incorporation or similar document that clearly establishes nonprofit status. 
@@ -199,7 +202,7 @@ rules: >-
   **PART 3:  Project Description (4 pages maximum)**
 
 
-  Applicants must submit a narrative document describing the sections listed below in no more than four (4) pages (minimum 11-point standard font, single spaced, 1” margins, submitted as a .docx or PDF document).  This is the team’s opportunity to address the scoring criteria. The sections below are suggested, but the specific items within each are not intended to be exhaustive and applicants are encouraged to include other points they consider relevant to address the judging criteria, within the stated page limits. Submissions exceeding the allowed length may not be reviewed.
+  Applicants must submit a narrative document describing the sections listed below in no more than four (4) pages (minimum 11-point standard font, single spaced, 1” margins, submitted as an editable word document format such as .doc or docx (preferred) or as a PDF document).  This is the team’s opportunity to address the scoring criteria. The sections below are suggested, but the specific items within each are not intended to be exhaustive and applicants are encouraged to include other points they consider relevant to address the judging criteria, within the stated page limits. Submissions exceeding the allowed length may not be reviewed.
 
 
   * **Product overview and functionality:** Explain how the product works, the target end-user(s), what problem it was intended to solve, and an overview of the user journey.
@@ -216,7 +219,7 @@ rules: >-
   **PART 4 - Collaborator letter(s) of support** 
 
 
-  Teams must submit at least one (1) and up to three (3) letters of support from collaborators on this project who represent user advocates and/or implementation partners. This can include community-based organizations, state or local governments, national advocacy organizations, unions, individual product users, nonprofits, foundations, or other representatives of the target end users. This should NOT include federal government representatives. Each signed letter should indicate how this partner collaborated with or will collaborate with the applicant on the specified product. Each letter must be no longer than one page (minimum 11-point standard font, single spaced, 1” margins, submitted as a **.docx** or **PDF** document). 
+  Teams must submit at least one (1) and up to three (3) letters of support from collaborators on this project who represent user advocates and/or implementation partners. This can include community-based organizations, state or local governments, national advocacy organizations, unions, individual product users, nonprofits, foundations, or other representatives of the target end users. This should NOT include federal government representatives. Each signed letter should indicate how this partner collaborated with or will collaborate with the applicant on the specified product. Each letter must be no longer than one page (minimum 11-point standard font, single spaced, 1” margins, submitted submitted as an editable word document format such as .doc or .docx or as a PDF). 
 
 
   **PART 5 - (OPTIONAL) Multimedia documentation**
@@ -235,6 +238,7 @@ rules: >-
   * Each product should be submitted in at least one (1) and no more than two (2) categories.
 
   * Applicants must submit a working, interactive digital tool that uses open government data to address one or more of the challenges in the categories described above.
+
     * “Working product” indicates that the intended features of the product have been created and are currently functional and usable to the public or intended user(s). For example, a clickable prototype that illustrates future functionality, but does not yet provide it to the user, cannot be considered. 
     * The product must include interactive functionality for the end user to access and/or analyze the open data (for example, a static slide presentation that illustrates an analysis but is not interactive would not be eligible). 
     * The product must be capable of being successfully installed and running consistently on the platform for which it is intended, and must function as depicted or expressed in the text description.
@@ -317,7 +321,7 @@ rules: >-
 
   2. Submissions must be free of malware. Participants agree that the Census Bureau may conduct testing on the application(s) to determine whether malware or other security threats may be present. The Census Bureau may disqualify the application(s) if, in the Census Bureau’s judgment, the application may damage government or others' equipment, operating environment or security posture. 
 
-  3. The submitting team must not use government logos or official seals and must not claim endorsement by the U.S. Census Bureau, Department of Commerce, EPA, NOAA, or HHS. 
+  3. The submitting team must not use government logos or official seals and must not claim endorsement by the U.S. Census Bureau, Department of Commerce, EPA, NOAA, or HHS.
 judging: >-
   #### Judging Panel
 
@@ -370,8 +374,8 @@ how-to-enter: >-
   1. Email your entire prize submission package (Team Information, Product Information, Product Description, Letter(s) of Support, and Optional Multimedia) to [TOPprize@census.gov](mailto:TOPprize@census.gov) after the submission window opens and by the submission deadline.  Include the Subject Line: “Prize Submission: \[Team Name, Product Name]”.
 
      * Teams are strongly encouraged to [use the template available at this link](https://docs.google.com/document/d/1zjfOmO9eEzGIO2DssPYeZ7twRReBUDp7b5tAARKz9Ow/edit) for parts 1-3.  
-     * Collaborator letter(s) can be included in the same PDF or attached separately. 
-     * Optional videos can be linked in the same PDF or attached separately.   
+     * Collaborator letter(s) can be included in the same file or attached separately. 
+     * Optional videos can be linked in the same file or attached separately.   
      * *If you are seeking consideration as a student or 501(c)(3), please also include relevant documentation in your email.* 
   2. Select information about your product and team must **ALSO** be submitted via the **[Challenge Submission Form](https://airtable.com/shrX4sRAS2fgQPL72)**. 
 
@@ -389,6 +393,7 @@ how-to-enter: >-
 #### Key Dates
 
 * September 13: Submission window opens
+* October 6: Informational webinar session [RSVP here](https://odfggcfinalinfowebinar.splashthat.com/)
 * October 24:  Submissions due 
 * December:  Prize winners announced
 
@@ -467,7 +472,7 @@ A total of $50,0000 will be awarded by the U.S. Census Bureau to exceptional dig
 Several partner organizations that offer in kind prizes, as described below.  Applicants in any category are eligible to be considered for non-monetary/in-kind prizes.  You must opt into in-kind prize consideration when you enter.  Please be advised that opting-in to consideration for in-kind prizes may require additional information about your organization.  Please check regularly for updates regarding additional in-kind prizes. 
 
 * **Start-up Acceleration Consulting Sessions from Orange Sparkle Ball:** Up to two teams will be selected to win four (4) 1-hour startup acceleration consulting sessions, to focus on storytelling around their technology to aid adoption, pitching for investment or customer acquisition, designing and implementing pilots to test their product or developing launch strategies. Specialized OSB staff will be identified to provide these sessions based on the winning teams. 
-* **Select accelerator program services from CivStart** (for start-up company/small business): One team will be selected to receive the following over a 12-month period:  Four (4) hours of consultation with CivStart staff on go-to-market strategies, introduction to select corporate partners and their offered benefits, access to the CivStart Community Slack community to interact with other govtech startups and community stakeholders, inclusion in several relevant curriculum webinars, invitation to select external events such as the annual Demo Day, and listing as a partner on CivStart’s website. 
+* **Select accelerator program services from CivStart** (for start-up company/small business): One team will be selected to receive the following over a 12-month period: four (4) hours of consultation with CivStart staff on go-to-market strategies, introduction to select corporate partners and their offered benefits, access to the CivStart Community Slack community to interact with other govtech startups and community stakeholders, inclusion in several relevant curriculum webinars, invitation to select external events such as the annual Demo Day, and listing as a partner on CivStart’s website. 
 
 The U.S. Census Bureau and any future partnering agencies may award different prize amounts at their discretion.  The winners of any monetary or in-kind awards that may be provided by partner agencies and organizations will be selected based on the judging process outlined for the competition with input from both the Census Bureau and partners. Additional prizes may be added to this competition before the submission window closes, so please refer to this page regularly for updates.
 
@@ -505,7 +510,7 @@ Teams are strongly encouraged to [use the template at this link](https://docs.go
 
 **PART 3:  Project Description (4 pages maximum)**
 
-Applicants must submit a narrative document describing the sections listed below in no more than four (4) pages (minimum 11-point standard font, single spaced, 1” margins, submitted as a .docx or PDF document).  This is the team’s opportunity to address the scoring criteria. The sections below are suggested, but the specific items within each are not intended to be exhaustive and applicants are encouraged to include other points they consider relevant to address the judging criteria, within the stated page limits. Submissions exceeding the allowed length may not be reviewed.
+Applicants must submit a narrative document describing the sections listed below in no more than four (4) pages (minimum 11-point standard font, single spaced, 1” margins, submitted as an editable word document format such as .doc or docx (preferred) or as a PDF document).  This is the team’s opportunity to address the scoring criteria. The sections below are suggested, but the specific items within each are not intended to be exhaustive and applicants are encouraged to include other points they consider relevant to address the judging criteria, within the stated page limits. Submissions exceeding the allowed length may not be reviewed.
 
 * **Product overview and functionality:** Explain how the product works, the target end-user(s), what problem it was intended to solve, and an overview of the user journey.
 * **User-centered design/build process:** Describe the process used to design and build this product, focusing in particular on strategies employed for end user engagement and any other notable collaboration around product development or implementation, the timeline along which it was created, and where it is now in the product life cycle. As part of their process, teams should have completed user research, such as user interviews, focus groups, needs analysis, ethnographic research, or collation of existing research, which should be described in this section.
@@ -515,7 +520,7 @@ Applicants must submit a narrative document describing the sections listed below
 
 **PART 4 - Collaborator letter(s) of support** 
 
-Teams must submit at least one (1) and up to three (3) letters of support from collaborators on this project who represent user advocates and/or implementation partners. This can include community-based organizations, state or local governments, national advocacy organizations, unions, individual product users, nonprofits, foundations, or other representatives of the target end users. This should NOT include federal government representatives. Each signed letter should indicate how this partner collaborated with or will collaborate with the applicant on the specified product. Each letter must be no longer than one page (minimum 11-point standard font, single spaced, 1” margins, submitted as a **.docx** or **PDF** document). 
+Teams must submit at least one (1) and up to three (3) letters of support from collaborators on this project who represent user advocates and/or implementation partners. This can include community-based organizations, state or local governments, national advocacy organizations, unions, individual product users, nonprofits, foundations, or other representatives of the target end users. This should NOT include federal government representatives. Each signed letter should indicate how this partner collaborated with or will collaborate with the applicant on the specified product. Each letter must be no longer than one page (minimum 11-point standard font, single spaced, 1” margins, as an editable word document format such as .doc or .docx or as a PDF). 
 
 **PART 5 - (OPTIONAL) Multimedia documentation**
 
@@ -628,8 +633,8 @@ Teams or individuals interested in participating in this challenge can apply by 
 1. Email your entire prize submission package (Team Information, Product Information, Product Description, Letter(s) of Support, and Optional Multimedia) to [TOPprize@census.gov](mailto:TOPprize@census.gov) after the submission window opens and by the submission deadline.  Include the Subject Line: “Prize Submission: \[Team Name, Product Name]”.
 
    * Teams are strongly encouraged to [use the template available at this link](https://docs.google.com/document/d/1zjfOmO9eEzGIO2DssPYeZ7twRReBUDp7b5tAARKz9Ow/edit) for parts 1-3.  
-   * Collaborator letter(s) can be included in the same PDF or attached separately. 
-   * Optional videos can be linked in the same PDF or attached separately.   
+   * Collaborator letter(s) can be included in the same file or attached separately. 
+   * Optional videos can be linked in the same file or attached separately.   
    * *If you are seeking consideration as a student or 501(c)(3), please also include relevant documentation in your email.* 
 2. Select information about your product and team must **ALSO** be submitted via the **[Challenge Submission Form](https://airtable.com/shrX4sRAS2fgQPL72)**. 
 
