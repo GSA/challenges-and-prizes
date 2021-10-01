@@ -6,7 +6,7 @@ challenge-title: HHS Endocrine-Disrupting Chemicals EDC Innovator Award
   Competition Innovative Methods to Address the Impact of Endocrine-Disrupting
   Chemicals on Black or African American Women
 layout: front-matter-data-markdownify-content
-permalink: /challenge/challenge-url-here/
+permalink: /challenge/hhs-endocrine-disrupting-chemicals-innovator-award-competition/
 challenge-id: "1285"
 status: open
 sidenav: true
@@ -153,13 +153,14 @@ prizes: >-
 rules: >-
   1. To be eligible to win a prize under this Challenge, a Participant (whether
   an individual, group of individuals, or entity) — 
-     a. Shall have registered to participate in the Challenge under the rules promulgated by HHS as published in this announcement; 
-     b. Shall have complied with all the requirements set forth in this announcement; 
-     c. In the case of a private entity, shall be incorporated in and maintain a primary place of business in the United States, and in the case of an individual, whether participating singly or in a group, shall be a citizen or permanent resident of the United States. 
-     d. May not be a Federal entity or Federal employee acting within the scope of their employment; 
-     e. May not be a Federal employee of the Department of Health and Human Services) (or any other component of HHS) acting in their personal capacity; 
-     f. Who is employed by a Federal agency or entity other than HHS (or any component of HHS), should consult with an agency Ethics Official to determine whether the Federal ethics rules will limit or prohibit the acceptance of a prize under this Challenge;
-     g. May not be a judge of the Challenge, or any other party involved with the design, production, execution, or distribution of the Challenge or the immediate family of such a party (i.e., spouse, parent, step-parent, child, or step-child). 
+
+     * Shall have registered to participate in the Challenge under the rules promulgated by HHS as published in this announcement; 
+     * Shall have complied with all the requirements set forth in this announcement; 
+     * In the case of a private entity, shall be incorporated in and maintain a primary place of business in the United States, and in the case of an individual, whether participating singly or in a group, shall be a citizen or permanent resident of the United States. 
+     * May not be a Federal entity or Federal employee acting within the scope of their employment; 
+     * May not be a Federal employee of the Department of Health and Human Services) (or any other component of HHS) acting in their personal capacity; 
+     * Who is employed by a Federal agency or entity other than HHS (or any component of HHS), should consult with an agency Ethics Official to determine whether the Federal ethics rules will limit or prohibit the acceptance of a prize under this Challenge;
+     * May not be a judge of the Challenge, or any other party involved with the design, production, execution, or distribution of the Challenge or the immediate family of such a party (i.e., spouse, parent, step-parent, child, or step-child). 
   2. Federal grantees may not use Federal funds to develop their Challenge submissions unless use of such funds is consistent with the purpose of their grant award and specifically requested to do so due to the Challenge design as described in this announcement. Federal grantees who use Federal funds to develop their Challenge submissions must also obtain written prior approval from the appropriate grants management or program officer and provide documentation of prior approval upon request by HHS. 
 
   3. Federal contractors may not use Federal funds from a contract to develop their Challenge submissions or to fund efforts in support of their Challenge submissions. 
@@ -196,6 +197,7 @@ judging: >-
 
 
   **Phase 1 Scoring Criteria (Identification of innovative programs)**
+
 
   All Criteria are scaled 1-10, with 1 being the lowest score on each dimension and 10 being the highest score on each dimension. Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase 1 include (Total Points 100%):
 
@@ -248,7 +250,7 @@ how-to-enter: >-
   **Phase 1: Identification of innovative programs**
 
 
-  Submissions for Phase 1 of this competition are due by November 15, 2021 at 11:59 pm EST. The identified Official Representative (individual, team or legal entity) may apply for this competition by submitting an application by email to EDCChallenge@hhs.gov. The application for Phase 1 of the competition shall meet the following requirements:
+  Submissions for Phase 1 of this competition are due by November 15, 2021 at 11:59 pm EST. The identified Official Representative (individual, team or legal entity) may apply for this competition by submitting an application by email to [EDCChallenge@hhs.gov](mailto:EDCChallenge@hhs.gov). The application for Phase 1 of the competition shall meet the following requirements:
 
 
   1. Entries must consist of PDF files with font size no smaller than 11-point Arial.
@@ -257,7 +259,7 @@ how-to-enter: >-
 
   3. Participants must not use HHS or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement.
 
-  4. Submission details should be sent to EDCChallenge@hhs.gov:
+  4. Submission details should be sent to [EDCChallenge@hhs.gov](mailto:EDCChallenge@hhs.gov):
 
      * Title the email subject line “Submission - Reducing AA Women EDCs Exposure Risk.”
      * Email sender (person and email address) must be the Official Representative/person of contact for the team.
@@ -403,13 +405,14 @@ Prizes awarded under this competition will be paid by electronic funds transfer 
 # Rules
 
 1. To be eligible to win a prize under this Challenge, a Participant (whether an individual, group of individuals, or entity) — 
-   a. Shall have registered to participate in the Challenge under the rules promulgated by HHS as published in this announcement; 
-   b. Shall have complied with all the requirements set forth in this announcement; 
-   c. In the case of a private entity, shall be incorporated in and maintain a primary place of business in the United States, and in the case of an individual, whether participating singly or in a group, shall be a citizen or permanent resident of the United States. 
-   d. May not be a Federal entity or Federal employee acting within the scope of their employment; 
-   e. May not be a Federal employee of the Department of Health and Human Services) (or any other component of HHS) acting in their personal capacity; 
-   f. Who is employed by a Federal agency or entity other than HHS (or any component of HHS), should consult with an agency Ethics Official to determine whether the Federal ethics rules will limit or prohibit the acceptance of a prize under this Challenge;
-   g. May not be a judge of the Challenge, or any other party involved with the design, production, execution, or distribution of the Challenge or the immediate family of such a party (i.e., spouse, parent, step-parent, child, or step-child). 
+
+   * Shall have registered to participate in the Challenge under the rules promulgated by HHS as published in this announcement; 
+   * Shall have complied with all the requirements set forth in this announcement; 
+   * In the case of a private entity, shall be incorporated in and maintain a primary place of business in the United States, and in the case of an individual, whether participating singly or in a group, shall be a citizen or permanent resident of the United States. 
+   * May not be a Federal entity or Federal employee acting within the scope of their employment; 
+   * May not be a Federal employee of the Department of Health and Human Services) (or any other component of HHS) acting in their personal capacity; 
+   * Who is employed by a Federal agency or entity other than HHS (or any component of HHS), should consult with an agency Ethics Official to determine whether the Federal ethics rules will limit or prohibit the acceptance of a prize under this Challenge;
+   * May not be a judge of the Challenge, or any other party involved with the design, production, execution, or distribution of the Challenge or the immediate family of such a party (i.e., spouse, parent, step-parent, child, or step-child). 
 2. Federal grantees may not use Federal funds to develop their Challenge submissions unless use of such funds is consistent with the purpose of their grant award and specifically requested to do so due to the Challenge design as described in this announcement. Federal grantees who use Federal funds to develop their Challenge submissions must also obtain written prior approval from the appropriate grants management or program officer and provide documentation of prior approval upon request by HHS. 
 3. Federal contractors may not use Federal funds from a contract to develop their Challenge submissions or to fund efforts in support of their Challenge submissions. 
 4. Submissions must not infringe upon any copyright or any other rights of any third party. 
@@ -432,6 +435,7 @@ The Award Approving Official will be the Deputy Assistant Secretary for Women’
 **Judging Criteria**
 
 **Phase 1 Scoring Criteria (Identification of innovative programs)**
+
 All Criteria are scaled 1-10, with 1 being the lowest score on each dimension and 10 being the highest score on each dimension. Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase 1 include (Total Points 100%):
 
 * Demonstrated understanding of EDCs that have the greatest impact on Black or African American women across the life course, including but not limited to quantitative and/or qualitative research: (25%) 
@@ -466,12 +470,12 @@ Questions concerning this competition should be sent by email to [EDCChallenge@h
 
 **Phase 1: Identification of innovative programs**
 
-Submissions for Phase 1 of this competition are due by November 15, 2021 at 11:59 pm EST. The identified Official Representative (individual, team or legal entity) may apply for this competition by submitting an application by email to EDCChallenge@hhs.gov. The application for Phase 1 of the competition shall meet the following requirements:
+Submissions for Phase 1 of this competition are due by November 15, 2021 at 11:59 pm EST. The identified Official Representative (individual, team or legal entity) may apply for this competition by submitting an application by email to [EDCChallenge@hhs.gov](mailto:EDCChallenge@hhs.gov). The application for Phase 1 of the competition shall meet the following requirements:
 
 1. Entries must consist of PDF files with font size no smaller than 11-point Arial.
 2. All submissions must be in English.
 3. Participants must not use HHS or other government logos or official seals in the submissions and must not otherwise give an appearance of Federal government endorsement.
-4. Submission details should be sent to EDCChallenge@hhs.gov:
+4. Submission details should be sent to [EDCChallenge@hhs.gov](mailto:EDCChallenge@hhs.gov):
 
    * Title the email subject line “Submission - Reducing AA Women EDCs Exposure Risk.”
    * Email sender (person and email address) must be the Official Representative/person of contact for the team.
