@@ -1,6 +1,6 @@
 ---
 title: "Taking Action: COVID-19 Diversity, Equity, & Inclusion Challenge"
-challenge-title: Taking Action COVID 19 Diversity Equity Inclusion Challenge
+challenge-title: "Taking Action: COVID-19 Diversity, Equity, & Inclusion Challenge"
 layout: front-matter-data-markdownify-content
 permalink: /challenge/taking-action-covid-19-diversity-equity-inclusion-challenge/
 challenge-id: "1287"
