@@ -4,7 +4,7 @@ challenge-title: xTechHBCU
 layout: front-matter-data-markdownify-content
 permalink: /challenge/xTechHBCU/
 challenge-id: "1270"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/xtechhbcu_challenge.png
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
@@ -21,7 +21,7 @@ type-of-challenge:
   - Analytics, visualizations, algorithms
   - Scientific
 submission-start: 2021/08/10 12:00 AM
-submission-end: 2021/10/01 05:00 PM
+submission-end: 10/01/2021 05:00 PM
 fiscal-year: FY21
 legal-authority: Agency specific prize authority
 challenge-manager: Zeke Topolosky (for internal use only), Alex Mann

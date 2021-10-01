@@ -6,7 +6,7 @@ challenge-title: "First Responder UAS Triple Challenge 3.3: Shields Up! Securing
 layout: front-matter-data-markdownify-content
 permalink: /challenge/first-responder-uas-triple-challenge-shieldsup/
 challenge-id: "1252"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/shields-up-logo_orange_resized.png
 agency-logo: /assets/netlify-uploads/nist_logo.png
@@ -18,7 +18,7 @@ total-prize-offered-cash: $200,000
 type-of-challenge:
   - Technology demonstration and hardware
 submission-start: 2021/08/02 9:00 AM
-submission-end: 2021/09/30 9:00 PM
+submission-end: 09/30/2021 9:00 PM
 fiscal-year: FY21
 legal-authority: America COMPETES Act
 challenge-manager: Terese Manley
