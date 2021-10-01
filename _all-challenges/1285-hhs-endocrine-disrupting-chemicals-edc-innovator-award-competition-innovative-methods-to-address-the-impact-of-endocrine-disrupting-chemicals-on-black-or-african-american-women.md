@@ -358,6 +358,7 @@ There are significant health disparities among women impacted by EDCs.<sup>3</su
 Many racial and ethnic disparities in health can be traced to the cumulative effect of higher levels of exposure in racial/ethnic minorities, in combination with disparities in the availability of resources considered to be protective factors, such as green spaces or healthy food options.<sup>9</sup> OWH is committed to advancing health equity by addressing gaps in knowledge of EDC risks and providing solutions to reduce EDC exposure risks on Black or African American women.
 
 **Purpose**
+
 OWH is creating a national competition to identify innovative programs that address gaps in knowledge and provide solutions to reduce EDC exposure risk for people at risk of EDC exposure where the programs could be or are already applied to Black or African American women.   The goal of this competition is to identify and fund programs that demonstrate effectiveness, sustainability, and the ability to replicate and/or expand interventions that address gaps in knowledge and provide solutions to reduce EDC exposure risk for Black or African American women.
 
 **Subject and Scope of Prize Competition**
