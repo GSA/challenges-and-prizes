@@ -349,7 +349,7 @@ how-to-enter: >-
 
 ***Congratulations to the Synthetic Health Data Challenge Winners!***
 
-ONC is pleased to announce the Synthetic Health Data Challenge Winning Solutions! [Register now](https://govhealth.zoom.us/webinar/register/WN_N4scGKbBTdid4_V0y5zxIQ)  for the October 19, 2021 Winning Solutions Webinar featuring the Challenge Winners and their innovative solutions [(download agenda)]({{site.baseurl}}https://www.challenge.gov/assets/netlify-uploads/20211019_synthetic-health-data-winning-solutions-webinar-agenda_508.pdf). 
+ONC is pleased to announce the Synthetic Health Data Challenge Winning Solutions! [Register now](https://govhealth.zoom.us/webinar/register/WN_N4scGKbBTdid4_V0y5zxIQ)  for the October 19, 2021 Winning Solutions Webinar featuring the Challenge Winners and their innovative solutions [(download agenda)]({{site.baseurl}}/assets/netlify-uploads/20211019_synthetic-health-data-winning-solutions-webinar-agenda_508.pdf). 
 
 **1st Place Winner – $40,000 Award**
 
