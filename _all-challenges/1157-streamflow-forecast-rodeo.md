@@ -4,7 +4,7 @@ challenge-title: Streamflow Forecast Rodeo
 layout: front-matter-data-markdownify-content
 permalink: /challenge/streamflow-forecast-rodeo/
 challenge-id: "1157"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/big-thompson-r-estes-park-co_usbr-logo-.jpg
 agency-logo: /assets/netlify-uploads/usbr.jpg
@@ -18,7 +18,7 @@ total-prize-offered-cash: $500,000
 type-of-challenge:
   - Analytics, visualizations, algorithms
 submission-start: 2020/08/28 09:00 PM
-submission-end: 2021/09/30 09:00 PM
+submission-end: 09/30/2021 09:00 PM
 fiscal-year: FY20, FY21
 legal-authority: Procurement Authority
 challenge-manager: Jennifer Beardsley
