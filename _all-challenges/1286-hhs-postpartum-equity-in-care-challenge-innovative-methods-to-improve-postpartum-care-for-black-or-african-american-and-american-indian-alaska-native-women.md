@@ -80,14 +80,18 @@ description: >-
 
   **Phase 1:** Identification of successful programs
 
+
   **Submission period begins:** September 30, 2021, 8:00 a.m. EST.
+
 
   **Submission deadline:** Phase 1 submissions are due by December 17, 2021, 5:00 p.m. EST.
 
 
   **Phase 2:** Awarding programs that have successfully replicated and/or expanded.
 
+
   **Submission period begins:** September 16, 2022.
+
 
   **Submission deadline:** December 16, 2022, 5:00 p.m. EST.
 
@@ -100,11 +104,15 @@ description: >-
 
   <sup>1</sup><https://www.cdc.gov/reproductivehealth/maternal-mortality/disparities-pregnancy-related-deaths/infographic.html>; <https://www.cdc.gov/reproductivehealth/maternal-mortality/pregnancy-mortality-surveillance-system.htm#race-ethnicity> 
 
+
   <sup>2</sup><https://www.medicaid.gov/medicaid/quality-of-care/downloads/mih-expert-workgroup-recommendations.pdf>, pg. 12; <https://www.cdc.gov/vitalsigns/maternal-deaths/index.html>
+
 
   <sup>3</sup><https://www.medicaid.gov/medicaid/quality-of-care/downloads/mih-expert-workgroup-recommendations.pdf>, pg. 15
 
+
   <sup>4</sup><https://www.medicaid.gov/medicaid/quality-of-care/downloads/mih-beneficiary-profile.pdf> (Slide 64);  <https://www.cdc.gov/mmwr/volumes/69/wr/mm6919a2.htm?s_cid=mm6919a2_w>
+
 
   <sup>5</sup>Azeez O, Kulkarni A, Kuklina EV, Kim SY, Cox S. Hypertension and Diabetes in Non-Pregnant Women of Reproductive Age in the United States. Prev Chronic Dis. 2019;16:E146-E146.
 prizes: >-
@@ -322,11 +330,15 @@ Phase 2 builds upon the work of Phase 1. Part of the scoring criteria for Phase 
 **Key Dates**
 
 **Phase 1:** Identification of successful programs
+
 **Submission period begins:** September 30, 2021, 8:00 a.m. EST.
+
 **Submission deadline:** Phase 1 submissions are due by December 17, 2021, 5:00 p.m. EST.
 
 **Phase 2:** Awarding programs that have successfully replicated and/or expanded.
+
 **Submission period begins:** September 16, 2022.
+
 **Submission deadline:** December 16, 2022, 5:00 p.m. EST.
 
 # Prizes
@@ -473,7 +485,11 @@ Phase 2 submissions should be 5 pages or less.
 **Footnotes**
 
 <sup>1</sup><https://www.cdc.gov/reproductivehealth/maternal-mortality/disparities-pregnancy-related-deaths/infographic.html>; <https://www.cdc.gov/reproductivehealth/maternal-mortality/pregnancy-mortality-surveillance-system.htm#race-ethnicity> 
+
 <sup>2</sup><https://www.medicaid.gov/medicaid/quality-of-care/downloads/mih-expert-workgroup-recommendations.pdf>, pg. 12; <https://www.cdc.gov/vitalsigns/maternal-deaths/index.html>
+
 <sup>3</sup><https://www.medicaid.gov/medicaid/quality-of-care/downloads/mih-expert-workgroup-recommendations.pdf>, pg. 15
+
 <sup>4</sup><https://www.medicaid.gov/medicaid/quality-of-care/downloads/mih-beneficiary-profile.pdf> (Slide 64);  <https://www.cdc.gov/mmwr/volumes/69/wr/mm6919a2.htm?s_cid=mm6919a2_w>
+
 <sup>5</sup>Azeez O, Kulkarni A, Kuklina EV, Kim SY, Cox S. Hypertension and Diabetes in Non-Pregnant Women of Reproductive Age in the United States. Prev Chronic Dis. 2019;16:E146-E146.
