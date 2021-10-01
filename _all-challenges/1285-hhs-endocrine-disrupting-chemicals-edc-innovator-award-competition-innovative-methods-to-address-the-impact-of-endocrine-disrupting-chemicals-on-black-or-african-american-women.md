@@ -2,9 +2,9 @@
 title: "HHS Endocrine-Disrupting Chemicals (EDC) Innovator Award Competition:
   Innovative Methods to Address the Impact of Endocrine-Disrupting Chemicals on
   Black or African American Women"
-challenge-title: HHS Endocrine-Disrupting Chemicals EDC Innovator Award
-  Competition Innovative Methods to Address the Impact of Endocrine-Disrupting
-  Chemicals on Black or African American Women
+challenge-title: "HHS Endocrine-Disrupting Chemicals (EDC) Innovator Award
+  Competition: Innovative Methods to Address the Impact of Endocrine-Disrupting
+  Chemicals on Black or African American Women"
 layout: front-matter-data-markdownify-content
 permalink: /challenge/hhs-endocrine-disrupting-chemicals-innovator-award-competition/
 challenge-id: "1285"
