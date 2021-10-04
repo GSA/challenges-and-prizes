@@ -55,17 +55,17 @@
 <script id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency={{site.dap_agency}}"></script>
 
 {% if site.branch == "master" %}
-  <link rel="stylesheet" href="https://challenge.portal.gov/css/public.css" crossorigin="anonymous">
-  <script type="text/javascript" src="https://challenge.portal.gov/js/public.js"></script>
-  <script type="text/javascript" src="https://challenge.portal.gov/js/client.js"></script>
+  <link rel="stylesheet" href="https://portal.challenge.gov/css/public.css" crossorigin="anonymous">
+  <script type="text/javascript" src="https://portal.challenge.gov/js/public.js"></script>
+  <script type="text/javascript" src="https://portal.challenge.gov/js/client.js"></script>
 {% elsif site.branch == "staging" %}
   <link rel="stylesheet" href="https://challenge-portal-staging.app.cloud.gov/css/public.css" crossorigin="anonymous">
   <script type="text/javascript" src="https://challenge-portal-staging.app.cloud.gov/js/public.js"></script>
   <script type="text/javascript" src="https://challenge-portal-staging.app.cloud.gov/js/client.js"></script>
-{% elsif site.branch == "" %}
-  <link rel="stylesheet" href="http://localhost:4001/css/public.css" crossorigin="anonymous">
-  <script type="text/javascript" src="http://localhost:4001/js/public.js"></script>
-  <script type="text/javascript" src="http://localhost:4001/js/client.js"></script>
+{% elsif jekyll.environment == "dev" %}
+  <link rel="stylesheet" href="http://localhost:4000/css/public.css" crossorigin="anonymous">
+  <script type="text/javascript" src="http://localhost:4000/js/public.js"></script>
+  <script type="text/javascript" src="http://localhost:4000/js/client.js"></script>
 {% else %}
   <link rel="stylesheet" href="https://challenge-portal-dev.app.cloud.gov/css/public.css" crossorigin="anonymous">
   <script type="text/javascript" src="https://challenge-portal-dev.app.cloud.gov/js/public.js"></script>
