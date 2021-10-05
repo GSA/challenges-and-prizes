@@ -36,7 +36,7 @@ TYPE OF CHALLENGE: Automated Scoring of Open Ended Reading Test Items
 
 **Additional Challenge Information**
 
-* All participants must confirm that they are able to meet NCES Confidential Data security requirements and complete the required documentation (available in the Github repository as "[application_documents.zip](https://github.com/NAEP-AS-Challenge/info/blob/b0585dd8a4e553b8a0b7fb038ac9d7232854432e/application_documents.zip)" before they will be provided access to the response data, to ensure the confidentiality of student responses.
+* All participants must confirm that they are able to meet NCES Confidential Data security requirements and complete the required documentation (available in the Github repository as "[application_documents.zip](https://github.com/NAEP-AS-Challenge/info/blob/main/application_documents.zip)" before they will be provided access to the response data, to ensure the confidentiality of student responses.
 * A webinar will held on 10/4/2021 @ 12:00 ET to describe the challenge and answer any questions that potential participants may have. To register for the RFI, please email [automated-scoring-challenge@ed.gov](<mailto: automated-scoring-challenge@ed.gov>) to join the meeting. Questions may also be sent via Github "issues" or via email to [automated-scoring-challenge@ed.gov](mailto:automated-scoring-challenge@ed.gov).
 * Applications to participate must be submitted by 10/20/21, and will be processed (and data access provided) as they are received. Responses must be submitted by 11/28/21. 
 
