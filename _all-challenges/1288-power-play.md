@@ -8,7 +8,8 @@ status: open
 sidenav: false
 card-image: /assets/netlify-uploads/website_powerplay_lr-2-.jpg
 agency-logo: /assets/netlify-uploads/dod_seal.jpg
-tagline: Electrifying operations on the edge.
+tagline: Develop concepts, technologies, or systems to efficiently provide,
+  store, or consume energy in an expeditionary environment.
 agency: National Security Innovation Network (NSIN)
 partner-agencies-federal: Army Research Lab; Army Applications Lab
 partners-non-federal: UC Berkeley; University of Washington; Arizona State
