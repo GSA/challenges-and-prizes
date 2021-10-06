@@ -4,7 +4,7 @@ challenge-title: American-Made Solar Prize Round 5
 layout: front-matter-data-markdownify-content
 permalink: /challenge/american-made-solar-prize-round-5/
 challenge-id: "1257"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/r5_general_hero-image.png
 agency-logo: /assets/netlify-uploads/256px-Seal_of_the_United_States_Department_of_Energy.png
@@ -23,7 +23,7 @@ type-of-challenge:
   - Analytics, visualizations, algorithms
   - Scientific
 submission-start: 2021/06/10 3:00 PM
-submission-end: 2021/10/05 5:00 PM
+submission-end: 10/05/2021 5:00 PM
 fiscal-year: FY21, FY22
 legal-authority: America COMPETES Act
 challenge-manager: Sarah Gomach
