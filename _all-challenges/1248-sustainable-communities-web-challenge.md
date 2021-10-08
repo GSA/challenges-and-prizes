@@ -4,7 +4,7 @@ challenge-title: Sustainable Communities Web Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/sustainable-communities-web-challenge/
 challenge-id: "1248"
-status: open
+status: closed
 sidenav: false
 card-image: /assets/netlify-uploads/thumbnail_challengebackground341x160.png
 agency-logo: /assets/netlify-uploads/256px-Environmental_Protection_Agency_logo.png
@@ -19,7 +19,7 @@ type-of-challenge:
   - Creative (multimedia & design)
   - Analytics, visualizations, algorithms
 submission-start: 2021/06/21 12:01 AM
-submission-end: 2021/10/02 4:00 PM
+submission-end: 10/02/2021 4:00 PM
 fiscal-year: FY21, FY22
 legal-authority: America COMPETES Act
 challenge-manager: Wesley Ingwersen

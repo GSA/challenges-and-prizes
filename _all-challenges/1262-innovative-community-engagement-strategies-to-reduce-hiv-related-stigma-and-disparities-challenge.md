@@ -5,7 +5,7 @@ challenge-title: "Innovative Community Engagement Strategies to Reduce
 layout: front-matter-data-markdownify-content
 permalink: /challenge/reduce-HIV-related-stigma/
 challenge-id: "1262"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/hiv-challenge_infocards_website-preview.png
 agency-logo: /assets/netlify-uploads/hhs.png
@@ -20,8 +20,8 @@ type-of-challenge:
   - Software and apps
   - Creative (multimedia & design)
   - Technology demonstration and hardware
-submission-start: 2021/07/26 8:00 AM
-submission-end: 2021/09/23 11:59 PM
+submission-start: 07/26/2021 8:00 AM
+submission-end: 09/23/2021 11:59 PM
 fiscal-year: FY21
 legal-authority: America COMPETES Act
 challenge-manager: Joya Chowdury

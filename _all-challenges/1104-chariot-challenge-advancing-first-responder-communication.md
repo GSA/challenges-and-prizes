@@ -27,7 +27,7 @@ legal-authority: America COMPETES Act
 challenge-manager: Sarah Hughes
 challenge-manager-email: sarah.hughes@nist.gov
 point-of-contact: psprizes@nist.gov
-body-content-uploads: /assets/netlify-uploads/chariot-table.png
+body-content-uploads: /assets/netlify-uploads/final-4-winners-table-1.jpg
 description: >-
   The CHARIoT Challenge is a dual track competition covering an Augmented
   Reality Contest and an Internet of Things-based Contest.
@@ -169,9 +169,31 @@ how-to-enter: >-
 
   **Submission URL**: [www.chariotchallenge.com](https://www.chariotchallenge.com) launched March 11, 2020.
 ---
-**NOTE:** This challenge is no longer accepting new submissions. For the finalists, their submission for the last phase of the CHARIoT Challenge will be on November 16, 2020.
+**NOTE:** This challenge is no longer accepting new submissions. 
 
-### Description
+# Description
+
+**CONGRATULATIONS TO OUR FINAL WINNERS!** For more information, visit the Challenge website on [PSCR.gov](https://www.nist.gov/ctl/pscr), and for any questions related to this Challenge, email us at [psprizes@nist.gov](mailto:psprizes@nist.gov).
+
+**Emulate Smart City Data for Disaster Scenarios Contest**
+
+**Final Winners of Phase 4 Announced!**
+
+![Emulate Smart City Data for Disaster Final Winners]({{site.baseurl}}/assets/netlify-uploads/final-4-winners-table-1.jpg "Emulate Smart City Data for Disaster Final Winners")
+
+Best in Class Winners
+
+![Emulate Smart City Data for Disaster Best in Class Winners]({{site.baseurl}}/assets/netlify-uploads/chariot-best-in-class-table-1.jpg "Emulate Smart City Data for Disaster Best in Class Winners")
+
+**Build Augmented Reality Interfaces for First Responders Contest**
+
+**Final Winners of Phase 4 Announced!**
+
+![Build Augmented Reality Interfaces for First Responders Final Winners]({{site.baseurl}}/assets/netlify-uploads/augmented-reality-table-2.jpg "Build Augmented Reality Interfaces for First Responders Final Winners")
+
+Best in Class Winners
+
+![Build Augmented Reality Interfaces for First Responders Best in Class]({{site.baseurl}}/assets/netlify-uploads/chariot-best-in-claass-table-2-edit.jpg "Build Augmented Reality Interfaces for First Responders Best in Class")
 
 The CHARIoT Challenge is a dual track competition covering an Augmented Reality Contest and an Internet of Things-based Contest.
 

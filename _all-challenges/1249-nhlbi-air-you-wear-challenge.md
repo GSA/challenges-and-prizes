@@ -4,7 +4,7 @@ challenge-title: NHLBI Air You Wear Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/air-you-wear-challenge/
 challenge-id: "1249"
-status: open
+status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/nih-nhlbi-logo_resized-for-tile.jpg
 agency-logo: /assets/netlify-uploads/nih_nhlbi_stacked_sig_logo_cmyk.jpg
@@ -18,7 +18,7 @@ type-of-challenge:
   - Technology demonstration and hardware
   - Scientific
 submission-start: 2021/06/24 7:00 AM
-submission-end: 2021/09/30 5:00 PM
+submission-end: 09/30/2021 5:00 PM
 fiscal-year: FY21, FY22
 legal-authority: America COMPETES Act
 challenge-manager: Laura Hsu, DrPH, MPH

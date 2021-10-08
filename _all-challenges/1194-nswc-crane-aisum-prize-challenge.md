@@ -33,18 +33,39 @@ description: >-
   See the Prizes Section (Total Cash Prize Pool and Prize Breakdown) below for the total prize purse increase and further detailed prize breakdown information. See the Judging Section (Judging Criteria) below for further detailed judging criteria for Phase II II and Phase III.
 
 
-  The following five (5) participants were selected to participate in Phase III – Live Event at Muscatatuck for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant names are listed in the order of highest to lowest scoring at the conclusion of Phase II:
+  The following six (6) participants were selected to participate in Phase III – Live Event at Muscatatuck for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant names are listed in the order of highest to lowest scoring for each scenario at the conclusion of Phase II:
+
+
+  Scenario 1:
+
+
+  1. Draper
+
+  2. EpiSys Science, Inc.
+
+  3. Raytheon BBN Technologies
+
+  4. Heron Systems Inc.
+
+  5. Codex Laboratories
+
+  6. TurbineOne, LLC
+
+
+  Scenario 2:
 
 
   1. EpiSys Science, Inc.
 
-  2. Heron Systems Inc.
+  2. Heron Systems, Inc.
 
-  3. Draper
+  3. Raytheon BBN Technologies
 
-  4. Raytheon BBN Technologies
+  4. Codex Laboratories
 
-  5. TurbineOne, LLC
+  5. Draper
+
+  6. TurbineOne, LLC
 
 
   The following seven (7) participants were selected to participate in Phase II – Virtual Vignettes for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant names are listed below in alphabetical order:
@@ -208,13 +229,28 @@ description: >-
   Up to 10 winners will be selected to participate in Phase III. 
 
 
-  Phase III participants will utilize their developed algorithms with the provided drone and compete in real life scenarios. Phase III participants will utilize their developed algorithms with the provided drone and compete in a real life scenarios within a hospital building at Muscatatuck Urban Training Center (MUTC).
+  Phase III participants will utilize their developed algorithms with the provided drone and compete in a real life scenario within a hospital building at Muscatatuck Urban Training Center (MUTC). During the real life scenario, the participants shall launch the drone from the Government defined entryway into a limited accessible area within the first floor of the building that may differ from the available virtual representation. The drone shall autonomously enter the building and collect the following information:
 
 
-  Instructions for Phase III live event include:
+  * Search and build a 2D floorplan of the accessible interior space.
+
+  * Detect and count the number of humans within the accessible space.
+
+  * Classify the humans within the accessible space as threats (holding brooms), or as civilians (empty hands).
+
+  * Detect and count the number of Objects of Interest which may represent a threat to the team.  The exact definition of the Object of Interest will be provided just prior to mission execution.
+
+  * Place the detected humans (threat/no-threat) and Objects of Interest in the correct locations on the 2D floorplan.
+
+  * Produce the 2D floorplan and object detection data in a usable format within 10 minutes of the UAS exiting the building.
 
 
-  * The specific entry location will be determined onsite, and may differ from the available virtual representations.
+  Each participant shall provide the following items to the Government at the conclusion of each participant’s Phase III scenario run:
+
+
+  * A participant developed log file in accordance with the provided Government template—contains detections of the Objects of Interest, classification/identifications, etc. The log file shall provide drone positions during the maneuver, identify collisions, and the specific time the drone detects Objects of Interest and Humans (to include identification of combatants or non-combatants). The log file shall contain clear information on the total number of humans detected, the total number of Objects of Interest, and the total number of Combatants and Civilians identified.
+
+  * A 2D floorplan of the mapped space, which includes icons/text for the location of Objects of Interest and Humans.
 
   * The UAS will be launched from the defined entryway.
 
@@ -316,7 +352,7 @@ prizes: >-
     ![Prize Breakdown Phase II Scenario 2]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-2-table_22jun2021.png "Prize Breakdown Phase II Scenario 2")
 
     The minimum threshold requirements will be set before the beginning of the virtual runs.
-  * Phase III – A prize purse up to $500,000 will be disbursed with disparity to the participants who score above the minimum threshold requirements in the live event in which their proposed solutions will integrate on the provided drones for time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion at the Muscatatuck Urban Training Center (MUTC).
+  * Phase III – A prize purse up to $500,000 will be disbursed with disparity to the participants in the live event in which their proposed solutions will integrate on the provided drones for time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion at the Muscatatuck Urban Training Center (MUTC).
 
      ![Phase 3 table]({{site.baseurl}}/assets/netlify-uploads/asium-crane-phase-3-table-15sep2021-1-.png "Phase 3")
   * There will be no minimum threshold requirements set for the Phase III live runs.
@@ -579,13 +615,25 @@ how-to-enter: >-
 
 See the Prizes Section (Total Cash Prize Pool and Prize Breakdown) below for the total prize purse increase and further detailed prize breakdown information. See the Judging Section (Judging Criteria) below for further detailed judging criteria for Phase II II and Phase III.
 
-The following five (5) participants were selected to participate in Phase III – Live Event at Muscatatuck for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant names are listed in the order of highest to lowest scoring at the conclusion of Phase II:
+The following six (6) participants were selected to participate in Phase III – Live Event at Muscatatuck for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant names are listed in the order of highest to lowest scoring for each scenario at the conclusion of Phase II:
+
+Scenario 1:
+
+1. Draper
+2. EpiSys Science, Inc.
+3. Raytheon BBN Technologies
+4. Heron Systems Inc.
+5. Codex Laboratories
+6. TurbineOne, LLC
+
+Scenario 2:
 
 1. EpiSys Science, Inc.
-2. Heron Systems Inc.
-3. Draper
-4. Raytheon BBN Technologies
-5. TurbineOne, LLC
+2. Heron Systems, Inc.
+3. Raytheon BBN Technologies
+4. Codex Laboratories
+5. Draper
+6. TurbineOne, LLC
 
 The following seven (7) participants were selected to participate in Phase II – Virtual Vignettes for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant names are listed below in alphabetical order:
 
@@ -681,21 +729,19 @@ GFP Includes:
 
 Up to 10 winners will be selected to participate in Phase III. 
 
-Phase III participants will utilize their developed algorithms with the provided drone and compete in real life scenarios. Phase III participants will utilize their developed algorithms with the provided drone and compete in a real life scenarios within a hospital building at Muscatatuck Urban Training Center (MUTC).
+Phase III participants will utilize their developed algorithms with the provided drone and compete in a real life scenario within a hospital building at Muscatatuck Urban Training Center (MUTC). During the real life scenario, the participants shall launch the drone from the Government defined entryway into a limited accessible area within the first floor of the building that may differ from the available virtual representation. The drone shall autonomously enter the building and collect the following information:
 
-Instructions for Phase III live event include:
+* Search and build a 2D floorplan of the accessible interior space.
+* Detect and count the number of humans within the accessible space.
+* Classify the humans within the accessible space as threats (holding brooms), or as civilians (empty hands).
+* Detect and count the number of Objects of Interest which may represent a threat to the team.  The exact definition of the Object of Interest will be provided just prior to mission execution.
+* Place the detected humans (threat/no-threat) and Objects of Interest in the correct locations on the 2D floorplan.
+* Produce the 2D floorplan and object detection data in a usable format within 10 minutes of the UAS exiting the building.
 
-* The specific entry location will be determined onsite, and may differ from the available virtual representations.
-* The UAS will be launched from the defined entryway.
-* The UAS is limited to an accessible area within the first floor of the building, which may be less than the available virtual representation.
-* The UAS will enter the building autonomously and assist operators by collecting the following information:
+Each participant shall provide the following items to the Government at the conclusion of each participant’s Phase III scenario run:
 
-  * Search and build a 2D floorplan of the accessible interior space.
-  * Detect and count the number of humans within the accessible space.
-  * Classify the humans within the accessible space as threats (holding brooms), or as civilians (empty hands).
-  * Detect and count the number of Objects of Interest which may represent a threat to the team.  The exact definition of the Object of Interest will be provided just prior to mission execution.
-  * Place the detected humans (threat/no-threat) and Objects of Interest in the correct locations on the 2D floorplan.
-  * Produce the 2D floorplan and object detection data in a usable format within 10 minutes of the UAS exiting the building.
+* A participant developed log file in accordance with the provided Government template—contains detections of the Objects of Interest, classification/identifications, etc. The log file shall provide drone positions during the maneuver, identify collisions, and the specific time the drone detects Objects of Interest and Humans (to include identification of combatants or non-combatants). The log file shall contain clear information on the total number of humans detected, the total number of Objects of Interest, and the total number of Combatants and Civilians identified.
+* A 2D floorplan of the mapped space, which includes icons/text for the location of Objects of Interest and Humans.
 * GFP will consist of stretch X drone, onboard processing, frontal camera, and optical avoidance sensors 
 * Operation in a Non-GPS environment and an autonomous flight mode
 
@@ -758,7 +804,10 @@ The total prize purse is increased to $750,000. The Government reserves the righ
   ![Prize Breakdown Phase II Scenario 2]({{site.baseurl}}/assets/netlify-uploads/asium-crane-scenario-2-table_22jun2021.png "Prize Breakdown Phase II Scenario 2")
 
   The minimum threshold requirements will be set before the beginning of the virtual runs.
-* Phase III – A prize purse up to $500,000 will be disbursed with disparity to the participants who score above the minimum threshold requirements in the live event in which their proposed solutions will integrate on the provided drones for time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion at the Muscatatuck Urban Training Center (MUTC).
+* Phase III – A prize purse up to $500,000 will be disbursed with disparity to the participants in the live event in which their proposed solutions will integrate on the provided drones for time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion at the Muscatatuck Urban Training Center (MUTC).
+
+  ![Phase 3 table]({{site.baseurl}}/assets/netlify-uploads/asium-crane-phase-3-table-15sep2021-1-.png "Phase 3")
+* There will be no minimum threshold requirements set for the Phase III live runs.
 
   ![Phase 3 table]({{site.baseurl}}/assets/netlify-uploads/asium-crane-phase-3-table-15sep2021-1-.png "Phase 3")
 * There will be no minimum threshold requirements set for the Phase III live runs.

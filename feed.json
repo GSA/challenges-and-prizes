@@ -12,7 +12,7 @@ permalink: /feed-open.json
     "_challenge": [{%- for item in open_challenges -%} 
         {
             "challenge-id": "{{ item.challenge-id}}",
-            "challenge-title": "{{ item.challenge-title }}",
+            "challenge-title": {{ item.challenge-title | jsonify }},
             "permalink": "{{ site.url }}{{ item.permalink }}",
             "external-url": "{{ item.external-url }}",
             "card-image": "{{ site.url }}{{ item.card-image }}",
