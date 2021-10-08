@@ -5,7 +5,7 @@ challenge-title: Mobilizing and Empowering the Nation and Technology to Address
   Loneliness & social isolation (MENTAL) Health Innovation Challenge
 layout: front-matter-data-markdownify-content
 permalink: /challenge/MENTAL-health-social-isolation-challenge/
-challenge-id: "1155"
+challenge-id: "1134"
 status: closed
 sidenav: true
 card-image: /assets/netlify-uploads/mhc_challengegov_2.jpg
