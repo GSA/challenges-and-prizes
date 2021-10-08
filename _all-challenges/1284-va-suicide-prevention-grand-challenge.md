@@ -26,7 +26,7 @@ fiscal-year: FY21, FY22
 legal-authority: America COMPETES Act
 challenge-manager: "Aimee Johnson "
 challenge-manager-email: Aimee.Johnson@va.gov
-point-of-contact: Kit.Teague@va.gov
+point-of-contact: bsinger@capconcorp.com
 description: >-
   **We are seeking bold innovations to save lives and reduce Veteran suicide by
   at least 10%.** Recognizing that there are other entities, including but not
