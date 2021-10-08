@@ -28,6 +28,14 @@ challenge-manager-email: "Drew.a.zachary@census.gov; Dominica.zhu@census.gov "
 point-of-contact: "TOPprize@census.gov "
 body-content-uploads: /assets/netlify-uploads/epa-seal_for-census-challenge.png
 description: >-
+  **\*\* IMPORTANT UPDATE\*\***
+
+
+  * The Open Data for Good Grand Challenge held an open Q&A and informational webinar on Wednesday, October 6. [Download the recording](https://drive.google.com/file/d/1blb_ksmoksxWJaj0IQu1WZ0MArlJx-Fh/view?usp=sharing).
+
+  * View the final [scoring rubric](https://docs.google.com/document/d/1kK2WKr0x6lsjspRkXAYWTe_PIC7OGk7mrweggfpGT8w/edit?usp=sharing) for the prize.
+
+
   #### Key Dates
 
 
@@ -137,13 +145,23 @@ prizes: >-
   * One (1) Student prize (*\*student teams also eligible for grand prize and runner up; student prize only open to those who can demonstrate student status*): **$10,000**
 
 
-  ***Health & COVID-19*** 
+  HHS will award **up to 5 prizes of $20,000** each in the Health and COVID-19 category, for exceptional digital tools related to the pandemic and public health.  The Open Data for Good Grand Challenge is the third phase in the COVID-19 Data-Driven Innovation series with HHS. Phase 1 began in January 2020 with a virtual innovation sprint– the [COVID-19 At-Anywhere Diagnostics “Design-a-thon](https://waters.crowdicity.com/hubbub/communitypage/22469),” and phase 2 continued with the [COVID-19 TOPx tech sprint](https://waters.crowdicity.com/hubbub/communitypage/22483).  You can view demos of the resulting products on the [HHS crowdsourcing platform for open innovation](https://waters.crowdicity.com/). 
 
 
-  * A total of $100,000 will be awarded by the U.S. Department of Health and Human Services, across 5 prizes of $20,000 each, to exceptional digital products that focus on challenges like helping state and local public health authorities track and understand disease transmission, helping stakeholders make key operational decisions, and helping consumers and businesses manage testing data. S
+  This category is intentionally broad, but HHS is especially interested in digital tools that will help to ingest, harmonize, report, or analyze COVID-19 diagnostic data – including at-home testing results. For example, products might focus on:
 
 
-  ***Potential additional prizes (may be combined with monetary prizes)***
+  * **State and Local Solutions:** Help state and local public health authorities track and understand the virus in populations and communities.
+
+  * **Community Innovation:** Help patients, caregivers, and other stakeholders outside of healthcare make key operational decisions related to COVID-19. 
+
+  * **Non-Laboratory Testing Data:** Help consumers and businesses track testing data from tests outside of lab settings such as in schools, nursing homes, at home, and in other non-lab based settings.
+
+
+  HHS encourages any eligible team to apply - whether COVID-19 Design-a-thon or COVID-19 TOPx teams, or other teams who are embracing the user-centered, agile methods of TOP for the first time.
+
+
+  ***Additional prizes (may be combined with monetary prizes)***
 
 
   Several partner organizations that offer in kind prizes, as described below.  Applicants in any category are eligible to be considered for non-monetary/in-kind prizes.  You must opt into in-kind prize consideration when you enter.  Please be advised that opting-in to consideration for in-kind prizes may require additional information about your organization.  Please check regularly for updates regarding additional in-kind prizes. 
@@ -390,6 +408,11 @@ how-to-enter: >-
 ---
 ### Description
 
+**\*\* IMPORTANT UPDATE\*\***
+
+* The Open Data for Good Grand Challenge held an open Q&A and informational webinar on Wednesday, October 6. [Download the recording](https://drive.google.com/file/d/1blb_ksmoksxWJaj0IQu1WZ0MArlJx-Fh/view?usp=sharing).
+* View the final [scoring rubric](https://docs.google.com/document/d/1kK2WKr0x6lsjspRkXAYWTe_PIC7OGk7mrweggfpGT8w/edit?usp=sharing) for the prize.
+
 #### Key Dates
 
 * September 13: Submission window opens
@@ -465,9 +488,17 @@ A total of $50,0000 will be awarded by the U.S. Census Bureau to exceptional dig
 
 ***Health & COVID-19*** 
 
-* A total of $100,000 will be awarded by the U.S. Department of Health and Human Services, across 5 prizes of $20,000 each, to exceptional digital products that focus on challenges like helping state and local public health authorities track and understand disease transmission, helping stakeholders make key operational decisions, and helping consumers and businesses manage testing data. 
+HHS will award **up to 5 prizes of $20,000** each in the Health and COVID-19 category, for exceptional digital tools related to the pandemic and public health.  The Open Data for Good Grand Challenge is the third phase in the COVID-19 Data-Driven Innovation series with HHS. Phase 1 began in January 2020 with a virtual innovation sprint– the [COVID-19 At-Anywhere Diagnostics “Design-a-thon](https://waters.crowdicity.com/hubbub/communitypage/22469),” and phase 2 continued with the [COVID-19 TOPx tech sprint](https://waters.crowdicity.com/hubbub/communitypage/22483).  You can view demos of the resulting products on the [HHS crowdsourcing platform for open innovation](https://waters.crowdicity.com/). 
 
-***Potential additional prizes (may be combined with monetary prizes)***
+This category is intentionally broad, but HHS is especially interested in digital tools that will help to ingest, harmonize, report, or analyze COVID-19 diagnostic data – including at-home testing results. For example, products might focus on:
+
+* **State and Local Solutions:** Help state and local public health authorities track and understand the virus in populations and communities.
+* **Community Innovation:** Help patients, caregivers, and other stakeholders outside of healthcare make key operational decisions related to COVID-19. 
+* **Non-Laboratory Testing Data:** Help consumers and businesses track testing data from tests outside of lab settings such as in schools, nursing homes, at home, and in other non-lab based settings.
+
+HHS encourages any eligible team to apply - whether COVID-19 Design-a-thon or COVID-19 TOPx teams, or other teams who are embracing the user-centered, agile methods of TOP for the first time.
+
+***Additional prizes (may be combined with monetary prizes)***
 
 Several partner organizations that offer in kind prizes, as described below.  Applicants in any category are eligible to be considered for non-monetary/in-kind prizes.  You must opt into in-kind prize consideration when you enter.  Please be advised that opting-in to consideration for in-kind prizes may require additional information about your organization.  Please check regularly for updates regarding additional in-kind prizes. 
 
