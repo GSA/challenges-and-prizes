@@ -3,11 +3,11 @@ permalink: /challenges
 layout: main
 ---
 {% if site.branch == "master" %}
-    <div id="challenge-gov-react-app" data-api-url="https://portal.challenge.gov"></div>
+    <div id="challenge-gov-react-app" data-api-url="https://portal.challenge.gov" data-public-url="{{ site.baseurl }}"></div>
 {% elsif site.branch == "staging" %}
-    <div id="challenge-gov-react-app" data-api-url="https://challenge-portal-staging.app.cloud.gov"></div>
+    <div id="challenge-gov-react-app" data-api-url="https://challenge-portal-staging.app.cloud.gov" data-public-url="{{ site.baseurl }}"></div>
 {% elsif jekyll.environment == "dev" %}
-    <div id="challenge-gov-react-app" data-api-url="http://localhost:4000" data-image-base="http://localhost:4000"></div>
+    <div id="challenge-gov-react-app" data-api-url="http://localhost:4000" data-image-base="http://localhost:4000" data-public-url="http://localhost:4001"></div>
 {% else %}
-    <div id="challenge-gov-react-app" data-api-url="https://challenge-portal-dev.app.cloud.gov"></div>
+    <div id="challenge-gov-react-app" data-api-url="https://challenge-portal-dev.app.cloud.gov" data-public-url="{{ site.baseurl }}"></div>
 {% endif %}
