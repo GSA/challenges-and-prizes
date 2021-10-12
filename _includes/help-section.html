@@ -28,8 +28,10 @@
           {% if site.branch == "master" %}
             <a class="usa-button usa-button--big" href="https://public.govdelivery.com/accounts/USGSATTS/signup/30826">Subscribe</a>
           {% elsif site.branch == "staging" %}
+            <a class="usa-button usa-button--big" href="https://public.govdelivery.com/accounts/USGSATTS/signup/30826">Subscribe</a>
+          {% elsif site.branch == "embed-react-app" %}
             <a class="usa-button usa-button--big" href="https://stage-public.govdelivery.com/accounts/USGSATTS/signup/12360">Subscribe</a>
-          {% elsif jekyll.environment == "dev" %}
+          {% elsif site.branch == "" %}
             <a class="usa-button usa-button--big" href="https://stage-public.govdelivery.com/accounts/USGSATTS/signup/12360">Subscribe</a>
           {% else %}
             <a class="usa-button usa-button--big" href="https://stage-public.govdelivery.com/accounts/USGSATTS/signup/12360">Subscribe</a>
@@ -44,7 +46,7 @@
         </div>
         <div class="help-section__button-container">
           <p>Ready to engage with a prize competition or challenge?<br/>Create an account to get started</p>
-          <a class="usa-button usa-button--big" href="https://challenge-portal-staging.app.cloud.gov/sign-in/new">Create account</a>
+          <a class="usa-button usa-button--big" href="https://portal.challenge.gov/sign-in/new">Create account</a>
         </div>
       </div>
     </div>

@@ -59,6 +59,10 @@
   <script type="text/javascript" src="https://portal.challenge.gov/js/public.js"></script>
   <script type="text/javascript" src="https://portal.challenge.gov/js/client.js"></script>
 {% elsif site.branch == "staging" %}
+  <link rel="stylesheet" href="https://portal.challenge.gov/css/public.css" crossorigin="anonymous">
+  <script type="text/javascript" src="https://portal.challenge.gov/js/public.js"></script>
+  <script type="text/javascript" src="https://portal.challenge.gov/js/client.js"></script>
+{% elsif site.branch == "embed-react-app" %}
   <link rel="stylesheet" href="https://challenge-portal-staging.app.cloud.gov/css/public.css" crossorigin="anonymous">
   <script type="text/javascript" src="https://challenge-portal-staging.app.cloud.gov/js/public.js"></script>
   <script type="text/javascript" src="https://challenge-portal-staging.app.cloud.gov/js/client.js"></script>
@@ -67,13 +71,28 @@
   <script type="text/javascript" src="http://localhost:4000/js/public.js"></script>
   <script type="text/javascript" src="http://localhost:4000/js/client.js"></script>
 {% else %}
+  <div id="challenge-gov-react-app" data-api-url="https://challenge-portal-dev.app.cloud.gov" data-public-url="{{ site.baseurl }}"></div>
   <link rel="stylesheet" href="https://challenge-portal-dev.app.cloud.gov/css/public.css" crossorigin="anonymous">
   <script type="text/javascript" src="https://challenge-portal-dev.app.cloud.gov/js/public.js"></script>
   <script type="text/javascript" src="https://challenge-portal-dev.app.cloud.gov/js/client.js"></script>
 {% endif %}
 
-<div id="recaptcha-key" class="d-none">6LcOgPIUAAAAAL_Nhl-Vf0acxlhSlgnJMbhzfi4q</div>
-<script src="https://www.google.com/recaptcha/api.js?render=6LcOgPIUAAAAAL_Nhl-Vf0acxlhSlgnJMbhzfi4q"></script>
+{% if site.branch == "master" %}
+  <div id="recaptcha-key" class="d-none">6Ldvf5ccAAAAAPFhblv51OnlSd8s-VsFaoL24izZ</div>
+  <script src="https://www.google.com/recaptcha/api.js?render=6Ldvf5ccAAAAAPFhblv51OnlSd8s-VsFaoL24izZ"></script>
+{% elsif site.branch == "staging" %}
+  <div id="recaptcha-key" class="d-none">6Ldvf5ccAAAAAPFhblv51OnlSd8s-VsFaoL24izZ</div>
+  <script src="https://www.google.com/recaptcha/api.js?render=6Ldvf5ccAAAAAPFhblv51OnlSd8s-VsFaoL24izZ"></script>
+{% elsif site.branch == "embed-react-app" %}
+  <div id="recaptcha-key" class="d-none">6LcOgPIUAAAAAL_Nhl-Vf0acxlhSlgnJMbhzfi4q</div>
+  <script src="https://www.google.com/recaptcha/api.js?render=6LcOgPIUAAAAAL_Nhl-Vf0acxlhSlgnJMbhzfi4q"></script>
+{% elsif jekyll.environment == "dev" %}
+  <div id="recaptcha-key" class="d-none">6LcOgPIUAAAAAL_Nhl-Vf0acxlhSlgnJMbhzfi4q</div>
+  <script src="https://www.google.com/recaptcha/api.js?render=6LcOgPIUAAAAAL_Nhl-Vf0acxlhSlgnJMbhzfi4q"></script>
+{% else %}
+  <div id="recaptcha-key" class="d-none">6LcOgPIUAAAAAL_Nhl-Vf0acxlhSlgnJMbhzfi4q</div>
+  <script src="https://www.google.com/recaptcha/api.js?render=6LcOgPIUAAAAAL_Nhl-Vf0acxlhSlgnJMbhzfi4q"></script>
+{% endif %}
 
 <script>
   // Explore challenges button scroll to active challenges section of react app
