@@ -2,43 +2,40 @@
 layout: null
 permalink: /feed-closed.json
 ---
+{%- assign closed_challenges = site.all-challenges | where: "status", "closed" | where_exp: "item", "item.layout != 'json-page'" -%}
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "{{ challenge.title | smartify | jsonify }}",
     "home_page_url": "{{ site.url }}",
+    "title": "Closed challenges",
     "feed_url": "{{ site.url }}/feed-closed.json",
     "expired": false,
-    "_challenge": [
-{% for item in site.all-challenges %}
-{% if item.layout != "json-page" and item.status == "closed" %}
-{
-    "challenge-id": "{{ item.challenge-id}}",
-    "challenge-title": "{{ item.challenge-title }}",
-    "permalink": "{{ site.url }}{{ item.permalink }}",
-    "external-url": "{{ item.external-url }}",
-    "card-image": "{{ site.url }}{{ item.card-image }}",
-    "agency-logo": "{{ site.url }}/{{ item.agency-logo }}",
-    "tagline": "{{ item.tagline | strip | escape }}",
-    "legal-authority": "{{ item.legal-authority }}",
-    "fiscal-year": "{{ item.fiscal-year }}",
-    "type-of-challenge": "{{ item.type-of-challenge }}",
-    "total-prize-offered-cash": "{{ item.total-prize-offered-cash }}",
-    "challenge_status": "{{ item.status}}",
-    "agency": "{{ item.agency }}",
-    "partner-agencies-federal": "{{ item.partner-agencies-federal }}",
-    "partners-non-federal": "{{ item.partners-non-federal }}",
-    "challenge-manager": "{{ item.challenge-manager }}",
-    "challenge-manager-email": "{{ item.challenge-manager-email }}",
-    "point-of-contact": "{{ item.point-of-contact }}",
-    "submission-start": "{{ item.submission-start }}",
-    "submission-end": "{{ item.submission-end }}",
-    "description": "{{ item.description | strip_html }}",
-    "prizes": "{{ item.prizes }}",
-    "rules": "{{ item.rules }}",
-    "judging": "{{ item.judging }}",
-    "how-to-enter": "{{ item.how-to-enter }}"                
-        }{% unless forloop.last == true %},{% endunless %}
-        {% endif %}
-{% endfor %}
+    "_challenge": [{%- for item in closed_challenges -%}
+        {
+            "challenge-id": "{{ item.challenge-id}}",
+            "challenge-title": {{ item.challenge-title | jsonify }},
+            "permalink": "{{ site.url }}{{ item.permalink }}",
+            "external-url": "{{ item.external-url }}",
+            "card-image": "{{ site.url }}{{ item.card-image | strip | uri_escape }}",
+            "agency-logo": "{{ site.url }}/{{ item.agency-logo | strip | uri_escape }}",
+            "tagline": {{ item.tagline | strip | jsonify }},
+            "legal-authority": "{{ item.legal-authority }}",
+            "fiscal-year": "{{ item.fiscal-year }}",
+            "type-of-challenge": {{ item.type-of-challenge | jsonify }},
+            "total-prize-offered-cash": "{{ item.total-prize-offered-cash }}",
+            "challenge_status": "{{ item.status}}",
+            "agency": "{{ item.agency }}",
+            "partner-agencies-federal": "{{ item.partner-agencies-federal }}",
+            "partners-non-federal": "{{ item.partners-non-federal }}",
+            "challenge-manager": "{{ item.challenge-manager }}",
+            "challenge-manager-email": "{{ item.challenge-manager-email }}",
+            "point-of-contact": "{{ item.point-of-contact }}",
+            "submission-start": "{{ item.submission-start }}",
+            "submission-end": "{{ item.submission-end }}",
+            "description": {{ item.description | markdownify | jsonify }},
+            "prizes": {{ item.prizes | markdownify | jsonify }},
+            "rules": {{ item.rules | markdownify | jsonify }},
+            "judging": {{ item.judging | markdownify | jsonify }},
+            "how-to-enter": {{ item.how-to-enter | markdownify | jsonify }}                
+        }{%- unless forloop.last == true %},{% endunless -%}{%- endfor -%}
     ]
 }

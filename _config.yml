@@ -23,7 +23,7 @@ email:  team@challenge.gov
 feature_image: /assets/images/cards/challenge-gov.png
 description: >- # this means to ignore newlines until "baseurl:"
   Here, members of the public compete to help the U.S. government solve problems big and small. Browse through challenges and submit your ideas for a chance to win.
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.challenge.gov" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Twitter handle. Only the handle, not the URL.

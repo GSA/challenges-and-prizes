@@ -1,0 +1,56 @@
+.usa-header {
+  display: flex;
+  align-items: center;
+
+  .grid-row {
+    width: 100%;
+  }
+
+  .usa-logo {
+    margin: 0;
+  }
+
+  &__actions {
+    display: flex;
+    align-items: center;
+  }
+}
+
+@media (min-width: 64em) {
+  .usa-header--basic {
+    padding: 1rem 0 1rem 0;
+
+    .usa-nav-container {
+      min-width: 64em;
+      padding: 0;
+      align-items: center;
+    }
+
+    .usa-navbar {
+      width: auto;
+    }
+  }
+
+  .usa-nav {
+    a.usa-button {
+      width: 8rem;
+    }
+  }
+}
+
+@media (max-width: 64em) {
+  .usa-header--basic {
+    padding: 0 0 0 1rem;
+
+    .usa-nav-container {
+      width: 100%;
+      align-items: center;
+    }
+  }
+
+  .usa-nav {
+    a {
+      margin: 1rem 0 0 0;
+    }
+  }
+}

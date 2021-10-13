@@ -1,0 +1,82 @@
+.usa-hero {
+	background-image: none;
+  padding-top: 0;
+  padding-bottom: 0;
+  display: flex;
+  align-items: center;
+  min-height: 20rem;
+  background: #19304C;
+  clip-path: ellipse(100% 55% at 48% 44%);
+
+  .grid-container {
+    height: 100%;
+    width: 100%;
+    padding-top: 3rem;
+    padding-bottom: 4rem;
+  }
+
+  &__description {
+    color: #FFFFFF;
+    font-size: 1rem;
+    font-weight: lighter;
+
+    p {
+      padding: 0;
+    }
+    button {
+      background-color: #EC9852;
+      font-weight: normal;
+      font-size: 1.5rem;
+      color: #19304C;
+
+      &:hover {
+        background-color: #EC9852;
+        box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.3), 0 2px 10px 0 rgba(0, 0, 0, 0.2);
+        transform: translateY(-1%);
+        transition: 0.15s;
+      }
+      
+      &:active {
+        background-color: #EC9852;
+        box-shadow: none;
+        transform: none;
+      }
+    }
+  }
+}
+
+@media (min-width: 64em) {
+  .usa-hero {
+    &__inner {
+      position: relative;
+      overflow: hidden;
+      min-width: 64em;
+
+      &:before {
+        content: "";
+        position: absolute;
+        top: -40%;
+        right: 0;
+        height: 150%;
+        width: 100%;
+        background-image: url(images/layout/gsa-phyllotaxis-orange.svg);
+        background-repeat: no-repeat;
+        background-size: 50%;
+        background-position: 100% 0%;
+      } 
+    }
+  }
+}
+
+@media (max-width: 64em) {
+  .usa-hero {
+    clip-path: ellipse(120% 55% at 48% 44%);
+
+    &__inner {
+      background-image: url(images/layout/gsa-phyllotaxis-orange-corner.svg);
+      background-repeat: no-repeat;
+      background-size: auto auto;
+      background-position: top right;
+    }
+  }
+}

@@ -1,6 +1,6 @@
 ---
 layout: front-matter-data
-permalink: /challenge/base-security-and-defense/
+permalink: /challenge/installation-resilience/
 challenge-id: 1111
 status: closed
 sidenav: false

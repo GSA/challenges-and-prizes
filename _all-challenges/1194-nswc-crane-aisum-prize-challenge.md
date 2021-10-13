@@ -252,6 +252,18 @@ description: >-
 
   * A 2D floorplan of the mapped space, which includes icons/text for the location of Objects of Interest and Humans.
 
+  * The UAS will be launched from the defined entryway.
+
+  * The UAS is limited to an accessible area within the first floor of the building, which may be less than the available virtual representation.
+
+  * The UAS will enter the building autonomously and assist operators by collecting the following information:
+
+    * Search and build a 2D floorplan of the accessible interior space.
+    * Detect and count the number of humans within the accessible space.
+    * Classify the humans within the accessible space as threats (holding brooms), or as civilians (empty hands).
+    * Detect and count the number of Objects of Interest which may represent a threat to the team.  The exact definition of the Object of Interest will be provided just prior to mission execution.
+    * Place the detected humans (threat/no-threat) and Objects of Interest in the correct locations on the 2D floorplan.
+    * Produce the 2D floorplan and object detection data in a usable format within 10 minutes of the UAS exiting the building.
   * GFP will consist of stretch X drone, onboard processing, frontal camera, and optical avoidance sensors 
 
   * Operation in a Non-GPS environment and an autonomous flight mode
@@ -793,6 +805,9 @@ The total prize purse is increased to $750,000. The Government reserves the righ
 
   The minimum threshold requirements will be set before the beginning of the virtual runs.
 * Phase III – A prize purse up to $500,000 will be disbursed with disparity to the participants in the live event in which their proposed solutions will integrate on the provided drones for time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion at the Muscatatuck Urban Training Center (MUTC).
+
+  ![Phase 3 table]({{site.baseurl}}/assets/netlify-uploads/asium-crane-phase-3-table-15sep2021-1-.png "Phase 3")
+* There will be no minimum threshold requirements set for the Phase III live runs.
 
   ![Phase 3 table]({{site.baseurl}}/assets/netlify-uploads/asium-crane-phase-3-table-15sep2021-1-.png "Phase 3")
 * There will be no minimum threshold requirements set for the Phase III live runs.

@@ -1,0 +1,36 @@
+.usa-footer {
+  position: relative;
+  background: #19304C;
+
+  &:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    min-height: 20rem;
+    background: #FAFAFA;
+    clip-path: ellipse(100% 55% at 50% -35%);
+  }
+
+  a {
+    color: #ffffff;
+    margin-bottom: 1rem;
+
+    &:hover {
+      color: #ffffff;
+    }
+  }
+
+  &__social_link {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 64em) {
+  .usa-footer {
+    &:before {
+      clip-path: ellipse(120% 55% at 50% -35%);
+    }
+  }
+}
