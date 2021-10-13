@@ -37,6 +37,13 @@ Run the site locally.
 Open your web browser to [localhost:4000](http://localhost:4000/) to view your
 site.
 
+Run the site locally using the current API at [Challenge.gov Portal](https://github.com/GSA/Challenge_gov) hosted on port 4000
+
+    $ npm dev
+
+Open your web browser to [localhost:4001](http://localhost:4001/) to view your
+site.
+
 After you make changes, be sure to run the tests.
 
     $ npm test
