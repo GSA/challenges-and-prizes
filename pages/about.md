@@ -11,7 +11,7 @@ Challenge.Gov, managed by the General Services Administration, is a leading prog
 
 Through this Challenge.Gov website, federal agencies can engage public solvers in challenges and prize competitions (together referred to as “prize competitions”) to identify innovative solutions to critical issues.
 
-This site also provides a [comprehensive toolkit](https://www.challenge.gov/toolkit/){:target="_blank"} for federal employees interested in or currently running prize competitions. Developed with insights from experts across government, this toolkit contains a robust repository of resources, best practices, and case studies.
+This site also provides a [comprehensive toolkit](https://www.challenge.gov/assets/document-library/ChallengeGov_Federal_Agency_Toolkit_13Oct2021.pdf){:target="_blank"} for federal employees interested in or currently running prize competitions. Developed with insights from experts across government, this toolkit contains a robust repository of resources, best practices, and case studies.
 
 **About Prize Competitions**
 
@@ -25,7 +25,7 @@ And yes, those self-driving vehicles got their start in federal prize competitio
 
 **Become a Public Solver**
 
-If you’re interested in being a public solver, start by browsing the [catalog](https://www.challenge.gov/){:target="_blank"} of prize competitions on Challenge.Gov. If something catches your eye, dive in a little deeper to find out how to submit your ideas and concepts. Every prize competition is structured differently, and the details matter. Make sure to follow the detailed instructions to submit your entry correctly and before the posted deadline.
+If you’re interested in being a public solver, start by browsing the [archive](https://www.challenge.gov/?state=archived){:target="_blank"} of prize competitions on Challenge.Gov. If something catches your eye, dive in a little deeper to find out how to submit your ideas and concepts. Every prize competition is structured differently, and the details matter. Make sure to follow the detailed instructions to submit your entry correctly and before the posted deadline.
 
 If you have a question about a specific challenge, reach out to the point of contact for that challenge.
 
@@ -33,10 +33,10 @@ If you have general questions regarding Challenge.Gov, contact us at [team@chall
 
 **Use Prize Competitions to Advance Your Agency Mission**
 
-If you’re a federal employee interested in prize competitions, visit the [Challenge and Prize Toolkit](https://www.challenge.gov/toolkit/){:target="_blank"} for considerations and best practices in designing and executing a successful competition.
+If you’re a federal employee interested in prize competitions, visit the [Challenge and Prize Toolkit](https://www.challenge.gov/assets/document-library/ChallengeGov_Federal_Agency_FAQ.pdf){:target="_blank"} for considerations and best practices in designing and executing a successful competition.
 
 We also encourage you to join the [Challenge & Prize Community of Practice](https://digital.gov/communities/challenges-prizes/){:target="_blank"} (CoP). Joining the CoP will enable you to stay up-to-date on resources to help with your work, and make it easy for you to connect with other prize practitioners across the federal government.
 
-Instructions for listing your prize competition on Challenge.Gov can be found [here](https://www.challenge.gov/assets/document-library/ChallengeGov_Posting_Request_Form_Dec2020.docx){:target="_blank"}.
+Create an account [here](https://portal.challenge.gov/sign-in/new) on Challenge.Gov to access additional prize competition guidance documents and resources.
 
 For additional support, drop us a line at [team@challenge.gov](mailto:team@challenge.gov) to get started.
