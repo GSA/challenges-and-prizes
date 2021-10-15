@@ -1,10 +1,10 @@
 ---
 title: OSTP Time is Now
 challenge-title: The Time is Now Advancing Equity in Science Technology Ideation Challenge
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/ostp-time-is-now/
 challenge-id: "1289"
-status: closed
+status: open
 sidenav: false
 card-image: /assets/netlify-uploads/ostp-time-is-now.png
 agency-logo: /assets/netlify-uploads/ostp-logo-high-res.png
