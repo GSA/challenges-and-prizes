@@ -407,5 +407,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/generation-nano-small-science-superheroes/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -1,7 +1,7 @@
 ---
 title: Card Title Here
 challenge-title: American-Made Geothermal Lithium Extraction Prize
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/american-made-geothermal-lithium-extraction-prize/
 challenge-id: "1235"
 status: closed

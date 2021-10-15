@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/military-and-veterans-photoessay-contest/"
-layout: json-page
+layout: json-page-legacy
 ---

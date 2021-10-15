@@ -256,5 +256,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/transportation-technology-tournament/"
-layout: json-page
+layout: json-page-legacy
 ---

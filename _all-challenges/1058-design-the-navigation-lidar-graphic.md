@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/design-the-navigation-lidar-graphic/
 challenge-id: 1058
 status: closed

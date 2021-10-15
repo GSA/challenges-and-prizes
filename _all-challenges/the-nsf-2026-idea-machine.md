@@ -140,5 +140,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: true
 authorEdit: true
 permalink: "/challenge/the-nsf-2026-idea-machine/"
-layout: json-page
+layout: json-page-legacy
 ---

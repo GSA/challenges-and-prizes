@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/using-public-data-for-cancer-prevention-and-control:-from-innovation-to-impact/"
-layout: json-page
+layout: json-page-legacy
 ---

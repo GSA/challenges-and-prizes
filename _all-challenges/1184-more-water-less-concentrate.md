@@ -1,7 +1,7 @@
 ---
 title: More Water Less Concentrate
 challenge-title: More Water Less Concentrate
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/more-water-less-concentrate/
 challenge-id: "1184"
 status: closed

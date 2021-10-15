@@ -522,5 +522,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/grace-hopper-day-hackathon/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -583,5 +583,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/techmousso/"
-layout: json-page
+layout: json-page-legacy
 ---

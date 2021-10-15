@@ -1000,5 +1000,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/creating-hope-in-conflict-a-humanitarian-grand-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

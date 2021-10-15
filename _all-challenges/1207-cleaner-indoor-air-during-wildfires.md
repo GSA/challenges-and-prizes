@@ -1,7 +1,7 @@
 ---
 title: Cleaner Indoor Air During Wildfires
 challenge-title: Cleaner Indoor Air During Wildfires
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/cleaner-indoor-air-during-wildfires/
 challenge-id: "1207"
 status: closed

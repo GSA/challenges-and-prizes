@@ -246,5 +246,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/ussocom  -reducing-digital-optics-latency/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -1,7 +1,7 @@
 ---
 title: American-Made Solar Prize Round 5
 challenge-title: American-Made Solar Prize Round 5
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/american-made-solar-prize-round-5/
 challenge-id: "1257"
 status: closed

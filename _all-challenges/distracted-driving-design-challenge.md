@@ -238,5 +238,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/distracted-driving-design-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

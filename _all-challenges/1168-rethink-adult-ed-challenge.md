@@ -1,7 +1,7 @@
 ---
 title: Rethink Adult Ed Challenge
 challenge-title: Rethink Adult Ed Challenge
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/rethink-adult-ed-challenge/
 challenge-id: "1168"
 status: closed

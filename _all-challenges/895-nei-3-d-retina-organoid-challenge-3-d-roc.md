@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/nei-3-d-retina-organoid-challenge-3-d-roc/
 challenge-id: 895
 status: closed

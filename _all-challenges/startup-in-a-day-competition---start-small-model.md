@@ -384,5 +384,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/startup-in-a-day-competition-start-small-model/"
-layout: json-page
+layout: json-page-legacy
 ---

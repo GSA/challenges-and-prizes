@@ -238,5 +238,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/save-out-loud-photo-and-video-contest/"
-layout: json-page
+layout: json-page-legacy
 ---

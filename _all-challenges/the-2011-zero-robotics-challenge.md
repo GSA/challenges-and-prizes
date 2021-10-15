@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/the-2011-zero-robotics-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

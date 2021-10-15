@@ -1,7 +1,7 @@
 ---
 title: Individuals Taking Energy Action in Manufacturing
 challenge-title: Individuals Taking Energy Action in Manufacturing
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/individuals-taking-energy-action-in-manufacturing-iteam/
 challenge-id: "90"
 status: closed

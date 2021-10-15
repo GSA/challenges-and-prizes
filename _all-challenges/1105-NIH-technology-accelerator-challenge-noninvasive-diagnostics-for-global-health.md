@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/NIH-technology-accelerator-challenge-noninvasive-diagnostics-for-global-health/
 challenge-id: 1105
 status: closed

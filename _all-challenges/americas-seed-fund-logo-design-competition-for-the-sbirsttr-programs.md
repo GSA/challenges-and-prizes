@@ -444,5 +444,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/americas-seed-fund-logo-design-competition-for-the-sbirsttr-programs/"
-layout: json-page
+layout: json-page-legacy
 ---

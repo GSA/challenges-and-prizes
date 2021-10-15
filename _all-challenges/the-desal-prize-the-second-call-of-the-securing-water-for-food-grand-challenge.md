@@ -247,5 +247,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/the-desal-prize-the-second-call-of-the-securing-water-for-food-grand-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

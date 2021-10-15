@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/space-robotics-challenge-phase-2/
 challenge-id: 1061
 status: closed

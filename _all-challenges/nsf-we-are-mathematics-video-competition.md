@@ -430,5 +430,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: true
 permalink: "/challenge/nsf-we-are-mathematics-video-competition/"
-layout: json-page
+layout: json-page-legacy
 ---

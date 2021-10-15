@@ -1,7 +1,7 @@
 ---
 title: AI Tech Sprint for Veterans not served by VA
 challenge-title: AI Tech Sprint for Veterans not served by VA
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/ai-tech-sprint-for-veterans-not-served-by-va/
 challenge-id: "1192"
 status: closed

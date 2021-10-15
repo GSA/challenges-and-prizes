@@ -1,7 +1,7 @@
 ---
 title: CHARIoT Challenge - Advancing First Responder Communications
 challenge-title: CHARIoT Challenge - Advancing First Responder Communications
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/chariot/
 challenge-id: "1104"
 status: closed

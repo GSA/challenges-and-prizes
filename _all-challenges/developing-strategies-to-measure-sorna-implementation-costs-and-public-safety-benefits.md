@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/developing-strategies-to-measure-sorna-implementation-costs-and-public-safety-benefits/"
-layout: json-page
+layout: json-page-legacy
 ---

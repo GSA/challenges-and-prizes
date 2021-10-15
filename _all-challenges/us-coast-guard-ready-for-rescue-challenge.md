@@ -440,5 +440,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: true
 authorEdit: true
 permalink: "/challenge/us-coast-guard-ready-for-rescue-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -1,7 +1,7 @@
 ---
 title: Future-Scaping Our Skies
 challenge-title: Future-Scaping Our Skies
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/future-scaping-our-skies/
 challenge-id: "1220"
 status: closed

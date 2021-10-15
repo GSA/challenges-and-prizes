@@ -413,5 +413,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/my-preparedness-story-staying-healthy-and-resilient/"
-layout: json-page
+layout: json-page-legacy
 ---

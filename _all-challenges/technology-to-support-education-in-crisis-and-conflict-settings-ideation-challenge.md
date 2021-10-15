@@ -254,5 +254,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/technology-to-support-education-in-crisis-and-conflict-settings-ideation-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/markup-of-us-legislation-in-akoma-ntoso/"
-layout: json-page
+layout: json-page-legacy
 ---

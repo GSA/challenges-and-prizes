@@ -3,7 +3,7 @@ title: "NASA Challenge: A Common Restraint and Mobility Aid System for Multiple
   Gravity Environment"
 challenge-title: "NASA Challenge: A Common Restraint and Mobility Aid System for
   Multiple Gravity Environment"
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/nasa-common-restraint-and-mobility-aid-system-for-multiple-gravity-environment/
 challenge-id: "1143"
 status: closed

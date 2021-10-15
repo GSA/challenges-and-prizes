@@ -2,7 +2,7 @@
 title: Card Title Here
 challenge-title: AI and Networks Advanced Naval Technology Exercise (AINet ANTX)
   - Networks Prize Challenge
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/networks-advanced-naval-technology-exercise-netantx-challenge/
 challenge-id: "1243"
 status: closed

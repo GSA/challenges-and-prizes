@@ -1,7 +1,7 @@
 ---
 title: Card Title Here
 challenge-title: "US Navy Challenge: Rapid Design Tool for Advanced Manufacturing"
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/rapid-design-tool-for-advanced-manufacturing/
 challenge-id: "1234"
 status: closed

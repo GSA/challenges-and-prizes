@@ -413,5 +413,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/a-wearable-alcohol-biosensor/"
-layout: json-page
+layout: json-page-legacy
 ---

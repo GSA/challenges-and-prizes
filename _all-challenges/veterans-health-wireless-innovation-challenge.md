@@ -244,5 +244,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/veterans-health-wireless-innovation-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

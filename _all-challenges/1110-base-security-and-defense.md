@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/base-security-and-defense/
 challenge-id: 1110
 status: closed

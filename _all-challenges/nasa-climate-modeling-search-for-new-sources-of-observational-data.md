@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/nasa-climate-modeling---search-for-new-sources-of-observational-data/"
-layout: json-page
+layout: json-page-legacy
 ---

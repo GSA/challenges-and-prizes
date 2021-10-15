@@ -1,7 +1,7 @@
 ---
 title: xTechPlugfest
 challenge-title: xTechPlugfest
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/xTechPlugfest/
 challenge-id: "1271"
 status: closed

@@ -249,5 +249,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/nutrient-sensor-challenge-phase-2-technology-evaluations-and-award-selections/"
-layout: json-page
+layout: json-page-legacy
 ---

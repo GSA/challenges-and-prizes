@@ -492,5 +492,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: true
 authorEdit: true
 permalink: "/challenge/smallbusinessweek-hackathon-2019/"
-layout: json-page
+layout: json-page-legacy
 ---

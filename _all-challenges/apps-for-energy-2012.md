@@ -244,5 +244,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/apps-for-energy-2012/"
-layout: json-page
+layout: json-page-legacy
 ---

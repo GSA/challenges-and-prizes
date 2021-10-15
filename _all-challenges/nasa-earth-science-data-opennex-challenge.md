@@ -248,5 +248,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/nasa-earth-science-data-opennex-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

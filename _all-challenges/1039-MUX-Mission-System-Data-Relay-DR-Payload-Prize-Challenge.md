@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/mux-mission-system-data-relay-payload-prize-challenge/
 challenge-id: 1039
 status: closed

@@ -1,7 +1,7 @@
 ---
 title: NSWC Crane AISUM Prize Challenge
 challenge-title: NSWC Crane AISUM Prize Challenge
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/nswc-crane-aisum-prize-challenge/
 challenge-id: "1194"
 status: closed

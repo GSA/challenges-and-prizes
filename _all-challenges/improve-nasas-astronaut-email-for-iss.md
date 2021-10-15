@@ -246,5 +246,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/improve-nasas-astronaut-email-for-iss/"
-layout: json-page
+layout: json-page-legacy
 ---

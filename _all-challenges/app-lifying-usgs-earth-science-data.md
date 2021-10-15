@@ -238,5 +238,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/app-lifying-usgs-earth-science-data/"
-layout: json-page
+layout: json-page-legacy
 ---

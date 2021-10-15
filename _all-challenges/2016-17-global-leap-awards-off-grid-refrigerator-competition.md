@@ -877,5 +877,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/2016-17-global-leap-awards-off-grid-refrigerator-competition/"
-layout: json-page
+layout: json-page-legacy
 ---

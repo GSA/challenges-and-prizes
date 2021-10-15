@@ -568,5 +568,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/smallbusinessweek-hackathon/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -365,5 +365,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/counter-unmanned-aerial-system-c-uas-hard-kill-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/us-dot-motorcoach-safety-data-student-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

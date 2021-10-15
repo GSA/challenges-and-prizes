@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/the-unlinkable-data-challenge-advancing-methods-in-differential-privacy/
 challenge-id: 956
 status: closed

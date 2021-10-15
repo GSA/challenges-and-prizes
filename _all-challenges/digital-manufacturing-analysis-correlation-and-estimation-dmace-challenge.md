@@ -238,5 +238,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/digital-manufacturing-analysis-correlation-and-estimation-dmace-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

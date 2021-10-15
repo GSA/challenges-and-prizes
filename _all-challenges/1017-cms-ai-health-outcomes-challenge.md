@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/cms-ai-health-outcomes-challenge/
 challenge-id: 1017
 status: closed

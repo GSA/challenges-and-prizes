@@ -1,7 +1,7 @@
 ---
 title: COVID-19 Maker Challenge III In-home Caregivers
 challenge-title: "COVID-19 Maker Challenge III: In-home Caregivers"
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/covid-19-maker-challenge-in-home-caregivers/
 challenge-id: "1149"
 status: closed

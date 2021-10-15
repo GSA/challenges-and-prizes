@@ -259,5 +259,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/the-va-pseudovet-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

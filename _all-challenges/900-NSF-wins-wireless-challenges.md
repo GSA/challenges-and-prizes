@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/nsf-wins-wireless-challenges/
 challenge-id: 900
 status: closed

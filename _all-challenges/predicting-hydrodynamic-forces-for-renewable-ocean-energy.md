@@ -245,5 +245,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/predicting-hydrodynamic-forces-for-renewable-ocean-energy/"
-layout: json-page
+layout: json-page-legacy
 ---

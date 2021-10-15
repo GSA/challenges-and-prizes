@@ -245,5 +245,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/national-geothermal-student-competition/"
-layout: json-page
+layout: json-page-legacy
 ---

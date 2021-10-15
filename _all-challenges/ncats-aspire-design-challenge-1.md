@@ -412,5 +412,5 @@ ideaCount: 4
 memberIdeaAttachmentAllowed: true
 authorEdit: true
 permalink: "/challenge/ncats-aspire-design-challenge-1/"
-layout: json-page
+layout: json-page-legacy
 ---

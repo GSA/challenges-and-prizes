@@ -1,7 +1,7 @@
 ---
 title: Lab-to-Market Inclusive Innovation Ecosystem Prize Competition
 challenge-title: Lab-to-Market Inclusive Innovation Ecosystem Prize Competition
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/l2m-prize-competition/
 challenge-id: "1165"
 status: closed

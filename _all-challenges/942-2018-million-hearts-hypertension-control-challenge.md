@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/2018-million-hearts-hypertension-control-challenge/
 challenge-id: 942
 status: closed

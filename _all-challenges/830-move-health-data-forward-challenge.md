@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/move-health-data-forward-challenge/
 challenge-id: 830
 status: closed

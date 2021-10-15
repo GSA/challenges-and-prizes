@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/self-healing-material-system/
 challenge-id: 1079
 status: closed

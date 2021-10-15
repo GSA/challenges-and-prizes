@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/harmful-algal-bloom-video-challenge/
 challenge-id: 1069
 status: closed

@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/USMC-knee-and-elbow-pad-innovation/
 challenge-id: 1042
 status: closed

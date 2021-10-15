@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/reducing-cancer-among-women-of-color/"
-layout: json-page
+layout: json-page-legacy
 ---

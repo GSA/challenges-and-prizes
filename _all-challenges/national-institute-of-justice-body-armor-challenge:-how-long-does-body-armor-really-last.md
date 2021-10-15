@@ -242,5 +242,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/national-institute-of-justice-body-armor-challenge:-how-long-does-body-armor-really-last/"
-layout: json-page
+layout: json-page-legacy
 ---

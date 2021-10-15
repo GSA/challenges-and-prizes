@@ -1,7 +1,7 @@
 ---
 title: COVID-19 Precision Immunology App-a-thon
 challenge-title: COVID-19 Precision Immunology App-a-thon
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/covid19-precision-immunology-app-a-thon/
 challenge-id: "1190"
 status: closed

@@ -356,5 +356,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/nutrient-recycling-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

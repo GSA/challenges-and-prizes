@@ -1,6 +1,6 @@
 ---
 challenge-title: CO2 Conversion Challenge Phase 2
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/CO2-Conversion-Challenge-Phase-2/
 challenge-id: 1068
 status: closed

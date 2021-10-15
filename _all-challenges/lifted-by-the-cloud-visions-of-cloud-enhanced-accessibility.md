@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/lifted-by-the-cloud-visions-of-cloud-enhanced-accessibility/"
-layout: json-page
+layout: json-page-legacy
 ---

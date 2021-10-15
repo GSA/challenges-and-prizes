@@ -1,7 +1,7 @@
 ---
 title: Enhancing Computer Vision for Public Safety Challenge
 challenge-title: Enhancing Computer Vision for Public Safety Challenge
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/enhancing-computer-vision-for-public-safety-challenge/
 challenge-id: "1155"
 status: closed

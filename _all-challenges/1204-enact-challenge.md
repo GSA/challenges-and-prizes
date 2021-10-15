@@ -1,7 +1,7 @@
 ---
 title: ENACT Challenge
 challenge-title: ENACT Challenge
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/ENACT/
 challenge-id: "1204"
 status: closed

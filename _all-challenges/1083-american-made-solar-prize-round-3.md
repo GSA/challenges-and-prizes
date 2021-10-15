@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/american-made-solar-prize-round-3/
 challenge-id: 1083
 status: closed

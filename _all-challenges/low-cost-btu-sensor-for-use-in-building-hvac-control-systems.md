@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/low-cost-btu-sensor-for-use-in-building-hvac-control-systems/"
-layout: json-page
+layout: json-page-legacy
 ---

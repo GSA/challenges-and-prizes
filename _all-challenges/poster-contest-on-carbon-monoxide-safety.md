@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/poster-contest-on-carbon-monoxide-safety/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -254,5 +254,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/pill-image-recognition-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

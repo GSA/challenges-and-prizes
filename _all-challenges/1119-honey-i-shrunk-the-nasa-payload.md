@@ -1,7 +1,7 @@
 ---
 title: Honey, I Shrunk the NASA Payload
 challenge-title: Honey, I Shrunk the NASA Payload
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/nasapayload/
 challenge-id: "1119"
 status: closed

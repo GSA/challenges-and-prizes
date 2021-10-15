@@ -1,7 +1,7 @@
 ---
 title: Rodeo II
 challenge-title: Rodeo II - Sub-Seasonal Climate Forecasting
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/rodeo-ii-sub-seasonal-climate-forecasting/
 challenge-id: "1047"
 status: closed

@@ -1,7 +1,7 @@
 ---
 title: 2021 HUD Secretary Awards for Public Philanthropic Partnerships
 challenge-title: 2021 HUD Secretary's Awards for Public-Philanthropic Partnerships
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/2021-hud-secretary-awards-for-public-philanthropic-partnerships/
 challenge-id: "1211"
 status: closed

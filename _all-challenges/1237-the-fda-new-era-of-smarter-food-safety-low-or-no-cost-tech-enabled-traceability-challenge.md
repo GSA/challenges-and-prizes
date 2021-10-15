@@ -2,7 +2,7 @@
 title: Card Title Here
 challenge-title: The FDA New Era of Smarter Food Safety Low- or No-Cost
   Tech-Enabled Traceability Challenge!
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/low-or-no-cost-tech-enabled-traceability-challenge/
 challenge-id: "1237"
 status: closed

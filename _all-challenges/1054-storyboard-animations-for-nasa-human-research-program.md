@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenges/storyboard-animations-for-nasa-human-research-program/
 challenge-id: 1054
 status: closed

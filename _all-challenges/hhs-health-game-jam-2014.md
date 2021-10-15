@@ -246,5 +246,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/hhs-health-game-jam-2014/"
-layout: json-page
+layout: json-page-legacy
 ---

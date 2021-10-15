@@ -238,5 +238,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/experimental-crowd-derived-combat-support-vehicle-xc2v-design-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---
