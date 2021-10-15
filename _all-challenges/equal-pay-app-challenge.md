@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/equal-pay-app-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/healthy-people-2020-leading-health-indicators-app-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

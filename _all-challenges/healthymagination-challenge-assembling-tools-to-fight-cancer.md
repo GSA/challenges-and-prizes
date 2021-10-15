@@ -242,5 +242,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/healthymagination-challenge-assembling-tools-to-fight-cancer/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -1,6 +1,6 @@
 ---
 challenge-title: 2020 Design by Biomedical Undergraduate Teams (DEBUT) Challenge
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/2020-debut-challenge/
 challenge-id: 1087
 status: closed

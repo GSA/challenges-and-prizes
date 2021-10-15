@@ -1,7 +1,7 @@
 ---
 title: Innovative Ways to Destroy PFAS
 challenge-title: Innovative Ways to Destroy PFAS
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/Innovative-Ways-To-Destroy-PFAS/
 challenge-id: "1154"
 status: closed

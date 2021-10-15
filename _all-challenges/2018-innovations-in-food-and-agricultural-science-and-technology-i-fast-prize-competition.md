@@ -592,5 +592,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/2018-innovations-in-food-and-agricultural-science-and-technology-i-fast-prize-competition/"
-layout: json-page
+layout: json-page-legacy
 ---

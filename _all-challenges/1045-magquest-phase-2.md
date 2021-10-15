@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/magquest-phase-2/
 challenge-id: 1045
 status: closed

@@ -295,5 +295,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/usda-eat-school-lunch-ux-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

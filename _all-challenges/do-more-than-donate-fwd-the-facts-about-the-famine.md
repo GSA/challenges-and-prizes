@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: true
 permalink: "/challenge/do-more-than-donate-fwd-the-facts-about-the-famine/"
-layout: json-page
+layout: json-page-legacy
 ---

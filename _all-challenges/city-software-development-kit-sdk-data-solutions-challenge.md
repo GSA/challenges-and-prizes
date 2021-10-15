@@ -333,5 +333,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/city-software-development-kit-sdk-data-solutions-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/federal-impact-assessment-challenge/
 challenge-id: 856
 status: closed

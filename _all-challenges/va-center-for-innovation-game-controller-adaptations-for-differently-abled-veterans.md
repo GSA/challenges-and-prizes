@@ -251,5 +251,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/va-center-for-innovation-game-controller-adaptations-for-differently-abled-veterans/"
-layout: json-page
+layout: json-page-legacy
 ---

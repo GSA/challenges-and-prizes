@@ -245,5 +245,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/hydrogen-student-design-contest/"
-layout: json-page
+layout: json-page-legacy
 ---

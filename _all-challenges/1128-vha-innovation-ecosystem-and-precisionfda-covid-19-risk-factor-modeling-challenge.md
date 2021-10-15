@@ -3,7 +3,7 @@ title: VHA Innovation Ecosystem and precisionFDA COVID-19 Risk Factor Modeling
   Challenge
 challenge-title: VHA Innovation Ecosystem and precisionFDA COVID-19 Risk Factor
   Modeling Challenge
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/VHA-precisionFDA-COVID-19-risk-factor-modeling-challenge/
 challenge-id: "1128"
 status: closed

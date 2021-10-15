@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/estimating-reservoir-water-storage/
 challenge-id: 880
 status: closed

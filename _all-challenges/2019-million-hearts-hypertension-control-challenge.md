@@ -435,5 +435,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: true
 permalink: "/challenge/2019-million-hearts-hypertension-control-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

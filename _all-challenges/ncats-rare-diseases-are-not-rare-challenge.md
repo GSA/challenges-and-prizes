@@ -355,5 +355,5 @@ ideaCount: 54
 memberIdeaAttachmentAllowed: true
 authorEdit: true
 permalink: "/challenge/ncats-rare-diseases-are-not-rare-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

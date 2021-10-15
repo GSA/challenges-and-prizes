@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/2017-innovations-in-food-and-agricultural-science-and-technology-i-fast-prize-competition-only-selected-pre-applicants-are-eligible/
 challenge-id: 912
 status: closed

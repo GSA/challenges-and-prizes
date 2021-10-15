@@ -257,5 +257,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/federal-maritime-commission-fmc-chairmans-earth-day-award/"
-layout: json-page
+layout: json-page-legacy
 ---

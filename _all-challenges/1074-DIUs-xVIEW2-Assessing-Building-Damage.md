@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/diu-xview2-assessing-building-damage/
 challenge-id: 1074
 status: closed

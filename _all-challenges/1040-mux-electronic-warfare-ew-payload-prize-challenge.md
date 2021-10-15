@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/mux-electronic-warfare-payload-prize-challenge/
 challenge-id: 1040
 status: closed

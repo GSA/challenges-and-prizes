@@ -1,7 +1,7 @@
 ---
 title: Fatal Injury and Violence Analytics - Final Enhancements
 challenge-title: Fatal Injury and Violence Analytics - Final Enhancements
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/fatal-injury-and-violence-analytics-final-enhancements/
 challenge-id: "1209"
 status: closed

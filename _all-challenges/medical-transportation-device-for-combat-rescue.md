@@ -242,5 +242,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/medical-transportation-device-for-combat-rescue/"
-layout: json-page
+layout: json-page-legacy
 ---

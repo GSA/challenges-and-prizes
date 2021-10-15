@@ -243,5 +243,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/augmenting-the-exercise-experience-with-audio-visual-inputs/"
-layout: json-page
+layout: json-page-legacy
 ---

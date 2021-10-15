@@ -1,7 +1,7 @@
 ---
 title: Digital Solutions to Support Care Transitions Challenge
 challenge-title: Digital Solutions to Support Care Transitions Challenge
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/digital-solutions-to-support-care-transitions-challenge/
 challenge-id: 1094
 status: closed

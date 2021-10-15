@@ -513,5 +513,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/healthcare-associated-venous-thromboembolism-ha-vte-prevention-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

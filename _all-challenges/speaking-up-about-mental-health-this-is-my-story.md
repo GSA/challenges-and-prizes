@@ -430,5 +430,5 @@ ideaCount: 225
 memberIdeaAttachmentAllowed: true
 authorEdit: true
 permalink: "/challenge/speaking-up-about-mental-health-this-is-my-story/"
-layout: json-page
+layout: json-page-legacy
 ---

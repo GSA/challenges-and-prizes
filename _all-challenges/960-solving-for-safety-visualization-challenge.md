@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/solving-for-safety-visualization-challenge/
 challenge-id: 960
 status: closed

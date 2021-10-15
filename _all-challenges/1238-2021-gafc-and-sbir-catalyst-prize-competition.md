@@ -1,7 +1,7 @@
 ---
 title: Card Title Here
 challenge-title: 2021 GAFC and SBIR Catalyst Prize Competition
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/2021-gafc-and-sbir-catalyst-prize-competition/
 challenge-id: "1238"
 status: closed

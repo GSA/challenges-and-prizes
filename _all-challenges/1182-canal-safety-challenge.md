@@ -1,7 +1,7 @@
 ---
 title: Canal Safety Challenge
 challenge-title: Canal Safety Challenge
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/canal-safety-challenge/
 challenge-id: "1182"
 status: closed

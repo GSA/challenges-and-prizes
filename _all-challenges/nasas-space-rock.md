@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/nasas-space-rock/"
-layout: json-page
+layout: json-page-legacy
 ---

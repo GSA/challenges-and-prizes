@@ -245,5 +245,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/climate-change-in-focus/"
-layout: json-page
+layout: json-page-legacy
 ---

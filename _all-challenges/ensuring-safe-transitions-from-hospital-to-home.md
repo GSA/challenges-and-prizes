@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/ensuring-safe-transitions-from-hospital-to-home/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -207,5 +207,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: true
 authorEdit: true
 permalink: "/challenge/care-coordination-for-children-with-special-health-care-needs-cshcn-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

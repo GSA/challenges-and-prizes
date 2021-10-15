@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/technology-based-products-to-prevent-high-risk-drinking-among-college-students/"
-layout: json-page
+layout: json-page-legacy
 ---

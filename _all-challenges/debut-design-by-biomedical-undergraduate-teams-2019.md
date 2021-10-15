@@ -400,5 +400,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: true
 authorEdit: true
 permalink: "/challenge/debut-design-by-biomedical-undergraduate-teams-challenge-2019/"
-layout: json-page
+layout: json-page-legacy
 ---

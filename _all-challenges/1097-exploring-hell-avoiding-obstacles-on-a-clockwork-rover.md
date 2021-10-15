@@ -1,6 +1,6 @@
 ---
 challenge-title: Exploring Hell - Avoiding Obstacles on a Clockwork Rover
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/exploring-hell-avoiding-obstacles-on-a-clockwork-rover/
 challenge-id: 1097
 status: closed

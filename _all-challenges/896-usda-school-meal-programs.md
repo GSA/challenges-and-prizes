@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/usda-school-meal-programs-verification-response-rate-challenge/
 challenge-id: 896
 status: closed

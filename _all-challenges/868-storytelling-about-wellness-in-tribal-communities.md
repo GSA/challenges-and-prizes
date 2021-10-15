@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/storytelling-about-wellness-in-tribal-communities/ 
 challenge-id: 868
 status: closed

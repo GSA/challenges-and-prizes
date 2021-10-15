@@ -1,7 +1,7 @@
 ---
 title: Sustainable Communities Web Challenge
 challenge-title: Sustainable Communities Web Challenge
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/sustainable-communities-web-challenge/
 challenge-id: "1248"
 status: closed

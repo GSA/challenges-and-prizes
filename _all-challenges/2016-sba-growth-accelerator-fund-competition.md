@@ -243,5 +243,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/2016-sba-growth-accelerator-fund-competition/"
-layout: json-page
+layout: json-page-legacy
 ---

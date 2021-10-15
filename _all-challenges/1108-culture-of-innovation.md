@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/culture-of-innovation/
 challenge-id: 1108
 status: closed

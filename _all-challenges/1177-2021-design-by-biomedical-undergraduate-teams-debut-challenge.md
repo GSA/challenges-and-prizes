@@ -1,7 +1,7 @@
 ---
 title: 2021 Design by Biomedical Undergraduate Teams (DEBUT) Challenge
 challenge-title: 2021 Design by Biomedical Undergraduate Teams (DEBUT) Challenge
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/design-biomedical-undergraduate-teams-debut-challenge/
 challenge-id: "1177"
 status: closed

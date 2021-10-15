@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/national-historic-landmark-photo-contest/"
-layout: json-page
+layout: json-page-legacy
 ---

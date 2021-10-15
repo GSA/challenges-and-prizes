@@ -159,5 +159,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: true
 permalink: "/challenge/iarpa-activity-in-extended-videos-prize-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

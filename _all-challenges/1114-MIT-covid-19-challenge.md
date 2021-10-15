@@ -1,6 +1,6 @@
 ---
 challenge-title: MIT COVID19 Challenge
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/MIT-COVID19-challenge/
 challenge-id: 1114
 status: closed

@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/absentee-voting-poster-contest/"
-layout: json-page
+layout: json-page-legacy
 ---

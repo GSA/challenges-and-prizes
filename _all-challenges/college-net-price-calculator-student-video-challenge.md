@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/college-net-price-calculator-student-video-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

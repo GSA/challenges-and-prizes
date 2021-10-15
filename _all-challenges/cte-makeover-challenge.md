@@ -288,5 +288,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/cte-makeover-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

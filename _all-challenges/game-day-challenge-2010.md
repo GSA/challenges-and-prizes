@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/game-day-challenge-2010/"
-layout: json-page
+layout: json-page-legacy
 ---

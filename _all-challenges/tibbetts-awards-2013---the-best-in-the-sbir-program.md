@@ -238,5 +238,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/tibbetts-awards-2013---the-best-in-the-sbir-program/"
-layout: json-page
+layout: json-page-legacy
 ---

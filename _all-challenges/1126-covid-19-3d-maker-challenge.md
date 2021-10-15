@@ -1,7 +1,7 @@
 ---
 title: COVID-19 3D Maker Challenge
 challenge-title: COVID-19 3D Maker Challenge
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/covid-19-3d-maker-challenge/
 challenge-id: "1126"
 status: closed

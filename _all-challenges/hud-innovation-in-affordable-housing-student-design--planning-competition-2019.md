@@ -335,5 +335,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: true
 authorEdit: true
 permalink: "/challenge/hud-innovation-in-affordable-housing-student-design-planning-competition-2019/"
-layout: json-page
+layout: json-page-legacy
 ---

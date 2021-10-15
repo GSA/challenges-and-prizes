@@ -130,5 +130,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: true
 authorEdit: true
 permalink: "/challenge/2018-campus-rainworks-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

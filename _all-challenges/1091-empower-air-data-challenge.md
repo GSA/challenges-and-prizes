@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/empower-air-data-challenge-2020/
 challenge-id: 1091
 status: closed

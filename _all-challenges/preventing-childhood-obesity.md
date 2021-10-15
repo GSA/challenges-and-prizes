@@ -325,5 +325,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: true
 permalink: "/challenge/preventing-childhood-obesity/"
-layout: json-page
+layout: json-page-legacy
 ---

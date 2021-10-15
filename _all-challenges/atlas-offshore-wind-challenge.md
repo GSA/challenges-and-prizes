@@ -170,5 +170,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: true
 permalink: "/challenge/atlas-offshore-wind-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

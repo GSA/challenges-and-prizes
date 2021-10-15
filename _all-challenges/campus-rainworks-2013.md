@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/campus-rainworks-2013/"
-layout: json-page
+layout: json-page-legacy
 ---

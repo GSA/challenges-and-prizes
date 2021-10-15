@@ -242,5 +242,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/nasa-iss-fit-food-intake-tracker-ipad-app-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -1,6 +1,6 @@
 ---
 challenge-title: ED.gov Redesign Challenge
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/ed-redesign-challenge/
 challenge-id: "1115"
 status: closed

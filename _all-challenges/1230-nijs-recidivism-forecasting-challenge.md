@@ -1,7 +1,7 @@
 ---
 title: NIJ's Recidivism Forecasting Challenge
 challenge-title: NIJ's Recidivism Forecasting Challenge
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/recidivism-forecasting-challenge/
 challenge-id: "1230"
 status: closed

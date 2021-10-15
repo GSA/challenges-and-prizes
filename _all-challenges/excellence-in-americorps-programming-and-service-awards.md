@@ -314,5 +314,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/excellence-in-americorps-programming-and-service-awards/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/develop-a-template-and-production-process-instructions-for-an-html-based-newsletter/
 challenge-id: 1053
 status: closed

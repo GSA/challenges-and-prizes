@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/nasa-in-space-manufacturing-logo-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

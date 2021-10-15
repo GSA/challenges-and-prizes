@@ -245,5 +245,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/strategies-to-strengthen-fairness-and-impartiality-in-peer-review/"
-layout: json-page
+layout: json-page-legacy
 ---

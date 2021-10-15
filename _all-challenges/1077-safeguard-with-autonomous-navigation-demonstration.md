@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/NASA-sand-challenge/
 challenge-id: 1077
 status: closed

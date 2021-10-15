@@ -245,5 +245,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/designing-a-performance-support-app-for-user-generated-content/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/medicare-claims-data-developer-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

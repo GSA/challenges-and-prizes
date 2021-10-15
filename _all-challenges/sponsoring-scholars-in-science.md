@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/sponsoring-scholars-in-science/"
-layout: json-page
+layout: json-page-legacy
 ---

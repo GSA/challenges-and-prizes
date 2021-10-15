@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/apps-for-vehicles-challenge:-final-round/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -245,5 +245,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/new-methods-to-detect-bias-in-peer-review/"
-layout: json-page
+layout: json-page-legacy
 ---

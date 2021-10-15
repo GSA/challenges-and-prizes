@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/rust-busters-challenge/
 challenge-id: 1064
 status: closed

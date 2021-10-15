@@ -1,7 +1,7 @@
 ---
 challenge-title: Network Detection of Adversarial Campaigns using Artificial
   Intelligence and Machine Learning
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/network-detection-of-adversarial-campaigns/
 challenge-id: 1101
 status: closed

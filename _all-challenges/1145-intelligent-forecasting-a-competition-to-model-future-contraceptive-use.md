@@ -1,7 +1,7 @@
 ---
 title: Intelligent Forecasting A Competition to Model Future Contraceptive Use
 challenge-title: "Intelligent Forecasting: A Competition to Model Future Contraceptive Use"
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/intelligent-forecasting/
 challenge-id: "1145"
 status: closed

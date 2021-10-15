@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/opportunity-project-prize/
 challenge-id: 1071
 status: closed

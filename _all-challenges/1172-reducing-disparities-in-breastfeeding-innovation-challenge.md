@@ -1,7 +1,7 @@
 ---
 title: Reducing Disparities in Breastfeeding Innovation Challenge
 challenge-title: Reducing Disparities in Breastfeeding Innovation Challenge
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/reducing-disparities-breastfeeding-innovation-challenge/
 challenge-id: "1172"
 status: closed

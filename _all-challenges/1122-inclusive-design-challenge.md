@@ -1,7 +1,7 @@
 ---
 title: Inclusive Design Challenge
 challenge-title: Inclusive Design Challenge
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/inclusive-design-challenge/
 challenge-id: "1122"
 status: closed

@@ -473,5 +473,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/national-bio-agro-defense-facility-think-and-do-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

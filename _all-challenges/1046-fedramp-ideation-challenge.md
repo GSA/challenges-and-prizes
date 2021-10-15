@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/the-fedramp-ideation-challenge/
 challenge-id: 1046
 status: closed

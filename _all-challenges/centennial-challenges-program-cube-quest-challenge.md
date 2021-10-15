@@ -857,5 +857,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: true
 authorEdit: true
 permalink: "/challenge/centennial-challenges-program-cube-quest-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

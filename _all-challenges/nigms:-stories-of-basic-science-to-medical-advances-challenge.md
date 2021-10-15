@@ -244,5 +244,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/nigms-stories-of-basic-science-to-medical-advances-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

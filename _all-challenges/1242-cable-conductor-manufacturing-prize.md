@@ -1,7 +1,7 @@
 ---
 title: Card Title Here
 challenge-title: Cable Conductor Manufacturing Prize
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/cable-conductor-manufacturing-prize/
 challenge-id: "1242"
 status: closed

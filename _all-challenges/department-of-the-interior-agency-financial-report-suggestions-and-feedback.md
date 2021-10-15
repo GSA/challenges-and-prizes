@@ -244,5 +244,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/department-of-the-interior-agency-financial-report-suggestions-and-feedback/"
-layout: json-page
+layout: json-page-legacy
 ---

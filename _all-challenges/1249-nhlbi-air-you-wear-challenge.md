@@ -1,7 +1,7 @@
 ---
 title: NHLBI Air You Wear Challenge
 challenge-title: NHLBI Air You Wear Challenge
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/air-you-wear-challenge/
 challenge-id: "1249"
 status: closed

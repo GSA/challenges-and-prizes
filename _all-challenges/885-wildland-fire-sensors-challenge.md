@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/wildland-fire-sensors-challenge/
 challenge-id: 885
 status: closed

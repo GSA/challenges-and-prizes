@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/nist-the-future-of-public-safety-technology-100k-video-series/
 challenge-id: 915
 status: closed

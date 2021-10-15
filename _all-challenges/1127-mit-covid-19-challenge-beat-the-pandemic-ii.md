@@ -1,7 +1,7 @@
 ---
 title: MIT COVID-19 Challenge Beat the Pandemic II
 challenge-title: MIT COVID-19 Challenge Beat the Pandemic II
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/mit-covid-19-beat-the-pandemic-2/
 challenge-id: "1127"
 status: closed

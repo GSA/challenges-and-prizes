@@ -450,5 +450,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/the-niehs-climate-change-and-environmental-exposures-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

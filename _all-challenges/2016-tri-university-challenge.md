@@ -252,5 +252,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/2016-tri-university-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

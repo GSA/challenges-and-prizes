@@ -368,5 +368,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/medicare-program-merit-based-incentive-payment-system-mips-mobile-challenge-phase-ii/"
-layout: json-page
+layout: json-page-legacy
 ---

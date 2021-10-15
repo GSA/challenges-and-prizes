@@ -1,7 +1,7 @@
 ---
 title: Guardians of the Reservoir Challenge
 challenge-title: Guardians of the Reservoir Challenge
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/guardians-of-the-reservoir-challenge/
 challenge-id: "1144"
 status: closed
