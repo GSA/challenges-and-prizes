@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/2013-innovation-in-arms-control-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

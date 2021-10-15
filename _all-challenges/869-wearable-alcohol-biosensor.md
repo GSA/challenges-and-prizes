@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/wearable-alcohol-biosensor/ 
 challenge-id: 869
 status: closed

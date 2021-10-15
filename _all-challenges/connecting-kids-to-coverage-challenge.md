@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/connecting-kids-to-coverage-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

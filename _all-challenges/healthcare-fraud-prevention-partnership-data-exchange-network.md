@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/healthcare-fraud-prevention-partnership-data-exchange-network/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -238,5 +238,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/sample-return-robot-challenge-2014/"
-layout: json-page
+layout: json-page-legacy
 ---

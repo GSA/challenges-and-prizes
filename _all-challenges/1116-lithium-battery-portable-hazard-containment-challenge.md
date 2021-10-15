@@ -1,7 +1,7 @@
 ---
 title: Lithium Battery Man Portable Hazard Containment Challenge
 challenge-title: Lithium Battery Man Portable Hazard Containment Challenge
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/lithium-battery-man-portable-containment/
 challenge-id: "1116"
 status: closed

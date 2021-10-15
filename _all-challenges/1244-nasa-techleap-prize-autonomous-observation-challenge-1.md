@@ -1,7 +1,7 @@
 ---
 title: Card Title Here
 challenge-title: "NASA TechLeap Prize: Autonomous Observation Challenge 1"
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/nasa-tech-leap-autonomous-observation-1/
 challenge-id: "1244"
 status: closed

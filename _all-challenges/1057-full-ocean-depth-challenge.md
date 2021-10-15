@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/full-ocean-depth-challenge/
 challenge-id: 1057
 status: closed

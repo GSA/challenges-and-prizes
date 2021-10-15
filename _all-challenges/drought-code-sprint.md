@@ -238,5 +238,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/drought-code-sprint/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -1,7 +1,7 @@
 ---
 title: Unmanned Aircraft Systems Ground Control Station Software Challenge Series
 challenge-title: Unmanned Aircraft Systems Ground Control Station Software Challenge Series
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/unmanned-aircraft-systems-ground-control-station-software-challenge-series/
 challenge-id: "1178"
 status: closed

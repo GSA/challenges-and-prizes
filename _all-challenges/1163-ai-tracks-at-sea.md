@@ -1,7 +1,7 @@
 ---
 title: AI Tracks at Sea
 challenge-title: AI Tracks at Sea
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/AI-tracks-at-sea/
 challenge-id: "1163"
 status: closed

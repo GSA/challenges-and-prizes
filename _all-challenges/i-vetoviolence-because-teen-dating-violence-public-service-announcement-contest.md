@@ -242,5 +242,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/i-vetoviolence-because:-teen-dating-violence-public-service-announcement-contest/"
-layout: json-page
+layout: json-page-legacy
 ---

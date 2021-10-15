@@ -484,5 +484,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: true
 permalink: "/challenge/2019-nist-ariac-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

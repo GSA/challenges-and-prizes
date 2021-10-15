@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/dataapp-a-mobile-app-framework-for-field-data-capture-stage-1/
 challenge-id: 905
 status: closed

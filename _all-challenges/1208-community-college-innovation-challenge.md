@@ -1,7 +1,7 @@
 ---
 title: Community College Innovation Challenge
 challenge-title: Community College Innovation Challenge
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/community-college-innovation-challenge-2021/
 challenge-id: "1208"
 status: closed

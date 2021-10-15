@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/growth-accelerator-fund-competition/
 challenge-id: 1043
 status: closed

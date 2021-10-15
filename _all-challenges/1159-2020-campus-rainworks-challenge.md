@@ -1,7 +1,7 @@
 ---
 title: 2020 Campus RainWorks Challenge
 challenge-title: 2020 Campus RainWorks Challenge
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/2020-campus-rainworks-challenge/
 challenge-id: "1159"
 status: closed

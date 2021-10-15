@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/2019-raise-award/
 challenge-id: 1073
 status: closed

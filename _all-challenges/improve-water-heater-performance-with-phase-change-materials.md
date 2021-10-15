@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/improve-water-heater-performance-with-phase-change-materials/"
-layout: json-page
+layout: json-page-legacy
 ---

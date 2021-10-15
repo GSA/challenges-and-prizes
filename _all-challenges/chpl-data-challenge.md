@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: true
 authorEdit: true
 permalink: "/challenge/chpl-data-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

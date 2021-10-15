@@ -1,7 +1,7 @@
 ---
 title: First Responder UAS Endurance Challenge
 challenge-title: First Responder UAS Endurance Challenge
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/first-responder-uas-endurance-challenge/
 challenge-id: "1098"
 status: closed

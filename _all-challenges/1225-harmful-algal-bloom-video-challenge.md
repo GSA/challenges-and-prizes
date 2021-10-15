@@ -3,7 +3,7 @@ title: See a Bloom, Give it Room Urban Waters Edition – Harmful Algal Bloom
   Video Challenge
 challenge-title: See a Bloom, Give it Room Urban Waters Edition – Harmful Algal
   Bloom Video Challenge
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/harmful-algal-bloom-video-challenge-urban-waters-edition/
 challenge-id: "1225"
 status: closed

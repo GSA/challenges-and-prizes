@@ -624,5 +624,5 @@ ideaCount: 2
 memberIdeaAttachmentAllowed: false
 authorEdit: true
 permalink: "/challenge/the-mechanical-eye/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -252,5 +252,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/cinespace-film-competition-2015/"
-layout: json-page
+layout: json-page-legacy
 ---

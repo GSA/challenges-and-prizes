@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/data-rx:-prescription-drug-abuse-infographic-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

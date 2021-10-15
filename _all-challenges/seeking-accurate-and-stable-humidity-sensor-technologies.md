@@ -238,5 +238,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/seeking-accurate-and-stable-humidity-sensor-technologies/"
-layout: json-page
+layout: json-page-legacy
 ---

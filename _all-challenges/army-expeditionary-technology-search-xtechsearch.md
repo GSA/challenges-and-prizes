@@ -508,5 +508,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/army-expeditionary-technology-search-xtechsearch/"
-layout: json-page
+layout: json-page-legacy
 ---

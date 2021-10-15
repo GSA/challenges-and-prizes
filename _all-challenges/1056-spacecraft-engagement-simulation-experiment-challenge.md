@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/spacecraft-engagement-simulation-experiment-challenge/
 challenge-id: 1056
 status: closed

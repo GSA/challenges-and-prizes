@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/myplate-fruits-and-veggies-video-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

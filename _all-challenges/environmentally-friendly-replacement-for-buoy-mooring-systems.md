@@ -238,5 +238,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/environmentally-friendly-replacement-for-buoy-mooring-systems/"
-layout: json-page
+layout: json-page-legacy
 ---

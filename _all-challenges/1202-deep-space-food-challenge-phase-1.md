@@ -1,7 +1,7 @@
 ---
 title: Deep Space Food Challenge Phase 1
 challenge-title: Deep Space Food Challenge Phase 1
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/deep-space-food-challenge-phase1/
 challenge-id: "1202"
 status: closed

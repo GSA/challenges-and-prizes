@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/blue-button-co-design-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

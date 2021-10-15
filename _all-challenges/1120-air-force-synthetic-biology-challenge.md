@@ -1,7 +1,7 @@
 ---
 title: " Air Force Synthetic Biology Challenge"
 challenge-title: " Air Force Synthetic Biology Challenge"
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/air-force-synthetic-biology-challenge/
 challenge-id: "1120"
 status: closed

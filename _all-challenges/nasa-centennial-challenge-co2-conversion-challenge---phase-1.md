@@ -137,5 +137,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: true
 permalink: "/challenge/nasa-centennial-challenge-co2-conversion-challenge-phase-1/"
-layout: json-page
+layout: json-page-legacy
 ---

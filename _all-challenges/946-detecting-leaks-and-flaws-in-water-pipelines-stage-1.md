@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/detecting-leaks-and-flaws-in-water-pipelines-stage-1/
 challenge-id: 946
 status: closed

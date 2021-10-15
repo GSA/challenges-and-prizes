@@ -2,7 +2,7 @@
 title: Spanish Reducing HIV-Related Stigma
 challenge-title: Estrategias innovadoras de participación comunitaria para
   reducir el estigma y las disparidades relacionadas con el VIH
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/espanol-reduce-HIV-related-stigma
 challenge-id: "1263"
 status: closed

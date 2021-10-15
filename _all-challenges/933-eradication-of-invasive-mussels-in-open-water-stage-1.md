@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/eradication-of-invasive-mussels-in-open-water-stage-1/
 challenge-id: 933
 status: closed

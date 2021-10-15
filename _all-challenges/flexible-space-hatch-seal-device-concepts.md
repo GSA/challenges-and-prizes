@@ -255,5 +255,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/flexible-space-hatch-seal-device-concepts/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -1,7 +1,7 @@
 ---
 title: "MGMWERX Space Case Study Prize Challenge "
 challenge-title: "MGMWERX Space Case Study Prize Challenge "
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/mgmwerx-space-case-study-prize-challenge/
 challenge-id: "1142"
 status: closed

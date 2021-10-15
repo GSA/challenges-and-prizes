@@ -1,7 +1,7 @@
 ---
 title: Beat the Blaze
 challenge-title: Beat the Blaze
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/beat-the-blaze/
 challenge-id: "1214"
 status: closed

@@ -237,5 +237,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: true
 permalink: "/challenge/unleash-the-power-of-age/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -244,5 +244,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/dtn-neighbor-discovery-protocol-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

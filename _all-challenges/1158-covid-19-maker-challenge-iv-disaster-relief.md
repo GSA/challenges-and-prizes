@@ -1,7 +1,7 @@
 ---
 title: "COVID-19 Maker Challenge V: Disaster Relief"
 challenge-title: "COVID-19 Maker Challenge V: Disaster Relief"
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/covid-19-maker-challenge-disaster-relief/
 challenge-id: "1158"
 status: closed

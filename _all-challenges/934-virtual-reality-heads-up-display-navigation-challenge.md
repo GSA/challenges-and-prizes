@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/virtual-reality-heads-up-display-navigation-challenge/
 challenge-id: 934
 status: closed

@@ -1,7 +1,7 @@
 ---
 title: xTech COVID-19 Ventilator Challenge
 challenge-title: xTech COVID-19 Ventilator Challenge
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/xTech-COVID-19-ventilator-challenge/
 challenge-id: "1118"
 status: closed

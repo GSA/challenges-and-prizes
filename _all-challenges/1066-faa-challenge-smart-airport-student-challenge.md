@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/FAA-Challenge-Smart-Airport-Student-Competition/
 challenge-id: 1066
 status: closed

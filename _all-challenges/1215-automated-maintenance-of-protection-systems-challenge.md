@@ -1,7 +1,7 @@
 ---
 title: Automated Maintenance of Protection Systems Challenge
 challenge-title: Automated Maintenance of Protection Systems Challenge
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/automated-maintenance-of-protection-systems-challenge/
 challenge-id: "1215"
 status: closed

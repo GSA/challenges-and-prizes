@@ -391,5 +391,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/proposal-challenge-expanding-opportunity-for-asian-americans-and-pacific-islanders/"
-layout: json-page
+layout: json-page-legacy
 ---

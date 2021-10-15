@@ -1,7 +1,7 @@
 ---
 title: Water Americas Crops Challenge
 challenge-title: Water America's Crops Challenge
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/water-americas-crops/
 challenge-id: "1205"
 status: closed

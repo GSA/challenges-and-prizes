@@ -1,6 +1,6 @@
 ---
 challenge-title: DARPA Subterranean (SubT) Challenge
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/DARPA-subterranean-subt-challenge/
 challenge-id: 35
 status: closed

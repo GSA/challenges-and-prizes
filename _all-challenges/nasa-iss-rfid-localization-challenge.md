@@ -138,5 +138,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: true
 authorEdit: true
 permalink: "/challenge/nasa-iss-rfid-localization-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

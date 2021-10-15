@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/challenge-to-identify-audacious-goals-in-vision-research-and-blindness-rehabilitation/"
-layout: json-page
+layout: json-page-legacy
 ---

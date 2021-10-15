@@ -160,5 +160,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: true
 authorEdit: true
 permalink: "/challenge/agriculture-field-delineation-from-satellite-imagery/"
-layout: json-page
+layout: json-page-legacy
 ---

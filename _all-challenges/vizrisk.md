@@ -329,5 +329,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/vizrisk/"
-layout: json-page
+layout: json-page-legacy
 ---

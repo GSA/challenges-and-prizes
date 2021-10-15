@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/the-neuro-startup-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

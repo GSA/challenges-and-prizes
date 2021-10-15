@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/metadata-automation-dream-challenge/
 challenge-id: 1090
 status: closed

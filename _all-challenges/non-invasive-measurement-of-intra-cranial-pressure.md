@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/non-invasive-measurement-of-intra-cranial-pressure/"
-layout: json-page
+layout: json-page-legacy
 ---

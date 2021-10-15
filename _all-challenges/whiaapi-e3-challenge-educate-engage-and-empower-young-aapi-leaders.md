@@ -450,5 +450,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/whiaapi-e3-challenge-educate-engage-and-empower-young-aapi-leaders/"
-layout: json-page
+layout: json-page-legacy
 ---

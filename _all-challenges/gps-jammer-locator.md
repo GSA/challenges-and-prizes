@@ -238,5 +238,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/gps-jammer-locator/"
-layout: json-page
+layout: json-page-legacy
 ---

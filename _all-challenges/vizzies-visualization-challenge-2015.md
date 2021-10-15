@@ -242,5 +242,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/vizzies-visualization-challenge-2015/"
-layout: json-page
+layout: json-page-legacy
 ---

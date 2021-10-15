@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/whats-your-energy-innovation---a-video-challenge-for-undergraduate-college-students/"
-layout: json-page
+layout: json-page-legacy
 ---

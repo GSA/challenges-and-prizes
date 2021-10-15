@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/sub-seasonal-climate-forecast-rodeo/
 challenge-id: 873
 status: closed

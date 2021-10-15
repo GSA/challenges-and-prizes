@@ -1,7 +1,7 @@
 ---
 title: Differential Privacy Temporal Map Challenge
 challenge-title: Differential Privacy Temporal Map Challenge
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/differential-privacy-temporal-map-challenge/
 challenge-id: "1162"
 status: closed

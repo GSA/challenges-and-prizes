@@ -259,5 +259,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/right-whale-recognition-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

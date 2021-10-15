@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/one-in-a-million-hearts-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

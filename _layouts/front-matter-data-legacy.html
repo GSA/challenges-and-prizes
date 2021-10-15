@@ -1,0 +1,76 @@
+---
+layout: default
+permalink: json-page
+---
+  
+<div class="grid-container">
+    <div class="grid-row grid-gap">
+    {% include sidenav-front-matter-data.html %}
+        <div class="desktop:grid-col-9 usa-prose usa-section challenge-main">
+            {% if page.status == "closed" %}
+            {% include alert-banner-closed-challenge.html %}
+            {% endif %}  
+            <h1 class="text-primary-dark">{{ page.challenge-title }}</h1>
+            {% if page.tagline != "" %}
+            <h3 class="text-primary">{{ page.tagline }}</h3>
+            {% endif %}  
+            <h4 class="text-base-dark  desktop-only-display">{{ page.agency }}</h4> 
+            <!-- Start Accordion -->
+            <div class="usa-accordion">
+                <h4 class="usa-accordion__heading">
+                  <button class="usa-accordion__button usa-accordion__button--primary-darkest text-uppercase text-ls-1" aria-expanded="true" aria-controls="a1">Challenge Details</button>
+                </h4>
+                <div id="a1" class="usa-accordion__content bg-gray-5">
+                    <div class="text-base-darker">
+                        {% if page.total-prize-offered-cash %}
+                        <i class="fas fa-money-bill-wave text-accent-warm-dark font-size-mono-xl"></i><span class="text-primary text-uppercase"> Total Cash Prizes Offered: </span> {{ page.total-prize-offered-cash }}<br>
+                        {% endif %}
+                        {% if page.type-of-challenge %}
+                        <i class="fas fa-stream text-accent-warm-dark"></i><span class="text-primary text-uppercase"> Type of Challenge:</span>  {{ page.type-of-challenge }}</span><br>
+                        {% endif %}
+                        {% if page.partner-agencies-federal %}
+                        <i class="fas fa-university text-accent-warm-dark font-size-mono-xl"></i><span class="text-primary text-uppercase"> Partner Agencies | Federal:</span> {{ page.partner-agencies-federal }}<br>
+                        {% endif %}
+                        {% if page.partners-non-federal  %}
+                        <i class="fas fa-building text-accent-warm-dark"></i><span class="text-primary text-uppercase">  Partner Agencies | Non-federal:</span> {{ page.partners-non-federal }}<br>
+                        {% endif %}
+                        {% if page.status == "open"  %}
+                            {% if page.submission-start  %}
+                            <i class="fas fa-calendar-alt text-accent-warm-dark"></i><span class="text-primary text-uppercase">  Submission Start:</span> {{ page.submission-start | date: "%m/%d/%Y %I:%M %p" }} ET<br>
+                            {% endif %}
+                            <i class="fas fa-calendar-times text-accent-warm-dark"></i><span class="text-primary text-uppercase">  Submission End:</span> {{ page.submission-end | date: "%m/%d/%Y %I:%M %p" }} ET
+                        {% elsif page.status == "closed" %}
+                            {% if page.submission-start  %}
+                            <i class="fas fa-calendar-alt text-accent-warm-dark"></i><span class="text-primary text-uppercase">  Submission Start:</span> {{ page.submission-start }} ET<br>
+                            {% endif %}
+                            <i class="fas fa-calendar-times text-accent-warm-dark"></i><span class="text-primary text-uppercase">  Submission End:</span> {{ page.submission-end }} ET
+                        {% endif %}
+                    </div>
+              
+                </div>
+            </div>
+            <!-- End Accordion -->
+            <div class="text-base-darker challenge-body-content challenge-section">
+                {% if page.external-url and page.external-url != '' %}
+                <h3>This challenge is externally hosted.</h3> <p>You can view the challenge details here: <a href="{{page.external-url}}" target="_blank" rel="noopener">{{page.external-url}}</a></p>
+                {% endif %}
+                {{ content | markdownify }} 
+            </div>
+            {% if page.point-of-contact and page.point-of-contact != ''  %}
+            {% if page.status == "open"  %}
+            <!-- Contact start -->
+            <h3 id="contact" class="text-accent-warm-dark font-heading-lg challenge-section">Point of Contact</h3>
+            <div>
+                <p class="text-bold">Have feedback or questions about this challenge?
+                {% if page.point-of-contact %}
+                <a class="usa-link--external" href="mailto:{{ page.point-of-contact }}">  Send the challenge manager an email</a></p>
+                {% else %}
+                <a class="usa-link--external" href="mailto:team@challenge.gov">  Send the challenge manager an email</a></p>
+                {% endif %}
+            </div>
+            <!-- Contact end -->
+            {% endif %}
+            {% endif %}
+        </div>
+    </div>
+</div>

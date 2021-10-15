@@ -1,7 +1,7 @@
 ---
 title: Card Title Here
 challenge-title: Improving IT Vendor & Government Communication and Collaboration
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/improving-it-vendor-and-government-communication-and-collaboration/
 challenge-id: "1239"
 status: closed

@@ -242,5 +242,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/a-trustworthy-mechanism-to-identify-private-vs-public-information/"
-layout: json-page
+layout: json-page-legacy
 ---

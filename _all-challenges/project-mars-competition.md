@@ -285,5 +285,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/project-mars-competition/"
-layout: json-page
+layout: json-page-legacy
 ---

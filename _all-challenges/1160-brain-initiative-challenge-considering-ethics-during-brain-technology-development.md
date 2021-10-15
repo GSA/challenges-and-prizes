@@ -3,7 +3,7 @@ title: "BRAIN Initiative Challenge: Considering Ethics During Brain Technology
   Development"
 challenge-title: "BRAIN Initiative Challenge: Considering Ethics During Brain
   Technology Development"
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/brain-initiative-challenge/
 challenge-id: "1160"
 status: closed

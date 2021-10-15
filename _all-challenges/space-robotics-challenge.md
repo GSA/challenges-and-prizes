@@ -255,5 +255,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/space-robotics-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

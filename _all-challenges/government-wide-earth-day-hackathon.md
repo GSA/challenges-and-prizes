@@ -516,5 +516,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/government-wide-earth-day-hackathon/"
-layout: json-page
+layout: json-page-legacy
 ---

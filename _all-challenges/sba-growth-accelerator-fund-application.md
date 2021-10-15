@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/sba-growth-accelerator-fund-application/"
-layout: json-page
+layout: json-page-legacy
 ---

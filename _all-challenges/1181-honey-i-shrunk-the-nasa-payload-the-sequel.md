@@ -1,7 +1,7 @@
 ---
 title: Honey, I Shrunk the NASA Payload, The Sequel
 challenge-title: Honey, I Shrunk the NASA Payload, The Sequel
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/honey-i-shrunk-the-nasa-payload-sequel/
 challenge-id: "1181"
 status: closed

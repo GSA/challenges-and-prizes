@@ -1,7 +1,7 @@
 ---
 title: Lunar Deep Freeze Challenge
 challenge-title: Lunar Deep Freeze Challenge
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/lunar-deep-freeze-challenge/
 challenge-id: "1164"
 status: closed

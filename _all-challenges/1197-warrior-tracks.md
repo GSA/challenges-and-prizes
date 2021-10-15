@@ -1,7 +1,7 @@
 ---
 title: Warrior Tracks
 challenge-title: Warrior Tracks
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/warrior-tracks/
 challenge-id: "1197"
 status: closed

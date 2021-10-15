@@ -296,5 +296,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/envisionano/"
-layout: json-page
+layout: json-page-legacy
 ---

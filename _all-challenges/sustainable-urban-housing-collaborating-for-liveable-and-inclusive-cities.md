@@ -243,5 +243,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/sustainable-urban-housing-collaborating-for-liveable-and-inclusive-cities/"
-layout: json-page
+layout: json-page-legacy
 ---

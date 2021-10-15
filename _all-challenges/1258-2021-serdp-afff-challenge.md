@@ -1,7 +1,7 @@
 ---
 title: 2021 SERDP AFFF Challenge
 challenge-title: 2021 SERDP AFFF Challenge
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/2021-serdp-afff-challenge/
 challenge-id: "1258"
 status: closed

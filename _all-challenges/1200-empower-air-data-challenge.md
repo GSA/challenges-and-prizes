@@ -1,7 +1,7 @@
 ---
 title: "EmPOWER Air Data Challenge "
 challenge-title: "EmPOWER Air Data Challenge "
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/empower-air-data-challenge-2021/
 challenge-id: "1200"
 status: closed

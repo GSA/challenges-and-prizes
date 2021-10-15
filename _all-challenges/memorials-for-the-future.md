@@ -458,5 +458,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/memorials-for-the-future/"
-layout: json-page
+layout: json-page-legacy
 ---

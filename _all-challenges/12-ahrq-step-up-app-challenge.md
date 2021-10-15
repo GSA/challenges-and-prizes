@@ -1,6 +1,6 @@
 ---
 challenge-title: AHRQ Step Up App Challenge
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/ahrq-step-up-app-challenge/
 challenge-id: 12
 status: closed

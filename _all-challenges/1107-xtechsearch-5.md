@@ -2,7 +2,7 @@
 type-of-challenge: Ideas; Technology demonstration and hardware
 prizes: true
 challenge-title: xTechSearch 5
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/xtechsearch-5/
 challenge-id: 1107
 status: closed

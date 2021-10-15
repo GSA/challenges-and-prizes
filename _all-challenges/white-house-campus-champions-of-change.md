@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/white-house-campus-champions-of-change/"
-layout: json-page
+layout: json-page-legacy
 ---

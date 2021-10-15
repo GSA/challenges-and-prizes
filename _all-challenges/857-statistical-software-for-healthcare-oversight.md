@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/statistical-software-for-healthcare-oversight/
 challenge-id: 857
 status: closed

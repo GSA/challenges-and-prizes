@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/real-time-sensor-to-monitor-sewer-overflows/"
-layout: json-page
+layout: json-page-legacy
 ---

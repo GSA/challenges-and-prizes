@@ -344,5 +344,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/a-bill-you-can-understand-design-and-innovation-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

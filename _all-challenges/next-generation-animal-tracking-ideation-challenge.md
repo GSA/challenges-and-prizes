@@ -136,5 +136,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: true
 authorEdit: true
 permalink: "/challenge/next-generation-animal-tracking-ideation-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

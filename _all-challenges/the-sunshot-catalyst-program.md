@@ -242,5 +242,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/the-sunshot-catalyst-program/"
-layout: json-page
+layout: json-page-legacy
 ---
