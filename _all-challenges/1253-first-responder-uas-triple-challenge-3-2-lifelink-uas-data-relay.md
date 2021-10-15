@@ -1,7 +1,7 @@
 ---
 title: "First Responder UAS Triple Challenge 3.2: Lifelink - UAS Data Relay"
 challenge-title: "First Responder UAS Triple Challenge 3.2: Lifelink - UAS Data Relay"
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/first-responder-uas-triple-challenge-lifelink/
 challenge-id: "1253"
 status: closed
