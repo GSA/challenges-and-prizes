@@ -11,7 +11,7 @@ Challenge.Gov, managed by the General Services Administration, is a leading prog
 
 Through this Challenge.Gov website, federal agencies can engage public solvers in challenges and prize competitions (together referred to as “prize competitions”) to identify innovative solutions to critical issues.
 
-This site also provides a [comprehensive toolkit](https://www.challenge.gov/assets/document-library/ChallengeGov_Federal_Agency_Toolkit_13Oct2021.pdf){:target="_blank"} for federal employees interested in or currently running prize competitions. Developed with insights from experts across government, this toolkit contains a robust repository of resources, best practices, and case studies.
+This site also provides a <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Federal_Agency_Toolkit_13Oct2021.pdf" target="_blank" rel="noopener">comprehensive toolkit</a> for federal employees interested in or currently running prize competitions. Developed with insights from experts across government, this toolkit contains a robust repository of resources, best practices, and case studies.
 
 **About Prize Competitions**
 
@@ -33,7 +33,7 @@ If you have general questions regarding Challenge.Gov, contact us at [team@chall
 
 **Use Prize Competitions to Advance Your Agency Mission**
 
-If you’re a federal employee interested in prize competitions, visit the [Challenge and Prize Toolkit](https://www.challenge.gov/assets/document-library/ChallengeGov_Federal_Agency_FAQ.pdf){:target="_blank"} for considerations and best practices in designing and executing a successful competition.
+If you’re a federal employee interested in prize competitions, visit the <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Federal_Agency_FAQ.pdf" target="_blank" rel="noopener">Challenge and Prize Toolkit</a> for considerations and best practices in designing and executing a successful competition.
 
 We also encourage you to join the [Challenge & Prize Community of Practice](https://digital.gov/communities/challenges-prizes/){:target="_blank"} (CoP). Joining the CoP will enable you to stay up-to-date on resources to help with your work, and make it easy for you to connect with other prize practitioners across the federal government.
 
