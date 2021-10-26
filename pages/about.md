@@ -29,7 +29,7 @@ If you’re interested in being a public solver, start by browsing the [archive]
 
 If you have a question about a specific challenge, reach out to the point of contact for that challenge.
 
-If you have general questions regarding Challenge.Gov, contact us at [team@challenge.gov](mailto:team@challenge.gov).
+If you have general questions regarding Challenge.Gov, contact us at <a href="mailto:team@challenge.gov" target="_blank" rel="noopener">team@challenge.gov</a>.
 
 **Use Prize Competitions to Advance Your Agency Mission**
 
@@ -39,4 +39,4 @@ We also encourage you to join the [Challenge & Prize Community of Practice](http
 
 Create an account [here](https://portal.challenge.gov/sign-in/new) on Challenge.Gov to access additional prize competition guidance documents and resources.
 
-For additional support, drop us a line at [team@challenge.gov](mailto:team@challenge.gov) to get started.
+For additional support, drop us a line at <a href="mailto:team@challenge.gov" target="_blank" rel="noopener">team@challenge.gov</a> to get started.
