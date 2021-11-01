@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/detecting-soil-movement-in-embankments/
 challenge-id: 808
 status: closed

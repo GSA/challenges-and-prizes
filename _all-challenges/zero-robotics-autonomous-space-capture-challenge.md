@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/zero-robotics-autonomous-space-capture-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

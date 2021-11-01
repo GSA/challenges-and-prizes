@@ -256,5 +256,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: true
 authorEdit: true
 permalink: "/challenge/improving-fish-exclusion-from-water-diversions-and-intakes/"
-layout: json-page
+layout: json-page-legacy
 ---

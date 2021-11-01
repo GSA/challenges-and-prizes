@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/design-the-human-factors-engineering-lab-graphic/
 challenge-id: 1060
 status: closed

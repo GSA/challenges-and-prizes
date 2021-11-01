@@ -361,5 +361,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/the-blue-economy-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/national-humanities-medal-design-competition/"
-layout: json-page
+layout: json-page-legacy
 ---

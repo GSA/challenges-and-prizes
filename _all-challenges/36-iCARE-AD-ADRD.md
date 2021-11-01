@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/iCARE-AD-ADRD/
 challenge-id: 36
 status: closed

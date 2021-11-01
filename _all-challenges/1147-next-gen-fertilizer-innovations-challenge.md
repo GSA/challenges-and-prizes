@@ -1,7 +1,7 @@
 ---
 title: Next Gen Fertilizer Innovation Challenge
 challenge-title: Next Gen Fertilizer Innovation Challenge
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/next-gen-fertilizer-innovations-challenge/
 challenge-id: "1147"
 status: closed

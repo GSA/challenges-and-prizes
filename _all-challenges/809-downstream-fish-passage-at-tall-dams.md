@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/downstream-fish-passage-at-tall-dams/
 challenge-id: 809
 status: closed

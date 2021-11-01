@@ -1,6 +1,6 @@
 ---
 challenge-title: NASA Vascular Tissue Challenge
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/nasa-vascular-tissue-challenge/
 challenge-id: 48
 status: closed

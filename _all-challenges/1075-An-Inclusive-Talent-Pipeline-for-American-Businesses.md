@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/an-inclusive-talent-pipeline-for-american-businesses/
 challenge-id: 1075
 status: closed

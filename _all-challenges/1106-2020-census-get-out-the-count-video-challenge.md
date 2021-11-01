@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/2020-census-get-out-the-count-video-challenge/
 challenge-id: 1106
 status: closed

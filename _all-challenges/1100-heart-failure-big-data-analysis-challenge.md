@@ -1,6 +1,6 @@
 ---
 challenge-title: Big Data Analysis Challenge - Creating New Paradigms for Heart Failure Research
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/heart-failure-big-data-analysis-challenge/
 challenge-id: 1100
 status: closed

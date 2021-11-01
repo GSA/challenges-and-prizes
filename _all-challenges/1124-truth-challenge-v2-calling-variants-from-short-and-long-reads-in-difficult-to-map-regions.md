@@ -3,7 +3,7 @@ title: Truth Challenge V2 - Calling Variants from Short and Long Reads in
   Difficult-to-Map Regions
 challenge-title: Truth Challenge V2 - Calling Variants from Short and Long Reads
   in Difficult-to-Map Regions
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/truth-challenge-v2/
 challenge-id: "1124"
 status: closed

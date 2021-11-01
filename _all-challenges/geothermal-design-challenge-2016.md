@@ -288,5 +288,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/geothermal-design-challenge-2016/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/2013-sba-visa-export-video-contest/"
-layout: json-page
+layout: json-page-legacy
 ---

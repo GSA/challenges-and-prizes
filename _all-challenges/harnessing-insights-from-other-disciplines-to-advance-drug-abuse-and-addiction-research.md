@@ -253,5 +253,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/harnessing-insights-from-other-disciplines-to-advance-drug-abuse-and-addiction-research/"
-layout: json-page
+layout: json-page-legacy
 ---

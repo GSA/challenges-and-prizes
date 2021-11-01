@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/career-videos-for-americas-job-seekers/"
-layout: json-page
+layout: json-page-legacy
 ---

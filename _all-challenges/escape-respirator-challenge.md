@@ -348,5 +348,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: true
 permalink: "/challenge/escape-respirator-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

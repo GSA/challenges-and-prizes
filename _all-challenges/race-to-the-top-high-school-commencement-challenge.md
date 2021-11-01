@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/race-to-the-top-high-school-commencement-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

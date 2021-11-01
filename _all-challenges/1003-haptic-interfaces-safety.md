@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/haptic-interfaces-for-public-safety-challenge/
 challenge-id: 1003
 status: closed

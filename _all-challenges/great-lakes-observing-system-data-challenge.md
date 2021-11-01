@@ -349,5 +349,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/great-lakes-observing-system-data-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

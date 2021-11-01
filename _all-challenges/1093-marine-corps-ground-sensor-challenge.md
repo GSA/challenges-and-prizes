@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/marine-corps-ground-sensor-challenge/
 challenge-id: 1093
 status: closed

@@ -1,7 +1,7 @@
 ---
 title: Solar Desalination Prize - Contest 1
 challenge-title: Solar Desalination Prize - Contest 1
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/solar-desalination-prize-contest-1/
 challenge-id: "1133"
 status: closed

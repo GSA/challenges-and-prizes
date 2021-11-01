@@ -1,7 +1,7 @@
 ---
 title: xTechSearch 6
 challenge-title: xTechSearch 6
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/xtechsearch-6/
 challenge-id: "1266"
 status: closed

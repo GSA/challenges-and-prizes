@@ -243,5 +243,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/esri-illinois-health-data-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

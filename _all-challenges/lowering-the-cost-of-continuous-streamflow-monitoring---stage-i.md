@@ -288,5 +288,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: true
 permalink: "/challenge/lowering-the-cost-of-continuous-streamflow-monitoring-stage-i/"
-layout: json-page
+layout: json-page-legacy
 ---

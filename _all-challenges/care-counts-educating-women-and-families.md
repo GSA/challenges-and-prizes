@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/care-counts:-educating-women-and-families/"
-layout: json-page
+layout: json-page-legacy
 ---

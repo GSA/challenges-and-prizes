@@ -238,5 +238,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/sba-counselor-of-the-year-womens-business-center/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/now-trending-health-in-my-community/"
-layout: json-page
+layout: json-page-legacy
 ---

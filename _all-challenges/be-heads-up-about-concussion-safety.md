@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/be-heads-up-about-concussion-safety/"
-layout: json-page
+layout: json-page-legacy
 ---

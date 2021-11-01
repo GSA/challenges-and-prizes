@@ -1,7 +1,7 @@
 ---
 title: "First Responder UAS Triple Challenge 3.1: FastFind - UAS Search Optimized"
 challenge-title: "First Responder UAS Triple Challenge 3.1: FastFind - UAS Search Optimized"
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/first-responder-uas-triple-challenge-fastfind/
 challenge-id: "1254"
 status: closed

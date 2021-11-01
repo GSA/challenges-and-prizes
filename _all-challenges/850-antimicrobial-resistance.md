@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/antimicrobial-resistance-rapid-point-of-care-diagnostic-letter-of-intent/ 
 challenge-id: 850
 status: closed

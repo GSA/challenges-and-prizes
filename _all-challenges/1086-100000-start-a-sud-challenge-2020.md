@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/2020-1000000-start-a-sud-startup-challenge/
 challenge-id: 1086
 status: closed

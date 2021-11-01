@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/fcc-open-internet-apps-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -1000,5 +1000,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/perfloc-prize-competition/"
-layout: json-page
+layout: json-page-legacy
 ---

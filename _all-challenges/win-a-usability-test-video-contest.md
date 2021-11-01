@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/win-a-usability-test-video-contest/"
-layout: json-page
+layout: json-page-legacy
 ---

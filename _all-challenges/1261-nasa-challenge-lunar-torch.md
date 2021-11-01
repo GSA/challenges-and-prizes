@@ -1,7 +1,7 @@
 ---
 title: NASA Challenge Lunar TORCH
 challenge-title: NASA Challenge Lunar TORCH
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/nasa-challenge-lunar-torch/
 challenge-id: "1261"
 status: closed

@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/high-performance-fast-computing-architecture-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/more-water-less-concentrate-stage-1/
 challenge-id: 870
 status: closed

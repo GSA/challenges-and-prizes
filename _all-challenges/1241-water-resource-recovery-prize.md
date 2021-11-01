@@ -1,7 +1,7 @@
 ---
 title: Card Title Here
 challenge-title: Water Resource Recovery Prize
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/water-resource-recovery-prize/
 challenge-id: "1241"
 status: closed

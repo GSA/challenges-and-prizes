@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/united-states-surgeon-generals-healthy-apps-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

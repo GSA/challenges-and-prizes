@@ -735,5 +735,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/digital-service-contracting-professional-training-and-development-program-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

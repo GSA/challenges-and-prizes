@@ -267,5 +267,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/us-tall-wood-building-prize-competition/"
-layout: json-page
+layout: json-page-legacy
 ---

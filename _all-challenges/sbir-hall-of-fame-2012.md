@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/sbir-hall-of-fame-2012/"
-layout: json-page
+layout: json-page-legacy
 ---

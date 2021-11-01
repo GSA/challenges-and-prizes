@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/national-guard-innovation-competition-round-1/
 challenge-id: 1089
 status: closed

@@ -246,5 +246,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/the-white-house-student-film-festival/"
-layout: json-page
+layout: json-page-legacy
 ---

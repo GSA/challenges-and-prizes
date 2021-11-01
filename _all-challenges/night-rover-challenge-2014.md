@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/night-rover-challenge-2014/"
-layout: json-page
+layout: json-page-legacy
 ---

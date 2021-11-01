@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/high-temp-polymer-composite-for-additive-direct-manufacturing/"
-layout: json-page
+layout: json-page-legacy
 ---

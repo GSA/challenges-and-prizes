@@ -317,5 +317,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/no-petri-dish-diagnostic-test-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

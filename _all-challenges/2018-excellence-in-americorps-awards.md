@@ -423,5 +423,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/2018-excellence-in-americorps-awards/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: true
 authorEdit: true
 permalink: "/challenge/american-made-solar-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

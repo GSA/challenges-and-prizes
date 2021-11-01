@@ -1,6 +1,6 @@
 ---
 challenge-title: 2020 Million Hearts® Hypertension Control Challenge
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/2020-million-hearts-hypertension-control-challenge/
 challenge-id: 1096
 status: closed

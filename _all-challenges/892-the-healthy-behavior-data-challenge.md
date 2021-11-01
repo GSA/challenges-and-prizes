@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/the-healthy-behavior-data-challenge/ 
 challenge-id: 892
 status: closed

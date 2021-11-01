@@ -185,5 +185,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: true
 permalink: "/challenge/addressing-opioid-use-disorder-in-pregnant-women-and-new-moms-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -187,5 +187,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: true
 permalink: "/challenge/detecting-radiological-threats-in-urban-areas/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/2020-reach-lark-award/
 challenge-id: 1070
 status: closed

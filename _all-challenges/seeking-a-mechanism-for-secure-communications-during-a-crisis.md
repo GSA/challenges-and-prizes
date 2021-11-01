@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/seeking-a-mechanism-for-secure-communications-during-a-crisis/"
-layout: json-page
+layout: json-page-legacy
 ---

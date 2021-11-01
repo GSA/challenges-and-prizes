@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/match-pilot-competition/
 challenge-id: 1036
 status: closed

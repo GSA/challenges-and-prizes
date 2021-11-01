@@ -245,5 +245,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/geoenergy-is-beautiful-2014/"
-layout: json-page
+layout: json-page-legacy
 ---

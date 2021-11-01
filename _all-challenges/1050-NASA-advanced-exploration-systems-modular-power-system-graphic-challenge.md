@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/nasa-advanced-exploration-systems-modular-power-system-graphic-challenge/
 challenge-id: 1050
 status: closed

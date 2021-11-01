@@ -242,5 +242,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/g-20-sme-finance-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

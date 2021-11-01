@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/find-optimal-configurations-for-galactic-cosmic-ray-protection/"
-layout: json-page
+layout: json-page-legacy
 ---

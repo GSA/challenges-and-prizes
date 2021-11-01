@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/the-tech-challenge-for-atrocity-prevention-2012/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -238,5 +238,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/blockchain-in-healthcare-two-day-code-a-thon/"
-layout: json-page
+layout: json-page-legacy
 ---

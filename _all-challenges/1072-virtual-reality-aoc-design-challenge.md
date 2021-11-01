@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/virtual-reality-aoc-design-challenge/
 challenge-id: 1072
 status: closed

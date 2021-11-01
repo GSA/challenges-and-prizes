@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/installation-resilience/
 challenge-id: 1111
 status: closed

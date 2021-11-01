@@ -1,7 +1,7 @@
 ---
 title: Watts on the Moon - Phase 1
 challenge-title: Watts on the Moon - Phase 1
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/watts-on-the-moon-phase-1/
 challenge-id: "1167"
 status: closed

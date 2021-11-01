@@ -246,5 +246,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/nasas-solution-mechanism-guide/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -223,5 +223,5 @@ ideaCount: 59
 memberIdeaAttachmentAllowed: false
 authorEdit: true
 permalink: "/challenge/saving-the-ohia/"
-layout: json-page
+layout: json-page-legacy
 ---

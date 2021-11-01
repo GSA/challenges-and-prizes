@@ -246,5 +246,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/instinct-the-iarpa-trustworthiness-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

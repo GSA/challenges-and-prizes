@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/lithium-ion-battery-recycling-prize/
 challenge-id: 1014
 status: closed

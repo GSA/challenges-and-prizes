@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/low-temperature-intrinsically-safe-defrost-system/"
-layout: json-page
+layout: json-page-legacy
 ---

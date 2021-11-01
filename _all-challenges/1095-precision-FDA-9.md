@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/precision-FDA-9/
 challenge-id: 1095
 status: closed

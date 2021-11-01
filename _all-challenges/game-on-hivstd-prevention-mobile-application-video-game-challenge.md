@@ -243,5 +243,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/game-on-hivstd-prevention-mobile-application-video-game-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

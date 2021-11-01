@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/MGMWERX-library-challenge/
 challenge-id: 1055
 status: closed

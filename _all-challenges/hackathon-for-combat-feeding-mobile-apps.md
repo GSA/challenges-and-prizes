@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/hackathon-for-combat-feeding-mobile-apps/"
-layout: json-page
+layout: json-page-legacy
 ---

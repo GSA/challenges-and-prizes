@@ -245,5 +245,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/humans-in-space-art-video-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -311,5 +311,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/detection-of-underground-voids-sinkholes/"
-layout: json-page
+layout: json-page-legacy
 ---

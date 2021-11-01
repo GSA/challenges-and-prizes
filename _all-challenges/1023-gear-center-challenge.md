@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/gear-center-challenge/
 challenge-id: 1023
 status: closed

@@ -171,5 +171,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: true
 authorEdit: true
 permalink: "/challenge/ussocom-hf-geolocation-algorithm-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

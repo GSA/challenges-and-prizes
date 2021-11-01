@@ -305,5 +305,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/artisan-enterprise-multimedia-competition/"
-layout: json-page
+layout: json-page-legacy
 ---

@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/joining-forces-community-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

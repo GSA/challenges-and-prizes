@@ -1,7 +1,7 @@
 ---
 title: NASA Lunar Delivery Challenge
 challenge-title: NASA Lunar Delivery Challenge
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/nasa-lunar-delivery-challenge/
 challenge-id: "1185"
 status: closed

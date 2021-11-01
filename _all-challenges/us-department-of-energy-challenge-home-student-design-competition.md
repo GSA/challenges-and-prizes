@@ -245,5 +245,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/us-department-of-energy-challenge-home-student-design-competition/"
-layout: json-page
+layout: json-page-legacy
 ---

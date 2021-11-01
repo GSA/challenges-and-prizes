@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data
+layout: front-matter-data-legacy
 permalink: /challenge/geopolitical-forecasting-challenge-2/
 challenge-id: 1022
 status: closed

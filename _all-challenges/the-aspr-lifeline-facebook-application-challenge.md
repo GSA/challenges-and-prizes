@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/the-aspr-lifeline-facebook-application-challenge/"
-layout: json-page
+layout: json-page-legacy
 ---

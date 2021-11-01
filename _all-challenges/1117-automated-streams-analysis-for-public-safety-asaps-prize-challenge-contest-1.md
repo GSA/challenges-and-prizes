@@ -3,7 +3,7 @@ title: "Automated Streams Analysis for Public Safety (ASAPS) Prize Challenge:
   Contest 1"
 challenge-title: "Automated Streams Analysis for Public Safety (ASAPS) Prize
   Challenge: Contest 1"
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/ASAPSContest1/
 challenge-id: "1117"
 status: closed

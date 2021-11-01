@@ -1,7 +1,7 @@
 ---
 title: Card Title Here
 challenge-title: Polar Vortex
-layout: front-matter-data-markdownify-content
+layout: front-matter-data-markdownify-content-legacy
 permalink: /challenge/polar-vortex/
 challenge-id: "1245"
 status: closed

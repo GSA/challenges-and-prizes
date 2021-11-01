@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/grfp-creating-the-future-video-contest/"
-layout: json-page
+layout: json-page-legacy
 ---

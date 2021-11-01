@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/nasa-challenge:-strain-measurement-of-vectran-and-kevlar-webbing/"
-layout: json-page
+layout: json-page-legacy
 ---
