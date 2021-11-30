@@ -3,7 +3,7 @@ title: "First Responder UAS Triple Challenge 3.3: Shields Up! Securing UAS
   Navigation and Control"
 challenge-title: "First Responder UAS Triple Challenge 3.3: Shields Up! Securing
   UAS Navigation and Control"
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/first-responder-uas-triple-challenge-shieldsup/
 challenge-id: "1252"
 status: closed

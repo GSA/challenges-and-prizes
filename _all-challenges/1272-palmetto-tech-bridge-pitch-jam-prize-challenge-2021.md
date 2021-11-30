@@ -1,7 +1,7 @@
 ---
 title: Palmetto Tech Bridge Pitch Jam Prize Challenge 2021
 challenge-title: Palmetto Tech Bridge Pitch Jam Prize Challenge 2021
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/palmetto-tech-bridge-pitch-jam-prize-challenge-2021/
 challenge-id: "1272"
 status: closed

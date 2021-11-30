@@ -364,5 +364,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/boldline-religious-freedom/"
-layout: json-page-legacy
+layout: json-page
 ---

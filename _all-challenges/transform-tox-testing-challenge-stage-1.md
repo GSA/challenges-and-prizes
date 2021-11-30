@@ -262,5 +262,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/transform-tox-testing-challenge-stage-1/"
-layout: json-page-legacy
+layout: json-page
 ---

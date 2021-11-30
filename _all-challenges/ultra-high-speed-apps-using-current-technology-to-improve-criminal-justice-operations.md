@@ -250,5 +250,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/ultra-high-speed-apps-using-current-technology-to-improve-criminal-justice-operations/"
-layout: json-page-legacy
+layout: json-page
 ---

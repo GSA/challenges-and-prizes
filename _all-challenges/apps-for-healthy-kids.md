@@ -247,5 +247,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/apps-for-healthy-kids/"
-layout: json-page-legacy
+layout: json-page
 ---

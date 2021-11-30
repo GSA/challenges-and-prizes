@@ -460,5 +460,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/chronicling-america-historic-american-newspapers-data-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

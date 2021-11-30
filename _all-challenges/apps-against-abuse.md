@@ -238,5 +238,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/apps-against-abuse/"
-layout: json-page-legacy
+layout: json-page
 ---

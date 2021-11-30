@@ -202,5 +202,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: true
 permalink: "/challenge/remote-pregnancy-monitoring-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

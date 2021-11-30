@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/privacy-policy-snapshot-challenge/
 challenge-id: 872
 status: closed

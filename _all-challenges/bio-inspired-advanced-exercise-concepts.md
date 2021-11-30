@@ -242,5 +242,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/bio-inspired-advanced-exercise-concepts/"
-layout: json-page-legacy
+layout: json-page
 ---

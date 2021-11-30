@@ -685,5 +685,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/rethink-supply-chains/"
-layout: json-page-legacy
+layout: json-page
 ---

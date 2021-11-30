@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/transform-tox-testing-challenge-stage-2/
 challenge-id: 858
 status: Closed

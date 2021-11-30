@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/the-unmanned-aerial-systems-flight-and-payload-challenge/
 challenge-id: 935
 status: closed

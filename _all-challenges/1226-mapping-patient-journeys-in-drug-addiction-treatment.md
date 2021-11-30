@@ -1,7 +1,7 @@
 ---
 title: Mapping Patient Journeys in Drug Addiction Treatment
 challenge-title: Mapping Patient Journeys in Drug Addiction Treatment
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/mapping-patient-journeys-in-drug-addiction-treatment/
 challenge-id: "1226"
 status: closed

@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/solar-decathlon-2020-design-challenge/
 challenge-id: 1037
 status: closed

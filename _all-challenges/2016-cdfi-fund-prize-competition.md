@@ -382,5 +382,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/2016-cdfi-fund-prize-competition/"
-layout: json-page-legacy
+layout: json-page
 ---

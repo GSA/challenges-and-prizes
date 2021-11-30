@@ -339,5 +339,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/disguised-faces-in-the-wild-competition/"
-layout: json-page-legacy
+layout: json-page
 ---

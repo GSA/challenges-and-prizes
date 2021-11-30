@@ -238,5 +238,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: true
 permalink: "/challenge/design-novel-compression-system-for-air-conditioning-applications/"
-layout: json-page-legacy
+layout: json-page
 ---

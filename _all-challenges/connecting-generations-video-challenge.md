@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/connecting-generations-video-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

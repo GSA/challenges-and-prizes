@@ -304,5 +304,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: true
 authorEdit: true
 permalink: "/challenge/sediment-removal-techniques-for-reservoir-sustainability-stage-1/"
-layout: json-page-legacy
+layout: json-page
 ---

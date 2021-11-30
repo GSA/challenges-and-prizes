@@ -1,7 +1,7 @@
 ---
 title: xTech Innovation Combine Advanced Energy Storage Challenge
 challenge-title: xTech Innovation Combine Advanced Energy Storage Challenge
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/xtech-innovation-combine-challenge/
 challenge-id: "1224"
 status: closed

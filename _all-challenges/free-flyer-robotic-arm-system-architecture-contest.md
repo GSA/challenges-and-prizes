@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/free-flyer-robotic-arm-system-architecture-contest/"
-layout: json-page-legacy
+layout: json-page
 ---

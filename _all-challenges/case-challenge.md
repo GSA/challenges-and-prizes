@@ -216,5 +216,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: true
 permalink: "/challenge/case-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

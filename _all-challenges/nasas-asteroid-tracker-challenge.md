@@ -246,5 +246,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/nasas-asteroid-tracker-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

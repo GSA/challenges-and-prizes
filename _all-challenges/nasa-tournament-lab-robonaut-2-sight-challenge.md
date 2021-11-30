@@ -238,5 +238,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/nasa-tournament-lab-robonaut-2-sight-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

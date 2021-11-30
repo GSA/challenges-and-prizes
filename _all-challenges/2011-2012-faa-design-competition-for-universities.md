@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/2011-2012-faa-design-competition-for-universities/"
-layout: json-page-legacy
+layout: json-page
 ---

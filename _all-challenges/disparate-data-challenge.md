@@ -490,5 +490,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/disparate-data-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

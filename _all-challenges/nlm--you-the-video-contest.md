@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/nlm--you-the-video-contest/"
-layout: json-page-legacy
+layout: json-page
 ---

@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/sky-for-all-air-mobility-for-2035-and-beyond/"
-layout: json-page-legacy
+layout: json-page
 ---

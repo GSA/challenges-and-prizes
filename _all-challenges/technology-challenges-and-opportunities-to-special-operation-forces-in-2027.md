@@ -286,5 +286,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/technology-challenges-and-opportunities-to-special-operation-forces-in-2027/"
-layout: json-page-legacy
+layout: json-page
 ---

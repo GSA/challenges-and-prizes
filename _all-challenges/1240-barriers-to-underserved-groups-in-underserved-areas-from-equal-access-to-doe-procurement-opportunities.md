@@ -2,7 +2,7 @@
 title: Card Title Here
 challenge-title: Barriers Among Underserved Groups In Underserved Areas from
   Equal Access to Federal Procurement Opportunities
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/barriers-among-underserved-groups-in-underserved-areas-from-equal-access-to-federal-procurement-oopportunities/
 challenge-id: "1240"
 status: closed

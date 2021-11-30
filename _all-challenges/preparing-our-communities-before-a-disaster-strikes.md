@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/preparing-our-communities-before-a-disaster-strikes/"
-layout: json-page-legacy
+layout: json-page
 ---

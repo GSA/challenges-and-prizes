@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/nutrient-sensor-action-challenge-stage-ii/
 challenge-id: 46
 status: closed

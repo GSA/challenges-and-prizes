@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/MUX-mission-system-airborne-early-warning-aew-payload-prize-challenge/
 challenge-id: 1038
 status: closed

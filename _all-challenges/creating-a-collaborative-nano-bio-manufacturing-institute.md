@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/creating-a-collaborative-nano-bio-manufacturing-institute/"
-layout: json-page-legacy
+layout: json-page
 ---

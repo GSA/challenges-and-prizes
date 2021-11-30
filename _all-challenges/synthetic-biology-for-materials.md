@@ -247,5 +247,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/synthetic-biology-for-materials/"
-layout: json-page-legacy
+layout: json-page
 ---

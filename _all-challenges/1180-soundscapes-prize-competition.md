@@ -1,7 +1,7 @@
 ---
 title: Soundscapes Prize Competition
 challenge-title: Soundscapes Prize Competition
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/soundscapes-prize-competition/
 challenge-id: "1180"
 status: closed

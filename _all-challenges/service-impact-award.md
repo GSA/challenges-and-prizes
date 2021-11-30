@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/service-impact-award/"
-layout: json-page-legacy
+layout: json-page
 ---

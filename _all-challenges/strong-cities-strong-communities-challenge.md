@@ -245,5 +245,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/strong-cities-strong-communities-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

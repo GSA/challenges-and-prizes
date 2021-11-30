@@ -170,5 +170,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: true
 permalink: "/challenge/atlas-onshore-student-competition/"
-layout: json-page-legacy
+layout: json-page
 ---

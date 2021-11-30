@@ -244,5 +244,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/dod-quality-patient-safety-and-innovation-awards/"
-layout: json-page-legacy
+layout: json-page
 ---

@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/visualization-resources-of-community-level-social-determinants-of-health-challenge/
 challenge-id: 1004
 status: closed

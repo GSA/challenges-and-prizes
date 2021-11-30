@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: true
 authorEdit: false
 permalink: "/challenge/solar-decathlon/"
-layout: json-page-legacy
+layout: json-page
 ---

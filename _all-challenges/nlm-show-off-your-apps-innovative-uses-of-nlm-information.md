@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/nlm-show-off-your-apps-innovative-uses-of-nlm-information/"
-layout: json-page-legacy
+layout: json-page
 ---

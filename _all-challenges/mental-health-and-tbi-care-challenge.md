@@ -339,5 +339,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/mental-health-and-tbi-care-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

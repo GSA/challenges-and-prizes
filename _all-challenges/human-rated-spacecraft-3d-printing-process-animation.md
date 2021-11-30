@@ -248,5 +248,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/human-rated-spacecraft-3d-printing-process-animation/"
-layout: json-page-legacy
+layout: json-page
 ---

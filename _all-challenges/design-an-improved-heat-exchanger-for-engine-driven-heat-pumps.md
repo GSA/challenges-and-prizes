@@ -238,5 +238,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/design-an-improved-heat-exchanger-for-engine-driven-heat-pumps/"
-layout: json-page-legacy
+layout: json-page
 ---

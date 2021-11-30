@@ -3,7 +3,7 @@ title: AHRQ Cross-Sectional Innovation to Improve Rural Postpartum Mental Health
   Challenge
 challenge-title: AHRQ Cross-Sectional Innovation to Improve Rural Postpartum
   Mental Health Challenge
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/AHRQ-cross-sectional-innovation-rural-postpartum-mental-health-challenge/
 challenge-id: "1131"
 status: closed

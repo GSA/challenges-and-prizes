@@ -374,5 +374,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/design-by-biomedical-undergraduate-teams-debut-2015/"
-layout: json-page-legacy
+layout: json-page
 ---

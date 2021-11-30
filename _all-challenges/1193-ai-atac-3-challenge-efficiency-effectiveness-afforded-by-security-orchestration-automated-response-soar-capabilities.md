@@ -3,7 +3,7 @@ title: "AI ATAC 3 Challenge: Efficiency & Effectiveness Afforded by Security
   Orchestration & Automated Response (SOAR) Capabilities"
 challenge-title: "AI ATAC 3 Challenge: Efficiency & Effectiveness Afforded by
   Security Orchestration & Automated Response (SOAR) Capabilities"
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/AI-ATAC-3-challenge/
 challenge-id: "1193"
 status: closed

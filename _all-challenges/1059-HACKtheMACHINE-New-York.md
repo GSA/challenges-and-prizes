@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/hack-the-machine-new-york/
 challenge-id: 1059
 status: closed

@@ -1,7 +1,7 @@
 ---
 title: Army xTechSBIR
 challenge-title: Army xTechSBIR
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/army-xtech-sbir/
 challenge-id: "1166"
 status: closed

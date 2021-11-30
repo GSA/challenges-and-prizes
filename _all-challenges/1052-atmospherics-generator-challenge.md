@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/atmospherics-generator-challenge/
 challenge-id: 1052
 status: closed

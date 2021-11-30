@@ -308,5 +308,5 @@ ideaCount: 64
 memberIdeaAttachmentAllowed: true
 authorEdit: true
 permalink: "/challenge/consumers-combat-counterfeits/"
-layout: json-page-legacy
+layout: json-page
 ---

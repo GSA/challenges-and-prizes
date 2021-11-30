@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/domestic-violence-video-challenge/
 challenge-id: 859
 status: closed

@@ -249,5 +249,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/data-visualization-challenge-using-data-to-improve-justice/"
-layout: json-page-legacy
+layout: json-page
 ---

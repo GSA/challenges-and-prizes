@@ -243,5 +243,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/space-poop-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

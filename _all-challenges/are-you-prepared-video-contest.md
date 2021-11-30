@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/are-you-prepared-video-contest/"
-layout: json-page-legacy
+layout: json-page
 ---

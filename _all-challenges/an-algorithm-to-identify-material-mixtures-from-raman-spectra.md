@@ -293,5 +293,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/an-algorithm-to-identify-material-mixtures-from-raman-spectra/"
-layout: json-page-legacy
+layout: json-page
 ---

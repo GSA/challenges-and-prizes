@@ -248,5 +248,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/nasas-mars-balance-mass-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

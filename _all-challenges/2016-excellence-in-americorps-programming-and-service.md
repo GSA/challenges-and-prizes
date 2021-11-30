@@ -380,5 +380,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/2016-excellence-in-americorps-programming-and-service/"
-layout: json-page-legacy
+layout: json-page
 ---

@@ -244,5 +244,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/secretary-of-transportations-raise-award/"
-layout: json-page-legacy
+layout: json-page
 ---

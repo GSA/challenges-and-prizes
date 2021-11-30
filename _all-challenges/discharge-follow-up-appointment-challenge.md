@@ -242,5 +242,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/discharge-follow-up-appointment-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

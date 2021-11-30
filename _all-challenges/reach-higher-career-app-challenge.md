@@ -269,5 +269,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/reach-higher-career-app-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

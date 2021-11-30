@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/crowds-care-for-cancer:-supporting-survivors/"
-layout: json-page-legacy
+layout: json-page
 ---

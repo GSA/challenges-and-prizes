@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/consumer-health-data-aggregator-challenge/
 challenge-id: 806
 status: closed

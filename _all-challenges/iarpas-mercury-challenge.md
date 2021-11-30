@@ -244,5 +244,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: true
 permalink: "/challenge/iarpas-mercury-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

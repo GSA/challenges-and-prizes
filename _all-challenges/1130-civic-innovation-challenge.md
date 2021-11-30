@@ -1,7 +1,7 @@
 ---
 title: Civic Innovation Challenge
 challenge-title: Civic Innovation Challenge
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/nsf-civic-innovation-challenge-2020/
 challenge-id: "1130"
 status: closed

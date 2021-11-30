@@ -1,7 +1,7 @@
 ---
 title: Envisioning Health Equity Art Challenge
 challenge-title: Envisioning Health Equity Art Challenge
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/envisioning-health-equity-art-challenge/
 challenge-id: "1183"
 status: closed

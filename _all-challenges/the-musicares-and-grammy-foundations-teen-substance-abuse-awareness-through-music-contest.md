@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/the-musicares-and-grammy-foundations-teen-substance-abuse-awareness-through-music-contest/"
-layout: json-page-legacy
+layout: json-page
 ---

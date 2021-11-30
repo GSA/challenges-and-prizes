@@ -238,5 +238,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/strong-tether-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

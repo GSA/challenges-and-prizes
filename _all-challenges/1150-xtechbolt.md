@@ -1,7 +1,7 @@
 ---
 title: xTechBOLT
 challenge-title: xTechBOLT
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/xTechBOLT/
 challenge-id: "1150"
 status: closed

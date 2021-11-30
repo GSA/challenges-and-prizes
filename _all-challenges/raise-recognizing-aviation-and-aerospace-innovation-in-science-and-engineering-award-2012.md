@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/raise-recognizing-aviation-and-aerospace-innovation-in-science-and-engineering-award-2012/"
-layout: json-page-legacy
+layout: json-page
 ---

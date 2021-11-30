@@ -1,7 +1,7 @@
 ---
 title: "Mad Hacks: Fury Code"
 challenge-title: "Mad Hacks: Fury Code"
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/mad-hacks-fury-code/
 challenge-id: "1201"
 status: closed

@@ -249,5 +249,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/develop-ability-to-use-toxicity-data-to-predict-lowest-effect-level-dose-in-animal-studies/"
-layout: json-page-legacy
+layout: json-page
 ---

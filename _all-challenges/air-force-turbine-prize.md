@@ -303,5 +303,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/air-force-turbine-prize/"
-layout: json-page-legacy
+layout: json-page
 ---

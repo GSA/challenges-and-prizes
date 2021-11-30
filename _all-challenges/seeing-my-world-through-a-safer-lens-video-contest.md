@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/seeing-my-world-through-a-safer-lens-video-contest/"
-layout: json-page-legacy
+layout: json-page
 ---

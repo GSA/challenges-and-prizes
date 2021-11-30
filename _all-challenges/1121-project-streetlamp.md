@@ -1,7 +1,7 @@
 ---
 title: "Project Streetlamp "
 challenge-title: "Project Streetlamp "
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/project-streetlamp/
 challenge-id: "1121"
 status: closed

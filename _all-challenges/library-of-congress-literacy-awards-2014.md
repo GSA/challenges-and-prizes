@@ -279,5 +279,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/library-of-congress-literacy-awards-2014/"
-layout: json-page-legacy
+layout: json-page
 ---

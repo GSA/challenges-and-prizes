@@ -246,5 +246,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/next-generation-design-and-queue-model/"
-layout: json-page-legacy
+layout: json-page
 ---

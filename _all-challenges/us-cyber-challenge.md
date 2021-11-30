@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/us-cyber-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

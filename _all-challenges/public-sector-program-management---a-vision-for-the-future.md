@@ -511,5 +511,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/public-sector-program-management-a-vision-for-the-future/"
-layout: json-page-legacy
+layout: json-page
 ---

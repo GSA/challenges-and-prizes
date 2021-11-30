@@ -1,7 +1,7 @@
 ---
 title: NASA Spacesuit Detection Challenge
 challenge-title: NASA Spacesuit Detection Challenge
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/nasa-spacesuit-detection-challenge/
 challenge-id: "1221"
 status: closed

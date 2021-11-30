@@ -1,7 +1,7 @@
 ---
 title: Partners Engaged in Extramural Reporting (PEER)
 challenge-title: Partners Engaged in Extramural Reporting (PEER)
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/partners-engaged-in-extramural-reporting/
 challenge-id: "1186"
 status: closed

@@ -349,5 +349,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/ug2-prize-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

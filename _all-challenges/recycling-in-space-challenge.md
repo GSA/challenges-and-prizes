@@ -199,5 +199,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: true
 authorEdit: true
 permalink: "/challenge/recycling-in-space-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

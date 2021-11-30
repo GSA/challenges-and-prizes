@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/great10-the-gravitational-lensing-accuracy-test/"
-layout: json-page-legacy
+layout: json-page
 ---

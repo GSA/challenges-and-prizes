@@ -245,5 +245,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: true
 permalink: "/challenge/empower-air-data-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

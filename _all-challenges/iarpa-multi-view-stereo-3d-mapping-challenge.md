@@ -253,5 +253,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/iarpa-multi-view-stereo-3d-mapping-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

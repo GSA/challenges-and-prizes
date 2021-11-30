@@ -383,5 +383,5 @@ ideaCount: 183
 memberIdeaAttachmentAllowed: true
 authorEdit: true
 permalink: "/challenge/army-xtechsearch/"
-layout: json-page-legacy
+layout: json-page
 ---

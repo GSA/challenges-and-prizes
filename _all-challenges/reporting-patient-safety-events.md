@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/reporting-patient-safety-events/"
-layout: json-page-legacy
+layout: json-page
 ---

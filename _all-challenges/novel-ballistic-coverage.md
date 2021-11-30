@@ -249,5 +249,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/novel-ballistic-coverage/"
-layout: json-page-legacy
+layout: json-page
 ---

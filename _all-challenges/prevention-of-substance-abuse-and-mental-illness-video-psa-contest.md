@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/prevention-of-substance-abuse-and-mental-illness-video-psa-contest/"
-layout: json-page-legacy
+layout: json-page
 ---

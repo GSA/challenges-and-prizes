@@ -1,7 +1,7 @@
 ---
 title: Air Force Synthetic Biology Challenge, Aerospace Fuels
 challenge-title: Air Force Synthetic Biology Challenge, Aerospace Fuels
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/afrl-synthetic-biology-challenge-aerospace-fuels/
 challenge-id: "1138"
 status: closed

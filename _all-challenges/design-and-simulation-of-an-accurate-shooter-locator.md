@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/design-and-simulation-of-an-accurate-shooter-locator/"
-layout: json-page-legacy
+layout: json-page
 ---

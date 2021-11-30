@@ -1,7 +1,7 @@
 ---
 title: Power of Passengers Challenge
 challenge-title: Power of Passengers Challenge
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/power-of-passengers-challenge/
 challenge-id: "1196"
 status: closed

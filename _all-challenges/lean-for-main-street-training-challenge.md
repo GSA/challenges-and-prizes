@@ -702,5 +702,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/lean-for-main-street-training-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

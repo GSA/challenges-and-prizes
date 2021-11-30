@@ -1,7 +1,7 @@
 ---
 title: Mask Innovation Challenge
 challenge-title: Mask Innovation Challenge
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/mask-innovation-challenge/
 challenge-id: "1216"
 status: closed

@@ -238,5 +238,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/gallantly-streaming-absentee-voting-video-contest/"
-layout: json-page-legacy
+layout: json-page
 ---

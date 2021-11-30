@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: true
 authorEdit: true
 permalink: "/challenge/easy-ehr-issue-reporting-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

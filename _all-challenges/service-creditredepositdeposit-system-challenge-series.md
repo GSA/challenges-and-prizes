@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/service-creditredepositdeposit-system-challenge-series/"
-layout: json-page-legacy
+layout: json-page
 ---

@@ -242,5 +242,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/2011-presidential-green-chemistry-challenge-awards/"
-layout: json-page-legacy
+layout: json-page
 ---

@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/dol-fair-labor-data-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

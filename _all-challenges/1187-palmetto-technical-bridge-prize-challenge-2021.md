@@ -1,7 +1,7 @@
 ---
 title: Palmetto Tech Bridge Prize Challenge 2021
 challenge-title: Palmetto Tech Bridge Prize Challenge 2021
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/palmetto-tech-bridge-prize-challenge-2021/
 challenge-id: "1187"
 status: closed

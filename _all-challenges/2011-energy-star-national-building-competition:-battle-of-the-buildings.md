@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/2011-energy-star-national-building-competition:-battle-of-the-buildings/"
-layout: json-page-legacy
+layout: json-page
 ---

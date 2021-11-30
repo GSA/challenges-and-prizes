@@ -350,5 +350,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/where-am-i-where-is-my-team/"
-layout: json-page-legacy
+layout: json-page
 ---

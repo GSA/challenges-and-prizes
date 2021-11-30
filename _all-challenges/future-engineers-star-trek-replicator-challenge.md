@@ -269,5 +269,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/future-engineers-star-trek-replicator-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

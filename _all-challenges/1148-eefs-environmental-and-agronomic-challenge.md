@@ -1,7 +1,7 @@
 ---
 title: "EEFs: Environmental and Agronomic Challenge"
 challenge-title: "EEFs: Environmental and Agronomic Challenge"
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/eefs-environmental-agronomic-challenge/
 challenge-id: "1148"
 status: closed

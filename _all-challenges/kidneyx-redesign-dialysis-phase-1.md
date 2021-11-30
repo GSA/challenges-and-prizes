@@ -330,5 +330,5 @@ ideaCount: 9
 memberIdeaAttachmentAllowed: false
 authorEdit: true
 permalink: "/challenge/kidneyx-redesign-dialysis-phase-1/"
-layout: json-page-legacy
+layout: json-page
 ---
