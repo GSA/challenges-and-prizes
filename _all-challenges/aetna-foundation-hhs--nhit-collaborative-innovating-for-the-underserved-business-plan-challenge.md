@@ -243,5 +243,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/aetna-foundation-hhs--nhit-collaborative-innovating-for-the-underserved-business-plan-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

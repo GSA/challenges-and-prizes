@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/robocalls-humanity-strikes-back-qualifying-phase/"
-layout: json-page-legacy
+layout: json-page
 ---

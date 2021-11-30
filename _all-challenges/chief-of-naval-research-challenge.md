@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/chief-of-naval-research-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

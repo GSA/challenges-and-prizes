@@ -1,6 +1,6 @@
 ---
 challenge-title: STEM DIVE Video Challenge – Diversity and Inclusion Video Exhibition
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/stem-dive-video-challenge/
 challenge-id: "1112"
 status: closed

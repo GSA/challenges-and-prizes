@@ -274,5 +274,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/2018-cec-youth-innovation-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

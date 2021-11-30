@@ -1,7 +1,7 @@
 ---
 title: Detect to Protect Challenge Phase 1
 challenge-title: Detect to Protect Challenge Phase 1
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/protect-the-herd-challenge-phase1/
 challenge-id: "1210"
 status: closed

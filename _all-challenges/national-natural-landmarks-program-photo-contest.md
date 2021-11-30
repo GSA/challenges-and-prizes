@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/national-natural-landmarks-program-photo-contest/"
-layout: json-page-legacy
+layout: json-page
 ---

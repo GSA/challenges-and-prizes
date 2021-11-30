@@ -359,5 +359,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/digital-innovation-hackathon-fall-2015/"
-layout: json-page-legacy
+layout: json-page
 ---

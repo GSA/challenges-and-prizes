@@ -336,5 +336,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/the-secretarys-raise-award-for-2017/"
-layout: json-page-legacy
+layout: json-page
 ---

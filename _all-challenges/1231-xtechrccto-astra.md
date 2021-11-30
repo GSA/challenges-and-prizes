@@ -1,7 +1,7 @@
 ---
 title: xTechRCCTO AStRA
 challenge-title: xTechRCCTO AStRA
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/xtechrccto-astra/
 challenge-id: "1231"
 status: closed

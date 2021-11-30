@@ -245,5 +245,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/3d-printable-small-robot-to-assist-in-bomb-disposal/"
-layout: json-page-legacy
+layout: json-page
 ---

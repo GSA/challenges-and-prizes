@@ -238,5 +238,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/how-has-social-security-made-a-difference-in-your-life-video-contest/"
-layout: json-page-legacy
+layout: json-page
 ---

@@ -1,7 +1,7 @@
 ---
 title: COVID-19 Maker Challenge, Nursing Homes Edition
 challenge-title: COVID-19 Maker Challenge, Nursing Homes Edition
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/covid-19-maker-challenge-nursing-homes/
 challenge-id: "1136"
 status: closed

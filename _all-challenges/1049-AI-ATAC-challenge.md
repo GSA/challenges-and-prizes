@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/artificial-intelligence-applications-to-autonomous-cybersecurity-challenge/
 challenge-id: 1049
 status: closed

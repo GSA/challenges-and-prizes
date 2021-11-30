@@ -246,5 +246,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/delivering-mission-critical-voice-communications-in-a-public-safety-cots-lte-environment/"
-layout: json-page-legacy
+layout: json-page
 ---

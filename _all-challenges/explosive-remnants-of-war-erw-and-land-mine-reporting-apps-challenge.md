@@ -248,5 +248,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/explosive-remnants-of-war-erw-and-land-mine-reporting-apps-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

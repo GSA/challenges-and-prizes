@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/ending-childhood-hunger-video-contest/"
-layout: json-page-legacy
+layout: json-page
 ---

@@ -404,5 +404,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/digital-innovation-strategy-hack-a-thon/"
-layout: json-page-legacy
+layout: json-page
 ---

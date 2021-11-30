@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/novel-building-envelope-design-for-increased-thermal-performance/"
-layout: json-page-legacy
+layout: json-page
 ---

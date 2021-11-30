@@ -1,7 +1,7 @@
 ---
 title: Fatal Injury and Violence Analytics - Tabular View Enhancement
 challenge-title: Fatal Injury and Violence Analytics - Tabular View Enhancement
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/fatal-injury-and-violence-analytics-tabular-view-enhancement/
 challenge-id: "1203"
 status: closed

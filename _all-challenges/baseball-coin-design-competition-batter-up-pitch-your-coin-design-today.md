@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/baseball-coin-design-competition:-batter-up--pitch-your-coin-design-today/"
-layout: json-page-legacy
+layout: json-page
 ---

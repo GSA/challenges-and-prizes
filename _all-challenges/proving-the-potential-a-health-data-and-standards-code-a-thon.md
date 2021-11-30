@@ -250,5 +250,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/proving-the-potential-a-health-data-and-standards-code-a-thon/"
-layout: json-page-legacy
+layout: json-page
 ---

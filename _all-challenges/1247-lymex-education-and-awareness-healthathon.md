@@ -1,7 +1,7 @@
 ---
 title: LymeX Education and Awareness Healthathon
 challenge-title: LymeX Education and Awareness Healthathon
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/lymex-education-and-awareness-healthathon/
 challenge-id: "1247"
 status: closed

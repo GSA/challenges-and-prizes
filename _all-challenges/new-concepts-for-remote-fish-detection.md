@@ -303,5 +303,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/new-concepts-for-remote-fish-detection/"
-layout: json-page-legacy
+layout: json-page
 ---

@@ -1,7 +1,7 @@
 ---
 title: Fatal Injury and Violence Analytics PoC Challenge
 challenge-title: Fatal Injury and Violence Analytics PoC Challenge
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/fatal-injury-and-violence-analytics-poc-challenge/
 challenge-id: "1176"
 status: closed

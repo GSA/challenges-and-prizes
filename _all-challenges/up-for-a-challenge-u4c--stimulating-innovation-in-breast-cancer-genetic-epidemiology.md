@@ -587,5 +587,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/up-for-a-challenge-u4c-stimulating-innovation-in-breast-cancer-genetic-epidemiology/"
-layout: json-page-legacy
+layout: json-page
 ---

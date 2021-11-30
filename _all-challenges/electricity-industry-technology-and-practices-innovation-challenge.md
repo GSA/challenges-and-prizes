@@ -168,5 +168,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: true
 authorEdit: true
 permalink: "/challenge/electricity-industry-technology-and-practices-innovation-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

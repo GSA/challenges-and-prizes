@@ -246,5 +246,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/improving-nasa-enterprise-search-capabilities/"
-layout: json-page-legacy
+layout: json-page
 ---

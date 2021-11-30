@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/innovative-roofing-solutions/"
-layout: json-page-legacy
+layout: json-page
 ---

@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/student-design-competition-new-san-francisco-federal-building-plaza/
 challenge-id: 918
 status: closed

@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/the-ndu-press-holiday-scavenger-hunt/"
-layout: json-page-legacy
+layout: json-page
 ---

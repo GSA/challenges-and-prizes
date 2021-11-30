@@ -1,7 +1,7 @@
 ---
 title: "The Space Security Challenge 2020: Hack-A-Sat"
 challenge-title: "Space Security Challenge 2020: Hack-A-Sat"
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/hack-a-sat/
 challenge-id: "1125"
 status: closed

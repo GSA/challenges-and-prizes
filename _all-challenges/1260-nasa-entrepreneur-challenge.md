@@ -1,7 +1,7 @@
 ---
 title: NASA Entrepreneur's Challenge 2021
 challenge-title: NASA Entrepreneur's Challenge
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: challenge/nasa-entrepreneur-challenge-2021/
 challenge-id: "1260"
 status: closed

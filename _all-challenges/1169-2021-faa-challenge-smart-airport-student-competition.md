@@ -1,7 +1,7 @@
 ---
 title: "2021 FAA Challenge: Smart Airport Student Competition"
 challenge-title: "2021 FAA Challenge: Smart Airport Student Competition"
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/2021-faa-challenge-smart-airport-student-competition/
 challenge-id: "1169"
 status: closed

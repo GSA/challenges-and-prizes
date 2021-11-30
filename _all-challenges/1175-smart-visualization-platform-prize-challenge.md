@@ -1,7 +1,7 @@
 ---
 title: SMART Visualization Platform Prize Challenge
 challenge-title: SMART Visualization Platform Prize Challenge
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/smart-visualization-platform-prize-challenge/
 challenge-id: "1175"
 status: closed

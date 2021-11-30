@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/gsa-hackathon-2019/
 challenge-id: 1034
 status: closed

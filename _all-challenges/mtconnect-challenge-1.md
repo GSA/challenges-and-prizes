@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/mtconnect-challenge-1/"
-layout: json-page-legacy
+layout: json-page
 ---

@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/leveraging-technology-for-operational-effectiveness/
 challenge-id: 1109
 status: closed

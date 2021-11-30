@@ -293,5 +293,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/automatic-speech-recognition-in-reverberant-environments-aspire/"
-layout: json-page-legacy
+layout: json-page
 ---

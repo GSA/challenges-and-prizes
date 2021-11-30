@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/design-a-mean-radiant-temperature-sensor-for-integration-with-building-robotics-comfy-offering/"
-layout: json-page-legacy
+layout: json-page
 ---

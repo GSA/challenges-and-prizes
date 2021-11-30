@@ -242,5 +242,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/my-neighborhood-forest-photo-contest/"
-layout: json-page-legacy
+layout: json-page
 ---

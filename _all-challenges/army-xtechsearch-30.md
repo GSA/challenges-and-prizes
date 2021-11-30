@@ -403,5 +403,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: true
 authorEdit: true
 permalink: "/challenge/army-xtechsearch-30/"
-layout: json-page-legacy
+layout: json-page
 ---

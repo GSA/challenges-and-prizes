@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/ocean-observing-prize/
 challenge-id: 1082
 status: closed

@@ -1,7 +1,7 @@
 ---
 title: NCATS 2020 ASPIRE Reduction-to-Practice Challenge (ASPIRE 2020)
 challenge-title: NCATS 2020 ASPIRE Reduction-to-Practice Challenge (ASPIRE 2020)
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/ASPIRE-2020/
 challenge-id: "1173"
 status: closed

@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/augmented-reality-photo-contest/"
-layout: json-page-legacy
+layout: json-page
 ---

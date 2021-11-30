@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/PMA-263-tactical-resupply-UAS-challenge/
 challenge-id: 1076
 status: closed

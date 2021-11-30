@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/fast-rope-glove-device/"
-layout: json-page-legacy
+layout: json-page
 ---

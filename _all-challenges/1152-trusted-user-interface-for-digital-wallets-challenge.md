@@ -3,7 +3,7 @@ title: U.S. Department of Homeland Security’s Trusted User Interface (UI) for
   Digital Wallets Challenge
 challenge-title: U.S. Department of Homeland Security’s Trusted User Interface
   (UI) for Digital Wallets Challenge
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/trusted-user-interface-for-digital-wallets-challenge/
 challenge-id: "1152"
 status: closed

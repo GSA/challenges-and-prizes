@@ -247,5 +247,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/the-beauty-of-health-data/"
-layout: json-page-legacy
+layout: json-page
 ---

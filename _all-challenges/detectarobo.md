@@ -708,5 +708,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/detectarobo/"
-layout: json-page-legacy
+layout: json-page
 ---

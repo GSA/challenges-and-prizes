@@ -204,5 +204,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: true
 permalink: "/challenge/fast-commissioning-for-pumped-storage-hydropower-prize/"
-layout: json-page-legacy
+layout: json-page
 ---

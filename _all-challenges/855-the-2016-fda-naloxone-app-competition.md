@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/the-2016-fda-naloxone-app-competition/ 
 challenge-id: 855
 status: closed

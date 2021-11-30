@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/2015-growth-accelerator-fund-competition/"
-layout: json-page-legacy
+layout: json-page
 ---

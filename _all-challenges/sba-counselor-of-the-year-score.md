@@ -238,5 +238,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/sba-counselor-of-the-year-score/"
-layout: json-page-legacy
+layout: json-page
 ---

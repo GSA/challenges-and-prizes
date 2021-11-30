@@ -245,5 +245,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/gsa-travel-data-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

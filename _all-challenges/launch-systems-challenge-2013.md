@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/launch-systems-challenge-2013/"
-layout: json-page-legacy
+layout: json-page
 ---

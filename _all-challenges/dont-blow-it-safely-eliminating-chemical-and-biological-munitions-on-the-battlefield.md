@@ -480,5 +480,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: true
 authorEdit: true
 permalink: "/challenge/dont-blow-it-safely-eliminating-chemical-and-biological-munitions-on-the-battlefield/"
-layout: json-page-legacy
+layout: json-page
 ---

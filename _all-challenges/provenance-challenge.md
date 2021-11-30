@@ -261,5 +261,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/provenance-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

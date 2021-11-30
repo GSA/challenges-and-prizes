@@ -263,5 +263,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/engineered-surfaces-materials-and-coatings-for-aircraft-drag-reduction/"
-layout: json-page-legacy
+layout: json-page
 ---

@@ -3,7 +3,7 @@ title: GSA Artificial Intelligence and Machine Learning End-User License
   Agreement Challenge 2020
 challenge-title: GSA Artificial Intelligence and Machine Learning End-User
   License Agreement Challenge 2020
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/GSA-artificial-intelligence-AI-machine-learning-ML-challenge/
 challenge-id: "1137"
 status: closed

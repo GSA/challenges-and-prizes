@@ -1,7 +1,7 @@
 ---
 title: Circle Finder Prize Competition
 challenge-title: Circle Finder Prize Competition
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/circle-finder-prize-competition/
 challenge-id: "1174"
 status: closed

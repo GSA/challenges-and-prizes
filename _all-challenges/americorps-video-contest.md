@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/americorps-video-contest/"
-layout: json-page-legacy
+layout: json-page
 ---

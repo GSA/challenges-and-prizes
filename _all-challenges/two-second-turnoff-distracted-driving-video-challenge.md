@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/two-second-turnoff-distracted-driving-video-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

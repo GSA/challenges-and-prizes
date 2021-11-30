@@ -251,5 +251,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/3d-printed-habitat-challenge-phase-2-structural-member/"
-layout: json-page-legacy
+layout: json-page
 ---

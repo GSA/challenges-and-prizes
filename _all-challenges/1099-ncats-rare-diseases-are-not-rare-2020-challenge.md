@@ -1,6 +1,6 @@
 ---
 challenge-title: NCATS Rare Diseases Are Not Rare! 2020 Challenge
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/ncats-rare-diseases-are-not-rare-2020-challenge/
 challenge-id: 1099
 status: closed

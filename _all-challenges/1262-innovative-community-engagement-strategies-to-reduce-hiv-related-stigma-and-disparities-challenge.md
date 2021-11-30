@@ -2,7 +2,7 @@
 title: Reduce HIV-related Stigma
 challenge-title: "Innovative Community Engagement Strategies to Reduce
   HIV-related Stigma and Disparities Challenge "
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/reduce-HIV-related-stigma/
 challenge-id: "1262"
 status: closed

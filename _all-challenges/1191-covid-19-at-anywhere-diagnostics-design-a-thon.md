@@ -1,7 +1,7 @@
 ---
 title: COVID-19 At-Anywhere Diagnostics Design-a-thon
 challenge-title: COVID-19 At-Anywhere Diagnostics Design-a-thon
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/covid19_at_anywhere_diagnostics_designathon/
 challenge-id: "1191"
 status: closed

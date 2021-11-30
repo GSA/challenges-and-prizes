@@ -434,5 +434,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/visualize-your-water/"
-layout: json-page-legacy
+layout: json-page
 ---

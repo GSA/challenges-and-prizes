@@ -242,5 +242,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/us-house-of-representatives-app-challenge-for-high-school-students/"
-layout: json-page-legacy
+layout: json-page
 ---

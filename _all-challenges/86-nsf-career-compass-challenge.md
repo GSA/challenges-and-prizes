@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/nsf-career-compass-challenge/
 challenge-id: 86
 status: closed

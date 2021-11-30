@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/rachel-carson-sense-of-wonder-contest-2011/"
-layout: json-page-legacy
+layout: json-page
 ---

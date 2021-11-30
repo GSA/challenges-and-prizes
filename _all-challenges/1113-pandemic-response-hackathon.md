@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/pandemic-response-hackathon/
 challenge-id: 1113
 status: closed

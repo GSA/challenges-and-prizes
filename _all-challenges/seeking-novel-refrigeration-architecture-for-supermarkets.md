@@ -238,5 +238,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/seeking-novel-refrigeration-architecture-for-supermarkets/"
-layout: json-page-legacy
+layout: json-page
 ---

@@ -1,7 +1,7 @@
 ---
 title: Imperfection Detection
 challenge-title: "Imperfection Detection: Detect Me If You Can"
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/imperfection-detection/
 challenge-id: "1213"
 status: closed

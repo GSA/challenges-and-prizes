@@ -1,7 +1,7 @@
 ---
 title: HHS Hypertension Innovator Award Competition
 challenge-title: HHS Hypertension Innovator Award Competition
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/hhs-hypertension-innovator-award-competition/
 challenge-id: "1170"
 status: closed

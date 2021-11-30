@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/arsenic-sensor-challenge-stage-1/
 challenge-id: 871
 status: closed

@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenges/solar-district-cup/
 challenge-id: 1051
 status: closed

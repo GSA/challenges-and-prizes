@@ -1,7 +1,7 @@
 ---
 title: xTechSBIR Waveform Challenge
 challenge-title: xTechSBIR Waveform Challenge
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/xtechsbir-waveform-challenge/
 challenge-id: "1218"
 status: closed

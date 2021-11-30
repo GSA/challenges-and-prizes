@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/project-reach-mobile-app-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

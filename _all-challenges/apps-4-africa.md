@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/apps-4-africa/"
-layout: json-page-legacy
+layout: json-page
 ---

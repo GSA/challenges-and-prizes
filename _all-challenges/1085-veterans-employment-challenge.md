@@ -1,6 +1,6 @@
 ---
 challenge-title: Veterans' Employment Challenge
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/vets-match/
 challenge-id: 1085
 status: closed

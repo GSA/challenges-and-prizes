@@ -285,5 +285,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/offender-reintegration-toolkit-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/expanding-the-sim-card-use-for-public-safety-challenge/
 challenge-id: 1019
 status: closed

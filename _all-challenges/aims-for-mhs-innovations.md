@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/aims-for-mhs-innovations/"
-layout: json-page-legacy
+layout: json-page
 ---

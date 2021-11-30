@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/support-plate-replacement-in-humanitarian-air-drops/"
-layout: json-page-legacy
+layout: json-page
 ---

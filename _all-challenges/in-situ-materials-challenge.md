@@ -251,5 +251,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/in-situ-materials-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

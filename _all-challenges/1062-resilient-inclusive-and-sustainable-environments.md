@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/resilient-inclusive-and-sustainable-environments/
 challenge-id: 1062
 status: closed

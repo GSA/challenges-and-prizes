@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/tri-university-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

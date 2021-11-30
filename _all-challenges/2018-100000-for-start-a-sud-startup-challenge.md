@@ -395,5 +395,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: true
 authorEdit: true
 permalink: "/challenge/2018-100000-for-start-a-sud-startup-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

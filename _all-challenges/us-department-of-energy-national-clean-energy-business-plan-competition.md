@@ -242,5 +242,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/us-department-of-energy-national-clean-energy-business-plan-competition/"
-layout: json-page-legacy
+layout: json-page
 ---

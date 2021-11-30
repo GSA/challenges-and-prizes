@@ -348,5 +348,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/data-driven-farming-prize/"
-layout: json-page-legacy
+layout: json-page
 ---

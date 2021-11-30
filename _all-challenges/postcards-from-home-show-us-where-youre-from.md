@@ -242,5 +242,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/postcards-from-home-show-us-where-youre-from/"
-layout: json-page-legacy
+layout: json-page
 ---

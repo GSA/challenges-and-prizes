@@ -1,7 +1,7 @@
 ---
 title: Synthetic Health Data Challenge
 challenge-title: Synthetic Health Data Challenge
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/synthetic-health-data-challenge/
 challenge-id: "1198"
 status: closed

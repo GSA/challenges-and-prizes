@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/food-fun-and-sun----story-and-photo-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

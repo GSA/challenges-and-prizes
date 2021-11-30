@@ -246,5 +246,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/code-a-palooza-challenge---data-supporting-decisions/"
-layout: json-page-legacy
+layout: json-page
 ---

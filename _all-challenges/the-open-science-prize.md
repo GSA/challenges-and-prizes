@@ -257,5 +257,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/the-open-science-prize/"
-layout: json-page-legacy
+layout: json-page
 ---

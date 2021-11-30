@@ -258,5 +258,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/detecting-soil-movement-in-embankments/"
-layout: json-page-legacy
+layout: json-page
 ---

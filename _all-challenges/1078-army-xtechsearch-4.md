@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/army-xtechsearch-4/
 challenge-id: 1078
 status: closed

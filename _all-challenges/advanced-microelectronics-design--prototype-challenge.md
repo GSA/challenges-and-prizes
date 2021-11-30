@@ -228,5 +228,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: true
 authorEdit: true
 permalink: "/challenge/advanced-microelectronics-design-prototype-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

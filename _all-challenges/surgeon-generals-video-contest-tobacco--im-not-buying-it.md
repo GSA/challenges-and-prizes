@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/surgeon-generals-video-contest-tobacco--im-not-buying-it/"
-layout: json-page-legacy
+layout: json-page
 ---

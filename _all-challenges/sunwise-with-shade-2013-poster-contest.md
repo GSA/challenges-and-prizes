@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/sunwise-with-shade-2013-poster-contest/"
-layout: json-page-legacy
+layout: json-page
 ---

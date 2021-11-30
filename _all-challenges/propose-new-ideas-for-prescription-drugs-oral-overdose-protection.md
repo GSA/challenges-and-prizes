@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/propose-new-ideas-for-prescription-drugs-oral-overdose-protection/"
-layout: json-page-legacy
+layout: json-page
 ---

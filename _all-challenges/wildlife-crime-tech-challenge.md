@@ -243,5 +243,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/wildlife-crime-tech-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

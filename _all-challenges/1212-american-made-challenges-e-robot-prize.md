@@ -1,7 +1,7 @@
 ---
 title: American Made Challenges EROBOT Prize
 challenge-title: American-Made Challenges E-ROBOT Prize
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/american-made-challenges-e-robot-prize/
 challenge-id: "1212"
 status: closed

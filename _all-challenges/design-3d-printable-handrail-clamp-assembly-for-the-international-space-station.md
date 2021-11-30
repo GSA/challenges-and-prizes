@@ -249,5 +249,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/design-3d-printable-handrail-clamp-assembly-for-the-international-space-station/"
-layout: json-page-legacy
+layout: json-page
 ---

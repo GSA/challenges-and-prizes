@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/asteroid-grand-challenge-video/"
-layout: json-page-legacy
+layout: json-page
 ---

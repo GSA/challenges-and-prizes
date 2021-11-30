@@ -245,5 +245,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/pre-event-insider-attack-recognition/"
-layout: json-page-legacy
+layout: json-page
 ---

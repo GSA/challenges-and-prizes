@@ -1,7 +1,7 @@
 ---
 title: Health+ Sickle Cell Disease Healthathon
 challenge-title: Health+ Sickle Cell Disease Healthathon
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/health+-sickle-cell-disease-healthathon/
 challenge-id: "1153"
 status: closed

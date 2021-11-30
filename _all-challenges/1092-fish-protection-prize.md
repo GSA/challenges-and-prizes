@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/fish-protection-prize/
 challenge-id: 1092
 status: closed
