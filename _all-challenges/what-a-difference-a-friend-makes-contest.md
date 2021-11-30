@@ -245,5 +245,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/what-a-difference-a-friend-makes-contest/"
-layout: json-page-legacy
+layout: json-page
 ---

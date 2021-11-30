@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/apps-for-the-environment/"
-layout: json-page-legacy
+layout: json-page
 ---

@@ -244,5 +244,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/national-aquatic-resource-surveys-campus-research-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

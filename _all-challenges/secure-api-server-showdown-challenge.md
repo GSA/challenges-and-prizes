@@ -268,5 +268,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/secure-api-server-showdown-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

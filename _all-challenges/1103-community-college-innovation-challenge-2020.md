@@ -1,6 +1,6 @@
 ---
 challenge-title: Community College Innovation Challenge 2020
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/community-college-innovation-challenge-2020/
 challenge-id: 1103
 status: closed

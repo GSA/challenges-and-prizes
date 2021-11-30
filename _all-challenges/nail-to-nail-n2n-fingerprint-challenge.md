@@ -448,5 +448,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/nail-to-nail-n2n-fingerprint-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

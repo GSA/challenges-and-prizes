@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/epa-android-app---design-concepts-for-cyanobacterial-bloom-mapping/"
-layout: json-page-legacy
+layout: json-page
 ---

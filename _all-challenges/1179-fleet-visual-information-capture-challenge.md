@@ -1,7 +1,7 @@
 ---
 title: Fleet Visual Information Capture Challenge
 challenge-title: Fleet Visual Information Capture Challenge
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/fleet-vi-capture-challenge/
 challenge-id: "1179"
 status: closed

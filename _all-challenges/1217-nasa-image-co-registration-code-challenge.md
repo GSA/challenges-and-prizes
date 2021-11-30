@@ -1,7 +1,7 @@
 ---
 title: NASA Image Co-Registration Code Challenge
 challenge-title: NASA Image Co-Registration Code Challenge
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/nasa-image-co-registration-code-challenge/
 challenge-id: "1217"
 status: closed

@@ -593,5 +593,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/noaa-fisheries-steller-sea-lion-population-count/"
-layout: json-page-legacy
+layout: json-page
 ---

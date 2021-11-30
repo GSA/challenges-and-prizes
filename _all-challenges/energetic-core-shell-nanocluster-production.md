@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/energetic-core-shell-nanocluster-production/"
-layout: json-page-legacy
+layout: json-page
 ---

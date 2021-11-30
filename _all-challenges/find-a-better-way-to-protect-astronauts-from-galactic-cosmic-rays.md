@@ -249,5 +249,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/find-a-better-way-to-protect-astronauts-from-galactic-cosmic-rays/"
-layout: json-page-legacy
+layout: json-page
 ---

@@ -314,5 +314,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/veterans-online-memorial-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

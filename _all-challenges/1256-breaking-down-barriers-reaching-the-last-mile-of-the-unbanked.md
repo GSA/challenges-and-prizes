@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down Barriers: Reaching the Last Mile of the Unbanked"
 challenge-title: "Breaking Down Barriers: Reaching the Last Mile of the Unbanked"
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/breaking-down-barriers/
 challenge-id: "1256"
 status: closed

@@ -242,5 +242,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/2013-million-hearts-hypertension-control-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

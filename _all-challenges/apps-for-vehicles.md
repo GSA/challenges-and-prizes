@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/apps-for-vehicles/"
-layout: json-page-legacy
+layout: json-page
 ---

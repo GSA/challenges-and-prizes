@@ -396,5 +396,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/startup-in-a-day-competition-dream-big-model/"
-layout: json-page-legacy
+layout: json-page
 ---

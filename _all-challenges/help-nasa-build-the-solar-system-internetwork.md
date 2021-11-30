@@ -248,5 +248,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/help-nasa-build-the-solar-system-internetwork/"
-layout: json-page-legacy
+layout: json-page
 ---

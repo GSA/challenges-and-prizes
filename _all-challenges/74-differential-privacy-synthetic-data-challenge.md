@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/differential-privacy-synthetic-data-challenge/
 challenge-id: 74
 status: closed

@@ -244,5 +244,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/microgrid-2014-mvp-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

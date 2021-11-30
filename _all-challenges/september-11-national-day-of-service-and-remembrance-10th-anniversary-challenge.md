@@ -242,5 +242,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/september-11-national-day-of-service-and-remembrance-10th-anniversary-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

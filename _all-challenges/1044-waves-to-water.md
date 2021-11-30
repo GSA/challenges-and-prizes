@@ -1,7 +1,7 @@
 ---
 title: Waves Title
 challenge-title: Waves to Water Prize
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/waves-to-water-prize/
 challenge-id: 1044
 status: closed

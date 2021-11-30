@@ -1,7 +1,7 @@
 ---
 title: Streamflow Forecast Rodeo
 challenge-title: Streamflow Forecast Rodeo
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/streamflow-forecast-rodeo/
 challenge-id: "1157"
 status: closed

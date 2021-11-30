@@ -266,5 +266,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/balancing-benefits-and-risks-in-new-payment-systems/"
-layout: json-page-legacy
+layout: json-page
 ---

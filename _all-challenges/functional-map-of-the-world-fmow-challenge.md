@@ -262,5 +262,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/functional-map-of-the-world-fmow-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

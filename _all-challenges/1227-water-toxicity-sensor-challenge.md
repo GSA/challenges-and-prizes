@@ -1,7 +1,7 @@
 ---
 title: Water Toxicity Sensor Challenge
 challenge-title: Water Toxicity Sensor Challenge
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/water-toxicity-sensor-challenge/
 challenge-id: "1227"
 status: closed

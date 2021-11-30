@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/pins-challenge/
 challenge-id: 1035
 status: closed

@@ -242,5 +242,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/stay-covered--churn-marketing-research-methodology-development/"
-layout: json-page-legacy
+layout: json-page
 ---

@@ -1,7 +1,7 @@
 ---
 title: xTechHBCU
 challenge-title: xTechHBCU
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/xTechHBCU/
 challenge-id: "1270"
 status: closed

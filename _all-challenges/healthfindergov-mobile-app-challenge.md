@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/healthfindergov-mobile-app-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

@@ -243,5 +243,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/ideas-for-annual-computational-cognition-competition/"
-layout: json-page-legacy
+layout: json-page
 ---

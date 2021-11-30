@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/suicide-prevention:-continuity-of-care-and-follow-up-app-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

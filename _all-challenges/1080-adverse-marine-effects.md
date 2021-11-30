@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/adverse-marine-effects/
 challenge-id: 1080
 status: closed

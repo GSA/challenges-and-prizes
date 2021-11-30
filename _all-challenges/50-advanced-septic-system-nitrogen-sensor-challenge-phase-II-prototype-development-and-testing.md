@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/advanced-septic-system-nitrogen-sensor-challenge-phase-II-prototype-development-and-testing/
 challenge-id: 50
 status: closed

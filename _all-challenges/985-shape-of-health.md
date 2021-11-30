@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/shape-of-health-an-obesity-prevention-game/
 challenge-id: 985
 status: closed

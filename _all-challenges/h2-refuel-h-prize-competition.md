@@ -671,5 +671,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/h2-refuel-h-prize-competition/"
-layout: json-page-legacy
+layout: json-page
 ---

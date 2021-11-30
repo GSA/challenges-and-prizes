@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/family-caregivers-video-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

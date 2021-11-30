@@ -239,5 +239,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/blue-button-for-all-americans/"
-layout: json-page-legacy
+layout: json-page
 ---

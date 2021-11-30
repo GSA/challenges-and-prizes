@@ -238,5 +238,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/sba-counselor-of-the-year-small-business-development-center/"
-layout: json-page-legacy
+layout: json-page
 ---

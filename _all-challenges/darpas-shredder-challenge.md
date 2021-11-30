@@ -238,5 +238,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/darpas-shredder-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

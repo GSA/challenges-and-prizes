@@ -246,5 +246,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/sunwise-with-shade-poster-contest/"
-layout: json-page-legacy
+layout: json-page
 ---

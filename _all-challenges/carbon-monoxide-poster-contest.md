@@ -484,5 +484,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/carbon-monoxide-poster-contest/"
-layout: json-page-legacy
+layout: json-page
 ---

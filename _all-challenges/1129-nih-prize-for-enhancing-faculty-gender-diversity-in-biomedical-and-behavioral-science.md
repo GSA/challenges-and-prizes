@@ -1,7 +1,7 @@
 ---
 title: NIH Prize for Enhancing Faculty Gender Diversity
 challenge-title: NIH Prize for Enhancing Faculty Gender Diversity
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/nih-prize-for-enhancing-faculty-gender-diversity/
 challenge-id: "1129"
 status: closed

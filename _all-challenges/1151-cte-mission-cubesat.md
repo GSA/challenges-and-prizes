@@ -1,7 +1,7 @@
 ---
 title: "CTE Mission: CubeSat"
 challenge-title: "CTE Mission: CubeSat"
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/cte-mission-cubesat/
 challenge-id: "1151"
 status: closed

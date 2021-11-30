@@ -245,5 +245,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/innovations-in-measuring-and-managing-addiction-treatment-quality/"
-layout: json-page-legacy
+layout: json-page
 ---

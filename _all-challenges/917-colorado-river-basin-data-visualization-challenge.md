@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/colorado-river-basin-data-visualization-challenge/
 challenge-id: 917
 status: closed

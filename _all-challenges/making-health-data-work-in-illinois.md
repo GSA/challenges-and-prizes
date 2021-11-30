@@ -243,5 +243,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/making-health-data-work-in-illinois/"
-layout: json-page-legacy
+layout: json-page
 ---

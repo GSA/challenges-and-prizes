@@ -1,7 +1,7 @@
 ---
 title: NHLBI Hope for Sickle Cell Disease Challenge
 challenge-title: NHLBI Hope for Sickle Cell Disease Challenge
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/NHLBI-hope-for-sickle-cell-disease-challenge/
 challenge-id: "1156"
 status: closed

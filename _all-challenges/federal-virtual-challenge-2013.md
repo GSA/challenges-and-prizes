@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/federal-virtual-challenge-2013/"
-layout: json-page-legacy
+layout: json-page
 ---

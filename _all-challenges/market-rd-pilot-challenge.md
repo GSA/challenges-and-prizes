@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/market-rd-pilot-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

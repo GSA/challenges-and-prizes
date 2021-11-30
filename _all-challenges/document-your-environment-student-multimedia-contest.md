@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/document-your-environment-student-multimedia-contest/"
-layout: json-page-legacy
+layout: json-page
 ---

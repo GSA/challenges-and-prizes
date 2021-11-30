@@ -238,5 +238,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/design-a-low-cost-air-flow-sensor-for-residential-ducted-hvac-systems/"
-layout: json-page-legacy
+layout: json-page
 ---

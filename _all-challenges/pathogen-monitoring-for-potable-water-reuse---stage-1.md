@@ -274,5 +274,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/pathogen-monitoring-for-potable-water-reuse-stage-1/"
-layout: json-page-legacy
+layout: json-page
 ---

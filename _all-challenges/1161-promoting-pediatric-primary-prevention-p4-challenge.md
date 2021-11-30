@@ -1,7 +1,7 @@
 ---
 title: Promoting Pediatric Primary Prevention (P4 Challenge)
 challenge-title: Promoting Pediatric Primary Prevention (P4 Challenge)
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/promoting-pediatric-primary-prevention/
 challenge-id: "1161"
 status: closed

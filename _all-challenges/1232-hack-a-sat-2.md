@@ -1,7 +1,7 @@
 ---
 title: Hack-A-Sat 2
 challenge-title: Hack-A-Sat 2
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/hack-a-sat2/
 challenge-id: "1232"
 status: closed

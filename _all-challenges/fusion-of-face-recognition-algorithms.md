@@ -376,5 +376,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/fusion-of-face-recognition-algorithms/"
-layout: json-page-legacy
+layout: json-page
 ---

@@ -342,5 +342,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/bridging-the-word-gap/"
-layout: json-page-legacy
+layout: json-page
 ---

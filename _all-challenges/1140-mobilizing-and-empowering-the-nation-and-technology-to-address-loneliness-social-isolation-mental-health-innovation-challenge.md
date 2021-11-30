@@ -3,7 +3,7 @@ title: Mobilizing and Empowering the Nation and Technology to Address Loneliness
   & social isolation (MENTAL) Health Innovation Challenge
 challenge-title: Mobilizing and Empowering the Nation and Technology to Address
   Loneliness & social isolation (MENTAL) Health Innovation Challenge
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/MENTAL-health-social-isolation-challenge-2/
 challenge-id: "1140"
 status: closed

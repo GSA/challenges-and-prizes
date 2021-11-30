@@ -371,5 +371,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/mobile-weather-station/"
-layout: json-page-legacy
+layout: json-page
 ---

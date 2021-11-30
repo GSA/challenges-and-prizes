@@ -1,7 +1,7 @@
 ---
 title: Fatal Injury and Violence Analytics - Map View & Analysis
 challenge-title: Fatal Injury and Violence Analytics - Map View & Analysis
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/fatal-injury-and-violence-analytics-map-view-analysis/
 challenge-id: "1188"
 status: closed

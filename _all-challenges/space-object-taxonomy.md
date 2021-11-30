@@ -256,5 +256,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/space-object-taxonomy/"
-layout: json-page-legacy
+layout: json-page
 ---

@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/mobilizing-data-for-pressure-ulcer-prevention-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

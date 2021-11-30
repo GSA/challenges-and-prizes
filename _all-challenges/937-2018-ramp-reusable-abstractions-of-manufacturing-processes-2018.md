@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/ramp-reusable-abstractions-of-manufacturing-processes/ 
 challenge-id: 937
 status: closed

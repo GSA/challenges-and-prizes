@@ -243,5 +243,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/nij-randomized-controlled-trial-challenge-in-criminal-justice-agencies/"
-layout: json-page-legacy
+layout: json-page
 ---

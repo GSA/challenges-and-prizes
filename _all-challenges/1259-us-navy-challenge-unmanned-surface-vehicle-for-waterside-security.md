@@ -1,7 +1,7 @@
 ---
 title: "US Navy Challenge: Unmanned Surface Vehicle (USV) for Waterside Security "
 challenge-title: "US Navy Challenge: Unmanned Surface Vehicle (USV) for Waterside Security "
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/unmanned-surface-vehicle-for-waterside-security/
 challenge-id: "1259"
 status: closed

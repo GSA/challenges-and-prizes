@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/nist-virtual-public-safety-test-environment-challenge/
 challenge-id: 884
 status: closed

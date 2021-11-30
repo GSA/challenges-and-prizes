@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/mux-mission-system-intelligence-surveillance-and-reconnaissance-(ISR)-payload-prize-challenge/
 challenge-id: 1041
 status: closed

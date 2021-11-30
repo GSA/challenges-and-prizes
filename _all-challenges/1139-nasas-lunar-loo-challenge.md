@@ -1,7 +1,7 @@
 ---
 title: NASA Lunar Loo Challenge
 challenge-title: NASA's Lunar Loo Challenge
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/nasa-lunar-loo-challenge/
 challenge-id: "1139"
 status: closed

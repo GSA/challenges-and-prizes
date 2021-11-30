@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/provider-user-experience-challenge/
 challenge-id: 807
 status: closed

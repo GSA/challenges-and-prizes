@@ -1,7 +1,7 @@
 ---
 title: Blazing New Trails for Community Based Direct Support Professionals
 challenge-title: Blazing New Trails for Community Based Direct Support Professionals
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/blazing-new-trails-for-community-based-direct-support-professionals/
 challenge-id: "1171"
 status: closed

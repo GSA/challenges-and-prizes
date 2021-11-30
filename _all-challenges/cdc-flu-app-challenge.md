@@ -241,5 +241,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/cdc-flu-app-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

@@ -292,5 +292,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/head-health-challenge-iii-advanced-materials-for-impact-mitigation/"
-layout: json-page-legacy
+layout: json-page
 ---

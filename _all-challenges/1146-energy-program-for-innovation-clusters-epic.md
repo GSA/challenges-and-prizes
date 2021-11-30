@@ -1,7 +1,7 @@
 ---
 title: Energy Program for Innovation Clusters (EPIC)
 challenge-title: Energy Program for Innovation Clusters (EPIC)
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/EPIC/
 challenge-id: "1146"
 status: closed

@@ -344,5 +344,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/boldline-p3-cohort-1/"
-layout: json-page-legacy
+layout: json-page
 ---

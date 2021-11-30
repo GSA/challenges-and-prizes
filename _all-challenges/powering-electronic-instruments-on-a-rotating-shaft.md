@@ -323,5 +323,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: true
 authorEdit: true
 permalink: "/challenge/powering-electronic-instruments-on-a-rotating-shaft/"
-layout: json-page-legacy
+layout: json-page
 ---

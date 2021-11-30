@@ -265,5 +265,5 @@ ideaCount: 8
 memberIdeaAttachmentAllowed: true
 authorEdit: true
 permalink: "/challenge/boldline-p3-accelerator--cohort-3/"
-layout: json-page-legacy
+layout: json-page
 ---

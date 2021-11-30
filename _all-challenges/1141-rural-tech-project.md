@@ -1,7 +1,7 @@
 ---
 title: Rural Tech Project
 challenge-title: Rural Tech Project
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/rural-tech-project/
 challenge-id: "1141"
 status: closed

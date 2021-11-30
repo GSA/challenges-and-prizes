@@ -259,5 +259,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/iarpa-morgoths-crown/"
-layout: json-page-legacy
+layout: json-page
 ---

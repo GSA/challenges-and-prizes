@@ -1,7 +1,7 @@
 ---
 title: xTechGlobal AI Challenge
 challenge-title: xTechGlobal AI Challenge
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/xtechglobal-ai-challenge/
 challenge-id: "1219"
 status: closed

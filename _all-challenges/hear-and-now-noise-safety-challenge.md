@@ -295,5 +295,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/hear-and-now-noise-safety-challenge/"
-layout: json-page-legacy
+layout: json-page
 ---

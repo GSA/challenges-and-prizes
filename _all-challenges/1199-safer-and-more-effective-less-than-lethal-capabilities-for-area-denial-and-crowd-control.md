@@ -3,7 +3,7 @@ title: Safer and More Effective Less than Lethal Capabilities for Area Denial
   and Crowd Control
 challenge-title: Safer and More Effective Less than Lethal Capabilities for Area
   Denial and Crowd Control
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/safer-and-more-effective-less-than-lethal-capabilities-for-area-denial-and-crowd-control/
 challenge-id: "1199"
 status: closed

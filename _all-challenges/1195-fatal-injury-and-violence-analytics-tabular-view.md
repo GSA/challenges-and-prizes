@@ -1,7 +1,7 @@
 ---
 title: Fatal Injury and Violence Analytics - Tabular View
 challenge-title: Fatal Injury and Violence Analytics - Tabular View
-layout: front-matter-data-markdownify-content-legacy
+layout: front-matter-data-markdownify-content
 permalink: /challenge/fatal-injury-and-violence-analytics-tabular-view/
 challenge-id: "1195"
 status: closed

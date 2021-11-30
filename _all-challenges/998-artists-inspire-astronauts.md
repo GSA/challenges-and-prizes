@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/artists-inspire-astronauts/
 challenge-id: 998
 status: closed

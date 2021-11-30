@@ -1,5 +1,5 @@
 ---
-layout: front-matter-data-legacy
+layout: front-matter-data
 permalink: /challenge/find-the-killer-frog-fungus/
 challenge-id: 49
 status: closed

@@ -251,5 +251,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/addiction-research-theres-an-app-for-that/"
-layout: json-page-legacy
+layout: json-page
 ---

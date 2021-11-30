@@ -263,5 +263,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/quantifying-drift-invertebrates-in-river-and-estuary-systems/"
-layout: json-page-legacy
+layout: json-page
 ---

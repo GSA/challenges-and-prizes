@@ -240,5 +240,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/evidence-based-care-challenge-applying-evidence-in-nppa-retail-settings/"
-layout: json-page-legacy
+layout: json-page
 ---

@@ -246,5 +246,5 @@ ideaCount: 0
 memberIdeaAttachmentAllowed: false
 authorEdit: false
 permalink: "/challenge/cinespace-2018/"
-layout: json-page-legacy
+layout: json-page
 ---
