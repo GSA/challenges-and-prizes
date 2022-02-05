@@ -66,7 +66,7 @@ Our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solv
         <div class="card help-card p-4 my-5 mx-auto help-page__technical-issues">
         <!-- Technical issues -->
           <div class="d-flex flex-row py-4">
-            <div class="col-md-1 col-xs-12 text-center mx-5 left-section">
+            <div class="col-md-2 col-xs-12 text-center mx-5 left-section">
               <a href="mailto: team@challenge.gov" target="_blank"><img src="{{ site.baseurl }}/assets/images/icons/click.svg" alt="technical issues" title="Technical Issues" /></a>
             </div>
             <div class="w-50 mx-5 my-auto right-section">
