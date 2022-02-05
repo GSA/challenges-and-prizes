@@ -26,7 +26,7 @@ Our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solv
             <span class="vr-light">&nbsp;</span>
           <!-- User -->
             <div class="text-center help-card__section">
-              <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" rel="noopener"><i class="dashboard-card-icon fa fa-tools"></i></a>
+              <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" rel="noopener"><i class="dashboard-card-icon fa fa-tools" style="color: #FA9441; font-size: 3em;"></i></a>
               <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" rel="noopener"><h4 class="m-4">User Guide</h4></a>
               <p>Our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" rel="noopener">user guide</a> is full of useful information to help you get started.</p>
             </div>
