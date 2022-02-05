@@ -32,7 +32,7 @@ Our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solv
             </div>
           </div>
         </div>
-         <div class="card help-card p-4 my-5 mx-auto">
+         <div class="col-md-6 card help-card p-4 my-5 mx-auto">
           <div class="d-flex flex-row justify-content-around mt-4 help-page__getting-started-content">
           <!-- Blog -->
             <div class="text-center help-card__section">
