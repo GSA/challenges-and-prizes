@@ -70,7 +70,7 @@ Our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solv
               <a href="mailto: team@challenge.gov" target="_blank"><img src="{{ site.baseurl }}/assets/images/icons/click.svg" alt="technical issues" title="Technical Issues" /></a>
             </div>
             <div class="w-50 mx-5 my-auto right-section">
-              <h3 class=" col-xs-12 mb-4 font-weight-bold" style="color: #000000;">For technical issues with the platform</h3>
+              <h3 class=" col-xs-12 mb-8 font-weight-bold" style="color: #000000;">For technical issues with the platform</h3>
               <span>Contact <a href="mailto: team@challenge.gov" target="_blank">team@challenge.gov</a> for help with submissions.</span>
             </div>
           </div>
