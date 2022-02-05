@@ -42,7 +42,7 @@ Our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solv
             </div>
             <span class="vr-light" style="color: #D8D8D8; background-color: #D8D8D8; width: 1px;">&nbsp;</span>
             <!-- Case Studies -->
-            <div class="text-center help-card__section">
+            <div class="col-md-6 text-center help-card__section">
               <a href="https://www.challenge.gov/toolkit/case-studies/" target="_blank" rel="noopener"><i class="fa fa-solid fa-folder" style="color: #FA9441; font-size: 3em;" title="Read our case studies"></i></a>
               <a href="https://www.challenge.gov/toolkit/case-studies/" target="_blank" rel="noopener"><h4 class="m-4" style="color: #000000;">Case Studies</h4></a>
               <p>Our <a href="https://www.challenge.gov/toolkit/case-studies/" target="_blank" rel="noopener">Case Studies</a> are full of useful information.</p>
