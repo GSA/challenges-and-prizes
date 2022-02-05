@@ -32,10 +32,10 @@ Our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solv
             </div>
           </div>
         </div>
-         <div class="col-md-6 card help-card p-4 my-5 mx-auto">
+         <div class="card help-card p-4 my-5 mx-auto">
           <div class="d-flex flex-row justify-content-around mt-4 help-page__getting-started-content">
           <!-- Blog -->
-            <div class="text-center help-card__section">
+            <div class="col-md-6 text-center help-card__section">
               <a href="https://www.challenge.gov/blog/" target="_blank" rel="noopener"><i class="fab fa-readme" style="color: #FA9441; font-size: 3em;" alt="Read from our blog"></i></a>
               <a href="https://www.challenge.gov/blog/" target="_blank" rel="noopener"><h4 class="m-4" style="color: #000000;">Blog</h4></a>
               <p>Read great articles from our <a href="https://www.challenge.gov/blog/" target="_blank" rel="noopener">Blog</a>!</p>
