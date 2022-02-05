@@ -14,7 +14,7 @@ Our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solv
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-12">
-        <h3 class="text-center mb-4 font-weight-bold">Resources for Public Innovators test</h3>
+        <h3 class="text-center mb-4 font-weight-bold">Resources for Public Innovators</h3>
         <div class="card help-card p-4 my-5 mx-auto">
           <div class="d-flex flex-row justify-content-around mt-4 help-page__getting-started-content">
           <!-- FAQ -->
