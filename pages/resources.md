@@ -20,14 +20,14 @@ Our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solv
           <!-- FAQ -->
             <div class="col-md-6 text-center help-card__section">
               <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener"><i class="dashboard-card-icon fa fa-question-circle" style="color: #FA9441; font-size: 3em;"></i></a>
-              <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener"><h4 class="m-4">FAQs</h4></a>
+              <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener"><h4 class="m-4" style="color: #000000;">FAQs</h4></a>
               <p>Checkout out our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener">frequently asked questions</a> on prize competitions and crowdsourcing, and use of the Challenge.Gov platform.</p>
             </div>
             <span class="vr-light">&nbsp;</span>
           <!-- User -->
             <div class="text-center help-card__section">
               <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" rel="noopener"><i class="dashboard-card-icon fa fa-tools" style="color: #FA9441; font-size: 3em;"></i></a>
-              <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" rel="noopener"><h4 class="m-4">User Guide</h4></a>
+              <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" rel="noopener"><h4 class="m-4" style="color: #000000;">User Guide</h4></a>
               <p>Our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" rel="noopener">user guide</a> is full of useful information to help you get started.</p>
             </div>
           </div>
@@ -37,14 +37,14 @@ Our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solv
           <!-- Blog -->
             <div class="text-center help-card__section">
               <a href="https://www.challenge.gov/blog/" target="_blank" rel="noopener"><i class="fa fa-regular fa-newspaper" style="color: #FA9441; font-size: 3em;"></i></a>
-              <a href="https://www.challenge.gov/blog/" target="_blank" rel="noopener"><h4 class="m-4">Blog</h4></a>
+              <a href="https://www.challenge.gov/blog/" target="_blank" rel="noopener"><h4 class="m-4" style="color: #000000;">Blog</h4></a>
               <p>Read great articles from our <a href="https://www.challenge.gov/blog/" target="_blank" rel="noopener">Blog</a>!</p>
             </div>
             <span class="vr-light">&nbsp;</span>
             <!-- Case Studies -->
             <div class="text-center help-card__section">
               <a href="https://www.challenge.gov/toolkit/case-studies/" target="_blank" rel="noopener"><i class="fa fa-solid fa-folder" style="color: #FA9441; font-size: 3em;"></i></a>
-              <a href="https://www.challenge.gov/toolkit/case-studies/" target="_blank" rel="noopener"><h4 class="m-4">Case Studies</h4></a>
+              <a href="https://www.challenge.gov/toolkit/case-studies/" target="_blank" rel="noopener"><h4 class="m-4" style="color: #000000;">Case Studies</h4></a>
               <p>Our <a href="https://www.challenge.gov/toolkit/case-studies/" target="_blank" rel="noopener">Case Studies</a> are full of useful information.</p>
             </div>
           </div>
@@ -53,7 +53,7 @@ Our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solv
         <!-- Contact -->
           <div class="d-flex flex-row justify-content-around py-3">
             <div class="col-md-8 w-50 px-5 my-auto left-section">
-              <a href="https://www.challenge.gov/" target="_blank"><h3 class="mb-4 font-weight-bold">Question about a challenge?</h3></a>
+              <a href="https://www.challenge.gov/" target="_blank"><h3 class="mb-4 font-weight-bold" style="color: #000000;">Question about a challenge?</h3></a>
               <span>Get in touch with the Challenge <em>Point of Contact</em> from the contact tab on the challenge details page.</span>
               <br />
               <span><a href="https://www.challenge.gov/" target="_blank">Search Active Challenges</a></span>
@@ -70,7 +70,7 @@ Our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solv
               <a href="mailto: team@challenge.gov" target="_blank"><img src="{{ site.baseurl }}/assets/images/icons/click.svg" alt="technical issues" title="Technical Issues" /></a>
             </div>
             <div class="w-50 mx-5 my-auto right-section">
-              <h3 class="mb-4 font-weight-bold">For technical issues with the platform</h3>
+              <h3 class="mb-4 font-weight-bold" style="color: #000000;">For technical issues with the platform</h3>
               <span>Contact <a href="mailto: team@challenge.gov" target="_blank">team@challenge.gov</a> for help with submissions.</span>
             </div>
           </div>
