@@ -23,9 +23,7 @@ Our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solv
               <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener"><h4 class="m-4" style="color: #000000;">FAQs</h4></a>
               <p>Checkout out our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener">frequently asked questions</a> on prize competitions and crowdsourcing, and use of the Challenge.Gov platform.</p>
             </div>
-            <span class="vr-light" style="color: #D8D8D8;
-    background-color: #D8D8D8;
-    width: 1px;">&nbsp;</span>
+            <span class="vr-light" style="color: #D8D8D8; background-color: #D8D8D8; width: 1px;">&nbsp;</span>
           <!-- User -->
             <div class="text-center help-card__section">
               <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" rel="noopener"><i class="dashboard-card-icon fa fa-tools" style="color: #FA9441; font-size: 3em;"></i></a>
@@ -42,7 +40,7 @@ Our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solv
               <a href="https://www.challenge.gov/blog/" target="_blank" rel="noopener"><h4 class="m-4" style="color: #000000;">Blog</h4></a>
               <p>Read great articles from our <a href="https://www.challenge.gov/blog/" target="_blank" rel="noopener">Blog</a>!</p>
             </div>
-            <span class="vr-light">&nbsp;</span>
+            <span class="vr-light" style="color: #D8D8D8; background-color: #D8D8D8; width: 1px;">&nbsp;</span>
             <!-- Case Studies -->
             <div class="text-center help-card__section">
               <a href="https://www.challenge.gov/toolkit/case-studies/" target="_blank" rel="noopener"><i class="fa fa-solid fa-folder" style="color: #FA9441; font-size: 3em;"></i></a>
