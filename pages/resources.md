@@ -36,7 +36,7 @@ Our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solv
           <div class="d-flex flex-row justify-content-around mt-4 help-page__getting-started-content">
           <!-- Blog -->
             <div class="text-center help-card__section">
-              <a href="https://www.challenge.gov/blog/" target="_blank" rel="noopener"><i class="fa fa-regular fa-readme" style="color: #FA9441; font-size: 3em;"></i></a>
+              <a href="https://www.challenge.gov/blog/" target="_blank" rel="noopener"><i class="<i class="fab fa-readme"></i>" style="color: #FA9441; font-size: 3em;"></i></a>
               <a href="https://www.challenge.gov/blog/" target="_blank" rel="noopener"><h4 class="m-4" style="color: #000000;">Blog</h4></a>
               <p>Read great articles from our <a href="https://www.challenge.gov/blog/" target="_blank" rel="noopener">Blog</a>!</p>
             </div>
