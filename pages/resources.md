@@ -36,14 +36,14 @@ Our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solv
           <div class="d-flex flex-row justify-content-around mt-4 help-page__getting-started-content">
           <!-- Blog -->
             <div class="text-center help-card__section">
-              <a href="https://www.challenge.gov/blog/" target="_blank" rel="noopener"><i class="fa fa-regular fa-newspaper"></i></a>
+              <a href="https://www.challenge.gov/blog/" target="_blank" rel="noopener"><i class="fa fa-regular fa-newspaper" style="color: #FA9441; font-size: 3em;"></i></a>
               <a href="https://www.challenge.gov/blog/" target="_blank" rel="noopener"><h4 class="m-4">Blog</h4></a>
               <p>Read great articles from our <a href="https://www.challenge.gov/blog/" target="_blank" rel="noopener">Blog</a>!</p>
             </div>
             <span class="vr-light">&nbsp;</span>
             <!-- Case Studies -->
             <div class="text-center help-card__section">
-              <a href="https://www.challenge.gov/toolkit/case-studies/" target="_blank" rel="noopener"><i class="fa fa-solid fa-folder"></i></a>
+              <a href="https://www.challenge.gov/toolkit/case-studies/" target="_blank" rel="noopener"><i class="fa fa-solid fa-folder" style="color: #FA9441; font-size: 3em;"></i></a>
               <a href="https://www.challenge.gov/toolkit/case-studies/" target="_blank" rel="noopener"><h4 class="m-4">Case Studies</h4></a>
               <p>Our <a href="https://www.challenge.gov/toolkit/case-studies/" target="_blank" rel="noopener">Case Studies</a> are full of useful information.</p>
             </div>
