@@ -94,6 +94,10 @@ title: Toolkit - Resources
 
 ### Other Blogs and Fact Sheets
 
+#### Challenge.Gov
+* [Challenge.Gov Program Overview]({{site.baseurl}}/assets/document-library/ChallengeGov_Program_Overview.pdf)
+* [Challenge.Gov Platform Overview]({{site.baseurl}}/assets/document-library/ChallengeGov_Platform_Overview.pdf)
+
 #### Videos
 
 * [Videos: Challenge.gov Webinars and Trainings on YouTube](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC)
