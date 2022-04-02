@@ -21,7 +21,7 @@ Our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solv
             <div class="col-md-6 text-center help-card__section">
               <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener"><i class="dashboard-card-icon fa fa-question-circle" style="color: #FA9441; font-size: 3em;" title="Read our FAQs"></i></a>
               <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener"><h4 class="m-4" style="color: #000000;">FAQs</h4></a>
-              <p>Our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener">contains information on prize competitions, crowdsourcing, and use of the Challenge.Gov platform.</p>
+              <p>Our FAQs <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener">contain information on prize competitions, crowdsourcing, and use of the Challenge.Gov platform.</p>
             </div>
             <span class="vr-light" style="color: #D8D8D8; background-color: #D8D8D8; width: 1px;">&nbsp;</span>
           <!-- User -->
