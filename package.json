@@ -23,23 +23,26 @@
     "Sara Cope <sara.cope@gsa.gov>"
   ],
   "license": "CC0-1.0",
-  "dependencies": {
-    "uswds": "^2.4.0"
-  },
   "devDependencies": {
-    "autoprefixer": "^9.5.1",
+    "autoprefixer": "^10.4.4",
     "css-mqpacker": "^7.0.0",
-    "cssnano": "^4.1.10",
-    "gulp": "^4.0.0",
-    "gulp-notify": "^3.2.0",
-    "gulp-postcss": "^8.0.0",
-    "gulp-rename": "^1.4.0",
-    "gulp-replace": "^1.0.0",
-    "gulp-sass": "^4.0.2",
-    "gulp-sourcemaps": "^2.6.5",
-    "pa11y-ci": "^2.1.1",
+    "cssnano": "^5.1.7",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-notify": "^4.0.0",
+    "gulp-postcss": "^9.0.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-replace": "^1.1.3",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-svg-sprite": "^1.5.0",
+    "pa11y-ci": "^3.0.1",
     "path": "^0.12.7",
-    "snyk": "^1.150.0",
-    "uswds-gulp": "github:uswds/uswds-gulp#b714fd93fe917618ac666bbe50a6fdf1fff6b88d"
+    "postcss": "^8.4.12",
+    "postcss-csso": "^5.0.1",
+    "sass": "^1.50.0",
+    "snyk": "^1.900.0",
+    "uswds": "^2.13.2",
+    "uswds-gulp": "github:uswds/uswds-gulp"
   }
 }
