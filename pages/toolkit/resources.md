@@ -99,7 +99,7 @@ title: Toolkit - Resources
 * [Challenge.Gov Platform Overview]({{site.baseurl}}/assets/document-library/ChallengeGov_Platform_Overview.pdf)
 
 #### Challenge Marketing
-* [Social Media Style Guide: Applied AI Challenge]({{site.baseurl}}/assets/document-library/AppliedAIChallenge_ SocialMediaStyleGuide.pdf)
+* [Social Media Style Guide: Applied AI Challenge]({{site.baseurl}}/assets/document-library/AppliedAIChallenge_SocialMediaStyleGuide.pdf)
 
 #### Videos
 
