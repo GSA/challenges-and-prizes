@@ -98,6 +98,9 @@ title: Toolkit - Resources
 * [Challenge.Gov Program Overview]({{site.baseurl}}/assets/document-library/ChallengeGov_Program_Overview.pdf)
 * [Challenge.Gov Platform Overview]({{site.baseurl}}/assets/document-library/ChallengeGov_Platform_Overview.pdf)
 
+#### Challenge Marketing
+* [Social Media Style Guide: Applied AI Challenge]({{site.baseurl}}/assets/document-library/AppliedAIChallenge_SocialMediaStyleGuide.pdf)
+
 #### Videos
 
 * [Videos: Challenge.gov Webinars and Trainings on YouTube](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC)
