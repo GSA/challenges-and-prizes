@@ -9,11 +9,11 @@ Thinking about crowdsourcing and incentives as innovative ways to tackle problem
 
 If you answered yes to any of these questions, the Challenge and Prize Community of Practice (CoP) is for you!
 
-**Who we are**
+**Who We Are**
 
 Hackathons, grand challenges, data jams, map-a-thons—it’s all crowdsourcing. Our community strives to tap into the public braintrust to help government solve complex problems. We are a thriving inter-agency community of over 800 dedicated and passionate civil servants encouraging innovation in government. Membership and participation are open to federal, tribal, state and local government.
 
-**What we do**
+**What We Do**
 
 Our members exchange ideas, review best practices, and provide a sounding board on crowdsourcing policies and procedures. We are changing the way the government does business, advising our organizational leaders on new ways to source innovations—wherever they emerge—at tremendous cost avoidance and in a fraction of the usual procurement time.
 
@@ -23,12 +23,13 @@ Members of the Challenge and Prize CoP gather regularly to share ideas, review b
 
 **Related Resources**
 
-Official listing of federal prizes and challenges: https://www.challenge.gov
-Challenge.gov e-Newsletter: https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6
-Toolkit and resources on running challenges: https://www.challenge.gov/toolkit
-Playlist of challenges and prizes webinars: https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC
-Facebook: https://www.facebook.com/challengegov
-Twitter: https://www.twitter.com/challengegov
+Official listing of federal prizes and challenges: <a href="https://www.challenge.gov">https://www.challenge.gov</a>
+Challenge.gov e-Newsletter: <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6">https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6</a>
+Toolkit and resources on running challenges: <a href="https://www.challenge.gov/toolkit">https://www.challenge.gov/toolkit</a>
+Playlist of challenges and prizes webinars: <a href="https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC">https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC</a>
+Facebook: <a href="https://www.facebook.com/challengegov">https://www.facebook.com/challengegov</a>
+Twitter: <a href="https://www.twitter.com/challengegov">https://www.twitter.com/challengegov</a>
+LinkedIn: <a href="https://www.linkedin.com/company/challengegov/">https://www.linkedin.com/company/challengegov/</a>
 
 **Community Conduct**
 
