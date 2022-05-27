@@ -10,27 +10,11 @@ Thinking about crowdsourcing and incentives as innovative ways to tackle problem
 If you answered yes to any of these questions, the Challenge and Prize Community of Practice (CoP) is for you!
 
 
-   > Anyone with a .gov or .mil email address is eligible to join
+   > Join the Commuity: Anyone with a .gov or .mil email address is eligible to join
                     
-                    
-
-> <a href="mailto:challenges-subscribe-request@listserv.gsa.gov" class="join type-listserv"><i class="fas fa-envelope"></i> Join by email</a>
 
 > To join, email <strong>challenges-subscribe-request@listserv.gsa.gov</strong> with  nothing  in the subject.
-> 800 members
                
->Community Managers
-    
-  
-
-> Jarah Meador
->GSA
-
-> Manage your Listserv subscription
-
-> <a href="/communities/manage-your-subscription/#access-the-listserv-archive" title="Access the Listserv archive">Access the Listserv archive</a>
-
-
 
 **Who We Are**
 
@@ -46,15 +30,14 @@ Members of the Challenge and Prize CoP gather regularly to share ideas, review b
 
 **Related Resources**
 
-<ul>
-  <li>Official listing of federal prizes and challenges: <a href="https://www.challenge.gov">https://www.challenge.gov</a></li>
-<li>Challenge.gov e-Newsletter: <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6">https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6</a></li>
-<li>Toolkit and resources on running challenges: <a href="https://www.challenge.gov/toolkit">https://www.challenge.gov/toolkit</a></li>
-<li>Playlist of challenges and prizes webinars: <a href="https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC">https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC</a></li>
-<li>Facebook: <a href="https://www.facebook.com/challengegov">https://www.facebook.com/challengegov</a></li>
-<li>Twitter: <a href="https://www.twitter.com/challengegov">https://www.twitter.com/challengegov</a></li>
-<li>LinkedIn: <a href="https://www.linkedin.com/company/challengegov/">https://www.linkedin.com/company/challengegov/</a></li>
-  </ul>
+- Official listing of federal prizes and challenges: <a href="https://www.challenge.gov">https://www.challenge.gov</a>
+- Challenge.gov e-Newsletter: <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6">https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6</a>
+- Toolkit and resources on running challenges: <a href="https://www.challenge.gov/toolkit">https://www.challenge.gov/toolkit</a>
+- Playlist of challenges and prizes webinars: <a href="https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC">https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC</a>
+- Facebook: <a href="https://www.facebook.com/challengegov">https://www.facebook.com/challengegov</a>
+- Twitter: <a href="https://www.twitter.com/challengegov">https://www.twitter.com/challengegov</a>
+- LinkedIn: <a href="https://www.linkedin.com/company/challengegov/">https://www.linkedin.com/company/challengegov/</a>
+
 
 **Community Conduct**
 
