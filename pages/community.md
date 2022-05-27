@@ -8,50 +8,14 @@ title: Challenge & Prize Community
 Thinking about crowdsourcing and incentives as innovative ways to tackle problems within your agency? Want to talk to someone who has done it? Better yet, want to talk to somebody within your own agency, or someone who has run the same type of competition you want to run?
 
 If you answered yes to any of these questions, the Challenge and Prize Community of Practice (CoP) is for you!
-   <section>
-      <div class="grid-container grid-container-desktop">
-        <div class="grid-row tablet-lg:grid-gap-4">
-          <div class="grid-col-12 tablet-lg:grid-col-4"><section class="community-info "><div class="join-box">
 
-                  <div class="type">
+
+   > Join the Commuity: Anyone with a .gov or .mil email address is eligible to join
                     
 
-                    <p class="terms">Anyone with a .gov or .mil email address is eligible to join</p></div>
+> To join, email <strong>challenges-subscribe-request@listserv.gsa.gov</strong> with  nothing  in the subject.
+               
 
-                  <div class="join-box-wrapper">
-                    
-                    
-
-<a href="mailto:challenges-subscribe-request@listserv.gsa.gov" class="join type-listserv"><i class="fas fa-envelope"></i> Join by email</a>
-
-<p>To join, email <strong>challenges-subscribe-request@listserv.gsa.gov</strong> with  nothing  in the subject.</p>
-<p class="members"><i class="far fa-user"></i> 800 members</p></div>
-                </div><div class="community_managers">
-                <h3>Community Managers</h3><div class="authors-list">
-    
-    <div class="author grid-row">
-          <div class="grid-col-auto">
-            <div class="photo">
-  <img src="/img/digit-dark.png" alt="">
-
-
-
-
-
-</div>
-          </div>
-          <div class="grid-col-9">
-            <div class="details">
-              <h5>
-                <a href="/authors/jarah-meador/" title="Posts byJarah Meador" rel="author">Jarah Meador</a>
-              </h5><p>GSA</p></div>
-          </div>
-        </div></div></div><div class="community_admin">
-                <p><a href="/communities/manage-your-subscription" title="Manage your Listserv subscription">Manage your Listserv subscription</a></p>
-                <p><a href="/communities/manage-your-subscription/#access-the-listserv-archive" title="Access the Listserv archive">Access the Listserv archive</a></p>
-              </div>
-
-            </section>
 **Who We Are**
 
 Hackathons, grand challenges, data jams, map-a-thons—it’s all crowdsourcing. Our community strives to tap into the public braintrust to help government solve complex problems. We are a thriving inter-agency community of over 800 dedicated and passionate civil servants encouraging innovation in government. Membership and participation are open to federal, tribal, state and local government.
@@ -66,15 +30,14 @@ Members of the Challenge and Prize CoP gather regularly to share ideas, review b
 
 **Related Resources**
 
-<ul>
-  <li>Official listing of federal prizes and challenges: <a href="https://www.challenge.gov">https://www.challenge.gov</a></li>
-<li>Challenge.gov e-Newsletter: <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6">https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6</a></li>
-<li>Toolkit and resources on running challenges: <a href="https://www.challenge.gov/toolkit">https://www.challenge.gov/toolkit</a></li>
-<li>Playlist of challenges and prizes webinars: <a href="https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC">https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC</a></li>
-<li>Facebook: <a href="https://www.facebook.com/challengegov">https://www.facebook.com/challengegov</a></li>
-<li>Twitter: <a href="https://www.twitter.com/challengegov">https://www.twitter.com/challengegov</a></li>
-<li>LinkedIn: <a href="https://www.linkedin.com/company/challengegov/">https://www.linkedin.com/company/challengegov/</a></li>
-  </ul>
+- Official listing of federal prizes and challenges: <a href="https://www.challenge.gov">https://www.challenge.gov</a>
+- Challenge.gov e-Newsletter: <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6">https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6</a>
+- Toolkit and resources on running challenges: <a href="https://www.challenge.gov/toolkit">https://www.challenge.gov/toolkit</a>
+- Playlist of challenges and prizes webinars: <a href="https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC">https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC</a>
+- Facebook: <a href="https://www.facebook.com/challengegov">https://www.facebook.com/challengegov</a>
+- Twitter: <a href="https://www.twitter.com/challengegov">https://www.twitter.com/challengegov</a>
+- LinkedIn: <a href="https://www.linkedin.com/company/challengegov/">https://www.linkedin.com/company/challengegov/</a>
+
 
 **Community Conduct**
 
