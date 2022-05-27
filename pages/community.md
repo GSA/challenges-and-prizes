@@ -23,13 +23,15 @@ Members of the Challenge and Prize CoP gather regularly to share ideas, review b
 
 **Related Resources**
 
-Official listing of federal prizes and challenges: <a href="https://www.challenge.gov">https://www.challenge.gov</a>
-Challenge.gov e-Newsletter: <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6">https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6</a>
-Toolkit and resources on running challenges: <a href="https://www.challenge.gov/toolkit">https://www.challenge.gov/toolkit</a>
-Playlist of challenges and prizes webinars: <a href="https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC">https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC</a>
-Facebook: <a href="https://www.facebook.com/challengegov">https://www.facebook.com/challengegov</a>
-Twitter: <a href="https://www.twitter.com/challengegov">https://www.twitter.com/challengegov</a>
-LinkedIn: <a href="https://www.linkedin.com/company/challengegov/">https://www.linkedin.com/company/challengegov/</a>
+<ul>
+  <li>Official listing of federal prizes and challenges: <a href="https://www.challenge.gov">https://www.challenge.gov</a></li>
+<li>Challenge.gov e-Newsletter: <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6">https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6</a></li>
+<li>Toolkit and resources on running challenges: <a href="https://www.challenge.gov/toolkit">https://www.challenge.gov/toolkit</a></li>
+<li>Playlist of challenges and prizes webinars: <a href="https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC">https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC</a></li>
+<li>Facebook: <a href="https://www.facebook.com/challengegov">https://www.facebook.com/challengegov</a></li>
+<li>Twitter: <a href="https://www.twitter.com/challengegov">https://www.twitter.com/challengegov</a></li>
+<li>LinkedIn: <a href="https://www.linkedin.com/company/challengegov/">https://www.linkedin.com/company/challengegov/</a></li>
+  </ul>
 
 **Community Conduct**
 
