@@ -10,10 +10,12 @@ Thinking about crowdsourcing and incentives as innovative ways to tackle problem
 If you answered yes to any of these questions, the Challenge and Prize Community of Practice (CoP) is for you!
 
 
-   > Join the Commuity: Anyone with a .gov or .mil email address is eligible to join
-                    
-
-> To join, email <strong>challenges-subscribe-request@listserv.gsa.gov</strong> with  nothing  in the subject.
+> **Join the Community:** Anyone with a .gov or .mil email address is eligible to join
+>
+> - To join, email <challenges-subscribe-request@listserv.gsa.gov> with  nothing  in the subject.
+> - Community Manager: <a href="https://digital.gov/authors/jarah-meador/" target="_blank">Jarah Meador, GSA</a>
+> - <a href="https://digital.gov/communities/manage-your-subscription" target="_blank">Manage your Listserv subscription</a> 
+> - <a href="https://digital.gov/communities/manage-your-subscription/#access-the-listserv-archive" target="_blank">Access the Listserv archive</a>
                
 
 **Who We Are**
