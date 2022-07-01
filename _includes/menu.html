@@ -18,17 +18,18 @@ where we provide an easy way to manage your navigation system
       </button>
       <ul class="usa-nav__primary usa-accordion">
         <li class="usa-nav__primary-item">
-          <a class="usa-nav__link" href="{{ site.baseurl }}/" title="Active challenges" aria-label="Active challenges">Active challenges</a>
+          <a href="{{ site.baseurl }}/#active-challenges" class="usa-nav__link" title="Active challenges" aria-label="Active challenges" data-anchor="active-challenges">Find a Challenge</a>
         </li>
         <li class="usa-nav__primary-item">
-          <a class="usa-nav__link" href="{{ site.baseurl }}/?state=archived" title="Archived challenges" aria-label="Archived challenges">Archived challenges</a>
+          <a class="usa-nav__link" href="{{ site.baseurl }}/#resources-people" title="Resources" aria-label="Resources">Resources</a>
         </li>
         <li class="usa-nav__primary-item">
-          <a class="usa-nav__link" href="{{ site.baseurl }}/contact" title="Contact us" aria-label="Contact us">Contact us</a>
+          <a class="usa-nav__link" href="{{ site.baseurl }}/contact" title="Contact" aria-label="Contact">Contact</a>
         </li>
       </ul>
-      {% include searchgov/form.html affiliate=site.searchgov_affiliate %}
-      <a class="float-right usa-button usa-button--outline tablet:margin-left-2 tablet:float-right font-sans-xs" href="https://portal.challenge.gov/sign-in/new">My account</a>
+      {% include searchgov/form.html affiliate=site.searchgov_affiliate %}      
+      <a style="width: 6rem;" class="float-right usa-button usa-button--outline tablet:margin-left-2 tablet:float-right font-sans-xs" href="https://portal.challenge.gov/sign-in/new">Login</a>
+      <a style="width: 10rem;" class="float-right usa-button usa-button tablet:margin-left-1 tablet:float-right font-sans-xs" href="https://secure.login.gov/sign_up/enter_email?request_id=6ab5f3e4-a3e5-4cb7-90a3-3a777fee8967">Create Account</a>      
     </nav>
   </div>
 </header>

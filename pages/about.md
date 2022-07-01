@@ -5,7 +5,7 @@ title: About
 ---
 # About Challenge.Gov
 
-Welcome to Challenge.Gov - the official hub for challenges and prize competitions across the U.S. federal government.
+Welcome to Challenge.Gov - the official hub for challenges and prize competitions across the U.S. federal government!
 
 Challenge.Gov, managed by the General Services Administration, is a leading program that supports federal agencies to mature and scale the use of prize competitions in order to advance their missions. The Challenge.Gov team delivers this support by offering advanced infrastructure, empowering members of the Challenge and Prize Community of Practice, hosting interactive learning experiences, and developing practical toolkits.
 
