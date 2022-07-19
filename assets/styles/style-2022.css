@@ -1,0 +1,237 @@
+.top {
+    --offset: 200px;
+    position: sticky;
+    bottom: 20px;
+    margin-right: 20px;
+    place-self: end;
+    margin-top: calc(100vh + var(--offset));
+    text-decoration: none;
+    padding: 20px;
+    font-family: sans-serif;
+    font-weight: 900;
+    color: #112f4e !important;
+    background: #fa9441;
+    border-radius: .25rem;
+    white-space: nowrap;
+    /* float: right; */
+    margin-left: 80%;
+}
+
+/* remove the below if you don't want smooth scrolling */
+html,
+body {
+  scroll-behavior: smooth;
+}
+.usa-hero {
+  background-image: url(../images/banners/hero-banner-2022.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top: 0;
+  padding-bottom: 0;
+  min-height: 35rem;
+  -webkit-clip-path: ellipse(100% 55% at 48% 44%);
+  clip-path: ellipse(100% 55% at 48% 44%);
+}
+.usa-header [type=search] {
+  min-width: 0;
+  max-width: 100px;
+}
+.usa-hero__inner2 {
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  background-position: 100% 0;
+}
+.hero-logo {
+  height: 4.5rem;
+}
+.hero-headline {
+  width: 55%;
+  padding-bottom: 30px;
+}
+.video-left {
+  width: 80%;
+  text-align: center;
+}
+.learn-video {
+  font-size: 2.8rem;
+  padding-bottom: 20px;
+}
+.section-divider-transparent {
+  width: 100%;
+  height: 3rem;
+  /* background-image: url(/images/section-divider.svg); */
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: auto;
+  margin-top: 1rem;
+}
+.fa, .fas, .far, .fal, .fad, .fab {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  color: #fa9441;
+}
+.border-orange {
+  border-color: #fa9441 !important;
+}
+
+.orange__description button {
+    background-color: #ec9852;
+    font-weight: 400;
+    font-size: 1.5rem;
+    color: #19304c;
+}
+
+.usa-prose>h1, .usa-prose>h2 {
+    font-family: Source Sans Pro Web,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif !important;
+    line-height: 1.2;
+    font-weight: 700;
+}
+
+.usa-prose>h3, .usa-prose>h4 {
+    font-family: Source Sans Pro Web,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif !important;
+    line-height: 1.2;
+    font-weight: 700;
+}
+
+.grid-container-video {
+  background-image: url(../images/banners/background-dots.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top: 50px;
+  padding-bottom: 0;
+  min-height: 25rem;
+}
+.grid-container-resources {
+  background-image: url(../images/banners/background-dots.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top: 80px;
+  padding-bottom: 0;
+  min-height: 35rem;
+}
+
+  .challenge-banner-text {
+    color: #ffffff;
+    width: 50%;
+}
+    
+.challenges-bg {
+  background-image: url(../images/banners/computer-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top: 35px;
+  padding-bottom: 35px;
+  background-color: #112f4e;
+}
+.newsletter-bg {
+  background-image: url(../images/banners/newsletter-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #112f4e;
+}
+
+
+
+.people {
+  width: 300px;
+  padding-bottom: 30px;
+}
+@media only screen and (max-width: 600px) {
+  .hero-create {
+    display: none;
+  }
+  .usa-hero .grid-container {
+    height: 100%;
+    width: 100%;
+    /* padding-top: 3rem; */
+    padding-bottom: 4rem;
+}
+  
+  .usa-hero {
+  background-image: url(../images/banners/hero-banner-mobile-2022.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top: 0;
+  padding-bottom: 0;
+  min-height: 35rem;
+  -webkit-clip-path: ellipse(100% 55% at 48% 44%);
+  clip-path: ellipse(100% 55% at 48% 44%);
+}
+  
+  .hero-logo {
+    display: none;
+  }
+  .hero-headline {
+    width: 80%;
+    padding-bottom: 40px;
+  }
+  .challenges-bg {
+    background-image: none;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    background-color: #112f4e;
+  }
+  .newsletter-bg {
+    background-image: none;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #112f4e;
+  }
+  .footer__gsa-logo-square {
+    float: left;
+  }
+  .video-left {
+    width: 100%;
+    text-align: center;
+  }
+  .video-embed {
+    padding-bottom: 40px;
+  }
+  .challenge-banner-text {
+    color: #ffffff;
+    width: 100%;
+  }
+  .resources-title {
+    padding-top: 40px;
+  }
+  .top {
+    --offset: 200px;
+    position: sticky;
+    bottom: 20px;
+    margin-right: 20px;
+    place-self: end;
+    margin-top: calc(100vh + var(--offset));
+    text-decoration: none;
+    padding: 20px;
+    font-family: sans-serif;
+    font-weight: 900;
+    color: #ffffff !important;
+    background: #fa9441;
+    border-radius: 20px;
+    white-space: nowrap;
+    /* float: right; */
+    margin-left: 50%;
+}
+}
+@media (min-width: 64em) .usa-nav a.usa-button {
+  width: 9rem !important;
+}

@@ -1,7 +1,7 @@
 {% if site.branch == "master" %}
   <div id="challenge-gov-react-app" data-api-url="https://portal.challenge.gov" data-public-url="{{ site.baseurl }}"></div>
 {% elsif site.branch == "staging" %}
-  <div id="challenge-gov-react-app" data-api-url="https://portal.challenge.gov" data-public-url="{{ site.baseurl }}"></div>
+  <div id="challenge-gov-react-app" data-api-url="https://challenge-portal-staging.app.cloud.gov" data-public-url="{{ site.baseurl }}"></div>
 {% elsif site.branch == "embed-react-app" %}
   <div id="challenge-gov-react-app" data-api-url="https://challenge-portal-staging.app.cloud.gov" data-public-url="{{ site.baseurl }}"></div>
 {% elsif jekyll.environment == "dev" %}
