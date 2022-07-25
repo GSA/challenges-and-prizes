@@ -1,6 +1,7 @@
 .video-css {
   aspect-ratio: 16 / 9;
-  width: 100%;
+  width: 560px; 
+  height: 315px;
 }
 
 .top {
@@ -183,6 +184,12 @@ body {
     width: 80%;
     padding-bottom: 40px;
   }
+  
+  .video-css {
+  aspect-ratio: 16 / 9;
+  width: 100%; 
+}
+
   .challenges-bg {
     background-image: none;
     background-repeat: no-repeat;
