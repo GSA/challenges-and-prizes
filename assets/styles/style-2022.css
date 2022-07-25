@@ -1,3 +1,8 @@
+.video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+}
+
 .top {
     --offset: 200px;
     position: sticky;
