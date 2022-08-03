@@ -10,6 +10,29 @@ title: Resources
 
 Our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" rel="noopener">User Guide</a> is full of useful information to help you get started. -->
 
+<!--new code -->
+<div class="row">
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">FAQs</h5>
+        <p class="card-text">Our frequently asked questions contain information on prize competitions, crowdsourcing, and use of the Challenge.Gov platform..</p>
+        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" class="btn btn-primary">Read FAQs</a>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">User Guide</h5>
+        <p class="card-text">Our user guide is full of useful information to help you get started.</p>
+        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" class="btn btn-primary">Read User Guide</a>
+      </div>
+    </div>
+  </div>
+</div>
+<!--end new code -->
+
 <section class="content help-page">
   <div class="container-fluid">
     <div class="row">
