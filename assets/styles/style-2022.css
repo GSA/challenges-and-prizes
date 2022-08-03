@@ -1,12 +1,6 @@
 a {
     color: #0050d8 !important;
-    text-decoration: underline !important;
     background-color: transparent;
-}
-
-a:visited {
-    color: #54278f;
-    text-decoration: underline !important;
 }
 
 .top {
