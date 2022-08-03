@@ -47,7 +47,7 @@ title: Resources
         <a href="https://www.challenge.gov/toolkit/case-studies/" target="_blank" rel="noopener"><i class="fa fa-solid fa-folder" style="color: #FA9441; font-size: 3em;" title="Read our FAQs"></i></a>
         <h5 class="card-title text-center">Case Studies</h5>
         <p class="card-text text-center">Our <a href="https://www.challenge.gov/toolkit/case-studies/">Case Studies</a> are full of useful information.</p>
-        <a href="https://www.challenge.gov/toolkit/case-studies/" target="_blank" class="usa-button usa-button">Read User Guide</a>
+        <a href="https://www.challenge.gov/toolkit/case-studies/" target="_blank" class="usa-button usa-button">Read Case Studies</a>
       </div>
     </div>
   </div>
