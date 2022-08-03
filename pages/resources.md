@@ -46,7 +46,7 @@ title: Resources
       <div class="card-body text-center">
         <a href="{{ site.baseurl }}/toolkit/case-studies/" rel="noopener"><i class="fa fa-solid fa-folder" style="color: #FA9441; padding-bottom: 20px; font-size: 3em;" title="Read our FAQs"></i></a>
         <h5 class="card-title text-center">Case Studies</h5>
-        <p class="card-text text-center">Our <a href="{{ site.baseurl }}/toolkit/case-studies/">Case Studies</a> are full of useful information.</p>
+        <p class="card-text text-center">Our Case Studies are full of useful information.</p>
         <a href="{{ site.baseurl }}/toolkit/case-studies/" class="usa-button usa-button">Read case studies</a>
       </div>
     </div>
