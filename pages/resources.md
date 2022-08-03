@@ -4,12 +4,8 @@ layout: page
 title: Resources
 ---
 
-<!--
-# Resources for Public Solvers
-  <p>Our FAQs <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener">contain information on prize competitions, crowdsourcing, and use of the Challenge.Gov platform.</p>
-
-Our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" rel="noopener">User Guide</a> is full of useful information to help you get started. -->
-
+ <h3 class="text-center mb-4 font-weight-bold">Resources for Public Innovators</h3>
+ 
 <!--new code -->
 <div class="row">
   <div class="col-sm-6">
