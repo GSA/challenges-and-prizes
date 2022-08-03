@@ -4,7 +4,7 @@ layout: page
 title: Resources
 ---
 
- <h3 class="text-center mb-4 font-weight-bold">Resources for Public Innovators</h3>
+ <h2 class="text-center mb-4 font-weight-bold">Resources for Public Innovators</h2>
  
 <!--new code -->
 <div class="row">
@@ -12,18 +12,18 @@ title: Resources
     <div class="card">
       <div class="card-body">
         <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener"><i class="dashboard-card-icon fa fa-question-circle" style="color: #FA9441; font-size: 3em;" title="Read our FAQs"></i></a>
-        <h5 class="card-title">FAQs</h5>
-        <p class="card-text">Our frequently asked questions contain information on prize competitions, crowdsourcing, and use of the Challenge.Gov platform..</p>
+        <h5 class="card-title text-center">FAQs</h5>
+        <p class="card-text text-center">Our frequently asked questions contain information on prize competitions, crowdsourcing, and use of the Challenge.Gov platform.</p>
         <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" class="btn btn-primary">Read FAQs</a>
       </div>
     </div>
   </div>
   <div class="col-sm-6">
     <div class="card">
-      <div class="card-body">
-        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" rel="noopener"><i class="dashboard-card-icon fa fa-question-circle" style="color: #FA9441; font-size: 3em;" title="Read our FAQs"></i></a>
-        <h5 class="card-title">User Guide</h5>
-        <p class="card-text">Our user guide is full of useful information to help you get started.</p>
+      <div class="card-body text-center">
+        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" rel="noopener"><i class="dashboard-card-icon fas fa-book-open" style="color: #FA9441; font-size: 3em;" title="Read our FAQs"></i></a>
+        <h5 class="card-title text-center">User Guide</h5>
+        <p class="card-text text-center">Our user guide is full of useful information to help you get started.</p>
         <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" class="btn btn-primary">Read User Guide</a>
       </div>
     </div>
@@ -39,7 +39,7 @@ title: Resources
         <div class="card help-card p-4 my-5 mx-auto">
           <div class="d-flex flex-row justify-content-around mt-4 help-page__getting-started-content">
           <!-- FAQ -->
-            <div class="col-sm-12 text-center help-card__section">
+            <div class="col-sm-6 text-center help-card__section">
               <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener"><i class="dashboard-card-icon fa fa-question-circle" style="color: #FA9441; font-size: 3em;" title="Read our FAQs"></i></a>
               <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener"><h4 class="m-4" style="color: #000000;">FAQs</h4></a>
               <p>Our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener">frequently asked questions</a> contain information on prize competitions, crowdsourcing, and use of the Challenge.Gov platform.</p>
