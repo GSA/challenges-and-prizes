@@ -36,7 +36,7 @@ title: Resources
       <div class="card-body text-center">
         <a href="{{ site.baseurl }}/blog/" rel="noopener"><i class="fab fa-readme" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Read our FAQs"></i></a>
         <h5 class="card-title text-center">Blog</h5>
-        <p class="card-text text-center">Read great articles from our <a href="https://www.challenge.gov/blog/">Blog</a>!</p>
+        <p class="card-text text-center">Read great articles from our Blog!</p>
         <a href="{{ site.baseurl }}/blog/" class="usa-button usa-button">Read blog</a>
       </div>
     </div>
