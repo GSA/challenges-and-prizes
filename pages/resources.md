@@ -37,17 +37,17 @@ title: Resources
         <a href="https://www.challenge.gov/blog/" target="_blank" rel="noopener"><i class="fab fa-readme" style="color: #FA9441; font-size: 3em;" title="Read our FAQs"></i></a>
         <h5 class="card-title text-center">Blog</h5>
         <p class="card-text text-center">Read great articles from our <a href="https://www.challenge.gov/blog/">Blog</a>!</p>
-        <a href="https://www.challenge.gov/blog/" target="_blank" class="usa-button usa-button">Read FAQs</a>
+        <a href="https://www.challenge.gov/blog/" target="_blank" class="usa-button usa-button">Read Blog</a>
       </div>
     </div>
   </div>
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body text-center">
-        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" rel="noopener"><i class="dashboard-card-icon fas fa-book-open" style="color: #FA9441; font-size: 3em;" title="Read our FAQs"></i></a>
-        <h5 class="card-title text-center">User Guide</h5>
-        <p class="card-text text-center">Our user guide is full of useful information to help you get started.</p>
-        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" class="usa-button usa-button">Read User Guide</a>
+        <a href="https://www.challenge.gov/toolkit/case-studies/" target="_blank" rel="noopener"><i class="fa fa-solid fa-folder" style="color: #FA9441; font-size: 3em;" title="Read our FAQs"></i></a>
+        <h5 class="card-title text-center">Case Studies</h5>
+        <p class="card-text text-center">Our <a href="https://www.challenge.gov/toolkit/case-studies/">Case Studies</a> are full of useful information.</p>
+        <a href="https://www.challenge.gov/toolkit/case-studies/" target="_blank" class="usa-button usa-button">Read User Guide</a>
       </div>
     </div>
   </div>
