@@ -4,6 +4,11 @@ a {
     background-color: transparent;
 }
 
+a:visited {
+    color: #54278f;
+    text-decoration: underline;
+}
+
 .top {
     --offset: 200px;
     position: sticky;
