@@ -44,7 +44,7 @@ title: Resources
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body text-center">
-        <a href="{{ site.baseurl }}/toolkit/case-studies/" rel="noopener"><i class="fa fa-solid fa-folder" style="color: #FA9441" padding-bottom: 20px;" font-size: 3em;" title="Read our FAQs"></i></a>
+        <a href="{{ site.baseurl }}/toolkit/case-studies/" rel="noopener"><i class="fa fa-solid fa-folder" style="color: #FA9441; padding-bottom: 20px; font-size: 3em;" title="Read our FAQs"></i></a>
         <h5 class="card-title text-center">Case Studies</h5>
         <p class="card-text text-center">Our <a href="{{ site.baseurl }}/toolkit/case-studies/">Case Studies</a> are full of useful information.</p>
         <a href="{{ site.baseurl }}/toolkit/case-studies/" class="usa-button usa-button">Read Case Studies</a>
@@ -59,7 +59,7 @@ title: Resources
       <div class="card-body text-center">
         <a href="{{ site.baseurl }}/#active-challenges" rel="noopener"><i class="fas fa-trophy" style="color: #FA9441; padding-bottom: 20px; font-size: 3em;" title="Read our FAQs"></i></a>
         <h5 class="card-title text-center">Question about a challenge?</h5>
-        <p class="card-text text-center">Get in touch with the Challenge <em>Point of Contact</em> from the contact tab on the challenge details page.</p>
+        <p class="card-text text-center">Get in touch with the <em>Challenge Point of Contact</em> from the contact tab on the challenge details page.</p>
         <a href="{{ site.baseurl }}/#active-challenges" class="usa-button usa-button">Search challenges</a>
       </div>
     </div>
