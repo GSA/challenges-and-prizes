@@ -14,7 +14,7 @@ title: Resources
         <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener"><i class="dashboard-card-icon fa fa-question-circle" style="color: #FA9441; font-size: 3em;" title="Read our FAQs"></i></a>
         <h5 class="card-title text-center">FAQs</h5>
         <p class="card-text text-center">Our frequently asked questions contain information on prize competitions, crowdsourcing, and use of the Challenge.Gov platform.</p>
-        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" class="btn btn-primary">Read FAQs</a>
+        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" class="usa-button usa-button--big">Read FAQs</a>
       </div>
     </div>
   </div>
@@ -24,7 +24,7 @@ title: Resources
         <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" rel="noopener"><i class="dashboard-card-icon fas fa-book-open" style="color: #FA9441; font-size: 3em;" title="Read our FAQs"></i></a>
         <h5 class="card-title text-center">User Guide</h5>
         <p class="card-text text-center">Our user guide is full of useful information to help you get started.</p>
-        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" class="btn btn-primary">Read User Guide</a>
+        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" class="usa-button usa-button">Read User Guide</a>
       </div>
     </div>
   </div>
