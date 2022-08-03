@@ -57,7 +57,7 @@ title: Resources
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body text-center">
-        <a href="{{ site.baseurl }}/#active-challenges" rel="noopener"><i class="fab fa-readme" style="color: #FA9441; font-size: 3em;" title="Read our FAQs"></i></a>
+        <a href="{{ site.baseurl }}/#active-challenges" rel="noopener"><i class="dashboard-card-icon fa fa-question-circle" style="color: #FA9441; font-size: 3em;" title="Read our FAQs"></i></a>
         <h5 class="card-title text-center">Question about a challenge?</h5>
         <p class="card-text text-center">Get in touch with the Challenge <em>Point of Contact</em> from the contact tab on the challenge details page.</p>
         <a href="{{ site.baseurl }}/#active-challenges" class="usa-button usa-button">Search Active Challenges</a>
@@ -67,9 +67,9 @@ title: Resources
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body text-center">
-        <a href="https://www.challenge.gov/toolkit/case-studies/" rel="noopener"><i class="fa fa-solid fa-folder" style="color: #FA9441; font-size: 3em;" title="Read our FAQs"></i></a>
-        <h5 class="card-title text-center">For technical issues with the platform:</h5>
-        <p class="card-text text-center">Contact <a href="mailto: team@challenge.gov">team@challenge.gov</a> for help with submissions.</p>
+        <a href="https://www.challenge.gov/toolkit/case-studies/" rel="noopener"><i class="fa fa-solid fa-wrench" style="color: #FA9441; font-size: 3em;" title="Read our FAQs"></i></a>
+        <h5 class="card-title text-center">Need Help?</h5>
+        <p class="card-text text-center">For technical issues with the platform please contact us at <a href="mailto: team@challenge.gov">team@challenge.gov</a> for help with submissions.</p>
         <a href="mailto: team@challenge.gov" class="usa-button usa-button">Email Us</a>
       </div>
     </div>
