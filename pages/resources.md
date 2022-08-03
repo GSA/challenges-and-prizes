@@ -13,12 +13,12 @@ Our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solv
 <section class="content help-page">
   <div class="container-fluid">
     <div class="row">
-      <div class="col-md-12">
+      <div class="col-sm-12">
         <h3 class="text-center mb-4 font-weight-bold">Resources for Public Innovators</h3>
         <div class="card help-card p-4 my-5 mx-auto">
           <div class="d-flex flex-row justify-content-around mt-4 help-page__getting-started-content">
           <!-- FAQ -->
-            <div class="col-md-6 text-center help-card__section">
+            <div class="col-sm-12 text-center help-card__section">
               <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener"><i class="dashboard-card-icon fa fa-question-circle" style="color: #FA9441; font-size: 3em;" title="Read our FAQs"></i></a>
               <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener"><h4 class="m-4" style="color: #000000;">FAQs</h4></a>
               <p>Our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener">frequently asked questions</a> contain information on prize competitions, crowdsourcing, and use of the Challenge.Gov platform.</p>
