@@ -11,7 +11,7 @@ title: Resources
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body text-center">
-        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener"><i class="<i class="fas fa-info-circle"></i>" style="color: #FA9441; font-size: 3em;" title="Read our FAQs"></i></a>
+        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener"><i class="fas fa-info-circle"></i>" style="color: #FA9441; font-size: 3em;" title="Read our FAQs"></i></a>
         <h5 class="card-title text-center">FAQs</h5>
         <p class="card-text text-center">Our frequently asked questions contain information on prize competitions, crowdsourcing, and use of the Challenge.Gov platform.</p>
         <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" class="usa-button usa-button">Read FAQs</a>
