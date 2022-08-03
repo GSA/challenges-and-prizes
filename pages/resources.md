@@ -34,20 +34,20 @@ title: Resources
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body text-center">
-        <a href="{{ site.baseurl }}/blog/" target="_blank" rel="noopener"><i class="fab fa-readme" style="color: #FA9441; font-size: 3em;" title="Read our FAQs"></i></a>
+        <a href="{{ site.baseurl }}/blog/" rel="noopener"><i class="fab fa-readme" style="color: #FA9441; font-size: 3em;" title="Read our FAQs"></i></a>
         <h5 class="card-title text-center">Blog</h5>
         <p class="card-text text-center">Read great articles from our <a href="https://www.challenge.gov/blog/">Blog</a>!</p>
-        <a href="{{ site.baseurl }}/blog/" target="_blank" class="usa-button usa-button">Read Blog</a>
+        <a href="{{ site.baseurl }}/blog/" class="usa-button usa-button">Read Blog</a>
       </div>
     </div>
   </div>
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body text-center">
-        <a href="{{ site.baseurl }}/toolkit/case-studies/" target="_blank" rel="noopener"><i class="fa fa-solid fa-folder" style="color: #FA9441; font-size: 3em;" title="Read our FAQs"></i></a>
+        <a href="{{ site.baseurl }}/toolkit/case-studies/" rel="noopener"><i class="fa fa-solid fa-folder" style="color: #FA9441; font-size: 3em;" title="Read our FAQs"></i></a>
         <h5 class="card-title text-center">Case Studies</h5>
         <p class="card-text text-center">Our <a href="{{ site.baseurl }}/toolkit/case-studies/">Case Studies</a> are full of useful information.</p>
-        <a href="{{ site.baseurl }}/toolkit/case-studies/" target="_blank" class="usa-button usa-button">Read Case Studies</a>
+        <a href="{{ site.baseurl }}/toolkit/case-studies/" class="usa-button usa-button">Read Case Studies</a>
       </div>
     </div>
   </div>
@@ -57,20 +57,20 @@ title: Resources
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body text-center">
-        <a href="{{ site.baseurl }}/#active-challenges" target="_blank" rel="noopener"><i class="fab fa-readme" style="color: #FA9441; font-size: 3em;" title="Read our FAQs"></i></a>
+        <a href="{{ site.baseurl }}/#active-challenges" rel="noopener"><i class="fab fa-readme" style="color: #FA9441; font-size: 3em;" title="Read our FAQs"></i></a>
         <h5 class="card-title text-center">Question about a challenge?</h5>
         <p class="card-text text-center">Get in touch with the Challenge <em>Point of Contact</em> from the contact tab on the challenge details page.</p>
-        <a href="{{ site.baseurl }}/#active-challenges" target="_blank" class="usa-button usa-button">Search Active Challenges</a>
+        <a href="{{ site.baseurl }}/#active-challenges" class="usa-button usa-button">Search Active Challenges</a>
       </div>
     </div>
   </div>
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body text-center">
-        <a href="https://www.challenge.gov/toolkit/case-studies/" target="_blank" rel="noopener"><i class="fa fa-solid fa-folder" style="color: #FA9441; font-size: 3em;" title="Read our FAQs"></i></a>
+        <a href="https://www.challenge.gov/toolkit/case-studies/" rel="noopener"><i class="fa fa-solid fa-folder" style="color: #FA9441; font-size: 3em;" title="Read our FAQs"></i></a>
         <h5 class="card-title text-center">Case Studies</h5>
         <p class="card-text text-center">Our <a href="https://www.challenge.gov/toolkit/case-studies/">Case Studies</a> are full of useful information.</p>
-        <a href="https://www.challenge.gov/toolkit/case-studies/" target="_blank" class="usa-button usa-button">Read Case Studies</a>
+        <a href="https://www.challenge.gov/toolkit/case-studies/" class="usa-button usa-button">Read Case Studies</a>
       </div>
     </div>
   </div>
