@@ -24,7 +24,7 @@ title: Resources
         <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" rel="noopener"><i class="dashboard-card-icon fas fa-book-open" style="color: #FA9441; font-size: 3em;" style="padding-bottom: 20px;" title="Read our FAQs"></i></a>
         <h5 class="card-title text-center">User Guide</h5>
         <p class="card-text text-center">Our user guide is full of useful information to help you get started.</p>
-        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" class="usa-button usa-button">Read User Guide</a>
+        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" class="usa-button usa-button">Read user guide</a>
       </div>
     </div>
   </div>
@@ -37,7 +37,7 @@ title: Resources
         <a href="{{ site.baseurl }}/blog/" rel="noopener"><i class="fab fa-readme" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Read our FAQs"></i></a>
         <h5 class="card-title text-center">Blog</h5>
         <p class="card-text text-center">Read great articles from our <a href="https://www.challenge.gov/blog/">Blog</a>!</p>
-        <a href="{{ site.baseurl }}/blog/" class="usa-button usa-button">Read Blog</a>
+        <a href="{{ site.baseurl }}/blog/" class="usa-button usa-button">Read blog</a>
       </div>
     </div>
   </div>
@@ -47,7 +47,7 @@ title: Resources
         <a href="{{ site.baseurl }}/toolkit/case-studies/" rel="noopener"><i class="fa fa-solid fa-folder" style="color: #FA9441; padding-bottom: 20px; font-size: 3em;" title="Read our FAQs"></i></a>
         <h5 class="card-title text-center">Case Studies</h5>
         <p class="card-text text-center">Our <a href="{{ site.baseurl }}/toolkit/case-studies/">Case Studies</a> are full of useful information.</p>
-        <a href="{{ site.baseurl }}/toolkit/case-studies/" class="usa-button usa-button">Read Case Studies</a>
+        <a href="{{ site.baseurl }}/toolkit/case-studies/" class="usa-button usa-button">Read case studies</a>
       </div>
     </div>
   </div>
@@ -76,7 +76,7 @@ title: Resources
   </div>
 </div>
 <!--end new code -->
-
+<!--old code 
 <section class="content help-page">
   <div class="container-fluid">
     <div class="row">
@@ -146,3 +146,4 @@ title: Resources
     </div>
   </div>
 </section>
+-->
