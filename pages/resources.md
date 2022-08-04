@@ -69,7 +69,7 @@ title: Resources
       <div class="card-body text-center">
         <a href="https://www.challenge.gov/toolkit/case-studies/" rel="noopener"><i class="fas fa-laptop" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Read our FAQs"></i></a>
         <h4 class="card-title text-center">Need Help?</h4>
-        <p class="card-text text-center">For technical issues with the platform please contact us at <a href="mailto: team@challenge.gov">team@challenge.gov</a> for help with submissions.</p>
+        <p class="card-text text-center">For technical issues with the platform please contact us at <a href="mailto: team@challenge.gov" style="color: #0050d8;">team@challenge.gov</a> for help with submissions.</p>
         <a href="mailto: team@challenge.gov" target="_blank" class="usa-button usa-button">Email us</a>
       </div>
     </div>
