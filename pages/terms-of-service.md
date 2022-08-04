@@ -14,13 +14,13 @@ Challenge.Gov is a federal program maintained by the U.S. General Services Admin
 
 ### General Conditions for Use
 
-The use of Challenge.gov is subject to the federal government and [GSA's web use guidelines](https://www.gsa.gov/using-the-gsagov-website){:target="_blank" rel="noopener" style="color: #0050d8;"}. Users should treat this site as they would any government-owned and -operated website.
+The use of Challenge.Gov is subject to the federal government and [GSA's web use guidelines](https://www.gsa.gov/using-the-gsagov-website){:target="_blank" rel="noopener" style="color: #0050d8;"}. Users should treat this site as they would any government-owned and -operated website.
 
 Agency-sponsored competitions may impose additional requirements. Participants should carefully review challenge requirements on a case-by-case basis.
 
 GSA neither guarantees nor warrants that information posted on Challenge.Gov by agency challenge managers or other site users is correct, and disclaims any liability for any loss or damage resulting from reliance on any such information.
 
-Challenge.gov may contain links to websites created and maintained by other public and/or private organizations. The site provides these links as a service to our users. When users click a link to an outside website, they are leaving the Challenge.gov site and are subject to the privacy and security policies of the owners/sponsors of the outside website(s). You are encouraged to familiarize yourself with these policies. The Challenge.gov linking policy is the same as the [USA.gov Linking Policy](https://www.usa.gov/linking-policy){:target="_blank" rel="noopener" style="color: #0050d8;"}.
+Challenge.Gov may contain links to websites created and maintained by other public and/or private organizations. The site provides these links as a service to our users. When users click a link to an outside website, they are leaving the Challenge.Gov site and are subject to the privacy and security policies of the owners/sponsors of the outside website(s). You are encouraged to familiarize yourself with these policies. The Challenge.Gov linking policy is the same as the [USA.gov Linking Policy](https://www.usa.gov/linking-policy){:target="_blank" rel="noopener" style="color: #0050d8;"}.
 
 ### Agency Responsibilities
 
@@ -32,11 +32,11 @@ Remember that official online activities are subject to the ethics regulations o
 
 ### Terms of Use Violation
 
-If an agency or representative violates the terms of use, Challenge.gov access and/or use privileges may be revoked or suspended. Any hosted competitions may be shut down or removed.
+If an agency or representative violates the terms of use, Challenge.Gov access and/or use privileges may be revoked or suspended. Any hosted competitions may be shut down or removed.
 
 ### Applicable Law
 
-The use of the website and any of the applications or programs offered through Challenge.gov and the interpretation of these terms of use shall be governed by and enforced in accordance with applicable federal law.
+The use of the website and any of the applications or programs offered through Challenge.Gov and the interpretation of these terms of use shall be governed by and enforced in accordance with applicable federal law.
 
 ### Accessibility
 
