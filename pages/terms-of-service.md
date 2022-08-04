@@ -6,11 +6,11 @@ title: Terms
 
 # Terms of Use
 
-The following terms govern the use of Challenge.gov. They include any applicable laws, regulations or policies incorporated by reference. Challenge.gov reserves the right to modify these terms at any time, and changes are effective immediately upon posting. By using this website, users agree to all of the terms specified herein. Failure to fully comply with the terms of use or any related laws, rules and regulations may result in denial of use or access to Challenge.gov.
+The following terms govern the use of Challenge.Gov. They include any applicable laws, regulations or policies incorporated by reference. Challenge.Gov reserves the right to modify these terms at any time, and changes are effective immediately upon posting. By using this website, users agree to all of the terms specified herein. Failure to fully comply with the terms of use or any related laws, rules and regulations may result in denial of use or access to Challenge.Gov.
 
 ### Purpose
 
-Challenge.gov is a federal program maintained by the U.S. General Services Administration (GSA). As mandated by the American Innovation and Competitiveness Act of 2017, this is intended for use by federal agencies to announce and broadly promote prize competitions in which the public can participate. 
+Challenge.Gov is a federal program maintained by the U.S. General Services Administration (GSA). As mandated by the American Innovation and Competitiveness Act of 2017, this is intended for use by federal agencies to announce and broadly promote prize competitions in which the public can participate. 
 
 ### General Conditions for Use
 
@@ -18,7 +18,7 @@ The use of Challenge.gov is subject to the federal government and [GSA's web use
 
 Agency-sponsored competitions may impose additional requirements. Participants should carefully review challenge requirements on a case-by-case basis.
 
-GSA neither guarantees nor warrants that information posted on Challenge.gov by agency challenge managers or other site users is correct, and disclaims any liability for any loss or damage resulting from reliance on any such information.
+GSA neither guarantees nor warrants that information posted on Challenge.Gov by agency challenge managers or other site users is correct, and disclaims any liability for any loss or damage resulting from reliance on any such information.
 
 Challenge.gov may contain links to websites created and maintained by other public and/or private organizations. The site provides these links as a service to our users. When users click a link to an outside website, they are leaving the Challenge.gov site and are subject to the privacy and security policies of the owners/sponsors of the outside website(s). You are encouraged to familiarize yourself with these policies. The Challenge.gov linking policy is the same as the [USA.gov Linking Policy](https://www.usa.gov/linking-policy){:target="_blank" rel="noopener" style="color: #0050d8;"}.
 
@@ -26,7 +26,7 @@ Challenge.gov may contain links to websites created and maintained by other publ
 
 Agency challenge administrators are responsible for obtaining proper agency approval for all challenge content, rules, funding, and the legal authority under which the competition will be administered.
 
-Challenge managers must coordinate with the Challenge.gov team ([team@challenge.gov](mailto:team@challenge.gov)) to publish content to the site, and may consult with the team for additional program design, training, and implementation prior to launching. In general, agencies are advised to allow for six-12 months of lead time to plan and structure challenges internally as well as to market competitions prior to launch. 
+Challenge managers must coordinate with the Challenge.Gov team ([team@challenge.gov](mailto:team@challenge.gov)) to publish content to the site, and may consult with the team for additional program design, training, and implementation prior to launching. In general, agencies are advised to allow for six-12 months of lead time to plan and structure challenges internally as well as to market competitions prior to launch. 
 
 Remember that official online activities are subject to the ethics regulations of each agency as well as other federal and agency laws, policies, and regulations.
 
@@ -40,7 +40,7 @@ The use of the website and any of the applications or programs offered through C
 
 ### Accessibility
 
-The commitment to accessibility for all is reflected on this site in our efforts to ensure all functionality and all content are accessible to all Challenge.gov users.
+The commitment to accessibility for all is reflected on this site in our efforts to ensure all functionality and all content are accessible to all Challenge.Gov users.
 
 This site site is routinely tested for compliance with Section 508 of the Rehabilitation Act using a technical standards checklist, in-depth testing with screen readers, policy experts, and people with disabilities. For more information on Section 508 technical standards, please visit [www.Section508.gov](http://www.section508.gov/){:target="_blank" rel="noopener" style="color: #0050d8;"}.
 
