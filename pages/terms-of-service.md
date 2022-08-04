@@ -26,7 +26,7 @@ Challenge.gov may contain links to websites created and maintained by other publ
 
 Agency challenge administrators are responsible for obtaining proper agency approval for all challenge content, rules, funding, and the legal authority under which the competition will be administered.
 
-Challenge managers must coordinate with the Challenge.Gov team <a href="mailto:team@challenge.gov" style="color: #0050d8;">team@challenge.gov</a> to publish content to the site, and may consult with the team for additional program design, training, and implementation prior to launching. In general, agencies are advised to allow for six-12 months of lead time to plan and structure challenges internally as well as to market competitions prior to launch. 
+Challenge managers must coordinate with the Challenge.Gov team (<a href="mailto:team@challenge.gov" style="color: #0050d8;">team@challenge.gov</a>) to publish content to the site, and may consult with the team for additional program design, training, and implementation prior to launching. In general, agencies are advised to allow for six-12 months of lead time to plan and structure challenges internally as well as to market competitions prior to launch. 
 
 Remember that official online activities are subject to the ethics regulations of each agency as well as other federal and agency laws, policies, and regulations.
 
