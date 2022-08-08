@@ -13,7 +13,7 @@ title: Resources
       <div class="card-body text-center">
         <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener"><i class="dashboard-card-icon fa fa-question-circle" style="font-size: 3em; padding-bottom: 20px;" title="Read FAQs"></i></a>
         <h4 class="card-title text-center">FAQs</h4>
-        <p class="card-text text-center">Our frequently asked questions contain information on prize competitions, crowdsourcing, and use of the Challenge.Gov platform.</p>
+        <p class="card-text text-center">Our FAQs contain information on prize competitions, crowdsourcing, and use of the Challenge.Gov platform.</p>
         <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" class="usa-button usa-button">Read FAQs</a>
       </div>
     </div>
