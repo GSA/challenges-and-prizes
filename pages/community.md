@@ -32,10 +32,10 @@ Members of the Challenge and Prize CoP gather regularly to share ideas, review b
 
 **Related Resources**
 
-- Official listing of federal prizes and challenges: <a href="https://www.challenge.gov" color="#0050d8">https://www.challenge.gov</a>
-- Challenge.gov e-Newsletter: <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6" color="#0050d8">Sign Up for the Newsletter</a> (https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6)
-- Toolkit and resources on running challenges: <a href="https://www.challenge.gov/toolkit" color="#0050d8">View Toolkit</a> (https://www.challenge.gov/toolkit)
-- Playlist of challenges and prizes webinars: <a href="https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC" target="_blank" color="#0050d8">View Playlist</a> (https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC)
+- <a href="https://www.challenge.gov" color="#0050d8">Search</a> the official listing of federal prizes and challenges
+- <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6" color="#0050d8">Sign Up</a> for the Challenge.gov e-Newsletter
+- <a href="https://www.challenge.gov/toolkit" color="#0050d8">Read</a> our toolkit and resources on running challenges
+- <a href="https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC" target="_blank" color="#0050d8">View Playlist</a> of challenges and prizes webinars 
 - Follow us on social media: <a href="https://www.facebook.com/challengegov" color="#0050d8">Facebook</a>, <a href="https://www.twitter.com/challengegov" color="#0050d8">Twitter</a>, <a href="https://www.linkedin.com/company/challengegov/" color="#0050d8">LinkedIn</a>
 
 
