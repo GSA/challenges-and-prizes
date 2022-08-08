@@ -1,9 +1,9 @@
-.a {
+a {
     color: #0050d8 !important;
     text-decorations: underline !important;
 }
 
-.:visited {
+a:visited {
     color: #54278f !important;
     text-decorations: underline !important;
 }
