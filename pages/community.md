@@ -33,12 +33,12 @@ Members of the Challenge and Prize CoP gather regularly to share ideas, review b
 **Related Resources**
 
 - Official listing of federal prizes and challenges: <a href="https://www.challenge.gov">https://www.challenge.gov</a>
-- Challenge.gov e-Newsletter: <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6">https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6</a>
-- Toolkit and resources on running challenges: <a href="https://www.challenge.gov/toolkit">https://www.challenge.gov/toolkit</a>
-- Playlist of challenges and prizes webinars: <a href="https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC">https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC</a>
-- Facebook: <a href="https://www.facebook.com/challengegov">https://www.facebook.com/challengegov</a>
-- Twitter: <a href="https://www.twitter.com/challengegov">https://www.twitter.com/challengegov</a>
-- LinkedIn: <a href="https://www.linkedin.com/company/challengegov/">https://www.linkedin.com/company/challengegov/</a>
+- Challenge.gov e-Newsletter: <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6">Sign Up for the Newsletter</a> (https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6)
+- Toolkit and resources on running challenges: <a href="https://www.challenge.gov/toolkit">View Toolkit</a> (https://www.challenge.gov/toolkit)
+- Playlist of challenges and prizes webinars: <a href="https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC">View Playlist</a> (https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC)
+- Facebook: <a href="https://www.facebook.com/challengegov">Visit Challenge.Gov on Facebook</a> (https://www.facebook.com/challengegov)
+- Twitter: <a href="https://www.twitter.com/challengegov">Visit Challenge.Gov on Twitter</a> (https://www.twitter.com/challengegov)
+- LinkedIn: <a href="https://www.linkedin.com/company/challengegov/">Visit Challenge.Gov on LinkedIn</a> (https://www.linkedin.com/company/challengegov/)
 
 
 **Community Conduct**
