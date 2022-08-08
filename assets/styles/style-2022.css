@@ -1,11 +1,11 @@
-.allylink {
-    color: #0050d8;
-    text-decorations: underline;
+.a {
+    color: #0050d8 !important;
+    text-decorations: underline !important;
 }
 
-.allylink:visited {
-    color: #54278f;
-    text-decorations: underline;
+.:visited {
+    color: #54278f !important;
+    text-decorations: underline !important;
 }
 
 .top {
