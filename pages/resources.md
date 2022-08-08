@@ -60,7 +60,7 @@ title: Resources
         <a href="{{ site.baseurl }}/#active-challenges" rel="noopener"><i class="fas fa-trophy" style="color: #FA9441; padding-bottom: 20px; font-size: 3em;" title="Read our FAQs"></i></a>
         <h4 class="card-title text-center">Question about a challenge?</h4>
         <p class="card-text text-center">Get in touch with the <em>Challenge Point of Contact</em> from the contact tab on the challenge details page.</p>
-        <a href="{{ site.baseurl }}/#active-challenges" class="usa-button usa-button">Search challenges</a>
+        <a href="{{ site.baseurl }}/#active-challenges" class="usa-button usa-button">Find Point of Contact</a>
       </div>
     </div>
   </div>
