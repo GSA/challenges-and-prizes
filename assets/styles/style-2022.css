@@ -1,11 +1,5 @@
-a {
-    color: #0050d8 !important;
-    text-decorations: underline !important;
-}
-
-a:visited {
-    color: #54278f !important;
-    text-decorations: underline !important;
+:root {
+    --blue: #0050d8 !important;
 }
 
 .top {
