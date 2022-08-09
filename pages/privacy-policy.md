@@ -6,7 +6,7 @@ title: Privacy Policy
 
 # Privacy
 
-Challenge.gov does not collect personal information when you visit our website unless you choose to provide that information. Outlined below is the Challenge.gov online privacy policy. If you have questions about this policy, contact the Challenge.gov team at [team@challenge.gov](mailto:team@challenge.gov).
+Challenge.gov does not collect personal information when you visit our website unless you choose to provide that information. Outlined below is the Challenge.gov online privacy policy. If you have questions about this policy, contact the Challenge.gov team at [team@challenge.gov](mailto:team@challenge.gov class="link").
 
 ### Information Collected and Stored Automatically
 When you visit Challenge.gov, we may store some or all of the following: the Internet protocol (IP) address from which you access the site, date and time, the Internet address of the website from which you linked to Challenge.gov, the name of the file or words you searched, items clicked on a page, and the browser and operating system used.
@@ -23,7 +23,7 @@ There are two kinds of cookies:
 Distinguish unique users (last for up to 2 years if you never clear your cookies)
 Throttle the request rate (last for up to 1 minute)
 
-If you do not wish to accept cookies, you can edit your browser's options to stop accepting persistent cookies or to prompt you before accepting a cookie from the websites you visit. See additional information [on disabling cookies and/or Google demographic and interests reports](https://www.usa.gov/optout-instructions){:target="_blank" rel="noopener"}.
+If you do not wish to accept cookies, you can edit your browser's options to stop accepting persistent cookies or to prompt you before accepting a cookie from the websites you visit. See additional information [on disabling cookies and/or Google demographic and interests reports](https://www.usa.gov/optout-instructions){:target="_blank" rel="noopener" class="link"}.
 
 Note: Although using persistent cookies allows us to deliver a better experience for you, this site will also work without them.
 
@@ -31,7 +31,7 @@ Note: Although using persistent cookies allows us to deliver a better experience
 
 Users are NOT required to provide any information to search, retrieve, download, filter and otherwise use the data available on Challenge.gov. If you choose to provide us with personal information—like sending an email to Challenge.gov to ask questions—we use that information to respond to your message, and to help get you the information you requested. We only share the information you give us with another government agency to assist in answering your questions and to better understand user needs for Challenge.gov, or as otherwise required by law. Any email address provided in connection with your question or suggestion will not be publicly viewable on the website. Challenge.gov never collects information or creates individual profiles for commercial marketing.
 
-In contacting Challenge.gov with your questions and comments, you should NOT include additional personal information, especially [Social Security numbers](https://www.ssa.gov/pubs/EN-05-10002.pdf){:target="_blank" rel="noopener"}. Challenge.gov is NOT a Privacy Act System of Record. 
+In contacting Challenge.gov with your questions and comments, you should NOT include additional personal information, especially [Social Security numbers](https://www.ssa.gov/pubs/EN-05-10002.pdf){:target="_blank" rel="noopener" class="link"}. Challenge.gov is NOT a Privacy Act System of Record. 
 
 
 ### Security
@@ -40,11 +40,11 @@ For site security purposes and to ensure that this service remains available to 
 
 Unauthorized attempts to upload information or change information on GSA servers are strictly prohibited and may be punishable by law, including the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
 
-While Challenge.gov uses social media including Facebook, Twitter, and YouTube, no personally identifiable information (PII) is sought or provided to GSA as a result of our use of these platforms. 
+While Challenge.Gov uses social media including Facebook, Twitter, and YouTube, no personally identifiable information (PII) is sought or provided to GSA as a result of our use of these platforms. 
 
-The pages on Challenge.gov may include hypertext links or pointers to information created and maintained by other public and private organizations. Check the [linking policy](https://www.gsa.gov/website-information/linking-policy){:target="_blank" rel="noopener"} for more information.
+The pages on Challenge.gov may include hypertext links or pointers to information created and maintained by other public and private organizations. Check the [linking policy](https://www.gsa.gov/website-information/linking-policy){:target="_blank" rel="noopener" class="link"} for more information.
 
 For more information on privacy and security:
 
-* See [GSA's Privacy and Security Policy](https://www.gsa.gov/reference/gsa-privacy-program){:target="_blank" rel="noopener"}. 
-* [Contact us](mailto:team@challenge.gov){:target="_blank" rel="noopener"} with questions.
+* See [GSA's Privacy and Security Policy](https://www.gsa.gov/reference/gsa-privacy-program){:target="_blank" rel="noopener" class="link"}. 
+* [Contact us](mailto:team@challenge.gov){:target="_blank" rel="noopener" class="link"} with questions.
