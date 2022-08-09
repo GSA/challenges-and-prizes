@@ -6,7 +6,7 @@ title: Privacy Policy
 
 # Privacy
 
-Challenge.gov does not collect personal information when you visit our website unless you choose to provide that information. Outlined below is the Challenge.gov online privacy policy. If you have questions about this policy, contact the Challenge.gov team at [team@challenge.gov](mailto:team@challenge.gov class="link").
+Challenge.gov does not collect personal information when you visit our website unless you choose to provide that information. Outlined below is the Challenge.gov online privacy policy. If you have questions about this policy, contact the Challenge.gov team at [team@challenge.gov class="link"](mailto:team@challenge.gov).
 
 ### Information Collected and Stored Automatically
 When you visit Challenge.gov, we may store some or all of the following: the Internet protocol (IP) address from which you access the site, date and time, the Internet address of the website from which you linked to Challenge.gov, the name of the file or words you searched, items clicked on a page, and the browser and operating system used.
