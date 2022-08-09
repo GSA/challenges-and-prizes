@@ -4,9 +4,15 @@ a.link {
 }
 
 a.link:visited {
-    color: ##54278f;
+    color: #54278f;
     text-decoration: underline;
 }
+
+a.link:hover {
+    color: #1a4480;
+    text-decoration: underline;
+}
+
 
 .top {
     --offset: 200px;
