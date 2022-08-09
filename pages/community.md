@@ -12,10 +12,10 @@ If you answered yes to any of these questions, the Challenge and Prize Community
 
 > **Join the Community:** Anyone with a .gov or .mil email address is eligible to join.
 >
-> - To join, <a href="mailto: challenges-subscribe-request@listserv.gsa.gov" target="_blank" color="#0050d8">email a request to</a> at challenges-subscribe-request@listserv.gsa.gov with nothing in the subject.
-> - Community Manager: <a href="https://digital.gov/authors/jarah-meador/" target="_blank" color="#0050d8">Jarah Meador, GSA</a>
-> - <a href="https://digital.gov/communities/manage-your-subscription" target="_blank" color="#0050d8">Click here</a> to manage your Listserv subscription
-> - <a href="https://digital.gov/communities/manage-your-subscription/#access-the-listserv-archive" target="_blank" color="#0050d8">Click here</a> to access the Listserv archive
+> - To join, <a href="mailto: challenges-subscribe-request@listserv.gsa.gov" target="_blank" class="link">email a request to</a> at challenges-subscribe-request@listserv.gsa.gov with nothing in the subject.
+> - Community Manager: <a href="https://digital.gov/authors/jarah-meador/" target="_blank" class="link">Jarah Meador, GSA</a>
+> - <a href="https://digital.gov/communities/manage-your-subscription" target="_blank" class="link">Click here</a> to manage your Listserv subscription
+> - <a href="https://digital.gov/communities/manage-your-subscription/#access-the-listserv-archive" target="_blank" class="link">Click here</a> to access the Listserv archive
                
 
 **Who We Are**
@@ -32,11 +32,11 @@ Members of the Challenge and Prize CoP gather regularly to share ideas, review b
 
 **Related Resources**
 
-> - <a href="https://www.challenge.gov" color="#0050d8">Search</a> the official listing of federal prizes and challenges
+> - <a href="https://www.challenge.gov" class="link">Search</a> the official listing of federal prizes and challenges
 > - <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6" color="#0050d8">Sign Up</a> for the Challenge.gov e-Newsletter
 > - <a href="https://www.challenge.gov/toolkit" color="#0050d8">Read</a> our toolkit and resources on running challenges
-> - <a href="https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC" target="_blank" color="#0050d8">View Playlist</a> of challenges and prizes webinars 
-> - Follow us on social media: <a href="https://www.twitter.com/challengegov" color="#0050d8">Twitter</a>, <a href="https://www.facebook.com/challengegov" color="#0050d8">Facebook</a>, <a href="https://www.linkedin.com/company/challengegov/" color="#0050d8">LinkedIn</a>
+> - <a href="https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC" target="_blank" class="link">View Playlist</a> of challenges and prizes webinars 
+> - Follow us on social media: <a href="https://www.twitter.com/challengegov" class="link">Twitter</a>, <a href="https://www.facebook.com/challengegov"  class="link">Facebook</a>, <a href="https://www.linkedin.com/company/challengegov/" class="link">LinkedIn</a>
 
 
 **Community Conduct**
