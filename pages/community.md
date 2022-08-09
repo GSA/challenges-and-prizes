@@ -14,8 +14,8 @@ If you answered yes to any of these questions, the Challenge and Prize Community
 >
 > - To join, <a href="mailto: challenges-subscribe-request@listserv.gsa.gov" target="_blank" class="link">email a request to</a> at challenges-subscribe-request@listserv.gsa.gov with nothing in the subject.
 > - Community Manager: <a href="https://digital.gov/authors/jarah-meador/" target="_blank" class="link">Jarah Meador, GSA</a>
-> - <a href="https://digital.gov/communities/manage-your-subscription" target="_blank" class="link">Click here</a> to manage your Listserv subscription
-> - <a href="https://digital.gov/communities/manage-your-subscription/#access-the-listserv-archive" target="_blank" class="link">Click here</a> to access the Listserv archive
+> - <a href="https://digital.gov/communities/manage-your-subscription" target="_blank" class="link">Manage your Listserv subscription</a>
+> - <a href="https://digital.gov/communities/manage-your-subscription/#access-the-listserv-archive" target="_blank" class="link">Access the Listserv archive</a>
                
 
 **Who We Are**
@@ -32,10 +32,10 @@ Members of the Challenge and Prize CoP gather regularly to share ideas, review b
 
 **Related Resources**
 
-> - <a href="https://www.challenge.gov" class="link">Search</a> the official listing of federal prizes and challenges
-> - <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6" class="link">Sign up</a> for the Challenge.gov e-Newsletter
-> - <a href="https://www.challenge.gov/toolkit" color="#0050d8">Read</a> our toolkit and resources on running challenges
-> - <a href="https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC" target="_blank" class="link">View playlist</a> of challenges and prizes webinars 
+> - <a href="https://www.challenge.gov" class="link">Official listing of federal prizes and challenges</a>
+> - <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6" class="link">Challenge.gov e-Newsletter</a>
+> - <a href="https://www.challenge.gov/toolkit" class="link">Toolkit and resources on running challenges</a>
+> - <a href="https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC" target="_blank" class="link">Playlist of challenges and prizes webinars</a> 
 > - Follow us on social media: <a href="https://www.twitter.com/challengegov" class="link">Twitter</a>, <a href="https://www.facebook.com/challengegov"  class="link">Facebook</a>, <a href="https://www.linkedin.com/company/challengegov/" class="link">LinkedIn</a>
 
 
