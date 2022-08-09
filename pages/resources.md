@@ -14,17 +14,17 @@ title: Resources
         <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener"><i class="dashboard-card-icon fa fa-question-circle" style="font-size: 3em; padding-bottom: 20px;" title="Read FAQs"></i></a>
         <h4 class="card-title text-center">FAQs</h4>
         <p class="card-text text-center">Our FAQs contain information on prize competitions, crowdsourcing, and use of the Challenge.Gov platform.</p>
-        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" class="usa-button usa-button">Read FAQs</a>
+        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener noreferrer" class="usa-button usa-button">Read FAQs</a><br>(link will open in a new browser tab or window)
       </div>
     </div>
   </div>
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body text-center">
-        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" rel="noopener"><i class="dashboard-card-icon fas fa-book-open" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Read our FAQs"></i></a>
+        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" rel="noopener noreferrer"><i class="dashboard-card-icon fas fa-book-open" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Read our FAQs"></i></a>
         <h4 class="card-title text-center">User Guide</h4>
         <p class="card-text text-center">Our user guide is full of useful information to help you get started.</p>
-        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" class="usa-button usa-button">Read user guide</a>
+        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" rel="noopener noreferrer" class="usa-button usa-button">Read user guide</a><br>(link will open in a new browser tab or window)
       </div>
     </div>
   </div>
@@ -44,7 +44,7 @@ title: Resources
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body text-center">
-        <a href="{{ site.baseurl }}/toolkit/case-studies/" rel="noopener"><i class="fa fa-solid fa-folder" style="color: #FA9441; padding-bottom: 20px; font-size: 3em;" title="Read our FAQs"></i></a>
+        <a href="{{ site.baseurl }}/toolkit/case-studies/"><i class="fa fa-solid fa-folder" style="color: #FA9441; padding-bottom: 20px; font-size: 3em;" title="Read our FAQs"></i></a>
         <h4 class="card-title text-center">Case Studies</h4>
         <p class="card-text text-center">Our Case Studies are full of useful information.</p>
         <a href="{{ site.baseurl }}/toolkit/case-studies/" class="usa-button usa-button">Read case studies</a>
@@ -67,10 +67,10 @@ title: Resources
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body text-center">
-        <a href="https://www.challenge.gov/toolkit/case-studies/" rel="noopener"><i class="fas fa-laptop" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Read our FAQs"></i></a>
+        <a href="https://www.challenge.gov/toolkit/case-studies/"><i class="fas fa-laptop" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Read our FAQs"></i></a>
         <h4 class="card-title text-center">Need Help?</h4>
-        <p class="card-text text-center">For technical issues with the platform please contact us at <a href="mailto: team@challenge.gov" style="color: #0050d8;">team@challenge.gov</a> for help with submissions.</p>
-        <a href="mailto: team@challenge.gov" target="_blank" class="usa-button usa-button">Email us</a>
+        <p class="card-text text-center">For technical issues with the platform please contact us at <a href="mailto: team@challenge.gov" class="link">team@challenge.gov</a> for help with submissions.</p>
+        <a href="mailto: team@challenge.gov" class="usa-button usa-button">Email us</a>
       </div>
     </div>
   </div>
