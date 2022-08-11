@@ -18,6 +18,11 @@ a:hover {
     text-decoration: none !important;
 }
 
+.menulink:hover {
+    color: #005ea2 !important;
+    text-decoration: none !important;
+}
+
 .top {
     --offset: 200px;
     position: sticky;
