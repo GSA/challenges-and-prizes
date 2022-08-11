@@ -9,7 +9,7 @@ a:hover {
 }
 
 .footerlink {
-    color: #ffffff;
+    color: #ffffff !important;
     text-decoration: none !important;
 }
 
