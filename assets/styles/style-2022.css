@@ -1,14 +1,9 @@
-a.link {
+a {
     color: #0050d8;
     text-decoration: underline;
 }
 
-a.link:visited {
-    color: #54278f;
-    text-decoration: underline;
-}
-
-a.link:hover {
+a:hover {
     color: #1a4480;
     text-decoration: underline;
 }
