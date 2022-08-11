@@ -1,11 +1,11 @@
 a {
-    color: #0050d8;
-    text-decoration: underline;
+    color: #0050d8 !important;
+    text-decoration: underline !important;
 }
 
 a:hover {
     color: #1a4480;
-    text-decoration: underline;
+    text-decoration: underline !important;
 }
 
 
