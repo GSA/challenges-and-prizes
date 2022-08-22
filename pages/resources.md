@@ -4,7 +4,7 @@ layout: page
 title: Resources
 ---
 
- <h1 class="text-center mb-4 font-weight-bold">Resources for Public Innovators</h1>
+ <h1 class="text-center mb-4 font-weight-bold" style="color: #FA9441;">Resources for Public Innovators</h1>
  <p class="text-center">Note: Some links will open in a new browser tab or window.</p><br>
 
 <div class="row">
