@@ -8,6 +8,16 @@ title: Resources
  
 
 <div class="row">
+ <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body text-center">
+        <a href="https://www.challenge.gov/toolkit/case-studies/"><i class="fas fa-laptop" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Read our FAQs"></i></a>
+        <h4 class="card-title text-center">Need Help?</h4>
+        <p class="card-text text-center">For technical issues with the platform please contact us at <a href="mailto: team@challenge.gov" class="link">team@challenge.gov</a> for help with submissions.</p>
+        <a href="mailto: team@challenge.gov" class="usa-button usa-button"><span style="color: #ffffff;">Email us</span></a>
+      </div>
+    </div>
+  </div>
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body text-center">
@@ -18,6 +28,10 @@ title: Resources
       </div>
     </div>
   </div>
+ 
+</div>
+
+<div class="row">
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body text-center">
@@ -28,10 +42,9 @@ title: Resources
       </div>
     </div>
   </div>
-</div>
-
-<div class="row">
-  <div class="col-sm-6">
+ 
+  </div>
+   <div class="col-sm-6">
     <div class="card">
       <div class="card-body text-center">
         <a href="{{ site.baseurl }}/blog/" rel="noopener"><i class="fab fa-readme" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Read our FAQs"></i></a>
@@ -40,7 +53,10 @@ title: Resources
         <a href="{{ site.baseurl }}/blog/" class="usa-button usa-button"><span style="color: #ffffff;">Read blog</span></a>
       </div>
     </div>
-  </div>
+ 
+</div>
+
+<div class="row">
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body text-center">
@@ -51,9 +67,6 @@ title: Resources
       </div>
     </div>
   </div>
-</div>
-
-<div class="row">
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body text-center">
@@ -61,16 +74,6 @@ title: Resources
         <h4 class="card-title text-center">Question about a challenge?</h4>
         <p class="card-text text-center">Get in touch with the <em>Challenge Point of Contact</em> from the contact tab on the challenge details page.</p>
         <a href="{{ site.baseurl }}/#active-challenges" class="usa-button usa-button"><span style="color: #ffffff;">Find Point of Contact</span></a>
-      </div>
-    </div>
-  </div>
-  <div class="col-sm-6">
-    <div class="card">
-      <div class="card-body text-center">
-        <a href="https://www.challenge.gov/toolkit/case-studies/"><i class="fas fa-laptop" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Read our FAQs"></i></a>
-        <h4 class="card-title text-center">Need Help?</h4>
-        <p class="card-text text-center">For technical issues with the platform please contact us at <a href="mailto: team@challenge.gov" class="link">team@challenge.gov</a> for help with submissions.</p>
-        <a href="mailto: team@challenge.gov" class="usa-button usa-button"><span style="color: #ffffff;">Email us</span></a>
       </div>
     </div>
   </div>
