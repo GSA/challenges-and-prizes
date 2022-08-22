@@ -5,7 +5,7 @@ title: Resources
 ---
 
  <h1 class="text-center mb-4 font-weight-bold">Resources for Public Innovators</h1>
- <h4 class="text-center">Note: Some links will open in a new browser tab or window.</h4><br>
+ <p class="text-center">Note: Some links will open in a new browser tab or window.</p><br>
 
 <div class="row">
  <div class="col-sm-6">
