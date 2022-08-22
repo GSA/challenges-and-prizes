@@ -5,7 +5,7 @@ title: Resources
 ---
 
  <h1 class="text-center mb-4 font-weight-bold">Resources for Public Innovators</h1>
- 
+ <h3>Note: Some links will open in a new browser tab or window.</h3>
 
 <div class="row">
  <div class="col-sm-6">
@@ -24,7 +24,7 @@ title: Resources
         <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener"><i class="dashboard-card-icon fa fa-question-circle" style="font-size: 3em; padding-bottom: 20px;" title="Read FAQs"></i></a>
         <h4 class="card-title text-center">FAQs</h4>
         <p class="card-text text-center">Our FAQs contain information on prize competitions, crowdsourcing, and use of the Challenge.Gov platform.</p>
-        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener noreferrer" class="usa-button usa-button"><span style="color: #ffffff;">Read FAQs</span></a><br>(link will open in a new browser tab or window)
+        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener noreferrer" class="usa-button usa-button"><span style="color: #ffffff;">Read FAQs</span></a>
       </div>
     </div>
   </div>
@@ -38,7 +38,7 @@ title: Resources
         <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" rel="noopener noreferrer"><i class="dashboard-card-icon fas fa-book-open" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Read our FAQs"></i></a>
         <h4 class="card-title text-center">User guide</h4>
         <p class="card-text text-center">Our user guide is full of useful information to help you get started.</p>
-        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" rel="noopener noreferrer" class="usa-button usa-button"><span style="color: #ffffff;">Read user guide</span></a><br>(link will open in a new browser tab or window)
+        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" rel="noopener noreferrer" class="usa-button usa-button"><span style="color: #ffffff;">Read user guide</span></a>
       </div>
     </div>
   </div>
@@ -70,10 +70,10 @@ title: Resources
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body text-center">
-        <a href="{{ site.baseurl }}/#active-challenges" rel="noopener"><i class="fas fa-trophy" style="color: #FA9441; padding-bottom: 20px; font-size: 3em;" title="Subscribe to our newsletter"></i></a>
+        <a href="{{ site.baseurl }}/#active-challenges" rel="noopener"><i class="fas fa-envelope" style="color: #FA9441; padding-bottom: 20px; font-size: 3em;" title="Subscribe to newsletter"></i></a>
         <h4 class="card-title text-center">Stay Informed</h4>
         <p class="card-text text-center">Stay up to date on the latest Challenge.Gov news!</p>
-        <a href="{{ site.baseurl }}/#active-challenges" class="usa-button usa-button"><span style="color: #ffffff;">Subscribe</span></a>
+        <a href="https://public.govdelivery.com/accounts/USGSATTS/signup/30826" target="_blank" class="usa-button usa-button"><span style="color: #ffffff;">Subscribe to newletter</span></a>
       </div>
     </div>
   </div>
