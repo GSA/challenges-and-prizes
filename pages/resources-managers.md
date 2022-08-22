@@ -1,7 +1,7 @@
 ---
 permalink: /resources-managers/
 layout: page
-title: Resources for Federal Innovation Managers
+title: Resources for Federal Innovation Managers 
 ---
 
  <h1 class="text-center mb-4 font-weight-bold" style="color: #005ea2;">Resources for Federal Innovation Managers</h1>
