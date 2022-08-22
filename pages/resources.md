@@ -12,7 +12,7 @@ title: Resources
     <div class="card">
       <div class="card-body text-center">
         <a href="https://www.challenge.gov/toolkit/case-studies/"><i class="fas fa-laptop" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Read our FAQs"></i></a>
-        <h4 class="card-title text-center">Need Help?</h4>
+        <h4 class="card-title text-center">Need help?</h4>
         <p class="card-text text-center">For technical issues with the platform please contact us at <a href="mailto: team@challenge.gov" class="link">team@challenge.gov</a> for help with submissions.</p>
         <a href="mailto: team@challenge.gov" class="usa-button usa-button"><span style="color: #ffffff;">Email us</span></a>
       </div>
@@ -36,15 +36,13 @@ title: Resources
     <div class="card">
       <div class="card-body text-center">
         <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" rel="noopener noreferrer"><i class="dashboard-card-icon fas fa-book-open" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Read our FAQs"></i></a>
-        <h4 class="card-title text-center">User Guide</h4>
+        <h4 class="card-title text-center">User guide</h4>
         <p class="card-text text-center">Our user guide is full of useful information to help you get started.</p>
         <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" rel="noopener noreferrer" class="usa-button usa-button"><span style="color: #ffffff;">Read user guide</span></a><br>(link will open in a new browser tab or window)
       </div>
     </div>
   </div>
- 
-  </div>
-   <div class="col-sm-6">
+    <div class="col-sm-6">
     <div class="card">
       <div class="card-body text-center">
         <a href="{{ site.baseurl }}/blog/" rel="noopener"><i class="fab fa-readme" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Read our FAQs"></i></a>
@@ -53,6 +51,8 @@ title: Resources
         <a href="{{ site.baseurl }}/blog/" class="usa-button usa-button"><span style="color: #ffffff;">Read blog</span></a>
       </div>
     </div>
+  </div>
+
  
 </div>
 
@@ -70,10 +70,10 @@ title: Resources
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body text-center">
-        <a href="{{ site.baseurl }}/#active-challenges" rel="noopener"><i class="fas fa-trophy" style="color: #FA9441; padding-bottom: 20px; font-size: 3em;" title="Read our FAQs"></i></a>
-        <h4 class="card-title text-center">Question about a challenge?</h4>
-        <p class="card-text text-center">Get in touch with the <em>Challenge Point of Contact</em> from the contact tab on the challenge details page.</p>
-        <a href="{{ site.baseurl }}/#active-challenges" class="usa-button usa-button"><span style="color: #ffffff;">Find Point of Contact</span></a>
+        <a href="{{ site.baseurl }}/#active-challenges" rel="noopener"><i class="fas fa-trophy" style="color: #FA9441; padding-bottom: 20px; font-size: 3em;" title="Subscribe to our newsletter"></i></a>
+        <h4 class="card-title text-center">Stay Informed</h4>
+        <p class="card-text text-center">Stay up to date on the latest Challenge.Gov news!</p>
+        <a href="{{ site.baseurl }}/#active-challenges" class="usa-button usa-button"><span style="color: #ffffff;">Subscribe</span></a>
       </div>
     </div>
   </div>
