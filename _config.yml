@@ -18,7 +18,7 @@
 # Be sure to edit the values below
 ##########################################################################################
 
-title: Challenge.gov
+title: Challenge.Gov
 email:  team@challenge.gov
 feature_image: /assets/images/cards/challenge-gov.png
 description: >- # this means to ignore newlines until "baseurl:"
