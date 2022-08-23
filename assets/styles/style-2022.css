@@ -1,3 +1,7 @@
+.border-accent-cool-darker, .hover\:border-accent-cool-darker:hover {
+    border-color: #ec9852 !important;
+}
+
 .fa-external-link-alt:before {
     content: "\f35d";
 }
