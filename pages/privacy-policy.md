@@ -6,12 +6,12 @@ title: Privacy Policy
 
 # Privacy
 
-Challenge.gov does not collect personal information when you visit our website unless you choose to provide that information. Outlined below is the Challenge.gov online privacy policy. If you have questions about this policy, contact the Challenge.gov team at [team@challenge.gov](mailto:team@challenge.gov).
+Challenge.Gov does not collect personal information when you visit our website unless you choose to provide that information. Outlined below is the Challenge.Gov online privacy policy. If you have questions about this policy, contact the Challenge.Gov team at [team@challenge.gov](mailto:team@challenge.gov).
 
 ### Information Collected and Stored Automatically
-When you visit Challenge.gov, we may store some or all of the following: the Internet protocol (IP) address from which you access the site, date and time, the Internet address of the website from which you linked to Challenge.Gov, the name of the file or words you searched, items clicked on a page, and the browser and operating system used.
+When you visit Challenge.Gov, we may store some or all of the following: the Internet protocol (IP) address from which you access the site, date and time, the Internet address of the website from which you linked to Challenge.Gov, the name of the file or words you searched, items clicked on a page, and the browser and operating system used.
 
-This information is used to measure the number of visitors to the various sections of our site and to identify system performance or problem areas. We also use this information to help us develop the site, analyze patterns of usage, and to make the site more useful. This information is not used for associating search terms or patterns of site navigation with individual users. Challenge.gov periodically deletes its web logs. On occasion, Challenge.Gov may provide this information to third party entities it contracts with for the purposes of research analysis that will not be associated with individual users.
+This information is used to measure the number of visitors to the various sections of our site and to identify system performance or problem areas. We also use this information to help us develop the site, analyze patterns of usage, and to make the site more useful. This information is not used for associating search terms or patterns of site navigation with individual users. Challenge.Gov periodically deletes its web logs. On occasion, Challenge.Gov may provide this information to third party entities it contracts with for the purposes of research analysis that will not be associated with individual users.
 
 ### Use of Cookies
 
@@ -29,9 +29,9 @@ Note: Although using persistent cookies allows us to deliver a better experience
 
 ### Personal Information
 
-Users are NOT required to provide any information to search, retrieve, download, filter and otherwise use the data available on Challenge.gov. If you choose to provide us with personal information—like sending an email to Challenge.gov to ask questions—we use that information to respond to your message, and to help get you the information you requested. We only share the information you give us with another government agency to assist in answering your questions and to better understand user needs for Challenge.gov, or as otherwise required by law. Any email address provided in connection with your question or suggestion will not be publicly viewable on the website. Challenge.gov never collects information or creates individual profiles for commercial marketing.
+Users are NOT required to provide any information to search, retrieve, download, filter and otherwise use the data available on Challenge.Gov. If you choose to provide us with personal information—like sending an email to Challenge.Gov to ask questions—we use that information to respond to your message, and to help get you the information you requested. We only share the information you give us with another government agency to assist in answering your questions and to better understand user needs for Challenge.Gov, or as otherwise required by law. Any email address provided in connection with your question or suggestion will not be publicly viewable on the website. Challenge.Gov never collects information or creates individual profiles for commercial marketing.
 
-In contacting Challenge.gov with your questions and comments, you should NOT include additional personal information, especially [Social Security numbers](https://www.ssa.gov/pubs/EN-05-10002.pdf){:target="_blank" rel="noopener noreferrer"}. Challenge.gov is NOT a Privacy Act System of Record. 
+In contacting Challenge.Gov with your questions and comments, you should NOT include additional personal information, especially [Social Security numbers](https://www.ssa.gov/pubs/EN-05-10002.pdf){:target="_blank" rel="noopener noreferrer"}. Challenge.Gov is NOT a Privacy Act System of Record. 
 
 
 ### Security
@@ -42,7 +42,7 @@ Unauthorized attempts to upload information or change information on GSA servers
 
 While Challenge.Gov uses social media including Facebook, Twitter, and YouTube, no personally identifiable information (PII) is sought or provided to GSA as a result of our use of these platforms. 
 
-The pages on Challenge.gov may include hypertext links or pointers to information created and maintained by other public and private organizations. Check the [linking policy](https://www.gsa.gov/website-information/linking-policy){:target="_blank" rel="noopener noreferrer"} for more information.
+The pages on Challenge.Gov may include hypertext links or pointers to information created and maintained by other public and private organizations. Check the [linking policy](https://www.gsa.gov/website-information/linking-policy){:target="_blank" rel="noopener noreferrer"} for more information.
 
 For more information on privacy and security:
 
