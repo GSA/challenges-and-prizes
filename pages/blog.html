@@ -32,7 +32,7 @@ pagination:
           {% if post.image %} 
           <img src="{{ site.baseurl }}{{ post.image }}" 
           class="float-left maxw-mobile padding-right-3 padding-top-1" 
-          alt="{{ post.image_alt_text }}">
+          alt="{{ post.image_alt_text }}" style="padding-top: 0.5rem;">
           {% endif %} 
           {{ post.excerpt }} 
           {% comment %} We default to using post.content, but
