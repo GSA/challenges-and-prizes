@@ -31,8 +31,8 @@ pagination:
         <div>
           {% if post.image %} 
           <img src="{{ site.baseurl }}{{ post.image }}" 
-          class="float-left maxw-mobile padding-right-3 padding-top-1" 
-          alt="{{ post.image_alt_text }}" style="padding-top: 0.5rem;">
+          class="float-left maxw-mobile padding-right-3 padding-top-blog" 
+          alt="{{ post.image_alt_text }}">
           {% endif %} 
           {{ post.excerpt }} 
           {% comment %} We default to using post.content, but
@@ -53,9 +53,7 @@ pagination:
           <a href="{{ paginator.next_page_path | prepend: site.baseurl }}"
             class="paginate-link usa-link text-no-underline text-bold tablet:margin-top-0"
             >Next {{ paginator.per_page }} Posts &rsaquo;</a>
-    <!--      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}"
-            class="paginate-button usa-button margin-top-3">
-            Next {{ paginator.per_page }} Posts &rsaquo;</a> -->
+   
           {% endif %}
         </div>
         <div class="tablet:grid-col-4 text-left tablet:order-1">
@@ -63,9 +61,7 @@ pagination:
           <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}"
             class="paginate-link usa-link text-no-underline text-bold tablet:margin-top-0">
             &lsaquo; Previous {{ paginator.per_page }} Posts</a>
-       <!--   <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}"
-            class="paginate-button usa-button margin-top-2">
-            &lsaquo; Previous {{ paginator.per_page }} Posts</a> -->
+      
           {% endif %}
         </div>
       </div>
