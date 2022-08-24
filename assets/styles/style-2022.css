@@ -5,6 +5,12 @@
     padding-top: 4em;
 }
 
+.blogauthor {
+    color: #ec9852;
+    text-decoration: none;
+    padding-top: 1em;
+}
+
 .border-accent-cool-darker, .hover\:border-accent-cool-darker:hover {
     border-color: #ec9852 !important;
 }
