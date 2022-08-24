@@ -1,7 +1,8 @@
 
 .bloglink {
-    color: #f3f4fe !important;
-    text-decoration: none !important;
+    color: #ec9852;
+    text-decoration: none;
+    padding-top: 4em;
 }
 
 .border-accent-cool-darker, .hover\:border-accent-cool-darker:hover {
