@@ -22,7 +22,7 @@ title: Resources
         <i class="dashboard-card-icon fa fa-question-circle" style="font-size: 3em; padding-bottom: 20px;" title="Read FAQs"></i>
         <h4 class="card-title text-center">FAQs</h4>
         <p class="card-text text-center">Our FAQs contain information on prize competitions, crowdsourcing, and use of the Challenge.Gov platform.</p>
-        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener noreferrer" class="usa-button usa-button"><span style="color: #ffffff;">Read FAQs</span><i class="fas fa-external-link-alt" aria-hidden="true"></i><span class="screen-reader-text"> opens a new window</span></a>
+        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" class="usa-button usa-button"><span style="color: #ffffff;">Read FAQs</span><i class="fas fa-external-link-alt" aria-hidden="true"></i><span class="screen-reader-text"> opens a new window</span></a>
       </div>
     </div>
   </div>
@@ -36,7 +36,7 @@ title: Resources
         <i class="dashboard-card-icon fas fa-book-open" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="User Guide"></i>
         <h4 class="card-title text-center">User Guide</h4>
         <p class="card-text text-center">Access useful information to help you get started.</p>
-        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" rel="noopener noreferrer" class="usa-button usa-button"><span style="color: #ffffff;">Read user guide</span></a>
+        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" class="usa-button usa-button"><span style="color: #ffffff;">Read user guide</span></a>
       </div>
     </div>
   </div>
@@ -71,7 +71,7 @@ title: Resources
         <i class="fas fa-envelope" style="color: #FA9441; padding-bottom: 20px; font-size: 3em;" title="Subscribe to newsletter"></i>
         <h4 class="card-title text-center">Stay Informed</h4>
         <p class="card-text text-center">Stay up to date on the latest Challenge.Gov news!</p>
-        <a href="https://public.govdelivery.com/accounts/USGSATTS/signup/30826" target="_blank" class="usa-button usa-button"><span style="color: #ffffff;">Subscribe to newletter</span></a>
+        <a href="https://public.govdelivery.com/accounts/USGSATTS/signup/30826"><span style="color: #ffffff;">Subscribe to newletter</span></a>
       </div>
     </div>
   </div>
