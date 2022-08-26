@@ -17,12 +17,12 @@ pagination:
       {% for post in paginator.posts %}
       <div
         class="padding-bottom-5 margin-top-4 usa-prose">
-        <h3 class="text-primary-dark">
+        <h2 class="text-primary-dark">
           <a class="bloglink text-no-underline"
             href="{{ site.baseurl }}{{ post.url }}">
             {{post.title}}
           </a>
-        </h3>
+        </h2>
         <div class="text-base margin-bottom-2">
           <div class="margin-top-neg-105">
            <span class="blogauthor">By {{ post.author }}· {{ post.date | date: '%B %d, %Y' }}</span> 
@@ -69,7 +69,4 @@ pagination:
     <!-- Sidebar -->
     {% include blog-sidenav.html %}
   </div>
-<!--  <div class="grid-row padding-top-4 tablet:padding-x-4 margin-bottom-4">
-    <a class="usa-link" href="#blog">Return to top</a>
-  </div> -->
 </div>
