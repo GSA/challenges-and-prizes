@@ -8,11 +8,11 @@ title: Terms
 
 The following terms govern the use of Challenge.Gov. They include any applicable laws, regulations or policies incorporated by reference. Challenge.Gov reserves the right to modify these terms at any time, and changes are effective immediately upon posting. By using this website, users agree to all of the terms specified herein. Failure to fully comply with the terms of use or any related laws, rules and regulations may result in denial of use or access to Challenge.Gov.
 
-### Purpose
+## Purpose
 
 Challenge.Gov is a federal program maintained by the U.S. General Services Administration (GSA). As mandated by the American Innovation and Competitiveness Act of 2017, this is intended for use by federal agencies to announce and broadly promote prize competitions in which the public can participate. 
 
-### General Conditions for Use
+## General Conditions for Use
 
 The use of Challenge.Gov is subject to the federal government and [GSA's web use guidelines](https://www.gsa.gov/using-the-gsagov-website). Users should treat this site as they would any government-owned and -operated website.
 
@@ -22,7 +22,7 @@ GSA neither guarantees nor warrants that information posted on Challenge.Gov by 
 
 Challenge.Gov may contain links to websites created and maintained by other public and/or private organizations. The site provides these links as a service to our users. When users click a link to an outside website, they are leaving the Challenge.Gov site and are subject to the privacy and security policies of the owners/sponsors of the outside website(s). You are encouraged to familiarize yourself with these policies. The Challenge.Gov linking policy is the same as the [USA.gov Linking Policy](https://www.usa.gov/linking-policy).
 
-### Agency Responsibilities
+## Agency Responsibilities
 
 Agency challenge administrators are responsible for obtaining proper agency approval for all challenge content, rules, funding, and the legal authority under which the competition will be administered.
 
@@ -30,15 +30,15 @@ Challenge managers must coordinate with the Challenge.Gov team (<a href="mailto:
 
 Remember that official online activities are subject to the ethics regulations of each agency as well as other federal and agency laws, policies, and regulations.
 
-### Terms of Use Violation
+## Terms of Use Violation
 
 If an agency or representative violates the terms of use, Challenge.Gov access and/or use privileges may be revoked or suspended. Any hosted competitions may be shut down or removed.
 
-### Applicable Law
+## Applicable Law
 
 The use of the website and any of the applications or programs offered through Challenge.Gov and the interpretation of these terms of use shall be governed by and enforced in accordance with applicable federal law.
 
-### Accessibility
+## Accessibility
 
 The commitment to accessibility for all is reflected on this site in our efforts to ensure all functionality and all content are accessible to all Challenge.Gov users.
 
