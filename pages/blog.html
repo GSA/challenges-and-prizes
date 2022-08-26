@@ -27,7 +27,7 @@ pagination:
            <p>By {{ post.author }}· {{ post.date | date: '%B %d, %Y' }}</p> 
           </div>
         </div>
-        <div>
+        <div style="min-height: 150px;">
           {% if post.image %} 
           <img src="{{ site.baseurl }}{{ post.image }}" 
           class="float-left maxw-mobile padding-right-3 padding-top-blog" 
