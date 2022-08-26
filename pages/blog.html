@@ -15,8 +15,7 @@ pagination:
     <div class="desktop:grid-col-8 usa-prose padding-right-4">
       <!-- This loops through the paginated posts -->
       {% for post in paginator.posts %}
-      <div
-        class="padding-bottom-5 margin-top-4 usa-prose">
+      <div class="padding-bottom-5 margin-top-4 usa-prose">
         <h2 class="text-primary-dark">
           <a class="bloglink text-no-underline"
             href="{{ site.baseurl }}{{ post.url }}">
@@ -39,8 +38,8 @@ pagination:
           you can also use post.excerpt. If you use excerpt then you have to
           make sure the content is on each post header {% endcomment %}
         </div>
-<hr>
-      </div>
+
+      </div><hr>
       {% endfor %}
       <!-- Pagination links -->
       <div class="grid-row padding-top-2">
