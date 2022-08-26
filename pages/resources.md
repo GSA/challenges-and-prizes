@@ -9,7 +9,7 @@ title: Resources
  <div class="col-sm-6">
     <div class="card">
       <div class="card-body text-center">
-        <a href="https://www.challenge.gov/toolkit/case-studies/"><i class="fas fa-laptop" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Read our FAQs"></i></a>
+        <i class="fas fa-laptop" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Technical help"></i>
         <h4 class="card-title text-center">Need Help?</h4>
         <p class="card-text text-center">For technical issues with the platform please contact us at <a href="mailto: team@challenge.gov" class="link">team@challenge.gov</a> for help.</p>
         <a href="mailto: team@challenge.gov" class="usa-button usa-button"><span style="color: #ffffff;">Email us</span></a>
@@ -22,7 +22,7 @@ title: Resources
         <i class="dashboard-card-icon fa fa-question-circle" style="font-size: 3em; padding-bottom: 20px;" title="Read FAQs"></i>
         <h4 class="card-title text-center">FAQs</h4>
         <p class="card-text text-center">Our FAQs contain information on prize competitions, crowdsourcing, and use of the Challenge.Gov platform.</p>
-        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" class="usa-button usa-button"><span style="color: #ffffff;">Read FAQs</span><i class="fas fa-external-link-alt" aria-hidden="true"></i><span class="screen-reader-text"> opens a new window</span></a>
+        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" class="usa-button usa-button"><span style="color: #ffffff;">Read FAQs</span><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
       </div>
     </div>
   </div>
@@ -71,7 +71,7 @@ title: Resources
         <i class="fas fa-envelope" style="color: #FA9441; padding-bottom: 20px; font-size: 3em;" title="Subscribe to newsletter"></i>
         <h4 class="card-title text-center">Stay Informed</h4>
         <p class="card-text text-center">Stay up to date on the latest Challenge.Gov news!</p>
-        <a href="https://public.govdelivery.com/accounts/USGSATTS/signup/30826"><span style="color: #ffffff;">Subscribe to newletter</span></a>
+        <a href="https://public.govdelivery.com/accounts/USGSATTS/signup/30826" class="usa-button usa-button"><span style="color: #ffffff;">Subscribe to newletter</span></a>
       </div>
     </div>
   </div>
