@@ -4,7 +4,7 @@ layout: page
 title: Resources
 ---
 
- <h1 class="text-center mb-4 font-weight-bold" style="color: #D96302;">Resources for Public Innovators</h1>
+ <h1 class="text-center mb-4 font-weight-bold" style="color: #E86A02;">Resources for Public Innovators</h1>
 <div class="row">
  <div class="col-sm-6">
     <div class="card">
