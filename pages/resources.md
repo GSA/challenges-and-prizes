@@ -10,7 +10,7 @@ title: Resources
     <div class="card">
       <div class="card-body text-center">
         <i class="fas fa-laptop" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Technical help"></i>
-        <h4 class="card-title text-center">Need Help?</h4>
+        <h2 class="card-title text-center">Need Help?</h2>
         <p class="card-text text-center">For technical issues with the platform please contact us at <a href="mailto: team@challenge.gov" class="link">team@challenge.gov</a> for help.</p>
         <a href="mailto: team@challenge.gov" class="usa-button usa-button"><span style="color: #ffffff;">Email us</span></a>
       </div>
