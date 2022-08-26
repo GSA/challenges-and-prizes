@@ -1,6 +1,6 @@
 .bloglink {
     color: #1a4480;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 .blogauthor {
@@ -60,6 +60,7 @@
 
 a {
     color: #0050d8 !important;
+    text-decoration: underline !important;
 }
 
 a:hover {
@@ -69,7 +70,7 @@ a:hover {
 
 .footerlink {
     color: #ffffff !important;
-    text-decoration: none !important;
+    text-decoration: underline !important;
 }
 
 .menulink {
