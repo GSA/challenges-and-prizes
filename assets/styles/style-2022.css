@@ -1,3 +1,7 @@
+.challenge-tile__text-wrapper {
+        text-decoration: none !important;
+}
+
 .usa-footer a {
     color: #fff;
     margin-bottom: 1rem;
