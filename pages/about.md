@@ -33,7 +33,7 @@ If you have general questions regarding Challenge.Gov, contact us at <a href="ma
 
 **Use Prize Competitions to Advance Your Agency Mission**
 
-If you’re a federal employee interested in prize competitions, visit the a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Federal_Agency_Toolkit_13Oct2021.pdf">Challenge and Prize Toolkit</a> for considerations and best practices in designing and executing a successful competition.
+If you’re a federal employee interested in prize competitions, visit the a href="/assets/document-library/ChallengeGov_Federal_Agency_Toolkit_13Oct2021.pdf">Challenge and Prize Toolkit</a> for considerations and best practices in designing and executing a successful competition.
 
 We also encourage you to join the <a href="{{ site.baseurl }}/community">Challenge & Prize Community of Practice</a> (CoP). Joining the CoP will enable you to stay up-to-date on resources to help with your work, and make it easy for you to connect with other prize practitioners across the federal government.
 
