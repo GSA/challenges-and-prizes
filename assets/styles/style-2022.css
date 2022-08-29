@@ -1,3 +1,18 @@
+.usa-button--big {
+    border-radius: 0.25rem;
+    font-size: 1.46rem;
+    padding: 1rem 1.5rem;
+    text-decoration: none !important;
+}
+
+.usa-button--big:hover {
+    border-radius: 0.25rem;
+    font-size: 1.46rem;
+    padding: 1rem 1.5rem;
+    text-decoration: none !important;
+    color: #ffffff;
+}
+
 .bloglink {
     color: #1a4480;
     text-decoration: underline;
