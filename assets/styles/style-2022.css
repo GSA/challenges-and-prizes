@@ -9,6 +9,14 @@
     margin-bottom: 1rem;
 }
 
+.usa-button {
+    text-decoration: none !important;
+}
+
+.usa-button--outline {
+    text-decoration: none !important;
+}
+
 .usa-button--big {
     border-radius: 0.25rem;
     font-size: 1.46rem;
