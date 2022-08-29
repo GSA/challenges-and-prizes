@@ -7,7 +7,7 @@ pagination:
 
 <div id="blog" class="bg-primary-darker usa-content font-serif-lg padding-y-6">
   <div class="grid-container">
-    <h1 class="text-normal text-white margin-0">News & updates on federally sponsored challenges</h1>
+    <h1 class="text-normal text-white margin-0" style="font-family: Source Sans Pro Web,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;">News & updates on federally sponsored challenges</h1>
   </div>
 </div>
 <div class="grid-container">
@@ -15,23 +15,22 @@ pagination:
     <div class="desktop:grid-col-8 usa-prose padding-right-4">
       <!-- This loops through the paginated posts -->
       {% for post in paginator.posts %}
-      <div
-        class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest">
-        <h3 class="text-primary-dark">
-          <a class="bloglink text-no-underline"
+      <div class="padding-bottom-5 margin-top-4 usa-prose">
+        <h2>
+          <a class="bloglink"
             href="{{ site.baseurl }}{{ post.url }}">
             {{post.title}}
           </a>
-        </h3>
+        </h2>
         <div class="text-base margin-bottom-2">
-          <div class="margin-top-neg-105">
-            By <span class="text-bold">{{ post.author }}</span> · {{ post.date | date: '%B %d, %Y' }}
+          <div>
+           <p style="color: #595959;">By {{ post.author }}· {{ post.date | date: '%B %d, %Y' }}</p> 
           </div>
         </div>
-        <div>
+        <div style="min-height: 150px;">
           {% if post.image %} 
           <img src="{{ site.baseurl }}{{ post.image }}" 
-          class="float-left maxw-mobile padding-right-3 padding-top-1" 
+          class="float-left maxw-mobile padding-right-3 padding-top-blog" 
           alt="{{ post.image_alt_text }}">
           {% endif %} 
           {{ post.excerpt }} 
@@ -39,23 +38,20 @@ pagination:
           you can also use post.excerpt. If you use excerpt then you have to
           make sure the content is on each post header {% endcomment %}
         </div>
-        <div>&nbsp;</div>
-      </div>
+
+      </div><hr>
       {% endfor %}
       <!-- Pagination links -->
       <div class="grid-row padding-top-2">
-        <div
-          class="tablet:grid-col-4 text-center tablet:order-2 font-body-xs text-base">
+        <div class="tablet:grid-col-4 text-center tablet:order-2 font-body-xs text-base" style="color: #595959;">
           Page {{ paginator.page }} of {{ paginator.total_pages }}
         </div>
         <div class="tablet:grid-col-4 text-right tablet:order-3">
           {% if paginator.next_page %}
           <a href="{{ paginator.next_page_path | prepend: site.baseurl }}"
-            class="paginate-link usa-link text-no-underline text-bold tablet:margin-top-0"
+            class="paginate-link usa-link text-no-underline text-bold tablet:margin-top-0" style="color: #595959;"
             >Next {{ paginator.per_page }} Posts &rsaquo;</a>
-          <a href="{{ paginator.next_page_path | prepend: site.baseurl }}"
-            class="paginate-button usa-button margin-top-3">
-            Next {{ paginator.per_page }} Posts &rsaquo;</a>
+   
           {% endif %}
         </div>
         <div class="tablet:grid-col-4 text-left tablet:order-1">
@@ -63,17 +59,12 @@ pagination:
           <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}"
             class="paginate-link usa-link text-no-underline text-bold tablet:margin-top-0">
             &lsaquo; Previous {{ paginator.per_page }} Posts</a>
-          <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}"
-            class="paginate-button usa-button margin-top-2">
-            &lsaquo; Previous {{ paginator.per_page }} Posts</a>
+      
           {% endif %}
         </div>
       </div>
     </div>
     <!-- Sidebar -->
     {% include blog-sidenav.html %}
-  </div>
-  <div class="grid-row padding-top-4 tablet:padding-x-4 margin-bottom-4">
-    <a class="usa-link" href="#blog">Return to top</a>
   </div>
 </div>
