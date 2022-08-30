@@ -1,7 +1,125 @@
-.video-css {
-  aspect-ratio: 16 / 9;
-  width: 560px; 
-  height: 315px;
+.challenge-tile.challenge-tile a {
+        text-decoration: none !important;
+}
+
+.usa-footer a {
+    color: #fff;
+    margin-bottom: 1rem;
+    text-decoration: none !important;
+}
+
+.usa-footer a:hover {
+    color: #fff;
+    margin-bottom: 1rem;
+    text-decoration: underline !important;
+}
+
+.usa-button {
+    text-decoration: none !important;
+}
+
+.usa-button--outline {
+    text-decoration: none !important;
+}
+
+.usa-button--big {
+    border-radius: 0.25rem;
+    font-size: 1.46rem;
+    padding: 1rem 1.5rem;
+    text-decoration: none !important;
+}
+
+.usa-button--big:hover {
+    border-radius: 0.25rem;
+    font-size: 1.46rem;
+    padding: 1rem 1.5rem;
+    text-decoration: none !important;
+    color: #ffffff;
+}
+
+.bloglink {
+    color: #1a4480;
+    text-decoration: underline;
+}
+
+.blogauthor {
+    color: #B35B14;
+    text-decoration: none;
+    padding-top: 1em;
+}
+
+.border-accent-cool-darker, .hover\:border-accent-cool-darker:hover {
+    border-color: #ec9852 !important;
+}
+
+.fa-external-link-alt:before {
+    content: "\f35d";
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+.screen-reader-shortcut, .screen-reader-text, .screen-reader-text span {
+    background-color: #f3f4fe !important;
+}
+.screen-reader-text {
+    position: absolute;
+    margin: -1px;
+    padding: 0;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    border: 0;
+    word-wrap: normal!important;
+}
+
+.screen-reader-text {
+    border: 0;
+    clip: rect(1px,1px,1px,1px);
+    -webkit-clip-path: inset(50%);
+    clip-path: inset(50%);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+    word-wrap: normal!important;
+}
+.screen-reader-shortcut, .screen-reader-text, .screen-reader-text span {
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    position: absolute !important;
+    width: 1px;
+    height: 1px;
+    border: 0;
+    word-wrap: normal !important;
+}
+
+a {
+    color: #0050d8 !important;
+    text-decoration: underline !important;
+}
+
+a:hover {
+    color: #1a4480;
+    text-decoration: none !important;
+}
+
+.footerlink {
+    color: #ffffff !important;
+    text-decoration: underline !important;
+}
+
+.menulink {
+    color: #565c65 !important;
+    text-decoration: none !important;
+}
+
+.menulink:hover {
+    color: #005ea2 !important;
+    text-decoration: none !important;
 }
 
 .top {
@@ -55,6 +173,7 @@ body {
   width: 55%;
   padding-bottom: 30px;
 }
+
 .video-left {
   width: 80%;
   text-align: center;
@@ -184,12 +303,6 @@ body {
     width: 80%;
     padding-bottom: 40px;
   }
-  
-  .video-css {
-  aspect-ratio: 16 / 9;
-  width: 100%; 
-}
-
   .challenges-bg {
     background-image: none;
     background-repeat: no-repeat;
