@@ -34,7 +34,7 @@ Members of the Challenge and Prize CoP gather regularly to share ideas, review b
 
 > - <a href="https://www.challenge.gov/#active-challenges">Official listing of federal prizes and challenges</a>
 > - <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6">Challenge.Gov e-Newsletter</a>
-> - <a href="https://challenge.gov/assets/document-library/ChallengeGov_Federal_Agency_Toolkit_13Oct2021.pdf">Toolkit and resources on running challenges</a>
+> - <a href="https://www.challenge.gov/assets/document-library/ChallengeGov_Federal_Agency_Toolkit_13Oct2021.pdf">Toolkit and resources on running challenges</a>
 > - <a href="https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC">Playlist of challenges and prizes webinars</a> 
 > - Follow us on social media: <a href="https://www.twitter.com/challengegov">Twitter</a>, <a href="https://www.facebook.com/challengegov">Facebook</a>, <a href="https://www.linkedin.com/company/challengegov/">LinkedIn</a>
 
