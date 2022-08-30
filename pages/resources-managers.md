@@ -60,8 +60,8 @@ title: Resources for Federal Innovation Managers
     <div class="card">
       <div class="card-body text-center">
         <i class="fa fa-solid fa-folder" style="color: #005ea2; padding-bottom: 20px; font-size: 3em;" title="Read our FAQs"></i>
-        <h4 class="card-title text-center">Tookkit</h4>
-        <p class="card-text text-center">Our Case Studies are full of useful information.</p>
+        <h4 class="card-title text-center">Toolkit</h4>
+        <p class="card-text text-center">Toolkit and resources on running challenges</p>
         <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Federal_Agency_FAQ.pdf" class="usa-button usa-button"><span style="color: #ffffff;">Read toolkit</span></a>
       </div>
     </div>
