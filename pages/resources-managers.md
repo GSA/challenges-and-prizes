@@ -44,10 +44,10 @@ title: Resources for Federal Innovation Managers
     <div class="col-sm-6">
     <div class="card">
       <div class="card-body text-center">
-        <a href="{{ site.baseurl }}/blog/" rel="noopener"><i class="fab fa-readme" style="color: #005ea2; font-size: 3em; padding-bottom: 20px;" title="Read our FAQs"></i></a>
-        <h4 class="card-title text-center">Blog</h4>
-        <p class="card-text text-center">Read great articles from our Blog!</p>
-        <a href="{{ site.baseurl }}/blog/" class="usa-button usa-button"><span style="color: #ffffff;">Read blog</span></a>
+        <a href="{{ site.baseurl }}/blog/" rel="noopener"><i class="class="fas fa-users"" style="color: #005ea2; font-size: 3em; padding-bottom: 20px;" title="Community"></i></a>
+        <h4 class="card-title text-center">Commmity</h4>
+        <p class="card-text text-center">Challenge & Prize Community</p>
+        <a href="{{ site.baseurl }}/community/" class="usa-button usa-button"><span style="color: #ffffff;">Join the community</span></a>
       </div>
     </div>
   </div>
