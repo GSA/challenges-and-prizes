@@ -37,7 +37,7 @@ title: Resources for Federal Challenge Managers
         <i class="dashboard-card-icon fas fa-book-open" style="color: #005ea2; font-size: 3em; padding-bottom: 20px;" title="Read our FAQs"></i>
         <h4 class="card-title text-center">User Guide</h4>
         <p class="card-text text-center">Useful information on using the platform.</p>
-        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" class="usa-button usa-button"><span style="color: #ffffff;">Read user guide</span></a>
+        <a href="{{ site.baseurl }}/assets/document-library/Challenge.Gov_Challenge_Manager_User_Guide_12Oct2021.pdf" class="usa-button usa-button"><span style="color: #ffffff;">Read user guide</span></a>
       </div>
     </div>
   </div>
@@ -46,7 +46,7 @@ title: Resources for Federal Challenge Managers
       <div class="card-body text-center">
         <i class="fas fa-users" style="color: #005ea2; font-size: 3em; padding-bottom: 20px;" title="Community"></i>
         <h4 class="card-title text-center">Community</h4>
-        <p class="card-text text-center">Challenge & Prize Community</p>
+        <p class="card-text text-center">Challenge & prize community resources.</p>
         <a href="{{ site.baseurl }}/community/" class="usa-button usa-button"><span style="color: #ffffff;">Join the community</span></a>
       </div>
     </div>
@@ -61,7 +61,7 @@ title: Resources for Federal Challenge Managers
       <div class="card-body text-center">
         <i class="fas fa-toolbox" style="color: #005ea2; padding-bottom: 20px; font-size: 3em;" title="Read our FAQs"></i>
         <h4 class="card-title text-center">Toolkit</h4>
-        <p class="card-text text-center">Resources on running challenges</p>
+        <p class="card-text text-center">Resources on running challenges.</p>
         <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Federal_Agency_FAQ.pdf" class="usa-button usa-button"><span style="color: #ffffff;">Read toolkit</span></a>
       </div>
     </div>
