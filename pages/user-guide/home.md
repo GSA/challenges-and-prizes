@@ -11,8 +11,12 @@ title: User Guide for Public Solvers
     <div class="card">
       <div class="card-body text-center">
         <i class="fas fa-laptop" style="color: #005ea2; font-size: 3em; padding-bottom: 20px;" title="Read our FAQs"></i>
-        <h2 class="card-title text-center">Need Help?</h2>
-        <p class="card-text text-center">For technical support or questions about the platform, please contact us at <a href="mailto: team@challenge.gov" class="link">team@challenge.gov</a> for help.</p>
+        <h2 class="card-title text-center">Exploring challenges</h2>
+        <ul>
+         <li>Exploring active challenges</li>
+<li>Viewing archived challenges</li>
+<li>Using the search bar to locate a challenge listing</li>
+       </ul>
         <a href="mailto: team@challenge.gov" class="usa-button usa-button"><span style="color: #ffffff;">Email us</span></a>
       </div>
     </div>
