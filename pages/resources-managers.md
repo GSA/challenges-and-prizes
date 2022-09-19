@@ -84,20 +84,20 @@ title: Resources for Federal Challenge Managers
  <div class="col-sm-6">
     <div class="card">
       <div class="card-body text-center">
-        <i class="fas fa-envelope" style="color: #005ea2; padding-bottom: 20px; font-size: 3em;" title="Subscribe to newsletter"></i>
-        <h2 class="card-title text-center">Stay Informed</h2>
-        <p class="card-text text-center">Stay up to date on the latest Challenge.Gov news!</p>
-        <a href="https://public.govdelivery.com/accounts/USGSATTS/signup/30826" class="usa-button usa-button"><span style="color: #ffffff;">Subscribe to newletter</span></a>
+        <i class="fas fa-envelope" style="color: #005ea2; padding-bottom: 20px; font-size: 3em;" title="Resources"></i>
+        <h2 class="card-title text-center">Resources</h2>
+        <p class="card-text text-center">Need copy</p>
+        <a href="{{ site.baseurl }}/toolkit/resources/" class="usa-button usa-button"><span style="color: #ffffff;">View resources</span></a>
       </div>
     </div>
   </div>
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body text-center">
-        <i class="fas fa-toolbox" style="color: #005ea2; padding-bottom: 20px; font-size: 3em;" title="Read our FAQs"></i>
-        <h2 class="card-title text-center">Toolkit</h2>
-        <p class="card-text text-center">Resources on running challenges.</p>
-        <a href="https://www.challenge.gov/assets/document-library/ChallengeGov_Federal_Agency_Toolkit_13Oct2021.pdf" class="usa-button usa-button"><span style="color: #ffffff;">Read toolkit</span></a>
+        <i class="fas fa-toolbox" style="color: #005ea2; padding-bottom: 20px; font-size: 3em;" title="case studies"></i>
+        <h2 class="card-title text-center">Case Studies</h2>
+        <p class="card-text text-center">asdf asdfa sd</p>
+        <a href="{{ site.baseurl }}/toolkit/case-studies/" class="usa-button usa-button"><span style="color: #ffffff;">Read case studies</span></a>
       </div>
     </div>
   </div>
