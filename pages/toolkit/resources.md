@@ -125,7 +125,7 @@ title: Toolkit - Resources
 * [DIY Space Race: Unleashing Space Innovators through Prize Competitions](https://obamawhitehouse.archives.gov/blog/2015/01/29/diy-space-race-unleashing-space-innovators-through-prize-competitions) (January 2015, OSTP Blog)
 * [Identifying Steps Forward in Use of Prizes to Spur Innovation]({{ site.baseurl }}/assets/document-library/Blog-Identifying-Steps-Forward-Use-Prizes-Spur-Innovation.pdf) (April 10, 2012, OSTP Blog)
 * [Unleashing Innovation and Deepening Democracy Through Prizes](https://obamawhitehouse.archives.gov/blog/2012/06/12/unleashing-innovation-deepening-democracy-through-prizes) (June 12, 2012, White House Blog)
-* [Challenge.gov: Two Years and 200 Prizes Later](https://obamawhitehouse.archives.gov/blog/2012/09/05/challengegov-two-years-and-200-prizes-later) (September 5, 2012, OSTP Blog)
+* [Challenge.Gov: Two Years and 200 Prizes Later](https://obamawhitehouse.archives.gov/blog/2012/09/05/challengegov-two-years-and-200-prizes-later) (September 5, 2012, OSTP Blog)
 * [Audacious Goals in Eye Research](https://obamawhitehouse.archives.gov/blog/2013/05/15/audacious-goals-eye-research) (May 2013, OSTP Blog)
 * [DOE Vehicle Data Challenge Fuels Innovation](https://obamawhitehouse.archives.gov/blog/2013/04/11/doe-vehicle-data-challenge-fuels-innovation) (April 2013, OSTP Blog)
 * [Help NASA Power the International Space Station](https://obamawhitehouse.archives.gov/blog/2013/01/25/help-nasa-power-international-space-station) (January 2013, OSTP Blog)
