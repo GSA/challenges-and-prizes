@@ -86,7 +86,7 @@ title: Toolkit - Resources
 * [MITRE: From Incentive Prizes to Procurement](https://apps.dtic.mil/sti/citations/AD1108074) (August 2016)
 * [Deloitte University Press, The Craft of Prize Design](http://dupress.com/articles/the-craft-of-incentive-prize-design/) (June 2014)
 * [Nesta Centre for Challenge Prizes: Challenge Prizes: A Practice Guide](http://www.nesta.org.uk/blog/how-run-challenge-prize) (February 2014)
-* [U.S. Chamber of Commerce Foundation: The Power of Prizes: Incentivizing Radical Innovation](http://emerging.uschamber.com/library/2014/02/power-prizes-incentivizing-radical-innovation) (February 2014)
+* [U.S. Chamber of Commerce Foundation: The Power of Prizes: Incentivizing Radical Innovation](https://www.uschamberfoundation.org/power-prizes-incentivizing-radical-innovation-0)
 * [Harvard Berkman Center for Internet & Society: Public-Private Partnerships for Organizing and Executing Prize-Based Competitions](http://cyber.law.harvard.edu/publications/2012/public_private_partnerships_for_organizing_and_executing_prize-based_competitions) (June 2012)
 * [Congressional Research Service: Federally Funded Innovation Inducement Prize](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/DARPA/15-F-0059_CRS_FOR_CONGRESS.FEDERALLY_FUNDED_INNOV_INDUCMNT_PRZS.pdf) (June 2009)
 * [McKinsey & Company: And the Winner Is… Capturing the Promise of Philanthropic Prizes](https://www.mckinsey.com/industries/public-and-social-sector/our-insights/and-the-winner-is-philanthropists-and-governments-make-prizes-count) (June 2009)
