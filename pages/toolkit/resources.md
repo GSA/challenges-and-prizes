@@ -95,6 +95,7 @@ title: Toolkit - Resources
 ## Other Blogs and Fact Sheets
 
 ### Challenge.Gov
+* [Challenge.Gov Prize and Challenge Toolkit]({{site.baseurl}}/assets/document-library/ChallengeGov_Federal_Agency_Toolkit_13Oct2021.pdf)
 * [Challenge.Gov Program Overview]({{site.baseurl}}/assets/document-library/ChallengeGov_Program_Overview.pdf)
 * [Challenge.Gov Platform Overview]({{site.baseurl}}/assets/document-library/ChallengeGov_Platform_Overview.pdf)
 
