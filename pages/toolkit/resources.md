@@ -50,7 +50,7 @@ title: Toolkit - Resources
 
 #### U.S. Agency for International Development (USAID)
 
-* [USAID Full Innovation Programming and Design Toolkit](https://www.globalinnovationexchange.org/resources/usaid-full-innovation-programming-and-design-toolkit)
+* [USAID Full Innovation Programming and Design Toolkit](https://pdf.usaid.gov/pdf_docs/PBAAF082.pdf)
 
 #### U.S. Department of Agriculture (USDA)
 
