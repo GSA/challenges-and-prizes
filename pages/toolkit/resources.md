@@ -77,7 +77,7 @@ title: Toolkit - Resources
 
 * [National Academies: The Role of Inducement Prizes: Proceedings of a Workshop - in Brief](https://www.nap.edu/read/25892/chapter/1) (August 2020)
 * [Congressional Research Service: Federal Prize Competitions](https://fas.org/sgp/crs/misc/R45271.pdf) (April 2020)
-* [National Academies: Project Information: The Role of Inducement Prizes](https://www8.nationalacademies.org/pa/projectview.aspx?key=51203) (June 2019)
+* [National Academies: Project Information: The Role of Inducement Prizes](https://www.nationalacademies.org/our-work/the-role-of-inducement-prizes)
 * [Deloitte: Government Trends 2020](https://www2.deloitte.com/insights/us/en/industry/public-sector/government-trends.html) 
 * [National Academies, Returns to Federal Investments in the Innovation System: Proceedings of a Workshop in Brief](https://www.nap.edu/read/24905/chapter/1) (October 2017)
 * Government Accountability Office (GAO): Executive Branch Developed Resources to Support Implementation, but Guidance Could Better Reflect Leading Practices (June 2017): [Highlights](http://www.gao.gov/assets/690/685162.pdf) [Full Report](http://www.gao.gov/assets/690/685161.pdf)
