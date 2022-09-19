@@ -30,7 +30,7 @@ title: Toolkit - Resources
 #### U.S. Department of the Interior (DOI)
 
 * [Prize Challenges Policies](https://www.doi.gov/prizes/policies)
-* [Bureau of Reclamation FY18 Prize Competitions Fact Sheet](https://www.usbr.gov/research/challenges/docs/FY18.pdf)
+<!--* [Bureau of Reclamation FY18 Prize Competitions Fact Sheet](https://www.usbr.gov/research/challenges/docs/FY18.pdf)-->
 * [Bureau of Reclamation Knowledge Stream Research and Development Office - Prize Competitions](https://www.usbr.gov/research/docs/ks/ks-2019-04.pdf)
 
 #### National Aeronautics and Space Administration (NASA)
