@@ -83,7 +83,7 @@ title: Toolkit - Resources
 * Government Accountability Office (GAO): Executive Branch Developed Resources to Support Implementation, but Guidance Could Better Reflect Leading Practices (June 2017): [Highlights](http://www.gao.gov/assets/690/685162.pdf) [Full Report](http://www.gao.gov/assets/690/685161.pdf)
 * [Abt Associates, AgResults: A Framework for Evaluating Innovation Challenges](http://www.abtassociates.com/Reports/2017/AgResults-A-Framework-for-Evaluating-Innovation-Ch.aspx)  (January 2017)
 * [GAO: Open Innovation: Practices to Engage Citizens and Effectively Implement Federal Initiatives](http://www.gao.gov/products/GAO-17-14) (October 2016)
-* [MITRE: From Incentive Prizes to Procurement](https://www.mitre.org/publications/technical-papers/from-incentive-prize-and-challenge-competitions-to-procurement) (August 2016)
+* [MITRE: From Incentive Prizes to Procurement](https://apps.dtic.mil/sti/citations/AD1108074) (August 2016)
 * [Deloitte University Press, The Craft of Prize Design](http://dupress.com/articles/the-craft-of-incentive-prize-design/) (June 2014)
 * [Nesta Centre for Challenge Prizes: Challenge Prizes: A Practice Guide](http://www.nesta.org.uk/blog/how-run-challenge-prize) (February 2014)
 * [U.S. Chamber of Commerce Foundation: The Power of Prizes: Incentivizing Radical Innovation](http://emerging.uschamber.com/library/2014/02/power-prizes-incentivizing-radical-innovation) (February 2014)
