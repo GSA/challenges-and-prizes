@@ -84,17 +84,17 @@ title: Resources for Federal Challenge Managers
  <div class="col-sm-6">
     <div class="card">
       <div class="card-body text-center">
-        <i class="fas fa-envelope" style="color: #005ea2; padding-bottom: 20px; font-size: 3em;" title="Resources"></i>
-        <h2 class="card-title text-center">Resources</h2>
+        <i class="fas fa-link" style="color: #005ea2; padding-bottom: 20px; font-size: 3em;" title="Useful links"></i>
+        <h2 class="card-title text-center">Useful Links</h2>
         <p class="card-text text-center">Need copy</p>
-        <a href="{{ site.baseurl }}/toolkit/resources/" class="usa-button usa-button"><span style="color: #ffffff;">View resources</span></a>
+        <a href="{{ site.baseurl }}/toolkit/resources/" class="usa-button usa-button"><span style="color: #ffffff;">View useful links</span></a>
       </div>
     </div>
   </div>
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body text-center">
-        <i class="fas fa-toolbox" style="color: #005ea2; padding-bottom: 20px; font-size: 3em;" title="case studies"></i>
+        <i class="fas fa-suitcase" style="color: #005ea2; padding-bottom: 20px; font-size: 3em;" title="case studies"></i>
         <h2 class="card-title text-center">Case Studies</h2>
         <p class="card-text text-center">asdf asdfa sd</p>
         <a href="{{ site.baseurl }}/toolkit/case-studies/" class="usa-button usa-button"><span style="color: #ffffff;">Read case studies</span></a>
