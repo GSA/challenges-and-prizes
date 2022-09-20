@@ -12,7 +12,7 @@ title: User Guide for Public Solvers
 </div>
   </div>
 <div class="row" class="sm-6">
-  <div>
+
     <div class="card">
       <div class="card-body text-center"> <i class="fas fa-search" style="font-size: 3em; padding-bottom: 20px;" title="Read our FAQs"></i>
         <h2 class="card-title text-center">Exploring challenges</h2>
@@ -25,7 +25,6 @@ title: User Guide for Public Solvers
         </div>
       </div>
     </div>
-    <div>
       <div class="card">
         <div class="card-body text-center"> <i class="dashboard-card-icon fas fa-comment" style="font-size: 3em; padding-bottom: 20px;" title="Read FAQs"></i>
           <h2 class="card-title text-center">Engaging with a challenge</h2>
@@ -42,11 +41,9 @@ title: User Guide for Public Solvers
           </div>
         </div>
       </div>
-    </div>
   </div>
-</div>
 <div class="row" class="sm-6">
-  <div>
+
     <div class="card">
       <div class="card-body text-center"> <i class="dashboard-card-icon fas fa-laptop" style="font-size: 3em; padding-bottom: 20px;" title="Read FAQs"></i>
         <h2 class="card-title text-center">Using the solver portal</h2>
@@ -63,5 +60,5 @@ title: User Guide for Public Solvers
         </div>
       </div>
     </div>
-  </div>
+
 </div>
