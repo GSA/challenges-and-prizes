@@ -86,7 +86,7 @@ title: Resources for Federal Challenge Managers
       <div class="card-body text-center">
         <i class="fas fa-link" style="color: #005ea2; padding-bottom: 20px; font-size: 3em;" title="Useful links"></i>
         <h2 class="card-title text-center">Useful Links</h2>
-        <p class="card-text text-center">Need copy</p>
+        <p class="card-text text-center">Links to reports, relevant policies, and other useful information about prize challenges and crowdsourcing.</p>
         <a href="{{ site.baseurl }}/toolkit/resources/" class="usa-button usa-button"><span style="color: #ffffff;">View useful links</span></a>
       </div>
     </div>
@@ -96,7 +96,7 @@ title: Resources for Federal Challenge Managers
       <div class="card-body text-center">
         <i class="fas fa-suitcase" style="color: #005ea2; padding-bottom: 20px; font-size: 3em;" title="case studies"></i>
         <h2 class="card-title text-center">Case Studies</h2>
-        <p class="card-text text-center">asdf asdfa sd</p>
+        <p class="card-text text-center">Highlights of some of the best challenges to come out of the federal government.</p>
         <a href="{{ site.baseurl }}/toolkit/case-studies/" class="usa-button usa-button"><span style="color: #ffffff;">Read case studies</span></a>
       </div>
     </div>
