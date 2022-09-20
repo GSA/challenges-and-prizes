@@ -18,7 +18,7 @@ title: User Guide for Public Solvers
         <h2 class="card-title text-center">Exploring challenges</h2>
         <div>
           <ul>
-            <li class="text-left"><a href="#/user-guide/exploring-challenges.html">Exploring active challenges</a></li>
+            <li class="text-left"><a href="/user-guide/exploring-challenges/">Exploring active challenges</a></li>
             <li class="text-left"><a href="#">Viewing archived challenges</a></li>
             <li class="text-left"><a href="#">Using the search bar to locate a challenge listing</a></li>
           </ul>
