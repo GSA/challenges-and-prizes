@@ -3,7 +3,7 @@ permalink: /user-guide/exploring-challenges/
 layout: page
 title: User Guide for Public Solvers
 ---
-<a href="/user-guide/"> < Back to User guide</a> / Exploring Challenges
+<a href="{{ site.baseurl }}/user-guide/"> << Back to User guide</a> / Exploring Challenges
 
 <h1 class="text-center mb-6 font-weight-bold">Exploring Challenges</h1>
 <p>NOTE: All visitors can explore challenges. No user account or log-in is required. For some features, however, creating an account offers additional benefits not available to general site visitors.</p>
