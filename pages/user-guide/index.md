@@ -5,11 +5,12 @@ title: User Guide for Public Solvers
 ---
 
 <h1 class="text-center mb-6 font-weight-bold">User Guide for Public Solvers</h1>
-<div class="row">
+<div class="row" class="sm-8">
 <div>
   <p>Challenge.Gov, managed by Technology Transformation Services (TTS), within the General Services Administration, is the official hub for prize competitions and crowdsourcing campaigns (together referred to as “challenges”) across the U.S. federal government. Through this platform, federal agencies engage public solvers in challenges to identify innovative solutions to important issues.</p>
   <p>This guide provides step-by-step instructions for site visitor and public solver use of Challenge.Gov. </p>
 </div>
+  </div>
 <div class="row">
   <div>
     <div class="card">
