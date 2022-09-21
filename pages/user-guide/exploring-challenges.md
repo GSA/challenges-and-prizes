@@ -32,7 +32,7 @@ NOTE: All visitors can explore challenges. No user account or log-in is required
 5. Review the general information that appears at the top of the challenge details page
 
 
-## Using the Search Bar to Locate a Challenge Listing
+## Using the Search Bar to Locate a Challenge Listing<a name="using-search-bar">
 
 **This feature allows you to search the Challenge.Gov challenge listings to locate a challenge of interest.**
 
