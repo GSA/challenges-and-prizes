@@ -5,7 +5,7 @@ title: User Guide for Public Solvers
 ---
 <a href="{{ site.baseurl }}/user-guide/"> << Back to User guide</a> / Exploring Challenges
 
-*Exploring Challenges*
+# Exploring Challenges
 NOTE: All visitors can explore challenges. No user account or log-in is required. For some features, however, creating an account offers additional benefits not available to general site visitors.
 
 **Explore Active Challenges**
