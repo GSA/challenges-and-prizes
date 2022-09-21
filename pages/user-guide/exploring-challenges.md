@@ -11,18 +11,14 @@ NOTE: All visitors can explore challenges. No user account or log-in is required
 **Explore Active Challenges**
 ***This feature allows you to review challenges that are currently accepting public submissions and identify ones of interest to you.***
 
-<ol>
-  <li>Visit www.Challenge.Gov</li>
-  <li>Click on the Find a Challenge button or scroll down to the bottom of the homepage to browse the Active Challenge tiles</li>
-  <li>Click the challenge tile to view the challenge details page</li>
+1. Visit www.Challenge.Gov
+2. Click on the Find a Challenge button or scroll down to the bottom of the homepage to browse the Active Challenge tiles</li>
+3. Click the challenge tile to view the challenge details page</li>
+1.NOTE:  Some challenge tiles may redirect to an external challenge site for additional information.  In these cases, the site will open in a new browser tab.
+4. Review the general information that appears at the top of the challenge details page
+5. Click the section names in the middle of the page to view the various challenge content sections (e.g. Overview, Prizes, Rules, How to Enter).
 
-
-<p>NOTE:  Some challenge tiles may redirect to an external challenge site for additional information.  In these cases, the site will open in a new browser tab.</p>
-<li>Review the general information that appears at the top of the challenge details page</li>
-<li>Click the section names in the middle of the page to view the various challenge content sections (e.g. Overview, Prizes, Rules, How to Enter).</li>
-  </ol>
-
-<h2>View Archived Challenges</h2>
+**View Archived Challenges**
 This feature allows you to review challenges that are no longer open to public submissions.
 
 <ol>
