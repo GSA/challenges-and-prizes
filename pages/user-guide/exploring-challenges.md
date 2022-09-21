@@ -9,9 +9,9 @@ title: User Guide for Public Solvers
 
 NOTE: All visitors can explore challenges. No user account or log-in is required. For some features, however, creating an account offers additional benefits not available to general site visitors.
 
-**Explore Active Challenges**
+## Explore Active Challenges
 
-***This feature allows you to review challenges that are currently accepting public submissions and identify ones of interest to you.***
+**This feature allows you to review challenges that are currently accepting public submissions and identify ones of interest to you.**
 
 1. Visit www.Challenge.Gov
 2. Click on the Find a Challenge button or scroll down to the bottom of the homepage to browse the Active Challenge tiles</li>
