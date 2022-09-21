@@ -20,9 +20,9 @@ NOTE: All visitors can explore challenges. No user account or log-in is required
 4. Review the general information that appears at the top of the challenge details page
 5. Click the section names in the middle of the page to view the various challenge content sections (e.g. Overview, Prizes, Rules, How to Enter).
 
-**View Archived Challenges**
+## View Archived Challenges
 
-***This feature allows you to review challenges that are no longer open to public submissions.***
+**This feature allows you to review challenges that are no longer open to public submissions.**
 
 1. From any Challenge.Gov page, scroll down to the footer and click “Archived challenges”at the bottom of the page
 2Select the year you wish to look at from the “Filter by year” dropdown list
@@ -32,9 +32,9 @@ NOTE: All visitors can explore challenges. No user account or log-in is required
 5. Review the general information that appears at the top of the challenge details page
 
 
-**Using the Search Bar to Locate a Challenge Listing**
+## Using the Search Bar to Locate a Challenge Listing
 
-***This feature allows you to search the Challenge.Gov challenge listings to locate a challenge of interest.***
+**This feature allows you to search the Challenge.Gov challenge listings to locate a challenge of interest.**
 
 1. From any Challenge.Gov page, locate the “search” box (white box with a looking glass icon to the right of it) in the upper right corner
 2. Enter the challenge name or keywords you wish to search for into the “search” box
