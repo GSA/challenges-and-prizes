@@ -19,7 +19,7 @@ title: User Guide for Public Solvers
         <div>
           <ul>
             <li class="text-left"><a href="{{ site.baseurl }}/user-guide/exploring-challenges/">Exploring active challenges</a></li>
-            <li class="text-left"><a href="#">Viewing archived challenges</a></li>
+            <li class="text-left"><a href="{{ site.baseurl }}/user-guide/exploring-challenges/#view-archived-challenges">Viewing archived challenges</a></li>
             <li class="text-left"><a href="#">Using the search bar to locate a challenge listing</a></li>
           </ul>
         </div>
