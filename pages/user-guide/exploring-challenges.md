@@ -20,7 +20,7 @@ NOTE: All visitors can explore challenges. No user account or log-in is required
 4. Review the general information that appears at the top of the challenge details page
 5. Click the section names in the middle of the page to view the various challenge content sections (e.g. Overview, Prizes, Rules, How to Enter).
 
-## View Archived Challenges
+## View Archived Challenges<a name="view-archived-challenges">
 
 **This feature allows you to review challenges that are no longer open to public submissions.**
 
