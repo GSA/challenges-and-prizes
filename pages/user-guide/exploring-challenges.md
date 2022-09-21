@@ -41,3 +41,5 @@ NOTE: All visitors can explore challenges. No user account or log-in is required
 3. Click the looking glass icon
 4. Review the list of search results
 5. Click the challenge name link to access the full challenge profile
+  
+  <a href="{{ site.baseurl }}/user-guide/engaging-with-a-challenge/"> Next section: Engaging with a challenge >></a>
