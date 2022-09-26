@@ -24,7 +24,7 @@ title: User Guide for Public Solvers
           </ul>
         </div>
       </div>
-    </div>
+
       <div class="card">
         <div class="card-body text-center"> <i class="dashboard-card-icon fas fa-comment" style="font-size: 3em; padding-bottom: 20px;" title="Read FAQs"></i>
           <h2 class="card-title text-center">Engaging with a challenge</h2>
