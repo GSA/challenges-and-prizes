@@ -46,7 +46,7 @@ title: User Guide for Public Solvers
     <div class="card">
       <div class="card-body text-center"> <i class="fas fa-laptop" style="font-size: 3em; padding-bottom: 20px;" title="Using the solver portal"></i>
         <h2 class="card-title text-center">Using the solver portal</h2>
-        <div>
+         <p class="card-text">
           <ul>
             <li class="text-left"><a href="#">Create Your Challenge.Gov User Account</a></li>
             <li class="text-left"><a href="#">Log in to the Solver Portal</a></li>
@@ -56,6 +56,8 @@ title: User Guide for Public Solvers
             <li class="text-left"><a href="#">Delete a Challenge Submission</a></li>
             <li class="text-left"><a href="#">Using the Message Center</a></li>
           </ul>
-        </div>
+        </p>
     </div>
+  </div>
+ </div>
   </div>
