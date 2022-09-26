@@ -11,7 +11,30 @@ title: User Guide for Public Solvers
   <p>This guide provides step-by-step instructions for site visitor and public solver use of Challenge.Gov. </p>
 </div>
   </div>
-  
+  <div class="row">
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">Exploring challenges</h5>
+        <p class="card-text"><ul>
+            <li class="text-left"><a href="{{ site.baseurl }}/user-guide/exploring-challenges/">Exploring active challenges</a></li>
+            <li class="text-left"><a href="{{ site.baseurl }}/user-guide/exploring-challenges/#view-archived-challenges">Viewing archived challenges</a></li>
+            <li class="text-left"><a href="{{ site.baseurl }}/user-guide/exploring-challenges/#using-search-bar">Using the search bar to locate a challenge listing</a></li>
+          </ul></p>
+        <a href="#" class="btn btn-primary">Go somewhere</a>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">Special title treatment</h5>
+        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+        <a href="#" class="btn btn-primary">Go somewhere</a>
+      </div>
+    </div>
+  </div>
+</div>
   
   <div class="row">
   <div class="col-sm-6">
