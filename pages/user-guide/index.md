@@ -45,7 +45,6 @@ title: User Guide for Public Solvers
         </div>
     </div>
   </div>
-</div>
 
 
 
