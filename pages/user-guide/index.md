@@ -21,13 +21,12 @@ title: User Guide for Public Solvers
             <li class="text-left"><a href="{{ site.baseurl }}/user-guide/exploring-challenges/#view-archived-challenges">Viewing archived challenges</a></li>
             <li class="text-left"><a href="{{ site.baseurl }}/user-guide/exploring-challenges/#using-search-bar">Using the search bar to locate a challenge listing</a></li>
           </ul></p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
       </div>
     </div>
   </div>
   <div class="col-sm-6">
     <div class="card">
-      <div class="card-body text-center"> <i class="fas fa-search" style="font-size: 3em; padding-bottom: 20px;" title="Read our FAQs"></i>
+      <div class="card-body text-center"> <i class="fas fa-message" style="font-size: 3em; padding-bottom: 20px;" title="Read our FAQs"></i>
         <h2 class="card-title text-center">Engaging with a challenge</h2>
         <p class="card-text"><ul>
               <li class="text-left"><a href="#">Exploring active challenges</a></li>
@@ -38,7 +37,6 @@ title: User Guide for Public Solvers
               <li class="text-left"><a href="#">Submitting to a challenge</a></li>
               <li class="text-left"><a href="#">Unfollow a challenge</a></li>
             </ul></p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
       </div>
     </div>
   </div>
@@ -47,7 +45,7 @@ title: User Guide for Public Solvers
   <div class="row">
   <div class="col-sm-6">
     <div class="card">
-      <div class="card-body text-center"> <i class="fas fa-search" style="font-size: 3em; padding-bottom: 20px;" title="Read our FAQs"></i>
+      <div class="card-body text-center"> <i class="fas fa-computer" style="font-size: 3em; padding-bottom: 20px;" title="Read our FAQs"></i>
         <h2 class="card-title text-center">Using the solver portal</h2>
         <div>
           <ul>
