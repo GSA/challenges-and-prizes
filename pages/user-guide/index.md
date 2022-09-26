@@ -48,75 +48,6 @@ title: User Guide for Public Solvers
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body text-center"> <i class="fas fa-search" style="font-size: 3em; padding-bottom: 20px;" title="Read our FAQs"></i>
-        <h2 class="card-title text-center">Exploring challenges</h2>
-        <div>
-          <ul>
-            <li class="text-left"><a href="{{ site.baseurl }}/user-guide/exploring-challenges/">Exploring active challenges</a></li>
-            <li class="text-left"><a href="{{ site.baseurl }}/user-guide/exploring-challenges/#view-archived-challenges">Viewing archived challenges</a></li>
-            <li class="text-left"><a href="{{ site.baseurl }}/user-guide/exploring-challenges/#using-search-bar">Using the search bar to locate a challenge listing</a></li>
-          </ul>
-        </div>
-    </div>
-  </div>
-  <div class="col-sm-6">
-    <div class="card">
-      <div class="card-body"> <i class="dashboard-card-icon fas fa-comment" style="font-size: 3em; padding-bottom: 20px;" title="Read FAQs"></i>
-          <h2 class="card-title text-center">Engaging with a challenge</h2>
-          <div>
-            <ul>
-              <li class="text-left"><a href="#">Exploring active challenges</a></li>
-              <li class="text-left"><a href="#">Follow a challenge</a></li>
-              <li class="text-left"><a href="#">Share a challenge</a></li>
-              <li class="text-left"><a href="#">Print a challenge</a></li>
-              <li class="text-left"><a href="#">Contact the challenge management team</a></li>
-              <li class="text-left"><a href="#">Submitting to a challenge</a></li>
-              <li class="text-left"><a href="#">Unfollow a challenge</a></li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-
-
-
- <div class="row">
-  <div class="col-sm-6">
-    <div class="card">
-      <div class="card-body text-center"> <i class="fas fa-search" style="font-size: 3em; padding-bottom: 20px;" title="Read our FAQs"></i>
-        <h2 class="card-title text-center">Exploring challenges</h2>
-        <div>
-          <ul>
-            <li class="text-left"><a href="{{ site.baseurl }}/user-guide/exploring-challenges/">Exploring active challenges</a></li>
-            <li class="text-left"><a href="{{ site.baseurl }}/user-guide/exploring-challenges/#view-archived-challenges">Viewing archived challenges</a></li>
-            <li class="text-left"><a href="{{ site.baseurl }}/user-guide/exploring-challenges/#using-search-bar">Using the search bar to locate a challenge listing</a></li>
-          </ul>
-        </div>
-      </div>
-</div>
-     <div class="row">
-  <div class="col-sm-6">
-    <div class="card">
-      <div class="card-body"> <i class="dashboard-card-icon fas fa-comment" style="font-size: 3em; padding-bottom: 20px;" title="Read FAQs"></i>
-          <h2 class="card-title text-center">Engaging with a challenge</h2>
-          <div>
-            <ul>
-              <li class="text-left"><a href="#">Exploring active challenges</a></li>
-              <li class="text-left"><a href="#">Follow a challenge</a></li>
-              <li class="text-left"><a href="#">Share a challenge</a></li>
-              <li class="text-left"><a href="#">Print a challenge</a></li>
-              <li class="text-left"><a href="#">Contact the challenge management team</a></li>
-              <li class="text-left"><a href="#">Submitting to a challenge</a></li>
-              <li class="text-left"><a href="#">Unfollow a challenge</a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-  </div>
-  <div class="row">
- <div class="col-sm-6">
-
-    <div class="card">
-      <div class="card-body text-center"> <i class="dashboard-card-icon fas fa-laptop" style="font-size: 3em; padding-bottom: 20px;" title="Read FAQs"></i>
         <h2 class="card-title text-center">Using the solver portal</h2>
         <div>
           <ul>
@@ -129,7 +60,5 @@ title: User Guide for Public Solvers
             <li class="text-left"><a href="#">Using the Message Center</a></li>
           </ul>
         </div>
-      </div>
     </div>
-
-</div>
+  </div>
