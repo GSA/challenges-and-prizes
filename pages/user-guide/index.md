@@ -25,6 +25,19 @@ title: User Guide for Public Solvers
           </ul>
         </div>
       </div>
+      <div class="col-lg-6">
+
+    <div class="card">
+      <div class="card-body text-center"> <i class="fas fa-search" style="font-size: 3em; padding-bottom: 20px;" title="Read our FAQs"></i>
+        <h2 class="card-title text-center">Exploring challenges</h2>
+        <div>
+          <ul>
+            <li class="text-left"><a href="{{ site.baseurl }}/user-guide/exploring-challenges/">Exploring active challenges</a></li>
+            <li class="text-left"><a href="{{ site.baseurl }}/user-guide/exploring-challenges/#view-archived-challenges">Viewing archived challenges</a></li>
+            <li class="text-left"><a href="{{ site.baseurl }}/user-guide/exploring-challenges/#using-search-bar">Using the search bar to locate a challenge listing</a></li>
+          </ul>
+        </div>
+      </div>
 </div>
       <div class="card">
         <div class="card-body text-center"> <i class="dashboard-card-icon fas fa-comment" style="font-size: 3em; padding-bottom: 20px;" title="Read FAQs"></i>
