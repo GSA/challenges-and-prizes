@@ -28,8 +28,16 @@ title: User Guide for Public Solvers
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body">
-        <h5 class="card-title">Special title treatment</h5>
-        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+        <h5 class="card-title">Engaging with a challenge</h5>
+        <p class="card-text"><ul>
+              <li class="text-left"><a href="#">Exploring active challenges</a></li>
+              <li class="text-left"><a href="#">Follow a challenge</a></li>
+              <li class="text-left"><a href="#">Share a challenge</a></li>
+              <li class="text-left"><a href="#">Print a challenge</a></li>
+              <li class="text-left"><a href="#">Contact the challenge management team</a></li>
+              <li class="text-left"><a href="#">Submitting to a challenge</a></li>
+              <li class="text-left"><a href="#">Unfollow a challenge</a></li>
+            </ul></p>
         <a href="#" class="btn btn-primary">Go somewhere</a>
       </div>
     </div>
