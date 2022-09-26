@@ -11,7 +11,7 @@ title: User Guide for Public Solvers
   <p>This guide provides step-by-step instructions for site visitor and public solver use of Challenge.Gov. </p>
 </div>
   </div>
-<div class="row" class="sm-6">
+ <div class="col-sm-6">
 
     <div class="card">
       <div class="card-body text-center"> <i class="fas fa-search" style="font-size: 3em; padding-bottom: 20px;" title="Read our FAQs"></i>
@@ -42,7 +42,7 @@ title: User Guide for Public Solvers
         </div>
       </div>
   </div>
-<div class="row" class="sm-6">
+ <div class="col-sm-6">
 
     <div class="card">
       <div class="card-body text-center"> <i class="dashboard-card-icon fas fa-laptop" style="font-size: 3em; padding-bottom: 20px;" title="Read FAQs"></i>
