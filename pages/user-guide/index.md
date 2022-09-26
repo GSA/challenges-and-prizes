@@ -14,7 +14,7 @@ title: User Guide for Public Solvers
   <div class="row">
   <div class="col-sm-6">
     <div class="card">
-      <div class="card-body text-center"> <i class="fas fa-search" style="font-size: 3em; padding-bottom: 20px;" title="Read our FAQs"></i>
+      <div class="card-body text-center"> <i class="fas fa-search" style="font-size: 3em; padding-bottom: 20px;" title="Exploring challenges"></i>
         <h2 class="card-title text-center">Exploring challenges</h2>
         <p class="card-text"><ul>
             <li class="text-left"><a href="{{ site.baseurl }}/user-guide/exploring-challenges/">Exploring active challenges</a></li>
@@ -26,10 +26,9 @@ title: User Guide for Public Solvers
   </div>
   <div class="col-sm-6">
     <div class="card">
-      <div class="card-body text-center"> <i class="fas fa-message" style="font-size: 3em; padding-bottom: 20px;" title="Read our FAQs"></i>
+      <div class="card-body text-center"> <i class="fas fa-comment" style="font-size: 3em; padding-bottom: 20px;" title="Engaging with a challenge"></i>
         <h2 class="card-title text-center">Engaging with a challenge</h2>
         <p class="card-text"><ul>
-              <li class="text-left"><a href="#">Exploring active challenges</a></li>
               <li class="text-left"><a href="#">Follow a challenge</a></li>
               <li class="text-left"><a href="#">Share a challenge</a></li>
               <li class="text-left"><a href="#">Print a challenge</a></li>
@@ -45,7 +44,7 @@ title: User Guide for Public Solvers
   <div class="row">
   <div class="col-sm-6">
     <div class="card">
-      <div class="card-body text-center"> <i class="fas fa-computer" style="font-size: 3em; padding-bottom: 20px;" title="Read our FAQs"></i>
+      <div class="card-body text-center"> <i class="fas fa-laptop" style="font-size: 3em; padding-bottom: 20px;" title="Using the solver portal"></i>
         <h2 class="card-title text-center">Using the solver portal</h2>
         <div>
           <ul>
