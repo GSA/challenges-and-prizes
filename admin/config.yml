@@ -2,9 +2,9 @@ backend:
   name: github
   repo: gsa/challenges-and-prizes
   branch: staging # Branch to update (optional; defaults to master)
-  base_url: https://federalistapp.18f.gov
+  base_url: https://pages.cloud.gov
   auth_endpoint: external/auth/github
-  preview_context: federalist/build
+  preview_context: pages/build
 publish_mode: editorial_workflow
 media_folder: '/assets/netlify-uploads'
 public_folder: '/assets/netlify-uploads'
