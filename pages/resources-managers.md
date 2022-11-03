@@ -13,7 +13,7 @@ title: Resources for Federal Challenge Managers
         <i class="dashboard-card-icon fa fa-question-circle" style="color: #005ea2; font-size: 3em; padding-bottom: 20px;" title="Read FAQs"></i>
         <h2 class="card-title text-center">FAQs</h2>
         <p class="card-text text-center">Frequently asked questions and answers.</p>
-        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Federal_Agency_FAQ.pdf" class="usa-button usa-button"><span style="color: #ffffff;">Read FAQs</span></a>
+        <a href="{{ site.baseurl }}/agency-resources/" class="usa-button usa-button"><span style="color: #ffffff;">Read FAQs</span></a>
       </div>
     </div>
   </div>
