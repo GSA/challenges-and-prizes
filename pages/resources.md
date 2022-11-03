@@ -22,7 +22,7 @@ title: Resources
         <i class="dashboard-card-icon fa fa-question-circle" style="font-size: 3em; padding-bottom: 20px;" title="Read FAQs"></i>
         <h2 class="card-title text-center">FAQs</h2>
         <p class="card-text text-center">Our FAQs contain information on prize competitions, crowdsourcing, and use of the Challenge.Gov platform.</p>
-        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" class="usa-button usa-button"><span style="color: #ffffff;">Read FAQs</span></a>
+        <a href="{{ site.baseurl }}/public-innovator-faqs/" class="usa-button usa-button"><span style="color: #ffffff;">Read FAQs</span></a>
       </div>
     </div>
   </div>
@@ -71,7 +71,7 @@ title: Resources
         <i class="fas fa-envelope" style="color: #FA9441; padding-bottom: 20px; font-size: 3em;" title="Subscribe to newsletter"></i>
         <h2 class="card-title text-center">Stay Informed</h2>
         <p class="card-text text-center">Stay up to date on the latest Challenge.Gov news!</p>
-        <a href="https://public.govdelivery.com/accounts/USGSATTS/signup/30826" class="usa-button usa-button"><span style="color: #ffffff;">Subscribe to newsletter</span></a>
+        <a href="https://public.govdelivery.com/accounts/USGSATTS/signup/30826" class="usa-button usa-button"><span style="color: #ffffff;">Subscribe to newletter</span></a>
       </div>
     </div>
   </div>
