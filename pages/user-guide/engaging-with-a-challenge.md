@@ -7,7 +7,9 @@ title: User Guide for Public Solvers
 
 {% include user-guide-intro.html %}
 
-<table><tr><td style="color:#ffffff" text-align: center" background-color: blue" padding: 40px;">## Explore Active Challenges</td></tr></table>
+<div class="row">
+ <div class="col-sm-6">
+    <table><tr><td style="color:#ffffff" text-align: center" background-color: blue" padding: 40px;">## Explore Active Challenges</td></tr></table>
 
 **Review challenges currently accepting public submissions.
 
@@ -16,6 +18,13 @@ title: User Guide for Public Solvers
 NOTE:  Some challenge tiles redirect to an external site which will open in a new browser tab.
 3. General information about the challenge appears at the top of the page
 4. Click the section names in the middle of the page to view the various challenge content sections (e.g. Overview, Prizes, Rules, How to Enter).
+
+  </div>
+  <div class="col-sm-6">
+   {% include user-guide-nav.html %}
+    </div>
+  </div>
+ 
 
 
 
