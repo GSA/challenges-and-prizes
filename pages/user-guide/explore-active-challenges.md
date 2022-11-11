@@ -5,12 +5,14 @@ title: User Guide for Public Solvers | Explore Active Challenges
 ---
 <a href="{{ site.baseurl }}/user-guide/"> << Back to User guide</a>
 <div class="row">
-  <div class="col-sm-12"> {% include user-guide-intro.html %} </div>
+  <div class="col-sm-12">{% include user-guide-intro.html %}</div>
+</div>
+<div class="row">
+  <div class="col-sm-12" style="padding: 40px; background-color: #005ea2; color: #ffffff; text-align: center;"><h2>Explore Active Challenges</h2></div>
 </div>
 <div class="row">
   <div class="col-sm-7">
-    <h2>Explore Active Challenges</h2>
-    Review challenges currently accepting public submissions.
+    <p>Review challenges currently accepting public submissions.</p>
     <ol>
       <li>Click the Find a Challenge button or scroll down to the bottom of the homepage to browse Active Challenge tiles.</li>
       <li>Click the challenge tile to view challenge details.</li>
