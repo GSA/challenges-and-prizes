@@ -8,7 +8,7 @@ title: User Guide for Public Solvers | Explore Active Challenges
   <div class="col-sm-12"> {% include user-guide-intro.html %} </div>
 </div>
 <div class="row">
-  <div class="col-sm-6">
+  <div class="col-sm-7">
     <h2>Explore Active Challenges</h2>
     Review challenges currently accepting public submissions.
     <ol>
@@ -19,7 +19,7 @@ title: User Guide for Public Solvers | Explore Active Challenges
       <li>Click the section names in the middle of the page to view the various challenge content sections (e.g. Overview, Prizes, Rules, How to Enter).</li>
     </ol>
   </div>
-  <div class="col-sm-6"> {% include user-guide-nav.html %} </div>
+  <div class="col-sm-5"> {% include user-guide-nav.html %} </div>
 </div>
 
 
