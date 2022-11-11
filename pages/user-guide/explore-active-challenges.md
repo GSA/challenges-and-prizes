@@ -7,8 +7,8 @@ title: User Guide for Public Solvers | Explore Active Challenges
 <div class="row">
   <div class="col-sm-12">{% include user-guide-intro.html %}</div>
 </div>
-<div class="row" style="padding: 40px;">
-  <div class="col-sm-12" style="padding: 20px; background-color: #005ea2; color: #ffffff; text-align: center;"><h2>Explore Active Challenges</h2></div>
+<div class="row" style="padding: 30px;">
+  <div class="col-sm-12" style="padding: 10px; background-color: #005ea2; color: #ffffff; text-align: center;"><h2>Explore Active Challenges</h2></div>
 </div>
 <div class="row">
   <div class="col-sm-7">
