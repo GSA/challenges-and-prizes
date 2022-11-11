@@ -9,7 +9,7 @@ title: User Guide for Public Solvers | Explore Active Challenges
 </div>
 <div class="row">
   <div class="col-sm-6">
-    <h1>Explore Active Challenges</h1>
+    <h2>Explore Active Challenges</h2>
     Review challenges currently accepting public submissions.
     <ol>
       <li>Click the Find a Challenge button or scroll down to the bottom of the homepage to browse Active Challenge tiles.</li>
