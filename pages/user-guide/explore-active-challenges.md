@@ -13,7 +13,7 @@ title: User Guide for Public Solvers | Explore Active Challenges
 <div class="row">
   <div class="col-sm-7">
     <p>Review challenges currently accepting public submissions.</p>
-    <ol>
+    <ol class="rounded-list">
       <li>Click the Find a Challenge button or scroll down to the bottom of the homepage to browse Active Challenge tiles.</li>
       <li>Click the challenge tile to view challenge details.</li>
       NOTE:  Some challenge tiles redirect to an external site which will open in a new browser tab.
