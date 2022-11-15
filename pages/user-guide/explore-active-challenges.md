@@ -23,9 +23,3 @@ title: User Guide for Public Solvers | Explore Active Challenges
   </div>
   <div class="col-sm-5"> {% include user-guide-nav.html %} </div>
 </div>
-
-
-
-
-  
-  <a href="{{ site.baseurl }}/user-guide/using-the-solver-portal/"> Next section: Using the solver portal >></a>
