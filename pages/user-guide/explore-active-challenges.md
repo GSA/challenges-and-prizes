@@ -14,7 +14,7 @@ title: User Guide for Public Solvers | Explore Active Challenges
   <div class="col-sm-7">
     <p>Review challenges currently accepting public submissions.</p>
     <ol>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5;">Click the Find a Challenge button or scroll down to the bottom of the homepage to browse Active Challenge tiles.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 200;">Click the Find a Challenge button or scroll down to the bottom of the homepage to browse Active Challenge tiles.</span></li>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5;">Click the challenge tile to view challenge details.</span></li>
       <b>NOTE:</b>  Some challenge tiles redirect to an external site which will open in a new browser tab.
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5;">General information about the challenge appears at the top of the page.</span></li>
