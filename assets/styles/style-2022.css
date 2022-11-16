@@ -1,5 +1,8 @@
+.usa-sidenav__item {
+        text-decoration: none !important;
+}
 
-.usa-sidenav .usa-current .usa-sidenav__item {
+.usa-sidenav .usa-current {
         text-decoration: none !important;
 }
 
