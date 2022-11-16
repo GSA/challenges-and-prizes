@@ -1,3 +1,6 @@
+.usa-sidenav .usa-current {
+        text-decoration: none !important;
+}
 
 .challenge-tile.challenge-tile a {
         text-decoration: none !important;
