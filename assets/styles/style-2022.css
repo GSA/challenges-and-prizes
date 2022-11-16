@@ -1,4 +1,5 @@
-.usa-sidenav .usa-current {
+
+.usa-sidenav .usa-current .usa-sidenav__item {
         text-decoration: none !important;
 }
 
