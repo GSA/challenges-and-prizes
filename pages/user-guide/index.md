@@ -17,9 +17,9 @@ title: User Guide for Public Solvers
       <div class="card-body text-center"> <i class="fas fa-search" style="font-size: 3em; padding-bottom: 20px;" title="Exploring challenges"></i>
         <h2 class="card-title text-center">Exploring challenges</h2>
         <p class="card-text"><ul>
-            <li class="text-left"><a href="{{ site.baseurl }}/explore-active-challenges/">Exploring active challenges</a></li>
-            <li class="text-left"><a href="{{ site.baseurl }}/user-guide/exploring-challenges/#view-archived-challenges">Viewing archived challenges</a></li>
-            <li class="text-left"><a href="{{ site.baseurl }}/user-guide/exploring-challenges/#using-search-bar">Using the search bar to locate a challenge listing</a></li>
+            <li class="text-left"><a href="{{ site.baseurl }}/user-guide/explore-active-challenges/">Exploring active challenges</a></li>
+            <li class="text-left"><a href="{{ site.baseurl }}/user-guide/viewing-archived-challenges/#view-archived-challenges">Viewing archived challenges</a></li>
+            <li class="text-left"><a href="{{ site.baseurl }}/user-guide/using-search-bar/">Using the search bar to locate a challenge listing</a></li>
           </ul></p>
       </div>
     </div>
@@ -29,8 +29,8 @@ title: User Guide for Public Solvers
       <div class="card-body text-center"> <i class="fas fa-comment" style="font-size: 3em; padding-bottom: 20px;" title="Engaging with a challenge"></i>
         <h2 class="card-title text-center">Engaging with a challenge</h2>
         <p class="card-text"><ul>
-              <li class="text-left"><a href="#">Follow a challenge</a></li>
-              <li class="text-left"><a href="#">Share a challenge</a></li>
+              <li class="text-left">a href="{{ site.baseurl }}/user-guide/follow-a-challenge/">Follow a challenge</a></li>
+              <li class="text-left">a href="{{ site.baseurl }}/user-guide/using-search-bar/">Share a challenge</a></li>
               <li class="text-left"><a href="#">Print a challenge</a></li>
               <li class="text-left"><a href="#">Contact the challenge management team</a></li>
               <li class="text-left"><a href="#">Submitting to a challenge</a></li>
