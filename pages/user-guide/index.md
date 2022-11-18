@@ -17,7 +17,7 @@ title: User Guide for Public Solvers
       <div class="card-body text-center"> <i class="fas fa-search" style="font-size: 3em; padding-bottom: 20px;" title="Exploring challenges"></i>
         <h2 class="card-title text-center">Exploring challenges</h2>
         <p class="card-text"><ul>
-            <li class="text-left"><a href=""{{ site.baseurl }}/explore-active-challenges/">Exploring active challenges</a></li>
+            <li class="text-left"><a href="{{ site.baseurl }}/explore-active-challenges/">Exploring active challenges</a></li>
             <li class="text-left"><a href="{{ site.baseurl }}/user-guide/exploring-challenges/#view-archived-challenges">Viewing archived challenges</a></li>
             <li class="text-left"><a href="{{ site.baseurl }}/user-guide/exploring-challenges/#using-search-bar">Using the search bar to locate a challenge listing</a></li>
           </ul></p>
