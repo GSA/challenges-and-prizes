@@ -20,5 +20,6 @@ title: User Guide for Public Solvers | Explore Active Challenges
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click the section names in the middle of the page to view the various challenge content sections (e.g. Overview, Prizes, Rules, How to Enter).</span></li>
     </ol>
   </div>
-  <div class="col-sm-4"> {% include user-guide-nav.html %} </div>
+  <div class="col-sm-1">&nbsp;</div>
+  <div class="col-sm-3"> {% include user-guide-nav.html %} </div>
 </div>
