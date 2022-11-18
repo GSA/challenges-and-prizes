@@ -18,9 +18,9 @@ title: User Guide for Public Solvers | Follow Challenges
     <ol style="padding-left: 50px;">
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From challenge details page, click <b>Follow challenge</b> in the general information section of the page. </span></li>
       <br>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click one of these options:
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click one of these options:</span>
         <ul>
-          <li>Follow challenge - no user account or log-in required
+			<li>Follow challenge - no user account or log-in required</li>
             <ol>
               <li>Enter your Email Address and click Submit.</li>
               <li>Click Finish. </li>
@@ -31,7 +31,7 @@ title: User Guide for Public Solvers | Follow Challenges
           <li>Save Challenge - save challenge to your account, log into the Solver Portal to view a list of your saved challenges.
             Continue with section ii. Save Challenge to Your Account below.</li>
         </ul>
-        </span></li>
+</li>
       <br>
       <b>NOTE:</b> Challenge.Gov uses GovDelivery to allow users to follow challenges and receive challenge-related information via email.  GovDelivery is used by many Federal agencies to deliver content important to you. Visit GovDelivery Help at subscriberhelp.granicus.com.
     </ol>
