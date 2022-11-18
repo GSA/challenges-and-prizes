@@ -18,7 +18,15 @@ title: User Guide for Public Solvers | Follow Challenges
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click one of these options:
         <ul>
           <li>Follow challenge - no user account or log-in required</li>
-<li>Continue with section i. Follow Challenge as a Guest below</li>
+          <ol>
+            <li>Enter your Email Address and click Submit.</li>
+<li>Click Finish.  </li>
+<li>You will be redirected to a page where you can follow more Challenges. Select any challenges you wish to follow. 
+<li>Click Submit OR Cancel if you do not select any challenges. </li><br>
+            <b>NOTE:</b> You will receive an email from GSA, Technology Transformation Services (gsa-tts@notify.gsa.gov) with the subject “Subscription Change Confirmation”.  Stop receiving notices at any time by clicking Subscriber Preferences Page at the bottom of any GovDelivery email received.
+
+
+          </ol></li>
 <li>Save Challenge - save challenge to your account, log into the Solver Portal to view a list of your saved challenges.
 Continue with section ii. Save Challenge to Your Account below.</li>
         </ul>
