@@ -7,10 +7,10 @@ title: User Guide for Public Solvers | Explore Active Challenges
   <div class="col-sm-12">{% include user-guide-intro.html %}</div>
 </div>
 <div class="row" style="padding-top: 10px; padding-bottom: 10px;">
-  <div class="col-sm-11" style="padding-top: 6px; background-color: #005ea2; color: #ffffff; text-align: center;"><h2>Explore Active Challenges</h2></div>
+  <div class="col-sm-12" style="padding-top: 6px; background-color: #005ea2; color: #ffffff; text-align: center;"><h2>Explore Active Challenges</h2></div>
 </div>
 <div class="row">
-  <div class="col-sm-8">
+  <div class="col-sm-7">
     <p>Review challenges currently accepting public submissions.</p>
     <ol style="padding-left: 50px;">
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click the <b>Find a Challenge</b> button or scroll down to the bottom of the homepage to browse Active Challenge tiles.</span></li><br>
