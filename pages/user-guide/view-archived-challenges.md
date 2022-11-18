@@ -13,12 +13,11 @@ title: User Guide for Public Solvers | View Archived Challenges
   <div class="col-sm-7">
     <p>Review challenges no longer open to public submissions.</p>
     <ol style="padding-left: 50px;">
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Scroll down to the footer and click Archived challenges.</span></li><br>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Scroll down to the footer and click <b>Archived challenges</b>.</span></li><br><br>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Filter by year using the dropdown. </span></li>
       
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click the challenge tile to view challenge details.</span></li>
       <b>NOTE:</b>  Some challenge tiles redirect to an external site which will open in a new browser tab.
-   
     </ol>
   </div>
   <div class="col-sm-1">&nbsp;</div>
