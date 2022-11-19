@@ -11,12 +11,19 @@ title: User Guide for Public Solvers | Share Challenges
 </div>
 <div class="row">
   <div class="col-sm-7">
-    <p>Search the Challenge.Gov to locate a challenge of interest.</p>
+    <p>Share a challenge via Facebook, LinkedIn, Twitter or Email. <b>NOTE:</b> Feature is not available for challenges that redirect to an external challenge site from the challenge tile.
+</p>
     <ol style="padding-left: 50px;">
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Locate the search box (white box with looking glass icon in the top right corner.</span></li><br>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter challenge name or keywords to search into the search box then click the looking glass icon.</span></li><br>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Review list of search results.</span></li><br>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click the challenge name to access the challenge profile.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From challenge details page, click Share in the general information section of the page.</span></li><br>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Select the desired platform you wish to share to. You may be prompted to log into your selected platform account.</span></li><br>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Pre-populated text will appear with a link to the challenge listing and recommended hashtags.  Add a personal note about the challenge and why you are sharing it.</span></li><br>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click the button to share:
+        <ul>
+          <li>Facebook => “Post to Facebook”</li>
+          <li>LinkedIn => “Share in a post” or “Send as private message”</li>
+          <li>Twitter => “Tweet”</li>
+          <li>Email => “Send"</li>
+        </ul></span></li>
     </ol>
   </div>
   <div class="col-sm-1">&nbsp;</div>
