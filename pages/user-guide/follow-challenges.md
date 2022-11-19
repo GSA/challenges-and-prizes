@@ -13,22 +13,22 @@ title: User Guide for Public Solvers | Follow Challenges
 </div>
 <div class="row">
   <div class="col-sm-7">
-    <p>Search the Challenge.Gov to locate a challenge of interest.<br>
+    <p>Search the Challenge.Gov to locate a challenge of interest.<br><br>
       <b>NOTE:</b> Feature is not available for challenges that redirect to an external challenge site from the challenge tile.</p>
     <ol style="padding-left: 50px;">
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From challenge details page, click <b>Follow challenge</b> in the general information section of the page. </span></li>
       <br>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click one of these options:</span>
         <ul>
-			<li>Follow challenge - no user account or log-in required</li>
+			<li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Follow challenge - no user account or log-in required</span></li>
             <ol>
-              <li>Enter your Email Address and click Submit.</li>
-              <li>Click Finish. </li>
-              <li>You will be redirected to a page where you can follow more Challenges. Select any challenges you wish to follow.</li>
-              <li>Click Submit OR Cancel if you do not select any challenges. <b>NOTE:</b> You will receive an email from GSA, Technology Transformation Services (gsa-tts@notify.gsa.gov) with the subject “Subscription Change Confirmation”.  Stop receiving notices at any time by clicking Subscriber Preferences Page at the bottom of any GovDelivery email received. </li>
+		    <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter your Email Address and click <b>Submit.</b></span></li>
+              <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click Finish.</span></li>
+              <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">You will be redirected to a page where you can follow more Challenges. Select any challenges you wish to follow.</span></li>
+              <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click Submit OR Cancel if you do not select any challenges. <b>NOTE:</b> You will receive an email from GSA, Technology Transformation Services (gsa-tts@notify.gsa.gov) with the subject “Subscription Change Confirmation”.  Stop receiving notices at any time by clicking Subscriber Preferences Page at the bottom of any GovDelivery email received.</span></li>
               <br>
             </ol>
-          <li>Save Challenge - save challenge to your account, log into the Solver Portal to view a list of your saved challenges.
+          <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Save Challenge - save challenge to your account, log into the Solver Portal to view a list of your saved challenges.
             Continue with section ii. Save Challenge to Your Account below.</li>
         </ul>
 </li>
