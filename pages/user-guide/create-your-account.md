@@ -1,5 +1,5 @@
 ---
-permalink: /user-guide/screate-your-account/
+permalink: /user-guide/create-your-account/
 layout: page
 title: User Guide for Public Solvers | Create Your Account
 ---
