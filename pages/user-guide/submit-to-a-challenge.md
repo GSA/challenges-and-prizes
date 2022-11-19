@@ -27,10 +27,10 @@ title: User Guide for Public Solvers | Submit to a Challenge
 </span></li>
              <br>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Log in to your Challenge.Gov Solver account
-NOTE: For help logging in or creating a user account refer to Section III.A - Create Your Challenge.Gov User Account or Section III.B - Log in to the Solver Portal of this user guide.</span></li>
+NOTE: For help logging in or creating a user account visit https://federalist-2c628203-05c2-48ab-8f87-3eda79380559.sites.pages.cloud.gov/preview/gsa/challenges-and-prizes/CHAL-1279/user-guide/create-your-account/.</span></li>
        <br>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Complete challenge submission form as directed. 
-        NOTE: Click  <b>Save draft</b> at any point to save and continue working at a later time.</span></li>
+        <b>NOTE:</b> Click  <b>Save draft</b> at any point to save and continue working at a later time.</span></li>
        <br>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click box next to <b>“I have read the rules, terms and conditions of this challenge”</b>.</span></li>
         <br>
