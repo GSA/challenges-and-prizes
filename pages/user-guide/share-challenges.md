@@ -11,7 +11,7 @@ title: User Guide for Public Solvers | Share Challenges
 </div>
 <div class="row">
   <div class="col-sm-7">
-    <p>Share a challenge via Facebook, LinkedIn, Twitter or Email.<br><b>NOTE:</b> Feature is not available for challenges that redirect to an external challenge site from the challenge tile.
+    <p>Share a challenge via Facebook, LinkedIn, Twitter or Email.<br><br><b>NOTE:</b> Feature is not available for challenges that redirect to an external challenge site from the challenge tile.
 </p>
     <ol style="padding-left: 50px;">
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From challenge details page, click Share in the general information section of the page.</span></li><br>
