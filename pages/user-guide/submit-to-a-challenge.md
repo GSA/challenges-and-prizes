@@ -15,9 +15,9 @@ title: User Guide for Public Solvers | Submit to a Challenge
   <div class="col-sm-7">
     <p>Submit your entry!<br><br>
 
-      <b>NOTE:</b> Only available for challenges accepting submissions via the Challenge.Gov portal.  These challenges will have an orange Apply for this challenge button in the general information section of the challenge details page</p>
+      <b>NOTE:</b> Only available for challenges accepting submissions via the Challenge.Gov portal.  These challenges will have an orange <b>Apply for this challenge</b> button in the general information section of the challenge details page</p>
     <ol style="padding-left: 50px;">
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Carefully review the information on How to enter tab and follow instructions provided to prepare your submission.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Carefully review the information on the <b>How to enter</b> tab and follow instructions provided to prepare your submission.</span></li>
       <br>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click the <b>Rules</b> tab located in the challenge details navigation bar and review rules, eligibility, terms and conditions information to ensure your entry meets challenge participation requirements.</span></li>
       <br>
