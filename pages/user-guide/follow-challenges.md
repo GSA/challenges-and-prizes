@@ -28,11 +28,9 @@ title: User Guide for Public Solvers | Follow Challenges
               <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click Submit OR Cancel if you do not select any challenges. <b>NOTE:</b> You will receive an email from GSA, Technology Transformation Services (gsa-tts@notify.gsa.gov) with the subject “Subscription Change Confirmation”.  Stop receiving notices at any time by clicking Subscriber Preferences Page at the bottom of any GovDelivery email received.</span></li>
               <br>
             </ol>
-          <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Save Challenge - save challenge to your account, log into the Solver Portal to view a list of your saved challenges.
-		  Continue with section ii. Save Challenge to Your Account below.</span></li>
+          <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Save Challenge - save challenge to your account, log into the Solver Portal to view a list of your saved challenges.</span></li>
 		  <ol>
-		    <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Log into Challenge.Gov Solver Portal
-</b></span></li>
+		    <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Log into Challenge.Gov Solver Portal.</span></li>
               <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click Accept and Sign-in to acknowledge the terms of use.
 </span></li>
               <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter Email address and Password associated with your account and click Sign in.</span></li>
@@ -42,7 +40,6 @@ title: User Guide for Public Solvers | Follow Challenges
             </ol>
         </ul>
 </li>
-      <br>
       <b>NOTE:</b> Challenge.Gov uses GovDelivery to allow users to follow challenges and receive challenge-related information via email.  GovDelivery is used by many Federal agencies to deliver content important to you. Visit GovDelivery Help at subscriberhelp.granicus.com.
     </ol>
   </div>
