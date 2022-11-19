@@ -1,5 +1,5 @@
 ---
-permalink: /user-guide/log-into-solver-portalt/
+permalink: /user-guide/log-into-solver-portal/
 layout: page
 title: User Guide for Public Solvers | Log Into Solver Portal
 ---
