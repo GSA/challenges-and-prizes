@@ -13,15 +13,30 @@ title: User Guide for Public Solvers | Submit to a Challenge
 </div>
 <div class="row">
   <div class="col-sm-7">
-    <p>Send an email with your challenge-related questions to the Challenge Management Team from the sponsoring agency.<br><b>NOTE:</b> This feature is not available for challenges that redirect to an external challenge site from the challenge tile.</p>
+    <p>Submit your entry!<br><br>
+
+      <b>NOTE:</b> Only available for challenges accepting submissions via the Challenge.Gov portal.  These challenges will have an orange Apply for this challenge button in the general information section of the challenge details page</p>
     <ol style="padding-left: 50px;">
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From challenge details page, click on the contact tab located in the challenge details navigation bar in the middle of the page.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Carefully review the information on How to enter tab and follow instructions provided to prepare your submission.</span></li>
       <br>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter your Email Address.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click Rules tab located in the challenge details navigation bar and review rules, eligibility, terms and conditions information to ensure your entry meets challenge participation requirements.</span></li>
       <br>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter your question or comment and click <b>Submit</b>. You will receive an email from <a href="mailto:team@challenge.gov">team@challenge.gov</a> confirming your message has been sent.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click Apply for this challenge.</span></li>
             <br>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Be on the lookout for an email from the Challenge Management Team.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click Accept and Sign-in to access the Solver Portal.
+</span></li>
+             <br>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Log in to your Challenge.Gov Solver account
+NOTE: For help logging in or creating a user account refer to Section III.A - Create Your Challenge.Gov User Account or Section III.B - Log in to the Solver Portal of this user guide.</span></li>
+       <br>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Complete challenge submission form as directed. 
+        NOTE: Click  <b>Save draft</b> at any point to save and continue working at a later time.</span></li>
+       <br>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click box next to <b>“I have read the rules, terms and conditions of this challenge”</b>.</span></li>
+        <br>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Review and submit</b>  If you’d like to make edits prior to submitting, click <b>Edit</b>.</span></li>
+              <br>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Submit</b>. You will receive an email from team@challenge.gov with the subject “Challenge.gov - Submission created for [Name of Challenge]”.</span></li>
     </ol>
   </div>
   <div class="col-sm-1">&nbsp;</div>
