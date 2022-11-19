@@ -19,11 +19,11 @@ title: User Guide for Public Solvers | Submit to a Challenge
     <ol style="padding-left: 50px;">
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Carefully review the information on How to enter tab and follow instructions provided to prepare your submission.</span></li>
       <br>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click Rules tab located in the challenge details navigation bar and review rules, eligibility, terms and conditions information to ensure your entry meets challenge participation requirements.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click the <b>Rules</b> tab located in the challenge details navigation bar and review rules, eligibility, terms and conditions information to ensure your entry meets challenge participation requirements.</span></li>
       <br>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click Apply for this challenge.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Apply for this challenge</b>.</span></li>
             <br>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click Accept and Sign-in to access the Solver Portal.
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Accept and Sign-in</b> to access the Solver Portal.
 </span></li>
              <br>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Log in to your Challenge.Gov Solver account
