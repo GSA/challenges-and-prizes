@@ -29,7 +29,14 @@ title: User Guide for Public Solvers | Follow Challenges
               <br>
             </ol>
           <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Save Challenge - save challenge to your account, log into the Solver Portal to view a list of your saved challenges.
-            Continue with section ii. Save Challenge to Your Account below.</li>
+		  Continue with section ii. Save Challenge to Your Account below.</span></li>
+		  <ol>
+		    <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter your Email Address and click <b>Submit.</b></span></li>
+              <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click Finish.</span></li>
+              <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">You will be redirected to a page where you can follow more Challenges. Select any challenges you wish to follow.</span></li>
+              <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click Submit OR Cancel if you do not select any challenges. <b>NOTE:</b> You will receive an email from GSA, Technology Transformation Services (gsa-tts@notify.gsa.gov) with the subject “Subscription Change Confirmation”.  Stop receiving notices at any time by clicking Subscriber Preferences Page at the bottom of any GovDelivery email received.</span></li>
+              <br>
+            </ol>
         </ul>
 </li>
       <br>
