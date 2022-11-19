@@ -11,7 +11,7 @@ title: User Guide for Public Solvers | Using the Search Bar to Find Challenges
 </div>
 <div class="row">
   <div class="col-sm-7">
-    <p>Search the Challenge.Gov to locate a challenge of interest.</p>
+    <p>Search Challenge.Gov to locate a challenge of interest.</p>
     <ol style="padding-left: 50px;">
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Locate the search box (white box with looking glass icon in the top right corner.</span></li><br>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter challenge name or keywords to search into the search box then click the looking glass icon.</span></li><br>
