@@ -24,12 +24,13 @@ title: User Guide for Public Solvers | Save Challenges
         <li>An account is required to save challenges to your account.</li>
         <li>You will be directed to log into the Solver Portal if you are not currently logged in.</li>
       </ul>
-      <br>
       <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Log into Challenge.Gov Solver Portal.</span></li><br>
       <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Accept and Sign-in</b> to acknowledge the terms of use. </span></li><br>
       <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter the email address and password associated with your account and click <b>Sign in</b>.</span></li><br>
       <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Authenticate your account using the security method selected when you created your account.</span></li><br>
       <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Finish</b>.</span></li>
+      <br>
+      <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">You will be directed into the Solver Portal where you then click <b>Finish</b> to confirm your saved challenge.</span></li>
     </ol>
   </div>
   <div class="col-sm-1">&nbsp;</div>
