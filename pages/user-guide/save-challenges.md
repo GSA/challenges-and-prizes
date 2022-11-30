@@ -1,14 +1,14 @@
 ---
 permalink: /user-guide/saving-challenges/
 layout: page
-title: User Guide for Public Solvers | Saving Challenges 
+title: User Guide for Public Solvers | Save Challenges 
 ---
 <div class="row">
   <div class="col-sm-12">{% include user-guide-intro.html %}</div>
 </div>
 <div class="row" style="padding-top: 10px; padding-bottom: 30px;">
   <div class="col-sm-12" style="padding-top: 6px; background-color: #005ea2; color: #ffffff; text-align: center;">
-    <h2>Saving Challenges</h2>
+    <h2>Save Challenges</h2>
   </div>
 </div>
 <div class="row">
