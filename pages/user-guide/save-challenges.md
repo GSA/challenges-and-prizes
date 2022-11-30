@@ -19,7 +19,7 @@ title: User Guide for Public Solvers | Save Challenges
     <ol style="padding-left: 50px;">
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From challenge details page, click <b>Follow challenge</b> in the general information section of the page. </span></li>
       <br>
-      <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Save Challenge</b> (An account is required to save challenges)</span></li>
+      <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Save Challenge</b> (An account is required to save challenges)</span></li><br>
       <ul>
         <li>If you are not currently logged in, you will be prompted to do so.</li><br>
         <ul>
