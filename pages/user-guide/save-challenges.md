@@ -19,18 +19,20 @@ title: User Guide for Public Solvers | Save Challenges
     <ol style="padding-left: 50px;">
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From challenge details page, click <b>Follow challenge</b> in the general information section of the page. </span></li>
       <br>
-      <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Save Challenge</b></span></li>
+      <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Save Challenge</b> (An account is required to save challenges)</span></li>
       <ul>
-        <li>An account is required to save challenges to your account.</li>
-        <li>You will be directed to log into the Solver Portal if you are not currently logged in.</li>
-      </ul>
-      <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Log into Challenge.Gov Solver Portal.</span></li><br>
+        <li>If you are not currently logged in, you propted to do so.</li>
+        <ul>
+                <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Log into Challenge.Gov Solver Portal.</span></li><br>
       <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Accept and Sign-in</b> to acknowledge the terms of use. </span></li><br>
       <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter the email address and password associated with your account and click <b>Sign in</b>.</span></li><br>
       <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Authenticate your account using the security method selected when you created your account.</span></li><br>
       <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Finish</b>.</span></li>
       <br>
-      <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">You will be directed into the Solver Portal where you then click <b>Finish</b> to confirm your saved challenge.</span></li>
+      <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">You will be directed into the Solver Portal where you then click <b>Finish</b> to confirm your saved challenge.</span></li></ul>
+        <li>If you are already logged in, you will be directed into the Solver Portal to complete the action by clicking <b>Save</b>.</li>
+      </ul><br>
+
     </ol>
   </div>
   <div class="col-sm-1">&nbsp;</div>
