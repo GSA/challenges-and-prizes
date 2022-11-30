@@ -1,5 +1,5 @@
 ---
-permalink: /user-guide/saving-challenges/
+permalink: /user-guide/save-challenges/
 layout: page
 title: User Guide for Public Solvers | Save Challenges 
 ---
@@ -28,8 +28,7 @@ title: User Guide for Public Solvers | Save Challenges
 			  <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Finish</b>.</span></li>
               <br>
             </ol>
-        </ul>
-</li>
+      
       <b>NOTE:</b> Challenge.Gov uses GovDelivery to allow users to follow challenges and receive challenge-related information via email.  GovDelivery is used by many Federal agencies to deliver content important to you. Visit GovDelivery Help at subscriberhelp.granicus.com.
     </ol>
   </div>
