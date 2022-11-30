@@ -13,24 +13,26 @@ title: User Guide for Public Solvers | Save Challenges
 </div>
 <div class="row">
   <div class="col-sm-7">
-    <p>Search the Challenge.Gov to locate a challenge of interest.<br><br>
+    <p>Search the Challenge.Gov to locate a challenge of interest.<br>
+      <br>
       <b>NOTE:</b> Feature is not available for challenges that redirect to an external challenge site from the challenge tile.</p>
     <ol style="padding-left: 50px;">
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From challenge details page, click <b>Follow challenge</b> in the general information section of the page. </span></li>
       <br>
-          <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Save Challenge</b>
-		  <li>An account is required to save challenges to your account.</li>
-		  <li>You will be directed to log into the Solver Portal.</span></li>
-	    </li><br>
-		
-		    <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Log into Challenge.Gov Solver Portal.</span></li>
-              <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Accept and Sign-in</b> to acknowledge the terms of use.
-</span></li>
-              <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter the email address and password associated with your account and click <b>Sign in</b>.</span></li>
-              <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Authenticate your account using the security method selected when you created your account.</span></li>
-			  <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Finish</b>.</span></li>
-            </ol>
+      <ul>
+        <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Save Challenge</b></span></li>
+        <li>An account is required to save challenges to your account.</li>
+        <li>You will be directed to log into the Solver Portal.</li>
+      </ul>
+      <br>
+      <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Log into Challenge.Gov Solver Portal.</span></li>
+      <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Accept and Sign-in</b> to acknowledge the terms of use. </span></li>
+      <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter the email address and password associated with your account and click <b>Sign in</b>.</span></li>
+      <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Authenticate your account using the security method selected when you created your account.</span></li>
+      <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Finish</b>.</span></li>
+    </ol>
   </div>
   <div class="col-sm-1">&nbsp;</div>
   <div class="col-sm-4"> {% include user-guide-nav.html %} </div>
 </div>
+
