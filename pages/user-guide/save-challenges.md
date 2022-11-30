@@ -19,10 +19,10 @@ title: User Guide for Public Solvers | Save Challenges
     <ol style="padding-left: 50px;">
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From challenge details page, click <b>Follow challenge</b> in the general information section of the page. </span></li>
       <br>
+      <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Save Challenge</b></span></li>
       <ul>
-        <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Save Challenge</b></span></li>
         <li>An account is required to save challenges to your account.</li>
-        <li>You will be directed to log into the Solver Portal.</li>
+        <li>You will be directed to log into the Solver Portal if you are not currently logged in.</li>
       </ul>
       <br>
       <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Log into Challenge.Gov Solver Portal.</span></li>
