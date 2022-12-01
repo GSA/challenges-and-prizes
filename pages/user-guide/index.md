@@ -55,15 +55,15 @@ title: User Guide for Public Solvers
   </div>
   <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-search" style="font-size: 2em; padding-bottom: 20px;" title="Exploring active challenges"></i>
-          <h3 class="card-title text-center">Share Active Challenges</h3>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-share" style="font-size: 2em; padding-bottom: 20px;" title="Share challenges"></i>
+          <h3 class="card-title text-center">Share Challenges</h3>
           </a>
     </div>
   </div>
 </div>
     <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/print-challenges/"><i class="fas fa-search" style="font-size: 2em; padding-bottom: 20px;" title="Exploring active challenges"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/print-challenges/"><i class="fas fa-print" style="font-size: 2em; padding-bottom: 20px;" title="Print challenges"></i>
           <h3 class="card-title text-center">Print Challenges</h3>
           </a>
       </div>
