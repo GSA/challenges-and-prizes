@@ -19,7 +19,7 @@ title: User Guide for Public Solvers | Submit to a Challenge
     <ol style="padding-left: 50px;">
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Carefully review the information on the <b>How to enter</b> tab and follow instructions provided to prepare your submission.</span></li>
       <br>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click the <b>Rules</b> tab located in the challenge details navigation bar and review rules, eligibility, terms and conditions information to ensure your entry meets challenge participation requirements.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click the <b>Rules</b> tab to review rules, eligibility, terms and conditions information to ensure your entry meets challenge participation requirements.</span></li>
       <br>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Apply for this challenge</b>.</span></li>
             <br>
