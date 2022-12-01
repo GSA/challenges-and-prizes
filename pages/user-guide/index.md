@@ -147,3 +147,20 @@ title: User Guide for Public Solvers
   </div>
   </div>
 
+<h2>Message Center</h2>
+<div class="row">
+  <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-trophy" style="font-size: 2em; padding-bottom: 20px;" title="Exploring active challenges"></i>
+        <h3 class="card-title text-center">View and respond to messages</h3>
+        </a> </div>
+    </div>
+  </div>
+  <div class="col-sm-3">
+      <div class="card">
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-archived-challenges/"><i class="fas fa-folder" style="font-size: 2em; padding-bottom: 20px;" title="Exploring active challenges"></i>
+          <h3 class="card-title text-center">More features</h3>
+          </a>
+      </div>
+    </div>
+  </div>
