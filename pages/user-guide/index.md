@@ -95,12 +95,12 @@ title: User Guide for Public Solvers
   </div>
 </div>
   </div>
-  <h2>Engage with a Challenge</h2>
+  <h2>The Solver Portal</h2>
 <div class="row">
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/follow-challenges/"><i class="fas fa-eye" style="font-size: 2em; padding-bottom: 20px;" title="Follow challenges"></i>
-        <h3 class="card-title text-center">Follow Challenges</h3>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/follow-challenges/"><i class="fas fa-user" style="font-size: 2em; padding-bottom: 20px;" title="Follow challenges"></i>
+        <h3 class="card-title text-center">Create your account</h3>
         </a> </div>
     </div>
   </div>
