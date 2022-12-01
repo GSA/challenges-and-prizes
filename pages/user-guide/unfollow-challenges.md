@@ -15,7 +15,7 @@ title: User Guide for Public Solvers | Unfollow Challenges
   <div class="col-sm-7">
     <p>Unfollow a challenge and unsubscribe from challenge-related email updates.</p>
     <ol style="padding-left: 50px;">
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From the bottom of any Challenge.Gov bulletin email, click <b>Subscriber Preferences Page</b>. To access this page directly, go to: https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?preferences=true</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From the bottom of any Challenge.Gov bulletin email, click <b>Subscriber Preferences Page</b>. <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?preferences=true">Click here too access this page directly</a></span></li>
       <br>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter your email address used to subscribe then click <b>Check to Delete</b> box next to challenge you no longer wish to follow and click <b>Submit</b>.</span></li>
       <br>
