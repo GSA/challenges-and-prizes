@@ -19,7 +19,7 @@ title: User Guide for Public Solvers | Contact Challenge Management
       <br>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter your email address.</span></li>
       <br>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter your question or comment then click <b>Submit</b>.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter your question or comment then click <b>Submit</b>.</span></li><br>
         <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">You will receive an email from <a href="mailto:team@challenge.gov">team@challenge.gov</a> confirming your message has been sent.</span></li>
             <br>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Be on the lookout for an email from the Challenge Management Team.</span></li>
