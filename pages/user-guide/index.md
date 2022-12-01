@@ -122,7 +122,7 @@ title: User Guide for Public Solvers
 </div>
     <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/remove-saved-challenges/"><i class="fas fa-trash" style="font-size: 2em; padding-bottom: 20px;" title="Remove saved challenges"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/remove-saved-challenges/"><i class="fas fa-erase" style="font-size: 2em; padding-bottom: 20px;" title="Remove saved challenges"></i>
           <h3 class="card-title text-center">Remove saved challenges</h3>
           </a>
       </div>
