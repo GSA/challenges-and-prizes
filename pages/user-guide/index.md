@@ -80,7 +80,7 @@ title: User Guide for Public Solvers
   </div>
   <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/save-challenges/"><i class="fas fa-pencil" style="font-size: 2em; padding-bottom: 20px;" title="Submit to a challenge"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/save-challenges/"><i class="fas fa-keyboard" style="font-size: 2em; padding-bottom: 20px;" title="Submit to a challenge"></i>
           <h3 class="card-title text-center">Submit to a Challenge</h3>
           </a>
       </div>
@@ -88,18 +88,10 @@ title: User Guide for Public Solvers
   </div>
   <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-share" style="font-size: 2em; padding-bottom: 20px;" title="Share challenges"></i>
-          <h3 class="card-title text-center">Share Challenges</h3>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/unfollow-challenges/"><i class="fas fa-eye-slash" style="font-size: 2em; padding-bottom: 20px;" title="Unfollow challenges"></i>
+          <h3 class="card-title text-center">Unfollow Challenges</h3>
           </a>
     </div>
   </div>
 </div>
-    <div class="col-sm-3">
-    <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/print-challenges/"><i class="fas fa-print" style="font-size: 2em; padding-bottom: 20px;" title="Print challenges"></i>
-          <h3 class="card-title text-center">Print Challenges</h3>
-          </a>
-      </div>
-    </div>
-  </div>
   </div>
