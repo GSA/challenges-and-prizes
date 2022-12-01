@@ -73,8 +73,8 @@ title: User Guide for Public Solvers
   <div class="row">
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/follow-challenges/"><i class="fas fa-eye" style="font-size: 2em; padding-bottom: 20px;" title="Follow challenges"></i>
-        <h3 class="card-title text-center">Follow Challenges</h3>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/follow-challenges/"><i class="fas fa-envelope" style="font-size: 2em; padding-bottom: 20px;" title="Follow challenges"></i>
+        <h3 class="card-title text-center">Contact the Team</h3>
         </a> </div>
     </div>
   </div>
