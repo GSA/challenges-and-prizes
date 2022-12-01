@@ -15,15 +15,15 @@ title: User Guide for Public Solvers
   <div class="col-sm-3">
     <div class="card">
       <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-search" style="font-size: 1em; padding-bottom: 20px;" title="Exploring active challenges"></i>
-        <h2 class="card-title text-center">Explore Active Challenges</h2>
+        <h3 class="card-title text-center">Explore Active Challenges</h3>
         </a> </div>
     </div>
   </div>
   <div class="col-sm-3">
     <div class="card">
       <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-search" style="font-size: 1em; padding-bottom: 20px;" title="Exploring active challenges"></i>
-          <h2 class="card-title text-center">Explore Active Challenges</h2>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-search" style="font-size: 2em; padding-bottom: 20px;" title="Exploring active challenges"></i>
+          <h3 class="card-title text-center">Explore Active Challenges</h3>
           </a> </div>
       </div>
     </div>
@@ -31,8 +31,8 @@ title: User Guide for Public Solvers
   <div class="col-sm-3">
     <div class="card">
       <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-search" style="font-size: 1em; padding-bottom: 20px;" title="Exploring active challenges"></i>
-          <h2 class="card-title text-center">Explore Active Challenges</h2>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-search" style="font-size: 2em; padding-bottom: 20px;" title="Exploring active challenges"></i>
+          <h3 class="card-title text-center">Explore Active Challenges</h3>
           </a> </div>
       </div>
     </div>
@@ -42,16 +42,16 @@ title: User Guide for Public Solvers
 <div class="row">
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-search" style="font-size: 1em; padding-bottom: 20px;" title="Exploring active challenges"></i>
-        <h2 class="card-title text-center">Follow Challenges</h2>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-search" style="font-size: 2em; padding-bottom: 20px;" title="Exploring active challenges"></i>
+        <h3 class="card-title text-center">Follow Challenges</h3>
         </a> </div>
     </div>
   </div>
   <div class="col-sm-3">
     <div class="card">
       <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-search" style="font-size: 1em; padding-bottom: 20px;" title="Exploring active challenges"></i>
-          <h2 class="card-title text-center">Save Challenges</h2>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-search" style="font-size: 2em; padding-bottom: 20px;" title="Exploring active challenges"></i>
+          <h3 class="card-title text-center">Save Challenges</h3>
           </a> </div>
       </div>
     </div>
@@ -59,8 +59,8 @@ title: User Guide for Public Solvers
   <div class="col-sm-3">
     <div class="card">
       <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-search" style="font-size: 1em; padding-bottom: 20px;" title="Exploring active challenges"></i>
-          <h2 class="card-title text-center">Share Active Challenges</h2>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-search" style="font-size: 2em; padding-bottom: 20px;" title="Exploring active challenges"></i>
+          <h3 class="card-title text-center">Share Active Challenges</h3>
           </a> </div>
       </div>
     </div>
