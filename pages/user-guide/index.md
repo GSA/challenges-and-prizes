@@ -106,23 +106,23 @@ title: User Guide for Public Solvers
   </div>
   <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/save-challenges/"><i class="fas fa-save" style="font-size: 2em; padding-bottom: 20px;" title="Save challenges"></i>
-          <h3 class="card-title text-center">Logging in</h3>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/save-challenges/"><i class="fas fa-sign-in" style="font-size: 2em; padding-bottom: 20px;" title="Save challenges"></i>
+          <h3 class="card-title text-center">Log in</h3>
           </a>
       </div>
     </div>
   </div>
   <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-share" style="font-size: 2em; padding-bottom: 20px;" title="Share challenges"></i>
-          <h3 class="card-title text-center">Logging out</h3>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-sign-out" style="font-size: 2em; padding-bottom: 20px;" title="Share challenges"></i>
+          <h3 class="card-title text-center">Log out</h3>
           </a>
     </div>
   </div>
 </div>
     <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/print-challenges/"><i class="fas fa-print" style="font-size: 2em; padding-bottom: 20px;" title="Print challenges"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/print-challenges/"><i class="fas fa-trash" style="font-size: 2em; padding-bottom: 20px;" title="Print challenges"></i>
           <h3 class="card-title text-center">Remove saved challenges</h3>
           </a>
       </div>
@@ -132,26 +132,18 @@ title: User Guide for Public Solvers
   <div class="row">
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/follow-challenges/"><i class="fas fa-envelope" style="font-size: 2em; padding-bottom: 20px;" title="Follow challenges"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/follow-challenges/"><i class="fas fa-edit" style="font-size: 2em; padding-bottom: 20px;" title="Follow challenges"></i>
         <h3 class="card-title text-center">Edit challenge submissions</h3>
         </a> </div>
     </div>
   </div>
   <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/save-challenges/"><i class="fas fa-keyboard" style="font-size: 2em; padding-bottom: 20px;" title="Submit to a challenge"></i>
-          <h3 class="card-title text-center">Submit to a Challenge</h3>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/save-challenges/"><i class="fas fa-trash" style="font-size: 2em; padding-bottom: 20px;" title="Submit to a challenge"></i>
+          <h3 class="card-title text-center">Delete challenge submission</h3>
           </a>
       </div>
     </div>
   </div>
-  <div class="col-sm-3">
-    <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/unfollow-challenges/"><i class="fas fa-eye-slash" style="font-size: 2em; padding-bottom: 20px;" title="Unfollow challenges"></i>
-          <h3 class="card-title text-center">Delete saved challenges</h3>
-          </a>
-    </div>
-  </div>
-</div>
   </div>
 
