@@ -151,14 +151,14 @@ title: User Guide for Public Solvers
 <div class="row">
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-respond-to-messages/"><i class="fas fa-chat" style="font-size: 2em; padding-bottom: 20px;" title="View and respond to messages"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-respond-to-messages/"><i class="fas fa-comments" style="font-size: 2em; padding-bottom: 20px;" title="View and respond to messages"></i>
         <h3 class="card-title text-center">View and respond to messages</h3>
         </a> </div>
     </div>
   </div>
   <div class="col-sm-3">
       <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/message-center-features/"><i class="fas fa-info" style="font-size: 2em; padding-bottom: 20px;" title="More message center features"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/message-center-features/"><i class="far fa-comments" style="font-size: 2em; padding-bottom: 20px;" title="More message center features"></i>
           <h3 class="card-title text-center">More message center features</h3>
           </a>
       </div>
