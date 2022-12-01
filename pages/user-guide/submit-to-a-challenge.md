@@ -24,7 +24,7 @@ title: User Guide for Public Solvers | Submit to a Challenge
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Apply for this challenge</b>.</span></li>
             <br>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Accept and Sign-in</b> to access the Solver Portal.
-</span> <a href="https://federalist-2c628203-05c2-48ab-8f87-3eda79380559.sites.pages.cloud.gov/preview/gsa/challenges-and-prizes/CHAL-1279/user-guide/create-your-account/">Need help logging in or creating a user account?</a></li>
+</span> <a href="{{ site.base-url }}/create-your-account/">Need help logging in or creating a user account?</a></li>
        <br>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Complete challenge submission form as directed. Click <b>Save draft</b> at any point to save and continue working at a later time.</span></li>
        <br>
