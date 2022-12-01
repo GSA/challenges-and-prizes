@@ -29,8 +29,8 @@ title: User Guide for Public Solvers
   </div>
   <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-search" style="font-size: 2em; padding-bottom: 20px;" title="Exploring active challenges"></i>
-          <h3 class="card-title text-center">Explore Active Challenges</h3>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/search-for-challenges/"><i class="fas fa-search" style="font-size: 2em; padding-bottom: 20px;" title="Exploring active challenges"></i>
+          <h3 class="card-title text-center">Search for challenges</h3>
           </a>
       </div>
     </div>
@@ -55,7 +55,7 @@ title: User Guide for Public Solvers
   </div>
   <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-share" style="font-size: 2em; padding-bottom: 20px;" title="Share challenges"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/share-challenges/"><i class="fas fa-share" style="font-size: 2em; padding-bottom: 20px;" title="Share challenges"></i>
           <h3 class="card-title text-center">Share<br>Challenges</h3>
           </a>
     </div>
@@ -73,14 +73,14 @@ title: User Guide for Public Solvers
   <div class="row">
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/follow-challenges/"><i class="fas fa-envelope" style="font-size: 2em; padding-bottom: 20px;" title="Follow challenges"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/contact-challenge-management/"><i class="fas fa-envelope" style="font-size: 2em; padding-bottom: 20px;" title="Contact the Team"></i>
         <h3 class="card-title text-center">Contact the Team</h3>
         </a> </div>
     </div>
   </div>
   <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/save-challenges/"><i class="fas fa-keyboard" style="font-size: 2em; padding-bottom: 20px;" title="Submit to a challenge"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/submit-to-a-challenge/"><i class="fas fa-keyboard" style="font-size: 2em; padding-bottom: 20px;" title="Submit to a challenge"></i>
           <h3 class="card-title text-center">Submit to a Challenge</h3>
           </a>
       </div>
@@ -99,14 +99,14 @@ title: User Guide for Public Solvers
 <div class="row">
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/follow-challenges/"><i class="fas fa-user" style="font-size: 2em; padding-bottom: 20px;" title="Follow challenges"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/create-your-account/"><i class="fas fa-user" style="font-size: 2em; padding-bottom: 20px;" title="Create your account"></i>
         <h3 class="card-title text-center">Create your account</h3>
         </a> </div>
     </div>
   </div>
   <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/save-challenges/"><i class="fas fa-sign-in" style="font-size: 2em; padding-bottom: 20px;" title="Save challenges"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/log-into-solver-portal/"><i class="fas fa-sign-in" style="font-size: 2em; padding-bottom: 20px;" title="Logging in"></i>
           <h3 class="card-title text-center">Logging<br>in</h3>
           </a>
       </div>
@@ -114,7 +114,7 @@ title: User Guide for Public Solvers
   </div>
   <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-sign-out" style="font-size: 2em; padding-bottom: 20px;" title="Share challenges"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/log-out-of-solver-portal/"><i class="fas fa-sign-out" style="font-size: 2em; padding-bottom: 20px;" title="Logging out"></i>
           <h3 class="card-title text-center">Logging<br>out</h3>
           </a>
     </div>
@@ -122,7 +122,7 @@ title: User Guide for Public Solvers
 </div>
     <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/print-challenges/"><i class="fas fa-trash" style="font-size: 2em; padding-bottom: 20px;" title="Print challenges"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/remove-saved-challenges/"><i class="fas fa-trash" style="font-size: 2em; padding-bottom: 20px;" title="Remove saved challenges"></i>
           <h3 class="card-title text-center">Remove saved challenges</h3>
           </a>
       </div>
@@ -132,15 +132,15 @@ title: User Guide for Public Solvers
   <div class="row">
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/follow-challenges/"><i class="fas fa-edit" style="font-size: 2em; padding-bottom: 20px;" title="Follow challenges"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/edit-challenge-submissions/"><i class="fas fa-edit" style="font-size: 2em; padding-bottom: 20px;" title="Edit challenge submissions"></i>
         <h3 class="card-title text-center">Edit challenge submissions</h3>
         </a> </div>
     </div>
   </div>
   <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/save-challenges/"><i class="fas fa-trash" style="font-size: 2em; padding-bottom: 20px;" title="Submit to a challenge"></i>
-          <h3 class="card-title text-center">Delete challenge submission</h3>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/delete-challenge-submissions/"><i class="fas fa-trash" style="font-size: 2em; padding-bottom: 20px;" title="Delete challenge submissions"></i>
+          <h3 class="card-title text-center">Delete challenge submissions</h3>
           </a>
       </div>
     </div>
@@ -151,15 +151,15 @@ title: User Guide for Public Solvers
 <div class="row">
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-chat" style="font-size: 2em; padding-bottom: 20px;" title="Exploring active challenges"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-respond-to-messages/"><i class="fas fa-chat" style="font-size: 2em; padding-bottom: 20px;" title="View and respond to messages"></i>
         <h3 class="card-title text-center">View and respond to messages</h3>
         </a> </div>
     </div>
   </div>
   <div class="col-sm-3">
       <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-archived-challenges/"><i class="fas fa-info" style="font-size: 2em; padding-bottom: 20px;" title="Exploring active challenges"></i>
-          <h3 class="card-title text-center">More<br>features</h3>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/message-center-features/"><i class="fas fa-info" style="font-size: 2em; padding-bottom: 20px;" title="More message center features"></i>
+          <h3 class="card-title text-center">More message center features</h3>
           </a>
       </div>
     </div>
