@@ -20,7 +20,7 @@ title: User Guide for Public Solvers | Remove Saved Challenges
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From the Saved challenges page, view list of challenges saved to your account.</span></li><br>
         <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click a challenge tile to view the challenge details page which will appear in a new tab.</span></li><br>
 <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Remove</b> located on challenge tile then click <b>OK</b> to confirm. (Removing a challenge from your saved challenges will not unfollow you from the challenge and you will continue to receive challenge-related updates.  See <a href="{{ site.baseurl }}/user-guide/unfollow-challenges/">Unfollow a Challenge</a> for instructions on unsubscribing from challenge updates.</span></li>
-        </ul>
+        </ol>
   </div>
   <div class="col-sm-1">&nbsp;</div>
   <div class="col-sm-4"> {% include user-guide-nav.html %} </div>
