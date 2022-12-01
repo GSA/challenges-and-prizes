@@ -18,27 +18,26 @@ title: User Guide for Public Solvers
         <h2 class="card-title text-center">Explore Active Challenges</h2>
         </a> </div>
     </div>
-    <div class="col-sm-3">
+  </div>
+  <div class="col-sm-3">
+    <div class="card">
       <div class="card">
-        <div class="card">
-          <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-search" style="font-size: 1em; padding-bottom: 20px;" title="Exploring active challenges"></i>
-            <h2 class="card-title text-center">Explore Active Challenges</h2>
-            </a> </div>
-        </div>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-search" style="font-size: 1em; padding-bottom: 20px;" title="Exploring active challenges"></i>
+          <h2 class="card-title text-center">Explore Active Challenges</h2>
+          </a> </div>
       </div>
-      <div class="col-sm-3">
-        <div class="card">
-          <div class="card">
-            <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-search" style="font-size: 1em; padding-bottom: 20px;" title="Exploring active challenges"></i>
-              <h2 class="card-title text-center">Explore Active Challenges</h2>
-              </a> </div>
-          </div>
-        </div>
+    </div>
+  </div>
+  <div class="col-sm-3">
+    <div class="card">
+      <div class="card">
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-search" style="font-size: 1em; padding-bottom: 20px;" title="Exploring active challenges"></i>
+          <h2 class="card-title text-center">Explore Active Challenges</h2>
+          </a> </div>
       </div>
     </div>
   </div>
 </div>
-
 <h3>Engage with a Challenge</h3>
 <div class="row">
   <div class="col-sm-3">
@@ -47,22 +46,22 @@ title: User Guide for Public Solvers
         <h2 class="card-title text-center">Follow Challenges</h2>
         </a> </div>
     </div>
-    <div class="col-sm-3">
+  </div>
+  <div class="col-sm-3">
+    <div class="card">
       <div class="card">
-        <div class="card">
-          <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-search" style="font-size: 1em; padding-bottom: 20px;" title="Exploring active challenges"></i>
-            <h2 class="card-title text-center">Save Challenges</h2>
-            </a> </div>
-        </div>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-search" style="font-size: 1em; padding-bottom: 20px;" title="Exploring active challenges"></i>
+          <h2 class="card-title text-center">Save Challenges</h2>
+          </a> </div>
       </div>
-      <div class="col-sm-3">
-        <div class="card">
-          <div class="card">
-            <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-search" style="font-size: 1em; padding-bottom: 20px;" title="Exploring active challenges"></i>
-              <h2 class="card-title text-center">Share Active Challenges</h2>
-              </a> </div>
-          </div>
-        </div>
+    </div>
+  </div>
+  <div class="col-sm-3">
+    <div class="card">
+      <div class="card">
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-search" style="font-size: 1em; padding-bottom: 20px;" title="Exploring active challenges"></i>
+          <h2 class="card-title text-center">Share Active Challenges</h2>
+          </a> </div>
       </div>
     </div>
   </div>
