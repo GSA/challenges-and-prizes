@@ -106,7 +106,7 @@ title: User Guide for Public Solvers
   </div>
   <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/log-into-solver-portal/"><i class="fas fa-sign-in" style="font-size: 2em; padding-bottom: 20px;" title="Logging in"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/log-into-solver-portal/"><i class="fas fa-lock-open" style="font-size: 2em; padding-bottom: 20px;" title="Logging in"></i>
           <h3 class="card-title text-center">Logging<br>in</h3>
           </a>
       </div>
@@ -114,7 +114,7 @@ title: User Guide for Public Solvers
   </div>
   <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/log-out-of-solver-portal/"><i class="fas fa-sign-out" style="font-size: 2em; padding-bottom: 20px;" title="Logging out"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/log-out-of-solver-portal/"><i class="fas fa-lock" style="font-size: 2em; padding-bottom: 20px;" title="Logging out"></i>
           <h3 class="card-title text-center">Logging<br>out</h3>
           </a>
     </div>
