@@ -10,7 +10,7 @@ title: User Guide for Public Solvers
     <p>This guide provides step-by-step instructions for site visitor and public solver use of Challenge.Gov. </p>
   </div>
 </div>
-<h3>Explore Challenges</h3>
+<h2>Explore Challenges</h2>
 <div class="row">
   <div class="col-sm-3">
     <div class="card">
@@ -36,7 +36,7 @@ title: User Guide for Public Solvers
     </div>
   </div>
 </div>
-<h3>Engage with a Challenge</h3>
+<h2>Engage with a Challenge</h2>
 <div class="row">
   <div class="col-sm-3">
     <div class="card">
