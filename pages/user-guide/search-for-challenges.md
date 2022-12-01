@@ -1,13 +1,13 @@
 ---
-permalink: /user-guide/using-search-bar/
+permalink: /user-guide/search-for-challenges/
 layout: page
-title: User Guide for Public Solvers | Using the Search Bar to Find Challenges 
+title: User Guide for Public Solvers | Search for Challenges 
 ---
 <div class="row">
   <div class="col-sm-12">{% include user-guide-intro.html %}</div>
 </div>
 <div class="row" style="padding-top: 10px; padding-bottom: 30px;">
-  <div class="col-sm-12" style="padding-top: 6px; background-color: #005ea2; color: #ffffff; text-align: center;"><h2>Using the Search Bar to Find Challenges</h2></div>
+  <div class="col-sm-12" style="padding-top: 6px; background-color: #005ea2; color: #ffffff; text-align: center;"><h2>Search for Challenges</h2></div>
 </div>
 <div class="row">
   <div class="col-sm-7">
