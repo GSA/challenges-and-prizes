@@ -70,3 +70,36 @@ title: User Guide for Public Solvers
     </div>
   </div>
   </div>
+  <div class="row">
+  <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/follow-challenges/"><i class="fas fa-eye" style="font-size: 2em; padding-bottom: 20px;" title="Follow challenges"></i>
+        <h3 class="card-title text-center">Follow Challenges</h3>
+        </a> </div>
+    </div>
+  </div>
+  <div class="col-sm-3">
+    <div class="card">
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/save-challenges/"><i class="fas fa-save" style="font-size: 2em; padding-bottom: 20px;" title="Save challenges"></i>
+          <h3 class="card-title text-center">Save Challenges</h3>
+          </a>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-3">
+    <div class="card">
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-share" style="font-size: 2em; padding-bottom: 20px;" title="Share challenges"></i>
+          <h3 class="card-title text-center">Share Challenges</h3>
+          </a>
+    </div>
+  </div>
+</div>
+    <div class="col-sm-3">
+    <div class="card">
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/print-challenges/"><i class="fas fa-print" style="font-size: 2em; padding-bottom: 20px;" title="Print challenges"></i>
+          <h3 class="card-title text-center">Print Challenges</h3>
+          </a>
+      </div>
+    </div>
+  </div>
+  </div>
