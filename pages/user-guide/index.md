@@ -14,8 +14,8 @@ title: User Guide for Public Solvers
 <div class="row">
   <div class="col-sm-3">
     <div class="card">
-       <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><div class="card-body text-center"><i class="fas fa-trophy" style="font-size: 2em; padding-bottom: 20px; text-decoration: none !important;" title="Exploring active challenges"></i>
-        <h3 class="card-title text-center">Explore Active Challenges</h3>
+       <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><div class="card-body text-center"><i class="fas fa-trophy" style="font-size: 2em; padding-bottom: 20px; title="Exploring active challenges"></i>
+        <h3 class="card-title text-center" style="text-decoration: none !important;">Explore Active Challenges</h3>
       </div></a> 
     </div>
   </div>
