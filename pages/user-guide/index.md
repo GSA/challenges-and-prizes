@@ -107,7 +107,7 @@ title: User Guide for Public Solvers
   <div class="col-sm-3">
     <div class="card">
         <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/save-challenges/"><i class="fas fa-save" style="font-size: 2em; padding-bottom: 20px;" title="Save challenges"></i>
-          <h3 class="card-title text-center">Save Challenges</h3>
+          <h3 class="card-title text-center">Logging in</h3>
           </a>
       </div>
     </div>
@@ -115,7 +115,7 @@ title: User Guide for Public Solvers
   <div class="col-sm-3">
     <div class="card">
         <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-share" style="font-size: 2em; padding-bottom: 20px;" title="Share challenges"></i>
-          <h3 class="card-title text-center">Share Challenges</h3>
+          <h3 class="card-title text-center">Logging out</h3>
           </a>
     </div>
   </div>
@@ -123,7 +123,7 @@ title: User Guide for Public Solvers
     <div class="col-sm-3">
     <div class="card">
         <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/print-challenges/"><i class="fas fa-print" style="font-size: 2em; padding-bottom: 20px;" title="Print challenges"></i>
-          <h3 class="card-title text-center">Print Challenges</h3>
+          <h3 class="card-title text-center">Remove saved challenges</h3>
           </a>
       </div>
     </div>
@@ -133,7 +133,7 @@ title: User Guide for Public Solvers
   <div class="col-sm-3">
     <div class="card">
       <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/follow-challenges/"><i class="fas fa-envelope" style="font-size: 2em; padding-bottom: 20px;" title="Follow challenges"></i>
-        <h3 class="card-title text-center">Contact the Team</h3>
+        <h3 class="card-title text-center">Edit challenge submissions</h3>
         </a> </div>
     </div>
   </div>
@@ -148,7 +148,7 @@ title: User Guide for Public Solvers
   <div class="col-sm-3">
     <div class="card">
         <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/unfollow-challenges/"><i class="fas fa-eye-slash" style="font-size: 2em; padding-bottom: 20px;" title="Unfollow challenges"></i>
-          <h3 class="card-title text-center">Unfollow Challenges</h3>
+          <h3 class="card-title text-center">Delete saved challenges</h3>
           </a>
     </div>
   </div>
