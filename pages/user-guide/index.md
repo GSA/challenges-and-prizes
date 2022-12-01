@@ -10,7 +10,7 @@ title: User Guide for Public Solvers
     <p>This guide provides step-by-step instructions for site visitor and public solver use of Challenge.Gov. </p>
   </div>
 </div>
-<h2>Explore Challenges</h2>
+<h3>Explore Challenges</h3>
 <div class="row">
   <div class="col-sm-3">
     <div class="card">
@@ -39,3 +39,31 @@ title: User Guide for Public Solvers
   </div>
 </div>
 
+<h3>Engage with a Challenge</h3>
+<div class="row">
+  <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-search" style="font-size: 3em; padding-bottom: 20px;" title="Exploring active challenges"></i>
+        <h2 class="card-title text-center">Follow Challenges</h2>
+        </a> </div>
+    </div>
+    <div class="col-sm-3">
+      <div class="card">
+        <div class="card">
+          <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-search" style="font-size: 3em; padding-bottom: 20px;" title="Exploring active challenges"></i>
+            <h2 class="card-title text-center">Save Challenges</h2>
+            </a> </div>
+        </div>
+      </div>
+      <div class="col-sm-3">
+        <div class="card">
+          <div class="card">
+            <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-search" style="font-size: 3em; padding-bottom: 20px;" title="Exploring active challenges"></i>
+              <h2 class="card-title text-center">Share Active Challenges</h2>
+              </a> </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
