@@ -8,7 +8,7 @@ title: User Guide for Public Solvers | Remove Saved Challenges
 </div>
 <div class="row" style="padding-top: 10px; padding-bottom: 30px;">
   <div class="col-sm-12" style="padding-top: 6px; background-color: #005ea2; color: #ffffff; text-align: center;">
-    <h2>Manage Saved Challenges</h2>
+    <h2>Remove Saved Challenges</h2>
   </div>
 </div>
 <div class="row">
