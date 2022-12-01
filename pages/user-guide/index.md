@@ -80,8 +80,8 @@ title: User Guide for Public Solvers
   </div>
   <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/save-challenges/"><i class="fas fa-save" style="font-size: 2em; padding-bottom: 20px;" title="Save challenges"></i>
-          <h3 class="card-title text-center">Save Challenges</h3>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/save-challenges/"><i class="fas fa-pencil" style="font-size: 2em; padding-bottom: 20px;" title="Submit to a challenge"></i>
+          <h3 class="card-title text-center">Submit to a Challenge</h3>
           </a>
       </div>
     </div>
