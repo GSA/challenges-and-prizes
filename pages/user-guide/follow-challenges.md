@@ -27,19 +27,6 @@ title: User Guide for Public Solvers | Follow Challenges
               <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">You will be redirected to a page where you can follow more Challenges. Select any challenges you wish to follow.</span></li>
               <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Submit</b> when done or <b>Cancel</b> if you decide not to select any challenges. <b>NOTE:</b> You will receive an email from GSA, Technology Transformation Services (gsa-tts@notify.gsa.gov) with the subject “Subscription Change Confirmation”.  Stop receiving notices at any time by clicking Subscriber Preferences Page at the bottom of any GovDelivery email received.</span></li>
               <br>
-            </ol>
-          <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;"><b>Save Challenge</b> (save challenge to your account, log into the Solver Portal to view a list of your saved challenges)</span></li>
-		  <ol>
-		    <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Log into Challenge.Gov Solver Portal.</span></li>
-              <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Accept and Sign-in</b> to acknowledge the terms of use.
-</span></li>
-              <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter the email address and password associated with your account and click <b>Sign in</b>.</span></li>
-              <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Authenticate your account using the security method selected when you created your account.</span></li>
-			  <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Finish</b>.</span></li>
-              <br>
-            </ol>
-        </ul>
-</li>
       <b>NOTE:</b> Challenge.Gov uses GovDelivery to allow users to follow challenges and receive challenge-related information via email.  GovDelivery is used by many Federal agencies to deliver content important to you. Visit GovDelivery Help at subscriberhelp.granicus.com.
     </ol>
   </div>
