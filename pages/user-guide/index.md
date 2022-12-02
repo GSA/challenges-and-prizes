@@ -16,14 +16,14 @@ title: User Guide for Public Solvers
   <div class="col-sm-3">
     <div class="card"><a href="{{ site.baseurl }}/user-guide/explore-active-challenges/" style="text-decoration: none !important;">
        <div class="card-body text-center"> <i class="fas fa-trophy" style="font-size: 2em; padding-bottom: 20px;" title="Exploring active challenges"></i>
-        <h4 class="card-title text-center user-guide-title">Explore Active Challenges</h4>
+        <h4 class="card-title text-center user-guide-title">Explore active challenges</h4>
       </div></a>
     </div>
   </div>
   <div class="col-sm-3">
       <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-archived-challenges/" style="text-decoration: none !important;"><i class="fas fa-folder" style="font-size: 2em; padding-bottom: 20px;" title="Exploring active challenges"></i>
-          <h4 class="card-title text-center">View Archived Challenges</h4>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-archived-challenges/" style="text-decoration: none !important;"><i class="fas fa-folder" style="font-size: 2em; padding-bottom: 20px;" title="View archived challenges"></i>
+          <h4 class="card-title text-center">View archived challenges</h4>
           </a>
       </div>
     </div>
