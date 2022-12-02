@@ -13,7 +13,7 @@ title: User Guide for Public Solvers | Edit Challenge Submissions
 </div>
 <div class="row">
   <div class="col-sm-7">
-    <p>Edit challenge submissions any time prior to the submission period end.  See Section II.E - Submitting to a Challenge for instructions on challenge entry submission.<br><br>
+    <p>Edit challenge submissions any time prior to the submission period end.  See <a href="{{ site.baseurl }}/user-guide/submit-to-a-challenge/" title="Submit to a challenge" aria-label="Submit to a challenge">Submit to a challenge</a> for instructions on challenge entry submission.<br><br>
       <b>NOTE:</b> This feature is only available for challenges accepting submissions via the Challenge.Gov portal.  These challenges will have an orange <b>Apply for this challenge</b> button in the general information section of the challenge details page.</p>
     <ol style="padding-left: 50px;">
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From solver portal dashboard, click <b>My Submissions</b>.</span></li>
