@@ -26,7 +26,7 @@ title: User Guide for Public Solvers | Submit to a Challenge
        <br>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Complete challenge submission form as directed. Click <b>Save draft</b> at any point to save and continue working at a later time.</span></li>
        <br>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Check the box next to <b>“I have read the rules, terms and conditions of this challenge”</b>.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Select the box next to <b>“I have read the rules, terms and conditions of this challenge”</b>.</span></li>
         <br>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Review and submit</b>. If you’d like to make edits prior to submitting, click <b>Edit</b>.</span></li>
               <br>
