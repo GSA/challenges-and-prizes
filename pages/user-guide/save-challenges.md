@@ -20,7 +20,7 @@ title: User Guide for Public Solvers | Save Challenges
     <ol style="padding-left: 50px;">
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From challenge details page, click <b>Follow challenge</b> in the general information section of the page. </span></li>
       <br>
-     <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Save Challenge</b>. If you are not currently <a href="">logged in</a>, you will be prompted to do so.</span></li><br>
+     <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Save Challenge</b>. If you are not currently <a href="{{ site.baseurl }}/user-guide/log-into-solver-portal/" title="Logging in" aria-label="Loggin in" logged in</a>, you will be prompted to do so.</span></li><br>
            <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Log into Challenge.Gov Solver Portal.</span></li><br>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Accept and Sign-in</b> to acknowledge the terms of use. </span></li><br>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter the email address and password associated with your account and click <b>Sign in</b>.</span></li><br>
