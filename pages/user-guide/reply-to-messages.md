@@ -17,10 +17,10 @@ title: User Guide for Public Solvers | Reply to Messages
 
       <b>NOTE:</b> This feature is only available for challenges accepting submissions via the Challenge.Gov portal, and will only become available once you have submitted your entry.</p>
     <ol style="padding-left: 50px;">
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From Solver Portal Dashboard, click Message Center. </span></li><br>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From the Solver Portal dashboard, click <b>Message Center</b>. </span></li><br>
 <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Cick the “Message Snippet” for the message you wish to work with. A history of your conversation will appear at the top of the page.</span></li><br>
 <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">To reply, enter your message content in the text box at the button of the page. The editor allows you to adjust the font size and format, create bulleted and numbered lists, indent text, and add hyperlinks.</span></li><br>
-<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click Send Message at bottom of the page which will automatically queue your message to be sent.</span></li>
+<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Send Message</b> at bottom of the page which will automatically queue your message to be sent.</span></li>
     </ol>
   </div>
   <div class="col-sm-1">&nbsp;</div>
