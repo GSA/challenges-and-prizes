@@ -15,14 +15,14 @@ title: User Guide for Public Solvers
   <div class="col-sm-3">
     <div class="card">
        <div class="card-body text-center"><i class="fas fa-trophy" style="font-size: 2em; padding-bottom: 20px; title="Exploring active challenges"></i>
-        <h3 class="card-title text-center"><a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><span style="text-decoration: none !important;">Explore Active Challenges</span></a></h3>
+        <h4 class="card-title text-center"><a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><span style="text-decoration: none !important;">Explore Active Challenges</span></a></h4>
       </div>
     </div>
   </div>
   <div class="col-sm-3">
       <div class="card">
         <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-archived-challenges/"><i class="fas fa-folder" style="font-size: 2em; padding-bottom: 20px;" title="Exploring active challenges"></i>
-          <h3 class="card-title text-center">View Archived Challenges</h3>
+          <h4 class="card-title text-center">View Archived Challenges</h4>
           </a>
       </div>
     </div>
@@ -30,7 +30,7 @@ title: User Guide for Public Solvers
   <div class="col-sm-3">
     <div class="card">
         <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/search-for-challenges/"><i class="fas fa-search" style="font-size: 2em; padding-bottom: 20px;" title="Exploring active challenges"></i>
-          <h3 class="card-title text-center">Search for challenges</h3>
+          <h4 class="card-title text-center">Search for challenges</h4>
           </a>
       </div>
     </div>
