@@ -16,7 +16,7 @@ title: User Guide for Public Solvers | Follow Challenges
     <p>Receive challenge updates and other challenge-related information from the challenge manager via email.  Follow the challenge as a guest or save challenges to your Challenge.Gov account.<br>
       <br>
       <b>NOTE:</b> Feature is not available for challenges that redirect to an external challenge site from the challenge tile.</p>
-    <ul style="padding-left: 50px;">
+    <ol style="padding-left: 50px;">
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From challenge details page, click <b>Follow challenge</b> in the general information section of the page. </span></li>
       <br>
       <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;"><b>Follow challenge</b> (no user account or log-in required)</span></li><br>
@@ -26,7 +26,7 @@ title: User Guide for Public Solvers | Follow Challenges
       <li><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Submit</b> when done or <b>Cancel</b> if you decide not to select any challenges. <b>NOTE:</b> You will receive an email from GSA, Technology Transformation Services (gsa-tts@notify.gsa.gov) with the subject “Subscription Change Confirmation”.  Stop receiving notices at any time by clicking Subscriber Preferences Page at the bottom of any GovDelivery email received.</span></li>
       <br>
       <b>NOTE:</b> Challenge.Gov uses GovDelivery to allow users to follow challenges and receive challenge-related information via email.  GovDelivery is used by many Federal agencies to deliver content important to you. Visit GovDelivery Help at subscriberhelp.granicus.com.
-    </ul>
+    </ol>
   </div>
   <div class="col-sm-1">&nbsp;</div>
   <div class="col-sm-4"> {% include user-guide-nav.html %} </div>
