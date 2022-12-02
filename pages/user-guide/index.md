@@ -4,11 +4,6 @@ layout: page
 title: User Guide for Public Solvers
 ---
 
-<style>
-  h4 {
-  text-decoration: none !important
-  {
-  </style>
 <h1 class="text-center mb-6 font-weight-bold">User Guide for Public Solvers</h1>
 <div class="row">
   <div>
@@ -19,10 +14,10 @@ title: User Guide for Public Solvers
 <h2>Explore Challenges</h2>
 <div class="row">
   <div class="col-sm-3">
-    <div class="card">
-       <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/"><i class="fas fa-trophy" style="font-size: 2em; padding-bottom: 20px;" title="Exploring active challenges"></i>
-        <h4 class="card-title text-center user-guide-title">Explore Active Challenges</h4></a>
-      </div>
+    <div class="card"><a href="{{ site.baseurl }}/user-guide/explore-active-challenges/">
+       <div class="card-body text-center"> <i class="fas fa-trophy" style="font-size: 2em; padding-bottom: 20px;" title="Exploring active challenges"></i>
+        <h4 class="card-title text-center user-guide-title">Explore Active Challenges</h4>
+      </div></a>
     </div>
   </div>
   <div class="col-sm-3">
