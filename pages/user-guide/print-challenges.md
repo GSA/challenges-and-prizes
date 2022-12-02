@@ -17,7 +17,8 @@ title: User Guide for Public Solvers | Print Challenges
     <ol style="padding-left: 50px;">
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From challenge details page, click <b>Print challenge</b> located in the general information section of the page.</span></li>
       <br>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From print preview, select the print destination then click <b>Print</b>. Select <b>Save as PDF</b> to create a PDF file.</span>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From print preview, select the print destination then click <b>Print</b>.</li><br>
+        <li style="font-weight:900;">Select <b>Save as PDF</b> to create a PDF file.</span>
 </li>
     </ol>
   </div>
