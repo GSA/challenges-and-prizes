@@ -1,3 +1,10 @@
+.user-guide-title {
+        text-decoration: none !important;
+}
+
+.user-guide-title:hover {
+        text-decoration: underline;
+}
 
 .usa-sidenav__sublist>li  {
         text-decoration: none !important;
