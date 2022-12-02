@@ -15,7 +15,7 @@ title: User Guide for Public Solvers | Save Challenges
   <div class="col-sm-7">
     <p>Receive challenge updates and other challenge-related information from the challenge manager via email.  Save challenges to your Challenge.Gov account.<br><br>
 
-      <b>NOTE:</b> Feature is not available for challenges that redirect to an external challenge site from the challenge tile.<br>
+      <b>NOTE:</b> Feature is not available for challenges that redirect to an external site.<br>
   </p>
     <ol style="padding-left: 50px;">
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From challenge details page, click <b>Follow challenge</b> in the general information section of the page. </span></li>
