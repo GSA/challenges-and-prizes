@@ -166,7 +166,7 @@ title: User Guide for Public Solvers
   </div>
   <div class="col-sm-3">
       <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/message-center-features/"><i class="far fa-comments" style="font-size: 2em; padding-bottom: 20px;" title="More message center features"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/message-center-features/" style="text-decoration: none !important;"><i class="far fa-comments" style="font-size: 2em; padding-bottom: 20px;" title="More message center features"></i>
           <h4 class="card-title text-center">More message center features</h4>
           </a>
       </div>
