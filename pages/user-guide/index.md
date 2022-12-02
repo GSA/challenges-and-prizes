@@ -41,7 +41,7 @@ title: User Guide for Public Solvers
   <div class="col-sm-3">
     <div class="card">
       <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/follow-challenges/"><i class="fas fa-eye" style="font-size: 2em; padding-bottom: 20px;" title="Follow challenges"></i>
-        <h4 class="card-title text-center">Follow Challenges</h4>
+        <h4 class="card-title text-center">Follow<br>Challenges</h4>
         </a> </div>
     </div>
   </div>
@@ -74,7 +74,7 @@ title: User Guide for Public Solvers
   <div class="col-sm-3">
     <div class="card">
       <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/contact-challenge-management/"><i class="fas fa-envelope" style="font-size: 2em; padding-bottom: 20px;" title="Contact the Team"></i>
-        <h4 class="card-title text-center">Contact the Team</h4>
+        <h4 class="card-title text-center">Contact the<br>Team</h4>
         </a> </div>
     </div>
   </div>
@@ -152,14 +152,14 @@ title: User Guide for Public Solvers
   <div class="col-sm-3">
     <div class="card">
       <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-messages/"><i class="fas fa-inbox" style="font-size: 2em; padding-bottom: 20px;" title="View messages"></i>
-        <h4 class="card-title text-center">View messages</h4>
+        <h4 class="card-title text-center">View<br>messages</h4>
         </a> </div>
     </div>
   </div>
          <div class="col-sm-3">
     <div class="card">
       <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/reply-to-messages/"><i class="fas fa-comments" style="font-size: 2em; padding-bottom: 20px;" title="Reply to messages"></i>
-        <h4 class="card-title text-center">Reply to messages</h4>
+        <h4 class="card-title text-center">Reply to<br>messages</h4>
         </a> </div>
     </div>
   </div>
