@@ -3,6 +3,12 @@ permalink: /user-guide/
 layout: page
 title: User Guide for Public Solvers
 ---
+
+<style>
+  h4 {
+  text-decoration: none !important
+  {
+  </style>
 <h1 class="text-center mb-6 font-weight-bold">User Guide for Public Solvers</h1>
 <div class="row">
   <div>
