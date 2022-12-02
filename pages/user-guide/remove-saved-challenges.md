@@ -13,7 +13,7 @@ title: User Guide for Public Solvers | Remove Saved Challenges
 </div>
 <div class="row">
   <div class="col-sm-7">
-    <p>View and manage your saved challenges. Visit <a href="{{ site.baseurl }}/user-guide/follow-challenges/">Follow a Challenge</a> for instructions.</p>
+    <p>View and manage your saved challenges. Visit <a href="{{ site.baseurl }}/user-guide/follow-challenges/">Follow a challenge</a> for instructions.</p>
     <ol style="padding-left: 50px;">
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From the Solver Portal dashboard, click <b>My saved challenges</b>.</span></li>
       <br>
