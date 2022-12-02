@@ -101,7 +101,7 @@ title: User Guide for Public Solvers
   </div>
 </div>
   </div>
-  <h2>The Solver Portal</h2>
+  <h2>Solver Portal</h2>
 <div class="row">
   <div class="col-sm-3">
     <div class="card">
