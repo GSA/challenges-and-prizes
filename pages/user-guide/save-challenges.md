@@ -27,8 +27,7 @@ title: User Guide for Public Solvers | Save Challenges
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Authenticate your account using the security method selected when you created your account.</span></li><br>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Finish</b>.</span></li>
       <br>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">You will be directed into the Solver Portal where you then click <b>Finish</b> to confirm your saved challenge.</span></li><br>
-        <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">If you are already logged in, you will be directed into the Solver Portal to complete the action by clicking <b>Save</b>.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">You will be directed into the Solver Portal where you then click <b>Finish</b> to confirm your saved challenge.</span></li>
 
     </ol>
   </div>
