@@ -13,7 +13,7 @@ title: User Guide for Public Solvers | Contact Challenge Management
 </div>
 <div class="row">
   <div class="col-sm-7">
-    <p>Send an email with your challenge-related questions to the Challenge Management Team from the sponsoring agency.<br><br><b>NOTE:</b> This feature is not available for challenges that redirect to an external challenge site from the challenge tile.</p>
+    <p>Send an email with your challenge-related questions to the Challenge Management Team from the sponsoring agency.<br><br><b>NOTE:</b> Feature is not available for challenges that redirect to an external site.</p>
     <ol style="padding-left: 50px;">
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From challenge details page, click on the contact tab located in the challenge details navigation bar in the middle of the page.</span></li>
       <br>
