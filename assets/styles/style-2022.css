@@ -37,6 +37,22 @@
     color: #ffffff;
 }
 
+.user-guide-title {
+  text-decoration: none !important;
+}
+
+.user-guide-title:hover {
+  text-decoration: underline;
+}
+
+.usa-sidenav__sublist>li  {
+  text-decoration: none !important;
+}
+
+.usa-sidenav .usa-current {
+  text-decoration: none !important;
+}
+
 .bloglink {
     color: #1a4480;
     text-decoration: underline;

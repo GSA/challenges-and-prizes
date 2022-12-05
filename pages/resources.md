@@ -36,7 +36,7 @@ title: Resources
         <i class="dashboard-card-icon fas fa-book-open" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="User Guide"></i>
         <h2 class="card-title text-center">User Guide</h2>
         <p class="card-text text-center">Access useful information to help you get started.</p>
-        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" class="usa-button usa-button"><span style="color: #ffffff;">Read user guide</span></a>
+        <a href="{{ site.baseurl }}/user-guide/" class="usa-button usa-button"><span style="color: #ffffff;">View user guide</span></a>
       </div>
     </div>
   </div>
