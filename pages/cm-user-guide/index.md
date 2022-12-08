@@ -23,7 +23,7 @@ title: User Guide for Challenge Managers
   <div class="col-sm-3">
       <div class="card">
         <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/logging-in/" style="text-decoration: none !important;"><i class="fas fa-folder" style="font-size: 2em; padding-bottom: 20px;" title="Logging in"></i>
-          <h4 class="card-title text-center">Logging in</h4>
+          <h4 class="card-title text-center">Logging<br>in</h4>
           </a>
       </div>
     </div>
@@ -31,7 +31,7 @@ title: User Guide for Challenge Managers
   <div class="col-sm-3">
     <div class="card">
         <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/logging-out/" style="text-decoration: none !important;"><i class="fas fa-search" style="font-size: 2em; padding-bottom: 20px;" title="Logging out"></i>
-          <h4 class="card-title text-center">Logging out</h4>
+          <h4 class="card-title text-center">Logging<br>out</h4>
           </a>
       </div>
     </div>
