@@ -36,7 +36,6 @@ title: User Guide for Challenge Managers
       </div>
     </div>
   </div>
-</div>
   <div class="col-sm-3">
     <div class="card">
         <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/recertify-your-account/" style="text-decoration: none !important;"><i class="fas fa-search" style="font-size: 2em; padding-bottom: 20px;" title="Recertify your account"></i>
@@ -45,7 +44,6 @@ title: User Guide for Challenge Managers
       </div>
     </div>
   </div>
-</div>
 <h2>Challenge Management</h2>
 <div class="row">
   <div class="col-sm-3">
@@ -79,7 +77,6 @@ title: User Guide for Challenge Managers
       </div>
     </div>
   </div>
-  </div>
   <div class="row">
   <div class="col-sm-3">
     <div class="card">
@@ -104,7 +101,6 @@ title: User Guide for Challenge Managers
     </div>
   </div>
 </div>
-  </div>
   <h2>Manage Submissions via Challenge.Gov</h2>
 <div class="row">
   <div class="col-sm-3">
@@ -138,7 +134,6 @@ title: User Guide for Challenge Managers
       </div>
     </div>
   </div>
-  </div>
   <div class="row">
   <div class="col-sm-3">
     <div class="card">
@@ -155,8 +150,6 @@ title: User Guide for Challenge Managers
       </div>
     </div>
   </div>
-  </div>
-
 <h2>Message Center</h2>
 <div class="row">
   <div class="col-sm-3">
@@ -181,7 +174,6 @@ title: User Guide for Challenge Managers
       </div>
     </div>
   </div>
-
   <h2>Menage External Submissions</h2>
 <div class="row">
   <div class="col-sm-3">
@@ -206,7 +198,6 @@ title: User Guide for Challenge Managers
       </div>
     </div>
   </div>
-  
   <h2>Connect with Public Solvers</h2>
 <div class="row">
   <div class="col-sm-3">
@@ -231,7 +222,6 @@ title: User Guide for Challenge Managers
       </div>
     </div>
   </div>
-
   <h2>Analytics</h2>
 <div class="row">
   <div class="col-sm-3">
@@ -256,7 +246,6 @@ title: User Guide for Challenge Managers
       </div>
     </div>
   </div>
-
 <h2>Additional Resources</h2>
 <div class="row">
   <div class="col-sm-3">
