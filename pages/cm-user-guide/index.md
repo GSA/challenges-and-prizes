@@ -96,7 +96,7 @@ title: User Guide for Challenge Managers
   </div>
 </div>
   </div>
-  <h2>Solver Portal</h2>
+  <h2>Manage Submissions via Challenge.Gov</h2>
 <div class="row">
   <div class="col-sm-3">
     <div class="card">
@@ -149,6 +149,106 @@ title: User Guide for Challenge Managers
   </div>
 
 <h2>Message Center</h2>
+<div class="row">
+  <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-messages/" style="text-decoration: none !important;"><i class="fas fa-inbox" style="font-size: 2em; padding-bottom: 20px;" title="View messages"></i>
+        <h4 class="card-title text-center">View<br>messages</h4>
+        </a> </div>
+    </div>
+  </div>
+         <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/reply-to-messages/" style="text-decoration: none !important;"><i class="fas fa-comments" style="font-size: 2em; padding-bottom: 20px;" title="Reply to messages"></i>
+        <h4 class="card-title text-center">Reply to<br>messages</h4>
+        </a> </div>
+    </div>
+  </div>
+  <div class="col-sm-3">
+      <div class="card">
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/message-center-features/" style="text-decoration: none !important;"><i class="far fa-comments" style="font-size: 2em; padding-bottom: 20px;" title="More message center features"></i>
+          <h4 class="card-title text-center">More message center features</h4>
+          </a>
+      </div>
+    </div>
+  </div>
+
+  <h2>Menage External Submissions</h2>
+<div class="row">
+  <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-messages/" style="text-decoration: none !important;"><i class="fas fa-inbox" style="font-size: 2em; padding-bottom: 20px;" title="View messages"></i>
+        <h4 class="card-title text-center">View<br>messages</h4>
+        </a> </div>
+    </div>
+  </div>
+         <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/reply-to-messages/" style="text-decoration: none !important;"><i class="fas fa-comments" style="font-size: 2em; padding-bottom: 20px;" title="Reply to messages"></i>
+        <h4 class="card-title text-center">Reply to<br>messages</h4>
+        </a> </div>
+    </div>
+  </div>
+  <div class="col-sm-3">
+      <div class="card">
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/message-center-features/" style="text-decoration: none !important;"><i class="far fa-comments" style="font-size: 2em; padding-bottom: 20px;" title="More message center features"></i>
+          <h4 class="card-title text-center">More message center features</h4>
+          </a>
+      </div>
+    </div>
+  </div>
+  
+  <h2>Connect with Public Solvers</h2>
+<div class="row">
+  <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-messages/" style="text-decoration: none !important;"><i class="fas fa-inbox" style="font-size: 2em; padding-bottom: 20px;" title="View messages"></i>
+        <h4 class="card-title text-center">View<br>messages</h4>
+        </a> </div>
+    </div>
+  </div>
+         <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/reply-to-messages/" style="text-decoration: none !important;"><i class="fas fa-comments" style="font-size: 2em; padding-bottom: 20px;" title="Reply to messages"></i>
+        <h4 class="card-title text-center">Reply to<br>messages</h4>
+        </a> </div>
+    </div>
+  </div>
+  <div class="col-sm-3">
+      <div class="card">
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/message-center-features/" style="text-decoration: none !important;"><i class="far fa-comments" style="font-size: 2em; padding-bottom: 20px;" title="More message center features"></i>
+          <h4 class="card-title text-center">More message center features</h4>
+          </a>
+      </div>
+    </div>
+  </div>
+
+  <h2>Analytics</h2>
+<div class="row">
+  <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-messages/" style="text-decoration: none !important;"><i class="fas fa-inbox" style="font-size: 2em; padding-bottom: 20px;" title="View messages"></i>
+        <h4 class="card-title text-center">View<br>messages</h4>
+        </a> </div>
+    </div>
+  </div>
+         <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/reply-to-messages/" style="text-decoration: none !important;"><i class="fas fa-comments" style="font-size: 2em; padding-bottom: 20px;" title="Reply to messages"></i>
+        <h4 class="card-title text-center">Reply to<br>messages</h4>
+        </a> </div>
+    </div>
+  </div>
+  <div class="col-sm-3">
+      <div class="card">
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/message-center-features/" style="text-decoration: none !important;"><i class="far fa-comments" style="font-size: 2em; padding-bottom: 20px;" title="More message center features"></i>
+          <h4 class="card-title text-center">More message center features</h4>
+          </a>
+      </div>
+    </div>
+  </div>
+
+<h2>Additional Resources</h2>
 <div class="row">
   <div class="col-sm-3">
     <div class="card">
