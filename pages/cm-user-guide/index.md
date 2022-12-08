@@ -1,10 +1,10 @@
 ---
-permalink: /user-guide/
+permalink: /cm-user-guide/
 layout: page
-title: User Guide for Public Solvers
+title: User Guide for Challenge Managers
 ---
 
-<h1 class="text-center mb-6 font-weight-bold">User Guide for Public Solvers</h1>
+<h1 class="text-center mb-6 font-weight-bold">User Guide for Challenge Managers</h1>
 <div class="row">
   <div>
     <p>Challenge.Gov, managed by Technology Transformation Services (TTS), within the General Services Administration, is the official hub for prize competitions and crowdsourcing campaigns (together referred to as “challenges”) across the U.S. federal government. Through this platform, federal agencies engage public solvers in challenges to identify innovative solutions to important issues.</p>
