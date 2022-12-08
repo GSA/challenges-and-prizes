@@ -37,6 +37,15 @@ title: User Guide for Challenge Managers
     </div>
   </div>
 </div>
+  <div class="col-sm-3">
+    <div class="card">
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/recertify-your-account/" style="text-decoration: none !important;"><i class="fas fa-search" style="font-size: 2em; padding-bottom: 20px;" title="Recertify your account"></i>
+          <h4 class="card-title text-center">Recertify your account</h4>
+          </a>
+      </div>
+    </div>
+  </div>
+</div>
 <h2>Challenge Management</h2>
 <div class="row">
   <div class="col-sm-3">
