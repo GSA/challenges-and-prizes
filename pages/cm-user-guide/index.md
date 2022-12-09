@@ -112,6 +112,7 @@ title: User Guide for Challenge Managers
         </a> </div>
     </div>
   </div>
+    </div>
   <div class="col-sm-3">
     <div class="card">
         <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/log-into-solver-portal/" style="text-decoration: none !important;"><i class="fas fa-lock-open" style="font-size: 2em; padding-bottom: 20px;" title="Logging in"></i>
@@ -120,6 +121,7 @@ title: User Guide for Challenge Managers
       </div>
     </div>
   </div>
+    </div>
   <div class="col-sm-3">
     <div class="card">
         <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/log-out-of-solver-portal/" style="text-decoration: none !important;"><i class="fas fa-lock" style="font-size: 2em; padding-bottom: 20px;" title="Logging out"></i>
@@ -128,6 +130,7 @@ title: User Guide for Challenge Managers
     </div>
   </div>
 </div>
+  </div>
     <div class="col-sm-3">
     <div class="card">
         <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/remove-saved-challenges/" style="text-decoration: none !important;"><i class="fas fa-eraser" style="font-size: 2em; padding-bottom: 20px;" title="Remove saved challenges"></i>
@@ -136,6 +139,7 @@ title: User Guide for Challenge Managers
       </div>
     </div>
   </div>
+    </div>
   <div class="row">
   <div class="col-sm-3">
     <div class="card">
@@ -144,6 +148,7 @@ title: User Guide for Challenge Managers
         </a> </div>
     </div>
   </div>
+    </div>
   <div class="col-sm-3">
     <div class="card">
         <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/delete-challenge-submissions/" style="text-decoration: none !important;"><i class="fas fa-trash" style="font-size: 2em; padding-bottom: 20px;" title="Delete challenge submissions"></i>
@@ -152,6 +157,7 @@ title: User Guide for Challenge Managers
       </div>
     </div>
   </div>
+    </div>
 <h2>Message Center</h2>
 <div class="row">
   <div class="col-sm-3">
@@ -161,6 +167,7 @@ title: User Guide for Challenge Managers
         </a> </div>
     </div>
   </div>
+    </div>
          <div class="col-sm-3">
     <div class="card">
       <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/reply-to-messages/" style="text-decoration: none !important;"><i class="fas fa-comments" style="font-size: 2em; padding-bottom: 20px;" title="Reply to messages"></i>
@@ -168,6 +175,7 @@ title: User Guide for Challenge Managers
         </a> </div>
     </div>
   </div>
+    </div>
   <div class="col-sm-3">
       <div class="card">
         <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/message-center-features/" style="text-decoration: none !important;"><i class="far fa-comments" style="font-size: 2em; padding-bottom: 20px;" title="More message center features"></i>
