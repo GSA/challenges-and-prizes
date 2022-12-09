@@ -211,8 +211,8 @@ title: User Guide for Challenge Managers
 <div class="row">
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/create-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-eye" style="font-size: 2em; padding-bottom: 20px;" title="Create a challenge"></i>
-        <h4 class="card-title text-center">Create a challenge</h4>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/send-bulletin-to-followers/" style="text-decoration: none !important;"><i class="fas fa-bullhorn" style="font-size: 2em; padding-bottom: 20px;" title="Send a bulletin to followers"></i>
+        <h4 class="card-title text-center">Send a bulletin to followers</h4>
         </a> </div>
     </div>
   </div>
@@ -220,14 +220,6 @@ title: User Guide for Challenge Managers
     <div class="card">
       <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/edit-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-save" style="font-size: 2em; padding-bottom: 20px;" title="Edit a challenge"></i>
         <h4 class="card-title text-center">Edit a challenge</h4>
-        </a> </div>
-    </div>
-  </div>
-  <div class="col-sm-3">
-    <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/share-challenges/" style="text-decoration: none !important;"><i class="fas fa-share" style="font-size: 2em; padding-bottom: 20px;" title="Share challenges"></i>
-        <h4 class="card-title text-center">Share<br>
-          challenges</h4>
         </a> </div>
     </div>
   </div>
