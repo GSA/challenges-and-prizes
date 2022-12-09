@@ -236,8 +236,8 @@ title: User Guide for Challenge Managers
 <div class="row">
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/create-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-eye" style="font-size: 2em; padding-bottom: 20px;" title="Create a challenge"></i>
-        <h4 class="card-title text-center">Create a challenge</h4>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-data/" style="text-decoration: none !important;"><i class="fas fa-chart" style="font-size: 2em; padding-bottom: 20px;" title="View data"></i>
+        <h4 class="card-title text-center">View data</h4>
         </a> </div>
     </div>
   </div>
