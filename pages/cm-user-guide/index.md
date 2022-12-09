@@ -124,7 +124,7 @@ title: User Guide for Challenge Managers
   </div>
 	<div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/grant-access/" style="text-decoration: none !important;"><i class="fas fa-user-plus" style="font-size: 2em; padding-bottom: 20px;" title="Grant access to non .gov or .mil email"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/grant-access/" style="text-decoration: none !important;"><i class="fas fa-at" style="font-size: 2em; padding-bottom: 20px;" title="Grant access to non .gov or .mil email"></i>
         <h4 class="card-title text-center">Grant access to non .gov or .mil email</h4>
         </a> </div>
     </div>
