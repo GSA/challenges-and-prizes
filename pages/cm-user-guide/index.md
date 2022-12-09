@@ -217,8 +217,8 @@ title: User Guide for Challenge Managers
   </div>
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/edit-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-save" style="font-size: 2em; padding-bottom: 20px;" title="Edit a challenge"></i>
-        <h4 class="card-title text-center">Edit a challenge</h4>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/reply-to-a-public-solver-question/" style="text-decoration: none !important;"><i class="fas fa-question" style="font-size: 2em; padding-bottom: 20px;" title="Reply to a public solver question"></i>
+        <h4 class="card-title text-center">Reply to a public solver question</h4>
         </a> </div>
     </div>
   </div>
