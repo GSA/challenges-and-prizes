@@ -117,14 +117,14 @@ title: User Guide for Challenge Managers
   </div>
 	<div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/add-challenge-managers/" style="text-decoration: none !important;"><i class="fas fa-print" style="font-size: 2em; padding-bottom: 20px;" title="Add challenge managers"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/add-challenge-managers/" style="text-decoration: none !important;"><i class="fas fa-user-plus" style="font-size: 2em; padding-bottom: 20px;" title="Add challenge managers"></i>
         <h4 class="card-title text-center">Add challenge managers</h4>
         </a> </div>
     </div>
   </div>
 	<div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/grant-access/" style="text-decoration: none !important;"><i class="fas fa-print" style="font-size: 2em; padding-bottom: 20px;" title="Grant access to non .gov or .mil email"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/grant-access/" style="text-decoration: none !important;"><i class="fas fa-user-plus" style="font-size: 2em; padding-bottom: 20px;" title="Grant access to non .gov or .mil email"></i>
         <h4 class="card-title text-center">Grant access to non .gov or .mil email</h4>
         </a> </div>
     </div>
@@ -135,14 +135,14 @@ title: User Guide for Challenge Managers
   <div class="col-sm-3">
     <div class="card">
       <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/create-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-user-friends" style="font-size: 2em; padding-bottom: 20px;" title="Create a challenge"></i>
-        <h4 class="card-title text-center">Create a challenge</h4>
+        <h4 class="card-title text-center">Create a<br>challenge</h4>
         </a> </div>
     </div>
   </div>
   <div class="col-sm-3">
     <div class="card">
       <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/edit-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-save" style="font-size: 2em; padding-bottom: 20px;" title="Edit a challenge"></i>
-        <h4 class="card-title text-center">Edit a challenge</h4>
+        <h4 class="card-title text-center">Edit a<br>challenge</h4>
         </a> </div>
     </div>
   </div>
