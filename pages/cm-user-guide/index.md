@@ -48,22 +48,21 @@ title: User Guide for Challenge Managers
   <div class="col-sm-3">
     <div class="card">
       <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/create-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-trophy" style="font-size: 2em; padding-bottom: 20px;" title="Create a challenge"></i>
-        <h4 class="card-title text-center">Create a challenge</h4>
+        <h4 class="card-title text-center">Create a<br>challenge</h4>
         </a> </div>
     </div>
   </div>
   <div class="col-sm-3">
     <div class="card">
       <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/edit-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-edit" style="font-size: 2em; padding-bottom: 20px;" title="Edit a challenge"></i>
-        <h4 class="card-title text-center">Edit a challenge</h4>
+        <h4 class="card-title text-center">Edit a<br>challenge</h4>
         </a> </div>
     </div>
   </div>
   <div class="col-sm-3">
     <div class="card">
       <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/delete-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-trash" style="font-size: 2em; padding-bottom: 20px;" title="Delete a challenges"></i>
-        <h4 class="card-title text-center">Delete a<br>
-          challenges</h4>
+        <h4 class="card-title text-center">Delete a<br>challenge</h4>
         </a> </div>
     </div>
   </div>
