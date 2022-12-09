@@ -47,21 +47,21 @@ title: User Guide for Challenge Managers
 <div class="row">
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/create-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-eye" style="font-size: 2em; padding-bottom: 20px;" title="Create a challenge"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/create-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-trophy" style="font-size: 2em; padding-bottom: 20px;" title="Create a challenge"></i>
         <h4 class="card-title text-center">Create a challenge</h4>
         </a> </div>
     </div>
   </div>
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/edit-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-save" style="font-size: 2em; padding-bottom: 20px;" title="Edit a challenge"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/edit-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-edit" style="font-size: 2em; padding-bottom: 20px;" title="Edit a challenge"></i>
         <h4 class="card-title text-center">Edit a challenge</h4>
         </a> </div>
     </div>
   </div>
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/delete-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-share" style="font-size: 2em; padding-bottom: 20px;" title="Delete a challenges"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/delete-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-trash" style="font-size: 2em; padding-bottom: 20px;" title="Delete a challenges"></i>
         <h4 class="card-title text-center">Delete a<br>
           challenges</h4>
         </a> </div>
@@ -69,7 +69,7 @@ title: User Guide for Challenge Managers
   </div>
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/update-an-open-challenge/" style="text-decoration: none !important;"><i class="fas fa-print" style="font-size: 2em; padding-bottom: 20px;" title="Update an open challenge"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/update-an-open-challenge/" style="text-decoration: none !important;"><i class="fas fa-edit" style="font-size: 2em; padding-bottom: 20px;" title="Update an open challenge"></i>
         <h4 class="card-title text-center">Update an open challenge</h4>
         </a> </div>
     </div>
@@ -83,14 +83,14 @@ title: User Guide for Challenge Managers
   </div>
 	 <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/download-challenge-profile/" style="text-decoration: none !important;"><i class="fas fa-print" style="font-size: 2em; padding-bottom: 20px;" title="Download challenge profile"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/download-challenge-profile/" style="text-decoration: none !important;"><i class="fas fa-download" style="font-size: 2em; padding-bottom: 20px;" title="Download challenge profile"></i>
         <h4 class="card-title text-center">Download challenge profile</h4>
         </a> </div>
     </div>
   </div>
 	 <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/add-an-announcement/" style="text-decoration: none !important;"><i class="fas fa-print" style="font-size: 2em; padding-bottom: 20px;" title="Add an announcement"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/add-an-announcement/" style="text-decoration: none !important;"><i class="fas fa-megaphone" style="font-size: 2em; padding-bottom: 20px;" title="Add an announcement"></i>
         <h4 class="card-title text-center">Add an announcement</h4>
         </a> </div>
     </div>
