@@ -61,17 +61,72 @@ title: User Guide for Challenge Managers
   </div>
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/share-challenges/" style="text-decoration: none !important;"><i class="fas fa-share" style="font-size: 2em; padding-bottom: 20px;" title="Share challenges"></i>
-        <h4 class="card-title text-center">Share<br>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/delete-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-share" style="font-size: 2em; padding-bottom: 20px;" title="Delete a challenges"></i>
+        <h4 class="card-title text-center">Delete a<br>
           challenges</h4>
         </a> </div>
     </div>
   </div>
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/print-challenges/" style="text-decoration: none !important;"><i class="fas fa-print" style="font-size: 2em; padding-bottom: 20px;" title="Print challenges"></i>
-        <h4 class="card-title text-center">Print<br>
-          challenges</h4>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/update-an-open-challenge/" style="text-decoration: none !important;"><i class="fas fa-print" style="font-size: 2em; padding-bottom: 20px;" title="Update an open challenge"></i>
+        <h4 class="card-title text-center">Update an open challenge</h4>
+        </a> </div>
+    </div>
+  </div>
+	  <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/print-challenge-listing/" style="text-decoration: none !important;"><i class="fas fa-print" style="font-size: 2em; padding-bottom: 20px;" title="Print challenge listing"></i>
+        <h4 class="card-title text-center">Print challenge listing</h4>
+        </a> </div>
+    </div>
+  </div>
+	 <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/download-challenge-profile/" style="text-decoration: none !important;"><i class="fas fa-print" style="font-size: 2em; padding-bottom: 20px;" title="Download challenge profile"></i>
+        <h4 class="card-title text-center">Download challenge profile</h4>
+        </a> </div>
+    </div>
+  </div>
+	 <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/add-an-announcement/" style="text-decoration: none !important;"><i class="fas fa-print" style="font-size: 2em; padding-bottom: 20px;" title="Add an announcement"></i>
+        <h4 class="card-title text-center">Add an announcement</h4>
+        </a> </div>
+    </div>
+  </div>
+	 <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/edit-an-announcement/" style="text-decoration: none !important;"><i class="fas fa-print" style="font-size: 2em; padding-bottom: 20px;" title="Edit an announcement"></i>
+        <h4 class="card-title text-center">Edit an announcement</h4>
+        </a> </div>
+    </div>
+  </div>
+	 <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/remove-an-announcement/" style="text-decoration: none !important;"><i class="fas fa-print" style="font-size: 2em; padding-bottom: 20px;" title="Remove an announcement"></i>
+        <h4 class="card-title text-center">Remove an announcement</h4>
+        </a> </div>
+    </div>
+  </div>
+	<div class="col-sm-3">
+    <div class="card">
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/add-winner-information/" style="text-decoration: none !important;"><i class="fas fa-print" style="font-size: 2em; padding-bottom: 20px;" title="Add winner information"></i>
+        <h4 class="card-title text-center">Add winner information</h4>
+        </a> </div>
+    </div>
+  </div>
+	<div class="col-sm-3">
+    <div class="card">
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/add-challenge-managers/" style="text-decoration: none !important;"><i class="fas fa-print" style="font-size: 2em; padding-bottom: 20px;" title="Add challenge managers"></i>
+        <h4 class="card-title text-center">Add challenge managers</h4>
+        </a> </div>
+    </div>
+  </div>
+	<div class="col-sm-3">
+    <div class="card">
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/grant-access/" style="text-decoration: none !important;"><i class="fas fa-print" style="font-size: 2em; padding-bottom: 20px;" title="Grant access to non .gov or .mil email"></i>
+        <h4 class="card-title text-center">Grant access to non .gov or .mil email</h4>
         </a> </div>
     </div>
   </div>
