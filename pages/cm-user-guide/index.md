@@ -110,7 +110,7 @@ title: User Guide for Challenge Managers
   </div>
 	<div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/add-winner-information/" style="text-decoration: none !important;"><i class="fas fa-print" style="font-size: 2em; padding-bottom: 20px;" title="Add winner information"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/add-winner-information/" style="text-decoration: none !important;"><i class="fas fa-trophy" style="font-size: 2em; padding-bottom: 20px;" title="Add winner information"></i>
         <h4 class="card-title text-center">Add winner information</h4>
         </a> </div>
     </div>
@@ -134,14 +134,14 @@ title: User Guide for Challenge Managers
 <div class="row">
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/create-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-user-friends" style="font-size: 2em; padding-bottom: 20px;" title="Create a challenge"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/create-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-keyboard" style="font-size: 2em; padding-bottom: 20px;" title="Create a challenge"></i>
         <h4 class="card-title text-center">Create a<br>challenge</h4>
         </a> </div>
     </div>
   </div>
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/edit-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-save" style="font-size: 2em; padding-bottom: 20px;" title="Edit a challenge"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/edit-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-edit" style="font-size: 2em; padding-bottom: 20px;" title="Edit a challenge"></i>
         <h4 class="card-title text-center">Edit a<br>challenge</h4>
         </a> </div>
     </div>
@@ -173,28 +173,28 @@ title: User Guide for Challenge Managers
   </div>
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/edit-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-envelope-open-text" style="font-size: 2em; padding-bottom: 20px;" title="Edit a challenge"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/edit-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-email" style="font-size: 2em; padding-bottom: 20px;" title="Send a message"></i>
         <h4 class="card-title text-center">Send a message</h4>
         </a> </div>
     </div>
   </div>
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/share-challenges/" style="text-decoration: none !important;"><i class="fas fa-share" style="font-size: 2em; padding-bottom: 20px;" title="Share challenges"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/view-messages/" style="text-decoration: none !important;"><i class="fas fa-share" style="font-size: 2em; padding-bottom: 20px;" title="View messages"></i>
         <h4 class="card-title text-center">View<br>messages</h4>
         </a> </div>
     </div>
   </div>
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/print-challenges/" style="text-decoration: none !important;"><i class="fas fa-print" style="font-size: 2em; padding-bottom: 20px;" title="Print challenges"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/reply-to-messages/" style="text-decoration: none !important;"><i class="fas fa-comments" style="font-size: 2em; padding-bottom: 20px;" title="Reply to messages"></i>
         <h4 class="card-title text-center">Reply to messages</h4>
         </a> </div>
     </div>
   </div>
 	  <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/print-challenges/" style="text-decoration: none !important;"><i class="fas fa-print" style="font-size: 2em; padding-bottom: 20px;" title="Print challenges"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/print-challenges/" style="text-decoration: none !important;"><i class="far fa-comments" style="font-size: 2em; padding-bottom: 20px;" title="Print challenges"></i>
         <h4 class="card-title text-center">More features</h4>
         </a> </div>
     </div>
