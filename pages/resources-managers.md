@@ -23,7 +23,7 @@ title: Resources for Federal Challenge Managers
         <i class="dashboard-card-icon fas fa-book-open" style="color: #005ea2; font-size: 3em; padding-bottom: 20px;" title="User guide"></i>
         <h2 class="card-title text-center">User Guide</h2>
         <p class="card-text text-center">Useful information on using the platform.</p>
-        <a href="{{ site.baseurl }}/assets/document-library/Challenge.Gov_Challenge_Manager_User Guide_2022.pdf" class="usa-button usa-button"><span style="color: #ffffff;">Read user guide</span></a>
+        <a href="{{ site.baseurl }}/assets/document-library/Challenge.Gov_Challenge_Manager_User_Guide_2022.pdf" class="usa-button usa-button"><span style="color: #ffffff;">Read user guide</span></a>
       </div>
     </div>
   </div>
