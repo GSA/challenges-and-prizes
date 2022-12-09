@@ -204,7 +204,7 @@ title: User Guide for Challenge Managers
 <div class="row">
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/direct-external-submissions/" style="text-decoration: none !important;"><i class="fas fa-trophy" style="font-size: 2em; padding-bottom: 20px;" title="Direct external submissions"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/direct-external-submissions/" style="text-decoration: none !important;"><i class="fas fa-map-signs" style="font-size: 2em; padding-bottom: 20px;" title="Direct external submissions"></i>
         <h4 class="card-title text-center">Direct external submissions</h4>
         </a> </div>
     </div>
