@@ -157,8 +157,7 @@ title: User Guide for Challenge Managers
   <div class="col-sm-3">
     <div class="card">
       <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/print-challenges/" style="text-decoration: none !important;"><i class="fas fa-print" style="font-size: 2em; padding-bottom: 20px;" title="Print challenges"></i>
-        <h4 class="card-title text-center">Print<br>
-          challenges</h4>
+        <h4 class="card-title text-center">Print<br>challenges</h4>
         </a> </div>
     </div>
   </div>
@@ -167,14 +166,14 @@ title: User Guide for Challenge Managers
 <div class="row">
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/communicate-with-participants/" style="text-decoration: none !important;"><i class="fas fa-eye" style="font-size: 2em; padding-bottom: 20px;" title="Communicate with participants"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/communicate-with-participants/" style="text-decoration: none !important;"><i class="fas fa-comments" style="font-size: 2em; padding-bottom: 20px;" title="Communicate with participants"></i>
         <h4 class="card-title text-center">Communicate with participants</h4>
         </a> </div>
     </div>
   </div>
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/edit-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-save" style="font-size: 2em; padding-bottom: 20px;" title="Edit a challenge"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/edit-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-envelope-open-text" style="font-size: 2em; padding-bottom: 20px;" title="Edit a challenge"></i>
         <h4 class="card-title text-center">Send a message</h4>
         </a> </div>
     </div>
