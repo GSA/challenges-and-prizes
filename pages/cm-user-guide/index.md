@@ -236,7 +236,7 @@ title: User Guide for Challenge Managers
 <div class="row">
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-data/" style="text-decoration: none !important;"><i class="fas fa-chart" style="font-size: 2em; padding-bottom: 20px;" title="View data"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-data/" style="text-decoration: none !important;"><i class="fas fa-chart-bar" style="font-size: 2em; padding-bottom: 20px;" title="View data"></i>
         <h4 class="card-title text-center">View data</h4>
         </a> </div>
     </div>
