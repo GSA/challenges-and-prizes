@@ -206,29 +206,6 @@ title: User Guide for Challenge Managers
         </a> </div>
     </div>
   </div>
-  <div class="col-sm-3">
-    <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/edit-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-save" style="font-size: 2em; padding-bottom: 20px;" title="Edit a challenge"></i>
-        <h4 class="card-title text-center">Edit a challenge</h4>
-        </a> </div>
-    </div>
-  </div>
-  <div class="col-sm-3">
-    <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/share-challenges/" style="text-decoration: none !important;"><i class="fas fa-share" style="font-size: 2em; padding-bottom: 20px;" title="Share challenges"></i>
-        <h4 class="card-title text-center">Share<br>
-          challenges</h4>
-        </a> </div>
-    </div>
-  </div>
-  <div class="col-sm-3">
-    <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/print-challenges/" style="text-decoration: none !important;"><i class="fas fa-print" style="font-size: 2em; padding-bottom: 20px;" title="Print challenges"></i>
-        <h4 class="card-title text-center">Print<br>
-          challenges</h4>
-        </a> </div>
-    </div>
-  </div>
 </div>
 <h2>Connect with Public Solvers</h2>
 <div class="row">
@@ -250,14 +227,6 @@ title: User Guide for Challenge Managers
     <div class="card">
       <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/share-challenges/" style="text-decoration: none !important;"><i class="fas fa-share" style="font-size: 2em; padding-bottom: 20px;" title="Share challenges"></i>
         <h4 class="card-title text-center">Share<br>
-          challenges</h4>
-        </a> </div>
-    </div>
-  </div>
-  <div class="col-sm-3">
-    <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/print-challenges/" style="text-decoration: none !important;"><i class="fas fa-print" style="font-size: 2em; padding-bottom: 20px;" title="Print challenges"></i>
-        <h4 class="card-title text-center">Print<br>
           challenges</h4>
         </a> </div>
     </div>
