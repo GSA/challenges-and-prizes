@@ -96,7 +96,7 @@ title: User Guide for Challenge Managers
   </div>
 	 <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/edit-an-announcement/" style="text-decoration: none !important;"><i class="fas fa-print" style="font-size: 2em; padding-bottom: 20px;" title="Edit an announcement"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/edit-an-announcement/" style="text-decoration: none !important;"><i class="fas fa-pencil-alt" style="font-size: 2em; padding-bottom: 20px;" title="Edit an announcement"></i>
         <h4 class="card-title text-center">Edit an announcement</h4>
         </a> </div>
     </div>
