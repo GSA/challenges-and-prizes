@@ -174,7 +174,7 @@ title: User Guide for Challenge Managers
   <div class="col-sm-3">
     <div class="card">
       <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/edit-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-envelope" style="font-size: 2em; padding-bottom: 20px;" title="Send a message"></i>
-        <h4 class="card-title text-center">Send a message</h4>
+        <h4 class="card-title text-center">Send<br>a message</h4>
         </a> </div>
     </div>
   </div>
@@ -188,7 +188,7 @@ title: User Guide for Challenge Managers
   <div class="col-sm-3">
     <div class="card">
       <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/reply-to-messages/" style="text-decoration: none !important;"><i class="fas fa-envelope-open-text" style="font-size: 2em; padding-bottom: 20px;" title="Reply to messages"></i>
-        <h4 class="card-title text-center">Reply to messages</h4>
+        <h4 class="card-title text-center">Reply<br>to messages</h4>
         </a> </div>
     </div>
   </div>
