@@ -162,8 +162,8 @@ title: User Guide for Challenge Managers
   </div>
 	  <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/print-challenges/" style="text-decoration: none !important;"><i class="fas fa-print" style="font-size: 2em; padding-bottom: 20px;" title="Print challenges"></i>
-        <h4 class="card-title text-center">Manage<br>invites</h4>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/print-challenges/" style="text-decoration: none !important;"><i class="fas fa-user-cog" style="font-size: 2em; padding-bottom: 20px;" title="Print challenges"></i>
+        <h4 class="card-title text-center">Manage invites for next phase</h4>
         </a> </div>
     </div>
   </div>
