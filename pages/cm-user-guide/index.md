@@ -130,34 +130,40 @@ title: User Guide for Challenge Managers
     </div>
   </div>
 </div>
-<h2>Manage Submissions via Challenge.Gov</h2>
+<h2>Manage Submissions</h2>
 <div class="row">
   <div class="col-sm-3">
     <div class="card">
       <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/create-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-keyboard" style="font-size: 2em; padding-bottom: 20px;" title="Create a challenge"></i>
-        <h4 class="card-title text-center">Create a<br>challenge</h4>
+        <h4 class="card-title text-center">Collect solver submissions</h4>
         </a> </div>
     </div>
   </div>
   <div class="col-sm-3">
     <div class="card">
       <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/edit-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-edit" style="font-size: 2em; padding-bottom: 20px;" title="Edit a challenge"></i>
-        <h4 class="card-title text-center">Edit a<br>challenge</h4>
+        <h4 class="card-title text-center">View submissions</h4>
         </a> </div>
     </div>
   </div>
   <div class="col-sm-3">
     <div class="card">
       <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/share-challenges/" style="text-decoration: none !important;"><i class="fas fa-share" style="font-size: 2em; padding-bottom: 20px;" title="Share challenges"></i>
-        <h4 class="card-title text-center">Share<br>
-          challenges</h4>
+        <h4 class="card-title text-center">Download submission details</h4>
         </a> </div>
     </div>
   </div>
   <div class="col-sm-3">
     <div class="card">
       <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/print-challenges/" style="text-decoration: none !important;"><i class="fas fa-print" style="font-size: 2em; padding-bottom: 20px;" title="Print challenges"></i>
-        <h4 class="card-title text-center">Print<br>challenges</h4>
+        <h4 class="card-title text-center">Progress submissions through phases</h4>
+        </a> </div>
+    </div>
+  </div>
+	  <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/print-challenges/" style="text-decoration: none !important;"><i class="fas fa-print" style="font-size: 2em; padding-bottom: 20px;" title="Print challenges"></i>
+        <h4 class="card-title text-center">Manage invites</h4>
         </a> </div>
     </div>
   </div>
