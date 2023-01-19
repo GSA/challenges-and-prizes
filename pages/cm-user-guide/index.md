@@ -164,14 +164,14 @@ title: User Guide for Challenge Managers
   </div>
          <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/reply-to-messages/" style="text-decoration: none !important;"><i class="fas fa-comments" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Reply to messages"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/reply-to-messages/" style="text-decoration: none !important;"><i class="fas fa-eye" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Reply to messages"></i>
         <h4 class="card-title text-center">View submissions</h4>
         </a> </div>
     </div>
   </div>
   <div class="col-sm-3">
       <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/message-center-features/" style="text-decoration: none !important;"><i class="far fa-comments" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="More message center features"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/message-center-features/" style="text-decoration: none !important;"><i class="far fa-download" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="More message center features"></i>
           <h4 class="card-title text-center">Download submission details</h4>
           </a>
       </div>
@@ -179,7 +179,7 @@ title: User Guide for Challenge Managers
   </div>
   <div class="col-sm-3">
       <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/message-center-features/" style="text-decoration: none !important;"><i class="far fa-comments" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="More message center features"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/message-center-features/" style="text-decoration: none !important;"><i class="far fa-thumbs-up" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="More message center features"></i>
           <h4 class="card-title text-center">Progress submissions</h4>
           </a>
       </div>
