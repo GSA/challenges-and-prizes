@@ -151,27 +151,44 @@ title: User Guide for Challenge Managers
   </div>
   </div>
 
-<h2>Message Center</h2>
+<h2>Manage Submissions</h2>
 <div class="row">
   <div class="col-sm-3">
     <div class="card">
       <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-messages/" style="text-decoration: none !important;"><i class="fas fa-inbox" style="font-size: 2em; padding-bottom: 20px;" title="View messages"></i>
-        <h4 class="card-title text-center">View<br>messages</h4>
+        <h4 class="card-title text-center">Collect submissions</h4>
         </a> </div>
     </div>
   </div>
          <div class="col-sm-3">
     <div class="card">
       <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/reply-to-messages/" style="text-decoration: none !important;"><i class="fas fa-comments" style="font-size: 2em; padding-bottom: 20px;" title="Reply to messages"></i>
-        <h4 class="card-title text-center">Reply to<br>messages</h4>
+        <h4 class="card-title text-center">View submissions</h4>
         </a> </div>
     </div>
   </div>
   <div class="col-sm-3">
       <div class="card">
         <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/message-center-features/" style="text-decoration: none !important;"><i class="far fa-comments" style="font-size: 2em; padding-bottom: 20px;" title="More message center features"></i>
-          <h4 class="card-title text-center">More message center features</h4>
+          <h4 class="card-title text-center">Download submission details</h4>
           </a>
       </div>
     </div>
   </div>
+  <div class="col-sm-3">
+      <div class="card">
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/message-center-features/" style="text-decoration: none !important;"><i class="far fa-comments" style="font-size: 2em; padding-bottom: 20px;" title="More message center features"></i>
+          <h4 class="card-title text-center">Progress submissions</h4>
+          </a>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-3">
+      <div class="card">
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/message-center-features/" style="text-decoration: none !important;"><i class="far fa-comments" style="font-size: 2em; padding-bottom: 20px;" title="More message center features"></i>
+          <h4 class="card-title text-center">Manage finalist invites</h4>
+          </a>
+      </div>
+    </div>
+  </div>
+ </div>
