@@ -17,14 +17,14 @@ title: User Guide for Challenge Managers
 <div class="row">
   <div class="col-sm-3">
     <div class="card"><a href="{{ site.baseurl }}/user-guide/explore-active-challenges/" style="text-decoration: none !important;">
-       <div class="card-body text-center"> <i class="fas fa-user-circle" style="font-size: 2em; padding-bottom: 20px;" title="Create your account"></i>
+       <div class="card-body text-center"> <i class="fas fa-user-circle" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Create your account"></i>
         <h4 class="card-title text-center user-guide-title">Create your account</h4>
       </div></a>
     </div>
   </div>
   <div class="col-sm-3">
       <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-archived-challenges/" style="text-decoration: none !important;"><i class="fas fa-lock-open" style="font-size: 2em; padding-bottom: 20px;" title="View archived challenges"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-archived-challenges/" style="text-decoration: none !important;"><i class="fas fa-lock-open" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="View archived challenges"></i>
           <h4 class="card-title text-center">Log in</h4>
           </a>
       </div>
@@ -32,7 +32,7 @@ title: User Guide for Challenge Managers
   </div>
   <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/search-for-challenges/" style="text-decoration: none !important;"><i class="fas fa-lock" style="font-size: 2em; padding-bottom: 20px;" title="Search for challenges"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/search-for-challenges/" style="text-decoration: none !important;"><i class="fas fa-lock" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Search for challenges"></i>
           <h4 class="card-title text-center">Log out</h4>
           </a>
       </div>
@@ -40,7 +40,7 @@ title: User Guide for Challenge Managers
   </div>
     <div class="col-sm-3">
       <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-archived-challenges/" style="text-decoration: none !important;"><i class="fas fa-shield-alt" style="font-size: 2em; padding-bottom: 20px;" title="Recertify your account"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-archived-challenges/" style="text-decoration: none !important;"><i class="fas fa-shield-alt" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Recertify your account"></i>
           <h4 class="card-title text-center">Recertify your account</h4>
           </a>
       </div>
@@ -51,7 +51,7 @@ title: User Guide for Challenge Managers
 <div class="row">
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/follow-challenges/" style="text-decoration: none !important;"><i class="fas fa-trophy" style="font-size: 2em; padding-bottom: 20px;" title="Follow challenges"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/follow-challenges/" style="text-decoration: none !important;"><i class="fas fa-trophy" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Follow challenges"></i>
         <h4 class="card-title text-center">Create a<br>challenge</h4>
         </a> </div>
     </div>
