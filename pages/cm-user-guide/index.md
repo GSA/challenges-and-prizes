@@ -45,19 +45,19 @@ title: User Guide for Challenge Managers
     </div>
   </div>
 </div>
-<h2>Engage with a Challenge</h2>
+<h2>Challenge management</h2>
 <div class="row">
   <div class="col-sm-3">
     <div class="card">
       <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/follow-challenges/" style="text-decoration: none !important;"><i class="fas fa-eye" style="font-size: 2em; padding-bottom: 20px;" title="Follow challenges"></i>
-        <h4 class="card-title text-center">Follow<br>challenges</h4>
+        <h4 class="card-title text-center">Create a<br>challenge</h4>
         </a> </div>
     </div>
   </div>
   <div class="col-sm-3">
     <div class="card">
         <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/save-challenges/" style="text-decoration: none !important;"><i class="fas fa-save" style="font-size: 2em; padding-bottom: 20px;" title="Save challenges"></i>
-          <h4 class="card-title text-center">Save<br>challenges</h4>
+          <h4 class="card-title text-center">Edit a draft challenge</h4>
           </a>
       </div>
     </div>
@@ -65,7 +65,7 @@ title: User Guide for Challenge Managers
   <div class="col-sm-3">
     <div class="card">
         <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/share-challenges/" style="text-decoration: none !important;"><i class="fas fa-share" style="font-size: 2em; padding-bottom: 20px;" title="Share challenges"></i>
-          <h4 class="card-title text-center">Share<br>challenges</h4>
+          <h4 class="card-title text-center">Delete a<br>challenge</h4>
           </a>
     </div>
   </div>
@@ -83,14 +83,14 @@ title: User Guide for Challenge Managers
   <div class="col-sm-3">
     <div class="card">
       <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/contact-challenge-management/" style="text-decoration: none !important;"><i class="fas fa-envelope" style="font-size: 2em; padding-bottom: 20px;" title="Contact the team"></i>
-        <h4 class="card-title text-center">Contact the<br>team</h4>
+        <h4 class="card-title text-center">Update an open challenge</h4>
         </a> </div>
     </div>
   </div>
   <div class="col-sm-3">
     <div class="card">
         <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/submit-to-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-keyboard" style="font-size: 2em; padding-bottom: 20px;" title="Submit to a challenge"></i>
-          <h4 class="card-title text-center">Submit to a challenge</h4>
+          <h4 class="card-title text-center">Print challenge listing</h4>
           </a>
       </div>
     </div>
@@ -98,7 +98,7 @@ title: User Guide for Challenge Managers
   <div class="col-sm-3">
     <div class="card">
         <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/unfollow-challenges/" style="text-decoration: none !important;"><i class="fas fa-eye-slash" style="font-size: 2em; padding-bottom: 20px;" title="Unfollow challenges"></i>
-          <h4 class="card-title text-center">Unfollow<br>challenges</h4>
+          <h4 class="card-title text-center">Download challenge profile</h4>
           </a>
     </div>
   </div>
@@ -109,14 +109,14 @@ title: User Guide for Challenge Managers
   <div class="col-sm-3">
     <div class="card">
       <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/create-your-account/" style="text-decoration: none !important;"><i class="fas fa-user" style="font-size: 2em; padding-bottom: 20px;" title="Create your account"></i>
-        <h4 class="card-title text-center">Create your account</h4>
+        <h4 class="card-title text-center">Add an announcement</h4>
         </a> </div>
     </div>
   </div>
   <div class="col-sm-3">
     <div class="card">
         <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/log-into-solver-portal/" style="text-decoration: none !important;"><i class="fas fa-lock-open" style="font-size: 2em; padding-bottom: 20px;" title="Logging in"></i>
-          <h4 class="card-title text-center">Logging<br>in</h4>
+          <h4 class="card-title text-center">Edit an  announcement</h4>
           </a>
       </div>
     </div>
@@ -124,7 +124,7 @@ title: User Guide for Challenge Managers
   <div class="col-sm-3">
     <div class="card">
         <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/log-out-of-solver-portal/" style="text-decoration: none !important;"><i class="fas fa-lock" style="font-size: 2em; padding-bottom: 20px;" title="Logging out"></i>
-          <h4 class="card-title text-center">Logging<br>out</h4>
+          <h4 class="card-title text-center">Remove an announcement</h4>
           </a>
     </div>
   </div>
@@ -132,7 +132,7 @@ title: User Guide for Challenge Managers
     <div class="col-sm-3">
     <div class="card">
         <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/remove-saved-challenges/" style="text-decoration: none !important;"><i class="fas fa-eraser" style="font-size: 2em; padding-bottom: 20px;" title="Remove saved challenges"></i>
-          <h4 class="card-title text-center">Remove saved challenges</h4>
+          <h4 class="card-title text-center">Add winner information</h4>
           </a>
       </div>
     </div>
@@ -142,14 +142,14 @@ title: User Guide for Challenge Managers
   <div class="col-sm-3">
     <div class="card">
       <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/edit-challenge-submissions/" style="text-decoration: none !important;"><i class="fas fa-edit" style="font-size: 2em; padding-bottom: 20px;" title="Edit challenge submissions"></i>
-        <h4 class="card-title text-center">Edit challenge submissions</h4>
+        <h4 class="card-title text-center">Add challenge managers</h4>
         </a> </div>
     </div>
   </div>
   <div class="col-sm-3">
     <div class="card">
         <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/delete-challenge-submissions/" style="text-decoration: none !important;"><i class="fas fa-trash" style="font-size: 2em; padding-bottom: 20px;" title="Delete challenge submissions"></i>
-          <h4 class="card-title text-center">Delete challenge submissions</h4>
+          <h4 class="card-title text-center">Grant access to a contractor</h4>
           </a>
       </div>
     </div>
