@@ -25,7 +25,7 @@ title: User Guide for Challenge Managers
   <div class="col-sm-3">
       <div class="card">
         <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/view-archived-challenges/" style="text-decoration: none !important;"><i class="fas fa-lock-open" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="View archived challenges"></i>
-          <h4 class="card-title text-center">Log in</h4>
+          <h4 class="card-title text-center">Logging<br>in</h4>
           </a>
       </div>
     </div>
@@ -33,7 +33,7 @@ title: User Guide for Challenge Managers
   <div class="col-sm-3">
     <div class="card">
         <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/search-for-challenges/" style="text-decoration: none !important;"><i class="fas fa-lock" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Search for challenges"></i>
-          <h4 class="card-title text-center">Log out</h4>
+          <h4 class="card-title text-center">Logging<br>out</h4>
           </a>
       </div>
     </div>
@@ -47,7 +47,7 @@ title: User Guide for Challenge Managers
     </div>
   </div>
 </div>
-<h2>Challenge management</h2>
+<h2>Challenge Management</h2>
 <div class="row">
   <div class="col-sm-3">
     <div class="card">
@@ -204,7 +204,7 @@ title: User Guide for Challenge Managers
     </div>
   </div>
   </div>
-<h2>Message Center: Communicate with participants
+<h2>Message Center: Communicate with Participants
 </h2>
 <div class="row">
   <div class="col-sm-3">
