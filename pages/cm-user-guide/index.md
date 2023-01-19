@@ -100,12 +100,9 @@ title: User Guide for Challenge Managers
         <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/unfollow-challenges/" style="text-decoration: none !important;"><i class="fas fa-eye-slash" style="font-size: 2em; padding-bottom: 20px;" title="Unfollow challenges"></i>
           <h4 class="card-title text-center">Download challenge profile</h4>
           </a>
+   </div>
     </div>
   </div>
-</div>
-  </div>
-  <h2>Solver Portal</h2>
-<div class="row">
   <div class="col-sm-3">
     <div class="card">
       <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/create-your-account/" style="text-decoration: none !important;"><i class="fas fa-user" style="font-size: 2em; padding-bottom: 20px;" title="Create your account"></i>
