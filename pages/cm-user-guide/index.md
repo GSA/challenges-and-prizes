@@ -7,8 +7,10 @@ title: User Guide for Challenge Managers
 <h1 class="text-center mb-6 font-weight-bold">User Guide for Challenge Managers</h1>
 <div class="row">
   <div>
-    <p>Challenge.Gov, managed by Technology Transformation Services (TTS), within the General Services Administration, is the official hub for prize competitions and crowdsourcing campaigns (together referred to as “challenges”) across the U.S. federal government. Through this platform, federal agencies engage public solvers in challenges to identify innovative solutions to important issues.</p>
-    <p>This guide provides step-by-step instructions for site visitor and public solver use of Challenge.Gov. </p>
+    <p>Challenge.Gov, managed by Technology Transformation Services (TTS), within the General Services Administration, is the official hub for prize competitions and crowdsourcing campaigns (together referred to as “challenges”) across the U.S. federal government. Through this platform, federal agencies engage public solvers in challenges to identify innovative solutions to important issues.
+</p>
+    <p>This guide provides step-by-step instructions for site visitor and public solver use of Challenge.Gov.  
+</p>
   </div>
 </div>
 <h2>Getting Started</h2>
@@ -187,6 +189,33 @@ title: User Guide for Challenge Managers
       <div class="card">
         <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/message-center-features/" style="text-decoration: none !important;"><i class="far fa-comments" style="font-size: 2em; padding-bottom: 20px;" title="More message center features"></i>
           <h4 class="card-title text-center">Manage finalist invites</h4>
+          </a>
+      </div>
+    </div>
+  </div>
+ </div>
+
+<h2>Message Center: Communicate with participants
+</h2>
+<div class="row">
+  <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-messages/" style="text-decoration: none !important;"><i class="fas fa-inbox" style="font-size: 2em; padding-bottom: 20px;" title="View messages"></i>
+        <h4 class="card-title text-center">Send new message</h4>
+        </a> </div>
+    </div>
+  </div>
+         <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/reply-to-messages/" style="text-decoration: none !important;"><i class="fas fa-comments" style="font-size: 2em; padding-bottom: 20px;" title="Reply to messages"></i>
+        <h4 class="card-title text-center">View messages</h4>
+        </a> </div>
+    </div>
+  </div>
+  <div class="col-sm-3">
+      <div class="card">
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/message-center-features/" style="text-decoration: none !important;"><i class="far fa-comments" style="font-size: 2em; padding-bottom: 20px;" title="More message center features"></i>
+          <h4 class="card-title text-center">Reply to messages</h4>
           </a>
       </div>
     </div>
