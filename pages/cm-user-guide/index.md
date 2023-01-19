@@ -58,7 +58,7 @@ title: User Guide for Challenge Managers
   </div>
   <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/save-challenges/" style="text-decoration: none !important;"><i class="fas fa-edit" style="font-size: 2em; padding-bottom: 20px;" title="Save challenges"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/save-challenges/" style="text-decoration: none !important;"><i class="fas fa-edit" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Save challenges"></i>
           <h4 class="card-title text-center">Edit a draft challenge</h4>
           </a>
       </div>
@@ -66,7 +66,7 @@ title: User Guide for Challenge Managers
   </div>
   <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/share-challenges/" style="text-decoration: none !important;"><i class="fas fa-trash" style="font-size: 2em; padding-bottom: 20px;" title="Share challenges"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/share-challenges/" style="text-decoration: none !important;"><i class="fas fa-trash" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Share challenges"></i>
           <h4 class="card-title text-center">Delete a<br>challenge</h4>
           </a>
     </div>
@@ -74,7 +74,7 @@ title: User Guide for Challenge Managers
 </div>
     <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/print-challenges/" style="text-decoration: none !important;"><i class="fas fa-print" style="font-size: 2em; padding-bottom: 20px;" title="Print challenges"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/print-challenges/" style="text-decoration: none !important;"><i class="fas fa-print" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Print challenges"></i>
           <h4 class="card-title text-center">Print<br>challenges</h4>
           </a>
       </div>
@@ -84,14 +84,14 @@ title: User Guide for Challenge Managers
   <div class="row">
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/contact-challenge-management/" style="text-decoration: none !important;"><i class="fas fa-envelope" style="font-size: 2em; padding-bottom: 20px;" title="Contact the team"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/contact-challenge-management/" style="text-decoration: none !important;"><i class="fas fa-envelope" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Contact the team"></i>
         <h4 class="card-title text-center">Update an open challenge</h4>
         </a> </div>
     </div>
   </div>
   <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/submit-to-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-keyboard" style="font-size: 2em; padding-bottom: 20px;" title="Submit to a challenge"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/submit-to-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-keyboard" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Submit to a challenge"></i>
           <h4 class="card-title text-center">Print challenge listing</h4>
           </a>
       </div>
@@ -99,7 +99,7 @@ title: User Guide for Challenge Managers
   </div>
   <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/unfollow-challenges/" style="text-decoration: none !important;"><i class="fas fa-eye-slash" style="font-size: 2em; padding-bottom: 20px;" title="Unfollow challenges"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/unfollow-challenges/" style="text-decoration: none !important;"><i class="fas fa-eye-slash" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Unfollow challenges"></i>
           <h4 class="card-title text-center">Download challenge profile</h4>
           </a>
    </div>
@@ -107,7 +107,7 @@ title: User Guide for Challenge Managers
   </div>
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/create-your-account/" style="text-decoration: none !important;"><i class="fas fa-user" style="font-size: 2em; padding-bottom: 20px;" title="Create your account"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/create-your-account/" style="text-decoration: none !important;"><i class="fas fa-user" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Create your account"></i>
         <h4 class="card-title text-center">Add an announcement</h4>
         </a> </div>
     </div>
@@ -122,7 +122,7 @@ title: User Guide for Challenge Managers
   </div>
   <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/log-out-of-solver-portal/" style="text-decoration: none !important;"><i class="fas fa-lock" style="font-size: 2em; padding-bottom: 20px;" title="Logging out"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/log-out-of-solver-portal/" style="text-decoration: none !important;"><i class="fas fa-lock" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Logging out"></i>
           <h4 class="card-title text-center">Remove an announcement</h4>
           </a>
     </div>
@@ -130,7 +130,7 @@ title: User Guide for Challenge Managers
 </div>
     <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/remove-saved-challenges/" style="text-decoration: none !important;"><i class="fas fa-eraser" style="font-size: 2em; padding-bottom: 20px;" title="Remove saved challenges"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/remove-saved-challenges/" style="text-decoration: none !important;"><i class="fas fa-eraser" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Remove saved challenges"></i>
           <h4 class="card-title text-center">Add winner information</h4>
           </a>
       </div>
@@ -138,14 +138,14 @@ title: User Guide for Challenge Managers
   </div>
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/edit-challenge-submissions/" style="text-decoration: none !important;"><i class="fas fa-edit" style="font-size: 2em; padding-bottom: 20px;" title="Edit challenge submissions"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/edit-challenge-submissions/" style="text-decoration: none !important;"><i class="fas fa-edit" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Edit challenge submissions"></i>
         <h4 class="card-title text-center">Add challenge managers</h4>
         </a> </div>
     </div>
   </div>
   <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/delete-challenge-submissions/" style="text-decoration: none !important;"><i class="fas fa-trash" style="font-size: 2em; padding-bottom: 20px;" title="Delete challenge submissions"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/delete-challenge-submissions/" style="text-decoration: none !important;"><i class="fas fa-trash" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Delete challenge submissions"></i>
           <h4 class="card-title text-center">Grant access to a contractor</h4>
           </a>
       </div>
@@ -157,21 +157,21 @@ title: User Guide for Challenge Managers
 <div class="row">
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-messages/" style="text-decoration: none !important;"><i class="fas fa-inbox" style="font-size: 2em; padding-bottom: 20px;" title="View messages"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-messages/" style="text-decoration: none !important;"><i class="fas fa-inbox" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="View messages"></i>
         <h4 class="card-title text-center">Collect submissions</h4>
         </a> </div>
     </div>
   </div>
          <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/reply-to-messages/" style="text-decoration: none !important;"><i class="fas fa-comments" style="font-size: 2em; padding-bottom: 20px;" title="Reply to messages"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/reply-to-messages/" style="text-decoration: none !important;"><i class="fas fa-comments" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Reply to messages"></i>
         <h4 class="card-title text-center">View submissions</h4>
         </a> </div>
     </div>
   </div>
   <div class="col-sm-3">
       <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/message-center-features/" style="text-decoration: none !important;"><i class="far fa-comments" style="font-size: 2em; padding-bottom: 20px;" title="More message center features"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/message-center-features/" style="text-decoration: none !important;"><i class="far fa-comments" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="More message center features"></i>
           <h4 class="card-title text-center">Download submission details</h4>
           </a>
       </div>
@@ -179,7 +179,7 @@ title: User Guide for Challenge Managers
   </div>
   <div class="col-sm-3">
       <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/message-center-features/" style="text-decoration: none !important;"><i class="far fa-comments" style="font-size: 2em; padding-bottom: 20px;" title="More message center features"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/message-center-features/" style="text-decoration: none !important;"><i class="far fa-comments" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="More message center features"></i>
           <h4 class="card-title text-center">Progress submissions</h4>
           </a>
       </div>
@@ -187,7 +187,7 @@ title: User Guide for Challenge Managers
   </div>
   <div class="col-sm-3">
       <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/message-center-features/" style="text-decoration: none !important;"><i class="far fa-comments" style="font-size: 2em; padding-bottom: 20px;" title="More message center features"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/message-center-features/" style="text-decoration: none !important;"><i class="far fa-comments" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="More message center features"></i>
           <h4 class="card-title text-center">Manage finalist invites</h4>
           </a>
       </div>
@@ -200,22 +200,30 @@ title: User Guide for Challenge Managers
 <div class="row">
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-messages/" style="text-decoration: none !important;"><i class="fas fa-inbox" style="font-size: 2em; padding-bottom: 20px;" title="View messages"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-messages/" style="text-decoration: none !important;"><i class="fas fa-inbox" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="View messages"></i>
         <h4 class="card-title text-center">Send new message</h4>
         </a> </div>
     </div>
   </div>
          <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/reply-to-messages/" style="text-decoration: none !important;"><i class="fas fa-comments" style="font-size: 2em; padding-bottom: 20px;" title="Reply to messages"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/reply-to-messages/" style="text-decoration: none !important;"><i class="fas fa-comments" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Reply to messages"></i>
         <h4 class="card-title text-center">View messages</h4>
         </a> </div>
     </div>
   </div>
   <div class="col-sm-3">
       <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/message-center-features/" style="text-decoration: none !important;"><i class="far fa-comments" style="font-size: 2em; padding-bottom: 20px;" title="More message center features"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/message-center-features/" style="text-decoration: none !important;"><i class="far fa-comments" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="More message center features"></i>
           <h4 class="card-title text-center">Reply to messages</h4>
+          </a>
+      </div>
+    </div>
+  </div>
+   <div class="col-sm-3">
+      <div class="card">
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/message-center-features/" style="text-decoration: none !important;"><i class="far fa-comments" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="More message center features"></i>
+          <h4 class="card-title text-center">More features</h4>
           </a>
       </div>
     </div>
