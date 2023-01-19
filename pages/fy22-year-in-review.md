@@ -14,12 +14,14 @@ title: Challenge.Gov FY22 Year In Review
 
 infographic
 
-<h1>
+<h2>Looking Ahead</h2>
 <p>Challenge.Gov is proud to be part of an ecosystem advancing open innovation in the federal government and engaging the public in open ways.</p> 
 
 Our new year’s resolutions for FY23:
-Continue to help federal agencies address important problems and meet administration priorities to engage the public, at no cost to federal agencies.
-Focus technical assistance, resources and support on new challenge managers without the resources within their agency to hire vendors or rely on in-house support. 
-Identify, map, and support the ecosystem of open innovation including agency prize leads, OSTP, the Challenge & Prize Federal Community of Practice, and private sector vendors.
-Engage new agencies to find fun, accessible ways to connect with members of the public mainstream Americans through prize competitions and crowdsourcing campaigns.
-Support challenge managers to tell their story and share experiences with the community to inspire them to do good work.
+<ul>
+  <li>Continue to help federal agencies address important problems and meet administration priorities to engage the public, at no cost to federal agencies.
+Focus technical assistance, resources and support on new challenge managers without the resources within their agency to hire vendors or rely on in-house support.</li>
+<li>Identify, map, and support the ecosystem of open innovation including agency prize leads, OSTP, the Challenge & Prize Federal Community of Practice, and private sector vendors.</li>
+<li>Engage new agencies to find fun, accessible ways to connect with members of the public mainstream Americans through prize competitions and crowdsourcing campaigns.</li>
+<li>Support challenge managers to tell their story and share experiences with the community to inspire them to do good work.</li>
+  </ul>
