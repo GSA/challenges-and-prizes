@@ -134,8 +134,6 @@ title: User Guide for Challenge Managers
       </div>
     </div>
   </div>
-  </div>
-  <div class="row">
   <div class="col-sm-3">
     <div class="card">
       <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/edit-challenge-submissions/" style="text-decoration: none !important;"><i class="fas fa-edit" style="font-size: 2em; padding-bottom: 20px;" title="Edit challenge submissions"></i>
