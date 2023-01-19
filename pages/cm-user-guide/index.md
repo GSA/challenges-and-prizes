@@ -22,7 +22,7 @@ title: User Guide for Challenge Managers
   </div>
   <div class="col-sm-3">
       <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-archived-challenges/" style="text-decoration: none !important;"><i class="fas fa-folder" style="font-size: 2em; padding-bottom: 20px;" title="View archived challenges"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-archived-challenges/" style="text-decoration: none !important;"><i class="fas fa-lock-open" style="font-size: 2em; padding-bottom: 20px;" title="View archived challenges"></i>
           <h4 class="card-title text-center">Log in</h4>
           </a>
       </div>
@@ -30,7 +30,7 @@ title: User Guide for Challenge Managers
   </div>
   <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/search-for-challenges/" style="text-decoration: none !important;"><i class="fas fa-search" style="font-size: 2em; padding-bottom: 20px;" title="Search for challenges"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/search-for-challenges/" style="text-decoration: none !important;"><i class="fas fa-lock" style="font-size: 2em; padding-bottom: 20px;" title="Search for challenges"></i>
           <h4 class="card-title text-center">Log out</h4>
           </a>
       </div>
@@ -38,7 +38,7 @@ title: User Guide for Challenge Managers
   </div>
     <div class="col-sm-3">
       <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-archived-challenges/" style="text-decoration: none !important;"><i class="fas fa-folder" style="font-size: 2em; padding-bottom: 20px;" title="View archived challenges"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-archived-challenges/" style="text-decoration: none !important;"><i class="fas fa-shield-alt" style="font-size: 2em; padding-bottom: 20px;" title="Recertify your account"></i>
           <h4 class="card-title text-center">Recertify your account</h4>
           </a>
       </div>
