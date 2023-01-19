@@ -114,15 +114,15 @@ title: User Guide for Challenge Managers
   </div>
   <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/log-into-solver-portal/" style="text-decoration: none !important;"><i class="fas fa-lock-open" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Logging in"></i>
-          <h4 class="card-title text-center">Edit an  announcement</h4>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/log-into-solver-portal/" style="text-decoration: none !important;"><i class="fas fa-comment-dots" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Logging in"></i>
+          <h4 class="card-title text-center">Edit an announcement</h4>
           </a>
       </div>
     </div>
   </div>
   <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/log-out-of-solver-portal/" style="text-decoration: none !important;"><i class="fas fa-lock" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Logging out"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/log-out-of-solver-portal/" style="text-decoration: none !important;"><i class="fas fa-eraser" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Logging out"></i>
           <h4 class="card-title text-center">Remove an announcement</h4>
           </a>
     </div>
@@ -130,7 +130,7 @@ title: User Guide for Challenge Managers
 </div>
     <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/remove-saved-challenges/" style="text-decoration: none !important;"><i class="fas fa-eraser" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Remove saved challenges"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/remove-saved-challenges/" style="text-decoration: none !important;"><i class="fas fa-award" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Remove saved challenges"></i>
           <h4 class="card-title text-center">Add winner information</h4>
           </a>
       </div>
