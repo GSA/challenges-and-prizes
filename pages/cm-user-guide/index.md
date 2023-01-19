@@ -194,7 +194,16 @@ title: User Guide for Challenge Managers
     </div>
   </div>
  </div>
-
+<h2>Manage Submissions Externally</h2>
+<div class="row">
+  <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-messages/" style="text-decoration: none !important;"><i class="fas fa-inbox" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Direct solvers to external website"></i>
+        <h4 class="card-title text-center">Direct solvers to external website</h4>
+        </a> </div>
+    </div>
+  </div>
+  </div>
 <h2>Message Center: Communicate with participants
 </h2>
 <div class="row">
@@ -226,6 +235,44 @@ title: User Guide for Challenge Managers
           <h4 class="card-title text-center">More features</h4>
           </a>
       </div>
+    </div>
+  </div>
+ </div>
+
+<h2>Connect with Public Solvers
+</h2>
+<div class="row">
+  <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-messages/" style="text-decoration: none !important;"><i class="fas fa-inbox" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Send a bulletin to followers"></i>
+        <h4 class="card-title text-center">Send a bulletin to followers</h4>
+        </a> </div>
+    </div>
+  </div>
+         <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/reply-to-messages/" style="text-decoration: none !important;"><i class="fas fa-comments" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Reply to a question"></i>
+        <h4 class="card-title text-center">Reply to a question</h4>
+        </a> </div>
+    </div>
+  </div>
+ </div>
+ 
+ <h2>Other
+</h2>
+<div class="row">
+  <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/view-messages/" style="text-decoration: none !important;"><i class="fas fa-inbox" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Send a bulletin to followers"></i>
+        <h4 class="card-title text-center">Analytics</h4>
+        </a> </div>
+    </div>
+  </div>
+         <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/reply-to-messages/" style="text-decoration: none !important;"><i class="fas fa-comments" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Reply to a question"></i>
+        <h4 class="card-title text-center">Additional resources</h4>
+        </a> </div>
     </div>
   </div>
  </div>
