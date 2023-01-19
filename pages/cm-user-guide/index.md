@@ -15,7 +15,7 @@ title: User Guide for Challenge Managers
 <div class="row">
   <div class="col-sm-3">
     <div class="card"><a href="{{ site.baseurl }}/user-guide/explore-active-challenges/" style="text-decoration: none !important;">
-       <div class="card-body text-center"> <i class="fas fa-trophy" style="font-size: 2em; padding-bottom: 20px;" title="Exploring active challenges"></i>
+       <div class="card-body text-center"> <i class="fas user-circle" style="font-size: 2em; padding-bottom: 20px;" title="Create your account"></i>
         <h4 class="card-title text-center user-guide-title">Create your account</h4>
       </div></a>
     </div>
