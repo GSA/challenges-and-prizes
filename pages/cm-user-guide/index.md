@@ -91,7 +91,7 @@ title: User Guide for Challenge Managers
   </div>
   <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/submit-to-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-keyboard" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Submit to a challenge"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/submit-to-a-challenge/" style="text-decoration: none !important;"><i class="fas fa-list" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Submit to a challenge"></i>
           <h4 class="card-title text-center">Print challenge listing</h4>
           </a>
       </div>
@@ -114,7 +114,7 @@ title: User Guide for Challenge Managers
   </div>
   <div class="col-sm-3">
     <div class="card">
-        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/log-into-solver-portal/" style="text-decoration: none !important;"><i class="fas fa-lock-open" style="font-size: 2em; padding-bottom: 20px;" title="Logging in"></i>
+        <div class="card-body text-center"> <a href="{{ site.baseurl }}/user-guide/log-into-solver-portal/" style="text-decoration: none !important;"><i class="fas fa-lock-open" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Logging in"></i>
           <h4 class="card-title text-center">Edit an  announcement</h4>
           </a>
       </div>
