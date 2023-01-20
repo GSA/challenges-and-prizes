@@ -12,13 +12,16 @@ title: Challenge.Gov FY22 Year In Review
 <p>The new platform opened the door for the Challenge.Gov team to explore new ways to grow a connected community of federal challenge managers and build relationships with other federal partners. Our team worked to increase the adoption and mature the practice of open innovation to advance agency missions through empowering and connecting members of the Challenge and Prize Community of Practice, hosting interactive learning experiences, and developing resources. </p>
 
 <p>Through the collective efforts of federal challenge managers and the Challenge.Gov team, Challenge.Gov hosted more prize competitions from a greater number of federal agencies than in previous years. Together, we are driving innovation in government and exploring new ways to engage members of the American public to bring forward new ideas and solve important problems.</p>
+  </div>
+  <div>
 
-<img src="{{ site.baseurl }}/assets/images/challenge-gov-fy22-year-in-review-infographic.jpg">
-    
+    <img src="{{ site.baseurl }}/assets/images/challenge-gov-fy22-year-in-review-infographic.jpg"></div>
+  </div>
+<div class="row">    
 <h2>Looking Ahead</h2>
 <p>Challenge.Gov is proud to be part of an ecosystem advancing open innovation in the federal government and engaging the public in open ways.</p> 
 
-Our new year’s resolutions for FY23:
+  <h3>Our new year’s resolutions for FY23:</h3>
 <ul>
   <li>Continue to help federal agencies address important problems and meet administration priorities to engage the public, at no cost to federal agencies.
 Focus technical assistance, resources and support on new challenge managers without the resources within their agency to hire vendors or rely on in-house support.</li>
