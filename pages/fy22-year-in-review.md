@@ -14,7 +14,7 @@ title: Challenge.Gov FY22 Year In Review
 <p>Through the collective efforts of federal challenge managers and the Challenge.Gov team, Challenge.Gov hosted more prize competitions from a greater number of federal agencies than in previous years. Together, we are driving innovation in government and exploring new ways to engage members of the American public to bring forward new ideas and solve important problems.</p>
   </div>
   <div>
-    <img src="{{ site.baseurl }}/assets/images/challenge-gov-fy22-year-in-review-infographic.png" alt="Infographic of fiscal year 2022 challenge and social media data.></div>
+    <img src="{{ site.baseurl }}/assets/images/challenge-gov-fy22-year-in-review-infographic.png" alt="Infographic of fiscal year 2022 challenge and social media data."></div>
   </div>
   <br>
 <div class="row">    
