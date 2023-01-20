@@ -15,8 +15,9 @@ title: Challenge.Gov FY22 Year In Review
   </div>
   <div>
 
-    <img src="{{ site.baseurl }}/assets/images/challenge-gov-fy22-year-in-review-infographic.jpg"></div>
+    <img src="{{ site.baseurl }}/assets/images/challenge-gov-fy22-year-in-review-infographic.png"></div>
   </div>
+  <br>
 <div class="row">    
 <h2>Looking Ahead</h2>
 <p>Challenge.Gov is proud to be part of an ecosystem advancing open innovation in the federal government and engaging the public in open ways.</p> 
@@ -29,5 +30,4 @@ Focus technical assistance, resources and support on new challenge managers with
 <li>Engage new agencies to find fun, accessible ways to connect with members of the public mainstream Americans through prize competitions and crowdsourcing campaigns.</li>
 <li>Support challenge managers to tell their story and share experiences with the community to inspire them to do good work.</li>
   </ul>
-  </div>
   </div>
