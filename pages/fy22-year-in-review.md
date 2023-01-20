@@ -18,7 +18,7 @@ title: Challenge.Gov FY22 Year In Review
   </div>
   <br>
 <div class="row">    
-<h2>Looking Ahead</h2>
+<h2>Looking Ahead</h2><br><br>
 <p>Challenge.Gov is proud to be part of an ecosystem advancing open innovation in the federal government and engaging the public in open ways.</p> 
 
   <h3>Our new year’s resolutions for FY23:</h3>
