@@ -9,14 +9,14 @@ title: User Guide for Challenge Managers
   <div>
     <p>Challenge.Gov, managed by Technology Transformation Services (TTS), within the General Services Administration, is the official hub for prize competitions and crowdsourcing campaigns (together referred to as “challenges”) across the U.S. federal government. Through this platform, federal agencies engage public solvers in challenges to identify innovative solutions to important issues.
 </p>
-    <p>This guide provides step-by-step instructions for site visitor and public solver use of Challenge.Gov.  
+    <p>This guide provides step-by-step instructions for challenge manager use of Challenge.Gov.  
 </p>
   </div>
 </div>
 <h2>Getting Started</h2>
 <div class="row">
   <div class="col-sm-3">
-    <div class="card"><a href="{{ site.baseurl }}/cm-user-guide/explore-active-challenges/" style="text-decoration: none !important;">
+    <div class="card"><a href="{{ site.baseurl }}/cm-user-guide/create-your-account/" style="text-decoration: none !important;">
        <div class="card-body text-center"> <i class="fas fa-user-circle" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Create your account"></i>
         <h4 class="card-title text-center user-guide-title">Create your account</h4>
       </div></a>
