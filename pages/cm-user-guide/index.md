@@ -16,7 +16,7 @@ title: User Guide for Challenge Managers
     <div class="card"><a href="{{ site.baseurl }}/cm-user-guide/create-your-account/" style="text-decoration: none !important;">
       <div class="card-body text-center"> <i class="fas fa-user-circle" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Create your account"></i>
         <h4 class="card-title text-center user-guide-title">Create your account</h4>
-        test </div>
+        </div>
       </a> </div>
   </div>
   <div class="col-sm-3">
