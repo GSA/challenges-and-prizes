@@ -29,5 +29,5 @@ title: User Guide for Challenge Managers | Create Your Account
     </ol>
   </div>
   <div class="col-sm-1">&nbsp;</div>
-  <div class="col-sm-4"> {% include user-guide-nav.html %} </div>
-</div>
+  <div class="col-sm-4"> {% include cm-user-guide-nav.html %} </div>
+
