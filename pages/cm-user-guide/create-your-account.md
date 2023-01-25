@@ -1,0 +1,30 @@
+---
+permalink: /cm-user-guide/create-your-account/
+layout: page
+title: User Guide for Challenge Managers | Create Your Account 
+---
+<div class="row">
+  <div class="col-sm-12">{% include cm-user-guide-intro.html %}</div>
+</div>
+<div class="row" style="padding-top: 10px; padding-bottom: 30px;">
+  <div class="col-sm-12" style="padding-top: 6px; background-color: #005ea2; color: #ffffff; text-align: center;">
+    <h2>Create Your Account</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm-7">
+    <p>Receive challenge updates and other challenge-related information from the challenge manager via email.  Follow the challenge as a guest as no user account or log-in required.<br>
+      <br>
+      <b>NOTE:</b> Feature is not available for challenges that redirect to an external site.</p>
+    <ol style="padding-left: 50px;">
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From challenge details page, click <b>Follow challenge</b> in the general information section of the page. </span></li>
+      <br>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From the pop-up select <b>Follow challenge</b>.</span></li><br>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter your email address and click <b>Submit.</b></span></li><br>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Finish</b>. (You will be redirected to a page where you can follow more Challenges. Select any challenges you wish to follow.)</span></li><br>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Submit</b>.<br><br><b>NOTE:</b> You will receive an email from GSA, Technology Transformation Services (gsa-tts@notify.gsa.gov) with the subject “Subscription Change Confirmation”.  Stop receiving notices at any time by clicking Subscriber Preferences Page at the bottom of any GovDelivery email received.</span></li>
+    </ol>
+  </div>
+  <div class="col-sm-1">&nbsp;</div>
+  <div class="col-sm-4"> {% include user-guide-nav.html %} </div>
+</div>
