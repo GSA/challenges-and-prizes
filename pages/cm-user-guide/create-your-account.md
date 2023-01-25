@@ -1,4 +1,8 @@
-
+---
+permalink: /cm-user-guide/create-your-account/
+layout: page
+title: User Guide for Challenge Managers | Create Your Account
+---
 <div class="row">
   <div class="col-sm-12">{% include cm-user-guide-intro.html %}</div>
 </div>
