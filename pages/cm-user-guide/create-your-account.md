@@ -13,7 +13,7 @@ title: User Guide for Challenge Managers | Create Your Account
 </div>
 <div class="row">
   <div class="col-sm-7">
-    <p>Challenge.Gov uses Login.gov to provide account and system access to users. Visit Login.gov for more information.<br>
+    <p>Challenge.Gov uses Login.gov to provide account and system access to users. Visit Login.gov for more information.</p><br>
     <ol style="padding-left: 50px;">
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From the Challenge.Gov homepage, click Create account in the upper right corner.</span></li>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter your government email address (.mil or .gov required).</span></li>
