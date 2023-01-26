@@ -1,14 +1,14 @@
 ---
 permalink: /cm-user-guide/logging-in/
 layout: page
-title: User Guide for Public Solvers | Log Into Solver Portal
+title: User Guide for Challenge Managers | Logging In
 ---
 <div class="row">
   <div class="col-sm-12">{% include cm-user-guide-intro.html %}</div>
 </div>
 <div class="row" style="padding-top: 10px; padding-bottom: 30px;">
   <div class="col-sm-12" style="padding-top: 6px; background-color: #005ea2; color: #ffffff; text-align: center;">
-    <h2>Log Into Solver Portal</h2>
+    <h2>Logging Out</h2>
   </div>
 </div>
 <div class="row">
