@@ -27,7 +27,8 @@ title: User Guide for Challenge Managers | Create Your Account
        <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter the one-time security code from your selected authentication method and click <b>Submit</b>.</span></li>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Agree and continue</b> to send your new account request to the Challenge.Gov Support Team. You will be redirected back to Challenge.Gov where “Your account is pending approval” message will appear on the screen. Allow up to 2 business days for your request to be processed by the Challenge.Gov Support Team.</span></li>
     </ol>
-  </div>
+</div>
   <div class="col-sm-1">&nbsp;</div>
-  <div class="col-sm-4"> {% include cm-user-guide-nav.html %}</div>
+  <div class="col-sm-4"> {% include cm-user-guide-nav.html %} </div>
+</div>
 
