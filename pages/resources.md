@@ -71,7 +71,7 @@ title: Resources
         <i class="fas fa-envelope" style="color: #FA9441; padding-bottom: 20px; font-size: 3em;" title="Subscribe to newsletter"></i>
         <h2 class="card-title text-center">Stay Informed</h2>
         <p class="card-text text-center">Stay up to date on the latest Challenge.Gov news!</p>
-        <a href="https://public.govdelivery.com/accounts/USGSATTS/signup/30826" class="usa-button usa-button"><span style="color: #ffffff;">Subscribe to newletter</span></a>
+        <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6" class="usa-button usa-button"><span style="color: #ffffff;">Subscribe to newletter</span></a>
       </div>
     </div>
   </div>
