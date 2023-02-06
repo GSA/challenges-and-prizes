@@ -24,7 +24,7 @@
 {% if site.branch != "master" %}
   <meta name="robots" content="noindex, nofollow">
 {% endif %}
-<!-- <meta name="description" content="{{site.description}}">
+<meta name="description" content="{{site.description}}">
 
  <meta property="og:title" content="{% if page.challenge-title %}{{ page.challenge-title }}{% elsif page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}">
 <meta property="og:description" content="{% if page.tagline %}{{ page.tagline }}{% else %}{{ site.description }}{% endif %}">
@@ -34,7 +34,7 @@
 
 <meta property="og:image" content="{% if page.card-image %}{{ page.card-image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.feature_image | prepend: site.baseurl | prepend: site.url }}{% endif %}">
 <meta name="twitter:image" content="{% if page.card-image %}{{ page.card-image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.feature_image | prepend: site.baseurl | prepend: site.url }}{% endif %}">
-<meta property="og:type" content="article"> -->
+<meta property="og:type" content="article">
 
 <link rel="canonical" data-hr="true" href="{{site.baseurl}}/">
 <meta property="og:url" data-hr="true" content="{{site.baseurl}}/">
