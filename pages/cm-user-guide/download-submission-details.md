@@ -13,7 +13,7 @@ title: User Guide for Challenge Managers | Download Submission Details
 </div>
 <div class="row">
   <div class="col-sm-7">
-    <p>Download public solver submission details and attachments for viewing outside of the Challenge.Gov platform.<p>
+    <p>Download public solver submission details and attachments for viewing outside of the Challenge.Gov platform.</p>
 
     <p><b>NOTE:</b> You will be able to view submissions while the submission period is open, however, public solvers are able to revise their submissions at any point prior to the submission deadline. Therefore, you will only be able to download submissions and progress them through the challenge phases once the submission period has closed.</p>
     <ol style="padding-left: 50px;">
