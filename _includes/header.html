@@ -19,7 +19,7 @@
 <!-- Title and meta description
 ================================================== -->
 
-<title>{% if page.challenge-title %}{{ page.challenge-title }} | {{ site.title }}{% elsif page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+<title data-hr="true">{% if page.challenge-title %}{{ page.challenge-title }} | {{ site.title }}{% elsif page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 {% if site.branch != "master" %}
   <meta name="robots" content="noindex, nofollow">
 {% endif %}
@@ -36,7 +36,7 @@
 <meta property="og:type" content="article"> -->
 
 <link data-hr="true" rel="canonical" href="{{site.baseurl}}/">
-<meta property="og:url" content="{{site.baseurl}}/" data-react-helmet="true">
+<!-- meta property="og:url" content="{{site.baseurl}}/" data-react-helmet="true" -->
 
 
 
