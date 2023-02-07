@@ -18,7 +18,11 @@
 
 <!-- Title and meta description
 ================================================== -->
-  
+    ${helmet.title.toString()}
+    ${helmet.priority.toString()}
+    ${helmet.meta.toString()}
+    ${helmet.link.toString()}
+    ${helmet.script.toString()}
 
 <title>{% if page.challenge-title %}{{ page.challenge-title }} | {{ site.title }}{% elsif page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 {% if site.branch != "master" %}
