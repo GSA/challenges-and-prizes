@@ -16,7 +16,7 @@ title: User Guide for Challenge Managers | View Submissions
     <p>View public solver submissions to your challenge.</p>
     <p>You will be able to view submissions while the submission period is open, however, public solvers are able to revise their submissions at any point prior to the submission deadline. Therefore, you will only be able to download submissions and progress them through the challenge phases once the submission period has closed.</p>
     <ol style="padding-left: 50px;">
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From the Challenge Manager Dashboard, click <b>Challenge Management</b>.</li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From the Challenge Manager Dashboard, click <b>Challenge Management</b>.</span></li>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>More options</b> for the draft challenge you wish to work with. </span></li>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>View Submissions</b> from the options list.
 </span></li>
