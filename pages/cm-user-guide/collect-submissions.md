@@ -13,20 +13,22 @@ title: User Guide for Challenge Managers | Collect Submissions
 </div>
 <div class="row">
   <div class="col-sm-7">
-    <p>Challenge.Gov uses Login.gov to provide account and system access to users. Visit Login.gov for more information.</p><br>
-    <ol style="padding-left: 50px;">
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From the Challenge.Gov homepage, click Create account in the upper right corner.</span></li>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter your government email address (.mil or .gov required).</span></li>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Select the email language preference.</span></li>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click Accept and Sign-in to acknowledge the terms of use.</span></li>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Check your email for a message from Login.gov with the subject “Confirm your email”. Allow a few minutes for this email to arrive, and be sure to check any special email filters you may have (e.g. social, forums, spam, etc.).
-</span></li>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click Confirm email address in the email message which will take you back to Login.Gov.</span></li>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter your desired Login.gov/Challenge.Gov password and click <b>Continue</b>.</span></li>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Follow onscreen prompts to set up a second layer of security. Visit Login.gov help to learn more about authentication options.</span></li>
-       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter the one-time security code from your selected authentication method and click <b>Submit</b>.</span></li>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Agree and continue</b> to send your new account request to the Challenge.Gov Support Team. You will be redirected back to Challenge.Gov where “Your account is pending approval” message will appear on the screen. Allow up to 2 business days for your request to be processed by the Challenge.Gov Support Team.</span></li>
-    </ol>
+    <p>Collect public solver submissions to your challenge via the Challenge.Gov portal. Should you prefer to collect and manage public solver submissions external to the Challenge.Gov platform see Manage Submissions Externally.</p><br>
+    <p>The submission form is standard across all challenges. Data fields included on the submission form are as follows:</p>
+    <ul style="padding-left: 50px;">
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Title: Open text field to provide a name for the submission (required)</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Brief Description: (up to 500 characters, text editor tool available) - This serves as a brief summary of the submission (required)</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Description: (no character limit, text editor tool available) - Detailed submission content (required)</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Upload files: Allowed file types: pdf, .txt, .csv, .jpg, .png, .tiff (optional)</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">External URL: Link to webpage for additional submission content (optional)</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Acknowledgement of Rules, Terms & Conditions:A link is provided to the Rules tab of your challenge listing allowing participants to review the details before acknowledging (required)</span></li>
+    </ul>
+    <p>NOTES:</p>
+    <ul style="padding-left: 50px;">
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">If there are specific pieces of information you wish to collect, you can include a submission template as part of your “How to Enter” instructions detailing the information solvers must provide. The completed form can then be uploaded and included as part of their submission.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">You should limit the Personally Identifiable Information (PII) solvers are requested to provide as part of the submission process.  Examples of PII that should generally not be collected via the Challenge.Gov submission form include: SSN, financial documents, agreements, participant address. You should also consult your agency’s Paperwork Reduction Act (PRA) office for review and approval of any questions solvers are asked to answer.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">You will be able to view submissions while the submission period is open, however, public solvers are able to revise their submissions at any point prior to the submission deadline. Therefore, you will only be able to download submissions and progress them through the challenge phases once the submission period has closed.</span></li>
+    </ul>
 </div>
   <div class="col-sm-1">&nbsp;</div>
   <div class="col-sm-4"> {% include cm-user-guide-nav.html %} </div>
