@@ -21,7 +21,7 @@ title: User Guide for Challenge Managers | Collect Submissions
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;"><b>Description:</b> (no character limit, text editor tool available) - Detailed submission content (required)</span></li>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;"><b>Upload files:</b> Allowed file types: pdf, .txt, .csv, .jpg, .png, .tiff (optional)</span></li>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;"><b>External URL:</b> Link to webpage for additional submission content (optional)</span></li>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;"><b>Acknowledgement of Rules, Terms & Conditions:</b> A link is provided to the Rules tab of your challenge listing allowing participants to review the details before acknowledging (required)</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;"><b>Acknowledgement of Rules, Terms & Conditions:</b> A link is provided to the <b>Rules</b> tab of your challenge listing allowing participants to review the details before acknowledging (required)</span></li>
     </ul>
     <p><b>NOTES:</b></p>
     <ul style="padding-left: 50px;">
