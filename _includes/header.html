@@ -24,8 +24,8 @@
 {% if site.branch != "master" %}
   <meta name="robots" content="noindex, nofollow">
 {% endif %}
-<meta name="description"  data-hr="true" content="{{site.description}}">
-<meta property="og:title"  data-hr="true" content="{% if page.challenge-title %}{{ page.challenge-title }}{% elsif page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}">
+<meta name="description"  content="{{site.description}}">
+<meta property="og:title" content="{% if page.challenge-title %}{{ page.challenge-title }}{% elsif page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}">
 <meta property="og:description" data-hr="true" content="{% if page.tagline %}{{ page.tagline }}{% else %}{{ site.description }}{% endif %}">
 <meta name="twitter:card"  data-hr="true" value="summary_large_image">
 <meta name="twitter:site"  data-hr="true" content="@{site.twitter}">
@@ -33,8 +33,8 @@
 <meta name="twitter:image"  data-hr="true" content="{% if page.card-image %}{{ page.card-image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.feature_image | prepend: site.baseurl | prepend: site.url }}{% endif %}">
 <meta property="og:type"  data-hr="true" content="article">
 
-<link rel="canonical" data-hr="true" href="{{site.baseurl}}/">
-<meta property="og:url" data-hr="true" content="{{site.baseurl}}/"> 
+<link rel="canonical" href="{{site.baseurl}}/">
+<meta property="og:url" content="{{site.baseurl}}/"> 
 
 
 
