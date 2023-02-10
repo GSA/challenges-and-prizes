@@ -24,7 +24,7 @@
   <meta name="robots" content="noindex, nofollow">
 {% endif %}
 <meta data-hr="true" name="description" content="{{site.description}}">    
-<meta property="og:title" data-hr="true" content="{% if page.challenge-title %}{{ page.challenge-title }}{% elsif page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}">
+<!-- meta property="og:title" data-hr="true" content="{% if page.challenge-title %}{{ page.challenge-title }}{% elsif page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}" -->
 <meta property="og:description" content="{% if page.tagline %}{{ page.tagline }}{% else %}{{ site.description }}{% endif %}">
     
 <!-- 
@@ -41,7 +41,13 @@
 <script>
         document.querySelector("link[rel='canonical']").setAttribute("href", window.location.href);
         document.querySelector("meta[property='og:url']").setAttribute("content", window.location.href);
-        document.querySelector("meta[property='og:title']").setAttribute("content", "My Challenge Test");
+  
+ var meta = document.createElement('meta');
+ meta.setAttribute('property', 'og:title');
+ meta.setAttribute('content', 'My Challenge Test');
+ document.getElementsByTagName('head')[0].appendChild(meta)
+  
+ 
 </script>  
 
 <!-- Favicons
