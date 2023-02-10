@@ -38,7 +38,10 @@
 <link data-hr="true" rel="canonical" href="{{site.baseurl}}/{{page.url.params.challenge}}">
 <meta property="og:url" content="{{site.baseurl}}/" data-hr="true">
 
-
+<script>
+        document.querySelector("link[rel='canonical']").setAttribute("href", window.location.href);
+        document.querySelector("meta[property='og:url']").setAttribute("content", window.location.href);
+</script>  
 
 <!-- Favicons
 ================================================== -->
