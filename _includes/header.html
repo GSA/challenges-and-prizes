@@ -25,7 +25,7 @@
 {% endif %}
 <meta data-hr="true" name="description" content="{{site.description}}">    
 <!-- meta property="og:title" data-hr="true" content="{% if page.challenge-title %}{{ page.challenge-title }}{% elsif page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}" -->
-<meta property="og:description" content="{% if page.tagline %}{{ page.tagline }}{% else %}{{ site.description }}{% endif %}">
+<!-- meta property="og:description" content="{% if page.tagline %}{{ page.tagline }}{% else %}{{ site.description }}{% endif %}" -->
     
 <!-- 
 <meta name="twitter:card" value="summary_large_image">
@@ -33,22 +33,13 @@
 
 <meta property="og:image" content="{% if page.card-image %}{{ page.card-image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.feature_image | prepend: site.baseurl | prepend: site.url }}{% endif %}">
 <meta name="twitter:image" content="{% if page.card-image %}{{ page.card-image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.feature_image | prepend: site.baseurl | prepend: site.url }}{% endif %}">
-<meta property="og:type" content="article"> -->
+<meta property="og:type" content="article"> 
 
-<link data-hr="true" rel="canonical" href="{{site.baseurl}}/?challenge=rural-tech-project">
+<link data-hr="true" rel="canonical" href="{{site.baseurl}}/?challenge=">
 <meta property="og:url" content="{{site.baseurl}}/" data-hr="true">
+-->
 
-<script>
-        document.querySelector("link[rel='canonical']").setAttribute("href", window.location.href);
-        document.querySelector("meta[property='og:url']").setAttribute("content", window.location.href);
-  
- var meta = document.createElement('meta');
- meta.setAttribute('property', 'og:title');
- meta.setAttribute('content', 'My Challenge Test');
- document.getElementsByTagName('head')[0].appendChild(meta)
-  
- 
-</script>  
+
 
 <!-- Favicons
 ================================================== -->
