@@ -17,18 +17,17 @@ title: User Guide for Challenge Managers | Manage Finalists Invites
 
     <p><b>NOTE:</b> You will be able to view submissions while the submission period is open, however, public solvers are able to revise their submissions at any point prior to the submission deadline. Therefore, you will only be able to download submissions and progress them through the challenge phases once the submission period has closed.</p>
     <ol style="padding-left: 50px;">
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From the Challenge Manager Dashboard, click Challenge Management.</span></li>
-<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click More options for the challenge you wish to work with. </span></li>
-<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Select View Submissions from the options list.</span></li>
-<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click Manage Submissions for the challenge phase you wish to work with.</span></li>
-<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Select Selected for Next Phase tab.</span></li>
-<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click Manage Invited for Next Phase.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From the Challenge Manager Dashboard, click <b>Challenge Management</b>.</span></li>
+<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>More options</b> for the challenge you wish to work with. </span></li>
+<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Select <b>View Submissions</b> from the options list.</span></li>
+<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Manage Submissions</b> for the challenge phase you wish to work with.</span></li>
+<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Select <b>Selected for Next Phase</b> tab.</span></li>
+<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Manage Invited for Next Phase</b>.</span></li>
 <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Check box next to the solver(s) you wish to invite.
 NOTE: Participants will not be able to see the email addresses or other identifying information of other invited participants.</span></li>
-<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter your email content in the “Invite Message” field.</span></li>
-NOTE: The text editor allows you to adjust the font size and format, create bulleted and numbered lists, indent text, and add hyperlinks.
-Review your content.</span></li>
-<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click Send Invite which will automatically queue your message to be sent.</span></li>
+<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter your email content in the <b>“Invite Message”</b> field. NOTE: The text editor allows you to adjust the font size and format, create bulleted and numbered lists, indent text, and add hyperlinks.
+<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Review your content.</span></li>
+<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Send Invite</b> which will automatically queue your message to be sent.</span></li>
     </ol>
 </div>
   <div class="col-sm-1">&nbsp;</div>
