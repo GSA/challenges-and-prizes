@@ -17,14 +17,12 @@ title: User Guide for Challenge Managers | Progress Submissions
 
     <p><b>NOTE:</b>You will be able to view submissions while the submission period is open, however, public solvers are able to revise their submissions at any point prior to the submission deadline. Therefore, you will only be able to download submissions and progress them through the challenge phases once the submission period has closed.</p>
     <ol style="padding-left: 50px;">
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From the Challenge Manager Dashboard, click Challenge Management.</span></li>
-<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Select More options for the draft challenge you wish to work with. </span></li>
-<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Select View Submissions from the dropdown list.</span></li>
-<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">If multi-phase challenge (skip to next step if single-phase challenge), otherwise click Manage Submissions for the challenge phase you wish to work with.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From the Challenge Manager Dashboard, click <b>Challenge Management</b>.</span></li>
+<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Select <b>More options</b> for the draft challenge you wish to work with. </span></li>
+<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Select <b>View Submissions</b> from the dropdown list.</span></li>
+<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">If multi-phase challenge (skip to next step if single-phase challenge), otherwise click <b>Manage Submissions</b> for the challenge phase you wish to work with.</span></li>
 <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click the tab in the middle of the screen to select the evaluation phase you wish to work with.</span></li>
-<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click Add to the right of the submission title to progress it to the next evaluation phase</span></li>
-NOTE: Once the Add button is clicked, the button will turn gray and change to Selected. To deselect and return the submission to a prior evaluation phase, click the Selected button.
-</span></li>
+<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Add</b> to the right of the submission title to progress it to the next evaluation phase. Once the <b>Add</b> button is clicked, the button will turn gray and change to Selected. To deselect and return the submission to a prior evaluation phase, click the Selected button.</span></li>
     </ol>
 </div>
   <div class="col-sm-1">&nbsp;</div>
