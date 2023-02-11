@@ -181,6 +181,13 @@ title: User Guide for Challenge Managers
         </a> </div>
     </div>
   </div>
+    <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/communicate-with-participants/" style="text-decoration: none !important;"><i class="fas fa-award" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Communicate with Particpants"></i>
+        <h4 class="card-title text-center">Communicate with Participants</h4>
+        </a> </div>
+    </div>
+  </div>
 </div>
 <h2>Manage Submissions Externally</h2>
 <div class="row">
