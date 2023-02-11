@@ -176,8 +176,8 @@ title: User Guide for Challenge Managers
   </div>
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/manage-finalist-invites/" style="text-decoration: none !important;"><i class="fas fa-award" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Manage-finalist-invites"></i>
-        <h4 class="card-title text-center">Manage finalist invites</h4>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/manage-finalists-invites/" style="text-decoration: none !important;"><i class="fas fa-award" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Manage-finalists-invites"></i>
+        <h4 class="card-title text-center">Manage finalists invites</h4>
         </a> </div>
     </div>
   </div>
