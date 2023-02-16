@@ -25,7 +25,7 @@ title: Challenge.Gov FY22 Year In Review
   <h3>Our new year’s resolutions for FY23:</h3>
   <div>
 <ul>
-  <li>Deliver high value support to federal agencies, at no cost.</li>
+  <li>Continue to deliver high value support to federal agencies, at no cost.</li>
   <li>Focus technical assistance, resources and support on new challenge managers. </li>
   <li>Identify, map, and grow the ecosystem of open innovation.</li>
   <li>Engage new agencies to find important, accessible ways to connect with members of the public through prize competitions and crowdsourcing campaigns.</li>
