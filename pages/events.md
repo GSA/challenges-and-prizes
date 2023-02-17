@@ -8,7 +8,7 @@ title: Events
   <div class="col-sm-12">
     <div class="card">
       <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Technical help"></i>
-        <h2 class="card-title text-center">Event Title</h2>
+        <h2 class="card-title text-center">March 1st</h2>
         <div class="col-sm-3">
           <h3>Working with the public to improve digital forms: A GSA case study</h3>
           <p class="card-text text-center">
