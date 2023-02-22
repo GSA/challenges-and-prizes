@@ -22,13 +22,13 @@ title: Challenge.Gov FY22 Year In Review
 <h2>Looking Ahead</h2><br><br>
 <p>Challenge.Gov is proud to be part of an ecosystem advancing open innovation in the federal government and engaging the public in open ways.</p> 
 
-  <h3>Our new year’s resolutions for FY23:</h3>
+  <h3>Our goals for FY23:</h3>
   <div>
 <ul>
   <li>Continue to deliver high value support to federal agencies, at no cost.</li>
   <li>Focus technical assistance, resources and support on new challenge managers. </li>
   <li>Identify, map, and grow the ecosystem of open innovation.</li>
-  <li>Engage new agencies to find important, accessible ways to connect with members of the public through prize competitions and crowdsourcing campaigns.</li>
+  <li>Identify important, accessible ways to connect with the public on open innovation.</li>
   <li>Support challenge managers in telling their agency’s story and experiences.
 </li>
   </ul>
