@@ -8,7 +8,7 @@ title: Events
   <div class="col-sm-12">
     <div class="card">
       <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
-        <h2 class="card-title text-center">March 1st</h2>
+        <h2 class="card-title text-center" style="font-weight: 900;">March 1st</h2>
         <h3>Working with the public to improve digital forms: A GSA case study</h3>
         <p class="card-text text-center"> Working with the public to improve digital forms: A GSA case study
           GSA’s Office of Evaluation Sciences shares how five offices worked with the public to improve digital forms.
