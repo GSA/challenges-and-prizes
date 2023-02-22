@@ -27,7 +27,7 @@ title: Events
         <p class="card-text text-center"> Working with the public to improve digital forms: A GSA case study
           GSA’s Office of Evaluation Sciences shares how five offices worked with the public to improve digital forms.
           Hosted by Digital.gov and the Web Analytics Community of Practice and Web Managers Community of Practice</p>
-        <a href="#" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a></div>
+        </div>
     </div>
   </div>
 </div>
