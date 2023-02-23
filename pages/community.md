@@ -34,7 +34,7 @@ Members of the Challenge and Prize CoP gather regularly to share ideas, review b
 
 FY22 was a big year for Challenge.Gov and the federal open innovation community. Check out our Year in Review infographic for a “by the numbers” summary and what we’re looking forward to in the year to come.
 
-<a href="{{ site.baseurl }}/pages/fy22-year-in-review.md">**Challenge.Gov FY22 Year in Review Summary and Infographic**</a> 
+<a href="{{ site.baseurl }}/pages/fy22-year-in-review/">**Challenge.Gov FY22 Year in Review Summary and Infographic**</a> 
 
 **Related Resources**
 
