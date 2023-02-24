@@ -3,7 +3,7 @@ permalink: /events/
 layout: page
 title: Events
 ---
-<h1 class="mb-4 font-weight-bold">Upcoming Events</h1>
+<h1 class="text-center mb-4 font-weight-bold">Upcoming Events</h1>
 <div class="col-sm-12">
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
