@@ -18,7 +18,7 @@ title: Events
     </div>
   </div>
 </div>
-<h3>Past Events</h3>
+<h3 class="text-center">Past Events</h3>
 <div class="row">
   <div class="col-sm-12">
     <div class="card">
