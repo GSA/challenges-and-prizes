@@ -21,10 +21,14 @@
 title: Challenge.Gov
 email:  team@challenge.gov
 feature_image: /assets/images/cards/challenge-gov.png
+
 description: >- # this means to ignore newlines until "baseurl:"
-  Here, members of the public compete to help the U.S. government solve problems big and small. Browse through challenges and submit your ideas for a chance to win.
+ Challenge.Gov is the official GSA government website supporting prize challenges and prize competitions that are sponsored by the US federal government.  Here federal agencies provide prize awards to public citizens and entities who solve problems and develop innovations.
 # baseurl: "" # the subpath of your site, e.g. /blog
+
 url: "https://www.challenge.gov" # the base hostname & protocol for your site, e.g. http://example.com
+
+keywords: prize competitions, prize challenges, prize contests, public competitions, open challenges, open innovation, federal prize competitions, federal prize challenges, crowdsourcing 
 
 # Twitter handle. Only the handle, not the URL.
 twitter: challengegov
