@@ -13,19 +13,15 @@ title: User Guide for Challenge Managers | Send Bulletin to Followers
 </div>
 <div class="row">
   <div class="col-sm-7">
-    <p>Challenge.Gov uses Login.gov to provide account and system access to users. Visit Login.gov for more information.</p><br>
+    <p>Send an email notification to potential solvers and others who have elected to follow your challenge. You can find the number of followers for each challenge in the Subscribers column of your challenges list. Challenge.Gov uses GovDelivery to support management of challenge followers and facilitate message delivery.</p><br>
     <ol style="padding-left: 50px;">
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From the Challenge.Gov homepage, click Create account in the upper right corner.</span></li>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter your government email address (.mil or .gov required).</span></li>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Select the email language preference.</span></li>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click Accept and Sign-in to acknowledge the terms of use.</span></li>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Check your email for a message from Login.gov with the subject “Confirm your email”. Allow a few minutes for this email to arrive, and be sure to check any special email filters you may have (e.g. social, forums, spam, etc.).
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From the Challenge Manager Dashboard, click <strong>Challenge Management</strong>.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <strong>More options</strong> for the draft challenge you wish to edit.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Select <strong>Send Bulletin</strong> from the options list.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter your desired email subject in the <strong>Subject</strong> field.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter your email content in the “Body” field. The text editor allows you to adjust the font size and format, create bulleted and numbered lists, indent text, and add hyperlinks.
 </span></li>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click Confirm email address in the email message which will take you back to Login.Gov.</span></li>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter your desired Login.gov/Challenge.Gov password and click <b>Continue</b>.</span></li>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Follow onscreen prompts to set up a second layer of security. Visit Login.gov help to learn more about authentication options.</span></li>
-       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter the one-time security code from your selected authentication method and click <b>Submit</b>.</span></li>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Agree and continue</b> to send your new account request to the Challenge.Gov Support Team. You will be redirected back to Challenge.Gov where “Your account is pending approval” message will appear on the screen. Allow up to 2 business days for your request to be processed by the Challenge.Gov Support Team.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Review your content carefully then click <strong>Submit</strong>.</span></li>
     </ol>
 </div>
   <div class="col-sm-1">&nbsp;</div>
