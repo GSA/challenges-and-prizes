@@ -14,7 +14,7 @@ title: User Guide for Challenge Managers | View Analytics
 <div class="row">
   <div class="col-sm-7">
     <p>View a snapshot of Challenge.Gov platform data.</p><br>
-    <h3>Site Analytics Reports: The following monthly report files (csv) are available for download:
+    <p><strong>Site Analytics Reports</strong></p>
 </h3>
     <ol style="padding-left: 50px;">
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From the Challenge Manager Dashboard, click Analytics.</span></li>
