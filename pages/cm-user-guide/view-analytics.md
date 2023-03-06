@@ -19,9 +19,9 @@ title: User Guide for Challenge Managers | View Analytics
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From the Challenge Manager Dashboard, click Analytics.</span></li>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">The following monthly report files (csv) are available for download:</span>
       <ul>
-        <li>Challenge.Gov Website Analytics</li>
-<li>Challenge.Gov Twitter Metrics</li>
-<li>Challenge.Gov LinkedIn Metrics</li>
+        <li style="font-weight:400;">Challenge.Gov Website Analytics</li>
+<li style="font-weight:400;">Challenge.Gov Twitter Metrics</li>
+<li style="font-weight:400;">Challenge.Gov LinkedIn Metrics</li>
         </ul>
       </li>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">To download, click the link to the report you wish to view.  This will download the file to your computer or mobile device.</span></li>
@@ -32,14 +32,14 @@ title: User Guide for Challenge Managers | View Analytics
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">The following metrics are available via the platform.</span>
       <ul>
         <li style="font-weight:200;">Total Active</li>
-<li style="font-weight:200;">Total Archived</li>
-<li style="font-weight:200;">Total in Draft</li>
-<li style="font-weight:200;">All Challenges by Year</li>
-<li style="font-weight:200;">Challenges by Primary Type (creative, software/apps, ideas, etc.)</li>
-<li style="font-weight:200;">Challenge by Hosting (on Challenge.Gov or External)</li>
-<li style="font-weight:200;">Total Cash Prizes</li>
-<li style="font-weight:200;">Challenges by Legal Authority (America COMPETES or other)</li>
-<li style="font-weight:200;">Number of Participating Lead Agencies</li>
+<li style="font-weight:400;">Total Archived</li>
+<li style="font-weight:400;">Total in Draft</li>
+<li style="font-weight:400;">All Challenges by Year</li>
+<li style="font-weight:400;">Challenges by Primary Type (creative, software/apps, ideas, etc.)</li>
+<li style="font-weight:400;">Challenge by Hosting (on Challenge.Gov or External)</li>
+<li style="font-weight:400;">Total Cash Prizes</li>
+<li style="font-weight:400;">Challenges by Legal Authority (America COMPETES or other)</li>
+<li style="font-weight:400;">Number of Participating Lead Agencies</li>
         </ul>
       </li>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">By default all Challenge.Gov data, dating back to 2010, is displayed. To narrow the data:</span></li>
