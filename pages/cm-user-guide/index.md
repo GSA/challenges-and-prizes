@@ -248,7 +248,7 @@ title: User Guide for Challenge Managers
 <div class="row">
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/view-messages/" style="text-decoration: none !important;"><i class="fas fa-chart-bar" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="View analytics"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/view-analytics/" style="text-decoration: none !important;"><i class="fas fa-chart-bar" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="View analytics"></i>
         <h4 class="card-title text-center">View<br>
           Analytics</h4>
         </a> </div>
