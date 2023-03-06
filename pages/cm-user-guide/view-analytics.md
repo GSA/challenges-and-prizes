@@ -45,7 +45,7 @@ title: User Guide for Challenge Managers | View Analytics
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">By default all Challenge.Gov data, dating back to 2010, is displayed. To narrow the data:</span></li>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Select Overall Challenge Date Filter - choose between Filter on start date or Filter on end date</span></li>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Select the desired option(s) from the dropdowns: Start year, End year, Agency</span></li>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click Filter</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <strong>Filter</strong></span></li>
     </ol>
 </div>
 
