@@ -31,21 +31,21 @@ title: User Guide for Challenge Managers | View Analytics
     <ol style="padding-left: 50px;">
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">The following metrics are available via the platform.</span>
       <ul>
-        <li>Total Active</li>
-<li>Total Archived</li>
-<li>Total in Draft</li>
-<li>All Challenges by Year</li>
-<li>Challenges by Primary Type (creative, software/apps, ideas, etc.)</li>
-<li>Challenge by Hosting (on Challenge.Gov or External)</li>
-<li>Total Cash Prizes</li>
-<li>Challenges by Legal Authority (America COMPETES or other)</li>
-<li>Number of Participating Lead Agencies</li>
+        <li style="font-weight:200;">Total Active</li>
+<li style="font-weight:200;">Total Archived</li>
+<li style="font-weight:200;">Total in Draft</li>
+<li style="font-weight:200;">All Challenges by Year</li>
+<li style="font-weight:200;">Challenges by Primary Type (creative, software/apps, ideas, etc.)</li>
+<li style="font-weight:200;">Challenge by Hosting (on Challenge.Gov or External)</li>
+<li style="font-weight:200;">Total Cash Prizes</li>
+<li style="font-weight:200;">Challenges by Legal Authority (America COMPETES or other)</li>
+<li style="font-weight:200;">Number of Participating Lead Agencies</li>
         </ul>
       </li>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">By default all Challenge.Gov data, dating back to 2010, is displayed. To narrow the data:</span></li>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Select Overall Challenge Date Filter - choose between Filter on start date or Filter on end date</span></li>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Select the desired option(s) from the dropdowns: Start year, End year, Agency</span></li>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <strong>Filter</strong></span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Select <strong>Overall Challenge Date Filter</strong> - choose between Filter on start date or Filter on end date.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Select the desired option(s) from the dropdowns: Start year, End year, Agency.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <strong>Filter</strong>.</span></li>
     </ol>
 </div>
 
