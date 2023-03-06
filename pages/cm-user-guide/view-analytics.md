@@ -31,7 +31,7 @@ title: User Guide for Challenge Managers | View Analytics
     <ol style="padding-left: 50px;">
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">The following metrics are available via the platform.</span>
       <ul>
-        <li style="font-weight:200;">Total Active</li>
+        <li style="font-weight:400;">Total Active</li>
 <li style="font-weight:400;">Total Archived</li>
 <li style="font-weight:400;">Total in Draft</li>
 <li style="font-weight:400;">All Challenges by Year</li>
