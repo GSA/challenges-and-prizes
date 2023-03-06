@@ -19,7 +19,7 @@ title: User Guide for Challenge Managers | Send Bulletin to Followers
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <strong>More options</strong> for the draft challenge you wish to edit.</span></li>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Select <strong>Send Bulletin</strong> from the options list.</span></li>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter your desired email subject in the <strong>Subject</strong> field.</span></li>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter your email content in the “Body” field. The text editor allows you to adjust the font size and format, create bulleted and numbered lists, indent text, and add hyperlinks.
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter your email content in the <strong>Body</strong> field. The text editor allows you to adjust the font size and format, create bulleted and numbered lists, indent text, and add hyperlinks.
 </span></li>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Review your content carefully then click <strong>Submit</strong>.</span></li>
     </ol>
