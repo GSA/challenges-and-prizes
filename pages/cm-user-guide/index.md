@@ -239,7 +239,7 @@ title: User Guide for Challenge Managers
   <div class="col-sm-3">
     <div class="card">
       <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/reply-to-messages/" style="text-decoration: none !important;"><i class="fas fa-comments" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Reply to a question"></i>
-        <h4 class="card-title text-center">Reply to a question</h4>
+        <h4 class="card-title text-center">Reply to<br>a question</h4>
         </a> </div>
     </div>
   </div>
