@@ -17,9 +17,15 @@ title: User Guide for Challenge Managers | View Analytics
     <h3>Site Analytics Reports: The following monthly report files (csv) are available for download:
 </h3>
     <ol style="padding-left: 50px;">
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Challenge.Gov Website Analytics</span></li>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Challenge.Gov Twitter Metrics</span></li>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Select the email language preference.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From the Challenge Manager Dashboard, click Analytics.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">The following monthly report files (csv) are available for download:</span>
+      <ul>
+        <li>Challenge.Gov Website Analytics</li>
+<li>Challenge.Gov Twitter Metrics</li>
+<li>Challenge.Gov LinkedIn Metrics</li>
+        </ul>
+      </li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">To download, click the link to the report you wish to view.  This will download the file to your computer or mobile device.</span></li>
     </ol>
 </div>
   <div class="col-sm-1">&nbsp;</div>
