@@ -17,7 +17,7 @@ title: User Guide for Challenge Managers | Additional Resources
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;"><a href="https://portal.challenge.gov/pdfs/creating_new_challenge-2bacf3110244f70dbc8d0f0cd2369aad.pdf?vsn=d">Challenge Data Dictionary / Loading Template</a></span></li>
 <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;"><a href="https://www.challenge.gov/toolkit/faq/">FAQ</a></span></li>
 <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;"><a href="https://www.login.gov/help/">Login.gov help</a></span></li>
-<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;"><a href="https://www.challenge.gov/toolkit/">Agency Toolkit</a></span></li>
+<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;"><a href="https://www.challenge.gov/assets/document-library/ChallengeGov_Federal_Agency_Toolkit_13Oct2021.pdf">Agency Toolkit</a></span></li>
 <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;"><a href="https://www.challenge.gov/toolkit/case-studies/">Case Studies</a></span></li>
 <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;"><a href="https://www.challenge.gov/toolkit/resources/">Federal Agency Resources & Policies</a></span></li>
     </ol>
