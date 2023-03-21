@@ -13,23 +13,22 @@ title: User Guide for Challenge Managers | Edit Draft Challenge
 </div>
 <div class="row">
   <div class="col-sm-7">
-    <p>Create a challenge tile that will appear on Challenge.Gov and link to your challenge details page. During setup you will have options for: challenge publication date & time; single or multiple phase challenges; collection of submissions via Challenge.Gov or an external challenge site; default or custom challenge URL.</p>
+    <p>Edit a challenge in Draft or GSA Review status and submit the challenge for Review by the Challenge.Gov support team. Editing a challenge in GSA Review will revert it to Draft status. Once edits are made, you must re-submit your challenge for review.</p>
     <ol style="padding-left: 50px;">
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From the Challenge Manager Dashboard, click <b>Create a new challenge</b>.</span></li>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Follow on-screen prompts and enter the challenge details starting with <b>General Info</b>. (See the Challenge Template for additional information regarding each of the data fields.) For long text fields there is a text editor that allows you to adjust the font size and format, create bulleted and numbered lists, indent text, and add hyperlinks.</span></li>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">After completing a section, click <b>Next</b> on the bottom right of the page. A progress bar appears at the top of the page showing your progress. Click <b>Save</b> at any point to save your work and finish at a later time.</span></li>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Once all sections have been completed, review your challenge details.
-        <ul>
-          <li> If edits are needed, click <b>Edit</b> to the right of the desired section which returns you to that area of the challenge builder. Once your edits have been made, return to step 3 above.</li>
-          <li>Click <b>Preview Challenge</b> in New Tab in the bottom right to view the challenge as it will appear on Challenge.Gov. The preview page will contain a link to share with other team members for internal agency review.</li>
-        </ul>
-        </span></li>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Once agency approvals have been received, click <b>Submit for Approval</b> on the bottom right. The Challenge.Gov support team will review your challenge for general content clarity, visibility of graphics, and significant spelling and grammatical errors. Allow up to 2 business days for your request to be processed by the Challenge.Gov support team. After the review, the team will either <b>Approve</b> for posting or <b>Recommend Edits</b>.
-        <ul>
-          <li> If <b>Approved</b>, your challenge will automatically go live on the Publish Date entered when creating your challenge.</li>
-          <li>If <b>Edits Requested</b>, you will receive an email notification detailing the recommendations. (Refer to the Edit your challenge for instructions for updating your challenge content and resubmitting for review.)</li>
-        </ul>
-        </span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From the Challenge Manager Dashboard, click Challenge Management.</span></li>
+<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click the View for the draft challenge you wish to edit which will take you to the Challenge Info page.</span></li>
+<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click Edit to the right of the section you wish to edit. This will return you to that section of the challenge builder. You can click <b>Save</b> at any point to save and continue working at a later time.
+<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click Next in the bottom right of the page to proceed to the next section.  </span></li>
+<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Once all sections have been completed, review your challenge details.</span></li>
+If edits are needed, click Edit to the right of the section you wish to edit. This will return you to that section of the challenge builder. Once edits are complete, return to <b>Step 4</b> above.</span></li>
+Click Preview Challenge in New Tab in the bottom right to view the challenge as it will appear once approved. This page will contain a link you can share with other team members for internal agency review.</span></li>
+<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Once agency approvals have been received, click <b>Submit for Approval</b> in the bottom right to submit the challenge for review by the Challenge.Gov support team who will review your challenge for general content clarity, visibility of graphics, and significant spelling and grammatical errors. Allow up to 2 business days for your request to be processed. Upon completion of the review, the team will either <b>Approve</b> for posting or <b>Recommend Edits</b>.
+  <ul>
+    <li>
+      If <b>Approved</b>, your challenge will automatically go live on the Publish Date you entered when creating your challenge.</li>
+    <li>If <b>Edits Requested</b>, you will receive an email notification detailing the recommendations. (Refer to the Edit your challenge for instructions for updating your challenge content and resubmitting for review.)</li>
+  </ul>
+       </span></li>
     </ol>
   </div>
   <div class="col-sm-1">&nbsp;</div>
