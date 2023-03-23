@@ -1,14 +1,14 @@
 ---
-permalink: /cm-user-guide/print-challenges/
+permalink: /cm-user-guide/print-challenge-listing/
 layout: page
-title: User Guide for Challenge Managers | Print Challenges
+title: User Guide for Challenge Managers | Print Challenge Listing
 ---
 <div class="row">
   <div class="col-sm-12">{% include cm-user-guide-intro.html %}</div>
 </div>
 <div class="row" style="padding-top: 10px; padding-bottom: 30px;">
   <div class="col-sm-12" style="padding-top: 6px; background-color: #005ea2; color: #ffffff; text-align: center;">
-    <h2>Print Challenges</h2>
+    <h2>Print Challenge Listing</h2>
   </div>
 </div>
 <div class="row">
