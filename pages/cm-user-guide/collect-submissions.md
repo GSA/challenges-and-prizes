@@ -1,14 +1,14 @@
 ---
-permalink: /cm-user-guide/manage-submissions/
+permalink: /cm-user-guide/collect-submissions/
 layout: page
-title: User Guide for Challenge Managers | Manage Submissions
+title: User Guide for Challenge Managers | Collect Submissions
 ---
 <div class="row">
   <div class="col-sm-12">{% include cm-user-guide-intro.html %}</div>
 </div>
 <div class="row" style="padding-top: 10px; padding-bottom: 30px;">
   <div class="col-sm-12" style="padding-top: 6px; background-color: #005ea2; color: #ffffff; text-align: center;">
-    <h2>Manage Submissions</h2>
+    <h2>Collect Submissions</h2>
   </div>
 </div>
 <div class="row">
@@ -26,6 +26,13 @@ title: User Guide for Challenge Managers | Manage Submissions
 
 </span></li>
     </ol>
+  Notes:
+    <ul>
+      <li>If there are specific pieces of information you wish to collect, you can include a submission template as part of your “How to Enter” instructions detailing the information solvers must provide. The completed form can then be uploaded and included as part of their submission.</li>
+<li>You should limit the Personally Identifiable Information (PII) solvers are requested to provide as part of the submission process.  Examples of PII that should generally not be collected via the Challenge.Gov submission form include: SSN, financial documents, agreements, participant address. You should also consult your agency’s Paperwork Reduction Act (PRA) office for review and approval of any questions solvers are asked to answer.</li>
+<li>You will be able to view submissions while the submission period is open, however, public solvers are able to revise their submissions at any point prior to the submission deadline. Therefore, you will only be able to download submissions and progress them through the challenge phases once the submission period has closed.</li>
+    </ul>
+
   </div>
   <div class="col-sm-1">&nbsp;</div>
   <div class="col-sm-4"> {% include cm-user-guide-nav.html %} </div>
