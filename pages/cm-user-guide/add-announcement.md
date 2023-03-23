@@ -16,12 +16,12 @@ title: User Guide for Challenge Managers | Add Announcement
     <p>Add an announcement/update (up to 150 characters) to the top of your challenge profile. Announcements will display at the top of your challenge page for two (2) weeks from the date you publish it (unless removed by you prior to that time - see the Edit an Announcement Section.  For active challenges, an Important Update banner will also appear on your challenge tile on the Challenge.Gov homepage.
 </p>
     <ol style="padding-left: 50px;">
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From the Challenge Manager Dashboard, click Challenge Management.</span></li>
-<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click View for the draft challenge you wish to edit which will take you to the Challenge Info page for this Challenge.</span></li>
-<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click Add/Edit Announcement in the Other Actions box in the upper right.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From the Challenge Manager Dashboard, click <b>Challenge Management</b>.</span></li>
+<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>View</b> for the draft challenge you wish to edit which will take you to the Challenge Info page for this Challenge.</span></li>
+<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Add/Edit Announcement</b> in the Other Actions box in the upper right.</span></li>
 <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter the text you’d like displayed in the Banner update text box.</span></li>
-<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click Publish in the lower right.</span></li>
-<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click OK in the alert message box to confirm and post the update.
+<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Publish</b> in the lower right.</span></li>
+<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>OK</b> in the alert message box to confirm and post the update.
 </span></li>
     </ol>
   </div>
