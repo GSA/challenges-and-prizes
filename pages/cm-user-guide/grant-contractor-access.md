@@ -17,9 +17,8 @@ title: User Guide for Challenge Managers | Grant Contractor Access
 
 </p>
     <ol style="padding-left: 50px;">
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Person who needs to be added creates a Challenge.Gov public solver account.
-NOTE: The process for creating a public solver account is the same as for a challenge manager account. The exceptions being: (1) requiring use of a government email; (2) needing approval by the Challenge.Gov Support Team.</span></li>
-<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">The challenge manager who initially created the listing sends an email request to team@challenge.gov with following:
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Person who needs to be added creates a Challenge.Gov public solver account. The process for creating a public solver account is the same as for a challenge manager account. The exceptions being: (1) requiring use of a government email; (2) needing approval by the Challenge.Gov Support Team.</span></li>
+<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">The challenge manager who initially created the listing sends an email request to <a href="mailto:team@challenge.gov">team@challenge.gov</a> with following:
   <ul>
     <li>
 Subject Line: “Request to activate contractor account”</li>
