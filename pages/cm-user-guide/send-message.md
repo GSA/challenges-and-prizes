@@ -25,8 +25,7 @@ title: User Guide for Challenge Managers | Send Message
         <ul>
           <li>From the Submissions page, select the tab for the submission phase you wish to work with.</li>
           <li>Select the checkbox(es) next to the title(s) of the submission for the participant you want to message.</li>
-        </ul>
-        </span></li>
+        </ul></li>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Message Solvers</b> at the top left of the tab. Enter your message content in the text box at the button of the page. Adjust the font size and format, create bulleted and numbered lists, indent text, and add hyperlinks. Click <b>Save Draft</b> at any point to save and continue working at a later time.</span></li>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Send Message</b> at the bottom of the page. </span></li>
     </ol>
