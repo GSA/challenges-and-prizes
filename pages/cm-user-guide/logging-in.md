@@ -8,7 +8,7 @@ title: User Guide for Challenge Managers | Logging In
 </div>
 <div class="row" style="padding-top: 10px; padding-bottom: 30px;">
   <div class="col-sm-12" style="padding-top: 6px; background-color: #005ea2; color: #ffffff; text-align: center;">
-    <h2>Logging Out</h2>
+    <h2>Logging In</h2>
   </div>
 </div>
 <div class="row">
