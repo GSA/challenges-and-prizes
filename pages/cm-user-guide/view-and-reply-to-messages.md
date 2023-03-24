@@ -1,14 +1,14 @@
 ---
-permalink: /cm-user-guide/view-message/
+permalink: /cm-user-guide/view-and-reply-to-messages/
 layout: page
-title: User Guide for Challenge Managers | View Message
+title: User Guide for Challenge Managers | View and Reply to Messages
 ---
 <div class="row">
   <div class="col-sm-12">{% include cm-user-guide-intro.html %}</div>
 </div>
 <div class="row" style="padding-top: 10px; padding-bottom: 30px;">
   <div class="col-sm-12" style="padding-top: 6px; background-color: #005ea2; color: #ffffff; text-align: center;">
-    <h2>View Message</h2>
+    <h2>View and Reply to Messages</h2>
   </div>
 </div>
 <div class="row">
