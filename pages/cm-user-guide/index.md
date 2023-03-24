@@ -54,7 +54,7 @@ title: User Guide for Challenge Managers
   </div>
   <div class="col-sm-3">
     <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/edit-draft-challenges/" style="text-decoration: none !important;"><i class="fas fa-edit" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Edit draft challenge"></i>
+      <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/edit-draft-challenge/" style="text-decoration: none !important;"><i class="fas fa-edit" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Edit draft challenge"></i>
         <h4 class="card-title text-center">Edit draft<br>challenge</h4>
         </a> </div>
     </div>
