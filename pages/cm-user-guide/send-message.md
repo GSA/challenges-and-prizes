@@ -21,7 +21,7 @@ title: User Guide for Challenge Managers | Send Message
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Select a challenge from the <b>Select Your Challenge</b> dropdown.</span></li>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click the radio button to indicate if you wish to send the message to “All members of this challenge” or an “Individual solver of this challenge”. Participants will not be able to see communications with other participants. Sending a message to multiple participants will start a separate message thread with each one. </span></li>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>New Message</b> at the bottom of the page
-        If you selected “All members of this challenge”, skip to step 7. If you selected “Individual solver of this challenge”, follow the steps below to select which solver(s) you wish to message:
+        If you selected “All members of this challenge”, skip to the next step. If you selected “Individual solver of this challenge”, follow the steps below to select which solver(s) you wish to message:
         <ul>
           <li>From the Submissions page, select the tab for the submission phase you wish to work with.</li>
           <li>Select the checkbox(es) next to the title(s) of the submission for the participant you want to message.</li>
