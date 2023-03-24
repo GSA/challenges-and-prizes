@@ -1,14 +1,14 @@
 ---
-permalink: /cm-user-guide/manage-finalists-invites/
+permalink: /cm-user-guide/manage-finalist-invites/
 layout: page
-title: User Guide for Challenge Managers | Manage Finalists Invites
+title: User Guide for Challenge Managers | Manage Finalist Invites
 ---
 <div class="row">
   <div class="col-sm-12">{% include cm-user-guide-intro.html %}</div>
 </div>
 <div class="row" style="padding-top: 10px; padding-bottom: 30px;">
   <div class="col-sm-12" style="padding-top: 6px; background-color: #005ea2; color: #ffffff; text-align: center;">
-    <h2>Manage Finalists Invites</h2>
+    <h2>Manage Finalist Invites</h2>
   </div>
 </div>
 <div class="row">
