@@ -14,8 +14,8 @@ title: User Guide for Challenge Managers | Logging Out
 <div class="row">
   <div class="col-sm-7">
     <ol style="padding-left: 50px;">
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click Your email address in the upper right corner.</span></li>
-      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click Logout.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Your email address</b> in the upper right corner.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Logout</b>.</span></li>
     </ol>
   </div>
   <div class="col-sm-1">&nbsp;</div>
