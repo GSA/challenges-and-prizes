@@ -205,16 +205,7 @@ title: User Guide for Challenge Managers
   <div class="col-sm-3">
     <div class="card">
       <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/view-messages/" style="text-decoration: none !important;"><i class="fas fa-comments" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="View messages"></i>
-        <h4 class="card-title text-center">View<br>
-          messages</h4>
-        </a> </div>
-    </div>
-  </div>
-  <div class="col-sm-3">
-    <div class="card">
-      <div class="card-body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/reply-to-messages/" style="text-decoration: none !important;"><i class="far fa-comments" style="color: #005ea2; font-size: 2em; padding-bottom: 20px;" title="Reply to messages"></i>
-        <h4 class="card-title text-center">Reply to<br>
-          messages</h4>
+        <h4 class="card-title text-center">View and reply to messages</h4>
         </a> </div>
     </div>
   </div>
