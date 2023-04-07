@@ -9,6 +9,7 @@ title: Events
 
 <p>Subscribe to the <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?topic_id=USGSATTS_41">Challenge.Gov News e-Newsletter</a> to stay up-to-date on events and activities.
 </p>
+  <p>Are you a federal challenge manager with an event to share? Send an email to <a href="mailto:team@challenge.gov">team@challenge.gov.</a></p> 
 </div>
 <div class="row">
   <div class="col-sm-12">
