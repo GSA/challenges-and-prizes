@@ -20,8 +20,8 @@ title: Events
 
 Join us May 2 to meet the challenge team, share your questions, and learn more. 
 
-          May 2, 2023
-          1:00 - 1:20 pm ET
+          <b>May 2, 2023 <br/>
+            1:00 - 1:20 pm ET</b>
 </p>
         <a href="http://ow.ly/1zgi50NCUQ9" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a></div>
     </div>
