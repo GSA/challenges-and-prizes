@@ -32,11 +32,10 @@ Join us May 2 to meet the challenge team, share your questions, and learn more.
   <div class="col-sm-12">
     <div class="card">
       <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Past event"></i>
-        <h2 class="card-title text-center" style="font-weight: 900;">Jan 1st</h2>
-        <h4>Working with the public to improve digital forms: A GSA case study</h4>
-        <p class="card-text text-center"> Working with the public to improve digital forms: A GSA case study
-          GSA’s Office of Evaluation Sciences shares how five offices worked with the public to improve digital forms.
-          Hosted by Digital.gov and the Web Analytics Community of Practice and Web Managers Community of Practice</p>
+        <h2 class="card-title text-center" style="font-weight: 900;">March 16, 2023/h2>
+        <h4>Applied AI Healthcare Challenge Chat Q&A</h4>
+        <p class="card-text text-center">Improving America's Healthcare Services through Artificial Intelligence
+</p>
         </div>
     </div>
   </div>
