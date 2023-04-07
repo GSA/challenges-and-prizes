@@ -5,7 +5,10 @@ title: Events
 ---
 <h1 class="text-center mb-4 font-weight-bold">Upcoming Events</h1>
 <div class="col-sm-12">
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<p>Public engagement is at the heart of Challenge.Gov. The Challenge.Gov program produces events to highlight specific challenges hosted on the platform and provide opportunities for members of the public to learn more about federal open innovation. Federal agencies host events to highlight their challenges and prize competitions.</p>
+
+<p>Subscribe to the Challenge.Gov News e-Newsletter to stay up-to-date on events and activities.
+</p>
 </div>
 <div class="row">
   <div class="col-sm-12">
