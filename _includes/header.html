@@ -31,11 +31,9 @@
 <meta name="twitter:card" value="summary_large_image">
 <meta name="twitter:site" content="@{site.twitter}">
 <meta name="keywords" content="{{site.keywords}}">
-
 <meta property="og:image" content="{% if page.card-image %}{{ page.card-image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.feature_image | prepend: site.baseurl | prepend: site.url }}{% endif %}">
 <meta name="twitter:image" content="{% if page.card-image %}{{ page.card-image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.feature_image | prepend: site.baseurl | prepend: site.url }}{% endif %}">
 <meta property="og:type" content="article">
-
 <link rel="canonical" data-hr="true" href="{{site.baseurl}}/">
 <meta property="og:url" data-hr="true" content="{{site.baseurl}}/">
 
