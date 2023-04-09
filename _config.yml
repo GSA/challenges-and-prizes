@@ -27,6 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 # baseurl: "" # the subpath of your site, e.g. /blog
 
 url: "https://www.challenge.gov" # the base hostname & protocol for your site, e.g. http://example.com
+keywords: prize competitions, prize challenges, prize contests, public competitions, open challenges, open innovation, federal prize competitions, federal prize challenges, crowdsourcing 
 
 keywords: prize competitions, prize challenges, prize contests, public competitions, open challenges, open innovation, federal prize competitions, federal prize challenges, crowdsourcing 
 
