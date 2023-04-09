@@ -18,6 +18,7 @@
 
 <!-- Title and meta description
 ================================================== -->
+  
 
 <title>{% if page.challenge-title %}{{ page.challenge-title }} | {{ site.title }}{% elsif page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 {% if site.branch != "master" %}
@@ -34,11 +35,11 @@
 <meta property="og:image" content="{% if page.card-image %}{{ page.card-image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.feature_image | prepend: site.baseurl | prepend: site.url }}{% endif %}">
 <meta name="twitter:image" content="{% if page.card-image %}{{ page.card-image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.feature_image | prepend: site.baseurl | prepend: site.url }}{% endif %}">
 <meta property="og:type" content="article">
-    
+
 <link rel="canonical" data-hr="true" href="{{site.baseurl}}/">
 <meta property="og:url" data-hr="true" content="{{site.baseurl}}/">
 
-    
+
 
 <!-- Favicons
 ================================================== -->
