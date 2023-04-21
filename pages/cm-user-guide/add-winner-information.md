@@ -24,7 +24,7 @@ For long text fields there is a text editor that allows you to adjust the font s
 <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Once winner information has been added, click <b>Review + Publish</b> at the bottom of the page to push your update live.
 </span></li>
     </ol>
-    (image)
+          <img class="" src="{{site.baseurl}}/assets/images/winners-page-mockup.png" alt="sample winners page layout">
   </div>
   <div class="col-sm-1">&nbsp;</div>
   <div class="col-sm-4"> {% include cm-user-guide-nav.html %} </div>
