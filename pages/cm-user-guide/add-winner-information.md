@@ -21,10 +21,11 @@ title: User Guide for Challenge Managers | Add Winner Information
 <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Manage Winners</b> for the phase you wish to update.</span></li>
 <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter winner information using one or more of the following fields.  See image below for a sample Winners Announcement showing how the various fields are displayed.
 </span>
+  <ul>
       <li>Winners description (optional): Long text field with a text editor that allows you to adjust the font size and format, create bulleted and numbered lists, indent text, and add hyperlinks. 
 </li>
       <li>Winners overview image (optional): Graphic image that will appear at the top of your winners page.
-</li>
+    </li></ul>
       
       
       </li>
