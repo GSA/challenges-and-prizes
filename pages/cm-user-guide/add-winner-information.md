@@ -19,11 +19,19 @@ title: User Guide for Challenge Managers | Add Winner Information
 <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>View</b> for the draft challenge you wish to edit which will take you to the Challenge Info page for this challenge.</span></li>
 <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Add Winners</b> in the Other Actions box in the upper right.</span></li>
 <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Manage Winners</b> for the phase you wish to update.</span></li>
-<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Follow on-screen prompts to enter winner information. 
-For long text fields there is a text editor that allows you to adjust the font size and format, create bulleted and numbered lists, indent text, and add hyperlinks. </span></li>
-<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Once winner information has been added, click <b>Review + Publish</b> at the bottom of the page to push your update live.
+<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter winner information using one or more of the following fields.  See image below for a sample Winners Announcement showing how the various fields are displayed.
+</span>
+      <li>Winners description (optional): Long text field with a text editor that allows you to adjust the font size and format, create bulleted and numbered lists, indent text, and add hyperlinks. 
+</li>
+      <li>Winners overview image (optional): Graphic image that will appear at the top of your winners page.
+</li>
+      
+      
+      </li>
+<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Add individual winners with name, rank and photo (optional): Winner details provided here will be displayed in rows of two as shown below.Once winner information has been added, click Review + Publish at the bottom of the page to push your update live.
 </span></li>
     </ol>
+  <p>Below is a sample Winners Announcement showing how the various fields are displayed.</p>
           <img class="" src="{{site.baseurl}}/assets/images/winners-page-mockup.jpg" alt="sample winners page layout">
   </div>
   <div class="col-sm-1">&nbsp;</div>
