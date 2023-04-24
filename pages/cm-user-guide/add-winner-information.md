@@ -22,14 +22,14 @@ title: User Guide for Challenge Managers | Add Winner Information
 <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter winner information using one or more of the following fields.  See image below for a sample Winners Announcement showing how the various fields are displayed.
 </span>
   <ul>
-      <li>Winners description (optional): Long text field with a text editor that allows you to adjust the font size and format, create bulleted and numbered lists, indent text, and add hyperlinks. 
+    <li><b>Winners description (optional):</b> Long text field with a text editor that allows you to adjust the font size and format, create bulleted and numbered lists, indent text, and add hyperlinks. 
 </li>
-      <li>Winners overview image (optional): Graphic image that will appear at the top of your winners page.
+    <li><b>Winners overview image (optional):</b> Graphic image that will appear at the top of your winners page.
     </li></ul>
       
       
       </li>
-<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Add individual winners with name, rank and photo (optional): Winner details provided here will be displayed in rows of two as shown below.Once winner information has been added, click Review + Publish at the bottom of the page to push your update live.
+<li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;"><b>Add individual winners with name, rank and photo (optional):</b> Winner details provided here will be displayed in rows of two as shown below.Once winner information has been added, click <b>Review + Publish</b> at the bottom of the page to push your update live.
 </span></li>
     </ol>
   <p>Below is a sample Winners Announcement showing how the various fields are displayed.</p>
