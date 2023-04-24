@@ -28,7 +28,7 @@ title: User Guide for Challenge Managers | Add Winner Information
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;"><b>Add individual winners with name, rank and photo (optional):</b> Winner details provided here will be displayed in rows of two as shown below.Once winner information has been added, click <b>Review + Publish</b> at the bottom of the page to push your update live. </span></li>
     </ol>
     <p>Below is a sample Winners Announcement showing how the various fields are displayed.</p>
-    <img class="" src="{{site.baseurl}}/assets/images/winners-page-mockup.jpg" alt="sample winners page layout"> </div>
+    <img class="" src="{{site.baseurl}}/assets/images/winners-page-mockup.jpg" alt="sample winners page layout"><br><a href="{{site.baseurl}}/assets/images/winners-page-mockup.jpg" target="_blank"><u>View larger image</u></a> </div>
   <div class="col-sm-1">&nbsp;</div>
   <div class="col-sm-4"> {% include cm-user-guide-nav.html %} </div>
 </div>
