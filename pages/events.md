@@ -15,23 +15,58 @@ title: Events
   <div class="col-sm-12">
     <div class="card">
       <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
-        <h2 class="card-title text-center" style="font-weight: 900;">May 2, 2023</h2>
-        <h4>Substance Use Prevention in Primary Care Challenge Chat Q&A</h4>
-        <p class="card-text text-center"> The “Substance Use Prevention Services in Primary Care” Challenge is seeking creative, visionary, and actionable plans for substance use risk screening and prevention. This $100,000 open innovation prize competition is sponsored by the National Institute on Drug Abuse. The Challenge will offer up to four awards of up to $25,000 each.
+        <h2 class="card-title text-center" style="font-weight: 900;">May 4, 2023</h2>
+        <h4>Career Z Challenge Information Session</h4>
+        <p class="card-text text-center"> The Career Z Challenge, sponsored by the U.S. Department of Education, is a $2.5 million multi-phase prize challenge to create and/or enhance high-quality, WBL opportunities in career and technical education (CTE) programs through the expansion of WBL ecosystems.
 
-Join us May 2 to meet the challenge team, share your questions, and learn more. 
+Join us to learn more about:
+* Why you should submit
+* What to submit
+* How to submit
 
-          <b>May 2, 2023 <br/>
-            1:00 - 1:20 pm ET</b>
+Can’t make it? Register anyway and we’ll send you a link to the recording.
+
+
+          <b>May 4, 2023 <br/>
+            2:00 - 3:00 pm ET</b>
 </p>
-        <a href="http://ow.ly/1zgi50NCUQ9" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a></div>
+        <a href="https://www.zoomgov.com/webinar/register/5816830698902/WN_nUZDk2HhTyKnGL_kAraCEA" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a></div>
     </div>
   </div>
+   <div class="col-sm-12">
+    <div class="card">
+      <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
+        <h2 class="card-title text-center" style="font-weight: 900;">May 5, 2023</h2>
+        <h4>Showcase and Ideas Exchange for Bias in Healthcare AI</h4>
+        <p class="card-text text-center">The National Center for Advancing Translational Sciences (NCATS) at the National Institutes of Health (NIH) will be announcing the winners of the bias detection challenge in this virtual event. 
+
+The Bias Detection Tools for Clinical Decision Making Challenge launched in October to award up to $700,000 to those teams best able to make an open-source solution that detects and mitigates bias in AI/ML models used in healthcare settings. Over 200 individuals registered to compete in this Challenge, and the resources/webinars provided during the course of the Challenge aimed to provide context and cross-training for a complex issue that encompasses AI/ML, healthcare and bias/ethics.
+
+Attendees will:
+* Learn from challengers about issues surfaced and discoveries made while developing their solutions
+* Share your thoughts and ideas with NCATS on how next to help propel the field of bias detection and mitigation in healthcare AI forward
+* Discover how you can participate in future efforts to improve healthcare and mitigate bias through AI
+          
+          <b>May 5, 2023 <br/>
+            12:30 pm ET</b>
+</p>
+        <a href="https://zoom.us/webinar/register/WN__8DI00ogRtGwUHwMe5mW2Q#/registration" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a></div>
 </div>
 <h3 class="text-center">Past Events</h3>
 <div class="row">
   <div class="col-sm-12">
     <div class="card">
+       <div class="card">
+      <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
+        <h2 class="card-title text-center" style="font-weight: 900;">May 2, 2023</h2>
+        <h4>Substance Use Prevention in Primary Care Challenge Chat Q&A</h4>
+        <p class="card-text text-center"> The “Substance Use Prevention Services in Primary Care” Challenge is seeking creative, visionary, and actionable plans for substance use risk screening and prevention. This $100,000 open innovation prize competition is sponsored by the National Institute on Drug Abuse. The Challenge will offer up to four awards of up to $25,000 each.
+
+On May 2 participants met the challenge team and shared questions. 
+</p>
+        </div>
+    </div>
+  </div>
       <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Past event"></i>
         <h2 class="card-title text-center" style="font-weight: 900;">March 16, 2023</h2>
         <h4>Applied AI Healthcare Challenge Chat Q&A</h4>
