@@ -17,13 +17,13 @@ title: Events
       <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
         <h2 class="card-title text-center" style="font-weight: 900;">May 4, 2023</h2>
         <h4>Career Z Challenge Information Session</h4>
-        <p class="card-text text-center"> The Career Z Challenge, sponsored by the U.S. Department of Education, is a $2.5 million multi-phase prize challenge to create and/or enhance high-quality, WBL opportunities in career and technical education (CTE) programs through the expansion of WBL ecosystems. <br/>
-
-Join us to learn more about why you should submit, what to submit, and how to submit. <br/>
-
-Can’t make it? Register anyway and we’ll send you a link to the recording. <br/>
-
-
+        <p class="card-text text-center"> The Career Z Challenge, sponsored by the U.S. Department of Education, is a $2.5 million multi-phase prize challenge to create and/or enhance high-quality, WBL opportunities in career and technical education (CTE) programs through the expansion of WBL ecosystems. </p>
+        <p> </p>
+ <p class="card-text text-center">Join us to learn more about why you should submit, what to submit, and how to submit. </p>
+<p> </p>
+ <p class="card-text text-center">Can’t make it? Register anyway and we’ll send you a link to the recording. </p>
+<p> </p>
+ <p class="card-text text-center">
           <b>May 4, 2023 <br/>
             2:00 - 3:00 pm ET</b>
 </p>
