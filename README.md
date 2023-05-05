@@ -11,8 +11,6 @@
 
 This project uses the [Jekyll](https://jekyllrb.com) site engine and built with Ruby.
 
-
-
 **WARNING** This is a pre-1.0 code. 
 
 ## Installation
@@ -54,35 +52,95 @@ Note that when built by Federalist, `npm run federalist` is used instead of the
 
 ## Docker
 
-To create and run a container from this image, execute the following command:
+This guide explains how to build and run a Docker container for this project using the provided Dockerfile.
 
-`docker run -it -p 4000:4000 --name gsa-ubuntu-18-container gsa-ubuntu-18-image`
+### Building the Docker Image
+
+To build an image from the Dockerfile, run the following command in the same directory as the Dockerfile:
+
+```
+docker build -t gsa-ubuntu-18-image .
+```
+
+### Creating and Running the Docker Container for the First Time
+
+To create and run a container from the built image for the first time, execute the following command:
+
+```
+docker run -it -p 4000:4000 --name gsa-ubuntu-18-container gsa-ubuntu-18-image
+```
 
 This command creates a container named `gsa-ubuntu-18-container` and starts it in interactive mode with port 4000 exposed.
 
 Now, your project should be up and running in the Docker container, and you can access it in your browser at `http://localhost:4000`.
 
-To stop the container, press `Ctrl+C` in the terminal where the container is running. To restart the container, use:
+### Running the Docker Container After the First Time
 
-`docker start -i gsa-ubuntu-18-container`
+After you've created the container for the first time, you should use the `docker start` command to start the existing container rather than creating a new one with `docker run`. To start the existing container, use:
+
+```
+docker start -i gsa-ubuntu-18-container
+```
+
+This command starts the existing container in interactive mode.
+You don't need to expose the port again when you use `docker start`. The port mapping you specified when you initially created the container with `docker run -p 4000:4000` is still valid and will be used when starting the container again.
+
+So, when you run `docker start -i gsa-ubuntu-18-container`, the port 4000 will still be exposed, and you can access the application in your browser at `http://localhost:4000`.
+
+### Access the Docker Container's Shell
+
+To access the command line (shell) of the running Docker container, use the `docker exec` command with the `-it` flags:
+
+```sh
+docker exec -it gsa-ubuntu-18-container /bin/bash
+```
+
+This command opens a new shell inside the running container. You can now run any command you need within the container's environment. For example, to list the contents of the `/root/project` directory, run:
+
+```sh
+ls /root/project
+```
+
+To exit the container's shell and return to your host machine's command line, type `exit` and press Enter.
+
+
+### Stopping the Docker Container
+
+To stop the running container, press `Ctrl+C` in the terminal or use the command:
+
+```
+docker stop gsa-ubuntu-18-container
+```
+
+### Removing the Docker Container
 
 To remove the container, first ensure it is stopped and then run:
 
-`docker rm gsa-ubuntu-18-container`
+```
+docker rm gsa-ubuntu-18-container
+```
+
+### Developing with Docker
 
 To enable development on your host machine while using the Docker container, you need to mount the project directory from your host machine to the container. This allows you to edit the code on your host machine, and the changes will be reflected in the container.
 
+Please note that since the project files are now being mounted from your host machine, you do not need the `COPY . .` line in the Dockerfile. You can comment this line out from the Dockerfile before building the image.
+
 Modify the Docker run command to include the `-v` flag, which maps the host directory to the container directory. Replace `<path_to_your_project>` with the absolute path to your project directory on your host machine:
 
-`docker run -it -p 4000:4000 -v <path_to_your_project>:/root/project --name gsa-ubuntu-18-container gsa-ubuntu-18-image`
+```
+docker run -it -p 4000:4000 -v <path_to_your_project>:/root/project --name gsa-ubuntu-18-container gsa-ubuntu-18-image
+```
 
-For example, if your project is located at `/home/user/gsa/forks/challenges-and-prizes`, the command would be:
+For example, if your project is located at `/home/user/src/gsa/forks/challenges-and-prizes`, the command would be:
 
-`docker run -it -p 4000:4000 -v /home/user/gsa/forks/challenges-and-prizes:/root/project --name gsa-ubuntu-18-container gsa-ubuntu-18-image`
+```
+docker run -it -p 4000:4000 -v /home/user/src/gsa/forks/challenges-and-prizes:/root/project --name gsa-ubuntu-18-container gsa-ubuntu-18-image
+```
 
 With this command, any changes you make to the source code on your host machine will be immediately reflected in the container.
 
-Please note that since the project files are now being mounted from your host machine, you do not need to `COPY . .` line in the Dockerfile. You can remove this line from the Dockerfile before building the image.
+
 
 
 ## Technologies you should be familiarize yourself with
