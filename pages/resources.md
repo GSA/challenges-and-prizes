@@ -36,7 +36,7 @@ title: Resources
         <i class="dashboard-card-icon fas fa-book-open" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="User Guide"></i>
         <h2 class="card-title text-center">User Guide</h2>
         <p class="card-text text-center">Access useful information to help you get started.</p>
-        <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" class="usa-button usa-button"><span style="color: #ffffff;">Read user guide</span></a>
+        <a href="{{ site.baseurl }}/user-guide/" class="usa-button usa-button"><span style="color: #ffffff;">View user guide</span></a>
       </div>
     </div>
   </div>
@@ -71,7 +71,7 @@ title: Resources
         <i class="fas fa-envelope" style="color: #FA9441; padding-bottom: 20px; font-size: 3em;" title="Subscribe to newsletter"></i>
         <h2 class="card-title text-center">Stay Informed</h2>
         <p class="card-text text-center">Stay up to date on the latest Challenge.Gov news!</p>
-        <a href="https://public.govdelivery.com/accounts/USGSATTS/signup/30826" class="usa-button usa-button"><span style="color: #ffffff;">Subscribe to newletter</span></a>
+        <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6" class="usa-button usa-button"><span style="color: #ffffff;">Subscribe to newletter</span></a>
       </div>
     </div>
   </div>

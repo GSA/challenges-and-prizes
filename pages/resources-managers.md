@@ -23,7 +23,7 @@ title: Resources for Federal Challenge Managers
         <i class="dashboard-card-icon fas fa-book-open" style="color: #005ea2; font-size: 3em; padding-bottom: 20px;" title="User guide"></i>
         <h2 class="card-title text-center">User Guide</h2>
         <p class="card-text text-center">Useful information on using the platform.</p>
-        <a href="{{ site.baseurl }}/assets/document-library/Challenge.Gov_Challenge_Manager_User_Guide_12Oct2021.pdf" class="usa-button usa-button"><span style="color: #ffffff;">Read user guide</span></a>
+        <a href="{{ site.baseurl }}/cm-user-guide/" class="usa-button usa-button"><span style="color: #ffffff;">Read user guide</span></a>
       </div>
     </div>
   </div>
@@ -64,7 +64,7 @@ title: Resources for Federal Challenge Managers
         <i class="fas fa-envelope" style="color: #005ea2; padding-bottom: 20px; font-size: 3em;" title="Subscribe to newsletter"></i>
         <h2 class="card-title text-center">Stay Informed</h2>
         <p class="card-text text-center">Stay up to date on the latest Challenge.Gov news!</p>
-        <a href="https://public.govdelivery.com/accounts/USGSATTS/signup/30826" class="usa-button usa-button"><span style="color: #ffffff;">Subscribe to newsletter</span></a>
+        <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6" class="usa-button usa-button"><span style="color: #ffffff;">Subscribe to newsletter</span></a>
       </div>
     </div>
   </div>
