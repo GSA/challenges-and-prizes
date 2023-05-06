@@ -135,10 +135,14 @@ docker run -it -p 4000:4000 -v <path_to_your_project>:/root/project --name gsa-u
 For example, if your project is located at `/home/user/src/gsa/forks/challenges-and-prizes`, the command would be:
 
 ```
-docker run -it -p 4000:4000 -v /home/user/src/gsa/forks/challenges-and-prizes:/root/project --name gsa-ubuntu-18-container gsa-ubuntu-18-image
+docker run --rm -it -p 4000:4000 -v /home/user/src/gsa/forks/challenges-and-prizes:/root/project --name gsa-ubuntu-18-container gsa-ubuntu-18-image
 ```
 
 With this command, any changes you make to the source code on your host machine will be immediately reflected in the container.
+
+Note the `-rm tag`. Removing the container upon close is a good idea in a dev workflow and will not cause you to lose work as long as you have properly mounted your host directory to the container using the `-v` flag. Since we have mounted the host directory `/home/user/src/gsa/forks/challenges-and-prizes` to the container directory `/root/project`, which means any changes made inside `/root/project` in the container will be reflected in the host directory.
+
+The `--rm` flag will only remove the container itself and its file system, but it won't affect the mounted host directories. Just make sure your work is being saved in the mounted directory, and you won't lose any data.
 
 
 
