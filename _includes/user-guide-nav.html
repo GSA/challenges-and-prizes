@@ -1,86 +1,59 @@
-<div class="tablet:grid-col-10 margin-bottom-4 tablet:margin-bottom-0">
+<style>
+  .menu-title {
+    text-indent: 1em;
+    font-weight: 600;
+  }
+  .no-underline {
+    text-decoration: none !important;
+  }
+  .child-link {
+    text-indent: 2em;
+    color: #757575;
+    font-weight: 500;
+  }
+  .usa-sidenav__item a:not(.usa-current):hover {
+    background-color: #f1f1f1;
+  }
+
+  .usa-sidenav__sublist .usa-sidenav__item a.inactive-link:hover,
+  .usa-sidenav__item a.child-link.inactive-link:hover {
+    color: #004c8c !important;
+    font-weight: 400 !important;
+    text-decoration: none !important;
+  }
+
+  .usa-sidenav__sublist a:not(.usa-current),
+  .usa-sidenav__item a.child-link:not(.usa-current) {
+    color: #757575 !important;
+  }
+
+  .usa-current {
+    color: #205493 !important;
+    font-weight: 600 !important;
+  }
+
+  .usa-sidenav__item a.child-link:not(.usa-current):hover {
+    font-weight: 400 !important;
+  }
+
+  .usa-sidenav__item a[href="{{ site.baseurl }}/user-guide/"]:hover {
+    color: #205493 !important;
+    font-weight: 400 !important;
+  }
+
+  /* Added CSS rule */
+  .usa-sidenav__item a.menu-title:hover {
+    background-color: transparent !important;
+  }
+</style>
+
+<div class="tablet:grid-col-10 margin-bottom-4 tablet:margin-bottom-0 custom-side-navigation">
   <nav aria-label="Side navigation,,">
     <ul class="usa-sidenav">
       <li class="usa-sidenav__item">
-        <a href="{{ site.baseurl }}/user-guide/" title="Home" aria-label="user guide home" style="text-decoration: none !important;"> User Guide Home</a>
+        <a href="{{ site.baseurl }}/user-guide/" title="Home" aria-label="user guide home" class="no-underline child-link {% if page.url == '/user-guide/' %}usa-current{% endif %}">User Guide Home</a>
       </li>
-      <li class="usa-sidenav__item">
-        <a href="javascript:void(0);" class="usa-current">&nbsp;&nbsp;Explore Challenges</a>
-        <ul class="usa-sidenav__sublist">
-          <li class="usa-sidenav__item">
-            <a href="{{ site.baseurl }}/user-guide/explore-active-challenges/" title="Explore active challenges" aria-label="explore active challenges" style="text-decoration: none !important;">&nbsp;&nbsp;Explore active challenges</a>
-          </li>
-          <li class="usa-sidenav__item">
-            <a href="{{ site.baseurl }}/user-guide/view-archived-challenges/" style="text-decoration: none !important;">&nbsp;&nbsp;View archived challenges</a>
-          </li>
-          <li class="usa-sidenav__item">
-            <a href="{{ site.baseurl }}/user-guide/search-for-challenges/" style="text-decoration: none !important;">&nbsp;&nbsp;Search for challenges</a>
-          </li>
-        </ul>
-      </li>
-       <li class="usa-sidenav__item">
-        <a href="javascript:void(0);" class="usa-current">&nbsp;&nbsp;Engage with a Challenge</a>
-        <ul class="usa-sidenav__sublist">
-          <li class="usa-sidenav__item">
-            <a href="{{ site.baseurl }}/user-guide/follow-challenges/" style="text-decoration: none !important;">&nbsp;&nbsp;Follow challenges</a>
-          </li>
-           <li class="usa-sidenav__item">
-            <a href="{{ site.baseurl }}/user-guide/save-challenges/" style="text-decoration: none !important;">&nbsp;&nbsp;Save challenges</a>
-          </li>
-          <li class="usa-sidenav__item">
-            <a href="{{ site.baseurl }}/user-guide/share-challenges/" style="text-decoration: none !important;">&nbsp;&nbsp;Share challenges</a>
-          </li>
-          <li class="usa-sidenav__item">
-            <a href="{{ site.baseurl }}/user-guide/print-challenges" style="text-decoration: none !important;">&nbsp;&nbsp;Print challenges</a>
-          </li>
-          <li class="usa-sidenav__item">
-            <a href="{{ site.baseurl }}/user-guide/contact-challenge-management/" style="text-decoration: none !important;">&nbsp;&nbsp;Contact challenge management team</a>
-          </li>
-          <li class="usa-sidenav__item">
-            <a href="{{ site.baseurl }}/user-guide/submit-to-a-challenge/" style="text-decoration: none !important;">&nbsp;&nbsp;Submit to a challenge</a>
-          </li>
-          <li class="usa-sidenav__item">
-            <a href="{{ site.baseurl }}/user-guide/unfollow-challenges/" style="text-decoration: none !important;">&nbsp;&nbsp;Unfollow challenges</a>
-          </li>
-        </ul>
-      </li>
-       <li class="usa-sidenav__item">
-        <a href="javascript:void(0);" class="usa-current">&nbsp;&nbsp;Solver Portal</a>
-        <ul class="usa-sidenav__sublist">
-          <li class="usa-sidenav__item">
-            <a href="{{ site.baseurl }}/user-guide/create-your-account/" style="text-decoration: none !important;">&nbsp;&nbsp;Create your Challenge.Gov account</a>
-          </li>
-          <li class="usa-sidenav__item">
-            <a href="{{ site.baseurl }}/user-guide/log-into-solver-portal/" style="text-decoration: none !important;">&nbsp;&nbsp;Logging in</a>
-          </li>
-          <li class="usa-sidenav__item">
-            <a href="{{ site.baseurl }}/user-guide/log-out-of-solver-portal/" style="text-decoration: none !important;">&nbsp;&nbsp;Logging out</a>
-          </li>
-          <li class="usa-sidenav__item">
-            <a href="{{ site.baseurl }}/user-guide/remove-saved-challenges/" style="text-decoration: none !important;">&nbsp;&nbsp;Remove saved challenges</a>
-          </li>
-          <li class="usa-sidenav__item">
-            <a href="{{ site.baseurl }}/user-guide/edit-challenge-submissions/" style="text-decoration: none !important;">&nbsp;&nbsp;Edit challenge submissions</a>
-          </li>
-          <li class="usa-sidenav__item">
-            <a href="{{ site.baseurl }}/user-guide/delete-challenge-submissions/" style="text-decoration: none !important;">&nbsp;&nbsp;Delete challenge submissions</a>
-          </li>
-        </ul>
-      </li>
-        <li class="usa-sidenav__item">
-        <a href="javascript:void(0);" class="usa-current">&nbsp;&nbsp;Message Center</a>
-        <ul class="usa-sidenav__sublist">
-          <li class="usa-sidenav__item">
-            <a href="{{ site.baseurl }}/user-guide/view-messages/" style="text-decoration: none !important;">&nbsp;&nbsp;View messages</a>
-          </li>
-           <li class="usa-sidenav__item">
-            <a href="{{ site.baseurl }}/user-guide/reply-to-messages/" style="text-decoration: none !important;">&nbsp;&nbsp;Reply to messages</a>
-          </li>
-          <li class="usa-sidenav__item">
-            <a href="{{ site.baseurl }}/user-guide/message-center-features/" style="text-decoration: none !important;">&nbsp;&nbsp;More message center features</a>
-          </li>
-        </ul>
-      </li>
+      {% include user_guide_menu.html %}
     </ul>
   </nav>
 </div>
