@@ -50,7 +50,7 @@ title: Events
 <div class="row">
   <div class="col-sm-12">
     <div class="card">
-       
+       <div class="card">
       <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
         <h2 class="card-title text-center" style="font-weight: 900;">May 2, 2023</h2>
         <h4>Substance Use Prevention in Primary Care Challenge Chat Q&A</h4>
@@ -60,8 +60,7 @@ On May 2 participants met the challenge team and shared questions.
 </p>
     </div>
   </div>
-    <div class="card"> 
-    <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Past event"></i>
+      <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Past event"></i>
         <h2 class="card-title text-center" style="font-weight: 900;">March 16, 2023</h2>
         <h4>Applied AI Healthcare Challenge Chat Q&A</h4>
         <p class="card-text text-center">Improving America's Healthcare Services through Artificial Intelligence
