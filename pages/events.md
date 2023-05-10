@@ -31,6 +31,10 @@ title: Events
     </div>
   </div>
    <div class="col-sm-12">
+    
+<h3 class="text-center">Past Events</h3>
+<div class="row">
+  <div class="col-sm-12">
     <div class="card">
       <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
         <h2 class="card-title text-center" style="font-weight: 900;">May 5, 2023</h2>
@@ -46,9 +50,6 @@ title: Events
 </p>
         <a href="https://zoom.us/webinar/register/WN__8DI00ogRtGwUHwMe5mW2Q#/registration" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a></div>
 </div>
-<h3 class="text-center">Past Events</h3>
-<div class="row">
-  <div class="col-sm-12">
     <div class="card">
        
       <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
