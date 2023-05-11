@@ -36,14 +36,7 @@ title: Events
 <h3 class="text-center">Past Events</h3>
 <div class="row">
   <div class="col-sm-12">
-     <div class="card">
-      <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
-        <h2 class="card-title text-center" style="font-weight: 900;">May 4, 2023</h2>
-        <h4>Career Z Challenge Information Session</h4>
-        <p class="card-text text-center"> The Career Z Challenge, sponsored by the U.S. Department of Education, is a $2.5 million multi-phase prize challenge to create and/or enhance high-quality, WBL opportunities in career and technical education (CTE) programs through the expansion of WBL ecosystems. </p>
-       
-</div>
-    </div>
+     
     <div class="card">
       <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
         <h2 class="card-title text-center" style="font-weight: 900;">May 5, 2023</h2>
@@ -51,6 +44,14 @@ title: Events
         <p class="card-text text-center">The National Center for Advancing Translational Sciences (NCATS) at the National Institutes of Health (NIH) announced the winners of the bias detection challenge in this virtual event. </p>
           </div>
 </div>
+    <div class="card">
+      <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
+        <h2 class="card-title text-center" style="font-weight: 900;">May 4, 2023</h2>
+        <h4>Career Z Challenge Information Session</h4>
+        <p class="card-text text-center"> The Career Z Challenge, sponsored by the U.S. Department of Education, is a $2.5 million multi-phase prize challenge to create and/or enhance high-quality, WBL opportunities in career and technical education (CTE) programs through the expansion of WBL ecosystems. </p>
+       
+</div>
+    </div>
     <div class="card">
        
       <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
