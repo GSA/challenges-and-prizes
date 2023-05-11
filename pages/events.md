@@ -12,8 +12,9 @@ title: Events
   <p>Are you a federal challenge manager with an event to share? Send an email to <a href="mailto:team@challenge.gov">team@challenge.gov.</a></p> 
 </div>
 <div class="row">
+  <h3 class="text-center">Current Events</h3>
   <div class="col-sm-12">
-     <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Events"></i>
+     
     <div class="card">
       <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
         <h2 class="card-title text-center" style="font-weight: 900;">May 31, 2023</h2>
@@ -28,7 +29,6 @@ title: Events
             3:00 - 3:20 pm ET</b>
 </p>
         <a href="https://gsa.zoomgov.com/meeting/register/vJItc-CprTIiEnB1s-VjplUoWHmbO2S502s" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a></div>
-    </div>
     </div>
   </div>
    <div class="col-sm-12">
