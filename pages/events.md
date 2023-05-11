@@ -39,11 +39,7 @@ title: Events
       <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
         <h2 class="card-title text-center" style="font-weight: 900;">May 5, 2023</h2>
         <h4>Showcase and Ideas Exchange for Bias in Healthcare AI</h4>
-        <p class="card-text text-center">The National Center for Advancing Translational Sciences (NCATS) at the National Institutes of Health (NIH) will be announcing the winners of the bias detection challenge in this virtual event. </p>
-
-<p class="card-text text-center">The Bias Detection Tools for Clinical Decision Making Challenge launched in October to award up to $700,000 to those teams best able to make an open-source solution that detects and mitigates bias in AI/ML models used in healthcare settings. Over 200 individuals registered to compete in this Challenge, and the resources/webinars provided during the course of the Challenge aimed to provide context and cross-training for a complex issue that encompasses AI/ML, healthcare and bias/ethics. </p>
-
-<p class="card-text text-center">On May 5, attendees learned from challengers about issues surfaced and discoveries made while developing their solutions; shared thoughts and ideas with NCATS on how next to help propel the field of bias detection and mitigation in healthcare AI forward; and discovered how to can participate in future efforts to improve healthcare and mitigate bias through AI. </p>
+        <p class="card-text text-center">The National Center for Advancing Translational Sciences (NCATS) at the National Institutes of Health (NIH) announced the winners of the bias detection challenge in this virtual event. </p>
           </div>
 </div>
     <div class="card">
