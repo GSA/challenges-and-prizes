@@ -12,10 +12,8 @@ title: Events
   <p>Are you a federal challenge manager with an event to share? Send an email to <a href="mailto:team@challenge.gov">team@challenge.gov.</a></p> 
 </div>
 <div class="row">
-  <h3 class="text-center">Current Events</h3>
-  <div class="col-sm-12">
-     
-    <div class="card">
+   <div class="col-sm-12">
+         <div class="card">
       <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
         <h2 class="card-title text-center" style="font-weight: 900;">May 31, 2023</h2>
         <h4>Behavioral Health Equity Challenge Chat Q&A</h4>
