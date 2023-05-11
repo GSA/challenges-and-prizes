@@ -43,12 +43,8 @@ title: Events
 
 <p class="card-text text-center">The Bias Detection Tools for Clinical Decision Making Challenge launched in October to award up to $700,000 to those teams best able to make an open-source solution that detects and mitigates bias in AI/ML models used in healthcare settings. Over 200 individuals registered to compete in this Challenge, and the resources/webinars provided during the course of the Challenge aimed to provide context and cross-training for a complex issue that encompasses AI/ML, healthcare and bias/ethics. </p>
 
-<p class="card-text text-center">Attendees will learn from challengers about issues surfaced and discoveries made while developing their solutions; share thoughts and ideas with NCATS on how next to help propel the field of bias detection and mitigation in healthcare AI forward; and discover how you can participate in future efforts to improve healthcare and mitigate bias through AI. </p>
-          
-         <p> <b>May 5, 2023 <br/>
-            12:30 pm ET</b>
-</p>
-        <a href="https://zoom.us/webinar/register/WN__8DI00ogRtGwUHwMe5mW2Q#/registration" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a></div>
+<p class="card-text text-center">On May 5, attendees learned from challengers about issues surfaced and discoveries made while developing their solutions; shared thoughts and ideas with NCATS on how next to help propel the field of bias detection and mitigation in healthcare AI forward; and discovered how to can participate in future efforts to improve healthcare and mitigate bias through AI. </p>
+          </div>
 </div>
     <div class="card">
        
