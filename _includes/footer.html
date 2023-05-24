@@ -91,8 +91,25 @@
 {% endif %}
 
 {% if site.branch == "master" %}
-  <div id="recaptcha-key" title="recaptcha-key" class="d-none">6Ldvf5ccAAAAAPFhblv51OnlSd8s-VsFaoL24izZ</div>
+<label>Captcha</label>
+  <div id="recaptcha-key" class="d-none">6Ldvf5ccAAAAAPFhblv51OnlSd8s-VsFaoL24izZ</div>
   <script src="https://www.google.com/recaptcha/api.js?render=6Ldvf5ccAAAAAPFhblv51OnlSd8s-VsFaoL24izZ"></script>
+{% elsif site.branch == "staging" %}
+<label>Captcha</label>
+  <div id="recaptcha-key" class="d-none">6Ldvf5ccAAAAAPFhblv51OnlSd8s-VsFaoL24izZ</div>
+  <script src="https://www.google.com/recaptcha/api.js?render=6Ldvf5ccAAAAAPFhblv51OnlSd8s-VsFaoL24izZ"></script>
+{% elsif site.branch == "embed-react-app" %}
+<label>Captcha</label>
+  <div id="recaptcha-key" class="d-none">6LcOgPIUAAAAAL_Nhl-Vf0acxlhSlgnJMbhzfi4q</div>
+  <script src="https://www.google.com/recaptcha/api.js?render=6LcOgPIUAAAAAL_Nhl-Vf0acxlhSlgnJMbhzfi4q"></script>
+{% elsif jekyll.environment == "dev" %}
+<label>Captcha</label>
+  <div id="recaptcha-key" class="d-none">6LcOgPIUAAAAAL_Nhl-Vf0acxlhSlgnJMbhzfi4q</div>
+  <script src="https://www.google.com/recaptcha/api.js?render=6LcOgPIUAAAAAL_Nhl-Vf0acxlhSlgnJMbhzfi4q"></script>
+{% else %}
+<label>Captcha</label>
+  <div id="recaptcha-key" class="d-none">6LcOgPIUAAAAAL_Nhl-Vf0acxlhSlgnJMbhzfi4q</div>
+  <script src="https://www.google.com/recaptcha/api.js?render=6LcOgPIUAAAAAL_Nhl-Vf0acxlhSlgnJMbhzfi4q"></script>
 {% endif %}
 
 
