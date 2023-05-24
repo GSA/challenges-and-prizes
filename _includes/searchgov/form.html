@@ -1,5 +1,5 @@
 {% if include.affiliate %}
-<form id="search_form" class="usa-search usa-search--small" action="https://search.usa.gov/search" accept-charset="UTF-8" method="get">
+<!-- <form id="search_form" class="usa-search usa-search--small" action="https://search.usa.gov/search" accept-charset="UTF-8" method="get">
   <input name="utf8" type="hidden" value="&#x2713;" />
   <input type="hidden" name="affiliate" id="affiliate" value="{{ include.affiliate }}" />
   <div role="search">
@@ -7,5 +7,17 @@
     <input class="usa-input usagov-search-autocomplete" id="extended-search-field-small" aria-label="Search Challenge.gov" type="search" name="query" autocomplete="off">
     <button class="usa-button" type="submit"><span class="usa-sr-only">Search</span></button>
   </div>
-</form>
+</form> -->
+
+<form class="usa-search usa-search--small" action="https://search.usa.gov/search" method="get" name="search_form" accept-charset="UTF-8" role="search">
+            <label id="top-srch-mobile-menu" class="usa-sr-only" for="search-field-small-mobile-menu">Search</label>
+            <input id="affiliate-mobile-menu" name="affiliate" type="hidden" value="usagov_all_gov">
+            <input id="search-field-small-mobile-menu" class="usa-input text usagov-search-autocomplete ui-autocomplete-input" type="search" name="query" placeholder="Search all government" onfocus="this.placeholder = ''" autocomplete="off" aria-autocomplete="list" aria-haspopup="true">
+            <button class="usa-button" type="submit">
+              <img src="/themes/custom/usagov/images/search--dark.svg" class="usa-search__submit-icon" alt="Search">
+            </button>
+        </form>
 {% endif %}
+
+
+ 
