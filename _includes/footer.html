@@ -112,7 +112,12 @@
   <script src="https://www.google.com/recaptcha/api.js?render=6LcOgPIUAAAAAL_Nhl-Vf0acxlhSlgnJMbhzfi4q"></script>
 {% endif %}
 
-
+<script type="text/javascript">
+    function onloadCallback() {
+        $('#g-recaptcha-response').attr('aria-hidden', true);
+    }
+</script>
+<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback>
 
 
 
