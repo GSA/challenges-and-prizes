@@ -90,6 +90,17 @@
   <script type="text/javascript" src="https://challenge-portal-dev.app.cloud.gov/js/client.js"></script>
 {% endif %}
 
+<script>
+        function onloadCallback() {
+            $('#g-recaptcha-response').attr('aria-hidden', true);
+            $('#g-recaptcha-response').attr('aria-label', 'do not use');
+            $('#g-recaptcha-response').attr('aria-readonly', true);
+        }
+    </script>
+
+<script src='https://www.google.com/recaptcha/api.js?onload=onloadCallback'></script>
+
+
 {% if site.branch == "master" %}
 
   <div id="recaptcha-key" class="d-none"><label>Captcha1</label>6Ldvf5ccAAAAAPFhblv51OnlSd8s-VsFaoL24izZ</div>
@@ -111,13 +122,6 @@
   <div id="recaptcha-key" class="d-none"><label>Captcha5</label>6LcOgPIUAAAAAL_Nhl-Vf0acxlhSlgnJMbhzfi4q</div>
   <script src="https://www.google.com/recaptcha/api.js?render=6LcOgPIUAAAAAL_Nhl-Vf0acxlhSlgnJMbhzfi4q"></script>
 {% endif %}
-
-<script type="text/javascript">
-    function onloadCallback() {
-        $('#g-recaptcha-response').attr('aria-hidden', true);
-    }
-</script>
-<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback>
 
 
 
