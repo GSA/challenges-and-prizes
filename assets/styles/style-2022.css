@@ -42,15 +42,17 @@
     border-radius: 0.25rem;
     color: #19304c !important;
     font-size: 1.46rem;
+    font-weight: 400;
     padding: 1rem 1.5rem;
     text-decoration: none !important;
 }
 
 .usa-button--small-orange:hover {
-    background-color:#EF6F06;
+    background-color:#FA8D33;
     border-radius: 0.25rem;
     color: #000000 !important;
     font-size: 1.46rem;
+    font-weight: 400;
     padding: 1rem 1.5rem;
     text-decoration: none !important;
 }
@@ -314,16 +316,18 @@ body {
     border-radius: 0.25rem;
     color: #19304c !important;
     font-size: 1.46rem;
+    font-weight: 400;
     padding: 1rem 1.5rem;
     margin-bottom: 6px;
     text-decoration: none !important;
 }
 
 .usa-button--small-orange:hover {
-    background-color:#EF6F06;
+    background-color:#FA8D33;
     border-radius: 0.25rem;
     color: #000000 !important;
     font-size: 1.46rem;
+    font-weight: 400;
     padding: 1rem 1.5rem;
     margin-bottom: 6px;
     text-decoration: none !important;
