@@ -40,7 +40,7 @@
 .usa-button--small-orange {
     background-color:#fa9441;
     border-radius: 0.25rem;
-    color: #19304c;
+    color: #19304c !important;
     font-size: 1.46rem;
     padding: 1rem 1.5rem;
     text-decoration: none !important;
@@ -49,7 +49,7 @@
 .usa-button--small-orange:hover {
     background-color:#D16105;
     border-radius: 0.25rem;
-    color: #000000;
+    color: #000000 !important;
     font-size: 1.46rem;
     padding: 1rem 1.5rem;
     text-decoration: none !important;
