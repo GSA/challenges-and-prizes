@@ -308,6 +308,27 @@ body {
   padding-bottom: 30px;
 }
 @media only screen and (max-width: 600px) {
+        
+    .usa-button--small-orange {
+    background-color:#fa9441;
+    border-radius: 0.25rem;
+    color: #19304c !important;
+    font-size: 1.46rem;
+    padding: 1rem 1.5rem;
+    padding-bottom: 1rem;
+    text-decoration: none !important;
+}
+
+.usa-button--small-orange:hover {
+    background-color:#EF6F06;
+    border-radius: 0.25rem;
+    color: #000000 !important;
+    font-size: 1.46rem;
+    padding: 1rem 1.5rem;
+    padding-bottom: 1rem;
+    text-decoration: none !important;
+}
+        
   .hero-create {
     display: none;
   }
