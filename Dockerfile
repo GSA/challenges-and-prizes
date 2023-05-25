@@ -17,13 +17,14 @@ RUN git clone https://github.com/rbenv/rbenv.git ~/.rbenv && \
     /bin/bash -c "source ~/.bashrc && rbenv install 2.6.8 && rbenv global 2.6.8"
 
 # Copy the project files into the container
-# COPY . .
+COPY . .
 
 # Install Jekyll and dependencies
 RUN /bin/bash -l -c 'eval "$(rbenv init -)" && gem update --system && gem install jekyll bundler && bundle install'
 
-# Expose port 4000 for the Jekyll server
-EXPOSE 4000
+# Expose port 4001 for the Jekyll server
+EXPOSE 4001
 
 # Start the Jekyll server when the container is run
-CMD /bin/bash -l -c 'eval "$(rbenv init -)" && bundle exec jekyll serve --host 0.0.0.0'
+#CMD /bin/bash -l -c 'eval "$(rbenv init -)" && bundle exec jekyll serve --host 0.0.0.0'
+CMD /bin/bash -l -c 'eval "$(rbenv init -)" && npm run dev'

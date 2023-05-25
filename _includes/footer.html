@@ -63,8 +63,6 @@
   <div>&nbsp;</div>
 </footer>
 
-
-
 <!-- Digital Analytics Program roll-up, see https://analytics.usa.gov for data -->
 <script id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency={{site.dap_agency}}"></script>
 
@@ -88,23 +86,6 @@
   <link rel="stylesheet" href="https://challenge-portal-dev.app.cloud.gov/css/public.css" crossorigin="anonymous">
   <script type="text/javascript" src="https://challenge-portal-dev.app.cloud.gov/js/public.js"></script>
   <script type="text/javascript" src="https://challenge-portal-dev.app.cloud.gov/js/client.js"></script>
-{% endif %}
-
-{% if site.branch == "master" %}
-  <div id="recaptcha-key" class="d-none">6Ldvf5ccAAAAAPFhblv51OnlSd8s-VsFaoL24izZ</div>
-  <script src="https://www.google.com/recaptcha/api.js?render=6Ldvf5ccAAAAAPFhblv51OnlSd8s-VsFaoL24izZ"></script>
-{% elsif site.branch == "staging" %}
-  <div id="recaptcha-key" class="d-none">6Ldvf5ccAAAAAPFhblv51OnlSd8s-VsFaoL24izZ</div>
-  <script src="https://www.google.com/recaptcha/api.js?render=6Ldvf5ccAAAAAPFhblv51OnlSd8s-VsFaoL24izZ"></script>
-{% elsif site.branch == "embed-react-app" %}
-  <div id="recaptcha-key" class="d-none">6LcOgPIUAAAAAL_Nhl-Vf0acxlhSlgnJMbhzfi4q</div>
-  <script src="https://www.google.com/recaptcha/api.js?render=6LcOgPIUAAAAAL_Nhl-Vf0acxlhSlgnJMbhzfi4q"></script>
-{% elsif jekyll.environment == "dev" %}
-  <div id="recaptcha-key" class="d-none">6LcOgPIUAAAAAL_Nhl-Vf0acxlhSlgnJMbhzfi4q</div>
-  <script src="https://www.google.com/recaptcha/api.js?render=6LcOgPIUAAAAAL_Nhl-Vf0acxlhSlgnJMbhzfi4q"></script>
-{% else %}
-  <div id="recaptcha-key" class="d-none">6LcOgPIUAAAAAL_Nhl-Vf0acxlhSlgnJMbhzfi4q</div>
-  <script src="https://www.google.com/recaptcha/api.js?render=6LcOgPIUAAAAAL_Nhl-Vf0acxlhSlgnJMbhzfi4q"></script>
 {% endif %}
 
 <script>
