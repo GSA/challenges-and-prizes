@@ -1,3 +1,15 @@
+<script>$(document).ready(function () {
+
+    $(".rm-btn").click(function () {
+        $('.yt', this).hide();
+        var iframe = $('iframe', this);
+        var datasrc = iframe.data('src');
+        var src = iframe.attr('src');
+        if (datasrc != src) iframe.attr('src', datasrc);
+    })
+});
+</script>
+
 <div class="grid-container-video video">
   <div class="grid-container">
     <div class="grid-row">
@@ -10,11 +22,11 @@
           </div>
         </div>
       </div>
-      <div class=" rm-btn col-md-4 col-sm-4 col-xs-4">
+      <div class="rm-btn col-md-4 col-sm-4 col-xs-4">
     <div class="yt-btn">
-        <img class="yt" src="http://i.imgur.com/BxEuANB.png">
+        <img class="yt" src="http://i.imgur.com/BxEuANB.png" alt="">
     </div>
-    <div class=" embed-responsive embed-responsive-16by9">
+    <div class="embed-responsive embed-responsive-16by9">
         <iframe class="embed-responsive-item " data-src="https://www.youtube.com/embed/zb3y3T17jb8?autoplay=1&theme=dark&autohide=1&modestbranding=1&showinfo=0&rel=0%3E%3Ciframe" allowfullscreen=""></iframe>
     </div>
 </div>
@@ -25,14 +37,4 @@
     </div>
   </div>
 </div>
-<script>$(document).ready(function () {
 
-    $(".rm-btn").click(function () {
-        $('.yt', this).hide();
-        var iframe = $('iframe', this);
-        var datasrc = iframe.data('src');
-        var src = iframe.attr('src');
-        if (datasrc != src) iframe.attr('src', datasrc);
-    })
-});
-</script>
