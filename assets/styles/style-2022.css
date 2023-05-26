@@ -1,3 +1,16 @@
+.yt-btn {
+    position: absolute;
+    height: 50px;
+    top: 40%;
+    left: 45%;
+    z-index: 99;
+    cursor: pointer;
+    
+}
+.embed-responsive {
+    background-color: #000;
+}
+
 .video-container {
    position: relative;
     padding-bottom: 56.63%;
