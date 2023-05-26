@@ -25,3 +25,14 @@
     </div>
   </div>
 </div>
+<script>$(document).ready(function () {
+
+    $(".rm-btn").click(function () {
+        $('.yt', this).hide();
+        var iframe = $('iframe', this);
+        var datasrc = iframe.data('src');
+        var src = iframe.attr('src');
+        if (datasrc != src) iframe.attr('src', datasrc);
+    })
+});
+</script>
