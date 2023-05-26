@@ -29,7 +29,8 @@
  <meta property="og:title" content="{% if page.challenge-title %}{{ page.challenge-title }}{% elsif page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}">
 <meta property="og:description" content="{% if page.tagline %}{{ page.tagline }}{% else %}{{ site.description }}{% endif %}">
 
-<meta name="twitter:card" value="summary_large_image">
+
+<meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@{site.twitter}">
 <meta name="keywords" content="{{site.keywords}}">
 <meta property="og:image" content="{% if page.card-image %}{{ page.card-image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.feature_image | prepend: site.baseurl | prepend: site.url }}{% endif %}">
