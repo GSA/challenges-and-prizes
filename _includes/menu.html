@@ -2,7 +2,7 @@
 To modify the menu system, you are welcome to edit this HTML directly or you can look inside _config.yml 
 where we provide an easy way to manage your navigation system
 {% endcomment %}
-<header class="usa-header usa-header--basic">
+<header class="usa-header usa-header--basic" aria-label="Main navigation">
   <div class="usa-nav-container">
     <div class="usa-navbar">
       <div class="usa-logo" id="basic-logo">
@@ -10,7 +10,7 @@ where we provide an easy way to manage your navigation system
           <img src='{{ site.baseurl }}/assets/images/agency/challenge-logo.svg' alt="Challenge Gov wordmark." title="Challenge Gov wordmark" class="height-5 header__challenge-logo">
         </a>
       </div>
-      <button class="usa-menu-btn">Menu</button>
+<button class="usa-menu-btn" aria-label="menu">Menu</button>
     </div>
     <nav class="usa-nav usa-header__actions">
       <ul class="usa-nav__primary usa-accordion">

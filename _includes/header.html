@@ -29,7 +29,8 @@
  <meta property="og:title" content="{% if page.challenge-title %}{{ page.challenge-title }}{% elsif page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}">
 <meta property="og:description" content="{% if page.tagline %}{{ page.tagline }}{% else %}{{ site.description }}{% endif %}">
 
-<meta name="twitter:card" value="summary_large_image">
+
+<meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@{site.twitter}">
 <meta name="keywords" content="{{site.keywords}}">
 <meta property="og:image" content="{% if page.card-image %}{{ page.card-image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.feature_image | prepend: site.baseurl | prepend: site.url }}{% endif %}">
@@ -72,16 +73,16 @@
 
 
 </head>
-<body class="page-landing-page layout-demo ">
+<body class="page-landing-page layout-demo">
 <a class="usa-skipnav" href="#main-content">Skip to main content</a>
 
-
-<div class="usa-banner">
+                     <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><section class="usa-banner" aria-label="USA banner area">
+   <div class="usa-banner">
   <div class="usa-accordion">
-    <header class="usa-banner__header">
+    <header-main class="usa-banner__header">
       <div class="usa-banner__inner">
-        <div class="grid-col-auto">
-          <img class="usa-banner__header-flag" src="{{site.baseurl}}/assets/uswds/img/us_flag_small.png" alt="U.S. flag">
+         <div class="grid-col-auto">
+          <img class="usa-banner__header-flag" src="/preview/gsa/challenges-and-prizes/CHAL-1530-B/assets/uswds/img/us_flag_small.png" alt="U.S. flag">
         </div>
         <div class="grid-col-fill tablet:grid-col-auto">
           <p class="usa-banner__header-text">An official website of the United States government</p>
@@ -92,11 +93,11 @@
           <span class="usa-banner__button-text">Here's how you know</span>
         </button>
       </div>
-    </header>
+    </header-main>
     <div class="usa-banner__content usa-accordion__content" id="gov-banner">
       <div class="grid-row grid-gap-lg">
         <div class="usa-banner__guidance tablet:grid-col-6">
-          <img class="usa-banner__icon usa-media-block__img" src="{{site.baseurl}}/assets/uswds/img/icon-dot-gov.svg" alt="Dot gov">
+          <img class="usa-banner__icon usa-media-block__img" src="/preview/gsa/challenges-and-prizes/CHAL-1530-B/assets/uswds/img/icon-dot-gov.svg" alt="Dot gov">
           <div class="usa-media-block__body">
             <p>
               <strong>The .gov means it’s official.</strong>
@@ -106,7 +107,7 @@
           </div>
         </div>
         <div class="usa-banner__guidance tablet:grid-col-6">
-          <img class="usa-banner__icon usa-media-block__img" src="{{site.baseurl}}/assets/uswds/img/icon-https.svg" alt="Https">
+          <img class="usa-banner__icon usa-media-block__img" src="/preview/gsa/challenges-and-prizes/CHAL-1530-B/assets/uswds/img/icon-https.svg" alt="Https">
           <div class="usa-media-block__body">
             <p>
               <strong>The site is secure.</strong>
@@ -119,6 +120,8 @@
     </div>
   </div>
 </div>
+
+  </section></div>
   
 
 <div class="usa-overlay"></div>
