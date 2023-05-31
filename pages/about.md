@@ -13,7 +13,7 @@ Through this Challenge.Gov website, federal agencies can engage public solvers i
 
 This site also provides a <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Federal_Agency_Toolkit_13Oct2021.pdf">comprehensive toolkit</a> for federal employees interested in or currently running prize competitions. Developed with insights from experts across government, this toolkit contains a robust repository of resources, best practices, and case studies.
 
-## About Prize Competitions
+**About Prize Competitions**
 
 U.S. government agencies constantly work to address issues that affect people, communities, and industries throughout the country and even the world. Sometimes, they need help.
 
@@ -23,7 +23,7 @@ Longitude and ship navigation, Lindbergh’s transatlantic flight, even initial 
 
 And yes, those self-driving vehicles got their start in federal prize competitions too!
 
-## Become a Public Solver
+**Become a Public Solver**
 
 If you’re interested in being a public solver, start by <a href="https://www.challenge.gov/?state=archived">browsing the archive</a> of prize competitions on Challenge.Gov. If something catches your eye, dive in a little deeper to find out how to submit your ideas and concepts. Every prize competition is structured differently, and the details matter. Make sure to follow the detailed instructions to submit your entry correctly and before the posted deadline.
 
@@ -31,7 +31,7 @@ If you have a question about a specific challenge, reach out to the point of con
 
 If you have general questions regarding Challenge.Gov, contact us at <a href="mailto:team@challenge.gov">team@challenge.gov</a>.
 
-## Use Prize Competitions to Advance Your Agency Mission
+**Use Prize Competitions to Advance Your Agency Mission**
 
 If you’re a federal employee interested in prize competitions, visit the <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Federal_Agency_Toolkit_13Oct2021.pdf">Challenge and Prize Toolkit</a> for considerations and best practices in designing and executing a successful competition.
 

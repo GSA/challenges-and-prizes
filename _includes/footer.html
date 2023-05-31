@@ -1,9 +1,9 @@
-<footer class="usa-footer site-footer text-white">
+<footer class="usa-footer site-footer text-white" role="contentinfo">
   <div class="grid-container padding-top-15 padding-bottom-5" >
     <div class="grid-row">
       <div class="tablet:grid-col footer__left">
         <img class="height-5 margin-bottom-2" src="{{ site.baseurl }}/assets/images/agency/challenge-logo-white-orange.svg" alt="Challenge Gov wordmark." title="Challenge Gov wordmark">
-        <hr class="border-orange margin-bottom-5">
+        <hr class="border-orange margin-bottom-5" />
         <div class="grid-row">
           <div class="tablet:grid-col">
             <ul class="add-list-reset">
@@ -18,7 +18,7 @@
               <li class="margin-bottom-1"><a class="footerlink text-no-underline" href="{{ site.baseurl }}/resources">Innovator Resources</a></li>
               <li class="margin-bottom-1"><a class="footerlink text-no-underline" href="{{ site.baseurl }}/resources-managers">Agency Resources</a></li>
               <li class="margin-bottom-1" id="js-archived-challenges"><a class="footerlink text-no-underline" href="{{ site.baseurl }}/?state=archived">Archived Challenges</a></li>
-              <li class="margin-bottom-1" id="active-challenges-footer"><a class="footerlink text-no-underline" href="{{ site.baseurl }}/#active-challenges">Active Challenges</a></li>
+              <li class="margin-bottom-1" id="active-challenges"><a class="footerlink text-no-underline" href="{{ site.baseurl }}/#active-challenges">Active Challenges</a></li>
             </ul>
           </div>
           <div class="tablet:grid-col">
@@ -57,35 +57,50 @@
       </div>
     </div>
   </div>
-  <div>
-  <a href="#" class="top">Back to Top ^</a>
-  </div>
-  <div>&nbsp;</div>
 </footer>
+<a href="#" class="top">Back to Top ^</a>
+
 
 <!-- Digital Analytics Program roll-up, see https://analytics.usa.gov for data -->
 <script id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency={{site.dap_agency}}"></script>
 
 {% if site.branch == "master" %}
   <link rel="stylesheet" href="https://portal.challenge.gov/css/public.css" crossorigin="anonymous">
-  <script src="https://portal.challenge.gov/js/public.js"></script>
-  <script src="https://portal.challenge.gov/js/client.js"></script>
+  <script type="text/javascript" src="https://portal.challenge.gov/js/public.js"></script>
+  <script type="text/javascript" src="https://portal.challenge.gov/js/client.js"></script>
 {% elsif site.branch == "staging" %}
    <link rel="stylesheet" href="https://challenge-portal-staging.app.cloud.gov/css/public.css" crossorigin="anonymous">
-  <script src="https://challenge-portal-staging.app.cloud.gov/js/public.js"></script>
-  <script src="https://challenge-portal-staging.app.cloud.gov/js/client.js"></script>
+  <script type="text/javascript" src="https://challenge-portal-staging.app.cloud.gov/js/public.js"></script>
+  <script type="text/javascript" src="https://challenge-portal-staging.app.cloud.gov/js/client.js"></script>
 {% elsif site.branch == "embed-react-app" %}
   <link rel="stylesheet" href="https://challenge-portal-staging.app.cloud.gov/css/public.css" crossorigin="anonymous">
-  <script src="https://challenge-portal-staging.app.cloud.gov/js/public.js"></script>
-  <script src="https://challenge-portal-staging.app.cloud.gov/js/client.js"></script>
+  <script type="text/javascript" src="https://challenge-portal-staging.app.cloud.gov/js/public.js"></script>
+  <script type="text/javascript" src="https://challenge-portal-staging.app.cloud.gov/js/client.js"></script>
 {% elsif jekyll.environment == "dev" %}
   <link rel="stylesheet" href="http://localhost:4000/css/public.css" crossorigin="anonymous">
-  <script src="http://localhost:4000/js/public.js"></script>
-  <script src="http://localhost:4000/js/client.js"></script>
+  <script type="text/javascript" src="http://localhost:4000/js/public.js"></script>
+  <script type="text/javascript" src="http://localhost:4000/js/client.js"></script>
 {% else %}
   <link rel="stylesheet" href="https://challenge-portal-dev.app.cloud.gov/css/public.css" crossorigin="anonymous">
-  <script src="https://challenge-portal-dev.app.cloud.gov/js/public.js"></script>
-  <script src="https://challenge-portal-dev.app.cloud.gov/js/client.js"></script>
+  <script type="text/javascript" src="https://challenge-portal-dev.app.cloud.gov/js/public.js"></script>
+  <script type="text/javascript" src="https://challenge-portal-dev.app.cloud.gov/js/client.js"></script>
+{% endif %}
+
+{% if site.branch == "master" %}
+  <div id="recaptcha-key" class="d-none">6Ldvf5ccAAAAAPFhblv51OnlSd8s-VsFaoL24izZ</div>
+  <script src="https://www.google.com/recaptcha/api.js?render=6Ldvf5ccAAAAAPFhblv51OnlSd8s-VsFaoL24izZ"></script>
+{% elsif site.branch == "staging" %}
+  <div id="recaptcha-key" class="d-none">6Ldvf5ccAAAAAPFhblv51OnlSd8s-VsFaoL24izZ</div>
+  <script src="https://www.google.com/recaptcha/api.js?render=6Ldvf5ccAAAAAPFhblv51OnlSd8s-VsFaoL24izZ"></script>
+{% elsif site.branch == "embed-react-app" %}
+  <div id="recaptcha-key" class="d-none">6LcOgPIUAAAAAL_Nhl-Vf0acxlhSlgnJMbhzfi4q</div>
+  <script src="https://www.google.com/recaptcha/api.js?render=6LcOgPIUAAAAAL_Nhl-Vf0acxlhSlgnJMbhzfi4q"></script>
+{% elsif jekyll.environment == "dev" %}
+  <div id="recaptcha-key" class="d-none">6LcOgPIUAAAAAL_Nhl-Vf0acxlhSlgnJMbhzfi4q</div>
+  <script src="https://www.google.com/recaptcha/api.js?render=6LcOgPIUAAAAAL_Nhl-Vf0acxlhSlgnJMbhzfi4q"></script>
+{% else %}
+  <div id="recaptcha-key" class="d-none">6LcOgPIUAAAAAL_Nhl-Vf0acxlhSlgnJMbhzfi4q</div>
+  <script src="https://www.google.com/recaptcha/api.js?render=6LcOgPIUAAAAAL_Nhl-Vf0acxlhSlgnJMbhzfi4q"></script>
 {% endif %}
 
 <script>
