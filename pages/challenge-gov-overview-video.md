@@ -5,9 +5,8 @@ title: Challenge.Gov Overview Video
 ---
 
 # Challenge.Gov Overview Video
- <div class="video video-css tablet:grid-col" style="padding-bottom: 40px; text-align: left;"><a href="https://www.youtube.com/watch?v=zb3y3T17jb8" target="_blank"><img src="{{ site.baseurl }}/assets/images/video-placeholder.png" alt="Watch the Challenge.Gov Overview Video" width="600"></a></div>     
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/zb3y3T17jb8" title="Overview of the Challenge.Gov initative" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+ <div class="video video-css tablet:grid-col" style="padding-bottom: 40px; text-align: left;"><a href="https://www.youtube.com/watch?v=zb3y3T17jb8" target="_blank"><img src="{{ site.baseurl }}/assets/images/video-placeholder.png" alt="Watch the Challenge.Gov Overview Video" width="600"></a></div>     
 
 ## Video Transcript Challenge.Gov Overview
 
