@@ -15,9 +15,17 @@ title: Events
    <div class="col-sm-12">
          <div class="card">
       <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
-       
-        <h4>Come back soon for more Challenge.Gov events</h4>
-        </div>
+        <h2 class="card-title text-center" style="font-weight: 900;">May 31, 2023</h2>
+        <h4>Behavioral Health Equity Challenge Chat Q&A</h4>
+        <p class="card-text text-center"> The Behavioral Health Equity Challenge seeks to identify and highlight innovative outreach and engagement strategies designed by community-based organizations to improve access to behavioral health services for racial and ethnic underserved communities. </p>
+<p class="card-text text-center">Meet the challenge team, bring your questions, and learn more.
+ </p>
+      
+ <p class="card-text text-center">
+          <b>May 31, 2023 <br/>
+            3:00 - 3:20 pm ET</b>
+</p>
+        <a href="https://gsa.zoomgov.com/meeting/register/vJItc-CprTIiEnB1s-VjplUoWHmbO2S502s" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a></div>
     </div>
   </div>
    <div class="col-sm-12">
