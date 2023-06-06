@@ -33,7 +33,15 @@ title: Events
 <h3 class="text-center">Past Events</h3>
 <div class="row">
   <div class="col-sm-12">
-     
+     <div class="card">
+      <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
+        <h2 class="card-title text-center" style="font-weight: 900;">May 31, 2023</h2>
+        <h4>Behavioral Health Equity Challenge Chat Q&A</h4>
+        <p class="card-text text-center"> The Behavioral Health Equity Challenge seeks to identify and highlight innovative outreach and engagement strategies designed by community-based organizations to improve access to behavioral health services for racial and ethnic underserved communities. </p>
+<p class="card-text text-center">On May 31 participants met the challenge team and shared questions.
+ </p>
+    </div>
+    </div>
     <div class="card">
       <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
         <h2 class="card-title text-center" style="font-weight: 900;">May 5, 2023</h2>
