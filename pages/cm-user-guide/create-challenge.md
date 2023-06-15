@@ -36,6 +36,7 @@ title: User Guide for Challenge Managers | Create Challenge
         </ul>
         </span></li>
     </ol>
+    <hr>
     <h3>Challenge.Gov Support Team Challenge Review</h3>
     <p>The Challenge.Gov support team will review your challenge for general content clarity, inclusion of relevant Challenge details in required fields, visibility of graphics, and significant spelling and grammatical errors. In addition the team will ensure that information requested from submitters does not violate the Challenge.Gov privacy policy and Terms of Use.</p>
 
