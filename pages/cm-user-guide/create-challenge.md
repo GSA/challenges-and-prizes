@@ -35,7 +35,7 @@ title: User Guide for Challenge Managers | Create Challenge
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Once agency approvals have been received, click <b>Submit for Approval</b> on the bottom right. The Challenge.Gov support team will review your challenge for general content clarity, visibility of graphics, and significant spelling and grammatical errors. Allow up to 2 business days for your request to be processed by the Challenge.Gov support team. After the review, the team will either <b>Approve</b> for posting or <b>Recommend Edits</b>.
         <ul>
           <li> If <b>Approved</b>, your challenge will automatically go live on the Publish Date entered when creating your challenge.</li>
-          <li>If <b>Edits Requested</b>, you will receive an email notification detailing the recommendations. (Refer to the <a href="https://www.challenge.gov/cm-user-guide/edit-draft-challenge/" target="_blank">Edit your challenge</a> for instructions for updating your challenge content and resubmitting for review.)</li>
+          <li>If <b>Edits Requested</b>, you will receive an email notification detailing the recommendations. (Refer to the <a href="https://www.challenge.gov/cm-user-guide/edit-draft-challenge/">Edit your challenge</a> for instructions for updating your challenge content and resubmitting for review.)</li>
         </ul>
         </span></li>
     </ol>
