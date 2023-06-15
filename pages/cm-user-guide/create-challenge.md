@@ -18,7 +18,7 @@ title: User Guide for Challenge Managers | Create Challenge
     <p><strong>Additional information can be found here:</strong></p>
     <ul>
       <li><a href="https://www.congress.gov/111/plaws/publ358/PLAW-111publ358.pdf" target="_blank">America COMPETES Reauthorization Act of 2010 (COMPETES Act)</a> - Section 105(f)</li>
-<li>Amended in 2017 with the <a href="https://www.congress.gov/bill/114th-congress/senate-bill/3084/text" target="_blank">American Innovation Competitiveness Act (AICA)</a> - Section 401(b)(2)(A) here to allow for promotion on any publicly accessible website, such as Challenge.Gov (previously required publication in Federal Register).</li>
+<li>Amended in 2017 with the <a href="https://www.congress.gov/bill/114th-congress/senate-bill/3084/text" target="_blank">American Innovation Competitiveness Act (AICA)</a> - Section 401(b)(2)(A) here to allow for promotion on any publicly accessible website, such as Challenge.Gov (previously required publication in <i>Federal Register</i>).</li>
     </ul>
     <hr>
     <h3>Setup Instructions</h3>
