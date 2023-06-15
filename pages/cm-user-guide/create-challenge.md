@@ -15,6 +15,10 @@ title: User Guide for Challenge Managers | Create Challenge
   <div class="col-sm-7">
     <p>Create a challenge tile that will appear on Challenge.Gov and link to your challenge details page. During setup you will have options for: challenge publication date & time; single or multiple phase challenges; collection of submissions via Challenge.Gov or an external challenge site; default or custom challenge URL.</p>
     <p>Listing your challenge on Challenge.Gov and providing key challenge details within your challenge profile allows your agency to comply with the announcement requirement under the COMPETES Act to provide the following information on a publicly accessible Government website: (1) the subject of the competition, (2) the rules for being eligible to participate in the competition, (3) the process for participants to register for the competition, (4) the amount of the prize, and (5) the basis on which a winner will be selected. Additional information can be found here: </p>
+    <ul>
+      <li>America COMPETES Reauthorization Act of 2010 (COMPETES Act) - Section 105(f)</li>
+<li>Amended in 2017 with the American Innovation Competitiveness Act (AICA) - Section 401(b)(2)(A) here to allow for promotion on any publicly accessible website, such as Challenge.Gov (previously required publication in Federal Register).</li>
+    </ul>
     <ol style="padding-left: 50px;">
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From the Challenge Manager Dashboard, click <b>Create a new challenge</b>.</span></li>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Follow on-screen prompts and enter the challenge details starting with <b>General Info</b>. (See the Challenge Template for additional information regarding each of the data fields.) For long text fields there is a text editor that allows you to adjust the font size and format, create bulleted and numbered lists, indent text, and add hyperlinks.</span></li>
@@ -32,6 +36,21 @@ title: User Guide for Challenge Managers | Create Challenge
         </ul>
         </span></li>
     </ol>
+    <h3>Challenge.Gov Support Team Challenge Review</h3>
+    <p>The Challenge.Gov support team will review your challenge for general content clarity, inclusion of relevant Challenge details in required fields, visibility of graphics, and significant spelling and grammatical errors. In addition the team will ensure that information requested from submitters does not violate the Challenge.Gov privacy policy and Terms of Use.</p>
+
+
+<p>Challenges collecting submissions via Challenge.Gov will also be reviewed by the Challenge.Gov Security Team to ensure information requested from submitters does not violate Challenge.Gov’s security parameters with regard to the collection of personally identifiable information (PII). Examples of such PII include, but are not limited to: Name, Job Title, Affiliation(s)/Employer(s), Work/Personal Email address, Phone Number.  </p>
+
+<p>If requesting PII as part of your challenge submission:</p>
+<ul>
+  <li>Explicitly state the type(s) of information requested in the submission instructions.</li>
+<li>Only collect information that is needed as part of the competition and selection process.  Information needed for prize distribution should not be collected via Challenge.Gov.</li>
+<li>Consider using a fillable pdf form. </li>
+<li>Include appropriate language in the submission instructions reminding solvers not to submit any additional PII, especially sensitive PII such as social security number, personal health, and financial information.
+</li>
+</ul>
+
   </div>
   <div class="col-sm-1">&nbsp;</div>
   <div class="col-sm-4"> {% include cm-user-guide-nav.html %} </div>
