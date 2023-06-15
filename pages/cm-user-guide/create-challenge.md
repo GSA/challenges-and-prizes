@@ -21,7 +21,7 @@ title: User Guide for Challenge Managers | Create Challenge
 <li>Amended in 2017 with the <a href="https://www.congress.gov/bill/114th-congress/senate-bill/3084/text" target="_blank">American Innovation Competitiveness Act (AICA)</a> - Section 401(b)(2)(A) here to allow for promotion on any publicly accessible website, such as Challenge.Gov (previously required publication in Federal Register).</li>
     </ul>
     <hr>
-    <h3>Instructions</h3>
+    <h3>Setup Instructions</h3>
     <ol style="padding-left: 50px;">
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From the Challenge Manager Dashboard, click <b>Create a new challenge</b>.</span></li>
       <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Follow on-screen prompts and enter the challenge details starting with <b>General Info</b>. (See the <a href="https://www.google.com/url?q=https://portal.challenge.gov/pdfs/creating_new_challenge-2bacf3110244f70dbc8d0f0cd2369aad.pdf?vsn%3Dd&sa=D&source=docs&ust=1686850045261503&usg=AOvVaw3go0HNMBeXrmdZj71zgEIN" target="_blank">Challenge Template</a> for additional information regarding each of the data fields.) For long text fields there is a text editor that allows you to adjust the font size and format, create bulleted and numbered lists, indent text, and add hyperlinks.</span></li>
