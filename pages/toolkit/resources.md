@@ -11,7 +11,7 @@ title: Toolkit - Resources
 * [OMB Fact Sheet and FAQ on Prize Authority in the America COMPETES Reauthorization Act](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/assets/egov_docs/prize_authority_in_the_america_competes_reauthorization_act.pdf)
 * [OMB Memo: Guidance on the Use of Challenges and Prizes to Promote Open Government]({{ site.baseurl }}/assets/document-library/Memoranda-Guidance-Use-Challenges-Prizes-Promote-Open-Government-M10-11.pdf) (March 2010)
 * [OMB Frequently Asked Questions on the Paperwork Reduction Act & Prizes and Challenges]({{ site.baseurl }}/assets/document-library/OIRA Challenge and Prizes FAQS.pdf)
-* [General Guide to the Paperwork Reduction Act]({{ site.baseurl }}/assets/document-library/OIRA%20Challenge%20and%20Prizes%20FAQS.pdf)
+* [General Guide to the Paperwork Reduction Act] (https://pra.digital.gov/)
 * [Open Government Directive]({{ site.baseurl }}/assets/document-library/Open-Government-Directive-M10-06.pdf) (December 8, 2009)
 * [2009 Strategy for American Innovation]({{ site.baseurl }}/assets/document-library/Strategy-American-Innovation-2009.pdf) (September 2009)
 
