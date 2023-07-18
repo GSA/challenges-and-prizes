@@ -13,12 +13,33 @@ title: Events
 </div>
 <div class="row">
    <div class="col-sm-12">
-         <div class="card">
+       <div class="card">
       <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
-        
-        <h4>Stay tuned for more Challenge.Gov events coming soon.</h4>
-        </div>
+        <h2 class="card-title text-center" style="font-weight: 900;">August 15, 2023</h2>
+        <h4>ReachU Challenge Chat Q&A</h4>
+        <p class="card-text text-center"> Looking for your ideas!</p>
+<p></p>University and college students, researchers, faculty, and staff: Help us reach YOU!</p>
+
+Where do you find funding opportunities or share your ideas for the chance to win cash prizes? 
+
+Students, researchers, and faculty from the academic community are ideally suited to participate in prize competitions. We at Challenge.Gov want to know how to best reach you so you can share your innovations to benefit the American people. 
+
+We want to know:
+
+What are the best digital channels or platforms to reach academic audiences about federally sponsored prize competitions and challenges?
+
+Join us August 15 to meet the ReachU team and learn more about this crowdsourcing campaign.
+ </p>
+<p class="card-text text-center">Meet the challenge team, bring your questions, and learn more.
+ </p>
+      
+ <p class="card-text text-center">
+          <b>August 15, 2023 <br/>
+            3:00 - 3:20 pm ET</b>
+</p>
+        <a href="https://gsa.zoomgov.com/meeting/register/vJItc-CprTIiEnB1s-VjplUoWHmbO2S502s" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a></div>
     </div>
+
   </div>
    <div class="col-sm-12">
     
