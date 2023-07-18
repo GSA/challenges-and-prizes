@@ -226,60 +226,60 @@ description: 'A successful engine must demonstrate the following:    &nbsp;    W
   OPERATING ON STANDARD JET A FUEL ...  Complete two run profiles of several hours
   each on an Air Force engine test stand    &nbsp;    IN THE 100 bhp (74.57 kW) CLASS
   ...  50 bhp &lt; max continuous output &lt; 150 bhp (37.3 kW &lt; max continuous
-  output &lt; 112 kW)    &nbsp;    <span style="color: #2f7abf; font-family: ProximaNova-Bold;
-  font-size: xx-small;"><span style="color: #2f7abf; font-family: ProximaNova-Bold;
-  font-size: xx-small;"><span style="color: #2f7abf; font-family: ProximaNova-Bold;
+  output &lt; 112 kW)    &nbsp;    <span style="color: #2f7abf; font-family: PublicSans-Bold;
+  font-size: xx-small;"><span style="color: #2f7abf; font-family: PublicSans-Bold;
+  font-size: xx-small;"><span style="color: #2f7abf; font-family: PublicSans-Bold;
   font-size: xx-small;">WITH A POWER-TO-WEIGHT RATIO ≥ 2.0 bhp/lb</span></span><span
-  style="color: #2f7abf; font-family: ProximaNova-Bold; font-size: xx-small;"><span
-  style="color: #2f7abf; font-family: ProximaNova-Bold; font-size: xx-small;"><span
-  style="color: #2f7abf; font-family: ProximaNova-Bold; font-size: xx-small;">(wet
+  style="color: #2f7abf; font-family: PublicSans-Bold; font-size: xx-small;"><span
+  style="color: #2f7abf; font-family: PublicSans-Bold; font-size: xx-small;"><span
+  style="color: #2f7abf; font-family: PublicSans-Bold; font-size: xx-small;">(wet
   installed weight) </span></span></span><span style="color: #2f7abf; font-family:
-  ProximaNova-Bold; font-size: xx-small;"><span style="color: #2f7abf; font-family:
-  ProximaNova-Bold; font-size: xx-small;"><span style="color: #2f7abf; font-family:
-  ProximaNova-Bold; font-size: xx-small;">(3.29 kW/kg</span></span></span><span style="color:
-  #2f7abf; font-family: ProximaNova-Bold; font-size: xx-small;"><span style="color:
-  #2f7abf; font-family: ProximaNova-Bold; font-size: xx-small;"><span style="color:
-  #2f7abf; font-family: ProximaNova-Bold; font-size: xx-small;">(wet installed weight)</span></span></span><span
-  style="color: #2f7abf; font-family: ProximaNova-Bold; font-size: xx-small;"><span
-  style="color: #2f7abf; font-family: ProximaNova-Bold; font-size: xx-small;"><span
-  style="color: #2f7abf; font-family: ProximaNova-Bold; font-size: xx-small;">)</span></span></span></span>    &nbsp;    DEMONSTRATE
+  PublicSans-Bold; font-size: xx-small;"><span style="color: #2f7abf; font-family:
+  PublicSans-Bold; font-size: xx-small;"><span style="color: #2f7abf; font-family:
+  PublicSans-Bold; font-size: xx-small;">(3.29 kW/kg</span></span></span><span style="color:
+  #2f7abf; font-family: PublicSans-Bold; font-size: xx-small;"><span style="color:
+  #2f7abf; font-family: PublicSans-Bold; font-size: xx-small;"><span style="color:
+  #2f7abf; font-family: PublicSans-Bold; font-size: xx-small;">(wet installed weight)</span></span></span><span
+  style="color: #2f7abf; font-family: PublicSans-Bold; font-size: xx-small;"><span
+  style="color: #2f7abf; font-family: PublicSans-Bold; font-size: xx-small;"><span
+  style="color: #2f7abf; font-family: PublicSans-Bold; font-size: xx-small;">)</span></span></span></span>    &nbsp;    DEMONSTRATE
   A BRAKE-SPECIFIC FUEL CONSUMPTION (BSFC) OF  <span style="color: #1a3f70; font-family:
-  ProximaNova-Regular; font-size: xx-small;"><span style="color: #1a3f70; font-family:
-  ProximaNova-Regular; font-size: xx-small;"><span style="color: #1a3f70; font-family:
-  ProximaNova-Regular; font-size: xx-small;">0.5 lbm</span></span></span><span style="color:
-  #1a3f70; font-family: ProximaNova-Regular; font-size: xx-small;"><span style="color:
-  #1a3f70; font-family: ProximaNova-Regular; font-size: xx-small;"><span style="color:
-  #1a3f70; font-family: ProximaNova-Regular; font-size: xx-small;">fuel</span></span></span><span
-  style="color: #1a3f70; font-family: ProximaNova-Regular; font-size: xx-small;"><span
-  style="color: #1a3f70; font-family: ProximaNova-Regular; font-size: xx-small;"><span
-  style="color: #1a3f70; font-family: ProximaNova-Regular; font-size: xx-small;">/bhp-hr
-  </span></span></span><span style="color: #1a3f70; font-family: ProximaNova-Regular;
-  font-size: xx-small;"><span style="color: #1a3f70; font-family: ProximaNova-Regular;
-  font-size: xx-small;"><span style="color: #1a3f70; font-family: ProximaNova-Regular;
+  PublicSans-Regular; font-size: xx-small;"><span style="color: #1a3f70; font-family:
+  PublicSans-Regular; font-size: xx-small;"><span style="color: #1a3f70; font-family:
+  PublicSans-Regular; font-size: xx-small;">0.5 lbm</span></span></span><span style="color:
+  #1a3f70; font-family: PublicSans-Regular; font-size: xx-small;"><span style="color:
+  #1a3f70; font-family: PublicSans-Regular; font-size: xx-small;"><span style="color:
+  #1a3f70; font-family: PublicSans-Regular; font-size: xx-small;">fuel</span></span></span><span
+  style="color: #1a3f70; font-family: PublicSans-Regular; font-size: xx-small;"><span
+  style="color: #1a3f70; font-family: PublicSans-Regular; font-size: xx-small;"><span
+  style="color: #1a3f70; font-family: PublicSans-Regular; font-size: xx-small;">/bhp-hr
+  </span></span></span><span style="color: #1a3f70; font-family: PublicSans-Regular;
+  font-size: xx-small;"><span style="color: #1a3f70; font-family: PublicSans-Regular;
+  font-size: xx-small;"><span style="color: #1a3f70; font-family: PublicSans-Regular;
   font-size: xx-small;">(0.3kg</span></span></span><span style="color: #1a3f70; font-family:
-  ProximaNova-Regular; font-size: xx-small;"><span style="color: #1a3f70; font-family:
-  ProximaNova-Regular; font-size: xx-small;"><span style="color: #1a3f70; font-family:
-  ProximaNova-Regular; font-size: xx-small;">fuel</span></span></span><span style="color:
-  #1a3f70; font-family: ProximaNova-Regular; font-size: xx-small;"><span style="color:
-  #1a3f70; font-family: ProximaNova-Regular; font-size: xx-small;"><span style="color:
-  #1a3f70; font-family: ProximaNova-Regular; font-size: xx-small;">/kW) or lower,
+  PublicSans-Regular; font-size: xx-small;"><span style="color: #1a3f70; font-family:
+  PublicSans-Regular; font-size: xx-small;"><span style="color: #1a3f70; font-family:
+  PublicSans-Regular; font-size: xx-small;">fuel</span></span></span><span style="color:
+  #1a3f70; font-family: PublicSans-Regular; font-size: xx-small;"><span style="color:
+  #1a3f70; font-family: PublicSans-Regular; font-size: xx-small;"><span style="color:
+  #1a3f70; font-family: PublicSans-Regular; font-size: xx-small;">/kW) or lower,
   at max continuous power</span></span></span>    <span style="color: #1a3f70; font-family:
-  ProximaNova-Regular; font-size: xx-small;"><span style="color: #1a3f70; font-family:
-  ProximaNova-Regular; font-size: xx-small;"><span style="color: #1a3f70; font-family:
-  ProximaNova-Regular; font-size: xx-small;">and, 0.59 lbm</span></span><span style="color:
-  #1a3f70; font-family: ProximaNova-Regular; font-size: xx-small;"><span style="color:
-  #1a3f70; font-family: ProximaNova-Regular; font-size: xx-small;"><span style="color:
-  #1a3f70; font-family: ProximaNova-Regular; font-size: xx-small;">fuel</span></span></span><span
-  style="color: #1a3f70; font-family: ProximaNova-Regular; font-size: xx-small;"><span
-  style="color: #1a3f70; font-family: ProximaNova-Regular; font-size: xx-small;"><span
-  style="color: #1a3f70; font-family: ProximaNova-Regular; font-size: xx-small;">/bhp-hr
-  (0.36 kg</span></span></span><span style="color: #1a3f70; font-family: ProximaNova-Regular;
-  font-size: xx-small;"><span style="color: #1a3f70; font-family: ProximaNova-Regular;
-  font-size: xx-small;"><span style="color: #1a3f70; font-family: ProximaNova-Regular;
+  PublicSans-Regular; font-size: xx-small;"><span style="color: #1a3f70; font-family:
+  PublicSans-Regular; font-size: xx-small;"><span style="color: #1a3f70; font-family:
+  PublicSans-Regular; font-size: xx-small;">and, 0.59 lbm</span></span><span style="color:
+  #1a3f70; font-family: PublicSans-Regular; font-size: xx-small;"><span style="color:
+  #1a3f70; font-family: PublicSans-Regular; font-size: xx-small;"><span style="color:
+  #1a3f70; font-family: PublicSans-Regular; font-size: xx-small;">fuel</span></span></span><span
+  style="color: #1a3f70; font-family: PublicSans-Regular; font-size: xx-small;"><span
+  style="color: #1a3f70; font-family: PublicSans-Regular; font-size: xx-small;"><span
+  style="color: #1a3f70; font-family: PublicSans-Regular; font-size: xx-small;">/bhp-hr
+  (0.36 kg</span></span></span><span style="color: #1a3f70; font-family: PublicSans-Regular;
+  font-size: xx-small;"><span style="color: #1a3f70; font-family: PublicSans-Regular;
+  font-size: xx-small;"><span style="color: #1a3f70; font-family: PublicSans-Regular;
   font-size: xx-small;">fuel</span></span></span><span style="color: #1a3f70; font-family:
-  ProximaNova-Regular; font-size: xx-small;"><span style="color: #1a3f70; font-family:
-  ProximaNova-Regular; font-size: xx-small;"><span style="color: #1a3f70; font-family:
-  ProximaNova-Regular; font-size: xx-small;">/kW) or lower, at 50% of max continuous
+  PublicSans-Regular; font-size: xx-small;"><span style="color: #1a3f70; font-family:
+  PublicSans-Regular; font-size: xx-small;"><span style="color: #1a3f70; font-family:
+  PublicSans-Regular; font-size: xx-small;">/kW) or lower, at 50% of max continuous
   power</span></span></span></span>    &nbsp;    Corrections will be applied to compensate
   for variability in ambient conditions during testing.    &nbsp;    The official
   test procedures and Prize guidelines will include additional details and clarification
