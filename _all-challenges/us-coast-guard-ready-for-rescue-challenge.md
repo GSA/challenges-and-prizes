@@ -267,7 +267,7 @@ memberIdeaSubmissionAllowed: true
 showTitle: true
 friendlyUrlKey: coast-guard
 description: "<p style=\"box-sizing: border-box; margin: 0px 0px 10px; color: #555555;
-  font-family: proxima-nova-n6, proxima-nova, 'Helvetica Neue', Helvetica, Arial,
+  font-family: public-sans-n6, public-sans, 'Helvetica Neue', Helvetica, Arial,
   sans-serif; font-size: 14px;\">The United States Coast Guard&rsquo;s Research and
   Development Center (USCG RDC) in conjunction with the DHS Science and Technology
   Directorate (S&amp;T) is seeking new&nbsp;<span style=\"box-sizing: border-box;
@@ -277,27 +277,27 @@ description: "<p style=\"box-sizing: border-box; margin: 0px 0px 10px; color: #5
   boaters. Submitted concepts may be for a new or updated lifejacket or personal floatation
   device (PFD), an attachment to a lifejacket/PFD, or something recreational mariners
   and boaters use in addition to wearing their lifejacket/PFD.</p>\r\n<p style=\"box-sizing:
-  border-box; margin: 0px 0px 10px; color: #555555; font-family: proxima-nova-n6,
-  proxima-nova, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;\">As
+  border-box; margin: 0px 0px 10px; color: #555555; font-family: public-sans-n6,
+  public-sans, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;\">As
   the nation&rsquo;s maritime first responder, the USCG is devoted to helping mariners
   and boaters in distress. Within this mission, one critical challenge is finding
   people who are lost in the water.</p>\r\n<p style=\"box-sizing: border-box; margin:
-  0px 0px 10px; color: #555555; font-family: proxima-nova-n6, proxima-nova, 'Helvetica
+  0px 0px 10px; color: #555555; font-family: public-sans-n6, public-sans, 'Helvetica
   Neue', Helvetica, Arial, sans-serif; font-size: 14px;\">When a person falls off
   of a recreational watercraft (boat, kayak, Jet Ski, paddle craft, etc.), they can
   be left isolated in open waters. A life jacket or personal floatation device (PFD)
   is a must for survival, keeping a person afloat while they wait for rescue. But
   a person lost in the water is a small, moving target and it can sometimes take hours
   before rescue teams are able to locate them.</p>\r\n<p style=\"box-sizing: border-box;
-  margin: 0px 0px 10px; color: #555555; font-family: proxima-nova-n6, proxima-nova,
+  margin: 0px 0px 10px; color: #555555; font-family: public-sans-n6, public-sans,
   'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;\">New recreational
   mariner safety solutions have the potential to greatly improve the chances of a
   successful rescue. Current technologies such as dyes, personal locators, and reflective
   materials in lifejackets/PFDs can help the U.S. Coast Guard better find people,
   and are shown to improve rescue rates. However, adoption of these technologies remains
   low, due to factors like cost, comfort, style, and awareness.</p>\r\n<p style=\"box-sizing:
-  border-box; margin: 0px 0px 10px; color: #555555; font-family: proxima-nova-n6,
-  proxima-nova, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;\">With
+  border-box; margin: 0px 0px 10px; color: #555555; font-family: public-sans-n6,
+  public-sans, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;\">With
   the U.S. Coast Guard Ready For Rescue Challenge, the USCG and DHS S&amp;T calls
   upon innovators from a wide variety of fields&mdash; from Public Safety, Maritime
   Safety, Recreational Sports, Consumer Goods and Materials, Wearables, Textiles,
@@ -308,27 +308,27 @@ description: "<p style=\"box-sizing: border-box; margin: 0px 0px 10px; color: #5
   The USCG and DHS S&amp;T intends for this work to be the first step in the design
   of new, improved or adapted technologies that can be leveraged by current USCG Search
   and Rescue assets to locate and rescue a person in the water faster.</p>\r\n<p style=\"box-sizing:
-  border-box; margin: 0px 0px 10px; color: #555555; font-family: proxima-nova-n6,
-  proxima-nova, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;\">This
+  border-box; margin: 0px 0px 10px; color: #555555; font-family: public-sans-n6,
+  public-sans, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;\">This
   is a multi-phase competition:</p>\r\n<p style=\"box-sizing: border-box; margin:
-  0px 0px 10px; color: #555555; font-family: proxima-nova-n6, proxima-nova, 'Helvetica
+  0px 0px 10px; color: #555555; font-family: public-sans-n6, public-sans, 'Helvetica
   Neue', Helvetica, Arial, sans-serif; font-size: 14px;\">Phase I (Ideation/Concept):
   September 5, 2018-October 15, 2018</p>\r\n<p style=\"box-sizing: border-box; margin:
-  0px 0px 10px; color: #555555; font-family: proxima-nova-n6, proxima-nova, 'Helvetica
+  0px 0px 10px; color: #555555; font-family: public-sans-n6, public-sans, 'Helvetica
   Neue', Helvetica, Arial, sans-serif; font-size: 14px;\">Phase II (Prototype Development):
   By invitation only. Phase I winners and honorable mentions participate in a &ldquo;piranha
   pool&rdquo;. Date(s) to be announced within 30 days of completion of Phase I.</p>\r\n<p
   style=\"box-sizing: border-box; margin: 0px 0px 10px; color: #555555; font-family:
-  proxima-nova-n6, proxima-nova, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:
+  public-sans-n6, public-sans, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:
   14px;\">Phase III (Prototype Assessment in an Operational Scenario): By invitation
   only. DHS S&amp;T and the USCG will announce an open submission period for additional
   Phase III participants in the Spring of 2019. Phase III participants include Phase
   II participants and invited open submission period applicants.</p>\r\n<p style=\"box-sizing:
-  border-box; margin: 0px 0px 10px; color: #555555; font-family: proxima-nova-n6,
-  proxima-nova, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;\"><strong
+  border-box; margin: 0px 0px 10px; color: #555555; font-family: public-sans-n6,
+  public-sans, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;\"><strong
   style=\"box-sizing: border-box;\">Phase 1</strong></p>\r\n<p style=\"box-sizing:
-  border-box; margin: 0px 0px 10px; color: #555555; font-family: proxima-nova-n6,
-  proxima-nova, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;\">Phase
+  border-box; margin: 0px 0px 10px; color: #555555; font-family: public-sans-n6,
+  public-sans, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;\">Phase
   I of the Challenge seeks concepts for novel and scalable solutions that help make
   people lost in the water easier to find and rescue. Solutions should help to improve
   the success of the search and rescue mission and may be a new or updated lifejacket/PFD,
@@ -341,8 +341,8 @@ description: "<p style=\"box-sizing: border-box; margin: 0px 0px 10px; color: #5
   recreational mariners and boaters from purchasing or wearing a lifejacket/PFD or
   give the impression that it is a substitute for wearing a lifejacket/PFD. Note that
   solutions cannot include a signal flare or pyrotechnic device.</p>\r\n<p style=\"box-sizing:
-  border-box; margin: 0px 0px 10px; color: #555555; font-family: proxima-nova-n6,
-  proxima-nova, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;\">At
+  border-box; margin: 0px 0px 10px; color: #555555; font-family: public-sans-n6,
+  public-sans, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;\">At
   the conclusion of Phase I, up to five (5) monetary award prize winners will each
   receive $5,000 of the associated total cash prize purse of $25,000. Phase I monetary
   awards are anticipated to be distributed based on the review of the Phase I submissions
@@ -354,7 +354,7 @@ description: "<p style=\"box-sizing: border-box; margin: 0px 0px 10px; color: #5
   in Phase II. All Phase II participants are eligible to receive a monetary and/or
   non-monetary prize based on their participation and the judging criteria defined
   below.</p>\r\n<p style=\"box-sizing: border-box; margin: 0px 0px 10px; color: #555555;
-  font-family: proxima-nova-n6, proxima-nova, 'Helvetica Neue', Helvetica, Arial,
+  font-family: public-sans-n6, public-sans, 'Helvetica Neue', Helvetica, Arial,
   sans-serif; font-size: 14px;\">Phase I monetary award winners are required to travel
   to the USCG Research and Development Center (RDC) in New London, CT to participate
   in a &ldquo;Piranha Pool&rdquo; pitch. (See Phase II information below). The DHS
@@ -363,22 +363,22 @@ description: "<p style=\"box-sizing: border-box; margin: 0px 0px 10px; color: #5
   and Hawaii) to New London, CT and return. In the case of a team entry, the Team
   Lead will receive invitational travel to the &ldquo;Piranha Pool&rdquo; pitch.</p>\r\n<p
   style=\"box-sizing: border-box; margin: 0px 0px 10px; color: #555555; font-family:
-  proxima-nova-n6, proxima-nova, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:
+  public-sans-n6, public-sans, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:
   14px;\">If a potential monetary or non-monetary prize winner is found to be ineligible,
   has not complied with these Official Rules, Terms &amp; Conditions, or declines
   the monetary prize for any reason prior to award, (an) alternate winner(s) may be
   selected.</p>\r\n<p style=\"box-sizing: border-box; margin: 0px 0px 10px; color:
-  #555555; font-family: proxima-nova-n6, proxima-nova, 'Helvetica Neue', Helvetica,
+  #555555; font-family: public-sans-n6, public-sans, 'Helvetica Neue', Helvetica,
   Arial, sans-serif; font-size: 14px;\">Monetary prizes awarded under Phase I will
   be paid to the individual or Team Lead directly by Luminary Labs through electronic
   funds transfer. Phase II and III monetary awards will be paid to the individual
   or Team Lead directly by the USCG. Monetary award prize winners are responsible
   for any applicable local, state, and federal taxes and reporting that may be required
   under applicable tax laws.</p>\r\n<p style=\"box-sizing: border-box; margin: 0px
-  0px 10px; color: #555555; font-family: proxima-nova-n6, proxima-nova, 'Helvetica
+  0px 10px; color: #555555; font-family: public-sans-n6, public-sans, 'Helvetica
   Neue', Helvetica, Arial, sans-serif; font-size: 14px;\"><strong style=\"box-sizing:
   border-box;\">Phase II</strong></p>\r\n<p style=\"box-sizing: border-box; margin:
-  0px 0px 10px; color: #555555; font-family: proxima-nova-n6, proxima-nova, 'Helvetica
+  0px 0px 10px; color: #555555; font-family: public-sans-n6, public-sans, 'Helvetica
   Neue', Helvetica, Arial, sans-serif; font-size: 14px;\">Phase I monetary prize winners
   and invited non-monetary honorable mentions (optional) will participate in a &ldquo;Piranha
   Pool&rdquo; to pitch their concept, prototype build and evaluation plan before a
@@ -393,7 +393,7 @@ description: "<p style=\"box-sizing: border-box; margin: 0px 0px 10px; color: #5
   awards and offers of non-monetary awards to assist in the development of a working
   prototype will be distributed by the judges based upon the &ldquo;Piranha Pool&rdquo;
   presentation, posed questions and answers.</p>\r\n<p style=\"box-sizing: border-box;
-  margin: 0px 0px 10px; color: #555555; font-family: proxima-nova-n6, proxima-nova,
+  margin: 0px 0px 10px; color: #555555; font-family: public-sans-n6, public-sans,
   'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;\">Phase III will
   be conducted between 1 August 2019 and 31 December 2019. Phase III will consist
   of limited field testing of prototypes alongside standard USCG approved safety equipment.
@@ -406,14 +406,14 @@ description: "<p style=\"box-sizing: border-box; margin: 0px 0px 10px; color: #5
   of new contestants with a working prototype may be invited to participate in Phase
   III.&nbsp; All Phase III contestants will be eligible to share in the Phase III
   prize purse of up to $110,000.</p>\r\n<p style=\"box-sizing: border-box; margin:
-  0px 0px 10px; color: #555555; font-family: proxima-nova-n6, proxima-nova, 'Helvetica
+  0px 0px 10px; color: #555555; font-family: public-sans-n6, public-sans, 'Helvetica
   Neue', Helvetica, Arial, sans-serif; font-size: 14px;\">At the conclusion of the
   Phase III limited field testing, the judging panel may award up to $110,000 in monetary
   prizes to the top 5 winners. Winners that accept a monetary prize must agree to
   continue to work with the USCG RDC to improve their prototype, obtain feedback,
   prepare their prototype for commercialization, and provide requested information
   in the preparation of the final USCG report.</p>\r\n<p style=\"box-sizing: border-box;
-  margin: 0px 0px 10px; color: #555555; font-family: proxima-nova-n6, proxima-nova,
+  margin: 0px 0px 10px; color: #555555; font-family: public-sans-n6, public-sans,
   'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;\">Additional monetary
   investment by the government in the further development and commercialization of
   participant prototypes after the conclusion of the challenge is not anticipated.
