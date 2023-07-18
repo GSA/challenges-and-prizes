@@ -226,7 +226,7 @@ description: 'A successful engine must demonstrate the following:    &nbsp;    W
   OPERATING ON STANDARD JET A FUEL ...  Complete two run profiles of several hours
   each on an Air Force engine test stand    &nbsp;    IN THE 100 bhp (74.57 kW) CLASS
   ...  50 bhp &lt; max continuous output &lt; 150 bhp (37.3 kW &lt; max continuous
-  output &lt; 112 kW)    &nbsp;    <span style="color: #2f7abf; font-family: PublicSans-Bold;
+  output &lt; 112 kW)    &nbsp;    <span style="color: #2f7abf; font-family: public-sans-Bold;
   font-size: xx-small;"><span style="color: #2f7abf; font-family: PublicSans-Bold;
   font-size: xx-small;"><span style="color: #2f7abf; font-family: PublicSans-Bold;
   font-size: xx-small;">WITH A POWER-TO-WEIGHT RATIO ≥ 2.0 bhp/lb</span></span><span
