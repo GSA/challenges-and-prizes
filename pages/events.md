@@ -24,14 +24,13 @@ title: Events
 
 <p>Join us August 15 to meet the ReachU team and learn more about this crowdsourcing campaign.
  </p>
-<p class="card-text text-center">Meet the challenge team, bring your questions, and learn more.
- </p>
+
       
  <p class="card-text text-center">
           <b>August 15, 2023 <br/>
             3:00 - 3:20 pm ET</b>
 </p>
-        <a href="https://gsa.zoomgov.com/meeting/register/vJItc-CprTIiEnB1s-VjplUoWHmbO2S502s" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a></div>
+        <a href="https://gsa.zoomgov.com/webinar/register/4716893630946/WN_Gn2F4pprQyS1S8QCXmODtA" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a></div>
     </div>
 
   </div>
