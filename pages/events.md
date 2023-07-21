@@ -35,7 +35,7 @@ title: Events
         <p class="card-text text-center"> Looking for your ideas!</p>
 <p>University and college students, researchers, faculty, and staff: Help us reach YOU!</p>
 
-<p>Where do you find funding opportunities or share your ideas for the chance to win cash prizes? Join us August 15 to meet the ReachU team and learn more about this crowdsourcing campaign.
+<p>Where do you find funding opportunities or share your ideas for the chance to win cash prizes?<br/> Join us August 15 to meet the ReachU team and learn more about this crowdsourcing campaign.
  </p>
       
  <p class="card-text text-center">
