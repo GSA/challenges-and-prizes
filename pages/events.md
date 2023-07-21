@@ -17,9 +17,9 @@ title: Events
       <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
         <h2 class="card-title text-center" style="font-weight: 900;">August 8, 2023</h2>
         <h4>“Making Sense of Electronic Health Record (EHR) Race and Ethnicity Data” – Top Performers</h4>
-        <p class="card-text text-center"> FDA’s Office of Digital Transformation (ODT) is pleased to announce the upcoming webinar: “Top Performers in precisionFDA’ s Making Sense of Electronic Health Record (EHR) Race and Ethnicity Data" Challenge.
+        <p class="card-text text-center"> FDA’s Office of Digital Transformation (ODT) is pleased to announce the upcoming webinar: “Top Performers in precisionFDA’s Making Sense of Electronic Health Record (EHR) Race and Ethnicity Data" Challenge.
 </p>
-<p>The webinar is an opportunity for top performers to present their solutions and exchange information about assumptions, rationale, and approaches to the recent <a href="https://www.challenge.gov/?challenge=making-sense-of-electronic-health-record-ehr-race-and-ethnicity-data-challenge">“Making Sense of Electronic Health Record (EHR) Race and Ethnicity Data” Challenge</a>.
+<p>The webinar is an opportunity for top performers to present their solutions and exchange information about assumptions, rationale, and approaches to the recent "<a href="https://www.challenge.gov/?challenge=making-sense-of-electronic-health-record-ehr-race-and-ethnicity-data-challenge">Making Sense of Electronic Health Record (EHR) Race and Ethnicity Data" Challenge</a>.
 </p>
       
  <p class="card-text text-center">
@@ -35,7 +35,7 @@ title: Events
         <p class="card-text text-center"> Looking for your ideas!</p>
 <p>University and college students, researchers, faculty, and staff: Help us reach YOU!</p>
 
-<p>Where do you find funding opportunities or share your ideas for the chance to win cash prizes?<br/> Join us August 15 to meet the ReachU team and learn more about this crowdsourcing campaign.
+<p>Where do you look for funding opportunities or chances to win cash prizes?<br/> Join us August 15 to meet the ReachU team and learn more about this crowdsourcing campaign.
  </p>
       
  <p class="card-text text-center">
