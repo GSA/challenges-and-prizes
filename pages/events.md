@@ -19,7 +19,7 @@ title: Events
         <h4>“Making Sense of Electronic Health Record (EHR) Race and Ethnicity Data” – Top Performers</h4>
         <p class="card-text text-center"> FDA’s Office of Digital Transformation (ODT) is pleased to announce the upcoming webinar: “Top Performers in precisionFDA’s Making Sense of Electronic Health Record (EHR) Race and Ethnicity Data" Challenge.
 </p>
-<p>The webinar is an opportunity for top performers to present their solutions and exchange information about assumptions, rationale, and approaches to the recent "<a href="https://www.challenge.gov/?challenge=making-sense-of-electronic-health-record-ehr-race-and-ethnicity-data-challenge">Making Sense of Electronic Health Record (EHR) Race and Ethnicity Data" Challenge</a>.
+<p>The webinar is an opportunity for top performers to present their solutions and exchange information about assumptions, rationale, and approaches to the recent <a href="https://www.challenge.gov/?challenge=making-sense-of-electronic-health-record-ehr-race-and-ethnicity-data-challenge">"Making Sense of Electronic Health Record (EHR) Race and Ethnicity Data"</a> Challenge.
 </p>
       
  <p class="card-text text-center">
