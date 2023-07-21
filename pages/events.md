@@ -15,7 +15,7 @@ title: Events
    <div class="col-sm-12">
      <div class="card">
       <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
-        <h2 class="card-title text-center" style="font-weight: 900;">August 18, 2023</h2>
+        <h2 class="card-title text-center" style="font-weight: 900;">August 8, 2023</h2>
         <h4>“Making Sense of Electronic Health Record (EHR) Race and Ethnicity Data” – Top Performers</h4>
         <p class="card-text text-center"> FDA’s Office of Digital Transformation (ODT) is pleased to announce the upcoming webinar: “Top Performers in precisionFDA’ s Making Sense of Electronic Health Record (EHR) Race and Ethnicity Data" Challenge.
 </p>
