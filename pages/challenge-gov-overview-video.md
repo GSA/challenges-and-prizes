@@ -6,7 +6,7 @@ title: Challenge.Gov Overview Video
 
 # Challenge.Gov Overview Video
 
- <div class="video video-css tablet:grid-col" style="padding-bottom: 40px; text-align: left;"><a href="https://www.youtube.com/watch?v=zb3y3T17jb8" target="_blank"><img src="{{ site.baseurl }}/assets/images/video-placeholder.png" alt="Watch the Challenge.Gov Overview Video" width="600"></a></div>     
+ <div class="video video-css tablet:grid-col" style="padding-bottom: 40px; text-align: left;"><a href="https://www.youtube.com/watch?v=pq1cKuM7Gpo" target="_blank"><img src="{{ site.baseurl }}/assets/images/video-placeholder.png" alt="Watch the Challenge.Gov Overview Video" width="600"></a></div>     
 
 ## Video Transcript Challenge.Gov Overview
 
