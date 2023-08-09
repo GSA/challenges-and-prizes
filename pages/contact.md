@@ -12,4 +12,4 @@ Contact the Challenge.Gov team at <a href="mailto:team@challenge.gov">team@chall
 For all media inquiries, please email <a href="mailto:press@gsa.gov">press@gsa.gov</a>.
 
 You can also keep up with the community and Challenge.Gov on social media:
-<a href="http://www.twitter.com/challengegov">Twitter</a>, <a href="http://www.facebook.com/challengegov">Facebook</a>, & <a href="https://www.linkedin.com/company/challengegov/">LinkedIn</a>.
+<a href="http://www.twitter.com/challengegov">Twitter</a>, <a href="http://www.facebook.com/challengegov">Facebook</a>, <a href="https://www.linkedin.com/company/challengegov/">LinkedIn</a>, & <a href="https://www.youtube.com/@challenge-gov">YouTube</a>.
