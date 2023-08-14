@@ -74,7 +74,7 @@ title: Resources for Federal Challenge Managers
         <i class="fas fa-toolbox" style="color: #005ea2; padding-bottom: 20px; font-size: 3em;" title="Read our FAQs"></i>
         <h2 class="card-title text-center">Toolkit</h2>
         <p class="card-text text-center">Resources on running challenges.</p>
-        <a href="https://www.challenge.gov/assets/document-library/ChallengeGov_Federal_Agency_Toolkit.pdf" class="usa-button usa-button"><span style="color: #ffffff;">Read toolkit</span></a>
+        <a href="https://www.challenge.gov/assets/document-library/Challenge.Gov-Federal-Agency-Toolkit.pdf" class="usa-button usa-button"><span style="color: #ffffff;">Read toolkit</span></a>
       </div>
     </div>
   </div>
