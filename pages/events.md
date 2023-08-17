@@ -22,11 +22,8 @@ title: Events
 <p>The webinar is an opportunity for top performers to present their solutions and exchange information about assumptions, rationale, and approaches to the recent "<a href="https://www.challenge.gov/?challenge=making-sense-of-electronic-health-record-ehr-race-and-ethnicity-data-challenge">Making Sense of Electronic Health Record (EHR) Race and Ethnicity Data</a>" Challenge.
 </p>
       
- <p class="card-text text-center">
-          <b>August 8, 2023 <br/>
-            2:00 - 3:30 pm ET</b>
-</p>
-        <a href="https://fda.zoomgov.com/webinar/register/WN_RVFYUWJmSVaIql_EnBIlEg" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a></div>
+
+       </div>
     </div>
        <div class="card">
       <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
@@ -52,6 +49,17 @@ title: Events
 <div class="row">
   <div class="col-sm-12">
      <div class="card">
+      <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
+        <h2 class="card-title text-center" style="font-weight: 900;">August 8, 2023</h2>
+        <h4>“Making Sense of Electronic Health Record (EHR) Race and Ethnicity Data” – Top Performers</h4>
+        <p class="card-text text-center"> 
+On August 8, participants heard from the top performers from precisionFDA’s "<a href="https://www.challenge.gov/?challenge=making-sense-of-electronic-health-record-ehr-race-and-ethnicity-data-challenge">Making Sense of Electronic Health Record (EHR) Race and Ethnicity Data</a>" Challenge.
+</p>
+      
+
+       </div>
+    </div>
+    <div class="card">
       <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
         <h2 class="card-title text-center" style="font-weight: 900;">May 31, 2023</h2>
         <h4>Behavioral Health Equity Challenge Chat Q&A</h4>
