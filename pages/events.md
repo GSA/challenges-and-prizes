@@ -10,19 +10,16 @@ title: Events
 <p>Subscribe to the <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?topic_id=USGSATTS_41">Challenge.Gov News e-Newsletter</a> to stay up-to-date on events and activities.
 </p>
   <p>Are you a federal challenge manager with an event to share? Send an email to <a href="mailto:team@challenge.gov">team@challenge.gov.</a></p> 
-</div>
+
 <div class="row">
    <div class="col-sm-12">
      <div class="card">
       <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
         <h2 class="card-title text-center" style="font-weight: 900;">Come back soon for more Challenge.Gov events</h2>
       </div>
-    </div>
-      
-
+    </div> 
   </div>
-   <div class="col-sm-12">
-    
+   <div class="col-sm-12"> 
 <h3 class="text-center">Past Events</h3>
 <div class="row">
    <div class="card">
@@ -91,4 +88,3 @@ On May 2 participants met the challenge team and shared questions.
        </div>
     </div>
   </div>
-</div>
