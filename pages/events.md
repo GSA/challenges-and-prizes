@@ -63,7 +63,7 @@ title: Events
         <div class="card">
           <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
             <h2 class="card-title text-center" style="font-weight: 900;">May 2, 2023</h2>
-            <h3>Substance Use Prevention in Primary Care Challenge Chat Q&mp;A</h3>
+            <h3>Substance Use Prevention in Primary Care Challenge Chat Q and A</h3>
             <p class="card-text text-center"> The “Substance Use Prevention Services in Primary Care” Challenge is seeking creative, visionary, and actionable plans for substance use risk screening and prevention. This $100,000 open innovation prize competition is sponsored by the National Institute on Drug Abuse. The Challenge will offer up to four awards of up to $25,000 each.
               On May 2 participants met the challenge team and shared questions. </p>
           </div>
@@ -71,7 +71,7 @@ title: Events
         <div class="card">
           <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Past event"></i>
             <h2 class="card-title text-center" style="font-weight: 900;">March 16, 2023</h2>
-            <h3>Applied AI Healthcare Challenge Chat Q&mp;A</h3>
+            <h3>Applied AI Healthcare Challenge Chat Q and A</h3>
             <p class="card-text text-center">Improving America's Healthcare Services through Artificial Intelligence </p>
           </div>
         </div>
