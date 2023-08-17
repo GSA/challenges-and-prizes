@@ -16,12 +16,9 @@ title: Events
      <div class="card">
       <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
         <h2 class="card-title text-center" style="font-weight: 900;">August 8, 2023</h2>
-        <h4>“Making Sense of Electronic Health Record (EHR) Race and Ethnicity Data” – Top Performers</h4>
-        <p class="card-text text-center"> FDA’s Office of Digital Transformation (ODT) is pleased to announce the upcoming webinar: “Top Performers in precisionFDA’s Making Sense of Electronic Health Record (EHR) Race and Ethnicity Data" Challenge.
+        <h4>Come back soon for more Challenge.Gov events</h4>
+        <p class="card-text text-center"> text
 </p>
-<p>The webinar is an opportunity for top performers to present their solutions and exchange information about assumptions, rationale, and approaches to the recent "<a href="https://www.challenge.gov/?challenge=making-sense-of-electronic-health-record-ehr-race-and-ethnicity-data-challenge">Making Sense of Electronic Health Record (EHR) Race and Ethnicity Data</a>" Challenge.
-</p>
-      
 
        </div>
     </div>
@@ -55,9 +52,7 @@ title: Events
         <p class="card-text text-center"> 
 On August 8, participants heard from the top performers from precisionFDA’s "<a href="https://www.challenge.gov/?challenge=making-sense-of-electronic-health-record-ehr-race-and-ethnicity-data-challenge">Making Sense of Electronic Health Record (EHR) Race and Ethnicity Data</a>" Challenge.
 </p>
-      
-
-       </div>
+    </div>
     </div>
     <div class="card">
       <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
