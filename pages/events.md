@@ -23,7 +23,7 @@ title: Events
       <div class="card">
         <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
           <h2 class="card-title text-center" style="font-weight: 900;">August 15, 2023</h2>
-          <h4>ReachU Challenge Chat Q&mp;A</h4>
+          <h4>ReachU Challenge Chat Q and A</h4>
           <p class="card-text text-center"> Looking for your ideas!</p>
           <p>University and college students, researchers, faculty, and staff: Help us reach YOU!</p>
           <p>Where do you look for funding opportunities or chances to win cash prizes?<br/>
@@ -41,7 +41,7 @@ title: Events
         <div class="card">
           <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
             <h2 class="card-title text-center" style="font-weight: 900;">May 31, 2023</h2>
-            <h4>Behavioral Health Equity Challenge Chat Q&amp;A</h4>
+            <h4>Behavioral Health Equity Challenge Chat Q and A</h4>
             <p class="card-text text-center"> The Behavioral Health Equity Challenge seeks to identify and highlight innovative outreach and engagement strategies designed by community-based organizations to improve access to behavioral health services for racial and ethnic underserved communities. </p>
             <p class="card-text text-center">On May 31 participants met the challenge team and shared questions. </p>
           </div>
