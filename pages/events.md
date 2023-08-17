@@ -15,35 +15,27 @@ title: Events
    <div class="col-sm-12">
      <div class="card">
       <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
-        <h2 class="card-title text-center" style="font-weight: 900;">August 8, 2023</h2>
-        <h4>Come back soon for more Challenge.Gov events</h4>
-        <p class="card-text text-center"> text
-</p>
-
-       </div>
+        <h2 class="card-title text-center" style="font-weight: 900;">Come back soon for more Challenge.Gov events</h2>
+      </div>
     </div>
-       <div class="card">
-      <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
-        <h2 class="card-title text-center" style="font-weight: 900;">August 15, 2023</h2>
-        <h4>ReachU Challenge Chat Q&A</h4>
-        <p class="card-text text-center"> Looking for your ideas!</p>
-<p>University and college students, researchers, faculty, and staff: Help us reach YOU!</p>
-
-<p>Where do you look for funding opportunities or chances to win cash prizes?<br/> Join us August 15 to meet the ReachU team and learn more about this crowdsourcing campaign.
- </p>
       
- <p class="card-text text-center">
-          <b>August 15, 2023 <br/>
-            3:00 - 3:20 pm ET</b>
-</p>
-        <a href="https://gsa.zoomgov.com/webinar/register/4716893630946/WN_Gn2F4pprQyS1S8QCXmODtA" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a></div>
-    </div>
 
   </div>
    <div class="col-sm-12">
     
 <h3 class="text-center">Past Events</h3>
 <div class="row">
+   <div class="card">
+      <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
+        <h2 class="card-title text-center" style="font-weight: 900;">August 15, 2023</h2>
+        <h4>ReachU Challenge Chat Q&A</h4>
+        <p class="card-text text-center"> Looking for your ideas!</p>
+<p>University and college students, researchers, faculty, and staff: Help us reach YOU!</p>
+
+<p>Where do you look for funding opportunities or chances to win cash prizes?<br/> On August 15, participants met the <a href="https://www.challenge.gov/?challenge=reachu-challenge">ReachU Challenge</a> team to learn more about this crowdsourcing campaign.
+      
+ </div>
+    </div>
   <div class="col-sm-12">
      <div class="card">
       <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
