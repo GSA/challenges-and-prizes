@@ -41,18 +41,28 @@ title: User Guide for Challenge Managers | Create Challenge
     </ol>
     <hr>
     <h3>Challenge.Gov Support Team Challenge Review</h3>
-    <p>The Challenge.Gov support team will review your challenge for general content clarity, inclusion of relevant Challenge details in required fields, visibility of graphics, and significant spelling and grammatical errors. In addition the team will ensure that information requested from submitters does not violate the <a href="https://www.challenge.gov/privacy-policy/">Challenge.Gov privacy policy and Terms of Use</a>.</p>
+    <p>Allow a minimum of 2 business days for your request to be processed by the Challenge.Gov support team.  Additional time may be needed if you are collecting personally identifiable information (PII) as part of your challenge submission.</p>
 
 
-<p>Challenges collecting submissions via Challenge.Gov will also be reviewed by the Challenge.Gov Security Team to ensure information requested from submitters does not violate Challenge.Gov’s security parameters with regard to the collection of personally identifiable information (PII). Examples of such PII include, but are not limited to: Name, Job Title, Affiliation(s)/Employer(s), Work/Personal Email address, Phone Number.  </p>
+<p>The Challenge.Gov support team will review your challenge for general content clarity, inclusion of relevant Challenge details in required fields, visibility of graphics, and significant spelling and grammatical errors. In addition the team will ensure that information requested from submitters does not violate the <a href="https://www.challenge.gov/privacy-policy/">Challenge.Gov privacy policy and Terms of Use</a>.</p>
+
+
+<p>Challenges collecting submissions via Challenge.Gov will also be reviewed to ensure information requested from submitters does not violate Challenge.Gov’s security parameters with regard to the collection of PII. Examples of such PII include, but are not limited to: Name, Job Title, Affiliation(s)/Employer(s), Work/Personal Email address, Phone Number.  
+</p>
 
 <p>If requesting PII as part of your challenge submission:</p>
 <ul>
+  <li>Obtain agency Paperwork Reduction Act (PRA), if necessary, and security team approval prior to submitting your challenge for Challenge.gov support team review.</li>
   <li>Explicitly state the type(s) of information requested in the submission instructions.</li>
-<li>Only collect information that is needed as part of the competition and selection process.  Information needed for prize distribution should not be collected via Challenge.Gov.</li>
-<li>Consider using a fillable pdf form. </li>
-<li>Include appropriate language in the submission instructions reminding solvers not to submit any additional PII, especially sensitive PII such as social security number, personal health, and financial information.
-</li>
+  <li>Only collect information that is needed as part of the competition and selection process. Information needed for prize distribution should not be collected via Challenge.Gov.</li>
+  <li>Use a fillable pdf form marked with any needed <a href="https://www.archives.gov/files/cui/documents/20161206-cui-marking-handbook-v1-1-20190524.pdf">Controlled Unclassified Information markings</a>.</li>
+  <li>Include appropriate language in the submission instructions reminding solvers not to submit any additional PII, especially sensitive PII such as social security number, personal health, and financial information.</li>
+</ul>
+
+<p>Resources:</p>
+<ul>
+  <li><a href="https://www.challenge.gov/assets/document-library/OIRA%20Challenge%20and%20Prizes%20FAQS.pdf">Office of Management & Budget (OMB) / Office of Information and Regulatory Affairs (OIRA) Challenges & Prizes FAQ</a></li>
+  <li><a href="https://www.archives.gov/cui/registry/category-detail/privacy.html#authority-list">Controlled Unclassified Information (CUI) Banner Marking Requirements</a></li>
 </ul>
 
   </div>
