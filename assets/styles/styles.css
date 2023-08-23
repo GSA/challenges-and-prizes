@@ -774,6 +774,13 @@ summary {
   padding-left: 10px;
 }
 /* case studies */
+html body .usa-collection__item,
+html body .usa-list li,
+html body .usa-prose .usa-collection__item,
+html body .usa-prose>ol li,
+html body .usa-prose>ul li{
+  max-width: 88ex;
+}
 /******** media queries ********/
 @media (min-width: 576px){
 .container-sm, .container {
