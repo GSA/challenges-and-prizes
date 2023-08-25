@@ -598,9 +598,9 @@ summary {
 }
 .bg-secondary-lighter {
   padding-top: 6px;
-    background-color: #005ea2;
-    color: #ffffff;
-    text-align: center;
+  background-color: #005ea2;
+  color: #ffffff;
+  text-align: center;
 }
 .bg-secondary-lighter{
   padding-bottom: 0.5rem;
@@ -625,7 +625,7 @@ summary {
 .usa-prose-custom {
   font-family: Source Sans Pro Web,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
   font-size: 1.06rem;
-    line-height: 1.5;
+  line-height: 1.5;
 }
 .usa-prose-custom>p {
   line-height: 1.5;
@@ -774,286 +774,283 @@ summary {
   padding-left: 10px;
 }
 /* case studies */
-html body .usa-collection__item,
-html body .usa-list li,
-html body .usa-prose .usa-collection__item,
-html body .usa-prose>ol li,
-html body .usa-prose>ul li{
-  max-width: 88ex;
+/*24-8*/
+.grid-row.grid-gap.mt-1{
+  margin-top: 1em;
 }
 /******** media queries ********/
 @media (min-width: 576px){
-.container-sm, .container {
-  max-width: 540px;
-}
+  .container-sm, .container {
+    max-width: 540px;
+  }
 
-.usa-width-one-half{
-  flex: 0 0 auto;
-  width: 50%;
-}
-.usa-width-one-quarter{
-  flex: 0 0 auto;
-  width: 25%;
-}
-.grid-row.grid-gap>*{
-  padding-right: calc(1.5rem * 0.5);
-  padding-left: calc(1.5rem * 0.5);
-}
+  .usa-width-one-half{
+    flex: 0 0 auto;
+    width: 50%;
+  }
+  .usa-width-one-quarter{
+    flex: 0 0 auto;
+    width: 25%;
+  }
+  .grid-row.grid-gap>*{
+    padding-right: calc(1.5rem * 0.5);
+    padding-left: calc(1.5rem * 0.5);
+  }
 }
 @media (min-width: 768px){
-.container {
-  max-width: 720px;
-}
+  .container {
+    max-width: 720px;
+  }
 }
 @media (min-width: 992px){
-.container {
-  max-width: 960px;
-}
+  .container {
+    max-width: 960px;
+  }
 }
 @media (min-width: 1200px){
   h1, .h1 {
     font-size: 2.5rem;
-}
+  }
   h2, .h2,
   .usa-card__heading {
-      font-size: 2rem;
+    font-size: 2rem;
   }
   h4, .h4, .cms-sec-wrap h4 {
-      font-size: 1.5rem;
+    font-size: 1.5rem;
   }
   h3, .h3,
   .usa-prose>h3 {
-      font-size: 1.75rem;
+    font-size: 1.75rem;
   }
   .grid-container-resources h2 {
-  font-size: 2rem;
-}
-.challenges-bg .container,
-.newsletter-bg .container,
-.container {
-  max-width: 1140px;
-}
-.hero-headline{
-  font-size: 2.5rem;
-}
-.challenges-bg h2 {
-  font-size: 2rem;
-}
+    font-size: 2rem;
+  }
+  .challenges-bg .container,
+  .newsletter-bg .container,
+  .container {
+    max-width: 1140px;
+  }
+  .hero-headline{
+    font-size: 2.5rem;
+  }
+  .challenges-bg h2 {
+    font-size: 2rem;
+  }
 }
 @media (min-width: 1400px){
   
-.challenges-bg .container,
-.newsletter-bg .container,
-.container {
-  max-width: 1320px;
-}
+  .challenges-bg .container,
+  .newsletter-bg .container,
+  .container {
+    max-width: 1320px;
+  }
 }
 
 @media (min-width: 64em){
   .res-sec .usa-sidenav a {
     padding-left: 0;
-}
+  }
   .usa-header--basic {
-      padding: 1rem 0;
+    padding: 1rem 0;
   }
   .usa-header--basic .usa-nav-container {
-      min-width: 64em;
-      padding: 0;
-      -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
+    min-width: 64em;
+    padding: 0;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
   }
   .usa-header--basic .usa-navbar {
-      width: auto;
+    width: auto;
   }
   .res-sec .grid-row.grid-gap,
   .cms-sec-wrap .grid-row.grid-gap {
     margin-left: calc(-0.5 * 1.5rem);
     margin-right: calc(-0.5 * 1.5rem);
-}
+  }
 }
 @media (min-width: 40em){
   .usa-banner__header{
-      padding: 0;
+    padding: 0;
   }
   .usa-banner__header--expanded {
-      background-color: transparent;
-      display: block;
-      font-size: .8rem;
-      font-weight: 400;
-      min-height: 0;
-      padding-right: 0;
-      padding: 4px 0;
+    background-color: transparent;
+    display: block;
+    font-size: .8rem;
+    font-weight: 400;
+    min-height: 0;
+    padding-right: 0;
+    padding: 4px 0;
   }
   .usa-card,
-.usa-prose .usa-card:last-child,
-.usa-prose .usa-card{
-  margin-bottom: 1rem;
-}
+  .usa-prose .usa-card:last-child,
+  .usa-prose .usa-card{
+    margin-bottom: 1rem;
+  }
 }
 @media (max-width: 991px){
   h3, .h3,
   .newsletter-bg h3,
   .challenge-banner-text {
-      font-size: calc(1.3rem + 0.6vw);
+    font-size: calc(1.3rem + 0.6vw);
   }
 }
 @media only screen and (max-width: 991px) and (min-width: 768px){
   h1,
   .hero-headline {
-      font-size: calc(1.375rem + 1.5vw);
+    font-size: calc(1.375rem + 1.5vw);
   }
   .challenges-bg,
   .newsletter-bg{
-      background-position: left;
-      background-image: none;
+    background-position: left;
+    background-image: none;
   }
   .challenge-banner-text,
   .newsletter-bg h3{
-      max-width: 100%;
-      width: 100%;
+    max-width: 100%;
+    width: 100%;
   }
   .usa-list li{
-      margin-bottom: 8px;
+    margin-bottom: 8px;
   }
 }
 @media (max-width: 64em) {
 
-.usa-nav a {
-  display: block;
-  padding: 0.5rem 1rem;
-  margin: 1rem auto 0;
-  padding-bottom: 0.75rem;
-  padding-top: 0.75rem;
-}
-.usa-header .usa-search [role=search],
-.usa-header .usa-search[role=search],
-.usa-header .usa-search[role=search]>div {
-  display: flex;
-  justify-content: center;
-}
-.usa-header--basic {
-  padding: 0 0 0 1rem;
-}
-header.usa-banner__header .usa-banner__button:after{
-  display: block;
-}
-.grid-container-resources .usa-button {
-  width: unset;
-  font-size: 1rem;
-  background-color: #ec9852;
-  color: #19304c;
-  font-weight: 700;
-}
+  .usa-nav a {
+    display: block;
+    padding: 0.5rem 1rem;
+    margin: 1rem auto 0;
+    padding-bottom: 0.75rem;
+    padding-top: 0.75rem;
+  }
+  .usa-header .usa-search [role=search],
+  .usa-header .usa-search[role=search],
+  .usa-header .usa-search[role=search]>div {
+    display: flex;
+    justify-content: center;
+  }
+  .usa-header--basic {
+    padding: 0 0 0 1rem;
+  }
+  header.usa-banner__header .usa-banner__button:after{
+    display: block;
+  }
+  .grid-container-resources .usa-button {
+    width: unset;
+    font-size: 1rem;
+    background-color: #ec9852;
+    color: #19304c;
+    font-weight: 700;
+  }
 }
 @media screen and (max-device-width: 425px){
-html {
-  font-size: larger;
-}
-html body h1,
-.hero-headline {
-  font-size: 1.5em;
-}
+  html {
+    font-size: larger;
+  }
+  html body h1,
+  .hero-headline {
+    font-size: 1.5em;
+  }
 }
 @media only screen and (max-width: 600px){
  
   #main-content .usa-hero {
-  background-image: url(../images/hero-banner-mobile-2022.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  padding-top: 0;
-  padding-bottom: 0;
-  min-height: 35rem;
-  -webkit-clip-path: ellipse(100% 55% at 48% 44%);
-  clip-path: ellipse(100% 55% at 48% 44%);
-}
-.hero-logo {
-  display: none;
-}
-.hero-headline {
-  width: 80%;
-  padding-bottom: 40px;
-}
-.usa-hero__description .usa-button {
-  background-color: #fa9441;
-  border-radius: 0.25rem;
-  color: #19304c !important;
-  font-size: 1.46rem;
-  font-weight: 400;
-  padding: 1rem 1.5rem;
-  margin-bottom: 6px;
-  text-decoration: none !important;
-}
-.usa-banner__header {
-  padding-bottom: 0;
-  padding-top: 0;
-}
-.video-left {
-  width: 100%;
-  text-align: center;
-}
-.challenges-bg {
-  background-image: none;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  padding-top: 35px;
-  padding-bottom: 35px;
-  background-color: #112f4e;
-}
-.challenge-banner-text,
-.newsletter-bg h3,
-h3 {
-  font-size: calc(1.3rem + 0.6vw);
-  width: 100%;
-}
-h2,
-.newsletter-bg h2 {
-  font-size: calc(1.325rem + 0.9vw);
-}
-.newsletter-bg {
-  background-image: none;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  background-color: #112f4e;
-}
-.resources-title {
-  padding-top: 40px;
-}
-.footer__gsa-logo-square{
-  float: left;
-}
-.top {
-  --offset: 200px;
-  position: sticky;
-  bottom: 20px;
-  margin-right: 20px;
-  place-self: end;
-  margin-top: calc(100vh + var(--offset));
-  text-decoration: none;
-  padding: 20px;
-  font-family: sans-serif;
-  font-weight: 900;
-  color: #ffffff !important;
-  background: #fa9441;
-  border-radius: 20px;
-  white-space: nowrap;
-  /* float: right; */
-  margin-left: 45%;
-}
+    background-image: url(../images/hero-banner-mobile-2022.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 0;
+    padding-bottom: 0;
+    min-height: 35rem;
+    -webkit-clip-path: ellipse(100% 55% at 48% 44%);
+    clip-path: ellipse(100% 55% at 48% 44%);
+  }
+  .hero-logo {
+    display: none;
+  }
+  .hero-headline {
+    width: 80%;
+    padding-bottom: 40px;
+  }
+  .usa-hero__description .usa-button {
+    background-color: #fa9441;
+    border-radius: 0.25rem;
+    color: #19304c !important;
+    font-size: 1.46rem;
+    font-weight: 400;
+    padding: 1rem 1.5rem;
+    margin-bottom: 6px;
+    text-decoration: none !important;
+  }
+  .usa-banner__header {
+    padding-bottom: 0;
+    padding-top: 0;
+  }
+  .video-left {
+    width: 100%;
+    text-align: center;
+  }
+  .challenges-bg {
+    background-image: none;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    background-color: #112f4e;
+  }
+  .challenge-banner-text,
+  .newsletter-bg h3,
+  h3 {
+    font-size: calc(1.3rem + 0.6vw);
+    width: 100%;
+  }
+  h2,
+  .newsletter-bg h2 {
+    font-size: calc(1.325rem + 0.9vw);
+  }
+  .newsletter-bg {
+    background-image: none;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #112f4e;
+  }
+  .resources-title {
+    padding-top: 40px;
+  }
+  .footer__gsa-logo-square{
+    float: left;
+  }
+  .top {
+    --offset: 200px;
+    position: sticky;
+    bottom: 20px;
+    margin-right: 20px;
+    place-self: end;
+    margin-top: calc(100vh + var(--offset));
+    text-decoration: none;
+    padding: 20px;
+    font-family: sans-serif;
+    font-weight: 900;
+    color: #ffffff !important;
+    background: #fa9441;
+    border-radius: 20px;
+    white-space: nowrap;
+    /* float: right; */
+    margin-left: 45%;
+  }
 }
 @media only screen and (max-width: 575px){
   .usa-width-one-half{
     width: 100%;
     max-width: 100%;
-}
-.grid-col-7,
-.grid-col-4{
-  width: 100%;
+  }
+  .grid-col-7,
+  .grid-col-4{
+    width: 100%;
     max-width: 100%;
-}
+  }
 }
