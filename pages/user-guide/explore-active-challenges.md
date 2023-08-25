@@ -30,6 +30,7 @@ title: User Guide for Public Solvers | Explore Active Challenges
       <div class="grid-col-4">{% include user-guide-nav.html %} </div>
     </div>
   </div>
+  
   <style>
     .usa-prose ol{
       padding-left: 50px;
@@ -110,4 +111,5 @@ title: User Guide for Public Solvers | Explore Active Challenges
     /* Added CSS rule */
     .usa-sidenav__item a.menu-title:hover {
       background-color: transparent !important;
-    }                    </style>
+    }                    
+  </style>
