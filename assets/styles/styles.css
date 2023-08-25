@@ -556,6 +556,55 @@ hr {
   margin-top: 0;
   margin-bottom: 1rem;
 }
+/*new*/
+
+.usa-prose .usa-faq-sec-wrap>h3,
+.usa-prose .usa-faq-sec-wrap>h4 {
+  line-height: 1.2;
+  font-weight: 700;
+  font-size: 1.34rem;
+}
+.usa-prose .usa-faq-sec-wrap>h1,
+.usa-prose .usa-faq-sec-wrap>h2,
+.usa-prose .usa-faq-sec-wrap>h3,
+.usa-prose .usa-faq-sec-wrap>h4,
+.usa-prose .usa-faq-sec-wrap>h5,
+.usa-prose .usa-faq-sec-wrap>h6 {
+  margin-bottom: 0;
+  margin-top: 0;
+  clear: both;
+}
+.usa-prose .usa-faq-sec-wrap>*+h1, 
+.usa-prose .usa-faq-sec-wrap>*+h2, 
+.usa-prose .usa-faq-sec-wrap>*+h3, 
+.usa-prose .usa-faq-sec-wrap>*+h4, 
+.usa-prose .usa-faq-sec-wrap>*+h5, 
+.usa-prose .usa-faq-sec-wrap>*+h6{
+  margin-top: 1.5em;
+}
+.usa-faq-sec-wrap p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+.usa-prose .usa-faq-sec-wrap>h1, .usa-prose .usa-faq-sec-wrap>h2 {
+    font-family: Source Sans Pro Web,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif !important;
+    line-height: 1.2;
+    font-weight: 700;
+}
+.usa-prose .usa-faq-sec-wrap>h1 {
+    font-size: 2.44rem;
+}
+.usa-prose .usa-faq-sec-wrap>*+p, 
+.usa-prose .usa-faq-sec-wrap>h1+*, 
+.usa-prose .usa-faq-sec-wrap>h2+*, 
+.usa-prose .usa-faq-sec-wrap>h3+*, 
+.usa-prose .usa-faq-sec-wrap>h4+*, 
+.usa-prose .usa-faq-sec-wrap>h5+*, 
+.usa-prose .usa-faq-sec-wrap>h6+*, 
+.usa-prose .usa-faq-sec-wrap>p+*{
+  margin-top: 1em;
+}
+/*new*/
 ol, ul {
   padding-left: 2rem;
 }

@@ -27,7 +27,7 @@ title: User Guide for Public Solvers | View Archived Challenges
         </div>
         <div class="grid-col-4">{% include user-guide-nav.html %} </div>
       </div>
-    </div>    
+    </div>
     <style>
       .usa-prose ol{
         padding-left: 50px;
