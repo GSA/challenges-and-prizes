@@ -780,6 +780,9 @@ summary {
   position: relative;
   margin-top: -5px;
 }
+html body .usa-collection__item, html body .usa-list li, html body .usa-prose .usa-collection__item, html body .usa-prose>ol li, html body .usa-prose>ul li {
+    max-width: 88ex;
+}
 .border-accent-cool-darker, .hover\:border-accent-cool-darker:hover {
   border-color: #ec9852 !important;
 }
