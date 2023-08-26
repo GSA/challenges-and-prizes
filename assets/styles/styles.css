@@ -640,6 +640,10 @@ summary {
   margin-top: 0;
   margin-bottom: 1rem;
 }
+
+.res-sec .usa-prose ol li::marker {
+    font-weight: bold;
+}
 .usa-typo {
   font-family: Source Sans Pro Web,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
   font-size: 1.06rem;
@@ -759,6 +763,14 @@ summary {
 .toolkit h3 {
   color: #005ea2;
   font-size: 1.34rem;
+}
+.toolkit .case-list h3 {
+    color: #005ea2;
+    font-size: 1.34rem;
+    margin-top: -8px;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
 }
 /* toolkit */
 /* case studies */
