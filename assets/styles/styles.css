@@ -854,30 +854,30 @@ html body .usa-collection__item, html body .usa-list li, html body .usa-prose .u
 .footer__social_links .usa-icon {
     fill: #fa9441; /* orange */
 }
-
-/* small orange uswds icon*/
 .usa-card__body svg.usa-icon.usa-icon-small {
-    fill: #fa9441; /* Makes the icon orange */
+    fill: #fa9441;
     width: 30px; 
     height: 30px; 
 }
-
-/* medium orange uswds icon */
 .usa-card__body svg.usa-icon {
-    fill: #fa9441; /* makes the icon orange */
-    width: 45px; /* adjust width */
-    height: 45px; /* adjust height */
+    fill: #fa9441;
+    width: 45px;
+    height: 45px;
 }
-
-/* large orange uswds icon*/
 .usa-card__body svg.usa-icon.usa-icon-large {
-    fill: #fa9441; /* Makes the icon orange */
-    width: 55px; 
-    height: 55px; 
+    fill: #fa9441;
+    width: 55px;
+    height: 55px;
 }
-
+.usa-footer__social_link svg {
+    margin-right: -0.26em;
+    height: 46.8px;
+    fill: #fa9441;
+    transform-origin: center center;
+    transform: scale(0.9);
+}
 .usa-width-one-half .usa-card__body svg.usa-icon {
-    color: #FA9441;
+    color: #fa9441;
     margin-bottom: 20px;
     font-size: 50px;
 }
