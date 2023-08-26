@@ -110,7 +110,7 @@ title: Events
           </svg>
           <h2 class="usa-card__heading" style="font-weight: 900;">March 16, 2023</h2>
           <h4 class="usa-card__subheading">Applied AI Healthcare Challenge Chat Q&A</h4>
-          <p class="usa-card__text">This event is an opportunity for thought leaders, innovators and technology experts to come together to discuss potential advances in the American healthcare system during which We will explore how innovative possiblities presented by artifical intelligence may soon revolutionize how healthcare is delivered in the USA and beyond. </p>
+          <p class="usa-card__text">This event is a unique opportunity for thought leaders, innovators, and technology experts to discuss how artificial intelligence could revolutionize healthcare in the USA and beyond. We will explore AI's innovative potential and its ability to transform how healthcare is delivered. </p>
         </div>
       </div>      
     </div>
