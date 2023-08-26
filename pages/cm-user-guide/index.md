@@ -26,7 +26,7 @@ title: User Guide for Challenge Managers
   </div>
   <div class="tablet:grid-col-3">
     <div class="usa-card">
-      <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/logging-in/" style="text-decoration: none !important;">-->
+      <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/logging-in/" style="text-decoration: none !important;">
         <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="logging-in" role="img">
           <title id="logging-in">ChallengeGov manager user guide logging in</title>  <title id="logging-in">ChallengeGov user guide logging in</title>        <use xlink:href="/assets/img/sprite.svg#lock_open"></use>
         </svg>
