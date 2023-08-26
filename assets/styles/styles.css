@@ -827,6 +827,12 @@ summary {
 .grid-row.grid-gap.mt-1{
   margin-top: 1em;
 }
+.footer-logo-wrap{
+  display: inline-block;
+}
+.footer-logo-wrap img{
+  margin-bottom: 8.6px;
+}
 /******** media queries ********/
 @media (min-width: 576px){
   .container-sm, .container {
