@@ -76,37 +76,31 @@ title: User Guide for Public Solvers | View Archived Challenges
         font-weight: 500;
       }
       .usa-sidenav__item a:not(.usa-current):hover {
-        background-color: #f1f1f1;
+        background-color: #F1F1F1;
       }
-
       .usa-sidenav__sublist .usa-sidenav__item a.inactive-link:hover,
       .usa-sidenav__item a.child-link.inactive-link:hover {
-        color: #004c8c !important;
+        color: #004C8C !important;
         font-weight: 400 !important;
         text-decoration: none !important;
       }
-
       .usa-sidenav__sublist a:not(.usa-current),
       .usa-sidenav__item a.child-link:not(.usa-current) {
         color: #757575 !important;
       }
-
       .usa-current {
         color: #205493 !important;
         font-weight: 600 !important;
       }
-
       .usa-sidenav__item a.child-link:not(.usa-current):hover {
         font-weight: 400 !important;
       }
-
       .usa-sidenav__item a[href="/user-guide/"]:hover {
         color: #205493 !important;
         font-weight: 400 !important;
       }
-
       /* Added CSS rule */
       .usa-sidenav__item a.menu-title:hover {
         background-color: transparent !important;
-      }                    
+      }
     </style>
