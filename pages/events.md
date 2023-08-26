@@ -18,7 +18,7 @@ title: Events
       <div class="usa-card">
         <div class="usa-card__body text-center">
           <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
-            <title id="explore-active-challenges">stay tuned for upcoming events</title>        <use xlink:href="/assets/img/sprite.svg#calendar_today"></use>
+            <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="/assets/img/sprite.svg#calendar_today"></use>
             </svg>
           </svg>
           <h4>Stay tuned for more Challenge.Gov events coming soon.</h4>
