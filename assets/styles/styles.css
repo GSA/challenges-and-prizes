@@ -848,6 +848,9 @@ html body .usa-collection__item, html body .usa-list li, html body .usa-prose .u
 .footer-logo-wrap img{
   margin-bottom: 8.6px;
 }
+.grid-container .usa-sidenav {
+    margin-bottom: 0 !important;
+}
 /******** media queries ********/
 @media (min-width: 576px){
   .container-sm, .container {
