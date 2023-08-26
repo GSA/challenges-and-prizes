@@ -851,6 +851,27 @@ html body .usa-collection__item, html body .usa-list li, html body .usa-prose .u
 .grid-container .usa-sidenav {
     margin-bottom: 0 !important;
 }
+.footer__social_links .usa-icon {
+    fill: #fa9441; /* Your desired color */
+}
+.usa-width-one-half .usa-card__body svg.usa-icon {
+    color: #FA9441;
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+.r-m .usa-width-one-half .usa-card__body svg.usa-icon {
+    color: #005ea2;
+}
+.usr-guide-wrap-main .usa-card__body .usa-icon {
+    color: #fa9441;
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+.cm-usr-guide-wrap-main .usa-card__body .usa-icon {
+    color: #005ea2;
+    font-size: 50px;
+    padding-bottom: 20px;
+}
 /******** media queries ********/
 @media (min-width: 576px){
   .container-sm, .container {
