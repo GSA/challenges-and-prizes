@@ -878,21 +878,34 @@ html body .usa-collection__item, html body .usa-list li, html body .usa-prose .u
 }
 .usa-width-one-half .usa-card__body svg.usa-icon {
     color: #fa9441;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
     font-size: 50px;
+    width: 60px;
+    height: 60px;
 }
 .r-m .usa-width-one-half .usa-card__body svg.usa-icon {
     color: #005ea2;
+    fill: #005ea2;
 }
 .usr-guide-wrap-main .usa-card__body .usa-icon {
-    color: #fa9441;
+        color: #fa9441;
     font-size: 50px;
-    padding-bottom: 20px;
+    padding-bottom: 0px;
+    margin-bottom: 5px;
 }
 .cm-usr-guide-wrap-main .usa-card__body .usa-icon {
     color: #005ea2;
     font-size: 50px;
-    padding-bottom: 20px;
+    padding-bottom: 5px;
+    fill: #005ea2;
+    width: 45px;
+    height: 45px;
+}
+.video-left a{
+  text-decoration: none;
+}
+.margin-top-1{
+  margin-top: 1em !important;
 }
 /******** media queries ********/
 @media (min-width: 576px){
@@ -1169,4 +1182,26 @@ html body .usa-collection__item, html body .usa-list li, html body .usa-prose .u
     width: 100%;
     max-width: 100%;
   }
+}
+.usa-layout-docs.toolkit-site-wide .toolkit.usa-toolkit .grid-row.grid-gap > * {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+.usa-layout-docs.toolkit-site-wide .toolkit.usa-toolkit .grid-row.grid-gap {
+    margin-left: -0.5rem;
+    margin-right: -0.5rem;
+}
+section.portfolio-detail-description figcaption{
+      padding: 0px 20px 5px 20px;
+}
+.usa-layout-docs.toolkit-site-wide .toolkit.usa-toolkit h1 {
+    color: #1a4480;
+    font-size: 2.44rem;
+    margin-bottom: 0.5rem !important;
+}
+.usa-layout-docs.toolkit-site-wide .toolkit.usa-toolkit .body-text ul li {
+    padding-left: 8px;
+}
+.usa-layout-docs.toolkit-site-wide .usa-accordion__button{
+  padding: 14px 3.5rem 14px 1.25rem;
 }
