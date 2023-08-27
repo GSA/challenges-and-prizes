@@ -1,26 +1,28 @@
 ---
 layout: default
 ---
-<div class="grid-container">
-<div class="grid-row grid-gap">
-  <div class="desktop:grid-col-9 usa-prose usa-section">
-    {% if page.image %} 
-      <img src="{{ site.baseurl }}{{ page.image }}" 
-      class="margin-top-neg-3" 
-      alt="{{ page.image_alt_text }}">
-    {% endif %} 
-    <h1 class="text-primary-dark">{{page.title}}</h1>
-    {% if page.tagline %} 
-      <h3 class="text-primary">{{page.tagline}}</h3>
-    {% endif %} 
-    <div class="text-base margin-bottom-2">
-      <div class="margin-top-neg-105">
-        By <span class="text-bold">{{ page.author }}</span> · {{ page.date | date: '%B %d, %Y' }}
+<main class="usa-layout-docs usa-blogs">
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+      <div class="desktop:grid-col-9 usa-prose usa-section">
+        {% if page.image %} 
+        <img src="{{ site.baseurl }}{{ page.image }}" 
+        class="margin-top-neg-3" 
+        alt="{{ page.image_alt_text }}">
+        {% endif %} 
+        <h1 class="text-primary-dark mb-0" style="margin-top: calc(1.5em - 5px);">{{page.title}}</h1>
+        {% if page.tagline %} 
+        <h3 class="text-primary" style="margin-top: calc(1.5em - 10px);margin-right: 10px;">{{page.tagline}}</h3>
+        {% endif %} 
+        <div class="text-base margin-bottom-2">
+          <div class="margin-top-neg-105">
+            By <span class="text-bold">{{ page.author }}</span> · {{ page.date | date: '%B %d, %Y' }}
+          </div>
+        </div>
+        {{ content }}
       </div>
-    </div>
-    {{ content }}
-  </div>
       <!-- Sidebar -->
       {% include blog-sidenav.html %}
-</div>
-</div>
+    </div>
+  </div>
+</main>
