@@ -105,7 +105,7 @@ title: Resources for Federal Challenge Managers
     <div class="usa-card">
       <div class="usa-card__body text-center">
         <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="cm-useful-links" role="img">
-          <title id="cm-useful-links">ChallengeGov challenge manager useful links</title>        <use xlink:href="/assets/img/sprite.svg#construction"></use>
+          <title id="cm-useful-links">ChallengeGov challenge manager useful links</title>        <use xlink:href="/assets/img/sprite.svg#list"></use>
         </svg>
       </svg>
       <h2 class="usa-card__heading">Useful Links</h2>
