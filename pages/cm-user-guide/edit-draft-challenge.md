@@ -36,8 +36,7 @@ title: User Guide for Challenge Managers | Edit Draft Challenge
         </div>
         <div class="grid-col-4"> {% include cm-user-guide-nav.html %} </div>
       </div>
-    </div>
-    <style>
+    </div><style>
       .usa-prose ol{
         padding-left: 50px;
         margin-top: 0;
