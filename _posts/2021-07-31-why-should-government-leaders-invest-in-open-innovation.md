@@ -6,8 +6,8 @@ title: Why Should Government Leaders Invest in Open Innovation?
 tagline: A podcast interview with Jarah Meador
 excerpt: Government leaders are seeing the benefits of building a culture of innovation within their agencies.
 author: Quinn Slayton
-image: /assets/images/oi-podcast-sized.png
-post-body-content-uploads: /assets/images/oi-podcast-sized.png
+image: /assets/images/oi-podcast-sized (1).png
+post-body-content-uploads: /assets/images/oi-podcast-sized (1).png
 image_alt_text: A microphone, laptop, and headphones with the title line "Why Should Government Leaders Invest in Open Innovation?"
 ---
 
@@ -17,10 +17,7 @@ In this episode, Jarah shares how the U.S. government engages citizens to source
 
 According to Jarah, “We are seeing an increase in appetite for open innovation across federal agencies… Some of the greatest minds and subject matter experts exist in government. We’ve seen more agencies building a culture of innovation, so these minds can develop the runway and move forward.”
 
-<!-- #### A few notable examples include: -->
-<h4 id="a-few-notable-examples-include" style="
-    margin-bottom: 18px;
-">A few notable examples include:</h4>
+#### A few notable examples include:
 <p><ul>
 <li><span style="font-weight: 400;">The Department of Veterans Affairs’ (VA) <a href="https://www.va.gov/INNOVATIONECOSYSTEM/views/who-we-are/innovation-network.html" target="blank" rel="noopener">Innovators Network</a> which brings together over 30 VA medical centers to support a cohort of Innovation Specialists to network, share knowledge, and identify areas of collaboration.</span></li>
 <li><span style="font-weight: 400;">GSA’s <a href="https://www.10x.gsa.gov/" target="blank" rel="noopener">10x Program</a>, an innovation sourcing program to crowdsource ideas from federal government employees and develop products to improve the public’s experience with the federal government.</span></li>
@@ -31,5 +28,4 @@ According to Jarah, “We are seeing an increase in appetite for open innovation
 
 To learn more, listen to the full episode [here](https://www.uprisor.com/podcasts/ep030). 
 
-<!-- If you’re a federal employee with a great idea or public solver who wants to share your expertise, the Challenge.Gov team is here to support you. Contact team@Challenge.Gov, sign up for our **[newsletter](https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?qsp=USGSATTS_6)**, or follow us on social media: Twitter **[@ChallengeGov](https://twitter.com/challengegov)**, Facebook **[@ChallengeGov](https://www.facebook.com/ChallengeGov/)**. -->
-<p class="mb-0">If you’re a federal employee with a great idea or public solver who wants to share your expertise, the Challenge.Gov team is here to support you. Contact team@Challenge.Gov, sign up for our <strong><a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?qsp=USGSATTS_6">newsletter</a></strong>, or follow us on social media: Twitter <strong><a href="https://twitter.com/challengegov">@ChallengeGov</a></strong>, Facebook <strong><a href="https://www.facebook.com/ChallengeGov/">@ChallengeGov</a></strong>.</p>
+If you’re a federal employee with a great idea or public solver who wants to share your expertise, the Challenge.Gov team is here to support you. Contact team@Challenge.Gov, sign up for our **[newsletter](https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?qsp=USGSATTS_6)**, or follow us on social media: Twitter **[@ChallengeGov](https://twitter.com/challengegov)**, Facebook **[@ChallengeGov](https://www.facebook.com/ChallengeGov/)**.

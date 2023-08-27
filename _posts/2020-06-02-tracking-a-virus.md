@@ -25,20 +25,14 @@ In 2014, they claimed the $75,000 top prize in the <a href="https://www.challeng
 
 The challenge launched in 2013, and at the time, forecasting the spread of influenza had not been considered particularly feasible in any sort of operational way, explains Matthew Biggerstaff, a research epidemiologist in the CDC’s Epidemiology and Prevention Branch, Influenza Division.
 
-<!-- "We thought a challenge was a way to move forward and at that time, challenges were relatively new; CDC hadn’t done many," says Biggerstaff. "The competition seemed like a way to galvanize the research community." -->
-<p style="
-    margin-bottom: 0;
-">“We thought a challenge was a way to move forward and at that time, challenges were relatively new; CDC hadn’t done many,” says Biggerstaff. “The competition seemed like a way to galvanize the research community.”</p>
+"We thought a challenge was a way to move forward and at that time, challenges were relatively new; CDC hadn’t done many," says Biggerstaff. "The competition seemed like a way to galvanize the research community."
 
 <figure style="float:left; margin:1em;" >
   <img height="300px" src="{{ site.baseurl }}/assets/netlify-uploads/blog-post-a-model-for-gov-content-image-Jeffrey-Shaman.png" alt="Jeffrey Shaman, Columbia University"/>
-  <figcaption style="font-size: smaller;margin-top: -10px;position: relative;top: 2px;">Jeffrey Shaman, Columbia University</figcaption>
+  <figcaption style="font-size: smaller;">Jeffrey Shaman, Columbia University</figcaption>
 </figure>
 
-<!-- CDC wanted models—developed with available surveillance and digital data (e.g., internet searches)—to successfully predict the timing, peak and intensity of the 2013-2014 flu season. Eleven teams completed the challenge, which required biweekly submissions of modeling data between Dec. 19, 2013 and March 27, 2014. In total, CDC reviewed and evaluated 13 forecast models, a higher number than it anticipated receiving through traditional means.  -->
-<p style="
-    margin-top: 1rem;
-">CDC wanted models—developed with available surveillance and digital data (e.g., internet searches)—to successfully predict the timing, peak and intensity of the 2013-2014 flu season. Eleven teams completed the challenge, which required biweekly submissions of modeling data between Dec. 19, 2013 and March 27, 2014. In total, CDC reviewed and evaluated 13 forecast models, a higher number than it anticipated receiving through traditional means.</p>
+CDC wanted models—developed with available surveillance and digital data (e.g., internet searches)—to successfully predict the timing, peak and intensity of the 2013-2014 flu season. Eleven teams completed the challenge, which required biweekly submissions of modeling data between Dec. 19, 2013 and March 27, 2014. In total, CDC reviewed and evaluated 13 forecast models, a higher number than it anticipated receiving through traditional means. 
 
 The competition allowed CDC to see which research groups were working in the space and to evaluate then-state-of-the-art concepts, he says.
 
@@ -78,8 +72,4 @@ And that’s important, says Shaman, who encourages the interdisciplinary influx
 
 The number of rapidly spreading diseases over the past few decades shows the need, including the Zaire ebolavirus, Middle East Respiratory Syndrome (MERS), H1N1, chikungunya, West Nile and Zika, to say nothing of the Spanish flu and polio that riveted the globe in the first first half of the 20th century. 
 
-<!-- "I’d definitely call this an emerging science, and I think there’s still a lot to do," Biggerstaff says. "Galvanizing this community through the [Predict the Flu Challenge] helped CDC lead this and put a stake in the ground that the agency thought this was an important area to invest in and be a part of." -->
-
-<p style="
-    margin-bottom: 0;
-">“I’d definitely call this an emerging science, and I think there’s still a lot to do,” Biggerstaff says. “Galvanizing this community through the [Predict the Flu Challenge] helped CDC lead this and put a stake in the ground that the agency thought this was an important area to invest in and be a part of.”</p>
+"I’d definitely call this an emerging science, and I think there’s still a lot to do," Biggerstaff says. "Galvanizing this community through the [Predict the Flu Challenge] helped CDC lead this and put a stake in the ground that the agency thought this was an important area to invest in and be a part of."

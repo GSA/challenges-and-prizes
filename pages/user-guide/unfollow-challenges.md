@@ -3,111 +3,25 @@ permalink: /user-guide/unfollow-challenges/
 layout: page
 title: User Guide for Public Solvers | Unfollow Challenges
 ---
-<div class="res-sec">
-  <div class="grid-row ">
-    <div class="grid-col-12">{% include user-guide-intro.html %}</div>
-  </div>
-  <div class="grid-row grid-gap usa-typo">
-    <div class="grid-col-12 pt-10 pb-30 px-0">
-      <div class="bg-secondary-lighter text-center">
-        <h2 class="mb-0">Unfollow Challenges</h2>
-      </div>
-    </div>
-  </div>
-  <div class="grid-row grid-gap justify-content-between">
-    <div class="grid-col-7">
-      <div class="usa-prose">
-        <p>Unfollow a challenge and unsubscribe from challenge-related email updates.</p>
-        <ol>
-          <li class="font-bolder"><span>From the bottom of any Challenge.Gov bulletin email, click <b>Subscriber Preferences Page</b>. <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?preferences=true" target="_blank" rel="noopener">Click here too access this page directly</a></span></li><br>
-          <li class="font-bolder"><span>Enter your email address used to subscribe then click <b>Check to Delete</b> box next to challenge you no longer wish to follow and click <b>Submit</b>.</span></li><br>
-          <li class="font-bolder"><span>Check the box next to <b>“I consent to the privacy policy”</b>. You will receive an email from GSA, Technology Transformation Services (gsa-tts@notify.gsa.gov) with the subject “Subscription Change Confirmation”.</span></li>
-        </ol>
-      </div>
-    </div>
-    <div class="grid-col-4">{% include user-guide-nav.html %} </div>
+<div class="row">
+  <div class="col-sm-12">{% include user-guide-intro.html %}</div>
+</div>
+<div class="row" style="padding-top: 10px; padding-bottom: 30px;">
+  <div class="col-sm-12" style="padding-top: 6px; background-color: #005ea2; color: #ffffff; text-align: center;">
+    <h2>Unfollow Challenges</h2>
   </div>
 </div>
-
-<style>
-  .usa-prose ol{
-    padding-left: 50px;
-    margin-top: 0;
-  }
-  .usa-prose ol ul{
-    margin-top: 0;
-  }
-  .usa-prose ul{
-    padding-left: 2rem;
-    margin-top: 0;
-    margin-bottom: 1em;
-  }
-  .usa-prose ul li{
-    max-width: 100%;
-    margin-bottom: 0;
-  }
-  .tablet\:grid-col-10 {
-    flex: 0 1 auto;
-    width: 100%;
-  }
-  .grid-container .usa-sidenav {
-    margin-left: 0;
-    margin-right: 0;
-    padding-left: 0;
-  }
-  .grid-container .usa-sidenav__sublist {
-    list-style-type: none;
-    padding-left: 0;
-    margin: 0;
-    font-size: 1rem;
-  }
-  .usa-typo {
-    font-family: Source Sans Pro Web,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
-  }
-  .menu-title {
-    text-indent: 1em;
-    font-weight: 600;
-  }
-  .no-underline {
-    text-decoration: none !important;
-  }
-  .child-link {
-    text-indent: 2em;
-    color: #757575;
-    font-weight: 500;
-  }
-  .usa-sidenav__item a:not(.usa-current):hover {
-    background-color: #f1f1f1;
-  }
-
-  .usa-sidenav__sublist .usa-sidenav__item a.inactive-link:hover,
-  .usa-sidenav__item a.child-link.inactive-link:hover {
-    color: #004c8c !important;
-    font-weight: 400 !important;
-    text-decoration: none !important;
-  }
-
-  .usa-sidenav__sublist a:not(.usa-current),
-  .usa-sidenav__item a.child-link:not(.usa-current) {
-    color: #757575 !important;
-  }
-
-  .usa-current {
-    color: #205493 !important;
-    font-weight: 600 !important;
-  }
-
-  .usa-sidenav__item a.child-link:not(.usa-current):hover {
-    font-weight: 400 !important;
-  }
-
-  .usa-sidenav__item a[href="/user-guide/"]:hover {
-    color: #205493 !important;
-    font-weight: 400 !important;
-  }
-
-  /* Added CSS rule */
-  .usa-sidenav__item a.menu-title:hover {
-    background-color: transparent !important;
-  }                    
-</style>
+<div class="row">
+  <div class="col-sm-7">
+    <p>Unfollow a challenge and unsubscribe from challenge-related email updates.</p>
+    <ol style="padding-left: 50px;">
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From the bottom of any Challenge.Gov bulletin email, click <b>Subscriber Preferences Page</b>. <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?preferences=true">Click here too access this page directly</a></span></li>
+      <br>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter your email address used to subscribe then click <b>Check to Delete</b> box next to challenge you no longer wish to follow and click <b>Submit</b>.</span></li>
+      <br>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Check the box next to <b>“I consent to the privacy policy”</b>. You will receive an email from GSA, Technology Transformation Services (gsa-tts@notify.gsa.gov) with the subject “Subscription Change Confirmation”.</span></li>
+    </ol>
+  </div>
+  <div class="col-sm-1">&nbsp;</div>
+  <div class="col-sm-4"> {% include user-guide-nav.html %} </div>
+</div>
