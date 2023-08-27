@@ -47,7 +47,7 @@ title: User Guide for Challenge Managers | Create Challenge
           <p>The Challenge.Gov support team will review your challenge for general content clarity, inclusion of relevant Challenge details in required fields, visibility of graphics, and significant spelling and grammatical errors. In addition the team will ensure that information requested from submitters does not violate the <a href="https://www.challenge.gov/privacy-policy/">Challenge.Gov privacy policy and Terms of Use</a>.</p>
           <p>Challenges collecting submissions via Challenge.Gov will also be reviewed to ensure information requested from submitters does not violate Challenge.Gov’s security parameters with regard to the collection of PII. Examples of such PII include, but are not limited to: Name, Job Title, Affiliation(s)/Employer(s), Work/Personal Email address, Phone Number.</p>
           <p>If requesting PII as part of your challenge submission:</p>
-          <ul>
+          <ul style="margin-bottom:1rem;">
             <li>Obtain agency Paperwork Reduction Act (PRA), if necessary, and security team approval prior to submitting your challenge for Challenge.gov support team review.</li>
             <li>Explicitly state the type(s) of information requested in the submission instructions.</li>
             <li>Only collect information that is needed as part of the competition and selection process. Information needed for prize distribution should not be collected via Challenge.Gov.</li>
@@ -55,7 +55,7 @@ title: User Guide for Challenge Managers | Create Challenge
             <li>Include appropriate language in the submission instructions reminding solvers not to submit any additional PII, especially sensitive PII such as social security number, personal health, and financial information.</li>
           </ul>
           <p>Resources:</p>
-          <ul>
+          <ul style="margin-bottom:1rem;">
             <li><a href="https://www.challenge.gov/assets/document-library/OIRA%20Challenge%20and%20Prizes%20FAQS.pdf">Office of Management &amp; Budget (OMB) / Office of Information and Regulatory Affairs (OIRA) Challenges &amp; Prizes FAQ</a></li>
             <li><a href="https://www.archives.gov/cui/registry/category-detail/privacy.html#authority-list">Controlled Unclassified Information (CUI) Banner Marking Requirements</a></li>
           </ul>
@@ -63,8 +63,7 @@ title: User Guide for Challenge Managers | Create Challenge
       </div>
       <div class="grid-col-4">{% include cm-user-guide-nav.html %} </div>
     </div>
-  </div>
-  <style>
+  </div><style>
     .usa-prose ol{
       padding-left: 50px;
       margin-top: 0;

@@ -1205,3 +1205,29 @@ section.portfolio-detail-description figcaption{
 .usa-layout-docs.toolkit-site-wide .usa-accordion__button{
   padding: 14px 3.5rem 14px 1.25rem;
 }
+aside .usa-footer__social_link svg {
+    width: 35px;
+    height: 35px;
+    transform: scale(1);
+}
+.usa-blogs .padding-bottom-5.margin-top-4.usa-prose .text-base.margin-bottom-2>div>p {
+    margin-bottom: 1rem;
+}
+main.usa-layout-docs.usa-blogs .grid-row.grid-gap>* {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+main.usa-layout-docs.usa-blogs .margin-top-2 {
+    margin-top: 1rem !important;
+}
+main.usa-layout-docs.usa-blogs .margin-bottom-2 {
+    margin-bottom: 1rem !important;
+}
+h4#introduction + figure figcaption {
+    position: absolute;
+    margin-top: -7px;
+}
+.usa-layout-docs.toolkit-site-wide .toolkit.usa-toolkit .grid-row.grid-gap > * {
+        padding-left: 8px;
+    padding-right: 5.7px;
+}
