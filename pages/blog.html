@@ -2,22 +2,22 @@
 layout: main
 permalink: /blog/
 pagination:
-enabled: true
+  enabled: true
 ---
 <div class="usa-blogs">
-  <div id="blog" class="bg-primary-darker usa-content font-serif-lg padding-y-6">
-    <div class="grid-container">
-      <h1 class="text-normal text-white margin-0" style="font-family: Source Sans Pro Web,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;">News & updates on federally sponsored challenges</h1>
-    </div>
-  </div>
+<div id="blog" class="bg-primary-darker usa-content font-serif-lg padding-y-6">
   <div class="grid-container">
-    <div class="grid-row">
-      <div class="desktop:grid-col-8 usa-prose padding-right-4">
-        <!-- This loops through the paginated posts -->
-        {% for post in paginator.posts %}
-        <div class="padding-bottom-5 margin-top-4 usa-prose">
-          <h2>
-            <a class="bloglink"
+    <h1 class="text-normal text-white margin-0" style="font-family: Source Sans Pro Web,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;">News & updates on federally sponsored challenges</h1>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="desktop:grid-col-8 usa-prose padding-right-4">
+      <!-- This loops through the paginated posts -->
+      {% for post in paginator.posts %}
+      <div class="padding-bottom-5 margin-top-4 usa-prose">
+        <h2>
+          <a class="bloglink"
             href="{{ site.baseurl }}{{ post.url }}">
             {{post.title}}
           </a>
@@ -25,47 +25,47 @@ enabled: true
         <div class="text-base margin-bottom-2">
           <div>
            <p style="color: #595959;">By {{ post.author }}· {{ post.date | date: '%B %d, %Y' }}</p> 
-         </div>
-       </div>
-       <div style="min-height: 150px;">
-        {% if post.image %} 
-        <img src="{{ site.baseurl }}{{ post.image }}" 
-        class="float-left maxw-mobile padding-right-3 padding-top-blog" 
-        alt="{{ post.image_alt_text }}">
-        {% endif %} 
-        {{ post.excerpt }} 
-        {% comment %} We default to using post.content, but
-        you can also use post.excerpt. If you use excerpt then you have to
-        make sure the content is on each post header {% endcomment %}
-      </div>
+          </div>
+        </div>
+        <div style="min-height: 150px;">
+          {% if post.image %} 
+          <img src="{{ site.baseurl }}{{ post.image }}" 
+          class="float-left maxw-mobile padding-right-3 padding-top-blog" 
+          alt="{{ post.image_alt_text }}">
+          {% endif %} 
+          {{ post.excerpt }} 
+          {% comment %} We default to using post.content, but
+          you can also use post.excerpt. If you use excerpt then you have to
+          make sure the content is on each post header {% endcomment %}
+        </div>
 
-    </div><hr>
-    {% endfor %}
-    <!-- Pagination links -->
-    <div class="grid-row padding-top-2">
-      <div class="tablet:grid-col-4 text-center tablet:order-2 font-body-xs text-base" style="color: #595959;">
-        Page {{ paginator.page }} of {{ paginator.total_pages }}
-      </div>
-      <div class="tablet:grid-col-4 text-right tablet:order-3">
-        {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl }}"
-        class="paginate-link usa-link text-no-underline text-bold tablet:margin-top-0" style="color: #595959;"
-        >Next {{ paginator.per_page }} Posts &rsaquo;</a>
-        
-        {% endif %}
-      </div>
-      <div class="tablet:grid-col-4 text-left tablet:order-1">
-        {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}"
-        class="paginate-link usa-link text-no-underline text-bold tablet:margin-top-0">
-      &lsaquo; Previous {{ paginator.per_page }} Posts</a>
+      </div><hr>
+      {% endfor %}
+      <!-- Pagination links -->
+      <div class="grid-row padding-top-2">
+        <div class="tablet:grid-col-4 text-center tablet:order-2 font-body-xs text-base" style="color: #595959;">
+          Page {{ paginator.page }} of {{ paginator.total_pages }}
+        </div>
+        <div class="tablet:grid-col-4 text-right tablet:order-3">
+          {% if paginator.next_page %}
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl }}"
+            class="paginate-link usa-link text-no-underline text-bold tablet:margin-top-0" style="color: #595959;"
+            >Next {{ paginator.per_page }} Posts &rsaquo;</a>
+   
+          {% endif %}
+        </div>
+        <div class="tablet:grid-col-4 text-left tablet:order-1">
+          {% if paginator.previous_page %}
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}"
+            class="paginate-link usa-link text-no-underline text-bold tablet:margin-top-0">
+            &lsaquo; Previous {{ paginator.per_page }} Posts</a>
       
-      {% endif %}
+          {% endif %}
+        </div>
+      </div>
     </div>
+    <!-- Sidebar -->
+    {% include blog-sidenav.html %}
   </div>
-</div>
-<!-- Sidebar -->
-{% include blog-sidenav.html %}
-</div>
 </div>
 </div>
