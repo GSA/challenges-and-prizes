@@ -23,7 +23,7 @@ title: Case Study - Breast Cancer Startup Challenge
                   <a href="{{ site.baseurl }}/assets/images/toolkit/case-studies/Breastcancer-e1474484078397.jpg">
                     <img class="wp-image-9360" src="{{ site.baseurl }}/assets/images/toolkit/case-studies/Breastcancer-e1474484078397.jpg" alt="Breast Cancer Startup Challenge" sizes="(max-width: 300) 100vw, 300" width="300" height="180" />
                   </a>
-                  <p class="wp-caption-text mt-0">Winners and finalists from the challenge pose with their awards. (Photo courtesy of NCI)</p>
+                  <p class="wp-caption-text margin-top-0">Winners and finalists from the challenge pose with their awards. (Photo courtesy of NCI)</p>
                   <!-- <p class="wp-caption-text">Hidden Signals Challenge Logo</p> -->
                 </div>
                 <p>The primary goal of the BCSC was to accelerate the development and commercialization of emerging breast cancer technology by designing a new competition that would result in the creation of startup companies. Because of the long, complex developmental timelines associated with biomedical technologies, blazing new ways for invention development is needed to meet the agency mission. The creation of BCSC was a way to address that; it provided another option and an additional way to find partners who can develop and commercialize potentially life-saving technology.</p>

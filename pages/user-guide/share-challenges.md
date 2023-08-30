@@ -8,9 +8,9 @@ title: User Guide for Public Solvers | Share Challenges
     <div class="grid-col-12">{% include user-guide-intro.html %}</div>
   </div>
   <div class="grid-row grid-gap usa-typo">
-    <div class="grid-col-12 pt-10 pb-30 px-0">
+    <div class="grid-col-12 usa-padding-bottom-10 usa-padding-bottom-30 padding-x-0">
       <div class="bg-secondary-lighter text-center">
-        <h2 class="mb-0">Share Challenges</h2></div>
+        <h2 class="margin-bottom-0">Share Challenges</h2></div>
       </div>
     </div>
     <div class="grid-row grid-gap justify-content-between">
@@ -118,3 +118,4 @@ title: User Guide for Public Solvers | Share Challenges
     .usa-sidenav__item a.menu-title:hover {
       background-color: transparent !important;
     }                    </style>
+

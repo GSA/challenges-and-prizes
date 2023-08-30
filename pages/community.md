@@ -37,6 +37,6 @@ title: Challenge & Prize Community
 			</ul>
 		</blockquote>
 		<p><strong>Community Conduct</strong></p>
-		<p class="mb-0">The Challenge and Prize Community of Practice is hosted by Challenge.Gov, a service of the Technology Transformation Services (TTS) within the General Services Administration (GSA). GSA is a federal agency subject to the Freedom of Information Act (FOIA) and must comply with requests for records made under FOIA. As a result, all communications made on this Communities of Practice LISTSERV are subject to release under FOIA.</p>
+		<p class="margin-bottom-0">The Challenge and Prize Community of Practice is hosted by Challenge.Gov, a service of the Technology Transformation Services (TTS) within the General Services Administration (GSA). GSA is a federal agency subject to the Freedom of Information Act (FOIA) and must comply with requests for records made under FOIA. As a result, all communications made on this Communities of Practice LISTSERV are subject to release under FOIA.</p>
 	</div>
 </div>

@@ -13,20 +13,20 @@ title: Case Study - GEAR Center Challenge
           <section class="portfolio-detail-description">
             <div class="body-text clearfix" itemprop="description">
               <!-- Feature Image -->
-              <figure class="usa-caption wp-caption px-0 mx-0">
+              <figure class="usa-caption wp-caption padding-x-0 margin-x-0">
                 <a href="{{ site.baseurl }}/assets/images/toolkit/case-studies/PMA LOGO_Hi Res_FINAL (1).png">
                   <img src="{{ site.baseurl }}/assets/images/toolkit/case-studies/PMA LOGO_Hi Res_FINAL (1).png" alt="PMA Logo">
                 </a>
                 <figcaption class="wp-caption-text">The President's Management Agenda Logo</figcaption>
               </figure>
               <div style="line-height: 2.50rem;">
-                <h1 style="text-align: left;" class="mb-0">GEAR Center Challenge</h1>
-                <p style="font-size: x-large; text-align: left;" class="mt-0">Scale new solutions to boldly tackle government's most complex management challenges.</p>
+                <h1 style="text-align: left;" class="margin-bottom-0">GEAR Center Challenge</h1>
+                <p style="font-size: x-large; text-align: left;" class="margin-top-0">Scale new solutions to boldly tackle government's most complex management challenges.</p>
                 <h2>Background</h2>
                 <!-- Body Content Start -->
                 <span>The federal government is exploring how to better connect to the public, academia, and private industry to solve federal management challenges. One potential path in that pursuit is through a Government Effectiveness Advanced Research (GEAR) Center that uses applied research to improve mission delivery, citizen services, and stewardship of public resources, as proposed in <a href="https://www.performance.gov/GovReform/Reform-and-Reorg-Plan-Final.pdf"><span style="font-weight: 400;">Delivering Government Solutions for the 21st Century: Reform Plan and Reorganization Recommendations.</span></a>
               </span>
-              <p class="mt-0">Over the summer of 2019, the General Services Administration (GSA) and the Office of Management and Budget (OMB) ran a <a href="/challenge/gear-center-challenge/"><span style="font-weight: 400;">GEAR Center prize competition</span></a>                                        on Challenge.gov. The competition challenged problem solvers from the public, academia, and industry to build cross-sector, multidisciplinary teams to demonstrate the potential of the GEAR Center .Teams described
+              <p class="margin-top-0">Over the summer of 2019, the General Services Administration (GSA) and the Office of Management and Budget (OMB) ran a <a href="/challenge/gear-center-challenge/"><span style="font-weight: 400;">GEAR Center prize competition</span></a>                                        on Challenge.gov. The competition challenged problem solvers from the public, academia, and industry to build cross-sector, multidisciplinary teams to demonstrate the potential of the GEAR Center .Teams described
                 how they would tackle challenges facing the government as outlined in the <a href="https://www.performance.gov/PMA/Presidents_Management_Agenda.pdf"><span style="font-weight: 400;">President's Management Agenda (PMA).</span></a></p>
                 <h2>Goals</h2>
                 <span>The challenge's goal was to test the GEAR Center model before investing further. Another goal was to see how the Center could help solve the federal government's current and future challenges.</span>

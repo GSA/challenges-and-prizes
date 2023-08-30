@@ -6,8 +6,8 @@ title: Why Should Government Leaders Invest in Open Innovation?
 tagline: A podcast interview with Jarah Meador
 excerpt: Government leaders are seeing the benefits of building a culture of innovation within their agencies.
 author: Quinn Slayton
-image: /assets/images/oi-podcast-sized.png
-post-body-content-uploads: /assets/images/oi-podcast-sized.png
+image: /assets/images/oi-podcast-sized (1).png
+post-body-content-uploads: /assets/images/oi-podcast-sized (1).png
 image_alt_text: A microphone, laptop, and headphones with the title line "Why Should Government Leaders Invest in Open Innovation?"
 ---
 
@@ -32,4 +32,4 @@ According to Jarah, “We are seeing an increase in appetite for open innovation
 To learn more, listen to the full episode [here](https://www.uprisor.com/podcasts/ep030). 
 
 <!-- If you’re a federal employee with a great idea or public solver who wants to share your expertise, the Challenge.Gov team is here to support you. Contact team@Challenge.Gov, sign up for our **[newsletter](https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?qsp=USGSATTS_6)**, or follow us on social media: Twitter **[@ChallengeGov](https://twitter.com/challengegov)**, Facebook **[@ChallengeGov](https://www.facebook.com/ChallengeGov/)**. -->
-<p class="mb-0">If you’re a federal employee with a great idea or public solver who wants to share your expertise, the Challenge.Gov team is here to support you. Contact team@Challenge.Gov, sign up for our <strong><a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?qsp=USGSATTS_6">newsletter</a></strong>, or follow us on social media: Twitter <strong><a href="https://twitter.com/challengegov">@ChallengeGov</a></strong>, Facebook <strong><a href="https://www.facebook.com/ChallengeGov/">@ChallengeGov</a></strong>.</p>
+<p class="margin-bottom-0">If you’re a federal employee with a great idea or public solver who wants to share your expertise, the Challenge.Gov team is here to support you. Contact team@Challenge.Gov, sign up for our <strong><a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?qsp=USGSATTS_6">newsletter</a></strong>, or follow us on social media: Twitter <strong><a href="https://twitter.com/challengegov">@ChallengeGov</a></strong>, Facebook <strong><a href="https://www.facebook.com/ChallengeGov/">@ChallengeGov</a></strong>.</p>

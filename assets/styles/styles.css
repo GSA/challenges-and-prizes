@@ -1,10 +1,10 @@
 :root {
-  --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
-  --bs-body-font-size: 1rem;
-  --bs-body-font-weight: 400;
-  --bs-body-line-height: 1.5;
-  --bs-body-color: #212529;
-  --bs-body-bg: #fff;
+  --us-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
+  --us-body-font-size: 1rem;
+  --us-body-font-weight: 400;
+  --us-body-line-height: 1.5;
+  --us-body-color: #212529;
+  --us-body-bg: #fff;
   scroll-behavior: smooth;
 }
 html{
@@ -14,18 +14,18 @@ html body *:focus{
   outline: none !important;
 }
 body{
-  --bs-body-font-size: 1rem;
-  --bs-body-font-weight: 400;
-  --bs-body-line-height: 1.5;
+  --us-body-font-size: 1rem;
+  --us-body-font-weight: 400;
+  --us-body-line-height: 1.5;
   background-color: #fafafa;
   font-family: 'Public Sans', sans-serif;
   margin: 0;
-  font-size: var(--bs-body-font-size);
-  font-weight: var(--bs-body-font-weight);
-  line-height: var(--bs-body-line-height);
-  color: var(--bs-body-color);
-  text-align: var(--bs-body-text-align);
-  background-color: var(--bs-body-bg);
+  font-size: var(--us-body-font-size);
+  font-weight: var(--us-body-font-weight);
+  line-height: var(--us-body-line-height);
+  color: var(--us-body-color);
+  text-align: var(--us-body-text-align);
+  background-color: var(--us-body-bg);
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
@@ -147,7 +147,7 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   padding: 1rem 1.5rem;
   text-decoration: none !important;
 }
-.container{
+.usa-container{
   padding-right: 15px;
   padding-left: 15px;
   margin: 0 auto;
@@ -161,7 +161,7 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   padding-bottom: 35px;
   background-color: #112f4e;
 }
-.challenges-bg .container {
+.challenges-bg .usa-container {
   /* max-width: 1320px; */
   margin: 0 auto;
   width: 100%;
@@ -182,7 +182,7 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   padding-bottom: 20px;
   background-color: #112f4e;
 }
-.newsletter-bg .container {
+.newsletter-bg .usa-container {
   /* max-width: 1320px; */
   margin: 0 auto;
   width: 100%;
@@ -292,7 +292,7 @@ header.usa-banner__header .usa-banner__button:after{
   text-decoration: underline !important;
 }
 /* general */
-.px-0{
+.padding-x-0{
   padding-left: 0 !important;
   padding-right: 0 !important;
 }
@@ -327,7 +327,7 @@ header.usa-banner__header .usa-banner__button:after{
   line-height: 2;
 }
 /******** events page ********/
-.mb-4 {
+.usa-margin-bottom--4 {
   margin-bottom: 1.5rem !important;
 }
 
@@ -363,30 +363,30 @@ header.usa-banner__header .usa-banner__button:after{
 }
 .usa-card,
 .usa-prose .usa-card:last-child {
-  --bs-card-spacer-y: 1rem;
-  --bs-card-spacer-x: 1rem;
-  --bs-card-title-spacer-y: 0.5rem;
-  --bs-card-border-width: 1px;
-  --bs-card-border-color: rgba(0, 0, 0, 0.175);
-  --bs-card-border-radius: 0.375rem;
-  --bs-card-box-shadow: ;
-  --bs-card-inner-border-radius: calc(0.375rem - 1px);
-  --bs-card-cap-padding-y: 0.5rem;
-  --bs-card-cap-padding-x: 1rem;
-  --bs-card-cap-bg: rgba(0, 0, 0, 0.03);
-  --bs-card-cap-color: ;
-  --bs-card-height: ;
-  --bs-card-color: ;
-  --bs-card-bg: #fff;
-  --bs-card-img-overlay-padding: 1rem;
-  --bs-card-group-margin: 0.75rem;
+  --us-card-spacer-y: 1rem;
+  --us-card-spacer-x: 1rem;
+  --us-card-title-spacer-y: 0.5rem;
+  --us-card-border-width: 1px;
+  --us-card-border-color: rgba(0, 0, 0, 0.175);
+  --us-card-border-radius: 0.375rem;
+  --us-card-box-shadow: ;
+  --us-card-inner-border-radius: calc(0.375rem - 1px);
+  --us-card-cap-padding-y: 0.5rem;
+  --us-card-cap-padding-x: 1rem;
+  --us-card-cap-bg: rgba(0, 0, 0, 0.03);
+  --us-card-cap-color: ;
+  --us-card-height: ;
+  --us-card-color: ;
+  --us-card-bg: #fff;
+  --us-card-img-overlay-padding: 1rem;
+  --us-card-group-margin: 0.75rem;
   position: relative;
   display: flex;
   flex-direction: column;
   min-width: 0;
-  height: var(--bs-card-height);
+  height: var(--us-card-height);
   word-wrap: break-word;
-  background-color: var(--bs-card-bg);
+  background-color: var(--us-card-bg);
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.175);
   border-radius: 0.375rem;
@@ -439,53 +439,53 @@ h4, .h4, .cms-sec-wrap h4 {
 .usa-card p{
   margin-top: 0;
 }
-.mb-0{
+.margin-bottom-0{
   margin-bottom: 0 !important;
 }
-.mt-0{
+.margin-top-0{
   margin-top: 0 !important;
 }
-.my-0{
+.margin-y-0{
   margin-top: 0 !important;
   margin-bottom: 0 !important;
 }
-.mx-0{
+.margin-x-0{
   margin-left: 0 !important;
   margin-right: 0 !important;
 }
-.pb-0{
+.padding-bottom-0{
   padding-bottom: 0 !important;
 }
-.pt-0{
+.padding-top-0{
   padding-top: 0 !important;
 }
-.px-0{
+.padding-x-0{
   padding-left: 0 !important;
   padding-right: 0 !important;
 }
-.py-0{
+.padding-y-0{
   padding-top: 0 !important;
   padding-bottom: 0 !important;
 }
-.my-0{
+.margin-y-0{
   margin-top: 0 !important;
   margin-bottom: 0 !important;
 }
-.mx-0{
+.margin-x-0{
   margin-left: 0 !important;
   margin-right: 0 !important;
 }
-.pb-0{
+.padding-bottom-0{
   padding-bottom: 0 !important;
 }
-.pt-0{
+.padding-top-0{
   padding-top: 0 !important;
 }
-.px-0{
+.padding-x-0{
   padding-left: 0 !important;
   padding-right: 0 !important;
 }
-.py-0{
+.padding-y-0{
   padding-top: 0 !important;
   padding-bottom: 0 !important;
 }
@@ -501,9 +501,9 @@ h4, .h4, .cms-sec-wrap h4 {
   flex-shrink: 0;
   width: 100%;
   max-width: 100%;
-  padding-right: calc(var(--bs-gutter-x) * 0.5);
-  padding-left: calc(var(--bs-gutter-x) * 0.5);
-  margin-top: var(--bs-gutter-y);
+  padding-right: calc(var(--us-gutter-x) * 0.5);
+  padding-left: calc(var(--us-gutter-x) * 0.5);
+  margin-top: var(--us-gutter-y);
 } */
 hr {
   margin: 1rem 0;
@@ -628,10 +628,10 @@ summary {
 .fy22-sec-wrap p{
   max-width: 100%;
 }
-.d-block{
+.usa-display-block{
   display: block !important;
 }
-.w-100{
+.usa-width-100{
   width: 100% !important;
 }
 /* review */
@@ -658,10 +658,10 @@ summary {
 .bg-secondary-lighter{
   padding-bottom: 0.5rem;
 }
-.pb-30{
+.usa-padding-bottom-30{
   padding-bottom: 30px;
 }
-.pt-10{
+.usa-padding-bottom-10{
   padding-top: 10px;
 }
 .res-sec .usa-prose ol li{
@@ -811,7 +811,7 @@ html body .usa-collection__item, html body .usa-list li, html body .usa-prose .u
   font-size: 2rem;
   text-decoration: none;
 }
-.text-primary {
+.usa-text-primary {
   color: rgb(13, 110, 253);
 }
 .usa-blogs .usa-list li, .usa-blogs .usa-prose>ol li, .usa-blogs .usa-prose>ul li {
@@ -909,7 +909,7 @@ html body .usa-collection__item, html body .usa-list li, html body .usa-prose .u
 }
 /******** media queries ********/
 @media (min-width: 576px){
-  .container-sm, .container {
+  .container-sm, .usa-container {
     max-width: 540px;
   }
 
@@ -927,12 +927,12 @@ html body .usa-collection__item, html body .usa-list li, html body .usa-prose .u
   }
 }
 @media (min-width: 768px){
-  .container {
+  .usa-container {
     max-width: 720px;
   }
 }
 @media (min-width: 992px){
-  .container {
+  .usa-container {
     max-width: 960px;
   }
 }
@@ -956,7 +956,7 @@ html body .usa-collection__item, html body .usa-list li, html body .usa-prose .u
   }
   .challenges-bg .container,
   .newsletter-bg .container,
-  .container {
+  .usa-container {
     max-width: 1140px;
   }
   .hero-headline{
@@ -970,7 +970,7 @@ html body .usa-collection__item, html body .usa-list li, html body .usa-prose .u
   
   .challenges-bg .container,
   .newsletter-bg .container,
-  .container {
+  .usa-container {
     max-width: 1320px;
   }
 }
@@ -1200,7 +1200,7 @@ section.portfolio-detail-description figcaption{
     margin-bottom: 0.5rem !important;
 }
 .usa-layout-docs.toolkit-site-wide .toolkit.usa-toolkit .body-text ul li {
-    padding-left: 8px;
+/*    padding-left: 8px;*/
 }
 .usa-layout-docs.toolkit-site-wide .usa-accordion__button{
   padding: 14px 3.5rem 14px 1.25rem;
@@ -1230,4 +1230,19 @@ h4#introduction + figure figcaption {
 .usa-layout-docs.toolkit-site-wide .toolkit.usa-toolkit .grid-row.grid-gap > * {
         padding-left: 8px;
     padding-right: 5.7px;
+}
+html body .toolkit.usa-toolkit .usa-accordion__button:after {
+    display: none;
+}
+html body .toolkit.usa-toolkit .usa-accordion__content {
+    border-left: 0.25rem solid #f0f0f0;
+    border-right: 0.25rem solid #f0f0f0;
+}
+html body .toolkit.usa-toolkit .usa-accordion__button{
+  background-image: url("../images/minus.svg"), linear-gradient(transparent, transparent);
+  background-size: 1rem;
+}
+html body .toolkit.usa-toolkit .usa-accordion__button[aria-expanded=false]{
+  background-image: url("../images/plus.svg"), linear-gradient(transparent, transparent);
+  background-size: 1rem;
 }

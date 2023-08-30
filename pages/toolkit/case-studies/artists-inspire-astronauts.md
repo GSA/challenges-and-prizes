@@ -12,15 +12,15 @@ title: Case Study - Artists Inspire Astronauts Challenge
             <section class="portfolio-detail-description">
               <div class="body-text clearfix" itemprop="description">
                 <!-- Feature Image -->
-                <figure class="usa-caption wp-caption px-0 mx-0">
+                <figure class="usa-caption wp-caption padding-x-0 margin-x-0">
                   <a href="{{ site.baseurl }}/assets/images/toolkit/case-studies/Artists_Inspire_Astronauts.jpg">
                     <img src="{{ site.baseurl }}/assets/images/toolkit/case-studies/Artists_Inspire_Astronauts.jpg" alt="PMA Logo">
                   </a>
                   <figcaption class="wp-caption-text">The winning pieces from left to right: Anticipation by Bryan Larson; Ad Astra Ascendo by Michael Hallberg; Supergrediatur by Cayla Massarelli; A Dream is Never Too Far to Reach by Juan Diego Medellin; and Emanation by Adrianna Allen. (Image courtesy of NASA)</figcaption>
                 </figure>
                 <div>
-                  <h1 style="text-align: left;" class="mb-0">Artists Inspire Astronauts Challenge | NASA</h1>
-                  <p style="font-size: x-large; text-align: left;" class="mt-0">In 2019, NASA's Artists Inspire Astronauts Challenge sought original and inspiring artwork to be displayed in Astronaut Crew Quarters, one of the last places astronauts spend time before heading to the launch pad.</p>
+                  <h1 style="text-align: left;" class="margin-bottom-0">Artists Inspire Astronauts Challenge | NASA</h1>
+                  <p style="font-size: x-large; text-align: left;" class="margin-top-0">In 2019, NASA's Artists Inspire Astronauts Challenge sought original and inspiring artwork to be displayed in Astronaut Crew Quarters, one of the last places astronauts spend time before heading to the launch pad.</p>
                   <h2>Background</h2>
                   <!-- Body Content Start -->
                   <p>As NASA prepares for the return of human spaceflight from U.S. soil through the Commercial Crew and Artemis Program, Kennedy Space Center is working to ensure they are ready to support launch operations. Supporting this push, Astronaut Crew Quarters, which houses astronauts in the weeks prior to their mission, has undergone upgrades since the conclusion of the Space Shuttle Program in 2011 to accommodate this new era of human spaceflight. The Artists Inspire Astronauts Challenge was an open competition for artists to submit their work for a chance to be displayed in Crew Quarters. The challenge included themes that are a priority for the agency: “Explore Humans in Space: Leading Discovery, Improving Life on Earth,” “Explore Moon to Mars: Moon Lights the Way” and “Explore Solar System and Beyond: Discovering the Secrets of the Universe.”</p>

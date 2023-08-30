@@ -3,7 +3,7 @@ permalink: /events/
 layout: page
 title: Events
 ---
-<h1 class="text-center mb-4 font-weight-bold">Upcoming Events</h1>
+<h1 class="text-center usa-margin-bottom--4 font-weight-bold">Upcoming Events</h1>
 
 <div class="grid-col-12">
   <p>Public engagement is at the heart of Challenge.Gov. The Challenge.Gov program produces events to highlight specific challenges hosted on the platform and provide opportunities for members of the public to learn more about federal open innovation. Federal agencies host events to highlight their challenges and prize competitions.</p>
@@ -24,7 +24,7 @@ title: Events
     </div>      
   </div> 
 </div>
-<h3 class="text-center mt-0">Past Events</h3>
+<h3 class="text-center margin-top-0">Past Events</h3>
 <div class="grid-row">
   <div class="grid-col-12">      
     <div class="usa-card">

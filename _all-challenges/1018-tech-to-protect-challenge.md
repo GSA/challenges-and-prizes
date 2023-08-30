@@ -69,7 +69,7 @@ description: <div class="description"> <p><img src="{{ site.baseurl
   href="mailto:info@techtoprotectchallenge.org" target="_blank"
   rel="noopener">info@techtoprotectchallenge.org</a></p> </div>
 prizes: >-
-  <div> <h4 class="text-primary">Prizes Anticipated for the Regional Codeathon
+  <div> <h4 class="usa-text-primary">Prizes Anticipated for the Regional Codeathon
   Events and Contests</h4> <p class="prize"><strong>$350,000</strong></p> <div
   class="description"> <p><strong>Cash prizes per regional event (10
   locations)</strong></p> <p><em>1st Place:</em> $10,000 x 10 = $100,000</p>
@@ -94,7 +94,7 @@ prizes: >-
   * [Learn More about each of the Tech to Protect Contestants and their work](https://www.nist.gov/ctl/pscr/open-innovation-prize-challenges/current-and-upcoming-prize-challenges/2019-tech-protect)  
 
 
-  <div> <h4 class="text-primary">Prizes Anticipated for the Online & National Awards Event Contests</h4> <p><strong>Finalist solutions will be given an adjectival rating corresponding to a cash prize</strong></p> <p><em>Excellent:</em>&nbsp;&nbsp; $40,000 x 4&nbsp;&nbsp; = $160,000</p> <p><em>Superior:&nbsp;</em>&nbsp;&nbsp; $20,000 x 5&nbsp;&nbsp; = $100,000</p> <p><em>Very Good</em>&nbsp;$15,000 x 6&nbsp;&nbsp; = $75,000</p> <p><em>Good:</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $10,000 x 10 = $100,000</p> <p><em>Unacceptable:</em> no cash prize</p> <p><em>Seed and Progress Contest Awards:</em>&nbsp;$100,000 x 12 = $1,200,000</p> <p><em><strong>Total National Cash &amp; Non-Cash Prizes:&nbsp;$1,635,000</strong></em></p> </div>
+  <div> <h4 class="usa-text-primary">Prizes Anticipated for the Online & National Awards Event Contests</h4> <p><strong>Finalist solutions will be given an adjectival rating corresponding to a cash prize</strong></p> <p><em>Excellent:</em>&nbsp;&nbsp; $40,000 x 4&nbsp;&nbsp; = $160,000</p> <p><em>Superior:&nbsp;</em>&nbsp;&nbsp; $20,000 x 5&nbsp;&nbsp; = $100,000</p> <p><em>Very Good</em>&nbsp;$15,000 x 6&nbsp;&nbsp; = $75,000</p> <p><em>Good:</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $10,000 x 10 = $100,000</p> <p><em>Unacceptable:</em> no cash prize</p> <p><em>Seed and Progress Contest Awards:</em>&nbsp;$100,000 x 12 = $1,200,000</p> <p><em><strong>Total National Cash &amp; Non-Cash Prizes:&nbsp;$1,635,000</strong></em></p> </div>
 rules: <div class="description"> <p>Below are the rules on eligibility and
   submissions, as well as additional terms and conditions. Please read&nbsp; the
   original <a href="{{ site.baseurl
@@ -518,7 +518,7 @@ submission-link: null
 ### Prizes
 
 <div class="prize-item">
-<h4 class="text-primary">Prizes Anticipated for the Regional Codeathon Events and Contests</h4>
+<h4 class="usa-text-primary">Prizes Anticipated for the Regional Codeathon Events and Contests</h4>
 <p class="prize"><strong>$350,000</strong></p>
 <div class="description">
 <p><strong>Cash prizes per regional event (10 locations)</strong></p>
@@ -539,7 +539,7 @@ submission-link: null
 * [Nearly $500K Awarded to Tech to Protect Finalists](https://www.nist.gov/news-events/news/2020/12/nearly-500k-awarded-tech-protect-finalists)
 * [Learn More about each of the Tech to Protect Contestants and their work](https://www.nist.gov/ctl/pscr/open-innovation-prize-challenges/current-and-upcoming-prize-challenges/2019-tech-protect)  
 
-<div> <h4 class="text-primary">Prizes Anticipated for the Online & National Awards Event Contests</h4> <p><strong>Finalist solutions will be given an adjectival rating corresponding to a cash prize</strong></p> <p><em>Excellent:</em>&nbsp;&nbsp; $40,000 x 4&nbsp;&nbsp; = $160,000</p> <p><em>Superior:&nbsp;</em>&nbsp;&nbsp; $20,000 x 5&nbsp;&nbsp; = $100,000</p> <p><em>Very Good</em>&nbsp;$15,000 x 6&nbsp;&nbsp; = $75,000</p> <p><em>Good:</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $10,000 x 10 = $100,000</p> <p><em>Unacceptable:</em> no cash prize</p> <p><em>Seed and Progress Contest Awards:</em>&nbsp;$100,000 x 12 = $1,200,000</p> <p><em><strong>Total National Cash &amp; Non-Cash Prizes:&nbsp;$1,635,000</strong></em></p> </div>
+<div> <h4 class="usa-text-primary">Prizes Anticipated for the Online & National Awards Event Contests</h4> <p><strong>Finalist solutions will be given an adjectival rating corresponding to a cash prize</strong></p> <p><em>Excellent:</em>&nbsp;&nbsp; $40,000 x 4&nbsp;&nbsp; = $160,000</p> <p><em>Superior:&nbsp;</em>&nbsp;&nbsp; $20,000 x 5&nbsp;&nbsp; = $100,000</p> <p><em>Very Good</em>&nbsp;$15,000 x 6&nbsp;&nbsp; = $75,000</p> <p><em>Good:</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $10,000 x 10 = $100,000</p> <p><em>Unacceptable:</em> no cash prize</p> <p><em>Seed and Progress Contest Awards:</em>&nbsp;$100,000 x 12 = $1,200,000</p> <p><em><strong>Total National Cash &amp; Non-Cash Prizes:&nbsp;$1,635,000</strong></em></p> </div>
 
 ### Rules
 

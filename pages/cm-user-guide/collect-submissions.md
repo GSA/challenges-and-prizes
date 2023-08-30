@@ -8,9 +8,9 @@ title: User Guide for Challenge Managers | Collect Submissions
     <div class="grid-col-12">{% include cm-user-guide-intro.html %}</div>
   </div>
   <div class="grid-row grid-gap usa-typo">
-    <div class="grid-col-12 pt-10 pb-30 px-0">
+    <div class="grid-col-12 usa-padding-bottom-10 usa-padding-bottom-30 padding-x-0">
       <div class="bg-secondary-lighter text-center">
-        <h2 class="mb-0">Collect Submissions</h2>
+        <h2 class="margin-bottom-0">Collect Submissions</h2>
       </div>
     </div>
   </div>
@@ -27,7 +27,7 @@ title: User Guide for Challenge Managers | Collect Submissions
           <li class="font-bolder"><span><b>External URL:</b> Link to webpage for additional submission content (optional)</span></li>
           <li class="font-bolder"><span><b>Acknowledgement of Rules, Terms & Conditions:</b> A link is provided to the Rules tab of your challenge listing allowing participants to review the details before acknowledging (required)</span></li>
         </ol>
-        <!-- <p class="px-0 mb-0">Notes:</p> -->
+        <!-- <p class="padding-x-0 margin-bottom-0">Notes:</p> -->
         <span>Notes:</span>
         <ul>
           <li>If there are specific pieces of information you wish to collect, you can include a submission template as part of your “How to Enter” instructions detailing the information solvers must provide. The completed form can then be uploaded and included as part of their submission.</li>

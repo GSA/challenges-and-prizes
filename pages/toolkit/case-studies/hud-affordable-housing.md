@@ -23,7 +23,7 @@ title: Case Study - Innovation in Affordable Housing
                   <a href="{{ site.baseurl }}/assets/images/toolkit/case-studies/HUD-Innovation-in-Affordable-Housing-Student-Design-e1474485324351.jpg">
                     <img class="wp-image-9360" src="{{ site.baseurl }}/assets/images/toolkit/case-studies/HUD-Innovation-in-Affordable-Housing-Student-Design-e1474485324351.jpg" alt="Wave Energy Prize" sizes="(max-width: 450px) 100vw, 450px" width="450" height="270" />
                   </a>
-                  <p class="wp-caption-text mt-0">A student presents her design for a HUD affordable housing challenge. (Photo courtesy of HUD)</p>
+                  <p class="wp-caption-text margin-top-0">A student presents her design for a HUD affordable housing challenge. (Photo courtesy of HUD)</p>
                   <!-- <p class="wp-caption-text">Hidden Signals Challenge Logo</p> -->
                 </div>
                 <p>PD&R worked with the Office of Public and Indian Housing to issue a call for interested public housing authorities. The housing authorities were evaluated on a first-come, first-serve basis. For the inaugural 2014 competition, HUD partnered with the Housing Authority of Bergen County (HABC) in New Jersey.</p>

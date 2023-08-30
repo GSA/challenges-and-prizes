@@ -16,13 +16,13 @@ title: Case Study - Bridging the Word Gap Challenge
                 <h1>Bridging the Word Gap Challenge</h1>
                 <h3 style="border-bottom: 1px solid #e4e4e4;">Health Resources and Services Administration (HRSA)</h3>
                 <h2>Summary</h2>
-                <p class="mt-0">The word gap is the large difference in the number of words children from low-income families are exposed to as compared to children from high-income families. By age four, children from low-income families are hearing 30 million fewer words than their more affluent peers.</p>
+                <p class="margin-top-0">The word gap is the large difference in the number of words children from low-income families are exposed to as compared to children from high-income families. By age four, children from low-income families are hearing 30 million fewer words than their more affluent peers.</p>
                 <!--Feature Image-->
                 <div class="wp-caption alignleft" style="max-width: 460px">
                   <a href="{{ site.baseurl }}/assets/images/toolkit/case-studies/wordgap1-e1520515743487.jpg">
                     <img class="wp-image-9360" src="{{ site.baseurl }}/assets/images/toolkit/case-studies/wordgap1-e1520515743487.jpg" alt="Hidden Signals Challenge Logo" sizes="(max-width: 450px) 100vw, 450px" width="450" height="312" />
                   </a>
-                  <p class="wp-caption-text mt-0">By age four, children from low-income families are hearing 30 million fewer words than their more affluent peers. (File photo)</p>
+                  <p class="wp-caption-text margin-top-0">By age four, children from low-income families are hearing 30 million fewer words than their more affluent peers. (File photo)</p>
                   <!-- <p class="wp-caption-text">Hidden Signals Challenge Logo</p> -->
                 </div>
                 <p>This is staggering. And it can have serious consequences. Children who experience this drought in heard words have vocabularies that are half the size of their peers by age four, putting them at a disadvantage even before they enter a classroom, and this word gap can lead to disparities not just in vocabulary size, but also in school readiness, long-term educational and health outcomes, earnings, and family stability even decades later.</p>

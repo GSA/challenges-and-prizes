@@ -9,7 +9,7 @@ title: Case Study - Digital Service Contracting Professional Training and Develo
       <article class="portfolio-article usa-prose usa-grid-full" id="9475" itemscope="" itemtype="http://schema.org/CreativeWork">
         <div class="portfolio-item-content">
           <section class="article-body-wrap usa-prose desktop:grid-col-9">
-            <figure class="media-wrap usa-grid-full mx-0 my-0">
+            <figure class="media-wrap usa-grid-full margin-x-0 margin-y-0">
               <div class="usa-prose">
                 <a href="{{ site.baseurl }}/assets/images/toolkit/case-studies/OMB_banner.jpg">
                   <img class="case-study-feature-img margin-right-2" style="float: left;" src="{{ site.baseurl }}/assets/images/toolkit/case-studies/OMB_banner.jpg" alt="OMB logo" />

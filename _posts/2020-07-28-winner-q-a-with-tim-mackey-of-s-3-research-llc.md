@@ -20,7 +20,7 @@ In anticipation of the announcement, Challenge.gov recently caught up with a pas
 **\*NOTE**: The General Services Administration (GSA) is not affiliated in any way with this particular competition nor is this profile intended to be an endorsement of the winning company. References to any specific commercial products, process, service, manufacturer, company, or trademark does not constitute its endorsement or recommendation by the U.S. Government or GSA. As an agency of the U.S. Government, GSA cannot endorse or appear to endorse any specific commercial products or services.
 
 <!-- #### INTRODUCTION -->
-<h4 id="introduction" class="mb-0">INTRODUCTION</h4>
+<h4 id="introduction" class="margin-bottom-0">INTRODUCTION</h4>
 
 <figure style="float:right; margin:1em;" > <img height="300px" src="{{ site.baseurl }}/assets/netlify-uploads/tim-mackey.jpg" alt="Tim K. Mackey, CEO of S-3 Research"/> <figcaption style="font-size: smaller;">Tim K. Mackey, CEO of S-3 Research</figcaption> </figure>
 
@@ -54,7 +54,7 @@ The scourge of the opioid epidemic and its toll on society is real and acute. I�
 
 **How did you hear about NIDA’s SUD Startup Challenge and why did you decide to apply?**
 
-<p class="mb-0">We heard about the challenge after participating in the <a href="https://www.hhs.gov/challenges/index.html">HHS 2017 Opioid Code-a-Thon</a> after being invited to form a team by a colleague formally at the U.S. Centers for Disease Control and Prevention. We were chosen as a finalist but didn’t win one of the three prizes, however, this gave us the opportunity to learn about the Challenge award and we applied.</p>
+<p class="margin-bottom-0">We heard about the challenge after participating in the <a href="https://www.hhs.gov/challenges/index.html">HHS 2017 Opioid Code-a-Thon</a> after being invited to form a team by a colleague formally at the U.S. Centers for Disease Control and Prevention. We were chosen as a finalist but didn’t win one of the three prizes, however, this gave us the opportunity to learn about the Challenge award and we applied.</p>
 
 <figure style="float:left; margin:1em;" > <img height="300px" src="{{ site.baseurl }}/assets/netlify-uploads/webp.net-resizeimage-1-.jpg" alt="Tim K. Mackey, CEO of S-3 Research"/> <figcaption style="font-size: smaller;top: -6px;position: relative;margin-top: -2px;">HHS Opioid Code-a-thon Team whose participation led to Challenge award application</figcaption> </figure>
 
@@ -111,4 +111,4 @@ Keep going with your ideas and innovation. Though we’ve had success with the c
 
 **Is there anything else that you’d like to share that we haven’t asked you?**
 
-<p class="mb-0">I just want to express my thanks to all the people at the NIH and specifically the NIDA SBIR program. They are the reason why our innovation is being translated into something that will directly impact people’s lives, and hopefully, help bring an end to this terrible opioid epidemic.</p>
+<p class="margin-bottom-0">I just want to express my thanks to all the people at the NIH and specifically the NIDA SBIR program. They are the reason why our innovation is being translated into something that will directly impact people’s lives, and hopefully, help bring an end to this terrible opioid epidemic.</p>

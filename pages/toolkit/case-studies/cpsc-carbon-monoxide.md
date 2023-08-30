@@ -22,7 +22,7 @@ title: Case Study - Carbon Monoxide Poster Contest
                   <a href="{{ site.baseurl }}/assets/images/toolkit/case-studies/CPSC-Carbon-Monoxide-Poster-Challenge-e1474484912491.jpg">
                     <img class="wp-image-9360" src="{{ site.baseurl }}/assets/images/toolkit/case-studies/CPSC-Carbon-Monoxide-Poster-Challenge-e1474484912491.jpg" alt="Wave Energy Prize" sizes="(max-width: 450px) 100vw, 450px" width="450" height="270" />
                   </a>
-                  <p class="wp-caption-text mt-0">The winning poster for the CPSC Carbon Monoxide challenge features a blindfolded woman breathing in carbon monoxide, depicted as the "invisible killer." (Image courtesy of CPSC)</p>
+                  <p class="wp-caption-text margin-top-0">The winning poster for the CPSC Carbon Monoxide challenge features a blindfolded woman breathing in carbon monoxide, depicted as the "invisible killer." (Image courtesy of CPSC)</p>
                   <!-- <p class="wp-caption-text">Hidden Signals Challenge Logo</p> -->
                 </div>
                 <p>The primary objective of CPSC's poster contest is to prevent carbon monoxide poisoning injuries and deaths by increasing CO safety awareness and residential use of CO alarms. CPSC works to engage and educate communities nationwide and on military bases around the world with this poster contest. The students will hopefully use this knowledge to prevent carbon monoxide poisoning in their homes.</p>

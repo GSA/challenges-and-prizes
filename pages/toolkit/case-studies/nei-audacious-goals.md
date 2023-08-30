@@ -30,7 +30,7 @@ title: Case Study - Audacious Goals in Vision Research
                   <a href="{{ site.baseurl }}/assets/images/toolkit/case-studies/Audacious-Goals-e1474484371635.jpg">
                     <img class="wp-image-9360" src="{{ site.baseurl }}/assets/images/toolkit/case-studies/Audacious-Goals-e1474484371635.jpg" alt="Wave Energy Prize" sizes="(max-width: 450px) 100vw, 450px" width="450" height="270" />
                   </a>
-                  <p class="wp-caption-text mt-0">NEI Director Dr. Paul Sieving (first from left, front row) stands with 10 Audacious Goals competition winners.
+                  <p class="wp-caption-text margin-top-0">NEI Director Dr. Paul Sieving (first from left, front row) stands with 10 Audacious Goals competition winners.
                   (Photo courtesy of NEI)</p>
                   <!-- <p class="wp-caption-text">Hidden Signals Challenge Logo</p> -->
                 </div>

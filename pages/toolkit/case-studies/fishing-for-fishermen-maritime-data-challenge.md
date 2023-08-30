@@ -16,13 +16,13 @@ title: Case Study - "Fishing for Fishermen" Maritime Data Challenge
                 <h1>"Fishing for Fishermen" Maritime Data Challenge</h1>
                 <h3 style="border-bottom: 1px solid #e4e4e4;">National Maritime Intelligence Integration Office (NMIO)</h3>
                 <h2>Summary</h2>
-                <p class="mt-0">On Sept. 8, 2017, NMIO completed the "Fishing for Fishermen" Maritime Data Challenge, a worldwide crowdsourcing algorithm development competition that sought to develop a method that would enable authorities to more effectively identify and respond to illegal, unregulated, and unreported (IUU) fishing activity around the world.</p>
+                <p class="margin-top-0">On Sept. 8, 2017, NMIO completed the "Fishing for Fishermen" Maritime Data Challenge, a worldwide crowdsourcing algorithm development competition that sought to develop a method that would enable authorities to more effectively identify and respond to illegal, unregulated, and unreported (IUU) fishing activity around the world.</p>
                 <!--Feature Image-->
                 <div class="wp-caption alignleft" style="max-width: 460px">
                   <a href="{{ site.baseurl }}/assets/images/toolkit/case-studies/MaritimeDataCaseStudy1-e1515167519649.jpg">
                     <img class="wp-image-9360" src="{{ site.baseurl }}/assets/images/toolkit/case-studies/MaritimeDataCaseStudy1-e1515167519649.jpg" alt="Hidden Signals Challenge Logo" sizes="(max-width: 450px) 100vw, 450px" width="450" height="308" />
                   </a>
-                  <p class="wp-caption-text mt-0">The Maritime Data Challenge also relied on crowdsourcing to develop an information graphic explaining the purpose of the competition, and why it was important. (Photo courtesy of NMIO)</p>
+                  <p class="wp-caption-text margin-top-0">The Maritime Data Challenge also relied on crowdsourcing to develop an information graphic explaining the purpose of the competition, and why it was important. (Photo courtesy of NMIO)</p>
                   <!-- <p class="wp-caption-text">Hidden Signals Challenge Logo</p> -->
                 </div>
                 <p>Those who engage in IUU fishing derive economic benefit by circumventing conservation and sustainable fishing harvest limits, thereby inflicting serious environmental harm. By applying innovative analytic techniques to existing data sources, the competition sought to develop a process to more effectively identify and react to the global IUU fishing threat. The goal was to make the process available to all authorities worldwide.</p>

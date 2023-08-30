@@ -8,9 +8,9 @@ title: User Guide for Public Solvers | Print Challenges
     <div class="grid-col-12">{% include user-guide-intro.html %}</div>
   </div>
   <div class="grid-row grid-gap usa-typo">
-    <div class="grid-col-12 pt-10 pb-30 px-0">
+    <div class="grid-col-12 usa-padding-bottom-10 usa-padding-bottom-30 padding-x-0">
       <div class="bg-secondary-lighter text-center">
-        <h2 class="mb-0">Print Challenges</h2>
+        <h2 class="margin-bottom-0">Print Challenges</h2>
       </div>
     </div>
   </div>
@@ -29,7 +29,6 @@ title: User Guide for Public Solvers | Print Challenges
   <div class="grid-col-4">{% include user-guide-nav.html %} </div>
 </div>
 </div>
-
 <style>
   .usa-prose ol{
     padding-left: 50px;

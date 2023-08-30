@@ -8,9 +8,9 @@ title: User Guide for Challenge Managers | View Analytics
     <div class="grid-col-12">{% include cm-user-guide-intro.html %}</div>
   </div>
   <div class="grid-row grid-gap usa-typo">
-    <div class="grid-col-12 pt-10 pb-30 px-0">
+    <div class="grid-col-12 usa-padding-bottom-10 usa-padding-bottom-30 padding-x-0">
       <div class="bg-secondary-lighter text-center">
-        <h2 class="mb-0">View Analytics</h2>
+        <h2 class="margin-bottom-0">View Analytics</h2>
       </div>
     </div>
   </div>
@@ -23,7 +23,7 @@ title: User Guide for Challenge Managers | View Analytics
         <ol>
           <li class="font-bolder"><span>From the Challenge Manager Dashboard, click Analytics.</span></li>
           <li class="font-bolder"><span>The following monthly report files (csv) are available for download:
-            <ul class="mb-0">
+            <ul class="margin-bottom-0">
               <li>Challenge.Gov Website Analytics</li>
               <li>Challenge.Gov Twitter Metrics</li>
               <li>Challenge.Gov LinkedIn Metrics</li>
@@ -35,7 +35,7 @@ title: User Guide for Challenge Managers | View Analytics
         <p><b>Trends Analytics</b></p>
         <ol>
           <li class="font-bolder"><span>The following metrics are available via the platform.
-            <ul class="mb-0">
+            <ul class="margin-bottom-0">
               <li>Total Active</li>
               <li>Total Archived</li>
               <li>Total in Draft</li>

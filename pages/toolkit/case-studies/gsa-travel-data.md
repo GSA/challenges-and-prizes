@@ -23,7 +23,7 @@ title: Case Study - Travel Data Challenge
                   <a href="{{ site.baseurl }}/assets/images/toolkit/case-studies/GSA-Travel-Data-Challenge-1024x576-768x432.jpg">
                     <img class="wp-image-9360" src="{{ site.baseurl }}/assets/images/toolkit/case-studies/GSA-Travel-Data-Challenge-1024x576-768x432.jpg" alt="Wave Energy Prize" sizes="(max-width: 450) 100vw, 450" width="450" height="253" />
                   </a>
-                  <p class="wp-caption-text mt-0">GSA Travel Data Challenge logo. (Iimage courtesy of GSA)</p>
+                  <p class="wp-caption-text margin-top-0">GSA Travel Data Challenge logo. (Iimage courtesy of GSA)</p>
                   <!-- <p class="wp-caption-text">Hidden Signals Challenge Logo</p> -->
                 </div>
                 <p>OGP provided its solvers with three travel-related data sets—voucher data, reservation data and Smartpay transaction data—from fiscal years 2011-2013. To be deemed successful, a solver needed to use the data to answer several questions about how the government makes cost and efficiency improvements. In addition, a successful solution needed to prove adaptable to other government agencies.</p>

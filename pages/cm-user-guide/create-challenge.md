@@ -8,9 +8,9 @@ title: User Guide for Challenge Managers | Create Challenge
     <div class="grid-col-12">{% include cm-user-guide-intro.html %}</div>
   </div>
   <div class="grid-row grid-gap usa-typo">
-    <div class="grid-col-12 pt-10 pb-30 px-0">
+    <div class="grid-col-12 usa-padding-bottom-10 usa-padding-bottom-30 padding-x-0">
       <div class="bg-secondary-lighter text-center">
-        <h2 class="mb-0">Create Challenge</h2>
+        <h2 class="margin-bottom-0">Create Challenge</h2>
       </div>
     </div>
   </div>
@@ -25,7 +25,7 @@ title: User Guide for Challenge Managers | Create Challenge
         <li>Amended in 2017 with the <a href="https://www.congress.gov/bill/114th-congress/senate-bill/3084/text" target="_blank" rel="noopener">American Innovation Competitiveness Act (AICA)</a> - Section 401(b)(2)(A) here to allow for promotion on any publicly accessible website, such as Challenge.Gov (previously required publication in <i>Federal Register</i>).</li>
       </ul>
       <hr>
-      <h3 class="mt-0">Setup Instructions</h3>
+      <h3 class="margin-top-0">Setup Instructions</h3>
       <ol>
         <li class="font-bolder"><span>From the Challenge Manager Dashboard, click <b>Create a new challenge.</b></span></li>
         <li class="font-bolder"><span>Follow on-screen prompts and enter the challenge details starting with <b>General Info</b>. (See the <a href="https://www.google.com/url?q=https://portal.challenge.gov/pdfs/creating_new_challenge-2bacf3110244f70dbc8d0f0cd2369aad.pdf?vsn%3Dd&sa=D&source=docs&ust=1686850045261503&usg=AOvVaw3go0HNMBeXrmdZj71zgEIN" target="_blank" rel="noopener">Challenge Template</a> for additional information regarding each of the data fields.) For long text fields there is a text editor that allows you to adjust the font size and format, create bulleted and numbered lists, indent text, and add hyperlinks.</span></li>
@@ -42,7 +42,7 @@ title: User Guide for Challenge Managers | Create Challenge
             </ul></span></li>
           </ol>
           <hr>
-          <h3 class="mt-0">Challenge.Gov Support Team Challenge Review</h3>
+          <h3 class="margin-top-0">Challenge.Gov Support Team Challenge Review</h3>
           <p>Allow a minimum of 2 business days for your request to be processed by the Challenge.Gov support team.  Additional time may be needed if you are collecting personally identifiable information (PII) as part of your challenge submission.</p>
           <p>The Challenge.Gov support team will review your challenge for general content clarity, inclusion of relevant Challenge details in required fields, visibility of graphics, and significant spelling and grammatical errors. In addition the team will ensure that information requested from submitters does not violate the <a href="https://www.challenge.gov/privacy-policy/">Challenge.Gov privacy policy and Terms of Use</a>.</p>
           <p>Challenges collecting submissions via Challenge.Gov will also be reviewed to ensure information requested from submitters does not violate Challenge.Gov’s security parameters with regard to the collection of PII. Examples of such PII include, but are not limited to: Name, Job Title, Affiliation(s)/Employer(s), Work/Personal Email address, Phone Number.</p>
@@ -63,7 +63,8 @@ title: User Guide for Challenge Managers | Create Challenge
       </div>
       <div class="grid-col-4">{% include cm-user-guide-nav.html %} </div>
     </div>
-  </div><style>
+  </div>
+  <style>
     .usa-prose ol{
       padding-left: 50px;
       margin-top: 0;

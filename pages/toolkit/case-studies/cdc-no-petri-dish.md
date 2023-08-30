@@ -23,7 +23,7 @@ title: Case Study - No Petri Dish
                   <a href="{{ site.baseurl }}/assets/images/toolkit/case-studies/no-petri-dish-case-study-e1474487034657.jpg">
                     <img class="wp-image-9360" src="{{ site.baseurl }}/assets/images/toolkit/case-studies/no-petri-dish-case-study-e1474487034657.jpg" alt="Wave Energy Prize" sizes="(max-width: 450) 100vw, 450" width="430" height="270" />
                   </a>
-                  <p class="wp-caption-text mt-0">The "No Petri Dish" Challenge asked an open-ended question and was broken into two phases to evaluate submissions. (File Photo)</p>
+                  <p class="wp-caption-text margin-top-0">The "No Petri Dish" Challenge asked an open-ended question and was broken into two phases to evaluate submissions. (File Photo)</p>
                   <!-- <p class="wp-caption-text">Hidden Signals Challenge Logo</p> -->
                 </div>
                 <p>The Shiga-toxin-producing Escherichia coli (STEC) represents a difficult challenge.  STEC is similar in most respects to commensal E. coli (i.e., strains of E. coli normally found in the human gut).  Tracking the pathogen therefore requires reliably identifying a variable marker that can be used for subtyping and to link these data to other markers that can be used for identification and characterization of the pathogen, all within a "dirty" and complex sample matrix (i.e., a stool sample).  The challenge was to "describe a novel or innovative method to strain-type and characterize pathogenic organisms, such as STEC, directly from a complex clinical sample, without the need for culture or culture-based amplification."</p>

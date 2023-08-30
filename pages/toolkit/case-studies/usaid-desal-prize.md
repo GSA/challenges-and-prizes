@@ -23,7 +23,7 @@ title: Case Study - DESAL Prize
                   <a href="{{ site.baseurl }}/assets/images/toolkit/case-studies/DESAL-e1474484107295.jpg">
                     <img class="wp-image-9360" src="{{ site.baseurl }}/assets/images/toolkit/case-studies/DESAL-e1474484107295.jpg" alt="DESAL Prize" sizes="(max-width: 300) 100vw, 300" width="300" height="179" />
                   </a>
-                  <p class="wp-caption-text mt-0">Set up begins for the DESAL demonstrations. (Photo courtesy of USAID)</p>
+                  <p class="wp-caption-text margin-top-0">Set up begins for the DESAL demonstrations. (Photo courtesy of USAID)</p>
                   <!-- <p class="wp-caption-text">Hidden Signals Challenge Logo</p> -->
                 </div>
                 <p>In March 2014, USAID partnered with the Bureau of Reclamation to launch the Desal Prize—the second call for proposals under the Securing Water for Food Grand Challenge for Development (SWF GCD). The goal of the Desal Prize was to incentivize teams to create environmentally sustainable, small-scale brackish water desalination systems that can provide potable water for humans and crops in developing countries.</p>

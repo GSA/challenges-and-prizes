@@ -16,13 +16,13 @@ title: Case Study - Ultra-High Speed Apps
                 <h1>Ultra-High Speed Apps</h1>
                 <h3 style="border-bottom: 1px solid #e4e4e4;">National Institute of Justice (NIJ)</h3>
                 <h2>Summary</h2>
-                <p class="mt-0">The expansion of ultra-high speed (UHS) networks offers the opportunity to revolutionize the way services and information are delivered for criminal justice and other public safety applications. UHS applications ("apps') now have the potential to provide ubiquitous, real-time, individually tailored information and decision-support functions to criminal justice and public safety practitioners in rapidly evolving emergencies. Additionally, the increased capacity of UHS systems now makes it possible to merge and manipulate data allowing the development and use of powerful analytical and management tools.</p>
+                <p class="margin-top-0">The expansion of ultra-high speed (UHS) networks offers the opportunity to revolutionize the way services and information are delivered for criminal justice and other public safety applications. UHS applications ("apps') now have the potential to provide ubiquitous, real-time, individually tailored information and decision-support functions to criminal justice and public safety practitioners in rapidly evolving emergencies. Additionally, the increased capacity of UHS systems now makes it possible to merge and manipulate data allowing the development and use of powerful analytical and management tools.</p>
                 <!--Feature Image-->
                 <div class="wp-caption alignleft" style="max-width: 460px">
                   <a href="{{ site.baseurl }}/assets/images/toolkit/case-studies/ultra-high-speed-apps-e1481656273493.jpg">
                     <img class="wp-image-9360" src="{{ site.baseurl }}/assets/images/toolkit/case-studies/ultra-high-speed-apps-e1481656273493.jpg" alt="Hidden Signals Challenge Logo" sizes="(max-width: 450px) 100vw, 450px" width="450" height="300" />
                   </a>
-                  <p class="wp-caption-text mt-0">The winning app works with a school's existing camera systems, UHS network, and gunshot detection hardware to report gunshots within a school to first responders in real time. (File Photo)</p>
+                  <p class="wp-caption-text margin-top-0">The winning app works with a school's existing camera systems, UHS network, and gunshot detection hardware to report gunshots within a school to first responders in real time. (File Photo)</p>
                   <!-- <p class="wp-caption-text">Hidden Signals Challenge Logo</p> -->
                 </div>
                 <p>Through this challenge, NIJ sought to encourage the development, use, and evaluation of UHS apps that are capable of improving criminal justice and public safety-service delivery efficiency and/or effectiveness; and to develop models for measuring and quantifying the specific impact of these apps. Contestants were required to submit a working prototype of the software and corresponding apps.</p>

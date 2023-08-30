@@ -22,7 +22,7 @@ title: Case Study - "Zapping Rachel"
                   <a href="{{ site.baseurl }}/assets/images/toolkit/case-studies/FTC-Robocall.jpg">
                     <img class="wp-image-9360" src="{{ site.baseurl }}/assets/images/toolkit/case-studies/FTC-Robocall.jpg" alt="Wave Energy Prize" sizes="(max-width: 450px) 100vw, 450px" width="450" height="270" />
                   </a>
-                  <p class="wp-caption-text mt-0">The FTC Robocall challenge logo. (Image courtesy of FTC)</p>
+                  <p class="wp-caption-text margin-top-0">The FTC Robocall challenge logo. (Image courtesy of FTC)</p>
                   <!-- <p class="wp-caption-text">Hidden Signals Challenge Logo</p> -->
                 </div>
                 <p>Following on the success of its first challenge in 2012, the FTC held its second robocall contest, Zapping Rachel, at DEF CON 22, one of the oldest conferences for information security experts.  Zapping Rachel's primary goal was to develop the next-generation robocall honeypot—information systems, or a collection of phone lines, that gather data on robocalls.  Robocall honeypots can enhance law enforcement efforts and advance technological solutions that combat robocalls, as well as further the general understanding of robocaller tactics.  In addition, the FTC hoped to gain new insights from information security experts, engage new partners from the technology community, stimulate the development of private-sector robocall solutions and raise public awareness of FTC goals.</p>

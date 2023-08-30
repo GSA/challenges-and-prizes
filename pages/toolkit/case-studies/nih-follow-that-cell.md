@@ -22,7 +22,7 @@ title: Case Study - Follow That Cell
                   <a href="{{ site.baseurl }}/assets/images/toolkit/case-studies/Follow-that-Cell-e1474484131732.jpg">
                     <img class="wp-image-9360" src="{{ site.baseurl }}/assets/images/toolkit/case-studies/Follow-that-Cell-e1474484131732.jpg" alt="Follow That Cell" sizes="(max-width: 450px) 100vw, 450px" width="450" height="269" />
                   </a>
-                  <p class="wp-caption-text mt-0">The Follow that Cell Phase 1 winners and finalists pose for a photograph. (Photo courtesy of NIH)</p>
+                  <p class="wp-caption-text margin-top-0">The Follow that Cell Phase 1 winners and finalists pose for a photograph. (Photo courtesy of NIH)</p>
                   <!-- <p class="wp-caption-text">Hidden Signals Challenge Logo</p> -->
                 </div>
                 <p>This challenge was structured in two linked phases. Phase 1, which required a written solution describing a novel method for analyzing dynamic states of individual cells that can serve as the basis for predicting alterations in cell behavior and function over time, was initiated on Aug. 15, 2014 with prize winners and finalists announced on March 16, 2015. Phase 1 prize winners and finalists were invited to attend the third annual Single Cell Analysis Investigators meeting on April 20-21, 2015, at which they presented posters on their theoretical solutions.</p>

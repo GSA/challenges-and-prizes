@@ -8,9 +8,9 @@ title: User Guide for Challenge Managers | Send Message
     <div class="grid-col-12">{% include cm-user-guide-intro.html %}</div>
   </div>
   <div class="grid-row grid-gap usa-typo">
-    <div class="grid-col-12 pt-10 pb-30 px-0">
+    <div class="grid-col-12 usa-padding-bottom-10 usa-padding-bottom-30 padding-x-0">
       <div class="bg-secondary-lighter text-center">
-        <h2 class="mb-0">Send Message</h2>
+        <h2 class="margin-bottom-0">Send Message</h2>
       </div>
     </div>
   </div>
@@ -24,7 +24,7 @@ title: User Guide for Challenge Managers | Send Message
         <li class="font-bolder"><span>Select a challenge from the <b>Select Your Challenge</b> dropdown.</span></li>
         <li class="font-bolder"><span>Click the radio button to indicate if you wish to send the message to “All members of this challenge” or an “Individual solver of this challenge”. Participants will not be able to see communications with other participants. Sending a message to multiple participants will start a separate message thread with each one.</span></li>
         <li class="font-bolder"><span>Click <b>New Message</b> at the bottom of the page If you selected “All members of this challenge”, skip to the next step. If you selected “Individual solver of this challenge”, follow the steps below to select which solver(s) you wish to message:
-          <ul class="mb-0">
+          <ul class="margin-bottom-0">
             <li>From the Submissions page, select the tab for the submission phase you wish to work with.</li>
             <li>Select the checkbox(es) next to the title(s) of the submission for the participant you want to message.</li>
             </ul>

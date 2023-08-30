@@ -8,9 +8,9 @@ title: User Guide for Challenge Managers | Logging In
     <div class="grid-col-12">{% include cm-user-guide-intro.html %}</div>
   </div>
   <div class="grid-row grid-gap usa-typo">
-    <div class="grid-col-12 pt-10 pb-30 px-0">
+    <div class="grid-col-12 usa-padding-bottom-10 usa-padding-bottom-30 padding-x-0">
       <div class="bg-secondary-lighter text-center">
-        <h2 class="mb-0">Logging In</h2>
+        <h2 class="margin-bottom-0">Logging In</h2>
       </div>
     </div>
   </div>
