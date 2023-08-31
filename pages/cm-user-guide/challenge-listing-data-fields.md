@@ -10,8 +10,7 @@ title: User Guide for Challenge Managers | Challenge Listing Data Fields
 </div>
 <div class="row">
   <div class="col-sm-7">
-    <p>This document details inputs needed to post your challenge on Challenge.Gov. 
-</p>
+    <p>This document details inputs needed to post your challenge on Challenge.Gov.</p>
     <h3>General Things to Note</h3>
     <ul>
       <li>All fields are required unless otherwise noted. You must complete all required fields before you can move to the next section.</li>
@@ -22,7 +21,7 @@ title: User Guide for Challenge Managers | Challenge Listing Data Fields
     
     <h3>Section 1: General Information</h3>
     <strong>Challenge managers</strong>
-The person who initially creates the challenge will automatically be listed as the challenge manager.  For Challenge.Gov team and system administration use only. This does not display on the public site. See the Add Challenge Managers page of the Challenge Manager User Guide to add additional challenge managers.</p><br>
+<p>The person who initially creates the challenge will automatically be listed as the challenge manager.  For Challenge.Gov team and system administration use only. This does not display on the public site. See the Add Challenge Managers page of the Challenge Manager User Guide to add additional challenge managers.</p><br>
 
 <strong>Challenge manager of record</strong>
 <p>Provide the name of the challenge manager.  For Challenge.Gov team use only. This does not display on the public site.</p><br>
@@ -75,11 +74,13 @@ The person who initially creates the challenge will automatically be listed as t
 <p>Provide time and date for when the challenge phase submission period will close. Use this format: MM/DD/YYYY TIME OF DAY (Example: 06/19/2020 05:00 PM).  Note: All times will be listed on the site in the user’s local time.</p><br>
 <strong>Challenge is open to submissions during this period (complete for phase 2 and beyond)</strong>
 <p>Check the box to indicate that submissions are open to all during this phase.  If the challenge is only open to select participants, leave the box unchecked.</p><br>
+<hr>
 <h3>Section 3: Timeline (optional)</h3>
 <strong>Timeline event title</strong>
 <p>If you have key dates you want reflected, please include them in your Description text. Consider including key dates for informational webinars, judging period, winner announcements, different phases, etc.</p><br>
 <strong>Date</strong>
-<p>Use this format: MM/DD/YYYY TIME OF DAY (Example: 06/19/2020 05:00 PM).</p><br>
+<p>Use this format: MM/DD/YYYY TIME OF DAY (Example: 06/19/2020 05:00 PM).</p>
+<hr>
 <h3>Section 4: Prizes</h3>
 <strong>Select prize award (select from list)</strong>
 <p>Select between offering a cash prize, a non-monetary prize, or both a cash prize and non-monetary prize.</p><br>
@@ -89,7 +90,8 @@ The person who initially creates the challenge will automatically be listed as t
 <p>Provide a description of the non-monetary prize award.</p><br>
 
 <strong>Prize description / breakdown (optional)</strong>
-<p>Provide the total cash prize pool, and the amounts and descriptions of individual cash prizes for your challenge.  If applicable, also provide a summary of any non-monetary incentives your challenge offers to participants.  Use the embedded text editor to format the field content.</p><br>
+<p>Provide the total cash prize pool, and the amounts and descriptions of individual cash prizes for your challenge.  If applicable, also provide a summary of any non-monetary incentives your challenge offers to participants.  Use the embedded text editor to format the field content.</p>
+<hr>
 <h3>Section 5: Rules</h3>
 <strong>Eligibility requirements</strong>
 <p>Provide the eligibility requirements for your challenge. Use the embedded text editor to format the field content.</p><br>
@@ -100,12 +102,14 @@ The person who initially creates the challenge will automatically be listed as t
 <strong>Legal authority</strong>
 <p>Select the legal authority under which you are running the challenge.  If the legal authority is not listed, select “other” and provide details in the Enter other legal authority name box.</p><br>
 <strong>Upload rules documents</strong>
-<p>Provide any files you wish to be included as an additional resource. All files must be 508 compliant. Allowed file types: .pdf, .txt, .csv, .jpg, .png, or .tiff.</p><br>
+<p>Provide any files you wish to be included as an additional resource. All files must be 508 compliant. Allowed file types: .pdf, .txt, .csv, .jpg, .png, or .tiff.</p>
+<hr>
 <h3>Section 6: Judging</h3>
 <strong>Judging criteria details (complete for each phase)</strong>
 <p>Provide any information you want potential solvers to know about the judging criteria and process. Provide a heading, description and weight (if applicable) for each criteria submissions will be evaluated by. You can provide a general summary of how submissions will be evaluated if you don’t have individual weighted criteria. Use the embedded text editor to format the field content.</p><br>
 <strong>Upload judging documents (optional)</strong>
-<p>Provide any files you wish to be included as an additional resource. All files must be 508 compliant. Allowed file types: .pdf, .txt, .csv, .jpg, .png, or .tiff.</p><br>
+<p>Provide any files you wish to be included as an additional resource. All files must be 508 compliant. Allowed file types: .pdf, .txt, .csv, .jpg, .png, or .tiff.</p>
+<hr>
 <h3>Section 7: How to Enter</h3>
 <strong>Entry details (complete for each phase)</strong>
 <p>Provide any specific instructions or entry guidelines potential solvers need to know, including any registration and submission requirements. Use the embedded text editor to format the field content.</p><br>
@@ -123,5 +127,4 @@ The person who initially creates the challenge will automatically be listed as t
 
   </div>
   <div class="col-sm-1">&nbsp;</div>
-  <div class="col-sm-4"> {% include cm-user-guide-nav.html %} </div>
 </div>
