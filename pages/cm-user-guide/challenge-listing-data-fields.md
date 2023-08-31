@@ -9,7 +9,7 @@ title: User Guide for Challenge Managers | Challenge Listing Data Fields
   </div>
 </div>
 <div class="row">
-  <div class="col-6">
+  <div class="col-sm-6">
     <p>This document details inputs needed to post your challenge on Challenge.Gov.</p>
     <h3>General Things to Note</h3>
     <ul>
@@ -134,7 +134,6 @@ title: User Guide for Challenge Managers | Challenge Listing Data Fields
 <p>Provide any files you wish to be included as an additional resource. Files will appear on the Resources tab of your challenge page. All files must be 508 compliant. Allowed file types: .pdf, .txt, .csv, .jpg, .png, or .tiff.</p>
 <strong>Upload FAQ documents (optional)</strong>
 <p>Provide any files you wish to be included as an additional resource. Files will appear on the FAQ tab of your challenge page. All files must be 508 compliant. Allowed file types: .pdf, .txt, .csv, .jpg, .png, or .tiff.</p>
-
   </div>
-  <div class="col-4">&nbsp;</div>
+  <div class="col-sm-4">&nbsp;</div>
 </div>
