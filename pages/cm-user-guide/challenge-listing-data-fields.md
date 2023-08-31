@@ -10,7 +10,7 @@ title: User Guide for Challenge Managers | Challenge Listing Data Fields
 </div>
 <div class="row">
   <div style="width: 80%;">
-   This document details inputs needed to post your challenge on Challenge.Gov.
+   This page details inputs needed to post your challenge on Challenge.Gov.
     <h3>General Things to Note</h3>
     <ul>
       <li>All fields are required unless otherwise noted. You must complete all required fields before you can move to the next section.</li>
