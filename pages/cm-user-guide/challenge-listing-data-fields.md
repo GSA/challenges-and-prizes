@@ -3,9 +3,6 @@ permalink: /cm-user-guide/challenge-listing-data-fields/
 layout: page
 title: User Guide for Challenge Managers | Challenge Listing Data Fields
 ---
-<div class="row">
-  <div class="col-sm-12">{% include cm-user-guide-intro.html %}</div>
-</div>
 <div class="row" style="padding-top: 10px; padding-bottom: 30px;">
   <div class="col-sm-12" style="padding-top: 6px; background-color: #005ea2; color: #ffffff; text-align: center;">
     <h2>Challenge Listing Data Fields</h2>
