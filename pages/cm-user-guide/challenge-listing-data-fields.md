@@ -22,14 +22,14 @@ title: User Guide for Challenge Managers | Challenge Listing Data Fields
     <h3>Section 1: General Information</h3>
     <hr>
     <strong>Challenge managers</strong>
-<p>The person who initially creates the challenge will automatically be listed as the challenge manager.  For Challenge.Gov team and system administration use only. This does not display on the public site. See the Add Challenge Managers page of the Challenge Manager User Guide to add additional challenge managers.</p><br>
+<p>The person who initially creates the challenge will automatically be listed as the challenge manager.  For Challenge.Gov team and system administration use only. This does not display on the public site. See the Add Challenge Managers page of the Challenge Manager User Guide to add additional challenge managers.</p>
 
 <strong>Challenge manager of record</strong>
 <p>Provide the name of the challenge manager.  For Challenge.Gov team use only. This does not display on the public site.</p><br>
 <strong>Challenge manager email</strong>
-<p>Provide an email address where the challenge manager can be contacted. For Challenge.Gov team use only. This does not display on the public site.</p><br>
+<p>Provide an email address where the challenge manager can be contacted. For Challenge.Gov team use only. This does not display on the public site.</p>
 <strong>Point of contact email</strong>
-<p>Provide an email address for participants and members of the public to use for questions about your challenge.  An email will be sent to this account when someone sends a message via the contact page of the challenge listing. This will not appear publicly. </p><br>
+<p>Provide an email address for participants and members of the public to use for questions about your challenge.  An email will be sent to this account when someone sends a message via the contact page of the challenge listing. This will not appear publicly. </p>
 <strong>Lead agency name</strong>
 <p>Select the name of the lead agency sponsoring the challenge.</p><br>
 <strong>Sub-agency name (optional)</strong>
