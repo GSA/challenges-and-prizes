@@ -20,6 +20,7 @@ title: User Guide for Challenge Managers | Challenge Listing Data Fields
     <hr>
     
     <h3>Section 1: General Information</h3>
+    <hr>
     <strong>Challenge managers</strong>
 <p>The person who initially creates the challenge will automatically be listed as the challenge manager.  For Challenge.Gov team and system administration use only. This does not display on the public site. See the Add Challenge Managers page of the Challenge Manager User Guide to add additional challenge managers.</p><br>
 
@@ -38,8 +39,10 @@ title: User Guide for Challenge Managers | Challenge Listing Data Fields
 <strong>Non federal partners (optional)</strong>
 <p>Fill in any non-federal partners you have for the challenge.</p><br>
 <strong>Fiscal year</strong>
-<p>Provide the fiscal year(s) during which your challenge is being run (launched, ongoing, completed). This must be in the format FY[YY]-FY[YY]</p><br>
+<p>Provide the fiscal year(s) during which your challenge is being run (launched, ongoing, completed). This must be in the format FY[YY]-FY[YY]</p>
+<hr>
 <h3>Section 2: Details</h3>
+<hr>
 <strong>Challenge title (90 character limit)</strong>
 <p>Provide the official title of your challenge. The challenge title will appear at the top of your individual challenge page, and on the challenge tile on the Challenge.Gov homepage.</p><br>
 <strong>Tagline (90 character limit)</strong>
@@ -76,12 +79,14 @@ title: User Guide for Challenge Managers | Challenge Listing Data Fields
 <p>Check the box to indicate that submissions are open to all during this phase.  If the challenge is only open to select participants, leave the box unchecked.</p><br>
 <hr>
 <h3>Section 3: Timeline (optional)</h3>
+<hr>
 <strong>Timeline event title</strong>
 <p>If you have key dates you want reflected, please include them in your Description text. Consider including key dates for informational webinars, judging period, winner announcements, different phases, etc.</p><br>
 <strong>Date</strong>
 <p>Use this format: MM/DD/YYYY TIME OF DAY (Example: 06/19/2020 05:00 PM).</p>
 <hr>
 <h3>Section 4: Prizes</h3>
+<hr>
 <strong>Select prize award (select from list)</strong>
 <p>Select between offering a cash prize, a non-monetary prize, or both a cash prize and non-monetary prize.</p><br>
 <strong>Total prize offered cash</strong>
@@ -93,6 +98,7 @@ title: User Guide for Challenge Managers | Challenge Listing Data Fields
 <p>Provide the total cash prize pool, and the amounts and descriptions of individual cash prizes for your challenge.  If applicable, also provide a summary of any non-monetary incentives your challenge offers to participants.  Use the embedded text editor to format the field content.</p>
 <hr>
 <h3>Section 5: Rules</h3>
+<hr>
 <strong>Eligibility requirements</strong>
 <p>Provide the eligibility requirements for your challenge. Use the embedded text editor to format the field content.</p><br>
 <strong>Rules</strong>
@@ -105,17 +111,21 @@ title: User Guide for Challenge Managers | Challenge Listing Data Fields
 <p>Provide any files you wish to be included as an additional resource. All files must be 508 compliant. Allowed file types: .pdf, .txt, .csv, .jpg, .png, or .tiff.</p>
 <hr>
 <h3>Section 6: Judging</h3>
+<hr>
 <strong>Judging criteria details (complete for each phase)</strong>
 <p>Provide any information you want potential solvers to know about the judging criteria and process. Provide a heading, description and weight (if applicable) for each criteria submissions will be evaluated by. You can provide a general summary of how submissions will be evaluated if you don’t have individual weighted criteria. Use the embedded text editor to format the field content.</p><br>
 <strong>Upload judging documents (optional)</strong>
 <p>Provide any files you wish to be included as an additional resource. All files must be 508 compliant. Allowed file types: .pdf, .txt, .csv, .jpg, .png, or .tiff.</p>
 <hr>
 <h3>Section 7: How to Enter</h3>
+<hr>
 <strong>Entry details (complete for each phase)</strong>
 <p>Provide any specific instructions or entry guidelines potential solvers need to know, including any registration and submission requirements. Use the embedded text editor to format the field content.</p><br>
 <strong>External submission site - Enter external website link (optional)</strong>
-<p>Enter a website link here if you’re collecting submissions via an external website. If collecting submissions via the Challenge.Gov platform, leave this field blank.</p><br>
+<p>Enter a website link here if you’re collecting submissions via an external website. If collecting submissions via the Challenge.Gov platform, leave this field blank.</p>
+<hr>
 <h3>Section 8: Resources</h3>
+<hr>
 <strong>Frequently asked questions (FAQ) (optional)</strong>
 <p>Provide a general summary of any information you want your solvers to know about the challenge. Use the embedded text editor to format the field content.  Content entered here will appear on the FAQ tab of your challenge page.</p><br>
 <strong>Upload image (optional)</strong>
