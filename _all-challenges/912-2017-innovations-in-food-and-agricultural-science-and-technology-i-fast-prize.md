@@ -64,7 +64,7 @@ description: <div class="description">
     <p><strong>FOR FURTHER INFORMATION CONTACT:</strong> Changes or updates to the Competition rules will be posted and can be viewed at <a href="http://www.nifa.usda.gov" target="_blank" rel="noopener">www.nifa.usda.gov</a>. Questions about the Competition can be directed to Scott Dockum or Olivia Moreno at <a href="mailto:sdockum@nifa.usda.gov" target="_blank" rel="noopener">contest@nifa.usda.gov</a>, or phone 202-720-6346.</p>
     </div>
 prizes: <div class="prize-item">
-          <h4 class="text-primary">2017 Innovations in Food and Agricultural Science and Technology (I-FAST) Prize Competition</h4>
+          <h4 class="usa-text-primary">2017 Innovations in Food and Agricultural Science and Technology (I-FAST) Prize Competition</h4>
               <div class="description">
             <p>Amount of the Prize:&nbsp; The USDA NIFA I-FAST Competition Prize Purse will be a maximum of $400,000, which will be divided to provide $50,000 each to a maximum of eight (8) Teams. Prize Purse funds are required to be used by winning Teams to fully participate in the NSF I-Corps program curriculum. </p>
             <p>USDA NIFA reserves the right to award less than the maximum number of available prizes.</p>
@@ -196,7 +196,7 @@ how-to-enter: <div class="howtoenter">
   
 
   <div class="prize-item">
-          <h4 class="text-primary">2017 Innovations in Food and Agricultural Science and Technology (I-FAST) Prize Competition</h4>
+          <h4 class="usa-text-primary">2017 Innovations in Food and Agricultural Science and Technology (I-FAST) Prize Competition</h4>
               <div class="description">
             <p>Amount of the Prize: The USDA NIFA I-FAST Competition Prize Purse will be a maximum of $400,000, which will be divided to provide $50,000 each to a maximum of eight (8) Teams. Prize Purse funds are required to be used by winning Teams to fully participate in the NSF I-Corps program curriculum. </p>
             <p>USDA NIFA reserves the right to award less than the maximum number of available prizes.</p>
