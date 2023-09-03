@@ -73,7 +73,7 @@ submission-link: scientific
 
 
 <div class="prize-item">
-        <h4 class="text-primary">Centennial Challenges Vascular Tissue Challenge</h4>
+        <h4 class="usa-text-primary">Centennial Challenges Vascular Tissue Challenge</h4>
                           <p class="prize"><strong>$500,000</strong></p>
                           <div class="description">
             $300,000 first prize; two $100,000 runners-up prizes may be awarded
