@@ -9,7 +9,8 @@ title: Resources for Federal Challenge Managers
     <div class="usa-card">
       <div class="usa-card__body text-center">
         <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="cm-faq" role="img">
-          <title id="cm-faq">ChallengeGov challenge manage frequently asked questions</title>        <use xlink:href="/assets/img/sprite.svg#help"></use>
+          <title id="cm-faq">ChallengeGov challenge manage frequently asked questions</title>        
+          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#help"></use>
         </svg>
       </svg>
       <h2 class="usa-card__heading">FAQs</h2>
@@ -24,7 +25,8 @@ title: Resources for Federal Challenge Managers
   <div class="usa-card">
     <div class="usa-card__body text-center">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="cm-user-duide" role="img">
-        <title id="cm-user-guide">ChallengeGov challenge manager user guide</title>        <use xlink:href="/assets/img/sprite.svg#local_library"></use>
+        <title id="cm-user-guide">ChallengeGov challenge manager user guide</title>        
+        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#local_library"></use>
       </svg>
     </svg>
     <h2 class="usa-card__heading">User Guide</h2>
@@ -41,7 +43,8 @@ title: Resources for Federal Challenge Managers
     <div class="usa-card">
       <div class="usa-card__body text-center">
         <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="cm-need-help" role="img">
-          <title id="cm-need-help">ChallengeGov challenge manager help resources</title>        <use xlink:href="/assets/img/sprite.svg#support"></use>
+          <title id="cm-need-help">ChallengeGov challenge manager help resources</title>        
+          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#support"></use>
         </svg>
       </svg>
       <h2 class="usa-card__heading">Need Help?</h2>
@@ -56,7 +59,8 @@ title: Resources for Federal Challenge Managers
   <div class="usa-card">
     <div class="usa-card__body text-center">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="community" role="img">
-        <title id="community">ChallengeGov challenge manager community resources</title>        <use xlink:href="/assets/img/sprite.svg#people"></use>
+        <title id="community">ChallengeGov challenge manager community resources</title>        
+        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#people"></use>
       </svg>
     </svg>
     <h2 class="usa-card__heading">Community</h2>
@@ -73,7 +77,8 @@ title: Resources for Federal Challenge Managers
     <div class="usa-card">
       <div class="usa-card__body text-center">
         <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="cm-newsletter" role="img">
-          <title id="cm-newsletter">ChallengeGov challenge manager newsletter</title>        <use xlink:href="/assets/img/sprite.svg#mail"></use>
+          <title id="cm-newsletter">ChallengeGov challenge manager newsletter</title>        
+          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#mail"></use>
         </svg>
       </svg>
       <h2 class="usa-card__heading">Stay Informed</h2>
@@ -88,7 +93,8 @@ title: Resources for Federal Challenge Managers
   <div class="usa-card">
     <div class="usa-card__body text-center">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="toolkit" role="img">
-        <title id="toolkit">ChallengeGov challenge manager toolkit</title>        <use xlink:href="/assets/img/sprite.svg#construction"></use>
+        <title id="toolkit">ChallengeGov challenge manager toolkit</title>        
+        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#construction"></use>
       </svg>
     </svg>
     <h2 class="usa-card__heading">Toolkit</h2>
@@ -105,7 +111,8 @@ title: Resources for Federal Challenge Managers
     <div class="usa-card">
       <div class="usa-card__body text-center">
         <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="cm-useful-links" role="img">
-          <title id="cm-useful-links">ChallengeGov challenge manager useful links</title>        <use xlink:href="/assets/img/sprite.svg#construction"></use>
+          <title id="cm-useful-links">ChallengeGov challenge manager useful links</title>        
+          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#construction"></use>
         </svg>
       </svg>
       <h2 class="usa-card__heading">Useful Links</h2>
@@ -120,7 +127,7 @@ title: Resources for Federal Challenge Managers
   <div class="usa-card">
     <div class="usa-card__body text-center">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use xlink:href="/assets/img/sprite.svg#topic"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#topic"></use>
       </svg>
       <h2 class="usa-card__heading">Case Studies</h2>
       <p class="usa-card__text">Highlights of some of the best challenges to come out of the federal government.</p>
