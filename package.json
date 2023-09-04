@@ -4,7 +4,7 @@
   "description": "Challenges and Prizes",
   "main": "src/js/app.js",
   "scripts": {
-    "build": "npm update --save; npm install; npm run build:uswds; npm run build:js; npm run build:jekyll",
+    "build": "npm cache clean --force; npm install; npm run build:uswds; npm run build:js; npm run build:jekyll",
     "build:jekyll": "bundle exec jekyll build",
     "build:js": "mkdir -p assets/js; cp -R src/js/* assets/js/",
     "build:uswds": "npm run build:uswds:assets; npm run build:uswds:sass",
