@@ -4,7 +4,7 @@
   "description": "Challenges and Prizes",
   "main": "src/js/app.js",
   "scripts": {
-    "build": "npm cache clean --force; npm install; npm run build:uswds; npm run build:js; npm run build:jekyll",
+    "build": "npm run build:uswds; npm run build:js; npm run build:jekyll",
     "build:jekyll": "bundle exec jekyll build",
     "build:js": "mkdir -p assets/js; cp -R src/js/* assets/js/",
     "build:uswds": "npm run build:uswds:assets; npm run build:uswds:sass",
@@ -12,7 +12,7 @@
     "build:uswds:sass": "mkdir -p _sass/uswds; cp -R node_modules/uswds/dist/scss/* _sass/uswds/",
     "clean": "rm -rf assets/uswds; rm -rf _sass/uswds; rm -rf _site",
     "federalist": "npm run build:uswds; npm run build:js",
-    "start": "bundle exec jekyll serve",
+    "start": "npm update --save; bundle exec jekyll serve",
     "dev": "JEKYLL_ENV=dev bundle exec jekyll serve --incremental --host 0.0.0.0 --port 4001",
     "test": "snyk test && bundle exec htmlproofer _site && npm test-pa11y",
     "test-pa11y": "./node_modules/.bin/pa11y-ci --config .pa11yci --sitemap https://www.challenge.gov/sitemap.xml --sitemap-find https://www.challenge.gov --sitemap-replace localhost:4000"
