@@ -16,7 +16,7 @@ title: Events
       <div class="usa-card">
         <div class="usa-card__body text-center">
           <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
-            <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="/assets/img/sprite.svg#calendar_today"></use>
+            <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
           </svg>
         </svg>
         <h4>Stay tuned for more Challenge.Gov events coming soon.</h4>
@@ -30,7 +30,7 @@ title: Events
     <div class="usa-card">
       <div class="usa-card__body text-center"> 
         <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="past-events" role="img">
-          <title id="past-events">past events</title>        <use xlink:href="/assets/img/sprite.svg#calendar_today"></use>
+          <title id="past-events">past events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
         </svg>
       </svg>
       <h2 class="usa-card__heading" style="font-weight: 900;">August 15, 2023</h2>
@@ -45,7 +45,7 @@ title: Events
   <div class="usa-card">
     <div class="usa-card__body text-center">           
       <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="past-events" role="img">
-        <title id="past-events">past events</title>        <use xlink:href="/assets/img/sprite.svg#calendar_today"></use>
+        <title id="past-events">past events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
       </svg>
     </svg>
     <h2 class="usa-card__heading" style="font-weight: 900;">August 8, 2023</h2>
@@ -56,7 +56,7 @@ title: Events
 <div class="usa-card">
   <div class="usa-card__body text-center">
     <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="past-events" role="img">
-      <title id="past-events">past events</title>        <use xlink:href="/assets/img/sprite.svg#calendar_today"></use>
+      <title id="past-events">past events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
     </svg>
   </svg>
   <h2 class="usa-card__heading" style="font-weight: 900;">May 31, 2023</h2>
@@ -68,7 +68,7 @@ title: Events
 <div class="usa-card">
   <div class="usa-card__body text-center"> 
     <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="past-events" role="img">
-      <title id="past-events">past events</title>        <use xlink:href="/assets/img/sprite.svg#calendar_today"></use>
+      <title id="past-events">past events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
     </svg>
   </svg>
   <h2 class="usa-card__heading" style="font-weight: 900;">May 5, 2023</h2>
@@ -79,7 +79,7 @@ title: Events
 <div class="usa-card">
   <div class="usa-card__body text-center"> 
     <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="past-events" role="img">
-      <title id="past-events">past events</title>        <use xlink:href="/assets/img/sprite.svg#calendar_today"></use>
+      <title id="past-events">past events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
     </svg>
   </svg>
   <h2 class="usa-card__heading" style="font-weight: 900;">May 4, 2023</h2>
@@ -90,7 +90,7 @@ title: Events
 <div class="usa-card">
   <div class="usa-card__body text-center"> 
     <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="past-events" role="img">
-      <title id="past-events">past events</title>        <use xlink:href="/assets/img/sprite.svg#calendar_today"></use>
+      <title id="past-events">past events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
     </svg>
   </svg>
   <h2 class="usa-card__heading" style="font-weight: 900;">May 2, 2023</h2>
@@ -102,7 +102,7 @@ title: Events
 <div class="usa-card">
   <div class="usa-card__body text-center"> 
     <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="past-events" role="img">
-      <title id="past-events">past events</title>        <use xlink:href="/assets/img/sprite.svg#calendar_today"></use>
+      <title id="past-events">past events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
     </svg>
   </svg>
   <h2 class="usa-card__heading" style="font-weight: 900;">March 16, 2023</h2>
