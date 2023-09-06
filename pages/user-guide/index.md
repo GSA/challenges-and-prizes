@@ -247,7 +247,7 @@ title: User Guide for Public Solvers
   <div class="usa-card">
     <div class="usa-card__body text-center">  <a href="{{ site.baseurl }}/user-guide/message-center-features/" style="text-decoration: none !important;">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="more-features" role="img">
-        <title id="more-features">ChallengeGov user guide more features</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#forum"></use>
+        <title id="more-features">ChallengeGov user guide more features</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#more_horiz"></use>
       </svg>
     </svg>
     <h4 class="usa-card__heading text-center">More message center features</h4>
