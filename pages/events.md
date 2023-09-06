@@ -18,7 +18,8 @@ title: Events
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
           </svg>
         </svg>
-        <h4>Stay tuned for more Challenge.Gov events coming soon.</h4>
+        <!-- <h4>Stay tuned for more Challenge.Gov events coming soon.</h4> -->
+        <h2 class="usa-card__heading" style="font-weight: 900;">Come back soon for more Challenge.Gov events</h2>
       </div>
     </div>      
   </div> 
