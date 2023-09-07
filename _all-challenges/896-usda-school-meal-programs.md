@@ -35,7 +35,7 @@ description: <div class="description">
     <p>The challenge is structured as a contest to maximize engagement and help uncover the most effective solutions. A panel of distinguished judges will review participant submissions on criteria that include proven success, cost effectiveness, practicality, and creativity. USDA will feature submissions recognized in several categories at this summer’s School Nutrition Association Annual National Conference in Atlanta. </p>
     </div>
 prizes: <div class="prize-item">
-    <h4 class="usa-text-primary">Potential Game Changer</h4>
+    <h4 class="text-primary">Potential Game Changer</h4>
     <div class="description">
     <p>Judges will select up to three solutions for recognition as "Potential Game Changers," the contest’s top award.  Winners are listed in alphabetical order by school district name.</p>
     <p><em>Winners:&nbsp; </em></p>
@@ -55,7 +55,7 @@ prizes: <div class="prize-item">
     </div>      
 
     <div class="prize-item">
-    <h4 class="usa-text-primary">Popular Choice</h4>
+    <h4 class="text-primary">Popular Choice</h4>
     <div class="description">
     <p>The solution that receives the highest average rating from among the five entries with the greatest number of votes received will be recognized as the "Popular Choice."</p>
     <p><em>Winner:</em></p>
@@ -67,7 +67,7 @@ prizes: <div class="prize-item">
     </div>
 
     <div class="prize-item">
-    <h4 class="usa-text-primary">Best Documented</h4>
+    <h4 class="text-primary">Best Documented</h4>
     <div class="description">
     <p>Judges may select a solution based on the strength of evidence given in support of its impact on household response rates.</p>
     <p><em>Winner:</em></p>
@@ -79,7 +79,7 @@ prizes: <div class="prize-item">
     </div>  
 
     <div class="prize-item">
-    <h4 class="usa-text-primary">Honorable Mention</h4>
+    <h4 class="text-primary">Honorable Mention</h4>
     <div class="description">
     <p>Judges may select up to two solutions not recognized in another category for "Honorable Mention" based on the same criteria used to select the "Potential Game Changers."</p>
     <p><em>Winners:</em></p>
@@ -175,19 +175,19 @@ rules: <div class="description">
 judging: <div class="judging-criterias">
     <div class="prize-item">
         <h4>Demonstrated Effectiveness
-    - <strong class="usa-text-primary">35%</strong>
+    - <strong class="text-primary">35%</strong>
     </h4>
         <p>Judges will award up to 35 points for the strength of evidence provided in support of the solution’s impact on household response. Evidence might include documented changes in response rates after the district implemented its solution. Because response rates are so closely associated with sample size, an increase in household response in the absence of a reduction in sample size is the strongest evidence of effectiveness.</p>
     </div>
     <div class="prize-item">
         <h4>Research and Creativity
-    - <strong class="usa-text-primary">35%</strong>
+    - <strong class="text-primary">35%</strong>
     </h4>
         <p>Judges will award up to 35 points for solutions that make effective use of independent research and creativity. Solutions that reveal new insight into the barriers to household response, and offer creative approaches to overcome those barriers, will receive the most points in this category.</p>
     </div>
     <div class="prize-item">
         <h4>Presentation, Clarity, and Persuasiveness
-    - <strong class="usa-text-primary">30%</strong>
+    - <strong class="text-primary">30%</strong>
     </h4>
         <p>Judges will award up to 30 points for presentation, clarity, and persuasiveness. Some solutions may be untested. In other cases, the impact on household response may be difficult to prove. One goal of this challenge is to begin a discussion to generate new ideas or refine existing approaches. Participants advance that goal with well-written solutions that make a persuasive case for their adoption.</p>
     </div>
@@ -246,7 +246,7 @@ how-to-enter: <div class="challenge-enter">
 
 
 <div class="prize-item">
-<h4 class="usa-text-primary">Potential Game Changer</h4>
+<h4 class="text-primary">Potential Game Changer</h4>
 <div class="description">
 <p>Judges will select up to three solutions for recognition as "Potential Game Changers," the contest’s top award.  Winners are listed in alphabetical order by school district name.</p>
 <p><em>Winners: </em></p>
@@ -266,7 +266,7 @@ how-to-enter: <div class="challenge-enter">
 </div>      
 
 <div class="prize-item">
-<h4 class="usa-text-primary">Popular Choice</h4>
+<h4 class="text-primary">Popular Choice</h4>
 <div class="description">
 <p>The solution that receives the highest average rating from among the five entries with the greatest number of votes received will be recognized as the "Popular Choice."</p>
 <p><em>Winner:</em></p>
@@ -278,7 +278,7 @@ how-to-enter: <div class="challenge-enter">
 </div>
 
 <div class="prize-item">
-<h4 class="usa-text-primary">Best Documented</h4>
+<h4 class="text-primary">Best Documented</h4>
 <div class="description">
 <p>Judges may select a solution based on the strength of evidence given in support of its impact on household response rates.</p>
 <p><em>Winner:</em></p>
@@ -290,7 +290,7 @@ how-to-enter: <div class="challenge-enter">
 </div>  
 
 <div class="prize-item">
-<h4 class="usa-text-primary">Honorable Mention</h4>
+<h4 class="text-primary">Honorable Mention</h4>
 <div class="description">
 <p>Judges may select up to two solutions not recognized in another category for "Honorable Mention" based on the same criteria used to select the "Potential Game Changers."</p>
 <p><em>Winners:</em></p>
@@ -396,19 +396,19 @@ how-to-enter: <div class="challenge-enter">
 <div class="judging-criterias">
 <div class="prize-item">
       <h4>Demonstrated Effectiveness
-  - <strong class="usa-text-primary">35%</strong>
+  - <strong class="text-primary">35%</strong>
 </h4>
     <p>Judges will award up to 35 points for the strength of evidence provided in support of the solution’s impact on household response. Evidence might include documented changes in response rates after the district implemented its solution. Because response rates are so closely associated with sample size, an increase in household response in the absence of a reduction in sample size is the strongest evidence of effectiveness.</p>
 </div>
 <div class="prize-item">
       <h4>Research and Creativity
-  - <strong class="usa-text-primary">35%</strong>
+  - <strong class="text-primary">35%</strong>
 </h4>
     <p>Judges will award up to 35 points for solutions that make effective use of independent research and creativity. Solutions that reveal new insight into the barriers to household response, and offer creative approaches to overcome those barriers, will receive the most points in this category.</p>
 </div>
 <div class="prize-item">
       <h4>Presentation, Clarity, and Persuasiveness
-  - <strong class="usa-text-primary">30%</strong>
+  - <strong class="text-primary">30%</strong>
 </h4>
     <p>Judges will award up to 30 points for presentation, clarity, and persuasiveness. Some solutions may be untested. In other cases, the impact on household response may be difficult to prove. One goal of this challenge is to begin a discussion to generate new ideas or refine existing approaches. Participants advance that goal with well-written solutions that make a persuasive case for their adoption.</p>
 </div>

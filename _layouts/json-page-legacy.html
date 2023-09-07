@@ -7,9 +7,9 @@ layout: default
         {% include sidenav-json-page.html %}
         <div class="desktop:grid-col-9 usa-prose usa-section"> 
             {% include alert-banner-closed-challenge.html %}
-            <h1 class="usa-text-primary-dark">{{ page.challenge-title }}</h1>
+            <h1 class="text-primary-dark">{{ page.challenge-title }}</h1>
             {% if page.tagline != "" %}
-            <h3 class="usa-text-primary">{{ page.tagline }}</h3>
+            <h3 class="text-primary">{{ page.tagline }}</h3>
             {% endif %}  
             <h4 class="text-base-dark  desktop-only-display">{{ page.groupName }}</h4> 
             <!-- Start Accordian -->
@@ -20,19 +20,19 @@ layout: default
                 <div id="a1" class="usa-accordion__content bg-gray-5">
                     <div class="text-base-darker">
                             {% if page.total-prize-offered-cash != "" %}
-                            <i class="fas fa-money-bill-wave text-accent-warm-dark font-size-mono-xl"></i><span class="usa-text-primary text-uppercase"> Total Cash Prizes Offered: </span> {{ page.total-prize-offered-cash }}<br>
+                            <i class="fas fa-money-bill-wave text-accent-warm-dark font-size-mono-xl"></i><span class="text-primary text-uppercase"> Total Cash Prizes Offered: </span> {{ page.total-prize-offered-cash }}<br>
                             {% endif %}
-                            <i class="fas fa-stream text-accent-warm-dark"></i><span class="usa-text-primary text-uppercase"> Type of Challenge:</span>  {{ page.type-of-challenge }}</span><br>
+                            <i class="fas fa-stream text-accent-warm-dark"></i><span class="text-primary text-uppercase"> Type of Challenge:</span>  {{ page.type-of-challenge }}</span><br>
                             {% if page.partner-agencies-federal != "" %}
-                            <i class="fas fa-university text-accent-warm-dark font-size-mono-xl"></i><span class="usa-text-primary text-uppercase"> Partner Agencies | Federal:</span> {{ page.partner-agencies-federal }}<br>
+                            <i class="fas fa-university text-accent-warm-dark font-size-mono-xl"></i><span class="text-primary text-uppercase"> Partner Agencies | Federal:</span> {{ page.partner-agencies-federal }}<br>
                             {% endif %}
                             {% if page.partner-agencies-non-federal != "" %}
-                            <i class="fas fa-building text-accent-warm-dark"></i><span class="usa-text-primary text-uppercase">  Partner Agencies | Non-federal:</span> {{ page.partner-agencies-non-federal }}<br>
+                            <i class="fas fa-building text-accent-warm-dark"></i><span class="text-primary text-uppercase">  Partner Agencies | Non-federal:</span> {{ page.partner-agencies-non-federal }}<br>
                             {% endif %}
                             {% if page.submission-start != "" %}
-                            <i class="fas fa-calendar-alt text-accent-warm-dark"></i><span class="usa-text-primary text-uppercase">  Submission Start:</span> {{ page.submission-start }} ET<br>
+                            <i class="fas fa-calendar-alt text-accent-warm-dark"></i><span class="text-primary text-uppercase">  Submission Start:</span> {{ page.submission-start }} ET<br>
                             {% endif %}
-                            <i class="fas fa-calendar-times text-accent-warm-dark"></i><span class="usa-text-primary text-uppercase">  Submission End:</span> {{ page.submission-end }} ET
+                            <i class="fas fa-calendar-times text-accent-warm-dark"></i><span class="text-primary text-uppercase">  Submission End:</span> {{ page.submission-end }} ET
                     </div>
               
                 </div>

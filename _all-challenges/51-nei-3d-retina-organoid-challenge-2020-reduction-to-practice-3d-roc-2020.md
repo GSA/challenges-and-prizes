@@ -69,11 +69,11 @@ description: <div class="description"> <p>The National Eye Institute (NEI), part
   yield, and maturity/differentiation of all cell types in appropriate numbers
   and ratio.</li> <li>Potential impact on understanding the biology of the
   retina.</li> </ul> </div>
-prizes: <div class="prize-item"> <h4 class="usa-text-primary">NEI 3-D ROC 2020 -
+prizes: <div class="prize-item"> <h4 class="text-primary">NEI 3-D ROC 2020 -
   winners phase 1</h4> <p class="prize"><strong>$600,000</strong></p> <div
   class="description"><p>Up to 6 winners will be awarded up to $100,000 each at
   Phase 1.</p> </div> </div> <div class="prize-item"> <h4
-  class="usa-text-primary">NEI 3-D ROC 2020 - winners phase 2</h4> <p
+  class="text-primary">NEI 3-D ROC 2020 - winners phase 2</h4> <p
   class="prize"><strong>$400,000</strong></p> <div class="description"><p>Phase
   2 will have up to 3 winners and the prize purse will total $400,000 plus any
   Phase 1 prize money that was not awarded for Phase 1.</p> </div> </div>
@@ -95,7 +95,7 @@ rules: <div class="rules"> <p>All details related to rules and eligibility are
   solutions on Challenge.gov</li> </ul> </div>
 judging: <div class="judging-criterias"> <div class="prize-item"> <h4>Evaluation
   Criterion 1. Impact and Innovation (20 points) - <strong
-  class="usa-text-primary">20%</strong> </h4> <p>Solutions will be evaluated for
+  class="text-primary">20%</strong> </h4> <p>Solutions will be evaluated for
   creativity and originality of designs. An innovative approach may be novel,
   groundbreaking, or paradigm-shifting, or a creative application of existing
   approaches. For Phase 1 submissions, the approach should also be feasible;
@@ -116,7 +116,7 @@ judging: <div class="judging-criterias"> <div class="prize-item"> <h4>Evaluation
   approaches, methodologies, technologies or instrumentation used, or are
   existing approaches applied in a novel&nbsp;way?</li> </ul> </div> <div
   class="prize-item"> <h4>Evaluation Criterion 2. Cell Types, Structure, and
-  Function (25 points) - <strong class="usa-text-primary">25%</strong> </h4>
+  Function (25 points) - <strong class="text-primary">25%</strong> </h4>
   Solutions will be evaluated for establishment of a human PSC-derived in vitro
   retina model system that resembles the morphology of a healthy-native retina
   and is viable through formation of photoreceptor outer segments and/or
@@ -142,7 +142,7 @@ judging: <div class="judging-criterias"> <div class="prize-item"> <h4>Evaluation
   communication, functional connectivity, fluid transport in RPE, etc.? </div>
   <div class="prize-item"> <h4>Evaluation Criterion 3. Reproducibility, Quality
   Control, and Standardization (25 points) - <strong
-  class="usa-text-primary">25%</strong> </h4> Assessment of inter/intra-laboratory
+  class="text-primary">25%</strong> </h4> Assessment of inter/intra-laboratory
   utility, transferability, and reproducibility, with conclusive evidence that
   organoid prototype is based on a reproducible protocol and the protocol
   produces a relatively standardized product. Reproducibility:&nbsp;To what
@@ -160,7 +160,7 @@ judging: <div class="judging-criterias"> <div class="prize-item"> <h4>Evaluation
   transferability to industry partners (MOUs, licensing, CRADA, in-kind or
   discounted validation) presented? </div> <div class="prize-item">
   <h4>Evaluation Criterion 4. Endpoint Assay Specific Goals (30 points for
-  EITHER category) - <strong class="usa-text-primary">30%</strong> </h4>
+  EITHER category) - <strong class="text-primary">30%</strong> </h4>
   BIOLOGY/DISEASE MODELING (note:&nbsp;NEI is agnostic to which disease is
   chosen, as long as technology is developed to robustly recapitulate the
   disease):&nbsp;Does the organoid prototype demonstrate improvement in faithful
@@ -223,13 +223,13 @@ submission-link: null
 ### Prizes
 
 <div class="prize-item">
-<h4 class="usa-text-primary">NEI 3-D ROC 2020 - winners phase 1</h4>
+<h4 class="text-primary">NEI 3-D ROC 2020 - winners phase 1</h4>
 <p class="prize"><strong>$600,000</strong></p>
 <div class="description"><p>Up to 6 winners will be awarded up to $100,000 each at Phase 1.</p>
 </div>
 </div>
 <div class="prize-item">
-<h4 class="usa-text-primary">NEI 3-D ROC 2020 - winners phase 2</h4>
+<h4 class="text-primary">NEI 3-D ROC 2020 - winners phase 2</h4>
 <p class="prize"><strong>$400,000</strong></p>
 <div class="description"><p>Phase 2 will have up to 3 winners and the prize purse will total $400,000 plus any Phase 1 prize money that was not awarded for Phase 1.</p>
 </div>
@@ -265,7 +265,7 @@ submission-link: null
 <div class="judging-criterias">
 <div class="prize-item">
   <h4>Evaluation Criterion 1. Impact and Innovation (20 points)
-- <strong class="usa-text-primary">20%</strong>
+- <strong class="text-primary">20%</strong>
 </h4>
 <p>Solutions will be evaluated for creativity and originality of designs. An innovative approach may be novel, groundbreaking, or paradigm-shifting, or a creative application of existing approaches. For Phase 1 submissions, the approach should also be feasible; i.e., have a high likelihood to succeed in meeting or exceeding the scientific evaluation criteria NEI has defined. Overall, the solution should provide a novel solution to building a 3-D human retina that meets the desired scientific criteria (structure, function, morphology). Reviewers will be asked to specifically&nbsp;address:</p>
 <ul type="disc">
@@ -277,19 +277,19 @@ submission-link: null
 </div>
 <div class="prize-item">
   <h4>Evaluation Criterion 2. Cell Types, Structure, and Function (25 points)
-- <strong class="usa-text-primary">25%</strong>
+- <strong class="text-primary">25%</strong>
 </h4>
 Solutions will be evaluated for establishment of a human PSC-derived in vitro retina model system that resembles the morphology of a healthy-native retina and is viable through formation of photoreceptor outer segments and/or long-term survival of retinal ganglion cells with extension of axonal processes. Reviewers will be asked to address: Cell Types:  How many neuronal (or neuronal derived) cell types are stably co-cultured (rod and cone photoreceptors, bipolar cells, ganglion cells, horizontal cells, and amacrine cells, Muller glia)? Are long-term viable and functional RPE, choroid or non-neuronal cell types (e.g., pericytes, microglia, astrocytes) incorporated? To what extent does the evidence presented show presence of cell types and 3-dimensional structure. If a cell type is lacking, is there justification for why it is not present and not needed for proof of principle (i.e. the disease being modelled lacks the specific cell type)?  Structure: Are organoid prototypes 3-dimensional and properly oriented? To what extent do the synaptic layers recapitulate those of a laminated retina with multiple neuron classes present in numbers and proportions that represent an in vivo setting (as indicated by biomarkers of lineage and differentiation)? How many other retina and retina-relevant tissues, cells, or structures are included?  Functional characterization of cell types: Are all cell types in the organoid (or added to the organoid) functional through the latest viable timepoint as shown by appropriate analyses, including electrophysiology (e.g., light response and recovery for subsequent responses, etc.), retinoid recycling, cell communication, functional connectivity, fluid transport in RPE, etc.?
 </div>
 <div class="prize-item">
   <h4>Evaluation Criterion 3. Reproducibility, Quality Control, and Standardization (25 points)
-- <strong class="usa-text-primary">25%</strong>
+- <strong class="text-primary">25%</strong>
 </h4>
 Assessment of inter/intra-laboratory utility, transferability, and reproducibility, with conclusive evidence that organoid prototype is based on a reproducible protocol and the protocol produces a relatively standardized product. Reproducibility: To what extent do the data support reproducibility and standardization (e.g., data showing transferability to other labs and lack of variability from batch to batch) included?  To what extent is documentation of standardization or commercialization highlighted (i.e. cGMP protocols or patent applications)? Are the methods (part of the Appendix) sufficiently detailed such that the efforts could be reproduced (e.g., Standard operating protocols)?  Robustness: How do the data support advances in organoid development to decrease differentiation time, improve yield, or increase production?  Have retina organoids been characterized to show they are free of microbial contamination and chromosomal defects (i.e. karyotyping, STR analysis, FISH analysis)?  Are formal documented agreements with industry, or transferability to industry partners (MOUs, licensing, CRADA, in-kind or discounted validation) presented?
 </div>
 <div class="prize-item">
   <h4>Evaluation Criterion 4. Endpoint Assay Specific Goals (30 points for EITHER category)
-- <strong class="usa-text-primary">30%</strong>
+- <strong class="text-primary">30%</strong>
 </h4>
 BIOLOGY/DISEASE MODELING (note: NEI is agnostic to which disease is chosen, as long as technology is developed to robustly recapitulate the disease): Does the organoid prototype demonstrate improvement in faithful biological complexity (e.g. macula, multiple cell subtypes present in physiologically similar ratios, etc.)?  Does the model recapitulate some aspect of disease phenotype in one or more assays?  Viability and scalability: If grown at one organoid/well, are 90% of organoids in a plate viable, as shown by random sampling in five wells across a dish? For how long are morphological and functional features maintained? Are methods that increase the production (e.g., many dozens) of organoids and/or allow the distribution of well-characterized organoids presented to enable multiple organoids to be compared in the same experiment?  Is therapeutic intervention to treat the disease modelled with 3-D retina organoids (e.g. via gene editing, small molecules, cell replacement, etc.) demonstrated? HIGH CONTENT SCREENING: Are retina organoid prototypes amenable to high content screening, which may include high content imaging, drug validation/toxicology, or functional genomic screening (e.g. does not include materials known to show strong compound adsorption)? Does the model recapitulate known retina toxicities based on morphological and functional readouts? Scalability and portability: Are organoids grown at medium throughput (e.g., in a 96-well plate) robust? When grown at one organoid/well, are 90% of wells in a plate viable, as shown by random sampling in five wells across a dish? For how long are morphological and functional features maintained? Are methods to mass-produce (e.g., 100s) organoids such that multiple plates can be compared in the same experiment included?
 </div>
