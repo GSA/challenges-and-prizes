@@ -14,7 +14,7 @@ Our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solv
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-12">
-        <h3 class="text-center mb-4 font-weight-bold">Resources for Public Innovators</h3>
+        <h3 class="text-center usa-margin-bottom--4 font-weight-bold">Resources for Public Innovators</h3>
         <div class="card help-card p-4 my-5 mx-auto">
           <div class="d-flex flex-row justify-content-around mt-4 help-page__getting-started-content">
           <!-- FAQ -->
@@ -53,7 +53,7 @@ Our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solv
         <!-- Contact -->
           <div class="d-flex flex-row justify-content-around py-3">
             <div class="col-md-10 w-50 px-5 my-auto left-section">
-              <a href="https://www.challenge.gov/"><h3 class="mb-4 font-weight-bold" style="color: #000000;">Question about a challenge?</h3></a>
+              <a href="https://www.challenge.gov/"><h3 class="usa-margin-bottom--4 font-weight-bold" style="color: #000000;">Question about a challenge?</h3></a>
               <span>Get in touch with the Challenge <em>Point of Contact</em> from the contact tab on the challenge details page.</span>
               <br />
               <span><a href="https://www.challenge.gov/">Search Active Challenges</a></span>

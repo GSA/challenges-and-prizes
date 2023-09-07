@@ -93,25 +93,25 @@ rules: <div class="description">
 judging: <div class="judging-criterias">
   <div class="prize-item">
   <h4>2. Innovation
-  - <strong class="text-primary">20%</strong>
+  - <strong class="usa-text-primary">20%</strong>
   </h4>
   <p>Does the submission seek to shift current paradigms by utilizing novel theoretical concepts, approaches, methodologies, instrumentation, service or interventions for drug abuse research? Is your product novel in a broad sense? Is a refinement, improvement or new application of theoretical concepts, approaches or methodologies instrumentation or interventions proposed?</p>
   </div>
   <div class="prize-item">
   <h4>3. Approach
-  - <strong class="text-primary">20%</strong>
+  - <strong class="usa-text-primary">20%</strong>
   </h4>
   <p>Are the overall strategy, methodology, and analyses well-reasoned and appropriate to test the proposed idea? Has feedback from end users been incorporated into the validity of the idea proposed?</p>
   </div>
   <div class="prize-item">
   <h4>4. Team expertise
-  - <strong class="text-primary">20%</strong>
+  - <strong class="usa-text-primary">20%</strong>
   </h4>
   <p>Does the individual or team demonstrate high level of ability, perseverance and grit?</p>
   </div>
   <div class="prize-item">
   <h4>5. Commercialization
-  - <strong class="text-primary">20%</strong>
+  - <strong class="usa-text-primary">20%</strong>
   </h4>
   <p>Is there a clear path for the product/service to reach the market? Are the product users and purchasers clearly identified?</p>
   </div>
@@ -217,25 +217,25 @@ how-to-enter: <ol>
 <div class="judging-criterias">
         <div class="prize-item">
                                         <h4>2. Innovation
-                                    - <strong class="text-primary">20%</strong>
+                                    - <strong class="usa-text-primary">20%</strong>
           </h4>
 <p>Does the submission seek to shift current paradigms by utilizing novel theoretical concepts, approaches, methodologies, instrumentation, service or interventions for drug abuse research? Is your product novel in a broad sense? Is a refinement, improvement or new application of theoretical concepts, approaches or methodologies instrumentation or interventions proposed?</p>
                     </div>
         <div class="prize-item">
                                         <h4>3. Approach
-                                    - <strong class="text-primary">20%</strong>
+                                    - <strong class="usa-text-primary">20%</strong>
           </h4>
                <p>Are the overall strategy, methodology, and analyses well-reasoned and appropriate to test the proposed idea? Has feedback from end users been incorporated into the validity of the idea proposed?</p>
                     </div>
   <div class="prize-item">
                                         <h4>4. Team expertise
-                                    - <strong class="text-primary">20%</strong>
+                                    - <strong class="usa-text-primary">20%</strong>
                                 </h4>
             <p>Does the individual or team demonstrate high level of ability, perseverance and grit?</p>
                     </div>
         <div class="prize-item">
                                         <h4>5. Commercialization
-                                    - <strong class="text-primary">20%</strong>
+                                    - <strong class="usa-text-primary">20%</strong>
                                 </h4>
             <p>Is there a clear path for the product/service to reach the market? Are the product users and purchasers clearly identified?</p>
                     </div>
