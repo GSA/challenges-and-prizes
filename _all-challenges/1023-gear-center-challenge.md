@@ -48,7 +48,7 @@ description: <h3>Winners Announced Sept. 10, 2019</h3>
         <p><strong>On May 13, 2019 we hosted a webinar to answer questions</strong>&nbsp;and allow interested Solvers to connect with experts working on PMA challenges. The webinar was broadcast widely and is available online, along with answers to frequently asked questions:&nbsp; <strong><a href="https://vimeo.com/336330824" target="_blank" rel="noopener">Webinar</a> | <a href="{{ site.baseurl }}/assets/document-library/GEAR-Center-Challenge-QA---Update-1.pdf" target="_blank" rel="noopener">Frequently Asked Questions</a></strong></p>
                 </div>
 prizes: <div class="prize-item">
-        <h4 class="text-primary">Prizes</h4>
+        <h4 class="usa-text-primary">Prizes</h4>
         <p class="prize"><strong>$900,000</strong></p>
         <div class="description">
         <p>Up to three $300,000 grand prize winners and up to five recognition winners. The recognition winners will not receive a cash prize. Solvers (individuals, teams, or legal entities) may submit more than one project proposal and are eligible to receive an award for more than one proposal. However, each individual proposed solution to a management challenge should be structured for an individual $300,000 prize (e.g., a proposal is not eligible for a $600,000 or $900,000 award).</p>
@@ -231,7 +231,7 @@ how-to-enter: <div class="howtoenter">
 
 
  <div class="prize-item">
-        <h4 class="text-primary">Prizes</h4>
+        <h4 class="usa-text-primary">Prizes</h4>
                           <p class="prize"><strong>$900,000</strong></p>
                           <div class="description">
             <p>Up to three $300,000 grand prize winners and up to five recognition winners. The recognition winners will not receive a cash prize. Solvers (individuals, teams, or legal entities) may submit more than one project proposal and are eligible to receive an award for more than one proposal. However, each individual proposed solution to a management challenge should be structured for an individual $300,000 prize (e.g., a proposal is not eligible for a $600,000 or $900,000 award).</p>
