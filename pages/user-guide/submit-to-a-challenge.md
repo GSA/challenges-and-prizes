@@ -3,116 +3,36 @@ permalink: /user-guide/submit-to-a-challenge/
 layout: page
 title: User Guide for Public Solvers | Submit to a Challenge
 ---
-<div class="res-sec">
-  <div class="grid-row ">
-    <div class="grid-col-12">{% include user-guide-intro.html %}</div>
-  </div>
-  <div class="grid-row grid-gap usa-typo">
-    <div class="grid-col-12 usa-padding-bottom-10 usa-padding-bottom-30 padding-x-0">
-      <div class="bg-secondary-lighter text-center">
-        <h2 class="margin-bottom-0">Submit to a Challenge</h2>
-      </div>
-    </div>
-  </div>
-  <div class="grid-row grid-gap justify-content-between">
-    <div class="grid-col-7">
-      <div class="usa-prose">
-        <p>Submit your entry! This is only available for challenges accepting submissions via the Challenge.Gov portal. These challenges will have an orange <b>Apply for this challenge</b> button in the general information section of the challenge details page.</p>
-        <ol>
-          <li class="font-bolder"><span>Carefully review the information on the <b>How to enter</b> tab and follow instructions provided to prepare your submission.</span></li><br>
-          <li class="font-bolder"><span>Click the <b>Rules</b> tab to review rules, eligibility, terms and conditions information to ensure your entry meets challenge participation requirements.</span></li><br>
-          <li class="font-bolder"><span>Click <b>Apply for this challenge</b>.</span></li><br>
-          <li class="font-bolder"><span>Click <b>Accept and Sign-in</b> to access the Solver Portal. <a href="{{ site.baseurl }}/user-guide/create-your-account/">Need help logging in or creating a user account?</a></span></li><br>
-          <li class="font-bolder"><span>Complete challenge submission form as directed. Click <b>Save draft</b> at any point to save and continue working at a later time.</span></li><br>
-          <li class="font-bolder"><span>Select the box next to <b>“I have read the rules, terms and conditions of this challenge”</b>.</span></li><br>
-          <li class="font-bolder"><span>Click <b>Review and submit</b>. If you’d like to make edits prior to submitting, click <b>Edit</b>.</span></li><br>
-          <li class="font-bolder"><span>Click <b>Submit</b>. You will receive an email from team@challenge.gov with the subject “Challenge.gov - Submission created for [Name of Challenge]”.</span></li>
-        </ol>
-      </div>
-    </div>
-    <div class="grid-col-4">{% include user-guide-nav.html %} </div>
+<div class="row">
+  <div class="col-sm-12">{% include user-guide-intro.html %}</div>
+</div>
+<div class="row" style="padding-top: 10px; padding-bottom: 30px;">
+  <div class="col-sm-12" style="padding-top: 6px; background-color: #005ea2; color: #ffffff; text-align: center;">
+    <h2>Submit to a Challenge</h2>
   </div>
 </div>
-
-<style>
-  .usa-prose ol{
-    padding-left: 50px;
-    margin-top: 0;
-  }
-  .usa-prose ol ul{
-    margin-top: 0;
-  }
-  .usa-prose ul{
-    padding-left: 2rem;
-    margin-top: 0;
-    margin-bottom: 1em;
-  }
-  .usa-prose ul li{
-    max-width: 100%;
-    margin-bottom: 0;
-  }
-  .tablet\:grid-col-10 {
-    flex: 0 1 auto;
-    width: 100%;
-  }
-  .grid-container .usa-sidenav {
-    margin-left: 0;
-    margin-right: 0;
-    padding-left: 0;
-  }
-  .grid-container .usa-sidenav__sublist {
-    list-style-type: none;
-    padding-left: 0;
-    margin: 0;
-    font-size: 1rem;
-  }
-  .usa-typo {
-    font-family: Source Sans Pro Web,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
-  }
-  .menu-title {
-    text-indent: 1em;
-    font-weight: 600;
-  }
-  .no-underline {
-    text-decoration: none !important;
-  }
-  .child-link {
-    text-indent: 2em;
-    color: #757575;
-    font-weight: 500;
-  }
-  .usa-sidenav__item a:not(.usa-current):hover {
-    background-color: #f1f1f1;
-  }
-
-  .usa-sidenav__sublist .usa-sidenav__item a.inactive-link:hover,
-  .usa-sidenav__item a.child-link.inactive-link:hover {
-    color: #004c8c !important;
-    font-weight: 400 !important;
-    text-decoration: none !important;
-  }
-
-  .usa-sidenav__sublist a:not(.usa-current),
-  .usa-sidenav__item a.child-link:not(.usa-current) {
-    color: #757575 !important;
-  }
-
-  .usa-current {
-    color: #205493 !important;
-    font-weight: 600 !important;
-  }
-
-  .usa-sidenav__item a.child-link:not(.usa-current):hover {
-    font-weight: 400 !important;
-  }
-
-  .usa-sidenav__item a[href="/user-guide/"]:hover {
-    color: #205493 !important;
-    font-weight: 400 !important;
-  }
-
-  /* Added CSS rule */
-  .usa-sidenav__item a.menu-title:hover {
-    background-color: transparent !important;
-  }                    
-</style>
+<div class="row">
+  <div class="col-sm-7">
+    <p>Submit your entry! This is only available for challenges accepting submissions via the Challenge.Gov portal.  These challenges will have an orange <b>Apply for this challenge</b> button in the general information section of the challenge details page.</p>
+    <ol style="padding-left: 50px;">
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Carefully review the information on the <b>How to enter</b> tab and follow instructions provided to prepare your submission.</span></li>
+      <br>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click the <b>Rules</b> tab to review rules, eligibility, terms and conditions information to ensure your entry meets challenge participation requirements.</span></li>
+      <br>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Apply for this challenge</b>.</span></li>
+            <br>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Accept and Sign-in</b> to access the Solver Portal.
+</span><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;"> <a href="{{ site.baseurl }}/user-guide/create-your-account/">Need help logging in or creating a user account?</a></span></li>
+       <br>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Complete challenge submission form as directed. Click <b>Save draft</b> at any point to save and continue working at a later time.</span></li>
+       <br>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Select the box next to <b>“I have read the rules, terms and conditions of this challenge”</b>.</span></li>
+        <br>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Review and submit</b>. If you’d like to make edits prior to submitting, click <b>Edit</b>.</span></li>
+              <br>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Submit</b>. You will receive an email from team@challenge.gov with the subject “Challenge.gov - Submission created for [Name of Challenge]”.</span></li>
+    </ol>
+  </div>
+  <div class="col-sm-1">&nbsp;</div>
+  <div class="col-sm-4"> {% include user-guide-nav.html %} </div>
+</div>

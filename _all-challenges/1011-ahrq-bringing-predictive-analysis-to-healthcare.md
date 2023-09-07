@@ -23,7 +23,7 @@ description: <p><strong><span lang="EN-GB">Problem Statement</span></strong></p>
   <p><strong><span lang="EN">Challenge Goal</span></strong></p>
   <p><span lang="EN">The purpose of the Predicting Health Care Utilization Challenge is to explore how predictive analytics and related methods may be applied and contribute to understanding healthcare issues, AHRQ invites applicants to use predictive analytics and related methods to estimate hospital inpatient utilization for:&nbsp; (1) the U.S. overall, (2) the four U.S. Census Regions, and (3) selected medical conditions. Building on AHRQ&rsquo;s current data infrastructure, AHRQ will provide approved applicants customized analytic files that includes hospital inpatient discharge data for several years.</span></p></div>
 prizes: <div class="prize-item">
-  <h4 class="usa-text-primary">Breakdown</h4>
+  <h4 class="text-primary">Breakdown</h4>
   <p class="prize"><strong>$225,000</strong></p>
   <div class="description">
   <p><span lang="EN">One grand prize winner will receive $100,000. The 2nd place winner will receive $75,000 and the 3rd place winner will receive $50,000.</span></p>
@@ -52,7 +52,7 @@ how-to-enter: <p><span lang="EN">Additional challenge information as well as the
 ### Prizes
 
 <div class="prize-item">
-<h4 class="usa-text-primary">Breakdown</h4>
+<h4 class="text-primary">Breakdown</h4>
 <p class="prize"><strong>$225,000</strong></p>
 <div class="description">
 <p><span lang="EN">One grand prize winner will receive $100,000. The 2nd place winner will receive $75,000 and the 3rd place winner will receive $50,000.</span></p>
