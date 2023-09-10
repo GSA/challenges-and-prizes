@@ -1,6 +1,6 @@
 - title: Getting Started
   items:
-    - title: Create you account
+    - title: Create your account
       url: /cm-user-guide/create-your-account/
     - title: Logging in
       url: /cm-user-guide/logging-in/
@@ -13,6 +13,8 @@
   items:
     - title: Create challenge
       url: /cm-user-guide/create-challenge/
+    - title: Challenge listing data fields
+      url: /cm-user-guide/challenge-listing-data-fields/
     - title: Edit draft challenge
       url: /cm-user-guide/edit-draft-challenge/
     - title: Delete draft challenge
