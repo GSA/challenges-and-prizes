@@ -16,7 +16,7 @@ title: User Guide for Challenge Managers | Challenge Listing Data Fields
       <li>All fields are required unless otherwise noted. You must complete all required fields before you can move to the next section.</li>
 <li>Before submitting your posting for Challenge.Gov Support Team review ensure your challenge content has been reviewed and approved by all necessary agency authorities. See the Challenge Creation page of the Challenge Manager User guide for additional information regarding the Challenge.Gov Support Team challenge  review process and requirements related to the collection of Personally Identifiable Information (PII) as part of your challenge submission.
 </li>
-    </ul>
+    </ul><br>
     <hr>
     <h3>Section 1: General Information</h3>
     <hr>
