@@ -18,12 +18,10 @@ title: User Guide for Challenge Managers | Challenge Listing Data Fields
 </li>
     </ul>
     <hr>
-    
     <h3>Section 1: General Information</h3>
     <hr>
     <strong>Challenge managers</strong>
 <p>The person who initially creates the challenge will automatically be listed as the challenge manager.  For Challenge.Gov team and system administration use only. This does not display on the public site. See the Add Challenge Managers page of the Challenge Manager User Guide to add additional challenge managers.</p>
-
 <strong>Challenge manager of record</strong>
 <p>Provide the name of the challenge manager.  For Challenge.Gov team use only. This does not display on the public site.</p><br>
 <strong>Challenge manager email</strong>
@@ -93,7 +91,6 @@ title: User Guide for Challenge Managers | Challenge Listing Data Fields
 <p>Provide the total cash prize pool.</p>
 <strong>Non-monetary prize award (required if non-monetary prize or both selected)</strong>
 <p>Provide a description of the non-monetary prize award.</p>
-
 <strong>Prize description / breakdown (optional)</strong>
 <p>Provide the total cash prize pool, and the amounts and descriptions of individual cash prizes for your challenge.  If applicable, also provide a summary of any non-monetary incentives your challenge offers to participants.  Use the embedded text editor to format the field content.</p>
 <hr>
