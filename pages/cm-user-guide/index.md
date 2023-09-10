@@ -72,6 +72,18 @@ title: User Guide for Challenge Managers
   </div>
 </div>
 <div class="tablet:grid-col-3">
+    <div class="usa-card">
+      <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/challenge-listing-data-fields//" style="text-decoration: none !important;">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="challenge-listing-data-fields" role="img">
+          <title id="challenge-listing-data-fields">ChallengeGov manager user guide challenge listing data fields</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#code"></use>
+        </svg>
+      </svg>
+      <h4 class="usa-card__heading text-center user-guide-title">Challenge <br>
+      data fields</h4>
+    </a> </div>
+  </div>
+</div>
+<div class="tablet:grid-col-3">
   <div class="usa-card">
     <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/edit-draft-challenge/" style="text-decoration: none !important;">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="edit-draft-challenge" role="img">
