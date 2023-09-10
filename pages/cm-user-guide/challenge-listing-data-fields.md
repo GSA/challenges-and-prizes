@@ -23,7 +23,7 @@ title: User Guide for Challenge Managers | Challenge Listing Data Fields
     <strong>Challenge managers</strong>
 <p>The person who initially creates the challenge will automatically be listed as the challenge manager.  For Challenge.Gov team and system administration use only. This does not display on the public site. See the Add Challenge Managers page of the Challenge Manager User Guide to add additional challenge managers.</p>
 <strong>Challenge manager of record</strong>
-<p>Provide the name of the challenge manager.  For Challenge.Gov team use only. This does not display on the public site.</p><br>
+<p>Provide the name of the challenge manager.  For Challenge.Gov team use only. This does not display on the public site.</p>
 <strong>Challenge manager email</strong>
 <p>Provide an email address where the challenge manager can be contacted. For Challenge.Gov team use only. This does not display on the public site.</p>
 <strong>Point of contact email</strong>
