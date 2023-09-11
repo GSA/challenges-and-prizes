@@ -257,3 +257,10 @@ title: User Guide for Public Solvers
 </div>
 </div>
 </div>
+
+<style>
+  h2 {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+</style>

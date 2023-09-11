@@ -10,6 +10,7 @@ title: User Guide for Challenge Managers
     <p>This guide provides step-by-step instructions for challenge manager use of Challenge.Gov. </p>
   </div>
 </div>
+
 <h2>Getting Started</h2>
 <div class="cm-usr-guide-wrap-main">
   <div class="grid-row grid-gap mt-1">
@@ -24,6 +25,7 @@ title: User Guide for Challenge Managers
       </div>
     </a> </div>
   </div>
+
   <div class="tablet:grid-col-3">
     <div class="usa-card">
       <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/logging-in/" style="text-decoration: none !important;">
@@ -36,6 +38,7 @@ title: User Guide for Challenge Managers
     </a> </div>
   </div>
 </div>
+
 <div class="tablet:grid-col-3">
   <div class="usa-card">
     <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/logging-out/" style="text-decoration: none !important;">
@@ -44,9 +47,10 @@ title: User Guide for Challenge Managers
       </svg>
     </svg>
     <h4 class="usa-card__heading text-center user-guide-title">Logging<br> out</h4>
-  </a> </div>
+    </a> </div>
+  </div>
 </div>
-</div>
+
 <div class="tablet:grid-col-3">
   <div class="usa-card">
     <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/recertify-your-account/" style="text-decoration: none !important;">
@@ -54,69 +58,79 @@ title: User Guide for Challenge Managers
       </svg>
       <h4 class="usa-card__heading text-center user-guide-title">Recertify your account</h4>
     </a> </div>
+    </div>
   </div>
 </div>
-</div>
-<h2>Challenge Management</h2>
+
+<h2><b>Challenge Management</b></h2>
+
 <div class="grid-row grid-gap mt-1">
+
   <div class="tablet:grid-col-3">
     <div class="usa-card">
       <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/create-challenge/" style="text-decoration: none !important;">
         <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="create-challenges" role="img">
           <title id="create-active-challenges">ChallengeGov manager user guide create challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#emoji_events"></use>
+          </svg>
+        </svg>
+        <h4 class="usa-card__heading text-center user-guide-title">Create <br>
+        challenge</h4>
+      </a> </div>
+    </div>
+  </div>
+
+  <div class="tablet:grid-col-3">
+      <div class="usa-card">
+        <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/challenge-listing-data-fields//" style="text-decoration: none !important;">
+          <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="challenge-listing-data-fields" role="img">
+            <title id="challenge-listing-data-fields">ChallengeGov manager user guide challenge listing data fields</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#code"></use>
+          </svg>
+        </svg>
+        <h4 class="usa-card__heading text-center user-guide-title">Challenge <br>
+        data fields</h4>
+      </a> </div>
+    </div>
+  </div>
+
+  <div class="tablet:grid-col-3">
+    <div class="usa-card">
+      <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/edit-draft-challenge/" style="text-decoration: none !important;">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="edit-draft-challenge" role="img">
+          <title id="edit-draft-challenge">ChallengeGov manager user guide edit draft challenge</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#edit"></use>
         </svg>
       </svg>
-      <h4 class="usa-card__heading text-center user-guide-title">Create <br>
+      <h4 class="usa-card__heading text-center user-guide-title">Edit draft<br>challenge</h4>
+    </a> </div>
+    </div>
+  </div>
+
+  <div class="tablet:grid-col-3">
+    <div class="usa-card">
+      <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/delete-draft-challenge/" style="text-decoration: none !important;">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="delete-draft-challenge" role="img">
+          <title id="delete-draft-challenge">ChallengeGov manager user guide delete draft challenge</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#delete"></use>
+        </svg>
+      </svg>
+      <h4 class="usa-card__heading text-center user-guide-title">Delete draft
       challenge</h4>
     </a> </div>
+    </div>
   </div>
+
 </div>
-<div class="tablet:grid-col-3">
-    <div class="usa-card">
-      <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/challenge-listing-data-fields//" style="text-decoration: none !important;">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="challenge-listing-data-fields" role="img">
-          <title id="challenge-listing-data-fields">ChallengeGov manager user guide challenge listing data fields</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#code"></use>
-        </svg>
-      </svg>
-      <h4 class="usa-card__heading text-center user-guide-title">Challenge <br>
-      data fields</h4>
-    </a> </div>
-  </div>
-</div>
-<div class="tablet:grid-col-3">
-  <div class="usa-card">
-    <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/edit-draft-challenge/" style="text-decoration: none !important;">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="edit-draft-challenge" role="img">
-        <title id="edit-draft-challenge">ChallengeGov manager user guide edit draft challenge</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#edit"></use>
-      </svg>
-    </svg>
-    <h4 class="usa-card__heading text-center user-guide-title">Edit draft<br>challenge</h4>
-  </a> </div>
-</div>
-</div>
-<div class="tablet:grid-col-3">
-  <div class="usa-card">
-    <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/delete-draft-challenge/" style="text-decoration: none !important;">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="delete-draft-challenge" role="img">
-        <title id="delete-draft-challenge">ChallengeGov manager user guide delete draft challenge</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#delete"></use>
-      </svg>
-    </svg>
-    <h4 class="usa-card__heading text-center user-guide-title">Delete draft
-    challenge</h4>
-  </a> </div>
-</div>
-</div>
-<div class="tablet:grid-col-3">
-  <div class="usa-card">
-    <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/update-open-challenge/" style="text-decoration: none !important;">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#update"></use>
-      </svg>
-      <h4 class="usa-card__heading text-center user-guide-title">Update open challenge</h4>
-    </a> </div>
-  </div>
-</div>
-</div>
+
 <div class="grid-row grid-gap">
+
+  <div class="tablet:grid-col-3">
+    <div class="usa-card">
+      <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/update-open-challenge/" style="text-decoration: none !important;">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#update"></use>
+        </svg>
+        <h4 class="usa-card__heading text-center user-guide-title">Update open challenge</h4>
+      </a> </div>
+    </div>
+  </div>
+
   <div class="tablet:grid-col-3">
     <div class="usa-card">
       <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/print-challenge-listing/" style="text-decoration: none !important;">
@@ -125,87 +139,104 @@ title: User Guide for Challenge Managers
         </svg>
       </svg>
       <h4 class="usa-card__heading text-center user-guide-title">Print challenge listing</h4>
-    </a> </div>
+      </a> </div>
+    </div>
   </div>
-</div>
-<div class="tablet:grid-col-3">
-  <div class="usa-card">
-    <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/download-challenge-profile/" style="text-decoration: none !important;">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="download-challenge-profile" role="img">
-        <title id="download-challenge-profile">ChallengeGov manager user guide download challenge profile</title>         <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#file_download"></use>
+
+  <div class="tablet:grid-col-3">
+    <div class="usa-card">
+      <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/download-challenge-profile/" style="text-decoration: none !important;">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="download-challenge-profile" role="img">
+          <title id="download-challenge-profile">ChallengeGov manager user guide download challenge profile</title>         <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#file_download"></use>
+        </svg>
       </svg>
-    </svg>
-    <h4 class="usa-card__heading text-center user-guide-title">Download challenge profile</h4>
-  </a> </div>
-</div>
-</div>
-<div class="tablet:grid-col-3">
-  <div class="usa-card">
-    <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/add-announcement/" style="text-decoration: none !important;">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="add-announcement" role="img">
-        <title id="add-announcement">ChallengeGov manager user guide add announcement</title>         <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#campaign"></use>
+      <h4 class="usa-card__heading text-center user-guide-title">Download challenge profile</h4>
+      </a> </div>
+    </div>
+  </div>
+
+  <div class="tablet:grid-col-3">
+    <div class="usa-card">
+      <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/add-announcement/" style="text-decoration: none !important;">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="add-announcement" role="img">
+          <title id="add-announcement">ChallengeGov manager user guide add announcement</title>         <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#campaign"></use>
+        </svg>
       </svg>
-    </svg>
-    <h4 class="usa-card__heading text-center user-guide-title">Add announcement</h4>
-  </a> </div>
+      <h4 class="usa-card__heading text-center user-guide-title">Add announcement</h4>
+      </a> </div>
+    </div>
+  </div>
+
 </div>
-</div>
-<div class="tablet:grid-col-3">
-  <div class="usa-card">
-    <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/edit-announcement/" style="text-decoration: none !important;">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="edit-announcement" role="img">
-        <title id="edit-announcement">ChallengeGov manager user guide edit announcement</title>         <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#edit"></use>
+
+<div class="grid-row grid-gap">
+
+  <div class="tablet:grid-col-3">
+    <div class="usa-card">
+      <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/edit-announcement/" style="text-decoration: none !important;">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="edit-announcement" role="img">
+          <title id="edit-announcement">ChallengeGov manager user guide edit announcement</title>         <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#edit"></use>
+        </svg>
       </svg>
-    </svg>
-    <h4 class="usa-card__heading text-center user-guide-title">Edit announcement</h4>
-  </a> </div>
-</div>
-</div>
-<div class="tablet:grid-col-3">
-  <div class="usa-card">
-    <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/remove-announcement/" style="text-decoration: none !important;">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="remove-announcement" role="img">
-        <title id="remove-announcement">ChallengeGov manager user guide remove announcement</title>   <title id="remove-saved-challenges">ChallengeGov user guide remove saved challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#cancel"></use>
+      <h4 class="usa-card__heading text-center user-guide-title">Edit announcement</h4>
+      </a> </div>
+    </div>
+  </div>
+
+  <div class="tablet:grid-col-3">
+    <div class="usa-card">
+      <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/remove-announcement/" style="text-decoration: none !important;">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="remove-announcement" role="img">
+          <title id="remove-announcement">ChallengeGov manager user guide remove announcement</title>   <title id="remove-saved-challenges">ChallengeGov user guide remove saved challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#cancel"></use>
+        </svg>
       </svg>
-    </svg>
-    <h4 class="usa-card__heading text-center user-guide-title">Remove announcement</h4>
-  </a> </div>
-</div>
-</div>
-<div class="tablet:grid-col-3">
-  <div class="usa-card">
-    <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/add-winner-information/" style="text-decoration: none !important;">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="add-winner-information" role="img">
-        <title id="add-winner-announcement">ChallengeGov manager user guide add winner announcement</title>         <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#star"></use>
+      <h4 class="usa-card__heading text-center user-guide-title">Remove announcement</h4>
+      </a> </div>
+    </div>
+  </div>
+
+  <div class="tablet:grid-col-3">
+    <div class="usa-card">
+      <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/add-winner-information/" style="text-decoration: none !important;">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="add-winner-information" role="img">
+          <title id="add-winner-announcement">ChallengeGov manager user guide add winner announcement</title>         <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#star"></use>
+        </svg>
       </svg>
-    </svg>
-    <h4 class="usa-card__heading text-center user-guide-title">Add winner information</h4>
-  </a> </div>
-</div>
-</div>
-<div class="tablet:grid-col-3">
-  <div class="usa-card">
-    <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/add-challenge-managers/" style="text-decoration: none !important;">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="add-challenge-managers" role="img">
-        <title id="add-challenge-managers">ChallengeGov manager user guide print add challenge managers</title>         <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#people"></use>
+      <h4 class="usa-card__heading text-center user-guide-title">Add winner information</h4>
+      </a> </div>
+    </div>
+  </div>
+
+  <div class="tablet:grid-col-3">
+    <div class="usa-card">
+      <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/add-challenge-managers/" style="text-decoration: none !important;">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="add-challenge-managers" role="img">
+          <title id="add-challenge-managers">ChallengeGov manager user guide print add challenge managers</title>         <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#people"></use>
+        </svg>
       </svg>
-    </svg>
-    <h4 class="usa-card__heading text-center user-guide-title">Add challenge managers</h4>
-  </a> </div>
+      <h4 class="usa-card__heading text-center user-guide-title">Add challenge managers</h4>
+      </a> </div>
+    </div>
+  </div>
+
 </div>
-</div>
-<div class="tablet:grid-col-3">
-  <div class="usa-card">
-    <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/grant-contractor-access/" style="text-decoration: none !important;">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="grant-contractor-access" role="img">
-        <title id="grant contractor access">ChallengeGov manager user guide grant contractor access</title>         <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#verified_user"></use>
+
+<div class="grid-row grid-gap">
+
+  <div class="tablet:grid-col-3">
+    <div class="usa-card">
+      <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/cm-user-guide/grant-contractor-access/" style="text-decoration: none !important;">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="grant-contractor-access" role="img">
+          <title id="grant contractor access">ChallengeGov manager user guide grant contractor access</title>         <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#verified_user"></use>
+        </svg>
       </svg>
-    </svg>
-    <h4 class="usa-card__heading text-center user-guide-title">Grant contractor access</h4>
-  </a> </div>
+      <h4 class="usa-card__heading text-center user-guide-title">Grant contractor access</h4>
+      </a> </div>
+    </div>
+  </div>
+
 </div>
-</div>
-</div>
+
 <h2>Manage Submissions</h2>
 <div class="grid-row grid-gap mt-1">
   <div class="tablet:grid-col-3">
@@ -371,3 +402,10 @@ title: User Guide for Challenge Managers
 </div>
 </div>
 </div>
+
+<style>
+  h2 {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+</style>
