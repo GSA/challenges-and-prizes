@@ -28,7 +28,7 @@ title: User Guide for Challenge Managers | Create Challenge
       <h3 class="margin-top-0">Setup Instructions</h3>
       <ol>
         <li class="font-bolder"><span>From the Challenge Manager Dashboard, click <b>Create a new challenge.</b></span></li>
-        <li class="font-bolder"><span>Follow on-screen prompts and enter the challenge details starting with <b>General Info</b>. (See the <a href="/cm-user-guide/challenge-listing-data-fields/" target="_blank" rel="noopener">Challenge Template</a> for additional information regarding each of the data fields.) For long text fields there is a text editor that allows you to adjust the font size and format, create bulleted and numbered lists, indent text, and add hyperlinks.</span></li>
+        <li class="font-bolder"><span>Follow on-screen prompts and enter the challenge details starting with <b>General Info</b>. (See the <a href="https://www.challenge.gov/cm-user-guide/challenge-listing-data-fields/" target="_blank" rel="noopener">Challenge Template</a> for additional information regarding each of the data fields.) For long text fields there is a text editor that allows you to adjust the font size and format, create bulleted and numbered lists, indent text, and add hyperlinks.</span></li>
         <li class="font-bolder"><span>After completing a section, click <b>Next</b> on the bottom right of the page. A progress bar appears at the top of the page showing your progress. Click <b>Save</b> at any point to save your work and finish at a later time.</span></li>
         <li class="font-bolder"><span>Once all sections have been completed, review your challenge details.
           <ul>
@@ -71,6 +71,7 @@ title: User Guide for Challenge Managers | Create Challenge
     }
     .usa-prose ol ul{
       margin-top: 0;
+      margin-bottom: 0;
     }
     .usa-prose ul{
       padding-left: 2rem;
@@ -80,6 +81,9 @@ title: User Guide for Challenge Managers | Create Challenge
     .usa-prose ul li{
       max-width: 100%;
       margin-bottom: 0;
+    }
+    .usa-prose ol li:nth-child(4) {
+        margin-bottom: 0;
     }
     .tablet\:grid-col-10 {
       flex: 0 1 auto;
