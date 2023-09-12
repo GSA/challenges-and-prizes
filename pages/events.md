@@ -19,7 +19,7 @@ title: Events
           </svg>
         </svg>
         <!-- <h4>Stay tuned for more Challenge.Gov events coming soon.</h4> -->
-        <h2 class="usa-card__heading" style="font-weight: 900;">Come back soon for more Challenge.Gov events</h2>
+        <h2 class="usa-card__heading" style="font-weight: 900;">September 19-22, 2023</h2>
       </div>
     </div>      
   </div> 
