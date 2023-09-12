@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<main class="usa-layout-docs usa-blogs">
 <div class="grid-container">
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-9 usa-prose usa-section">
@@ -9,9 +10,9 @@ layout: default
       class="margin-top-neg-3" 
       alt="{{ page.image_alt_text }}">
     {% endif %} 
-    <h1 class="text-primary-dark">{{page.title}}</h1>
+    <h1 class="usa-text-primary-dark margin-bottom-0" style="margin-top: calc(1.5em - 7px);">{{page.title}}</h1>
     {% if page.tagline %} 
-      <h3 class="text-primary">{{page.tagline}}</h3>
+      <h3 class="usa-text-primary" style="margin-top: calc(1.5em - 10px);margin-right: 10px;">{{page.tagline}}</h3>
     {% endif %} 
     <div class="text-base margin-bottom-2">
       <div class="margin-top-neg-105">
@@ -24,3 +25,4 @@ layout: default
       {% include blog-sidenav.html %}
 </div>
 </div>
+</main>
