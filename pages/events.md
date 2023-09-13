@@ -20,6 +20,12 @@ title: Events
         </svg>
         <!-- <h4>Stay tuned for more Challenge.Gov events coming soon.</h4> -->
         <h2 class="usa-card__heading" style="font-weight: 900;">September 19-22, 2023</h2>
+           <h4>The 9th Annual ED Games Expo</h4>
+        <p class="card-text text-center">The ED Games Expo is a public showcase of “game-changing” education technology (EdTech) innovations developed through programs at the Institute of Education Sciences (IES), the U.S. Department of Education (ED), and across government. This event is designed to provide an engaging and meaningful experience for children, students, parents  and caregivers, educators, and all stakeholders interested in learning about emerging forms of  education-related technologies and the government programs that support EdTech innovation and research.</p>
+<p>ED Games Expo attendees will be able to try out more than 180 learning games and technologies while  meeting the developers who created them. These EdTech innovations will cover a range of content for  all ages of learners including STEM, civics, cyber security, career and technical education, social  emotional learning, special education, reading, and more! There is no cost to attend the ED Games Expo.
+ </p>
+ <p> <a href="https://ies.ed.gov/sbir/EdGamesExpo.asp" class="usa-button usa-button"><span style="color: #ffffff;">Learn more</span></a></p>
+
       </div>
     </div>      
   </div> 
