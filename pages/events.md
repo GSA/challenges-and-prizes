@@ -25,8 +25,25 @@ title: Events
 <p>ED Games Expo attendees will be able to try out more than 180 learning games and technologies while  meeting the developers who created them. These EdTech innovations will cover a range of content for  all ages of learners including STEM, civics, cyber security, career and technical education, social  emotional learning, special education, reading, and more! There is no cost to attend the ED Games Expo.
  </p>
  <p> <a href="https://ies.ed.gov/sbir/EdGamesExpo.asp" class="usa-button usa-button"><span style="color: #ffffff;">Learn more</span></a></p>
-
       </div>
+        <div class="card">
+      <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
+        <h2 class="card-title text-center" style="font-weight: 900;">September 21, 2023</h2>
+        <h4>Technologists for the Public Good Demo Day</h4>
+         <p class="card-text text-center"> Federal Prize Competitions: Crowdsourcing Innovation<br/>
+           Featuring Jarah Meador</p>
+        <p class="card-text text-center"> Jarah Meador has been working for years to help the government run successful competitions that spur innovation. She leads the crowdsourcing, citizen science, and prize competition open innovation portfolio at GSA that includes Challenge.Gov and CitizenScience.gov. Jarah will share her insights about the benefits of federal prize competitions and the need for scaling this model in government so that the best ideas can be put to work to solve today’s most pressing challenges.
+</p>
+<p class="card-text text-center">The Demo Day series allows TPG members and the larger civic tech community to share ground-breaking work and lessons learned.
+ </p>
+      
+ <p class="card-text text-center">
+          <b>May 31, 2023 <br/>
+            3:00 - 3:20 pm ET</b>
+</p>
+        <a href="https://gsa.zoomgov.com/meeting/register/vJItc-CprTIiEnB1s-VjplUoWHmbO2S502s" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a></div>
+    </div>
+
     </div>      
   </div> 
 </div>
