@@ -38,10 +38,10 @@ title: Events
  </p>
       
  <p class="card-text text-center">
-          <b>May 31, 2023 <br/>
-            3:00 - 3:20 pm ET</b>
+          <b>September 21, 2023 <br/>
+            7:00 - 8:00 pm ET</b>
 </p>
-        <a href="https://gsa.zoomgov.com/meeting/register/vJItc-CprTIiEnB1s-VjplUoWHmbO2S502s" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a></div>
+        <a href="https://us06web.zoom.us/meeting/register/tZcsdO6opzwuHNVMrIidA6KtdqqqfWYNB9_w#/registration" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a></div>
     </div>
 
     </div>      
