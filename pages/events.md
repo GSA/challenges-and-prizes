@@ -27,8 +27,11 @@ title: Events
  <p> <a href="https://ies.ed.gov/sbir/EdGamesExpo.asp" class="usa-button usa-button"><span style="color: #ffffff;">Learn more</span></a></p>
       </div>
       </div>
-        <div class="card">
-      <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
+        <div class="usa-card">
+      <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
+            <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
+          </svg>
+        </svg>
         <h2 class="card-title text-center" style="font-weight: 900;">September 21, 2023</h2>
         <h4>Technologists for the Public Good Demo Day</h4>
          <p class="card-text text-center"> Federal Prize Competitions: Crowdsourcing Innovation<br/>
