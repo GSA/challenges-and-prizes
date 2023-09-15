@@ -26,6 +26,7 @@ title: Events
  </p>
  <p> <a href="https://ies.ed.gov/sbir/EdGamesExpo.asp" class="usa-button usa-button"><span style="color: #ffffff;">Learn more</span></a></p>
       </div>
+      </div>
         <div class="card">
       <div class="card-body text-center"> <i class="fas fa-calendar" style="color: #FA9441; font-size: 3em; padding-bottom: 20px;" title="Current Event"></i>
         <h2 class="card-title text-center" style="font-weight: 900;">September 21, 2023</h2>
