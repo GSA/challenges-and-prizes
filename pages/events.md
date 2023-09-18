@@ -54,9 +54,8 @@ title: Events
           </svg>
         </svg>
         <h2 class="card-title text-center" style="font-weight: 900;">October 5, 2023</h2>
-        <h4>RADx Tech Fetal Monitoring Challenge – Informational Webinar</h4>
-         <p class="card-text text-center"> Federal Prize Competitions: Crowdsourcing Innovation<br/>
-           Featuring Jarah Meador</p>
+        <h4>RADx Tech Fetal Monitoring Challenge</h4>
+         <p class="card-text text-center"> Informational Webinar</p>
         <p class="card-text text-center"> The National Institutes of Health has launched the RADx Tech Fetal Monitoring Challenge to accelerate the development of diagnostic and monitoring technologies to reduce the risk of fetal morbidity and mortality and thus improve fetal and neonatal health outcomes. If you have questions or would like to learn more, please join us for our informational webinar on October 5, 2023 at 3:00 pm ET.
 </p>
 <p class="card-text text-center">During the webinar, we will share an overview of the Challenge, background on its impetus and helpful information on the submission process, such as eligibility and evaluation criteria. There will also be time for a live question and answer session.
