@@ -66,7 +66,6 @@ title: Events
             3:00 - 4:00 pm ET</b>
 </p>
         <a href="[https://us06web.zoom.us/meeting/register/tZcsdO6opzwuHNVMrIidA6KtdqqqfWYNB9_w#/registration](https://www.poctrn.org/radx-tech-fetal-monitoring-webinar)" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a></div>
-    </div>
     </div>  
   </div> 
 </div>
