@@ -26,7 +26,7 @@ title: Case Study - GEAR Center Challenge
                 <!-- Body Content Start -->
                 <span>The federal government is exploring how to better connect to the public, academia, and private industry to solve federal management challenges. One potential path in that pursuit is through a Government Effectiveness Advanced Research (GEAR) Center that uses applied research to improve mission delivery, citizen services, and stewardship of public resources, as proposed in <a href="https://www.performance.gov/GovReform/Reform-and-Reorg-Plan-Final.pdf"><span style="font-weight: 400;">Delivering Government Solutions for the 21st Century: Reform Plan and Reorganization Recommendations.</span></a>
               </span>
-              <p class="margin-top-0">Over the summer of 2019, the General Services Administration (GSA) and the Office of Management and Budget (OMB) ran a <a href="/challenge/gear-center-challenge/"><span style="font-weight: 400;">GEAR Center prize competition</span></a>                                        on Challenge.gov. The competition challenged problem solvers from the public, academia, and industry to build cross-sector, multidisciplinary teams to demonstrate the potential of the GEAR Center .Teams described
+              <p class="margin-top-0">Over the summer of 2019, the General Services Administration (GSA) and the Office of Management and Budget (OMB) ran a <a href="https://www.challenge.gov/?challenge=gear-center-challenge"><span style="font-weight: 400;">GEAR Center prize competition</span></a>                                        on Challenge.gov. The competition challenged problem solvers from the public, academia, and industry to build cross-sector, multidisciplinary teams to demonstrate the potential of the GEAR Center .Teams described
                 how they would tackle challenges facing the government as outlined in the <a href="https://www.performance.gov/PMA/Presidents_Management_Agenda.pdf"><span style="font-weight: 400;">President's Management Agenda (PMA).</span></a></p>
                 <h2>Goals</h2>
                 <span>The challenge's goal was to test the GEAR Center model before investing further. Another goal was to see how the Center could help solve the federal government's current and future challenges.</span>
@@ -91,7 +91,7 @@ title: Case Study - GEAR Center Challenge
                 </ul>
                 <p>The GEAR center challenge team hosted a webinar where PMA experts gave context on each of the PMA areas and helped answer questions. The team posted questions and answers from the webinar on the GEAR Center page on
                 Performance.gov.</p>
-                <p>A panel of three judges used Phase 1 (P1) criteria (as stated in the <a href="/challenge/gear-center-challenge/">challenge page</a>) to evaluate 49 proposals and select 20 semifinalists to advance to the next phase.</p>
+                <p>A panel of three judges used Phase 1 (P1) criteria (as stated in the <a href="https://www.challenge.gov/?challenge=gear-center-challenge">challenge page</a>) to evaluate 49 proposals and select 20 semifinalists to advance to the next phase.</p>
                 <p><i>Phase 2: Project and GEAR Center Plan</i></p>
                 <span>In the second phase, the top 20 P1 solver teams were invited to submit a 10-page project plan and describe their ability to execute on it, as well as how this project would support a longer-term GEAR Center vision. They were asked to address the project plan and how easily they could do it, as well as GEAR Center model operation, impact, and sustainability.</span>
                 <p>The Gear Center challenge team hosted a second webinar to provide semifinalists more information on expectations for their submissions and to help answer questions. A panel of three judges (different from P1) used Phase
@@ -131,7 +131,7 @@ title: Case Study - GEAR Center Challenge
                 <h2>Legal Authority</h2>
                 <p>This competition was conducted by GSA under the authority of the America COMPETES Reauthorization Act of 2010 (15 U.S. Code § 3719) as amended by the American Innovation and Competitiveness Act of 2017.</p>
                 <h2>Challenge Website</h2>
-                <a href="/challenge/gear-center-challenge.html"><span style="font-weight: 400;">https://www.challenge.gov/challenge/gear-center-challenge/</span></a>
+                <a href="https://www.challenge.gov/?challenge=gear-center-challenge"><span style="font-weight: 400;">https://www.challenge.gov/?challenge=gear-center-challenge</span></a>
               </div>
             </div>
           </section>

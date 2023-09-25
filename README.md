@@ -1,172 +1,56 @@
-<!--
-  Federalist recommends you use Continuous Integration to automatically test
-  and validate any new changes to your site. CircleCI is free for open source
-  projects. You should replace this badge with your own.
+Challenge.Gov is an open source platform that accepts contributions and feedback from our customers.   
 
-  https://circleci.com/
--->
-[![CircleCI](https://circleci.com/gh/18F/federalist-uswds-jekyll.svg?style=svg)](https://circleci.com/gh/18F/federalist-uswds-jekyll)
+## Code of Conduct
 
-# Challenges and Prizes
+Challenge.Gov is committed to building a safe, welcoming, harassment-free culture for everyone. Challenge.Gov is a part of the Technology Transformation Services (TTS) within the General Services Administration (GSA), and we expect everyone to follow the [GSA TTS Code of Conduct](https://handbook.tts.gsa.gov/about-us/code-of-conduct/).
 
-This project uses the [Jekyll](https://jekyllrb.com) site engine and built with Ruby.
+We encourage you to read this platform’s [DEVCONFIG](DEVCONFIG.md), its [LICENSE]( https://github.com/GSA/Challenge_gov/blob/main/LICENSE), and its [README](README.md). If you want to read more about our open source policy or have questions, check out the GSA’s Open Source Policy (https://open.gsa.gov/oss/ or send us an [email](mailto:team@challenge.gov).
 
-**WARNING** This is a pre-1.0 code. 
+## How you can contribute
 
-## Installation
+Anyone can contribute to Challenge.Gov. Whether it's notifying us of an issue, proposing a new feature, or suggestions for content or workflow improvements, we welcome your ideas on how to improve this site.
 
-Clone the repository.
+First time contributor? We’re here to help guide you through a successful contribution. We review all contributions before merging them into Challenge.Gov. If you’re unsure about anything, just ask (mailto:team@challenge.Gov).
 
-    $ git clone https://github.com/GSA/challenges-and-prizes
-    $ cd challenges-and-prizes
+Before submitting a contribution, you’ll just need to create a GitHub account or sign in to your existing account.  
 
-Install the Node.js dependencies.
+## Submitting bugs and issues
 
-    $ npm install
+If something isn’t working the way it's supposed to:
 
-Build the site.
+Email (mailto:team@Challenge.Gov) and document how to reproduce the bug. Before submitting a bug, try to recreate it and document the steps we can take to reproduce it. If you can, take screen shots to capture specific details about the bug. This helps us understand its context. We can only fix bugs that we're able to understand and reproduce.
 
-    $ npm run build
+## To Contribute to fixing bugs, developing features and enhancements
 
-Run the site locally.
+Before submitting a contribution, you’ll just need to create a GitHub account or sign in to your existing account.  
 
-    $ npm start
+Fork this repo into your GitHub account. Read more about forking a repo on [GitHub](https://help.github.com/articles/fork-a-repo/).
+Create a branch from `production` and name it in a way that lightly defines what you’re working on (for example, `add-styles`).
+Once you’re ready to submit a pull request, fill out the [pull request template (https://github.com/GSA/Challenge_gov/compare)
+Submit your pull request against the `main` branch. 
 
-Open your web browser to [localhost:4000](http://localhost:4000/) to view your
-site.
+If the pull request is accepted, we will merge the pull request for you. 
 
-Run the site locally using the current API at [Challenge.gov Portal](https://github.com/GSA/Challenge_gov) hosted on port 4000
+## How we prioritize
 
-    $ npm dev
+Once you’ve submitted a contribution, we'll review the code and triage it based on the following considerations:
+1. **Severity:** What type of functionality is impacted? Is there a workaround?
+2. **Priority:** Does this align with our vision and roadmap goals?
+3. **Size:** Can we accomplish this in a 2 week sprint or will this take longer? 
 
-Open your web browser to [localhost:4001](http://localhost:4001/) to view your
-site.
+Note: We prioritize issues that affect accessibility, user experience, and system security. 
 
-After you make changes, be sure to run the tests.
+These considerations help us decide if and when we can work on the issue. If the issue is accepted, we will schedule them for an upcoming 2-week sprint.
 
-    $ npm test
+## Common terms
 
-Note that when built by Federalist, `npm run federalist` is used instead of the
-`build` script.
+There can be a lot of jargon when discussing how you can contribute to Challenge.Gov. We’ve included some common terms we use below.
 
-
-## Docker
-
-This guide explains how to build and run a Docker container for this project using the provided Dockerfile.
-
-### Building the Docker Image
-
-To build an image from the Dockerfile, run the following command in the same directory as the Dockerfile:
-
-```
-docker build -t gsa-ubuntu-18-image .
-```
-
-### Creating and Running the Docker Container for the First Time
-
-To create and run a container from the built image for the first time, execute the following command:
-
-```
-docker run -it -p 4000:4000 --name gsa-ubuntu-18-container gsa-ubuntu-18-image
-```
-
-This command creates a container named `gsa-ubuntu-18-container` and starts it in interactive mode with port 4000 exposed.
-
-Now, your project should be up and running in the Docker container, and you can access it in your browser at `http://localhost:4000`.
-
-### Running the Docker Container After the First Time
-
-After you've created the container for the first time, you should use the `docker start` command to start the existing container rather than creating a new one with `docker run`. To start the existing container, use:
-
-```
-docker start -i gsa-ubuntu-18-container
-```
-
-This command starts the existing container in interactive mode.
-You don't need to expose the port again when you use `docker start`. The port mapping you specified when you initially created the container with `docker run -p 4000:4000` is still valid and will be used when starting the container again.
-
-So, when you run `docker start -i gsa-ubuntu-18-container`, the port 4000 will still be exposed, and you can access the application in your browser at `http://localhost:4000`.
-
-### Access the Docker Container's Shell
-
-To access the command line (shell) of the running Docker container, use the `docker exec` command with the `-it` flags:
-
-```sh
-docker exec -it gsa-ubuntu-18-container /bin/bash
-```
-
-This command opens a new shell inside the running container. You can now run any command you need within the container's environment. For example, to list the contents of the `/root/project` directory, run:
-
-```sh
-ls /root/project
-```
-
-To exit the container's shell and return to your host machine's command line, type `exit` and press Enter.
-
-
-### Stopping the Docker Container
-
-To stop the running container, press `Ctrl+C` in the terminal or use the command:
-
-```
-docker stop gsa-ubuntu-18-container
-```
-
-### Removing the Docker Container
-
-To remove the container, first ensure it is stopped and then run:
-
-```
-docker rm gsa-ubuntu-18-container
-```
-
-### Developing with Docker
-
-To enable development on your host machine while using the Docker container, you need to mount the project directory from your host machine to the container. This allows you to edit the code on your host machine, and the changes will be reflected in the container.
-
-Please note that since the project files are now being mounted from your host machine, you do not need the `COPY . .` line in the Dockerfile. You can comment this line out from the Dockerfile before building the image.
-
-Modify the Docker run command to include the `-v` flag, which maps the host directory to the container directory. Replace `<path_to_your_project>` with the absolute path to your project directory on your host machine:
-
-```
-docker run -it -p 4000:4000 -v <path_to_your_project>:/root/project --name gsa-ubuntu-18-container gsa-ubuntu-18-image
-```
-
-For example, if your project is located at `/home/user/src/gsa/forks/challenges-and-prizes`, the command would be:
-
-```
-docker run --rm -it -p 4000:4000 -v /home/user/src/gsa/forks/challenges-and-prizes:/root/project --name gsa-ubuntu-18-container gsa-ubuntu-18-image
-```
-
-With this command, any changes you make to the source code on your host machine will be immediately reflected in the container.
-
-Note the `-rm tag`. Removing the container upon close is a good idea in a dev workflow and will not cause you to lose work as long as you have properly mounted your host directory to the container using the `-v` flag. Since we have mounted the host directory `/home/user/src/gsa/forks/challenges-and-prizes` to the container directory `/root/project`, which means any changes made inside `/root/project` in the container will be reflected in the host directory.
-
-The `--rm` flag will only remove the container itself and its file system, but it won't affect the mounted host directories. Just make sure your work is being saved in the mounted directory, and you won't lose any data.
-
-
-
-
-## Technologies you should be familiarize yourself with
-
-- [Jekyll](https://jekyllrb.com/docs/) - The primary site engine that builds your code and content.
-- [Front Matter](https://jekyllrb.com/docs/frontmatter) - The top of each page/post includes keywords within `--` tags. This is meta data that helps Jekyll build the site, but you can also use it to pass custom variables.
-- [U.S. Web Design System v 2.0](https://v2.designsystem.digital.gov) 
-- [Jekyll Search](https://github.com/18F/jekyll_pages_api_search/)
-
-
-## Contributing
-
-See [CONTRIBUTING](CONTRIBUTING.md) for additional information.
-
-## Public domain
-
-This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
-
-> This project is in the public domain within the United States, and copyright
-> and related rights in the work worldwide are waived through the [CC0 1.0
-> Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
->
-> All contributions to this project will be released under the CC0 dedication.
-> By submitting a pull request, you are agreeing to comply with this waiver of
-> copyright interest.
+- **Bug** - problem resulting in something not working properly or as expected.
+- **Enhancement** - a proposal to make something existing work better. 
+- **Feature request** - a proposal for something new to be added to the system. 
+- **Fork** - a copy of a repository that you manage. 
+- **Open source** - something that can be viewed, modified, and shared by anyone in the public with permissions enforced through an open source license.
+- **Pull request** - a way to notify project team members when a contributor/developer wants to merge new code changes into a main project repository. You can read more on GitHub, (https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
+- **Repository (aka repo)** - In Github, a repository contains all your projects’ files and each of their revisions. You can read more on GitHub (https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories). 
+- **Roadmap** - a summary that outlines a product’s goals, priorities, and progress over a period of time. 

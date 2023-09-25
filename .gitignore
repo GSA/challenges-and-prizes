@@ -8,3 +8,4 @@ vendor/
 .DS_Store
 _sass/.DS_Store
 .jekyll-metadata
+*.log

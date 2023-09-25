@@ -14,13 +14,16 @@ ENV PATH="/root/.rbenv/bin:/root/.rbenv/plugins/ruby-build/bin:$PATH"
 RUN git clone https://github.com/rbenv/rbenv.git ~/.rbenv && \
     echo 'eval "$(rbenv init -)"' >> ~/.bashrc && \
     git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build && \
-    /bin/bash -c "source ~/.bashrc && rbenv install 2.6.8 && rbenv global 2.6.8"
+    /bin/bash -c "source ~/.bashrc && rbenv install 2.7.0 && rbenv global 2.7.0"
 
 # Copy the project files into the container
 COPY . .
 
 # Install Jekyll and dependencies
 RUN /bin/bash -l -c 'eval "$(rbenv init -)" && gem update --system && gem install jekyll bundler && bundle install'
+
+# Install missing gem
+RUN /bin/bash -l -c 'eval "$(rbenv init -)" && gem install mini_portile2 -v 2.8.1'
 
 # Expose port 4001 for the Jekyll server
 EXPOSE 4001
