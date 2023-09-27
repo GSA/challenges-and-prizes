@@ -46,8 +46,8 @@ title: Events
         <!-- <h4>Stay tuned for more Challenge.Gov events coming soon.</h4> -->
         <h2 class="usa-card__heading" style="font-weight: 900;">September 19-22, 2023</h2>
            <h4>The 9th Annual ED Games Expo</h4>
-        <p class="card-text text-center">The ED Games Expo is a public showcase of “game-changing” education technology (EdTech) innovations developed through programs at the Institute of Education Sciences (IES), the U.S. Department of Education (ED), and across government. This event is designed to provide an engaging and meaningful experience for children, students, parents  and caregivers, educators, and all stakeholders interested in learning about emerging forms of  education-related technologies and the government programs that support EdTech innovation and research.</p>
-<p>ED Games Expo attendees were able to try out more than 180 learning games and technologies while  meeting the developers who created them. These EdTech innovations covered a range of content for  all ages of learners including STEM, civics, cyber security, career and technical education, social  emotional learning, special education, reading, and more!
+        <p class="card-text text-center">The annual ED Games Expo is a public showcase of “game-changing” education technology (EdTech) innovations developed through programs at the Institute of Education Sciences (IES), the U.S. Department of Education (ED), and across government. This event is designed to provide an engaging and meaningful experience for children, students, parents  and caregivers, educators, and all stakeholders interested in learning about emerging forms of  education-related technologies and the government programs that support EdTech innovation and research.</p>
+<p>Learn more about the <a href="https://ies.ed.gov/sbir/EdGamesExpo.asp">ED Games Expo!</a>
  </p>
 
       </div>
@@ -63,7 +63,7 @@ title: Events
            Featuring Jarah Meador</p>
         <p class="card-text text-center"> Jarah Meador has been working for years to help the government run successful competitions that spur innovation. She leads the crowdsourcing, citizen science, and prize competition open innovation portfolio at GSA that includes Challenge.Gov and CitizenScience.gov. Jarah shared her insights about the benefits of federal prize competitions and the need for scaling this model in government so that the best ideas can be put to work to solve today’s most pressing challenges.
 </p>
-<p class="card-text text-center">The Demo Day series allows TPG members and the larger civic tech community to share ground-breaking work and lessons learned.
+<p class="card-text text-center">The Demo Day series allows TPG members and the larger civic tech community to share ground-breaking work and lessons learned. Learn more about <a href="https://ies.ed.gov/sbir/EdGamesExpo.asp">Technologists for Public Good</a>.
  </p>
       
 </div>
