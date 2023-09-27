@@ -68,7 +68,7 @@ title: Events
       
 </div>
     </div>
-    </div>
+   
     <div class="usa-card">
       <div class="usa-card__body text-center"> 
         <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="past-events" role="img">
