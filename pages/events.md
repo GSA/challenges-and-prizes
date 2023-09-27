@@ -12,7 +12,6 @@ title: Events
 <div class="row">
   <div class="grid-row">
     <div class="grid-col-12">
-      
      <div class="usa-card">
       <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
@@ -33,6 +32,7 @@ title: Events
         <a href="https://www.poctrn.org/radx-tech-fetal-monitoring-webinar" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a></div>
     </div>  
   </div> 
+</div>
 </div>
 <h3 class="text-center margin-top-0">Past Events</h3>
 <div class="grid-row">
