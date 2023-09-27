@@ -61,7 +61,7 @@ title: Events
         <h4>Technologists for the Public Good Demo Day</h4>
          <p class="card-text text-center"> Federal Prize Competitions: Crowdsourcing Innovation<br/>
            Featuring Jarah Meador</p>
-        <p class="card-text text-center"> Jarah Meador has been working for years to help the government run successful competitions that spur innovation. She leads the crowdsourcing, citizen science, and prize competition open innovation portfolio at GSA that includes Challenge.Gov and CitizenScience.gov. Jarah will share her insights about the benefits of federal prize competitions and the need for scaling this model in government so that the best ideas can be put to work to solve today’s most pressing challenges.
+        <p class="card-text text-center"> Jarah Meador has been working for years to help the government run successful competitions that spur innovation. She leads the crowdsourcing, citizen science, and prize competition open innovation portfolio at GSA that includes Challenge.Gov and CitizenScience.gov. Jarah shared her insights about the benefits of federal prize competitions and the need for scaling this model in government so that the best ideas can be put to work to solve today’s most pressing challenges.
 </p>
 <p class="card-text text-center">The Demo Day series allows TPG members and the larger civic tech community to share ground-breaking work and lessons learned.
  </p>
