@@ -66,11 +66,7 @@ title: Events
 <p class="card-text text-center">The Demo Day series allows TPG members and the larger civic tech community to share ground-breaking work and lessons learned.
  </p>
       
- <p class="card-text text-center">
-          <b>September 21, 2023 <br/>
-            7:00 - 8:00 pm ET</b>
-</p>
-        <a href="https://us06web.zoom.us/meeting/register/tZcsdO6opzwuHNVMrIidA6KtdqqqfWYNB9_w#/registration" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a></div>
+</div>
     </div>
     </div>
     <div class="usa-card">
