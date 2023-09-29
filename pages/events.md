@@ -12,42 +12,6 @@ title: Events
 <div class="row">
   <div class="grid-row">
     <div class="grid-col-12">
-      <div class="usa-card">
-        <div class="usa-card__body text-center">
-          <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
-            <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
-          </svg>
-        </svg>
-        <!-- <h4>Stay tuned for more Challenge.Gov events coming soon.</h4> -->
-        <h2 class="usa-card__heading" style="font-weight: 900;">September 19-22, 2023</h2>
-           <h4>The 9th Annual ED Games Expo</h4>
-        <p class="card-text text-center">The ED Games Expo is a public showcase of “game-changing” education technology (EdTech) innovations developed through programs at the Institute of Education Sciences (IES), the U.S. Department of Education (ED), and across government. This event is designed to provide an engaging and meaningful experience for children, students, parents  and caregivers, educators, and all stakeholders interested in learning about emerging forms of  education-related technologies and the government programs that support EdTech innovation and research.</p>
-<p>ED Games Expo attendees will be able to try out more than 180 learning games and technologies while  meeting the developers who created them. These EdTech innovations will cover a range of content for  all ages of learners including STEM, civics, cyber security, career and technical education, social  emotional learning, special education, reading, and more! There is no cost to attend the ED Games Expo.
- </p>
- <p> <a href="https://ies.ed.gov/sbir/EdGamesExpo.asp" class="usa-button usa-button"><span style="color: #ffffff;">Learn more</span></a></p>
-      </div>
-      </div>
-        <div class="usa-card">
-      <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
-            <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
-          </svg>
-        </svg>
-        <h2 class="card-title text-center" style="font-weight: 900;">September 21, 2023</h2>
-        <h4>Technologists for the Public Good Demo Day</h4>
-         <p class="card-text text-center"> Federal Prize Competitions: Crowdsourcing Innovation<br/>
-           Featuring Jarah Meador</p>
-        <p class="card-text text-center"> Jarah Meador has been working for years to help the government run successful competitions that spur innovation. She leads the crowdsourcing, citizen science, and prize competition open innovation portfolio at GSA that includes Challenge.Gov and CitizenScience.gov. Jarah will share her insights about the benefits of federal prize competitions and the need for scaling this model in government so that the best ideas can be put to work to solve today’s most pressing challenges.
-</p>
-<p class="card-text text-center">The Demo Day series allows TPG members and the larger civic tech community to share ground-breaking work and lessons learned.
- </p>
-      
- <p class="card-text text-center">
-          <b>September 21, 2023 <br/>
-            7:00 - 8:00 pm ET</b>
-</p>
-        <a href="https://us06web.zoom.us/meeting/register/tZcsdO6opzwuHNVMrIidA6KtdqqqfWYNB9_w#/registration" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a></div>
-    </div>
-    </div> 
      <div class="usa-card">
       <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
@@ -69,9 +33,41 @@ title: Events
     </div>  
   </div> 
 </div>
+</div>
 <h3 class="text-center margin-top-0">Past Events</h3>
 <div class="grid-row">
-  <div class="grid-col-12">      
+  <div class="grid-col-12">   
+     <div class="usa-card">
+        <div class="usa-card__body text-center">
+          <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
+            <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
+          </svg>
+        </svg>
+        <!-- <h4>Stay tuned for more Challenge.Gov events coming soon.</h4> -->
+        <h2 class="usa-card__heading" style="font-weight: 900;">September 19-22, 2023</h2>
+           <h4>The 9th Annual ED Games Expo</h4>
+        <p class="card-text text-center">The annual ED Games Expo is a public showcase of “game-changing” education technology (EdTech) innovations developed through programs at the Institute of Education Sciences (IES), the U.S. Department of Education (ED), and across government. This event is designed to provide an engaging and meaningful experience for children, students, parents  and caregivers, educators, and all stakeholders interested in learning about emerging forms of  education-related technologies and the government programs that support EdTech innovation and research. Visit the <a href="https://ies.ed.gov/sbir/EdGamesExpo.asp">ED Games Expo</a> page to learn more.
+ </p>
+
+      </div>
+      </div>
+        <div class="usa-card">
+      <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
+            <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
+          </svg>
+        </svg>
+        <h2 class="card-title text-center" style="font-weight: 900;">September 21, 2023</h2>
+        <h4>Technologists for the Public Good Demo Day</h4>
+         <p class="card-text text-center"> Federal Prize Competitions: Crowdsourcing Innovation<br/>
+           Featuring Jarah Meador</p>
+        <p class="card-text text-center"> Jarah Meador has been working for years to help the government run successful competitions that spur innovation. She leads the crowdsourcing, citizen science, and prize competition open innovation portfolio at GSA that includes Challenge.Gov and CitizenScience.gov. Jarah shared her insights about the benefits of federal prize competitions and the need for scaling this model in government so that the best ideas can be put to work to solve today’s most pressing challenges.
+</p>
+<p class="card-text text-center">The Demo Day series allows TPG members and the larger civic tech community to share ground-breaking work and lessons learned. Check out <a href="https://ies.ed.gov/sbir/EdGamesExpo.asp">Technologists for Public Good</a> to learn more.
+ </p>
+      
+</div>
+    </div>
+   
     <div class="usa-card">
       <div class="usa-card__body text-center"> 
         <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="past-events" role="img">
