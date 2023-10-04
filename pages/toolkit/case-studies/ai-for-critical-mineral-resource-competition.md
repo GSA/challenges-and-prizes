@@ -1,5 +1,5 @@
 ---
-permalink: /toolkit/case-studies/AI-for-Critical-Mineral-Resource-Competition/
+permalink: /toolkit/case-studies/ai-for-critical-mineral-resource-competition/
 layout: toolkit
 title: Case Study - AI for Critical Mineral Resource Competition
 ---
@@ -35,7 +35,6 @@ title: Case Study - AI for Critical Mineral Resource Competition
 <li>Framework for Future AI/ML Integration: USGS will deploy a custom framework for integrating AI/ML to bring benefits such as enhanced quality and continuous improvements. A general version of the framework can guide other agencies with similar challenges.</li>
 <li>Timely and Accurate Insights for DOD Supply Chain Decisions: DOD and other national security partners will have timely and accurate quantitative mineral resource assessments to inform supply chain decisions.</li>
 </ul>
-                
                 <h2>Results</h2>
                 <p>After analyzing the mineral assessment workflow, DARPA and its partners, MITRE and NASA Jet Propulsion Laboratory (JPL), recognized the greatest potential for near-term, high impact in solving the data needs associated with georeferencing and extraction of individual geologic features found on USGS maps. As such, DARPA divided the competition into two distinct challenges: 1) Map Georeferencing and 2) Map Feature Extraction. 
 </p>
@@ -56,23 +55,18 @@ title: Case Study - AI for Critical Mineral Resource Competition
                   <li>The utilization of AI/ML to aid the process.  The team used AI/ML techniques to prepare, improve and/or make machine-readable data to distribute to the candidates. Participants subsequently dove into automation on two separate topics, map georeferencing and feature extraction. </li>
                   <li>Contemplation of what a to-be CMA workflow could look like</li>
                 </ul>
-                <p><strong>Data for Impact</strong> - Currently, data on federally funded workforce, education, and human services programs are too often held in silos that prevent local, state, and federal agencies from assessing the
-                  true impact of their joint service delivery. This solution, a collaboration between SkillSource Group and Third Sector Capital Partners, Inc., strives to improve government use of administrative data to measure
-                  impact. This team will pilot an approach to integrate currently disparate data that builds on existing state data integration efforts. The team will use many administrative data sources to measure the impact of
-                Workforce Innovation and Opportunity Act (WIOA) services for Virginia Opportunity Youth with past involvement with the child welfare and/or criminal justice systems.</p>
-                <p><strong>Data and Evidence for Government and Academic Impact</strong> - This project aims to help 250 federal practitioners in Kansas City by customizing an existing training curriculum and recommending how to replicate
-                  and scale it in other regions. This collaboration focuses on improving the use of evidence and data by the public sector workforce among the Johns Hopkins University Centers for Civic Impact, and Volcker Alliance's
-                Government-to-University Initiative, and the Mid-America Regional Council.</p>
-                <h3>Honorable Mentions</h3>
-                <p><strong>Unlocking the Value of Government Data</strong> - Deloitte, Google, University of Maryland, and Datawheel collaborate to create pop-up data marketplaces.</p>
-                <p><strong>Delivering the Workforce of the 21st Century</strong> - Launchcode's initiative to re-skill individuals for high needs jobs.</p>
-                <p><strong>Secure, Modern, and Mission-Capable Credentialing</strong> - This collaboration aims to improve the customer experience and efficiency of the credentialing process among its solvers, which include the Institute
-                  for Defense Analyses, West Virginia Division of Homeland Security and Emergency Management, West Virginia National Guard, WVReady, University of Maryland-Center for Public Policy and Private Enterprise, and Marshall
-                University College of Information Technology and Engineering.</p>
-                <p><strong>Improving Grants Management Using Blockchain Technology</strong> - The MITRE Corporation team proposes demonstrating the benefits of a grants management operating model and blockchain-based Distributed Grants
-                Ledger using the joint efforts of private sector technology vendors, state government agencies, universities, and community-based service organizations.</p>
-                <h2>Areas of Excellence</h2>
-                <h3>Running a Transparent and Effective Evaluation Process</h3>
+                <p>The team was then able to adapt these complex problems to a challenge-compatible format through documentation, effective in-person red teaming, thorough datasets preparation, and quick reaction in addressing participants’ hurdles discovered during the duration of the competition.</p>
+                 <h3>#2. Build a Team</h3>
+                <p>The strength of this DARPA competition was the strong, unified team behind the organization of the competition. The different partner organizations were able to bring in the right experts that helped accelerate understanding the hurdles of CMAs and identifying the right automation opportunities. This smooth coordination was enabled by a combination of in-person meetings, retrospective exercises, virtual synchronization meetings, and use of collaborative tools. </p>
+                <ul>
+                  <li><strong>In-person meetings:</strong>in-person working meetings allowed the team to make significant progress in a short period of time. The team was also brought closer together by the organization of external-to-work activities, such as a field trips and an outing to a baseball game, which fostered casual conversations, helped the team get to know one another on a deeper lever, and allowed each member to understand individual motivations. These meetings helped to better define everyone’s specific expertise and accelerated assigning the various tasks to the appropriate people.
+</li>
+                  <li><strong>Retrospective exercises:</strong>the team conducted retrospective exercises, one mid-competition, and another after the award ceremony. These exercises led to genuine self-reflection by the team as a whole and what they thought made the work successful, how it could improve, and its vision for the future.
+</li>
+                  <li><strong>Collaborative tools:</strong> the use of collaborative tools such as Mural and Slack were essential in allowing the team to gather ideas and concerns from every team member and share decisions and news in a coordinated and goal-focused way. This enabled continuous updates, and quick reactions to urgent, unexpected needs (e.g., the need to label more training data).</li>
+                  <li><strong>Synchronization meetings</strong>these meetings, whose cadence was adapted to the needs of the competition, were key in enabling collaborative decision making and situational awareness. From weekly meetings to launch the competition, the team moved to daily meetings to quickly tackle participants’ questions and hurdles. At the conclusion of the competition, meetings were scaled back to bi-weekly, which was enough to meet the demands of the transition effort.</li>
+                  <p>The team achieved an efficient and repeatable collaboration process and willingly shared responsibility outside their expertise. For example, when the team recognized an urgent need to quickly label more training data for the participants, the majority of the team volunteered to get the labeling accomplished in a rapid and efficient manner.</p>
+                <h2>Challenge Type: Ideas</h2>
                 <p>The challenge was designed to run through three evaluation phases. This encouraged multiple types of solvers to participate given the low barrier to entry in their initial submission.</p>
                 <p>As solver teams progressed through the evaluation process, they provided more detail on their project ideas. While multiple phases required more coordination and judging, they allowed for diverse judging panels who
                 offered multiple perspectives in their evaluations. They also enabled solver teams to address challenge requirements in more manageable segments.</p>
