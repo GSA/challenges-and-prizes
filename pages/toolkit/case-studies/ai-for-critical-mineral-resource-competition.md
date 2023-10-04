@@ -34,20 +34,18 @@ title: Case Study - AI for Critical Mineral Resource Competition
 <li>Application of Best Science for Optimal Customer Outcomes: USGS will integrate the best data, methodologies, and technologies to deliver the most accurate assessments.</li>
 <li>Framework for Future AI/ML Integration: USGS will deploy a custom framework for integrating AI/ML to bring benefits such as enhanced quality and continuous improvements. A general version of the framework can guide other agencies with similar challenges.</li>
 <li>Timely and Accurate Insights for DOD Supply Chain Decisions: DOD and other national security partners will have timely and accurate quantitative mineral resource assessments to inform supply chain decisions.</li>
-                <h2>Goals</h2>
-                <span>The challenge's goal was to test the GEAR Center model before investing further. Another goal was to see how the Center could help solve the federal government's current and future challenges.</span>
+</ul>
+                
                 <h2>Results</h2>
-                <p>GSA and OMB ran a successful prize competition on Challenge.gov. Leaders from across federal agencies acted as judges, with GSA also tapping subject-matter experts (SMEs) from Cross-Agency Priority (CAP) Goal teams
-                and other government-wide initiatives.</p>
-                <p>Forty-nine eligible GEAR Center project proposals came in from solver teams representing:</p>
-                <p></p>
+                <p>After analyzing the mineral assessment workflow, DARPA and its partners, MITRE and NASA Jet Propulsion Laboratory (JPL), recognized the greatest potential for near-term, high impact in solving the data needs associated with georeferencing and extraction of individual geologic features found on USGS maps. As such, DARPA divided the competition into two distinct challenges: 1) Map Georeferencing and 2) Map Feature Extraction. 
+</p>
+  
                 <ul>
-                  <li>small businesses</li>
-                  <li>large firms</li>
-                  <li>think-tanks</li>
-                  <li>academic partnerships</li>
-                  <li>non-profit organizations</li>
-                  <li>private citizens</li>
+                  <li>A total of eighteen teams from industry, academia, and even a high school junior, competed for cash prizes of $10,000 for first place, $3,000 for second, and $1,000 for third.</li>
+                  <li>For the Map Georeferencing challenge, DARPA tasked participants to find a map within a given scanned image and georeference it by aligning reference points to base maps, such as grid lines, topography, administrative boundaries, roads, or towns. A Canadian company, Uncharted, received top prize for their simple, clean, and organized solution. </li>
+                  <li>For the Map Feature Extraction challenge, participants were asked to extract features identified in an image’s map legend. Students and faculty from the University of Southern California Information Sciences Institute and University of Minnesota joined forces, earning first place for their exceptional solution to extract line features as well as polygons and points. </li>
+                  <li>USGS experts plan to integrate the best elements of the submissions into a workable solution for mineral assessment workflows, and potentially for other mission area assessments within the agency.</li>
+                  <li>The competition was successful and received praises from USGS and DARPA leadership: “The competition has been a valuable opportunity for the USGS to work with leading minds in AI to improve our approach to CMAs,” said David Applegate, USGS Director.  “Critical minerals are essential to the national security supply chain, and as such, the agency is approaching the need from multiple angles,” said DARPA Director Stefanie Tompkins</li>
                 </ul>
                 <p></p>
                 <p>Proposed projects targeted a wide range of PMA topics including:</p>
