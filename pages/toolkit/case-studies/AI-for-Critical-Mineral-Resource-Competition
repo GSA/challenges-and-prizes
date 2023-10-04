@@ -1,7 +1,7 @@
 ---
-permalink: /toolkit/case-studies/gear-center-challenge/
+permalink: /toolkit/case-studies/AI-for-Critical-Mineral-Resource-Competition/
 layout: toolkit
-title: Case Study - GEAR Center Challenge
+title: Case Study - AI for Critical Mineral Resource Competition
 ---
 <div class="grid-container padding-bottom-5">
   <div id="page-wrap" class="usa-prose">
@@ -20,8 +20,10 @@ title: Case Study - GEAR Center Challenge
                 <figcaption class="wp-caption-text">The President's Management Agenda Logo</figcaption>
               </figure>
               <div style="line-height: 2.50rem;">
-                <h1 style="text-align: left;" class="margin-bottom-0">GEAR Center Challenge</h1>
-                <p style="font-size: x-large; text-align: left;" class="margin-top-0">Scale new solutions to boldly tackle government's most complex management challenges.</p>
+                <h1 style="text-align: left;" class="margin-bottom-0">AI for Critical Mineral Resource Competition</h1>
+<h2>Defense Advanced Research Projects Agency and United States Geological Survey</h2>
+                <p style="font-size: x-large; text-align: left;" class="margin-top-0">Prepared by: The MITRE Corporation and the Jet Propulsion Laboratory – Approved for Public Release; Distribution Unlimited.  Public Release Case Number 23-1117.  A portion of this document was written at the Jet Propulsion Laboratory, California Institute of Technology, under a contract with the National Aeronautics and Space Administration (80NM0018D0004).  This research was developed with funding from the Defense Advanced Research Projects Agency (DARPA). The views, opinions and/or findings expressed are those of the author and should not be interpreted as representing the official views or policies of the Department of Defense or the U.S. Government
+</p>
                 <h2>Background</h2>
                 <!-- Body Content Start -->
                 <span>The federal government is exploring how to better connect to the public, academia, and private industry to solve federal management challenges. One potential path in that pursuit is through a Government Effectiveness Advanced Research (GEAR) Center that uses applied research to improve mission delivery, citizen services, and stewardship of public resources, as proposed in <a href="https://www.performance.gov/GovReform/Reform-and-Reorg-Plan-Final.pdf"><span style="font-weight: 400;">Delivering Government Solutions for the 21st Century: Reform Plan and Reorganization Recommendations.</span></a>
