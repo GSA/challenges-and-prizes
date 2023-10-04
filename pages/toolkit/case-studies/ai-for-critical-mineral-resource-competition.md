@@ -67,60 +67,14 @@ title: Case Study - AI for Critical Mineral Resource Competition
                   <li><strong>Synchronization meetings</strong>these meetings, whose cadence was adapted to the needs of the competition, were key in enabling collaborative decision making and situational awareness. From weekly meetings to launch the competition, the team moved to daily meetings to quickly tackle participants’ questions and hurdles. At the conclusion of the competition, meetings were scaled back to bi-weekly, which was enough to meet the demands of the transition effort.</li>
                   <p>The team achieved an efficient and repeatable collaboration process and willingly shared responsibility outside their expertise. For example, when the team recognized an urgent need to quickly label more training data for the participants, the majority of the team volunteered to get the labeling accomplished in a rapid and efficient manner.</p>
                 <h2>Challenge Type: Ideas</h2>
-                <p>The challenge was designed to run through three evaluation phases. This encouraged multiple types of solvers to participate given the low barrier to entry in their initial submission.</p>
-                <p>As solver teams progressed through the evaluation process, they provided more detail on their project ideas. While multiple phases required more coordination and judging, they allowed for diverse judging panels who
-                offered multiple perspectives in their evaluations. They also enabled solver teams to address challenge requirements in more manageable segments.</p>
-                <p><i>Phase 1: Project Proposal</i></p>
-                <p>In the first phase, solvers submitted a two-page project proposal to scale or grow an existing initiative to deliver a relevant solution to a PMA-related challenge in one year. Solvers were asked to address the following:</p>
-                <ul>
-                  <li>project scope,</li>
-                  <li>anticipated results,</li>
-                  <li>team composition, and</li>
-                  <li>resource requirements</li>
-                </ul>
-                <p>The GEAR center challenge team hosted a webinar where PMA experts gave context on each of the PMA areas and helped answer questions. The team posted questions and answers from the webinar on the GEAR Center page on
-                Performance.gov.</p>
-                <p>A panel of three judges used Phase 1 (P1) criteria (as stated in the <a href="https://www.challenge.gov/?challenge=gear-center-challenge">challenge page</a>) to evaluate 49 proposals and select 20 semifinalists to advance to the next phase.</p>
-                <p><i>Phase 2: Project and GEAR Center Plan</i></p>
-                <span>In the second phase, the top 20 P1 solver teams were invited to submit a 10-page project plan and describe their ability to execute on it, as well as how this project would support a longer-term GEAR Center vision. They were asked to address the project plan and how easily they could do it, as well as GEAR Center model operation, impact, and sustainability.</span>
-                <p>The Gear Center challenge team hosted a second webinar to provide semifinalists more information on expectations for their submissions and to help answer questions. A panel of three judges (different from P1) used Phase
-                2 (P2) criteria to evaluate 20 proposals and select 10 finalists to advance to the final round.</p>
-                <p><i>Phase 3: Finalist Presentation</i></p>
-                <span>In the third phase, finalists presented their project proposals to a panel of federal executives, who were different from the judges from the first two phases.Teams presented their project proposals and engaged in an hour-long question-and-answer session with the judges. These sessions allowed judges to understand the innovation and the project feasibility, as well as whether the teams could deliver. The judges used Phase 3 criteria to evaluate presentations and select three grand-prize winning teams and five honorable-mention teams. The grand-prize winners each received $300,000, while no cash awards were given for honorable mention.</span>
-                <h3>Engaging Subject-Matter Experts Throughout the Challenge</h3>
-                <p>Given the complex challenges targeted through PMA initiatives, we knew we needed input from SMEs working on those initiatives.</p>
-                <p>The GEAR Center challenge team formed a network of CAP Goal team leaders and members, as well as other cross-government initiatives, to ensure the GEAR Center challenge would yield projects that would complement ongoing
-                efforts without duplicating them.</p>
-                <p>This network was asked at several points to:</p>
-                <ul>
-                  <li>Review and provide feedback on GEAR Center challenge description before opening day.</li>
-                  <li>Participate in solver team webinars to answer questions.</li>
-                  <li>Review and provide feedback on semifinalist (Phase 2) project plan submissions. Specific SMEs were engaged depending on project topics.</li>
-                  <li>Participate in finalist presentations (Phase 3) and provide feedback on novelty of proposed approach, project feasibility, and other technical considerations.</li>
-                  <li>Review final selection of prize winners</li>
-                </ul>
-                <p>While engaging SMEs required extensive communications and coordination, their input was extremely valuable throughout the challenge. They were particularly helpful during Phase 2 and Phase 3 evaluations. Their deep
-                knowledge of specific initiatives helped determine proposed GEAR Center project feasibility and potential impact.</p>
-                <h3>Communicating Effectively with Solver Teams</h3>
-                <p>Providing ongoing communications and guidance was essential for success. We used a dedicated email account to communicate with solver teams throughout the challenge about timing and next-step expectations to ensure
-                  that our process was transparent. We also used online meeting tools to engage with solver teams during the evaluation process. We used webinars to clarify intent for the first two phases, provide more context on
-                  the PMA initiatives with SME input, and answer solver team questions. During Phase 3, finalists could deliver their presentations to judges in person, virtually using an online meeting tool, or by combining the
-                two.</p>
-                <h2>Lessons Learned</h2>
-                <h3>Have a solid cross-functional team.</h3>
-                <p>Throughout the challenge, we got the support of a highly capable and engaged cross-functional team. Our strategic communications partners helped us reach a wide range of quality solver teams from multiple sectors and to make clear announcements at key milestone events. The GEAR Center Challenge team’s general counsel provided timely legal advice throughout the challenge to ensure we conducted a transparent and sound process. Our budget office helped us to efficiently award payments to the three grand-prize winners. We engaged the budget office early in the process and had solver teams fill out necessary paperwork at the Phase 2 stage so that we could begin this financial clearance process early. The Challenge.gov team shared expert advice and best practices that helped us navigate every step of the challenge process.</p>
-                <h3>Remember that communications clearances and approvals take time.</h3>
-                <p>While we stayed on schedule all the way up to the Phase 3 finalist presentations, we had some delays while clearing challenge results with key stakeholders. We told finalists of the delays during this period and worked
-                  with our strategic communications partners and senior leaders to craft a clear announcement of challenge results. Once we completed the communications clearance process, we announced challenge results via multiple
-                channels.</p>
-                <h2>Challenge Type (Ideas)</h2>
-                <p>The GEAR Center was conceived as a way to promote innovation in support of the PMA. The GEAR Center Challenge project ideas showed how innovative cross-sector partnerships can transform government mission delivery,
-                  service to citizens, and stewardship. By focusing the challenge on project idea proposals vs. solutions to specific problems, we were able to collect a diverse set of solver teams, given the broad scope and complexity
-                of PMA topics. This approach also helped us to better understand the types of projects and cross-sector partnerships that a GEAR Center would be best suited for.</p>
+               <p>This open-ended ideation challenge supported exploring innovative implementations as solutions to the USGS CMA problems of map georeferencing and map feature extraction. By using the competition model, the team was able to source broadly for input and ideas which benefit from a collective effort of multiple disciplines. </p>
+                  <p>In the Map Georeferencing challenge, many of the submitted solutions used Optical Character Recognition (OCR)-based approaches and the OpenCV library to detect features on the maps that could help to geolocate them. Several of the teams focused on corner detection as a primary clue, and the winning solution also attempted to detect which coordinate system the map was in – a step that may have given them a slight edge in the scoring. Several of the teams also trained machine learning models on various features of the maps, although models trained on topographical contour lines did not perform as well as one might have expected. </p>
+                  <p>In the Map Feature Extraction challenge, most teams developed separate approaches for points, lines and polygons; some teams only focused on one or two of these. Nearly all teams developed a pipeline for pre-processing the map images, including resizing them for easier processing and cropping them to reduce false positive pixels. The first and second place teams developed and trained machine learning models, while the third-place team relied on more traditional computer vision techniques such as pixel color matching. Interestingly, each team performed best on one of the three feature types, and the final rankings came down to how many of each feature type each team attempted.</p>
                 <h2>Legal Authority</h2>
-                <p>This competition was conducted by GSA under the authority of the America COMPETES Reauthorization Act of 2010 (15 U.S. Code § 3719) as amended by the American Innovation and Competitiveness Act of 2017.</p>
-                <h2>Challenge Website</h2>
-                <a href="https://www.challenge.gov/?challenge=gear-center-challenge"><span style="font-weight: 400;">https://www.challenge.gov/?challenge=gear-center-challenge</span></a>
+                <p>DARPA launched this challenge using America COMPETES Act Prize Authority.</p>
+                <h2>Challenge Website & Link</h2>
+                <a href="https://criticalminerals.darpa.mil/"><span style="font-weight: 400;">Home|AI for Critical Mineral Assessment Competition (darpa.mil)</span></a>
+                  <a href="https://www.youtube.com/watch?v=skjK_e_CH6Q&list=PL6wMum5UsYvaQ5CCEFd4I6noNtOsPKwc0&index=22/"><span style="font-weight: 400;">DARPA Forward Event</span></a>
               </div>
             </div>
           </section>
