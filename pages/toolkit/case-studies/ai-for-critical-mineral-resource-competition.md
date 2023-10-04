@@ -39,32 +39,23 @@ title: Case Study - AI for Critical Mineral Resource Competition
                 <h2>Results</h2>
                 <p>After analyzing the mineral assessment workflow, DARPA and its partners, MITRE and NASA Jet Propulsion Laboratory (JPL), recognized the greatest potential for near-term, high impact in solving the data needs associated with georeferencing and extraction of individual geologic features found on USGS maps. As such, DARPA divided the competition into two distinct challenges: 1) Map Georeferencing and 2) Map Feature Extraction. 
 </p>
-  
-                <ul>
+                  <ul>
                   <li>A total of eighteen teams from industry, academia, and even a high school junior, competed for cash prizes of $10,000 for first place, $3,000 for second, and $1,000 for third.</li>
                   <li>For the Map Georeferencing challenge, DARPA tasked participants to find a map within a given scanned image and georeference it by aligning reference points to base maps, such as grid lines, topography, administrative boundaries, roads, or towns. A Canadian company, Uncharted, received top prize for their simple, clean, and organized solution. </li>
                   <li>For the Map Feature Extraction challenge, participants were asked to extract features identified in an image’s map legend. Students and faculty from the University of Southern California Information Sciences Institute and University of Minnesota joined forces, earning first place for their exceptional solution to extract line features as well as polygons and points. </li>
                   <li>USGS experts plan to integrate the best elements of the submissions into a workable solution for mineral assessment workflows, and potentially for other mission area assessments within the agency.</li>
                   <li>The competition was successful and received praises from USGS and DARPA leadership: “The competition has been a valuable opportunity for the USGS to work with leading minds in AI to improve our approach to CMAs,” said David Applegate, USGS Director.  “Critical minerals are essential to the national security supply chain, and as such, the agency is approaching the need from multiple angles,” said DARPA Director Stefanie Tompkins</li>
                 </ul>
-                <p></p>
-                <p>Proposed projects targeted a wide range of PMA topics including:</p>
-                <p></p>
+               <h2>Areas of Excellence</h2>
+               <p>The areas of excellence provide insight into the shaping of the competition through the collaboration of four agencies: DARPA, USGS, JPL and MITRE.</p>
+                <h3>#1. Define the Problem to Be Solved</h3>
+                <p>The DARPA-USGS-MITRE-JPL team quickly explored the current state-of-the-art of CMAs and was able to identify automation opportunities in a timely manner through a methodical approach to understanding CMAs and USGS culture, work, and hurdles. Among the candidates for automation, the team was quick to establish a priority list with low-hanging fruit that could be tackled early, while also being impactful to the USGS partner. There were several key elements to the team’s success in establishing a solvable problem:</p>
                 <ul>
-                  <li>workforce</li>
-                  <li>data</li>
-                  <li>customer experience</li>
-                  <li>moving innovations from lab to market</li>
-                  <li>payments processing</li>
-                  <li>IT modernization</li>
-                  <li>security clearance reform</li>
+                  <li>Presence of the right USGS experts, such as the geoscientists who perform and teach the assessment process, who helped select some of these opportunities over others;</li>
+                  <li>The use of collaboration tools such as Zoom or Mural that allowed each team member to provide valuable input while looking at the full workflow for CMA</li>
+                  <li>The utilization of AI/ML to aid the process.  The team used AI/ML techniques to prepare, improve and/or make machine-readable data to distribute to the candidates. Participants subsequently dove into automation on two separate topics, map georeferencing and feature extraction. </li>
+                  <li>Contemplation of what a to-be CMA workflow could look like</li>
                 </ul>
-                <p></p>
-                <p>After an intense three-phase evaluation process, three grand-prize winners and five honorable mentions were selected. The grand-prize winners each received $300,000. There were no cash awards for the honorable mentions.</p>
-                <h3>Grand-Prize Winners</h3>
-                <p><strong>Cybersecurity Workforce Collaboration</strong> - Under this solution, a federal neurodiversity cyber workforce will be established to focus on training a particular federal agency to identify, hire, onboard,
-                  train, support, and retain neurodiverse individuals for cyber positions. This pilot program will be facilitated by winning team members including George Mason University, Mercyhurst University, Rochester Institute
-                of Technology, University of Maryland, Drexel University, SAP, Specialisterne, DXC Dandelion Program, and the MITRE Corporation.</p>
                 <p><strong>Data for Impact</strong> - Currently, data on federally funded workforce, education, and human services programs are too often held in silos that prevent local, state, and federal agencies from assessing the
                   true impact of their joint service delivery. This solution, a collaboration between SkillSource Group and Third Sector Capital Partners, Inc., strives to improve government use of administrative data to measure
                   impact. This team will pilot an approach to integrate currently disparate data that builds on existing state data integration efforts. The team will use many administrative data sources to measure the impact of
