@@ -15,10 +15,9 @@ title: Case Study - AI for Critical Mineral Resource Competition
               <!-- Feature Image -->
               <figure class="usa-caption wp-caption padding-x-0 margin-x-0">
                 <a href="{{ site.baseurl }}/assets/images/toolkit/case-studies/Critical Minerals Challenge graphic.png">
-            
                   <img src="{{ site.baseurl }}/assets/images/toolkit/case-studies/Critical Minerals Challenge graphic.png" alt="AI for Critical Minierals Challenge graphic">
                 </a>
-                <figcaption class="wp-caption-text">The President's Management Agenda Logo</figcaption>
+                <figcaption class="wp-caption-text">AI for Critical Minerals Challenge Graphic</figcaption>
               </figure>
               <div style="line-height: 2.50rem;">
                 <h1 style="text-align: left;" class="margin-bottom-0">AI for Critical Mineral Resource Competition</h1>
