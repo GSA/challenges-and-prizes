@@ -66,6 +66,7 @@ title: Case Study - AI for Critical Mineral Resource Competition
 </li>
                   <li><strong>Collaborative tools:</strong> the use of collaborative tools such as Mural and Slack were essential in allowing the team to gather ideas and concerns from every team member and share decisions and news in a coordinated and goal-focused way. This enabled continuous updates, and quick reactions to urgent, unexpected needs (e.g., the need to label more training data).</li>
                   <li><strong>Synchronization meetings</strong>these meetings, whose cadence was adapted to the needs of the competition, were key in enabling collaborative decision making and situational awareness. From weekly meetings to launch the competition, the team moved to daily meetings to quickly tackle participants’ questions and hurdles. At the conclusion of the competition, meetings were scaled back to bi-weekly, which was enough to meet the demands of the transition effort.</li>
+                </ul>
   <p>The team achieved an efficient and repeatable collaboration process and willingly shared responsibility outside their expertise. For example, when the team recognized an urgent need to quickly label more training data for the participants, the majority of the team volunteered to get the labeling accomplished in a rapid and efficient manner.</p>
                 <h2>Challenge Type: Ideas</h2>
                <p>This open-ended ideation challenge supported exploring innovative implementations as solutions to the USGS CMA problems of map georeferencing and map feature extraction. By using the competition model, the team was able to source broadly for input and ideas which benefit from a collective effort of multiple disciplines. </p>
@@ -76,7 +77,8 @@ title: Case Study - AI for Critical Mineral Resource Competition
                 <h2>Challenge Website & Link</h2>
                <p><a href="https://criticalminerals.darpa.mil/"><span style="font-weight: 400;">Home|AI for Critical Mineral Assessment Competition (darpa.mil)</span></a></p>
                 <p><a href="https://www.youtube.com/watch?v=skjK_e_CH6Q&list=PL6wMum5UsYvaQ5CCEFd4I6noNtOsPKwc0&index=22/"><span style="font-weight: 400;">DARPA Forward Event</span></a></p>
-              </div>
+                </div>
+                </div>
            </section>
         </section>
       </div>
