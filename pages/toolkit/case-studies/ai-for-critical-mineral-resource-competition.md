@@ -14,8 +14,9 @@ title: Case Study - AI for Critical Mineral Resource Competition
             <div class="body-text clearfix" itemprop="description">
               <!-- Feature Image -->
               <figure class="usa-caption wp-caption padding-x-0 margin-x-0">
-                <a href="{{ site.baseurl }}/assets/images/toolkit/case-studies/PMA LOGO_Hi Res_FINAL (1).png">
-                  <img src="{{ site.baseurl }}/assets/images/toolkit/case-studies/PMA LOGO_Hi Res_FINAL (1).png" alt="PMA Logo">
+                <a href="{{ site.baseurl }}/assets/images/toolkit/case-studies/Critical Minerals Challenge graphic.png">
+            
+                  <img src="{{ site.baseurl }}/assets/images/toolkit/case-studies/Critical Minerals Challenge graphic.png" alt="AI for Critical Minierals Challenge graphic">
                 </a>
                 <figcaption class="wp-caption-text">The President's Management Agenda Logo</figcaption>
               </figure>
