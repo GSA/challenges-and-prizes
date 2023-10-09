@@ -22,7 +22,8 @@ title: Case Study - AI for Critical Mineral Resource Competition
               <div style="line-height: 2.50rem;">
                 <h1 style="text-align: left;" class="margin-bottom-0">AI for Critical Mineral Resource Competition</h1>
 <h2>Defense Advanced Research Projects Agency and United States Geological Survey</h2>
-                <p style="font-size: x-large; text-align: left;" class="margin-top-0">Prepared by: The MITRE Corporation and the Jet Propulsion Laboratory – Approved for Public Release; Distribution Unlimited.  Public Release Case Number 23-1117.  A portion of this document was written at the Jet Propulsion Laboratory, California Institute of Technology, under a contract with the National Aeronautics and Space Administration (80NM0018D0004).  This research was developed with funding from the Defense Advanced Research Projects Agency (DARPA). The views, opinions and/or findings expressed are those of the author and should not be interpreted as representing the official views or policies of the Department of Defense or the U.S. Government
+                <p style="font-size: x-large; text-align: left;" class="margin-top-0">Help accelerate assessments of U.S. critical mineral resources through automation </p>
+                <p>Prepared by: The MITRE Corporation and the Jet Propulsion Laboratory – Approved for Public Release; Distribution Unlimited.  Public Release Case Number 23-1117.  A portion of this document was written at the Jet Propulsion Laboratory, California Institute of Technology, under a contract with the National Aeronautics and Space Administration (80NM0018D0004).  This research was developed with funding from the Defense Advanced Research Projects Agency (DARPA). The views, opinions and/or findings expressed are those of the author and should not be interpreted as representing the official views or policies of the Department of Defense or the U.S. Government
 </p>
                 <h2>Summary</h2>
                 <!-- Body Content Start -->
@@ -65,7 +66,7 @@ title: Case Study - AI for Critical Mineral Resource Competition
 </li>
                   <li><strong>Collaborative tools:</strong> the use of collaborative tools such as Mural and Slack were essential in allowing the team to gather ideas and concerns from every team member and share decisions and news in a coordinated and goal-focused way. This enabled continuous updates, and quick reactions to urgent, unexpected needs (e.g., the need to label more training data).</li>
                   <li><strong>Synchronization meetings</strong>these meetings, whose cadence was adapted to the needs of the competition, were key in enabling collaborative decision making and situational awareness. From weekly meetings to launch the competition, the team moved to daily meetings to quickly tackle participants’ questions and hurdles. At the conclusion of the competition, meetings were scaled back to bi-weekly, which was enough to meet the demands of the transition effort.</li>
-                  <p>The team achieved an efficient and repeatable collaboration process and willingly shared responsibility outside their expertise. For example, when the team recognized an urgent need to quickly label more training data for the participants, the majority of the team volunteered to get the labeling accomplished in a rapid and efficient manner.</p>
+  <p>The team achieved an efficient and repeatable collaboration process and willingly shared responsibility outside their expertise. For example, when the team recognized an urgent need to quickly label more training data for the participants, the majority of the team volunteered to get the labeling accomplished in a rapid and efficient manner.</p>
                 <h2>Challenge Type: Ideas</h2>
                <p>This open-ended ideation challenge supported exploring innovative implementations as solutions to the USGS CMA problems of map georeferencing and map feature extraction. By using the competition model, the team was able to source broadly for input and ideas which benefit from a collective effort of multiple disciplines. </p>
                   <p>In the Map Georeferencing challenge, many of the submitted solutions used Optical Character Recognition (OCR)-based approaches and the OpenCV library to detect features on the maps that could help to geolocate them. Several of the teams focused on corner detection as a primary clue, and the winning solution also attempted to detect which coordinate system the map was in – a step that may have given them a slight edge in the scoring. Several of the teams also trained machine learning models on various features of the maps, although models trained on topographical contour lines did not perform as well as one might have expected. </p>
@@ -76,8 +77,7 @@ title: Case Study - AI for Critical Mineral Resource Competition
                 <a href="https://criticalminerals.darpa.mil/"><span style="font-weight: 400;">Home|AI for Critical Mineral Assessment Competition (darpa.mil)</span></a>
                   <a href="https://www.youtube.com/watch?v=skjK_e_CH6Q&list=PL6wMum5UsYvaQ5CCEFd4I6noNtOsPKwc0&index=22/"><span style="font-weight: 400;">DARPA Forward Event</span></a>
               </div>
-            </div>
-          </section>
+           </section>
         </section>
       </div>
     </article>
