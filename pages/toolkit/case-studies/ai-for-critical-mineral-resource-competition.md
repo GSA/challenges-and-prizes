@@ -74,8 +74,8 @@ title: Case Study - AI for Critical Mineral Resource Competition
                 <h2>Legal Authority</h2>
                 <p>DARPA launched this challenge using America COMPETES Act Prize Authority.</p>
                 <h2>Challenge Website & Link</h2>
-                <a href="https://criticalminerals.darpa.mil/"><span style="font-weight: 400;">Home|AI for Critical Mineral Assessment Competition (darpa.mil)</span></a>
-                  <a href="https://www.youtube.com/watch?v=skjK_e_CH6Q&list=PL6wMum5UsYvaQ5CCEFd4I6noNtOsPKwc0&index=22/"><span style="font-weight: 400;">DARPA Forward Event</span></a>
+               <p><a href="https://criticalminerals.darpa.mil/"><span style="font-weight: 400;">Home|AI for Critical Mineral Assessment Competition (darpa.mil)</span></a></p>
+                <p><a href="https://www.youtube.com/watch?v=skjK_e_CH6Q&list=PL6wMum5UsYvaQ5CCEFd4I6noNtOsPKwc0&index=22/"><span style="font-weight: 400;">DARPA Forward Event</span></a></p>
               </div>
            </section>
         </section>
