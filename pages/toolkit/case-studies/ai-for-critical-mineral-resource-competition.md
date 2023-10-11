@@ -38,7 +38,7 @@ title: Case Study - AI for Critical Mineral Resource Competition
                 <h2>Results</h2>
                 <p>After analyzing the mineral assessment workflow, DARPA and its partners, MITRE and NASA Jet Propulsion Laboratory (JPL), recognized the greatest potential for near-term, high impact in solving the data needs associated with georeferencing and extraction of individual geologic features found on USGS maps. As such, DARPA divided the competition into two distinct challenges: 1) Map Georeferencing and 2) Map Feature Extraction. 
 </p>
-                  <ul>
+                  <ul style="padding-left:60px;">
                   <li>A total of eighteen teams from industry, academia, and even a high school junior, competed for cash prizes of $10,000 for first place, $3,000 for second, and $1,000 for third.</li>
                   <li>For the Map Georeferencing challenge, DARPA tasked participants to find a map within a given scanned image and georeference it by aligning reference points to base maps, such as grid lines, topography, administrative boundaries, roads, or towns. A Canadian company, Uncharted, received top prize for their simple, clean, and organized solution. </li>
                   <li>For the Map Feature Extraction challenge, participants were asked to extract features identified in an image’s map legend. Students and faculty from the University of Southern California Information Sciences Institute and University of Minnesota joined forces, earning first place for their exceptional solution to extract line features as well as polygons and points. </li>
@@ -49,7 +49,7 @@ title: Case Study - AI for Critical Mineral Resource Competition
                <p>The areas of excellence provide insight into the shaping of the competition through the collaboration of four agencies: DARPA, USGS, JPL and MITRE.</p>
                 <h3>#1. Define the Problem to Be Solved</h3>
                 <p>The DARPA-USGS-MITRE-JPL team quickly explored the current state-of-the-art of CMAs and was able to identify automation opportunities in a timely manner through a methodical approach to understanding CMAs and USGS culture, work, and hurdles. Among the candidates for automation, the team was quick to establish a priority list with low-hanging fruit that could be tackled early, while also being impactful to the USGS partner. There were several key elements to the team’s success in establishing a solvable problem:</p>
-                <ul>
+                <ul style="padding-left:60px;">
                   <li>Presence of the right USGS experts, such as the geoscientists who perform and teach the assessment process, who helped select some of these opportunities over others;</li>
                   <li>The use of collaboration tools such as Zoom or Mural that allowed each team member to provide valuable input while looking at the full workflow for CMA</li>
                   <li>The utilization of AI/ML to aid the process.  The team used AI/ML techniques to prepare, improve and/or make machine-readable data to distribute to the candidates. Participants subsequently dove into automation on two separate topics, map georeferencing and feature extraction. </li>
@@ -58,7 +58,7 @@ title: Case Study - AI for Critical Mineral Resource Competition
                 <p>The team was then able to adapt these complex problems to a challenge-compatible format through documentation, effective in-person red teaming, thorough datasets preparation, and quick reaction in addressing participants’ hurdles discovered during the duration of the competition.</p>
                  <h3>#2. Build a Team</h3>
                 <p>The strength of this DARPA competition was the strong, unified team behind the organization of the competition. The different partner organizations were able to bring in the right experts that helped accelerate understanding the hurdles of CMAs and identifying the right automation opportunities. This smooth coordination was enabled by a combination of in-person meetings, retrospective exercises, virtual synchronization meetings, and use of collaborative tools. </p>
-                <ul>
+                <ul style="padding-left:60px;">
                   <li><strong>In-person meetings: </strong>in-person working meetings allowed the team to make significant progress in a short period of time. The team was also brought closer together by the organization of external-to-work activities, such as a field trips and an outing to a baseball game, which fostered casual conversations, helped the team get to know one another on a deeper lever, and allowed each member to understand individual motivations. These meetings helped to better define everyone’s specific expertise and accelerated assigning the various tasks to the appropriate people.
 </li>
                   <li><strong>Retrospective exercises: </strong>the team conducted retrospective exercises, one mid-competition, and another after the award ceremony. These exercises led to genuine self-reflection by the team as a whole and what they thought made the work successful, how it could improve, and its vision for the future.
