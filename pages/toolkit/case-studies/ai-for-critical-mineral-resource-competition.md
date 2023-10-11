@@ -47,7 +47,7 @@ title: Case Study - AI for Critical Mineral Resource Competition
                 </ul>
                <h2>Areas of Excellence</h2>
                <p>The areas of excellence provide insight into the shaping of the competition through the collaboration of four agencies: DARPA, USGS, JPL and MITRE.</p>
-                <h3>#1. Define the Problem to Be Solved</h3>
+                <h3 style="padding-left:20px;">#1. Define the Problem to Be Solved</h3>
                 <p>The DARPA-USGS-MITRE-JPL team quickly explored the current state-of-the-art of CMAs and was able to identify automation opportunities in a timely manner through a methodical approach to understanding CMAs and USGS culture, work, and hurdles. Among the candidates for automation, the team was quick to establish a priority list with low-hanging fruit that could be tackled early, while also being impactful to the USGS partner. There were several key elements to the team’s success in establishing a solvable problem:</p>
                 <ul style="padding-left:60px;">
                   <li>Presence of the right USGS experts, such as the geoscientists who perform and teach the assessment process, who helped select some of these opportunities over others;</li>
@@ -56,7 +56,7 @@ title: Case Study - AI for Critical Mineral Resource Competition
                   <li>Contemplation of what a to-be CMA workflow could look like</li>
                 </ul>
                 <p>The team was then able to adapt these complex problems to a challenge-compatible format through documentation, effective in-person red teaming, thorough datasets preparation, and quick reaction in addressing participants’ hurdles discovered during the duration of the competition.</p>
-                 <h3>#2. Build a Team</h3>
+                 <h3 style="padding-left:20px;">#2. Build a Team</h3>
                 <p>The strength of this DARPA competition was the strong, unified team behind the organization of the competition. The different partner organizations were able to bring in the right experts that helped accelerate understanding the hurdles of CMAs and identifying the right automation opportunities. This smooth coordination was enabled by a combination of in-person meetings, retrospective exercises, virtual synchronization meetings, and use of collaborative tools. </p>
                 <ul style="padding-left:60px;">
                   <li><strong>In-person meetings: </strong>in-person working meetings allowed the team to make significant progress in a short period of time. The team was also brought closer together by the organization of external-to-work activities, such as a field trips and an outing to a baseball game, which fostered casual conversations, helped the team get to know one another on a deeper lever, and allowed each member to understand individual motivations. These meetings helped to better define everyone’s specific expertise and accelerated assigning the various tasks to the appropriate people.
