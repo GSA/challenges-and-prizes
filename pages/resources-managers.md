@@ -99,7 +99,7 @@ title: Resources for Federal Challenge Managers
     </svg>
     <h2 class="usa-card__heading">Toolkit</h2>
     <p class="usa-card__text">Resources on running challenges.</p>
-    <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Federal_Agency_Toolkit_13Oct2021.pdf" class="usa-button usa-button--primary margin-bottom-0">
+    <a href="{{ site.baseurl }}/assets/document-library/Challenge-Gov-Federal-Agency-Toolkit.pdf" class="usa-button usa-button--primary margin-bottom-0">
       <span style="color: #ffffff;">Read toolkit</span>
     </a>
   </div>
