@@ -59,7 +59,7 @@ title: Events
         <h4>RADx Tech Fetal Monitoring Challenge</h4>
          <p class="card-text text-center"> Informational Webinar</p>
         <p class="card-text text-center"> The National Institutes of Health launched the RADx Tech Fetal Monitoring Challenge to accelerate the development of diagnostic and monitoring technologies to reduce the risk of fetal morbidity and mortality and thus improve fetal and neonatal health outcomes. </p>
-<p class="card-text text-center">During the webinar, the challenge team shared an overview of the Challenge, background on its impetus and helpful information on the submission process, such as eligibility and evaluation criteria. There was also time for a live question and answer session.
+<p class="card-text text-center">During the webinar, the challenge team shared an overview of the Challenge, background on its impetus and helpful information on the submission process, such as eligibility and evaluation criteria. There was also time for a live question and answer session. Visit the <a href="https://www.challenge.gov/?challenge=radx-tech-fetal-monitoring">RADx Tech Fetal Monitoring Challenge page</a> to learn more.
  </p>
 </div>  
   </div>
