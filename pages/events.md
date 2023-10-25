@@ -42,7 +42,7 @@ title: Events
           <b>November 4-7, 2023 <br/>
             9:00 am - 4:00 pm ET</b>
 </p>
-        <a href="https://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/2023-fda-digital-transformation-symposium-12042023" class="usa-button usa-button"><span style="color: #ffffff;">Learn More and Register</span></a></div>
+        <a href="https://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/2023-fda-digital-transformation-symposium-12042023" class="usa-button usa-button"><span style="color: #ffffff;">Learn More and Register</span></a>
     </div>  
   </div>
 </div>
