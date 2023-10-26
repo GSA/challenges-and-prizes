@@ -9,12 +9,12 @@ RUN apt update && \
     apt install -y curl vim git g++ gcc autoconf automake bison libc6-dev libffi-dev libgdbm-dev libncurses5-dev libsqlite3-dev libtool libyaml-dev make pkg-config sqlite3 zlib1g-dev libgmp-dev libreadline-dev libssl-dev
 RUN apt install -y nodejs npm
 
-# Install rbenv and Ruby 2.6.8
+# Install rbenv and Ruby 2.6.8 -> 3.1.0 
 ENV PATH="/root/.rbenv/bin:/root/.rbenv/plugins/ruby-build/bin:$PATH"
 RUN git clone https://github.com/rbenv/rbenv.git ~/.rbenv && \
     echo 'eval "$(rbenv init -)"' >> ~/.bashrc && \
     git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build && \
-    /bin/bash -c "source ~/.bashrc && rbenv install 2.7.0 && rbenv global 2.7.0"
+    /bin/bash -c "source ~/.bashrc && rbenv install 3.1.0 && rbenv global 3.1.0"
 
 # Copy the project files into the container
 COPY . .
