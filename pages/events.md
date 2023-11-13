@@ -47,6 +47,7 @@ title: Events
          </div>
     </div>  
   </div> 
+</div>
     <div class="usa-card">
       <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
@@ -71,7 +72,6 @@ title: Events
            <h4>The 9th Annual ED Games Expo</h4>
         <p class="card-text text-center">The annual ED Games Expo is a public showcase of “game-changing” education technology (EdTech) innovations developed through programs at the Institute of Education Sciences (IES), the U.S. Department of Education (ED), and across government. This event is designed to provide an engaging and meaningful experience for children, students, parents  and caregivers, educators, and all stakeholders interested in learning about emerging forms of  education-related technologies and the government programs that support EdTech innovation and research. Visit the <a href="https://ies.ed.gov/sbir/EdGamesExpo.asp">ED Games Expo</a> page to learn more.
  </p>
-
       </div>
       </div>
         <div class="usa-card">
@@ -87,10 +87,8 @@ title: Events
 </p>
 <p class="card-text text-center">The Demo Day series allows TPG members and the larger civic tech community to share ground-breaking work and lessons learned. Check out <a href="https://ies.ed.gov/sbir/EdGamesExpo.asp">Technologists for Public Good</a> to learn more.
  </p>
-      
 </div>
     </div>
-   
     <div class="usa-card">
       <div class="usa-card__body text-center"> 
         <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="past-events" role="img">
@@ -105,7 +103,6 @@ title: Events
         On August 15, participants met the <a href="https://www.challenge.gov/?challenge=reachu-challenge">ReachU Challenge</a> team to learn more about this crowdsourcing campaign.</p>
       </div>
     </div>
-  </div>
   <div class="usa-card">
     <div class="usa-card__body text-center">           
       <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="past-events" role="img">
