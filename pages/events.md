@@ -12,24 +12,7 @@ title: Events
 <div class="row">
   <div class="grid-row">
     <div class="grid-col-12">
-     <div class="usa-card">
-      <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
-            <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
-          </svg>
-        </svg>
-        <h2 class="card-title text-center" style="font-weight: 900;">November 8, 2023</h2>
-        <h4>White House OSTP Year of Open Science Recognition Challenge Chat</h4>
-         <p class="card-text text-center">Share your story of using open science to benefit society.</p>
-        <p class="card-text text-center">The White House Office of Science and Technology Policy (OSTP), in collaboration with federal agencies participating in a Year of Open Science, invite researchers, community scientists, educators, innovators, and members of the broader public to share stories of how they’ve advanced equitable open science.</p>
-<p class="card-text text-center">This recognition challenge seeks to spotlight the stories and teams behind projects that have addressed a particular challenge or advanced a solution, while embodying open science principles and practices.</p>
-<p class="card-text text-center">Join us for a live Q&A to meet the challenge team, bring your questions, and learn more.</p>      
- <p class="card-text text-center">
-          <b>November 8, 2023 <br/>
-            3:00 - 3:55 pm ET</b>
-</p>
-        <a href="https://gsa.zoomgov.com/webinar/register/7016976574840/WN_PpoYJS9OStuMrH3--GDpow" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a></div>
-    </div>  
-  </div> 
+    
 <div class="usa-card">
       <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
@@ -49,7 +32,21 @@ title: Events
 </div>
 <h3 class="text-center margin-top-0">Past Events</h3>
 <div class="grid-row">
-  <div class="grid-col-12">  
+  <div class="grid-col-12"> 
+     <div class="usa-card">
+      <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
+            <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
+          </svg>
+        </svg>
+        <h2 class="card-title text-center" style="font-weight: 900;">November 8, 2023</h2>
+        <h4>White House OSTP Year of Open Science Recognition Challenge Chat</h4>
+         <p class="card-text text-center">Share your story of using open science to benefit society.</p>
+        <p class="card-text text-center">The White House Office of Science and Technology Policy (OSTP), in collaboration with federal agencies participating in a Year of Open Science, invite researchers, community scientists, educators, innovators, and members of the broader public to share stories of how they’ve advanced equitable open science.</p>
+<p class="card-text text-center">This recognition challenge seeks to spotlight the stories and teams behind projects that have addressed a particular challenge or advanced a solution, while embodying open science principles and practices.</p>
+<p class="card-text text-center">On November 8, participants met the OST Year of Open Science Recognition Challenge team to and learn more.</p>      
+         </div>
+    </div>  
+  </div> 
     <div class="usa-card">
       <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
