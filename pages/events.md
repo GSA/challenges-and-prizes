@@ -46,8 +46,6 @@ title: Events
 <p class="card-text text-center">On November 8, participants met the <a href="https://www.challenge.gov/?challenge=ostp-year-of-open-science-recognition-challenge">White House Office of Science and Technology Policy Year of Open Science Recognition Challenge</a> team to and learn more.</p>      
          </div>
     </div>  
-  </div> 
-</div>
     <div class="usa-card">
       <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
