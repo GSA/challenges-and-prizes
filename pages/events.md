@@ -42,7 +42,8 @@ title: Events
         <h4>White House OSTP Year of Open Science Recognition Challenge Chat</h4>
         <p class="card-text text-center">The White House Office of Science and Technology Policy (OSTP), in collaboration with federal agencies participating in a Year of Open Science, invite researchers, community scientists, educators, innovators, and members of the broader public to share stories of how they’ve advanced equitable open science.</p>
 <p class="card-text text-center">This recognition challenge seeks to spotlight the stories and teams behind projects that have addressed a particular challenge or advanced a solution, while embodying open science principles and practices.</p>
-<p class="card-text text-center">On November 8, participants met the <a href="https://www.challenge.gov/?challenge=ostp-year-of-open-science-recognition-challenge">White House Office of Science and Technology Policy Year of Open Science Recognition Challenge</a> team to and learn more.</p>      
+<p class="card-text text-center">On November 8, participants met the <a href="https://www.challenge.gov/?challenge=ostp-year-of-open-science-recognition-challenge">White House Office of Science and Technology Policy Year of Open Science Recognition Challenge</a> team for a live facilitated Q&A.</p>  
+        <p class="card-text text-center">Check out <a href="https://youtu.be/o1ANrn9_wd4?si=gbiaROOr-pQHbmoN">this short challenge video</a> to learn more.</p>
          </div>
     </div>  
     <div class="usa-card">
