@@ -144,7 +144,7 @@
   document.addEventListener('DOMContentLoaded', function() {
     // Parse the query string to get the Challenge name
     const urlParams = new URLSearchParams(window.location.search);
-    const challengeName = urlParams.get('product');
+    const challengeName = urlParams.get('challenge');
 
     // If the product name is present, send an event to GA4
     if (productName) {
