@@ -7,7 +7,11 @@ title: Challenge.Gov FY23 Year In Review
 <h1 class="text-center mb-6 font-weight-bold">Challenge.Gov FY23 Year In Review</h1>
 <div class="row">
   <div width="80%">
-<p>Need copy.
+<p>Since 2010, Challenge.Gov has supported federal agencies to mature and scale the use of prize competitions and crowdsourcing campaigns in order to advance their missions. In October 2021, Challenge.Gov launched a new platform to facilitate the federal government’s use of prize competitions to engage the public in solving important problems. The new platform provides a dynamic set of features for challenge managers and public solvers.</p>
+
+<p>The new platform opened the door for the Challenge.Gov team to explore new ways to grow a connected community of federal challenge managers and build relationships with other federal partners. Our team worked to increase the adoption and mature the practice of open innovation to advance agency missions through empowering and connecting members of the Challenge and Prize Community of Practice, hosting interactive learning experiences, and developing resources.</p>
+
+<p>Through the collective efforts of federal challenge managers and the Challenge.Gov team, Challenge.Gov hosted more prize competitions from a greater number of federal agencies than in previous years. Together, we are driving innovation in government and exploring new ways to engage members of the American public to bring forward new ideas and solve important problems.
 </p>
   </div>
   <h2>Challenge.Gov Platform Data</h2> 
