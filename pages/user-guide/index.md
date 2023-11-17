@@ -53,7 +53,7 @@ title: User Guide for Public Solvers
 </div> 
 </div> 
 
-<h2>Challenge & Prize Community Data</h2> 
+<h2>Engage with a Challenge</h2> 
 <div class="grid-row grid-gap mt-1"> 
   <div class="tablet:grid-col-3"> 
     <div class="usa-card"> 
