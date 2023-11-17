@@ -7,16 +7,36 @@ title: Challenge.Gov FY23 Year In Review
 <h1 class="text-center mb-6 font-weight-bold">Challenge.Gov FY23 Year In Review</h1>
 <div class="row">
   <div width="80%">
-<p>Since 2010, Challenge.Gov has supported federal agencies to mature and scale the use of prize competitions and crowdsourcing campaigns in order to advance their missions. In October 2021, Challenge.Gov launched a new platform to facilitate the federal government’s use of prize competitions to engage the public in solving important problems. The new platform provides a dynamic set of features for challenge managers and public solvers.</p>
-
-<p>The new platform opened the door for the Challenge.Gov team to explore new ways to grow a connected community of federal challenge managers and build relationships with other federal partners. Our team worked to increase the adoption and mature the practice of open innovation to advance agency missions through empowering and connecting members of the Challenge and Prize Community of Practice, hosting interactive learning experiences, and developing resources. </p>
-
-<p>Through the collective efforts of federal challenge managers and the Challenge.Gov team, Challenge.Gov hosted more prize competitions from a greater number of federal agencies than in previous years. Together, we are driving innovation in government and exploring new ways to engage members of the American public to bring forward new ideas and solve important problems.
+<p>Need copy.
 </p>
   </div>
-  <div>
-    <img src="{{ site.baseurl }}/assets/images/challenge-gov-fy22-year-in-review-infographic.png" alt="Infographic of fiscal year 2022 challenge and social media data."></div>
-  </div>
+  <h2>Explore Challenges</h2> 
+<div class="usr-guide-wrap-main">
+  <div class="grid-row grid-gap mt-1"> 
+    <div class="tablet:grid-col-3"> 
+      <div class="usa-card"><a href="{{ site.baseurl }}/user-guide/explore-active-challenges/" style="text-decoration: none !important;"> 
+        <div class="usa-card__body text-center">
+          <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="explore-active-challenges" role="img">
+            <title id="explore-active-challenges">ChallengeGov user guide explore active challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#emoji_events"></use>
+          </svg>
+        </svg>
+        <h4 class="usa-card__heading text-center user-guide-title">Explore active challenges</h4> 
+      </div></a> 
+    </div> 
+  </div> 
+  <div class="tablet:grid-col-3"> 
+    <div class="usa-card"> 
+      <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/user-guide/view-archived-challenges/" style="text-decoration: none !important;">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="view-archived-challenges" role="img">
+          <title id="view-archived-challenges">ChallengeGov user guide explore active challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#folder"></use>
+        </svg>
+      </svg>
+      <h4 class="usa-card__heading text-center">View archived challenges</h4> 
+    </a> 
+  </div> 
+</div> 
+</div> 
+    
   <br>
 <div class="row">    
 <h2>Looking Ahead</h2><br><br>
@@ -25,11 +45,11 @@ title: Challenge.Gov FY23 Year In Review
   <h3>Our goals for FY24:</h3>
   <div>
 <ul>
-  <li>Continue to deliver high value support to federal agencies, at no cost.</li>
-  <li>Focus technical assistance, resources and support on new challenge managers. </li>
-  <li>Identify, map, and grow the ecosystem of open innovation.</li>
-  <li>Identify important, accessible ways to connect with the public on open innovation.</li>
-  <li>Support challenge managers in telling their agency’s story and experiences.
+  <li>Continue ....</li>
+  <li>Focus.... </li>
+  <li>Identify, map, and grow ....</li>
+  <li>Identify....</li>
+  <li>Support...
 </li>
   </ul>
   </div>
