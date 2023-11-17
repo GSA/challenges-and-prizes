@@ -10,7 +10,7 @@ title: Challenge.Gov FY23 Year In Review
 <p>Need copy.
 </p>
   </div>
-  <h2>Challenge Analysis</h2> 
+  <h2>Challenge.Gov Platform Data</h2> 
 <div class="usr-guide-wrap-main">
   <div class="grid-row grid-gap mt-1"> 
     <div class="tablet:grid-col-3"> 
@@ -20,7 +20,7 @@ title: Challenge.Gov FY23 Year In Review
             <title id="explore-active-challenges">ChallengeGov user guide explore active challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#emoji_events"></use>
           </svg>
         </svg>
-        <h4 class="usa-card__heading text-center user-guide-title">Explore active challenges</h4> 
+        <h4 class="usa-card__heading text-center user-guide-title"># of Prize Competitions</h4> 
       </div></a> 
     </div> 
   </div> 
@@ -31,7 +31,12 @@ title: Challenge.Gov FY23 Year In Review
           <title id="view-archived-challenges">ChallengeGov user guide explore active challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#folder"></use>
         </svg>
       </svg>
-      <h4 class="usa-card__heading text-center">View archived challenges</h4> 
+      <h4 class="usa-card__heading text-center">Prize Purse:
+Total prize purse, 
+Average, 
+Highest prize
+Number non-monetary
+</h4> 
     </a> 
   </div> 
 </div> 
