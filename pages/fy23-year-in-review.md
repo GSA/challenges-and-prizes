@@ -14,7 +14,7 @@ title: Challenge.Gov FY23 Year In Review
 <p>Through the collective efforts of federal challenge managers and the Challenge.Gov team, Challenge.Gov hosted more prize competitions from a greater number of federal agencies than in previous years. Together, we are driving innovation in government and exploring new ways to engage members of the American public to bring forward new ideas and solve important problems.
 </p>
 
-<img src="{{ site.baseurl }}/assets/images/fy23-banner.png" alt="Fiscal year 2023 challenge and social media data.">
+<img src="{{ site.baseurl }}/assets/images/fy23-banner.png" alt="Fiscal year 2023 challenge and social media data."><br><br>
   </div>
   <h2>Challenge.Gov Platform Data</h2> 
 <div class="usr-guide-wrap-main">
@@ -119,7 +119,7 @@ title: Challenge.Gov FY23 Year In Review
 </div> 
 </div> 
 </div> 
-
+<br><br>
 
 <h2>Challenge & Prize Community Data</h2> 
 <div class="grid-row grid-gap mt-1"> 
