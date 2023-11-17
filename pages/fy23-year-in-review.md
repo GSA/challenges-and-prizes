@@ -10,7 +10,7 @@ title: Challenge.Gov FY23 Year In Review
 <p>Need copy.
 </p>
   </div>
-  <h2>Explore Challenges</h2> 
+  <h2>Challenge Analysis</h2> 
 <div class="usr-guide-wrap-main">
   <div class="grid-row grid-gap mt-1"> 
     <div class="tablet:grid-col-3"> 
@@ -39,7 +39,7 @@ title: Challenge.Gov FY23 Year In Review
     
   <br>
 <div class="row">    
-<h2>Looking Ahead</h2><br><br>
+<h2>Social Media and Web Analysis</h2><br><br>
 <p>Challenge.Gov is proud to be part of an ecosystem advancing open innovation in the federal government and engaging the public in open ways.</p> 
 
   <h3>Our goals for FY24:</h3>
