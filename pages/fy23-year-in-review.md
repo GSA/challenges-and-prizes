@@ -17,6 +17,148 @@ title: Challenge.Gov FY23 Year In Review
       <div class="usa-card"><a href="{{ site.baseurl }}/user-guide/explore-active-challenges/" style="text-decoration: none !important;"> 
         <div class="usa-card__body text-center">
           <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="explore-active-challenges" role="img">
+              <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#emoji_events"></use>
+          </svg>
+        </svg>
+        <h4 class="usa-card__heading text-center user-guide-title"># of Prize Competitions</h4> 
+      </div></a> 
+    </div> 
+  </div> 
+  <div class="tablet:grid-col-3"> 
+    <div class="usa-card"> 
+      <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/user-guide/view-archived-challenges/" style="text-decoration: none !important;">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="view-archived-challenges" role="img">
+         <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#folder"></use>
+        </svg>
+      </svg>
+      <h4 class="usa-card__heading text-center">Prize Purse:</h4> 
+    </a> 
+  </div> 
+</div> 
+</div> 
+<div class="tablet:grid-col-3"> 
+  <div class="usa-card"> 
+    <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/user-guide/search-for-challenges/" style="text-decoration: none !important;">
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="search-for-challenges" role="img">
+        <title id="search-for-challenges">ChallengeGov user guide search for challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#search"></use>
+      </svg>
+    </svg>
+    <h4 class="usa-card__heading text-center">Agencies with highest number of challenges 
+</h4> 
+  </a> 
+</div> 
+</div> 
+</div> 
+    <div class="tablet:grid-col-3"> 
+  <div class="usa-card"> 
+    <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/user-guide/search-for-challenges/" style="text-decoration: none !important;">
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="search-for-challenges" role="img">
+        <title id="search-for-challenges">ChallengeGov user guide search for challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#search"></use>
+      </svg>
+    </svg>
+    <h4 class="usa-card__heading text-center">Challenge type </h4> 
+  </a> 
+</div> 
+</div> 
+</div> 
+</div> 
+
+<h2>Challenge & Prize Community Data</h2> 
+<div class="grid-row grid-gap mt-1"> 
+  <div class="tablet:grid-col-3"> 
+    <div class="usa-card"> 
+      <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/user-guide/follow-challenges/" style="text-decoration: none !important;">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="follow-challenges" role="img">
+          <title id="follow-challenges">ChallengeGov user guide follow challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#visibility"></use>
+        </svg>
+      </svg>
+      <h4 class="usa-card__heading text-center">Follow<br />challenges</h4> 
+    </a> </div> 
+  </div> 
+</div> 
+
+<div class="tablet:grid-col-3"> 
+  <div class="usa-card"> 
+    <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/user-guide/save-challenges/" style="text-decoration: none !important;">
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="save-challenges" role="img">
+        <title id="save-challenges">ChallengeGov user guide save challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#push_pin"></use>
+      </svg>
+    </svg>
+    <h4 class="usa-card__heading text-center">Save<br />challenges</h4>
+  </a> 
+</div> 
+</div> 
+</div> 
+
+<div class="tablet:grid-col-3"> 
+  <div class="usa-card"> 
+    <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/user-guide/share-challenges/" style="text-decoration: none !important;">
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="share-challenges" role="img">
+        <title id="share-challenges">ChallengeGov user guide share challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#share"></use>
+      </svg>
+    </svg>
+    <h4 class="usa-card__heading text-center">Share<br />challenges</h4>
+  </a> 
+</div> 
+</div> 
+</div> 
+
+<div class="tablet:grid-col-3"> 
+  <div class="usa-card"> 
+    <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/user-guide/print-challenges/" style="text-decoration: none !important;">
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="print-challenges" role="img">
+        <title id="print-challenges">ChallengeGov user guide print challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#print"></use>
+      </svg>
+    </svg>
+    <h4 class="usa-card__heading text-center">Print<br>challenges</h4> 
+  </a> </div> 
+</div> 
+</div> 
+
+<div class="tablet:grid-col-3"> 
+  <div class="usa-card"> 
+    <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/user-guide/contact-challenge-management/" style="text-decoration: none !important;">
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="contact-team" role="img">
+        <title id="contact-team">ChallengeGov user guide contact team</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#contact_page"></use>
+      </svg>
+    </svg>
+    <h4 class="usa-card__heading text-center">Contact the<br />team</h4>
+  </a> </div> 
+</div> 
+</div> 
+
+<div class="tablet:grid-col-3"> 
+  <div class="usa-card"> 
+    <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/user-guide/submit-to-a-challenge/" style="text-decoration: none !important;">
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="submit-to-a-challenge" role="img">
+        <title id="submit-to-a-challenge">ChallengeGov user guide submit to a challenge</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#keyboard"></use>
+      </svg>
+    </svg>
+    <h4 class="usa-card__heading text-center">Submit to a challenge</h4>
+  </a> </div> 
+</div> 
+</div> 
+
+<div class="tablet:grid-col-3"> 
+  <div class="usa-card"> 
+    <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/user-guide/unfollow-challenges/" style="text-decoration: none !important;">
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="unfollow-challenges" role="img">
+        <title id="unfollow-challenges">ChallengeGov user guide unfollow challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#visibility_off"></use>
+      </svg>
+    </svg>
+    <h4 class="usa-card__heading text-center">Unfollow<br />challenges</h4>
+  </a> </div> 
+</div> 
+</div> 
+</div> 
+
+<h2>Public Engagement Data</h2> 
+<div class="usr-guide-wrap-main">
+  <div class="grid-row grid-gap mt-1"> 
+    <div class="tablet:grid-col-3"> 
+      <div class="usa-card"><a href="{{ site.baseurl }}/user-guide/explore-active-challenges/" style="text-decoration: none !important;"> 
+        <div class="usa-card__body text-center">
+          <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="explore-active-challenges" role="img">
             <title id="explore-active-challenges">ChallengeGov user guide explore active challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#emoji_events"></use>
           </svg>
         </svg>
@@ -139,7 +281,7 @@ title: Challenge.Gov FY23 Year In Review
 </div> 
 </div> 
 
-<h2>Explore Challenges</h2> 
+<h2>Events Approach</h2> 
 <div class="usr-guide-wrap-main">
   <div class="grid-row grid-gap mt-1"> 
     <div class="tablet:grid-col-3"> 
@@ -179,7 +321,7 @@ title: Challenge.Gov FY23 Year In Review
 </div> 
 </div> 
 
-<h2>Challenge & Prize Community Data</h2> 
+<h2>Challenge.Gov in the world</h2> 
 <div class="grid-row grid-gap mt-1"> 
   <div class="tablet:grid-col-3"> 
     <div class="usa-card"> 
