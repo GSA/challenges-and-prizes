@@ -17,16 +17,25 @@ title: User Guide for Public Solvers | Submit to a Challenge
   <div class="grid-row grid-gap justify-content-between">
     <div class="grid-col-7">
       <div class="usa-prose">
-        <p>Submit your entry! This is only available for challenges accepting submissions via the Challenge.Gov portal. These challenges will have an orange <b>Apply for this challenge</b> button in the general information section of the challenge details page.</p>
+        <p>NOTE: This feature is only available for challenges accepting submissions via the Challenge.Gov portal. These challenges will have an Apply for this challenge button in the general information section of the challenge details page.
+</p>
         <ol>
-          <li class="font-bolder"><span>Carefully review the information on the <b>How to enter</b> tab and follow instructions provided to prepare your submission.</span></li><br>
-          <li class="font-bolder"><span>Click the <b>Rules</b> tab to review rules, eligibility, terms and conditions information to ensure your entry meets challenge participation requirements.</span></li><br>
-          <li class="font-bolder"><span>Click <b>Apply for this challenge</b>.</span></li><br>
-          <li class="font-bolder"><span>Click <b>Accept and Sign-in</b> to access the Solver Portal. <a href="{{ site.baseurl }}/user-guide/create-your-account/">Need help logging in or creating a user account?</a></span></li><br>
+          <li class="font-bolder"><span>Prior to applying to a challenge, carefully review the information on the How to enter tab and follow instructions provided to prepare your submission.
+</span></li><br>
+          <li class="font-bolder"><span>Review the Rules tab to review rules, eligibility, terms and conditions information to ensure your entry meets challenge participation requirements.
+</span></li><br>
+          <li class="font-bolder"><span>Click <b>Apply for this challenge</b> button.</span></li><br>
+          <li class="font-bolder">If you are not already logged in, select <b>Accept and Sign-in</b>b> to access the Solver Portal.<a href="{{ site.baseurl }}/user-guide/create-your-account/">Need help logging in or creating a user account?</a></span></li><br>
           <li class="font-bolder"><span>Complete challenge submission form as directed. Click <b>Save draft</b> at any point to save and continue working at a later time.</span></li><br>
-          <li class="font-bolder"><span>Select the box next to <b>“I have read the rules, terms and conditions of this challenge”</b>.</span></li><br>
-          <li class="font-bolder"><span>Click <b>Review and submit</b>. If you’d like to make edits prior to submitting, click <b>Edit</b>.</span></li><br>
-          <li class="font-bolder"><span>Click <b>Submit</b>. You will receive an email from team@challenge.gov with the subject “Challenge.gov - Submission created for [Name of Challenge]”.</span></li>
+          <li class="font-bolder"><span>Complete challenge submission form as directed. Select <b>Save draft</b> at any point to save and continue working at a later time.
+</span></li><br>
+          <li class="font-bolder">Select the box next to <b>“I have read the rules, terms and conditions of this challenge.”</b>
+</span></li><br>
+          <li class="font-bolder">Select Submit.  A window appears for you to confirm you are ready to submit. Either select Cancel to return to edit or Submit to complete your submission.
+</span></li>
+           <li class="font-bolder">You will receive a confirmation email from team@challenge.gov with the subject “Challenge.gov - Submission created for [Name of Challenge]”.
+
+</span></li>
         </ol>
       </div>
     </div>
