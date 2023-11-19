@@ -29,11 +29,11 @@ title: User Guide for Public Solvers | Submit to a Challenge
           <li class="font-bolder"><span>Complete challenge submission form as directed. Click <b>Save draft</b> at any point to save and continue working at a later time.</span></li><br>
           <li class="font-bolder"><span>Complete challenge submission form as directed. Select <b>Save draft</b> at any point to save and continue working at a later time.
 </span></li><br>
-          <li class="font-bolder">Select the box next to <b>“I have read the rules, terms and conditions of this challenge.”</b>
+          <li class="font-bolder"><span>Select the box next to <b>“I have read the rules, terms and conditions of this challenge.”</b>
 </span></li><br>
-          <li class="font-bolder">Select Submit.  A window appears for you to confirm you are ready to submit. Either select Cancel to return to edit or Submit to complete your submission.
+          <li class="font-bolder"><span>Select <b>Submit</b>.  A window appears for you to confirm you are ready to submit. Either select <b>Cancel</b> to return to edit or <b>Submit</b> to complete your submission.
 </span></li>
-           <li class="font-bolder">You will receive a confirmation email from team@challenge.gov with the subject “Challenge.gov - Submission created for [Name of Challenge]”.
+           <li class="font-bolder"><span>You will receive a confirmation email from team@challenge.gov with the subject “Challenge.gov - Submission created for [Name of Challenge]”.
 
 </span></li>
         </ol>
