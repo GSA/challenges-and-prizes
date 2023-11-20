@@ -28,7 +28,7 @@ title: User Guide for Challenge Managers | Collect Submissions
           <li class="font-bolder"><span><b>Acknowledgement of Rules, Terms & Conditions:</b> A link is provided to the Rules tab of your challenge listing allowing participants to review the details before acknowledging (required)</span></li>
         </ol>
         <!-- <p class="padding-x-0 margin-bottom-0">Notes:</p> -->
-        <span>Notes:</span>
+        <span><b>Notes:</b></span>
         <ul>
           <li>You can make uploading files as part of a Challenge submission required or optional.</li>
 <li>If there are specific pieces of information you wish to collect, you can include a submission template file as part of your “How to Enter” instructions detailing the information solvers must provide.The completed form can then be uploaded and included as part of their submission.</li>
