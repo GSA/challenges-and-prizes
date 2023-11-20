@@ -17,7 +17,7 @@ title: User Guide for Public Solvers | Submit to a Challenge
   <div class="grid-row grid-gap justify-content-between">
     <div class="grid-col-7">
       <div class="usa-prose">
-        <p>NOTE: This feature is only available for challenges accepting submissions via the Challenge.Gov portal. These challenges will have an Apply for this challenge button in the general information section of the challenge details page.
+        <p>This feature is only available for challenges accepting submissions via the Challenge.Gov portal. These challenges will have an Apply for this challenge button in the general information section of the challenge details page.
 </p>
         <ol>
           <li class="font-bolder"><span>Prior to applying to a challenge, carefully review the information on the How to enter tab and follow instructions provided to prepare your submission.
