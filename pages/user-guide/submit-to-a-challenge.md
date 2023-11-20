@@ -25,7 +25,7 @@ title: User Guide for Public Solvers | Submit to a Challenge
           <li class="font-bolder"><span>Review the Rules tab to review rules, eligibility, terms and conditions information to ensure your entry meets challenge participation requirements.
 </span></li><br>
           <li class="font-bolder"><span>Click <b>Apply for this challenge</b> button.</span></li><br>
-          <li class="font-bolder"><span>If you are not already logged in, select <b>Accept and Sign-in</b> to access the Solver Portal.<a href="{{ site.baseurl }}/user-guide/create-your-account/">Need help logging in or creating a user account?</a></span></li><br>
+          <li class="font-bolder"><span>If you are not already logged in, select <b>Accept and Sign-in</b> to access the Solver Portal. <a href="{{ site.baseurl }}/user-guide/create-your-account/">Need help logging in or creating a user account?</a></span></li><br>
           <li class="font-bolder"><span>Complete challenge submission form as directed. Click <b>Save draft</b> at any point to save and continue working at a later time.</span></li><br>
           <li class="font-bolder"><span>Complete challenge submission form as directed. Select <b>Save draft</b> at any point to save and continue working at a later time.
 </span></li><br>
