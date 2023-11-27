@@ -96,82 +96,105 @@ Agencies
 </div> 
 </div>
 </div> 
-
-<h2>Challenge & Prize Community Data</h2> 
-<p>Through the collective efforts of federal challenge managers and the Challenge.Gov team, Challenge.Gov hosted more prize competitions from a greater number of federal agencies than in previous years. Together, we are driving innovation in government and exploring new ways to engage members of the American public to bring forward new ideas and solve important problems.
+<hr>
+<h2>Challenge.Gov Platform Data</h2> 
+<p>At the beginning of FY22 Challenge.Gov launched a new platform with a dynamic set of features to facilitate the federal government’s use of prize competitions and engage the public. This year, Challenge.Gov is able to show year-over-year increases in key metrics, including the number of public solver accounts created and submissions to challenges accepting solutions on the site.
 </p>
 <div class="grid-row grid-gap mt-1"> 
   <div class="tablet:grid-col-3"> 
     <div class="usa-card"> 
-      <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/user-guide/follow-challenges/" style="text-decoration: none !important;">
+      <div class="usa-card__body text-center">
         <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="follow-challenges" role="img">
           <title id="follow-challenges">ChallengeGov user guide follow challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#visibility"></use>
         </svg>
       </svg>
-      <h4 class="usa-card__heading text-center">Follow<br />challenges</h4> 
-    </a> </div> 
+      <h4 class="usa-card__heading text-center">297<br>
+FY23 Challenge Manager Accounts
+</h4> 
+      </div> 
   </div> 
 </div> 
 
 <div class="tablet:grid-col-3"> 
   <div class="usa-card"> 
-    <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/user-guide/save-challenges/" style="text-decoration: none !important;">
+    <div class="usa-card__body text-center">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="save-challenges" role="img">
         <title id="save-challenges">ChallengeGov user guide save challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#push_pin"></use>
       </svg>
     </svg>
-    <h4 class="usa-card__heading text-center">Save<br />challenges</h4>
-  </a> 
+    <h4 class="usa-card__heading text-center">733<br>
+Total Challenge Manager Accounts
+</h4>
 </div> 
 </div> 
 </div> 
 
 <div class="tablet:grid-col-3"> 
   <div class="usa-card"> 
-    <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/user-guide/share-challenges/" style="text-decoration: none !important;">
+    <div class="usa-card__body text-center">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="share-challenges" role="img">
         <title id="share-challenges">ChallengeGov user guide share challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#share"></use>
       </svg>
     </svg>
-    <h4 class="usa-card__heading text-center">Share<br />challenges</h4>
-  </a> 
+    <h4 class="usa-card__heading text-center">4,635<br>
+Total Challenge Manager Log-ins
+</h4>
 </div> 
 </div> 
 </div> 
 
 <div class="tablet:grid-col-3"> 
   <div class="usa-card"> 
-    <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/user-guide/print-challenges/" style="text-decoration: none !important;">
+    <div class="usa-card__body text-center">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="print-challenges" role="img">
         <title id="print-challenges">ChallengeGov user guide print challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#print"></use>
       </svg>
     </svg>
-    <h4 class="usa-card__heading text-center">Print<br>challenges</h4> 
-  </a> </div> 
+    <h4 class="usa-card__heading text-center">6,049<br>
+FY23 Public Solver Accounts
+</h4> 
+</div> 
 </div> 
 </div> 
 
 <div class="tablet:grid-col-3"> 
   <div class="usa-card"> 
-    <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/user-guide/contact-challenge-management/" style="text-decoration: none !important;">
+    <div class="usa-card__body text-center">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="contact-team" role="img">
         <title id="contact-team">ChallengeGov user guide contact team</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#contact_page"></use>
       </svg>
     </svg>
-    <h4 class="usa-card__heading text-center">Contact the<br />team</h4>
-  </a> </div> 
+    <h4 class="usa-card__heading text-center">11,038<br>
+Total Public Solver Accounts
+</h4>
+ </div> 
 </div> 
 </div> 
 
 <div class="tablet:grid-col-3"> 
   <div class="usa-card"> 
-    <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/user-guide/submit-to-a-challenge/" style="text-decoration: none !important;">
+    <div class="usa-card__body text-center">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="submit-to-a-challenge" role="img">
         <title id="submit-to-a-challenge">ChallengeGov user guide submit to a challenge</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#keyboard"></use>
       </svg>
     </svg>
-    <h4 class="usa-card__heading text-center">Submit to a challenge</h4>
-  </a> </div> 
+    <h4 class="usa-card__heading text-center">10,432<br>
+Total Public Solver Log-ins
+</h4>
+ </div> 
+</div> 
+</div> 
+<div class="tablet:grid-col-3"> 
+  <div class="usa-card"> 
+    <div class="usa-card__body text-center">
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="submit-to-a-challenge" role="img">
+        <title id="submit-to-a-challenge">ChallengeGov user guide submit to a challenge</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#keyboard"></use>
+      </svg>
+    </svg>
+    <h4 class="usa-card__heading text-center">1,932<br>
+Total Submissions
+</h4>
+ </div> 
 </div> 
 </div> 
 
