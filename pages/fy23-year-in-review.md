@@ -26,7 +26,7 @@ Challenge.Gov saw steady growth in FY23 over the previous fiscal year. There wer
               <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#emoji_events"></use>
           </svg>
         </svg>
-        <h4 class="usa-card__heading text-center user-guide-title">136 Prize Competitions</h4> 
+        <h4 class="usa-card__heading text-center user-guide-title"><b>136</b><br>Prize Competitions</h4> 
       </div>
     </div> 
   </div> 
@@ -37,7 +37,7 @@ Challenge.Gov saw steady growth in FY23 over the previous fiscal year. There wer
          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#attach_money"></use>
         </svg>
       </svg>
-      <h4 class="usa-card__heading text-center">$173,293,500<br>
+      <h4 class="usa-card__heading text-center"><b>$173,293,500</b><br>
 Total Prize Purse
 </h4> 
   </div> 
@@ -50,7 +50,7 @@ Total Prize Purse
         <title id="search-for-challenges">ChallengeGov user guide search for challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#attach_money"></use>
       </svg>
     </svg>
-    <h4 class="usa-card__heading text-center">$1,274,217<br>
+    <h4 class="usa-card__heading text-center"><b>$1,274,217</b><br>
 Average Prize
 </h4> 
 </div> 
@@ -63,7 +63,7 @@ Average Prize
         <title id="search-for-challenges">ChallengeGov user guide search for challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#attach_money"></use>
       </svg>
     </svg>
-    <h4 class="usa-card__heading text-center">$200,000<br>
+    <h4 class="usa-card__heading text-center"><b>$200,000</b><br>
 Median Prize
 </h4>  
 </div> 
