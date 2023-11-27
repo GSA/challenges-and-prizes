@@ -7,7 +7,7 @@ title: Challenge.Gov FY23 Year In Review
 <h1 class="text-center mb-6 font-weight-bold">Challenge.Gov FY23 Year In Review</h1>
 <div class="row">
   <div width="80%">
-<p>Since 2010, Challenge.Gov has supported federal agencies to mature and scale the use of prize competitions and crowdsourcing campaigns to advance their missions. This is the second Year in Review snapshot we are sharing with our community. Check out the FY22 Year in Review. We share this information in the spirit of transparency to show the federal government’s collective impact bringing innovative solutions to important public problems.
+<p>Since 2010, Challenge.Gov has supported federal agencies to mature and scale the use of prize competitions and crowdsourcing campaigns to advance their missions. This is the second Year in Review snapshot we are sharing with our community. Check out the <a href=""{{ site.baseurl }}/fy22-year-in-review/">FY22 Year in Review</a>. We share this information in the spirit of transparency to show the federal government’s collective impact bringing innovative solutions to important public problems.
 </p>
 
 
@@ -16,9 +16,6 @@ title: Challenge.Gov FY23 Year In Review
 Challenge.Gov saw steady growth in FY23 over the previous fiscal year. There were more prize competitions hosted on Challenge.Gov and more federal agencies sponsored prize competitions. The most common type of challenge were those seeking ideas from the public, indicating agencies are leveraging prize competitions as a way to lower barriers to engaging the public and tapping into new audiences.
 </p>
   </div>
-  <h2>Challenge.Gov Platform Data</h2> 
-  
-<p>The new platform opened the door for the Challenge.Gov team to explore new ways to grow a connected community of federal challenge managers and build relationships with other federal partners. Our team worked to increase the adoption and mature the practice of open innovation to advance agency missions through empowering and connecting members of the Challenge and Prize Community of Practice, hosting interactive learning experiences, and developing resources.</p>
 <div class="usr-guide-wrap-main">
   <div class="grid-row grid-gap mt-1"> 
     <div class="tablet:grid-col-3"> 
@@ -39,7 +36,7 @@ Challenge.Gov saw steady growth in FY23 over the previous fiscal year. There wer
          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#folder"></use>
         </svg>
       </svg>
-      <h4 class="usa-card__heading text-center">$173,293,500
+      <h4 class="usa-card__heading text-center">$173,293,500<br>
 Total Prize Purse
 </h4> 
     </a> 
@@ -53,7 +50,7 @@ Total Prize Purse
         <title id="search-for-challenges">ChallengeGov user guide search for challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#search"></use>
       </svg>
     </svg>
-    <h4 class="usa-card__heading text-center">$1,274,217
+    <h4 class="usa-card__heading text-center">$1,274,217<br>
 Average Prize
 </h4> 
   </a> 
@@ -67,8 +64,8 @@ Average Prize
         <title id="search-for-challenges">ChallengeGov user guide search for challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#search"></use>
       </svg>
     </svg>
-    <h4 class="usa-card__heading text-center">$200,000
-Median prize
+    <h4 class="usa-card__heading text-center">$200,000<br>
+Median Prize
 </h4> 
   </a> 
 </div> 
