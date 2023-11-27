@@ -197,6 +197,38 @@ Total Submissions
  </div> 
 </div> 
 </div> 
+<hr>
+<h2>Challenge.Gov Website</h2> 
+<p>At the beginning of FY22 Challenge.Gov launched a new platform with a dynamic set of features to facilitate the federal government’s use of prize competitions and engage the public. This year, Challenge.Gov is able to show year-over-year increases in key metrics, including the number of public solver accounts created and submissions to challenges accepting solutions on the site.
+</p>
+<div class="grid-row grid-gap mt-1"> 
+  <div class="tablet:grid-col-3"> 
+    <div class="usa-card"> 
+      <div class="usa-card__body text-center">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="follow-challenges" role="img">
+          <title id="follow-challenges">ChallengeGov user guide follow challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#visibility"></use>
+        </svg>
+      </svg>
+      <h4 class="usa-card__heading text-center"><b>366,608</b><br>
+Total Sessions
+</h4> 
+      </div> 
+  </div> 
+</div> 
+
+<div class="tablet:grid-col-3"> 
+  <div class="usa-card"> 
+    <div class="usa-card__body text-center">
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="save-challenges" role="img">
+        <title id="save-challenges">ChallengeGov user guide save challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#push_pin"></use>
+      </svg>
+    </svg>
+    <h4 class="usa-card__heading text-center"><b>232,254</b><br>
+Total Users
+</h4>
+</div> 
+</div> 
+</div> 
 
 
 </div> 
