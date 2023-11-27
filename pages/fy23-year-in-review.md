@@ -225,7 +225,7 @@ title: Challenge.Gov FY23 Year In Review
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <svg aria-labelledby="save-challenges" role="img">
           <title id="save-challenges">ChallengeGov user guide save challenges</title>
-          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#account_box"></use>
+          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#groups"></use>
         </svg>
       </svg>
       <h4 class="usa-card__heading text-center"><b>232,254
@@ -292,7 +292,7 @@ title: Challenge.Gov FY23 Year In Review
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <svg aria-labelledby="save-challenges" role="img">
           <title id="save-challenges">ChallengeGov user guide save challenges</title>
-          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#account_box"></use>
+          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#groups"></use>
         </svg>
       </svg>
       <h4 class="usa-card__heading text-center"><b>232,254
