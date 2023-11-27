@@ -76,7 +76,7 @@ Median Prize
         <title id="search-for-challenges">ChallengeGov user guide search for challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#star"></use>
       </svg>
     </svg>
-    <h4 class="usa-card__heading text-center">24<br>
+    <h4 class="usa-card__heading text-center"><b>24</b><br>
 Non-monetary Prizes
 </h4>  
 </div> 
@@ -89,7 +89,7 @@ Non-monetary Prizes
         <title id="search-for-challenges">ChallengeGov user guide search for challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#list"></use>
       </svg>
     </svg>
-    <h4 class="usa-card__heading text-center">19<br>
+    <h4 class="usa-card__heading text-center"><b>19</b><br>
 Agencies
 </h4> 
 </div> 
@@ -108,7 +108,7 @@ Agencies
           <title id="follow-challenges">ChallengeGov user guide follow challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#visibility"></use>
         </svg>
       </svg>
-      <h4 class="usa-card__heading text-center">297<br>
+      <h4 class="usa-card__heading text-center"><b>297</b><br>
 FY23 Challenge Manager Accounts
 </h4> 
       </div> 
@@ -122,7 +122,7 @@ FY23 Challenge Manager Accounts
         <title id="save-challenges">ChallengeGov user guide save challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#push_pin"></use>
       </svg>
     </svg>
-    <h4 class="usa-card__heading text-center">733<br>
+    <h4 class="usa-card__heading text-center"><b>733</b><br>
 Total Challenge Manager Accounts
 </h4>
 </div> 
@@ -136,7 +136,7 @@ Total Challenge Manager Accounts
         <title id="share-challenges">ChallengeGov user guide share challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#share"></use>
       </svg>
     </svg>
-    <h4 class="usa-card__heading text-center">4,635<br>
+    <h4 class="usa-card__heading text-center"><b>4,635</b><br>
 Total Challenge Manager Log-ins
 </h4>
 </div> 
@@ -150,7 +150,7 @@ Total Challenge Manager Log-ins
         <title id="print-challenges">ChallengeGov user guide print challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#print"></use>
       </svg>
     </svg>
-    <h4 class="usa-card__heading text-center">6,049<br>
+    <h4 class="usa-card__heading text-center"><b>6,049</b><br>
 FY23 Public Solver Accounts
 </h4> 
 </div> 
@@ -164,7 +164,7 @@ FY23 Public Solver Accounts
         <title id="contact-team">ChallengeGov user guide contact team</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#contact_page"></use>
       </svg>
     </svg>
-    <h4 class="usa-card__heading text-center">11,038<br>
+    <h4 class="usa-card__heading text-center"><b>11,038</b><br>
 Total Public Solver Accounts
 </h4>
  </div> 
@@ -178,7 +178,7 @@ Total Public Solver Accounts
         <title id="submit-to-a-challenge">ChallengeGov user guide submit to a challenge</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#keyboard"></use>
       </svg>
     </svg>
-    <h4 class="usa-card__heading text-center">10,432<br>
+    <h4 class="usa-card__heading text-center"><b>10,432</b><br>
 Total Public Solver Log-ins
 </h4>
  </div> 
@@ -191,7 +191,7 @@ Total Public Solver Log-ins
         <title id="submit-to-a-challenge">ChallengeGov user guide submit to a challenge</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#keyboard"></use>
       </svg>
     </svg>
-    <h4 class="usa-card__heading text-center">1,932<br>
+    <h4 class="usa-card__heading text-center"><b>1,932</b><br>
 Total Submissions
 </h4>
  </div> 
