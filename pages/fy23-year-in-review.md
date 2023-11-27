@@ -467,8 +467,8 @@ Innovators’ Hour Events
           <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#linkedin"></use>
         </svg>
       </svg>
-      <h4 class="usa-card__heading text-center"><b>806</b><br>
-        LinkedIn Followers
+      <h4 class="usa-card__heading text-center"><b>22</b><br>
+Innovators’ Hour Average Attendance
 </h4>
     </div>
   </div>
@@ -482,9 +482,9 @@ Innovators’ Hour Events
           <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#twitter"></use>
         </svg>
       </svg>
-      <h4 class="usa-card__heading text-center"><b>15,383
+      <h4 class="usa-card__heading text-center"><b>4
 </b><br>
-        Twitter Followers
+Challenge Chats Events
 </h4>
     </div>
   </div>
@@ -495,30 +495,14 @@ Innovators’ Hour Events
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <svg aria-labelledby="share-challenges" role="img">
           <title id="share-challenges">ChallengeGov user guide share challenges</title>
-          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#facebook"></use>
+          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#people"></use>
         </svg>
       </svg>
-      <h4 class="usa-card__heading text-center"><b>4,232
+      <h4 class="usa-card__heading text-center"><b>59
 </b><br>
-       Facebook Followers
+Challenge Chats Average Attendance
+</h4>
+    </div>
+  </div>
+</div>
 
-</h4>
-    </div>
-  </div>
-</div>
-<div class="tablet:grid-col-6">
-  <div class="usa-card">
-    <div class="usa-card__body text-center">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <svg aria-labelledby="share-challenges" role="img">
-          <title id="share-challenges">ChallengeGov user guide share challenges</title>
-          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#youtube"></use>
-        </svg>
-      </svg>
-      <h4 class="usa-card__heading text-center"><b>873
-</b><br>
-NEW! YouTube Views
-</h4>
-    </div>
-  </div>
-</div>
