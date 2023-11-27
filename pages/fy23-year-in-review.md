@@ -78,8 +78,8 @@ Median Prize
         <title id="search-for-challenges">ChallengeGov user guide search for challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#search"></use>
       </svg>
     </svg>
-    <h4 class="usa-card__heading text-center">$200,000<br>
-Median Prize
+    <h4 class="usa-card__heading text-center">24<br>
+Non-monetary Prizes
 </h4> 
   </a> 
 </div> 
@@ -92,8 +92,8 @@ Median Prize
         <title id="search-for-challenges">ChallengeGov user guide search for challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#search"></use>
       </svg>
     </svg>
-    <h4 class="usa-card__heading text-center">$200,000<br>
-Median Prize
+    <h4 class="usa-card__heading text-center">19<br>
+Agencies
 </h4> 
   </a> 
 </div> 
