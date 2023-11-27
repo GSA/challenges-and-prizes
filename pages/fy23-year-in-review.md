@@ -107,7 +107,7 @@ title: Challenge.Gov FY23 Year In Review
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <svg aria-labelledby="follow-challenges" role="img">
           <title id="follow-challenges">ChallengeGov user guide follow challenges</title>
-          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#visibility"></use>
+          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#people"></use>
         </svg>
       </svg>
       <h4 class="usa-card__heading text-center"><b>297</b><br>
@@ -121,7 +121,7 @@ title: Challenge.Gov FY23 Year In Review
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <svg aria-labelledby="save-challenges" role="img">
           <title id="save-challenges">ChallengeGov user guide save challenges</title>
-          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#push_pin"></use>
+          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#people"></use>
         </svg>
       </svg>
       <h4 class="usa-card__heading text-center"><b>733</b><br>
@@ -241,7 +241,7 @@ title: Challenge.Gov FY23 Year In Review
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <svg aria-labelledby="share-challenges" role="img">
           <title id="share-challenges">ChallengeGov user guide share challenges</title>
-          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#share"></use>
+          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#visibility"></use>
         </svg>
       </svg>
       <h4 class="usa-card__heading text-center"><b>823,087</b><br>
@@ -308,7 +308,7 @@ title: Challenge.Gov FY23 Year In Review
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <svg aria-labelledby="share-challenges" role="img">
           <title id="share-challenges">ChallengeGov user guide share challenges</title>
-          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#clock"></use>
+          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#schedule"></use>
         </svg>
       </svg>
       <h4 class="usa-card__heading text-center"><b>22</b><br>
