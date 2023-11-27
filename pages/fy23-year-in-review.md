@@ -446,12 +446,10 @@ NEW! YouTube Views
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <svg aria-labelledby="follow-challenges" role="img">
           <title id="follow-challenges">ChallengeGov user guide follow challenges</title>
-          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#mail"></use>
+          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
         </svg>
       </svg>
-      <h4 class="usa-card__heading text-center"><b>4
-
-</b><br>
+      <h4 class="usa-card__heading text-center"><b>4</b><br>
 Innovators’ Hour Events
 </h4>
     </div>
@@ -479,7 +477,7 @@ Innovators’ Hour Average Attendance
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <svg aria-labelledby="share-challenges" role="img">
           <title id="share-challenges">ChallengeGov user guide share challenges</title>
-          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#forum"></use>
+          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
         </svg>
       </svg>
       <h4 class="usa-card__heading text-center"><b>4
