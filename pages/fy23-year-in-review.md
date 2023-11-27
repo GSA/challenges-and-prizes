@@ -348,8 +348,8 @@ title: Challenge.Gov FY23 Year In Review
 </div>
 <br>
 <hr>
-<h2>Support for Federal Challenge & Prize Community</h2>
-<p>At the beginning of FY22 Challenge.Gov launched a new platform with a dynamic set of features to facilitate the federal government’s use of prize competitions and engage the public. This year, Challenge.Gov is able to show year-over-year increases in key metrics, including the number of public solver accounts created and submissions to challenges accepting solutions on the site. </p>
+<h2>Public Engagement</h2>
+<p>ocial media and content development are key avenues for engaging the public and promoting federal prize competitions. </p>
 <div class="grid-row grid-gap mt-1">
 <div class="tablet:grid-col-6">
   <div class="usa-card">
@@ -360,9 +360,10 @@ title: Challenge.Gov FY23 Year In Review
           <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#visibility"></use>
         </svg>
       </svg>
-      <h4 class="usa-card__heading text-center"><b>1,454
+      <h4 class="usa-card__heading text-center"><b>7,998
+
 </b><br>
-        Customer Service Touchpoints
+Public Newsletter Subscribers
 </h4>
     </div>
   </div>
@@ -376,9 +377,41 @@ title: Challenge.Gov FY23 Year In Review
           <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#push_pin"></use>
         </svg>
       </svg>
-      <h4 class="usa-card__heading text-center"><b>232,254
+      <h4 class="usa-card__heading text-center"><b>7,998
+
 </b><br>
-       Total users
+       Public Newsletter Subscribers
+</h4>
+    </div>
+  </div>
+</div>
+<div class="tablet:grid-col-6">
+  <div class="usa-card">
+    <div class="usa-card__body text-center">
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+        <svg aria-labelledby="share-challenges" role="img">
+          <title id="share-challenges">ChallengeGov user guide share challenges</title>
+          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#linkedin"></use>
+        </svg>
+      </svg>
+      <h4 class="usa-card__heading text-center"><b>806</b><br>
+        LinkedIn Followers
+</h4>
+    </div>
+  </div>
+</div>
+<div class="tablet:grid-col-6">
+  <div class="usa-card">
+    <div class="usa-card__body text-center">
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+        <svg aria-labelledby="share-challenges" role="img">
+          <title id="share-challenges">ChallengeGov user guide share challenges</title>
+          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#twitter"></use>
+        </svg>
+      </svg>
+      <h4 class="usa-card__heading text-center"><b>15,383
+</b><br>
+        Twitter Followers
 </h4>
     </div>
   </div>
@@ -392,8 +425,11 @@ title: Challenge.Gov FY23 Year In Review
           <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#share"></use>
         </svg>
       </svg>
-      <h4 class="usa-card__heading text-center"><b>22</b><br>
-        Office Hours</h4>
+      <h4 class="usa-card__heading text-center"><b>4,232
+</b><br>
+       Facebook Followers
+
+</h4>
     </div>
   </div>
 </div>
@@ -406,22 +442,9 @@ title: Challenge.Gov FY23 Year In Review
           <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#share"></use>
         </svg>
       </svg>
-      <h4 class="usa-card__heading text-center"><b>1,195</b><br>
-        Federal Newsletter Subscribers</h4>
-    </div>
-  </div>
-</div>
-<div class="tablet:grid-col-6">
-  <div class="usa-card">
-    <div class="usa-card__body text-center">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <svg aria-labelledby="share-challenges" role="img">
-          <title id="share-challenges">ChallengeGov user guide share challenges</title>
-          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#share"></use>
-        </svg>
-      </svg>
-      <h4 class="usa-card__heading text-center"><b>10</b><br>
-        Speaking Engagements
+      <h4 class="usa-card__heading text-center"><b>873
+</b><br>
+NEW! YouTube Views
 </h4>
     </div>
   </div>
