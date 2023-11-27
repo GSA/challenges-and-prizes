@@ -230,5 +230,18 @@ Total Users
 </div> 
 </div> 
 
-
+<div class="tablet:grid-col-3"> 
+  <div class="usa-card"> 
+    <div class="usa-card__body text-center">
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="save-challenges" role="img">
+        <title id="save-challenges">ChallengeGov user guide save challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#push_pin"></use>
+      </svg>
+    </svg>
+    <h4 class="usa-card__heading text-center"><b>823,087</b><br>
+Total Page Views
+</h4>
+</div> 
+</div> 
+  
+</div> 
 </div> 
