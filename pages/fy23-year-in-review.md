@@ -12,7 +12,8 @@ title: Challenge.Gov FY23 Year In Review
 
 
 <img src="{{ site.baseurl }}/assets/images/fy23-banner.png" alt="Fiscal year 2023 challenge and social media data."><br><br>
-<p><b>Federal Challenges in FY23</b>
+<h2>Federal Challenges in FY23</h2>
+<p>
 Challenge.Gov saw steady growth in FY23 over the previous fiscal year. There were more prize competitions hosted on Challenge.Gov and more federal agencies sponsored prize competitions. The most common type of challenge were those seeking ideas from the public, indicating agencies are leveraging prize competitions as a way to lower barriers to engaging the public and tapping into new audiences.
 </p>
   </div>
