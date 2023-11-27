@@ -505,4 +505,7 @@ Challenge Chats Average Attendance
     </div>
   </div>
 </div>
-
+</div>
+<h3>Looking Ahead to FY24</h3>
+<p>The Challenge.Gov program will use these insights to develop personas for our audiences and improve service delivery.
+</p>
