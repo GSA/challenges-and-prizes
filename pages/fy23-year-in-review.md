@@ -34,7 +34,7 @@ Challenge.Gov saw steady growth in FY23 over the previous fiscal year. There wer
     <div class="usa-card"> 
       <div class="usa-card__body text-center">
         <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="view-archived-challenges" role="img">
-         <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#folder"></use>
+         <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#attach_money"></use>
         </svg>
       </svg>
       <h4 class="usa-card__heading text-center">$173,293,500<br>
