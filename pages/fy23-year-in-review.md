@@ -47,7 +47,7 @@ Total Prize Purse
   <div class="usa-card"> 
     <div class="usa-card__body text-center">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="search-for-challenges" role="img">
-        <title id="search-for-challenges">ChallengeGov user guide search for challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#search"></use>
+        <title id="search-for-challenges">ChallengeGov user guide search for challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#attach_money"></use>
       </svg>
     </svg>
     <h4 class="usa-card__heading text-center">$1,274,217<br>
@@ -60,7 +60,7 @@ Average Prize
   <div class="usa-card"> 
     <div class="usa-card__body text-center">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="search-for-challenges" role="img">
-        <title id="search-for-challenges">ChallengeGov user guide search for challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#search"></use>
+        <title id="search-for-challenges">ChallengeGov user guide search for challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#attach_money"></use>
       </svg>
     </svg>
     <h4 class="usa-card__heading text-center">$200,000<br>
@@ -73,7 +73,7 @@ Median Prize
   <div class="usa-card"> 
     <div class="usa-card__body text-center">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="search-for-challenges" role="img">
-        <title id="search-for-challenges">ChallengeGov user guide search for challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#search"></use>
+        <title id="search-for-challenges">ChallengeGov user guide search for challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#star"></use>
       </svg>
     </svg>
     <h4 class="usa-card__heading text-center">24<br>
