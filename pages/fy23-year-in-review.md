@@ -479,7 +479,7 @@ Innovators’ Hour Average Attendance
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <svg aria-labelledby="share-challenges" role="img">
           <title id="share-challenges">ChallengeGov user guide share challenges</title>
-          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#twitter"></use>
+          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#forum"></use>
         </svg>
       </svg>
       <h4 class="usa-card__heading text-center"><b>4
