@@ -28,7 +28,7 @@ Challenge.Gov saw steady growth in FY23 over the previous fiscal year. There wer
               <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#emoji_events"></use>
           </svg>
         </svg>
-        <h4 class="usa-card__heading text-center user-guide-title"># of Prize Competitions</h4> 
+        <h4 class="usa-card__heading text-center user-guide-title">136 Prize Competitions</h4> 
       </div></a> 
     </div> 
   </div> 
@@ -39,7 +39,9 @@ Challenge.Gov saw steady growth in FY23 over the previous fiscal year. There wer
          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#folder"></use>
         </svg>
       </svg>
-      <h4 class="usa-card__heading text-center">Prize Purse:</h4> 
+      <h4 class="usa-card__heading text-center">$173,293,500
+Total Prize Purse
+</h4> 
     </a> 
   </div> 
 </div> 
@@ -51,7 +53,8 @@ Challenge.Gov saw steady growth in FY23 over the previous fiscal year. There wer
         <title id="search-for-challenges">ChallengeGov user guide search for challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#search"></use>
       </svg>
     </svg>
-    <h4 class="usa-card__heading text-center">Agencies with highest number of challenges 
+    <h4 class="usa-card__heading text-center">$1,274,217
+Average Prize
 </h4> 
   </a> 
 </div> 
@@ -64,7 +67,9 @@ Challenge.Gov saw steady growth in FY23 over the previous fiscal year. There wer
         <title id="search-for-challenges">ChallengeGov user guide search for challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#search"></use>
       </svg>
     </svg>
-    <h4 class="usa-card__heading text-center">Challenge type </h4> 
+    <h4 class="usa-card__heading text-center">$200,000
+Median prize
+</h4> 
   </a> 
 </div> 
 </div> 
