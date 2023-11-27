@@ -198,15 +198,5 @@ Total Submissions
 </div> 
 </div> 
 
-<div class="tablet:grid-col-3"> 
-  <div class="usa-card"> 
-    <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/user-guide/unfollow-challenges/" style="text-decoration: none !important;">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="unfollow-challenges" role="img">
-        <title id="unfollow-challenges">ChallengeGov user guide unfollow challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#visibility_off"></use>
-      </svg>
-    </svg>
-    <h4 class="usa-card__heading text-center">Unfollow<br />challenges</h4>
-  </a> </div> 
-</div> 
-</div> 
+
 </div> 
