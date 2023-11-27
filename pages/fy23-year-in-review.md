@@ -20,19 +20,19 @@ Challenge.Gov saw steady growth in FY23 over the previous fiscal year. There wer
 <div class="usr-guide-wrap-main">
   <div class="grid-row grid-gap mt-1"> 
     <div class="tablet:grid-col-3"> 
-      <div class="usa-card"><a href="{{ site.baseurl }}/user-guide/explore-active-challenges/" style="text-decoration: none !important;"> 
+      <div class="usa-card">
         <div class="usa-card__body text-center">
           <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="explore-active-challenges" role="img">
               <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#emoji_events"></use>
           </svg>
         </svg>
         <h4 class="usa-card__heading text-center user-guide-title">136 Prize Competitions</h4> 
-      </div></a> 
+      </div>
     </div> 
   </div> 
   <div class="tablet:grid-col-3"> 
     <div class="usa-card"> 
-      <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/user-guide/view-archived-challenges/" style="text-decoration: none !important;">
+      <div class="usa-card__body text-center">
         <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="view-archived-challenges" role="img">
          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#folder"></use>
         </svg>
@@ -40,7 +40,6 @@ Challenge.Gov saw steady growth in FY23 over the previous fiscal year. There wer
       <h4 class="usa-card__heading text-center">$173,293,500<br>
 Total Prize Purse
 </h4> 
-    </a> 
   </div> 
 </div> 
 </div> 
