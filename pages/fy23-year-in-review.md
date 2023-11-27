@@ -7,10 +7,14 @@ title: Challenge.Gov FY23 Year In Review
 <h1 class="text-center mb-6 font-weight-bold">Challenge.Gov FY23 Year In Review</h1>
 <div class="row">
   <div width="80%">
-<p>Since 2010, Challenge.Gov has supported federal agencies to mature and scale the use of prize competitions and crowdsourcing campaigns in order to advance their missions. In October 2021, Challenge.Gov launched a new platform to facilitate the federal government’s use of prize competitions to engage the public in solving important problems. The new platform provides a dynamic set of features for challenge managers and public solvers.</p>
+<p>Since 2010, Challenge.Gov has supported federal agencies to mature and scale the use of prize competitions and crowdsourcing campaigns to advance their missions. This is the second Year in Review snapshot we are sharing with our community. Check out the FY22 Year in Review. We share this information in the spirit of transparency to show the federal government’s collective impact bringing innovative solutions to important public problems.
+</p>
 
 
 <img src="{{ site.baseurl }}/assets/images/fy23-banner.png" alt="Fiscal year 2023 challenge and social media data."><br><br>
+<p><b>Federal Challenges in FY23</b>
+Challenge.Gov saw steady growth in FY23 over the previous fiscal year. There were more prize competitions hosted on Challenge.Gov and more federal agencies sponsored prize competitions. The most common type of challenge were those seeking ideas from the public, indicating agencies are leveraging prize competitions as a way to lower barriers to engaging the public and tapping into new audiences.
+</p>
   </div>
   <h2>Challenge.Gov Platform Data</h2> 
   
