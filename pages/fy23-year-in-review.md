@@ -72,6 +72,34 @@ Median Prize
 </div> 
 </div> 
 </div> 
+       <div class="tablet:grid-col-3"> 
+  <div class="usa-card"> 
+    <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/user-guide/search-for-challenges/" style="text-decoration: none !important;">
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="search-for-challenges" role="img">
+        <title id="search-for-challenges">ChallengeGov user guide search for challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#search"></use>
+      </svg>
+    </svg>
+    <h4 class="usa-card__heading text-center">$200,000<br>
+Median Prize
+</h4> 
+  </a> 
+</div> 
+</div> 
+</div>
+       <div class="tablet:grid-col-3"> 
+  <div class="usa-card"> 
+    <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/user-guide/search-for-challenges/" style="text-decoration: none !important;">
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="search-for-challenges" role="img">
+        <title id="search-for-challenges">ChallengeGov user guide search for challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#search"></use>
+      </svg>
+    </svg>
+    <h4 class="usa-card__heading text-center">$200,000<br>
+Median Prize
+</h4> 
+  </a> 
+</div> 
+</div> 
+</div>
 </div> 
 
 <div class="usr-guide-wrap-main">
