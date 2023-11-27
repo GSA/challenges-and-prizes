@@ -349,7 +349,7 @@ title: Challenge.Gov FY23 Year In Review
 <br>
 <hr>
 <h2>Public Engagement</h2>
-<p>ocial media and content development are key avenues for engaging the public and promoting federal prize competitions. </p>
+<p>Social media and content development are key avenues for engaging the public and promoting federal prize competitions. </p>
 <div class="grid-row grid-gap mt-1">
 <div class="tablet:grid-col-6">
   <div class="usa-card">
@@ -368,23 +368,7 @@ Public Newsletter Subscribers
     </div>
   </div>
 </div>
-<div class="tablet:grid-col-6">
-  <div class="usa-card">
-    <div class="usa-card__body text-center">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <svg aria-labelledby="save-challenges" role="img">
-          <title id="save-challenges">ChallengeGov user guide save challenges</title>
-          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#push_pin"></use>
-        </svg>
-      </svg>
-      <h4 class="usa-card__heading text-center"><b>7,998
 
-</b><br>
-       Public Newsletter Subscribers
-</h4>
-    </div>
-  </div>
-</div>
 <div class="tablet:grid-col-6">
   <div class="usa-card">
     <div class="usa-card__body text-center">
