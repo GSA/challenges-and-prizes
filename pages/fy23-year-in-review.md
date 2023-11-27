@@ -97,58 +97,6 @@ Agencies
 </div>
 </div> 
 
-<div class="usr-guide-wrap-main">
-  <div class="grid-row grid-gap mt-1"> 
-    <div class="tablet:grid-col-3"> 
-      <div class="usa-card"><a href="{{ site.baseurl }}/user-guide/explore-active-challenges/" style="text-decoration: none !important;"> 
-        <div class="usa-card__body text-center">
-          <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="explore-active-challenges" role="img">
-              <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#emoji_events"></use>
-          </svg>
-        </svg>
-        <h4 class="usa-card__heading text-center user-guide-title"># Challenge Manager Accounts</h4> 
-      </div></a> 
-    </div> 
-  </div> 
-  <div class="tablet:grid-col-3"> 
-    <div class="usa-card"> 
-      <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/user-guide/view-archived-challenges/" style="text-decoration: none !important;">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="view-archived-challenges" role="img">
-         <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#folder"></use>
-        </svg>
-      </svg>
-      <h4 class="usa-card__heading text-center"># Public Solver Accounts</h4> 
-    </a> 
-  </div> 
-</div> 
-</div> 
-<div class="tablet:grid-col-3"> 
-  <div class="usa-card"> 
-    <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/user-guide/search-for-challenges/" style="text-decoration: none !important;">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="search-for-challenges" role="img">
-        <title id="search-for-challenges">ChallengeGov user guide search for challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#search"></use>
-      </svg>
-    </svg>
-    <h4 class="usa-card__heading text-center"># Submissions</h4> 
-  </a> 
-</div> 
-</div> 
-</div> 
-    <div class="tablet:grid-col-3"> 
-  <div class="usa-card"> 
-    <div class="usa-card__body text-center"> <a href="{{ site.baseurl }}/user-guide/search-for-challenges/" style="text-decoration: none !important;">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="search-for-challenges" role="img">
-        <title id="search-for-challenges">ChallengeGov user guide search for challenges</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#search"></use>
-      </svg>
-    </svg>
-    <h4 class="usa-card__heading text-center">Activity on the platform (log ins)</h4> 
-  </a> 
-</div> 
-</div> 
-</div> 
-</div> 
-<br><br>
-
 <h2>Challenge & Prize Community Data</h2> 
 <p>Through the collective efforts of federal challenge managers and the Challenge.Gov team, Challenge.Gov hosted more prize competitions from a greater number of federal agencies than in previous years. Together, we are driving innovation in government and exploring new ways to engage members of the American public to bring forward new ideas and solve important problems.
 </p>
