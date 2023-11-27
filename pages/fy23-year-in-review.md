@@ -135,7 +135,7 @@ title: Challenge.Gov FY23 Year In Review
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <svg aria-labelledby="share-challenges" role="img">
           <title id="share-challenges">ChallengeGov user guide share challenges</title>
-          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#share"></use>
+          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#account_box"></use>
         </svg>
       </svg>
       <h4 class="usa-card__heading text-center"><b>4,635</b><br>
@@ -149,7 +149,7 @@ title: Challenge.Gov FY23 Year In Review
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <svg aria-labelledby="print-challenges" role="img">
           <title id="print-challenges">ChallengeGov user guide print challenges</title>
-          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#print"></use>
+          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#account_box"></use>
         </svg>
       </svg>
       <h4 class="usa-card__heading text-center"><b>6,049</b><br>
@@ -163,7 +163,7 @@ title: Challenge.Gov FY23 Year In Review
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <svg aria-labelledby="contact-team" role="img">
           <title id="contact-team">ChallengeGov user guide contact team</title>
-          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#contact_page"></use>
+          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#account_box"></use>
         </svg>
       </svg>
       <h4 class="usa-card__heading text-center"><b>11,038</b><br>
@@ -177,7 +177,7 @@ title: Challenge.Gov FY23 Year In Review
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <svg aria-labelledby="submit-to-a-challenge" role="img">
           <title id="submit-to-a-challenge">ChallengeGov user guide submit to a challenge</title>
-          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#keyboard"></use>
+          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#account_box"></use>
         </svg>
       </svg>
       <h4 class="usa-card__heading text-center"><b>10,432</b><br>
@@ -225,7 +225,7 @@ title: Challenge.Gov FY23 Year In Review
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <svg aria-labelledby="save-challenges" role="img">
           <title id="save-challenges">ChallengeGov user guide save challenges</title>
-          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#push_pin"></use>
+          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#account_box"></use>
         </svg>
       </svg>
       <h4 class="usa-card__heading text-center"><b>232,254
@@ -245,7 +245,7 @@ title: Challenge.Gov FY23 Year In Review
         </svg>
       </svg>
       <h4 class="usa-card__heading text-center"><b>823,087</b><br>
-        Total pageviews</h4>
+        Total Pageviews</h4>
     </div>
   </div>
 </div>
@@ -292,7 +292,7 @@ title: Challenge.Gov FY23 Year In Review
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <svg aria-labelledby="save-challenges" role="img">
           <title id="save-challenges">ChallengeGov user guide save challenges</title>
-          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#user"></use>
+          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#account_box"></use>
         </svg>
       </svg>
       <h4 class="usa-card__heading text-center"><b>232,254
