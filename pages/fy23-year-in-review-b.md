@@ -47,25 +47,25 @@ title: Challenge.Gov FY23 Year In Review
   </thead>
   <tbody>
     <tr>
-      <th scope="row"><img src="{{ site.baseurl }}/assets/images/HHS_logo.jpeg" alt="HHS logo" width="150"><br>Department of Health and Human Services</th>
+      <th scope="row"><img src="{{ site.baseurl }}/assets/images/HHS_logo.jpeg" alt="HHS logo" width="100"><br>Department of Health and Human Services</th>
       <td>
       <span style="color:#c05600; font-size: 40px;">35</span>
       </td>
     </tr>
       <tr>
-      <th scope="row"><img src="{{ site.baseurl }}/assets/images/dod.jpg" alt="HHS logo" width="150"><br>Department of Defense</th>
+      <th scope="row"><img src="{{ site.baseurl }}/assets/images/dod.jpg" alt="HHS logo" width="100"><br>Department of Defense</th>
       <td>
       <span style="color:#c05600; font-size: 40px;">28</span>
       </td>
     </tr>
       <tr>
-      <th scope="row"><img src="{{ site.baseurl }}/assets/images/doe.jpg" alt="HHS logo" width="150"><br>Department of Energy</th>
+      <th scope="row"><img src="{{ site.baseurl }}/assets/images/doe.jpg" alt="HHS logo" width="100"><br>Department of Energy</th>
       <td>
        <span style="color:#c05600; font-size: 40px;">17</span>
       </td>
     </tr>
       <tr>
-      <th scope="row"><img src="{{ site.baseurl }}/assets/images/nasa.jpg" alt="HHS logo" width="150"><br>National Aeronautics and Space Agency</th>
+      <th scope="row"><img src="{{ site.baseurl }}/assets/images/nasa.jpg" alt="HHS logo" width="100"><br>National Aeronautics and Space Agency</th>
       <td>
       <span style="color:#c05600; font-size: 40px;">12</span>
       </td>
