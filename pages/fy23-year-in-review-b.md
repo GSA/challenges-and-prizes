@@ -23,12 +23,8 @@ title: Challenge.Gov FY23 Year In Review
     <div class="tablet:grid-col-6">
       <div class="usa-card">
         <div class="usa-card__body text-left"> 
-          <!--         <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-          <svg aria-labelledby="explore-active-challenges" role="img">
-            <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#emoji_events"></use>
-          </svg>
-        </svg> -->
-          <h3>Federal Challenges in FY23</h3>
+          <h3 color="orange">Federal Challenges in FY23</h3>
+          <hr>
           <p> Challenge.Gov saw steady growth in FY23 over the previous fiscal year. There were more prize competitions hosted on Challenge.Gov and more federal agencies sponsored prize competitions. The most common type of challenge were those seeking ideas from the public, indicating agencies are leveraging prize competitions as a way to lower barriers to engaging the public and tapping into new audiences. </p>
           <ul>
           <li><b>136</b> Prize Competitions</li>
