@@ -27,13 +27,13 @@ title: Challenge.Gov FY23 Year In Review
           <hr>
           <p> Challenge.Gov saw steady growth in FY23 over the previous fiscal year. There were more prize competitions hosted on Challenge.Gov and more federal agencies sponsored prize competitions. The most common type of challenge were those seeking ideas from the public, indicating agencies are leveraging prize competitions as a way to lower barriers to engaging the public and tapping into new audiences. </p>
           <ul>
-          <li><b>136</b> Prize Competitions</li>
-          <li><b>$173,293,500</b> Total Prize Purse</li>
-          <li><b>$1,274,217</b> Average Prize</li>
-          <li><b>$200,000</b> Median Prize</li>
-          <li><b>$22,000,000</b> Highest Prize</li>
-          <li><b>24</b> Non-monetary Prizes</li>
-          <li><b>19</b> Agencies</li>
+          <li><b><span style="color:#fa9441">136</span></b> Prize Competitions</li>
+          <li><b><span style="color:#fa9441">$173,293,500</span></b> Total Prize Purse</li>
+          <li><b><span style="color:#fa9441">$1,274,217</span></b> Average Prize</li>
+          <li><b><span style="color:#fa9441">$200,000</span></b> Median Prize</li>
+          <li><b><span style="color:#fa9441">$22,000,000</span></b> Highest Prize</li>
+          <li><b><span style="color:#fa9441">24</span></b> Non-monetary Prizes</li>
+          <li><b><span style="color:#fa9441">19</span></b> Agencies</li>
           </ul>
           <table class="usa-table">
   <caption>
