@@ -43,12 +43,11 @@ title: Challenge.Gov FY23 Year In Review
     <tr>
       <th scope="col">Agency</th>
       <th scope="col"># of Challenges</th>
-      <th scope="col">Seal</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row"><img src="{{ site.baseurl }}/assets/images/HHS_logo.jpeg" alt="HHS logo" width="50%"> Department of Health and Human Services</th>
+      <th scope="row"><img src="{{ site.baseurl }}/assets/images/HHS_logo.jpeg" alt="HHS logo" width="50%"><br>Department of Health and Human Services</th>
       <td>
        35
       </td>
@@ -59,21 +58,18 @@ title: Challenge.Gov FY23 Year In Review
       <td>
        28
       </td>
-      <td><img src="{{ site.baseurl }}/assets/images/HHS_logo.jpeg" alt="HHS logo" width="50%"></td>
     </tr>
       <tr>
       <th scope="row">Department of Energy</th>
       <td>
        17
       </td>
-      <td><img src="{{ site.baseurl }}/assets/images/HHS_logo.jpeg" alt="HHS logo" width="50%"></td>
     </tr>
       <tr>
       <th scope="row">National Aeronautics and Space Agency</th>
       <td>
        12
       </td>
-      <td><img src="{{ site.baseurl }}/assets/images/HHS_logo.jpeg" alt="HHS logo" width="50%"></td>
     </tr>
    
   </tbody>
