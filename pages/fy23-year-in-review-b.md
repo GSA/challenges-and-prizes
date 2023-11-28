@@ -116,3 +116,32 @@ title: Challenge.Gov FY23 Year In Review
         </div>
       </div>
     </div>
+
+
+<div class="tablet:grid-col-12">
+      <div class="usa-card">
+        <div class="usa-card__body text-left">
+          <h3 style="color:#fa9441">Public Engagement</h3>
+          <hr>
+          <p>Social media and content development are key avenues for engaging the public and promoting federal prize competitions. In FY23, Challenge.Gov launched a new YouTube channel to allow our program to expand our production of video content, including short promotional videos for challenges accepting submissions on the site.</p>
+        <ul>
+          <li><b>7,998
+</b> Public Newsletter Subscribers
+</li>
+
+<li><b>806
+</b> LinkedIn Followers</li>
+
+<li><b>15,383
+</b> Twitter Followers</li>
+
+<li><b>4,232
+</b> Facebook Followers</li>
+
+<li><b>873
+</b> NEW! YouTube Views
+</li>
+</ul>
+        </div>
+      </div>
+    </div>
