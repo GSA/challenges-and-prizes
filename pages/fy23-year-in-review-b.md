@@ -23,7 +23,7 @@ title: Challenge.Gov FY23 Year In Review
     <div class="tablet:grid-col-6">
       <div class="usa-card">
         <div class="usa-card__body text-left"> 
-          <h3 color="orange">Federal Challenges in FY23</h3>
+          <h3 style="color:#fa9441">Federal Challenges in FY23</h3>
           <hr>
           <p> Challenge.Gov saw steady growth in FY23 over the previous fiscal year. There were more prize competitions hosted on Challenge.Gov and more federal agencies sponsored prize competitions. The most common type of challenge were those seeking ideas from the public, indicating agencies are leveraging prize competitions as a way to lower barriers to engaging the public and tapping into new audiences. </p>
           <ul>
@@ -79,7 +79,7 @@ title: Challenge.Gov FY23 Year In Review
   </tbody>
 </table>
 
-          <caption>Challenge Types</caption>
+          <caption><b>Challenge Types</b></caption>
            <img src="{{ site.baseurl }}/assets/images/fy23-challenges_by_type.png" alt="Fiscal year 2023 challenge and social media data." width="100%">
           
         </div>
@@ -88,7 +88,8 @@ title: Challenge.Gov FY23 Year In Review
     <div class="tablet:grid-col-6">
       <div class="usa-card">
         <div class="usa-card__body text-left">
-          <h3>Challenge.Gov Platform Data</h3>
+          <h3 style="color:#fa9441">Challenge.Gov Platform Data</h3>
+          <hr>
           <p>At the beginning of FY22 Challenge.Gov launched a new platform with a dynamic set of features to facilitate the federal government’s use of prize competitions and engage the public. This year, Challenge.Gov is able to show year-over-year increases in key metrics, in</p>
           <ul>
           <li><b>297</b> FY23 Challenge Manager Accounts</li>
@@ -104,7 +105,8 @@ title: Challenge.Gov FY23 Year In Review
 <div class="tablet:grid-col-12">
       <div class="usa-card">
         <div class="usa-card__body text-left">
-          <h3>Support for Federal Challenge & Prize Community</h3>
+          <h3 style="color:#fa9441">Support for Federal Challenge & Prize Community</h3>
+          <hr>
           <p>The Challenge.Gov program supports a thriving federal community of practice with office hours, robust customer support, and practical resources. Through various speaking engagements to both federal and public audiences, the Challenge.Gov team highlights the work of federal challenge managers and advocates for increased use of prize competitions to drive innovation and engage the public.
 </p>
         <ul>
