@@ -69,9 +69,8 @@ title: Challenge.Gov FY23 Year In Review
         </div>
       </div>
     </div>
-
+  </div>
 <br>
-<hr>
 <h2>Challenge.Gov Website</h2>
 <p>At the beginning of FY22 Challenge.Gov launched a new platform with a dynamic set of features to facilitate the federal government’s use of prize competitions and engage the public. This year, Challenge.Gov is able to show year-over-year increases in key metrics, including the number of public solver accounts created and submissions to challenges accepting solutions on the site. </p>
 <div class="grid-row grid-gap mt-1">
