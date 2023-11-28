@@ -24,32 +24,36 @@ title: Challenge.Gov FY23 Year In Review
   <p> Challenge.Gov saw steady growth in FY23 over the previous fiscal year. There were more prize competitions hosted on Challenge.Gov and more federal agencies sponsored prize competitions. The most common type of challenge were those seeking ideas from the public, indicating agencies are leveraging prize competitions as a way to lower barriers to engaging the public and tapping into new audiences. </p>
         <h4 class="usa-card__heading text-left user-guide-title"><b>136</b><br>
           Prize Competitions</h4>
-          <h4 class="usa-card__heading text-left"><b>$173,293,500</b><br>
+          <h4 class="usa-card__heading text-left"><b>$173,293,500</b> 
           Total Prize Purse </h4>
-         <h4 class="usa-card__heading text-left"><b>$1,274,217</b><br>
+         <h4 class="usa-card__heading text-left"><b>$1,274,217</b> 
           Average Prize </h4>
-         <h4 class="usa-card__heading text-left"><b>$200,000</b><br>
+         <h4 class="usa-card__heading text-left"><b>$200,000</b> 
           Median Prize </h4>
-       <h4 class="usa-card__heading text-left"> <b>24</b><br>
+       <h4 class="usa-card__heading text-left"><b>24</b> 
           Non-monetary Prizes </h4>
-                <h4 class="usa-card__heading text-left"><b>19</b><br>
+                <h4 class="usa-card__heading text-left"><b>19</b> 
           Agencies </h4>
-        Agencies with highest number of challenges 
-Department of Health and Human Services: 35
-Department of Defense: 28
-Department of Energy: 17
-National Aeronautics and Space Agency: 12
+        <h4 class="usa-card__heading text-left"> <b>Agencies with highest number of challenges</b></h4>
+<ul>
+  <li>Department of Health and Human Services: 35</li>
+  <li>Department of Defense: 28</li>
+  <li>Department of Defense: 28</li>
+  <li>Department of Energy: 17</li>
+  <li>National Aeronautics and Space Agency: 12</li>
+</ul>
 
-
-Challenge Types
-Ideas: 45
-Technology: 20
-Scientific: 20
-Software: 16
-Analytics: 14
-Creative:12
-Business Plans: 5
-Creative: 4
+<h4 class="usa-card__heading text-left"> <b>Challenge Types</b></h4>
+<ul>
+  <li>Ideas: 45</li>
+<li>Technology: 20</li>
+<li>Scientific: 20</li>
+<li>Software: 16</li>
+<li>Analytics: 14</li>
+<li>Creative:12</li>
+<li>Business Plans: 5</li>
+<li>Creative: 4</li>
+</ul>
 
       </div>
     </div>
