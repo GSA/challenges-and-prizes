@@ -52,11 +52,6 @@ title: Challenge.Gov FY23 Year In Review
     <div class="tablet:grid-col-6">
       <div class="usa-card">
         <div class="usa-card__body text-left">
-          <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-            <svg aria-labelledby="explore-active-challenges" role="img">
-              <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#emoji_events"></use>
-            </svg>
-          </svg>
           <h2>Challenge.Gov Platform Data</h2>
           <p>At the beginning of FY22 Challenge.Gov launched a new platform with a dynamic set of features to facilitate the federal government’s use of prize competitions and engage the public. This year, Challenge.Gov is able to show year-over-year increases in key metrics, in</p>
 			<h4 class="usa-card__heading text-left user-guide-title"><b>1297</b> FY23 Challenge Manager Accounts
@@ -74,70 +69,7 @@ title: Challenge.Gov FY23 Year In Review
         </div>
       </div>
     </div>
-<div class="tablet:grid-col-6">
-  <div class="usa-card">
-    <div class="usa-card__body text-center">
-      <h4 class="usa-card__heading text-center"><b>4,635</b><br>
-        Total Challenge Manager Log-ins </h4>
-    </div>
-  </div>
-</div>
-<div class="tablet:grid-col-6">
-  <div class="usa-card">
-    <div class="usa-card__body text-center">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <svg aria-labelledby="print-challenges" role="img">
-          <title id="print-challenges">ChallengeGov user guide print challenges</title>
-          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#account_box"></use>
-        </svg>
-      </svg>
-      <h4 class="usa-card__heading text-center"><b>6,049</b><br>
-        FY23 Public Solver Accounts </h4>
-    </div>
-  </div>
-</div>
-<div class="tablet:grid-col-6">
-  <div class="usa-card">
-    <div class="usa-card__body text-center">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <svg aria-labelledby="contact-team" role="img">
-          <title id="contact-team">ChallengeGov user guide contact team</title>
-          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#account_box"></use>
-        </svg>
-      </svg>
-      <h4 class="usa-card__heading text-center"><b>11,038</b><br>
-        Total Public Solver Accounts </h4>
-    </div>
-  </div>
-</div>
-<div class="tablet:grid-col-6">
-  <div class="usa-card">
-    <div class="usa-card__body text-center">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <svg aria-labelledby="submit-to-a-challenge" role="img">
-          <title id="submit-to-a-challenge">ChallengeGov user guide submit to a challenge</title>
-          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#login"></use>
-        </svg>
-      </svg>
-      <h4 class="usa-card__heading text-center"><b>10,432</b><br>
-        Total Public Solver Log-ins </h4>
-    </div>
-  </div>
-</div>
-<div class="tablet:grid-col-6">
-  <div class="usa-card">
-    <div class="usa-card__body text-center">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <svg aria-labelledby="submit-to-a-challenge" role="img">
-          <title id="submit-to-a-challenge">ChallengeGov user guide submit to a challenge</title>
-          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#keyboard"></use>
-        </svg>
-      </svg>
-      <h4 class="usa-card__heading text-center"><b>1,932</b><br>
-        Total Submissions </h4>
-    </div>
-  </div>
-</div>
+
 <br>
 <hr>
 <h2>Challenge.Gov Website</h2>
