@@ -93,7 +93,7 @@ title: Challenge.Gov FY23 Year In Review
           <li><b>232,254</b> Total Users</li>
           <li><b>823,087</b> Total Pageviews</li>
           </ul>
-
+<caption>Top 5 U.S. States/Territories</caption>
             <img src="{{ site.baseurl }}/assets/images/map.png" alt="Fiscal year 2023 challenge and social media data." width="100%"><br>
 
         </div>
