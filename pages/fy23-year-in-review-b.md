@@ -112,18 +112,15 @@ title: Challenge.Gov FY23 Year In Review
           <h3>Support for Federal Challenge & Prize Community</h3>
           <p>The Challenge.Gov program supports a thriving federal community of practice with office hours, robust customer support, and practical resources. Through various speaking engagements to both federal and public audiences, the Challenge.Gov team highlights the work of federal challenge managers and advocates for increased use of prize competitions to drive innovation and engage the public.
 </p>
-          1,454
-Customer Service Touchpoints
+        <ul>
+          <li><b>1,454</b> Customer Service Touchpoints</li>
 
-22
-Office Hours
+<li><b>22</b> Office Hours</li>
 
-1,195
-Federal Newsletter Subscribers
+<li><b>1,195</b> Federal Newsletter Subscribers</li>
 
-10
-Speaking Engagements
-
+<li><b>10</b> Speaking Engagements</li>
+</ul>
         </div>
       </div>
     </div>
