@@ -100,6 +100,7 @@ title: Challenge.Gov FY23 Year In Review
           <h4 class="usa-card__heading text-left user-guide-title"><b>10,432</b> Total Public Solver Log-ins</h4>
           <h4 class="usa-card__heading text-left user-guide-title"><b>1,932</b> Total Submissions </h4>
         </div>
+        </div>
 <div class="tablet:grid-col-6">
       <div class="usa-card">
         <div class="usa-card__body text-left">
