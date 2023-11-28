@@ -80,17 +80,10 @@ title: Challenge.Gov FY23 Year In Review
    
   </tbody>
 </table>
+
           <h4 class="usa-card__heading text-left"> <b>Challenge Types</b></h4>
-          <ul>
-            <li>Ideas: 45</li>
-            <li>Technology: 20</li>
-            <li>Scientific: 20</li>
-            <li>Software: 16</li>
-            <li>Analytics: 14</li>
-            <li>Creative:12</li>
-            <li>Business Plans: 5</li>
-            <li>Creative: 4</li>
-          </ul>
+           <img src="{{ site.baseurl }}/assets/images/challenges_by_type.png" alt="Fiscal year 2023 challenge and social media data." width="100%">
+          
         </div>
       </div>
     </div>
