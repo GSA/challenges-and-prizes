@@ -81,7 +81,7 @@ title: Challenge.Gov FY23 Year In Review
   </tbody>
 </table>
 
-          <h3 class="usa-card__heading text-left"> <b>Challenge Types</b></h3>
+          <caption>Challenge Types</caption>
            <img src="{{ site.baseurl }}/assets/images/fy23-challenges_by_type.png" alt="Fiscal year 2023 challenge and social media data." width="100%">
           
         </div>
@@ -101,7 +101,7 @@ title: Challenge.Gov FY23 Year In Review
           <h4 class="usa-card__heading text-left user-guide-title"><b>1,932</b> Total Submissions </h4>
         </div>
         </div>
-<div class="tablet:grid-col-6">
+<div class="tablet:grid-col-12">
       <div class="usa-card">
         <div class="usa-card__body text-left">
           <h3>Support for Federal Challenge & Prize Community</h3>
