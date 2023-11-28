@@ -96,14 +96,14 @@ title: Challenge.Gov FY23 Year In Review
           <h3>Challenge.Gov Platform Data</h3>
           <p>At the beginning of FY22 Challenge.Gov launched a new platform with a dynamic set of features to facilitate the federal government’s use of prize competitions and engage the public. This year, Challenge.Gov is able to show year-over-year increases in key metrics, in</p>
           <ul>
-          <li><b>1297</b> FY23 Challenge Manager Accounts</li>
-          <li><b> 733</b> Total Challenge Manager Accounts</li>
-          <li><b>4,635</b> Total Challenge Manager Log-ins</li>
+          <li><b>297</b> FY23 Challenge Manager Accounts</li>
           <li><b>6,049</b> FY23 Public Solver Accounts</li>
-          <li><b>11,038</b> Total Public Solver Accounts</li>
-          <li><b>10,432</b> Total Public Solver Log-ins</li>
-          <li><b>1,932</b> Total Submissions</li>
+          <li><b>366,608</b> Total Sessions</li>
+          <li><b>232,254</b> Total Users</li>
+          <li><b>823,087</b> Total Pageviews</li>
           </ul>
+
+        map
         </div>
         </div>
 <div class="tablet:grid-col-12">
