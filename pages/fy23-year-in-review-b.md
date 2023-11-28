@@ -28,7 +28,7 @@ title: Challenge.Gov FY23 Year In Review
             <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#emoji_events"></use>
           </svg>
         </svg> -->
-          <h2>Federal Challenges in FY23</h2>
+          <h3>Federal Challenges in FY23</h3>
           <p> Challenge.Gov saw steady growth in FY23 over the previous fiscal year. There were more prize competitions hosted on Challenge.Gov and more federal agencies sponsored prize competitions. The most common type of challenge were those seeking ideas from the public, indicating agencies are leveraging prize competitions as a way to lower barriers to engaging the public and tapping into new audiences. </p>
           <h4 class="usa-card__heading text-left user-guide-title"><b>136</b> Prize Competitions</h4>
           <h4 class="usa-card__heading text-left"><b>$173,293,500</b> Total Prize Purse </h4>
@@ -81,7 +81,7 @@ title: Challenge.Gov FY23 Year In Review
   </tbody>
 </table>
 
-          <h4 class="usa-card__heading text-left"> <b>Challenge Types</b></h4>
+          <h3 class="usa-card__heading text-left"> <b>Challenge Types</b></h3>
            <img src="{{ site.baseurl }}/assets/images/challenges_by_type.png" alt="Fiscal year 2023 challenge and social media data." width="100%">
           
         </div>
@@ -90,7 +90,7 @@ title: Challenge.Gov FY23 Year In Review
     <div class="tablet:grid-col-6">
       <div class="usa-card">
         <div class="usa-card__body text-left">
-          <h2>Challenge.Gov Platform Data</h2>
+          <h3>Challenge.Gov Platform Data</h3>
           <p>At the beginning of FY22 Challenge.Gov launched a new platform with a dynamic set of features to facilitate the federal government’s use of prize competitions and engage the public. This year, Challenge.Gov is able to show year-over-year increases in key metrics, in</p>
           <h4 class="usa-card__heading text-left user-guide-title"><b>1297</b> FY23 Challenge Manager Accounts</h4>
           <h4 class="usa-card__heading text-left user-guide-title"><b> 733</b> Total Challenge Manager Accounts</h4>
