@@ -35,9 +35,9 @@ title: Challenge.Gov FY23 Year In Review
           <li><b><span style="color:#c05600">24</span></b> Non-monetary Prizes</li>
           <li><b><span style="color:#c05600">19</span></b> Agencies</li>
           </ul>
-          <table class="usa-table">
+          <table class="usa-table"><br>
   <caption>
-    Agencies with Highest Number of Challenges
+    <b>Agencies with Highest Number of Challenges</b>
   </caption>
   <thead>
     <tr>
@@ -93,7 +93,7 @@ title: Challenge.Gov FY23 Year In Review
           <li><b>232,254</b> Total Users</li>
           <li><b>823,087</b> Total Pageviews</li>
           </ul>
-<caption>Top 5 U.S. States/Territories</caption>
+<caption><b>Top 5 U.S. States/Territories</b></caption>
             <img src="{{ site.baseurl }}/assets/images/map.png" alt="Fiscal year 2023 challenge and social media data." width="100%"><br>
 
         </div>
