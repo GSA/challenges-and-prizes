@@ -74,8 +74,6 @@ title: Challenge.Gov FY23 Year In Review
         </div>
       </div>
     </div>
-  </div>
-</div>
 <div class="tablet:grid-col-6">
   <div class="usa-card">
     <div class="usa-card__body text-center">
