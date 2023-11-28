@@ -13,6 +13,13 @@ title: Challenge.Gov FY23 Year In Review
 </div>
 <div class="usr-guide-wrap-main">
   <div class="grid-row grid-gap mt-1">
+        <div class="tablet:grid-col-12">
+      <div class="usa-card">
+        <div class="usa-card__body text-left"> 
+         <h2>Highlights</h2>
+        </div>
+      </div>
+    </div>
     <div class="tablet:grid-col-6">
       <div class="usa-card">
         <div class="usa-card__body text-left"> 
