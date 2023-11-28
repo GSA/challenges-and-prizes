@@ -24,74 +24,15 @@ title: Challenge.Gov FY23 Year In Review
         </svg>
         <h4 class="usa-card__heading text-center user-guide-title"><b>136</b><br>
           Prize Competitions</h4>
-      </div>
-    </div>
-  </div>
-  <div class="tablet:grid-col-6">
-    <div class="usa-card">
-      <div class="usa-card__body text-center">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-          <svg aria-labelledby="view-archived-challenges" role="img">
-            <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#attach_money"></use>
-          </svg>
-        </svg>
-        <h4 class="usa-card__heading text-center"><b>$173,293,500</b><br>
+          <h4 class="usa-card__heading text-center"><b>$173,293,500</b><br>
           Total Prize Purse </h4>
-      </div>
-    </div>
-  </div>
-  <div class="tablet:grid-col-6">
-    <div class="usa-card">
-      <div class="usa-card__body text-center">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-          <svg aria-labelledby="search-for-challenges" role="img">
-            <title id="search-for-challenges">ChallengeGov user guide search for challenges</title>
-            <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#attach_money"></use>
-          </svg>
-        </svg>
-        <h4 class="usa-card__heading text-center"><b>$1,274,217</b><br>
+         <h4 class="usa-card__heading text-center"><b>$1,274,217</b><br>
           Average Prize </h4>
-      </div>
-    </div>
-  </div>
-  <div class="tablet:grid-col-6">
-    <div class="usa-card">
-      <div class="usa-card__body text-center">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-          <svg aria-labelledby="search-for-challenges" role="img">
-            <title id="search-for-challenges">ChallengeGov user guide search for challenges</title>
-            <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#attach_money"></use>
-          </svg>
-        </svg>
-        <h4 class="usa-card__heading text-center"><b>$200,000</b><br>
+         <h4 class="usa-card__heading text-center"><b>$200,000</b><br>
           Median Prize </h4>
-      </div>
-    </div>
-  </div>
-  <div class="tablet:grid-col-6">
-    <div class="usa-card">
-      <div class="usa-card__body text-center">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-          <svg aria-labelledby="search-for-challenges" role="img">
-            <title id="search-for-challenges">ChallengeGov user guide search for challenges</title>
-            <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#star"></use>
-          </svg>
-        </svg>
-        <h4 class="usa-card__heading text-center"><b>24</b><br>
+       <h4 class="usa-card__heading text-center"> <b>24</b><br>
           Non-monetary Prizes </h4>
-      </div>
-    </div>
-  </div>
-  <div class="tablet:grid-col-6">
-    <div class="usa-card">
-      <div class="usa-card__body text-center">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-          <svg aria-labelledby="search-for-challenges" role="img">
-            <title id="search-for-challenges">ChallengeGov user guide search for challenges</title>
-            <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#list"></use>
-          </svg>
-        </svg>
-        <h4 class="usa-card__heading text-center"><b>19</b><br>
+                <h4 class="usa-card__heading text-center"><b>19</b><br>
           Agencies </h4>
       </div>
     </div>
