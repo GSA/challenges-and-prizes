@@ -22,54 +22,76 @@ title: Challenge.Gov FY23 Year In Review
         </svg>
         <h2>Federal Challenges in FY23</h2>
   <p> Challenge.Gov saw steady growth in FY23 over the previous fiscal year. There were more prize competitions hosted on Challenge.Gov and more federal agencies sponsored prize competitions. The most common type of challenge were those seeking ideas from the public, indicating agencies are leveraging prize competitions as a way to lower barriers to engaging the public and tapping into new audiences. </p>
-        <h4 class="usa-card__heading text-center user-guide-title"><b>136</b><br>
+        <h4 class="usa-card__heading text-left user-guide-title"><b>136</b><br>
           Prize Competitions</h4>
-          <h4 class="usa-card__heading text-center"><b>$173,293,500</b><br>
+          <h4 class="usa-card__heading text-left"><b>$173,293,500</b><br>
           Total Prize Purse </h4>
-         <h4 class="usa-card__heading text-center"><b>$1,274,217</b><br>
+         <h4 class="usa-card__heading text-left"><b>$1,274,217</b><br>
           Average Prize </h4>
-         <h4 class="usa-card__heading text-center"><b>$200,000</b><br>
+         <h4 class="usa-card__heading text-left"><b>$200,000</b><br>
           Median Prize </h4>
-       <h4 class="usa-card__heading text-center"> <b>24</b><br>
+       <h4 class="usa-card__heading text-left"> <b>24</b><br>
           Non-monetary Prizes </h4>
-                <h4 class="usa-card__heading text-center"><b>19</b><br>
+                <h4 class="usa-card__heading text-left"><b>19</b><br>
           Agencies </h4>
+        Agencies with highest number of challenges 
+Department of Health and Human Services: 35
+Department of Defense: 28
+Department of Energy: 17
+National Aeronautics and Space Agency: 12
+
+
+Challenge Types
+Ideas: 45
+Technology: 20
+Scientific: 20
+Software: 16
+Analytics: 14
+Creative:12
+Business Plans: 5
+Creative: 4
+
       </div>
     </div>
   </div>
-</div>
-<hr>
-<h2>Challenge.Gov Platform Data</h2>
-<p>At the beginning of FY22 Challenge.Gov launched a new platform with a dynamic set of features to facilitate the federal government’s use of prize competitions and engage the public. This year, Challenge.Gov is able to show year-over-year increases in key metrics, including the number of public solver accounts created and submissions to challenges accepting solutions on the site. </p>
-<div class="grid-row grid-gap mt-1">
-<div class="tablet:grid-col-6">
-  <div class="usa-card">
-    <div class="usa-card__body text-center">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <svg aria-labelledby="follow-challenges" role="img">
-          <title id="follow-challenges">ChallengeGov user guide follow challenges</title>
-          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#people"></use>
+
+  <div class="tablet:grid-col-6">
+    <div class="usa-card">
+      <div class="usa-card__body text-left">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+          <svg aria-labelledby="explore-active-challenges" role="img">
+            <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#emoji_events"></use>
+          </svg>
         </svg>
-      </svg>
-      <h4 class="usa-card__heading text-center"><b>297</b><br>
-        FY23 Challenge Manager Accounts </h4>
+     <h2>Challenge.Gov Platform Data</h2>
+<p>At the beginning of FY22 Challenge.Gov launched a new platform with a dynamic set of features to facilitate the federal government’s use of prize competitions and engage the public. This year, Challenge.Gov is able to show year-over-year increases in key metrics, in
+        <h4 class="usa-card__heading text-left user-guide-title"><b>1297
+FY23 Challenge Manager Accounts
+733
+Total Challenge Manager Accounts
+
+4,635
+Total Challenge Manager Log-ins
+
+6,049
+FY23 Public Solver Accounts
+
+11,038
+Total Public Solver Accounts
+
+10,432
+Total Public Solver Log-ins
+
+1,932
+Total Submissions
+</h4>
+      </div>
     </div>
   </div>
+
+  
 </div>
-<div class="tablet:grid-col-6">
-  <div class="usa-card">
-    <div class="usa-card__body text-center">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <svg aria-labelledby="save-challenges" role="img">
-          <title id="save-challenges">ChallengeGov user guide save challenges</title>
-          <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#people"></use>
-        </svg>
-      </svg>
-      <h4 class="usa-card__heading text-center"><b>733</b><br>
-        Total Challenge Manager Accounts </h4>
-    </div>
-  </div>
-</div>
+
 <div class="tablet:grid-col-6">
   <div class="usa-card">
     <div class="usa-card__body text-center">
