@@ -38,12 +38,49 @@ title: Challenge.Gov FY23 Year In Review
           <h4 class="usa-card__heading text-left"><b>19</b> Agencies </h4>
           <br>
           <h4 class="usa-card__heading text-left"> <b>Agencies with highest number of challenges</b></h4>
-          <ul>
-            <li>Department of Health and Human Services: 35</li>
-            <li>Department of Defense: 28</li>
-            <li>Department of Energy: 17</li>
-            <li>National Aeronautics and Space Agency: 12</li>
-          </ul>
+          <table class="usa-table">
+  <caption>
+    Agencies with highest number of challenges
+  </caption>
+  <thead>
+    <tr>
+      <th scope="col">Agency</th>
+      <th scope="col"># of Challenges</th>
+      <th scope="col">Seal</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Department of Health and Human Services</th>
+      <td>
+       35
+      </td>
+      <td>image</td>
+    </tr>
+      <tr>
+      <th scope="row">Department of Defense</th>
+      <td>
+       28
+      </td>
+      <td>image</td>
+    </tr>
+      <tr>
+      <th scope="row">Department of Energy</th>
+      <td>
+       17
+      </td>
+      <td>image</td>
+    </tr>
+      <tr>
+      <th scope="row">National Aeronautics and Space Agency</th>
+      <td>
+       12
+      </td>
+      <td>image</td>
+    </tr>
+   
+  </tbody>
+</table>
           <h4 class="usa-card__heading text-left"> <b>Challenge Types</b></h4>
           <ul>
             <li>Ideas: 45</li>
