@@ -48,7 +48,7 @@ title: Challenge.Gov FY23 Year In Review
   </thead>
   <tbody>
     <tr>
-      <th scope="row">Department of Health and Human Services</th>
+      <th scope="row"><img src="{{ site.baseurl }}/assets/images/HHS_logo.jpeg" alt="HHS logo" width="50%"> Department of Health and Human Services</th>
       <td>
        35
       </td>
