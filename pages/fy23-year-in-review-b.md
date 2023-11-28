@@ -1,5 +1,5 @@
 ---
-permalink: /fy23-year-in-review/
+permalink: /fy23-year-in-review-b/
 layout: page
 title: Challenge.Gov FY23 Year In Review
 ---
