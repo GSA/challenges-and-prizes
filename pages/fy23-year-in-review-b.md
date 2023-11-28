@@ -100,7 +100,7 @@ title: Challenge.Gov FY23 Year In Review
 <div class="tablet:grid-col-12">
       <div class="usa-card">
         <div class="usa-card__body text-left">
-          <h3 style="color:#fa9441">Support for Federal Challenge & Prize Community</h3>
+          <h3 style="color:#c05600">Support for Federal Challenge & Prize Community</h3>
           <hr>
           <p>The Challenge.Gov program supports a thriving federal community of practice with office hours, robust customer support, and practical resources. Through various speaking engagements to both federal and public audiences, the Challenge.Gov team highlights the work of federal challenge managers and advocates for increased use of prize competitions to drive innovation and engage the public.
 </p>
@@ -121,7 +121,7 @@ title: Challenge.Gov FY23 Year In Review
 <div class="tablet:grid-col-12">
       <div class="usa-card">
         <div class="usa-card__body text-left">
-          <h3 style="color:#fa9441">Public Engagement</h3>
+          <h3 style="color:#c05600">Public Engagement</h3>
           <hr>
           <p>Social media and content development are key avenues for engaging the public and promoting federal prize competitions. In FY23, Challenge.Gov launched a new YouTube channel to allow our program to expand our production of video content, including short promotional videos for challenges accepting submissions on the site.</p>
         <ul>
@@ -141,6 +141,33 @@ title: Challenge.Gov FY23 Year In Review
 <li><b>873
 </b> NEW! YouTube Views
 </li>
+</ul>
+        </div>
+      </div>
+    </div>
+
+<div class="tablet:grid-col-12">
+      <div class="usa-card">
+        <div class="usa-card__body text-left">
+          <h3 style="color:#c05600">Events Approach</h3>
+          <hr>
+          <p>This year, Challenge.Gov sought new ways to partner with federal challenge managers and engage the public. Innovators’ Hours featured longer-form presentations with 2-3 federal challenge managers. In the second half of the year, we developed a new two-part public engagement format we call Challenge Chats. Challenge Chats feature a single challenge accepting submissions through the Challenge.Gov portal. The Challenge.Gov team produces a brief, 60 second challenge video promotion and a 20 minute facilitated Q&A with the challenge manager. </p>
+        <ul>
+          <li><b>4
+</b> Innovators’ Hour Events
+</li>
+
+<li><b>22
+</b> Innovators’ Hour Average Attendance
+</li>
+
+<li><b>4
+</b> Challenge Chats Events
+</li>
+
+<li><b>59
+</b> Challenge Chats Average Attendance</li>
+
 </ul>
         </div>
       </div>
