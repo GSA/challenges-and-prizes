@@ -35,6 +35,7 @@ title: Challenge.Gov FY23 Year In Review
           <li><b>$173,293,500</b> Total Prize Purse</li>
           <li><b>$1,274,217</b> Average Prize</li>
           <li><b>$200,000</b> Median Prize</li>
+          <li><b>$22,000,000</b> Highest Prize</li>
           <li><b>24</b> Non-monetary Prizes</li>
           <li><b>19</b> Agencies</li>
           </ul>
