@@ -37,7 +37,6 @@ title: Challenge.Gov FY23 Year In Review
           <h4 class="usa-card__heading text-left"><b>24</b> Non-monetary Prizes </h4>
           <h4 class="usa-card__heading text-left"><b>19</b> Agencies </h4>
           <br>
-          <h4 class="usa-card__heading text-left"> <b>Agencies with highest number of challenges</b></h4>
           <table class="usa-table">
   <caption>
     Agencies with highest number of challenges
@@ -55,7 +54,7 @@ title: Challenge.Gov FY23 Year In Review
       <td>
        35
       </td>
-      <td>image</td>
+      <td><img src="{{ site.baseurl }}/assets/images/HHS_logo.jpeg" alt="HHS logo"></td>
     </tr>
       <tr>
       <th scope="row">Department of Defense</th>
