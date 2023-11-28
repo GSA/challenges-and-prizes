@@ -94,7 +94,8 @@ title: Challenge.Gov FY23 Year In Review
           <li><b>823,087</b> Total Pageviews</li>
           </ul>
 
-        map
+            <img src="{{ site.baseurl }}/assets/images/map.png" alt="Fiscal year 2023 challenge and social media data." width="100%"><br>
+
         </div>
         </div>
 <div class="tablet:grid-col-12">
