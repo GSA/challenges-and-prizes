@@ -54,28 +54,28 @@ title: Challenge.Gov FY23 Year In Review
       <td>
        35
       </td>
-      <td><img src="{{ site.baseurl }}/assets/images/HHS_logo.jpeg" alt="HHS logo"></td>
+      <td><img src="{{ site.baseurl }}/assets/images/HHS_logo.jpeg" alt="HHS logo" width="50%"></td>
     </tr>
       <tr>
       <th scope="row">Department of Defense</th>
       <td>
        28
       </td>
-      <td>image</td>
+      <td><img src="{{ site.baseurl }}/assets/images/HHS_logo.jpeg" alt="HHS logo" width="50%"></td>
     </tr>
       <tr>
       <th scope="row">Department of Energy</th>
       <td>
        17
       </td>
-      <td>image</td>
+      <td><img src="{{ site.baseurl }}/assets/images/HHS_logo.jpeg" alt="HHS logo" width="50%"></td>
     </tr>
       <tr>
       <th scope="row">National Aeronautics and Space Agency</th>
       <td>
        12
       </td>
-      <td>image</td>
+      <td><img src="{{ site.baseurl }}/assets/images/HHS_logo.jpeg" alt="HHS logo" width="50%"></td>
     </tr>
    
   </tbody>
