@@ -20,7 +20,7 @@ title: Challenge.Gov FY23 Year In Review
 <div class="usr-guide-wrap-main">
   <div class="grid-row grid-gap mt-1">
        
-    <div class="tablet:grid-col-6">
+    <div class="tablet:grid-col-4">
       <div class="usa-card">
         <div class="usa-card__body text-left"> 
           <!--         <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -87,7 +87,7 @@ title: Challenge.Gov FY23 Year In Review
         </div>
       </div>
     </div>
-    <div class="tablet:grid-col-6">
+    <div class="tablet:grid-col-4">
       <div class="usa-card">
         <div class="usa-card__body text-left">
           <h3>Challenge.Gov Platform Data</h3>
@@ -108,7 +108,7 @@ title: Challenge.Gov FY23 Year In Review
     
   </div>
 </div>
-<div class="tablet:grid-col-6">
+<div class="tablet:grid-col-4">
       <div class="usa-card">
         <div class="usa-card__body text-left">
           <h3>Support for Federal Challenge & Prize Community</h3>
