@@ -23,17 +23,17 @@ title: Challenge.Gov FY23 Year In Review
     <div class="tablet:grid-col-6">
       <div class="usa-card">
         <div class="usa-card__body text-left"> 
-          <h3 style="color:#fa9441">Federal Challenges in FY23</h3>
+          <h3 style="color:#c05600">Federal Challenges in FY23</h3>
           <hr>
           <p> Challenge.Gov saw steady growth in FY23 over the previous fiscal year. There were more prize competitions hosted on Challenge.Gov and more federal agencies sponsored prize competitions. The most common type of challenge were those seeking ideas from the public, indicating agencies are leveraging prize competitions as a way to lower barriers to engaging the public and tapping into new audiences. </p>
           <ul>
-          <li><b><span style="color:#fa9441">136</span></b> Prize Competitions</li>
-          <li><b><span style="color:#fa9441">$173,293,500</span></b> Total Prize Purse</li>
-          <li><b><span style="color:#fa9441">$1,274,217</span></b> Average Prize</li>
-          <li><b><span style="color:#fa9441">$200,000</span></b> Median Prize</li>
-          <li><b><span style="color:#fa9441">$22,000,000</span></b> Highest Prize</li>
-          <li><b><span style="color:#fa9441">24</span></b> Non-monetary Prizes</li>
-          <li><b><span style="color:#fa9441">19</span></b> Agencies</li>
+          <li><b><span style="color:#c05600">136</span></b> Prize Competitions</li>
+          <li><b><span style="color:#c05600">$173,293,500</span></b> Total Prize Purse</li>
+          <li><b><span style="color:#c05600">$1,274,217</span></b> Average Prize</li>
+          <li><b><span style="color:#c05600">$200,000</span></b> Median Prize</li>
+          <li><b><span style="color:#c05600">$22,000,000</span></b> Highest Prize</li>
+          <li><b><span style="color:#c05600">24</span></b> Non-monetary Prizes</li>
+          <li><b><span style="color:#c05600">19</span></b> Agencies</li>
           </ul>
           <table class="usa-table">
   <caption>
@@ -84,7 +84,7 @@ title: Challenge.Gov FY23 Year In Review
     <div class="tablet:grid-col-6">
       <div class="usa-card">
         <div class="usa-card__body text-left">
-          <h3 style="color:#fa9441">Challenge.Gov Platform Data</h3>
+          <h3 style="color:#c05600">Challenge.Gov Platform Data</h3>
           <hr>
           <p>At the beginning of FY22 Challenge.Gov launched a new platform with a dynamic set of features to facilitate the federal government’s use of prize competitions and engage the public. This year, Challenge.Gov is able to show year-over-year increases in key metrics, in</p>
           <ul>
