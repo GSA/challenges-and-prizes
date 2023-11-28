@@ -6,9 +6,8 @@ title: Challenge.Gov FY23 Year In Review
 <h1 class="text-center mb-6 font-weight-bold">Challenge.Gov FY23 Year In Review</h1>
 <div class="row">
   <div width="80%">
-    <p>Since 2010, Challenge.Gov has supported federal agencies to mature and scale the use of prize competitions and crowdsourcing campaigns to advance their missions. This is the second Year in Review snapshot we are sharing with our community. Check out the <a href="{{ site.baseurl }}/fy22-year-in-review/">FY22 Year in Review</a>. We share this information in the spirit of transparency to show the federal government’s collective impact bringing innovative solutions to important public problems. </p>
+    <p>Since 2010, Challenge.Gov has supported federal agencies to mature and scale the use of prize competitions and crowdsourcing campaigns to advance their missions. This is the second Year in Review snapshot we are sharing with our community. Check out the <a href="{{ site.baseurl }}/fy22-year-in-review/">FY22 Year in Review</a>. We share this information in the spirit of transparency to show the federal government’s collective impact bringing innovative solutions to important public problems. </p><br>
     <img src="{{ site.baseurl }}/assets/images/fy23-banner.png" alt="Fiscal year 2023 challenge and social media data." width="100%"><br>
-    <br>
   </div>
   <div class="usr-guide-wrap-main">
     <div class="grid-row grid-gap mt-1">
