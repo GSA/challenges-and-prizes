@@ -205,12 +205,11 @@ title: Challenge.Gov FY23 Year In Review
       <li>Revise and update the vision, mission, and values statements for Challenge.Gov and use them to guide our work. </li>
       <li>Develop personas for our audiences to improve service delivery. </li>
       <li>Create new features and capabilities of the Challenge.Gov platform, including an evaluation function for challenge managers. </li>
-      <li>Produce additional training assets for both federal challenge managers and members of the public, including how-to videos for using the site and leading practices for public events </li>
+      <li>Produce additional training assets for both federal challenge managers and members of the public, including how-to videos for using the site and leading practices for public events.</li>
     </ul>
     </p>
           </div>
         </div>
       </div>
-   
   </div>
 </div>
