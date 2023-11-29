@@ -160,9 +160,6 @@ title: Challenge.Gov FY23 Year In Review
           </div>
         </div>
       </div>
-      <div class="tablet:grid-col-6">
-        <div class="usa-card">
-          <div class="usa-card__body text-left">
            
             <h3 style="color:#c05600">Looking Ahead to FY24</h3>
             <hr>
@@ -176,8 +173,6 @@ title: Challenge.Gov FY23 Year In Review
       <li>Produce additional training assets for both federal challenge managers and members of the public, including how-to videos for using the site and leading practices for public events.</li>
     </ul>
     </p>
-          </div>
-        </div>
-      </div>
+          
   </div>
 </div>
