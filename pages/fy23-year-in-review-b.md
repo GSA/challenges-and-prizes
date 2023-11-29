@@ -14,24 +14,31 @@ title: Challenge.Gov FY23 Year In Review
         <div class="tablet:grid-col-6">
           <div class="usa-card">
             <div class="usa-card__body text-left">
-              <h2><span style="color: #538200;">Key Metric</span></h2>
+              <h2><span style="color: #538200;">Key Metrics</span></h2>
               <p>Through the combined efforts of federal challenge managers and the Challenge.Gov team, federal prize competitions and engagement on Challenge.Gov increased across multiple key metrics in FY23 compared to the previous year:</p>
               <div class="grid-container">
                 <div class="grid-row">
                   <div class="tablet:grid-col">
-                    <ul>
+                   <span style="color: #538200;"><b>+7%</b></span> Number of prize competitions<br>
+                   <span style="color: #538200;"><b>+46%</b></span> Total prize purse<br>
+                    <span style="color: #538200;"><b>+41%</b></span>Number of challenge manager accounts<br>
+                  <span style="color: #538200;"><b>+55%</b></span> Number of public solver accounts
+<!--                     <ul>
                       <li><span style="color: #538200;"><b>+7%</b></span> Number of prize competitions</li>
                       <li><span style="color: #538200;"><b>+46%</b></span> Total prize purse</li>
                       <li><span style="color: #538200;"><b>+41%</b></span>Number of challenge manager accounts</li>
                       <li><span style="color: #538200;"><b>+55%</b></span> Number of public solver accounts</li>
-                    </ul>
+                    </ul> -->
                   </div>
                   <div class="tablet:grid-col">
-                    <ul>
+                    <span style="color: #538200;"><b>+50%</b></span> Number of public newsletter subscribers<br>
+                    <span style="color: #538200;"><b>+22%</b></span> Total number of website sessions<br>
+                    <span style="color: #538200;"><b>+20%</b></span> Number of website users
+<!--                     <ul>
                       <li><span style="color: #538200;"><b>+50%</b></span> Number of public newsletter subscribers</li>
                       <li><span style="color: #538200;"><b>+22%</b></span> Total number of website sessions</li>
                       <li><span style="color: #538200;"><b>+20%</b></span> Number of website users</li>
-                    </ul>
+                    </ul> -->
                   </div>
                 </div>
               </div>
