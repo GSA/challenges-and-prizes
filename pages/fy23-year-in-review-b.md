@@ -19,9 +19,9 @@ title: Challenge.Gov FY23 Year In Review
               <div class="grid-container">
                 <div class="grid-row">
                   <div class="tablet:grid-col">
-                   <span style="color: #538200;"><b>+7%</b></span> Number of prize competitions<br>
-                   <span style="color: #538200;"><b>+46%</b></span> Total prize purse<br>
-                    <span style="color: #538200;"><b>+41%</b></span>Number of challenge manager accounts<br>
+                   <span style="color: #538200;"><b>+7%</b></span> Number of prize competitions<br><br>
+                   <span style="color: #538200;"><b>+46%</b></span> Total prize purse<br><br>
+                    <span style="color: #538200;"><b>+41%</b></span>Number of challenge manager accounts<br><br>
                   <span style="color: #538200;"><b>+55%</b></span> Number of public solver accounts
 <!--                     <ul>
                       <li><span style="color: #538200;"><b>+7%</b></span> Number of prize competitions</li>
@@ -31,8 +31,8 @@ title: Challenge.Gov FY23 Year In Review
                     </ul> -->
                   </div>
                   <div class="tablet:grid-col">
-                    <span style="color: #538200;"><b>+50%</b></span> Number of public newsletter subscribers<br>
-                    <span style="color: #538200;"><b>+22%</b></span> Total number of website sessions<br>
+                    <span style="color: #538200;"><b>+50%</b></span> Number of public newsletter subscribers<br><br>
+                    <span style="color: #538200;"><b>+22%</b></span> Total number of website sessions<br><br>
                     <span style="color: #538200;"><b>+20%</b></span> Number of website users
 <!--                     <ul>
                       <li><span style="color: #538200;"><b>+50%</b></span> Number of public newsletter subscribers</li>
@@ -145,7 +145,7 @@ title: Challenge.Gov FY23 Year In Review
           <caption>
           <b>Heatmap of Challenges Per States/Territories</b>
           </caption>
-          <img src="{{ site.baseurl }}/assets/images/cg-map.png" alt="" width="100%"><br>
+          <img src="{{ site.baseurl }}/assets/images/heatmap.png" alt="" width="100%"><br>
         </div>
       </div>
       <div class="tablet:grid-col-12">
