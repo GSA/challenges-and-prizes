@@ -28,13 +28,13 @@ title: Challenge.Gov FY23 Year In Review
           <p>Federal challenge data includes the number, prize amount, agencies, and challenge types for the year. In FY23, the most common type of challenge were those seeking ideas from the public, indicating agencies are leveraging prize competitions as a way to lower barriers to engaging the public and tapping into new audiences.
 </p>
           <ul>
-          <li><b><span style="color:#c05600">136</span></b> Prize Competitions</li>
-          <li><b><span style="color:#c05600">$173,293,500</span></b> Total Prize Purse</li>
-          <li><b><span style="color:#c05600">$1,274,217</span></b> Average Prize</li>
-          <li><b><span style="color:#c05600">$200,000</span></b> Median Prize</li>
-          <li><b><span style="color:#c05600">$22,000,000</span></b> Highest Prize</li>
-          <li><b><span style="color:#c05600">24</span></b> Non-monetary Prizes</li>
-          <li><b><span style="color:#c05600">19</span></b> Agencies</li>
+          <li><b><span style="color:#c05600; list-style-type: none;">136</span></b> Prize Competitions</li>
+          <li><b><span style="color:#c05600; list-style-type: none;">$173,293,500</span></b> Total Prize Purse</li>
+          <li><b><span style="color:#c05600; list-style-type: none;">$1,274,217</span></b> Average Prize</li>
+          <li><b><span style="color:#c05600; list-style-type: none;">$200,000</span></b> Median Prize</li>
+          <li><b><span style="color:#c05600; list-style-type: none;">$22,000,000</span></b> Highest Prize</li>
+          <li><b><span style="color:#c05600; list-style-type: none;">24</span></b> Non-monetary Prizes</li>
+          <li><b><span style="color:#c05600; list-style-type: none;">19</span></b> Agencies</li>
           </ul>
           <table class="usa-table" border="0"><br>
           
