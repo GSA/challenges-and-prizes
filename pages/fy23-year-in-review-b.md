@@ -59,19 +59,13 @@ title: Challenge.Gov FY23 Year In Review
           <p>Federal challenge data includes the number, prize amount, agencies, and challenge types for the year. In FY23, the most common type of challenge were those seeking ideas from the public, indicating agencies are leveraging prize competitions as a way to lower barriers to engaging the public and tapping into new audiences. </p>
           <div class="grid-row">
             <div class="tablet:grid-col">
-              <ul>
-                <li><b><span style="color:#c05600; list-style-type: none;">136</span></b> Prize competitions</li>
-                <li><b><span style="color:#c05600; list-style-type: none;">$173,293,500</span></b> Total prize purse</li>
-                <li><b><span style="color:#c05600; list-style-type: none;">$1,274,217</span></b> Average prize</li>
-                <li><b><span style="color:#c05600; list-style-type: none;">$200,000</span></b> Median prize</li>
-              </ul>
-            </div>
-            <div class="tablet:grid-col">
-              <ul>
-                <li><b><span style="color:#c05600; list-style-type: none;">$22,000,000</span></b> Highest prize</li>
-                <li><b><span style="color:#c05600; list-style-type: none;">24</span></b> Non-monetary prizes</li>
-                <li><b><span style="color:#c05600; list-style-type: none;">19</span></b> Agencies</li>
-              </ul>
+                 <span style="color: #c05600; font-size: 24px;"><b>136</span></b> Prize competitions<br>
+                 <span style="color: #c05600; font-size: 24px;"><b>$173,293,500</span></b> Total prize purse<br>
+                <span style="color: #c05600; font-size: 24px;"><b>$1,274,217</span></b> Average prize<br>
+                 <span style="color: #c05600; font-size: 24px;"><b>$200,000</span></b> Median prize<br>
+                 <span style="color: #c05600; font-size: 24px;"><b>$22,000,000</span></b> Highest prize<br>
+                 <span style="color: #c05600; font-size: 24px;"><b>24</span></b> Non-monetary prizes<br>
+                 <span style="color: #c05600; font-size: 24px;"><b>19</span></b> Agencies
             </div>
           </div>
           <table class="usa-table" border="0">
