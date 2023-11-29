@@ -111,13 +111,13 @@ title: Challenge.Gov FY23 Year In Review
         <div class="usa-card__body text-left">
           <h3 style="color:#c05600">Challenge.Gov Platform Data</h3>
           <hr>
-          <p>Challenge.Gov launched a new platform in October 2022 with a dynamic set of features to facilitate the federal government’s use of prize competitions and engage the public, including secure accounts for federal challenge managers and the public.</p>
+          <p>Challenge.Gov launched a new platform in October 2022 with a dynamic set of features to facilitate the federal government’s use of prize competitions and engage the public, including secure accounts for federal challenge managers and the public.
           <span style="color: #c05600; font-size: 24px;"><b>297</b></span> FY23 Challenge Manager accounts<br>
             <span style="color: #c05600; font-size: 24px;"><b>6,049</b></span> FY23 Public Solver accounts<br>
             <span style="color: #c05600; font-size: 24px;"><b>366,608</b></span> Total sessions<br>
             <span style="color: #c05600; font-size: 24px;"><b>232,254</b></span> Total users<br>
            <span style="color: #c05600; font-size: 24px;"><b>823,087</b></span> Total pageviews
- 
+ </p>
           <br>
           <hr>
           <caption>
@@ -131,13 +131,12 @@ title: Challenge.Gov FY23 Year In Review
           <div class="usa-card__body text-left">
             <h3 style="color:#c05600">Support for Federal Challenge & Prize Community</h3>
             <hr>
-            <p>The Challenge.Gov program supports a thriving federal community of practice with office hours, robust customer support, and practical resources. Through various speaking engagements to both federal and public audiences, the Challenge.Gov team highlights the work of federal challenge managers and advocates for increased use of prize competitions to drive innovation and engage the public.</p>
-            <ul>
-              <li><b>1,454</b> Customer service touchpoints</li>
-              <li><b>22</b> Office Hours</li>
-              <li><b>1,195</b> Federal newsletter subscribers</li>
-              <li><b>10</b> Speaking engagements</li>
-            </ul>
+            <p>The Challenge.Gov program supports a thriving federal community of practice with office hours, robust customer support, and practical resources. Through various speaking engagements to both federal and public audiences, the Challenge.Gov team highlights the work of federal challenge managers and advocates for increased use of prize competitions to drive innovation and engage the public.
+            <span style="color: #c05600; font-size: 24px;"><b>1,454</b></span> Customer service touchpoints<br>
+             <span style="color: #c05600; font-size: 24px;"><b>22</b></span> Office Hours<br>
+              <span style="color: #c05600; font-size: 24px;"><b>1,195</b></span> Federal newsletter subscribers<br>
+             <span style="color: #c05600; font-size: 24px;"><b>10</b></span> Speaking engagements<br>
+          </p>
           </div>
         </div>
       </div>
