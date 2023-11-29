@@ -84,40 +84,6 @@ title: Challenge.Gov FY23 Year In Review
                   National Aeronautics and Space Agency</div>
   </div>
 </div>
-<!--           <table class="usa-table" border="0">
-            <hr>
-            <caption>
-            <b>Agencies with Highest Number of Challenges</b>
-            </caption>
-            <thead>
-              <tr>
-                <th scope="col">Agency</th>
-                <th scope="col"># of Challenges</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr width="50%">
-                <th scope="row"><img src="{{ site.baseurl }}/assets/images/HHS_logo.jpeg" alt="HHS logo" width="100"><br>
-                  Department of Health and Human Services</th>
-                <td><span style="color:#c05600; font-size: 40px;">35</span></td>
-              </tr>
-              <tr width="50%">
-                <th scope="row"><img src="{{ site.baseurl }}/assets/images/dod.jpg" alt="HHS logo" width="100"><br>
-                  Department of Defense</th>
-                <td><span style="color:#c05600; font-size: 40px;">28</span></td>
-              </tr>
-              <tr width="50%">
-                <th scope="row"><img src="{{ site.baseurl }}/assets/images/doe.jpg" alt="HHS logo" width="100"><br>
-                  Department of Energy</th>
-                <td><span style="color:#c05600; font-size: 40px;">17</span></td>
-              </tr>
-              <tr width="50%">
-                <th scope="row"><img src="{{ site.baseurl }}/assets/images/nasa.jpg" alt="HHS logo" width="100"><br>
-                  National Aeronautics and Space Agency</th>
-                <td><span style="color:#c05600; font-size: 40px;">12</span></td>
-              </tr>
-            </tbody>
-          </table><br> -->
           <hr>
           <caption>
           <b>Challenge Types</b>
@@ -161,7 +127,10 @@ title: Challenge.Gov FY23 Year In Review
           </div>
         </div>
       </div>
-      <div class="tablet:grid-col-12">
+
+      
+    </div>
+          <div class="tablet:grid-col-6">
         <div class="usa-card">
           <div class="usa-card__body text-left">
             <h3 style="color:#c05600">Public Engagement</h3>
@@ -177,8 +146,6 @@ title: Challenge.Gov FY23 Year In Review
           </div>
         </div>
       </div>
-      
-    </div>
     <div class="tablet:grid-col-6">
         <div class="usa-card">
           <div class="usa-card__body text-left">
