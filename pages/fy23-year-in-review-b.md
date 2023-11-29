@@ -21,8 +21,11 @@ title: Challenge.Gov FY23 Year In Review
                   <div class="tablet:grid-col">
                    <span style="color: #538200;"><b>+7%</b></span> Number of prize competitions<br><br>
                    <span style="color: #538200;"><b>+46%</b></span> Total prize purse<br><br>
-                    <span style="color: #538200;"><b>+41%</b></span>Number of challenge manager accounts<br><br>
-                  <span style="color: #538200;"><b>+55%</b></span> Number of public solver accounts
+                    <span style="color: #538200;"><b>+41%</b></span> Number of challenge manager accounts<br><br>
+                  <span style="color: #538200;"><b>+55%</b></span> Number of public solver accounts<br><br>
+                     <span style="color: #538200;"><b>+50%</b></span> Number of public newsletter subscribers<br><br>
+                    <span style="color: #538200;"><b>+22%</b></span> Total number of website sessions<br><br>
+                    <span style="color: #538200;"><b>+20%</b></span> Number of website users
 <!--                     <ul>
                       <li><span style="color: #538200;"><b>+7%</b></span> Number of prize competitions</li>
                       <li><span style="color: #538200;"><b>+46%</b></span> Total prize purse</li>
@@ -31,9 +34,7 @@ title: Challenge.Gov FY23 Year In Review
                     </ul> -->
                   </div>
                   <div class="tablet:grid-col">
-                    <span style="color: #538200;"><b>+50%</b></span> Number of public newsletter subscribers<br><br>
-                    <span style="color: #538200;"><b>+22%</b></span> Total number of website sessions<br><br>
-                    <span style="color: #538200;"><b>+20%</b></span> Number of website users
+                   
 <!--                     <ul>
                       <li><span style="color: #538200;"><b>+50%</b></span> Number of public newsletter subscribers</li>
                       <li><span style="color: #538200;"><b>+22%</b></span> Total number of website sessions</li>
