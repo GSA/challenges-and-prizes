@@ -19,13 +19,13 @@ title: Challenge.Gov FY23 Year In Review
               <div class="grid-container">
                 <div class="grid-row">
                   <div class="tablet:grid-col" style="line-height: 1.5">
-                   <span style="color: #538200;"><b>+7%</b></span> Number of prize competitions<br>
-                   <span style="color: #538200;"><b>+46%</b></span> Total prize purse<br>
-                    <span style="color: #538200;"><b>+41%</b></span> Number of challenge manager accounts<br>
-                    <span style="color: #538200;"><b>+55%</b></span> Number of public solver accounts<br>
-                     <span style="color: #538200;"><b>+50%</b></span> Number of public newsletter subscribers<br>
-                    <span style="color: #538200;"><b>+22%</b></span> Total number of website sessions<br>
-                    <span style="color: #538200;"><b>+20%</b></span> Number of website users
+                   <span style="color: #538200; font-size: 20;"><b>+7%</b></span> Number of prize competitions<br>
+                   <span style="color: #538200; font-size: 20;"><b>+46%</b></span> Total prize purse<br>
+                    <span style="color: #538200; font-size: 20;"><b>+41%</b></span> Number of challenge manager accounts<br>
+                    <span style="color: #538200; font-size: 20;"><b>+55%</b></span> Number of public solver accounts<br>
+                     <span style="color: #538200; font-size: 20;"><b>+50%</b></span> Number of public newsletter subscribers<br>
+                    <span style="color: #538200; font-size: 20;"><b>+22%</b></span> Total number of website sessions<br>
+                    <span style="color: #538200; font-size: 20;"><b>+20%</b></span> Number of website users
                   </div>
                 </div>
               </div>
