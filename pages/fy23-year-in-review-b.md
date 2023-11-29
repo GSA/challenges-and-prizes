@@ -14,23 +14,23 @@ title: Challenge.Gov FY23 Year In Review
         <div class="tablet:grid-col-6">
           <div class="usa-card">
             <div class="usa-card__body text-left">
-              <h2><span style="color: #538200;">Key Metrix</span></h2>
+              <h2><span style="color: #538200;">Key Metric</span></h2>
               <p>Through the combined efforts of federal challenge managers and the Challenge.Gov team, federal prize competitions and engagement on Challenge.Gov increased across multiple key metrics in FY23 compared to the previous year:</p>
               <div class="grid-container">
                 <div class="grid-row">
                   <div class="tablet:grid-col">
                     <ul>
-                      <li>Number of prize competitions: <span style="color: #538200;"><b>+7%</b></span></li>
-                      <li>Total prize purse: <span style="color: #538200;"><b>+46%</b></span></li>
-                      <li>Number of challenge manager accounts: <span style="color: #538200;"><b>+41%</b></span></li>
-                      <li>Number of public solver accounts: <span style="color: #538200;"><b>+55%</b></span></li>
+                      <li><span style="color: #538200;"><b>+7%</b></span> Number of prize competitions</li>
+                      <li><span style="color: #538200;"><b>+46%</b></span> Total prize purse</li>
+                      <li><span style="color: #538200;"><b>+41%</b></span>Number of challenge manager accounts</li>
+                      <li><span style="color: #538200;"><b>+55%</b></span> Number of public solver accounts</li>
                     </ul>
                   </div>
                   <div class="tablet:grid-col">
                     <ul>
-                      <li>Number of public newsletter subscribers: <span style="color: #538200;"><b>+50%</b></span></li>
-                      <li>Total number of website sessions: <span style="color: #538200;"><b>+22%</b></span></li>
-                      <li>Number of website users: <span style="color: #538200;"><b>+20%</b></span></li>
+                      <li><span style="color: #538200;"><b>+50%</b></span> Number of public newsletter subscribers</li>
+                      <li><span style="color: #538200;"><b>+22%</b></span> Total number of website sessions</li>
+                      <li><span style="color: #538200;"><b>+20%</b></span> Number of website users</li>
                     </ul>
                   </div>
                 </div>
@@ -66,16 +66,16 @@ title: Challenge.Gov FY23 Year In Review
           <div class="grid-row">
             <div class="tablet:grid-col">
               <ul>
-                <li><b><span style="color:#c05600; list-style-type: none;">136</span></b> Prize Competitions</li>
-                <li><b><span style="color:#c05600; list-style-type: none;">$173,293,500</span></b> Total Prize Purse</li>
-                <li><b><span style="color:#c05600; list-style-type: none;">$1,274,217</span></b> Average Prize</li>
-                <li><b><span style="color:#c05600; list-style-type: none;">$200,000</span></b> Median Prize</li>
+                <li><b><span style="color:#c05600; list-style-type: none;">136</span></b> Prize competitions</li>
+                <li><b><span style="color:#c05600; list-style-type: none;">$173,293,500</span></b> Total prize purse</li>
+                <li><b><span style="color:#c05600; list-style-type: none;">$1,274,217</span></b> Average prize</li>
+                <li><b><span style="color:#c05600; list-style-type: none;">$200,000</span></b> Median prize</li>
               </ul>
             </div>
             <div class="tablet:grid-col">
               <ul>
-                <li><b><span style="color:#c05600; list-style-type: none;">$22,000,000</span></b> Highest Prize</li>
-                <li><b><span style="color:#c05600; list-style-type: none;">24</span></b> Non-monetary Prizes</li>
+                <li><b><span style="color:#c05600; list-style-type: none;">$22,000,000</span></b> Highest prize</li>
+                <li><b><span style="color:#c05600; list-style-type: none;">24</span></b> Non-monetary prizes</li>
                 <li><b><span style="color:#c05600; list-style-type: none;">19</span></b> Agencies</li>
               </ul>
             </div>
@@ -127,11 +127,11 @@ title: Challenge.Gov FY23 Year In Review
           <hr>
           <p>Challenge.Gov launched a new platform in October 2022 with a dynamic set of features to facilitate the federal government’s use of prize competitions and engage the public, including secure accounts for federal challenge managers and the public.</p>
           <ul>
-            <li><b>297</b> FY23 Challenge Manager Accounts</li>
-            <li><b>6,049</b> FY23 Public Solver Accounts</li>
-            <li><b>366,608</b> Total Sessions</li>
-            <li><b>232,254</b> Total Users</li>
-            <li><b>823,087</b> Total Pageviews</li>
+            <li><b>297</b> FY23 Challenge Manager accounts</li>
+            <li><b>6,049</b> FY23 Public Solver accounts</li>
+            <li><b>366,608</b> Total sessions</li>
+            <li><b>232,254</b> Total users</li>
+            <li><b>823,087</b> Total pageviews</li>
           </ul>
           <br>
           <hr>
@@ -148,10 +148,10 @@ title: Challenge.Gov FY23 Year In Review
             <hr>
             <p>The Challenge.Gov program supports a thriving federal community of practice with office hours, robust customer support, and practical resources. Through various speaking engagements to both federal and public audiences, the Challenge.Gov team highlights the work of federal challenge managers and advocates for increased use of prize competitions to drive innovation and engage the public.</p>
             <ul>
-              <li><b>1,454</b> Customer Service Touchpoints</li>
+              <li><b>1,454</b> Customer service touchpoints</li>
               <li><b>22</b> Office Hours</li>
-              <li><b>1,195</b> Federal Newsletter Subscribers</li>
-              <li><b>10</b> Speaking Engagements</li>
+              <li><b>1,195</b> Federal newsletter subscribers</li>
+              <li><b>10</b> Speaking engagements</li>
             </ul>
           </div>
         </div>
@@ -163,11 +163,11 @@ title: Challenge.Gov FY23 Year In Review
             <hr>
             <p>Social media and content development are key avenues for engaging the public and promoting federal prize competitions. In FY23, Challenge.Gov launched a new YouTube channel to allow our program to expand our production of video content, including short promotional videos for challenges accepting submissions on the site.</p>
             <ul>
-              <li><b>7,998 </b> Public Newsletter Subscribers </li>
-              <li><b>806 </b> LinkedIn Followers</li>
-              <li><b>15,383 </b> Twitter Followers</li>
-              <li><b>4,232 </b> Facebook Followers</li>
-              <li><b>873 </b> NEW! YouTube Views </li>
+              <li><b>7,998 </b> Public newsletter subscribers </li>
+              <li><b>806 </b> LinkedIn followers</li>
+              <li><b>15,383 </b> Twitter followers</li>
+              <li><b>4,232 </b> Facebook followers</li>
+              <li><b>873 </b> NEW! YouTube views </li>
             </ul>
           </div>
         </div>
@@ -181,13 +181,9 @@ title: Challenge.Gov FY23 Year In Review
             <hr>
             <p>The Challenge.Gov program held events featuring challenge managers that provided opportunities for members of the public to ask questions about active challenges on the site. For example, our Challenge Chat format includes a brief, 60 second challenge video promotion and a 20 minute facilitated Q&A with the challenge manager. </p>
             <ul>
-              <li><b>4 </b> Innovators’ Hour Events </li>
-              <li><b>22 </b> Innovators’ Hour Average Attendance </li>
-              <li><b>4 </b> Challenge Chats Events </li>
-              <li><b>59 </b> Challenge Chats Average Attendance</li>
-              <li><b>7</b> Public Events</li>
-              <li><b>290</b> Total Event Attendance</li>
-              <li><b>41</b> Average Event Attendance</li>
+              <li><b>7</b> Public events</li>
+              <li><b>290</b> Total event attendance</li>
+              <li><b>41</b> Average event attendance</li>
             </ul>
           </div>
         </div>
