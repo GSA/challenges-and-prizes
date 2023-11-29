@@ -25,7 +25,8 @@ title: Challenge.Gov FY23 Year In Review
         <div class="usa-card__body text-left"> 
           <h3 style="color:#c05600">Federal Challenges in FY23</h3>
           <hr>
-          <p> Challenge.Gov saw steady growth in FY23 over the previous fiscal year. There were more prize competitions hosted on Challenge.Gov and more federal agencies sponsored prize competitions. The most common type of challenge were those seeking ideas from the public, indicating agencies are leveraging prize competitions as a way to lower barriers to engaging the public and tapping into new audiences. </p>
+          <p>Federal challenge data includes the number, prize amount, agencies, and challenge types for the year. In FY23, the most common type of challenge were those seeking ideas from the public, indicating agencies are leveraging prize competitions as a way to lower barriers to engaging the public and tapping into new audiences.
+</p>
           <ul>
           <li><b><span style="color:#c05600">136</span></b> Prize Competitions</li>
           <li><b><span style="color:#c05600">$173,293,500</span></b> Total Prize Purse</li>
@@ -88,7 +89,7 @@ title: Challenge.Gov FY23 Year In Review
         <div class="usa-card__body text-left">
           <h3 style="color:#c05600">Challenge.Gov Platform Data</h3>
           <hr>
-          <p>At the beginning of FY22 Challenge.Gov launched a new platform with a dynamic set of features to facilitate the federal government’s use of prize competitions and engage the public. This year, Challenge.Gov is able to show year-over-year increases in key metrics, in</p>
+          <p>Challenge.Gov launched a new platform in October 2022 with a dynamic set of features to facilitate the federal government’s use of prize competitions and engage the public, including secure accounts for federal challenge managers and the public.</p>
           <ul>
           <li><b>297</b> FY23 Challenge Manager Accounts</li>
           <li><b>6,049</b> FY23 Public Solver Accounts</li>
@@ -106,8 +107,7 @@ title: Challenge.Gov FY23 Year In Review
         <div class="usa-card__body text-left">
           <h3 style="color:#c05600">Support for Federal Challenge & Prize Community</h3>
           <hr>
-          <p>The Challenge.Gov program supports a thriving federal community of practice with office hours, robust customer support, and practical resources. Through various speaking engagements to both federal and public audiences, the Challenge.Gov team highlights the work of federal challenge managers and advocates for increased use of prize competitions to drive innovation and engage the public.
-</p>
+          <p>The Challenge.Gov program supports a thriving federal community of practice with office hours, robust customer support, and practical resources. Through various speaking engagements to both federal and public audiences, the Challenge.Gov team highlights the work of federal challenge managers and advocates for increased use of prize competitions to drive innovation and engage the public.</p>
         <ul>
           <li><b>1,454</b> Customer Service Touchpoints</li>
 
@@ -155,7 +155,8 @@ title: Challenge.Gov FY23 Year In Review
         <div class="usa-card__body text-left">
           <h3 style="color:#c05600">Events Approach</h3>
           <hr>
-          <p>This year, Challenge.Gov sought new ways to partner with federal challenge managers and engage the public. Innovators’ Hours featured longer-form presentations with 2-3 federal challenge managers. In the second half of the year, we developed a new two-part public engagement format we call Challenge Chats. Challenge Chats feature a single challenge accepting submissions through the Challenge.Gov portal. The Challenge.Gov team produces a brief, 60 second challenge video promotion and a 20 minute facilitated Q&A with the challenge manager. </p>
+          <p>The Challenge.Gov program held events featuring challenge managers that provided opportunities for members of the public to ask questions about active challenges on the site. For example, our Challenge Chat format includes a brief, 60 second challenge video promotion and a 20 minute facilitated Q&A with the challenge manager.
+</p>
         <ul>
           <li><b>4
 </b> Innovators’ Hour Events
@@ -179,4 +180,19 @@ title: Challenge.Gov FY23 Year In Review
     </div>
  <h3 style="color:#c05600">Looking Ahead to FY24</h3>
           <hr>
-          <p>The Challenge.Gov program will use these insights to develop personas for our audiences and improve service delivery.</p>
+          <p>The Challenge.Gov program is using these insights to guide the creation of resources, events, and services to share with our community.
+<br><br>
+<b>Our goals for FY24:</b>
+</p>
+<ul>
+<li>Revise and update the vision, mission, and values statements for Challenge.Gov and use them to guide our work.
+</li>
+<li>Develop personas for our audiences to improve service delivery.
+</li>
+<li>Create new features and capabilities of the Challenge.Gov platform, including an evaluation function for challenge managers.
+</li>
+<li>Produce additional training assets for both federal challenge managers and members of the public, including how-to videos for using the site and leading practices for public events
+</li>
+
+  
+</ul>
