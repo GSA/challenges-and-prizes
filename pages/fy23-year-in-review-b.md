@@ -43,12 +43,12 @@ title: Challenge.Gov FY23 Year In Review
           <div class="usa-card">
             <div class="usa-card__body text-left">
               <h2>Data Definitions</h2>
-              <p><b>Average:</b>Total prize purse offered and dividing by the number of challenges that offered cash prizes.</p>
-              <p><b>Median:</b>Prize amounts highest to lowest and selecting the middle value. In FY23, four prize competitions offered over $10M in prizes, the highest prize was $22M for the Buildings Upgrade Prize (Buildings UP) from the Department of Energy.</p>
+              <p><b>Average:</b> Total prize purse offered divided by the number of challenges that offered cash prizes.</p>
+              <p><b>Median:</b> Prize amounts highest to lowest and selecting the middle value.</p>
               <p><b>Accounts:</b> Challenge.Gov offers secure accounts for both federal challenge managers and public solvers. Accounts allow users access to the user portal. </p>
               <p><b>Session:</b> A user visit to Challenge.Gov. A session ends when a user exits the website or has a period of inactivity.</p>
-              <p><b>Pageviews:</b>Number of times the content on a web page is loaded or reloaded.</p>
-              <p><b>Users:</b>Total number of new and returning visitors to the website. </p>
+              <p><b>Pageviews:</b> Number of times the content on a web page is loaded or reloaded.</p>
+              <p><b>Users:</b> Total number of new and returning website visitors.</p>
             </div>
           </div>
         </div>
