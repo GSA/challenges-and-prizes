@@ -14,38 +14,39 @@ title: Challenge.Gov FY23 Year In Review
         <div class="usa-card__body text-left">
           <h2><span style="color: #538200;">Key Metrix (Increases from FY22)</span></h2>
           <p>Through the combined efforts of federal challenge managers and the Challenge.Gov team, federal prize competitions and engagement on Challenge.Gov increased across multiple key metrics in FY23 compared to the previous year:</p>
-
-<div class="grid-container">
-  <div class="grid-row">
-    <div class="tablet:grid-col">  <ul>
-            <li>Number of prize competitions: <span style="color: #538200;"><b>+7%</b></span></li>
-            <li>Total prize purse: <span style="color: #538200;"><b>+46%</b></span></li>
-            <li>Number of challenge manager accounts: <span style="color: #538200;"><b>+41%</b></span></li>
-            <li>Number of public solver accounts: <span style="color: #538200;"><b>+55%</b></span></li></ul></div>
-    <div class="tablet:grid-col"><ul><li>Number of public newsletter subscribers: <span style="color: #538200;"><b>+50%</b></span></li>
-            <li>Total number of website sessions: <span style="color: #538200;"><b>+22%</b></span></li>
-            <li>Number of website users: <span style="color: #538200;"><b>+20%</b></span></li>
-          </ul></div>
-  </div>
-</div>
-  </div>
-
-      <div class="tablet:grid-col-6">
+          <div class="grid-container">
+            <div class="grid-row">
+              <div class="tablet:grid-col">
+                <ul>
+                  <li>Number of prize competitions: <span style="color: #538200;"><b>+7%</b></span></li>
+                  <li>Total prize purse: <span style="color: #538200;"><b>+46%</b></span></li>
+                  <li>Number of challenge manager accounts: <span style="color: #538200;"><b>+41%</b></span></li>
+                  <li>Number of public solver accounts: <span style="color: #538200;"><b>+55%</b></span></li>
+                </ul>
+              </div>
+              <div class="tablet:grid-col">
+                <ul>
+                  <li>Number of public newsletter subscribers: <span style="color: #538200;"><b>+50%</b></span></li>
+                  <li>Total number of website sessions: <span style="color: #538200;"><b>+22%</b></span></li>
+                  <li>Number of website users: <span style="color: #538200;"><b>+20%</b></span></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="tablet:grid-col-6">
       <div class="usa-card">
         <div class="usa-card__body text-left">
           <h2>Data Definitions</h2>
           <p>Average: Average is calculated by adding the total prize purse offered and dividing by the number of challenges that offered cash prizes
-Median: Median is calculated by arranging the prize amounts highest to lowest and selecting the middle value. In FY23, four prize competitions offered over $10M in prizes, the highest prize was $22M for the Buildings Upgrade Prize (Buildings UP) from the Department of Energy.
-Accounts: Challenge.Gov offers secure accounts for both federal challenge managers and public solvers. Accounts allow users access to the user portal. 
-Session: A session represents a user visit to the Challenge.Gov website. A session ends when a user exits the website or has a period of inactivity.
-Pageviews: A pageview is the number of times the content on a web page is loaded or reloaded.
-Users: Users are the total number of new and returning visitors to the website.
-</p>
-
-
-  </div>
-      </div>
-    </div>
+            Median: Median is calculated by arranging the prize amounts highest to lowest and selecting the middle value. In FY23, four prize competitions offered over $10M in prizes, the highest prize was $22M for the Buildings Upgrade Prize (Buildings UP) from the Department of Energy.
+            Accounts: Challenge.Gov offers secure accounts for both federal challenge managers and public solvers. Accounts allow users access to the user portal. 
+            Session: A session represents a user visit to the Challenge.Gov website. A session ends when a user exits the website or has a period of inactivity.
+            Pageviews: A pageview is the number of times the content on a web page is loaded or reloaded.
+            Users: Users are the total number of new and returning visitors to the website. </p>
+        </div>
       </div>
     </div>
   </div>
@@ -59,20 +60,23 @@ Users: Users are the total number of new and returning visitors to the website.
           <h3 style="color:#c05600">Federal Challenges in FY23</h3>
           <hr>
           <p>Federal challenge data includes the number, prize amount, agencies, and challenge types for the year. In FY23, the most common type of challenge were those seeking ideas from the public, indicating agencies are leveraging prize competitions as a way to lower barriers to engaging the public and tapping into new audiences. </p>
-
-  <div class="grid-row">
-    <div class="tablet:grid-col"><ul>
-            <li><b><span style="color:#c05600; list-style-type: none;">136</span></b> Prize Competitions</li>
-            <li><b><span style="color:#c05600; list-style-type: none;">$173,293,500</span></b> Total Prize Purse</li>
-            <li><b><span style="color:#c05600; list-style-type: none;">$1,274,217</span></b> Average Prize</li>
-            <li><b><span style="color:#c05600; list-style-type: none;">$200,000</span></b> Median Prize</li></ul></div>
-    <div class="tablet:grid-col"><ul> <li><b><span style="color:#c05600; list-style-type: none;">$22,000,000</span></b> Highest Prize</li>
-            <li><b><span style="color:#c05600; list-style-type: none;">24</span></b> Non-monetary Prizes</li>
-            <li><b><span style="color:#c05600; list-style-type: none;">19</span></b> Agencies</li>
-          </ul></div>
-  </div>
-          
-           
+          <div class="grid-row">
+            <div class="tablet:grid-col">
+              <ul>
+                <li><b><span style="color:#c05600; list-style-type: none;">136</span></b> Prize Competitions</li>
+                <li><b><span style="color:#c05600; list-style-type: none;">$173,293,500</span></b> Total Prize Purse</li>
+                <li><b><span style="color:#c05600; list-style-type: none;">$1,274,217</span></b> Average Prize</li>
+                <li><b><span style="color:#c05600; list-style-type: none;">$200,000</span></b> Median Prize</li>
+              </ul>
+            </div>
+            <div class="tablet:grid-col">
+              <ul>
+                <li><b><span style="color:#c05600; list-style-type: none;">$22,000,000</span></b> Highest Prize</li>
+                <li><b><span style="color:#c05600; list-style-type: none;">24</span></b> Non-monetary Prizes</li>
+                <li><b><span style="color:#c05600; list-style-type: none;">19</span></b> Agencies</li>
+              </ul>
+            </div>
+          </div>
           <table class="usa-table" border="0">
             <hr>
             <caption>
