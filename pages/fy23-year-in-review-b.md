@@ -172,7 +172,9 @@ title: Challenge.Gov FY23 Year In Review
           </div>
         </div>
       </div>
-      <div class="tablet:grid-col-12">
+      
+    </div>
+    <div class="tablet:grid-col-12">
         <div class="usa-card">
           <div class="usa-card__body text-left">
             <h3 style="color:#c05600">Events Approach</h3>
@@ -190,7 +192,6 @@ title: Challenge.Gov FY23 Year In Review
           </div>
         </div>
       </div>
-    </div>
     <h3 style="color:#c05600">Looking Ahead to FY24</h3>
     <p>The Challenge.Gov program is using these insights to guide the creation of resources, events, and services to share with our community. <br>
       <br>
