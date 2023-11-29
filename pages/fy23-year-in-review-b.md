@@ -76,7 +76,7 @@ title: Challenge.Gov FY23 Year In Review
                   Department of Health and Human Services</div>
     <div class="tablet:grid-col"><span style="color:#c05600; font-size: 40px;">28</span><br><img src="{{ site.baseurl }}/assets/images/dod.jpg" alt="HHS logo" width="100"><br>
                   Department of Defense</div>
-  </div>
+  </div><br>
    <div class="grid-row">
     <div class="tablet:grid-col"><span style="color:#c05600; font-size: 40px;">17</span><br><img src="{{ site.baseurl }}/assets/images/doe.jpg" alt="HHS logo" width="100"><br>
                   Department of Energy</div>
