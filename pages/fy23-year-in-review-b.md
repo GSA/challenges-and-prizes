@@ -56,9 +56,8 @@ title: Challenge.Gov FY23 Year In Review
       <div class="usa-card">
         <div class="usa-card__body text-left">
           <h3 style="color:#c05600">Federal Challenges in FY23</h3>
-          <p>Federal challenge data includes the number, prize amount, agencies, and challenge types for the year. In FY23, the most common type of challenge were those seeking ideas from the public, indicating agencies are leveraging prize competitions as a way to lower barriers to engaging the public and tapping into new audiences. </p>
-          <div class="grid-row">
-            <div class="tablet:grid-col">
+          <p>Federal challenge data includes the number, prize amount, agencies, and challenge types for the year. In FY23, the most common type of challenge were those seeking ideas from the public, indicating agencies are leveraging prize competitions as a way to lower barriers to engaging the public and tapping into new audiences.
+         
                  <span style="color: #c05600; font-size: 24px;"><b>136</b></span> Prize competitions<br>
                  <span style="color: #c05600; font-size: 24px;"><b>$173,293,500</b></span> Total prize purse<br>
                 <span style="color: #c05600; font-size: 24px;"><b>$1,274,217</b></span> Average prize<br>
@@ -66,8 +65,7 @@ title: Challenge.Gov FY23 Year In Review
                  <span style="color: #c05600; font-size: 24px;"><b>$22,000,000</b></span> Highest prize<br>
                  <span style="color: #c05600; font-size: 24px;"><b>24</b></span> Non-monetary prizes<br>
                  <span style="color: #c05600; font-size: 24px;"><b>19</b></span> Agencies
-            </div>
-          </div>
+     </p>
           <table class="usa-table" border="0">
             <hr>
             <caption>
