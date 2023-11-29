@@ -69,7 +69,7 @@ title: Challenge.Gov FY23 Year In Review
  <hr>
             <caption>
             <b>Agencies with Highest Number of Challenges</b>
-            </caption>
+            </caption><br>
           <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col"><span style="color:#c05600; font-size: 40px;">35</span><br><img src="{{ site.baseurl }}/assets/images/HHS_logo.jpeg" alt="HHS logo" width="100"><br>
@@ -142,7 +142,7 @@ title: Challenge.Gov FY23 Year In Review
           <hr>
           <caption>
           <b>Heatmap Challenge.Gov Visitors</b>
-          </caption>
+          </caption><br>
           <img src="{{ site.baseurl }}/assets/images/fy23-heatmap.png" alt="" width="100%"><br>
         </div>
       </div>
