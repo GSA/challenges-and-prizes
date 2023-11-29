@@ -11,7 +11,7 @@ title: Challenge.Gov FY23 Year In Review
     <p>Since 2010, Challenge.Gov has supported federal agencies to mature and scale the use of prize competitions and crowdsourcing campaigns to advance their missions. We track data related to federal challenges and prize competitions posted on the Challenge.Gov platform and public engagement with these competitions. We share this information in the spirit of transparency to show the federal government’s collective impact bringing innovative solutions to important public problems. </p>
     <div class="usr-guide-wrap-main">
       <div class="grid-row grid-gap mt-1">
-        <div class="tablet:grid-col-6">
+        <div class="tablet:grid-col-9">
           <div class="usa-card">
             <div class="usa-card__body text-left">
               <h2><span style="color: #538200;">Key Metrix</span></h2>
@@ -38,7 +38,7 @@ title: Challenge.Gov FY23 Year In Review
             </div>
           </div>
         </div>
-        <div class="tablet:grid-col-6">
+        <div class="tablet:grid-col-3">
           <div class="usa-card">
             <div class="usa-card__body text-left">
               <h2>Data Definitions</h2>
