@@ -42,7 +42,6 @@ title: Challenge.Gov FY23 Year In Review
   <caption>
     <b>Agencies with Highest Number of Challenges</b>
   </caption>
-  <hr>
   <thead>
     <tr>
       <th scope="col">Agency</th>
@@ -97,6 +96,7 @@ title: Challenge.Gov FY23 Year In Review
           <li><b>232,254</b> Total Users</li>
           <li><b>823,087</b> Total Pageviews</li>
           </ul>
+          <hr>
 <caption><b>Top 5 U.S. States/Territories</b></caption>
             <img src="{{ site.baseurl }}/assets/images/map.png" alt="Fiscal year 2023 challenge and social media data." width="100%"><br>
 
