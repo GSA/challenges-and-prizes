@@ -136,9 +136,9 @@ title: Challenge.Gov FY23 Year In Review
           <br>
           <hr>
           <caption>
-          <b>Top 5 U.S. States/Territories</b>
+          <b>Heatmap of Challenges Per States/Territories</b>
           </caption>
-          <img src="{{ site.baseurl }}/assets/images/map.png" alt="Fiscal year 2023 challenge and social media data." width="100%"><br>
+          <img src="{{ site.baseurl }}/assets/images/cg-map.jpg" alt="" width="100%"><br>
         </div>
       </div>
       <div class="tablet:grid-col-12">
