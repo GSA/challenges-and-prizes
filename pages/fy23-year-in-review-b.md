@@ -19,13 +19,13 @@ title: Challenge.Gov FY23 Year In Review
               <div class="grid-container">
                 <div class="grid-row">
                   <div class="tablet:grid-col" style="line-height: 1.5">
-                   <span style="color: #538200; font-size: 24px;"><b>&#x2191;7%</b></span>   Number of prize competitions<br>
-                   <span style="color: #538200; font-size: 24px;"><b>&#x2191;46%</b></span>  Total prize purse<br>
-                    <span style="color: #538200; font-size: 24px;"><b>&#x2191;41%</b></span>  Number of challenge manager accounts<br>
-                    <span style="color: #538200; font-size: 24px;"><b>&#x2191;55%</b></span>  Number of public solver accounts<br>
-                     <span style="color: #538200; font-size: 24px;"><b>&#x2191;50%</b></span>  Number of public newsletter subscribers<br>
-                    <span style="color: #538200; font-size: 24px;"><b>&#x2191;22%</b></span>  Total number of website sessions<br>
-                    <span style="color: #538200; font-size: 24px;"><b>&#x2191;20%</b></span>  Number of website users
+                   <span style="color: #538200; font-size: 24px;"><b>&#x2191; 7%</b></span>   Number of prize competitions<br>
+                   <span style="color: #538200; font-size: 24px;"><b>&#x2191; 46%</b></span>  Total prize purse<br>
+                    <span style="color: #538200; font-size: 24px;"><b>&#x2191; 41%</b></span>  Number of challenge manager accounts<br>
+                    <span style="color: #538200; font-size: 24px;"><b>&#x2191; 55%</b></span>  Number of public solver accounts<br>
+                     <span style="color: #538200; font-size: 24px;"><b>&#x2191; 50%</b></span>  Number of public newsletter subscribers<br>
+                    <span style="color: #538200; font-size: 24px;"><b>&#x2191; 22%</b></span>  Total number of website sessions<br>
+                    <span style="color: #538200; font-size: 24px;"><b>&#x2191; 20%</b></span>  Number of website users
                   </div>
                 </div>
               </div>
@@ -58,13 +58,13 @@ title: Challenge.Gov FY23 Year In Review
           <h3 style="color:#c05600">Federal Challenges in FY23</h3>
           <p>Federal challenge data includes the number, prize amount, agencies, and challenge types for the year. In FY23, the most common type of challenge were those seeking ideas from the public, indicating agencies are leveraging prize competitions as a way to lower barriers to engaging the public and tapping into new audiences.</p>
          <p>
-                 <span style="color: #c05600; font-size: 24px;"><b>136</b></span> Prize competitions<br>
-                 <span style="color: #c05600; font-size: 24px;"><b>$173,293,500</b></span> Total prize purse<br>
-                <span style="color: #c05600; font-size: 24px;"><b>$1,274,217</b></span> Average prize<br>
-                 <span style="color: #c05600; font-size: 24px;"><b>$200,000</b></span> Median prize<br>
-                 <span style="color: #c05600; font-size: 24px;"><b>$22,000,000</b></span> Highest prize<br>
-                 <span style="color: #c05600; font-size: 24px;"><b>24</b></span> Non-monetary prizes<br>
-                 <span style="color: #c05600; font-size: 24px;"><b>19</b></span> Agencies
+                 <span style="color: #c05600; font-size: 28px;"><b>136</b></span> Prize competitions<br>
+                 <span style="color: #c05600; font-size: 28px;"><b>$173,293,500</b></span> Total prize purse<br>
+                <span style="color: #c05600; font-size: 28px;"><b>$1,274,217</b></span> Average prize<br>
+                 <span style="color: #c05600; font-size: 28px;"><b>$200,000</b></span> Median prize<br>
+                 <span style="color: #c05600; font-size: 28px;"><b>$22,000,000</b></span> Highest prize<br>
+                 <span style="color: #c05600; font-size: 28px;"><b>24</b></span> Non-monetary prizes<br>
+                 <span style="color: #c05600; font-size: 28px;"><b>19</b></span> Agencies
      </p>
           <table class="usa-table" border="0">
             <hr>
@@ -166,11 +166,11 @@ title: Challenge.Gov FY23 Year In Review
             <h3 style="color:#c05600">Events Approach</h3>
             <hr>
             <p>The Challenge.Gov program held events featuring challenge managers that provided opportunities for members of the public to ask questions about active challenges on the site. For example, our Challenge Chat format includes a brief, 60 second challenge video promotion and a 20 minute facilitated Q&A with the challenge manager. </p>
-            <ul>
-              <li><b>7</b> Public events</li>
-              <li><b>290</b> Total event attendance</li>
-              <li><b>41</b> Average event attendance</li>
-            </ul>
+            <p>
+            <span style="color: #c05600; font-size: 24px;"><b>7</b></span> Public events<br>
+              <span style="color: #c05600; font-size: 24px;"><b>290</b></span> Total event attendance<br>
+              <span style="color: #c05600; font-size: 24px;"><b>41</b></span> Average event attendance
+            </p>
           </div>
         </div>
       </div>
