@@ -114,13 +114,12 @@ title: Challenge.Gov FY23 Year In Review
           <h3 style="color:#c05600">Challenge.Gov Platform Data</h3>
           <hr>
           <p>Challenge.Gov launched a new platform in October 2022 with a dynamic set of features to facilitate the federal government’s use of prize competitions and engage the public, including secure accounts for federal challenge managers and the public.</p>
-          <ul>
-            <li><b>297</b> FY23 Challenge Manager accounts</li>
-            <li><b>6,049</b> FY23 Public Solver accounts</li>
-            <li><b>366,608</b> Total sessions</li>
-            <li><b>232,254</b> Total users</li>
-            <li><b>823,087</b> Total pageviews</li>
-          </ul>
+          <span style="color: #c05600; font-size: 24px;"><b>297</b></span> FY23 Challenge Manager accounts<br>
+            <span style="color: #c05600; font-size: 24px;"><b>6,049</b></span> FY23 Public Solver accounts<br>
+            <span style="color: #c05600; font-size: 24px;"><b>366,608</b></span> Total sessions<br>
+            <span style="color: #c05600; font-size: 24px;"><b>232,254</b></span> Total users<br>
+           <span style="color: #c05600; font-size: 24px;"><b>823,087</b></span> Total pageviews
+ 
           <br>
           <hr>
           <caption>
