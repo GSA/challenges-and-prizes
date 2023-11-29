@@ -12,7 +12,7 @@ title: Challenge.Gov FY23 Year In Review
     <div class="tablet:grid-col-12">
       <div class="usa-card">
         <div class="usa-card__body text-left">
-          <h2>Key Metrix</h2>
+          <h2><span style="color: #538200;">Key Metrix</span></h2>
           <p>Through the combined efforts of federal challenge managers and the Challenge.Gov team, federal prize competitions and engagement on Challenge.Gov increased across multiple key metrics in FY23 compared to the previous year:<br>
           <ul>
             <li>Number of prize competitions: +7%</li>
