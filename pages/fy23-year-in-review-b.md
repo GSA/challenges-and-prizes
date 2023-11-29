@@ -143,7 +143,7 @@ title: Challenge.Gov FY23 Year In Review
           <br>
           <hr>
           <caption>
-          <b>Heatmap of Challenges Per States/Territories</b>
+          <b>Heatmap Challenge.Gov Visitors</b>
           </caption>
           <img src="{{ site.baseurl }}/assets/images/heatmap.png" alt="" width="100%"><br>
         </div>
