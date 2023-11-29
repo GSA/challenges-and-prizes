@@ -132,7 +132,8 @@ title: Challenge.Gov FY23 Year In Review
           <div class="usa-card__body text-left">
             <h3 style="color:#c05600">Support for Federal Challenge & Prize Community</h3>
             <hr>
-            <p>The Challenge.Gov program supports a thriving federal community of practice with office hours, robust customer support, and practical resources. Through various speaking engagements to both federal and public audiences, the Challenge.Gov team highlights the work of federal challenge managers and advocates for increased use of prize competitions to drive innovation and engage the public.
+            <p>The Challenge.Gov program supports a thriving federal community of practice with office hours, robust customer support, and practical resources. Through various speaking engagements to both federal and public audiences, the Challenge.Gov team highlights the work of federal challenge managers and advocates for increased use of prize competitions to drive innovation and engage the public.</p>
+            <p>
             <span style="color: #c05600; font-size: 24px;"><b>1,454</b></span> Customer service touchpoints<br>
              <span style="color: #c05600; font-size: 24px;"><b>22</b></span> Office Hours<br>
               <span style="color: #c05600; font-size: 24px;"><b>1,195</b></span> Federal newsletter subscribers<br>
@@ -147,13 +148,13 @@ title: Challenge.Gov FY23 Year In Review
             <h3 style="color:#c05600">Public Engagement</h3>
             <hr>
             <p>Social media and content development are key avenues for engaging the public and promoting federal prize competitions. In FY23, Challenge.Gov launched a new YouTube channel to allow our program to expand our production of video content, including short promotional videos for challenges accepting submissions on the site.</p>
-            <ul>
-              <li><b>7,998 </b> Public newsletter subscribers </li>
-              <li><b>806 </b> LinkedIn followers</li>
-              <li><b>15,383 </b> Twitter followers</li>
-              <li><b>4,232 </b> Facebook followers</li>
-              <li><b>873 </b> NEW! YouTube views </li>
-            </ul>
+            <p>
+            <span style="color: #c05600; font-size: 24px;"><b>7,998 </b></span> Public newsletter subscribers<br>
+              <span style="color: #c05600; font-size: 24px;"><b>806 </b></span> LinkedIn followers<br>
+              <span style="color: #c05600; font-size: 24px;"><b>15,383 </b></span> Twitter followers<br>
+              <span style="color: #c05600; font-size: 24px;"><b>4,232 </b></span> Facebook followers<br>
+              <span style="color: #c05600; font-size: 24px;"><b>873 </b></span> NEW! YouTube views
+              </p>
           </div>
         </div>
       </div>
