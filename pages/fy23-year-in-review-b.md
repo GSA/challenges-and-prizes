@@ -47,7 +47,7 @@ title: Challenge.Gov FY23 Year In Review
               <p><b>Median:</b> Median is calculated by arranging the prize amounts highest to lowest and selecting the middle value. In FY23, four prize competitions offered over $10M in prizes, the highest prize was $22M for the Buildings Upgrade Prize (Buildings UP) from the Department of Energy.</p>
               <p><b>Accounts:</b> Challenge.Gov offers secure accounts for both federal challenge managers and public solvers. Accounts allow users access to the user portal. </p>
               <p><b>Session:</b> A session represents a user visit to the Challenge.Gov website. A session ends when a user exits the website or has a period of inactivity.</p>
-              <p><b>Pageviews:</b> A pageview is the number of times the content on a web page is loaded or reloaded.v
+              <p><b>Pageviews:</b> A pageview is the number of times the content on a web page is loaded or reloaded.</p>
               <p><b>Users:</b> Users are the total number of new and returning visitors to the website. </p>
             </div>
           </div>
