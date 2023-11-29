@@ -66,7 +66,22 @@ title: Challenge.Gov FY23 Year In Review
                  <span style="color: #c05600; font-size: 28px;"><b>24</b></span> Non-monetary prizes<br>
                  <span style="color: #c05600; font-size: 28px;"><b>19</b></span> Agencies
      </p>
-          <table class="usa-table" border="0">
+
+          <div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col"><span style="color:#c05600; font-size: 40px;">35</span><br><img src="{{ site.baseurl }}/assets/images/HHS_logo.jpeg" alt="HHS logo" width="100"><br>
+                  Department of Health and Human Services</div>
+    <div class="tablet:grid-col"><span style="color:#c05600; font-size: 40px;">28</span><br><img src="{{ site.baseurl }}/assets/images/dod.jpg" alt="HHS logo" width="100"><br>
+                  Department of Defense</div>
+  </div>
+   <div class="grid-row">
+    <div class="tablet:grid-col"><span style="color:#c05600; font-size: 40px;">17</span><br><img src="{{ site.baseurl }}/assets/images/doe.jpg" alt="HHS logo" width="100"><br>
+                  Department of Energy</div>
+    <div class="tablet:grid-col"><span style="color:#c05600; font-size: 40px;">12</span><br><img src="{{ site.baseurl }}/assets/images/nasa.jpg" alt="HHS logo" width="100"><br>
+                  National Aeronautics and Space Agency</div>
+  </div>
+</div>
+<!--           <table class="usa-table" border="0">
             <hr>
             <caption>
             <b>Agencies with Highest Number of Challenges</b>
@@ -99,7 +114,7 @@ title: Challenge.Gov FY23 Year In Review
                 <td><span style="color:#c05600; font-size: 40px;">12</span></td>
               </tr>
             </tbody>
-          </table><br>
+          </table><br> -->
           <caption>
           <b>Challenge Types</b>
           </caption>
