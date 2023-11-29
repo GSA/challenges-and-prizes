@@ -174,7 +174,7 @@ title: Challenge.Gov FY23 Year In Review
       </div>
       
     </div>
-    <div class="tablet:grid-col-12">
+    <div class="tablet:grid-col-6">
         <div class="usa-card">
           <div class="usa-card__body text-left">
             <h3 style="color:#c05600">Events Approach</h3>
@@ -192,7 +192,7 @@ title: Challenge.Gov FY23 Year In Review
           </div>
         </div>
       </div>
-      <div class="tablet:grid-col-12">
+      <div class="tablet:grid-col-6">
         <div class="usa-card">
           <div class="usa-card__body text-left">
            
