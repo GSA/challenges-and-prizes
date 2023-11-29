@@ -37,7 +37,7 @@ title: Challenge.Gov FY23 Year In Review
           </ul>
           <table class="usa-table"><br>
   <caption>
-    <b>Agencies with Highest Number of Challenges</b>
+    <b color="#c05600">Agencies with Highest Number of Challenges</b>
   </caption>
   <thead>
     <tr background-color="#c05600">
