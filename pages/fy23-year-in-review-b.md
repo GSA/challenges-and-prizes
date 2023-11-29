@@ -160,9 +160,8 @@ title: Challenge.Gov FY23 Year In Review
           </div>
         </div>
       </div>
-           
-            <h3 style="color:#c05600">Looking Ahead to FY24</h3>
-            <hr>
+           <br>
+            <h3>Looking Ahead to FY24</h3>
     <p>The Challenge.Gov program is using these insights to guide the creation of resources, events, and services to share with our community. <br>
       <br>
       <b>Our goals for FY24:</b>
