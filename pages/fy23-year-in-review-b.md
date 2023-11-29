@@ -35,7 +35,7 @@ title: Challenge.Gov FY23 Year In Review
           <li><b><span style="color:#c05600">24</span></b> Non-monetary Prizes</li>
           <li><b><span style="color:#c05600">19</span></b> Agencies</li>
           </ul>
-          <table class="usa-table"><br>
+          <table class="usa-table">
   <caption>
     <b>Agencies with Highest Number of Challenges</b>
   </caption>
