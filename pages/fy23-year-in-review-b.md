@@ -56,8 +56,8 @@ title: Challenge.Gov FY23 Year In Review
       <div class="usa-card">
         <div class="usa-card__body text-left">
           <h3 style="color:#c05600">Federal Challenges in FY23</h3>
-          <p>Federal challenge data includes the number, prize amount, agencies, and challenge types for the year. In FY23, the most common type of challenge were those seeking ideas from the public, indicating agencies are leveraging prize competitions as a way to lower barriers to engaging the public and tapping into new audiences.
-         
+          <p>Federal challenge data includes the number, prize amount, agencies, and challenge types for the year. In FY23, the most common type of challenge were those seeking ideas from the public, indicating agencies are leveraging prize competitions as a way to lower barriers to engaging the public and tapping into new audiences.</p>
+         <p>
                  <span style="color: #c05600; font-size: 24px;"><b>136</b></span> Prize competitions<br>
                  <span style="color: #c05600; font-size: 24px;"><b>$173,293,500</b></span> Total prize purse<br>
                 <span style="color: #c05600; font-size: 24px;"><b>$1,274,217</b></span> Average prize<br>
@@ -111,7 +111,8 @@ title: Challenge.Gov FY23 Year In Review
         <div class="usa-card__body text-left">
           <h3 style="color:#c05600">Challenge.Gov Platform Data</h3>
           <hr>
-          <p>Challenge.Gov launched a new platform in October 2022 with a dynamic set of features to facilitate the federal government’s use of prize competitions and engage the public, including secure accounts for federal challenge managers and the public.
+          <p>Challenge.Gov launched a new platform in October 2022 with a dynamic set of features to facilitate the federal government’s use of prize competitions and engage the public, including secure accounts for federal challenge managers and the public.</p>
+          <p>
           <span style="color: #c05600; font-size: 24px;"><b>297</b></span> FY23 Challenge Manager accounts<br>
             <span style="color: #c05600; font-size: 24px;"><b>6,049</b></span> FY23 Public Solver accounts<br>
             <span style="color: #c05600; font-size: 24px;"><b>366,608</b></span> Total sessions<br>
