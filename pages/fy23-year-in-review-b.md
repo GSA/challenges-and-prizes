@@ -66,7 +66,10 @@ title: Challenge.Gov FY23 Year In Review
                  <span style="color: #c05600; font-size: 28px;"><b>24</b></span> Non-monetary prizes<br>
                  <span style="color: #c05600; font-size: 28px;"><b>19</b></span> Agencies
      </p>
-
+ <hr>
+            <caption>
+            <b>Agencies with Highest Number of Challenges</b>
+            </caption>
           <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col"><span style="color:#c05600; font-size: 40px;">35</span><br><img src="{{ site.baseurl }}/assets/images/HHS_logo.jpeg" alt="HHS logo" width="100"><br>
@@ -115,6 +118,7 @@ title: Challenge.Gov FY23 Year In Review
               </tr>
             </tbody>
           </table><br> -->
+          <hr>
           <caption>
           <b>Challenge Types</b>
           </caption>
