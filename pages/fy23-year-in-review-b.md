@@ -36,9 +36,11 @@ title: Challenge.Gov FY23 Year In Review
           <li><b><span style="color:#c05600">19</span></b> Agencies</li>
           </ul>
           <table class="usa-table"><br>
+          <hr>
   <caption>
     <b color="#c05600">Agencies with Highest Number of Challenges</b>
   </caption>
+  <hr>
   <thead>
     <tr background-color="#c05600">
       <th scope="col">Agency</th>
@@ -73,8 +75,8 @@ title: Challenge.Gov FY23 Year In Review
    
   </tbody>
 </table>
-
-          <caption><b>Challenge Types</b></caption>
+<hr>
+          <caption><b>Challenge Types</b></caption><hr>
            <img src="{{ site.baseurl }}/assets/images/challenge-gov-by-type.png" alt="Fiscal year 2023 challenge and social media data." width="100%">
           
         </div>
