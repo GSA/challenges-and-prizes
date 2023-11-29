@@ -113,7 +113,7 @@ title: Challenge.Gov FY23 Year In Review
                 <td><span style="color:#c05600; font-size: 40px;">12</span></td>
               </tr>
             </tbody>
-          </table>
+          </table><br>
           <caption>
           <b>Challenge Types</b>
           </caption>
