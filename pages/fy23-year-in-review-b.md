@@ -103,7 +103,7 @@ title: Challenge.Gov FY23 Year In Review
           <caption>
           <b>Challenge Types</b>
           </caption>
-          <img src="{{ site.baseurl }}/assets/images/challenge-gov-by-type.png" alt="Fiscal year 2023 challenge and social media data." width="100%"> </div>
+          <img src="{{ site.baseurl }}/assets/images/fy23-pie.png" alt="Fiscal year 2023 challenge and social media data." width="100%"> </div>
       </div>
     </div>
     <div class="tablet:grid-col-6">
