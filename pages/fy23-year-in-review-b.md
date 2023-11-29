@@ -124,7 +124,7 @@ title: Challenge.Gov FY23 Year In Review
           <caption>
           <b>Heatmap Challenge.Gov Visitors</b>
           </caption>
-          <img src="{{ site.baseurl }}/assets/images/heatmap.png" alt="" width="100%"><br>
+          <img src="{{ site.baseurl }}/assets/images/fy23-heatmap.png" alt="" width="100%"><br>
         </div>
       </div>
       <div class="tablet:grid-col-12">
