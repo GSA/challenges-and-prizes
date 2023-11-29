@@ -18,13 +18,13 @@ title: Challenge.Gov FY23 Year In Review
               <p>Through the combined efforts of federal challenge managers and the Challenge.Gov team, federal prize competitions and engagement on Challenge.Gov increased across multiple key metrics in FY23 compared to the previous year:</p>
               <div class="grid-container">
                 <div class="grid-row">
-                  <div class="tablet:grid-col">
-                   <span style="color: #538200;"><b>+7%</b></span> Number of prize competitions<br><br>
-                   <span style="color: #538200;"><b>+46%</b></span> Total prize purse<br><br>
-                    <span style="color: #538200;"><b>+41%</b></span> Number of challenge manager accounts<br><br>
-                  <span style="color: #538200;"><b>+55%</b></span> Number of public solver accounts<br><br>
-                     <span style="color: #538200;"><b>+50%</b></span> Number of public newsletter subscribers<br><br>
-                    <span style="color: #538200;"><b>+22%</b></span> Total number of website sessions<br><br>
+                  <div class="tablet:grid-col" style="line-height: 1.5">
+                   <span style="color: #538200;"><b>+7%</b></span> Number of prize competitions<br>
+                   <span style="color: #538200;"><b>+46%</b></span> Total prize purse<br>
+                    <span style="color: #538200;"><b>+41%</b></span> Number of challenge manager accounts<br>
+                    <span style="color: #538200;"><b>+55%</b></span> Number of public solver accounts<br>
+                     <span style="color: #538200;"><b>+50%</b></span> Number of public newsletter subscribers<br>
+                    <span style="color: #538200;"><b>+22%</b></span> Total number of website sessions<br>
                     <span style="color: #538200;"><b>+20%</b></span> Number of website users
                   </div>
                 </div>
