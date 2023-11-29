@@ -145,7 +145,7 @@ title: Challenge.Gov FY23 Year In Review
           <caption>
           <b>Heatmap of Challenges Per States/Territories</b>
           </caption>
-          <img src="{{ site.baseurl }}/assets/images/cg-map.jpg" alt="" width="100%"><br>
+          <img src="{{ site.baseurl }}/assets/images/cg-map.png" alt="" width="100%"><br>
         </div>
       </div>
       <div class="tablet:grid-col-12">
