@@ -172,6 +172,11 @@ title: Challenge.Gov FY23 Year In Review
 
 <li><b>59
 </b> Challenge Chats Average Attendance</li>
+<li><b>7</b> Public Events</li>
+
+<li><b>290</b> Total Event Attendance</li>
+
+<li><b>41</b> Average Event Attendance</li>
 
 </ul>
         </div>
