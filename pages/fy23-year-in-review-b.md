@@ -9,27 +9,31 @@ title: Challenge.Gov FY23 Year In Review
     <p>Welcome to the Challenge.Gov 2023 Year in Review. The annual data we are sharing is for the fiscal year, a common reporting period across the federal government.The data on this page is from the 2023 Fiscal Year (FY23) which began October 1, 2022 and ended September 30, 2023.</p>
     <p>This is the second Year in Review snapshot we are sharing with our community. For a quick look at what we accomplished last fiscal year check out the <a href="{{ site.baseurl }}/fy22-year-in-review/">FY22 Year in Review</a>.</p>
     <p>Since 2010, Challenge.Gov has supported federal agencies to mature and scale the use of prize competitions and crowdsourcing campaigns to advance their missions. We track data related to federal challenges and prize competitions posted on the Challenge.Gov platform and public engagement with these competitions. We share this information in the spirit of transparency to show the federal government’s collective impact bringing innovative solutions to important public problems. </p>
-    <div class="tablet:grid-col-6">
-      <div class="usa-card">
-        <div class="usa-card__body text-left">
-          <h2><span style="color: #538200;">Key Metrix (Increases from FY22)</span></h2>
-          <p>Through the combined efforts of federal challenge managers and the Challenge.Gov team, federal prize competitions and engagement on Challenge.Gov increased across multiple key metrics in FY23 compared to the previous year:</p>
-          <div class="grid-container">
-            <div class="grid-row">
-              <div class="tablet:grid-col">
-                <ul>
-                  <li>Number of prize competitions: <span style="color: #538200;"><b>+7%</b></span></li>
-                  <li>Total prize purse: <span style="color: #538200;"><b>+46%</b></span></li>
-                  <li>Number of challenge manager accounts: <span style="color: #538200;"><b>+41%</b></span></li>
-                  <li>Number of public solver accounts: <span style="color: #538200;"><b>+55%</b></span></li>
-                </ul>
-              </div>
-              <div class="tablet:grid-col">
-                <ul>
-                  <li>Number of public newsletter subscribers: <span style="color: #538200;"><b>+50%</b></span></li>
-                  <li>Total number of website sessions: <span style="color: #538200;"><b>+22%</b></span></li>
-                  <li>Number of website users: <span style="color: #538200;"><b>+20%</b></span></li>
-                </ul>
+    <div class="usr-guide-wrap-main">
+      <div class="grid-row grid-gap mt-1">
+        <div class="tablet:grid-col-6">
+          <div class="usa-card">
+            <div class="usa-card__body text-left">
+              <h2><span style="color: #538200;">Key Metrix (Increases from FY22)</span></h2>
+              <p>Through the combined efforts of federal challenge managers and the Challenge.Gov team, federal prize competitions and engagement on Challenge.Gov increased across multiple key metrics in FY23 compared to the previous year:</p>
+              <div class="grid-container">
+                <div class="grid-row">
+                  <div class="tablet:grid-col">
+                    <ul>
+                      <li>Number of prize competitions: <span style="color: #538200;"><b>+7%</b></span></li>
+                      <li>Total prize purse: <span style="color: #538200;"><b>+46%</b></span></li>
+                      <li>Number of challenge manager accounts: <span style="color: #538200;"><b>+41%</b></span></li>
+                      <li>Number of public solver accounts: <span style="color: #538200;"><b>+55%</b></span></li>
+                    </ul>
+                  </div>
+                  <div class="tablet:grid-col">
+                    <ul>
+                      <li>Number of public newsletter subscribers: <span style="color: #538200;"><b>+50%</b></span></li>
+                      <li>Total number of website sessions: <span style="color: #538200;"><b>+22%</b></span></li>
+                      <li>Number of website users: <span style="color: #538200;"><b>+20%</b></span></li>
+                    </ul>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
