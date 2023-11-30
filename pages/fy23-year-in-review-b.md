@@ -166,7 +166,7 @@ title: Challenge.Gov FY23 Year In Review
     <p>The Challenge.Gov program is using these insights to guide the creation of resources, events, and services to share with our community. <br>
       <br>
       <b>Our goals for FY24:</b>
-    <ul>
+    <ul width="80%">
       <li>Revise and update the vision, mission, and values statements for Challenge.Gov and use them to guide our work. </li>
       <li>Develop personas for our audiences to improve service delivery. </li>
       <li>Create new features and capabilities of the Challenge.Gov platform, including an evaluation function for challenge managers. </li>
