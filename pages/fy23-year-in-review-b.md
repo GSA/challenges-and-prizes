@@ -87,7 +87,7 @@ title: Challenge.Gov FY23 Year In Review
 </div>
           <hr>
           <caption>
-          <b>Challenge Types</b>
+          <b>Primary Challenge Types</b>
           </caption><br>
           <img src="{{ site.baseurl }}/assets/images/fy23-pie-graph.png" alt="" width="100%"> </div>
       </div>
@@ -108,7 +108,7 @@ title: Challenge.Gov FY23 Year In Review
           <br>
           <hr>
           <caption>
-          <b>Heatmap Challenge.Gov Visitors</b>
+          <b>Density of Challenge.Gov Website Visitors</b>
           </caption><br>
           <img src="{{ site.baseurl }}/assets/images/fy23-map.png" alt="" width="100%"><br>
         </div>
