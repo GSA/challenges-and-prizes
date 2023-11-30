@@ -70,7 +70,7 @@ title: Challenge.Gov FY23 Year In Review
  <hr>
             <caption>
             <b>Agencies with Highest Number of Challenges</b>
-            </caption><br>
+            </caption><br><br>
           <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col"><span style="color:#c05600; font-size: 40px;"><b>35</b></span><br><img src="{{ site.baseurl }}/assets/images/HHS_logo.jpeg" alt="HHS logo" width="100"><br>
@@ -88,7 +88,7 @@ title: Challenge.Gov FY23 Year In Review
           <hr>
           <caption>
           <b>Primary Challenge Types</b>
-          </caption><br>
+          </caption><br><br>
           <img src="{{ site.baseurl }}/assets/images/fy23-pie-graph.png" alt="" width="100%"> </div>
       </div>
     </div>
@@ -109,7 +109,7 @@ title: Challenge.Gov FY23 Year In Review
           <hr>
           <caption>
           <b>Density of Challenge.Gov Website Visitors</b>
-          </caption><br>
+          </caption><br><br>
           <img src="{{ site.baseurl }}/assets/images/fy23-map.png" alt="" width="100%"><br>
         </div>
       </div>
@@ -166,14 +166,12 @@ title: Challenge.Gov FY23 Year In Review
     <p>The Challenge.Gov program is using these insights to guide the creation of resources, events, and services to share with our community. <br>
       <br>
       <b>Our goals for FY24:</b>
-      <p>
     <ul>
       <li>Revise and update the vision, mission, and values statements for Challenge.Gov and use them to guide our work. </li>
       <li>Develop personas for our audiences to improve service delivery. </li>
       <li>Create new features and capabilities of the Challenge.Gov platform, including an evaluation function for challenge managers. </li>
       <li>Produce additional training assets for both federal challenge managers and members of the public, including how-to videos for using the site and leading practices for public events.</li>
     </ul>
-    </p>
     </p>
           </div>
   </div>
