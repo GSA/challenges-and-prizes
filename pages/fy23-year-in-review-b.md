@@ -56,6 +56,7 @@ title: Challenge.Gov FY23 Year In Review
       <div class="usa-card">
         <div class="usa-card__body text-left">
           <h3 style="color:#c05600">Federal Challenges in FY23</h3>
+          <hr>
           <p>Federal challenge data includes the number, prize amount, agencies, and challenge types for the year. In FY23, the most common type of challenge were those seeking ideas from the public, indicating agencies are leveraging prize competitions as a way to lower barriers to engaging the public and tapping into new audiences.</p>
          <p>
                  <span style="color: #c05600; font-size: 28px;"><b>136</b></span> Prize competitions<br>
@@ -88,7 +89,7 @@ title: Challenge.Gov FY23 Year In Review
           <caption>
           <b>Challenge Types</b>
           </caption><br>
-          <img src="{{ site.baseurl }}/assets/images/fy23-pie.png" alt="Fiscal year 2023 challenge and social media data." width="100%"> </div>
+          <img src="{{ site.baseurl }}/assets/images/fy23-pie-graph.png" alt="" width="100%"> </div>
       </div>
     </div>
     <div class="tablet:grid-col-6">
@@ -109,7 +110,7 @@ title: Challenge.Gov FY23 Year In Review
           <caption>
           <b>Heatmap Challenge.Gov Visitors</b>
           </caption><br>
-          <img src="{{ site.baseurl }}/assets/images/fy23-heatmap.png" alt="" width="100%"><br>
+          <img src="{{ site.baseurl }}/assets/images/fy23-map.png" alt="" width="100%"><br>
         </div>
       </div>
       <div class="tablet:grid-col-12">
