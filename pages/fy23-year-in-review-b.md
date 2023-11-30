@@ -18,7 +18,7 @@ title: Challenge.Gov FY23 Year In Review
               <p>Through the combined efforts of federal challenge managers and the Challenge.Gov team, federal prize competitions and engagement on Challenge.Gov increased across multiple key metrics in FY23 compared to the previous year:</p>
               <div class="grid-container">
                 <div class="grid-row">
-                  <div class="tablet:grid-col" style="line-height: 1.2">
+                  <div class="tablet:grid-col" style="line-height: 1.45">
                    <span style="color: #538200; font-size: 28px;"><b>&#x2191; 7%</b></span>   Number of prize competitions<br>
                    <span style="color: #538200; font-size: 28px;"><b>&#x2191; 46%</b></span>  Total prize purse<br>
                     <span style="color: #538200; font-size: 28px;"><b>&#x2191; 41%</b></span>  Number of challenge manager accounts<br>
