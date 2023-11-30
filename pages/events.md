@@ -18,8 +18,8 @@ title: Events
           </svg>
         </svg>
         <h2 class="card-title text-center" style="font-weight: 900;">December 4-7, 2023</h2>
-        <h4>FDA Digital Transformations Symposium</h4>
-        <p class="card-text text-center">TFDA’s Office of Digital Transformation is hosting a symposium this winter to discuss the newly released FDA Information Technology (IT) Strategy for Fiscal Years 2024-2027.  This discussion will include details about FDA’s leadership, business objectives, and innovations, followed by two Vendor Days that focus on topics relating to FDA's IT contracts.</p>     
+        <h4>FDA Digital Transformation Symposium</h4>
+        <p class="card-text text-center">The FDA’s Office of Digital Transformation is hosting a symposium this winter to discuss the newly released FDA Information Technology (IT) Strategy for Fiscal Years 2024-2027.  This discussion will include details about FDA’s leadership, business objectives, and innovations, followed by two Vendor Days that focus on topics relating to FDA's IT contracts.</p>     
  <p class="card-text text-center">
           <b>December 4-7, 2023 <br/>
             9:00 am - 4:00 pm ET</b>
