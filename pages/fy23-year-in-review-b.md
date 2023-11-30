@@ -99,11 +99,11 @@ title: Challenge.Gov FY23 Year In Review
           <hr>
           <p>Challenge.Gov launched a new platform in October 2022 with a dynamic set of features to facilitate the federal government’s use of prize competitions and engage the public, including secure accounts for federal challenge managers and the public.</p>
           <p>
-          <span style="color: #c05600; font-size: 24px;"><b>297</b></span> FY23 Challenge Manager accounts<br>
-            <span style="color: #c05600; font-size: 24px;"><b>6,049</b></span> FY23 Public Solver accounts<br>
-            <span style="color: #c05600; font-size: 24px;"><b>366,608</b></span> Total sessions<br>
-            <span style="color: #c05600; font-size: 24px;"><b>232,254</b></span> Total users<br>
-           <span style="color: #c05600; font-size: 24px;"><b>823,087</b></span> Total pageviews
+          <span style="color: #c05600; font-size: 28px;"><b>297</b></span> FY23 Challenge Manager accounts<br>
+            <span style="color: #c05600; font-size: 28px;"><b>6,049</b></span> FY23 Public Solver accounts<br>
+            <span style="color: #c05600; font-size: 28px;"><b>366,608</b></span> Total sessions<br>
+            <span style="color: #c05600; font-size: 28px;"><b>232,254</b></span> Total users<br>
+           <span style="color: #c05600; font-size: 28px;"><b>823,087</b></span> Total pageviews
  </p>
           <br>
           <hr>
@@ -120,10 +120,10 @@ title: Challenge.Gov FY23 Year In Review
             <hr>
             <p>The Challenge.Gov program supports a thriving federal community of practice with office hours, robust customer support, and practical resources. Through various speaking engagements to both federal and public audiences, the Challenge.Gov team highlights the work of federal challenge managers and advocates for increased use of prize competitions to drive innovation and engage the public.</p>
             <p>
-            <span style="color: #c05600; font-size: 24px;"><b>1,454</b></span> Customer service touchpoints<br>
-             <span style="color: #c05600; font-size: 24px;"><b>22</b></span> Office Hours<br>
-              <span style="color: #c05600; font-size: 24px;"><b>1,195</b></span> Federal newsletter subscribers<br>
-             <span style="color: #c05600; font-size: 24px;"><b>10</b></span> Speaking engagements<br>
+            <span style="color: #c05600; font-size: 28px;"><b>1,454</b></span> Customer service touchpoints<br>
+             <span style="color: #c05600; font-size: 28px;"><b>22</b></span> Office Hours<br>
+              <span style="color: #c05600; font-size: 28px;"><b>1,195</b></span> Federal newsletter subscribers<br>
+             <span style="color: #c05600; font-size: 28px;"><b>10</b></span> Speaking engagements<br>
           </p>
           </div>
         </div>
@@ -138,11 +138,11 @@ title: Challenge.Gov FY23 Year In Review
             <hr>
             <p>Social media and content development are key avenues for engaging the public and promoting federal prize competitions. In FY23, Challenge.Gov launched a new YouTube channel to allow our program to expand our production of video content, including short promotional videos for challenges accepting submissions on the site.</p>
             <p>
-            <span style="color: #c05600; font-size: 24px;"><b>7,998 </b></span> Public newsletter subscribers<br>
-              <span style="color: #c05600; font-size: 24px;"><b>806 </b></span> LinkedIn followers<br>
-              <span style="color: #c05600; font-size: 24px;"><b>15,383 </b></span> Twitter followers<br>
-              <span style="color: #c05600; font-size: 24px;"><b>4,232 </b></span> Facebook followers<br>
-              <span style="color: #c05600; font-size: 24px;"><b>873 </b></span> NEW! YouTube views
+            <span style="color: #c05600; font-size: 28px;"><b>7,998 </b></span> Public newsletter subscribers<br>
+              <span style="color: #c05600; font-size: 28px;"><b>806 </b></span> LinkedIn followers<br>
+              <span style="color: #c05600; font-size: 28px;"><b>15,383 </b></span> Twitter followers<br>
+              <span style="color: #c05600; font-size: 28px;"><b>4,232 </b></span> Facebook followers<br>
+              <span style="color: #c05600; font-size: 28px;"><b>873 </b></span> NEW! YouTube views
               </p>
           </div>
         </div>
@@ -154,9 +154,9 @@ title: Challenge.Gov FY23 Year In Review
             <hr>
             <p>The Challenge.Gov program held events featuring challenge managers that provided opportunities for members of the public to ask questions about active challenges on the site. For example, our Challenge Chat format includes a brief, 60 second challenge video promotion and a 20 minute facilitated Q&A with the challenge manager. </p>
             <p>
-            <span style="color: #c05600; font-size: 24px;"><b>7</b></span> Public events<br>
-              <span style="color: #c05600; font-size: 24px;"><b>290</b></span> Total event attendance<br>
-              <span style="color: #c05600; font-size: 24px;"><b>41</b></span> Average event attendance
+            <span style="color: #c05600; font-size: 28px;"><b>7</b></span> Public events<br>
+              <span style="color: #c05600; font-size: 28px;"><b>290</b></span> Total event attendance<br>
+              <span style="color: #c05600; font-size: 28px;"><b>41</b></span> Average event attendance
             </p>
           </div>
         </div>
