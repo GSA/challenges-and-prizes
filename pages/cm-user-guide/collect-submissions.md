@@ -30,7 +30,7 @@ title: User Guide for Challenge Managers | Collect Submissions
         <!-- <p class="padding-x-0 margin-bottom-0">Notes:</p> -->
         <span><b>Note:</b></span>
         <ul>
-          <li>You can make uploading files as part of a Challenge submission optional or required. If the required option is selected, you can have a max of 255 characters of supportive text to add directions/notes for the solver.</li>
+          <li>You can make uploading files as part of a Challenge submission optional or required.</li>
 <li>If there are specific pieces of information you wish to collect, you can include a submission template file as part of your “How to Enter” instructions detailing the information solvers must provide. The completed form can then be uploaded and included as part of their submission.</li>
           <li>You should limit the Personally Identifiable Information (PII) solvers are requested to provide as part of the submission process. Examples of PII that should generally not be collected via the Challenge.Gov submission form include: SSN, financial documents, agreements, participant address. You should also consult your agency’s Paperwork Reduction Act (PRA) office for review and approval of any questions solvers are asked to answer.</li>
           <li>You will be able to view submissions while the submission period is open, however, public solvers are able to revise their submissions at any point prior to the submission deadline. Therefore, you will only be able to download submissions and progress them through the challenge phases once the submission period has closed.</li>
