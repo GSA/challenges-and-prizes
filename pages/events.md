@@ -12,32 +12,14 @@ title: Events
 <div class="row">
   <div class="grid-row">
     <div class="grid-col-12">
-     <div class="usa-card">
-      <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
-            <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
-          </svg>
-        </svg>
-        <h2 class="card-title text-center" style="font-weight: 900;">November 8, 2023</h2>
-        <h4>White House OSTP Year of Open Science Recognition Challenge Chat</h4>
-         <p class="card-text text-center">Share your story of using open science to benefit society.</p>
-        <p class="card-text text-center">The White House Office of Science and Technology Policy (OSTP), in collaboration with federal agencies participating in a Year of Open Science, invite researchers, community scientists, educators, innovators, and members of the broader public to share stories of how they’ve advanced equitable open science.</p>
-<p class="card-text text-center">This recognition challenge seeks to spotlight the stories and teams behind projects that have addressed a particular challenge or advanced a solution, while embodying open science principles and practices.</p>
-<p class="card-text text-center">Join us for a live Q&A to meet the challenge team, bring your questions, and learn more.</p>      
- <p class="card-text text-center">
-          <b>November 8, 2023 <br/>
-            3:00 - 3:55 pm ET</b>
-</p>
-        <a href="https://gsa.zoomgov.com/webinar/register/7016976574840/WN_PpoYJS9OStuMrH3--GDpow" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a></div>
-    </div>  
-  </div> 
 <div class="usa-card">
       <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
           </svg>
         </svg>
         <h2 class="card-title text-center" style="font-weight: 900;">December 4-7, 2023</h2>
-        <h4>FDA Digital Transformations Symposium</h4>
-        <p class="card-text text-center">TFDA’s Office of Digital Transformation is hosting a symposium this winter to discuss the newly released FDA Information Technology (IT) Strategy for Fiscal Years 2024-2027.  This discussion will include details about FDA’s leadership, business objectives, and innovations, followed by two Vendor Days that focus on topics relating to FDA's IT contracts.</p>     
+        <h4>FDA Digital Transformation Symposium</h4>
+        <p class="card-text text-center">The FDA’s Office of Digital Transformation is hosting a symposium this winter to discuss the newly released FDA Information Technology (IT) Strategy for Fiscal Years 2024-2027.  This discussion will include details about FDA’s leadership, business objectives, and innovations, followed by two Vendor Days that focus on topics relating to FDA's IT contracts.</p>     
  <p class="card-text text-center">
           <b>December 4-7, 2023 <br/>
             9:00 am - 4:00 pm ET</b>
@@ -47,9 +29,23 @@ title: Events
   </div>
 </div>
 </div>
-<h3 class="text-center margin-top-0">Past Events</h3>
+  </div>
+<h2 class="text-center margin-top-0">Past Events</h2>
 <div class="grid-row">
-  <div class="grid-col-12">  
+  <div class="grid-col-12"> 
+     <div class="usa-card">
+      <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
+            <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
+          </svg>
+        </svg>
+        <h2 class="card-title text-center" style="font-weight: 900;">November 8, 2023</h2>
+        <h4>White House OSTP Year of Open Science Recognition Challenge Chat</h4>
+        <p class="card-text text-center">The White House Office of Science and Technology Policy (OSTP), in collaboration with federal agencies participating in a Year of Open Science, invite researchers, community scientists, educators, innovators, and members of the broader public to share stories of how they’ve advanced equitable open science.</p>
+<p class="card-text text-center">This recognition challenge seeks to spotlight the stories and teams behind projects that have addressed a particular challenge or advanced a solution, while embodying open science principles and practices.</p>
+<p class="card-text text-center">On November 8, participants met the <a href="https://www.challenge.gov/?challenge=ostp-year-of-open-science-recognition-challenge">White House Office of Science and Technology Policy Year of Open Science Recognition Challenge</a> team for a live facilitated Q&A.</p>  
+        <p class="card-text text-center">Check out <a href="https://youtu.be/o1ANrn9_wd4?si=gbiaROOr-pQHbmoN">this short challenge video</a> to learn more.</p>
+         </div>
+    </div>  
     <div class="usa-card">
       <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
@@ -74,7 +70,6 @@ title: Events
            <h4>The 9th Annual ED Games Expo</h4>
         <p class="card-text text-center">The annual ED Games Expo is a public showcase of “game-changing” education technology (EdTech) innovations developed through programs at the Institute of Education Sciences (IES), the U.S. Department of Education (ED), and across government. This event is designed to provide an engaging and meaningful experience for children, students, parents  and caregivers, educators, and all stakeholders interested in learning about emerging forms of  education-related technologies and the government programs that support EdTech innovation and research. Visit the <a href="https://ies.ed.gov/sbir/EdGamesExpo.asp">ED Games Expo</a> page to learn more.
  </p>
-
       </div>
       </div>
         <div class="usa-card">
@@ -90,10 +85,8 @@ title: Events
 </p>
 <p class="card-text text-center">The Demo Day series allows TPG members and the larger civic tech community to share ground-breaking work and lessons learned. Check out <a href="https://ies.ed.gov/sbir/EdGamesExpo.asp">Technologists for Public Good</a> to learn more.
  </p>
-      
 </div>
     </div>
-   
     <div class="usa-card">
       <div class="usa-card__body text-center"> 
         <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="past-events" role="img">
@@ -108,7 +101,6 @@ title: Events
         On August 15, participants met the <a href="https://www.challenge.gov/?challenge=reachu-challenge">ReachU Challenge</a> team to learn more about this crowdsourcing campaign.</p>
       </div>
     </div>
-  </div>
   <div class="usa-card">
     <div class="usa-card__body text-center">           
       <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="past-events" role="img">
@@ -177,5 +169,6 @@ title: Events
   <p class="usa-card__text">This event is a unique opportunity for thought leaders, innovators, and technology experts to discuss how artificial intelligence could revolutionize healthcare in the USA and beyond. We will explore AI's innovative potential and its ability to transform how healthcare is delivered. </p>
 </div>
 </div>      
+</div>
 </div>
 
