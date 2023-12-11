@@ -17,6 +17,28 @@ title: Events
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
           </svg>
         </svg>
+        <h2 class="card-title text-center" style="font-weight: 900;">January 18, 2024</h2>
+        <h4>Innovation Challenge to Prevent Human Trafficking Among Women and Girls<br/>
+Challenge Chat Live Q&A</h4>
+        <p class="card-text text-center">Call for innovative and preventive solutions to human trafficking among women and girls.</p>     
+        <p class="card-text text-center"> Join us for a live Q&A to meet the challenge team, bring your questions, and learn more.</p>
+ <p class="card-text text-center">
+          <b>January 18, 2024<br/>
+            3:00 - 3:20 pm ET</b>
+</p>
+        <a href="https://gsa.zoomgov.com/webinar/register/7517023184318/WN_S1s8NwpzTROVfiXcojnfiQ" class="usa-button usa-button"><span style="color: #ffffff;">Register for the Challenge Chat</span></a>
+    </div>  
+  </div>
+</div>
+</div>
+  </div>
+<h2 class="text-center margin-top-0">Past Events</h2>
+<div class="grid-row">
+  <div class="grid-col-12"> <div class="usa-card">
+      <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
+            <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
+          </svg>
+        </svg>
         <h2 class="card-title text-center" style="font-weight: 900;">December 4-7, 2023</h2>
         <h4>FDA Digital Transformation Symposium</h4>
         <p class="card-text text-center">The FDA’s Office of Digital Transformation is hosting a symposium this winter to discuss the newly released FDA Information Technology (IT) Strategy for Fiscal Years 2024-2027.  This discussion will include details about FDA’s leadership, business objectives, and innovations, followed by two Vendor Days that focus on topics relating to FDA's IT contracts.</p>     
@@ -27,12 +49,6 @@ title: Events
         <a href="https://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/2023-fda-digital-transformation-symposium-12042023" class="usa-button usa-button"><span style="color: #ffffff;">Learn More and Register</span></a>
     </div>  
   </div>
-</div>
-</div>
-  </div>
-<h2 class="text-center margin-top-0">Past Events</h2>
-<div class="grid-row">
-  <div class="grid-col-12"> 
      <div class="usa-card">
       <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
