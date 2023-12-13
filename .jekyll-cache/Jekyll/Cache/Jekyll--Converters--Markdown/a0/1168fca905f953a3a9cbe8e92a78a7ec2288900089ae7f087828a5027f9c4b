@@ -1,0 +1,74 @@
+I"�)<h3 id="description">Description</h3>
+
+<p>At an unprecedented pace, Federal and state leaders, community based organizations, and all avenues of the health care system are expending their time and resources to respond to the COVID-19 pandemic. We at ACL recognize the need and are expanding the timeline of this new funding opportunity. The Challenge Competition will now begin in July. As a result of this crises, there is a greater need for enhanced, standardized data tracking and referral processes and an even more need to connect people with the right community resources and supports. This will continue to be a priority as we think about the resources necessary to address the effects of COVID-19.</p>
+
+<h4 id="todays-landscape-of-health-and-social-care-coordination-for-older-adults-and-people-with-disabilities"><strong>Today’s Landscape of Health and Social Care Coordination for Older Adults and People with Disabilities:</strong></h4>
+
+<p>Individual health plans and health systems are implementing technology approaches to screen and refer individuals to community resources in order to address their social needs and improve their health and overall well-being. However, the existing technology solutions lack interoperability and scalability within and across communities. Since 2003, states and community based organizations (CBOs) have invested in robust resource directory and referral platforms through state <a href="https://nwd.acl.gov/">No Wrong Door (NWD) System</a> integration to streamline access to long term services and supports for older adults, individuals with disabilities, and their caregivers. Community Based Organizations may include Agencies on Aging, Aging and Disability Resources Centers, Centers for Independent Living or other aging and disability network agencies. State NWD Systems include a community based approach to person-centered planning and assessment, information and referral to state and community resources, and a governance structure that ensures these functions are available across the state. However, provider and plan specific referral platforms are often not leveraging this existing infrastructure that enables access to a variety of services and supports that address social needs.</p>
+
+<p>While some states have developed or are planning statewide technology platforms that enable social  risk assessments and referrals from health care to community resources, there is a need for a more collaborative, multi-stakeholder approach that ensures the interoperability and scalability of such platforms. Examples of statewide approaches include:</p>
+
+<ol>
+  <li>Oregon Health Leadership Council, HIT Commons: <a href="http://www.orhealthleadershipcouncil.org/hit-commons/">http://www.orhealthleadershipcouncil.org/hit-commons/</a>,</li>
+  <li>Pennsylvania Request for Information for Statewide Resource and Referral Tool: <a href="http://www.emarketplace.state.pa.us/Solicitations.aspx?SID=Resource%20and%20Referral%20Tool">http://www.emarketplace.state.pa.us/Solicitations.aspx?SID=Resource%20and%20Referral%20Tool</a></li>
+</ol>
+
+<p>As is, there is duplicative spending across stakeholders as they independently contract for different referral vendors to secure community connections. As a result, community based organizations are faced with the burden of accessing multiple platforms to receive and act on referrals. Opportunities to manage populations across a continuum of care are also limited when individuals seek care from providers with differing platforms that lack seamless connections to critical health and social care.</p>
+
+<p>The need for seamless exchange of referrals is also met with optimizing data on social determinants of health (SDoH) to ensure individuals get timely access to services and supports they need such as housing, nutrition, and transportation. Over the last several years, a variety of community led efforts are developing <a href="https://www.healthit.gov/buzz-blog/interoperability/advancing-interoperable-social-determinants-of-health-data">industry-wide standards</a> to represent these components of SDoH and to enable exchange of person-centered data between health information technology platforms and CBOs. One such effort, perhaps the largest such activity in the SDoH space, is the <a href="https://www.hl7.org/gravity/">Gravity Project</a>. The Gravity Project aims to standardize medical codes and exchange standards to facilitate the use of SDoH-related data across a wide range of care management settings between health care and human services providers, and others as authorized and appropriate. There is a need for health plans and systems to require and for technology vendors to uniformly adopt technical standards, which are being developed and tested. This include standards on the format, content and structure of SDoH data, community resource directories, and bi-directional exchange of referral messages.  The mid-to-long term goal is consistent implementation of standards for SDoH data, bi-directional exchange of referrals, and resource directories across technology platforms that serve health care and CBOs.</p>
+
+<h4 id="the-challenge">The Challenge:</h4>
+
+<p>The Administration for Community Living (ACL), U.S. Department of Health and Human Services (HHS) is announcing a competition for state and community leaders in the aging and disability network, health care systems, health plans, and health IT vendors to cultivate care coordination by developing and/or optimizing interoperable and scalable technology platforms. Participants are challenged with working collaboratively on enhancing scalable approaches to securely sharing standardized data on social determinants and person-centered plans through the use of open resource directories that seamlessly connect and interoperate with health care system’s electronic health records to community based organizations. This Challenge includes developing prototypes and implementing technical solutions that track referral patterns and gaps in service that visibly display social service and health related outcomes overtime.</p>
+
+<p>To demonstrate value and achieve seamless network integration technical solutions are challenged with incorporating closed-loop referral and follow-up protocols to track and support individuals when they obtain services from any organization or health care provider within the network. Producing data on the individual, organizational, and regional levels about referrals, the prevalence of SDoH, and service utilization and outcomes guarantees opportunities to strengthen coordinated referral networks across CBOs, states, and the health care system. Technology-based platforms that enable linkages between healthcare providers and the existing ecosystem of community-based, social service organizations are challenged to more efficiently share standardized data to support referral processes and better informed decision-making, ensuring that individuals are seamlessly connected to resources that address their preferences, goals, values, and social determinants in ways that promote independence in the community for as long as possible.</p>
+
+<p>Critical partners for designing solutions to this Challenge should include a team of key stakeholders. Strong preference will be given to teams that include state leaders across aging, disability and Medicaid programs (or their designees), community based organizations in the aging and disability networks, health IT developers, health care providers, health plans, and others with expertise in technical standards, interoperability and data analysis.</p>
+
+<p>The Challenge will compete in three phases with cash prizes awarded in each phase. The total prize award available is $500,000.</p>
+
+<p>Phase 1: Concept &amp; Design Submission (July - December 2020)</p>
+
+<ul>
+  <li>Form multi-stakeholder team and develop idea and concept designs that include functional enhancements, open standards, and technical specifications for enhancing health and social care integration.</li>
+  <li><strong>Registration and Phase 1 Application submissions due Wednesday, January 6, 2021. See below for more information.</strong></li>
+</ul>
+
+<p>Phase 2: Proof of Concept &amp; Demonstration (January 2021 - June 2021)</p>
+
+<ul>
+  <li>Participant teams will convene in-person or virtually to demo proposed solutions.</li>
+</ul>
+
+<p>Phase 3: Implementation &amp; Testing - (July - December 2021)</p>
+
+<ul>
+  <li>Implementation and real-world testing of designed approach.</li>
+</ul>
+
+<h4 id="what-is-a-challenge">What is a Challenge?</h4>
+
+<p>A challenge (also referred to as “prize challenge”, “competition,” “prize competition,” “incentive prize” or any combination thereof) allows the public to solve problems presented by federal agencies and receive awards for the best solutions. This boils down to three steps:</p>
+
+<ol>
+  <li>Agency announces a problem to the public.</li>
+  <li>Participants create and submit solutions to the problem.</li>
+  <li>Agency evaluates solutions and awards prizes to the best ones.</li>
+</ol>
+
+<p>This process may sound similar to grants or contracts, but challenges differ in small and significant ways. In grants and contracts an agency receives proposals to do work, chooses one and then pays the monetary award incrementally as the work is done. In challenges, an agency generally selects winner(s) after assessing work that has been completed. In more complex, multi-phase challenges, phase winners may be selected progressively as development stages are completed.</p>
+
+<p>Unlike contracts in particular, which provide detailed and comprehensive specifications of the work that needs to be done, challenges define a smaller set of requirements, which allows participants to bring more of their own creativity to solutions.This can be advantageous when a problem can be solved many different ways, including ways that the agency is not even aware of. The open-ended approach can entice participation from those who may not have direct expertise in the problem subject matter area but can lend expertise from their diverse backgrounds.</p>
+
+<p>Challenges can serve multiple goals beyond sourcing solutions to problems, including:</p>
+
+<ul>
+  <li>Signal interest in an area that you think markets should be doing more to serve</li>
+  <li>Reach wide communities of experts</li>
+  <li>Deliver messages to the public in a fun, interactive way</li>
+  <li>Generate interest in new services, data or technologies your agency provides</li>
+  <li>Develop public buy-in for agency initiatives</li>
+</ul>
+
+<p>For more information, please visit: https://www.challenge.gov/toolkit/faq/</p>
+:ET

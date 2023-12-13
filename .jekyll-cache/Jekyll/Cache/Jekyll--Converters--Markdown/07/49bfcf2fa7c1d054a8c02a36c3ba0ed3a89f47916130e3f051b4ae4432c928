@@ -1,0 +1,2 @@
+I"í<p>The WEC-Sim code currently being developed by the National Renewable Energy Laboratory and Sandia National Laboratory utilizes a modular structure that allows different physics (e.g. hydrodynamics) and device components to be simulated in separate modules. The team proposes to run a code competition to develop an open-source frequency domain boundary element method (BEM) module, OpenBEM. WEC-Sim uses the BEM module to determine hydrodynamic coefficients and wave excitation forces.</p>
+:ET

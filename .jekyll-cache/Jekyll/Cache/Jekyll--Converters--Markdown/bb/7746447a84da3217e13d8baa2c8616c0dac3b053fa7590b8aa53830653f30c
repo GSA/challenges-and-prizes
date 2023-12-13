@@ -1,0 +1,156 @@
+I"T9<h3 id="description">Description</h3>
+
+<p><strong>CONGRATULATIONS TO OUR FINAL WINNERS!</strong> For any questions related to this Challenge email us at <a href="mailto:psprizes@nist.gov">psprizes@nist.gov</a>.</p>
+
+<p><strong>Overall Standing:</strong></p>
+
+<ul>
+  <li>1st = $100,000: Team AAC (Advanced Aircraft Company)</li>
+  <li>2nd = $40,000: Team IE (Intelligent Energy)</li>
+  <li>3rd  =$20,000: Team ARCC (Autonomous Robotics Competition Club)</li>
+</ul>
+
+<p><strong>Best-in-Class = $5,000 each</strong></p>
+
+<ul>
+  <li>Endurance / Team AAC (Advanced Aircraft Company)</li>
+  <li>Innovation / Team AAC (Advanced Aircraft Company</li>
+  <li>Cost Effectiveness / Team Endure Air</li>
+  <li>Weight / Team Endure Air</li>
+  <li>Autonomy / Team ARCC (Autonomous Robotics Competition Club)</li>
+  <li>Ease of Use / Team Endure Air</li>
+  <li>First Responder’s Choice / Team ARCC (Autonomous Robotics Competition Club)</li>
+  <li>First Responder’s Choice / Team AAC (Advanced Aircraft Company)</li>
+</ul>
+
+<h4 id="informational-materials">Informational Materials</h4>
+
+<ul>
+  <li>
+    <h4 id="april-2-2020-webinar"><a href="https://capconcorp.egnyte.com/dl/FqF0hCXwEV/">April 2, 2020 Webinar</a></h4>
+  </li>
+  <li>
+    <h4 id="frequently-asked-questions"><a href="https://www.firstresponderuaschallenge.org/faqs.php">Frequently Asked Questions</a></h4>
+  </li>
+</ul>
+
+<h4 id="challenge-details">Challenge Details</h4>
+
+<p>Join us for this exciting drone (aka unmanned aircraft system or UAS) prize competition using your ingenuity and hardware build expertise to create a concept for a drone prototype. The result of the First Responder UAS Endurance Challenge will support the public safety community and its stakeholders.</p>
+
+<p>Vertical take-off and landing (VTOL) UAS provide many different mission capabilities, but their flight time is limited. The payload capacity, energy source and flight time are linked through design trade-offs that can be optimized for efficiency and flexibility. This challenge is designed to keep a UAS and its payload airborne for the longest time possible to support first responders on the ground while they conduct their mission. The advancement of UAS research achieved through this challenge will help support the development and operation of UAS that are intended to host critical tools for public safety missions, such as wireless communications systems.</p>
+
+<p>The National Institute of Standards and Technology (NIST) Public Safety Communications Research (PSCR) Division is hosting a 4-stage challenge, with prize awards <strong>up to $588,000</strong> for the top designs. There are no fees or qualifications needed to enter the first stage. The most outstanding Stage 1 conceptual designs will be eligible to participate in the remaining stages of the competition <a href="/assets/netlify-uploads/updated-official-challenge-rules-pscr-first-responder-uas-endurance-challenge-february2021.docx">see Official Rules</a>.</p>
+
+<p><strong>You can make a difference!</strong> Continue reading to learn about challenge stages and details. To enter Stage 1, submit your <a href="https://www.firstresponderuaschallenge.org/">entry</a> by April 30, 2020.  For entry as a Walk-on for Stage 3, submit your <a href="https://www.firstresponderuaschallenge.org/">entry</a> by December 28, 2020. Entries can be submitted through the Contestant Portal on the Challenge website at <a href="https://www.firstresponderuaschallenge.org/">https://www.firstresponderuaschallenge.org/</a>.</p>
+
+<h4 id="table-a---summary-of-important-dates">Table A - Summary of Important Dates</h4>
+
+<p><img src="/assets/netlify-uploads/uas-table-a_12feb2021.png" alt="Summary of Important Dates" title="Table A - Summary of Important Dates" /></p>
+
+<p>NOTE: NIST reserves the right to revise the dates at any time.</p>
+
+<h4 id="background">Background</h4>
+
+<p>NIST PSCR established the Innovation Accelerator to spearhead the research that supports the development and deployment of the Nationwide Public Safety Broadband Network (NPSBN). PSCR’s Open Innovation team engages public safety entities, government, academia, and industry to identify innovation opportunities and foster technology advancements for public safety communications through prize competitions and challenges.</p>
+
+<h4 id="project-objectives">Project Objectives</h4>
+
+<p>The purpose of this Challenge is to advance UAS technologies by building and flying drones designed to support first responders. One of the barriers for the public safety community is having access to drones that can fly for long periods of time, ninety minutes or greater, while carrying a heavy payload. Emergency responders can accomplish their mission more efficiently and effectively if the drone flight time for a known payload is maximized. Since the payload capacity, energy source, flight characteristics, and flight time are linked together through design trade-offs, PSCR is exploring ways to optimize drones for increased flight endurance while making it more efficient and flexible for use by public safety.</p>
+
+<p>In pursuit of that goal, PSCR is investigating options to enable state and local first responders the ability to deploy drones for law enforcement, firefighting, and other emergency services needing broadband connectivity and services. In a typical search-and-rescue scenario, a team of one or two first responders may be dispatched to a location where broadband LTE communications are unavailable. To maintain communications, first responders might deploy an LTE system using a drone to provide communications to first responders on the ground and extend coverage to an area that is remote from where the drone initially launched. Some key features and capabilities of interest to public safety include:</p>
+
+<ul>
+  <li>The drone and supporting system equipment can be stored in the cargo space of an SUV or pickup truck.</li>
+  <li>The drone should be light in weight (one-person setup), easy to set up, capable of Vertical Take Off and Landing (VTOL) and not require special tools.</li>
+  <li>The drone may be required to move between different locations in order to maintain communications coverage.</li>
+  <li>The drone needs to continuously fly as long as possible, be easily recovered, stored and readied for the next mission.</li>
+</ul>
+
+<p>PSCR is aware that various organizations have, or are developing, drones with higher payload capacities and long endurance; however, these drones typically cost more than what a local public safety department might be able to afford. Additionally, they may not be practical due to the difficulty of transporting large equipment and/or the need for specialized training to operate it, both of which can be difficult for city/state agencies with limited staff and resources. Therefore, PSCR is hosting this 4-stage challenge to design, develop, and demonstrate drones with extended flight time and other capabilities that support first responders to help advance the research and push the boundaries of UAS technology for public safety.</p>
+
+<h4 id="deliverables-due">Deliverables Due</h4>
+
+<p>Participants will be asked to:</p>
+
+<ul>
+  <li>Submit a concept paper using an online form, outlining the UAS knowledge, skills, capabilities and design approach for this challenge</li>
+  <li>Create or purchase hardware necessary to build a prototype and implement the design approach outlined within the concept paper</li>
+  <li>Produce a Test flight video demonstrating the UAS prototype capabilities and safety compliance</li>
+  <li>Participate in a Virtual Competition, conducting flights at Contestant’s designated flight location and submitting videos of flights and static tests</li>
+</ul>
+
+<h4 id="uas-challenge-stages">UAS Challenge Stages</h4>
+
+<p><img src="/assets/netlify-uploads/uas-table-b_12feb2021.png" alt="Challenge Stages" title="UAS Challenge Stages" /></p>
+
+<h3 id="prizes">Prizes</h3>
+
+<h4 id="total-cash-prize-pool">Total Cash Prize Pool</h4>
+
+<p>Up to $588,000</p>
+
+<h4 id="prize-breakdown">Prize Breakdown</h4>
+
+<p>NIST Public Safety Communications Research program is hosting a 4-stage challenge, with development funds, travel, and prize awards listed in the following table:</p>
+
+<p><img src="/assets/netlify-uploads/uas-table-c_12feb2021.png" alt="Prize Breakdown" title="Prize Breakdown" /></p>
+
+<p>NOTE: This table only describes prize awards; additional contestants may be invited to participate in challenge stages but not receive prize awards. All Stage 4 Contestants are eligible to compete for all Stage 4 prizes.</p>
+
+<h4 id="non-monetary-prizes">Non-monetary Prizes</h4>
+
+<ul>
+  <li>Informal mentoring for contestants selected from Stage 1: Concept Paper Contest</li>
+  <li>Opportunities for contestants to showcase prototype UAS to representatives of the first responder community at the 2022 PSCR Conference</li>
+</ul>
+
+<h3 id="rules">Rules</h3>
+
+<p>See the <a href="/assets/netlify-uploads/updated-official-challenge-rules-pscr-first-responder-uas-endurance-challenge-february2021.docx">Official Rules</a> for details on all aspects of the challenge.</p>
+
+<h3 id="judging-criteria">Judging Criteria</h3>
+
+<h4 id="judging-panel">Judging Panel</h4>
+
+<p>The submissions will be judged by a qualified panel of expert(s) selected by the U.S. Department of Commerce, National Institute of Standards and Technology (NIST) at its sole discretion. The panel consists of U.S. Department of Commerce, NIST and non-Department of Commerce, NIST experts and will judge the submissions according to the judging criteria in order to select winners. The decisions of the judges for the contest will be announced in accordance with the dates noted in the “Summary of Important Dates.”</p>
+
+<h4 id="judging-criteria-1">Judging Criteria</h4>
+
+<p><strong>Stage 1 Criteria</strong></p>
+
+<p>See the <a href="/assets/netlify-uploads/updated-official-challenge-rules-pscr-first-responder-uas-endurance-challenge-february2021.docx">Official Rules</a> for details on all aspects of the challenge. NIST makes an independent assessment of each Concept Paper based on the evaluation criteria. NIST will not review or consider ineligible Concept Paper submissions. During the review, each subject matter expert reviewer will review the entire concept papers to which they are assigned. The review is not done in sections with different reviewers responsible for different assigned sections. Therefore, it is not necessary to repeat information in every part of the Concept Paper. Do not include sensitive materials in the Concept Paper, for example personally identifiable information such as social security numbers or business sensitive information such as tax ID numbers, etc.</p>
+
+<p><strong>Criterion 1: Strategic Alignment &amp; Technical Outcome (50%)</strong></p>
+
+<p>This criterion involves consideration of the following factors:</p>
+
+<ul>
+  <li><strong><em>Strategic Alignment</em></strong> - The extent to which the proposed approach meets the objectives listed in the goals of the challenge; the responsiveness to the public safety scenarios; the likelihood that successful implementation of the proposed solution will have a significant real-world impact.</li>
+  <li><strong><em>Technical Outcome</em></strong> - The extent to which the proposed approach will result in significant improvement in commercially available technology and will potentially result in a technical outcome which enables considerable progress toward the challenge goals. Contestants will be evaluated on the extent to which their proposed approach demonstrates the potential to meet the Challenge Objectives listed in Table B - Drone Design Specification.</li>
+</ul>
+
+<p><strong>Criterion 2: Feasibility &amp; Team (50%)</strong></p>
+
+<p>This criterion involves consideration of the following factors:</p>
+
+<ul>
+  <li><strong><em>Team</em></strong> - The extent to which the capability of the Contestant(s) can address all aspects of the proposed project with a high chance of success, including, but not limited to qualifications, relevant expertise, and time commitment of the Contestants. Reviewers will evaluate: (a) The relevance of the qualifications and experience of the key staff, leadership, and technical experts. (b) The extent of the Contestants’ prior experience and the quality of the results achieved in leading programs similar in nature to the purpose, scope, etc.</li>
+  <li><strong><em>Plan</em></strong> - Contestant(s) plan to manage the limited schedule, resources, project risks and other challenges, and produce high quality project outcomes, in pursuit of the challenge goals.</li>
+</ul>
+
+<p>Concept Papers will be evaluated based on Criteria 1 and 2 above. Each Concept Paper will be reviewed by at least two expert reviewers and be assigned a score on a scale of 1 to 10 for each criterion based on the merit and potential of success of the proposal. Reviewers scores will be averaged for each Concept Paper. The specific scores will not be released publicly or provided to the Contestant.</p>
+
+<p><strong>See <a href="/assets/netlify-uploads/updated-official-challenge-rules-pscr-first-responder-uas-endurance-challenge-february2021.docx">Official Rules</a> for judging criteria associated with all other Stages of the contest.</strong></p>
+
+<h4 id="how-to-enter">How to Enter</h4>
+
+<p>Visit the Challenge website <a href="https://www.firstresponderuaschallenge.org/">https://www.firstresponderuaschallenge.org/</a>, to review the challenge stages in the First Responder UAS Endurance Challenge.</p>
+
+<ul>
+  <li>Visit the Challenge website <a href="https://www.firstresponderuaschallenge.org/">https://www.firstresponderuaschallenge.org/</a>, to view the challenge stages in the First Responder UAS Endurance Challenge.</li>
+  <li>To enter for Stage 1, complete the submission requirements for the Concept Paper Contest, submit the required concept paper and summary slide via the Challenge website <a href="https://www.firstresponderuaschallenge.org/">https://www.firstresponderuaschallenge.org/</a>.</li>
+  <li>To enter for Stage 3, complete the submission requirements for the Walk-on Teams: Video Test &amp; Safety Evaluation Contest, submit a Bill of Materials for the UAS and the same test flight videos required for the Stage 3: Video Test &amp; Safety Evaluation Contest via the Challenge website <a href="https://www.firstresponderuaschallenge.org/">https://www.firstresponderuaschallenge.org/</a>.</li>
+  <li>Additional information on how to complete a Contestant entry is available at <a href="https://www.firstresponderuaschallenge.org/">https://www.firstresponderuaschallenge.org/</a>.</li>
+</ul>
+:ET

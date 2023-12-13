@@ -1,0 +1,16 @@
+I"�<p><strong>[STEP 1] Participants read the FRPC rules:</strong>  Participants read the rules in full.  The FRPC rules document can be found <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/04/IARPA_NIST_FRPC_Rules.pdf">here</a>.</p>
+
+<p><strong>[STEP 2] Participants send documentation to NIST:</strong>  As specified in the <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/04/IARPA_NIST_FRPC_Rules.pdf">FRPC Rules</a>, participants must send a completed and signed Participation Agreement to NIST.  The participation agreement form is available at the <a href="https://www.nist.gov/programs-projects/face-recognition-prize-challenge/">NIST FRPC Support Website</a>.</p>
+
+<p><strong>[STEP 3] Participants send software to NIST:</strong>  As specified in the <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/04/IARPA_NIST_FRPC_Rules.pdf">FRPC Rules</a>, participants must send algorithms to the National Institute of Standards and Technology (NIST) as a compiled library.  Software is to be compatible with the <a href="https://www.nist.gov/sites/default/files/documents/2017/04/11/iarpa_nist_frpc_face_challenge_api_v2.pdf">NIST Concept of Operations and API Specification</a>.  Source code and other intellectual property must not be submitted to NIST.</p>
+
+<p><strong>[STEP 4] Software is run on sequestered images:</strong>  NIST runs the algorithm on images that are not made available to developers.  This creates a repeatable and fair test.  It impedes gaming strategies.  NIST will link submitted libraries to their test harness which is used in three steps:</p>
+<ul>
+ 	<li>Validation: NIST confirms it can reproduce participant-provided outputs on a small common set of images, provided by NIST.</li>
+ 	<li>Timing: NIST confirms that the implementation meets limits on computation duration.</li>
+ 	<li>Evaluation: NIST runs the algorithm on the test images sequestered at NIST.</li>
+</ul>
+<p><strong>[STEP 5] NIST computes performance:</strong>  Performance refers to accuracy and speed, and their dependence on quantities such as enrolled population size, image properties, and subject demographics.</p>
+
+<p><strong>[STEP 6] NIST delivers performance report to IARPA and judging commences. </strong></p>
+:ET

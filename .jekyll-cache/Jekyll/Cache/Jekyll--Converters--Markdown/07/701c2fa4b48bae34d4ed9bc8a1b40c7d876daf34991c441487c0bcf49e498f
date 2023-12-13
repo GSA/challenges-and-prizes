@@ -1,0 +1,83 @@
+I"<p>Each Team shall submit one entry in response to this Challenge. Team entries must have an individual identified as the primary point of contact and prize recipient. By submitting an entry, a Participant authorizes their institution’s name to be released to the media.</p>
+
+<p>The submission package must include:</p>
+
+<ul>
+  <li>white paper</li>
+  <li>corresponding tool</li>
+</ul>
+
+<p><strong>White Paper Submission Guidelines</strong>:</p>
+
+<p>White papers should provide an overview of the proposed technology and technical approach (e.g. architecture, deployment overview, algorithm description, model description, performance requirements, endpoint footprint, existing results, etc.), the benefits and novelty of the approach within the context of existing academic and commercially available technologies, and the dependencies necessary to operate the proposed technology.  White papers must be no more than five pages in length.  All white papers must be submitted along with the Participants tool per the instructions outlined in the tool submission guidelines below. </p>
+
+<p><strong>Tool Submission Guidelines</strong>:</p>
+
+<p>Submissions shall use docker and shall provide a container that the Challenge Manager can run along with a copy of their source code.  A good introductory example can be seen <a href="https://docker-curriculum.com/">here</a> (https://docker-curriculum.com/).</p>
+
+<p>Submitters tool shall provide a command line executable container that will take four arguments:</p>
+
+<ul>
+  <li>Video file name (MP4 format)</li>
+  <li>Number of points to be generated</li>
+  <li>Latitude of source in decimal degrees (i.e. where the camera is mounted)</li>
+  <li>Longitude of the source in decimal degrees (i.e. where the camera is mounted)</li>
+</ul>
+
+<p>Note: Submitters shall take great care with the ease for the Challenge Manager to run their Containers.</p>
+
+<p>Minimum output should be a Comma Separated Value (CSV) file that consists of:</p>
+
+<ul>
+  <li>A timestamp in seconds that starts at zero</li>
+  <li>Latitude and Longitude of the vessel(s) being tracked</li>
+</ul>
+
+<h4 id="terms-and-conditions">Terms and Conditions</h4>
+
+<p><strong>These terms and conditions apply to all participants in the Challenge</strong></p>
+
+<p><strong>Agreement to Terms</strong></p>
+
+<p>The Participant agrees to comply with and be bound by the AI Tracks at Sea Challenge Background and Rules (“the Rules”) as well as the Terms and Conditions contained herein.  The Participant also agrees that the decisions of the Government, in connection with all matters relating to this Challenge are binding and final.</p>
+
+<h4 id="eligibility">Eligibility</h4>
+
+<p>This challenge is open to only students at accredited higher education institutions. The funds used for this challenge are provided by the Naval STEM Coordination Office, managed by the Office of Naval Research that would have normally would have supported summer internships, however due to COVID-19, the internships were curtailed this summer.  This challenge promotes additional Navy engagement with academia.</p>
+
+<p>All Teams must have a TIN or EIN in order to receive a prize. Eligibility is subject to verification before any prize is awarded.</p>
+
+<p>Federal Government employees who are also active students are not eligible to participate in this challenge.</p>
+
+<p>Violation of the rules contained herein or intentional or consistent activity that undermines the spirit of the Challenge may result in disqualification. The Challenge is void wherever restricted or prohibited by law.</p>
+
+<p><strong>Data Rights</strong></p>
+
+<p>NIWC Pacific does not require that Participants relinquish or otherwise grant license rights to intellectual property developed or delivered under the Challenge. NIWC Pacific requires sufficient data rights/intellectual property rights to use, release, display, and disclose the white paper and/or tool, but only to the evaluation team members, and only for purposes of evaluating the Participant submission. The evaluation team does not plan to retain entries after the Challenge is completed but does plan to retain data and aggregate performance statistics, resulting from the evaluation of those entries. By accepting these Terms and Conditions, the Participant consents to the use of data submitted to the evaluation team for these purposes.</p>
+
+<p>NIWC Pacific may contact Participants, at no additional cost to the Government, to discuss the means and methods used in solving the Challenge, even if Participants did not win the Challenge.  Such contact does not imply any sort of contractual commitment with the Participant.</p>
+
+<p>Because of the number of anticipated Challenge entries, NIWC Pacific cannot and will not make determinations on whether or not third-party materials in the Challenge submissions have protectable intellectual property interests. By participating in this Challenge, each Participant (whether participating individually, as a team, or as a commercial entity) warrants and assures the Government that any data used for the purpose of submitting an entry for this Challenge, were obtained legally and through authorized access to such data. By entering the Challenge and submitting the Challenge materials, the Participant agrees to indemnify and hold the Government harmless against any claim, loss or risk of loss for patent or copyright infringement with respect to such third party interests.</p>
+
+<p>This Challenge does not replace or supersede any other written contracts and/or written challenges that the Participant has or will have with the Government, which may require delivery of any materials the Participant is submitting herein for this Challenge effort.</p>
+
+<p>This Challenge constitutes the entire understanding of the parties with respect to the Challenge.  NIWC Pacific may update the terms of the Challenge from time to time without notice.  Participants are strongly encouraged to check the website frequently.</p>
+
+<p>If any provision of this Challenge is held to be invalid or unenforceable under applicable federal law, it will not affect the validity or enforceability of the remainder of the Terms and Conditions of this Challenge.</p>
+
+<p><strong>Results of Challenge</strong></p>
+
+<p>Winners will be announced on the challenge.gov website and email.</p>
+
+<p><strong>Release of Claims</strong></p>
+
+<p>The Participant agrees to release and forever discharge any and all manner of claims, equitable adjustments, actions, suits, debts, appeals, and all other obligations of any kind, whether past or present, known or unknown, that have or may arise from, are related to or are in connection with, directly or indirectly, this Challenge or the Participant’s submission.</p>
+
+<p><strong>Compliance with Laws</strong></p>
+
+<p>The Participant agrees to follow and comply with all applicable federal, state and local laws, regulations and policies.</p>
+
+<p><strong>Governing Law</strong></p>
+
+<p>This Challenge is subject to all applicable federal laws and regulations. ALL CLAIMS ARISING OUT OF OR RELATING TO THESE TERMS WILL BE GOVERNED BY THE FEDERAL LAWS AND REGULATIONS OF THE UNITED STATES OF AMERICA.</p>
+:ET

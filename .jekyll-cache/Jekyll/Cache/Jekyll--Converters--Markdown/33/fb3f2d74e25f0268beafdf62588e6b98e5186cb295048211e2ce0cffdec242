@@ -1,0 +1,494 @@
+I"G�<h3 id="description">Description</h3>
+
+<p>See the Prizes Section (Total Cash Prize Pool and Prize Breakdown) below for the total prize purse increase and further detailed prize breakdown information. See the Judging Section (Judging Criteria) below for further detailed judging criteria for Phase II II and Phase III.</p>
+
+<p>The following six (6) participants were selected to participate in Phase III – Live Event at Muscatatuck for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant names are listed in the order of highest to lowest scoring for each scenario at the conclusion of Phase II:</p>
+
+<p>Scenario 1:</p>
+
+<ol>
+  <li>Draper</li>
+  <li>EpiSys Science, Inc.</li>
+  <li>Raytheon BBN Technologies</li>
+  <li>Heron Systems Inc.</li>
+  <li>Codex Laboratories</li>
+  <li>TurbineOne, LLC</li>
+</ol>
+
+<p>Scenario 2:</p>
+
+<ol>
+  <li>EpiSys Science, Inc.</li>
+  <li>Heron Systems, Inc.</li>
+  <li>Raytheon BBN Technologies</li>
+  <li>Codex Laboratories</li>
+  <li>Draper</li>
+  <li>TurbineOne, LLC</li>
+</ol>
+
+<p>The following seven (7) participants were selected to participate in Phase II – Virtual Vignettes for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant names are listed below in alphabetical order:</p>
+
+<ol>
+  <li>Codex Laboratories LLC</li>
+  <li>Draper</li>
+  <li>EpiSys Science, Inc.</li>
+  <li>Heron Systems Inc.</li>
+  <li>Indiana University-Bloomington</li>
+  <li>Raytheon BBN Technologies</li>
+  <li>TurbineOne, LLC</li>
+</ol>
+
+<p>Earlier, twenty (20) participants were invited to present their Phase I White Paper concepts to the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge judging panel. Invited participant names are listed below in alphabetical order:</p>
+
+<ol>
+  <li>AMTech One</li>
+  <li>ASEC, Inc.</li>
+  <li>Blue Wave AI Labs, LLC</li>
+  <li>Codex Laboratories LLC</li>
+  <li>Draper</li>
+  <li>EpiSys Science, Inc.</li>
+  <li>Exyn Technologies</li>
+  <li>Heron Systems Inc.</li>
+  <li>Indiana University-Bloomington</li>
+  <li>InfoDao LLC</li>
+  <li>IUPUI</li>
+  <li>Physical Optics Corporation/Mercury</li>
+  <li>Raytheon BBN Technologies</li>
+  <li>RIT/NUAIR, Inc.</li>
+  <li>Shield AI, Inc.</li>
+  <li>Skyline Nav AI Inc.</li>
+  <li>Sonalysts, Inc.</li>
+  <li>SSCI, Inc.</li>
+  <li>Trueface</li>
+  <li>TurbineOne, LLC</li>
+</ol>
+
+<p>Artificial Intelligence for Small Unit Maneuver (AISUM) combines Naval Expeditionary Warfare and Special Operations Forces (SOF) tactical maneuver elements with Robotic Autonomous Systems (RAS) to create a low risk human machine maneuver element that gains, maintains and extends access in complex, contested and congested areas, providing a decisive advantage and precision application of effects.</p>
+
+<p>Over the past 20 years the SOF community perfected the combination of its tactical maneuver elements and small arms precision fire with overhead unmanned and remotely piloted airborne Intelligence, Surveillance, and Reconnaissance (ISR) in its aerial delivered strike to precisely find, fix and finish networked threats. However, these non-state actors mostly operated in a two-dimensional battlespace that was mainly rural and urban sprawl, with little to no access to Electronic Warfare (EW) tools.</p>
+
+<p>Though the Special Operations community have become masters of the 2-dimensional threat environment over the past two decades, with today’s emerging threat environments, adversaries attempt to contest all domains with advanced technologies and take advantage of the complex and congested 3-dimensional battlespace. This reduces the effectiveness of SOF tactical maneuver elements, ISR and precision fires, creating the inability to maintain continuous airborne ISR feeds and key communications and navigation bands in the electromagnetic spectrum in these dense urban clutter environments, leaving our tactical maneuver elements challenged.</p>
+
+<p>For example, in a mission to infiltrate and obtain information or an asset from a sub terrain tunnel system in a contested and congested threat environment, AISUM could be used to gain intelligence and minimize human risk.  Conceptually, satellite imagery would provide the initial data used to generate a 3-dimensional terrain map of an area of operations, allowing mission planners, operators and drones to plan, train and rehearse within the simulated environment. These activities allow the team to develop and optimize specific tactics, techniques and procedures.</p>
+
+<p><strong>General Overview</strong></p>
+
+<p>This Prize Challenge reaches out to the defense, academic and industrial community to enhance research and development in the field of artificial intelligence for small unit maneuver. The objective of the Prize Challenge is for the development of an algorithm to enhance the maneuver and reconnaissance capabilities of autonomous drones within defined scenarios. The objective includes the utilization of the Government Furnished Property (GFP) drones, sensors, and onboard processing.</p>
+
+<p>Example Scenario 1:</p>
+
+<ol>
+  <li>Maneuver: Begin mission at entrance to building. Navigate through the building using open passages and any route to exit through open rear door.</li>
+  <li>Recon: Identify and count the number of key predefined objects, and simple properties (i.e. color) within the internal space (TBD: humans, object of interest)</li>
+</ol>
+
+<p>Example Scenario 2:</p>
+
+<ol>
+  <li>Maneuver: Begin mission at entrance to building. Navigate through the building, around limited obstacles in order to maximize coverage, and then exit through open rear door.</li>
+  <li>Mapping: Collect data of internal space to produce, post-hoc, a 3D model of the internal environment.</li>
+  <li>Recon: Identify the number and location of key predefined objects within the internal space (TBD: humans, object of interest).</li>
+  <li>Recon: Identify numbers of civilians vs combatants (threat / no-threat) within internal space. (TBD: identifying characteristics)</li>
+</ol>
+
+<p>The AISUM Prize Challenge is broken into three phases; technical white paper submission, virtual simulation environment, and live scenario at a military training site.</p>
+
+<p>Phase I will be conducted in two phases: Initial submission of White Paper Concept followed by an invitation to provide Virtual Presentation of the White Paper Concept. The White Paper Concept shall describe the details of the technical approach in response to the problem statement.</p>
+
+<p>White Paper Concept should be developed around the following conditions:</p>
+
+<ul>
+  <li>GFP will consist of stretch X drone, onboard processing, frontal camera, and optical avoidance sensors</li>
+  <li>Operation in a Non-GPS environment and an autonomous flight mode</li>
+  <li>Additional hardware payload proposals may be considered</li>
+</ul>
+
+<p>The Government will select up to 25 White Papers Concept(s) for invitation for a Virtual Presentation of their proposed concept to a panel of judges.  The Virtual Presentation shall provide a summary of the White Paper Concept and include detail on how participants intend to accomplish the Prize Challenge objective. Up to 10 winners will be selected to participate in Phase II.</p>
+
+<p>Phase II participants shall develop specific algorithms that will be used to compete in virtual scenarios. The participants will be evaluated for their algorithms to be used within a Government provided virtual map. Participants shall provide the following items to the Government:</p>
+
+<ul>
+  <li>Unreal level log file (Log file shall provide drone positions during the maneuver and identify drone objects detected.). This is located in: LinuxNoEditor/AISUM/Binaries/Linux/Gamelog.txt  OR  WindowsNoEditor/AISUM/Binaries/Win64/Gamelog.txt</li>
+  <li>A participant developed log file in accordance with the provided Government template—contains detections of the Objects of Interest, classification/identifications, etc. The log file shall provide drone positions during the maneuver, identify collisions, and the specific time the drone detects Objects of Interest and Humans (to include identification of combatants or non-combatants).</li>
+  <li>A 3D environment map of any format, preferably viewable in Blender (https://www.blender.org). (If it cannot be opened in Blender, include the name of the preferred viewing software.)</li>
+  <li>A 2D floorplan of the mapped space, which includes icons/text for the location of Objects of Interest and Humans.</li>
+  <li>A video screenshot of the run which includes either video from the drone, or a god’s eye perspective video of the run. The video screenshot shall include text, in real-time, is being written to the performer log file. For example, the text may include “printing drone position of x to log file” or “detected chair at x time”. Also, a .txt file containing the total number of uniquely identified objects of interest (e.g. “we identified 16 unique chairs”) must be provided when participant log files are sent to the Government.</li>
+</ul>
+
+<p>Participants shall provide a Phase II White Paper response to the following questions:</p>
+
+<ul>
+  <li>Summary of the participant’s technical approach to include a description of the methods used, algorithms, novelty aspects, etc.</li>
+  <li>Description of the aspects of the participant’s solution that went as expected and what performed well during the participant’s recorded run.</li>
+  <li>Description of the aspects of the participant’s solution that went worse than expected or did not perform as well.</li>
+  <li>Provide rationale for any inconsistency between the provided unreal level log file and participant developed log file.</li>
+  <li>If selected for Phase III, how do you expect performance issues in Phase II will affect performance in the Phase III, real life scenario? Specifically, what are your plans to address and overcome these challenges?</li>
+</ul>
+
+<p>The purpose of the Phase II White Paper response is to provide narrative to support participants’ solutions and delivered log files of the Virtual Presentation. See additional Phase II White Paper Submission instructions in the below “How to Enter” section.</p>
+
+<p>GFP Includes:</p>
+
+<ul>
+  <li>Microsoft Research AIRSIM environment for autonomous system using UE Unreal Engine Version 4</li>
+  <li>Map will be an open environment containing a multi-story, multiple room building</li>
+</ul>
+
+<p>Up to 10 winners will be selected to participate in Phase III.</p>
+
+<p>Phase III participants will utilize their developed algorithms with the provided drone and compete in a real life scenario within a hospital building at Muscatatuck Urban Training Center (MUTC). During the real life scenario, the participants shall launch the drone from the Government defined entryway into a limited accessible area within the first floor of the building that may differ from the available virtual representation. The drone shall autonomously enter the building and collect the following information:</p>
+
+<ul>
+  <li>Search and build a 2D floorplan of the accessible interior space.</li>
+  <li>Detect and count the number of humans within the accessible space.</li>
+  <li>Classify the humans within the accessible space as threats (holding brooms), or as civilians (empty hands).</li>
+  <li>Detect and count the number of Objects of Interest which may represent a threat to the team.  The exact definition of the Object of Interest will be provided just prior to mission execution.</li>
+  <li>Place the detected humans (threat/no-threat) and Objects of Interest in the correct locations on the 2D floorplan.</li>
+  <li>Produce the 2D floorplan and object detection data in a usable format within 10 minutes of the UAS exiting the building.</li>
+</ul>
+
+<p>Each participant shall provide the following items to the Government at the conclusion of each participant’s Phase III scenario run:</p>
+
+<ul>
+  <li>A participant developed log file in accordance with the provided Government template—contains detections of the Objects of Interest, classification/identifications, etc. The log file shall provide drone positions during the maneuver, identify collisions, and the specific time the drone detects Objects of Interest and Humans (to include identification of combatants or non-combatants). The log file shall contain clear information on the total number of humans detected, the total number of Objects of Interest, and the total number of Combatants and Civilians identified.</li>
+  <li>A 2D floorplan of the mapped space, which includes icons/text for the location of Objects of Interest and Humans.</li>
+  <li>GFP will consist of stretch X drone, onboard processing, frontal camera, and optical avoidance sensors</li>
+  <li>Operation in a Non-GPS environment and an autonomous flight mode</li>
+</ul>
+
+<p>All winner(s) will be determined at the end of this phase.</p>
+
+<p><strong>Key Dates</strong></p>
+
+<p>The government estimates the following timeline for the completion of the prize challenge.</p>
+
+<p><strong><em>Phase I</em></strong></p>
+
+<ul>
+  <li>
+    <p>Technical White Paper Submission open 50 calendar days</p>
+
+    <ul>
+      <li>Opens Dec. 10, 2020</li>
+      <li>Closes Jan. 29, 2021</li>
+      <li>
+        <p>NSWC Crane Project Talks: Dec. 17, 2020 (A virtual panel was available to answer questions related to the challenge.gov posting and the Prize Challenge from 1300-1500 ET)</p>
+
+        <ul>
+          <li>NSWC Crane Project Talks Presentation can be found <a href="https://434cll131hi945boxu2a7cmf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/AISUM-Project-Talks-Presentation-FINAL.pdf">here</a></li>
+          <li>The recording of this event can be found <a href="https://www.youtube.com/watch?v=s-5tnYk74o4">here</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Evaluation period 10-14 calendar days</li>
+  <li>Virtual presentation 14 calendar days</li>
+  <li>Complete internal documentation/obtain approval after final evaluation: 7-10 days</li>
+</ul>
+
+<p><strong><em>Phase II</em></strong></p>
+
+<ul>
+  <li>Virtual Invitational Test Day on Tuesday, June 15th</li>
+  <li>Official Virtual Run for Record on Tuesday, July 13th</li>
+  <li>Phase II White Paper submission closes at 0800ET, Monday, July 19th</li>
+  <li>Begin internal review of results on Monday, July 19th</li>
+  <li>Complete internal documentation/obtain approval after final evaluation: 7-12 days</li>
+  <li>Phase II set to end by July 31st with winners and advancing participants announced</li>
+</ul>
+
+<p><strong><em>Phase III</em></strong></p>
+
+<ul>
+  <li>Live event at Muscatatuck Urban Training Center (MUTC) on Monday, October 18th – Friday, October 22nd</li>
+  <li>Complete internal documentation/obtain approval after final evaluation</li>
+  <li>Phase III set to end by November 5th with winners announced</li>
+</ul>
+
+<p><strong>Questions &amp; Answers</strong></p>
+
+<p>Official responses to questions that have been received will be uploaded to beta.SAM.gov via Special Notice N0016420SNB14. View this beta.SAM posting <a href="https://beta.sam.gov/opp/779a1cb55ace43ccb18f7bb11d0c8a7b/view?keywords=n0016421SNB14&amp;sort=-relevance&amp;index=opp&amp;is_active=true&amp;page=1">here</a>.</p>
+
+<h3 id="prizes">Prizes</h3>
+
+<h5 id="total-cash-prize-pool">Total Cash Prize Pool</h5>
+
+<p>The total prize purse is increased to $750,000. The Government reserves the right, in its sole discretion and subject to the availability of funds, to increase the prize purse up to $1,000,000 during the execution of the challenge to be paid out in later phases.</p>
+
+<h5 id="prize-breakdown"><strong>Prize Breakdown</strong></h5>
+
+<ul>
+  <li>Phase I – No prize purse</li>
+  <li>
+    <p>Phase II – A prize purse up to $250,000 will be disbursed to the participants who score above the minimum threshold requirements in the virtual scenarios. Payments will be made with disparity based on the participants’ placings.</p>
+
+    <ul>
+      <li>Scenario 1:</li>
+    </ul>
+
+    <p><img src="/assets/netlify-uploads/asium-crane-scenario-1-table_22jun2021.png" alt="Prize Breakdown Phase II Scenario 1" title="Prize Breakdown Phase II Scenario 1" /></p>
+
+    <ul>
+      <li>Scenario 2:</li>
+    </ul>
+
+    <p><img src="/assets/netlify-uploads/asium-crane-scenario-2-table_22jun2021.png" alt="Prize Breakdown Phase II Scenario 2" title="Prize Breakdown Phase II Scenario 2" /></p>
+
+    <p>The minimum threshold requirements will be set before the beginning of the virtual runs.</p>
+  </li>
+  <li>
+    <p>Phase III – A prize purse up to $500,000 will be disbursed with disparity to the participants in the live event in which their proposed solutions will integrate on the provided drones for time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion at the Muscatatuck Urban Training Center (MUTC).</p>
+
+    <p><img src="/assets/netlify-uploads/asium-crane-phase-3-table-15sep2021-1-.png" alt="Phase 3 table" title="Phase 3" /></p>
+  </li>
+  <li>
+    <p>There will be no minimum threshold requirements set for the Phase III live runs.</p>
+
+    <p><img src="/assets/netlify-uploads/asium-crane-phase-3-table-15sep2021-1-.png" alt="Phase 3 table" title="Phase 3" /></p>
+  </li>
+  <li>There will be no minimum threshold requirements set for the Phase III live runs.</li>
+</ul>
+
+<h3 id="rules">Rules</h3>
+
+<p><strong>Eligibility Requirements</strong></p>
+
+<p>Eligibility is subject to verification by the Government before cash prizes are awarded. Participants (residents or entities) who are designated by the United States Treasury’s Office of Foreign Assets Control are not eligible to receive any cash prize in the Challenge. Participants who are listed, or become listed, on the Excluded Parties List found on www.sam.gov or have any active exclusions may not eligible to receive any cash prize in the Challenge.</p>
+
+<p>Only U.S. citizens and entities incorporated in and maintaining a primary place of business in the United States are eligible to receive cash prizes in this Challenge.</p>
+
+<p>Federal employees, including NSWC-CR employees, and NSWC-CR support contractors acting within the scope of their employment are not eligible to participate in the challenge. Likewise, members of their immediate family (spouses, children, step-children, siblings, step-siblings, parents, step-parents), and persons living in the same household, whether or not related, are not eligible to participate in any portion of this Challenge. Federal employees and contractors acting outside the scope of their employment should consult their ethics official and appropriate management before participating in the Challenge.</p>
+
+<p>Individuals and organizations that are funded by NSWC-CR, but not limited to, any Federally Funded Research and Development Centers and University Affiliated Research Centers (UARCs), or private-sector personnel whose scope of work includes NSWC-CR development or administrative support are not eligible to participate in the challenge.</p>
+
+<p><strong>Terms &amp; Conditions</strong></p>
+
+<p>These terms and conditions apply to all participants in the Challenge.</p>
+
+<p><strong>Agreement to Terms.</strong> By responding to this announcement, the participant agrees to comply with and be bound by the rules (including these terms and conditions) of this prize challenge and the decisions of the Government. The final scores and final determination of Winner is final and binding on all Participants.  The final scores of the Judging Panel and the final determination of Winner may not be challenged by the Participants.</p>
+
+<p><strong>Security Requirements.</strong> By responding to this announcement, the participant agrees to comply with the DoDM 5200.01 (all volumes) and any revisions to this manual.</p>
+
+<p><strong>Participation by Government Support Contractors.</strong> Government support contractors will assist in the review of any data provided by participants. A non-disclosure agreement (NDA) has been signed by the support contractors with the Government that precludes them from disclosing any proprietary data outside of the Government. If participants desire a separate NDA with the Government support contractors, participants should submit a NDA form, along with instructions, with their initial qualification application.</p>
+
+<p><strong>Follow-On Acquisition.</strong> At the Government’s discretion, the Government may choose to award a FAR-base procurement contract, Other Transaction Authority (OTA) award (under 10 U.S.C 2371 or 2371b), a procurement contract for experimental purposes (10 U.S.C. 2373) or a combination of awards under those authorities to any chosen participant in this prize challenge. If the Government chooses to award an OTA award under 10 USC 2371b, the Government may also decide to award a follow-on production OTA award using the same authority.</p>
+
+<p><strong>Malware.</strong> Each participant warrants that any submission is virus free and free of malware.</p>
+
+<p><strong>Data Rights and Marking.</strong> All data submitted under the Prize Challenge will be made available to NSWC-CR and parties authorized to act on behalf of the NSWC-CR as discussed below. By accepting these Terms and Conditions, the Participant consents to the use of data submitted to NSWC-CR. Any materials submitted to NSWC-CR as part of a prize challenge submission become NSWC-CR records and will not be returned.</p>
+
+<p>The use of protective markings such as “Do Not Publicly Release – Trade Secret” or “Do Not Publicly Release – Confidential Proprietary Business Information” in the Header or Footer of the Submission is strongly encouraged where appropriate.  However, Participants should be aware that the use of protective markings is not dispositive as to whether information will be released publicly pursuant to a request for records under the Freedom of Information Act, (FOIA) 5 U.S.C. §552, et. seq., as amended by the OPEN Government Act of 2007, Pub. L. No. 110-175. Any information received from the Participant is considered to be a federal agency record, and as such, subject to public release under FOIA.  Decisions to disclose or withhold information received from a Participant are based on the applicability of one or more of the nine FOIA exemptions, not on the existence or nonexistence of protective markings.  All FOIA requests received by NSWC-CR are processed in accordance with 10 C.F.R. Part 1004.  Participants will be notified of any FOIA requests for their submissions in accordance with 29 C.F.R. § 70.26.  Participants may then have the opportunity to review materials and work with a NSWC-CR FOIA representative prior to the release of materials.</p>
+
+<p>By participating in this Challenge, each individual (whether participating singly or in a group) warrants and assures the Government that any data used for the purpose of submitting an entry for this Challenge, were obtained legally through authorized access to such data.</p>
+
+<p>Upon submission, the Participant hereby represents and warrants that:</p>
+
+<ol>
+  <li>it is the sole author and copyright owner of the submission; that the submission is an original work of the Participant and that the Participant has sufficient rights to use and to authorize others, including NSWC-CR, to use the submission, as specified throughout the Official Rules; that the submission does not infringe upon any copyright or upon any other third party rights of which the Participant is aware; and that there are no known or pending patents on or related to the technology proposed within the submissions or, if there are known or pending patents, that the patent holder grants to the Government a fully paid, nonexclusive, irrevocable, worldwide license to use, or have used on the Government’s behalf, reproduce, prepare derivative works, distribute copies to the public, and perform and display publicly copyrightable works of the patented material. Except as provided above, any submission shall be accompanied by a statement delineating which intellectual property rights and licenses will not be extended to the government for this challenge.</li>
+  <li>the submission, and any use thereof by NSWC-CR is not defamatory or libelous in any manner; does not constitute or result in any misappropriation or other violation of the publicity rights or right of privacy of any person or entity, or infringe, misappropriate or otherwise violate any intellectual property rights, privacy rights or any other rights of any person or entity.</li>
+  <li>it is free to enter into this challenge without the consent of any third party and has the capability to fully perform its obligations as stipulated by the Prize rules.</li>
+  <li>there is no suit, proceeding, or any other claim pending or threatened against the Participant, nor does any circumstance exist, to its knowledge, which may be the basis of any such suit, proceeding, or other claim, that could limit or impair the Participant’s performance of its obligations pursuant to the Prize rules or Terms and Conditions.</li>
+  <li>it will not infringe, violate, or interfere with the intellectual property, publicity, privacy, contract or other right of any third party in the course of performance of this agreement or cause NSWC-CR to do any of the same.</li>
+</ol>
+
+<p>By participating in this Challenge, each individual (whether participating singly or in a group) warrants and assures the Government that there are no known or pending patents on or related to the technology proposed within the submissions or, if there are known or pending patents, that the patent holder provides the Government a description of the patented material and its use in the proposed Challenge solution.</p>
+
+<p><strong>Relationship of the Parties.</strong> Nothing contained in these Terms and Conditions is intended to create or constitute a relationship between NSWC-CR with the Participants.  Participation in the Prize Challenge does not imply any form of sanction, endorsement or support of the Participant by the NSWC-CR, nor does it grant either party any authority to act as agent, nor assume or create any obligation, on behalf of the other party.  Participant may not use the NSWC-CR logo or official seal in their submission.</p>
+
+<p><strong>Taxes.</strong> Tax treatment of prizes will be handled in accordance with U.S. Internal Revenue Service guidelines. The winners must provide a U.S. taxpayer identification number (e.g. a social security number) to receive the cash prize.</p>
+
+<p><strong>Payment.</strong> Winner(s) agree to accept payment via electronic funds transfer. Participants selected as monetary prize winners must submit all required taxpayer identification and bank account information required to complete an electronic payment of the monetary prize. Failure to provide the Government required documents for electronic payment within 30 days of notification by the Government may result in a disqualification of the winning entry. Each Winner, will be required to sign and return to NSWC-CR, within 30 days of the date the notice is sent, a completed Standard Form 3881 (Automated Clearing House – Miscellaneous Payment Enrollment) showing bank routing number for payment purpose and a completed IRS Form W-9 (https://www.irs.gov/pub/irspdf/fw9.pdf).  At the sole discretion of NSWC-CR, a winning participant will be disqualified from the challenge and receive no prize funds if:</p>
+
+<ol>
+  <li>the person/entity cannot be contacted</li>
+  <li>the person/entity fails to sign and return the required documentation within the required time period;</li>
+  <li>the notification is returned as undeliverable;</li>
+  <li>the submission or person/entity is disqualified for any other reason.</li>
+</ol>
+
+<p><strong>Government Right to Cancel, Suspend or Modify Challenge.</strong> The Government reserves the right, in its sole discretion, to cancel, suspend or modify the Challenge. These rules may be changed without prior notice, and all participants should monitor https://challenge.gov for the latest information. The Government further reserves the right to select no winners and award no prize money if the Government determines, in its sole discretion, that an award is not in the best interest of the Government.</p>
+
+<p><strong>Responsibility for Costs Incurred.</strong> Nothing in these rules, to include information on the websites publicizing the award, may be interpreted as authorizing the incurrence of any costs, or modifying the statement of work or authorizing work outside the terms and conditions of any existing agreements or contracts with the Government. 
+Participation in this prize challenge is at participant expense. The Government will not be responsible for any costs incurred by the participant, to include submission costs, travel costs, technology demonstration or development costs or any associated costs.</p>
+
+<p><strong>Release of Claims.</strong> The participant agrees to release and forever discharge any and all manner of claims, equitable adjustments, actions, suits, debts, appeals, and all other obligations of any kind, whether past or present, known or unknown, that have or may arise from, are related to or are in connection with, directly or indirectly, this prize challenge or the participant’s submission.</p>
+
+<p><strong>Liability.</strong> By participating in this challenge, the participant agrees to assume, and thereby has assumed, any and all risks of injury or loss in connection with, or in any way arising from participation in this challenge, or development of any submission. Based on the subject matter of the prize challenge, the type of work that it will require, as well as the unlikeliness of claims for death, bodily injury, property damage, or loss potentially arising from or related to participation in the prize challenge, no individual or entity participating in the prize challenge is required to obtain liability insurance.</p>
+
+<p><strong>Indemnification.</strong> The participant agrees to indemnify the Government and its affiliates, directors, officers, employees against all liabilities, damages, losses, costs, fees (including legal fees), and expenses relating to any allegation or third-party legal proceeding arising from:</p>
+
+<ol>
+  <li>the participant’s acts or omissions in relation to the Challenge (including the participant’s use or acceptance of any prize and the participant’s breach of these Terms); and</li>
+  <li>the participant’s submissions violating any rights of any other person or entity or any obligation the participant may have with them.</li>
+</ol>
+
+<p><strong>Compliance with Laws.</strong> The participant agrees to follow and comply with all applicable federal, state and local laws, regulations and policies.</p>
+
+<p><strong>Disclaimers.</strong> All content provided by the government is provided on an “as is” and “as available” basis. The government disclaims all representations and warranties (express or implied), including any warranties of merchantability and fitness for a particular purpose. The government is not responsible for any incomplete, failed, or delayed transmission of your application information or submissions due to the internet, including interruption or delays caused by equipment or software malfunction or other technical problems.</p>
+
+<p>Reference herein to any specific commercial products, process, or service by trade name, trademark, manufacturer, or otherwise, does not constitute or imply its endorsement, recommendation, or favoring by the united states government.</p>
+
+<p><strong>Severability.</strong> If any term (or part of a term) of these terms or rules is invalid, illegal or unenforceable, the rest of the terms or rules will remain in effect.</p>
+
+<p><strong>Translations.</strong> In the event of any discrepancy between the English version of these terms and rules and a translated version, the English version will govern.</p>
+
+<p><strong>Governing Law.</strong> This prize challenge is subject to all applicable federal laws and regulations. ALL CLAIMS ARISING OUT OF OR RELATING TO THESE TERMS WILL BE GOVERNED BY THE FEDERAL LAWS AND REGULATIONS OF THE UNITED STATES OF AMERICA.</p>
+
+<p><strong>Availability of Funds.</strong> The Government’s obligation for prizes under 10USC2374a is subject to availability of appropriated funds from which payment for prize purposes can be made. No legal liability on the part of the Government for any payment of prizes may arise unless appropriated funds are available to the United States Navy for such purposes.</p>
+
+<h3 id="judging-criteria">Judging Criteria</h3>
+
+<p><strong>Judging Panel</strong></p>
+
+<p>The Technology Presentation and Technology Demonstration Results will be presented to NSWC-CR.</p>
+
+<p><strong>Judging Criteria</strong></p>
+
+<p>The Phase I Judging Criteria will evaluate the technical approach as it demonstrates appropriate, realistic, innovative, and cost-effective solution to resolve the problem statement.</p>
+
+<p>If multiple technologies of similar type or category are submitted, the review panel may choose the most advantageous solution(s) within each type or category to continue competing in the prize challenge. The Government selection will be based on a comparative evaluation of participants proposed solution. The Prize Selection Decision will be a subjective evaluation of all entries for each phase at completion of this challenge.</p>
+
+<p>The Phase II Judging Criteria will evaluate:</p>
+
+<p>Scenario 1</p>
+
+<ul>
+  <li>
+    <p>Maneuver: Time to Complete</p>
+
+    <ul>
+      <li>Time starts on drone entry, ends when drone lands or is otherwise collected after passing through the back door.</li>
+    </ul>
+  </li>
+  <li>
+    <p>Recon: Object Detection</p>
+
+    <ul>
+      <li>Drone will tally and report the number of defined objects of interest which were observed.</li>
+    </ul>
+  </li>
+  <li>
+    <p>Collisions will be tracked in the simulation environment; they will be used as a score tiebreaker</p>
+  </li>
+</ul>
+
+<p>Scenario 2</p>
+
+<ul>
+  <li>
+    <p>Maneuver: Complete mapping and exit building</p>
+
+    <ul>
+      <li>Run ends when drone lands or is otherwise collected after passing through the back door.</li>
+    </ul>
+  </li>
+  <li>
+    <p>Mapping: Produce map of internal space</p>
+
+    <ul>
+      <li>Produce a 3D model of the internal environment. Assessment of the quality/legibility of the map as a floorplan.</li>
+    </ul>
+  </li>
+  <li>
+    <p>Recon: Detect the humans</p>
+
+    <ul>
+      <li>Drone reports total number of humans within the search area.</li>
+    </ul>
+  </li>
+  <li>
+    <p>Recon: Place objects on map</p>
+
+    <ul>
+      <li>A score will be recorded if the objects which were detected (objects and humans) are located correctly and labeled on the provided map (within the correct quadrant of the correct room).</li>
+    </ul>
+  </li>
+  <li>
+    <p>Mapping: Area Coverage</p>
+
+    <ul>
+      <li>Number of rooms identifiable on produced map.</li>
+    </ul>
+  </li>
+  <li>
+    <p>Recon: Detect the defined objects</p>
+
+    <ul>
+      <li>The drone will report the number of objects it detected.</li>
+    </ul>
+  </li>
+  <li>
+    <p>Recon: Detect the humans; Identify combatant/non-combatant</p>
+
+    <ul>
+      <li>Drone identifies humans as either combatant or civilian. Combatants will be holding a broom, versus Civilians, which will not.</li>
+    </ul>
+  </li>
+  <li>
+    <p><em>Collisions will be tracked in the simulation environment; they will be used as a score tiebreaker</em></p>
+  </li>
+</ul>
+
+<p>The subcategories within each scenario above are listed in priority order. However, some subcategories have the same weightings for score. Also, the difference in weighting between some sets of subcategories may not be linear (e.g. Priority 1 may be weighted 37% and Priority 2 may be weighted 27% while Priority 3 may be weighted 11% and Priority 4 may be weighted 9%).</p>
+
+<p>If multiple technologies of similar type or category are submitted, the review panel may choose the most advantageous solution(s) within each type or category to continue competing in the prize challenge. The Government selections will be based on a comparative evaluation of participants’ proposed solutions. The Prize Selection Decision will be a subjective evaluation of all entries for each phase of this challenge.</p>
+
+<p>The Phase III Judging Criteria will evaluate, time and successful navigation of the building, mapping, specific object detection and classification, and the time to report results after scenario completion, in the live environment at MUTC. The Government selection will be based on a comparative evaluation of participants proposed solution. The Prize Selection Decision will be a subjective evaluation of all entries for each phase at completion of this challenge.</p>
+
+<h3 id="how-to-enter">How to Enter</h3>
+
+<p><strong>Phase I</strong></p>
+
+<p>Entries for Phase I must be <strong>submitted via email to Marissa Wagler at <a href="mailto:marissa.wagler@navy.mil">marissa.wagler@navy.mil</a></strong> on 29 January 2021 no later than 02:00 PM ET. Submissions received after the deadline may not be considered.</p>
+
+<p>Submissions shall reference both the challenge name and participant name in the subject line in the following format: <strong>NSWC_Crane_AISUM_Prize_Challenge_Participant_Name Phase I Submission</strong></p>
+
+<p><em>Initial Submission of White Paper Concept</em></p>
+
+<p>Initial submission of the White Paper Concept shall not exceed five pages and required to be in the following format.</p>
+
+<ul>
+  <li>Text size shall be no smaller than what is equivalent to Microsoft Word, Times New Roman, 10 point, uncompressed font.</li>
+  <li>Pages shall be single sided, one and one half line spaced, with a minimum of one inch margins on all sides. Pages shall be dated and numbered sequentially.</li>
+  <li>Legible tables, charts, graphs and figures shall be used when necessary to depict organizations, data, drawings, systems and layout, implementation schedules, plans, etc. For tables, charts, graphs, and figures, the text shall be no smaller than 8 point, Times New Roman. These items WILL be included in the page count.</li>
+  <li>Electronic files shall be formatted for Microsoft Windows Office 2010: text shall be prepared using Microsoft Word compatible formats; spreadsheets, worksheets, or workbooks shall be prepared using Microsoft Excel 2010 compatible formats, and presentations prepared using PowerPoint compatible formats. All schedules shall be prepared in Microsoft Project 2010 compatible applications.</li>
+  <li>A glossary shall be included of all abbreviations and acronyms used with an explanation for each that will NOT be included in the page count.</li>
+  <li>
+    <p>A cover sheet should be include with the following information:</p>
+
+    <ul>
+      <li>Challenge Title</li>
+      <li>Name(s) of company(ies) and POC individual(s)</li>
+      <li>Address(es)</li>
+      <li>If a company, CAGE or DUNS Code</li>
+      <li>Point of Contact Telephone and Email address</li>
+      <li>State if the participant a U.S. Company (an entity incorporated in and maintaining a primary place of business in the United States) or a U.S. citizen?</li>
+      <li>If applicable, provide verification that the individual currently maintains a DoD security clearance or the company has a Facilities Clearance (per DoD 5220.22-M, 28 Feb 2006)</li>
+      <li>A description of the participant’s previous experience and expertise with AISUM</li>
+      <li>A description of the participant’s experience in collaborating with other companies to design, manufacture, and field relevant products.</li>
+    </ul>
+  </li>
+</ul>
+
+<p>The cover sheet will NOT be included in the page count for each volume.</p>
+
+<p>Participants are required to complete a Statement of Acknowledgement from providing confirmation of compliance to all eligibility requirements listed herein with submission of the White Paper Concept.</p>
+
+<p>The Statement of Acknowledgement was uploaded to special notice N0016421SNB14 via Amendment 0003 on <a href="https://beta.sam.gov/">https://beta.sam.gov</a>. A direct link to this posting can be found <a href="https://beta.sam.gov/opp/eee3ff94590e4bdf963823bff8752f91/view">here</a>.</p>
+
+<p><strong>Phase II Submission of White Paper</strong></p>
+
+<p>Entries for Phase II shall be submitted to the Challenge Manager, Derek Perry, via email to <a href="mailto:derek.s.perry@navy.mil">derek.s.perry@navy.mil</a> on 19 July 2021 no later than 08:00 AM ET. Submissions received after the deadline may not be considered.</p>
+
+<p>Submissions shall reference both the challenge name and participant name in the email’s subject line in the following format: <strong>NSWC_Crane_AISUM_Prize_Challenge_Participant_Phase II_White Paper</strong></p>
+
+<p>Phase II White Paper submissions shall not exceed three pages and is required to be in the following format:</p>
+
+<ul>
+  <li>Text size shall be no smaller than what is equivalent to Microsoft Word, Times New Roman, 10 point, uncompressed font.</li>
+  <li>Pages shall be single sided, one and one half line spaced, with a minimum of one inch margins on all sides. Pages shall be dated and numbered sequentially.</li>
+  <li>Legible tables, charts, graphs and figures shall be used when necessary to depict organizations, data, drawings, systems and layout, implementation schedules, plans, etc. For tables, charts, graphs, and figures, the text shall be no smaller than 8 point, Times New Roman. These items WILL be included in the page count.</li>
+  <li>Electronic files shall be formatted for Microsoft Windows Office 2010: text shall be prepared using Microsoft Word compatible formats; spreadsheets, worksheets, or workbooks shall be prepared using Microsoft Excel 2010 compatible formats, and presentations prepared using PowerPoint compatible formats. All schedules shall be prepared in Microsoft Project 2010 compatible applications.</li>
+  <li>A glossary shall be included of all abbreviations and acronyms used with an explanation for each that will NOT be included in the page count.</li>
+</ul>
+:ET

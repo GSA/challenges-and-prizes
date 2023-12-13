@@ -1,0 +1,225 @@
+I"@<h3 id="description">Description</h3>
+
+<p>See the Prizes Section (Total Cash Prize Pool and Prize Breakdown) below for the total prize purse increase and further detailed prize breakdown information. See the Judging Section (Judging Criteria) below for further detailed judging criteria for Phase II II and Phase III.</p>
+
+<p>The following six (6) participants were selected to participate in Phase III – Live Event at Muscatatuck for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant names are listed in the order of highest to lowest scoring for each scenario at the conclusion of Phase II:</p>
+
+<p>Scenario 1:</p>
+
+<ol>
+  <li>Draper</li>
+  <li>EpiSys Science, Inc.</li>
+  <li>Raytheon BBN Technologies</li>
+  <li>Heron Systems Inc.</li>
+  <li>Codex Laboratories</li>
+  <li>TurbineOne, LLC</li>
+</ol>
+
+<p>Scenario 2:</p>
+
+<ol>
+  <li>EpiSys Science, Inc.</li>
+  <li>Heron Systems, Inc.</li>
+  <li>Raytheon BBN Technologies</li>
+  <li>Codex Laboratories</li>
+  <li>Draper</li>
+  <li>TurbineOne, LLC</li>
+</ol>
+
+<p>The following seven (7) participants were selected to participate in Phase II – Virtual Vignettes for the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge. The participant names are listed below in alphabetical order:</p>
+
+<ol>
+  <li>Codex Laboratories LLC</li>
+  <li>Draper</li>
+  <li>EpiSys Science, Inc.</li>
+  <li>Heron Systems Inc.</li>
+  <li>Indiana University-Bloomington</li>
+  <li>Raytheon BBN Technologies</li>
+  <li>TurbineOne, LLC</li>
+</ol>
+
+<p>Earlier, twenty (20) participants were invited to present their Phase I White Paper concepts to the Artificial Intelligence for Small Unit Maneuver (AISUM) Prize Challenge judging panel. Invited participant names are listed below in alphabetical order:</p>
+
+<ol>
+  <li>AMTech One</li>
+  <li>ASEC, Inc.</li>
+  <li>Blue Wave AI Labs, LLC</li>
+  <li>Codex Laboratories LLC</li>
+  <li>Draper</li>
+  <li>EpiSys Science, Inc.</li>
+  <li>Exyn Technologies</li>
+  <li>Heron Systems Inc.</li>
+  <li>Indiana University-Bloomington</li>
+  <li>InfoDao LLC</li>
+  <li>IUPUI</li>
+  <li>Physical Optics Corporation/Mercury</li>
+  <li>Raytheon BBN Technologies</li>
+  <li>RIT/NUAIR, Inc.</li>
+  <li>Shield AI, Inc.</li>
+  <li>Skyline Nav AI Inc.</li>
+  <li>Sonalysts, Inc.</li>
+  <li>SSCI, Inc.</li>
+  <li>Trueface</li>
+  <li>TurbineOne, LLC</li>
+</ol>
+
+<p>Artificial Intelligence for Small Unit Maneuver (AISUM) combines Naval Expeditionary Warfare and Special Operations Forces (SOF) tactical maneuver elements with Robotic Autonomous Systems (RAS) to create a low risk human machine maneuver element that gains, maintains and extends access in complex, contested and congested areas, providing a decisive advantage and precision application of effects.</p>
+
+<p>Over the past 20 years the SOF community perfected the combination of its tactical maneuver elements and small arms precision fire with overhead unmanned and remotely piloted airborne Intelligence, Surveillance, and Reconnaissance (ISR) in its aerial delivered strike to precisely find, fix and finish networked threats. However, these non-state actors mostly operated in a two-dimensional battlespace that was mainly rural and urban sprawl, with little to no access to Electronic Warfare (EW) tools.</p>
+
+<p>Though the Special Operations community have become masters of the 2-dimensional threat environment over the past two decades, with today’s emerging threat environments, adversaries attempt to contest all domains with advanced technologies and take advantage of the complex and congested 3-dimensional battlespace. This reduces the effectiveness of SOF tactical maneuver elements, ISR and precision fires, creating the inability to maintain continuous airborne ISR feeds and key communications and navigation bands in the electromagnetic spectrum in these dense urban clutter environments, leaving our tactical maneuver elements challenged.</p>
+
+<p>For example, in a mission to infiltrate and obtain information or an asset from a sub terrain tunnel system in a contested and congested threat environment, AISUM could be used to gain intelligence and minimize human risk.  Conceptually, satellite imagery would provide the initial data used to generate a 3-dimensional terrain map of an area of operations, allowing mission planners, operators and drones to plan, train and rehearse within the simulated environment. These activities allow the team to develop and optimize specific tactics, techniques and procedures.</p>
+
+<p><strong>General Overview</strong></p>
+
+<p>This Prize Challenge reaches out to the defense, academic and industrial community to enhance research and development in the field of artificial intelligence for small unit maneuver. The objective of the Prize Challenge is for the development of an algorithm to enhance the maneuver and reconnaissance capabilities of autonomous drones within defined scenarios. The objective includes the utilization of the Government Furnished Property (GFP) drones, sensors, and onboard processing.</p>
+
+<p>Example Scenario 1:</p>
+
+<ol>
+  <li>Maneuver: Begin mission at entrance to building. Navigate through the building using open passages and any route to exit through open rear door.</li>
+  <li>Recon: Identify and count the number of key predefined objects, and simple properties (i.e. color) within the internal space (TBD: humans, object of interest)</li>
+</ol>
+
+<p>Example Scenario 2:</p>
+
+<ol>
+  <li>Maneuver: Begin mission at entrance to building. Navigate through the building, around limited obstacles in order to maximize coverage, and then exit through open rear door.</li>
+  <li>Mapping: Collect data of internal space to produce, post-hoc, a 3D model of the internal environment.</li>
+  <li>Recon: Identify the number and location of key predefined objects within the internal space (TBD: humans, object of interest).</li>
+  <li>Recon: Identify numbers of civilians vs combatants (threat / no-threat) within internal space. (TBD: identifying characteristics)</li>
+</ol>
+
+<p>The AISUM Prize Challenge is broken into three phases; technical white paper submission, virtual simulation environment, and live scenario at a military training site.</p>
+
+<p>Phase I will be conducted in two phases: Initial submission of White Paper Concept followed by an invitation to provide Virtual Presentation of the White Paper Concept. The White Paper Concept shall describe the details of the technical approach in response to the problem statement.</p>
+
+<p>White Paper Concept should be developed around the following conditions:</p>
+
+<ul>
+  <li>GFP will consist of stretch X drone, onboard processing, frontal camera, and optical avoidance sensors</li>
+  <li>Operation in a Non-GPS environment and an autonomous flight mode</li>
+  <li>Additional hardware payload proposals may be considered</li>
+</ul>
+
+<p>The Government will select up to 25 White Papers Concept(s) for invitation for a Virtual Presentation of their proposed concept to a panel of judges.  The Virtual Presentation shall provide a summary of the White Paper Concept and include detail on how participants intend to accomplish the Prize Challenge objective. Up to 10 winners will be selected to participate in Phase II.</p>
+
+<p>Phase II participants shall develop specific algorithms that will be used to compete in virtual scenarios. The participants will be evaluated for their algorithms to be used within a Government provided virtual map. Participants shall provide the following items to the Government:</p>
+
+<ul>
+  <li>Unreal level log file (Log file shall provide drone positions during the maneuver and identify drone objects detected.). This is located in: LinuxNoEditor/AISUM/Binaries/Linux/Gamelog.txt  OR  WindowsNoEditor/AISUM/Binaries/Win64/Gamelog.txt</li>
+  <li>A participant developed log file in accordance with the provided Government template—contains detections of the Objects of Interest, classification/identifications, etc. The log file shall provide drone positions during the maneuver, identify collisions, and the specific time the drone detects Objects of Interest and Humans (to include identification of combatants or non-combatants).</li>
+  <li>A 3D environment map of any format, preferably viewable in Blender (https://www.blender.org). (If it cannot be opened in Blender, include the name of the preferred viewing software.)</li>
+  <li>A 2D floorplan of the mapped space, which includes icons/text for the location of Objects of Interest and Humans.</li>
+  <li>A video screenshot of the run which includes either video from the drone, or a god’s eye perspective video of the run. The video screenshot shall include text, in real-time, is being written to the performer log file. For example, the text may include “printing drone position of x to log file” or “detected chair at x time”. Also, a .txt file containing the total number of uniquely identified objects of interest (e.g. “we identified 16 unique chairs”) must be provided when participant log files are sent to the Government.</li>
+</ul>
+
+<p>Participants shall provide a Phase II White Paper response to the following questions:</p>
+
+<ul>
+  <li>Summary of the participant’s technical approach to include a description of the methods used, algorithms, novelty aspects, etc.</li>
+  <li>Description of the aspects of the participant’s solution that went as expected and what performed well during the participant’s recorded run.</li>
+  <li>Description of the aspects of the participant’s solution that went worse than expected or did not perform as well.</li>
+  <li>Provide rationale for any inconsistency between the provided unreal level log file and participant developed log file.</li>
+  <li>If selected for Phase III, how do you expect performance issues in Phase II will affect performance in the Phase III, real life scenario? Specifically, what are your plans to address and overcome these challenges?</li>
+</ul>
+
+<p>The purpose of the Phase II White Paper response is to provide narrative to support participants’ solutions and delivered log files of the Virtual Presentation. See additional Phase II White Paper Submission instructions in the below “How to Enter” section.</p>
+
+<p>GFP Includes:</p>
+
+<ul>
+  <li>Microsoft Research AIRSIM environment for autonomous system using UE Unreal Engine Version 4</li>
+  <li>Map will be an open environment containing a multi-story, multiple room building</li>
+</ul>
+
+<p>Up to 10 winners will be selected to participate in Phase III.</p>
+
+<p>Phase III participants will utilize their developed algorithms with the provided drone and compete in a real life scenario within a hospital building at Muscatatuck Urban Training Center (MUTC). During the real life scenario, the participants shall launch the drone from the Government defined entryway into a limited accessible area within the first floor of the building that may differ from the available virtual representation. The drone shall autonomously enter the building and collect the following information:</p>
+
+<ul>
+  <li>Search and build a 2D floorplan of the accessible interior space.</li>
+  <li>Detect and count the number of humans within the accessible space.</li>
+  <li>Classify the humans within the accessible space as threats (holding brooms), or as civilians (empty hands).</li>
+  <li>Detect and count the number of Objects of Interest which may represent a threat to the team.  The exact definition of the Object of Interest will be provided just prior to mission execution.</li>
+  <li>Place the detected humans (threat/no-threat) and Objects of Interest in the correct locations on the 2D floorplan.</li>
+  <li>Produce the 2D floorplan and object detection data in a usable format within 10 minutes of the UAS exiting the building.</li>
+</ul>
+
+<p>Each participant shall provide the following items to the Government at the conclusion of each participant’s Phase III scenario run:</p>
+
+<ul>
+  <li>A participant developed log file in accordance with the provided Government template—contains detections of the Objects of Interest, classification/identifications, etc. The log file shall provide drone positions during the maneuver, identify collisions, and the specific time the drone detects Objects of Interest and Humans (to include identification of combatants or non-combatants). The log file shall contain clear information on the total number of humans detected, the total number of Objects of Interest, and the total number of Combatants and Civilians identified.</li>
+  <li>A 2D floorplan of the mapped space, which includes icons/text for the location of Objects of Interest and Humans.</li>
+  <li>The UAS will be launched from the defined entryway.</li>
+  <li>The UAS is limited to an accessible area within the first floor of the building, which may be less than the available virtual representation.</li>
+  <li>
+    <p>The UAS will enter the building autonomously and assist operators by collecting the following information:</p>
+
+    <ul>
+      <li>Search and build a 2D floorplan of the accessible interior space.</li>
+      <li>Detect and count the number of humans within the accessible space.</li>
+      <li>Classify the humans within the accessible space as threats (holding brooms), or as civilians (empty hands).</li>
+      <li>Detect and count the number of Objects of Interest which may represent a threat to the team.  The exact definition of the Object of Interest will be provided just prior to mission execution.</li>
+      <li>Place the detected humans (threat/no-threat) and Objects of Interest in the correct locations on the 2D floorplan.</li>
+      <li>Produce the 2D floorplan and object detection data in a usable format within 10 minutes of the UAS exiting the building.</li>
+    </ul>
+  </li>
+  <li>GFP will consist of stretch X drone, onboard processing, frontal camera, and optical avoidance sensors</li>
+  <li>Operation in a Non-GPS environment and an autonomous flight mode</li>
+</ul>
+
+<p>All winner(s) will be determined at the end of this phase.</p>
+
+<p><strong>Key Dates</strong></p>
+
+<p>The government estimates the following timeline for the completion of the prize challenge.</p>
+
+<p><strong><em>Phase I</em></strong></p>
+
+<ul>
+  <li>
+    <p>Technical White Paper Submission open 50 calendar days</p>
+
+    <ul>
+      <li>Opens Dec. 10, 2020</li>
+      <li>Closes Jan. 29, 2021</li>
+      <li>
+        <p>NSWC Crane Project Talks: Dec. 17, 2020 (A virtual panel was available to answer questions related to the challenge.gov posting and the Prize Challenge from 1300-1500 ET)</p>
+
+        <ul>
+          <li>NSWC Crane Project Talks Presentation can be found <a href="https://434cll131hi945boxu2a7cmf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/AISUM-Project-Talks-Presentation-FINAL.pdf">here</a></li>
+          <li>The recording of this event can be found <a href="https://www.youtube.com/watch?v=s-5tnYk74o4">here</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Evaluation period 10-14 calendar days</li>
+  <li>Virtual presentation 14 calendar days</li>
+  <li>Complete internal documentation/obtain approval after final evaluation: 7-10 days</li>
+</ul>
+
+<p><strong><em>Phase II</em></strong></p>
+
+<ul>
+  <li>Virtual Invitational Test Day on Tuesday, June 15th</li>
+  <li>Official Virtual Run for Record on Tuesday, July 13th</li>
+  <li>Phase II White Paper submission closes at 0800ET, Monday, July 19th</li>
+  <li>Begin internal review of results on Monday, July 19th</li>
+  <li>Complete internal documentation/obtain approval after final evaluation: 7-12 days</li>
+  <li>Phase II set to end by July 31st with winners and advancing participants announced</li>
+</ul>
+
+<p><strong><em>Phase III</em></strong></p>
+
+<ul>
+  <li>Live event at Muscatatuck Urban Training Center (MUTC) on Monday, October 18th – Friday, October 22nd</li>
+  <li>Complete internal documentation/obtain approval after final evaluation</li>
+  <li>Phase III set to end by November 5th with winners announced</li>
+</ul>
+
+<p><strong>Questions &amp; Answers</strong></p>
+
+<p>Official responses to questions that have been received will be uploaded to beta.SAM.gov via Special Notice N0016420SNB14. View this beta.SAM posting <a href="https://beta.sam.gov/opp/779a1cb55ace43ccb18f7bb11d0c8a7b/view?keywords=n0016421SNB14&amp;sort=-relevance&amp;index=opp&amp;is_active=true&amp;page=1">here</a>.</p>
+:ET

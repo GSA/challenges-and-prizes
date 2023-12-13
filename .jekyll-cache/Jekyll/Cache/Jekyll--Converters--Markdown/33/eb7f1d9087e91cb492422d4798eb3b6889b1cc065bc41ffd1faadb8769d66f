@@ -1,0 +1,22 @@
+I"<p><strong>Phase I Scoring Criteria</strong></p>
+<p>All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and 5 being the highest score on each dimension. Scores are weighted by the proportion of each dimension and then aggregated to create a final score.</p>
+<ol> <li>Efficacy of Prototype (20%):&nbsp; Where 1 = Prototype is likely to not work in a way that is statistically appropriate; 5 = Prototype is likely to successfully collect, and harmonize data, in a statistically robust manner, across multiple data sources to address common metrics.</li> <li>Promise of Comparability to BRFSS Findings (20%):&nbsp; Where 1 = Prototype does not consider stratification parameters, or applies to only a narrow population; 5 = prototype holds promise for capturing data that is valid, reliable, and representative of a large population.</li> <li>Acceptability (15%):&nbsp; Where 1 = All parties expressed concerns with data being used in terms of respondent privacy, feasibility and utility; 5 = all parties involved are comfortable with data being used in terms of respondent privacy, feasibility and utility. NOTE:&nbsp; This means that federal and state restrictions on data collection and assurance of confidentiality are being respected (mandatory criteria; if not scored 5, prototype may be disqualified)</li> <li>Innovation (15%):&nbsp; Where 1 = Prototype duplicates existing approach; 5 = prototype presents a novel approach.</li> <li>Feasibility of Prototype (15%):&nbsp; Where 1 = Prototype is not feasible due to factors like cost, availability of data, etc.; 5 = Prototype is feasible and addresses potential implementation challenges by offering solutions</li> <li>Generalizability (10%):&nbsp; Where 1 = Prototype is not generalizable to a range of data sources; 5 = prototype is generalizable to a range of data sources.</li> <li>Breadth of Data Collected (Scope) (5%):&nbsp; Where 1 = Prototype does not address required metrics, across the identified content area(s); 5 = Prototype includes required metrics.</li> </ol>
+<p><strong>Phase II Scoring Criteria</strong></p>
+<p>All Criteria are scaled 1-5, with 1 being the lowest score on each dimension and 5 being the highest score on each dimension. Scores are weighted by the proportion of each dimension and then aggregated to create a final score. Judging criteria for Phase II include:</p>
+<ul> <li>Data quality (20%)</li> </ul>
+<p>1= Prototype does not provide data that are likely to be valid or reliable or representative of a population; 5 = prototype provides data that demonstrate validity, reliability, and representativeness.</p>
+<ul> <li>Ability to complement BRFSS Findings (20%)</li> </ul>
+<p>1= Prototype does not outline steps to complement BRFSS efforts; 5 = prototype is provides data which can complement and/or supplement measures collected by the BRFSS or other publically available traditional surveillance systems.</p>
+<ul> <li>Validation of or Enhancement of existing national public health surveillance data (20%)</li> </ul>
+<p>1 = Prototype cannot be statistically aligned with currently available health data; 5 = prototype statistically aligns with available data across population sub-groups</p>
+<ul> <li>Flexibility (10%)</li> </ul>
+<p>1= Prototype does not demonstrate the ability to include additional types of data and data sources; 5= prototype demonstrates flexibility in the ability to add different data types and data from additional sources.</p>
+<ul> <li>Simplicity (structure and ease of operation) (10%)</li> </ul>
+<p>1= Prototype&rsquo;s structure and operation is complex; 5 = Prototype&rsquo;s structure is clear and easy to implement; it is not burdensome on current systems.</p>
+<ul> <li>Resources for system operation (10%)</li> </ul>
+<p>1 = Prototype requires heavy resource burden in terms of cost, training, administration, infrastructure; 5 = prototype has low resource burden in terms of cost, training, administration, infrastructure</p>
+<ul> <li>Timeliness (5%)</li> </ul>
+<p>1 = There is a significant gap in time between data collection and analysis/ 5 = there is a real-time monitoring through the collected data</p>
+<ul> <li>Stratification by Demographics (5%)</li> </ul>
+<p>1 = Prototype is unable to stratify the data by key demographics; 5 = prototype is able to stratify the data by age, sex, education, and race/ethnicity.</p>
+:ET

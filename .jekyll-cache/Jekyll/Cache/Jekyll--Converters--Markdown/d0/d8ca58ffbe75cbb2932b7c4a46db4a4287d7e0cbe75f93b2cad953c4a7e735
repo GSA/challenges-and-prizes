@@ -1,0 +1,167 @@
+I"²+<div class="row">
+  <div class="col-sm-12"><h1 id="user-guide" style="font-weight: 900;">Challenge Manager User Guide</h1>
+
+<p>This guide provides step-by-step instructions for challenge manager use of Challenge.Gov. Navigate through the right side menu to select an area to learn more.</p>
+</div>
+</div>
+<div class="row" style="padding-top: 10px; padding-bottom: 30px;">
+  <div class="col-sm-12" style="padding-top: 6px; background-color: #005ea2; color: #ffffff; text-align: center;">
+    <h2>Create Challenge</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm-7">
+    <p>Create a challenge tile that will appear on Challenge.Gov and link to your challenge details page. During setup you will have options for: challenge publication date &amp; time; single or multiple phase challenges; collection of submissions via Challenge.Gov or an external challenge site; default or custom challenge URL.</p>
+    <ol style="padding-left: 50px;">
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From the Challenge Manager Dashboard, click <b>Create a new challenge</b>.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Follow on-screen prompts and enter the challenge details starting with <b>General Info</b>. (See the Challenge Template for additional information regarding each of the data fields.) For long text fields there is a text editor that allows you to adjust the font size and format, create bulleted and numbered lists, indent text, and add hyperlinks.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">After completing a section, click <b>Next</b> on the bottom right of the page. A progress bar appears at the top of the page showing your progress. Click <b>Save</b> at any point to save your work and finish at a later time.</span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Once all sections have been completed, review your challenge details.
+        <ul>
+          <li> If edits are needed, click <b>Edit</b> to the right of the desired section which returns you to that area of the challenge builder. Once your edits have been made, return to step 3 above.</li>
+          <li>Click <b>Preview Challenge</b> in New Tab in the bottom right to view the challenge as it will appear on Challenge.Gov. The preview page will contain a link to share with other team members for internal agency review.</li>
+        </ul>
+        </span></li>
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Once agency approvals have been received, click <b>Submit for Approval</b> on the bottom right. The Challenge.Gov support team will review your challenge for general content clarity, visibility of graphics, and significant spelling and grammatical errors. Allow up to 2 business days for your request to be processed by the Challenge.Gov support team. After the review, the team will either <b>Approve</b> for posting or <b>Recommend Edits</b>.
+        <ul>
+          <li> If <b>Approved</b>, your challenge will automatically go live on the Publish Date entered when creating your challenge.</li>
+          <li>If <b>Edits Requested</b>, you will receive an email notification detailing the recommendations. (Refer to the Edit your challenge for instructions for updating your challenge content and resubmitting for review.)</li>
+        </ul>
+        </span></li>
+    </ol>
+  </div>
+  <div class="col-sm-1">&nbsp;</div>
+  <div class="col-sm-4"> <div class="tablet:grid-col-10 margin-bottom-4 tablet:margin-bottom-0">
+  <nav aria-label="Side navigation,,">
+    <ul class="usa-sidenav">
+      <li class="usa-sidenav__item">
+        <a href="/cm-user-guide/" title="Home" aria-label="user guide home" style="text-decoration: none !important;"> User Guide Home</a>
+      </li>
+      <li class="usa-sidenav__item">
+        <a href="javascript:void(0);" class="usa-current">&nbsp;&nbsp;Getting Started</a>
+        <ul class="usa-sidenav__sublist">
+          <li class="usa-sidenav__item">
+            <a href="/cm-user-guide/create-your-account/" title="Create your accounts" aria-label="Create your account" style="text-decoration: none !important;">&nbsp;&nbsp;Create your account</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="/cm-user-guide/logging-in/" style="text-decoration: none !important;">&nbsp;&nbsp;Logging in</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="/cm-user-guide/logging-out/" style="text-decoration: none !important;">&nbsp;&nbsp;Logging out</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="/cm-user-guide/recertify-your-account/" style="text-decoration: none !important;">&nbsp;&nbsp;Recertify your account</a>
+          </li>
+        </ul>
+      </li>
+       <li class="usa-sidenav__item">
+        <a href="javascript:void(0);" class="usa-current">&nbsp;&nbsp;Challenge Management</a>
+        <ul class="usa-sidenav__sublist">
+          <li class="usa-sidenav__item">
+            <a href="/cm-user-guide/create-challenge/" style="text-decoration: none !important;">&nbsp;&nbsp;Create challenge</a>
+          </li>
+           <li class="usa-sidenav__item">
+            <a href="/cm-user-guide/edit-draft-challenge/" style="text-decoration: none !important;">&nbsp;&nbsp;Edit draft challenge</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="/cm-user-guide/delete-draft-challenge/" style="text-decoration: none !important;">&nbsp;&nbsp;Delete draft challenge</a>
+          </li>
+         <li class="usa-sidenav__item">
+            <a href="/cm-user-guide/update-open-challenge/" style="text-decoration: none !important;">&nbsp;&nbsp;Update open challenge</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="/cm-user-guide/print-challenge-listing/" style="text-decoration: none !important;">&nbsp;&nbsp;Print challenge listing</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="/cm-user-guide/download-challenge-profile/" style="text-decoration: none !important;">&nbsp;&nbsp;Download challenge profile</a>
+          </li>
+           <li class="usa-sidenav__item">
+            <a href="/cm-user-guide/add-announcement/" style="text-decoration: none !important;">&nbsp;&nbsp;Add announcement</a>
+          </li>
+           <li class="usa-sidenav__item">
+            <a href="/cm-user-guide/edit-announcement/" style="text-decoration: none !important;">&nbsp;&nbsp;Edit announcement</a>
+          </li>
+           <li class="usa-sidenav__item">
+            <a href="/cm-user-guide/remove-announcement/" style="text-decoration: none !important;">&nbsp;&nbsp;Remove announcement</a>
+          </li>
+           <li class="usa-sidenav__item">
+            <a href="/cm-user-guide/add-winner-information/" style="text-decoration: none !important;">&nbsp;&nbsp;Add winner information</a>
+          </li>
+           <li class="usa-sidenav__item">
+            <a href="/cm-user-guide/add-challenge-managers/" style="text-decoration: none !important;">&nbsp;&nbsp;Add challenge managers</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="/cm-user-guide/grant-contractor-access/" style="text-decoration: none !important;">&nbsp;&nbsp;Grant contractor access</a>
+          </li>
+        </ul>
+      </li>
+       <li class="usa-sidenav__item">
+        <a href="javascript:void(0);" class="usa-current">&nbsp;&nbsp;Manage Submissions</a>
+        <ul class="usa-sidenav__sublist">
+          <li class="usa-sidenav__item">
+            <a href="/cm-user-guide/collect-submissions/" style="text-decoration: none !important;">&nbsp;&nbsp;Collect submissions</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="/cm-user-guide/view-submissions/" style="text-decoration: none !important;">&nbsp;&nbsp;View submissions</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="/cm-user-guide/download-submission-details/" style="text-decoration: none !important;">&nbsp;&nbsp;Download submission details</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="/cm-user-guide/progress-submissions/" style="text-decoration: none !important;">&nbsp;&nbsp;Progress submissions</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="/cm-user-guide/manage-finalist-invites/" style="text-decoration: none !important;">&nbsp;&nbsp;Manage finalist invites</a>
+          </li>
+        </ul>
+      </li>
+        <li class="usa-sidenav__item">
+        <a href="javascript:void(0);" class="usa-current">&nbsp;&nbsp;Manage Submissions Externally</a>
+        <ul class="usa-sidenav__sublist">
+          <li class="usa-sidenav__item">
+            <a href="/cm-user-guide/direct-solvers-to-external-website/" style="text-decoration: none !important;">&nbsp;&nbsp;Direct solvers to external website</a>
+          </li>
+        </ul>
+      </li>
+             <li class="usa-sidenav__item">
+        <a href="javascript:void(0);" class="usa-current">&nbsp;&nbsp;Message Center: Communicate with Participants</a>
+        <ul class="usa-sidenav__sublist">
+          <li class="usa-sidenav__item">
+            <a href="/cm-user-guide/send-message/" style="text-decoration: none !important;">&nbsp;&nbsp;Send message</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="/cm-user-guide/view-and-reply-to-messages/" style="text-decoration: none !important;">&nbsp;&nbsp;View and reply to messages</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="/cm-user-guide/more-features/" style="text-decoration: none !important;">&nbsp;&nbsp;More features</a>
+          </li>
+        </ul>
+      </li>
+      <li class="usa-sidenav__item">
+        <a href="javascript:void(0);" class="usa-current">&nbsp;&nbsp;Connect with Public Solvers</a>
+        <ul class="usa-sidenav__sublist">
+          <li class="usa-sidenav__item">
+            <a href="/cm-user-guide/send-bulletin-to-followers/" style="text-decoration: none !important;">&nbsp;&nbsp;Send bulletin to followers</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="/cm-user-guide/reply-to-a-question/" style="text-decoration: none !important;">&nbsp;&nbsp;Reply to a question</a>
+          </li>
+        </ul>
+      </li>
+         <li class="usa-sidenav__item">
+        <a href="javascript:void(0);" class="usa-current">&nbsp;&nbsp;Other</a>
+        <ul class="usa-sidenav__sublist">
+          <li class="usa-sidenav__item">
+            <a href="/cm-user-guide/view-analytics/" style="text-decoration: none !important;">&nbsp;&nbsp;View analytics</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="/cm-user-guide/additional-resources/" style="text-decoration: none !important;">&nbsp;&nbsp;Additional resources</a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </nav>
+</div>
+ </div>
+</div>
+:ET

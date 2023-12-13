@@ -1,0 +1,122 @@
+I"«<div class="row">
+  <div class="col-sm-12"><h1 id="user-guide" style="font-weight: 900;">User Guide</h1>
+
+<p>This guide provides step-by-step instructions for site visitor and public solver use of Challenge.Gov. Navigate through the right side menu to select an area to learn more.</p>
+</div>
+</div>
+<div class="row" style="padding-top: 10px; padding-bottom: 30px;">
+  <div class="col-sm-12" style="padding-top: 6px; background-color: #005ea2; color: #ffffff; text-align: center;">
+    <h2>Save Challenges</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm-7">
+    <p>Receive challenge updates and other challenge-related information from the challenge manager via email.  Save challenges to your Challenge.Gov account.<br /><br />
+
+      <b>NOTE:</b> Feature is not available for challenges that redirect to an external site.<br />
+  </p>
+    <ol style="padding-left: 50px;">
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">From challenge details page, click <b>Follow challenge</b> in the general information section of the page. </span></li>
+      <br />
+     <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Save Challenge</b>. If you are not currently <a href="/user-guide/log-into-solver-portal/" title="Logging in" aria-label="Loggin in">logged in</a>, you will be prompted to do so.</span></li><br />
+           <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Log into Challenge.Gov Solver Portal.</span></li><br />
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Accept and Sign-in</b> to acknowledge the terms of use. </span></li><br />
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Enter the email address and password associated with your account and click <b>Sign in</b>.</span></li><br />
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Authenticate your account using the security method selected when you created your account.</span></li><br />
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">Click <b>Finish</b>.</span></li>
+      <br />
+      <li style="font-weight:900;"><span style="font-size: 1.06rem; line-height: 1.5; font-weight: 400;">You will be directed into the Solver Portal where you then click <b>Finish</b> to confirm your saved challenge.</span></li>
+
+    </ol>
+  </div>
+  <div class="col-sm-1">&nbsp;</div>
+  <div class="col-sm-4"> <div class="tablet:grid-col-10 margin-bottom-4 tablet:margin-bottom-0">
+  <nav aria-label="Side navigation,,">
+    <ul class="usa-sidenav">
+      <li class="usa-sidenav__item">
+        <a href="/user-guide/" title="Home" aria-label="user guide home" style="text-decoration: none !important;"> User Guide Home</a>
+      </li>
+      <li class="usa-sidenav__item">
+        <a href="javascript:void(0);" class="usa-current">&nbsp;&nbsp;Explore Challenges</a>
+        <ul class="usa-sidenav__sublist">
+          <li class="usa-sidenav__item">
+            <a href="/user-guide/explore-active-challenges/" title="Explore active challenges" aria-label="explore active challenges" style="text-decoration: none !important;">&nbsp;&nbsp;Explore active challenges</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="/user-guide/view-archived-challenges/" style="text-decoration: none !important;">&nbsp;&nbsp;View archived challenges</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="/user-guide/search-for-challenges/" style="text-decoration: none !important;">&nbsp;&nbsp;Search for challenges</a>
+          </li>
+        </ul>
+      </li>
+       <li class="usa-sidenav__item">
+        <a href="javascript:void(0);" class="usa-current">&nbsp;&nbsp;Engage with a Challenge</a>
+        <ul class="usa-sidenav__sublist">
+          <li class="usa-sidenav__item">
+            <a href="/user-guide/follow-challenges/" style="text-decoration: none !important;">&nbsp;&nbsp;Follow challenges</a>
+          </li>
+           <li class="usa-sidenav__item">
+            <a href="/user-guide/save-challenges/" style="text-decoration: none !important;">&nbsp;&nbsp;Save challenges</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="/user-guide/share-challenges/" style="text-decoration: none !important;">&nbsp;&nbsp;Share challenges</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="/user-guide/print-challenges" style="text-decoration: none !important;">&nbsp;&nbsp;Print challenges</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="/user-guide/contact-challenge-management/" style="text-decoration: none !important;">&nbsp;&nbsp;Contact challenge management team</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="/user-guide/submit-to-a-challenge/" style="text-decoration: none !important;">&nbsp;&nbsp;Submit to a challenge</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="/user-guide/unfollow-challenges/" style="text-decoration: none !important;">&nbsp;&nbsp;Unfollow challenges</a>
+          </li>
+        </ul>
+      </li>
+       <li class="usa-sidenav__item">
+        <a href="javascript:void(0);" class="usa-current">&nbsp;&nbsp;Solver Portal</a>
+        <ul class="usa-sidenav__sublist">
+          <li class="usa-sidenav__item">
+            <a href="/user-guide/create-your-account/" style="text-decoration: none !important;">&nbsp;&nbsp;Create your Challenge.Gov account</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="/user-guide/log-into-solver-portal/" style="text-decoration: none !important;">&nbsp;&nbsp;Logging in</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="/user-guide/log-out-of-solver-portal/" style="text-decoration: none !important;">&nbsp;&nbsp;Logging out</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="/user-guide/remove-saved-challenges/" style="text-decoration: none !important;">&nbsp;&nbsp;Remove saved challenges</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="/user-guide/edit-challenge-submissions/" style="text-decoration: none !important;">&nbsp;&nbsp;Edit challenge submissions</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="/user-guide/delete-challenge-submissions/" style="text-decoration: none !important;">&nbsp;&nbsp;Delete challenge submissions</a>
+          </li>
+        </ul>
+      </li>
+        <li class="usa-sidenav__item">
+        <a href="javascript:void(0);" class="usa-current">&nbsp;&nbsp;Message Center</a>
+        <ul class="usa-sidenav__sublist">
+          <li class="usa-sidenav__item">
+            <a href="/user-guide/view-messages/" style="text-decoration: none !important;">&nbsp;&nbsp;View messages</a>
+          </li>
+           <li class="usa-sidenav__item">
+            <a href="/user-guide/reply-to-messages/" style="text-decoration: none !important;">&nbsp;&nbsp;Reply to messages</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="/user-guide/message-center-features/" style="text-decoration: none !important;">&nbsp;&nbsp;More message center features</a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </nav>
+</div>
+ </div>
+</div>
+
+:ET

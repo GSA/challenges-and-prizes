@@ -128,7 +128,7 @@ permalink: pretty
 markdown: kramdown
 plugins:
   - jekyll-feed
-  - jekyll-paginate-v2
+ # - jekyll-paginate-v2
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem

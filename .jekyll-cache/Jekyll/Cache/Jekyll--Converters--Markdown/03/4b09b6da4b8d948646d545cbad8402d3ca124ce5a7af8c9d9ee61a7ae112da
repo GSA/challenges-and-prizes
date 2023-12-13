@@ -1,0 +1,22 @@
+I"t
+<p><strong>Phase 2 First Prize - Herald Health</strong></p>
+<p>$50,000.00</p>
+<p>Its solution helps clinicians manage the overwhelming flow of alerts and information by allowing them to create highly customizable push notifications. These can be tailored to both individual patients and groups and exported to fellow users.</p>
+<p><strong>Phase 2 Second Prize and Connector Award - University of Utah Health Care / Intermountain Healthcare / Duke Health System</strong></p>
+<p>$50,000.00</p>
+<p>Their solution is a clinical decision support tool that can provide recommendations for the treatment of babies with jaundice detected at birth based on the level of liver waste products found in their blood.</p>
+<p><strong>Phase 2 Honorable Mention - PHRASE Health</strong></p>
+<p>This solution uses clinical decision support to help clinicians align with priorities such as public health alerts.</p>
+<p><strong>Phase 1 Winner - Herald Health</strong></p>
+<p>$15,000.00</p>
+<p>The Herald platform leverages FHIR to surface the patient information that clinicians need the most. It&rsquo;s integration of FHIR will help enable highly customizable, IFTTT-like (&ldquo;if this, then that&rdquo;) alerts based on real-time EHR data.</p>
+<p><strong>Phase 1 Winner - PHRASE Health</strong></p>
+<p>$15,000.00</p>
+<p>PHRASE (Population Health Risk Assessment Support Engine) Health aims to create a clinical decision support platform, compatible with the SMART on FHIR platform, to bridge the gap between public health and clinicians by intuitively creating rules to identify at-risk populations. This would help better manage emerging illnesses, incorporate more external data sources into the identification of at-risk patients, and allow for the two-way exchange of data and knowledge between public health and frontline providers.</p>
+<p><strong>Phase 1 Winner - University of Utah Health Care / Intermountain Healthcare / Duke Health System</strong></p>
+<p>$15,000.00</p>
+<p>A multi-institutional, collaborative effort to redevelop a SMART on FHIR application to provide clinical decision support for timely diagnosis of newborn bilirubin and management according to evidence-based best practices. The collaboration intends to integrate the app across each member&rsquo;s EHR platform.</p>
+<p><strong>Phase 1 Winner - WellSheet</strong></p>
+<p>$15,000.00</p>
+<p>WellSheet&rsquo;s web application seeks to utilize machine learning and natural language processing to prioritize relevant information during a patient visit. Its algorithm simplifies workflows that must incorporate multiple data sources, including those enabled by FHIR, and presents information in a single screen.</p>
+:ET

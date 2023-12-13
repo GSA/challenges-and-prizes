@@ -1,0 +1,17 @@
+I"ù
+<h3><strong>THE PROBLEM</strong></h3>
+<p>Every day we make decisions about whether the people and information sources around us are reliable, honest, and trustworthy &ndash; the person, their actions, what they say, a news source, or the actual information being conveyed. Often, the only tool to help us make those decisions are our own judgments based on current or past experiences.</p>
+<p><img src="/assets/images/ids-images/CASE-explainer-sketch.png" width="772" height="218" /></p>
+<p>For some in-person and virtual interactions there are tools to aid our judgments. These might include listening to the way someone tells a story, looking at a user badge, validating with other people - or in more formal settings, verifying biometrics or recording someone&rsquo;s physiological responses, i.e. the polygraph.</p>
+<p>Each of these examples uses a very different type of tool to augment our ability to evaluate credibility. Yet there are no standardized and rigorous tests to evaluate how comprehensive or accurate such tools really are.</p>
+<p>Countless studies have tested a variety of credibility assessment techniques and have attempted to use them to rigorously determine when a source and/or a message is credible and, more specifically, when a person is lying or telling the truth.</p>
+<p>Despite the large and lengthy investment in such research, a rigorous set of valid methods that are useful in determining the credibility of a source or their information across different applications remains difficult to achieve.</p>
+<h3><strong>TIMELINE</strong></h3>
+<p><img src="/assets/images/ids-images/CASEtimeline-04.png" width="819" height="202" /></p>
+<h3><strong>DETAILS</strong></h3>
+<p>IARPA's Credibility Assessment Standardized Evaluation (CASE) Challenge seeks novel methods to measure the performance of credibility assessment techniques and technologies.&nbsp;</p>
+<p>Credibility assessment refers to both the assessment of the truthfulness of specific claims and to the assessment of the reliability, honesty, and trustworthiness of a source of a particular claim, whether that be an individual, group, or a broader organization or entity.This challenge is focused on the methods used to evaluate credibility assessment techniques or technologies, rather than on the techniques or technologies themselves. In this context, a method is a detailed plan or set of actions that can be easily replicated or followed.&nbsp;</p>
+<p>In this challenge, we ask that your solution is a method for conducting a study, which includes background information, the objectives of the research, study design, the logistics and means for running the study, and details about what data would be collected if your solution were implemented.</p>
+<h3><strong>CONTACT</strong></h3>
+<p>CaseChallenge@iarpa.gov</p>
+:ET

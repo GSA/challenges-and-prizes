@@ -1,0 +1,36 @@
+I"�<h4 id="judging-panel">Judging Panel</h4>
+
+<p>The submissions will be judged by a qualified panel of expert(s) selected by the U.S. Department of Commerce, National Institute of Standards and Technology (NIST) at its sole discretion. The panel consists of U.S. Department of Commerce, NIST and non-Department of Commerce, NIST experts and will judge the submissions according to the judging criteria to select winners. The decisions of the panel for the contest will be announced in accordance with the dates noted in the “Summary of Important Dates.”</p>
+
+<h4 id="judging-criteria">Judging Criteria</h4>
+
+<p><strong>Phase 1: Concept Paper</strong>
+Criterion #1: Knowledge and Relevance (20%)
+This criterion involves consideration of the following factors:</p>
+
+<ul>
+  <li>Team skill set and past experience (e.g., computer vision, video analytics, image analytics, image quality, subjective testing, NR metric development)</li>
+  <li>Demonstrated focus on first responder needs in the proposed solution</li>
+</ul>
+
+<p>Criterion #2: Technical Approach (40%)
+The extent to which the objective methods to assess the quality of images for computer vision applications meets the goals of the challenge:</p>
+
+<ul>
+  <li>Demonstrated knowledge of computer vision and its current limitations</li>
+  <li>Plausible and appropriate approach for assessing the failure rate of computer vision algorithms</li>
+  <li>Speed, flexibility, and repeatability of the assessment method for future research</li>
+</ul>
+
+<p>Criterion #3: Subject Matter (40%)
+The extent to which the image dataset design meets the objectives listed in the goals of the challenge:</p>
+
+<ul>
+  <li>Diversity of scenes, locations, objects, lighting, and/or environments to be depicted</li>
+  <li>Type and variety of cameras</li>
+  <li>Plausible approach for creating a wide range of image or video quality</li>
+  <li>Suitable strategy for obtaining image or videos release, when required by privacy concerns</li>
+</ul>
+
+<p>*See <a href="{{site.baseurl}}/assets/netlify-uploads/official-rules_computer-vision-challenge_08252020.pdf">Official Rules</a> for judging criteria associated with Phase 2 of the contest.</p>
+:ET

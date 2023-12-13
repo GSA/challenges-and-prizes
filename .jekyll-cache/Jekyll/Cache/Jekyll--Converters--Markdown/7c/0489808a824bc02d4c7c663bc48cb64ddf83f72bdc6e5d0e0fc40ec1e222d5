@@ -1,0 +1,23 @@
+I"®<h4>REQUIREMENTS</h4>
+<p><strong>Registration</strong></p>
+<ul> <li>Teams must complete the registration form,&nbsp;<strong><a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/02/Nutrient-Sensor-Action-Challenge_Registration-form_final.docx">found here</a>,</strong>&nbsp;and upload via the Challenge.gov "Submit Solution" tab two weeks prior&nbsp;to the start of monitoring and data collection from nutrient sensors.</li> </ul>
+<p><strong>Sensors</strong></p>
+<ul> <li>Teams must acquire monitoring data from two or more nitrogen or phosphorous sensors for <strong><em>at least three month</em>s</strong> between March 1 and December 31, 2018.&nbsp; At least one sensor must cost less than $15,000.</li> </ul>
+<p><strong>Data Collection and Access</strong></p>
+<ul> <li>Projects will be requested via email to share web service endpoint(s) and associated authentication information. Data must be made available by November 1<sup>st</sup>, 2018 and remain available to the Challenge Administrator until judging is complete (Spring 2019).</li> <li>Teams must make observation data available to the Challenge Administrator in one of the following formats:&nbsp; <ul> <li>WaterML -&nbsp;<strong><a href="http://www.opengeospatial.org/standards/waterml" target="_blank" rel="noopener">http://www.opengeospatial.org/standards/waterml</a></strong></li> <li>Climate and Forecast (CF)&nbsp;- <strong><a href="http://cfconventions.org" target="_blank" rel="noopener">http://cfconventions.org</a></strong></li> </ul> </li> </ul>
+<ul> <li>Teams must provide the Challenge Administrator with access to the data using web services that conform to one of the following standards/implementations:&nbsp; <ul> <li>OGC Sensor Observation Service (SOS)&nbsp;- <strong><a href="http://www.opengeospatial.org/standards/sos" target="_blank" rel="noopener">http://www.opengeospatial.org/standards/sos</a></strong></li> <li>OGC SensorThings API&nbsp;- <strong><a href="http://www.opengeospatial.org/standards/sensorthings" target="_blank" rel="noopener">http://www.opengeospatial.org/standards/sensorthings </a></strong></li> <li>USGS Instantaneous Values Web Service&nbsp;- <strong><a href="http://waterservices.usgs.gov/rest/IV-Service.html" target="_blank" rel="noopener">http://waterservices.usgs.gov/rest/IV-Service.html </a></strong></li> <li>Open-source Project for a Network Data Access Protocol (OPeNDAP)&nbsp;- <strong><a href="https://www.opendap.org" target="_blank" rel="noopener">https://www.opendap.org</a></strong></li> </ul> </li> </ul>
+<h4>&nbsp;</h4>
+<hr />
+<h4>RESULTS PACKAGE</h4>
+<p>All materials must be uploaded to Challenge.gov "Submit Solution" tab.&nbsp; Materials submitted via regular mail, facsimile, or email will not be accepted.&nbsp; No additions or modifications to the uploaded submissions will be accepted after the deadline.&nbsp; Participants are encouraged to include hyperlinks and access instructions to external websites.&nbsp; If a website(s) is part of a larger solution offered, participants should provide specific information in the document that indicates which parts of the website relate to the Challenge.</p>
+<p>Each team must upload a Results Package that will be provided to the judges.&nbsp; The Results Package must be uploaded to Challenge.gov by <strong>February 28, 2019 at 11:59 PM ET.</strong> &nbsp; The Results Package must be no longer than 25 pages and must include (but is not limited to):</p>
+<p><strong>Updated Registration Information&gt;<a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2018/02/Nutrient-Sensor-Action-Challenge_Registration-form_final.docx">found here</a></strong></p>
+<p><strong>Data</strong>:</p>
+<ul> <li>Illustration of the data architecture, including the flow and lifecycle of sensor data (e.g. collection, access, communication, and use)</li> <li>Summary of the data collected from the sensor and results from analytics or model output</li> </ul>
+<p><strong>Potential Impact:</strong></p>
+<ul> <li>Describe the potential impact of the contribution of continuous sensor data and how it has or will inform and improve a decision or action to improve nutrient management.</li> <li>Describe engagement with users, stakeholders and decision-makers and how their role and participation contribute to the impact of the project.</li> </ul>
+<p><strong>Quality Assurance and Quality Control:&nbsp; </strong></p>
+<ul> <li>Describe how quality assurance and quality control was addressed throughout the project.</li> </ul>
+<hr />
+
+:ET

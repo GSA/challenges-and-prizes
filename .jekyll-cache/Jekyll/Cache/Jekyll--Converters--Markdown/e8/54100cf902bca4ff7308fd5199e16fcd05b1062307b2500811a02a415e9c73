@@ -1,0 +1,39 @@
+I"œ<p>The Agile Robotics for Industrial Automation Competition, ARIAC, addresses a critical limitation of robots used in industrial environments like factory floors: They are not as agile as they need to be.</p>
+<p>Many robots are not able to quickly detect failures or recover from those failures. They aren't able to sense changes in their environment and modify their actions accordingly. Programming these robots for even the simplest tasks takes time and effort. Help solve this problem by coding your own robot control system (software) that can outperform everyone else's in a simulated environment! Compete to win $17,500 in cash prizes and the opportunity to showcase your solution at a future robotics conference.</p>
+<h4><strong>Background</strong></h4>
+<p>In June 2017, the National Institute of Standard and Technology (NIST) put on the first ARIAC Competition. The goal of the competition was to test the agility of industrial robot systems, with the goal of enabling industrial robots on the shop floors to be more productive, more autonomous, and to require less time from shop floor workers. For the second year of the competition, we introduced a cash prize to motivate and expand participation. This is the third year of the competition.</p>
+<p>In this context, agility is defined broadly to address:</p>
+<ul>
+<li>Failure identification and recovery, where robots can detect failures in a manufacturing process and automatically recover from those failures</li>
+<li>Automated planning, to minimize (or eliminate) the up-front robot programming time when a new task is introduced</li>
+<li>Fixtureless environment, where robots can sense the environment and perform tasks on parts that are not in predefined locations</li>
+</ul>
+<p>Participants are required to develop a robot control system (software) to control a robot in a simulated environment. Gazebo (<a href="http://www.gazebosim.com" target="_blank" rel="noopener">http://www.gazebosim.com</a>), which is an open source robotics simulation environment, will be used as the testing platform and the Robot Operating Systems (ROS), which is an open source set of software libraries and tools, will be used to define the interfaces to the simulation system.</p>
+<p>Software interfaces will be made publicly available that will allow the Participants to control the robot. There will be one qualifier in the April 2019 timeframe with the final competition occurring in mid-May 2019. The competition will be performed virtually in the cloud, so physical attendance is not required to compete. NIST is proposing a workshop to a major robotics conference to allow the winning Participants to present their approaches; details, when available, will be posted to the official challenge website. See full details in <em><strong>How to Enter.</strong></em></p>
+<h4><strong>Dates of the Competition</strong></h4>
+<ul>
+<li>Qualifier Begin: April 15, 2019</li>
+<li>Qualifier End: April 19, 2019</li>
+<li>Competition Testing (Finals) Period Begins: May 13, 2019</li>
+<li>Competition Testing (Finals) Period Ends: 5:00 PM, May 17, 2019</li>
+<li>Announcement of Cash Prize Winners: May 21, 2019</li>
+</ul>
+<h4><strong>Competition Scenarios</strong></h4>
+<p>The following terminology is frequently used in this document</p>
+<ul>
+<li>Order: A list of parts and their goal location on a tray.</li>
+<li>Part: One element of an order.</li>
+<li>Tray: A surface that hold parts.</li>
+<li>Kit: A tray and set of parts that make up an order.</li>
+</ul>
+<p>ARIAC requires participants to complete a series of tests centered in an industrial scenario that are based around building kits made up of particular parts. The robot system will work within the environment specified in the work environment section.</p>
+<p>There are three different test scenarios that all involve moving parts from a supply location to a tray. The possible supply locations are a conveyor belt, and stationary bins. Challenges will be introduced in each scenario. Details about the scenarios follow.</p>
+<ol>
+<li><strong>Scenario 1:</strong>&nbsp;Baseline Kit Building: The first scenario is intended as a baseline set of tasks for the other test methods to be compared against. The task for this scenario is to pick specific parts and place them on a tray. The robot arms will receive an &ldquo;Order&rdquo; that details the list of parts and their target locations. Orders are covered in more detail in the Orders section.</li>
+<li><strong>Scenario 2:</strong>&nbsp;Dropped Part: The task for Scenario 2 is identical to Scenario 1, however one or more parts will drop from the robots&rsquo; gripper. The robots will need to recover after dropping a part and complete the given Order. Recovery could entail picking up the dropped part or fetching a new part.</li>
+<li><strong>Scenario 3:</strong>&nbsp;In-Process Kit Change: While the robots are in the middle of assembling a kit, a new high priority order will be received that needs to be completed as fast as possible. The robots will need to decide how best to complete this new order, and then complete the previous order.</li>
+</ol>
+<p>The competition will consist of 15 trials: 5 trials of each of the 3 scenarios. Each trial will receive a score based on completion and efficiency metrics outlined in the Scoring section.</p>
+<h4><strong>Winners</strong></h4>
+<p>Up to three winners will be selected. The Prize Purse for the ARIAC Prize Competition is a total of $17,500. In addition, each winner may be able to select any one representative from their team to present their results at a robotics conference in 2019 in a workshop dedicated to the ARIAC competition. NIST may be able to provide travel funds subject to availability.&nbsp; The number of winners will be fewer than three if there are fewer than three Participants that qualify for the competition. The Prize Purse may increase, but will not decrease. Any increases in the Prize Purse will be posted on the Event Website. NIST reserves the right to announce additional winners of non-cash prizes.</p>
+:ET

@@ -1,0 +1,23 @@
+I"�
+<p class="p1">To submit a solution, entrants should <a href="https://www.challenge.gov/registration/">create an account</a> with Challenge.gov, then select "Submit Solution" on the left-hand navigation of this website. Submissions must be made by 11:59AM EST on May 10, 2016.</p>
+<p class="p1"><strong><i><span style="color: #000000; font-family: Helvetica;">
+Challenge entrants will submit a design that:</span></i></strong></p>
+
+<ul>
+	<li><span style="color: #000000; font-family: Helvetica;">Improves the visual layout and style of the information for the taxpayer</span></li>
+	<li><span style="color: #000000; font-family: Helvetica;">Makes it easier for a taxpayer to manage their taxpayer responsibilities</span></li>
+	<li><span style="color: #000000; font-family: Helvetica;">Empowers a taxpayer to make informed and effective decisions about their personal finances</span></li>
+</ul>
+<p><span style="color: #000000; font-family: Helvetica;">Entrants should consider end users in developing their design. Our tax system includes people from many different socioeconomic backgrounds, with different needs and responsibilities.</span></p>
+
+<p><em><strong><span style="color: #000000; font-family: Helvetica;"><strong><em>
+</em></strong></span></strong><strong><span style="color: #000000; font-family: Helvetica;">In order for an entry to be eligible to win the Challenge, it must meet the following requirements:</span></strong></em></p>
+
+<p><span style="color: #000000; font-family: Helvetica;">Deliverable: Must be an image or browser viewable file. The acceptable image formats: .PNG, .JPG, .GIF, .TIFF, and .PDF. There is no limit to how many designs you may submit and how many images are used to represent a design, however, each individual file has a size limit of 3MB. If you are submitting multiple image files, please be sure to label each file and <span style="font-family: Helvetica;">include a table of contents so that it is clear to judges the order in which they should be reviewed</span>.</span></p>
+
+<p><span style="color: #000000; font-family: Helvetica;">Feasibility: The Challenge requires only that the design of the taxpayer experience be submitted. It is not the responsibility of the entrant to build or code a working version of the design. However, the design must be ultimately implementable using HTML, CSS, and JavaScript.</span></p>
+
+<p><span style="color: #000000; font-family: Helvetica;">Data: The design should use some or all of the variables in the Tax Data Document (TDD) for an improved experience. Use of every variable in the TDD is not required; submissions may include additional variables that are not in the TDD.</span></p>
+
+<p> </p>
+:ET

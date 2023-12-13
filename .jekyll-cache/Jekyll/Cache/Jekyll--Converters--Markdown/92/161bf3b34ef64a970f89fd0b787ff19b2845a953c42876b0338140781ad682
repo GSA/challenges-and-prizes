@@ -1,0 +1,31 @@
+I"<p>A full description of rules, submissions, and evaluations are at: <a href="http://www.ug2challenge.org">http://www.ug2challenge.org</a>.</p>
+
+<p><strong>SUBMISSIONS</strong></p>
+
+<p><span style="text-decoration: underline;"><strong>Development Kit</strong></span></p>
+
+<p>The <u>Development Kit</u> consists of a Docker file containing the basic structure for the algorithms submission, as well as instructions on how to pull and run a supplemental quantitative classification module for the second challenge. The images, annotation, and lists specifying the training/validation sets for the challenge are provided separately.</p>
+
+<p>Each team must submit one algorithm for each challenge they wish to participate in. Participants who have investigated several algorithms may submit up to 3 algorithms per challenge. All submissions (per challenge) will be held within one single Docker container to be uploaded to <u>Docker Hub</u>. The Docker container will container all dependencies and code required to perform the model’s operation and will execute the model(s) contained upon run.</p>
+
+<p>The input images will be provided to the container at run time through Docker’s mounting option, as will the output folders for the model(s) to save their results. Each model must be run on all images contained within the input folder and must save the new images to their respective output folder locations, without any name changes or missing images.</p>
+
+<p><span style="text-decoration: underline;"><strong>Requirements</strong></span></p>
+
+<p><strong>Software</strong>:</p>
+<ul>
+ 	<li>Docker-CE</li>
+ 	<li>NVIDIA Docker</li>
+ 	<li>CUDA 8.0</li>
+ 	<li>cuDNN v5.0</li>
+</ul>
+<p><strong>Hardware</strong>:</p>
+
+<p>The proposed algorithms should be able to run in systems with:</p>
+<ul>
+ 	<li>Up to and including Titan Xp 12 GB</li>
+ 	<li>Up to and including 12 cores</li>
+ 	<li>Up to and including 32gb memory</li>
+</ul>
+<p>If you have any questions please feel free to email <a href="mailto:ug2challenge@gmail.com">ug2challenge@gmail.com</a>.</p>
+:ET

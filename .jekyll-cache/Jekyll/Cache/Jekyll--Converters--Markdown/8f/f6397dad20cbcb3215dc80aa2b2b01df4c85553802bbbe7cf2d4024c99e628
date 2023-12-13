@@ -1,0 +1,16 @@
+I"(<p>A. Metric Contest. The Judges will evaluate submitted papers describing proposed metrics based on a balance of clarity, utility, and robustness.</p>
+
+<p>B. Algorithm Contest. Submissions will be assessed based on, a) their ability to prove they satisfy differential privacy, and b) the accuracy of output data as compared with ground truth as assessed by a scoring function that will be released at the opening of each sprint. </p>
+
+<ul>
+  <li>Progressive Prizes will also be awarded part-way through each sprint to the best performing algorithms according to the scoring function, with precedence given to algorithms that are pre-screened as satisfying differential privacy.</li>
+</ul>
+
+<p>C. Open Source and Development Contest. Only solutions that are validated by the Judges as satisfying differential privacy in one or more of the sprints are eligible to compete in this portion of the Challenge.</p>
+
+<ul>
+  <li>Open Source Prizes are awarded to the top algorithms that are released to an open source repository.</li>
+  <li>Development Plan Prizes are made based on the quality of the Development Plan submitted for the participants’ highest scoring algorithm.</li>
+  <li>Development Execution Prizes are based on how well teams execute their improvements, as described in their Development Plan.</li>
+</ul>
+:ET

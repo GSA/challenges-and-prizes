@@ -1,0 +1,76 @@
+I" <h3 id="description">Description</h3>
+
+<p>This Challenge is requesting new design solutions for biologically based sensors for use in water systems that can detect the activation of one or more human toxicity pathways. Toxicity pathways are the perturbations to normal biological processes that occur due to exposure to a stressor, such as a chemical, that has the potential to lead to adverse health effects. Although the sensor might not identify a specific contaminant/toxin, it should be able to measure or quantitate the level of activation of one or more toxicity pathways when the sensor is exposed to water that contains relevant amounts of contaminants/toxins targeting the pathway(s). The solution should be less costly, more efficient, and more rapid than current methods for water toxicity analysis. This Theoretical Challenge is Stage 1; there is the potential for Stage 2, which would consist of a challenge to produce a prototype.</p>
+
+<p><strong>Key Dates</strong></p>
+
+<ul>
+  <li>June 8, 2021, 2 pm ET: Informational Webinar on the Water Sensor Toxicity Challenge. <a href="https://water-toxicity-sensor-challenge.eventbrite.com">Click here to register</a>.</li>
+  <li>July 26, 2021, 11:59 pm ET: Submission period ends</li>
+</ul>
+
+<h3 id="prizes">Prizes</h3>
+
+<p><strong>Total Cash Prize Pool:</strong> $45,000</p>
+
+<p><strong>Prize Breakdown:</strong></p>
+
+<p>The Seeker intends to select up to three finalists to receive awards of $15,000 each from a total award pool of $45,000. The Challenge award will be contingent upon results of critical analysis and evaluation by the Seeker. Meeting the Technical Requirements does not guarantee that the proposed solution will receive an award from the Seeker. Partial cash prizes of less than $15,000 may be considered for solutions that meet some, but not all, of the criteria. The Seeker can also allocate higher individual award amounts, as deemed appropriate.</p>
+
+<p>Depending on the results of this Challenge and on the availability of funds, the Seeker may conduct a second phase Challenge, asking Solvers to submit prototypes for testing. This second phase, if it occurs, will be open but not restricted to the winners of this first phase of the Challenge.</p>
+
+<h3 id="rules">Rules</h3>
+
+<p>This is a Theoretical Challenge that requires only a written proposed solution that describes novel technologies or improvements to existing technologies, which meet the needs of the Solution Requirements above. The submitted proposal must be written in English and no longer than 10 pages (with at least 11-point font and 1-inch margins; page count excludes references and graphics), and must contain the following:</p>
+
+<ol>
+  <li>An executive summary (~1/2 page) of the proposed solution and general information on the proposed technology.</li>
+  <li>A detailed description of the proposed solution/technology, including adaptability of the technology to a sensor platform and/or improvements to current technologies. Include data, if available, for and descriptions of how the technology might work with different water types. If designed for a specific water type(s), identify the water type(s). Also identify which toxicity pathways are detected. It should be clear which likely scenarios the system is designed to detect.</li>
+  <li>Rationale as to why the Solver believes that the proposed system will work. This rationale should address each of the <strong>Solution Requirements</strong> identified in the Detailed Description and be supported with any relevant examples and/or data, if available.</li>
+  <li>Results from laboratory or field deployments of prototype sensor, if available.</li>
+  <li>Pictures or drawings of the proposed solution, if available.</li>
+  <li>Description of resources, expertise, materials, budget, and proposed timeframe needed to develop a prototype.</li>
+  <li>Provide detailed requirements for sensor operation and the engineering solution(s) for sensor and consumable maintenance, shelf-life of consumables, skills/knowledge required for sensor operation, user-training packages, and anticipated field service intervals.  Provide a life-cycle cost analysis.</li>
+  <li>Provide estimated data on logistical requirements such as: size, weight, resource requirements (i.e., electricity, reagents), and sampling resolution (temporal/spatial).</li>
+</ol>
+
+<p>The proposal <strong>should not</strong> include any personal identifying information (e.g., name, username, company, address, phone, email, personal website, resume, etc.)</p>
+
+<p><strong>Eligibility Requirements</strong></p>
+
+<p>If awarded, Winning Solvers must certify they do not have identical or essentially equivalent work currently funded by a United States Federal agency.</p>
+
+<p>Federal employees acting within the scope of their employment are not eligible to participate. A Federal employee acting outside the scope of his or her employment should consult his or her ethics official before participating in the Challenge.</p>
+
+<p>The potential award for this Challenge is $15,000 for a proposal that meets all requirements. The Seeker intends to award up to three prizes. Solvers are not required to give up any of their intellectual property (“IP”) rights to the Seeker to be eligible to receive an award.</p>
+
+<h3 id="judging-criteria"><strong>Judging Criteria</strong></h3>
+
+<p><strong>Judging Panel</strong></p>
+
+<p>After the Challenge submission deadline, submissions will be judged by a panel convened by the Seeker. The panel will recommend winning solutions to the Seeker, and the Seeker will make final selections. All persons or entities that submit a proposal will receive a high-level evaluation and be notified as to the status of their submission. Decisions by the Seeker cannot be contested.</p>
+
+<p><strong>Judging Criteria</strong></p>
+
+<ul>
+  <li>The system must measure the activation of one or more toxicity pathways that are linked to adverse health outcomes caused by environmental pollutants in water, such as hepatic toxicants, endocrine disrupting compounds, pesticides, heavy metals, and/or other contaminants of health concern.</li>
+  <li>If multiple toxicity pathways are targeted, the system should provide information as to which pathway is activated to produce a signal.</li>
+  <li>The system should function in a range of chemical concentrations of relevance to human health. It should also define, if available, lower and upper limits of response and quantification for positive controls for each pathway (i.e., the linear dynamic range (LDR)).</li>
+  <li>The system should be functional under conditions normally associated with various water types (e.g., varying levels of microorganisms, pH, alkalinity, hardness, humic and fulvic acids, dissolved solids, turbidity, etc.), and account for associated matrix effects on sensor response. That is, the design should be compatible with operation and deployment of the sensor in field operations as opposed to a clinical setting.</li>
+  <li>The system should be designed in such a way that the eventual final product would incorporate internal (possibly automated) quality assurance protocols (e.g. calibration) and define precision and accuracy for signals reported by the sensor.</li>
+  <li>All sample handling/preparation requirements should be minimal and/or accounted for in the sensor design (i.e., automated).</li>
+</ul>
+
+<p><strong><em>The following are not required for an award but would be “nice to have”:</em></strong></p>
+
+<ul>
+  <li>Demonstrated performance in a controlled (i.e., laboratory) setting for detection of various contaminants via perturbations of pathway(s).</li>
+  <li>Provide continuous measurements to remote observers in real time.</li>
+  <li>Extended deployment (weeks to months), with little-to-no maintenance required during deployment, prior to performance declining to below specified tolerance limits.</li>
+  <li>Automatic self-detection of degradation of performance with alerts to the operator of this condition.</li>
+</ul>
+
+<h3 id="how-to-enter">How to Enter</h3>
+
+<p>Visit the <a href="https://innocentive.wazoku.com/#/challenge/89cf14146dbe4d40a5a94ea823d34c05">challenge website</a> for entry details.</p>
+:ET

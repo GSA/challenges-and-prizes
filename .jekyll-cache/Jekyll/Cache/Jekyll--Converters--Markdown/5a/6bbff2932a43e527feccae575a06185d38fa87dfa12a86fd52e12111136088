@@ -1,0 +1,74 @@
+I"<h4 id="judging-panel">Judging Panel</h4>
+
+<p>Submissions that comply with the challenge requirements will be reviewed by a panel of judges consisting of Federal employees. Entries will be scored by a panel of judges representing a variety of fields, including the Director of AI and Data, Innovation Specialist, AI/ML Acquisition Executive Sponsor and Industry Specialists.</p>
+
+<h4 id="judging-criteria">Judging Criteria</h4>
+
+<p>Each submission will be judged based on the following criteria with each judge independently scoring the solution on a scale of 1-5 and then calculated into a weighted percentage as detailed below. The winner will be determined by averaging all judges’ scores and calculating the highest scoring solution.</p>
+
+<p>Scoring rubric for judges: <a href="https://github.com/GSA/ai-ml-challenge-2020/blob/master/reference/AI_ML Challenge Scoring Rubric.pdf">AI/ML Challenge Scoring Rubric</a></p>
+
+<p><strong>Technical Evaluation (40%)</strong></p>
+
+<ul>
+  <li>The solution classifies clauses as acceptable or unacceptable using the validation data file and provides a probability of each classification. The solution will be validated based on a combination of:
+    <ul>
+      <li>The self-reported metrics in the ‘Description of Methods’ document.</li>
+      <li>GSA processing of the Validation File to calculate the Brier Score and F1 Score.</li>
+    </ul>
+  </li>
+  <li>The Description of Methods provides a comprehensive description and demonstration of the data, methods, and software used in the solution.</li>
+  <li>The Description of Methods clearly explains the reasons for predictions made using the validation data.</li>
+</ul>
+
+<p><strong>Functionality &amp; User Interface (30%)</strong></p>
+
+<ul>
+  <li>The solution allows the user to provide a EULA document in MS Word or PDF format.</li>
+  <li>The solution successfully parses documents into individual clauses for evaluation.</li>
+  <li>For each individual clause, the solution reports:
+    <ul>
+      <li>A classification of acceptable or unacceptable.</li>
+      <li>A prediction probability for each clause.</li>
+    </ul>
+  </li>
+  <li>The user interface of the solution is realistic and usable by a business user.</li>
+</ul>
+
+<p><strong>Creativity and Innovation (10%)</strong></p>
+
+<ul>
+  <li>The solution provides an innovative approach to solve the issues presented.</li>
+  <li>The solution provides creative solutions to overcome limited training data available, such as:
+    <ul>
+      <li>Transfer learning from additional GSA provided data.</li>
+      <li>Incorporation of additional exhibits provided by GSA.</li>
+      <li>Identifying and using additional public sources of data that are relevant to the solution.</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>Quality of Demonstration (20%)</strong></p>
+
+<ul>
+  <li>The demonstration of the solution clearly provides a high level view of its functionality, purpose and usage.</li>
+  <li>The demonstration describes the accuracy of the solution.</li>
+  <li>The demonstration exhibits an understanding of the goals of the user.</li>
+  <li>The demonstration exhibits an understanding of difficulty caused by limited training data.</li>
+  <li>The demonstration is attractive and professional in presentation.</li>
+  <li>The demonstration uses multimedia, graphics, or video to engage the judges.</li>
+</ul>
+
+<p><strong>Bonus: Advanced techniques (Optional 0-5% points)</strong></p>
+
+<ul>
+  <li>Up to 5% bonus points on the total score for exceptional functionality of greater difficulty, including:
+    <ul>
+      <li>Methods of retraining the model based on user review of solution output.</li>
+      <li>Methods to explain the reason that individual clauses were classified as unacceptable.</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>Total Possible Score = 105/100 (including bonus points)</strong></p>
+:ET

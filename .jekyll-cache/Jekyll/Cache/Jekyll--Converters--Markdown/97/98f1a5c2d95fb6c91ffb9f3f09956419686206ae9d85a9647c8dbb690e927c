@@ -1,0 +1,39 @@
+I"O<h4>Challenge Stages and Prizes</h4>
+<h5>Stage 1:  Registration and Feasibility Review</h5>
+<p>Participants will fill out a <a href="https://s3.amazonaws.com/challenge-gov/wp-content/uploads/2017/01/N2NChallengeRegistration.docx">registration form</a> providing information about their proposed solution. The application will require the following sections:</p>
+<ul>
+ 	<li><strong>Abstract</strong> - brief description of what you plan to build</li>
+ 	<li><strong>Solution Description</strong>
+<ul>
+ 	<li>Anticipated hardware and software components</li>
+ 	<li>High Level system diagram</li>
+</ul>
+</li>
+ 	<li><strong>Usability</strong> – how will the user interact with the device?</li>
+ 	<li><strong>Innovation</strong> – what's the novelty of this solution, has it been tried before?</li>
+ 	<li><strong>Safety Assessment</strong> – are there any components (electrical components, illuminators, etc.) in your design which may cause safety concerns with human subjects testing?</li>
+</ul>
+<p>Applications should not be more than 2 pages and should describe the anticipated solution with as much detail as possible.  The government will provide informal feedback on the application to the applicants.</p>
+
+<hr />
+
+<p>During future stages of this competition, outlined below, participants will be required to submit additional information.</p>
+
+<p><em>Stage 2:  Development and Judging</em></p>
+
+<p>Builders will have until July 2017 to develop their solution for the N2N challenge.  Builders will be asked to submit sample fingerprint imagery from 3 subjects collected from their systems along with a short video of the system as a “proof of build” and certification to attend the Test and Evaluation (T&amp;E) event taking place in September 2017.  Devices will also be judged for safety at this time.  Builders who do not provide certification of intent to attend the T&amp;E event will be automatically disqualified from moving to Stage 3.    Winners may continue to further refine their devices prior to the live test.</p>
+
+<p>Winners will be selected to participate in the Live Test  The videos produced by the builders will be evaluated along with an updated abstract  and sample imagery to determine participants selected for the next stage.</p>
+
+<p>The submissions will be judged by a 3 person USG team based on their content and not the quality of the video production.  The sample imagery may be used to confirm image standard compliance and interoperability with the USG API used for evaluation.  Additionally, the sample imagery will be used to determine a cursory measure of image quality.  The Judges will select the stage 2 winners based upon their assessment of the viability, novelty, and operational usefulness of the technology and the criteria for Stage 2 outlined below.  In the event that more entries are received than space is allocated, prize challenge balance may also be considered to ensure a diversity of approaches.</p>
+
+<p><em>Stage 3: Test &amp; Evaluation and Prize Awards</em></p>
+
+<p>The government will conduct a test where human subjects will present finger biometrics to the maker’s developed system.  To support testing, prize participants are responsible for operating their own capture device during the testing, ensuring safety and IRB compliance of the developed system with testing staff, and providing collected data in the specified format described in the N2N Fingerprint Image Format document for evaluation.</p>
+
+<p>In the event that a participant is unable to produce a Print Data Set due to unforeseen circumstances, invited participants may still be eligible to receive a prize for completing Stage 2 on the individual assessment of IARPA.</p>
+
+<p>Testing will include collection of baseline data using current “gold standard” techniques for N2N, using a skilled operator, and latent fingerprints which will be collected by the government team.  Two baseline systems will be used to collect N2N data by the government.  Prize participants will collect N2N data from subjects without an operator. To be eligible to proceed to the evaluation stage and win the awards, makers are required to produce N2N data on 90% (less than 10% Failure to Acquire [FTA]) of the subjects provided without throwing away or filtering unacceptable data.  Participants are not allowed to intentionally throw away data that the system accepted and captured.  Captured data must include prints for all ten fingers to be considered complete.  Please note that prize participants are only required to provide N2N live data and will only be assessed on their N2N submissions.   All captured data must be provided and the amount produced will be determined by the total number of subjects who interacted with the device.  Makers must keep up with the pace of test subjects (approximately 5 minutes per subject to collect all required data) and ensure their collection process does not hinder the overall collection, impacting other participants.</p>
+
+<p>Makers will need to operate their device in the MdTF.  At the facility, each team will be provided with a 3’x6’ table, a 6-plug power strip, and a network cable to hook up to the test facility network.  All equipment for testing must fit on or under the provided table.  Makers will need to configure their device to send images to the facility collection API, which will also be used to calculate time per each participant.</p>
+:ET
