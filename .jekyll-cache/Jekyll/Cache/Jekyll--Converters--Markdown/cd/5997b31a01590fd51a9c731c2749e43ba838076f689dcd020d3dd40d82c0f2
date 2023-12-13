@@ -1,2 +1,0 @@
-I"<p>As part of the National Day of Civic Hacking, the FTC challenges you to DetectaRobo!    <strong>Your mission:</strong> Use data from a honeypot to predict which incoming calls are robocalls.    For this contest, you’ll be given two sets of call data from an existing honeypot. The first set will indicate which calls are likely robocalls; the second set won’t. Use the first set to develop an algorithm, and then apply your algorithm to the second set to predict which calls are robocalls. Work on your own or as a team.</p>
-:ET

@@ -1,8 +1,0 @@
-I"®<p><strong>xVIEW2</strong></p>
-<p>When a disaster strikes, quick and accurate situational information is critical to an effective response. Before responders can act in the affected area, they need to know the location, cause and severity of damage. But disasters can strike anywhere, disrupting local communication and transportation infrastructure, making the process of assessing specific local damage difficult, dangerous, and slow.</p>
-<p><strong>Raw Imagery is Not Enough</strong></p>
-<p><img src="{{ site.baseurl }}/assets/images/challenge-content/xview2.png" width="750" height="450" alt="disaster relief satellite image" /></p>
-<p>Satellite imagery can provide unbiased overhead views, but raw imagery is not enough to inform recovery efforts. High-resolution imagery is required to see specific damage conditions, but because disasters cover a large ground area, analysts must search through huge swaths of pixel space to localize and score damage in the area of interest. Then annotated imagery must be summarized and communicated to the recovery team. It is a slow and laborious process.</p>
-<p><strong>Solving a Common Problem</strong></p>
-<p>Recognizing an opportunity to solve a key analytical bottleneck, the Defense Innovation Unit, together with other Humanitarian Assistance and Disaster Recovery (HADR) organizations, is releasing a new labeled, high-resolution satellite dataset and a challenge to the computer vision community.</p>
-:ET

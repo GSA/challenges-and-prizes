@@ -1,18 +1,0 @@
-I"_<p>A panel of federal employees serving as judges will review the prize competition submissions based on the following criteria:</p>
-
-<ul>
-  <li><strong>Proposal Quality:</strong> Is the proposal complete? Does it address the challenge? Is the information presented clearly? Maximum points: 5</li>
-  <li><strong>Problem Comprehension and Approach:</strong> Does the team have a clear understanding of the problem? Is there a clear explanation of how their solution addresses the challenge? Does the solution clearly address an issue related to maternal morbidity? Maximum points: 10</li>
-  <li><strong>Innovation:</strong> Is the solution unexpected or out of the box? Does it have the potential to move science beyond what was previously considered? Did they approach the data in a new or unique way? Maximum points: 20</li>
-  <li><strong>Potential Impact:</strong> Does the solution have the potential to impact large numbers of pregnant women? Does the solution have the potential to have a profound impact on a subset of the population? Does the solution address what could be a big problem? Maximum points: 20</li>
-  <li><strong>Holistic view of proposal:</strong> Judges’ impression of the submission. Sense of the overall viability, innovation, thoroughness, potential to complete a winning prototype. Maximum points: 10</li>
-  <li><strong>Applicability:</strong> Can the solution be extended or applied to other areas? Other areas within maternal morbidity? Other areas beyond maternal morbidity? Maximum points: 10</li>
-  <li><strong>Disadvantaged Racial and Ethnic Communities:</strong> How does the solution impact adversely impacted populations? Is the impact clearly described and demonstrated? Do they demonstrate an understanding of issues around maternal morbidities within in that population? Maximum points: 10</li>
-  <li><strong>Robustness:</strong> Is the solution robust enough to stand up to issues such as noisy or incomplete data? How large a data set is required to function correctly? Was the solution adequately and suitably tested? Did the solution perform well under the tests? Did they adequately describe their results and their rationale? Possible metrics include: Classification Accuracy, Logarithmic Loss, Confusion Matrix, Area under Curve, F1 Score, Mean Absolute Error, Mean Squared Error. Maximum points: 10</li>
-  <li><strong>Efficient/Ease of Use:</strong> How efficient is the implementation of the model? Is the data solution clear? Not overly complicated? Would it be straightforward for a researcher to move forward with the solution? Maximum points: 5</li>
-</ul>
-
-<p>Total possible points: 100</p>
-
-<p>Up to seven (7) prizes will be awarded to the data solutions that score the highest according to the judges’ rubric. Up to five (5) additional prizes will be awarded to winning solutions that address maternal morbidity in at-risk racial and ethnic groups.</p>
-:ET

@@ -1,9 +1,0 @@
-I"ð<p>Submissions must be entered electronically using the challenge.gov website and must contain a ZIP file with each of the following elements.</p>
-<p>(1) Executable software that replicates the 4 target RAT-STATS functions:&nbsp; Single Stage of Random Numbers, Unrestricted Attribute Appraisal, Unrestricted Variable Appraisal, and the Stratified Variable Appraisal.</p>
-<p>(2) Source code for the executable that is both human- and machine-readable. The source code can be written in any programming language(s). The source code must be commented sufficiently so that another user can understand the underlying operation of the code.</p>
-<p>(3) A text file written in English documenting and explaining any non-cosmetic differences between the submission and the original RAT-STATS software.</p>
-<p>(4) A text file written in English summarizing the changes required to add additional RAT-STATS functions to the submission.</p>
-<p>(5) A text file written in English documenting all software licenses associated with the source code used as part of the project. The text file must describe the nature of each individual license and their overall compatibility.</p>
-<p>(6) A one-page text file written in English that contains the following:</p>
-<ol> <li>Names and email addresses of the team captain and all team members</li> <li>A five or more character identifier for the entry that is used as a prefix in the names of all of the team&rsquo;s submitted files</li> <li>A brief description of the submission</li> </ol>
-:ET
