@@ -16,7 +16,7 @@ source "https://rubygems.org"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem 'jekyll-redirect-from'
-  gem 'jekyll-paginate-v2', "2.0"  
+  # gem 'jekyll-paginate-v2', "2.0"  
   gem 'jekyll-sitemap'
   gem 'jekyll-last-modified-at'
   gem 'pagemaster'
