@@ -1,77 +1,56 @@
-<!--
-  Federalist recommends you use Continuous Integration to automatically test
-  and validate any new changes to your site. CircleCI is free for open source
-  projcets. You should replace this badge with your own.
+Challenge.Gov is an open source platform that accepts contributions and feedback from our customers.   
 
-  https://circleci.com/
--->
-[![CircleCI](https://circleci.com/gh/18F/federalist-uswds-jekyll.svg?style=svg)](https://circleci.com/gh/18F/federalist-uswds-jekyll)
+## Code of Conduct
 
-# Challenges and Prizes
+Challenge.Gov is committed to building a safe, welcoming, harassment-free culture for everyone. Challenge.Gov is a part of the Technology Transformation Services (TTS) within the General Services Administration (GSA), and we expect everyone to follow the [GSA TTS Code of Conduct](https://handbook.tts.gsa.gov/about-us/code-of-conduct/).
 
-This project uses the [Jekyll](https://jekyllrb.com) site engine and built with Ruby.
+We encourage you to read this platform’s [DEVCONFIG](DEVCONFIG.md), its [LICENSE]( https://github.com/GSA/Challenge_gov/blob/main/LICENSE), and its [README](README.md). If you want to read more about our open source policy or have questions, check out the GSA’s Open Source Policy (https://open.gsa.gov/oss/ or send us an [email](mailto:team@challenge.gov).
 
+## How you can contribute
 
+Anyone can contribute to Challenge.Gov. Whether it's notifying us of an issue, proposing a new feature, or suggestions for content or workflow improvements, we welcome your ideas on how to improve this site.
 
-**WARNING** This is a pre-1.0 code. 
+First time contributor? We’re here to help guide you through a successful contribution. We review all contributions before merging them into Challenge.Gov. If you’re unsure about anything, just ask (mailto:team@challenge.Gov).
 
-## Installation
+Before submitting a contribution, you’ll just need to create a GitHub account or sign in to your existing account.  
 
-Clone the repository.
+## Submitting bugs and issues
 
-    $ git clone https://github.com/GSA/challenges-and-prizes
-    $ cd challenges-and-prizes
+If something isn’t working the way it's supposed to:
 
-Install the Node.js dependencies.
+Email (mailto:team@Challenge.Gov) and document how to reproduce the bug. Before submitting a bug, try to recreate it and document the steps we can take to reproduce it. If you can, take screen shots to capture specific details about the bug. This helps us understand its context. We can only fix bugs that we're able to understand and reproduce.
 
-    $ npm install
+## To Contribute to fixing bugs, developing features and enhancements
 
-Build the site.
+Before submitting a contribution, you’ll just need to create a GitHub account or sign in to your existing account.  
 
-    $ npm run build
+Fork this repo into your GitHub account. Read more about forking a repo on [GitHub](https://help.github.com/articles/fork-a-repo/).
+Create a branch from `production` and name it in a way that lightly defines what you’re working on (for example, `add-styles`).
+Once you’re ready to submit a pull request, fill out the [pull request template (https://github.com/GSA/Challenge_gov/compare)
+Submit your pull request against the `main` branch. 
 
-Run the site locally.
+If the pull request is accepted, we will merge the pull request for you. 
 
-    $ npm start
+## How we prioritize
 
-Open your web browser to [localhost:4000](http://localhost:4000/) to view your
-site.
+Once you’ve submitted a contribution, we'll review the code and triage it based on the following considerations:
+1. **Severity:** What type of functionality is impacted? Is there a workaround?
+2. **Priority:** Does this align with our vision and roadmap goals?
+3. **Size:** Can we accomplish this in a 2 week sprint or will this take longer? 
 
-Run the site locally using the current API at [Challenge.gov Portal](https://github.com/GSA/Challenge_gov) hosted on port 4000
+Note: We prioritize issues that affect accessibility, user experience, and system security. 
 
-    $ npm dev
+These considerations help us decide if and when we can work on the issue. If the issue is accepted, we will schedule them for an upcoming 2-week sprint.
 
-Open your web browser to [localhost:4001](http://localhost:4001/) to view your
-site.
+## Common terms
 
-After you make changes, be sure to run the tests.
+There can be a lot of jargon when discussing how you can contribute to Challenge.Gov. We’ve included some common terms we use below.
 
-    $ npm test
-
-Note that when built by Federalist, `npm run federalist` is used instead of the
-`build` script.
-
-
-## Technologies you should be familiarize yourself with
-
-- [Jekyll](https://jekyllrb.com/docs/) - The primary site engine that builds your code and content.
-- [Front Matter](https://jekyllrb.com/docs/frontmatter) - The top of each page/post includes keywords within `--` tags. This is meta data that helps Jekyll build the site, but you can also use it to pass custom variables.
-- [U.S. Web Design System v 2.0](https://v2.designsystem.digital.gov) 
-- [Jekyll Search](https://github.com/18F/jekyll_pages_api_search/)
-
-
-## Contributing
-
-See [CONTRIBUTING](CONTRIBUTING.md) for additional information.
-
-## Public domain
-
-This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
-
-> This project is in the public domain within the United States, and copyright
-> and related rights in the work worldwide are waived through the [CC0 1.0
-> Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
->
-> All contributions to this project will be released under the CC0 dedication.
-> By submitting a pull request, you are agreeing to comply with this waiver of
-> copyright interest.
+- **Bug** - problem resulting in something not working properly or as expected.
+- **Enhancement** - a proposal to make something existing work better. 
+- **Feature request** - a proposal for something new to be added to the system. 
+- **Fork** - a copy of a repository that you manage. 
+- **Open source** - something that can be viewed, modified, and shared by anyone in the public with permissions enforced through an open source license.
+- **Pull request** - a way to notify project team members when a contributor/developer wants to merge new code changes into a main project repository. You can read more on GitHub, (https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
+- **Repository (aka repo)** - In Github, a repository contains all your projects’ files and each of their revisions. You can read more on GitHub (https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories). 
+- **Roadmap** - a summary that outlines a product’s goals, priorities, and progress over a period of time. 

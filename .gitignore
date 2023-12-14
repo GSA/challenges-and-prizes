@@ -9,3 +9,4 @@ vendor/
 _sass/.DS_Store
 .jekyll-metadata
 .jekyll-cache
+*.log
