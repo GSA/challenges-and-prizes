@@ -29,27 +29,24 @@ Challenge Chat Live Q&A</h4>
         <a href="https://gsa.zoomgov.com/webinar/register/7517023184318/WN_S1s8NwpzTROVfiXcojnfiQ" class="usa-button usa-button"><span style="color: #ffffff;">Register for the Challenge Chat</span></a>
     </div>  
   </div>
-<div class="usa-card">
+</div>
+</div>
+  </div>
+<h2 class="text-center margin-top-0">Past Events</h2>
+<div class="grid-row">
+  <div class="grid-col-12">
+    <div class="usa-card">
       <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
           </svg>
         </svg>
         <h2 class="card-title text-center" style="font-weight: 900;">December 4-7, 2023</h2>
         <h4>FDA Digital Transformation Symposium</h4>
-        <p class="card-text text-center">The FDA’s Office of Digital Transformation is hosting a symposium this winter to discuss the newly released FDA Information Technology (IT) Strategy for Fiscal Years 2024-2027.  This discussion will include details about FDA’s leadership, business objectives, and innovations, followed by two Vendor Days that focus on topics relating to FDA's IT contracts.</p>     
- <p class="card-text text-center">
-          <b>December 4-7, 2023 <br/>
-            9:00 am - 4:00 pm ET</b>
-</p>
+        <p class="card-text text-center">The FDA’s Office of Digital Transformation hosted a symposium to discuss the newly released <a href="https://www.fda.gov/about-fda/office-digital-transformation/fda-information-technology-strategy-fy-2024-fy-2027">FDA Information Technology (IT) Strategy for Fiscal Years 2024-2027</a>.  This discussion included details about FDA’s leadership, business objectives, and innovations, followed by two Vendor Days that focus on topics relating to FDA's IT contracts.</p>     
+<p>Learn more about the <a href="https://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/2023-fda-digital-transformation-symposium-12042023">FDA Digital Transformation Symposium</a></p>
         <a href="https://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/2023-fda-digital-transformation-symposium-12042023" class="usa-button usa-button"><span style="color: #ffffff;">Learn More and Register</span></a>
     </div>  
   </div>
-</div>
-</div>
-  </div>
-<h2 class="text-center margin-top-0">Past Events</h2>
-<div class="grid-row">
-  <div class="grid-col-12"> 
      <div class="usa-card">
       <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
