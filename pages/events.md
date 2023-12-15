@@ -44,7 +44,6 @@ Challenge Chat Live Q&A</h4>
         <h4>FDA Digital Transformation Symposium</h4>
         <p class="card-text text-center">The FDA’s Office of Digital Transformation hosted a symposium to discuss the newly released <a href="https://www.fda.gov/about-fda/office-digital-transformation/fda-information-technology-strategy-fy-2024-fy-2027">FDA Information Technology (IT) Strategy for Fiscal Years 2024-2027</a>.  This discussion included details about FDA’s leadership, business objectives, and innovations, followed by two Vendor Days that focus on topics relating to FDA's IT contracts.</p>     
 <p>Learn more about the <a href="https://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/2023-fda-digital-transformation-symposium-12042023">FDA Digital Transformation Symposium</a></p>
-        <a href="https://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/2023-fda-digital-transformation-symposium-12042023" class="usa-button usa-button"><span style="color: #ffffff;">Learn More and Register</span></a>
     </div>  
   </div>
      <div class="usa-card">
