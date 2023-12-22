@@ -6,7 +6,7 @@ title: Challenge.Gov FY23 Year In Review
 <h1 class="text-center mb-6 font-weight-bold">Challenge.Gov FY23 Year In Review</h1>
 <div class="row">
   <div width="80%">
-    <p>Welcome to the Challenge.Gov 2023 Year in Review. The annual data we are sharing is for the fiscal year, a common reporting period across the federal government.The data on this page is from the 2023 Fiscal Year (FY23) which began October 1, 2022 and ended September 30, 2023.</p>
+    <p>Welcome to the Challenge.Gov 2023 Year in Review. The annual data we are sharing is for the fiscal year, a common reporting period across the federal government. The data on this page is from the 2023 Fiscal Year (FY23) which began October 1, 2022 and ended September 30, 2023.</p>
     <p>This is the second Year in Review snapshot we are sharing with our community. For a quick look at what we accomplished last fiscal year check out the <a href="{{ site.baseurl }}/fy22-year-in-review/">FY22 Year in Review</a>.</p>
     <p>Since 2010, Challenge.Gov has supported federal agencies to mature and scale the use of prize competitions and crowdsourcing campaigns to advance their missions. We track data related to federal challenges and prize competitions posted on the Challenge.Gov platform and public engagement with these competitions. We share this information in the spirit of transparency to show the federal government’s collective impact bringing innovative solutions to important public problems. </p>
     <div class="usr-guide-wrap-main">
