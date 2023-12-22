@@ -17,7 +17,7 @@ This site also provides a <a href="{{ site.baseurl }}/assets/document-library/Ch
 
 U.S. government agencies constantly work to address issues that affect people, communities, and industries throughout the country and even the world. Sometimes, they need help.
 
-Since 2010, the U.S. government has run over 1,200 prize competitions - engaging public solvers ranging from students and hobbyists to small business owners and academic researchers.
+Since 2010, the U.S. government has run over 2,000 prize competitions - engaging public solvers ranging from students and hobbyists to small business owners and academic researchers.
 
 Longitude and ship navigation, Lindbergh’s transatlantic flight, even initial designs for the U.S. Capitol and White House—all were the result of open prize competitions. More recently, challenges have produced concepts for the next “lunar loo” (space toilet), an improved digital wallet user interface, protecting fish from water infrastructure, opioid detection in international mail, and “getting out the count” for the census.
 
