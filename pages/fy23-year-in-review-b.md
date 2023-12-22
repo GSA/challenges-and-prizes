@@ -57,7 +57,7 @@ title: Challenge.Gov FY23 Year In Review
         <div class="usa-card__body text-left">
           <h3 style="color:#c05600">Federal Challenges in FY23</h3>
           <hr>
-          <p>Federal challenge data includes the number, prize amount, agencies, and challenge types for the year. In FY23, the most common type of challenge were those seeking ideas from the public, indicating agencies are leveraging prize competitions as a way to lower barriers to engaging the public and tapping into new audiences.</p>
+          <p>Federal challenge data includes the number, prize amount, agencies, and challenge types for the year. In FY23, the most common type of challenge sought ideas from the public, indicating agencies are leveraging prize competitions as a way to lower barriers to engaging the public and tapping into new audiences.</p>
          <p>
                  <span style="color: #c05600; font-size: 28px;"><b>136</b></span> Prize competitions<br>
                  <span style="color: #c05600; font-size: 28px;"><b>$173,293,500</b></span> Total prize purse<br>
@@ -82,7 +82,7 @@ title: Challenge.Gov FY23 Year In Review
     <div class="tablet:grid-col"><span style="color:#c05600; font-size: 40px;"><b>17</b></span><br><img src="{{ site.baseurl }}/assets/images/doe.jpg" alt="HHS logo" width="100"><br>
                   Department of Energy</div>
     <div class="tablet:grid-col"><span style="color:#c05600; font-size: 40px;"><b>12</b></span><br><img src="{{ site.baseurl }}/assets/images/nasa.jpg" alt="HHS logo" width="100"><br>
-                  National Aeronautics and Space Agency</div>
+                  National Aeronautics and Space Administration</div>
   </div>
 </div>
           <hr>
