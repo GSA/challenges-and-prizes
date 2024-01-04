@@ -35,7 +35,7 @@ Members of the Challenge and Prize CoP gather regularly to share ideas, review b
 
 Every year Challenge.Gov tracks data related to federal challenges and prize competitions posted on the Challenge.Gov platform and public engagement with these competitions. Check out our annual Year in Review infographics for a “by the numbers” summary and what we’re looking forward to in the year to come.
 
-**Challenge.Gov FY23 Year in Review Summary and Infographic**
+**Challenge.Gov FY23 Year in Review Summary and Infographic**<br/>
 <a href="{{ site.baseurl }}/fy22-year-in-review/">**Challenge.Gov FY22 Year in Review Summary and Infographic**</a> 
 
 **Related Resources**
