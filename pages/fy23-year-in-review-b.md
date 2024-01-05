@@ -89,7 +89,7 @@ title: Challenge.Gov FY23 Year In Review
           <caption>
           <b>Primary Challenge Types</b>
           </caption><br><br>
-          <img src="{{ site.baseurl }}/assets/images/fy23-pie-graph.png" alt="" width="100%"> </div>
+          <img src="{{ site.baseurl }}/assets/images/fy23-pie-graph.png" alt="Pie-chart graph showing proportions of federal challenges by type with Ideas, Technology and Scientific as leading categories." width="100%"> </div>
       </div>
     </div>
     <div class="tablet:grid-col-6">
@@ -110,7 +110,7 @@ title: Challenge.Gov FY23 Year In Review
           <caption>
           <b>Density of Challenge.Gov Website Visitors</b>
           </caption><br><br>
-          <img src="{{ site.baseurl }}/assets/images/fy23-map.png" alt="" width="100%"><br>
+          <img src="{{ site.baseurl }}/assets/images/fy23-map.png" alt="USA map showing more website visits in most populous states." width="100%"><br>
         </div>
       </div>
       <div class="tablet:grid-col-12">
