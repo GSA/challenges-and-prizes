@@ -73,15 +73,15 @@ title: Challenge.Gov FY23 Year In Review
             </caption><br><br>
           <div class="grid-container">
   <div class="grid-row">
-    <div class="tablet:grid-col"><span style="color:#c05600; font-size: 40px;"><b>35</b></span><br><img src="{{ site.baseurl }}/assets/images/HHS_logo.jpeg" alt="HHS logo" width="100"><br>
+    <div class="tablet:grid-col"><span style="color:#c05600; font-size: 40px;"><b>35</b></span><br><img src="{{ site.baseurl }}/assets/images/HHS_logo.jpeg" alt="Department of Health and Human Services" width="100"><br>
                   Department of Health and Human Services</div>
-    <div class="tablet:grid-col"><span style="color:#c05600; font-size: 40px;"><b>28</b></span><br><img src="{{ site.baseurl }}/assets/images/dod.jpg" alt="HHS logo" width="100"><br>
+    <div class="tablet:grid-col"><span style="color:#c05600; font-size: 40px;"><b>28</b></span><br><img src="{{ site.baseurl }}/assets/images/dod.jpg" alt="Department of Defense" width="100"><br>
                   Department of Defense</div>
   </div><br>
    <div class="grid-row">
-    <div class="tablet:grid-col"><span style="color:#c05600; font-size: 40px;"><b>17</b></span><br><img src="{{ site.baseurl }}/assets/images/doe.jpg" alt="HHS logo" width="100"><br>
+    <div class="tablet:grid-col"><span style="color:#c05600; font-size: 40px;"><b>17</b></span><br><img src="{{ site.baseurl }}/assets/images/doe.jpg" alt="Department of Energy" width="100"><br>
                   Department of Energy</div>
-    <div class="tablet:grid-col"><span style="color:#c05600; font-size: 40px;"><b>12</b></span><br><img src="{{ site.baseurl }}/assets/images/nasa.jpg" alt="HHS logo" width="100"><br>
+    <div class="tablet:grid-col"><span style="color:#c05600; font-size: 40px;"><b>12</b></span><br><img src="{{ site.baseurl }}/assets/images/nasa.jpg" alt="National Aeronautics and Space Administration" width="100"><br>
                   National Aeronautics and Space Administration</div>
   </div>
 </div>
