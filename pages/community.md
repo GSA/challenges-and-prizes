@@ -31,9 +31,9 @@ Our community supports and encourages the use of incentivized competition to att
 
 Members of the Challenge and Prize CoP gather regularly to share ideas, review best practices, and discuss policies and procedures. These convenings are designed to thoughtfully serve the needs of our diverse community members. A few examples are office hours, spotlight chats, deep dives, and thematic forums. We also host a listserv for members to ask questions, announce new challenges and prizes, and more.
 
-**Challenge.Gov Year in Review**
+**Challenge.Gov FY22 Year in Review**
 
-Every year Challenge.Gov tracks data related to federal challenges and prize competitions posted on the Challenge.Gov platform and public engagement with these competitions. Check out our annual Year in Review infographics for a “by the numbers” summary and what we’re looking forward to in the year to come.
+FY22 was a big year for Challenge.Gov and the federal open innovation community. Check out our Year in Review infographic for a “by the numbers” summary and what we’re looking forward to in the year to come.
 
 <a href="{{ site.baseurl }}/fy23-year-in-review/">**Challenge.Gov FY23 Year in Review Summary and Infographic**</a><br> 
 <a href="{{ site.baseurl }}/fy22-year-in-review/">**Challenge.Gov FY22 Year in Review Summary and Infographic**</a> 
