@@ -22,7 +22,6 @@ title: Events
   </div>
 </div>
 </div>
-  </div>
 <h2 class="text-center margin-top-0">Past Events</h2>
 <div class="grid-row">
   <div class="grid-col-12">
@@ -37,6 +36,7 @@ title: Events
 Challenge Chat Live Q&A</h4>
         <p class="card-text text-center">Call for innovative and preventive solutions to human trafficking among women and girls.</p>     
         <p class="card-text text-center"> On January 18, participants met the <a href="https://www.challenge.gov/?challenge=hhs-innovation-to-prevent-human-trafficking">Innovation Challenge to Prevent Human Trafficking Among Women and Girls</a> team for a live facilitated Q&A.</p>
+        <p class="card-text text-center">Watch this <a href="https://youtu.be/2BmmTzWXooQ?si=e8zIURltryZcPVHS">short informational video</a> to learn more.</p>
      </div>  
   </div>
       <div class="usa-card">
