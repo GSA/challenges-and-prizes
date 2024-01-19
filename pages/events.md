@@ -11,6 +11,21 @@ title: Events
 </div>
 <div class="row">
   <div class="grid-row">
+    <div class="usa-card">
+      <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
+            <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
+          </svg>
+        </svg>
+        <h2 class="card-title text-center" style="font-weight: 900;">No Upcoming Events</h2>
+        <h4>Check back soon for more events from Challenge.Gov.</h4>     
+    </div>  
+  </div>
+</div>
+</div>
+  </div>
+<h2 class="text-center margin-top-0">Past Events</h2>
+<div class="grid-row">
+  <div class="grid-col-12">
     <div class="grid-col-12">
       <div class="usa-card">
       <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
@@ -29,23 +44,7 @@ Challenge Chat Live Q&A</h4>
         <a href="https://gsa.zoomgov.com/webinar/register/7517023184318/WN_S1s8NwpzTROVfiXcojnfiQ" class="usa-button usa-button"><span style="color: #ffffff;">Register for the Challenge Chat</span></a>
     </div>  
   </div>
-</div>
-</div>
-  </div>
-<h2 class="text-center margin-top-0">Past Events</h2>
-<div class="grid-row">
-  <div class="grid-col-12">
-     <div class="usa-card">
-      <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
-            <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
-          </svg>
-        </svg>
-        <h2 class="card-title text-center" style="font-weight: 900;">No Upcoming Events</h2>
-        <h4>Check back soon for more events from Challenge.Gov<br/>
-Challenge Chat Live Q&A</h4>
      
-    </div>  
-  </div>
     <div class="usa-card">
       <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
