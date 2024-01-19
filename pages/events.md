@@ -36,16 +36,10 @@ title: Events
         <h4>Innovation Challenge to Prevent Human Trafficking Among Women and Girls<br/>
 Challenge Chat Live Q&A</h4>
         <p class="card-text text-center">Call for innovative and preventive solutions to human trafficking among women and girls.</p>     
-        <p class="card-text text-center"> Join us for a live Q&A to meet the challenge team, bring your questions, and learn more.</p>
- <p class="card-text text-center">
-          <b>January 18, 2024<br/>
-            3:00 - 3:20 pm ET</b>
-</p>
-        <a href="https://gsa.zoomgov.com/webinar/register/7517023184318/WN_S1s8NwpzTROVfiXcojnfiQ" class="usa-button usa-button"><span style="color: #ffffff;">Register for the Challenge Chat</span></a>
-    </div>  
+        <p class="card-text text-center"> On January 18, participants met the <a href="https://www.challenge.gov/?challenge=hhs-innovation-to-prevent-human-trafficking">Innovation Challenge to Prevent Human Trafficking Among Women and Girls</a> team for a live facilitated Q&A.</p>
+     </div>  
   </div>
-     
-    <div class="usa-card">
+      <div class="usa-card">
       <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
           </svg>
