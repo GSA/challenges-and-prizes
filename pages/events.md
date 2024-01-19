@@ -11,6 +11,7 @@ title: Events
 </div>
 <div class="row">
   <div class="grid-row">
+    <div class="grid-col-12">
     <div class="usa-card">
       <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
@@ -20,6 +21,7 @@ title: Events
         <h4>Check back soon for more events from Challenge.Gov.</h4>     
     </div>  
   </div>
+    </div>
 </div>
 </div>
 <h2 class="text-center margin-top-0">Past Events</h2>
