@@ -17,8 +17,14 @@ title: Events
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
           </svg>
         </svg>
-        <h2 class="card-title text-center" style="font-weight: 900;">No Upcoming Events</h2>
-        <h4>Check back soon for more events from Challenge.Gov.</h4>     
+        <h2 class="card-title text-center" style="font-weight: 900;">February 22, 2024</h2>
+        <h4>Tech Hiring Professional Training and Development Program<br/>
+Challenge Chat Live Q&A
+</h4> 
+        <p><b>Spur innovation in the training and development of federal hiring professionals</b></p>
+        <p>Join us for a live Q&A to meet the challenge team, bring your questions, and learn more.</p>
+        <p>February 22, 2024<br/>
+        3:30 - 3:50 pm ET</p>
     </div>  
   </div>
     </div>
