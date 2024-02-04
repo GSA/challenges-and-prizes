@@ -23,8 +23,12 @@ Challenge Chat Live Q&A
 </h4> 
         <p><b>Spur innovation in the training and development of federal hiring professionals</b></p>
         <p>Join us for a live Q&A to meet the challenge team, bring your questions, and learn more.</p>
-        <p>February 22, 2024<br/>
-        3:30 - 3:50 pm ET</p>
+        <p class="card-text text-center">
+          <b>February 22, 2024 <br/>
+            3:30 - 3:50 pm ET</b>
+</p>
+        <a href="https://gsa.zoomgov.com/webinar/register/5217068984606/WN_ky7FVF1iQjaE1siQV3qYKw" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a>
+
     </div>  
   </div>
     </div>
