@@ -21,8 +21,8 @@ title: Events
         <h4>Tech Hiring Professional Training and Development Program<br/>
 Challenge Chat Live Q&A
 </h4> 
-        <p class="card-text text-center><b>Spur innovation in the training and development of federal hiring professionals</b></p>
-        <p class="card-text text-center>Join us for a live Q&A to meet the challenge team, bring your questions, and learn more.</p>
+        <p class="card-text text-center"><b>Spur innovation in the training and development of federal hiring professionals</b></p>
+        <p class="card-text text-center">Join us for a live Q&A to meet the challenge team, bring your questions, and learn more.</p>
         <p class="card-text text-center">
           <b>February 22, 2024 <br/>
             3:30 - 3:50 pm ET</b>
