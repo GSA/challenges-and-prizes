@@ -41,7 +41,7 @@ Challenge Chat Live Q&A
         <h4>Federal Approaches to Public Engagement with Science:<br/>
 A Spotlight Chat Featuring the Community Collaborative Rain, Hail, and Snow (CoCoRaHS) Data Explorer</h4> 
     
-        <p class="card-text text-center>The Community Collaborative Rain, Hail, and Snow (CoCoRaHS) is a community-based network of volunteers working together to measure and map precipitation. The new CoCoRaHS Data Explorer is a user-friendly online tool that provides observers and other users easy access to the 69+ million daily precipitation reports collected by volunteers. The tool uses innovative visualization products that allow anyone to explore the data. NOAA’s Office of Education supported development of the tool through the Cooperative Institute for Research in the Atmosphere at Colorado State University.
+        <p class="card-text text-center">The Community Collaborative Rain, Hail, and Snow (CoCoRaHS) is a community-based network of volunteers working together to measure and map precipitation. The new CoCoRaHS Data Explorer is a user-friendly online tool that provides observers and other users easy access to the 69+ million daily precipitation reports collected by volunteers. The tool uses innovative visualization products that allow anyone to explore the data. NOAA’s Office of Education supported development of the tool through the Cooperative Institute for Research in the Atmosphere at Colorado State University.
 </p>
         <p class="card-text text-center">
           <b>February 27, 2024 <br/>
