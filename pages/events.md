@@ -29,7 +29,7 @@ Challenge Chat Live Q&A
 </p>
         <a href="https://gsa.zoomgov.com/webinar/register/5217068984606/WN_ky7FVF1iQjaE1siQV3qYKw" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a>
 
-    </div>  
+     
   </div>
     </div>
 </div>
