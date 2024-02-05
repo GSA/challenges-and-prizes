@@ -12,26 +12,6 @@ title: Events
 <div class="row">
   <div class="grid-row">
     <div class="grid-col-12">
-    <div class="usa-card">
-      <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
-            <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
-          </svg>
-        </svg>
-        <h2 class="card-title text-center" style="font-weight: 900;">February 22, 2024</h2>
-        <h4>Tech Hiring Professional Training and Development Program<br/>
-Challenge Chat Live Q&A
-</h4> 
-        <p class="card-text text-center"><b>Spur innovation in the training and development of federal hiring professionals</b></p>
-        <p class="card-text text-center">Join us for a live Q&A to meet the challenge team, bring your questions, and learn more.</p>
-        <p class="card-text text-center">
-          <b>February 22, 2024 <br/>
-            3:30 - 3:50 pm ET</b>
-</p>
-        <a href="https://gsa.zoomgov.com/webinar/register/5217068984606/WN_ky7FVF1iQjaE1siQV3qYKw" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a>
-
-     
-  </div>
-    </div>
      <div class="usa-card">
       <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
