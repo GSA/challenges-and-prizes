@@ -7,6 +7,8 @@ title: About
 
 Welcome to Challenge.Gov - where competition delivers innovation for the public good!
 
+<img src="{{ site.baseurl }}/assets/images/video-placeholder.png" alt="overview video thumbnail">
+
 ## Our Mission
 To empower the federal government and the public to participate together in equitable forms of innovation through prize competitions.
 
