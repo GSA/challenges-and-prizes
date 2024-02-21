@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /challenge-gov-overview-video/
+permalink: /challenge-gov-why-video/
 title: Challenge.Gov Overview Video
 ---
 
