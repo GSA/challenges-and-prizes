@@ -10,35 +10,43 @@ title: Challenge.Gov Overview Video
 
 ## Video Transcript
 
-[Narrator] Do you have an idea that could help your community?
+[Narrator] Welcome to Challenge.Gov.
 
-Maybe you can help improve transportation for people with disabilities or have a new idea for how diseases could be diagnosed.
+Why should you participate in federal prize competitions?
 
-Or maybe your love for sewing could win you thousands in prizes for creating a new mask design.
+You can do it for the gold, guts, glory or good!
 
-At challenge.gov federal agencies challenge you to solve problems, rather than keeping innovation within the walls of government.
+Is it the Gold?
 
-Challenge.gov opens up problem solving to the world and you could win cash prizes for the best idea.
+You bet! Federal agencies pay out cash prizes directly to winners for brilliant innovations.
 
-From artists inspiring astronauts on their journey to space.
+The federal government awards more than a hundred million dollars each year to winners of prize competitions.
 
-To engineers capturing the energy of ocean waves to power our world.
+How about the Guts?
 
-To students with ideas to improve airline travelers experiences.
+There will be winners and losers – after all, these are competitions.
 
-You can help solve problems big and small.
+But Challenge.Gov is a place where you can take that risk. You might just win!
 
-Click on a challenge to see how you can help.
+There are dozens of opportunities on Challenge.Gov right now and more are added all the time.
 
-Work the problem on your own or form a team to share your solution.
+Seeking Glory?
 
-Your idea could stand out from the crowd.
+See how your innovation stacks up against the competition, receive recognition, and gain respect from your peers.
 
-Win big and help the greater good.
+And don't forget the Good – federal prize competitions make a difference by generating innovative ideas and solutions that improve the public good.
 
-All you need to get started is an email address.
+Prize challenges have addressed  important issues like: medical mask design, wheelchair accessibility, and enhanced testing for lead in children… to name just a few.
 
-Join us at Challenge.gov and start solving today.
+But the benefits don't stop there. In most cases, you keep your intellectual property developed in the competition.
 
-For more information, visit Challenge.Gov.
+And it can be a powerful pathway to working with the government.
+
+And here's the best part: Prize challenges are open and inclusive.
+
+Bring your diversity of thought, perspective, and ideas to catalyze true innovation.
+
+This is your chance to shine, build your professional portfolio,  win prizes, and create real impact. 
+
+So, why wait? Go to Challenge.Gov, explore all the opportunities, and find a prize  challenge that motivates and inspires you today.
 
