@@ -4,7 +4,7 @@ permalink: /challenge-gov-why-video/
 title: Challenge.Gov Overview Video
 ---
 
-# Challenge.Gov Video: Why should you participate in federal prize competitions?
+# Challenge.Gov Video: <br>Why should you participate in federal prize competitions?
 
  <div class="video video-css tablet:grid-col" style="padding-bottom: 40px; text-align: left;"><a href="https://www.youtube.com/watch?v=Z4JZPY19-ac" target="_blank"><img src="{{ site.baseurl }}/assets/images/video-placeholder.png" alt="Watch the Challenge.Gov Overview Video" width="600"></a></div>     
 
