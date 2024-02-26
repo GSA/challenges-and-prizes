@@ -48,7 +48,7 @@ A Spotlight Chat Featuring the Community Collaborative Rain, Hail, and Snow (CoC
 Challenge Chat Live Q&A
 </h4> 
         <p class="card-text text-center"><b>Spur innovation in the training and development of federal hiring professionals</b></p>
-        <p class="card-text text-center">On February 22, participants met the <a href="https://www.challenge.gov/?challenge=hitop>Tech Hiring Professional Training and Development Program</a> team for a live facilitated Q&A.</p>
+        <p class="card-text text-center">On February 22, participants met the <a href="https://www.challenge.gov/?challenge=hitop">Tech Hiring Professional Training and Development Program</a> team for a live facilitated Q&A.</p>
            
   </div>
     </div>
