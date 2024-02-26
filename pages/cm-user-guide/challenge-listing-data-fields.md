@@ -126,6 +126,13 @@ title: User Guide for Challenge Managers | Challenge Listing Data Fields
 					<p>Provide any specific instructions or entry guidelines potential solvers need to know, including any registration and submission requirements. Use the embedded text editor to format the field content.</p>
 					<strong>External submission site - Enter external website link (optional)</strong>
 					<p>Enter a website link here if you’re collecting submissions via an external website. If collecting submissions via the Challenge.Gov platform, leave this field blank.</p>
+				<strong>Attaching files to submission</strong>
+					<p>Instruct solvers to comply with the following when attaching files to your submission, note the following:      <ul>
+<li><strong>Allowed file types:</strong> .pdf, .txt, .csv, .jpg, .png, .tiff</li>
+<li><strong>Max file size:</strong> 8 MB</li>
+<li><strong>Naming:</strong> Do not add any special characters when naming your file. Use only plain text separated by spaces. Example: my file name</li>
+<li><strong>Adding more than one file:</strong> repeat steps 1-3</li>
+</ul></p>
 				</div>
 				<h3>Section 8: Resources</h3>
 				<div>
