@@ -27,8 +27,13 @@ title: User Guide for Public Solvers | Submit to a Challenge
           <li class="font-bolder"><span>Click <b>Apply for this challenge</b> button.</span></li><br>
           <li class="font-bolder"><span>If you are not already logged in, select <b>Accept and Sign-in</b> to access the Solver Portal. <a href="{{ site.baseurl }}/user-guide/create-your-account/">Need help logging in or creating a user account?</a></span></li><br>
           <li class="font-bolder"><span>Complete challenge submission form as directed. Click <b>Save draft</b> at any point to save and continue working at a later time.</span></li><br>
-          <li class="font-bolder"><span>Complete challenge submission form as directed. Select <b>Save draft</b> at any point to save and continue working at a later time.
-</span></li><br>
+          <li class="font-bolder"><span>When attaching files to your submission, note the following:
+            <ul>
+<li><strong>Allowed file types:</strong> .pdf, .txt, .csv, .jpg, .png, .tiff</li>
+<li><strong>Max file size:</strong> 8 MB</li>
+<li><strong>Naming:</strong> Do not add any special characters when naming your file. Use only plain text separated by spaces. Example: my file name</li>
+<li><strong>Adding more than one file:</strong> repeat steps 1-3</li>
+</ul></span></li><br>
           <li class="font-bolder"><span>Select the box next to <b>“I have read the rules, terms and conditions of this challenge.”</b>
 </span></li><br>
           <li class="font-bolder"><span>Select <b>Submit</b>. A window appears for you to confirm you are ready to submit. Either select <b>Cancel</b> to return to edit or <b>Submit</b> to complete your submission.
