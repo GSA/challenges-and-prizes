@@ -17,19 +17,8 @@ title: Events
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
           </svg>
         </svg>
-        <h2 class="card-title text-center" style="font-weight: 900;">February 27, 2024</h2>
-        <h4>Federal Approaches to Public Engagement with Science<br/>
-A Spotlight Chat Featuring the Community Collaborative Rain, Hail, and Snow (CoCoRaHS) Data Explorer</h4> 
-    
-        <p class="card-text text-center">The Community Collaborative Rain, Hail, and Snow (CoCoRaHS) is a community-based network of volunteers working together to measure and map precipitation. The new CoCoRaHS Data Explorer is a user-friendly online tool that provides observers and other users easy access to the 69+ million daily precipitation reports collected by volunteers. The tool uses innovative visualization products that allow anyone to explore the data. NOAA’s Office of Education supported development of the tool through the Cooperative Institute for Research in the Atmosphere at Colorado State University.
-</p>
-        <p class="card-text text-center">
-          <b>February 27, 2024 <br/>
-            3:00 - 3:45 pm ET</b>
-</p>
-        <a href="https://gsa.zoomgov.com/webinar/register/6217060429348/WN_42pBzP1dQY-MjOm9PMncTQ" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a>
-
-     
+        <h2 class="card-title text-center" style="font-weight: 900;">Stay tune for upcoming events.</h2>
+        
   </div>
     </div>
 </div>
@@ -38,6 +27,22 @@ A Spotlight Chat Featuring the Community Collaborative Rain, Hail, and Snow (CoC
 <div class="grid-row">
   <div class="grid-col-12">
     <div class="grid-col-12">
+      <div class="usa-card">
+      <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
+            <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
+          </svg>
+        </svg>
+        <h2 class="card-title text-center" style="font-weight: 900;">February 27, 2024</h2>
+        <h4>Federal Approaches to Public Engagement with Science<br/>
+A Spotlight Chat Featuring the Community Collaborative Rain, Hail, and Snow (CoCoRaHS) Data Explorer</h4> 
+    
+        <p class="card-text text-center">The Community Collaborative Rain, Hail, and Snow (CoCoRaHS) is a community-based network of volunteers working together to measure and map precipitation. The new CoCoRaHS Data Explorer is a user-friendly online tool that provides observers and other users easy access to the 69+ million daily precipitation reports collected by volunteers. The tool uses innovative visualization products that allow anyone to explore the data. NOAA’s Office of Education supported development of the tool through the Cooperative Institute for Research in the Atmosphere at Colorado State University.
+</p>
+       <p class="card-text text-center">Learn more about the <a href="https://dex.cocorahs.org/">CoCoRaHS Data Explorer.</a></p>
+
+     
+  </div>
+    </div>
        <div class="usa-card">
       <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
