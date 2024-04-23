@@ -17,7 +17,7 @@ title: Events
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
           </svg>
         </svg>
-        <h2 class="card-title text-center" style="font-weight: 900;">Stay tuned for upcoming events</h2>
+        <h2 class="card-title text-center" style="font-weight: 900;">New event</h2>
         
   </div>
     </div>
