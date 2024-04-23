@@ -12,12 +12,24 @@ title: Events
 <div class="row">
   <div class="grid-row">
     <div class="grid-col-12">
-     <div class="usa-card">
+    <div class="usa-card">
       <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
           </svg>
         </svg>
-        <h2 class="card-title text-center" style="font-weight: 900;">New event</h2>
+        <h2 class="card-title text-center" style="font-weight: 900;">May 2, 2024</h2>
+        <h4>Children and Youth Resilience Summit: Celebrating and Empowering Community-led Innovations</h4>
+        <p class="card-text text-center"> Register to join the upcoming innovators showcase highlighting the 14 finalists from the <a href="https://www.challenge.gov/?challenge=resilience">HHS Children and Youth Resilience Challenge</a>. The HHS Children and Youth Resilience Challenge - as part of the <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-biden-to-announce-strategy-to-address-our-national-mental-health-crisis-as-part-of-unity-agenda-in-his-first-state-of-the-union/">President’s Unity Agenda and Mental Health Strategy</a> - is the first-ever federal prize challenge that funds community-led, culturally-responsive innovations that promote resilience and advance mental health and well-being among children and youth, from birth to age 24. All finalists will provide brief TED Talk style presentations about their unique approach and impact. The showcase will also include special remarks from HHS senior leadership.
+</p>     
+ <p class="card-text text-center">
+          <b>May 2, 2024<br/>
+            1:30-3:00 pm ET</b>
+</p>
+        <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=6t2K1VNQgEqEmbpNlEkQ3yTrqlLovC9HrhRE-pzUz4dUREUwTFdCVkVENElZREZTMDBLQ0hXVkNZQy4u" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a></div>
+    </div>  
+  </div> 
+
+      
         
   </div>
     </div>
