@@ -28,11 +28,6 @@ title: Events
         <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=6t2K1VNQgEqEmbpNlEkQ3yTrqlLovC9HrhRE-pzUz4dUREUwTFdCVkVENElZREZTMDBLQ0hXVkNZQy4u" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a></div>
     </div>  
   </div> 
-
-      
-        
-  </div>
-    </div>
 </div>
 </div>
 <h2 class="text-center margin-top-0">Past Events</h2>
