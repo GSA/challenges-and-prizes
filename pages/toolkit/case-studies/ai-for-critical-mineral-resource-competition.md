@@ -15,9 +15,9 @@ title: Case Study - AI for Critical Mineral Resource Competition
               <!-- Feature Image -->
               <figure class="usa-caption wp-caption padding-x-0 margin-x-0">
                 <a href="{{ site.baseurl }}/assets/images/toolkit/case-studies/Critical Minerals Challenge graphic.PNG">
-                  <img src="{{ site.baseurl }}/assets/images/toolkit/case-studies/Critical Minerals Challenge graphic.PNG" alt="AI for Critical Minieral Challenge graphic">
+                  <img src="{{ site.baseurl }}/assets/images/toolkit/case-studies/Critical Minerals Challenge graphic.PNG" alt="AI for Critical Mineral Resource Competition graphic">
                 </a>
-                <figcaption class="wp-caption-text">AI for Critical Mineral Challenge Graphic</figcaption>
+                <figcaption class="wp-caption-text">AI for Critical Mineral Resource Competition Graphic</figcaption>
               </figure>
               <div style="line-height: 2.50rem;">
                 <h1 style="text-align: left;" class="margin-bottom-0">AI for Critical Mineral Resource Competition</h1>
