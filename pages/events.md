@@ -28,6 +28,25 @@ title: Events
         <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=6t2K1VNQgEqEmbpNlEkQ3yTrqlLovC9HrhRE-pzUz4dUREUwTFdCVkVENElZREZTMDBLQ0hXVkNZQy4u" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a></div>
     </div>  
   </div> 
+    <div class="usa-card">
+      <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
+            <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
+          </svg>
+        </svg>
+        <h2 class="card-title text-center" style="font-weight: 900;">May 14, 2024</h2>
+        <h4>PMA Learning Agenda: Public Participation and Community Engagement Evidence Challenge Chat</h4>
+        <p class="card-text text-center"> The Office of Management and Budget (OMB) and U.S. General Services Administration (GSA) seek a toolkit with methods and metrics to help government evaluate the effectiveness of public participation and community engagement approaches.</p>
+
+<p class="card-text text-center">Participants will craft a toolkit that agencies can use to address the question, “What Public Participation and Community Engagement (PPCE) approaches are effective in increasing reach, improving inclusivity, and promoting public involvement and trust in Federal decision-making?" The toolkit should curate and structure rigorous methods to aid agencies evaluating the effectiveness of such PPCE approaches.</p>
+
+<p class="card-text text-center">Join us for a live Q&A to meet the challenge team, bring your questions, and learn more.</p>     
+ <p class="card-text text-center">
+          <b>May 14, 2024<br/>
+            3:00 - 3:20 pm ET</b>
+</p>
+        <a href="https://gsa.zoomgov.com/webinar/register/6417144081736/WN_JcRAqle2TPKTwBWXW8a_EA" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a></div>
+    </div>  
+  </div> 
 </div>
 </div>
 <h2 class="text-center margin-top-0">Past Events</h2>
