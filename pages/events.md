@@ -44,8 +44,8 @@ title: Events
           <b>May 14, 2024<br/>
             3:00 - 3:20 pm ET</b>
 </p>
-        <a href="https://gsa.zoomgov.com/webinar/register/6417144081736/WN_JcRAqle2TPKTwBWXW8a_EA" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a></div>
-    </div>  
+        <a href="https://gsa.zoomgov.com/webinar/register/6417144081736/WN_JcRAqle2TPKTwBWXW8a_EA" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a>
+  </div>  
   </div> 
 </div>
 </div>
