@@ -1,7 +1,7 @@
 ---
-permalink: /toolkit/case-studies/ai-for-critical-mineral-resource-competition/
+permalink: /toolkit/case-studies/ai-for-critical-mineral-assessment-competition/
 layout: toolkit
-title: Case Study - AI for Critical Mineral Resource Competition
+title: Case Study - AI for Critical Mineral Assessment Competition
 ---
 <div class="grid-container padding-bottom-5">
   <div id="page-wrap" class="usa-prose">
@@ -15,12 +15,12 @@ title: Case Study - AI for Critical Mineral Resource Competition
               <!-- Feature Image -->
               <figure class="usa-caption wp-caption padding-x-0 margin-x-0">
                 <a href="{{ site.baseurl }}/assets/images/toolkit/case-studies/Critical Minerals Challenge graphic.PNG">
-                  <img src="{{ site.baseurl }}/assets/images/toolkit/case-studies/Critical Minerals Challenge graphic.PNG" alt="AI for Critical Mineral Resource Competition graphic">
+                  <img src="{{ site.baseurl }}/assets/images/toolkit/case-studies/Critical Minerals Challenge graphic.PNG" alt="AI for Critical Mineral Assessment Competition graphic">
                 </a>
-                <figcaption class="wp-caption-text">AI for Critical Mineral Resource Competition Graphic</figcaption>
+                <figcaption class="wp-caption-text">AI for Critical Mineral Assessment Competition</figcaption>
               </figure>
               <div style="line-height: 2.50rem;">
-                <h1 style="text-align: left;" class="margin-bottom-0">AI for Critical Mineral Resource Competition</h1>
+                <h1 style="text-align: left;" class="margin-bottom-0">AI for Critical Mineral Assessment Competition</h1>
 <h2>Defense Advanced Research Projects Agency and United States Geological Survey</h2>
                 <p style="font-size: x-large; text-align: left;" class="margin-top-0">Help accelerate assessments of U.S. critical mineral resources through automation </p>
                 <p>Prepared by: The MITRE Corporation and the Jet Propulsion Laboratory – Approved for Public Release; Distribution Unlimited.  Public Release Case Number 23-1117.  A portion of this document was written at the Jet Propulsion Laboratory, California Institute of Technology, under a contract with the National Aeronautics and Space Administration (80NM0018D0004).  This research was developed with funding from the Defense Advanced Research Projects Agency (DARPA). The views, opinions and/or findings expressed are those of the author and should not be interpreted as representing the official views or policies of the Department of Defense or the U.S. Government.</p>
