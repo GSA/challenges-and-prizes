@@ -45,10 +45,6 @@ title: Events
         <h4>Children and Youth Resilience Summit: Celebrating and Empowering Community-led Innovations</h4>
         <p class="card-text text-center"> The innovators showcase highlighted the 14 finalists from the <a href="https://www.challenge.gov/?challenge=resilience">HHS Children and Youth Resilience Challenge</a>. The HHS Children and Youth Resilience Challenge - as part of the <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-biden-to-announce-strategy-to-address-our-national-mental-health-crisis-as-part-of-unity-agenda-in-his-first-state-of-the-union/">President’s Unity Agenda and Mental Health Strategy</a> - is the first-ever federal prize challenge that funds community-led, culturally-responsive innovations that promote resilience and advance mental health and well-being among children and youth, from birth to age 24. All finalists provided brief TED Talk style presentations about their unique approach and impact. The showcase also included special remarks from HHS senior leadership.
 </p>     
- <p class="card-text text-center">
-          <b>May 2, 2024<br/>
-            1:30-3:00 pm ET</b>
-</p>
     </div>  
   </div> 
       <div class="usa-card">
