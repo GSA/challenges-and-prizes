@@ -17,12 +17,9 @@ title: Events
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
           </svg>
         </svg>
-      
         <h4>Stay tuned for upcoming events</h4>
-        
     </div>  
   </div> 
-    
 </div>
 </div>
 <h2 class="text-center margin-top-0">Past Events</h2>
@@ -39,7 +36,8 @@ title: Events
 </p>
   </div>  
   </div> 
-    <div class="grid-col-12"> <div class="usa-card">
+    <div class="grid-col-12"> 
+      <div class="usa-card">
       <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
           </svg>
@@ -61,9 +59,7 @@ A Spotlight Chat Featuring the Community Collaborative Rain, Hail, and Snow (CoC
     
         <p class="card-text text-center">The Community Collaborative Rain, Hail, and Snow (CoCoRaHS) is a community-based network of volunteers working together to measure and map precipitation. The new CoCoRaHS Data Explorer is a user-friendly online tool that provides observers and other users easy access to the 69+ million daily precipitation reports collected by volunteers. The tool uses innovative visualization products that allow anyone to explore the data. NOAA’s Office of Education supported development of the tool through the Cooperative Institute for Research in the Atmosphere at Colorado State University.
 </p>
-       <p class="card-text text-center">Learn more about the <a href="https://dex.cocorahs.org/">CoCoRaHS Data Explorer.</a></p>
-
-     
+       <p class="card-text text-center">Learn more about the <a href="https://dex.cocorahs.org/">CoCoRaHS Data Explorer.</a></p>   
   </div>
     </div>
        <div class="usa-card">
