@@ -176,7 +176,7 @@ Challenge Chat Live Q&A</h4>
     </svg>
     <h2 class="usa-card__heading" style="font-weight: 900;">August 8, 2023</h2>
     <h4 class="usa-card__subheading">“Making Sense of Electronic Health Record (EHR) Race and Ethnicity Data” – Top Performers</h4>
-    <p class="usa-card__text"> On August 8, participants heard from the top performers from precisionFDA’s "<a href="https://www.challenge.gov/?challenge=making-sense-of-electronic-health-record-ehr-race-and-ethnicity-data-challenge">Making Sense of Electronic Health Record (EHR) Race and Ethnicity Data</a>" Challenge. </p>
+    <p class="usa-card__text"> On August 8, participants heard from the top performers from precision FDA’s "<a href="https://www.challenge.gov/?challenge=making-sense-of-electronic-health-record-ehr-race-and-ethnicity-data-challenge">Making Sense of Electronic Health Record (EHR) Race and Ethnicity Data</a>" Challenge. </p>
   </div>
 </div>
 <div class="usa-card">
