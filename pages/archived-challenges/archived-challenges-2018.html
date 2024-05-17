@@ -1,0 +1,51 @@
+---
+permalink: /archive/2018/
+layout: default
+title: Archived Challenges - 2018
+---
+
+
+<section class="bg-base-lightest">
+    <div class="grid-container">
+            {% include archives-listing-banner.html %}
+        <div class="grid-row usa-section">
+                {% assign sorted = site.all-challenges | sort: 'submission-end' %}
+                {% for challenge in sorted %}
+                {% if challenge.status == 'closed' and challenge.submission-end contains 2018 %}
+        <div class="tablet:grid-col-6 cards">
+                <div class="card position-relative" style="min-height: 200px;">
+                    <div class="padding-x-1">
+                        <div class="archive-listing-card-logo">{% include agency-logos.html %}</div>
+                        <div>
+                        <h3 class="text-primary-dark text-bold text-uppercase margin-y-1 text-ls-1">
+                            {% if challenge.name %}
+                            {{ challenge.name }}
+                            {% else %}
+                            {{ challenge.challenge-title }}
+                            {% endif %}
+                        </h3>
+
+                  
+                        <span class="text-gray-50 padding-top-1">
+                            {% if challenge.groupName %}
+                            {{ challenge.groupName }}
+                            {% else %}
+                            {{ challenge.agency }}
+                            {% endif %}
+                        </span>
+
+ 
+                        <p><span class="text-bold">Closed On:</span> {{ challenge.submission-end }}</p>
+                    </div>
+                    </div>
+                     <div class="card__action card__action-block position-absolute"> <a href="{{ site.baseurl }}{{challenge.permalink}} " class="usa-button radius-0">View Details</a></div>
+                </div>
+        </div>
+               
+                {% endif %}
+                {% endfor %}
+               
+               
+        </div>
+    </div>
+</section>
