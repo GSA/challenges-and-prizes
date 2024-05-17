@@ -1,64 +1,4 @@
-<style>
-  .menu-title {
-    text-indent: 1em;
-    font-weight: 600;
-  }
-  .no-underline {
-    text-decoration: none !important;
-  }
-  .child-link {
-    text-indent: 2em;
-    color: #757575;
-    font-weight: 500;
-  }
-  .usa-sidenav__item a:not(.usa-current):hover {
-    background-color: #f1f1f1;
-  }
-
-  .usa-sidenav__sublist .usa-sidenav__item a.inactive-link:hover,
-  .usa-sidenav__item a.child-link.inactive-link:hover {
-    color: #004c8c !important;
-    font-weight: 400 !important;
-    text-decoration: none !important;
-  }
-
-  .usa-sidenav__sublist a:not(.usa-current),
-  .usa-sidenav__item a.child-link:not(.usa-current) {
-    color: #757575 !important;
-  }
-
-  .usa-current {
-    color: #205493 !important;
-    font-weight: 600 !important;
-  }
-
-  .usa-sidenav__item a.child-link:not(.usa-current):hover {
-    font-weight: 400 !important;
-  }
-
-  .usa-sidenav__item a[href="{{ site.baseurl }}/cm-user-guide/"]:hover {
-    color: #205493 !important;
-    font-weight: 400 !important;
-  }
-
-  .usa-sidenav__item a.menu-title:hover {
-    background-color: transparent !important;
-  }
-</style>
-
-<div class="tablet:grid-col-10 margin-bottom-4 tablet:margin-bottom-0 custom-side-navigation">
-  <nav aria-label="Side navigation,,">
-    <ul class="usa-sidenav">
-      <li class="usa-sidenav__item">
-        <a href="{{ site.baseurl }}/cm-user-guide/" title="Home" aria-label="challenge manager user guide home" class="no-underline child-link {% if page.url == '/cm-user-guide/' %}usa-current{% endif %}">Challenge Manager User Guide</a>
-      </li>
-      {% include cm_user_guide_menu.html %}
-    </ul>
-  </nav>
-</div>
-
-
-<!-- <div class="tablet:grid-col-10 margin-bottom-4 tablet:margin-bottom-0">
+<div class="tablet:grid-col-10 margin-bottom-4 tablet:margin-bottom-0">
   <nav aria-label="Side navigation,,">
     <ul class="usa-sidenav">
       <li class="usa-sidenav__item">
@@ -189,4 +129,3 @@
     </ul>
   </nav>
 </div>
- -->

@@ -4,7 +4,7 @@ permalink: /blog/
 pagination:
   enabled: true
 ---
-<div class="usa-blogs">
+
 <div id="blog" class="bg-primary-darker usa-content font-serif-lg padding-y-6">
   <div class="grid-container">
     <h1 class="text-normal text-white margin-0" style="font-family: Source Sans Pro Web,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;">News & updates on federally sponsored challenges</h1>
@@ -24,7 +24,7 @@ pagination:
         </h2>
         <div class="text-base margin-bottom-2">
           <div>
-           <p class="margin-bottom-2" style="color: #595959;">By {{ post.author }}· {{ post.date | date: '%B %d, %Y' }}</p> 
+           <p style="color: #595959;">By {{ post.author }}· {{ post.date | date: '%B %d, %Y' }}</p> 
           </div>
         </div>
         <div style="min-height: 150px;">
@@ -49,7 +49,7 @@ pagination:
         <div class="tablet:grid-col-4 text-right tablet:order-3">
           {% if paginator.next_page %}
           <a href="{{ paginator.next_page_path | prepend: site.baseurl }}"
-            class="paginate-link usa-link text-no-underline text-bold tablet:margin-top-0"
+            class="paginate-link usa-link text-no-underline text-bold tablet:margin-top-0" style="color: #595959;"
             >Next {{ paginator.per_page }} Posts &rsaquo;</a>
    
           {% endif %}
@@ -67,5 +67,4 @@ pagination:
     <!-- Sidebar -->
     {% include blog-sidenav.html %}
   </div>
-</div>
 </div>
