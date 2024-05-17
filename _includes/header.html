@@ -1,105 +1,124 @@
-<!DOCTYPE html>   
-<!--[if lt IE 9]>
-<html class="lt-ie9">
-<![endif]-->
-<!--[if gt IE 8]>
-  <!-->
-    <html lang="en"> 
-  <!--
-  <![endif]-->
-    <head>    
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--><html lang="en"><!--<![endif]-->
+  <head>
     <!-- Basic Page Needs
-      ================================================== -->
-      <meta charset="utf-8">    
-      <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
-    <!-- Mobile Specific Metas
-      ================================================== -->
-      <meta name="HandheldFriendly" content="True"> 
-      <meta name="MobileOptimized" content="320"> 
-      <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-    <!-- Title and meta description
-      ================================================== -->
-      <title>{% if page.challenge-title %}{{ page.challenge-title }} | {{ site.title }}{% elsif page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title> {% if site.branch != "master" %} 
-      <meta name="robots" content="noindex, nofollow"> {% endif %}  
-      <meta name="description" content="{{site.description}}">  
-      <meta property="og:title" content="{% if page.challenge-title %}{{ page.challenge-title }}{% elsif page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}"> 
-      <meta property="og:description" content="{% if page.tagline %}{{ page.tagline }}{% else %}{{ site.description }}{% endif %}"> 
-      <meta name="twitter:card" content="summary_large_image">
-      <meta name="twitter:site" content="@{site.twitter}"> 
-      <meta name="keywords" content="{{site.keywords}}"> 
-      <meta property="og:image" content="{% if page.card-image %}{{ page.card-image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.feature_image | prepend: site.baseurl | prepend: site.url }}{% endif %}"> 
-      <meta name="twitter:image" content="{% if page.card-image %}{{ page.card-image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.feature_image | prepend: site.baseurl | prepend: site.url }}{% endif %}"> 
-      <meta property="og:type" content="article"> 
-      <link rel="canonical" data-hr="true" href="{{site.baseurl}}/"> 
-      <meta property="og:url" data-hr="true" content="{{site.baseurl}}/"> 
-    <!-- Favicons
-      ================================================== -->
-      <!-- 128x128 -->
-      <link rel="shortcut icon" type="image/ico" href="{{site.baseurl}}/assets/uswds/img/us_flag_small.png"> 
-      <link rel="icon" type="image/png" href="{{site.baseurl}}/assets/uswds/img/us_flag_small.png"> 
-      <!-- 192x192, as recommended for Android -->
-      <link rel="icon" type="image/png" sizes="192x192" href="{{site.baseurl}}/assets/uswds/img/us_flag_small.png">
-      <!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
-      <link rel="apple-touch-icon-precomposed" href="{{site.baseurl}}/assets/uswds/img/us_flag_small.png">
-      <!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
-      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{site.baseurl}}/assets/uswds/img/us_flag_small.png">
-      <!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
-      <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{site.baseurl}}/assets/uswds/img/us_flag_small.png">
-      <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
-      <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{site.baseurl}}/assets/uswds/img/us_flag_small.png">
-    <!-- CSS
-      ================================================== -->
-      <!-- env: demo -->
-      <link rel="stylesheet" href="{{site.baseurl}}/assets/uswds/css/uswds.css"> 
-      <link rel="stylesheet" href="{{site.baseurl}}/assets/styles/styles.css">    
-    </head> 
-    <body> 
+================================================== -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  
+  
+  
 
-      <a class="usa-skipnav" href="#main-content">Skip to main content</a> 
-      <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"> 
-        <section class="usa-banner" aria-label="USA banner area"> 
-          <div class="usa-banner"> 
-            <div class="usa-accordion"> 
-              <header class="usa-banner__header">
-                <div class="usa-banner__inner"> 
-                  <div class="grid-col-auto"> 
-                    <img class="usa-banner__header-flag" src="{{site.baseurl}}/assets/uswds/img/us_flag_small.png" alt="U.S. flag"> 
-                  </div> 
-                  <div class="grid-col-fill tablet:grid-col-auto"> 
-                    <p class="usa-banner__header-text">An official website of the United States government</p> 
-                    <p class="usa-banner__header-action" aria-hidden="true">Here’s how you know</p> 
-                  </div> 
-                  <button class="usa-accordion__button usa-banner__button" aria-expanded="false" aria-controls="gov-banner"> 
-                    <span class="usa-banner__button-text">Here's how you know</span> 
-                  </button> 
-                </div> 
-              </header> 
-              <div class="usa-banner__content usa-accordion__content" id="gov-banner">  
-                <div class="grid-row grid-gap-lg"> 
-                  <div class="usa-banner__guidance tablet:grid-col-6"> 
-                    <img class="usa-banner__icon usa-media-block__img" src="{{site.baseurl}}/assets/uswds/img/icon-dot-gov.svg" alt="Dot gov"> 
-                    <div class="usa-media-block__body"> 
-                      <p> 
-                        <strong>The .gov means it’s official.</strong> 
-                        <br> 
-                        Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site. 
-                      </p> 
-                    </div> 
-                  </div> 
-                  <div class="usa-banner__guidance tablet:grid-col-6"> 
-                    <img class="usa-banner__icon usa-media-block__img" src="{{site.baseurl}}/assets/uswds/img/icon-https.svg" alt="Https"> 
-                    <div class="usa-media-block__body"> 
-                      <p> 
-                        <strong>The site is secure.</strong> 
-                        <br> 
-                        The <strong>https://</strong> ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely. 
-                      </p> 
-                    </div> 
-                  </div> 
-                </div> 
-              </div> 
-            </div> 
-          </div> 
-        </section> 
-      </div> 
-      <div class="usa-overlay"></div> 
+<!-- Mobile Specific Metas
+================================================== -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Title and meta description
+================================================== -->
+  
+
+<title>{% if page.challenge-title %}{{ page.challenge-title }} | {{ site.title }}{% elsif page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+{% if site.branch != "master" %}
+  <meta name="robots" content="noindex, nofollow">
+{% endif %}
+<meta name="description" content="{{site.description}}">
+
+ <meta property="og:title" content="{% if page.challenge-title %}{{ page.challenge-title }}{% elsif page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}">
+<meta property="og:description" content="{% if page.tagline %}{{ page.tagline }}{% else %}{{ site.description }}{% endif %}">
+
+<meta name="twitter:card" value="summary_large_image">
+<meta name="twitter:site" content="@{site.twitter}">
+<meta name="keywords" content="{{site.keywords}}">
+<meta property="og:image" content="{% if page.card-image %}{{ page.card-image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.feature_image | prepend: site.baseurl | prepend: site.url }}{% endif %}">
+<meta name="twitter:image" content="{% if page.card-image %}{{ page.card-image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.feature_image | prepend: site.baseurl | prepend: site.url }}{% endif %}">
+<meta property="og:type" content="article">
+
+<link rel="canonical" data-hr="true" href="{{site.baseurl}}/">
+<meta property="og:url" data-hr="true" content="{{site.baseurl}}/">
+
+
+
+<!-- Favicons
+================================================== -->
+  <!-- 128x128 -->
+  <link rel="shortcut icon" type="image/ico" href="{{site.baseurl}}/assets/uswds/img/us_flag_small.png">
+  <link rel="icon" type="image/png" href="{{site.baseurl}}/assets/uswds/img/us_flag_small.png">
+
+  <!-- 192x192, as recommended for Android
+  http://updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-Android
+  -->
+  <link rel="icon" type="image/png" sizes="192x192" href="{{site.baseurl}}/assets/uswds/img/us_flag_small.png">
+
+  <!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+  <link rel="apple-touch-icon-precomposed" href="{{site.baseurl}}/assets/uswds/img/us_flag_small.png">
+  <!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{site.baseurl}}/assets/uswds/img/us_flag_small.png">
+  <!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{site.baseurl}}/assets/uswds/img/us_flag_small.png">
+  <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{site.baseurl}}/assets/uswds/img/us_flag_small.png">
+
+<!-- CSS
+================================================== -->
+<!-- env: demo -->
+
+
+<link rel="stylesheet" href="{{site.baseurl}}/assets/styles/styles.css">
+<link rel="stylesheet" href="{{site.baseurl}}/assets/styles/style-2022.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+
+</head>
+<body class="page-landing-page layout-demo ">
+<a class="usa-skipnav" href="#main-content">Skip to main content</a>
+
+
+<div class="usa-banner">
+  <div class="usa-accordion">
+    <header class="usa-banner__header">
+      <div class="usa-banner__inner">
+        <div class="grid-col-auto">
+          <img class="usa-banner__header-flag" src="{{site.baseurl}}/assets/uswds/img/us_flag_small.png" alt="U.S. flag">
+        </div>
+        <div class="grid-col-fill tablet:grid-col-auto">
+          <p class="usa-banner__header-text">An official website of the United States government</p>
+          <p class="usa-banner__header-action" aria-hidden="true">Here’s how you know</p>
+        </div>
+        <button class="usa-accordion__button usa-banner__button"
+          aria-expanded="false" aria-controls="gov-banner">
+          <span class="usa-banner__button-text">Here's how you know</span>
+        </button>
+      </div>
+    </header>
+    <div class="usa-banner__content usa-accordion__content" id="gov-banner">
+      <div class="grid-row grid-gap-lg">
+        <div class="usa-banner__guidance tablet:grid-col-6">
+          <img class="usa-banner__icon usa-media-block__img" src="{{site.baseurl}}/assets/uswds/img/icon-dot-gov.svg" alt="Dot gov">
+          <div class="usa-media-block__body">
+            <p>
+              <strong>The .gov means it’s official.</strong>
+              <br>
+              Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+            </p>
+          </div>
+        </div>
+        <div class="usa-banner__guidance tablet:grid-col-6">
+          <img class="usa-banner__icon usa-media-block__img" src="{{site.baseurl}}/assets/uswds/img/icon-https.svg" alt="Https">
+          <div class="usa-media-block__body">
+            <p>
+              <strong>The site is secure.</strong>
+              <br>
+              The <strong>https://</strong> ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+  
+
+<div class="usa-overlay"></div>

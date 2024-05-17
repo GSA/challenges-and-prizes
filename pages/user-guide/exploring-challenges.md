@@ -1,113 +1,45 @@
 ---
-permalink: /user-guide/explore-active-challenges/
+permalink: /user-guide/exploring-challenges/
 layout: page
-title: User Guide for Public Solvers | Explore Active Challenges
+title: User Guide for Public Solvers
 ---
-<div class="res-sec">
-  <div class="grid-row ">
-    <div class="grid-col-12">{% include user-guide-intro.html %}</div>
-  </div>
-  <div class="grid-row grid-gap usa-typo">
-    <div class="grid-col-12 usa-padding-bottom-10 usa-padding-bottom-30 padding-x-0">
-      <div class="bg-secondary-lighter text-center">
-        <h2 class="margin-bottom-0">Explore Active Challenges</h2>
-      </div>
-    </div>
-  </div>
-  <div class="grid-row grid-gap justify-content-between">
-    <div class="grid-col-7">
-      <div class="usa-prose">
-        <p>Review challenges currently accepting public submissions.</p>
-        <ol>
-          <li class="font-normal"><span>Click the <b>Find a Challenge</b> button or scroll down to the bottom of the homepage to browse Active Challenge tiles.</span></li><br>
-          <li class="font-normal"><span>Click the challenge tile to view challenge details.<br>
-            <b>NOTE:</b> Some challenge tiles redirect to an external site which will open in a new browser tab.</span></li><br>
-            <li class="font-normal"><span>General information about the challenge appears at the top of the page.</span></li><br>
-            <li class="font-normal"><span>Click the section names in the middle of the page to view the various challenge content sections (e.g. Overview, Prizes, Rules, How to Enter).</span></li>
-          </ol>
-        </div>
-      </div>
-      <div class="grid-col-4">{% include user-guide-nav.html %} </div>
-    </div>
-  </div>
-  <style>
-    .usa-prose ol{
-      padding-left: 50px;
-      margin-top: 0;
-    }
-    .usa-prose ol ul{
-      margin-top: 0;
-    }
-    .usa-prose ul{
-      padding-left: 2rem;
-      margin-top: 0;
-      margin-bottom: 1em;
-    }
-    .usa-prose ul li{
-      max-width: 100%;
-      margin-bottom: 0;
-    }
-    .tablet\:grid-col-10 {
-      flex: 0 1 auto;
-      width: 100%;
-    }
-    .grid-container .usa-sidenav {
-      margin-left: 0;
-      margin-right: 0;
-      padding-left: 0;
-    }
-    .grid-container .usa-sidenav__sublist {
-      list-style-type: none;
-      padding-left: 0;
-      margin: 0;
-      font-size: 1rem;
-    }
-    .usa-typo {
-      font-family: Source Sans Pro Web,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
-    }
-    .menu-title {
-      text-indent: 1em;
-      font-weight: 600;
-    }
-    .no-underline {
-      text-decoration: none !important;
-    }
-    .child-link {
-      text-indent: 2em;
-      color: #757575;
-      font-weight: 500;
-    }
-    .usa-sidenav__item a:not(.usa-current):hover {
-      background-color: #f1f1f1;
-    }
+<a href="{{ site.baseurl }}/user-guide/"> << Back to User guide</a> / Exploring Challenges
 
-    .usa-sidenav__sublist .usa-sidenav__item a.inactive-link:hover,
-    .usa-sidenav__item a.child-link.inactive-link:hover {
-      color: #004c8c !important;
-      font-weight: 400 !important;
-      text-decoration: none !important;
-    }
+# Exploring Challenges
 
-    .usa-sidenav__sublist a:not(.usa-current),
-    .usa-sidenav__item a.child-link:not(.usa-current) {
-      color: #757575 !important;
-    }
+All visitors can explore challenges. No user account or log-in is required. Creating an account offers additional benefits not available to general site visitors.
 
-    .usa-current {
-      color: #205493 !important;
-      font-weight: 600 !important;
-    }
+## Explore Active Challenges
 
-    .usa-sidenav__item a.child-link:not(.usa-current):hover {
-      font-weight: 400 !important;
-    }
+**This feature allows you to review challenges that are currently accepting public submissions and identify ones of interest to you.**
 
-    .usa-sidenav__item a[href="/user-guide/"]:hover {
-      color: #205493 !important;
-      font-weight: 400 !important;
-    }
+1. Visit www.Challenge.Gov
+2. Click on the Find a Challenge button or scroll down to the bottom of the homepage to browse the Active Challenge tiles
+3. Click the challenge tile to view the challenge details page
+- NOTE:  Some challenge tiles may redirect to an external challenge site for additional information.  In these cases, the site will open in a new browser tab
+4. Review the general information that appears at the top of the challenge details page
+5. Click the section names in the middle of the page to view the various challenge content sections (e.g. Overview, Prizes, Rules, How to Enter)
 
-    /* Added CSS rule */
-    .usa-sidenav__item a.menu-title:hover {
-      background-color: transparent !important;
-    }                    </style>
+## View Archived Challenges<a name="view-archived-challenges">
+
+**This feature allows you to review challenges that are no longer open to public submissions.**
+
+1. From any Challenge.Gov page, scroll down to the footer and click “Archived challenges”at the bottom of the page
+2. Select the year you wish to look at from the “Filter by year” dropdown list
+3. Review the archived challenge tiles that appear on the page
+4. Click the challenge tile to view the challenge details page
+- NOTE:  Some challenge tiles may redirect to an external challenge site for additional information.  In these cases, the site will open in a new browser tab
+5. Review the general information that appears at the top of the challenge details page
+
+
+## Using the Search Bar to Locate a Challenge Listing<a name="using-search-bar">
+
+**This feature allows you to search the Challenge.Gov challenge listings to locate a challenge of interest.**
+
+1. From any Challenge.Gov page, locate the “search” box (white box with a looking glass icon to the right of it) in the upper right corner
+2. Enter the challenge name or keywords you wish to search for into the “search” box
+3. Click the looking glass icon
+4. Review the list of search results
+5. Click the challenge name link to access the full challenge profile
+  
+  <a href="{{ site.baseurl }}/user-guide/engaging-with-a-challenge/"> Next section: Engaging with a challenge >></a>
