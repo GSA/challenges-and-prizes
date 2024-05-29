@@ -80,7 +80,8 @@ title: Toolkit - Resources
   <h2 id="implementation-of-federal-prize-authority">Implementation of Federal Prize Authority</h2>
 
   <ul>
-    <li>Fiscal Years 2017-18 Full Report(June 2019)
+    <li><a href="https://www.whitehouse.gov/ostp/news-updates/2024/04/16/the-implementation-of-federal-prize-and-citizen-science-authority-for-fiscal-years-21-22/">Fiscal Years 2021-2022 Full Report, including appendices</a> (April 2024)
+    <li>Fiscal Years 2017-18 Full Report (June 2019)
       <ul style="margin-top: 0.25em;">
         <li><a href="{{ site.baseurl }}/assets/document-library/prize-competition-appendices-as-a-CSV.CSV">All prizes and challenges - This CSV file compiles all prizes and challenges from Appendix A and Appendix B of the report, broken down by agency, legal authority, goals, budget, results and more (this is a raw data set).</a></li>
       </ul>
