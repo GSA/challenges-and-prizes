@@ -1,7 +1,7 @@
 ---
 date: 2024/06/05
 layout: post
-permalink: /2024-06-05-FY21-22-Biennial-Report-Summary
+permalink: /blog/2024-06-05-FY21-22-Biennial-Report-Summary
 title: Celebrating Record Years in Prize Competitions and Citizen Science 
 tagline: A summary of the FY21-22 Biennial Report on the Implementation of Federal Prize and Citizen Science Authority
 excerpt: This report highlights how government agencies use prize competitions and challenges (PC&Cs) and crowdsourcing and citizen science (CCS) activities to engage with members of the public to innovate, drive scientific discovery, and solve important problems.
