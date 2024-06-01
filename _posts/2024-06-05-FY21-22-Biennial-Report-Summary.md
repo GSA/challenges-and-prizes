@@ -1,10 +1,10 @@
 ---
 date: 2024/06/05
 layout: post
-permalink: _posts/2024-06-05-FY21-22-Biennial-Report-Summary.md
-title: Why Should Government Leaders Invest in Open Innovation? 
-tagline: A podcast interview with Jarah Meador
-excerpt: Government leaders are seeing the benefits of building a culture of innovation within their agencies.
+permalink: /2024-06-05-FY21-22-Biennial-Report-Summary
+title: Celebrating Record Years in Prize Competitions and Citizen Science 
+tagline: A summary of the FY21-22 Biennial Report on the Implementation of Federal Prize and Citizen Science Authority
+excerpt: This report highlights how government agencies use prize competitions and challenges (PC&Cs) and crowdsourcing and citizen science (CCS) activities to engage with members of the public to innovate, drive scientific discovery, and solve important problems.
 author: Katherine Kempe
 image: assets/images/ChallengeGov OSTP Blog Header v2.png
 post-body-content-uploads: /assets/images/oi-podcast-sized.png
