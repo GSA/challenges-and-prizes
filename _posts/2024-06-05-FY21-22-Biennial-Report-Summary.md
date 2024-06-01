@@ -1,7 +1,7 @@
 ---
 date: 2024/06/05
 layout: post
-permalink: 
+permalink: _posts/2024-06-05-FY21-22-Biennial-Report-Summary.md
 title: Why Should Government Leaders Invest in Open Innovation? 
 tagline: A podcast interview with Jarah Meador
 excerpt: Government leaders are seeing the benefits of building a culture of innovation within their agencies.
