@@ -78,7 +78,7 @@ title: Toolkit - Resources
   </ul>
 
  <h2 id="implementation-of-federal-prize-authority">Implementation of Federal Prize Authority</h2>
-
+  <p>The America COMPETES Reauthorization Act of 2010 (COMPETES) and the American Innovation and Competitiveness Act (AICA) require the White House Office of Science and Technology Policy to produce a biennial report to Congress on the activities carried out under these authorities. This report highlights how government agencies use prize competitions and challenges (PC&Cs) and crowdsourcing and citizen science (CCS) activities to engage with members of the public to innovate, drive scientific discovery, and solve important problems. Reporting on related activities conducted under other authorities is voluntary and also included. </p>
   <ul>
     <li>Fiscal Years 2017-18 Full Report(June 2019)
       <ul style="margin-top: 0.25em;">
