@@ -97,8 +97,7 @@ title: Toolkit - Resources
     <li><a href="{{ site.baseurl }}/assets/document-library/FY2014-Implementation-Federal-Prize-Authority-Report.pdf">Fiscal Year 2014 Process Report</a> (May 2015)</li>
     <li><a href="{{ site.baseurl }}/assets/document-library/FY2013-Implementation-Federal-Prize-Authority-Report.pdf">Fiscal Year 2013 Progress Report</a> (May 2014)</li>
     <li><a href="{{ site.baseurl }}/assets/document-library/FY2012-Implementation-Federal-Prize-Authority-Report.pdf">Fiscal Year 2012 Progress Report</a> (December 2013)</li>
-    <li><a href="{{ site.baseurl }}/assets/document-library/FY2011-Implementation-Federal-Prize-Authority-Report.pdf">Initial Report from OSTP to Congress on Prizes and America COMPETES in FY2011</a> (March 2012)</li>
-  </ul>
+    <li><a href="{{ site.baseurl }}/assets/document-library/FY2011-Implementation-Federal-Prize-Authority-Report.pdf">Initial Report from OSTP to Congress on Prizes and America COMPETES in Fiscal Year 2011</a> (March 2012)</li>
 
   <h2 id="reports-and-publications-on-public-sector-prizes">Reports and Publications on Public-Sector Prizes</h2>
 
