@@ -171,7 +171,7 @@ title: Toolkit - Resources
     <li><a href="https://obamawhitehouse.archives.gov/blog/2011/12/16/new-center-excellence-fuels-prize-help-modernize-tools-patent-examination">New Center of Excellence Fuels Prize to Help Modernize Tools for Patent Examination</a> (December 2011, OSTP Blog)</li>
     <li class="margin-bottom-0"><a href="https://obamawhitehouse.archives.gov/blog/2010/12/21/congress-grants-broad-prize-authority-all-federal-agencies">Congress Grants Broad Prize Authority to All Federal Agencies</a> (December 2010, OSTP Blog)</li>
   </ul> 
-  </div>
+</div>  
   <!-- Rest of the content ends here -->
   
  
