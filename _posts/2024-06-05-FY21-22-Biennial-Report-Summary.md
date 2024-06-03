@@ -1,14 +1,14 @@
 ---
 date: 2024/06/05
 layout: post
-permalink: /blog/2024-06-05-FY21-22-Biennial-Report-Summary
+permalink: /blog/2024-06-05-FY21-22-Biennial-Report-Summary/
 title: Celebrating Record Years in Prize Competitions and Citizen Science 
 tagline: A summary of the FY21-22 Biennial Report on the Implementation of Federal Prize and Citizen Science Authority
-excerpt: This report highlights how government agencies use prize competitions and challenges (PC&Cs) and crowdsourcing and citizen science (CCS) activities to engage with members of the public to innovate, drive scientific discovery, and solve important problems.
+excerpt: Read how government agencies use prize competitions and challenges (PC&Cs) and crowdsourcing and citizen science (CCS) activities to engage with members of the public to innovate, drive scientific discovery, and solve important problems.
 author: Katherine Kempe
-image: assets/images/ChallengeGov OSTP Blog Header v2.png
-post-body-content-uploads: /assets/images/oi-podcast-sized.png
-image_alt_text: A microphone, laptop, and headphones with the title line "Why Should Government Leaders Invest in Open Innovation?"
+image: /assets/images/ChallengeGov OSTP Blog Header v2.png
+post-body-content-uploads: /assets/images/ChallengeGov OSTP Blog Header v2.png
+image_alt_text: Blog post title on blue background "Celebrating Record Years in Prize Competitions and Citizen Science"
 ---
 
 <p>The White House Office of Science and Technology Policy (OSTP) released the biennial report, Implementation of Federal Prize and Citizen Science Authority: Fiscal Years 2021 - 2022. This report highlights how government agencies use prize competitions and challenges (PC&Cs) and crowdsourcing and citizen science (CCS) activities to engage with members of the public to innovate, drive scientific discovery, and solve important problems.The America COMPETES Reauthorization Act of 2010 (COMPETES) and the American Innovation and Competitiveness Act (AICA) require OSTP to produce a biennial report to Congress on the activities carried out under these authorities. Reporting on related activities conducted under other authorities is voluntary and also included.</p>
