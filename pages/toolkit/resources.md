@@ -88,12 +88,12 @@ title: Toolkit - Resources
         <li><a href="{{ site.baseurl }}/assets/document-library/prize-competition-appendices-as-a-CSV.CSV">All prizes and challenges - This CSV file compiles all prizes and challenges from Appendix A and Appendix B of the report, broken down by agency, legal authority, goals, budget, results and more (this is a raw data set).</a></li>
       </ul>
     <li><a href="{{ site.baseurl }}/assets/document-library/FY2016-Implementation-Federal-Prize-Authority-Report-and-Appendices.pdf">Fiscal Year 2016 Progress Report, including appendices</a> (July 2017)</li>
-    <li><a href="{{ site.baseurl }}/assets/document-library/FY2015-Implementation-Federal-Prize-Authority-Report.pdf">Fiscal Year 2015 Progress Report</a> (August 2016)
+    <li><a href="{{ site.baseurl }}/assets/document-library/FY2015-Implementation-Federal-Prize-Authority-Report.pdf">Fiscal Year 2015 Progress Report</a> (August 2016) </li>
       <ul>
         <li><a href="{{ site.baseurl }}/assets/document-library/FY_2015_COMPETES_Prize_Report_Appendix_1.pdf">Appendix One: Agency Prizes and Challenges Conducted Under the America COMPETES Reauthorization Act of 2010</a></li>
         <li><a href="{{ site.baseurl }}/assets/document-library/FY_2015_COMPETES_Prize_Report_Appendix_2.pdf">Appendix Two: A Selection of Agency Prizes and Challenges Conducted Under Authorities Other Than the America COMPETES Reauthorization Act of 2010</a></li>
       </ul>
-    </li>
+   
     <li><a href="{{ site.baseurl }}/assets/document-library/FY2014-Implementation-Federal-Prize-Authority-Report.pdf">Fiscal Year 2014 Process Report</a> (May 2015)</li>
     <li><a href="{{ site.baseurl }}/assets/document-library/FY2013-Implementation-Federal-Prize-Authority-Report.pdf">Fiscal Year 2013 Progress Report</a> (May 2014)</li>
     <li><a href="{{ site.baseurl }}/assets/document-library/FY2012-Implementation-Federal-Prize-Authority-Report.pdf">Fiscal Year 2012 Progress Report</a> (December 2013)</li>
