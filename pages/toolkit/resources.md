@@ -87,7 +87,6 @@ title: Toolkit - Resources
       <ul style="margin-top: 0.25em;">
         <li><a href="{{ site.baseurl }}/assets/document-library/prize-competition-appendices-as-a-CSV.CSV">All prizes and challenges - This CSV file compiles all prizes and challenges from Appendix A and Appendix B of the report, broken down by agency, legal authority, goals, budget, results and more (this is a raw data set).</a></li>
       </ul>
-    </li>
     <li><a href="{{ site.baseurl }}/assets/document-library/FY2016-Implementation-Federal-Prize-Authority-Report-and-Appendices.pdf">Fiscal Year 2016 Progress Report, including appendices</a> (July 2017)</li>
     <li><a href="{{ site.baseurl }}/assets/document-library/FY2015-Implementation-Federal-Prize-Authority-Report.pdf">Fiscal Year 2015 Progress Report</a> (August 2016)
       <ul>
