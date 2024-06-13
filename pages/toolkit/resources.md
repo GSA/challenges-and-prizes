@@ -77,10 +77,12 @@ title: Toolkit - Resources
     <li><a href="{{ site.baseurl }}/assets/document-library/EERE_G_121.001_EERE_Prize_Guidance_0 (1).pdf">Prize Development and Execution Guidance - EERE G 121.001</a> (November 2019)</li>
   </ul>
 
-  <h2 id="implementation-of-federal-prize-authority">Implementation of Federal Prize Authority</h2>
-
+ <h2 id="implementation-of-federal-prize-authority">Implementation of Federal Prize Authority</h2>
+  <p>The America COMPETES Reauthorization Act of 2010 (COMPETES) and the American Innovation and Competitiveness Act (AICA) require the White House Office of Science and Technology Policy to produce a biennial report to Congress on the activities carried out under these authorities. This report highlights how government agencies use prize competitions and challenges (PC&Cs) and crowdsourcing and citizen science (CCS) activities to engage with members of the public to innovate, drive scientific discovery, and solve important problems. Reporting on related activities conducted under other authorities is voluntary and also included. </p>
   <ul>
-    <li>Fiscal Years 2017-18 Full Report(June 2019)
+    <li><a href="https://www.whitehouse.gov/ostp/news-updates/2024/04/16/the-implementation-of-federal-prize-and-citizen-science-authority-for-fiscal-years-21-22/">Fiscal Years 2021 -2022 Full Report with Appendices</a> (April 2024)</li>
+    <li><a href="https://www.whitehouse.gov/wp-content/uploads/2022/05/05-2022-Implementation-of-Federal-Prize-and-Citizen-Science-Authority.pdf">Fiscal Years 2019-20 Full Report with Appendices</a> (March 2022)</li>
+    <li>Fiscal Years 2017-2018 Full Report (June 2019)
       <ul style="margin-top: 0.25em;">
         <li><a href="{{ site.baseurl }}/assets/document-library/prize-competition-appendices-as-a-CSV.CSV">All prizes and challenges - This CSV file compiles all prizes and challenges from Appendix A and Appendix B of the report, broken down by agency, legal authority, goals, budget, results and more (this is a raw data set).</a></li>
       </ul>
@@ -95,7 +97,7 @@ title: Toolkit - Resources
     <li><a href="{{ site.baseurl }}/assets/document-library/FY2014-Implementation-Federal-Prize-Authority-Report.pdf">Fiscal Year 2014 Process Report</a> (May 2015)</li>
     <li><a href="{{ site.baseurl }}/assets/document-library/FY2013-Implementation-Federal-Prize-Authority-Report.pdf">Fiscal Year 2013 Progress Report</a> (May 2014)</li>
     <li><a href="{{ site.baseurl }}/assets/document-library/FY2012-Implementation-Federal-Prize-Authority-Report.pdf">Fiscal Year 2012 Progress Report</a> (December 2013)</li>
-    <li><a href="{{ site.baseurl }}/assets/document-library/FY2011-Implementation-Federal-Prize-Authority-Report.pdf">Initial Report from OSTP to Congress on Prizes and America COMPETES in FY2011</a> (March 2012)</li>
+    <li><a href="{{ site.baseurl }}/assets/document-library/FY2011-Implementation-Federal-Prize-Authority-Report.pdf">Initial Report from OSTP to Congress on Prizes and America COMPETES in Fiscal Year 2011</a> (March 2012)</li>
   </ul>
 
   <h2 id="reports-and-publications-on-public-sector-prizes">Reports and Publications on Public-Sector Prizes</h2>
@@ -168,7 +170,8 @@ title: Toolkit - Resources
     <li><a href="https://obamawhitehouse.archives.gov/blog/2013/01/25/help-nasa-power-international-space-station">Help NASA Power the International Space Station</a> (January 2013, OSTP Blog)</li>
     <li><a href="https://obamawhitehouse.archives.gov/blog/2011/12/16/new-center-excellence-fuels-prize-help-modernize-tools-patent-examination">New Center of Excellence Fuels Prize to Help Modernize Tools for Patent Examination</a> (December 2011, OSTP Blog)</li>
     <li class="margin-bottom-0"><a href="https://obamawhitehouse.archives.gov/blog/2010/12/21/congress-grants-broad-prize-authority-all-federal-agencies">Congress Grants Broad Prize Authority to All Federal Agencies</a> (December 2010, OSTP Blog)</li>
-  </ul>
+  </ul> 
+</div>  
   <!-- Rest of the content ends here -->
   
-  </div>
+ 
