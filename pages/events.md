@@ -17,17 +17,24 @@ title: Events
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
           </svg>
         </svg>
-        <h2 class="card-title text-center" style="font-weight: 900;">May 2, 2024</h2>
-        <h4>Children and Youth Resilience Summit: Celebrating and Empowering Community-led Innovations</h4>
-        <p class="card-text text-center"> Register to join the upcoming innovators showcase highlighting the 14 finalists from the <a href="https://www.challenge.gov/?challenge=resilience">HHS Children and Youth Resilience Challenge</a>. The HHS Children and Youth Resilience Challenge - as part of the <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-biden-to-announce-strategy-to-address-our-national-mental-health-crisis-as-part-of-unity-agenda-in-his-first-state-of-the-union/">President’s Unity Agenda and Mental Health Strategy</a> - is the first-ever federal prize challenge that funds community-led, culturally-responsive innovations that promote resilience and advance mental health and well-being among children and youth, from birth to age 24. All finalists will provide brief TED Talk style presentations about their unique approach and impact. The showcase will also include special remarks from HHS senior leadership.
-</p>     
+        <h2 class="card-title text-center" style="font-weight: 900;">July 9, 2024</h2>
+        <h4>Modernizing NEPA Challenge Chat</h4>
+        <p class="card-text text-center">Join us for a brief live Q&A session with the U.S. Department of Transportation's Modernizing NEPA Challenge team.</p>
+<p class="card-text text-center">The Modernizing NEPA Challenge aims to make documents associated with the National Environmental Policy Act (NEPA) more accessible and transparent to reviewing agencies and the public, while also saving time and improving document quality.</p>
+      
  <p class="card-text text-center">
-          <b>May 2, 2024<br/>
-            1:30-3:00 pm ET</b>
+          <b>July 9, 2024 <br/>
+            3:00 - 3:20 pm ET</b>
 </p>
-        <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=6t2K1VNQgEqEmbpNlEkQ3yTrqlLovC9HrhRE-pzUz4dUREUwTFdCVkVENElZREZTMDBLQ0hXVkNZQy4u" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a></div>
+        <a href="https://gsa.zoomgov.com/webinar/register/9717184097986/WN_9XGcQsjrSAyP5-kB721z4A" class="usa-button usa-button"><span style="color: #ffffff;">Register Today</span></a>
+
     </div>  
   </div> 
+</div>
+</div>
+<h2 class="text-center margin-top-0">Past Events</h2>
+<div class="grid-row">
+  <div class="grid-col-12">
     <div class="usa-card">
       <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
@@ -35,24 +42,22 @@ title: Events
         </svg>
         <h2 class="card-title text-center" style="font-weight: 900;">May 14, 2024</h2>
         <h4>PMA Learning Agenda: Public Participation and Community Engagement Evidence Challenge Chat</h4>
-        <p class="card-text text-center"> The Office of Management and Budget (OMB) and U.S. General Services Administration (GSA) seek a toolkit with methods and metrics to help government evaluate the effectiveness of public participation and community engagement approaches.</p>
-
-<p class="card-text text-center">Participants will craft a toolkit that agencies can use to address the question, “What Public Participation and Community Engagement (PPCE) approaches are effective in increasing reach, improving inclusivity, and promoting public involvement and trust in Federal decision-making?" The toolkit should curate and structure rigorous methods to aid agencies evaluating the effectiveness of such PPCE approaches.</p>
-
-<p class="card-text text-center">Join us for a live Q&A to meet the challenge team, bring your questions, and learn more.</p>     
- <p class="card-text text-center">
-          <b>May 14, 2024<br/>
-            3:00 - 3:20 pm ET</b>
+        <p class="card-text text-center"> On May 14, participants met the <a href="https://www.challenge.gov/?challenge=pmala">PMA Learning Agenda: Public Participation and Community Engagement Evidence Challenge</a> team for a live facilitated Q&A.
 </p>
-        <a href="https://gsa.zoomgov.com/webinar/register/6417144081736/WN_JcRAqle2TPKTwBWXW8a_EA" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a>
   </div>  
   </div> 
-</div>
-</div>
-<h2 class="text-center margin-top-0">Past Events</h2>
-<div class="grid-row">
-  <div class="grid-col-12">
-    <div class="grid-col-12">
+    <div class="grid-col-12"> 
+      <div class="usa-card">
+      <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
+            <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
+          </svg>
+        </svg>
+        <h2 class="card-title text-center" style="font-weight: 900;">May 2, 2024</h2>
+        <h4>Children and Youth Resilience Summit: Celebrating and Empowering Community-led Innovations</h4>
+        <p class="card-text text-center"> The innovators showcase highlighted the 14 finalists from the <a href="https://www.challenge.gov/?challenge=resilience">HHS Children and Youth Resilience Challenge</a>. The HHS Children and Youth Resilience Challenge - as part of the <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-biden-to-announce-strategy-to-address-our-national-mental-health-crisis-as-part-of-unity-agenda-in-his-first-state-of-the-union/">President’s Unity Agenda and Mental Health Strategy</a> - is the first-ever federal prize challenge that funds community-led, culturally-responsive innovations that promote resilience and advance mental health and well-being among children and youth, from birth to age 24. All finalists provided brief TED Talk style presentations about their unique approach and impact. The showcase also included special remarks from HHS senior leadership.
+</p>     
+    </div>  
+  </div> 
       <div class="usa-card">
       <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
@@ -64,9 +69,7 @@ A Spotlight Chat Featuring the Community Collaborative Rain, Hail, and Snow (CoC
     
         <p class="card-text text-center">The Community Collaborative Rain, Hail, and Snow (CoCoRaHS) is a community-based network of volunteers working together to measure and map precipitation. The new CoCoRaHS Data Explorer is a user-friendly online tool that provides observers and other users easy access to the 69+ million daily precipitation reports collected by volunteers. The tool uses innovative visualization products that allow anyone to explore the data. NOAA’s Office of Education supported development of the tool through the Cooperative Institute for Research in the Atmosphere at Colorado State University.
 </p>
-       <p class="card-text text-center">Learn more about the <a href="https://dex.cocorahs.org/">CoCoRaHS Data Explorer.</a></p>
-
-     
+       <p class="card-text text-center">Learn more about the <a href="https://dex.cocorahs.org/">CoCoRaHS Data Explorer.</a></p>   
   </div>
     </div>
        <div class="usa-card">
@@ -183,7 +186,7 @@ Challenge Chat Live Q&A</h4>
     </svg>
     <h2 class="usa-card__heading" style="font-weight: 900;">August 8, 2023</h2>
     <h4 class="usa-card__subheading">“Making Sense of Electronic Health Record (EHR) Race and Ethnicity Data” – Top Performers</h4>
-    <p class="usa-card__text"> On August 8, participants heard from the top performers from precisionFDA’s "<a href="https://www.challenge.gov/?challenge=making-sense-of-electronic-health-record-ehr-race-and-ethnicity-data-challenge">Making Sense of Electronic Health Record (EHR) Race and Ethnicity Data</a>" Challenge. </p>
+    <p class="usa-card__text"> On August 8, participants heard from the top performers from precision FDA’s "<a href="https://www.challenge.gov/?challenge=making-sense-of-electronic-health-record-ehr-race-and-ethnicity-data-challenge">Making Sense of Electronic Health Record (EHR) Race and Ethnicity Data</a>" Challenge. </p>
   </div>
 </div>
 <div class="usa-card">
