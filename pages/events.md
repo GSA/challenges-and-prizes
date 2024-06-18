@@ -17,7 +17,17 @@ title: Events
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
           </svg>
         </svg>
-        <h4>Stay tuned for upcoming events</h4>
+        <h2 class="card-title text-center" style="font-weight: 900;">July 9, 2024</h2>
+        <h4>Modernizing NEPA Challenge Chat</h4>
+        <p class="card-text text-center">Join us for a brief live Q&A session with the U.S. Department of Transportation's Modernizing NEPA Challenge team.</p>
+<p class="card-text text-center">The Modernizing NEPA Challenge aims to make documents associated with the National Environmental Policy Act (NEPA) more accessible and transparent to reviewing agencies and the public, while also saving time and improving document quality.</p>
+      
+ <p class="card-text text-center">
+          <b>July 9, 2024 <br/>
+            3:00 - 3:20 pm ET</b>
+</p>
+        <a href="https://gsa.zoomgov.com/webinar/register/9717184097986/WN_9XGcQsjrSAyP5-kB721z4A" class="usa-button usa-button"><span style="color: #ffffff;">Register Today</span></a>
+
     </div>  
   </div> 
 </div>
