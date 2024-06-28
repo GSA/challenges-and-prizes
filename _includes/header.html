@@ -19,7 +19,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
     <!-- Title and meta description
       ================================================== -->
-      <title>{% if page.challenge-title %}{{ page.challenge-title }} | {{ site.title }}{% elsif page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title> {% if site.branch != "master" %} 
+      <title>{% if page.challenge-title %}{{ page.challenge-title }} | {{ site.title }}{% elsif page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title> {% if site.branch != "production" %} 
       <meta name="robots" content="noindex, nofollow"> {% endif %}  
       <meta name="description" content="{{site.description}}">  
       <meta property="og:title" content="{% if page.challenge-title %}{{ page.challenge-title }}{% elsif page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}"> 
