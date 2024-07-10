@@ -5,8 +5,8 @@ title: Events
 ---
 <h1 class="text-center usa-margin-bottom--4 font-weight-bold">Upcoming Events</h1>
 <div class="grid-col-12">
-  <p>Public engagement is at the heart of Challenge.Gov. The Challenge.Gov program produces events to highlight specific challenges hosted on the platform and provide opportunities for members of the public to learn more about federal open innovation. Federal agencies host events to highlight their challenges and prize competitions.</p>
-  <p>Subscribe to the <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?topic_id=USGSATTS_41">Challenge.Gov News e-Newsletter</a> to stay up-to-date on events and activities. </p>
+  <p>Public engagement is at the heart of Challenge.gov. The Challenge.gov program produces events to highlight specific challenges hosted on the platform and provide opportunities for members of the public to learn more about federal open innovation. Federal agencies host events to highlight their challenges and prize competitions.</p>
+  <p>Subscribe to the <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?topic_id=USGSATTS_41">Challenge.gov News e-Newsletter</a> to stay up-to-date on events and activities. </p>
   <p>Are you a federal challenge manager with an event to share? Send an email to <a href="mailto:team@challenge.gov">team@challenge.gov.</a></p>
 </div>
 <div class="row">
@@ -17,25 +17,26 @@ title: Events
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
           </svg>
         </svg>
-        <h2 class="card-title text-center" style="font-weight: 900;">July 9, 2024</h2>
-        <h4>Modernizing NEPA Challenge Chat</h4>
-        <p class="card-text text-center">Join us for a brief live Q&A session with the U.S. Department of Transportation's Modernizing NEPA Challenge team.</p>
-<p class="card-text text-center">The Modernizing NEPA Challenge aims to make documents associated with the National Environmental Policy Act (NEPA) more accessible and transparent to reviewing agencies and the public, while also saving time and improving document quality.</p>
-      
- <p class="card-text text-center">
-          <b>July 9, 2024 <br/>
-            3:00 - 3:20 pm ET</b>
-</p>
-        <a href="https://gsa.zoomgov.com/webinar/register/9717184097986/WN_9XGcQsjrSAyP5-kB721z4A" class="usa-button usa-button"><span style="color: #ffffff;">Register Today</span></a>
-
+        <h4>Stay tuned for upcoming Challenge.gov events</h4>
     </div>  
   </div> 
+</div>
 </div>
 </div>
 <h2 class="text-center margin-top-0">Past Events</h2>
 <div class="grid-row">
   <div class="grid-col-12">
-    <div class="usa-card">
+          <div class="usa-card">
+      <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
+            <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
+          </svg>
+        </svg>
+        <h2 class="card-title text-center" style="font-weight: 900;">July 9, 2024</h2>
+        <h4>Modernizing NEPA Challenge Chat</h4>
+        <p class="card-text text-center">On July 9, participants met the <a href="https://www.challenge.gov/?challenge=modernizing-nepa-challenge">Modernizing NEPA Challenge</a> team for a live facilitated Q&A. </p>
+    </div>  
+  </div> 
+   <div class="usa-card">
       <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
           </svg>
