@@ -26,19 +26,17 @@ title: Events
 <h2 class="text-center margin-top-0">Past Events</h2>
 <div class="grid-row">
   <div class="grid-col-12">
-    <div class="usa-card">
-       <div class="usa-card">
+          <div class="usa-card">
       <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
           </svg>
         </svg>
         <h2 class="card-title text-center" style="font-weight: 900;">July 9, 2024</h2>
         <h4>Modernizing NEPA Challenge Chat</h4>
-        <p class="card-text text-center">Join us for a brief live Q&A session with the U.S. Department of Transportation's Modernizing NEPA Challenge team.</p>
-<p class="card-text text-center">On July 9, participants met the Modernizing NEPA Challenge team for a live facilitated Q&A. </p>
-
+        <p class="card-text text-center">On July 9, participants met the <a href="https://www.challenge.gov/?challenge=modernizing-nepa-challenge">Modernizing NEPA Challenge</a> team for a live facilitated Q&A. </p>
     </div>  
   </div> 
+   <div class="usa-card">
       <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
           </svg>
