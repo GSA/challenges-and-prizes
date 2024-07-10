@@ -5,8 +5,8 @@ title: Events
 ---
 <h1 class="text-center usa-margin-bottom--4 font-weight-bold">Upcoming Events</h1>
 <div class="grid-col-12">
-  <p>Public engagement is at the heart of Challenge.Gov. The Challenge.Gov program produces events to highlight specific challenges hosted on the platform and provide opportunities for members of the public to learn more about federal open innovation. Federal agencies host events to highlight their challenges and prize competitions.</p>
-  <p>Subscribe to the <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?topic_id=USGSATTS_41">Challenge.Gov News e-Newsletter</a> to stay up-to-date on events and activities. </p>
+  <p>Public engagement is at the heart of Challenge.gov. The Challenge.gov program produces events to highlight specific challenges hosted on the platform and provide opportunities for members of the public to learn more about federal open innovation. Federal agencies host events to highlight their challenges and prize competitions.</p>
+  <p>Subscribe to the <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?topic_id=USGSATTS_41">Challenge.gov News e-Newsletter</a> to stay up-to-date on events and activities. </p>
   <p>Are you a federal challenge manager with an event to share? Send an email to <a href="mailto:team@challenge.gov">team@challenge.gov.</a></p>
 </div>
 <div class="row">
