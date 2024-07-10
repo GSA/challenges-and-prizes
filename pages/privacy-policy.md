@@ -23,7 +23,7 @@ There are two kinds of cookies:
 Distinguish unique users (last for up to 2 years if you never clear your cookies)
 Throttle the request rate (last for up to 1 minute)
 
-If you do not wish to accept cookies, you can edit your browser's options to stop accepting persistent cookies or to prompt you before accepting a cookie from the websites you visit. See additional information [on disabling cookies and/or Google demographic and interests reports](https://www.usa.gov/optout-instructions).
+If you do not wish to accept cookies, you can edit your browser's options to stop accepting persistent cookies or to prompt you before accepting a cookie from the websites you visit. See additional information [on disabling cookies](https://www.usa.gov/optout-instructions){:target="_blank"}.
 
 Note: Although using persistent cookies allows us to deliver a better experience for you, this site will also work without them.
 
@@ -31,7 +31,7 @@ Note: Although using persistent cookies allows us to deliver a better experience
 
 Users are NOT required to provide any information to search, retrieve, download, filter and otherwise use the data available on Challenge.Gov. If you choose to provide us with personal information—like sending an email to Challenge.Gov to ask questions—we use that information to respond to your message, and to help get you the information you requested. We only share the information you give us with another government agency to assist in answering your questions and to better understand user needs for Challenge.Gov, or as otherwise required by law. Any email address provided in connection with your question or suggestion will not be publicly viewable on the website. Challenge.Gov never collects information or creates individual profiles for commercial marketing.
 
-In contacting Challenge.Gov with your questions and comments, you should NOT include additional personal information, especially [Social Security numbers](https://www.ssa.gov/pubs/EN-05-10002.pdf). Challenge.Gov is NOT a Privacy Act System of Record. 
+In contacting Challenge.Gov with your questions and comments, you should NOT include additional personal information, especially Social Security numbers. Challenge.Gov is NOT a Privacy Act System of Record. 
 
 
 ## Security
@@ -42,9 +42,9 @@ Unauthorized attempts to upload information or change information on GSA servers
 
 While Challenge.Gov uses social media including Facebook, Twitter, and YouTube, no personally identifiable information (PII) is sought or provided to GSA as a result of our use of these platforms. 
 
-The pages on Challenge.Gov may include hypertext links or pointers to information created and maintained by other public and private organizations. Check the [linking policy](https://www.gsa.gov/website-information/linking-policy) for more information.
+The pages on Challenge.Gov may include hypertext links or pointers to information created and maintained by other public and private organizations.
 
 For more information on privacy and security:
 
-* See [GSA's Privacy and Security Policy](https://www.gsa.gov/reference/gsa-privacy-program). 
-* [Contact us](mailto:team@challenge.gov) with questions.
+* See [GSA's Privacy and Security Policy](https://www.gsa.gov/reference/gsa-privacy-program){:target="_blank"}. 
+* [Contact us](https://www.challenge.gov/contact/) with questions.
