@@ -9,7 +9,7 @@ title: Toolkit - Resources
 
   <h2 id="white-house-office-of-management-and-budget-omb-and-government-wide-guidance">White House, Office of Management and Budget (OMB), and Government-Wide Guidance</h2>
   <ul>
-    <li><a href="https://www.congress.gov/bill/114th-congress/senate-bill/3084/text" target="_blank">American Innovation and Competitiveness Act (January 2017)</a></li>
+    <li><a href="https://www.congress.gov/bill/114th-congress/senate-bill/3084/text" target="_blank">American Innovation and Competitiveness Act</a> (January 2017)</li>
     <li><a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/assets/egov_docs/prize_authority_in_the_america_competes_reauthorization_act.pdf" target="_blank">OMB Fact Sheet and FAQ on Prize Authority in the America COMPETES Reauthorization Act</a></li>
     <li><a href="{{ site.baseurl }}/assets/document-library/Memoranda-Guidance-Use-Challenges-Prizes-Promote-Open-Government-M10-11.pdf" target="_blank">OMB Memo: Guidance on the Use of Challenges and Prizes to Promote Open Government</a> (March 2010)</li>
     <li><a href="{{ site.baseurl }}/assets/document-library/OIRA Challenge and Prizes FAQS.pdf" target="_blank">OMB Frequently Asked Questions on the Paperwork Reduction Act &amp; Prizes and Challenges</a></li>
