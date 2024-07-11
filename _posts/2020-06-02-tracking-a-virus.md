@@ -17,11 +17,11 @@ Shaman has spent nearly two decades studying the effects of atmospheric conditio
 
 But today, the New York-based professor is tracking another virus.
 
-On several weekly calls facilitated by the Centers for Disease Control and Prevention (CDC), Shaman and other researchers are discussing inference, operations forecasts and projections for COVID-19, the disease at the center of a global pandemic that has resulted in more than <a href="https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200527-covid-19-sitrep-128.pdf?sfvrsn=11720c0a_2" target="_blank" rel="noopener">349,095 deaths worldwide</a>.
+On several weekly calls facilitated by the Centers for Disease Control and Prevention (CDC), Shaman and other researchers are discussing inference, operations forecasts and projections for COVID-19, the disease at the center of a global pandemic that has resulted in more than 349,095 deaths worldwide.
 
 Shaman and his team know about infectious disease projections.
 
-In 2014, they claimed the $75,000 top prize in the <a href="https://www.challenge.gov/toolkit/case-studies/cdc-predict-the-flu/">CDC’s Predict the Influenza Season Challenge</a>. The prize competition challenged participants to develop more advanced, real-time flu forecasts to inform prevention strategies and control tactics.
+In 2014, they claimed the $75,000 top prize in the <a href="https://www.challenge.gov/toolkit/case-studies/cdc-predict-the-flu/" target="_blank">CDC’s Predict the Influenza Season Challenge</a>. The prize competition challenged participants to develop more advanced, real-time flu forecasts to inform prevention strategies and control tactics.
 
 The challenge launched in 2013, and at the time, forecasting the spread of influenza had not been considered particularly feasible in any sort of operational way, explains Matthew Biggerstaff, a research epidemiologist in the CDC’s Epidemiology and Prevention Branch, Influenza Division.
 
@@ -42,7 +42,7 @@ The challenge launched in 2013, and at the time, forecasting the spread of influ
 
 The competition allowed CDC to see which research groups were working in the space and to evaluate then-state-of-the-art concepts, he says.
 
-Just four years prior, the H1N1 influenza virus surged into a global pandemic. Between April 2009 and 2010, the <a href="https://www.cdc.gov/flu/pandemic-resources/2009-h1n1-pandemic.html" target="_blank" rel="noopener">CDC estimates</a> the respiratory condition claimed the lives of 12,469 Americans and between 151,700 and 575,400 people around the world. 
+Just four years prior, the H1N1 influenza virus surged into a global pandemic. Between April 2009 and 2010, the CDC estimates the respiratory condition claimed the lives of 12,469 Americans and between 151,700 and 575,400 people around the world. 
 
 H1N1's swift spread identified a critical gap—the ability to rapidly and accurately forecast the spread of illnesses and pandemics.
 
@@ -56,7 +56,7 @@ Today, public health officials not only are familiar with the science, mathemati
 
 Shaman’s participation provided funds to support students and personnel in his laboratory, and helped his team gain visibility for follow-on research funding from agencies including the National Institutes of Health and the Department of Defense.
 
-In fact, the CDC challenge opened the door for other competitions that followed, including the Defense Advanced Projects Research Agency (DARPA) <a href="https://www.challenge.gov/challenge/darpa-chikv-challenge/">CHIKV Challenge</a>, a $150,000 competition which sought models for the spread of the chikungunya virus.
+In fact, the CDC challenge opened the door for other competitions that followed, including the <a href="https://www.darpa.mil/about-us/timeline/chikv-challenge" target="_blank">Defense Advanced Projects Research Agency (DARPA) CHIKV Challenge</a>, a $150,000 competition which sought models for the spread of the chikungunya virus.
 
 Prize-winning University of Arizona professors Joceline Lega and Heidi Brown won that challenge for developing a mathematical model that forecasts the chikungunya infection case counts as the disease emerged.
 
