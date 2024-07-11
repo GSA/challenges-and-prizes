@@ -78,7 +78,7 @@ Dr. Koustova really encouraged us to put in the hard work of following a format 
 
 **Can you share any stories of how your winning solution has affected someone’s life for the better?**
 
-Our solution protects consumers, but we rarely get to see the fruits of our labor as we pass on our surveillance results to law enforcement and regulators to take action. That said, we are doing quite a bit of work now on fake and counterfeit COVID-19 products being sold online,(["COVID-19 scam reports, by the numbers"](https://www.consumer.ftc.gov/blog/2020/04/covid-19-scam-reports-numbers){:target="_blank"}). We know that our efforts will help address one part of this pandemic, and we hope our solution ensures that the public is not harmed or scammed at this critical time for all of us.
+Our solution protects consumers, but we rarely get to see the fruits of our labor as we pass on our surveillance results to law enforcement and regulators to take action. That said, we are doing quite a bit of work now on fake and counterfeit COVID-19 products being sold online, (["COVID-19 scam reports, by the numbers"](https://www.consumer.ftc.gov/blog/2020/04/covid-19-scam-reports-numbers){:target="_blank"}). We know that our efforts will help address one part of this pandemic, and we hope our solution ensures that the public is not harmed or scammed at this critical time for all of us.
 
 <!-- #### FUTURE -->
 <h4 id="future" class="margin-bottom-2">FUTURE</h4>
