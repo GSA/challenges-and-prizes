@@ -22,8 +22,8 @@ According to Jarah, “We are seeing an increase in appetite for open innovation
     margin-bottom: 18px;
 ">A few notable examples include:</h4>
 <p><ul>
-<li><span style="font-weight: 400;"><a href="https://www.va.gov/INNOVATIONECOSYSTEM/views/who-we-are/innovation-network.html" target="blank">The Department of Veterans Affairs’ (VA) Innovators Network</a> which brings together over 30 VA medical centers to support a cohort of Innovation Specialists to network, share knowledge, and identify areas of collaboration.</span></li>
-<li><span style="font-weight: 400;"><a href="https://www.10x.gsa.gov/" target="blank">GSA’s 10x Program</a>, an innovation sourcing program to crowdsource ideas from federal government employees and develop products to improve the public’s experience with the federal government.</span></li>
+<li><span style="font-weight: 400;"><a href="https://www.innovation.va.gov/ecosystem/views/innovators-network/innovators-network.html" target="blank">The Department of Veterans Affairs’ (VA) Innovators Network</a> which brings together over 30 VA medical centers to support a cohort of Innovation Specialists to network, share knowledge, and identify areas of collaboration.</span></li>
+<li><span style="font-weight: 400;"><a href="https://10x.gsa.gov/" target="blank">GSA’s 10x Program</a>, an innovation sourcing program to crowdsource ideas from federal government employees and develop products to improve the public’s experience with the federal government.</span></li>
 <li><span style="font-weight: 400;">GSA’s Challenge.Gov program which provides cross-agency support to build the federal government’s capacity for using prize competitions to crowdsource innovative ways to solve problems, advance research, and improve government services.</span></li>
 </ul></p>
 
