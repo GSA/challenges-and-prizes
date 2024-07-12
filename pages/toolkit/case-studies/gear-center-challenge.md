@@ -121,12 +121,4 @@ title: Case Study - GEAR Center Challenge
                <p></p>
                   <h2>Challenge Website</h2>
                 <a href="https://www.challenge.gov/?challenge=gear-center-challenge">GEAR Center Challenge</a>
-              </div>
-            </div>
-          </section>
-        </section>
-      </div>
-    </article>
-  </div>
-</div>
-</div>
+             
