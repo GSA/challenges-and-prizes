@@ -136,14 +136,7 @@ title: Case Study - DESAL Prize
                   <h2>Legal Authority</h2>
                   <p>USAID Assistance Authority</p>
                   <h2>Challenge Website</h2>
-                  <p><a href="http://www.securingwaterforfood.org">http://www.securingwaterforfood.org</a>
+                  <p><a href="http://www.securingwaterforfood.org" target="_blank">Securing Water for Food: a Grand Challange for Development</a>
                   </p>
-                </div>
-              </section>
-            </section>
-          </div>
-        </article>
-      </div>
-    </div>
-  </div>
+               
   
