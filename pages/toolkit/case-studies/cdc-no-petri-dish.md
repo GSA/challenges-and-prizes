@@ -50,7 +50,7 @@ title: Case Study - No Petri Dish
                 <h2>Legal Authority</h2>
                 <p>America COMPETES Act</p>
                 
-                </p>
+                
               </div>
             </section>
           </section>
