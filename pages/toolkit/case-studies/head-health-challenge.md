@@ -87,9 +87,7 @@ title: Case Study - Head Health Challenge III
                 <p>After the challenge, NIST and a representative from the winning team testified about its purpose and outcomes before the House Subcommittee on Research and Technology. The hearing focused on Head Health Challenge III, which provided a catalyst for broader discussion of how prize competitions can be used to successfully address national priorities in science and technology.</p>
                 <h2>Legal Authority</h2>
                 <p>America COMPETES Act</p>
-                <h2>Challenge Website</h2>
-                <p><a href="https://ninesights.ninesigma.com/web/head-health">https://ninesights.ninesigma.com/web/head-health</a>
-                </p>
+               
               </div>
             </section>
           </section>
