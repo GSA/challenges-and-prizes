@@ -107,7 +107,7 @@ title: Case Study - DESAL Prize
                   <p>In addition, the Desal Prize was featured in blog posts and articles including the Water Desalination Report. The Desal Prize staff attended conferences and webinars to further enhance communications efforts.</p>
                   <p>Communications efforts were led by the USAID Global Development Lab Office of Communications, with support from a communications contractor.</p>
                   <p><b>Area of Excellence #6: "Accept Solutions"</b></p>
-                  <p>For the Phase-2 Technological Demonstration, semifinalist teams were required to submit the following via the platform found at http://thedesalprize.net:</p>
+                  <p>For the Phase-2 Technological Demonstration, semifinalist teams were required to submit the following:</p>
                   <ul>
                     <li>Video proof of existence and functionality of the prototypes: The purpose of this requirement was to ensure that the teams were progressing to a prototyping development level that would enable them to compete at the BGNDRF.</li>
                     <li>A detailed description of the team's operational plan for testing at the BGNDRF that includes:</li>
