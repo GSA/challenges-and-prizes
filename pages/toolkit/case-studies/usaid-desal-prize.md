@@ -131,11 +131,11 @@ title: Case Study - DESAL Prize
                     <li>Over 200 local people from Alamogordo attended a public tour and interacted with the teams.</li>
                     <li>The innovators received media placement in high visibility sources including USA Today, The Boston Globe, Wired Magazine, CNBC, Bloomberg  <li>News and several media outlets locally and in the innovators' home regions.</li>
                     <li>The BGNDRF has already received several requests for innovators to utilize their end-user facility for testing due to increased visibility in the press.</li>
-                    <li>USBR and USAID were able to combine resources and funding to achieve a goal that benefits innovators and farmers in both the United States and developing countries.</li>
+                    <li>USBR and USAID were able to combine resources and funding to achieve a goal that benefits innovators and farmers in both the United States and developing countries.</li></ul>
+                 <p></p>
                   <h2>Legal Authority</h2>
                   <p>USAID Assistance Authority</p>
                   <h2>Challenge Website</h2>
-                  <p><a href="http://www.securingwaterforfood.org" target="_blank">Securing Water for Food: a Grand Challange for Development</a>
-                  </p>
+                  <p><a href="http://www.securingwaterforfood.org" target="_blank">Securing Water for Food: a Grand Challange for Development</a></p>
                
   
