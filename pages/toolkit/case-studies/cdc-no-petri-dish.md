@@ -49,8 +49,7 @@ title: Case Study - No Petri Dish
                 <p>This challenge was a success on several important levels. First, it resulted in the identification of a software solution that met an important and emerging public health need and established an important precedent for engagement, innovation and collaboration between public health and the biotech startup community.  Second, the competition elicited significant interest around the public health challenges posed by new non-culture-based clinical diagnostic assays and has helped to foster academic research around potential solutions.  And third, it has helped to establish challenge competitions and public-private partnerships as key drivers for innovation at the agency.</p>
                 <h2>Legal Authority</h2>
                 <p>America COMPETES Act</p>
-                <h2>Challenge Website</h2>
-                <p><a href="http://www.cdc.gov/amd/achievements/cidtchallenge">http://www.cdc.gov/amd/achievements/cidtchallenge</a>
+                
                 </p>
               </div>
             </section>
