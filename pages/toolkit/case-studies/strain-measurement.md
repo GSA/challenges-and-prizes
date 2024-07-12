@@ -46,10 +46,7 @@ title: Case Study - Strain Measurement
                 <p>Under the InnoCentive construct the Strain Measurement Challenge was a theoretical design challenge which requires a more detailed engineering design as part of the solution submission.  This effort was perfect for this challenge type because the team had been working on the problem for over three years when they were given the opportunity to launch it as a public competition through the InnoCentive contract.  The team was, like so many technical teams, resource constrained and had not had the opportunity to assign the level of resources required to find an internal solution to the problem.  One of the lessons learned from this challenge, however, was that CoECI needed to improve the first time challenge owner's level of time commitment required to launch an external crowdsourced competition.  It does require a resource investment, particularly in the evaluation phase.  In the end, the team members were extremely pleased with the solutions they received and stated that the solutions provided were so simple and so elegant they were surprised they had not thought of them already.</p>
                 <h2>Legal Authority</h2>
                 <p>Procurement Authority</p>
-                <h2>Challenge Website</h2>
-                <p>
-                  <a href="https://www.innocentive.com/ar/challenge/9933145">https://www.innocentive.com/ar/challenge/9933145</a>
-                </p>
+                
               </div>
             </section>
           </section>
