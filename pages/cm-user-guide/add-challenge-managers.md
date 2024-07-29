@@ -24,7 +24,7 @@ title: User Guide for Challenge Managers | Add Challenge Managers
           <li class="font-bolder"><span>The challenge manager who initially created the listing sends an email request to <a href="mailto:team@challenge.gov">team@challenge.gov</a> with following:
             <ul>
               <li>Subject Line: “Request to add additional challenge manager”</li>
-              <li>Challenge Name</li>
+              <li>Challenge Name or ID number</li>
               <li>Name of Challenge Manager to be added</li>
               <li>Email address of Challenge Manager to be added (from step 1).</li>
             </ul></span></li>
