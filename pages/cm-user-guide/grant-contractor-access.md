@@ -17,7 +17,7 @@ title: User Guide for Challenge Managers | Grant Contractor Access
   <div class="grid-row grid-gap justify-content-between">
     <div class="grid-col-7">
       <div class="usa-prose">
-       <p>As of August 2, 2024, all challenge manager accounts must be created with a .gov or .mil email address. We are not able to grant access to contractors without a government email account (.gov or .mil).</p>
+       <p>As of August 2, 2024, all challenge manager accounts must be created with a .gov or .mil email address. Contractors without a government email account (.gov or .mil) will not be granted challenge manager access.</p>
       </div>
     </div>
     <div class="grid-col-4"> {% include cm-user-guide-nav.html %} </div>
