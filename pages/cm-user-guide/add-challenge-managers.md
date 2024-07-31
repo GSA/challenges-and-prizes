@@ -17,13 +17,14 @@ title: User Guide for Challenge Managers | Add Challenge Managers
   <div class="grid-row grid-gap justify-content-between">
     <div class="grid-col-7">
       <div class="usa-prose">
-        <p>The platform supports having multiple challenge managers for a single prize competition regardless if they are from the same or a different government agency.</p>
+        <p>The platform supports having multiple challenge managers for a single prize competition regardless if they are from the same or a different government agency. Challenge managers must have a .gov or .mil email address.
+</p>
         <ol>
           <li class="font-bolder"><span>Have the person who needs to be added create a Challenge.Gov Challenge Manager account.</span></li>
           <li class="font-bolder"><span>The challenge manager who initially created the listing sends an email request to <a href="mailto:team@challenge.gov">team@challenge.gov</a> with following:
             <ul>
               <li>Subject Line: “Request to add additional challenge manager”</li>
-              <li>Challenge Name</li>
+              <li>Challenge Name or ID number</li>
               <li>Name of Challenge Manager to be added</li>
               <li>Email address of Challenge Manager to be added (from step 1).</li>
             </ul></span></li>
