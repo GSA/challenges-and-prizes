@@ -4,6 +4,7 @@ layout: post
 permalink: /blog/2024-08-12-whats-in-a-name/
 title: What’s in a prize challenge name? 
 tagline: Considerations for naming your prize challenge
+excerpt: A summary of July 2024 Challenge & Prize Community Office Hour discussion on naming prize challenges.
 author: Katherine Kempe
 image: /assets/images/Challenge and Prize Community Office Hours Banner.png
 post-body-content-uploads: /assets/images/Challenge and Prize Community Office Hours Banner.png
