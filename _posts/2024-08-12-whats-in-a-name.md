@@ -1,5 +1,5 @@
 ---
-date: 2024/08/12
+date: 2024/08/08
 layout: post
 permalink: /blog/2024-08-12-whats-in-a-name/
 title: What’s in a prize challenge name? 
