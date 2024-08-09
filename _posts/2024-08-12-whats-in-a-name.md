@@ -5,8 +5,8 @@ permalink: /blog/2024-08-12-whats-in-a-name/
 title: What’s in a prize challenge name? 
 tagline: Considerations for naming your prize challenge
 author: Katherine Kempe
-image: /assets/images/ChallengeGov OSTP Blog Header v2.png
-post-body-content-uploads: /assets/images/ChallengeGov OSTP Blog Header v2.png
+image: /assets/images/Challenge and Prize Community Office Hours Banner.png
+post-body-content-uploads: /assets/images/Challenge and Prize Community Office Hours Banner.png
 image_alt_text: Blog post title on blue background "Celebrating Record Years in Prize Competitions and Citizen Science"
 ---
 
