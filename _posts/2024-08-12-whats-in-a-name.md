@@ -8,7 +8,7 @@ excerpt: A summary of July 2024 Challenge & Prize Community Office Hour discussi
 author: Katherine Kempe
 image: /assets/images/Challenge and Prize Community Office Hours Banner.png
 post-body-content-uploads: /assets/images/Challenge and Prize Community Office Hours Banner.png
-image_alt_text: Blog post title on blue background "Celebrating Record Years in Prize Competitions and Citizen Science"
+image_alt_text: White text on blue background Challenge.gov Challenge and Prize Community Office Hours 4th Wednesday of each month 12 PM ET
 ---
 
 <p>If you scroll through the archives of Challenge.gov, you will find prize competitions with a variety of naming conventions. Some agencies go with the simple and straightforward like the DOJ Data Challenge. Some go with memorable puns like Tick Tick Bloom: Harmful Algal Bloom Detection Challenge. And yet others align with a consistent branding strategy like the xTech challenges. There’s no right or wrong way to name a Challenge, but we wanted to know: what’s in a prize challenge name?</p> 
