@@ -2,7 +2,7 @@
   <div class="border-top-1 border-accent-cool-darker padding-top-2 margin-bottom-4 usa-prose">
     <h3 class="margin-bottom-0" style="color:#112f4e;">Recent Posts</h3>
     <ul class="usa-list usa-list--unstyled padding-top-2">
-      {% for post in site.posts limit:6 %}
+      {% for post in site.posts limit:10 %}
       <li class="padding-bottom-1 margin-bottom-0">
         <a class="usa-link" href="{{site.baseurl}}{{post.url}}">
           {{ post.title }}
