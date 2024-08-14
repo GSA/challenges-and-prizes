@@ -21,7 +21,7 @@ title: Events
         <h4>Federal Innovation Through Prize Competitions: <br/>
           U.S. Department of Energy's American-Made Program
 </h4>
-         <p class="card-text text-center"> <b></b>Join us for an exclusive insider's look at energy innovation</b></p>
+         <p class="card-text text-center"> <b>Join us for an exclusive insider's look at energy innovation</b></p>
         <p class="card-text text-center"> Discover how the U.S. Department of Energy (DOE) is revolutionizing problem-solving through prize competitions. In this one-hour webinar, you'll hear directly from the DOE Prize Competition Community of Practice members and American Made Challenges team.
 </p>
 <p class="card-text text-center">In this session you'll learn about the strategic role of prize competitions in DOE's innovation strategy, valuable lessons for other federal agencies, and how YOU can be part of groundbreaking energy solutions. </p>
