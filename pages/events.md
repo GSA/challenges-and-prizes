@@ -13,8 +13,6 @@ title: Events
   <div class="grid-row">
     <div class="grid-col-12">
     <div class="usa-card">
-       
-       <div class="usa-card">
       <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
           </svg>
@@ -32,17 +30,14 @@ title: Events
 <li>How YOU can be part of groundbreaking energy solutions.</li>
   </ul>
  </p>
-      
  <p class="card-text text-center">
           <b>Tuesday, September 17 <br/>
             2:00 - 3:00 pm ET</b>
 </p>
 <p>Don't miss this chance to learn from industry leaders and help shape the future of energy technology.</p>
         <a href="https://gsa.zoomgov.com/webinar/register/5717232379327/WN_7NB4r_A2T6Sj9M0XAtkpww" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a>
-
     </div>  
   </div> 
-
 </div>
 </div>
 </div>
