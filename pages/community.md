@@ -15,8 +15,6 @@ If you answered yes to any of these questions, the Challenge and Prize Community
 >
 > - To join, <a href="mailto: challenges-subscribe-request@listserv.gsa.gov">email a request to</a> at challenges-subscribe-request@listserv.gsa.gov with nothing in the subject.
 > - Community Manager: <a href="https://digital.gov/authors/jarah-meador/">Jarah Meador, GSA</a>
-> - <a href="https://digital.gov/communities/manage-your-subscription">Manage your Listserv subscription</a>
-> - <a href="https://digital.gov/communities/manage-your-subscription/#access-the-listserv-archive">Access the Listserv archive</a>
                
 
 **Who We Are**
