@@ -17,7 +17,20 @@ title: Events
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
           </svg>
         </svg>
-        <h4>Stay tuned for upcoming Challenge.gov events</h4>
+        <h2 class="card-title text-center" style="font-weight: 900;">September 17, 2024</h2>
+        <h4>Federal Innovation Through Prize Competitions: <br/>
+          U.S. Department of Energy's American-Made Program
+</h4>
+         <p class="card-text text-center"> <b>Join us for an exclusive insider's look at energy innovation</b></p>
+        <p class="card-text text-center"> Discover how the U.S. Department of Energy (DOE) is revolutionizing problem-solving through prize competitions. In this one-hour webinar, you'll hear directly from the DOE Prize Competition Community of Practice members and American Made Challenges team.
+</p>
+<p class="card-text text-center">In this session you'll learn about the strategic role of prize competitions in DOE's innovation strategy, valuable lessons for other federal agencies, and how YOU can be part of groundbreaking energy solutions. </p>
+ <p class="card-text text-center">
+          <b>Tuesday, September 17 <br/>
+            2:00 - 3:00 pm ET</b>
+</p>
+<p>Don't miss this chance to learn from industry leaders and help shape the future of energy technology.</p>
+        <a href="https://gsa.zoomgov.com/webinar/register/5717232379327/WN_7NB4r_A2T6Sj9M0XAtkpww" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a>
     </div>  
   </div> 
 </div>
