@@ -55,9 +55,7 @@ title: Case Study - Nutrient Sensor Challenge
                 <p>The first event held by the challenge was the Nutrient Sensor Challenge Summit in August 2015. This was an opportunity for the 29 registered teams to convene to discuss, learn, network and demonstrate their abilities. The summit served as a great meeting point of the technology developers and the users. The market efforts were emphasized and networking was encouraged among the attendees. Following the summit, no-risk beta testing began. This phase of testing was an opportunity for the teams to take advantage of no-cost, no-risk laboratory and field testing as an important milestone towards final verification testing in 2016. Final verification testing began in May 2016 and will be held in aquatic ecosystems in three locations – Hawaii, Michigan and Maryland.</p>
                 <h2>Legal Authority</h2>
                 <p>EPA Authority – Clean Water Act</p>
-                <h2>Challenge Website</h2>
-                <p><a href="http://www.nutrients-challenge.org">www.nutrients-challenge.org</a>
-                </p>
+                
               </div>
             </section>
           </section>
