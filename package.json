@@ -42,8 +42,7 @@
     "postcss-csso": "^5.0.1",
     "sass": "^1.50.0",
     "snyk": "^1.1064.0",
-    "uswds": "^2.14.0",
-    "uswds-gulp": "github:uswds/uswds-gulp"
+    "uswds": "^2.14.0"
   },
   "dependencies": {
     "lodash": "^4.17.21"
