@@ -105,10 +105,22 @@
 {% endif %}
 <script>
   // Explore challenges button scroll to active challenges section of react app
-  document.getElementById("js-explore-challenges").addEventListener("click", function(e) {
-    var scrollTarget = document.getElementById(e.target.getAttribute("data-anchor"))
-    scrollTarget.scrollIntoView()
-  })
+  document.addEventListener("DOMContentLoaded", function() {
+    var exploreChallengesElement = document.getElementById("js-explore-challenges");
+  
+    if (exploreChallengesElement) {
+      exploreChallengesElement.addEventListener("click", function(e) {
+        var scrollTarget = document.getElementById(e.target.getAttribute("data-anchor"));
+        if (scrollTarget) {
+          scrollTarget.scrollIntoView();
+        } else {
+          console.error("Scroll target not found.");
+        }
+      });
+    } else {
+      console.error("Element with ID 'js-explore-challenges' not found.");
+    }
+  });
 
   // Footer archived challenges link to scroll to top of page
   document.getElementById("js-archived-challenges").addEventListener("click", function(e) {
