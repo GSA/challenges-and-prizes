@@ -113,12 +113,8 @@
         var scrollTarget = document.getElementById(e.target.getAttribute("data-anchor"));
         if (scrollTarget) {
           scrollTarget.scrollIntoView();
-        } else {
-          console.error("Scroll target not found.");
         }
       });
-    } else {
-      console.error("Element with ID 'js-explore-challenges' not found.");
     }
   });
 
