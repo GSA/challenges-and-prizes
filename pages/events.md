@@ -39,6 +39,20 @@ title: Events
 <h2 class="text-center margin-top-0">Past Events</h2>
 <div class="grid-row">
   <div class="grid-col-12">
+      <div class="usa-card">
+      <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
+            <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
+          </svg>
+        </svg>
+        <h2 class="card-title text-center" style="font-weight: 900;">September 17, 2024</h2>
+        <h4>Federal Innovation Through Prize Competitions: <br/>
+          U.S. Department of Energy's American-Made Program
+</h4>
+                <p class="card-text text-center">As the first in our series on Federal Innovation Through Prize Competitions, leaders from the U.S. Department of Energy (DOE) American-Made Program and DOE Prize Competition Community of practice shared how they are revolutionizing problem-solving through prize competitions.  
+</p>
+<p class="card-text text-center">In this session, participants learned about the strategic role of prize competitions in DOE's innovation strategy, valuable lessons for other federal agencies, and how members of the public can be part of roundbreaking energy solutions. </p>
+    </div>  
+  </div> 
           <div class="usa-card">
       <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
