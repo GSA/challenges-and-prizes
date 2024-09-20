@@ -11,7 +11,7 @@ post-body-content-uploads: /assets/images/Challenge and Prize Community Office H
 image_alt_text: White text on blue background Challenge.gov Challenge and Prize Community Office Hours 4th Wednesday of each month 12 PM ET
 ---
 
-<p>Does your agency have a prize challenge directive? If not, you might consider bringing this best practice to your agency. Directives are official policy determinations for how you do things at your agency. Some federal agencies have adopted this practice to give employees a better understanding of the requirements for the use of prize competitions and challenges. Here’s one from USDA as an example.</p> 
+<p>Does your agency have a prize challenge directive? If not, you might consider bringing this best practice to your agency. Directives are official policy determinations for how you do things at your agency. Some federal agencies have adopted this practice to give employees a better understanding of the requirements for the use of prize competitions and challenges. Here’s <a href="https://www.usda.gov/directives/dr-2405-001">one from USDA</a> as an example.</p> 
 
 <p>At the August 2024 Challenge and Prize Community Office Hours, we heard from representatives from various agencies on their approaches to agency directives. Jarah Meador, Director of Challenge.gov shared advice from her experience working with the General Services Administration (GSA) on drafting an agency directive. “Look at other agencies' directives and recycle heavily from those to craft one for your agency. The goal is to have reproducible language across the federal government for how agencies interpret the America COMPETES Act,” said Meador.</p>
 
@@ -23,4 +23,4 @@ image_alt_text: White text on blue background Challenge.gov Challenge and Prize 
 
 <p>Starting a prize challenge or competition from scratch can be a daunting task. An agency directive takes out the mystery and gives you the guard rails for planning and executing one within your agency.  If you’re thinking of creating an agency directive, reach out to the Challenge and Prize Community for ideas.</p> 
  
-<p>Office Hours are for Federal challenge managers, the Challenge & Prize Community of Practice, and other federal employees interested in learning more about prize competitions. They are held on the 4th Wednesday of the month at 12 pm ET via Zoom.gov. <a href="https://gsa.zoomgov.com/meeting/register/vJIscOuurjkuGRsY2rziMZDcn5cGAVax8XM#/registration">Register here.</a></p>
+<p><em>Office Hours are for Federal challenge managers, the Challenge & Prize Community of Practice, and other federal employees interested in learning more about prize competitions. They are held on the 4th Wednesday of the month at 12 pm ET via Zoom.gov. <a href="https://gsa.zoomgov.com/meeting/register/vJIscOuurjkuGRsY2rziMZDcn5cGAVax8XM#/registration">Register here.</a></em></p>
