@@ -2,8 +2,8 @@
 date: 2024/09/20
 layout: post
 permalink: /blog/2024-09-20-agency-directives-on-prize-competitions/
-title: August 2024 Office Hours Summary
-tagline: How agency directives support running prize competitions
+title: Agency Directives on Prize Competitions
+tagline: What are agency directives? How do they help you to run a prize competition?
 excerpt: A summary of August 2024 Challenge & Prize Community Office Hour discussion on agency directives.
 author: Quinn Slayton
 image: /assets/images/Challenge and Prize Community Office Hours Banner.png
