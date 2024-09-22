@@ -21,6 +21,6 @@ image_alt_text: White text on blue background Challenge.gov Challenge and Prize 
 
 <p>We also heard from a colleague from National Institutes of Health (NIH) on their approach. As a part of the Department of Health and Human Services (HHS), NIH receives broad guidance on prize competitions from HHS. Additionally, NIH has a designated challenge manager at each of the 27 institutes to help the people in their operating unit interpret the challenge policy, design and run challenges, and file the required reporting.</p>  
 
-<p>Starting a prize challenge or competition from scratch can be a daunting task. An agency directive takes out the mystery and gives you the guard rails for planning and executing one within your agency.  If you’re thinking of creating an agency directive, reach out to the Challenge and Prize Community for ideas.</p> 
+<p>Starting a prize challenge or competition from scratch can be a daunting task. An agency directive takes out the mystery and gives you the guard rails for planning and executing a prize competition at your agency. If you’re thinking of creating an agency directive, reach out to the Challenge and Prize Community for ideas.</p> 
  
 <p><em>Office Hours are for Federal challenge managers, the Challenge & Prize Community of Practice, and other federal employees interested in learning more about prize competitions. They are held on the 4th Wednesday of the month at 12 pm ET via Zoom.gov. <a href="https://gsa.zoomgov.com/meeting/register/vJIscOuurjkuGRsY2rziMZDcn5cGAVax8XM#/registration">Register here.</a></em></p>
