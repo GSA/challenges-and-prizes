@@ -22,8 +22,7 @@ title: Events
          <p class="card-text text-center"> <b>Discover How Federal Agencies are Using Prize Competitions to Drive Innovation and Solve Problems</b></p>
         <p class="card-text text-center"> Join Challenge.gov for a webinar series exploring how key federal agencies are using prize competitions to drive innovation, solve national challenges, and advance critical initiatives. Each session will highlight a different agency and their approaches to designing, delivering, and scaling prize competitions to advance their agency’s mission.
 </p>
-<p class="card-text text-center"><b>Department of Energy</b>, September 17 (past)<br/>
-<b>National Institutes of Health</b>, October 9, 3:00 - 4:00 pm ET<br/>
+<p class="card-text text-center"><b>National Institutes of Health</b>, October 9, 3:00 - 4:00 pm ET<br/>
 <b>U.S. Agency for International Development</b>, November 7, 3:00 - 4:00 pm ET <br/>
 <b>National Aeronautics and Space Administration</b>, December 11, 3:00 - 4:00 pm ET</p>
 
