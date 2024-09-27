@@ -63,7 +63,7 @@ title: Resources
         </svg>
         <h2 class="usa-card__heading text-center">Blog</h2> 
         <p class="usa-card__text text-center">Read great articles from our Blog!</p> 
-        <a href="{{ site.baseurl }}/blog/2024-08-12-whats-in-a-name/" class="usa-button usa-button margin-bottom-0"><span style="color: #ffffff;">Read blog</span></a>         
+        <a href="{{ site.baseurl }}/blog/2024-09-20-agency-directives-on-prize-competitions/" class="usa-button usa-button margin-bottom-0"><span style="color: #ffffff;">Read blog</span></a>         
       </div> 
     </div> 
   </div> 
