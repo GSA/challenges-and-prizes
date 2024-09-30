@@ -44,7 +44,10 @@
     "snyk": "^1.1064.0",
     "uswds": "^2.14.0"
   },
+  "resolutions": {
+  },
   "dependencies": {
+    "chokidar": "^4.0.1",
     "lodash": "^4.17.21"
   }
 }
