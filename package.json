@@ -38,8 +38,8 @@
     "gulp-svg-sprite": "2.0.3",
     "pa11y-ci": "^3.1.0",
     "path": "^0.12.7",
-    "postcss": "^8.4.12",
-    "postcss-csso": "^5.0.1",
+    "postcss": "^8.4.47",
+    "postcss-csso": "^6.0.1",
     "sass": "^1.50.0",
     "snyk": "^1.1064.0",
     "uswds": "^2.14.0"
