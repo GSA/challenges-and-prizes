@@ -44,7 +44,8 @@
     "snyk": "^1.1064.0",
     "uswds": "^2.14.0"
   },
-  "resolutions": {
+  "overrides": {
+    "semver": "^7.5.2"
   },
   "dependencies": {
     "chokidar": "^4.0.1",
