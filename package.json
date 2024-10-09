@@ -29,7 +29,7 @@
     "cssnano": "^5.1.7",
     "del": "^6.0.0",
     "gulp": "5.0.0",
-    "gulp-notify": "^4.0.0",
+    "gulp-notify": "^5.0.0",
     "gulp-postcss": "^10.0.0",
     "gulp-rename": "^2.0.0",
     "gulp-replace": "^1.1.4",
@@ -38,13 +38,17 @@
     "gulp-svg-sprite": "2.0.3",
     "pa11y-ci": "^3.1.0",
     "path": "^0.12.7",
-    "postcss": "^8.4.12",
-    "postcss-csso": "^5.0.1",
+    "postcss": "^8.4.47",
+    "postcss-csso": "^6.0.1",
     "sass": "^1.50.0",
     "snyk": "^1.1064.0",
     "uswds": "^2.14.0"
   },
+  "overrides": {
+    "semver": "^7.5.2"
+  },
   "dependencies": {
+    "chokidar": "^4.0.1",
     "lodash": "^4.17.21"
   }
 }
