@@ -18,7 +18,7 @@ group :jekyll_plugins do
   gem 'jekyll-redirect-from'
   #gem 'jekyll-paginate-v2', "2.0"  
   gem 'jekyll-sitemap'
-  gem 'jekyll-last-modified-at'
+  gem 'jekyll-last-modified-at', '>= 1.3.2'
   gem 'pagemaster'
   # gem 'jekyll_pages_api_search'
 end
