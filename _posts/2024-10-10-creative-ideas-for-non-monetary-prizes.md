@@ -6,8 +6,8 @@ title: Creative Ideas for Non-monetary Prizes
 tagline: What are some ideas and examples of successful non-monetary prizes and incentives?
 excerpt: A summary of September 2024 Challenge & Prize Community Office Hour discussion on non-monetary prizes.
 author: Quinn Slayton
-image: /assets/images/Challenge and Prize Community Office Hours Banner v2.png
-post-body-content-uploads: /assets/images/Challenge and Prize Community Office Hours Banner v2.png
+image: assets/images/Challenge and Prize Community Office Hour Banner v2.png
+post-body-content-uploads: assets/images/Challenge and Prize Community Office Hour Banner v2.png
 image_alt_text: White text on blue background Challenge.gov Challenge and Prize Community Office Hours Learn. Share. Connect.
 ---
 <p>At the Challenge and Prize Community Office Hours in September 2024, we held an Ask Me Anything (AMA) with representatives from the Department of Energy (DOE) American-Made Challenges program. The Challenge.gov team recently hosted a webinar on Federal Innovation Through Prize Competitions with our colleagues at the Department of Energy. We invited the speakers to Office Hours so members of the community could have a deeper discussion about important topics raised at the event.</p>
