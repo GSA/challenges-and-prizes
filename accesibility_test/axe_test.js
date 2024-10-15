@@ -11,6 +11,12 @@ function loadUrlsFromFile(filePath) {
     .map(url => url.trim());
 }
 
+// Create or ensure the logs directory exists
+const logDir = path.join(__dirname, 'logs');
+if (!fs.existsSync(logDir)) {
+  fs.mkdirSync(logDir);
+}
+
 // Generate a formatted date
 const getFormattedDate = () => {
   const now = new Date();

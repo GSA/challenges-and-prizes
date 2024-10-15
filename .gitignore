@@ -10,3 +10,4 @@ _sass/.DS_Store
 .jekyll-metadata
 .jekyll-cache
 *.log
+/accesibility_test/logs
