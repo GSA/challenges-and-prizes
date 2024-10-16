@@ -22,8 +22,7 @@ title: Events
          <p class="card-text text-center"> <b>Discover How Federal Agencies are Using Prize Competitions to Drive Innovation and Solve Problems</b></p>
         <p class="card-text text-center"> Join Challenge.gov for a webinar series exploring how key federal agencies are using prize competitions to drive innovation, solve national challenges, and advance critical initiatives. Each session will highlight a different agency and their approaches to designing, delivering, and scaling prize competitions to advance their agency’s mission.
 </p>
-<p class="card-text text-center"><b>National Institutes of Health</b>, October 9, 3:00 - 4:00 pm ET<br/>
-<b>U.S. Agency for International Development</b>, November 7, 3:00 - 4:00 pm ET <br/>
+<p class="card-text text-center"><b>U.S. Agency for International Development</b>, November 7, 3:00 - 4:00 pm ET <br/>
 <b>National Aeronautics and Space Administration</b>, December 11, 3:00 - 4:00 pm ET</p>
 
 <p>Don't miss this chance to learn from federal innovation leaders. This series is ideal for federal employees or innovators interested in how prize competitions are advancing solutions from energy and health to global development and space exploration.</p>
@@ -36,6 +35,20 @@ title: Events
 <h2 class="text-center margin-top-0">Past Events</h2>
 <div class="grid-row">
   <div class="grid-col-12">
+     <div class="usa-card">
+      <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
+            <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
+          </svg>
+        </svg>
+        <h2 class="card-title text-center" style="font-weight: 900;">October 9, 2024</h2>
+        <h4>Federal Innovation Through Prize Competitions: <br/>
+          National Institutes of Health
+</h4>
+                <p class="card-text text-center">The second session of our Federal Innovation Through Prize Competitions webinar series featured the National Institutes of Health (NIH). This one-hour webinar explored how NIH is using prize competitions to develop innovations that address important problems. 
+</p>
+<p class="card-text text-center">Participants learned about the impact of prize competitions in NIH's innovation efforts, the factors that led to NIH’s growth in prize competitions, and ways the public can contribute to important health solutions. </p>
+    </div>  
+  </div> 
       <div class="usa-card">
       <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
@@ -48,6 +61,7 @@ title: Events
                 <p class="card-text text-center">As the first in our series on Federal Innovation Through Prize Competitions, leaders from the <a href="https://americanmadechallenges.org/">U.S. Department of Energy (DOE) American-Made Program</a> and DOE Prize Competition Community of practice shared how they are revolutionizing problem-solving through prize competitions.  
 </p>
 <p class="card-text text-center">In this session, participants learned about the strategic role of prize competitions in DOE's innovation strategy, valuable lessons for other federal agencies, and how members of the public can be part of roundbreaking energy solutions. </p>
+ <p class="card-text text-center">Watch the <a href="https://youtu.be/2cY1zLHvQtU?si=c2vECR4WPmraRTdV">event recording</a>.       </p>
     </div>  
   </div> 
           <div class="usa-card">
