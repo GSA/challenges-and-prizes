@@ -10,23 +10,14 @@ image: /assets/images/Challenge and Prize Community Office Hour Banner v2.png
 post-body-content-uploads: /assets/images/Challenge and Prize Community Office Hour Banner v2.png
 image_alt_text: White text on blue background Challenge.gov Challenge and Prize Community Office Hours Learn. Share. Connect.
 ---
-<p>At the Challenge and Prize Community Office Hours in September 2024, we held an Ask Me Anything (AMA) with representatives from the Department of Energy (DOE) American-Made Challenges program. The Challenge.gov team recently hosted a webinar on Federal Innovation Through Prize Competitions with our colleagues at the Department of Energy. We invited the speakers to Office Hours so members of the community could have a deeper discussion about important topics raised at the event.</p>
+<p>At Challenge.gov, our mission is to empower the federal government and the public to participate together in equitable forms of innovation through prize competitions. To highlight how government agencies leverage prize competitions to engage the public, drive innovation, solve national problems, and advance critical technologies, Challenge.gov hosted an informational webinar [https://youtu.be/2cY1zLHvQtU?si=BwIzAqfw8ynZpNCO] in September 2024 with the U.S. Department of Energy (DOE) American-Made Program. This session was the first in Challenge.gov’s series, Federal Innovation Through Prize Competitions. </p>
+<p>We heard from Anna Yee (Contractor at the U.S. Department of Energy Water Power Technologies) and Debbie Brodt-Giles (Program Manager and Strategic Advisor for the National Renewable Energy Laboratory's Joint Institute for Strategic Energy Analysis). Both speakers shared how prize competitions fit into DOE’s innovation strategy and the framework they use to implement them. Their presentations provided valuable insights for both members of the public seeking opportunities to contribute to energy innovations as well as employees of other federal agencies interested in successfully implementing prize competitions.</p> 
+<p>The America COMPETES Act gives DOE, and all federal agencies, the authority to run prize competitions. In 2018, DOE established a contract with the National Renewable Energy Laboratory (NREL) to administer prizes through American-Made Challenges, a resource available to all DOE offices. </p>
+<p>DOE uses prizes to incentivize scientific and technological innovation through cash awards and non-cash assistance. Prize competitions vary in type, ranging from technology, entrepreneurship, student and workforce opportunities, federal funding for communities in need of clean energy solutions, and photo and video. Compared to other federal funding mechanisms, prize competitions have a low barrier to entry and no (zero) cost share, making them ideal for people with innovative ideas who lack the necessary access to compete for funding. For example, DOE’s Solar Power Technologies Office runs the Technology Prize to identify, develop, and test disruptive solutions to solar industry needs. This prize first launched in 2018 and is now in its eighth year. </p>
 
-<p>This conversation led to a great question from a community member from the Department of Justice (USDOJ): what are some ideas and examples of successful non-monetary prizes and incentives?</p> 
-<p>Here are some of the creative ideas we discussed: 
-<ul>
-<li>DOE provides vouchers to small businesses, technology companies, jurisdictions, and manufacturers with access to valuable support services and premier facilities across DOE National Laboratories.</li>
-<li>Some agencies set up Partnership Intermediary Agreements (PIA) with winners. PIAs are contracts between government agencies and non-profit, state, or local governments to facilitate technology transfers and commercialization.</li>
-</ul>
-</p>
-<p>And finally, our colleagues at NASA have lots of fun ideas for non-monetary incentives, including:
-  <ul>
-<li>Creating digital badges winners can display on social media.</li> 
-<li>Flying student artwork in space.</li>
-<li>In-person events with agency leadership.</li>
-<li>Inviting solvers to Johnson Space Center.</li>
-  </ul>
-  </p>
+<p>The American-Made Program promotes innovation through prizes, training, and mentoring. To date the program successfully launched more than 80 prizes, offered over $400M in cash prizes and support, and built a 450+ network of members to support competitors. Their infrastructure has allowed them to create a pipeline for winners and competitors to further their success. American-Made gives away prizes and vouchers in phases, increasing barriers to entry with each proceeding phase. They sponsor a variety of clean energy and science and technology prizes including prizes empowering Minority Serving Institutions (MSI) and Tribal Colleges and Universities (TCU) communities such as the MSI Contract Readiness Prize and the Energy and Food Sovereignty Nexus Prize.</p> 
 
-<p><em>Office Hours are for Federal challenge managers, the Challenge & Prize Community of Practice, and other federal employees interested in learning more about prize competitions. They are held on the 4th Wednesday of the month at 12 pm ET via Zoom.gov. <a href="https://gsa.zoomgov.com/meeting/register/vJIscOuurjkuGRsY2rziMZDcn5cGAVax8XM#/registration">Register here.</a></em></p>
+<p>Through the American-Made Program, offices at DOE have access to the experience and infrastructure to design and run a prize competition. With these resources, DOE can inspire the next generation of scientists, engineers, and entrepreneurs to advance new thinking in the energy sector.</p>
+
+<p>For the rest of the series, Federal Innovation Through Prize Competitions, Challenge.gov is hosting conversations with the National Institutes of Health, the U.S. Agency for International Development, and the National Aeronautics and Space Administration. Through this webinar series the audience will learn of the diversity of approaches that different federal agencies are using to implement prize competitions as part of their innovation strategy. The series offers valuable lessons for other federal innovation implementers and illustrates the opportunity for members of the public to innovate alongside the federal government. Learn more about these events at Challenge.gov/events.</p>
 
