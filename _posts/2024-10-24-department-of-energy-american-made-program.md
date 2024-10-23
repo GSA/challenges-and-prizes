@@ -1,7 +1,7 @@
 ---
 date: 2024/10/24
 layout: post
-permalink: /blog/2024-10-24-department-of-energy-american-made-program.md/
+permalink: /blog/2024-10-24-department-of-energy-american-made-program/
 title: Federal Innovation Through Prize Competitions: U.S. Department of Energy’s American-Made Program
 tagline: Event highlights and key takeaways from 2024 webinar.
 excerpt: A summary of September 2024 webinar on how the U.S. Department of Energy is using prize competitions to drive innovation and solve problems.
