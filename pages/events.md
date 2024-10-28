@@ -47,7 +47,7 @@ title: Events
                 <p class="card-text text-center">The second session of our Federal Innovation Through Prize Competitions webinar series featured the National Institutes of Health (NIH). This one-hour webinar explored how NIH is using prize competitions to develop innovations that address important problems. 
 </p>
 <p class="card-text text-center">Participants learned about the impact of prize competitions in NIH's innovation efforts, the factors that led to NIH’s growth in prize competitions, and ways the public can contribute to important health solutions. </p>
-        < p class="card-text text-center"> What the <a href="https://youtu.be/lI6_4m7E5dY?si=CtpttFovecUDlU9c">event recording</a>.</p>
+        <p class="card-text text-center">Watch the <a href="https://youtu.be/lI6_4m7E5dY?si=CtpttFovecUDlU9c">event recording</a>.</p>
     </div>  
   </div> 
       <div class="usa-card">
