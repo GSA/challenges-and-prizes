@@ -47,6 +47,7 @@ title: Events
                 <p class="card-text text-center">The second session of our Federal Innovation Through Prize Competitions webinar series featured the National Institutes of Health (NIH). This one-hour webinar explored how NIH is using prize competitions to develop innovations that address important problems. 
 </p>
 <p class="card-text text-center">Participants learned about the impact of prize competitions in NIH's innovation efforts, the factors that led to NIH’s growth in prize competitions, and ways the public can contribute to important health solutions. </p>
+        < p class="card-text text-center"> What the <a href="https://youtu.be/lI6_4m7E5dY?si=CtpttFovecUDlU9c">event recording</a>.</p>
     </div>  
   </div> 
       <div class="usa-card">
@@ -60,7 +61,7 @@ title: Events
 </h4>
                 <p class="card-text text-center">As the first in our series on Federal Innovation Through Prize Competitions, leaders from the <a href="https://americanmadechallenges.org/">U.S. Department of Energy (DOE) American-Made Program</a> and DOE Prize Competition Community of practice shared how they are revolutionizing problem-solving through prize competitions.  
 </p>
-<p class="card-text text-center">In this session, participants learned about the strategic role of prize competitions in DOE's innovation strategy, valuable lessons for other federal agencies, and how members of the public can be part of roundbreaking energy solutions. </p>
+<p class="card-text text-center">In this session, participants learned about the strategic role of prize competitions in DOE's innovation strategy, valuable lessons for other federal agencies, and how members of the public can be part of groundbreaking energy solutions. </p>
  <p class="card-text text-center">Watch the <a href="https://youtu.be/2cY1zLHvQtU?si=c2vECR4WPmraRTdV">event recording</a>.       </p>
     </div>  
   </div> 
