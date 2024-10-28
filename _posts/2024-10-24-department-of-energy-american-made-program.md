@@ -6,7 +6,7 @@ title: Federal Innovation Through Prize Competitions - U.S. Department of Energy
 tagline: Event highlights and key takeaways from 2024 webinar.
 excerpt: A summary of September 2024 webinar on how the U.S. Department of Energy is using prize competitions to drive innovation and solve problems.
 author: Katherine Kempe
-image: /assets/images/Challenge and Prize Community Office Hour Banner v2.png
+image: /assets/images/DOE Webinar Event Banner Iconsets v2.png
 post-body-content-uploads: /assets/images/DOE Webinar Event Banner Iconsets v2.png
 image_alt_text: White and orange text on blue background. Federal innovation through prize competitions. The US Department of Energy American-Made Program 
 ---
