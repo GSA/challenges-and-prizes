@@ -7,8 +7,8 @@ tagline: Event highlights and key takeaways from 2024 webinar.
 excerpt: A summary of September 2024 webinar on how the U.S. Department of Energy is using prize competitions to drive innovation and solve problems.
 author: Katherine Kempe
 image: /assets/images/Challenge and Prize Community Office Hour Banner v2.png
-post-body-content-uploads: /assets/images/Challenge and Prize Community Office Hour Banner v2.png
-image_alt_text: White text on blue background Challenge.gov Challenge and Prize Community Office Hours Learn. Share. Connect.
+post-body-content-uploads: /assets/images/DOE Webinar Event Banner Iconsets v2.png
+image_alt_text: White and orange text on blue background. Federal innovation through prize competitions. The US Department of Energy American-Made Program 
 ---
 <p>At Challenge.gov, our mission is to empower the federal government and the public to participate together in equitable forms of innovation through prize competitions. To highlight how government agencies leverage prize competitions to engage the public, drive innovation, solve national problems, and advance critical technologies, Challenge.gov hosted an <a href="https://youtu.be/2cY1zLHvQtU?si=BwIzAqfw8ynZpNCO">informational webinar</a> in September 2024 with the U.S. Department of Energy (DOE) American-Made Program. This session was the first in Challenge.gov’s series, Federal Innovation Through Prize Competitions. </p>
 
