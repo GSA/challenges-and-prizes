@@ -62,7 +62,9 @@ title: Events
                 <p class="card-text text-center">As the first in our series on Federal Innovation Through Prize Competitions, leaders from the <a href="https://americanmadechallenges.org/">U.S. Department of Energy (DOE) American-Made Program</a> and DOE Prize Competition Community of practice shared how they are revolutionizing problem-solving through prize competitions.  
 </p>
 <p class="card-text text-center">In this session, participants learned about the strategic role of prize competitions in DOE's innovation strategy, valuable lessons for other federal agencies, and how members of the public can be part of groundbreaking energy solutions. </p>
- <p class="card-text text-center">Watch the <a href="https://youtu.be/2cY1zLHvQtU?si=c2vECR4WPmraRTdV">event recording</a>.       </p>
+ <p class="card-text text-center">Watch the <a href="https://youtu.be/2cY1zLHvQtU?si=c2vECR4WPmraRTdV">event recording</a>.
+ </p>
+  <p class="card-text text-center">Read the <a href="{{ site.baseurl }}/blog/2024-10-24-department-of-energy-american-made-program/">event summary</a>.</p>
     </div>  
   </div> 
           <div class="usa-card">
