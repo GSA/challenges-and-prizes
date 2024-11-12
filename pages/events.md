@@ -22,8 +22,7 @@ title: Events
          <p class="card-text text-center"> <b>Discover How Federal Agencies are Using Prize Competitions to Drive Innovation and Solve Problems</b></p>
         <p class="card-text text-center"> Join Challenge.gov for a webinar series exploring how key federal agencies are using prize competitions to drive innovation, solve national challenges, and advance critical initiatives. Each session will highlight a different agency and their approaches to designing, delivering, and scaling prize competitions to advance their agency’s mission.
 </p>
-<p class="card-text text-center"><b>U.S. Agency for International Development</b>, November 7, 3:00 - 4:00 pm ET <br/>
-<b>National Aeronautics and Space Administration</b>, December 11, 3:00 - 4:00 pm ET</p>
+<p class="card-text text-center"><b>National Aeronautics and Space Administration</b>, December 11, 3:00 - 4:00 pm ET</p>
 
 <p>Don't miss this chance to learn from federal innovation leaders. This series is ideal for federal employees or innovators interested in how prize competitions are advancing solutions from energy and health to global development and space exploration.</p>
         <a href="https://gsa.zoomgov.com/webinar/register/4817259767612/WN_QZ6RkJe6QGK8FgQt1fPlpA" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a>
@@ -46,7 +45,7 @@ title: Events
 </h4>
                 <p class="card-text text-center">The third session of our Federal Innovation Through Prize Competitions webinar series featured the U.S. Agency for International Develoment (USAID). 
 </p>
-<p class="card-text text-center">Participants learned about... </p>
+<p class="card-text text-center">Participants learned how USAID designs, delivers, and scales innovation through prize competitions and challenges. </p>
         <p class="card-text text-center">Watch the <a href="https://youtu.be/VGWt1jP78Bo?si=LH2bDgXYwsVSilmB">event recording</a>.</p>
     </div>  
   </div> 
