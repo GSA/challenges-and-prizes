@@ -62,6 +62,7 @@ title: Events
 </p>
 <p class="card-text text-center">Participants learned about the impact of prize competitions in NIH's innovation efforts, the factors that led to NIH’s growth in prize competitions, and ways the public can contribute to important health solutions. </p>
         <p class="card-text text-center">Watch the <a href="https://youtu.be/lI6_4m7E5dY?si=CtpttFovecUDlU9c">event recording</a>.</p>
+        <p class="card-text text-center">Read the <a href="{{ site.baseurl }}/blog/2024-11-12-national-institutes-of-health-webinar/">event summary</a>.</p>
     </div>  
   </div> 
       <div class="usa-card">
