@@ -5,7 +5,7 @@ permalink: /blog/2024-11-12-national-institutes-of-health-webinar/
 title: Federal Innovation Through Prize Competitions - National Institutes of Health
 tagline: Event highlights and key takeaways from 2024 webinar
 excerpt: A summary of the October 2024 webinar on how the National Institutes of Health are using prize competitions to drive innovation and solve problems.
-author: Quinn Slayton
+author: Katherine Kempe
 image: /assets/images/Challenge and Prize Community Office Hour Banner v2.png
 post-body-content-uploads: /assets/images/Challenge and Prize Community Office Hour Banner v2.png
 image_alt_text: White text on blue background Challenge.gov Challenge and Prize Community Office Hours Learn. Share. Connect.
