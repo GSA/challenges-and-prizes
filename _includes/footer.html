@@ -83,13 +83,12 @@
 <!-- Digital Analytics Program roll-up, see https://analytics.usa.gov for data -->
 <script id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency={{site.dap_agency}}"></script>
 {% if site.branch == "production" %}
-<link rel="stylesheet" href="https://portal.challenge.gov/css/public.css" crossorigin="anonymous">
-<script src="https://portal.challenge.gov/js/public.js"></script>
-<script src="https://portal.challenge.gov/js/client.js"></script>
+<link rel="stylesheet" href="https://portal.challenge.gov/css/public.css" integrity="sha384-U3FAM/KmpWpDIC9LvHTiN5MfVf9HnN8i0pKD4IvBnzxfTSVlbqCLSUx1MQwjYkov" crossorigin="anonymous">
+<script src="https://portal.challenge.gov/js/public.js" integrity="sha384-EadIINJfyK5WjX2xpy9sbX/YPYG7toOOYJVp1gS0Lwmun/DVJ3udFIqyS5rBQJDt" crossorigin="anonymous"></script>
+<script src="https://portal.challenge.gov/js/client.js" integrity="sha384-J11hCQC6+esHSrCiCMdMesm2fLHifDXWYhx3Yq++Ox67dkUGWTJeXGWlbdTAgd7a" crossorigin="anonymous"></script>
 {% elsif site.branch == "staging" %}
-<link rel="stylesheet" href="https://challenge-portal-staging.app.cloud.gov/css/public.css" crossorigin="anonymous">
-<script src="https://challenge-portal-staging.app.cloud.gov/js/public.js"></script>
-<script src="https://challenge-portal-staging.app.cloud.gov/js/client.js"></script>
+<link rel="stylesheet" href="https://challenge-portal-staging.app.cloud.gov/css/public.css" integrity="sha384-U3FAM/KmpWpDIC9LvHTiN5MfVf9HnN8i0pKD4IvBnzxfTSVlbqCLSUx1MQwjYkov" crossorigin="anonymous"><script src="https://challenge-portal-staging.app.cloud.gov/js/public.js"></script>
+<script src="https://challenge-portal-staging.app.cloud.gov/js/client.js" integrity="sha384-2H5+GtVkVnbdZ8eOn+Ae6gpnADKDtm73dRVqjQmgZlYZ4Wx50fZS2lRqeNo8pq4Y" crossorigin="anonymous"></script>
 {% elsif site.branch == "dev" %}
 <link rel="stylesheet" href="https://challenge-portal-staging.app.cloud.gov/css/public.css" crossorigin="anonymous">
 <script src="https://challenge-portal-staging.app.cloud.gov/js/public.js"></script>
@@ -140,7 +139,7 @@
   ga('send', 'pageview');
 </script>
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-HE61P192WE"></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-HE61P192WE" integrity="sha384-rEi/WxPM0sOKcMee14hG4GSVzqGJP2P1pGlLL/NLtEt5jIS8SCNob1DGV8hh5L2C" crossorigin="anonymous"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}

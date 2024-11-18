@@ -22,8 +22,7 @@ title: Events
          <p class="card-text text-center"> <b>Discover How Federal Agencies are Using Prize Competitions to Drive Innovation and Solve Problems</b></p>
         <p class="card-text text-center"> Join Challenge.gov for a webinar series exploring how key federal agencies are using prize competitions to drive innovation, solve national challenges, and advance critical initiatives. Each session will highlight a different agency and their approaches to designing, delivering, and scaling prize competitions to advance their agency’s mission.
 </p>
-<p class="card-text text-center"><b>U.S. Agency for International Development</b>, November 7, 3:00 - 4:00 pm ET <br/>
-<b>National Aeronautics and Space Administration</b>, December 11, 3:00 - 4:00 pm ET</p>
+<p class="card-text text-center"><b>National Aeronautics and Space Administration</b>, December 11, 3:00 - 4:00 pm ET</p>
 
 <p>Don't miss this chance to learn from federal innovation leaders. This series is ideal for federal employees or innovators interested in how prize competitions are advancing solutions from energy and health to global development and space exploration.</p>
         <a href="https://gsa.zoomgov.com/webinar/register/4817259767612/WN_QZ6RkJe6QGK8FgQt1fPlpA" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a>
@@ -40,6 +39,21 @@ title: Events
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
           </svg>
         </svg>
+        <h2 class="card-title text-center" style="font-weight: 900;">November 7, 2024</h2>
+        <h4>Federal Innovation Through Prize Competitions: <br/>
+          U.S. Agency for International Development
+</h4>
+                <p class="card-text text-center">The third session of our Federal Innovation Through Prize Competitions webinar series featured the U.S. Agency for International Develoment (USAID). 
+</p>
+<p class="card-text text-center">Participants learned how USAID designs, delivers, and scales innovation through prize competitions and challenges. </p>
+        <p class="card-text text-center">Watch the <a href="https://youtu.be/VGWt1jP78Bo?si=LH2bDgXYwsVSilmB">event recording</a>.</p>
+    </div>  
+  </div> 
+     <div class="usa-card">
+      <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
+            <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
+          </svg>
+        </svg>
         <h2 class="card-title text-center" style="font-weight: 900;">October 9, 2024</h2>
         <h4>Federal Innovation Through Prize Competitions: <br/>
           National Institutes of Health
@@ -48,6 +62,7 @@ title: Events
 </p>
 <p class="card-text text-center">Participants learned about the impact of prize competitions in NIH's innovation efforts, the factors that led to NIH’s growth in prize competitions, and ways the public can contribute to important health solutions. </p>
         <p class="card-text text-center">Watch the <a href="https://youtu.be/lI6_4m7E5dY?si=CtpttFovecUDlU9c">event recording</a>.</p>
+        <p class="card-text text-center">Read the <a href="{{ site.baseurl }}/blog/2024-11-12-national-institutes-of-health-webinar/">event summary</a>.</p>
     </div>  
   </div> 
       <div class="usa-card">
