@@ -19,9 +19,9 @@ title: User Guide for Public Solvers | Unfollow Challenges
       <div class="usa-prose">
         <p>Unfollow a challenge and unsubscribe from challenge-related email updates.</p>
         <ol>
-          <li class="font-bolder"><span>From the bottom of any Challenge.Gov bulletin email, click <b>Subscriber Preferences Page</b>. <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?preferences=true" target="_blank" rel="noopener">Click here too access this page directly</a></span></li><br>
-          <li class="font-bolder"><span>Enter your email address used to subscribe then click <b>Check to Delete</b> box next to challenge you no longer wish to follow and click <b>Submit</b>.</span></li><br>
-          <li class="font-bolder"><span>Check the box next to <b>“I consent to the privacy policy”</b>. You will receive an email from GSA, Technology Transformation Services (gsa-tts@notify.gsa.gov) with the subject “Subscription Change Confirmation”.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>From the bottom of any Challenge.Gov bulletin email, click <b>Subscriber Preferences Page</b>. <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?preferences=true" target="_blank" rel="noopener">Click here too access this page directly</a></span></li>
+          <li class="padding-bottom-3 font-bolder"><span>Enter your email address used to subscribe then click <b>Check to Delete</b> box next to challenge you no longer wish to follow and click <b>Submit</b>.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>Check the box next to <b>“I consent to the privacy policy”</b>. You will receive an email from GSA, Technology Transformation Services (gsa-tts@notify.gsa.gov) with the subject “Subscription Change Confirmation”.</span></li>
         </ol>
       </div>
     </div>

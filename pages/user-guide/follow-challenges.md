@@ -21,11 +21,11 @@ title: User Guide for Public Solvers | Follow Challenges
           <br>
           <b>NOTE:</b> Feature is not available for challenges that redirect to an external site.</p>
           <ol style="padding-left: 50px;">
-            <li class="font-normal"><span>From challenge details page, click <b>Follow challenge</b> in the general information section of the page.</span></li><br>
-            <li class="font-normal"><span>From the pop-up select <b>Follow challenge</b>.</span></li><br>
-            <li class="font-normal"><span>Enter your email address and click <b>Submit</b>.</span></li><br>
-            <li class="font-normal"><span>Click <b>Finish</b>. (You will be redirected to a page where you can follow more Challenges. Select any challenges you wish to follow.)</span></li><br>
-            <li class="font-normal"><span>Click <b>Submit</b>.
+            <li class="padding-bottom-3 font-normal"><span>From challenge details page, click <b>Follow challenge</b> in the general information section of the page.</span></li>
+            <li class="padding-bottom-3 font-normal"><span>From the pop-up select <b>Follow challenge</b>.</span></li>
+            <li class="padding-bottom-3 font-normal"><span>Enter your email address and click <b>Submit</b>.</span></li>
+            <li class="padding-bottom-3 font-normal"><span>Click <b>Finish</b>. (You will be redirected to a page where you can follow more Challenges. Select any challenges you wish to follow.)</span></li>
+            <li class="padding-bottom-3 font-normal"><span>Click <b>Submit</b>.
               <br><br>
               <b>NOTE:</b> You will receive an email from GSA, Technology Transformation Services (gsa-tts@notify.gsa.gov) with the subject “Subscription Change Confirmation”. Stop receiving notices at any time by clicking Subscriber Preferences Page at the bottom of any GovDelivery email received.
             </span></li>

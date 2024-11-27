@@ -19,10 +19,10 @@ title: User Guide for Public Solvers | Remove Saved Challenges
       <div class="usa-prose">
         <p>View and manage your saved challenges. Visit <a href="{{ site.baseurl }}/user-guide/follow-challenges/">Follow a challenge</a> for instructions.</p>
         <ol>
-          <li class="font-bolder"><span>From the Solver Portal dashboard, click <b>My saved challenges</b>.</span></li><br>
-          <li class="font-bolder"><span>From the Saved challenges page, view list of challenges saved to your account.</span></li><br>
-          <li class="font-bolder"><span>Click a challenge tile to view the challenge details page which will appear in a new tab.</span></li><br>
-          <li class="font-bolder"><span>Click <b>Remove</b> located on challenge tile then click <b>OK</b> to confirm. (Removing a challenge from your saved challenges will not unfollow you from the challenge and you will continue to receive challenge-related updates. See <a href="{{ site.baseurl }}/user-guide/unfollow-challenges/">Unfollow challenges</a> for instructions on unsubscribing from challenge updates.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>From the Solver Portal dashboard, click <b>My saved challenges</b>.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>From the Saved challenges page, view list of challenges saved to your account.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>Click a challenge tile to view the challenge details page which will appear in a new tab.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>Click <b>Remove</b> located on challenge tile then click <b>OK</b> to confirm. (Removing a challenge from your saved challenges will not unfollow you from the challenge and you will continue to receive challenge-related updates. See <a href="{{ site.baseurl }}/user-guide/unfollow-challenges/">Unfollow challenges</a> for instructions on unsubscribing from challenge updates.</span></li>
         </ol>
       </div>
     </div>

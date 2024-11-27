@@ -19,14 +19,14 @@ title: User Guide for Public Solvers | Create Your Account
       <div class="usa-prose">
         <p>Challenge.Gov uses Login.gov to provide account and system access to users. Visit Login.gov for more information.</p>
         <ol>
-          <li class="font-bolder"><span>From Challenge.Gov, click <b>Create account</b> in the top right corner.</span></li><br>
-          <li class="font-bolder"><span>Enter your email address, and accept the Login.gov Rules of Use then click <b>Submit</b>.</span></li><br>
-          <li class="font-bolder"><span>Check your email for a message from Login.gov with subject line “Confirm your email”. Allow a few minutes for email to arrive, and check any special email filters you may have (e.g. social, forums, spam, etc.).</span></li><br>
-          <li class="font-bolder"><span>Click <b>Confirm email address</b> in the email message which will take you back to Login.gov.</span></li><br>
-          <li class="font-bolder"><span>Enter desired password and click <b>Continue</b>.</span></li><br>
-          <li class="font-bolder"><span>Follow on-screen prompts to set up a second layer of security. Visit Login.gov help to learn about authentication options.</span></li><br>
-          <li class="font-bolder"><span>Enter one-time security code from selected authentication method and click <b>Submit</b>.</span></li><br>
-          <li class="font-bolder"><span>Click <b>Agree and continue</b> to sign in to Solver Portal for the first time.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>From Challenge.Gov, click <b>Create account</b> in the top right corner.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>Enter your email address, and accept the Login.gov Rules of Use then click <b>Submit</b>.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>Check your email for a message from Login.gov with subject line “Confirm your email”. Allow a few minutes for email to arrive, and check any special email filters you may have (e.g. social, forums, spam, etc.).</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>Click <b>Confirm email address</b> in the email message which will take you back to Login.gov.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>Enter desired password and click <b>Continue</b>.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>Follow on-screen prompts to set up a second layer of security. Visit Login.gov help to learn about authentication options.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>Enter one-time security code from selected authentication method and click <b>Submit</b>.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>Click <b>Agree and continue</b> to sign in to Solver Portal for the first time.</span></li>
         </ol>
       </div>
     </div>

@@ -1246,3 +1246,8 @@ html body .toolkit.usa-toolkit .usa-accordion__button[aria-expanded=false]{
   background-image: url("../images/plus.svg"), linear-gradient(transparent, transparent);
   background-size: 1rem;
 }
+
+/*Fixing accessibility*/
+.text-base {
+  color: #697072;
+}
