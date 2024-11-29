@@ -129,7 +129,8 @@ title: Case Study - DESAL Prize
                     <li>The Desal Prize is on track to provide two-thirds of the total prize program budget directly to the innovators in the form of seed funds, prize award and pilot grant funding.</li>
                     <li>The Desal Prize has leveraged $550,000 in in-kind support from USBR.</li>
                     <li>Over 200 local people from Alamogordo attended a public tour and interacted with the teams.</li>
-                    <li>The innovators received media placement in high visibility sources including USA Today, The Boston Globe, Wired Magazine, CNBC, Bloomberg  <li>News and several media outlets locally and in the innovators' home regions.</li>
+                    <li>The innovators received media placement in high visibility sources including USA Today, The Boston Globe, Wired Magazine, CNBC, Bloomberg</li>  
+                    <li>News and several media outlets locally and in the innovators' home regions.</li>
                     <li>The BGNDRF has already received several requests for innovators to utilize their end-user facility for testing due to increased visibility in the press.</li>
                     <li>USBR and USAID were able to combine resources and funding to achieve a goal that benefits innovators and farmers in both the United States and developing countries.</li>
                   </ul>
