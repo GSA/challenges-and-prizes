@@ -19,11 +19,11 @@ title: User Guide for Public Solvers | Explore Active Challenges
       <div class="usa-prose">
         <p>Review challenges currently accepting public submissions.</p>
         <ol>
-          <li class="font-normal"><span>Click the <b>Find a Challenge</b> button or scroll down to the bottom of the homepage to browse Active Challenge tiles.</span></li><br>
-          <li class="font-normal"><span>Click the challenge tile to view challenge details.<br>
-            <b>NOTE:</b> Some challenge tiles redirect to an external site which will open in a new browser tab.</span></li><br>
-            <li class="font-normal"><span>General information about the challenge appears at the top of the page.</span></li><br>
-            <li class="font-normal"><span>Click the section names in the middle of the page to view the various challenge content sections (e.g. Overview, Prizes, Rules, How to Enter).</span></li>
+          <li class="padding-bottom-3 font-normal"><span>Click the <b>Find a Challenge</b> button or scroll down to the bottom of the homepage to browse Active Challenge tiles.</span></li>
+          <li class="padding-bottom-3 font-normal"><span>Click the challenge tile to view challenge details.<br>
+            <b>NOTE:</b> Some challenge tiles redirect to an external site which will open in a new browser tab.</span></li>
+            <li class="padding-bottom-3 font-normal"><span>General information about the challenge appears at the top of the page.</span></li>
+            <li class="padding-bottom-3 font-normal"><span>Click the section names in the middle of the page to view the various challenge content sections (e.g. Overview, Prizes, Rules, How to Enter).</span></li>
           </ol>
         </div>
       </div>

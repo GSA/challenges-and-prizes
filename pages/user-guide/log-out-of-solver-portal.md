@@ -18,8 +18,8 @@ title: User Guide for Public Solvers | Log Out of Solver Portal
     <div class="grid-col-7">
       <div class="usa-prose">
         <ol>
-          <li class="font-bolder"><span>From the Solver Portal, click <b>[Your email address]</b> in the top right corner.</span></li><br>
-          <li class="font-bolder"><span>Select <b>Logout</b> from the menu.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>From the Solver Portal, click <b>[Your email address]</b> in the top right corner.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>Select <b>Logout</b> from the menu.</span></li>
         </ol>
       </div>
     </div>

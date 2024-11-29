@@ -20,9 +20,9 @@ title: User Guide for Public Solvers | Print Challenges
        <p>Print a copy or create a PDF file with challenge details.</p>
        <p><b>NOTE:</b> Feature is not available for challenges that redirect to an external site.</p>
        <ol>
-        <li class="font-normal"><span>From challenge details page, click <b>Print challenge</b> located in the general information section of the page.</span></li><br>
-        <li class="font-normal"><span>From print preview, select the print destination then click <b>Print</b>.</span></li><br>
-        <li class="font-normal"><span>Select <b>Save as PDF</b> to create a PDF file.</span></li>
+        <li class="padding-bottom-3 font-normal"><span>From challenge details page, click <b>Print challenge</b> located in the general information section of the page.</span></li>
+        <li class="padding-bottom-3 font-normal"><span>From print preview, select the print destination then click <b>Print</b>.</span></li>
+        <li class="padding-bottom-3 font-normal"><span>Select <b>Save as PDF</b> to create a PDF file.</span></li>
       </ol>
     </div>
   </div>

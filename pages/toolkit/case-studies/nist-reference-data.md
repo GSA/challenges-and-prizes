@@ -65,7 +65,9 @@ title: Case Study - Reference Data Challenge
                     <h3 class="spb-heading spb_video_heading"><span>Kris Reyes Explains His Winning Submission</span>
                     </h3>
                     <div class="sf-video-wrap">
-                      <iframe src="https://www.youtube.com/embed/NoaQEiz3CGg?feature=oembed" allowfullscreen="" width="500" height="281" frameborder="0"></iframe>
+                      <iframe src="https://www.youtube.com/embed/NoaQEiz3CGg?feature=oembed" 
+                      title="Video about Kris Reyes Explains His Winning Submission"
+                      allowfullscreen="" width="500" height="281" frameborder="0"></iframe>
                     </div>
                   </div>
                 </div>

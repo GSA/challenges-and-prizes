@@ -20,8 +20,8 @@ title: User Guide for Public Solvers | View Messages
         <p>View and respond to messages from the challenge management team of your participating challenges.</p>
         <p><b>NOTE:</b> This feature is only available for challenges accepting submissions via the Challenge.Gov portal, and will only become available once you have submitted your entry.</p>
         <ol>
-          <li class="font-bolder"><span>From Solver Portal Dashboard, click Message Center.</span></li><br>
-          <li class="font-bolder"><span>Cick the “Message Snippet” for the message you wish to work with. A history of your conversation will appear at the top of the page.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>From Solver Portal Dashboard, click Message Center.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>Cick the “Message Snippet” for the message you wish to work with. A history of your conversation will appear at the top of the page.</span></li>
         </ol>
       </div>
     </div>

@@ -68,7 +68,9 @@ title: Case Study - Travel Data Challenge
                     <h3 class="spb-heading spb_video_heading"><span>GSA Explains the Competition</span>
                     </h3>
                     <div class="sf-video-wrap">
-                      <iframe src="https://www.youtube.com/embed/r3jEx0dwIcQ?feature=oembed" allowfullscreen="" width="500" height="281" frameborder="0"></iframe>
+                      <iframe src="https://www.youtube.com/embed/r3jEx0dwIcQ?feature=oembed" 
+                      title="Video about GSA Explains the Competition"
+                      allowfullscreen="" width="500" height="281" frameborder="0"></iframe>
                     </div>
                   </div>
                 </div>

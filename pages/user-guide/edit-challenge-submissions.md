@@ -20,10 +20,10 @@ title: User Guide for Public Solvers | Edit Challenge Submissions
         <p>Edit challenge submissions any time prior to the submission period end. See <a href="{{ site.baseurl }}/user-guide/submit-to-a-challenge/" title="Submit to a challenge" aria-label="Submit to a challenge">Submit to a challenge</a> for instructions on challenge entry submission.</p>
         <p><b>NOTE:</b> This feature is only available for challenges accepting submissions via the Challenge.Gov portal. These challenges will have an orange <b>Apply for this challenge</b> button in the general information section of the challenge details page.</p>
         <ol>
-          <li class="font-bolder"><span>From solver portal dashboard, click <b>My Submissions</b>.</span></li><br>
-          <li class="font-bolder"><span>Click the tile of the submission you wish to edit and update your content.</span></li><br>
-          <li class="font-bolder"><span>Click <b>Review and submit. NOTE:</b> If you’d like to make edits prior to submitting, click <b>Edit</b>.</span></li><br>
-          <li class="font-bolder"><span>Click <b>Submit</b>.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>From solver portal dashboard, click <b>My Submissions</b>.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>Click the tile of the submission you wish to edit and update your content.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>Click <b>Review and submit. NOTE:</b> If you’d like to make edits prior to submitting, click <b>Edit</b>.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>Click <b>Submit</b>.</span></li>
         </ol>
       </div>
     </div>
