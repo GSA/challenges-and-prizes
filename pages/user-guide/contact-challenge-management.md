@@ -76,7 +76,7 @@ title: User Guide for Public Solvers | Contact Challenge Management
   }
   .child-link {
     text-indent: 2em;
-    color: #757575;
+    color: #6E6E6E;
     font-weight: 500;
   }
   .usa-sidenav__item a:not(.usa-current):hover {
@@ -92,7 +92,7 @@ title: User Guide for Public Solvers | Contact Challenge Management
 
   .usa-sidenav__sublist a:not(.usa-current),
   .usa-sidenav__item a.child-link:not(.usa-current) {
-    color: #757575 !important;
+    color: #6E6E6E !important;
   }
 
   .usa-current {
