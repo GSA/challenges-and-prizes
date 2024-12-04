@@ -18,9 +18,9 @@ title: User Guide for Public Solvers | View Archived Challenges
         <div class="usa-prose">
           <p>Review challenges no longer open to public submissions.</p>
           <ol>
-            <li class="font-normal"><span>Scroll down to the footer and click <b>Archived challenges</b>.</span></li><br>
-            <li class="font-normal"><span>Filter by year using the dropdown.</span></li><br>
-            <li class="font-normal"><span>Click the challenge tile to view challenge details.<br>
+            <li class="padding-bottom-3 font-normal"><span>Scroll down to the footer and click <b>Archived challenges</b>.</span></li>
+            <li class="padding-bottom-3 font-normal"><span>Filter by year using the dropdown.</span></li>
+            <li class="padding-bottom-3 font-normal"><span>Click the challenge tile to view challenge details.<br>
               <b>NOTE:</b> Some challenge tiles redirect to an external site which will open in a new browser tab.</span></li>
             </ol>
           </div>
@@ -73,7 +73,7 @@ title: User Guide for Public Solvers | View Archived Challenges
       }
       .child-link {
         text-indent: 2em;
-        color: #757575;
+        color: #6E6E6E;
         font-weight: 500;
       }
       .usa-sidenav__item a:not(.usa-current):hover {
@@ -87,7 +87,7 @@ title: User Guide for Public Solvers | View Archived Challenges
       }
       .usa-sidenav__sublist a:not(.usa-current),
       .usa-sidenav__item a.child-link:not(.usa-current) {
-        color: #757575 !important;
+        color: #6E6E6E !important;
       }
       .usa-current {
         color: #205493 !important;

@@ -20,11 +20,11 @@ title: User Guide for Public Solvers | Contact Challenge Management
         <p>Send an email with your challenge-related questions to the Challenge Management Team from the sponsoring agency.</p>
         <p><b>NOTE:</b> Feature is not available for challenges that redirect to an external site.</p>
         <ol>
-          <li class="font-normal"><span>From challenge details page, click on the contact tab located in the challenge details navigation bar in the middle of the page.</span></li><br>
-          <li class="font-normal"><span>Enter your email address.</span></li><br>
-          <li class="font-normal"><span>Enter your question or comment then click <b>Submit</b>.</span></li><br>
-          <li class="font-normal"><span>You will receive an email from <a href="mailto:team@challenge.gov">team@challenge.gov</a> confirming your message has been sent.</span></li><br>
-          <li class="font-normal"><span>Be on the lookout for an email from the Challenge Management Team.</span></li>
+          <li class="padding-bottom-3 font-normal"><span>From challenge details page, click on the contact tab located in the challenge details navigation bar in the middle of the page.</span></li>
+          <li class="padding-bottom-3 font-normal"><span>Enter your email address.</span></li>
+          <li class="padding-bottom-3 font-normal"><span>Enter your question or comment then click <b>Submit</b>.</span></li>
+          <li class="padding-bottom-3 font-normal"><span>You will receive an email from <a href="mailto:team@challenge.gov">team@challenge.gov</a> confirming your message has been sent.</span></li>
+          <li class="padding-bottom-3 font-normal"><span>Be on the lookout for an email from the Challenge Management Team.</span></li>
         </ol>
       </div>
     </div>
@@ -76,7 +76,7 @@ title: User Guide for Public Solvers | Contact Challenge Management
   }
   .child-link {
     text-indent: 2em;
-    color: #757575;
+    color: #6E6E6E;
     font-weight: 500;
   }
   .usa-sidenav__item a:not(.usa-current):hover {
@@ -92,7 +92,7 @@ title: User Guide for Public Solvers | Contact Challenge Management
 
   .usa-sidenav__sublist a:not(.usa-current),
   .usa-sidenav__item a.child-link:not(.usa-current) {
-    color: #757575 !important;
+    color: #6E6E6E !important;
   }
 
   .usa-current {

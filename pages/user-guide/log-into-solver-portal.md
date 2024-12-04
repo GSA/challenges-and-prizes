@@ -18,10 +18,10 @@ title: User Guide for Public Solvers | Log Into Solver Portal
     <div class="grid-col-7">
       <div class="usa-prose">
         <ol>
-          <li class="font-bolder"><span>From the Challenge.Gov homepage, click Login in the upper right corner.</span></li><br>
-          <li class="font-bolder"><span>Click <b>Accept and Sign-in</b> to acknowledge the terms of use.</span></li><br>
-          <li class="font-bolder"><span>Enter the email address and password associated with your account.</span></li><br>
-          <li class="font-bolder"><span>Click <b>Sign in</b> and authenticate your account using the security method selected when you created your account.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>From the Challenge.Gov homepage, click Login in the upper right corner.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>Click <b>Accept and Sign-in</b> to acknowledge the terms of use.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>Enter the email address and password associated with your account.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>Click <b>Sign in</b> and authenticate your account using the security method selected when you created your account.</span></li>
         </ol>
       </div>
     </div>
@@ -73,7 +73,7 @@ title: User Guide for Public Solvers | Log Into Solver Portal
   }
   .child-link {
     text-indent: 2em;
-    color: #757575;
+    color: #6E6E6E;
     font-weight: 500;
   }
   .usa-sidenav__item a:not(.usa-current):hover {
@@ -89,7 +89,7 @@ title: User Guide for Public Solvers | Log Into Solver Portal
 
   .usa-sidenav__sublist a:not(.usa-current),
   .usa-sidenav__item a.child-link:not(.usa-current) {
-    color: #757575 !important;
+    color: #6E6E6E !important;
   }
 
   .usa-current {

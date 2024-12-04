@@ -20,20 +20,20 @@ title: User Guide for Public Solvers | Submit to a Challenge
         <p>This feature is only available for challenges accepting submissions via the Challenge.Gov portal. These challenges will have an Apply for this challenge button in the general information section of the challenge details page.
 </p>
         <ol>
-          <li class="font-bolder"><span>Prior to applying to a challenge, carefully review the information on the How to enter tab and follow instructions provided to prepare your submission.
-</span></li><br>
-          <li class="font-bolder"><span>Review the Rules tab to review rules, eligibility, terms and conditions information to ensure your entry meets challenge participation requirements.
-</span></li><br>
-          <li class="font-bolder"><span>Click <b>Apply for this challenge</b> button.</span></li><br>
-          <li class="font-bolder"><span>If you are not already logged in, select <b>Accept and Sign-in</b> to access the Solver Portal. <a href="{{ site.baseurl }}/user-guide/create-your-account/">Need help logging in or creating a user account?</a></span></li><br>
-          <li class="font-bolder"><span>Complete challenge submission form as directed. Click <b>Save draft</b> at any point to save and continue working at a later time.</span></li><br>
-          <li class="font-bolder"><span>Complete challenge submission form as directed. Select <b>Save draft</b> at any point to save and continue working at a later time.
-</span></li><br>
-          <li class="font-bolder"><span>Select the box next to <b>“I have read the rules, terms and conditions of this challenge.”</b>
-</span></li><br>
-          <li class="font-bolder"><span>Select <b>Submit</b>. A window appears for you to confirm you are ready to submit. Either select <b>Cancel</b> to return to edit or <b>Submit</b> to complete your submission.
-</span></li><br>
-           <li class="font-bolder"><span>You will receive a confirmation email from team@challenge.gov with the subject “Challenge.gov - Submission created for [Name of Challenge]”.
+          <li class="padding-bottom-3 font-bolder"><span>Prior to applying to a challenge, carefully review the information on the How to enter tab and follow instructions provided to prepare your submission.
+</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>Review the Rules tab to review rules, eligibility, terms and conditions information to ensure your entry meets challenge participation requirements.
+</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>Click <b>Apply for this challenge</b> button.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>If you are not already logged in, select <b>Accept and Sign-in</b> to access the Solver Portal. <a href="{{ site.baseurl }}/user-guide/create-your-account/">Need help logging in or creating a user account?</a></span></li>
+          <li class="padding-bottom-3 font-bolder"><span>Complete challenge submission form as directed. Click <b>Save draft</b> at any point to save and continue working at a later time.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>Complete challenge submission form as directed. Select <b>Save draft</b> at any point to save and continue working at a later time.
+</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>Select the box next to <b>“I have read the rules, terms and conditions of this challenge.”</b>
+</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>Select <b>Submit</b>. A window appears for you to confirm you are ready to submit. Either select <b>Cancel</b> to return to edit or <b>Submit</b> to complete your submission.
+</span></li>
+           <li class="padding-bottom-3 font-bolder"><span>You will receive a confirmation email from team@challenge.gov with the subject “Challenge.gov - Submission created for [Name of Challenge]”.
 
 </span></li>
         </ol>
@@ -87,7 +87,7 @@ title: User Guide for Public Solvers | Submit to a Challenge
   }
   .child-link {
     text-indent: 2em;
-    color: #757575;
+    color: #6E6E6E;
     font-weight: 500;
   }
   .usa-sidenav__item a:not(.usa-current):hover {
@@ -103,7 +103,7 @@ title: User Guide for Public Solvers | Submit to a Challenge
 
   .usa-sidenav__sublist a:not(.usa-current),
   .usa-sidenav__item a.child-link:not(.usa-current) {
-    color: #757575 !important;
+    color: #6E6E6E !important;
   }
 
   .usa-current {

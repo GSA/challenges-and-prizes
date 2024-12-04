@@ -97,7 +97,9 @@ title: Case Study - Follow That Cell
                     <h3 class="spb-heading spb_video_heading"><span>Hear From the Follow That Cell Winners</span>
                     </h3>
                     <div class="sf-video-wrap">
-                      <iframe src="https://www.youtube.com/embed/lwvsvIPZLUI?feature=oembed" allowfullscreen="" width="500" height="281" frameborder="0"></iframe>
+                      <iframe src="https://www.youtube.com/embed/lwvsvIPZLUI?feature=oembed" 
+                       title="Video about Hear From the Follow That Cell Winners"
+                      allowfullscreen="" width="500" height="281" frameborder="0"></iframe>
                     </div>
                   </div>
                 </div>

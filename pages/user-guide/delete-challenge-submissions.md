@@ -20,11 +20,11 @@ title: User Guide for Public Solvers | Delete Challenge Submissions
         <p>Delete your submission and make it unavailable for review by the challenge management team. Submissions can be deleted at any time prior to the submission period end.</p>
         <p><b>NOTE:</b> This feature is only available for challenges accepting submissions via the Challenge.Gov portal. These challenges will have an orange <b>Apply for this challenge</b> button in the general information section of the challenge details page.</p>
         <ol>
-          <li class="font-bolder"><span>From solver portal dashboard, click <b>My Submissions</b>.</span></li><br>
-          <li class="font-bolder"><span>Click the tile of the submission you wish to edit and update your content.</span></li><br>
-          <li class="font-bolder"><span>Click tile of the submission you wish to delete and click <b>Review and submit</b>.</span></li><br>
-          <li class="font-bolder"><span>Click <b>Delete</b> in lower left corner.</span></li><br>
-          <li class="font-bolder"><span>Click <b>OK</b> to confirm.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>From solver portal dashboard, click <b>My Submissions</b>.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>Click the tile of the submission you wish to edit and update your content.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>Click tile of the submission you wish to delete and click <b>Review and submit</b>.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>Click <b>Delete</b> in lower left corner.</span></li>
+          <li class="padding-bottom-3 font-bolder"><span>Click <b>OK</b> to confirm.</span></li>
         </ol>
       </div>
     </div>
@@ -76,7 +76,7 @@ title: User Guide for Public Solvers | Delete Challenge Submissions
   }
   .child-link {
     text-indent: 2em;
-    color: #757575;
+    color: #6E6E6E;
     font-weight: 500;
   }
   .usa-sidenav__item a:not(.usa-current):hover {
@@ -92,7 +92,7 @@ title: User Guide for Public Solvers | Delete Challenge Submissions
 
   .usa-sidenav__sublist a:not(.usa-current),
   .usa-sidenav__item a.child-link:not(.usa-current) {
-    color: #757575 !important;
+    color: #6E6E6E !important;
   }
 
   .usa-current {
