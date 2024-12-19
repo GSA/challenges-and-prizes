@@ -17,18 +17,10 @@ title: Events
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
           </svg>
         </svg>
-        <h2 class="card-title text-center" style="font-weight: 900;">Fall 2024 Webinar Series</h2>
-        <h4>Federal Innovation Through Prize Competitions<br/></h4>
-         <p class="card-text text-center"> <b>Discover How Federal Agencies are Using Prize Competitions to Drive Innovation and Solve Problems</b></p>
-        <p class="card-text text-center"> Join Challenge.gov for a webinar series exploring how key federal agencies are using prize competitions to drive innovation, solve national challenges, and advance critical initiatives. Each session will highlight a different agency and their approaches to designing, delivering, and scaling prize competitions to advance their agency’s mission.
-</p>
-<p class="card-text text-center"><b>National Aeronautics and Space Administration</b>, December 11, 3:00 - 4:00 pm ET</p>
-
-<p>Don't miss this chance to learn from federal innovation leaders. This series is ideal for federal employees or innovators interested in how prize competitions are advancing solutions from energy and health to global development and space exploration.</p>
-      
+        <h2 class="card-title text-center" style="font-weight: 900;">Stay tuned for upcoming events</h2>
+             
     </div>  
   </div> 
-</div>
 </div>
 </div>
 <h2 class="text-center margin-top-0">Past Events</h2>
