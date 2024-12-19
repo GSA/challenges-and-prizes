@@ -25,7 +25,7 @@ title: Events
 <p class="card-text text-center"><b>National Aeronautics and Space Administration</b>, December 11, 3:00 - 4:00 pm ET</p>
 
 <p>Don't miss this chance to learn from federal innovation leaders. This series is ideal for federal employees or innovators interested in how prize competitions are advancing solutions from energy and health to global development and space exploration.</p>
-        <a href="https://gsa.zoomgov.com/webinar/register/4817259767612/WN_QZ6RkJe6QGK8FgQt1fPlpA" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a>
+      
     </div>  
   </div> 
 </div>
