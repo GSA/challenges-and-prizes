@@ -39,6 +39,21 @@ title: Events
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
           </svg>
         </svg>
+        <h2 class="card-title text-center" style="font-weight: 900;">December 11, 2024</h2>
+        <h4>Federal Innovation Through Prize Competitions<br/>
+        National Aeronautics and Space Administration</h4>
+      
+        <p class="card-text text-center"> In the final session of Challenge.gov's Fall 2024 webinar series featured the National Aeronautics and Space Administration. </p>
+<p class="card-text text-center">Participants learned how NASA is using prize compmetitoins to drive innovation, solve national challenges, build networks of innovators, and advance critical initiatives.</p>
+
+      
+    </div>  
+  </div> 
+     <div class="usa-card">
+      <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
+            <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
+          </svg>
+        </svg>
         <h2 class="card-title text-center" style="font-weight: 900;">November 7, 2024</h2>
         <h4>Federal Innovation Through Prize Competitions: <br/>
           U.S. Agency for International Development
