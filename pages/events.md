@@ -37,6 +37,7 @@ title: Events
         National Aeronautics and Space Administration</h4>
       <p class="card-text text-center"> In the final session of Challenge.gov's Fall 2024 webinar series featured the National Aeronautics and Space Administration. </p>
 <p class="card-text text-center">Participants learned how NASA is using prize compmetitoins to drive innovation, solve national challenges, build networks of innovators, and advance critical initiatives.</p>
+         <p class="card-text text-center">Watch the <a href="https://youtu.be/ABobdao7l5Q?si=A_XJkuPOsToYEgnh">event recording</a>.</p>
     </div>  
   </div> 
      <div class="usa-card">
