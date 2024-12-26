@@ -13,7 +13,7 @@ image: /assets/netlify-uploads/1.png
 image_alt_text: winner Q&A header image
 post-body-content-uploads: /assets/netlify-uploads/webp.net-resizeimage-1-.jpg
 ---
-Recently, the [](https://www.nih.gov/about-nih/what-we-do/nih-almanac/national-institute-drug-abuse-nida)[National Institute on Drug Abuse (NIDA)](https://www.nih.gov/about-nih/what-we-do/nih-almanac/national-institute-drug-abuse-nida){:target="_blank"}, one of the components of the National Institutes of Health (NIH), announced the winners of its fifth [“$100,000 for Start a SUD Startup” Challenge](https://www.challenge.gov/?challenge=2021-start-a-sud-startup-challenge), which was hosted on GSA’s Challenge.gov platform. The SUD Startup Challenge goal is to support research ideas that would further an understanding of substance use disorders (SUD) and that are intended to lay the foundation for the development of successful new startups.
+Recently, the [National Institute on Drug Abuse (NIDA)](https://www.nih.gov/about-nih/what-we-do/nih-almanac/national-institute-drug-abuse-nida){:target="_blank"}, one of the components of the National Institutes of Health (NIH), announced the winners of its fifth “$100,000 for Start a SUD Startup” Challenge, which was hosted on GSA’s Challenge.gov platform. The SUD Startup Challenge goal is to support research ideas that would further an understanding of substance use disorders (SUD) and that are intended to lay the foundation for the development of successful new startups.
 
 In anticipation of the announcement, Challenge.gov recently caught up with a past winner to learn more about their motivation to participate in NIDA’s annual competition, what they learned from the experience, what impact their prize-winning solution is making today, and what advice they have for the latest crop of winners.
 
@@ -27,7 +27,7 @@ In anticipation of the announcement, Challenge.gov recently caught up with a pas
 <p class="margin-top-2"><strong>Who are you?</strong></p>
 <!-- **Who are you?** -->
 
-My name is Tim K. Mackey, and I am the co-founder and CEO of [S-3 Research LLC](https://www.s-3.io/){:target="_blank"}. I’m essentially a researcher-turned-entrepreneur with the help of the U.S. government through the SUD Startup Challenge award and the [Small Business Innovation Research (SBIR) program](https://nida.nih.gov/funding/small-business-innovation-research-sbir-technology-transfer-sttr-programs){:target="_blank"}. I am also a current associate professor at UC San Diego where I teach and research on global health, health technology, and public policy.
+My name is Tim K. Mackey, and I am the co-founder and CEO of [S-3 Research LLC](https://www.s-3.io/){:target="_blank"}. I’m essentially a researcher-turned-entrepreneur with the help of the U.S. government through the SUD Startup Challenge award and the Small Business Innovation Research (SBIR) program. I am also a current associate professor at UC San Diego where I teach and research on global health, health technology, and public policy.
 
 **What is the name of your company, where is it located, and what does it “do”?**
 
@@ -54,7 +54,7 @@ The scourge of the opioid epidemic and its toll on society is real and acute. I�
 
 **How did you hear about NIDA’s SUD Startup Challenge and why did you decide to apply?**
 
-<p class="margin-bottom-0">We heard about the challenge after participating in the <a href="https://aspe.hhs.gov/reports/research-address-opioid-crisis-approaches-data-linkage" target="_blank">HHS 2017 Opioid Code-a-Thon</a> after being invited to form a team by a colleague formally at the U.S. Centers for Disease Control and Prevention. We were chosen as a finalist but didn’t win one of the three prizes, however, this gave us the opportunity to learn about the Challenge award and we applied.</p>
+<p class="margin-bottom-0">We heard about the challenge after participating in the HHS 2017 Opioid Code-a-Thon after being invited to form a team by a colleague formally at the U.S. Centers for Disease Control and Prevention. We were chosen as a finalist but didn’t win one of the three prizes, however, this gave us the opportunity to learn about the Challenge award and we applied.</p>
 
 <figure style="float:left; margin:1em;" > <img height="300px" src="{{ site.baseurl }}/assets/netlify-uploads/webp.net-resizeimage-1-.jpg" alt="Tim K. Mackey, CEO of S-3 Research"/> <figcaption style="font-size: smaller;top: -6px;position: relative;margin-top: -2px;">HHS Opioid Code-a-thon Team whose participation led to Challenge award application</figcaption> </figure>
 
