@@ -134,10 +134,7 @@ title: Case Study - DESAL Prize
                     <li>USBR and USAID were able to combine resources and funding to achieve a goal that benefits innovators and farmers in both the United States and developing countries.</li></ul>
                  <p></p>
                   <h2>Legal Authority</h2>
-                  <p>USAID Assistance Authority</p>
-                  <h2>Challenge Website</h2>
-                  <p><a href="http://www.securingwaterforfood.org" target="_blank">Securing Water for Food: a Grand Challange for Development</a></p>
-               
+                  <p>USAID Assistance Authority</p>             
  </div>
             </section>
           </section>
