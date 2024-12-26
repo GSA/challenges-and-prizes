@@ -1,7 +1,7 @@
 ---
 permalink: /resources/
 layout: page
-title: Resources
+title: Resources for Public Innovators
 ---
 <h1 class="text-center usa-margin-bottom--4 font-weight-bold">Resources for Public Innovators</h1> 
 <div class="grid-row grid-gap">
