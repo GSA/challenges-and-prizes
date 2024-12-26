@@ -107,7 +107,7 @@ title: Case Study - DESAL Prize
                   <p>In addition, the Desal Prize was featured in blog posts and articles including the Water Desalination Report. The Desal Prize staff attended conferences and webinars to further enhance communications efforts.</p>
                   <p>Communications efforts were led by the USAID Global Development Lab Office of Communications, with support from a communications contractor.</p>
                   <p><b>Area of Excellence #6: "Accept Solutions"</b></p>
-                  <p>For the Phase-2 Technological Demonstration, semifinalist teams were required to submit the following via the platform found at http://thedesalprize.net:</p>
+                  <p>For the Phase-2 Technological Demonstration, semifinalist teams were required to submit the following:</p>
                   <ul>
                     <li>Video proof of existence and functionality of the prototypes: The purpose of this requirement was to ensure that the teams were progressing to a prototyping development level that would enable them to compete at the BGNDRF.</li>
                     <li>A detailed description of the team's operational plan for testing at the BGNDRF that includes:</li>
@@ -132,19 +132,15 @@ title: Case Study - DESAL Prize
                     <li>The innovators received media placement in high visibility sources including USA Today, The Boston Globe, Wired Magazine, CNBC, Bloomberg</li>  
                     <li>News and several media outlets locally and in the innovators' home regions.</li>
                     <li>The BGNDRF has already received several requests for innovators to utilize their end-user facility for testing due to increased visibility in the press.</li>
-                    <li>USBR and USAID were able to combine resources and funding to achieve a goal that benefits innovators and farmers in both the United States and developing countries.</li>
-                  </ul>
+                    <li>USBR and USAID were able to combine resources and funding to achieve a goal that benefits innovators and farmers in both the United States and developing countries.</li></ul>
+                 <p></p>
                   <h2>Legal Authority</h2>
-                  <p>USAID Assistance Authority</p>
-                  <h2>Challenge Website</h2>
-                  <p><a href="http://www.securingwaterforfood.org">http://www.securingwaterforfood.org</a>
-                  </p>
-                </div>
-              </section>
+                  <p>USAID Assistance Authority</p>             
+ </div>
             </section>
-          </div>
-        </article>
-      </div>
+          </section>
+        </div>
+      </article>
     </div>
   </div>
-  
+</div>  

@@ -61,8 +61,8 @@ title: Case Study - Ultra-High Speed Apps
                 <p>NIJ used the general NIJ statute that authorizes research, and the authority of 28 USC section 530C; America Competes Act was not the Authority for Challenges for NIJ at the time of the Ultra High-speed App Challenge.</p>
                 <h2>Challenge Website</h2>
                 <p>
-                  <a href="http://nij.gov/funding/pages/fy13-ultra-high-speed-apps-challenge.aspx">http://nij.gov/funding/pages/fy13-ultra-high-speed-apps-challenge.aspx</a>
-                </p>s</div>
+                  <a href="http://nij.gov/funding/pages/fy13-ultra-high-speed-apps-challenge.aspx" target="_blank">NIJ Ultra-High Speed Apps Challenge: Using Current Technology to Improve Criminal Justice Operations</a>
+                </p></div>
               </section>
             </section>
           </div>
