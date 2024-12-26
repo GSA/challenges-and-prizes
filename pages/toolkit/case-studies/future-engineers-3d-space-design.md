@@ -79,7 +79,9 @@ title: Case Study - Future Engineers 3D Space Design
                     <h3 class="spb-heading spb_video_heading"><span>See How NASA Announced the 3D Challenges</span>
                     </h3>
                     <div class="sf-video-wrap">
-                      <iframe src="https://www.youtube.com/embed/3HSE5vp2ulU?feature=oembed" allowfullscreen="" width="500" height="281" frameborder="0"></iframe>
+                      <iframe src="https://www.youtube.com/embed/3HSE5vp2ulU?feature=oembed" 
+                       title="Video about See How NASA Announced the 3D Challenges"
+                      allowfullscreen="" width="500" height="281" frameborder="0"></iframe>
                     </div>
                   </div>
                 </div>
@@ -97,7 +99,9 @@ title: Case Study - Future Engineers 3D Space Design
                     <h3 class="spb-heading spb_video_heading"><span>Hear From the Finalists</span>
                     </h3>
                     <div class="sf-video-wrap">
-                      <iframe src="https://www.youtube.com/embed/fNoqbVBkc8E?feature=oembed" allowfullscreen="" width="500" height="281" frameborder="0"></iframe>
+                      <iframe src="https://www.youtube.com/embed/fNoqbVBkc8E?feature=oembed" 
+                       title="Video about Hear From the Finalists"
+                      allowfullscreen="" width="500" height="281" frameborder="0"></iframe>
                     </div>
                   </div>
                 </div>

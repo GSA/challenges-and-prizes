@@ -19,11 +19,11 @@ title: User Guide for Public Solvers | Message Center Features
         <div class="usa-prose">
           <p>Features to help you filter and manage your messages.</p>
           <ul style="padding-left: 50px;">
-                      <li><b>Filter by Challenge</b>: Dropdown list at the top of page allows you to filter list of messages by challenge.</li><br>
-                      <li><b>Star</b>: Click star icon next to message date to add it to a special list and allow you to access it by clicking the Starred link at the top of the page.</li><br>
-                      <li><b>Mark as Unread</b>: All unread messages can be accessed by clicking Unread at the top of page. To mark a viewed message as “unread”, hover over the Message Snippet and click the envelope icon.</li><br>
-                      <li><b>Archive</b>: Archived messages can be accessed by clicking Archived at the top of page. Hover over the Message Snippet and click the box icon to archive it.</li><br>
-                      <li><b>Drafts</b>: Draft messages are accessed by clicking the Drafts link at the top of the page.</li>
+                      <li class="padding-bottom-3" ><b>Filter by Challenge</b>: Dropdown list at the top of page allows you to filter list of messages by challenge.</li>
+                      <li class="padding-bottom-3"><b>Star</b>: Click star icon next to message date to add it to a special list and allow you to access it by clicking the Starred link at the top of the page.</li>
+                      <li class="padding-bottom-3"><b>Mark as Unread</b>: All unread messages can be accessed by clicking Unread at the top of page. To mark a viewed message as “unread”, hover over the Message Snippet and click the envelope icon.</li>
+                      <li class="padding-bottom-3"><b>Archive</b>: Archived messages can be accessed by clicking Archived at the top of page. Hover over the Message Snippet and click the box icon to archive it.</li>
+                      <li class="padding-bottom-3"><b>Drafts</b>: Draft messages are accessed by clicking the Drafts link at the top of the page.</li>
                     </ul>
         </div>
       </div>
@@ -75,7 +75,7 @@ title: User Guide for Public Solvers | Message Center Features
     }
     .child-link {
       text-indent: 2em;
-      color: #757575;
+      color: #6E6E6E;
       font-weight: 500;
     }
     .usa-sidenav__item a:not(.usa-current):hover {
@@ -91,7 +91,7 @@ title: User Guide for Public Solvers | Message Center Features
 
     .usa-sidenav__sublist a:not(.usa-current),
     .usa-sidenav__item a.child-link:not(.usa-current) {
-      color: #757575 !important;
+      color: #6E6E6E !important;
     }
 
     .usa-current {

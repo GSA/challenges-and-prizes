@@ -17,17 +17,7 @@ title: User Guide for Challenge Managers | Grant Contractor Access
   <div class="grid-row grid-gap justify-content-between">
     <div class="grid-col-7">
       <div class="usa-prose">
-       <p>Federal Challenge Managers can request that contractors without a government email account (.mil or .gov) be granted special access to help with challenge creation and management. Only a user with a full Challenge Manager account (someone with a government–.gov or .mil–email) can submit challenges for official review and approval by the Challenge.Gov support team.</p>
-       <ol>
-        <li class="font-bolder"><span>Person who needs to be added creates a Challenge.Gov public solver account. The process for creating a public solver account is the same as for a challenge manager account. The exceptions being: (1) requiring use of a government email; (2) needing approval by the Challenge.Gov Support Team.</span></li>
-        <li class="font-bolder"><span>The challenge manager who initially created the listing sends an email request to <a href="mailto:team@challenge.gov">team@challenge.gov</a> with following:
-          <ul>
-            <li>Subject Line: “Request to activate contractor account”</li>
-            <li>Challenge Name</li>
-            <li>Name of person to be added</li>
-            <li>Email address of person to be added (from step 1)</li>
-          </ul></span></li>
-        </ol>
+       <p>As of August 2, 2024, all challenge manager accounts must be created with a .gov or .mil email address. Contractors without a government email account (.gov or .mil) will not be granted challenge manager access.</p>
       </div>
     </div>
     <div class="grid-col-4"> {% include cm-user-guide-nav.html %} </div>
@@ -77,7 +67,7 @@ title: User Guide for Challenge Managers | Grant Contractor Access
   }
   .child-link {
     text-indent: 2em;
-    color: #757575;
+    color: #6E6E6E;
     font-weight: 500;
   }
   .usa-sidenav__item a:not(.usa-current):hover {
@@ -93,7 +83,7 @@ title: User Guide for Challenge Managers | Grant Contractor Access
   
   .usa-sidenav__sublist a:not(.usa-current),
   .usa-sidenav__item a.child-link:not(.usa-current) {
-    color: #757575 !important;
+    color: #6E6E6E !important;
   }
   
   .usa-current {

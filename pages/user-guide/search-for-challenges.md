@@ -18,10 +18,10 @@ title: User Guide for Public Solvers | Search for Challenges
         <div class="usa-prose">
           <p>Search Challenge.Gov to locate a challenge of interest.</p>
           <ol>
-            <li class="font-normal"><span>Locate the search box (white box with looking glass icon) in the top right corner.</span></li><br>
-            <li class="font-normal"><span>Enter challenge name or keywords to search into the search box then click the looking glass icon.</span></li><br>
-            <li class="font-normal"><span>Review list of search results.</span></li><br>
-            <li class="font-normal"><span>Click the challenge name to access the challenge profile.</span></li>
+            <li class="padding-bottom-3 font-normal"><span>Locate the search box (white box with looking glass icon) in the top right corner.</span></li>
+            <li class="padding-bottom-3 font-normal"><span>Enter challenge name or keywords to search into the search box then click the looking glass icon.</span></li>
+            <li class="padding-bottom-3 font-normal"><span>Review list of search results.</span></li>
+            <li class="padding-bottom-3 font-normal"><span>Click the challenge name to access the challenge profile.</span></li>
           </ol>
         </div>
       </div>
@@ -73,7 +73,7 @@ title: User Guide for Public Solvers | Search for Challenges
     }
     .child-link {
       text-indent: 2em;
-      color: #757575;
+      color: #6E6E6E;
       font-weight: 500;
     }
     .usa-sidenav__item a:not(.usa-current):hover {
@@ -89,7 +89,7 @@ title: User Guide for Public Solvers | Search for Challenges
 
     .usa-sidenav__sublist a:not(.usa-current),
     .usa-sidenav__item a.child-link:not(.usa-current) {
-      color: #757575 !important;
+      color: #6E6E6E !important;
     }
 
     .usa-current {
