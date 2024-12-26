@@ -21,7 +21,7 @@ title: User Guide for Public Solvers | Save Challenges
         <p><b>NOTE:</b> Feature is not available for challenges that redirect to an external site.</p>
         <ol>
           <li class="font-bolder"><span>From challenge details page, click <b>Follow challenge</b> in the general information section of the page.</span></li><br>
-          <li class="font-bolder"><span>Click <b>Save Challenge</b>. If you are not currently <a href="/user-guide/log-into-solver-portal.html" title="Logging in" aria-label="Loggin in">logged in</a>, you will be prompted to do so.</span></li><br>
+          <li class="font-bolder"><span>Click <b>Save Challenge</b>. If you are not currently logged in, you will be prompted to do so.</span></li><br>
           <li class="font-bolder"><span>Log into Challenge.Gov Solver Portal.</span></li><br>
           <li class="font-bolder"><span>Click <b>Accept and Sign-in</b> to acknowledge the terms of use.</span></li><br>
           <li class="font-bolder"><span>Enter the email address and password associated with your account and click <b>Sign in</b>.</span></li><br>
