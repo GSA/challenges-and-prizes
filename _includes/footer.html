@@ -83,25 +83,23 @@
 <!-- Digital Analytics Program roll-up, see https://analytics.usa.gov for data -->
 <script id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency={{site.dap_agency}}"></script>
 {% if site.branch == "production" %}
-<link rel="stylesheet" href="https://portal.challenge.gov/css/public.css" integrity="sha384-U3FAM/KmpWpDIC9LvHTiN5MfVf9HnN8i0pKD4IvBnzxfTSVlbqCLSUx1MQwjYkov" crossorigin="anonymous">
-<script src="https://portal.challenge.gov/js/public.js" integrity="sha384-EadIINJfyK5WjX2xpy9sbX/YPYG7toOOYJVp1gS0Lwmun/DVJ3udFIqyS5rBQJDt" crossorigin="anonymous"></script>
-<script src="https://portal.challenge.gov/js/client.js" integrity="sha384-J11hCQC6+esHSrCiCMdMesm2fLHifDXWYhx3Yq++Ox67dkUGWTJeXGWlbdTAgd7a" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://portal.challenge.gov/css/public.css" crossorigin="anonymous">
+<script src="https://portal.challenge.gov/js/public.js"  crossorigin="anonymous"></script>
+<script src="https://portal.challenge.gov/js/client.js"  crossorigin="anonymous"></script>
 {% elsif site.branch == "staging" %}
-<link rel="stylesheet" href="https://challenge-portal-staging.app.cloud.gov/css/public.css" integrity="sha384-U3FAM/KmpWpDIC9LvHTiN5MfVf9HnN8i0pKD4IvBnzxfTSVlbqCLSUx1MQwjYkov" crossorigin="anonymous">
-<script src="https://challenge-portal-staging.app.cloud.gov/js/public.js" integrity="sha384-EadIINJfyK5WjX2xpy9sbX/YPYG7toOOYJVp1gS0Lwmun/DVJ3udFIqyS5rBQJDt" crossorigin="anonymous"></script>
-<script src="https://challenge-portal-staging.app.cloud.gov/js/client.js" integrity="sha384-2H5+GtVkVnbdZ8eOn+Ae6gpnADKDtm73dRVqjQmgZlYZ4Wx50fZS2lRqeNo8pq4Y" crossorigin="anonymous"></script>
-{% elsif site.branch == "dev" %}
+<link rel="stylesheet" href="https://challenge-portal-staging.app.cloud.gov/css/public.css"  crossorigin="anonymous">
+<script src="https://challenge-portal-staging.app.cloud.gov/js/public.js"  crossorigin="anonymous"></script>
+<script src="https://challenge-portal-staging.app.cloud.gov/js/client.js"  crossorigin="anonymous"></script>{% elsif site.branch == "dev" %}
 <link rel="stylesheet" href="https://challenge-portal-staging.app.cloud.gov/css/public.css" crossorigin="anonymous">
-<script src="https://challenge-portal-staging.app.cloud.gov/js/public.js" integrity="sha384-EadIINJfyK5WjX2xpy9sbX/YPYG7toOOYJVp1gS0Lwmun/DVJ3udFIqyS5rBQJDt" crossorigin="anonymous"></script>
-<script src="https://challenge-portal-staging.app.cloud.gov/js/client.js" integrity="sha384-2H5+GtVkVnbdZ8eOn+Ae6gpnADKDtm73dRVqjQmgZlYZ4Wx50fZS2lRqeNo8pq4Y" crossorigin="anonymous"></script>
-{% elsif jekyll.environment == "dev" %}
+<script src="https://challenge-portal-staging.app.cloud.gov/js/public.js"  crossorigin="anonymous"></script>
+<script src="https://challenge-portal-staging.app.cloud.gov/js/client.js" crossorigin="anonymous"></script>{% elsif jekyll.environment == "dev" %}
 <link rel="stylesheet" href="http://localhost:4000/css/public.css" crossorigin="anonymous">
 <script src="http://localhost:4000/js/public.js"></script>
 <script src="http://localhost:4000/js/client.js"></script>
 {% else %}
 <link rel="stylesheet" href="https://challenge-portal-dev.app.cloud.gov/css/public.css" crossorigin="anonymous">
-<script src="https://challenge-portal-dev.app.cloud.gov/js/public.js" integrity="sha384-ftiQihfu16XPU9p/A7Q14SYrPout4fCgSJ5ikgKf2MPk4tbCNvmqBAVyTQG5//Mb" crossorigin="anonymous"></script>
-<script src="https://challenge-portal-dev.app.cloud.gov/js/client.js" integrity="sha384-y+/LgZ9pTFrdlYvopf1yFjGmXJm3HhUTeQ+pNWtokc/ILrXgmfKtiw5dGjYA29f0" crossorigin="anonymous"></script>
+<script src="https://challenge-portal-dev.app.cloud.gov/js/public.js"  crossorigin="anonymous"></script>
+<script src="https://challenge-portal-dev.app.cloud.gov/js/client.js"  crossorigin="anonymous"></script>
 {% endif %}
 <script>
   // Explore challenges button scroll to active challenges section of react app

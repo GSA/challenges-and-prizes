@@ -53,26 +53,6 @@ title: Case Study - Reference Data Challenge
                 </p>
               </div>
             </section>
-            <section class="grid-container">
-              <div class="usa-grid">
-                <div class="blank_spacer usa-grid-full" style="height:30px;"></div>
-              </div>
-            </section>
-            <section class="grid-container">
-              <div class="usa-grid">
-                <div class="spb_video_widget spb_content_element usa-grid-full">
-                  <div class="spb_wrapper">
-                    <h3 class="spb-heading spb_video_heading"><span>Kris Reyes Explains His Winning Submission</span>
-                    </h3>
-                    <div class="sf-video-wrap">
-                      <iframe src="https://www.youtube.com/embed/NoaQEiz3CGg?feature=oembed" 
-                      title="Video about Kris Reyes Explains His Winning Submission"
-                      allowfullscreen="" width="500" height="281" frameborder="0"></iframe>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </section>
           </section>
         </div>
       </article>

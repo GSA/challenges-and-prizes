@@ -54,10 +54,6 @@ title: Case Study - INSTINCT challenge
                 <p>How do you know if you can trust someone? The INSTINCT Challenge asked members of the American public to develop algorithms that improved predictions of trustworthiness using neural, physiological and behavioral data recorded during experiments in which volunteers made high-stakes promises and chose whether or not to keep them. Answering this question accurately is essential for society in general—but particularly so in the Intelligence Community (IC), where knowing whom to trust is often vital.</p>
                 <h2>Legal Authority</h2>
                 <p>Procurement authority</p>
-                <h2>Challenge Website</h2>
-                <p>
-                  <a href="http://www.iarpa.gov/index.php/working-with-iarpa/prize-challenges/218-instinct-iarpa-s-trustworthiness-challenge?highlight=WyJpbnN0aW5jdCJd">http://www.iarpa.gov/index.php/working-with-iarpa/prize-challenges/218-instinct-iarpa-s-trustworthiness-challenge?highlight=WyJpbnN0aW5jdCJd</a>
-                </p>
               </div>
             </section>
           </section>

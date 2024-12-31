@@ -13,8 +13,7 @@ If you answered yes to any of these questions, the Challenge and Prize Community
 
 > **Join the Community:** Anyone with a .gov or .mil email address is eligible to join.
 >
-> - To join, <a href="mailto: challenges-subscribe-request@listserv.gsa.gov">email a request to</a> at challenges-subscribe-request@listserv.gsa.gov with nothing in the subject.
-> - Community Manager: <a href="https://digital.gov/authors/jarah-meador/">Jarah Meador, GSA</a>
+> - To join, email a request to <a href="mailto: challenges-subscribe-request@listserv.gsa.gov">challenges-subscribe-request@listserv.gsa.gov</a> with nothing in the subject.
                
 
 **Who We Are**
