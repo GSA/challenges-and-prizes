@@ -17,15 +17,8 @@ title: Events
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
           </svg>
         </svg>
-        <h2 class="card-title text-center" style="font-weight: 900;">Fall 2024 Webinar Series</h2>
-        <h4>Federal Innovation Through Prize Competitions<br/></h4>
-         <p class="card-text text-center"> <b>Discover How Federal Agencies are Using Prize Competitions to Drive Innovation and Solve Problems</b></p>
-        <p class="card-text text-center"> Join Challenge.gov for a webinar series exploring how key federal agencies are using prize competitions to drive innovation, solve national challenges, and advance critical initiatives. Each session will highlight a different agency and their approaches to designing, delivering, and scaling prize competitions to advance their agency’s mission.
-</p>
-<p class="card-text text-center"><b>National Aeronautics and Space Administration</b>, December 11, 3:00 - 4:00 pm ET</p>
-
-<p>Don't miss this chance to learn from federal innovation leaders. This series is ideal for federal employees or innovators interested in how prize competitions are advancing solutions from energy and health to global development and space exploration.</p>
-        <a href="https://gsa.zoomgov.com/webinar/register/4817259767612/WN_QZ6RkJe6QGK8FgQt1fPlpA" class="usa-button usa-button"><span style="color: #ffffff;">Register</span></a>
+        <h2 class="card-title text-center" style="font-weight: 900;">Stay tuned for upcoming events</h2>
+             
     </div>  
   </div> 
 </div>
@@ -34,6 +27,19 @@ title: Events
 <h2 class="text-center margin-top-0">Past Events</h2>
 <div class="grid-row">
   <div class="grid-col-12">
+     <div class="usa-card">
+      <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
+            <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
+          </svg>
+        </svg>
+        <h2 class="card-title text-center" style="font-weight: 900;">December 11, 2024</h2>
+        <h4>Federal Innovation Through Prize Competitions:<br/>
+        National Aeronautics and Space Administration</h4>
+      <p class="card-text text-center"> In the final session of Challenge.gov's Fall 2024 webinar series featured the National Aeronautics and Space Administration. </p>
+<p class="card-text text-center">Participants learned how NASA is using prize compmetitoins to drive innovation, solve national challenges, build networks of innovators, and advance critical initiatives.</p>
+         <p class="card-text text-center">Watch the <a href="https://youtu.be/ABobdao7l5Q?si=A_XJkuPOsToYEgnh">event recording</a>.</p>
+    </div>  
+  </div> 
      <div class="usa-card">
       <div class="usa-card__body text-center"> <svg class="usa-icon usa-icon-large" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="stay-tuned-for-upcoming-events" role="img">
             <title id="stay-tuned-for-upcoming-events">stay tuned for upcoming events</title>        <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#calendar_today"></use>
