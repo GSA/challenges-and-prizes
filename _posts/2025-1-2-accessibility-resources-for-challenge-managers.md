@@ -14,12 +14,13 @@ image_alt_text: White text on blue background Challenge.gov Challenge and Prize 
 
 <p>The AMA session was a special federal-only follow-up conversation to Challenge.gov’s webinar series on Federal Innovation Through Prize Competitions with USAID. Challenge.gov hosted similar conversations with NASA, NIH, and DOE. You can watch the recordings on Challenge.gov’s YouTube channel. We invited the USAID team to Office Hours to connect with the federal community and answer questions about their unique approach to federal prize challenges.</p>
 
-<p>We pivoted the conversation with a discussion on how agencies are ensuring challenge content is accessible under Section 508. Here are a few resources members of the community shared.</p>
-
+<p>We pivoted the conversation with a discussion on how agencies are ensuring challenge content is accessible under Section 508. Here are a few resources members of the community shared.
+<ul>
 <li>Section508.gov provides guidance to federal agency staff who play a role in IT accessibility. The site addresses several key topics, including program management, roles and responsibilities, procurement, tools and training, and policy compliance.</li>
 <li>Digital.gov has a resource to better understand the policy framework of the 21st Century Integrated Digital Experience Act (IDEA). Delivering a digital-first public experience is a significant opportunity to improve the lives of millions by making it easier to access the information and services they use and count on each and every day.</li>
 <li>U.S. Web Design System (USWDS) provides system color tokens and other design resources, making it easier to build accessible, mobile-friendly government websites. </li>
-
+  </ul>
+</p>
 <p>What are your go-to accessibility resources? Come to the next Office Hours and share with the community.</p>
 
 
