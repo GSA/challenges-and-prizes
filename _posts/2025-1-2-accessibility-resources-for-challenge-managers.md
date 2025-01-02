@@ -3,7 +3,7 @@ date: 2025/01/02
 layout: post
 permalink: /blog/2025-1-2-accessibility-resources-for-challenge-managers/
 title: Ask Me Anything (AMA) with USAID and Accessibility Resources
-tagline: Accessibility resources for challenge managers
+tagline: Resources to make federal prize competitions more accessible
 excerpt: A summary of November 2024 Challenge & Prize Community Office Hour Ask Me Anything session with USAID and accessibility resources.
 author: Quinn Slayton
 image: /assets/images/Challenge and Prize Community Office Hour Banner v2.png
