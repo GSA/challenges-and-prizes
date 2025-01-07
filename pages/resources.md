@@ -63,7 +63,7 @@ title: Resources for Public Innovators
         </svg>
         <h2 class="usa-card__heading text-center">Blog</h2> 
         <p class="usa-card__text text-center">Read great articles from our Blog!</p> 
-        <a href="{{ site.baseurl }}/blog/2024-11-12-national-institutes-of-health-webinar/" class="usa-button usa-button margin-bottom-0"><span style="color: #ffffff;">Read blog</span></a>         
+        <a href="{{ site.baseurl }}/blog/2025-1-2-accessibility-resources-for-challenge-managers/" class="usa-button usa-button margin-bottom-0"><span style="color: #ffffff;">Read blog</span></a>         
       </div> 
     </div> 
   </div> 
