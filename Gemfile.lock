@@ -12,7 +12,9 @@ GEM
     ethon (0.16.0)
       ffi (>= 1.15.0)
     eventmachine (1.2.7)
-    ffi (1.17.1)
+    ffi (1.17.0-arm64-darwin)
+    ffi (1.17.0-x86_64-darwin)
+    ffi (1.17.0-x86_64-linux-gnu)
     forwardable-extended (2.6.0)
     google-protobuf (4.28.2-arm64-darwin)
       bigdecimal
@@ -107,6 +109,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-23
+  arm64-darwin-24
   x86_64-darwin-23
   x86_64-linux
 
