@@ -18,7 +18,7 @@ let
     pkgs.git
     pkgs.python3
 
-    pkgs.nodejs_18
+    pkgs.nodejs_22
     pkgs.yarn
     pkgs.ruby_3_1
     pkgs.license_finder
