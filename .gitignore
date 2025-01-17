@@ -1,8 +1,23 @@
-.bundle/
+# Ignore bundler config.
+/.bundle
+/.nix-bundler
+
+# Ignore local environment files
+/.env*
+
+# dev env configuration files
+.direnv/
+.vscode/
+.yarn/
+.yarnrc
+
+# assets
 _sass/uswds/
 _site/
 assets/js/
 assets/uswds/
+
+# external packages & libs
 node_modules/
 vendor/
 .DS_Store
