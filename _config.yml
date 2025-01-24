@@ -18,12 +18,12 @@
 # Be sure to edit the values below
 ##########################################################################################
 
-title: Challenge.Gov
+title: Challenge.gov
 email:  team@challenge.gov
 feature_image: /assets/images/cards/challenge-gov.png
 
 description: >- # this means to ignore newlines until "baseurl:"
- Challenge.Gov is the official GSA government website supporting prize challenges and prize competitions that are sponsored by the US federal government.  Here federal agencies provide prize awards to public citizens and entities who solve problems and develop innovations.
+ Challenge.gov is the official government website supporting prize challenges and prize competitions that are sponsored by the US federal government. Here federal agencies provide prize awards to public citizens and entities who solve problems and develop innovations.
 # baseurl: "" # the subpath of your site, e.g. /blog
 
 url: "https://www.challenge.gov" # the base hostname & protocol for your site, e.g. http://example.com
