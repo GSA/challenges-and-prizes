@@ -50,9 +50,6 @@ title: Case Study - Carbon Monoxide Poster Contest
                 <p>CPSC's carbon monoxide poster contest challenged students to create a work of art that not only looked appealing, but also had a strong educational message about a dangerous killer right in their own homes, carbon monoxide. Students were also challenged to show how CO could be prevented with carbon monoxide alarms and other safety measures.</p>
                 <h2>Legal Authority</h2>
                 <p>America COMPETES Act</p>
-                <h2>Challenge Website</h2>
-                <p><a href="http://www.cpsc.gov/en/Safety-Education/CO-Contest-2014/">http://www.cpsc.gov/en/Safety-Education/CO-Contest-2014/</a>
-                </p>
               </div>
             </section>
           </section>

@@ -10,10 +10,7 @@ ideaSubmitFormInstruction: '<strong>How to Enter  </strong>    In order to enter
   repo privileges, but you will not be charged for using private repos. NGA''s private
   repository can be found here:    <a class="jive-link-external-small" href="https://github.com/ngageoint/wordpress-revision-slider-challenge"
   rel="noreferrer">WordPress Revision Slider Challenge</a>    When you''re done coding,
-  email your white paper to oss@nga.mil and highlight what repo the paper goes with.    For
-  more details about how to get started with the challenge and contribute code submissions
-  back to us follow the instructions here: <a class="jive-link-external-small" href="http://nga-challenge.s3-website-us-east-1.amazonaws.com/howTo.html"
-  rel="noreferrer">NGA Living Stories Challenge</a>'
+  email your white paper to oss@nga.mil and highlight what repo the paper goes with.' 
 startDate: '2018-11-26T07:05:15'
 votingAllowed: false
 newCampaign: false
@@ -169,10 +166,7 @@ how-to-enter: "<strong>How to Enter\r\n</strong>\r\n\r\nIn order to enter the
   class=\"jive-link-external-small\" href=\"https://github.com/ngageoint/wordpress-revision-slider-challenge\"
   rel=\"noreferrer\">WordPress Revision Slider Challenge</a>\r\n\r\nWhen you're
   done coding, email your white paper to oss@nga.mil and highlight what repo the
-  paper goes with.\r\n\r\nFor more details about how to get started with the challenge
-  and contribute code submissions back to us follow the instructions here: <a
-  class=\"jive-link-external-small\" href=\"http://nga-challenge.s3-website-us-east-1.amazonaws.com/howTo.html\"
-  rel=\"noreferrer\">NGA Living Stories Challenge</a>"
+  paper goes with.\r\n\r\n"
 partnerships: ''
 groupAttributes:
 judging-criteria-description-0: How easy is it for the general reader to track

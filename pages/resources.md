@@ -1,7 +1,7 @@
 ---
 permalink: /resources/
 layout: page
-title: Resources
+title: Resources for Public Innovators
 ---
 <h1 class="text-center usa-margin-bottom--4 font-weight-bold">Resources for Public Innovators</h1> 
 <div class="grid-row grid-gap">
@@ -63,7 +63,7 @@ title: Resources
         </svg>
         <h2 class="usa-card__heading text-center">Blog</h2> 
         <p class="usa-card__text text-center">Read great articles from our Blog!</p> 
-        <a href="{{ site.baseurl }}/blog/" class="usa-button usa-button margin-bottom-0"><span style="color: #ffffff;">Read blog</span></a>         
+        <a href="{{ site.baseurl }}/blog/2025-1-2-accessibility-resources-for-challenge-managers/" class="usa-button usa-button margin-bottom-0"><span style="color: #ffffff;">Read blog</span></a>         
       </div> 
     </div> 
   </div> 

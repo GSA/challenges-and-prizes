@@ -13,10 +13,7 @@ If you answered yes to any of these questions, the Challenge and Prize Community
 
 > **Join the Community:** Anyone with a .gov or .mil email address is eligible to join.
 >
-> - To join, <a href="mailto: challenges-subscribe-request@listserv.gsa.gov">email a request to</a> at challenges-subscribe-request@listserv.gsa.gov with nothing in the subject.
-> - Community Manager: <a href="https://digital.gov/authors/jarah-meador/">Jarah Meador, GSA</a>
-> - <a href="https://digital.gov/communities/manage-your-subscription">Manage your Listserv subscription</a>
-> - <a href="https://digital.gov/communities/manage-your-subscription/#access-the-listserv-archive">Access the Listserv archive</a>
+> - To join, email a request to <a href="mailto: challenges-subscribe-request@listserv.gsa.gov">challenges-subscribe-request@listserv.gsa.gov</a> with nothing in the subject.
                
 
 **Who We Are**
@@ -31,10 +28,11 @@ Our community supports and encourages the use of incentivized competition to att
 
 Members of the Challenge and Prize CoP gather regularly to share ideas, review best practices, and discuss policies and procedures. These convenings are designed to thoughtfully serve the needs of our diverse community members. A few examples are office hours, spotlight chats, deep dives, and thematic forums. We also host a listserv for members to ask questions, announce new challenges and prizes, and more.
 
-**Challenge.Gov FY22 Year in Review**
+**Challenge.Gov Year in Review**
 
-FY22 was a big year for Challenge.Gov and the federal open innovation community. Check out our Year in Review infographic for a “by the numbers” summary and what we’re looking forward to in the year to come.
+Every year Challenge.Gov tracks data related to federal challenges and prize competitions posted on the Challenge.Gov platform and public engagement with these competitions. Check out our annual Year in Review infographics for a “by the numbers” summary and what we’re looking forward to in the year to come.
 
+<a href="{{ site.baseurl }}/fy23-year-in-review/">**Challenge.Gov FY23 Year in Review Summary and Infographic**</a><br> 
 <a href="{{ site.baseurl }}/fy22-year-in-review/">**Challenge.Gov FY22 Year in Review Summary and Infographic**</a> 
 
 **Related Resources**

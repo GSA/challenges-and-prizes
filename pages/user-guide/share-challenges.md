@@ -19,10 +19,10 @@ title: User Guide for Public Solvers | Share Challenges
           <p>Share a challenge via Facebook, LinkedIn, Twitter or Email.</p>
           <p><b>NOTE:</b> Feature is not available for challenges that redirect to an external site.</p>
           <ol>
-            <li class="font-normal"><span>From challenge details page, click Share in the general information section of the page.</span></li><br>
-            <li class="font-normal"><span>Select the desired platform you wish to share to. You may be prompted to log into your selected platform account.</span></li><br>
-            <li class="font-normal"><span>Pre-populated text will appear with a link to the challenge listing and recommended hashtags. Add a personal note about the challenge and why you are sharing it.</span></li><br>
-            <li class="font-normal"><span>Click the button to share:
+            <li class="padding-bottom-3 font-normal"><span>From challenge details page, click Share in the general information section of the page.</span></li>
+            <li class="padding-bottom-3 font-normal"><span>Select the desired platform you wish to share to. You may be prompted to log into your selected platform account.</span></li>
+            <li class="padding-bottom-3 font-normal"><span>Pre-populated text will appear with a link to the challenge listing and recommended hashtags. Add a personal note about the challenge and why you are sharing it.</span></li>
+            <li class="padding-bottom-3 font-normal"><span>Click the button to share:
               <ul>
                 <li>Facebook => “Post to Facebook”</li>
                 <li>LinkedIn => “Share in a post” or “Send as private message”</li>
@@ -81,7 +81,7 @@ title: User Guide for Public Solvers | Share Challenges
     }
     .child-link {
       text-indent: 2em;
-      color: #757575;
+      color: #6E6E6E;
       font-weight: 500;
     }
     .usa-sidenav__item a:not(.usa-current):hover {
@@ -97,7 +97,7 @@ title: User Guide for Public Solvers | Share Challenges
 
     .usa-sidenav__sublist a:not(.usa-current),
     .usa-sidenav__item a.child-link:not(.usa-current) {
-      color: #757575 !important;
+      color: #6E6E6E !important;
     }
 
     .usa-current {

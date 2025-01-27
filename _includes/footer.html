@@ -51,6 +51,9 @@
                   <use xlink:href="{{ site.baseurl }}/assets/uswds/img/sprite.svg#youtube"></use>
                 </svg>
               </a>
+        <a href="https://www.linkedin.com/company/challengegov/" class="margin-right-1 usa-footer__social_link" aria-label="LinkedIn">
+          <img src="{{ site.baseurl }}/assets/images/linkedin-blue.png" alt="LinkedIn" width="32" style="padding-bottom: 0px; padding-left: 7px;" >
+        </a> 
               <a href="https://github.com/GSA/Challenge_gov" class="margin-right-1 usa-footer__social_link" aria-label="GitHub">
                 <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><svg aria-labelledby="github" role="img">
                   <title id="github">ChallengeGov github account</title>        
@@ -79,33 +82,39 @@
 </footer>
 <!-- Digital Analytics Program roll-up, see https://analytics.usa.gov for data -->
 <script id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency={{site.dap_agency}}"></script>
-{% if site.branch == "master" %}
+{% if site.branch == "production" %}
 <link rel="stylesheet" href="https://portal.challenge.gov/css/public.css" crossorigin="anonymous">
-<script src="https://portal.challenge.gov/js/public.js"></script>
-<script src="https://portal.challenge.gov/js/client.js"></script>
+<script src="https://portal.challenge.gov/js/public.js"  crossorigin="anonymous"></script>
+<script src="https://portal.challenge.gov/js/client.js"  crossorigin="anonymous"></script>
 {% elsif site.branch == "staging" %}
+<link rel="stylesheet" href="https://challenge-portal-staging.app.cloud.gov/css/public.css"  crossorigin="anonymous">
+<script src="https://challenge-portal-staging.app.cloud.gov/js/public.js"  crossorigin="anonymous"></script>
+<script src="https://challenge-portal-staging.app.cloud.gov/js/client.js"  crossorigin="anonymous"></script>{% elsif site.branch == "dev" %}
 <link rel="stylesheet" href="https://challenge-portal-staging.app.cloud.gov/css/public.css" crossorigin="anonymous">
-<script src="https://challenge-portal-staging.app.cloud.gov/js/public.js"></script>
-<script src="https://challenge-portal-staging.app.cloud.gov/js/client.js"></script>
-{% elsif site.branch == "embed-react-app" %}
-<link rel="stylesheet" href="https://challenge-portal-staging.app.cloud.gov/css/public.css" crossorigin="anonymous">
-<script src="https://challenge-portal-staging.app.cloud.gov/js/public.js"></script>
-<script src="https://challenge-portal-staging.app.cloud.gov/js/client.js"></script>
-{% elsif jekyll.environment == "dev" %}
+<script src="https://challenge-portal-staging.app.cloud.gov/js/public.js"  crossorigin="anonymous"></script>
+<script src="https://challenge-portal-staging.app.cloud.gov/js/client.js" crossorigin="anonymous"></script>{% elsif jekyll.environment == "dev" %}
 <link rel="stylesheet" href="http://localhost:4000/css/public.css" crossorigin="anonymous">
 <script src="http://localhost:4000/js/public.js"></script>
 <script src="http://localhost:4000/js/client.js"></script>
 {% else %}
 <link rel="stylesheet" href="https://challenge-portal-dev.app.cloud.gov/css/public.css" crossorigin="anonymous">
-<script src="https://challenge-portal-dev.app.cloud.gov/js/public.js"></script>
-<script src="https://challenge-portal-dev.app.cloud.gov/js/client.js"></script>
+<script src="https://challenge-portal-dev.app.cloud.gov/js/public.js"  crossorigin="anonymous"></script>
+<script src="https://challenge-portal-dev.app.cloud.gov/js/client.js"  crossorigin="anonymous"></script>
 {% endif %}
 <script>
   // Explore challenges button scroll to active challenges section of react app
-  document.getElementById("js-explore-challenges").addEventListener("click", function(e) {
-    var scrollTarget = document.getElementById(e.target.getAttribute("data-anchor"))
-    scrollTarget.scrollIntoView()
-  })
+  document.addEventListener("DOMContentLoaded", function() {
+    var exploreChallengesElement = document.getElementById("js-explore-challenges");
+  
+    if (exploreChallengesElement) {
+      exploreChallengesElement.addEventListener("click", function(e) {
+        var scrollTarget = document.getElementById(e.target.getAttribute("data-anchor"));
+        if (scrollTarget) {
+          scrollTarget.scrollIntoView();
+        }
+      });
+    }
+  });
 
   // Footer archived challenges link to scroll to top of page
   document.getElementById("js-archived-challenges").addEventListener("click", function(e) {
@@ -129,7 +138,7 @@
   ga('send', 'pageview');
 </script>
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-HE61P192WE"></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-HE61P192WE"  crossorigin="anonymous"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
