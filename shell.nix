@@ -1,6 +1,6 @@
 {
   lib ? import <lib> {},
-  pkgs ? import (fetchTarball channel:nixos-24.05) {}
+  pkgs ? import (fetchTarball https://github.com/NixOS/nixpkgs/tarball/nixos-24.11){}
 }:
 
 let
@@ -8,24 +8,9 @@ let
 
   # define packages to install with special handling for OSX
   basePackages = [
-    pkgs.gnumake
-    pkgs.gcc
-    pkgs.readline
-    pkgs.zlib
-    pkgs.libxml2
-    pkgs.libiconv
-    pkgs.openssl
     pkgs.git
-    pkgs.python3
-
-    pkgs.nodejs_22
-    pkgs.yarn
+    pkgs.nodejs_18
     pkgs.ruby_3_1
-    pkgs.license_finder
-
-    pkgs.gh
-    pkgs.ripgrep
-    pkgs.jq
   ];
 
   inputs = basePackages
