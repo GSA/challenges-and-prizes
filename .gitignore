@@ -8,8 +8,6 @@
 # dev env configuration files
 .direnv/
 .vscode/
-.yarn/
-.yarnrc
 
 # assets
 _sass/uswds/
