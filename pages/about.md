@@ -17,10 +17,10 @@ To empower the federal government and the public to participate together in equi
 We believe that open innovation is an avenue to increase trust and transparency between the federal government and the public. Through our programming, customer support, resources, and content development, Challenge.Gov welcomes the federal community and public solvers to learn about and participate in open innovation. 
 
 ### Collaboration
-We believe that collaboration across broad perspectives leads to better results. Challenge.Gov provides a platform for the federal government and the public to join together to solve important problems. We strive to create a supportive community by providing opportunities for our federal community to meet, share, and learn from each other.
+We believe that collaboration across diverse perspectives leads to better results. Challenge.Gov provides a platform for the federal government and the public to join together to solve important problems. We strive to create a supportive community by providing opportunities for our federal community to meet, share, and learn from each other.
 
-### Accessibility
-We lower barriers for the public and the federal community to participate in prize competitions and challenges. We make every effort to ensure our platform, events, and resources are open and accessible. 
+### Inclusion
+We promote inclusion by lowering barriers for the public and the federal community to participate in prize competitions and challenges. We make every effort to ensure our platform, events, and resources are open and accessible. 
 
 ### Innovation
 Innovation is essential to solving problems and improving outcomes for the American people. We support an environment where innovation for the public good can thrive. We innovate in our programming and resources so we can best serve our federal community and the public.
