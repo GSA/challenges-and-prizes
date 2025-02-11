@@ -86,7 +86,7 @@ title: Case Study - Breast Cancer Startup Challenge
                 </ul>
                 <p><b>Area of Excellence #5: "Document Metrics, Results and Outcomes"</b></p>
                 <p>For in-Challenge metrics, interested participants were tracked by way of the entry forms that they were required to complete in order to register for Phase 1 of the Challenge. The entry forms included confidential disclosure agreement forms, letter of intent forms and the resumes that they were required to provide. As the phases progressed, we also required teams accepted to continuously update CAI on any additions and subtractions to their teams. We captured each individual's organization, title, geographic location, years of experience and working discipline.  We were able to convert these answers into metrics for the challenge.
-                Key metrics from Phase I show the sheer number and diversity of participants:</p>
+                Key metrics from Phase I show the sheer number of participants:</p>
                 <ul>
                   <li>46 teams comprised of 476 people with more than 4,000 years of experience</li>
                   <li>86 universities represented</li>
