@@ -42,7 +42,7 @@ But the benefits don't stop there. In most cases, you keep your intellectual pro
 
 And it can be a powerful pathway to working with the government.
 
-And here's the best part: Prize challenges are open and inclusive.
+And here's the best part: Prize challenges are open to all.
 
 Bring your diversity of thought, perspective, and ideas to catalyze true innovation.
 
