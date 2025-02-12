@@ -137,6 +137,12 @@
   document.addEventListener('DOMContentLoaded', () => {
     fetch(endpoint)
       .then(response => {
+        if (!response.ok) {
+          if (response.status === 404) {
+            throw new Error('404 Not Found');
+          }
+          throw new Error(`HTTP error! Status: ${response.status}`);
+        }
         return response.text();
       })
       .then(data => {
@@ -146,7 +152,11 @@
         }
       })
       .catch(error => {
-        console.error('Error fetching data from challenge platform:');
+        if (error.message.includes('404')) {
+          console.log('Response is 404');
+        } else {
+          console.error('Error:', error);
+        }
       });
   });
 </script>
