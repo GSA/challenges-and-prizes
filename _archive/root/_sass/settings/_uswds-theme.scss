@@ -1,0 +1,64 @@
+@use "uswds-core" with (
+  // Theme paths
+  $theme-image-path: "../uswds/img",
+  $theme-font-path: "../uswds/fonts",
+
+  // Colors
+  $theme-color-primary-family: "blue",
+  $theme-color-primary: "blue-60v",
+  $theme-color-primary-vivid: "blue-warm-60v",
+  $theme-color-primary-dark: "blue-warm-70v",
+  $theme-color-primary-darker: "blue-warm-80v",
+  
+  // Accent colors
+  $theme-color-accent-warm-family: "orange",
+  $theme-color-accent-warm: "orange-30v",
+  $theme-color-accent-warm-dark: "orange-50v",
+  
+  // Typography
+  $theme-font-type-sans: "source-sans-pro",
+  $theme-font-type-serif: "merriweather",
+  $theme-font-type-mono: "roboto-mono",
+  $theme-font-role-heading: "serif",
+  $theme-font-role-body: "sans",
+  $theme-font-role-code: "mono",
+  $theme-font-role-alt: "serif",
+  
+  // Grid/Layout
+  $theme-grid-container-max-width: "desktop",
+  $theme-site-max-width: "desktop",
+  $theme-site-margins-breakpoint: "desktop",
+  $theme-site-margins-width: 4,
+  $theme-site-margins-mobile-width: 2,
+  
+  // Utilities
+  $theme-utility-breakpoints: (
+    "mobile-lg": true,
+    "tablet": true,
+    "desktop": true,
+    "desktop-lg": false,
+    "widescreen": false
+  ),
+  
+  // Components
+  $theme-header-font-family: "ui",
+  $theme-footer-font-family: "body",
+  $theme-button-border-radius: "md",
+  
+  // Global styles
+  $theme-global-link-styles: true,
+  $theme-global-paragraph-styles: false,
+  $theme-global-content-styles: false,
+
+  // Focus
+  $theme-focus-color: "blue-40v",
+  $theme-focus-offset: 0,
+  $theme-focus-style: solid,
+  $theme-focus-width: 0.5,
+
+  // Links
+  $theme-link-color: "primary",
+  $theme-link-visited-color: "violet-70v",
+  $theme-link-hover-color: "primary-darker",
+  $theme-link-active-color: "primary-darker"
+);
