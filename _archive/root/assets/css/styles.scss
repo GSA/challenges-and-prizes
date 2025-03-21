@@ -1,13 +1,48 @@
 ---
 ---
 
-// Import the US Web Design System minified CSS
-@import "../uswds/css/uswds.min.css";
-// Alternatively, you could import the SCSS files directly for USWDS mixins and variables.
-//$theme-font-path:   '../uswds/fonts';
-//$theme-image-path:  '../uswds/img';
-//@import "uswds/uswds";
+// USWDS 3.0 Theme Settings
+@use "uswds-core" with (
+  $theme-font-path: "../uswds/fonts",
+  $theme-image-path: "../uswds/img"
+);
 
+// Core and Utilities
+@use "@uswds/uswds/packages/uswds-global";
+@use "@uswds/uswds/packages/uswds-utilities";
+@use "@uswds/uswds/packages/uswds-fonts";
+
+// Components
+@use "@uswds/uswds/packages/usa-accordion";
+@use "@uswds/uswds/packages/usa-alert";
+@use "@uswds/uswds/packages/usa-banner";
+@use "@uswds/uswds/packages/usa-button";
+@use "@uswds/uswds/packages/usa-card";
+@use "@uswds/uswds/packages/usa-content";
+@use "@uswds/uswds/packages/usa-footer";
+@use "@uswds/uswds/packages/usa-graphic-list";
+@use "@uswds/uswds/packages/usa-header";
+@use "@uswds/uswds/packages/usa-hero";
+@use "@uswds/uswds/packages/usa-icon";
+@use "@uswds/uswds/packages/usa-input";
+@use "@uswds/uswds/packages/usa-layout-docs";
+@use "@uswds/uswds/packages/usa-layout-grid";
+@use "@uswds/uswds/packages/usa-link";
+@use "@uswds/uswds/packages/usa-list";
+@use "@uswds/uswds/packages/usa-media-block";
+@use "@uswds/uswds/packages/usa-nav";
+@use "@uswds/uswds/packages/usa-prose";
+@use "@uswds/uswds/packages/usa-search";
+@use "@uswds/uswds/packages/usa-section";
+@use "@uswds/uswds/packages/usa-sidenav";
+@use "@uswds/uswds/packages/usa-skipnav";
+
+// Project-specific styles
+@use "header";
+@use "hero";
+@use "portal_react_app";
+@use "help-section";
+@use "footer";
 
 // This is the main CSS file. You can write your SCSS/SASS in _sass and import
 // them here. You probably want to load them _after_ uswds in order to override
