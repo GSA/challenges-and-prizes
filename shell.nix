@@ -1,6 +1,6 @@
 {
   lib ? import <lib> {},
-  pkgs ? import (fetchTarball channel:nixos-24.05) {}
+  pkgs ? import (fetchTarball channel:nixos-24.11) {}
 }:
 
 let
@@ -17,7 +17,6 @@ let
     pkgs.python3
 
     pkgs.nodejs_18
-    pkgs.yarn
     pkgs.nodePackages.npm
     pkgs.ruby_3_1
     pkgs.license_finder
