@@ -18,9 +18,62 @@ https://v2.designsystem.digital.gov/utilities
 */
 
 $utilities-use-important:     false;
-$output-all-utilities:        true;
 
-/*
+$output-these-utilities: (
+  "add-list-reset",
+  "clearfix",
+  "float",
+  
+  // color
+  "background-color",
+  "color",
+
+  // display
+  "display",
+  "left",
+  "right",
+  "position",
+  "z-index",
+
+  // height & width
+  "height",
+  "width",
+  "max-width",
+
+  // border
+  "border",
+  "border-color",
+  "border-radius",
+  "border-width",
+
+  // flex
+  "align-items",
+  "align-self",
+  "flex",
+  "flex-direction",
+  "justify-content",
+  "order",
+
+  // font
+  "font",
+  "font-family",
+  "font-weight",
+  "font-size",
+
+  // margin & padding
+  "padding",
+  "margin"
+  "margin-horizontal",
+  "margin-vertical",
+
+  // text 
+  "text-align",
+  "text-decoration",
+  "text-indent",
+  "text-transform",
+  "letter-spacing"
+);
+
 ----------------------------------------
 Utility breakpoints
 ----------------------------------------
