@@ -4,6 +4,7 @@
 
 # Ignore local environment files
 /.env*
+!/.envrc
 
 # dev env configuration files
 .direnv/
