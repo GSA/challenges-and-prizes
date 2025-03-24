@@ -9,34 +9,49 @@
 */
 
 // -------------------------------------
-// Import individual theme settings
-
-@import 'uswds-theme-general';
-@import 'uswds-theme-typography';
-@import 'uswds-theme-spacing';
-@import 'uswds-theme-color';
-@import 'uswds-theme-utilities';
+// Forward project-specific theme settings
+@forward "uswds-theme";
 
 // -------------------------------------
-// Import individual USWDS modules...
-
-// @import 'uswds-fonts';
-// @import 'uswds-layout-grid';
-// @import 'uswds-components';
-// @import 'uswds-utilities';
-
-// -------------------------------------
-// ...or import all USWDS modules
-
-@import 'uswds';
+// Core and Utilities
+@forward "uswds-core";
+@forward "uswds-utilities";
+@forward "uswds-fonts";
+@forward "uswds-global";
 
 // -------------------------------------
-// Import theme custom styles
+// Components with direct source forwards
+@forward "usa-accordion/src/styles";
+@forward "usa-alert/src/styles";
+@forward "usa-banner/src/styles";
+@forward "usa-button/src/styles";
+@forward "usa-card/src/styles";
+@forward "usa-content/src/styles";
+@forward "usa-footer/src/styles";
+@forward "usa-graphic-list/src/styles";
+@forward "usa-header/src/styles";
+@forward "usa-hero/src/styles";
+@forward "usa-icon/src/styles";
+@forward "usa-input/src/styles";
+@forward "usa-layout-docs/src/styles";
+@forward "usa-link/src/styles";
+@forward "usa-list/src/styles";
+@forward "usa-media-block/src/styles";
+@forward "usa-nav/src/styles";
+@forward "usa-prose/src/styles";
+@forward "usa-search/src/styles";
+@forward "usa-section/src/styles";
+@forward "usa-sidenav/src/styles";
+@forward "usa-skipnav/src/styles";
 
-@import 'uswds-theme-custom-styles';
+// -------------------------------------
+// Forward theme custom styles
+@forward "uswds-theme-custom-styles";
 
-@import 'header';
-@import 'hero';
-@import 'portal_react_app';
-@import 'help-section';
-@import 'footer';
+// -------------------------------------
+// Project-specific styles
+@forward "header";
+@forward "hero";
+@forward "portal_react_app";
+@forward "help-section";
+@forward "footer";

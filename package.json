@@ -8,8 +8,8 @@
     "build:jekyll": "bundle exec jekyll build",
     "build:js": "mkdir -p assets/js; cp -R src/js/* assets/js/",
     "build:uswds": "npm run build:uswds:assets; npm run build:uswds:sass",
-    "build:uswds:assets": "mkdir -p assets/uswds; cp -R node_modules/uswds/dist/css node_modules/uswds/dist/img node_modules/uswds/dist/fonts node_modules/uswds/dist/js assets/uswds/",
-    "build:uswds:sass": "mkdir -p _sass/uswds; cp -R node_modules/uswds/dist/scss/* _sass/uswds/",
+    "build:uswds:assets": "mkdir -p assets/uswds && cp -R node_modules/@uswds/uswds/dist/css node_modules/@uswds/uswds/dist/img node_modules/@uswds/uswds/dist/fonts node_modules/@uswds/uswds/dist/js assets/uswds/",
+    "build:uswds:sass": "mkdir -p _sass/uswds && cp -R node_modules/@uswds/uswds/dist/scss/* _sass/uswds/",
     "clean": "rm -rf assets/uswds; rm -rf _sass/uswds; rm -rf _site",
     "federalist": "npm run build:uswds; npm run build:js",
     "start": "bundle exec jekyll serve",
@@ -33,22 +33,22 @@
     "gulp-postcss": "^10.0.0",
     "gulp-rename": "^2.0.0",
     "gulp-replace": "^1.1.4",
-    "gulp-sass": "^5.1.0",
+    "gulp-sass": "^6.0.1",
     "gulp-sourcemaps": "^3.0.0",
     "gulp-svg-sprite": "2.0.3",
     "pa11y-ci": "^3.1.0",
     "path": "^0.12.7",
     "postcss": "^8.4.47",
     "postcss-csso": "^6.0.1",
-    "sass": "^1.50.0",
-    "snyk": "^1.1064.0",
-    "uswds": "^2.14.0"
+    "snyk": "^1.1064.0"
   },
   "overrides": {
     "semver": "^7.5.2"
   },
   "dependencies": {
+    "@uswds/uswds": "3.12.0",
     "chokidar": "^4.0.1",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "sass-embedded": "^1.86.0"
   }
 }

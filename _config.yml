@@ -214,7 +214,13 @@ pagination:
 #     source: js/my-search.js
 #     target: js/my-search-bundle.js
 #
-
+include:
+  - assets
+  - assets/uswds
+  - assets/uswds/img
+  - assets/uswds/js
+  - assets/uswds/css
+  - assets/uswds/fonts
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
