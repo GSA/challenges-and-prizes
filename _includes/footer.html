@@ -121,6 +121,46 @@
     window.scrollTo(0,0)
   })
 </script>
+
+
+<script>
+
+  {% if site.branch == "production" %}
+  const endpoint='https://portal.challenge.gov/api/banner'
+  {% elsif site.branch == "staging" %}
+  const endpoint='https://challenge-portal-staging.app.cloud.gov/api/banner'
+  {% elsif site.branch == "dev" %}
+  const endpoint='https://challenge-portal-dev.app.cloud.gov/api/banner'
+  {% else %}
+  const endpoint='http://localhost:4000/api/banner'
+  {% endif %}
+
+  document.addEventListener('DOMContentLoaded', () => {
+    fetch(endpoint)
+      .then(response => {
+        if (!response.ok) {
+          if (response.status === 404) {
+            throw new Error('404 Not Found');
+          }
+          throw new Error(`HTTP error! Status: ${response.status}`);
+        }
+        return response.text();
+      })
+      .then(data => {
+        if (data && data.trim().length > 0) {
+          document.getElementById('message-placeholder').innerHTML=data;
+          document.getElementById('message-container').style.display='block';
+        }
+      })
+      .catch(error => {
+        if (error.message.includes('404')) {
+          console.log('Response is 404');
+        } else {
+          console.error('Error:', error);
+        }
+      });
+  });
+</script>
 <!-- Google Analytics -->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

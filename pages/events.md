@@ -259,8 +259,8 @@ Challenge Chat Live Q&A</h4>
     </svg>
   </svg>
   <h2 class="usa-card__heading" style="font-weight: 900;">May 31, 2023</h2>
-  <h4 class="usa-card__subheading">Behavioral Health Equity Challenge Chat Q&A</h4>
-  <p class="usa-card__text"> The Behavioral Health Equity Challenge seeks to identify and highlight innovative outreach and engagement strategies designed by community-based organizations to improve access to behavioral health services for racial and ethnic underserved communities. </p>
+  <h4 class="usa-card__subheading">Behavioral Health Challenge Chat Q&A</h4>
+  <p class="usa-card__text"> The Behavioral Health Challenge seeks to identify and highlight innovative outreach and engagement strategies designed by community-based organizations to improve access to behavioral health services for racial and ethnic underserved communities. </p>
   <p class="usa-card__text">On May 31 participants met the challenge team and shared questions. </p>
 </div>
 </div>
