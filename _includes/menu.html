@@ -1,5 +1,5 @@
-{% comment %} 
-To modify the menu system, you are welcome to edit this HTML directly or you can look inside _config.yml 
+{% comment %}
+To modify the menu system, you are welcome to edit this HTML directly or you can look inside _config.yml
 where we provide an easy way to manage your navigation system
 {% endcomment %}
 <header class="usa-header usa-header--basic" aria-label="Main navigation">
@@ -27,9 +27,16 @@ where we provide an easy way to manage your navigation system
           <a class="menulink usa-nav__link" href="{{ site.baseurl }}/contact" title="Contact page with email and social links" aria-label="Contact">Contact</a>
         </li>
       </ul>
-      {% include searchgov/form.html affiliate=site.searchgov_affiliate %}      
-      <a style="width: 6rem;" class="float-right usa-button usa-button--outline tablet:margin-left-2 tablet:float-right font-sans-xs" href="https://portal.challenge.gov/sign-in/new"><span style="color:#005ea2;">Login</span></a>
-      <a style="width: 10rem;" class="float-right usa-button usa-button tablet:margin-left-1 tablet:float-right font-sans-xs" href="https://secure.login.gov/sign_up/enter_email?request_id=6ab5f3e4-a3e5-4cb7-90a3-3a777fee8967"><span style="color: #ffffff;">Create Account</span></a>      
+      {% include searchgov/form.html affiliate=site.searchgov_affiliate %}
+      {% if site.branch == "master" %}
+        <a style="width: 6rem;" class="float-right usa-button usa-button--outline tablet:margin-left-2 tablet:float-right font-sans-xs" href="https://portal.challenge.gov/sign-in/new"><span style="color:#005ea2;">Login</span></a>
+      {% elsif site.branch == "staging" %}
+        <a style="width: 6rem;" class="float-right usa-button usa-button--outline tablet:margin-left-2 tablet:float-right font-sans-xs" href="https://challenge-portal-staging.app.cloud.gov/sign-in/new"><span style="color:#005ea2;">Login</span></a>
+      {% elsif jekyll.environment == "dev" %}
+        <a style="width: 6rem;" class="float-right usa-button usa-button--outline tablet:margin-left-2 tablet:float-right font-sans-xs" href="http://localhost:3000/session/new"><span style="color:#005ea2;">Login</span></a>
+      {% else %}
+        <a style="width: 6rem;" class="float-right usa-button usa-button--outline tablet:margin-left-2 tablet:float-right font-sans-xs" href="https://challenge-dev.app.cloud.gov/session/new"><span style="color:#005ea2;">Login</span></a>
+      {% endif %}
     </nav>
   </div>
 </header>

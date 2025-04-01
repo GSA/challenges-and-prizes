@@ -20,6 +20,10 @@ Clone the repository.
     $ git clone https://github.com/GSA/challenges-and-prizes
     $ cd challenges-and-prizes
 
+Install Ruby gems with bundler
+
+    $ bundle install
+
 Install the Node.js dependencies.
 
     $ npm install

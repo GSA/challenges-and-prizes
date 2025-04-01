@@ -5,7 +5,15 @@
     <div class="tablet:grid-col"><h2 class="text-white">Are you a Challenge Manager?</h2><p class="text-white">Engage public solvers in prize
       competitions and crowdsourcing.</p></div>
     <div class="tablet:grid-col"></div>
-    <div class="tablet:grid-col"><a href="https://portal.challenge.gov/sign-in/new" class="usa-button usa-button--flexible-width" data-anchor="active-challenges">Get Started</a></div>
+    {% if site.branch == "master" %}
+      <div class="tablet:grid-col"><a href="https://portal.challenge.gov/sign-in/new" class="usa-button usa-button--flexible-width" data-anchor="active-challenges">Get Started</a></div>
+    {% elsif site.branch == "staging" %}
+      <div class="tablet:grid-col"><a href="https://challenge-portal-staging.app.cloud.gov/sign-in/new" class="usa-button usa-button--flexible-width" data-anchor="active-challenges">Get Started</a></div>
+    {% elsif jekyll.environment == "dev" %}
+      <div class="tablet:grid-col"><a href="https://localhost:3000/session/new" class="usa-button usa-button--flexible-width" data-anchor="active-challenges">Get Started</a></div>
+    {% else %}
+      <div class="tablet:grid-col"><a href="https://challenge-dev.app.cloud.gov/session/new" class="usa-button usa-button--flexible-width" data-anchor="active-challenges">Get Started</a></div>
+    {% endif %}
   </div>
 
 
