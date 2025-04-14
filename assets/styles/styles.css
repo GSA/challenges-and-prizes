@@ -982,6 +982,9 @@ html body .usa-collection__item, html body .usa-list li, html body .usa-prose .u
   .usa-header--basic {
     padding: 1rem 0;
   }
+  .usa-header--basic .usa-nav {
+    justify-content: end !important;
+  }
   .usa-header--basic .usa-nav-container {
     min-width: 64em;
     padding: 0;
