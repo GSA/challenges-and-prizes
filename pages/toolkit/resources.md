@@ -120,7 +120,7 @@ title: Toolkit - Resources
 
   <h3 id="challengegov">Challenge.Gov</h3>
   <ul>
-    <li><a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Federal_Agency_Toolkit_13Oct2021.pdf" target="_blank">Challenge.Gov Prize and Challenge Toolkit</a></li>
+    <li><a href="{{ site.baseurl }}/assets/document-library/Challenge-Gov-Federal-Agency-Toolkit.pdf" target="_blank">Challenge.Gov Prize and Challenge Toolkit</a></li>
     <li><a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Program_Overview.pdf" target="_blank">Challenge.Gov Program Overview</a></li>
     <li><a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Platform_Overview.pdf" target="_blank">Challenge.Gov Platform Overview</a></li>
   </ul>

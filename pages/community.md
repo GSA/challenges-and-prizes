@@ -39,7 +39,7 @@ Every year Challenge.Gov tracks data related to federal challenges and prize com
 
 > - <a href="https://www.challenge.gov/#active-challenges">Official listing of federal prizes and challenges</a>
 > - <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/topics?qsp=USGSATTS_6">Challenge.Gov e-Newsletter</a>
-> - <a href="https://www.challenge.gov/assets/document-library/ChallengeGov_Federal_Agency_Toolkit_13Oct2021.pdf">Toolkit and resources on running challenges</a>
+> - <a href="https://www.challenge.gov/assets/document-library/Challenge-Gov-Federal-Agency-Toolkit.pdf">Toolkit and resources on running challenges</a>
 > - Follow us on social media: <a href="https://www.twitter.com/challengegov">Twitter</a>, <a href="https://www.facebook.com/challengegov">Facebook</a>, <a href="https://www.linkedin.com/company/challengegov/">LinkedIn</a>, <a href="https://www.youtube.com/@challenge-gov/">YouTube</a>
 
 
