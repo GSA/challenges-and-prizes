@@ -1,7 +1,8 @@
 ---
 layout: page
-permalink: /community/
 title: Challenge & Prize Community
+permalink: /community/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions#tab--Join-the-community
 ---
 
 # Challenge & Prize Community

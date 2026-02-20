@@ -1,7 +1,8 @@
 ---
-permalink: /toolkit/case-studies/usaid-enabling-writers/
 layout: toolkit
 title: Case Study - Enabling Writers
+permalink: /toolkit/case-studies/usaid-enabling-writers/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions#tab--Resources
 ---
 <div class="grid-container padding-bottom-5">
   <div id="page-wrap">

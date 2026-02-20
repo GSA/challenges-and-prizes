@@ -1,7 +1,8 @@
 ---
-permalink: /toolkit/case-studies/bridging-the-word-gap-challenge/
 layout: toolkit
 title: Case Study - Bridging the Word Gap Challenge
+permalink: /toolkit/case-studies/bridging-the-word-gap-challenge/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions#tab--Resources
 ---
 <div class="grid-container padding-bottom-5">
   <div id="page-wrap">

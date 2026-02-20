@@ -1,7 +1,8 @@
 ---
-permalink: /toolkit/case-studies/future-engineers-3d-space-design/
 layout: toolkit
 title: Case Study - Future Engineers 3D Space Design
+permalink: /toolkit/case-studies/future-engineers-3d-space-design/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions#tab--Resources
 ---
 <div class="grid-container padding-bottom-5">
   <div id="page-wrap">

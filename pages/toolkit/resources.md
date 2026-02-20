@@ -1,7 +1,8 @@
 ---
 layout: toolkit-base
-permalink: /toolkit/resources/
 title: Toolkit - Resources
+permalink: /toolkit/resources/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions#tab--Resources
 ---
 
 <div class="toolkit usa-toolkit">
