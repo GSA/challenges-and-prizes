@@ -1,7 +1,8 @@
 ---
-permalink: /toolkit/case-studies/wave-energy-prize/
 layout: toolkit
 title: Case Study - Wave Energy Prize
+permalink: /toolkit/case-studies/wave-energy-prize/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions#tab--Resources
 ---
 <div class="grid-container padding-bottom-5">
   <div id="page-wrap">

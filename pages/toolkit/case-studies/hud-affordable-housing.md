@@ -1,7 +1,8 @@
 ---
-permalink: /toolkit/case-studies/hud-affordable-housing/
 layout: toolkit
 title: Case Study - Innovation in Affordable Housing
+permalink: /toolkit/case-studies/hud-affordable-housing/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions#tab--Resources
 ---
 <div class="grid-container padding-bottom-5">
   <div id="page-wrap">

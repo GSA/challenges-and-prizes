@@ -1,7 +1,8 @@
 ---
-permalink: /toolkit/case-studies/nih-follow-that-cell/
 layout: toolkit
 title: Case Study - Follow That Cell
+permalink: /toolkit/case-studies/nih-follow-that-cell/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions#tab--Resources
 ---
 <div class="grid-container padding-bottom-5">
   <div id="page-wrap">

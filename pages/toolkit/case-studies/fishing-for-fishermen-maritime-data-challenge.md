@@ -1,7 +1,8 @@
 ---
-permalink: /toolkit/case-studies/fishing-for-fishermen-maritime-data-challenge/
 layout: toolkit
 title: Case Study - "Fishing for Fishermen" Maritime Data Challenge
+permalink: /toolkit/case-studies/fishing-for-fishermen-maritime-data-challenge/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions#tab--Resources
 ---
 <div class="grid-container padding-bottom-5">
   <div id="page-wrap">

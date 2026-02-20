@@ -1,7 +1,8 @@
 ---
-permalink: /toolkit/faq/
 layout: toolkit
 title: Toolkit - Frequently Asked Questions
+permalink: /toolkit/faq/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions
 ---
 
 <div class="grid-container">

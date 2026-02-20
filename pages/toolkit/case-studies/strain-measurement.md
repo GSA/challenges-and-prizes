@@ -1,7 +1,8 @@
 ---
-permalink: /toolkit/case-studies/strain-measurement/
 layout: toolkit
 title: Case Study - Strain Measurement
+permalink: /toolkit/case-studies/strain-measurement/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions#tab--Resources
 ---
 <div class="grid-container padding-bottom-5">
   <div id="page-wrap">

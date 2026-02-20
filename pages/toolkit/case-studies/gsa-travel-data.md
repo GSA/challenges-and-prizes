@@ -1,7 +1,8 @@
 ---
-permalink: /toolkit/case-studies/gsa-travel-data/
 layout: toolkit
 title: Case Study - Travel Data Challenge
+permalink: /toolkit/case-studies/gsa-travel-data/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions#tab--Resources
 ---
 <div class="grid-container padding-bottom-5">
   <div id="page-wrap">
