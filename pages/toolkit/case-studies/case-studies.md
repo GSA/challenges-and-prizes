@@ -1,7 +1,8 @@
 ---
-permalink: /toolkit/case-studies/
 layout: toolkit
 title: Toolkit Case Studies
+permalink: /toolkit/case-studies/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions#tab--Resources
 ---
 <div class="grid-container case-studies">
     <h1 class="usa-text-primary-dark text-center">Case Studies</h1>

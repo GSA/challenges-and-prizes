@@ -1,7 +1,8 @@
 ---
-permalink: /toolkit/case-studies/ftc-zapping-rachel/
 layout: toolkit
 title: Case Study - "Zapping Rachel"
+permalink: /toolkit/case-studies/ftc-zapping-rachel/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions#tab--Resources
 ---
 <div class="grid-container padding-bottom-5">
   <div id="page-wrap">

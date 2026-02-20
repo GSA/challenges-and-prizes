@@ -1,7 +1,8 @@
 ---
-permalink: /toolkit/case-studies/ai-for-critical-mineral-assessment-competition/
 layout: toolkit
 title: Case Study - AI for Critical Mineral Assessment Competition
+permalink: /toolkit/case-studies/ai-for-critical-mineral-assessment-competition/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions#tab--Resources
 ---
 <div class="grid-container padding-bottom-5">
   <div id="page-wrap" class="usa-prose">

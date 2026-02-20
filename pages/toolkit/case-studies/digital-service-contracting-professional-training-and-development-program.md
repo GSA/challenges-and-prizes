@@ -1,7 +1,8 @@
 ---
-permalink: /toolkit/case-studies/digital-service-contracting-professional-training-and-development-program/
 layout: toolkit
 title: Case Study - Digital Service Contracting Professional Training and Development Program
+permalink: /toolkit/case-studies/digital-service-contracting-professional-training-and-development-program/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions#tab--Resources
 ---
 <div class="grid-container padding-bottom-5">
   <div id="page-wrap">

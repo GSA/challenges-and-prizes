@@ -2,6 +2,8 @@
 permalink: /toolkit/case-studies/cdc-no-petri-dish/
 layout: toolkit
 title: Case Study - No Petri Dish
+permalink: /toolkit/case-studies/cdc-no-petri-dish/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions#tab--Resources
 ---
 <div class="grid-container padding-bottom-5">
   <div id="page-wrap">

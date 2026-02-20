@@ -1,7 +1,8 @@
 ---
-permalink: /toolkit/case-studies/iss-food-intake-tracker/
 layout: toolkit
 title: Case Study - ISS Food Intake Tracker
+permalink: /toolkit/case-studies/iss-food-intake-tracker/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions#tab--Resources
 ---
 <div class="grid-container padding-bottom-5">
   <div id="page-wrap">

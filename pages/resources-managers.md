@@ -99,8 +99,8 @@ title: Resources for Federal Challenge Managers
     </svg>
     <h2 class="usa-card__heading">Toolkit</h2>
     <p class="usa-card__text">Resources on running challenges.</p>
-    <a href="{{ site.baseurl }}/assets/document-library/Challenge-Gov-Federal-Agency-Toolkit.pdf" class="usa-button usa-button--primary margin-bottom-0">
-      <span style="color: #ffffff;">Read toolkit</span>
+    <a href="https://www.gsa.gov/system/files/prize-challenge-toolkit-2026.pdf" class="usa-button usa-button--primary margin-bottom-0">
+      <span style="color: #ffffff;">Read 2026 prize and challenge toolkit [PDF - 1 MB]</span>
     </a>
   </div>
 </div>

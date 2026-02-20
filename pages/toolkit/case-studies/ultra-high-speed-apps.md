@@ -1,7 +1,8 @@
 ---
-permalink: /toolkit/case-studies/ultra-high-speed-apps/
 layout: toolkit
 title: Case Study - Ultra-High Speed Apps
+permalink: /toolkit/case-studies/ultra-high-speed-apps/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions#tab--Resources
 ---
 <div class="grid-container padding-bottom-5">
   <div id="page-wrap">

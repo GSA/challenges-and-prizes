@@ -1,7 +1,8 @@
 ---
-permalink: /toolkit/case-studies/hidden-signals-challenge/
 layout: toolkit
 title: Case Study - Hidden Signals Challenge
+permalink: /toolkit/case-studies/hidden-signals-challenge/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions#tab--Resources
 ---
 <div class="grid-container padding-bottom-5">
  <div id="page-wrap">

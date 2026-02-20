@@ -1,7 +1,9 @@
 ---
-permalink: /toolkit/case-studies/nei-audacious-goals/
+
 layout: toolkit
 title: Case Study - Audacious Goals in Vision Research
+permalink: /toolkit/case-studies/nei-audacious-goals/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions#tab--Resources
 ---
 <div class="grid-container padding-bottom-5">
   <div id="page-wrap">
