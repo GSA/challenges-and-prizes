@@ -1,8 +1,7 @@
 ---
+permalink: /events/
 layout: page
 title: Events
-permalink: /events/
-redirect_to: https://www.youtube.com/watch?v=ABobdao7l5Q&list=PLhDR-OyaYKJotKNzVIgEgLV8s8-NlKD2S
 ---
 <h1 class="text-center usa-margin-bottom--4 font-weight-bold">Upcoming Events</h1>
 <div class="grid-col-12">

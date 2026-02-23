@@ -1,8 +1,7 @@
 ---
+permalink: /user-guide/message-center-features/
 layout: page
 title: User Guide for Public Solvers | Message Center Features
-permalink: /user-guide/message-center-features/
-redirect_to: https://www.usa.gov/innovation
 ---
 <div class="res-sec">
   <div class="grid-row ">

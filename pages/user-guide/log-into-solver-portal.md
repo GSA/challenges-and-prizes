@@ -1,8 +1,7 @@
 ---
+permalink: /user-guide/log-into-solver-portal/
 layout: page
 title: User Guide for Public Solvers | Log Into Solver Portal
-permalink: /user-guide/log-into-solver-portal/
-redirect_to: https://www.usa.gov/innovation
 ---
 <div class="res-sec">
   <div class="grid-row ">

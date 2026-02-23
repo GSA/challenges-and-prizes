@@ -1,8 +1,7 @@
 ---
+permalink: /cm-user-guide/print-challenge-listing/
 layout: page
 title: User Guide for Challenge Managers | Print Challenge Listing
-permalink: /cm-user-guide/print-challenge-listing/
-redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions
 ---
 <div class="res-sec">
   <div class="grid-row ">

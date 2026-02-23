@@ -1,8 +1,7 @@
 ---
+permalink: /cm-user-guide/send-message/
 layout: page
 title: User Guide for Challenge Managers | Send Message
-permalink: /cm-user-guide/send-message/
-redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions
 ---
 <div class="res-sec">
   <div class="grid-row ">

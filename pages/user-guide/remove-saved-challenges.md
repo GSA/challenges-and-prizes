@@ -1,8 +1,7 @@
 ---
+permalink: /user-guide/remove-saved-challenges/
 layout: page
 title: User Guide for Public Solvers | Remove Saved Challenges
-permalink: /user-guide/remove-saved-challenges/
-redirect_to: https://www.usa.gov/innovation
 ---
 <div class="res-sec">
   <div class="grid-row ">

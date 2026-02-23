@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Challenge.Gov Overview Video
 permalink: /challenge-gov-overview-video/
-redirect_to: https://www.youtube.com/watch?v=pq1cKuM7Gpo
+title: Challenge.Gov Overview Video
 ---
 
 # Challenge.Gov Overview Video

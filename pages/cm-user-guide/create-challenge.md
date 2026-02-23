@@ -1,8 +1,7 @@
 ---
+permalink: /cm-user-guide/create-challenge/
 layout: page
 title: User Guide for Challenge Managers | Create Challenge
-permalink: /cm-user-guide/create-challenge/
-redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions
 ---
 <div class="res-sec">
   <div class="grid-row ">

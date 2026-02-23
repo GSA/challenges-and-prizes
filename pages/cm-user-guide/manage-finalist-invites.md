@@ -1,8 +1,7 @@
 ---
+permalink: /cm-user-guide/manage-finalist-invites/
 layout: page
 title: User Guide for Challenge Managers | Manage Finalist Invites
-permalink: /cm-user-guide/manage-finalist-invites/
-redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions
 ---
 <div class="res-sec">
   <div class="grid-row ">

@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Challenge.Gov Overview Video
 permalink: /challenge-gov-why-video/
-redirect_to: https://www.youtube.com/watch?v=Z4JZPY19-ac
+title: Challenge.Gov Overview Video
 ---
 
 # Why should you participate in federal prize competitions?

@@ -1,8 +1,7 @@
 ---
 layout: page
-title: About
 permalink: /about/
-redirect_to: https://www.usa.gov/innovation
+title: About
 ---
 # About Challenge.Gov
 

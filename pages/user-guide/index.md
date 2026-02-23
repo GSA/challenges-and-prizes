@@ -1,8 +1,7 @@
 ---
+permalink: /user-guide/
 layout: page
 title: User Guide for Public Solvers
-permalink: /user-guide/
-redirect_to: https://www.usa.gov/innovation
 ---
 
 

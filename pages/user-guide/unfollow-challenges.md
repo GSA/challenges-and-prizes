@@ -1,8 +1,7 @@
 ---
+permalink: /user-guide/unfollow-challenges/
 layout: page
 title: User Guide for Public Solvers | Unfollow Challenges
-permalink: /user-guide/unfollow-challenges/
-redirect_to: https://www.usa.gov/innovation
 ---
 <div class="res-sec">
   <div class="grid-row ">

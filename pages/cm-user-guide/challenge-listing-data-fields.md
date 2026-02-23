@@ -1,8 +1,7 @@
 ---
+permalink: /cm-user-guide/challenge-listing-data-fields/
 layout: page
 title: User Guide for Challenge Managers | Challenge Listing Data Fields
-permalink: /cm-user-guide/challenge-listing-data-fields/
-redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions
 ---
 <div class="res-sec">
 	<div class="grid-row ">

@@ -1,8 +1,7 @@
 ---
+permalink: /user-guide/view-messages/
 layout: page
 title: User Guide for Public Solvers | View Messages
-permalink: /user-guide/view-messages/
-redirect_to: https://www.usa.gov/innovation
 ---
 <div class="res-sec">
   <div class="grid-row ">

@@ -1,8 +1,7 @@
 ---
+permalink: /user-guide/share-challenges/
 layout: page
 title: User Guide for Public Solvers | Share Challenges
-permalink: /user-guide/share-challenges/
-redirect_to: https://www.usa.gov/innovation
 ---
 <div class="res-sec">
   <div class="grid-row ">

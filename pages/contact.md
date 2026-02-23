@@ -1,8 +1,7 @@
 ---
+permalink: /contact/
 layout: page
 title: Contact
-permalink: /contact/
-redirect_to: https://www.usa.gov/partner-with-usagov
 ---
 
   <h1 id="contact-us">Contact Us</h1>

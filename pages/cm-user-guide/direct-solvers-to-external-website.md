@@ -1,8 +1,7 @@
 ---
+permalink: /cm-user-guide/direct-solvers-to-external-website/
 layout: page
 title: User Guide for Challenge Managers | Direct Solvers to External Website
-permalink: /cm-user-guide/direct-solvers-to-external-website/
-redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions
 ---
 <div class="res-sec">
   <div class="grid-row ">
