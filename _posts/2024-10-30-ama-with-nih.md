@@ -1,6 +1,7 @@
 ---
 date: 2024/10/30
 layout: post
+permalink: /blog/2024-10-30-ama-with-nih/
 title: AMA with the National Institutes of Health (NIH)
 tagline: A closer look at NIH's unique structure for supporting challenges
 excerpt: A summary of October 2024 Challenge & Prize Community Office Hour Ask Me Anything session with NIH.
