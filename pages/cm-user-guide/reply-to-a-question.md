@@ -1,7 +1,8 @@
 ---
-permalink: /cm-user-guide/reply-to-a-question/
 layout: page
 title: User Guide for Challenge Managers | Reply to a Question
+permalink: /cm-user-guide/reply-to-a-question/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions
 ---
 <div class="res-sec">
   <div class="grid-row ">

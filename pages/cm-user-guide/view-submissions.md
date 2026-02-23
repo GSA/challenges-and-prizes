@@ -1,7 +1,8 @@
 ---
-permalink: /cm-user-guide/view-submissions/
 layout: page
 title: User Guide for Challenge Managers | View Submissions
+permalink: /cm-user-guide/view-submissions/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions
 ---
 <div class="res-sec">
   <div class="grid-row ">

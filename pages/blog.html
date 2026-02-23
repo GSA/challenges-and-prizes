@@ -1,8 +1,9 @@
 ---
 layout: main
-permalink: /blog/
 pagination:
   enabled: true
+permalink: /blog/
+redirect_to: https://www.usa.gov/blog
 ---
 <div class="usa-blogs">
 <div id="blog" class="bg-primary-darker usa-content font-serif-lg padding-y-6">

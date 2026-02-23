@@ -1,7 +1,8 @@
 ---
-permalink: /user-guide/save-challenges/
 layout: page
 title: User Guide for Public Solvers | Save Challenges 
+permalink: /user-guide/save-challenges/
+redirect_to: https://www.usa.gov/innovation
 ---
 <div class="res-sec">
   <div class="grid-row ">

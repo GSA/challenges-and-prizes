@@ -1,7 +1,8 @@
 ---
-permalink: /fy22-year-in-review/
 layout: page
 title: Challenge.Gov FY22 Year In Review
+permalink: /fy22-year-in-review/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions
 ---
 
 <h1 class="text-center mb-6 font-weight-bold">Challenge.Gov FY22 Year In Review</h1>

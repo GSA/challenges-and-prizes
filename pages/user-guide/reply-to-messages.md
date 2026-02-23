@@ -1,7 +1,8 @@
 ---
-permalink: /user-guide/reply-to-messages/
 layout: page
 title: User Guide for Public Solvers | Reply to Messages
+permalink: /user-guide/reply-to-messages/
+redirect_to: https://www.usa.gov/innovation
 ---
 <div class="res-sec">
   <div class="grid-row ">

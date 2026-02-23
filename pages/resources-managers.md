@@ -1,7 +1,8 @@
 ---
-permalink: /resources-managers/
 layout: page
 title: Resources for Federal Challenge Managers 
+permalink: /resources-managers/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions
 ---
 <h1 class="text-center usa-margin-bottom--4 font-weight-bold" style="color: #005ea2;">Resources for Federal Challenge Managers</h1>
 <div class="grid-row grid-gap r-m">

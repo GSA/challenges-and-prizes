@@ -23,7 +23,7 @@ There are two kinds of cookies:
 Distinguish unique users (last for up to 2 years if you never clear your cookies)
 Throttle the request rate (last for up to 1 minute)
 
-If you do not wish to accept cookies, you can edit your browser's options to stop accepting persistent cookies or to prompt you before accepting a cookie from the websites you visit. See additional information [on disabling cookies](https://www.usa.gov/optout-instructions){:target="_blank"}.
+If you do not wish to accept cookies, you can edit your browser's options to stop accepting persistent cookies or to prompt you before accepting a cookie from the websites you visit. See additional information [on disabling cookies](https://www.usa.gov/optout-instructions).
 
 Note: Although using persistent cookies allows us to deliver a better experience for you, this site will also work without them.
 
@@ -44,7 +44,4 @@ While Challenge.Gov uses social media including Facebook, Twitter, and YouTube, 
 
 The pages on Challenge.Gov may include hypertext links or pointers to information created and maintained by other public and private organizations.
 
-For more information on privacy and security:
-
-* See [GSA's Privacy and Security Policy](https://www.gsa.gov/reference/gsa-privacy-program){:target="_blank"}. 
-* [Contact us](https://www.challenge.gov/contact/) with questions.
+For more information on privacy and security, see [GSA's Privacy and Security Policy](https://www.gsa.gov/reference/gsa-privacy-program).

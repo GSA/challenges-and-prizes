@@ -1,7 +1,8 @@
 ---
-permalink: /cm-user-guide/remove-announcement/
 layout: page
 title: User Guide for Challenge Managers | Remove Announcement
+permalink: /cm-user-guide/remove-announcement/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions
 ---
 <div class="res-sec">
   <div class="grid-row ">
