@@ -1,7 +1,8 @@
 ---
-permalink: /cm-user-guide/edit-draft-challenge/
 layout: page
 title: User Guide for Challenge Managers | Edit Draft Challenge
+permalink: /cm-user-guide/edit-draft-challenge/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions
 ---
 <div class="res-sec">
   <div class="grid-row ">

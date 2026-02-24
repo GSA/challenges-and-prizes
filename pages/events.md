@@ -1,7 +1,8 @@
 ---
-permalink: /events/
 layout: page
 title: Events
+permalink: /events/
+redirect_to: https://www.youtube.com/@challenge-gov
 ---
 <h1 class="text-center usa-margin-bottom--4 font-weight-bold">Upcoming Events</h1>
 <div class="grid-col-12">

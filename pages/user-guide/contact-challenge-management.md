@@ -1,7 +1,8 @@
 ---
-permalink: /user-guide/contact-challenge-management/
 layout: page
 title: User Guide for Public Solvers | Contact Challenge Management
+permalink: /user-guide/contact-challenge-management/
+redirect_to: https://www.usa.gov/innovation
 ---
 <div class="res-sec">
   <div class="grid-row ">

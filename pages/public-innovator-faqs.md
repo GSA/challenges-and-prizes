@@ -1,7 +1,8 @@
 ---
 layout: page
-permalink: /public-innovator-faqs/
 title: Public Innovator FAQs
+permalink: /public-innovator-faqs/
+redirect_to: https://www.usa.gov/innovation
 ---
 <h1 class="margin-bottom-0">Public Innovator FAQs</h1>
 Click on a question below to explore.
