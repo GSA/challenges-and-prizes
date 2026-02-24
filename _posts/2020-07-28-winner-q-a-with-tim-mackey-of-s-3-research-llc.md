@@ -1,17 +1,15 @@
 ---
 date: 2020/09/08
 layout: post
-permalink: /blog/july-27-2020-Past-Winner-Question-and-Answer-with-Tim-Mackey-of-S-3-Research/
 title: "Past Challenge Winner Q&A: Tim Mackey of S-3 Research"
 tagline: Challenge.gov Catches Up with a 2017 SUD Startup Challenge Winner
-excerpt: We catch up with a past winner of NIDA's SUD Startup Challenge to learn
-  more about their motivation to participate in the annual competition, what
-  they learned from the experience and what advice they have for the latest crop
-  of winners.
+excerpt: We catch up with a past winner of NIDA's SUD Startup Challenge to learn more about their motivation to participate in the annual competition, what they learned from the experience and what advice they have for the latest crop of winners.
 author: Pierce McManus with Tim K. Mackey
 image: /assets/netlify-uploads/1.png
 image_alt_text: winner Q&A header image
 post-body-content-uploads: /assets/netlify-uploads/webp.net-resizeimage-1-.jpg
+permalink: /blog/july-27-2020-Past-Winner-Question-and-Answer-with-Tim-Mackey-of-S-3-Research/
+redirect_to: https://www.usa.gov/blog
 ---
 Recently, the [National Institute on Drug Abuse (NIDA)](https://www.nih.gov/about-nih/what-we-do/nih-almanac/national-institute-drug-abuse-nida), one of the components of the National Institutes of Health (NIH), announced the winners of its fifth “$100,000 for Start a SUD Startup” Challenge, which was hosted on GSA’s Challenge.gov platform. The SUD Startup Challenge goal is to support research ideas that would further an understanding of substance use disorders (SUD) and that are intended to lay the foundation for the development of successful new startups.
 
