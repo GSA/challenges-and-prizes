@@ -1,7 +1,8 @@
 ---
 layout: page
-permalink: /cm-user-faqs/
 title: Challenge Manager FAQs
+permalink: /cm-user-faqs/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions
 ---
 <div class="usa-faq-sec-wrap">
   <h1 class="margin-bottom-0">Challenge Manager FAQs</h1>
