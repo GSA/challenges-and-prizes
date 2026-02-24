@@ -1,7 +1,7 @@
 ---
-permalink: /terms/
 layout: page
 title: Terms
+permalink: /terms/
 ---
 
 <div class="usa-layout-docs__main desktop:grid-col-12 usa-prose">
