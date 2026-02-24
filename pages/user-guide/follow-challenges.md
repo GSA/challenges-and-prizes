@@ -1,7 +1,8 @@
 ---
-permalink: /user-guide/follow-challenges/
 layout: page
-title: User Guide for Public Solvers | Follow Challenges 
+title: User Guide for Public Solvers | Follow Challenges
+permalink: /user-guide/follow-challenges/
+redirect_to: https://www.usa.gov/innovation
 ---
 <div class="res-sec">
   <div class="grid-row ">

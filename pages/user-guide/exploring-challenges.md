@@ -1,7 +1,8 @@
 ---
-permalink: /user-guide/explore-active-challenges/
 layout: page
 title: User Guide for Public Solvers | Explore Active Challenges
+permalink: /user-guide/explore-active-challenges/
+redirect_to: https://www.usa.gov/innovation
 ---
 <div class="res-sec">
   <div class="grid-row ">

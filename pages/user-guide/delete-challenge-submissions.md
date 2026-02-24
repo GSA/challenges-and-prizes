@@ -1,7 +1,8 @@
 ---
-permalink: /user-guide/delete-challenge-submissions/
 layout: page
 title: User Guide for Public Solvers | Delete Challenge Submissions
+permalink: /user-guide/delete-challenge-submissions/
+redirect_to: https://www.usa.gov/innovation
 ---
 <div class="res-sec">
   <div class="grid-row ">
