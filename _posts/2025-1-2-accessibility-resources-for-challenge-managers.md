@@ -1,6 +1,7 @@
 ---
 date: 2025/01/02
 layout: post
+permalink: /blog/2025-1-2-accessibility-resources-for-challenge-managers/
 title: Ask Me Anything (AMA) with USAID and Accessibility Resources
 tagline: Resources to make federal prize competitions more accessible
 excerpt: A summary of November 2024 Challenge & Prize Community Office Hour Ask Me Anything session with USAID and accessibility resources.
@@ -8,8 +9,6 @@ author: Quinn Slayton
 image: /assets/images/Challenge and Prize Community Office Hour Banner v2.png
 post-body-content-uploads: /assets/images/Challenge and Prize Community Office Hour Banner v2.png
 image_alt_text: White text on blue background Challenge.gov Challenge and Prize Community Office Hours Learn. Share. Connect.
-permalink: /blog/2025-1-2-accessibility-resources-for-challenge-managers/
-redirect_to: https://www.usa.gov/blog
 ---
 <p>At the Challenge and Prize Community Office Hours in November 2024, we took a deep dive on the ins and outs of open innovation at the U.S. Agency for International Development (USAID).  Ike Singletary II and Cassie Hoffman, challenge leaders from USAID, participated in an Ask Me Anything (AMA) to share about the implementation and structures USAID uses to run successful prize competitions.</p>
 

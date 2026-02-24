@@ -1,6 +1,7 @@
 ---
 date: 2020/07/22
 layout: post
+permalink: /blog/july-22-2020-Federal-Crowdsourcing-Community-Responds-to-the-COVID-19-Emergency/
 title: Federal Crowdsourcing Community Responds to the COVID-19 Emergency
 tagline: Federal agencies and citizen-solvers heed the call to fight the spread
   of the disease through rapidly scaled open innovation programs
@@ -10,9 +11,7 @@ excerpt: Federal agencies and citizen-solvers alike have heeded the call to
   rapidly scaled open innovation programs.
 author: Pierce McManus
 image: /assets/netlify-uploads/gettyimages-1220844647.jpg
-image_alt_text: Frontline medical workers\
-permalink: /blog/july-22-2020-Federal-Crowdsourcing-Community-Responds-to-the-COVID-19-Emergency/
-redirect_to: https://www.usa.gov/blog
+image_alt_text: Frontline medical workers
 ---
 On January 31, 2020, the Secretary of Health and Human Services (HHS) declared a public health emergency for the entire United States to aid the nation’s healthcare community in responding to the 2019 novel coronavirus (COVID-19).
 
