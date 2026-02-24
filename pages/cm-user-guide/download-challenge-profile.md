@@ -1,7 +1,8 @@
 ---
-permalink: /cm-user-guide/download-challenge-profile/
 layout: page
 title: User Guide for Challenge Managers | Download Challenge Profile
+permalink: /cm-user-guide/download-challenge-profile/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions
 ---
 <div class="res-sec">
   <div class="grid-row ">

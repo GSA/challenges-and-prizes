@@ -1,7 +1,8 @@
 ---
-permalink: /cm-user-guide/send-bulletin-to-followers/
 layout: page
 title: User Guide for Challenge Managers | Send Bulletin to Followers
+permalink: /cm-user-guide/send-bulletin-to-followers/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions
 ---
 <div class="res-sec">
   <div class="grid-row ">

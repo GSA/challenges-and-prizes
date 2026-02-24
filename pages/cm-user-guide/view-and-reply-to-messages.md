@@ -1,7 +1,8 @@
 ---
-permalink: /cm-user-guide/view-and-reply-to-messages/
 layout: page
 title: User Guide for Challenge Managers | View and Reply to Messages
+permalink: /cm-user-guide/view-and-reply-to-messages/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions
 ---
 <div class="res-sec">
   <div class="grid-row ">

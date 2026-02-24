@@ -1,7 +1,8 @@
 ---
-permalink: /cm-user-guide/edit-announcement/
 layout: page
 title: User Guide for Challenge Managers | Edit Announcement
+permalink: /cm-user-guide/edit-announcement/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions
 ---
 <div class="res-sec">
   <div class="grid-row ">
