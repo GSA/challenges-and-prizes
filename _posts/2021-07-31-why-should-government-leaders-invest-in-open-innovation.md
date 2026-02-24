@@ -1,7 +1,6 @@
 ---
 date: 2021/07/31
 layout: post
-permalink: /blog/july-31-2021-why-should-government-leaders-invest-in-open-innovation/
 title: Why Should Government Leaders Invest in Open Innovation? 
 tagline: A podcast interview with Jarah Meador
 excerpt: Government leaders are seeing the benefits of building a culture of innovation within their agencies.
@@ -9,6 +8,8 @@ author: Quinn Slayton
 image: /assets/images/oi-podcast-sized.png
 post-body-content-uploads: /assets/images/oi-podcast-sized.png
 image_alt_text: A microphone, laptop, and headphones with the title line "Why Should Government Leaders Invest in Open Innovation?"
+permalink: /blog/july-31-2021-why-should-government-leaders-invest-in-open-innovation/
+redirect_to: https://www.usa.gov/blog
 ---
 
 Dr. Jarah Meador, Director of Open Innovation Programs, Challenge.Gov, and CitizenScience.Gov with the General Services Administration (GSA) appeared recently on the Uprisor Podcast. Uprisor focuses on the people driving open innovation, future of work practices, and crowdsourcing.
