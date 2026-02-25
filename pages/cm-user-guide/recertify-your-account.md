@@ -1,7 +1,8 @@
 ---
-permalink: /cm-user-guide/recertify-your-account/
 layout: page
 title: User Guide for Challenge Managers | Recertify Your Account
+permalink: /cm-user-guide/recertify-your-account/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions
 ---
 <div class="res-sec">
   <div class="grid-row ">

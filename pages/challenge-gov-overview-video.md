@@ -1,7 +1,8 @@
 ---
 layout: page
-permalink: /challenge-gov-overview-video/
 title: Challenge.Gov Overview Video
+permalink: /challenge-gov-overview-video/
+redirect_to: https://www.youtube.com/watch?v=pq1cKuM7Gpo
 ---
 
 # Challenge.Gov Overview Video

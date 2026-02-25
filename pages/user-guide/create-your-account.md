@@ -1,7 +1,8 @@
 ---
-permalink: /user-guide/create-your-account/
 layout: page
 title: User Guide for Public Solvers | Create Your Account
+permalink: /user-guide/create-your-account/
+redirect_to: https://www.usa.gov/innovation
 ---
 <div class="res-sec">
   <div class="grid-row ">

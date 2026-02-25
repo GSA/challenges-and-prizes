@@ -1,7 +1,8 @@
 ---
-permalink: /cm-user-guide/add-winner-information/
 layout: page
 title: User Guide for Challenge Managers | Add Winner Information
+permalink: /cm-user-guide/add-winner-information/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions
 ---
 <div class="res-sec">
   <div class="grid-row ">

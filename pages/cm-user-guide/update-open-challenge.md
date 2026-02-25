@@ -1,7 +1,8 @@
 ---
-permalink: /cm-user-guide/update-open-challenge/
 layout: page
 title: User Guide for Challenge Managers | Update Open Challenge
+permalink: /cm-user-guide/update-open-challenge/
+redirect_to: https://www.gsa.gov/technology/government-it-initiatives/prize-competitions
 ---
 <div class="res-sec">
   <div class="grid-row ">

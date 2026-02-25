@@ -1,7 +1,8 @@
 ---
-permalink: /user-guide/view-archived-challenges/
 layout: page
 title: User Guide for Public Solvers | View Archived Challenges
+permalink: /user-guide/view-archived-challenges/
+redirect_to: https://www.usa.gov/innovation
 ---
 <div class="res-sec">
   <div class="grid-row ">

@@ -1,7 +1,8 @@
 ---
 layout: page
-permalink: /about/
 title: About
+permalink: /about/
+redirect_to: https://www.usa.gov/about
 ---
 # About Challenge.Gov
 
