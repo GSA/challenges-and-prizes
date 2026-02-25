@@ -3,7 +3,7 @@ date: July 28, 2020
 title: Catching Up with a 2017 SUD Startup Challenge Winner
 tagline: Questions and Answers
 excerpt: We catch up with a past winner of the NIDA SUD Startup Challenge to learn more about their motivation to participate in the annual competition, what they learned from the experience and what advice they have for the latest crop of winners.
-author: Pierce McManus with Tim K. Mackey
+author: Pierce McManus
 layout: post
 image: /assets/netlify-uploads/1.png
 image_alt_text: winner Q&A header image
