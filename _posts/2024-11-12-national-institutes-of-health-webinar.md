@@ -9,6 +9,8 @@ author: Katherine Kempe
 image: /assets/images/NIH Webinar Event Banner Iconsets.png
 post-body-content-uploads: /assets/images/Challenge and Prize Community Office Hour Banner v2.png
 image_alt_text: White text on blue background Challenge.gov Challenge and Prize Community Office Hours Learn. Share. Connect.
+redirect_to: https://www.usa.gov/blog
+feed: false
 ---
 <p>Challenge.gov’s series, Federal Innovation Through Prize Competitions, explores how government agencies leverage prize competitions to engage the public, drive innovation, solve national problems, and advance critical technologies. The second webinar of our series featured the National Institutes of Health (NIH) and how the agency created the resources, guidance, and policy to implement game-changing prize competitions and challenges. Access the <a href="https://youtu.be/lI6_4m7E5dY?si=dAsfA6277J2YyVMw">event recording here.</a></p>
 <p>Taylor Gilliland – NIH Challenge Manager and Senior Advisor to the NIH Deputy Director for Program Coordination, Planning, and Strategic Initiatives – grounded the conversation in NIH’s mission to sustain advancements in the sciences and public health that ultimately lengthen life, enhance health, and reduce illness and disability. NIH is among the top three federal agencies on Challenge.gov in the number of prize competitions they run each year. Since 2011, NIH has run 130 prize competitions, with total prizes offered nearing $85 million. </p> 

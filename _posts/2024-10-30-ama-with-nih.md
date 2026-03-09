@@ -9,6 +9,8 @@ author: Quinn Slayton
 image: /assets/images/Challenge and Prize Community Office Hour Banner v2.png
 post-body-content-uploads: /assets/images/Challenge and Prize Community Office Hour Banner v2.png
 image_alt_text: White text on blue background Challenge.gov Challenge and Prize Community Office Hours Learn. Share. Connect.
+redirect_to: https://www.usa.gov/blog
+feed: false
 ---
 <p>At the Challenge and Prize Community Office Hours for October 2024, we held an Ask Me Anything (AMA) with a challenge lead from the National Institutes of Health (NIH). The Challenge.gov team recently hosted a webinar series on <a href="https://www.challenge.gov/events/">Federal Innovation Through Prize Competitions</a> with NIH. Missed the webinar? <a href="https://www.youtube.com/watch?v=lI6_4m7E5dY">View the webinar recording here</a>. </p>
 

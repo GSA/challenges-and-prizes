@@ -9,6 +9,7 @@ image: /assets/netlify-uploads/gettyimages-1220844647.jpg
 image_alt_text: Frontline medical workers
 permalink: /blog/july-22-2020-Federal-Crowdsourcing-Community-Responds-to-the-COVID-19-Emergency/
 redirect_to: https://www.usa.gov/blog
+feed: false
 ---
 
 On January 31, 2020, the Secretary of Health and Human Services (HHS) declared a public health emergency for the entire United States to aid the nation’s healthcare community in responding to the 2019 novel coronavirus (COVID-19).

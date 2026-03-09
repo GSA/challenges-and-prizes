@@ -10,6 +10,7 @@ card-image: /assets/netlify-uploads/blog-post-a-model-for-gov-cover-image.jpg
 image_alt_text: Concept of computer model on coronavirus impact
 permalink: /blog/2020/06/02/tracking-a-virus/
 redirect_to: https://www.usa.gov/blog
+feed: false
 ---
  
 Dr. Jeffrey Shaman and his Columbia University team work mostly from home these days.
