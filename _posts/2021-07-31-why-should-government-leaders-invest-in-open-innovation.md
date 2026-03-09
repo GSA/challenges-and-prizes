@@ -2,7 +2,7 @@
 date: 2021/07/31
 layout: post
 permalink: /blog/july-31-2021-why-should-government-leaders-invest-in-open-innovation/
-title: Why Should Government Leaders Invest in Open Innovation? 
+title: Why Should Government Leaders Invest in Open Innovation?
 tagline: A podcast interview with Jarah Meador
 excerpt: Government leaders are seeing the benefits of building a culture of innovation within their agencies.
 author: Quinn Slayton
@@ -10,7 +10,6 @@ image: /assets/images/oi-podcast-sized.png
 post-body-content-uploads: /assets/images/oi-podcast-sized.png
 image_alt_text: A microphone, laptop, and headphones with the title line "Why Should Government Leaders Invest in Open Innovation?"
 redirect_to: https://www.usa.gov/blog
-feed: false
 ---
 
 Dr. Jarah Meador, Director of Open Innovation Programs, Challenge.Gov, and CitizenScience.Gov with the General Services Administration (GSA) appeared recently on the Uprisor Podcast. Uprisor focuses on the people driving open innovation, future of work practices, and crowdsourcing.
@@ -31,6 +30,6 @@ According to Jarah, “We are seeing an increase in appetite for open innovation
 
 “Open innovation in government is a continuously growing field. We are going to see more exciting things happen down the road,” said Jarah.
 
-To learn more, [listen to the full episode](https://podcasts.apple.com/us/podcast/open-innovation-prize-competitions-across-government/id1522045679?i=1000505296377){:target="_blank"}. 
+To learn more, [listen to the full episode](https://podcasts.apple.com/us/podcast/open-innovation-prize-competitions-across-government/id1522045679?i=1000505296377){:target="\_blank"}.
 
 <p class="margin-bottom-0">If you’re a federal employee with a great idea or public solver who wants to share your expertise, the Challenge.Gov team is here to support you. Contact team@Challenge.Gov, sign up for our <strong><a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?qsp=USGSATTS_6" target="_blank">newsletter</a></strong>, or follow us on Facebook <strong><a href="https://www.facebook.com/ChallengeGov/" target="_blank">@ChallengeGov</a></strong>.</p>

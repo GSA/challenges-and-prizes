@@ -2,7 +2,7 @@
 date: June 02, 2020
 title: Tracking a Virus
 tagline: Federal agencies advance infectious disease modeling and forecasting with competitions
-excerpt: A prize competition advanced how the Centers for Disease Control and Prevention forecasts the timing, peak and intensity of the influenza virus. Today, those prize winners and others are working with the agency on operations forecasts and projections for COVID-19, the disease at the center of a global pandemic.  
+excerpt: A prize competition advanced how the Centers for Disease Control and Prevention forecasts the timing, peak and intensity of the influenza virus. Today, those prize winners and others are working with the agency on operations forecasts and projections for COVID-19, the disease at the center of a global pandemic.
 author: Tammy White
 layout: post
 image: /assets/netlify-uploads/blog-post-a-model-for-gov-cover-image.jpg
@@ -10,12 +10,11 @@ card-image: /assets/netlify-uploads/blog-post-a-model-for-gov-cover-image.jpg
 image_alt_text: Concept of computer model on coronavirus impact
 permalink: /blog/2020/06/02/tracking-a-virus/
 redirect_to: https://www.usa.gov/blog
-feed: false
 ---
- 
+
 Dr. Jeffrey Shaman and his Columbia University team work mostly from home these days.
 
-Shaman has spent nearly two decades studying the effects of atmospheric conditions on mosquitos and the illnesses they carry, such as St. Louis encephalitis and West Nile virus. 
+Shaman has spent nearly two decades studying the effects of atmospheric conditions on mosquitos and the illnesses they carry, such as St. Louis encephalitis and West Nile virus.
 
 But today, the New York-based professor is tracking another virus.
 
@@ -44,13 +43,13 @@ The challenge launched in 2013, and at the time, forecasting the spread of influ
 
 The competition allowed CDC to see which research groups were working in the space and to evaluate then-state-of-the-art concepts, he says.
 
-Just four years prior, the H1N1 influenza virus surged into a global pandemic. Between April 2009 and 2010, the CDC estimates the respiratory condition claimed the lives of 12,469 Americans and between 151,700 and 575,400 people around the world. 
+Just four years prior, the H1N1 influenza virus surged into a global pandemic. Between April 2009 and 2010, the CDC estimates the respiratory condition claimed the lives of 12,469 Americans and between 151,700 and 575,400 people around the world.
 
 H1N1's swift spread identified a critical gap—the ability to rapidly and accurately forecast the spread of illnesses and pandemics.
 
 "When the H1N1 pandemic struck in 2009," Shaman says, "infectious disease modeling was little understood outside of a few groups. It lacked the familiarity and profile to be appropriately applied" to decision-making on any major outbreak at the time.
 
-The CDC challenge changed that. 
+The CDC challenge changed that.
 
 "The challenge started to make people see what could be done," Shaman says. "These were elevating the profile and capacity, building up a new cadre of researchers in these arenas. There was a real advance over that time period and in the profile and integration of modeling into public health decision-making."
 
@@ -62,11 +61,11 @@ In fact, the CDC challenge opened the door for other competitions that followed,
 
 Prize-winning University of Arizona professors Joceline Lega and Heidi Brown won that challenge for developing a mathematical model that forecasts the chikungunya infection case counts as the disease emerged.
 
-The CHIKV competition operated on the premise that, if military and public health authorities could move beyond basic surveillance to accurately predict where and when a disease will appear, they could deploy supplies and launch educational campaigns well in advance. 
+The CHIKV competition operated on the premise that, if military and public health authorities could move beyond basic surveillance to accurately predict where and when a disease will appear, they could deploy supplies and launch educational campaigns well in advance.
 
 Best-case scenario: They could get out in front of the outbreak and stop it in its tracks.
 
-Lega now is participating in some of the same CDC calls as Shaman. With one of her graduate students, she is combining a version of the winning CHIKV Challenge model with data assimilation techniques to forecast COVID-19’s spread. 
+Lega now is participating in some of the same CDC calls as Shaman. With one of her graduate students, she is combining a version of the winning CHIKV Challenge model with data assimilation techniques to forecast COVID-19’s spread.
 
 “(Very) preliminary results show this new model is predicting COVID-19 case counts in the United States reasonably well,” she says.
 
@@ -76,9 +75,9 @@ A prize competition has a way of opening doors to new opportunities and joining 
 
 And that’s important, says Shaman, who encourages the interdisciplinary influx to unfold the science.
 
-"They’re going to have the facility and perspective that we’re going to need and want to capitalize on to help the field grow," Shaman says. 
+"They’re going to have the facility and perspective that we’re going to need and want to capitalize on to help the field grow," Shaman says.
 
-The number of rapidly spreading diseases over the past few decades shows the need, including the Zaire ebolavirus, Middle East Respiratory Syndrome (MERS), H1N1, chikungunya, West Nile and Zika, to say nothing of the Spanish flu and polio that riveted the globe in the first first half of the 20th century. 
+The number of rapidly spreading diseases over the past few decades shows the need, including the Zaire ebolavirus, Middle East Respiratory Syndrome (MERS), H1N1, chikungunya, West Nile and Zika, to say nothing of the Spanish flu and polio that riveted the globe in the first first half of the 20th century.
 
 <!-- "I’d definitely call this an emerging science, and I think there’s still a lot to do," Biggerstaff says. "Galvanizing this community through the [Predict the Flu Challenge] helped CDC lead this and put a stake in the ground that the agency thought this was an important area to invest in and be a part of." -->
 
