@@ -8,8 +8,10 @@ excerpt: A summary of September 2024 webinar on how the U.S. Department of Energ
 author: Katherine Kempe
 image: /assets/images/DOE Webinar Event Banner Iconsets v2.png
 post-body-content-uploads: /assets/images/DOE Webinar Event Banner Iconsets v2.png
-image_alt_text: White and orange text on blue background. Federal innovation through prize competitions. The US Department of Energy American-Made Program 
+image_alt_text: White and orange text on blue background. Federal innovation through prize competitions. The US Department of Energy American-Made Program
+redirect_to: https://www.usa.gov/blog
 ---
+
 <p>At Challenge.gov, our mission is to empower the federal government and the public to participate together in equitable forms of innovation through prize competitions. To highlight how government agencies leverage prize competitions to engage the public, drive innovation, solve national problems, and advance critical technologies, Challenge.gov hosted an <a href="https://youtu.be/2cY1zLHvQtU?si=BwIzAqfw8ynZpNCO">informational webinar</a> in September 2024 with the U.S. Department of Energy (DOE) American-Made Program. This session was the first in Challenge.gov’s series, Federal Innovation Through Prize Competitions. </p>
 
 <p>We heard from Anna Yee (Contractor at the U.S. Department of Energy Water Power Technologies) and Debbie Brodt-Giles (Program Manager and Strategic Advisor for the National Renewable Energy Laboratory's Joint Institute for Strategic Energy Analysis). Both speakers shared how prize competitions fit into DOE’s innovation strategy and the framework they use to implement them. Their presentations provided valuable insights for both members of the public seeking opportunities to contribute to energy innovations as well as employees of other federal agencies interested in successfully implementing prize competitions.</p>
@@ -23,4 +25,3 @@ image_alt_text: White and orange text on blue background. Federal innovation thr
 <p>Through the American-Made Program, offices at DOE have access to the experience and infrastructure to design and run a prize competition. With these resources, DOE can inspire the next generation of scientists, engineers, and entrepreneurs to advance new thinking in the energy sector.</p>
 
 <p>For the rest of the series, Federal Innovation Through Prize Competitions, Challenge.gov is hosting conversations with the National Institutes of Health, the U.S. Agency for International Development, and the National Aeronautics and Space Administration. Through this webinar series the audience will learn of approaches that different federal agencies are using to implement prize competitions as part of their innovation strategy. The series offers valuable lessons for other federal innovation implementers and illustrates the opportunity for members of the public to innovate alongside the federal government. Learn more about these events at <a href="https://www.challenge.gov/events/">Challenge.gov/events</a>.</p>
-
