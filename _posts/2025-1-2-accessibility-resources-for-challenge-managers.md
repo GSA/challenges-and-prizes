@@ -9,7 +9,9 @@ author: Quinn Slayton
 image: /assets/images/Challenge and Prize Community Office Hour Banner v2.png
 post-body-content-uploads: /assets/images/Challenge and Prize Community Office Hour Banner v2.png
 image_alt_text: White text on blue background Challenge.gov Challenge and Prize Community Office Hours Learn. Share. Connect.
+redirect_to: https://www.usa.gov/blog
 ---
+
 <p>At the Challenge and Prize Community Office Hours in November 2024, we took a deep dive on the ins and outs of open innovation at the U.S. Agency for International Development (USAID).  Ike Singletary II and Cassie Hoffman, challenge leaders from USAID, participated in an Ask Me Anything (AMA) to share about the implementation and structures USAID uses to run successful prize competitions.</p>
 
 <p>The AMA session was a special federal-only follow-up conversation to Challenge.gov’s webinar series on <a href="https://www.challenge.gov/events/">Federal Innovation Through Prize Competitions</a> with USAID. Challenge.gov hosted similar conversations with NASA, NIH, and DOE. You can <a href="https://www.youtube.com/playlist?list=PLhDR-OyaYKJotKNzVIgEgLV8s8-NlKD2S">watch the recordings</a> on Challenge.gov’s YouTube channel. We invited the USAID team to Office Hours to connect with the federal community and answer questions about their unique approach to federal prize challenges.</p>
@@ -23,6 +25,4 @@ image_alt_text: White text on blue background Challenge.gov Challenge and Prize 
 </p>
 <p>What are your go-to accessibility resources? Come to the next Office Hours and share with the community.</p>
 
-
 <p><em>Office Hours are for Federal challenge managers, the Challenge & Prize Community of Practice, and other federal employees interested in learning more about prize competitions. They are held on the 4th Wednesday of the month at 12 pm ET via Zoom.gov. <a href="https://gsa.zoomgov.com/meeting/register/vJIscOuurjkuGRsY2rziMZDcn5cGAVax8XM#/registration">Register here.</a></em></p>
-
